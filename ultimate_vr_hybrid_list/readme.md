@@ -1,4 +1,3 @@
-# The Ultimate VR Hybrid List
 For the most Up To Date version of his ReadMe go [here](https://docs.google.com/document/d/1M-R9QlggTQgiMfeeMfOy5MlGKuVInDF_wPqs7-q6hrU)
 
 ## IMPORTANT NOTE REGARDING USSEP 4.1.2a
