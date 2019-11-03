@@ -1,4 +1,4 @@
-### Documentation and Instructions for Installer Version 1.5
+### Documentation and Instructions for Installer Version 1.5.1
 
 ![](https://i.imgur.com/x2cTQfe.jpg)
 
@@ -22,7 +22,7 @@ There are some caveats however:
 ### Using the Wabbajack Autoinstaller
 
 1. **Download** the unofficial Bevilex installer from [here](https://drive.google.com/open?id=1mg2DcvvkKE71wRApTPDpE1VTzlhT0W31). Download the **1.0 Alpha 2** version of Wabbajack from the [Wabbajack Github](https://github.com/wabbajack-tools/wabbajack/releases/tag/20191015.6).
-2. **Extract the .modlist_v2 and Wabbajack.exe** files to a new directory called **Wabbajack**, as close to the root of your drive as possible (e.g. C:\Wabbajack). 
+2. **Extract the .modlist_v2 and Wabbajack.exe** files to a new directory called **Wabbajack**, as close to the root of your drive as possible (e.g. C:\Wabbajack).
 3. **Create a new folder** for the new installation, and call it **Bevilex** - again place it close to the root of your drive, but not within the Wabbajack folder (this can cause errors). Ensure you have at least 51GB of hard drive space. (Deleting the downloads after installation will reduce the setup size to 33GB).
 4. **Launch Wabbajack.exe** from within the Wabbajack folder.
     1. Select the **Install Modlist** option, and select the downloaded **Bevilex.modlist_v2** file in the Wabbajack folder.
@@ -32,17 +32,50 @@ There are some caveats however:
     5. Wabbajack will now download and install the mods specified in the installer. The download size is approximately 18GB so this may take a little while. The installer should keep you informed of progress.
     6. After the **installation complete** message appears, close the installer.
 
-### Post Installation Tweaks ###
+### Post Installation Tweaks: Running BOSS with User Rules
 1. Within the Bevilex folder, copy the contents of the **Game Folder Files** folder to your root Oblivion directory (e.g. C:\Steam\steamapps\common\Oblivion for Steam installs).
-2. _**If you purchased Oblivion using GOG, skip this step**_. Otherwise, within the Bevilex folder, go to **tools/Oblivion RAM Optimization** and run **4gb patch.exe**. Target both the **Oblivion.exe** and **OblivionLauncher.exe** executables in your root Oblivion directory to improve the memory that can be allocated to their processes.
-3. Run **ModOrganizer.exe** in the Bevilex folder. If prompted to choose between a standard or portable installation **please ensure you select portable.** If it asks if you would like to use profile-specific INIs, hit **Yes.**
+3. Run **ModOrganizer.exe** in the Bevilex MO2 folder.
 4. Select **BOSS** from the **executable dropdown** in MO2 and hit **Run**. The BOSS GUI will appear over the top of MO2. Hit **Run BOSS** without changing any of the settings. It will now take some time to download the latest masterlist, if it hasn't done so already. (This occasionally fails - if this happens, don’t worry, just try again and you should get the update eventually). After, it will sort your plugins and output an HTML log when completed.
 5. Download the **userlist.txt** file from [here](https://drive.google.com/open?id=1YMnIIi1illJe7TeQdkRvX64FbfzmsiwU), cut to  **tools/BOSS/bin/Release-64/oblivion** and overwrite any existing file there.
 6. Repeat step 5, using BOSS to sort your load order with the newly applied user rules. If this has been done correctly, **Bashed Patch, 0.esp** should be **at the bottom** of your load order.
-7. **_ONLY If you have the standard GOTY version of Oblivion (i.e. just KotN and SI, and not the smaller plugins):_** ensure that you disable the **Unofficial Oblivion DLC Patches** mod in the left pane. You will need to regenerate your Bashed Patch by following steps 4-8 in the **Installing Additional Mods (Optional)** section.
-8. Select either the **Bevilex** or **Bevilex Extended** profile to play with. (You can change this at any time).
-9. Finally, to play the game, select **Oblivion** in the MO2 **executable** **dropdown** and hit **Run.** If you encounter an application error and use Steam, make sure Steam is running in the background and try again. After playing and closing the game, click on the **Overwrite** panel at the bottom of the mods pane and drag and drop the OBSE log files into the empty ‘OBSE Logs’ mod. This ensures any logs generated on successive plays will be stored here and will not produce a warning.
-10. If at any time you want to switch profiles, simply select the profile from the dropdown menu.
+
+### Special Installation Steps
+
+##### _Steam and Retail Users_
+
+Only applicable if you have a Steam or retail copy of Oblivion. GOG users can skip this step.
+
+* Within the Bevilex MO2 folder, go to **tools/Oblivion RAM Optimization** and run **4gb patch.exe**.
+* Target both the **Oblivion.exe** and **OblivionLauncher.exe** executables in your root Oblivion directory. Both executables will now have been patched to improve the memory that can be allocated to their processes.
+##### _Special Installation Step: Standard GOTY Users_
+
+Only applicable if you have the standard GOTY version of Oblivion (i.e. just KotN and SI, and not the smaller plugins).
+
+* Disable the **Unofficial Oblivion DLC Patches** mod in the left pane.
+
+##### _Special Installation Step: Ultra Widescreen Users_
+
+Only applicable if you use a monitor with resolution greater than 1920x1080.
+
+* Open the **INI Editor in MO2** (jigsaw/puzzle icon on the top bar).
+* Under **[Display]**, change **iSizeW** and **iSizeH** to match your resolution. For example, for 1440p, iSizeW=3440 and iSizeH=1440.
+* Download the **Ultra Widescreen Fix for Bevilex** from [here](https://drive.google.com/open?id=1dnWbrmT_zcIESIqmLWMVSzHaEdQgkCs8) and install through MO2, placing it in the **Install Specific Tweaks** section.
+* Download the **Black Rectangle Ultrawide Fix** from [here](https://www.nexusmods.com/oblivion/mods/48351), and install through MO2, placing it in the **Install Specific Tweaks** section.
+
+### Post Installation Tweaks: Creating a Wrye Bash Bashed Patch
+
+1. Select **Wrye Bash** from the in MO2 and hit **Run**. If prompted for a game choice, select **Oblivion**.
+2. Within the Wrye Bash interface, right click the plugin right at the bottom (**Bashed Patch 0.esp**) and click **Rebuild Patch**.
+3. In the following interface, make sure that **Tweak Assorted -> DarNify Books** is ticked, and **Tweak Settings -> Arrow Speed is x2.0** (if it is not, the speed can be changed by right clicking the tweak).
+4. Hit **Build Patch**. This will take a few minutes, and produce a popup log when complete. Close Wrye Bash.
+5. Back in MO2, right click the **Overwrite** panel at the bottom of the mods pane and select **Create mod**. Call it **Bashed Patch**, place it in the **Install Specific Tweaks** section, and ensure it is enabled after installation.
+
+### Running the Game
+
+1. Select either the **Bevilex** or **Bevilex Extended** profile to play with, using the profile dropdown in MO2. The first profile is the standard Bevilex setup based on Bevilex's guide. The second profile is an enhanced profile offering improved visuals and additional tools. You can change profiles at any time).
+2. To play the game, select **Oblivion** in the MO2 **executable** **dropdown** and hit **Run.** If you encounter an application error and use Steam, make sure Steam is running in the background and try again.
+3. After playing and closing the game, click on the **Overwrite** panel at the bottom of the mods pane and drag and drop the OBSE log files into the empty ‘OBSE Logs’ mod. This ensures any logs generated on successive plays will be stored here and will not produce a warning.
+4. You're ready to go! Check the optional steps below if you would like to further enhance your experience.
 
 ## Optional Post Installation Steps
 
