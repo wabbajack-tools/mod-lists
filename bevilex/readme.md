@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/x2cTQfe.jpg)
 
-**NOTE**: As with all Wabbajack installers, a Nexus premium account is required in order to use the premium API for downloads. Additionally, since this is an unofficial attempt to automate the Bevilex guide, PLEASE only direct support queries to the unofficial bevilex modlist development channel in the Wabbajack [discord](https://discord.gg/WnyMdj). To view the channel, go to **#welcome** and follow the instructions, selecting Oblivion as a game choice.
+**NOTE**: As with all Wabbajack installers, a Nexus premium account is required in order to use the premium API for downloads. Additionally, since this is an unofficial attempt to automate the Bevilex guide, PLEASE only direct support queries to the unofficial bevilex modlist development channel in the [Wabbajack discord](https://discord.gg/WnyMdj). To view the channel, go to **#welcome** and follow the instructions, selecting Oblivion as a game choice.
 
 **Welcome!** The goal of this autoinstaller is to provide a stable, comprehensive graphics overhaul for Oblivion through an automated installation of Bevilex’s [excellent graphics guide](https://www.nexusmods.com/oblivion/mods/47591). The results bring Oblivion close to modern visuals - complete with HD textures, revamped UIs, ENB, shader packages and much more.
 
