@@ -2,9 +2,9 @@
 
 ![](https://i.imgur.com/x2cTQfe.jpg)
 
-**NOTE**: As with all Wabbajack installers, a Nexus premium account is required in order to use the premium API for downloads. Additionally, since this is an unofficial attempt to automate the Bevilex guide, PLEASE only direct support queries to the unofficial bevilex modlist development channel in the Wabbajack discord: [https://discord.gg/WnyMdj](https://discord.gg/WnyMdj). To view the channel, go to **#welcome** and follow the instructions, selecting Oblivion as a game choice.
+**NOTE**: As with all Wabbajack installers, a Nexus premium account is required in order to use the premium API for downloads. Additionally, since this is an unofficial attempt to automate the Bevilex guide, PLEASE only direct support queries to the unofficial bevilex modlist development channel in the Wabbajack discord: [discord](https://discord.gg/WnyMdj). To view the channel, go to **#welcome** and follow the instructions, selecting Oblivion as a game choice.
 
-**Welcome!** The goal of this autoinstaller is to provide a stable, comprehensive graphics overhaul for Oblivion through an automated installation of Bevilex’s excellent graphics guide: [https://www.nexusmods.com/oblivion/mods/47591](https://www.nexusmods.com/oblivion/mods/47591). The results bring Oblivion close to modern visuals - complete with HD textures, revamped UIs, ENB, shader packages and much more.
+**Welcome!** The goal of this autoinstaller is to provide a stable, comprehensive graphics overhaul for Oblivion through an automated installation of Bevilex’s [excellent graphics guide](https://www.nexusmods.com/oblivion/mods/47591). The results bring Oblivion close to modern visuals - complete with HD textures, revamped UIs, ENB, shader packages and much more.
 
 There are some caveats however:
 
@@ -21,16 +21,13 @@ There are some caveats however:
 
 ### Using the Wabbajack Autoinstaller
 
-1. **Download** the unofficial Bevilex installer from [here](https://drive.google.com/open?id=1mg2DcvvkKE71wRApTPDpE1VTzlhT0W31). Download the **1.0 Alpha 2** version of Wabbajack from the [Wabbajack Github](https://github.com/wabbajack-tools/wabbajack/releases/tag/20191015.6).
-2. **Extract the .modlist_v2 and Wabbajack.exe** files to a new directory called **Wabbajack**, as close to the root of your drive as possible (e.g. C:\Wabbajack).
-3. **Create a new folder** for the new installation, and call it **Bevilex** - again place it close to the root of your drive, but not within the Wabbajack folder (this can cause errors). Ensure you have at least 51GB of hard drive space. (Deleting the downloads after installation will reduce the setup size to 33GB).
-4. **Launch Wabbajack.exe** from within the Wabbajack folder.
-    1. Select the **Install Modlist** option, and select the downloaded **Bevilex.modlist_v2** file in the Wabbajack folder.
-    2. Under MO2 Location, **select the Bevilex folder**. Leave the Download Location to autofill to Bevilex\downloads.
-    3. Click **Begin**.
-    4. Wabbajack will open a browser and ask for Nexus authorisation. Log in if necessary and then hit **Authorise.** (_If you get an error on authorisation, download and install [.Net Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48) and run the installer again_)
-    5. Wabbajack will now download and install the mods specified in the installer. The download size is approximately 18GB so this may take a little while. The installer should keep you informed of progress.
-    6. After the **installation complete** message appears, close the installer.
+1. **Download** the **1.0 Alpha 5** version of Wabbajack from the [Wabbajack Github](https://github.com/wabbajack-tools/wabbajack/releases/tag/20191015.6), and **extract the Wabbajack.exe** file to a new directory called **Wabbajack**, as close to the root of your drive as possible (e.g. C:\Wabbajack).
+2. **Create a new folder** for the new installation, and call it **Bevilex** - again place it close to the root of your drive, but not within the Wabbajack folder (this can cause errors). Ensure you have at least 51GB of hard drive space. (Deleting the downloads after installation will reduce the setup size to 33GB).
+3. **Launch Wabbajack.exe** from within the Wabbajack folder. Select the **Unofficial Bevilex** modlist, and then hit **Download and Install** to download the modlist file. Alternatively, the modlist can be downloaded manually from this page. If installing manually, place the modlist file in the Wabbajack directory, and select **Install from Disk**.
+4. Under MO2 Location, **select the Bevilex folder** you created in step 2. Set the Download Location to Bevilex\downloads. Click **Begin**.
+5. Wabbajack will open a browser and ask for Nexus authorisation. Log in if necessary and then hit **Authorise.** (_If you get an error on authorisation, download and install [.Net Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48) and run the installer again_)
+6. Wabbajack will now download and install the mods specified in the installer. The download size is approximately 18GB so this may take a little while. The installer should keep you informed of progress.
+7. After the **installation complete** message appears, close the installer.
 
 ### Post Installation Tweaks: Running BOSS with User Rules
 1. Within the Bevilex folder, copy the contents of the **Game Folder Files** folder to your root Oblivion directory (e.g. C:\Steam\steamapps\common\Oblivion for Steam installs).
@@ -47,6 +44,7 @@ Only applicable if you have a Steam or retail copy of Oblivion. GOG users can sk
 
 * Within the Bevilex MO2 folder, go to **tools/Oblivion RAM Optimization** and run **4gb patch.exe**.
 * Target both the **Oblivion.exe** and **OblivionLauncher.exe** executables in your root Oblivion directory. Both executables will now have been patched to improve the memory that can be allocated to their processes.
+
 ##### _Special Installation Step: Standard GOTY Users_
 
 Only applicable if you have the standard GOTY version of Oblivion (i.e. just KotN and SI, and not the smaller plugins).
@@ -133,11 +131,13 @@ The Bevilex guide only overhauls visuals and stability, leaving plenty of room f
 3. Select **BOSS** from the executable dropdown in MO2 and hit **Run**. The BOSS GUI will appear over the top of MO2. Hit **Run BOSS**. It will sort your plugins and output an HTML log when completed. Close BOSS. Back in MO2, the ESPs from your new mod(s) will now be in their correct load order positions in the plugins pane.
 4. In the mods pane, find the **Bashed Patch** mod for your currently enabled profile and **remove it**.
 5. Ensure that there are **no files in your MO2/overwrite folder** (move any OBSE logs that may be there to the OBSE Logs mod).
-6. Select **Wrye Bash** from the in MO2 and hit **Run**. If prompted for a game choice, select **Oblivion**. Within the Wrye Bash interface, right click the plugin right at the bottom (**Bashed Patch 0.esp**) and click **Rebuild Patch**. In the following interface, make sure that **Tweak Assorted -> DarNify Books** is ticked, and then hit **Build Patch**. This will take a few minutes, and produce a popup log when complete. Close Wrye Bash.
-7. Back in MO2, right click the **Overwrite** panel at the bottom of the mods pane and select **Create mod**. Call it **Bashed Patch**, and ensure it is enabled after installation.
-8. Done! Run the game as usual by selecting and running Oblivion from the dropdown menu.
+6. Select **Wrye Bash** from the in MO2 and hit **Run**. If prompted for a game choice, select **Oblivion**. 
+7. Within the Wrye Bash interface, right click the plugin right at the bottom (**Bashed Patch 0.esp**) and click **Rebuild Patch**. 
+8. In the following interface, make sure that **Tweak Assorted -> DarNify Books** and **Tweak Settings -> Arrow Speed is x2.0** is ticked (if it is not, the speed can be changed by right clicking the tweak). is ticked, and then hit **Build Patch**. This will take a few minutes, and produce a popup log when complete. Close Wrye Bash.
+9. Back in MO2, right click the **Overwrite** panel at the bottom of the mods pane and select **Create mod**. Call it **Bashed Patch**, and ensure it is enabled after installation.
+10. Done! Run the game as usual by selecting and running Oblivion from the dropdown menu.
 
-**Setting Core Affinity to improve performance (Optional, courtesy of Aerialvas)**
+### Setting Core Affinity to improve performance (Optional, courtesy of Aerialvas)
 
 Oblivion is only designed to run on the first two cores of a PC, but by default, the operating system will attempt to use all cores. By manually setting Oblivion to use just the first two cores, you can achieve a significant performance boost in game.
 
@@ -149,6 +149,19 @@ Oblivion is only designed to run on the first two cores of a PC, but by default,
 
 ![](https://i.imgur.com/eAxxcKs.png)
 
+### Decompressing Vanilla Game BSAs
+Courtesy of Zilav:
+
+_"Back when Oblivion was released in 2006 for old generation consoles the overall size occupied by the game mattered so vanilla BSA archives use zlib compression to reduce overall assets size on the disk. However assets need to be decompressed by the game on the go which takes extra time leading to longer loading times and additional stutter when moving in exterior worldspaces while cells being loaded in background._
+
+_BSA Decompressor recreates BSA archives without zlib compression so the game is limited only by your hardware disk system performance. All vanilla assets remain in uncompressed BSA archives."_
+
+1. In MO2, find the **Unofficial Shivering Isles Patch** in the mods pane, and right click **Open in Explorer**. Cut **DLCShiveringIsles - Faces.bsa** to the Data folder in your Oblivion game directory.
+2. Close MO2 and go to Bevilex/tools/Oblivion BSA Decompressor. **Run Oblivion BSA Decompressor.exe**.
+3. Select **Decompress**, then close the tool once it has finished. Your vanilla BSA files will now be decompressed.
+4. Cut **DLCShiveringIsles - Faces.bsa** back to Bevilex/mods/Unofficial Shivering Isles Patch. 
+
+![](https://i.imgur.com/Nhfq9jN.png)
 
 ## Extra Notes
 
