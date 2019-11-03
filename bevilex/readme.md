@@ -75,7 +75,7 @@ Only applicable if you use a monitor with resolution greater than 1920x1080.
 3. After playing and closing the game, click on the **Overwrite** panel at the bottom of the mods pane and drag and drop the OBSE log files into the empty ‘OBSE Logs’ mod. This ensures any logs generated on successive plays will be stored here and will not produce a warning.
 4. You're ready to go! Check the optional steps below if you would like to further enhance your experience.
 
-## Optional Post Installation Steps
+## Optional Post Installation Instructions
 
 ### Installing Missing Mods
 
