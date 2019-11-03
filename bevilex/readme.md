@@ -1,7 +1,5 @@
 ### Documentation and Instructions for Installer Version 1.5.1
 
-![](https://i.imgur.com/x2cTQfe.jpg)
-
 **NOTE**: As with all Wabbajack installers, a Nexus premium account is required in order to use the premium API for downloads. Additionally, since this is an unofficial attempt to automate the Bevilex guide, PLEASE only direct support queries to the unofficial bevilex modlist development channel in the [Wabbajack discord](https://discord.gg/WnyMdj). To view the channel, go to **#welcome** and follow the instructions, selecting Oblivion as a game choice.
 
 **Welcome!** The goal of this autoinstaller is to provide a stable, comprehensive graphics overhaul for Oblivion through an automated installation of Bevilex’s [excellent graphics guide](https://www.nexusmods.com/oblivion/mods/47591). The results bring Oblivion close to modern visuals - complete with HD textures, revamped UIs, ENB, shader packages and much more.
@@ -45,13 +43,13 @@ Only applicable if you have a Steam or retail copy of Oblivion. GOG users can sk
 * Within the Bevilex MO2 folder, go to **tools/Oblivion RAM Optimization** and run **4gb patch.exe**.
 * Target both the **Oblivion.exe** and **OblivionLauncher.exe** executables in your root Oblivion directory. Both executables will now have been patched to improve the memory that can be allocated to their processes.
 
-##### _Special Installation Step: Standard GOTY Users_
+##### _Standard GOTY Users_
 
 Only applicable if you have the standard GOTY version of Oblivion (i.e. just KotN and SI, and not the smaller plugins).
 
 * Disable the **Unofficial Oblivion DLC Patches** mod in the left pane.
 
-##### _Special Installation Step: Ultra Widescreen Users_
+##### _Ultra Widescreen Users_
 
 Only applicable if you use a monitor with resolution greater than 1920x1080.
 
