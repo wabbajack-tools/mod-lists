@@ -45,13 +45,13 @@ Only applicable if you have a Steam or retail copy of Oblivion. GOG users can sk
 * Within the Bevilex MO2 folder, go to **tools/Oblivion RAM Optimization** and run **4gb patch.exe**.
 * Target both the **Oblivion.exe** and **OblivionLauncher.exe** executables in your root Oblivion directory. Both executables will now have been patched to improve the memory that can be allocated to their processes.
 
-##### _Special Installation Step: Standard GOTY Users_
+##### _Standard GOTY Users_
 
 Only applicable if you have the standard GOTY version of Oblivion (i.e. just KotN and SI, and not the smaller plugins).
 
 * Disable the **Unofficial Oblivion DLC Patches** mod in the left pane.
 
-##### _Special Installation Step: Ultra Widescreen Users_
+##### _Ultra Widescreen Users_
 
 Only applicable if you use a monitor with resolution greater than 1920x1080.
 
