@@ -137,7 +137,7 @@ The Bevilex guide only overhauls visuals and stability, leaving plenty of room f
 9. Back in MO2, right click the **Overwrite** panel at the bottom of the mods pane and select **Create mod**. Call it **Bashed Patch**, and ensure it is enabled after installation.
 10. Done! Run the game as usual by selecting and running Oblivion from the dropdown menu.
 
-### Setting Core Affinity to improve performance (Optional, courtesy of Aerialvas)
+### Setting Core Affinity to improve performance (courtesy of Aerialvas)
 
 Oblivion is only designed to run on the first two cores of a PC, but by default, the operating system will attempt to use all cores. By manually setting Oblivion to use just the first two cores, you can achieve a significant performance boost in game.
 
