@@ -28,13 +28,17 @@ Your game will be much less recognizable and very tough, especially at early lev
 
 ## Installing with Wabbajack:
 
+### Step 0:
+
+Create a new folder named 'F4EE' anywhere outside of Program Files. Then, download Wabbajack and select Fallout 4 Enhanced Edition from the list of modlists shown, and install it.
+
 ### Step 1:
 
 After it finishes, go to your install folder, and open up the 'Game Folder Files' and Copy these all into your Fallout 4 Directory.
 
 ### Step 2:
 
-Download the latest ENB files from here. In the archive you download, go into the folder ‘Wrapper Version’ and copy only d3d11.dll and d3dcompiler_46e.dll to your Fallout 4 directory.
+Download the latest ENB files from [here](http://enbdev.com/download_mod_fallout4.htm). In the archive you download, go into the folder ‘Wrapper Version’ and copy only d3d11.dll and d3dcompiler_46e.dll to your Fallout 4 directory.
 
 ### Step 3:
 
@@ -42,7 +46,25 @@ Go back to your install folder. In a folder named WorkBase, create 2 folders cal
 
 ### Step 4:
 
-Then, go to your Fallout4/Data folder, Cut or Copy (Depending on how much space you have) these 15 files:  'Fallout4 - Textures1.ba2', 'Fallout4 - Textures2.ba2', 'Fallout4 - Textures3.ba2', 'Fallout4 - Textures4.ba2', 'Fallout4 - Textures5.ba2', 'Fallout4 - Textures6.ba2', 'Fallout4 - Textures7.ba2', 'Fallout4 - Textures8.ba2', 'Fallout4 - Textures9.ba2', 'DLCworkshop01 - Textures.ba2', 'DLCworkshop02 - Textures.ba2', 'DLCworkshop03 - Textures.ba2', 'DLCRobot - Textures.ba2', 'DLCCoast - Textures.ba2', 'DLCNukaWorld - Textures.ba2'. Paste these files into your <install folder>/WorkBase/OriginalBa2 folder.
+Then, go to your Fallout4/Data folder, Cut or Copy (Depending on how much space you have) these 15 files:  
+
+* Fallout4 - Textures1.ba2 
+* Fallout4 - Textures2.ba2 
+* Fallout4 - Textures3.ba2 
+* Fallout4 - Textures4.ba2 
+* Fallout4 - Textures5.ba2 
+* Fallout4 - Textures6.ba2 
+* Fallout4 - Textures7.ba2 
+* Fallout4 - Textures8.ba2 
+* Fallout4 - Textures9.ba2 
+* DLCworkshop01 - Textures.ba2 
+* DLCworkshop02 - Textures.ba2 
+* DLCworkshop03 - Textures.ba2 
+* DLCRobot - Textures.ba2 
+* DLCCoast - Textures.ba2 
+* DLCNukaWorld - Textures.ba2
+
+Paste these files into your <install folder>/WorkBase/OriginalBa2 folder.
 
 ### Step 5:
 
@@ -54,8 +76,14 @@ Launch MO2 from the exe found in your install folder. When it launches, be sure 
 
 ### Step 7:
 
-In MO2, select FO4Config, and hit the Run button. When opened, direct it to your Fallout4.exe location. After this is done, follow these pictures and instructions --->  Click Here﻿. Just make sure to copy those images, and you will be good. After that is done, be sure to click 'Save' and close the program.
+In MO2, select FO4Config, and hit the Run button. When opened, direct it to your Fallout4.exe location. After this is done, follow these pictures and instructions --->  [Click Here](https://imgur.com/a/0On3H1o). Just make sure to copy those images, and you will be good. After that is done, be sure to click 'Save' and close the program.
 
 ### Step 8:
 
-Follow any Optional Additional Mods steps that you would like. Launch the game using F4SE (located in the top right of MO2), and follow the New Game steps on the Nexus Page.
+Follow any Optional Additional Mods steps on the [Nexus F4EE page](https://www.nexusmods.com/fallout4/mods/39996) that you feel like using. These mods are officially okay to add on top of F4EE. Launch the game using F4SE (located in the top right of MO2).
+
+### Step 9:
+
+After creating your character, you should configure the MCM menus found at the top of your pause menu. Follow [these pictures](https://imgur.com/a/sTVhaFd) and you will be good! After getting the Pipboy, make sure to load both the True Storms Config and Beantown Interiors holotapes, then follow the final images in the link above to finish your config!
+
+You're done! Have fun, and feel free to join my [Discord](https://discord.gg/g4r3pcP) or the Wabbajack Discord server to see what I am working on next or if you have suggestions or anything! I will also be doing my best to support users on this Nexus page, so you can contact me there too! I hope you enjoy your experience!
