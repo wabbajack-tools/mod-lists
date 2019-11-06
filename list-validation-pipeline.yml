@@ -32,9 +32,8 @@ steps:
   clean: true
   submodules: true
 
-- task: Bash@3
+- task: CmdLine@2
   inputs:
-    targetType: 'inline'
     script: 'git clone https://github.com/wabbajack-tools/wabbajack .'
   
 - task: NuGetToolInstaller@1
