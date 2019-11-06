@@ -35,7 +35,7 @@ steps:
 - task: Bash@3
   inputs:
     targetType: 'inline'
-    script: 'git clone https://github.com/wabbajack-tools/wabbajack'
+    script: 'git clone https://github.com/wabbajack-tools/wabbajack .'
   
 - task: NuGetToolInstaller@1
 
