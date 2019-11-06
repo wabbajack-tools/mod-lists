@@ -28,9 +28,14 @@ variables:
   value: 'Debug'
 
 steps:
-- checkout: self
+- checkout: none
   clean: true
   submodules: true
+
+- task: Bash@3
+  inputs:
+    targetType: 'inline'
+    script: 'git clone https://github.com/wabbajack-tools/wabbajack'
   
 - task: NuGetToolInstaller@1
 
