@@ -34,7 +34,7 @@ steps:
 
 - task: CmdLine@2
   inputs:
-    script: 'git clone https://github.com/wabbajack-tools/wabbajack .'
+    script: 'git clone https://github.com/wabbajack-tools/wabbajack'
   
 - task: NuGetToolInstaller@1
 
