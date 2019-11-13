@@ -10,19 +10,18 @@ Better graphics, tons of new weapons and armor, plenty of extra content, and imp
   *Current build version of Wabbajack. This can be found on the Wabbajack Discord linked above.
   *Clean install of Fallout 4, without HD DLC.
   *Nexus Premium.
-  *101.1 gigs of free space. Note that this number does NOT include your Fallout 4 installation.
+  *101 gigs of free space. Note that this number does NOT include your Fallout 4 installation.
 
 #### **_Installation Instructions:_**
 
 1. Download the latest version of Wabbajack (Alpha 5 at the time of this writing).
 2. Create a new folder at the root of a drive (Example: D:\Wabbajack).
 3. Place the Wabbajack.exe into this new folder.
-4. Download the newest BananaSplit v2-1.wabbajack file from the Wabbajack Discord.
-5. Place the modlist file into the Wabbajack folder, next to the Wabbajack.exe file.
-6. Launch Wabbajack.exe
+4. Download the newest BananaSplit v2.1.2.wabbajack file from the Wabbajack Discord, or install directly from the Wabbajack User Interface.
+5. Place the modlist file into the Wabbajack folder, next to the Wabbajack.exe file. Skip this step if installing directly from the Wabbajack User Interface.
+6. Launch Wabbajack.exe. If you are installing directly from the Wabbajack User Interface, please skip to Step 9.
 7. Select “Install a Modlist”
-  *You can also select the _Banana Split_ modlist directory from the Featured Modlists section if available. If so, skip to Step 9.
-8. Choose the BananaSplit v2-1.wabbajack file you just downloaded.
+8. Choose the BananaSplit v2.1.2.wabbajack file you just downloaded.
 9. In “Installation Location” choose a blank folder at the root of a drive (example: D:\Banana Split).
 10. The “Download Location” will update automatically.
 11. Click Begin.
@@ -39,7 +38,7 @@ Better graphics, tons of new weapons and armor, plenty of extra content, and imp
 6. Paste them into your Fallout 4 directory (steam/steamapps/common/Fallout 4).
 7. Navigate back to your Banana Split installation folder.
 8. Open “Game Folder Files”
-9. Select the enbseries and Mopy folders, as well as all loose files.
+9. Select everything in this folder.
 10. Right click > Copy.
 11. Navigate to your Fallout 4 game installation folder.
 12. Right click > Paste.
@@ -130,5 +129,5 @@ Workshop Framework
 -Mod Compatibility  
 -Enable Inside Jobs  
 
-For a full list of mods included in Banana Split, please have a look though [this handy google doc](https://docs.google.com/document/d/1TDtANff9fa5fB6f-jzW3JBXt07nDB2iYhz9Og9CDdEo/edit)
+For a full list of mods included in Banana Split, please have a look though [this handy google doc](https://docs.google.com/document/d/1TDtANff9fa5fB6f-jzW3JBXt07nDB2iYhz9Og9CDdEo/edit)  
   All mods are listed at the bottom of the page, categorized in the same order in which Wabbajack will install them for you.  
