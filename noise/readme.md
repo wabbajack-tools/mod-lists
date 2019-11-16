@@ -378,6 +378,6 @@ I’d like to use an ENB with my game.
 - Lively for assistance, convincing me to do this, and join the Tester team
 - DinDisco for assisting in conflict resolution
 - Halgari for being patient with me and assisting in modlist creation
-- Skyrim prep and install instructions guidelines from Mdc11's guide
+- Skyrim prep and install instructions guidelines from Mdc211's guide
 - All of the above for testing, providing feedback, and assisting with this guide.
 - Mod Authors: Do not forget to endorse!
