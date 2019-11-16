@@ -34,7 +34,7 @@ Next, delete any files you may have from old installations or previous modding a
     1. Delete Skyrim Special Edition & LOOT ( If you have never run LOOT on your computer, this directory will not exist)
 
 4. Open Windows menu and copy/paste `%APPDATA%`
-    1. Delete zEdit & Mod Organizer (If you have never run zEdit or MO2 on your computer, these directories will not exist.
+    1. Delete zEdit & Mod Organizer (If you have never run zEdit or MO2 on your computer, these directories will not exist.)
 
 5. Open Windows menu and copy/paste `%HOMEPATH%\Documents\My Games\`
     1. Delete Skyrim Special Edition
@@ -68,9 +68,9 @@ The Program Files folder is not recommended and could cause issues.
 2. Launch The Elder Scrolls V: Skyrim Special Edition
 3. In the launcher window that appears, click OPTIONS
 4. In the menu that appears, click the Ultra button
-5. Set the Aspect Ratio (should be auto-selected to your screen’s native aspect ratio)
-6. Set the Resolution (set it to your screen’s resolution)
-7. Set Antialiasing to Off (Best performance)
+5. Set the Aspect Ratio 
+6. Set the Resolution 
+7. Set Antialiasing to Off
 8. Make sure Windowed Mode is unchecked
 9. Make sure Borderless is unchecked
 10. OK to save the settings
@@ -80,24 +80,24 @@ The Program Files folder is not recommended and could cause issues.
 
 ## Installation
 
-Create a new directory in the root directory of the hard drive where you want everything to be installed. Do not create a directory within your Skyrim folder. For this guide, we will create an example directory in `C:\` called `NOISE`. You can create this folder on any drive.
+Create a new directory in the root directory of the hard drive where you want NOISE to be installed. Do not create a directory within your Skyrim folder. For this guide, we will create an example directory in `C:\` called `NOISE`. You can create this folder on any drive.
 
 Open Wabbajack. From here, you have two options:
 
 1. Select the NOISE modlist from the Wabbajack UI.
-2. Download the `.wabbajack` file from the release channel on the Wabbajack Discord.
+2. Manual Installation: Download the `.wabbajack` file from the release channel on the Wabbajack Discord.
   
 If you have opted for a manual installation, click `Install a Modlist` at the bottom of the window. Navigate to `C:\NOISE` and select `Nice Overall Improvement SE.wabbajack` and click `Open`.
 
-At the bottom left of the new window, the Installation Location will be the folder you created in the root directory of your hard drive. The Download Location will be auto-filled for you by Wabbajack after selecting install location. If you are creating these on your `C:\` drive, please type in `C:\NOISE` in Installation Location and `C:\NOISE\Downloads` in the Download Location. After you have completed these steps, click Begin.
+At the bottom of the new window, the Installation Location will be the folder you created in the root directory of your hard drive. The Download Location will be auto-filled for you by Wabbajack after selecting install location. If you are creating these on your `C:\` drive, please type in `C:\NOISE` in Installation Location and `C:\NOISE\Downloads` in the Download Location. After you have completed these steps, click Begin.
 
-A window will open in your browser asking if you’d like to authorize Wabbajack to use your Nexus Mods account. Click authorize. Wabbajack will now install the mod pack for you.
+A window will open in your browser asking if you’d like to authorize Wabbajack to use your Nexus Mods account. Click authorize. 
 
-Once Wabbajack has finished all of its processes, the left pane will say _Installation complete! You may exit the program._ At this point it is safe to close Wabbajack.
+Once Wabbajack has finished all of its processes, it will say _Installation complete! You may exit the program._
 
 If you don’t see _Installation complete_, Wabbajack has encountered an error. To make sure that an error does not happen again, refer to the Old Files Cleanup section and delete the listed folders again. Inside of the NOISE folder, delete everything except the downloads folder or Wabbajack.exe and the modlist file.
 
-If you get an error immediately after authorizing Wabbajack on the Nexus website, please download and install the [.Net Framework 4.8 Runtime](https://dotnet.microsoft.com/download/dotnet-framework/net48) executable. Restart your computer and start Wabbajack again.
+If you get an error immediately after authorizing Wabbajack on the Nexus website, download and install the [.Net Framework 4.8 Runtime](https://dotnet.microsoft.com/download/dotnet-framework/net48) executable. Restart your computer and start Wabbajack again.
 
 If Wabbajack fails to download a mod, it means that the mod may have been updated on the Nexus. Wait for a new release of my Modlist. Look around in the release channel to see if I already mentioned that I'm going to update for this specific mod.
 
@@ -330,8 +330,7 @@ All tools you install will be placed in `C:\NOISE\tools`. Then set them up as ex
 
 #### Adding an ENB:
 
-1. If you want to add an ENB you need `d3d11.dll` and `d3dcompiler_46e.dll` files from ENBSeries located [here](http://enbdev.com/mod_tesskyrimse_v0390.htm) and place them in your Skyrim Game Folder along with the ENB files. Also grab any other files that the ENB you wish to add specifies.
-2. If the ENB requires ENB Helper you can install it anywhere within the left panel of MO2.
+1. If you want to add an ENB you need d3d11.dll and d3dcompiler_46e.dll files from ENBSeries located [here](http://enbdev.com/mod_tesskyrimse_v0390.htm) and place them in your Steam Skyrim folder, and any other files that the ENB you want says to download.
 
 #### Adding ReShade:
 
@@ -339,12 +338,14 @@ All tools you install will be placed in `C:\NOISE\tools`. Then set them up as ex
 - [Text Guide](https://reshade.me/forum/troubleshooting/5227)
 
 #### Adding mods:
+1.  When adding mods it is important to be able to use modding tools.
+2.  Tools commonly used include xEdit, zEdit, Wrye Bash, DynDOLOD, xLODGEN, Mator Smash, Merge Plugins Hide, and TexGen.  
+3.  Add your mods into MO2 and place them in the left panel under the most appropriate separator. You can learn more about MO2 separators here:[Gamerpoets Video](https://www.youtube.com/watch?v=LwaC7gP7_JM)
+4.  Check your mods for conflicts with any other mods in the list using xEdit. 
 
-1. When adding mods it is important to be able to use modding tools effectively and understand their purpose. Tools commonly used include xEdit, zEdit, Wrye Bash, DynDOLOD, xLODGEN, Mator Smash, Merge Plugins Hide, and TexGen.
-2. Begin by adding your chosen mods into MO2 and place them in the left panel under the most appropriate separator. You can learn more about MO2 separators here: [Gamerpoets Video](https://www.youtube.com/watch?v=LwaC7gP7_JM)
-3. Check your added mods for conflicts with any other mods in the list using xEdit. Then proceed to use any tools that are necessary, like form conversion with the Creation Kit, mesh and texture optimization with Cathedral Assets Optimizer, etc.
+Then proceed to use any tools that are necessary, converting the form id by resaving plugins in the Creation Kit, or optimizing meshes and textures with [CAO](https://www.nexusmods.com/skyrimspecialedition/mods/23316). (These are necessary for converting oldrim mods to work with SE)
 
-Rebuild the bashed patch. Refer to [Lexy’s Guide](https://wiki.nexusmods.com/index.php/User:Darkladylexy/Finish_Page).
+Rebuild the bashed and smashed patches. Refer to [Lexy’s Guide](https://wiki.nexusmods.com/index.php/User:Darkladylexy/Finish_Page).
 
 ## F.A.Q.
 
