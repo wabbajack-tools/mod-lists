@@ -1,4 +1,4 @@
-For the most Up To Date version of his ReadMe go [here](http://bit.ly/2Y0RIeM)
+To View ReadMe go [HERE](http://bit.ly/2Y0RIeM)
 
 ## IMPORTANT NOTE REGARDING USSEP 4.1.2a
 
