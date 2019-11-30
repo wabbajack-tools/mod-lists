@@ -2,5 +2,8 @@ For the most Up To Date version of his ReadMe go [here](https://docs.google.com/
 
 ## IMPORTANT NOTE REGARDING USSEP 4.1.2a
 
-Due to compliance to the new Wabbajack Whitelisting Rules
-The Unofficial Skyrim Special Edition Patch 4.1.2a is no longer included in this Automated Modlist via download or binary patch. It is however **HIGHLY** recommended that you find a backed up version of 4.1.2a to overwrite the included 4.2.0 version with to ensure full SkyrimVR compatibility.
+Due to compliance to the Wabbajack Whitelisting Rules
+The Unofficial Skyrim Special Edition Patch 4.1.2a is not included in this Automated Modlist
+It is however **REQUIRED** that you find a copy of 4.1.2a and overwrite the included 4.2.1 version
+SkyrimVR may not boot or be playable without doing this 
+**DO NOT OVERLOOK THIS**
