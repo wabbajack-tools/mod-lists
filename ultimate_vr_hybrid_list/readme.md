@@ -1,4 +1,4 @@
-To View ReadMe go [HERE](http://bit.ly/2Y0RIeM)
+To View ReadMe Click [HERE](http://bit.ly/2Y0RIeM)
 
 ## IMPORTANT NOTE REGARDING USSEP 4.1.2a
 
