@@ -14,13 +14,13 @@ Major texture upgrades as well as quality of life improvements and bug fixes
 Major game play overhauls or changes that affect storyline
 
 
-Because of this, there will be no armor or weapon mods added to the list. If you do have suggestions about mods that could be added, feel free to submit them here.﻿
+Because of this, there will be no armor or weapon mods added to the list.
 
 
 **Requirements:
 All Fallout 4 DLCs (Excluding the HD DLC) - This can not be avoided
 A Clean Fallout 4 Installation - This means no mods in your game folder AT ALL.
-About 85 GB of free space to download and install the mods
+About 50 GB of free space to download and install the mods
 Premium Nexus subscription. Wabbajack uses the Nexus API, which requires a premium account in order to utilize.
 
 Here are the instructions on how to install this list (Courtesy of the Wabbajack Team):
@@ -34,5 +34,3 @@ Here are the instructions on how to install this list (Courtesy of the Wabbajack
 6. In the lower left quarter of the window, set the “MO2 Profile” field to your chosen installation folder (it will default to where Wabbajack is located) and the “Download Location” field to your new downloads folder. This will default to “downloadlocation”/MO2/downloads.
 7. Click Begin to start installation. After a moment your web browser will open and you will be prompted for SSO authorization on the Nexus. Once confirmed, the files will begin downloading before being installed.8) After installation has completed, copy the contents of the "Game Folder Files" to your game root directory i.e. "\SteamLibrary\steamapps\common\Fallout 4"
 9. After installation has completed, run Mod Organizer 2.exe, if prompted select Portable and your game type.
-10. Copy all files from the 'Game Folder Files' to your Fallout 4 install folder.
-11. Make sure that the filepath for SKSE in MO2 points to the correct location.
