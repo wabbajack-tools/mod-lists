@@ -59,7 +59,7 @@ Better graphics, tons of new weapons and armor, plenty of extra content, and imp
   Choose the resolution that matches your PC.  
   Make sure that Windowed Mode, Borderless, Enable File Selection, Load Loose Files, and Recommended Tweaks are all checked.  
   Click the Default preset, then choose either Low, Medium, or High, depending on your PC. Do not use the Ultra setting.  
-![alt text](https://i.imgur.com/snCpPYS.png)  
+![alt text](https://i.imgur.com/DsulAnd.png)  
 
 **General Tab:**  
   Uncheck everything except Intro Music and Disable Tutorials. Don’t change anything in the Papyrus section.  
