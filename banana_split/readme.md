@@ -30,8 +30,8 @@ Better graphics, tons of new weapons and armor, plenty of extra content, and imp
 
 #### **_Post Installation Instructions:_**
 
-1. Head over to [the ENB site](http://enbdev.com/mod_fallout4_v0393.htm).
-2. Download the 0.393 archive.
+1. Head over to [the ENB site](http://enbdev.com/mod_fallout4_v0399.htm).
+2. Download the 0.399 archive.
 3. Extract the enbseries archive.
 4. Open the Wrapper Version.
 5. Copy d3d11.dll and d3dcompiler_46e.dll.
@@ -42,92 +42,108 @@ Better graphics, tons of new weapons and armor, plenty of extra content, and imp
 10. Right click > Copy.
 11. Navigate to your Fallout 4 game installation folder.
 12. Right click > Paste.
-
-That’s it! Launch ModOrganizer2.exe from the Banana Split installation folder. Make sure the “**F4SE**” option is selected in Mod Organizer 2, then click **Run**. This is the only way we will launch Fallout 4 from now on.
-
-**_Optional (but highly recommended):_**
-
-  Close Mod Organizer 2.  
+ 
   Navigate to the Tools folder in your Banana Split folder.  
   Launch BethINI.exe.  
   Select Fallout 4.  
   Click Yes.  
 
+#### BethINI Settings:
+
 **Setup Tab:**  
   Select your Banana Split folder in the “Mod Organizer” path.  
   In your INI path, select your profile folder in the Banana Split folder (i.e., “D:/Banana Split/Profiles/Banana Split/fallout4.ini). Bethini may have to restart if you change this.  
+![alt text](https://i.imgur.com/zgScmPw.png)  
 
 **Basic Tab:**  
   Choose the resolution that matches your PC.  
-  Make sure that Windowed Mode, Borderless, Always Active, VSync, Enable File Selection, and Recommended Tweaks are all checked.  
+  Make sure that Windowed Mode, Borderless, Enable File Selection, Load Loose Files, and Recommended Tweaks are all checked.  
   Click the Default preset, then choose either Low, Medium, or High, depending on your PC. Do not use the Ultra setting.  
+![alt text](https://i.imgur.com/snCpPYS.png)  
 
 **General Tab:**  
-  Uncheck everything except Intro Music, Disable Screenshots, Disable Tutorials. Don’t change anything in the Papyrus section.  
+  Uncheck everything except Intro Music and Disable Tutorials. Don’t change anything in the Papyrus section.  
+![alt text](https://i.imgur.com/kSoOiHQ.png)  
 
 **Gameplay Tab:**  
   Check Always Run by Default and Sprint Fix. Uncheck anything else.  
   Change Over-Encumbered Reminder to 3600.  
+  Note: Sprint Fix may allow you to run into cells that haven't been fully loaded yet. If this happens, you can come back and uncheck this option.  
+![alt text](https://i.imgur.com/9QrWln6.png)  
 
 **Interface Tab:**  
   These options are really all up to you and how you like to play.  
+![alt text](https://i.imgur.com/ULzqAsG.png)  
 
 **Detail Tab:**  
-  Change Particles to 6000.  
+  Change Particles to 750.  
   I uncheck Depth of Field. You don’t have to.  
   If your PC isn’t running FO4 well, you can save some frames by unchecking Godrays.  
   Change Sun-Shadow Update Time to 0.25.  
-  Change Sun-Shadow Update Threshold to 1.5.  
+  Change Sun-Shadow Update Threshold to 0.25.  
+![alt text](https://i.imgur.com/gOOlq4l.png)  
 
 **View Distance:**  
-  Change Grass Fade to 20000.  
-  Change Flickering Light to 8192.  
+  Change Grass Fade to 10000.  
+  Change Flickering Light to 4096.  
+  Change uGridsToLoad to 7.  
+![alt text](https://i.imgur.com/ZFOtWGI.png)  
 
 **Visuals Tab:**  
   Change Grass Density to 40.  
   Change Grass Diversity to 7.  
+![alt text](https://i.imgur.com/5TZ3bxS.png)  
+
+**Custom Tab:**  
+Please follow these images exactly as shown. Click "SAVE" after every line you change.  
+![alt text](https://i.imgur.com/KIeu3g9.png)  
+![alt text](https://i.imgur.com/Pb5kT2R.png)  
+![alt text](https://i.imgur.com/HBY8gI0.png)  
+![alt text](https://i.imgur.com/1L5Had8.png)  
+![alt text](https://i.imgur.com/RJopTnD.png)  
+![alt text](https://i.imgur.com/nxrWoUt.png)  
+![alt text](https://i.imgur.com/rQYAijV.png)  
+![alt text](https://i.imgur.com/pIBni8M.png)  
 
 **Basic Tab:**  
   Save and Exit.  
+  
+  BethINI will yell at you with two pop-ups. Click No on both.  
 
+That’s it! Launch ModOrganizer2.exe from the Banana Split installation folder. Make sure the “**F4SE**” option is selected in Mod Organizer 2, then click **Run**. This is the only way we will launch Fallout 4 from now on.
 
 #### MCM Settings:
 *_Note: Anything involving hotkeys can be set up however you like. These are simply the way I have them set up for myself._
 
 iHud Settings, Pt. 1. - if you want your HUD or Compass visible at all times, set a hotkey for it that you'll never use (like semicolon or something). Then exit the menu and press the key once to toggle the HUD/compass. Now it'll never go away.
-![alt text](https://i.imgur.com/P4omdOA.png)
-
+![alt text](https://i.imgur.com/P4omdOA.png)  
 
 iHud Settings, Pt. 2.
-![alt text](https://i.imgur.com/U1GGWlO.png)
-
+![alt text](https://i.imgur.com/U1GGWlO.png)  
 
 iHud Settings, Pt. 3.
-![alt text](https://i.imgur.com/hMvSDx0.png)
-
+![alt text](https://i.imgur.com/hMvSDx0.png)  
 
 VAFS Settings, Pt. 1. If you also want to set Q to work with VAFS, you need to unbind VATS from Q in the game’s Controls menu.
-![alt text](https://i.imgur.com/haRGWH4.png)
-
+![alt text](https://i.imgur.com/haRGWH4.png)  
 
 VAFS Settings, Pt. 2.
-![alt text](https://i.imgur.com/l9YGCyA.png)
-
+![alt text](https://i.imgur.com/l9YGCyA.png)  
 
 Wheel Menu
-![alt text](https://i.imgur.com/HStRW6m.png)
-
+![alt text](https://i.imgur.com/HStRW6m.png)  
 
 Workshop Framework
-![alt text](https://i.imgur.com/QX6Taow.png)
-
+![alt text](https://i.imgur.com/QX6Taow.png)  
 
 **Holotape Settings:**   
--Open the Beantown Interiors Holotape  
--Customize Options  
--Other Options  
--Mod Compatibility  
--Enable Inside Jobs  
+Open the Beantown Interiors Holotape in your Pipboy and select the following options:  
 
-For a full list of mods included in Banana Split, please have a look though [this handy google doc](https://docs.google.com/document/d/1TDtANff9fa5fB6f-jzW3JBXt07nDB2iYhz9Og9CDdEo/edit)  
-  All mods are listed at the bottom of the page, categorized in the same order in which Wabbajack will install them for you.  
+Customize Options  
+Other Options  
+Mod Compatibility  
+Enable Inside Jobs  
+
+For a full list of mods included in Banana Split, please have a look though [this handy google doc.](https://docs.google.com/document/d/1TDtANff9fa5fB6f-jzW3JBXt07nDB2iYhz9Og9CDdEo/edit)  
+
+All mods are listed at the bottom of the page, categorized in the same order in which Wabbajack will install them for you.
