@@ -10,18 +10,18 @@ Better graphics, tons of new weapons and armor, plenty of extra content, and imp
   *Current build version of Wabbajack. This can be found on the Wabbajack Discord linked above.
   *Clean install of Fallout 4, without HD DLC.
   *Nexus Premium.
-  *101 gigs of free space. Note that this number does NOT include your Fallout 4 installation.
+  *108 gigs of free space. Note that this number does NOT include your Fallout 4 installation.
 
 #### **_Installation Instructions:_**
 
-1. Download the latest version of Wabbajack (Alpha 5 at the time of this writing).
+1. Download the latest version of Wabbajack (beta 3 at the time of this writing).
 2. Create a new folder at the root of a drive (Example: D:\Wabbajack).
 3. Place the Wabbajack.exe into this new folder.
-4. Download the newest BananaSplit v2.1.2.wabbajack file from the Wabbajack Discord, or install directly from the Wabbajack User Interface.
+4. Download the newest BananaSplit v2.4.wabbajack file from the Wabbajack Discord, or install directly from the Wabbajack User Interface.
 5. Place the modlist file into the Wabbajack folder, next to the Wabbajack.exe file. Skip this step if installing directly from the Wabbajack User Interface.
 6. Launch Wabbajack.exe. If you are installing directly from the Wabbajack User Interface, please skip to Step 9.
 7. Select “Install a Modlist”
-8. Choose the BananaSplit v2.1.2.wabbajack file you just downloaded.
+8. Choose the BananaSplit v2.4.wabbajack file you just downloaded.
 9. In “Installation Location” choose a blank folder at the root of a drive (example: D:\Banana Split).
 10. The “Download Location” will update automatically.
 11. Click Begin.
@@ -30,8 +30,8 @@ Better graphics, tons of new weapons and armor, plenty of extra content, and imp
 
 #### **_Post Installation Instructions:_**
 
-1. Head over to [the ENB site](http://enbdev.com/mod_fallout4_v0399.htm).
-2. Download the 0.399 archive.
+1. Head over to [the ENB site](http://enbdev.com/mod_fallout4_v0307.htm).
+2. Download the 0.307 archive.
 3. Extract the enbseries archive.
 4. Open the Wrapper Version.
 5. Copy d3d11.dll and d3dcompiler_46e.dll.
@@ -52,63 +52,50 @@ Better graphics, tons of new weapons and armor, plenty of extra content, and imp
 
 **Setup Tab:**  
   Select your Banana Split folder in the “Mod Organizer” path.  
-  In your INI path, select your profile folder in the Banana Split folder (i.e., “D:/Banana Split/Profiles/Banana Split/fallout4.ini). Bethini may have to restart if you change this.  
+  In your INI path, select your profile folder in the Banana Split folder (i.e., “D:/Banana Split/Profiles/Banana Split v2.4/). Bethini may have to restart if you change this.  
 ![alt text](https://i.imgur.com/zgScmPw.png)  
 
 **Basic Tab:**  
   Choose the resolution that matches your PC.  
-  Make sure that Windowed Mode, Borderless, Enable File Selection, Load Loose Files, and Recommended Tweaks are all checked.  
+  Make sure that Windowed Mode, Borderless, VSync, Enable File Selection, Load Loose Files, and Recommended Tweaks are all checked.  
   Click the Default preset, then choose either Low, Medium, or High, depending on your PC. Do not use the Ultra setting.  
-![alt text](https://i.imgur.com/DsulAnd.png)  
+  Note that Recommended Tweaks will uncheck itself during this process. That's ok, we got what we needed from it.  
+![alt text](https://i.imgur.com/ElssMXR.png)  
 
 **General Tab:**  
   Uncheck everything except Intro Music and Disable Tutorials. Don’t change anything in the Papyrus section.  
 ![alt text](https://i.imgur.com/kSoOiHQ.png)  
 
 **Gameplay Tab:**  
-  Check Always Run by Default and Sprint Fix. Uncheck anything else.  
+  Check Always Run by Default. Uncheck anything else.  
   Change Over-Encumbered Reminder to 3600.  
-  Note: Sprint Fix may allow you to run into cells that haven't been fully loaded yet. If this happens, you can come back and uncheck this option.  
-![alt text](https://i.imgur.com/9QrWln6.png)  
+  Note: Sprint Fix may allow you to run into cells that haven't been fully loaded yet. If this doesn't bother you, or if the game keeps forcing you to stop sprinting, you can enable this option.
+![alt text](https://i.imgur.com/QAB2oOX.png)  
 
 **Interface Tab:**  
   These options are really all up to you and how you like to play.  
 ![alt text](https://i.imgur.com/ULzqAsG.png)  
 
 **Detail Tab:**  
-  Change Particles to 750.  
+  Change Particles to 6000.  
   I uncheck Depth of Field. You don’t have to.  
   If your PC isn’t running FO4 well, you can save some frames by unchecking Godrays.  
   Change Sun-Shadow Update Time to 0.25.  
   Change Sun-Shadow Update Threshold to 0.25.  
-![alt text](https://i.imgur.com/gOOlq4l.png)  
+![alt text](https://i.imgur.com/fTvAy7u.png)  
 
 **View Distance:**  
-  Change Grass Fade to 10000.  
-  Change Flickering Light to 4096.  
-  Change uGridsToLoad to 7.  
-![alt text](https://i.imgur.com/ZFOtWGI.png)  
+  Change Grass Fade to 14000.  
+  Change Flickering Light to 4096.   
+![alt text](https://i.imgur.com/1dIsmn6.png)  
 
 **Visuals Tab:**  
   Change Grass Density to 40.  
   Change Grass Diversity to 7.  
 ![alt text](https://i.imgur.com/5TZ3bxS.png)  
 
-**Custom Tab:**  
-Please follow these images exactly as shown. Click "SAVE" after every line you change.  
-![alt text](https://i.imgur.com/KIeu3g9.png)  
-![alt text](https://i.imgur.com/Pb5kT2R.png)  
-![alt text](https://i.imgur.com/HBY8gI0.png)  
-![alt text](https://i.imgur.com/1L5Had8.png)  
-![alt text](https://i.imgur.com/RJopTnD.png)  
-![alt text](https://i.imgur.com/nxrWoUt.png)  
-![alt text](https://i.imgur.com/rQYAijV.png)  
-![alt text](https://i.imgur.com/pIBni8M.png)  
-
 **Basic Tab:**  
   Save and Exit.  
-  
-  BethINI will yell at you with two pop-ups. Click No on both.  
 
 That’s it! Launch ModOrganizer2.exe from the Banana Split installation folder. Make sure the “**F4SE**” option is selected in Mod Organizer 2, then click **Run**. This is the only way we will launch Fallout 4 from now on.
 
