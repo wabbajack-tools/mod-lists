@@ -12,7 +12,7 @@ This Modlist allows for you to add what mods you would like (within reason), as 
 
 ## Getting Started
 
-This process requires `81`GB of hard drive space and takes a few hours depending on your internet and computer speed. Installing on an SSD is recommended.
+This process requires `88`GB of hard drive space and takes a few hours depending on your internet and computer speed. Installing on an SSD is recommended.
 
 Download `Wabbajack.exe`. This can be found in the [#builds](https://discord.gg/AzS3dw2) channel in the [Wabbajack discord](https://discord.gg/AzS3dw2).
 
@@ -223,7 +223,7 @@ In Mod Organizer 2, select SKSE from the drop down menu next to the Run button a
 
 ## Configuring MCM
 
-After starting a new game, you will spawn in the Realm of Lorkhan, an open ended roleplaying alternate start. Feel free to wander about, and don’t worry, falling will not kill you. When you’re ready, set up MCM settings and make a save before touching one of the floating pink gems to be teleported to Tamriel. The main quest can be started by talking to Jarl Balgruuf.
+After starting a new game, you will spawn in the LAL cell. You’ll find a key to the shelves on a table, with basic loadout necessities. When you’re ready, set up MCM settings and make a save before talking to the statue of Mara.
 
 ### Follower Framework
 
@@ -267,12 +267,6 @@ Keep Advancing Killmoves to OFF. This can cause your character to become stuck i
 
 ![](https://lh6.googleusercontent.com/xBKdbc2s--NuHnNeZqGc4Sp7XD_Z1WEOsPJfzDqEZcwV50K5AsFYYUb31lnRdfmNp5b1I-zwhEqY3wJJmElNb2o4lOVUMEgYFDi4S_htwIC5GdF0dWbITBPG6YjWxjHtHTzFDM6c)
 
-### Quick Light
-
-Set Brightness to “Bright”
-
-![](https://lh6.googleusercontent.com/04yr1vpp7E6EKW4ALxFaCNdAixuvLE7YrKXtmGkKtXThYpa_FmOFwrUyiFgFG7zI9knCAh9OXpPc0ADFRBf5c700dW2WnCAy98nYnBmPPixq4UBwqKt_5zRvE04hA5DmQUvBDtgx)
-
 ### Thieves Guild Requirements
 
 Items Stolen: 100
@@ -288,21 +282,9 @@ Radiant jobs completed: 6, 15
   Rorikstead X
 ![](https://lh6.googleusercontent.com/EI4vWlofS-4ifOlFPShvYi-Pld7qnN5QY9mZNicDWXUjt3Q8923_tA-DkuWrIgVMBsTNxMPSFdSCgMzJIJVy4XZvMsnzuy3PypL8aJ_AtwVDASVdmOOjInwpJg7XpaQeJBnkve73)
 
-### Recommended Obsidian Weathers settings - Power in spellbook
-
-![](https://lh5.googleusercontent.com/rFa5w_h0sEahTdgx4QEb80CaTWwzkOu6Iufk7HCx_i1-LkOpY3uMWFbsQHpKHx9weV4ySAvOS1wv8dl1jaU21Nqc-j65FIvMzhhaY2GoaDXBLjRuKnuIAhh7M60x__m6yHISnJ0e)
-
-Filters: Bleak
-
-![](https://lh6.googleusercontent.com/v2E4cV6exJwON5quEjfVtamHDX9dmy0kRBCtenhN7SNAPbzqN-0z64uq1G5s7a2aGIWHuD9r7Lak4CCWwFZmv4wlDVtSZDDDumTlebEDb1A6cEm8x8OrERmAX1sjh-j8XPZCEExq)
-
-Seasons FX On
-
-![](https://lh4.googleusercontent.com/zBR43jm-3MxXuVWJvBylvyXhPHxJq4WG5labytgiTvqi8ukujYNbmHuJcNO48eSvWj048064fmah2VbB8Q_HzPdE6D-MH0zWWJwGcSMtl591Cqv5mqHplLrsKZkr_kMxFO3UsgSa)
-
 All other MCM settings can be configured as you like, or depending on extra mods you’ve installed.
 
-**Smilodon’s configuration is a power. Set to your playstyle.**
+**Smilodon’s and Obsidian Weathers configurations are powers. Set to your playstyle/preference.**
 
 #### Resources
 
@@ -373,10 +355,11 @@ I’d like to use an ENB with my game.
   
 ### Contributors
 
-- Total for helping me pick out landscape textures, and Realm of Lorkhan assistance
+- Total for helping me pick out landscape textures, and assisting me with xEdit
 - JustThatKing for assisting with conflicts
-- Lively for assistance, convincing me to do this, and join the Tester team
+- Lively for assistance, convincing me to do this, and also convincing me to join the Tester team
 - DinDisco for assisting in conflict resolution
+- Nathan for solving texture seam issues
 - Halgari for being patient with me and assisting in modlist creation
 - Skyrim prep and install instructions guidelines from Mdc211's guide
 - All of the above for testing, providing feedback, and assisting with this guide.
