@@ -30,6 +30,45 @@ Better graphics, tons of new weapons and armor, plenty of extra content, and imp
 
 #### **_Post Installation Instructions:_**
 
+Go to [BiRaitBec's Modding Guide](https://www.nexusmods.com/fallout4/mods/23556?tab=description) page.  
+Manually download the WorkBase file.  
+Manually download the Main Repack files (Part One, Part Two, and Part Three).  
+ - *If your PC is more of a low-end system, manually download the Performance option instead.*  
+ 
+Extract the WorkBase file with 7zip.  
+Inside of the Workbase folder, create 2 folders called 'OriginalBa2' and 'PatchedBa2'.  
+You should have three folders inside of Workbase: OriginalBa2, PatchedBa2, and PatchedFiles.  
+Navigate to to your Fallout4/Data folder, Cut or Copy (Depending on how much space you have) these 15 files:  
+
+'Fallout4 - Textures1.ba2'  
+'Fallout4 - Textures2.ba2'  
+'Fallout4 - Textures3.ba2'  
+'Fallout4 - Textures4.ba2'  
+'Fallout4 - Textures5.ba2'  
+'Fallout4 - Textures6.ba2'  
+'Fallout4 - Textures7.ba2'  
+'Fallout4 - Textures8.ba2'  
+'Fallout4 - Textures9.ba2'  
+'DLCworkshop01 - Textures.ba2'  
+'DLCworkshop02 - Textures.ba2'  
+'DLCworkshop03 - Textures.ba2'  
+'DLCRobot - Textures.ba2'  
+'DLCCoast - Textures.ba2'  
+'DLCNukaWorld - Textures.ba2'  
+
+Paste these files into your WorkBase/OriginalBa2 folder.  
+Extract all three Main Repack files (or the Performance repack, if you chose that).  
+Move the "Textures" folders from these extracted archives into the "PatchedFiles" folder.  
+Run the installer.bat file inside of WorkBase.  
+When it is done, cut and paste all of the files inside of the PatchedBa2 folder into your Fallout4/Data folder.  
+After pasting those files, you may Delete the WorkBase folder.  
+
+*Note that you CANNOT use the HD DLC for BiRaitBec’s texture optimization. You’ll see missing textures everywhere if you do.*  
+
+As for the extra steps involved, it’s for the best. First, it enables users to easily swap between Banana Split and Fallout 4 Enhanced Edition. Second, it’s just better for your overall gaming experience.  
+*If you ever need to update your Fallout 4, back up these new ba2 files before you verify/update. Otherwise you’ll have to do it all over again.*  
+Anyway, now that we got that over with, let’s move on.
+
 Navigate back to your Banana Split installation folder.  
 Open “Game Folder Files”  
 Copy everything in this folder.  
