@@ -14,22 +14,6 @@ Better graphics, tons of new weapons and armor, plenty of extra content, and imp
 
 #### **_Installation Instructions:_**
 
-1. Download the latest version of Wabbajack (beta 4 at the time of this writing).
-2. Create a new folder at the root of a drive (Example: D:\Wabbajack).
-3. Place the Wabbajack.exe into this new folder.
-4. Download the newest BananaSplit v2.5.wabbajack file from the Wabbajack Discord, or install directly from the Wabbajack User Interface.
-5. Place the modlist file into the Wabbajack folder, next to the Wabbajack.exe file. Skip this step if installing directly from the Wabbajack User Interface.
-6. Launch Wabbajack.exe. If you are installing directly from the Wabbajack User Interface, then choose the "Browse Modlists" option, download Banana Split, and skip to Step 9.
-7. Select “Install a Modlist”
-8. Navigate to the BananaSplit v2.5.wabbajack file you just downloaded.
-9. In “Installation Location” choose a blank folder at the root of a drive (example: D:\Banana Split). **DO NOT** install your modlist to the same folder where you put Wabbajack.exe.
-10. The “Download Location” will update automatically. You can change it if you want.
-11. Click the "Play" arrow.
-12. Make sure to accept the Nexus API request if your browser asks for it.
-13. When Wabbajack completes the installation (you can check the Wabbajack.exe.log to confirm it completed successfully), you may close the program.
-
-#### **_Post Installation Instructions:_**
-
 Go to [BiRaitBec's Modding Guide](https://www.nexusmods.com/fallout4/mods/23556?tab=description) page.  
 Manually download the WorkBase file.  
 Manually download the Main Repack files (Part One, Part Two, and Part Three).  
@@ -68,6 +52,22 @@ After pasting those files, you may Delete the WorkBase folder.
 As for the extra steps involved, it’s for the best. First, it enables users to easily swap between Banana Split and Fallout 4 Enhanced Edition. Second, it’s just better for your overall gaming experience.  
 *If you ever need to update your Fallout 4, back up these new ba2 files before you verify/update. Otherwise you’ll have to do it all over again.*  
 Anyway, now that we got that over with, let’s move on.
+
+1. Download the latest version of Wabbajack (beta 4 at the time of this writing).
+2. Create a new folder at the root of a drive (Example: D:\Wabbajack).
+3. Place the Wabbajack.exe into this new folder.
+4. Download the newest BananaSplit v2.5.1.wabbajack file from the Wabbajack Discord, or install directly from the Wabbajack User Interface.
+5. Place the modlist file into the Wabbajack folder, next to the Wabbajack.exe file. Skip this step if installing directly from the Wabbajack User Interface.
+6. Launch Wabbajack.exe. If you are installing directly from the Wabbajack User Interface, then choose the "Browse Modlists" option, download Banana Split, and skip to Step 9.
+7. Select “Install a Modlist”
+8. Navigate to the BananaSplit v2.5.1.wabbajack file you just downloaded.
+9. In “Installation Location” choose a blank folder at the root of a drive (example: D:\Banana Split). **DO NOT** install your modlist to the same folder where you put Wabbajack.exe.
+10. The “Download Location” will update automatically. You can change it if you want.
+11. Click the "Play" arrow.
+12. Make sure to accept the Nexus API request if your browser asks for it.
+13. When Wabbajack completes the installation (you can check the Wabbajack.exe.log to confirm it completed successfully), you may close the program.
+
+#### **_Post Installation Instructions:_**
 
 Navigate back to your Banana Split installation folder.  
 Open “Game Folder Files”  
