@@ -1,0 +1,22 @@
+# Dummy build only exists to trigger the modlist validation in the main repo
+
+trigger:
+- master
+
+pool:
+  name: Default
+  vmImage: 'windows-latest'
+
+variables:
+- group: main-pipeline-keys
+- name: solution
+  value: 'Wabbajack.sln'
+- name: buildPlatform
+  value: 'x64'
+- name: buildConfiguration
+  value: 'Debug'
+
+steps:
+- checkout: none
+  clean: true
+  submodules: true
