@@ -10,125 +10,148 @@ Better graphics, tons of new weapons and armor, plenty of extra content, and imp
   *Current build version of Wabbajack. This can be found on the Wabbajack Discord linked above.
   *Clean install of Fallout 4, without HD DLC.
   *Nexus Premium.
-  *101.1 gigs of free space. Note that this number does NOT include your Fallout 4 installation.
+  *109 gigs of free space. Note that this number does NOT include your Fallout 4 installation.
 
 #### **_Installation Instructions:_**
 
-1. Download the latest version of Wabbajack (Alpha 5 at the time of this writing).
+Go to [BiRaitBec's Modding Guide](https://www.nexusmods.com/fallout4/mods/23556?tab=description) page.  
+Manually download the WorkBase file.  
+Manually download the Main Repack files (Part One, Part Two, and Part Three).  
+ - *If your PC is more of a low-end system, manually download the Performance option instead.*  
+ 
+Extract the WorkBase file with 7zip.  
+Inside of the Workbase folder, create 2 folders called 'OriginalBa2' and 'PatchedBa2'.  
+You should have three folders inside of Workbase: OriginalBa2, PatchedBa2, and PatchedFiles.  
+Navigate to to your Fallout4/Data folder, Cut or Copy (Depending on how much space you have) these 15 files:  
+
+'Fallout4 - Textures1.ba2'  
+'Fallout4 - Textures2.ba2'  
+'Fallout4 - Textures3.ba2'  
+'Fallout4 - Textures4.ba2'  
+'Fallout4 - Textures5.ba2'  
+'Fallout4 - Textures6.ba2'  
+'Fallout4 - Textures7.ba2'  
+'Fallout4 - Textures8.ba2'  
+'Fallout4 - Textures9.ba2'  
+'DLCworkshop01 - Textures.ba2'  
+'DLCworkshop02 - Textures.ba2'  
+'DLCworkshop03 - Textures.ba2'  
+'DLCRobot - Textures.ba2'  
+'DLCCoast - Textures.ba2'  
+'DLCNukaWorld - Textures.ba2'  
+
+Paste these files into your WorkBase/OriginalBa2 folder.  
+Extract all three Main Repack files (or the Performance repack, if you chose that).  
+Move the "Textures" folders from these extracted archives into the "PatchedFiles" folder.  
+Run the installer.bat file inside of WorkBase.  
+When it is done, cut and paste all of the files inside of the PatchedBa2 folder into your Fallout4/Data folder.  
+After pasting those files, you may Delete the WorkBase folder.  
+
+*Note that you CANNOT use the HD DLC for BiRaitBec’s texture optimization. You’ll see missing textures everywhere if you do.*  
+
+As for the extra steps involved, it’s for the best. First, it enables users to easily swap between Banana Split and Fallout 4 Enhanced Edition. Second, it’s just better for your overall gaming experience.  
+*If you ever need to update your Fallout 4, back up these new ba2 files before you verify/update. Otherwise you’ll have to do it all over again.*  
+Anyway, now that we got that over with, let’s move on.
+
+1. Download the latest version of Wabbajack (beta 4 at the time of this writing).
 2. Create a new folder at the root of a drive (Example: D:\Wabbajack).
 3. Place the Wabbajack.exe into this new folder.
-4. Download the newest BananaSplit v2-1.wabbajack file from the Wabbajack Discord.
-5. Place the modlist file into the Wabbajack folder, next to the Wabbajack.exe file.
-6. Launch Wabbajack.exe
+4. Download the newest BananaSplit v2.6.wabbajack file from the Wabbajack Discord, or install directly from the Wabbajack User Interface.
+5. Place the modlist file into the Wabbajack folder, next to the Wabbajack.exe file. Skip this step if installing directly from the Wabbajack User Interface.
+6. Launch Wabbajack.exe. If you are installing directly from the Wabbajack User Interface, then choose the "Browse Modlists" option, download Banana Split, and skip to Step 9.
 7. Select “Install a Modlist”
-  *You can also select the _Banana Split_ modlist directory from the Featured Modlists section if available. If so, skip to Step 9.
-8. Choose the BananaSplit v2-1.wabbajack file you just downloaded.
-9. In “Installation Location” choose a blank folder at the root of a drive (example: D:\Banana Split).
-10. The “Download Location” will update automatically.
-11. Click Begin.
+8. Navigate to the BananaSplit v2.6.wabbajack file you just downloaded.
+9. In “Installation Location” choose a blank folder at the root of a drive (example: D:\Banana Split). **DO NOT** install your modlist to the same folder where you put Wabbajack.exe.
+10. The “Download Location” will update automatically. You can change it if you want.
+11. Click the "Play" arrow.
 12. Make sure to accept the Nexus API request if your browser asks for it.
-13. Do not close Wabbajack until the bottom left pane says installation is complete. This may take several hours, depending on your hardware.
+13. When Wabbajack completes the installation (you can check the Wabbajack.exe.log to confirm it completed successfully), you may close the program.
 
 #### **_Post Installation Instructions:_**
 
-1. Head over to [the ENB site](http://enbdev.com/mod_fallout4_v0393.htm).
-2. Download the 0.393 archive.
-3. Extract the enbseries archive.
-4. Open the Wrapper Version.
-5. Copy d3d11.dll and d3dcompiler_46e.dll.
-6. Paste them into your Fallout 4 directory (steam/steamapps/common/Fallout 4).
-7. Navigate back to your Banana Split installation folder.
-8. Open “Game Folder Files”
-9. Select the enbseries and Mopy folders, as well as all loose files.
-10. Right click > Copy.
-11. Navigate to your Fallout 4 game installation folder.
-12. Right click > Paste.
+Navigate back to your Banana Split installation folder.  
+Open “Game Folder Files”  
+Copy everything in this folder.  
+Paste it into your Fallout 4 directory (steam/steamapps/common/Fallout 4).  
 
-That’s it! Launch ModOrganizer2.exe from the Banana Split installation folder. Make sure the “**F4SE**” option is selected in Mod Organizer 2, then click **Run**. This is the only way we will launch Fallout 4 from now on.
+#### FO4Config Settings:
 
-**_Optional (but highly recommended):_**
+Navigate to your Banana Split directory.  
+Open the “Tools” folder, then the “Fallout 4 Configuration Tool” folder.  
+Right-click “Fallout4ConfigTool.exe” and Run as Administrator.  
+When FO4Config launches, navigate to the Settings tab.  
+Make sure your filepaths align with where you have Banana Split installed, as shown below. Your folder names may be different.  
+![alt text](https://i.imgur.com/wz3Jg42.png)  
 
-  Close Mod Organizer 2.  
-  Navigate to the Tools folder in your Banana Split folder.  
-  Launch BethINI.exe.  
-  Select Fallout 4.  
-  Click Yes.  
+Next, navigate to the Tweaks tab. Make your screen match the one shown below.  
+You can change sensitivity options if you like. Make sure your game resolution here matches your monitor’s resolution.  
+![alt text](https://i.imgur.com/QqKfkWx.png)  
 
-**Setup Tab:**  
-  Select your Banana Split folder in the “Mod Organizer” path.  
-  In your INI path, select your profile folder in the Banana Split folder (i.e., “D:/Banana Split/Profiles/Banana Split/fallout4.ini). Bethini may have to restart if you change this.  
+Next, navigate to the Performance tab. Again, make sure the options on your screen match what’s in the image below.  
+Note: If you ran FO4Config through MO2’s executables, you will need to exit out and run the exe as Administrator to enable the “High Priority” option.  
+![alt text](https://i.imgur.com/LRvQQce.png)  
 
-**Basic Tab:**  
-  Choose the resolution that matches your PC.  
-  Make sure that Windowed Mode, Borderless, Always Active, VSync, Enable File Selection, and Recommended Tweaks are all checked.  
-  Click the Default preset, then choose either Low, Medium, or High, depending on your PC. Do not use the Ultra setting.  
+Navigate to the Camera tab next. Keep making the images match what you see.  
+Some prefer prefer their Field of View at 80, 85, or 95. It’s up to you.  
+![alt text](https://i.imgur.com/K1njp4z.png)  
 
-**General Tab:**  
-  Uncheck everything except Intro Music, Disable Screenshots, Disable Tutorials. Don’t change anything in the Papyrus section.  
+Onward to the Textures tab. You know what to do.  
+![alt text](https://i.imgur.com/HKYxVYG.png)  
 
-**Gameplay Tab:**  
-  Check Always Run by Default and Sprint Fix. Uncheck anything else.  
-  Change Over-Encumbered Reminder to 3600.  
+This is entirely optional. If you want to see different colors instead of the standard green in your pipboy, click the “Disable FX” option and select a color of your choosing.  
+![alt text](https://i.imgur.com/DkmPIiG.png)  
 
-**Interface Tab:**  
-  These options are really all up to you and how you like to play.  
+Gameplay tab! The difficulty numbers correspond with the in-game difficulties. 3 is Hard. If you want Normal, drop it to 2. The higher the number, the higher the difficulty.  
+Note: I know “All NPC’s Killable” is tempting, but you will break a lot of quests and scripts if you play this way.  
+![alt text](https://i.imgur.com/LEMkXcI.png)  
 
-**Detail Tab:**  
-  Change Particles to 6000.  
-  I uncheck Depth of Field. You don’t have to.  
-  If your PC isn’t running FO4 well, you can save some frames by unchecking Godrays.  
-  Change Sun-Shadow Update Time to 0.25.  
-  Change Sun-Shadow Update Threshold to 1.5.  
+Click "**Save**" in the bottom left.
 
-**View Distance:**  
-  Change Grass Fade to 20000.  
-  Change Flickering Light to 8192.  
+That’s it! Launch Mod Organizer 2 inside the Banana Split folder. From now on, launch Fallout 4 via the “F4SE” option.  
+If you want to avoid the hassle of future updates from Bethesda, open Steam, right-click Fallout 4 in your Library, open Properties, go to the Updates tab, and change the Automatic Update option to “Only update this game when I launch it.” Since we’re always launching from F4SE, it will never automatically update again.  
 
-**Visuals Tab:**  
-  Change Grass Density to 40.  
-  Change Grass Diversity to 7.  
+Now, we still have a little bit of work left to do, but we’re almost done. Now we can launch the game. Once you finish character customization, you’ll have three options when you try to leave.  
 
-**Basic Tab:**  
-  Save and Exit.  
+**This is a dream**: You will wake up in Vault 111. Nora is not your wife. Codsworth is not your robot. You’re just a random Prewar Sanctuary citizen.  
+**This is a memory, I don’t want to relive this**: You wake up in Vault 111 as Nate. Everything else is normal.  
+**This is a memory, stay here a while**: Vanilla Fallout 4 intro.  
 
+Once you reach the exit to Vault 111 and ride the elevator, we can finish setting up the game. Press the “Esc” key and select “Mod Config”. This is the last step, I swear.  
 
 #### MCM Settings:
 *_Note: Anything involving hotkeys can be set up however you like. These are simply the way I have them set up for myself._
 
-iHud Settings, Pt. 1. - if you want your HUD or Compass visible at all times, set a hotkey for it that you'll never use (like semicolon or something). Then exit the menu and press the key once to toggle the HUD/compass. Now it'll never go away.
-![alt text](https://i.imgur.com/P4omdOA.png)
+Companion Command Hotkeys  
+![alt text](https://i.imgur.com/nJKi2JB.png)  
 
+Faster Workshop Hotkey  
+![alt text](https://i.imgur.com/QOVlpjA.png)  
 
-iHud Settings, Pt. 2.
-![alt text](https://i.imgur.com/U1GGWlO.png)
+Vafs Focus Hotkey  
+![alt text](https://i.imgur.com/4WlhCqZ.png)  
 
+Vafs Critical Hotkey  
+![alt text](https://i.imgur.com/DMIi8cD.png)  
 
-iHud Settings, Pt. 3.
-![alt text](https://i.imgur.com/hMvSDx0.png)
+Workshop Framework - Allow Settlements to Leave - Off  
+![alt text](https://i.imgur.com/vnvLw7O.png)  
 
-
-VAFS Settings, Pt. 1. If you also want to set Q to work with VAFS, you need to unbind VATS from Q in the game’s Controls menu.
-![alt text](https://i.imgur.com/haRGWH4.png)
-
-
-VAFS Settings, Pt. 2.
-![alt text](https://i.imgur.com/l9YGCyA.png)
-
-
-Wheel Menu
-![alt text](https://i.imgur.com/HStRW6m.png)
-
-
-Workshop Framework
-![alt text](https://i.imgur.com/QX6Taow.png)
+Workshop Plus Hotkeys  
+![alt text](https://i.imgur.com/jpEhzuZ.png)  
 
 
 **Holotape Settings:**   
--Open the Beantown Interiors Holotape  
--Customize Options  
--Other Options  
--Mod Compatibility  
--Enable Inside Jobs  
+Open the Beantown Interiors Holotape in your Pipboy and select the following options:  
 
-For a full list of mods included in Banana Split, please have a look though [this handy google doc](https://docs.google.com/document/d/1TDtANff9fa5fB6f-jzW3JBXt07nDB2iYhz9Og9CDdEo/edit)
-  All mods are listed at the bottom of the page, categorized in the same order in which Wabbajack will install them for you.  
+*Customize Options  
+Other Options  
+Mod Compatibility  
+Enable Inside Jobs*  
+
+Open the True Storms holotape. Choose whatever options sound like fun to you.  
+
+That's it! Have fun!  
+
+For a full list of mods included in Banana Split, please have a look though [this handy google doc.](https://docs.google.com/document/d/1TDtANff9fa5fB6f-jzW3JBXt07nDB2iYhz9Og9CDdEo)  
+
+All mods are listed at the bottom of the page, categorized in the same order in which they'll be displayed in the left pane of Mod Organizer 2. Have fun!

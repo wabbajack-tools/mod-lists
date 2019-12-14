@@ -2,9 +2,7 @@
 
 **NOTE**: As with all Wabbajack installers, a Nexus premium account is required in order to use the premium API for downloads. Additionally, since this is an unofficial attempt to automate the Bevilex guide, PLEASE only direct support queries to the unofficial bevilex modlist development channel in the [Wabbajack discord](https://discord.gg/WnyMdj). To view the channel, go to **#welcome** and follow the instructions, selecting Oblivion as a game choice.
 
-**Welcome!** The goal of this autoinstaller is to provide a stable, comprehensive graphics overhaul for Oblivion through an automated installation of Bevilex’s [excellent graphics guide](https://www.nexusmods.com/oblivion/mods/47591). The results bring Oblivion close to modern visuals - complete with HD textures, revamped UIs, ENB, shader packages and much more.
-
-There are some caveats however:
+Before we get started, there is just a couple of things to note:
 
 *   A number of files used in the guide are uploaded on sites which Wabbajack cannot currently access (e.g. due to registration walls). I have opted not to include these mods as I do not have the right to re-upload them. However, if you wish to install them, instructions are provided in the optional section of this document to download and add them manually yourself.
 *   This is not a one click installation - there are some minor post installation steps that must be followed in order for your modded setup to work. If you follow all the instructions here, you will be set.
@@ -19,10 +17,10 @@ There are some caveats however:
 
 ### Using the Wabbajack Autoinstaller
 
-1. **Download** the **1.0 Alpha 5** version of Wabbajack from the [Wabbajack Github](https://github.com/wabbajack-tools/wabbajack/releases/tag/20191015.6), and **extract the Wabbajack.exe** file to a new directory called **Wabbajack**, as close to the root of your drive as possible (e.g. C:\Wabbajack).
+1. **Download** the latest version of Wabbajack from the [Wabbajack Github](https://github.com/wabbajack-tools/wabbajack/releases/), and **extract the Wabbajack.exe** file to a new directory called **Wabbajack**, as close to the root of your drive as possible (e.g. C:\Wabbajack).
 2. **Create a new folder** for the new installation, and call it **Bevilex** - again place it close to the root of your drive, but not within the Wabbajack folder (this can cause errors). Ensure you have at least 51GB of hard drive space. (Deleting the downloads after installation will reduce the setup size to 33GB).
 3. **Launch Wabbajack.exe** from within the Wabbajack folder. Select the **Unofficial Bevilex** modlist, and then hit **Download and Install** to download the modlist file. Alternatively, the modlist can be downloaded manually from this page. If installing manually, place the modlist file in the Wabbajack directory, and select **Install from Disk**.
-4. Under MO2 Location, **select the Bevilex folder** you created in step 2. Set the Download Location to Bevilex\downloads. Click **Begin**.
+4. Under Installation Location, **select the Bevilex folder** you created in step 2. Set the Download Location to Bevilex\downloads. Click **Begin**.
 5. Wabbajack will open a browser and ask for Nexus authorisation. Log in if necessary and then hit **Authorise.** (_If you get an error on authorisation, download and install [.Net Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48) and run the installer again_)
 6. Wabbajack will now download and install the mods specified in the installer. The download size is approximately 18GB so this may take a little while. The installer should keep you informed of progress.
 7. After the **installation complete** message appears, close the installer.
@@ -32,7 +30,7 @@ There are some caveats however:
 3. Run **ModOrganizer.exe** in the Bevilex MO2 folder.
 4. Select **BOSS** from the **executable dropdown** in MO2 and hit **Run**. The BOSS GUI will appear over the top of MO2. Hit **Run BOSS** without changing any of the settings. It will now take some time to download the latest masterlist, if it hasn't done so already. (This occasionally fails - if this happens, don’t worry, just try again and you should get the update eventually). After, it will sort your plugins and output an HTML log when completed.
 5. Download the **userlist.txt** file from [here](https://drive.google.com/open?id=1YMnIIi1illJe7TeQdkRvX64FbfzmsiwU), cut to  **tools/BOSS/bin/Release-64/oblivion** and overwrite any existing file there.
-6. Repeat step 5, using BOSS to sort your load order with the newly applied user rules. If this has been done correctly, **Bashed Patch, 0.esp** should be **at the bottom** of your load order.
+6. Repeat step 5, using BOSS to sort your load order with the newly applied user rules.
 
 ### Special Installation Steps
 
@@ -165,7 +163,8 @@ _BSA Decompressor recreates BSA archives without zlib compression so the game is
 
 *   By default, the Oblivion Reloaded in game menu is bound to ‘O’. Since this is annoying when creating a character,  I have rebound it to F6. Use this key and/or edit the Oblivion Reloaded INI file in the OR 7.0 PRESET mod to change settings.
 *   Due to the way MO2 loads Oblivion and OBSE, the Steam overlay and screenshot functionality cannot be used. Use F11 to take screenshots using Oblivion Reloaded.
-
+*   As standard, this installer activates Oblivion Reloaded's framerate feature to improve FPS by dynamically reducing draw distances. If you are getting stable/high FPS, you should see no deterioration in visual quality. If you are getting low FPS, view distances are reduced temporarily to preserve FPS, causing a 'pop-in' effect. The framerate at which the feature is activated can be edited in the OR preset (default 50FPS), as well as the extent to which view distances are reduced. Otherwise, the feature can also be completely disabled in the same location.
+*   Note that in order for several Oblivion Reloaded features to work, in-game graphical setting changes are locked. To alter the settings, set the SaveSettings option in the OR preset to 1, load the game and make any desired changes, then exit and set the SaveSettings value back to 1 again.
 ## Troubleshooting
 
 1. _I can’t run the Oblivion executable from MO2 - I get an application error._
