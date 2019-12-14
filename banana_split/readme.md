@@ -56,11 +56,11 @@ Anyway, now that we got that over with, let’s move on.
 1. Download the latest version of Wabbajack (beta 4 at the time of this writing).
 2. Create a new folder at the root of a drive (Example: D:\Wabbajack).
 3. Place the Wabbajack.exe into this new folder.
-4. Download the newest BananaSplit v2.5.1.wabbajack file from the Wabbajack Discord, or install directly from the Wabbajack User Interface.
+4. Download the newest BananaSplit v2.6.wabbajack file from the Wabbajack Discord, or install directly from the Wabbajack User Interface.
 5. Place the modlist file into the Wabbajack folder, next to the Wabbajack.exe file. Skip this step if installing directly from the Wabbajack User Interface.
 6. Launch Wabbajack.exe. If you are installing directly from the Wabbajack User Interface, then choose the "Browse Modlists" option, download Banana Split, and skip to Step 9.
 7. Select “Install a Modlist”
-8. Navigate to the BananaSplit v2.5.1.wabbajack file you just downloaded.
+8. Navigate to the BananaSplit v2.6.wabbajack file you just downloaded.
 9. In “Installation Location” choose a blank folder at the root of a drive (example: D:\Banana Split). **DO NOT** install your modlist to the same folder where you put Wabbajack.exe.
 10. The “Download Location” will update automatically. You can change it if you want.
 11. Click the "Play" arrow.
@@ -105,10 +105,6 @@ Gameplay tab! The difficulty numbers correspond with the in-game difficulties. 3
 Note: I know “All NPC’s Killable” is tempting, but you will break a lot of quests and scripts if you play this way.  
 ![alt text](https://i.imgur.com/LEMkXcI.png)  
 
-Now to the Main tab. Last one, I swear.  
-Use the filter to search for the option listed below. Change the Current Value from “1” to “0”.  
-Note: unfortunately, this will be the biggest performance hit, especially in the Downtown Boston area. Turning this option off means the engine loads buildings in individual parts instead of one solid piece. However, leaving this option enabled will render a lot of objects invisible/broken/flickering. I’m working on a more performance-friendly fix, but for now, I’m afraid this is the best I can offer. *Precombines are the scourge of my existence.*  
-![alt text](https://i.imgur.com/Riv5Rkj.png)  
 Click "**Save**" in the bottom left.
 
 That’s it! Launch Mod Organizer 2 inside the Banana Split folder. From now on, launch Fallout 4 via the “F4SE” option.  
@@ -151,6 +147,10 @@ Open the Beantown Interiors Holotape in your Pipboy and select the following opt
 Other Options  
 Mod Compatibility  
 Enable Inside Jobs*  
+
+Open the True Storms holotape. Choose whatever options sound like fun to you.  
+
+That's it! Have fun!  
 
 For a full list of mods included in Banana Split, please have a look though [this handy google doc.](https://docs.google.com/document/d/1TDtANff9fa5fB6f-jzW3JBXt07nDB2iYhz9Og9CDdEo)  
 
