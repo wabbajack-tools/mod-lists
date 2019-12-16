@@ -16,6 +16,17 @@ This process requires `88`GB of hard drive space and takes a few hours depending
 
 Download `Wabbajack.exe`. This can be found in the [#builds](https://discord.gg/AzS3dw2) channel in the [Wabbajack discord](https://discord.gg/AzS3dw2).
 
+Create a folder at the root of your drive called Wabbajack. Place the Wabbajack.exe in this folder. i.e., `C:\Wabbajack\`
+
+### Upgrading from previous versions of NOISE:
+
+Wabbajack now supports in-place upgrades, however, anything that doesn’t match the modlist will be deleted. If you’ve added your own mods, back them up to be safe. 
+
+Delete Nice Overall Improvement SE.wabbajack from the C:\Wabbajack\downloaded_mod_lists\ folder. Select NOISE from the Wabbajack UI modlist browser, and redownload. 
+
+Overwrite the previous installation of NOISE, after you’ve ensured you’ve backed up your saves and mods that you included yourself.
+
+
 ### System Specs
 
 With or without DynDOLOD generated, I recommend 4-6GB of VRAM for optimal performance, especially with an ENB. This guide requires you to generate LODs yourself, due to allowing other mods to be installed on top.
@@ -80,22 +91,22 @@ The Program Files folder is not recommended and could cause issues.
 
 ## Installation
 
-Create a new directory in the root directory of the hard drive where you want NOISE to be installed. Do not create a directory within your Skyrim folder. For this guide, we will create an example directory in `C:\` called `NOISE`. You can create this folder on any drive.
+Create a new directory in the root directory of the hard drive where you want everything to be installed. Do not create a directory within your Skyrim folder. For this guide, we will create an example directory in C:\ called NOISE. You can create this folder on any drive.
 
-Open Wabbajack. From here, you have two options:
+Open Wabbajack.
 
-1. Select the NOISE modlist from the Wabbajack UI.
-2. Manual Installation: Download the `.wabbajack` file from the release channel on the Wabbajack Discord.
-  
-If you have opted for a manual installation, click `Install a Modlist` at the bottom of the window. Navigate to `C:\NOISE` and select `Nice Overall Improvement SE.wabbajack` and click `Open`.
+Select the NOISE modlist from the Wabbajack UI.
 
-At the bottom of the new window, the Installation Location will be the folder you created in the root directory of your hard drive. The Download Location will be auto-filled for you by Wabbajack after selecting install location. If you are creating these on your `C:\` drive, please type in `C:\NOISE` in Installation Location and `C:\NOISE\Downloads` in the Download Location. After you have completed these steps, click Begin.
+At the bottom of the new window, the Installation Location will be the folder you created in the root directory of your hard drive. If you are creating these on your C:\ drive, please type in C:\NOISE in Installation Location and C:\NOISE\Downloads in the Download Location. After you have completed these steps, click Begin.
 
-A window will open in your browser asking if you’d like to authorize Wabbajack to use your Nexus Mods account. Click authorize. 
+**DO NOT SET THE PATHS TO YOUR SKYRIM GAME FOLDER.**
 
-Once Wabbajack has finished all of its processes, it will say _Installation complete! You may exit the program._
+**I REPEAT, DO NOT INSTALL MODLISTS TO YOUR SKYRIM STEAM FOLDER.**
 
-If you don’t see _Installation complete_, Wabbajack has encountered an error. To make sure that an error does not happen again, refer to the Old Files Cleanup section and delete the listed folders again. Inside of the NOISE folder, delete everything except the downloads folder or Wabbajack.exe and the modlist file.
+A window will open in Wabbajack asking if you’d like to authorize Wabbajack to use your Nexus Mods account. Log in, and click authorize. Wabbajack will now install the mod pack for you.
+Once Wabbajack has finished all of its processes, the right pane will say Installation complete! You may exit the program. At this point it is safe to close Wabbajack.
+
+If you don’t see Installation complete, Wabbajack has encountered an error. Inside of the NOISE folder, delete everything except the downloads folder or Wabbajack.exe and the modlist file.
 
 If you get an error immediately after authorizing Wabbajack on the Nexus website, download and install the [.Net Framework 4.8 Runtime](https://dotnet.microsoft.com/download/dotnet-framework/net48) executable. Restart your computer and start Wabbajack again.
 
