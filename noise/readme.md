@@ -1,18 +1,14 @@
 ## Introduction
 
-NOISE is a light Modlist designed to be built upon by users, with enhanced graphics, mechanics, and immersion, while staying true to the original vision of Skyrim mechanics; basically, Skyrim ++.
+NOISE is a Modlist designed to be built upon by users, with enhanced graphics, mechanics, and immersion, while staying true to the original vision of Skyrim mechanics; basically, Skyrim ++.
 
-This Modlist has high compatibility with modded player homes, quests, etc.
-
-While Lexy’s LotD is fully featured, patched and smashed (and the best Modlist ever), there is little room to add your own mods without in-depth conflict resolution.
-
-This Modlist allows for you to add what mods you would like (within reason), as long as you take the time to understand how modding works.
+This Modlist has high compatibility with modded player homes, quests, etc. that allows for you to add what mods you would like (within reason), as long as you take the time to understand how modding works.
 
 **REQUIRES NEXUSMODS.COM PREMIUM ACCOUNT**
 
 ## Getting Started
 
-This process requires `88`GB of hard drive space and takes a few hours depending on your internet and computer speed. Installing on an SSD is recommended.
+This process requires `93`GB of hard drive space and takes a few hours depending on your internet and computer speed. Installing on an SSD is recommended.
 
 Download `Wabbajack.exe`. This can be found in the [#builds](https://discord.gg/AzS3dw2) channel in the [Wabbajack discord](https://discord.gg/AzS3dw2).
 
@@ -122,6 +118,8 @@ Now we have to copy files over into their correct spots. Navigate to `C:\NOISE\G
 
 ### BETHINI CONFIG
 
+### Please note that this section is now no longer needed. This is only here for reference if you mess up somehow. You can skip to the “Opening Mod Organizer 2” section.
+
 **You always need to close Mod Organizer 2 before launching BethIN**I
 
 Bethini is located in `C:\NOISE\tools\BethINI`.
@@ -134,7 +132,7 @@ Select Skyrim Special Edition from the drop-down menu.
 
 Once the BethINI window has come up, go to the first tab - Setup.
 
-Double-check that Game Path and INI Path point to the correct locations. If you need to change these, BethINI will restart.   
+Double-check that Game Path and INI Path point to the correct locations. If you need to change these, BethINI will restart. The INI path should be pointed at your Noise\profiles folder.   
 
 ![](https://lh6.googleusercontent.com/6-kB7E7T0c04s1ffnoLpHkJ92r7YCejqzHav-FeBXLLU7KVzvxYuI6J8-l6g_c38mW3Yadv2u5HovtZN034yhnQ5IrI-oXL5VLF_QoWWlD4X14aI0mHWcE7j34TmA6A9ycC2j4qd)
 
@@ -228,13 +226,15 @@ Navigate to `C:\NOISE\` and open `ModOrganizer.exe`
 
 If it asks you to associate Mod Organizer 2 with nxm links, click yes.
 
+***Note:*** If your MO2 window is white and doesn’t list all your mods, then MO2 is not set to Portable mode. Please set your Mod Organizer to portable mode. You can do so by clicking the "Change Game" button in the top left and then selecting portable mode when MO2 restarts.
+
 ### Launching The Game
 
 In Mod Organizer 2, select SKSE from the drop down menu next to the Run button and click Run. This is how you will launch Skyrim from now on.
 
 ## Configuring MCM
 
-After starting a new game, you will spawn in the LAL cell. You’ll find a key to the shelves on a table, with basic loadout necessities. When you’re ready, set up MCM settings and make a save before talking to the statue of Mara.
+After starting a new game, you will spawn in the LAL cell. You’ll find a key to the shelves on a table, with basic loadout necessities. When you’re ready, set up MCM settings and make a save before talking to the statue of Mara. Wait until the text in the top left is finished loading all of your mods, then press Esc and go to your MCM settings.
 
 ### Follower Framework
 
@@ -297,6 +297,31 @@ All other MCM settings can be configured as you like, or depending on extra mods
 
 **Smilodon’s and Obsidian Weathers configurations are powers. Set to your playstyle/preference.**
 
+## Alternate DynDOLOD Settings
+
+By default, NOISE comes packed with premade LOD’s. However, these LOD’s are 2D and thus still have some pop in. If you would like to remove as much of this pop in as possible follow these instructions. Please note that doing this will cost you a significant chunk of performance (about 10 frames). This is not recommended if you’re also using an ENB unless you have 8GB of VRAM.
+
+1. Deactivate the mod “NOISE - Distant Lands” in the left pane of MO2
+2. Open up your install folder and navigate to tools\DynDOLOD\Edit Scripts\DynDOLOD\cache
+3. If there are files other than becauseofreasons.txt delete them. Ensure that becauseofreasons.txt remains there.
+4. Go back one folder so you’re in tools\DynDOLOD\Edit Scripts\DynDOLOD
+5. Open up DynDOLOD_SSE.ini in a text editor like notepad
+6. Scroll down to the line that says TreeLOD=1 and change it to 0
+7. Open MO2 and run TexGen
+8. Ensure that LOD Texture Size is 512
+9. Run it
+10. Exit the program and run DynDOLOD
+11. Click advanced on the window that pops up
+12. Set the Output Directory to an empty folder somewhere
+13. Set up DynDOLOD in accordance with the settings shown below and then click the High preset at the top right
+14. Ensure that all worlds are ticked on the top left
+15. Click start - this process takes about 30 minutes depending on hardware
+16. Once it’s done make sure the log says it’s complete and then hit “Save and Exit”
+17. Navigate to where you set the output folder before and open it
+18. Copy all of its contents and put it into the NOISE - Distant Lands mod
+19. Overwrite when asked
+20. Reactivate NOISE - Distant Lands in MO2 and move DynDOLOD.esm just above FISS.esp
+
 #### Resources
 
 To learn more about Mod Organizer 2, please [watch this video](https://www.youtube.com/watch?v=LwaC7gP7_JM).
@@ -338,7 +363,10 @@ All tools you install will be placed in `C:\NOISE\tools`. Then set them up as ex
 
 Then proceed to use any tools that are necessary, converting the form id by resaving plugins in the Creation Kit, or optimizing meshes and textures with [CAO](https://www.nexusmods.com/skyrimspecialedition/mods/23316). (These are necessary for converting oldrim mods to work with SE)
 
-Rebuild the bashed and smashed patches. Refer to [Lexy’s Guide](https://wiki.nexusmods.com/index.php/User:Darkladylexy/Finish_Page).
+Rebuild the bashed and smashed patches. Refer to [Lexy’s Guide](https://wiki.nexusmods.com/index.php/User:Darkladylexy/Finish_Page). Don’t copy her bash tags as we have already set up custom ones. Also don’t copy her settings tweaks as ours are automatically set.
+
+Rebuild Smash Patch. Just set everything to Smash.All
+
 
 ## F.A.Q.
 
@@ -354,6 +382,9 @@ I’d like to use an ENB with my game.
 
 - What dungeons realistically, aren’t dark? Hold “E” to turn on your lantern.
   
+  What mods are in this Modlist?
+- [List of Mods thanks to Fantastigasmical Alice](https://drive.google.com/open?id=17ip66aRyaohUOtE_y4FXTVA20_uJaBKk)
+
 ## Credits & Thanks
 
 - DarkLadyLexy for instructions on Distant Land, LOOT, Merging, and the Finishing Line.
@@ -368,9 +399,9 @@ I’d like to use an ENB with my game.
 
 - Total for helping me pick out landscape textures, and assisting me with xEdit
 - JustThatKing for assisting with conflicts
-- Lively for assistance, convincing me to do this, and also convincing me to join the Tester team
+- Lively for assistance, convincing me to do this, convincing me to join the Tester team, and contributing to NOISE
 - DinDisco for assisting in conflict resolution
-- Nathan for solving texture seam issues
+- Nathan for solving texture seam issues, and contributing to NOISE
 - Halgari for being patient with me and assisting in modlist creation
 - Skyrim prep and install instructions guidelines from Mdc211's guide
 - All of the above for testing, providing feedback, and assisting with this guide.
