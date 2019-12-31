@@ -2,7 +2,6 @@
 
 Total Skyrim Overhaul is a requiem based modlist, this means it is difficult. If you are looking for a gameplay experience that does not require careful planning I suggest playing NOISE or Lexy's instead. 
 
-o
 
 I will not provide support on how to add or change any mods beyond what is already provided. Do not ask me for help if you changed things. If you do not have experience modding requiem on SSE and patching with xedit I suggest you do not even think of changing anything.\
 NSFW Warning: This list contains nude models for female and males. Nudity will be unavoidable and there's no simple way to get rid of it.
