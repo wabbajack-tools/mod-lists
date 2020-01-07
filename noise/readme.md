@@ -8,7 +8,7 @@ This Modlist has high compatibility with modded player homes, quests, etc. that 
 
 ## Getting Started
 
-This process requires `93`GB of hard drive space and takes a few hours depending on your internet and computer speed. Installing on an SSD is recommended.
+This process requires `107`GB of hard drive space and takes a few hours depending on your internet and computer speed. Installing on an SSD is recommended.
 
 Download `Wabbajack.exe`. This can be found in the [#builds](https://discord.gg/AzS3dw2) channel in the [Wabbajack discord](https://discord.gg/AzS3dw2).
 
@@ -83,7 +83,7 @@ The Program Files folder is not recommended and could cause issues.
 10. OK to save the settings
 11. Close the launcher window
 
-**END IGNORE**
+# **END IGNORE**
 
 ## Installation
 
@@ -118,7 +118,7 @@ Now we have to copy files over into their correct spots. Navigate to `C:\NOISE\G
 
 ### BETHINI CONFIG
 
-### Please note that this section is now no longer needed. This is only here for reference if you mess up somehow. You can skip to the “Opening Mod Organizer 2” section.
+### Please note that this section is now no longer needed. This is only here for reference if you mess up somehow. You can skip to the “Opening Mod Organizer 2” section. Also note that the instructions here are outdated and don’t contain all the changes made. The most important ones are here but fair warning that it’s reference only and not meant to be followed unless you’re specifically making your own changes.
 
 **You always need to close Mod Organizer 2 before launching BethIN**I
 
@@ -297,44 +297,43 @@ All other MCM settings can be configured as you like, or depending on extra mods
 
 **Smilodon’s and Obsidian Weathers configurations are powers. Set to your playstyle/preference.**
 
-## Alternate DynDOLOD Settings
+Alternate DynDOLOD Settings
+---------------------------
 
-By default, NOISE comes packed with premade LOD’s. However, these LOD’s are 2D and thus still have some pop in. If you would like to remove as much of this pop in as possible follow these instructions. Please note that doing this will cost you a significant chunk of performance (about 10 frames). This is not recommended if you’re also using an ENB unless you have 8GB of VRAM.
+By default, NOISE comes packed with premade LOD's. However, these LOD's are 2D and thus still have some pop in. If you would like to remove as much of this pop in as possible follow these instructions. Please note that doing this will cost you a significant chunk of performance (about 10 frames). This is not recommended if you're also using an ENB unless you have 8GB of VRAM.
 
-1. Deactivate the mod “NOISE - Distant Lands” in the left pane of MO2
-2. Open up your install folder and navigate to tools\DynDOLOD\Edit Scripts\DynDOLOD\cache
-3. If there are files other than becauseofreasons.txt delete them. Ensure that becauseofreasons.txt remains there.
-4. Go back one folder so you’re in tools\DynDOLOD\Edit Scripts\DynDOLOD
-5. Open up DynDOLOD_SSE.ini in a text editor like notepad
-6. Scroll down to the line that says TreeLOD=1 and change it to 0
-7. Open MO2 and run TexGen
-8. Ensure that LOD Texture Size is 512
-9. Run it
+1.  Deactivate the mods "NOISE - Texgen Output and NOISE - Dyndolod Output" in the left pane of MO2
+2.  Open up your install folder and navigate to `tools\DynDOLOD\Edit Scripts\DynDOLOD\cache`
+3.  If there are files other than becauseofreasons.txt delete them. Ensure that becauseofreasons.txt remains there.
+4.  Go back one folder so you're in `tools\DynDOLOD\Edit Scripts\DynDOLOD`
+5.  Open up DynDOLOD_SSE.ini in a text editor like notepad
+6.  Scroll down to the line that says TreeLOD=1 and change it to 0
+7.  Open MO2 and run TexGen
+8.  Ensure that LOD Texture Size is 512
+9.  Run it
 10. Exit the program and run DynDOLOD
 11. Click advanced on the window that pops up
 12. Set the Output Directory to an empty folder somewhere
 13. Set up DynDOLOD in accordance with the settings shown below and then click the High preset at the top right
 14. Ensure that all worlds are ticked on the top left
 15. Click start - this process takes about 30 minutes depending on hardware
-16. Once it’s done make sure the log says it’s complete and then hit “Save and Exit”
+16. Once it's done make sure the log says it's complete and then hit "Save and Exit"
 17. Navigate to where you set the output folder before and open it
 18. Copy all of its contents and put it into the NOISE - Distant Lands mod
 19. Overwrite when asked
 20. Reactivate NOISE - Distant Lands in MO2 and move DynDOLOD.esm just above FISS.esp
 
-#### Resources
+## Resources
 
 To learn more about Mod Organizer 2, please [watch this video](https://www.youtube.com/watch?v=LwaC7gP7_JM).
 
-To install Distant Land, refer to [Lexy’s guide](https://wiki.nexusmods.com/index.php/User:Darkladylexy/Finish_Page), or for a more visual approach, [here](https://thephoenixflavour.com/guide/visuals/step-14/) (use Lexy’s for xLODGEN), or watch GamerPoets video on DynDOLOD.
-
 All tools you install will be placed in `C:\NOISE\tools`. Then set them up as executables through MO2.
 
-[https://forum.step-project.com/topic/13451-xlodgen-terrain-lod-beta-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal/](https://forum.step-project.com/topic/13451-xlodgen-terrain-lod-beta-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal/)
+<https://forum.step-project.com/topic/13451-xlodgen-terrain-lod-beta-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal/>
 
-[https://forum.step-project.com/topic/13894-dyndolod-beta-for-skyrim-special-edition-and-skyrim-vr-274/](https://forum.step-project.com/topic/13894-dyndolod-beta-for-skyrim-special-edition-and-skyrim-vr-274/)
+<https://forum.step-project.com/topic/13894-dyndolod-beta-for-skyrim-special-edition-and-skyrim-vr-274/>
 
-#### More resources and learning:
+More resources and learning:
 
 [How to Mod Skyrim SE](https://www.youtube.com/playlist?list=PLlN8weLk86XgJIZXTEPEcU1b6dzA_eJSB)
 
@@ -346,63 +345,87 @@ All tools you install will be placed in `C:\NOISE\tools`. Then set them up as ex
 
 [xEdit](https://www.youtube.com/watch?v=wA5IlESvtCM&list=PLlN8weLk86XiGXJI4DaRa1QIq1zhDpD8V)
 
-#### Adding an ENB:
+## Adding an ENB:
 
-1. If you want to add an ENB you need d3d11.dll and d3dcompiler_46e.dll files from ENBSeries located [here](http://enbdev.com/mod_tesskyrimse_v0390.htm) and place them in your Steam Skyrim folder, and any other files that the ENB you want says to download.
+1.  If you want to add an ENB you need d3d11.dll and d3dcompiler_46e.dll files from ENBSeries located [here](http://enbdev.com/download_mod_tesskyrimse.htm) and place them in your Skyrim Game Folder along with the ENB files. Also grab any other files that the ENB you wish to add specifies.
 
-#### Adding ReShade:
+2.  Refer to the installation instructions that are on the ENB’s page. I recommend anything made for Obsidian Weathers. Selection of ENB presets
 
-- [ReShade Guide](https://www.youtube.com/watch?v=-jQ7OJy0818)
-- [Text Guide](https://reshade.me/forum/troubleshooting/5227)
+I use NVT for Obsidian on my personal installation, ENB is not included with NOISE.
 
-#### Adding mods:
+## Adding ReShade:
+
+-   [ReShade Guide](https://www.youtube.com/watch?v=-jQ7OJy0818)
+
+-   [Text Guide](https://reshade.me/forum/troubleshooting/5227)
+
+## Adding mods:
+
 1.  When adding mods it is important to be able to use modding tools.
+
 2.  Tools commonly used include xEdit, zEdit, Wrye Bash, DynDOLOD, xLODGEN, Mator Smash, Merge Plugins Hide, and TexGen.  
-3.  Add your mods into MO2 and place them in the left panel under the most appropriate separator. You can learn more about MO2 separators here:[Gamerpoets Video](https://www.youtube.com/watch?v=LwaC7gP7_JM)
+
+3.  Add your mods into MO2 and place them in the left panel under the most appropriate separator. You can learn more about MO2 separators here: [Gamerpoets Video](https://www.youtube.com/watch?v=LwaC7gP7_JM)
+
 4.  Check your mods for conflicts with any other mods in the list using xEdit. 
 
-Then proceed to use any tools that are necessary, converting the form id by resaving plugins in the Creation Kit, or optimizing meshes and textures with [CAO](https://www.nexusmods.com/skyrimspecialedition/mods/23316). (These are necessary for converting oldrim mods to work with SE)
+5.  Then proceed to use any tools that are necessary, converting the form id by resaving plugins in the Creation Kit, or optimizing meshes and textures with [CAO](https://www.nexusmods.com/skyrimspecialedition/mods/23316). (These are necessary for converting oldrim mods to work with SE)
 
-Rebuild the bashed and smashed patches. Refer to [Lexy’s Guide](https://wiki.nexusmods.com/index.php/User:Darkladylexy/Finish_Page). Don’t copy her bash tags as we have already set up custom ones. Also don’t copy her settings tweaks as ours are automatically set.
+## DO NOT USE LOOT TO SORT THE LOAD ORDER. DO IT MANUALLY BY CHECKING FOR CONFLICTS IN xEDIT
 
-Rebuild Smash Patch. Just set everything to Smash.All
+Rebuild the bashed patch. Refer to [Lexy's Guide](https://wiki.nexusmods.com/index.php/User:Darkladylexy/Finish_Page). Don't copy her bash tags as we have already set up custom ones. Also don't copy her settings tweaks as ours are automatically set.
+
+Rebuild Smash Patch. Make sure to actually add the new mods to the patch and just set everything except Skyrim.esm to Smash.All
+
+Refer to the [Method](https://www.nexusmods.com/skyrimspecialedition/mods/25522) (halfway down the page)
+
+# F.A.Q
+
+## The difficulty is too hard/easy!
+
+-   Use the difficulty slider in options, configure Smilodon's Power.
+
+## The dungeons are too dark!
+-   What dungeons, realistically, aren't dark? Hold "E" to turn on your lantern.
+
+## What's in this modlist?
+-   [List of Mods thanks to Fantastigasmical Alice](https://drive.google.com/open?id=17ip66aRyaohUOtE_y4FXTVA20_uJaBKk) 
+
+## There are empty mods with red X's!
+-   Leave them alone. Do not touch. Do not touch anything in optional folders. These mods are merged. This applies to all modlists.
+
+## Can you add/remove X mod?
+-   Only if I feel like it. But at this point, the answer will probably be no. This is meant to be added on to. Add it yourself.
+
+## The modlist updated, and you added/removed X mod?!?! Why??!?
+-   Because I felt like it, or it didn't fit my original vision, or it's too much of a hassle to deal with. I have a limited time left on this planet and don't want to recompile/fix things every 5 minutes. If you enjoy the version you're on, there is no need to update with WJ. You can update mods yourself, and check for relevant updates by using the Updated tab on the [SSE Nexus](https://www.nexusmods.com/skyrimspecialedition?tab=updated)
+
+## How do I redo Bashed/Smashed Patches?
+-   NOISE specific: Tick all the boxes in Wyre Bash except import cells and import sounds. Smash patch you just add everything to the patch and set everything to smash.all except for Skyrim.esm which you don't put in the patch.
+
+## I want to use a CBBE physics based body instead of the UNP that comes with Diversity.
+-   Delete the zPatch, remove all NPC/character appearance mods, install CBBE and CBBE compatible mods, the armors in NOISE are not converted for UNP, so also install CBBE armor stuff if you want. Then do the bodyslide conversions. Bodyslide is not included in NOISE at this time.
+-   Install CBBE -> CBBE Body Texture -> Skeleton with Physics option -> CBBE 3BBB -> CPBC -> HDT. You need to check what body is being used because SSE has HDT (new open source), HDT-SMP (old closed source), CBCP (okish but not so refined as HDT, also low on CPU usage), than CBBE SE, or CBBE 3BBB or CBBE 3BBB Advanced. (Thanks to Erri120)
+-   I don't offer help in this regard, because mucking about in Bodyslide is not my forte.
 
 
-## F.A.Q.
+Credits & Thanks
+----------------
 
-I’d like to use an ENB with my game.
+-   DarkLadyLexy for instructions on Distant Land, LOOT, Merging, and the Finishing Line.
+-   Halgari for creating [Wabbajack](https://github.com/halgari/wabbajack)
+-   [Halgari's Patreon](https://www.patreon.com/user?u=11907933)
+-   Wabbajack Discord Mods, Devs, Golden Saints, and Tester Team
+-   Phoenix for The Phoenix Flavor guide, for the Bethini section and a guide on DynDOLOD.[https://thephoenixflavour.com/](https://thephoenixflavour.com/)
 
-- Refer to the installation instructions that are on the ENB’s page. I recommend anything made for Obsidian Weathers.
-  
-  The difficulty is too hard/easy!
-
-- Use the difficulty slider in options, configure Smilodon’s Power.
-  
-  The dungeons are too dark!
-
-- What dungeons realistically, aren’t dark? Hold “E” to turn on your lantern.
-  
-  What mods are in this Modlist?
-- [List of Mods thanks to Fantastigasmical Alice](https://drive.google.com/open?id=17ip66aRyaohUOtE_y4FXTVA20_uJaBKk)
-
-## Credits & Thanks
-
-- DarkLadyLexy for instructions on Distant Land, LOOT, Merging, and the Finishing Line.
-- Halgari
-- For creating [Wabbajack](https://github.com/halgari/wabbajack)
-- [Halgari’s Patreon](https://www.patreon.com/user?u=11907933)
-- Wabbajack Discord Mods, Devs, and Tester Team
-- Phoenix for The Phoenix Flavor guide, for the Bethini section and a guide on DynDOLOD.
-    <https://thephoenixflavour.com/>
-  
 ### Contributors
 
-- Total for helping me pick out landscape textures, and assisting me with xEdit
-- JustThatKing for assisting with conflicts
-- Lively for assistance, convincing me to do this, convincing me to join the Tester team, and contributing to NOISE
-- DinDisco for assisting in conflict resolution
-- Nathan for solving texture seam issues, and contributing to NOISE
-- Halgari for being patient with me and assisting in modlist creation
-- Skyrim prep and install instructions guidelines from Mdc211's guide
-- All of the above for testing, providing feedback, and assisting with this guide.
-- Mod Authors: Do not forget to endorse!
+-   Total for helping me pick out landscape textures, assisting me with xEdit
+-   JustThatKing for assisting with conflicts and choosing textures
+-   Lively for assistance, convincing me to do this, and also convincing me to join the Tester team, and contributing to NOISE
+-   DinDisco for assisting in conflict resolution
+-   Nathan for solving texture seam issues, and contributing to NOISE
+-   Halgari for being patient with me and assisting in modlist creation
+-   Skyrim prep and install instructions guidelines from Mdc211's Lexy LotD Wabbajack guide
+-   All of the above for testing, providing feedback, and assisting with this guide.
+-   Mod Authors: Do not forget to endorse!
