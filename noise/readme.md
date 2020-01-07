@@ -10,7 +10,7 @@ This Modlist has high compatibility with modded player homes, quests, etc. that 
 
 This process requires `107`GB of hard drive space and takes a few hours depending on your internet and computer speed. Installing on an SSD is recommended.
 
-Download `Wabbajack.exe`. This can be found in the [#builds](https://discord.gg/AzS3dw2) channel in the [Wabbajack discord](https://discord.gg/AzS3dw2).
+Download `Wabbajack.exe`. This can be found in the [#builds](https://discord.gg/2ez4dAV) channel in the [Wabbajack discord](https://discordapp.com/invite/Wabbajack).
 
 Create a folder at the root of your drive called Wabbajack. Place the Wabbajack.exe in this folder. i.e., `C:\Wabbajack\`
 
