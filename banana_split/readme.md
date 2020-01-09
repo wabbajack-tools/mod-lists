@@ -10,7 +10,7 @@ Better graphics, tons of new weapons and armor, plenty of extra content, and imp
   *Current build version of Wabbajack. This can be found on the Wabbajack Discord linked above.
   *Clean install of Fallout 4, without HD DLC.
   *Nexus Premium.
-  *109 gigs of free space. Note that this number does NOT include your Fallout 4 installation.
+  *100 gigs of free space. Note that this number does NOT include your Fallout 4 installation.
 
 #### **_Installation Instructions:_**
 
@@ -53,14 +53,14 @@ As for the extra steps involved, it’s for the best. First, it enables users to
 *If you ever need to update your Fallout 4, back up these new ba2 files before you verify/update. Otherwise you’ll have to do it all over again.*  
 Anyway, now that we got that over with, let’s move on.
 
-1. Download the latest version of Wabbajack (beta 12 at the time of this writing).
+1. Download the latest version of Wabbajack (1.0 beta 15 at the time of this writing).
 2. Create a new folder at the root of a drive (Example: D:\Wabbajack).
 3. Place the Wabbajack.exe into this new folder.
-4. Download the newest BananaSplit v2.6.6.wabbajack file from the Wabbajack Discord, or install directly from the Wabbajack User Interface.
+4. Download the newest BananaSplit v2.7.wabbajack file from the Wabbajack Discord, or install directly from the Wabbajack User Interface.
 5. Place the modlist file into the Wabbajack folder, next to the Wabbajack.exe file. Skip this step if installing directly from the Wabbajack User Interface.
 6. Launch Wabbajack.exe. If you are installing directly from the Wabbajack User Interface, then choose the "Browse Modlists" option, download Banana Split, and skip to Step 9.
 7. Select “Install a Modlist”
-8. Navigate to the BananaSplit v2.6.6.wabbajack file you just downloaded.
+8. Navigate to the BananaSplit v2.7.wabbajack file you just downloaded.
 9. In “Installation Location” choose a blank folder at the root of a drive (example: D:\Banana Split). **DO NOT** install your modlist to the same folder where you put Wabbajack.exe.
 10. The “Download Location” will update automatically. You can change it if you want.
 11. Click the "Play" arrow.
