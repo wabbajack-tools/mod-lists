@@ -4,6 +4,8 @@ NOISE is a Modlist designed to be built upon by users, with enhanced graphics, m
 
 This Modlist has high compatibility with modded player homes, quests, etc. that allows for you to add what mods you would like (within reason), as long as you take the time to understand how modding works.
 
+[Changelog](https://docs.google.com/document/d/1qOsYUJ-PF3Y50JnbEs67ppv1CH7D1XoumCPhfcGRW5g/)
+
 **REQUIRES NEXUSMODS.COM PREMIUM ACCOUNT**
 
 ## Getting Started
