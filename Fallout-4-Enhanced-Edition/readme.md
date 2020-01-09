@@ -36,13 +36,9 @@ After it finishes, go to your install folder, and open up the `Game Folder Files
 
 ### Step 2:
 
-Download the latest ENB files from [here](http://enbdev.com/download_mod_fallout4.htm). In the archive you download, go into the folder `Wrapper Version` and copy only `d3d11.dll` and `d3dcompiler_46e.dll` to your Fallout 4 directory.
-
-### Step 3:
-
 Go back to your install folder. In a folder named `WorkBase`, create 2 folders called `OriginalBa2` and `PatchedBa2`.
 
-### Step 4:
+### Step 3:
 
 Then, go to your `Fallout4/Data` folder, Cut or Copy (Depending on how much space you have) these 15 files:  
 
@@ -64,23 +60,23 @@ Then, go to your `Fallout4/Data` folder, Cut or Copy (Depending on how much spac
 
 Paste these files into your `install folder/WorkBase/OriginalBa2` folder.
 
-### Step 5:
+### Step 4:
 
 Run the installer.bat file inside of WorkBase, and when it is done (grab a coffee, you're gonna be here for a little), Cut and Paste all of the files inside of the `PatchedBa2` folder into your `Fallout4/Data` folder, and overwrite if necessary. After pasting those files, you may Delete the `WorkBase` folder.
 
-### Step 6:
+### Step 5:
 
 Launch MO2 from the exe found in your install folder. When it launches, be sure to select `Portable` and then `Fallout 4`. You can take the optional tutorial if you would like. Once launched, in your right pane, select the `Downloads` tab.
 
+### Step 6:
+
+In the top left of MO2, select `FO4Config`, and hit the `Run` button. When opened, direct it to your `Fallout4.exe` location. After this is done, follow these pictures and instructions --->  [Click Here](https://imgur.com/a/0On3H1o). Just make sure to copy those images, and you will be good. After that is done, be sure to click `Save` and close the program.
+
 ### Step 7:
-
-In MO2, select `FO4Config`, and hit the `Run` button. When opened, direct it to your `Fallout4.exe` location. After this is done, follow these pictures and instructions --->  [Click Here](https://imgur.com/a/0On3H1o). Just make sure to copy those images, and you will be good. After that is done, be sure to click `Save` and close the program.
-
-### Step 8:
 
 Follow any Optional Additional Mods steps on the [Nexus F4EE page](https://www.nexusmods.com/fallout4/mods/39996) that you feel like using. These mods are officially okay to add on top of F4EE. Launch the game using F4SE (located in the top right of MO2).
 
-### Step 9:
+### Step 8:
 
 After creating your character, you should configure the MCM menus found at the top of your pause menu. Follow [these pictures](https://imgur.com/a/sTVhaFd) and you will be good! After getting the Pipboy, make sure to load both the True Storms Config and Beantown Interiors holotapes, then follow the final images in the link above to finish your config!
 
