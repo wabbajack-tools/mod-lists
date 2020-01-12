@@ -1,0 +1,22 @@
+{
+  "name": "json-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "modlists.test.js",
+  "scripts": {
+    "test": "npm run jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wabbajack-tools/mod-lists.git"
+  },
+  "author": "erri120",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wabbajack-tools/mod-lists/issues"
+  },
+  "homepage": "https://github.com/wabbajack-tools/mod-lists#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
