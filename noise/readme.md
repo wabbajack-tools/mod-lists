@@ -354,7 +354,7 @@ More resources and learning:
 
 ## Adding an ENB:
 
-1.  If you want to add an ENB you need d3d11.dll and d3dcompiler_46e.dll files from ENBSeries located at http://enbdev.com/download_mod_tesskyrimse.htm and place them in your Skyrim Game Folder along with the ENB files. Also grab any other files that the ENB you wish to add specifies.
+1.  If you want to add an ENB you need d3d11.dll and d3dcompiler_46e.dll files from ENBSeries located at [The ENB Dev site here](http://enbdev.com/download_mod_tesskyrimse.htm) and place them in your Skyrim Game Folder along with the ENB files. Also grab any other files that the ENB you wish to add specifies.
 
 2.  Refer to the installation instructions that are on the ENB’s page. I recommend anything made for Obsidian Weathers. Selection of ENB presets
 
