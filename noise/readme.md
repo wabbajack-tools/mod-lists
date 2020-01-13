@@ -354,7 +354,7 @@ More resources and learning:
 
 ## Adding an ENB:
 
-1.  If you want to add an ENB you need d3d11.dll and d3dcompiler_46e.dll files from [ENBSeries](http://enbdev.com/download_mod_tesskyrimse.htm) and place them in your Skyrim Game Folder along with the ENB files. Also grab any other files that the ENB you wish to add specifies.
+1.  If you want to add an ENB you need d3d11.dll and d3dcompiler_46e.dll files from [ENBSeries](http://enbdev.com/download\_mod\_tesskyrimse.htm) and place them in your Skyrim Game Folder along with the ENB files. Also grab any other files that the ENB you wish to add specifies.
 
 2.  Refer to the installation instructions that are on the ENB’s page. I recommend anything made for Obsidian Weathers. Selection of ENB presets
 
@@ -423,7 +423,7 @@ Credits & Thanks
 -   Halgari for creating [Wabbajack](https://github.com/halgari/wabbajack)
 -   [Halgari's Patreon](https://www.patreon.com/user?u=11907933)
 -   Wabbajack Discord Mods, Devs, Golden Saints, and Tester Team
--   Phoenix for The Phoenix Flavor guide, for the Bethini section and a guide on DynDOLOD.[https://thephoenixflavour.com/](https://thephoenixflavour.com/)
+-   Phoenix for The Phoenix Flavor guide, for the Bethini section and a guide on DynDOLOD. [https://thephoenixflavour.com/](https://thephoenixflavour.com/)
 
 ### Contributors
 
