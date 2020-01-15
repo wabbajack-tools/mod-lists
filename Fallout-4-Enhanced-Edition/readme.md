@@ -40,7 +40,7 @@ Download the latest ENB binaries from [the ENB website](http://enbdev.com/downlo
 
 ### Step 3:
 
-Go back to your install folder. In a folder named `WorkBase`, create 2 folders called `OriginalBa2` and `PatchedBa2`.
+Go back to your install folder. In a folder named `WorkBase`, create a folder called `OriginalBa2`.
 
 ### Step 4:
 
