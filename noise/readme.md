@@ -304,7 +304,7 @@ Alternate DynDOLOD Settings
 
 By default, NOISE comes packed with premade LOD's. However, these LOD's are 2D and thus still have some pop in. If you would like to remove as much of this pop in as possible follow these instructions. Please note that doing this will cost you a significant chunk of performance (about 10 frames). This is not recommended if you're also using an ENB unless you have 8GB of VRAM.
 
-1.  Deactivate the mods "NOISE - Texgen Output and NOISE - Dyndolod Output" in the left pane of MO2
+1.  Deactivate the mod "NOISE - Dyndolod Output" in the left pane of MO2
 2.  Open up your install folder and navigate to `tools\DynDOLOD\Edit Scripts\DynDOLOD\cache`
 3.  If there are files other than becauseofreasons.txt delete them. Ensure that becauseofreasons.txt remains there.
 4.  Go back one folder so you're in `tools\DynDOLOD\Edit Scripts\DynDOLOD`
@@ -326,9 +326,9 @@ By default, NOISE comes packed with premade LOD's. However, these LOD's are 2D a
 15. Click start - this process takes about 30 minutes depending on hardware
 16. Once it's done make sure the log says it's complete and then hit "Save and Exit"
 17. Navigate to where you set the output folder before and open it
-18. Copy all of its contents and put it into the NOISE - Distant Lands mod
+18. Copy all of its contents and put it into the NOISE - Dyndolod Output mod
 19. Overwrite when asked
-20. Reactivate NOISE - Distant Lands in MO2 and move DynDOLOD.esm just above FISS.esp
+20. Reactivate NOISE - Dyndolod Output and move DynDOLOD.esm just above FISS.esp
 
 ## Resources
 
