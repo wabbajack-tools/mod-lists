@@ -118,117 +118,13 @@ Expanding on server rules, **do NOT** contact outside authors such as DarkLadyLe
 
 Now we have to copy files over into their correct spots. Navigate to `C:\NOISE\Game Folder Files\`. Copy all of these files and paste them into `C:\steamapps\common\Skyrim Special Edition\`
 
-### BETHINI CONFIG
-
-### Please note that this section is now no longer needed. This is only here for reference if you mess up somehow. You can skip to the “Opening Mod Organizer 2” section. Also note that the instructions here are outdated and don’t contain all the changes made. The most important ones are here but fair warning that it’s reference only and not meant to be followed unless you’re specifically making your own changes.
-
-**You always need to close Mod Organizer 2 before launching BethIN**I
-
-Bethini is located in `C:\NOISE\tools\BethINI`.
-
-Click on Bethini.exe.
-
-You will be prompted with a window asking you to choose your game.
-
-Select Skyrim Special Edition from the drop-down menu.
-
-Once the BethINI window has come up, go to the first tab - Setup.
-
-Double-check that Game Path and INI Path point to the correct locations. If you need to change these, BethINI will restart. The INI path should be pointed at your Noise\profiles folder.   
-
-![](https://lh6.googleusercontent.com/6-kB7E7T0c04s1ffnoLpHkJ92r7YCejqzHav-FeBXLLU7KVzvxYuI6J8-l6g_c38mW3Yadv2u5HovtZN034yhnQ5IrI-oXL5VLF_QoWWlD4X14aI0mHWcE7j34TmA6A9ycC2j4qd)
-
-#### Basic
-
-BethINI Presets are toggled by default, but we’ll also select Recommended Tweaks.
-
-Double-check whether Resolution is set to the correct value.
-
-For high-end PC owners I would recommend the High option and everyone else might want to select Medium. If your PC is already struggling with vanilla Skyrim go for the Low option.
-
-Disable both VSYNC and Lock Frame Rate. Havok fix caps the frame rate for us.
-
-Set Antialiasing to NONE and disable FXAA if you don't like how FXAA blurs the screenspace. TAA is terrible in SE.
-
-Follow the steps for Nvidia Profile Inspector on [Lexy's Guide](https://wiki.nexusmods.com/index.php/User:Darkladylexy/Lexys_LOTD_SE) for antialiasing using your GPU driver.
-
-![](https://lh5.googleusercontent.com/R8P2C-BxTpjxd9LeDDCQttxHLmnp-4YQgl2FqvNHwKrts29dwxCvBXzrBt6up0FtZOaBPDsJSfPhUr2P-hJgJO_c3VAVnVqCo-XvElCpov-PyOyu6JBLx_uoyq5lxmtCjYnm4hpm)
-
-#### General
-
-Disable Intro Logos.
-
-![](https://lh4.googleusercontent.com/6DQkEiEc_UGpzgHEpX_AUnc9PI7YpPVVK0PRG04_ZGCmQTWNpVOBLZ2r063NTlHcFTQ8YgIWBxnkwrTShryIDabVsi8gKjUvK9L5ItwoFYmMEPtx-Fp2piWc_XFHRPOLTluB3F1q)
-
-#### Interface
-
-I prefer my Lock Sensitivity to be high. Set this to what you need.
-
-Dialogue Subtitles and General Subtitles are unchecked by default, toggle them on if you want them.\
-You can still always toggle them in game.
-
-![](https://lh5.googleusercontent.com/LsOUZXJVhF8rYRL0vbNzeKHRxgy6_Tfh4RiWI4oghO_eXdi1p_BRM8KE9HqVi_REaO6AFL31zXB8Cxc1FUP_mtren6OOB0jpU0RKg0iR2IIM1e6XIvgOYD8d7fXpKvFBpOp2Oy0k)
-
-#### Detail
-
-Continue with the sixth tab, Detail.
-
-Godrays: Use your personal preference, although they have a large FPS hit.
-
-Field of View: Increase this if you prefer a wider FoV.
-
-Lens Flare: Matter of taste.
-
-Anamorphic Lens Flare: Disabled
-
-Ambient Occlusion: FULL (unless using ENB, then disable)
-
-Shadow Bias: set to 0.47 (fixes ugly pyramid-shapes in snowy regions)
-
-Improved Snow Shader: Disable
-
-Note: Depth of field here is NOT the DOF slider in game. This is the option for blurred viewspaces underwater.\
-
-![](https://lh6.googleusercontent.com/K3py_rUflisV9c6Z5KJRhGL1cy24rlDHd2veNaeyhtqr8CGtfMLfjkd7UqiE9Jm7H_ZHJupQFw6kwsCZUj0aXXyR9s2gm5Sx7UakF1t9dA3uW53OqwHsFp-4siJZfZUQ0Mr2sX1a)
-
-#### View Distance
-
-Grass Fade: 15000 — or higher
-![](https://lh4.googleusercontent.com/MI9NQ0AwzLJhn_pwep2zVVg6XLmF4g_r6seXfyptiLZrg6cgE56-QkOEA8vKwu9GQbQyQDUid_WBeVha5GQR0g5EQUoW2uEXnSPtfJCbRKM1djfV4-vb-XnjpaUI3mNKVS83pZmh)
-
-#### Go to the Custom tab
-
-Select the following: `Section: Select Display`
-
-Setting: Select `fGlobalContrastBoost`.
-
-Change the value to `-0.1800`.
-
-![](https://lh3.googleusercontent.com/iwdyzmWoe5pkXmv2cGnSzaYcHXRMtJFuiYsT8_Qj7YMePk1FtqPhih4kKWRRDKwhk8CrQF5aQzo-XiNCGy8Pm50zyo2ixpEyNymuJw9aGD2gqxC_kLq2Veq2v5MMM_up_TSDVT9n)
-
-Click Save.
-
-#### Section: General
-
-Setting: Select `bModManagerMenuEnabled`
-
-Change the value to `0`.
-
-Click Save.
-
-This will disable the MODS entry in the in-game pause menu.
-
-![](https://lh6.googleusercontent.com/4id7PvrNiQ7e8JeKNAF6fyPOfPxntUGvpTi3RWX4_RGKe4PurKwesz72WLpTwSXivCnULW8V7LpRpTizXD2EE0YGb_EkVddofaiVAkpHyZAdsW-yz_RDzomdhIQA0rp2Rz3LFS4Q)
-
-Return to the second tab, Basic, and click Save and Exit.
+Follow the steps for Nvidia Profile Inspector on [Lexy's Guide](https://wiki.nexusmods.com/index.php/User:Darkladylexy/Lexys_LOTD_SE) for antialiasing and capping your FPS using your GPU driver, if not using ENB. For AMD users, use ENB or set the "Frame Rate Target Control" under "Global Settings". 
 
 ### Opening Mod Organizer 2
 
 Navigate to `C:\NOISE\` and open `ModOrganizer.exe`
 
 If it asks you to associate Mod Organizer 2 with nxm links, click yes.
-
-***Note:*** If your MO2 window is white and doesn’t list all your mods, then MO2 is not set to Portable mode. Please set your Mod Organizer to portable mode. You can do so by clicking the "Change Game" button in the top left and then selecting portable mode when MO2 restarts.
 
 ### Launching The Game
 
@@ -242,8 +138,7 @@ After starting a new game, you will spawn in the LAL cell. You’ll find a key t
 
 - Only Sandbox in Town: X
 - Mounts: Riding Support Only
-
-![](https://lh3.googleusercontent.com/hVYuqO09tA5s7I8EIgHf_RDUv1tpMYV4N9_qow_ieAKwXBQQ_Ihr28VxdD_kVyyaK3XObZsTWmbo4UgpMfCY9mGpUeG8GJrY4YnwnSJcImxjqUaVbyKAhi1c_-ea2HvHNPxY9K61)
+- Stealth: Extinguish Torches X
 
 ### Immersive Horses
 
@@ -255,22 +150,14 @@ After starting a new game, you will spawn in the LAL cell. You’ll find a key t
 
 - Disable Trample Effect
 
-![](https://lh4.googleusercontent.com/XmE-NT7N-ts_KlORdMBCCgkZGZEiwIkL5116jMb_sXuHuinH83rVorbJsdatFgnjiETb2PyLFKTJyVxA9s7xeMr1cl5Q8lidV6ONTKaM-3BLRdVuKCejo3Zg345MNEn8a7MShgtL)
-
 ### Immersive HUD
 
 - Activation: Keypress toggles: X
-
-![](https://lh4.googleusercontent.com/8W7ybP7pmrDgqe0YuKOoRA8SKPK7GaNhLy71WktKSM6L6E9qA2zmmRE7MNT6nzHk9rc6Wzv6XNMRAt2j7FYozS0D2ciZZZYoNOMCgQuPxU5dMknvREtfs4ZdHISWBj9HvSGLIHf_)
-
-![](https://lh6.googleusercontent.com/c1nrncz2sr5aPF1XXAdabkTXN1w1cprgvWLIG6Xj2MqvsDgOczQFbV3aR4mGVd-TfGLQptdK2umRRLju0SqeMKDO3aOKLLMLIBVfpr6892Ih2khFGwCgJCvR6lQIzcZ5EzvZLRf9)
-
 
 ### SKYUI
 
 - Advanced: Disable all SWF Version Checking
 
-![](https://lh4.googleusercontent.com/cnNz-Akn159pVE6nVvpEnUqVgYYARS3ojQ71fLXvx4T5ENQEac3161OCsZIRH-hB-nacGAE1AyFAJszsB-nelzs6ZLKEaGE9BA7wDHb2etDEMQgVqm2bp0nZBLE9b7UuuMffAg4V)
 
 ### Violens
 
@@ -278,7 +165,6 @@ After starting a new game, you will spawn in the LAL cell. You’ll find a key t
 
 Keep Advancing Killmoves to OFF. This can cause your character to become stuck in the terrain/walls/etc.
 
-![](https://lh6.googleusercontent.com/xBKdbc2s--NuHnNeZqGc4Sp7XD_Z1WEOsPJfzDqEZcwV50K5AsFYYUb31lnRdfmNp5b1I-zwhEqY3wJJmElNb2o4lOVUMEgYFDi4S_htwIC5GdF0dWbITBPG6YjWxjHtHTzFDM6c)
 
 ### Thieves Guild Requirements
 
@@ -286,14 +172,12 @@ Items Stolen: 100
 
 Radiant jobs completed: 6, 15
 
-![](https://lh3.googleusercontent.com/cXXP_ldRkyiY0e-f-0datOI4yqLYx6IHeeVmG8wBn_K9bv0zAUdQsNsAvuSZzVOGTh_zlsku5e4kEbSVpPbEEH4-4mf-P1ACIHuW-YshzOQ_k_RNEqdVvmP2x5qKrC99Wa7nMQA6)
 
 ### Realistic Water 2 Settings
 
   Kynesgrove X
 
   Rorikstead X
-![](https://lh6.googleusercontent.com/EI4vWlofS-4ifOlFPShvYi-Pld7qnN5QY9mZNicDWXUjt3Q8923_tA-DkuWrIgVMBsTNxMPSFdSCgMzJIJVy4XZvMsnzuy3PypL8aJ_AtwVDASVdmOOjInwpJg7XpaQeJBnkve73)
 
 All other MCM settings can be configured as you like, or depending on extra mods you’ve installed.
 
@@ -388,6 +272,8 @@ Refer to the [Method](https://www.nexusmods.com/skyrimspecialedition/mods/25522)
 
 # F.A.Q
 
+[Wabbajack Discord FAQ](https://discord.gg/qz9a2J)
+
 ## The difficulty is too hard/easy!
 
 -   Use the difficulty slider in options, configure Smilodon's Power.
@@ -407,8 +293,8 @@ Refer to the [Method](https://www.nexusmods.com/skyrimspecialedition/mods/25522)
 ## The modlist updated, and you added/removed X mod?!?! Why??!?
 -   Because I felt like it, or it didn't fit my original vision, or it's too much of a hassle to deal with. I have a limited time left on this planet and don't want to recompile/fix things every 5 minutes. If you enjoy the version you're on, there is no need to update with WJ. You can update mods yourself, and check for relevant updates by using the Updated tab on the [SSE Nexus](https://www.nexusmods.com/skyrimspecialedition?tab=updated)
 
-## How do I redo Bashed/Smashed Patches?
--   NOISE specific: Tick all the boxes in Wyre Bash except import cells and import sounds. Smash patch you just add everything to the patch and set everything to smash.all except for Skyrim.esm which you don't put in the patch.
+## How do I redo Smash Patch?
+-   NOISE specific: Smash patch you just add everything to the patch and set everything to smash.all except for Skyrim.esm, which you don't put in the patch. We use Wrye Bash only for tweaks, due to the app storing files in various locations and causing variables on end-user/modlist dev PC's.
 
 ## I want to use a CBBE physics based body instead of the UNP that comes with Diversity.
 -   Delete the zPatch, remove all NPC/character appearance mods, install CBBE and CBBE compatible mods, the armors in NOISE are not converted for UNP, so also install CBBE armor stuff if you want. Then do the bodyslide conversions. Bodyslide is not included in NOISE at this time.
