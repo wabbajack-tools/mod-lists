@@ -423,7 +423,8 @@ Credits & Thanks
 -   Halgari for creating [Wabbajack](https://github.com/halgari/wabbajack)
 -   [Halgari's Patreon](https://www.patreon.com/user?u=11907933)
 -   Wabbajack Discord Mods, Devs, Golden Saints, and Tester Team
--   Phoenix for The Phoenix Flavor guide, for the Bethini section and a guide on DynDOLOD. [https://thephoenixflavour.com/](https://thephoenixflavour.com/)
+-   Phoenix for The Phoenix Flavor guide, for the Bethini section and a guide on DynDOLOD. [https://thephoenixflavour.com/](https://thephoenixflavour.com/) 
+-   [Phoenix's Patreon](https://www.patreon.com/thephoenixflavour)
 
 ### Contributors
 
