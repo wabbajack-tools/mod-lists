@@ -76,7 +76,7 @@ The Program Files folder is not recommended and could cause issues.
 1. Open Steam
 2. Launch The Elder Scrolls V: Skyrim Special Edition
 3. In the launcher window that appears, click OPTIONS
-4. In the menu that appears, click the Ultra button
+4. In the menu that appears, click the Ultra button (this is irrelevant, we set up inis for you, but it's good to do anyway)
 5. Set the Aspect Ratio 
 6. Set the Resolution 
 7. Set Antialiasing to Off
