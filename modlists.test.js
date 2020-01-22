@@ -23,9 +23,12 @@ describe(`checking links for ${modlists.length} Modlists`, () => {
             
             test(`checking link ${link} of ${modlist.title}`, async () => {
                 expect.assertions(1);
-                return axios.get(link).then(res => {
+                return axios.head(link).then(res => {
                     expect(res.status).toBe(200);
-                }).catch(err => err);
+                }).catch(err => {
+                    const code = err.response.status;
+                    expect(code).toBe(405);
+                });
             })
         });
     });
