@@ -4,7 +4,7 @@ NOISE is UNDER CONSTRUCTION
 
 See [Wabbajack discord](https://discordapp.com/invite/Wabbajack).
 
-[Changelog](https://docs.google.com/document/d/1qOsYUJ-PF3Y50JnbEs67ppv1CH7D1XoumCPhfcGRW5g/)
+[Changelog](https://drive.google.com/open?id=1pGO_tX7sSHoVBK2G4pn-BpGqCA3MxJvY)
 
 **REQUIRES NEXUSMODS.COM PREMIUM ACCOUNT**
 
