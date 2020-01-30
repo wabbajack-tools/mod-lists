@@ -1,8 +1,6 @@
 ## Introduction
 
-NOISE is UNDER CONSTRUCTION
-
-See [Wabbajack discord](https://discordapp.com/invite/Wabbajack).
+[Wabbajack discord](https://discordapp.com/invite/Wabbajack).
 
 [Changelog](https://drive.google.com/open?id=1pGO_tX7sSHoVBK2G4pn-BpGqCA3MxJvY)
 
@@ -305,10 +303,52 @@ Refer to the [Method](https://www.nexusmods.com/skyrimspecialedition/mods/25522)
 ## How do I redo Smash Patch?
 -   NOISE specific: Smash patch you just add everything to the patch and set everything to smash.all except for Skyrim.esm, which you don't put in the patch. We use Wrye Bash only for tweaks, due to the app storing files in various locations and causing variables on end-user/modlist dev PC's.
 
-## I want to use a CBBE physics based body instead of the UNP that comes with Diversity.
--   Delete the zPatch, remove all NPC/character appearance mods, install CBBE and CBBE compatible mods, the armors in NOISE are not converted for UNP, so also install CBBE armor stuff if you want. Then do the bodyslide conversions. Bodyslide is not included in NOISE at this time.
--   Install CBBE -> CBBE Body Texture -> Skeleton with Physics option -> CBBE 3BBB -> CPBC -> HDT. You need to check what body is being used because SSE has HDT (new open source), HDT-SMP (old closed source), CBCP (okish but not so refined as HDT, also low on CPU usage), than CBBE SE, or CBBE 3BBB or CBBE 3BBB Advanced. (Thanks to Erri120)
--   I don't offer help in this regard, because mucking about in Bodyslide is not my forte.
+## I want to use another body instead of the UNP that comes with Diversity.
+
+You have multiple options:
+1.  Normal CBBE
+2.  CBBE SE (don't even bother, its outdated)
+3.  CBBE 3BBB Normal or Advanced version
+4.  Normal UNP (already included in Diversity)
+5.  BHUNP 3BBB
+
+The most important question you need to answer is "Do you wanna see them tiddies bouncing"? If you're answer is "no" then you should go with either normal CBBE or normal UNP (already included).
+
+If you're answer is "hell yes" then you have to decide between going CBBE 3BBB or BHUNP 3BBB. 3BBB is a new type of body which utilizes 3  breast&butt bones and are very modern and new. Since the dawn of mankind we have asked the question "CBBE or UNP"? This is something you have to decide on your own.
+
+## CBBE 3BBB:
+
+-   Download [CBBE](https://www.nexusmods.com/skyrimspecialedition/mods/198) (install options don't really matter)
+-   Download [XPMSSE](https://www.nexusmods.com/skyrimspecialedition/mods/1988) (make sure to install the new physics skeleton)
+-   Download [HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/30872)
+-   Download [CBPC](https://www.nexusmods.com/skyrimspecialedition/mods/21224) (pick the right runtime version, the preset options don't matter since CBBE 3BBB comes with it's own config
+-   Download [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/30174) or [CBBE 3BBB Advanced](https://www.loverslab.com/topic/133779-cbbe-3bbb-advanced/)
+
+The difference between CBBE 3BBB and CBBE 3BBB Advanced is that the latter was made with SexLab in mind and has patches for mods you only find on LL.
+
+The most important option in the CBBE 3BBB installer is the HDT-SMP/CBPC config section: HDT-SMP is rather CPU hungry but it's physics system is simply the best. If you can sacrifice 1-2 fps, get the full HDT-SMP config.
+
+-   Get some CBBE compatible textures
+
+-   Delete the zPatch, remove all NPC retextures that use the UNP body and download the CBBE version of those mods.
+
+## BHUNP 3BBB:
+
+-   Download [XPMSSE](https://www.nexusmods.com/skyrimspecialedition/mods/1988) (make sure to install the new physics skeleton)
+
+-   Download [HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/30872)
+
+-   Download [CBPC](https://www.nexusmods.com/skyrimspecialedition/mods/21224) (pick the right runtime version, the preset options don't matter since BHUNP 3BBB comes with its own config
+
+-   Download [BHUNP 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/31126)
+
+The most important option in the BHUNP 3BBB installer is the HDT-SMP/CBPC config section: HDT-SMP is rather CPU hungry but it's physics system is simply the best. If you can sacrifice 1-2 fps, get the full HDT-SMP config.
+
+No matter the type of body you choose, you still want [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201) to rebuild the base mesh using your own preset.
+
+(Thanks to Erri120)
+
+I don't offer help in this regard, because mucking about in Bodyslide is not my forte.
 
 
 Credits & Thanks
@@ -324,6 +364,7 @@ Credits & Thanks
 ### Contributors
 
 -   Total for helping me pick out landscape textures, assisting me with xEdit
+-   Helidoc for taking over and maintaining NOISE for DoubleDog
 -   JustThatKing for assisting with conflicts and choosing textures
 -   Lively for assistance, convincing me to do this, and also convincing me to join the Tester team, and contributing to NOISE
 -   DinDisco for assisting in conflict resolution
