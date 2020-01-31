@@ -83,7 +83,8 @@ The Program Files folder is not recommended and could cause issues.
 10. OK to save the settings
 11. Close the launcher window
 
-Creation Kit
+### Setting Up Creation Kit
+
 1. Download and install Bethesda.net Launcher.
 2. Run the Launcher and sign in or create an account and sign in.
 3. In the left pane, locate the icon for "Creation", which should look greyed-out.
@@ -91,8 +92,6 @@ Creation Kit
 5. After completion of the installation, click on launch.
 6. In the pop-up that appears, select YES.
 7. Close the Creation Kit program.
-
-# **END IGNORE**
 
 ## Installation
 
