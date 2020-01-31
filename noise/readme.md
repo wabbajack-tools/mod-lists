@@ -92,8 +92,6 @@ Creation Kit
 6. In the pop-up that appears, select YES.
 7. Close the Creation Kit program.
 
-# **END IGNORE**
-
 ## Installation
 
 Create a new directory in the root directory of the hard drive where you want everything to be installed. Do not create a directory within your Skyrim folder. For this guide, we will create an example directory in C:\ called NOISE. You can create this folder on any drive.
