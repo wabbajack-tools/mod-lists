@@ -1,4 +1,3 @@
-![](https://lh5.googleusercontent.com/qg1yiTiIK8-eiPjZw1Fe50LJ4oe2FUNfvLZAeczNKNBsTJtm9SsPr6ERvVSHBn0F3XOYPo7xRZoSY_L17N5AKLs51SU8XjFZLWzbF7wPCgGr1zS48Ap30ULjp_6rqwMmif5-oh78)  
 ## What is Keizaal?
 
 Keizaal is a small Vanilla+ modlist that is meant to enhance and expand on the base game without compromising Bethesda’s original vision. It also aims to maintain a level of consistency and integration between the Beyond Skyrim projects in order to make Tamriel feel like one cohesive whole.
