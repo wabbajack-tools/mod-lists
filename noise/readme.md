@@ -2,7 +2,7 @@
 
 [Wabbajack discord](https://discordapp.com/invite/Wabbajack).
 
-[Changelog](https://drive.google.com/open?id=180jsu90JcB24xw-jjlXdaMuXFtzn9mMf)
+[Changelog](https://drive.google.com/open?id=1RIUaNs-NW7bj30T8jGPTW1nTN0u-N9C8)
 
 **REQUIRES NEXUSMODS.COM PREMIUM ACCOUNT**
 
