@@ -1,12 +1,11 @@
 ## What is Keizaal?
 
 A few criteria for the mods on this list:
-
-1. This list is "Vanilla+" meaning that it intends to maintain the Vanilla feel. This is highly subjective and some of the mods listed here may not line up with your personal interpretation of "Vanilla+."  
-2. The modlist is lite. A lot of the time modlists can become ridiculously huge and bloated, but this modlist wants to be nice and lean. Less is more.  
-3. Immersion is paramount. I'm a lore buff and immersion is very important to me. If a mod is not lore accurate or takes me out of the game in any way it will be excluded. Consistency also falls into this category, if a mod as a completely different aesthetic from Vanilla or any of my other mods then it will probably not be included.  
-4. Mods must have decent longevity. This modlist wants to be somewhat relevant, in theory, forever.  
-5. Stability is the most important thing. This rule basically supersedes all the above. If a mod introduces major stability concerns it will be quickly cut.
+ 
+1. **The modlist is lite and intends to maintain the Vanilla feel.** A lot of the time modlists can become ridiculously huge and bloated, but this modlist wants to be nice and lean. Less is more.  
+2. **Immersion is paramount.** I'm a lore buff and immersion is very important to me. If a mod is not lore accurate or takes me out of the game in any way it will be excluded. Consistency also falls into this category, if a mod as a completely different aesthetic from Vanilla or any of my other mods then it will probably not be included.  
+3. **Mods must have decent longevity.** This modlist wants to be somewhat relevant, in theory, forever.  
+4. **Stability is the most important thing.** This rule basically supersedes all the above. If a mod introduces major stability concerns it will be quickly cut.
 
 You can see a brief description of all the mods included on my [Modpicker page](https://modpicker.com/skyrimse/mod-lists/5547/details).
 
@@ -95,23 +94,53 @@ Keizaal comes packaged with two profiles: Open Cities Skyrim and Closed Cities S
 
 ![](https://lh5.googleusercontent.com/fhEJwlH0NZCEv0LJIKhiHL1EBxDZsm3cBtggflwIhDcJGDbSO5f3XZSV8Q5X6RAl4tLL_lCrbmXCD2K0pL-uSulqPzQDBTR8eoXghMmWDrqi03s1W7PwyUwTk5dOJ6lauGqexWuV)
 
+## Recommended Mod Configuration Menu Settings
+
+The Mod Configuration Menu gives the player a huge amount of control over mods that support it. It is a much more elegant solution to toggling mod settings in-game compared to the config books and powers of old. You can access the MCM under the settings tab in your pause menu.
+
+While the mod settings are ultimately subjective user-to-user there are a few settings that are recommended to achieve this modlist’s intended experience.
+
+### Cathedral Weathers
+
+Toggle Seasonal Perspective to on. This will dynamically change the weather to match the current season in game. Summers will be warmer and winters will be colder.
+
+![](https://lh3.googleusercontent.com/11x2XKGy0X7JfEGaEeaiwxsle36WbZwFVgRhsFNrSuZ2xYRCjNannW6ElE7mE-wiP3-dwnClXEApCi7r8iTnocDzkaMMeveDLwOeCBgDRQl7zevVW_PE08We39wGDYlek1B1bgqc)
+
+### Open Cities Skyrim
+
+Toggle Oblivion Gates, City Gate Attendants, and Outdoor Lighting System to off. Oblivion Gates and City Gate Attendants are purely preference, but they have both lore and quality issues that result in them being recommended to be disalbed. Outdoor Lighting System has some lite incompatibilities with Cathedral Weathers and Seasons, nothing that will inherently break your game, but to avoid some weirdness just disable it.
+
+## ![](https://lh3.googleusercontent.com/IXRQaF-jiN-k0AUHIATIqy9fpviRmXeQx9aVgc8cBGgIGkmnWb5ElFQodx98OEOfcMnTPcuZ9WnjJDoNLUC8tZMKD2GSDa5INFmN4N20M-2wWFZdDn2GM7DVIeR3ha6aK5Fkw1Hp)
+
+### Timing is Everything
+
+Bethesda has an infamous history of integrating their expansions poorly, Skyrim was no exception. While purely preference, it is recommended to set Dragonborn to start after Dragonslayer if you are at level 30 and Dawngaurd to start if you are level 50. This goes against the release order of Skyrim’s expansions, but it has a better “flow”. Dragonborn is inherently connected to Skyrim’s main quest and feels like a sequel to it. Dawngurad is an unconnected side story with little to no connections with the main quest.
+
+## ![](https://lh3.googleusercontent.com/HcL9TJh9pU624-0dT26wBEqFPWcho3ZWvJDEmBbhY3cGteIdQmhDjmmNrXh_idN6PafKrZGS6J15zJ-kp-fX7D-H6Dv9htI8OXKquSSL6nttChOX5ixmpAAxbyiyj_EuvOttReUD)
+
+Toggle the Break of Dawn: No Vampires to on. Meridia abhors the undead, it doesn’t make sense for her to pick an undead champion.
+
+![](https://lh3.googleusercontent.com/4gTy2QlRMT2SqRqDEH_cJ8g5ErTy6CtecFcfEJcsA_mNEEeworON0xOLP2GSs7evmeUeEeo5BP3d8Z4ZGxVzlwtM9WDo47tj2824FtL8HqCBNQ3aOKXwY54y7B-qOMQ0kNKtcsw1)
+
+Toggle Werewolf Encounters and Thalmor Squad: Quest Requirement to on. Werewolves are an interesting enemy type that was tragically underused in the base game, turning them on makes for some interesting world encounters. The Thalmor Hit Squad only triggering after Diplomatic Immunity gives some feeling of consequence to the world as it serves as a direct reaction to your actions during that quest.
+
+![](https://lh5.googleusercontent.com/X_qW8fWJcJ5uG04GOG-AzoOkieRBqcMu7bz4cjrmiMuzhvGgKZ2RPqgcXacm4TV8aNA2o21NJskfKJVOvfg76gvZo_iXNzVt9m2hoUVf3Z1BkqB-haAUBXtGTK2UAzlVpylOGR6z)
+
 ## Troubleshooting
 
-Wabbajack throws an error after authorizing through Nexus.
+**Wabbajack throws an error after authorizing through Nexus.**
 
 Download the [.Net Framework 4.8 Runtime](https://dotnet.microsoft.com/download/dotnet-framework/net48). Be sure to restart your computer afterward.
 
-A mod fails to download.
+**A mod fails to download.**
 
 One of the mods on Keizaal has probably been updated. Check the Wabbjack Discord and be patient as an update is made.
 
-Mod Organizer is white and displays no mods or .esps.
-
-Contact Pierre Despereaux on the [Wabbajack Discord](https://discordapp.com/invite/wabbajack) for individual help and guidance.
+Contact Pierre Despereaux on the [Wabbajack Discord](https://discordapp.com/invite/wabbajack) for individual help and guidance.  
 
 ## Credits
 
-**Simon Magus**
+**Simon Magus**  
 for tolerating my constant badgering about my load order
 
 **Paleo the Parrot**, **VictorF**, and **ElectricSparx**
@@ -121,7 +150,7 @@ for helping me understand xEdit
 for helping me get the Wabbajack installer operational over several long nights
 
 **Dylan James**
-for helping me see what “Vanilla+” actually meant
+for helping me understand what I wanted out of this modlist
 
 **halgari and entire Wabbajack Team**
 for creating such a fantastic resource
