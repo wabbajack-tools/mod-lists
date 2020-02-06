@@ -1,7 +1,7 @@
 ## What is Keizaal?
 
 A few criteria for the mods on this list:
- 
+
 1. **The modlist is lite and intends to maintain the Vanilla feel.** A lot of the time modlists can become ridiculously huge and bloated, but this modlist wants to be nice and lean. Less is more.  
 2. **Immersion is paramount.** I'm a lore buff and immersion is very important to me. If a mod is not lore accurate or takes me out of the game in any way it will be excluded. Consistency also falls into this category, if a mod as a completely different aesthetic from Vanilla or any of my other mods then it will probably not be included.  
 3. **Mods must have decent longevity.** This modlist wants to be somewhat relevant, in theory, forever.  
@@ -89,7 +89,8 @@ You will now have to launch Skyrim by selecting “SKSE” from the drop-down me
 
 ### Toggling Open Cities
 
-I consider Open Cities to be an important part of this modlist because it increases the consistency of this modlist with Beyond Skyrim. Going forward only the largest Beyond Skyrim cities will be closed (The Imperial City, Morunhold, Daggerfall, ect.) so it makes sense to make Skyrim’s cities follow the same rules as Beyond Skyrim’s. However, Open Cities has a lot of compatibility and performance concerns for a lot of users, so I have decided to make it optional.
+I consider Open Cities to be an important part of this modlist because it increases consistency with the Beyond Skyrim projects. Only the largest Beyond Skyrim cities will be closed (The Imperial City, Morunhold, Daggerfall, ect.) so it makes sense to make Skyrim’s cities follow the same rules as Beyond Skyrim’s. However, Open Cities has a lot of compatibility and performance concerns for many of users, so I have decided to make it optional.
+
 Keizaal comes packaged with two profiles: Open Cities Skyrim and Closed Cities Skyrim. Simply pick which version of Keizaal you want to use from the profile dropdown at above the installed mods.
 
 ![](https://lh5.googleusercontent.com/fhEJwlH0NZCEv0LJIKhiHL1EBxDZsm3cBtggflwIhDcJGDbSO5f3XZSV8Q5X6RAl4tLL_lCrbmXCD2K0pL-uSulqPzQDBTR8eoXghMmWDrqi03s1W7PwyUwTk5dOJ6lauGqexWuV)
@@ -114,7 +115,7 @@ Toggle Oblivion Gates, City Gate Attendants, and Outdoor Lighting System to off.
 
 ### Timing is Everything
 
-Bethesda has an infamous history of integrating their expansions poorly, Skyrim was no exception. While purely preference, it is recommended to set Dragonborn to start after Dragonslayer if you are at level 30 and Dawngaurd to start if you are level 50. This goes against the release order of Skyrim’s expansions, but it has a better “flow”. Dragonborn is inherently connected to Skyrim’s main quest and feels like a sequel to it. Dawngurad is an unconnected side story with little to no connections with the main quest.
+Bethesda has an infamous history of poorly integrating their expansions, Skyrim was no exception. While purely preference, it is recommended to set Dragonborn to start at level 30 after Dragonslayer has been complete and set Dawngaurd to start at level 50. This goes against the release order of Skyrim’s expansions, but it has a better “flow”. Dragonborn is inherently connected to Skyrim’s main quest and feels like a sequel to it. Dawngurad is an unconnected side story with little to no connections with the main quest.
 
 ## ![](https://lh3.googleusercontent.com/HcL9TJh9pU624-0dT26wBEqFPWcho3ZWvJDEmBbhY3cGteIdQmhDjmmNrXh_idN6PafKrZGS6J15zJ-kp-fX7D-H6Dv9htI8OXKquSSL6nttChOX5ixmpAAxbyiyj_EuvOttReUD)
 
@@ -136,24 +137,22 @@ Download the [.Net Framework 4.8 Runtime](https://dotnet.microsoft.com/download/
 
 One of the mods on Keizaal has probably been updated. Check the Wabbjack Discord and be patient as an update is made.
 
+**ModOrganizer.exe throws an error when trying to launch.**
+
+Download the x64 version of the [MSVC 2019 Runtime Library](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Be sure to restart your computer afterward.
+
 Contact Pierre Despereaux on the [Wabbajack Discord](https://discordapp.com/invite/wabbajack) for individual help and guidance.  
 
 ## Credits
 
-**Simon Magus**  
-for tolerating my constant badgering about my load order
+**Simon Magus** for tolerating my constant badgering about my load order.
 
-**Paleo the Parrot**, **VictorF**, and **ElectricSparx**
-for helping me understand xEdit
+**Paleo the Parrot**, **VictorF**, and **ElectricSparx** for helping me understand xEdit.
 
-**Total**,  **Lively**, and **Shelb**
-for helping me get the Wabbajack installer operational over several long nights
+**Total**,  **Lively**, and **Shelb** for helping me get the Wabbajack installer operational over several long nights.
 
-**Dylan James**
-for helping me understand what I wanted out of this modlist
+**Dylan James** for helping me understand what I wanted out of this modlist.
 
-**halgari and entire Wabbajack Team**
-for creating such a fantastic resource
+**halgari and entire Wabbajack Team** for creating such a fantastic resource.
 
-**The wonderful mod authors**
-for making this modlist possible
+**The wonderful mod authors** for making this modlist possible.
