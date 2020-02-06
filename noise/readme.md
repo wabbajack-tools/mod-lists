@@ -4,6 +4,8 @@
 
 [Changelog](https://drive.google.com/open?id=1UkrTgrol7RZ3a6UH4Jcb0JT3EgNRSgUw)
 
+NOISE is a Modlist designed to be built upon by users, with enhanced graphics, mechanics, and immersion, while staying true to the original vision of Skyrim mechanics; basically, Skyrim++ This Modlist has high compatibility with modded player homes, quests, etc. that allows for you to add what mods you would like (within reason), as long as you take the time to understand how modding works.
+
 **REQUIRES NEXUSMODS.COM PREMIUM ACCOUNT**
 
 ## Getting Started
@@ -107,7 +109,7 @@ At the bottom of the new window, the Installation Location will be the folder yo
 
 **I REPEAT, DO NOT INSTALL MODLISTS TO YOUR SKYRIM STEAM FOLDER.**
 
-A window will open in Wabbajack asking if you’d like to authorize Wabbajack to use your Nexus Mods account. Log in, and click authorize. Wabbajack will now install the mod pack for you.
+A window will open in Wabbajack asking if you’d like to authorize Wabbajack to use your Nexus Mods account. Log in, and click authorize. Wabbajack will now install the mod list for you.
 Once Wabbajack has finished all of its processes, the right pane will say Installation complete! You may exit the program. At this point it is safe to close Wabbajack.
 
 If you don’t see Installation complete, Wabbajack has encountered an error. Inside of the NOISE folder, delete everything except the downloads folder or Wabbajack.exe and the modlist file.
