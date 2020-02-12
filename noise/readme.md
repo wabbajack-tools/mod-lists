@@ -292,9 +292,6 @@ Refer to the [Method](https://www.nexusmods.com/skyrimspecialedition/mods/25522)
 ## What's in this modlist?
 -   [List of Mods thanks to Fantastigasmical Alice](https://drive.google.com/open?id=17ip66aRyaohUOtE_y4FXTVA20_uJaBKk) 
 
-## There are empty mods with red X's!
--   Leave them alone. Do not touch. Do not touch anything in optional folders. These mods are merged. This applies to all modlists.
-
 ## Can you add/remove X mod?
 -   Only if I feel like it. But at this point, the answer will probably be no. This is meant to be added on to. Add it yourself.
 
