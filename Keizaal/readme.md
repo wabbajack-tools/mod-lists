@@ -7,13 +7,11 @@ A few criteria for the mods on this list:
 3. **Mods must have decent longevity.** This modlist wants to be somewhat relevant, in theory, forever.  
 4. **Stability is the most important thing.** This rule basically supersedes all the above. If a mod introduces major stability concerns it will be quickly cut.
 
-You can see a brief description of all the mods included on my [Modpicker page](https://modpicker.com/skyrimse/mod-lists/5547/details).
-
 ## Setup and Information
 
 A premium Nexus account is required to run Wabbajack.
 
-This modlist takes up 37GB of harddrive space and will take an hour or so depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance, but a standard hard disk drive will suffice.
+This modlist takes up 95GB of harddrive space and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance, but a standard hard disk drive will suffice.
 
 Install the latest version of Wabbajack from the #builds channel in the [Wabbajack Discord](https://discordapp.com/invite/wabbajack).
 
@@ -101,29 +99,23 @@ The Mod Configuration Menu gives the player a huge amount of control over mods t
 
 While the mod settings are ultimately subjective user-to-user there are a few settings that are recommended to achieve this modlist’s intended experience.
 
-### Cathedral Weathers
-
-Toggle Seasonal Perspective to on. This will dynamically change the weather to match the current season in game. Summers will be warmer and winters will be colder.
-
-![](https://lh3.googleusercontent.com/11x2XKGy0X7JfEGaEeaiwxsle36WbZwFVgRhsFNrSuZ2xYRCjNannW6ElE7mE-wiP3-dwnClXEApCi7r8iTnocDzkaMMeveDLwOeCBgDRQl7zevVW_PE08We39wGDYlek1B1bgqc)
-
 ### Open Cities Skyrim
 
-Toggle Oblivion Gates, City Gate Attendants, and Outdoor Lighting System to off. Oblivion Gates and City Gate Attendants are purely preference, but they have both lore and quality issues that result in them being recommended to be disalbed. Outdoor Lighting System has some lite incompatibilities with Cathedral Weathers and Seasons, nothing that will inherently break your game, but to avoid some weirdness just disable it.
+Toggle **Oblivion Gates**, **City Gate Attendants**, and **Outdoor Lighting System** to **OFF**. Oblivion Gates and City Gate Attendants are purely preference, but they have both lore and quality issues that result in them being recommended to be disalbed. Outdoor Lighting System has some lite incompatibilities with Cathedral Weathers and Seasons, nothing that will inherently break your game, but to avoid some weirdness just disable it.
 
 ## ![](https://lh3.googleusercontent.com/IXRQaF-jiN-k0AUHIATIqy9fpviRmXeQx9aVgc8cBGgIGkmnWb5ElFQodx98OEOfcMnTPcuZ9WnjJDoNLUC8tZMKD2GSDa5INFmN4N20M-2wWFZdDn2GM7DVIeR3ha6aK5Fkw1Hp)
 
 ### Timing is Everything
 
-Bethesda has an infamous history of poorly integrating their expansions, Skyrim was no exception. While purely preference, it is recommended to set Dragonborn to start at level 30 after Dragonslayer has been complete and set Dawngaurd to start at level 50. This goes against the release order of Skyrim’s expansions, but it has a better “flow”. Dragonborn is inherently connected to Skyrim’s main quest and feels like a sequel to it. Dawngurad is an unconnected side story with little to no connections with the main quest.
+Bethesda has an infamous history of poorly integrating their expansions, Skyrim was no exception. While purely preference, it is recommended to **set Dragonborn to start at level 30 after Dragonslayer has been complete** and **set Dawngaurd to start at level 50**. This goes against the release order of Skyrim’s expansions, but it has a better “flow”. Dragonborn is inherently connected to Skyrim’s main quest and feels like a sequel to it. Dawngurad is an unconnected side story with little to no connections with the main quest.
 
 ## ![](https://lh3.googleusercontent.com/HcL9TJh9pU624-0dT26wBEqFPWcho3ZWvJDEmBbhY3cGteIdQmhDjmmNrXh_idN6PafKrZGS6J15zJ-kp-fX7D-H6Dv9htI8OXKquSSL6nttChOX5ixmpAAxbyiyj_EuvOttReUD)
 
-Toggle the Break of Dawn: No Vampires to on. Meridia abhors the undead, it doesn’t make sense for her to pick an undead champion.
+Toggle **The Break of Dawn: No Vampires** to **ON**. Meridia abhors the undead, it doesn’t make sense for her to pick an undead champion.
 
 ![](https://lh3.googleusercontent.com/4gTy2QlRMT2SqRqDEH_cJ8g5ErTy6CtecFcfEJcsA_mNEEeworON0xOLP2GSs7evmeUeEeo5BP3d8Z4ZGxVzlwtM9WDo47tj2824FtL8HqCBNQ3aOKXwY54y7B-qOMQ0kNKtcsw1)
 
-Toggle Werewolf Encounters and Thalmor Squad: Quest Requirement to on. Werewolves are an interesting enemy type that was tragically underused in the base game, turning them on makes for some interesting world encounters. The Thalmor Hit Squad only triggering after Diplomatic Immunity gives some feeling of consequence to the world as it serves as a direct reaction to your actions during that quest.
+Toggle **Werewolf Encounters** and **Thalmor Squad: Quest Requirement** to **ON**. Werewolves are an interesting enemy type that was tragically underused in the base game, turning them on makes for some interesting world encounters. The Thalmor Hit Squad only triggering after Diplomatic Immunity gives some feeling of consequence to the world as it serves as a direct reaction to your actions during that quest.
 
 ![](https://lh5.googleusercontent.com/X_qW8fWJcJ5uG04GOG-AzoOkieRBqcMu7bz4cjrmiMuzhvGgKZ2RPqgcXacm4TV8aNA2o21NJskfKJVOvfg76gvZo_iXNzVt9m2hoUVf3Z1BkqB-haAUBXtGTK2UAzlVpylOGR6z)
 
