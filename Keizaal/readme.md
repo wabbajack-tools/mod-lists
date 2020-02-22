@@ -131,9 +131,9 @@ One of the mods on Keizaal has probably been updated. Check the Wabbjack Discord
 
 **ModOrganizer.exe throws an error when trying to launch.**
 
-Download the x64 version of the [MSVC 2019 Runtime Library](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Be sure to restart your computer afterward.
+Download the x64 version of the [MSVC 2019 Runtime Library](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Be sure to restart your computer afterward. 
 
-Contact Pierre Despereaux on the [Wabbajack Discord](https://discordapp.com/invite/wabbajack) for individual help and guidance.  
+Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invite/wabbajack) or [Keizaal](https://discord.gg/eYZJFP8) Discord server for individual help and guidance.
 
 ## Credits
 
