@@ -263,11 +263,24 @@ Either click 'Begin Your Adventure' or close the MCM menus and hit the 'enter' k
 
 ### AGO
 
-**Settings**:
+- Settings
+    - Enable/Disable
+        - Persistent Arrows [ ]
 
-Enable/Disable
+### Blocksteal
 
-_Persistent Arrows_ - `Disabled`
+MultiTap [X]
+
+### Caranthir Tower
+
+- Features
+    - Auto-Loot Crafting [X]
+    - Dynamic Interiors [X]
+    - Immersive Storage [X]
+    - Realistic Construction [X]
+    
+- Settings
+    - Encounter Zones [X]
 
 ### Cathedral Weathers
 
@@ -275,6 +288,10 @@ _Persistent Arrows_ - `Disabled`
 
 ### Complete Crafting
 
+- Crafting Options
+  - Additional Items
+    - Artifact Replicas [X]
+    - Matching Set Circlets [X]
 - Learning & XP
   - Alternate Experience Formula
     - Use Alternate XP Formula [X]
@@ -285,15 +302,6 @@ _Persistent Arrows_ - `Disabled`
 - Miscellaneous
   - Unarmed Attack Bonus
     - Fists of Steel - Light [X]
-
-### Expanded Towns
-
-- Settings
-  - Fortification Walls
-    - Dawnstar [X]
-    - Falkreath [X]
-    - Morthal [X]
-    - Winterhold [X]
 
 ### Extended UI
 
@@ -326,10 +334,20 @@ _Persistent Arrows_ - `Disabled`
 - Lock Requirement
 
   - Activate Lock Requirements [X]
+  - Novice Locks Requirement: 0 SKILL
+  - Apprentice Locks Requirement: 0 SKILL
+  - Adept Locks Requirement: 30 SKILL
+  - Expert Locks Requirement: 40 SKILL
+  - Master Locks Requirement: 50 SKILL
 
 - Smash Locks
 
   - Activate Smash Locks [X]
+  - Novice Locks Requirement: 0 SKILL
+  - Apprentice Locks Requirement: 25 SKILL
+  - Adept Locks Requirement: 40 SKILL
+  - Expert Locks Requirement: 50 SKILL
+  - Master Locks Requirement: 60 SKILL
   - Allowed Weapons - Two + One Handed
 
 - Unlock with Magic
@@ -359,6 +377,10 @@ _Persistent Arrows_ - `Disabled`
     - Enable Salvage [ ]
     - Quest Rewards - Main Quests
     - Alternate Advancement - Staff Leveling [X]
+
+### Storm Lightning
+  - Presets
+    - Exciting
 
 ### The Ultimate Dodge Mod
 
