@@ -491,6 +491,13 @@ I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialeditio
 
 You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
 
+## Credits and Thanks
+
+The Phoenix Flavor by Phoenix - General ideas and awesomesauce derived therefrom
+Lotus by erri120 - README format and being a cool dood
+Total - Being a helpful dood
+Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
+
 ## Contact
 
 I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack).
