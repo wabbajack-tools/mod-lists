@@ -493,10 +493,10 @@ You can just remove the MO2 folder and be done with it. SKSE and ENB files will 
 
 ## Credits and Thanks
 
-The Phoenix Flavor by Phoenix - General ideas and awesomesauce derived therefrom
-Lotus by erri120 - README format and being a cool dood
-Total - Being a helpful dood
-Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
+- The Phoenix Flavor by Phoenix - General ideas and awesomesauce derived therefrom
+- Lotus by erri120 - README format and being a cool dood
+- Total - Being a helpful dood
+- Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
 
 ## Contact
 
