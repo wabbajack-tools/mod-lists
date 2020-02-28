@@ -1,8 +1,5 @@
 ### Banana Split
 
-![alt text](https://i.imgur.com/A2fN0q8.jpg)
-_by Lively_
-
 Better graphics, tons of new weapons and armor, plenty of extra content, and improved combat mechanics that provide a challenge without being overly frustrating.
 
 #### **_Requirements Before Installing:_**
