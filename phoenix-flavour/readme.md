@@ -25,7 +25,7 @@ Once Skyrim is installed, make sure you run it once. (Get to the Skyrim splash s
 
 ### 1.3 Installation Instructions
 
--   Download the latest version of Wabbajack (1.0 beta 22.1 at the time of this writing).
+-   Download the latest version of Wabbajack (1.0 beta 23 at the time of this writing).
 
 -   Create a new folder at the root of a drive (Example: D:\Wabbajack).
 
