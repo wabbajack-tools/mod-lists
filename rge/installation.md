@@ -1,4 +1,4 @@
-[Back to Main Documentation](https://github.com/wabbajack-tools/mod-lists/edit/master/rge/readme.md#Installation)
+[Back to Main Documentation](https://github.com/wabbajack-tools/mod-lists/blob/master/rge/readme.md#Installation)
 
 ## Installation
 
