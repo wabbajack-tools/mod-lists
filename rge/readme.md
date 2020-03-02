@@ -35,15 +35,15 @@ I run this list at 3440x1440 on a 1080TI and maintain greater than 45fps everywh
 
 ## Installation
 
-[Installation Instructions](https://github.com/wabbajack-tools/mod-lists/edit/master/rge/installation.md)
+[Installation Instructions](https://github.com/wabbajack-tools/mod-lists/blob/master/rge/installation.md)
 
 ## Mod Information
 
-[Information On Included Mods](https://github.com/wabbajack-tools/mod-lists/edit/master/rge/mods.md)
+[Information On Included Mods](https://github.com/wabbajack-tools/mod-lists/blob/master/rge/mods.md)
 
 ## MCM Configuration
 
-[MCM Configuration Instructions](https://github.com/wabbajack-tools/mod-lists/edit/master/rge/mcm.md)
+[MCM Configuration Instructions](https://github.com/wabbajack-tools/mod-lists/blob/master/rge/mcm.md)
 
 ## Character Creation
 
@@ -67,7 +67,7 @@ Have fun!
 
 ## Customization
 
-[Information on customizing the mod list](https://github.com/wabbajack-tools/mod-lists/edit/master/rge/customization.md)
+[Information on customizing the mod list](https://github.com/wabbajack-tools/mod-lists/blob/master/rge/customization.md)
 
 ## Credits and Thanks
 
