@@ -1,4 +1,4 @@
-[Back to Main Documentation](https://github.com/wabbajack-tools/mod-lists/blob/master/rge/readme.md#mods)
+[Back to Main Documentation](https://github.com/wabbajack-tools/mod-lists/blob/master/rge/readme.md#mod-information)
 
 ## Mod Information
 
