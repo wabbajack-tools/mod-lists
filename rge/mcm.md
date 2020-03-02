@@ -1,4 +1,4 @@
-[Back to Main Documentation](https://github.com/wabbajack-tools/mod-lists/blob/master/rge/readme.md#MCM%20Configuration)
+[Back to Main Documentation](https://github.com/wabbajack-tools/mod-lists/blob/master/rge/readme.md#mcm-configuration)
 
 ## MCM Configuration
 
