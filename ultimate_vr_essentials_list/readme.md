@@ -1,4 +1,4 @@
-The Ultimate VR Essentials List is designed to give users a better looking, better controlling, and better playing VR Experience that can be used as is or customised to their taste.
+The Ultimate VR Essentials List is designed to give users a better looking, better controlling, and better playing VR Experience that can be used as is or customized to their taste.
 
 ### Featuring:
 - A full graphical overhaul to Textures, Meshes, Items, NPCs, & Magic.
