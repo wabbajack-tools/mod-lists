@@ -36,23 +36,6 @@ MultiTap [X]
 
 - configuration spell off
 
-### Complete Crafting
-
-- Crafting Options
-  - Additional Items
-    - Artifact Replicas [X]
-    - Matching Set Circlets [X]
-- Learning & XP
-  - Alternate Experience Formula
-    - Use Alternate XP Formula [X]
-- Mining & Materials
-  - Mining
-    - Mining Presets - Faster Mining
-    - Mining Makes Noise [X]
-- Miscellaneous
-  - Unarmed Attack Bonus
-    - Fists of Steel - Light [X]
-
 ### Extended UI
 
 - Stats Menu
@@ -128,6 +111,9 @@ MultiTap [X]
     - Enable Salvage [ ]
     - Quest Rewards - Main Quests
     - Alternate Advancement - Staff Leveling [X]
+
+### Take Notes!
+  - Open Journal K (or any other key you want... just not x)
 
 ### The Ultimate Dodge Mod
 
