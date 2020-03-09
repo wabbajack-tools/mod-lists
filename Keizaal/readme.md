@@ -141,6 +141,8 @@ Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invit
 
 **Paleo the Parrot**, **VictorF**, and **ElectricSparx** for helping me understand xEdit.
 
+**Shade088** for all his help getting Keizaal’s graphical suite opperational
+
 **Total**,  **Lively**, and **Shelb** for helping me get the Wabbajack installer operational over several long nights.
 
 **Dylan James** for helping me understand what I wanted out of this modlist.
