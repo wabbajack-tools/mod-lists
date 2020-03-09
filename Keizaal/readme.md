@@ -2,16 +2,17 @@
 
 A few criteria for the mods on this list:
 
-1. **The modlist is lite and intends to maintain the Vanilla feel.** A lot of the time modlists can become ridiculously huge and bloated, but this modlist wants to be nice and lean. Less is more.  
-2. **Immersion is paramount.** I'm a lore buff and immersion is very important to me. If a mod is not lore accurate or takes me out of the game in any way it will be excluded. Consistency also falls into this category, if a mod as a completely different aesthetic from Vanilla or any of my other mods then it will probably not be included.  
-3. **Mods must have decent longevity.** This modlist wants to be somewhat relevant, in theory, forever.  
-4. **Stability is the most important thing.** This rule basically supersedes all the above. If a mod introduces major stability concerns it will be quickly cut.
+1. **The modlist is lite and intends to maintain the Vanilla feel.** A lot of the time modlists can become ridiculously huge and bloated, but this modlist wants to be nice and lean. Less is more.
+2. **Skyrim must feel consistent with current and future Beyond Skyrim projects.** The Beyond Skyrim projects are the perfect content mods to add to this list. As such I want Skyrim to feel like it’s part of the same world as Beyond Skyrim’s provinces.
+3. **Immersion is paramount.** I'm a lore buff and immersion is very important to me. If a mod is not lore accurate or takes me out of the game in any way it will be excluded. Consistency also falls into this category, if a mod as a completely different aesthetic from Vanilla or any of my other mods then it will probably not be included.  
+4. **Mods must have decent longevity.** This modlist wants to be somewhat relevant, in theory, forever.  
+5. **Stability is the most important thing.** This rule basically supersedes all the above. If a mod introduces major stability concerns it will be quickly cut.
 
 ## Setup and Information
 
 A premium Nexus account is required to run Wabbajack.
 
-This modlist takes up 95GB of harddrive space and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance, but a standard hard disk drive will suffice.
+This modlist takes up 98GB of harddrive space and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance, but a standard hard disk drive will suffice.
 
 Install the latest version of Wabbajack from the #builds channel in the [Wabbajack Discord](https://discordapp.com/invite/wabbajack).
 
@@ -63,17 +64,27 @@ Select the Keizaal modlist from the Wabbajack UI.
 
 Once the installation window opens ensure that the “Installation Location” matches the Keizaal folder you just created (default should be C:\Keizaal\). The download location should populate automatically
 
-![](https://lh4.googleusercontent.com/P7t5u3IoiDj4ERKY-KInr3n5eBEgJqiqgBk4wJgpI4nqCL6OX1OhcDhW_7VGfnpNwN3wVwLwPYTGNAuybSh6Mx08ImAs6LXayiwInRbbrH3Y4-hVDE0lPql49Qm7LCLQGbKfZs4a)
+![](https://lh3.googleusercontent.com/-kR37sxNmIC2R1ZBeFPZLk90QqvKan68MhDvqvs_RM-OCzzX-DMudWjRGxKF4ke7-KIU2fFuQIxMl_kvNKpD7TihpTX3RKAVD-KD_FJTdwslgFDfQZVqs4Jpytrq3Cbxrw)
 
 When you’re ready press the triangular start button.
 
-After starting the installation a window will pop up and ask for you to authorize Wabbajack to use your Nexus account. Log into and authorize Wabbajack on Nexus and the installation will proceed.
+After starting the installation a window will pop up and ask for you to authorize Wabbajack to use your Nexus account. Log into and authorize Wabbajack on Nexus and the installation will proceed. Wabbajack will now install the modlist, this will take a while so be patient. When the installation is done the left panel should say “Installation Complete '' at the button. At this time it is safe to close Wabbajack.
 
-Wabbajack will now install the modlist, this will take a while so be patient. When the install is done the left panel should say “Installation Complete” at the button. At this time it is safe to close Wabbajack.
+Navigate to your Keizaal installation folder (default is C:\Keizaal\) and find the “Game Folder Files” folder. Open it and extract everything in it to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe).
 
-### Playing Keizaal
+### Installing the ENB (Optional)
 
-Navigate to your Keizaal installation folder (default is C:\Keizaal\) and find the “Game Data Files” folder. Open it and extract everything in it to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe).
+If you have an older or less powerful machine you may skip this step.
+
+[Click here to go to the enbdev.com.](http://enbdev.com/download_mod_tesskyrimse.htm)
+
+Download the most recent version of ENB. Once the archive is downloaded, open it and open the “WrapperVersion” folder.
+
+![](https://lh4.googleusercontent.com/BIEdtBd6Cbxcel6cjjUmUaPLrG3ChdB1zKnYZZmiQtKcxib6UZjljMO4YDTT6XC-G39uWoHhP9CJDZN8Y4-w5T63fU34BOLLqONvn946b7VcTBFt7f5NdPc_4dE8aKnONA)
+
+Extract everything in “WrapperVersion” to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe).
+
+## Playing Keizaal
 
 Now that Keizaal has been installed you will need to launch Skyrim in a slightly different way.
 
@@ -81,7 +92,7 @@ Navigate back to your Keizaal installation folder and run ModOrganizer.exe.
 
 You should now be on a screen that displays all of your installed mods on the left and all of your .esp files on the right.
 
-![](https://lh4.googleusercontent.com/PJDWOwb8sfb_gBqHcLvTbdAkL51TLNOwtW10RReo8z-bSHqQ8jFRSdoMj7IJUU_QXkKFDtAL3Oi_Bmkxa-_qlNk9ba_ixRUyCTeshg1uEkQvB_G65tJcwRebHs5SXW1my-p8J-BO)
+![](https://lh5.googleusercontent.com/YiMtbtFchI4dQhTfZu8btgagdViOzy9hphagcdyYhEYKuuKerSlJWvgTQR14jOJleywiBGHvY3kQPNwgaAhkf61fN2I-DBYXRkbvzBCnJ_jUCuufuvRFmRtSmqJv81Iv2A)
 
 You will now have to launch Skyrim by selecting “SKSE” from the drop-down menu directly above the .esp plugins and pressing “Play”. Beneath the Play button there is a way to add a Skyrim shortcut to your desktop for added convenience.
 
