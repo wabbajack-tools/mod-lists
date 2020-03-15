@@ -1,41 +1,39 @@
-[Modlist GDrive Folder](https://drive.google.com/open?id=1zyTmVx9WKKl1guwPrF-aCjTRcHmVC_hg)
-
 ## Preface
-The Living Skyrim Modlist focuses heavily on adding highly interactive content. New questlines and world spaces are given high priority as well as mods that add NPCs, followers, and things to do. Some prominent examples are Interesting NPCs, Immersive Creatures, Legacy of the Dragonborn V5, VIGILANT, Falskaar, Animallica, and more. The core idea of Living Skyrim is to make the world feel full of life and activity in almost every area, whether it's a bandit patrol from OBIS or a conversation overheard between NPCs provided by Realistic Conversations. It is designed as a complete overhaul and expansion to many of the systems present in the game. It is aimed at providing a lore-friendly experience that enhances the core game rather than adding tedium and monotony to the game. Some mods are avoided intentionally so that unnecessary systems that slow down the game aren't included. The few inclusions that do slow things down are included for balance and pacing reasons.
+The Living Skyrim Modlist focuses heavily on adding highly interactive content. New questlines and world spaces are given high priority as well as mods that add NPCs, followers, and things to do. Some prominent examples are Interesting NPCs, Immersive Creatures, Legacy of the Dragonborn V5, VIGILANT, Falskaar, Animallica, and more. The core idea of Living Skyrim is to make the world feel full of life and activity in almost every area, whether it's a bandit patrol from OBIS or a conversation overheard between NPCs provided by Realistic Conversations. It is designed as a complete overhaul and expansion to many of the systems present in the game. It is aimed at providing a lore-friendly experience that enhances the core game rather than adding tedium and monotony to the game. Some mods are avoided intentionally so that unnecessary systems that slow down the game aren't included. The few inclusions that do slow things down are included for balance and pacing reasons.  
 
-Additionally, Living Skyrim is intended to provide replayability and roleplay potential. Classic Classes & Birthsigns, Ordinator, and other related mods allow for nearly infinite character customization to play the character you want, whether it be raving barbarian, paladin of Akatosh, archmage of Winterhold, or a hunter in the woods. The Take Notes mod allows you to chronicle your adventures and build a story that is uniquely yours. Sharing your stories with others is welcome and would be amazing to see.
+Additionally, Living Skyrim is intended to provide replayability and roleplay potential. Classic Classes & Birthsigns, Ordinator, and other related mods allow for nearly infinite character customization to play the character you want, whether it be raving barbarian, paladin of Akatosh, archmage of Winterhold, or a hunter in the woods. The Take Notes mod allows you to chronicle your adventures and build a story that is uniquely yours. Sharing your stories with others is welcome and would be amazing to see.  
 
-All of this is on top of a high-quality graphics package intended for higher-end PCs. 4K textures and 2K normals have been given preference except in situations where there is little to no noticeable difference or a 4K option isn’t available. The ENB, Weather, and Flora/Fauna package are intended to ensure that your lighting, effects, and landscape are the highest quality possible without causing your computer to explode. See System Specifications for more details of a reasonable computer that can run this list consistently at 60 FPS. 
+All of this is on top of a high-quality graphics package intended for higher-end PCs. 4K textures and 2K normals have been given preference except in situations where there is little to no noticeable difference or a 4K option isn’t available. The ENB, Weather, and Flora/Fauna package are intended to ensure that your lighting, effects, and landscape are the highest quality possible without causing your computer to explode. See System Specifications for more details of a reasonable computer that can run this list consistently at 60 FPS.  
 
-As for stability and conflict resolution, Living Skyrim includes a number of patches, fixes, and compatibility resolutions including Bash and Smash Patches. Custom patches have also been created for certain awkward interactions between some mods (most notably, Awakened Magicka, Invested Magicka, and Ordinator.) It also includes DynDOLOD, TexGen, and SSELODGEN data pre-packaged for ease of install. 
+As for stability and conflict resolution, Living Skyrim includes a number of patches, fixes, and compatibility resolutions including Bash and Smash Patches. Custom patches have also been created for certain awkward interactions between some mods (most notably, Awakened Magicka, Invested Magicka, and Ordinator.) It also includes DynDOLOD, TexGen, and SSELODGEN data pre-packaged for ease of install.  
 
 Lastly, Living Skyrim exists solely as a Wabbajack installer. A manual installation guide is not planned.
 
 ### Warnings/Disclaimers
-Wabbajack no longer requires that you have Nexus Premium to install the modlist, however, having Nexus Premium will cut your install time to a fraction of what it would be instead of downloading each mod individually (and save you a thousand clicks or so).
+Wabbajack no longer requires that you have Nexus Premium to install the modlist, however, having Nexus Premium will cut your install time to a fraction of what it would be instead of downloading each mod individually (and save you a thousand clicks or so).  
 
-As of v1.0.0, the modlist requires ~119GB (39.6GB Downloads/79GB Mods) of hard drive space on top of the ~10GB Skyrim: Special Edition base files. Installing onto an SSD is not required, but **strongly recommended**. Download and installation times vary based on your computer and internet speeds but expect them to take at least one hour with 20-30 minutes of after-Wabbajack work.
+As of v1.0.0, the modlist requires ~119GB (39.6GB Downloads/79GB Mods) of hard drive space on top of the ~10GB Skyrim: Special Edition base files. Installing onto an SSD is not required, but **strongly recommended**. Download and installation times vary based on your computer and internet speeds but expect them to take at least one hour with 20-30 minutes of after-Wabbajack work.  
 
-**NSFW Warning:** By default this modlist contains nude models for female NPCs. See the FAQ for more information about changing the list to NeverNude if that interests you.
+**NSFW Warning:** By default this modlist contains nude models for female NPCs. See the FAQ for more information about changing the list to NeverNude if that interests you.  
 
 Support is **not** provided for adding to, changing, or removing mods from the modlist. If you’re uncertain of how to use xEdit at a minimum, making any changes at all is a great way to have a **Bad Time™**.
 
 ### Links
-[The Modlist, Submissions, and Version History spreadsheet](https://docs.google.com/spreadsheets/d/1sKG690CbutxCFhDLfTH7C6yYCz0dOkZkuKfYAqRBRVU/edit?usp=sharing) 
-[Living Skyrim FAQ](https://docs.google.com/document/d/1ObldDxDPppV7tB_uTIzXN16puqiTTZB1pzf3wuNXHmY/edit?usp=sharing)
-[Living Skyrim Bug Tracker](https://trello.com/b/myVMRRQU/living-skyrim-bug-tracker)
+[The Modlist, Submissions, and Version History spreadsheet](https://docs.google.com/spreadsheets/d/1sKG690CbutxCFhDLfTH7C6yYCz0dOkZkuKfYAqRBRVU/edit?usp=sharing)  
+[Living Skyrim FAQ](https://docs.google.com/document/d/1ObldDxDPppV7tB_uTIzXN16puqiTTZB1pzf3wuNXHmY/edit?usp=sharing)  
+[Living Skyrim Bug Tracker](https://trello.com/b/myVMRRQU/living-skyrim-bug-tracker)  
 
 Screenshots: [One](https://i.imgur.com/WLHS8PZ.png) [Two](https://i.imgur.com/VZ5R16D.jpg) [Three](https://i.imgur.com/ihT68Xq.jpg) [Four](https://i.imgur.com/TjpnNsA.jpg) [Five](https://i.imgur.com/v4wlwzJ.jpg) [Six](https://i.imgur.com/EOYFd4E.jpg) [Seven](https://media.discordapp.net/attachments/657015801215189017/678464602731708416/ScreenShot12.png?width=1284&height=723) [Eight](https://media.discordapp.net/attachments/657015801215189017/680242683746451475/ScreenShot27.png?width=1284&height=723) [Nine](https://media.discordapp.net/attachments/657015801215189017/680242702163509268/ScreenShot23.png?width=1284&height=723) [Ten](https://media.discordapp.net/attachments/657015801215189017/680242707846922252/ScreenShot25.png?width=1284&height=723) [Eleven](https://media.discordapp.net/attachments/657015801215189017/678464594762530837/ScreenShot15.png?width=1284&height=723)
 
 ### System Specifications
-My computer is not the most powerful, but it can run this modlist at a consistent 60 FPS using the High preset. My specs are as follows. Please use this as a guideline to see if you are able to run this modlist. Anything better than what’s listed here should have no issues, anything worse may need to use the Medium or Low presets in the Skyrim graphics settings or go without ENB/use Re-shade instead. **Support is not provided for Re-shade.**
+My computer is not the most powerful, but it can run this modlist at a consistent 60 FPS using the High preset. My specs are as follows. Please use this as a guideline to see if you are able to run this modlist. Anything better than what’s listed here should have no issues, anything worse may need to use the Medium or Low presets in the Skyrim graphics settings or go without ENB/use Re-shade instead. **Support is not provided for Re-shade.**  
 
  - CPU: Intel i5-8600K Overclocked to 4.2GHz 
  - RAM: 16GB (16299MB actual)
  - GPU: nVidia GTX 1070 8GB (8192MB actual) 
  - Monitor: Dell S2716DGR 2560x1440 @ 144hz
 
-Skyrim is very heavy on processors. Generally, anything above 3GHz should be fine but I can’t guarantee it. I would also recommend at least 8GB of RAM and 6GB of VRAM before considering installing this modlist. During my testing, this list averaged 3.2GB of RAM usage (9.2GB max) and 5.5GB of VRAM usage (7.9GB max). 
+Skyrim is very heavy on processors. Generally, anything above 3GHz should be fine but I can’t guarantee it. I would also recommend at least 8GB of RAM and 6GB of VRAM before considering installing this modlist. During my testing, this list averaged 3.2GB of RAM usage (9.2GB max) and 5.5GB of VRAM usage (7.9GB max).  
 
 ### Skyrim Setup
 As with any modlist, it is strongly recommended that you start with a clean, unmodified installation of Skyrim: Special Edition. To get your Skyrim SE to this state, follow these steps:
@@ -48,12 +46,10 @@ As with any modlist, it is strongly recommended that you start with a clean, unm
 
 ## Installation
 
- 1. Download the [Modlist File](https://drive.google.com/open?id=1TkXLAqPgh6Rmtj1N8J6gZ4_sMqxWSbSt) as well as the latest [Wabbajack Installer.](https://github.com/wabbajack-tools/wabbajack/releases) Do not run anything until instructed to do so. 
-2. Create a new folder in the root of the drive where you want Wabbajack to be installed. (C:\ will be used as an example, but it
-    can be placed in any drive.) Name this folder “Wabbajack”.
-    **Important!:** Wabbajack must be placed in a separate folder from where the installation will occur. 
+1. Download the [Modlist File](https://drive.google.com/open?id=1TkXLAqPgh6Rmtj1N8J6gZ4_sMqxWSbSt) as well as the latest [Wabbajack Installer.](https://github.com/wabbajack-tools/wabbajack/releases) Do not run anything until instructed to do so. 
+2. Create a new folder in the root of the drive where you want Wabbajack to be installed. (C:\ will be used as an example, but it can be placed in any drive.) Name this folder “Wabbajack”. **Important!:** Wabbajack must be placed in a separate folder from where the installation will occur. 
 3. Create a second folder called C:\Living Skyrim. This folder is where everything will be installed. 
-4.    Ensure that C:\Living Skyrim is **completely empty.**
+4. Ensure that C:\Living Skyrim is **completely empty.**
 5. Ensure that Wabbajack.exe and the .wabbajack file are in C:\Wabbajack.
 
 ### Wabbajack Installation
@@ -70,13 +66,13 @@ As with any modlist, it is strongly recommended that you start with a clean, unm
 #### Without Nexus Premium
 6. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take a really long time, possibly more than one day. Also be aware that due to the amount of time required when installing this list manually, the list may update during the time it takes to install and you may need to start over if that happens. Put on some music or a TV show and make a day of it.
 
-Once complete, Wabbajack will say “Installation complete! You may exit the program.” If it does not, visit the Wabbajack Discord server for assistance. **Don’t forget to upload your log file!**
+Once complete, Wabbajack will say “Installation complete! You may exit the program.” If it does not, visit the Wabbajack Discord server for assistance. **Don’t forget to upload your log file!**  
 
-If Wabbajack fails to download a particular mod, it means that the mod has likely been updated. This also means that an update to Living Skyrim is imminent. Be patient and wait for the new release. **Do not ask other people to share older files as this is a violation of the Nexus ToS.**
+If Wabbajack fails to download a particular mod, it means that the mod has likely been updated. This also means that an update to Living Skyrim is imminent. Be patient and wait for the new release. **Do not ask other people to share older files as this is a violation of the Nexus ToS.**  
 
 ## Post-Wabbajack Install
 ### Game Folder Files
-Now you have to copy some files to their correct locations. Navigate to C:\Living Skyrim\Game Folder Files. Copy all of these files into <Steam Install Location>\steamapps\common\Skyrim Special Edition\ and Overwrite if prompted.
+Now you have to copy some files to their correct locations. Navigate to C:\Living Skyrim\Game Folder Files. Copy all of these files into <Steam Install Location>\steamapps\common\Skyrim Special Edition\ and Overwrite if prompted.  
 
 ### Mod Organizer 2
 1. Navigate to C:\Living Skyrim and open ModOrganizer.exe. Your Mod Organizer window will have the Wabbajack theme already selected. If it doesn’t, something has gone wrong and you’ll likely need to do the Wabbajack installation again.
