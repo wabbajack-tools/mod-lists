@@ -1,8 +1,5 @@
-# Living Skyrim
-By ForgottenGlory
-Current version: 3/15/2020, v1.0.0
-443 mods, 233 ESPs, 16 ESLs (249 Total)
 [Modlist GDrive Folder](https://drive.google.com/open?id=1zyTmVx9WKKl1guwPrF-aCjTRcHmVC_hg)
+
 ## Preface
 The Living Skyrim Modlist focuses heavily on adding highly interactive content. New questlines and world spaces are given high priority as well as mods that add NPCs, followers, and things to do. Some prominent examples are Interesting NPCs, Immersive Creatures, Legacy of the Dragonborn V5, VIGILANT, Falskaar, Animallica, and more. The core idea of Living Skyrim is to make the world feel full of life and activity in almost every area, whether it's a bandit patrol from OBIS or a conversation overheard between NPCs provided by Realistic Conversations. It is designed as a complete overhaul and expansion to many of the systems present in the game. It is aimed at providing a lore-friendly experience that enhances the core game rather than adding tedium and monotony to the game. Some mods are avoided intentionally so that unnecessary systems that slow down the game aren't included. The few inclusions that do slow things down are included for balance and pacing reasons.
 
