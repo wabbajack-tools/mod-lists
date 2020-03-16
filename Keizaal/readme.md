@@ -104,32 +104,6 @@ Keizaal comes packaged with two profiles: Open Cities Skyrim and Closed Cities S
 
 ![](https://lh5.googleusercontent.com/fhEJwlH0NZCEv0LJIKhiHL1EBxDZsm3cBtggflwIhDcJGDbSO5f3XZSV8Q5X6RAl4tLL_lCrbmXCD2K0pL-uSulqPzQDBTR8eoXghMmWDrqi03s1W7PwyUwTk5dOJ6lauGqexWuV)
 
-## Recommended Mod Configuration Menu Settings
-
-The Mod Configuration Menu gives the player a huge amount of control over mods that support it. It is a much more elegant solution to toggling mod settings in-game compared to the config books and powers of old. You can access the MCM under the settings tab in your pause menu.
-
-While the mod settings are ultimately subjective user-to-user there are a few settings that are recommended to achieve this modlist’s intended experience.
-
-### Open Cities Skyrim
-
-Toggle **Oblivion Gates**, **City Gate Attendants**, and **Outdoor Lighting System** to **OFF**. Oblivion Gates and City Gate Attendants are purely preference, but they have both lore and quality issues that result in them being recommended to be disalbed. Outdoor Lighting System has some lite incompatibilities with Cathedral Weathers and Seasons, nothing that will inherently break your game, but to avoid some weirdness just disable it.
-
-## ![](https://lh3.googleusercontent.com/IXRQaF-jiN-k0AUHIATIqy9fpviRmXeQx9aVgc8cBGgIGkmnWb5ElFQodx98OEOfcMnTPcuZ9WnjJDoNLUC8tZMKD2GSDa5INFmN4N20M-2wWFZdDn2GM7DVIeR3ha6aK5Fkw1Hp)
-
-### Timing is Everything
-
-Bethesda has an infamous history of poorly integrating their expansions, Skyrim was no exception. While purely preference, it is recommended to **set Dragonborn to start at level 30 after Dragonslayer has been complete** and **set Dawngaurd to start at level 50**. This goes against the release order of Skyrim’s expansions, but it has a better “flow”. Dragonborn is inherently connected to Skyrim’s main quest and feels like a sequel to it. Dawngurad is an unconnected side story with little to no connections with the main quest.
-
-## ![](https://lh3.googleusercontent.com/HcL9TJh9pU624-0dT26wBEqFPWcho3ZWvJDEmBbhY3cGteIdQmhDjmmNrXh_idN6PafKrZGS6J15zJ-kp-fX7D-H6Dv9htI8OXKquSSL6nttChOX5ixmpAAxbyiyj_EuvOttReUD)
-
-Toggle **The Break of Dawn: No Vampires** to **ON**. Meridia abhors the undead, it doesn’t make sense for her to pick an undead champion.
-
-![](https://lh3.googleusercontent.com/4gTy2QlRMT2SqRqDEH_cJ8g5ErTy6CtecFcfEJcsA_mNEEeworON0xOLP2GSs7evmeUeEeo5BP3d8Z4ZGxVzlwtM9WDo47tj2824FtL8HqCBNQ3aOKXwY54y7B-qOMQ0kNKtcsw1)
-
-Toggle **Werewolf Encounters** and **Thalmor Squad: Quest Requirement** to **ON**. Werewolves are an interesting enemy type that was tragically underused in the base game, turning them on makes for some interesting world encounters. The Thalmor Hit Squad only triggering after Diplomatic Immunity gives some feeling of consequence to the world as it serves as a direct reaction to your actions during that quest.
-
-![](https://lh5.googleusercontent.com/X_qW8fWJcJ5uG04GOG-AzoOkieRBqcMu7bz4cjrmiMuzhvGgKZ2RPqgcXacm4TV8aNA2o21NJskfKJVOvfg76gvZo_iXNzVt9m2hoUVf3Z1BkqB-haAUBXtGTK2UAzlVpylOGR6z)
-
 ## Troubleshooting
 
 **Wabbajack throws an error after authorizing through Nexus.**
