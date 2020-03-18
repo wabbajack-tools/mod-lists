@@ -2,9 +2,9 @@
 
 [Wabbajack discord](https://discordapp.com/invite/Wabbajack).
 
-[Changelog](https://drive.google.com/open?id=1UkrTgrol7RZ3a6UH4Jcb0JT3EgNRSgUw)
+[Changelog](https://github.com/SudoStormie/NOISE-Wabbajack-Installer/blob/master/changelog.md)
 
-NOISE is a Modlist designed to be built upon by users, with enhanced graphics, mechanics, and immersion, while staying true to the original vision of Skyrim mechanics; basically, Skyrim++ This Modlist has high compatibility with modded player homes, quests, etc. that allows for you to add what mods you would like (within reason), as long as you take the time to understand how modding works.
+NOISE is a Modlist with enhanced graphics, mechanics, and immersion, while staying true to the original vision of Skyrim mechanics; basically, Skyrim++.
 
 **REQUIRES NEXUSMODS.COM PREMIUM ACCOUNT**
 
@@ -22,16 +22,18 @@ Wabbajack now supports in-place upgrades, however, anything that doesn’t match
 
 Delete Nice Overall Improvement SE.wabbajack from the C:\Wabbajack\downloaded_mod_lists\ folder. Select NOISE from the Wabbajack UI modlist browser, and redownload. 
 
-Overwrite the previous installation of NOISE, after you’ve ensured you’ve backed up your saves and mods that you included yourself.
+Overwrite the previous installation of NOISE, after you’ve ensured you’ve backed up your saves.
+
+You do NOT have to update unless a release is found to have a critical bug.
 
 
 ### System Specs
 
-With or without DynDOLOD generated, I recommend 4-6GB of VRAM for optimal performance, especially with an ENB. This guide requires you to generate LODs yourself, due to allowing other mods to be installed on top.
+With or without DynDOLOD generated, I recommend 4-6GB of VRAM for optimal performance, especially with an ENB.
 
 ### Old Files Cleanup/Steam Config
 
-This is only necessary one time, and only if you’ve used NMM or Vortex previously. If you have other Wabbajack modlists installed, ignore these instructions until you see **END IGNORE AT THE END OF THESE INSTRUCTIONS**
+This is only necessary one time, and only if you’ve used NMM or Vortex previously. If you have other Wabbajack modlists installed, ignore these instructions, skip to the `Installation` section in this readme.
 
 Next, delete any files you may have from old installations or previous modding adventures. Delete the following directories:
 
@@ -84,16 +86,6 @@ The Program Files folder is not recommended and could cause issues.
 9. Make sure Borderless is unchecked
 10. OK to save the settings
 11. Close the launcher window
-
-### Setting Up Creation Kit
-
-1. Download and install Bethesda.net Launcher.
-2. Run the Launcher and sign in or create an account and sign in.
-3. In the left pane, locate the icon for "Creation", which should look greyed-out.
-4. Click on the "Creation" icon and select Install.
-5. After completion of the installation, click on launch.
-6. In the pop-up that appears, select YES.
-7. Close the Creation Kit program.
 
 ## Installation
 
@@ -151,11 +143,8 @@ After starting a new game, you will spawn in the LAL cell. You’ll find a key t
 ### Immersive Horses
 
 - Standing Activation Action: Ride
-
 - Sneaking Activation Action: Open Inventory
-
 - Mounted Activation Action: Dismount
-
 - Disable Trample Effect
 
 ### Immersive HUD
@@ -165,7 +154,6 @@ After starting a new game, you will spawn in the LAL cell. You’ll find a key t
 ### SKYUI
 
 - Advanced: Disable all SWF Version Checking
-
 
 ### Violens
 
@@ -226,57 +214,19 @@ By default, NOISE comes packed with premade LOD's. However, these LOD's are 2D a
 
 To learn more about Mod Organizer 2, please [watch this video](https://www.youtube.com/watch?v=LwaC7gP7_JM).
 
-All tools you install will be placed in `C:\NOISE\tools`. Then set them up as executables through MO2.
-
-<https://forum.step-project.com/topic/13451-xlodgen-terrain-lod-beta-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal/>
-
-<https://forum.step-project.com/topic/13894-dyndolod-beta-for-skyrim-special-edition-and-skyrim-vr-274/>
-
-More resources and learning:
-
-[How to Mod Skyrim SE](https://www.youtube.com/playlist?list=PLlN8weLk86XgJIZXTEPEcU1b6dzA_eJSB)
-
-[MO2](https://www.youtube.com/watch?v=ruq6hQIAvB8&list=PLlN8weLk86Xh3ue76x2ibqtmMramwQmHB)
-
-[Wrye Bash](https://www.youtube.com/watch?v=uYAEFk5QmLQ&list=PLlN8weLk86Xjiymt7aBPWD2epUftR7wss)
-
-[Mator Smash](https://www.youtube.com/watch?v=2e-0mc8wmDs)
-
-[xEdit](https://www.youtube.com/watch?v=wA5IlESvtCM&list=PLlN8weLk86XiGXJI4DaRa1QIq1zhDpD8V)
-
 ## Adding an ENB:
 
-1.  If you want to add an ENB you need d3d11.dll and d3dcompiler_46e.dll files from [ENBSeries](http://enbdev.com/download\_mod\_tesskyrimse.htm) and place them in your Skyrim Game Folder along with the ENB files. Also grab any other files that the ENB you wish to add specifies.
+1.  If you want to add an ENB you need d3d11.dll and d3dcompiler_46e.dll files from [ENBSeries](http://enbdev.com/) and place them in your Skyrim Special Edition Game Folder along with the ENB files. Also grab any other files that the ENB you wish to add specifies.
 
-2.  Refer to the installation instructions that are on the ENB’s page. I recommend anything made for Obsidian Weathers. Selection of ENB presets
+2.  Refer to the installation instructions that are on the ENB’s page. I recommend anything made for Obsidian Weathers. 
 
-I use NVT for Obsidian on my personal installation, ENB is not included with NOISE.
+I use Re-Engaged for Obsidian on my personal installation, ENB is not included with NOISE.
 
 ## Adding ReShade:
 
 -   [ReShade Guide](https://www.youtube.com/watch?v=-jQ7OJy0818)
-
 -   [Text Guide](https://reshade.me/forum/troubleshooting/5227)
 
-## Adding mods:
-
-1.  When adding mods it is important to be able to use modding tools.
-
-2.  Tools commonly used include xEdit, zEdit, Wrye Bash, DynDOLOD, xLODGEN, Mator Smash, Merge Plugins Hide, and TexGen.  
-
-3.  Add your mods into MO2 and place them in the left panel under the most appropriate separator. You can learn more about MO2 separators here: [Gamerpoets Video](https://www.youtube.com/watch?v=LwaC7gP7_JM)
-
-4.  Check your mods for conflicts with any other mods in the list using xEdit. 
-
-5.  Then proceed to use any tools that are necessary, converting the form id by resaving plugins in the Creation Kit, or optimizing meshes and textures with [CAO](https://www.nexusmods.com/skyrimspecialedition/mods/23316). (These are necessary for converting oldrim mods to work with SE)
-
-## DO NOT USE LOOT TO SORT THE LOAD ORDER. DO IT MANUALLY BY CHECKING FOR CONFLICTS IN xEDIT
-
-Rebuild the bashed patch. Refer to [Lexy's Guide](https://wiki.nexusmods.com/index.php/User:Darkladylexy/Finish_Page). Don't copy her bash tags as we have already set up custom ones. Also don't copy her settings tweaks as ours are automatically set.
-
-Rebuild Smash Patch. Make sure to actually add the new mods to the patch and just set everything except Skyrim.esm to Smash.All
-
-Refer to the [Method](https://www.nexusmods.com/skyrimspecialedition/mods/25522) (halfway down the page)
 
 # F.A.Q
 
@@ -289,8 +239,8 @@ Refer to the [Method](https://www.nexusmods.com/skyrimspecialedition/mods/25522)
 ## The dungeons are too dark!
 -   What dungeons, realistically, aren't dark? Hold "E" to turn on your lantern.
 
-## What's in this modlist?
--   [List of Mods thanks to Fantastigasmical Alice](https://drive.google.com/open?id=17ip66aRyaohUOtE_y4FXTVA20_uJaBKk) 
+## There are empty mods with red X's!
+-   Leave them alone. Do not touch. Do not touch anything in optional folders. These mods are merged. This applies to all modlists.
 
 ## Can you add/remove X mod?
 -   Only if I feel like it. But at this point, the answer will probably be no. This is meant to be added on to. Add it yourself.
@@ -298,56 +248,8 @@ Refer to the [Method](https://www.nexusmods.com/skyrimspecialedition/mods/25522)
 ## The modlist updated, and you added/removed X mod?!?! Why??!?
 -   Because I felt like it, or it didn't fit my original vision, or it's too much of a hassle to deal with. I have a limited time left on this planet and don't want to recompile/fix things every 5 minutes. If you enjoy the version you're on, there is no need to update with WJ. You can update mods yourself, and check for relevant updates by using the Updated tab on the [SSE Nexus](https://www.nexusmods.com/skyrimspecialedition?tab=updated)
 
-## How do I redo Smash Patch?
--   NOISE specific: Smash patch you just add everything to the patch and set everything to smash.all except for Skyrim.esm, which you don't put in the patch. We use Wrye Bash only for tweaks, due to the app storing files in various locations and causing variables on end-user/modlist dev PC's.
-
 ## I want to use another body instead of the UNP that comes with Diversity.
-
-You have multiple options:
-1.  Normal CBBE
-2.  CBBE SE (don't even bother, its outdated)
-3.  CBBE 3BBB Normal or Advanced version
-4.  Normal UNP (already included in Diversity)
-5.  BHUNP 3BBB
-
-The most important question you need to answer is "Do you wanna see them tiddies bouncing"? If you're answer is "no" then you should go with either normal CBBE or normal UNP (already included).
-
-If you're answer is "hell yes" then you have to decide between going CBBE 3BBB or BHUNP 3BBB. 3BBB is a new type of body which utilizes 3  breast&butt bones and are very modern and new. Since the dawn of mankind we have asked the question "CBBE or UNP"? This is something you have to decide on your own.
-
-## CBBE 3BBB:
-
--   Download [CBBE](https://www.nexusmods.com/skyrimspecialedition/mods/198) (install options don't really matter)
--   Download [XPMSSE](https://www.nexusmods.com/skyrimspecialedition/mods/1988) (make sure to install the new physics skeleton)
--   Download [HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/30872)
--   Download [CBPC](https://www.nexusmods.com/skyrimspecialedition/mods/21224) (pick the right runtime version, the preset options don't matter since CBBE 3BBB comes with it's own config
--   Download [CBBE 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/30174) or [CBBE 3BBB Advanced](https://www.loverslab.com/topic/133779-cbbe-3bbb-advanced/)
-
-The difference between CBBE 3BBB and CBBE 3BBB Advanced is that the latter was made with SexLab in mind and has patches for mods you only find on LL.
-
-The most important option in the CBBE 3BBB installer is the HDT-SMP/CBPC config section: HDT-SMP is rather CPU hungry but it's physics system is simply the best. If you can sacrifice 1-2 fps, get the full HDT-SMP config.
-
--   Get some CBBE compatible textures
-
--   Delete the zPatch, remove all NPC retextures that use the UNP body and download the CBBE version of those mods.
-
-## BHUNP 3BBB:
-
--   Download [XPMSSE](https://www.nexusmods.com/skyrimspecialedition/mods/1988) (make sure to install the new physics skeleton)
-
--   Download [HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/30872)
-
--   Download [CBPC](https://www.nexusmods.com/skyrimspecialedition/mods/21224) (pick the right runtime version, the preset options don't matter since BHUNP 3BBB comes with its own config
-
--   Download [BHUNP 3BBB](https://www.nexusmods.com/skyrimspecialedition/mods/31126)
-
-The most important option in the BHUNP 3BBB installer is the HDT-SMP/CBPC config section: HDT-SMP is rather CPU hungry but it's physics system is simply the best. If you can sacrifice 1-2 fps, get the full HDT-SMP config.
-
-No matter the type of body you choose, you still want [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201) to rebuild the base mesh using your own preset.
-
-(Thanks to Erri120)
-
-I don't offer help in this regard, because mucking about in Bodyslide is not my forte.
-
+-   This is unsupported.
 
 Credits & Thanks
 ----------------
