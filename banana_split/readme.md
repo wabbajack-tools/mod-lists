@@ -50,14 +50,14 @@ As for the extra steps involved, it’s for the best. First, it enables users to
 *If you ever need to update your Fallout 4, back up these new ba2 files before you verify/update. Otherwise you’ll have to do it all over again.*  
 Anyway, now that we got that over with, let’s move on.
 
-1. Download the latest version of Wabbajack (1.0 beta 22.1 at the time of this writing).
+1. Download the latest version of Wabbajack (v1.1.1.0 at the time of this writing).
 2. Create a new folder at the root of a drive (Example: D:\Wabbajack).
 3. Place the Wabbajack.exe into this new folder.
-4. Download the newest BananaSplit v2.8.6.wabbajack file from the Wabbajack Discord, or install directly from the Wabbajack User Interface.
+4. Download the newest BananaSplit v2.8.8.wabbajack file from the Wabbajack Discord, or install directly from the Wabbajack User Interface.
 5. Place the modlist file into the Wabbajack folder, next to the Wabbajack.exe file. Skip this step if installing directly from the Wabbajack User Interface.
 6. Launch Wabbajack.exe. If you are installing directly from the Wabbajack User Interface, then choose the "Browse Modlists" option, download Banana Split, and skip to Step 9.
 7. Select “Install a Modlist”
-8. Navigate to the BananaSplit v2.8.6.wabbajack file you just downloaded.
+8. Navigate to the BananaSplit v2.8.8.wabbajack file you just downloaded.
 9. In “Installation Location” choose a blank folder at the root of a drive (example: D:\Banana Split). **DO NOT** install your modlist to the same folder where you put Wabbajack.exe.
 10. The “Download Location” will update automatically. You can change it if you want.
 11. Click the "Play" arrow.
@@ -144,8 +144,6 @@ Open the Beantown Interiors Holotape in your Pipboy and select the following opt
 Other Options  
 Mod Compatibility  
 Enable Inside Jobs*  
-
-Open the True Storms holotape. Choose whatever options sound like fun to you.  
 
 That's it! Have fun!  
 
