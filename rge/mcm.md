@@ -32,9 +32,17 @@ MultiTap [X]
 - Settings
   - Encounter Zones [X]
 
-### Cathedral Weathers
+### CGO
 
-- configuration spell off
+- Unlocked Grip
+  - Hotkey: Keyboard: G / Controller: DPAD Up
+  - Stationary Speed Boost 0%
+- Dodge Roll
+  - Input Type: Hotkey
+  - Dodge Costs Stamina [ ]
+- Leaning
+  - Lean Multiplier (1st Person) 0.25 (Any value is fine)
+  - Lean Multiplier (3rd Person) 0.25 (Any value is fine)
 
 ### Extended UI
 
@@ -46,46 +54,18 @@ MultiTap [X]
 ### Follower Framework
 
 - System
-
   - Load from File
-
   - Hotkeyed Abilities
     - Customize as you wish
 
-### Lock Overhaul
+### Lock-On
 
-- Activate Lock Overhaul
-- Close MCM
-
+- Compatibility
+  - FISS
+    - Load Settings
 - General
-
-  - General Settings
-    - Allow increasing skill [X]
-    - Enable the sound effect [X]
-    - Enable Crime [X]
-
-- Lock Requirement
-
-  - Activate Lock Requirements [X]
-  - Novice Locks Requirement: 0 SKILL
-  - Apprentice Locks Requirement: 0 SKILL
-  - Adept Locks Requirement: 30 SKILL
-  - Expert Locks Requirement: 40 SKILL
-  - Master Locks Requirement: 50 SKILL
-
-- Smash Locks
-
-  - Activate Smash Locks [X]
-  - Novice Locks Requirement: 0 SKILL
-  - Apprentice Locks Requirement: 25 SKILL
-  - Adept Locks Requirement: 40 SKILL
-  - Expert Locks Requirement: 50 SKILL
-  - Master Locks Requirement: 60 SKILL
-  - Allowed Weapons - Two + One Handed
-
-- Unlock with Magic
-  - Frost Malus -15 skill
-  - Enable Unlock Spell [X]
+  - Settings
+    - Lock-On Key: KBM: No Idea / Controller: RS
 
 #### Lucien
 
@@ -98,22 +78,20 @@ MultiTap [X]
 
 - Brightness - Bright
 
+### Serio's Hotkeys
+
+- Gamepad Support
+  - Use Vanilla Hotkeys [X]
+
 ### Sky UI
 
 - Advanced
   - SWF Version Checking
   - Map Menu [ ]
 
-### SPERG
-
-- General
-  - Preferences
-    - Enable Salvage [ ]
-    - Quest Rewards - Main Quests
-    - Alternate Advancement - Staff Leveling [X]
-
 ### Take Notes!
-  - Open Journal K (or any other key you want... just not x)
+
+- Open Journal K (or any other key you want... just not x)
 
 ### The Ultimate Dodge Mod
 
