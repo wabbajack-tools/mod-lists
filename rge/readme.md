@@ -6,7 +6,7 @@ Please check your immershun at the door and embrace that c0da makes it canon!
 
 This modlist primarily revolves around [Relics of Hyrule](https://www.nexusmods.com/skyrimspecialedition/mods/12244) and [Grand Admiral Thrawn](https://www.nexusmods.com/skyrimspecialedition/mods/24) with new monsters coming from a heavily modified version of [Rogue-Like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872).
 
-Combat is mostly handled by [AGO](https://www.nexusmods.com/skyrimspecialedition/mods/24296) and [Wildcat](https://www.nexusmods.com/skyrimspecialedition/mods/1368). Enemy AI and scaling are provided by [RLE](https://www.nexusmods.com/skyrimspecialedition/mods/23872) while player and npc dodging comes from The Ultimate Dodge Mod.
+Combat is mostly handled by [CGO](https://www.nexusmods.com/skyrimspecialedition/mods/33767) [AGO](https://www.nexusmods.com/skyrimspecialedition/mods/24296) and [Wildcat](https://www.nexusmods.com/skyrimspecialedition/mods/1368). Enemy AI and scaling are provided by [RLE](https://www.nexusmods.com/skyrimspecialedition/mods/23872) while player and npc dodging comes from The Ultimate Dodge Mod.
 
     Modlist Size:  115GB
     Downloads Size: 84GB
@@ -27,11 +27,11 @@ If a question is sufficiently answered in this readme I will not respond to supp
 
 ### System Specs
 
-- GPU: >= 6GB of VRAM unless you adjust the settings and regenerate DynDOLOD
+- GPU: >= 4GB of VRAM unless you adjust the settings and regenerate DynDOLOD
 
 Everything should be installed on an SSD that has at least 200GB of space available.
 
-I run this list at 3440x1440 on a 1080TI and maintain greater than 45fps everywhere with most locations staying above 50fps.
+I run this list at 3440x1440 on a 1080TI and maintain greater than 30fps in all situations with most staying above 50fps.
 
 ## Installation
 
@@ -55,9 +55,9 @@ RGE currently ships with a preset for the Nord Female that makes your character 
 
 The Relics of Hyrule content is very much explore and figure it out. There are no quests or markers to lead you on your way. Keep an eye and an ear open for glowing fairies and tinkling noises as those mark most locations of Hyrule content. You can find an initial piece of content in Riverwood near the bridge that Faendal paths across to chop wood.
 
-The GAT content is woven into the main game. The imperial forces will be contesting you for everything including most of the Hyrule content. At some point you will want to join the Chiss Resistance. While there are many ways to do this an easy one is to head towards Bleak Falls Barrow and stop at Riverwood's Folly to chat with the resistance members there about joining. I advise against actually doing BFB until you've joined the resistance and completed their first faction quest 'Morki's Dark Thoughts'
+The GAT content is woven into the main game. The imperial forces will be contesting you for everything including much of the major Hyrule content. At some point you will want to join the Chiss Resistance. While there are many ways to do this an easy one is to head towards Bleak Falls Barrow and stop at Riverwood's Folly to chat with the resistance members there about joining. I advise against actually doing anything with BFB until you've joined the resistance and they ask you to do so.
 
-Once the GAT content starts in force you may want to keep a companion or two with you as it's balanced around having a squad. All vanilla followers have been significantly upgraded via 'Special Edition Followers'. Additionally I've included a funny old wizard 'Benjamin Doon', a nordic battle maid 'Danika', a vampire lord 'The Pale Lord', Auri and elven archer, an awesome lich 'Daanik', our favorite blue cat Inigo and last but not least Lucien. GAT itself comes with around thirty followers that you can recruit into your squad as well.
+You may want to keep a companion or two with you at all times as GAT is balanced around having a squad. All vanilla followers have been significantly upgraded via 'Special Edition Followers'. Additionally I've included a funny old wizard 'Benjamin Doon', a nordic battle maid 'Danika', a vampire lord 'The Pale Lord', Auri and elven archer, an awesome lich 'Daanik', our favorite blue cat Inigo and last but not least Lucien. GAT itself comes with around thirty followers that you can recruit into your squad as well.
 
 As configured by default your sneak key is ctrl, your dodge key is space and your shift key is jump. If you want to change this then go into the MAIN settings then controls then set the SNEAK key to whatever you want your DODGE to be. Then setup your jump to whatever it should be. Finally go into the MCM section for 'The Ultimate Dodge Mod' and set the sneak key to whatever you want to actually sneak with.
 
@@ -71,11 +71,11 @@ Have fun!
 
 ## Credits and Thanks
 
+- _YOU_ for actually reading the readme. Thanks a ton!!
 - The Phoenix Flavor by Phoenix - General ideas and awesomesauce derived therefrom
 - Lotus by erri120 - README format and NPC visuals
 - Total - Being a really helpful guy.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
-- _YOU_ for actually reading the readme. Thanks a ton!!
 - Frenchy - Thanks for the great work on the Linkle preset!
 
 ## Contact
