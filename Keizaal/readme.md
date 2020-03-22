@@ -96,14 +96,6 @@ You should now be on a screen that displays all of your installed mods on the le
 
 You will now have to launch Skyrim by selecting “SKSE” from the drop-down menu directly above the .esp plugins and pressing “Play”. Beneath the Play button there is a way to add a Skyrim shortcut to your desktop for added convenience.
 
-### Toggling Open Cities
-
-I consider Open Cities to be an important part of this modlist because it increases consistency with the Beyond Skyrim projects. Only the largest Beyond Skyrim cities will be closed (The Imperial City, Morunhold, Daggerfall, ect.) so it makes sense to make Skyrim’s cities follow the same rules as Beyond Skyrim’s. However, Open Cities has a lot of compatibility and performance concerns for many of users, so I have decided to make it optional.
-
-Keizaal comes packaged with two profiles: Open Cities Skyrim and Closed Cities Skyrim. Simply pick which version of Keizaal you want to use from the profile dropdown at above the installed mods.
-
-![](https://lh5.googleusercontent.com/fhEJwlH0NZCEv0LJIKhiHL1EBxDZsm3cBtggflwIhDcJGDbSO5f3XZSV8Q5X6RAl4tLL_lCrbmXCD2K0pL-uSulqPzQDBTR8eoXghMmWDrqi03s1W7PwyUwTk5dOJ6lauGqexWuV)
-
 ## Troubleshooting
 
 **Wabbajack throws an error after authorizing through Nexus.**
