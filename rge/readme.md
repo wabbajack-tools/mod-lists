@@ -6,7 +6,7 @@ Please check your immershun at the door and embrace that c0da makes it canon!
 
 This modlist primarily revolves around [Relics of Hyrule](https://www.nexusmods.com/skyrimspecialedition/mods/12244) and [Grand Admiral Thrawn](https://www.nexusmods.com/skyrimspecialedition/mods/24) with new monsters coming from a heavily modified version of [Rogue-Like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872).
 
-Combat is mostly handled by [CGO](https://www.nexusmods.com/skyrimspecialedition/mods/33767) [AGO](https://www.nexusmods.com/skyrimspecialedition/mods/24296) and [Wildcat](https://www.nexusmods.com/skyrimspecialedition/mods/1368). Enemy AI and scaling are provided by [RLE](https://www.nexusmods.com/skyrimspecialedition/mods/23872) while player and npc dodging comes from The Ultimate Dodge Mod.
+Combat is mostly handled by [AGO](https://www.nexusmods.com/skyrimspecialedition/mods/24296), [CGO](https://www.nexusmods.com/skyrimspecialedition/mods/33767) and [SkyRe](https://www.nexusmods.com/skyrimspecialedition/mods/17915). Enemy AI and new monsters are provided by [RLE](https://www.nexusmods.com/skyrimspecialedition/mods/23872) while both player and npc dodging come from The Ultimate Dodge Mod.
 
     Modlist Size:  115GB
     Downloads Size: 84GB
