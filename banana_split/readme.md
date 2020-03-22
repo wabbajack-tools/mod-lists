@@ -50,7 +50,7 @@ As for the extra steps involved, it’s for the best. First, it enables users to
 *If you ever need to update your Fallout 4, back up these new ba2 files before you verify/update. Otherwise you’ll have to do it all over again.*  
 Anyway, now that we got that over with, let’s move on.
 
-1. Download the latest version of Wabbajack (v1.1.1.0 at the time of this writing).
+1. Download the latest version of Wabbajack (v1.1.2.0 at the time of this writing).
 2. Create a new folder at the root of a drive (Example: D:\Wabbajack).
 3. Place the Wabbajack.exe into this new folder.
 4. Download the newest BananaSplit v2.8.8.wabbajack file from the Wabbajack Discord, or install directly from the Wabbajack User Interface.
