@@ -25,23 +25,11 @@ Once Skyrim is installed, make sure you run it once. (Get to the Skyrim splash s
 
 ### 1.3 Installation Instructions
 
--   Download the latest version of Wabbajack (v1.0 at the time of this writing).
+-   Download the latest version of Wabbajack (v1.1.2.0 at the time of this writing).
 
 -   Create a new folder at the root of a drive (Example: D:\Wabbajack).
 
 -   Place the Wabbajack.exe into this new folder.
-
-If you are manually downloading and installing the modlist using the "Install from Disk" option:
-
--   Download the newest The Phoenix Flavour.wabbajack file from the Wabbajack Discord linked above.
-
--   Place the modlist file into a new folder (example: D:\Wabbajack\downloaded_mod_lists)
-
--   Launch Wabbajack.exe
-
--   Select "Install from Disk"
-
--   Choose the The Phoenix Flavour.wabbajack file you just downloaded.
 
 For automatic installations:
 
@@ -50,8 +38,6 @@ For automatic installations:
 -   Select "The Phoenix Flavour" from the list of available modlists on the Wabbajack UI.
 
 -   Click "Download and Install."
-
-For both manual and automatic installations:
 
 -   In "Installation Location" choose a blank folder at the root of a drive (example: D:\Phoenix Flavour).
 
