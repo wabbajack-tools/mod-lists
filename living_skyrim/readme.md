@@ -12,26 +12,28 @@ Lastly, Living Skyrim exists solely as a Wabbajack installer. A manual installat
 ### Warnings/Disclaimers
 Wabbajack no longer requires that you have Nexus Premium to install the modlist, however, having Nexus Premium will cut your install time to a fraction of what it would be instead of downloading each mod individually (and save you a thousand clicks or so).  
 
-As of v1.0.0, the modlist requires ~119GB (39.6GB Downloads/79GB Mods) of hard drive space on top of the ~10GB Skyrim: Special Edition base files. Installing onto an SSD is not required, but **strongly recommended**. Download and installation times vary based on your computer and internet speeds but expect them to take at least one hour with 20-30 minutes of after-Wabbajack work.  
+As of v1.3.0, the modlist requires ~121GB (40GB Downloads/81GB Mods) of hard drive space on top of the ~10GB Skyrim: Special Edition base files. Installing onto an SSD is not required, but **strongly recommended**. Download and installation times vary based on your computer and internet speeds but expect them to take at least one hour with 20-30 minutes of after-Wabbajack work.  
 
 **NSFW Warning:** By default this modlist contains nude models for female NPCs. See the FAQ for more information about changing the list to NeverNude if that interests you.  
 
 Support is **not** provided for adding to, changing, or removing mods from the modlist. If you’re uncertain of how to use xEdit at a minimum, making any changes at all is a great way to have a **Bad Time™**.
 
 ### Links
-[The Modlist, Submissions, and Version History spreadsheet](https://docs.google.com/spreadsheets/d/1sKG690CbutxCFhDLfTH7C6yYCz0dOkZkuKfYAqRBRVU/edit?usp=sharing)  
-[Living Skyrim FAQ](https://docs.google.com/document/d/1ObldDxDPppV7tB_uTIzXN16puqiTTZB1pzf3wuNXHmY/edit?usp=sharing)  
-[Living Skyrim Bug Tracker](https://trello.com/b/myVMRRQU/living-skyrim-bug-tracker)  
+[The Modlist and Mod Submissions Spreadsheet](https://docs.google.com/spreadsheets/d/1sKG690CbutxCFhDLfTH7C6yYCz0dOkZkuKfYAqRBRVU/edit?usp=sharing)  
+[Living Skyrim FAQ](FAQ.md)  
+[Living Skyrim Bug & Suggestions Tracker](https://github.com/ForgottenGlory/Living-Skyrim/issues)  
+[User Testimonials](https://drive.google.com/open?id=1eXeG852teL9EOnIHTAFTLW4Rq1c_pYGRYPtW_eNJqLg)
+[Living Skyrim Discord](https://discord.gg/9dFvGnc)
 
 Screenshots: [One](https://i.imgur.com/WLHS8PZ.png) [Two](https://i.imgur.com/VZ5R16D.jpg) [Three](https://i.imgur.com/ihT68Xq.jpg) [Four](https://i.imgur.com/TjpnNsA.jpg) [Five](https://i.imgur.com/v4wlwzJ.jpg) [Six](https://i.imgur.com/EOYFd4E.jpg) [Seven](https://media.discordapp.net/attachments/657015801215189017/678464602731708416/ScreenShot12.png?width=1284&height=723) [Eight](https://media.discordapp.net/attachments/657015801215189017/680242683746451475/ScreenShot27.png?width=1284&height=723) [Nine](https://media.discordapp.net/attachments/657015801215189017/680242702163509268/ScreenShot23.png?width=1284&height=723) [Ten](https://media.discordapp.net/attachments/657015801215189017/680242707846922252/ScreenShot25.png?width=1284&height=723) [Eleven](https://media.discordapp.net/attachments/657015801215189017/678464594762530837/ScreenShot15.png?width=1284&height=723)
 
 ### System Specifications
 My computer is not the most powerful, but it can run this modlist at a consistent 60 FPS using the High preset. My specs are as follows. Please use this as a guideline to see if you are able to run this modlist. Anything better than what’s listed here should have no issues, anything worse may need to use the Medium or Low presets in the Skyrim graphics settings or go without ENB/use Re-shade instead. **Support is not provided for Re-shade.**  
 
- - CPU: Intel i5-8600K Overclocked to 4.2GHz 
- - RAM: 16GB (16299MB actual)
- - GPU: nVidia GTX 1070 8GB (8192MB actual) 
- - Monitor: Dell S2716DGR 2560x1440 @ 144hz
+- CPU: Intel i5-8600K Overclocked to 4.2GHz 
+- RAM: 16GB (16299MB actual)
+- GPU: nVidia GTX 1070 8GB (8192MB actual) 
+- Monitor: Dell S2716DGR 2560x1440 @ 144hz
 
 Skyrim is very heavy on processors. Generally, anything above 3GHz should be fine but I can’t guarantee it. I would also recommend at least 8GB of RAM and 6GB of VRAM before considering installing this modlist. During my testing, this list averaged 3.2GB of RAM usage (9.2GB max) and 5.5GB of VRAM usage (7.9GB max).  
 
@@ -46,25 +48,24 @@ As with any modlist, it is strongly recommended that you start with a clean, unm
 
 ## Installation
 
-1. Download the [Modlist File](https://drive.google.com/open?id=1TkXLAqPgh6Rmtj1N8J6gZ4_sMqxWSbSt) as well as the latest [Wabbajack Installer.](https://github.com/wabbajack-tools/wabbajack/releases) Do not run anything until instructed to do so. 
+1. Download the latest [Wabbajack Installer](https://github.com/wabbajack-tools/wabbajack/releases). Do not run anything until instructed to do so.
 2. Create a new folder in the root of the drive where you want Wabbajack to be installed. (C:\ will be used as an example, but it can be placed in any drive.) Name this folder “Wabbajack”. **Important!:** Wabbajack must be placed in a separate folder from where the installation will occur. 
 3. Create a second folder called C:\Living Skyrim. This folder is where everything will be installed. 
 4. Ensure that C:\Living Skyrim is **completely empty.**
 5. Ensure that Wabbajack.exe and the .wabbajack file are in C:\Wabbajack.
 
 ### Wabbajack Installation
-1. Run Wabbajack.exe. At the bottom of the window, click Install From Disk. A file picker window will appear. 
-2. Navigate to C:\Wabbajack and select Living Skyrim.
-3. Click Open.
-4. Set the Installation Location to C:\Living Skyrim. The download location does not need to be set manually unless you have drive space limitations. Downloading to a separate folder is fine (for example, on a HDD), but as before it is recommended that the actual install be placed on a SSD.
-5. Click Run.
+1. Run Wabbajack.exe. At the bottom of the window, click Browse Modlists. Select Living Skyrim from the UI and download it.
+2. Once downloaded, click the play button in the Living Skyrim panel to begin.
+3. Set the Installation Location to C:\Living Skyrim. The download location does not need to be set manually unless you have drive space limitations. Downloading to a separate folder is fine (for example, on a HDD), but as before it is recommended that the actual install be placed on a SSD. **Important!:** Do not install the modlist to your Skyrim SE installation folder OR the folder that Wabbajack.exe is in.
+4. Click Run.
 
 #### With Nexus Premium
-6. Wabbajack will walk you through logging into the Nexus and authorizing an API key so it can download mods if you have not done so previously.
-7. Let Wabbajack do its thing. This will take a little while (usually 2-3 hours at most), so go get a snack and read a book for a bit. If you have good enough internet, YouTube is also your friend here.
+5. Wabbajack will walk you through logging into the Nexus and authorizing an API key so it can download mods if you have not done so previously.
+6. Let Wabbajack do its thing. This will take a little while (usually 2-3 hours at most), so go get a snack and read a book for a bit. If you have good enough internet, YouTube is also your friend here.
 
 #### Without Nexus Premium
-6. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take a really long time, possibly more than one day. Also be aware that due to the amount of time required when installing this list manually, the list may update during the time it takes to install and you may need to start over if that happens. Put on some music or a TV show and make a day of it.
+5. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take a really long time, possibly more than one day. Also be aware that due to the amount of time required when installing this list manually, the list may update during the time it takes to install and you may need to start over if that happens. Put on some music or a TV show and make a day of it.
 
 Once complete, Wabbajack will say “Installation complete! You may exit the program.” If it does not, visit the Wabbajack Discord server for assistance. **Don’t forget to upload your log file!**  
 
@@ -77,7 +78,10 @@ Now you have to copy some files to their correct locations. Navigate to C:\Livin
 ### Mod Organizer 2
 1. Navigate to C:\Living Skyrim and open ModOrganizer.exe. Your Mod Organizer window will have the Wabbajack theme already selected. If it doesn’t, something has gone wrong and you’ll likely need to do the Wabbajack installation again.
 2. A dialogue will appear and ask if you want to associate Mod Organizer with nxm links. Click **Yes.**
-3. Make a note of the Active count in both the left and right panes. If yours doesn’t say 443 and 249 respectively, make sure you have booted Mod Organizer in Portable Mode.
+
+#### Configuration-Specific
+1. If you are going to use a controller, make sure to enable Gamepad++ in the left pane of MO2. If you are **not** going to use a controller, make sure to **disable** Gamepad++ in the left pane of MO2.
+2. If you are using a widescreen monitor, make sure to enable Complete Widescreen Fix for SkyUI 5.2 SE in the left pane of MO2. If you are **not** using a widescreen monitor, make sure to **disable** Complete Widescreen Fix for SkyUI 5.2 SE in the left pane of MO2.
 
 ### ENB
 ENB is not required to run Living Skyrim, but it is intended to be used with SkyrimSE Re-Engaged ENB. You may skip these instructions if you don’t want to use ENB. To install ENB, follow these steps:
@@ -89,7 +93,7 @@ ENB is not required to run Living Skyrim, but it is intended to be used with Sky
 5. (Optional) Then, go to the 2. Optional DOF Strengths folder and select your favorite. I prefer the Soft DOF. Go into your chosen folder and copy all of the files within into your Skyrim SE installation folder. Overwrite files when prompted.
 6. Additional information and details can be found in the Re-Engaged ENB description if needed.
 
-**If you have issues using Re-Engaged ENB with Predator Vision, check the [FAQ](https://docs.google.com/document/d/1ObldDxDPppV7tB_uTIzXN16puqiTTZB1pzf3wuNXHmY/edit?usp=sharing) for more details on how to fix this.**
+**If you have issues using Re-Engaged ENB with Predator Vision, check the [FAQ](https://github.com/ForgottenGlory/Living-Skyrim/blob/master/FAQ.md) for more details on how to fix this.**
 
 ### Launching the Game
 The hard part is now over. Carry on, the end is in sight!
@@ -101,7 +105,7 @@ The hard part is now over. Carry on, the end is in sight!
 5. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
 
 ### The MCM Settings
-1. If you want the true Living Skyrim experience, consult the [Living Skyrim MCM Configuration](https://docs.google.com/document/d/1SQQnKvUrGSHfv32SVzo0oIifm6HRuh-rSJxjAfRJbzc/edit?usp=sharing) document and follow all listed steps. Note that some settings in this document are required for certain mods to work properly, namely Hunterborn, Lock Overhaul, OBIS, Immersive HUD, and XPMSE.
+1. If you want the true Living Skyrim experience, consult the [Living Skyrim MCM Configuration](MCM%20Configuration.md) document and follow all listed steps. Note that some settings in this document are required for certain mods to work properly, namely Hunterborn, Lock Overhaul, OBIS, Immersive HUD, and XPMSE.
 2. Otherwise, configure the MCMs how you want. Feel free to experiment and turn the difficulty up/down to your preference.
 3. Don’t forget to save your game after configuring the MCMs, I promise you don’t want to have to do this step more than once.
 
