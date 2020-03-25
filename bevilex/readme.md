@@ -30,7 +30,7 @@ Before we get started, there is just a couple of things to note:
 3. Run **ModOrganizer.exe** in the Bevilex MO2 folder.
 4. Select **BOSS** from the **executable dropdown** in MO2 and hit **Run**. The BOSS GUI will appear over the top of MO2. Hit **Run BOSS** without changing any of the settings. It will now take some time to download the latest masterlist, if it hasn't done so already. (This occasionally fails - if this happens, don’t worry, just try again and you should get the update eventually). After, it will sort your plugins and output an HTML log when completed.
 5. Download the **userlist.txt** file from [here](https://drive.google.com/open?id=1YMnIIi1illJe7TeQdkRvX64FbfzmsiwU), cut to  **tools/BOSS/bin/Release-64/oblivion** and overwrite any existing file there.
-6. Repeat step 5, using BOSS to sort your load order with the newly applied user rules.
+6. Repeat step 4, using BOSS to sort your load order with the newly applied user rules.
 
 ### Special Installation Steps
 
@@ -45,7 +45,12 @@ Only applicable if you have a Steam or retail copy of Oblivion. GOG users can sk
 
 Only applicable if you have the standard GOTY version of Oblivion (i.e. just KotN and SI, and not the smaller plugins).
 
-* Disable the **Unofficial Oblivion DLC Patches** mod in the left pane.
+* Disable the following mods in the left pane:
+1. **Unofficial Oblivion DLC Patches**
+2. **Book Jackets for Misc. DLC**
+3. **Interior Draw Distance ENB Fog Fix**
+4. **Snowy Road to Bruma DLC Frostcrag Patch**
+5. **Harvest [Flora] - DLCFrostcrag.esp**
 
 ##### _Ultra Widescreen Users_
 
@@ -144,7 +149,7 @@ The Bevilex guide only overhauls visuals and stability, leaving plenty of room f
 Oblivion is only designed to run on the first two cores of a PC, but by default, the operating system will attempt to use all cores. By manually setting Oblivion to use just the first two cores, you can achieve a significant performance boost in game.
 
 1. Download and install the **Process Lasso** tool from [https://bitsum.com](https://bitsum.com). Note that if you don’t select it to start at startup, ensure that the tool is running prior to playing Oblivion.
-2. In MO2, select the **INI Editor** on the top bar (jigsaw/puzzle icon). Change **iNumHWThreads** to = 2.
+2. In MO2, select the **INI Editor** on the top bar. In the **[General]** section, paste in this line: **iNumHWThreads = 2**.
 3. Launch Oblivion with MO2, after following the mandatory installation steps above.
 4. ALT-Tab to Process Lasso and right-click the Oblivion.exe process. Choose **CPU Affinity -> Always -> Select CPU affinity**, and then **tick only CPU 0 and CPU 1**.
 5. Restart Oblivion!
