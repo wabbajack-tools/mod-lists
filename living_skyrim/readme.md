@@ -105,7 +105,7 @@ The hard part is now over. Carry on, the end is in sight!
 5. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
 
 ### The MCM Settings
-1. If you want the true Living Skyrim experience, consult the [Living Skyrim MCM Configuration](MCM%20Configuration.md) document and follow all listed steps. Note that some settings in this document are required for certain mods to work properly, namely Hunterborn, Lock Overhaul, OBIS, Immersive HUD, and XPMSE.
+1. If you want the true Living Skyrim experience, consult the [Living Skyrim MCM Configuration](https://github.com/ForgottenGlory/Living-Skyrim/blob/master/MCM%20Configuration.md) document and follow all listed steps. Note that some settings in this document are required for certain mods to work properly, namely Hunterborn, Lock Overhaul, OBIS, Immersive HUD, and XPMSE.
 2. Otherwise, configure the MCMs how you want. Feel free to experiment and turn the difficulty up/down to your preference.
 3. Don’t forget to save your game after configuring the MCMs, I promise you don’t want to have to do this step more than once.
 
