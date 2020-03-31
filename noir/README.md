@@ -135,11 +135,11 @@ If it asks you to associate Mod Organizer 2 with nxm links, click yes.
 
 In Mod Organizer 2, select SKSE from the drop down menu next to the Run button and click Run. This is how you will launch Skyrim from now on.
 
-## Configuring MCM
+## Setup and MCM Recommended Settings
 
 After starting a new game, you will spawn in the LAL cell. You’ll find a key to the shelves on a table, with basic loadout necessities. Wait until the text in the top left is finished loading all of your mods, then press Esc and go to your MCM settings.
 
-[MCM](https://drive.google.com/open?id=1arfMhKhaIZMiMB4zYvWFwJvvPxGRH_CRt2HsXSf7Zdw)
+[Setup and MCM](https://github.com/giraldiego/NOIR/blob/master/SETUP.md)
 
 
 Alternate DynDOLOD Settings
