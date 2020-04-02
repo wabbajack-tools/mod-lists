@@ -9,8 +9,17 @@ NOIR
 NOIR is a modlist based on NOISE for playing Requiem 3.4.
 With enhanced graphics, mechanics, and immersion, the general idea is to maintain Requiem mechanics as much as possible staying true to the original vision of Requiem; kind of Requiem+.
 
+**Warnings/Disclaimers**
 
-**REQUIRES NEXUSMODS.COM PREMIUM ACCOUNT**
+Wabbajack no longer requires that you have Nexus Premium to install the modlist, however, having Nexus Premium will cut your install time to a fraction of what it would be instead of downloading each mod individually (and save you a thousand clicks or so).
+
+As of v1.2, the modlist requires ~110GB (46GB Downloads/63GB Mods) of hard drive space on top of the ~10GB Skyrim: Special Edition base files. You can setup the Downloads folder in a another drivem, read WJ's help on Discord. Installing onto an SSD is not required, but strongly recommended.
+
+Download and installation times vary based on your computer and internet speeds but expect the entire process to take a couple of hours.
+
+NSFW Warning: By default this modlist contains nude models for female NPCs.
+
+Support is not provided for adding to, changing, or removing mods from the modlist. If you’re uncertain of how to use xEdit at a minimum, making any changes at all is a great way to have a Bad Time™.
 
 ## Getting Started
 
