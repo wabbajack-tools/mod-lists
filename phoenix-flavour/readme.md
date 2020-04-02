@@ -25,7 +25,7 @@ Once Skyrim is installed, make sure you run it once. (Get to the Skyrim splash s
 
 ### 1.3 Installation Instructions
 
--   Download the latest version of Wabbajack (v1.1.2.0 at the time of this writing).
+-   Download the latest version of Wabbajack (v1.1.4.0 at the time of this writing).
 
 -   Create a new folder at the root of a drive (Example: D:\Wabbajack).
 
@@ -97,4 +97,8 @@ Luckily, Phoenix has already set up a page full of recommended settings. Click t
 
 [Recommended MCM Settings for The Phoenix Flavour](https://thephoenixflavour.com/guide/new-game/)
 
-I have also included my personal preference in regards to the A Matter of Time configuration. Simply open the MCM menu for A Matter of Time, select Preset, then Load User Settings. Close the MCM menu, and you'll see it magically move into the position I've set up for myself. Technology is crazy, man.
+I have also included my personal preference in regards to the A Matter of Time configuration. Simply open the MCM menu for A Matter of Time, select Preset, then Load User Settings. Close the MCM menu, and you'll see it magically move into the position I've set up for myself. Technology is crazy, man.  
+
+As a quick side note: Some people seem to have issues with Frozen Electrocution Combustion. If you’re experiencing intermittent crashing, try disabling FEC.  
+
+If you’re happy with the guide, please consider [donating to Phoenix on her Patreon](https://www.patreon.com/thephoenixflavour). None of this is possible without her and her team.
