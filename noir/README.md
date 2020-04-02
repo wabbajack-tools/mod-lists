@@ -6,7 +6,7 @@ NOIR
 
 [Changelog](https://github.com/giraldiego/NOIR/blob/master/CHANGELOG.md)
 
-NOIR is a modlist for playing Requiem 3.4 that used as foundation NOISE, another modlist.
+NOIR is a modlist based on NOISE for playing Requiem 3.4.
 With enhanced graphics, mechanics, and immersion, the general idea is to maintain Requiem mechanics as much as possible staying true to the original vision of Requiem; kind of Requiem+.
 
 
@@ -136,8 +136,6 @@ If it asks you to associate Mod Organizer 2 with nxm links, click yes.
 In Mod Organizer 2, select SKSE from the drop down menu next to the Run button and click Run. This is how you will launch Skyrim from now on.
 
 ## Setup and MCM Recommended Settings
-
-After starting a new game, you will spawn in the LAL cell. You’ll find a key to the shelves on a table, with basic loadout necessities. Wait until the text in the top left is finished loading all of your mods, then press Esc and go to your MCM settings.
 
 [Setup and MCM](https://github.com/giraldiego/NOIR/blob/master/SETUP.md)
 
