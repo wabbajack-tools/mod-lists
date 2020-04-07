@@ -13,9 +13,7 @@ Better graphics, tons of new weapons and armor, plenty of extra content, and imp
 
 Go to [BiRaitBec's Modding Guide](https://www.nexusmods.com/fallout4/mods/23556?tab=description) page.  
 Manually download the WorkBase file.  
-Manually download the Main Repack files (Part One, Part Two, and Part Three).  
- - *If your PC is more of a low-end system, manually download the Performance option instead.*  
- 
+Manually download the Main Repack files (Part One, Part Two, and Part Three).   
 Extract the WorkBase file with 7zip.  
 Inside of the Workbase folder, create 2 folders called 'OriginalBa2' and 'PatchedBa2'.  
 You should have three folders inside of Workbase: OriginalBa2, PatchedBa2, and PatchedFiles.  
@@ -38,7 +36,7 @@ Navigate to to your Fallout4/Data folder, Cut or Copy (Depending on how much spa
 'DLCNukaWorld - Textures.ba2'  
 
 Paste these files into your WorkBase/OriginalBa2 folder.  
-Extract all three Main Repack files (or the Performance repack, if you chose that).  
+Extract all three Main Repack files.  
 Move the "Textures" folders from these extracted archives into the "PatchedFiles" folder.  
 Run the installer.bat file inside of WorkBase.  
 When it is done, cut and paste all of the files inside of the PatchedBa2 folder into your Fallout4/Data folder.  
