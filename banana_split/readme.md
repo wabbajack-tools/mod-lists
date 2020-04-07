@@ -4,7 +4,7 @@ Better graphics, tons of new weapons and armor, plenty of extra content, and imp
 
 #### **_Requirements Before Installing:_**
 
-  *Current build version of Wabbajack. 
+  *Current build version of Wabbajack.  
   *Clean install of Fallout 4, without HD DLC.  
   *A Nexusmods account. Nexus Premium is highly recommended for automatic download support.  
   *90 gigs of free space. Note that this number does NOT include your Fallout 4 installation.  
