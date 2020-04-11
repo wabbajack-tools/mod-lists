@@ -8,6 +8,8 @@ A few criteria for the mods on this list:
 4. **Mods must have decent longevity.** This modlist wants to be somewhat relevant, in theory, forever.  
 5. **Stability is the most important thing.** This rule basically supersedes all the above. If a mod introduces major stability concerns it will be quickly cut.
 
+You can find a full list of the mods included in Keizaal [here](https://modwat.ch/u/Keizaal/).
+
 ## Setup and Information
 
 A premium Nexus account is required to run Wabbajack.
