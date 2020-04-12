@@ -72,8 +72,6 @@ When you’re ready press the triangular start button.
 
 After starting the installation a window will pop up and ask for you to authorize Wabbajack to use your Nexus account. Log into and authorize Wabbajack on Nexus and the installation will proceed. Wabbajack will now install the modlist, this will take a while so be patient. When the installation is done the left panel should say “Installation Complete '' at the button. At this time it is safe to close Wabbajack.
 
-Navigate to your Keizaal installation folder (default is C:\Keizaal\) and find the “Game Folder Files” folder. Open it and extract everything in it to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe).
-
 ### Installing the ENB (Optional)
 
 If you have an older or less powerful machine you may skip this step.
@@ -87,6 +85,8 @@ Download the most recent version of ENB. Once the archive is downloaded, open it
 Extract everything in “WrapperVersion” to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe).
 
 ## Playing Keizaal
+
+Navigate to your Keizaal installation folder (default is C:\Keizaal\) and find the “Game Folder Files” folder. Open it and extract everything in it to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe). Keizaal is now ready to play!
 
 Now that Keizaal has been installed you will need to launch Skyrim in a slightly different way.
 
