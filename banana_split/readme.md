@@ -51,7 +51,7 @@ Anyway, now that we got that over with, let’s move on.
 1. Download the latest version of Wabbajack (v1.1.5.0 at the time of this writing).
 2. Create a new folder at the root of a drive (Example: D:\Wabbajack).
 3. Place the Wabbajack.exe into this new folder.
-4. Launch Wabbajack.exe. Download the newest BananaSplit v3.0.wabbajack file from the Wabbajack Modlist Gallery.
+4. Launch Wabbajack.exe. Download the newest BananaSplit v3.0.2.wabbajack file from the Wabbajack Modlist Gallery.
 9. In “Installation Location” choose a blank folder at the root of a drive (example: D:\Banana Split). **DO NOT** install your modlist to the same folder where you put Wabbajack.exe.
 10. The “Download Location” will update automatically. You can change it if you want.
 11. Click the "Play" arrow.
@@ -85,7 +85,7 @@ Companion Command Hotkeys
 Faster Workshop Hotkey  
 ![alt text](https://i.imgur.com/QOVlpjA.png)  
 
-Vafs Focus Hotkey  
+Vafs Focus Hotkey - Note that if you use Q like I do, you'll also have to unbind VATS from the Game Settings.  
 ![alt text](https://i.imgur.com/4WlhCqZ.png)  
 
 Vafs Critical Hotkey  
