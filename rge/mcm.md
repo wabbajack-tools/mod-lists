@@ -98,15 +98,6 @@ MultiTap [X]
 - Sneak Key - Left Control
 - NPC Dodging Frequency - Not Frequent
 
-#### Wildcat
-
-- Injuries
-  - Disable Injuries
-- Attacks of Opportunity
-  - Disable Penalties vs Massive Targets
-- Difficulty
-  - Allow Wildcat to Manage Difficulty
-
 ### Ye Olde Hybrid Loot
 
 - Disable it if you don't want it
