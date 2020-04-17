@@ -147,7 +147,7 @@ A new gameplay profile will be added to this modlist soon, aimed at users who wa
 For a more feature-filled gameplay experience with major changes, new quests and expansion-like content, you may want to take a look at Wojo's Wabbajack modlist: WOOL.
 
 
-If you would rather build on this profile yourself, included below are some general steps for installing additional mods on top of the Bevilex install. If you would like some inspiration, the Bevilex guide has a number of gameplay enhancing suggestions that you can incorporate on top of the guide which have been tried and tested - see the bottom of [this page](https://www.nexusmods.com/oblivion/mods/47591) for more details.
+If you would rather build on this profile yourself, included below are some general steps for installing additional mods on top of the Bevilex install. For inspiration, the Bevilex guide has a number of gameplay enhancing suggestions that you can incorporate on top of the guide which have been tried and tested - see the bottom of [this page](https://www.nexusmods.com/oblivion/mods/47591) for more details.
 
 #### General Steps
 
