@@ -1,4 +1,4 @@
-### Documentation and Instructions for Installer Version 1.5.3
+### Documentation and Instructions for Installer Version 1.5.4
 
 **NOTE**: As with all Wabbajack installers, a Nexus premium account is required in order to use the premium API for downloads. Additionally, since this is an unofficial attempt to automate the Bevilex guide, PLEASE only direct support queries to the unofficial bevilex modlist development channel in the [Wabbajack discord](https://discord.gg/WnyMdj). To view the channel, go to **#welcome** and follow the instructions, selecting Oblivion as a game choice.
 
@@ -69,7 +69,7 @@ The first profile is closely aligned with the Bevilex guide and is the option to
 
 You can change profiles at any time.
 
-### Post Installation Tweaks: Creating a Wrye Bash Bashed Patch
+### Creating a Wrye Bash Bashed Patch
 
 1. Select **Wrye Bash** from the in MO2 and hit **Run**. If prompted for a game choice, select **Oblivion**.
 2. Within the Wrye Bash interface, right click the plugin right at the bottom (**Bashed Patch 0.esp**) and click **Rebuild Patch**.
