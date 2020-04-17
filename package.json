@@ -1,0 +1,24 @@
+{
+  "name": "json-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "modlists.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wabbajack-tools/mod-lists.git"
+  },
+  "author": "erri120",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wabbajack-tools/mod-lists/issues"
+  },
+  "homepage": "https://github.com/wabbajack-tools/mod-lists#readme",
+  "devDependencies": {
+    "axios": "^0.19.1",
+    "jest": "^24.9.0",
+    "underscore": "^1.9.2"
+  }
+}
