@@ -146,7 +146,6 @@ A new gameplay profile will be added to this modlist soon, aimed at users who wa
 
 For a more feature-filled gameplay experience with major changes, new quests and expansion-like content, you may want to take a look at Wojo's Wabbajack modlist: WOOL.
 
-
 If you would rather build on this profile yourself, included below are some general steps for installing additional mods on top of the Bevilex install. For inspiration, the Bevilex guide has a number of gameplay enhancing suggestions that you can incorporate on top of the guide which have been tried and tested - see the bottom of [this page](https://www.nexusmods.com/oblivion/mods/47591) for more details.
 
 #### General Steps
@@ -197,7 +196,9 @@ _BSA Decompressor recreates BSA archives without zlib compression so the game is
 
 ## Troubleshooting
 
-1. _I can’t run the Oblivion executable from MO2 - I get an application error._
+1. _I am unable to download Insanity's Improved Armoury Compilation during the Wabbajack install process._
+   * This particular file is hosted on MEGA due to issues with the original upload on TESAlliance. Wabbajack may have issues accessing the file automatically, dependent on your ISP and region. If you encounter this issue, please download the file manually from [here]() and paste into your Bevilex/downloads folder, then rerun Wabbajack.
+2. _I can’t run the Oblivion executable from MO2 - I get an application error._
     * If you bought the game through Steam, it needs to be running in the background for you to play the game. Boot up Steam and give it another try.
 2. _When I run Oblivion, a new window opens and I can hear the main menu audio, but all I get is a blank/black screen._
    * MO2 is failing to load the OBSE libraries when running Oblivion leading to issues with the mods installed. To correct, click the executable dropdown in MO2, select <Edit>, and then check the Oblivion.exe entry. Ensure that Force Load Libraries is ticked, and click Configure Libraries. Ensure that Oblivion.exe is set to load the library obse_1_2_416.dll in your Oblivion game directory.
