@@ -197,14 +197,16 @@ _BSA Decompressor recreates BSA archives without zlib compression so the game is
 ## Troubleshooting
 
 1. _I am unable to download Insanity's Improved Armoury Compilation during the Wabbajack install process._
-   * This particular file is hosted on MEGA due to issues with the original upload on TESAlliance. Wabbajack may have issues accessing the file automatically, dependent on your ISP and region. If you encounter this issue, please download the file manually from [here]() and paste into your Bevilex/downloads folder, then rerun Wabbajack.
-2. _I can’t run the Oblivion executable from MO2 - I get an application error._
+   * This particular file is hosted on MEGA due to issues with the original upload on TESAlliance. Wabbajack may have issues accessing the file automatically, dependent on your ISP and region. If you encounter this issue, please download the file manually from [here](https://mega.nz/#!HlxQGIjK!n6rJOhznkuBwVVey7ApxOW8QHjkMx0P6wHiZlqCisgE) and paste into your Bevilex/downloads folder, then rerun Wabbajack.
+2. _I am unable to download [X] mod during the Wabbajack install process, and from the Nexus page I can see that it was updated within the past week._
+    * The mod in question has been updated and the mod author has not kept the previous version accessible on the Nexus. As such, the current modlist cannot be installed and must be updated. If you encounter this and it has not been mentioned in the #bevilex-support channel on Discord, please ping me (@Sam) so that I am aware of the issue and can update the modlist as soon as possible. 
+3. _I can’t run the Oblivion executable from MO2 - I get an application error._
     * If you bought the game through Steam, it needs to be running in the background for you to play the game. Boot up Steam and give it another try.
-2. _When I run Oblivion, a new window opens and I can hear the main menu audio, but all I get is a blank/black screen._
+4. _When I run Oblivion, a new window opens and I can hear the main menu audio, but all I get is a blank/black screen._
    * MO2 is failing to load the OBSE libraries when running Oblivion leading to issues with the mods installed. To correct, click the executable dropdown in MO2, select <Edit>, and then check the Oblivion.exe entry. Ensure that Force Load Libraries is ticked, and click Configure Libraries. Ensure that Oblivion.exe is set to load the library obse_1_2_416.dll in your Oblivion game directory.
-3. _Following the above instructions, there is no obse_1_2_416.dll._
+5. _Following the above instructions, there is no obse_1_2_416.dll._
    * Make sure you have copied the contents of Game Folder Files to your Oblivion game directory. The OBSE files should be present in this folder. 
-2. _My visuals are strange - both ENB and Oblivion Reloaded do not appear to be working._ OR shadows on objects do not seem to match their surroundings.
+6. _My visuals are strange - both ENB and Oblivion Reloaded do not appear to be working._ OR shadows on objects do not seem to match their surroundings.
     * Replace the Oblivion.ini file in Documents/MyGames/Oblivion, [MO2 Install]/profiles/Bevilex/, and [MO2 Install]/profiles/Bevilex Extended with [this version](https://drive.google.com/open?id=1IxmwXFnjPJcqK7wpQuYKUbhdDIcs0E3v).
 
 ## Credits
