@@ -138,6 +138,14 @@ Note that this section is optional - the textures covered are great additions bu
 5. On the right plugins pane, select the Downloads tab and **install each archive that you downloaded**. For each install, click the ‘manual installation’ option and verify that the structure is as it should be (you can tell from the green ‘Looks good’ text). If it is not, right click and set the data directory on the folders as appropriate.
 6. Once you have installed the mods, you’re all set!
 
+### Installing A Different ENB
+
+This modlist comes with the [Simple ENB](https://www.nexusmods.com/oblivion/mods/48808) pre-installed. This provides post processing effects in a subtle way, preserving the mood and colours used in Oblivion. This choice is the biggest deviation from the Bevilex guide, so if you would like an ENB that is more stylised and in line with the screenshots on Bevilex's [page](https://www.nexusmods.com/oblivion/mods/47591), then the instructions below will show you how to install one of the two ENB options supported in the guide: [Monkey ENB](https://www.nexusmods.com/oblivion/mods/49042) and [Cinematic ENB](https://www.nexusmods.com/oblivion/mods/45483).
+
+#### Monkey ENB
+
+#### Cinematic ENB
+
 ### Mod Suggestions, Gameplay Profiles, and Installing Additional Mods
 
 The Bevilex guide only overhauls visuals and stability, leaving the gameplay systems (questing, levelling, level scaling, combat) in a vanilla state. Given this, you may want to consider adding additional mods to enhance Oblivion's gameplay.
