@@ -90,6 +90,7 @@ Have fun!
 - Total - Being a really helpful guy.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
 - Frenchy - Thanks for the great work on the Linkle preset!
+- Forgotten God and Frenchy - Thanks for the great work on the logo and main menu replacer!!
 
 ## Contact
 
