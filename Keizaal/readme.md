@@ -106,7 +106,7 @@ Download the [.Net Framework 4.8 Runtime](https://dotnet.microsoft.com/download/
 
 **SSE Water for ENB fails to download.**
 
-SSE Water for ENB is hosted and Google Drive which Wabbajack occasionally has issues with automatically downloading from.
+SSE Water for ENB is hosted on Google Drive which Wabbajack occasionally has issues with automatically downloading from.
  
 If you encounter this issue first go to your Keizaal “downloads” folder and delete any mention of “SSE Water for ENB” (hashes included). After that manually download [SSE Water for ENB](https://drive.google.com/open?id=1l6qnD4Z6Rd4Fty8so0wEi0jLWUwnHa37) and place the archive file into the Keizaal “downloads” folder and attempt to continue with the Wabbajack installation.
 
