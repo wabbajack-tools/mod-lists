@@ -43,7 +43,7 @@ Only applicable if you have a Steam or retail copy of Oblivion. GOG users can sk
 
 ##### _GOG and Retail Users_
 
-Only applicable if you purchase the standard GOTY version of Oblivion on GOG or at retail. Steam users can skip this step. (if this is the case, you have the Knights of the Nine and Shivering Isles expansions, but not the house plugins or Horse Armor).
+Only applicable if you purchased the standard GOTY version of Oblivion on GOG or at retail. Steam users can skip this step. (if this is the case, you have the Knights of the Nine and Shivering Isles expansions, but not the house plugins or Horse Armor).
 
 * Disable the following mods in the left pane:
 1. **Unofficial Oblivion DLC Patches**
