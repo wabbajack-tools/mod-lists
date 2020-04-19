@@ -4,8 +4,8 @@
 
 
 
-DISCLAIMER:  \
-**Qolore722 currently does not offer any support for automated setup installations; please **do not **ask him or his team about any issues you experience with Wabbajack. He recommends users at least read through[ the official guide](https://vivanewvegas.github.io/index.html) to get a basic understanding of the modding process. 
+**DISCLAIMER:**  \
+Qolore722 currently does not offer any support for automated setup installations; please **do not **ask him or his team about any issues you experience with Wabbajack. He recommends users at least read through[ the official guide](https://vivanewvegas.github.io/index.html) to get a basic understanding of the modding process. 
 
 **DISCLAIMER #2:**
 
