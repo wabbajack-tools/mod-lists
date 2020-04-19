@@ -1,4 +1,4 @@
-### Documentation and Instructions for Installer Version 1.5.3
+### Documentation and Instructions for Installer Version 1.5.4
 
 **NOTE**: As with all Wabbajack installers, a Nexus premium account is required in order to use the premium API for downloads. Additionally, since this is an unofficial attempt to automate the Bevilex guide, PLEASE only direct support queries to the unofficial bevilex modlist development channel in the [Wabbajack discord](https://discord.gg/WnyMdj). To view the channel, go to **#welcome** and follow the instructions, selecting Oblivion as a game choice.
 
@@ -25,7 +25,7 @@ Before we get started, there is just a couple of things to note:
 6. Wabbajack will now download and install the mods specified in the installer. The download size is approximately 18GB so this may take a little while. The installer should keep you informed of progress.
 7. After the **installation complete** message appears, close the installer.
 
-### Post Installation Tweaks: Running BOSS with User Rules
+### Running Better Oblivion Sorting Software (BOSS) with User Rules
 1. Within the Bevilex folder, copy the contents of the **Game Folder Files** folder to your root Oblivion directory (e.g. C:\Steam\steamapps\common\Oblivion for Steam installs).
 2. Run **ModOrganizer.exe** in the Bevilex MO2 folder.
 3. Select **BOSS** from the **executable dropdown** in MO2 and hit **Run**. The BOSS GUI will appear over the top of MO2. Hit **Run BOSS** without changing any of the settings. It will now take some time to download the latest masterlist, if it hasn't done so already. (This occasionally fails - if this happens, don’t worry, just try again and you should get the update eventually). After, it will sort your plugins and output an HTML log when completed.
@@ -41,9 +41,9 @@ Only applicable if you have a Steam or retail copy of Oblivion. GOG users can sk
 * Within the Bevilex MO2 folder, go to **tools/Oblivion RAM Optimization** and run **4gb patch.exe**.
 * Target both the **Oblivion.exe** and **OblivionLauncher.exe** executables in your root Oblivion directory. Both executables will now have been patched to improve the memory that can be allocated to their processes.
 
-##### _Standard GOTY Users_
+##### _GOG and Retail Users_
 
-Only applicable if you have the standard GOTY version of Oblivion (i.e. just KotN and SI, and not the smaller plugins).
+Only applicable if you purchased the standard GOTY version of Oblivion on GOG or at retail. Steam users can skip this step. (if this is the case, you have the Knights of the Nine and Shivering Isles expansions, but not the house plugins or Horse Armor).
 
 * Disable the following mods in the left pane:
 1. **Unofficial Oblivion DLC Patches**
@@ -61,7 +61,15 @@ Only applicable if you use a monitor with resolution greater than 1920x1080.
 * Download the **Ultra Widescreen Fix for Bevilex** from [here](https://drive.google.com/open?id=1dnWbrmT_zcIESIqmLWMVSzHaEdQgkCs8) and install through MO2, placing it in the **Install Specific Tweaks** section.
 * Download the **Black Rectangle Ultrawide Fix** from [here](https://www.nexusmods.com/oblivion/mods/48351), and install through MO2, placing it in the **Install Specific Tweaks** section.
 
-### Post Installation Tweaks: Creating a Wrye Bash Bashed Patch
+### Choosing a Profile
+
+Select either the **Bevilex** or **Bevilex Extended** profile to play with, using the profile dropdown in MO2. 
+
+The first profile is closely aligned with the Bevilex guide and is the option to choose if you want your experience to be consistent with Bevilex's choices. The second profile has seen further enhancements by myself and other members of the community, offering improved visuals and additional tools. 
+
+You can change profiles at any time.
+
+### Creating a Wrye Bash Bashed Patch
 
 1. Select **Wrye Bash** from the in MO2 and hit **Run**. If prompted for a game choice, select **Oblivion**.
 2. Within the Wrye Bash interface, right click the plugin right at the bottom (**Bashed Patch 0.esp**) and click **Rebuild Patch**.
@@ -77,8 +85,7 @@ Only applicable if you use a monitor with resolution greater than 1920x1080.
 
 ### Running the Game
 
-1. Select either the **Bevilex** or **Bevilex Extended** profile to play with, using the profile dropdown in MO2. The first profile is the standard Bevilex setup based on Bevilex's guide. The second profile is an enhanced profile offering improved visuals and additional tools. You can change profiles at any time).
-2. To play the game, select **Oblivion** in the MO2 **executable** **dropdown** and hit **Run.** If you encounter an application error and use Steam, make sure Steam is running in the background and try again.
+1. To play the game, select **Oblivion** in the MO2 **executable** **dropdown** and hit **Run.** If you encounter an application error and use Steam, make sure Steam is running in the background and try again.
 3. After playing and closing the game, click on the **Overwrite** panel at the bottom of the mods pane and drag and drop the OBSE log files into the empty ‘OBSE Logs’ mod. This ensures any logs generated on successive plays will be stored here and will not produce a warning.
 4. You're ready to go! Check the optional steps below if you would like to further enhance your experience.
 
@@ -86,7 +93,9 @@ Only applicable if you use a monitor with resolution greater than 1920x1080.
 
 ### Installing Missing Mods
 
-As mentioned earlier, a number of texture mods are installed on websites that Wabbajack cannot currently access. This section covers the manual installation of these mods to provide a complete Bevilex installation, and requires users to have some knowledge of MO2 mod installation. Note that this section is optional - the textures covered are great additions but the game is fully playable without them.
+As mentioned earlier, a number of texture mods are installed on websites that Wabbajack cannot currently access. This section covers the manual installation of these mods to provide a complete Bevilex installation, and requires users to have some knowledge of MO2 mod installation. 
+
+Note that this section is optional - the textures covered are great additions but may not be to everyone's tastes. I would recommend looking at some screenshots of the work KatKat produces before making a decision on their inclusion. I myself use a handful of the textures, but not all. The game is fully playable without them.
 
 1. **Register for the TESALL modding community.** I would recommend using a browser that autotranslates pages, such as Google Chrome, because the site is Russian. I would also recommend using a spam email and password that you do not use for other services, as the site does not use HTTPS. The registration page can be found at the following address: [http://tesall.ru/index.php?app=core&module=global&section=register](http://tesall.ru/index.php?app=core&module=global&section=register). Note that only fields marked with * are required, so no need to enter any Discord, Skype, Facebook etc. information. **At the bottom of the form there is a security question to prove you are human.** Below I will keep an updated list of possible questions and answers.
     1.  Question: _“What is the name of Ivan?”,_ Answer: Иван.
@@ -129,9 +138,17 @@ As mentioned earlier, a number of texture mods are installed on websites that Wa
 5. On the right plugins pane, select the Downloads tab and **install each archive that you downloaded**. For each install, click the ‘manual installation’ option and verify that the structure is as it should be (you can tell from the green ‘Looks good’ text). If it is not, right click and set the data directory on the folders as appropriate.
 6. Once you have installed the mods, you’re all set!
 
-### Installing Additional Mods
+### Mod Suggestions, Gameplay Profiles, and Installing Additional Mods
 
-The Bevilex guide only overhauls visuals and stability, leaving plenty of room for additional mods on top. Included below are some general steps for installing additional mods on top of the Bevilex install:
+The Bevilex guide only overhauls visuals and stability, leaving the gameplay systems (questing, levelling, level scaling, combat) in a vanilla state. Given this, you may want to consider adding additional mods to enhance Oblivion's gameplay.
+
+A new gameplay profile will be added to this modlist soon, aimed at users who want to improve the existing mechanics and systems to bring them up to standard but do not want to significantly alter the game, with an emphasis on maintaining stability and a gameplay experience similar to vanilla. 
+
+For a more feature-filled gameplay experience with major changes, new quests and expansion-like content, you may want to take a look at Wojo's Wabbajack modlist: WOOL.
+
+If you would rather build on this profile yourself, included below are some general steps for installing additional mods on top of the Bevilex install. For inspiration, the Bevilex guide has a number of gameplay enhancing suggestions that you can incorporate on top of the guide which have been tried and tested - see the bottom of [this page](https://www.nexusmods.com/oblivion/mods/47591) for more details.
+
+#### General Steps
 
 1. **Download the mods you wish to add.** Make sure to read the documentation to ensure that they do not have any compatibility issues with any of the mods from the Bevilex guide. If on Nexus, use ‘mod manager download’ where possible with MO2 open to have the archive appear directly in your MO2/download folder. If only manual download is available, cut and paste the archive to the downloads folder.
 2. **Install the mods in MO2** by double clicking the archive in the Downloads tab of the plugins pane. Click the **manual installation** option and verify that the structure is as it should be (you can tell from the green ‘Looks good’ text). If it is not, right click and set the data directory on the folders as appropriate. Remember to checkmark the mod in the mods pane after it has been installed.
@@ -179,9 +196,17 @@ _BSA Decompressor recreates BSA archives without zlib compression so the game is
 
 ## Troubleshooting
 
-1. _I can’t run the Oblivion executable from MO2 - I get an application error._
+1. _I am unable to download Insanity's Improved Armoury Compilation during the Wabbajack install process._
+   * This particular file is hosted on MEGA due to issues with the original upload on TESAlliance. Wabbajack may have issues accessing the file automatically, dependent on your ISP and region. If you encounter this issue, please download the file manually from [here](https://mega.nz/#!HlxQGIjK!n6rJOhznkuBwVVey7ApxOW8QHjkMx0P6wHiZlqCisgE) and paste into your Bevilex/downloads folder, then rerun Wabbajack.
+2. _I am unable to download [X] mod during the Wabbajack install process, and from the Nexus page I can see that it was updated within the past week._
+    * The mod in question has been updated and the mod author has not kept the previous version accessible on the Nexus. As such, the current modlist cannot be installed and must be updated. If you encounter this and it has not been mentioned in the #bevilex-support channel on Discord, please ping me (@Sam) so that I am aware of the issue and can update the modlist as soon as possible. 
+3. _I can’t run the Oblivion executable from MO2 - I get an application error._
     * If you bought the game through Steam, it needs to be running in the background for you to play the game. Boot up Steam and give it another try.
-2. _My visuals are strange - both ENB and Oblivion Reloaded do not appear to be working._ OR shadows on objects do not seem to match their surroundings.
+4. _When I run Oblivion, a new window opens and I can hear the main menu audio, but all I get is a blank/black screen._
+   * MO2 is failing to load the OBSE libraries when running Oblivion leading to issues with the mods installed. To correct, click the executable dropdown in MO2, select <Edit>, and then check the Oblivion.exe entry. Ensure that Force Load Libraries is ticked, and click Configure Libraries. Ensure that Oblivion.exe is set to load the library obse_1_2_416.dll in your Oblivion game directory.
+5. _Following the above instructions, there is no obse_1_2_416.dll._
+   * Make sure you have copied the contents of Game Folder Files to your Oblivion game directory. The OBSE files should be present in this folder. 
+6. _My visuals are strange - both ENB and Oblivion Reloaded do not appear to be working._ OR shadows on objects do not seem to match their surroundings.
     * Replace the Oblivion.ini file in Documents/MyGames/Oblivion, [MO2 Install]/profiles/Bevilex/, and [MO2 Install]/profiles/Bevilex Extended with [this version](https://drive.google.com/open?id=1IxmwXFnjPJcqK7wpQuYKUbhdDIcs0E3v).
 
 ## Credits
