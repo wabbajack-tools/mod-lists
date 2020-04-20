@@ -12,44 +12,11 @@ In order to experience all of the GAT + Hyrule content I highly recommend that y
 
 Either click 'Begin Your Adventure' or close the MCM menus and hit the 'enter' key to begin character creation.
 
-### AGO
-
-- Settings
-  - Enable/Disable
-    - Persistent Arrows [ ]
-
-### Blocksteal
-
-MultiTap [X]
-
-### Caranthir Tower
-
-- Features
-  - Auto-Loot Crafting [X]
-  - Dynamic Interiors [X]
-  - Immersive Storage [X]
-  - Realistic Construction [X]
-- Settings
-  - Encounter Zones [X]
-
 ### CGO
 
-- Unlocked Grip
-  - Hotkey: Keyboard: G / Controller: DPAD Up
-  - Stationary Speed Boost 0%
-- Dodge Roll
-  - Input Type: Hotkey
-  - Dodge Costs Stamina [ ]
 - Leaning
   - Lean Multiplier (1st Person) 0.25 (Any value is fine)
   - Lean Multiplier (3rd Person) 0.25 (Any value is fine)
-
-### Extended UI
-
-- Stats Menu
-  - Hide Legendary UI elements [X]
-  - Show attribute modifiers [X]
-  - Show skill modifiers [X]
 
 ### Follower Framework
 
@@ -58,56 +25,8 @@ MultiTap [X]
   - Hotkeyed Abilities
     - Customize as you wish
 
-### Lock-On
-
-- Compatibility
-  - FISS
-    - Load Settings
-- General
-  - Settings
-    - Lock-On Key: KBM: No Idea / Controller: RS
-
-#### Lucien
-
-- Configuration
-  - Customization
-    - Player Name
-      If you choose a name from this list then Lucien will speak it aloud when addressing you in game.
-
-### Quick Light
-
-- Brightness - Bright
-
-### Serio's Hotkeys
-
-- Gamepad Support
-  - Use Vanilla Hotkeys [X]
-
 ### Sky UI
 
 - Advanced
   - SWF Version Checking
   - Map Menu [ ]
-
-### Take Notes!
-
-- Open Journal K (or any other key you want... just not x)
-
-### The Ultimate Dodge Mod
-
-- Sneak Key - Left Control
-- NPC Dodging Frequency - Not Frequent
-
-### Ye Olde Hybrid Loot
-
-- Disable it if you don't want it
-
-### Skyrim Unbound
-
-- Main
-  - Dragons and Shouts
-    - Dragons - Timed Delay
-    - Dragon Souls - Dragonborn
-  - Special
-    - Additional Options
-      - Notifications About Dragons [X]
