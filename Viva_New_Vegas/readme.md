@@ -55,7 +55,7 @@ You **cannot** use a previously modded Fallout New Vegas game
 *   A **[Nexus Premium](https://www.nexusmods.com/register/premium)** account is needed for Wabbajack’s automatic downloading.  
 *   [Microsoft VC++ 2015,2017.2019](https://support.microsoft.com/en-gb/help/2977003/the-latest-supported-visual-c-downloads).  
     *   Click the <code>x64:vc_redist.x64.exe</code></strong> links under the “Visual Studio 2015, 2017, and 2019” header. 
-    *   Run <strong><em>both <code>.exe</code></em> files, follow the instructions.  
+    *   Run <em>both <code>.exe</code></em> files, follow the instructions.  
    (If you get a message that the program is already installed, exit.)
 
 <h2>Installation Instructions</h2>
