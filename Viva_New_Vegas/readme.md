@@ -138,16 +138,6 @@ You **cannot** use a previously modded Fallout New Vegas game
 
 
 
- You **cannot** use an ENB with New Vegas Reloaded, as it can cause significant issues.  
-**If you wish to use an ENB**, untick this mod in MO2's left pane.
-
-
-
-
----
-
-
-
 
 *   **Before** you start the game, you will need a program to cap your framerate. If you wish to play with over 60 frames you will need to set your desired max/min framerate in **New Vegas Tick Fix**. Double click on New Vegas Tick Fix in Mod Organizer 2. Click on the Ini Files tab. .You will need to set `iMaxFPS` to 160 (or higher depending on your average fps ingame).
 *   **Options:** If NVTF does not work for you with the above settings. Cap your framerate with one of the options below or another program of your preference.
