@@ -86,13 +86,9 @@ You **cannot** use a previously modded Fallout New Vegas game
 *   Download the latest version of Wabbajack.
 *   Create a new folder at the root of a drive (Example: <code>D:\Wabbajack</code>). 
     *   <strong>Make sure </strong>this is <strong>separate </strong>from your <em>Viva New Vegas</em> install folder, <strong>not </strong>in common folders like <em>Downloads </em>or <em>Desktop</em>. 
-    *   <strong>Important note:</strong> 
-
-        Installing any Bethesda-related modding software or setups in default Windows system files (such as: C:\Program Files, C:\Program Files (x86), Downloads, Desktop) can cause MAJOR problems down the line.)  
-
 *   Place <code>Wabbajack.exe</code> into this new <em>Wabbajack </em>folder.  
 *   Create a folder named <em>Viva New Vegas </em>(or something similar). Do not place this folder inside the Wabbajack folder!  
-*   Create a folder inside your <em>Viva New Vegas </em> folder and name it <em>downloads</em>  
+*   Create a folder inside your <em>Viva New Vegas </em> folder and name it <code>downloads</code>  
 *   Manually download:  
 *   1. <code>[Vanilla HUD Remastered Patch 1.83h](https://www.moddb.com/addons/start/171596?referer=https%3A%2F%2Fvivanewvegas.github.io%2Fhuduivui%2B.html)</code>  
 *   2. <code>[Spice of Life](http://download2134.mediafire.com/vfp4hfknt66g/ln1a2l2th1if8es/Spice+of+Life+Vanilla+v1-5+Release+Candidate.7z)</code>  
@@ -101,12 +97,12 @@ You **cannot** use a previously modded Fallout New Vegas game
 *   Select “Browse Modlists”  
 *   Download the latest version of <code>Viva New Vegas Wabbajack</code> file.  
 *   In “Installation Location”, choose the <em>Viva New Vegas</em> folder. The “Download Location” should update automatically. 
-    *   Make sure it is pointing correctly to the <em>downloads </em>folder you just created.  
+    *   Make sure it is pointing correctly to the <code>downloads </code>folder you just created.  
 *   Click the large “Play” button.
     *   If you get any sort of error, post your Wabbajack log in the #viva-new-vegas-support channel of the [Wabbajack Discord](https://discord.gg/wabbajack). (You can find this log in the same folder as <strong><code>Wabbajack.exe</code></strong> with the file name <strong><code>Wabbajack.current.log</code></strong>.)
 *   If you get a Nexus API request, accept it.
 *   <strong>Wait.</strong> (This process is the longest of the setup, may take from 15 min- up to several hours, depending upon your hardware and internet connection speed.)
-*   <strong>Do not close Wabbajack</strong> until the bottom left pane says “<strong>Installation is complete. You may exit the program.”</strong>  
+*   Do not close Wabbajack until the bottom left pane says “<strong>Installation is complete. You may exit the program.”</strong>  
 
 *   Once installation is complete, open your <em>Viva New Vegas </em>folder. You should see another folder inside of it called <em>Game Folder Files</em>.
     *   Copy <strong>all </strong>files inside this folder into your <em>Fallout New Vegas </em>game directory  
@@ -161,7 +157,8 @@ You **cannot** use a previously modded Fallout New Vegas game
     *   **Intel GPU**⇨ you could use various options (the best of which is TBA, a WIP)
 
 
-    Now open up your MO2 **Fallout ini**, find the line that starts with **SArchiveList** and replace the entire line with the one below. If you do not do this you will have missing assets in your game! Make sure you save the ini after applying the changes.
+    Now open up your MO2 **Fallout ini**, find the line that starts with **SArchiveList** and replace the entire line with the one below.  
+    If you do not do this you will have missing assets in your game! Make sure you save the ini after applying the changes.
 
 
 ```
@@ -170,6 +167,7 @@ You **cannot** use a previously modded Fallout New Vegas game
 ```
 
 Note: Some users have reported that this step needs to be done twice for it to save properly. If you load the game and see red triangles with exclamation marks, please apply this line to your ini file again.  
+
 
 Note: If you have a GOG copy of the game, there may be a FalloutNV_lang.esp in the right pane. If so, navigate to the Data folder and delete it.  
 
