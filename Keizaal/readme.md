@@ -14,7 +14,7 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
 
 A premium Nexus account is required to run Wabbajack.
 
-This modlist takes up 80GB of harddrive space and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance, but a standard hard disk drive will suffice.
+This modlist takes up 100GB of harddrive space and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance, but a standard hard disk drive will suffice.
 
 Install the latest version of Wabbajack from the #builds channel in the [Wabbajack Discord](https://discordapp.com/invite/wabbajack).
 
@@ -88,15 +88,17 @@ Extract everything in “WrapperVersion” to your Skyrim Special Edition direct
 
 Navigate to your Keizaal installation folder (default is C:\Keizaal\) and find the “Game Folder Files” folder. Open it and extract everything in it to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe). Keizaal is now ready to play!
 
+![](https://lh5.googleusercontent.com/AcN_DN0Xr133rwF-ntqbHbcv6e7GVs0ChBY7as__v_EkTaoGotVkR6E_JCDzO0m-QHmpjGqT7WG74cikRaYKOb2Ojr_O8aZ4I-A6He-CxjWkQ-tUB7G8a3uMRPj7lJQ0934U-_q5)
+
 Now that Keizaal has been installed you will need to launch Skyrim in a slightly different way.
 
 Navigate back to your Keizaal installation folder and run ModOrganizer.exe.
 
 You should now be on a screen that displays all of your installed mods on the left and all of your .esp files on the right.
 
-![](https://lh5.googleusercontent.com/YiMtbtFchI4dQhTfZu8btgagdViOzy9hphagcdyYhEYKuuKerSlJWvgTQR14jOJleywiBGHvY3kQPNwgaAhkf61fN2I-DBYXRkbvzBCnJ_jUCuufuvRFmRtSmqJv81Iv2A)
+![](https://lh4.googleusercontent.com/_bSzqh7vA4QHZ3m7cnCj2s0-hW-LqXU8vLryDidqN0DDNa4MhOV7HupaDjEEBdIztDf0qg9FHeotUEqIjdhrQg2xddNM33TMQIIvwX0yzSQCphBtwdGT7vRzfb-Wv2j64CPY_K02)
 
-You will now have to launch Skyrim by selecting “SKSE” from the drop-down menu directly above the .esp plugins and pressing “Play”. Beneath the Play button there is a way to add a Skyrim shortcut to your desktop for added convenience.
+You will now have to launch Skyrim by selecting “Keizaal” from the drop-down menu directly above the .esp plugins and pressing “Play”. Beneath the Play button there is a way to add a Skyrim shortcut to your desktop for added convenience.
 
 ## Troubleshooting
 
