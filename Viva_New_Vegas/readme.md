@@ -137,16 +137,6 @@ You **cannot** use a previously modded Fallout New Vegas game
 </h4>
 
 
-
-
-*   **Before** you start the game, you will need a program to cap your framerate. If you wish to play with over 60 frames you will need to set your desired max/min framerate in **New Vegas Tick Fix**. Double click on New Vegas Tick Fix in Mod Organizer 2. Click on the Ini Files tab. .You will need to set `iMaxFPS` to 160 (or higher depending on your average fps ingame).
-*   **Options:** If NVTF does not work for you with the above settings. Cap your framerate with one of the options below or another program of your preference.
-    *   **Nvidia GPU** ⇨ you could use [Nvidia Profile Inspector ](https://drive.google.com/uc?export=download&id=1Dny2QYUB5wLrHPStwg4_WzpHCUs5xN15)
-        *   (Find Fallout New Vegas in the dropdown list beside Profiles. Let the program load its settings. Scroll down and select the dropdown beside Frame Rate Limiter. You should select 60 FPS (or your Mas FPS from NVTF) then click on Apply Settings on the top right. These settings will save until you update your GPU drivers.)
-    *   **AMD GPU** ⇨ you could use [RiviaTuner](https://www.guru3d.com/files-get/rtss-rivatuner-statistics-server-download,16.html). Nvidia users may also use this program. (Instructions can be found in the main [guide](https://vivanewvegas.github.io/prerequisites.html))
-    *   **Intel GPU**⇨ you could use various options (the best of which is TBA, a WIP)
-
-
     Now open up your MO2 **Fallout ini**, find the line that starts with **SArchiveList** and replace the entire line with the one below.  
     If you do not do this you will have missing assets in your game! Make sure you save the ini after applying the changes.
 
@@ -170,6 +160,7 @@ Enjoy!
 
 
 *   If you do not see any mods when opening Mod Organizer 2, make sure MO2 is in Portable Mode. You can put it in Portable Mode by clicking the “Change Game” button in the top-left,then selecting “Portable Mode” when MO2 restarts. 
+*   If updating your install, make sure all modding applications are closed. Download the new wabbajack file. You will install the modlist as you did before but this time you will be prompted to overwrite your previous install. Click yes and the install will continue.
 *   **Important**: In MO2, you will see mods with large red **[**X**]**’**s** on them saying **“**No valid game data**”**. This is normal. (The mods were merged in order to reduce plugin count.)  
 **Do <span style="text-decoration:underline;">NOT</span> touch them **unless you know what you are doing, otherwise **the modlist WILL break!**
 *   Mod Configuration Menu settings can currently be found on the main guide. However, you are free to use whatever settings you prefer for gameplay. 
