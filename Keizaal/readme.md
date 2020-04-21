@@ -126,6 +126,8 @@ Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invit
 
 **Total**,  **Lively**, and **Shelb** for helping me get the Wabbajack installer operational over several long nights.
 
+**uggcaveman** for saving Keizaal that one time
+
 **Dylan James** for helping me understand what I wanted out of this modlist.
 
 **halgari and entire Wabbajack Team** for creating such a fantastic resource.
