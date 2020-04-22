@@ -106,15 +106,9 @@ You will now have to launch Skyrim by selecting “Keizaal” from the drop-down
 
 Download the [.Net Framework 4.8 Runtime](https://dotnet.microsoft.com/download/dotnet-framework/net48). Be sure to restart your computer afterward.
 
-**SSE Water for ENB fails to download.**
+**A mod fails to download.**
 
-SSE Water for ENB is hosted on Google Drive which Wabbajack occasionally has issues with automatically downloading from.
- 
-If you encounter this issue first go to your Keizaal “downloads” folder and delete any mention of “SSE Water for ENB” (hashes included). After that manually download [SSE Water for ENB](https://drive.google.com/open?id=1l6qnD4Z6Rd4Fty8so0wEi0jLWUwnHa37) and place the archive file into the Keizaal “downloads” folder and attempt to continue with the Wabbajack installation.
-
-**Another mod fails to download.**
-
-If another mod fails to download Keizaal may be down and require a recompile. Check the Wabbjack Discord and be patient as an update is made.
+If a mod fails to download Keizaal may be down and require a recompile. Check the Wabbjack Discord and be patient as an update is made.
 
 **ModOrganizer.exe throws an error when trying to launch.**
 
@@ -131,6 +125,8 @@ Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invit
 **Shade088** for all his help getting Keizaal’s graphical suite opperational
 
 **Total**,  **Lively**, and **Shelb** for helping me get the Wabbajack installer operational over several long nights.
+
+**uggcaveman** for saving Keizaal that one time
 
 **Dylan James** for helping me understand what I wanted out of this modlist.
 
