@@ -86,9 +86,11 @@ Extract everything in “WrapperVersion” to your Skyrim Special Edition direct
 
 ## Playing Keizaal
 
-Navigate to your Keizaal installation folder (default is C:\Keizaal\) and find the “Game Folder Files” folder. Open it and extract everything in it to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe). Keizaal is now ready to play!
+Navigate to your Keizaal installation folder (default is C:\Keizaal\) and open the “Game Folder Files” folder.
 
 ![](https://lh5.googleusercontent.com/AcN_DN0Xr133rwF-ntqbHbcv6e7GVs0ChBY7as__v_EkTaoGotVkR6E_JCDzO0m-QHmpjGqT7WG74cikRaYKOb2Ojr_O8aZ4I-A6He-CxjWkQ-tUB7G8a3uMRPj7lJQ0934U-_q5)
+
+Extract everything in it to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe). Keizaal is ready to play!
 
 Now that Keizaal has been installed you will need to launch Skyrim in a slightly different way.
 
