@@ -142,11 +142,10 @@ You **cannot** use a previously modded Fallout New Vegas game
 
 
 ```
-        SArchiveList=Fallout - Invalidation.bsa, Fallout - Textures.bsa, Fallout - Textures2.bsa, Fallout 
-        - Meshes.bsa, Fallout - Meshes2.bsa, Fallout - Voices1.bsa, Fallout - Sound.bsa, Fallout - Misc.bsa
+        SArchiveList=Fallout - Invalidation.bsa, Fallout - Textures.bsa, Fallout - Textures2.bsa, Fallout - Meshes.bsa, Fallout - Meshes2.bsa, Fallout - Voices1.bsa, Fallout - Sound.bsa, Fallout - Misc.bsa
 ```
 
-Note: Some users have reported that this step needs to be done twice for it to save properly. If you load the game and see red triangles with exclamation marks, please apply this line to your ini file again.  
+**Note**: Make sure this setting is on a single line in your fallout ini. Some users have reported that this step needs to be done twice for it to save properly. If you load the game and see red triangles with exclamation marks, please apply this line to your ini file again.  
 
 
 Note: If you have a GOG copy of the game, there may be a FalloutNV_lang.esp in the right pane. If so, navigate to the Data folder and delete it.  
