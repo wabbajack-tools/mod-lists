@@ -86,7 +86,11 @@ Extract everything in “WrapperVersion” to your Skyrim Special Edition direct
 
 ## Playing Keizaal
 
-Navigate to your Keizaal installation folder (default is C:\Keizaal\) and find the “Game Folder Files” folder. Open it and extract everything in it to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe). Keizaal is now ready to play!
+Navigate to your Keizaal installation folder (default is C:\Keizaal\) and open the “Game Folder Files” folder.
+
+![](https://lh5.googleusercontent.com/AcN_DN0Xr133rwF-ntqbHbcv6e7GVs0ChBY7as__v_EkTaoGotVkR6E_JCDzO0m-QHmpjGqT7WG74cikRaYKOb2Ojr_O8aZ4I-A6He-CxjWkQ-tUB7G8a3uMRPj7lJQ0934U-_q5)
+
+Extract everything in it to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe). Keizaal is ready to play!
 
 Now that Keizaal has been installed you will need to launch Skyrim in a slightly different way.
 
@@ -94,9 +98,9 @@ Navigate back to your Keizaal installation folder and run ModOrganizer.exe.
 
 You should now be on a screen that displays all of your installed mods on the left and all of your .esp files on the right.
 
-![](https://lh5.googleusercontent.com/YiMtbtFchI4dQhTfZu8btgagdViOzy9hphagcdyYhEYKuuKerSlJWvgTQR14jOJleywiBGHvY3kQPNwgaAhkf61fN2I-DBYXRkbvzBCnJ_jUCuufuvRFmRtSmqJv81Iv2A)
+![](https://lh4.googleusercontent.com/_bSzqh7vA4QHZ3m7cnCj2s0-hW-LqXU8vLryDidqN0DDNa4MhOV7HupaDjEEBdIztDf0qg9FHeotUEqIjdhrQg2xddNM33TMQIIvwX0yzSQCphBtwdGT7vRzfb-Wv2j64CPY_K02)
 
-You will now have to launch Skyrim by selecting “SKSE” from the drop-down menu directly above the .esp plugins and pressing “Play”. Beneath the Play button there is a way to add a Skyrim shortcut to your desktop for added convenience.
+You will now have to launch Skyrim by selecting “Keizaal” from the drop-down menu directly above the .esp plugins and pressing “Play”. Beneath the Play button there is a way to add a Skyrim shortcut to your desktop for added convenience.
 
 ## Troubleshooting
 
@@ -106,7 +110,7 @@ Download the [.Net Framework 4.8 Runtime](https://dotnet.microsoft.com/download/
 
 **A mod fails to download.**
 
-One of the mods on Keizaal has probably been updated. Check the Wabbjack Discord and be patient as an update is made.
+If a mod fails to download Keizaal may be down and require a recompile. Check the Wabbjack Discord and be patient as an update is made.
 
 **ModOrganizer.exe throws an error when trying to launch.**
 
@@ -123,6 +127,8 @@ Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invit
 **Shade088** for all his help getting Keizaal’s graphical suite opperational
 
 **Total**,  **Lively**, and **Shelb** for helping me get the Wabbajack installer operational over several long nights.
+
+**uggcaveman** for saving Keizaal that one time
 
 **Dylan James** for helping me understand what I wanted out of this modlist.
 

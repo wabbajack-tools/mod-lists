@@ -1,5 +1,7 @@
 # Relics of Hyrule - GAT Edition
 
+![rge](rge.png)
+
 The goal of this modlist is to be something fun and different rather than
 your 100th enai-survival-rim playthrough.
 Please check your immershun at the door and embrace that c0da makes it canon!
@@ -69,6 +71,19 @@ Have fun!
 
 [Information on customizing the mod list](https://github.com/wabbajack-tools/mod-lists/blob/master/rge/customization.md)
 
+## FAQ
+
+- ITSPS_Full failed to download
+  - Download [Insanity's Texture Pack](http://tesalliance.org/forums/index.php?/files/file/1098-insanitys-texture-pack-skyrim/) manually here and place it in the downloads folder then restart the installation process.
+- I play on 21:9 resolution but the UI looks weird?
+  - Search `21x9` in MO2 then enable all of them.
+- I'm on a controller and the controls are weird?
+  - Disable `Better Container Controls`
+  - Reference [The Ultimate Control Scheme](https://www.nexusmods.com/skyrimspecialedition/mods/29381) for controller layout.
+  - Due to TUDM only supporting 4way dodging on gamepad we use [antimicro](https://sourceforge.net/projects/antimicro.mirror/) to enable 8way dodging.  Download it and [setup your left stick to output WASD](https://i.imgur.com/hSgdwQc.png).
+  - The POV switch has been removed to free up right-stick-click for the lock-on mod.  Either use the 3CPO MCM to force third person always or setup a button for it in the main skyrim control menu.
+  - Alternatively... disable the `RGE - Controlmap` mod and reset your controls in the main skyrim controls menu then configure everything as you like from scratch.
+  
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
@@ -77,6 +92,7 @@ Have fun!
 - Total - Being a really helpful guy.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
 - Frenchy - Thanks for the great work on the Linkle preset!
+- Forgotten God and Frenchy - Thanks for the great work on the logo and main menu replacer!!
 
 ## Contact
 
