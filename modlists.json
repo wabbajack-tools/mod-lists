@@ -1,155 +1,226 @@
 [
-  {
-    "title": "Unofficial Bevilex",
-    "description": "The goal of this autoinstaller is to provide a stable, comprehensive graphics overhaul for Oblivion through an automated installation of Bevilex’s excellent graphics guide. The results bring Oblivion close to modern visuals - complete with HD textures, revamped UIs, ENB, shader packages and much more.",
-    "version": "1.5.1",
-    "author": "Sam",
-    "game": "oblivion",
-    "tags": [
-      "Unofficial"
-    ],
+    {
+    "title": "Boston Cream Pie",
+    "description": "War. War never changes. A Fallout 4 modlist based on Vanilla Sprinkles, to give you the ultimate Lore-Friendly (ish) experience. ",
+    "version": "0.0.5",
+    "author": "LaughingHyena",
+    "game": "fallout4",
+    "tags": ["Official"],
     "links": {
-      "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/bevilex/image.png",
-      "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/bevilex/readme.md",
-      "download": "https://drive.google.com/file/d/1itKvNVTZu0cxE4Q_4G8BhAWFXIdnbdx4/",
-      "machineURL": "bevilex"
+      "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/boston_cream_pie/bcp_beta.png",
+      "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/boston_cream_pie/readme.md",
+      "download": "https://drive.google.com/uc?export=download&id=1Z5kk4AXztml010jBWUYP5X_egTzK4f-_",
+      "machineURL": "boston_cream_pie"
+    },
+    "download_metadata": {
+        "Hash": "GD8B3gTUhEQ=",
+        "Size": 1063425,
+        "NumberOfArchives": 162,
+        "SizeOfArchives": 23218182241,
+        "NumberOfInstalledFiles": 9464,
+        "SizeOfInstalledFiles": 29197668441
     }
   },
   {
-    "title": "Ultimate VR Hybrid",
-    "description": "The Ultimate VR Hybrid List is an all-in-one heavily modded VR Modlist designed for mid-to-high end VR capable PCs while being highly compatible with all current generation VR HMDs. It's the Frankenstein lovechild of The Lightweight Lazy List, SIRVAGG, The AerowynX Graphics and Sound Guide, with flavors of Lexy's LOTD, and some special sauce by by yours truly. ",
-    "version": "1.3.3",
-    "author": "Timboman",
-    "game": "skyrimvr",
-    "tags": [
-      "Official",
-      "VR"
-    ],
+    "title": "Elder Souls",
+    "description": "Elder Souls is an attempt to bring some Soulsborne flavor to Skyrim. You should expect challenging but fair combat, an awesome dark fantasy vibe and a plethora of new content. Among this new content you will find a variety of new hand placed monster types, atleast four player houses per hold and many new dungeons and quests. Leveling and death are modelled after the Dark Souls system but utilizing gold rather than souls. Sleep to raise skills and level up.",
+    "version": "1.0.1",
+    "author": "jdsmith2816",
+    "game": "skyrimspecialedition",
+    "tags": ["Official"],
     "links": {
-      "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/ultimate_vr_hybrid_list/VRHybridBanner.png",
-      "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/ultimate_vr_hybrid_list/readme.md",
-      "download": "https://drive.google.com/uc?export=download&id=1bc53jr9tzXvu8DEfPwKX1V5xZUdVRxLh",
-      "machineURL": "ultimate_vr_hybrid"
+      "image": "https://raw.githubusercontent.com/jdsmith2816/eldersouls/master/extra/elder-souls.png",
+      "readme": "https://raw.githubusercontent.com/jdsmith2816/eldersouls/master/README.md",
+      "download": "https://wabbajackpush.b-cdn.net/Elder%20Souls%20v1.0.2-248afef5-3f39-4da6-880d-2f1a0a62be8a.wabbajack",
+      "machineURL": "eldersouls"
     },
     "download_metadata": {
-      "Hash": "FpiexiuyFZw=",
-      "Size": 56613410,
-      "NumberOfArchives": 492,
-      "SizeOfArchives": 65271537741,
-      "NumberOfInstalledFiles": 178469,
-      "SizeOfInstalledFiles": 119823262725
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "eqEBa/jqdm0=",
+      "Size": 1160415606,
+      "NumberOfArchives": 1049,
+      "SizeOfArchives": 90006738844,
+      "NumberOfInstalledFiles": 187813,
+      "SizeOfInstalledFiles": 127172618229
+    }
+  },
+  {
+    "title": "Relics of Hyrule - GAT Edition",
+    "description": "The goal of this modlist is to be something fun and different rather than your 100th enai-survival-rim playthrough. This modlist primarily revolves around Relics of Hyrule and Grand Admiral Thrawn with new monsters coming from a heavily modified version of Rogue-Like Encounters.",
+    "version": "2.0.7",
+    "author": "jdsmith2816",
+    "game": "skyrimspecialedition",
+    "tags": ["Official"],
+    "links": {
+      "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/rge/rge.png",
+      "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/rge/readme.md",
+      "download": "https://wabbajackpush.b-cdn.net/Relics%20of%20Hyrule%20-%20GAT%20Edition%20v2.0.7-78156a32-2cd6-40d9-9548-231b364b47d9.wabbajack",
+      "machineURL": "rge"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "l56Q0VFqb5M=",
+      "Size": 733335770,
+      "NumberOfArchives": 904,
+      "SizeOfArchives": 86867091000,
+      "NumberOfInstalledFiles": 160897,
+      "SizeOfInstalledFiles": 120259864389
+    }
+  },
+  {
+    "title": "Unofficial Bevilex",
+    "description": "Unofficial Bevilex provides a stable, comprehensive graphics overhaul for Oblivion through an automated installation of Bevilex’s excellent graphics guide. The results bring Oblivion close to modern visuals - complete with HD textures, revamped UIs, ENB, shader packages and much more.",
+    "version": "1.5.5",
+    "author": "Sam",
+    "game": "oblivion",
+    "tags": ["Unofficial"],
+    "links": {
+      "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/bevilex/image.png",
+      "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/bevilex/readme.md",
+      "download": "https://wabbajackpush.b-cdn.net/Bevilex_1_5_5-2bea5730-e001-404b-b21d-b9e160f7917a.wabbajack",
+      "machineURL": "bevilex"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "GG70cxEn8dk=",
+      "Size": 115637467,
+      "NumberOfArchives": 237,
+      "SizeOfArchives": 17760322492,
+      "NumberOfInstalledFiles": 42677,
+      "SizeOfInstalledFiles": 32113443452
+    }
+  },
+  {
+    "title": "Ultimate VR Essentials",
+    "description": "The Ultimate VR Essentials List is designed to give users a better looking, better controlling, and better playing Skyrim VR Experience that can be used as is or customized to their taste.",
+    "version": "1.3.1",
+    "author": "Timboman",
+    "game": "skyrimvr",
+    "tags": ["Official", "VR"],
+    "links": {
+      "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/ultimate_vr_essentials_list/VREssentialsBanner.png",
+      "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/ultimate_vr_essentials_list/readme.md",
+      "download": "https://wabbajackpush.b-cdn.net/The%20Ultimate%20VR%20Essentials%20List%20-%20Alpha%201.3.1a-7569cb44-bb91-47ea-9138-1a04495d7a8f.wabbajack",
+      "machineURL": "ultimate_vr_essentials"
+    },
+    "download_metadata": {
+        "Hash": "/1FYPrbhWt4=",
+        "Size": 544723419,
+        "NumberOfArchives": 483,
+        "SizeOfArchives": 57252190717,
+        "NumberOfInstalledFiles": 137341,
+        "SizeOfInstalledFiles": 85360989133
     }
   },
   {
     "title": "FO4 Enhanced Edition",
     "description": "A hardcore list made to both expand and deepen the Commonwealth, built around the Horizon Gameplay Overhaul. Every encounter is deadly, and ammo is scarce, can you survive the Wasteland?",
-    "version": "1.1.3",
+    "version": "1.2a",
     "author": "AUGSpeed",
     "game": "fallout4",
-    "tags": [
-      "Official"
-    ],
+    "tags": ["Official"],
     "links": {
       "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/Fallout-4-Enhanced-Edition/F4EE.png",
       "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/Fallout-4-Enhanced-Edition/readme.md",
       "download": "https://drive.google.com/uc?export=download&id=1EMs0cppdGxR_8lHW0tasspRglT5btT91",
       "machineURL": "fallout_4_enhanced_edition"
+    },
+    "download_metadata": {
+      "Hash": "tTAHfT8QKVo=",
+      "Size": 82519874,
+      "NumberOfArchives": 241,
+      "SizeOfArchives": 32322462531,
+      "NumberOfInstalledFiles": 26796,
+      "SizeOfInstalledFiles": 52722745222
     }
   },
   {
     "title": "Ultimate Skyrim",
-    "description": "Ultimate Skyrim is a total conversion modlist for The Elder Scrolls V: Skyrim, built around the Requiem Roleplaying Overhaul, and created by Belmont_Boy. It transforms Skyrim into an immersive and unforgiving landscape, where only the strong and the clever survive.",
-    "version": "1.2",
+    "description": "Ultimate Skyrim is a total conversion modlist for The Elder Scrolls V: Skyrim Legendary Edition, built around the Requiem Roleplaying Overhaul, and created by Belmont_Boy. It transforms Skyrim into an immersive and unforgiving landscape, where only the strong and the clever survive.",
+    "version": "1.2.9",
     "author": "LadyZeefa",
     "game": "skyrim",
-    "tags": [
-      "Unofficial"
-    ],
+    "tags": ["Unofficial"],
     "links": {
       "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/Ultimate_Skyrim/US_image.png",
       "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/Ultimate_Skyrim/readme.md",
-      "download": "https://drive.google.com/uc?export=download&id=1xQxeFs7xQu_SiGfGm_DU6jQvCvNEkNqR",
+      "download": "https://wabbajackpush.b-cdn.net/US 4.0.6hf2 Keyboard V1.2.9-60351534-8c03-4205-add5-c32af224ee41.wabbajack",
       "machineURL": "ultimate_skyrim"
     },
     "download_metadata": {
-      "Hash": "QC9IuNeVV6g=",
-      "Size": 42965883,
-      "NumberOfArchives": 289,
-      "SizeOfArchives": 14067147264,
-      "NumberOfInstalledFiles": 37846,
-      "SizeOfInstalledFiles": 28229332886
+      "Hash": "BzHHO7Ooq1c=",
+      "Size": 805223654,
+      "NumberOfArchives": 281,
+      "SizeOfArchives": 12847635001,
+      "NumberOfInstalledFiles": 35651,
+      "SizeOfInstalledFiles": 28070498496
     }
   },
   {
     "title": "Banana Split",
     "description": "An expanded yet casual Fallout 4 experience featuring additional quests and expansions, a multitude of new weapons and armor, and a variety of challenges for you to overcome.",
-    "version": "2.1",
+    "version": "3.0.4",
     "author": "Lively",
     "game": "fallout4",
-    "tags": [
-      "Official"
-    ],
+    "tags": ["Official"],
+    "nsfw": false,
     "links": {
       "image": "https://camo.githubusercontent.com/87918e9d8c4a7c3ca558b889521a4a7df66ccec4/68747470733a2f2f692e696d6775722e636f6d2f4132664e3071382e6a7067",
       "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/banana_split/readme.md",
-      "download": "https://drive.google.com/uc?export=download&id=1Y3YO3vsdn1vuhF6bBFM2xiZmvngXBQh-",
+      "download": "https://wabbajackpush.b-cdn.net/Banana%20Split%20v3.0.4-d8c9c2cb-e575-4537-a898-4a4ae2c116c3.wabbajack",
       "machineURL": "banana_split"
     },
     "download_metadata": {
-      "Hash": "Emf+MC0duFg=",
-      "Size": 85281351,
-      "NumberOfArchives": 334,
-      "SizeOfArchives": 48042562997,
-      "NumberOfInstalledFiles": 51518,
-      "SizeOfInstalledFiles": 65384527276
-    }
-  },
-  {
-    "title": "N.O.I.S.E.",
-    "description": "Nice Overall Improvement SE is a light Modlist designed to be built upon by users, with enhanced graphics, mechanics, and immersion, while staying true to the original vision of Skyrim mechanics.",
-    "version": "1.0",
-    "author": "shelbsteronyx",
-    "game": "skyrimspecialedition",
-    "tags": [
-      "Official"
-    ],
-    "links": {
-      "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/noise/noise.png",
-      "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/noise/readme.md",
-      "download": "https://drive.google.com/uc?export=download&id=1DXqXcvi7ApZ3xDoBw2KtoGVWBqe8UqOL",
-      "machineURL": "noise"
-    },
-    "download_metadata": {
-      "Hash": "vrFjNIOLSU4=",
-      "Size": 105249384,
-      "NumberOfArchives": 285,
-      "SizeOfArchives": 38807709833,
-      "NumberOfInstalledFiles": 24187,
-      "SizeOfInstalledFiles": 59206783923
+      "Hash": "lG4mOaBmyYE=",
+      "Size": 113114027,
+      "NumberOfArchives": 350,
+      "SizeOfArchives": 32723178131,
+      "NumberOfInstalledFiles": 22989,
+      "SizeOfInstalledFiles": 46232251017
     }
   },
   {
     "title": "Vanilla Sprinkles",
-    "description": "A basic mod list to give a basic overhaul of Fallout 4 with HQ textures and basic quality of life fixes.",
-    "version": "1.1.1",
+    "description": "A basic mod list to give you a head start modding Fallout 4, with HQ textures and some quality of life improvements.",
+    "version": "2.0",
     "author": "LaughingHyena",
     "game": "fallout4",
-    "tags": [
-      "Official"
-    ],
+    "tags": ["Official"],
     "links": {
       "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/Vanilla-Sprinkles/Vanilla%20Sprinkles.png",
       "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/Vanilla-Sprinkles/readme.md",
-      "download": "https://drive.google.com/uc?export=download&id=1lOwZG6B-iQazcAxWOeOVN-Wq-KJBKCpF",
+      "download": "https://drive.google.com/uc?export=download&id=1ffCXU5ijhlvfVSG4n4tBeVpi1cm4kF6W",
       "machineURL": "vanilla_sprinkles"
     },
     "download_metadata": {
-      "Hash": "syvAmTwOMjM=",
-      "Size": 456683,
-      "NumberOfArchives": 103,
-      "SizeOfArchives": 38340143906,
-      "NumberOfInstalledFiles": 7905,
-      "SizeOfInstalledFiles": 45425318295
+      "Hash": "1LaTffT6f/A=",
+      "Size": 825282,
+      "NumberOfArchives": 85,
+      "SizeOfArchives": 15341035231,
+      "NumberOfInstalledFiles": 5569,
+      "SizeOfInstalledFiles": 20175874391
+    }
+  },
+  {
+    "title": "Total Skyrim Overhaul",
+    "description": "TSO is a modlist based on Requiem 1.9.4 and AZ Tweaks with a significant number of custom edits, additional items, and enhanced graphics. It's hard so get prepared to die, a lot. Now deadlier than ever! Version 2.9.0",
+    "version": "2.9.0",
+    "author": "Total",
+    "game": "skyrimspecialedition",
+    "tags": ["Official"],
+    "links": {
+      "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/total-skyrim-overhaul/TSO%20UI%20Image%202.jpg",
+      "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/total-skyrim-overhaul/readme.md",
+      "download": "https://wabbajackpush.b-cdn.net/Total%20Skyrim%20Overhaul%20v2.9.0-ee137872-9de7-4ea7-bc27-908271bf5869.wabbajack",
+      "machineURL": "tso"
+    },
+    "download_metadata": {
+      "Hash": "w7KtgUDKZXk=",
+      "Size": 1379141907,
+      "NumberOfArchives": 631,
+      "SizeOfArchives": 68152847628,
+      "NumberOfInstalledFiles": 103636,
+      "SizeOfInstalledFiles": 107769468949
     }
   },
   {
@@ -158,12 +229,10 @@
     "version": "2.0",
     "author": "SirLach and the Sim Settlements Community",
     "game": "fallout4",
-    "tags": [
-      "Official"
-    ],
+    "tags": ["Official"],
     "links": {
-      "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/ssem/simsettlementsexperience.png",
-      "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/ssem/readme.md",
+      "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/SSEM/SimSettlementsExperience.png",
+      "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/SSEM/readme.md",
       "download": "https://drive.google.com/open?id=1QIXZjhXJ8RdySw-W7fjsR4ekwjhSxq0p",
       "machineURL": "ssem"
     },
@@ -174,6 +243,141 @@
       "SizeOfArchives": 5586034838,
       "NumberOfInstalledFiles": 3263,
       "SizeOfInstalledFiles": 4834987457
+    }
+  },
+  {
+    "title": "Keizaal",
+    "description": "Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision. It also aims to maintain a level of consistency between the base game and Beyond Skyrim projects in order to make Tamriel feel like one cohesive whole.",
+    "version": "2.5.10",
+    "author": "Pierre Despereaux",
+    "game": "skyrimspecialedition",
+    "tags": ["Official"],
+    "links": {
+      "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/Keizaal/splash_image.png",
+      "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/Keizaal/readme.md",
+      "download": "https://wabbajackpush.b-cdn.net/Keizaal-53d613c4-3014-4f75-abd8-51675d012b4a.wabbajack",
+      "machineURL": "keizaal"
+    },
+    "download_metadata": {
+      "Hash": "f+R96rArM3k=",
+      "Size": 372312822,
+      "NumberOfArchives": 397,
+      "SizeOfArchives": 50899142590,
+      "NumberOfInstalledFiles": 70784,
+      "SizeOfInstalledFiles": 79875841217
+    }
+  },
+  {
+    "title": "The Phoenix Flavour",
+    "description": "Focusing on enhancing gameplay mechanics rather than outright replacing them, Phoenix and her team have spent years putting together a stunning and stable list that can serve as a base for your additional mods or as a complete experience unto itself.",
+    "version": "3.1.6",
+    "author": "Phoenix & Umgak",
+    "game": "skyrimspecialedition",
+    "tags": ["Unofficial"],
+    "nsfw": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/phoenix-flavour/TPFSplash.png",
+      "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/phoenix-flavour/readme.md",
+      "download": "https://wabbajackpush.b-cdn.net/The%20Phoenix%20Flavour-cd64b7be-c09d-406a-8d00-122f5cabb90b.wabbajack",
+      "machineURL": "tpf"
+    },
+    "download_metadata": {
+      "Hash": "CqJPgixnFk4=",
+      "Size": 99963960,
+      "NumberOfArchives": 603,
+      "SizeOfArchives": 48597242255,
+      "NumberOfInstalledFiles": 35123,
+      "SizeOfInstalledFiles": 67813929945
+    }
+  },
+  {
+    "title": "Living Skyrim",
+    "description": "Living Skyrim is a full-featured overhaul of Skyrim SE with the intent to breathe life into the often empty areas of the world. NPCs, quests, new worldspaces, and interactive content are the focus of the modlist. All of this on top of a beautiful graphics package intended for higher-end PCs.",
+    "version": "1.6.9",
+    "author": "ForgottenGlory",
+    "game": "skyrimspecialedition",
+    "tags": ["Official"],
+    "nsfw": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/living_skyrim/Living_Skyrim_Logo.png",
+      "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/living_skyrim/readme.md",
+      "download": "https://wabbajackpush.b-cdn.net/Living%20Skyrim%20v1.6.9-a4b17fd9-6828-44e8-8533-41444dab2dbb.wabbajack",
+      "machineURL": "living_skyrim"
+    },
+    "download_metadata": {
+      "Hash": "WcvClchE1X0=",
+      "Size": 282440978,
+      "NumberOfArchives": 495,
+      "SizeOfArchives": 42602927281,
+      "NumberOfInstalledFiles": 162117,
+      "SizeOfInstalledFiles": 85564656175
+    }
+  },
+  {
+    "title": "Viva New Vegas",
+    "description": "An unofficial modlist that is slightly modified from the original vanilla+ viva new vegas guide created by Qolore7.",
+    "version": "1.1.5",
+    "author": "LadyZeefa",
+    "game": "falloutnewvegas",
+    "tags": ["Unofficial"],
+    "links": {
+      "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/Viva_New_Vegas/VNV.png",
+      "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/Viva_New_Vegas/readme.md",
+      "download": "https://wabbajackpush.b-cdn.net/VNV%201.1.5-f622a04e-70f5-42bd-ac2f-60ec769da3ed.wabbajack",
+      "machineURL": "vnv"
+    },
+    "download_metadata": {
+      "Hash": "Q947++2wIeA=",
+      "Size": 22435934,
+      "NumberOfArchives": 227,
+      "SizeOfArchives": 6645739471,
+      "NumberOfInstalledFiles": 51662,
+      "SizeOfInstalledFiles": 14803415345
+    }
+  },
+  {
+    "title": "NOIR",
+    "description": "NOIR is a modlist for playing Requiem 3.4. With enhanced graphics, mechanics, and immersion, the general idea is to maintain Requiem mechanics as much as possible staying true to the original vision of Requiem; kind of Requiem+.",
+    "version": "1.3.5",
+    "author": "johanlh, based on the work of DoubleDog and Helidoc65",
+    "game": "skyrimspecialedition",
+    "tags": ["Official"],
+    "links": {
+      "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/noir/SplashNOIR.png",
+      "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/noir/README.md",
+      "download": "https://drive.google.com/open?id=14c9Htst46adlOueZoBQ-V923hfrjqQij",
+      "machineURL": "noir"
+    },
+    "download_metadata": {
+      "Hash": "4hO2CBL7scg=",
+      "Size": 248217498,
+      "NumberOfArchives": 467,
+      "SizeOfArchives": 47959439716,
+      "NumberOfInstalledFiles": 75063,
+      "SizeOfInstalledFiles": 65433943035
+    }
+  },
+  {
+    "title": "MOISE",
+    "description": "Morrowind Overall Improvement Suite Enhanced (MOISE) is a basic, primarily graphical overhaul for Morrowind GOTY edition. It includes all of the necessities required to begin a Morrowind modding adventure.",
+    "version": "1.0.0",
+    "author": "ForgottenGlory",
+    "game": "morrowind",
+    "tags": ["Official"],
+    "nsfw": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/moise/MOISE%20Logo.png",
+      "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/moise/MOISE%20Readme.md",
+      "download": "https://wabbajackpush.b-cdn.net/MOISE-243fe59e-6e56-42ab-b908-6c5a95d81e0b.wabbajack",
+      "machineURL": "moise"
+    },
+    "download_metadata": {
+      "Hash": "M2DHVyI0Phg=",
+      "Size": 207164177,
+      "NumberOfArchives": 183,
+      "SizeOfArchives": 4698337774,
+      "NumberOfInstalledFiles": 15511,
+      "SizeOfInstalledFiles": 9514655087
     }
   }
 ]

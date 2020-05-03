@@ -36,11 +36,11 @@ After it finishes, go to your install folder, and open up the `Game Folder Files
 
 ### Step 2:
 
-Download the latest ENB files from [here](http://enbdev.com/download_mod_fallout4.htm). In the archive you download, go into the folder `Wrapper Version` and copy only `d3d11.dll` and `d3dcompiler_46e.dll` to your Fallout 4 directory.
+Download the latest ENB binaries from [the ENB website](http://enbdev.com/download_mod_fallout4.htm). Open the archive you downloaded, and go into the `WrapperVersion` folder. Extract ONLY the two files `d3d11.dll` and `d3dcompiler_46e.dll` into your Fallout 4 Directory.
 
 ### Step 3:
 
-Go back to your install folder. In a folder named `WorkBase`, create 2 folders called `OriginalBa2` and `PatchedBa2`.
+Go back to your install folder. In a folder named `WorkBase`, create a folder called `OriginalBa2`.
 
 ### Step 4:
 
@@ -74,7 +74,7 @@ Launch MO2 from the exe found in your install folder. When it launches, be sure 
 
 ### Step 7:
 
-In MO2, select `FO4Config`, and hit the `Run` button. When opened, direct it to your `Fallout4.exe` location. After this is done, follow these pictures and instructions --->  [Click Here](https://imgur.com/a/0On3H1o). Just make sure to copy those images, and you will be good. After that is done, be sure to click `Save` and close the program.
+In the top right of MO2, select use the drop down menu to select `FO4Config`, and hit the `Run` button to the right of that. When opened, direct it to your `Fallout4.exe` location. After this is done, follow these pictures and instructions --->  [Click Here](https://imgur.com/a/0On3H1o). Just make sure to copy those images, and you will be good. After that is done, be sure to click `Save` and close the program.
 
 ### Step 8:
 
