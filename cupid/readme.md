@@ -51,8 +51,6 @@
 - [Uninstalling](#uninstalling)
 - [Contact](#contact)
 
-![cupid-logo](cupid.png)
-
 **This modlist contains sexual content and you need to be of legal age in your country**.
 
 ## What To Expect
