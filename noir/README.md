@@ -105,11 +105,10 @@ The Program Files folder is not recommended and could cause issues.
 Create a new directory in the root directory of the hard drive where you want everything to be installed. Do not create a directory within your Skyrim folder. For this guide, we will create an example directory in C:\ called NOIR. You can create this folder on any drive.
 
 - Open Wabbajack.
-- Select "Install From Disk"
-- Select the NOIR modlist on the field "Target Modlist" in the Wabbajack UI.
+- Select "NOIR" from the list of available modlists on the Wabbajack UI.
+- Click "Download and Install."
 - Select the Installation Location as the folder you created in the root directory of your hard drive. If you are creating these on your C:\ drive, please type in C:\NOIR in Installation Location and C:\NOIR\Downloads in the Download Location if you are using only this modlist. If you have other WJ's modlist installed, you can use the same Download folder and the installer will download only the missing files required for NOIR.
 - After you have completed these steps, click Begin.
-
 
 **DO NOT SET THE PATHS TO YOUR SKYRIM GAME FOLDER.**
 
