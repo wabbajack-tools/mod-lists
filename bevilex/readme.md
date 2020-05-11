@@ -1,4 +1,4 @@
-### Documentation and Instructions for Installer Version 1.5.5, Wabbajack 2.0+
+### Documentation and Instructions for Installer Version 1.5.6, Wabbajack 2.0.4.4+
 
 **NOTE**: As with all Wabbajack installers, a Nexus premium account is required in order to use the premium API for downloads. Additionally, since this is an unofficial attempt to automate the Bevilex guide, PLEASE only direct support queries to the unofficial bevilex modlist development channel in the [Wabbajack discord](https://discord.gg/WnyMdj). To view the channel, go to **#welcome** and follow the instructions, selecting Oblivion as a game choice.
 
@@ -203,7 +203,7 @@ _BSA Decompressor recreates BSA archives without zlib compression so the game is
 3. _I can’t run the Oblivion executable from MO2 - I get an application error._
     * If you bought the game through Steam, it needs to be running in the background for you to play the game. Boot up Steam and give it another try.
 4. _When I run Oblivion, a new window opens and I can hear the main menu audio, but all I get is a blank/black screen._
-   * MO2 is failing to load the OBSE libraries when running Oblivion leading to issues with the mods installed. To correct, click the executable dropdown in MO2, select <Edit>, and then check the Oblivion.exe entry. Ensure that Force Load Libraries is ticked, and click Configure Libraries. Ensure that Oblivion.exe is set to load the library obse_1_2_416.dll in your Oblivion game directory.
+   * MO2 is failing to load the OBSE libraries when running Oblivion leading to issues with the mods installed. To correct, click the executable dropdown in MO2, select Edit, and then check the Oblivion.exe entry. Ensure that Force Load Libraries is ticked, and click Configure Libraries. Ensure that Oblivion.exe is set to load the library obse_1_2_416.dll in your Oblivion game directory.
 5. _Following the above instructions, there is no obse_1_2_416.dll._
    * Make sure you have copied the contents of Game Folder Files to your Oblivion game directory. The OBSE files should be present in this folder. 
 6. _My visuals are strange - both ENB and Oblivion Reloaded do not appear to be working._ OR shadows on objects do not seem to match their surroundings.
