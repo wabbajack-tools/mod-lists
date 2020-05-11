@@ -164,7 +164,7 @@ If you would rather build on this profile yourself, included below are some gene
     * **Tweak Settings -> Crime: Alarm Distance at 2000** to reduce guard crime intuition range (right click to change)
     * **Tweak Settings -> Greeting Distance at 100** for less NPC chatter (right click to change)
     * **Tweak Settings -> Warning: Exterior Distance to Hostiles at 2000** for reduced combat distance outdoors (right click to change)
-Then hit **Build Patch**. This will take a few minutes, and produce a popup log when complete. Close Wrye Bash.
+    Then hit **Build Patch**. This will take a few minutes, and produce a popup log when complete. Close Wrye Bash.
 9. Back in MO2, right click the **Overwrite** panel at the bottom of the mods pane and select **Create mod**. Call it **Bashed Patch**, and ensure it is enabled after installation.
 10. Done! Run the game as usual by selecting and running Oblivion from the dropdown menu.
 
