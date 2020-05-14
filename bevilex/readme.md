@@ -1,4 +1,4 @@
-### Documentation and Instructions for Installer Version 1.5.5, Wabbajack 2.0+
+### Documentation and Instructions for Installer Version 1.5.6, Wabbajack 2.0.4.4+
 
 **NOTE**: As with all Wabbajack installers, a Nexus premium account is required in order to use the premium API for downloads. Additionally, since this is an unofficial attempt to automate the Bevilex guide, PLEASE only direct support queries to the unofficial bevilex modlist development channel in the [Wabbajack discord](https://discord.gg/WnyMdj). To view the channel, go to **#welcome** and follow the instructions, selecting Oblivion as a game choice.
 
@@ -157,9 +157,16 @@ If you would rather build on this profile yourself, included below are some gene
 5. Ensure that there are **no files in your MO2/overwrite folder** (move any OBSE logs that may be there to the OBSE Logs mod).
 6. Select **Wrye Bash** from the in MO2 and hit **Run**. If prompted for a game choice, select **Oblivion**. 
 7. Within the Wrye Bash interface, right click the plugin right at the bottom (**Bashed Patch 0.esp**) and click **Rebuild Patch**. 
-8. In the following interface, make sure that **Tweak Assorted -> DarNify Books** and **Tweak Settings -> Arrow Speed is x2.0** is ticked (if it is not, the speed can be changed by right clicking the tweak). is ticked, and then hit **Build Patch**. This will take a few minutes, and produce a popup log when complete. Close Wrye Bash.
-9. Back in MO2, right click the **Overwrite** panel at the bottom of the mods pane and select **Create mod**. Call it **Bashed Patch**, and ensure it is enabled after installation.
-10. Done! Run the game as usual by selecting and running Oblivion from the dropdown menu.
+8. In the following interface, make sure that the following options are ticked (they should have carried over from before):
+    * **Tweak Assorted -> DarNify Books** ticked so books look as intended
+    * **Tweak Settings -> Arrow Speed is x2.0** for more responsive archery (right click box to change)
+    * **Tweak Actors -> Irresponsible Creatures** ticked
+    * **Tweak Settings -> Crime: Alarm Distance at 2000** to reduce guard crime intuition range (right click to change)
+    * **Tweak Settings -> Greeting Distance at 100** for less NPC chatter (right click to change)
+    * **Tweak Settings -> Warning: Exterior Distance to Hostiles at 2000** for reduced combat distance outdoors (right click to change)
+9. Then hit **Build Patch**. This will take a few minutes, and produce a popup log when complete. Close Wrye Bash.
+10. Back in MO2, right click the **Overwrite** panel at the bottom of the mods pane and select **Create mod**. Call it **Bashed Patch**, and ensure it is enabled after installation.
+11. Done! Run the game as usual by selecting and running Oblivion from the dropdown menu.
 
 ### Setting Core Affinity to improve performance (courtesy of Aerialvas)
 
@@ -192,7 +199,7 @@ _BSA Decompressor recreates BSA archives without zlib compression so the game is
 *   By default, the Oblivion Reloaded in game menu is bound to ‘O’. Since this is annoying when creating a character,  I have rebound it to F6. Use this key and/or edit the Oblivion Reloaded INI file in the OR 7.0 PRESET mod to change settings.
 *   Due to the way MO2 loads Oblivion and OBSE, the Steam overlay and screenshot functionality cannot be used. Use F11 to take screenshots using Oblivion Reloaded.
 *   As standard, this installer activates Oblivion Reloaded's framerate feature to improve FPS by dynamically reducing draw distances. If you are getting stable/high FPS, you should see no deterioration in visual quality. If you are getting low FPS, view distances are reduced temporarily to preserve FPS, causing a 'pop-in' effect. The framerate at which the feature is activated can be edited in the OR preset (default 50FPS), as well as the extent to which view distances are reduced. Otherwise, the feature can also be completely disabled in the same location.
-*   Note that in order for several Oblivion Reloaded features to work, in-game graphical setting changes are locked. To alter the settings, set the SaveSettings option in the OR preset to 1, load the game and make any desired changes, then exit and set the SaveSettings value back to 1 again.
+*   Note that in order for several Oblivion Reloaded features to work, in-game graphical setting changes are locked. To alter the settings, set the SaveSettings option in the OR preset to 1, load the game and make any desired changes, then exit and set the SaveSettings value back to 0 again.
 
 ## Troubleshooting
 
@@ -203,7 +210,7 @@ _BSA Decompressor recreates BSA archives without zlib compression so the game is
 3. _I can’t run the Oblivion executable from MO2 - I get an application error._
     * If you bought the game through Steam, it needs to be running in the background for you to play the game. Boot up Steam and give it another try.
 4. _When I run Oblivion, a new window opens and I can hear the main menu audio, but all I get is a blank/black screen._
-   * MO2 is failing to load the OBSE libraries when running Oblivion leading to issues with the mods installed. To correct, click the executable dropdown in MO2, select <Edit>, and then check the Oblivion.exe entry. Ensure that Force Load Libraries is ticked, and click Configure Libraries. Ensure that Oblivion.exe is set to load the library obse_1_2_416.dll in your Oblivion game directory.
+   * MO2 is failing to load the OBSE libraries when running Oblivion leading to issues with the mods installed. To correct, click the executable dropdown in MO2, select Edit, and then check the Oblivion.exe entry. Ensure that Force Load Libraries is ticked, and click Configure Libraries. Ensure that Oblivion.exe is set to load the library obse_1_2_416.dll in your Oblivion game directory.
 5. _Following the above instructions, there is no obse_1_2_416.dll._
    * Make sure you have copied the contents of Game Folder Files to your Oblivion game directory. The OBSE files should be present in this folder. 
 6. _My visuals are strange - both ENB and Oblivion Reloaded do not appear to be working._ OR shadows on objects do not seem to match their surroundings.

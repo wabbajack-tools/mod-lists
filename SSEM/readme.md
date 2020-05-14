@@ -1,3 +1,6 @@
+
+![Imgur](https://i.imgur.com/SG2PfmA.png)
+
 <h1>Welcome to the Sim Settlements Experience Modlist! 
 
 <h2>This is a Modlist designed to showcase the wide variety of add-on packs available for Sim Settlements playthroughs.
