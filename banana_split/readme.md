@@ -48,7 +48,7 @@ As for the extra steps involved, it’s for the best. First, it enables users to
 *If you ever need to update your Fallout 4, back up these new ba2 files before you verify/update. Otherwise you’ll have to do it all over again.*  
 Anyway, now that we got that over with, let’s move on.
 
-1. Download the latest version of Wabbajack (v2.0.3.0 at the time of this writing).
+1. Download the latest version of Wabbajack (v2.0.5.0 at the time of this writing).
 2. Create a new folder at the root of a drive (Example: D:\Wabbajack).
 3. Place the Wabbajack.exe into this new folder.
 4. Launch Wabbajack.exe. Download the newest BananaSplit v3.0.5.wabbajack file from the Wabbajack Modlist Gallery.
@@ -85,7 +85,7 @@ Companion Command Hotkeys
 Faster Workshop Hotkey  
 ![alt text](https://i.imgur.com/QOVlpjA.png)  
 
-Vafs Focus Hotkey - Note that if you use Q like I do, you'll also have to unbind VATS from the Game Settings.  
+Vafs Focus Hotkey - Note that **if you use Q** like I do, you'll also have to unbind VATS from the Game Settings.  
 ![alt text](https://i.imgur.com/4WlhCqZ.png)  
 
 Vafs Critical Hotkey  
