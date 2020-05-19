@@ -52,7 +52,9 @@ You **cannot** use a previously modded Fallout New Vegas game
 (or else things will *probably* go wrong).
            
 *   At least >**20GB of free space **on your drive.  
-*   A **[Nexus Premium](https://www.nexusmods.com/register/premium)** account is needed for Wabbajack’s automatic downloading.  
+*   A **[Nexus Premium](https://www.nexusmods.com/register/premium)** account is needed for Wabbajack’s automatic downloading.
+*   [Microsoft VC++ 2013](http://download.microsoft.com/download/0/5/6/056dcda9-d667-4e27-8001-8a0c6971d6b1/vcredist_x86.exe)
+    *   Run the installer and follow the instructions. (If you get a message that the program is already installed, exit.
 *   [Microsoft VC++ 2015,2017.2019](https://support.microsoft.com/en-gb/help/2977003/the-latest-supported-visual-c-downloads).  
     *   Click the <code>x64:vc_redist.x64.exe</code></strong> links under the “Visual Studio 2015, 2017, and 2019” header. 
     *   Run <em>both <code>.exe</code></em> files, follow the instructions.  
@@ -132,33 +134,23 @@ You **cannot** use a previously modded Fallout New Vegas game
 
 
 <h4>
+FPSFix from New Vegas Tick Fix is an extremely important setting. Sadly this cannot be automated as everyone’s computer specifications are different. Once you set this up you will have minimal to no stutter in your game. 
+In the left pane in mo2 Double click on NVTF- New Vegas Tick Fix. Once it opens select the INI Files Tab.
+Click in NVSE\Plugins\NVTF.ini under Ini Files. Scroll down to iMaxFPSTolerance.
+This number should be set to 240. If you still have stuttering or sound issues replace this number with 300. 
+*IMPORTANT NOTE: Make sure bUseD3D9Ex is set to 0*
 
----
 </h4>
-
-
-    Now open up your MO2 **Fallout ini**, find the line that starts with **SArchiveList** and replace the entire line with the one below.  
-    If you do not do this you will have missing assets in your game! Make sure you save the ini after applying the changes.
-
-
-```
-        SArchiveList=Fallout - Invalidation.bsa, Fallout - Textures.bsa, Fallout - Textures2.bsa, Fallout - Meshes.bsa, Fallout - Meshes2.bsa, Fallout - Voices1.bsa, Fallout - Sound.bsa, Fallout - Misc.bsa
-```
-
-**Note**: Make sure this setting is on a single line in your fallout ini. Some users have reported that this step needs to be done twice for it to save properly. If you load the game and see red triangles with exclamation marks, please apply this line to your ini file again.  
 
 
 Note: If you have a GOG copy of the game, there may be a FalloutNV_lang.esp in the right pane. If so, navigate to the Data folder and delete it.  
 
-You are now ready to play *Viva New Vegas!* Use the top right drop down list, select New Vegas, and click Run to start the game.  
+You are now ready to play *Viva New Vegas!* Use the top right drop down list, select New Vegas, and click Run to start the game. Unfortunately, the launcher may once again appear, configure your settings as you did before. If you are prompted about a read-only INI, have MO2 remove that flag. 
 Enjoy!
 
 <h2>Post-Install Notes/Troubleshooting</h2>
 
 
-
-
-*   If you do not see any mods when opening Mod Organizer 2, make sure MO2 is in Portable Mode. You can put it in Portable Mode by clicking the “Change Game” button in the top-left,then selecting “Portable Mode” when MO2 restarts. 
 *   If updating your install, make sure all modding applications are closed. Download the new wabbajack file. You will install the modlist as you did before but this time you will be prompted to overwrite your previous install. Click yes and the install will continue.
 *   **Important**: In MO2, you will see mods with large red **[**X**]**’**s** on them saying **“**No valid game data**”**. This is normal. (The mods were merged in order to reduce plugin count.)  
 **Do <span style="text-decoration:underline;">NOT</span> touch them **unless you know what you are doing, otherwise **the modlist WILL break!**
@@ -168,6 +160,5 @@ Enjoy!
         *   Enable the <em>JSawyer EXP </em>preset
         *   change levels per perk
         *   change max level
-*   Note if using an ENB with this list, you will have invisible armors. To fix it: Change FixTransparencyBugs=true to FixTransparencyBugs=false in the enblocal.ini
 *   In your FalloutCustom INI, Change <strong><code>INumHWThreads</code> </strong>to the number of threads your CPU has. If you do not know how many threads your CPU has, use CPU-Z to find out. This may help with performance.
 *   <strong><code>fXenonVertLookSpeed</code></strong> and <strong><code>fXenonHorizLookSpeed</code></strong> can be removed if you do not run the game in a <strong>16:9 </strong>aspect ratio. <strong> </strong>
