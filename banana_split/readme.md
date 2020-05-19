@@ -48,11 +48,11 @@ As for the extra steps involved, it’s for the best. First, it enables users to
 *If you ever need to update your Fallout 4, back up these new ba2 files before you verify/update. Otherwise you’ll have to do it all over again.*  
 Anyway, now that we got that over with, let’s move on.
 
-1. Download the latest version of Wabbajack (v2.0.5.0 at the time of this writing).
+1. Download the latest version of Wabbajack (v2.0.5.1 at the time of this writing).
 2. Create a new folder at the root of a drive (Example: D:\Wabbajack).
 3. Place the Wabbajack.exe into this new folder.
-4. Launch Wabbajack.exe. Download the newest BananaSplit v3.0.5.wabbajack file from the Wabbajack Modlist Gallery.
-9. In “Installation Location” choose a blank folder at the root of a drive (example: D:\Banana Split). **DO NOT** install your modlist to the same folder where you put Wabbajack.exe.
+4. Launch Wabbajack.exe. Download the newest BananaSplit v3.1.wabbajack file from the Wabbajack Modlist Gallery.
+9. In “Installation Location” choose a blank folder at the root of a drive (example: D:\Banana Split). **DO NOT** install your modlist to the same folder where you put Wabbajack.exe.  **DO NOT** install into your Steam game path.
 10. The “Download Location” will update automatically. You can change it if you want.
 11. Click the "Play" arrow.
 12. Make sure to accept the Nexus API request if your browser asks for it.
