@@ -25,7 +25,7 @@ Once Skyrim is installed, make sure you run it once. (Get to the Skyrim splash s
 
 ### 1.3 Installation Instructions
 
--   Download the latest version of Wabbajack (v1.1.4.0 at the time of this writing).
+-   Download the latest version of Wabbajack (v2.0.5.1 at the time of this writing).
 
 -   Create a new folder at the root of a drive (Example: D:\Wabbajack).
 
@@ -47,13 +47,15 @@ For automatic installations:
 
 -   This location CANNOT be inside of a Windows-protected folder, such as Program Files.
 
+-   This location CANNOT be your Skyrim installation path.
+
 -   The "Download Location" will update automatically. You can change it if you wish.
 
 -   Click the "Play" arrow.
 
 -   Make sure to accept the Nexus API request if your browser asks for it.
 
--   When Wabbajack completes the installation (you can check the Wabbajack.exe.log to confirm it completed successfully), you may close the program.
+-   When Wabbajack completes the installation (you can check the Wabbajack.current.log to confirm it completed successfully), you may close the program.
 
 ### 1.4 Post-Installation Instructions
 
@@ -65,23 +67,7 @@ For automatic installations:
 
 -   Paste it into your Skyrim SE directory (steam\steamapps\common\Skyrim Special Edition).
 
-### 1.5 ENB Settings
-
-ENBs are never mandatory, but are highly recommended. The Phoenix Flavour recommends using Visceral ENB.
-
-Also important to note: many of the mods installed here rely on an ENB. If you choose not to install an ENB, you will have some strange looking textures, such as flat blue snow that seems to hover on top of the ground, for example.
-
-For instructions on how to set up and use this - or any other - ENB Preset, just click the link below:
-
-[ENBSeries section on The Phoenix Flavour](https://thephoenixflavour.com/guide/finalisation/step-2/)
-
-If you follow the steps exactly as written, you'll have a perfectly installed ENB, along with an ENB Manager and the knowledge of how to use it properly. And it only takes five to ten minutes! Easy.
-
-Last thing to note in regards to ENBs: The Phoenix Flavour uses [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125), so make sure your ENB of choice supports this weather mod.
-
-Well, that does it. Time to start a new game!
-
-### 1.6 First Launch
+### 1.5 First Launch
 
 Congratulations on making it this far. It's been a real rollercoaster. We're almost done....almost....
 
@@ -96,9 +82,5 @@ Congratulations on making it this far. It's been a real rollercoaster. We're alm
 Luckily, Phoenix has already set up a page full of recommended settings. Click the link below:
 
 [Recommended MCM Settings for The Phoenix Flavour](https://thephoenixflavour.com/guide/new-game/)
-
-I have also included my personal preference in regards to the A Matter of Time configuration. Simply open the MCM menu for A Matter of Time, select Preset, then Load User Settings. Close the MCM menu, and you'll see it magically move into the position I've set up for myself. Technology is crazy, man.  
-
-As a quick side note: Some people seem to have issues with Frozen Electrocution Combustion. If you’re experiencing intermittent crashing, try disabling FEC.  
 
 If you’re happy with the guide, please consider [donating to Phoenix on her Patreon](https://www.patreon.com/thephoenixflavour). None of this is possible without her and her team.
