@@ -1,6 +1,5 @@
 const modlists = require('./modlists.json');
 const _ = require('underscore');
-const axios = require('axios').default;
 
 test('parse JSON', () => {
     const data = JSON.stringify(modlists);
