@@ -41,7 +41,7 @@ Once Skyrim is installed, make sure you run it once. (Get to the Skyrim splash s
 
 -   This location CANNOT be where you have the Wabbajack.exe located.
 
--   This location CANNOT be where you have the The Phoenix Flavour.wabbajack file saved.
+-   This location CANNOT be where you have the TPF 3.2.2.wabbajack file saved.
 
 -   This location CANNOT be inside of a Windows-protected folder, such as Program Files.
 
@@ -71,7 +71,7 @@ Once Skyrim is installed, make sure you run it once. (Get to the Skyrim splash s
 
 ENBs are never mandatory, but are highly recommended. The Phoenix Flavour recommends using Visceral ENB.
 
-Also important to note: many of the mods installed here rely on an ENB. If you choose not to install an ENB, you will have some strange looking textures, such as flat blue snow that seems to hover on top of the ground, for example.
+Also important to note: many of the mods installed here rely on an ENB. If you choose not to install an ENB, you will have some strange looking textures, such as flat blue snow that seems to hover on top of the ground, for example. There is a section on the main guide that details how to properly remove ENB and ENB related mods.  
 
 For instructions on how to set up and use this - or any other - ENB Preset, just click the link below:
 
