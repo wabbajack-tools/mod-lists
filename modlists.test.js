@@ -21,7 +21,7 @@ describe('test modlists.json', () => {
     const testLink = (link) => {
         const success = regex.test(link.toLowerCase());
         if(!success)
-            throw `Regex doesn't match for ${link}`;
+            throw `Regex doesn't match for "${link}". This happens when given link is not a valid URL.`;
         return success;
     }
     it('has no URL errors', () => {
