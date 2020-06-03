@@ -1,3 +1,5 @@
+![build-status](https://img.shields.io/endpoint?label=Status&style=for-the-badge&url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2Fboston_cream_pie%2Fbadge.json)
+
 **Do not contact mod authors directly for support**.
 
 All support must be directed to the relevant discussion channel on the Wabbajack or Hyena's Den discord or through any provided means of contact above.
