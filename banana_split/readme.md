@@ -1,4 +1,4 @@
-### Banana Split
+### Banana Split ![build-status](https://img.shields.io/endpoint?label=%20&url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2Fbanana_split%2Fbadge.json)
 
 Better graphics, tons of new weapons and armor, plenty of extra content, and improved combat mechanics that provide a challenge without being overly frustrating.
 
