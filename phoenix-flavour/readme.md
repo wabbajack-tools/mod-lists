@@ -1,3 +1,5 @@
+![build-status](https://img.shields.io/endpoint?label=%20&url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2Ftpf%2Fbadge.json)
+
 01 // INTRODUCTION
 ------------------
 
