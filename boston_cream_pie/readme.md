@@ -1,4 +1,4 @@
-![build-status](https://img.shields.io/endpoint?label=Status&style=for-the-badge&url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2Fboston_cream_pie%2Fbadge.json)
+![build-status](https://img.shields.io/endpoint?color=%23FF8C00&label=Status&style=for-the-badge&url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2Fboston_cream_pie%2Fbadge.json)
 
 ![image alt text](https://github.com/LaughingHyena279/boston-cream-pie/blob/master/images/image_0.png?raw=true)
 
