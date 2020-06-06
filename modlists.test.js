@@ -3,8 +3,14 @@ const _ = require('underscore');
 
 describe('test modlists.json', () => {
     it('parses correctly', () => {
-        const data = JSON.stringify(modlists);
-        const s = JSON.parse(data);
+        let data;
+        let s;
+        try{
+            data = JSON.stringify(modlists);
+            s = JSON.parse(data);
+        } catch (e) {
+            throw `Error while parsing the JSON file! This indicates that the JSON file is not correct: ${e}`
+        }
         expect(data).not.toBeNull();
         expect(data).not.toBeUndefined();
         expect(s).not.toBeNull();
@@ -21,7 +27,7 @@ describe('test modlists.json', () => {
     const testLink = (link) => {
         const success = regex.test(link.toLowerCase());
         if(!success)
-            throw `Regex doesn't match for "${link}". This happens when given link is not a valid URL.`;
+            throw `Regex doesn't match for "${link}". This happens when a given link is not a valid URL.`;
         return success;
     }
     it('has no URL errors', () => {
@@ -29,6 +35,10 @@ describe('test modlists.json', () => {
             expect(testLink(encodeURI(modlist.links.image))).toBeTruthy();
             expect(testLink(encodeURI(modlist.links.download))).toBeTruthy();
             expect(testLink(encodeURI(modlist.links.readme))).toBeTruthy();
+
+            if(modlist.links.readme.startsWith("https://github.com/")) {
+                throw `Link to readme for ${modlist.links.machineURL} ${modlist.links.readme} must not start with 'https://github.com/'. This will break the website. Get the link for the raw data by using the raw button in the top right corner on GitHub when viewing the file!`
+            }
 
             expect(modlist.links.machineURL.includes(' ')).toBeFalsy();
         });
