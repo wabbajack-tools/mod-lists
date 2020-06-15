@@ -5,7 +5,7 @@
 
 ### 1.1 What Is The Phoenix Flavour?
 
-First published in 2017, [The Phoenix Flavour](https://github.com/foreverphoenix/the-phoenix-flavour/tree/master/The-Phoenix-Flavour-3-2) is a veteran among Skyrim SE guides. Over the past years, it has slowly evolved into a full-grown guide and made a name for itself as being easy to follow and thorough all around. It transitioned from a modular guide with too many ideas into a more streamlined approach. Thanks to the contributions of some incredibly talented and helpful people, we now feature more than 600 mods that work flawlessly together!
+First published in 2017, [The Phoenix Flavour](https://thephoenixflavour.com/skyrim-se/introduction/) is a veteran among Skyrim SE guides. Over the past years, it has slowly evolved into a full-grown guide and made a name for itself as being easy to follow and thorough all around. It transitioned from a modular guide with too many ideas into a more streamlined approach. Thanks to the contributions of some incredibly talented and helpful people, we now feature more than 600 mods that work flawlessly together!
 
 Please join[  The Phoenix Flavour Discord](https://discord.gg/BpwXX5f) server for information in regards to the guide itself, or to simply show some appreciation to the TPF team.
 
@@ -27,7 +27,7 @@ Once Skyrim is installed, make sure you run it once. (Get to the Skyrim splash s
 
 ### 1.3 Installation Instructions
 
--   Download the latest version of Wabbajack (2.0.6.0 at the time of this writing).
+-   Download the latest version of Wabbajack (2.0.9.3 at the time of this writing).
 
 -   Create a new folder at the root of a drive (Example: D:\Wabbajack).
 
@@ -43,7 +43,7 @@ Once Skyrim is installed, make sure you run it once. (Get to the Skyrim splash s
 
 -   This location CANNOT be where you have the Wabbajack.exe located.
 
--   This location CANNOT be where you have the TPF 3.2.2.wabbajack file saved.
+-   This location CANNOT be where you have the TPF 3.3.0.3.wabbajack file saved.
 
 -   This location CANNOT be inside of a Windows-protected folder, such as Program Files.
 
@@ -77,7 +77,7 @@ Also important to note: many of the mods installed here rely on an ENB. If you c
 
 For instructions on how to set up and use this - or any other - ENB Preset, just click the link below:
 
-[ENBSeries section on The Phoenix Flavour](https://github.com/foreverphoenix/the-phoenix-flavour/blob/master/The-Phoenix-Flavour-3-2/03-Finalisation.md#04-enbseries)
+[ENBSeries section on The Phoenix Flavour](https://thephoenixflavour.com/skyrim-se/enbseries/01-about-enb/)
 
 If you follow the steps exactly as written, you'll have a perfectly installed ENB, along with an ENB Manager and the knowledge of how to use it properly. And it only takes five to ten minutes! Easy.
 
@@ -99,6 +99,6 @@ Congratulations on making it this far. It's been a real rollercoaster. We're alm
 
 Luckily, Phoenix has already set up a page full of recommended settings. Click the link below:
 
-[Recommended MCM Settings for The Phoenix Flavour](https://github.com/foreverphoenix/the-phoenix-flavour/blob/master/The-Phoenix-Flavour-3-2/05-New-Game.md#mod-configuration)
+[Recommended MCM Settings for The Phoenix Flavour](https://thephoenixflavour.com/skyrim-se/new-game/step-02/)
 
 If you're happy with the guide, please consider [donating to Phoenix on her Patreon](https://www.patreon.com/thephoenixflavour). None of this is possible without her and her team.
