@@ -15,11 +15,12 @@ Better graphics, tons of new weapons and armor, plenty of extra content, and imp
 2. Create a new folder at the root of a drive (Example: D:\Wabbajack).
 3. Place the Wabbajack.exe into this new folder.
 4. Launch Wabbajack.exe. Download the BananaSplit v3.2.wabbajack file from the Wabbajack Modlist Gallery.
-9. In “Installation Location” choose a blank folder at the root of a drive (example: D:\Banana Split). **DO NOT** install your modlist to the same folder where you put Wabbajack.exe.  **DO NOT** install into your Steam game path.
-10. The “Download Location” will update automatically. You can change it if you want.
-11. Click the "Play" arrow.
-12. Make sure to accept the Nexus API request if your browser asks for it.
-13. When Wabbajack completes the installation (you can check the Wabbajack.current.log to confirm it completed successfully), you may close the program.
+5. In “Installation Location” choose a blank folder at the root of a drive (example: D:\Banana Split). **DO NOT** install your modlist to the same folder where you put Wabbajack.exe.  **DO NOT** install into your Steam game path.
+6. The “Download Location” will update automatically. You can change it if you want.
+7. Click the "Play" arrow.
+8. Sacrifice your firstborn to Halgari.
+9. Make sure to accept the Nexus API request if your browser asks for it.
+10. When Wabbajack completes the installation (you can check the Wabbajack.current.log to confirm it completed successfully), you may close the program.
 
 #### **_Post Installation Instructions:_**
 
