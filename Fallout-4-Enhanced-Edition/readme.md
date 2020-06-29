@@ -28,7 +28,7 @@ Your game will be much less recognizable and very tough, especially at early lev
 
 ### Step 0:
 
-Create a new folder named 'F4EE' anywhere outside of Program Files. Then, download Wabbajack and select Fallout 4 Enhanced Edition from the list of modlists shown, and install it.
+Run Fallout 4 once from Steam. You can close the launcher when it detects your video settings. After this, create a new folder named 'F4EE' anywhere outside of Program Files. Then, download [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and select Fallout 4 Enhanced Edition from the list of modlists shown, and install it to the folder you just made.
 
 ### Step 1:
 
