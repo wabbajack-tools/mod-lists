@@ -32,7 +32,7 @@ Run Fallout 4 once from Steam. You can close the launcher when it detects your v
 
 ### Step 1:
 
-After it finishes, go to your install folder, and open up the `Game Folder Files` and Copy these all into your Fallout 4 Directory.
+After it finishes, go to your install folder, and open up the `Game Folder Files` folder and Copy these all into your Fallout 4 Directory.
 
 ### Step 2:
 
