@@ -27,7 +27,7 @@ Once Skyrim is installed, make sure you run it once. (Get to the Skyrim splash s
 
 ### 1.3 Installation Instructions
 
--   Download the latest version of Wabbajack (2.0.9.3 at the time of this writing).
+-   Download the latest version of Wabbajack (2.1.0.0 at the time of this writing).
 
 -   Create a new folder at the root of a drive (Example: D:\Wabbajack).
 
@@ -43,7 +43,7 @@ Once Skyrim is installed, make sure you run it once. (Get to the Skyrim splash s
 
 -   This location CANNOT be where you have the Wabbajack.exe located.
 
--   This location CANNOT be where you have the TPF 3.3.0.3.wabbajack file saved.
+-   This location CANNOT be where you have the TPF.wabbajack file saved.
 
 -   This location CANNOT be inside of a Windows-protected folder, such as Program Files.
 
@@ -71,7 +71,7 @@ Once Skyrim is installed, make sure you run it once. (Get to the Skyrim splash s
 
 ### 1.5 ENB Settings
 
-ENBs are never mandatory, but are highly recommended. The Phoenix Flavour recommends using Visceral ENB.
+ENBs are never mandatory, but are highly recommended. The Phoenix Flavour recommends using Silent Horizons ENB.
 
 Also important to note: many of the mods installed here rely on an ENB. If you choose not to install an ENB, you will have some strange looking textures, such as flat blue snow that seems to hover on top of the ground, for example. There is a section on the main guide that details how to properly remove ENB and ENB related mods.  
 
