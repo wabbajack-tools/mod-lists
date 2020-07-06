@@ -14,7 +14,7 @@ Better graphics, tons of new weapons and armor, plenty of extra content, and imp
 1. Download the latest version of Wabbajack.
 2. Create a new folder at the root of a drive (Example: D:\Wabbajack).
 3. Place the Wabbajack.exe into this new folder.
-4. Launch Wabbajack.exe. Download the BananaSplit v3.2.1.wabbajack file from the Wabbajack Modlist Gallery.
+4. Launch Wabbajack.exe. Download the BananaSplit.wabbajack file from the Wabbajack Modlist Gallery.
 5. In “Installation Location” choose a blank folder at the root of a drive (example: D:\Banana Split). **DO NOT** install your modlist to the same folder where you put Wabbajack.exe.  **DO NOT** install into your Steam game path.
 6. The “Download Location” will update automatically. You can change it if you want.
 7. Click the "Play" arrow.
