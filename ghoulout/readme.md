@@ -163,6 +163,8 @@ Also note that there are a few extra MCMs in the game that aren't in the screens
 
 ![](https://lh5.googleusercontent.com/6CVxLHQYmKgm9DZpz6TIt91Wjy7Y-MkfPVzsSMfcJJxe0KVBC6VDy-PhwzxoLx6BI9AHjmYbyeLRiybyjO4haGUAC8npOr6Ytw1VaqBf2gBeIpBubAZh3ZnSB2kvclSnsfmYSxea)
 
+I don't personally use an ENB, but [Pilgrim](https://www.nexusmods.com/fallout4/mods/23845) looks pretty neato with it.
+
 Good luck. Have fun. Try not to die.
 
 ## **Things You Should Know**
