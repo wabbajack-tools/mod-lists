@@ -9,7 +9,7 @@ Pirated games and mods are **not** supported.
 It's a zombie apocalypse. There are a lot of zombies. There are no more main quests. There is no storyline. There are very few NPCs. Your job is to explore the commonwealth, build up some settlements, unlock some perks for yourself. **_There are so many zombies._**
 
 ## **Requirements Before Installing:**
-===============================
+================================
 
 -   Current build version of Wabbajack. This can be found on the Wabbajack Discord linked above.
 
@@ -22,7 +22,7 @@ It's a zombie apocalypse. There are a lot of zombies. There are no more main que
 Once Fallout 4 is installed, **make sure you run it once.** (Get to the Fallout 4 splash screen, and exit).
 
 ## **Installation Instructions:**
-==========================
+================================
 
 -   Download the latest version of Wabbajack.
 
@@ -55,6 +55,7 @@ Once Fallout 4 is installed, **make sure you run it once.** (Get to the Fallout 
 -   Note that Wabbajack will **never** close itself automatically. So if you set it to install and leave, then come back to see Wabbajack is no longer open, this does not mean your installation completed. It means it failed, very likely due to a shortage of disk space. Check the log and/or contact us on Discord for further assistance.
 
 ## **Post Installation Instructions:**
+================================
 
 -   Navigate back to your GhoulOut installation folder.
 
@@ -77,6 +78,7 @@ Now, we still have a little bit of work left to do, but we're almost done. Launc
 Once you reach the exit to Vault 111 and ride the elevator, we can finish setting up the game. You'll get a few warning messages to remind you to visit this section and complete setting up the game properly. You're welcome.
 
 ## **DO NOT SKIP THIS STEP. YOUR GAME WILL NOT WORK IF YOU SKIP THIS PART. SERIOUSLY. DO IT. DO IT EXACTLY AS WRITTEN.**
+================================
 
 You exited Vault 111. You got three pop-up messages reminding you to do this. So now you have to do it. There is no other choice. There is no excuse not to do it.
 
@@ -127,7 +129,7 @@ Now we get to do MCMs. Yay!
 Press the "Esc" key and select "Mod Config". This is the last step, I swear.
 
 ## **MCM Settings:**
-=============
+================================
 
 Note that hotkeys are largely up to you. This is just how I set it up.
 
@@ -164,6 +166,7 @@ Also note that there are a few extra MCMs in the game that aren't in the screens
 Good luck. Have fun. Try not to die.
 
 ## **Things You Should Know**
+================================
 
 -   Leveling is a lot different in this modlist. Level requirements for perks are as low as they can go (due to the way the game is hardcoded for perks, I can't just make them all level 1). You'll still get perks points with each level, but....you won't be able to spend them right away. Instead, you have to find a book that will unlock the ability to purchase the perk. Where are the books, you ask? Everywhere! Mostly in interiors. So keep your eyes open.
 
@@ -174,6 +177,7 @@ Good luck. Have fun. Try not to die.
 -   Pressing C for Clothes during character creation causes your game to lock up. This is an issue with LooksMenu. There is nothing I can do about it. So just don't press C for the Clothes option.
 
 ## **Future Plans:**
+================================
 
 -   Add more zombies. Can never have enough zombies.
 
@@ -188,7 +192,7 @@ Good luck. Have fun. Try not to die.
 -   Add more zombies.
 
 ## **For 21:9/Ultrawide Users:**
-========================
+================================
 
 Note that I did not write this. I don't have ultrawide so I can't help troubleshoot it. Another user left this here for others to possibly learn from.
 
