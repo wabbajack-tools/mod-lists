@@ -83,19 +83,22 @@ Press **Shift+Enter** to open the ENB menu.
 
 Press **Esc** and select **MCM**.
 
-**A Matter of Time**  
+**A Matter of Time**
+
 * Presets  
   * User Settings  
     * Load User Settings  
 
 **All Geared Up Deriv.**
+
 * NPC  
   * Enable Weapons - Enable  
     * Cathedral Weather  
       * Settings  
         * Configuration Spell - Disable  
 
-**Complete Crafting**  
+**Complete Crafting**
+
 * Recipe Display  
   * Crafting Menu Filters  
     * Crafting Categories - Disable  
@@ -110,10 +113,12 @@ Press **Esc** and select **MCM**.
     * Leveled Items  
       * Upgrade via Crafting - Disable  
 
-**Diverse Dragons Collection**  
+**Diverse Dragons Collection**
+
 * Open MCM and close it. Yes, that's all.  
 
-**Follower Framework**  
+**Follower Framework**
+
 * Activity  
   * Sandboxing  
     * Ignore Special Furniture - Enable  
@@ -128,62 +133,73 @@ Press **Esc** and select **MCM**.
     * Core  
       * Enable ConsoleUtil - Enable  
 
-**GIST Soul Trap**  
+**GIST Soul Trap**
+
 * Leveling  
   * Customize as you wish, or leave it disabled.  
 
-**Growl Werebeasts**  
+**Growl Werebeasts**
+
 * Features  
   * Invulnerable During Transformation - Enable  
 
-**Immersive HUD**  
+**Immersive HUD**
+
 * Activation  
   * Compass Activation  
     * Key Press Toggles - Enable  
   * SkyUI Active Effects  
     * Link ALL SkyUI Widgets - Enable  
 
-**moreHUD**  
+**moreHUD**
+
 * Enemy's Level  
   * Enemy Meters  
     * Show Magicka Meter - Disable  
     * Show Stamina Meter - Disable  
 
-**RDO**  
+**RDO**
+
 * Other Options  
   * Toggle NPCs  
     * Allow RDO Added Followers - Disable  
     * Allow Terek - Disable  
 
-**Realistic Water Two**  
+**Realistic Water Two**
+
 * Mod Options  
   * Blacksmith Forge Water  
     * Kynesgrove - Enable  
     * Rorikstead - Enable  
 
-**Timing is Everything**  
+**Timing is Everything**
+
 * Extra Options  
   * Presets  
     * Load Preset  
 *(Note: This preset was made by me for no reason whatsoever and is not officially endorsed by Phoenix.)*  
 
-**Wonders of Weather**  
+**Wonders of Weather**
+
 * Options  
   * Rain Splashes  
     * Level - Disabled  
 
 **Lively's Picks** *(aka, not part of the official guide, but I like these settings)*  
 
-**Quick Light**  
+**Quick Light**
+
 * Type of Light Source - Magic  
 
-**SSoB**  
+**SSoB**
+
 * Quest Markers  
   * Quest Markers on Stones of Barenziah - Enable  
 
-**Storm Lightning**  
-- Presets  
-  - Load Preset  
-    - Realistic  
+**Storm Lightning**
+
+* Presets  
+  * Load Preset  
+    * Realistic  
 
 If you're happy with the guide, please consider [donating to Phoenix on her Patreon](https://www.patreon.com/thephoenixflavour). None of this is possible without her and her team.
