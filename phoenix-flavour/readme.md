@@ -48,8 +48,6 @@ Once Skyrim is installed, **make sure you run it once**. (Get to the Skyrim spla
 * Paste it into your Skyrim SE directory (steam\steamapps\common\Skyrim Special Edition).  
   * Just to be really clear about this, since there has been some confusion: there is a folder installed by Wabbajack called "Game Folder Files." The contents of this folder are what you need to copy into your Skyrim folder. Not the folder itself, and definitely not everything that Wabbajack installed on your PC. It's just a few .dll files, skse_loader, things like that. It's only about 65 MB of files.
 
-Grab the ENB Binaries from [here](http://enbdev.com/download_mod_tesskyrimse.htm). Open the archive and extract **d3d11.dll** and **d3dcompiler_46e.dll** from the **Wrapper Version** folder, and paste them into your Skyrim folder (steam\steamapps\common\Skyrim Special Edition).
-
 ## 1.5 First Launch
 
 Congratulations on making it this far. It's been a real rollercoaster. We're almost done....almost....
