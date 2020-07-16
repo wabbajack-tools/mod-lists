@@ -185,29 +185,29 @@ Press **Esc** and select **MCM**.
     * Kynesgrove - Enable
     * Rorikstead - Enable
 
-**Timing is Everything**
-* Extra Options
-  * Presets
-    * Load Preset
-*(Note: This preset was made by me for no reason whatsoever and is not officially endorsed by Phoenix.)*
+**Timing is Everything**  
+* Extra Options  
+  * Presets  
+    * Load Preset  
+*(Note: This preset was made by me for no reason whatsoever and is not officially endorsed by Phoenix.)*  
 
-**Wonders of Weather**
-* Options
-  * Rain Splashes
-    * Level - Disabled
+**Wonders of Weather**  
+* Options  
+  * Rain Splashes  
+    * Level - Disabled  
 
-**Lively's Picks** *(aka, not part of the official guide, but I like these settings)*
+**Lively's Picks** *(aka, not part of the official guide, but I like these settings)*  
 
-**Quick Light**
-* Type of Light Source - Magic
+**Quick Light**  
+* Type of Light Source - Magic  
 
-**SSoB**
-* Quest Markers
-  * Quest Markers on Stones of Barenziah - Enable
+**SSoB**  
+* Quest Markers  
+  * Quest Markers on Stones of Barenziah - Enable  
 
-**Storm Lightning**
-* Presets
-  * Load Preset
-    * Realistic
+**Storm Lightning**  
+* Presets  
+  * Load Preset  
+    * Realistic  
 
 If you're happy with the guide, please consider [donating to Phoenix on her Patreon](https://www.patreon.com/thephoenixflavour). None of this is possible without her and her team.
