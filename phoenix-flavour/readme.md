@@ -107,83 +107,83 @@ Press **Shift+Enter** to open the ENB menu.
 
 Press **Esc** and select **MCM**.
 
-**A Matter of Time**
-* Presets
-  * User Settings
-    * Load User Settings
+**A Matter of Time**  
+* Presets  
+  * User Settings  
+    * Load User Settings  
 
 **All Geared Up Deriv.**
-* NPC
-  * Enable Weapons - Enable
-    * Cathedral Weather
-      * Settings
-        * Configuration Spell - Disable
+* NPC  
+  * Enable Weapons - Enable  
+    * Cathedral Weather  
+      * Settings  
+        * Configuration Spell - Disable  
 
-**Complete Crafting**
-* Recipe Display
-  * Crafting Menu Filters
-    * Crafting Categories - Disable
-    * Item Type Filters - Disable
-  * Crafting Options
-    * Additional Items
-      * More Jewelry - Disable
-    * Equipment Breakdown
-      * At Smelter - Disable
-      * At Tanning Rack - Disable
-  * Miscellaneous
-    * Leveled Items
-      * Upgrade via Crafting - Disable
+**Complete Crafting**  
+* Recipe Display  
+  * Crafting Menu Filters  
+    * Crafting Categories - Disable  
+    * Item Type Filters - Disable  
+  * Crafting Options  
+    * Additional Items  
+      * More Jewelry - Disable  
+    * Equipment Breakdown  
+      * At Smelter - Disable  
+      * At Tanning Rack - Disable  
+  * Miscellaneous  
+    * Leveled Items  
+      * Upgrade via Crafting - Disable  
 
-**Diverse Dragons Collection**
-* Open MCM and close it. Yes, that's all.
+**Diverse Dragons Collection**  
+* Open MCM and close it. Yes, that's all.  
 
-**Follower Framework**
-* Activity
-  * Sandboxing
-    * Ignore Special Furniture - Enable
-    * Stop During Player Dialogue - Enable
-    * Only Sandbox in Town - Enable
-  * Gameplay
-    * Regard System
-    * Allow Regard - Off
-  * System
-    * Casted Abilities
-      * Command Followers - Disable
-    * Core
-      * Enable ConsoleUtil - Enable
+**Follower Framework**  
+* Activity  
+  * Sandboxing  
+    * Ignore Special Furniture - Enable  
+    * Stop During Player Dialogue - Enable  
+    * Only Sandbox in Town - Enable  
+  * Gameplay  
+    * Regard System  
+    * Allow Regard - Off  
+  * System  
+    * Casted Abilities  
+      * Command Followers - Disable  
+    * Core  
+      * Enable ConsoleUtil - Enable  
 
-**GIST Soul Trap**
-* Leveling
-  * Customize as you wish, or leave it disabled.
+**GIST Soul Trap**  
+* Leveling  
+  * Customize as you wish, or leave it disabled.  
 
-**Growl Werebeasts**
-* Features
-  * Invulnerable During Transformation - Enable
+**Growl Werebeasts**  
+* Features  
+  * Invulnerable During Transformation - Enable  
 
-**Immersive HUD**
-* Activation
-  * Compass Activation
-    * Key Press Toggles - Enable
-  * SkyUI Active Effects
-    * Link ALL SkyUI Widgets - Enable
+**Immersive HUD**  
+* Activation  
+  * Compass Activation  
+    * Key Press Toggles - Enable  
+  * SkyUI Active Effects  
+    * Link ALL SkyUI Widgets - Enable  
 
-**moreHUD**
-* Enemy's Level
-  * Enemy Meters
-    * Show Magicka Meter - Disable
-    * Show Stamina Meter - Disable
+**moreHUD**  
+* Enemy's Level  
+  * Enemy Meters  
+    * Show Magicka Meter - Disable  
+    * Show Stamina Meter - Disable  
 
-**RDO**
-* Other Options
-  * Toggle NPCs
-    * Allow RDO Added Followers - Disable
-    * Allow Terek - Disable
+**RDO**  
+* Other Options  
+  * Toggle NPCs  
+    * Allow RDO Added Followers - Disable  
+    * Allow Terek - Disable  
 
-**Realistic Water Two**
-* Mod Options
-  * Blacksmith Forge Water
-    * Kynesgrove - Enable
-    * Rorikstead - Enable
+**Realistic Water Two**  
+* Mod Options  
+  * Blacksmith Forge Water  
+    * Kynesgrove - Enable  
+    * Rorikstead - Enable  
 
 **Timing is Everything**  
 * Extra Options  
@@ -206,8 +206,8 @@ Press **Esc** and select **MCM**.
   * Quest Markers on Stones of Barenziah - Enable  
 
 **Storm Lightning**  
-* Presets  
-  * Load Preset  
-    * Realistic  
+- Presets  
+  - Load Preset  
+    - Realistic  
 
 If you're happy with the guide, please consider [donating to Phoenix on her Patreon](https://www.patreon.com/thephoenixflavour). None of this is possible without her and her team.
