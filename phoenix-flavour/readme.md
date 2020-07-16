@@ -27,7 +27,7 @@ Once Skyrim is installed, make sure you run it once. (Get to the Skyrim splash s
 
 ### 1.3 Installation Instructions
 
--   Download the latest version of Wabbajack (2.1.0.0 at the time of this writing).
+-   Download the latest version of Wabbajack.
 
 -   Create a new folder at the root of a drive (Example: D:\Wabbajack).
 
@@ -67,25 +67,11 @@ Once Skyrim is installed, make sure you run it once. (Get to the Skyrim splash s
 
 -   Paste it into your Skyrim SE directory (steam\steamapps\common\Skyrim Special Edition).
 
--   Just to be really clear about this, since there has been some confusion: there is a folder installed by Wabbajack called "Game Folder Files." The contents of this folder are what you need to copy into your Skyrim folder. Not the folder itself, and definitely not everything that Wabbajack installed on your PC. It's just a few .dll files, skse_loader, things like that. It's only about 7.5 MB of files.
+-   Just to be really clear about this, since there has been some confusion: there is a folder installed by Wabbajack called "Game Folder Files." The contents of this folder are what you need to copy into your Skyrim folder. Not the folder itself, and definitely not everything that Wabbajack installed on your PC. It's just a few .dll files, skse_loader, things like that. It's only about 65 MB of files.
 
-### 1.5 ENB Settings
+Grab the ENB Binaries from [here](http://enbdev.com/download_mod_tesskyrimse.htm). Open the archive and extract **d3d11.dll** and **d3dcompiler_46e.dll** from the **Wrapper Version** folder, and paste them into your Skyrim folder (steam\steamapps\common\Skyrim Special Edition).
 
-ENBs are never mandatory, but are highly recommended. The Phoenix Flavour recommends using Silent Horizons ENB.
-
-Also important to note: many of the mods installed here rely on an ENB. If you choose not to install an ENB, you will have some strange looking textures, such as flat blue snow that seems to hover on top of the ground, for example. There is a section on the main guide that details how to properly remove ENB and ENB related mods.  
-
-For instructions on how to set up and use this - or any other - ENB Preset, just click the link below:
-
-[ENBSeries section on The Phoenix Flavour](https://thephoenixflavour.com/skyrim-se/enbseries/01-about-enb/)
-
-If you follow the steps exactly as written, you'll have a perfectly installed ENB, along with an ENB Manager and the knowledge of how to use it properly. And it only takes five to ten minutes! Easy.
-
-Last thing to note in regard to ENBs: The Phoenix Flavour uses [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125), so make sure your ENB of choice supports this weather mod.
-
-Well, that does it. Time to start a new game!
-
-### 1.6 First Launch
+### 1.5 First Launch
 
 Congratulations on making it this far. It's been a real rollercoaster. We're almost done....almost....
 
@@ -97,8 +83,131 @@ Congratulations on making it this far. It's been a real rollercoaster. We're alm
 
 -   When the text prompts stop appearing in the upper left corner, it's time for everyone's favorite part: MCM configuration!
 
-Luckily, Phoenix has already set up a page full of recommended settings. Click the link below:
+Let's get started.
 
-[Recommended MCM Settings for The Phoenix Flavour](https://thephoenixflavour.com/skyrim-se/new-game/step-02/)
+Press **Esc**
+
+* **Settings**
+  * **Display**
+    * **Depth of Field** - Move the slider all the way down to 0
+      * Tab out of this menu until you're back in the game.
+Press the **tilde (~) key** to open the console.
+
+Press **Shift+Enter** to open the ENB menu.
+
+* In the left window, expand **EFFECT**
+  * Uncheck the **EnabledDetailedShadows** option.
+    * In the left window, expand **ENVIRONMENT**
+      * Scroll down to **AmbientLightingIntensityInteriorDay** and set this to 1.10.
+      * Scroll down to **AmbientLightingIntensityInteriorNight** and set this to 0.85.
+        * At the top of the left window, click **Save Configuration**.
+          * Press **Shift+Enter** to close the ENB menu.
+
+*Feel free to fiddle with ENB settings to suit your preferences.*
+
+Press **Esc** and select **MCM**.
+
+**A Matter of Time**
+* Presets
+  * User Settings
+    * Load User Settings
+
+**All Geared Up Deriv.**
+* NPC
+  * Enable Weapons - Enable
+    * Cathedral Weather
+      * Settings
+        * Configuration Spell - Disable
+
+**Complete Crafting**
+* Recipe Display
+  * Crafting Menu Filters
+    * Crafting Categories - Disable
+    * Item Type Filters - Disable
+  * Crafting Options
+    * Additional Items
+      * More Jewelry - Disable
+    * Equipment Breakdown
+      * At Smelter - Disable
+      * At Tanning Rack - Disable
+  * Miscellaneous
+    * Leveled Items
+      * Upgrade via Crafting - Disable
+
+**Diverse Dragons Collection**
+* Open MCM and close it. Yes, that's all.
+
+**Follower Framework**
+* Activity
+  * Sandboxing
+    * Ignore Special Furniture - Enable
+    * Stop During Player Dialogue - Enable
+    * Only Sandbox in Town - Enable
+  * Gameplay
+    * Regard System
+    * Allow Regard - Off
+  * System
+    * Casted Abilities
+      * Command Followers - Disable
+    * Core
+      * Enable ConsoleUtil - Enable
+
+**GIST Soul Trap**
+* Leveling
+  * Customize as you wish, or leave it disabled.
+
+**Growl Werebeasts**
+* Features
+  * Invulnerable During Transformation - Enable
+
+**Immersive HUD**
+* Activation
+  * Compass Activation
+    * Key Press Toggles - Enable
+  * SkyUI Active Effects
+    * Link ALL SkyUI Widgets - Enable
+
+**moreHUD**
+* Enemy's Level
+  * Enemy Meters
+    * Show Magicka Meter - Disable
+    * Show Stamina Meter - Disable
+
+**RDO**
+* Other Options
+  * Toggle NPCs
+    * Allow RDO Added Followers - Disable
+    * Allow Terek - Disable
+
+**Realistic Water Two**
+* Mod Options
+  * Blacksmith Forge Water
+    * Kynesgrove - Enable
+    * Rorikstead - Enable
+
+**Timing is Everything**
+* Extra Options
+  * Presets
+    * Load Preset
+*(Note: This preset was made by me for no reason whatsoever and is not officially endorsed by Phoenix.)*
+
+**Wonders of Weather**
+* Options
+  * Rain Splashes
+    * Level - Disabled
+
+**Lively's Picks** *(aka, not part of the official guide, but I like these settings)*
+
+**Quick Light**
+* Type of Light Source - Magic
+
+**SSoB**
+* Quest Markers
+  * Quest Markers on Stones of Barenziah - Enable
+
+**Storm Lightning**
+* Presets
+  * Load Preset
+    * Realistic
 
 If you're happy with the guide, please consider [donating to Phoenix on her Patreon](https://www.patreon.com/thephoenixflavour). None of this is possible without her and her team.
