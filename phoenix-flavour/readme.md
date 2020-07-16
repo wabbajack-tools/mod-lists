@@ -185,7 +185,8 @@ Press **Esc** and select **MCM**.
   * Rain Splashes  
     * Level - Disabled  
 
-### **Lively's Picks** *(aka, not part of the official guide, but I like these settings)*  
+### **Lively's Picks**  
+###### *(aka, not part of the official guide, but I like these settings)*
 
 ### **Quick Light**
 
