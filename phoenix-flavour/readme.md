@@ -186,7 +186,7 @@ Press **Esc** and select **MCM**.
     * Level - Disabled  
 
 ### **Lively's Picks**  
-###### *(aka, not part of the official guide, but I like these settings)*
+*(aka, not part of the official guide, but I like these settings)*
 
 ### **Quick Light**
 
