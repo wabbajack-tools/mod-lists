@@ -27,47 +27,29 @@ Once Skyrim is installed, make sure you run it once. (Get to the Skyrim splash s
 
 ### 1.3 Installation Instructions
 
--   Download the latest version of Wabbajack.
-
--   Create a new folder at the root of a drive (Example: D:\Wabbajack).
-
--   Place the Wabbajack.exe into this new folder.
-
--   Launch Wabbajack.exe and choose the "Browse Modlists" option.
-
--   Select "The Phoenix Flavour" from the list of available modlists on the Wabbajack UI.
-
--   Click "Download and Install."
-
--   In "Installation Location" choose a blank folder at the root of a drive (example: D:\Phoenix Flavour).
-
--   This location CANNOT be where you have the Wabbajack.exe located.
-
--   This location CANNOT be where you have the TPF.wabbajack file saved.
-
--   This location CANNOT be inside of a Windows-protected folder, such as Program Files.
-
--   This location CANNOT be your Skyrim folder in Steam.
-
--   The "Download Location" will update automatically. You can change it if you wish.
-
--   Click the "Play" arrow.
-
--   Make sure to accept the Nexus API request if your browser asks for it.
-
--   When Wabbajack completes the installation (you can check the Wabbajack.current.log to confirm it completed successfully), you may close the program.
+* Download the latest version of Wabbajack.  
+* Create a new folder at the root of a drive (Example: D:\Wabbajack).  
+* Place the Wabbajack.exe into this new folder.  
+* Launch Wabbajack.exe and choose the "Browse Modlists" option.  
+* Select "The Phoenix Flavour" from the list of available modlists on the Wabbajack UI.  
+* Click "Download and Install."  
+* In "Installation Location" choose a blank folder at the root of a drive (example: D:\Phoenix Flavour).  
+  * This location CANNOT be where you have the Wabbajack.exe located.  
+  * This location CANNOT be where you have the TPF.wabbajack file saved.  
+  * This location CANNOT be inside of a Windows-protected folder, such as Program Files.  
+  * This location CANNOT be your Skyrim folder in Steam.  
+* The "Download Location" will update automatically. You can change it if you wish.  
+* Click the "Play" arrow.  
+* Make sure to accept the Nexus API request if your browser asks for it.  
+* When Wabbajack completes the installation (you can check the Wabbajack.current.log to confirm it completed successfully), you may close the program.
 
 ### 1.4 Post-Installation Instructions - Do Not Skip This Step!
 
--   Navigate back to your Phoenix Flavour installation folder.
-
--   Open "Game Folder Files"
-
--   Copy everything in this folder.
-
--   Paste it into your Skyrim SE directory (steam\steamapps\common\Skyrim Special Edition).
-
--   Just to be really clear about this, since there has been some confusion: there is a folder installed by Wabbajack called "Game Folder Files." The contents of this folder are what you need to copy into your Skyrim folder. Not the folder itself, and definitely not everything that Wabbajack installed on your PC. It's just a few .dll files, skse_loader, things like that. It's only about 65 MB of files.
+* Navigate back to your Phoenix Flavour installation folder.  
+* Open "Game Folder Files"  
+* Copy everything in this folder.  
+* Paste it into your Skyrim SE directory (steam\steamapps\common\Skyrim Special Edition).  
+  * Just to be really clear about this, since there has been some confusion: there is a folder installed by Wabbajack called "Game Folder Files." The contents of this folder are what you need to copy into your Skyrim folder. Not the folder itself, and definitely not everything that Wabbajack installed on your PC. It's just a few .dll files, skse_loader, things like that. It's only about 65 MB of files.
 
 Grab the ENB Binaries from [here](http://enbdev.com/download_mod_tesskyrimse.htm). Open the archive and extract **d3d11.dll** and **d3dcompiler_46e.dll** from the **Wrapper Version** folder, and paste them into your Skyrim folder (steam\steamapps\common\Skyrim Special Edition).
 
@@ -98,8 +80,8 @@ Press **Shift+Enter** to open the ENB menu.
 * In the left window, expand **EFFECT**
   * Uncheck the **EnabledDetailedShadows** option.
     * In the left window, expand **ENVIRONMENT**
-      * Scroll down to **AmbientLightingIntensityInteriorDay** and set this to 1.10.
-      * Scroll down to **AmbientLightingIntensityInteriorNight** and set this to 0.85.
+      * Scroll down to **AmbientLightingIntensityInteriorDay** and set this to **1.10**.
+      * Scroll down to **AmbientLightingIntensityInteriorNight** and set this to **0.85**.
         * At the top of the left window, click **Save Configuration**.
           * Press **Shift+Enter** to close the ENB menu.
 
