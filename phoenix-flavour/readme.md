@@ -7,11 +7,11 @@
 
 First published in 2017, [The Phoenix Flavour](https://thephoenixflavour.com/skyrim-se/introduction/) is a veteran among Skyrim SE guides. Over the past years, it has slowly evolved into a full-grown guide and made a name for itself as being easy to follow and thorough all around. It transitioned from a modular guide with too many ideas into a more streamlined approach. Thanks to the contributions of some incredibly talented and helpful people, we now feature more than 600 mods that work flawlessly together!
 
-Please join[  The Phoenix Flavour Discord](https://discord.gg/BpwXX5f) server for information in regards to the guide itself, or to simply show some appreciation to the TPF team.
+Please join [The Phoenix Flavour Discord](https://discord.gg/BpwXX5f) server for information in regards to the guide itself, or to simply show some appreciation to the TPF team.
 
 ## 1.2 Requirements Before Installing
 
-* Current build version of Wabbajack. This can be found on the [Wabbajack Discord](https://discord.gg/wabbajack).  
+* Current build version of Wabbajack. This can be found on the [Wabbajack website](https://www.wabbajack.org/).  
 * Clean install of Skyrim Special Edition - note that your game should be installed OUTSIDE of any Windows-protected folder such as Program Files.  
 * 95 gigs of free space. Note that this number does NOT include your Skyrim SE installation.  
 * You will also need a few extra gigs if Wabbajack is running on the same drive as your installation location, as the program needs space for VFS Staging (the folder in which Wabbajack runs its processes to complete its job).
@@ -204,3 +204,5 @@ Press **Esc** and select **MCM**.
     * Realistic  
 
 If you're happy with the guide, please consider [donating to Phoenix on her Patreon](https://www.patreon.com/thephoenixflavour). None of this is possible without her and her team.
+
+If you need any support (or just want to hang out with us), feel free to join the [Wabbajack Discord server.](https://discord.gg/wabbajack)
