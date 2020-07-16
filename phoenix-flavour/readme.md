@@ -11,19 +11,16 @@ Please join[  The Phoenix Flavour Discord](https://discord.gg/BpwXX5f) server fo
 
 ### 1.2 Requirements Before Installing
 
--   Current build version of Wabbajack. This can be found on the [Wabbajack Discord](https://discord.gg/wabbajack).
-
--   Clean install of Skyrim Special Edition - note that your game should be installed OUTSIDE of any Windows-protected folder such as Program Files.
-
--   120 gigs of free space. Note that this number does NOT include your Skyrim SE installation.
-
--   You will also need a few extra gigs if Wabbajack is running on the same drive as your installation location, as the program needs space for VFS Staging (the folder in which Wabbajack runs its processes to complete its job).
+* Current build version of Wabbajack. This can be found on the [Wabbajack Discord](https://discord.gg/wabbajack).  
+* Clean install of Skyrim Special Edition - note that your game should be installed OUTSIDE of any Windows-protected folder such as Program Files.  
+* 95 gigs of free space. Note that this number does NOT include your Skyrim SE installation.  
+* You will also need a few extra gigs if Wabbajack is running on the same drive as your installation location, as the program needs space for VFS Staging (the folder in which Wabbajack runs its processes to complete its job).
 
 A Nexus Premium account is highly recommended for automatic download support.
 
 Pirated games and mods are NOT supported.
 
-Once Skyrim is installed, make sure you run it once. (Get to the Skyrim splash screen and exit).
+Once Skyrim is installed, **make sure you run it once**. (Get to the Skyrim splash screen and exit).
 
 ### 1.3 Installation Instructions
 
@@ -57,32 +54,29 @@ Grab the ENB Binaries from [here](http://enbdev.com/download_mod_tesskyrimse.htm
 
 Congratulations on making it this far. It's been a real rollercoaster. We're almost done....almost....
 
--   Open your Installation folder for Phoenix Flavour and launch ModOrganizer.exe.
-
--   Make sure the dropdown says SKSE and click Run.
-
--   Start a New Game. You'll start in the Live Another Life prison cell. Create your character, then wait for all of the mods to finish configuring.
-
--   When the text prompts stop appearing in the upper left corner, it's time for everyone's favorite part: MCM configuration!
+* Open your Installation folder for Phoenix Flavour and launch ModOrganizer.exe.  
+* Make sure the dropdown says SKSE and click Run.  
+* Start a New Game. You'll start in the Live Another Life prison cell. Create your character, then wait for all of the mods to finish configuring.  
+* When the text prompts stop appearing in the upper left corner, it's time for everyone's favorite part: MCM configuration!  
 
 Let's get started.
 
 Press **Esc**
 
-* **Settings**
-  * **Display**
-    * **Depth of Field** - Move the slider all the way down to 0
-      * Tab out of this menu until you're back in the game.
+* **Settings**  
+  * **Display**  
+    * **Depth of Field** - Move the slider all the way down to 0  
+      * Tab out of this menu until you're back in the game.  
 Press the **tilde (~) key** to open the console.
 
 Press **Shift+Enter** to open the ENB menu.
 
-* In the left window, expand **EFFECT**
-  * Uncheck the **EnabledDetailedShadows** option.
-    * In the left window, expand **ENVIRONMENT**
-      * Scroll down to **AmbientLightingIntensityInteriorDay** and set this to **1.10**.
-      * Scroll down to **AmbientLightingIntensityInteriorNight** and set this to **0.85**.
-        * At the top of the left window, click **Save Configuration**.
+* In the left window, expand **EFFECT**  
+  * Uncheck the **EnabledDetailedShadows** option.  
+    * In the left window, expand **ENVIRONMENT**  
+      * Scroll down to **AmbientLightingIntensityInteriorDay** and set this to **1.10**.  
+      * Scroll down to **AmbientLightingIntensityInteriorNight** and set this to **0.85**.  
+        * At the top of the left window, click **Save Configuration**.  
           * Press **Shift+Enter** to close the ENB menu.
 
 *Feel free to fiddle with ENB settings to suit your preferences.*
