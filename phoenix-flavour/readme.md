@@ -3,13 +3,13 @@
 01 // INTRODUCTION
 ------------------
 
-### 1.1 What Is The Phoenix Flavour?
+## 1.1 What Is The Phoenix Flavour?
 
 First published in 2017, [The Phoenix Flavour](https://thephoenixflavour.com/skyrim-se/introduction/) is a veteran among Skyrim SE guides. Over the past years, it has slowly evolved into a full-grown guide and made a name for itself as being easy to follow and thorough all around. It transitioned from a modular guide with too many ideas into a more streamlined approach. Thanks to the contributions of some incredibly talented and helpful people, we now feature more than 600 mods that work flawlessly together!
 
 Please join[  The Phoenix Flavour Discord](https://discord.gg/BpwXX5f) server for information in regards to the guide itself, or to simply show some appreciation to the TPF team.
 
-### 1.2 Requirements Before Installing
+## 1.2 Requirements Before Installing
 
 * Current build version of Wabbajack. This can be found on the [Wabbajack Discord](https://discord.gg/wabbajack).  
 * Clean install of Skyrim Special Edition - note that your game should be installed OUTSIDE of any Windows-protected folder such as Program Files.  
@@ -22,7 +22,7 @@ Pirated games and mods are NOT supported.
 
 Once Skyrim is installed, **make sure you run it once**. (Get to the Skyrim splash screen and exit).
 
-### 1.3 Installation Instructions
+## 1.3 Installation Instructions
 
 * Download the latest version of Wabbajack.  
 * Create a new folder at the root of a drive (Example: D:\Wabbajack).  
@@ -40,7 +40,7 @@ Once Skyrim is installed, **make sure you run it once**. (Get to the Skyrim spla
 * Make sure to accept the Nexus API request if your browser asks for it.  
 * When Wabbajack completes the installation (you can check the Wabbajack.current.log to confirm it completed successfully), you may close the program.
 
-### 1.4 Post-Installation Instructions - Do Not Skip This Step!
+## 1.4 Post-Installation Instructions - Do Not Skip This Step!
 
 * Navigate back to your Phoenix Flavour installation folder.  
 * Open "Game Folder Files"  
@@ -50,7 +50,7 @@ Once Skyrim is installed, **make sure you run it once**. (Get to the Skyrim spla
 
 Grab the ENB Binaries from [here](http://enbdev.com/download_mod_tesskyrimse.htm). Open the archive and extract **d3d11.dll** and **d3dcompiler_46e.dll** from the **Wrapper Version** folder, and paste them into your Skyrim folder (steam\steamapps\common\Skyrim Special Edition).
 
-### 1.5 First Launch
+## 1.5 First Launch
 
 Congratulations on making it this far. It's been a real rollercoaster. We're almost done....almost....
 
@@ -83,13 +83,13 @@ Press **Shift+Enter** to open the ENB menu.
 
 Press **Esc** and select **MCM**.
 
-**A Matter of Time**
+### **A Matter of Time**
 
 * Presets  
   * User Settings  
     * Load User Settings  
 
-**All Geared Up Deriv.**
+### **All Geared Up Deriv.**
 
 * NPC  
   * Enable Weapons - Enable  
@@ -97,7 +97,7 @@ Press **Esc** and select **MCM**.
       * Settings  
         * Configuration Spell - Disable  
 
-**Complete Crafting**
+### **Complete Crafting**
 
 * Recipe Display  
   * Crafting Menu Filters  
@@ -113,11 +113,11 @@ Press **Esc** and select **MCM**.
     * Leveled Items  
       * Upgrade via Crafting - Disable  
 
-**Diverse Dragons Collection**
+### **Diverse Dragons Collection**
 
 * Open MCM and close it. Yes, that's all.  
 
-**Follower Framework**
+### **Follower Framework**
 
 * Activity  
   * Sandboxing  
@@ -133,17 +133,17 @@ Press **Esc** and select **MCM**.
     * Core  
       * Enable ConsoleUtil - Enable  
 
-**GIST Soul Trap**
+### **GIST Soul Trap**
 
 * Leveling  
   * Customize as you wish, or leave it disabled.  
 
-**Growl Werebeasts**
+### **Growl Werebeasts**
 
 * Features  
   * Invulnerable During Transformation - Enable  
 
-**Immersive HUD**
+### **Immersive HUD**
 
 * Activation  
   * Compass Activation  
@@ -151,52 +151,52 @@ Press **Esc** and select **MCM**.
   * SkyUI Active Effects  
     * Link ALL SkyUI Widgets - Enable  
 
-**moreHUD**
+### **moreHUD**
 
 * Enemy's Level  
   * Enemy Meters  
     * Show Magicka Meter - Disable  
     * Show Stamina Meter - Disable  
 
-**RDO**
+### **RDO**
 
 * Other Options  
   * Toggle NPCs  
     * Allow RDO Added Followers - Disable  
     * Allow Terek - Disable  
 
-**Realistic Water Two**
+### **Realistic Water Two**
 
 * Mod Options  
   * Blacksmith Forge Water  
     * Kynesgrove - Enable  
     * Rorikstead - Enable  
 
-**Timing is Everything**
+### **Timing is Everything**
 
 * Extra Options  
   * Presets  
     * Load Preset  
 *(Note: This preset was made by me for no reason whatsoever and is not officially endorsed by Phoenix.)*  
 
-**Wonders of Weather**
+### **Wonders of Weather**
 
 * Options  
   * Rain Splashes  
     * Level - Disabled  
 
-**Lively's Picks** *(aka, not part of the official guide, but I like these settings)*  
+### **Lively's Picks** *(aka, not part of the official guide, but I like these settings)*  
 
-**Quick Light**
+### **Quick Light**
 
 * Type of Light Source - Magic  
 
-**SSoB**
+### **SSoB**
 
 * Quest Markers  
   * Quest Markers on Stones of Barenziah - Enable  
 
-**Storm Lightning**
+### **Storm Lightning**
 
 * Presets  
   * Load Preset  
