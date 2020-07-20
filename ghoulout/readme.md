@@ -82,7 +82,12 @@ Once you reach the exit to Vault 111 and ride the elevator, we can finish settin
 
 You exited Vault 111. You got three pop-up messages reminding you to do this. So now you have to do it. There is no other choice. There is no excuse not to do it.
 
-Open your Pipboy.
+* Open your Pipboy.  
+* Launch the **SKK Companion Unlock** Holotape.  
+* Choose **Make ALL companions available**.  
+* Choose **Yes** on the following prompt.  
+
+This will be finished in just a few moments. When X6-88 is available as a companion, close your Pipboy and open it again.
 
 **Launch the Fallout 4-76 Open World Holotape.**
 
@@ -170,13 +175,17 @@ Good luck. Have fun. Try not to die.
 ## **Things You Should Know**
 ================================
 
--   Leveling is a lot different in this modlist. Level requirements for perks are as low as they can go (due to the way the game is hardcoded for perks, I can't just make them all level 1). You'll still get perks points with each level, but....you won't be able to spend them right away. Instead, you have to find a book that will unlock the ability to purchase the perk. Where are the books, you ask? Everywhere! Mostly in interiors. So keep your eyes open.
+* Leveling is a lot different in this modlist. Level requirements for perks are as low as they can go (due to the way the game is hardcoded for perks, I can't just make them all level 1). You'll still get perks points with each level, but....you won't be able to spend them right away. Instead, you have to find a book that will unlock the ability to purchase the perk. Where are the books, you ask? Everywhere! Mostly in interiors. So keep your eyes open.
 
--   Zombies are tough, and there are a lot of them. A lot. Thousands. I've added roughly 600+ spawn markers, each of which can randomly spawn 1-3 zombies. Add this to the spawn markers from the base game and....well...do the math. Zombies will replace almost everything in the wasteland. Sure, you'll see a creature spawn every now and then, but it's uncommon. Aim for the head!
+* Zombies are tough, and there are a lot of them. A lot. Thousands. I've added roughly 600+ spawn markers, each of which can randomly spawn 1-3 zombies. Add this to the spawn markers from the base game and....well...do the math. Zombies will replace almost everything in the wasteland. Sure, you'll see a creature spawn every now and then, but it's uncommon. Aim for the head!
 
--   There is a death alternative in this list. You can revive yourself with a stimpak/radaway, or you can choose to wake up from your eternal slumber in your bed. Be warned: there are consequences depending on your choice...
+* There is a death alternative in this list. You can revive yourself with a stimpak/radaway, or you can choose to wake up from your eternal slumber in your bed. Be warned: there are consequences depending on your choice...
 
--   Pressing C for Clothes during character creation causes your game to lock up. This is an issue with LooksMenu. There is nothing I can do about it. So just don't press C for the Clothes option.
+* Pressing C for Clothes during character creation causes your game to lock up. This is an issue with LooksMenu. There is nothing I can do about it. So just don't press C for the Clothes option.
+
+* Leveling and XP notifications are no longer displayed on screen. Make sure to check your Stats tab in your Pipboy occasionally to see if you have perk points available to spend.
+
+* The Inspirational perk is useless. I'm sorry, I haven't thought of a good substitute for it yet. I am open to any suggestions that don't involve spawning an army of Mama Murphys.
 
 ## **Future Plans:**
 ================================
