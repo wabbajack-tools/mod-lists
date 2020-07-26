@@ -51,7 +51,8 @@ Before continuing, you will need:
 You **cannot** use a previously modded Fallout New Vegas game  
 (or else things will *probably* go wrong).
            
-*   At least >**20GB of free space **on your drive.  
+*   At least **20GB of free space** on your drive. 
+*   Windows 10 (Windows 7 and 8 will not be supported)
 *   A **[Nexus Premium](https://www.nexusmods.com/register/premium)** account is needed for Wabbajack’s automatic downloading.
 *   [Microsoft VC++ 2013](http://download.microsoft.com/download/0/5/6/056dcda9-d667-4e27-8001-8a0c6971d6b1/vcredist_x86.exe)
     *   Run the installer and follow the instructions. (If you get a message that the program is already installed, exit.
@@ -63,7 +64,10 @@ You **cannot** use a previously modded Fallout New Vegas game
 <h2>Installation Instructions</h2>
 
 
-*   Run your fresh (un-modded) installation of Fallout New Vegas (**<code>FalloutNV.exe</code>**) game at least once.
+*   Run your fresh (un-modded) installation of Fallout New Vegas (**<code>FalloutNV.exe</code>**) game at least once. 
+*   From the launcher set your Resolution to your preference.       
+*   Select the High preset option. Untick Enable shadows from Advanced settings.  Click ok and Exit. 
+
 
 ---
 
@@ -76,7 +80,7 @@ You **cannot** use a previously modded Fallout New Vegas game
     If your copy of Fallout New Vegas is installed in a default Windows system file branch
     (such as: C:\Program Files ; C:\Program Files (x86) ; Downloads ; Desktop), 
     reinstall it in a new location. 
-    Installing in those areas can cause issues major down the line.
+    Installing in those areas can cause major issues down the line.
 
  
 
@@ -89,22 +93,19 @@ You **cannot** use a previously modded Fallout New Vegas game
 *   Create a new folder at the root of a drive (Example: <code>D:\Wabbajack</code>). 
     *   <strong>Make sure </strong>this is <strong>separate </strong>from your <em>Viva New Vegas</em> install folder, <strong>not </strong>in common folders like <em>Downloads </em>or <em>Desktop</em>. 
 *   Place <code>Wabbajack.exe</code> into this new <em>Wabbajack </em>folder.  
-*   Create a folder named <em>Viva New Vegas </em>(or something similar). Do not place this folder inside the Wabbajack folder!  
-*   Create a folder inside your <em>Viva New Vegas </em> folder and name it <code>downloads</code>  
-*   Manually download:  
+*   Create a new folder named <em>Viva New Vegas </em>(or something similar). Do not place this folder inside the Wabbajack folder!  
+*   Launch <strong><code>Wabbajack.exe</code></strong>
+*   Select “Browse Modlists” and download the Viva New vegas modlist file.
+*   In “Installation Location”, choose the Viva New Vegas folder. The “Download Location” should update automatically.
+*   Click the large “Play” button.
+       *    (If you get a warning about unknown files, move your downloads folder outside of your VNV folder, ensure the VNV folder is clear of all files, then close and restart Wabbajack.)
+*   If you get a Nexus API request, accept it.
+*   **Now Wait.** (This process is the longest of the setup, may take from 15 min- up to several hours, depending upon your hardware and internet connection speed.)
+*   There will be a prompt to download a mod manually. You cannot do this in wabbajack. You will need to download these mods manually with a browser, place them in the downloads     folder then close and restart Wabbajack. Use the links below. Do not extract the mods!
 *   1. <code>[Vanilla HUD Remastered Patch 1.83h](https://www.moddb.com/addons/start/171596?referer=https%3A%2F%2Fvivanewvegas.github.io%2Fhuduivui%2B.html)</code>  
 *   2. <code>[Spice of Life](http://download2134.mediafire.com/vfp4hfknt66g/ln1a2l2th1if8es/Spice+of+Life+Vanilla+v1-5+Release+Candidate.7z)</code>  
 *   Place these files inside your <em>downloads</em> folder (within your <em>Viva New Vegas </em>folder). <strong>Do Not</strong> Extract the mods.  
-*   Launch <strong><code>Wabbajack.exe</code></strong>  
-*   Select “Browse Modlists”  
-*   Download the latest version of <code>Viva New Vegas Wabbajack</code> file.  
-*   In “Installation Location”, choose the <em>Viva New Vegas</em> folder. The “Download Location” should update automatically. 
-    *   Make sure it is pointing correctly to the <code>downloads </code>folder you just created.  
-*   Click the large “Play” button.
-    *   If you get any sort of error, post your Wabbajack log in the #viva-new-vegas-support channel of the [Wabbajack Discord](https://discord.gg/wabbajack). (You can find this log in the same folder as <strong><code>Wabbajack.exe</code></strong> with the file name <strong><code>Wabbajack.current.log</code></strong>.)
-*   If you get a Nexus API request, accept it.
-*   <strong>Wait.</strong> (This process is the longest of the setup, may take from 15 min- up to several hours, depending upon your hardware and internet connection speed.)
-*   Do not close Wabbajack until the bottom left pane says “<strong>Installation is complete. You may exit the program.”</strong>  
+*   You may close Wabbajack when the left pane says.  “Installation is complete. You may exit the program.
 
 *   Once installation is complete, open your <em>Viva New Vegas </em>folder. You should see another folder inside of it called <em>Game Folder Files</em>.
     *   Copy <strong>all </strong>files inside this folder into your <em>Fallout New Vegas </em>game directory  
@@ -137,8 +138,7 @@ You **cannot** use a previously modded Fallout New Vegas game
 FPSFix from New Vegas Tick Fix is an extremely important setting. Sadly this cannot be automated as everyone’s computer specifications are different. Once you set this up you will have minimal to no stutter in your game. 
 In the left pane in mo2 Double click on NVTF- New Vegas Tick Fix. Once it opens select the INI Files Tab.
 Click in NVSE\Plugins\NVTF.ini under Ini Files. Scroll down to iMaxFPSTolerance.
-This number should be set to 240. If you still have stuttering or sound issues replace this number with 300. 
-*IMPORTANT NOTE: Make sure bUseD3D9Ex is set to 0*
+This number should be set to 240. If you still have stuttering or sound issues replace this number with 300.
 
 </h4>
 
@@ -152,13 +152,28 @@ Enjoy!
 
 
 *   If updating your install, make sure all modding applications are closed. Download the new wabbajack file. You will install the modlist as you did before but this time you will be prompted to overwrite your previous install. Click yes and the install will continue.
-*   **Important**: In MO2, you will see mods with large red **[**X**]**’**s** on them saying **“**No valid game data**”**. This is normal. (The mods were merged in order to reduce plugin count.)  
-**Do <span style="text-decoration:underline;">NOT</span> touch them **unless you know what you are doing, otherwise **the modlist WILL break!**
-*   Mod Configuration Menu settings can currently be found on the main guide. However, you are free to use whatever settings you prefer for gameplay. 
-    *   **Note**: Be careful with the settings for **_JSawyer Ultimate Edition_**, as some of them are already covered by _Just Mods Assorted_ (both settings of which are nestled in-game, within MCM) and/or *Stewie’s Tweaks* <span style="text-decoration:underline;">(which is an <code>.ini </code>file, found outside the game)</span>
+*   **Note**: Be careful with the settings for **_JSawyer Ultimate Edition_**, as some of them are already covered by _Just Mods Assorted_ (both settings of which are nestled in-game, within MCM) and/or *Stewie’s Tweaks* <span style="text-decoration:underline;">(which is an <code>.ini </code>file, found outside the game)</span>
     *   You <strong>are </strong>safe to: 
         *   Enable the <em>JSawyer EXP </em>preset
         *   change levels per perk
         *   change max level
+*   iPresentInterval can be set to 0 if you use G/Free-sync, or want to use GPU Driver v-sync
 *   In your FalloutCustom INI, Change <strong><code>INumHWThreads</code> </strong>to the number of threads your CPU has. If you do not know how many threads your CPU has, use CPU-Z to find out. This may help with performance.
 *   <strong><code>fXenonVertLookSpeed</code></strong> and <strong><code>fXenonHorizLookSpeed</code></strong> can be removed if you do not run the game in a <strong>16:9 </strong>aspect ratio. <strong> </strong>
+*   Mod Configuration Menu settings can currently be found below. However, you are free to use whatever settings you prefer for gameplay. 
+
+<h2>MCM SETTINGS</h2>
+
+
+*  JSawyer Ultimate Edition: 
+   * JSawyer Ultimate - Character: Set XP Rewards to Jsawyer Ultimate
+*  Mojave Arsenal:
+   * Uncheck Weapon Mods and Custom Weapons, check everything else. (**Idiot check**: Leave uninstall unchecked)
+*  Melee Cleave:
+   * Change Fist Weapon AOE to 20
+*  JIP CCC:
+   * Optional Settings: Set True Passive Mode to Until hit/player Attacks, Check manage Equipment and Draw with Player, Uncheck Unlimited Companions and Disable Companion Wheel
+*  Just Mods:
+   * Uncheck Hold Breath and Bullet Time
+   * Just Vanilla Sprint: Disable Sprint Jumping
+   
