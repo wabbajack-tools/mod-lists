@@ -74,7 +74,7 @@ Launch MO2 from the exe found in your install folder.
 
 ### Step 7:
 
-In the top right of MO2, use the drop down menu to select `FO4Config`, and hit the `Run` button to the right of that. When opened, direct it to your `Fallout4.exe` location. After this is done, follow these pictures and instructions --->  [Click Here](https://imgur.com/a/0On3H1o). Just make sure to copy those images, and you will be good. After that is done, be sure to click `Save` and close the program.
+In the top right of MO2, use the drop down menu to select `FO4Config`, and hit the `Run` button to the right of that. When opened, direct it to your `Fallout4.exe` location. DO NOT replace the Fallout4Launcher if prompted. After this is done, follow these pictures and instructions --->  [Click Here](https://imgur.com/a/0On3H1o). Just make sure to copy those images, and you will be good. After that is done, be sure to click `Save` and close the program.
 
 ### Step 8:
 
