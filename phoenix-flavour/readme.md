@@ -91,9 +91,6 @@ Press **Esc** and select **MCM**.
 
 * NPC  
   * Enable Weapons - Enable  
-    * Cathedral Weather  
-      * Settings  
-        * Configuration Spell - Disable  
 
 ### **Complete Crafting**
 
