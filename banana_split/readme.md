@@ -34,6 +34,8 @@ If you want to avoid the hassle of future updates from Bethesda, open Steam, rig
 
 Now, we still have a little bit of work left to do, but we’re almost done. Now we can launch the game. Once you finish character customization, you’ll have three options when you try to leave. Take note that this modlist uses **Start Me Up - Basic Version**.  
 
+**DO NOT PRESS C DURING CHARACTER CREATION.** This is a known bug with LooksMenu. The Clothes option WILL LOCK YOUR GAME.
+
 **This is a dream**: You will wake up in Vault 111. Nora is not your wife. Codsworth is not your robot. You’re just a random Prewar Sanctuary citizen.  
 **This is a memory, I don’t want to relive this**: You wake up in Vault 111 as Nate. Everything else is normal.  
 **This is a memory, stay here a while**: Vanilla Fallout 4 intro.  
