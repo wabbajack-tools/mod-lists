@@ -132,31 +132,38 @@ You **cannot** use a previously modded Fallout New Vegas game
         *   (2) a <strong><em>separate</em> </strong>[📁]<strong> <code>FalloutNV_backup.exe</code></strong>. 
 
     From now on, you will be starting the game with <strong><code>FalloutNV.exe</code></strong> from <em>Mod Organizer 2</em> (which Wabbajack automatically installed inside your <em>Viva New Vegas </em>folder).
+    *   Double click New Vegas Tick Fix in the left pane of MO2. In the INI Files tab click on NVSE\Plugins\NVTF.ini. Set **iMaxFPSTolerance** to 1 less than your monitor's refresh rate (line 73)
 
+<h2>Capping FPS</h2>
+<h3>NVIDIA GPU USERS</h3>
 
-<h4>
-FPSFix from New Vegas Tick Fix is an extremely important setting. Sadly this cannot be automated as everyone’s computer specifications are different. Once you set this up you will have minimal to no stutter in your game. 
-In the left pane in mo2 Double click on NVTF- New Vegas Tick Fix. Once it opens select the INI Files Tab.
-Click in NVSE\Plugins\NVTF.ini under Ini Files. Scroll down to iMaxFPSTolerance.
-This number should be set to 240. If you still have stuttering or sound issues replace this number with 300.
+*   Right-click on your desktop and select NVIDIA Control Panel
+*   In the left pane, select Manage 3D settings
+*   In the right pane, select the Program Settings tab and select Fallout - New Vegas from the drop down.
+       *   If it’s not there select Add and select Fallout NV from the pop-up or by selecting the FalloutNV.exe after choosing the Browse option.
+*   Scroll down in the settings box and click on Max Frame Rate
+*   Select the On option and set the limiter to 1 less than your monitor’s refresh rate
+*   Click Apply changes in the bottom right
 
-</h4>
+<h3>AMD GPU USERS</h3>
 
+*   Right-click on your desktop and select AMD Radeon Settings
+*   In the Gaming tab. Select the Fallout New Vegas Profile
+*   In the profil;e Graphics tab, change the following
+       *   Enable Chill(FPS)
+       *   Set Chill Min and Chill Max to 1 less than your monitor’s refresh rate
+*   Hit the home button in the bottom left (settings should save automatically) and make sure the word Enabled appears below the profile name. If not, click the vertical dots to the right of the profile name and select Enable Profile.
 
 Note: If you have a GOG copy of the game, there may be a FalloutNV_lang.esp in the right pane. If so, navigate to the Data folder and delete it.  
 
-You are now ready to play *Viva New Vegas!* Use the top right drop down list, select New Vegas, and click Run to start the game. Unfortunately, the launcher may once again appear, configure your settings as you did before. If you are prompted about a read-only INI, have MO2 remove that flag. 
+You are now ready to play *Viva New Vegas!* Use the top right drop down list, select New Vegas, and click Run to start the game. Unfortunately, the launcher may once again appear, configure your settings as you did before. If you are prompted about a read-only INI, have MO2 remove that flag. Don’t forget to check MCM Settings and Post Install Notes!
+
 Enjoy!
 
 <h2>Post-Install Notes/Troubleshooting</h2>
 
 
 *   If updating your install, make sure all modding applications are closed. Download the new wabbajack file. You will install the modlist as you did before but this time you will be prompted to overwrite your previous install. Click yes and the install will continue.
-*   **Note**: Be careful with the settings for **_JSawyer Ultimate Edition_**, as some of them are already covered by _Just Mods Assorted_ (both settings of which are nestled in-game, within MCM) and/or *Stewie’s Tweaks* <span style="text-decoration:underline;">(which is an <code>.ini </code>file, found outside the game)</span>
-    *   You <strong>are </strong>safe to: 
-        *   Enable the <em>JSawyer EXP </em>preset
-        *   change levels per perk
-        *   change max level
 *   iPresentInterval can be set to 0 if you use G/Free-sync, or want to use GPU Driver v-sync
 *   In your FalloutCustom INI, Change <strong><code>INumHWThreads</code> </strong>to the number of threads your CPU has. If you do not know how many threads your CPU has, use CPU-Z to find out. This may help with performance.
 *   <strong><code>fXenonVertLookSpeed</code></strong> and <strong><code>fXenonHorizLookSpeed</code></strong> can be removed if you do not run the game in a <strong>16:9 </strong>aspect ratio. <strong> </strong>
@@ -164,7 +171,13 @@ Enjoy!
 
 <h2>MCM SETTINGS</h2>
 
-
+*  Immersive HUD:
+   * General Settings: Enable iHud controlled Sneak Meter
+   * Hitpoint Settings: Disable Activate on Combat
+   * Compass and Radar Settings: Disable Activate on combat
+   * Action Points Settings: Disable Activate on combat
+   * Ammo and CND: Settings on Combat
+   * Crosshairs Settings: Disable Activate on combat
 *  JSawyer Ultimate Edition: 
    * JSawyer Ultimate - Character: Set XP Rewards to Jsawyer Ultimate
 *  Mojave Arsenal:
