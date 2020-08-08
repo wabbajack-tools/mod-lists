@@ -57,7 +57,7 @@ You **cannot** use a previously modded Fallout New Vegas game
 *   [Microsoft VC++ 2013](http://download.microsoft.com/download/0/5/6/056dcda9-d667-4e27-8001-8a0c6971d6b1/vcredist_x86.exe)
     *   Run the installer and follow the instructions. (If you get a message that the program is already installed, exit.
 *   [Microsoft VC++ 2015,2017.2019](https://support.microsoft.com/en-gb/help/2977003/the-latest-supported-visual-c-downloads).  
-    *   Click the <code>x64:vc_redist.x64.exe</code></strong> links under the “Visual Studio 2015, 2017, and 2019” header. 
+    *   Click the <code><strong>x86:vc_redist.x86.exe</code></strong> and <code><strong>x64:vc_redist.x64.exe</code></strong> links under the “Visual Studio 2015, 2017, and 2019” header. 
     *   Run <em>both <code>.exe</code></em> files, follow the instructions.  
    (If you get a message that the program is already installed, exit.)
 
