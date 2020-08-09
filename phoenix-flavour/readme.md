@@ -67,18 +67,6 @@ Press **Esc**
       * Tab out of this menu until you're back in the game.  
 Press the **tilde (~) key** to open the console.
 
-Press **Shift+Enter** to open the ENB menu.
-
-* In the left window, expand **EFFECT**  
-  * Uncheck the **EnabledDetailedShadows** option.  
-    * In the left window, expand **ENVIRONMENT**  
-      * Scroll down to **AmbientLightingIntensityInteriorDay** and set this to **1.10**.  
-      * Scroll down to **AmbientLightingIntensityInteriorNight** and set this to **0.85**.  
-        * At the top of the left window, click **Save Configuration**.  
-          * Press **Shift+Enter** to close the ENB menu.
-
-*Feel free to fiddle with ENB settings to suit your preferences.*
-
 Press **Esc** and select **MCM**.
 
 ### **A Matter of Time**
