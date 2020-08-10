@@ -114,7 +114,7 @@ Press **Esc** and select **MCM**.
   * Regard System  
     * Allow Regard - Off  
 * System  
-  * Casted Abilities  
+  * Player Casted Abilities  
     * Command Followers - Disable  
   * Core  
     * Enable ConsoleUtil - Enable  
