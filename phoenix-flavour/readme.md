@@ -110,14 +110,14 @@ Press **Esc** and select **MCM**.
     * Ignore Special Furniture - Enable  
     * Stop During Player Dialogue - Enable  
     * Only Sandbox in Town - Enable  
-  * Gameplay  
-    * Regard System  
+* Gameplay  
+  * Regard System  
     * Allow Regard - Off  
-  * System  
-    * Casted Abilities  
-      * Command Followers - Disable  
-    * Core  
-      * Enable ConsoleUtil - Enable  
+* System  
+  * Player Casted Abilities  
+    * Command Followers - Disable  
+  * Core  
+    * Enable ConsoleUtil - Enable  
 
 ### **GIST Soul Trap**
 
