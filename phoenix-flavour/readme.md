@@ -65,7 +65,6 @@ Press **Esc**
   * **Display**  
     * **Depth of Field** - Move the slider all the way down to 0  
       * Tab out of this menu until you're back in the game.  
-Press the **tilde (~) key** to open the console.
 
 Press **Esc** and select **MCM**.
 
