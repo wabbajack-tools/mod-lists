@@ -50,7 +50,7 @@ Once Skyrim is installed, **make sure you run it once**. (Get to the Skyrim spla
   * Close enblocal.ini.
 * Copy everything inside the Game Folder Files folder.  
 * Paste it into your Skyrim SE directory (steam\steamapps\common\Skyrim Special Edition).  
-  * Just to be really clear about this, since there has been some confusion: there is a folder installed by Wabbajack called "Game Folder Files." The contents of this folder are what you need to copy into your Skyrim folder. Not the folder itself, and definitely not everything that Wabbajack installed on your PC. It's just a few .dll files, skse_loader, things like that. It's only about 65 MB of files.
+  * Just to be really clear about this, since there has been some confusion: there is a folder installed by Wabbajack called "Game Folder Files." The contents of this folder are what you need to copy into your Skyrim folder. Not the folder itself, and definitely not everything that Wabbajack installed on your PC. It's just a few .dll files, skse_loader, things like that. It's only about 12 MB of files.
 
 ## 1.5 First Launch
 
@@ -82,6 +82,11 @@ Press **Esc** and select **MCM**.
 
 * NPC  
   * Enable Weapons - Enable  
+
+### **Cathedral Weather**
+
+* Settings  
+  * Configuration Spell - Disable  
 
 ### **Complete Crafting**
 
