@@ -9,6 +9,8 @@ First published in 2017, [The Phoenix Flavour](https://thephoenixflavour.com/sky
 
 Please join [The Phoenix Flavour Discord](https://discord.gg/BpwXX5f) server for information in regards to the guide itself, or to simply show some appreciation to the TPF team.
 
+The Wabbajack version has an alternate profile inside Mod Organizer 2 for an LotD version of the guide. **Please do not contact Phoenix or Umgak for support with this. This is Lively's pet project and he shall suffer the consequences of his actions.**  
+
 ## 1.2 Requirements Before Installing
 
 * Current build version of Wabbajack. This can be found on the [Wabbajack website](https://www.wabbajack.org/).  
