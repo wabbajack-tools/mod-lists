@@ -43,4 +43,12 @@ describe('test modlists.json', () => {
             expect(modlist.links.machineURL.includes(' ')).toBeFalsy();
         });
     });
+
+    it('games are in lower case', () => {
+        _.forEach(modlists, modlist => {
+            const { game } = modlist;
+            const lowercase = game.toLowerCase();
+            expect(game).toEqual(lowercase);
+        });
+    })
 });
