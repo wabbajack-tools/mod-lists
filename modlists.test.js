@@ -31,6 +31,7 @@ describe('test modlists.json', () => {
         return success;
     }
     it('has no URL errors', () => {
+        const urlList = new Array();
         _.forEach(modlists, modlist => {
             expect(testLink(encodeURI(modlist.links.image))).toBeTruthy();
             expect(testLink(encodeURI(modlist.links.download))).toBeTruthy();
@@ -40,7 +41,11 @@ describe('test modlists.json', () => {
                 throw `Link to readme for ${modlist.links.machineURL} ${modlist.links.readme} must not start with 'https://github.com/'. This will break the website. Get the link for the raw data by using the raw button in the top right corner on GitHub when viewing the file!`
             }
 
+            expect(modlist.links.machineURL).not.toBeUndefined();
+            const foundLink = urlList.find((url) => url === modlist.links.machineURL);
+            expect(foundLink).toBeUndefined();
             expect(modlist.links.machineURL.includes(' ')).toBeFalsy();
+            urlList.push(modlist.links.machineURL);
         });
     });
 
