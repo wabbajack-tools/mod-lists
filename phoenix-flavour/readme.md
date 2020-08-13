@@ -196,7 +196,39 @@ If you're happy with the guide, please consider [donating to Phoenix on her Patr
 
 If you need any support (or just want to hang out with us), feel free to join the [Wabbajack Discord server.](https://discord.gg/wabbajack)
 
-## 1.6 Widescreen Support
+## 1.6 Frequently Asked Questions
+
+**Q:** Hey Lively, why are all these mods disabled on the LotD profile?  
+**A:** Let's break it down.
+
+* Book Covers Skyrim is included in LotD by default. This mod is redundant in the LotD Profile.
+  * No, don't turn it back on.
+* Unique Uniques is included in LotD by default. This mod is redundant in the LotD Profile.
+  * No, don't turn it back on.
+* I don't like Classic Sprinting Redone.
+  * Yes, you can turn it back on if you want.
+* I don't like Undiscovered Means Unknown.
+  * Yes, you can turn it back on if you want.
+* I don't like Subtle But Classless.
+  * Yes, you can turn it back on if you want.
+* All of the AllGUD and Dyndolod Outputs have two versions. Half will be disabled, half will be enabled. Which half depends on which profile you are using.
+  * No, you shouldn't touch these.
+* The Conflict Resolution Patch also has two versions. Which one is enabled is dependent on which profile you are using.
+  * No, you shouldn't touch these.
+
+**Q:** Where is my HUD? Why is my compass gone?  
+**A:** It's hidden by iHud. Press X to toggle it (assuming you followed the MCM instructions above).
+
+**Q:** How do I start LotD?  
+**A:** Option A (my preference) is to choose the Arrived by Boat - Solitude option in the Live Another Life cell. Option B is to just...go to Solitude whenever you want. You'll get the safehouse key delivered by the courier after reaching 50 displays with Option B. Sometimes he takes a while to show up. Be patient.
+
+**Q:** Why don't you have any MCM configurations for the LotD profile?  
+**A:** Two reasons:
+
+* I made it for myself and don't want it to swallow up the core TPF guide, which is the real installer as far as I'm concerned.
+* It's mostly up to personal preference. Do whatever suits you.
+
+## 1.7 Widescreen Support
 *(Please note that I do not own a widescreen setup, and thus cannot help troubleshoot this section. These instructions were provided by @Mantis#1337.)*
 
 Go to the [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) page.  
