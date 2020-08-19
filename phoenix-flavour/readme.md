@@ -198,6 +198,9 @@ If you need any support (or just want to hang out with us), feel free to join th
 
 ## 1.6 Frequently Asked Questions
 
+**Q:** Hey Lively, LotD is disabled, do I just enable it and put it wherever?  
+**A:** No. At the top of Mod Organizer 2, there is a profile dropdown. Right now it says **TPF**. Click it and select **TPF - LotD Edition**.  
+
 **Q:** Hey Lively, why are all these mods disabled on the LotD profile?  
 **A:** Let's break it down.
 
@@ -216,17 +219,20 @@ If you need any support (or just want to hang out with us), feel free to join th
 * The Conflict Resolution Patch also has two versions. Which one is enabled is dependent on which profile you are using.
   * No, you shouldn't touch these.
 
-**Q:** Where is my HUD? Why is my compass gone?  
+**Q:** Hey Lively, where is my HUD? Why is my compass gone?  
 **A:** It's hidden by iHud. Press X to toggle it (assuming you followed the MCM instructions above).
 
-**Q:** How do I start LotD?  
+**Q:** Hey Lively, how do I start LotD?  
 **A:** Option A (my preference) is to choose the Arrived by Boat - Solitude option in the Live Another Life cell. Option B is to just...go to Solitude whenever you want. You'll get the safehouse key delivered by the courier after reaching 50 displays with Option B. Sometimes he takes a while to show up. Be patient.
 
-**Q:** Why don't you have any MCM configurations for the LotD profile?  
+**Q:** Hey Lively, why don't you have any MCM configurations for the LotD profile?  
 **A:** Two reasons:
 
 * I made it for myself and don't want it to swallow up the core TPF guide, which is the real installer as far as I'm concerned.
 * It's mostly up to personal preference. Do whatever suits you.
+
+**Q:** Hey Lively, why is there a random ball of magic floating over my head?  
+**A:** That's QuickLight, which you already configured in the MCM. Press L or Hold E to turn it on and off.  
 
 ## 1.7 Widescreen Support
 *(Please note that I do not own a widescreen setup, and thus cannot help troubleshoot this section. These instructions were provided by @Mantis#1337.)*
