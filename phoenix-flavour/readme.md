@@ -198,7 +198,7 @@ If you need any support (or just want to hang out with us), feel free to join th
 
 ## 1.6 Frequently Asked Questions
 
-**Q:** Hey Lively, LotD is disabled, do I just enable it and put it wherever?  
+**Q:** Hey Lively, LotD (or whatever other mod you felt like looking at) is disabled, do I just enable it and put it wherever?  
 **A:** No. At the top of Mod Organizer 2, there is a profile dropdown. Right now it says **TPF**. Click it and select **TPF - LotD Edition**.  
 
 **Q:** Hey Lively, why are all these mods disabled on the LotD profile?  
