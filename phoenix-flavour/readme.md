@@ -198,6 +198,9 @@ If you need any support (or just want to hang out with us), feel free to join th
 
 ## 1.6 Frequently Asked Questions
 
+**Q:** Hey Lively, why isn't my Night Eye working?  
+**A:** It's an ENB issue. No, I don't have an answer. I personally don't even use the ENB included in the installer because I prefer Serio's. Use the Discord Search function.
+
 **Q:** Hey Lively, LotD (or whatever other mod you felt like looking at) is disabled, do I just enable it and put it wherever?  
 **A:** No. At the top of Mod Organizer 2, there is a profile dropdown. Right now it says **TPF**. Click it and select **TPF - LotD Edition**.  
 
