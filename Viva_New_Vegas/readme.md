@@ -197,7 +197,7 @@ Enjoy!
    * Ammo and CND: Settings on Combat
    * Crosshairs Settings: Disable Activate on combat
 *  JSawyer Ultimate Edition: 
-   * Download this <code>[Config File](https://drive.google.com/file/d/1DhQubJGs0MFUaZ_uIDlSJnUoPkeaKbYH/view?usp=sharing)</code> and install and activate it with MO2. Tweak the ini file with Notepad++ if you wish to make any changes. Make sure there are no files overwriting it in the left pane.
+   * Tweak the ini file in JSUE Config File with Notepad++ if you wish to make any changes. Make sure there are no files overwriting it in the left pane.
 *  Mojave Arsenal:
    * Uncheck Weapon Mods and Custom Weapons, check everything else. (**Idiot check**: Leave uninstall unchecked)
 *  Melee Cleave:
