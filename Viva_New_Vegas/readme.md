@@ -107,9 +107,9 @@ Any anti-virus you have, including Windows Defender, needs to have file exceptio
 *   Click the large “Play” button.
        *    (If you get a warning about unknown files, move your downloads folder outside of your VNV folder, ensure the VNV folder is clear of all files, then close and restart Wabbajack.)
 *   If you get a Nexus API request, accept it.
-*   There will eventually be a prompt to download a mod manually. You cannot do this in wabbajack. You will need to download these mods manually with a browser, place them in the downloads folder then close and restart Wabbajack. Use the links below. Do not extract the mods!
-*   1. <code>[Vanilla HUD Remastered Patch 1.83h](https://www.moddb.com/addons/start/171596?referer=https%3A%2F%2Fvivanewvegas.github.io%2Fhuduivui%2B.html)</code>  
-*   2. <code>[Spice of Life](http://download2134.mediafire.com/vfp4hfknt66g/ln1a2l2th1if8es/Spice+of+Life+Vanilla+v1-5+Release+Candidate.7z)</code>  
+*   There will eventually be a prompt to download a mod manually. You cannot do this in wabbajack. You will need to download this mod manually with a browser, place the archive in the downloads folder then close and restart Wabbajack. Use the link below. Do not extract the mod!
+*   1. <code>[Spice of Life](http://download2134.mediafire.com/vfp4hfknt66g/ln1a2l2th1if8es/Spice+of+Life+Vanilla+v1-5+Release+Candidate.7z)</code>  
+
 *   Place these files inside your <em>downloads</em> folder (within your <em>Viva New Vegas </em>folder). <strong>Do Not</strong> Extract the mods.  
 *   You may close Wabbajack when the left pane says.  “Installation is complete. You may exit the program.
 
