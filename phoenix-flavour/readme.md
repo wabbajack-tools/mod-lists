@@ -201,7 +201,7 @@ If you need any support (or just want to hang out with us), feel free to join th
 **Q:** Hey Lively, why isn't my Night Eye working?  
 **A:** It's an ENB issue. No, I don't have an answer. I personally don't even use the ENB included in the installer because I prefer Serio's. Use the Discord Search function.
 
-**Q:** Hey Lively, LotD (or whatever other mod you felt like looking at) is disabled, do I just enable it and put it wherever?  
+**Q:** Hey Lively, LotD (or whatever other mod I felt like looking at) is disabled, do I just enable it and put it wherever?  
 **A:** No. At the top of Mod Organizer 2, there is a profile dropdown. Right now it says **TPF**. Click it and select **TPF - LotD Edition**.  
 
 **Q:** Hey Lively, why are all these mods disabled on the LotD profile?  
@@ -214,8 +214,6 @@ If you need any support (or just want to hang out with us), feel free to join th
 * I don't like Classic Sprinting Redone.
   * Yes, you can turn it back on if you want.
 * I don't like Undiscovered Means Unknown.
-  * Yes, you can turn it back on if you want.
-* I don't like Subtle But Classless.
   * Yes, you can turn it back on if you want.
 * All of the AllGUD and Dyndolod Outputs have two versions. Half will be disabled, half will be enabled. Which half depends on which profile you are using.
   * No, you shouldn't touch these.
