@@ -192,8 +192,6 @@ Press **Esc** and select **MCM**.
   * Load Preset  
     * Realistic  
 
-The Wabbajack installer comes bundled with [Serio's ENB](https://www.nexusmods.com/skyrimspecialedition/mods/30506?tab=description). If you choose to keep this preset, I suggest you follow the tweaks mentioned [here](https://thephoenixflavour.com/skyrim-se/new-game/enb-tweaks/).
-
 If you're happy with the guide, please consider [donating to Phoenix on her Patreon](https://www.patreon.com/thephoenixflavour). None of this is possible without her and her team.
 
 If you need any support (or just want to hang out with us), feel free to join the [Wabbajack Discord server.](https://discord.gg/wabbajack)
