@@ -201,6 +201,9 @@ If you need any support (or just want to hang out with us), feel free to join th
 **Q:** Hey Lively, why isn't my Night Eye working?  
 **A:** It's an ENB issue. No, I don't have an answer. I personally don't even use the ENB included in the installer because I prefer Serio's. Use the Discord Search function.
 
+**Q:** Hey Lively, why are there black bars on the top and bottom of my screen?  
+**A:** It's an ENB issue. To disable it, open the ENB menu (shift+enter in game), find POSTPASS on the right side, and disable **Letterbox**.
+
 **Q:** Hey Lively, LotD (or whatever other mod I felt like looking at) is disabled, do I just enable it and put it wherever?  
 **A:** No. At the top of Mod Organizer 2, there is a profile dropdown. Right now it says **TPF**. Click it and select **TPF - LotD Edition**.  
 
