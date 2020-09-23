@@ -53,7 +53,7 @@ After all of these steps are complete, you may delete the WorkBase folder. If yo
 
 *Note that you CANNOT use the HD DLC for BiRaitBec’s texture optimization. You’ll see missing textures everywhere if you do.*
 
-#### **_Installation Instructions:_**
+### **_Installation Instructions:_**
 
 1. Download the latest version of Wabbajack.
 2. Create a new folder at the root of a drive (Example: D:\Wabbajack).
