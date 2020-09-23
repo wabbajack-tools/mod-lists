@@ -46,7 +46,7 @@ Navigate to your Fallout4/Data folder and **copy** these 15 files:
 Inside the new folder, you should see another folder called “**textures**”. **Cut** this textures folder and **paste** it into **Workbase/PatchedFiles**.
 **Repeat the previous two steps** for Part Two and Part Three of the Main Repack archives.
 Run the **installer.bat** file inside of WorkBase.
-When it is done, copy and paste all of the files inside of the PatchedBa2 folder into your Fallout4/Data folder.
+When it is done, copy and paste all of the files inside of the PatchedBa2 folder into your Fallout4/Data folder AFTER WABBAJACK IS FINISHED INSTALLING.
   *  Alternatively, you can make a new folder inside Magnum Opus/mods and paste the archives into there, then activate the new mod in Mod Organizer 2. This will keep your Fallout 4 installation completely clean.  
   
 After all of these steps are complete, you may delete the WorkBase folder. If you have the space, I advise making a backup of both the vanilla ba2 files as well as the patched ba2 files. It will save you the trouble of having to redownload them again later.
