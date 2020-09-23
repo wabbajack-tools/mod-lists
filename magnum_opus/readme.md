@@ -1,5 +1,4 @@
-### Magnum Opus ![build-status](https://img.shields.io/endpoint?label=%20&url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2Fbanana_split%2Fbadge.json)
-
+### Magnum Opus
 **Do not contact mod authors directly for support.**  
 All support must be directed to the relevant discussion channel on the [Wabbajack Discord](https://discord.gg/wabbajack).  
 Pirated games and mods are not supported.  
