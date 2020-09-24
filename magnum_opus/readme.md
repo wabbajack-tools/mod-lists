@@ -75,13 +75,14 @@ After all of these steps are complete, you may delete the WorkBase folder. If yo
 
 *Note that you CANNOT use the HD DLC for BiRaitBec’s texture optimization. You’ll see missing textures everywhere if you do.*
 
-That’s it! Launch Mod Organizer 2 inside the Magnum Opus folder. From now on, launch Fallout 4 via the “F4SE” option.  
 **Optional:** If you want to avoid the hassle of future updates from Bethesda:
   *  Open Steam  
   *  Right-click Fallout 4 in your Library  
   *  Click Properties  
   *  Go to the Updates tab, and change the Automatic Update option to “Only update this game when I launch it.”  
 *Since we’re always launching from F4SE, it will never automatically update again.*  
+
+#### That’s it! Launch Mod Organizer 2 inside the Magnum Opus folder. From now on, you must launch Fallout 4 via the “F4SE” option in Mod Organizer 2.  
 
 Now, we still have a little bit of work left to do, but we’re almost done. Before you go any further, you should cap your FPS at 60. You can do this through your gpu driver settings, enabling vsync, or setting an fps limiter in your enb settings (if you choose to add one). 
 If you choose to enable vsync, you need to open the ini editor in Mod Organizer 2 and look for the line **iPresetInterval=** under the **[Display]** heading and change it to a **1**, so the end result is **iPresetInterval=1**.  
