@@ -16,6 +16,26 @@ An incredibly clean and stable list featuring tons of new quests & locations, va
   
   Once Fallout 4 is installed, *run it once through Steam.* This will establish registry keys and allow Wabbajack to locate the game on your PC. 
 
+### **_Installation Instructions:_**
+
+1. Download the latest version of Wabbajack.
+2. Create a new folder at the root of a drive (Example: D:\Wabbajack).
+3. Place the Wabbajack.exe into this new folder.
+4. Launch Wabbajack.exe. Download the MagnumOpus.wabbajack file from the Wabbajack Modlist Gallery.
+5. In “Installation Location” choose a blank folder at the root of a drive (example: D:\Magnum Opus). **DO NOT** install your modlist to the same folder where you put Wabbajack.exe.  **DO NOT** install into your Steam game path.
+6. The “Download Location” will update automatically. You can change it if you want.
+7. Click the "Play" arrow.
+8. Make sure to accept the Nexus API request if your browser asks for it.
+9. When Wabbajack completes the installation (you can check the Wabbajack.current.log to confirm it completed successfully), you may close the program.
+
+#### **_Post Installation Instructions:_**
+
+Navigate back to your Magnum Opus installation folder.  
+Open “Game Folder Files”  
+Copy everything in this folder.  
+Paste it into your Fallout 4 directory (steam/steamapps/common/Fallout 4).  
+  *  Just to be really clear about this: do not copy/paste the entire folder. Only the **contents** of Game Folder Files. It's only five individual little files totaling under 2 MB.
+
 #### This section is **optional but highly recommended**. It can be done at any time before or after installation.
 
 Go to [BiRaitBec’s Modding Guide](https://www.nexusmods.com/fallout4/mods/23556?tab=description).  
@@ -54,26 +74,6 @@ When it is done, copy and paste all of the files inside of the PatchedBa2 folder
 After all of these steps are complete, you may delete the WorkBase folder. If you have the space, I advise making a backup of both the vanilla ba2 files as well as the patched ba2 files. It will save you the trouble of having to redownload them again later.
 
 *Note that you CANNOT use the HD DLC for BiRaitBec’s texture optimization. You’ll see missing textures everywhere if you do.*
-
-### **_Installation Instructions:_**
-
-1. Download the latest version of Wabbajack.
-2. Create a new folder at the root of a drive (Example: D:\Wabbajack).
-3. Place the Wabbajack.exe into this new folder.
-4. Launch Wabbajack.exe. Download the MagnumOpus.wabbajack file from the Wabbajack Modlist Gallery.
-5. In “Installation Location” choose a blank folder at the root of a drive (example: D:\Magnum Opus). **DO NOT** install your modlist to the same folder where you put Wabbajack.exe.  **DO NOT** install into your Steam game path.
-6. The “Download Location” will update automatically. You can change it if you want.
-7. Click the "Play" arrow.
-8. Make sure to accept the Nexus API request if your browser asks for it.
-9. When Wabbajack completes the installation (you can check the Wabbajack.current.log to confirm it completed successfully), you may close the program.
-
-#### **_Post Installation Instructions:_**
-
-Navigate back to your Magnum Opus installation folder.  
-Open “Game Folder Files”  
-Copy everything in this folder.  
-Paste it into your Fallout 4 directory (steam/steamapps/common/Fallout 4).  
-  *  Just to be really clear about this: do not copy/paste the entire folder. Only the **contents** of Game Folder Files. It's only five individual little files totaling under 2 MB.
 
 That’s it! Launch Mod Organizer 2 inside the Magnum Opus folder. From now on, launch Fallout 4 via the “F4SE” option.  
 **Optional:** If you want to avoid the hassle of future updates from Bethesda:
