@@ -3,6 +3,8 @@
 All support must be directed to the relevant discussion channel on the [Wabbajack Discord](https://discord.gg/wabbajack).  
 Pirated games and mods are not supported.  
 
+Feel free to [buy me a pizza or something](https://www.patreon.com/nicholasjae).
+
 **Modlist Summary:**  
 An incredibly clean and stable list featuring tons of new quests & locations, vastly expanded settlement systems, a massively interconnected collection of NPC overhauls, and of course hundreds of new outfits, armors, & weapons.
 
