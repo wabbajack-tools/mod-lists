@@ -166,4 +166,6 @@ Look, I'm not perfect. If your game CTDs, upload the most recent crashlog from \
   *  hknpCompressedMeshShape or flexRelease_x64.dll  
     * Open your MO2 ini editor, go to Fallout4Prefs.ini, and scroll to the bottom to see the NVFlex header. Make sure it says bNVFlexEnable=0.  
 
+Definitely leaning toward driver versions for that second one. Two users each with a 2080s. One with v456.38 crashed, one with v452.06 doesn't crash. It's a start.
+
 I'll keep trying to update this as I learn more. Please bear in mind, Fallout 4 crashlogs are *very* new, and many of us are still figuring out how to read them properly. The more I read, the more patterns I can find, which means more potential solutions. Thanks for your time.
