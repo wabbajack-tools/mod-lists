@@ -149,3 +149,21 @@ Move the UI elements to your liking (or leave as is).  Once satisfied hit Ctrl+S
   *  Note that Magnum Opus already has a custom Def UI preset, aptly titled Lively's HUD Preset. Disable this mod in MO2 if you want to make your own.  
   
 Create a new folder DEF_CONF in the same location as HUDMenuSet.swf and save the new XML file inside the new folder  
+
+#### Crashlogs:  
+
+Look, I'm not perfect. If your game CTDs, upload the most recent crashlog from \Documents\My Games\Fallout4\F4SE\ into the #magnum-opus-support channel on the Wabbajack Discord. I'm going to start trying to keep an open record here of issues I've seen with potential solutions.
+
+  *  MSVCR110.dll
+    *  Try reinstalling/repairing VC Redistributable from Visual Studio 2019.
+  *  nvwgf2umx.dll
+    *  This is an issue with video drivers. Here are some potential solutions:
+      *  Roll back to an older version of your gpu drivers.
+      *  Open your MO2 ini editor and make the following changes under the Display header:
+        *  bMaximizeWindow=1
+        *  bBorderless=1
+        *  bFull Screen=0 
+  *  hknpCompressedMeshShape or flexRelease_x64.dll
+    * Open your MO2 ini editor, go to Fallout4Prefs.ini, and scroll to the bottom to see the NVFlex header. Make sure it says bNVFlexEnable=0.
+
+I'll keep trying to update this as I learn more. Please bear in mind, Fallout 4 crashlogs are *very* new, and many of us are still figuring out how to read them properly. The more I read, the more patterns I can find, which means more potential solutions. Thanks for your time.
