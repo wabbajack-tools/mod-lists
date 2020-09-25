@@ -100,16 +100,25 @@ Once you reach the exit to Vault 111 and ride the elevator, we can finish settin
 *_Note: Anything involving hotkeys can be set up however you like. These are simply the way I have them set up for myself._
 
 Companion Command Hotkeys  
-![alt text](https://i.imgur.com/nJKi2JB.png)  
+![alt text](https://i.imgur.com/zdWBj7f.png)  
 
 Faster Workshop Hotkey  
-![alt text](https://i.imgur.com/QOVlpjA.png)  
+![alt text](https://i.imgur.com/tEU1HFi.png)  
 
-Workshop Framework - Allow Settlements to Leave - Off  
-![alt text](https://i.imgur.com/vnvLw7O.png)  
+More AGOMBz - More attacks - Swap the first two categories.  
+![alt text](https://i.imgur.com/j1yfx47.png)
 
-Workshop Plus Hotkeys  
-![alt text](https://i.imgur.com/jpEhzuZ.png)  
+More AGOMBz - More...Disable - Disable Radstags.
+![alt text](https://i.imgur.com/niLT1kH.png)
+
+Workshop Framework - Turn off Allow Settlements to Leave (optional) and Shelter Mechanic (optional)  
+![alt text](https://i.imgur.com/NDfG7LO.png)  
+
+Workshop Plus - Options - Disable Clear Weather.  
+![alt text](https://i.imgur.com/M3Fl1sJ.png)  
+
+Workshop Plus - Hotkeys
+![alt text](https://i.imgur.com/Y3FvKmU.png)
 
 **Holotape Settings:**   
 Open the Beantown Interiors Holotape in your Pipboy and select the following options:  
