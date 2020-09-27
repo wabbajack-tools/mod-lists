@@ -10,11 +10,11 @@ An incredibly clean and stable list featuring tons of new quests & locations, va
 
 #### **_Requirements Before Installing:_**
 
-  *Current build version of [Wabbajack](https://www.wabbajack.org/#/).  
-  *Clean install of Fallout 4, **without the official Hi Def DLC**.  
-  *A Nexusmods account. Nexus Premium is highly recommended for automatic download support.  
-  *70 gigs of free space. Note that this number does NOT include your Fallout 4 installation.  
-  *  *That’s 26 GB for downloads, 41 GB for installation, and a little extra wiggle room to be safe.*  
+  *  Current build version of [Wabbajack](https://www.wabbajack.org/#/).  
+  *  Clean install of Fallout 4, **without the official Hi Def DLC**.  
+  *  A Nexusmods account. Nexus Premium is highly recommended for automatic download support.  
+  *  70 gigs of free space. Note that this number does NOT include your Fallout 4 installation.  
+    *  That’s 26 GB for downloads, 41 GB for installation, and a little extra wiggle room to be safe.  
   
   Once Fallout 4 is installed, *run it once through Steam.* This will establish registry keys and allow Wabbajack to locate the game on your PC. 
 
