@@ -143,7 +143,7 @@ That's it! Have fun!
 
 3) Install [DEF_UI HUDMenuSet Ultrawidescreen](https://www.nexusmods.com/fallout4/mods/43277)
 
-4) Download a [standalone Adobe Flash Player from Adobe] (https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flashplayer_32_sa_debug.exe)
+4) Download a [standalone Adobe Flash Player from Adobe](https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flashplayer_32_sa_debug.exe)
 
 5) Paste the "flashplayer_32_sa_debug.exe" in the same location as HUDMenuSet.swf  
 
