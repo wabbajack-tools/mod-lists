@@ -143,12 +143,15 @@ That's it! Have fun!
 
 3) Install [DEF_UI HUDMenuSet Ultrawidescreen](https://www.nexusmods.com/fallout4/mods/43277)
 
-Get a standalone Adobe Flash Player from Adobe and install in the same location as HUDMenuSet.swf  
-Execute the standalone Adobe Flash Player and load HUDMenuSet.swf (from here it will work as the DEF_UI HUDMenuSet.exe)  
-Move the UI elements to your liking (or leave as is).  Once satisfied hit Ctrl+S  
+4) Download a [standalone Adobe Flash Player from Adobe] (https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flashplayer_32_sa_debug.exe)
+
+5) Paste the "flashplayer_32_sa_debug.exe" in the same location as HUDMenuSet.swf  
+
+6) Execute the standalone Adobe Flash Player(the .exe you just downloaded) and load HUDMenuSet.swf (from here it will work as the DEF_UI HUDMenuSet.exe)  
+
+7) Move the UI elements to your liking (or leave as is). Once satisfied hit Ctrl+S  
   *  Note that Magnum Opus already has a custom Def UI preset, aptly titled Lively's HUD Preset. Disable this mod in MO2 if you want to make your own.  
-  
-Create a new folder DEF_CONF in the same location as HUDMenuSet.swf and save the new XML file inside the new folder  
+8) Create a new folder DEF_CONF in the same location as HUDMenuSet.swf and save the new XML file inside the new folder  
 
 #### Crashlogs:  
 
