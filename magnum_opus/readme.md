@@ -36,7 +36,7 @@ Navigate back to your Magnum Opus installation folder.
 Open “Game Folder Files”  
 Copy everything in this folder.  
 Paste it into your Fallout 4 directory (steam/steamapps/common/Fallout 4).  
-  *  Just to be really clear about this: do not copy/paste the entire folder. Only the **contents** of Game Folder Files. It's only five individual little files totaling under 2 MB.
+  *  Just to be really clear about this: do not copy/paste the entire folder. Only the **contents** of Game Folder Files. It's only six individual little files totaling under 2 MB.
 
 #### This section is **optional but highly recommended**. It can be done at any time before or after installation.
 
