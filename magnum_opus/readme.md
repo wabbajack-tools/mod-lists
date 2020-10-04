@@ -11,7 +11,7 @@ An incredibly clean and stable list featuring tons of new quests & locations, va
 #### **_Requirements Before Installing:_**
 
   *  Current build version of [Wabbajack](https://www.wabbajack.org/#/).  
-  *  Clean install of Fallout 4, **without the official Hi Def DLC**.  
+  *  Clean install of Fallout 4, **without the official Hi Def DLC**.  Note that if you previously used BiRatBec's Workbase and replaced the texture archives in Fallout 4\data, you will need to make a backup of these and verify files to obtain the original, unmodified texture archives.
   *  A Nexusmods account. Nexus Premium is highly recommended for automatic download support.  
   *  100 gigs of free space. Note that this number does NOT include your Fallout 4 installation.  
     *  That’s 26 GB for downloads, 67 GB for installation, and a little extra wiggle room to be safe.  
