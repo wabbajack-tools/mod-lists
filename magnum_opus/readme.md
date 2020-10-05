@@ -8,6 +8,8 @@ Feel free to [buy me a pizza or something](https://www.patreon.com/nicholasjae).
 **Modlist Summary:**  
 An incredibly clean and stable list featuring tons of new quests & locations, vastly expanded settlement systems, a massively interconnected collection of NPC overhauls, and of course hundreds of new outfits, armors, & weapons.
 
+This list is NOT built with Survival Mode in mind. I don't play it. I don't like it. If you want Survival, you should play [Fallout 4 Enhanced Edition](https://www.wabbajack.org/#/modlists/info?machineURL=fallout_4_enhanced_edition).
+
 #### **_Requirements Before Installing:_**
 
   *  Current build version of [Wabbajack](https://www.wabbajack.org/#/).  
