@@ -1,4 +1,4 @@
-![Logo](/image/Elysium_Logo.png)
+![Logo](/elysium/Elysium_Logo.png)
 
 # Elysium
 
