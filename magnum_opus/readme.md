@@ -89,7 +89,7 @@ After all of these steps are complete, you may delete the WorkBase folder. If yo
 #### That’s it! Launch Mod Organizer 2 inside the Magnum Opus folder. From now on, you must launch Fallout 4 via the “F4SE” option in Mod Organizer 2.  
 
 Now, we still have a little bit of work left to do, but we’re almost done. Before you go any further, you should cap your FPS at 60. You can do this through your gpu driver settings, enabling vsync, or setting an fps limiter in your enb settings (if you choose to add one). 
-If you choose to enable vsync, you need to open the ini editor in Mod Organizer 2 and look for the line **iPresentInterval=** under the **[Display]** heading and change it to a **1**, so the end result is **iPresentInterval=1**.  
+If you choose to enable vsync, you need to open the ini editor in Mod Organizer 2. At the top of the window, there are three .ini files listed. Select the Fallout4Prefs.ini and look for the line **iPresentInterval=0** under the **[Display]** heading, then change it to a **1**, so the end result is **iPresentInterval=1**.  
 
 Now we can launch the game. Once you finish character customization, you’ll have two options when you try to leave. Take note that this modlist uses **Start Me Up - Basic Version**.  
 
