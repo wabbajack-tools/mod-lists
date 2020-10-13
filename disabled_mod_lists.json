@@ -91,25 +91,51 @@
       "SizeOfInstalledFiles": 90768471961
     }
   },
+
   {
-    "title": "Viva New Vegas",
-    "description": "An unofficial modlist that is slightly modified from the original vanilla+ viva new vegas guide created by Qolore7.",
-    "version": "2.3.5",
-    "author": "LadyZeefa",
-    "game": "falloutnewvegas",
-    "tags": ["Unofficial"],
+    "title": "Dungeons & Deviousness",
+    "description": "Dungeons & Deviousness is a NSFW Skyrim SE modlist intended to be fully playable with a semi-hardcore survival experience included. Rather than a screenshot simulator or lightweight add-on to vanilla Skyrim, Dungeons & Deviousness seeks to be as intrusive as possible in the systems present in Skyrim and overhaul them to fit the theme.",
+    "version": "1.0.0",
+    "author": "ForgottenGlory",
+    "game": "skyrimspecialedition",
+    "tags": ["Official"],
+    "nsfw": true,
     "links": {
-      "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/Viva_New_Vegas/VNV.png",
-      "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/Viva_New_Vegas/readme.md",
-      "download": "https://wabbajack.b-cdn.net/VNV%202.3.5.wabbajack_5b9bcbf8-c120-47f9-b346-802fc33974ca",
-      "machineURL": "vnv"
+      "image": "https://raw.githubusercontent.com/ForgottenGlory/Dungeons-Deviousness/master/D%26D%20Logo.png",
+      "readme": "https://raw.githubusercontent.com/ForgottenGlory/Dungeons-Deviousness/master/README.md",
+      "download": "https://wabbajack.b-cdn.net/Dungeons%20&%20Deviousness.wabbajack_ccb233e1-0e1d-4d55-ac8c-cd6eac2cef65",
+      "machineURL": "dungeons_and_deviousness"
     },
     "download_metadata": {
-      "Hash": "2+cH9W3Tc9Y=",
-      "Size": 3311811,
-      "NumberOfArchives": 237,
-      "SizeOfArchives": 7283208835,
-      "NumberOfInstalledFiles": 52546,
-      "SizeOfInstalledFiles": 15874204546
-    }
-  },
+      "Hash": "VPANWax0Nt4=",
+      "Size": 1251933681,
+      "NumberOfArchives": 541,
+      "SizeOfArchives": 60587233425,
+      "NumberOfInstalledFiles": 135898,
+      "SizeOfInstalledFiles": 136570345107
+    },
+      
+},
+	{
+		"title": "Viva New Vegas",
+		"description": "An unofficial modlist that is slightly modified from the original vanilla+ viva new vegas guide created by Qolore7.",
+		"version": "3.2.6",
+		"author": "LadyZeefa",
+		"game": "falloutnewvegas",
+		"tags": ["Unofficial"],
+		"links": {
+			"image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/Viva_New_Vegas/VNV.png",
+			"readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/Viva_New_Vegas/readme.md",
+			"download": "https://wabbajack.b-cdn.net/Unofficial%20VNV.wabbajack_bfbc5182-450d-447f-9c1d-7849c691e6ed",
+			"machineURL": "vnv"
+		},
+		"download_metadata": {
+			"Hash": "lgiBCBu+GBc=",
+			"Size": 4186344,
+			"NumberOfArchives": 267,
+			"SizeOfArchives": 7642474412,
+			"NumberOfInstalledFiles": 54869,
+			"SizeOfInstalledFiles": 17147689125
+		}
+  }
+]

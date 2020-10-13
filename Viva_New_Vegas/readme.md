@@ -60,6 +60,13 @@ You **cannot** use a previously modded Fallout New Vegas game
     *   Click the <code><strong>x86:vc_redist.x86.exe</code></strong> and <code><strong>x64:vc_redist.x64.exe</code></strong> links under the “Visual Studio 2015, 2017, and 2019” header. 
     *   Run <em>both <code>.exe</code></em> files, follow the instructions.  
    (If you get a message that the program is already installed, exit.)
+   
+   
+      <h2>Configure Antivirus:</h2>
+    
+    
+Any anti-virus you have, including Windows Defender, needs to have file exceptions made for your Root Game folder and VNV folder. If you don't do this, critical files from mods or tools can be deleted by your anti-virus. It is also recommended (but not required) to completely disable your anti-virus for the duration of the guide to avoid downloaded files being flagged as dangerous.
+   
 
 <h2>Installation Instructions</h2>
 
@@ -100,10 +107,9 @@ You **cannot** use a previously modded Fallout New Vegas game
 *   Click the large “Play” button.
        *    (If you get a warning about unknown files, move your downloads folder outside of your VNV folder, ensure the VNV folder is clear of all files, then close and restart Wabbajack.)
 *   If you get a Nexus API request, accept it.
-*   **Now Wait.** (This process is the longest of the setup, may take from 15 min- up to several hours, depending upon your hardware and internet connection speed.)
-*   There will be a prompt to download a mod manually. You cannot do this in wabbajack. You will need to download these mods manually with a browser, place them in the downloads     folder then close and restart Wabbajack. Use the links below. Do not extract the mods!
-*   1. <code>[Vanilla HUD Remastered Patch 1.83h](https://www.moddb.com/addons/start/171596?referer=https%3A%2F%2Fvivanewvegas.github.io%2Fhuduivui%2B.html)</code>  
-*   2. <code>[Spice of Life](http://download2134.mediafire.com/vfp4hfknt66g/ln1a2l2th1if8es/Spice+of+Life+Vanilla+v1-5+Release+Candidate.7z)</code>  
+*   There will eventually be a prompt to download a mod manually. You cannot do this in wabbajack. You will need to download this mod manually with a browser, place the archive in the downloads folder then close and restart Wabbajack. Use the link below. Do not extract the mod!
+*   1. <code>[Spice of Life](http://download2134.mediafire.com/vfp4hfknt66g/ln1a2l2th1if8es/Spice+of+Life+Vanilla+v1-5+Release+Candidate.7z)</code>  
+
 *   Place these files inside your <em>downloads</em> folder (within your <em>Viva New Vegas </em>folder). <strong>Do Not</strong> Extract the mods.  
 *   You may close Wabbajack when the left pane says.  “Installation is complete. You may exit the program.
 
@@ -132,7 +138,7 @@ You **cannot** use a previously modded Fallout New Vegas game
         *   (2) a <strong><em>separate</em> </strong>[📁]<strong> <code>FalloutNV_backup.exe</code></strong>. 
 
     From now on, you will be starting the game with <strong><code>FalloutNV.exe</code></strong> from <em>Mod Organizer 2</em> (which Wabbajack automatically installed inside your <em>Viva New Vegas </em>folder).
-    *   Double click New Vegas Tick Fix in the left pane of MO2. In the INI Files tab click on NVSE\Plugins\NVTF.ini. Set **iMaxFPSTolerance** to 1 less than your monitor's refresh rate (line 73)
+    *   Double click New Vegas Tick Fix in the left pane of MO2. In the INI Files tab click on NVSE\Plugins\NVTF.ini. Set **iMaxFPSTolerance** to 1 less than your monitor's refresh rate
 
 <h2>Capping FPS</h2>
 <h3>NVIDIA GPU USERS</h3>
@@ -156,6 +162,17 @@ You **cannot** use a previously modded Fallout New Vegas game
 
 Note: If you have a GOG copy of the game, there may be a FalloutNV_lang.esp in the right pane. If so, navigate to the Data folder and delete it.  
 
+
+<h2>(Optional) Millenia’s Environment Map Shader Fix</h2>
+
+*   Navigate to **Documents/My Games/FalloutNV** and open **RendererInfo.txt**
+*   Find the Shader Package line (usually the second to last) remember the number next to it
+*   On the mod page, download the file which corresponds to the number from your RendererInfo.txt
+*   Double click the downloaded mod in the download tab in the right pane of MO2
+*   Install the mod into the empty **Millenia's Environment Map Shader Fix** mod folder
+*   Activate the mod
+
+
 You are now ready to play *Viva New Vegas!* Use the top right drop down list, select New Vegas, and click Run to start the game. Unfortunately, the launcher may once again appear, configure your settings as you did before. If you are prompted about a read-only INI, have MO2 remove that flag. Don’t forget to check MCM Settings and Post Install Notes!
 
 Enjoy!
@@ -164,6 +181,7 @@ Enjoy!
 
 
 *   If updating your install, make sure all modding applications are closed. Download the new wabbajack file. You will install the modlist as you did before but this time you will be prompted to overwrite your previous install. Click yes and the install will continue.
+*   **Important Note**: No ENB of any kind is supported for VNV. Use one at your own risk. Check the wabbajack discord for instructions on using reshade if interested.
 *   iPresentInterval can be set to 0 if you use G/Free-sync, or want to use GPU Driver v-sync
 *   In your FalloutCustom INI, Change <strong><code>INumHWThreads</code> </strong>to the number of threads your CPU has. If you do not know how many threads your CPU has, use CPU-Z to find out. This may help with performance.
 *   <strong><code>fXenonVertLookSpeed</code></strong> and <strong><code>fXenonHorizLookSpeed</code></strong> can be removed if you do not run the game in a <strong>16:9 </strong>aspect ratio. <strong> </strong>
@@ -179,7 +197,7 @@ Enjoy!
    * Ammo and CND: Settings on Combat
    * Crosshairs Settings: Disable Activate on combat
 *  JSawyer Ultimate Edition: 
-   * JSawyer Ultimate - Character: Set XP Rewards to Jsawyer Ultimate
+   * Tweak the ini file in JSUE Config File with Notepad++ if you wish to make any changes. Make sure there are no files overwriting it in the left pane.
 *  Mojave Arsenal:
    * Uncheck Weapon Mods and Custom Weapons, check everything else. (**Idiot check**: Leave uninstall unchecked)
 *  Melee Cleave:

@@ -7,7 +7,7 @@
 
 First published in 2017, [The Phoenix Flavour](https://thephoenixflavour.com/skyrim-se/introduction/) is a veteran among Skyrim SE guides. Over the past years, it has slowly evolved into a full-grown guide and made a name for itself as being easy to follow and thorough all around. It transitioned from a modular guide with too many ideas into a more streamlined approach. Thanks to the contributions of some incredibly talented and helpful people, we now feature more than 600 mods that work flawlessly together!
 
-Please join [The Phoenix Flavour Discord](https://discord.gg/BpwXX5f) server for information in regards to the guide itself, or to simply show some appreciation to the TPF team.
+Please join [The Phoenix Flavour Discord](https://discord.gg/BpwXX5f) server for information in regards to the guide itself, or to simply show some appreciation to the TPF team. 
 
 ## 1.2 Requirements Before Installing
 
@@ -44,9 +44,9 @@ Once Skyrim is installed, **make sure you run it once**. (Get to the Skyrim spla
 
 * Navigate back to your Phoenix Flavour installation folder.  
 * Open "Game Folder Files"  
-* Copy everything in this folder.  
+* Copy everything inside the Game Folder Files folder.  
 * Paste it into your Skyrim SE directory (steam\steamapps\common\Skyrim Special Edition).  
-  * Just to be really clear about this, since there has been some confusion: there is a folder installed by Wabbajack called "Game Folder Files." The contents of this folder are what you need to copy into your Skyrim folder. Not the folder itself, and definitely not everything that Wabbajack installed on your PC. It's just a few .dll files, skse_loader, things like that. It's only about 65 MB of files.
+  * Just to be really clear about this, since there has been some confusion: there is a folder installed by Wabbajack called "Game Folder Files." The contents of this folder are what you need to copy into your Skyrim folder. Not the folder itself, and definitely not everything that Wabbajack installed on your PC. It's just a few .dll files, skse_loader, things like that. It's only about 12 MB of files.
 
 ## 1.5 First Launch
 
@@ -65,19 +65,6 @@ Press **Esc**
   * **Display**  
     * **Depth of Field** - Move the slider all the way down to 0  
       * Tab out of this menu until you're back in the game.  
-Press the **tilde (~) key** to open the console.
-
-Press **Shift+Enter** to open the ENB menu.
-
-* In the left window, expand **EFFECT**  
-  * Uncheck the **EnabledDetailedShadows** option.  
-    * In the left window, expand **ENVIRONMENT**  
-      * Scroll down to **AmbientLightingIntensityInteriorDay** and set this to **1.10**.  
-      * Scroll down to **AmbientLightingIntensityInteriorNight** and set this to **0.85**.  
-        * At the top of the left window, click **Save Configuration**.  
-          * Press **Shift+Enter** to close the ENB menu.
-
-*Feel free to fiddle with ENB settings to suit your preferences.*
 
 Press **Esc** and select **MCM**.
 
@@ -91,6 +78,11 @@ Press **Esc** and select **MCM**.
 
 * NPC  
   * Enable Weapons - Enable  
+
+### **Cathedral Weather**
+
+* Settings  
+  * Configuration Spell - Disable  
 
 ### **Complete Crafting**
 
@@ -119,14 +111,14 @@ Press **Esc** and select **MCM**.
     * Ignore Special Furniture - Enable  
     * Stop During Player Dialogue - Enable  
     * Only Sandbox in Town - Enable  
-  * Gameplay  
-    * Regard System  
+* Gameplay  
+  * Regard System  
     * Allow Regard - Off  
-  * System  
-    * Casted Abilities  
-      * Command Followers - Disable  
-    * Core  
-      * Enable ConsoleUtil - Enable  
+* System  
+  * Player Casted Abilities  
+    * Command Followers - Disable  
+  * Core  
+    * Enable ConsoleUtil - Enable  
 
 ### **GIST Soul Trap**
 
@@ -201,3 +193,32 @@ Press **Esc** and select **MCM**.
 If you're happy with the guide, please consider [donating to Phoenix on her Patreon](https://www.patreon.com/thephoenixflavour). None of this is possible without her and her team.
 
 If you need any support (or just want to hang out with us), feel free to join the [Wabbajack Discord server.](https://discord.gg/wabbajack)
+
+## 1.6 Frequently Asked Questions
+
+**Q:** Hey Lively, why isn't my Night Eye working?  
+**A:** It's an ENB issue. No, I don't have an answer. I personally don't even use the ENB included in the installer because I prefer Serio's. Use the Discord Search function.
+
+**Q:** Hey Lively, why are there black bars on the top and bottom of my screen?  
+**A:** It's an ENB issue. To disable it, open the ENB menu (shift+enter in game), find POSTPASS on the right side, and disable **Letterbox**.
+
+**Q:** Hey Lively, where is my HUD? Why is my compass gone?  
+**A:** It's hidden by iHud. Press X to toggle it (assuming you followed the MCM instructions above).
+
+**Q:** Hey Lively, why is there a random ball of magic floating over my head?  
+**A:** That's QuickLight, which you already configured in the MCM. Press L or Hold E to turn it on and off.  
+
+## 1.7 Widescreen Support
+*(Please note that I do not own a widescreen setup, and thus cannot help troubleshoot this section. These instructions were provided by @Mantis#1337.)*
+
+Go to the [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) page.  
+Download the following files:
+
+* Complete Widescreen Fix for SkyUI 5.2 SE Alpha- 2560x1080  
+* Better Dialogue Control Widescreen Fix 
+* Better Message Box Control Widescreen Fix
+* Even Wider Rescaled MCM Menu for SkyUI - Widescreen Fix
+* SkyHud High Resolution Widescreen Fix
+
+Install the archives with Mod Organizer 2. They will be in the right window, under the Downloads section.  
+Be sure to RENAME the mods during installation. You can click the dropdown box and select the appropriate filename for each as you install them.  
