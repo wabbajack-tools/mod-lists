@@ -4,70 +4,49 @@ All support must be directed to the relevant discussion channel on the [Wabbajac
 
 Pirated games and mods are **not** supported.
 
-### **Modlist Summary:**
+### Modlist Summary:
 
 It's a zombie apocalypse. There are a lot of zombies. There are no more main quests. There is no storyline. There are very few NPCs. Your job is to explore the commonwealth, build up some settlements, unlock some perks for yourself. **_There are so many zombies._**
 
-## **Requirements Before Installing:**
-================================
+## Requirements Before Installing:
 
--   Current build version of Wabbajack. This can be found on the Wabbajack Discord linked above.
-
--   Clean install of Fallout 4, with all DLCs **except HD DLC.** Non-negotiable.
-
--   A Nexusmods account. Premium is highly recommended for automatic download support.
-
--   110 gigs of free space. Note that this number does NOT include your Fallout 4 installation.
+- Current build version of Wabbajack. This can be found on the Wabbajack Discord linked above.
+- Clean install of Fallout 4, with all DLCs **except HD DLC.** Non-negotiable.
+- A Nexusmods account. Premium is highly recommended for automatic download support.
+- 110 gigs of free space. Note that this number does NOT include your Fallout 4 installation.
 
 Once Fallout 4 is installed, **make sure you run it once.** (Get to the Fallout 4 splash screen, and exit).
 
 ## **Installation Instructions:**
 ================================
 
--   Download the latest version of Wabbajack.
+- Download the latest version of Wabbajack.
+- Create a new folder at the root of a drive (Example: D:\Wabbajack).
+- Place the Wabbajack.exe into this new folder.
+- Launch Wabbajack.exe.
+- Click "Browse Modlists".
+- Navigate to the GhoulOut image. Click the download button. You will be automatically forwarded to the next window when it is finished.
+- In "Installation Location" choose a blank folder at the root of a drive (example: D:\GhoulOut).
+    - This location **CANNOT** be where you have the Wabbajack.exe located.
+    - This location **CANNOT** be where you have the modlist file.
+    - This location **CANNOT** be your Fallout 4 folder.
+- The "Download Location" will update automatically. You may change it if you wish.
+- Click the "Play" button.
+- Make sure to accept the Nexus API request if your browser asks for it.
+- When Wabbajack completes the installation (you can check the Wabbajack.current.log to confirm it completed successfully), you may close the program.
 
--   Create a new folder at the root of a drive (Example: D:\Wabbajack).
+Note that Wabbajack will **never** close itself automatically. So if you set it to install and leave, then come back to see Wabbajack is no longer open, this does not mean your installation completed. It means it failed, very likely due to a shortage of disk space. Check the log and/or contact us on Discord for further assistance.
 
--   Place the Wabbajack.exe into this new folder.
+## Pst Installation Instructions:
 
--   Launch Wabbajack.exe.
-
--   Click "Browse Modlists"
-
--   Navigate to the GhoulOut image. Click the download button. You will be automatically forwarded to the next window when it is finished.
-
--   In "Installation Location" choose a blank folder at the root of a drive (example: D:\GhoulOut).
-
--   This location **CANNOT** be where you have the Wabbajack.exe located.
-
--   This location **CANNOT** be where you have the modlist file.
-
--   This location **CANNOT** be your Fallout 4 folder.
-
--   The "Download Location" will update automatically. You may change it if you wish.
-
--   Click the "Play" button.
-
--   Make sure to accept the Nexus API request if your browser asks for it.
-
--   When Wabbajack completes the installation (you can check the Wabbajack.current.log to confirm it completed successfully), you may close the program.
-
--   Note that Wabbajack will **never** close itself automatically. So if you set it to install and leave, then come back to see Wabbajack is no longer open, this does not mean your installation completed. It means it failed, very likely due to a shortage of disk space. Check the log and/or contact us on Discord for further assistance.
-
-## **Post Installation Instructions:**
-================================
-
--   Navigate back to your GhoulOut installation folder.
-
--   Open "Game Folder Files"
-
--   Copy everything in this folder.
-
--   Paste it into your Fallout 4 directory (steam/steamapps/common/Fallout 4).
+- Navigate back to your GhoulOut installation folder.
+- Open "Game Folder Files"
+- Copy everything in this folder.
+- Paste it into your Fallout 4 directory (steam/steamapps/common/Fallout 4).
 
 That's it! Launch Mod Organizer 2 inside the GhoulOut folder. From now on, you will have to launch Fallout 4 via the "F4SE" option.
 
--   If MO2 asks if you want to associate it with nxm links, just click yes. This option really doesn't matter though.
+- If MO2 asks if you want to associate it with nxm links, just click yes. This option really doesn't matter though.
 
 If you want to avoid the hassle of future updates from Bethesda, open Steam, right-click Fallout 4 in your Library, open Properties, go to the Updates tab, and change the Automatic Update option to "Only update this game when I launch it." Make sure Steam is launched and logged in before launching Fo4 with F4SE or else Steam will launch the native way and force an update should there be one available. Since we're always launching from F4SE, it will never automatically update again should you do as I have just instructed.
 
@@ -77,8 +56,7 @@ Now, we still have a little bit of work left to do, but we're almost done. Launc
 
 Once you reach the exit to Vault 111 and ride the elevator, we can finish setting up the game. You'll get a few warning messages to remind you to visit this section and complete setting up the game properly. You're welcome.
 
-## **DO NOT SKIP THIS STEP. YOUR GAME WILL NOT WORK IF YOU SKIP THIS PART. SERIOUSLY. DO IT. DO IT EXACTLY AS WRITTEN.**
-================================
+## DO NOT SKIP THIS STEP. YOUR GAME WILL NOT WORK IF YOU SKIP THIS PART. SERIOUSLY. DO IT. DO IT EXACTLY AS WRITTEN.
 
 You exited Vault 111. You got three pop-up messages reminding you to do this. So now you have to do it. There is no other choice. There is no excuse not to do it.
 
@@ -109,23 +87,15 @@ Soon you will see the message "**Fallout 4-76 Open World is ready**"
 
 ![](https://lh4.googleusercontent.com/GLn4h6ZQuusDf21tbpD2aZ5cIBSqUbNHF7gpWDVwCmIO8FoJ0RF2rSgeZ44rY9b4--MADvuyVAh1PKlJ6LTszHglnnifYYsJktm9eLRUcgLguBevjaEqj-nfgiCVxVdzUe53SLwk)
 
-When you see this message, SKK Open World is finished setting up.
-
-Open your Pipboy.
-
-Scroll back to the Holotapes in your inventory.
-
-Launch the **Beantown Interiors** holotape.
-
-Select **Customize Options**
-
-Select **Other Options**
-
-Select **Mod Compatibility**
-
-Select **Enable Inside Jobs**
-
-Close your Pipboy.
+- When you see this message, SKK Open World is finished setting up.
+- Open your Pipboy.
+- Scroll back to the Holotapes in your inventory.
+- Launch the **Beantown Interiors** holotape.
+- Select **Customize Options**
+- Select **Other Options**
+- Select **Mod Compatibility**
+- Select **Enable Inside Jobs**
+- Close your Pipboy.
 
 (You can also set up SKK Settlement Attack System however you like. I'm still messing with this a bit so I don't have anything set in stone just yet.)
 
@@ -133,8 +103,7 @@ Now we get to do MCMs. Yay!
 
 Press the "Esc" key and select "Mod Config". This is the last step, I swear.
 
-## **MCM Settings:**
-================================
+## MCM Settings:
 
 Note that hotkeys are largely up to you. This is just how I set it up.
 
@@ -172,8 +141,7 @@ I don't personally use an ENB, but [Pilgrim](https://www.nexusmods.com/fallout4/
 
 Good luck. Have fun. Try not to die.
 
-## **Things You Should Know**
-================================
+## Things You Should Know
 
 * Leveling is a lot different in this modlist. Level requirements for perks are as low as they can go (due to the way the game is hardcoded for perks, I can't just make them all level 1). You'll still get perks points with each level, but....you won't be able to spend them right away. Instead, you have to find a book that will unlock the ability to purchase the perk. Where are the books, you ask? Everywhere! Mostly in interiors. So keep your eyes open.
 
@@ -187,38 +155,24 @@ Good luck. Have fun. Try not to die.
 
 * The Inspirational perk is useless. I'm sorry, I haven't thought of a good substitute for it yet. I am open to any suggestions that don't involve spawning an army of Mama Murphys.
 
-## **Future Plans:**
-================================
+## Future Plans:
 
--   Add more zombies. Can never have enough zombies.
+- Add more zombies. Can never have enough zombies.
+- Add a flamethrower probably. Why not.
+- Adjust leveled lists as needed.
+- Maybe mess with perk requirements on weapons and armor a bit more, I don't know.
+- Possibly move the perk books to different locations based on the likelihood of them being found, as well as their usefulness (i.e., I don't want the perk books to be hidden or missed easily, but I also don't want OP perks available straight away like the one in Red Rocket hint hint)
+- Add more zombies.
 
--   Add a flamethrower probably. Why not.
-
--   Adjust leveled lists as needed.
-
--   Maybe mess with perk requirements on weapons and armor a bit more, I don't know.
-
--   Possibly move the perk books to different locations based on the likelihood of them being found, as well as their usefulness (i.e., I don't want the perk books to be hidden or missed easily, but I also don't want OP perks available straight away like the one in Red Rocket hint hint)
-
--   Add more zombies.
-
-## **For 21:9/Ultrawide Users:**
-================================
+## For 21:9/Ultrawide Users:
 
 Note that I did not write this. I don't have ultrawide so I can't help troubleshoot it. Another user left this here for others to possibly learn from.
 
-1) Install [TRUBY9](https://www.nexusmods.com/fallout4/mods/24630)
-
-2) Install [TRUBY9 DEF_UI Fix](https://www.nexusmods.com/fallout4/mods/43275)
-
-2) Install [TRUBY9 DEF_INV Compatibility Fix](https://www.nexusmods.com/fallout4/mods/43278)
-
-3) Install [DEF_UI HUDMenuSet Ultrawidescreen](https://www.nexusmods.com/fallout4/mods/43277)
-
--   Get a [standalone Adobe Flash Player from Adobe](https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flashplayer_32_sa.exe) and install in the same location as HUDMenuSet.swf
-
--   Execute the standalone Adobe Flash Player and load HUDMenuSet.swf (from here it will work as the DEF_UI HUDMenuSet.exe)
-
--   Move the UI elements to your liking (or leave as is).  Once satisfied, hit Ctrl+S.
-
--   Create a new folder DEF_CONV in the same location as HUDMenuSet.swf and save the new XML file inside the new folder.
+- Install [TRUBY9](https://www.nexusmods.com/fallout4/mods/24630)
+- Install [TRUBY9 DEF_UI Fix](https://www.nexusmods.com/fallout4/mods/43275)
+- Install [TRUBY9 DEF_INV Compatibility Fix](https://www.nexusmods.com/fallout4/mods/43278)
+- Install [DEF_UI HUDMenuSet Ultrawidescreen](https://www.nexusmods.com/fallout4/mods/43277)
+    - Get a [standalone Adobe Flash Player from Adobe](https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flashplayer_32_sa.exe) and install in the same location as HUDMenuSet.swf
+    - Execute the standalone Adobe Flash Player and load HUDMenuSet.swf (from here it will work as the DEF_UI HUDMenuSet.exe)
+    - Move the UI elements to your liking (or leave as is).  Once satisfied, hit Ctrl+S.
+    - Create a new folder DEF_CONV in the same location as HUDMenuSet.swf and save the new XML file inside the new folder.
