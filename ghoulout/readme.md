@@ -17,8 +17,7 @@ It's a zombie apocalypse. There are a lot of zombies. There are no more main que
 
 Once Fallout 4 is installed, **make sure you run it once.** (Get to the Fallout 4 splash screen, and exit).
 
-## **Installation Instructions:**
-================================
+## Installation Instructions:
 
 - Download the latest version of Wabbajack.
 - Create a new folder at the root of a drive (Example: D:\Wabbajack).
@@ -37,7 +36,7 @@ Once Fallout 4 is installed, **make sure you run it once.** (Get to the Fallout 
 
 Note that Wabbajack will **never** close itself automatically. So if you set it to install and leave, then come back to see Wabbajack is no longer open, this does not mean your installation completed. It means it failed, very likely due to a shortage of disk space. Check the log and/or contact us on Discord for further assistance.
 
-## Pst Installation Instructions:
+## Post Installation Instructions:
 
 - Navigate back to your GhoulOut installation folder.
 - Open "Game Folder Files"
