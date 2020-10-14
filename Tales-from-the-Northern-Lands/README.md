@@ -285,11 +285,11 @@ See [How to contribute](https://github.com/EzioTheDeadPoet/Tales-from-the-Northe
 
 ## Changelog
 
-See [Changelog](https://github.com/EzioTheDeadPoet/Tales-from-the-Northern-Lands/blob/master/CHANGELOG.md).
+See [Changelog](https://github.com/EzioTheDeadPoet/Tales-from-the-Northern-Lands/blob/master/CHANGELOG.md#changelog).
 
 ## Licenses
 
-- [ReShade License](ReShade/RESHADELICENSE.md)
+- [ReShade License](https://github.com/EzioTheDeadPoet/Tales-from-the-Northern-Lands/blob/v1.5.0/ReShade/RESHADELICENSE.md#reshade-license
 
 ***
 
