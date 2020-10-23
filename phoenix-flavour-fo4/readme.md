@@ -1,6 +1,6 @@
-# THE PHOENIX FLAVOUR - FALLOUT 4
+# WELCOME TO PARADISE
 
-*The Phoenix Flavour for Fallout 4 is a vanilla-plus Wabbajack modlist focusing on improved performance, high quality textures and lighting. Enjoy enhanced gameplay mechanics and balancing, a better interface and inventory sorting, various tweaks and fixes plus a vastly improved settlement system.*
+*Welcome to Paradise is a vanilla-plus Wabbajack modlist for Fallout 4 focusing on improved performance, high quality textures and lighting. Enjoy enhanced gameplay mechanics and balancing, a better interface and inventory sorting, various tweaks and fixes plus a vastly improved settlement system.*
 
 ##### Please visit the [official website](https://thephoenixflavour.com/fallout/introduction/) for more information as well as installation and configuration instructions.
 
