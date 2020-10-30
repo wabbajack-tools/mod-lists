@@ -303,7 +303,7 @@ See [Changelog](https://github.com/EzioTheDeadPoet/Tales-from-the-Northern-Lands
 
 ## Licenses
 
-- [ReShade License](https://github.com/EzioTheDeadPoet/Tales-from-the-Northern-Lands/blob/v1.5.0/ReShade/RESHADELICENSE.md#reshade-license
+- [ReShade License](https://github.com/EzioTheDeadPoet/Tales-from-the-Northern-Lands/blob/v1.5.0/ReShade/RESHADELICENSE.md#reshade-license)
 
 ***
 
