@@ -22,6 +22,7 @@
     - [Copy Game Folder Files](#copy-game-folder-files)
   - [Mods to tweak to your taste](#mods-to-tweak-to-your-taste)
     - [Customizable UI Replacer](#customizable-ui-replacer)
+    - [Dear Diary - Paper SkyUI Menus Replacer SE](#dear-diary---paper-skyUI-menus-replacer-se)
   - [How to start up Tales from the Northern Lands](#how-to-start-up-tales-from-the-northern-lands)
   - [Updating](#updating)
   - [In-Game MCM Options](#in-game-mcm-options)
@@ -29,6 +30,7 @@
     - [A Matter of Time](#a-matter-of-time)
     - [Dual Wield Parrying](#dual-wield-parrying)
     - [P.W.E.R.](#pwer)
+    - [SPERG](#sperg)
     - [VioLens](#violens)
     - [Widget Mod](#widget-mod)
     - [XPMSSE (Preference)](#xpmsse-preference)
@@ -153,6 +155,10 @@ Customizable UI Replacer has multiple good looking presets.
 - To test other presets just right-click the `Customizable UI Replacer` Mod and hit reinstall and select the preset you want.
 - Once `Customizable UI Replacer` is reinstalled follow the steps for [A Matter of Time](#a-matter-of-time) and [Widget Mod](#widget-mod).
 
+### Dear Diary - Paper SkyUI Menus Replacer SE
+
+If you use the `Basics` profile then you **NEED** to "reinstall" this mod and selecting everything based on preference and when it comes to the Skills menu choose vanilla, or whatever mods you want to add to it. The default setting for the Skill Menu is `Experience + Extended UI` in the normal Profile.
+
 ## How to start up Tales from the Northern Lands
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
@@ -197,6 +203,11 @@ Mods or sections with (Preference) next to their name is solely preferential and
 - Settings
   - Followers enabled: `Enabled` (If you want your followers to be as powerful as you are.)
 
+### SPERG
+
+- General
+  - Quest Rewards: Either `Questlines` or `Compatibility Mode`, Questlines should make you level faster than Compatibility Mode, but Compatibility Mode will be "more" balanced.
+
 ### VioLens
 
 - Profile System
@@ -240,6 +251,9 @@ Download the following files:
 
 Install the archives with Mod Organizer 2. They will be in the right window, under the Downloads section.  
 Be sure to RENAME the mods during installation. You can click the dropdown box and select the appropriate filename for each as you install them.
+
+Reinstall `DEAR DIARY` to select the widescreen options.
+The default setting for the Skill Menu is `Experience + Extended UI` in the normal Profile.
 
 ### Tweaking the Game Settings
 
