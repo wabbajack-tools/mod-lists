@@ -30,6 +30,7 @@
     - [A Matter of Time](#a-matter-of-time)
     - [Dual Wield Parrying](#dual-wield-parrying)
     - [P.W.E.R.](#pwer)
+    - [SPERG](#sperg)
     - [VioLens](#violens)
     - [Widget Mod](#widget-mod)
     - [XPMSSE (Preference)](#xpmsse-preference)
@@ -201,6 +202,11 @@ Mods or sections with (Preference) next to their name is solely preferential and
 
 - Settings
   - Followers enabled: `Enabled` (If you want your followers to be as powerful as you are.)
+
+### SPERG
+
+- General
+  - Quest Rewards: Either `Questlines` or `Compatibility Mode`, Questlines should make you level faster than Compatibility Mode, but Compatibility Mode will be "more" balanced.
 
 ### VioLens
 
