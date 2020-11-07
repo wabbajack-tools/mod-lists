@@ -21,7 +21,7 @@ Create a new folder called “Wabbajack” in the root of your main drive, the d
 
 ![](https://lh3.googleusercontent.com/J2TSlfEol5ph4dQ1satHzWZS4B3JGHuGCTguSnDv7PBs0CI61psyN3LNZ2xVW-lslGcSbix65cU4_joIjYO5Hz0OGET8Rjlev0Oi7bxLNOzkRXdvxBDAK7d058LanhUJWb9MPG6M)
 
-This modlist was assembled on a system running a GTX 1070 with 16GB of RAM, on this system a stable and consistent 90FPS is the norm. Your mileage may vary, but the graphics mods are kept to a minimum to ensure both good basic performance as well as a consistent aesthetic in line with the Vanilla game.
+This modlist was assembled on a system running a GTX 1070 with 16GB of RAM, on this system a stable and consistent 45 - 50FPS is the norm. Your mileage may vary, but the graphics mods are kept to a minimum to ensure both good basic performance as well as a consistent aesthetic in line with the Vanilla game.
 
 ### Clean Install
 
