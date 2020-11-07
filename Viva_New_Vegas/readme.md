@@ -107,12 +107,6 @@ Any anti-virus you have, including Windows Defender, needs to have file exceptio
 *   Click the large “Play” button.
        *    (If you get a warning about unknown files, move your downloads folder outside of your VNV folder, ensure the VNV folder is clear of all files, then close and restart Wabbajack.)
 *   If you get a Nexus API request, accept it.
-*   There will eventually be a prompt to download a mod manually. You cannot do this in wabbajack. You will need to download this mod manually with a browser, place the archive in the downloads folder then close and restart Wabbajack. Use the link below. Do not extract the mod!
-*   1. <code>[Spice of Life](http://download2134.mediafire.com/vfp4hfknt66g/ln1a2l2th1if8es/Spice+of+Life+Vanilla+v1-5+Release+Candidate.7z)</code>  
-
-*   Place these files inside your <em>downloads</em> folder (within your <em>Viva New Vegas </em>folder). <strong>Do Not</strong> Extract the mods.  
-*   You may close Wabbajack when the left pane says.  “Installation is complete. You may exit the program.
-
 *   Once installation is complete, open your <em>Viva New Vegas </em>folder. You should see another folder inside of it called <em>Game Folder Files</em>.
     *   Copy <strong>all </strong>files inside this folder into your <em>Fallout New Vegas </em>game directory  
 (the same folder where <code>FalloutNV.exe</code> is located).
@@ -138,7 +132,7 @@ Any anti-virus you have, including Windows Defender, needs to have file exceptio
         *   (2) a <strong><em>separate</em> </strong>[📁]<strong> <code>FalloutNV_backup.exe</code></strong>. 
 
     From now on, you will be starting the game with <strong><code>FalloutNV.exe</code></strong> from <em>Mod Organizer 2</em> (which Wabbajack automatically installed inside your <em>Viva New Vegas </em>folder).
-    *   Double click New Vegas Tick Fix in the left pane of MO2. In the INI Files tab click on NVSE\Plugins\NVTF.ini. Set **iMaxFPSTolerance** to 1 less than your monitor's refresh rate
+    *   Double click New Vegas Tick Fix Performance ini in the left pane of MO2. In the INI Files tab click on NVSE\Plugins\NVTF.ini. Set **iMaxFPSTolerance** to 2 less than your monitor's refresh rate
 
 <h2>Capping FPS</h2>
 <h3>NVIDIA GPU USERS</h3>
@@ -148,7 +142,7 @@ Any anti-virus you have, including Windows Defender, needs to have file exceptio
 *   In the right pane, select the Program Settings tab and select Fallout - New Vegas from the drop down.
        *   If it’s not there select Add and select Fallout NV from the pop-up or by selecting the FalloutNV.exe after choosing the Browse option.
 *   Scroll down in the settings box and click on Max Frame Rate
-*   Select the On option and set the limiter to 1 less than your monitor’s refresh rate
+*   Select the On option and set the limiter to 2 less than your monitor’s refresh rate
 *   Click Apply changes in the bottom right
 
 <h3>AMD GPU USERS</h3>
@@ -157,23 +151,13 @@ Any anti-virus you have, including Windows Defender, needs to have file exceptio
 *   In the Gaming tab. Select the Fallout New Vegas Profile
 *   In the profil;e Graphics tab, change the following
        *   Enable Chill(FPS)
-       *   Set Chill Min and Chill Max to 1 less than your monitor’s refresh rate
+       *   Set Chill Min and Chill Max to 2 less than your monitor’s refresh rate
 *   Hit the home button in the bottom left (settings should save automatically) and make sure the word Enabled appears below the profile name. If not, click the vertical dots to the right of the profile name and select Enable Profile.
 
 Note: If you have a GOG copy of the game, there may be a FalloutNV_lang.esp in the right pane. If so, navigate to the Data folder and delete it.  
 
 
-<h2>(Optional) Millenia’s Environment Map Shader Fix</h2>
-
-*   Navigate to **Documents/My Games/FalloutNV** and open **RendererInfo.txt**
-*   Find the Shader Package line (usually the second to last) remember the number next to it
-*   On the mod page, download the file which corresponds to the number from your RendererInfo.txt
-*   Double click the downloaded mod in the download tab in the right pane of MO2
-*   Install the mod into the empty **Millenia's Environment Map Shader Fix** mod folder
-*   Activate the mod
-
-
-You are now ready to play *Viva New Vegas!* Use the top right drop down list, select New Vegas, and click Run to start the game. Unfortunately, the launcher may once again appear, configure your settings as you did before. If you are prompted about a read-only INI, have MO2 remove that flag. Don’t forget to check MCM Settings and Post Install Notes!
+You are now ready to play *Viva New Vegas!* Use the top right drop down list, select New Vegas, and click Run to start the game. Unfortunately, the launcher may once again appear, configure your settings as you did before. If you are prompted about a read-only INI, have MO2 remove that flag. Don’t forget to check MCM Settings and Post Install Notes before asking questions!
 
 Enjoy!
 
@@ -189,22 +173,11 @@ Enjoy!
 
 <h2>MCM SETTINGS</h2>
 
-*  Immersive HUD:
-   * General Settings: Enable iHud controlled Sneak Meter
-   * Hitpoint Settings: Disable Activate on Combat
-   * Compass and Radar Settings: Disable Activate on combat
-   * Action Points Settings: Disable Activate on combat
-   * Ammo and CND: Settings on Combat
-   * Crosshairs Settings: Disable Activate on combat
+
 *  JSawyer Ultimate Edition: 
-   * Tweak the ini file in JSUE Config File with Notepad++ if you wish to make any changes. Make sure there are no files overwriting it in the left pane.
+   * Tweak the Config ini file in JSUE Addendum with Notepad++ if you wish to make any changes. Make sure there are no files overwriting it in the left pane.
 *  Mojave Arsenal:
    * Uncheck Weapon Mods and Custom Weapons, check everything else. (**Idiot check**: Leave uninstall unchecked)
-*  Melee Cleave:
-   * Change Fist Weapon AOE to 20
 *  JIP CCC:
-   * Optional Settings: Set True Passive Mode to Until hit/player Attacks, Check manage Equipment and Draw with Player, Uncheck Unlimited Companions and Disable Companion Wheel
-*  Just Mods:
-   * Uncheck Hold Breath and Bullet Time
-   * Just Vanilla Sprint: Disable Sprint Jumping
+   * Optional Settings: Set True Passive Mode to Until hit/player Attacks, Check manage Equipment and Draw with Player, Uncheck Unlimited Companions and Disable Companion Wheel, Uncheck Anti-Overlap
    
