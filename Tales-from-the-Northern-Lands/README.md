@@ -1,5 +1,7 @@
 # Tales from the Northern Lands
 
+![total_installations](https://img.shields.io/endpoint?url=https://build.wabbajack.org/metrics/badge/TalesFromTheNorthernLands/total_installs_badge.json)
+
 ## Index
 
 - [Tales from the Northern Lands](#tales-from-the-northern-lands)
@@ -22,7 +24,7 @@
     - [Copy Game Folder Files](#copy-game-folder-files)
   - [Mods to tweak to your taste](#mods-to-tweak-to-your-taste)
     - [Customizable UI Replacer](#customizable-ui-replacer)
-    - [Dear Diary - Paper SkyUI Menus Replacer SE](#dear-diary---paper-skyUI-menus-replacer-se)
+    - [Dear Diary - Paper SkyUI Menus Replacer SE](#dear-diary---paper-skyui-menus-replacer-se)
   - [How to start up Tales from the Northern Lands](#how-to-start-up-tales-from-the-northern-lands)
   - [Updating](#updating)
   - [In-Game MCM Options](#in-game-mcm-options)
