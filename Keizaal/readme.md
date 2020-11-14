@@ -13,7 +13,7 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
 
 If you feel like this modlist is for you, click here to go to the [readme](https://docs.google.com/document/d/1DnVSjHktriJga9eRmonNzls3hIO0OocoIqYSg_qLqMo/edit?usp=sharing) and begin installation.
 
-If you're still curious about what Keizaal has in store for you, I have provided a breif overview below.
+If you're still curious about what Keizaal has in store for you, I have provided a brief overview below.
 
 ![](https://www.mobygames.com/images/promo/l/36976-the-elder-scrolls-v-skyrim-screenshot.jpg)
 
@@ -40,3 +40,5 @@ UI is very important because it effects all players. SkyUI is a natural inclusio
 **halgari and entire Wabbajack Team** for creating such a fantastic resource.
 
 **The wonderful mod authors** for making this modlist possible.
+
+# THIS PAGE IS UNDER CONSTRUCTION
