@@ -15,9 +15,9 @@ If you feel like this modlist is for you, click here to go to the [readme](https
 
 If you're still curious about what Keizaal has in store for you, I have provided a brief overview below.
 
-![](https://cdn.discordapp.com/attachments/678482069009072138/698917161841852467/ScreenShot13.png)
-
 ## Essentials
+
+![Keizaal 2.5.0](https://cdn.discordapp.com/attachments/678482069009072138/698917161841852467/ScreenShot13.png)
 
 There are some mods that every installation of Skyrim just needs to have. This includes a ton of fixes from **SKSE64** to **meh321**'s various engine-level fixes. I won't spend time talking much about this because I'm sure you're all aware of this and know what to expect. However, I will highlight some of the inclusions unique to Keizaal.
 
@@ -27,9 +27,9 @@ I like to cater to a lot of different people who want to play the game in differ
 
 Lastly I have a short list of miscellaneous mods I wanted to talk about in this section. **BlockSteal** prevents the player from stealing any object unless they are actively sneaking, this is a very nice how to prevent you from accidently stealing some bread in front of the bartender and immediately getting arrested. **GIST - Genuinely Intelligent Soul Trap** improves the logic that the game uses when deciding which soul gem to place the soul you captured in, no longer will you have a bunch of Grand Soul Gems with Skeever souls. **To Your Face** adjusts NPC behavior so they won't blurt out random comments while you pass them in the street unless you're directly facing them.
 
-![](https://cdn.discordapp.com/attachments/678482069009072138/686372968112062505/ScreenShot62.png)
-
 ## Graphics
+
+![Keizaal 2.1.0](https://cdn.discordapp.com/attachments/678482069009072138/686372968112062505/ScreenShot62.png)
 
 Keizaal contains a large visual package to improve the visual fidelity of the game while sticking true to the original art style that Bethesda presented us. I use a mixture of **Project Clarity**, **aMidianBorn Book of Silence**, **Skyrim Realistic Overhaul**, **Osmodius** and **Noble Skyrim** as a base to build off of. From there I add on a wide array of texture and mesh replacer that are too numerous to list here individually. I will discuss some of the more noteworth inclusions.
 
@@ -39,11 +39,11 @@ While the character models in Skyrim have aged much better than those in Oblivio
 
 Besides for the mods listed above Gamwich's **Rustic** series covers a large swath of texture replacers alongside other authors such as **ElSopa** and **Rally**. 
 
-![](https://cdn.discordapp.com/attachments/678482069009072138/693541211688140900/ScreenShot6.png)
-
 ## Animations
 
+![Keizaal 2.3.6](https://cdn.discordapp.com/attachments/678482069009072138/693541211688140900/ScreenShot6.png)
 
+This modlist does not contain any distinctly new or overly flashy animations. As with the rest of these mods I try to stick close to the Vanilla style, but enhance things when possible.
 
 ## Credits
 
