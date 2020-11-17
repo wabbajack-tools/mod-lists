@@ -15,7 +15,7 @@ If you feel like this modlist is for you, click here to go to the [readme](https
 
 If you're still curious about what Keizaal has in store for you, I have provided a brief overview below.
 
-![](https://www.mobygames.com/images/promo/l/36976-the-elder-scrolls-v-skyrim-screenshot.jpg)
+![](https://cdn.discordapp.com/attachments/678482069009072138/698917161841852467/ScreenShot13.png)
 
 ## Essentials
 
@@ -36,6 +36,14 @@ Keizaal contains a large visual package to improve the visual fidelity of the ga
 The **Static Mesh Improvement Mod** serves as the base of my mesh replacers. It reworks a ton of Vanilla models to make them more three-dimensonal and believable. The **High Poly Project** covers a lot of other items that SMIM misses with a large selection of new models and textures. In addition to these mods there are several individual mesh replacers that help to complete the package, this includes but is not limited to mods such as **Cathedral 3D Mountain Flowers**, **3d Pine Grass**, and **3D Snowberries**.
 
 While the character models in Skyrim have aged much better than those in Oblivion, there is still room for improvement! I used **Tempered Males and Females** for the humanoid races and **Masculine and Femanine Khajiit and Argonians** for the beast races. Note that I chose to forgoe the nuditiy options because I want Keizaal to be a strictly safe for work list. I used a mixture of **Bed Head** and **High Poly Vanilla Hair** to try and improve Skyrim's glue-like hair, it is still not perfect but it is better than nothing. I have chosen to not use any hair replacers because they all either look super out-of-place in Skyrim or they lack the proper armor addons to make them work correctly with helmets and the like. However, **Hvergelmir's Aesthetics** and **Beast Hair Horn and Beard** do add a few new character creation options such brows and beards. Keizaal also includes **Weathered Nordic Bodypaints** and **Beast Race Bodypaints** for anyone that is into that. Lastly let's not forget the children! **Simple Children** is my sole child mod that covers everything quite nicely.
+
+Besides for the mods listed above Gamwich's **Rustic** series covers a large swath of texture replacers alongside other authors such as **ElSopa** and **Rally**. 
+
+![](https://cdn.discordapp.com/attachments/678482069009072138/693541211688140900/ScreenShot6.png)
+
+## Animations
+
+
 
 ## Credits
 
