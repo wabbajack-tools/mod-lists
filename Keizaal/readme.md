@@ -31,7 +31,7 @@ Lastly I have a short list of miscellaneous mods I wanted to talk about in this 
 
 Keizaal contains a large visual package to improve the visual fidelity of the game while sticking true to the original art style that Bethesda presented us. I use a mixture of **Project Clarity**, **aMidianBorn Book of Silence**, **Skyrim Realistic Overhaul**, **Osmodius** and **Noble Skyrim** as a base to build off of. From there I add on a wide array of texture and mesh replacer that are too numerous to list here individually. I will discuss some of the more noteworth inclusions.
 
-On top of 
+The **Static Mesh Improvement Mod** serves as the base of my mesh replacers. It reworks a ton of Vanilla models to make them more three-dimensonal and believable. The **High Poly Project** covers a lot of other items that SMIM misses with a large selection of new models and textures. **High Poly Vanilla Hair** is in a similar vein but this time trying to make Skyrim's hair look a little less glue-like. In addition to these mods there are several individual mesh replacers that help to complete the package, this includes but is not limited to mods such as **Cathedral 3D Mountain Flowers**, **3d Pine Grass**, and **3D Snowberries**.
 
 ## Credits
 
