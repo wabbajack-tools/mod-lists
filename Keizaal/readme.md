@@ -27,6 +27,8 @@ I like to cater to a lot of different people who want to play the game in differ
 
 Lastly I have a short list of miscellaneous mods I wanted to talk about in this section. **BlockSteal** prevents the player from stealing any object unless they are actively sneaking, this is a very nice how to prevent you from accidently stealing some bread in front of the bartender and immediately getting arrested. **GIST - Genuinely Intelligent Soul Trap** improves the logic that the game uses when deciding which soul gem to place the soul you captured in, no longer will you have a bunch of Grand Soul Gems with Skeever souls. **To Your Face** adjusts NPC behavior so they won't blurt out random comments while you pass them in the street unless you're directly facing them.
 
+![](https://cdn.discordapp.com/attachments/678482069009072138/686372968112062505/ScreenShot62.png)
+
 ## Graphics
 
 Keizaal contains a large visual package to improve the visual fidelity of the game while sticking true to the original art style that Bethesda presented us. I use a mixture of **Project Clarity**, **aMidianBorn Book of Silence**, **Skyrim Realistic Overhaul**, **Osmodius** and **Noble Skyrim** as a base to build off of. From there I add on a wide array of texture and mesh replacer that are too numerous to list here individually. I will discuss some of the more noteworth inclusions.
