@@ -16,6 +16,7 @@ If you feel like this modlist is for you, click [here](https://docs.google.com/d
 If you're still curious about what Keizaal has in store for you, I have provided a brief overview below.
 
 __**Table of Contents**__
+
 I. [Essentials](https://github.com/wabbajack-tools/mod-lists/tree/master/Keizaal/#Essentials)
 
 II. [Graphics](https://github.com/wabbajack-tools/mod-lists/tree/master/Keizaal/#Graphics)
