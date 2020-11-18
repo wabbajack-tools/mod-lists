@@ -11,13 +11,13 @@ A few criteria for the mods on this list:
 
 You can find a full list of the mods included in Keizaal [here](https://modwat.ch/u/Keizaal/).
 
-If you feel like this modlist is for you, click here to go to the [readme](https://docs.google.com/document/d/1DnVSjHktriJga9eRmonNzls3hIO0OocoIqYSg_qLqMo/edit?usp=sharing) and begin installation.
+If you feel like this modlist is for you, click [here](https://docs.google.com/document/d/1DnVSjHktriJga9eRmonNzls3hIO0OocoIqYSg_qLqMo/edit?usp=sharing) to go to the readme and begin installation.
 
 If you're still curious about what Keizaal has in store for you, I have provided a brief overview below.
 
 ## Essentials
 
-
+![Keizaal 2.5.0](https://drive.google.com/uc?export=view&id=1wWh9sdQ3tEqnCP4ulTiaT1ClifCJMdJe)
 
 There are some mods that every installation of Skyrim just needs to have. This includes a ton of fixes from **SKSE64** to **meh321**'s various engine-level fixes. I won't spend time talking much about this because I'm sure you're all aware of this and know what to expect. However, I will highlight some of the inclusions unique to Keizaal.
 
@@ -29,7 +29,7 @@ Lastly I have a short list of miscellaneous mods I wanted to talk about in this 
 
 ## Graphics
 
-
+![Keizaal 2.1.0](https://drive.google.com/uc?export=view&id=1GXFgojMYeZdrdaDVwKyqr7mbhIMFnQUQ)
 
 Keizaal contains a large visual package to improve the visual fidelity of the game while sticking true to the original art style that Bethesda presented us. I use a mixture of **Project Clarity**, **aMidianBorn Book of Silence**, **Skyrim Realistic Overhaul**, **Osmodius** and **Noble Skyrim** as a base to build off of. From there I add on a wide array of texture and mesh replacer that are too numerous to list here individually. I will discuss some of the more noteworth inclusions.
 
@@ -41,7 +41,7 @@ Besides for the mods listed above Gamwich's **Rustic** series covers a large swa
 
 ## Animations
 
-
+![Keizaal 2.3.6](https://drive.google.com/uc?export=view&id=1DZh-2zEXyO35mo7-0Q0WlUOrexqkRX3j)
 
 This modlist does not contain any distinctly new or overly flashy animations. As with the rest of these mods I try to stick close to the Vanilla style, but enhance things when possible.
 
