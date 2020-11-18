@@ -53,7 +53,11 @@ The [Dynamic Animation Replacer](https://www.nexusmods.com/skyrimspecialedition/
 
 ![Keizaal 3.1.1](https://drive.google.com/uc?export=view&id=1vDGiSmWTsryhJiczZqHwrhRgkapAuMsz)
 
+Next up we will be disgussing perhaps the most important part of a modlist, the gameplay! 
+
 ## Credits
+
+![Keizaal 2.5.1](https://drive.google.com/uc?export=view&id=1gbriTac5mxtxSrD77gkG90IBIpVXqsoK)
 
 **Simon Magus** for tolerating my constant badgering about my load order.
 
