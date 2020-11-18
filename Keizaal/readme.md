@@ -16,11 +16,15 @@ If you feel like this modlist is for you, click [here](https://docs.google.com/d
 If you're still curious about what Keizaal has in store for you, I have provided a brief overview below.
 
 __**Table of Contents**__
-- [Essentials](https://github.com/wabbajack-tools/mod-lists/tree/master/Keizaal/#Essentials)
-- [Graphics](https://github.com/wabbajack-tools/mod-lists/tree/master/Keizaal/#Graphics)
-- [Animations](https://github.com/wabbajack-tools/mod-lists/tree/master/Keizaal/#Animations)
-- [Gameplay](https://github.com/wabbajack-tools/mod-lists/tree/master/Keizaal/#Gameplay)
-- [Credits](https://github.com/wabbajack-tools/mod-lists/tree/master/Keizaal/#Credits)
+I. [Essentials](https://github.com/wabbajack-tools/mod-lists/tree/master/Keizaal/#Essentials)
+
+II. [Graphics](https://github.com/wabbajack-tools/mod-lists/tree/master/Keizaal/#Graphics)
+
+III. [Animations](https://github.com/wabbajack-tools/mod-lists/tree/master/Keizaal/#Animations)
+
+IV. [Gameplay](https://github.com/wabbajack-tools/mod-lists/tree/master/Keizaal/#Gameplay)
+
+V. [Credits](https://github.com/wabbajack-tools/mod-lists/tree/master/Keizaal/#Credits)
 
 ## Essentials
 
