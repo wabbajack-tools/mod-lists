@@ -17,7 +17,7 @@ If you're still curious about what Keizaal has in store for you, I have provided
 
 ## Essentials
 
-![](https://cdn.discordapp.com/attachments/678482069009072138/698917161841852467/ScreenShot13.png)
+
 
 There are some mods that every installation of Skyrim just needs to have. This includes a ton of fixes from **SKSE64** to **meh321**'s various engine-level fixes. I won't spend time talking much about this because I'm sure you're all aware of this and know what to expect. However, I will highlight some of the inclusions unique to Keizaal.
 
@@ -29,7 +29,7 @@ Lastly I have a short list of miscellaneous mods I wanted to talk about in this 
 
 ## Graphics
 
-![](https://cdn.discordapp.com/attachments/678482069009072138/686372968112062505/ScreenShot62.png)
+
 
 Keizaal contains a large visual package to improve the visual fidelity of the game while sticking true to the original art style that Bethesda presented us. I use a mixture of **Project Clarity**, **aMidianBorn Book of Silence**, **Skyrim Realistic Overhaul**, **Osmodius** and **Noble Skyrim** as a base to build off of. From there I add on a wide array of texture and mesh replacer that are too numerous to list here individually. I will discuss some of the more noteworth inclusions.
 
@@ -41,7 +41,7 @@ Besides for the mods listed above Gamwich's **Rustic** series covers a large swa
 
 ## Animations
 
-![](https://cdn.discordapp.com/attachments/678482069009072138/693541211688140900/ScreenShot6.png)
+
 
 This modlist does not contain any distinctly new or overly flashy animations. As with the rest of these mods I try to stick close to the Vanilla style, but enhance things when possible.
 
