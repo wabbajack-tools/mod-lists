@@ -15,6 +15,13 @@ If you feel like this modlist is for you, click [here](https://docs.google.com/d
 
 If you're still curious about what Keizaal has in store for you, I have provided a brief overview below.
 
+__**Table of Contents**__
+- [Essentials](https://github.com/wabbajack-tools/mod-lists/tree/master/Keizaal/#Essentials)
+- [Graphics](https://github.com/wabbajack-tools/mod-lists/tree/master/Keizaal/#Graphics)
+- [Animations](https://github.com/wabbajack-tools/mod-lists/tree/master/Keizaal/#Animations)
+- [Gameplay](https://github.com/wabbajack-tools/mod-lists/tree/master/Keizaal/#Gameplay)
+- [Credits](https://github.com/wabbajack-tools/mod-lists/tree/master/Keizaal/#Credits)
+
 ## Essentials
 
 ![Keizaal 2.5.0](https://drive.google.com/uc?export=view&id=1wWh9sdQ3tEqnCP4ulTiaT1ClifCJMdJe)
@@ -59,20 +66,20 @@ Next up we will be disgussing perhaps the most important part of a modlist, the 
 
 ![Keizaal 2.5.1](https://drive.google.com/uc?export=view&id=1gbriTac5mxtxSrD77gkG90IBIpVXqsoK)
 
-**Simon Magus** for tolerating my constant badgering about my load order.
+**Simon Magus** for tolerating my constant badgering about my load order
 
-**Paleo the Parrot**, **VictorF**, and **ElectricSparx** for helping me understand xEdit.
+**Paleo the Parrot**, **VictorF**, and **ElectricSparx** for helping me understand xEdit
 
 **Shade088** for all his help getting Keizaal’s graphical suite opperational
 
-**Total**,  **Lively**, and **Shelb** for helping me get the Wabbajack installer operational over several long nights.
+**Total**,  **Lively**, and **Shelb** for helping me get the Wabbajack installer operational over several long nights
 
 **uggcaveman** for saving Keizaal that one time
 
-**Dylan James** for helping me understand what I wanted out of this modlist.
+**Dylan James** for helping me understand what I wanted out of this modlist
 
-**halgari and entire Wabbajack Team** for creating such a fantastic resource.
+**halgari and entire Wabbajack Team** for creating such a fantastic resource
 
-**The wonderful mod authors** for making this modlist possible.
+**The wonderful mod authors** for making this modlist possible
 
 # THIS PAGE IS UNDER CONSTRUCTION
