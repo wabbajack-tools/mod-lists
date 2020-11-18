@@ -9,9 +9,7 @@ A few criteria for the mods on this list:
 3. **Mods must have decent longevity.** This modlist wants to be somewhat relevant, in theory, forever.  
 4. **Stability is the most important thing.** This rule basically supersedes all the above. If a mod introduces major stability concerns it will be quickly cut.
 
-You can find a full list of the mods included in Keizaal [here](https://modwat.ch/u/Keizaal/).
-
-If you feel like this modlist is for you, click [here](https://docs.google.com/document/d/1DnVSjHktriJga9eRmonNzls3hIO0OocoIqYSg_qLqMo/edit?usp=sharing) to go to the readme and begin installation.
+You can find a full list of the mods included in Keizaal [here](https://modwat.ch/u/Keizaal/). If you feel like this modlist is for you, click [here](https://docs.google.com/document/d/1DnVSjHktriJga9eRmonNzls3hIO0OocoIqYSg_qLqMo/edit?usp=sharing) to go to the readme and begin installation.
 
 If you're still curious about what Keizaal has in store for you, I have provided a brief overview below.
 
@@ -53,7 +51,7 @@ The [Dynamic Animation Replacer](https://www.nexusmods.com/skyrimspecialedition/
 
 ![Keizaal 3.1.1](https://drive.google.com/uc?export=view&id=1vDGiSmWTsryhJiczZqHwrhRgkapAuMsz)
 
-Next up we will be disgussing perhaps the most important part of a modlist, the gameplay! 
+Next up we will be discussing perhaps the most important part of a modlist, the gameplay! Keizaal is largely built around [Simon Magus](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files)' overhaul mods (affectionately referred to as "SimonRim"), they are a great series of mods that lines up perfectly with what I'm trying to accomplish with this list. Simon doesn't attempt to change Skyrim completely, but rather to take what it gives us and enhance it to be the best version that it can be. [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) is the backbone for this entire experience. It is a perk overhaul that attempts to make every tree worthwhile and introduce new and fun playstyles to build around, all without becoming too bloated or straying too far away from what Skyrim is. [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) is a combat overhaul that tries to make Skyrim combat more active and engaging without turning it into a Dark Souls clone. Both Simon and I have a pet peeve for combat mods that try to emulate Souls-likes, not because we don't enjoy those games, but rather because we don't think it fits Skyrim's gameplay very well. Blade and Blunt puts a particular emphasis on power attacks and adaqute resource management of your health, magicka, and stamina. I would be amiss not to mention perhaps Simon's most famous mod: [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839). This mod aims to overhaul magic in Skyrim and fill gaps in Vanilla progression. A lot of new spells have been seamlessly integrated into leveled lists and many more spells have been re-balanced to better fit into the progression that Simon has established. Each of these overhaul mods are a great addition to Keizaal and serve to improve on areas of Skyrim without changing it to be completely unrecognizable.
 
 ## Credits
 
