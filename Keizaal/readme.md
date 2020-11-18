@@ -51,7 +51,7 @@ The [Dynamic Animation Replacer](https://www.nexusmods.com/skyrimspecialedition/
 
 ## Gameplay
 
-![](https://drive.google.com/uc?export=view&id=1vDGiSmWTsryhJiczZqHwrhRgkapAuMsz)
+![Keizaal 3.1.1](https://drive.google.com/uc?export=view&id=1vDGiSmWTsryhJiczZqHwrhRgkapAuMsz)
 
 ## Credits
 
