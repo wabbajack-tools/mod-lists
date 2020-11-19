@@ -1,6 +1,8 @@
 <!-- markdownlint-disable MD041 -->
 ![total_installations](https://img.shields.io/endpoint?url=https://build.wabbajack.org/metrics/badge/smeft/total_installs_badge.json)
 
+**THIS MODLIST IS MEANT AS A BASIS TO START YOUR OWN MODDING JOURNEY AND INCLUDES ALL THE FIXES AND TOOLS KNOWN TO ME WITH A FEW ADDED RECOMMENDATIONS!!!**
+
 ## Documentation|Instructions|Required Reading
 
 [All of the above can be found on the dedicated webpage.](https://eziothedeadpoet.github.io/SME-FT-/)
