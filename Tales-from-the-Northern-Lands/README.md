@@ -4,8 +4,9 @@
 
 ## Documentation|Readme|Instructions|Required Reading
 
-[All of the above can be found on the "new"/revived webpage.](https://github.com/EzioTheDeadPoet/Tales-from-the-Northern-Lands#tales-from-the-northern-lands)
-Well somehow i broke it before the release :( so you just have some neat formanted github pages until I can find the issue. :(
+[All of the above can be found on the dedicated webpage.](https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/)
+
+[If it looks broken, might happen if I redesign it, view the instructions here.](https://github.com/EzioTheDeadPoet/Tales-from-the-Northern-Lands#tales-from-the-northern-lands)
 
 ## Credits and Thanks
 
