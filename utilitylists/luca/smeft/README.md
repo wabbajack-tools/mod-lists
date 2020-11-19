@@ -1,0 +1,20 @@
+# SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
+
+![total_installations](https://img.shields.io/endpoint?url=https://build.wabbajack.org/metrics/badge/smeft/total_installs_badge.json)
+
+## Documentation|Readme|Instructions|Required Reading
+
+[All of the above can be found on the dedicated webpage.](https://eziothedeadpoet.github.io/SME-FT-/)
+
+[If it looks broken, might happen if I redesign it, view the instructions here.](https://github.com/EzioTheDeadPoet/SME-FT-/)
+
+## Credits and Thanks
+
+- ForgottenGlory for making SME(FT) due to his early support.
+- Everyone giving me feedback on the mod choices.
+- Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
+- And ALL the mod authors that made the mods featured in this list. <3
+
+## Changelog
+
+See [Changelog](https://eziothedeadpoet.github.io/SME-FT-/CHANGELOG.html).
