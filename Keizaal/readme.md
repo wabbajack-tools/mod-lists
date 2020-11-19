@@ -5,7 +5,7 @@
 3. **Mods must have decent longevity.** This modlist wants to be somewhat relevant, in theory, forever.  
 4. **Stability is the most important thing.** This rule basically supersedes all the above. If a mod introduces major stability concerns it will be quickly cut.
 
-You can find a full list of the mods included in Keizaal [here](https://modwat.ch/u/Keizaal/). If you feel like this modlist is for you, click [here](https://docs.google.com/document/d/1DnVSjHktriJga9eRmonNzls3hIO0OocoIqYSg_qLqMo/edit?usp=sharing) to go to the readme and begin installation.
+You can find a full list of the mods included in Keizaal [here](https://modwat.ch/u/Keizaal/). If you feel like this modlist is for you, click [here](https://docs.google.com/document/d/1DnVSjHktriJga9eRmonNzls3hIO0OocoIqYSg_qLqMo/edit?usp=sharing) to go straight to the installation guide.
 
 If you're still curious about what Keizaal has in store for you, I have provided a brief overview below.
 
