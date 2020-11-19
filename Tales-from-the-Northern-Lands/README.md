@@ -1,6 +1,4 @@
 <!-- markdownlint-disable MD041 -->
-![total_installations](https://img.shields.io/endpoint?url=https://build.wabbajack.org/metrics/badge/TalesFromTheNorthernLands/total_installs_badge.json)
-
 ## Documentation|Screenshots|Instructions|Required Reading
 
 [All of the above can be found on the dedicated webpage.](https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/)
@@ -10,13 +8,13 @@
 ## Credits and Thanks
 
 - Xanza for writing A LOT of the webpage for his modlist.
-- ForgottenGlory for making SME(FT) and this modlist possible due to his early support.
+- ForgottenGlory for making SME(FT) and this modlist possible due to his early support. 🧡
 - Everyone giving me feedback on the artistic choices.
 - the creator of ReShade with its generous [License](ReShade/RESHADELICENSE.md#reshade-license) that allows me to include it.
 - erri120 & jdsmith2816 - Repository template used as a base for the webpage
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
 - Halgari and Noggog for making the high variety in weapons and Armor possible
-- And ALL the mod authors that made the mods featured in this list. <3
+- And ALL the mod authors that made the mods featured in this list.
 
 ## Changelog
 
