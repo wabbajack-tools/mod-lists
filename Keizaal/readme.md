@@ -77,7 +77,7 @@ The last few mods I want to highlight bring some uniqueness to some of Skyrim's 
 
 ![Keizaal 2.5.1](https://drive.google.com/uc?export=view&id=1gbriTac5mxtxSrD77gkG90IBIpVXqsoK)
 
-I hope this overview gave you a good idea of what to expect when you play Keizaal. If you have any inquiries about the list feel free to @ me on the [Wabbajack](https://discord.gg/wabbajack) or [Keizaal](https://discord.gg/eYZJFP8) Discord Servers, I'll do my best to best you out. I hope you enjoy my modslist!
+I hope this overview gave you a good idea of what to expect when you play Keizaal. If you have any inquiries about the list feel free to @ me on the [Wabbajack](https://discord.gg/wabbajack) or [Keizaal](https://discord.gg/eYZJFP8) Discord Servers, I'll do my best to help you out. I hope you enjoy my modslist!
 
 I'd like to individually thank a few people for their contributions in making Keizaal what it is.
 
