@@ -1,8 +1,7 @@
-# Tales from the Northern Lands
-
+<!-- markdownlint-disable MD041 -->
 ![total_installations](https://img.shields.io/endpoint?url=https://build.wabbajack.org/metrics/badge/TalesFromTheNorthernLands/total_installs_badge.json)
 
-## Documentation|Readme|Instructions|Required Reading
+## Documentation|Screenshots|Instructions|Required Reading
 
 [All of the above can be found on the dedicated webpage.](https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/)
 
