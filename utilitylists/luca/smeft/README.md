@@ -11,7 +11,7 @@
 
 ## Credits and Thanks
 
-- ForgottenGlory for making SME(FT) due to his early support.
+- ForgottenGlory for making SME(FT) possible due to his early support.
 - Everyone giving me feedback on the mod choices.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
 - And ALL the mod authors that made the mods featured in this list. <3
