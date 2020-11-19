@@ -1,8 +1,7 @@
-# SME(FT) - Skyrim Modding Essentials (Fixes & Tools)
-
+<!-- markdownlint-disable MD041 -->
 ![total_installations](https://img.shields.io/endpoint?url=https://build.wabbajack.org/metrics/badge/smeft/total_installs_badge.json)
 
-## Documentation|Readme|Instructions|Required Reading
+## Documentation|Instructions|Required Reading
 
 [All of the above can be found on the dedicated webpage.](https://eziothedeadpoet.github.io/SME-FT-/)
 
