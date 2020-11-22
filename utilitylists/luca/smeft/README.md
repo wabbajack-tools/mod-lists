@@ -10,8 +10,11 @@
 ## Credits and Thanks
 
 - ForgottenGlory for making SME(FT) possible due to his early support. 🧡
+- Thanks to NotSandwich on the Wabbajack Discord for sharing some awesome .ini edits that killed all unwanted reflections.🥪
 - Everyone giving me feedback on the mod choices.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
+- Halgari and Noggog for making the high variety in weapons and Armor possible
+- The team behind the Artistic Skyrim Overhaul that inspired me to make this because of it's very distinctive unique style.
 - And ALL the mod authors that made the mods featured in this list.
 
 ## Changelog
