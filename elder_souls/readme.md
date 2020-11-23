@@ -13,7 +13,6 @@
     - [Start Skyrim](#start-skyrim)
   - [Using Wabbajack](#using-wabbajack)
     - [Preparations](#preparations)
-    - [Downloading and Installing](#downloading-and-installing)
       - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
     - [Copy Game Folder Files](#copy-game-folder-files)
@@ -107,21 +106,15 @@ Start the game and exit once you're in the main menu.
 
 #### Preparations
 
-Let's get to the actual installation. Grab the latest release of Elder Souls from [the release tab](https://github.com/jdsmith2816/eldersouls/releases).
+Let's get to the actual installation..
 
-Download the release to a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
+Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases). You need to download the `Wabbajack.exe` file ONLY. Place the `Wabbajack.exe` file in a blank folder at the root of a drive, such as `C:/Wabbajack`.
 
-Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in the _working folder_.
+Launch Wabbajack. When it is finished extracting and installing itself, select the `Browse Modlists` option. Click the Download arrow for Elder Souls, and you will be forwarded to the next screen when it is finished.
 
-#### Downloading and Installing
+Set the `Installation Location` to a blank folder at the root of a drive, such as `D:\Elder Souls`. The `Download Location` will update automatically.
 
-The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
-
-1. Open Wabbajack
-2. Load the Modlist from Disk
-3. Adjust the download and installation paths
-4. Click the Go/Begin button
-5. Wait for Wabbajack to finish
+Click the `Play` arrow.
 
 ##### Problems with Wabbajack
 

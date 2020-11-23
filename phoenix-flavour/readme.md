@@ -1,104 +1,224 @@
+![build-status](https://img.shields.io/endpoint?label=%20&url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2Ftpf%2Fbadge.json)
+
 01 // INTRODUCTION
 ------------------
 
-### 1.1 What Is The Phoenix Flavour?
+## 1.1 What Is The Phoenix Flavour?
 
-First published in 2017, [The Phoenix Flavour](https://thephoenixflavour.com/) is a veteran among Skyrim SE guides. Over the past years, it has slowly evolved into a full-grown guide and made a name for itself as being easy to follow and thorough all around. It transitioned from a modular guide with too many ideas into a more streamlined approach. Thanks to the contributions of some incredibly talented and helpful people, we now feature more than 500 mods that work flawlessly together!
+First published in 2017, [The Phoenix Flavour](https://thephoenixflavour.com/skyrim-se/introduction/) is a veteran among Skyrim SE guides. Over the past years, it has slowly evolved into a full-grown guide and made a name for itself as being easy to follow and thorough all around. It transitioned from a modular guide with too many ideas into a more streamlined approach. Thanks to the contributions of some incredibly talented and helpful people, we now feature more than 600 mods that work flawlessly together!
 
-Please join [The Phoenix Flavour Discord](https://discordapp.com/invite/SV5N6n7/) server for information in regards to the guide itself, or to simply show some appreciation to the TPF team.
+Please join [The Phoenix Flavour Discord](https://discord.gg/BpwXX5f) server for information in regards to the guide itself, or to simply show some appreciation to the TPF team. 
 
-### 1.2 Requirements Before Installing
+## 1.2 Requirements Before Installing
 
--   Current build version of Wabbajack. This can be found on the [Wabbajack Discord](https://discord.gg/wabbajack).
-
--   Clean install of Skyrim Special Edition - note that your game should be installed OUTSIDE of any Windows-protected folder such as Program Files.
-
--   101 gigs of free space. Note that this number does NOT include your Skyrim SE installation.
-
--   You will also need a few extra gigs if Wabbajack is running on the same drive as your installation location, as the program needs space for VFS Staging (the folder in which Wabbajack runs its processes to complete its job).
+* Current build version of Wabbajack. This can be found on the [Wabbajack website](https://www.wabbajack.org/).  
+* Clean install of Skyrim Special Edition - note that your game should be installed OUTSIDE of any Windows-protected folder such as Program Files.  
+* 95 gigs of free space. Note that this number does NOT include your Skyrim SE installation.  
+* You will also need a few extra gigs if Wabbajack is running on the same drive as your installation location, as the program needs space for VFS Staging (the folder in which Wabbajack runs its processes to complete its job).
 
 A Nexus Premium account is highly recommended for automatic download support.
 
 Pirated games and mods are NOT supported.
 
-Once Skyrim is installed, make sure you run it once. (Get to the Skyrim splash screen and exit).
+Once Skyrim is installed, **make sure you run it once**. (Get to the Skyrim splash screen and exit).
 
-### 1.3 Installation Instructions
+## 1.3 Installation Instructions
 
--   Download the latest version of Wabbajack (v1.1.4.0 at the time of this writing).
+* Download the latest version of Wabbajack.  
+* Create a new folder at the root of a drive (Example: D:\Wabbajack).  
+* Place the Wabbajack.exe into this new folder.  
+* Launch Wabbajack.exe and choose the "Browse Modlists" option.  
+* Select "The Phoenix Flavour" from the list of available modlists on the Wabbajack UI.  
+* Click "Download and Install."  
+* In "Installation Location" choose a blank folder at the root of a drive (example: D:\Phoenix Flavour).  
+  * This location CANNOT be where you have the Wabbajack.exe located.  
+  * This location CANNOT be where you have the TPF.wabbajack file saved.  
+  * This location CANNOT be inside of a Windows-protected folder, such as Program Files.  
+  * This location CANNOT be your Skyrim folder in Steam.  
+* The "Download Location" will update automatically. You can change it if you wish.  
+* Click the "Play" arrow.  
+* Make sure to accept the Nexus API request if your browser asks for it.  
+* When Wabbajack completes the installation (you can check the Wabbajack.current.log to confirm it completed successfully), you may close the program.
 
--   Create a new folder at the root of a drive (Example: D:\Wabbajack).
+## 1.4 Post-Installation Instructions - Do Not Skip This Step!
 
--   Place the Wabbajack.exe into this new folder.
+* Navigate back to your Phoenix Flavour installation folder.  
+* Open "Game Folder Files"  
+* Copy everything inside the Game Folder Files folder.  
+* Paste it into your Skyrim SE directory (steam\steamapps\common\Skyrim Special Edition).  
+  * Just to be really clear about this, since there has been some confusion: there is a folder installed by Wabbajack called "Game Folder Files." The contents of this folder are what you need to copy into your Skyrim folder. Not the folder itself, and definitely not everything that Wabbajack installed on your PC. It's just a few .dll files, skse_loader, things like that. It's only about 12 MB of files.
 
-For automatic installations:
-
--   Launch Wabbajack.exe and choose the "Browse Modlists" option.
-
--   Select "The Phoenix Flavour" from the list of available modlists on the Wabbajack UI.
-
--   Click "Download and Install."
-
--   In "Installation Location" choose a blank folder at the root of a drive (example: D:\Phoenix Flavour).
-
--   This location CANNOT be where you have the Wabbajack.exe located.
-
--   This location CANNOT be where you have the The Phoenix Flavour.wabbajack file saved.
-
--   This location CANNOT be inside of a Windows-protected folder, such as Program Files.
-
--   The "Download Location" will update automatically. You can change it if you wish.
-
--   Click the "Play" arrow.
-
--   Make sure to accept the Nexus API request if your browser asks for it.
-
--   When Wabbajack completes the installation (you can check the Wabbajack.exe.log to confirm it completed successfully), you may close the program.
-
-### 1.4 Post-Installation Instructions
-
--   Navigate back to your Phoenix Flavour installation folder.
-
--   Open "Game Folder Files"
-
--   Copy everything in this folder.
-
--   Paste it into your Skyrim SE directory (steam\steamapps\common\Skyrim Special Edition).
-
-### 1.5 ENB Settings
-
-ENBs are never mandatory, but are highly recommended. The Phoenix Flavour recommends using Visceral ENB.
-
-Also important to note: many of the mods installed here rely on an ENB. If you choose not to install an ENB, you will have some strange looking textures, such as flat blue snow that seems to hover on top of the ground, for example.
-
-For instructions on how to set up and use this - or any other - ENB Preset, just click the link below:
-
-[ENBSeries section on The Phoenix Flavour](https://thephoenixflavour.com/guide/finalisation/step-2/)
-
-If you follow the steps exactly as written, you'll have a perfectly installed ENB, along with an ENB Manager and the knowledge of how to use it properly. And it only takes five to ten minutes! Easy.
-
-Last thing to note in regards to ENBs: The Phoenix Flavour uses [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125), so make sure your ENB of choice supports this weather mod.
-
-Well, that does it. Time to start a new game!
-
-### 1.6 First Launch
+## 1.5 First Launch
 
 Congratulations on making it this far. It's been a real rollercoaster. We're almost done....almost....
 
--   Open your Installation folder for Phoenix Flavour and launch ModOrganizer.exe.
+* Open your Installation folder for Phoenix Flavour and launch ModOrganizer.exe.  
+* Make sure the dropdown says SKSE and click Run.  
+* Start a New Game. You'll start in the Live Another Life prison cell. Create your character, then wait for all of the mods to finish configuring.  
+* When the text prompts stop appearing in the upper left corner, it's time for everyone's favorite part: MCM configuration!  
 
--   Make sure the dropdown says SKSE and click Run.
+Let's get started.
 
--   Start a New Game. You'll start in the Live Another Life prison cell. Create your character, then wait for all of the mods to finish configuring.
+Press **Esc**
 
--   When the text prompts stop appearing in the upper left corner, it's time for everyone's favorite part: MCM configuration!
+* **Settings**  
+  * **Display**  
+    * **Depth of Field** - Move the slider all the way down to 0  
+      * Tab out of this menu until you're back in the game.  
 
-Luckily, Phoenix has already set up a page full of recommended settings. Click the link below:
+Press **Esc** and select **MCM**.
 
-[Recommended MCM Settings for The Phoenix Flavour](https://thephoenixflavour.com/guide/new-game/)
+### **A Matter of Time**
 
-I have also included my personal preference in regards to the A Matter of Time configuration. Simply open the MCM menu for A Matter of Time, select Preset, then Load User Settings. Close the MCM menu, and you'll see it magically move into the position I've set up for myself. Technology is crazy, man.  
+* Presets  
+  * User Settings  
+    * Load User Settings  
 
-As a quick side note: Some people seem to have issues with Frozen Electrocution Combustion. If you’re experiencing intermittent crashing, try disabling FEC.  
+### **All Geared Up Deriv.**
 
-If you’re happy with the guide, please consider [donating to Phoenix on her Patreon](https://www.patreon.com/thephoenixflavour). None of this is possible without her and her team.
+* NPC  
+  * Enable Weapons - Enable  
+
+### **Cathedral Weather**
+
+* Settings  
+  * Configuration Spell - Disable  
+
+### **Complete Crafting**
+
+* Recipe Display  
+  * Crafting Menu Filters  
+    * Crafting Categories - Disable  
+    * Item Type Filters - Disable  
+  * Crafting Options  
+    * Additional Items  
+      * More Jewelry - Disable  
+    * Equipment Breakdown  
+      * At Smelter - Disable  
+      * At Tanning Rack - Disable  
+  * Miscellaneous  
+    * Leveled Items  
+      * Upgrade via Crafting - Disable  
+
+### **Diverse Dragons Collection**
+
+* Open MCM and close it. Yes, that's all.  
+
+### **Follower Framework**
+
+* Activity  
+  * Sandboxing  
+    * Ignore Special Furniture - Enable  
+    * Stop During Player Dialogue - Enable  
+    * Only Sandbox in Town - Enable  
+* Gameplay  
+  * Regard System  
+    * Allow Regard - Off  
+* System  
+  * Player Casted Abilities  
+    * Command Followers - Disable  
+  * Core  
+    * Enable ConsoleUtil - Enable  
+
+### **GIST Soul Trap**
+
+* Leveling  
+  * Customize as you wish, or leave it disabled.  
+
+### **Growl Werebeasts**
+
+* Features  
+  * Invulnerable During Transformation - Enable  
+
+### **Immersive HUD**
+
+* Activation  
+  * Compass Activation  
+    * Key Press Toggles - Enable  
+  * SkyUI Active Effects  
+    * Link ALL SkyUI Widgets - Enable  
+
+### **moreHUD**
+
+* Enemy's Level  
+  * Enemy Meters  
+    * Show Magicka Meter - Disable  
+    * Show Stamina Meter - Disable  
+
+### **RDO**
+
+* Other Options  
+  * Toggle NPCs  
+    * Allow RDO Added Followers - Disable  
+    * Allow Terek - Disable  
+
+### **Realistic Water Two**
+
+* Mod Options  
+  * Blacksmith Forge Water  
+    * Kynesgrove - Enable  
+    * Rorikstead - Enable  
+
+### **Timing is Everything**
+
+* Extra Options  
+  * Presets  
+    * Load Preset  
+*(Note: This preset was made by me for no reason whatsoever and is not officially endorsed by Phoenix.)*  
+
+### **Wonders of Weather**
+
+* Options  
+  * Rain Splashes  
+    * Level - Disabled  
+
+### **Lively's Picks**  
+*(aka, not part of the official guide, but I like these settings)*
+
+### **Quick Light**
+
+* Type of Light Source - Magic  
+
+### **SSoB**
+
+* Quest Markers  
+  * Quest Markers on Stones of Barenziah - Enable  
+
+### **Storm Lightning**
+
+* Presets  
+  * Load Preset  
+    * Realistic  
+
+If you're happy with the guide, please consider [donating to Phoenix on her Patreon](https://www.patreon.com/thephoenixflavour). None of this is possible without her and her team.
+
+If you need any support (or just want to hang out with us), feel free to join the [Wabbajack Discord server.](https://discord.gg/wabbajack)
+
+## 1.6 Frequently Asked Questions
+
+**Q:** Hey Lively, why isn't my Night Eye working?  
+**A:** It's an ENB issue. No, I don't have an answer. I personally don't even use the ENB included in the installer because I prefer Serio's. Use the Discord Search function.
+
+**Q:** Hey Lively, why are there black bars on the top and bottom of my screen?  
+**A:** It's an ENB issue. To disable it, open the ENB menu (shift+enter in game), find POSTPASS on the right side, and disable **Letterbox**.
+
+**Q:** Hey Lively, where is my HUD? Why is my compass gone?  
+**A:** It's hidden by iHud. Press X to toggle it (assuming you followed the MCM instructions above).
+
+**Q:** Hey Lively, why is there a random ball of magic floating over my head?  
+**A:** That's QuickLight, which you already configured in the MCM. Press L or Hold E to turn it on and off.  
+
+## 1.7 Widescreen Support
+*(Please note that I do not own a widescreen setup, and thus cannot help troubleshoot this section. These instructions were provided by @Mantis#1337.)*
+
+Go to the [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) page.  
+Download the following files:
+
+* Complete Widescreen Fix for SkyUI 5.2 SE Alpha- 2560x1080  
+* Better Dialogue Control Widescreen Fix 
+* Better Message Box Control Widescreen Fix
+* Even Wider Rescaled MCM Menu for SkyUI - Widescreen Fix
+* SkyHud High Resolution Widescreen Fix
+
+Install the archives with Mod Organizer 2. They will be in the right window, under the Downloads section.  
+Be sure to RENAME the mods during installation. You can click the dropdown box and select the appropriate filename for each as you install them.  

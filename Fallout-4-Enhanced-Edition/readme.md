@@ -28,11 +28,11 @@ Your game will be much less recognizable and very tough, especially at early lev
 
 ### Step 0:
 
-Create a new folder named 'F4EE' anywhere outside of Program Files. Then, download Wabbajack and select Fallout 4 Enhanced Edition from the list of modlists shown, and install it.
+Run Fallout 4 once from Steam. You can close the launcher when it detects your video settings. After this, create a new folder named 'F4EE' anywhere outside of Program Files. Then, download [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and select Fallout 4 Enhanced Edition from the list of modlists shown, and install it to the folder you just made.
 
 ### Step 1:
 
-After it finishes, go to your install folder, and open up the `Game Folder Files` and Copy these all into your Fallout 4 Directory.
+After it finishes, go to your install folder, and open up the `Game Folder Files` folder and Copy these all into your Fallout 4 Directory.
 
 ### Step 2:
 
@@ -70,11 +70,11 @@ Run the installer.bat file inside of WorkBase, and when it is done (grab a coffe
 
 ### Step 6:
 
-Launch MO2 from the exe found in your install folder. When it launches, be sure to select `Portable` and then `Fallout 4`. You can take the optional tutorial if you would like. Once launched, in your right pane, select the `Downloads` tab.
+Launch MO2 from the exe found in your install folder.
 
 ### Step 7:
 
-In the top right of MO2, select use the drop down menu to select `FO4Config`, and hit the `Run` button to the right of that. When opened, direct it to your `Fallout4.exe` location. After this is done, follow these pictures and instructions --->  [Click Here](https://imgur.com/a/0On3H1o). Just make sure to copy those images, and you will be good. After that is done, be sure to click `Save` and close the program.
+In the top right of MO2, use the drop down menu to select `FO4Config`, and hit the `Run` button to the right of that. When opened, direct it to your `Fallout4.exe` location. DO NOT replace the Fallout4Launcher if prompted. After this is done, follow these pictures and instructions --->  [Click Here](https://imgur.com/a/0On3H1o). Just make sure to copy those images, and you will be good. After that is done, be sure to click `Save` and close the program.
 
 ### Step 8:
 
