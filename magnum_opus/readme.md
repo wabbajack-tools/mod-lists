@@ -103,25 +103,34 @@ Once you reach the exit to Vault 111 and ride the elevator, we can finish settin
 *_Note: Anything involving hotkeys can be set up however you like. These are simply the way I have them set up for myself._
 
 Companion Command Hotkeys  
-![alt text](https://i.imgur.com/zdWBj7f.png)  
+![alt text](https://i.imgur.com/QMQqSSu.png)  
 
 Faster Workshop Hotkey  
-![alt text](https://i.imgur.com/tEU1HFi.png)  
+![alt text](https://i.imgur.com/kkgYNFT.png)  
 
 More AGOMBz - More attacks - Swap the first two categories.  
-![alt text](https://i.imgur.com/j1yfx47.png)
+![alt text](https://i.imgur.com/vdXySOe.png)
 
 More AGOMBz - More...Disable - Disable Radstags.
-![alt text](https://i.imgur.com/niLT1kH.png)
+![alt text](https://i.imgur.com/VREBmyj.png)
 
-Workshop Framework - Turn off Allow Settlements to Leave (optional) and Shelter Mechanic (optional)  
-![alt text](https://i.imgur.com/NDfG7LO.png)  
+QuickTrade
+![alt text](https://i.imgur.com/Xi0aqLJ.png)
+
+Sim Settlements 2
+![alt text](https://i.imgur.com/nTuRz20.png)
+
+Wait Anywhere
+![alt text](https://i.imgur.com/YP6OOnl.png)
+
+Workshop Framework - Turn off Allow Settlements to Leave (optional)  
+![alt text](https://i.imgur.com/KaQWMZp.png)  
 
 Workshop Plus - Options - Disable Clear Weather.  
-![alt text](https://i.imgur.com/M3Fl1sJ.png)  
+![alt text](https://i.imgur.com/BGZnDBG.png)  
 
 Workshop Plus - Hotkeys
-![alt text](https://i.imgur.com/Y3FvKmU.png)
+![alt text](https://i.imgur.com/aklZPWs.png)
 
 **Holotape Settings:**   
 Open the Beantown Interiors Holotape in your Pipboy and select the following options:  
@@ -147,11 +156,9 @@ That's it! Have fun!
 4) Download a [standalone Adobe Flash Player from Adobe](https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flashplayer_32_sa_debug.exe)
 
 5) Paste the "flashplayer_32_sa_debug.exe" in the same location as HUDMenuSet.swf  
-
+  *  Note that Magnum Opus already has a custom Def UI preset, aptly titled Lively's HUD Preset. Disable this mod in MO2.  
 6) Execute the standalone Adobe Flash Player(the .exe you just downloaded) and load HUDMenuSet.swf (from here it will work as the DEF_UI HUDMenuSet.exe)  
-
 7) Move the UI elements to your liking (or leave as is). Once satisfied hit Ctrl+S  
-  *  Note that Magnum Opus already has a custom Def UI preset, aptly titled Lively's HUD Preset. Disable this mod in MO2 if you want to make your own.  
 8) Create a new folder DEF_CONF in the same location as HUDMenuSet.swf and save the new XML file inside the new folder  
 
 #### Crashlogs:  
