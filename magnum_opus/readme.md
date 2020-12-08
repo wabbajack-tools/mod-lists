@@ -16,7 +16,7 @@ This list is NOT built with Survival Mode in mind. I don't play it. I don't like
   *  Clean install of Fallout 4, **without the official Hi Def DLC**.  Note that if you previously used BiRatBec's Workbase and replaced the texture archives in Fallout 4\data, you will need to make a backup of these and verify files to obtain the original, unmodified texture archives.
   *  A Nexusmods account. Nexus Premium is highly recommended for automatic download support.  
   *  115 gigs of free space. Note that this number does NOT include your Fallout 4 installation.  
-    *  That’s 27 GB for downloads, 74 GB for installation, and a little extra wiggle room to be safe.  
+    *  That’s 28 GB for downloads, 74 GB for installation, and a little extra wiggle room to be safe.  
   
   Once Fallout 4 is installed, *run it once through Steam.* This will establish registry keys and allow Wabbajack to locate the game on your PC. 
 
@@ -86,7 +86,9 @@ After all of these steps are complete, you may delete the WorkBase folder. If yo
   *  Go to the Updates tab, and change the Automatic Update option to “Only update this game when I launch it.”  
 *Since we’re always launching from F4SE, it will never automatically update again.*  
 
-#### That’s it! Launch Mod Organizer 2 inside the Magnum Opus folder. From now on, you must launch Fallout 4 via the “F4SE” option in Mod Organizer 2.   
+#### That’s it! Launch Mod Organizer 2 inside the Magnum Opus folder. From now on, you must launch Fallout 4 via the “F4SE” option in Mod Organizer 2. 
+
+There are two profiles here. One is just a version without Private Military Company, and I literally made it for one single person. So if you're wondering why you have patches disabled that are named "NoPMC" then...that's why. You can ignore them.  
 
 **I do not use an ENB. Please stop asking.** If you want one, just use whatever you want. There are some comparison screenshots pinned in the Magnum-Opus-Support channel on the Wabbajack Discord server.  
 
@@ -105,6 +107,12 @@ You'll get two prompts after you grab the Pip-Boy. Just select the defaults. Onc
 Companion Command Hotkeys  
 ![alt text](https://i.imgur.com/QMQqSSu.png)  
 
+FallUI - Item List
+![alt text](https://i.imgur.com/TK3trBh.png)
+
+FallUI - Text Style
+![alt text](https://i.imgur.com/hKvkStJ.png)
+
 Faster Workshop Hotkey  
 ![alt text](https://i.imgur.com/kkgYNFT.png)  
 
@@ -117,10 +125,10 @@ More AGOMBz - More...Disable - Disable Radstags.
 QuickTrade
 ![alt text](https://i.imgur.com/Xi0aqLJ.png)
 
-Sim Settlements 2
+Sim Settlements 2 - Respect Build Limit - Off (Optional)
 ![alt text](https://i.imgur.com/nTuRz20.png)
 
-Wait Anywhere
+Wait Anywhere - Hotkey: T
 ![alt text](https://i.imgur.com/YP6OOnl.png)
 
 Workshop Framework - Turn off Allow Settlements to Leave (optional)  
@@ -160,6 +168,7 @@ That's it! Have fun!
 6) Execute the standalone Adobe Flash Player(the .exe you just downloaded) and load HUDMenuSet.swf (from here it will work as the DEF_UI HUDMenuSet.exe)  
 7) Move the UI elements to your liking (or leave as is). Once satisfied hit Ctrl+S  
 8) Create a new folder DEF_CONF in the same location as HUDMenuSet.swf and save the new XML file inside the new folder  
+  *  Note that removing the brackets from the loot menu will also break Hud Plus Plus. So maybe don't do that.
 
 #### Crashlogs:  
 
