@@ -6,7 +6,7 @@ Pirated games and mods are not supported.
 Feel free to [buy me a pizza or something](https://www.patreon.com/nicholasjae).
 
 **Modlist Summary:**  
-An incredibly clean and stable list featuring tons of new quests & locations, vastly expanded settlement systems, a massively interconnected collection of NPC overhauls, and of course hundreds of new outfits, armors, & weapons.
+An incredibly clean and stable list featuring tons of new quests & locations, vastly expanded settlement systems, a massively interconnected collection of NPC overhauls, and of course hundreds of new outfits, armors, & weapons. For information on how to start the new quest content, please see the bottom of the readme.
 
 This list is NOT built with Survival Mode in mind. I don't play it. I don't like it. If you want Survival, you should play [Fallout 4 Enhanced Edition](https://www.wabbajack.org/#/modlists/info?machineURL=fallout_4_enhanced_edition).
 
@@ -15,8 +15,8 @@ This list is NOT built with Survival Mode in mind. I don't play it. I don't like
   *  Current build version of [Wabbajack](https://www.wabbajack.org/#/).  
   *  Clean install of Fallout 4, **without the official Hi Def DLC**.  Note that if you previously used BiRatBec's Workbase and replaced the texture archives in Fallout 4\data, you will need to make a backup of these and verify files to obtain the original, unmodified texture archives.
   *  A Nexusmods account. Nexus Premium is highly recommended for automatic download support.  
-  *  100 gigs of free space. Note that this number does NOT include your Fallout 4 installation.  
-    *  That’s 26 GB for downloads, 67 GB for installation, and a little extra wiggle room to be safe.  
+  *  115 gigs of free space. Note that this number does NOT include your Fallout 4 installation.  
+    *  That’s 28 GB for downloads, 74 GB for installation, and a little extra wiggle room to be safe.  
   
   Once Fallout 4 is installed, *run it once through Steam.* This will establish registry keys and allow Wabbajack to locate the game on your PC. 
 
@@ -38,7 +38,7 @@ Navigate back to your Magnum Opus installation folder.
 Open “Game Folder Files”  
 Copy everything in this folder.  
 Paste it into your Fallout 4 directory (steam/steamapps/common/Fallout 4).  
-  *  Just to be really clear about this: do not copy/paste the entire folder. Only the **contents** of Game Folder Files. It's only six individual little files totaling under 2 MB.
+  *  Just to be really clear about this: do not copy/paste the entire folder. Only the **contents** of Game Folder Files. It's only six individual little files totaling around 8 MB.
 
 #### This section is **optional but highly recommended**. It can be done at any time before or after installation.
 
@@ -86,45 +86,59 @@ After all of these steps are complete, you may delete the WorkBase folder. If yo
   *  Go to the Updates tab, and change the Automatic Update option to “Only update this game when I launch it.”  
 *Since we’re always launching from F4SE, it will never automatically update again.*  
 
-#### That’s it! Launch Mod Organizer 2 inside the Magnum Opus folder. From now on, you must launch Fallout 4 via the “F4SE” option in Mod Organizer 2.  
+#### That’s it! Launch Mod Organizer 2 inside the Magnum Opus folder. From now on, you must launch Fallout 4 via the “F4SE” option in Mod Organizer 2. 
 
-Now, we still have a little bit of work left to do, but we’re almost done. Before you go any further, you should cap your FPS at 60. You can do this through your gpu driver settings, enabling vsync, or setting an fps limiter in your enb settings (if you choose to add one). 
-If you choose to enable vsync, you need to open the ini editor in Mod Organizer 2. At the top of the window, there are three .ini files listed. Select the Fallout4Prefs.ini and look for the line **iPresentInterval=0** under the **[Display]** heading, then change it to a **1**, so the end result is **iPresentInterval=1**.  
+There are two profiles here. One is just a version without Private Military Company, and I literally made it for one single person. So if you're wondering why you have patches disabled that are named "NoPMC" then...that's why. You can ignore them.  
 
-**I do not use an ENB. Please stop asking. If you want one, just use whatever you want.**  
+**I do not use an ENB. Please stop asking.** If you want one, just use whatever you want. There are some comparison screenshots pinned in the Magnum-Opus-Support channel on the Wabbajack Discord server.  
 
-Now we can launch the game. Once you finish character customization, you’ll have two options when you try to leave. Take note that this modlist uses **Start Me Up - Basic Version**.  
+Now we can launch the game. Once you finish character customization, you’ll have two options when you try to leave. Take note that this modlist uses **Start Me Up - Basic Version**. No, you can't install the Full version, you'll break a lot of stuff.  
 
 **DO NOT PRESS C DURING CHARACTER CREATION.** This is a known bug with LooksMenu. The Clothes option WILL LOCK YOUR GAME.
 
 **This is a memory, I don’t want to relive this**: You wake up in Vault 111 as Nate. Everything else is normal.  
 **This is a memory, stay here a while**: Vanilla Fallout 4 intro.  
 
-Once you reach the exit to Vault 111 and ride the elevator, we can finish setting up the game. Press the “Esc” key and select “Mod Config”. This is the last step, I swear.  
+You'll get two prompts after you grab the Pip-Boy. Just select the defaults. Once you reach the exit to Vault 111 and ride the elevator, we can finish setting up the game. Press the “Esc” key and select “Mod Config”. This is the last step, I swear.  
 
 #### MCM Settings:
 *_Note: Anything involving hotkeys can be set up however you like. These are simply the way I have them set up for myself._
 
 Companion Command Hotkeys  
-![alt text](https://i.imgur.com/zdWBj7f.png)  
+![alt text](https://i.imgur.com/QMQqSSu.png)  
+
+FallUI - Item List
+![alt text](https://i.imgur.com/TK3trBh.png)
+
+FallUI - Text Style
+![alt text](https://i.imgur.com/hKvkStJ.png)
 
 Faster Workshop Hotkey  
-![alt text](https://i.imgur.com/tEU1HFi.png)  
+![alt text](https://i.imgur.com/kkgYNFT.png)  
 
 More AGOMBz - More attacks - Swap the first two categories.  
-![alt text](https://i.imgur.com/j1yfx47.png)
+![alt text](https://i.imgur.com/vdXySOe.png)
 
 More AGOMBz - More...Disable - Disable Radstags.
-![alt text](https://i.imgur.com/niLT1kH.png)
+![alt text](https://i.imgur.com/VREBmyj.png)
 
-Workshop Framework - Turn off Allow Settlements to Leave (optional) and Shelter Mechanic (optional)  
-![alt text](https://i.imgur.com/NDfG7LO.png)  
+QuickTrade
+![alt text](https://i.imgur.com/Xi0aqLJ.png)
+
+Sim Settlements 2 - Respect Build Limit - Off (Optional)
+![alt text](https://i.imgur.com/nTuRz20.png)
+
+Wait Anywhere - Hotkey: T
+![alt text](https://i.imgur.com/YP6OOnl.png)
+
+Workshop Framework - Turn off Allow Settlements to Leave (optional)  
+![alt text](https://i.imgur.com/KaQWMZp.png)  
 
 Workshop Plus - Options - Disable Clear Weather.  
-![alt text](https://i.imgur.com/M3Fl1sJ.png)  
+![alt text](https://i.imgur.com/BGZnDBG.png)  
 
 Workshop Plus - Hotkeys
-![alt text](https://i.imgur.com/Y3FvKmU.png)
+![alt text](https://i.imgur.com/aklZPWs.png)
 
 **Holotape Settings:**   
 Open the Beantown Interiors Holotape in your Pipboy and select the following options:  
@@ -150,13 +164,30 @@ That's it! Have fun!
 4) Download a [standalone Adobe Flash Player from Adobe](https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flashplayer_32_sa_debug.exe)
 
 5) Paste the "flashplayer_32_sa_debug.exe" in the same location as HUDMenuSet.swf  
-
+  *  Note that Magnum Opus already has a custom Def UI preset, aptly titled Lively's HUD Preset. Disable this mod in MO2.  
 6) Execute the standalone Adobe Flash Player(the .exe you just downloaded) and load HUDMenuSet.swf (from here it will work as the DEF_UI HUDMenuSet.exe)  
-
 7) Move the UI elements to your liking (or leave as is). Once satisfied hit Ctrl+S  
-  *  Note that Magnum Opus already has a custom Def UI preset, aptly titled Lively's HUD Preset. Disable this mod in MO2 if you want to make your own.  
 8) Create a new folder DEF_CONF in the same location as HUDMenuSet.swf and save the new XML file inside the new folder  
+  *  Note that removing the brackets from the loot menu will also break Hud Plus Plus. So maybe don't do that.
 
 #### Crashlogs:  
 
 Look, I'm not perfect. If your game CTDs, upload the most recent crashlog from \Documents\My Games\Fallout4\F4SE\ into the #magnum-opus-support channel on the Wabbajack Discord.
+
+If you're consistently crashing on loading a save or exiting a specific area, it's probably an nvidia driver crash. Try reverting back to version 442.xx of your gpu driver.
+
+#### Starting the New Content:
+
+**Sim Settlements 2** - Pick up the magazine on top of the Sanctuary workbench. This will give you materials to build a Recruitment Beacon (Power > Misc). Build it, then wait for a minute. A stranger will approach you.  
+
+**David Hunter** - Find him on the upper deck of the Prydwen.  
+
+**Echo** - Note at the Diamond City Bounty Board (next to Moe Cronin's shop).  
+
+**Xander's Aid** - Go to Dugout Inn.  
+
+**Kelly Manor Horror** - Find a display case in the wilderness north of Parson's Creamery. Do not wear power armor inside. Do not leave your power armor immediately outside the vicinity of the manor. This is meant to be done without companions. Your screen visuals will return to normal after the quest is over, so it is recommended to do the quest in its entirety once you start it.  
+
+**Huntress Manor** - Find Ronald either in Far Harbor or (if fog condensors are taken care of already) at a camp near the Nucleus. Only triggers after obtaining the quest to meet Longfellow.  
+
+**Tales From the Commonwealth** - Everywhere, but a "main" quest begins in the Nahant Post Office (just to the right of the gate when you go to Nahant).
