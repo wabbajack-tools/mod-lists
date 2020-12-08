@@ -174,6 +174,8 @@ That's it! Have fun!
 
 Look, I'm not perfect. If your game CTDs, upload the most recent crashlog from \Documents\My Games\Fallout4\F4SE\ into the #magnum-opus-support channel on the Wabbajack Discord.
 
+If you're consistently crashing on loading a save or exiting a specific area, it's probably an nvidia driver crash. Try reverting back to version 442.xx of your gpu driver.
+
 #### Starting the New Content:
 
 **Sim Settlements 2** - Pick up the magazine on top of the Sanctuary workbench. This will give you materials to build a Recruitment Beacon (Power > Misc). Build it, then wait for a minute. A stranger will approach you.  
