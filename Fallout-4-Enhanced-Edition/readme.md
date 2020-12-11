@@ -4,7 +4,7 @@ Your game will be much less recognizable and very tough, especially at early lev
 
 ### The main differences in 1.2:
 
-* 6 NEW Quest mods!
+* 5 NEW Quest mods!
 * Overhauled crafting for Weapons, Clothing and Armor!
 * Better AI for enemies as well as Companions
 * Better Stability, and less save corruption
