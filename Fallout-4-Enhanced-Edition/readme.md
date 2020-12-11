@@ -2,7 +2,7 @@
 
 Your game will be much less recognizable and very tough, especially at early levels; you have been warned. Along with being more difficult, this modlist makes Fallout 4 look better, play better, adds new guns, new ways to build settlements, new strategies and ways to roleplay your character. It even adds new content to explore all over the map. New NPCs, new quests, new adventures, and new enemies to fight, all fitting into the world and making it that much more enjoyable. Fallout 4 always seemed a little empty, so now you have more things to play around with to fill the world yourself, as well as new things that already fill some of the empty void! Roleplay to your heart's content, or find a way to become the strongest being in the Commonwealth; it's all up to you! Oh, and the annoying voice of the main character is gone, so you can sound like yourself for once! You are not shoehorned into being whoever the game tells you to. You are you. Play this game how YOU want to, not like how Bethesda wants you to.
 
-###The main differences in 1.2:
+### The main differences in 1.2:
 
 * 6 NEW Quest mods!
 * Overhauled crafting for Weapons, Clothing and Armor!
