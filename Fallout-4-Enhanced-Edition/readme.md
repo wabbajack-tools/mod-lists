@@ -10,7 +10,7 @@ Your game will be much less recognizable and very tough, especially at early lev
 * Better Stability, and less save corruption
 * Greater than 60 FPS capability! (If your system can run it)
 * New armor for Raiders, Gunners, Minutemen and BOS! (All distributed in the levelled lists too!)
-* 3 new Guns!
+* 3 new Guns over Alpha!
 
 ## Requirements:
 
@@ -88,6 +88,10 @@ Under `Other Settings`, set `Active Effects` to `Always`.
 Now, open your PipBoy, go to `Misc`, and `Settings`, and open the `Beantown Interiors` Holotape. Go to `Customize Options -> Other Options` and `Enable Hardcore Clutter`. Then, go to `Mod Compatibility` and `Enable Insidejobs Compatibility`.
 * **True Storms Configuration**:  
 Now, open the Holotape `True Storms Configuration` and enable `True Storms Effects`. If you want the game to be extra hard, keep `Constant Rads (Rad Rain)` Enabled, and also Enable `Ghoul Horde Chance`.
+
+### Step 6 (Optional):
+
+For an additional little tweak for those of you who can run this at 60+ FPS, you will use the ENB Menu to limit your FPS (Which I HIGHLY recommend), and to prevent screen tears, use your GPU's inbuilt profile selctor for Fallout 4 to use Fast V-Sync.
 
 ---
 
