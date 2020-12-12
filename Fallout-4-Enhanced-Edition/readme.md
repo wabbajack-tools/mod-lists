@@ -22,7 +22,7 @@ Your game will be much less recognizable and very tough, especially at early lev
 
 ### Step 0:
 
-Run Fallout 4 once from Steam. You can close the launcher when it detects your video settings. After this, create a new folder named 'F4EE' anywhere outside of Program Files. Then, download [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and select Install From Disk and select the F4EE file you just downloaded, and install it to the folder you just made.
+Run Fallout 4 once from Steam. You can close the launcher when it detects your video settings. After this, create a new folder named 'F4EE' anywhere outside of Program Files. I HIGHLY recoomend installing on an SSD! Then, in Wabbajack, click the `...` next to `Installation Location` and select the F4EE folder you just made. Feel free to keep the `Download Location` anywhere you like, or leave it at the default.
 
 ### Step 1:
 
