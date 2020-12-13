@@ -15,8 +15,8 @@ This list is NOT built with Survival Mode in mind. I don't play it. I don't like
   *  Current build version of [Wabbajack](https://www.wabbajack.org/#/).  
   *  Clean install of Fallout 4, **without the official Hi Def DLC**.  Note that if you previously used BiRatBec's Workbase and replaced the texture archives in Fallout 4\data, you will need to make a backup of these and verify files to obtain the original, unmodified texture archives.
   *  A Nexusmods account. Nexus Premium is highly recommended for automatic download support.  
-  *  115 gigs of free space. Note that this number does NOT include your Fallout 4 installation.  
-    *  That’s 28 GB for downloads, 74 GB for installation, and a little extra wiggle room to be safe.  
+  *  100 GB of free space. Note that this number does NOT include your Fallout 4 installation.  
+    *  That’s 27.8 GB for downloads, 42.4 GB GB for installation, and a little extra wiggle room to be safe.  
   
   Once Fallout 4 is installed, *run it once through Steam.* This will establish registry keys and allow Wabbajack to locate the game on your PC. 
 
