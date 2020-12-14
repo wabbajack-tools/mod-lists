@@ -88,7 +88,7 @@ I'd like to individually thank a few people for their contributions in making Ke
 
 **Shade088** for all his help getting Keizaal’s graphical suite operational
 
-**Qetah** for Keizaal’s beautiful banner and icons
+**Catir** for Keizaal’s beautiful banner and icons
 
 **Total**,  **Lively**, and **Double Dog** for helping me get the Wabbajack installer operational over several long nights
 
