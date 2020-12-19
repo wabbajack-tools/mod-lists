@@ -69,6 +69,8 @@ Now, launch your game from F4SE in your MO2! After creating your character, you 
 Mod Settings: Set `Helmet Protection` and `Bandage Heal` to `OFF`.
 * **HoloTime**:   
 For `Toggle HoloTime Display`, set it to the `?/` key. Then, click on `Widget Position`, and move the widget to the very top middle of your screen, with `Y` being close to 1, and `X` being close to half of your monitor's resolution width. Then, ensure that scale is `0.5`.
+* **FallUI**:   
+Customize this as you see fit, UI is subjective here. I will provide a full guide on what I do in 1.2.1, since I haven't had time to play enough to decide what is best.
 * **VAFS Redux**:  
 Focus: For `Hotkey: Toggle Focus`, put `Q`. If you cannot, rebind VATS in your regular settings menu.
 Attack: For `Hotkey Use Critical`, put `L Alt`.
