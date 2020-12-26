@@ -6,8 +6,6 @@ Originally based off Lexy's Legacy of the Dragonborn modlist, this list aims to 
 
 ~~[Gameplay Overview](GameplayGuide.md)~~ Working on an update!
 
-![Skyrimified Header Image](https://gitlab.com/trawzified/skyrimified/-/raw/master/Pictures/1.0.0-gitlab.gif)
-
 <!-- vim-markdown-toc GitLab -->
 
 * [Recommended PC Specifications](#recommended-pc-specifications)
