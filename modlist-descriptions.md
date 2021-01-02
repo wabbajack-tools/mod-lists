@@ -54,6 +54,8 @@ TSO is a finely-tuned modlist based on Requiem v1.9.4 and AZ Tweaks. Almost ever
 
 Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. Currently it has the full suite of SimonMagus' mods, as well as being the only modlist on Wabbajack to include Open Cities.
 
+Keizaal also features a more in-depth overview of all its features that can be found [here](https://www.wabbajack.org/#/modlists/info?machineURL=keizaal).
+
 **_Mods to get familiar with:_**
 
 [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191)  
