@@ -52,7 +52,7 @@ TSO is a finely-tuned modlist based on Requiem v1.9.4 and AZ Tweaks. Almost ever
 
 ### [Keizaal](https://www.wabbajack.org/#/modlists/info?machineURL=keizaal)
 
-Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. Currently it has the full suite of SimonMagus' mods, as well as being the only modlist on Wabbajack to include Open Cities.
+Keizaal is a simple modlist that focuses on improving what is already presented to us in vanilla Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011.
 
 Keizaal also features a more in-depth overview of all its features that can be found [here](https://www.wabbajack.org/#/modlists/info?machineURL=keizaal).
 
