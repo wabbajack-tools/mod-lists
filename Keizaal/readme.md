@@ -14,7 +14,7 @@ If you're still curious about what Keizaal has in store for you, I have provided
 
 ## Essentials
 
-![Keizaal 2.5.0](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Essentials%20Banner.png)
+![Keizaal 2.5.0](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Essentials%20Banner.png)
 
 There are some mods that every installation of Skyrim just needs to have. This includes a ton of fixes from [SKSE64](https://skse.silverlock.org/) to [meh321](https://www.nexusmods.com/skyrimspecialedition/users/2964753?tab=user+files)'s various engine-level fixes. I won't spend time talking much about this because I'm sure you're all aware of this and know what to expect. However, I will highlight some of the inclusions unique to Keizaal.
 
@@ -26,7 +26,7 @@ Lastly I have a short list of miscellaneous mods I wanted to talk about in this 
 
 ## Graphics
 
-![Keizaal 2.1.0](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Graphics%20Banner.png)
+![Keizaal 2.1.0](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Graphics%20Banner.png)
 
 Keizaal contains a large visual package to improve the visual fidelity of the game while sticking true to the original art style that Bethesda presented us. I use a mixture of [Skyrim Realistic Overhaul](https://www.moddb.com/mods/skyrim-realistic-overhaul), [Project Clarity](https://www.nexusmods.com/skyrimspecialedition/search/?RH_ModList=nav:true,home:false,type:0,user_id:0,game_id:1704,advfilt:true,search%5Bfilename%5D:Project+Clarity,include_adult:true,page_size:20,show_game_filter:false), [Skyland AIO](https://www.nexusmods.com/skyrimspecialedition/mods/34179), and [aMidianBorn Book of Silence](https://www.nexusmods.com/skyrimspecialedition/mods/35382) as a base to build off of. From there I add on a wide array of texture and mesh replacer that are too numerous to list here individually. I will discuss some of the more noteworthy inclusions.
 
@@ -40,7 +40,7 @@ Besides for the mods listed above Gamwich's [Rustic](https://www.nexusmods.com/s
 
 ## Animations
 
-![Keizaal 2.3.6](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Animations%20Banner.png)
+![Keizaal 2.3.6](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Animations%20Banner.png)
 
 This modlist does not contain any distinctly new or overly flashy animations. As with the rest of these mods I try to stick close to the Vanilla style, but enhance things when possible. The [Movement Behavior Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/38950) is a great example of a mod like this, it adds a few great things to movement animations to make them feel more natural. First and foremost it introduces procedural learning, this simply means that characters will lean slightly in the direction they are moving to give a better sense of weight. The mod also adds a ton of new transition animations between movement directions to make everything flow better as opposed to Vanilla's immediate turning. [Immersive Animations](https://www.nexusmods.com/skyrimspecialedition/mods/4254) is a nice companion piece to this mod as it makes slight tweaks to animations to remove some jank (notably the dual-wield idle stance).
 
@@ -48,7 +48,7 @@ The [Dynamic Animation Replacer](https://www.nexusmods.com/skyrimspecialedition/
 
 ## Gameplay
 
-![Keizaal 3.1.1](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Gameplay%20Banner.png)
+![Keizaal 3.1.1](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Gameplay%20Banner.png)
 
 Next up we will be discussing perhaps the most important part of a modlist, the gameplay! Keizaal is largely built around [Simon Magus](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files)' overhaul mods (affectionately referred to as "SimonRim"), they are a great series of mods that lines up perfectly with what I'm trying to accomplish with this list. Simon doesn't attempt to change Skyrim completely, but rather to take what it gives us and enhance it to be the best version that it can be. [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) is the backbone for this entire experience. It is a perk overhaul that attempts to make every tree worthwhile and introduce new and fun play styles to build around, all without becoming too bloated or straying too far away from what Skyrim is. [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) is a combat overhaul that tries to make Skyrim combat more active and engaging without turning it into a Dark Souls clone. Both Simon and I have a pet peeve for combat mods that try to emulate Souls-likes, not because we don't enjoy those games, but rather because we don't think it fits Skyrim's gameplay very well. Blade and Blunt puts a particular emphasis on power attacks and adequate resource management of your health, magicka, and stamina. I would be remiss not to mention perhaps Simon's most famous mod: [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839). This mod aims to overhaul magic in Skyrim and fill gaps in Vanilla progression. A lot of new spells have been seamlessly integrated into leveled lists and many more spells have been re-balanced to better fit into the progression that Simon has established. Each of these overhaul mods are a great addition to Keizaal and serve to improve on areas of Skyrim without changing it to be completely unrecognizable.
 
@@ -60,7 +60,7 @@ I have a series of other gameplay mods that are on a much smaller scale. The kin
 
 ## Miscellaneous
 
-![Keizaal 2.5.7](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Miscellaneous%20Banner.png)
+![Keizaal 2.5.7](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Miscellaneous%20Banner.png)
 
 Now onto our final category: the miscellaneous mods! Now that's not to say that these mods are any less than the ones I have categorized, quite the opposite, some of my favorite mods are here, rather these don't fit easily into the sections I have laid out above.
 
@@ -76,7 +76,7 @@ The last few mods I want to highlight bring some uniqueness to some of Skyrim's 
 
 ## Afterword
 
-![Keizaal 2.5.1](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Credits%20Banner.png)
+![Keizaal 2.5.1](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Credits%20Banner.png)
 
 I have highlighted only a fraction of the mods available in the list but I do hope this overview gave you a good idea of what to expect when you play Keizaal. If you have any inquiries about the list feel free to @ me on the [Wabbajack](https://discord.gg/wabbajack) or [Keizaal](https://discord.gg/eYZJFP8) Discord Servers, I'll do my best to help you out. I hope you enjoy my modslist!
 
