@@ -99,7 +99,7 @@ Now we can launch the game. Once you finish character customization, you’ll ha
 **This is a memory, I don’t want to relive this**: You wake up in Vault 111 as Nate. Everything else is normal.  
 **This is a memory, stay here a while**: Vanilla Fallout 4 intro.  
 
-You'll get two prompts after you grab the Pip-Boy. Just select the defaults. Once you reach the exit to Vault 111 and ride the elevator, we can finish setting up the game. Press the “Esc” key and select “Mod Config”. This is the last step, I swear.  
+You'll get two prompts after you open the vault door in Vault 111. Just select the defaults. Once you reach the exit to Vault 111 and ride the elevator, we can finish setting up the game. Press the “Esc” key and select “Mod Config”. This is the last step, I swear.  
 
 #### MCM Settings:
 *_Note: Anything involving hotkeys can be set up however you like. These are simply the way I have them set up for myself._
