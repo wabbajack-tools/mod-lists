@@ -200,11 +200,11 @@ It is Legacy of the Dragonborn centered with additions like music, animations, m
 
 **_Mods to get familiar with:_**
 
-[EnaiRim](https://www.nexusmods.com/skyrimspecialedition/users/3959191) or [SimonRim](https://www.nexusmods.com/skyrimspecialedition/users/67410746)
-[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)
-[Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194)  
-[Enemy (R)Evolution of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/37228)
-[Dynamic Dungeon Loot](https://www.nexusmods.com/skyrimspecialedition/mods/10308)
+-[EnaiRim](https://www.nexusmods.com/skyrimspecialedition/users/3959191) or [SimonRim](https://www.nexusmods.com/skyrimspecialedition/users/67410746)
+-[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)
+-[Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194)  
+-[Enemy (R)Evolution of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/37228)
+-[Dynamic Dungeon Loot](https://www.nexusmods.com/skyrimspecialedition/mods/10308)
 
 ## Fallout 4
 
