@@ -192,6 +192,19 @@ Tales from the Northern Lands is a list that focuses primarily on offering a sty
 
 ***
 
+### [QWEST!](https://www.wabbajack.org/#/modlists/info?machineURL=qwest)
+
+QWEST! was born after a few friends were talking about how some of their friends couldn't enjoy cool quests in modded Skyrim, even with Wabbajack, due to the hardware requirements. This list has very few graphical enhancements which can be removed if you find you're struggling to run it.
+It is Legacy of the Dragonborn centered with additions like music, animations, many new lands, many vanilla quest enhancers, better looking NPCs, unique followers and much more, tested to be ran perfectly fine by people with 2GB of VRAM graphic cards.
+2 Profiles exists so you can choose between EnaiRim and SimonRim.
+
+**_Mods to get familiar with:_**
+
+[EnaiRim](https://www.nexusmods.com/skyrimspecialedition/users/3959191) or [SimonRim](https://www.nexusmods.com/skyrimspecialedition/users/67410746)
+[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)
+[Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194)  
+[Enemy (R)Evolution of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/37228)
+[Dynamic Dungeon Loot](https://www.nexusmods.com/skyrimspecialedition/mods/10308)
 
 ## Fallout 4
 
