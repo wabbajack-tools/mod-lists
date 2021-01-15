@@ -171,7 +171,7 @@ Equanimity is a list that focuses on integrating various modded/DLC like feature
 
 **_Mods to get familiar with:_**
 
-[Better Vampires](https://www.nexusmods.com/skyrimspecialedition/mods/1925)  
+[Scion - A Vampire Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/41639)  
 [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
 [Complete Crafting Overhaul Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/28608)  
 [Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506)  
