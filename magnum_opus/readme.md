@@ -170,6 +170,7 @@ That's it! Have fun!
 8) Create a new folder DEF_CONF in the same location as HUDMenuSet.swf and save the new XML file inside the new folder  
   *  Note that removing the brackets from the loot menu will also break Hud Plus Plus. So maybe don't do that.
 9) Open up Truby9 and delete the LevelUpMenu.swf file. Failing to do this will cause an instant crash to desktop when using Baka Interface.
+  *  You also need to remove the BarterMenu.swf and ContainerMenu.swf files from Truby9 and Truby9 Def UI for FallUI compatibility.
 
 #### Crashlogs:  
 
