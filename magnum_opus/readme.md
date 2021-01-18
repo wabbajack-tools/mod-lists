@@ -107,6 +107,18 @@ You'll get two prompts after you open the vault door in Vault 111. Just select t
 Companion Command Hotkeys  
 ![alt text](https://i.imgur.com/QMQqSSu.png)  
 
+Custom Camera - Standard
+![alt text](https://i.imgur.com/UhgV6QN.png)  
+
+Custom Camera - Power Armor
+![alt text](https://i.imgur.com/IwfxTSB.png)  
+
+Custom Camera - Miscellaneous
+![alt text](https://i.imgur.com/ZTexP2Z.png)  
+
+Custom Camera - Features
+![alt text](https://i.imgur.com/PuDef9C.png)  
+
 FallUI - Item List
 ![alt text](https://i.imgur.com/TK3trBh.png)
 
