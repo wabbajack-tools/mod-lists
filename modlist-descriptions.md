@@ -161,8 +161,8 @@ Serenity is a Skyrim SE modlist that aims to bring a fresh Requiem Experience to
 
 [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
 [Requiem](https://www.nexusmods.com/skyrim/mods/19281)  
-[Requiem - Mortal Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/27292)
-[Requiem - Immersive Divine Blessings](https://www.nexusmods.com/skyrim/mods/90691)
+[Requiem - Mortal Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/27292)  
+[Requiem - Immersive Divine Blessings](https://www.nexusmods.com/skyrim/mods/90691)  
 
 ***
 
