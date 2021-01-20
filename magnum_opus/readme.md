@@ -94,8 +94,6 @@ There are two profiles here. One is just a version without Private Military Comp
 
 Now we can launch the game. Once you finish character customization, you’ll have two options when you try to leave. Take note that this modlist uses **Start Me Up - Basic Version**. No, you can't install the Full version, you'll break a lot of stuff.  
 
-**DO NOT PRESS C DURING CHARACTER CREATION.** This is a known bug with LooksMenu. The Clothes option WILL LOCK YOUR GAME.
-
 **This is a memory, I don’t want to relive this**: You wake up in Vault 111 as Nate. Everything else is normal.  
 **This is a memory, stay here a while**: Vanilla Fallout 4 intro.  
 
