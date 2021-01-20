@@ -46,7 +46,7 @@ NOIR is meant to serve two purposes: first, to introduce players to the world of
 
 TSO is a finely-tuned modlist based on Requiem v1.9.4 and AZ Tweaks. Almost everything has been modified by hand, and is meant to be a challenging experience unlike any you’ve had before. This is very much a game you are meant to experience for yourself without asking for a walkthrough, so be prepared to die a lot while you learn how best to handle the new mechanics.
 
-[TSO Gameplay Guide](https://drive.google.com/open?id=1YREfPB1nOppZdrKCEgVcvkCCASk39ne3cSwgJgofz7I)
+[TSO Gameplay Guide](https://github.com/NotTotal/Total-Skyrim-Overhaul/blob/master/README.md#gameplay-guide)
 
 ***
 
@@ -162,6 +162,7 @@ Serenity is a Skyrim SE modlist that aims to bring a fresh Requiem Experience to
 [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
 [Requiem](https://www.nexusmods.com/skyrim/mods/19281)  
 [Requiem - Mortal Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/27292)  
+[Requiem - Immersive Divine Blessings](https://www.nexusmods.com/skyrim/mods/90691)  
 
 ***
 
