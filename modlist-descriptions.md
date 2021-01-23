@@ -166,20 +166,6 @@ Serenity is a Skyrim SE modlist that aims to bring a fresh Requiem Experience to
 
 ***
 
-### [Equanimity](https://www.wabbajack.org/#/modlists/info?machineURL=equanimity)
-
-Equanimity is a list that focuses on integrating various modded/DLC like features into the base game of Skyrim while also introducing a whole slew of quest mods, weapons and armor mods and new gameplay mechanics to keep the gameplay fresh. Equanimity uses the full suite of [Simon Magus](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files)’s Overhaul mods and focuses largely on Legacy of the Dragonborn as its main quest-line. In completing the LOTD, you will be exposed to multiple modded quest mods such as Vigilant, Wyrmstooth, Wheels of Lull and Undeath to spruce up your gameplay even further.
-
-**_Mods to get familiar with:_**
-
-[Scion - A Vampire Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/41639)  
-[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
-[Complete Crafting Overhaul Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/28608)  
-[Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506)  
-[Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191)  
-
-***
-
 ### [Tales From the Northern Lands](https://www.wabbajack.org/#/modlists/info?machineURL=TalesFromTheNorthernLands)
 
 Tales from the Northern Lands is a list that focuses primarily on offering a stylized look similar to Borderlands, the Tales of/from … or the TellTale Walking Dead games. A very welcome side effect of this is that it will even run on older hardware like a GTX 950 and possibly lower. And for people that are only interested in the visual changes made by the list, there is a “Basics” profile included you can use customize to your liking*. This is for if the various gameplay tweaks make the game too much of an easy “power fantasy” for you.
