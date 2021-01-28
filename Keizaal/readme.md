@@ -74,13 +74,15 @@ I'd like to individually thank a few people for their contributions in making Ke
 
 ______________________________________________________________________________________________________________________________________________________________________
 
+**VictorF** for his constant support and helpful criticism regarding both Keizaal and my own mods
+
 **Simon Magus** for tolerating my constant badgering about my load order
 
-**Paleo the Parrot**, **VictorF**, and **ElectricSparx** for helping me understand xEdit
+**Paleo the Parrot** and **ElectricSparx** for helping me understand xEdit
 
 **Shade088** for all his help getting Keizaal’s graphical suite operational
 
-**Catir** for Keizaal’s beautiful banner and icons
+**Catir** for Keizaal's beautiful banner and icons
 
 **Total**,  **Lively**, and **Double Dog** for helping me get the Wabbajack installer operational over several long nights
 
