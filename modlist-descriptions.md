@@ -62,7 +62,6 @@ Keizaal also features a more in-depth overview of all its features that can be f
 [Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839)  
 [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549)  
 [Cities of the North](https://www.nexusmods.com/skyrimspecialedition/mods/28952)  
-[Open Cities](https://www.nexusmods.com/skyrimspecialedition/mods/281)  
 [EpicCrab](https://www.nexusmods.com/skyrimspecialedition/users/4117328?tab=user+files) and [Parapets](https://www.nexusmods.com/skyrimspecialedition/users/39501725?tab=user+files) mod suites
 
 ***
