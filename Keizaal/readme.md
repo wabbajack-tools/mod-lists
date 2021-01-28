@@ -12,6 +12,13 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
 
 If you're still curious about what Keizaal has in store for you, I have provided a brief overview below.
 
+- [Preamble](#preamble)
+- [Essentials](#essentials)
+- [Graphics](#graphics)
+- [Gameplay](#gameplay)
+- [Miscellaneous](#miscellaneous)
+- [Afterword](#afterword)
+
 ## Essentials
 
 ![Keizaal 2.5.0](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Essentials%20Banner.png)
