@@ -26,7 +26,7 @@ Lastly I have a short list of miscellaneous mods I wanted to talk about in this 
 
 ## Graphics
 
-![Keizaal 2.1.0](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Graphics%20Banner.png)
+![Keizaal 3.0.0](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Graphics%20Banner.png)
 
 Keizaal contains a large visual package to improve the visual fidelity of the game while sticking true to the original art style that Bethesda presented us. I use a mixture of [Skyrim Realistic Overhaul](https://www.moddb.com/mods/skyrim-realistic-overhaul), [Project Clarity](https://www.nexusmods.com/skyrimspecialedition/search/?RH_ModList=nav:true,home:false,type:0,user_id:0,game_id:1704,advfilt:true,search%5Bfilename%5D:Project+Clarity,include_adult:true,page_size:20,show_game_filter:false), [Skyland AIO](https://www.nexusmods.com/skyrimspecialedition/mods/34179), and [aMidianBorn Book of Silence](https://www.nexusmods.com/skyrimspecialedition/mods/35382) as a base to build off of. From there I add on a wide array of texture and mesh replacer that are too numerous to list here individually. I will discuss some of the more noteworthy inclusions.
 
@@ -38,7 +38,7 @@ Besides for the mods listed above Gamwich's [Rustic](https://www.nexusmods.com/s
 
 ## Gameplay
 
-![Keizaal 3.1.1](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Gameplay%20Banner.png)
+![Keizaal 3.4.1.2](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Gameplay%20Banner.png)
 
 Next up we will be discussing perhaps the most important part of a modlist, the gameplay! Keizaal is largely built around [Simon Magus](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files)' overhaul mods (affectionately referred to as "SimonRim"), they are a great series of mods that lines up perfectly with what I'm trying to accomplish with this list. Simon doesn't attempt to change Skyrim completely, but rather to take what it gives us and enhance it to be the best version that it can be. [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) is the backbone for this entire experience. It is a perk overhaul that attempts to make every tree worthwhile and introduce new and fun play styles to build around, all without becoming too bloated or straying too far away from what Skyrim is. [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) is a combat overhaul that tries to make Skyrim combat more active and engaging without turning it into a Dark Souls clone. Both Simon and I have a pet peeve for combat mods that try to emulate Souls-likes, not because we don't enjoy those games, but rather because we don't think it fits Skyrim's gameplay very well. Blade and Blunt puts a particular emphasis on power attacks and adequate resource management of your health, magicka, and stamina. I would be remiss not to mention perhaps Simon's most famous mod: [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839). This mod aims to overhaul magic in Skyrim and fill gaps in Vanilla progression. A lot of new spells have been seamlessly integrated into leveled lists and many more spells have been re-balanced to better fit into the progression that Simon has established. Each of these overhaul mods are a great addition to Keizaal and serve to improve on areas of Skyrim without changing it to be completely unrecognizable.
 
