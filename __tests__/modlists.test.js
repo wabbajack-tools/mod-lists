@@ -1,4 +1,4 @@
-const modlists = require('./modlists.json');
+const modlists = require('../modlists.json');
 const _ = require('underscore');
 
 describe('test modlists.json', () => {
