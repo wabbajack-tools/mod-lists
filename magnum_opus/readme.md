@@ -88,7 +88,14 @@ After all of these steps are complete, you may delete the WorkBase folder. If yo
 
 #### That’s it! Launch Mod Organizer 2 inside the Magnum Opus folder. From now on, you must launch Fallout 4 via the “F4SE” option in Mod Organizer 2. 
 
-There are two profiles here. One is just a version without Private Military Company, and I literally made it for one single person. So if you're wondering why you have patches disabled that are named "NoPMC" then...that's why. You can ignore them.  
+If you're playing with a controller (why?), your pipboy map won't work. Open the MO2 INI Editor, select fallout4prefs.ini, and scroll down until you see the `[Display]` section. At the bottom, you'll find two lines:  
+`uPipboyTargetHeight=1400`  
+`uPipboyTargetWidth=1752`  
+Change these two lines to the following:  
+`uPipboyTargetHeight=700`  
+`uPipboyTargetWidth=876`  
+
+There are two profiles in Mod Organizer 2. One is just a version without Private Military Company, and I literally made it for one single person. So if you're wondering why you have patches disabled that are named "NoPMC" then...that's why. You can ignore them.  
 
 **I do not use an ENB. Please stop asking.** If you want one, just use whatever you want. There are some comparison screenshots pinned in the Magnum-Opus-Support channel on the Wabbajack Discord server.  
 
