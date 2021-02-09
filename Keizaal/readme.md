@@ -7,4 +7,5 @@ Please visit the [official website](https://pierredespereaux.github.io/Keizaal/)
 
   - Check the [full mod list](https://modwat.ch/u/Keizaal/).
   - Join us on [Discord](https://discord.gg/eYZJFP8).
+  - Buy me a [Coffee]](https://ko-fi.com/pierredespereaux)
   - Support me on [Patreon](https://www.patreon.com/user?u=16914107).
