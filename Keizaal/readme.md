@@ -6,5 +6,5 @@
 Please visit the [official website](https://pierredespereaux.github.io/Keizaal/) for more information as well as installation and configuration instructions.
 
   - Check the [full mod list](https://modwat.ch/u/Keizaal/).
-  - Join us on Discord(https://discord.gg/eYZJFP8).
+  - Join us on [Discord](https://discord.gg/eYZJFP8).
   - Support me on [Patreon](https://www.patreon.com/user?u=16914107).
