@@ -193,6 +193,7 @@ Survival mods such as The Frozen North, SunHelm and Campfire are toggleable.
 [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194)  
 [Enemy (R)Evolution of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/37228)
 [Dynamic Dungeon Loot](https://www.nexusmods.com/skyrimspecialedition/mods/10308)
+[Detailled Document of all the quest mods](https://docs.google.com/spreadsheets/d/15h4lGfMr4z_1hqPp8LDVbTLLRqgjaQBUUSIYc6XtJGU/edit#gid=0)
 
 ## Fallout 4
 
