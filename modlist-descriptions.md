@@ -20,7 +20,12 @@ Currently, the only official Skyrim VR list built for Wabbajack, UVRE’s primar
 [VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)  
 [Spellsiphon - Immersive Combat](https://www.nexusmods.com/skyrimspecialedition/mods/26627)  
 [Muken's Arcane Archery](https://www.nexusmods.com/skyrimspecialedition/mods/30404)  
+[HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)  
+[VR Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/38539)  
 [Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374)  
+[Be Seated](https://www.nexusmods.com/skyrimspecialedition/mods/16613) 
+[MageVR](https://www.nexusmods.com/skyrimspecialedition/mods/21297)  
+[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
 
 There is also a [handy dandy installation video](https://youtu.be/_Y4h4U-MWhA)!
 
