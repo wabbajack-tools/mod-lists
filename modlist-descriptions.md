@@ -23,7 +23,7 @@ Currently, the only official Skyrim VR list built for Wabbajack, UVRE’s primar
 [HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)  
 [VR Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/38539)  
 [Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374)  
-[Be Seated](https://www.nexusmods.com/skyrimspecialedition/mods/16613) 
+[Be Seated](https://www.nexusmods.com/skyrimspecialedition/mods/16613)  
 [MageVR](https://www.nexusmods.com/skyrimspecialedition/mods/21297)  
 [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
 
