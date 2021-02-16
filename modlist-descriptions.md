@@ -10,6 +10,11 @@
 
 ***
 
+### [Skyrimified](https://www.gitlab.com/trawzified/skyrimified)
+
+Originally based off Lexy's Legacy of the Dragonborn modlist, this list aims to expand on it while cranking up the visuals to eleven and containing popular community requested mods fitting my vision of Skyrim. This makes for a list with a big amount of content, but it also requires a very high end system.
+
+For an overview of the various mods included [there's a trailer available that showcases a large part of the important mods.](https://www.youtube.com/watch?v=rUR67HYdXeQ)
 
 ### [Ultimate VR Essentials](https://docs.google.com/document/d/19PhkPbhh0d8_ZoKj5mGBpmUIMU10c_7P94X9FpIuyak/edit)
 
