@@ -13,7 +13,7 @@
 
 ### [Ultimate VR Essentials](https://docs.google.com/document/d/19PhkPbhh0d8_ZoKj5mGBpmUIMU10c_7P94X9FpIuyak/edit)
 
-Currently, the only official Skyrim VR list built for Wabbajack, UVRE’s primary goal is to provide users with a full visual overhaul tailored for Skyrim VR with all the adjustments and frameworks in place to serve as a base for further expansions and customizations, while also offering instant access to VR-centric mods like Spellsiphon and Weapon Throw VR.
+The first official Skyrim VR list built for Wabbajack, UVRE’s primary goal is to provide users with a full visual overhaul tailored for Skyrim VR with all the adjustments and frameworks in place to serve as a base for further expansions and customizations, while also offering instant access to VR-centric mods like Spellsiphon and Weapon Throw VR.
 
 **_Mods to get familiar with:_**
 
@@ -28,6 +28,28 @@ Currently, the only official Skyrim VR list built for Wabbajack, UVRE’s primar
 [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
 
 There is also a [handy dandy installation video](https://youtu.be/_Y4h4U-MWhA)!
+
+***
+
+### [Librum for Skyrim SE and VR](https://github.com/apoapse1/Librum-for-Skyrim-VR)
+
+A re-imagining of Skyrim as a hardcore survival-adventure experience in a gritty, unforgiving landscape, in the tradition of Requiem, YASH, and OOO. Implements hundreds of new quests and locations, reimplements all of Skyrim's mechanics, and completely overhauls the graphics and atmosphere, but tightly integrates it all into the Librum vision.
+
+**_Mods to get familiar with:_**
+
+[VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)  
+[HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)
+[MageVR](https://www.nexusmods.com/skyrimspecialedition/mods/21297) 
+[Vigor - Enhanced Combat](https://www.nexusmods.com/skyrimspecialedition/mods/38075)
+[Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983)  
+[Morrowloot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058)  
+[Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839)
+[Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807)
+[SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
+[Frostfall](https://www.nexusmods.com/skyrimspecialedition/mods/671)
+[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
+
+Really, though, just [RTFM](https://github.com/apoapse1/Librum-for-Skyrim-VR/blob/main/README.md). It's very thorough.
 
 ***
 
