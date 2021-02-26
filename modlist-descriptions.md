@@ -308,15 +308,13 @@ A re-imagining of Skyrim as a hardcore survival-adventure experience in a gritty
 **_Mods to get familiar with:_**
 
 [VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)  
-[HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)
-[MageVR](https://www.nexusmods.com/skyrimspecialedition/mods/21297) 
-[Vigor - Enhanced Combat](https://www.nexusmods.com/skyrimspecialedition/mods/38075)
+[HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)  
+[MageVR](https://www.nexusmods.com/skyrimspecialedition/mods/21297)  
 [Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983)  
 [Morrowloot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058)  
-[Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839)
-[Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807)
-[SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
-[Frostfall](https://www.nexusmods.com/skyrimspecialedition/mods/671)
+[Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807)  
+[SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414)  
+[Frostfall](https://www.nexusmods.com/skyrimspecialedition/mods/671)  
 [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
 
 Really, though, just [RTFM](https://github.com/apoapse1/Librum-for-Skyrim-VR/blob/main/README.md). It's very thorough.
