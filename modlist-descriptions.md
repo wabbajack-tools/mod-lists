@@ -184,16 +184,19 @@ No gameplay additions means there's no perk overhaul, no new quests, no new weap
 
 ***
 
-### [Serenity](https://www.wabbajack.org/#/modlists/info?machineURL=serenity)
+### [Serenity 2](https://www.wabbajack.org/#/modlists/info?machineURL=serenity)
 
-Serenity is a Skyrim SE modlist that aims to bring a fresh Requiem Experience to the table. It uses Requiem 4.0.1 converted to Skyrim Special Edition and has minor and some major tweaks to the core Requiem experience that aims to enhance longevity and replayability while keeping the game fair, balanced and looking great. Serenity is targeted at new and veteran Requiem players and can offer new experiences to both sides of the playerbase. The list should run well on 1440p by utilizing 2K textures everywhere.
+Serenity 2 is a Skyrim SE modlist that aims to bring a fresh Requiem Experience to the table. It uses Requiem 4.0.1 converted to Skyrim Special Edition and has minor and some major tweaks to the core Requiem experience that aims to enhance longevity and replayability while keeping the game fair, balanced and looking great. Serenity is targeted at new and veteran Requiem players and can offer new experiences to both sides of the playerbase. The list should run well on 1440p by utilizing 2K textures everywhere.
 
 **_Mods to get familiar with:_**
 
 [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
 [Requiem](https://www.nexusmods.com/skyrim/mods/19281)  
-[Requiem - Mortal Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/27292)  
-[Requiem - Immersive Divine Blessings](https://www.nexusmods.com/skyrim/mods/90691)  
+[Requiem - Small Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42633)  
+[Requiem - Immersive Divine Blessings](https://www.nexusmods.com/skyrim/mods/90691) 
+[Requiem - Expanded Grimoire](https://www.nexusmods.com/skyrimspecialedition/mods/39214)
+[Requiem - Special Feats](https://www.nexusmods.com/skyrimspecialedition/mods/42588)
+[Requiem - Unarmed Combat Enhancer](https://www.nexusmods.com/skyrimspecialedition/mods/42541)
 
 ***
 
