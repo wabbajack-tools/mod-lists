@@ -97,7 +97,7 @@ Change these two lines to the following:
 
 There are two profiles in Mod Organizer 2. One is just a version without Private Military Company, and I literally made it for one single person. So if you're wondering why you have patches disabled that are named "NoPMC" then...that's why. You can ignore them.  
 
-**I do not use an ENB. Please stop asking.** If you want one, just use whatever you want. There are some comparison screenshots pinned in the Magnum-Opus-Support channel on the Wabbajack Discord server.  
+**I do not use an ENB. Please stop asking.** If you want one, just use whatever you want.  
 
 Now we can launch the game. Once you finish character customization, you’ll have two options when you try to leave. Take note that this modlist uses **Start Me Up - Basic Version**. No, you can't install the Full version, you'll break a lot of stuff.  
 
