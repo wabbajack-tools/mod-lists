@@ -174,7 +174,7 @@ Serenity 2 is a Skyrim SE modlist that aims to bring a fresh Requiem Experience 
 
 ### [QWEST!](https://www.wabbajack.org/#/modlists/info?machineURL=qwest)
 
-QWEST! was born after a few friends were talking about how some of their friends couldn't enjoy cool quests in modded Skyrim, even with Wabbajack, due to the hardware requirements. This list has very few graphical enhancements which can be removed if you find you're struggling to run it.
+QWEST! was born after a few friends were talking about how some of their friends couldn't enjoy cool quests in modded Skyrim, even with Wabbajack, due to the hardware requirements. This list overalls the game graphically, in a way that it does not impact fps.
 It is Legacy of the Dragonborn centered with additions like music, animations, many new lands, many vanilla quest enhancers, better looking NPCs, unique followers and much more, tested to be ran perfectly fine by people with 2GB of VRAM graphic cards.
 2 Profiles exists so you can choose between EnaiRim and SimonRim.
 Survival mods such as The Frozen North, SunHelm and Campfire are toggleable.
