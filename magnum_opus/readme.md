@@ -45,7 +45,6 @@ Paste it into your Fallout 4 directory (steam/steamapps/common/Fallout 4).
 Go to [BiRaitBec’s Modding Guide](https://www.nexusmods.com/fallout4/mods/23556?tab=description).  
 Manually download the **WorkBase** file.  
 Manually download the **Main Repack** files (Part One, Part Two, and Part Three).  
-  *  You can use Performance/Quality repacks as well if you like. I only use Main. Entirely up to you.  
   
 Extract the WorkBase file with 7zip.  
 You should have three folders inside of Workbase: OriginalBa2, PatchedBa2, and PatchedFiles.  
