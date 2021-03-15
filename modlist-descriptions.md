@@ -311,7 +311,7 @@ There is also a [handy dandy installation video](https://youtu.be/_Y4h4U-MWhA)!
 
 ### [Librum for Skyrim SE and VR](https://github.com/apoapse1/Librum-for-Skyrim-VR)
 
-A re-imagining of Skyrim as a hardcore survival-adventure experience in a gritty, unforgiving landscape, in the tradition of Requiem, YASH, and OOO. Implements hundreds of new quests and locations, reimplements all of Skyrim's mechanics, and completely overhauls the graphics and atmosphere, but tightly integrates it all into the Librum vision.
+A gritty, low-magic, hardcore survival-adventure experience with an uncompromising vision. Hundreds of new quests and locations, a total mechanics overhaul, and a complete makeover of the graphics and atmosphere. The path to your destiny as the Dragonborn will be long and treacherous. Welcome to Librum.
 
 **_Mods to get familiar with:_**
 
@@ -325,7 +325,7 @@ A re-imagining of Skyrim as a hardcore survival-adventure experience in a gritty
 [Frostfall](https://www.nexusmods.com/skyrimspecialedition/mods/671)  
 [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
 
-Really, though, just [RTFM](https://github.com/apoapse1/Librum-for-Skyrim-VR/blob/main/README.md). It's very thorough.
+Really, though, please check out our [website](https://librum-modpack.com/).
 
 ***
 
