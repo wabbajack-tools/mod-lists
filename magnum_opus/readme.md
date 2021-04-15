@@ -13,10 +13,9 @@ This list is NOT built with Survival Mode in mind. I don't play it. I don't like
 #### **_Requirements Before Installing:_**
 
   *  Current build version of [Wabbajack](https://www.wabbajack.org/#/).  
-  *  Clean install of Fallout 4, **without the official Hi Def DLC**.  Note that if you previously used BiRatBec's Workbase and replaced the texture archives in Fallout 4\data, you will need to make a backup of these and verify files to obtain the original, unmodified texture archives.
+  *  Clean install of Fallout 4 with all official DLCs, **except the official Hi Def DLC**.  Note that if you previously used BiRatBec's Workbase and replaced the texture archives in Fallout 4\data, you will need to make a backup of these and verify files to obtain the original, unmodified texture archives.
   *  A Nexusmods account. Nexus Premium is highly recommended for automatic download support.  
-  *  100 GB of free space. Note that this number does NOT include your Fallout 4 installation.  
-    *  That’s 27.8 GB for downloads, 42.4 GB GB for installation, and a little extra wiggle room to be safe.  
+  *  Around 100 GB of free space. Note that this number does NOT include your Fallout 4 installation.  
   
   Once Fallout 4 is installed, *run it once through Steam.* This will establish registry keys and allow Wabbajack to locate the game on your PC. 
 
@@ -93,6 +92,7 @@ If you're playing with a controller (why?), your pipboy map won't work. Open the
 Change these two lines to the following:  
 `uPipboyTargetHeight=700`  
 `uPipboyTargetWidth=876`  
+Then find the `[General]` section and change `bGamepadEnable=` from a `0` to a `1`.
 
 There are two profiles in Mod Organizer 2. One is just a version without Private Military Company, and I literally made it for one single person. So if you're wondering why you have patches disabled that are named "NoPMC" then...that's why. You can ignore them.  
 
