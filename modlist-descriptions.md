@@ -105,14 +105,6 @@ Tales from the Northern Lands is a list that focuses primarily on offering a sty
 
 ***
 
-### [Skyrimified](https://www.gitlab.com/trawzified/skyrimified)
-
-Originally based off Lexy's Legacy of the Dragonborn modlist, this list aims to expand on it while cranking up the visuals to eleven and containing popular community requested mods fitting my vision of Skyrim. This makes for a list with a big amount of content, but it also requires a very high end system.
-
-For an overview of the various mods included [there's a trailer available that showcases a large part of the important mods.](https://www.youtube.com/watch?v=rUR67HYdXeQ)
-
-***
-
 ### [Keizaal](https://www.wabbajack.org/#/modlists/info?machineURL=keizaal)
 
 Keizaal is a simple modlist that focuses on improving what is already presented to us in vanilla Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011.
