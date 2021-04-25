@@ -185,9 +185,17 @@ Survival mods such as The Frozen North, SunHelm and Campfire are toggleable and 
 
 ### [Tinvaak](https://www.wabbajack.org/#/modlists/info?machineURL=Tinvaak)
 
-Tinvaak is a modlist focused on revitalising and reworking Skyrim into an actual roleplaying game. Featuring Skyrim Redone, Skyrim Unbound, SkyRem and a suite of survival mods, you can be anyone you want, be it the dragonborn of legend, or a simple woodcutter. A second fully patched profile for Khajiit speak is included as well.
+Tinvaak is a modlist focused on revitalising and reworking Skyrim into an actual roleplaying game. Featuring T3NDO's Skyrim SE Redone, Skyrim Unbound, Oblivion influenced classes and birthsigns and an optional suite of survival mods, you can be anyone you wish. A second fully patched profile for Khajiit speak is included as well.
 
 For an overview of the various mods included, you can view the modlist [showcase and trailer here.](https://www.youtube.com/watch?v=p8CtRdu0-e0)
+
+**_Mods to get familiar with:_**
+
+- [T3NDO's Skyrim Redone](https://www.nexusmods.com/skyrimspecialedition/mods/17915)
+- [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962)
+- [SkyRem Series](https://www.nexusmods.com/skyrimspecialedition/users/19562249)
+- [Skyrim Realistic Conquering](https://www.nexusmods.com/skyrimspecialedition/mods/26396)
+- [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
 
 ***
 
