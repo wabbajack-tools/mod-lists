@@ -17,6 +17,7 @@
   - [Post-Installation](#post-installation)
     - [Copy Game Folder Files](#copy-game-folder-files)
 - [Updating](#updating)
+- [BiRaitBec Texture Optimization](#biraitbec-texture-optimization)
 - [Noteworthy Mods](#noteworthy-mods)
   - [Sim Settlements 2](#sim-settlements-2)
   - [Subway Runner](#subway-runner)
@@ -40,9 +41,13 @@ This means if I like a mod, it's going in. There is no such thing as "it doesn't
 
 To that end, I like new content. I like new areas, new quests, new NPCs, new weapons, new outfits, new faces. You'll find all of that - and a whole lot more - in this list. I genuinely hope you enjoy it as much as I do.
 
+This list is NOT built with Survival Mode in mind. I don't play it. I don't like it. If you want Survival, you should play [Fallout 4 Enhanced Edition](https://www.wabbajack.org/#/modlists/info?machineURL=fallout_4_enhanced_edition).
+
 ## Installation
 
 ### Pre-Installation
+
+You need a legal copy of Fallout 4 through Steam, with all DLCs **EXCEPT** the High Definition DLC. This is garbage and should not be used in any case ever.
 
 These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](#updating).
 
@@ -136,6 +141,44 @@ This means that any additional mods you have installed on top of the Modlist wil
 If you wish for Wabbajack to ignore any additional mods you've installed, rename them to say `[NoDelete]` at the beginning of the name.
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
+
+## BiRaitBec Texture Optimization
+
+Go to [BiRaitBec’s Modding Guide](https://www.nexusmods.com/fallout4/mods/23556?tab=description).  
+Manually download the **WorkBase** file.  
+Manually download the **Main Repack** files (Part One, Part Two, and Part Three).  
+  
+Extract the WorkBase file with 7zip.  
+You should have three folders inside of Workbase: OriginalBa2, PatchedBa2, and PatchedFiles.  
+Navigate to your Fallout4/Data folder and **copy** these 15 files:  
+
+'Fallout4 - Textures1.ba2'  
+'Fallout4 - Textures2.ba2'  
+'Fallout4 - Textures3.ba2'  
+'Fallout4 - Textures4.ba2'  
+'Fallout4 - Textures5.ba2'  
+'Fallout4 - Textures6.ba2'  
+'Fallout4 - Textures7.ba2'  
+'Fallout4 - Textures8.ba2'  
+'Fallout4 - Textures9.ba2'  
+'DLCworkshop01 - Textures.ba2'  
+'DLCworkshop02 - Textures.ba2'  
+'DLCworkshop03 - Textures.ba2'  
+'DLCRobot - Textures.ba2'  
+'DLCCoast - Textures.ba2'  
+'DLCNukaWorld - Textures.ba2'  
+
+**Paste** these files into your **WorkBase/OriginalBa2** folder.
+**Extract** Main Repack Part One into a new folder.
+Inside the new folder, you should see another folder called “**textures**”. **Cut** this textures folder and **paste** it into **Workbase/PatchedFiles**.
+**Repeat the previous two steps** for Part Two and Part Three of the Main Repack archives.
+Run the **installer.bat** file inside of WorkBase.
+When it is done, copy and paste all of the files inside of the PatchedBa2 folder into your Fallout4/Data folder AFTER WABBAJACK IS FINISHED INSTALLING.
+  *  Alternatively, you can make a new folder inside Magnum Opus/mods and paste the archives into there, then activate the new mod in Mod Organizer 2. This will keep your Fallout 4 installation completely clean.  
+  
+After all of these steps are complete, you may delete the WorkBase folder. If you have the space, I advise making a backup of both the vanilla ba2 files as well as the patched ba2 files. It will save you the trouble of having to redownload them again later.
+
+*Note that you CANNOT use the HD DLC for BiRaitBec’s texture optimization. You’ll see missing textures everywhere if you do.*
 
 ## Noteworthy Mods
 
