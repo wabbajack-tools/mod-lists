@@ -183,6 +183,23 @@ Survival mods such as The Frozen North, SunHelm and Campfire are toggleable and 
 
 ***
 
+### [Librum for Skyrim SE and VR](https://github.com/apoapse1/Librum-for-Skyrim-VR)
+
+A gritty, low-magic, hardcore survival-adventure experience with an uncompromising vision. Hundreds of new quests and locations, a total mechanics overhaul, and a complete makeover of the graphics and atmosphere. The path to your destiny as the Dragonborn will be long and treacherous. Welcome to Librum.
+
+**_Mods to get familiar with:_**
+
+[Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983)  
+[Morrowloot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058)  
+[Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807)  
+[SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414)  
+[Frostfall](https://www.nexusmods.com/skyrimspecialedition/mods/671)  
+[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
+
+Really, though, please check out our [website](https://librum-modpack.com/).
+
+***
+
 ### [Tinvaak](https://www.wabbajack.org/#/modlists/info?machineURL=Tinvaak)
 
 Tinvaak is a modlist focused on revitalising and reworking Skyrim into an actual roleplaying game. Featuring T3NDO's Skyrim SE Redone, Skyrim Unbound, Oblivion influenced classes and birthsigns and an optional suite of survival mods, you can be anyone you wish. A second fully patched profile for Khajiit speak is included as well.
@@ -317,7 +334,7 @@ A gritty, low-magic, hardcore survival-adventure experience with an uncompromisi
 
 [VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)  
 [HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)  
-[MageVR](https://www.nexusmods.com/skyrimspecialedition/mods/21297)  
+[Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630)  
 [Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983)  
 [Morrowloot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058)  
 [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807)  
