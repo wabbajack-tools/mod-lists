@@ -213,25 +213,28 @@ Read more about it [here](https://www.nexusmods.com/fallout4/mods/47359)!
 Companion Command Hotkeys  
 ![alt text](https://i.imgur.com/QMQqSSu.png)  
 
-Custom Camera - Standard
+Custom Camera - Standard  
 ![alt text](https://i.imgur.com/UhgV6QN.png)  
 
-Custom Camera - Power Armor
+Custom Camera - Power Armor  
 ![alt text](https://i.imgur.com/IwfxTSB.png)  
 
-Custom Camera - Miscellaneous
+Custom Camera - Miscellaneous  
 ![alt text](https://i.imgur.com/ZTexP2Z.png)  
 
-Custom Camera - Features
+Custom Camera - Features  
 ![alt text](https://i.imgur.com/PuDef9C.png)  
 
-FallUI - Text Style
+FallUI - Coloring  
+![alt text](https://i.imgur.com/liVn6zL.png)
+
+FallUI - Text Style  
 ![alt text](https://i.imgur.com/JdY6CID.png)
 
-FallUI Workbench - Generic Settings
+FallUI Workbench - Generic Settings  
 ![alt text](https://i.imgur.com/FfZ7WHC.png)
 
-FallUI Workbench - Workbench List
+FallUI Workbench - Workbench List  
 ![alt text](https://i.imgur.com/hS3nr3Z.png)
 
 Faster Workshop Hotkey  
@@ -240,16 +243,16 @@ Faster Workshop Hotkey
 More AGOMBz - More attacks - Swap the first two categories.  
 ![alt text](https://i.imgur.com/vdXySOe.png)
 
-More AGOMBz - More...Disable - Disable Radstags.
+More AGOMBz - More...Disable - Disable Radstags.  
 ![alt text](https://i.imgur.com/VREBmyj.png)
 
-QuickTrade
+QuickTrade  
 ![alt text](https://i.imgur.com/FF168gw.png)
 
-Sim Settlements 2 - Respect Build Limit - Off (Optional)
+Sim Settlements 2 - Respect Build Limit - Off  
 ![alt text](https://i.imgur.com/nTuRz20.png)
 
-Wait Anywhere - Hotkey: T
+Wait Anywhere - Hotkey: T  
 ![alt text](https://i.imgur.com/YP6OOnl.png)
 
 Workshop Framework - Turn off Allow Settlements to Leave (optional)  
@@ -258,8 +261,17 @@ Workshop Framework - Turn off Allow Settlements to Leave (optional)
 Workshop Plus - Options - Disable Clear Weather.  
 ![alt text](https://i.imgur.com/BGZnDBG.png)  
 
-Workshop Plus - Hotkeys
+Workshop Plus - Hotkeys  
 ![alt text](https://i.imgur.com/aklZPWs.png)
+
+You and What Army - BOS  
+![alt text](https://i.imgur.com/SMYUY4x.png)
+
+You and What Army - Railroad  
+![alt text](https://i.imgur.com/2CNBPVY.png)
+
+You and What Army - Institute  
+![alt text](https://i.imgur.com/fJquOpK.png)
 
 **Holotape Settings:**   
 Open the Beantown Interiors Holotape in your Pipboy and select the following options:  
