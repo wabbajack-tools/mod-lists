@@ -283,13 +283,6 @@ Open the Beantown Interiors Holotape in your Pipboy and select the following opt
 
 That's it! Have fun!  
 
-### Follower Framework
-
-- System
-  - Load from File
-  - Hotkeyed Abilities
-    - Customize as you wish
-
 ## FAQ
 
 - I am having random crashes.
