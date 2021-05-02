@@ -16,6 +16,7 @@
       - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
     - [Copy Game Folder Files](#copy-game-folder-files)
+    - [Launching the Game](#launching-the-game)
 - [Updating](#updating)
 - [BiRaitBec Texture Optimization](#biraitbec-texture-optimization)
 - [Noteworthy Mods](#noteworthy-mods)
@@ -129,6 +130,10 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 After Wabbajack turns green and says Installation Complete, you can close it. Go to your installation folder (I will refer to this folder as the MO2 folder from now on) and you'll see a folder named `Game Folder Files`.
 
 Copy the all of the files from the `MO2/Game Folder Files` directory into your game folder.
+
+#### Launching the Game
+
+After you copied the Game Folder Files, launch ModOrganizer.exe from inside your installation folder you chose for Wabbajack. Make sure the bar on the right side says `F4SE` and click Run. **You need to launch the game in this exact way every time in order to play with the installed mods.**
 
 ## Updating
 
