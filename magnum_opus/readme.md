@@ -187,6 +187,18 @@ After all of these steps are complete, you may delete the WorkBase folder. If yo
 
 ## Noteworthy Mods
 
+### Sim Settlements 2
+
+Rebuild the Commonwealth with a mysterious stranger in a brand new, fully voiced, and - quite frankly - absolutely amazing questline in this highly anticipated sequel-of-sorts to the original Sim Settlements. 
+
+Read more about it [here](https://www.nexusmods.com/fallout4/mods/47976)!
+
+### Creative Perks Plus
+
+Perk overhaul built on top of another perk overhaul. Fancy!
+
+Read more about it [here](https://www.nexusmods.com/fallout4/mods/49400)!
+
 ### Subway Runner
 
 Explore an expansive, deadly metro system that stretches the length of the entire Commonwealth. No quests here, folks; only loot, exploration, death, radiation, and a new way to travel across the city.
@@ -248,6 +260,11 @@ More AGOMBz - More...Disable - Disable Radstags.
 QuickTrade  
 ![alt text](https://i.imgur.com/FF168gw.png)
 
+Sim Settlements 2 - Respect Build Limit - Off  
+![alt text](https://i.imgur.com/nTuRz20.png)
+
+Some people have reported Cinematic Mode does not allow city plans to build themselves. You may wish to disable that option as well.
+
 Wait Anywhere - Hotkey: T  
 ![alt text](https://i.imgur.com/YP6OOnl.png)
 
@@ -282,6 +299,14 @@ Go ahead and activate True Storms in that holotape while you're at it. Or don't.
 That's it! Have fun!  
 
 ## FAQ
+
+- My Sim Settlements 2 quest is stuck and I can't progress.
+
+  - [Click me](https://wiki.simsettlements2.com/en/getting-started/troubleshooting#im-stuck-on-part-of-the-main-quest).
+
+- Some of my perk chart icons are way off-center.
+
+  - I know. I don't know how to fix it because I don't know how to use flash or jpexs. You can either accept this visual issue in exchange for the new perks, or you can disable `Creative Perks`, `Creative Perks Plus`, & `Kat and Lively Gettin Down`.
 
 - I am having random crashes.
 
