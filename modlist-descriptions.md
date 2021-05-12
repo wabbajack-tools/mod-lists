@@ -281,10 +281,11 @@ This list aims to greatly expand the content of Fallout 4 while keeping the orig
 
 **_Mods to get familiar with:_**
 
+[Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/47976)
 [Beantown Interiors](https://www.nexusmods.com/fallout4/mods/4612)  
 [Subway Runner](https://www.nexusmods.com/fallout4/mods/18639)  
-[This is Trash](https://www.nexusmods.com/fallout4/mods/42552) 
-[Buffout 4](https://www.nexusmods.com/fallout4/mods/47359)   
+[This is Trash](https://www.nexusmods.com/fallout4/mods/42552)  
+[Creative Perks Plus](https://www.nexusmods.com/fallout4/mods/49400)   
 
 ***
 
