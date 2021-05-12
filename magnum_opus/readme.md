@@ -304,6 +304,7 @@ That's it! Have fun!
 
   - [Click me](https://wiki.simsettlements2.com/en/getting-started/troubleshooting#im-stuck-on-part-of-the-main-quest).
 
+
 - Some of my perk chart icons are way off-center.
 
   - I know. I don't know how to fix it because I don't know how to use flash or jpexs. You can either accept this visual issue in exchange for the new perks, or you can disable `Creative Perks`, `Creative Perks Plus`, & `Kat and Lively Gettin Down`.
