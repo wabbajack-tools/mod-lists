@@ -187,12 +187,6 @@ After all of these steps are complete, you may delete the WorkBase folder. If yo
 
 ## Noteworthy Mods
 
-### Sim Settlements 2
-
-Rebuild the Commonwealth with a mysterious stranger in a brand new, fully voiced, and - quite frankly - absolutely amazing questline in this highly anticipated sequel-of-sorts to the original Sim Settlements. 
-
-Read more about it [here](https://www.nexusmods.com/fallout4/mods/47976)!
-
 ### Subway Runner
 
 Explore an expansive, deadly metro system that stretches the length of the entire Commonwealth. No quests here, folks; only loot, exploration, death, radiation, and a new way to travel across the city.
@@ -254,9 +248,6 @@ More AGOMBz - More...Disable - Disable Radstags.
 QuickTrade  
 ![alt text](https://i.imgur.com/FF168gw.png)
 
-Sim Settlements 2 - Respect Build Limit - Off  
-![alt text](https://i.imgur.com/nTuRz20.png)
-
 Wait Anywhere - Hotkey: T  
 ![alt text](https://i.imgur.com/YP6OOnl.png)
 
@@ -285,6 +276,8 @@ Open the Beantown Interiors Holotape in your Pipboy and select the following opt
   *  Other Options  
   *  Mod Compatibility  
   *  Enable Inside Jobs
+
+Go ahead and activate True Storms in that holotape while you're at it. Or don't. I don't care.
 
 That's it! Have fun!  
 
@@ -359,7 +352,7 @@ I don't use an ENB. I never saw the need. If you want to try one, feel free.
 
 ## Credits and Thanks
 
-- Erri120 - Repository template and NPC visuals
+- Erri120 - Repository template
 - AUGSpeed, Total, Kaethela, and the rest of the Wabbajack team for all of their ongoing advise and support.
 - Halgari, creator of Wabbajack, without whom none of us would be here.
 
