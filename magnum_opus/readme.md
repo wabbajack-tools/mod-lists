@@ -309,17 +309,21 @@ That's it! Have fun!
 
   - I know. I don't know how to fix it because I don't know how to use flash or jpexs. You can either accept this visual issue in exchange for the new perks, or you can disable `Creative Perks`, `Creative Perks Plus`, & `Kat and Lively Gettin Down`.
 
+
 - I am having random crashes.
 
   - Check Magnum Opus' Mod Organizer 2. Look at the top right corner for a red triangle with a yellow number. Click it. If one of the warnings says "incompatible plugins" and spits out an error about Buffout 4, then you're missing the memory patch. This can happen in some cases. Reinstall VCRedit, re-copy Game Folder Files, launch the game through MO2 once, and close it again. The warning should now be gone, Buffout should be loaded properly, and you can go on with your day.
+
 
 - Is Creation Club content compatible?
 
   - No idea. I don't own it and I don't use it. CC content is not supported.
 
+
 - Can I add more mods or remove some mods I don't want?
 
   - Can you? Yes. Will I help you? Maybe, but please discuss it in either general channels or my personal Discord server, and be sure to disclose the fact that you've edited the list before reporting any bugs or crashes. If you're open and honest with me, I'm honestly much more willing to help you through your issues.
+
 
 - Why is my crosshair on my pipboy?
 
@@ -330,13 +334,16 @@ That's it! Have fun!
 
   - One follower is enough, and Heather (a modded follower from [here](https://www.nexusmods.com/fallout4/mods/23273)) doesn't occupy a "follower" slot, so you can have Heather + one other companion. Considering how overpowered that is, there is no reason I should add Dogmeat to the mix as well.
 
+
 - I've been following along your [amazing and wonderful modding tutorials](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/Main.md) and they're great! But my added mods are breaking precombines/previs/making shit flicker in and out of existence a lot. What the hell, man?
 
   - Load your mods ABOVE all the `* Previs.esp` files in the load order.
 
+
 - I've been following along your [amazing and wonderful modding tutorials](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/Main.md) and they suck! My game keeps crashing when I add stuff after following your instructions! What the hell, man?
 
   - That sucks. Post in general-f4-discussions in the Wabbajack server, or any channel my personal discord server. If you're not a dick, I'm genuinely more than happy to help if I can.
+
 
 ## Widescreen Support  
 
