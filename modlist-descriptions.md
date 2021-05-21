@@ -218,14 +218,7 @@ For an overview of the various mods included, you can view the modlist [showcase
 
 ### [(NSFW)Tsukiro(NSFW)](https://www.wabbajack.org/#/modlists/info?machineURL=tsukiro)
 
-Tsukiro has a laser focus on bringing Skyrim's combat out of 2011, taking inspiration from titles such as Dark Souls, Sekiro and Black Desert Online, I've aimed to make combat feel impactful and fun to play instead of being a means to an end after hours of preparation with gear and consumables. You'll find yourself looking for fights to get into instead of the other way around and the challenge doesn't come from being prepared, more so from how good your reflexes are and your ability to prioritise high threat targets.
-
-Now that you're covered in the blood of twenty assorted bandits, beasts and maybe the odd mammoth, adrenaline rushing through your veins, what could be better than channeling that carnal energy into making love to your preferred companion? Tsukiro features a light suite of Sexlab-based mods so you can either claim your prize from an injured and humliated foe in the form of some spicy scenes or turn to your preferred waifu/husbando after a bath at the local inn or nearby river for some steamy after-battle action (or you can skip the bath part, I'm not judging). You can also use your body (or your followers) for some alternative solutions to some conundrums (again, not judging).
-
-Because of the NSFW nature of this list, a lot of care has been put in to make the characters of the world look their best. Armour and clothing are also quite revealing for female characters, but not always just outright skimpification: there are many high quality sets to dress yourself in for all sorts of class archetypes.
-
-One final thing I would like to add is that this list utilises the Skyrim Unbound Reborn mod, which is an alternate start with a twist. You are not the Dragonborn by default and some care has been made in making sure people do not address you as that. Dragons returning to the world is delayed so you have some time to actually build your backstory of a character *before* you become a dragon-slaying legendary hero. How much cooler is the story when the Archmage of the College of Winterhold is helping random people and solving civil unrests? 
-
+Ass n titties, swords and pretties.
 
 For a brief introduction to the combat and visuals please check the video here: [showcase and trailer here.](https://www.youtube.com/watch?v=URoyzP_a87s)
 
