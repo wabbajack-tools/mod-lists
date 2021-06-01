@@ -26,7 +26,6 @@
   - [Buffout 4](#buffout-4)
 - [In-Game MCM Options](#in-game-mcm-options)
 - [FAQ](#faq)
-- [Widescreen Support](#widescreen-support)
 - [Controller Support](#controller-support)
 - [ENB](#enb)
 - [Credits and Thanks](#credits-and-thanks)
@@ -315,6 +314,11 @@ That's it! Have fun!
   - Check Magnum Opus' Mod Organizer 2. Look at the top right corner for a red triangle with a yellow number. Click it. If one of the warnings says "incompatible plugins" and spits out an error about Buffout 4, then you're missing the memory patch. This can happen in some cases. Reinstall VCRedit, re-copy Game Folder Files, launch the game through MO2 once, and close it again. The warning should now be gone, Buffout should be loaded properly, and you can go on with your day.
 
 
+  -  Hey Lively, foggy weather looks like shit, what the hell?
+
+    -  I’m busy playing games instead of obsessing over mods for a little while, just wait it out til the weather changes. This is such a minor, insignificant issue that I genuinely don’t really care right now.
+
+
 - Is Creation Club content compatible?
 
   - No idea. I don't own it and I don't use it. CC content is not supported.
@@ -340,34 +344,9 @@ That's it! Have fun!
   - Load your mods ABOVE all the `* Previs.esp` files in the load order.
 
 
-- I've been following along your [amazing and wonderful modding tutorials](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/Main.md) and they suck! My game keeps crashing when I add stuff after following your instructions! What the hell, man?
+- I've been following along your [totally shitty modding tutorials](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/Main.md) and they suck! My game keeps crashing when I add stuff after following your instructions! What the hell, man?
 
   - That sucks. Post in general-f4-discussions in the Wabbajack server, or any channel my personal discord server. If you're not a dick, I'm genuinely more than happy to help if I can.
-
-
-## Widescreen Support  
-
-*Note that I did not write this. I don’t have ultrawide so I can’t help troubleshoot it. Another user left this here for others to possibly learn from.*
-
-1) Install [TRUBY9](https://www.nexusmods.com/fallout4/mods/24630). Choose XDI when asked about Patches. Select nothing else.
-
-2) Install [TRUBY9 DEF_UI Fix](https://www.nexusmods.com/fallout4/mods/43275)
-
-2) Install [TRUBY9 DEF_INV Compatibility Fix](https://www.nexusmods.com/fallout4/mods/43278)
-
-3) Install [DEF_UI HUDMenuSet Ultrawidescreen](https://www.nexusmods.com/fallout4/mods/43277)
-
-4) Download a [standalone Adobe Flash Player from Adobe](https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flashplayer_32_sa_debug.exe)
-
-5) Paste the "flashplayer_32_sa_debug.exe" in the same location as HUDMenuSet.swf  
-  *  Note that Magnum Opus already has a custom Def UI preset, aptly titled Lively's HUD Preset. Disable this mod in MO2.  
-6) Execute the standalone Adobe Flash Player(the .exe you just downloaded) and load HUDMenuSet.swf (from here it will work as the DEF_UI HUDMenuSet.exe)  
-7) Move the UI elements to your liking (or leave as is). Once satisfied hit Ctrl+S  
-8) Create a new folder DEF_CONF in the same location as HUDMenuSet.swf and save the new XML file inside the new folder  
-  *  Note that removing the brackets from the loot menu will also break Hud Plus Plus. So maybe don't do that.
-9) Open up Truby9 and delete the BarterMenu.swf and ContainerMenu.swf files from Truby9 and Truby9 Def UI for FallUI compatibility.
-
-Please also note that some of the custom Power Armor huds may not work properly in Widescreen. I really just don't know.
 
 ## Controller Support
 
