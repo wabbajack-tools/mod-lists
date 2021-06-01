@@ -50,6 +50,12 @@ SSE is still being updated by Bethesda (they only add Creation Club content). Wh
 
 To ensure that Steam does not automatically updates the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
 
+#### Set the Game language to English
+
+You must do this for wabbajack to work. If your game was previously set to non-english make sure to verify your files on steam after fixing it. There is no support for non-english skyrim.
+
+Open the Steam Properties window, navigate to the Language tab and select English from the dropdown menu.
+
 ### Using Wabbajack
 
 #### Preparations
@@ -126,14 +132,26 @@ All MCM options have been preconfigured
 
 ## FAQ
 
+I'm playing on a resolution above 1080p and my game resolution is messed up when I start the game!
+- First, open up MO2, open up MO2's ini editor, and make sure the resolution in the skyrimprefs ini **in mo2** is set to the correct resolution. If this does not solve your problem open up SSE Display Tweaks in mo2, open up its ini and edit it to fit your resolution or just turn it to fullscreen. Finally if you still have a problem check windows scaling settings for skyrim.
+
 Why is there a lantern always attached to my character?  Why am I always casting light?
 - This is provided by a mod called quick light.  Holding E will toggle a light on and off to help brighten darker areas
 
 How do I update to a later version?
 - All you have to do is rerun wabbajack with the new version of the installer. If you have the downloads wabbajack will hash everything, download any new mods, and make the necessary changes in your install folder. You do not need to recopy the game folder files unless they have changed.
 
+My character tposing/has animation issues when moving
+- Cap your fps at or below 75.
+
+My character's hair/eyebrows/beard has weird texture issues
+- You need to use High Poly Head and non-vanilla hair/eyebrows/beard (HPH has duplicates made for HPH)
+
 How do I use High Poly Head?
 - In racemenu search for “face part” and move the slider. HPH will work on any pre existing presets that you have, but you will need to use HPH's eyebrows.
+
+Loverslab downloads keep failing!
+- First make sure you verified your LL account and then restart WJ. If that doesn't work log in and out of LL in the WJ UI. If that doesn't work, grab the failing links from the WJ log, download the files manually, and put them in your downloads folder.
 
 How do I set skyrim to borderless windowed mode?
 - Change the settings in the SSE Display Tweaks INI in MO2
@@ -159,6 +177,8 @@ I think I found a bug! Here are some things that are not bugs:
 - Any other persistent effect on your character
 - Armors that are invisible on male characters
 - Unable to allocate the first crafting skill point
+- Inigo won't speak to me
+- I can't recruit modded followers
 
 ## Performance
 
@@ -169,7 +189,7 @@ My Setup:
 - 32GB DDR4
 - Game and MO2 running on a m2 drive
 
-I get a consistent 55-60 fps in game. If you get bad frames I suggset swapping the enb to a lighter enb like The Truth or a performance preset of a fireamanaf enb for Obsidian. You may also want to adjust the ini settings to be lower via bethini. 
+I get a consistent 55-60 fps in game. If you get bad frames I suggset not wearing as SMP items. I don't provide support for making your fps better so please do not ask me.
 
 ## Removing the Modlist
 
