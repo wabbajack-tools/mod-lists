@@ -365,7 +365,7 @@ I don't use an ENB. I never saw the need. If you want to try one, feel free.
 ## Credits and Thanks
 
 - Erri120 - Repository template
-- AUGSpeed, Total, Kaethela, and the rest of the Wabbajack team for all of their ongoing advise and support.
+- AUGSpeed, Total, Kaethela, and the rest of the Wabbajack team for all of their ongoing advice and support.
 - Halgari, creator of Wabbajack, without whom none of us would be here.
 
 ## Contact
