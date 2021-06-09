@@ -270,6 +270,7 @@ Magnum Opus now has support for some Creation Club mods as of version 3.2 of the
   * Virtual Workshop: Grid World  
   * X-02 Power Armor  
   * Zetan Arsenal  
+  
  </details>
 
 Pipboy Paint Jobs and Power Armor Paint Jobs are **NOT** supported.
