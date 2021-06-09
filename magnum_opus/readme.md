@@ -24,10 +24,12 @@
   - [Subway Runner](#subway-runner)
   - [This is Trash - A Scrapping Alternative](#this-is-trash---a-scrapping-alternative)
   - [Buffout 4](#buffout-4)
+- [Creation Club Support](#creation-club-support)
 - [In-Game MCM Options](#in-game-mcm-options)
 - [FAQ](#faq)
 - [Controller Support](#controller-support)
 - [ENB](#enb)
+- [More Modular CC Support](#more-modular-cc-support)
 - [Credits and Thanks](#credits-and-thanks)
 - [Contact](#contact)
 
@@ -134,6 +136,8 @@ Copy the all of the files from the `MO2/Game Folder Files` directory into your g
 
 After you copied the Game Folder Files, launch ModOrganizer.exe from inside your installation folder you chose for Wabbajack. Make sure the bar on the right side says `F4SE` and click Run. **You need to launch the game in this exact way every time in order to play with the installed mods.**
 
+You may notice some mods are deactivated. These are for the Creation Club profile. Please see the [Creation Club Support](#creation-club-support) section a bit further down for more information.
+
 ## Updating
 
 If this Modlist receives an update, please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
@@ -215,6 +219,68 @@ Read more about it [here](https://www.nexusmods.com/fallout4/mods/42552)!
 The equivalent of SSE Engine Fixes, Buffout basically makes lists like this possible. Memory patches, achievements enabler, memory leak warnings, and so much more. This is likely the single most important mod in the entire list.
 
 Read more about it [here](https://www.nexusmods.com/fallout4/mods/47359)!
+
+## Creation Club Support
+
+Magnum Opus now has support for some Creation Club mods as of version 3.2 of the modlist. To make use of this, you must follow a few steps:
+1. Click the profile dropdown menu at the top left of Mod Organizer 2, and change the active profile to `Magnum Opus - CC Profile`.
+2. Launch the game and download your CC mods from the in-game storefront.
+  -  I recommend doing this after launching the game from Mod Organizer 2. This will make all the creations download into your `overwrite` folder, which will make the next step a bit easier.
+3. Cut and paste all of your CC mods into `Magnum Opus\mods\Creation Club Content`. 
+4. Activate the `Creation Club Content` mod in Mod Organizer 2.
+  -  Please take note that you will need all of the CC mods I currently provide support for.
+<details>
+  <summary>Click this to expand the list of supported Creation Club mods</summary>
+  
+  * Anti-Material Rifle  
+  * CR-74L Combat Rifle  
+  * Arcade Workshop Pack  
+  * Capital Wasteland Mercenaries  
+  * Charlestown Condo  
+  * Captain Cosmos  
+  * Chinese Stealth Armor  
+  * Doom BFG  
+  * Doom Marine Armor  
+  * Fantasy Hero Set  
+  * Graphic T-Shirt Pack  
+  * Gunners vs Minutemen  
+  * Handmade Shotgun  
+  * Heavy Incinerator  
+  * Hellfire Power Armor  
+  * Horse Power Armor  
+  * Manwell Rifle Set  
+  * Modular Military Backpack  
+  * Morgan's Space Suit  
+  * Neon Flats  
+  * Noir Penthouse  
+  * Nuka-Cola Collector Workshop  
+  * Pint-Sized Slasher   
+  * Prototype Gauss Rifle  
+  * Quake Thunderbolt  
+  * Sentinel Control System Companion  
+  * Settlement Ambush Kit  
+  * Shroud Manor  
+  * Solar Cannon  
+  * Tesla Cannon  
+  * TransDOGrifier  
+  * Tunnel Snakes Rule  
+  * Virtual Workshop: Atomic Crater  
+  * Virtual Workshop: Desert Island  
+  * Virtual Workshop: GNR  
+  * Virtual Workshop: Grid World  
+  * X-02 Power Armor  
+  * Zetan Arsenal  
+  </details>
+
+Pipboy Paint Jobs and Power Armor Paint Jobs are **NOT** supported.
+
+If you have a Missing Masters warning in Mod Organizer 2 after following this set of instructions for the Creation Club profile, then there are CC mods in this list you don't have.
+
+If you have CC mods that aren't in this list, that means I don't own them (yet?), so I cannot provide support. I'm doing my best here, please bear with me.
+
+You may also notice some other mods are deactivated in the CC Profile - namely, some armors, power armors, and weapons. This is because some CC mods act as pseudo variants of these, and I didn't want "doubles" essentially.
+
+If you only have some CC content in the approved list above, please check the [More Modular CC Support](#more-modular-cc-support) section below.
 
 ## In-Game MCM Options
 
@@ -314,14 +380,19 @@ That's it! Have fun!
   - Check Magnum Opus' Mod Organizer 2. Look at the top right corner for a red triangle with a yellow number. Click it. If one of the warnings says "incompatible plugins" and spits out an error about Buffout 4, then you're missing the memory patch. This can happen in some cases. Reinstall VCRedit, re-copy Game Folder Files, launch the game through MO2 once, and close it again. The warning should now be gone, Buffout should be loaded properly, and you can go on with your day.
 
 
-  -  Hey Lively, foggy weather looks like shit, what the hell?
+- Hey Lively, where is the trash can from your mod in Sanctuary?
 
-    -  I’m busy playing games instead of obsessing over mods for a little while, just wait it out til the weather changes. This is such a minor, insignificant issue that I genuinely don’t really care right now.
+  - The new [Sanctuary Overhaul](https://www.nexusmods.com/fallout4/mods/51148) doesn't really have trash, so auto-scrapping trash is no longer a required feature in Magnum Opus. The trash can has been deleted.
+
+
+- Why can't I build City Plans in Sanctuary?
+
+  - Multiple reasons. First, city plans aren't compatible with the Sanctuary overhaul, so the Sanctuary City Plans have been disabled. Second, it is extremely easy to destroy your game by building too much in Sanctuary/Red Rocket/Abernathy, so Anom's Sanctuary Overhaul is really doing us a huge favor, whether you know it or not.
 
 
 - Is Creation Club content compatible?
 
-  - No idea. I don't own it and I don't use it. CC content is not supported.
+  - Some. Please see the [Creation Club Support](#creation-club-support) section above for details.
 
 
 - Can I add more mods or remove some mods I don't want?
@@ -362,14 +433,24 @@ Then find the `[General]` section and change `bGamepadEnable=` from a `0` to a `
 
 I don't use an ENB. I never saw the need. If you want to try one, feel free.
 
+## More Modular CC Support
+
+Please before we begin that there is NO SUPPORT WHATSOEVER for CC content outside of the previously written list, with a strong emphasis on Pipboy and Power Armor Paint Jobs. Pipboy Paint Jobs will **most likely cause a CTD at the main menu.**
+
+In Mod Organizer 2's profile dropdown in the top-left, you'll see a third profile called `Opus CC Only`. This profile has no mods active that are not required for the Creation Club mods and my various patches. Activate this profile, then scroll to the bottom of the mod list in the left pane. The very last mod will be called `Lively and Webmetz's CC Patches`. Right click on this mod and select `Reinstall Mod`.
+
+A FOMOD will pop up on your screen. Options in this FOMOD will be automatically selected for you based on the CC plugins in your load order. ALL YOU HAVE TO DO IS CLICK NEXT A FEW TIMES, THEN CLICK INSTALL. When prompted, select `Replace`.
+
+Switch back to the `Magnum Opus - CC Edition` profile. Deactivate `Lively and Webmetz's CC Patches` and then activate it again. This will enable all the new plugins selected by the FOMOD. Each individual option will install my patch when applicable, as well as an individual sorting patch for each CC plugin. **A very special thanks to Webmetz for going through the extremely tedious process of doing this for all of us.**
+
 ## Credits and Thanks
 
-- Erri120 - Repository template
-- AUGSpeed, Total, Kaethela, and the rest of the Wabbajack team for all of their ongoing advice and support.
-- Halgari, creator of Wabbajack, without whom none of us would be here.
+- Erri120, for all of your work on Wabbajack and the website, and for making a readme template like this easy for an idiot like me to use.
+- AUGSpeed, for being a great source of information. I really look up to you, I respect the hell out of your work, and you're somehow the nicest damn dude on the planet.
+- Kaethela, for all of your ongoing support - both in regards to the modlist and listening to my endless bitching.
+- Total, for your multiple contributions and advice over the last year and a half (and counting).
+- Halgari, creator of Wabbajack, without whom none of us would be here. You have improved over 100,000 people's lives and never asked for a single thing in return. That's *insane*.
 
 ## Contact
 
 I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack) and [my own personal Discord Server](https://discord.gg/yABEjwB).
-
-
