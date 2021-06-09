@@ -229,7 +229,9 @@ Magnum Opus now has support for some Creation Club mods as of version 3.2 of the
 3. Cut and paste all of your CC mods into `Magnum Opus\mods\Creation Club Content`. 
 4. Activate the `Creation Club Content` mod in Mod Organizer 2.
   -  Please take note that you will need all of the CC mods I currently provide support for.
+
 <details>
+  
   <summary>Click this to expand the list of supported Creation Club mods</summary>
   
   * Anti-Material Rifle  
@@ -271,7 +273,7 @@ Magnum Opus now has support for some Creation Club mods as of version 3.2 of the
   * X-02 Power Armor  
   * Zetan Arsenal  
   
- </details>
+</details>
 
 Pipboy Paint Jobs and Power Armor Paint Jobs are **NOT** supported.
 
