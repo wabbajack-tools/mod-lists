@@ -307,7 +307,7 @@ Custom Camera - Features
 FallUI - Coloring  
 ![alt text](https://i.imgur.com/liVn6zL.png)
 
-FallUI - Text Style  
+FallUI - Text Style - DO NOT USE THIS FONT, it is broken and I forgot to take a new screenshot. Default is Roboto Condensed Bold, leave it at that.  
 ![alt text](https://i.imgur.com/JdY6CID.png)
 
 FallUI Workbench - Generic Settings  
