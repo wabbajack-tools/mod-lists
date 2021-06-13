@@ -307,8 +307,8 @@ Custom Camera - Features
 FallUI - Coloring  
 ![alt text](https://i.imgur.com/liVn6zL.png)
 
-FallUI - Text Style - DO NOT USE THIS FONT, it is broken and I forgot to take a new screenshot. Default is Roboto Condensed Bold, leave it at that.  
-![alt text](https://i.imgur.com/JdY6CID.png)
+FallUI - Text Style  
+![alt text](https://i.imgur.com/Z6e5BBg.png)
 
 FallUI Workbench - Generic Settings  
 ![alt text](https://i.imgur.com/FfZ7WHC.png)
@@ -362,7 +362,8 @@ Open the Beantown Interiors Holotape in your Pipboy and select the following opt
   *  Mod Compatibility  
   *  Enable Inside Jobs
 
-Go ahead and activate True Storms in that holotape while you're at it. Or don't. I don't care.
+True Storms Configuration Holotape  
+![alt text](https://i.imgur.com/cOjL4z2.png)
 
 That's it! Have fun!  
 
