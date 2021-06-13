@@ -3,7 +3,7 @@
 3. **Mods must have decent longevity.** This modlist wants to be somewhat relevant, in theory, forever.  
 4. **Stability is the most important thing.** This rule basically supersedes all the above. If a mod introduces major stability concerns it will be quickly cut.
 
-Please visit the [official website](https://pierredespereaux.github.io/Keizaal/) for more information as well as installation and configuration instructions.
+Please visit the [official website](https://keizaal.github.io/Keizaal/) for more information as well as installation and configuration instructions.
 
   - Check the [full mod list](https://loadorderlibrary.com/lists/keizaal).
   - Join us on [Discord](https://discord.gg/eYZJFP8).

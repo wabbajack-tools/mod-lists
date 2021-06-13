@@ -1,46 +1,156 @@
+# Magnum Opus
+
+- [Magnum Opus](#magnum-opus)
+- [Preamble](#preamble)
+- [Installation](#installation)
+  - [Pre-Installation](#pre-installation)
+    - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
+    - [Steam Config](#steam-config)
+      - [Disable the Steam Overlay](#disable-the-steam-overlay)
+    - [Change Steams Update Behavior](#change-steams-update-behavior)
+    - [Set the Game language to English](#set-the-game-language-to-english)
+    - [Clean Fallout 4](#clean-fallout-4)
+    - [Start Fallout 4](#start-fallout-4)
+  - [Using Wabbajack](#using-wabbajack)
+    - [Preparations](#preparations)
+      - [Problems with Wabbajack](#problems-with-wabbajack)
+  - [Post-Installation](#post-installation)
+    - [Copy Game Folder Files](#copy-game-folder-files)
+    - [Launching the Game](#launching-the-game)
+- [Updating](#updating)
+- [BiRaitBec Texture Optimization](#biraitbec-texture-optimization)
+- [Noteworthy Mods](#noteworthy-mods)
+  - [Sim Settlements 2](#sim-settlements-2)
+  - [Subway Runner](#subway-runner)
+  - [This is Trash - A Scrapping Alternative](#this-is-trash---a-scrapping-alternative)
+  - [Buffout 4](#buffout-4)
+- [Creation Club Support](#creation-club-support)
+- [In-Game MCM Options](#in-game-mcm-options)
+- [FAQ](#faq)
+- [Controller Support](#controller-support)
+- [ENB](#enb)
+- [More Modular CC Support](#more-modular-cc-support)
+- [Credits and Thanks](#credits-and-thanks)
+- [Contact](#contact)
+
+# Preamble
+
 ### Magnum Opus ![build-status](https://img.shields.io/endpoint?label=%20&url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2Fmagnum_opus%2Fbadge.json)
-**Do not contact mod authors directly for support.**  
-All support must be directed to the relevant discussion channel on the [Wabbajack Discord](https://discord.gg/wabbajack).  
-Pirated games and mods are not supported.  
 
-Feel free to [buy me a pizza or something](https://www.patreon.com/nicholasjae).
+Magnum Opus is what one would describe as a "kitchen sink list." There is no specific focus or aspect I really care about. There is no specific goal I'm trying to achieve. I just want to have fun.
 
-**Modlist Summary:**  
-An incredibly clean and stable list featuring tons of new quests & locations, vastly expanded settlement systems, a massively interconnected collection of NPC overhauls, and of course hundreds of new outfits, armors, & weapons. For information on how to start the new quest content, please see the bottom of the readme.
+This means if I like a mod, it's going in. There is no such thing as "it doesn't fit my aesthetic" or "it goes against the theme of the list." The theme is fun.
+
+To that end, I like new content. I like new areas, new quests, new NPCs, new weapons, new outfits, new faces. You'll find all of that - and a whole lot more - in this list. I genuinely hope you enjoy it as much as I do.
 
 This list is NOT built with Survival Mode in mind. I don't play it. I don't like it. If you want Survival, you should play [Fallout 4 Enhanced Edition](https://www.wabbajack.org/#/modlists/info?machineURL=fallout_4_enhanced_edition).
 
-#### **_Requirements Before Installing:_**
+## Installation
 
-  *  Current build version of [Wabbajack](https://www.wabbajack.org/#/).  
-  *  Clean install of Fallout 4, **without the official Hi Def DLC**.  Note that if you previously used BiRatBec's Workbase and replaced the texture archives in Fallout 4\data, you will need to make a backup of these and verify files to obtain the original, unmodified texture archives.
-  *  A Nexusmods account. Nexus Premium is highly recommended for automatic download support.  
-  *  100 GB of free space. Note that this number does NOT include your Fallout 4 installation.  
-    *  That’s 27.8 GB for downloads, 42.4 GB GB for installation, and a little extra wiggle room to be safe.  
-  
-  Once Fallout 4 is installed, *run it once through Steam.* This will establish registry keys and allow Wabbajack to locate the game on your PC. 
+### Pre-Installation
 
-### **_Installation Instructions:_**
+You need a legal copy of Fallout 4 through Steam, with all DLCs **EXCEPT** the High Definition DLC. This is garbage and should not be used in any case ever.
 
-1. Download the latest version of Wabbajack.
-2. Create a new folder at the root of a drive (Example: D:\Wabbajack).
-3. Place the Wabbajack.exe into this new folder.
-4. Launch Wabbajack.exe. Download the MagnumOpus.wabbajack file from the Wabbajack Modlist Gallery.
-5. In “Installation Location” choose a blank folder at the root of a drive (example: D:\Magnum Opus). **DO NOT** install your modlist to the same folder where you put Wabbajack.exe.  **DO NOT** install into your Steam game path.
-6. The “Download Location” will update automatically. You can change it if you want.
-7. Click the "Play" arrow.
-8. Make sure to accept the Nexus API request if your browser asks for it.
-9. When Wabbajack completes the installation (you can check the Wabbajack.current.log to confirm it completed successfully), you may close the program.
+These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](#updating).
 
-#### **_Post Installation Instructions:_**
+#### Installing Microsoft Visual C++ Redistributable Package
 
-Navigate back to your Magnum Opus installation folder.  
-Open “Game Folder Files”  
-Copy everything in this folder.  
-Paste it into your Fallout 4 directory (steam/steamapps/common/Fallout 4).  
-  *  Just to be really clear about this: do not copy/paste the entire folder. Only the **contents** of Game Folder Files. It's only six individual little files totaling around 8 MB.
+I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
-#### This section is **optional but highly recommended**. It can be done at any time before or after installation.
+#### Steam Config
+
+##### Disable the Steam Overlay
+
+The Steam Overlay can cause issues with ENB and is recommended to be turned off.
+
+Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
+
+#### Change Steams Update Behavior
+
+Fallout 4 is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
+
+To ensure that Steam does not automatically updates the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
+
+#### Set the Game language to English
+
+Just do it. This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and **I will not give support to people with a non-English game**. I really wish I could, but at this time, it simply isn't feasible.
+
+Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
+
+#### Clean Fallout 4
+
+I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Fallout 4` folder in `Documents/My Games/`.
+
+#### Start Fallout 4
+
+After you have done everything above and got a clean Fallout 4 installation ready, start the Launcher and open the _Options_ menu.
+
+1. Click on _High_
+2. Set the _Aspect Ratio_ and _Resolution_ to your monitor's native values
+3. Set _Antialiasing_ to _Off_
+4. Check _Windowed Mode_ and _Borderless_
+
+Start the game and exit once you're in the main menu.
+
+### Using Wabbajack
+
+#### Preparations
+
+Let's get to the actual installation..
+
+Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases). You need to download the `Wabbajack.exe` file ONLY. Place the `Wabbajack.exe` file in a blank folder at the root of a drive, such as `C:/Wabbajack`.
+
+Launch Wabbajack. When it is finished extracting and installing itself, select the `Browse Modlists` option. Click the Download arrow for Magnum Opus, and you will be forwarded to the next screen when it is finished.
+
+Set the `Installation Location` to a blank folder at the root of a drive, such as `D:\Magnum Opus`. The `Download Location` will update automatically.
+
+Click the `Play` arrow.
+
+##### Problems with Wabbajack
+
+There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
+
+**Could not download x**:
+
+If a mod updated and the old files got deleted, it is impossible to download them. In this case just wait until I update the Modlist. I'm typically extremely quick to respond to a situation such as this.
+
+Most commonly, this will happen if a mod is hidden from Nexus. Contact me in Discord if this happens, and I can force the list to show as Under Maintenance until it comes back, and then I can fix it when it's unhidden.
+
+**x is not a whitelisted download**:
+
+This can happen when I update the modlist. Check if a new update is available and wait if there is none.
+
+**Wabbajack could not find my game folder**:
+
+Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
+
+### Post-Installation
+
+#### Copy Game Folder Files
+
+After Wabbajack turns green and says Installation Complete, you can close it. Go to your installation folder (I will refer to this folder as the MO2 folder from now on) and you'll see a folder named `Game Folder Files`.
+
+Copy the all of the files from the `MO2/Game Folder Files` directory into your game folder.
+
+#### Launching the Game
+
+After you copied the Game Folder Files, launch ModOrganizer.exe from inside your installation folder you chose for Wabbajack. Make sure the bar on the right side says `F4SE` and click Run. **You need to launch the game in this exact way every time in order to play with the installed mods.**
+
+You may notice some mods are deactivated. These are for the Creation Club profile. Please see the [Creation Club Support](#creation-club-support) section a bit further down for more information.
+
+## Updating
+
+If this Modlist receives an update, please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
+
+**Wabbajack will delete all files that are not part of the Modlist when updating!**
+
+This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
+
+If you wish for Wabbajack to ignore any additional mods you've installed, rename them to say `[NoDelete]` at the beginning of the name.
+
+Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
+
+## BiRaitBec Texture Optimization
 
 Go to [BiRaitBec’s Modding Guide](https://www.nexusmods.com/fallout4/mods/23556?tab=description).  
 Manually download the **WorkBase** file.  
@@ -78,58 +188,132 @@ After all of these steps are complete, you may delete the WorkBase folder. If yo
 
 *Note that you CANNOT use the HD DLC for BiRaitBec’s texture optimization. You’ll see missing textures everywhere if you do.*
 
-**Optional:** If you want to avoid the hassle of future updates from Bethesda:
-  *  Open Steam  
-  *  Right-click Fallout 4 in your Library  
-  *  Click Properties  
-  *  Go to the Updates tab, and change the Automatic Update option to “Only update this game when I launch it.”  
-*Since we’re always launching from F4SE, it will never automatically update again.*  
+## Noteworthy Mods
 
-#### That’s it! Launch Mod Organizer 2 inside the Magnum Opus folder. From now on, you must launch Fallout 4 via the “F4SE” option in Mod Organizer 2. 
+### Sim Settlements 2
 
-If you're playing with a controller (why?), your pipboy map won't work. Open the MO2 INI Editor, select fallout4prefs.ini, and scroll down until you see the `[Display]` section. At the bottom, you'll find two lines:  
-`uPipboyTargetHeight=1400`  
-`uPipboyTargetWidth=1752`  
-Change these two lines to the following:  
-`uPipboyTargetHeight=700`  
-`uPipboyTargetWidth=876`  
+Rebuild the Commonwealth with a mysterious stranger in a brand new, fully voiced, and - quite frankly - absolutely amazing questline in this highly anticipated sequel-of-sorts to the original Sim Settlements. 
 
-There are two profiles in Mod Organizer 2. One is just a version without Private Military Company, and I literally made it for one single person. So if you're wondering why you have patches disabled that are named "NoPMC" then...that's why. You can ignore them.  
+Read more about it [here](https://www.nexusmods.com/fallout4/mods/47976)!
 
-**I do not use an ENB. Please stop asking.** If you want one, just use whatever you want.  
+### Creative Perks Plus
 
-Now we can launch the game. Once you finish character customization, you’ll have two options when you try to leave. Take note that this modlist uses **Start Me Up - Basic Version**. No, you can't install the Full version, you'll break a lot of stuff.  
+Perk overhaul built on top of another perk overhaul. Fancy!
 
-**This is a memory, I don’t want to relive this**: You wake up in Vault 111 as Nate. Everything else is normal.  
-**This is a memory, stay here a while**: Vanilla Fallout 4 intro.  
+Read more about it [here](https://www.nexusmods.com/fallout4/mods/49400)!
 
-You'll get two prompts after you open the vault door in Vault 111. Just select the defaults. Once you reach the exit to Vault 111 and ride the elevator, we can finish setting up the game. Press the “Esc” key and select “Mod Config”. This is the last step, I swear.  
+### Subway Runner
 
-#### MCM Settings:
+Explore an expansive, deadly metro system that stretches the length of the entire Commonwealth. No quests here, folks; only loot, exploration, death, radiation, and a new way to travel across the city.
+
+Read more about it [here](https://www.nexusmods.com/fallout4/mods/18639)!
+
+### This is Trash - A Scrapping Alternative
+
+I got tired of individually scrapping every single leaf and rubbish pile every time I started a new game, so I took some inspiration from Wabbajack and automated it. Each settlement will now have a trash can next to the workbench. Scrap it and watch as the area is miraculously cleaned of all those stupid looking shrubs and garbage decals.
+
+Read more about it [here](https://www.nexusmods.com/fallout4/mods/42552)!
+
+### Buffout 4
+
+The equivalent of SSE Engine Fixes, Buffout basically makes lists like this possible. Memory patches, achievements enabler, memory leak warnings, and so much more. This is likely the single most important mod in the entire list.
+
+Read more about it [here](https://www.nexusmods.com/fallout4/mods/47359)!
+
+## Creation Club Support
+
+Magnum Opus now has support for some Creation Club mods as of version 3.2 of the modlist. To make use of this, you must follow a few steps:
+1. Click the profile dropdown menu at the top left of Mod Organizer 2, and change the active profile to `Magnum Opus - CC Profile`.
+2. Launch the game and download your CC mods from the in-game storefront.
+  -  I recommend doing this after launching the game from Mod Organizer 2. This will make all the creations download into your `overwrite` folder, which will make the next step a bit easier.
+3. Cut and paste all of your CC mods into `Magnum Opus\mods\Creation Club Content`. 
+4. Activate the `Creation Club Content` mod in Mod Organizer 2.
+  -  Please take note that you will need all of the CC mods I currently provide support for.
+
+<details>
+  
+  <summary>Click this to expand the list of supported Creation Club mods</summary>
+  
+  * Anti-Material Rifle  
+  * CR-74L Combat Rifle  
+  * Arcade Workshop Pack  
+  * Capital Wasteland Mercenaries  
+  * Charlestown Condo  
+  * Captain Cosmos  
+  * Chinese Stealth Armor  
+  * Doom BFG  
+  * Doom Marine Armor  
+  * Fantasy Hero Set  
+  * Graphic T-Shirt Pack  
+  * Gunners vs Minutemen  
+  * Handmade Shotgun  
+  * Heavy Incinerator  
+  * Hellfire Power Armor  
+  * Horse Power Armor  
+  * Manwell Rifle Set  
+  * Modular Military Backpack  
+  * Morgan's Space Suit  
+  * Neon Flats  
+  * Noir Penthouse  
+  * Nuka-Cola Collector Workshop  
+  * Pint-Sized Slasher   
+  * Prototype Gauss Rifle  
+  * Quake Thunderbolt  
+  * Sentinel Control System Companion  
+  * Settlement Ambush Kit  
+  * Shroud Manor  
+  * Solar Cannon  
+  * Tesla Cannon  
+  * TransDOGrifier  
+  * Tunnel Snakes Rule  
+  * Virtual Workshop: Atomic Crater  
+  * Virtual Workshop: Desert Island  
+  * Virtual Workshop: GNR  
+  * Virtual Workshop: Grid World  
+  * X-02 Power Armor  
+  * Zetan Arsenal  
+  
+</details>
+
+Pipboy Paint Jobs and Power Armor Paint Jobs are **NOT** supported.
+
+If you have a Missing Masters warning in Mod Organizer 2 after following this set of instructions for the Creation Club profile, then there are CC mods in this list you don't have.
+
+If you have CC mods that aren't in this list, that means I don't own them (yet?), so I cannot provide support. I'm doing my best here, please bear with me.
+
+You may also notice some other mods are deactivated in the CC Profile - namely, some armors, power armors, and weapons. This is because some CC mods act as pseudo variants of these, and I didn't want "doubles" essentially.
+
+If you only have some CC content in the approved list above, please check the [More Modular CC Support](#more-modular-cc-support) section below.
+
+## In-Game MCM Options
+
 *_Note: Anything involving hotkeys can be set up however you like. These are simply the way I have them set up for myself._
 
 Companion Command Hotkeys  
 ![alt text](https://i.imgur.com/QMQqSSu.png)  
 
-Custom Camera - Standard
+Custom Camera - Standard  
 ![alt text](https://i.imgur.com/UhgV6QN.png)  
 
-Custom Camera - Power Armor
+Custom Camera - Power Armor  
 ![alt text](https://i.imgur.com/IwfxTSB.png)  
 
-Custom Camera - Miscellaneous
+Custom Camera - Miscellaneous  
 ![alt text](https://i.imgur.com/ZTexP2Z.png)  
 
-Custom Camera - Features
+Custom Camera - Features  
 ![alt text](https://i.imgur.com/PuDef9C.png)  
 
-FallUI - Text Style
-![alt text](https://i.imgur.com/JdY6CID.png)
+FallUI - Coloring  
+![alt text](https://i.imgur.com/liVn6zL.png)
 
-FallUI Workbench - Generic Settings
+FallUI - Text Style  
+![alt text](https://i.imgur.com/Z6e5BBg.png)
+
+FallUI Workbench - Generic Settings  
 ![alt text](https://i.imgur.com/FfZ7WHC.png)
 
-FallUI Workbench - Workbench List
+FallUI Workbench - Workbench List  
 ![alt text](https://i.imgur.com/hS3nr3Z.png)
 
 Faster Workshop Hotkey  
@@ -138,16 +322,18 @@ Faster Workshop Hotkey
 More AGOMBz - More attacks - Swap the first two categories.  
 ![alt text](https://i.imgur.com/vdXySOe.png)
 
-More AGOMBz - More...Disable - Disable Radstags.
+More AGOMBz - More...Disable - Disable Radstags.  
 ![alt text](https://i.imgur.com/VREBmyj.png)
 
-QuickTrade
+QuickTrade  
 ![alt text](https://i.imgur.com/FF168gw.png)
 
-Sim Settlements 2 - Respect Build Limit - Off (Optional)
+Sim Settlements 2 - Respect Build Limit - Off  
 ![alt text](https://i.imgur.com/nTuRz20.png)
 
-Wait Anywhere - Hotkey: T
+Some people have reported Cinematic Mode does not allow city plans to build themselves. You may wish to disable that option as well.
+
+Wait Anywhere - Hotkey: T  
 ![alt text](https://i.imgur.com/YP6OOnl.png)
 
 Workshop Framework - Turn off Allow Settlements to Leave (optional)  
@@ -156,8 +342,17 @@ Workshop Framework - Turn off Allow Settlements to Leave (optional)
 Workshop Plus - Options - Disable Clear Weather.  
 ![alt text](https://i.imgur.com/BGZnDBG.png)  
 
-Workshop Plus - Hotkeys
+Workshop Plus - Hotkeys  
 ![alt text](https://i.imgur.com/aklZPWs.png)
+
+You and What Army - BOS  
+![alt text](https://i.imgur.com/SMYUY4x.png)
+
+You and What Army - Railroad  
+![alt text](https://i.imgur.com/2CNBPVY.png)
+
+You and What Army - Institute  
+![alt text](https://i.imgur.com/fJquOpK.png)
 
 **Holotape Settings:**   
 Open the Beantown Interiors Holotape in your Pipboy and select the following options:  
@@ -167,47 +362,99 @@ Open the Beantown Interiors Holotape in your Pipboy and select the following opt
   *  Mod Compatibility  
   *  Enable Inside Jobs
 
+True Storms Configuration Holotape  
+![alt text](https://i.imgur.com/cOjL4z2.png)
+
 That's it! Have fun!  
 
-#### For 21:9/Ultrawide Users:  
-*Note that I did not write this. I don’t have ultrawide so I can’t help troubleshoot it. Another user left this here for others to possibly learn from.*
+## FAQ
 
-1) Install [TRUBY9](https://www.nexusmods.com/fallout4/mods/24630). Choose XDI when asked about Patches. Select nothing else.
+- My Sim Settlements 2 quest is stuck and I can't progress.
 
-2) Install [TRUBY9 DEF_UI Fix](https://www.nexusmods.com/fallout4/mods/43275)
+  - [Click me](https://wiki.simsettlements2.com/en/getting-started/troubleshooting#im-stuck-on-part-of-the-main-quest).
 
-2) Install [TRUBY9 DEF_INV Compatibility Fix](https://www.nexusmods.com/fallout4/mods/43278)
 
-3) Install [DEF_UI HUDMenuSet Ultrawidescreen](https://www.nexusmods.com/fallout4/mods/43277)
+- Some of my perk chart icons are way off-center.
 
-4) Download a [standalone Adobe Flash Player from Adobe](https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flashplayer_32_sa_debug.exe)
+  - I know. I don't know how to fix it because I don't know how to use flash or jpexs. You can either accept this visual issue in exchange for the new perks, or you can disable `Creative Perks`, `Creative Perks Plus`, & `Kat and Lively Gettin Down`.
 
-5) Paste the "flashplayer_32_sa_debug.exe" in the same location as HUDMenuSet.swf  
-  *  Note that Magnum Opus already has a custom Def UI preset, aptly titled Lively's HUD Preset. Disable this mod in MO2.  
-6) Execute the standalone Adobe Flash Player(the .exe you just downloaded) and load HUDMenuSet.swf (from here it will work as the DEF_UI HUDMenuSet.exe)  
-7) Move the UI elements to your liking (or leave as is). Once satisfied hit Ctrl+S  
-8) Create a new folder DEF_CONF in the same location as HUDMenuSet.swf and save the new XML file inside the new folder  
-  *  Note that removing the brackets from the loot menu will also break Hud Plus Plus. So maybe don't do that.
-9) Open up Truby9 and delete the BarterMenu.swf and ContainerMenu.swf files from Truby9 and Truby9 Def UI for FallUI compatibility.
 
-#### Crashlogs:  
+- I am having random crashes.
 
-Look, I'm not perfect. If your game CTDs, upload the most recent crashlog from \Documents\My Games\Fallout4\F4SE\ into the #magnum-opus-support channel on the Wabbajack Discord.
+  - Check Magnum Opus' Mod Organizer 2. Look at the top right corner for a red triangle with a yellow number. Click it. If one of the warnings says "incompatible plugins" and spits out an error about Buffout 4, then you're missing the memory patch. This can happen in some cases. Reinstall VCRedit, re-copy Game Folder Files, launch the game through MO2 once, and close it again. The warning should now be gone, Buffout should be loaded properly, and you can go on with your day.
 
-If you're consistently crashing on loading a save or exiting a specific area, it's probably an nvidia driver crash. Try reverting back to version 442.xx of your gpu driver.
 
-#### Starting the New Content:
+- Hey Lively, where is the trash can from your mod in Sanctuary?
 
-**Sim Settlements 2** - Pick up the magazine on top of the Sanctuary workbench. This will give you materials to build a Recruitment Beacon (Power > Misc). Build it, then wait for a minute. A stranger will approach you.  
+  - The new [Sanctuary Overhaul](https://www.nexusmods.com/fallout4/mods/51148) doesn't really have trash, so auto-scrapping trash is no longer a required feature in Magnum Opus. The trash can has been deleted.
 
-**David Hunter** - Find him on the upper deck of the Prydwen.  
 
-**Echo** - Note at the Diamond City Bounty Board (next to Moe Cronin's shop).  
+- Why can't I build City Plans in Sanctuary?
 
-**Xander's Aid** - Go to Dugout Inn.  
+  - Multiple reasons. First, city plans aren't compatible with the Sanctuary overhaul, so the Sanctuary City Plans have been disabled. Second, it is extremely easy to destroy your game by building too much in Sanctuary/Red Rocket/Abernathy, so Anom's Sanctuary Overhaul is really doing us a huge favor, whether you know it or not.
 
-**Kelly Manor Horror** - Find a display case in the wilderness north of Parson's Creamery. Do not wear power armor inside. Do not leave your power armor immediately outside the vicinity of the manor. This is meant to be done without companions. Your screen visuals will return to normal after the quest is over, so it is recommended to do the quest in its entirety once you start it.  
 
-**Huntress Manor** - Find Ronald either in Far Harbor or (if fog condensors are taken care of already) at a camp near the Nucleus. Only triggers after obtaining the quest to meet Longfellow.  
+- Is Creation Club content compatible?
 
-**Tales From the Commonwealth** - Everywhere, but a "main" quest begins in the Nahant Post Office (just to the right of the gate when you go to Nahant).
+  - Some. Please see the [Creation Club Support](#creation-club-support) section above for details.
+
+
+- Can I add more mods or remove some mods I don't want?
+
+  - Can you? Yes. Will I help you? Maybe, but please discuss it in either general channels or my personal Discord server, and be sure to disclose the fact that you've edited the list before reporting any bugs or crashes. If you're open and honest with me, I'm honestly much more willing to help you through your issues.
+
+
+- Why is my crosshair on my pipboy?
+
+  - You can turn the Power Armor HUD Switcher holotape setting for [Hide Hud in Pipboy] to Off in order to hide the crosshair when not in power armor, but this also makes the pipboy look pretty terrible when using it inside power armor. Your call.
+
+
+- Why can't I use multiple companions/why can't I use Dogmeat with a vanilla companion?
+
+  - One follower is enough, and Heather (a modded follower from [here](https://www.nexusmods.com/fallout4/mods/23273)) doesn't occupy a "follower" slot, so you can have Heather + one other companion. Considering how overpowered that is, there is no reason I should add Dogmeat to the mix as well.
+
+
+- I've been following along your [amazing and wonderful modding tutorials](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/Main.md) and they're great! But my added mods are breaking precombines/previs/making shit flicker in and out of existence a lot. What the hell, man?
+
+  - Load your mods ABOVE all the `* Previs.esp` files in the load order.
+
+
+- I've been following along your [totally shitty modding tutorials](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/Main.md) and they suck! My game keeps crashing when I add stuff after following your instructions! What the hell, man?
+
+  - That sucks. Post in general-f4-discussions in the Wabbajack server, or any channel my personal discord server. If you're not a dick, I'm genuinely more than happy to help if I can.
+
+## Controller Support
+
+If you're playing with a controller (why?), your pipboy map won't work. Open the MO2 INI Editor, select fallout4prefs.ini, and scroll down until you see the `[Display]` section. At the bottom, you'll find two lines:  
+`uPipboyTargetHeight=1400`  
+`uPipboyTargetWidth=1752`  
+Change these two lines to the following:  
+`uPipboyTargetHeight=700`  
+`uPipboyTargetWidth=876`  
+Then find the `[General]` section and change `bGamepadEnable=` from a `0` to a `1`.
+
+### ENB
+
+I don't use an ENB. I never saw the need. If you want to try one, feel free.
+
+## More Modular CC Support
+
+Please before we begin that there is NO SUPPORT WHATSOEVER for CC content outside of the previously written list, with a strong emphasis on Pipboy and Power Armor Paint Jobs. Pipboy Paint Jobs will **most likely cause a CTD at the main menu.**
+
+In Mod Organizer 2's profile dropdown in the top-left, you'll see a third profile called `Opus CC Only`. This profile has no mods active that are not required for the Creation Club mods and my various patches. Activate this profile, then scroll to the bottom of the mod list in the left pane. The very last mod will be called `Lively and Webmetz's CC Patches`. Right click on this mod and select `Reinstall Mod`.
+
+A FOMOD will pop up on your screen. Options in this FOMOD will be automatically selected for you based on the CC plugins in your load order. ALL YOU HAVE TO DO IS CLICK NEXT A FEW TIMES, THEN CLICK INSTALL. When prompted, select `Replace`.
+
+Switch back to the `Magnum Opus - CC Edition` profile. Deactivate `Lively and Webmetz's CC Patches` and then activate it again. This will enable all the new plugins selected by the FOMOD. Each individual option will install my patch when applicable, as well as an individual sorting patch for each CC plugin. **A very special thanks to Webmetz for going through the extremely tedious process of doing this for all of us.**
+
+## Credits and Thanks
+
+- Erri120, for all of your work on Wabbajack and the website, and for making a readme template like this easy for an idiot like me to use.
+- AUGSpeed, for being a great source of information. I really look up to you, I respect the hell out of your work, and you're somehow the nicest damn dude on the planet.
+- Kaethela, for all of your ongoing support - both in regards to the modlist and listening to my endless bitching.
+- Total, for your multiple contributions and advice over the last year and a half (and counting).
+- Halgari, creator of Wabbajack, without whom none of us would be here. You have improved over 100,000 people's lives and never asked for a single thing in return. That's *insane*.
+
+## Contact
+
+I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack) and [my own personal Discord Server](https://discord.gg/yABEjwB).

@@ -105,14 +105,6 @@ Tales from the Northern Lands is a list that focuses primarily on offering a sty
 
 ***
 
-### [Skyrimified](https://www.gitlab.com/trawzified/skyrimified)
-
-Originally based off Lexy's Legacy of the Dragonborn modlist, this list aims to expand on it while cranking up the visuals to eleven and containing popular community requested mods fitting my vision of Skyrim. This makes for a list with a big amount of content, but it also requires a very high end system.
-
-For an overview of the various mods included [there's a trailer available that showcases a large part of the important mods.](https://www.youtube.com/watch?v=rUR67HYdXeQ)
-
-***
-
 ### [Keizaal](https://www.wabbajack.org/#/modlists/info?machineURL=keizaal)
 
 Keizaal is a simple modlist that focuses on improving what is already presented to us in vanilla Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011.
@@ -191,11 +183,50 @@ Survival mods such as The Frozen North, SunHelm and Campfire are toggleable and 
 
 ***
 
+### [Librum for Skyrim SE and VR](https://github.com/apoapse1/Librum-for-Skyrim-VR)
+
+A gritty, low-magic, hardcore survival-adventure experience with an uncompromising vision. Hundreds of new quests and locations, a total mechanics overhaul, and a complete makeover of the graphics and atmosphere. The path to your destiny as the Dragonborn will be long and treacherous. Welcome to Librum.
+
+**_Mods to get familiar with:_**
+
+[Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983)  
+[Morrowloot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058)  
+[Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807)  
+[SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414)  
+[Frostfall](https://www.nexusmods.com/skyrimspecialedition/mods/671)  
+[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
+
+Really, though, please check out our [website](https://librum-modpack.com/).
+
+***
+
 ### [Tinvaak](https://www.wabbajack.org/#/modlists/info?machineURL=Tinvaak)
 
-Tinvaak is a modlist focused on revitalising and reworking Skyrim into an actual roleplaying game. Featuring Skyrim Redone, Skyrim Unbound, SkyRem and a suite of survival mods, you can be anyone you want, be it the dragonborn of legend, or a simple woodcutter. A second fully patched profile for Khajiit speak is included as well.
+Tinvaak is a modlist focused on revitalising and reworking Skyrim into an actual roleplaying game. Featuring T3NDO's Skyrim SE Redone, Skyrim Unbound, Oblivion influenced classes and birthsigns and an optional suite of survival mods, you can be anyone you wish. A second fully patched profile for Khajiit speak is included as well.
 
 For an overview of the various mods included, you can view the modlist [showcase and trailer here.](https://www.youtube.com/watch?v=p8CtRdu0-e0)
+
+**_Mods to get familiar with:_**
+
+- [T3NDO's Skyrim Redone](https://www.nexusmods.com/skyrimspecialedition/mods/17915)
+- [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962)
+- [SkyRem Series](https://www.nexusmods.com/skyrimspecialedition/users/19562249)
+- [Skyrim Realistic Conquering](https://www.nexusmods.com/skyrimspecialedition/mods/26396)
+- [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
+
+***
+
+### [(NSFW)Tsukiro(NSFW)](https://www.wabbajack.org/#/modlists/info?machineURL=tsukiro)
+
+Ass n titties, swords and pretties.
+
+For a brief introduction to the combat and visuals please check the video here: [showcase and trailer here.](https://www.youtube.com/watch?v=URoyzP_a87s)
+
+**_Mods to get familiar with:_**
+
+- [Inpa - Sekiro Combat](https://www.nexusmods.com/skyrimspecialedition/mods/41428)
+- [Yamete!](https://www.loverslab.com/files/file/16057-yamete/)
+- [Static Levelling](https://www.nexusmods.com/skyrimspecialedition/mods/30410)
 
 ***
 
@@ -264,11 +295,11 @@ This list aims to greatly expand the content of Fallout 4 while keeping the orig
 
 **_Mods to get familiar with:_**
 
-[Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/47976)  
+[Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/47976)
 [Beantown Interiors](https://www.nexusmods.com/fallout4/mods/4612)  
 [Subway Runner](https://www.nexusmods.com/fallout4/mods/18639)  
-[This is Trash](https://www.nexusmods.com/fallout4/mods/42552) 
-[Buffout 4](https://www.nexusmods.com/fallout4/mods/47359)   
+[This is Trash](https://www.nexusmods.com/fallout4/mods/42552)  
+[Creative Perks Plus](https://www.nexusmods.com/fallout4/mods/49400)   
 
 ***
 
@@ -317,7 +348,7 @@ A gritty, low-magic, hardcore survival-adventure experience with an uncompromisi
 
 [VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)  
 [HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)  
-[MageVR](https://www.nexusmods.com/skyrimspecialedition/mods/21297)  
+[Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630)  
 [Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983)  
 [Morrowloot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058)  
 [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807)  
