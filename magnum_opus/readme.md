@@ -45,6 +45,8 @@ To that end, I like new content. I like new areas, new quests, new NPCs, new wea
 
 This list is NOT built with Survival Mode in mind. I don't play it. I don't like it. If you want Survival, you should play [Fallout 4 Enhanced Edition](https://www.wabbajack.org/#/modlists/info?machineURL=fallout_4_enhanced_edition).
 
+Is Magnum Opus for you? I don't know, but [this video by DroppedIceCream might help you decide](https://youtu.be/Q2s84pTpkwE).
+
 ## Installation
 
 ### Pre-Installation
@@ -368,11 +370,6 @@ True Storms Configuration Holotape
 That's it! Have fun!  
 
 ## FAQ
-
-- My Sim Settlements 2 quest is stuck and I can't progress.
-
-  - [Click me](https://wiki.simsettlements2.com/en/getting-started/troubleshooting#im-stuck-on-part-of-the-main-quest).
-
 
 - Some of my perk chart icons are way off-center.
 
