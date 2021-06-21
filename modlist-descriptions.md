@@ -396,3 +396,18 @@ This modlist will update the graphics and mechanics of Fallout New Vegas to brin
 [Quickhacking NV](https://www.nexusmods.com/newvegas/mods/72224)  
 
 ***
+
+### [Starstruck Courier](https://github.com/Kaethela/Starstruck-Courier/)
+
+Starstruck Courier combines Tale of Two Wastelands with Fallout: New California, allowing one to play through Fallout 3, Fallout New Vegas, and Fallout: New California in one continuous save file. In addition to adding New California, this list also includes new quest content for both Fallout 3 and Fallout New Vegas, updated textures, gameplay improvements, and quality of life fixes.
+
+**_Mods to get familiar with:_**
+
+[Fallout New California](https://www.nexusmods.com/newvegas/mods/45138)  
+[Delay DLC TTW](https://www.nexusmods.com/newvegas/mods/66690)  
+[SawyerBatty](https://fallout.fandom.com/wiki/JSawyer)  
+[A Roleplayer's History - Patchy's Picks](https://www.nexusmods.com/newvegas/mods/72032)  
+[Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726)  
+[Bypass Minigames - Lockpick and Hacking](https://www.nexusmods.com/newvegas/mods/65840)  
+
+***
