@@ -394,3 +394,18 @@ A lite, small modlist for first time FNV players. While not a lot of content, th
 [Simple DLC Delay](https://www.nexusmods.com/newvegas/mods/62779)  
 [GRA Unique Weapons Relocated](https://www.nexusmods.com/newvegas/mods/68153)  
 [JSawyer Ultimate Edition](https://www.nexusmods.com/newvegas/mods/61592)  
+
+***
+
+### [Tend To Your Frontier](https://github.com/Patchier/Tend-to-your-Frontier)
+
+Tend To Your Frontier is a small modlist meant to showcase the excellent new lands mod, The Frontier, alongside expanding and improving the base game to a nice degree.
+
+**_Mods to get familiar with:_**
+
+[lStewieAl's Tweaks](https://www.nexusmods.com/newvegas/mods/66347)  
+[The Frontier](https://www.nexusmods.com/newvegas/mods/68009)  
+[The Living Desert](https://www.nexusmods.com/newvegas/mods/64623)  
+[Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726)  
+[Main Story Alterations](https://www.nexusmods.com/newvegas/mods/63870)  
+[Zion Trail](https://www.nexusmods.com/newvegas/mods/61939)  
