@@ -378,3 +378,19 @@ Currently the only Fallout VR modlist built for Wabbajack, This is a complete ov
 There is also a [handy dandy installation video](https://www.youtube.com/watch?v=o8Y8d74_D-A)!
 
 ***
+
+## Fallout New Vegas
+
+***
+
+### [Viva New Vegas](https://github.com/TDarkShadow/vivanewvegas-wabbajack)
+
+A lite, small modlist for first time FNV players. While not a lot of content, this provides a stable playthrough with the use of stability mods, some bugfixes, and a handful of quality of life feature mods.
+
+**_Mods to get familiar with:_**
+
+[Unofficial Patch NVSE Plus](https://www.nexusmods.com/newvegas/mods/71239)  
+[lStewieAl's Tweaks](https://www.nexusmods.com/newvegas/mods/66347)  
+[Simple DLC Delay](https://www.nexusmods.com/newvegas/mods/62779)  
+[GRA Unique Weapons Relocated](https://www.nexusmods.com/newvegas/mods/68153)  
+[JSawyer Ultimate Edition](https://www.nexusmods.com/newvegas/mods/61592)  
