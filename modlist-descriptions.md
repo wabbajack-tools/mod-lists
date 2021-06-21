@@ -360,6 +360,26 @@ Really, though, please check out our [website](https://librum-modpack.com/).
 
 ***
 
+### [Narsil](https://mvlad.design/narsil)
+
+Narsil is an ambitious curated modlist that seeks to overhaul and expand Skyrim VR to make it more balanced, challenging, varied, good looking and most importantly expand the available gameplay options and make the game more immersive while making sure it's playable on lower spec configurations.
+
+**_Mods to get familiar with:_**
+
+[VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)  
+[HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)  
+[Navigate VR](https://www.nexusmods.com/skyrimspecialedition/mods/47174)  
+[Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630)  
+[Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983)  
+[Campfire Unleashed](https://www.nexusmods.com/skyrimspecialedition/mods/11001)  
+[Decorator Helper](https://www.nexusmods.com/skyrimspecialedition/mods/11708)  
+[Knockout and Surrender](https://www.nexusmods.com/skyrimspecialedition/mods/40556)  
+[True Death](https://www.nexusmods.com/skyrimspecialedition/mods/26896)  
+
+Really, though, please check out the [website](https://mvlad.design/narsil).
+
+***
+
 ## Fallout 4 VR
 
 ***
