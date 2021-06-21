@@ -378,3 +378,22 @@ Currently the only Fallout VR modlist built for Wabbajack, This is a complete ov
 There is also a [handy dandy installation video](https://www.youtube.com/watch?v=o8Y8d74_D-A)!
 
 ***
+
+## Tale Of Two Wastelands
+
+***
+
+### [The Vault Courier](https://docs.google.com/document/d/1TXoa4XNsFzt5TNzqznh0dRNwatizjJ0fkjOvpjGv8a0/edit)
+
+This modlist will update the graphics and mechanics of Fallout New Vegas to bring it closer to modern standards of FPS shooters. In fact many of the gameplay elements here are better than even Fallout 4.
+
+**_Mods to get familiar with:_**
+
+[Delay DLC TTW](https://www.nexusmods.com/newvegas/mods/66690)  
+[SawyerBatty](https://fallout.fandom.com/wiki/JSawyer)  
+[Solid Project](https://www.nexusmods.com/newvegas/mods/63239)  
+[The Living Desert](https://www.nexusmods.com/newvegas/mods/64623)  
+[Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726)  
+[Quickhacking NV](https://www.nexusmods.com/newvegas/mods/72224)  
+
+***
