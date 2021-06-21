@@ -392,7 +392,6 @@ This modlist will update the graphics and mechanics of Fallout New Vegas to brin
 [Delay DLC TTW](https://www.nexusmods.com/newvegas/mods/66690)  
 [SawyerBatty](https://fallout.fandom.com/wiki/JSawyer)  
 [Solid Project](https://www.nexusmods.com/newvegas/mods/63239)  
-[The Living Desert](https://www.nexusmods.com/newvegas/mods/64623)  
 [Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726)  
 [Quickhacking NV](https://www.nexusmods.com/newvegas/mods/72224)  
 
