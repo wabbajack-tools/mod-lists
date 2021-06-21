@@ -398,7 +398,6 @@ Currently the only Fallout VR modlist built for Wabbajack, This is a complete ov
 There is also a [handy dandy installation video](https://www.youtube.com/watch?v=o8Y8d74_D-A)!
 
 ***
-
 ## Fallout New Vegas
 
 ***
@@ -429,3 +428,36 @@ Tend To Your Frontier is a small modlist meant to showcase the excellent new lan
 [Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726)  
 [Main Story Alterations](https://www.nexusmods.com/newvegas/mods/63870)  
 [Zion Trail](https://www.nexusmods.com/newvegas/mods/61939)  
+
+***
+
+## Tale Of Two Wastelands
+
+***
+
+### [The Vault Courier](https://docs.google.com/document/d/1TXoa4XNsFzt5TNzqznh0dRNwatizjJ0fkjOvpjGv8a0/edit)
+
+This modlist will update the graphics and mechanics of Fallout New Vegas to bring it closer to modern standards of FPS shooters. In fact many of the gameplay elements here are better than even Fallout 4.
+
+**_Mods to get familiar with:_**
+
+[Delay DLC TTW](https://www.nexusmods.com/newvegas/mods/66690)  
+[SawyerBatty](https://fallout.fandom.com/wiki/JSawyer)  
+[Solid Project](https://www.nexusmods.com/newvegas/mods/63239)  
+[Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726)  
+[Quickhacking NV](https://www.nexusmods.com/newvegas/mods/72224)  
+
+***
+
+### [Starstruck Courier](https://github.com/Kaethela/Starstruck-Courier/)
+
+Starstruck Courier combines Tale of Two Wastelands with Fallout: New California, allowing one to play through Fallout 3, Fallout New Vegas, and Fallout: New California in one continuous save file. In addition to adding New California, this list also includes new quest content for both Fallout 3 and Fallout New Vegas, updated textures, gameplay improvements, and quality of life fixes.
+
+**_Mods to get familiar with:_**
+
+[Fallout New California](https://www.nexusmods.com/newvegas/mods/45138)  
+[Delay DLC TTW](https://www.nexusmods.com/newvegas/mods/66690)  
+[SawyerBatty](https://fallout.fandom.com/wiki/JSawyer)  
+[A Roleplayer's History - Patchy's Picks](https://www.nexusmods.com/newvegas/mods/72032)  
+[Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726)  
+[Bypass Minigames - Lockpick and Hacking](https://www.nexusmods.com/newvegas/mods/65840)  
