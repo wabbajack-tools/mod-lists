@@ -1,4 +1,4 @@
-# Wabbajack Modlist Descriptions and Required Reading
+# Wabbajack Modlist Descriptions and Required Reading <!-- omit in toc -->
 
 #### This document will provide a short summary of each modlist, and what mods you should familiarize yourself with prior to playing the game.
 
@@ -6,8 +6,47 @@
 
 ***
 
+- [Skyrim Special Edition](#skyrim-special-edition)
+  - [NOIR - Nice Overall Improvement Requiem](#noir---nice-overall-improvement-requiem)
+  - [TSO - Total Skyrim Overhaul](#tso---total-skyrim-overhaul)
+  - [RGE - Relics of Hyrule - Grand Admiral Thrawn Edition](#rge---relics-of-hyrule---grand-admiral-thrawn-edition)
+  - [Elder Souls](#elder-souls)
+  - [Total Visual Overhaul (TVO)](#total-visual-overhaul-tvo)
+  - [Elysium](#elysium)
+  - [Tales From the Northern Lands](#tales-from-the-northern-lands)
+  - [Keizaal](#keizaal)
+  - [The Phoenix Flavour](#the-phoenix-flavour)
+  - [Living Skyrim](#living-skyrim)
+  - [Serenity 2](#serenity-2)
+  - [QWEST!](#qwest)
+  - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr)
+  - [Tinvaak](#tinvaak)
+  - [(NSFW)Tsukiro(NSFW)](#nsfwtsukironsfw)
+- [Fallout 4](#fallout-4)
+  - [Fallout 4: Enhanced Edition (F4EE)](#fallout-4-enhanced-edition-f4ee)
+  - [Sim Settlements Experience](#sim-settlements-experience)
+  - [Boston Cream Pie](#boston-cream-pie)
+  - [GhoulOut](#ghoulout)
+  - [Magnum Opus](#magnum-opus)
+  - [Welcome to Paradise](#welcome-to-paradise)
+- [Skyrim Special Edition - VR](#skyrim-special-edition---vr)
+  - [Ultimate VR Essentials](#ultimate-vr-essentials)
+  - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr-1)
+  - [Narsil](#narsil)
+- [Fallout 4 VR](#fallout-4-vr)
+  - [Fallout 4 VR Essentials Overhaul](#fallout-4-vr-essentials-overhaul)
+- [Fallout New Vegas](#fallout-new-vegas)
+  - [Viva New Vegas](#viva-new-vegas)
+  - [Tend To Your Frontier](#tend-to-your-frontier)
+- [Tale Of Two Wastelands](#tale-of-two-wastelands)
+  - [The Vault Courier](#the-vault-courier)
+  - [Starstruck Courier](#starstruck-courier)
+
+***
+
 ## Skyrim Special Edition
 
+***
 
 ### [NOIR - Nice Overall Improvement Requiem](https://www.wabbajack.org/#/modlists/info?machineURL=noir)
 
@@ -319,6 +358,7 @@ Simply put, this list is what Fallout 4 should have been on release. Touting doz
 
 ## Skyrim Special Edition - VR
 
+***
 
 ### [Ultimate VR Essentials](https://docs.google.com/document/d/19PhkPbhh0d8_ZoKj5mGBpmUIMU10c_7P94X9FpIuyak/edit)
 
