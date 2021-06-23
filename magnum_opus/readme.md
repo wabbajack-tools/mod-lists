@@ -183,10 +183,11 @@ Navigate to your Fallout4/Data folder and **copy** these 15 files:
 Inside the new folder, you should see another folder called “**textures**”. **Cut** this textures folder and **paste** it into **Workbase/PatchedFiles**.
 **Repeat the previous two steps** for Part Two and Part Three of the Main Repack archives.
 Run the **installer.bat** file inside of WorkBase.
-When it is done, copy and paste all of the files inside of the PatchedBa2 folder into your Fallout4/Data folder AFTER WABBAJACK IS FINISHED INSTALLING.
-  *  Alternatively, you can make a new folder inside Magnum Opus/mods and paste the archives into there, then activate the new mod in Mod Organizer 2. This will keep your Fallout 4 installation completely clean.  
+When it is done, you'll see 15 new files inside of the `PatchedBA2s` folder. Cut or copy these archives. Navigate to your Magnum Opus mods folder and fine the Workbase folder (`Magnum Opus/mods/[NoDelete] Workbase Optimized Textures`). Paste the archives into here.
   
 After all of these steps are complete, you may delete the WorkBase folder. If you have the space, I advise making a backup of both the vanilla ba2 files as well as the patched ba2 files. It will save you the trouble of having to redownload them again later.
+
+Launch Mod Organizer 2, and activate the `[NoDelete] Workbase Optimized Textures` mod.
 
 *Note that you CANNOT use the HD DLC for BiRaitBec’s texture optimization. You’ll see missing textures everywhere if you do.*
 
@@ -284,8 +285,6 @@ If you have a Missing Masters warning in Mod Organizer 2 after following this se
 If you have CC mods that aren't in this list, that means I don't own them (yet?), so I cannot provide support. I'm doing my best here, please bear with me.
 
 You may also notice some other mods are deactivated in the CC Profile - namely, some armors, power armors, and weapons. This is because some CC mods act as pseudo variants of these, and I didn't want "doubles" essentially.
-
-If you only have some CC content in the approved list above, please check the [More Modular CC Support](#more-modular-cc-support) section below.
 
 ## In-Game MCM Options
 
@@ -432,17 +431,15 @@ Then find the `[General]` section and change `bGamepadEnable=` from a `0` to a `
 
 ### ENB
 
-I don't use an ENB. I never saw the need. If you want to try one, feel free.
+I don't use an ENB. I never saw the need. The ENB binaries are present for other purposes. If you wish to add an ENB preset, go for it, but I will provide zero support for such endeavors.
 
 ## More Modular CC Support
 
-Please before we begin that there is NO SUPPORT WHATSOEVER for CC content outside of the previously written list, with a strong emphasis on Pipboy and Power Armor Paint Jobs. Pipboy Paint Jobs will **most likely cause a CTD at the main menu.**
+Please before we begin that there is NO SUPPORT WHATSOEVER for CC content outside of the previously written list, with a strong emphasis on Pipboy and Power Armor Paint Jobs. Pipboy Paint Jobs will **most likely cause a CTD at the main menu.** There is also really no support whatsoever for this section, but I am against taking away the freedom for you to do as you like, so maybe this will help if, say, you only own a few CC mods.
 
-In Mod Organizer 2's profile dropdown in the top-left, you'll see a third profile called `Opus CC Only`. This profile has no mods active that are not required for the Creation Club mods and my various patches. Activate this profile, then scroll to the bottom of the mod list in the left pane. The very last mod will be called `Lively and Webmetz's CC Patches`. Right click on this mod and select `Reinstall Mod`.
+In Mod Organizer 2's profile dropdown in the top-left, you'll see a third profile called `Opus CC Only`. This profile has no mods active that are not required for the Creation Club mods and my various patches. Activate this profile, then launch xEdit through MO2. Load all modules. When it is finished, right click anywhere in the left pane and select `Apply Script`, then choose the `M8r Complex Sorter` script. Change the output .esp name to something unique, and click `Generate`.
 
-A FOMOD will pop up on your screen. Options in this FOMOD will be automatically selected for you based on the CC plugins in your load order. ALL YOU HAVE TO DO IS CLICK NEXT A FEW TIMES, THEN CLICK INSTALL. When prompted, select `Replace`.
-
-Switch back to the `Magnum Opus - CC Edition` profile. Deactivate `Lively and Webmetz's CC Patches` and then activate it again. This will enable all the new plugins selected by the FOMOD. Each individual option will install my patch when applicable, as well as an individual sorting patch for each CC plugin. **A very special thanks to Webmetz for going through the extremely tedious process of doing this for all of us.**
+When it is finished, close xEdit and save the new plugin. Switch back to the `Magnum Opus - CC Profile` in MO2, and activate your new plugin.
 
 ## Credits and Thanks
 
