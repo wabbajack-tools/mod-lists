@@ -5,7 +5,7 @@
 
 Please visit the [official website](https://keizaal.github.io/Keizaal/) for more information as well as installation and configuration instructions.
 
-  - Check the [full mod list](https://loadorderlibrary.com/lists/keizaal).
+  - Check the [full mod list](http://www.wabbajack.org/#/modlists/search?machineURL=keizaal).
   - Join us on [Discord](https://discord.gg/eYZJFP8).
   - Buy me a [Coffee](https://ko-fi.com/pierredespereaux).
   - Support me on [Patreon](https://www.patreon.com/user?u=16914107).
