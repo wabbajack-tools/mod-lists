@@ -290,6 +290,9 @@ You may also notice some other mods are deactivated in the CC Profile - namely, 
 
 *_Note: Anything involving hotkeys can be set up however you like. These are simply the way I have them set up for myself._
 
+Baka Wait Anywhere
+~[alt text](https://i.imgur.com/EGePAFk.png)
+
 Companion Command Hotkeys  
 ![alt text](https://i.imgur.com/QMQqSSu.png)  
 
@@ -304,6 +307,18 @@ Custom Camera - Miscellaneous
 
 Custom Camera - Features  
 ![alt text](https://i.imgur.com/PuDef9C.png)  
+
+DLC Timing - Automatron
+![alt text](https://i.imgur.com/gvWlkO6.png)
+
+DLC Timing - Far Harbor
+![alt text](https://i.imgur.com/V8rJPdf.png)
+
+DLC Timing - Nuka World
+![alt text](https://i.imgur.com/4zY7zCG.png)
+
+DLC Timing - Vault-Tec Workshop
+![alt text](https://i.imgur.com/wVaClh8.png)
 
 FallUI - Coloring  
 ![alt text](https://i.imgur.com/liVn6zL.png)
@@ -320,25 +335,21 @@ FallUI Workbench - Workbench List
 Faster Workshop Hotkey  
 ![alt text](https://i.imgur.com/kkgYNFT.png)  
 
-More AGOMBz - More attacks - Swap the first two categories.  
-![alt text](https://i.imgur.com/vdXySOe.png)
+Pack Attack NPC Edition - General Settings
+![alt text](https://i.imgur.com/z8wEN44.png)
 
-More AGOMBz - More...Disable - Disable Radstags.  
-![alt text](https://i.imgur.com/VREBmyj.png)
-
+Pack Attack NPC Edition - Raiding Parties
+![alt text](https://i.imgur.com/NbUnDjB.png)
 QuickTrade  
-![alt text](https://i.imgur.com/FF168gw.png)
+![alt text](https://i.imgur.com/KeyaCf5.png)
 
 Sim Settlements 2 - Respect Build Limit - Off  
 ![alt text](https://i.imgur.com/nTuRz20.png)
 
 Some people have reported Cinematic Mode does not allow city plans to build themselves. You may wish to disable that option as well.
 
-Wait Anywhere - Hotkey: T  
-![alt text](https://i.imgur.com/YP6OOnl.png)
-
-Workshop Framework - Turn off Allow Settlements to Leave (optional)  
-![alt text](https://i.imgur.com/KaQWMZp.png)  
+Workshop Framework
+![alt text](https://i.imgur.com/QVjhlRd.png)  
 
 Workshop Plus - Options - Disable Clear Weather.  
 ![alt text](https://i.imgur.com/BGZnDBG.png)  
@@ -378,16 +389,6 @@ That's it! Have fun!
 - I am having random crashes.
 
   - Check Magnum Opus' Mod Organizer 2. Look at the top right corner for a red triangle with a yellow number. Click it. If one of the warnings says "incompatible plugins" and spits out an error about Buffout 4, then you're missing the memory patch. This can happen in some cases. Reinstall VCRedit, re-copy Game Folder Files, launch the game through MO2 once, and close it again. The warning should now be gone, Buffout should be loaded properly, and you can go on with your day.
-
-
-- Hey Lively, where is the trash can from your mod in Sanctuary?
-
-  - The new [Sanctuary Overhaul](https://www.nexusmods.com/fallout4/mods/51148) doesn't really have trash, so auto-scrapping trash is no longer a required feature in Magnum Opus. The trash can has been deleted.
-
-
-- Why can't I build City Plans in Sanctuary?
-
-  - Multiple reasons. First, city plans aren't compatible with the Sanctuary overhaul, so the Sanctuary City Plans have been disabled. Second, it is extremely easy to destroy your game by building too much in Sanctuary/Red Rocket/Abernathy, so Anom's Sanctuary Overhaul is really doing us a huge favor, whether you know it or not.
 
 
 - Is Creation Club content compatible?
