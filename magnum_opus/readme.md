@@ -290,8 +290,8 @@ You may also notice some other mods are deactivated in the CC Profile - namely, 
 
 *_Note: Anything involving hotkeys can be set up however you like. These are simply the way I have them set up for myself._
 
-Baka Wait Anywhere
-~[alt text](https://i.imgur.com/EGePAFk.png)
+Baka Wait Anywhere  
+![alt text](https://i.imgur.com/EGePAFk.png)
 
 Companion Command Hotkeys  
 ![alt text](https://i.imgur.com/QMQqSSu.png)  
@@ -308,16 +308,16 @@ Custom Camera - Miscellaneous
 Custom Camera - Features  
 ![alt text](https://i.imgur.com/PuDef9C.png)  
 
-DLC Timing - Automatron
+DLC Timing - Automatron  
 ![alt text](https://i.imgur.com/gvWlkO6.png)
 
-DLC Timing - Far Harbor
+DLC Timing - Far Harbor  
 ![alt text](https://i.imgur.com/V8rJPdf.png)
 
-DLC Timing - Nuka World
+DLC Timing - Nuka World  
 ![alt text](https://i.imgur.com/4zY7zCG.png)
 
-DLC Timing - Vault-Tec Workshop
+DLC Timing - Vault-Tec Workshop  
 ![alt text](https://i.imgur.com/wVaClh8.png)
 
 FallUI - Coloring  
@@ -335,11 +335,12 @@ FallUI Workbench - Workbench List
 Faster Workshop Hotkey  
 ![alt text](https://i.imgur.com/kkgYNFT.png)  
 
-Pack Attack NPC Edition - General Settings
+Pack Attack NPC Edition - General Settings  
 ![alt text](https://i.imgur.com/z8wEN44.png)
 
-Pack Attack NPC Edition - Raiding Parties
+Pack Attack NPC Edition - Raiding Parties  
 ![alt text](https://i.imgur.com/NbUnDjB.png)
+
 QuickTrade  
 ![alt text](https://i.imgur.com/KeyaCf5.png)
 
@@ -348,7 +349,7 @@ Sim Settlements 2 - Respect Build Limit - Off
 
 Some people have reported Cinematic Mode does not allow city plans to build themselves. You may wish to disable that option as well.
 
-Workshop Framework
+Workshop Framework  
 ![alt text](https://i.imgur.com/QVjhlRd.png)  
 
 Workshop Plus - Options - Disable Clear Weather.  
