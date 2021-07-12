@@ -33,6 +33,7 @@
   - [Ultimate VR Essentials](#ultimate-vr-essentials)
   - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr-1)
   - [Narsil](#narsil)
+  - [Auriel's Dream](#auriel's-dream)
 - [Fallout 4 VR](#fallout-4-vr)
   - [Fallout 4 VR Essentials Overhaul](#fallout-4-vr-essentials-overhaul)
 - [Fallout New Vegas](#fallout-new-vegas)
