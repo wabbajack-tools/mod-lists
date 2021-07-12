@@ -33,7 +33,7 @@
   - [Ultimate VR Essentials](#ultimate-vr-essentials)
   - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr-1)
   - [Narsil](#narsil)
-  - [Auriel's Dream](#auriel-s-dream)
+  - [Auriel's Dream](#auriels-dream)
 - [Fallout 4 VR](#fallout-4-vr)
   - [Fallout 4 VR Essentials Overhaul](#fallout-4-vr-essentials-overhaul)
 - [Fallout New Vegas](#fallout-new-vegas)
@@ -421,7 +421,7 @@ Really, though, please check out the [website](https://mvlad.design/narsil).
 
 ***
 
-### [Auriel's Dream](https://github.com/Kvitekvist/Auriel-s-Dream/blob/master/README.md)
+### [Auriels Dream](https://github.com/Kvitekvist/Auriel-s-Dream/blob/master/README.md)
 
 Auriel's Dream is a warm welcome into modded SkyrimVR. The focus is mostly on staying true to the Vanilla game play, while giving a unique visual overhaul. There are no overhauls for trade, crafting, combat (except adding a few VR essentials), magic or perk trees by default. However, Some options are available in the optional categories. This makes the modlist easy to get into for people who are new to SkyrimVR, and it offers a good selection of optional mods for the more seasoned Skyrim player. Visually. the theme is a warmer atmosphere with an Oblivion-like vibe.
 
