@@ -10,8 +10,6 @@
   - [NOIR - Nice Overall Improvement Requiem](#noir---nice-overall-improvement-requiem)
   - [TSO - Total Skyrim Overhaul](#tso---total-skyrim-overhaul)
   - [RGE - Relics of Hyrule - Grand Admiral Thrawn Edition](#rge---relics-of-hyrule---grand-admiral-thrawn-edition)
-  - [Elder Souls](#elder-souls)
-  - [Total Visual Overhaul (TVO)](#total-visual-overhaul-tvo)
   - [Elysium](#elysium)
   - [Tales From the Northern Lands](#tales-from-the-northern-lands)
   - [Keizaal](#keizaal)
@@ -25,8 +23,6 @@
 - [Fallout 4](#fallout-4)
   - [Fallout 4: Enhanced Edition (F4EE)](#fallout-4-enhanced-edition-f4ee)
   - [Sim Settlements Experience](#sim-settlements-experience)
-  - [Boston Cream Pie](#boston-cream-pie)
-  - [GhoulOut](#ghoulout)
   - [Magnum Opus](#magnum-opus)
   - [Welcome to Paradise](#welcome-to-paradise)
 - [Skyrim Special Edition - VR](#skyrim-special-edition---vr)
@@ -87,37 +83,6 @@ For those that have had enough of the “lore-friendly” lists and want somethi
 
 ***
 
-### [Elder Souls](https://www.wabbajack.org/#/modlists/info?machineURL=eldersouls)
-
-Elder Souls is an attempt to bring some Soulsborne flavor to Skyrim. You should expect challenging but fair combat, an awesome dark fantasy vibe, and a plethora of new content.
-
-Among this content you will find a variety of new hand-placed monster types, multiple player houses in each hold, and a multitude of new dungeons and quests. Leveling and death are modeled after the Dark Souls system, substituting Gold for Souls, meaning you must gain money and sleep in order to raise skills and level up.
-
-**_Mods to get familiar with:_**
-
-[Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191)  
-[Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839)  
-[Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549)  
-[Legendary Skyrim Crossbows](https://www.nexusmods.com/skyrimspecialedition/mods/8273)  
-[Wintersun - Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/22506)  
-
-***
-
-### [Total Visual Overhaul (TVO)](https://www.wabbajack.org/#/modlists/info?machineURL=tvo)
-
-The only Wabbajack list to focus solely on graphics. The vast majority of textures are 2K, with 4K textures being used sparingly on large objects where appropriate. The end result is a modlist that looks significantly better than vanilla while still getting great FPS on modern hardware.
-
-No gameplay additions means there's no perk overhaul, no new quests, no new weapons or armor. This also makes it relatively easy to use as a base for your own additions, provided you know how to use tools such as zEdit and xEdit.
-
-**_Mods to get familiar with:_**
-
-[Obscure's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/20514)  
-[JK's Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6289)  
-[Cities of the North - Dawnstar](https://www.nexusmods.com/skyrimspecialedition/mods/28952)  
-[Cities of the North - Morthal](https://www.nexusmods.com/skyrimspecialedition/mods/34168)  
-
-***
-
 ### [Elysium](https://www.wabbajack.org/#/modlists/info?machineURL=elysium)
 
 From TitansBane, the author of [Reliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612), comes Elysium: what started as a simple off-shoot of The Phoenix Flavour has grown into its own massive undertaking. Elysium has taken its predecessor and packed it full of more content, including mods like [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802), [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194), a full suite of [EnaiSiaion](https://www.nexusmods.com/skyrimspecialedition/users/3959191)’s mods, and an optional MO2 profile that supports all of your Creation Club content - all without sacrificing the stability that TPF is known for.
@@ -170,8 +135,6 @@ Automated installer for [The Phoenix Flavour](https://thephoenixflavour.com/), t
 [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191)  
 [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549)  
 [Arena](https://www.nexusmods.com/skyrimspecialedition/mods/33487)  
-[Sacrosanct](https://www.nexusmods.com/skyrimspecialedition/mods/3928)  
-[Morrowloot Miscellania](https://www.nexusmods.com/skyrimspecialedition/mods/27094)  
 
 ***
 
@@ -298,34 +261,6 @@ This modlist is created entirely by a member of the Sim Settlements team, and is
 [Workshop Plus](https://www.nexusmods.com/fallout4/mods/35005)  
 [Sim Settlements - Mega Pack - Year One](https://www.nexusmods.com/fallout4/mods/30396)  
 [Sim Settlements - Mega Pack - Year Two](https://www.nexusmods.com/fallout4/mods/37983)  
-
-***
-
-### [Boston Cream Pie](https://www.wabbajack.org/#/modlists/info?machineURL=boston_cream_pie)
-
-BCP sticks to a fairly “Vanilla+” experience, with the intention of adding only historically lore-friendly mods to Boston. If you’ve seen it in a previous Fallout game - or maybe even just read some obscure bit of Fallout lore on the wiki - odds are good you’ll find it somewhere in this list.
-
-**_Mods to get familiar with:_**
-
-[SKK Combat Stalkers](https://www.nexusmods.com/fallout4/mods/30308)  
-[Wasteland Ballistics](https://www.nexusmods.com/fallout4/mods/42757)  
-[Workshop Plus](https://www.nexusmods.com/fallout4/mods/35005)  
-
-***
-
-### [GhoulOut](https://www.wabbajack.org/#/modlists/info?machineURL=ghoulout)
-
-All of the main quests have been replaced by zombies. And all of the NPCs. And creatures. And bugs. And most everything else. Has a nice custom-made perk system, though. Settlement building is a core mechanic in this list as well. Build your bases to defend yourself and your citizens from zombie hordes, and venture out into the wild when you need to find some more perks for yourself.
-
-It goes without saying that this list is not lore-friendly, and has embraced that fact by also adding things like Deathstroke’s armor, Halo ODST armor, and a variety of other hand-placed oddities you can find throughout the land.
-
-**_Mods to get familiar with:_**
-
-[Fallout 4-76 Open World](https://www.nexusmods.com/fallout4/mods/32599)  
-[Zombie Walkers](https://www.nexusmods.com/fallout4/mods/20485)  
-[Ferals After Dark](https://www.nexusmods.com/fallout4/mods/22434)  
-[War Never Changes](https://www.nexusmods.com/fallout4/mods/19642)  
-[Death Penalty](https://www.nexusmods.com/fallout4/mods/24746)  
 
 ***
 
