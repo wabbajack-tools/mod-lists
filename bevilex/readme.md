@@ -196,10 +196,7 @@ _BSA Decompressor recreates BSA archives without zlib compression so the game is
 
 ## Extra Notes
 
-*   By default, the Oblivion Reloaded in game menu is bound to ‘O’. Since this is annoying when creating a character,  I have rebound it to F6. Use this key and/or edit the Oblivion Reloaded INI file in the OR 7.0 PRESET mod to change settings.
 *   Due to the way MO2 loads Oblivion and OBSE, the Steam overlay and screenshot functionality cannot be used. Use F11 to take screenshots using Oblivion Reloaded.
-*   As standard, this installer activates Oblivion Reloaded's framerate feature to improve FPS by dynamically reducing draw distances. If you are getting stable/high FPS, you should see no deterioration in visual quality. If you are getting low FPS, view distances are reduced temporarily to preserve FPS, causing a 'pop-in' effect. The framerate at which the feature is activated can be edited in the OR preset (default 50FPS), as well as the extent to which view distances are reduced. Otherwise, the feature can also be completely disabled in the same location.
-*   Note that in order for several Oblivion Reloaded features to work, in-game graphical setting changes are locked. To alter the settings, set the SaveSettings option in the OR preset to 1, load the game and make any desired changes, then exit and set the SaveSettings value back to 0 again.
 
 ## Troubleshooting
 
