@@ -25,7 +25,7 @@ Before we get started, there is just a couple of things to note:
 6. Wabbajack will now download and install the mods specified in the installer. The download size is approximately 18GB so this may take a little while. The installer should keep you informed of progress.
 7. After the **installation complete** message appears, close the installer.
 
-HOTFIX: Replacing the Oblivion INIs in the MO2 Bevilex and Bevilex Extended Profiles
+### HOTFIX: Replacing the Oblivion INIs in the MO2 Bevilex and Bevilex Extended Profiles
 To address INI issues with the latest version of this list, please replace the Oblivion.ini file in [MO2 Install]/profiles/Bevilex Extended with [this version](https://drive.google.com/file/d/1nby-4x-eFlEC4nvIlERilWVstzHztRck/view?usp=sharing).
 
 ### Running Better Oblivion Sorting Software (BOSS) with User Rules
