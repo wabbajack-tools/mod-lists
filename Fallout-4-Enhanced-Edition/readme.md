@@ -2,15 +2,12 @@
 
 Your game will be much less recognizable and very tough, especially at early levels; you have been warned. Along with being more difficult, this modlist makes Fallout 4 look better, play better, adds new guns, new ways to build settlements, new strategies and ways to roleplay your character. It even adds new content to explore all over the map. New NPCs, new quests, new adventures, and new enemies to fight, all fitting into the world and making it that much more enjoyable. Fallout 4 always seemed a little empty, so now you have more things to play around with to fill the world yourself, as well as new things that already fill some of the empty void! Roleplay to your heart's content, or find a way to become the strongest being in the Commonwealth; it's all up to you! Oh, and the annoying voice of the main character is gone, so you can sound like yourself for once! You are not shoehorned into being whoever the game tells you to. You are you. Play this game how YOU want to, not like how Bethesda wants you to.
 
-### The main differences in 1.2:
+### The main differences in 1.2.1:
 
-* 5 NEW Quest mods!
-* Overhauled crafting for Weapons, Clothing and Armor!
-* Better AI for enemies as well as Companions
-* Better Stability, and less save corruption
-* Greater than 60 FPS capability! (If your system can run it)
-* New armor for Raiders, Gunners, Minutemen and BOS! (All distributed in the levelled lists too!)
-* 3 new Guns over Alpha!
+* Almost all enemies have been re-balanced by hand
+* Lots of bugfixes
+* BethINI has replaced FO4 Config
+* See patchnotes [here](https://github.com/AUGSpeed/F4EE-Patch-Notes) for more details
 
 ## Requirements:
 
@@ -34,54 +31,65 @@ Download the latest ENB binaries from [the ENB website](http://enbdev.com/downlo
 
 ### Step 3:
 
-Launch MO2 from the exe found in your install folder.
+Launch BethINI from the exe found in your `F4EEInstall/tools/BethINI Standalone` folder.
 
 ### Step 4:
 
-In the top right of MO2, use the drop down menu to select `FO4Config`, and hit the `Run` button to the right of that. When opened, direct it to your `Fallout4.exe` location. DO NOT replace the Fallout4Launcher if prompted. After this is done, follow these instructions for each of the tabs:
+These instructions will be listed by Tabs in BethINI, please follow them in order, or things will not work.
 
-* **Tweaks**:   
-Activate `Always Active`, `Invalidate Archives` and `Fix Sensitivity Ratio`.
-* **Performance**:  
-Next to `iNumHWThreads`, put the number of cores that your CPU has. Next to `Dir Distance`, put 3000. Disable `Radial Blur`. For performance over beauty, put the field next to `Resolution` to 2048 or lower.
-* **Camera**:  
-Feel free to edit your field of view as much as you like here.
-* **Textures/Decals**:  
-Click the `Recommended` button, and set `Max Actor Decals` to 40.
-* **UI**:  
-Simply change the colors to your liking.
-* **Gameplay**:  
-Set `Difficulty` to 5, enable `Dialogue Subtitles`, and feel free to disable `Show Tutorials` if you already know everything.
-* **Final Step**:  
-Now, hit 'Save' in the bottom left.
-
-For a final (Optional) Tweak to make your Flashlight plain white, click on the small file folder button to the left of the 'Active' Counter above the left pane. Select 'Open INIs Folder', and open your Fallout4Custom.ini file. Add:
-
-`[Pipboy]`
-
-`bPipboyEffectColorOnLight=0`
+* **Setup**:   
+Make sure `Game` is set to `Fallout 4`.
+`Game Path` should be set to whatever directory your game is in, ending with `Steam/steamapps/common/Fallout 4`.
+`Mod Organizer` should be set to your `F4EEInstall` directory, wherever that is.
+`INI Path` should be set to `ModOrganizer > F4EE 1.2.1`.
+* **Basic**:  
+Here, set your screen's resolution is set properly, and also set your graphical preset. I recommend using BethINI's Ultra preset.
+Ensure that `FPS` is set to `60`. Don't worry, we can get more in game, it just needs to be that way in the INIs.
+Be sure to check the `Recommended Tweaks` Box as well!
+* **General**:  
+Check the `Intro Logo` checkbox. It needs to be checked, otherwise custom main menu audio doesn't work. No idea why.
+You can also choose to disable tutorial messages here.
+* **Interface**:  
+You can check here if you want subtitles or not.
+* **Custom**:  
+If you want your PipBoy Flashlight to be colored a flat white rather than whatever color your PipBoy is, then do this:
+Under `Section`, select `Pipboy`.
+Under `Setting`, select `bPipboyEffectColorOnLight`.
+In the text box below, change the `1` to a `0`, and then click `Save`.
+* **Setup**:  
+Now, hit `Save and Exit` in the bottom right.
 
 ### Step 5:
 
-Now, launch your game from F4SE in your MO2! After creating your character, you should configure the MCM menus found at the top of your pause menu. Follow these steps and you will be good!
+Launch ModOrganizer from the exe found in your `F4EEInstall` folder.
 
-* **Better Locational Damage**:   
-Mod Settings: Set `Helmet Protection` and `Bandage Heal` to `OFF`.
+### Step 6:
+
+Now, launch your game from `F4SE` in the top left of your MO2! After creating your character, you should configure the MCM menus found at the top of your pause menu. Follow these steps and you will be good!
+
 * **HoloTime**:   
 For `Toggle HoloTime Display`, set it to the `?/` key. Then, click on `Widget Position`, and move the widget to the very top middle of your screen, with `Y` being close to 1, and `X` being close to half of your monitor's resolution width. Then, ensure that scale is `0.5`.
 * **FallUI**:   
-Customize this as you see fit, UI is subjective here. I will provide a full guide on what I do in 1.2.1, since I haven't had time to play enough to decide what is best.
+Text Style: 
+  - `Font`should be set to `Roboto Condenced Bold`.
+  - `Font Size for Pipboy` should be set to `24`
+  - `Font Size for Barter and container` should be set to `20`.
+Lists:
+  - `Default Sort Order` should be set to `Item tag sorting (tag order in xml)`
+  - `Draw Column Divider` should be set to `ON`.
+Pipboy
+  - `Selected Item Style` should be set to `Simple(Shear)`.
+  - `Go back by pipboy/cancel key` should be set to `ON`.
 * **VAFS Redux**:  
 Focus: For `Hotkey: Toggle Focus`, put `Q`. If you cannot, rebind VATS in your regular settings menu.
 Attack: For `Hotkey Use Critical`, put `L Alt`.
 * **Workshop Framework**:  
 Options: Set `Auto Assign Beds`, `Auto Assign Defenses`, and `Auto Assign Food` to `OFF`.
-* **Workshop Plus**: 
-Options: Set `Invulnerability in Workshop Mode`, `Invisibility in Workshop Mode`, `Clear the weather in Workshop Mode`, and `Unlimited Carry Weight in Workshop Mode` to `OFF`.
 * **Beat The Vault**:  
-After setting these options, go to the door of the bathroom and click the only applicable button, `This is only a dream. I need to wake up`. And then after that, `The bombs were falling, and I had just entered a pod in a vault`. This start is the ONLY OFFICIAL, SUPPORTED START. Others may be buggy, and crash your game. But, you will still be able to roleplay as someone who came from the vault in this start, but not the Father of Shaun. You will simply be someone who witnessed the murder of a person and saw their son stolen. Now, play through the vault until you get outside.
-* **Immerive HUD**:  
-Now, before you configure this menu, MAKE SURE that your HoloTime widget as well as your compass are visible. If they are, then great, you can start configuring! If not, ensure that you use that hotkey you set earlier to enable HoloTime.   
+After setting these options, go to the door of the bathroom and click the only applicable button, `Accept`, and then `Wake Up`. 
+**Now, play through the vault until you get outside.**
+* **Immersive HUD**:  
+Now, before you configure this menu, **MAKE SURE** that your HoloTime widget as well as your compass are visible. If they are, then great, you can start configuring! If not, ensure that you use that hotkey you set earlier to enable HoloTime.   
 After that, Set `Immersive HUD Enabled` to `ON`. Then, set `Settings Holotape` and `AID Toggle Items` to `OFF`. Set your `Hotkey to Toggle HUD` to `X`.   
 Under `Crosshair`, set `Weapon` and `Hit Marker` to `Always`.   
 In `Health`, set `Health below (%)` to `0.5`. Under `AP`, set `AP below (%)` to `0.5`.   
@@ -91,9 +99,13 @@ Now, open your PipBoy, go to `Misc`, and `Settings`, and open the `Beantown Inte
 * **True Storms Configuration**:  
 Now, open the Holotape `True Storms Configuration` and enable `True Storms Effects`. If you want the game to be extra hard, keep `Constant Rads (Rad Rain)` Enabled, and also Enable `Ghoul Horde Chance`.
 
-### Step 6 (Optional):
+### Step 7 (Optional):
 
-For an additional little tweak for those of you who can run this at 60+ FPS, you will use the ENB Menu to limit your FPS (Which I HIGHLY recommend), and to prevent screen tears, use your GPU's inbuilt profile selctor for Fallout 4 to use Fast V-Sync.
+For an additional little tweak for those of you who can run this at 60+ FPS, you will use the ENB Menu to limit your FPS (Which I HIGHLY recommend). 
+To open the menu, hit `Shift+Enter` anytime in game, and in the top left, a menu will pop up. 
+Navigate to `FPS` and change the value to whatever you desire. 
+I recommend using a factor of whatever your screen's refresh rate is at. So, for a 120hz screen, use 60, 120, or 240. 
+To prevent screen tears, use your GPU's inbuilt profile selctor for Fallout 4 to use Fast V-Sync.
 
 ---
 
