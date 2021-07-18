@@ -1,4 +1,4 @@
-### Documentation and Instructions for Installer Version 2.0.0, Wabbajack 2.5.1.3+
+### Documentation and Instructions for Installer Version 2.0.1, Wabbajack 2.5.1.3+
 
 **NOTE**: As with all Wabbajack installers, a Nexus premium account is required in order to use the premium API for downloads. Additionally, since this is an unofficial attempt to automate the Bevilex guide, PLEASE only direct support queries to the unofficial bevilex modlist development channel in the [Wabbajack discord](https://discord.gg/WnyMdj). To view the channel, go to **#welcome** and follow the instructions, selecting Oblivion as a game choice.
 
@@ -200,19 +200,15 @@ _BSA Decompressor recreates BSA archives without zlib compression so the game is
 
 ## Troubleshooting
 
-1. _I encounter an orange haze / fog when roaming near or in Oblivion gates._
-   * This is an issue related to the Volumetric Fog setting in Oblivion Reloaded. Please set VolumetricFog to 0 in the OR INI within mods/OR7PRESET to fix. (Fixed in the next release)
-2. _I encounter a crash when enchanting items.
-   * Please update the [EngineBugFixes](https://www.nexusmods.com/oblivion/mods/47085) mod to the latest version. (Fixed in the next release)
-3. _I receive a blank / black screen on start up._
+1. _I receive a blank / black screen on start up._
     * Replace the Oblivion.ini file in Documents/MyGames/Oblivion, [MO2 Install]/profiles/Bevilex/, and [MO2 Install]/profiles/Bevilex Extended with [this version](https://drive.google.com/file/d/1nby-4x-eFlEC4nvIlERilWVstzHztRck/view?usp=sharing).
-4. _I am unable to download [X] mod during the Wabbajack install process, and from the Nexus page I can see that it was updated within the past week._
+2. _I am unable to download [X] mod during the Wabbajack install process, and from the Nexus page I can see that it was updated within the past week._
     * The mod in question has been updated and the mod author has not kept the previous version accessible on the Nexus. As such, the current modlist cannot be installed and must be updated. If you encounter this and it has not been mentioned in the #bevilex-support channel on Discord, please ping me (@Sam) so that I am aware of the issue and can update the modlist as soon as possible. 
-5. _I can’t run the Oblivion executable from MO2 - I get an application error._
+3. _I can’t run the Oblivion executable from MO2 - I get an application error._
     * If you bought the game through Steam, it needs to be running in the background for you to play the game. Boot up Steam and give it another try.
-6. _When I run Oblivion, a new window opens and I can hear the main menu audio, but all I get is a blank/black screen._
+4. _When I run Oblivion, a new window opens and I can hear the main menu audio, but all I get is a blank/black screen._
    * MO2 is failing to load the OBSE libraries when running Oblivion leading to issues with the mods installed. To correct, click the executable dropdown in MO2, select Edit, and then check the Oblivion.exe entry. Ensure that Force Load Libraries is ticked, and click Configure Libraries. Ensure that Oblivion.exe is set to load the library obse_1_2_416.dll in your Oblivion game directory.
-7. _Following the above instructions, there is no obse_1_2_416.dll._
+5. _Following the above instructions, there is no obse_1_2_416.dll._
    * Make sure you have copied the contents of Game Folder Files to your Oblivion game directory. The OBSE files should be present in this folder. 
 
 ## Credits
