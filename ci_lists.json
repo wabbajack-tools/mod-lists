@@ -1,1 +1,34 @@
-[]
+[
+    {
+      "title":"CI Test",
+      "description":"Only used to test build server integration",
+      "version":"1.0.0.0",
+      "author":"Halgari",
+      "maintainers": ["ci_test"],
+      "game":"skyrimspecialedition",
+      "utility_list": true,
+      "tags":[
+        "Official", "testing"
+      ],
+      "links":{
+        "image":"https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/halgaris_helper/title.jpg",
+        "readme":"https://www.wabbajack.org",
+        "download":"https://wabbajack.b-cdn.net/Halgaris%20Helper.wabbajack_c590901a-e063-4497-bafa-f8a0e796e976",
+        "news": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/halgaris_helper/news.json",
+        "machineURL":"ci_test"
+      },
+      "download_metadata":
+      {
+        "$type": "DownloadMetadata, Wabbajack.Lib",
+        "Hash": "Ah0PReokAmY=",
+        "Size": 2880027,
+        "NumberOfArchives": 1,
+        "SizeOfArchives": 89306961,
+        "NumberOfInstalledFiles": 1174,
+        "SizeOfInstalledFiles": 284574278
+      }
+    }
+
+
+
+]
