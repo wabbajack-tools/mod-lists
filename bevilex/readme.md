@@ -86,7 +86,7 @@ You can change profiles at any time.
 ### Running the Game
 
 1. To play the game, select **Oblivion** in the MO2 **executable** **dropdown** and hit **Run.** If you encounter an application error and use Steam, make sure Steam is running in the background and try again.
-3. After playing and closing the game, click on the **Overwrite** panel at the bottom of the mods pane and drag and drop the OBSE log files into the empty ‘OBSE Logs’ mod. This ensures any logs generated on successive plays will be stored here and will not produce a warning.
+3. After playing and closing the game, create a new empty mod called OBSE Logs (Use the '...' button at the top of the left MO2 pane, then select 'Create empty mod'. Next, click on the **Overwrite** panel at the bottom of the mods pane and drag and drop the OBSE log files into the empty OBSE Logs mod. This ensures any logs generated on successive plays will be stored here and will not produce a warning.
 4. You're ready to go! Check the optional steps below if you would like to further enhance your experience.
 
 ## Optional Post Installation Instructions
@@ -201,7 +201,7 @@ _BSA Decompressor recreates BSA archives without zlib compression so the game is
 ## Troubleshooting
 
 1. _I receive a blank / black screen on start up._
-    * Replace the Oblivion.ini file in Documents/MyGames/Oblivion, [MO2 Install]/profiles/Bevilex/, and [MO2 Install]/profiles/Bevilex Extended with [this version](https://drive.google.com/file/d/1nby-4x-eFlEC4nvIlERilWVstzHztRck/view?usp=sharing).
+    * Replace the Oblivion.ini file in Documents/MyGames/Oblivion and [MO2 Install]/profiles/Bevilex Extended with [this version](https://drive.google.com/file/d/1nby-4x-eFlEC4nvIlERilWVstzHztRck/view?usp=sharing).
 2. _I am unable to download [X] mod during the Wabbajack install process, and from the Nexus page I can see that it was updated within the past week._
     * The mod in question has been updated and the mod author has not kept the previous version accessible on the Nexus. As such, the current modlist cannot be installed and must be updated. If you encounter this and it has not been mentioned in the #bevilex-support channel on Discord, please ping me (@Sam) so that I am aware of the issue and can update the modlist as soon as possible. 
 3. _I can’t run the Oblivion executable from MO2 - I get an application error._
