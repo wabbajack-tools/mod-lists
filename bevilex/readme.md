@@ -1,4 +1,4 @@
-### Documentation and Instructions for Installer Version 2.0.1, Wabbajack 2.5.1.3+
+### Documentation and Instructions for Installer Version 2.0.2, Wabbajack 2.5.1.3+
 
 **NOTE**: As with all Wabbajack installers, a Nexus premium account is required in order to use the premium API for downloads. Additionally, since this is an unofficial attempt to automate the Bevilex guide, PLEASE only direct support queries to the unofficial bevilex modlist development channel in the [Wabbajack discord](https://discord.gg/WnyMdj). To view the channel, go to **#welcome** and follow the instructions, selecting Oblivion as a game choice.
 
@@ -169,6 +169,8 @@ If you would rather build on this profile yourself, included below are some gene
 11. Done! Run the game as usual by selecting and running Oblivion from the dropdown menu.
 
 ### Setting Core Affinity to improve performance (courtesy of Aerialvas)
+
+**NOTE: Depending on your CPU architecture, this may cause more performance problems than it solves.** If you wish to give it a try, it is worth measuring FPS and testing stability both before and after making these changes to determine if you will obtain a benefit.
 
 Oblivion is only designed to run on the first two cores of a PC, but by default, the operating system will attempt to use all cores. By manually setting Oblivion to use just the first two cores, you can achieve a significant performance boost in game.
 
