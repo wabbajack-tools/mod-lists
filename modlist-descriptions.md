@@ -19,7 +19,7 @@
   - [QWEST!](#qwest)
   - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr)
   - [Tinvaak](#tinvaak)
-  - [(NSFW)Licentia(NSFW)](#(NSFW)Licentia(NSFW))
+  - [(NSFW)Licentia(NSFW)](#NSFWLicentiaNSFW)
   - [(NSFW)Tsukiro(NSFW)](#nsfwtsukironsfw)
 - [Fallout 4](#fallout-4)
   - [Fallout 4: Enhanced Edition (F4EE)](#fallout-4-enhanced-edition-f4ee)
