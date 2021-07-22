@@ -19,6 +19,7 @@
   - [QWEST!](#qwest)
   - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr)
   - [Tinvaak](#tinvaak)
+  - [(NSFW)Licentia(NSFW)](#(NSFW)Licentia(NSFW))
   - [(NSFW)Tsukiro(NSFW)](#nsfwtsukironsfw)
 - [Fallout 4](#fallout-4)
   - [Fallout 4: Enhanced Edition (F4EE)](#fallout-4-enhanced-edition-f4ee)
@@ -218,6 +219,16 @@ For an overview of the various mods included, you can view the modlist [showcase
 - [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
 
 ***
+
+### [(NSFW)Licentia(NSFW)](https://www.wabbajack.org/#/modlists/info?machineURL=Licentia)
+
+A lightweight power fantasy list accessible to any level of gamer. Sexy without rubbing your nose in it. Imagine if Skyrim was prestige TV with excessive violence, boobs and sex scenes. Emphasizes questing and build diversity over collectibles and micromanagement.
+
+**_Mods to get familiar with_**
+
+- [Combat Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33767)
+- [Vokriinator - Choice Cuts](https://www.nexusmods.com/skyrimspecialedition/mods/26702)
+- [Bob's Interdimensional Chambers](https://www.nexusmods.com/skyrimspecialedition/search/)
 
 ### [(NSFW)Tsukiro(NSFW)](https://www.wabbajack.org/#/modlists/info?machineURL=tsukiro)
 
