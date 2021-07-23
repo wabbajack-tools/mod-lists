@@ -19,7 +19,7 @@ Your game will be much less recognizable and very tough, especially at early lev
 
 ### Step 0:
 
-Run Fallout 4 once from Steam. You can close the launcher when it detects your video settings. After this, create a new folder named 'F4EE' anywhere outside of Program Files. I HIGHLY recoomend installing on an SSD! Then, in Wabbajack, click the `...` next to `Installation Location` and select the F4EE folder you just made. Feel free to keep the `Download Location` anywhere you like, or leave it at the default.
+Run Fallout 4 once from Steam. You can close the launcher when it detects your video settings. After this, create a new folder named `F4EEInstall` (Or any other name, that's just what I will refer to it as) anywhere outside of Program Files. I HIGHLY recoomend installing on an SSD! Then, in Wabbajack, click the `...` next to `Installation Location` and select the `F4EEInstall` folder you just made. Feel free to keep the `Download Location` anywhere you like, or leave it at the default.
 
 ### Step 1:
 
@@ -65,7 +65,7 @@ Launch ModOrganizer from the exe found in your `F4EEInstall` folder.
 
 ### Step 6:
 
-Now, launch your game from `F4SE` in the top left of your MO2! After creating your character, you should configure the MCM menus found at the top of your pause menu. Follow these steps and you will be good!
+Now, launch your game from `F4SE` in the top left of your MO2! After creating your character, be sure to first set the difficulty to `Survival`, as this list is built entirely for that difficulty. Then, configure the MCM menus found at the top of your pause menu. Follow these steps and you will be good!
 
 * **HoloTime**:   
 For `Toggle HoloTime Display`, set it to the `?/` key. Then, click on `Widget Position`, and move the widget to the very top middle of your screen, with `Y` being close to 1, and `X` being close to half of your monitor's resolution width. Then, ensure that scale is `0.5`.
@@ -90,9 +90,12 @@ After setting these options, go to the door of the bathroom and click the only a
 **Now, play through the vault until you get outside.**
 * **Immersive HUD**:  
 Now, before you configure this menu, **MAKE SURE** that your HoloTime widget as well as your compass are visible. If they are, then great, you can start configuring! If not, ensure that you use that hotkey you set earlier to enable HoloTime.   
-After that, Set `Immersive HUD Enabled` to `ON`. Then, set `Settings Holotape` and `AID Toggle Items` to `OFF`. Set your `Hotkey to Toggle HUD` to `X`.   
+After that, Set `Immersive HUD Enabled` to `ON`. 
+Then, set `Settings Holotape` and `AID Toggle Items` to `OFF`. 
+Set your `Hotkey to Toggle HUD` to `X`.   
 Under `Crosshair`, set `Weapon` and `Hit Marker` to `Always`.   
-In `Health`, set `Health below (%)` to `0.5`. Under `AP`, set `AP below (%)` to `0.5`.   
+In `Health`, set `Health below (%)` to `0.5`. 
+Under `AP`, set `AP below (%)` to `0.5`.   
 Under `Other Settings`, set `Active Effects` to `Always`.
 * **Beantown Interiors**:  
 Now, open your PipBoy, go to `Misc`, and `Settings`, and open the `Beantown Interiors` Holotape. Go to `Customize Options -> Other Options` and `Enable Hardcore Clutter`. Then, go to `Mod Compatibility` and `Enable Insidejobs Compatibility`.
