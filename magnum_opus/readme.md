@@ -335,12 +335,6 @@ FallUI Workbench - Workbench List
 Faster Workshop Hotkey  
 ![alt text](https://i.imgur.com/kkgYNFT.png)  
 
-Pack Attack NPC Edition - General Settings  
-![alt text](https://i.imgur.com/z8wEN44.png)
-
-Pack Attack NPC Edition - Raiding Parties  
-![alt text](https://i.imgur.com/NbUnDjB.png)
-
 QuickTrade  
 ![alt text](https://i.imgur.com/KeyaCf5.png)
 
