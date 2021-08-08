@@ -1,0 +1,27 @@
+name: Validation
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Setup .NET Core SDK 6.0.x
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: '6.0.x'
+        include-prerelease: true
+        
+    - name: Restore dependencies
+      run: dotnet restore Validation/Validation.sln
+    - name: Build
+      run: dotnet build Validation/Validation.sln --no-restore 
+    - name: Test
+      run: dotnet test Validation/Validation.sln --no-build --verbosity normal
