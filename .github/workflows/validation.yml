@@ -20,8 +20,8 @@ jobs:
         include-prerelease: true
         
     - name: Restore dependencies
-      run: dotnet restore
+      run: dotnet restore Validation/Validation.sln
     - name: Build
-      run: dotnet build --no-restore
+      run: dotnet build Validation/Validation.sln --no-restore 
     - name: Test
-      run: dotnet test --no-build --verbosity normal
+      run: dotnet test Validation/Validation.sln --no-build --verbosity normal
