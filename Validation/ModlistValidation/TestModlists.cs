@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text.RegularExpressions;
 using Microsoft.Extensions.DependencyInjection;
 using Wabbajack.DTOs;
 using Wabbajack.DTOs.JsonConverters;
@@ -67,7 +68,24 @@ namespace ModlistValidation
                 ValidateGitHubUri(readmeUri, modlist.Title);
                 ValidateGitHubUri(imageUri, modlist.Title);
                 ValidateGitHubReadme(readmeUri, modlist.Title);
+                ValidateMachineUrl(modlist.Links.MachineURL, modlist.Title);
             }
+        }
+
+        private static readonly Regex MachineUrlRegex = new("^[\x30-\x39\x41-\x5A\x61-\x7A\x5F\x2D]+$",
+            RegexOptions.Compiled, TimeSpan.FromSeconds(1));
+        private static void ValidateMachineUrl(string machineUrl, string name)
+        {
+            // no whitespaces
+            Assert.False(machineUrl.Contains(' ', StringComparison.OrdinalIgnoreCase),
+                $"MachineUrl must not contain any whitespace, use underscores instead: \"{machineUrl}\" (\"{name}\")");
+
+            // only 0-9, A-Z, a-z, _ and -
+            // see https://regex101.com/r/cVYtyA/2
+
+            Assert.True(MachineUrlRegex.IsMatch(machineUrl),
+                "MachineUrl is not valid! Allowed Characters are: 0-9, A-Z, a-z, _ and - use https://regex101.com/r/cVYtyA/2" +
+                $"to test: \"{machineUrl}\" (\"{name}\")");
         }
 
         private static void ValidateGitHubUri(Uri uri, string name)
