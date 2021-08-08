@@ -66,6 +66,7 @@ namespace ModlistValidation
 
                 ValidateGitHubUri(readmeUri, modlist.Title);
                 ValidateGitHubUri(imageUri, modlist.Title);
+                ValidateGitHubReadme(readmeUri, modlist.Title);
             }
         }
 
@@ -76,6 +77,13 @@ namespace ModlistValidation
             {
                 Assert.False(true, $"Uri \"{uri}\" is not valid. You need to provide the direct link to the image/readme. (\"{name}\")");
             }
+        }
+
+        private static void ValidateGitHubReadme(Uri uri, string name)
+        {
+            if (!uri.Host.Equals("raw.githubusercontent.com", StringComparison.OrdinalIgnoreCase)) return;
+
+            Assert.EndsWith(".md", uri.AbsolutePath, StringComparison.OrdinalIgnoreCase);
         }
     }
 }
