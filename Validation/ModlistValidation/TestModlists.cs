@@ -69,6 +69,12 @@ namespace ModlistValidation
                 ValidateGitHubUri(imageUri, modlist.Title);
                 ValidateGitHubReadme(readmeUri, modlist.Title);
                 ValidateMachineUrl(modlist.Links.MachineURL, modlist.Title);
+
+                var sameName = modlists.Count(x => x.Title.Equals(modlist.Title, StringComparison.OrdinalIgnoreCase));
+                Assert.True(sameName == 1, $"Modlist does not have a unique name! (\"{modlist.Title}\")");
+
+                var sameMachineUrl = modlists.Count(x => x.Links.MachineURL.Equals(modlist.Links.MachineURL, StringComparison.OrdinalIgnoreCase));
+                Assert.True(sameMachineUrl == 1, $"Modlist does not have a unique machineUrl ({modlist.Links.MachineURL})! (\"{modlist.Title}\")");
             }
         }
 
