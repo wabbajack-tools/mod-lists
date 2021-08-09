@@ -1,6 +1,74 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Serenity 2",
+    "description": "Serenity 2 is a Skyrim SE modlist found on Wabbajack that aims to bring a fresh Requiem Experience to the table. It uses Requiem 4.0.2 converted to Skyrim Special Edition and has minor and some major tweaks to the core Requiem experience that aims to enhance longevity and replayability while keeping the game fair, balanced and looking great. Serenity is targetted at new and veteran Requiem players and can offer new experiences to both sides of the playerbase.",
+    "author": "Xanza, Esvs",
+    "maintainers": [
+      "esvs"
+    ],
+    "game": "skyrimspecialedition",
+    "official": true,
+    "tags": [
+      "Official"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://github.com/azraerl/serenity/blob/master/cover/Cover.png",
+      "readme": "https://github.com/azraerl/serenity/blob/master/README.md",
+      "download": "https://mega.nz/file/6UNngYoT#i3YflBLeC3YDNDdOWJfL9aVvu8L7cpTYeFmuXZRhRyM",
+      "machineURL": "serenity"
+    },
+    "download_metadata": {
+      "Hash": "LDHULSIQoPk=",
+      "Size": 438397889,
+      "NumberOfArchives": 965,
+      "SizeOfArchives": 73282581678,
+      "NumberOfInstalledFiles": 106333,
+      "SizeOfInstalledFiles": 104208900025
+    }
+    "version": "1.5.2"
+  },
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Dishonored Plus",
+    "description": "This is a list that just brings some little quality of life features into Dishonored, the mid mission stats page and detection and kill notices, that are by default available in Dishonored 2, the startup movie skip, the despawning bodies fix, a non lethal drop takedown(just jump on their heads from high enough) and upscaled loading screens. This is why I called this list Dishonored Plus there simply isn't much besides these quality of life changes you can do to improve this amazing game, making this just a Dishonored + Quality of Life experience.",
+    "author": "Luca|EzioThedeadPoet",
+    "maintainers": [
+      "luca"
+    ],
+    "game": "dishonored",
+    "official": true,
+    "tags": [
+      "Official"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/EzioTheDeadPoet/Dishonored-Plus/master/assets/images/Dishonored_Plus.webp",
+      "readme": "https://raw.githubusercontent.com/EzioTheDeadPoet/Dishonored-Plus/master/WJPlaceholder.MD",
+      "download": "https://authored-files.wabbajack.org/Dishonored%20Plus.wabbajack_68d8c29b-ffb9-49b1-acdc-22741ae5c207",
+      "machineURL": "dishonoredplus"
+    },
+    "download_metadata": {
+      "Hash": "qovRQKn45Gs=",
+      "Size": 3798139,
+      "NumberOfArchives": 3,
+      "SizeOfArchives": 3769727081,
+      "NumberOfInstalledFiles": 36,
+      "SizeOfInstalledFiles": 3727011086
+    },
+    "version": "1.0"
+  },
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Enderal - My Way",
     "description": "EMW is a balanced but hardcore take on the Enderal experience with upgraded environments, improved/replaced equippable appearances and better looking NPCs.",
     "author": "jdsmith2816",
@@ -20,17 +88,17 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/jdsmith2816/emw/master/extra/emw.png",
       "readme": "https://raw.githubusercontent.com/jdsmith2816/emw/master/README.md",
-      "download": "https://authored-files.wabbajack.org/EMW%20v2.4.0.wabbajack_01450e90-1f36-4439-aa53-757e8ff68f3f",
+      "download": "https://authored-files.wabbajack.org/Enderal - My Way.wabbajack_381fdad2-3bd7-47d8-98fc-63cecc129b33",
       "machineURL": "emw"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "WlR/SDvenkE=",
-      "Size": 819088634,
-      "NumberOfArchives": 530,
-      "SizeOfArchives": 69907099828,
-      "NumberOfInstalledFiles": 74011,
-      "SizeOfInstalledFiles": 72217625399
+      "Hash": "MoIuHccwK+Q=",
+      "Size": 819470285,
+      "NumberOfArchives": 531,
+      "SizeOfArchives": 69907781944,
+      "NumberOfInstalledFiles": 74128,
+      "SizeOfInstalledFiles": 72218827610
     },
     "version": "2.4"
   },
@@ -39,9 +107,7 @@
     "title": "You Are Just A N'wah",
     "description": "YAJAN adds survival and roleplaying elements into Morrowind, as well as overhauling cities, landscapes, and graphics.",
     "author": "RingComics",
-    "maintainers": [
-      ""
-    ],
+    "maintainers": [],
     "game": "morrowind",
     "official": false,
     "tags": [
@@ -54,7 +120,7 @@
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/RingComics/yajan/main/Morrowind_2021-02-12_06.20.46.765.png",
-      "readme": "https://raw.githubusercontent.com/RingComics/yajan/blob/main/README.md",
+      "readme": "https://raw.githubusercontent.com/RingComics/yajan/main/README.md",
       "download": "https://github.com/RingComics/yajan/releases/download/v5.1.0-beta/You.Are.Just.An.N.wah.wabbajack",
       "machineURL": "yajan"
     },
@@ -195,19 +261,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/Keizaal/splash_image.png",
       "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/Keizaal/readme.md",
-      "download": "https://authored-files.wabbajack.org/Keizaal.wabbajack_69c5288b-3fec-43c3-8f89-73ca044185be",
+      "download": "https://authored-files.wabbajack.org/Keizaal.wabbajack_afad7d8e-275a-4063-94de-cc2e006c5d32",
       "machineURL": "keizaal"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "ez3W6Jk55PU=",
-      "Size": 138503055,
+      "Hash": "JfICGJf0B2Q=",
+      "Size": 138502494,
       "NumberOfArchives": 845,
-      "SizeOfArchives": 83354382963,
-      "NumberOfInstalledFiles": 58150,
-      "SizeOfInstalledFiles": 91605946103
+      "SizeOfArchives": 83354383575,
+      "NumberOfInstalledFiles": 58187,
+      "SizeOfInstalledFiles": 91605952549
     },
-    "version": "4.6.2.1"
+    "version": "4.6.2.2"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
@@ -367,26 +433,29 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Patchier/Big-Warden/main/Warden's%20Creed.png",
       "readme": "https://raw.githubusercontent.com/Patchier/Big-Warden/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Big Warden.wabbajack_db0285aa-e011-41fb-a908-624c914d8415",
+      "download": "https://authored-files.wabbajack.org/Big Warden.wabbajack_8836a405-d0b0-480f-a23c-8fb77382f3de",
       "machineURL": "big_warden"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "ojcYtKmb5aA=",
-      "Size": 824570940,
-      "NumberOfArchives": 118,
-      "SizeOfArchives": 16632500805,
-      "NumberOfInstalledFiles": 10379,
-      "SizeOfInstalledFiles": 16039258902
+      "Hash": "Su35n6JwZWw=",
+      "Size": 824606743,
+      "NumberOfArchives": 135,
+      "SizeOfArchives": 16680826306,
+      "NumberOfInstalledFiles": 10601,
+      "SizeOfInstalledFiles": 16084020235
     },
-    "version": "2.5.2"
+    "version": "2.5.4"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Relics of Hyrule - GAT Edition",
     "description": "The goal of this modlist is to be something fun and different rather than your 100th enai-survival-rim playthrough. This modlist primarily revolves around Relics of Hyrule and Grand Admiral Thrawn with new monsters coming from a heavily modified version of Rogue-Like Encounters.",
     "author": "jdsmith2816, maintained by Fantastigasmical Alice",
-    "maintainers": [],
+    "maintainers": [
+      "jdsmith",
+      "fantastigasmical_alice"
+    ],
     "game": "skyrimspecialedition",
     "official": false,
     "tags": [
@@ -727,12 +796,16 @@
     "title": "Narsil",
     "description": "Narsil is an ambitious curated modlist that seeks to overhaul and expand Skyrim VR to make it more balanced, challenging, varied, good looking and most importantly expand the available gameplay options and make the game more immersive while optimizing the performance as much as possible.",
     "author": "Crithion",
-    "maintainers": [],
+    "maintainers": [
+      "crithion"
+    ],
     "game": "skyrimvr",
     "official": false,
     "tags": [
       "Official",
-      "VR"
+      "VR",
+      "Performance",
+      "Ordinator"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -742,19 +815,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://i.imgur.com/EM9jvxo.png",
       "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/narsil/readme.md",
-      "download": "https://authored-files.wabbajack.org/Narsil.wabbajack_4004c48b-7d7e-452f-b1ce-f85976c715c6",
+      "download": "https://authored-files.wabbajack.org/Narsil.wabbajack_5e5e1eee-d66b-4eda-a54d-2491355c2cf9",
       "machineURL": "narsil"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "kmhy7yzqwmM=",
-      "Size": 1976267122,
-      "NumberOfArchives": 933,
-      "SizeOfArchives": 82562644956,
-      "NumberOfInstalledFiles": 207819,
-      "SizeOfInstalledFiles": 126379413854
+      "Hash": "dWmTHAeihcs=",
+      "Size": 2156368408,
+      "NumberOfArchives": 927,
+      "SizeOfArchives": 82293162009,
+      "NumberOfInstalledFiles": 207554,
+      "SizeOfInstalledFiles": 126210426988
     },
-    "version": "1.5.2.3"
+    "version": "1.5.2.4"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
@@ -948,19 +1021,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/TitansBane/Elysium/master/image/Elysium_Banner.png",
       "readme": "https://raw.githubusercontent.com/TitansBane/Elysium/master/README.md",
-      "download": "https://authored-files.wabbajack.org/Elysium.wabbajack_12b45223-12b0-4988-8408-ef005dc53fad",
+      "download": "https://authored-files.wabbajack.org/Elysium.wabbajack_126e2a0d-2b85-4a96-81b8-87067bf3b94d",
       "machineURL": "elysium"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "1oYU57lgg5c=",
-      "Size": 1394299752,
-      "NumberOfArchives": 1349,
-      "SizeOfArchives": 128907671235,
-      "NumberOfInstalledFiles": 227149,
-      "SizeOfInstalledFiles": 187181394852
+      "Hash": "9P6yM6TSDxM=",
+      "Size": 1399244571,
+      "NumberOfArchives": 1373,
+      "SizeOfArchives": 129399812066,
+      "NumberOfInstalledFiles": 230033,
+      "SizeOfInstalledFiles": 187341993471
     },
-    "version": "4.9.8"
+    "version": "5.0.1"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
@@ -987,7 +1060,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/SovnSkyrim/QWEST/main/QWEST2.png",
+      "image": "https://raw.githubusercontent.com/SovnSkyrim/QWEST/main/QWEST.webp",
       "readme": "https://raw.githubusercontent.com/SovnSkyrim/QWEST/main/README.md",
       "download": "https://authored-files.wabbajack.org/QWEST%203.7.0.wabbajack_9192b226-e3e5-4660-a70a-71c9d521eca2",
       "machineURL": "qwest"
@@ -1022,21 +1095,21 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/cacophony-wj/LeS/raw/master/Licentia.png",
+      "image": "https://raw.githubusercontent.com/cacophony-wj/LeS/master/Licentia.png",
       "readme": "https://raw.githubusercontent.com/cacophony-wj/LeS/master/README.md",
-      "download": "https://authored-files.wabbajack.org/Licentia.wabbajack_f5555010-3eba-4c57-ae8e-e52a59fffebd",
+      "download": "https://authored-files.wabbajack.org/Licentia.wabbajack_875e857d-d8dd-4caf-b6f7-13296587f591",
       "machineURL": "Licentia"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "zVx7lX/H6O0=",
-      "Size": 79811778,
-      "NumberOfArchives": 645,
-      "SizeOfArchives": 92367797218,
-      "NumberOfInstalledFiles": 169360,
-      "SizeOfInstalledFiles": 137633309659
+      "Hash": "KaNIcez1odU=",
+      "Size": 125106688,
+      "NumberOfArchives": 650,
+      "SizeOfArchives": 90586432099,
+      "NumberOfInstalledFiles": 164269,
+      "SizeOfInstalledFiles": 139417960710
     },
-    "version": "9.16.7"
+    "version": "9.20.1"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
@@ -1060,19 +1133,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Althro/Tinvaak/gh-pages/NewBanner.jpg",
       "readme": "https://raw.githubusercontent.com/Althro/Tinvaak/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Tinvaak.wabbajack_366676d5-7963-4cd7-87ae-3c7ecab2c712",
+      "download": "https://authored-files.wabbajack.org/Tinvaak.wabbajack_19f08e8c-ace8-4cb5-9ba4-dc56d10bb10d",
       "machineURL": "Tinvaak"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "TrLco25Kv98=",
-      "Size": 478198072,
-      "NumberOfArchives": 767,
-      "SizeOfArchives": 70472885308,
-      "NumberOfInstalledFiles": 84664,
-      "SizeOfInstalledFiles": 78941516328
+      "Hash": "f5Us3J8fLn4=",
+      "Size": 491375335,
+      "NumberOfArchives": 771,
+      "SizeOfArchives": 70673185772,
+      "NumberOfInstalledFiles": 84869,
+      "SizeOfInstalledFiles": 78878149558
     },
-    "version": "1.5.1"
+    "version": "1.6"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
@@ -1093,19 +1166,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/zhongjiedong/Tsukiro/main/Titlepage2.png",
       "readme": "https://raw.githubusercontent.com/zhongjiedong/Tsukiro/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Tsukiro.wabbajack_5a92d5e7-877e-4052-a11a-3147bdf763c6",
+      "download": "https://authored-files.wabbajack.org/Tsukiro.wabbajack_90b90acb-4d29-46e8-b98b-ca80ad384996",
       "machineURL": "tsukiro"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "ZlJ0RnS32fc=",
-      "Size": 1160952109,
-      "NumberOfArchives": 709,
-      "SizeOfArchives": 107916617121,
-      "NumberOfInstalledFiles": 174428,
-      "SizeOfInstalledFiles": 171508557781
+      "Hash": "wHwsQ8+z8b0=",
+      "Size": 1161063005,
+      "NumberOfArchives": 710,
+      "SizeOfArchives": 107838349268,
+      "NumberOfInstalledFiles": 174271,
+      "SizeOfInstalledFiles": 171233489363
     },
-    "version": "0.82"
+    "version": "0.90"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
@@ -1211,40 +1284,5 @@
       "SizeOfInstalledFiles": 9882201314
     },
     "version": "1.2.5"
-  },
-  {
-    "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Serenity 2",
-    "description": "Serenity 2 is a Skyrim SE modlist found on Wabbajack that aims to bring a fresh Requiem Experience to the table. It uses Requiem 4.0.2 converted to Skyrim Special Edition and has minor and some major tweaks to the core Requiem experience that aims to enhance longevity and replayability while keeping the game fair, balanced and looking great. Serenity is targetted at new and veteran Requiem players and can offer new experiences to both sides of the playerbase.",
-    "author": "Xanza, Esvs",
-    "maintainers": [
-      "esvs"
-    ],
-    "game": "SkyrimSpecialEdition",
-    "official": true,
-    "tags": [
-      "Official"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "force_down": false,
-    "links": {
-      "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/azraerl/serenity/blob/master/cover/Cover.png",
-      "readme": "https://github.com/azraerl/serenity/blob/master/README.md",
-      "download": "",
-      "machineURL": "serenity"
-    },
-    "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "LDHULSIQoPk=",
-      "Size": 438397889,
-      "NumberOfArchives": 965,
-      "SizeOfArchives": 73282581678,
-      "NumberOfInstalledFiles": 106333,
-      "SizeOfInstalledFiles": 104208900025
-    },
-    "version": "1.5.2"
-  },
+  }
 ]
