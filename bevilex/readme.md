@@ -96,6 +96,8 @@ This optional configuration disables Natural and Atmospheric Oblivion, in favour
 All Natural is an older weather mod with weather effects that are now dated (in my opinion) in comparison to Natural and Atmospheric Oblivion. However, All Natural provides several innovative features which cannot be found in NAO - notably Real Lights, which ensures light is actually centred on light sources, and support for Immersive Interiors, which allows the player to see the outside world from within interiors. The latter effect really draws you into the game world and makes each interior feel properly situated
 within its exterior environment.
 
+![](https://i.imgur.com/0hZMm9s.jpg)
+
 #### _User Interface: DarNified UI_
 
 This optional configuration disables NorthernUI in favour of DarNified UI.
