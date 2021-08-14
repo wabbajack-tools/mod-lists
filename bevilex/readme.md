@@ -85,7 +85,7 @@ Only applicable if you use a monitor with resolution greater than 1920x1080.
 
 ### Bevilex Extended : Optionals
 
-This list includes several optional configurations pre-installed, which can be swapped in and out as desired. Each configuration is denoted by an MO2 mod separator, which includes step-by-step instructions on how to enable the optional mods. To view, simply right click the seperator and then select the Notes tab. You will be presented with instructions like below:
+This list includes several optional configurations pre-installed, which can be swapped in and out as desired. Each configuration is denoted by an MO2 mod separator, which includes step-by-step instructions on how to enable the optional mods. To view, simply right click the seperator select Information, then select the Notes tab. You will be presented with instructions like below:
 
 ![](https://i.imgur.com/cScNH0o.png)
 
@@ -96,7 +96,7 @@ This optional configuration disables Natural and Atmospheric Oblivion, in favour
 All Natural is an older weather mod with weather effects that are now dated (in my opinion) in comparison to Natural and Atmospheric Oblivion. However, All Natural provides several innovative features which cannot be found in NAO - notably Real Lights, which ensures light is actually centred on light sources, and support for Immersive Interiors, which allows the player to see the outside world from within interiors. The latter effect really draws you into the game world and makes each interior feel properly situated
 within its exterior environment.
 
-Please note that there is a minor issue with fog which causes exterior objects to have a white glow. This is being investigated.
+Please note that there are minor issues with foggy weather and nights being brighter than desired. This is an experimental configuration and is being actively improved.
 
 ![](https://i.imgur.com/0hZMm9s.jpg)
 
@@ -106,7 +106,7 @@ This optional configuration disables NorthernUI in favour of DarNified UI.
 
 DarNified UI is a more traditional take on a UI overhaul for Oblivion. All manner of menus have been improved, including the journal, inventory, map, wait/sleep screens, level up screens and more. Unlike NorthernUI though, these changes preserve the vanilla style - perfect for players who want a lighter brush stroke to improve the user interface. 
 
-Also included in this configuration is a compatible loading screens replacer. Instructions are also available to switch to vanilla loading screens as desired.
+Also included in this configuration is a compatible loading screens replacer, but instructions are available to switch to vanilla loading screens for those that prefer them.
 
 ![](https://i.imgur.com/Q1PjkZC.png)
 
