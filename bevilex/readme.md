@@ -61,6 +61,28 @@ Only applicable if you use a monitor with resolution greater than 1920x1080.
 * Download the **Ultra Widescreen Fix for Bevilex** from [here](https://drive.google.com/open?id=1dnWbrmT_zcIESIqmLWMVSzHaEdQgkCs8) and install through MO2, placing it in the **Install Specific Tweaks** section.
 * Download the **Black Rectangle Ultrawide Fix** from [here](https://www.nexusmods.com/oblivion/mods/48351), and install through MO2, placing it in the **Install Specific Tweaks** section.
 
+### Creating a Wrye Bash Bashed Patch
+
+1. Select **Wrye Bash** from the in MO2 and hit **Run**. If prompted for a game choice, select **Oblivion**.
+2. Within the Wrye Bash interface, right click the plugin right at the bottom (**Bashed Patch 0.esp**) and click **Rebuild Patch**.
+3. In the following interface, make sure that the following options are enabled for the best experience (courtesy of Mexxy):
+    * **Tweak Assorted -> DarNify Books** ticked so books look as intended
+    * **Tweak Settings -> Arrow Speed is x2.0** for more responsive archery (right click box to change)
+    * **Tweak Actors -> Irresponsible Creatures** ticked
+    * **Tweak Settings -> Crime: Alarm Distance at 2000** to reduce guard crime intuition range (right click to change)
+    * **Tweak Settings -> Greeting Distance at 100** for less NPC chatter (right click to change)
+    * **Tweak Settings -> Warning: Exterior Distance to Hostiles at 2000** for reduced combat distance outdoors (right click to change)
+4. Hit **Build Patch**. This will take a few minutes, and produce a popup log when complete. Close Wrye Bash.
+5. Back in MO2, right click the **Overwrite** panel at the bottom of the mods pane and select **Create mod**. Call it **Bashed Patch**, place it in the **Install Specific Tweaks** section, and ensure it is enabled after installation.
+
+### Running the Game
+
+1. To play the game, select **Oblivion** in the MO2 **executable** **dropdown** and hit **Run.** If you encounter an application error and use Steam, make sure Steam is running in the background and try again.
+3. After playing and closing the game, create a new empty mod called OBSE Logs (Use the '...' button at the top of the left MO2 pane, then select 'Create empty mod'. Next, click on the **Overwrite** panel at the bottom of the mods pane and drag and drop the OBSE log files into the empty OBSE Logs mod. This ensures any logs generated on successive plays will be stored here and will not produce a warning.
+4. You're ready to go! Check the optional steps below if you would like to further enhance your experience.
+
+## Optional Post Installation Instructions
+
 ### Bevilex Extended : Optionals
 
 This list includes several optional configurations pre-installed, which can be swapped in and out as desired. Each configuration is denoted by an MO2 mod separator, which includes step-by-step instructions on how to enable the optional mods.
@@ -85,28 +107,6 @@ Also included in this configuration is a compatible loading screens replacer. In
 This optional configuration overhauls sound and music in Oblivion with new sound effects and music tracks. Additionally, silent music tracks have been added to provide randomised pauses between music tracks so that the player is not oversaturarated during gameplay.
 
 This won't be to everyone's tastes (particularly the pauses), but I encourage you to give it a try as you may just prefer it!
-
-### Creating a Wrye Bash Bashed Patch
-
-1. Select **Wrye Bash** from the in MO2 and hit **Run**. If prompted for a game choice, select **Oblivion**.
-2. Within the Wrye Bash interface, right click the plugin right at the bottom (**Bashed Patch 0.esp**) and click **Rebuild Patch**.
-3. In the following interface, make sure that the following options are enabled for the best experience (courtesy of Mexxy):
-    * **Tweak Assorted -> DarNify Books** ticked so books look as intended
-    * **Tweak Settings -> Arrow Speed is x2.0** for more responsive archery (right click box to change)
-    * **Tweak Actors -> Irresponsible Creatures** ticked
-    * **Tweak Settings -> Crime: Alarm Distance at 2000** to reduce guard crime intuition range (right click to change)
-    * **Tweak Settings -> Greeting Distance at 100** for less NPC chatter (right click to change)
-    * **Tweak Settings -> Warning: Exterior Distance to Hostiles at 2000** for reduced combat distance outdoors (right click to change)
-4. Hit **Build Patch**. This will take a few minutes, and produce a popup log when complete. Close Wrye Bash.
-5. Back in MO2, right click the **Overwrite** panel at the bottom of the mods pane and select **Create mod**. Call it **Bashed Patch**, place it in the **Install Specific Tweaks** section, and ensure it is enabled after installation.
-
-### Running the Game
-
-1. To play the game, select **Oblivion** in the MO2 **executable** **dropdown** and hit **Run.** If you encounter an application error and use Steam, make sure Steam is running in the background and try again.
-3. After playing and closing the game, create a new empty mod called OBSE Logs (Use the '...' button at the top of the left MO2 pane, then select 'Create empty mod'. Next, click on the **Overwrite** panel at the bottom of the mods pane and drag and drop the OBSE log files into the empty OBSE Logs mod. This ensures any logs generated on successive plays will be stored here and will not produce a warning.
-4. You're ready to go! Check the optional steps below if you would like to further enhance your experience.
-
-## Optional Post Installation Instructions
 
 ### Installing Missing Mods
 
