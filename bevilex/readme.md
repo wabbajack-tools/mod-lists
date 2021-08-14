@@ -85,7 +85,9 @@ Only applicable if you use a monitor with resolution greater than 1920x1080.
 
 ### Bevilex Extended : Optionals
 
-This list includes several optional configurations pre-installed, which can be swapped in and out as desired. Each configuration is denoted by an MO2 mod separator, which includes step-by-step instructions on how to enable the optional mods.
+This list includes several optional configurations pre-installed, which can be swapped in and out as desired. Each configuration is denoted by an MO2 mod separator, which includes step-by-step instructions on how to enable the optional mods. To view, simply right click the seperator and then select the Notes tab. You will be presented with instructions like below:
+
+![](https://i.imgur.com/cScNH0o.png)
 
 #### _Weather and Interiors: All Natural and Immersive Interiors_
 
