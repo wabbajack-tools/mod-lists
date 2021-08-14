@@ -108,6 +108,8 @@ DarNified UI is a more traditional take on a UI overhaul for Oblivion. All manne
 
 Also included in this configuration is a compatible loading screens replacer. Instructions are also available to switch to vanilla loading screens as desired.
 
+![](https://i.imgur.com/Q1PjkZC.png)
+
 #### _Music: GOSH, Oblivion Symphonic Variations Suite, Silent Tracks Expanded_
 
 This optional configuration overhauls sound and music in Oblivion with new sound effects and music tracks. Additionally, silent music tracks have been added to provide randomised pauses between music tracks so that the player is not oversaturarated during gameplay.
