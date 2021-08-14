@@ -65,14 +65,14 @@ Only applicable if you use a monitor with resolution greater than 1920x1080.
 
 This list includes several optional configurations pre-installed, which can be swapped in and out as desired. Each configuration is denoted by an MO2 mod separator, which includes step-by-step instructions on how to enable the optional mods.
 
-#### Weather and Interiors: All Natural and Immersive Interiors
+#### _Weather and Interiors: All Natural and Immersive Interiors_
 
 This optional configuration disables Natural and Atmospheric Oblivion, in favour of All Natural and Immersive Interiors.
 
 All Natural is an older weather mod with weather effects that are now dated (in my opinion) in comparison to Natural and Atmospheric Oblivion. However, All Natural provides several innovative features which cannot be found in NAO - notably Real Lights, which ensures light is actually centred on light sources, and support for Immersive Interiors, which allows the player to see the outside world from within interiors. The latter effect really draws you into the game world and makes each interior feel properly situated
 within its exterior environment.
 
-#### User Interface: DarNified UI
+#### _User Interface: DarNified UI_
 
 This optional configuration disables NorthernUI in favour of DarNified UI.
 
@@ -80,7 +80,7 @@ DarNified UI is a more traditional take on a UI overhaul for Oblivion. All manne
 
 Also included in this configuration is a compatible loading screens replacer. Instructions are also available to switch to vanilla loading screens as desired.
 
-#### Music: GOSH, Oblivion Symphonic Variations Suite, Silent Tracks Expanded
+#### _Music: GOSH, Oblivion Symphonic Variations Suite, Silent Tracks Expanded_
 
 This optional configuration overhauls sound and music in Oblivion with new sound effects and music tracks. Additionally, silent music tracks have been added to provide randomised pauses between music tracks so that the player is not oversaturarated during gameplay.
 
