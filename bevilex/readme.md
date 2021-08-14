@@ -1,4 +1,4 @@
-### Documentation and Instructions for Installer Version 2.1.0, Wabbajack 2.5.1.3+
+### Documentation and Instructions for Installer Version 2.2.0, Wabbajack 2.5.2.2+
 
 **NOTE**: As with all Wabbajack installers, a Nexus premium account is required in order to use the premium API for downloads. Additionally, since this is an unofficial attempt to automate the Bevilex guide, PLEASE only direct support queries to the unofficial bevilex modlist development channel in the [Wabbajack discord](https://discord.gg/WnyMdj). To view the channel, go to **#welcome** and follow the instructions, selecting Oblivion as a game choice.
 
@@ -41,9 +41,9 @@ Only applicable if you have a Steam or retail copy of Oblivion. GOG users can sk
 * Within the Bevilex MO2 folder, go to **tools/Oblivion RAM Optimization** and run **4gb patch.exe**.
 * Target both the **Oblivion.exe** and **OblivionLauncher.exe** executables in your root Oblivion directory. Both executables will now have been patched to improve the memory that can be allocated to their processes.
 
-##### _GOG and Retail Users_
+##### _Standard GOTY Users_
 
-Only applicable if you purchased the standard GOTY version of Oblivion on GOG or at retail. Steam users can skip this step. (if this is the case, you have the Knights of the Nine and Shivering Isles expansions, but not the house plugins or Horse Armor).
+Only applicable if you purchased the standard GOTY version of Oblivion. (if this is the case, you have the Knights of the Nine and Shivering Isles expansions, but not the house plugins or Horse Armor).
 
 * Disable the following mods in the left pane:
 1. **Unofficial Oblivion DLC Patches**
@@ -61,13 +61,30 @@ Only applicable if you use a monitor with resolution greater than 1920x1080.
 * Download the **Ultra Widescreen Fix for Bevilex** from [here](https://drive.google.com/open?id=1dnWbrmT_zcIESIqmLWMVSzHaEdQgkCs8) and install through MO2, placing it in the **Install Specific Tweaks** section.
 * Download the **Black Rectangle Ultrawide Fix** from [here](https://www.nexusmods.com/oblivion/mods/48351), and install through MO2, placing it in the **Install Specific Tweaks** section.
 
-### Choosing a Profile
+### Bevilex Extended : Optionals
 
-Select either the **Bevilex** or **Bevilex Extended** profile to play with, using the profile dropdown in MO2. 
+This list includes several optional configurations pre-installed, which can be swapped in and out as desired. Each configuration is denoted by an MO2 mod separator, which includes step-by-step instructions on how to enable the optional mods.
 
-The first profile is closely aligned with the Bevilex guide and is the option to choose if you want your experience to be consistent with Bevilex's choices. The second profile has seen further enhancements by myself and other members of the community, offering improved visuals and additional tools. 
+#### Weather and Interiors: All Natural and Immersive Interiors
 
-You can change profiles at any time.
+This optional configuration disables Natural and Atmospheric Oblivion, in favour of All Natural and Immersive Interiors.
+
+All Natural is an older weather mod with weather effects that are now dated (in my opinion) in comparison to Natural and Atmospheric Oblivion. However, All Natural provides several innovative features which cannot be found in NAO - notably Real Lights, which ensures light is actually centred on light sources, and support for Immersive Interiors, which allows the player to see the outside world from within interiors. The latter effect really draws you into the game world and makes each interior feel properly situated
+within its exterior environment.
+
+#### User Interface: DarNified UI
+
+This optional configuration disables NorthernUI in favour of DarNified UI.
+
+DarNified UI is a more traditional take on a UI overhaul for Oblivion. All manner of menus have been improved, including the journal, inventory, map, wait/sleep screens, level up screens and more. Unlike NorthernUI though, these changes preserve the vanilla style - perfect for players who want a lighter brush stroke to improve the user interface. 
+
+Also included in this configuration is a compatible loading screens replacer. Instructions are also available to switch to vanilla loading screens as desired.
+
+#### Music: GOSH, Oblivion Symphonic Variations Suite, Silent Tracks Expanded
+
+This optional configuration overhauls sound and music in Oblivion with new sound effects and music tracks. Additionally, silent music tracks have been added to provide randomised pauses between music tracks so that the player is not oversaturarated during gameplay.
+
+This won't be to everyone's tastes (particularly the pauses), but I encourage you to give it a try as you may just prefer it!
 
 ### Creating a Wrye Bash Bashed Patch
 
@@ -142,11 +159,7 @@ Note that this section is optional - the textures covered are great additions bu
 
 The Bevilex guide only overhauls visuals and stability, leaving the gameplay systems (questing, levelling, level scaling, combat) in a vanilla state. Given this, you may want to consider adding additional mods to enhance Oblivion's gameplay.
 
-A new gameplay profile will be added to this modlist soon, aimed at users who want to improve the existing mechanics and systems to bring them up to standard but do not want to significantly alter the game, with an emphasis on maintaining stability and a gameplay experience similar to vanilla. 
-
-For a more feature-filled gameplay experience with major changes, new quests and expansion-like content, you may want to take a look at Wojo's Wabbajack modlist: WOOL.
-
-If you would rather build on this profile yourself, included below are some general steps for installing additional mods on top of the Bevilex install. For inspiration, the Bevilex guide has a number of gameplay enhancing suggestions that you can incorporate on top of the guide which have been tried and tested - see the bottom of [this page](https://www.nexusmods.com/oblivion/mods/47591) for more details.
+Included below are some general steps for installing additional mods on top of the Bevilex install. For inspiration, the Bevilex guide has a number of gameplay enhancing suggestions that you can incorporate on top of the guide which have been tried and tested - see the bottom of [this page](https://www.nexusmods.com/oblivion/mods/47591) for more details.
 
 #### General Steps
 
