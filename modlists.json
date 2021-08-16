@@ -1,6 +1,77 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Librum SE",
+    "description": "A gritty, low-magic, hardcore survival-adventure experience with an uncompromising vision. Hundreds of new quests and locations, a total mechanics overhaul, and a complete makeover of the graphics and atmosphere. The path to your destiny as the Dragonborn will be long and treacherous. Welcome to Librum.",
+    "author": "The Librum Team",
+    "maintainers": [
+      "apoapse"
+    ],
+    "game": "skyrimspecialedition",
+    "official": true,
+    "tags": [
+      "Official"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/WJ-Banner-Book-SE.png",
+      "readme": "https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/README.md",
+      "download": "https://github.com/apoapse1/Librum-for-Skyrim-VR/releases/download/v3.0/Librum.SE.wabbajack",
+      "machineURL": "librum_se"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "kyBAXJ672O8=",
+      "Size": 317358744,
+      "NumberOfArchives": 1005,
+      "SizeOfArchives": 69577718894,
+      "NumberOfInstalledFiles": 317085,
+      "SizeOfInstalledFiles": 145333516819
+    },
+    "version": "3.0"
+  },
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Librum VR",
+    "description": "A gritty, low-magic, hardcore survival-adventure experience with an uncompromising vision. Hundreds of new quests and locations, a total mechanics overhaul, and a complete makeover of the graphics and atmosphere. The path to your destiny as the Dragonborn will be long and treacherous. Welcome to Librum.",
+    "author": "The Librum Team",
+    "maintainers": [
+      "apoapse"
+    ],
+    "game": "skyrimvr",
+    "official": true,
+    "tags": [
+      "Official",
+      "VR"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/WJ-Banner-Orrery-VR.png",
+      "readme": "https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/README.md",
+      "download": "https://github.com/apoapse1/Librum-for-Skyrim-VR/releases/download/v3.0/Librum.VR.wabbajack",
+      "machineURL": "librum_vr"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "uMdMFP4SRXA=",
+      "Size": 335556549,
+      "NumberOfArchives": 1091,
+      "SizeOfArchives": 71856516831,
+      "NumberOfInstalledFiles": 317423,
+      "SizeOfInstalledFiles": 145193619759
+    },
+    "version": "3.0"
+  },
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Serenity 2",
     "description": "Serenity 2 is a Skyrim SE modlist found on Wabbajack that aims to bring a fresh Requiem Experience to the table. It uses Requiem 4.0.2 converted to Skyrim Special Edition and has minor and some major tweaks to the core Requiem experience that aims to enhance longevity and replayability while keeping the game fair, balanced and looking great. Serenity is targetted at new and veteran Requiem players and can offer new experiences to both sides of the playerbase.",
     "author": "Xanza, Esvs",
