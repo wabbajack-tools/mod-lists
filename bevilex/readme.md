@@ -51,6 +51,9 @@ Only applicable if you purchased the standard GOTY version of Oblivion. (if this
 3. **Interior Draw Distance ENB Fog Fix**
 4. **Snowy Road to Bruma DLC Frostcrag Patch**
 5. **Harvest [Flora] - DLCFrostcrag.esp**
+6. **Harvest [Flora] - DLCVileLair.esp**
+7. **Interior Draw Distance ENB Fog Fix**
+8. **Grimbot's Spell Tomes Jackets**
 
 ##### _Ultra Widescreen Users_
 
