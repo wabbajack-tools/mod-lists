@@ -145,10 +145,11 @@ Living Skyrim aims to breathe life to the familiar emptiness of Skyrim, bringing
 
 **_Mods to get familiar with:_**
 
-[Genesis](https://www.nexusmods.com/skyrimspecialedition/mods/23871)  
-[Sustained Magic](https://www.nexusmods.com/skyrimspecialedition/mods/15871)  
-[SkyRem - GRACE](https://www.nexusmods.com/skyrimspecialedition/mods/26207)  
-[Enemy Releveler](https://www.nexusmods.com/skyrimspecialedition/mods/32211)  
+[Increased Enemy Spawns](https://www.nexusmods.com/skyrimspecialedition/mods/2470)  
+[SmartCast](https://www.nexusmods.com/skyrim/mods/43123)  
+[Inconsequential NPCs](https://www.nexusmods.com/skyrim/mods/36334)  
+[Organic Factions](https://www.nexusmods.com/skyrimspecialedition/mods/10289)  
+[Alternate Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/50307)
 
 ***
 
