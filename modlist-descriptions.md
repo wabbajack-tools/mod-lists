@@ -239,6 +239,7 @@ It has a plethora of quests, new armors and weapons, new music, new companions a
 - [Ordinator](https://www.nexusmods.com/skyrimspecialedition/mods/1137)
 - [Palladium Racials](https://www.nexusmods.com/skyrimspecialedition/mods/43890)
 - [Arcanum](https://www.nexusmods.com/skyrimspecialedition/mods/23488) and [Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711)
+- [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/30410)
 
 
 ***
