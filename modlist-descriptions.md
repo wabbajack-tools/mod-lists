@@ -222,7 +222,7 @@ For an overview of the various mods included, you can view the modlist [showcase
 
 ***
 
-### [Aldrnari](https://www.wabbajack.org/#/modlists/info?machineURL=Aldrnari)
+### [Aldrnari](https://www.wabbajack.org/#/modlists/info?machineURL=aldrnari)
 
 Aldrnari (ᚨᛚᛞᚱᚾᚨᚱᛁ) is a project to make a Skyrim ***I*** (Sovn) want to play. It is an ode to my love for folk music; in fact, the idea came when I began listening to [Yggdrasil Music and SoundFX Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21578) and started listening to folk music all together.
 
