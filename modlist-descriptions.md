@@ -20,6 +20,7 @@
   - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr)
   - [Tinvaak](#tinvaak)
   - [Aldrnari](#aldrnari)
+  - [Arkay's Commandment](#arkayscommandment)
   - [(NSFW)Licentia(NSFW)](#NSFWLicentiaNSFW)
   - [(NSFW)Tsukiro(NSFW)](#nsfwtsukironsfw)
 - [Fallout 4](#fallout-4)
@@ -241,6 +242,18 @@ It has a plethora of quests, new armors and weapons, new music, new companions a
 - [Arcanum](https://www.nexusmods.com/skyrimspecialedition/mods/23488) and [Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711)
 - [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/30410)
 
+
+***
+
+### [Arkay's Commandment](https://www.wabbajack.org/#/modlists/info?machineURL=arkayscommandment)
+
+My personal mod list that I play with, utilizing Requiem and 3Tweaks, focused on limiting explotative gameplay and crafting a consistently challenging adventure, all with 1 life only. The only way to advance is to utilize everything at your disposal, and as a player you'll need to have good mechanical skills and game knowledge. 
+
+**_Mods to get familiar with:_**
+
+- [Requiem](https://www.nexusmods.com/skyrim/mods/19281)
+- [3Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44044)
+- [Skyrim Souls](https://www.nexusmods.com/skyrimspecialedition/mods/27859)
 
 ***
 
