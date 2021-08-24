@@ -20,7 +20,7 @@
   - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr)
   - [Tinvaak](#tinvaak)
   - [Aldrnari](#aldrnari)
-  - [Arkay's Commandment](#arkayscommandment)
+  - [Arkay's Commandment](#arkays-commandment)
   - [(NSFW)Licentia(NSFW)](#NSFWLicentiaNSFW)
   - [(NSFW)Tsukiro(NSFW)](#nsfwtsukironsfw)
 - [Fallout 4](#fallout-4)
