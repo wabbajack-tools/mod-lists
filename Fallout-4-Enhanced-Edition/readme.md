@@ -63,6 +63,12 @@ Now, hit `Save and Exit` in the bottom right.
 
 Launch ModOrganizer from the exe found in your `F4EEInstall` folder.
 
+### Step 5.5 (Optional):
+
+Now, you have a few choices before starting your game. You can follow the simple instructions at the bottom of the left pane of MO2 to decide if you want your Protagonist to talk or not. By default, it will not.
+
+You can also choose to install Pack Attack NPC, which is an AI mod that was removed from the Nexus. You can grab it from [here](http://forums.greslingames.com/viewtopic.php?f=4&t=143). Then, place the archive in your downloads folder, and install it like you would any other mod in MO2. If you don't know how to do that, then see [Lively's Learn To Mod](https://github.com/LivelyDismay/Learn-To-Mod/tree/main/lessons). Now, simply place this mod above `F4EE PANPC Patch` in the left pane, and enable both, and you will be good to go, with smarter enemies enabled.
+
 ### Step 6:
 
 Now, launch your game from `F4SE` in the top left of your MO2! After creating your character, be sure to first set the difficulty to `Survival`, as this list is built entirely for that difficulty. Then, configure the MCM menus found at the top of your pause menu. Follow these steps and you will be good!
