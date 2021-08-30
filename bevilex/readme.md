@@ -1,6 +1,6 @@
 ### Documentation and Instructions for Installer Version 2.2.2, Wabbajack 2.5.2.2+
 
-**NOTE**: This is an unofficial attempt to automate the Bevilex guide, so please only direct installation and support queries to the Unofficial Bevilex support channel (#bevilex-support) in the [Wabbajack discord](https://discord.gg/WnyMdj). Additionally, while we can't provide tailored support if you modify or build upon the list, advice can be sought in the Unofficial Bevilex thread of the #general-oblivion-discussion channel. 
+**NOTE**: This is an unofficial attempt to automate the Bevilex guide, so please only direct installation and support queries to the Unofficial Bevilex support channel (#bevilex-support) in the [Wabbajack discord](https://discord.gg/wabbajack). Additionally, while we can't provide tailored support if you modify or build upon the list, advice can be sought in the Unofficial Bevilex thread of the #general-oblivion-discussion channel. 
 
 Before we get started, there is just a couple of things to note:
 
