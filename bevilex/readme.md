@@ -2,17 +2,13 @@
 
 **NOTE**: This is an unofficial attempt to automate the Bevilex guide, so please only direct installation and support queries to the Unofficial Bevilex support channel ([#bevilex-support](https://discord.com/channels/605449136870916175/623464963616276490)) in the [Wabbajack discord](https://discord.gg/wabbajack). Additionally, while we can't provide tailored support if you modify or build upon the list, advice can be sought in the [Unofficial Bevilex thread](https://discord.com/channels/605449136870916175/881449257805185035) of the #general-oblivion-discussion channel. 
 
-Before we get started, there is just a couple of things to note:
-
-*   A number of files used in the guide are uploaded on sites which Wabbajack cannot currently access (e.g. due to registration walls). I have opted not to include these mods as I do not have the right to re-upload them. However, if you wish to install them, instructions are provided in the optional section of this document to download and add them manually yourself.
-*   This is not a one click installation - there are some minor post installation steps that must be followed in order for your modded setup to work. If you follow all the instructions here, you will be set.
+*   Please also bear in mind that this is not a one click installation. There are some minor post installation steps that must be followed in order for the setup to work. If you follow all the instructions here, you will be set.
 
 ## Mandatory Instructions
 
 #### Prerequisites:
 *   A **vanilla copy of Oblivion** in the **English language**, with at least the Knights of the Nine and Shivering Isles DLCs, **installed outside of C:\Program Files.** The guide has been tested so far with the Steam version, but GOG and retail versions should be supported. Ensure the Documents/MyGames/Oblivion folder has been wiped, then **launch the game once in vanilla** to generate a fresh INI. Backup any save games you with to keep.
-*   Windows 7/10. Please note that Windows 11 is not currently supported.
-*   Ensure that any MO2 installations on your system are configured in ‘portable’ mode.
+*   **Windows 7/10**. Please note that Windows 11 is not currently supported.
 *   **51GB of hard drive space** (not including Oblivion), reduced to 33GB if the MO2/downloads folder is deleted after installation.
 *   A Nexus Premium account
 
@@ -76,6 +72,7 @@ Only applicable if you use a monitor with resolution greater than 1920x1080.
     * **Tweak Settings -> Crime: Alarm Distance at 2000** to reduce guard crime intuition range (right click to change)
     * **Tweak Settings -> Greeting Distance at 100** for less NPC chatter (right click to change)
     * **Tweak Settings -> Warning: Exterior Distance to Hostiles at 2000** for reduced combat distance outdoors (right click to change)
+4. When asked about mods to be de-activated and incorporated into the patch, simply **press OK**.
 4. Hit **Build Patch**. This will take a few minutes, and produce a popup log when complete. Close Wrye Bash.
 5. Back in MO2, right click the **Overwrite** panel at the bottom of the mods pane and select **Create mod**. Call it **Bashed Patch**, place it in the **Install Specific Tweaks** section, and ensure it is enabled after installation.
 
