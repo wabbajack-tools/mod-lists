@@ -1,6 +1,6 @@
 ### Documentation and Instructions for Installer Version 2.2.2, Wabbajack 2.5.2.2+
 
-**NOTE**: This is an unofficial attempt to automate the Bevilex guide, so please only direct installation and support queries to the Unofficial Bevilex support channel (#bevilex-support) in the [Wabbajack discord](https://discord.gg/wabbajack). Additionally, while we can't provide tailored support if you modify or build upon the list, advice can be sought in the Unofficial Bevilex thread of the #general-oblivion-discussion channel. 
+**NOTE**: This is an unofficial attempt to automate the Bevilex guide, so please only direct installation and support queries to the Unofficial Bevilex support channel ([#bevilex-support](https://discord.com/channels/605449136870916175/623464963616276490)) in the [Wabbajack discord](https://discord.gg/wabbajack). Additionally, while we can't provide tailored support if you modify or build upon the list, advice can be sought in the [Unofficial Bevilex thread](https://discord.com/channels/605449136870916175/881449257805185035) of the #general-oblivion-discussion channel. 
 
 Before we get started, there is just a couple of things to note:
 
@@ -173,7 +173,7 @@ The Bevilex guide only overhauls visuals and stability, leaving the gameplay sys
 
 Included below are some general steps for installing additional mods on top of the Bevilex install. For inspiration, the Bevilex guide has a number of gameplay enhancing suggestions that you can incorporate on top of the guide which have been tried and tested - see the bottom of [this page](https://www.nexusmods.com/oblivion/mods/47591) for more details.
 
-While we cannot guarantee support if you modify the list, we can provide advice. Please direct any modlist editing or additions queries to the Unofficial Bevilex thread within the #general-oblivion-discussion Wabbajack Discord channel. To navigate there, simply select the #general-oblivion-discussion channel, press the threads (#) button on the top bar, and select 'Unofficial Bevilex - Modlist Additions'. Depending on activity, this thread will appear either within the 'Active' or 'Archived' tab.
+While we cannot guarantee support if you modify the list, we can provide advice. Please direct any modlist editing or additions queries to the Unofficial Bevilex thread within the #general-oblivion-discussion Wabbajack Discord channel. To navigate there in the browser, simply open [this link](https://discord.com/channels/605449136870916175/881449257805185035). Otherwise, in the Discord app: select the #general-oblivion-discussion channel, press the threads (#) button on the top bar, and select 'Unofficial Bevilex - Modlist Additions'. Depending on activity, this thread will appear either within the 'Active' or 'Archived' tab.
 
 ![](https://i.imgur.com/zBcL80g.png)
 
