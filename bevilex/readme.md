@@ -1,6 +1,6 @@
-### Documentation and Instructions for Installer Version 2.2.1, Wabbajack 2.5.2.2+
+### Documentation and Instructions for Installer Version 2.2.2, Wabbajack 2.5.2.2+
 
-**NOTE**: As with all Wabbajack installers, a Nexus premium account is required in order to use the premium API for downloads. Additionally, since this is an unofficial attempt to automate the Bevilex guide, PLEASE only direct support queries to the unofficial bevilex modlist development channel in the [Wabbajack discord](https://discord.gg/WnyMdj). To view the channel, go to **#welcome** and follow the instructions, selecting Oblivion as a game choice.
+**NOTE**: This is an unofficial attempt to automate the Bevilex guide, so please only direct installation and support queries to the Unofficial Bevilex support channel (#bevilex-support) in the [Wabbajack discord](https://discord.gg/WnyMdj). Additionally, while we can't provide tailored support if you modify or build upon the list, advice can be sought in the Unofficial Bevilex thread of the #general-oblivion-discussion channel. 
 
 Before we get started, there is just a couple of things to note:
 
@@ -10,7 +10,8 @@ Before we get started, there is just a couple of things to note:
 ## Mandatory Instructions
 
 #### Prerequisites:
-*   A **vanilla copy of Oblivion**, with at least the Knights of the Nine and Shivering Isles DLCs, **installed outside of C:\Program Files.** The guide has been tested so far with the Steam version, but GOG and retail versions should be supported. Ensure the Documents/MyGames/Oblivion folder has been wiped, then **launch the game once in vanilla** to generate a fresh INI. Backup any save games you with to keep.
+*   A **vanilla copy of Oblivion** in the **English language**, with at least the Knights of the Nine and Shivering Isles DLCs, **installed outside of C:\Program Files.** The guide has been tested so far with the Steam version, but GOG and retail versions should be supported. Ensure the Documents/MyGames/Oblivion folder has been wiped, then **launch the game once in vanilla** to generate a fresh INI. Backup any save games you with to keep.
+*   Windows 7/10. Please note that Windows 11 is not currently supported.
 *   Ensure that any MO2 installations on your system are configured in ‘portable’ mode.
 *   **51GB of hard drive space** (not including Oblivion), reduced to 33GB if the MO2/downloads folder is deleted after installation.
 *   A Nexus Premium account
@@ -171,6 +172,10 @@ Note that this section is optional - the textures covered are great additions bu
 The Bevilex guide only overhauls visuals and stability, leaving the gameplay systems (questing, levelling, level scaling, combat) in a vanilla state. Given this, you may want to consider adding additional mods to enhance Oblivion's gameplay.
 
 Included below are some general steps for installing additional mods on top of the Bevilex install. For inspiration, the Bevilex guide has a number of gameplay enhancing suggestions that you can incorporate on top of the guide which have been tried and tested - see the bottom of [this page](https://www.nexusmods.com/oblivion/mods/47591) for more details.
+
+While we cannot guarantee support if you modify the list, we can provide advice. Please direct any modlist editing or additions queries to the Unofficial Bevilex thread within the #general-oblivion-discussion Wabbajack Discord channel. To navigate there, simply select the #general-oblivion-discussion channel, press the threads (#) button on the top bar, and select 'Unofficial Bevilex - Modlist Additions'. Depending on activity, this thread will appear either within the 'Active' or 'Archived' tab.
+
+![](https://i.imgur.com/zBcL80g.png)
 
 #### General Steps
 
