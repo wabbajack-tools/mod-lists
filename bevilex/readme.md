@@ -2,7 +2,7 @@
 
 **NOTE**: This is an unofficial attempt to automate the Bevilex guide, so please only direct installation and support queries to the Unofficial Bevilex support channel ([#bevilex-support](https://discord.com/channels/605449136870916175/623464963616276490)) in the [Wabbajack discord](https://discord.gg/wabbajack). Additionally, while we can't provide tailored support if you modify or build upon the list, advice can be sought in the [Unofficial Bevilex thread](https://discord.com/channels/605449136870916175/881449257805185035) of the #general-oblivion-discussion channel. 
 
-*   Please also bear in mind that this is not a one click installation. There are some minor post installation steps that must be followed in order for the setup to work. If you follow all the instructions here, you will be set.
+Please also bear in mind that this is not a one click installation. There are some minor post installation steps that must be followed in order for the setup to work. If you follow all the instructions here, you will be set.
 
 ## Mandatory Instructions
 
