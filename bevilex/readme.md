@@ -7,25 +7,30 @@ Please also bear in mind that this is not a one click installation. There are so
 ## Mandatory Instructions
 
 #### Prerequisites:
-*   A **vanilla copy of Oblivion** in the **English language**, with at least the Knights of the Nine and Shivering Isles DLCs, **installed outside of C:\Program Files.** The guide has been tested so far with the Steam version, but GOG and retail versions should be supported. Ensure the Documents/MyGames/Oblivion folder has been wiped, then **launch the game once in vanilla** to generate a fresh INI. Backup any save games you with to keep.
+*   A **vanilla copy of Oblivion** in the **English language** with at least the Knights of the Nine and Shivering Isles DLCs, **obtained from Steam or GOG**, and **installed outside of C:\Program Files.** 
+*   **Default Oblivion configuration files**. To generate them, first ensure that the Documents/MyGames/Oblivion folder has been wiped, then **launch the game once in vanilla**.
 *   **Windows 7/10**. Please note that Windows 11 is not currently supported.
-*   **51GB of hard drive space** (not including Oblivion), reduced to 33GB if the MO2/downloads folder is deleted after installation.
-*   A Nexus Premium account
+*   **50GB of hard drive space** (not including Oblivion).
+*   A Nexus Premium account, or a lot of time to download the mods manually!
 
 ### Using the Wabbajack Autoinstaller
 
 1. **Download** the latest version of Wabbajack from the [Wabbajack Github](https://github.com/wabbajack-tools/wabbajack/releases/), and **extract the Wabbajack.exe** file to a new directory called **Wabbajack**, as close to the root of your drive as possible (e.g. C:\Wabbajack).
-2. **Create a new folder** for the new installation, and call it **Bevilex** - again place it close to the root of your drive, but not within the Wabbajack folder (this can cause errors). Ensure you have at least 51GB of hard drive space. (Deleting the downloads after installation will reduce the setup size to 33GB).
+2. **Create a new folder** for the new installation, and call it **Bevilex**, placing it close to the root of your drive once again, but not within the Wabbajack folder. Ensure you have at least 50GB of hard drive space.
 3. **Launch Wabbajack.exe** from within the Wabbajack folder. Select the **Unofficial Bevilex** modlist, and then hit **Download and Install** to download the modlist file. Alternatively, the modlist can be downloaded manually from this page. If installing manually, place the modlist file in the Wabbajack directory, and select **Install from Disk**.
 4. Under Installation Location, **select the Bevilex folder** you created in step 2. Set the Download Location to Bevilex\downloads. Click **Begin**.
-5. Wabbajack will open a browser and ask for Nexus authorisation. Log in if necessary and then hit **Authorise.** (_If you get an error on authorisation, download and install [.Net Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48) and run the installer again_)
+5. Wabbajack will open a browser and ask for Nexus authorisation. Log in and then hit **Authorise.** (_If you get an error on authorisation, download and install [.Net Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48) and run the installer again_)
 6. Wabbajack will now download and install the mods specified in the installer. The download size is approximately 18GB so this may take a little while. The installer should keep you informed of progress.
 7. After the **installation complete** message appears, close the installer.
 
+### Game Folder Files
+
+Within the Bevilex folder, copy the contents of the **Game Folder Files** folder to your root Oblivion directory (e.g. C:\Steam\steamapps\common\Oblivion).
+
 ### Running Better Oblivion Sorting Software (BOSS) with User Rules
-1. Within the Bevilex folder, copy the contents of the **Game Folder Files** folder to your root Oblivion directory (e.g. C:\Steam\steamapps\common\Oblivion for Steam installs).
-2. Run **ModOrganizer.exe** in the Bevilex MO2 folder.
-3. Select **BOSS** from the **executable dropdown** in MO2 and hit **Run**. The BOSS GUI will appear over the top of MO2. Hit **Run BOSS** without changing any of the settings. It will now take some time to download the latest masterlist, if it hasn't done so already. (This occasionally fails - if this happens, first ensure 'Update Masterlist' is ticked, then try running BOSS again. Eventually, you should receive the masterlist. When you are successful, untick 'Update Masterlist'.). After the masterlist is obtained, BOSS will sort your plugins and output an HTML log when completed.
+
+1. Run **ModOrganizer.exe** in the Bevilex MO2 folder.
+3. Select **BOSS GUI** from the **executable dropdown** in MO2 and hit **Run**. The BOSS GUI will appear over the top of MO2. Hit **Run BOSS** without changing any of the settings. It will now take some time to download the latest masterlist, if it hasn't done so already. (This occasionally fails - if this happens, first ensure 'Update Masterlist' is ticked, then try running BOSS again. Eventually, you should receive the masterlist. When you are successful, untick 'Update Masterlist'.). After the masterlist is obtained, BOSS will sort your plugins and output an HTML log when completed.
 4. Download the **userlist.txt** file from [here](https://drive.google.com/open?id=1YMnIIi1illJe7TeQdkRvX64FbfzmsiwU), cut to  **tools/BOSS/bin/Release-64/oblivion** and overwrite any existing file there.
 5. Repeat step 3, using BOSS to sort your load order with the newly applied user rules.
 
@@ -52,7 +57,7 @@ Only applicable if you purchased the standard GOTY version of Oblivion. (if this
 7. **Interior Draw Distance ENB Fog Fix**
 8. **Grimbot's Spell Tomes Jackets**
 
-##### _Ultra Widescreen Users_
+##### _Widescreen Users_
 
 Only applicable if you use a monitor with resolution greater than 1920x1080.
 
@@ -73,12 +78,12 @@ Only applicable if you use a monitor with resolution greater than 1920x1080.
     * **Tweak Settings -> Greeting Distance at 100** for less NPC chatter (right click to change)
     * **Tweak Settings -> Warning: Exterior Distance to Hostiles at 2000** for reduced combat distance outdoors (right click to change)
 4. When asked about mods to be de-activated and incorporated into the patch, simply **press OK**.
-4. Hit **Build Patch**. This will take a few minutes, and produce a popup log when complete. Close Wrye Bash.
-5. Back in MO2, right click the **Overwrite** panel at the bottom of the mods pane and select **Create mod**. Call it **Bashed Patch**, place it in the **Install Specific Tweaks** section, and ensure it is enabled after installation.
+5. Hit **Build Patch**. This will take a few minutes, and produce a popup log when complete. Close Wrye Bash.
+6. Back in MO2, right click the **Overwrite** panel at the bottom of the mods pane and select **Create mod**. Call it **Bashed Patch**, place it in the **Install Specific Tweaks** section, and ensure it is enabled after installation.
 
 ### Running the Game
-
-1. To play the game, select **Oblivion** in the MO2 **executable** **dropdown** and hit **Run.** If you encounter an application error and use Steam, make sure Steam is running in the background and try again.
+1. If you use Steam, ensure it is running.
+1. To play the game, select **Oblivion** in the MO2 **executable dropdown** and hit **Run.**
 3. After playing and closing the game, create a new empty mod called OBSE Logs (Use the '...' button at the top of the left MO2 pane, then select 'Create empty mod'. Next, click on the **Overwrite** panel at the bottom of the mods pane and drag and drop the OBSE log files into the empty OBSE Logs mod. This ensures any logs generated on successive plays will be stored here and will not produce a warning.
 4. You're ready to go! Check the optional steps below if you would like to further enhance your experience.
 
@@ -119,9 +124,9 @@ This won't be to everyone's tastes (particularly the pauses), but I encourage yo
 
 ### Installing Missing Mods
 
-As mentioned earlier, a number of texture mods are installed on websites that Wabbajack cannot currently access. This section covers the manual installation of these mods to provide a complete Bevilex installation, and requires users to have some knowledge of MO2 mod installation. 
+A number of texture mods specified in Bevilex's manual guide are installed on websites that Wabbajack cannot currently access. This section covers the manual installation of these mods to provide a complete Bevilex installation, and requires users to have some knowledge of MO2 mod installation. 
 
-Note that this section is optional - the textures covered are great additions but may not be to everyone's tastes. I would recommend looking at some screenshots of the work KatKat produces before making a decision on their inclusion. I myself use a handful of the textures, but not all. The game is fully playable without them.
+Note that this section is optional - the textures covered are good additions but may not be to everyone's tastes. I would recommend looking at some screenshots of the work KatKat produces before making a decision on their inclusion. I myself do not use the textures. The game is fully playable without them.
 
 1. **Register for the TESALL modding community.** I would recommend using a browser that autotranslates pages, such as Google Chrome, because the site is Russian. I would also recommend using a spam email and password that you do not use for other services, as the site does not use HTTPS. The registration page can be found at the following address: [http://tesall.ru/index.php?app=core&module=global&section=register](http://tesall.ru/index.php?app=core&module=global&section=register). Note that only fields marked with * are required, so no need to enter any Discord, Skype, Facebook etc. information. **At the bottom of the form there is a security question to prove you are human.** Below I will keep an updated list of possible questions and answers.
     1.  Question: _“What is the name of Ivan?”,_ Answer: Иван.
