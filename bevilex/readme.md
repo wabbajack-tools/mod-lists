@@ -1,4 +1,4 @@
-### Documentation and Instructions for Installer Version 2.2.3, Wabbajack 2.5.2.2+
+### Documentation and Instructions for Installer Version 2.2.4, Wabbajack 2.5.2.2+
 
 **NOTE**: This is an unofficial attempt to automate the Bevilex guide, so please only direct installation and support queries to the Unofficial Bevilex support channel ([#bevilex-support](https://discord.com/channels/605449136870916175/623464963616276490)) in the [Wabbajack discord](https://discord.gg/wabbajack). Additionally, while we can't provide tailored support if you modify or build upon the list, advice can be sought in the [Unofficial Bevilex thread](https://discord.com/channels/605449136870916175/881449257805185035) of the #general-oblivion-discussion channel. 
 
@@ -9,7 +9,6 @@ Please also bear in mind that this is not a one click installation. There are so
 #### Prerequisites:
 *   A **vanilla copy of Oblivion** in the **English language** with at least the Knights of the Nine and Shivering Isles DLCs, **obtained from Steam or GOG**, and **installed outside of C:\Program Files.** 
 *   **Default Oblivion configuration files**. To generate them, first ensure that the Documents/MyGames/Oblivion folder has been wiped, then **launch the game once in vanilla**.
-*   **Windows 7/10**. Please note that Windows 11 is not currently supported.
 *   **50GB of hard drive space** (not including Oblivion).
 *   A Nexus Premium account, or a lot of time to download the mods manually!
 
