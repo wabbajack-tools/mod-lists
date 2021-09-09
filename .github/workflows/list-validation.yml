@@ -35,7 +35,7 @@ jobs:
         run: dotnet build Wabbajack.CLI/Wabbajack.CLI.csproj --configuration Release --no-restore
         
       - name: Run List Validation
-        run: dotnet run --project Wabbajack.CLI\Wabbajack.CLI.csproj validate-lists -l Published -a /list-validation-archives -r reports
+        run: dotnet run --project Wabbajack.CLI\Wabbajack.CLI.csproj -- validate-lists -l Published -a /list-validation-archives -r reports
     
 
 
