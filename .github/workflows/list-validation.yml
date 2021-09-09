@@ -5,7 +5,15 @@ on:
 
 jobs:
   build-cli:
+    name: List Validation
     runs-on: list-validation
+    
+    env:
+      NEXUS_API_KEY: ${{ secrets.NEXUS_API_KEY }}
+      NEXUS_LOGIN: ${{ secrets.NEXUS_LOGIN }}
+      VECTOR_PLEXUS: ${{ secrets.VECTOR_PLEXUS }}
+      LOVERS_LAB: ${{ secrets.LOVERS_LAB }}
+    
     steps:
       - name: Setup .NET Core SDK 6.0.x
         uses: actions/setup-dotnet@v1
@@ -25,6 +33,9 @@ jobs:
         run: dotnet restore Wabbajack.CLI/Wabbajack.CLI.csproj
       - name: Build
         run: dotnet build Wabbajack.CLI/Wabbajack.CLI.csproj --configuration Release --no-restore
+        
+      - name: Run List Validation
+        run: dotnet run --project Wabbajack.CLI\Wabbajack.CLI.csproj validate-lists -l Published -a /list-validation-archives -r reports
     
 
 
