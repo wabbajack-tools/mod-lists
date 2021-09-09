@@ -6,13 +6,22 @@ on:
 jobs:
   build-cli:
     runs-on: list-validation
-    name: Building `wabbajack-cli.exe`
     steps:
       - name: Setup .NET Core SDK 6.0.x
         uses: actions/setup-dotnet@v1
         with:
           dotnet-version: '6.0.x'
           include-prerelease: true
+          
+      - name: Checkout Wabbajack Source
+        uses: actions/checkout@v2
+        with:
+          repository: wabbajack-tools/wabbajack-redux
+      
+      - name: Install dependencies
+        run: dotnet restore Wabbajack.CLI/Wabbajack.CLI.csproj
+      - name: Build
+        run: dotnet build Wabbajack.CLI/Wabbajack.CLI.csproj --configuration Release --no-restore
     
 
 
