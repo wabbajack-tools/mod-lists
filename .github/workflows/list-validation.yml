@@ -17,6 +17,9 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: wabbajack-tools/wabbajack-redux
+                    
+      - name: Add System.Commandline
+        run: dotnet nuget add source https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-libraries/nuget/v3/index.json -n System.Commandline
       
       - name: Install dependencies
         run: dotnet restore Wabbajack.CLI/Wabbajack.CLI.csproj
