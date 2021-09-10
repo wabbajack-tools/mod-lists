@@ -50,7 +50,7 @@ jobs:
         name: Upload Artifacts
         with:
           name: mod-list-reports
-          path: ${{ github.workspace }/mod-lists/reports        
+          path: ${{ github.workspace }}/mod-lists/reports        
     
 
 
