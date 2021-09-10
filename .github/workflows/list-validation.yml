@@ -26,13 +26,13 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: wabbajack-tools/wabbajack-redux
-          path: /source
+          path: source
       
       - name: Checkout Modlist Source
         uses: actions/checkout@v2
         with:
           repository: wabbajack-tools/mod-lists
-          path: /mod-lists
+          path: mod-lists
                     
       - name: Add System.Commandline
         continue-on-error: true
@@ -50,7 +50,7 @@ jobs:
         name: Upload Artifacts
         with:
           name: mod-list-reports
-          path: /mod-lists/reports        
+          path: mod-lists/reports        
     
 
 
