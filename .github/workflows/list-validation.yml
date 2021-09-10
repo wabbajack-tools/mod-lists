@@ -32,6 +32,7 @@ jobs:
         with:
           repository: wabbajack-tools/mod-lists
           path: mod-lists
+          ref: report-test
                     
       - name: Add System.Commandline
         continue-on-error: true
@@ -43,7 +44,7 @@ jobs:
         run: dotnet build Wabbajack.CLI/Wabbajack.CLI.csproj --configuration Release --no-restore
         
       - name: Run List Validation
-        run: dotnet run --project Wabbajack.CLI/Wabbajack.CLI.csproj -- validate-lists -l Published -a /list-validation-archives -r ${{GITHUB_WORKSPACE}}/mod-lists/reports
+        run: dotnet run --project Wabbajack.CLI/Wabbajack.CLI.csproj -- validate-lists -l Published -a /list-validation-archives -r ${{ github.workspace }}/mod-lists/reports
         
       - uses: actions/upload-artifact@v2
         name: Upload Artifacts
