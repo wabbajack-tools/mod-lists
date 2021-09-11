@@ -1,6 +1,13 @@
 name: List Validation
 
 on:
+  schedule:
+    - cron: 0 */4 * * *
+  push:
+    paths-ignore:
+      - reports/**
+    branches:
+      - master
   workflow_dispatch:
 
 jobs:
