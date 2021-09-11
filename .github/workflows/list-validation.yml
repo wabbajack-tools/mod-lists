@@ -39,7 +39,7 @@ jobs:
         with:
           repository: wabbajack-tools/mod-lists
           path: mod-lists
-          ref: report-test
+          ref: master
                     
       - name: Add System.Commandline
         continue-on-error: true
@@ -57,7 +57,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: List Validation
-          branch: report-test
+          branch: master
           repository: mod-lists
           file_pattern: reports/*
         
