@@ -1,4 +1,4 @@
-## Validation Report -  (fo4vre)
+## Validation Report - Fallout VR Essentials Overhaul (fo4vre)
 
 
 ### Invalid (0)

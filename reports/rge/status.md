@@ -1,4 +1,4 @@
-## Validation Report -  (rge)
+## Validation Report - Relics of Hyrule - GAT Edition (rge)
 
 
 ### Invalid (0)

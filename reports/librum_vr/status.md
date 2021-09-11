@@ -1,4 +1,4 @@
-## Validation Report -  (librum_vr)
+## Validation Report - Librum VR (librum_vr)
 
 
 ### Invalid (0)

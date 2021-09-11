@@ -1,0 +1,28 @@
+[
+  {
+    "Status": "Mirrored",
+    "Original": {
+      "Hash": "dGX21Pia0VY=",
+      "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimse_v0454.zip\ndirectURLHeaders=Referer:http://enbdev.com/download_mod_tesskyrimse.htm",
+      "Name": "enbseries_skyrimse_v0454.zip",
+      "Size": 4210463,
+      "State": {
+        "$type": "Http",
+        "Headers": [
+          "Referer:http://enbdev.com/download_mod_tesskyrimse.htm"
+        ],
+        "Url": "http://enbdev.com/enbseries_skyrimse_v0454.zip"
+      }
+    },
+    "PatchedFrom": {
+      "Hash": "dGX21Pia0VY=",
+      "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/dGX21Pia0VY=",
+      "Name": "enbseries_skyrimse_v0454.zip",
+      "Size": 4210463,
+      "State": {
+        "$type": "WabbajackCDN",
+        "Url": "https://mirror.wabbajack.org/dGX21Pia0VY="
+      }
+    }
+  }
+]

@@ -1,4 +1,4 @@
-## Validation Report -  (tranquility)
+## Validation Report - Tranquility (tranquility)
 
 
 ### Invalid (7)

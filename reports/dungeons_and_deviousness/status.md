@@ -1,4 +1,4 @@
-## Validation Report -  (dungeons_and_deviousness)
+## Validation Report - Dungeons & Deviousness: Director's Cut (dungeons_and_deviousness)
 
 
 ### Invalid (6)

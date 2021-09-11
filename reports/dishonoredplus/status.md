@@ -1,4 +1,4 @@
-## Validation Report -  (dishonoredplus)
+## Validation Report - Dishonored Plus (dishonoredplus)
 
 
 ### Invalid (0)

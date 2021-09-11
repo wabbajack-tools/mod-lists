@@ -1,4 +1,4 @@
-## Validation Report -  (lotf)
+## Validation Report - Legends of the Frost (lotf)
 
 
 ### Invalid (0)

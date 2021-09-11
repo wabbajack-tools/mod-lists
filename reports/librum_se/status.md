@@ -1,4 +1,4 @@
-## Validation Report -  (librum_se)
+## Validation Report - Librum SE (librum_se)
 
 
 ### Invalid (0)

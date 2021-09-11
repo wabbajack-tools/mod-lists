@@ -1,4 +1,4 @@
-## Validation Report -  (big_warden)
+## Validation Report - Big Warden (big_warden)
 
 
 ### Invalid (0)

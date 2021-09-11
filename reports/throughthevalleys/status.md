@@ -1,4 +1,4 @@
-## Validation Report -  (throughthevalleys)
+## Validation Report - Through The Valleys (throughthevalleys)
 
 
 ### Invalid (0)

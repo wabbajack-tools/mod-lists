@@ -1,4 +1,4 @@
-## Validation Report -  (degeneratedungeon)
+## Validation Report - Degenerate Dungeon (degeneratedungeon)
 
 
 ### Invalid (0)

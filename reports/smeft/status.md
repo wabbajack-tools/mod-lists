@@ -1,4 +1,4 @@
-## Validation Report -  (smeft)
+## Validation Report - SME(FT) (smeft)
 
 
 ### Invalid (0)

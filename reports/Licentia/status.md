@@ -1,4 +1,4 @@
-## Validation Report -  (Licentia)
+## Validation Report - Licentia (Licentia)
 
 
 ### Invalid (0)

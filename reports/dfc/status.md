@@ -1,4 +1,4 @@
-## Validation Report -  (dfc)
+## Validation Report - Devil's Food Cake (dfc)
 
 
 ### Invalid (2)

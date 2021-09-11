@@ -1,4 +1,4 @@
-## Validation Report -  (arkayscommandment)
+## Validation Report - Arkay's Commandment (arkayscommandment)
 
 
 ### Invalid (0)

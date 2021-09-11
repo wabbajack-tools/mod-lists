@@ -1,4 +1,4 @@
-## Validation Report -  (lostinspace)
+## Validation Report - Lost in Space (lostinspace)
 
 
 ### Invalid (0)

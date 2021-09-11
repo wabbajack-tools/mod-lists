@@ -1,4 +1,4 @@
-## Validation Report -  (ultimate_vr_essentials)
+## Validation Report - Ultimate VR Essentials (ultimate_vr_essentials)
 
 
 ### Invalid (0)

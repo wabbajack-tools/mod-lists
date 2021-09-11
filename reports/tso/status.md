@@ -1,4 +1,4 @@
-## Validation Report -  (tso)
+## Validation Report - Total Skyrim Overhaul (tso)
 
 
 ### Invalid (1)

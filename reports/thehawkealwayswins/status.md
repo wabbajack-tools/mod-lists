@@ -1,4 +1,4 @@
-## Validation Report -  (thehawkealwayswins)
+## Validation Report - The Hawke Always Wins (thehawkealwayswins)
 
 
 ### Invalid (0)

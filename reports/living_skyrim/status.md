@@ -1,4 +1,4 @@
-## Validation Report -  (living_skyrim)
+## Validation Report - Living Skyrim (living_skyrim)
 
 
 ### Invalid (0)

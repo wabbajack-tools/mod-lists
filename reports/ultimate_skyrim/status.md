@@ -1,4 +1,4 @@
-## Validation Report -  (ultimate_skyrim)
+## Validation Report - Ultimate Skyrim (ultimate_skyrim)
 
 
 ### Invalid (0)

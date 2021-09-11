@@ -1,4 +1,4 @@
-## Validation Report -  (fallout_4_enhanced_edition)
+## Validation Report - Fallout 4 Enhanced Edition (fallout_4_enhanced_edition)
 
 
 ### Invalid (0)

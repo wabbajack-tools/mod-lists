@@ -1,4 +1,4 @@
-## Validation Report -  (magnum_opus)
+## Validation Report - Magnum Opus (magnum_opus)
 
 
 ### Invalid (0)

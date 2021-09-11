@@ -1,4 +1,4 @@
-## Validation Report -  (starstruck_courier)
+## Validation Report - Starstruck Courier (starstruck_courier)
 
 
 ### Invalid (0)
