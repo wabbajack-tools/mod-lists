@@ -1,10 +1,10 @@
 ## Validation Report -  (bevilex)
 
 
-### Invalid (1)
-*  [enbseries_oblivion_v0181.zip](http://enbdev.com/enbseries_oblivion_v0181.zip)
+### Invalid (0)
 ### Updated (0)
-### Mirrored (0)
+### Mirrored (1)
+*  [enbseries_oblivion_v0181.zip](http://enbdev.com/enbseries_oblivion_v0181.zip)
 ### Valid (217)
 *  [1.A Tropical Gold Coast-51187-1-A-1625614921.zip](https://www.nexusmods.com/oblivion/mods/51187/?tab=files&file_id=1000028325)
 *  [2020 Retexture Project - Landscape and Rocks-49933-2-0-1615432788.7z](https://www.nexusmods.com/oblivion/mods/49933/?tab=files&file_id=1000027190)

@@ -1,10 +1,10 @@
 ## Validation Report -  (arkayscommandment)
 
 
-### Invalid (1)
-*  [enbseries_skyrimse_v0462.zip](http://enbdev.com/enbseries_skyrimse_v0462.zip)
+### Invalid (0)
 ### Updated (0)
-### Mirrored (0)
+### Mirrored (1)
+*  [enbseries_skyrimse_v0462.zip](http://enbdev.com/enbseries_skyrimse_v0462.zip)
 ### Valid (623)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)

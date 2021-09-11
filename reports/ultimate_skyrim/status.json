@@ -33,7 +33,7 @@
       "PatchedFrom": null
     },
     {
-      "Status": 1,
+      "Status": 4,
       "Original": {
         "Hash": "4IhAEjdzGNA=",
         "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrim_v0434.zip\ndirectURLHeaders=Referer:http://enbdev.com/download_mod_tesskyrim.htm",
@@ -47,7 +47,16 @@
           "Url": "http://enbdev.com/enbseries_skyrim_v0434.zip"
         }
       },
-      "PatchedFrom": null
+      "PatchedFrom": {
+        "Hash": "4IhAEjdzGNA=",
+        "Meta": "",
+        "Name": "enbseries_skyrim_v0434.zip",
+        "Size": 3265695,
+        "State": {
+          "$type": "WabbajackCDN",
+          "Url": "https://mirror.wabbajack.org/4IhAEjdzGNA="
+        }
+      }
     },
     {
       "Status": 0,

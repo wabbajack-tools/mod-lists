@@ -41,7 +41,7 @@
       "PatchedFrom": null
     },
     {
-      "Status": 1,
+      "Status": 4,
       "Original": {
         "Hash": "nJ59BDEM0qc=",
         "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimse_v0462.zip\ndirectURLHeaders=Referer:http://http://enbdev.com/mod_tesskyrimse_v0462.htm",
@@ -55,7 +55,16 @@
           "Url": "http://enbdev.com/enbseries_skyrimse_v0462.zip"
         }
       },
-      "PatchedFrom": null
+      "PatchedFrom": {
+        "Hash": "nJ59BDEM0qc=",
+        "Meta": "",
+        "Name": "enbseries_skyrimse_v0462.zip",
+        "Size": 4248740,
+        "State": {
+          "$type": "WabbajackCDN",
+          "Url": "https://mirror.wabbajack.org/nJ59BDEM0qc="
+        }
+      }
     },
     {
       "Status": 0,

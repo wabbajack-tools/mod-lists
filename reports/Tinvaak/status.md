@@ -1,10 +1,10 @@
 ## Validation Report -  (Tinvaak)
 
 
-### Invalid (1)
-*  [enbseries_skyrimse_v0460.zip](http://enbdev.com/enbseries_skyrimse_v0460.zip)
+### Invalid (0)
 ### Updated (0)
-### Mirrored (0)
+### Mirrored (1)
+*  [enbseries_skyrimse_v0460.zip](http://enbdev.com/enbseries_skyrimse_v0460.zip)
 ### Valid (770)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)

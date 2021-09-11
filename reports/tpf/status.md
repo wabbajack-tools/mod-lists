@@ -1,10 +1,10 @@
 ## Validation Report -  (tpf)
 
 
-### Invalid (1)
-*  [enbseries_skyrimse_v0462.zip](http://enbdev.com/enbseries_skyrimse_v0462.zip)
+### Invalid (0)
 ### Updated (0)
-### Mirrored (0)
+### Mirrored (1)
+*  [enbseries_skyrimse_v0462.zip](http://enbdev.com/enbseries_skyrimse_v0462.zip)
 ### Valid (768)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)

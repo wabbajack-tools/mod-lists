@@ -1,10 +1,10 @@
 ## Validation Report -  (keizaal)
 
 
-### Invalid (1)
-*  [enbseries_skyrimse_v0462.zip](http://enbdev.com/enbseries_skyrimse_v0462.zip)
+### Invalid (0)
 ### Updated (0)
-### Mirrored (0)
+### Mirrored (1)
+*  [enbseries_skyrimse_v0462.zip](http://enbdev.com/enbseries_skyrimse_v0462.zip)
 ### Valid (863)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)

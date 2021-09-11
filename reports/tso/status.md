@@ -1,11 +1,11 @@
 ## Validation Report -  (tso)
 
 
-### Invalid (2)
+### Invalid (1)
 *  [Dint999] BDO Sorceress DahliaOfTheNight SE.7z
-*  [enbseries_skyrimse_v0462.zip](http://enbdev.com/enbseries_skyrimse_v0462.zip)
 ### Updated (0)
-### Mirrored (0)
+### Mirrored (1)
+*  [enbseries_skyrimse_v0462.zip](http://enbdev.com/enbseries_skyrimse_v0462.zip)
 ### Valid (862)
 *  [- Skyrim 2020 8.4.2 - 3 of 3 - Other - 4K to 2K-2347-8-4-2-1624479907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=210840)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)

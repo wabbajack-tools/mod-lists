@@ -34,7 +34,7 @@
       "PatchedFrom": null
     },
     {
-      "Status": 1,
+      "Status": 4,
       "Original": {
         "Hash": "ETHRG94soss=",
         "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_fallout4_v0461.zip\ndirectURLHeaders=Referer:http://enbdev.com/download_mod_fallout4.htm",
@@ -48,7 +48,16 @@
           "Url": "http://enbdev.com/enbseries_fallout4_v0461.zip"
         }
       },
-      "PatchedFrom": null
+      "PatchedFrom": {
+        "Hash": "ETHRG94soss=",
+        "Meta": "",
+        "Name": "enbseries_fallout4_v0461.zip",
+        "Size": 2904352,
+        "State": {
+          "$type": "WabbajackCDN",
+          "Url": "https://mirror.wabbajack.org/ETHRG94soss="
+        }
+      }
     },
     {
       "Status": 0,

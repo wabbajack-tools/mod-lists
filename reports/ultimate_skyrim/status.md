@@ -1,10 +1,10 @@
 ## Validation Report -  (ultimate_skyrim)
 
 
-### Invalid (1)
-*  [enbseries_skyrim_v0434.zip](http://enbdev.com/enbseries_skyrim_v0434.zip)
+### Invalid (0)
 ### Updated (0)
-### Mirrored (0)
+### Mirrored (1)
+*  [enbseries_skyrim_v0434.zip](http://enbdev.com/enbseries_skyrim_v0434.zip)
 ### Valid (294)
 *  [00. ETaC Old v14.3.1 Complete-13608-14-3-1.7z](https://www.nexusmods.com/skyrim/mods/13608/?tab=files&file_id=1000263878)
 *  [2k Textures-75377-1-1.rar](https://www.nexusmods.com/skyrim/mods/75377/?tab=files&file_id=1000205295)

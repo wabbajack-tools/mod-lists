@@ -1,19 +1,17 @@
 ## Validation Report -  (dungeons_and_deviousness)
 
 
-### Invalid (9)
+### Invalid (6)
 *  2138883329_SLAL_Billyy_Animationsv4.7SE.zip
 *  766663625_BakaFactoryABCLESE2.26V.7z
 *  CO More Creatures 1.7 (No Jail Creatures).rar
-*  [Devious Devices SE & VR 5.1.7z](https://mega.nz/file/3RkWmApB#U-0icSo9aEw4lV3kL2uxeSaScJmYPntFuKMg6B6ecmU)
-*  [Deviously Cursed Loot SE 9.0.7z](https://mega.nz/file/7ZMAXbQD#cPR5m0k8q5ZTcL8WtYSgpeZS5tOhlRzhY4hMiUOcCyY)
-*  [enbseries_skyrimse_v0454.zip](https://mirror.wabbajack.org/7465f6d4f89ad156)
 *  ES DDI Patch.7z
 *  Estrus-Chaurus-Spider-Addon v4.342-5.7z
 *  SSE Netimmerse scale patch.7z
 ### Updated (0)
-### Mirrored (0)
-### Valid (887)
+### Mirrored (1)
+*  [xLODGen.83.7z](https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg)
+### Valid (889)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
@@ -225,7 +223,9 @@
 *  [Depths of Skyrim-26913-1-1-7-1608572556.rar](https://www.nexusmods.com/skyrimspecialedition/mods/26913/?tab=files&file_id=175564)
 *  [Desaturated Alternative Tents 4K or 2K Option-17072-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17072/?tab=files&file_id=53903)
 *  Devious Cidhna v1_10_SE.7z
+*  [Devious Devices SE & VR 5.1.7z](https://mega.nz/file/3RkWmApB#U-0icSo9aEw4lV3kL2uxeSaScJmYPntFuKMg6B6ecmU)
 *  Devious Followers - Continued SE v2.14.3.7z
+*  [Deviously Cursed Loot SE 9.0.7z](https://mega.nz/file/7ZMAXbQD#cPR5m0k8q5ZTcL8WtYSgpeZS5tOhlRzhY4hMiUOcCyY)
 *  [Diamond CBBE 3BA Bodyslide-48916-1-0-1619264240.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48916/?tab=files&file_id=199932)
 *  [Diamond Textures CBBE-45718-1-6-1618659623.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45718/?tab=files&file_id=198658)
 *  [Diana Vampyre's Fancy Dress - SSE CBBE BodySlide-30484-1-0-1575735517.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30484/?tab=files&file_id=115480)
@@ -313,6 +313,7 @@
 *  [Emfy Cleric-4853-2-01-1556249833.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4853/?tab=files&file_id=89720)
 *  [ENB Helper SE 1.5 for SSE 1.5.97-23174-1-5-1574569443.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23174/?tab=files&file_id=114237)
 *  [ENB Light 0.95 Release Candidate 2-22574-0-95-1555278577.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=88473)
+*  [enbseries_skyrimse_v0454.zip](https://mirror.wabbajack.org/7465f6d4f89ad156)
 *  [Enchantment Reload Fix SE-21055-1-4-1574334575.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21055/?tab=files&file_id=113960)
 *  [Enemy (R)Evolution of Skyrim - EEOS Installer-37228-1-77-0-1614787135.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37228/?tab=files&file_id=189162)
 *  [Enhanced Lights and FX-2424-3-06.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2424/?tab=files&file_id=35608)
@@ -886,7 +887,6 @@
 *  [Wolfpaint - Face - Racemenu Overlays-30255-1-0-1573205535.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30255/?tab=files&file_id=112816)
 *  [Wood and Paper - A Dear Diary Skin-44174-1-0-1-1622378205.zip](https://www.nexusmods.com/skyrimspecialedition/mods/44174/?tab=files&file_id=206364)
 *  [Xaza High Poly Dark Elf Female Preset-47460-1-0-1616564943.zip](https://www.nexusmods.com/skyrimspecialedition/mods/47460/?tab=files&file_id=193278)
-*  [xLODGen.83.7z](https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg)
 *  [XP32 Maximum Skeleton Special Extended-1988-4-80-1610196777.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=178559)
 *  [XPMSSE Left Hand Skeleton Rotation Fix-50049-4-80-1621290459.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=204058)
 *  Yamete! V3.1.7z

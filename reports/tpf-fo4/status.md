@@ -1,10 +1,10 @@
 ## Validation Report -  (tpf-fo4)
 
 
-### Invalid (1)
-*  [enbseries_fallout4_v0461.zip](http://enbdev.com/enbseries_fallout4_v0461.zip)
+### Invalid (0)
 ### Updated (0)
-### Mirrored (0)
+### Mirrored (1)
+*  [enbseries_fallout4_v0461.zip](http://enbdev.com/enbseries_fallout4_v0461.zip)
 ### Valid (363)
 *  [0.3 - Patch Job-1934-0-3.rar](https://www.nexusmods.com/fallout4/mods/1934/?tab=files&file_id=5988)
 *  [1 Rad Fix - v2.0-15977-2-0.zip](https://www.nexusmods.com/fallout4/mods/15977/?tab=files&file_id=64936)
