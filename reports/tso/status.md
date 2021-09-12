@@ -1,12 +1,11 @@
 ## Validation Report - Total Skyrim Overhaul (tso)
 
 
-### Invalid (1)
-*  [Dint999] BDO Sorceress DahliaOfTheNight SE.7z
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (1)
 *  [enbseries_skyrimse_v0462.zip](http://enbdev.com/enbseries_skyrimse_v0462.zip)
-### Valid (862)
+### Valid (863)
 *  [- Skyrim 2020 8.4.2 - 3 of 3 - Other - 4K to 2K-2347-8-4-2-1624479907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=210840)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -48,6 +47,7 @@
 *  [[Christine] Zhurong.7z](https://www.mediafire.com/file/c038efag87cbx1k/%255BChristine%255D_Zhurong.7z)
 *  [[Dint999] BDO DK Floree 3BA SMP BS.7z](https://drive.google.com/uc?id=1wTR2XVRcC5Rl1YVyqUqd4_sRFuLXMmui&export=download)
 *  [[Dint999] BDO Guardian Grunil v.1.00 (eng) CBBE.7z](https://drive.google.com/uc?id=1YB6V09RCGMiHLy1zN045KBA7AA4tj6UK&export=download)
+*  [Dint999] BDO Sorceress DahliaOfTheNight SE.7z
 *  [[Dint999] BDO Striker CBBE SE fomod.7z](https://www.mediafire.com/file/369mq5q15b02sie/%255BDint999%255D_BDO_Striker_CBBE_SE_fomod.7z/)
 *  [[Dint999] OutfitOfConfessor v1.01 [SE].7z](https://drive.google.com/uc?id=1THN3jBMBTHydVWV_DeADu3AQCZEvYAKT&export=download)
 *  [[Dint999] Sorceress outfit from Dragon's Crown(SSE) v.1.01.7z](https://drive.google.com/uc?id=15rXBnyE41ZHFztQ122G6XRlgPhtw8KZN&export=download)

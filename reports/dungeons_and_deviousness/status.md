@@ -1,16 +1,14 @@
 ## Validation Report - Dungeons & Deviousness: Director's Cut (dungeons_and_deviousness)
 
 
-### Invalid (6)
+### Invalid (3)
 *  2138883329_SLAL_Billyy_Animationsv4.7SE.zip
 *  766663625_BakaFactoryABCLESE2.26V.7z
 *  CO More Creatures 1.7 (No Jail Creatures).rar
-*  ES DDI Patch.7z
-*  Estrus-Chaurus-Spider-Addon v4.342-5.7z
-*  SSE Netimmerse scale patch.7z
 ### Updated (0)
-### Mirrored (0)
-### Valid (890)
+### Mirrored (1)
+*  [xLODGen.83.7z](https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg)
+### Valid (892)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
@@ -320,9 +318,11 @@
 *  [Enhanced Vanilla Trees SE-11008-2-0-0-1590046713.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11008/?tab=files&file_id=141170)
 *  [Ennead Banners 2K.7z-10564-3.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10564/?tab=files&file_id=40419)
 *  ERF - Ceraph 2.8 - Special Edition - Skyrim VR.7z
+*  ES DDI Patch.7z
 *  [Essential Favorites-42997-2-0-1607133920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42997/?tab=files&file_id=173105)
 *  [Estella 1.0-49690-1-0-1620570272.rar](https://www.nexusmods.com/skyrimspecialedition/mods/49690/?tab=files&file_id=202531)
 *  Estrus Chaurus V4.37se.7z
+*  Estrus-Chaurus-Spider-Addon v4.342-5.7z
 *  Estrus-Retexture .rar
 *  [EstrusForSkyrimSE V250beta-12832-2-5beta-1575820103.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12832/?tab=files&file_id=115598)
 *  [ETHEREAL CLOUDS SE - 2K-2393-3-0-1603321016.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2393/?tab=files&file_id=166494)
@@ -791,6 +791,7 @@
 *  [SSE 2K Textures-7292-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/7292/?tab=files&file_id=17309)
 *  [SSE Display Tweaks-34705-0-4-14-1620454142.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34705/?tab=files&file_id=202277)
 *  [SSE HD Animal and Creature Drops-33791-1-0-1584709054.rar](https://www.nexusmods.com/skyrimspecialedition/mods/33791/?tab=files&file_id=129501)
+*  SSE Netimmerse scale patch.7z
 *  [SSE Parallax Shader Fix v1.0 (BETA)-31963-1-0-1579609660.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31963/?tab=files&file_id=120676)
 *  [SSEEdit 4_0_3-164-4-0-3-1575326827.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164/?tab=files&file_id=115017)
 *  [SSIRT SE v4.1-1523-v4-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1523/?tab=files&file_id=31674)
@@ -886,7 +887,6 @@
 *  [Wolfpaint - Face - Racemenu Overlays-30255-1-0-1573205535.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30255/?tab=files&file_id=112816)
 *  [Wood and Paper - A Dear Diary Skin-44174-1-0-1-1622378205.zip](https://www.nexusmods.com/skyrimspecialedition/mods/44174/?tab=files&file_id=206364)
 *  [Xaza High Poly Dark Elf Female Preset-47460-1-0-1616564943.zip](https://www.nexusmods.com/skyrimspecialedition/mods/47460/?tab=files&file_id=193278)
-*  [xLODGen.83.7z](https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg)
 *  [XP32 Maximum Skeleton Special Extended-1988-4-80-1610196777.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=178559)
 *  [XPMSSE Left Hand Skeleton Rotation Fix-50049-4-80-1621290459.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=204058)
 *  Yamete! V3.1.7z
