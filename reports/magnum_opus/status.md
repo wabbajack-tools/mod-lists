@@ -1,11 +1,10 @@
 ## Validation Report - Magnum Opus (magnum_opus)
 
 
-### Invalid (1)
-*  [More Feral Ghouls. A Zombie Mod-43441-0-9-1581441117.rar](https://mega.nz/file/CV0xHADJ#lzGJk4BP1YYyTP2GmmRcSQD01Ca8URs-jkxJv3jSNdc)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (610)
+### Valid (611)
 *  [0001. Weapon QuickSwap 3-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108861)
 *  [0002. FastPipboy-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=89711)
 *  [2k-49369-1-1610332539.rar](https://www.nexusmods.com/fallout4/mods/49369/?tab=files&file_id=198790)
@@ -359,6 +358,7 @@
 *  [Modular Vault 88 Rooms-18245-1-1-2.7z](https://www.nexusmods.com/fallout4/mods/18245/?tab=files&file_id=74835)
 *  [Money Mags - Alternate Hair-17948-1-0.zip](https://www.nexusmods.com/fallout4/mods/17948/?tab=files&file_id=72261)
 *  [More Deathclaw Variety - Nuka World Version-19067-1-10.zip](https://www.nexusmods.com/fallout4/mods/19067/?tab=files&file_id=84249)
+*  [More Feral Ghouls. A Zombie Mod-43441-0-9-1581441117.rar](https://mega.nz/file/CV0xHADJ#lzGJk4BP1YYyTP2GmmRcSQD01Ca8URs-jkxJv3jSNdc)
 *  [More Obvious Low Health - Grey-scale Version-13377-1-0.rar](https://www.nexusmods.com/fallout4/mods/13377/?tab=files&file_id=52886)
 *  [MoreHairstyles-Beards.rar](http://www.mediafire.com/file/iztz7iidy6djz1e/MoreHairstyles-Beards.rar/file)
 *  [MTM - Fens Parkview Apartment Wall Fixed - ESL-40553-1-0-1567578166.7z](https://www.nexusmods.com/fallout4/mods/40553/?tab=files&file_id=165852)
