@@ -1,13 +1,12 @@
 ## Validation Report - Devil's Food Cake (dfc)
 
 
-### Invalid (3)
+### Invalid (2)
 *  [1_FN FAL SA 58 Main 1.03.2-40907-1-03-2-1578197334.7z](https://www.nexusmods.com/fallout4/mods/40907/?tab=files&file_id=173753)
-*  [LooksMenu v1-6-20-12631-1-6-20-1604483725.7z](https://www.nexusmods.com/fallout4/mods/12631/?tab=files&file_id=194291)
 *  [SleepIntimateXOXO_v2.7z](https://www.dracotorre.com/mods/downloads/SleepIntimateXOXO_v2.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (313)
+### Valid (314)
 *  (Optional) LightUp2.0_MCG_Version_1.0.rar
 *  [1_FN P90-22871-1-4-2.zip](https://www.nexusmods.com/fallout4/mods/22871/?tab=files&file_id=97389)
 *  [1.5.11b - TruBy9 UltraWide Fallout 4 Public BETA Release-24630-1-5-11b-1565654842.7z](https://www.nexusmods.com/fallout4/mods/24630/?tab=files&file_id=164269)
@@ -168,6 +167,7 @@
 *  [LooksMenu Body Tattoos (CBBE)(EVB or Vanilla)-25000-1-3-2.7z](https://www.nexusmods.com/fallout4/mods/25000/?tab=files&file_id=142642)
 *  [LooksMenu Body Tattoos ESL Version-25000-1-3-2.7z](https://www.nexusmods.com/fallout4/mods/25000/?tab=files&file_id=142644)
 *  [LooksMenu v1-6-18-12631-1-6-18-1575863217.7z](https://www.nexusmods.com/fallout4/mods/12631/?tab=files&file_id=172311)
+*  [LooksMenu v1-6-20-12631-1-6-20-1604483725.7z](https://www.nexusmods.com/fallout4/mods/12631/?tab=files&file_id=194291)
 *  [Looney Longfellow-14130-1-0.zip](https://www.nexusmods.com/fallout4/mods/14130/?tab=files&file_id=55880)
 *  [Lots More Facial Hair v. 1.21-10746-1-21.rar](https://www.nexusmods.com/fallout4/mods/10746/?tab=files&file_id=43254)
 *  [Lots More Female Hairstyles v. 1.33-10543-1-33.rar](https://www.nexusmods.com/fallout4/mods/10543/?tab=files&file_id=43598)
