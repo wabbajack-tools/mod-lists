@@ -1,12 +1,10 @@
 ## Validation Report - Devil's Food Cake (dfc)
 
 
-### Invalid (2)
-*  [1_FN FAL SA 58 Main 1.03.2-40907-1-03-2-1578197334.7z](https://www.nexusmods.com/fallout4/mods/40907/?tab=files&file_id=173753)
-*  [SleepIntimateXOXO_v2.7z](https://www.dracotorre.com/mods/downloads/SleepIntimateXOXO_v2.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (314)
+### Valid (320)
 *  (Optional) LightUp2.0_MCG_Version_1.0.rar
 *  [1_FN P90-22871-1-4-2.zip](https://www.nexusmods.com/fallout4/mods/22871/?tab=files&file_id=97389)
 *  [1.5.11b - TruBy9 UltraWide Fallout 4 Public BETA Release-24630-1-5-11b-1565654842.7z](https://www.nexusmods.com/fallout4/mods/24630/?tab=files&file_id=164269)
@@ -80,6 +78,11 @@
 *  [cVc Dead Wasteland 6 - DLC2-43818-2-0-1615142959.zip](https://www.nexusmods.com/fallout4/mods/43818/?tab=files&file_id=203128)
 *  [cVc Dead Wasteland 6 - DLC3-43818-2-0-1615143001.zip](https://www.nexusmods.com/fallout4/mods/43818/?tab=files&file_id=203129)
 *  [DA Merged 11 Pack-16492-v1.rar](https://www.nexusmods.com/fallout4/mods/16492/?tab=files&file_id=65822)
+*  Data_DLCCoast - Textures.ba2
+*  Data_DLCNukaWorld - Main.ba2
+*  Data_Fallout4 - Materials.ba2
+*  Data_Fallout4 - Meshes.ba2
+*  Data_Fallout4 - Textures4.ba2
 *  dcc-potc-v112-slot56.zip
 *  [Deathclaw Hunter Armor All-In-One-11682-1-21.rar](https://www.nexusmods.com/fallout4/mods/11682/?tab=files&file_id=128906)
 *  [Def_ui 1.5.1-10654-1-5-1-1575574203.zip](https://www.nexusmods.com/fallout4/mods/10654/?tab=files&file_id=172074)
@@ -258,6 +261,7 @@
 *  [SIG SG 550 - 1.0 - 4K-42929-1-0-1578559720.7z](https://www.nexusmods.com/fallout4/mods/42929/?tab=files&file_id=174019)
 *  [SIG SG 550 - 1.0.2 - UPDATE-42929-1-0-2-1578585071.7z](https://www.nexusmods.com/fallout4/mods/42929/?tab=files&file_id=174047)
 *  [Sjogren Inertia-41109-1-0-1568311604.rar](https://www.nexusmods.com/fallout4/mods/41109/?tab=files&file_id=166505)
+*  [SleepIntimateXOXO_v2.7z](https://www.dracotorre.com/mods/downloads/SleepIntimateXOXO_v2.7z)
 *  [SPI Armor-44113-1-3-1585781454.7z](https://www.nexusmods.com/fallout4/mods/44113/?tab=files&file_id=178598)
 *  [Springfield Armory M1A Replacer - FOMOD Installer-44047-1-0-1585137455.7z](https://www.nexusmods.com/fallout4/mods/44047/?tab=files&file_id=178123)
 *  [Springfield Armory M1A-41999-1-0-1579088521.rar](https://www.nexusmods.com/fallout4/mods/41999/?tab=files&file_id=174379)
