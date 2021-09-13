@@ -1,11 +1,10 @@
 ## Validation Report - Viva New Vegas (vivanewvegas)
 
 
-### Invalid (1)
-*  [Follower Tweaks-62180-1-0.zip](https://www.nexusmods.com/newvegas/mods/62180/?tab=files&file_id=1000038128)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (61)
+### Valid (62)
 *  [A Little More Lamplight-69226-1-2-1594706760.zip](https://www.nexusmods.com/newvegas/mods/69226/?tab=files&file_id=1000063736)
 *  [Altitude-71404-2-9-1627173226.7z](https://www.nexusmods.com/newvegas/mods/71404/?tab=files&file_id=1000078975)
 *  [Anniversary Anim Pack-70158-1-9c-1620681207.7z](https://www.nexusmods.com/newvegas/mods/70158/?tab=files&file_id=1000075892)
@@ -20,6 +19,7 @@
 *  [FNVEdit 4_0_3-34703-4-0-3-1575325884.7z](https://www.nexusmods.com/newvegas/mods/34703/?tab=files&file_id=1000057872)
 *  [FNVModLimitFix-68714-2-5-1588442390.zip](https://www.nexusmods.com/newvegas/mods/68714/?tab=files&file_id=1000061401)
 *  [Follower Formula Redone-71490-1-2-1629924786.7z](https://www.nexusmods.com/newvegas/mods/71490/?tab=files&file_id=1000080213)
+*  [Follower Tweaks-62180-1-0.zip](https://www.nexusmods.com/newvegas/mods/62180/?tab=files&file_id=1000038128)
 *  [GECK_NVE_v1.4.zip](https://cdn.bethsoft.com/fallout/nv/geck/GECK_NVE_v1.4.zip)
 *  [GUWR Balanced NVSE-68153-1-50-1613857966.zip](https://www.nexusmods.com/newvegas/mods/68153/?tab=files&file_id=1000072126)
 *  [Improved LOD noise Texture-46451-V1-00.rar](https://www.nexusmods.com/newvegas/mods/46451/?tab=files&file_id=105739)
