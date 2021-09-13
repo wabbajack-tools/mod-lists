@@ -20,7 +20,7 @@ jobs:
       NEXUS_LOGIN: ${{ secrets.NEXUS_LOGIN }}
       VECTOR_PLEXUS: ${{ secrets.VECTOR_PLEXUS }}
       LOVERS_LAB: ${{ secrets.LOVERS_LAB }}
-      FTP_CREDENTIALS: ${{ secrets.FTP_TEST_CREDENTIALS }}
+      FTP_CREDENTIALS: ${{ secrets.FTP_CREDENTIALS }}
     
     steps:
       - name: Setup .NET Core SDK 6.0.x
