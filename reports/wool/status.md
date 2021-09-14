@@ -1,10 +1,11 @@
 ## Validation Report - Wojo's Oblivion Overhaul List (wool)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [thelostspiresv14.zip](http://www.lostspires.com/misc/thelostspiresv14.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (289)
+### Valid (288)
 *  [ Book Jackets Oblivion High Res-5570.7z](https://www.nexusmods.com/oblivion/mods/5570/?tab=files&file_id=25843)
 *  [1 Oblivion Upscaled Textures Default-49351-2-1560951173.7z](https://www.nexusmods.com/oblivion/mods/49351/?tab=files&file_id=1000022409)
 *  [1_The Living And The Dead-48810-5-0.7z](https://www.nexusmods.com/oblivion/mods/48810/?tab=files&file_id=1000020374)
@@ -265,7 +266,6 @@
 *  [The Secrets Mod v1 Non-UL-32118.rar](https://www.nexusmods.com/oblivion/mods/32118/?tab=files&file_id=64633)
 *  [The Well of Minlorada v1_2-38816-1-2.rar](https://www.nexusmods.com/oblivion/mods/38816/?tab=files&file_id=92921)
 *  [TheFirmament.esp-50991-1-0-1618772520.zip](https://www.nexusmods.com/oblivion/mods/50991/?tab=files&file_id=1000027548)
-*  [thelostspiresv14.zip](http://www.lostspires.com/misc/thelostspiresv14.zip)
 *  [Torch More Brighter-49886-1-0-1581181103.7z](https://www.nexusmods.com/oblivion/mods/49886/?tab=files&file_id=1000023903)
 *  [TOTF Delayer-25346.rar](https://www.nexusmods.com/oblivion/mods/25346/?tab=files&file_id=44043)
 *  [TOTF_1_2_2-11598.7z](https://www.nexusmods.com/oblivion/mods/11598/?tab=files&file_id=18406)
