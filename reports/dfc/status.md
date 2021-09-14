@@ -1,10 +1,11 @@
 ## Validation Report - Devil's Food Cake (dfc)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [SleepIntimateXOXO_v2.7z](https://www.dracotorre.com/mods/downloads/SleepIntimateXOXO_v2.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (320)
+### Valid (319)
 *  (Optional) LightUp2.0_MCG_Version_1.0.rar
 *  [1_FN P90-22871-1-4-2.zip](https://www.nexusmods.com/fallout4/mods/22871/?tab=files&file_id=97389)
 *  [1.5.11b - TruBy9 UltraWide Fallout 4 Public BETA Release-24630-1-5-11b-1565654842.7z](https://www.nexusmods.com/fallout4/mods/24630/?tab=files&file_id=164269)
@@ -261,7 +262,6 @@
 *  [SIG SG 550 - 1.0 - 4K-42929-1-0-1578559720.7z](https://www.nexusmods.com/fallout4/mods/42929/?tab=files&file_id=174019)
 *  [SIG SG 550 - 1.0.2 - UPDATE-42929-1-0-2-1578585071.7z](https://www.nexusmods.com/fallout4/mods/42929/?tab=files&file_id=174047)
 *  [Sjogren Inertia-41109-1-0-1568311604.rar](https://www.nexusmods.com/fallout4/mods/41109/?tab=files&file_id=166505)
-*  [SleepIntimateXOXO_v2.7z](https://www.dracotorre.com/mods/downloads/SleepIntimateXOXO_v2.7z)
 *  [SPI Armor-44113-1-3-1585781454.7z](https://www.nexusmods.com/fallout4/mods/44113/?tab=files&file_id=178598)
 *  [Springfield Armory M1A Replacer - FOMOD Installer-44047-1-0-1585137455.7z](https://www.nexusmods.com/fallout4/mods/44047/?tab=files&file_id=178123)
 *  [Springfield Armory M1A-41999-1-0-1579088521.rar](https://www.nexusmods.com/fallout4/mods/41999/?tab=files&file_id=174379)

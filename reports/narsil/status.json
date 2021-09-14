@@ -5921,7 +5921,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "Mirrored",
       "Original": {
         "Hash": "JpYh6Gk7Bl0=",
         "Meta": "[General]\ndirectURL=https://github.com/loot/loot/releases/download/0.16.1/loot_0.16.1-0-g18e28e9_0.16.1.7z",
@@ -5931,6 +5931,16 @@
           "$type": "Http",
           "Headers": [],
           "Url": "https://github.com/loot/loot/releases/download/0.16.1/loot_0.16.1-0-g18e28e9_0.16.1.7z"
+        }
+      },
+      "PatchedFrom": {
+        "Hash": "JpYh6Gk7Bl0=",
+        "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/269621e8693b065d",
+        "Name": "loot_0.16.1-0-g18e28e9_0.16.1.7z",
+        "Size": 71351819,
+        "State": {
+          "$type": "WabbajackCDN",
+          "Url": "https://mirror.wabbajack.org/269621e8693b065d"
         }
       }
     },

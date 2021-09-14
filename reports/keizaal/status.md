@@ -3,9 +3,10 @@
 
 ### Invalid (0)
 ### Updated (0)
-### Mirrored (1)
+### Mirrored (2)
 *  [enbseries_skyrimse_v0462.zip](http://enbdev.com/enbseries_skyrimse_v0462.zip)
-### Valid (863)
+*  [loot_0.16.1-0-g18e28e9_0.16.1.7z](https://github.com/loot/loot/releases/download/0.16.1/loot_0.16.1-0-g18e28e9_0.16.1.7z)
+### Valid (862)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
@@ -439,7 +440,6 @@
 *  [Lod Pack for DynDoLod (all versions)-11052-1-2-1619435067.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=200275)
 *  [Logical Outfits and Classes for The Dark Brotherhood Forever - ESL-43483-2-0-1608402889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43483/?tab=files&file_id=175157)
 *  [Loki_WadeInWater-42854-v1-1606602483.rar](https://www.nexusmods.com/skyrimspecialedition/mods/42854/?tab=files&file_id=172065)
-*  [loot_0.16.1-0-g18e28e9_0.16.1.7z](https://github.com/loot/loot/releases/download/0.16.1/loot_0.16.1-0-g18e28e9_0.16.1.7z)
 *  [LostDragonist-MO2-Plugins.zip](https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LostDragonist-MO2-Plugins.zip)
 *  low.ini
 *  [Lucien -  Creation Club - Rare Curios Patch-20035-1-6-2-1630693949.rar](https://www.nexusmods.com/skyrimspecialedition/mods/20035/?tab=files&file_id=225891)
