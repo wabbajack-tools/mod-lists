@@ -1,11 +1,10 @@
 ## Validation Report - Starstruck Courier (starstruck_courier)
 
 
-### Invalid (1)
-*  [Faster Pip-Boy Animation (2x)-67761-1-0-1571797210.zip](https://www.nexusmods.com/newvegas/mods/67761/?tab=files&file_id=1000057020)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (202)
+### Valid (203)
 *  [_TTW Interiors Combo v6.5-66449-v6-5-1554528986.7z](https://www.nexusmods.com/newvegas/mods/66449/?tab=files&file_id=1000053074)
 *  [(TTW) Benny Humbles You-69842-1-05-1600663334.7z](https://www.nexusmods.com/newvegas/mods/69842/?tab=files&file_id=1000065771)
 *  [A Roleplayer's History - Patchy's Picks-72032-1-0-1618133654.rar](https://www.nexusmods.com/newvegas/mods/72032/?tab=files&file_id=1000074785)
@@ -49,6 +48,7 @@
 *  [Existence 2.0 (FNV v1.4)-35330-1-4.zip](https://www.nexusmods.com/newvegas/mods/35330/?tab=files&file_id=1000031330)
 *  [Fallout3-NV Hair shine fix-50285-1-0.7z](https://www.nexusmods.com/newvegas/mods/50285/?tab=files&file_id=1000003935)
 *  [Fast Weapon Lag Fix-71973-1-0-1617537597.zip](https://www.nexusmods.com/newvegas/mods/71973/?tab=files&file_id=1000074493)
+*  [Faster Pip-Boy Animation (2x)-67761-1-0-1571797210.zip](https://www.nexusmods.com/newvegas/mods/67761/?tab=files&file_id=1000057020)
 *  [Faster Terminals-36902-1-0.7z](https://www.nexusmods.com/newvegas/mods/36902/?tab=files&file_id=74490)
 *  [Flora Overhaul Dead Edition v13C-19864-1-3C.7z](https://www.nexusmods.com/fallout3/mods/19864/?tab=files&file_id=1000004572)
 *  [FNV Clean Animations-70599-2-2-1621961594.rar](https://www.nexusmods.com/newvegas/mods/70599/?tab=files&file_id=1000076533)

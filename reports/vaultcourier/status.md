@@ -1,11 +1,10 @@
 ## Validation Report - The Vault Courier: DCNV (vaultcourier)
 
 
-### Invalid (1)
-*  [Faster Pip-Boy Animation (2x)-67761-1-0-1571797210.zip](https://www.nexusmods.com/newvegas/mods/67761/?tab=files&file_id=1000057020)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (232)
+### Valid (233)
 *  _3e582da872c15767b57a7ca4f1e5d9b7a2dbb03909e1ce64c674bb61a7f33407_
 *  [(TTW) OREO Standalone-70959-1-0a-1611795426.zip](https://www.nexusmods.com/newvegas/mods/70959/?tab=files&file_id=1000070310)
 *  [1stPar 5.0-69403-5-00-1603823682.zip](https://www.nexusmods.com/newvegas/mods/69403/?tab=files&file_id=1000066892)
@@ -78,6 +77,7 @@
 *  [F4NV Billboards-72164-1-2-1619457624.7z](https://www.nexusmods.com/newvegas/mods/72164/?tab=files&file_id=1000075395)
 *  [fallout_4_upgrades_from_the_commonw.zip](https://mega.nz/file/bkoWUILB#e4J7qQAD_b4wwZh0m2R8NrcYGGZI4xecPpm4pXt7tgc)
 *  [Fast Weapon Lag Fix-71973-1-0-1617537597.zip](https://www.nexusmods.com/newvegas/mods/71973/?tab=files&file_id=1000074493)
+*  [Faster Pip-Boy Animation (2x)-67761-1-0-1571797210.zip](https://www.nexusmods.com/newvegas/mods/67761/?tab=files&file_id=1000057020)
 *  [Faster Swaying-72230-1-1620054287.rar](https://www.nexusmods.com/newvegas/mods/72230/?tab=files&file_id=1000075620)
 *  [Feral Ghould HD-53960-1-0.7z](https://mega.nz/file/EnQFXC6Q#ERg4bGvNJbg-DnCeTmcp1YQHuQmzqr_OF2Tmh9-lv9Q)
 *  [FlagStoneWalls-41101-v1.7z](https://www.nexusmods.com/newvegas/mods/41101/?tab=files&file_id=88748)
