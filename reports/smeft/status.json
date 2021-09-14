@@ -12,7 +12,7 @@
         "Name": "Mod.Organizer-2.4.2.7z",
         "Size": 89503525,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z"
         }
@@ -26,7 +26,7 @@
         "Name": "Wabbajack.Theme.for.MO2.7z",
         "Size": 36244,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/wabbajack-tools/mod-lists/releases/download/1.0.0/Wabbajack.Theme.for.MO2.7z"
         }
@@ -40,7 +40,7 @@
         "Name": "binkw64.dll",
         "Size": 298496,
         "State": {
-          "$type": "GameFileSource",
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "binkw64.dll",
           "GameVersion": "1.5.97.0",
@@ -56,7 +56,7 @@
         "Name": "d3dcompiler_47-31963-1-0-1579609721.7z",
         "Size": 1436122,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "aers",
           "Description": "Injects fixed parallax shaders into Skyrim Special Edition.",
           "FileID": 120677,
@@ -77,7 +77,7 @@
         "Name": "(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z",
         "Size": 206648,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "aers - Nukem - Ryan",
           "Description": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.",
           "FileID": 181171,
@@ -98,7 +98,7 @@
         "Name": "skse64_2_00_19.7z",
         "Size": 922047,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://skse.silverlock.org/beta/skse64_2_00_19.7z"
         }
@@ -112,7 +112,7 @@
         "Name": "CK64Fixes Release 3.2-20061-3-2-1616560054.zip",
         "Size": 516600,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Nukem",
           "Description": "Various patches and bug fixes for the Creation Kit to make life easier.",
           "FileID": 193264,
@@ -133,7 +133,7 @@
         "Name": "LostDragonist-MO2-Plugins.zip",
         "Size": 5315,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LostDragonist-MO2-Plugins.zip"
         }
@@ -147,7 +147,7 @@
         "Name": "NetScriptFramework SkyrimSE v14-21294-14-1603958973.zip",
         "Size": 43744818,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "meh321",
           "Description": "Framework for memory editing, native code hooking and writing DLL plugins in any .NET language.",
           "FileID": 167555,
@@ -168,7 +168,7 @@
         "Name": "Alternate Start - Live Another Life-272-4-1-4-1608766947.7z",
         "Size": 5134346,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Arthmoor",
           "Description": "Live Another Life provides an alternative means to start the game for those who do not wish to go through the lengthy intro sequence at Helgen.",
           "FileID": 175926,
@@ -189,7 +189,7 @@
         "Name": "Believable Crime Report Radius-2802-1.7z",
         "Size": 404,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Burnout6010",
           "Description": "Reduces the crime report radius to 1000.",
           "FileID": 4160,
@@ -210,7 +210,7 @@
         "Name": "Data_Dawnguard.esm",
         "Size": 25189548,
         "State": {
-          "$type": "GameFileSource",
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Dawnguard.esm",
           "GameVersion": "1.5.97.0",
@@ -226,7 +226,7 @@
         "Name": "Data_Dragonborn.esm",
         "Size": 64564304,
         "State": {
-          "$type": "GameFileSource",
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Dragonborn.esm",
           "GameVersion": "1.5.97.0",
@@ -242,7 +242,7 @@
         "Name": "Data_HearthFires.esm",
         "Size": 3978606,
         "State": {
-          "$type": "GameFileSource",
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\HearthFires.esm",
           "GameVersion": "1.5.97.0",
@@ -258,7 +258,7 @@
         "Name": "Data_Skyrim.esm",
         "Size": 249753573,
         "State": {
-          "$type": "GameFileSource",
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim.esm",
           "GameVersion": "1.5.97.0",
@@ -274,7 +274,7 @@
         "Name": "Data_Update.esm",
         "Size": 18557306,
         "State": {
-          "$type": "GameFileSource",
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Update.esm",
           "GameVersion": "1.5.97.0",
@@ -290,7 +290,7 @@
         "Name": "Critters Aint Snitches v1.0 SSE-15134-1-0.zip",
         "Size": 868,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Qwinn",
           "Description": "Attempts to fix animals and monsters reporting your crimes to the local human authorities.  Open beta - needs testing.",
           "FileID": 45421,
@@ -311,7 +311,7 @@
         "Name": "Dwemer Gates Don\u0027t Reset-26331-1-3-3-1626435626.7z",
         "Size": 123329,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "tarlazo",
           "Description": "Prevents the mysterious, pesky Dwemer Gatekeepers from re-closing what you left opened. Gates, passages, portcullises, bridges, barred doors and whatnots no longer reset when the cell does. \n\nSkyrim and DLCs. ---- \u0022Dwemer-only\u0022 and \u0022complete\u0022 versions. The \u0022complete\u0022 version requires USSEP. ---- .esl - ESM - ESP-FE - ESP",
           "FileID": 214878,
@@ -332,7 +332,7 @@
         "Name": "Fast Travel Speed Multiplier v1.0-1503-1-0.7z",
         "Size": 801,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "michaelrw",
           "Description": "Analogous to the \u0027Fast travel timescale fix\u0027 from Skyrim, this mod adjusts a game setting variable in an effort to change the amount of time that passes during your fast travel.",
           "FileID": 1579,
@@ -353,7 +353,7 @@
         "Name": "FileAccess Interface for Skyrim SE Scripts - FISSES-13956-1-3-7-1574615841.zip",
         "Size": 106716,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "TerenceYao",
           "Description": "Easy to use interface for modders to save\u0026amp;reload in-game variables (e.g. MCM settings) to/from file.",
           "FileID": 114287,
@@ -374,7 +374,7 @@
         "Name": "Finding Susanna Alive-32512-1-0-1581844989.7z",
         "Size": 1006400,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SomethingObscure",
           "Description": "This mod changes how Blood on the Ice is triggered to ensure that you\u0027ll be able to meet Susanna the Wicked alive and well in Candlehearth Hall before the butcher strikes.",
           "FileID": 124236,
@@ -395,7 +395,7 @@
         "Name": "Fixed body collision-10849-1-0.zip",
         "Size": 578,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Vilperi15",
           "Description": "This enables the body collision on dead npcs.",
           "FileID": 29097,
@@ -416,7 +416,7 @@
         "Name": "Fuz Ro D\u0027oh-15109-1-7-1574514494.7z",
         "Size": 292862,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "shadeMe",
           "Description": "A SKSE64 plugin that adds support for unvoiced in-game dialog,",
           "FileID": 114169,
@@ -437,7 +437,7 @@
         "Name": "GIST Soul Trap-15755-1-3.zip",
         "Size": 27555,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "opusGlass",
           "Description": "A new and improved solution to the underfilled soul gem problem.",
           "FileID": 52900,
@@ -458,7 +458,7 @@
         "Name": "Labyrinthian Shalidor\u0027s Maze Fixes-52239-0-3-1626070810.7z",
         "Size": 886246,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wankingSkeever",
           "Description": "Tiny fix for some of Shalidor\u0027s Maze\u0027s issues",
           "FileID": 214147,
@@ -479,7 +479,7 @@
         "Name": "Logical Outfits and Classes for The Dark Brotherhood Forever - ESPFE-43483-2-0-1608402920.7z",
         "Size": 5053,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "KaptainCnucklz",
           "Description": "Gives the people from The Dark Brotherhood Forever radiant quests more logical outfits and classes.",
           "FileID": 175159,
@@ -500,7 +500,7 @@
         "Name": "Loki_WadeInWater-42854-v1-1606602483.rar",
         "Size": 279372,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Loki",
           "Description": "SKSE Plugin to make water slow actors (NPCs and yourself) down depending on how much of them is submerged.",
           "FileID": 172065,
@@ -521,7 +521,7 @@
         "Name": "Modern Brawl Bug Fix v104-1473-1-04.zip",
         "Size": 5445,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Enai Siaion",
           "Description": "The Modern Brawl Bug Fix is the ultimate solution to brawls that break instantly or turn into real fights. Compatible with any mod.",
           "FileID": 1552,
@@ -542,7 +542,7 @@
         "Name": "Move it Dammit - for Skyrim Special Edition v1.1 (Installation Script)-752-1-1-0b.7z",
         "Size": 1324,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "E10X11 - Original Mod by Apogee777",
           "Description": "This is a simple mod that changes a few things real quick to make followers and almost any NPC move back farther than in the vanilla game. The circumstances when this does not happen is if an NPC is \u0022too important\u0022 to be moved back.",
           "FileID": 10772,
@@ -563,7 +563,7 @@
         "Name": "No BS AI Projectile Dodge-1763-1-3.rar",
         "Size": 467,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Reize",
           "Description": "Have you ever had that moment where you had the perfect assassination lined up, only for the target to sidestep while he wasn\u0027t looking at you? This mod makes it so enemies do not have superpower sensing/dodging. No BS Guaranteed!\r\n\n\r\n\n",
           "FileID": 66415,
@@ -584,7 +584,7 @@
         "Name": "No More Standing Too Close SSE-4784-1-0.rar",
         "Size": 317,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "azzendix",
           "Description": "Simple mod that make NPCs never say \u0026#34;Huh?\u0026#34; and step back from you again.",
           "FileID": 9722,
@@ -605,7 +605,7 @@
         "Name": "No Silly Physics Damage (esl)-36132-2-1589820691.7z",
         "Size": 368,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Corsafire",
           "Description": "You will no longer lose HP when walking on dynamic objects such as bones or when walking towards a cart.",
           "FileID": 140657,
@@ -626,7 +626,7 @@
         "Name": "No Spinning Death Animation-1432-1-31.zip",
         "Size": 1797,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "dDefinder",
           "Description": "This will simply remove the spinning around dance animation that they do before dying they will now just ragdoll when killed. Works for kills and dying from a high fall. It will not affect killmoves.\n\n\n\nIncludes the Removal of certain creature death pause animations",
           "FileID": 9874,
@@ -647,7 +647,7 @@
         "Name": "NotificationLogSSE-27707-1-2-0-1583021883.zip",
         "Size": 261003,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ryan",
           "Description": "Caches notification messages, so you can look at them later",
           "FileID": 126536,
@@ -668,7 +668,7 @@
         "Name": "PapyrusUtil SE - Scripting Utility Functions-13048-3-9-1580810594.zip",
         "Size": 563031,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "exiledviper meh321",
           "Description": "An SKSE plugin adding several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.",
           "FileID": 122686,
@@ -689,7 +689,7 @@
         "Name": "Nemesis PCEA Main-31667-0-8b-1586750186.rar",
         "Size": 405152,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Shikyo Kira",
           "Description": "A complete revamped version of all other PCEA made from scratch. Nemesis PCEA\u0027s new design eliminates many bugs haunting other PCEA as well as greatly improves the performance. The day of Alternate Animation mods messing with your PCEA is over. 10 slots is not enough? Fear not, Nemesis PCEA supports up to 20 slots",
           "FileID": 133950,
@@ -710,7 +710,7 @@
         "Name": "RaceMenu Special Edition v0-4-16-19080-0-4-16-1601805673.7z",
         "Size": 8480484,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Expired",
           "Description": "Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints. (Requires SKSE)",
           "FileID": 163861,
@@ -731,7 +731,7 @@
         "Name": "Raven Rock - Fix Exit on Horseback SE-14075-1.7z",
         "Size": 4983,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "AndrealphusVIII",
           "Description": "When using horse mods in Solstheim, you might have issues exiting Raven Rock through the small shaft. This small tweak aims to fix that.",
           "FileID": 41290,
@@ -752,7 +752,7 @@
         "Name": "SkyUI_5_2_SE-12604-5-2SE.7z",
         "Size": 2783417,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SkyUI Team",
           "Description": "Elegant, PC-friendly interface mod with many advanced features.",
           "FileID": 35407,
@@ -773,7 +773,7 @@
         "Name": "UIExtensions v1-2-0-17561-1-2-0.7z",
         "Size": 459887,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Expired",
           "Description": "Adds various custom menus to Skyrim for modder use.",
           "FileID": 55628,
@@ -794,7 +794,7 @@
         "Name": "Unofficial Skyrim Special Edition Patch-266-4-2-5b-1623727189.7z",
         "Size": 157221268,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Unofficial Patch Project Team",
           "Description": "A comprehensive bugfixing mod for The Elder Scrolls V: Skyrim - Special Edition. The goal of the Unofficial Skyrim Special Edition Patch (aka USSEP) is to eventually fix every bug with Skyrim Special Edition not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.",
           "FileID": 209150,
@@ -815,7 +815,7 @@
         "Name": "Velexia\u0027s Animals are not Monsters SE-32133-1-3-1-1580666104.rar",
         "Size": 14319,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Velexia",
           "Description": "This mod changes the way most animals behave so they feel more like animals and less like monsters to be killed on sight.",
           "FileID": 122336,
@@ -836,7 +836,7 @@
         "Name": "Whiterun Tower fix-14365-1-0-1556909203.zip",
         "Size": 180591,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "T4GTR34UM3R",
           "Description": "an ambitious dungeon retexturing project wich starts with caves an nordic dungeons",
           "FileID": 90708,
@@ -857,7 +857,7 @@
         "Name": "mo2-plugins-1.1.zip",
         "Size": 26055,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/deorder/mo2-plugins/archive/1.1.zip"
         }
@@ -871,7 +871,7 @@
         "Name": "BethINI Standalone Version-4875-3-5-1593829244.zip",
         "Size": 976360,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DoubleYou",
           "Description": "Bethesda\u0027s INI configuration files are a mess. BethINI optimizes the game for increased graphical fidelity and performance.",
           "FileID": 148679,
@@ -892,7 +892,7 @@
         "Name": "Cathedral Assets Optimizer-23316-5-1-3-1619257830.7z",
         "Size": 8691347,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "G_k",
           "Description": "An automation tool used to optimize BSAs, meshes, textures and animations. It helps quickly porting an Oldrim mod to Skyrim Special Edition, and can optimize assets for many Bethesda games.",
           "FileID": 199921,
@@ -913,7 +913,7 @@
         "Name": "DynDOLOD-32382-2-96-1621002196.7z",
         "Size": 27128914,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sheson",
           "Description": "DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD \u002B tree LOD and the new,  optional dynamic distant object LOD in a few simple steps.",
           "FileID": 203435,
@@ -934,7 +934,7 @@
         "Name": "loot_0.15.1-0-g82c756e_master.7z",
         "Size": 50638612,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/loot/loot/releases/download/0.15.1/loot_0.15.1-0-g82c756e_master.7z"
         }
@@ -948,7 +948,7 @@
         "Name": "Mator Smash Updated-39378-2-0-0-beta-1-1627615769.7z",
         "Size": 3476423,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "matortheeternal",
           "Description": "Mator Smash is a tool that generates conflict resolution patches, similar to Wrye Bash\u0027s Bashed Patch.\n\nSmash is capable of handling conflicts in all record types.\n\n\n\nI did not create Mator Smash, but I have updated the code myself. Yes this one loads more than 254 things!",
           "FileID": 217565,
@@ -969,7 +969,7 @@
         "Name": "Wrye Bash 309.1 - Standalone Executable-6837-309-1-1623232467.7z",
         "Size": 24895612,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Wrye Bash Team",
           "Description": "Wrye Bash is a multipurpose mod management and mod installation utility.",
           "FileID": 1000337935,
@@ -990,7 +990,7 @@
         "Name": "NifSkope_2_0_2018-02-22-x64.7z",
         "Size": 7520337,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/niftools/nifskope/releases/download/v2.0.dev7/NifSkope_2_0_2018-02-22-x64.7z"
         }
@@ -1004,7 +1004,7 @@
         "Name": "PCA 5.6.0-23852-5-6-0-1623357413.7z",
         "Size": 53273615,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "WushuLate",
           "Description": "Papyrus script compilation easier",
           "FileID": 208502,
@@ -1025,7 +1025,7 @@
         "Name": "SSEEdit 4_0_3-164-4-0-3-1575326827.7z",
         "Size": 27375834,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ElminsterAU and the xEdit team",
           "Description": "SSEEdit is the Skyrim: Special Edition version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.",
           "FileID": 115017,
@@ -1046,7 +1046,7 @@
         "Name": "xEdit_4.0.3g.7z",
         "Size": 14054950,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://cdn.discordapp.com/attachments/518048160526893057/832281169717362738/xEdit_4.0.3g.7z"
         }
@@ -1060,7 +1060,7 @@
         "Name": "Synthesis.zip",
         "Size": 71347001,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/Mutagen-Modding/Synthesis/releases/download/0.19.1/Synthesis.zip"
         }
@@ -1074,7 +1074,7 @@
         "Name": "xLODGen.83.7z",
         "Size": 15175790,
         "State": {
-          "$type": "Mega",
+          "$type": "MegaDownloader, Wabbajack.Lib",
           "Url": "https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg"
         }
       }
@@ -1087,7 +1087,7 @@
         "Name": "zEdit_v0.6.5_-_Portable_x64.7z",
         "Size": 44073163,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z"
         }
@@ -1101,7 +1101,7 @@
         "Name": "Better Dialogue Controls v1_2-1429-1-2.zip",
         "Size": 24869,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ecirbaf",
           "Description": "Ever pick the wrong item in a dialogue with a NPC? This mod aims to fix some annoyances with the way keyboard and mouse selection works in the dialogue interface.",
           "FileID": 11022,
@@ -1122,7 +1122,7 @@
         "Name": "Better MessageBox Controls v1_2-1428-1-2.zip",
         "Size": 17621,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ecirbaf",
           "Description": "Navigate all message boxes with the Left/Right and Activate (E) keys. Also fixes the clickable area of buttons so they are easier to select with the mouse.",
           "FileID": 11023,
@@ -1143,7 +1143,7 @@
         "Name": "BodySlide and Outfit Studio - v5.4.1-201-5-4-1-1627325006.7z",
         "Size": 11222796,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ousnius and Caliente",
           "Description": "An easy to use tool for customizing bodies and outfits, creating new bodies and outfits, and converting outfits between body types.",
           "FileID": 216944,
@@ -1164,7 +1164,7 @@
         "Name": "ConsoleUtilSSE-24858-1-2-0-1583021370.zip",
         "Size": 263863,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ryan",
           "Description": "This mod enables papyrus scripts to execute console commands",
           "FileID": 126531,
@@ -1185,7 +1185,7 @@
         "Name": "Fixed Dragon Stalking Fix-37230-2-0-1-1621401968.7z",
         "Size": 7066,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "tarlazo",
           "Description": "\u0022Dragon Stalking Fix\u0022... fixed. Prevents the leveled dragons spawn points -- like the ones at dragon walls and mounds -- from being permanently deleted after having killed the first beast.",
           "FileID": 204271,
@@ -1206,7 +1206,7 @@
         "Name": "JContainers SE-16495-4-1-13-1602690897.7z",
         "Size": 907213,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "silvericed",
           "Description": "Extends Skyrim SE Papyrus scripts (or SKSE/C\u002B\u002B plugins) with JSON based serializable data structures like arrays and maps. Embedded Lua interpreter.",
           "FileID": 165534,
@@ -1227,7 +1227,7 @@
         "Name": "More Informative Console 0.43-19250-0-43-1624831495.zip",
         "Size": 202760,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Linthar",
           "Description": "This mod edits the UI to show a great deal of additional information on npcs, items, and other objects when the console is opened, similar to the way MFG console worked for Oldrim",
           "FileID": 211462,
@@ -1248,7 +1248,7 @@
         "Name": "Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar",
         "Size": 26127652,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases/download/v0.84-beta/Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar"
         }
@@ -1262,7 +1262,7 @@
         "Name": "Papyrus Extender SSE - 4.4.2-22854-4-4-2-1626156020.7z",
         "Size": 461509,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
           "Description": "SKSE64/VR plugin that extends Papyrus script functionality, with over 220 new Papyrus functions, and 25 events",
           "FileID": 214340,
@@ -1283,7 +1283,7 @@
         "Name": "ReCleanedMenus-26680-1-1-1560728024.zip",
         "Size": 66887,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "enzeinzen",
           "Description": "This is a very simple mod that removes some unnecessary buttons from Skyrim\u0027s menus. Say goodbye to unintentionally clicking on the mod manager or the Creation Club.",
           "FileID": 96286,
@@ -1304,7 +1304,7 @@
         "Name": "SKSE64 INI PRE DOWNLOAD v1.2-1651-1-2.7z",
         "Size": 325,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sagittarius22",
           "Description": "Don\u0027t know what to add in your SKSE ini? \r\n\nHere\u0027s one. Does NOT include SKSE files but only the ini.",
           "FileID": 33902,
@@ -1325,7 +1325,7 @@
         "Name": "SkyUI SE - Flashing Savegames Fix-20406-1-0.zip",
         "Size": 231895,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SkyUI Team and ousnius",
           "Description": "Fixes the flashing savegame entries when trying to save or load a game in the in-game main menu (quest journal).",
           "FileID": 68447,
@@ -1346,7 +1346,7 @@
         "Name": "MXPF-a-68617-v1-1-0.zip",
         "Size": 70536,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mator",
           "Description": "This is an API framework for xEdit scripts for creating patches.  MXPF offers a high performance solution that greatly simplifies creating xEdit scripts for patch generation.  Even if you\u0027ve never programmed before, you\u0027ll find the MXPF framework is easy to learn to and use.",
           "FileID": 1000194968,
@@ -1367,7 +1367,7 @@
         "Name": "ActorLimitPlugin v2-32349-2-1581232495.zip",
         "Size": 8303,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "meh321",
           "Description": "Fixes a bug where if you have more than 128 actors in the same place they start floating around weirdly. Also fixes bug where NPC lips stop moving when a lot of them are nearby.",
           "FileID": 123312,
@@ -1388,7 +1388,7 @@
         "Name": "Database for 1.5.97.0-32444-2-1582543829.zip",
         "Size": 294090,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "meh321",
           "Description": "Contains header file and a database to make SKSE DLL plugins version independent easily.",
           "FileID": 125645,
@@ -1409,7 +1409,7 @@
         "Name": "SrtCrashFix_SSE v0.3 Beta-31146-0-3-Beta-1577231754.zip",
         "Size": 57531,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "mrsrt",
           "Description": "The patch fixes the crash on game loading when you install too many animations with FNIS. May also give you increased fps and loading speed.",
           "FileID": 117346,
@@ -1430,7 +1430,7 @@
         "Name": "Assorted mesh fixes-32117-0-22-1626526295.7z",
         "Size": 7325409,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wankingSkeever",
           "Description": "Fixes various issues with vanilla Skyrim meshes that causes them to render incorrectly",
           "FileID": 215065,
@@ -1451,7 +1451,7 @@
         "Name": "Better Jumping SE-18967-1-7-1-1586802920.zip",
         "Size": 173088,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "meh321 and z65536",
           "Description": "Allows to jump while sprinting. Also you can configure jump height multiplier, how many times you can jump (double jump like in action games) . No ESP!",
           "FileID": 134075,
@@ -1472,7 +1472,7 @@
         "Name": "Bug Fixes SSE v3-33261-3-1617429109.zip",
         "Size": 15622,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "meh321",
           "Description": "Fixes some bugs with game code. See description for more details on which bugs are fixed.",
           "FileID": 195587,
@@ -1493,7 +1493,7 @@
         "Name": "Console Commands Extender-28210-1-8-0-1596771552.zip",
         "Size": 194054,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ryan",
           "Description": "Extends and adds console commands",
           "FileID": 154169,
@@ -1514,7 +1514,7 @@
         "Name": "Copy and Paste in Console v1.0.1 for Skyrim SE-30928-1-0-1-1615644554.7z",
         "Size": 127833,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Felisky",
           "Description": "This mod makes it possible to paste text copied to the clipboard into the Skyrim console. No ESP file.",
           "FileID": 191247,
@@ -1535,7 +1535,7 @@
         "Name": "Enhanced Reanimation-43500-1-3-1619463800.7z",
         "Size": 96123,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
           "Description": "An SKSE plugin that improves and fixes bugs with Reanimation effects.",
           "FileID": 200339,
@@ -1556,7 +1556,7 @@
         "Name": "Equip Enchantment Fix-42839-1-2-4-1620033941.zip",
         "Size": 188567,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SlavicPotato",
           "Description": "Fixes engine bugs where item enchantments don\u0027t apply when equipped or stop working while the item is still equipped. SKSE64 plugin.",
           "FileID": 201449,
@@ -1577,7 +1577,7 @@
         "Name": "Essential Favorites-42997-2-1-1620276394.7z",
         "Size": 93766,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
           "Description": "SKSE plugin that prevents favorited items from being sold, crafted, disarmed, disenchanted, or dropped.",
           "FileID": 201941,
@@ -1598,7 +1598,7 @@
         "Name": "Favorite Misc Items SSE-42750-3-5-1615393928.7z",
         "Size": 87326,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
           "Description": "SKSE plugin that allows you to favorite books/soul gems/keys and other misc items.",
           "FileID": 190638,
@@ -1619,7 +1619,7 @@
         "Name": "FixNotesForSkyUI SKSE64 2.0.17-32561-1-2-1-1583205405.zip",
         "Size": 72978,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "0xC0000005",
           "Description": "A SKSE64 plugin that fixes the Letter/Note icon and type for SkyUI.",
           "FileID": 126933,
@@ -1640,7 +1640,7 @@
         "Name": "KeyboardShortcutsFix_SKSE64-3620-1-0-0-2.zip",
         "Size": 112647,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "xSHADOWMANx or Sumwunn at github",
           "Description": "Enables keyboards shortcuts in-game. Alt-F4, volume keys, it just works! \r\n\nRequires my dll loader.",
           "FileID": 35847,
@@ -1661,7 +1661,7 @@
         "Name": "(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip",
         "Size": 417160,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "aers - Nukem - Ryan",
           "Description": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.",
           "FileID": 181373,
@@ -1682,7 +1682,7 @@
         "Name": "FNIS Behavior SE 7_5_1 XXL-3038-7-5-1-1573167284.7z",
         "Size": 3748520,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "fore",
           "Description": "No custom animation possible for Skyrim? Wrong. [color=skyblue]FNIS Behaviors allows to add different types of animations to the game[/color]: idles/poses, sequenced, furniture, paired, killmoves, creatures, and others.",
           "FileID": 112786,
@@ -1703,7 +1703,7 @@
         "Name": "Data_Skyrim - Animations.bsa",
         "Size": 116177491,
         "State": {
-          "$type": "GameFileSource",
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Animations.bsa",
           "GameVersion": "1.5.97.0",
@@ -1719,7 +1719,7 @@
         "Name": "Grass Control v6-42161-6-1607532895.zip",
         "Size": 60674,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "meh321",
           "Description": "Stops grass from growing out of rocks, floorboards, bedrolls, crates, roads and other objects. Also allows drawing grass outside of loaded cells.",
           "FileID": 173957,
@@ -1740,7 +1740,7 @@
         "Name": "NPC AI Process Pos Fix-SSE-V4.05b-40261-v4-05b-1624765238.7z",
         "Size": 56928,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Maxsu",
           "Description": "A DLL plugin that fixes the vanilla game engine bug that NPCs AI process positions could not be updated after you waiting/ sleeping/ fast travel.",
           "FileID": 211343,
@@ -1761,7 +1761,7 @@
         "Name": "Player Rotation in ShowRaceMenu v1.0.0 for SkyrimSE-36095-1-0-0-1589710499.7z",
         "Size": 130343,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Felisky",
           "Description": "This mod makes it possible to rotate the player character using right-clicking and mouse dragging in ShowRaceMenu.",
           "FileID": 140440,
@@ -1782,7 +1782,7 @@
         "Name": "powerofthree\u0027s Tweaks - 1.2-51073-1-2-1626933492.7z",
         "Size": 233610,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
           "Description": "Collection of engine bug fixes and tweaks. SKSE plugin.",
           "FileID": 215915,
@@ -1803,7 +1803,7 @@
         "Name": "INI file-51073-1-2-1626933536.7z",
         "Size": 1588,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
           "Description": "Collection of engine bug fixes and tweaks. SKSE plugin.",
           "FileID": 215916,
@@ -1824,7 +1824,7 @@
         "Name": "ScaleformTranslationPP-22603-1-4-1-1586306055.zip",
         "Size": 386268,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ryan",
           "Description": "This plugin enables native translation nesting present within SkyUI, as well as English fallbacks",
           "FileID": 132968,
@@ -1845,7 +1845,7 @@
         "Name": "Scrambled Bugs-43532-10-1623302557.7z",
         "Size": 342869,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "meh321 and KernalsEgg",
           "Description": "A collection of engine bug fixes and patches made possible by the .NET Script Framework.",
           "FileID": 208412,
@@ -1866,7 +1866,7 @@
         "Name": "Scrambled Eggchantments-43532-1-1619468588.7z",
         "Size": 222914,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "meh321 and KernalsEgg",
           "Description": "A collection of engine bug fixes and patches made possible by the .NET Script Framework.",
           "FileID": 200347,
@@ -1887,7 +1887,7 @@
         "Name": "Slayable Offspring SKSE-46826-1-5-1619991069.7z",
         "Size": 97334,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
           "Description": "SKSE plugin that makes children killable. No patches required.",
           "FileID": 201354,
@@ -1908,7 +1908,7 @@
         "Name": "SSE Display Tweaks-34705-0-4-15-1-1623522047.zip",
         "Size": 403372,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SlavicPotato",
           "Description": "All-in-one solution for smooth FPS-unlocked gameplay. Includes a physics fix, borderless fullscreen performance boost, refresh rate control, highly configurable frame rate limiting, various bugfixes and more.",
           "FileID": 208797,
@@ -1929,7 +1929,7 @@
         "Name": "SSE Parallax Shader Fix v1.0 (BETA)-31963-1-0-1579609660.7z",
         "Size": 228973,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "aers",
           "Description": "Injects fixed parallax shaders into Skyrim Special Edition.",
           "FileID": 120676,
@@ -1950,7 +1950,7 @@
         "Name": "Stay At System Page-19832-1-5-0-1583022131.zip",
         "Size": 254209,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ryan - iammitochondrion",
           "Description": "Ensures the journal menu always opens at the system page tab.",
           "FileID": 126538,
@@ -1971,7 +1971,7 @@
         "Name": "WhoseQuestIsItAnyway-23581-1-3-0-1583022223.zip",
         "Size": 305871,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ryan",
           "Description": "Swaps the \u0022Quest items cannot be removed...\u0022 message for a more descriptive message informing you which quest the item belongs to.",
           "FileID": 126539,
@@ -1992,7 +1992,7 @@
         "Name": "Opt. 2 - Even Wider Rescaled MCM Menu for SkyUI-22825-1-2-1572528179.zip",
         "Size": 59580,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "uranreactor",
           "Description": "This mod improves your MCM configuring expirience.",
           "FileID": 112005,
@@ -2013,7 +2013,7 @@
         "Name": "SimpleAddItems-32319-2-0-1580701739.zip",
         "Size": 17836,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "tavernfly",
           "Description": "A powerful zEdit module for adding items to leveled lists and containers by hand, the old fashioned way. Now with less tedium, streamlined UI, intuitive design, and advanced features!",
           "FileID": 122474,
@@ -2034,7 +2034,7 @@
         "Name": "hank\u0027s gamepad and controller fixes-42492-1-6-1626032109.7z",
         "Size": 2117,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "hank",
           "Description": "An edited controlmap.txt file that allows simultaneous keyboard and controller input and also stops menu navigation buttons from changing when rebinding controller buttons.",
           "FileID": 214056,
@@ -2055,7 +2055,7 @@
         "Name": "Parallax Terrain Addon Beta-31963-1-0-1605865364.7z",
         "Size": 4695,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "aers",
           "Description": "Injects fixed parallax shaders into Skyrim Special Edition.",
           "FileID": 170878,
@@ -2076,7 +2076,7 @@
         "Name": "Whiterun Vram Texture Mod-79995-1-1.rar",
         "Size": 126493,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DDVIL",
           "Description": "A mod that fixes a texture duplicate in Whiterun. Spares VRAM utilization. When using 4k textures, anything helps. ",
           "FileID": 1000226998,
@@ -2097,7 +2097,7 @@
         "Name": "First Person Sneak Strafe-Walk Stutter Fix-31165-1-0-1577054070.7z",
         "Size": 1941,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "UrbanCMC",
           "Description": "Fixes the periodic camera stutter that occurs when slow-sneaking diagonally forward and to the right (W\u002BD).",
           "FileID": 117079,

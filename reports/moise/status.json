@@ -12,7 +12,7 @@
         "Name": "Mod.Organizer-2.4.2.7z",
         "Size": 89503525,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z"
         }
@@ -26,7 +26,7 @@
         "Name": "MGE XE Manual Install-41102-0-11-6-1560626592.7z",
         "Size": 12238498,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Hrnchamd",
           "Description": "Morrowind Graphics Extender XE; allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. Mods the vanilla engine, not usable with OpenMW.",
           "FileID": 1000014923,
@@ -47,7 +47,7 @@
         "Name": "license.txt",
         "Size": 19559,
         "State": {
-          "$type": "GameFileSource",
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Morrowind",
           "GameFile": "license.txt",
           "GameVersion": "1.6.1820",
@@ -63,7 +63,7 @@
         "Name": "Morrowind Code Patch-19510-2-4.7z",
         "Size": 6946292,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Hrnchamd",
           "Description": "Patches bugs in the Morrowind program, which cannot otherwise be fixed by editing scripts or data files. Cures many crash and save corruption problems.",
           "FileID": 1000007846,
@@ -84,7 +84,7 @@
         "Name": "MWSE-Update for Nightly Builds-45468-nightly-builds-1624232443.zip",
         "Size": 396999,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "MWSE Team",
           "Description": "A complete rewrite of Morrowind Script Extender, featuring new functionality and increased performance.",
           "FileID": 1000025607,
@@ -105,7 +105,7 @@
         "Name": "readme.txt",
         "Size": 27718,
         "State": {
-          "$type": "GameFileSource",
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Morrowind",
           "GameFile": "readme.txt",
           "GameVersion": "1.6.1820",
@@ -121,7 +121,7 @@
         "Name": "mlox.exe",
         "Size": 69036000,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/mlox/mlox/releases/download/v1.0/mlox.exe"
         }
@@ -135,7 +135,7 @@
         "Name": "Wrye Mash 2019 - x64 -  manual installation archive.-45439-v100-1572029142.7z",
         "Size": 13472409,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Polemos",
           "Description": "A stand alone edition of Wrye Mash, based on the latest Yacoby source. The \u0022editing the file header\u0022 bug is fixed and retains all the extra functionality like drag and drop. It supports MGE XE, mlox, TES3cmd, TES3llint, MWSE and many more new features like: Menubar, mod order snaps, UNICODE, BSA support  and more. Tested on WinXP, Win7 x64, Win10",
           "FileID": 1000016063,
@@ -156,7 +156,7 @@
         "Name": "Animation Compilation 0.40-43982-0-40.7z",
         "Size": 4177126,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ArtaiosGreybark",
           "Description": "Combines the Almalexia casting animations with Dirnae\u0027s running animations and fixes the errors that were usually accompanied with them. It also enables the player to see the casting animations in first person.",
           "FileID": 1000007671,
@@ -177,7 +177,7 @@
         "Name": "AOF_Containers-32427.rar",
         "Size": 1211884,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "AnOldFriend",
           "Description": "New barrels, kegstand, wooden bucket, and optional new textures for the sacks.",
           "FileID": 62477,
@@ -198,7 +198,7 @@
         "Name": "Apels Bitter Coast Region Retexture v1-42661-v1.rar",
         "Size": 12238596,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Apel",
           "Description": "This mode is retexture for bitter coast region.\r\n\nIts not completely bitter coast retexture, so install it above Connary\u0027s BC Retexture.\r\n\nThis version of retexture is more overhaul for Connary ones version then an independent one.\r\n\nI used to recreate his moss and grass textures with more resolution, it\u0027s not his textures, i fo",
           "FileID": 1000000986,
@@ -219,7 +219,7 @@
         "Name": "Apel fire retexture v2-42554-v2.rar",
         "Size": 4365816,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Apel",
           "Description": "Fire retexture mode for Morrowind.",
           "FileID": 1000001253,
@@ -240,7 +240,7 @@
         "Name": "Apel lighhouse retexture v2-42532-v2.rar",
         "Size": 30343354,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Apel",
           "Description": "Apel\u0027s lighthouse ex/in retexture and mesh replacer.",
           "FileID": 1000000976,
@@ -261,7 +261,7 @@
         "Name": "Apel rain replacer v 1_0-42555-1-0.rar",
         "Size": 2946448,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Apel and HedgeHog-12",
           "Description": "Apel\u0027s rain replacer.\r\n\nReplaces rain with more heavy rain look.",
           "FileID": 1000000462,
@@ -282,7 +282,7 @@
         "Name": "Arukinns Better Banners Signs and Signposts English-41658-1-1.7z",
         "Size": 13234490,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Arukinn",
           "Description": "Replaces all the (service-)banners, town-banners, (service-)signs, signposts and the banners from the three houses too.\r\n\nAll the banners are new painted and has a higher resolution.\r\n\nThere are two versions of this mod. A english and a german version.",
           "FileID": 89860,
@@ -303,7 +303,7 @@
         "Name": "Arukinns Better Books and Scrolls-43100-1-0.7z",
         "Size": 8980092,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Arukinn",
           "Description": "This mod replaces all the books, bookpages and scrolls.\r\n\nAll the textures are new painted and have a higher resolution.\r\n\nThey also have the \u0026#34;look-and-feel\u0026#34; from the original textures.",
           "FileID": 1000002452,
@@ -324,7 +324,7 @@
         "Name": "Ash Vampire Reworked-43633-b0-1.rar",
         "Size": 593731,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Phobos",
           "Description": "Model replacement for Ash Vampires.",
           "FileID": 1000003777,
@@ -345,7 +345,7 @@
         "Name": "AST beds remastered-45206-1-0.7z",
         "Size": 15618847,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Bardon",
           "Description": "\u0026#34;AST beds texture replacer\u0026#34; in better resolution with changes and extras.",
           "FileID": 1000008569,
@@ -366,7 +366,7 @@
         "Name": "AST redware texture replacer-50163-1-0-1629380676.7z",
         "Size": 815282,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Aisis",
           "Description": "Redware texture replacer made to be as true to vanilla Morrowind as possible.",
           "FileID": 1000026469,
@@ -387,7 +387,7 @@
         "Name": "Psy_Azura_Replacer1.7z",
         "Size": 1087632,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://www.moddb.com/addons/start/52259"
         }
@@ -401,7 +401,7 @@
         "Name": "SWGs Banners-21405.zip",
         "Size": 44187736,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Markelius",
           "Description": "This mod replaces the ingame dunmer banners.",
           "FileID": 34918,
@@ -422,7 +422,7 @@
         "Name": "BB Dwarven Spectre-29671.7z",
         "Size": 3008210,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Saint Jiub",
           "Description": "Replaces the dwarven spectre with a Better Bodies version.",
           "FileID": 54974,
@@ -443,7 +443,7 @@
         "Name": "BetterAlmalexia-23388.rar",
         "Size": 5600778,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Plangkye",
           "Description": "An improved Almalexia model using Better Bodies.",
           "FileID": 39778,
@@ -464,7 +464,7 @@
         "Name": "Morrowind Better Blood-33426.7z",
         "Size": 16182,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Evandar",
           "Description": "Replacement of the blood texture for Morrowind",
           "FileID": 64860,
@@ -485,7 +485,7 @@
         "Name": "Better Bodies-42399-2-2.rar",
         "Size": 6874136,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Psychodog Studios",
           "Description": "Better Bodies 2.2 with proper Nexus Mod Manager support including customizable setup!\r\n\nThis mod replaces the default body meshes and textures with high quality ones for all non-beast playable races.",
           "FileID": 1000000097,
@@ -506,7 +506,7 @@
         "Name": "Better Dialogue Font-36873.7z",
         "Size": 32327,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Hrnchamd",
           "Description": "A high resolution replacer for Morrowind\\\u0027s Magic Cards font, used in most of the UI - menus, dialogue and the journal.",
           "FileID": 74900,
@@ -527,7 +527,7 @@
         "Name": "Better Heads-42226-1-1.rar",
         "Size": 11174415,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Gorg and Arathrax",
           "Description": "The Better Heads file from Gorg \u0026 Arathrax",
           "FileID": 90583,
@@ -548,7 +548,7 @@
         "Name": "Better Robes ENG-42773-0-3-1.7z",
         "Size": 2518775,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Moranar",
           "Description": "This plugin replaces male meshes with more smooth versions (based on NioLiv\\\u0027s meshes) and adds the analogous female variant of the robe too. I tried to retain the original appearance as much as possible.",
           "FileID": 1000001779,
@@ -569,7 +569,7 @@
         "Name": "Better Waterfalls-45424-1-1.7z",
         "Size": 286893,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Melchior Dahrk",
           "Description": "New effects and textures for TES3 Morrowind waterfalls.",
           "FileID": 1000009364,
@@ -590,7 +590,7 @@
         "Name": "Better_Clothes-42262-1-1.zip",
         "Size": 15644082,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "PsychoDog Team",
           "Description": "Better Clothes replaces most of the default clothing from the standard Morrowind game with new non-segmented versions designed to work with Better Bodies. This improves the visual appearance of most items of clothing that are available in stores, and worn by NPCs, and in your inventory.",
           "FileID": 90673,
@@ -611,7 +611,7 @@
         "Name": "Bitter Coast Sounds Plugin-42988-.zip",
         "Size": 44071,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Bethesda",
           "Description": "This official plugin adds ambient noise and dragonflies all over the Bitter Coast region. It does not affect gameplay in any way, but merely makes the environment seem more swamp-like.",
           "FileID": 1000002163,
@@ -632,7 +632,7 @@
         "Name": "Bloated Caves-43141-1-2.7z",
         "Size": 3732,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ManaUser",
           "Description": "A small mod adding the unused Bloatspore to over 20 caves and caverns of Vvardenfell.",
           "FileID": 1000002571,
@@ -653,7 +653,7 @@
         "Name": "CCR Normal v2-21837-1.zip",
         "Size": 215330,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Alaisiagae",
           "Description": "Replaces the cart cloth found in Tribunal with a higher resolution texture. Includes an alternative texture as well. Fixes vertex shading and UV maps on the cart mesh.",
           "FileID": 72418,
@@ -674,7 +674,7 @@
         "Name": "PB Cliff Racer Replacer 2.0-48978-2-0-1603655038.zip",
         "Size": 5997489,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "PeterBitt and Bahamut",
           "Description": "This is a mesh and texture replacer for the Cliff Racer creature.\n\nComes with full PBR support for the MGE XE Physically Based Rendering Prototype.",
           "FileID": 1000021465,
@@ -695,7 +695,7 @@
         "Name": "Concept Art Based Loading Screens 1.0-43603-1-0.rar",
         "Size": 77038773,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Phobos",
           "Description": "New loading screens based on Bethesda\u0027s Morrowind Concept Art.",
           "FileID": 1000003816,
@@ -716,7 +716,7 @@
         "Name": "Concept Art Ghostfence Replacer-43316-1-2.zip",
         "Size": 22787565,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "starwarsgal9875",
           "Description": "Replaces the Ghostfence Pylons with large stone swords based on Morrowind\u0027s Concept Art.",
           "FileID": 1000002983,
@@ -737,7 +737,7 @@
         "Name": "ContainerWeightMaxed-45698-1-1a.zip",
         "Size": 88091,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Master Jinroku aka AresGAWDofWar",
           "Description": "Changes all non-organic containers weight limit to 9,999,999. Tribunal \u0026amp; Bloodmoon versions included.",
           "FileID": 1000010895,
@@ -758,7 +758,7 @@
         "Name": "Correct UV Mudcrab-42130-1-0.7z",
         "Size": 125458,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "tronvillain",
           "Description": "A fixed Mudcrab mesh, reducing distortion and other UV errors.",
           "FileID": 90353,
@@ -779,7 +779,7 @@
         "Name": "Crabmeat ingredient replacer-43387-1-0.7z",
         "Size": 955079,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Slartibartfast",
           "Description": "This mod is a mesh and texture replacer for the crabmeat ingredient",
           "FileID": 1000003220,
@@ -800,7 +800,7 @@
         "Name": "Daedric Lord Armor Face of God-45037-1-1a.7z",
         "Size": 3492770,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Zobator",
           "Description": "Adds the Daedric Face of God to the Daedric Lord Armor by McMuffin and Bahamut",
           "FileID": 1000008129,
@@ -821,7 +821,7 @@
         "Name": "Daedric Lord Armor Morrowind Edition-44081-1-03-1541699966.7z",
         "Size": 5323684,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "McMuffin converted by Bahamut",
           "Description": "This is a port of McMuffin\u0027s Daedric Lord Armor for Oblivion, which was basicaly redone Morrowind Daedric armor set",
           "FileID": 1000012484,
@@ -842,7 +842,7 @@
         "Name": "Dark Brotherhood Delay - Player\u0027s Choice ENGLISH-46533-V1-01-1555620603.7z",
         "Size": 2576,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "RubberMan",
           "Description": "Available in 3 languages. Provides the player with an extra menu on the character creation with alternative options of when to start the DarkBrotherhood attacks.",
           "FileID": 1000014041,
@@ -863,7 +863,7 @@
         "Name": "DNWeaponsComplete.zip-43418-1-0.zip",
         "Size": 53559354,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Darknut",
           "Description": "This mod replaces all the Weapon Textures in Morrowind, Tribunal \u0026 Bloodmoon.",
           "FileID": 1000003212,
@@ -884,7 +884,7 @@
         "Name": "WIP Detailed Correct UV Rocks-44321-0-92.7z",
         "Size": 2338079,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Pherim",
           "Description": "A place where I collect my small mods, Patches, Translations and WIPs.",
           "FileID": 1000008182,
@@ -905,7 +905,7 @@
         "Name": "Tapestries -fixed archive--22551-1-1.zip",
         "Size": 50424754,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Markelius",
           "Description": "Texture Replacer for the Tapestries in Morrowind",
           "FileID": 90677,
@@ -926,7 +926,7 @@
         "Name": "Mournhold LOD V1.0-43255-1-0.zip",
         "Size": 582,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "EnvyDeveloper",
           "Description": "A small mod which adds distant buildings to Mournhold. So you can see the temple from almost any part of the city.",
           "FileID": 1000002824,
@@ -947,7 +947,7 @@
         "Name": "DjangosDialogue1_3-37328-1-3.zip",
         "Size": 64910,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Von Djangos",
           "Description": "The skinny; A combination of my old dialogue mods with a little extra thrown in. Adds new responses to the \\\u0027little secret\\\u0027 topic, the \\\u0027services\\\u0027 topic, new slave greetings and an alpha of something I call \\\u0027Quest Persuasion\\\u0027. ",
           "FileID": 1000000939,
@@ -968,7 +968,7 @@
         "Name": "Djangos Dialogue 1.42-47253-1-42-1592244472.zip",
         "Size": 110532,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Von Djangos",
           "Description": "Hundreds of new lines of text dialogue for all NPCs, which helps to remedy the repetition and dialogue fatigue that came with the original game.\n\nThe 1.4 update is mostly around greetings - new greetings by class, new greetings about your outfit and reputation, and fully filtered dialogue for weather\n\nand time of day",
           "FileID": 1000019280,
@@ -989,7 +989,7 @@
         "Name": "DjangosRugsandTaps1_6-36872-1-6.rar",
         "Size": 32565553,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Von Djangos",
           "Description": "This is an extensive rug and tapestry replacer. As of 1.6, I have retexured all Dunmer, Imperial and\r\nAshlander tapestries in the game.",
           "FileID": 90795,
@@ -1010,7 +1010,7 @@
         "Name": "Dunmer Lanterns Replacer-43219-10-2-1570655849.7z",
         "Size": 3814459,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Melchior Dahrk",
           "Description": "This mod replaces all of the Dunmer lanterns (including the paper lanterns and streetlight) from the original game with smoother, more detailed versions (yet not with a ridiculous amount of new polies: they\u0027re optimized).",
           "FileID": 1000015926,
@@ -1031,7 +1031,7 @@
         "Name": "DMI_2017.07.15-43101-2017-07-15.zip",
         "Size": 992022,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Champion of Hircine",
           "Description": "Replaces models in the Dwemer set.",
           "FileID": 1000008163,
@@ -1052,7 +1052,7 @@
         "Name": "flora_bush_01 replacer-1-3-42941-1-3.rar",
         "Size": 11998531,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "TT",
           "Description": "This is a small mesh replacer mod for Data Files/Meshes/f/flora_bush_01.nif.",
           "FileID": 1000004022,
@@ -1073,7 +1073,7 @@
         "Name": "Great Service-47767-1-11-1592332753.zip",
         "Size": 402006,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Von Djangos",
           "Description": "Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.",
           "FileID": 1000019303,
@@ -1094,7 +1094,7 @@
         "Name": "16x10 Version-39329-1.zip",
         "Size": 56108041,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Chesko",
           "Description": "An HD recreation of the original Intro Cinematic.",
           "FileID": 81982,
@@ -1115,7 +1115,7 @@
         "Name": "HiRez Armors - Native Styles V2 Fixed and Optimized-47919-2-2-1589456393.7z",
         "Size": 27881096,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Saint_Jiub - fixed and optimized by Pherim",
           "Description": "Fixed and optimized version of Saint_Jiubs \u0022HiRez Armors - Native Styles V2\u0022 that was only available in the old Bethesda forums",
           "FileID": 1000018560,
@@ -1136,7 +1136,7 @@
         "Name": "Idle Talk-46948-0-71-1586604370.zip",
         "Size": 3887093,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Von Djangos",
           "Description": "Adds over 200 new voice entries for NPCs, mostly using edited original voice files.",
           "FileID": 1000017893,
@@ -1157,7 +1157,7 @@
         "Name": "Improved Better Skulls-46012-2-6-1566053352.7z",
         "Size": 4802925,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Pherim - tronvillain - nONatee",
           "Description": "Improved version of \u0022Better Skulls\u0022 by tronvillain \u0026amp; nONatee.",
           "FileID": 1000015477,
@@ -1178,7 +1178,7 @@
         "Name": "Improved Weapon Meshes - Ebony-43484-1-2.7z",
         "Size": 294604,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Pherim",
           "Description": "New and more detailed meshes for all ebony weapons.",
           "FileID": 1000006922,
@@ -1199,7 +1199,7 @@
         "Name": "Less_Generic_Bloodmoon_V1_3-23346-1-3.zip",
         "Size": 122940,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ostar",
           "Description": "This makes the NPCs of the Bloodmoon expansion (Solstheim mostly) less generic, adding personality and backstory.",
           "FileID": 1000002295,
@@ -1220,7 +1220,7 @@
         "Name": "Less Generic Nerevarine v1_4-23335-1-4.zip",
         "Size": 261065,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ostar",
           "Description": "This makes approximately 75 NPCs of the Morrowind Main Quest less generic and more interesting by adding new dialogue, backstory, and personality.",
           "FileID": 1000002487,
@@ -1241,7 +1241,7 @@
         "Name": "Less Generic Tribunal Fixed-44819-2.rar",
         "Size": 4992526,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ostar",
           "Description": "Less Generic Tribunal featuring the multiple fixes done by Abot and Lucevar\r\n\n\u0026lt;br /\u0026gt;Previously it was necessary to download their fixes in two seperate downloads and the mod is listed in many places as being broken. \r\n\n\u0026lt;br /\u0026gt;Hopefully now more people can enjoy this mod\r\n\n\u0026lt;br /\u0026gt;I take no credit for anything done in this",
           "FileID": 1000007465,
@@ -1262,7 +1262,7 @@
         "Name": "lgnpc_ald_velothi_1.20.zip",
         "Size": 18093,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "http://lgnpc.org/mods/lgnpc_ald_velothi_1.20.zip"
         }
@@ -1276,7 +1276,7 @@
         "Name": "lgnpc_aldruhn_1.30.zip",
         "Size": 268214,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "http://lgnpc.org/mods/lgnpc_aldruhn_1.30.zip"
         }
@@ -1290,7 +1290,7 @@
         "Name": "lgnpc_hla_oad_1.40.zip",
         "Size": 45356,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "http://lgnpc.org/mods/lgnpc_hla_oad_1.40.zip"
         }
@@ -1304,7 +1304,7 @@
         "Name": "lgnpc_indarys_1.60.zip",
         "Size": 207284,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "http://lgnpc.org/mods/lgnpc_indarys_1.60.zip"
         }
@@ -1318,7 +1318,7 @@
         "Name": "lgnpc_khuul_2.30.zip",
         "Size": 78288,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "http://lgnpc.org/mods/lgnpc_khuul_2.30.zip"
         }
@@ -1332,7 +1332,7 @@
         "Name": "lgnpc_nolore_1.10.zip",
         "Size": 87810,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "http://lgnpc.org/mods/lgnpc_nolore_1.10.zip"
         }
@@ -1346,7 +1346,7 @@
         "Name": "lgnpc_paxredoran_1.30.zip",
         "Size": 845700,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "http://lgnpc.org/mods/lgnpc_paxredoran_1.30.zip"
         }
@@ -1360,7 +1360,7 @@
         "Name": "lgnpc_secret_masters_1.31.zip",
         "Size": 1517449,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "http://lgnpc.org/mods/lgnpc_secret_masters_1.31.zip"
         }
@@ -1374,7 +1374,7 @@
         "Name": "lgnpc_seyda_neen_2.10.zip",
         "Size": 103794,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "http://lgnpc.org/mods/lgnpc_seyda_neen_2.10.zip"
         }
@@ -1388,7 +1388,7 @@
         "Name": "lgnpc_soul_sickness_patch.zip",
         "Size": 2675,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "http://lgnpc.org/mods/lgnpc_soul_sickness_patch.zip"
         }
@@ -1402,7 +1402,7 @@
         "Name": "lgnpc_tel_mora_1.31.zip",
         "Size": 192205,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "http://lgnpc.org/mods/lgnpc_tel_mora_1.31.zip"
         }
@@ -1416,7 +1416,7 @@
         "Name": "lgnpc_vfq_2.22.zip",
         "Size": 538122,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "http://lgnpc.org/mods/lgnpc_vfq_2.22.zip"
         }
@@ -1430,7 +1430,7 @@
         "Name": "lgnpc_vivec_redoran_1.70.zip",
         "Size": 236105,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "http://lgnpc.org/mods/lgnpc_vivec_redoran_1.70.zip"
         }
@@ -1444,7 +1444,7 @@
         "Name": "lgnpc_gnaar_mok_1.20.zip",
         "Size": 39598,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "http://lgnpc.org/mods/lgnpc_gnaar_mok_1.20.zip"
         }
@@ -1458,7 +1458,7 @@
         "Name": "Long Live The Glassware - Retexture-44016-1-0.7z",
         "Size": 6160674,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "anarkhya",
           "Description": "1024px Retexture of the glassware of Morrowind. Vanilla-friendly.",
           "FileID": 1000004882,
@@ -1479,7 +1479,7 @@
         "Name": "Long Live The Limeware - Retexture-44045-1-0.7z",
         "Size": 2806520,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "anarkhya",
           "Description": "HD Retexture for the Limeware of Morrowind. Vanilla-friendly.",
           "FileID": 1000004965,
@@ -1500,7 +1500,7 @@
         "Name": "LFGT 1-0-29206.7z",
         "Size": 740784,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Saint_Jiub",
           "Description": "Replaces the texture for the Ghostfence around Red Mountain with one that looks fairly similar to the original texture, but more detailed.",
           "FileID": 53800,
@@ -1521,7 +1521,7 @@
         "Name": "LLL - Optimal pack-45718-1-1.zip",
         "Size": 770708,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "CptJoker",
           "Description": "Highly-detailed, vanilla-style textures for Masser and Secunda, the moons circling planet Nirn in the ethereal plane of Mundus. \n\nUPDATE: New optimised packs!",
           "FileID": 1000010360,
@@ -1542,7 +1542,7 @@
         "Name": "Luminous Atronachs-42613-1-0.7z",
         "Size": 349825,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "PeterBitt",
           "Description": "This mod adds glow maps to all three Atronachs in Morrowind, so that they glow in the dark.",
           "FileID": 1000000870,
@@ -1563,7 +1563,7 @@
         "Name": "razor-23825.rar",
         "Size": 495918,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Plangkye",
           "Description": "Replaces Mehrunes\\\u0027 Razor with a model like the Oblivion version",
           "FileID": 40789,
@@ -1584,7 +1584,7 @@
         "Name": "Ministry of truth Bump mapped-42921-1-0.rar",
         "Size": 6033212,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lougian",
           "Description": "Retexture with Bump map",
           "FileID": 1000002003,
@@ -1605,7 +1605,7 @@
         "Name": "Morrowind Optimization Patch-45384-8-0-1568378230.7z",
         "Size": 14549290,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "MOP Team",
           "Description": "Greatly improves performance and fixes some mesh errors.",
           "FileID": 1000015768,
@@ -1626,7 +1626,7 @@
         "Name": "NastierCtong12-22601.rar",
         "Size": 702084,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Von Djangos",
           "Description": "Adds more offensive greetings to members of the Camonna Tong. Responses range from surly and difficult to outright racist slurs if your character is Khajiit or Argonian. Fixes some Balmora dialogue bugs in relation to the Camonna Tong. ",
           "FileID": 43788,
@@ -1647,7 +1647,7 @@
         "Name": "Negative Lights Remover-42306-1-0.7z",
         "Size": 839,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "PeterBitt",
           "Description": "a collection of all my small mods with new ones being added occasionally",
           "FileID": 1000002543,
@@ -1668,7 +1668,7 @@
         "Name": "Netch Bump mapped-42851-1-1.rar",
         "Size": 49839079,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lougian",
           "Description": "Retexture with bump map of the Netch",
           "FileID": 1000001823,
@@ -1689,7 +1689,7 @@
         "Name": "New Best Bodies by Liztail - Clean-47678-3-3-1583853195.zip",
         "Size": 4077450,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Liztail",
           "Description": "Since Liztail seems to be MIA and planetelderscrolls and modhistory/fliggerty downloads are unavailable (atleast for this mod) I took the liberty of uploading this here.\n\n\n\nI DID NOT CREATE THIS MOD.\n\nI fished this from google wayback machine from modhistory.\n\n\n\nAll credits go to Liztail.",
           "FileID": 1000017456,
@@ -1710,7 +1710,7 @@
         "Name": "ORR - Vanilla Glass-19882.zip",
         "Size": 598985,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Alaisiagae",
           "Description": "eplaces the three ore veins and the raw ingredients (which protrude from the veins) with high resolution textures.\r\n",
           "FileID": 31045,
@@ -1731,7 +1731,7 @@
         "Name": "Psy_OMI-29906.7z",
         "Size": 235049,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Psymoniser",
           "Description": "This replaces the meshes of the oriental styled weapons in Morrowind with slightly higher polycount versions. They still use Bethesda stock textures so they look different depending on what texture replacer you are running. This mod is designed to be plugin-less and so, just contains meshes, there are no textures and no esp\\\u0027s.",
           "FileID": 55547,
@@ -1752,7 +1752,7 @@
         "Name": "Main file full package-39122-1-2.zip",
         "Size": 103462245,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Papill6n",
           "Description": "This page contains all my textures/meshes creations/modifications/fixes for Morrowind.\n\n\n\nI love Morrowind, his atmosphere, the vanilla feel of the game. \n\nBut the game has aged and its textures and models appears really bad sometimes on our 24 inches screens :D\n\n\n\nBut especially after years, there are still some textures that n",
           "FileID": 89232,
@@ -1773,7 +1773,7 @@
         "Name": "Patch for Purists-45096-3-2-1-1575286395.7z",
         "Size": 3454845,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "TES3 Community",
           "Description": "Patch for Purists is an unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition that takes a more conservative approach about what it considers a \u0022bug\u0022.",
           "FileID": 1000016399,
@@ -1794,7 +1794,7 @@
         "Name": "-Pluginless Khajiit Head Pack--43110-1-0.7z",
         "Size": 2335436,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ashiraniir",
           "Description": "Pluginless version of the 8 base khajiit heads.",
           "FileID": 1000002478,
@@ -1815,7 +1815,7 @@
         "Name": "Project Atlas-45399-0-6-5-1583081881.7z",
         "Size": 5544649,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Project Atlas Team",
           "Description": "The goal of Project Atlas is to identify the most performance heavy areas of vanilla Morrowind and some popular mods and target high usage/strain meshes in those areas for atlasing. This effort involves reworking the UVs for those meshes and creating texture atlases to cover various sets.",
           "FileID": 1000017378,
@@ -1836,7 +1836,7 @@
         "Name": "PPR_Index Addon-19600.zip",
         "Size": 123254,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Alaisiagae",
           "Description": "Replaces Propylon Pillars textures with crisp, hi-res textures. Optional download contains glowmapped textures.",
           "FileID": 35193,
@@ -1857,7 +1857,7 @@
         "Name": "PPR_Normal-19600.zip",
         "Size": 824754,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Alaisiagae",
           "Description": "Replaces Propylon Pillars textures with crisp, hi-res textures. Optional download contains glowmapped textures.",
           "FileID": 30327,
@@ -1878,7 +1878,7 @@
         "Name": "Robe Overhaul-43748-1-3.7z",
         "Size": 37999147,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Remiros",
           "Description": "Replaces all of Morrowind\u0027s original robes.",
           "FileID": 1000004043,
@@ -1899,7 +1899,7 @@
         "Name": "Scamp Replacer 1.0-44314-1-0.7z",
         "Size": 3849700,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "PeterBitt and Pherim",
           "Description": "This is a mesh and texture replacer for the Scamp creature.\n\n\n\nComes with full PBR support for the MGE XE Physically Based Rendering Prototype.",
           "FileID": 1000005858,
@@ -1920,7 +1920,7 @@
         "Name": "Shiny Septims - Dulled Version-42113-1-2.rar",
         "Size": 456960,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Painkiller_Rider",
           "Description": "- Replaces for all the gold coins in the game with new meshes and textures based on the coins designed by Bethesda (Original version) and ancient Roman coins.",
           "FileID": 90315,
@@ -1941,7 +1941,7 @@
         "Name": "Skies .IV-43311--IV.zip",
         "Size": 402091647,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "starwarsgal9875",
           "Description": "Comprehensive Overhaul for the weather in Morrowind, Solsthiem, and beyond.",
           "FileID": 1000002958,
@@ -1962,7 +1962,7 @@
         "Name": "Skip Tutorial 1_0-27266.zip",
         "Size": 11700,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cdcooley",
           "Description": "Do you tire of the tedious tutorial messages whenever you start a new game?  Then this may be for you.  When starting a new game you will be given a choice of three ways to start the game:\r\n\r\nTutorials -- the normal sequence with tutorials\r\nSkip Tutorials -- the normal sequence without the tutorials and delays\r\nQuick Start    -- choose name, race, ",
           "FileID": 48807,
@@ -1983,7 +1983,7 @@
         "Name": "Darker Crates-42453-.7z",
         "Size": 197987,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Wollibeebee",
           "Description": "A bunch of my small mods in one spot, some haven\\\u0027t even been released before.",
           "FileID": 1000000225,
@@ -2004,7 +2004,7 @@
         "Name": "SIR_TBandBM_v3-19467.zip",
         "Size": 2968667,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Alaisiagae",
           "Description": "Replaces various mostly non-flora ingredients and all five soulgems with higher resolution textures that maintain the look and feel of the original textures.",
           "FileID": 36708,
@@ -2025,7 +2025,7 @@
         "Name": "Spell Scroll Text Overhaul V 1.1-42936-1-1.7z",
         "Size": 8452,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tizzo",
           "Description": "Changes the text for virtually every scroll in the game.",
           "FileID": 1000004832,
@@ -2046,7 +2046,7 @@
         "Name": "Tamriel Data (HD)-44537-7-1-1579298818.7z",
         "Size": 1219966593,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Cross-Project Coordination",
           "Description": "Culminating from a year of hard work, Tamriel_Data contains a data unified file structure spearheaded by Project Tamriel and Tamriel Rebuilt as the first adopter.",
           "FileID": 1000016941,
@@ -2067,7 +2067,7 @@
         "Name": "Telvanni Fireplace Replacer-43232-1-0.rar",
         "Size": 42371,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Melchior Dahrk",
           "Description": "This is a model replacer for the Telvanni fireplace/forge mesh: furn_t_fireplace_01.nif",
           "FileID": 1000002782,
@@ -2088,7 +2088,7 @@
         "Name": "TelvanniMeshImprovement1-2-1.zip-42343-1-2-1.zip",
         "Size": 1671235,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Champion of Hircine",
           "Description": "Replaces 43 models for the Telvanni set",
           "FileID": 1000012022,
@@ -2109,7 +2109,7 @@
         "Name": "Texture Fix - Extended-46018-1-2-1565558085.7z",
         "Size": 332068,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Caeris",
           "Description": "Adds additional fixes to the great mod by Slartibartfast.",
           "FileID": 1000015400,
@@ -2130,7 +2130,7 @@
         "Name": "Texture Fix 2.0.7z",
         "Size": 15372408,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://www.dropbox.com/sh/7fv2wojbp6y3uo9/AAAJJNHGtbsISsob7Uz_N4FNa/Texture%20Fix%202.0.7z?dl=1"
         }
@@ -2144,7 +2144,7 @@
         "Name": "Texture_Fix__Bloodmoon_1.1.7z",
         "Size": 2262488,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://www.dropbox.com/sh/7fv2wojbp6y3uo9/AABdOQ5DflPDV3wb4bMx_snla/Texture_Fix__Bloodmoon_1.1.7z?dl=1"
         }
@@ -2158,7 +2158,7 @@
         "Name": "Trueflame-33432.rar",
         "Size": 2549016,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Plangkye",
           "Description": "Pluginless replacer for Trueflame",
           "FileID": 64906,
@@ -2179,7 +2179,7 @@
         "Name": "Ultimate Icon Replacer Lefty v1dot1 FIXED-36948-1.zip",
         "Size": 101409,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Alaisiagae",
           "Description": "Replaces all Morrowind object/inventory icons with better icons!",
           "FileID": 75308,
@@ -2200,7 +2200,7 @@
         "Name": "Ultimate Icon Replacer v1-36948-1.zip",
         "Size": 784705,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Alaisiagae",
           "Description": "Replaces all Morrowind object/inventory icons with better icons!",
           "FileID": 74970,
@@ -2221,7 +2221,7 @@
         "Name": "Unique Finery Replacer v3dot2-25725-1.zip",
         "Size": 2560709,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Alaisiagae",
           "Description": "Gives most special and unique amulets, belts, rings, robes, shoes, and amulets new, unique models.",
           "FileID": 77401,
@@ -2242,7 +2242,7 @@
         "Name": "Unique Jewelry Redone-46151-1-0-1541950623.7z",
         "Size": 710540,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Remiros",
           "Description": "Gives all magic rings and amulets in the game a unique model.",
           "FileID": 1000012494,
@@ -2263,7 +2263,7 @@
         "Name": "Merged and Compatibility Versions-43931-3-1-0-1600156439.7z",
         "Size": 300593,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "PikachunoTM",
           "Description": "An attempt to fix the many issues present in Bethesda\u0027s original Official Plugins. Includes fixes for all of the Official Plugins, and offers merged and compatibility options as well.",
           "FileID": 1000020804,
@@ -2284,7 +2284,7 @@
         "Name": "Vanilla-friendly West Gash Tree Replacer-44173-2-0.7z",
         "Size": 3045838,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Melchior Dahrk",
           "Description": "A West Gash tree replacer for players who desire a look closer to the vanilla game for the region.",
           "FileID": 1000010527,
@@ -2305,7 +2305,7 @@
         "Name": "Visual Pack Combined-44311-3-0.rar",
         "Size": 149092066,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ayse - Lord Gabryael - Qarl - Raptre - Zuldazug",
           "Description": "This visual pack retextures the game of Morrowind to give a it lush, high-res makeover. Works best with MGE or MGE XE.",
           "FileID": 1000005818,
@@ -2326,7 +2326,7 @@
         "Name": "Psy_VGRCreatureEdition_1_2.7z",
         "Size": 3721076,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://www.moddb.com/addons/start/52262"
         }
@@ -2340,7 +2340,7 @@
         "Name": "Voiced Vivec and Yakety Yagrum-40994-1-1.rar",
         "Size": 2240,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Trainwiz",
           "Description": "Adds in missing voice files for Yagrum Bagarn and Vivec.",
           "FileID": 87097,
@@ -2361,7 +2361,7 @@
         "Name": "Vurts Bitter Coast Tree II v1dot1-37489-1.7z",
         "Size": 17823824,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "vurt",
           "Description": "New trees for the Bitter Coast region.",
           "FileID": 87142,
@@ -2382,7 +2382,7 @@
         "Name": "Vurt\u0027s Grazelands Trees v1.31-35368-.7z",
         "Size": 15766967,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "vurt",
           "Description": "New trees for the Grazelands region. 2 esp\u0027s to chose from, one with optional palms and other unique trees.",
           "FileID": 1000004490,
@@ -2403,7 +2403,7 @@
         "Name": "Vurts Mournhold Trees 10a-35400.rar",
         "Size": 1967367,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "vurt",
           "Description": "New trees for Mournhold.",
           "FileID": 70289,
@@ -2424,7 +2424,7 @@
         "Name": "Error fix-45941-1-0.rar",
         "Size": 95433,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "mikkel20088",
           "Description": "Fixes the \u0022Meshes/f/Flora_tree_BM_snow_01.nif\u0022 tex not found \u0022texture/landscape/treepineforestbarkcompsnow_n.dds\u0022 error message.",
           "FileID": 1000011417,
@@ -2445,7 +2445,7 @@
         "Name": "abotWaterlife126d-42417-1-26d-1577784021.7z",
         "Size": 18685737,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "abot",
           "Description": "Water Life is an attempt to mix the scripting techniques developed in the \u0022Where are all bird going?\u0022 plugin with the best aquatic creature modding resources to bring more life into Morrowind waters.\n\n\n\nThis plugin mainly adds to Morrowind (most) peaceful aquatic creatures",
           "FileID": 1000016700,
@@ -2466,7 +2466,7 @@
         "Name": "Waterfalls Tweaks-46271-1-0-1548330045.zip",
         "Size": 7077,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "multiple",
           "Description": "Various modifications to waterfalls and water splashes. Born to fit Better Waterfalls mod.",
           "FileID": 1000013228,
@@ -2487,7 +2487,7 @@
         "Name": "Wey New Argonians (1.75)-43766-1-75.7z",
         "Size": 3401552,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Wey",
           "Description": "Complete head and body replacer for male and female Argonians. Design and colors are based on Skyrim\u0027s vanilla Argonians.",
           "FileID": 1000004240,
@@ -2508,7 +2508,7 @@
         "Name": "What Thieves Guild-47728-1-31-1592656468.zip",
         "Size": 12840204,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Von Djangos",
           "Description": "Adds realistic individual cover \u0027backgrounds\u0027 for thieves in the South Wall, The Rat in the Pot and Dirty Muriel\u0027s.",
           "FileID": 1000019421,
@@ -2529,7 +2529,7 @@
         "Name": "Where are all birds going-43128-1-17.7z",
         "Size": 2569249,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "abot",
           "Description": "Where are all birds going? An attempt to bind flawed Morrowind AI to bring life to most beautiful birds.\n\nThis plugin adds to Morrowind peaceful flying animals based on the wonderful models \u0026amp; textures by Lady Eternity \u0026amp; Proudfoot, Cait Sith, Thaedyn Vyr \u0026amp; Kacper/Kagz, Daduke.",
           "FileID": 1000002536,
@@ -2550,7 +2550,7 @@
         "Name": "Aesthesia Strongholds 2k-46445-1-1552479237.7z",
         "Size": 25304395,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Rytelier",
           "Description": "Vanilla friendly textures for strongholds. 2k resolution, handmade, friendly to game aesthetics.",
           "FileID": 1000013701,
@@ -2571,7 +2571,7 @@
         "Name": "Aesthesia groundcover-46377-1-1549880413.7z",
         "Size": 102267325,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Rytelier",
           "Description": "Grass for Morrowind - vanilla and Tamriel Rebuilt support. Made for every region. Includes Mesh Generator files.",
           "FileID": 1000013460,
@@ -2592,7 +2592,7 @@
         "Name": "Alternate Skies-42629-v1.7z",
         "Size": 40743451,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Hicks233",
           "Description": "A new sky texture and weather .ini settings mod.",
           "FileID": 1000000895,
@@ -2613,7 +2613,7 @@
         "Name": "Animated Main Menu for Skyrim UI Overhaul for Morrowind-43341-1-0.zip",
         "Size": 274825671,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mikeandike",
           "Description": "Replaces the Morrowind main menu with an animated image made to fit the Skyrim UI for Morrowind mod. Requires MGXE.",
           "FileID": 1000003044,
@@ -2634,7 +2634,7 @@
         "Name": "Armors Retexture - Outlander Styles  HQ-44210-1-0.7z",
         "Size": 42463430,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tyddy",
           "Description": "High quality and detailed retexture for armors used by n\u0027wah",
           "FileID": 1000005498,
@@ -2655,7 +2655,7 @@
         "Name": "Ascadian Isles Plants-36810-1.rar",
         "Size": 1871476,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Rhymer",
           "Description": "A small replacer for some Ascadian Isles plants",
           "FileID": 76164,
@@ -2676,7 +2676,7 @@
         "Name": "Better Barnacles-43605-.7z",
         "Size": 64685,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "R-Zero",
           "Description": "This mod replaces the barnacle textures with more high-quality ones  while still staying close to the original design.",
           "FileID": 1000003722,
@@ -2697,7 +2697,7 @@
         "Name": "Better Kegstands 1_1-37708-1-1.7z",
         "Size": 1764693,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tarius",
           "Description": "This is a replacer for the two kegstand models in the game.",
           "FileID": 86872,
@@ -2718,7 +2718,7 @@
         "Name": "Better Meshes 111-38170-1-11.7z",
         "Size": 2551777,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tarius",
           "Description": "This improves different meshes.",
           "FileID": 90518,
@@ -2739,7 +2739,7 @@
         "Name": "Bloastpore retexture simple retexture-42384-1-2.rar",
         "Size": 1239507,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lougian",
           "Description": "",
           "FileID": 1000001944,
@@ -2760,7 +2760,7 @@
         "Name": "Main File-38369-1-0.7z",
         "Size": 25647056,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Saint_Jiub",
           "Description": "Texture overhaul for Sotha Sil\\\u0027s Clockwork City, as seen in the Elder Scrolls expansion Tribunal.",
           "FileID": 79146,
@@ -2781,7 +2781,7 @@
         "Name": "Colovian helm and heavy leather boots retexture-43330-1-0.rar",
         "Size": 4846727,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lougian",
           "Description": "A compilation of small retextures",
           "FileID": 1000003243,
@@ -2802,7 +2802,7 @@
         "Name": "HQ Textures-43486-1-0.zip",
         "Size": 21952525,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tyddy",
           "Description": "Vanilla gamma and style HQ textures for Daedric Shrines.",
           "FileID": 1000003390,
@@ -2823,7 +2823,7 @@
         "Name": "Deadric Ruins -39125-3-1.zip",
         "Size": 50110998,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Bloodinfested",
           "Description": "This is a retexture of the Daedric ruins minus the terrain texture in Morrowind the textures are 1024x1024.The statue textures differ a bit as they are various sizes some exceed 1024 but they are exactly 3 times the res size of the original.",
           "FileID": 1000000215,
@@ -2844,7 +2844,7 @@
         "Name": "Detailed Brooms_1.0-43528-1-0.rar",
         "Size": 161837,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Melchior Dahrk",
           "Description": "An assortment of small mods, tweaks, fixes, and resources.",
           "FileID": 1000004122,
@@ -2865,7 +2865,7 @@
         "Name": "DNArmorTex10241.2.zip-43416-1-2.zip",
         "Size": 113058686,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mike Darknut Niccum",
           "Description": "Darknut\u0027s Armor textures: 1024 Version 1.1\r\n\n",
           "FileID": 1000003564,
@@ -2886,7 +2886,7 @@
         "Name": "Darknut\u0027s Better Clothes Textures-43423-1-0.7z",
         "Size": 50475279,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Darknut",
           "Description": "Calislahn gave me permission to edit the Better Clothes textures so here they are tweaked to My liking ... use them if you want\r\n\n\u0026lt;br /\u0026gt;",
           "FileID": 1000003217,
@@ -2907,7 +2907,7 @@
         "Name": "Darknut\u0027s Creature Textures-43420-1-0.zip",
         "Size": 78465217,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Darknut",
           "Description": "Replacement textures for all but a few of the creatures in Morrowind. (not Tribunal or Bloodmoon)",
           "FileID": 1000003214,
@@ -2928,7 +2928,7 @@
         "Name": "Darknut\u0027s Creature Texture addendum-43441-1-0.zip",
         "Size": 7765453,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Darknut",
           "Description": "This is an addendum to the creature textures",
           "FileID": 1000003270,
@@ -2949,7 +2949,7 @@
         "Name": "Darknut\u0027s Creature Textures BM-43422-1-0.zip",
         "Size": 11140497,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Darknut",
           "Description": "Replacement textures for all but a few of the creatures in Bloodmoon.",
           "FileID": 1000003216,
@@ -2970,7 +2970,7 @@
         "Name": "Darknut\u0027s Creature Textures TB-43421-1-0.zip",
         "Size": 6305391,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Darknut",
           "Description": "Replacement textures for all but a few of the creatures in Tribunal",
           "FileID": 1000003215,
@@ -2991,7 +2991,7 @@
         "Name": "Urns Bump Mapped - HQ-43541-1-0.7z",
         "Size": 13110693,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tyddy",
           "Description": "HQ Retexture and optional replacer for dunmeri urns and planters",
           "FileID": 1000003558,
@@ -3012,7 +3012,7 @@
         "Name": "Dust adept helm retexture-43330-1-0.rar",
         "Size": 2808946,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lougian",
           "Description": "A compilation of small retextures",
           "FileID": 1000004623,
@@ -3033,7 +3033,7 @@
         "Name": "EKM Vanilla-Based Paper Lanterns v1.0-43837-v1-0.7z",
         "Size": 2344436,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Erikaimar",
           "Description": "Replaces the misc_lantern_paper textures with higher resolution ones.",
           "FileID": 1000004314,
@@ -3054,7 +3054,7 @@
         "Name": "FULL DWM RTX HQ-44264-1-0.7z",
         "Size": 167642276,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tyddy",
           "Description": "Full retexture of dwemeri set - architecture, armor and weapon, robots, including content from Tribunal Expansion, in lore-friendly vanilla-like style.",
           "FileID": 1000005692,
@@ -3075,7 +3075,7 @@
         "Name": "Glow in the Dahrk-45886-2-11-1-1615063427.7z",
         "Size": 7761079,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Melchior Dahrk and NullCascade",
           "Description": "This is a modern, pluginless replacement of the old Windows Glow mods with many more features besides! Windows Glow suffered from every mod needing a patch to work with it. Glow in the Dahrk handles this automatically through the meshes themselves with a powerful code by NullCascade which can switch the visible portion of meshes on the fly.",
           "FileID": 1000023235,
@@ -3096,7 +3096,7 @@
         "Name": "Guars-42521-1.rar",
         "Size": 13365486,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tyddy",
           "Description": "My texture replacer of all Guars.",
           "FileID": 1000000384,
@@ -3117,7 +3117,7 @@
         "Name": "Hackle-lo fixed-42784-1-0a.7z",
         "Size": 1727659,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Pherim",
           "Description": "A replacer for the hackle-lo plant with corrected meshes and improved textures",
           "FileID": 1000002358,
@@ -3138,7 +3138,7 @@
         "Name": "16x9 Version-39329-v1-0.zip",
         "Size": 57602497,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Chesko",
           "Description": "An HD recreation of the original Intro Cinematic.",
           "FileID": 81971,
@@ -3159,7 +3159,7 @@
         "Name": "Hlaalu Arkitektora - HQ-46246-2-0-1545762177.rar",
         "Size": 20707582,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tyddy",
           "Description": "New. Better. Detailed. Richer. Closer to vanilla.\n\nTextures of Great House Hlaalu.",
           "FileID": 1000012907,
@@ -3180,7 +3180,7 @@
         "Name": "Ordo Arkitektora HQ-43940-1-0.7z",
         "Size": 70992922,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tyddy",
           "Description": "Full HQ and vanilla style retexture for houses and castles of imperial colonists in Vvardenfell.",
           "FileID": 1000004587,
@@ -3201,7 +3201,7 @@
         "Name": "HQ Textures-43520-1-0.7z",
         "Size": 65806270,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tyddy",
           "Description": "Contains new textures for wooden shacks, docks and ships (include rowboats and gondolas).",
           "FileID": 1000003469,
@@ -3222,7 +3222,7 @@
         "Name": "Kwama Egg sacs and Eggs Replacer-43555-1-1.7z",
         "Size": 1144147,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Pherim",
           "Description": "A mesh and texture replacer for the kwama eggs and egg sacs with optional pulsing animation and bump maps.",
           "FileID": 1000003627,
@@ -3243,7 +3243,7 @@
         "Name": "Improved Weapon Meshes - Steel-43120-1-3.7z",
         "Size": 485049,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Pherim",
           "Description": "New and more detailed meshes for all steel weapons.",
           "FileID": 1000002995,
@@ -3264,7 +3264,7 @@
         "Name": "JiFFY Morrowind UI Revamped-43922-1-06.zip",
         "Size": 10511533,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "jiffyadvent",
           "Description": "HD New look and overhaul to Morrowind\u0027s UI with keeping to the base design scheme.",
           "FileID": 1000004586,
@@ -3285,7 +3285,7 @@
         "Name": "Lougians colovian helm fix-43795-1.7z",
         "Size": 1821734,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "borok",
           "Description": "Small mods, tweaks and fixes.",
           "FileID": 1000005543,
@@ -3306,7 +3306,7 @@
         "Name": "Tyddys Telvanni Fixes-43795-1.7z",
         "Size": 4124032,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "borok",
           "Description": "Small mods, tweaks and fixes.",
           "FileID": 1000009309,
@@ -3327,7 +3327,7 @@
         "Name": "Melchior\u0027s Magnificent Manuscript-45626-1-2-1555374336.7z",
         "Size": 906324,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Melchior Dahrk",
           "Description": "Model replacer for all of the vanilla books.",
           "FileID": 1000014008,
@@ -3348,7 +3348,7 @@
         "Name": "Saints and Tribunal Frescoes HQ (upd)-43810-1-0a.7z",
         "Size": 13597509,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tyddy",
           "Description": "Retexture for saints, Tribuns and TT-frescoes",
           "FileID": 1000004262,
@@ -3369,7 +3369,7 @@
         "Name": "Pherim\u0027s Fire Fern and Fire Petal-43568-1-2.7z",
         "Size": 2379045,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Pherim",
           "Description": "A mesh and textures replacer for the Fire Fern plant and the Fire Petal ingredient.",
           "FileID": 1000011009,
@@ -3390,7 +3390,7 @@
         "Name": "Plant Life v2-1-37947-2-1.zip",
         "Size": 11071811,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Bloodinfested",
           "Description": "This is a alternative mix retexture replacement of the plants that are in Morrowind...",
           "FileID": 90433,
@@ -3411,7 +3411,7 @@
         "Name": "R-Zero\u0027s Random Retextures - Quill-44025-1-0.7z",
         "Size": 20010,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Take a Wild Guess Who",
           "Description": "A collection of texture replacers made by yours truly.",
           "FileID": 1000004913,
@@ -3432,7 +3432,7 @@
         "Name": "Real Reflective Weapons - Iron-43077-1-3.7z",
         "Size": 15465596,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Pherim",
           "Description": "A realistic replacer for the iron weapon meshes and textures with bump maps and reflection maps.",
           "FileID": 1000002910,
@@ -3453,7 +3453,7 @@
         "Name": "Redoran Arkitektora - HQ-46235-2-0-1545605818.rar",
         "Size": 25280996,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tyddy",
           "Description": "New. Better. Detailed. Richer. Closer to vanilla.\n\nTextures of Great House Redoran and Ald Skar.",
           "FileID": 1000012881,
@@ -3474,7 +3474,7 @@
         "Name": "Remiros\u0027 Ascadian Isles Trees - Vanilla-45779-2-1-1556198681.7z",
         "Size": 10368624,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Remiros",
           "Description": "Replaces all of the trees in the Ascadian Isles region.",
           "FileID": 1000014117,
@@ -3495,7 +3495,7 @@
         "Name": "Mist Retexture-44322-1-0.7z",
         "Size": 91610,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Remiros",
           "Description": "Collection of small retextures.",
           "FileID": 1000009326,
@@ -3516,7 +3516,7 @@
         "Name": "SetInStone-21377.rar",
         "Size": 5341930,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Aeven",
           "Description": "Replaces statue textures.",
           "FileID": 34854,
@@ -3537,7 +3537,7 @@
         "Name": "Sewer vanilla HQ-43144-1.rar",
         "Size": 6694855,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tyddy",
           "Description": "Vanilla gamma and style sewer retexture.",
           "FileID": 1000002580,
@@ -3558,7 +3558,7 @@
         "Name": "Silverware Repolished-46385-1-3-1560408598.7z",
         "Size": 1323009,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Pherim",
           "Description": "Improved meshes with upscaled and atlased textures and optional bump maps for silverware items.",
           "FileID": 1000014905,
@@ -3579,7 +3579,7 @@
         "Name": "Skeleton and Metal Sparks blood retexture-43359-1-0.7z",
         "Size": 90447,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "R-Zero",
           "Description": "While there are a couple of retextures for default red blood available, there were none for two other blood types - Skeleton (white) and Metal Sparks (gold). So, I went and made them.",
           "FileID": 1000003084,
@@ -3600,7 +3600,7 @@
         "Name": "VSW_Solstheim_Graphical_Replacer_V2.1.0-46810-2-1-0-1584270620.7z",
         "Size": 74522778,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "TOTSP Team",
           "Description": "ToTSP\u0027s goal is to improve the graphical fidelity, environmental design, and gameplay of the Bloodmoon DLC\u0027s to a level that is consistent with modern Tes3 mod projects, such as Tamriel Rebuilt and Project Tamriel.",
           "FileID": 1000017520,
@@ -3621,7 +3621,7 @@
         "Name": "Swamp Rocks - Default-45673-1-1.zip",
         "Size": 2853737,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "CptJoker",
           "Description": "A highly-detailed rock replacement texture for the one rock used over 3000 times in the Bitter Coast region (and likely elsewhere.) Seriously, this one texture is everywhere, so might as well have a nice one! Designed to enhance the swampy feel of coastal marshes.",
           "FileID": 1000010311,
@@ -3642,7 +3642,7 @@
         "Name": "AoVv Telvanni HQ-43530-1-1.7z",
         "Size": 63042807,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tyddy",
           "Description": "Vanilla gamma ans style HQ Telvanni and mushrooms retexture.",
           "FileID": 1000003524,
@@ -3663,7 +3663,7 @@
         "Name": "AoVv Telvanni Bump Maps HQ-43530-1-0.7z",
         "Size": 48485250,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tyddy",
           "Description": "Vanilla gamma ans style HQ Telvanni and mushrooms retexture.",
           "FileID": 1000003518,
@@ -3684,7 +3684,7 @@
         "Name": "Telvanni - Arkitektora of Vvardenfell HQ - Bump Maps - Missing Glow Maps-43795-1-1555671296.7z",
         "Size": 304880,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "borok",
           "Description": "Small mods, tweaks and fixes.",
           "FileID": 1000014047,
@@ -3705,7 +3705,7 @@
         "Name": "Vanilla Land v.1.1-45953-1-1.rar",
         "Size": 355806679,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Otis_Geo Tyddy Lougian",
           "Description": "New hi-rez textures of all regions. Textures repeat the style of the original game, and using these textures you can recall your old experience of the journey through Valilla Land in 2k.",
           "FileID": 1000011864,
@@ -3726,7 +3726,7 @@
         "Name": "Vivec and Velothi Arkitektora  - HQ-46266-2-0-1546272606.rar",
         "Size": 93756703,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tyddy",
           "Description": "New. Better. Detailed. Richer. Closer to vanilla.\n\nTextures of Vivec City and Velothi Architecture.",
           "FileID": 1000012962,
@@ -3747,7 +3747,7 @@
         "Name": "Volendrung retexture-43330-1-0.rar",
         "Size": 2548802,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lougian",
           "Description": "A compilation of small retextures",
           "FileID": 1000004624,
@@ -3768,7 +3768,7 @@
         "Name": "Vurt Mournhold Deadtrees-45770-1-0.zip",
         "Size": 1733798,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Vurt",
           "Description": "Forgotten replacer for Mournhold dead trees by Vurt. Changes comes after ash storms in Mournhold. Trees are animated.",
           "FileID": 1000010586,
@@ -3789,7 +3789,7 @@
         "Name": "Vurts_Lava_and_Smoke11a-28519.rar",
         "Size": 10620316,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "vurt",
           "Description": "4 Hi-res lava retextures to choose from and new smoke textures.",
           "FileID": 52295,
@@ -3810,7 +3810,7 @@
         "Name": "Vurts Silt Strider Retexture-30696.rar",
         "Size": 4970735,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "vurt",
           "Description": "Silt Strider retexture by vurt.",
           "FileID": 57514,
@@ -3831,7 +3831,7 @@
         "Name": "Solstheim Tree Replacer II-37856-1-2-1592711914.7z",
         "Size": 28723491,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "vurt",
           "Description": ".esp-less tree replacer for the Solstheim region.",
           "FileID": 1000019456,
@@ -3852,7 +3852,7 @@
         "Name": "Aesthesia Groundcover - darker-46377-1-1557670851.7z",
         "Size": 2152321,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Rytelier",
           "Description": "Grass for Morrowind - vanilla and Tamriel Rebuilt support. Made for every region. Includes Mesh Generator files.",
           "FileID": 1000014485,
@@ -3873,7 +3873,7 @@
         "Name": "Alit-42520-1.rar",
         "Size": 5680237,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tyddy",
           "Description": "Replacer and retexture of alit, using Hedgehog-12 mesh and my texture.",
           "FileID": 1000000383,
@@ -3894,7 +3894,7 @@
         "Name": "Correct_UV_Rocks_1.5-46104-1-5-1579767969.7z",
         "Size": 861239,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Nich",
           "Description": "This plugin corrects the UV mapping on the stones. Now they will not be seams and blurred images\n\nI added some lower parts to some stones.",
           "FileID": 1000017009,
@@ -3915,7 +3915,7 @@
         "Name": "Dwemer Armoury-43335-0-95.7z",
         "Size": 691143,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Daedra von OpenSource",
           "Description": "Replacer for Dwemer armours and weapons",
           "FileID": 1000003032,
@@ -3936,7 +3936,7 @@
         "Name": "Ingredients Mesh Replacer 2.2-44067-2-2.7z",
         "Size": 149000,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Remiros",
           "Description": "Replaces the meshes of some ingredients in the game.",
           "FileID": 1000005529,
@@ -3957,7 +3957,7 @@
         "Name": "Kagouti-42523-1.rar",
         "Size": 5954655,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tyddy",
           "Description": "Replacer and retexture of alit, using Hedgehog-12 mesh and my texture.",
           "FileID": 1000000386,
@@ -3978,7 +3978,7 @@
         "Name": "MOAR_Meshes_1.05-44057-1-05.rar",
         "Size": 2618816,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lord Berandas",
           "Description": "More detailes meshes for \u0026#34;com\u0026#34; and \u0026#34;de\u0026#34; dock pieces and others.",
           "FileID": 1000006546,
@@ -3999,7 +3999,7 @@
         "Name": "Nix-Hound Replacer 1.0-43620-1-0.7z",
         "Size": 4591894,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "PeterBitt and Pherim",
           "Description": "This is a mesh and texture replacer for the Nix-Hound creature.\n\n\n\nNow with full PBR support for the MGE XE Physically Based Rendering Prototype.",
           "FileID": 1000005212,
@@ -4020,7 +4020,7 @@
         "Name": "R-Zero\u0027s Random Replacers - Iron Towershield-44025-1-0.7z",
         "Size": 8682,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Take a Wild Guess Who",
           "Description": "A collection of texture replacers made by yours truly.",
           "FileID": 1000006362,
@@ -4041,7 +4041,7 @@
         "Name": "RR - Better Meshes V1.4-43266-1-4-1579806968.rar",
         "Size": 13293191,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Resdayn Revival Team",
           "Description": "Properly smoothed vanilla meshes",
           "FileID": 1000017015,
@@ -4062,7 +4062,7 @@
         "Name": "seagulldeathfix-43128-1-18.7z",
         "Size": 34739,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "abot",
           "Description": "Where are all birds going? An attempt to bind flawed Morrowind AI to bring life to most beautiful birds.\n\nThis plugin adds to Morrowind peaceful flying animals based on the wonderful models \u0026amp; textures by Lady Eternity \u0026amp; Proudfoot, Cait Sith, Thaedyn Vyr \u0026amp; Kacper/Kagz, Daduke.",
           "FileID": 1000007050,
@@ -4083,7 +4083,7 @@
         "Name": "UI Expansion v1.1-46071-1-1-1565640975.zip",
         "Size": 74425,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "NullCascade",
           "Description": "Expands UI functionality with searching, filtering, and more visual feedback.",
           "FileID": 1000015414,
@@ -4104,7 +4104,7 @@
         "Name": "Vivec and Velothi Arkitektora  - ATLAS HQ-46266-1-0-1546272773.rar",
         "Size": 7573354,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tyddy",
           "Description": "New. Better. Detailed. Richer. Closer to vanilla.\n\nTextures of Vivec City and Velothi Architecture.",
           "FileID": 1000012964,
@@ -4125,7 +4125,7 @@
         "Name": "Vurt\u0027s Bitter Coast Trees II - Remastered and Optimized-46418-1-1551452907.7z",
         "Size": 1646875,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Vurt and Rytelier",
           "Description": "Vurt\u0027s Bitter Coast Trees II with optimizations and model fixes so their performance is much better and their bugs are fixed.",
           "FileID": 1000013597,
@@ -4146,7 +4146,7 @@
         "Name": "Landscape Retexture 2K-42575-2-5.rar",
         "Size": 201059763,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lougian",
           "Description": "Retexture of all regions",
           "FileID": 1000009041,
@@ -4167,7 +4167,7 @@
         "Name": "Data Files_Tribunal.bsa",
         "Size": 64986032,
         "State": {
-          "$type": "GameFileSource",
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Morrowind",
           "GameFile": "Data Files\\Tribunal.bsa",
           "GameVersion": "1.6.1820",
@@ -4183,7 +4183,7 @@
         "Name": "Data Files_Morrowind.bsa",
         "Size": 310459500,
         "State": {
-          "$type": "GameFileSource",
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Morrowind",
           "GameFile": "Data Files\\Morrowind.bsa",
           "GameVersion": "1.6.1820",
@@ -4199,7 +4199,7 @@
         "Name": "Data Files_Bloodmoon.bsa",
         "Size": 118425318,
         "State": {
-          "$type": "GameFileSource",
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Morrowind",
           "GameFile": "Data Files\\Bloodmoon.bsa",
           "GameVersion": "1.6.1820",

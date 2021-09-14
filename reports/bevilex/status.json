@@ -12,7 +12,7 @@
         "Name": "Mod.Organizer-2.4.2.7z",
         "Size": 89503525,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z"
         }
@@ -26,7 +26,7 @@
         "Name": "enbseries_oblivion_v0181.zip",
         "Size": 1508958,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [
             "Referer:http://enbdev.com/download_mod_tesoblivion.htm"
           ],
@@ -39,7 +39,7 @@
         "Name": "enbseries_oblivion_v0181.zip",
         "Size": 1508958,
         "State": {
-          "$type": "WabbajackCDN",
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
           "Url": "https://mirror.wabbajack.org/a0213324c375dc67"
         }
       }
@@ -52,7 +52,7 @@
         "Name": "Alex\u0027s Oblivion ENB Preset - Redone-50342-1-0-0-1597174042.rar",
         "Size": 56831,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "AngryKarakuri",
           "Description": "Realistic ENB for gameplay. See for yourself, traveler!\n\nPersonalized version and 100% vanilla feel versions available with some customization options.",
           "FileID": 1000025527,
@@ -73,7 +73,7 @@
         "Name": "xOBSE22.4.1.7z",
         "Size": 3091855,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/llde/xOBSE/releases/download/22.4.1/xOBSE22.4.1.7z"
         }
@@ -87,7 +87,7 @@
         "Name": "Readme.txt",
         "Size": 22450,
         "State": {
-          "$type": "GameFileSource",
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Oblivion",
           "GameFile": "Readme.txt",
           "GameVersion": "1.2.0416",
@@ -103,7 +103,7 @@
         "Name": "Alive Waters No Fish-44069-1-0.7z",
         "Size": 39988,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Windsurfer",
           "Description": "An updated version of the great Alive Waters mod.",
           "FileID": 1000003373,
@@ -124,7 +124,7 @@
         "Name": "Alluring Wine Bottles with Real Glass-46789-1-0.7z",
         "Size": 881711,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "jbvw and maczopikczo",
           "Description": "A little visual treat for your booze cruise.",
           "FileID": 1000013124,
@@ -145,7 +145,7 @@
         "Name": "Animated Window Lighting System v5-5-4-19628.7z",
         "Size": 103149114,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "XMarksTheSpot-Brumbek-Ismelda",
           "Description": "A replacement of the Texian\\\u0027s Window Lighting System now with animated meshes with a tool to animate your own building windows. It also comes now with Chimney Smoke.",
           "FileID": 80773,
@@ -166,7 +166,7 @@
         "Name": "BlackwoodJungle Update2-47043-.zip",
         "Size": 3987604,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Betty",
           "Description": "Changes of JFE for Blackwood only",
           "FileID": 1000014722,
@@ -187,7 +187,7 @@
         "Name": "Book Jackets DLC Misc-49260-1-2-1580642171.7z",
         "Size": 5062413,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Oooiii",
           "Description": "Adds new book jackets and icons to the books from Frostcrag Spire, Battlehorn Castle and others.",
           "FileID": 1000023864,
@@ -208,7 +208,7 @@
         "Name": "Book_Jackets_KOTN_v10-27521.zip",
         "Size": 2366353,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "rob_b",
           "Description": "Book Jackets replacement for Knights of the Nine",
           "FileID": 49497,
@@ -229,7 +229,7 @@
         "Name": "Book Jackets Oblivion High Res-5570.7z",
         "Size": 97314106,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "",
           "Description": "** Note: Book Placement v2 has been released and is fully compatible with this mod. You\\\u0027ll probably like it better than version 1.2 which is linked in my readme. To find v2, click on my username... and there it is. **\r\n\r\nBook Jackets: Oblivion is a basic retexture for all of the stock hardcover books in Oblivion, giving each title a unique textu",
           "FileID": 25843,
@@ -250,7 +250,7 @@
         "Name": "Consistent Beggar Voices 1.2 (Audio Quality Fix)-48336-1-2-1548891578.rar",
         "Size": 9916639,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Publick Gamer",
           "Description": "The beggars\u0027 inconsistent voices is probably one the most notorious and hilarious audio mistakes in gaming history. This mod rectifies that, by replacing all the male and female imperial beggar dialogue, with the original versions from earlier in development, that ARE consistent! No more mid-dialogue voice changes, hooray!",
           "FileID": 1000021224,
@@ -271,7 +271,7 @@
         "Name": "Custom Spell Icons v3_1-26196.zip",
         "Size": 1546815,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "statttis",
           "Description": "Mods have added so much variety to magic in Oblivion. Between Midas Magic and LAME, I can easily have 30 different unique script effect spells. Problem is, they all have the exact same icon. This mod solves that problem.",
           "FileID": 63116,
@@ -292,7 +292,7 @@
         "Name": "Devastation of Kvatch Redux-48554-1-4-1-1589040407.7z",
         "Size": 1334281,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "zymurgy65",
           "Description": "An adaptation of Guinefort1\u0027s \u201CDevastation of Kvatch \u2013 Scattered Weapons\u201D mod, affecting only Kvatch and the Cheydinhal Oblivion realm featured in \u201CThe Wayward Knight\u201D.  Adds dead guards, civilians, and daedra.",
           "FileID": 1000024692,
@@ -313,7 +313,7 @@
         "Name": "Distinct Ayleid Boss Chests-49483-1-0-1561895173.zip",
         "Size": 1813796,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mixxa77",
           "Description": "Gives a unique look to the ayleid boss level loot chests, so that they are easier to distinguish.",
           "FileID": 1000022491,
@@ -334,7 +334,7 @@
         "Name": "DEI OBSE Patch-49511-1-0-1563036466.zip",
         "Size": 445752,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "riklund and aitch-zed",
           "Description": "Diverse Effect Icons with OBSE support for better compatibility.",
           "FileID": 1000022595,
@@ -355,7 +355,7 @@
         "Name": "Dynamic Map 2_1_1-35969.7z",
         "Size": 22981415,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "TheNiceOne",
           "Description": "Your world map displays correct terrain for the active mods you have. Also let you zoom your world map in/out.",
           "FileID": 85640,
@@ -376,7 +376,7 @@
         "Name": "Enhanced Vegetation SI-47535-1.zip",
         "Size": 2090,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wakkoswami",
           "Description": "Increases the size of tree/shrub billboards and canopy shadows in the Shivering Isles to 125%/150% for those using Enhanced Vegetation by LprMan.",
           "FileID": 1000015982,
@@ -397,7 +397,7 @@
         "Name": "file-48145-1.7z",
         "Size": 1403,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "GBRPlus",
           "Description": "This small plugin will boost your game!",
           "FileID": 1000018053,
@@ -418,7 +418,7 @@
         "Name": "Falling Leaves V1_0 BAIN-44257-1-0 (1).rar",
         "Size": 67933,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Carah",
           "Description": "Adds falling leaves to the trees in the autumn forest located north-east of Chorrol.",
           "FileID": 1000003945,
@@ -439,7 +439,7 @@
         "Name": "Falling Stars-35593-1.7z",
         "Size": 6560,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Phitt",
           "Description": "A tiny mod that adds falling stars to the game. They appear randomly at night when the sky is clear, the amount can be adjusted via console.",
           "FileID": 70882,
@@ -460,7 +460,7 @@
         "Name": "Enemies keep weapons in inventory-46674-.7z",
         "Size": 622,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "mastergunforyou",
           "Description": "Enemies don\u00B4t drop weapons to the ground anymore, the shields and weapons stay in their inventory. \r\n\nWith this it\u00B4s save that you\u00B4ll get the gear you\u00B4ve earned by killing the target and they won\u00B4t glitch away and without searching.\r\n\n",
           "FileID": 1000016516,
@@ -481,7 +481,7 @@
         "Name": "My Grey Prince-49318-1-3-1556129705.7z",
         "Size": 1153,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "monkeyangie",
           "Description": "gives back the original color to the Gray Prince",
           "FileID": 1000021890,
@@ -502,7 +502,7 @@
         "Name": "GOSH v2-1-45214-2-1.zip",
         "Size": 130711873,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "lazygecko",
           "Description": "Bethesda hates him! Overhaul your Oblivion sound with this one weird trick.",
           "FileID": 1000009969,
@@ -523,7 +523,7 @@
         "Name": "Shivering Book Jackets-16247.7z",
         "Size": 10243185,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Grimbot",
           "Description": "Texture replacers for Shivering Isles books and for DLCSpellTomes.",
           "FileID": 25065,
@@ -544,7 +544,7 @@
         "Name": "Grimbots Spell Tomes-16247.7z",
         "Size": 27895007,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Grimbot",
           "Description": "Texture replacers for Shivering Isles books and for DLCSpellTomes.",
           "FileID": 25066,
@@ -565,7 +565,7 @@
         "Name": "Hackdirt Alive-42948-.7z",
         "Size": 32428354,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Drahenne",
           "Description": "If I were an icky icky fish, scaly slippery froglike kind of man...",
           "FileID": 92936,
@@ -586,7 +586,7 @@
         "Name": "HackdirtAliveFix.zip",
         "Size": 69057,
         "State": {
-          "$type": "GoogleDrive",
+          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
           "Id": "1koW6d7doH3gZzio2Xgy38LH8Et97oSNu"
         }
       }
@@ -599,7 +599,7 @@
         "Name": "Harvest Flora v3_0_1-2037.zip",
         "Size": 5628614,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Quarn and Dejunai",
           "Description": "This mod will make all flora behave more realistically by changing their appearance when you harvest them (whether you are successful or not). When you harvest a plant if its ingredient is a flower then the plant\\\u0027s flowers will disappear and so on, through some plants ingredients are roots which they don\\\u0027t have and you can\\\u0027t see them anywa",
           "FileID": 21250,
@@ -620,7 +620,7 @@
         "Name": "Immersive Interiors 0-81-34199.zip",
         "Size": 4576676,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SomeWelshGuy",
           "Description": "Immersive Interiors adds new found realism to the game, allowing you to see out of the interior windows. This means you can be in the local pub staring out of the window at the town around you, or watch the sun set behind the city walls.",
           "FileID": 81392,
@@ -641,7 +641,7 @@
         "Name": "Immersive Interiors - Bravil Leyawiin New_Sheoth-45297-3-0.7z",
         "Size": 1620665,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "127ms",
           "Description": "Add-on for \u0026#34;Immersive Interiors\u0026#34; by SomeWelshGuy.",
           "FileID": 1000014569,
@@ -662,7 +662,7 @@
         "Name": "Immersive Interiors - Imperial City 1.5-47039-1-5.7z",
         "Size": 37833961,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "An_dz",
           "Description": "Increase your immersion and realism seeing the outside world of the Imperial City from the interior windows.\r\n\n\r\n\nThis is a continuation of the original Immersive Interiors mod by SomeWelshGuy.",
           "FileID": 1000015706,
@@ -683,7 +683,7 @@
         "Name": "ImmersiveInteriorsLandscapeAddOn_1_10-43072-1-10.7z",
         "Size": 11869759,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Gruftikus",
           "Description": "Adds distant landscape LODs to the Immersive Interiors done by SomeWelshGuy. The following cities have been patched: Bruma, Cheydinhal and Chorrol",
           "FileID": 93514,
@@ -704,7 +704,7 @@
         "Name": "Shimmer\u0027s Interior Draw Distance Fix-49335-1-0-1556817660.zip",
         "Size": 258870,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Shimmer",
           "Description": "Fixes the very short clipping distance on interiors. This bug is not noticeable in the vanilla game but it is very noticeable when playing with mods that disable interior fog or with ENB that handles fog differently. See the images to see what I mean.",
           "FileID": 1000021952,
@@ -725,7 +725,7 @@
         "Name": "KvGuardFeaturesDevastationReduxPatch.7z",
         "Size": 7815,
         "State": {
-          "$type": "GoogleDrive",
+          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
           "Id": "1ATSHg2SYWj8k9bttjbvYSxu47ULHySF2"
         }
       }
@@ -738,7 +738,7 @@
         "Name": "Lights of Oblivion - Imperial Mesh-46131-1-5.7z",
         "Size": 22347,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "monkeyangie",
           "Description": "Adds exterior light posts to all the main roads of Cyrodiil, and lanterns to settlements and inns. You can choose between 6 different light posts.",
           "FileID": 1000017913,
@@ -759,7 +759,7 @@
         "Name": "LoadingScreensThemedAddOn-16020.7z",
         "Size": 21379614,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Trollf",
           "Description": "Loading Screens Themed AddOn is the mod that adds to the game 300 new loading screens with appropriate descriptions.",
           "FileID": 21970,
@@ -780,7 +780,7 @@
         "Name": "LoadingScreens-13012.7z",
         "Size": 22063749,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Trollf",
           "Description": "In vanilla Oblivion there are only 43 different loading screens combined with 278 loading descriptions (however some of these are the same). This mod links each of these original descriptions with different and unique loading screen. Each loading description is connected with matching loading screen (hence \\\u0027themed\\\u0027 in mod\\\u0027s name). This mea",
           "FileID": 14711,
@@ -801,7 +801,7 @@
         "Name": "LoadingScreensSI-15852.7z",
         "Size": 4171687,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Trollf",
           "Description": "Loading Screens Themed Replacer for Shivering Isles official expansion.",
           "FileID": 21597,
@@ -822,7 +822,7 @@
         "Name": "Local Guards Features 1.1-45517-1-1.7z",
         "Size": 35209972,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "tbsk",
           "Description": "Townguards equipments replacer by local regions",
           "FileID": 1000010180,
@@ -843,7 +843,7 @@
         "Name": "Local Guards Features - Kvatch Addon-48779-1-0.7z",
         "Size": 1674456,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mixxa77",
           "Description": "Expands tbsk\u0027s excellent \u0022Local Guards Features\u0022 mod to also include some unqiue armor for the Guards and Soldiers of Kvatch.",
           "FileID": 1000020248,
@@ -864,7 +864,7 @@
         "Name": "Local Guards Features - Thorn Addon-49043-1-0-1544956288.7z",
         "Size": 2876156,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mixxa77",
           "Description": "Expands tbsk\u0027s excellent \u0022Local Guards Features\u0022 mod to also include some unqiue armor for the Knights of the Thorn.",
           "FileID": 1000020961,
@@ -885,7 +885,7 @@
         "Name": "Local Guards Features Unofficial Patch-49896-1-0-1581652829.7z",
         "Size": 187969,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "tbsk - Oooiii",
           "Description": "This unofficial patch for the mod Local Guards Features fixes some incompatibilities between the Unofficial Oblivion Patch, the Knights of the Nine official DLC and the mod.",
           "FileID": 1000023938,
@@ -906,7 +906,7 @@
         "Name": "Loot Menu-48027-2-1-1564843942.7z",
         "Size": 694243,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ersh - original mod by Gribbleshnibit8",
           "Description": "A container loot menu for Oblivion, inspired by Fallout 4. Two UI styles to choose from.",
           "FileID": 1000022708,
@@ -927,7 +927,7 @@
         "Name": "NAO - Natural and Atmospheric Oblivion-50923-1-0-1616065545.zip",
         "Size": 6862198,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "L00",
           "Description": "Cleanest, lightweight and consistent weather overhaul for Oblivion.",
           "FileID": 1000027251,
@@ -948,7 +948,7 @@
         "Name": "NPC Hair Matches Beard - Updated-49861-1-2-1-1595061182.7z",
         "Size": 782326,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "MissMismatch and Oooiii",
           "Description": "Small modification for the NPC Hair Matches Beard mod by MissMismatch.",
           "FileID": 1000025319,
@@ -969,7 +969,7 @@
         "Name": "Oblivion Character Overhaul Cleaned-51324-1-0-0-1629621814.7z",
         "Size": 1039905,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "PushTheWinButton",
           "Description": "A plugin replacer for Oblivion Character Overhaul that removes all dirty edits and ITM records. Optionally restores vanilla hairs.",
           "FileID": 1000028736,
@@ -990,7 +990,7 @@
         "Name": "Oblivion Character Overhaul Cleaned - Vanilla Hair-51324-1-0-0-1629621931.7z",
         "Size": 25790,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "PushTheWinButton",
           "Description": "A plugin replacer for Oblivion Character Overhaul that removes all dirty edits and ITM records. Optionally restores vanilla hairs.",
           "FileID": 1000028737,
@@ -1011,7 +1011,7 @@
         "Name": "Oblivion Character Overhaul v203-44676-2-03.zip",
         "Size": 180400201,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "nuska",
           "Description": "A comprehensive, all-in-one revamp of Oblivion character heads. New head shapes, skin textures, normal maps, eye textures and some new hairstyles covering all races in the game, including Dremoras and Shivering Isles races, all built to a single unified art direction that adheres to the styles of Skyrim and TESO. Affects both player and NPCs.",
           "FileID": 1000007063,
@@ -1032,7 +1032,7 @@
         "Name": "OCOv2 - Bashed Patch Eyes Fix-49988-1-1-1585242856.7z",
         "Size": 889,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Nuska - laulajatar - Dispensation",
           "Description": "Fixes the Dark Seducer, Dremora and Golden Saint eyes when using OCOv2 with a Bashed Patch.",
           "FileID": 1000024319,
@@ -1053,7 +1053,7 @@
         "Name": "OCOv2 - DLC Faces-48557-1-2-1553765900.7z",
         "Size": 17694,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Dispensation",
           "Description": "Fix for Oblivion Character Overhaul v2.",
           "FileID": 1000021639,
@@ -1074,7 +1074,7 @@
         "Name": "OCOv2 Character Tweaks-47979-.zip",
         "Size": 1046861,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "virulentrose",
           "Description": "Martin looks like he\u0027s half melted, and The Adoring Fan gives me nightmares with OCO installed. This restores their original hairstyles as well.",
           "FileID": 1000017542,
@@ -1095,7 +1095,7 @@
         "Name": "Original Color Darker Nights-4135.zip",
         "Size": 308585,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "klump",
           "Description": "Makes Oblivions nights darker. \r\n\r\nIn contrast to the first darker nights mod, this one doesn\u00C2\u00B4t make the nights completely black. The bluish colors of Oblivions normal nights remain, so you you can still see something, just the brightness is turned down quite a bit (new values are about 30% of the original values).\r\n\r\n\r\nI sincerely recommend the f",
           "FileID": 3342,
@@ -1116,7 +1116,7 @@
         "Name": "Quest Log Manager 1_3_2b-32266-1-3-2b.rar",
         "Size": 65334,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "TheNiceOne",
           "Description": "All Oblivion players know that the \\\u0022Current Quests\\\u0022 log can become cluttered by all the quests you have started. Quest Log Manager helps you, by adding a new \\\u0022Hidden Quests\\\u0022 log where you can move away all current quests you\\\u0027re not interested in for the time being, and later move them back if you want. Quest Log Manager also lets you swap betw",
           "FileID": 71265,
@@ -1137,7 +1137,7 @@
         "Name": "Aurora in motion Update1-46917-.zip",
         "Size": 106826,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Betty",
           "Description": "Animated and calm.",
           "FileID": 1000013653,
@@ -1158,7 +1158,7 @@
         "Name": "Potions-49068-1-1-1546355116.7z",
         "Size": 9177125,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "monkeyangie",
           "Description": "Retexture of the potions and poisons with included icons",
           "FileID": 1000021048,
@@ -1179,7 +1179,7 @@
         "Name": "Reworked Post - Carved Letters-47223-1-6-1616519667.7z",
         "Size": 8563938,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "monkeyangie",
           "Description": "Changes all the post signs in Cyrodiil.",
           "FileID": 1000027320,
@@ -1200,7 +1200,7 @@
         "Name": "SR- OCOv2 44676-45859-1-5a-1621134647.7z",
         "Size": 112244755,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "junkacc11",
           "Description": "Seamless Replacers for OCOv2\u0027s Heads and Textures.",
           "FileID": 1000027820,
@@ -1221,7 +1221,7 @@
         "Name": "Shiny Septims - Oblivion-23733.rar",
         "Size": 774392,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Painkiller_Rider",
           "Description": "Replacer for all the gold coins in the game with new meshes and textures.",
           "FileID": 40569,
@@ -1242,7 +1242,7 @@
         "Name": "Silent Tracks Expanded v1.0-12909.zip",
         "Size": 118462,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sneakstep",
           "Description": "Hi,\r\n\r\nI made a couple of [i]silent tracks[/i] of different length and put them into the explore, public and dungeon folder.\r\n\r\n. 15\\\u0027 - 1x\r\n. 30\\\u0027 - 2x\r\n. 45\\\u0027 - 2x\r\n. 60\\\u0027 - 2x\r\n. 90\\\u0027 - 1x\r\n\r\nThe effect is great! I didn\\\u0027t like it when one track played after another without any pause. Now there is a random chance of getting a silent ",
           "FileID": 14511,
@@ -1263,7 +1263,7 @@
         "Name": "Snowy Road To Bruma-43724-.zip",
         "Size": 2220527,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Yuril and Drahenne",
           "Description": "Let it snow.",
           "FileID": 1000002066,
@@ -1284,7 +1284,7 @@
         "Name": "Snowy Road to Bruma Patches-45336-1-2.7z",
         "Size": 2300423,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "mhahn123",
           "Description": "Repairs conflicts between Snowy Road to Bruma and several other mods which edit the Jerall Mountains region..",
           "FileID": 1000019541,
@@ -1305,7 +1305,7 @@
         "Name": "1.A Tropical Gold Coast-51187-1-A-1625614921.zip",
         "Size": 2882970,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Vintr",
           "Description": "Adds palm trees and some plants along the Gold Coast.",
           "FileID": 1000028325,
@@ -1326,7 +1326,7 @@
         "Name": "Unofficial Oblivion DLC Patches-9969-24.7z",
         "Size": 4669234,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Quarn and Kivan and Arthmoor and PrinceShroob",
           "Description": "The aim of this mod is to fix the bugs existing in the official mods released by Bethesda.",
           "FileID": 1000014688,
@@ -1347,7 +1347,7 @@
         "Name": "Unofficial Oblivion Patch-5296-3-5-6b-1589151835.7z",
         "Size": 156033577,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Quarn and Kivan and Arthmoor and PrinceShroob",
           "Description": "An Oblivion mod that fixes over 2,500 bugs (and 70,000 object placement errors.)",
           "FileID": 1000024710,
@@ -1368,7 +1368,7 @@
         "Name": "Unofficial Shivering Isles Patch-10739-1-5-9a-1589152090.7z",
         "Size": 38750097,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Quarn and Kivan and Arthmoor and PrinceShroob",
           "Description": "This mod is a joint effort to fix the vast amount of bugs currently existing in the Shivering Isles expansion pack for Oblivion v1.2.0416.",
           "FileID": 1000024711,
@@ -1402,7 +1402,7 @@
         "Name": "Water -3000-49347-1-0-1557394918.7z",
         "Size": 28221,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "GBRPluss",
           "Description": "Hiding water in places where you cant see it.",
           "FileID": 1000021994,
@@ -1423,7 +1423,7 @@
         "Name": "Weapon Improvement Project-43852-1-9.7z",
         "Size": 128048375,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "InsanitySorrow",
           "Description": "This is a project that aims (over time) to replace the vanilla weapon meshes and textures with completely new and more detailed replacements. The new replacements are based on the original designs.",
           "FileID": 1000007552,
@@ -1444,7 +1444,7 @@
         "Name": "Weather - All Natural-18305-1-38-1548910107.7z",
         "Size": 181266778,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Chong Li",
           "Description": "All Natural is a modular weather modification that incorporates Natural Interiors (NI) for indoor weather synchronization and Real Lights. The modular nature allows you to choose add-ons for Enhanced Weather (EW), Natural Weather (NW, part of Natural Envirionments [NE]), Atmospheric Weather System (AWS) or any combination of the three at the same t",
           "FileID": 1000021226,
@@ -1465,7 +1465,7 @@
         "Name": "Oblivion BSA Decompressor-49652-1-0-1570025005.7z",
         "Size": 1240839,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "zilav",
           "Description": "Decompresses Oblivion BSA files to reduce loading times and stuttering.",
           "FileID": 1000023042,
@@ -1486,7 +1486,7 @@
         "Name": "4gb_Patch_plus_Ram_optimization_readme-45576-1-0-0-1.zip",
         "Size": 24784,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Daniel Pistelli ",
           "Description": "Small .exe with sole purpose of applying \u0026gt;2gb patch to .exe and .dll files. Automatically makes backups of original files. Applying this to all .exe and .dll related to Oblivion MAY give some of those with 4gb plus ram a performance boost. Even then extra tweaks and additional utilities are usually necessary to optimize things. ",
           "FileID": 1000008086,
@@ -1507,7 +1507,7 @@
         "Name": "Optimizer Texures 083-42116-0-8-3.rar",
         "Size": 421824,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "AdPipino",
           "Description": "Textures Check, Fix, Compress, Improves perfomace game.\r\nGames: Skyrim, Fallout 3 \u0026 NV, Stalker, Oblivion, Morrowind, Mount \u0026 Blade and others.",
           "FileID": 91278,
@@ -1528,7 +1528,7 @@
         "Name": "TES4Edit 4_0_2-11536-4-0-2-1555040710.7z",
         "Size": 27261149,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ElminsterAU and the xEdit Team",
           "Description": "TES4Edit is the Oblivion version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.",
           "FileID": 1000021751,
@@ -1549,7 +1549,7 @@
         "Name": "Wrye Bash 309.1 - Standalone Executable-22368-309-1-1623232823.7z",
         "Size": 24895612,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Wrye Bash Team",
           "Description": "",
           "FileID": 1000028064,
@@ -1570,7 +1570,7 @@
         "Name": "DarN BAIN wizard-48596-1-0-1539843166.7z",
         "Size": 5018479,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "lmstearn",
           "Description": "BAIN install packages for popular UI mods originally bundled as Fomods for OBMM. Wrye Bash, still being maintained and supported for Oblivion is now the first choice for players of Oblivion.",
           "FileID": 1000020533,
@@ -1591,7 +1591,7 @@
         "Name": "Imperial Theme for NorthernUI-49848-1-0-1579722011.zip",
         "Size": 42552964,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Half-Dead",
           "Description": "A more imperial themed UI skin for NorthernUI by DavidJCobb",
           "FileID": 1000023773,
@@ -1612,7 +1612,7 @@
         "Name": "NorthernUI-48577-2-0-3-1612716365.zip",
         "Size": 27315844,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DavidJCobb",
           "Description": "A comprehensive UI overhaul for Oblivion, in the style of Skyrim and SkyUI. This mod also patches native Xbox controller support into the game, and in fact that controller support can be used on its own.",
           "FileID": 1000026865,
@@ -1633,7 +1633,7 @@
         "Name": "2020 Retexture Project - Trees-49933-1-5-1615434367.7z",
         "Size": 46394783,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Calthrop",
           "Description": "Landscapes (with terrain shader support) \u002B rocks \u002B trees \u002B grass",
           "FileID": 1000027191,
@@ -1654,7 +1654,7 @@
         "Name": "2020 Retexture Project - Update-49933-1-2-1630375462.7z",
         "Size": 109529015,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Calthrop",
           "Description": "Landscapes (with terrain shader support) \u002B rocks \u002B trees \u002B grass",
           "FileID": 1000028878,
@@ -1675,7 +1675,7 @@
         "Name": "ORL63-49931-6-3-1628673351.7z",
         "Size": 10280647,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Alenet GBRplus",
           "Description": "Lite version of Oblivion reloaded, compiled from 8.4 and 9.0 sources.",
           "FileID": 1000028649,
@@ -1696,7 +1696,7 @@
         "Name": "Pick Me-48479-1.7z",
         "Size": 972594,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "maczopikczo",
           "Description": "Lockpicking interface upgrade for all you gentlemen thieves out there. Because we might be bandits, but we\u0027re no strangers to style and sophistication.",
           "FileID": 1000019366,
@@ -1717,7 +1717,7 @@
         "Name": "Really Textured Normal Maps - Updated-50088-1-0-1588502179.7z",
         "Size": 557389489,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Jarod",
           "Description": "Attempts to fix some issues the original Really Textured Normal Maps for Vanilla mod had.",
           "FileID": 1000024630,
@@ -1738,7 +1738,7 @@
         "Name": "VKVII Oblivion Imperial City-50255-1-1594313735.7z",
         "Size": 475521166,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "VKVII",
           "Description": "Remade textures of the Imperial City (interiors and exterior).",
           "FileID": 1000025247,
@@ -1759,7 +1759,7 @@
         "Name": "VKVII Oblivion MagesGuild Clutter-50246-1-1593916345.7z",
         "Size": 18722898,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "VKVII",
           "Description": "Remade textures of the Mages Guild clutter folder.\n\nRugs meshes collision corrected.",
           "FileID": 1000025208,
@@ -1780,7 +1780,7 @@
         "Name": "VKVII Oblivion Sidewalk Stonewall-50248-1-1593946238.7z",
         "Size": 70059360,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "VKVII",
           "Description": "Remade textures for shared Sidewalk and Stonewall",
           "FileID": 1000025212,
@@ -1801,7 +1801,7 @@
         "Name": "boss.zip",
         "Size": 28573854,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/boss-developers/boss/releases/download/v2.3.2/boss.zip"
         }
@@ -1815,7 +1815,7 @@
         "Name": "AliveWaters-6914.rar",
         "Size": 13885806,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Windsurfer",
           "Description": "Beta 0.6 of AliveWaters (Includes both addons!!)- Updated 23/05\r\nThis mod main aim is to improve the underwater aspect of oblivion to make you actualy enjoy being underwater.\r\nThe original underwater landscape was so boring, just rocks and sand! A bit like the moon.\r\n\r\nWhat this version contains (including addons - see below):\r\n-6 retextured sea we",
           "FileID": 10550,
@@ -1836,7 +1836,7 @@
         "Name": "Arena Redone HD Bain_NMM Installer-47156-1-2.7z",
         "Size": 296703687,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DarkShenron",
           "Description": "HD Retexture of Imperial City  Arena.",
           "FileID": 1000014824,
@@ -1857,7 +1857,7 @@
         "Name": "Better Autowalk-49105-2-0-1567094636.zip",
         "Size": 44414,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "lStewieAl",
           "Description": "Diagonal strafe while auto-walking, simple obse dll (no esp).\n\nMoving left or right no longer cancels auto-walk (as in Skyrim).",
           "FileID": 1000022866,
@@ -1878,7 +1878,7 @@
         "Name": "better ropes-45056-1-1.zip",
         "Size": 525039,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "xrayy",
           "Description": "you have high defintion textures but your ropes are still looking ugly ?\n\nHere is a simple HD texture replacer for you. \n\njust copy texture folder into the data folder and thats it.\n\n*oct 17 update: darker worn version added*\n\nEnjoy new and more realistic ropes",
           "FileID": 1000006596,
@@ -1899,7 +1899,7 @@
         "Name": "Oblivion Window Reflection Replacer-46774-.zip",
         "Size": 507246,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Superandultra",
           "Description": "A window reflection mod that replaces the old texture with a higher-res texture based on gameplay screenshots",
           "FileID": 1000013055,
@@ -1920,7 +1920,7 @@
         "Name": "Blockhead 11.0-43752-11-0.7z",
         "Size": 170333,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "shadeMe",
           "Description": "An OBSE plugin that adds support for gender variant head models and textures for NPCs. And allows free camera movement in the race/sex menu. And enables pain-free inventory idle overriding. And per-NPC/Race/scripted body/head texture/model overriding. And animation overriding. And equipment model overriding.",
           "FileID": 1000020300,
@@ -1941,7 +1941,7 @@
         "Name": "Bruma Retexture 1.5 - 2K-44677-1-5-1549564314.rar",
         "Size": 166966551,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lougian",
           "Description": "",
           "FileID": 1000021298,
@@ -1962,7 +1962,7 @@
         "Name": "Console Numpad Support-49490-1-0-1562019580.zip",
         "Size": 44398,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "lStewieAl",
           "Description": "Adds support for numpad when using the console. \n\nOBSE Plugin (no esp)",
           "FileID": 1000022513,
@@ -1983,7 +1983,7 @@
         "Name": "Console Paste-49104-1-1-1547856822.zip",
         "Size": 62984,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "lStewieAl",
           "Description": "OBSE plugin to add clipboard paste support, as well as ctrl left/right and backspace/delete to aid typing in console.",
           "FileID": 1000021160,
@@ -2004,7 +2004,7 @@
         "Name": "CAMERA-50125-1-1589695736.7z",
         "Size": 82742,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "LogicDragon  XJDHDR",
           "Description": "Enhanced Camera for Oblivion Reloaded Lite (ORL), compatible to ORL6.3.",
           "FileID": 1000024775,
@@ -2025,7 +2025,7 @@
         "Name": "kart_DLCUT_4x-49798-1-1-1577801024.7z",
         "Size": 285225933,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kartoffels",
           "Description": "Upscaled textures for all Oblivion DLC. 4x and 2x version.",
           "FileID": 1000023598,
@@ -2046,7 +2046,7 @@
         "Name": "DOWNPOUR-45520-02.7z",
         "Size": 62912,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "textures - Gamwich mesh - maczopikczo",
           "Description": "Now rain in Cyrodiil is pronounced and heavy at hardly any performance cost.",
           "FileID": 1000007926,
@@ -2067,7 +2067,7 @@
         "Name": "EngineBugFixes v2.22-47085-2-22-1569169531.7z",
         "Size": 186817,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tiawar",
           "Description": "An OBSE plugin containing bug fixes for the Oblivion game engine.",
           "FileID": 1000022995,
@@ -2088,7 +2088,7 @@
         "Name": "Hi-Res Soul Gems-43728-1-0.zip",
         "Size": 1977605,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "bentobart",
           "Description": "Replaces all the soul gem textures to a high resolution texture. \n\nThe new textures is in 512x1024, the vanilla ones were in 64x128.",
           "FileID": 1000002070,
@@ -2109,7 +2109,7 @@
         "Name": "Improved Bravil-10383.7z",
         "Size": 51748529,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mikal33",
           "Description": " This is a retexture of Bravil with 1024x1024,1024x512 \u0026 1024x256 textures.The only texture not done is the gate.Still looking for the right texture. . I have no performance hit in fps, but my memory usage increases about 25mb with this set.A uninstall list is included in the read me.\r\n\r\nVersion History\r\n---------------\r\n\r\n1.0 - Initial release\r\n\r\n",
           "FileID": 9152,
@@ -2130,7 +2130,7 @@
         "Name": "Improved Doors and Flora-8298.7z",
         "Size": 17453431,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mikal33",
           "Description": "This is a retexture of several doors, flora and other miscellaneous objects. I have included three vanilla door meshes so if you are using a parallax mod it will overwrite the parallax meshes which can cause problems with the textures. To install unzip or drag to the oblivion folder. If asked to overwrite, choose \\\u0022Yes\\\u0022.  The readme has a comp",
           "FileID": 6830,
@@ -2151,7 +2151,7 @@
         "Name": "IDFUpdate-8298.7z",
         "Size": 13642893,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mikal33",
           "Description": "This is a retexture of several doors, flora and other miscellaneous objects. I have included three vanilla door meshes so if you are using a parallax mod it will overwrite the parallax meshes which can cause problems with the textures. To install unzip or drag to the oblivion folder. If asked to overwrite, choose \\\u0022Yes\\\u0022.  The readme has a comp",
           "FileID": 30899,
@@ -2172,7 +2172,7 @@
         "Name": "Improved Fruits Vegetables and Meats-10487.7z",
         "Size": 22210959,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mikal33",
           "Description": " This is a retexture of several fruits,vegetables,meats \u0026 ingredients with 1024x1024,1024x512 \u0026 512x256 textures.A uninstall list is included in the read me.",
           "FileID": 9343,
@@ -2193,7 +2193,7 @@
         "Name": "IFVMUpdate-10487.7z",
         "Size": 12049460,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mikal33",
           "Description": " This is a retexture of several fruits,vegetables,meats \u0026 ingredients with 1024x1024,1024x512 \u0026 512x256 textures.A uninstall list is included in the read me.",
           "FileID": 46249,
@@ -2214,7 +2214,7 @@
         "Name": "Improved Moons-45545-1-0.7z",
         "Size": 943435,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "sefmonsta",
           "Description": "A vanilla moon replacer that delivers realistic looking three dimensional cratered moons.",
           "FileID": 1000007978,
@@ -2235,7 +2235,7 @@
         "Name": "Improved Trees and Flora-8500.7z",
         "Size": 19786400,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mikal33",
           "Description": "This is a retexture of several trees, flora, shrubs \u0026 fungus. The majority of the texture are 1024x512 \u0026 1024x1024. Over half the trees have been done so a performance hit (more shuttering) when loading new sections may occur. To install unzip or drag to the oblivion folder. If asked to overwrite, choose \\\u0022Yes\\\u0022. As in my last release a complet",
           "FileID": 6993,
@@ -2256,7 +2256,7 @@
         "Name": "Improved Trees and Flora 2-11891.7z",
         "Size": 20862801,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mikal33",
           "Description": " This is a retexture of several trees,flowers,plants and fungus with 1024x1024,1024x512 \u0026 512x512 new textures.This set also includes reworked textures from the first pack and two reworked flora textures from the improved doors and flora pack.This is the next set of textures in the Trees \u0026 Flora  series.You still need the original [url=http://www.t",
           "FileID": 12150,
@@ -2277,7 +2277,7 @@
         "Name": "ITF2Update-11891.7z",
         "Size": 23741837,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mikal33",
           "Description": " This is a retexture of several trees,flowers,plants and fungus with 1024x1024,1024x512 \u0026 512x512 new textures.This set also includes reworked textures from the first pack and two reworked flora textures from the improved doors and flora pack.This is the next set of textures in the Trees \u0026 Flora  series.You still need the original [url=http://www.t",
           "FileID": 30898,
@@ -2298,7 +2298,7 @@
         "Name": "Hold Alt to Skip Confirm Sell Prompt-49545-1-0-1565106528.zip",
         "Size": 44432,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "lStewieAl",
           "Description": "Removes the confirmation prompt when clicking \u0022Continue Game\u0022 at the main menu. OBSE plugin (no esp). Compatible with NorthernUI.",
           "FileID": 1000022725,
@@ -2319,7 +2319,7 @@
         "Name": "ITFBark2012-11891-1.7z",
         "Size": 18488175,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mikal33",
           "Description": " This is a retexture of several trees,flowers,plants and fungus with 1024x1024,1024x512 \u0026 512x512 new textures.This set also includes reworked textures from the first pack and two reworked flora textures from the improved doors and flora pack.This is the next set of textures in the Trees \u0026 Flora  series.You still need the original [url=http://www.t",
           "FileID": 88426,
@@ -2340,7 +2340,7 @@
         "Name": "Jump While Blocking-49495-1-0-1562280616.zip",
         "Size": 44225,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "lStewieAl",
           "Description": "Allow jumping while blocking.",
           "FileID": 1000022536,
@@ -2361,7 +2361,7 @@
         "Name": "Kaizits Animated Daedric Ingredients-46992-1-0.rar",
         "Size": 6894864,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kaizit",
           "Description": "Replaces the vanilla Daedric ingredients with new animated meshes and new textures\r\n\n",
           "FileID": 1000013994,
@@ -2382,7 +2382,7 @@
         "Name": "Kaizits Animated Ingredients-46962-1-0.zip",
         "Size": 10843980,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kaizit",
           "Description": "Replaces the vanilla ingredients with new animated meshes and new textures",
           "FileID": 1000013832,
@@ -2403,7 +2403,7 @@
         "Name": "Kaizits Animated ingredients v1.1-46962-1-1.rar",
         "Size": 11396690,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kaizit",
           "Description": "Replaces the vanilla ingredients with new animated meshes and new textures",
           "FileID": 1000013882,
@@ -2424,7 +2424,7 @@
         "Name": "Kaizits Animated ingredients v 1.1 fix-46962-.rar",
         "Size": 41816,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kaizit",
           "Description": "Replaces the vanilla ingredients with new animated meshes and new textures",
           "FileID": 1000013935,
@@ -2445,7 +2445,7 @@
         "Name": "Leyawiin Woodland 2k-46628-1-1.rar",
         "Size": 141286662,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "rabilinth",
           "Description": "This MOD is retextures MOD in the town of Leyawiin.\r\n\nChange the whole city.",
           "FileID": 1000012427,
@@ -2466,7 +2466,7 @@
         "Name": "MenuQue v16b-32200-v16b.zip",
         "Size": 1126124,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kyoma",
           "Description": "An OBSE Plugin that adds various additional UI functions , some quest functions and some misc functions.",
           "FileID": 1000004991,
@@ -2487,7 +2487,7 @@
         "Name": "Mesh Improvement Project-44501-1-4a.7z",
         "Size": 53189069,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "InsanitySorrow",
           "Description": "This project is a large undertaking with the aim of (slowly) fixing or replacing broken/ugly meshes found throughout the game\u0027s world.",
           "FileID": 1000011376,
@@ -2508,7 +2508,7 @@
         "Name": "Nirnroot retexture-45018-1-0.rar",
         "Size": 8602559,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lougian",
           "Description": "New textures in HD",
           "FileID": 1000006482,
@@ -2529,7 +2529,7 @@
         "Name": "OBLModLimitFix-50066-1-0-1587582618.zip",
         "Size": 70725,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "iranrmrf",
           "Description": "This plugin fixes the Oblivion mod limit bug. It allows a maximum of 255 plugins to be loaded.",
           "FileID": 1000024557,
@@ -2550,7 +2550,7 @@
         "Name": "2020 Retexture Project - Landscape and Rocks-49933-2-0-1615432788.7z",
         "Size": 414080377,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Calthrop",
           "Description": "Landscapes (with terrain shader support) \u002B rocks \u002B trees \u002B grass",
           "FileID": 1000027190,
@@ -2571,7 +2571,7 @@
         "Name": "2020 Retexture Project - Tree Shadows-49933-1-1-1585694100.7z",
         "Size": 84909,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Calthrop",
           "Description": "Landscapes (with terrain shader support) \u002B rocks \u002B trees \u002B grass",
           "FileID": 1000024369,
@@ -2592,7 +2592,7 @@
         "Name": "Oblivion Realm HD-43100-1-0.7z",
         "Size": 391246931,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "amnes",
           "Description": "Enhances Oblivion Realm with HD textures.",
           "FileID": 93430,
@@ -2613,7 +2613,7 @@
         "Name": "ORL64-49931-6-4-1630681126.7z",
         "Size": 10294186,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Alenet GBRplus",
           "Description": "Lite version of Oblivion reloaded, compiled from 8.4 and 9.0 sources.",
           "FileID": 1000028936,
@@ -2634,7 +2634,7 @@
         "Name": "Oblivion Symphonic Variations Remastered-11436-1-0.rar",
         "Size": 47050908,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tashin",
           "Description": "Orchestral music inspired by the original score, to blend into the game.  Exploring, town and battle pieces created to follow the style, instrumentation and spirit of Oblivion\u0027s soundtrack, and balanced to match the ambience.",
           "FileID": 1000013584,
@@ -2655,7 +2655,7 @@
         "Name": "OBSE -Elys- Universal Silent Voice v93-16622.zip",
         "Size": 30234,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Elys",
           "Description": "This OBSE plugin makes Oblivion play a 8 seconds duration silent voice for any missing voice file.\r\n\n\r\n\n- If the subtitles are turned off, Elys_USV will force display subtitles for missing voice files.\r\n\n- You will have up to 8 seconds to read long subtitles when there is no voice existing for an Oblivion plugin.\r\n\n- Modder creating",
           "FileID": 27327,
@@ -2676,7 +2676,7 @@
         "Name": "4xd 2xn Characters-49351-2-1560926628.7z",
         "Size": 95225440,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kartoffels",
           "Description": "Upscaled textures for Oblivion. Comes in default 4x or 2x version, with availability to mix and match modules. Should look like vanilla, but less 2006.",
           "FileID": 1000022405,
@@ -2697,7 +2697,7 @@
         "Name": "4x Clutter-49351-2-1560261590.7z",
         "Size": 731327572,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kartoffels",
           "Description": "Upscaled textures for Oblivion. Comes in default 4x or 2x version, with availability to mix and match modules. Should look like vanilla, but less 2006.",
           "FileID": 1000022316,
@@ -2718,7 +2718,7 @@
         "Name": "4x Land and Ect-49351-2-1560222046.7z",
         "Size": 814413210,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kartoffels",
           "Description": "Upscaled textures for Oblivion. Comes in default 4x or 2x version, with availability to mix and match modules. Should look like vanilla, but less 2006.",
           "FileID": 1000022313,
@@ -2739,7 +2739,7 @@
         "Name": "4xd 2xn Oblivion Realm-49351-2-1560798201.7z",
         "Size": 635978741,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kartoffels",
           "Description": "Upscaled textures for Oblivion. Comes in default 4x or 2x version, with availability to mix and match modules. Should look like vanilla, but less 2006.",
           "FileID": 1000022396,
@@ -2760,7 +2760,7 @@
         "Name": "4x Weapons-49351-2-1-1559863437.7z",
         "Size": 245418686,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kartoffels",
           "Description": "Upscaled textures for Oblivion. Comes in default 4x or 2x version, with availability to mix and match modules. Should look like vanilla, but less 2006.",
           "FileID": 1000022286,
@@ -2781,7 +2781,7 @@
         "Name": "Pluggy Dev v132-23979.7z",
         "Size": 150435,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "haama",
           "Description": "Pluggy is an OBSE plugin that adds functions for HUD, string, array, ini and text file creation and manipulation.",
           "FileID": 50826,
@@ -2802,7 +2802,7 @@
         "Name": "Retextured Inn Signs-48576-1-0.7z",
         "Size": 26052052,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "monkeyangie",
           "Description": "Retexture of all the Inn\u0027s signs",
           "FileID": 1000019627,
@@ -2823,7 +2823,7 @@
         "Name": "kart_SIUT_clutter_4x-49645-1-1570657584.7z",
         "Size": 124704457,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kartoffels",
           "Description": "Upscaled textures for Shivering Isles. Comes in default 4x or 2x version, with availability to mix and match modules. Should look like vanilla Shivering Isles, but less 2007.",
           "FileID": 1000023079,
@@ -2844,7 +2844,7 @@
         "Name": "kart_SIUT_Landetc_4xd_2xn-49645-1-1569894190.7z",
         "Size": 287337945,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kartoffels",
           "Description": "Upscaled textures for Shivering Isles. Comes in default 4x or 2x version, with availability to mix and match modules. Should look like vanilla Shivering Isles, but less 2007.",
           "FileID": 1000023034,
@@ -2865,7 +2865,7 @@
         "Name": "4x Weapons-49645-1-1569455424.7z",
         "Size": 110331886,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kartoffels",
           "Description": "Upscaled textures for Shivering Isles. Comes in default 4x or 2x version, with availability to mix and match modules. Should look like vanilla Shivering Isles, but less 2007.",
           "FileID": 1000023003,
@@ -2886,7 +2886,7 @@
         "Name": "SkyBSA-49568-1-1-0-1566477186.zip",
         "Size": 61045,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DavidJCobb",
           "Description": "An OBSE DLL that forces Oblivion to handle BSAs and loose files the same way that Skyrim does. No more mucking around with file timestamps!",
           "FileID": 1000022815,
@@ -2907,7 +2907,7 @@
         "Name": "Tree Bark HD Reduced-43504-1-0.7z",
         "Size": 80434147,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Darooz and amnes - reduced by Xerus",
           "Description": "Reduced version of the tree bark HD textures by Darooz and amnes.\r\nThe visual difference is hardly noticeable and the performance impact is not as drastic.",
           "FileID": 1000001155,
@@ -2928,7 +2928,7 @@
         "Name": "Use WASD in Menus-49491-1-4-1562443553.zip",
         "Size": 45462,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "lStewieAl",
           "Description": "Add support for WASD as arrow keys and space or E for enter in menus. Compatible with NorthernUI.\n\nOBSE plugin (no esp)",
           "FileID": 1000022555,
@@ -2949,7 +2949,7 @@
         "Name": "ArenaPoster-25367.rar",
         "Size": 855766,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Varacolaci",
           "Description": "This is just another arena poster :)",
           "FileID": 44088,
@@ -2970,7 +2970,7 @@
         "Name": "Spider Daedra Replacer-43297-1-2.rar",
         "Size": 958963,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "El Alquimista",
           "Description": "Another replacer for vanilla Spider Daedra",
           "FileID": 1000000569,
@@ -2991,7 +2991,7 @@
         "Name": "Spriggan-43285-1-1.7z",
         "Size": 245720,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "El Alquimista",
           "Description": "Some tweakings i made for the spriggan\u0027\u0027s models to look better",
           "FileID": 1000000630,
@@ -3012,7 +3012,7 @@
         "Name": "Oblivion Chapel Altar Replacer-46801-1-0.zip",
         "Size": 519275,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Superandultra",
           "Description": "A simple texture replacer for the chapel altars.",
           "FileID": 1000013169,
@@ -3033,7 +3033,7 @@
         "Name": "Better Chapel Altars - Richer Normal Map-46801-1-0.zip",
         "Size": 267255,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Superandultra",
           "Description": "A simple texture replacer for the chapel altars.",
           "FileID": 1000013177,
@@ -3054,7 +3054,7 @@
         "Name": "Wet Version Update1-47316-.zip",
         "Size": 39072450,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Betty",
           "Description": "The sewers had their last maintenance a long time ago. This is how they look like after that time.",
           "FileID": 1000015331,
@@ -3075,7 +3075,7 @@
         "Name": "KOTN Book Jackets HD remake-49307-1-0-1555223544.7z",
         "Size": 9777256,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "maczopikczo",
           "Description": "How to make your bookshelves beautiful and impress your guests. Deluxe coffee table editions of Knights of the Nine titles.",
           "FileID": 1000021786,
@@ -3096,7 +3096,7 @@
         "Name": "Caves retexture 12k-45895-1-0.rar",
         "Size": 28167607,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lougian",
           "Description": "retexture of caves in HD",
           "FileID": 1000009178,
@@ -3117,7 +3117,7 @@
         "Name": "Cheydinhal Retexture-44685-1-0.rar",
         "Size": 147028596,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lougian",
           "Description": "",
           "FileID": 1000005395,
@@ -3138,7 +3138,7 @@
         "Name": "Skeletons-27945.7z",
         "Size": 17391,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "coronerra",
           "Description": "Better Animation Skeleton with ALL the bones in every custom skeleton for Oblivion. Better Bouncing Boobs for HGEC. Better lower body for Demons with textures. What more can a person want?",
           "FileID": 50991,
@@ -3159,7 +3159,7 @@
         "Name": "Dalls_Horse_Armor-14634.7z",
         "Size": 4985235,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DALL",
           "Description": "Royal Ayleid and Iron Horse are new Textures for Bethesda Horse Armor plug-in. Note prior to download that this are textures only and not whole Horse Armor Plug-in! Official Horse Armor plug-in is necessary! \r\n",
           "FileID": 18720,
@@ -3180,7 +3180,7 @@
         "Name": "Upperclass clutter-41108-1-0.zip",
         "Size": 672525724,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Darooz",
           "Description": "Upperclass clutter retextured",
           "FileID": 87370,
@@ -3201,7 +3201,7 @@
         "Name": "Realistic Mouth OCOv2-47463-1-2.rar",
         "Size": 3417950,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "User_1926808",
           "Description": "HD mouth and teeth textures Oblivion Character Overhaul version 2",
           "FileID": 1000015727,
@@ -3222,7 +3222,7 @@
         "Name": "kart_KNUT_4x-49798-1-1577965453.7z",
         "Size": 245005814,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kartoffels",
           "Description": "Upscaled textures for all Oblivion DLC. 4x and 2x version.",
           "FileID": 1000023613,
@@ -3243,7 +3243,7 @@
         "Name": "Double Sided Cobwebs-46264-1-0.7z",
         "Size": 1029051,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "sefmonsta",
           "Description": "Makes all cobwebs visible from both sides.",
           "FileID": 1000010882,
@@ -3264,7 +3264,7 @@
         "Name": "Farm Fence-47355-01.7z",
         "Size": 2826793,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "maczopikczo",
           "Description": "Something to lean on when you\u0027re knocked off your feet by villains or booze.",
           "FileID": 1000015403,
@@ -3285,7 +3285,7 @@
         "Name": "Gecko\u0027s Fort Interior Textures (2K Version)-45996-1.zip",
         "Size": 190029868,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "lazygecko",
           "Description": "2K high res overhaul of Imperial fort interiors.",
           "FileID": 1000009808,
@@ -3306,7 +3306,7 @@
         "Name": "Geckos Imperial Dungeon Textures 2K Parallax-46864-1-0.zip",
         "Size": 307161614,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "lazygecko",
           "Description": "True HD, parallax-enabled remake of Imperial dungeon/prison",
           "FileID": 1000013451,
@@ -3327,7 +3327,7 @@
         "Name": "Geckos Ayleid Ruins Textures V2 - NO Parallax-46579-2.zip",
         "Size": 196599218,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "lazygecko",
           "Description": "Electric Boogaloo",
           "FileID": 1000012175,
@@ -3348,7 +3348,7 @@
         "Name": "High-Res Varla and Welkynd Texture Replacer-36814-2-0.7z",
         "Size": 1666589,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Khettienna",
           "Description": "This mod replaces the stock varla and welkynd stone textures with high resolution versions from the Ayleid Clutter resource by Meo.  I color-matched them to stock, and created a new high-contrast glow map.  Now all varla \u0026 welkynd stone in your game will be as pretty as Meo hoped.  =)",
           "FileID": 1000010831,
@@ -3369,7 +3369,7 @@
         "Name": "HiRes Silver Clutter-38546-1.zip",
         "Size": 2214076,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "qwertyasdfgh",
           "Description": "Texture replacer",
           "FileID": 79717,
@@ -3390,7 +3390,7 @@
         "Name": "BravilUpdate-10383.7z",
         "Size": 11267510,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mikal33",
           "Description": " This is a retexture of Bravil with 1024x1024,1024x512 \u0026 1024x256 textures.The only texture not done is the gate.Still looking for the right texture. . I have no performance hit in fps, but my memory usage increases about 25mb with this set.A uninstall list is included in the read me.\r\n\r\nVersion History\r\n---------------\r\n\r\n1.0 - Initial release\r\n\r\n",
           "FileID": 15404,
@@ -3411,7 +3411,7 @@
         "Name": "Improved Chorrol-9500.7z",
         "Size": 39111960,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mikal33",
           "Description": "This is a retexture of Chorrol with 1024x1024 ,1024x512 and 512x512 new textures. I did not redo the stucco textures . I have no performance hit in fps, but my memory usage increases about 40mb with this set.A uninstall list is included in the read me.\r\n\r\n\r\nVersion History\r\n---------------\r\n\r\n1.0 - Initial release\r\n\r\n1.1 - Added ChorrolUpdate file ",
           "FileID": 7843,
@@ -3432,7 +3432,7 @@
         "Name": "ChorrolUpdate-9500.7z",
         "Size": 10094567,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mikal33",
           "Description": "This is a retexture of Chorrol with 1024x1024 ,1024x512 and 512x512 new textures. I did not redo the stucco textures . I have no performance hit in fps, but my memory usage increases about 40mb with this set.A uninstall list is included in the read me.\r\n\r\n\r\nVersion History\r\n---------------\r\n\r\n1.0 - Initial release\r\n\r\n1.1 - Added ChorrolUpdate file ",
           "FileID": 15531,
@@ -3453,7 +3453,7 @@
         "Name": "Chorrol2011-9500-1.7z",
         "Size": 52047128,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mikal33",
           "Description": "This is a retexture of Chorrol with 1024x1024 ,1024x512 and 512x512 new textures. I did not redo the stucco textures . I have no performance hit in fps, but my memory usage increases about 40mb with this set.A uninstall list is included in the read me.\r\n\r\n\r\nVersion History\r\n---------------\r\n\r\n1.0 - Initial release\r\n\r\n1.1 - Added ChorrolUpdate file ",
           "FileID": 87188,
@@ -3474,7 +3474,7 @@
         "Name": "Improved Flame Atronachs-45356-1-1.7z",
         "Size": 4272192,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "sefmonsta",
           "Description": "Improved Flame Atronachs is a simple replacer mod that aims to improve on the vanilla Atronachs with new hi-res textures and a few mesh tweaks.",
           "FileID": 1000007445,
@@ -3495,7 +3495,7 @@
         "Name": "Improved Frost Atronachs-49520-1-1-1563149803.7z",
         "Size": 3841266,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "sefmonsta",
           "Description": "Updated hi-res textures and altered mesh for a colder icy look.",
           "FileID": 1000022613,
@@ -3516,7 +3516,7 @@
         "Name": "Improved LightBeam-45685-1-0.rar",
         "Size": 952995,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Monkeyangie",
           "Description": "Simple mod that retextures the light beams in all the oblivion world, it decreases the greenish look of the original to a more yellowish warmer color.",
           "FileID": 1000008421,
@@ -3537,7 +3537,7 @@
         "Name": "Improved Skulls and Bones and ironwork-36075-1-1.7z",
         "Size": 6419229,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "hlvr",
           "Description": "This mod retextures the skulls, bones, and ironwork of Oblivion. If you wonder what I mean with ironwork, the images here on TESNexus will explain better.\r\nSince version 1.1, a new texture is also added, focusing on the prison cell doors in Cyrodiil.",
           "FileID": 72380,
@@ -3558,7 +3558,7 @@
         "Name": "Improved Storm Atronachs-45536-1-0.7z",
         "Size": 9277544,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "sefmonsta",
           "Description": "A high resolution total re-work of the vanilla storm atronachs with added variable glow.",
           "FileID": 1000007936,
@@ -3579,7 +3579,7 @@
         "Name": "Kaizits Animated Daedric Ingredients fix-46992-.rar",
         "Size": 4195843,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kaizit",
           "Description": "Replaces the vanilla Daedric ingredients with new animated meshes and new textures\r\n\n",
           "FileID": 1000013998,
@@ -3600,7 +3600,7 @@
         "Name": "King of worms robe replacer-48001-1-0.7z",
         "Size": 450109,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Naihaan",
           "Description": "Exactly what it says in the name.",
           "FileID": 1000017605,
@@ -3621,7 +3621,7 @@
         "Name": "New Brows for OCO v2-48199-1-0.7z",
         "Size": 2946452,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "monkeyangie",
           "Description": "New brows",
           "FileID": 1000018239,
@@ -3642,7 +3642,7 @@
         "Name": "New Eyes for OCOv2-46995-1-5.7z",
         "Size": 700839,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "monkeyangie",
           "Description": "New eye textures for OCO v2",
           "FileID": 1000018581,
@@ -3663,7 +3663,7 @@
         "Name": "Khajiit Optional - Cat-46995-1-2.7z",
         "Size": 82560,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "monkeyangie",
           "Description": "New eye textures for OCO v2",
           "FileID": 1000015318,
@@ -3684,7 +3684,7 @@
         "Name": "Brighter Elves Eyes-46995-1-2.7z",
         "Size": 300383,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "monkeyangie",
           "Description": "New eye textures for OCO v2",
           "FileID": 1000015314,
@@ -3705,7 +3705,7 @@
         "Name": "Human Eyes - Optional-46995-1-5.7z",
         "Size": 82805,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "monkeyangie",
           "Description": "New eye textures for OCO v2",
           "FileID": 1000019560,
@@ -3726,7 +3726,7 @@
         "Name": "2020 Retexture Project - Snowy Roofs in Bruma (AWLS)-49933-1-1-1615434855.7z",
         "Size": 8458713,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Calthrop",
           "Description": "Landscapes (with terrain shader support) \u002B rocks \u002B trees \u002B grass",
           "FileID": 1000027192,
@@ -3747,7 +3747,7 @@
         "Name": "Oblivion Caves retexture 1K-47407-1-0.rar",
         "Size": 24100339,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lougian",
           "Description": "A retexture of the caves inside the Oblivion Realm.",
           "FileID": 1000015546,
@@ -3768,7 +3768,7 @@
         "Name": "kart ocov2 heads manual-49406-1-1559303775.7z",
         "Size": 464579,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kartoffels",
           "Description": "OCOv2 is amazing, but the chins are bit too pointy for me. So I have a mesh fix for you. No plugin. Has a BAIN wizard for some reason. Mostly widens the jaw and mouth, and shaves the chins. Also narrows the eyes of some heads.",
           "FileID": 1000022211,
@@ -3789,7 +3789,7 @@
         "Name": "4xd 2xn Architecture-49351-2-1560671576.7z",
         "Size": 1854678440,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kartoffels",
           "Description": "Upscaled textures for Oblivion. Comes in default 4x or 2x version, with availability to mix and match modules. Should look like vanilla, but less 2006.",
           "FileID": 1000022386,
@@ -3810,7 +3810,7 @@
         "Name": "4x Armor-49351-2-1-1559859700.7z",
         "Size": 690823598,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kartoffels",
           "Description": "Upscaled textures for Oblivion. Comes in default 4x or 2x version, with availability to mix and match modules. Should look like vanilla, but less 2006.",
           "FileID": 1000022283,
@@ -3831,7 +3831,7 @@
         "Name": "4x Clothes-49351-2-1-1559858072.7z",
         "Size": 531439388,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kartoffels",
           "Description": "Upscaled textures for Oblivion. Comes in default 4x or 2x version, with availability to mix and match modules. Should look like vanilla, but less 2006.",
           "FileID": 1000022281,
@@ -3852,7 +3852,7 @@
         "Name": "4x Creatures-49351-2-1560281700.7z",
         "Size": 452717000,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kartoffels",
           "Description": "Upscaled textures for Oblivion. Comes in default 4x or 2x version, with availability to mix and match modules. Should look like vanilla, but less 2006.",
           "FileID": 1000022320,
@@ -3873,7 +3873,7 @@
         "Name": "4x Dungeons with 2x Normal Maps-49351-2-0-1-1560532349.7z",
         "Size": 684052257,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kartoffels",
           "Description": "Upscaled textures for Oblivion. Comes in default 4x or 2x version, with availability to mix and match modules. Should look like vanilla, but less 2006.",
           "FileID": 1000022369,
@@ -3894,7 +3894,7 @@
         "Name": "Painters Touch 1024-43678-1-0.7z",
         "Size": 3466203,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "evercharmer",
           "Description": "High-res replacer for the paintings, similar to the default ones but meant to look like actual paintings.",
           "FileID": 1000001894,
@@ -3915,7 +3915,7 @@
         "Name": "Paintings Variation 2.0-46482-2-0.7z",
         "Size": 11899947,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "bettersweater",
           "Description": "Brings variety to Cyrodiils en SI paintings.",
           "FileID": 1000012686,
@@ -3936,7 +3936,7 @@
         "Name": "Paintings Variation SI-46482-1-0-1554746835.7z",
         "Size": 5733649,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "bettersweater",
           "Description": "Brings variety to Cyrodiils en SI paintings.",
           "FileID": 1000021723,
@@ -3957,7 +3957,7 @@
         "Name": "Retextured Amulet-47734-1-0.zip",
         "Size": 5477469,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "monkeyangie",
           "Description": "Retexture of amulets",
           "FileID": 1000016739,
@@ -3978,7 +3978,7 @@
         "Name": "Doors-50943-1-0-1616642948.7z",
         "Size": 11466087,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "monkeyangie",
           "Description": "retextures the caves and mines doors",
           "FileID": 1000027340,
@@ -3999,7 +3999,7 @@
         "Name": "Retextured Rings-47742-1-0.zip",
         "Size": 6709800,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "monkeyangie",
           "Description": "retextures rings",
           "FileID": 1000016754,
@@ -4020,7 +4020,7 @@
         "Name": "Retextured Road Signs - No Ornament-48235-1-0.7z",
         "Size": 1517309,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "monkeyangie",
           "Description": "Retexture of the city signs",
           "FileID": 1000019114,
@@ -4041,7 +4041,7 @@
         "Name": "Completely Ruined Ruins v03-44697-03.7z",
         "Size": 13844034,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "maczopikczo",
           "Description": "Oh no. Another ruins retexture. Economy class. Mystery. Passion. Pre-war quality.",
           "FileID": 1000007248,
@@ -4062,7 +4062,7 @@
         "Name": "Completely Ruined Ruins v03 skirting-44697-v03.7z",
         "Size": 3364294,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "maczopikczo",
           "Description": "Oh no. Another ruins retexture. Economy class. Mystery. Passion. Pre-war quality.",
           "FileID": 1000007421,
@@ -4083,7 +4083,7 @@
         "Name": "kart_SIUT_architecture_4x-49645-1-1571170621.7z",
         "Size": 453181399,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kartoffels",
           "Description": "Upscaled textures for Shivering Isles. Comes in default 4x or 2x version, with availability to mix and match modules. Should look like vanilla Shivering Isles, but less 2007.",
           "FileID": 1000023119,
@@ -4104,7 +4104,7 @@
         "Name": "4x Armor-49645-1-1569466688.7z",
         "Size": 182102852,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kartoffels",
           "Description": "Upscaled textures for Shivering Isles. Comes in default 4x or 2x version, with availability to mix and match modules. Should look like vanilla Shivering Isles, but less 2007.",
           "FileID": 1000023005,
@@ -4125,7 +4125,7 @@
         "Name": "kart_SIUT_characters_2x_FULL-49645-1-1570663153.7z",
         "Size": 19739626,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kartoffels",
           "Description": "Upscaled textures for Shivering Isles. Comes in default 4x or 2x version, with availability to mix and match modules. Should look like vanilla Shivering Isles, but less 2007.",
           "FileID": 1000023083,
@@ -4146,7 +4146,7 @@
         "Name": "kart_SIUT_clothes_4x-49645-1-1569650737.7z",
         "Size": 258217597,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kartoffels",
           "Description": "Upscaled textures for Shivering Isles. Comes in default 4x or 2x version, with availability to mix and match modules. Should look like vanilla Shivering Isles, but less 2007.",
           "FileID": 1000023019,
@@ -4167,7 +4167,7 @@
         "Name": "kart_SIUT_creatures_4x-49645-1-1570630713.7z",
         "Size": 207632839,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kartoffels",
           "Description": "Upscaled textures for Shivering Isles. Comes in default 4x or 2x version, with availability to mix and match modules. Should look like vanilla Shivering Isles, but less 2007.",
           "FileID": 1000023075,
@@ -4188,7 +4188,7 @@
         "Name": "kart_SIUT_dungeons_4x-49645-1-1571005204.7z",
         "Size": 494599149,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kartoffels",
           "Description": "Upscaled textures for Shivering Isles. Comes in default 4x or 2x version, with availability to mix and match modules. Should look like vanilla Shivering Isles, but less 2007.",
           "FileID": 1000023108,
@@ -4209,7 +4209,7 @@
         "Name": "Strand Magic - Manual Install-48460-1-01.rar",
         "Size": 3239115,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "London Rook",
           "Description": "A Regal Gold and Navy Blue Theme for Mage Guild Assets.",
           "FileID": 1000019313,
@@ -4230,7 +4230,7 @@
         "Name": "Unique Signs-25314.zip",
         "Size": 3986232,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Khavaz",
           "Description": "New textures for the signs of inns, shops, stables etc.",
           "FileID": 44544,
@@ -4251,7 +4251,7 @@
         "Name": "Vanilla Hair Replacer-11954.7z",
         "Size": 743420,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "",
           "Description": "Vanilla Hair Replacer, by throttlekitty\r\n\r\nThis is a simple mod:  It replaces the default hair texture for most of Oblivion\\\u0027s hairstyles with one of my own making.   This is simply to offer variety to anyone wishing it, that\\\u0027s all :)  This retexture is hand painted, rather than a photograph, and I am quite pleased with the result, I hope that",
           "FileID": 12268,
@@ -4272,7 +4272,7 @@
         "Name": "Archmage Robe remodel-46968-1-0.7z",
         "Size": 496758,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Naihaan",
           "Description": "Replaces vanilla Archmage robe with remodelled version.\r\n\n",
           "FileID": 1000013863,
@@ -4293,7 +4293,7 @@
         "Name": "Elven armor replacer-47917-1-0.7z",
         "Size": 541066,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Naihaan",
           "Description": "Replaces elven armor with new remodelled version.",
           "FileID": 1000017351,
@@ -4314,7 +4314,7 @@
         "Name": "HGEC version-47917-1-0.7z",
         "Size": 560796,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Naihaan",
           "Description": "Replaces elven armor with new remodelled version.",
           "FileID": 1000017355,
@@ -4335,7 +4335,7 @@
         "Name": "Elven Map For Shivering Isles-16640.zip",
         "Size": 695119,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "odin_ml",
           "Description": "Elven map for Shivering Isles to be used with the \\\u0022Elven Map Redux mod\\\u0022 by xythen his mod can be found at http://www.tesnexus.com/downloads/file.php?id=3002",
           "FileID": 23361,
@@ -4356,7 +4356,7 @@
         "Name": "Fur Armor Replacer - Clipping Mask Fix-50566-1-0-1606607650.7z",
         "Size": 514013,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DEEJMASTER333",
           "Description": "Fixes first person clipping in the mod Fur Armor Replacer.",
           "FileID": 1000026230,
@@ -4377,7 +4377,7 @@
         "Name": "Fur armor replacer-47949-.7z",
         "Size": 835187,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Naihaan",
           "Description": "Replaces vanilla fur armor. RMB. RFB. HGEC",
           "FileID": 1000017442,
@@ -4398,7 +4398,7 @@
         "Name": "HGEC version-47949-1-0.7z",
         "Size": 854192,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Naihaan",
           "Description": "Replaces vanilla fur armor. RMB. RFB. HGEC",
           "FileID": 1000017513,
@@ -4419,7 +4419,7 @@
         "Name": "HiRes Gold Clutter-38546-1.zip",
         "Size": 2273622,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "qwertyasdfgh",
           "Description": "Texture replacer",
           "FileID": 79814,
@@ -4440,7 +4440,7 @@
         "Name": "Leyawiin Woodland floor fix -All Natural compatible-48759-1-0.7z",
         "Size": 2635861,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "1Mac",
           "Description": "Fix for some issues with interior floor textures from rabilinth\u0027s Leyawiin Woodland retexture mod.",
           "FileID": 1000020198,
@@ -4461,7 +4461,7 @@
         "Name": "Lore-Friendly Replacer for Default Hair v0.265-48588-265-1547164494.zip",
         "Size": 69160532,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kartoffels",
           "Description": "Lore-Friendly Replacer for Default Hair for OCO v2. Currently with 20 hairs.",
           "FileID": 1000021113,
@@ -4482,7 +4482,7 @@
         "Name": "Particled Ayleid Stones 1.0-47245-1-0.7z",
         "Size": 32654,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sundabar21",
           "Description": "Tweak for varla and welkynd stones. It add some particle system to them",
           "FileID": 1000015081,
@@ -4503,7 +4503,7 @@
         "Name": "Beards-47071-1.7z",
         "Size": 4406357,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "GBRpluss",
           "Description": "This mod simlply adds beards for many NPC in gameworld, makes game more \u0026#34;real\u0026#34; :)",
           "FileID": 1000014356,
@@ -4524,7 +4524,7 @@
         "Name": "Diverse Effect Icons 1_11-10254.7z",
         "Size": 456040,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Riklund",
           "Description": "This mod introduces unique icons for most of the magic effects which doesn\\\u0027t already have a unique icon.",
           "FileID": 18018,

@@ -12,7 +12,7 @@
         "Name": "Mod Organizer 2 (Archive)-6194-2-3-2-1597663207.7z",
         "Size": 82409806,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.3.2/Mod.Organizer-2.3.2.7z"
         }
@@ -26,7 +26,7 @@
         "Name": "Mod.Organizer-2.4.0.7z",
         "Size": 89306961,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.0/Mod.Organizer-2.4.0.7z"
         }
@@ -40,7 +40,7 @@
         "Name": "splash nms.zip",
         "Size": 1345859,
         "State": {
-          "$type": "WabbajackCDN",
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
           "Url": "https://authored-files.wabbajack.org/splash%20nms.zip_0617577f-13fc-4265-b7dd-4ac4d467ce28"
         }
       }
@@ -53,7 +53,7 @@
         "Name": "1. hilightnotes_cleanHUD_ultramersion-1563-8-1-2-1624832335.zip",
         "Size": 2098965,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "hilightnotes",
           "Description": "Removes all \u0027on-your-face\u0027 HUD. Keeps vision clean, without disabling vital game-world UI. Contains many quality of life improvements for VR. Geared toward VR but non-VR players can also benefit. Significantly improves VR immersion.\n\n\n\nInstalling this mod takes 1 minute! Control-F \u0022MOD Installation\u0022.",
           "FileID": 13381,
@@ -74,7 +74,7 @@
         "Name": "Asteroid Fields 2.6-1148-2-6-1617465526.zip",
         "Size": 2017,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lo2k",
           "Description": "More empty space, less asteroids",
           "FileID": 11729,
@@ -95,7 +95,7 @@
         "Name": "Black Warp with Nebulae 1.1-1487-1-1-1595175186.zip",
         "Size": 892224,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lo2k",
           "Description": "Dark Warps",
           "FileID": 8553,
@@ -116,7 +116,7 @@
         "Name": "BAAA-2007-1-0-1624728941.zip",
         "Size": 10414826,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "WinderTP",
           "Description": "Replaces current blackhole model with a slightly more scientific accurate looking one",
           "FileID": 13368,
@@ -137,7 +137,7 @@
         "Name": "Clean Ship Space Map 1.4-1512-1-4-1623344802.zip",
         "Size": 2145,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lo2k",
           "Description": "Neater Space Map HUD",
           "FileID": 13130,
@@ -158,7 +158,7 @@
         "Name": "Colorful Starfield 2.1-1785-2-1-1617981425.zip",
         "Size": 4453,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lo2k",
           "Description": "Enhances star colors",
           "FileID": 11979,
@@ -179,7 +179,7 @@
         "Name": "Fast Actions 3.3-1081-3-3-1622670033.zip",
         "Size": 6311,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lo2k",
           "Description": "Faster clicks",
           "FileID": 12776,
@@ -200,7 +200,7 @@
         "Name": "Fast-Text-View-1766-3-05a-1604621656.zip",
         "Size": 486,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Userpro66 - AnDiPro",
           "Description": "This mod displays nearly instantly all the text messages when speaking with others NPC\u0027s. It was done for the NMS 3.05 Origins, 3.10 Next Generation, 3.5x PRISMS and maybe later updates.",
           "FileID": 10385,
@@ -221,7 +221,7 @@
         "Name": "Fine LOD-1316-3-52-1623351896.zip",
         "Size": 2455,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Prof Horatio Hafnaugels",
           "Description": "Ground textures fix \u002B water level fix \u002B spawn delay reduction \u002B farther LOD switch",
           "FileID": 13140,
@@ -242,7 +242,7 @@
         "Name": "HD Clouds 2K 1.3-1083-1-3-1622895395.zip",
         "Size": 4318064,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lo2k",
           "Description": "High-Res planet clouds",
           "FileID": 12956,
@@ -256,14 +256,14 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "57bYMAPQJMo=",
         "Meta": "[General]\ngameName=\nmodID=1098\nfileID=13126",
         "Name": "Integrated Planets 1.5-1098-1-5-1623342426.zip",
         "Size": 2865,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lo2k",
           "Description": "Better integrated planets",
           "FileID": 13126,
@@ -284,7 +284,7 @@
         "Name": "Let It Snow 1.3-1535-1-3-1623167499.zip",
         "Size": 8005,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lo2k",
           "Description": "Better snow effect",
           "FileID": 13056,
@@ -305,7 +305,7 @@
         "Name": "Natural Nights 2.3-1633-2-3-1622887382.zip",
         "Size": 2072,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Degraaaff",
           "Description": "Makes nights realistically dark",
           "FileID": 12935,
@@ -326,7 +326,7 @@
         "Name": "No Black Bars 2.2-1188-2-2-1601199178.zip",
         "Size": 1457,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lo2k",
           "Description": "No cutscene black bars",
           "FileID": 9355,
@@ -347,7 +347,7 @@
         "Name": "No DOF blur 3.0-1111-3-0-1622886618.zip",
         "Size": 2422,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lo2k",
           "Description": "Removes Depth of field blur",
           "FileID": 12932,
@@ -368,7 +368,7 @@
         "Name": "No Glowing Plants 1.1-1152-1-1-1575106460.zip",
         "Size": 38704,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lo2k",
           "Description": "Removes light from plants",
           "FileID": 6629,
@@ -389,7 +389,7 @@
         "Name": "No Red Landing Arrows-776-1-0-1568532192.zip",
         "Size": 971,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lo2k",
           "Description": "Removes landing arrows",
           "FileID": 6252,
@@ -410,7 +410,7 @@
         "Name": "No Speed Lines 1.5-1371-1-5-1622894673.zip",
         "Size": 1578,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lo2k",
           "Description": "Removes or reduces 3 ship speed effects",
           "FileID": 12952,
@@ -431,7 +431,7 @@
         "Name": "No Space Dust 1.0-1084-1-0-1566046417.zip",
         "Size": 910,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lo2k",
           "Description": "Removes space dust and plasma effects",
           "FileID": 5449,
@@ -452,7 +452,7 @@
         "Name": "ReLight 2.2-1644-2-2-1623504371.zip",
         "Size": 249742,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lo2k",
           "Description": "Full Lighting rebalance",
           "FileID": 13221,
@@ -473,7 +473,7 @@
         "Name": "vr no highlights-1513-3-3-1617568672.rar",
         "Size": 11341,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "hubbabubba1211 and Mjjstral",
           "Description": "Remove too bright highlight around creatures in VR when looking at them (and plants and anything else)",
           "FileID": 11756,
@@ -487,5 +487,5 @@
       }
     }
   ],
-  "Status": "Available"
+  "Status": "Failed"
 }

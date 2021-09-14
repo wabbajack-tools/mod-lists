@@ -12,7 +12,7 @@
         "Name": "Mod.Organizer-2.4.2.7z",
         "Size": 89503525,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z"
         }
@@ -26,7 +26,7 @@
         "Name": "UltSky - Launcher.7z",
         "Size": 2017,
         "State": {
-          "$type": "WabbajackCDN",
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
           "Url": "https://authored-files.wabbajack.org/UltSky%20-%20Launcher.7z_2949f330-ffed-4d3b-b64e-6f856e43b382"
         }
       }
@@ -39,7 +39,7 @@
         "Name": "enbseries_skyrim_v0434.zip",
         "Size": 3265695,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [
             "Referer:http://enbdev.com/download_mod_tesskyrim.htm"
           ],
@@ -52,7 +52,7 @@
         "Name": "enbseries_skyrim_v0434.zip",
         "Size": 3265695,
         "State": {
-          "$type": "WabbajackCDN",
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
           "Url": "https://mirror.wabbajack.org/e0884012377318d0"
         }
       }
@@ -65,7 +65,7 @@
         "Name": "D3DX9_42 - Wrapper v3-75795-3.zip",
         "Size": 115077,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "meh321 and sheson",
           "Description": "Mod that allows SKSE plugins to preload before the game initializes.",
           "FileID": 1000207412,
@@ -86,7 +86,7 @@
         "Name": "skse_1_07_03.7z",
         "Size": 624845,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "http://skse.silverlock.org/beta/skse_1_07_03.7z"
         }
@@ -100,7 +100,7 @@
         "Name": "SnowFall-83532-Snowfall-1546456803.rar",
         "Size": 70948411,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "TheForkOnTheLeft",
           "Description": "This preset will bring you the scariest of nights to the most loveliest, brightest, and natural of daylight. It will bring some of the best of sunsets and sunrises. The best interiors along with dense fog and heavy rain storms. I Hope you guys enjoy.",
           "FileID": 1000288924,
@@ -121,7 +121,7 @@
         "Name": "SnowFall Weathers 1.5-79335-1-5.7z",
         "Size": 25354006,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Megaloblast and Kojak747",
           "Description": "Snowfall ENB is the first weather mod to employ realtime snow cover. Adapted from Rudy ENB NLA. Made for NLVA. ",
           "FileID": 1000229079,
@@ -142,7 +142,7 @@
         "Name": "A Closer Look - Simple Smooth Hotkey Zoom-64981-1-1.rar",
         "Size": 140502,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "fadingsignal",
           "Description": "A very simple, very SMOOTH, lightweight way to \u0026#34;look closer\u0026#34; at objects, people, etc. in the game using a configured hotkey. MCM menu for full control. Requires SKSE.",
           "FileID": 1000156653,
@@ -163,7 +163,7 @@
         "Name": "AMatterOfTime_v2_0_10-44091-v2-0-10.7z",
         "Size": 1241753,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SkyAmigo",
           "Description": "This mod adds a clock to the HUD showing the current time of day and more.",
           "FileID": 1000263980,
@@ -184,7 +184,7 @@
         "Name": "All Thieves Guild Jobs Concurrently-52721-1.zip",
         "Size": 16630,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "JAKJ",
           "Description": "Lets you take on all seven types of Thieves Guild job at once, instead of only one for Delvin and one for Vex at a time.",
           "FileID": 1000103808,
@@ -205,7 +205,7 @@
         "Name": "aMidianBorn book of silence_ARMORS-24909-1-9.7z",
         "Size": 372634763,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "CaBaL- EmeraldReign-the AMB team",
           "Description": "aMidianBorn high-resolution texture replacer complete package",
           "FileID": 1000057539,
@@ -226,7 +226,7 @@
         "Name": "aMidianBorn - Content Addon-24909-1-9.7z",
         "Size": 303267059,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "CaBaL- EmeraldReign-the AMB team",
           "Description": "aMidianBorn high-resolution texture replacer complete package",
           "FileID": 1000151780,
@@ -247,7 +247,7 @@
         "Name": "aMidianBorn book of silence_WEAPONS-24909-1-9.7z",
         "Size": 312325097,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "CaBaL- EmeraldReign-the AMB team",
           "Description": "aMidianBorn high-resolution texture replacer complete package",
           "FileID": 1000057498,
@@ -268,7 +268,7 @@
         "Name": "ApachiiSkyHair_v_1_6_Full-10168-1-6-Full.7z",
         "Size": 209257258,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Apachii",
           "Description": "New Female and Male Hairstyles for Humans, Elves and Orcs. Converted hair from Sims2 and Sims3.\n\nStandalone version.",
           "FileID": 1000145124,
@@ -289,7 +289,7 @@
         "Name": "Art of the Catch 1.0.1 Release-65613-1-0-1.zip",
         "Size": 515607,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Chesko",
           "Description": "Art of the Catch adds an animated fishing system to Skyrim.",
           "FileID": 1000159095,
@@ -310,7 +310,7 @@
         "Name": "Atronach Crossing Content Pack - Bethesda DLC-78990-Pk1v1-0-0.rar",
         "Size": 8488326,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DavidJCobb",
           "Description": "Place homes and decorations wherever you want, and decorate as you please.\n\n\n\nRequires Cobb Positioner.",
           "FileID": 1000238127,
@@ -331,7 +331,7 @@
         "Name": "Atronach Crossing-78990-2-3-0-1548899133.rar",
         "Size": 28989232,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DavidJCobb",
           "Description": "Place homes and decorations wherever you want, and decorate as you please.\n\n\n\nRequires Cobb Positioner.",
           "FileID": 1000290994,
@@ -352,7 +352,7 @@
         "Name": "AOS 2.5.1 Full Install-43773-2-5-1.rar",
         "Size": 235829257,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "David Jegutidse",
           "Description": "AOS is an extensive sound overhaul aiming to make the soundscape more immersive, clear, responsive, impactful and ultimately fun, while always aiming for maximum compatibility, performance and coherency with the main game. Ambience, weapons, magic, movement, reverb system, sound propagation, creatures and the whole mix are key areas of change.",
           "FileID": 1000171565,
@@ -373,7 +373,7 @@
         "Name": "Bandolier - Bags and Pouches v1dot2-16438-1-2.7z",
         "Size": 9713940,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Dragten",
           "Description": "Adds lots of pouches, bags and bandoliers to help easing your burden.",
           "FileID": 1000043520,
@@ -394,7 +394,7 @@
         "Name": "Bandolier - Dawnguard v1-22119-1-0.zip",
         "Size": 969092,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Dragten",
           "Description": "Adds items from Dawnguard to be worn with any other armor and clothing.",
           "FileID": 80342,
@@ -415,7 +415,7 @@
         "Name": "Bathing in Skyrim 1.11-60421-1-11.zip",
         "Size": 21429473,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "mzin",
           "Description": "Allows you to bathe in the waters of Skyrim.",
           "FileID": 1000171339,
@@ -436,7 +436,7 @@
         "Name": "Beards - 1K Resolution-28363-v4-1.rar",
         "Size": 6552642,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Hvergelmir",
           "Description": "The most popular (and only?) beard retexture mod for Skyrim, Beards - from Hvergelmir\u0027s Aesthetic series is now available for Skyrim: Special Edition and XBox One!\n\nBeards also enables previously unavailable beard styles Bethesda left out of the game (for good reason?)",
           "FileID": 1000229519,
@@ -457,7 +457,7 @@
         "Name": "College Application - Plugin Version-60061-2.7z",
         "Size": 39880,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Gandaganza",
           "Description": "What you answer when applying to the College of Winterhold now actually matters!",
           "FileID": 1000136400,
@@ -478,7 +478,7 @@
         "Name": "Better Docks FOMOD Installer-14087-1-7.rar",
         "Size": 12603507,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "zebra0",
           "Description": "This mod brings immersive details and life to the docks of Skyrim and Raven Rock in Solstheim.",
           "FileID": 1000102176,
@@ -499,7 +499,7 @@
         "Name": "Book Covers Skyrim 3_6 LEGENDARY - Desaturated-35399-3-6.7z",
         "Size": 478231320,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DanielCoffey and doccdr",
           "Description": "Book Covers Skyrim is a retexture of all the readable books, journals, and notes in Skyrim. It gives each book and journal its own unique cover and adds many additional paper styles to the notes. \r\n\n",
           "FileID": 1000225868,
@@ -520,7 +520,7 @@
         "Name": "Book Covers Skyrim - Lost Library - DESATURATED-57120-1-7.7z",
         "Size": 202325358,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DanielCoffey",
           "Description": "Adds 295 books from earlier TES games into Skyrim and re-covers them in the style of Book Covers Skyrim. New books will be found on a broad range of Merchants and relevant Loot Lists.",
           "FileID": 1000131112,
@@ -541,7 +541,7 @@
         "Name": "BHTNFver2-8-31222-2-8.rar",
         "Size": 68200,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "goatk",
           "Description": "This is a vanilla-game-house Breezehome remake mod. Attempt to make this house more elegant and functional completeness, but not go too far from the vanilla house. And it is made for DLC Hearthfire users.",
           "FileID": 1000085419,
@@ -562,7 +562,7 @@
         "Name": "Brigandage v.4-32706-4.7z",
         "Size": 99001982,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Franklin Zunge",
           "Description": "Adds 36 original brigand armours to level lists.\r\n\noptional files for craftable, and no leveled lists",
           "FileID": 1000196296,
@@ -583,7 +583,7 @@
         "Name": "Standard Resolution-30411-v3-1.rar",
         "Size": 4351202,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Hvergelmir",
           "Description": "The most popular eyebrow mod for Skyrim, Brows - from Hvergelmir\u0027s Aesthetic series.",
           "FileID": 1000130123,
@@ -604,7 +604,7 @@
         "Name": "Campfire 1.11-64798-1-11.zip",
         "Size": 26001077,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Chesko",
           "Description": "Campfire is the most feature-rich stand-alone camping mod for The Elder Scrolls V: Skyrim, created from Frostfall\u0027s immersive and detailed camping system. Campfire is also a modder\u0027s framework, allowing anyone to create their own unique camping equipment.",
           "FileID": 1000231580,
@@ -625,7 +625,7 @@
         "Name": "Carriage and Ferry Travel Overhaul-68221-2-0.7z",
         "Size": 4601541,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kinaga",
           "Description": "A lightweight overhaul of both the vanilla Skyrim carriage system and Dawnguard\u0027s ferry system. Realistic and bug-free.",
           "FileID": 1000240342,
@@ -646,7 +646,7 @@
         "Name": "CFTO - Covered Carriages add-on-68221-.7z",
         "Size": 26837,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kinaga",
           "Description": "A lightweight overhaul of both the vanilla Skyrim carriage system and Dawnguard\u0027s ferry system. Realistic and bug-free.",
           "FileID": 1000238408,
@@ -667,7 +667,7 @@
         "Name": "Cidhna Mine Expanded - Deluxe Version-59277-1-2.7z",
         "Size": 5790264,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Nerd of Prey",
           "Description": "Cidhna Mine, Skyrim\u0027s most notorious prison and the source of Markarth\u0027s vast wealth, finally lives up to its reputation with this MASSIVE expansion. New places, new people, new challenges!",
           "FileID": 1000168704,
@@ -688,7 +688,7 @@
         "Name": "Data_Dawnguard.esm",
         "Size": 25056932,
         "State": {
-          "$type": "GameFileSource",
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Skyrim",
           "GameFile": "Data\\Dawnguard.esm",
           "GameVersion": "1.9.32.0",
@@ -704,7 +704,7 @@
         "Name": "Data_Dragonborn.esm",
         "Size": 64510413,
         "State": {
-          "$type": "GameFileSource",
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Skyrim",
           "GameFile": "Data\\Dragonborn.esm",
           "GameVersion": "1.9.32.0",
@@ -720,7 +720,7 @@
         "Name": "Data_HearthFires.esm",
         "Size": 3565491,
         "State": {
-          "$type": "GameFileSource",
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Skyrim",
           "GameFile": "Data\\HearthFires.esm",
           "GameVersion": "1.9.32.0",
@@ -736,7 +736,7 @@
         "Name": "Data_Update.esm",
         "Size": 1518686,
         "State": {
-          "$type": "GameFileSource",
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Skyrim",
           "GameFile": "Data\\Update.esm",
           "GameVersion": "1.9.32.0",
@@ -752,7 +752,7 @@
         "Name": "Cloaks of Skyrim 1-2 -12092-1-2.rar",
         "Size": 86482786,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Noodles",
           "Description": "Adds almost 100 new styles of cloak to the world of Skyrim, via crafting, levelled-lists, and static loot. They are lore-friendly and enchantable, and more are being added with every update. The aim of this mod is to provide some variety and flavour to the world, as well as the chance to wear a stylish cloak and quite literally keep the cold out.",
           "FileID": 1000014777,
@@ -773,7 +773,7 @@
         "Name": "Clothing and Clutter Fixes-43053-2-0.zip",
         "Size": 207995904,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kryptopyr",
           "Description": "Corrects keywords and inconsistent weights and value settings for Skyrim\u0027s clothing, jewelry, and clutter.  Circlets can be worn with hoods, hooded robes have been replaced with separated hood \u0026amp; robe versions, and enchanted jewelry now scales based on quality.  NPCs are attired in outfits that are appropriate to their position and background.",
           "FileID": 1000275596,
@@ -794,7 +794,7 @@
         "Name": "ClothingCraft v1.11 for Immersive Armors-67176-1-11.7z",
         "Size": 18475709,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DrMonops",
           "Description": "ClothingCraft adds recipes and new materials (including flax!) for crafting vanilla clothing.",
           "FileID": 1000171489,
@@ -815,7 +815,7 @@
         "Name": "Cobb Positioner-74768-2-3-2-1548901538.rar",
         "Size": 1981116,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DavidJCobb",
           "Description": "An in-game tool to edit objects easily and precisely.",
           "FileID": 1000290998,
@@ -836,7 +836,7 @@
         "Name": "College of Winterhold Entry Requirements 2.4-38448-2-4.zip",
         "Size": 14862,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "TorchicBlaziken",
           "Description": "Adds customizable skill level and Magicka requirements to join the College of Winterhold.",
           "FileID": 1000194521,
@@ -857,7 +857,7 @@
         "Name": "Combat Evolved - Modular-56147-2-4b.7z",
         "Size": 23210,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "CrushBoss -raulfin -GhostAgent",
           "Description": "This is a light script-free combat mod and difficulty increaser.  It is made to compliment and work with the three major combat overhauls: Duel - Combat Realism, Deadly Combat, and Ultimate Combat.  This mod makes combat more dangerous and unforgiving.  Combat Evolved changes nearly every aspect of combat.",
           "FileID": 1000216242,
@@ -878,7 +878,7 @@
         "Name": "Complete Crafting Overhaul Remade-49791-1-7.7z",
         "Size": 4231638,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kryptopyr",
           "Description": "The primary intention of this mod is to correct logical inconsistencies in the vanilla smithing system and to enhance the functionality and balance of crafting in Skyrim.",
           "FileID": 1000184408,
@@ -899,7 +899,7 @@
         "Name": "CAR - Content Addon Reqtified-72562-1-0b2.7z",
         "Size": 28626,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "UnmeiX",
           "Description": "This is a patch for the aMidianBorn Content Addon by Kryptopyr, applying Requiem\u0027s ideals to all of the new item variants and their implementation as necessary. USKP/CCO fixes/keywords applied.",
           "FileID": 1000190997,
@@ -920,7 +920,7 @@
         "Name": "Requiem - Craft-able Bottled Water-90452-1-0-0-0.rar",
         "Size": 5034,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "schofida",
           "Description": "Drinking alcohol will net you an empty bottle.. Craft bottled water by using an empty bottle at lakes and fresh water rivers.",
           "FileID": 1000274472,
@@ -941,7 +941,7 @@
         "Name": "Craftable planters 1.1-73449-1-1.7z",
         "Size": 290389,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "piotrmil",
           "Description": "Adds craftable Hearthfire Planters players can use to decorate and expand their gardens or homes. Requires Chesko\u0027s Campfire  ",
           "FileID": 1000214881,
@@ -962,7 +962,7 @@
         "Name": "Craftable Horse Barding-64069-3-4.7z",
         "Size": 51641371,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "The Forever Free Horse Armor Team",
           "Description": "Make armours for your equines.",
           "FileID": 1000242394,
@@ -983,7 +983,7 @@
         "Name": "COR - Crafting Overhaul Reqtified-61569-2-1b3.7z",
         "Size": 894976,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "UnmeiX",
           "Description": "This is a patch for Kryptopyr\u0027s Complete Crafting Overhaul Remade, retaining most of the changes made while adhering to Requiem\u0027s ideals of balance. USKP/CCO fixes/keywords applied.",
           "FileID": 1000266913,
@@ -1004,7 +1004,7 @@
         "Name": "Customizable Camera 2.11-37347-2-11.zip",
         "Size": 35642,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Arindel",
           "Description": "Customize your camera in-game via MCM. Also allows you to quicly swap sides or to set a view mode camera for landscape or portrait character.\n\nSkyUI required.",
           "FileID": 1000255774,
@@ -1025,7 +1025,7 @@
         "Name": "Dark Brotherhood Reborn - Dawnstar Sanctuary-20700-1-0-7.zip",
         "Size": 43467516,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "aluckymuse",
           "Description": "Not every super cool assassin organization wants to live in a filthy dark damp hole in the ground that has no real storage and not enough beds for everybody. Its time for the Sanctuary to become a proper base of operations",
           "FileID": 1000227808,
@@ -1046,7 +1046,7 @@
         "Name": "Dawn of Skyrim Collection 1.2-58275-1-2.zip",
         "Size": 47492150,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Vaelka",
           "Description": "All of the Dawn mods in a single .esp",
           "FileID": 1000129504,
@@ -1067,7 +1067,7 @@
         "Name": "Upgrade to 1.3-58275-1-3.zip",
         "Size": 270255,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Vaelka",
           "Description": "All of the Dawn mods in a single .esp",
           "FileID": 1000152148,
@@ -1088,7 +1088,7 @@
         "Name": "Dawnguard Rewritten - Arvak-24019-1-1-1.7z",
         "Size": 30185354,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Oriius",
           "Description": "Show of hands: who\u0027s tired of Bethesda\u0027s plastic horse?",
           "FileID": 1000016203,
@@ -1109,7 +1109,7 @@
         "Name": "With Improved Fireball Spell-30947-v2-4.rar",
         "Size": 2613,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "LargeStyle",
           "Description": "All dead bodies are now solid and can collide with yourself and other NPCs - no more walking straight through corpses!",
           "FileID": 1000011192,
@@ -1130,7 +1130,7 @@
         "Name": "Disable Ranged KillCams-18938-1-1.7z",
         "Size": 612,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ravenmast0r",
           "Description": "Disabled Ranged and Magic KillCams for Skyrim Update 1.6",
           "FileID": 68683,
@@ -1151,7 +1151,7 @@
         "Name": "DragonPriestMaskJournal1-0-14042-1-0.zip",
         "Size": 4434,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "whickus",
           "Description": "Adds a journal called \u201CDragon Priest Findings and Conjectures\u201D that provides a little back story and includes descriptions of locations where the Dragon Priest masks are suspected to be.",
           "FileID": 48379,
@@ -1172,7 +1172,7 @@
         "Name": "Dragon Stalking Fix-54274-1-2.7z",
         "Size": 1856617,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "sevencardz",
           "Description": "Dragon corpses will no longer follow you or fall out of the sky.",
           "FileID": 1000112815,
@@ -1193,7 +1193,7 @@
         "Name": "Dual_wield_parrying_re_1.9-52979-1-9.zip",
         "Size": 6602,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "me",
           "Description": "Fix bug with not being able to do light bashes without using the hotkey to block instead of the default blocking key. Completely rewritten in better coding style for better performance and memory consumption.",
           "FileID": 1000229052,
@@ -1214,7 +1214,7 @@
         "Name": "DVA Dynamic Vampire Appearance-41634-1-1.zip",
         "Size": 80495798,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Aipex8 and TaikoDragon",
           "Description": "Changes the appearance of vampires to visually represent the different stages of vampirism.",
           "FileID": 1000053609,
@@ -1235,7 +1235,7 @@
         "Name": "Dungeon Darkness v2.9.1-72594-2-9-1-1555210932.7z",
         "Size": 10220507,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "jbvertexx",
           "Description": "Explore Skyrim\u0027s dungeons in realistic, immersive, complete darkness.  This mod dynamically turns out lights as you enter a dungeon based on very detailed MCM settings.  It is compatible with any lighting mod, almost any added dungeon by other mods, and gives you complete control over level of light or dark in your dungeon exploration.",
           "FileID": 1000295859,
@@ -1256,7 +1256,7 @@
         "Name": "Dynamic Things-32448-1-40.rar",
         "Size": 1835031,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Dominoid",
           "Description": "Turn useless \u0026#34;statics\u0026#34; in Skyrim into something useful!\r\n\nTurn woodpiles, barrels, crates and hay bales into containers with appropriate contents.\r\n\nDrink or bottle mead, water, skooma or blood from mead barrels with spigots.\r\n\nGain experience from training dummies and archery targets.\r\n\nAnd much more . . .",
           "FileID": 1000044820,
@@ -1277,7 +1277,7 @@
         "Name": "Dynamic Things - Enhanced v1.7-54116-1-7.7z",
         "Size": 198657,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "FleischHals",
           "Description": "This is an update/upgrade for Dynamic Things by dominoid. It, e.g., enables harvesting of mammoth tusks from the skulls you can find all around Skyrim.",
           "FileID": 1000199866,
@@ -1298,7 +1298,7 @@
         "Name": "Easy Wheel Menu-69878-4-2.7z",
         "Size": 47348,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Axletree",
           "Description": "A wheelmenu (original design by expired), to make various skills and features from other mods available with a single key.",
           "FileID": 1000196975,
@@ -1319,7 +1319,7 @@
         "Name": "Enhanced Camera 1.4-57859-1-4.zip",
         "Size": 96946,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "LogicDragon",
           "Description": "This is a skse plugin that enables a visible body while maintaining the look and feel of vanilla first person. Also, any points where the game force switches to 3rd person (sitting, crafting, riding, werewolf, knockout/death, etc.) are now in 1st person.",
           "FileID": 1000218183,
@@ -1340,7 +1340,7 @@
         "Name": "ESFCompanions FULL VERSION-22650-0-3-8.7z",
         "Size": 6653830,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DreamKing",
           "Description": "Tired of being forced to be something you don\u0027t want to be? Think it\u0027s silly that a low-level mage with minimal weapon and armor skills can become leader of this famous band after only two weeks? No longer. Now you must truly earn your place among your Shield-Brothers and Sisters.",
           "FileID": 1000168375,
@@ -1361,7 +1361,7 @@
         "Name": "Even Better Quest Objectives v1.7-32695-1-7-1544641942.7z",
         "Size": 8437257,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "whickus with fixes and expansions by WilliamImm",
           "Description": "Enhances the quest descriptions in the vanilla game. An officially endorsed update to whickus\u0027s Better Quest Objectives.",
           "FileID": 1000287556,
@@ -1382,7 +1382,7 @@
         "Name": "Exchange currency-67504-3-01.zip",
         "Size": 20072077,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "uni_SL",
           "Description": "This mod adds two types of paper money, Merchant Guild Note(1,000G) and East Empire Company Note(5,000G). The weight of each note is 0.1. Some merchants have a new dialogue for exchanging these notes and septim coins.\r\n\nIf you use a mod which gives the weight to a gold coin, this mod reduces your burden by paper money.",
           "FileID": 1000203580,
@@ -1403,7 +1403,7 @@
         "Name": "00. ETaC Old v14.3.1 Complete-13608-14-3-1.7z",
         "Size": 233954728,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "missjennabee",
           "Description": "Expands upon existing towns, villages, settlements, cities, etc. So far includes: Darkwater Crosisng, Dawnstar, Dragon Bridge, Falkreath, Ivarstead, Karthwasten, Kynesgrove, Morthal, Riverwood, Rorikstead, Shors Stone, Stonehills and Winterhold.  (OPTIONAL: Dragon Bridge South, Whiterun Exterior Market, Solstheim, and Orc Strongholds.)",
           "FileID": 1000263878,
@@ -1424,7 +1424,7 @@
         "Name": "A. Faction Crossbows 2K-58704-1-03.7z",
         "Size": 66788682,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Deserter X",
           "Description": "This mod adds a craftable crossbow, unique quiver and four types of bolts for each of the following factions:\n\nCompanions\n\nDawnguard\n\nDark Brotherhood\n\nThieves Guild\n\nImperial Legion\n\nStormcloaks",
           "FileID": 1000136999,
@@ -1445,7 +1445,7 @@
         "Name": "FileAccess Interface for Skyrim Scripts - FISS-48265-1-21.7z",
         "Size": 222457,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lord Conti",
           "Description": "Easy to use interface for modders to save\u0026reload in-game variables (e.g. MCM settings) to/from file.",
           "FileID": 1000096729,
@@ -1466,7 +1466,7 @@
         "Name": "Fishing In Skyrim-16139-1-00.7z",
         "Size": 9059525,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Arodicus Snaux",
           "Description": "Adds working fishing nets, \\\u0022dynamite\\\u0022 fishing, and other goodies to Skyrim. Stop trying to grab fish with your bare hands! Look for a free net in a rowboat on the Riften canal, or talk to local general-goods vendors and apothecaries in Riverwood, Whiterun, Riften and Windhelm. \r\n",
           "FileID": 1000028310,
@@ -1487,7 +1487,7 @@
         "Name": "Follower Potions-78982-2-00-02.7z",
         "Size": 2763458,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kalivore",
           "Description": "Allows followers to use potions more intelligently - no more waiting til they\u0027re nearly dead to chug that Restore Health potion!\r\n\nFollowers can also use Fortify and Resist potions, to give them that edge in dangerous battles.\r\n\nAdditionally, then can now use poisons that you give them, to make them even more formidable and useful\u0026#",
           "FileID": 1000254605,
@@ -1508,7 +1508,7 @@
         "Name": "Footprints v1_00 - Legendary-22745-1-00.7z",
         "Size": 11592585,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "hexabit",
           "Description": "Adds footprints to the player, NPCs, and creatures.  Now with particle FX!",
           "FileID": 1000153806,
@@ -1529,7 +1529,7 @@
         "Name": "Frostfall 3.4.1 Release-11163-3-4-1.zip",
         "Size": 10960967,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Chesko",
           "Description": "Frostfall is a survival-style mod that adds cold weather survival gameplay elements to Skyrim.",
           "FileID": 1000231590,
@@ -1550,7 +1550,7 @@
         "Name": "Fuz Ro Doh 61-14884-6-1.7z",
         "Size": 249480,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "shadeMe",
           "Description": "A SKSE plugin that adds support for unvoiced in-game dialog,",
           "FileID": 1000264544,
@@ -1571,7 +1571,7 @@
         "Name": "Gemling Queen Jewelry - All In One Installer v4-1c-52266-4-1c.7z",
         "Size": 19880929,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Saerileth",
           "Description": "Ever get tired of the yucky opaque gemstone textures Bethesda chose to inflict on the stylish Dragonborn? Then this mod is for you! It replaces all jewelry gemstones with prettier, more realistic artwork. No more plastic wrap mostrosities on your forehead! Ah, if only Malachai could see the SPARKLES...",
           "FileID": 1000142242,
@@ -1592,7 +1592,7 @@
         "Name": "GIST Soul Trap-89971-1-2.zip",
         "Size": 27558,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "opusGlass",
           "Description": "A new and improved solution to the underfilled soul gem problem.",
           "FileID": 1000271826,
@@ -1613,7 +1613,7 @@
         "Name": "Google\u0027s Locked City Gates-86539-1-0-1.7z",
         "Size": 2093,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "GOOGLEPOX",
           "Description": "Locks the major city gates between 10pm and 6am.",
           "FileID": 1000254128,
@@ -1634,7 +1634,7 @@
         "Name": "GrassOnSteroids Regular Vanilla-33582-1-3a.zip",
         "Size": 1528,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Skyrimaguas",
           "Description": "THE BEST GRASS DENSITY MOD FOR SKYRIM\r\n\nGrass on Steroids is a grass density enhancer that can give you an FPS BOOST instead of slowing you down. You\u0027ll get thick and wild overgrown realistic grass  - without worrying about FPS lag!\r\n\nSupports both VANILLA and SKYRIM FLORA OVERHAUL (SFO) grasses. ",
           "FileID": 1000021917,
@@ -1655,7 +1655,7 @@
         "Name": "Guard Dialogue Overhaul-23390-1-4.7z",
         "Size": 1321538,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Eckss",
           "Description": "More Dialogue, More Realism, More Respect. This Mod alters the Guard Dialogue, changing it from something that breaks your immersion in the world of Skyrim to something that actually increases it. All in the original voices and Fully compliant with Skyrim Lore.",
           "FileID": 1000096379,
@@ -1676,7 +1676,7 @@
         "Name": "Guess the Distance v1_1_3b-30816-1-1-3b.rar",
         "Size": 1126492,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ecceau",
           "Description": "Gives you the ability to obtain distance and visibility dependent information on your target. Many options to choose from allow to obtain the target\\\u0027s distance, experience, aggression, race, armor, faction and weapon. The level of detail (and exactness of the distance measurement) depends on the distance and visibility of the target. The use of a ",
           "FileID": 1000009293,
@@ -1697,7 +1697,7 @@
         "Name": "HD Stone Quarry and Clay Deposit 2K-38479-1-0.7z",
         "Size": 16787423,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "skyrimaguas",
           "Description": "Finally, a high definition retexture for the Stone Quarry and Clay Deposit resources added by the Hearthfire DLC - created with high standards. Available in 2K and 1K.",
           "FileID": 1000039564,
@@ -1718,7 +1718,7 @@
         "Name": "Hearthfire Extended - All DLCs (Legendary Edition)-66783-1-0-3.7z",
         "Size": 2241662,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kinaga",
           "Description": "The essential expansion for Hearthfire.\r\n\n\r\n\nNew content for the Hearthfire DLC, integrated seamlessly with Hearthfire\u0027s construction system. Build any furniture in any room. Build additional wings off your cellar. Also includes bugfixes and enhancements to vanilla apiaries, butter churns and mead barrels.\r\n\n\r\n\nNow with servants",
           "FileID": 1000168435,
@@ -1739,7 +1739,7 @@
         "Name": "Heavy Armory V3.3-21120-3-3.7z",
         "Size": 10553396,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "PrivateEye",
           "Description": "This mod adds nearly 100 new weapons to Skyrim. You will find all new Halberds, Spears, Glaives, Shortswords, Quarter staves, Mauls, Hatchets and Clubs. Looking for some new gear to bash a skull in with (or get your skull bashed in with)? Than look no furhter than Heavy Armory!",
           "FileID": 1000228542,
@@ -1760,7 +1760,7 @@
         "Name": "Heljarchen Farm - BSA-50992-1-47.zip",
         "Size": 26046105,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Skvindt",
           "Description": "Rebuild a farm, hire workers, grow crops, and earn gold!",
           "FileID": 1000161145,
@@ -1781,7 +1781,7 @@
         "Name": "Hidden Hideouts of Skyrim - Merged-49723-3-1.7z",
         "Size": 1606438,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "lesi123",
           "Description": "A collection of small hideouts scattered across Skyrim. ",
           "FileID": 1000104788,
@@ -1802,7 +1802,7 @@
         "Name": "Hidden Hideouts of Skyrim - DLC-49723-3-1a.7z",
         "Size": 212256,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "lesi123",
           "Description": "A collection of small hideouts scattered across Skyrim. ",
           "FileID": 1000104790,
@@ -1823,7 +1823,7 @@
         "Name": "HQLODs - Meshes Hi-Res-4834.7z",
         "Size": 33602524,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ethatron",
           "Description": "This is a replacer for all of the the LOD files (incl. the 3D-Map).\r\nTexture resolution has been doubled and mesh resolution increased 2-20 fold,\r\nthis depends on the surface curvature.",
           "FileID": 21854,
@@ -1844,7 +1844,7 @@
         "Name": "HjerimTNF 0-3-44807-0-3.rar",
         "Size": 2086898,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "goatk",
           "Description": "This is a vanilla-game-house Hjerim remake mod. Attempt to make this house more elegant and functional completeness. And it is made for DLC Hearthfire users. \r\n\n\r\n\nRequire DLC Hearthfire!",
           "FileID": 1000071208,
@@ -1865,7 +1865,7 @@
         "Name": "Hold Border Banners-43493-1-0.rar",
         "Size": 544815,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Thicketford",
           "Description": "Adds banners along roads showing which hold you are about to enter.",
           "FileID": 1000061205,
@@ -1886,7 +1886,7 @@
         "Name": "Holidays v2_0-64820-2-0.7z",
         "Size": 25728793,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "isoku",
           "Description": "Villages/cities will visually change as holidays based on TES lore come and go. NPCs will also react to these changes by attending various events appropriate for the holiday.",
           "FileID": 1000155895,
@@ -1907,7 +1907,7 @@
         "Name": "Honed Metal-51024-1-091.7z",
         "Size": 2856143,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SkylineR390",
           "Description": "Blacksmiths and mages all over Skyrim will be able to craft, temper and enchant your equipment, including any armor and weapons added by mods. The quality and price of their work will depend on their skill as blacksmiths and enchanters as well as your barter prowess. Fully customizable through an MCM menu.",
           "FileID": 1000255256,
@@ -1928,7 +1928,7 @@
         "Name": "HSTNF 1-6-33888-1-6.rar",
         "Size": 73439,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "goatk",
           "Description": "This is a Honeyside remake mod. Attempt to make this house more elegant and functional completeness, but not go too far from the vanilla house. And it is made for DLC Hearthfire users.",
           "FileID": 1000067501,
@@ -1949,7 +1949,7 @@
         "Name": "Horses Revamped - Animations-70640-1-0.7z",
         "Size": 42958,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DServant",
           "Description": "HDT horse model replacer and animation overhaul. Adds turning animations for sprinting and walking that don\u0027t exist in vanilla.",
           "FileID": 1000181348,
@@ -1970,7 +1970,7 @@
         "Name": "HouseOfHorrorsAlternateEnding-21700-1-00.zip",
         "Size": 13696,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kevin Kidder",
           "Description": "Adds an optional good-guy ending to the House of Horrors quest.",
           "FileID": 78818,
@@ -1991,7 +1991,7 @@
         "Name": "Hunterborn-33201-1-6-1540444495.7z",
         "Size": 55498467,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "dragonsong",
           "Description": "Changes animal looting into a process of dressing, skinning, harvesting, and butchering. Adds hunting knives, many new alchemy ingredients, animal meat, recipes, and foraging. Requires SKSE / MCM.",
           "FileID": 1000284682,
@@ -2012,7 +2012,7 @@
         "Name": "Hunterborn SkyTEST Patch v1.5-68822-1-5.7z",
         "Size": 636361,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DrMonops",
           "Description": "The Hunterborn SkyTEST Patch makes the geese, pigs, sheep, and young animals from etayorius\u0027 SkyTEST - Realistic Animals and Predators work with unuroboros\u0027 Hunterborn without the use of the latter\u0027s Taxonomy power. An alternate version of this patch is available with integrated support for Complete Alchemy and Cooking Overhaul. All ver",
           "FileID": 1000221188,
@@ -2033,7 +2033,7 @@
         "Name": "Hunters Not Bandits for RDO-79258-3-1.7z",
         "Size": 7948,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "raccoondance",
           "Description": "NPC\u0027s will not use taunts or insults when fighting animals. Especially hunters will behave in a more realistic manner, as well as fixing the odd behavior where enemies could start using greetings and other unfitting dialogues right after they killed you.",
           "FileID": 1000241205,
@@ -2054,7 +2054,7 @@
         "Name": "Immersive Armors v8-19733-8.7z",
         "Size": 989941859,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Hothtrooper44",
           "Description": "Immersive Armors seeks to drastically enhance the variety of armors in the world of Skyrim in a lore friendly way. The goal of every set is to blend into the lore, balance, and feel of the game for the most immersive experience possible.",
           "FileID": 1000183703,
@@ -2075,7 +2075,7 @@
         "Name": "Immersive Children 5.0 FOMOD Installer (4th Revision)-83554-5-0.7z",
         "Size": 1910409,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "GarlantheGreat and iMACobra",
           "Description": "This is not just another killable children mod. Past killable children mods had unintentionally prevented children from doing dedicated child animations, as in Hearthfire. This mod aims to fix those issues. If you use this mod, NO OTHER KILLABLE CHILDREN MODS ARE REQUIRED.",
           "FileID": 1000269755,
@@ -2096,7 +2096,7 @@
         "Name": "Immersive College of Winterhold-36849-V6-2-1607297550.7z",
         "Size": 406598889,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Grantyboy050",
           "Description": "An overhaul of the buildings and inhabitants of the College of Winterhold.",
           "FileID": 1000329369,
@@ -2117,7 +2117,7 @@
         "Name": "Immersive Horses-64067-2-5.7z",
         "Size": 18361674,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "sevencardz - CyborgArmGun - KrittaKitty",
           "Description": "A complete overhaul for the horses in Skyrim.",
           "FileID": 1000242701,
@@ -2138,7 +2138,7 @@
         "Name": "Immersive HUD - iHUD-3222-3-0-03.rar",
         "Size": 17414,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Gopher",
           "Description": "HUD when you need it. HIDE when you don\u0027t.\r\n\n\r\n\nGet the best of both worlds. The usefulness of having a HUD with the immersion of having none.",
           "FileID": 1000147561,
@@ -2159,7 +2159,7 @@
         "Name": "Immersive Patrols-12977-2-2-2-1556497169.7z",
         "Size": 15551578,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Scrabbulor",
           "Description": "Immersive Patrols adds a reasonable amount of Stormcloak, Thalmor, Imperial and Dawnguard patrols to Skyrim and Skaal, Reaver and Riekling patrols to Solstheim. These patrols often cross paths with each other or the player creating new encounters or unexpected aid. It also includes small Civil War battles and some non-Khajiit Caravans.",
           "FileID": 1000296781,
@@ -2180,7 +2180,7 @@
         "Name": "Immersive Sounds Compendium 2.0.2-54387-2-0-2.zip",
         "Size": 225552618,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "lazygecko",
           "Description": "A dramatic overhaul of Skyrim\u0027s sound.",
           "FileID": 1000225790,
@@ -2201,7 +2201,7 @@
         "Name": "Imperial Mail-63247-2-1-1.7z",
         "Size": 12343357,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "NorthHare",
           "Description": "Register with the Skyrim branch of the Imperial Mail and you can have inconvenient shiny things delivered to a selection of taverns across mainland Skyrim for later collection. You also get a savings account for easy access to your coin.",
           "FileID": 1000224885,
@@ -2222,7 +2222,7 @@
         "Name": "Improved Closefaced Helmets (Legendary Edition)-15927-1-57.zip",
         "Size": 11009398,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "navida1",
           "Description": "improvement to the closefaced helmets so that the eyes are visible from the outside....",
           "FileID": 1000154235,
@@ -2243,7 +2243,7 @@
         "Name": "Inconsequential NPCs 1 dot 9e-36334-1-9e.rar",
         "Size": 59308121,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ripple",
           "Description": "Adds NPCs and dialogue scenes to Skyrim to enhance the social ambiance of the game, all voiced. Aims to be unintrusive in implementation to maximize compatibility with large load orders.",
           "FileID": 1000165316,
@@ -2264,7 +2264,7 @@
         "Name": "iNeed v1_602-51473-1-602.7z",
         "Size": 3108174,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "isoku",
           "Description": "A streamlined approach to needs.",
           "FileID": 1000162106,
@@ -2285,7 +2285,7 @@
         "Name": "Fog Mesh Remover-736.zip",
         "Size": 259231,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "747823",
           "Description": "",
           "FileID": 1844,
@@ -2306,7 +2306,7 @@
         "Name": "JaySuS Swords V13C-1002-13C.rar",
         "Size": 147645334,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "JaySuS",
           "Description": "adds 53 new craftable weapons to the game",
           "FileID": 34121,
@@ -2327,7 +2327,7 @@
         "Name": "JaySuS Swords V13C to V13D Update-1002-13D.rar",
         "Size": 13148708,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "JaySuS",
           "Description": "adds 53 new craftable weapons to the game",
           "FileID": 54010,
@@ -2348,7 +2348,7 @@
         "Name": "KFR - Kryptopyr\u0027s Fixes Reqtified-61520-2-1b5.7z",
         "Size": 7834524,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "UnmeiX",
           "Description": "This is a patch that reworks Kryptopyr\u0027s Weapons and Armor Fixes and Clothing and Clutter Fixes to better suit Requiem\u0027s balance, and includes integrated Reqtified versions of True Orcish and Daedric Weapons and Faster Arrows. USKP/CCO fixes/keywords applied.",
           "FileID": 1000268916,
@@ -2369,7 +2369,7 @@
         "Name": "Less Intrusive Hud - Main files-35154-1-1.rar",
         "Size": 325951,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Crashnburn",
           "Description": "Less Intrusive HUD II allows you to tweak / change pretty much every element in the vanilla HUD.",
           "FileID": 1000027978,
@@ -2390,7 +2390,7 @@
         "Name": "Loot and Degradation v1_31-55677-1-31.7z",
         "Size": 2183222,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "isoku",
           "Description": "NPCs now have access to tempered/enchanted items that were previously only available to you. Tempered items no longer retain their tempered state forever.",
           "FileID": 1000128777,
@@ -2411,7 +2411,7 @@
         "Name": "Lore-Based Loading Screens 1.2-21265-1-2.zip",
         "Size": 18442,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Chesko",
           "Description": "Adds 160\u002B new loading screens steeped in Tamrielic lore. Become deeper immersed in the Elder Scrolls mythos with tons of quotes from in-game books (from Skyrim and past Elder Scrolls titles), history, mythology, and little-known facts about the world of Tamriel.",
           "FileID": 1000225989,
@@ -2432,7 +2432,7 @@
         "Name": "Missives 2.03-85815-2-03-1562184950.rar",
         "Size": 149264,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "IronDusk33",
           "Description": "Adds a large number of localized radiant quests found at Missive Boards of varying difficulty and with varying rewards.",
           "FileID": 1000300526,
@@ -2453,7 +2453,7 @@
         "Name": "Moonlight Tales - Essentials - Version 2_51-59463-2-51.7z",
         "Size": 248853851,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Brevi - Al99 - NsJones",
           "Description": "Werewolf and Werebear Essentials is a compact edition of Moonlight Tales with my favorite (and arguably best) features. Aims to be totally bug free, it is compatible with any mod and has no impact on performance. New features include: countless new skins, lunar transformations, werebears, new abilities, custom animations, sound effects.",
           "FileID": 1000194492,
@@ -2474,7 +2474,7 @@
         "Name": "AHZmoreHUD_v2_1_3-51956-2-1-3.7z",
         "Size": 100535,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ahzaab",
           "Description": "Adds more information to the HUD\n\n\n\nNow you can target an object such as a weapon, piece of armor, or an ingredient and see information about the object",
           "FileID": 1000117602,
@@ -2495,7 +2495,7 @@
         "Name": "Mortal Enemies v1.4 - Requiem - No Movement Tweaks Version-73921-1-4.rar",
         "Size": 12970,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "center05",
           "Description": "Improves Skyrim\u0027s combat by removing the ultra-precise aimbot attacks of Creatures, and imposing movement limits on Humanoid NPCs while they are attacking!",
           "FileID": 1000200299,
@@ -2516,7 +2516,7 @@
         "Name": "Nightingale Hall-13632-3-0.zip",
         "Size": 1091370,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kryptopyr",
           "Description": "Upgrades Nightingale Hall into a more liveable and functional space, and allows Karliah to become a follower.  Adds a portal to the Twilight Sepulcher, ability to level up Nightingale gear, and other features.  ",
           "FileID": 1000096179,
@@ -2537,7 +2537,7 @@
         "Name": "No Snow Under the Roof and 3D snow 2_3-51188-2-3.7z",
         "Size": 22960206,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Prometheus",
           "Description": "This mod adds 3d snow on snow covered farms and removes the snow from under the roofs .",
           "FileID": 1000100560,
@@ -2558,7 +2558,7 @@
         "Name": "Texture 2-25501-.7z",
         "Size": 23366510,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Warburg",
           "Description": "Paper map replacements for the World Map",
           "FileID": 108150,
@@ -2579,7 +2579,7 @@
         "Name": "Dawnguard Addon-25501-.7z",
         "Size": 2607,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Warburg",
           "Description": "Paper map replacements for the World Map",
           "FileID": 106933,
@@ -2600,7 +2600,7 @@
         "Name": "Paper World Map Addons-84734-1-2-2.rar",
         "Size": 57341763,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Duncan E Larsen",
           "Description": "A collection of my addons for Warburg\u0027s Paper World Map. Now fully 2D (Like a real map!)",
           "FileID": 1000249373,
@@ -2621,7 +2621,7 @@
         "Name": "PapyrusUtil - Scripting Utility Functions-58705-3-3.zip",
         "Size": 379841,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "exiledviper meh321",
           "Description": "An SKSE plugin adding several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.",
           "FileID": 1000220820,
@@ -2642,7 +2642,7 @@
         "Name": "People are Strangers-56744-1-0.7z",
         "Size": 1234,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sagittarius22",
           "Description": "You will not magically know people\u0027s name until they talk to you, or you talk to them.",
           "FileID": 1000120836,
@@ -2663,7 +2663,7 @@
         "Name": "RealisticRoomRental-Enhanced-25029-1-8-3.7z",
         "Size": 5260438,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "perseid9",
           "Description": "Overhaul the inns, taverns and room rental system.",
           "FileID": 1000094963,
@@ -2684,7 +2684,7 @@
         "Name": "Pumping Iron - Dynamic Muscle Growth v1_0_1-29476-1-0-1.rar",
         "Size": 4480,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Gopher",
           "Description": "See your characters muscles grow as they train and fight their way through Skyrim.",
           "FileID": 1000001039,
@@ -2705,7 +2705,7 @@
         "Name": "RaceCompatibility All-in-One NMM installer-24168-1-107.7z",
         "Size": 181701,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "TMPhoenix",
           "Description": "This package allows mod authors to make mods based on the RaceCompatibility.esm to work properly with Dawnguard. With optional compatibility for UFO, USKP/USLEEP, Better Vampires, Vampiric Thirst and Sacrosanct. Also fixes a bug in RaceCompatibility related to multiple custom races.",
           "FileID": 1000268131,
@@ -2726,7 +2726,7 @@
         "Name": "RaceMenu v3-4-5-29624-3-4-5.7z",
         "Size": 13982702,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Expired",
           "Description": "Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints. (Requires SKSE)",
           "FileID": 1000184041,
@@ -2747,7 +2747,7 @@
         "Name": "Real Roads for Skyrim (BSA)-55518-1-01.zip",
         "Size": 57313143,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "dukefx",
           "Description": "Replaces the flat roads with 3D meshes",
           "FileID": 1000115713,
@@ -2768,7 +2768,7 @@
         "Name": "Real Roads for Skyrim (Dawnguard and Dragonborn)-55518-1-01.zip",
         "Size": 4487,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "dukefx",
           "Description": "Replaces the flat roads with 3D meshes",
           "FileID": 1000116934,
@@ -2789,7 +2789,7 @@
         "Name": "Realistic Humanoid Movement Speed 1_03-32229-1-03.rar",
         "Size": 784,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "brump",
           "Description": "Vanilla playable character walks too slowly, and jog unproportionately fast, and sprints like Usain Bolt across gender.\r\n\nThis mod refines the actor movement speed to a realistic rate. The speeds have been fine-tuned many times before this release.\r\n\n\r\n\n",
           "FileID": 1000016529,
@@ -2810,7 +2810,7 @@
         "Name": "Realistic Lighting Overhaul v5.0.3 - All-In-One Installer-30450-5-0-3.zip",
         "Size": 13239873,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "The Realistic Lighting Team",
           "Description": "Realistic Lighting Overhaul 5.0 is here! This is a massive overhaul of Skyrim\u0027s lighting. Exteriors also vastly overhauled! No Post Processing - No FPS loss! New features added!! - As of 5.0, Dwemer Lighting Technology has been added to the game. Check out Understone Keep for an introduction to this feature!",
           "FileID": 1000247948,
@@ -2831,7 +2831,7 @@
         "Name": "Realistic Force-601-1-9.rar",
         "Size": 322469,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "dDefinder",
           "Description": "(ESP plugin)Reduces the extra force applied on ragdolls to a more reasonable level\n\n(MESH)Replaces ragdolls so that they bend and twist realistically and fall at a faster velocity, and increases friction to fix ice-like ragdoll sliding",
           "FileID": 1000007570,
@@ -2852,7 +2852,7 @@
         "Name": "Realistic Torches-77924-1-0.zip",
         "Size": 544918,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "simsim899",
           "Description": "Realistic Torches is a mod which aims to make using torches in Skyrim become as immersive as possible. The mod includes features like having your torch go out in different weather types, unique sounds effects and full mod control using the MCM.",
           "FileID": 1000219258,
@@ -2873,7 +2873,7 @@
         "Name": "Realistic Trading Stocks of Skyrim (with DnD Spellcasting Service)-77680-1-0-1545584906.7z",
         "Size": 4058700,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Alexandriel",
           "Description": "Realistic Trading Stocks of Skyrim (with D\u0026amp;D Spellcasting Service). There are many useless NPCs in Skyrim, that can be, and should be, very useful.",
           "FileID": 1000288174,
@@ -2894,7 +2894,7 @@
         "Name": "Realistic Water Two v1_11-41076-1-11.7z",
         "Size": 52687423,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "isoku",
           "Description": "New water surface textures were carefully crafted in an attempt to imitate the fluid motion of water. Lake, pond, river and ocean water are now visually and aurally distinct from each other. Various water effects have also been modified.",
           "FileID": 1000081546,
@@ -2915,7 +2915,7 @@
         "Name": "Realistic Wolf Howls Less barks-30636-1-4.rar",
         "Size": 3668289,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Korvik",
           "Description": "Small replacement of original sounds of wolves howling with improved more realistic ones.\r\n",
           "FileID": 1000009936,
@@ -2936,7 +2936,7 @@
         "Name": "Reflection 1_1-25469-1-1.zip",
         "Size": 6941,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Chesko",
           "Description": "Reflection brings back the level up messages found in previous Elder Scrolls titles.",
           "FileID": 1000004530,
@@ -2957,7 +2957,7 @@
         "Name": "Relationship Dialogue Overhaul - RDO v2.0i-74568-2-0.7z",
         "Size": 93433771,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cloudedtruth",
           "Description": "Adds over 5,000 lines of completely voiced dialogue for NPCs using the original voices. Friends, followers, spouses, rivals, and others have much more to say. All default voices now have follower dialogue. Fully voiced Khajiit marriage dialogue. Also fixes dialogue bugs and restores cut dialogue that has never been heard before!",
           "FileID": 1000247010,
@@ -2978,7 +2978,7 @@
         "Name": "Rent My House-75073-1-0-1.7z",
         "Size": 304850,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "NorthHare",
           "Description": "Put your unused houses to work by renting them out!",
           "FileID": 1000205815,
@@ -2999,7 +2999,7 @@
         "Name": "Requiem - Dragonborn Patch-78139-2-2-1-1548429055.7z",
         "Size": 9539043,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Fozar",
           "Description": "This patch makes DLC Dragonborn fully compatible with Requiem.",
           "FileID": 1000290634,
@@ -3020,7 +3020,7 @@
         "Name": "Requiem - Minor Arcana Reborn 2.68-90983-2-68.7z",
         "Size": 50037826,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Axonis",
           "Description": "Updates Requiem - Minor Arcana to play well with multiple versions of Requiem.",
           "FileID": 1000272739,
@@ -3041,7 +3041,7 @@
         "Name": "Requiem - Illusion Redone-78134-3-1-1-1582599567.zip",
         "Size": 8753,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Noxcrab",
           "Description": "Tweaks for Requiem by Noxcrab (mhc9840)",
           "FileID": 1000313900,
@@ -3062,7 +3062,7 @@
         "Name": "NRM Undeath - Requiem Patch-60508-1-0.zip",
         "Size": 3522040,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Nerimir",
           "Description": "Compatibility patches for Requiem and several quest mods.",
           "FileID": 1000190280,
@@ -3083,7 +3083,7 @@
         "Name": "Requiem 3.0.2 - Consign To Oblivion Bugfix Pack 2-19281-3-0-2-1555097677.7z",
         "Size": 558565431,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "The Requiem Dungeon Masters",
           "Description": "Requiem is a project with the goal of turning Skyrim into a better roleplaying experience by making game more immersive, semi-realistic and coherent, with the tend to find a compromiss between old school mechanics and more modern approaches. It\u0027s too much to describe here, so if you are truly into roleplaying games, feel free to check it out",
           "FileID": 1000295725,
@@ -3104,7 +3104,7 @@
         "Name": "Requiem Plus 3.0-73672-3-0-1552194581.7z",
         "Size": 17104,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "nossr50",
           "Description": "Requiem Plus is updated to play well with Requiem 3.0.0, and offers optional fixes and improvements through a MCM menu.",
           "FileID": 1000293597,
@@ -3125,7 +3125,7 @@
         "Name": "Roadsigns Redone-33603-1-1.7z",
         "Size": 3612437,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Hanaisse",
           "Description": "A mesh and texture replacer for all of Skyrim\\\u0027s roadsigns to enhance their look and make them easier to read. They still retain their aged and weathered look, just ... updated.",
           "FileID": 1000019046,
@@ -3146,7 +3146,7 @@
         "Name": "Severin Manor improvements with New Items 1_7_7-31167-1-7-7.7z",
         "Size": 2464285,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "uglydemon",
           "Description": "Some fixes and additions to Dragonborn\\\u0027s Severin Manor to make it more appealing.",
           "FileID": 1000019263,
@@ -3167,7 +3167,7 @@
         "Name": "Simple Bedrolls and Supplies-74027-1-0.7z",
         "Size": 31530,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "gobbldygook",
           "Description": "Adds six craftable bedroll variations as well as a chest, barrel, cook pot, chopping block, bed, chair, and table.",
           "FileID": 1000198371,
@@ -3188,7 +3188,7 @@
         "Name": "Simple Drop Lit Torches-56566-1-0-7.zip",
         "Size": 12382,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Snotgurg",
           "Description": "Simple Drop Lit Torches gives you simple torch handling through two configurable hotkeys: One for equipping and unequipping a torch from your inventory, and the other to directly drop a lit torch from your inventory to the ground. The mod gives you the options to enable automated torch handling features if you want: automated dropping of torches, a",
           "FileID": 1000192117,
@@ -3209,7 +3209,7 @@
         "Name": "Simple Follower Extension LE-102914-1-6-1614735956.7z",
         "Size": 23886,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ekagames",
           "Description": "This is a simple follower extension MOD. You will be able to take up to 10 humanoid followers from the normal conversation dialogue.\n\n\n\nFeatures required for multiple followers, such as prevention of hostilities, are already implemented.",
           "FileID": 1000333503,
@@ -3230,7 +3230,7 @@
         "Name": "Simple Taxes 3.5-57239-3-5.7z",
         "Size": 29758,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mattiewagg",
           "Description": "Simple Taxes allows the player to pay taxes for horses and houses and customize all of its features through an MCM.",
           "FileID": 1000142141,
@@ -3251,7 +3251,7 @@
         "Name": "Simply Knock 1.0.8 Release-73236-1-0-8.zip",
         "Size": 777662,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Chesko",
           "Description": "Simply Knock is the first feature-complete mod that allows you to knock on locked doors of houses in Skyrim.",
           "FileID": 1000196362,
@@ -3272,7 +3272,7 @@
         "Name": "Skyrim Flora Overhaul v2.5b-141-2-5b.7z",
         "Size": 191758983,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "vurt",
           "Description": "More detailed trees and flora.",
           "FileID": 1000201723,
@@ -3293,7 +3293,7 @@
         "Name": "Skyrim Project Optimization - No Homes - Full Version-32505-1-6.rar",
         "Size": 74706,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "rgabriel15",
           "Description": "That is a mod aimed to improve the performance in almost all interiors of Skyrim while keeping the game intact.",
           "FileID": 1000102235,
@@ -3314,7 +3314,7 @@
         "Name": "Skyrim Sewers 412 Main File-14351-4-12.rar",
         "Size": 31476356,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Viltuska",
           "Description": "Adds sewer systems to Solitude, Whiterun \u0026 Windhelm and a couple of forts",
           "FileID": 1000108828,
@@ -3335,7 +3335,7 @@
         "Name": "Skyrim Unbound Reborn-98850-1-5-6-1621888120.7z",
         "Size": 2842071,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "chinagreenelvis - lilebonymace",
           "Description": "An alternate start mod with a wide range of options, including the ability to play as a non-Dragonborn character. Updated and significantly reworked.",
           "FileID": 1000337264,
@@ -3356,7 +3356,7 @@
         "Name": "SkyTEST - Realistic Animals and Predators v1_65-10175-1-65.7z",
         "Size": 108151801,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "EtaYorius",
           "Description": "The FIRST and most Advanced Mod that gives new Artificial Intelligence to animals for more realistic behavior, GUARANTEE OR YOUR MONEY BACK!",
           "FileID": 1000274422,
@@ -3377,7 +3377,7 @@
         "Name": "SkyUI_5_1-3863-5-1.7z",
         "Size": 1346875,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SkyUI Team",
           "Description": "Elegant, PC-friendly interface mod with many advanced features.",
           "FileID": 1000172397,
@@ -3398,7 +3398,7 @@
         "Name": "SkyUI AIO Survival (SAS) 2.3 FrostFall-96918-2-3-1562884012.rar",
         "Size": 647164,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Beven _ b3lisario",
           "Description": "Recreation of SkyUI Show Armor Slots \u002B adds many other information columns: total weight, armor gender, base armor/weapon damage, known enchantment, etc. Please see description and images for more info.",
           "FileID": 1000300933,
@@ -3419,7 +3419,7 @@
         "Name": "Sleep Tight v1_04-50954-1-04.7z",
         "Size": 561654,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "isoku",
           "Description": "Sleep-related enhancements to NPCs.",
           "FileID": 1000112394,
@@ -3440,7 +3440,7 @@
         "Name": "Smart Cast-43123-1-0.7z",
         "Size": 432573,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "NeoRunek",
           "Description": "Use SkyUI to get new alternatives to cast magic spells. Smart Spells are the main feature, you can automatically cast any spell if a set of customizable rules met. Spell Rings and Spell Combos can assist you to be an efficient caster. Give it a try if you are looking to improve your magic casting gameplay, it is compatible with SkyRe.",
           "FileID": 1000061017,
@@ -3461,7 +3461,7 @@
         "Name": "SPR - Smithing Perks Reqtified-69587-1-1-1.7z",
         "Size": 1679,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "UnmeiX",
           "Description": "This \u0027ultimate overhaul\u0027 is the culmination of all of my projects, a number of plugins that unite some of the greatest mods developed for Skyrim as seamlessly as possible. This page is a work in progress and will be updated regularly as I release new projects and gather additional information.",
           "FileID": 1000183087,
@@ -3482,7 +3482,7 @@
         "Name": "Spell Research 2.1.2-81214-2-1-2-1558666532.rar",
         "Size": 30292865,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "IronDusk33",
           "Description": "Adds a completely new system to research and discover spells from any supported spell mod. As well as adding an in-built spell tome and scroll crafting system, a Victorian-Era style alchemy system, where you can dissolve items, and mix or analyze the resultant solutions, and expands the lore of magic with dozens of texts and artifacts to find.",
           "FileID": 1000298338,
@@ -3503,7 +3503,7 @@
         "Name": "Spellsword V1.2.2-81600-1-2-2.7z",
         "Size": 259247,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "BusinessGoose",
           "Description": "Adds spell casting functionality to weapons and shields in the form of enchantments. Spell-enchantments can can contain any spells, including spells from mods, and can be cast by pressing a configurable casting button and either attacking or blocking.",
           "FileID": 1000248405,
@@ -3524,7 +3524,7 @@
         "Name": "SMIM 2-08-8655-2-08.7z",
         "Size": 1117043744,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Brumbek",
           "Description": "A massive project to greatly improve the appearance of countless static 3D models in Skyrim. Basically, this is my attempt to make the Skyrim architecture, clutter, furniture, and landscaping much nicer.",
           "FileID": 1000276682,
@@ -3545,7 +3545,7 @@
         "Name": "SV Mods Menu - Merged-86109-1-2-0.zip",
         "Size": 2741332,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "stradivuckos",
           "Description": "MCM menu for some of my modifications.",
           "FileID": 1000261268,
@@ -3566,7 +3566,7 @@
         "Name": "Take Notes - Journal of the Dragonborn-48375-1-52.7z",
         "Size": 3239518,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lord Conti",
           "Description": "TakeNotes adds a new player journal to the game which lets you create, view and export your own journal entries.",
           "FileID": 1000094411,
@@ -3587,7 +3587,7 @@
         "Name": "Tavern Games - Mini Games in Skyrim 1.4-68553-1-4.rar",
         "Size": 7461535,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sagittarius22",
           "Description": "This mod adds mini games to Skyrim! Board game, card game, dice games, lotteries, etc.",
           "FileID": 1000189303,
@@ -3608,7 +3608,7 @@
         "Name": "TavernAIFix-76623-1-1c-1576937020.7z",
         "Size": 4526,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Andrelo",
           "Description": "Fixes couple of annoying things in tavern worker\u0027s behavior.",
           "FileID": 1000310417,
@@ -3629,7 +3629,7 @@
         "Name": "The Choice is Yours-26359-2-0.zip",
         "Size": 1027059,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kryptopyr",
           "Description": "Stop quests from starting automatically. Pursue the quests you want, ignore the ones you don\u0027t.  Make your choices matter.",
           "FileID": 1000227946,
@@ -3650,7 +3650,7 @@
         "Name": "The Paarthurnax Resolution-106034-1-1609222362.7z",
         "Size": 7899,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Epic Crab",
           "Description": "A mod to resolve Skyrim\u0027s lizard problem.",
           "FileID": 1000330354,
@@ -3671,7 +3671,7 @@
         "Name": "Thieves Guild Requirements-14157-3-0.7z",
         "Size": 910449,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kryptopyr",
           "Description": "The Thieves Guild will now only recruit other thieves.  Brynjolf will no longer approach you if you are not a thief, and the Thieves Guild questline will not be activated until the player meets the necessary requirements.  You can also choose to set requirements that must be met before progressing along the Thieves Guild questline.",
           "FileID": 1000205146,
@@ -3692,7 +3692,7 @@
         "Name": "Toggleable Combat Music-108245-1-0-0-1624942260.7z",
         "Size": 2792,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Phinocio",
           "Description": "A simple mod allowing users to toggle combat music on and off. The default is off.",
           "FileID": 1000338654,
@@ -3713,7 +3713,7 @@
         "Name": "Trade And Barter - Hearthfire-34612-1-2.zip",
         "Size": 64605,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kryptopyr",
           "Description": "Provides many new, fully customizable variables to adjust the trade and barter rates in Skyrim, including merchant gold, trading perks, inventory respawn rates, and more.",
           "FileID": 1000025324,
@@ -3734,7 +3734,7 @@
         "Name": "Trade Routes v2-0-49369-2-0.7z",
         "Size": 1095761,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "taleden",
           "Description": "Dynamically adjusts the gold value and merchant supply of materials, ingredients, food, drinks, soul gems and spell tomes based on regional supply and demand, creating a network of profitable trade routes to discover.",
           "FileID": 1000168365,
@@ -3755,7 +3755,7 @@
         "Name": "Train and Study 1.0 - Legendary Version-83432-1-0.rar",
         "Size": 65095,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "IronDusk33",
           "Description": "You can now use training dummys, archery targets, and skill books to train and advance your skills.",
           "FileID": 1000244094,
@@ -3776,7 +3776,7 @@
         "Name": "True Storms - Thunder and Rain Redone-63478-1-5.rar",
         "Size": 35398869,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "fadingsignal",
           "Description": "Adds 20 new, high quality intense thunder sounds with TRUE randomization, fixing the vanilla \u0026#34;thunder loop bug\u0026#34;, and new heavy rain/snow textures/shaders AND INTERIOR SOUNDS! Storms are scary! Fully compatible with PureWeather, CoT, NLA, TAZ.",
           "FileID": 1000161691,
@@ -3797,7 +3797,7 @@
         "Name": "UIExtensions v1-2-0-57046-1-2-0.7z",
         "Size": 368137,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Expired",
           "Description": "Adds various custom menus to Skyrim for modder use.",
           "FileID": 1000152619,
@@ -3818,7 +3818,7 @@
         "Name": "UltSky - Core Files.7z",
         "Size": 53609442,
         "State": {
-          "$type": "WabbajackCDN",
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
           "Url": "https://authored-files.wabbajack.org/UltSky%20-%20Core%20Files.7z_d9abb378-04ad-40fb-a22c-d69759d3515b"
         }
       }
@@ -3831,7 +3831,7 @@
         "Name": "UltSky - DynDOLOD.7z",
         "Size": 456517755,
         "State": {
-          "$type": "WabbajackCDN",
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
           "Url": "https://authored-files.wabbajack.org/UltSky%20-%20DynDOLOD.7z_b279e0a8-d6ba-4fe3-98cc-1f1238f5fc9e"
         }
       }
@@ -3844,7 +3844,7 @@
         "Name": "UltSky - Post Install.7z",
         "Size": 6572330,
         "State": {
-          "$type": "WabbajackCDN",
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
           "Url": "https://authored-files.wabbajack.org/UltSky%20-%20Post%20Install.7z_be58d74a-fed1-4c18-a504-fc2211d8ff30"
         }
       }
@@ -3857,7 +3857,7 @@
         "Name": "Skyrim - Undeath 1-3-40607-1-3.rar",
         "Size": 108826597,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Antioch08",
           "Description": "When a powerful necromancer and his followers seek out the forbidden secrets of immortality that could threaten Skyrim, will you defeat him to stop his evil quest, or continue it yourself?",
           "FileID": 1000057875,
@@ -3878,7 +3878,7 @@
         "Name": "Undeath Immersive Lichdom V3.5-60783-V3-5.7z",
         "Size": 8310645,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tx12001",
           "Description": "Major Overhaul of Antioch08\u0027s Undeath Mod.",
           "FileID": 1000222760,
@@ -3899,7 +3899,7 @@
         "Name": "Underwater Treasure v4-33994-4.rar",
         "Size": 81037,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Jokerine",
           "Description": "Adds a total of 15 sunken treasure chests and an underwater Dwemer ruin along the coast of the Sea of Ghosts, as well as 36 treasure chests to assorted rivers and lakes around Skyrim, for intrepid adventurers to find.",
           "FileID": 1000190654,
@@ -3920,7 +3920,7 @@
         "Name": "Unlimited Bookshelves 2.2-10891-2-2.rar",
         "Size": 38059,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "da5id2701",
           "Description": "Lets you place as many books on a bookshelf as will fit, instead of a fixed number, as well as any other kind of item. Up to around 90 letter/note type books on a single shelf, and not limited to just books!",
           "FileID": 1000227395,
@@ -3941,7 +3941,7 @@
         "Name": "Unofficial Skyrim Legendary Edition Patch-71214-3-0-15-1569437811.7z",
         "Size": 184175288,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Unofficial Patch Project Team",
           "Description": "A comprehensive bugfixing mod for The Elder Scrolls V: Skyrim - Legendary Edition. The goal of the Unofficial Skyrim Legendary Edition Patch (aka USLEEP) is to eventually fix every bug with Skyrim and its 3 DLCs not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.",
           "FileID": 1000306031,
@@ -3962,7 +3962,7 @@
         "Name": "Vivid Weathers-73937-1-56.zip",
         "Size": 487178215,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mangaclub",
           "Description": "Vivid Weathers is the ultimate weathermod for skyrim. It combines features of COT, ESS,SS, Vivid Snow, Vivid Clouds and Fogs, Real Skyrim Snowflakes and much much more into one mod. It overhauls the colors and weathers with the aim to have stunning effects even without a ENB.",
           "FileID": 1000249095,
@@ -3983,7 +3983,7 @@
         "Name": "VHTNF1-5-35278-1-5.rar",
         "Size": 66542,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "goatk",
           "Description": "This is a Vlindrel Hall(VH) remake mod. Attempt to make this house more elegant and functional completeness, but not go too far from the vanilla house. And it is made for DLC Hearthfire users. ",
           "FileID": 1000051919,
@@ -4004,7 +4004,7 @@
         "Name": "Waymark - A Road Signs Mod - LE Backport-108684-1-2-1628473317.7z",
         "Size": 53675,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "lordkenyonkmp",
           "Description": "An LE backport of v1.2 of the original mod so LE users can replace Point The Way as well, also for use in the Ultimate Skyrim Wabbajack list.",
           "FileID": 1000340345,
@@ -4025,7 +4025,7 @@
         "Name": "Weapons and Armor Fixes Remade-34093-5-3.zip",
         "Size": 49070555,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kryptopyr",
           "Description": "Fixes bugs and incorrect settings for Skyrim\u0027s weapons and armors, as well as changing values and keywords to achieve greater consistency.",
           "FileID": 1000268719,
@@ -4046,7 +4046,7 @@
         "Name": "Wearable Lanterns 4.0.2 Release-17416-4-0-2.zip",
         "Size": 2954143,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Chesko",
           "Description": "Adds a craftable, wearable Travel Lantern that can be hooked onto your belt or held in your hand! Torchbug Lanterns, follower support, and more!",
           "FileID": 1000210308,
@@ -4067,7 +4067,7 @@
         "Name": "Werewolf Nighteye Toggle-37824-1-0.zip",
         "Size": 2040,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Wivru",
           "Description": "Adds a togglable NightEye to the ctrl key for werewolf players.",
           "FileID": 1000036724,
@@ -4088,7 +4088,7 @@
         "Name": "Wet and Cold v2_02-27563-.7z",
         "Size": 48943765,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "isoku",
           "Description": "This mod adds weather-dependent visual effects and NPC AI enhancements. All features related to the visual effects apply to all actors unless otherwise stated. Some features require SKSE to function.",
           "FileID": 1000225870,
@@ -4109,7 +4109,7 @@
         "Name": "Windhelm Exterior Altered 2.0-50977-2-0.rar",
         "Size": 3050222,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Bjs_336",
           "Description": "Made some changed on the existing dock also added a new dock/harbour outside Windhelm.\r\n\n",
           "FileID": 1000230308,
@@ -4130,7 +4130,7 @@
         "Name": "WIC Cloaks NMM 2_4-13486-2-4.7z",
         "Size": 67356860,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Nivea",
           "Description": "Winter Is Coming - Cloaks adds lore friendly cloaks and hoods into the world through the use of level lists and crafting, this will add more diversity to the game while keeping the \u0026#34;feel\u0026#34; of Skyrim. I was heavily inspired by Viking art and the HBO series Game of Thrones( A Song of Ice and Fire book series), none of the cloaks in the mod how",
           "FileID": 1000228988,
@@ -4151,7 +4151,7 @@
         "Name": "WM Flora Fixes-70656-2-01.7z",
         "Size": 1318047,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wiseman303",
           "Description": "Fixes bugs relating to harvestable objects in Skyrim, including the Flora Respawn Bug.\r\n\n\r\n\nEverything touched by this mod includes any fixes from the Unofficial Skyrim Legendary Edition Patch (v3.0.0.)",
           "FileID": 1000188271,
@@ -4172,7 +4172,7 @@
         "Name": "Wonders of Weather v1_01-64941-1-01.7z",
         "Size": 4129763,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "isoku",
           "Description": "Rain splashes, shooting stars and rainbows.",
           "FileID": 1000162113,
@@ -4193,7 +4193,7 @@
         "Name": "XP32 Maximum Skeleton Extended-68000-4-80-1610196781.7z",
         "Size": 2376163,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Team XPMSE",
           "Description": "XP32 Maximum Skeleton Extended is a completely redone version of \u0022XP32 Maximum Skeleton - XPMS\u0022 by xp32, for the HDT Physics Plugins and provides ingame customization features.",
           "FileID": 1000330971,
@@ -4214,7 +4214,7 @@
         "Name": "TES5Edit 4_0_3-25859-4-0-3-1575328633.7z",
         "Size": 27375918,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ElminsterAU and the xEdit Team",
           "Description": "TES5Edit is the Skyrim (\u0022Oldrim\u0022) version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.",
           "FileID": 1000309592,
@@ -4235,7 +4235,7 @@
         "Name": "Automatic Variants 2.0.1.3H-21377-2-0-1-3H.7z",
         "Size": 8639324,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Leviathan1753",
           "Description": "Tired of picking only one creature texture from the entire Nexus?  AV Provides an easy place to drag-and-drop alternate monster textures and have them automatically integrated into the game.",
           "FileID": 1000180646,
@@ -4256,7 +4256,7 @@
         "Name": "StarX AV Package Draugr SDM-21542-1-02.7z",
         "Size": 82247268,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "StarX",
           "Description": "A growing collection of dedicated packages to use with Automatic Variants to add some much needed variety to the creatures in Skyrim.",
           "FileID": 78733,
@@ -4277,7 +4277,7 @@
         "Name": "StarX AV Package Falmer SDM-21542-1-02.7z",
         "Size": 13064234,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "StarX",
           "Description": "A growing collection of dedicated packages to use with Automatic Variants to add some much needed variety to the creatures in Skyrim.",
           "FileID": 78738,
@@ -4298,7 +4298,7 @@
         "Name": "StarX AV Package Giant SDM-21542-1-02.7z",
         "Size": 10193922,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "StarX",
           "Description": "A growing collection of dedicated packages to use with Automatic Variants to add some much needed variety to the creatures in Skyrim.",
           "FileID": 78734,
@@ -4319,7 +4319,7 @@
         "Name": "StarX AV Package Hagraven SDM-21542-1-02.7z",
         "Size": 10354792,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "StarX",
           "Description": "A growing collection of dedicated packages to use with Automatic Variants to add some much needed variety to the creatures in Skyrim.",
           "FileID": 78740,
@@ -4340,7 +4340,7 @@
         "Name": "StarX AV Package Trolls SDM-21542-1-0.7z",
         "Size": 18970877,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "StarX",
           "Description": "A growing collection of dedicated packages to use with Automatic Variants to add some much needed variety to the creatures in Skyrim.",
           "FileID": 79309,
@@ -4361,7 +4361,7 @@
         "Name": "Bard Instrumentals Only - Sing Upon Request USKP-58555-1-0.rar",
         "Size": 7233,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "fadingsignal",
           "Description": "Changes a single line of the vanilla bard script so they will only play instrumentals, unless a song with vocals is specifically requested.  Does not edit weddings, quests, AI packages, or anything else.  Minor annoyance I had to fix and thought others may enjoy. Does not gag Bards, as pictured :)  No, ESPs, just a single .PEX file.",
           "FileID": 1000128912,
@@ -4382,7 +4382,7 @@
         "Name": "Better Dialogue Controls v1_2-27371-1-2.zip",
         "Size": 24869,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ecirbaf",
           "Description": "Ever pick the wrong item in a dialogue with a NPC? This mod aims to fix some annoyances with the way keyboard and mouse selection works in the dialogue interface.",
           "FileID": 103702,
@@ -4403,7 +4403,7 @@
         "Name": "Better MessageBox Controls v1_2-28170-1-2.zip",
         "Size": 17621,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ecirbaf",
           "Description": "Navigate all message boxes with the Left/Right and Activate (E) keys. Also fixes the clickable area of buttons so they are easier to select with the mouse.",
           "FileID": 105432,
@@ -4424,7 +4424,7 @@
         "Name": "ConsoleUtil v3-66257-3.zip",
         "Size": 99241,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "meh321",
           "Description": "A modder resource that implements few papyrus functions related to console. You can execute console commands, change selected reference and some other things.",
           "FileID": 1000180808,
@@ -4445,7 +4445,7 @@
         "Name": "DisplayEnemyLevel 1.3.1-90041-1-3-1-1556604377.7z",
         "Size": 170930,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Felisky",
           "Description": "This MOD displays enemy level and enemy health numbers on the HUDMenu.",
           "FileID": 1000296850,
@@ -4466,7 +4466,7 @@
         "Name": "DynDOLOD Resources-59721-2-88-1611333232.7z",
         "Size": 52176762,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sheson",
           "Description": "DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD \u002B tree LOD and the new,  optional dynamic distant object LOD in a few simple steps.",
           "FileID": 1000331578,
@@ -4487,7 +4487,7 @@
         "Name": "Follower Trap Safety v1_3-11609-1-3.zip",
         "Size": 5792,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Alek",
           "Description": "Followers and summoned creatures will no longer trigger bear traps, pressure plates and trip wires.",
           "FileID": 1000096698,
@@ -4508,7 +4508,7 @@
         "Name": "Grimy Plugin-69341-1-14.rar",
         "Size": 197057,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Grimy Bunyip",
           "Description": "an SKSE plugin",
           "FileID": 1000181166,
@@ -4529,7 +4529,7 @@
         "Name": "Improved Arjestin Font Replacement-72179-1-00.rar",
         "Size": 323679,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "red_codec",
           "Description": "Replaces the default font used in various parts of the game with an alternative set of fonts which are both easy to read and better suited to the style of medieval fantasy world.",
           "FileID": 1000188998,
@@ -4550,7 +4550,7 @@
         "Name": "iWASM V 1-51087-1-0.rar",
         "Size": 500129,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DarkWolfModding",
           "Description": "A more Immersive Sleep and Wait Menu (in my opinion, hopefully you will think so too)\r\n\nThis is my First UI Mod for skyrim hope you like it.",
           "FileID": 1000096935,
@@ -4571,7 +4571,7 @@
         "Name": "JContainers-49743-3-3-0-RC-3.zip",
         "Size": 6741440,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "silvericed",
           "Description": "",
           "FileID": 1000229066,
@@ -4592,7 +4592,7 @@
         "Name": "Less Intrusive HUD II - FISS Patch -towatot-35154-1.rar",
         "Size": 31561,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Crashnburn",
           "Description": "Less Intrusive HUD II allows you to tweak / change pretty much every element in the vanilla HUD.",
           "FileID": 1000156568,
@@ -4613,7 +4613,7 @@
         "Name": "MfgConsole-44596-1-1.zip",
         "Size": 131220,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kapaer",
           "Description": "This mod resurrects \u0022mfg phoneme/modifier\u0022 console command and PlayerBlink at Skyrim ver.1.9.32 again.\r\nAnd add some information window, some commands and customizable command-alias to console.",
           "FileID": 1000072625,
@@ -4634,7 +4634,7 @@
         "Name": "moreHUD Inventory Edition-93378-1-0-5-1556056485.7z",
         "Size": 164741,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ahzaab",
           "Description": "This mod brings some features from moreHUD into the inventory menu.  From your inventory you can now see if enchantments are known by the player and other features.  Also increases the Item Card size for mods that have long effect descriptions",
           "FileID": 1000296470,
@@ -4655,7 +4655,7 @@
         "Name": "Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar",
         "Size": 26127652,
         "State": {
-          "$type": "WabbajackCDN",
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
           "Url": "https://wabbajack.b-cdn.net/Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar_1958da7d-22ef-4439-a8b6-9745a077f199"
         }
       }
@@ -4668,7 +4668,7 @@
         "Name": "FNIS Behavior 7_6-11811-7-6-1582308039.7z",
         "Size": 3514270,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "fore",
           "Description": "No custom animation possible for Skyrim? Wrong. [color=skyblue]FNIS Behaviors allows to add different types of animations to the game[/color]: idles/poses, sequenced, furniture, paired, killmoves, creatures, and others.",
           "FileID": 1000313676,
@@ -4689,7 +4689,7 @@
         "Name": "OneTweak-40706-2-1-0-2.7z",
         "Size": 78538,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "virusek",
           "Description": "Skyrim, Fallout3, FalloutNV, Oblivion\r\n\nOneTweak - One To Tweak Them All!\r\n\nCurrently includes: Double Cursor Fix, Borderless Window and Skyrim ShowRaceMenu precache killer.",
           "FileID": 1000231728,
@@ -4710,7 +4710,7 @@
         "Name": "Papyrus Extender - 2.5-95017-2-5-1594238516.7z",
         "Size": 79110,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
           "Description": "An SKSE plugin with some custom Papyrus functions. Currently required by: Frozen Electrocuted Combustion \u002B Strange Runes.",
           "FileID": 1000322150,
@@ -4731,7 +4731,7 @@
         "Name": "Termor\u0027s Notification Mod (v 1.5)-85418-1-5.7z",
         "Size": 3773634,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Termor",
           "Description": "This mod allows up to 15 notifications to be displayed in the top left corner of the screen. Additionally, messages will start to fade after 30 frames instead of the default 80.",
           "FileID": 1000252704,
@@ -4752,7 +4752,7 @@
         "Name": "Traps Make Noise (and are Dangerous)-31799-2-3.zip",
         "Size": 85401,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kryptopyr",
           "Description": "Setting off traps will now create a detection event allowing the trap to be \u0022heard\u0022 by nearby NPCs.",
           "FileID": 1000273923,
@@ -4773,7 +4773,7 @@
         "Name": "WM Critter Fixes v1_06-54485-1-06.7z",
         "Size": 793605,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wiseman303",
           "Description": "Now with full 101BugsHD support!\r\n\n\r\n\nFixes collision on critters so they can be walked through, while still allowing them to be hit by projectiles and melee attacks.\r\n\nMakes insect ingredients float on water, and miscellaneous other fixes to critter meshes and physics.\r\n\nOptionally flips the monarch butterfly\u0027s backwards wi",
           "FileID": 1000117920,
@@ -4794,7 +4794,7 @@
         "Name": "WM Flora Fixes SMIM Patch-70656-2-0.7z",
         "Size": 319798,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wiseman303",
           "Description": "Fixes bugs relating to harvestable objects in Skyrim, including the Flora Respawn Bug.\r\n\n\r\n\nEverything touched by this mod includes any fixes from the Unofficial Skyrim Legendary Edition Patch (v3.0.0.)",
           "FileID": 1000185659,
@@ -4815,7 +4815,7 @@
         "Name": "aMidianBorn book of silence_UNIQUE ITEMS-24909-1-9.7z",
         "Size": 102628905,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "CaBaL- EmeraldReign-the AMB team",
           "Description": "aMidianBorn high-resolution texture replacer complete package",
           "FileID": 1000057469,
@@ -4836,7 +4836,7 @@
         "Name": "amb landscape with terrain parallax 2k-37865-5.7z",
         "Size": 380194128,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "CaBaL",
           "Description": "high quality texture replacer for landscape",
           "FileID": 1000156360,
@@ -4857,7 +4857,7 @@
         "Name": "BestInClassPlusPlus-100235-1-1-0-1574361694.zip",
         "Size": 134281,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Netrve",
           "Description": "BestInClass\u002B\u002B is a SKSE plugin for Skyrim Classic. It improves the BestInClass functionality offered by default in the game, by considering more categories and types for armor, weapons, and similar.",
           "FileID": 1000309107,
@@ -4878,7 +4878,7 @@
         "Name": "Better Jumping 1.3-65044-1-3.zip",
         "Size": 57003,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "meh321",
           "Description": "Allows to jump while sprinting. Also you can configure jump height multiplier, how many times you can jump (double jump like in action games) and some other things. No ESP!",
           "FileID": 1000158342,
@@ -4899,7 +4899,7 @@
         "Name": "Better Stealing 1_0-75296-1-0.zip",
         "Size": 59597,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "meh321",
           "Description": "If you steal without getting caught the item does not become \u0022stolen\u0022. Adjustable cost threshold.",
           "FileID": 1000204643,
@@ -4920,7 +4920,7 @@
         "Name": "Bug Fixes v1-76747-1.zip",
         "Size": 46792,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "meh321",
           "Description": "SKSE plugin that fixes some engine related bugs in game.",
           "FileID": 1000211731,
@@ -4941,7 +4941,7 @@
         "Name": "ClothingCraft - Darker Flax-67176-1-0.7z",
         "Size": 387522,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DrMonops",
           "Description": "ClothingCraft adds recipes and new materials (including flax!) for crafting vanilla clothing.",
           "FileID": 1000183577,
@@ -4962,7 +4962,7 @@
         "Name": "Cobb Bug Fixes-96734-1-6-1-1596574693.zip",
         "Size": 146211,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DavidJCobb",
           "Description": "A DLL which fixes bugs in Skyrim\u0027s game engine.",
           "FileID": 1000323500,
@@ -4983,7 +4983,7 @@
         "Name": "Copy and Paste in Console 1.0.0-100543-1-0-0-1576068873.7z",
         "Size": 105991,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Felisky",
           "Description": "This mod makes it possible to paste text copied to the clipboard into the Skyrim console. No ESP file.",
           "FileID": 1000309966,
@@ -5004,7 +5004,7 @@
         "Name": "Crash Fixes v12 - Beta 4-72725-12.zip",
         "Size": 228101,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "meh321",
           "Description": "Fixes some of the crashes in Skyrim.",
           "FileID": 1000212870,
@@ -5025,7 +5025,7 @@
         "Name": "DisableFollowerCollision v1.0.2-98804-1-0-2-1569408957.7z",
         "Size": 99764,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Felisky",
           "Description": "This mod disables collisions between the player and allied NPCs. Allied NPCs include followers, actors commanded by the player, and actors commanded by followers. No ESP file.",
           "FileID": 1000306013,
@@ -5046,7 +5046,7 @@
         "Name": "Dust Effects v2.0-44201-2-0.7z",
         "Size": 132627,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "HHaleyy",
           "Description": "This is a replacer for dust effect textures.",
           "FileID": 1000281241,
@@ -5067,7 +5067,7 @@
         "Name": "Enchantment Reload Fix-52717-1-2.7z",
         "Size": 71979,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "egocarib",
           "Description": "Fixes the bug that causes weapon enchantments to drain more charges, and increase drastically in price, after the game is reloaded.",
           "FileID": 1000106159,
@@ -5088,7 +5088,7 @@
         "Name": "Faster Sleep Wait-95796-1-0-1547925681.zip",
         "Size": 45046,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "lStewieAl",
           "Description": "Decreases the time spent waiting between hours in the Sleep/Wait menu. \n\nSimple dll (no running scripts or performance hit). Customise the delay in the INI file.",
           "FileID": 1000290204,
@@ -5109,7 +5109,7 @@
         "Name": "HD Enhanced Terrain PRO - Blended Version-29782-PRO.rar",
         "Size": 2154573,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Hritik Vaishnav -SkyrimENB",
           "Description": "Guys i am sure you will like ,,Distance terrain with More detail and with Hd resolution ...",
           "FileID": 1000067556,
@@ -5130,7 +5130,7 @@
         "Name": "LeanWolfs Better-Shaped Weapons v2.0.09-39870-2-0-09.7z",
         "Size": 20721263,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "LeanWolf and masterofshadows",
           "Description": "Tired of broad, thick weapons that would be far too heavy, blunt or unwieldy in actual combat? Maybe you find their styles a little too unconventional or just plain ugly? This mod simply reshapes the weapon meshes and is compatible with re-texture mods.",
           "FileID": 1000227598,
@@ -5151,7 +5151,7 @@
         "Name": "MemoryBlockLog-50471-1-2.zip",
         "Size": 386347,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sheson",
           "Description": "A SKSE plugin to log sizes of memory block 1 and 2",
           "FileID": 1000093989,
@@ -5172,7 +5172,7 @@
         "Name": "NVAC - New Vegas Anti Crash-53635-7-5-1-0.zip",
         "Size": 110679,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Queue",
           "Description": "Implements structured exception handling and sanity checking to reduce frequency of game crashes.",
           "FileID": 1000039152,
@@ -5193,7 +5193,7 @@
         "Name": "PrivateProfileRedirector LE 0.5-92725-0-5-1579966765.zip",
         "Size": 138611,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kerber",
           "Description": "Speeds up game start by storing INI files in memory instead of opening, parsing and closing the file each time some value from it is needed.",
           "FileID": 1000312254,
@@ -5214,7 +5214,7 @@
         "Name": "Realistic Water Two - ENB Textures-41076-1-11.7z",
         "Size": 61454277,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "isoku",
           "Description": "New water surface textures were carefully crafted in an attempt to imitate the fluid motion of water. Lake, pond, river and ocean water are now visually and aurally distinct from each other. Various water effects have also been modified.",
           "FileID": 1000081559,
@@ -5235,7 +5235,7 @@
         "Name": "Ruins_Clutter_Improved_NMM_v3-1-14227-3-1.rar",
         "Size": 234349516,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "raiserfx",
           "Description": "This mod does improve textures and meshes and also corrects UV errors of many clutter objects, which can mostly be found in the dungeons of Skyrim.",
           "FileID": 1000271502,
@@ -5256,7 +5256,7 @@
         "Name": "SafetyLoad 1_2-46465-1-2.zip",
         "Size": 60838,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kapaer",
           "Description": "This mod blocks \u0026#34;Infinite Loading Screen\u0026#34; bug and game freezing during play.",
           "FileID": 1000077692,
@@ -5277,7 +5277,7 @@
         "Name": "SkyrimSouls - Unpaused Game Menus-83379-V1-0-2-1.7z",
         "Size": 217651,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kassent",
           "Description": "This is a SKSE plugin that opening menu will not pause game like dark souls and bloodborne,give you a smoother game experience.Gone are the days when you opened menu to eat one thousand donuts while you were dying.",
           "FileID": 1000248072,
@@ -5298,7 +5298,7 @@
         "Name": "Sunglare Disabler-20100-1-0.rar",
         "Size": 277,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "MannyGT",
           "Description": "Replace sunglare texture with a blank texture. Useful for ENB with godrays",
           "FileID": 72912,
@@ -5319,7 +5319,7 @@
         "Name": "Vivid Landscapes - Dungeons and Ruins - for ENB - 2048-39874-2-6.7z",
         "Size": 211843296,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Hein84",
           "Description": "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\r\n\n-enhances dungeons and ruins with parallax depth effect\r\n\n-works with \u0026 without ENB\r\n\n-only a very small loss in performance (parallaxmaps are in 512)",
           "FileID": 1000113130,
@@ -5340,7 +5340,7 @@
         "Name": "aMidianBorn book of silence_Creatures-24909-1-9.7z",
         "Size": 74440359,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "CaBaL- EmeraldReign-the AMB team",
           "Description": "aMidianBorn high-resolution texture replacer complete package",
           "FileID": 1000057444,
@@ -5361,7 +5361,7 @@
         "Name": "aMidianBorn Caves and Mines 2k-39190-3.7z",
         "Size": 150742029,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "CaBaL",
           "Description": "high quality textures replacement for caves , frozen caves ,mines",
           "FileID": 1000086758,
@@ -5382,7 +5382,7 @@
         "Name": "aMidianBorn Solstheim Land-50013-1.7z",
         "Size": 79328317,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "CaBaL",
           "Description": "high quality  texture replacement for Solstheim Landscape",
           "FileID": 1000091880,
@@ -5403,7 +5403,7 @@
         "Name": "Covered Carriages - SMIM Version-37084-v2-5.7z",
         "Size": 934596,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Forzane",
           "Description": "Replaces the Travel Carriages of Skyrim with Covered Carriages ......Now With Touring Carriages Compatibility and a SMIM version as well",
           "FileID": 1000098624,
@@ -5424,7 +5424,7 @@
         "Name": "Detailed Rugs v1-5-29608-1-5.rar",
         "Size": 45553764,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "raiserfx",
           "Description": "This mod provides lore-friendly high-resolution textures and improved meshes for most of the rugs in Skyrim.\n\nAll textures were carefully overhauled to maintain the original style.",
           "FileID": 1000271592,
@@ -5445,7 +5445,7 @@
         "Name": "Main File -54805-V2.7z",
         "Size": 144306427,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "betterbecause",
           "Description": "A high resolution, completely lore-friendly retexture of skyrim\u0027s dragon priest masks.",
           "FileID": 1000113525,
@@ -5466,7 +5466,7 @@
         "Name": "Fences of Skyrim-58980-2-0.zip",
         "Size": 84761,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Therobwil",
           "Description": "Tired of those fences that are always flickering from a distance? These new meshes will fix that.\n\n\n\nNow with a few options to choose from.",
           "FileID": 1000136612,
@@ -5487,7 +5487,7 @@
         "Name": "Heavy Armory - aMidianBorn Skyforge Patch-21120-3-3.7z",
         "Size": 384091,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "PrivateEye",
           "Description": "This mod adds nearly 100 new weapons to Skyrim. You will find all new Halberds, Spears, Glaives, Shortswords, Quarter staves, Mauls, Hatchets and Clubs. Looking for some new gear to bash a skull in with (or get your skull bashed in with)? Than look no furhter than Heavy Armory!",
           "FileID": 1000228544,
@@ -5508,7 +5508,7 @@
         "Name": "Immersive Horses 2K Horse Textures-64067-1-0.7z",
         "Size": 49275574,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "sevencardz - CyborgArmGun - KrittaKitty",
           "Description": "A complete overhaul for the horses in Skyrim.",
           "FileID": 1000196259,
@@ -5529,7 +5529,7 @@
         "Name": "2k Textures-75377-1-1.rar",
         "Size": 99727193,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "johnskyrim",
           "Description": "Adds NEW models and textures for vanilla Dragon Claws. Comes in 1k, 2k and 4k Resolutions.",
           "FileID": 1000205295,
@@ -5550,7 +5550,7 @@
         "Name": "OSTP Medium-53879-1-0.rar",
         "Size": 36466284,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "osmodius",
           "Description": "Retextures Solitude with new hi-res textures. Parallax maps included. Everything was carefully crafted for a dark and gritty feel.",
           "FileID": 1000108439,
@@ -5571,7 +5571,7 @@
         "Name": "Alternate Wall-53879-1-0.rar",
         "Size": 12554115,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "osmodius",
           "Description": "Retextures Solitude with new hi-res textures. Parallax maps included. Everything was carefully crafted for a dark and gritty feel.",
           "FileID": 1000108951,
@@ -5592,7 +5592,7 @@
         "Name": "OWTP Regular-54322-1-0.rar",
         "Size": 110954685,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "osmodius",
           "Description": "A hi-res texture replacer for Windhelm. Dark and gritty, with parallax maps included.",
           "FileID": 1000110300,
@@ -5613,7 +5613,7 @@
         "Name": "Alternate Ground Texture-54322-1-0.rar",
         "Size": 6136574,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "osmodius",
           "Description": "A hi-res texture replacer for Windhelm. Dark and gritty, with parallax maps included.",
           "FileID": 1000110440,
@@ -5634,7 +5634,7 @@
         "Name": "Real Bows 1.05-64440-1-05.7z",
         "Size": 58937349,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DecimusMaximus",
           "Description": "Replaces the vanilla bow models with more practical and realistic models.",
           "FileID": 1000155100,
@@ -5655,7 +5655,7 @@
         "Name": "dwemer automatic variants-46207-1-1.7z",
         "Size": 51896403,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "david hartley ",
           "Description": "automatic variant texture package for the dwemer spider/steam centurion/sphere centurion ",
           "FileID": 1000074453,
@@ -5676,7 +5676,7 @@
         "Name": "RUSTIC CLOTHING - COMPLETE - 2K-69784-3-0.7z",
         "Size": 623436276,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Gamwich",
           "Description": "High resolution rustic clothing texture overhaul for Skyrim. Available in several resolution options.",
           "FileID": 1000236036,
@@ -5697,7 +5697,7 @@
         "Name": "SFO Billboards for v2.5C-141-.7z",
         "Size": 7087803,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "vurt",
           "Description": "More detailed trees and flora.",
           "FileID": 1000254256,
@@ -5718,7 +5718,7 @@
         "Name": "SMIM Compatibility patch-39874-2-0.7z",
         "Size": 13365077,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Hein84",
           "Description": "_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\r\n\n-enhances dungeons and ruins with parallax depth effect\r\n\n-works with \u0026 without ENB\r\n\n-only a very small loss in performance (parallaxmaps are in 512)",
           "FileID": 1000088449,
@@ -5739,7 +5739,7 @@
         "Name": "Rocking Stones Parallax for ENB - 2k BROWNISH-38004-5-2.7z",
         "Size": 19003211,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Hein84",
           "Description": "---------------------------------------------\r\n\nSTRONGEST EFFECT \u0026 NO DISTORTIONS\r\n\n------------------------------------------------\r\n\nParallax-depth \u0026 quality textures for rocks\r\n\n",
           "FileID": 1000131577,
@@ -5760,7 +5760,7 @@
         "Name": "Rocking Stones Parallax for ENB - Update for all types-38004-5-3.7z",
         "Size": 2619920,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Hein84",
           "Description": "---------------------------------------------\r\n\nSTRONGEST EFFECT \u0026 NO DISTORTIONS\r\n\n------------------------------------------------\r\n\nParallax-depth \u0026 quality textures for rocks\r\n\n",
           "FileID": 1000140561,
@@ -5781,7 +5781,7 @@
         "Name": "WindhelmLegendaryKings-54314-1-0.7z",
         "Size": 3152215,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Autan Waspeez",
           "Description": "A new look for the stone memorials for the Kings around Windhelm.",
           "FileID": 1000110259,
@@ -5802,7 +5802,7 @@
         "Name": "aMidianBorn book of silence_DRAGONBORN DLC-24909-1-9.7z",
         "Size": 115103998,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "CaBaL- EmeraldReign-the AMB team",
           "Description": "aMidianBorn high-resolution texture replacer complete package",
           "FileID": 1000057507,
@@ -5823,7 +5823,7 @@
         "Name": "Aeternus Atronachs-22420-2-0.zip",
         "Size": 38360869,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Legend Aeternus",
           "Description": "This mod contains 8 flame atronach and 112 frost antronach variants for use with Leviathan1753\\\u0027s Automatic Variants.",
           "FileID": 90453,
@@ -5844,7 +5844,7 @@
         "Name": "Bellyaches Animals AV Package-21377-1-0.zip",
         "Size": 307306151,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Leviathan1753",
           "Description": "Tired of picking only one creature texture from the entire Nexus?  AV Provides an easy place to drag-and-drop alternate monster textures and have them automatically integrated into the game.",
           "FileID": 77730,
@@ -5865,7 +5865,7 @@
         "Name": "Automatic Variants - GD Dogs and Foxes and Read Me-22727-1-1.zip",
         "Size": 95338557,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Grace Darkling",
           "Description": "My Texture Packs for Automatic Variants",
           "FileID": 82895,
@@ -5886,7 +5886,7 @@
         "Name": "Husky 2k Variants-63598-v1-0.7z",
         "Size": 13614015,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "PlagueHush",
           "Description": "Twelve 2k Husky retextures, packaged for use with Automatic Variants.",
           "FileID": 1000150940,
@@ -5907,7 +5907,7 @@
         "Name": "InsanitySorrow AV Package-21377-1-1.zip",
         "Size": 73214061,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Leviathan1753",
           "Description": "Tired of picking only one creature texture from the entire Nexus?  AV Provides an easy place to drag-and-drop alternate monster textures and have them automatically integrated into the game.",
           "FileID": 77741,
@@ -5928,7 +5928,7 @@
         "Name": "Sounaipr AV Package-21377-1-2.zip",
         "Size": 80408914,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Leviathan1753",
           "Description": "Tired of picking only one creature texture from the entire Nexus?  AV Provides an easy place to drag-and-drop alternate monster textures and have them automatically integrated into the game.",
           "FileID": 85429,
@@ -5949,7 +5949,7 @@
         "Name": "Storms - Hotfixed-53715-1-12.rar",
         "Size": 3598553,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "AfroCircus",
           "Description": "6 base textures, 5 glows.",
           "FileID": 1000107850,
@@ -5970,7 +5970,7 @@
         "Name": "Better Vampire Fangs and Eyes-38829-1-0.zip",
         "Size": 16956980,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Aipex8",
           "Description": "This mod changes the fangs and eyes of vampires. Fangs are shorter and now present for females. Eyes include new textures as well as glowing and non-glowing meshes.",
           "FileID": 1000040827,
@@ -5991,7 +5991,7 @@
         "Name": "Alpha werewolf sounds - Lower volume-13779-1-8.rar",
         "Size": 12436999,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "NsJones",
           "Description": "NEW: Now with glowing eye textures.\r\n\nThis mod aims to make werewolves more brutal and aggressive by making them sound like savage beasts they are supposed to be, with 3 different sound overhaul versions to choose from.\r\n\nNow also with werewolf body and eye textures and an optional speed upgrade, and a skyrim video series I made.",
           "FileID": 1000187518,
@@ -6012,7 +6012,7 @@
         "Name": "Vanilla Skyrim and Dragonborn billboards High Res 1024-75269-1-4.7z",
         "Size": 5135167,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Palerider",
           "Description": "Billboards for Vanilla Skyrim Trees",
           "FileID": 1000216981,
@@ -6033,7 +6033,7 @@
         "Name": "Less Annoying Merchants v1-58487-1-0.7z",
         "Size": 215050,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Volnaiskra",
           "Description": "Replaces most of the vendors\u0027 long, repetitive lines (eg. \u0026#34;some call this junk, I call them treasures\u0026#34;) with short ones (eg. \u0026#34;take a look\u0026#34;). This can be considered a redux of BaconCat\u0027s \u0026#34;Merchants only reply with Take a Look\u0026#34; mod.",
           "FileID": 1000128583,
@@ -6054,7 +6054,7 @@
         "Name": "Sound Hammering Sounds-80655-1-0.rar",
         "Size": 5744,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "sialivi",
           "Description": "NPCs performing house repairs or maintenance on the mast of a ship will no longer make the sound of hammering on metal. Instead it will make an appropriate wooden sound.",
           "FileID": 1000229925,
@@ -6075,7 +6075,7 @@
         "Name": "Unmasked Faces-76607-1-1.7z",
         "Size": 1052687,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "AltheaR",
           "Description": "Gets rid of green/yellow tinted face color and neck seams.",
           "FileID": 1000211329,
@@ -6096,7 +6096,7 @@
         "Name": "Better Animal Footsteps 1.5-24805-1-5.7z",
         "Size": 2386644,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Volnaiskra",
           "Description": "Tired of being startled by loud footsteps behind you, only to turn around to a little bunny? Ever thought that the hooves of a massive elk should make significantly more noise than the soft paws of a tiny fox? Ever wondered why the spiders sound like they\u0027re tapdancing? ",
           "FileID": 1000129160,
@@ -6117,7 +6117,7 @@
         "Name": "Better Horse Pain Sounds-12608-1.zip",
         "Size": 469053,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Yuatari",
           "Description": "Changes the current horse pain sounds into more bearable versions.",
           "FileID": 42120,

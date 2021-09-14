@@ -12,7 +12,7 @@
         "Name": "Mod.Organizer-2.4.1.7z",
         "Size": 89658061,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.1/Mod.Organizer-2.4.1.7z"
         }
@@ -26,7 +26,7 @@
         "Name": "Mod.Organizer-2.4.2.7z",
         "Size": 89503525,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z"
         }
@@ -40,7 +40,7 @@
         "Name": "AAF-Creature-Resources v1.1.3.7z",
         "Size": 89784418,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "Ulfberto",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2020_05/Behemoths.png.87a4f3a5a5803f80cc5ac7ad95ad1e41.png",
@@ -62,7 +62,7 @@
         "Name": "f4se_0_06_21.7z",
         "Size": 598435,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://f4se.silverlock.org/beta/f4se_0_06_21.7z"
         }
@@ -76,7 +76,7 @@
         "Name": "xSE PluginPreloader F4 0.2.4-33946-0-2-4-1606749072.zip",
         "Size": 2690368,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kerber",
           "Description": "This mod allows preload F4SE plugins before the game initializes.",
           "FileID": 195989,
@@ -97,7 +97,7 @@
         "Name": "TBB Redistributables-47359-2020-3-1601257681.zip",
         "Size": 94461,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ryan",
           "Description": "It\u0027s like buffout but for the engine",
           "FileID": 192106,
@@ -118,7 +118,7 @@
         "Name": "(Optional) LightUp2.0_MCG_Version_1.0.rar",
         "Size": 26260,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "anghelos92",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2019_10/1149596499_DesktopScreenshot2019_10.05-20_03_32_99.png.3e857a927ac491442aa32b05b51d46cc.png",
@@ -140,7 +140,7 @@
         "Name": "9x39 Project - v2.0-21103-2-0.rar",
         "Size": 276142910,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "FX0x01 - Ha_ru - Navaro and friends",
           "Description": "The mod adds VSS and AS VAL, with a flexible modification system that allows for hand grips and other tactical attachments.",
           "FileID": 110292,
@@ -161,7 +161,7 @@
         "Name": "9x39 Project Addon - SR3M-46839-1-1-1597172309.7z",
         "Size": 16767258,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Zavod team",
           "Description": "9x39 Project Addon - SR3M",
           "FileID": 188921,
@@ -182,7 +182,7 @@
         "Name": "A Forest 0.7.rar",
         "Size": 1830479012,
         "State": {
-          "$type": "Mega",
+          "$type": "MegaDownloader, Wabbajack.Lib",
           "Url": "https://mega.nz/file/fd9iXSAK#f3CyZyf-ngT5IZ6zunm2rzOyFLaLeZELi49Q4GGlBj0"
         }
       }
@@ -195,7 +195,7 @@
         "Name": "AAF_VanillaKinkyCreatureAnimations_Themes_V210817.0.7z",
         "Size": 2593989,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "Halstrom",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2018_12/ThemeSex.jpg.d0bf31460286855e78874855bac29f5f.jpg",
@@ -217,7 +217,7 @@
         "Name": "AAF_SEU_V1.11.7z",
         "Size": 135490,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "EgoBallistic",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2018_11/802157480_Fallout42018-11-0412-40-09-46.jpg.ef0c43d856a7065b33bcd8c10fcdfd69.jpg",
@@ -239,7 +239,7 @@
         "Name": "Accuracy International L96A1-38554-2-2-1594761927.zip",
         "Size": 175990374,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "TheBigLidowski",
           "Description": "Adds L96A1 sniper rifle into the game",
           "FileID": 186833,
@@ -260,7 +260,7 @@
         "Name": "AAF Beta 161.1-31304-161-1b-1610914138.7z",
         "Size": 965636,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "dagobaking",
           "Description": "The Advanced Animation Framework (AAF) provides a variety of tools for modders to play animations/poses from a scalable number of animation/pose packs. Additional behavior controls, relationship features, user interface elements (menus) and statistics tracking are also included or planned.",
           "FileID": 199240,
@@ -281,7 +281,7 @@
         "Name": "AK400 - Assault Rifle-36873-1-0-1548538318.rar",
         "Size": 381733037,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "FX0x01 - aTacticalError - DanMak - Ha_ru",
           "Description": "Adds the AK400 Assault Rifle. It\u0027s highly customizable, features custom animations and sounds in 1st and 3rd person.",
           "FileID": 150921,
@@ -302,7 +302,7 @@
         "Name": "AK74M - Assault Rifle v3.5-21466-3-5.rar",
         "Size": 339453784,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "FX0x01 - Ha_ru - Navaro -  Vadim Spiridonov",
           "Description": "This mod adds a AK74M into Fallout 4. It features Custom animations and Sounds.",
           "FileID": 130671,
@@ -323,7 +323,7 @@
         "Name": "AKM Complex - 1.0 - MAIN-46179-1-0-1595872958.7z",
         "Size": 810496842,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Nova and i_code_i",
           "Description": "This mod adds a highly customisable version of the well known AKM with the ability to recreate several of it\u0027s derivitives or something completely new, it\u0027s all up to you.",
           "FileID": 187806,
@@ -344,7 +344,7 @@
         "Name": "AKM Complex - Nuka World Patch-46179-Nuka-1595934252.7z",
         "Size": 61120,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Nova and i_code_i",
           "Description": "This mod adds a highly customisable version of the well known AKM with the ability to recreate several of it\u0027s derivitives or something completely new, it\u0027s all up to you.",
           "FileID": 187852,
@@ -365,7 +365,7 @@
         "Name": "Armor and Weapon Keywords Community Resource v8.6.0-6091-v8-6-0-1578253623.rar",
         "Size": 382825425,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Gambit77 - Thirdstorm - Valdacil",
           "Description": "This is a master file to create a standardize framework for armor so that modders can create and modify armor (like Armorsmith) while making edits compatible with mods that adjust dynamic item naming (like Valdacil\u0027s Item Sorting). Also adds a standardized set of crafting menu categories for armor/clothing/weapons and adds two workbenches for m",
           "FileID": 173801,
@@ -386,7 +386,7 @@
         "Name": "Armored Leotard Ultimate Nuka Sweetroll Edition-13195-1-5.7z",
         "Size": 542492477,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Apalmemnom",
           "Description": "Standalone UnderArmor for CBBE Bodyslide and Atomic Beauty",
           "FileID": 66368,
@@ -407,7 +407,7 @@
         "Name": "Armorsmith Extended v4.6-2228-v4-6-1550963207.rar",
         "Size": 529328045,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Gambit77",
           "Description": "This mod does so much awesome stuff that the description doesn\u0027t come anywhere close to fitting here.",
           "FileID": 152831,
@@ -428,7 +428,7 @@
         "Name": "Art Connoisseur System - ACS Paintings - 2.03-11963-2-03.rar",
         "Size": 21895194,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Zoran",
           "Description": "Build your paintings with a choice of 30 various frames and posters formats as standalones.\n\n\n\nLets you build all kind of vanilla paintings (or any replacements) in all these formats. Used by Compatible Textures Modules to add more paintings.",
           "FileID": 104057,
@@ -449,7 +449,7 @@
         "Name": "ASh-12.7 - 1.0 - 4K-43199-1-0-1580107637.7z",
         "Size": 259821806,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Nova and i_code_i",
           "Description": "This mod adds the ASh-12.7, a high caliber urban battle rifle from Russia designed for high stopping power while reducing collateral damage with low penetration.",
           "FileID": 174921,
@@ -470,7 +470,7 @@
         "Name": "Atom Bomb Pinups Paintings - Standalone 6.00-4258-6-02.rar",
         "Size": 344916680,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Zoran",
           "Description": "Standalone collections of atomic sexy immersive pinups paintings from 30\u0027s~60\u0027s.\n\n200 new paintings in 25 formats each, frames, posters, etc to delight your settlements...\n\n\n\nOptionally replace the wasteland frames and calendars.",
           "FileID": 116335,
@@ -491,7 +491,7 @@
         "Name": "Atom Girl Outfit CBBE-20297-1-0.7z",
         "Size": 54088819,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Deserter X",
           "Description": "A new outfit fitting for a scavenger/explosives expert type of character. Provides radiation resistance, increased carry weight, a tiny radiation cleansing over time and the ability to craft nuka grenades. Can be crafted as a single outfit or one piece at a time.",
           "FileID": 83124,
@@ -512,7 +512,7 @@
         "Name": "Atomic Lust-31853-2-6-1b-1567292472.zip",
         "Size": 8666487,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "TheRealRufgt",
           "Description": "Atomic Lust is an adult mod that contains sexual animations involving foreplay, that eventually lead to more complex acts. The goal of this mod is to allow players to go beyond the romance system of vanilla Fallout 4, and freely navigate through a variety of animations involving intimacy. This is a work-in-progress mod.",
           "FileID": 165598,
@@ -533,7 +533,7 @@
         "Name": "Rufgt\u0027s Old Animations-31853-1-0-1548112873.7z",
         "Size": 707981,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "TheRealRufgt",
           "Description": "Atomic Lust is an adult mod that contains sexual animations involving foreplay, that eventually lead to more complex acts. The goal of this mod is to allow players to go beyond the romance system of vanilla Fallout 4, and freely navigate through a variety of animations involving intimacy. This is a work-in-progress mod.",
           "FileID": 150605,
@@ -554,7 +554,7 @@
         "Name": "Automatically Lowered Weapons-20093-1-4.rar",
         "Size": 3911,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "pauderek",
           "Description": "Lowers your weapon automatically when not in combat",
           "FileID": 105840,
@@ -575,7 +575,7 @@
         "Name": "Automatron Expanded Weapons System-29858-1-2-3-1589395517.7z",
         "Size": 55891085,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "sgtbarney",
           "Description": "Unleash the true potential of your robot followers with an all new arsenal of weapons and customizations!",
           "FileID": 181781,
@@ -596,7 +596,7 @@
         "Name": "Nuka World Patch-29858-1-2-2-1583669750.7z",
         "Size": 530,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "sgtbarney",
           "Description": "Unleash the true potential of your robot followers with an all new arsenal of weapons and customizations!",
           "FileID": 177205,
@@ -617,7 +617,7 @@
         "Name": "Beach Workshop-34446-1-3.zip",
         "Size": 119793775,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Dikr",
           "Description": "Discover a new edition of Picket Fences to unlock beach towels, deck chairs, palm trees and more. Now includes the standalone replacer Whiter Sands",
           "FileID": 141572,
@@ -638,7 +638,7 @@
         "Name": "Better Automatic Weapon Sounds-29622-1-0-2.rar",
         "Size": 1175,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "AngryZealot",
           "Description": "In short, this mod replaces the looping firing sounds on most vanilla automatic weapon receivers with the vanilla semi auto firing sound. making things feel and sound quite a lot nicer IMO. This mod works especially well with any weapon sound replacers",
           "FileID": 121093,
@@ -659,7 +659,7 @@
         "Name": "Better Automatic Weapon Sounds - Nuka World-29622-1-0-2.rar",
         "Size": 561,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "AngryZealot",
           "Description": "In short, this mod replaces the looping firing sounds on most vanilla automatic weapon receivers with the vanilla semi auto firing sound. making things feel and sound quite a lot nicer IMO. This mod works especially well with any weapon sound replacers",
           "FileID": 121094,
@@ -680,7 +680,7 @@
         "Name": "Better Rubble-36301-1-9-1568755023.7z",
         "Size": 45221971,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Flecked",
           "Description": "Changes the look of rubble that is all over the Commonwealth.",
           "FileID": 166905,
@@ -701,7 +701,7 @@
         "Name": "Bobble Girl FOMOD v1.1-8469-1-1.7z",
         "Size": 10593321,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Justice",
           "Description": "Let\u0027s find out!",
           "FileID": 32562,
@@ -722,7 +722,7 @@
         "Name": "BodyTalk3.15.7z",
         "Size": 171105037,
         "State": {
-          "$type": "GoogleDrive",
+          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
           "Id": "1yzuDyv2iPHp2bxPhyZu_Wlpo7Zb13_Sm"
         }
       }
@@ -735,7 +735,7 @@
         "Name": "bp70FO4sexanimations_2.6.zip",
         "Size": 140314455,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "bp70",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2019_05/2.jpg.1c2298eeb64a67e9eaadb0be5508eaaa.jpg",
@@ -757,7 +757,7 @@
         "Name": "B.Y.O.P.-13316-4-0.7z",
         "Size": 2415379,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Akarnan",
           "Description": "Build your own swimming pool !\r\n\nAdds 3 water planes to build at your settlement workshop. The water\r\n\nmarkers snap with each other and most of workshop structures.\r\n\nAdd 5 fully functional showers. NPC can use it, the actor that use\r\n\nit (even the player) will automatically undress and redress upon\r\n\nexiting.",
           "FileID": 58095,
@@ -778,7 +778,7 @@
         "Name": "Bozar-28478-1-2.zip",
         "Size": 167249686,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DeadPool2099 - Hitman47101",
           "Description": "This mod will add Bozar - a legendary sniper LMG from Fallout 2 and Fallout New Vegas GRA DLC, with new bullpup design, custom assets and animations",
           "FileID": 133276,
@@ -799,7 +799,7 @@
         "Name": "Bunnygirl Outfit v1.71-16798-v-1-71.rar",
         "Size": 37918756,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Nadriel",
           "Description": "Bunnygirl Outfit based on CBBE Body with AWKCR support.",
           "FileID": 76438,
@@ -820,7 +820,7 @@
         "Name": "Cait fidelity-10672-3-0.rar",
         "Size": 2818,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Truth2",
           "Description": "The CAIT, was gently beautification.\r\n\n2.0 Update New Cait.\r\n\n",
           "FileID": 55931,
@@ -841,7 +841,7 @@
         "Name": "Calamity Weathers - Far Harbor-27158-FH-1-4.zip",
         "Size": 3741,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Arindel",
           "Description": "Weather and lighting overhaul for a more atmospheric gameplay.",
           "FileID": 112160,
@@ -862,7 +862,7 @@
         "Name": "Calamity Weathers - 1.20-27158-1-20.zip",
         "Size": 800441,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Arindel",
           "Description": "Weather and lighting overhaul for a more atmospheric gameplay.",
           "FileID": 112159,
@@ -883,7 +883,7 @@
         "Name": "Calamity Weathers - Nuka World-27158-NW-1-2.zip",
         "Size": 4569,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Arindel",
           "Description": "Weather and lighting overhaul for a more atmospheric gameplay.",
           "FileID": 112161,
@@ -904,7 +904,7 @@
         "Name": "Caliente\u0027s Beautiful Bodies Enhancer - v2.6.3-15-2-6-3-1587299180.7z",
         "Size": 415311429,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ousnius and Caliente",
           "Description": "The well-known body enhancer made famous in Skyrim is back for Fallout 4 debut",
           "FileID": 179786,
@@ -925,7 +925,7 @@
         "Name": "CaptiveTattoos3.0.1.7z",
         "Size": 120333809,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "JB.",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2021_05/Photo74.png.5ba7815530e9240c990aca498538c0d6.png.7db978c5aecf61761d8eca51df3d5c35.png",
@@ -947,7 +947,7 @@
         "Name": "CC\u0027s HQ Quarry Textures - BA2 - 2K-25611-1-0.7z",
         "Size": 70761384,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ClearanceClarence",
           "Description": "A retexture of the marble found in the quarries of Fallout 4. Available in 4K and 2K",
           "FileID": 104454,
@@ -968,7 +968,7 @@
         "Name": "Chain Armor-7405-1-1.rar",
         "Size": 6136060,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Iormangund",
           "Description": "Standalone Chain armor, for those that like the breeze.",
           "FileID": 26703,
@@ -989,7 +989,7 @@
         "Name": "Charming Cito-18372-1-0.zip",
         "Size": 1414,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mystolle",
           "Description": "A conversion of Safari Adventure\u0027s Cito",
           "FileID": 74264,
@@ -1010,7 +1010,7 @@
         "Name": "China Lake and Holorifle -4K-22254-1-9.rar",
         "Size": 259692638,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Shoeburglar Hitman47101 and 500slr",
           "Description": "This mod adds the Pump Action Grenade Launcher and the Holorifle from Fallout New Vegas into Fallout 4 complete with custom animations, sounds, various customisations options, 12 new ammo types for the China Lake, 5 unique attatchments and 2 legendary variants that can be found in the world as well as level list integration by a script.\r\n\n",
           "FileID": 99909,
@@ -1031,7 +1031,7 @@
         "Name": "CigaretteInMouth-17084-.zip",
         "Size": 667319,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "m",
           "Description": "Cigarette(Armor)",
           "FileID": 68406,
@@ -1052,7 +1052,7 @@
         "Name": "Craft Ammo - Main-25543-1-0-1.zip",
         "Size": 10661,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Bbaronx",
           "Description": "Allows ammo crafting at a chem station.",
           "FileID": 130883,
@@ -1073,7 +1073,7 @@
         "Name": "Craftable Bad End Furniture 1.0.7z",
         "Size": 613,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "EgoBallistic",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2019_09/20190903035633_1.jpg.94f085bfc18a5e239f0a46f529440db5.jpg",
@@ -1095,7 +1095,7 @@
         "Name": "CriticalHitsOutsideofVATS.rar-12653-1-1-3.rar",
         "Size": 2174,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "NotSure700",
           "Description": "This mod adds a perk which allows the player to get critical hits outside of V.A.T.S. The hit chance is determined by the player\u0027s luck and can be increased by the perk \u0027Four Leaf Clover\u0027 and the drug \u0027Overdrive\u0027.",
           "FileID": 54056,
@@ -1116,7 +1116,7 @@
         "Name": "CRX-1.10.rar",
         "Size": 6596417,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "Oakern",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2017_12/013.png.def0bebae96a083818f27ffa4f29c105.png",
@@ -1138,7 +1138,7 @@
         "Name": "cVc Dead Wasteland 6 - Core-43818-6-7a-1615258711.zip",
         "Size": 361134745,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cVc",
           "Description": "This workshop add-on pack adds 1000s of unique, lore friendly items to build in your settlements. Script injected, adding a new menu \u0027cVc\u0027",
           "FileID": 203224,
@@ -1159,7 +1159,7 @@
         "Name": "cVc Dead Wasteland 6 - DLC1-43818-2-0-1615142921.zip",
         "Size": 4694966,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cVc",
           "Description": "This workshop add-on pack adds 1000s of unique, lore friendly items to build in your settlements. Script injected, adding a new menu \u0027cVc\u0027",
           "FileID": 203127,
@@ -1180,7 +1180,7 @@
         "Name": "cVc Dead Wasteland 6 - DLC2-43818-2-0-1615142959.zip",
         "Size": 2165329,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cVc",
           "Description": "This workshop add-on pack adds 1000s of unique, lore friendly items to build in your settlements. Script injected, adding a new menu \u0027cVc\u0027",
           "FileID": 203128,
@@ -1201,7 +1201,7 @@
         "Name": "cVc Dead Wasteland 6 - DLC3-43818-2-0-1615143001.zip",
         "Size": 66999565,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cVc",
           "Description": "This workshop add-on pack adds 1000s of unique, lore friendly items to build in your settlements. Script injected, adding a new menu \u0027cVc\u0027",
           "FileID": 203129,
@@ -1222,7 +1222,7 @@
         "Name": "DA Merged 11 Pack-16492-v1.rar",
         "Size": 77072577,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DA",
           "Description": "",
           "FileID": 65822,
@@ -1243,7 +1243,7 @@
         "Name": "Deathclaw Hunter Armor All-In-One-11682-1-21.rar",
         "Size": 20032636,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Abe Lincoln",
           "Description": "A brand new armor set for CBBE.  Comes in 10 different color schemes.  Craftable at the Chem Station, and rarely found on Raider bosses.  Also includes a Mythic version of the armor set with the same resistances as an actual Mythic Deathclaw, for those who don\u0027t like to play fair.",
           "FileID": 128906,
@@ -1264,7 +1264,7 @@
         "Name": "Deliverer Animation Replacer Pack-46568-1-0-1595974259.rar",
         "Size": 600770,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Warfighters Workshop",
           "Description": "Here is an animation pack replacing the Deliverer animations in Fallout 4.\n\n1st person and 3rd.",
           "FileID": 187893,
@@ -1285,7 +1285,7 @@
         "Name": "Devious Devices 2.0.7z",
         "Size": 393066070,
         "State": {
-          "$type": "Mega",
+          "$type": "MegaDownloader, Wabbajack.Lib",
           "Url": "https://mega.nz/file/OJlhjAIY#OOXFht6D-oR7t64YS07U2DSqVEG15fBSxst0iWY7M1U"
         }
       }
@@ -1298,7 +1298,7 @@
         "Name": "DickyPinupCBBE-HHS-30006-3-1565496920.7z",
         "Size": 284573826,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Dickyftw",
           "Description": "A skimpy, military pin up girl themed outfit made from scratch. Fully supported for CBBE and Fusion Girl",
           "FileID": 164177,
@@ -1319,7 +1319,7 @@
         "Name": "Elegant Hardware - A Jewelry Modification-20940-0-7a-1549855036.7z",
         "Size": 33660772,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Peekaboo Corp",
           "Description": "A jewelry mod that includes a variety customizable necklaces, chokers, collars, and earrings for women; two types of earrings for men; and CBBE belly button rings for women.",
           "FileID": 151994,
@@ -1340,7 +1340,7 @@
         "Name": "Wattz Laser Gun Replacer - FOMOD Installer-33669-2-5-1595946899.7z",
         "Size": 540275,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cyanide4suicide",
           "Description": "Replaces vanilla laser guns, institute guns, or laser muskets into Deadpool2099\u0027s Wattz Laser Gun",
           "FileID": 187858,
@@ -1361,7 +1361,7 @@
         "Name": "EBT_Basic v101-212-1-01.7z",
         "Size": 143296254,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "dDefinder",
           "Description": "High-resolution blood decals that complement the violence level of the Fallout series",
           "FileID": 54175,
@@ -1382,7 +1382,7 @@
         "Name": "F4ECC - 1.2-5060-1-2.rar",
         "Size": 428471,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ChaosWWW",
           "Description": "This mod aims to increase the quality of the colors and contrast in Fallout 4 with no performance impact.",
           "FileID": 16830,
@@ -1403,7 +1403,7 @@
         "Name": "FO4HHS-39850-1-6-1-1595620397.zip",
         "Size": 1618845,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "PK0",
           "Description": "Add effect of high heels without modify any files of the game.",
           "FileID": 187581,
@@ -1424,7 +1424,7 @@
         "Name": "Faster Terminal Displays (20x) Creation Kit Version-937-3-0.zip",
         "Size": 605,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Old Nick",
           "Description": "Speeds up the text display on terminals",
           "FileID": 49501,
@@ -1445,7 +1445,7 @@
         "Name": "Fisto-45143-1-2-1589980426.zip",
         "Size": 18596227,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Shoeburglar",
           "Description": "Adds a new toy to the the Commonwealth with a handful of customisation options. Despite being held like a rifle the weapon is actually a melee weapon with custom firing animations and is affected by unarmed perks.",
           "FileID": 182318,
@@ -1466,7 +1466,7 @@
         "Name": "Transparent Cleanroom Suit-19954-1-0.zip",
         "Size": 86141,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Crimsomrider",
           "Description": "This mod does several things. It fixes Bethesda\u0027s mistakes (female used the male hood mesh), it optimizes the mesh completely (allows you to retexture the outfit without retexturing the transparent glass), makes the glass transparent and removes all the unnecessary armor slots so you can wear other accessories or hats/armor with it.",
           "FileID": 81592,
@@ -1487,7 +1487,7 @@
         "Name": "FlaconOil BA2 2K-3747-Part1.7z",
         "Size": 1827609947,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "FlaconOil",
           "Description": "This texture mod features completely handmade textures in 2K and 4K. All the textures are redone - even some meshes (.nif) and materials (.bgsm). This is a work in progress, so expect it to grow!",
           "FileID": 132840,
@@ -1508,7 +1508,7 @@
         "Name": "FlaconOil BA2 2K-3747-Part2.7z",
         "Size": 523636184,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "FlaconOil",
           "Description": "This texture mod features completely handmade textures in 2K and 4K. All the textures are redone - even some meshes (.nif) and materials (.bgsm). This is a work in progress, so expect it to grow!",
           "FileID": 132842,
@@ -1529,7 +1529,7 @@
         "Name": "FlaconOil BA2 2K-3747-Part3.7z",
         "Size": 299670587,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "FlaconOil",
           "Description": "This texture mod features completely handmade textures in 2K and 4K. All the textures are redone - even some meshes (.nif) and materials (.bgsm). This is a work in progress, so expect it to grow!",
           "FileID": 132845,
@@ -1550,7 +1550,7 @@
         "Name": "1_FN P90-22871-1-4-2.zip",
         "Size": 271283031,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "The Shiny Haxorus",
           "Description": "Bring the iconic P90 to the Commonwealth! Custom animations, sounds, models, textures, and leveled list integration.  ",
           "FileID": 97389,
@@ -1571,7 +1571,7 @@
         "Name": "FO4_AnimationsByLeito_v2.0a.7z",
         "Size": 41724717,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "Leito86",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2018_03/Missionary2.png.0d265dddfc4a6385447c4d021fbddf23.png",
@@ -1593,7 +1593,7 @@
         "Name": "Fortaleza Armor - Merge patch-10692-5-1.rar",
         "Size": 15756,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ralfetas",
           "Description": "Fortaleza Armor for CBBE",
           "FileID": 73111,
@@ -1614,7 +1614,7 @@
         "Name": "Fortaleza Armor AE Patch-10692-5-1.rar",
         "Size": 3292,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ralfetas",
           "Description": "Fortaleza Armor for CBBE",
           "FileID": 73110,
@@ -1635,7 +1635,7 @@
         "Name": "French Maid CBBE - ESL v1.2-27185-1-2.zip",
         "Size": 5900,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Derpsdale",
           "Description": "This adds the French Maid Outfit to FO4 converted from the original mod by Backsteppo for FO3.  This is an 8 piece Outfit Set with several different modifiable options including Ballistic Weave, and Different Colors.  Version 1.2 Update: Feather Duster \u0026#34;Weapon\u0026#34; ADDED!  1 Mod for it as well.",
           "FileID": 111391,
@@ -1656,7 +1656,7 @@
         "Name": "GIAT FAMAS-44444-1-0-1589570467.7z",
         "Size": 353883155,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "FX0x01 - EvTital - F34R - Ha_ru - Navaro",
           "Description": "Adds a highly customizable FAMAS Rifle that features a quest, custom sounds, animations in 1st and 3rd person and leveled list integration.",
           "FileID": 181903,
@@ -1677,7 +1677,7 @@
         "Name": "Gunner Operator 1.3.1 Hotfix-44863-1-3-1-1589237202.7z",
         "Size": 3937,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "EvTital",
           "Description": "Adds an outfit / cap / helmet / gasmask / vest / Chest rig,  with custom camouflages (and gloves). Male and female.",
           "FileID": 181675,
@@ -1698,7 +1698,7 @@
         "Name": "HARDSHIP_1.5.9J.7z",
         "Size": 34974887,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "Tentacus",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2019_09/20190819192645_1.jpg.c587ff33d2e1ee9b065f9000d9bdb275.jpg",
@@ -1720,7 +1720,7 @@
         "Name": "G36 Complex - v2.0-28443-2-0-1583263068.7z",
         "Size": 262043696,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "FX0x01 - Ha_ru - Navaro",
           "Description": "This mod adds a G36 into Fallout 4. It features custom animations, sounds and quest.",
           "FileID": 176941,
@@ -1741,7 +1741,7 @@
         "Name": "Heckler und Koch - MP5 Complex-41444-1-0-1572102439.rar",
         "Size": 487301937,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "FX0x01 - F34R - Navaro - luchadordev - N",
           "Description": "Adds a highly customizable MP5 and MP5K that features a quest, custom sounds, animations in 1st and 3rd person and leveled list integration.",
           "FileID": 169551,
@@ -1762,7 +1762,7 @@
         "Name": "Heckler und Koch - MP7-37330-1-0-1554053629.rar",
         "Size": 105168432,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "FX0x01 - DanMak - Navaro",
           "Description": "Adds a highly customizable MP7 that features a quest, custom sounds, animations in 1st and 3rd person and Leveled List integration.",
           "FileID": 155320,
@@ -1783,7 +1783,7 @@
         "Name": "Heckler und Koch - UMP-38653-1-0-1558274302.rar",
         "Size": 276502375,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "FX0x01 - Ha_ru - Navaro - Net",
           "Description": "Adds a highly customizable UMP that features a quest, custom sounds, animations in 1st and 3rd person and Leveled List integration.",
           "FileID": 158188,
@@ -1804,7 +1804,7 @@
         "Name": "Textures - High 2K Version (BA2 Format)-318-1-2-5 (1).7z",
         "Size": 790171408,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Valius",
           "Description": "New high resolution textures in 2K and 4K.",
           "FileID": 138837,
@@ -1825,7 +1825,7 @@
         "Name": "CAWS_v1.0-46718-1-0-1596618609.zip",
         "Size": 78558770,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "TactaGhoul",
           "Description": "This mod brings the Heckler \u0026amp; Koch CAWS automatic bullpup shotgun to the commonwealth, with custom meshes, 4K textures, animations, sounds, leveled list integration, and a unique variant.",
           "FileID": 188426,
@@ -1846,7 +1846,7 @@
         "Name": "HK G11 K2  ESL VERSION-36894-1-2-1547496590.zip",
         "Size": 72764075,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "asXas",
           "Description": "The HK G11 K2 makes a return from Fallout 2!",
           "FileID": 150085,
@@ -1867,7 +1867,7 @@
         "Name": "HK G3 Family 1.4-42624-1-4-1578823269.zip",
         "Size": 528310523,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "TheBigLidowski",
           "Description": "Adds basically 4 new weapons to the game: G3 AR, HK-51 SMG, PSG-1 SR and HK-11 LMG. All guns are balanced around vanilla Assault rifle.",
           "FileID": 174171,
@@ -1888,7 +1888,7 @@
         "Name": "G3Family - See-Through Update (fixed)-42624-1-5a-1588778407.zip",
         "Size": 348330,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "TheBigLidowski",
           "Description": "Adds basically 4 new weapons to the game: G3 AR, HK-51 SMG, PSG-1 SR and HK-11 LMG. All guns are balanced around vanilla Assault rifle.",
           "FileID": 181239,
@@ -1909,7 +1909,7 @@
         "Name": "HK USP .45(New) With Tactical Knife-42805-1-5-1578460970.zip",
         "Size": 196791727,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tooun",
           "Description": "USP 45 new model in this mod, Mod added a variety of tactical knives\n\nTribute to Call of Duty:MW Series\n\nIn the action, only reload action and knife holding action are imitated from Call of Duty: MW series,\n\nOther actions are all my own original make,,Many actions can be selected from the MCM menu",
           "FileID": 173939,
@@ -1930,7 +1930,7 @@
         "Name": "HAAS All-In-One-8936-2-2-1544290100.zip",
         "Size": 74183449,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "AbeLincoln55 and Karna5",
           "Description": "A modular, customizable, skimpy series of armor remodels.  Currently includes Disciples, Operators Heavy, Pack, Marine, Trapper, Robot, Leather, Metal, Combat, and Synth armors.  Replacer and Standalone versions available. Includes 2LM and AE/AWKCR support.",
           "FileID": 147566,
@@ -1951,7 +1951,7 @@
         "Name": "HAAS - Guard Armor Update-8936-2-4-1545087275.zip",
         "Size": 21992550,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "AbeLincoln55 and Karna5",
           "Description": "A modular, customizable, skimpy series of armor remodels.  Currently includes Disciples, Operators Heavy, Pack, Marine, Trapper, Robot, Leather, Metal, Combat, and Synth armors.  Replacer and Standalone versions available. Includes 2LM and AE/AWKCR support.",
           "FileID": 148241,
@@ -1972,7 +1972,7 @@
         "Name": "Hunting Shotgun 2k-22516-1-2-1.zip",
         "Size": 50038529,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Hitman47101 and DeadPool2099",
           "Description": "This mod adds pump Hunting Shotgun, which is based on famous gun from Fallout New Vegas",
           "FileID": 95375,
@@ -1993,7 +1993,7 @@
         "Name": "Hunting Shotgun 4K-22516-1-2.zip",
         "Size": 56058481,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Hitman47101 and DeadPool2099",
           "Description": "This mod adds pump Hunting Shotgun, which is based on famous gun from Fallout New Vegas",
           "FileID": 95372,
@@ -2014,7 +2014,7 @@
         "Name": "Desert Eagle - 1.0 - 4K-43313-1-0-1580724230.7z",
         "Size": 178878029,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Nova",
           "Description": "The Desert Eagle, for when sheer firepower is more important than practicality.",
           "FileID": 175281,
@@ -2035,7 +2035,7 @@
         "Name": "Desert Eagle - 1.0.1 - UPDATE ONLY-43313-1-0-1-1580824641.7z",
         "Size": 251424,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Nova",
           "Description": "The Desert Eagle, for when sheer firepower is more important than practicality.",
           "FileID": 175325,
@@ -2056,7 +2056,7 @@
         "Name": "HQ Sky 1.3-39653-1-3-1562421980.zip",
         "Size": 107330,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Lertkrush",
           "Description": "So there was this mod that made sky visible in Institute HQ, but it has some bugs.\n\nI made this as an alternative.",
           "FileID": 161386,
@@ -2077,7 +2077,7 @@
         "Name": "KLPostersAdult_v_4_1.rar",
         "Size": 6832131,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "Kiara",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2019_06/Posters-Adult01-Prev-rev.png.593b69775d812d4598f5caa32efbed95.png",
@@ -2099,7 +2099,7 @@
         "Name": "KREBS AK-26646-1-0.rar",
         "Size": 453500005,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "FX0x01 - Ha_ru - sava41 - Oh Deer",
           "Description": "This mod adds a Krebs AK into Fallout 4. It features custom animations and sounds.",
           "FileID": 108973,
@@ -2120,7 +2120,7 @@
         "Name": "Kriss Vector_V1.3-37062-v1-3-1550193733.rar",
         "Size": 123450389,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ChopinWu-WarDaddy-Rizar-Salted Fish",
           "Description": "Adds the Kriss Vector to the game with custom Models, Textures, Sounds and Animations!",
           "FileID": 152226,
@@ -2141,7 +2141,7 @@
         "Name": "Lee Enfield No. 4 Mk. 1 1.5-32128-1-5.rar",
         "Size": 44915191,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "asXas",
           "Description": "This mod adds an Lee Enfield No.4 Mk.1 alongside a small quest.",
           "FileID": 142479,
@@ -2162,7 +2162,7 @@
         "Name": "LightUp2.0 - v1.3-17749-1-3.zip",
         "Size": 5617,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Alfiechan",
           "Description": "Makes cigarettes and cigars into usable chems that you can see on the player model while the chem effect lasts.  Also triggers an autosave in Survival mode.",
           "FileID": 72779,
@@ -2183,7 +2183,7 @@
         "Name": "Live Action Handy - Repack-9571-1-1b.zip",
         "Size": 6562393,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Pyrota111000",
           "Description": "The live action trailer had shown Mr. Handy with lighted eyes so I\u0027ve added spotlights to Codsworth and all Handy models eyes including Gutsy and Nanny.  Spotlights also included in all Automatron eyes added in the Robot Workbench under Handy Torso.",
           "FileID": 91895,
@@ -2204,7 +2204,7 @@
         "Name": "Looks Menu Customization Compendium-24830-v10.rar",
         "Size": 52328134,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "AGodComplexPikachu CurioNC EmissaryOFWind JTesmer ANiceOakTree Kirse10 imAarwyn Robberfox RoboAsimov TrophiHunter Wendera ",
           "Description": "A mod that adds hundreds of new options to customize your character such as face paint, tattoos, scars, makeup, brows, haircolors, etc~!",
           "FileID": 101255,
@@ -2225,7 +2225,7 @@
         "Name": "LooksMenu v1-6-18-12631-1-6-18-1575863217.7z",
         "Size": 431817,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Expired6978",
           "Description": "Adds engine modifications to improve character creation.",
           "FileID": 172311,
@@ -2246,7 +2246,7 @@
         "Name": "LooksMenu - Additional Pubic Hair Overlays-47054-1-0-1598320131.7z",
         "Size": 356011,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "LunaEversor and Andy11",
           "Description": "Adds an additional 15 pubic hairstyles as overlays to LooksMenu. This mod is currently a work in progress.",
           "FileID": 189848,
@@ -2267,7 +2267,7 @@
         "Name": "LooksMenu - Pubes Forever (Fallout 4 Edition)-46854-1-0-1597782551.7z",
         "Size": 3691689,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "LunaEversor and AncientKane",
           "Description": "Adds 20 different pubic hairstyles as overlays in LooksMenu. This is a Fallout 4 conversion of the popular mod, Pubes Forever by AncientKane.",
           "FileID": 189404,
@@ -2288,7 +2288,7 @@
         "Name": "LooksMenu Body Tattoos (CBBE)(EVB or Vanilla)-25000-1-3-2.7z",
         "Size": 25092477,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "krisser143 aka WunderWafflen",
           "Description": "Some tattoo overlays for LooksMenu. It doesn\u0027t at all require Unique Player, and works more or less out of the box. A lot of customization is possible.",
           "FileID": 142642,
@@ -2309,7 +2309,7 @@
         "Name": "LooksMenu Body Tattoos ESL Version-25000-1-3-2.7z",
         "Size": 2349,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "krisser143 aka WunderWafflen",
           "Description": "Some tattoo overlays for LooksMenu. It doesn\u0027t at all require Unique Player, and works more or less out of the box. A lot of customization is possible.",
           "FileID": 142644,
@@ -2330,7 +2330,7 @@
         "Name": "Looney Longfellow-14130-1-0.zip",
         "Size": 2916,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mystolle",
           "Description": "A conversion of our favorite Far Harbor guide, Mr. Longfellow",
           "FileID": 55880,
@@ -2351,7 +2351,7 @@
         "Name": "Lots More Facial Hair v. 1.21-10746-1-21.rar",
         "Size": 4417,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Recluse",
           "Description": "Adds a good number of new male facial hair combinations. All done with ESP file only. Currently includes 100\u002B new facial hair choices.",
           "FileID": 43254,
@@ -2372,7 +2372,7 @@
         "Name": "Lots More Female Hairstyles v. 1.33-10543-1-33.rar",
         "Size": 3782,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Recluse",
           "Description": "Makes a selection of male hairstyles available and adds a good number of new female combinations and hybrids. All done with ESP file only. Currently includes 100\u002B new hairstyles.",
           "FileID": 43598,
@@ -2393,7 +2393,7 @@
         "Name": "Lots More Male Hairstyles v. 1.21 - Fix-10695-1-21Fix.rar",
         "Size": 3911,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Recluse",
           "Description": "Adds a good number of new male hair combinations and hybrid hairstyles. All done with ESP file only. Currently includes ~150 new hairstyles.",
           "FileID": 43293,
@@ -2414,7 +2414,7 @@
         "Name": "Lucid\u0027s Texture Upgrades - Loose-37799-v1-35-1552208492.zip",
         "Size": 369618876,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "LucidAPs",
           "Description": "New textures for things not covered by existing texture packs.",
           "FileID": 153888,
@@ -2435,7 +2435,7 @@
         "Name": "M1928A1_Thompson-44830-1-2-1588632275.rar",
         "Size": 78065225,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "NWI - Noniac - Wardaddy - Ricoginger",
           "Description": "Tired of seeing the Vault Boy with that thompson thats missing in every fallout since FO2? I\u0027m here to address that. Thompson M1928A1 variant, fully animated with plenty of attachments. Ported from the awesome Day of Infamy by New World Interactive, the studio behind their other more popular title Insurgency.",
           "FileID": 181119,
@@ -2456,7 +2456,7 @@
         "Name": "Mackin McCready-22501-1-0.zip",
         "Size": 4044,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mystolle",
           "Description": "A conversion of Mercenary,\u0026#34;RJ\u0026#34; MacCready ",
           "FileID": 92149,
@@ -2477,7 +2477,7 @@
         "Name": "M.C.G. Compatibility Patches v2.12.50.rar",
         "Size": 12222,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "anghelos92",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2019_10/1149596499_DesktopScreenshot2019_10.05-20_03_32_99.png.3e857a927ac491442aa32b05b51d46cc.png",
@@ -2499,7 +2499,7 @@
         "Name": "M.C.G. FO4 v2.12.50.rar",
         "Size": 18887248,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "anghelos92",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2019_10/1149596499_DesktopScreenshot2019_10.05-20_03_32_99.png.3e857a927ac491442aa32b05b51d46cc.png",
@@ -2521,7 +2521,7 @@
         "Name": "Scar Heavy-46326-1-0-1597163288.7z",
         "Size": 299283902,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Arsenal Zavod Team ___  Defess  -  SpongeBobSlavicPants  -  Gettzy3D",
           "Description": "Mk17 - Mk20 is a fully modular weapon mod, complete with custom first and third person animations!",
           "FileID": 188902,
@@ -2542,7 +2542,7 @@
         "Name": "AK400 - FOMOD Installer-38602-1-1-1558136642.7z",
         "Size": 757825,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cyanide4suicide",
           "Description": "Replaces vanilla assault rifles, combat rifles, or handmade rifles with FX0x01\u0027s AK400 weapon mod",
           "FileID": 158092,
@@ -2563,7 +2563,7 @@
         "Name": "AK74M Replacer - FOMOD Installer-33570-2-3-1558139066.7z",
         "Size": 821106,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cyanide4suicide",
           "Description": "Replaces vanilla assault rifles, combat rifles, or handmade rifles into FX0x01\u0027s AK400 weapon mod",
           "FileID": 158101,
@@ -2584,7 +2584,7 @@
         "Name": "Bullpup Bozar Replacer - FOMOD Installer-33716-3-0-1558134647.7z",
         "Size": 1131536,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cyanide4suicide",
           "Description": "Replaces vanilla assault rifles, combat rifles, or lever action rifles with Deadpool2099\u0027s Bullpup Bozar",
           "FileID": 158086,
@@ -2605,7 +2605,7 @@
         "Name": "FN P90 Replacer - FOMOD Installer-34058-1-3-1-1585646419.7z",
         "Size": 433856,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cyanide4suicide",
           "Description": "Replaces vanilla pipe guns, submachine guns, or radium rifles with The Shiny Hax\u0027s FN P90 weapon mod",
           "FileID": 178492,
@@ -2626,7 +2626,7 @@
         "Name": "Hunting Shotgun Replacer - FOMOD Installer-33800-1-2-1558142046.7z",
         "Size": 827430,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cyanide4suicide",
           "Description": "Replaces vanilla combat shotguns or double barrel shotguns with Deadpool2099\u0027s Hunting Shotgun.",
           "FileID": 158112,
@@ -2647,7 +2647,7 @@
         "Name": "Kriss Vector - FOMOD Installer-38610-1-3-1585555179.7z",
         "Size": 394469,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cyanide4suicide",
           "Description": "Replaces vanilla combat rifles, submachine guns or radium rifles into CHNGhostDelta\u0027s Kriss Vector weapon mod",
           "FileID": 178413,
@@ -2668,7 +2668,7 @@
         "Name": "MP-412 Replacer - FOMOD Installer-34096-1-2-1558406046.7z",
         "Size": 569796,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cyanide4suicide",
           "Description": "Replaces vanilla .44 revolvers with ajhakra\u0027s MP-412 weapon mod",
           "FileID": 158283,
@@ -2689,7 +2689,7 @@
         "Name": "MTs-255 Replacer - FOMOD Installer-35029-1-1-1558137721.7z",
         "Size": 693931,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cyanide4suicide",
           "Description": "Replaces vanilla pipe bolt action gunsand pipe revolver guns into ExpoAlt\u0027s MTs-255 Revolver Shotgun",
           "FileID": 158096,
@@ -2710,7 +2710,7 @@
         "Name": "RPG-7V2 Replacer - FOMOD Installer-34212-1-3-1558138314.7z",
         "Size": 632974,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cyanide4suicide",
           "Description": "Replaces vanilla fatman or missile launchers with The Shiny Hax\u0027s RPG-7V2 weapon mod",
           "FileID": 158098,
@@ -2731,7 +2731,7 @@
         "Name": "Springfield Armory M1A Replacer - FOMOD Installer-44047-1-0-1585137455.7z",
         "Size": 387807,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cyanide4suicide",
           "Description": "Replaces vanilla Combat Rifles, Hunting Rifles, or Lever Action Rifles with FX0x01\u0027s Springfield Armory M1A weapon mod",
           "FileID": 178123,
@@ -2752,7 +2752,7 @@
         "Name": "Mossberg 500 - Update-46120-1-0b-1594754318.zip",
         "Size": 10691922,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "TheBigLidowski",
           "Description": "Pump-action shotgun with some tacticool additions as well as custom 1st and 3rd person animations, sounds and ammo switcher.",
           "FileID": 186822,
@@ -2773,7 +2773,7 @@
         "Name": "Mossberg 500-46120-1-0-1594223342.zip",
         "Size": 468715930,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "TheBigLidowski",
           "Description": "Pump-action shotgun with some tacticool additions as well as custom 1st and 3rd person animations, sounds and ammo switcher.",
           "FileID": 186319,
@@ -2794,7 +2794,7 @@
         "Name": "MP-412 v3.0-21827-3-0.rar",
         "Size": 20312677,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ajhakra",
           "Description": "Adds a MP-412 to the Commonwealth with custom animations!",
           "FileID": 103085,
@@ -2815,7 +2815,7 @@
         "Name": "MP-412 v3.0 4k Textures-21827-3-0.rar",
         "Size": 63804308,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ajhakra",
           "Description": "Adds a MP-412 to the Commonwealth with custom animations!",
           "FileID": 103087,
@@ -2836,7 +2836,7 @@
         "Name": "MP5-Complex - MP5K Choate Stock Addon-41778-v1-1-1592932148.7z",
         "Size": 435385,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Nadie2283",
           "Description": "Adds the Choate side folding stock to the MP5K in HyperX\u0027s MP5-Complex mod.",
           "FileID": 185087,
@@ -2857,7 +2857,7 @@
         "Name": "MTs-255 Revolver Shotgun - 2K Textures-31240-1-4.7z",
         "Size": 29768839,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ExpoAlt",
           "Description": "Adds the MTs-255 Revolver Shotgun to the Commonwealth. Favoured by the Gunners, this Russian-made hunting shotgun features several variants to adapt to your preferred play style.",
           "FileID": 128974,
@@ -2878,7 +2878,7 @@
         "Name": "MWM4 update main.BA2-45174-1-5-1590099013.rar",
         "Size": 10555034,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Warfighters Workshop",
           "Description": "Adds the M4A1 from Modern Warfare 2019 and it\u0027s variants/Blueprints into Fallout 4.\n\n\n\nPlease endorse as it always helps! Mars Aeternum!",
           "FileID": 182448,
@@ -2899,7 +2899,7 @@
         "Name": "MWM4 - M4A1-45174-1-0-1589959589.rar",
         "Size": 582303083,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Warfighters Workshop",
           "Description": "Adds the M4A1 from Modern Warfare 2019 and it\u0027s variants/Blueprints into Fallout 4.\n\n\n\nPlease endorse as it always helps! Mars Aeternum!",
           "FileID": 182305,
@@ -2920,7 +2920,7 @@
         "Name": "NMCs Bundle VERY HIGH-31814-1-0.7z",
         "Size": 834988362,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "NMC",
           "Description": "Mini- texture bundle, retexturing the Nuka Cola Machine, RedRocket Truck Stops, Diners (including Drumlin), Drive-Ins, Roads (asphalt road only) and Sanctuary Bridge. Available in 3 sizes to suit your PC.",
           "FileID": 130052,
@@ -2941,7 +2941,7 @@
         "Name": "Nuka-World Scenery replacement-17853-2-01.zip",
         "Size": 27990,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Eldocar",
           "Description": "A fix for the outsized bottles appearing in Nuka-World. Replaces them with similar bottle scenery. ",
           "FileID": 72656,
@@ -2962,7 +2962,7 @@
         "Name": "Overboss Outfit-20080-1-0.7z",
         "Size": 40239368,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Deserter X",
           "Description": "Because raiders need to be reminded of who\u0027s the Boss!",
           "FileID": 82272,
@@ -2983,7 +2983,7 @@
         "Name": "Pampas Set - AE Replacer (Sacremas Version)-19263-1-7.rar",
         "Size": 16206,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ralfetas",
           "Description": "Hot or Cold, you can have protection!",
           "FileID": 121265,
@@ -3004,7 +3004,7 @@
         "Name": "Pampas Set Mesh Add-on 2k-29233-0-9-1.zip",
         "Size": 350240008,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kky",
           "Description": "See-through mesh bodysuit add-on to the fantastic Pampas Set in High Res texture and optional physics!",
           "FileID": 119821,
@@ -3025,7 +3025,7 @@
         "Name": "Piper -Natural Mom--8253-1-0.rar",
         "Size": 2526,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Truth2",
           "Description": "We will adapt the save data MOD \u0026#34; Natural Mom \u0026#34; to Piper.",
           "FileID": 30625,
@@ -3046,7 +3046,7 @@
         "Name": "Platinum Curie-25137-V2-1.rar",
         "Size": 1278,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Davethegamer",
           "Description": "It\u0027s BACK! It\u0027s NEW! And it\u0027s shinier than EVER!",
           "FileID": 102682,
@@ -3067,7 +3067,7 @@
         "Name": "dcc-potc-v112-slot56.zip",
         "Size": 888180,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "darkconsole",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/9740bd15a6ee67b2bd7c0aec33ab7481-fallout4-2016-06-20-01-30-40-23.jpg",
@@ -3089,7 +3089,7 @@
         "Name": "Ponytail Hairstyles by Azar v2_5a - BA2 version-8126-2-5a.zip",
         "Size": 19837856,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Azar",
           "Description": "New standalone hairstyles for your characters.",
           "FileID": 90790,
@@ -3110,7 +3110,7 @@
         "Name": "Post Nuclear Outfit-29484-1-0.rar",
         "Size": 116266838,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "NewerMind43",
           "Description": "new outfit for female character",
           "FileID": 120494,
@@ -3131,7 +3131,7 @@
         "Name": "Prisoner Shackles 4.0-18436-4-0.zip",
         "Size": 28275,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "MLUCKE",
           "Description": "Craftable prisoner shackles and more in Workshop",
           "FileID": 98245,
@@ -3152,7 +3152,7 @@
         "Name": "Nexus PMC 3.0.2 Hotfix-41332-3-0-2-1583663353.zip",
         "Size": 5841,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "EvTital - TomaHawk - Neto - HeroicPie - i_Code_i - Cyrisus",
           "Description": "Adds a new outfit with custom camouflages and gloves.",
           "FileID": 177197,
@@ -3173,7 +3173,7 @@
         "Name": "Project Reality Footsteps FO4 1.7 Loose Files-35904-1-7-1555770104.zip",
         "Size": 4038673,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "HULKHOD3N x PR BF2 DevTeam",
           "Description": "Changes almost all footstep sounds into more realistic ones. Including subtle gear and backpack rattle. *Snow Edition* available.",
           "FileID": 156467,
@@ -3194,7 +3194,7 @@
         "Name": "Q.M.W(Quick Modification Weapon) ESL file-44985-1-8-2-1599041664.zip",
         "Size": 46482123,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tooun",
           "Description": "Quick Modification Weapon : Fast change scopes/muzzle/attach , great efficiency, Anytime, Anywhere..\n\nOnly support modern weapons(Only mod weapon)",
           "FileID": 190506,
@@ -3215,7 +3215,7 @@
         "Name": "Radiant Clouds and Fogs-735-1-3.7z",
         "Size": 84476513,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mangaclub",
           "Description": "Radiant Clouds and Fogs replaces almost all Fallout 4 Clouds as well as the distant fogs in the mountains. It is available in Highres and Medres versions.",
           "FileID": 17880,
@@ -3236,7 +3236,7 @@
         "Name": "Raider Pet v1_4 Localized.7z",
         "Size": 278984,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "stobor",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2019_03/528865471_EvabyFirelight.jpg.748ca6853fe69676ef2dfa2d43b2a0ce.jpg",
@@ -3258,7 +3258,7 @@
         "Name": "RAW INPUT - NMM Installer-27019-2-4.zip",
         "Size": 120396,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "IceKK",
           "Description": "Disabled Mouse Acceleration, Horizontal/Vertical Parity, Scalable ADS Multiplier, Normalized Sensitivity",
           "FileID": 139155,
@@ -3279,7 +3279,7 @@
         "Name": "RealHandcuffs.0.4.14.7z",
         "Size": 3905895,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "Kharos",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2019_06/captured_raider_detail.jpg.b6a5e71b068413166a45e728a5243519.jpg",
@@ -3301,7 +3301,7 @@
         "Name": "Realistic Conversations-32514-1-0.zip",
         "Size": 1141,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Gorgulla",
           "Description": "Every social logic in Fallout for NPCs is changed, they talk more often to each others. And will less likely greet to you from a distance, they will also greet less often too, making them to not act as much as robots. NPCs are also more clever and will know for example if they talked to a NPC and will therefore talk to another or not talk at all.",
           "FileID": 132517,
@@ -3322,7 +3322,7 @@
         "Name": "Realistic Roads - Fade (2K)-12137-2-1-1562393237.zip",
         "Size": 191644068,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Spiffyskytrooper",
           "Description": "A mod that changes the road textures to be darker, and sharper.",
           "FileID": 161351,
@@ -3343,7 +3343,7 @@
         "Name": "Release_50Shades_v01_05.zip",
         "Size": 3745484,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "Gray User",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2019_07/Doggy01.jpg.79993c347014b9c99e22d91100a1660d.jpg",
@@ -3365,7 +3365,7 @@
         "Name": "Release_BadEnd_v01_05.zip",
         "Size": 7793823,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "Gray User",
           "Description": "",
           "ImageURL": null,
@@ -3387,7 +3387,7 @@
         "Name": "Release_CreaturePackDLC_v01.zip",
         "Size": 1870523,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "Gray User",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2019_10/Angler.jpg.f7ae68bf91f99b8b93e46674bac797e8.jpg",
@@ -3409,7 +3409,7 @@
         "Name": "Release_NSFWsoundpack_03_01.zip",
         "Size": 35674318,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "Gray User",
           "Description": "",
           "ImageURL": null,
@@ -3431,7 +3431,7 @@
         "Name": "Retextured Chems 2 - Ephla\u0027s Unique Chems-18867-0-6.zip",
         "Size": 18448014,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ben Ephla",
           "Description": "All my slightly more modern looking chem retextures.  Ideal if you\u0027re wanting to decorate your Vaults medical room with supplies that look more fitting with their surroundings.  Or, good if you are just wanting a change in texture.",
           "FileID": 78697,
@@ -3452,7 +3452,7 @@
         "Name": "RobCo Recon Scope Replacer - Main File-36374-1-03-1558554685.7z",
         "Size": 33487893,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "EmeraldReign",
           "Description": "Replaces the vanilla Recon Scope for each weapon with a brand new asset with custom models, textures and materials.",
           "FileID": 158355,
@@ -3473,7 +3473,7 @@
         "Name": "RPG-7V2-26446-1-2b.zip",
         "Size": 153282837,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "The Shiny Haxorus",
           "Description": "Adds the infamous RPG-7 to the Commonwealth to lay waste to infidels.",
           "FileID": 108486,
@@ -3494,7 +3494,7 @@
         "Name": "RSEII_CSA(v3.1).zip",
         "Size": 1944053,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "Guest",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2019_07/CSA.png.3db4a371830c645cd6d0286bdce0983e.png",
@@ -3516,7 +3516,7 @@
         "Name": "RSE_II_Resources_ESM (v1.0).zip",
         "Size": 5691251,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "Guest",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2019_05/RSE2.jpg.7c9096ca8515a5a994bfbdf92076f75c.jpg",
@@ -3538,7 +3538,7 @@
         "Name": "RU556 - Assault Rifle v3.0-22536-3-0-1545654254.rar",
         "Size": 640195186,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "FX0x01 - F34R - Navaro  - other",
           "Description": "Rumors that a legendary RU556 Assault Rifle has been spotted in The Commonwealth, apparently a ship from before the war was carrying an illegal prototype.",
           "FileID": 148613,
@@ -3559,7 +3559,7 @@
         "Name": "Russian Recon Pack v1.2-23932-1-2.rar",
         "Size": 75259785,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "FX0x01 - Ha_ru - Hitman47101 - Navaro",
           "Description": "This mod adds a russian sniper rifle SVU and pistol MP443 \u0022Grach\u0022 into Fallout 4. It features Custom animations and Sounds.",
           "FileID": 97770,
@@ -3580,7 +3580,7 @@
         "Name": "SavageCabbages Animation Pack V1.2.6.7z",
         "Size": 97178125,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "SavageCabbage",
           "Description": "",
           "ImageURL": null,
@@ -3602,7 +3602,7 @@
         "Name": "SavrenX HD Vanilla Armor-40218-1-00-1563956511.7z",
         "Size": 834346208,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SavrenX",
           "Description": "Enhance all Vanilla Armor to highest quality with smallest size.",
           "FileID": 162706,
@@ -3623,7 +3623,7 @@
         "Name": "SavrenX HD Vanilla Clothes Optimized-40203-1-00-1563870078.7z",
         "Size": 2094606506,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SavrenX",
           "Description": "Enhance all Vanilla clothes to highest quality with smallest size.",
           "FileID": 162656,
@@ -3644,7 +3644,7 @@
         "Name": "Fallout 4 Scopes Framework-30644-v1-4-1.7z",
         "Size": 52099,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Scrivener07",
           "Description": "A framework for loading custom user interface crosshairs and optics while zoomed in with the scope menu.",
           "FileID": 134584,
@@ -3665,7 +3665,7 @@
         "Name": "See Through Scopes 2.3.5-9476-2-3-5-1598094829.zip",
         "Size": 87503928,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "henkspamadres",
           "Description": "Adds see-through (so no scope overlay) Combat Scopes to various weapons.",
           "FileID": 189678,
@@ -3686,7 +3686,7 @@
         "Name": "Servitron-32801-1-1-0.7z",
         "Size": 19056964,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "5133p39",
           "Description": "Adds a new Automatron robot based on Assaultron, ported to human skeleton so it can use human animations (it moves, behaves, and fights like a human), and can wear some armors and items originally meant to be worn by humans.\n\nBodySlide support included.",
           "FileID": 134358,
@@ -3707,7 +3707,7 @@
         "Name": "SettlementMenuManagerMainFile-24204-0-1-7-1593282850.7z",
         "Size": 8288,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cadpnq",
           "Description": "SMM provides an easy way to add custom menus and makes said menus automatically disappear on uninstall (without breaking your build menu!)",
           "FileID": 185417,
@@ -3728,7 +3728,7 @@
         "Name": "Zipsuit v2.0-16704-2-0.rar",
         "Size": 26262755,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "nakrulz",
           "Description": "Zipsuit is back......now for FALLOUT 4!",
           "FileID": 81924,
@@ -3749,7 +3749,7 @@
         "Name": "SIG Sauer MPX-34628-001e2.7z",
         "Size": 380400893,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ehtyeci",
           "Description": "This mod adds a SIG Sauer MPX Gen. 2 SMG to the Commonwealth. ESP and ESL versions available.",
           "FileID": 141410,
@@ -3770,7 +3770,7 @@
         "Name": "SIG SG 550 - 1.0 - 4K-42929-1-0-1578559720.7z",
         "Size": 326764417,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Nova",
           "Description": "The SIG SG 550 is a modern modular assault rifle hailing from Switzerland.",
           "FileID": 174019,
@@ -3791,7 +3791,7 @@
         "Name": "SIG SG 550 - 1.0.2 - UPDATE-42929-1-0-2-1578585071.7z",
         "Size": 307430,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Nova",
           "Description": "The SIG SG 550 is a modern modular assault rifle hailing from Switzerland.",
           "FileID": 174047,
@@ -3812,7 +3812,7 @@
         "Name": "Sjogren Inertia-41109-1-0-1568311604.rar",
         "Size": 14225863,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "asXas",
           "Description": "Adds the Sjogren Shotgun to the game.",
           "FileID": 166505,
@@ -3833,7 +3833,7 @@
         "Name": "SleepIntimateXOXO_v2.7z",
         "Size": 40333606,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://www.dracotorre.com/mods/downloads/SleepIntimateXOXO_v2.7z"
         }
@@ -3847,7 +3847,7 @@
         "Name": "Springfield Armory M1A-41999-1-0-1579088521.rar",
         "Size": 270973694,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "FX0x01 - F34R - Navaro - luchadordev",
           "Description": "Adds a highly customizable M1A Rifle that features a quest, custom sounds, animations in 1st and 3rd person and leveled list integration.",
           "FileID": 174379,
@@ -3868,7 +3868,7 @@
         "Name": "SREP Redux-46267-v0-99D-1618280663.7z",
         "Size": 1000989748,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Nadie2283 - i_code_i",
           "Description": "The REDUX to Service Rifle Expansion Project for Wasteland Melody\u0027s Service Rifle.",
           "FileID": 205767,
@@ -3889,7 +3889,7 @@
         "Name": "Start Me Up - Alternate Start and Quick Start-18946-2-0.zip",
         "Size": 55807,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "TinyManticore",
           "Description": "Provides Alternate start, Quick start, Normal start options.  When you use one of the alternate start paths, there are over 800 dialogue edits, with voice and lip sync, so your character is no longer the mother/father of Shaun (or even a Vault Dweller, if you want).  Great for role players.",
           "FileID": 77748,
@@ -3910,7 +3910,7 @@
         "Name": "Steyr AUG - 1.0 - 4K-43419-1-0-1581304588.7z",
         "Size": 297704144,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Nova",
           "Description": "The Steyr AUG, a modular Austrian bullpup with variants ranging from SMG to LMG and everything in between.",
           "FileID": 175707,
@@ -3931,7 +3931,7 @@
         "Name": "Synths Revamped-34436-1-1.rar",
         "Size": 136927354,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Fuse00",
           "Description": "New 4K face/body/eyes/teeth textures for synths.",
           "FileID": 140780,
@@ -3952,7 +3952,7 @@
         "Name": "Tactical Outfit Kit 2k-46356-1-3-1596113824.7z",
         "Size": 854307040,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Octimus",
           "Description": "An outfit that is tactical.\n\n\n\n22 - Attachments\n\n24 - camo patterns",
           "FileID": 187986,
@@ -3973,7 +3973,7 @@
         "Name": "Tactical Fast Helmet - HOTFIX-43793-1-4-1-1596893946.7z",
         "Size": 5892373,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Octimus",
           "Description": "A Helmet with;\n\nPatch with 57 Skins\n\nNight vision headsets PVS14 and 21 / thermal and GPNV.\n\nAudio headset \n\nCounter Weight\n\nHEL-Star Light  - 10 colours and 3 modes.\n\nFlashlight - Yes it works.\n\nHelmet cover - 25 skins\n\nHair Liner\n\nGoggles - 7 lens\n\nBuff - 27 skins\n\nBalaclava - 25 skins",
           "FileID": 188675,
@@ -3994,7 +3994,7 @@
         "Name": "Tactical Fast Helmet 2K-43793-1-4-1596061029.7z",
         "Size": 575389236,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Octimus",
           "Description": "A Helmet with;\n\nPatch with 57 Skins\n\nNight vision headsets PVS14 and 21 / thermal and GPNV.\n\nAudio headset \n\nCounter Weight\n\nHEL-Star Light  - 10 colours and 3 modes.\n\nFlashlight - Yes it works.\n\nHelmet cover - 25 skins\n\nHair Liner\n\nGoggles - 7 lens\n\nBuff - 27 skins\n\nBalaclava - 25 skins",
           "FileID": 187940,
@@ -4015,7 +4015,7 @@
         "Name": "Tactical Human-46663-V1-02-1596390343.rar",
         "Size": 279462145,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ardent",
           "Description": "Adds in a fully customizeable tactical outfit. Female only.",
           "FileID": 188221,
@@ -4036,7 +4036,7 @@
         "Name": "TattooAfterRape1.1.1.zip",
         "Size": 20070,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "twistedtrebla",
           "Description": "",
           "ImageURL": null,
@@ -4058,7 +4058,7 @@
         "Name": "The Eyes of Beauty Fallout Kaleidoscope Edition - All-in-One-133-3-2.7z",
         "Size": 32070657,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "LogRaam aka Gabriel Mailhot",
           "Description": "Change eyes textures for new high resolution ones.  Will work for both gender.  New textures will be added so keep in touch!",
           "FileID": 127418,
@@ -4079,7 +4079,7 @@
         "Name": "Luis Royo Collection-19233-2-00.7z",
         "Size": 216260809,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Wolfmod",
           "Description": "A selection of high resolution images of Luis Royo\u0026#34;s artwork displayed as paintings, posters and calendars ",
           "FileID": 103333,
@@ -4100,7 +4100,7 @@
         "Name": "TheKite_Caitset_90b-20424--90b.7z",
         "Size": 52734681,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Th3Kite",
           "Description": "Original Concept by TheKite made into an outfit with many customization options.",
           "FileID": 84417,
@@ -4121,7 +4121,7 @@
         "Name": "TheKite_ScoopDigger-18856-1-0b-1560024566.zip",
         "Size": 51280100,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Th3Kite",
           "Description": "Original Concept by TheKite made into a functional outfit for Fallout 4.",
           "FileID": 159440,
@@ -4142,7 +4142,7 @@
         "Name": "TheKite_HCD_SynthUniform_91b-22086--91b.7z",
         "Size": 101196801,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Th3Kite",
           "Description": "Based on original character art by The Kite.",
           "FileID": 91950,
@@ -4163,7 +4163,7 @@
         "Name": "TheKite_VTS-20950--90a.7z",
         "Size": 61254125,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Th3Kite",
           "Description": "An extremely customizeable re-imagining of the Vault-Tec Jump suit.",
           "FileID": 86020,
@@ -4184,7 +4184,7 @@
         "Name": "TortureDevices 1.9.rar",
         "Size": 12744017,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "EgoBallistic",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2021_06/enb2021_6_9_01_16_52.jpg.16c48f1e4b67a871fc1e8d5b318f2229.jpg",
@@ -4206,7 +4206,7 @@
         "Name": "ToughGirlAttire-38215-1-5-1556175024.7z",
         "Size": 139455663,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "vtaw",
           "Description": "High-quality outfit for female characters.",
           "FileID": 156746,
@@ -4227,7 +4227,7 @@
         "Name": "1.5.11b - TruBy9 UltraWide Fallout 4 Public BETA Release-24630-1-5-11b-1565654842.7z",
         "Size": 26230710,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ZaliaS",
           "Description": "Unofficial Ultrawide Support for the entirety of Fallout 4 and all of its DLCs",
           "FileID": 164269,
@@ -4248,7 +4248,7 @@
         "Name": "Unofficial Fallout 4 Patch-4598-2-1-3-1622921619.7z",
         "Size": 28076240,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Unofficial Patch Project Team",
           "Description": "A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.",
           "FileID": 209596,
@@ -4269,7 +4269,7 @@
         "Name": "Urban Food Expanded-18065-1-0.7z",
         "Size": 37836500,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "clintmich",
           "Description": "This mod adds an abundance of new food items to the Fallout 4 wastelands. More than 40!\r\n\nAll the new items can be used exactly like vanilla food items, and have very similar values \r\n\nand effects. This mod will enhance your food hunting experience, making it more immersive,\r\n\nvisually appealing, detailed, and more realistic.\r\n\n",
           "FileID": 72859,
@@ -4290,7 +4290,7 @@
         "Name": "Vadermania[AAF].rar",
         "Size": 922465,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "EgoBallistic",
           "Description": "",
           "ImageURL": null,
@@ -4312,7 +4312,7 @@
         "Name": "Vioxsis\u0027 Strap-On\u0027s of Fallout 4.7z",
         "Size": 24233350,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "an3k",
           "Description": "",
           "ImageURL": null,
@@ -4334,7 +4334,7 @@
         "Name": "Vivid Fallout - All in One - Best Choice-25714-1-3.7z",
         "Size": 677963287,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Hein84",
           "Description": "all Vivid Fallout textures combined in one ba2",
           "FileID": 134715,
@@ -4355,7 +4355,7 @@
         "Name": "VtawUtilityPack1-42971-1-0-1578813434.7z",
         "Size": 1985843459,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Vtaw",
           "Description": "Modular clothing mod \u002B25 items.",
           "FileID": 174164,
@@ -4376,7 +4376,7 @@
         "Name": "VtawWardrobe1-39599-1-1-1561227958.7z",
         "Size": 3316861041,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "vtaw",
           "Description": "Adds 5 tanktops, leather pants, jackets, shorts, harnes, scarf, belts, bags with a lot of different textures.",
           "FileID": 160375,
@@ -4397,7 +4397,7 @@
         "Name": "VtawWardrobe2-39780-1-5-1561977024.7z",
         "Size": 619101816,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Vtaw",
           "Description": "Bikinis",
           "FileID": 160936,
@@ -4418,7 +4418,7 @@
         "Name": "Vtaw Wardrobe 4-42145-1-0-1574017475.7z",
         "Size": 5681124488,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Vtaw",
           "Description": "Modular clothing mod. 44 Items, 179 materials swaps.",
           "FileID": 171068,
@@ -4439,7 +4439,7 @@
         "Name": "Vtaw Wardrobe 4 V1.1 .esp-42145-1-1-1574536781.7z",
         "Size": 9745,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Vtaw",
           "Description": "Modular clothing mod. 44 Items, 179 materials swaps.",
           "FileID": 171427,
@@ -4460,7 +4460,7 @@
         "Name": "Vtaw Wardrobe 5 .ESP-43844-1-3-1585823756.rar",
         "Size": 18019,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Vtaw",
           "Description": "Meshes 118, textures 583, 225 materials swaps.",
           "FileID": 178622,
@@ -4481,7 +4481,7 @@
         "Name": "Wardrobe6 Main-46628-1-0-1596281201.7z",
         "Size": 1145138749,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Vtaw",
           "Description": "~140 clothing items.",
           "FileID": 188133,
@@ -4502,7 +4502,7 @@
         "Name": "WM_ServiceRifle_1.1-28547-1-1.zip",
         "Size": 281859071,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Wasteland Melody - Fallout Cascadia",
           "Description": "Adds the iconic Service Rifle and Assault Carbine from Fallout: New Vegas, complete with 100% scratch-built meshes \u0026amp; textures, custom sounds, custom animations, and dozens of mods and attachment, all painstakingly tailored to match the lore, style, and aesthetic of the base game.",
           "FileID": 128088,
@@ -4523,7 +4523,7 @@
         "Name": "Wattz Laser Gun-26386-1-3-1.zip",
         "Size": 124892005,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DeadPool2099 - Ha_Ru and friends",
           "Description": "This mod will add Wattz 3000 laser rifle, with all-new lore-friendly design, featuring custom animations, models and textures, inspired by famous Wattz 2000 from Fallout and Fallout 2",
           "FileID": 110924,
@@ -4544,7 +4544,7 @@
         "Name": "WoodysWasteland Stuff-24951-4.7z",
         "Size": 154135832,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Woodylicious",
           "Description": "An improvised barrel fireplace to keep you toasty warm and various other wasteland stuffs.",
           "FileID": 127391,
@@ -4565,7 +4565,7 @@
         "Name": "XM2010.v3.604(Last version).....MAIN.data-36750-3-604-1590325596.zip",
         "Size": 335516857,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "tooun",
           "Description": "Including pendant, detector CPU, switch side aiming, thermal imaging, night vision and Too many features.\n\nI\u0027ve been updating this gun for a year, and now it\u0027s over, the last version",
           "FileID": 182677,
@@ -4586,7 +4586,7 @@
         "Name": "XM2010..v3.0....See Through Scopes mode.FOV80(default FOV).data-36750-3-0-1583382350.zip",
         "Size": 2324,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "tooun",
           "Description": "Including pendant, detector CPU, switch side aiming, thermal imaging, night vision and Too many features.\n\nI\u0027ve been updating this gun for a year, and now it\u0027s over, the last version",
           "FileID": 177049,
@@ -4607,7 +4607,7 @@
         "Name": "Fallout 4 Configuration Tool-102-1-3-5-2024.zip",
         "Size": 1388287,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Bilago",
           "Description": "Tweaks various INI settings with a few clicks!",
           "FileID": 71172,
@@ -4628,7 +4628,7 @@
         "Name": "FO4Edit 4_0_3-2737-4-0-3-1575326273.7z",
         "Size": 27938668,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ElminsterAU and the xEdit Team",
           "Description": "FO4Edit is the Fallout 4 version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.",
           "FileID": 171941,
@@ -4649,7 +4649,7 @@
         "Name": "zEdit_v0.6.5_-_Portable_x64.7z",
         "Size": 44073163,
         "State": {
-          "$type": "Http",
+          "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z"
         }
@@ -4663,7 +4663,7 @@
         "Name": "Better Console-26582-v1-4-0.7z",
         "Size": 196118,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kassent",
           "Description": "This is a F4SE plugin which makes console menu show extra useful infomation about selected target,for example, target\u0027s name, ID, baseID, mod name and so on.This plugin also add some extra info lists to console to show selected actor\u0027s all kinds of info like factions, perks, active effects, actor values, equipments and so on.",
           "FileID": 120757,
@@ -4684,7 +4684,7 @@
         "Name": "BodySlide and Outfit Studio - v5.1.0-25-5-1-0-1597092812.7z",
         "Size": 18221681,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ousnius and Caliente",
           "Description": "An easy to use tool for customizing bodies and outfits, creating new bodies and outfits, and converting outfits between body types.",
           "FileID": 188842,
@@ -4705,7 +4705,7 @@
         "Name": "CC\u0027s HQ Diamond City Textures - 0.4 - 2K-20784-0-4.7z",
         "Size": 93448348,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ClearanceClarence",
           "Description": "This is a simple mod that retextures some of the basic elements of DC",
           "FileID": 96955,
@@ -4726,7 +4726,7 @@
         "Name": "Def_ui 1.5.1-10654-1-5-1-1575574203.zip",
         "Size": 38810668,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Neanka and Valdacil and Old Nick and ParasiteX and sekoms",
           "Description": "Re-release of DEF_HUD and DEF_INV by Neanka with a combined installer package.  DEF_HUD is a fully customizable HUD.  DEF_INV provide many improvements to Pipboy, container, and barter inventory screens.",
           "FileID": 172074,
@@ -4747,7 +4747,7 @@
         "Name": "Full Dialogue Interface - All languages - NMM installer - Beta12-1235-Beta12.zip",
         "Size": 73274667,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Cirosan and shadwar",
           "Description": "Makes the game display the full lines of what your character is going to say in conversation, instead of just a paraphrase. It also revamps the interface so that the game will now display dialogue options in a list and use the number keys/face buttons for input, depending on your control scheme. Supports both keyboard and gamepad.",
           "FileID": 70053,
@@ -4768,7 +4768,7 @@
         "Name": "Mod Configuration Menu 1.39-21497-1-39-1575706632.zip",
         "Size": 371675,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "reg2k - Neanka - shadowslasher410",
           "Description": "The Mod Configuration Menu is a settings page for mods! It provides a central location for mod configuration, accessible via the Pause menu.",
           "FileID": 172180,
@@ -4789,7 +4789,7 @@
         "Name": "Staged Leito plus_1.0.6.7z",
         "Size": 1598758,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "Tentacus",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2020_06/20200629135242_1.jpg.6fe38c19ca91b791fb1546eaaac52a0b.jpg",
@@ -4811,7 +4811,7 @@
         "Name": "TRUBY9 ULTRAWIDESCREEN DEF_INV compatibility fix-43278-v1-0-1580573605.7z",
         "Size": 239590,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Peregrin0",
           "Description": "TRUBY9 ULTRAWIDESCREEN does not offer compatibility with DEF_INV. This mods corrects this.",
           "FileID": 175176,
@@ -4832,7 +4832,7 @@
         "Name": "Achievements v1-0-5-12465-1-0-5.7z",
         "Size": 73270,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Expired6978",
           "Description": "Uses F4SE to re-enable achievements while mods are active",
           "FileID": 108043,
@@ -4853,7 +4853,7 @@
         "Name": "DFC Bodyslide Output.7z",
         "Size": 541600176,
         "State": {
-          "$type": "WabbajackCDN",
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
           "Url": "https://wabbajack.b-cdn.net/DFC Bodyslide Output.7z_fba624be-32ec-4fd1-a2cb-70c268d25059"
         }
       }
@@ -4866,7 +4866,7 @@
         "Name": "Crafting Highlight Fix 1.8.8-27479-1-8-8-1576067808.zip",
         "Size": 145150,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "registrator2000",
           "Description": "A F4SE plugin that allows you to disable the hardcoded, vision-obscuring shader effect at various workbenches so you can actually see what you\u0027re crafting.\n\n\n\nAlso allows you to change the shader effect for the Power Armor station and robot workbenches to a outline-only shader instead of a full shader.",
           "FileID": 172411,
@@ -4887,7 +4887,7 @@
         "Name": "FTO Moons Masser And Secunda 2K-160-1-0.rar",
         "Size": 18864145,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Gorgulla",
           "Description": "Overhauls the moons in fallout 4 to high res with a choice to choose between 4K,2K and 1K moons.",
           "FileID": 288,
@@ -4908,7 +4908,7 @@
         "Name": "Faster Workshop 1.1-35382-1-1-1539871573.zip",
         "Size": 146993,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "reg2k",
           "Description": "Faster Workshop is an F4SE plugin that optimizes workshop loading times by replacing some of the most expensive and inefficient regions of workshop loading code with far more efficient versions. Also provides a hotkey to instantly enter Workshop mode and fixes workshop icon load lag.",
           "FileID": 143840,
@@ -4929,7 +4929,7 @@
         "Name": "FO4 SUNv1 fixed-3154-1-0.7z",
         "Size": 721624,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ramccoid",
           "Description": "This retextures the sun to give a radiant effect.",
           "FileID": 9707,
@@ -4950,7 +4950,7 @@
         "Name": "HQDIR Full-5663-v1-1.zip",
         "Size": 28355119,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "lati100",
           "Description": "Retextures all impact decals. A small change with a big impact!",
           "FileID": 21911,
@@ -4971,7 +4971,7 @@
         "Name": "Langleys HD Textures Workshop-1897-0-8.7z",
         "Size": 355808447,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Langley",
           "Description": "My retextures for Fallout 4",
           "FileID": 47589,
@@ -4992,7 +4992,7 @@
         "Name": "LooksMenu v1-6-20-12631-1-6-20-1604483725.7z",
         "Size": 465585,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Expired6978",
           "Description": "Adds engine modifications to improve character creation.",
           "FileID": 194291,
@@ -5013,7 +5013,7 @@
         "Name": "Perverted Perks.rar",
         "Size": 346542,
         "State": {
-          "$type": "LoversLab",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "TokHaar Hok Gol",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/8b9dbf00fc92e6737252327abddf7503-6361-0-1450657914.gif",
@@ -5035,7 +5035,7 @@
         "Name": "PrivateProfileRedirector F4 0.4.1-33947-0-4-1-1569069129.zip",
         "Size": 148414,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kerber",
           "Description": "Speeds up game start by storing INI files in memory instead of opening, parsing and closing the file each time some value from it is needed.",
           "FileID": 167135,
@@ -5056,7 +5056,7 @@
         "Name": "SRP v1.14-3265-1-14.zip",
         "Size": 371400051,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Andreas Stromberg",
           "Description": "Redone textures with higher resolution,.\n\nMost of the time, 4 times the resolution of the original ones, like if the original is a 1024x1024 texture I will do a 2048x2048 one.\n\nI also have a vanila resolution version.",
           "FileID": 133652,
@@ -5077,7 +5077,7 @@
         "Name": "Visible Galaxy Dim-19127-1-0.7z",
         "Size": 2370650,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Texture by Apinanaivot - Framework by Spacegoats",
           "Description": "Allows you to see the Milky Way Galaxy in all of its glory.",
           "FileID": 91215,
@@ -5098,7 +5098,7 @@
         "Name": "Better Ammo Boxes Overhaul-8087-1-0.zip",
         "Size": 77943376,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Devious_Methods",
           "Description": "This mod retextures all conventional weapon ammo boxes with hand textured maps. Multiple colorways and resolutions.",
           "FileID": 30010,
@@ -5119,7 +5119,7 @@
         "Name": "Far Harbor 45-70 Box Retexture-8087-1-0.zip",
         "Size": 1739014,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Devious_Methods",
           "Description": "This mod retextures all conventional weapon ammo boxes with hand textured maps. Multiple colorways and resolutions.",
           "FileID": 55821,
@@ -5140,7 +5140,7 @@
         "Name": "Nuka World 7.62 Ammo Box-8087-1-0.rar",
         "Size": 1444537,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Devious_Methods",
           "Description": "This mod retextures all conventional weapon ammo boxes with hand textured maps. Multiple colorways and resolutions.",
           "FileID": 91583,
@@ -5161,7 +5161,7 @@
         "Name": "cryohd-31564-1.rar",
         "Size": 104641597,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "dpillari",
           "Description": "a hd retexture of the vanilla cryolator",
           "FileID": 128753,
@@ -5182,7 +5182,7 @@
         "Name": "Delightful Dead Fish HD - Unhealthy Version-14726-1.7z",
         "Size": 7685505,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "83Willow",
           "Description": "Beautiful, realistic HD Retextures for the Commonwealth Fish and the Far Harbor DLC Fish species. \n\n\n\nChoose one of the two versions of the Fallout4 base game fish \u0026gt; healthy or unhealthy irradiated looking",
           "FileID": 58625,
@@ -5203,7 +5203,7 @@
         "Name": "Detailed Urban Food Faded-2357-1-1.zip",
         "Size": 11907654,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "clintmich",
           "Description": "This mod replaces most packaged foods such as, boxed goods, and can goods.\r\n\nIt will enhance your food hunting experience making food items more \r\n\nvisually appealing, detailed, and more realistic.\r\n\nTexture maps have been doubled in size from the originals.(1024x1024)\r\n\nNormal maps are in proper DX10 format.",
           "FileID": 11188,
@@ -5224,7 +5224,7 @@
         "Name": "Better Duffle Bag Retexture-8879-1-0.zip",
         "Size": 116315440,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Devious_Methods",
           "Description": "Retexture for the duffle bag containers around the wastes. 3 colors and 6 variants total. 2K and 4K resolutions. ",
           "FileID": 33685,
@@ -5245,7 +5245,7 @@
         "Name": "Erotic Paintings-4064-.rar",
         "Size": 1377516,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DeMoNz",
           "Description": "Erotic Paintings",
           "FileID": 12770,
@@ -5266,7 +5266,7 @@
         "Name": "Fortaleza Armor - Main file-10692-5-1.rar",
         "Size": 94755658,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ralfetas",
           "Description": "Fortaleza Armor for CBBE",
           "FileID": 73099,
@@ -5287,7 +5287,7 @@
         "Name": "Fortaleza Armor - MK1 - 2K-10692-5-1.rar",
         "Size": 70747807,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ralfetas",
           "Description": "Fortaleza Armor for CBBE",
           "FileID": 73105,
@@ -5308,7 +5308,7 @@
         "Name": "Fortaleza Armor - MK2 - 2K-10692-5-1.rar",
         "Size": 67553522,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ralfetas",
           "Description": "Fortaleza Armor for CBBE",
           "FileID": 73107,
@@ -5329,7 +5329,7 @@
         "Name": "Fortaleza Armor - MK3 - 2K-10692-5-1.rar",
         "Size": 49314511,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ralfetas",
           "Description": "Fortaleza Armor for CBBE",
           "FileID": 73109,
@@ -5350,7 +5350,7 @@
         "Name": "Fortaleza Armor - MK4 - 2K-10692-5-1.rar",
         "Size": 77291169,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ralfetas",
           "Description": "Fortaleza Armor for CBBE",
           "FileID": 73113,
@@ -5371,7 +5371,7 @@
         "Name": "Fortaleza Armor - MK5 - 2K-10692-5-1.rar",
         "Size": 64983514,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ralfetas",
           "Description": "Fortaleza Armor for CBBE",
           "FileID": 73115,
@@ -5392,7 +5392,7 @@
         "Name": "Fortaleza Armor - MK6 - 2K-10692-5-1.rar",
         "Size": 67865689,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ralfetas",
           "Description": "Fortaleza Armor for CBBE",
           "FileID": 73117,
@@ -5413,7 +5413,7 @@
         "Name": "Fortaleza Armor - Pauldrons - 1k-10692-5-1.rar",
         "Size": 38843878,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ralfetas",
           "Description": "Fortaleza Armor for CBBE",
           "FileID": 73121,
@@ -5434,7 +5434,7 @@
         "Name": "Fortaleza Armor - WetSuits - 2K-10692-5-1.rar",
         "Size": 60413669,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ralfetas",
           "Description": "Fortaleza Armor for CBBE",
           "FileID": 73119,
@@ -5455,7 +5455,7 @@
         "Name": "Fortaleza Armor - BodySlide Files-10692-5-1.rar",
         "Size": 156554055,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ralfetas",
           "Description": "Fortaleza Armor for CBBE",
           "FileID": 73101,
@@ -5476,7 +5476,7 @@
         "Name": "French Maid FO4 - CBBE v1.2-27185-1-2.zip",
         "Size": 34132342,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Derpsdale",
           "Description": "This adds the French Maid Outfit to FO4 converted from the original mod by Backsteppo for FO3.  This is an 8 piece Outfit Set with several different modifiable options including Ballistic Weave, and Different Colors.  Version 1.2 Update: Feather Duster \u0026#34;Weapon\u0026#34; ADDED!  1 Mod for it as well.",
           "FileID": 111389,
@@ -5497,7 +5497,7 @@
         "Name": "Gunner Operator 1.3-44863-1-3-1589230315.7z",
         "Size": 169739678,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "EvTital",
           "Description": "Adds an outfit / cap / helmet / gasmask / vest / Chest rig,  with custom camouflages (and gloves). Male and female.",
           "FileID": 181671,
@@ -5518,7 +5518,7 @@
         "Name": "Gunner Operator CBBE-45027-1-3-3-1589950894.rar",
         "Size": 52650553,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ludex and Opty",
           "Description": "Adds CBBE Bodyslide files to Gunner Operator 1.3!",
           "FileID": 182302,
@@ -5539,7 +5539,7 @@
         "Name": "newlock-24884-1.rar",
         "Size": 5821499,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "dpillari",
           "Description": "a small retexture to make the lockpick interface look more interesting. complete with new brand name Safe-T-Locks, and a H\u0026H Tool company screwdriver. ",
           "FileID": 101443,
@@ -5560,7 +5560,7 @@
         "Name": "Improved Map with Visible Roads 2.0-1215-2-0.zip",
         "Size": 7037449,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "mm137",
           "Description": "A much better high contrast world map with roads, topography, and waterline all clearly visible.  Optional number grid and regions.",
           "FileID": 23537,
@@ -5581,7 +5581,7 @@
         "Name": "M26replacer_v1.0-37749-1-0-1551407325.zip",
         "Size": 7267784,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "TactaGhoul",
           "Description": "This mod replaces the vanilla fragmentation grenade model with an M26-style grenade, featuring custom meshes and 2K textures.",
           "FileID": 153256,
@@ -5602,7 +5602,7 @@
         "Name": "OJO BUENO TEXTURE PACK - ULTRA 1.2-19630-1-2.fomod",
         "Size": 297678076,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "tapioks",
           "Description": "The OJO BUENO TEXTURE PACK for Fallout 4 brings you high quality, exquisitely grotesque hand-crafted retextures for common objects found throughout the commonwealth, available in sizes ranging from 4K down to vanilla-ish -- something for everyone!",
           "FileID": 80810,
@@ -5623,7 +5623,7 @@
         "Name": "Pampas Set - Balance Resolution Texture-19263-1-7.7z",
         "Size": 930126946,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ralfetas",
           "Description": "Hot or Cold, you can have protection!",
           "FileID": 81763,
@@ -5644,7 +5644,7 @@
         "Name": "Post Nuclear Outfit Bodyslide Conversion-29484-1-0.7z",
         "Size": 10141243,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "NewerMind43",
           "Description": "new outfit for female character",
           "FileID": 121755,
@@ -5665,7 +5665,7 @@
         "Name": "PAframe4k-39711-1-1561654150.rar",
         "Size": 61795518,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "dpillari",
           "Description": "a 4k retexture of the vanilla power armor frame and hands[in first person].",
           "FileID": 160705,
@@ -5686,7 +5686,7 @@
         "Name": "Nexus PMC 3.0-41332-3-0-1583059749.rar",
         "Size": 320990066,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "EvTital - TomaHawk - Neto - HeroicPie - i_Code_i - Cyrisus",
           "Description": "Adds a new outfit with custom camouflages and gloves.",
           "FileID": 176830,
@@ -5707,7 +5707,7 @@
         "Name": "Private Military Company - CBBE Uniboob Bodyslide v2.0.0-43731-2-0-0-1583248461.7z",
         "Size": 8227394,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "NewVegasJoker",
           "Description": "Private Military Company v3.0.0 - CBBE Uniboob Bodyslide conversion with manual editing every single sliders to avoid deformation on bulletproof vest.",
           "FileID": 176934,
@@ -5728,7 +5728,7 @@
         "Name": "Proper Flyers and Posters V 2.0-21477-2-0.7z",
         "Size": 61789836,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "mindkiller316",
           "Description": "This mod retextures the flyers and posters located on buildings and note boards.",
           "FileID": 124522,
@@ -5749,7 +5749,7 @@
         "Name": "Protectron HD 2K-15038-0-2.7z",
         "Size": 47920923,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Valius",
           "Description": "High Resolution Texture replacer for Protectrons.",
           "FileID": 61635,
@@ -5770,7 +5770,7 @@
         "Name": "Prydwen 2K Textures v1.0-4141-1-0.7z",
         "Size": 239614625,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "tamu75",
           "Description": "",
           "FileID": 13054,
@@ -5791,7 +5791,7 @@
         "Name": "Fix-40218-1-01-1564019526.7z",
         "Size": 3537500,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SavrenX",
           "Description": "Enhance all Vanilla Armor to highest quality with smallest size.",
           "FileID": 162780,
@@ -5812,7 +5812,7 @@
         "Name": "Servitron - BodySlide Files-32801-1-1-0.7z",
         "Size": 20479917,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "5133p39",
           "Description": "Adds a new Automatron robot based on Assaultron, ported to human skeleton so it can use human animations (it moves, behaves, and fights like a human), and can wear some armors and items originally meant to be worn by humans.\n\nBodySlide support included.",
           "FileID": 134360,
@@ -5833,7 +5833,7 @@
         "Name": "Steamer Trunk 1 Olive and Brown-14035-.zip",
         "Size": 37923111,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Devious_Methods",
           "Description": "Retexture of the steamer trunks found throughout the wastes. 3 colors variants for each box.",
           "FileID": 55534,
@@ -5854,7 +5854,7 @@
         "Name": "T454kUHD-40470-1-1564976027.rar",
         "Size": 125295171,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "dpillari",
           "Description": "a ultra high definition repainting of the vanilla T-45 power armor",
           "FileID": 163761,
@@ -5875,7 +5875,7 @@
         "Name": "t604kUHD-40269-1-1564186639.rar",
         "Size": 116031826,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "dpillari",
           "Description": "a ultra high definition repainting of the vanilla t-60 power armor",
           "FileID": 162931,
@@ -5896,7 +5896,7 @@
         "Name": "T514kUHD-39999-1-1562986308.rar",
         "Size": 128254649,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "dpillari",
           "Description": "a ultra high definition repainting of the vanilla default T51 power armor.",
           "FileID": 161879,
@@ -5917,7 +5917,7 @@
         "Name": "Tactical Outfit CBBE - Bodyslide-46356-1-3-1595413421.7z",
         "Size": 16615715,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Octimus",
           "Description": "An outfit that is tactical.\n\n\n\n22 - Attachments\n\n24 - camo patterns",
           "FileID": 187391,
@@ -5938,7 +5938,7 @@
         "Name": "ODST Battle Armor 4K-32310-1-0-1540469560.7z",
         "Size": 2083010767,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Darkman Nova Soda Spiff Scrivener",
           "Description": "Adds a highly customisable suit of ODST armor from the Halo series of games to Fallout 4. Featuring a wide array of cosmetic and gameplay changing modifications to suit anyone\u0027s needs.",
           "FileID": 144373,
@@ -5959,7 +5959,7 @@
         "Name": "SPI Armor-44113-1-3-1585781454.7z",
         "Size": 343603438,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kelcken",
           "Description": "Adds the SPI Armor featured in the novel \u0022Ghosts of Onyx\u0022 to the Commonwealth.\n\n-41 armor colors (33 base colors \u002B 8 camo options)\n\n-6 Visor Colors \u002B Transparent Option\n\n-7 HUD Overlay colors\n\n\u002B More!",
           "FileID": 178598,
@@ -5980,7 +5980,7 @@
         "Name": "newfatman-24460-2.rar",
         "Size": 31367635,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "dpillari",
           "Description": "I made the Fallout 4 Fatman, look like the Fallout 3 Fatman. plus made it look alot better too. added some glow maps here, some detailed normal maps there. Gave the targeting computer a Lore friendly Face lift, and made the mininukes a little more cool.  not too shabby I\u0027d say. ",
           "FileID": 100193,
@@ -6001,7 +6001,7 @@
         "Name": "HQminigun-24506-1.rar",
         "Size": 63657979,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "dpillari",
           "Description": "a high quality retexture for the vanilla minigun to turn it into the Lore friendly \u0026#34;Rockwell CZ53 personal minigun\u0026#34; from previous fallout games. complete with a whole bunch of new detail for the minigun mains out there. enjoy. ",
           "FileID": 99827,
@@ -6022,7 +6022,7 @@
         "Name": "newripper-24606-2.rar",
         "Size": 25463346,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "dpillari",
           "Description": "re textures the vanilla Ripper to be a little more realistic. For starters, the ripper now has teeth!. because they didn\u0027t before for some reason. also new Army decals, and Ripper company logos, (in the fallout universe, Ripper is the name of the company that makes them).. go with added texture detail, new normal maps and new colors. enjoy",
           "FileID": 100393,
@@ -6043,7 +6043,7 @@
         "Name": "BodySlide-38215-1-6-1556197095.7z",
         "Size": 11922123,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "vtaw",
           "Description": "High-quality outfit for female characters.",
           "FileID": 156758,
@@ -6064,7 +6064,7 @@
         "Name": "Valentine REBORN - HD Retexture - V2 - Blue Eyes-9568-2-0.7z",
         "Size": 71694732,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "83Willow",
           "Description": "VALENTINE REBORN - V2.0  includes a complete HD retexture for Nick and his outfit!\n\n\n\n3 different eyecolors available; optional HD eyetextures for all the Gen1\u002B2 Synths and a 4k metal retexture for the Gen1 Synths",
           "FileID": 90547,
@@ -6085,7 +6085,7 @@
         "Name": "Bodyslide Vtaw Wardrobe 2-39780-1-5-1561977382.7z",
         "Size": 8227479,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Vtaw",
           "Description": "Bikinis",
           "FileID": 160938,
@@ -6106,7 +6106,7 @@
         "Name": "Vtaw Utility Pack 1 Bodyslides-42971-1-0-1578813480.7z",
         "Size": 36226101,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Vtaw",
           "Description": "Modular clothing mod \u002B25 items.",
           "FileID": 174165,
@@ -6127,7 +6127,7 @@
         "Name": "Bodyslide-39599-2-0-1572373176.7z",
         "Size": 32812611,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "vtaw",
           "Description": "Adds 5 tanktops, leather pants, jackets, shorts, harnes, scarf, belts, bags with a lot of different textures.",
           "FileID": 169841,
@@ -6148,7 +6148,7 @@
         "Name": "Vtaw Wardrobe 4 Bodyslide-42145-1-0-1574026217.7z",
         "Size": 47212925,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Vtaw",
           "Description": "Modular clothing mod. 44 Items, 179 materials swaps.",
           "FileID": 171079,
@@ -6169,7 +6169,7 @@
         "Name": "Vtaw Wardrobe 5-43844-1-1-1584088350.7z",
         "Size": 3892565459,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Vtaw",
           "Description": "Meshes 118, textures 583, 225 materials swaps.",
           "FileID": 177414,
@@ -6190,7 +6190,7 @@
         "Name": "Vtaw Wardrobe 5 Bodysldies-43844-1-2-1584099928.7z",
         "Size": 113366378,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Vtaw",
           "Description": "Meshes 118, textures 583, 225 materials swaps.",
           "FileID": 177430,
@@ -6211,7 +6211,7 @@
         "Name": "Vtaw Wardrobe6 Bodyslides-46628-1-0-1596281254.7z",
         "Size": 168222538,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Vtaw",
           "Description": "~140 clothing items.",
           "FileID": 188134,
@@ -6232,7 +6232,7 @@
         "Name": "Wasteland Creature Redone-7951-1-1.7z",
         "Size": 348389547,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DOOM",
           "Description": "Redid nearly all of my textures. Modular Installer! Now includes Normal and Specular maps!",
           "FileID": 56974,
@@ -6253,7 +6253,7 @@
         "Name": "X-014KUHD-40113-1-1563464224.rar",
         "Size": 117464234,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "dpillari",
           "Description": "a ultra high definition repainting of the vanilla X-01 Power armor",
           "FileID": 162290,
@@ -6274,7 +6274,7 @@
         "Name": "WD_10mm_Anims_New_Sounds-31508-v3-1550850741.rar",
         "Size": 807059,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Wardaddy",
           "Description": "Replaces 1st and 3rd person animations for 10mm pistol.",
           "FileID": 152716,
@@ -6295,7 +6295,7 @@
         "Name": "AKM Complex - 1.0.2 - PATCH-46179-1-0-2-1595909807.7z",
         "Size": 732498,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Nova and i_code_i",
           "Description": "This mod adds a highly customisable version of the well known AKM with the ability to recreate several of it\u0027s derivitives or something completely new, it\u0027s all up to you.",
           "FileID": 187838,
@@ -6316,7 +6316,7 @@
         "Name": "CBBE Ida Body Texture (Vanilla-like version)-10726-1-1.rar",
         "Size": 68600892,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Fuse00",
           "Description": "The texture for CBBE body replacer.",
           "FileID": 42647,
@@ -6337,7 +6337,7 @@
         "Name": "Main File - AIO Installer-25087-0-5.zip",
         "Size": 101486,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Septfox",
           "Description": "Provides extended versions of the vanilla looksmenu/plastic surgery sculpts, as well as many new ones to enable extended character customizability.",
           "FileID": 105015,
@@ -6358,7 +6358,7 @@
         "Name": "All-in-One Pack-5013-0-6.zip",
         "Size": 409414,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Cilbas",
           "Description": "A HD lore-friendly retexture mod for all ghoul eyes. More versions to come!",
           "FileID": 28827,
@@ -6379,7 +6379,7 @@
         "Name": "HN66nXAZOMN_FO4_DistinctiveTeeth_V1-20946-1-00.rar",
         "Size": 3648912,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "humannature66 and Xazomn",
           "Description": "This mod replaces the teeth in your game.\r\n\nThe teeth-line is changed to accentuate the front- and corner-teeth, and Xazomn\u0027s photorealistic teeth-texture adds shine and wet shimmer.",
           "FileID": 85660,
@@ -6400,7 +6400,7 @@
         "Name": "Marine Helmet with Tactical Hood-14340-1-0.7z",
         "Size": 112578,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Vashdakkari",
           "Description": "Mashup of the Marine Tactical Helmet and the Marine Helmet, so you can wear the Marine Helmet and have your neck covered. Replaces the Marine Helmet.",
           "FileID": 56848,
@@ -6421,7 +6421,7 @@
         "Name": "MP-412 v3.1-21827-3-1.rar",
         "Size": 414006,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ajhakra",
           "Description": "Adds a MP-412 to the Commonwealth with custom animations!",
           "FileID": 103125,
@@ -6442,7 +6442,7 @@
         "Name": "No Chest Hair Nude-20172-1-0.7z",
         "Size": 113262145,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Avallonkao",
           "Description": "a retexture of Player Males Character",
           "FileID": 82626,
@@ -6463,7 +6463,7 @@
         "Name": "DiMA-34436-1-0.rar",
         "Size": 33554667,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Fuse00",
           "Description": "New 4K face/body/eyes/teeth textures for synths.",
           "FileID": 140181,
@@ -6484,7 +6484,7 @@
         "Name": "Vtaw Wardrobe6 Materials-46628-1-0-1596281641.7z",
         "Size": 3918631563,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Vtaw",
           "Description": "~140 clothing items.",
           "FileID": 188135,
@@ -6505,7 +6505,7 @@
         "Name": "ZaZ - Extended Skeleton-36702-3-5-1596653187.zip",
         "Size": 79240,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ZaZ",
           "Description": "The ZaZ-Extended-Skeleton extends the default Fallout 4 skeleton(3rd Person) by adding new bones to areas of the body allowing Animators to animate them independently when making custom Animations.\n\nThis Includes Breast Bones , Butt Bones , Belly Bones , Tongue Bones and also Both Male and Female Genital Bones.",
           "FileID": 188464,
@@ -6526,7 +6526,7 @@
         "Name": "Eye Liner Masks-4398-0-3.zip",
         "Size": 22090,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Cilbas",
           "Description": "Alternative makeup masks!",
           "FileID": 31749,
@@ -6547,7 +6547,7 @@
         "Name": "deLuxe Mask-4398-0-1.zip",
         "Size": 4590,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Cilbas",
           "Description": "Alternative makeup masks!",
           "FileID": 13959,
@@ -6568,7 +6568,7 @@
         "Name": "Nick Valentine-34436-1-0.rar",
         "Size": 24961721,
         "State": {
-          "$type": "Nexus",
+          "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Fuse00",
           "Description": "New 4K face/body/eyes/teeth textures for synths.",
           "FileID": 140124,
@@ -6589,7 +6589,7 @@
         "Name": "Data_Fallout4 - Meshes.ba2",
         "Size": 1493340537,
         "State": {
-          "$type": "GameFileSource",
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
           "GameFile": "Data\\Fallout4 - Meshes.ba2",
           "GameVersion": "1.10.163.0",
@@ -6605,7 +6605,7 @@
         "Name": "Data_DLCNukaWorld - Main.ba2",
         "Size": 1488519533,
         "State": {
-          "$type": "GameFileSource",
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
           "GameFile": "Data\\DLCNukaWorld - Main.ba2",
           "GameVersion": "1.10.163.0",
@@ -6621,7 +6621,7 @@
         "Name": "Data_Fallout4 - Materials.ba2",
         "Size": 1770500,
         "State": {
-          "$type": "GameFileSource",
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
           "GameFile": "Data\\Fallout4 - Materials.ba2",
           "GameVersion": "1.10.163.0",
@@ -6637,7 +6637,7 @@
         "Name": "Data_Fallout4 - Textures4.ba2",
         "Size": 1999988681,
         "State": {
-          "$type": "GameFileSource",
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
           "GameFile": "Data\\Fallout4 - Textures4.ba2",
           "GameVersion": "1.10.163.0",
@@ -6653,7 +6653,7 @@
         "Name": "Data_DLCCoast - Textures.ba2",
         "Size": 1335731328,
         "State": {
-          "$type": "GameFileSource",
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
           "GameFile": "Data\\DLCCoast - Textures.ba2",
           "GameVersion": "1.10.163.0",
