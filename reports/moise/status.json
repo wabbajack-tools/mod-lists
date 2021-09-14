@@ -114,7 +114,7 @@
       }
     },
     {
-      "Status": "Mirrored",
+      "Status": "Valid",
       "Original": {
         "Hash": "ieD3kxmFBgY=",
         "Meta": "[General]\ndirectURL=https://github.com/mlox/mlox/releases/download/v1.0/mlox.exe",
@@ -124,16 +124,6 @@
           "$type": "Http",
           "Headers": [],
           "Url": "https://github.com/mlox/mlox/releases/download/v1.0/mlox.exe"
-        }
-      },
-      "PatchedFrom": {
-        "Hash": "ieD3kxmFBgY=",
-        "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/89e0f79319850606",
-        "Name": "mlox.exe",
-        "Size": 69036000,
-        "State": {
-          "$type": "WabbajackCDN",
-          "Url": "https://mirror.wabbajack.org/89e0f79319850606"
         }
       }
     },

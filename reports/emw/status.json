@@ -3184,7 +3184,7 @@
       }
     },
     {
-      "Status": "Mirrored",
+      "Status": "Valid",
       "Original": {
         "Hash": "BzRa9K4iiR0=",
         "Meta": "[General]\ndirectURL=https://github.com/Mutagen-Modding/Synthesis/releases/download/0.17.5/Synthesis.zip",
@@ -3194,16 +3194,6 @@
           "$type": "Http",
           "Headers": [],
           "Url": "https://github.com/Mutagen-Modding/Synthesis/releases/download/0.17.5/Synthesis.zip"
-        }
-      },
-      "PatchedFrom": {
-        "Hash": "BzRa9K4iiR0=",
-        "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/07345af4ae22891d",
-        "Name": "Synthesis.zip",
-        "Size": 65268620,
-        "State": {
-          "$type": "WabbajackCDN",
-          "Url": "https://mirror.wabbajack.org/07345af4ae22891d"
         }
       }
     },
