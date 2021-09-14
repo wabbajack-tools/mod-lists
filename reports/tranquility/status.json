@@ -11599,7 +11599,7 @@
       }
     },
     {
-      "Status": "Mirrored",
+      "Status": "Valid",
       "Original": {
         "Hash": "vz7B7ou2d5M=",
         "Meta": "[General]\ndirectURL=https://github.com/matortheeternal/TES5EditScripts/archive/master.zip",
@@ -11609,16 +11609,6 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/matortheeternal/TES5EditScripts/archive/master.zip"
-        }
-      },
-      "PatchedFrom": {
-        "Hash": "vz7B7ou2d5M=",
-        "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/bf3ec1ee8bb67793",
-        "Name": "TES5EditScripts-master.zip",
-        "Size": 1172738,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://mirror.wabbajack.org/bf3ec1ee8bb67793"
         }
       }
     },
