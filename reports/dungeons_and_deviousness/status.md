@@ -1,13 +1,13 @@
 ## Validation Report - Dungeons & Deviousness: Director's Cut (dungeons_and_deviousness)
 
 
-### Invalid (4)
+### Invalid (3)
 *  2138883329_SLAL_Billyy_Animationsv4.7SE.zip
 *  766663625_BakaFactoryABCLESE2.26V.7z
 *  CO More Creatures 1.7 (No Jail Creatures).rar
-*  [Water for ENB-37061-1-34-1599747456.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37061/?tab=files&file_id=160032)
 ### Updated (0)
-### Mirrored (0)
+### Mirrored (1)
+*  [xLODGen.83.7z](https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg)
 ### Valid (892)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
@@ -868,6 +868,7 @@
 *  [Voltage 2K-15565-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15565/?tab=files&file_id=52703)
 *  [Voluptuous Body-23800-1-0-1551373012.rar](https://www.nexusmods.com/skyrimspecialedition/mods/23800/?tab=files&file_id=83281)
 *  [Wabbajack.Theme.for.MO2.7z](https://github.com/wabbajack-tools/mod-lists/releases/download/v2.3.0/Wabbajack.Theme.for.MO2.7z)
+*  [Water for ENB-37061-1-34-1599747456.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37061/?tab=files&file_id=160032)
 *  [WEBS SE x2048-4873-4-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4873/?tab=files&file_id=10208)
 *  [White River Watch - Revisited-39294-1-0-2-1604517824.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39294/?tab=files&file_id=168619)
 *  [Whiterun Forest Borealis v3.0.0-11343-3-0-0-1598764777.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11343/?tab=files&file_id=158347)
@@ -886,7 +887,6 @@
 *  [Wolfpaint - Face - Racemenu Overlays-30255-1-0-1573205535.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30255/?tab=files&file_id=112816)
 *  [Wood and Paper - A Dear Diary Skin-44174-1-0-1-1622378205.zip](https://www.nexusmods.com/skyrimspecialedition/mods/44174/?tab=files&file_id=206364)
 *  [Xaza High Poly Dark Elf Female Preset-47460-1-0-1616564943.zip](https://www.nexusmods.com/skyrimspecialedition/mods/47460/?tab=files&file_id=193278)
-*  [xLODGen.83.7z](https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg)
 *  [XP32 Maximum Skeleton Special Extended-1988-4-80-1610196777.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=178559)
 *  [XPMSSE Left Hand Skeleton Rotation Fix-50049-4-80-1621290459.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=204058)
 *  Yamete! V3.1.7z
