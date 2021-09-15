@@ -516,10 +516,10 @@ Through the Valleys is a lightweight but comprehensive overhaul of Oblivion tail
 
 **_Mods to get familiar with:_**
 
-[Ascension](https://www.nexusmods.com/oblivion/mods/50237)
-[Balanced Unlevelled Rewards](https://www.nexusmods.com/oblivion/mods/51050/)
-[Teleportation Services](https://www.nexusmods.com/oblivion/mods/50141)
-[Simple Saves Plus](https://www.nexusmods.com/oblivion/mods/51122)
+[Ascension](https://www.nexusmods.com/oblivion/mods/50237)  
+[Balanced Unlevelled Rewards](https://www.nexusmods.com/oblivion/mods/51050/)  
+[Teleportation Services](https://www.nexusmods.com/oblivion/mods/50141)  
+[Simple Saves Plus](https://www.nexusmods.com/oblivion/mods/51122)  
 
 ***
 
