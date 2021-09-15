@@ -448,7 +448,7 @@
       }
     },
     {
-      "Status": "Mirrored",
+      "Status": "Valid",
       "Original": {
         "Hash": "xlL/3sv5sQ4=",
         "Meta": "[General]\ndirectURL=https://github.com/post-kerbin-mining-corporation/StationPartsExpansionRedux/releases/download/1.4.0/StationPartsExpansionRedux_1_4_0.zip",
@@ -458,16 +458,6 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/post-kerbin-mining-corporation/StationPartsExpansionRedux/releases/download/1.4.0/StationPartsExpansionRedux_1_4_0.zip"
-        }
-      },
-      "PatchedFrom": {
-        "Hash": "xlL/3sv5sQ4=",
-        "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/c652ffdecbf9b10e",
-        "Name": "StationPartsExpansionRedux_1_4_0.zip",
-        "Size": 306293596,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://mirror.wabbajack.org/c652ffdecbf9b10e"
         }
       }
     },
