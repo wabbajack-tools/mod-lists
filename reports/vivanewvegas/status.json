@@ -1116,7 +1116,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "WBzPuQO2lO4=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=70158\nfileID=1000067993",
@@ -1200,5 +1200,6 @@
       }
     }
   ],
-  "Status": "Available"
+  "Status": "Failed",
+  "Failures": 1
 }
