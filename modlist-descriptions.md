@@ -41,6 +41,10 @@
 - [Tale Of Two Wastelands](#tale-of-two-wastelands)
   - [The Vault Courier](#the-vault-courier)
   - [Starstruck Courier](#starstruck-courier)
+- [Oblivion](#oblivion)
+  - [Bevilex](#bevilex)
+  - [Through The Valleys](#through-the-valleys)
+  - [Wojo's Oblivion Overhaul List](#wool)
 
 ***
 
@@ -495,3 +499,30 @@ Starstruck Courier combines Tale of Two Wastelands with Fallout: New California,
 [A Roleplayer's History - Patchy's Picks](https://www.nexusmods.com/newvegas/mods/72032)  
 [Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726)  
 [Bypass Minigames - Lockpick and Hacking](https://www.nexusmods.com/newvegas/mods/65840)  
+
+***
+
+## Oblivion
+
+***
+
+### [Bevilex](https://www.wabbajack.org/#/modlists/info?machineURL=bevilex)
+
+***
+
+### [Through The Valleys](https://drazden.github.io/ThroughTheValleys/)
+
+Through the Valleys is a lightweight but comprehensive overhaul of Oblivion tailored to provide a stable, high performing, and most importantly fun, vanilla+ experience. The original guide was created by PushTheWinButton, and the Wabbajack version is created and maintained by Drazden.
+
+**_Mods to get familiar with:_**
+
+[Ascension](https://www.nexusmods.com/oblivion/mods/50237)
+[Balanced Unlevelled Rewards](https://www.nexusmods.com/oblivion/mods/51050/)
+[Teleportation Services](https://www.nexusmods.com/oblivion/mods/50141)
+[Simple Saves Plus](https://www.nexusmods.com/oblivion/mods/51122)
+
+***
+
+### [Wojo's Oblivion Overhaul List](https://github.com/Alxariam/WOOL)
+
+***
