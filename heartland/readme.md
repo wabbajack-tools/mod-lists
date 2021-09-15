@@ -1,6 +1,6 @@
 ### Documentation and Instructions for Installer Version 2.2.6, Wabbajack 2.5.2.2+
 
-**NOTE**: Welcome! Before we get started, a note: if you encounter issues with your installation, Please direct support queries to the Heartland support channel ([#heartland-support](https://discord.com/channels/605449136870916175/623464963616276490)) in the [Wabbajack discord](https://discord.gg/wabbajack). Additionally, while we can't provide tailored support if you modify or build upon the list, advice can be sought in the [Heartland thread](https://discord.com/channels/605449136870916175/881449257805185035) of the #general-oblivion-discussion channel. 
+**NOTE**: Welcome! Before we get started, a note: if you encounter issues with your installation, please direct support queries to the Heartland support channel ([#heartland-support](https://discord.com/channels/605449136870916175/623464963616276490)) in the [Wabbajack discord](https://discord.gg/wabbajack). Additionally, while we can't provide tailored support if you modify or build upon the list, advice can be sought in the [Heartland thread](https://discord.com/channels/605449136870916175/881449257805185035) of the #general-oblivion-discussion channel. 
 
 ## Mandatory Instructions
 
@@ -86,7 +86,7 @@ Only applicable if you use a monitor with resolution greater than 1920x1080.
 
 ## Optional Post Installation Instructions
 
-### Heartland Extended : Optionals
+### Heartland Optionals
 
 This list includes several optional configurations pre-installed, which can be swapped in and out as desired. Each configuration is denoted by an MO2 mod separator, which includes step-by-step instructions on how to enable the optional mods. To view, simply right click the seperator select Information, then select the Notes tab. You will be presented with instructions like below:
 
@@ -182,7 +182,7 @@ _BSA Decompressor recreates BSA archives without zlib compression so the game is
 ## Troubleshooting
 
 1. _I receive a blank / black screen on start up._
-    * Replace the Oblivion.ini file in Documents/MyGames/Oblivion and [MO2 Install]/profiles/Heartland Extended with [this version](https://drive.google.com/file/d/1nby-4x-eFlEC4nvIlERilWVstzHztRck/view?usp=sharing).
+    * Replace the Oblivion.ini file in Documents/MyGames/Oblivion and [MO2 Install]/profiles/Heartland with [this version](https://drive.google.com/file/d/1nby-4x-eFlEC4nvIlERilWVstzHztRck/view?usp=sharing).
 2. _I am unable to download [X] mod during the Wabbajack install process, and from the Nexus page I can see that it was updated within the past week._
     * The mod in question has been updated and the mod author has not kept the previous version accessible on the Nexus. As such, the current modlist cannot be installed and must be updated. If you encounter this and it has not been mentioned in the #heartland-support channel on Discord, please ping me (@Sam) so that I am aware of the issue and can update the modlist as soon as possible. 
 3. _I can’t run the Oblivion executable from MO2 - I get an application error._
