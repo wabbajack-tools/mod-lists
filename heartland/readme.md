@@ -1,3 +1,5 @@
+![](https://i.imgur.com/93qV1ix.png)
+
 ### Documentation and Instructions for Installer Version 2.2.6, Wabbajack 2.5.2.2+
 
 **NOTE**: Welcome! Before we get started, a note: if you encounter issues with your installation, please direct support queries to the Heartland support channel ([#heartland-support](https://discord.com/channels/605449136870916175/623464963616276490)) in the [Wabbajack discord](https://discord.gg/wabbajack). Additionally, while we can't provide tailored support if you modify or build upon the list, advice can be sought in the [Heartland thread](https://discord.com/channels/605449136870916175/881449257805185035) of the #general-oblivion-discussion channel. 
