@@ -1,14 +1,14 @@
 ## Validation Report - The Hawke Always Wins (thehawkealwayswins)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Arishok AI Rebalance-4192-1-0.zip](https://www.nexusmods.com/dragonage2/mods/4192/?tab=files&file_id=1000002294)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (35)
+### Valid (34)
 *  [[DA2] Vanilla Face Skin Retexture.7z](https://www.dropbox.com/s/ufq152ljefsqbty/%5BDA2%5D Vanilla Face Skin Retexture.7z?dl=1)
 *  [13c-2145-1-3c.rar](https://www.nexusmods.com/dragonage2/mods/2145/?tab=files&file_id=12074)
 *  [All weapon and armor improved-4375-1-0-1612517220.rar](https://www.nexusmods.com/dragonage2/mods/4375/?tab=files&file_id=1000003196)
-*  [Arishok AI Rebalance-4192-1-0.zip](https://www.nexusmods.com/dragonage2/mods/4192/?tab=files&file_id=1000002294)
 *  [Backpack Mod-3800-1-0.zip](https://www.nexusmods.com/dragonage2/mods/3800/?tab=files&file_id=1000000759)
 *  [Better Combat - Difficulty-2766.7z](https://www.nexusmods.com/dragonage2/mods/2766/?tab=files&file_id=13820)
 *  [Better Combat - Main-2766-1-1.7z](https://www.nexusmods.com/dragonage2/mods/2766/?tab=files&file_id=13818)
