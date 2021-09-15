@@ -1,11 +1,13 @@
 ## Validation Report - Elysium (elysium)
 
 
-### Invalid (0)
+### Invalid (2)
+*  [Elysium - Core Files.7z](https://mega.nz/file/FVkiGCCJ#fxa03VB8CowU_j-uu_P_LofVf3-cAJt9qmZOMhJf_qQ)
+*  Nethers_Follower_Framework_UNI_2_7_8.zip
 ### Updated (0)
 ### Mirrored (1)
 *  [enbseries_skyrimse_v0462.zip](http://enbdev.com/enbseries_skyrimse_v0462.zip)
-### Valid (1467)
+### Valid (1465)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(3.0) The Great City of Solitude Unofficial Patch-36116-1-1-1604960322.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169365)
 *  [(DMC) The Ultimate Dodge Mod Reanimated-33049-1-1-1585073759.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33049/?tab=files&file_id=130315)
@@ -362,7 +364,6 @@
 *  [ElSopa - HD Big Backpack-36445-1-1-1590429335.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36445/?tab=files&file_id=142023)
 *  [ElSopa - HD Keys Redone 1k-48209-1-0-1617726011.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48209/?tab=files&file_id=196464)
 *  [Elwaps SpeedTree.7z](https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM)
-*  [Elysium - Core Files.7z](https://mega.nz/file/FVkiGCCJ#fxa03VB8CowU_j-uu_P_LofVf3-cAJt9qmZOMhJf_qQ)
 *  [Elysium - Dyndolod 3D Output - Performance Mode (Creation Club).7z](https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output - Performance Mode (Creation Club).7z_1fec3681-9e1f-4642-a008-a7cc13aeaa5b)
 *  [Elysium - Dyndolod 3D Output - Performance Mode.7z](https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output - Performance Mode.7z_5710a573-53ac-41a7-88be-a6addec65b2e)
 *  [Elysium - Dyndolod 3D Output (Creation Club).7z](https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output (Creation Club).7z_b6ff12fc-d325-45a4-b5a0-5857205d64b4)
@@ -858,7 +859,6 @@
 *  [Navmesh .esp by CakeofHonor-8306-1-1591953127.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8306/?tab=files&file_id=145263)
 *  [Nemesis Patch-24296-1-3-2-1584996736.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24296/?tab=files&file_id=130181)
 *  [Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases/download/v0.84-beta/Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar)
-*  Nethers_Follower_Framework_UNI_2_7_8.zip
 *  [NetScriptFramework SkyrimSE v17-21294-17-1631362586.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21294/?tab=files&file_id=227609)
 *  [Night Eye Overhaul-9177-1-3-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9177/?tab=files&file_id=23352)
 *  [Night Skies - Milky Realism (4K) - CP 1.01-20301-1-01.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20301/?tab=files&file_id=68323)
