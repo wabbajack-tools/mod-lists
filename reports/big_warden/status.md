@@ -1,10 +1,11 @@
 ## Validation Report - Big Warden (big_warden)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [More Hairstyles 0_51-392.zip](https://www.nexusmods.com/dragonage/mods/392/?tab=files&file_id=2820)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (135)
+### Valid (134)
 *  [ GDApp-214-1.rar](https://www.nexusmods.com/dragonage/mods/214/?tab=files&file_id=12111)
 *  [(9) Mismatched Armors-5504-1-0-1623781751.zip](https://www.nexusmods.com/dragonage/mods/5504/?tab=files&file_id=1000008210)
 *  [Additional Hairs for DA Part 1-4508-1-0.zip](https://www.nexusmods.com/dragonage/mods/4508/?tab=files&file_id=1000003906)
@@ -89,7 +90,6 @@
 *  [Main File - Grey Wardens of Ferelden-3258-2-5.zip](https://www.nexusmods.com/dragonage/mods/3258/?tab=files&file_id=17152)
 *  [Mod.Organizer-2.4.1.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.1/Mod.Organizer-2.4.1.7z)
 *  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
-*  [More Hairstyles 0_51-392.zip](https://www.nexusmods.com/dragonage/mods/392/?tab=files&file_id=2820)
 *  [more_detailed_tooltips_1.2-4499-1-2-1577102525.zip](https://www.nexusmods.com/dragonage/mods/4499/?tab=files&file_id=1000006612)
 *  [Named NPC kids-4410-.rar](https://www.nexusmods.com/dragonage/mods/4410/?tab=files&file_id=1000003423)
 *  [NEUTRAL FEMALE ARMOR (Medium and High edition)-4462-1-1.zip](https://www.nexusmods.com/dragonage/mods/4462/?tab=files&file_id=1000003569)

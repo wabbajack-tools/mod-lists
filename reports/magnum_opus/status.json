@@ -1,8 +1,8 @@
 {
   "MachineURL": "magnum_opus",
   "Name": "Magnum Opus",
-  "Version": "4.8.8",
-  "ModListHash": "i52MSDjHtgk=",
+  "Version": "4.8.9",
+  "ModListHash": "SsSXGg1u1uE=",
   "Archives": [
     {
       "Status": "Valid",
@@ -3030,6 +3030,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "sBprjRpMuik=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=22489\nfileID=92107",
+        "Name": "Melee Finishers Rebalance-22489-1-0.zip",
+        "Size": 1025,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OverLord of Chaos",
+          "Description": "This mod makes it so that the melee killmoves introduced with the Far Harbor DLC occur less often, so that the older killmoves can be seen more frequently.",
+          "FileID": 92107,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/22489-0-1492160479.png",
+          "IsNSFW": false,
+          "ModID": 22489,
+          "Name": "Far Harbor Melee Killmove Frequency Rebalance",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "XnbtqS8YV2U=",
         "Meta": "[General]\ngameName=fallout4\nmodID=11749\nfileID=47054",
         "Name": "Fire Axe - 1.2.0 Animation Replacer-11749-1-2-0.zip",
@@ -3898,6 +3919,27 @@
           "ModID": 20309,
           "Name": "HUDFramework",
           "Version": "1.0.0.0f"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zautf5rv3Rs=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53689\nfileID=214600",
+        "Name": "Human Grab Attacks-53689-1-2-0-1628775654.7z",
+        "Size": 831490,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Elzee",
+          "Description": "80\u002B kinds of grab attacks for fun.",
+          "FileID": 214600,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53689/53689-1628335966-1782483105.png",
+          "IsNSFW": false,
+          "ModID": 53689,
+          "Name": "Human Grab Attacks",
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -5159,7 +5201,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "taOl\u002BRVtLUk=",
         "Meta": "[General]\ndirectURL=https://mega.nz/file/CV0xHADJ#lzGJk4BP1YYyTP2GmmRcSQD01Ca8URs-jkxJv3jSNdc",
@@ -12746,5 +12788,5 @@
       }
     }
   ],
-  "Status": "Available"
+  "Status": "Failed"
 }
