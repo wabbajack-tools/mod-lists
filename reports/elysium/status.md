@@ -366,7 +366,7 @@
 *  [ElSopa - HD Big Backpack-36445-1-1-1590429335.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36445/?tab=files&file_id=142023)
 *  [ElSopa - HD Keys Redone 1k-48209-1-0-1617726011.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48209/?tab=files&file_id=196464)
 *  [Elwaps SpeedTree.7z](https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM)
-*  [Elysium - Core Files.7z](https://mega.nz/file/oIFBhIpB#4BBtxjspA2qT_0MJDXZzwZVleFyPY46M2geplZaVhSY)
+*  [Elysium - Core Files.7z](https://mega.nz/file/JQVUEDIJ#qy2TYxuidv8Y4DV_24tn-V1xkr9OTahs6EidSvGF6mY)
 *  [Elysium - Dyndolod 3D Output - Performance Mode (Creation Club).7z](https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output - Performance Mode (Creation Club).7z_d2c6115c-afdd-4e4e-acaf-db88ed9407fa)
 *  [Elysium - Dyndolod 3D Output - Performance Mode.7z](https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output - Performance Mode.7z_6378f4ec-dedb-440d-bb06-295b097bd761)
 *  [Elysium - Dyndolod 3D Output (Creation Club).7z](https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output (Creation Club).7z_abdc3621-27ec-46a5-9918-45ff54ef326e)
