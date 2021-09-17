@@ -1,8 +1,8 @@
 {
   "MachineURL": "elysium",
   "Name": "Elysium",
-  "Version": "5.4.2",
-  "ModListHash": "5IbYYFl6jTA=",
+  "Version": "5.4.3",
+  "ModListHash": "XPWZZSeu7wY=",
   "Archives": [
     {
       "Status": "Valid",
@@ -33,28 +33,18 @@
       }
     },
     {
-      "Status": "Mirrored",
+      "Status": "InValid",
       "Original": {
-        "Hash": "qiiTVe2JMMI=",
-        "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimse_v0462.zip\ndirectURLHeaders=Referer:http://enbdev.com/download_mod_tesskyrimse.htm",
-        "Name": "enbseries_skyrimse_v0462.zip",
-        "Size": 4248916,
+        "Hash": "OuC7jikTOuQ=",
+        "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimse_v0463.zip\ndirectURLHeaders=Referer:http://enbdev.com/download_mod_tesskyrimse.htm",
+        "Name": "enbseries_skyrimse_v0463.zip",
+        "Size": 4250214,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [
             "Referer:http://enbdev.com/download_mod_tesskyrimse.htm"
           ],
-          "Url": "http://enbdev.com/enbseries_skyrimse_v0462.zip"
-        }
-      },
-      "PatchedFrom": {
-        "Hash": "qiiTVe2JMMI=",
-        "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/aa289355ed8930c2",
-        "Name": "enbseries_skyrimse_v0462.zip",
-        "Size": 4248916,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://mirror.wabbajack.org/aa289355ed8930c2"
+          "Url": "http://enbdev.com/enbseries_skyrimse_v0463.zip"
         }
       }
     },
@@ -2188,27 +2178,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "7DyUyNn7Gzo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42032\nfileID=186069",
-        "Name": "High Poly Green Grass Update-42032-1-1-1613378589.7z",
-        "Size": 33884417,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "The Community",
-          "Description": "Photographed plants from alpine forests turned into 3D plants and spread through Skyrim\u0027s pine forests as grass. The first truly 3D grass mod for Skyrim.",
-          "FileID": 186069,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42032/42032-1604548155-433214223.png",
-          "IsNSFW": false,
-          "ModID": 42032,
-          "Name": "Cathedral - 3D Pine Grass",
-          "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "0djKuAamdPE=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=42032\nfileID=174086",
         "Name": "Cathedral - 3D Pine Grass - Full 3D Coverage-42032-0-462-1607622295.7z",
@@ -2560,6 +2529,27 @@
           "ModID": 38775,
           "Name": "Cleaned Skyrim SE Textures",
           "Version": "1.2.3.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2Z1L9+TzsFk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55677\nfileID=228773",
+        "Name": "Clockwork BSA-55677-1-1631815313.rar",
+        "Size": 411215091,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Antistar and MrShadowBlood",
+          "Description": "Cleaned textures of Clockwork. Properly cleaned textures lets Skyrim use less memory loading it so means more FPS for you!",
+          "FileID": 228773,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55677/55677-1631812649-1609460520.jpeg",
+          "IsNSFW": false,
+          "ModID": 55677,
+          "Name": "Clockwork Cleaned Textures",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -3574,26 +3564,26 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "rUZZObPHL9I=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output.7z_df985e21-9cc5-410b-82b7-7c2b349873eb",
+        "Hash": "n+JjlM9OqDY=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output.7z_49d2c3f8-2317-400f-a866-c418c1462329",
         "Name": "Elysium - Dyndolod 3D Output.7z",
-        "Size": 5947758977,
+        "Size": 5960342648,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Dyndolod%203D%20Output.7z_df985e21-9cc5-410b-82b7-7c2b349873eb"
+          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Dyndolod%203D%20Output.7z_49d2c3f8-2317-400f-a866-c418c1462329"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "DpTlAIUox48=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output (Creation Club).7z_abdc3621-27ec-46a5-9918-45ff54ef326e",
+        "Hash": "2yN+jOu7fTc=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output (Creation Club).7z_7d456011-aa99-4829-82a4-02e548b3cdd2",
         "Name": "Elysium - Dyndolod 3D Output (Creation Club).7z",
-        "Size": 5952916952,
+        "Size": 5965292501,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Dyndolod%203D%20Output%20(Creation%20Club).7z_abdc3621-27ec-46a5-9918-45ff54ef326e"
+          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Dyndolod%203D%20Output%20(Creation%20Club).7z_7d456011-aa99-4829-82a4-02e548b3cdd2"
         }
       }
     },
@@ -4277,21 +4267,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "CCkwO7wB8hM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=50484\nfileID=222756",
-        "Name": "Footprints Sand Patch 0.6 ESL Flagged-50484-0-6-1629570897.7z",
-        "Size": 2990573,
+        "Hash": "354GTDIAg4U=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=50484\nfileID=229007",
+        "Name": "Footprints Sand Patch 0.7 ESL Flagged-50484-0-7-1631902294.7z",
+        "Size": 2994427,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "modal1 and Vai1lyn",
           "Description": "Enables footprints on Sand and Mud textures with hexabit\u0027\u0027s Footprints\uFEFF.",
-          "FileID": 222756,
+          "FileID": 229007,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50484/50484-1622135475-2048740551.jpeg",
           "IsNSFW": false,
           "ModID": 50484,
           "Name": "Footprints Sand patch",
-          "Version": "0.6.0.0"
+          "Version": "0.7.0.0"
         }
       }
     },
@@ -6467,6 +6457,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "q8uDdZ7BP1s=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=35910\nfileID=229010",
+        "Name": "JKs Interiors Patch Collection-35910-3-15-1631902973.7z",
+        "Size": 14858761,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DarkMaster06 Timiku Czasior Monops blitzicestorm Shekhinaga Neko14789 Teabag86 TitansBane and Janquel",
+          "Description": "A collection of small patches/tweaks to help various mods play well with JK\u0027s Interiors series",
+          "FileID": 229010,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35910/35910-1589352521-1164967416.jpeg",
+          "IsNSFW": false,
+          "ModID": 35910,
+          "Name": "JK\u0027s Interiors Patch Collection",
+          "Version": "3.15.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "ytCX8sCZlCM=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=52462\nfileID=214990",
         "Name": "JK\u0027s Mistveil Keep-52462-1-0-1-1626480242.rar",
@@ -6901,6 +6912,27 @@
           "IsNSFW": false,
           "ModID": 43991,
           "Name": "JK\u0027s The Winking Skeever",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "71m2QI/rWWg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55571\nfileID=228991",
+        "Name": "JK\u0027s Understone Keep-55571-1-0-0-1631898959.rar",
+        "Size": 114865,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jkrojmal",
+          "Description": "An enhanced Palace overhaul.",
+          "FileID": 228991,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55571/55571-1631590850-259595709.jpeg",
+          "IsNSFW": false,
+          "ModID": 55571,
+          "Name": "JK\u0027s Understone Keep",
           "Version": "1.0.0.0"
         }
       }
@@ -8007,6 +8039,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "h1JbfP/obFw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43158\nfileID=229011",
+        "Name": "Lux - Understone Keep patch-43158-3-1-1631903019.rar",
+        "Size": 6517,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GGUNIT",
+          "Description": "Consistent and complete rework of Skyrim interiors lighting. This mod takes advantage of the latest developments in enb, including enb light, and has for main objective to offer a gaming experience as realistic as it is dramatic.",
+          "FileID": 229011,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43158/43158-1607340742-1060911231.jpeg",
+          "IsNSFW": false,
+          "ModID": 43158,
+          "Name": "Lux",
+          "Version": "3.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "arZReh4lZqY=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=11052\nfileID=167716",
         "Name": "2. Majestic Mountains Darkside-11052-3-2-1604049795.7z",
@@ -9016,21 +9069,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Ubw0MSjzOfU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53792\nfileID=226082",
-        "Name": "Nilheim - Quest Expansion-53792-1-10-1630761722.zip",
-        "Size": 301324,
+        "Hash": "+6gCDF4ROic=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53792\nfileID=228707",
+        "Name": "Nilheim - Quest Expansion-53792-1-11-1631790402.zip",
+        "Size": 304216,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "JaySerpa",
           "Description": "Fixes some issues with the misc quest at Nilheim and gives a bit more flexibility to your encounter with good old Telrav, adding a couple of additional dialogue choices and options for roleplaying.",
-          "FileID": 226082,
+          "FileID": 228707,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53792/108584-1628874354-1207551065.jpeg",
           "IsNSFW": false,
           "ModID": 53792,
           "Name": "Nilheim - Misc Quest Expansion",
-          "Version": "1.10.0.0"
+          "Version": "1.11.0.0"
         }
       }
     },
@@ -12306,6 +12359,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "UUn6iCOuMGc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55689\nfileID=228828",
+        "Name": "Summermyst Cleaned Textures BSA-55689-1-1631832122.rar",
+        "Size": 1058758,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Enai Siaion and MrShadowBlood",
+          "Description": "Cleaned textures of Summermyst - Enchantments of Skyrim\n\n\n\nProperly cleaned textures lets Skyrim use less memory loading it so means more FPS for you!",
+          "FileID": 228828,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55689/55689-1631831233-633567347.jpeg",
+          "IsNSFW": false,
+          "ModID": 55689,
+          "Name": "Summermyst Cleaned Textures",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "NyGjviAQmK8=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=6285\nfileID=49264",
         "Name": "Summermyst v307-6285-3-07SSE.zip",
@@ -14559,21 +14633,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "OVpQi8X/Ork=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32382\nfileID=228122",
-        "Name": "DynDOLOD 3.00-32382-Alpha-42-1631544316.7z",
-        "Size": 42579391,
+        "Hash": "R3uV8FY3MGo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32382\nfileID=228963",
+        "Name": "DynDOLOD 3.00-32382-Alpha-43-1631887290.7z",
+        "Size": 42572356,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sheson",
           "Description": "DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD \u002B tree LOD and the new,  optional dynamic distant object LOD in a few simple steps.",
-          "FileID": 228122,
+          "FileID": 228963,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32382/32382-1580900155-1292674369.jpeg",
           "IsNSFW": false,
           "ModID": 32382,
           "Name": "Dynamic Distant Objects LOD - DynDOLOD",
-          "Version": "Alpha-42"
+          "Version": "Alpha-43"
         }
       }
     },
@@ -15211,13 +15285,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "KirbonatedBeverage",
-          "Description": "Resolves a basic programming error in \u0022Fixed Dragon Stalking Fix\u0022 that was causing the fix to not apply.",
+          "Description": "Attempted to resolve a perceived programming error that turned out not to be a programming error. Ignore this mod if you are already using a mod that fixes the dragon stalking bug",
           "FileID": 228030,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55518/55518-1631499063-2026018662.png",
           "IsNSFW": false,
           "ModID": 55518,
-          "Name": "Fixed Fixed Dragon Stalking Fix",
+          "Name": "Unnecessarily Fixed Fixed Dragon Stalking Fix",
           "Version": "1.0.0.0"
         }
       }
@@ -15267,26 +15341,26 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "CXw7DcdrcFw=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Grass Cache Generated Files.7z_0a9e960e-9836-4310-ad8b-953d5046f138",
+        "Hash": "HrG3K1qC8qs=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Grass Cache Generated Files.7z_a11e8956-75e5-4385-88ad-4ec244eb5a15",
         "Name": "Grass Cache Generated Files.7z",
-        "Size": 919448416,
+        "Size": 904450161,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Grass%20Cache%20Generated%20Files.7z_0a9e960e-9836-4310-ad8b-953d5046f138"
+          "Url": "https://authored-files.wabbajack.org/Grass%20Cache%20Generated%20Files.7z_a11e8956-75e5-4385-88ad-4ec244eb5a15"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "isuoYE5EgRA=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Grass Cache Generated Files (Creation Club).7z_8c4a0fd9-6a53-4b1b-be35-f445c6caec52",
+        "Hash": "ANnJVba9UXA=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Grass Cache Generated Files (Creation Club).7z_932286ac-ec3d-4f43-8f09-55d107423941",
         "Name": "Grass Cache Generated Files (Creation Club).7z",
-        "Size": 920422151,
+        "Size": 922161223,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Grass%20Cache%20Generated%20Files%20(Creation%20Club).7z_8c4a0fd9-6a53-4b1b-be35-f445c6caec52"
+          "Url": "https://authored-files.wabbajack.org/Grass%20Cache%20Generated%20Files%20(Creation%20Club).7z_932286ac-ec3d-4f43-8f09-55d107423941"
         }
       }
     },
@@ -16824,27 +16898,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "DTxgWWx00yY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54509\nfileID=228549",
-        "Name": "Dwemer Compass Enhanced-54509-1-2-1631716099.zip",
-        "Size": 13125475,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "icecreamassassin     AgentW",
-          "Description": "Retexture for Dwemer Compass from Legacy of the Dragonborn. Available in 2K with ENB Light support.",
-          "FileID": 228549,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54509/54509-1629916563-284521755.png",
-          "IsNSFW": false,
-          "ModID": 54509,
-          "Name": "Dwemer Compass Enhanced - Legacy of the Dragonborn",
-          "Version": "1.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "8gkHMMjvQsI=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=46507\nfileID=226712",
         "Name": "Dwemer Pipework Reworked - optional ENB Lights-46507-4-B-1631021780.rar",
@@ -17050,13 +17103,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "d1es6iVH5dc=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Texgen Output (Creation Club).7z_04dcfd63-b254-44f4-ac8c-410bc6ac9f5f",
+        "Hash": "EX6vUoCfBkk=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Texgen Output (Creation Club).7z_20be5487-c8b7-4325-9ab5-1bb8150ecee1",
         "Name": "Elysium - Texgen Output (Creation Club).7z",
-        "Size": 74732400,
+        "Size": 74730776,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Texgen%20Output%20(Creation%20Club).7z_04dcfd63-b254-44f4-ac8c-410bc6ac9f5f"
+          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Texgen%20Output%20(Creation%20Club).7z_20be5487-c8b7-4325-9ab5-1bb8150ecee1"
         }
       }
     },
@@ -17441,21 +17494,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "EusG/q8SLR0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53653\nfileID=224367",
-        "Name": "Fixed Mesh Lighting-53653-1-4-1-1630150732.zip",
-        "Size": 138513587,
+        "Hash": "zwwoRsTLtuQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53653\nfileID=228986",
+        "Name": "Fixed Mesh Lighting-53653-1-4-2-1631897728.zip",
+        "Size": 141607022,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Catnyss",
           "Description": "Fixes lighting bugs with vanilla Skyrim meshes rendering too bright outside under shadows especially during daytime. \n\nPatches for popular mods included.",
-          "FileID": 224367,
+          "FileID": 228986,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53653/53653-1628683457-1876970166.png",
           "IsNSFW": false,
           "ModID": 53653,
           "Name": "Fixed Mesh Lighting",
-          "Version": "1.4.1.0"
+          "Version": "1.4.2.0"
         }
       }
     },
@@ -18079,6 +18132,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "TEN/gekgy/U=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55663\nfileID=228711",
+        "Name": "Legacy of the Dragonborn - Dwemer Compass Replacer-55663-0-2-1-1631793186.7z",
+        "Size": 37697649,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wSkeever Kreiste",
+          "Description": "Replaces the Dwemer Compass from Legacy of The Dragonborn with higher quality model",
+          "FileID": 228711,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55663/55663-1631792394-1041402884.gif",
+          "IsNSFW": false,
+          "ModID": 55663,
+          "Name": "Legacy of The Dragonborn - Dwemer Compass Replacer",
+          "Version": "0.2.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vTidQwEsBmA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=38845\nfileID=229043",
+        "Name": "Ancient Dwemer Metal - My patches - LOTD Dwemer Compass Replacer 4K SE-38845-LOTD-Compass-4K-v1-1631910609.7z",
+        "Size": 8280092,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xtudo",
+          "Description": "This mod will patch some dwemer textures to fit the color palette of the Ancient Dwemer Metal mod. Includes Dawnguard, Dragonborn, SMIM and vanilla.",
+          "FileID": 229043,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38845/104061-1596157249-886127725.jpeg",
+          "IsNSFW": false,
+          "ModID": 38845,
+          "Name": "Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn",
+          "Version": "LOTD-Compass-4K-v1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "0qpWF2bL56U=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=42975\nfileID=173108",
         "Name": "Blue Fabric Fix-42975-1-0-1-1607135750.7z",
@@ -18667,21 +18762,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5ER5PychHxU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=40261\nfileID=220370",
-        "Name": "NPC AI Process Pos Fix-SSE-V4.05c-40261-v4-05c-1628673809.7z",
-        "Size": 56668,
+        "Hash": "zWbj1lnAkZw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=40261\nfileID=228723",
+        "Name": "NPC AI Process Pos Fix-SSE-V4.05d-40261-v4-05d-1631801145.7z",
+        "Size": 56882,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Maxsu",
           "Description": "A DLL plugin that fixes the vanilla game engine bug that NPCs AI process positions could not be updated after you waiting/ sleeping/ fast travel.",
-          "FileID": 220370,
+          "FileID": 228723,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/40261/40261-1599834679-1191296208.png",
           "IsNSFW": false,
           "ModID": 40261,
           "Name": "NPC AI Process Position  Fix - SSE",
-          "Version": "f4.05c"
+          "Version": "f4.05d"
         }
       }
     },
@@ -20292,21 +20387,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "eGYq2ABHXCo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=41395\nfileID=168168",
-        "Name": "SmoothCam_EasyEase_Preset_1.3b-41395-1-3b-1604245949.zip",
-        "Size": 1665,
+        "Hash": "9nPv6o+AzTI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=41395\nfileID=228701",
+        "Name": "SmoothCam_EasyEase_Preset_1.5-41395-1-5-1631786776.zip",
+        "Size": 2388,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "byunjoe",
           "Description": "A preset for SmoothCam with a focus on more rigid, third-person \u0027over-the-shoulder\u0027 camera gameplay and minimizing jitter.",
-          "FileID": 168168,
+          "FileID": 228701,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41395/41395-1602933583-1999693951.png",
           "IsNSFW": false,
           "ModID": 41395,
           "Name": "SmoothCam - EasyEase Preset",
-          "Version": "1.3.0.0b"
+          "Version": "1.5.0.0"
         }
       }
     },
@@ -20341,7 +20436,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
-          "Description": "An SKSE plugin that can be used to add spells/leveled spells/perks/items/leveled items/shouts/packages/outfits to every NPC in the game, using config files.",
+          "Description": "SKSE plugin that can be used to add spells/leveled spells/perks/items/leveled items/shouts/packages/outfits to every NPC in the game, using config files.",
           "FileID": 228603,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/36869/36869-1591389125-628593205.png",
@@ -21363,21 +21458,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "B01vGYDcCLI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=38845\nfileID=190137",
-        "Name": "Ancient Dwemer Metal - My patches - FINAL VERSION Update v3-38845-Update-FINAL-v3-1615158509.7z",
-        "Size": 13498773,
+        "Hash": "1CeGmlmylKc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=38845\nfileID=228779",
+        "Name": "Ancient Dwemer Metal - My patches - FINAL VERSION Update v4-38845-Update-FINAL-v4-1631817147.7z",
+        "Size": 15447238,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Xtudo",
           "Description": "This mod will patch some dwemer textures to fit the color palette of the Ancient Dwemer Metal mod. Includes Dawnguard, Dragonborn, SMIM and vanilla.",
-          "FileID": 190137,
+          "FileID": 228779,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38845/104061-1596157249-886127725.jpeg",
           "IsNSFW": false,
           "ModID": 38845,
           "Name": "Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn",
-          "Version": "Update-FINAL-v3"
+          "Version": "Update-FINAL-v4"
         }
       }
     },
@@ -22460,13 +22555,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "weLyZRW8Tos=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Texgen Output.7z_20934233-51ee-4f6d-9590-777026856026",
+        "Hash": "L881sgrDsys=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Texgen Output.7z_b15bfedd-d370-4bbc-a155-ee99030128c2",
         "Name": "Elysium - Texgen Output.7z",
-        "Size": 74731336,
+        "Size": 74729790,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Texgen%20Output.7z_20934233-51ee-4f6d-9590-777026856026"
+          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Texgen%20Output.7z_b15bfedd-d370-4bbc-a155-ee99030128c2"
         }
       }
     },
@@ -23417,27 +23512,6 @@
           "ModID": 52700,
           "Name": "High Poly Blackreach Mushrooms - Skyrim Remastered Patch",
           "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3xLbDtMmutM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=51433\nfileID=210242",
-        "Name": "High Poly Canticle Tree-51433-0-1-1624205654.7z",
-        "Size": 138402,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "wankingSkeever",
-          "Description": "A higher polygon Canticle Tree from Dawnguard",
-          "FileID": 210242,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51433/51433-1624201608-1415518670.png",
-          "IsNSFW": false,
-          "ModID": 51433,
-          "Name": "High Poly Canticle Tree",
-          "Version": "0.1.0.0"
         }
       }
     },
@@ -30690,6 +30764,6 @@
       }
     }
   ],
-  "Status": "Available",
-  "Failures": 0
+  "Status": "Failed",
+  "Failures": 1
 }
