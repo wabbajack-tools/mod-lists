@@ -1,8 +1,8 @@
 {
   "MachineURL": "keizaal",
   "Name": "Keizaal",
-  "Version": "5.1.1",
-  "ModListHash": "cPn/3nlzynA=",
+  "Version": "5.1.1.1",
+  "ModListHash": "3gCuQLwte7A=",
   "Archives": [
     {
       "Status": "Valid",
@@ -77,28 +77,18 @@
       }
     },
     {
-      "Status": "Mirrored",
+      "Status": "InValid",
       "Original": {
-        "Hash": "qiiTVe2JMMI=",
-        "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimse_v0462.zip\ndirectURLHeaders=Referer:http://enbdev.com/download_mod_tesskyrimse.htm",
-        "Name": "enbseries_skyrimse_v0462.zip",
-        "Size": 4248916,
+        "Hash": "OuC7jikTOuQ=",
+        "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimse_v0463.zip\ndirectURLHeaders=Referer:http://enbdev.com/download_mod_tesskyrimse.htm",
+        "Name": "enbseries_skyrimse_v0463.zip",
+        "Size": 4250214,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [
             "Referer:http://enbdev.com/download_mod_tesskyrimse.htm"
           ],
-          "Url": "http://enbdev.com/enbseries_skyrimse_v0462.zip"
-        }
-      },
-      "PatchedFrom": {
-        "Hash": "qiiTVe2JMMI=",
-        "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/aa289355ed8930c2",
-        "Name": "enbseries_skyrimse_v0462.zip",
-        "Size": 4248916,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://mirror.wabbajack.org/aa289355ed8930c2"
+          "Url": "http://enbdev.com/enbseries_skyrimse_v0463.zip"
         }
       }
     },
@@ -787,27 +777,6 @@
           "ModID": 47735,
           "Name": "Alpha Wolves Enabled",
           "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "V3w5zNm30jQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=46383\nfileID=192331",
-        "Name": "Ambiance-46383-1-1-1616171297.7z",
-        "Size": 2392686,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TheMilesO",
-          "Description": "Ambiance recalibrates ambient lighting adhering to vanilla colors and creating a balance between stealth gameplay and looks.",
-          "FileID": 192331,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46383/46383-1614586155-1493882304.png",
-          "IsNSFW": false,
-          "ModID": 46383,
-          "Name": "Ambiance - A Vanilla(plus) Ambient Lighting Overhaul",
-          "Version": "1.1.0.0"
         }
       }
     },
@@ -2116,21 +2085,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "twHDTE3+x/A=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45148\nfileID=211471",
-        "Name": "Conditional Expressions-45148-1-12-1624833906.zip",
-        "Size": 84901,
+        "Hash": "mzso9KQZKRk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45148\nfileID=228373",
+        "Name": "Conditional Expressions-45148-1-20-1631634516.zip",
+        "Size": 962613,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "JaySerpa",
           "Description": "Tired of seeing your character eat bread without opening their mouth? Conditional expressions adds subtle face animations that will bring more life into your character.",
-          "FileID": 211471,
+          "FileID": 228373,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45148/106476-1612181686-486946421.jpeg",
           "IsNSFW": false,
           "ModID": 45148,
           "Name": "Conditional Expressions - Subtle Face Animations",
-          "Version": "1.12.0.0"
+          "Version": "1.20.0.0"
         }
       }
     },
@@ -3179,6 +3148,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "1aDJ5neVB8k=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55685\nfileID=228807",
+        "Name": "Extended Encounters and Pilgrim-55685-1-0-1631825405.7z",
+        "Size": 1398,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "bdip",
+          "Description": "Patch that changes the event in Extended Encounters, where the player is attacked by Vigilants of Stendarr, to happen when the player is an actual Daedra worshipper through Pilgrim\u0027s worship system, rather than being based off of progress in Daedric Prince quests.",
+          "FileID": 228807,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55685/55685-1631824851-1108918172.jpeg",
+          "IsNSFW": false,
+          "ModID": 55685,
+          "Name": "Extended Encounters and Pilgrim - Vigilants Hunt True Daedra Worshippers",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "zb7jzL8PGV8=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=50246\nfileID=204884",
         "Name": "Faldar\u0027s Tooth Cooked Dinner (no crafting)-50246-1-0-1621661547.rar",
@@ -3914,21 +3904,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "vFWG4jmOKbI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=27008\nfileID=211133",
-        "Name": "iEquip-27008-1-6-2-1624649216.7z",
-        "Size": 3402712,
+        "Hash": "5jmxcBzuIdQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=27008\nfileID=228511",
+        "Name": "iEquip-27008-1-6-3-1631691016.7z",
+        "Size": 3375121,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "dunc001  MrNeverLost  Azhaab  Fudgyduff  VictorF  Ersh  Hazarduss",
           "Description": "iEquip is a fully featured hotkey gear switching and equipment management mod, complete with advanced SkyUI HUD widget. Its purpose is to reduce the amount of time spent in menus managing weapons, potions, poisons...and MUCH MUCH MORE!",
-          "FileID": 211133,
+          "FileID": 228511,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27008/27008-1561755612-1122107535.png",
           "IsNSFW": false,
           "ModID": 27008,
           "Name": "iEquip",
-          "Version": "1.6.2.0"
+          "Version": "1.6.3.0"
         }
       }
     },
@@ -5643,21 +5633,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "MqnJtghTglM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53878\nfileID=221379",
-        "Name": "Paper Blackreach Map for FWMF-53878-1-0-1629036811.zip",
-        "Size": 3065796,
+        "Hash": "HtUj6YpNfD0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53878\nfileID=228356",
+        "Name": "Blackreach Paper Map for FWMF-53878-1-01-1631631769.zip",
+        "Size": 3065912,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Caites",
           "Description": "Implements handmade Blackreach map in Map Menu.",
-          "FileID": 221379,
+          "FileID": 228356,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53878/53878-1629036352-1087253523.png",
           "IsNSFW": false,
           "ModID": 53878,
           "Name": "Paper Blackreach Map for FWMF",
-          "Version": "1.0.0.0"
+          "Version": "f1.01"
         }
       }
     },
@@ -5685,21 +5675,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XOpRA9Z40OU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=55387\nfileID=227558",
-        "Name": "Soul Cairn Old Paper Map for FWMF-55387-1-02-1631345260.zip",
-        "Size": 4745566,
+        "Hash": "+z81TObkqyc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55387\nfileID=228563",
+        "Name": "Soul Cairn Old Paper Map for FWMF-55387-1-03-1631720143.zip",
+        "Size": 4745052,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Caites",
           "Description": "Implements handmade Soul Cairn map in Map Menu.",
-          "FileID": 227558,
+          "FileID": 228563,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55387/55387-1631305365-635712956.png",
           "IsNSFW": false,
           "ModID": 55387,
           "Name": "Paper Soul Cairn Map for FWMF",
-          "Version": "f1.02"
+          "Version": "f1.03"
         }
       }
     },
@@ -6916,27 +6906,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "C6kmJ/bJVZ0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=768\nfileID=163675",
-        "Name": "Hearthfire Map Marker Fix-768-1-0-1601681745.zip",
-        "Size": 31590,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LegoManIAm94",
-          "Description": "Fixes the new player home map markers added in Hearthfire to be settlement map markers instead of town map markers.",
-          "FileID": 163675,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/74947-0-1460480477.jpg",
-          "IsNSFW": false,
-          "ModID": 768,
-          "Name": "Skyrim Hearthfire Map Marker Fix",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "AzR8ODQuBMY=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=26138\nfileID=220706",
         "Name": "Skyrim Landscape and Water Fixes - FOMOD-26138-v6-3-1628796351.7z",
@@ -7913,7 +7882,7 @@
           "Description": "A mod that allows female characters to wear Ulfric\u0027s clothes instead of unretextured alternates.",
           "FileID": 178149,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43809/43809-1610027398-1133424303.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43809/43809-1631620959-434067925.png",
           "IsNSFW": false,
           "ModID": 43809,
           "Name": "Ulfric\u0027s Clothes for Women",
@@ -8819,21 +8788,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "LwDtJ9DySWU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45352\nfileID=214316",
-        "Name": "Morrowind Threads - A Netch Leather Integration Mod-45352-1-1-0-1626147833.zip",
-        "Size": 43116,
+        "Hash": "TQj7eg+qFLQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45352\nfileID=228475",
+        "Name": "Morrowind Threads-45352-1-1-1-1631667606.zip",
+        "Size": 43673,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tate Taylor",
           "Description": "Distributes the Creation Club\u0027s Netch Leather Armor to leveled lists and various NPCS!",
-          "FileID": 214316,
+          "FileID": 228475,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45352/45352-1612589287-892513168.png",
           "IsNSFW": false,
           "ModID": 45352,
           "Name": "Morrowind Threads - A Creation Club Integration Mod",
-          "Version": "1.1.0.0"
+          "Version": "1.1.1.0"
         }
       }
     },
@@ -9849,27 +9818,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "OzSVBa/57bI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=1778\nfileID=162696",
-        "Name": "SkyHud - High Resolution Widescreen Fix-1778-2-0-1601140724.rar",
-        "Size": 437655,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Daisuke",
-          "Description": "It\u0027s a fix for a Widescreen 2560x1080, 3440x1440 Vanilla and SkyUI",
-          "FileID": 162696,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1778/1778-1533587023-1250170495.jpeg",
-          "IsNSFW": false,
-          "ModID": 1778,
-          "Name": "Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE",
-          "Version": "2.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "W/2Ggtd7628=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=1778\nfileID=68724",
         "Name": "Race Menu SE - WIdescreen Fix-1778-0-2-7.rar",
@@ -10374,6 +10322,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "mi03OGkYIWY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=18774\nfileID=225302",
+        "Name": "Candle Lag Fix-18774-1-0-0-1630456733.7z",
+        "Size": 375,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "khazhak",
+          "Description": "Candle lag getting you down? Try this!",
+          "FileID": 225302,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18774/18774-1532242563-1737018312.png",
+          "IsNSFW": false,
+          "ModID": 18774,
+          "Name": "Candle Lag Fix",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "9X01gHckBKc=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=53247\nfileID=219009",
         "Name": "Clothing Iron - 1K-53247-1-1-1628175455.zip",
@@ -10773,21 +10742,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "U8n3YNZdkkY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42161\nfileID=228050",
-        "Name": "Grass Control v7-42161-7-1631517515.zip",
-        "Size": 61392,
+        "Hash": "1WB8CGJRrDU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42161\nfileID=228283",
+        "Name": "Grass Control v8-42161-8-1631599570.zip",
+        "Size": 61349,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "meh321",
           "Description": "Stops grass from growing out of rocks, floorboards, bedrolls, crates, roads and other objects. Also allows drawing grass outside of loaded cells.",
-          "FileID": 228050,
+          "FileID": 228283,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42161/42161-1604867051-1379334159.png",
           "IsNSFW": false,
           "ModID": 42161,
           "Name": "No Grass In Objects",
-          "Version": "7.0.0.0"
+          "Version": "8.0.0.0"
         }
       }
     },
@@ -11329,7 +11298,7 @@
           "Description": "A collection of engine bug fixes and patches made possible by the .NET Script Framework.",
           "FileID": 200347,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43532/43532-1616689685-1381075271.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43532/43532-1631663358-1008600046.jpeg",
           "IsNSFW": false,
           "ModID": 43532,
           "Name": "Scrambled Bugs",
@@ -11550,21 +11519,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5ER5PychHxU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=40261\nfileID=220370",
-        "Name": "NPC AI Process Pos Fix-SSE-V4.05c-40261-v4-05c-1628673809.7z",
-        "Size": 56668,
+        "Hash": "zWbj1lnAkZw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=40261\nfileID=228723",
+        "Name": "NPC AI Process Pos Fix-SSE-V4.05d-40261-v4-05d-1631801145.7z",
+        "Size": 56882,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Maxsu",
           "Description": "A DLL plugin that fixes the vanilla game engine bug that NPCs AI process positions could not be updated after you waiting/ sleeping/ fast travel.",
-          "FileID": 220370,
+          "FileID": 228723,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/40261/40261-1599834679-1191296208.png",
           "IsNSFW": false,
           "ModID": 40261,
           "Name": "NPC AI Process Position  Fix - SSE",
-          "Version": "f4.05c"
+          "Version": "f4.05d"
         }
       }
     },
@@ -12232,7 +12201,7 @@
           "Description": "A collection of engine bug fixes and patches made possible by the .NET Script Framework.",
           "FileID": 226756,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43532/43532-1616689685-1381075271.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43532/43532-1631663358-1008600046.jpeg",
           "IsNSFW": false,
           "ModID": 43532,
           "Name": "Scrambled Bugs",
@@ -12480,21 +12449,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+i8Y+0wivJU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=36869\nfileID=228245",
-        "Name": "Spell Perk Item Distributor  - SSE-36869-5-0-2-1631582251.7z",
-        "Size": 313720,
+        "Hash": "GjlD3o+CF6E=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=36869\nfileID=228603",
+        "Name": "Spell Perk Item Distributor  - SSE-36869-5-0-3-1631732867.7z",
+        "Size": 311593,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
           "Description": "An SKSE plugin that can be used to add spells/leveled spells/perks/items/leveled items/shouts/packages/outfits to every NPC in the game, using config files.",
-          "FileID": 228245,
+          "FileID": 228603,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/36869/36869-1591389125-628593205.png",
           "IsNSFW": false,
           "ModID": 36869,
           "Name": "Spell Perk Item Distributor (SPID)",
-          "Version": "5.0.2.0"
+          "Version": "5.0.3.0"
         }
       }
     },
@@ -18007,6 +17976,6 @@
       }
     }
   ],
-  "Status": "Available",
-  "Failures": 0
+  "Status": "Failed",
+  "Failures": 1
 }

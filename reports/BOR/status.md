@@ -1,10 +1,9 @@
 ## Validation Report - Box of Rockets (BOR)
 
 
-### Invalid (5)
+### Invalid (4)
 *  [CSA_Contares_Core-2.0.15.zip](https://spacedock.info/mod/1712/CSA Contares %27Core%27/download)
 *  [CSA_Contares_PROBE-2.0.12.zip](https://spacedock.info/mod/1713/CSA Contares %27PROBE%27/download)
-*  [KSP_Interstellar_Extended-1.26.26.zip](https://spacedock.info/mod/172/KSP Interstellar Extended/download/1.26.26)
 *  [SpaceTux_Library-0.0.6.zip](https://spacedock.info/mod/2210/SpaceTux Library/download)
 *  [TweakScale-2.4.4.5.zip](https://spacedock.info/mod/127/TweakScale/download)
 ### Updated (0)
@@ -15,7 +14,7 @@
 *  [SoundingRockets_1.4.0.0.zip](https://github.com/BobPalmer/SoundingRockets/releases/download/1.4.0/SoundingRockets_1.4.0.0.zip)
 *  [USITools_1.4.0.0.zip](https://github.com/UmbraSpaceIndustries/UmbraSpaceIndustries/releases/download/1.4.0/USITools_1.4.0.0.zip)
 *  [WarpDrive_1.4.0.0.zip](https://github.com/BobPalmer/WarpDrive/releases/download/1.4.0/WarpDrive_1.4.0.0.zip)
-### Valid (42)
+### Valid (43)
 *  [BetterTimeWarp-1.8.0-2.3.12.6-180.zip](https://github.com/linuxgurugamer/BetterTimeWarpContinued/releases/download/2.3.12.6/BetterTimeWarp-1.8.0-2.3.12.6-180.zip)
 *  [Blueshift.zip](https://github.com/Angel-125/Blueshift/releases/download/v1.3.5/Blueshift.zip)
 *  [ClickThroughBlocker-1.10.1-0.1.10.15.zip](https://github.com/linuxgurugamer/ClickThroughBlocker/releases/download/0.1.10.15/ClickThroughBlocker-1.10.1-0.1.10.15.zip)
@@ -37,6 +36,7 @@
 *  [KerBalloons-1.10.1-0.5.0.7.zip](https://github.com/linuxgurugamer/KerballoonsReinflated/releases/download/0.5.0.7/KerBalloons-1.10.1-0.5.0.7.zip)
 *  [KerbalWeatherProject_v1.0.4.zip](https://github.com/cmac994/KerbalWeatherProject/releases/download/1.0.4/KerbalWeatherProject_v1.0.4.zip)
 *  [KopernicusBE_19+_Release80.zip](https://github.com/R-T-B/Kopernicus/releases/download/UBE-release-80/KopernicusBE_19+_Release80.zip)
+*  [KSP_Interstellar_Extended-1.26.26.zip](https://spacedock.info/mod/172/KSP Interstellar Extended/download/1.26.26)
 *  [MechJeb2-2.12.0.0.zip](https://ksp.sarbian.com/jenkins/job/MechJeb2-Release/29/artifact/MechJeb2-2.12.0.0.zip)
 *  [Mod.Organizer-2.4.0.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.0/Mod.Organizer-2.4.0.7z)
 *  [modorganizer-basic_games-master.zip](https://github.com/LaughingHyena279/modorganizer-basic_games/archive/master.zip)
