@@ -1,8 +1,8 @@
 {
   "MachineURL": "tinvaak2",
   "Name": "Tinvaak 2",
-  "Version": "0.8",
-  "ModListHash": "qpjsdz2xYeI=",
+  "Version": "0.8.1",
+  "ModListHash": "wrjLq/mOFqA=",
   "Archives": [
     {
       "Status": "Valid",
@@ -21,6 +21,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "6I/387a+Px4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=181373",
+        "Name": "(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip",
+        "Size": 417160,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "aers - Nukem - Ryan",
+          "Description": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.",
+          "FileID": 181373,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17230/17230-1526195370-298143229.png",
+          "IsNSFW": false,
+          "ModID": 17230,
+          "Name": "SSE Engine Fixes (skse64 plugin)",
+          "Version": "5.6.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "FZXovxp8lX0=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=binkw64.dll",
         "Name": "binkw64.dll",
@@ -31,6 +52,22 @@
           "GameFile": "binkw64.dll",
           "GameVersion": "1.5.97.0",
           "Hash": "FZXovxp8lX0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OuC7jikTOuQ=",
+        "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimse_v0463.zip\ndirectURLHeaders=Referer:http://enbdev.com/download_mod_tesskyrimse.htm",
+        "Name": "enbseries_skyrimse_v0463.zip",
+        "Size": 4250214,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [
+            "Referer:http://enbdev.com/download_mod_tesskyrimse.htm"
+          ],
+          "Url": "http://enbdev.com/enbseries_skyrimse_v0463.zip"
         }
       }
     },
@@ -677,27 +714,6 @@
           "GameFile": "Data\\Skyrim.esm",
           "GameVersion": "1.5.97.0",
           "Hash": "krNnq2qHmOo="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6I/387a+Px4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=181373",
-        "Name": "(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip",
-        "Size": 417160,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "aers - Nukem - Ryan",
-          "Description": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.",
-          "FileID": 181373,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17230/17230-1526195370-298143229.png",
-          "IsNSFW": false,
-          "ModID": 17230,
-          "Name": "SSE Engine Fixes (skse64 plugin)",
-          "Version": "5.6.0.0"
         }
       }
     },
@@ -10626,6 +10642,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "5Ry1Xa2ljqo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=27962\nfileID=227657",
+        "Name": "Skyrim Unbound Reborn-27962-1-6-10-1631380678.7z",
+        "Size": 2752154,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "chinagreenelvis - lilebonymace",
+          "Description": "An alternate start mod with a wide range of options, including the ability to play as a non-Dragonborn character. Updated and significantly reworked.",
+          "FileID": 227657,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27962/27962-1598604501-726276028.png",
+          "IsNSFW": false,
+          "ModID": 27962,
+          "Name": "Skyrim Unbound Reborn (Alternate Start)",
+          "Version": "1.6.10.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "aVj/H9IcFC8=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=51740\nfileID=215741",
         "Name": "Bards Reborn Skyrims Got Talent - Main File 1.25-51740-1-25-1626831778.zip",
@@ -13705,6 +13742,20 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "NFFl0abSqYQ=",
+        "Meta": "[General]\ndirectURL=https://github.com/AntiMicro/antimicro/releases/download/2.23/antimicro-2.23-win32.portable.zip",
+        "Name": "antimicro-2.23-win32.portable.zip",
+        "Size": 23437598,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/AntiMicro/antimicro/releases/download/2.23/antimicro-2.23-win32.portable.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "bhiVn/Ul3Zs=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=4875\nfileID=148679",
         "Name": "BethINI Standalone Version-4875-3-5-1593829244.zip",
@@ -13951,13 +14002,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "KirbonatedBeverage",
-          "Description": "Resolves a basic programming error in \u0022Fixed Dragon Stalking Fix\u0022 that was causing the fix to not apply.",
+          "Description": "Attempted to resolve a perceived programming error that turned out not to be a programming error. Ignore this mod if you are already using a mod that fixes the dragon stalking bug",
           "FileID": 228030,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55518/55518-1631499063-2026018662.png",
           "IsNSFW": false,
           "ModID": 55518,
-          "Name": "Fixed Fixed Dragon Stalking Fix",
+          "Name": "Unnecessarily Fixed Fixed Dragon Stalking Fix",
           "Version": "1.0.0.0"
         }
       }
@@ -14679,6 +14730,20 @@
           "ModID": 44252,
           "Name": "XP32 Maximum Skeleton Special Extended - Fixed Scripts",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "IXTnFpyEuBo=",
+        "Meta": "[General]\ndirectURL=https://github.com/Althro/Tinvaak/blob/main/assets/Skyrim.gamecontroller.amgp",
+        "Name": "Skyrim.gamecontroller.amgp",
+        "Size": 1961,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Althro/Tinvaak/blob/main/assets/Skyrim.gamecontroller.amgp"
         }
       }
     },
@@ -16701,6 +16766,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "1WB8CGJRrDU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42161\nfileID=228283",
+        "Name": "Grass Control v8-42161-8-1631599570.zip",
+        "Size": 61349,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "meh321",
+          "Description": "Stops grass from growing out of rocks, floorboards, bedrolls, crates, roads and other objects. Also allows drawing grass outside of loaded cells.",
+          "FileID": 228283,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42161/42161-1604867051-1379334159.png",
+          "IsNSFW": false,
+          "ModID": 42161,
+          "Name": "No Grass In Objects",
+          "Version": "8.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "dvt24Va6N+I=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=27041\nfileID=123911",
         "Name": "Northern Shores 2K-27041-1-4-1581623323.7z",
@@ -16764,21 +16850,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5ER5PychHxU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=40261\nfileID=220370",
-        "Name": "NPC AI Process Pos Fix-SSE-V4.05c-40261-v4-05c-1628673809.7z",
-        "Size": 56668,
+        "Hash": "zWbj1lnAkZw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=40261\nfileID=228723",
+        "Name": "NPC AI Process Pos Fix-SSE-V4.05d-40261-v4-05d-1631801145.7z",
+        "Size": 56882,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Maxsu",
           "Description": "A DLL plugin that fixes the vanilla game engine bug that NPCs AI process positions could not be updated after you waiting/ sleeping/ fast travel.",
-          "FileID": 220370,
+          "FileID": 228723,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/40261/40261-1599834679-1191296208.png",
           "IsNSFW": false,
           "ModID": 40261,
           "Name": "NPC AI Process Position  Fix - SSE",
-          "Version": "f4.05c"
+          "Version": "f4.05d"
         }
       }
     },
@@ -18037,21 +18123,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SLhEou+ymdk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=36869\nfileID=228097",
-        "Name": "Spell Perk Item Distributor  - SSE-36869-5-0-1631537098.7z",
-        "Size": 313304,
+        "Hash": "GjlD3o+CF6E=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=36869\nfileID=228603",
+        "Name": "Spell Perk Item Distributor  - SSE-36869-5-0-3-1631732867.7z",
+        "Size": 311593,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
-          "Description": "An SKSE plugin that can be used to add spells/leveled spells/perks/items/leveled items/shouts/packages/outfits to every NPC in the game, using config files.",
-          "FileID": 228097,
+          "Description": "SKSE plugin that can be used to add spells/leveled spells/perks/items/leveled items/shouts/packages/outfits to every NPC in the game, using config files.",
+          "FileID": 228603,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/36869/36869-1591389125-628593205.png",
           "IsNSFW": false,
           "ModID": 36869,
           "Name": "Spell Perk Item Distributor (SPID)",
-          "Version": "5.0.0.0"
+          "Version": "5.0.3.0"
         }
       }
     },
@@ -18073,27 +18159,6 @@
           "ModID": 34705,
           "Name": "SSE Display Tweaks",
           "Version": "0.4.15.0-1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "RtGQ67Pqjsg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=31963\nfileID=120676",
-        "Name": "SSE Parallax Shader Fix v1.0 (BETA)-31963-1-0-1579609660.7z",
-        "Size": 228973,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "aers",
-          "Description": "Injects fixed parallax shaders into Skyrim Special Edition.",
-          "FileID": 120676,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31963/31963-1579609371-1301044181.png",
-          "IsNSFW": false,
-          "ModID": 31963,
-          "Name": "SSE Parallax Shader Fix (BETA)",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -19159,48 +19224,6 @@
           "Author": "cunny1975",
           "Description": "A retexture of 3 items from the Dawnguard questline.",
           "FileID": 185165,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45548/45548-1612988676-1139249447.jpeg",
-          "IsNSFW": false,
-          "ModID": 45548,
-          "Name": "Canticle Tree - Bark - and Draw Knife Retexture",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3ejs1h7r89I=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45548\nfileID=185166",
-        "Name": "Canticle Tree-45548-1-0-1612989209.7z",
-        "Size": 18473835,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "cunny1975",
-          "Description": "A retexture of 3 items from the Dawnguard questline.",
-          "FileID": 185166,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45548/45548-1612988676-1139249447.jpeg",
-          "IsNSFW": false,
-          "ModID": 45548,
-          "Name": "Canticle Tree - Bark - and Draw Knife Retexture",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Vrw7/avDSAs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45548\nfileID=185168",
-        "Name": "Canticle Bark-45548-1-0-1612989319.7z",
-        "Size": 7593487,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "cunny1975",
-          "Description": "A retexture of 3 items from the Dawnguard questline.",
-          "FileID": 185168,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45548/45548-1612988676-1139249447.jpeg",
           "IsNSFW": false,
@@ -21307,6 +21330,27 @@
           "ModID": 10710,
           "Name": "Northfire\u0027s Castle Volkihar",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5ER5PychHxU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=40261\nfileID=220370",
+        "Name": "NPC AI Process Pos Fix-SSE-V4.05c-40261-v4-05c-1628673809.7z",
+        "Size": 56668,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Maxsu",
+          "Description": "A DLL plugin that fixes the vanilla game engine bug that NPCs AI process positions could not be updated after you waiting/ sleeping/ fast travel.",
+          "FileID": 220370,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/40261/40261-1599834679-1191296208.png",
+          "IsNSFW": false,
+          "ModID": 40261,
+          "Name": "NPC AI Process Position  Fix - SSE",
+          "Version": "f4.05c"
         }
       }
     },
