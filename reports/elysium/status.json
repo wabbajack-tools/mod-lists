@@ -2,7 +2,7 @@
   "MachineURL": "elysium",
   "Name": "Elysium",
   "Version": "5.4.3",
-  "ModListHash": "tb2il6tbGSY=",
+  "ModListHash": "8Bd3gyZLGMI=",
   "Archives": [
     {
       "Status": "Valid",
@@ -33,18 +33,15 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "OuC7jikTOuQ=",
-        "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimse_v0463.zip\ndirectURLHeaders=Referer:http://enbdev.com/download_mod_tesskyrimse.htm",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0463.zip_0eba6cb9-ace6-439c-aa69-cd9f8054df28",
         "Name": "enbseries_skyrimse_v0463.zip",
         "Size": 4250214,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [
-            "Referer:http://enbdev.com/download_mod_tesskyrimse.htm"
-          ],
-          "Url": "http://enbdev.com/enbseries_skyrimse_v0463.zip"
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0463.zip_0eba6cb9-ace6-439c-aa69-cd9f8054df28"
         }
       }
     },
@@ -30743,6 +30740,6 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1
+  "Status": "Available",
+  "Failures": 0
 }
