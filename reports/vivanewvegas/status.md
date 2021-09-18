@@ -1,11 +1,10 @@
 ## Validation Report - Viva New Vegas (vivanewvegas)
 
 
-### Invalid (1)
-*  [Vanilla_UI_Plus_New_Vegas_8.83.7z](https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fvivanewvegas.github.io%2F)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (61)
+### Valid (62)
 *  [A Little More Lamplight-69226-1-2-1594706760.zip](https://www.nexusmods.com/newvegas/mods/69226/?tab=files&file_id=1000063736)
 *  [Altitude-71404-2-9-1627173226.7z](https://www.nexusmods.com/newvegas/mods/71404/?tab=files&file_id=1000078975)
 *  [Anniversary Anim Pack-70158-1-9c-1620681207.7z](https://www.nexusmods.com/newvegas/mods/70158/?tab=files&file_id=1000075892)
@@ -63,6 +62,7 @@
 *  [Unofficial Patch NVSE Plus-71239-1-3-3-1629920236.zip](https://www.nexusmods.com/newvegas/mods/71239/?tab=files&file_id=1000080211)
 *  [Vanilla Hud Cleaned-70001-0-381-1607085285.7z](https://www.nexusmods.com/newvegas/mods/70001/?tab=files&file_id=1000068281)
 *  [Vanilla LOD.7z](https://drive.google.com/uc?id=1lznQ6JB8093BUrLsXR5jKK_x-INB7fX2&export=download)
+*  [Vanilla_UI_Plus_New_Vegas_8.83.7z](https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fvivanewvegas.github.io%2F)
 *  [Weapon Mesh Improvement Mod Patch-70158-1-7-1606187817.7z](https://www.nexusmods.com/newvegas/mods/70158/?tab=files&file_id=1000067993)
 *  [Weapon Mesh Improvement Mod-65052-1-3.7z](https://www.nexusmods.com/newvegas/mods/65052/?tab=files&file_id=1000048235)
 *  [WMIM ESP Replacer.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/8988199cd785db4b9b5de300ac1f6144774b72bd/WMIM ESP Replacer.7z)
