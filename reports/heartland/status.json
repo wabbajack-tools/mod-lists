@@ -19,7 +19,7 @@
       }
     },
     {
-      "Status": "Mirrored",
+      "Status": "Valid",
       "Original": {
         "Hash": "oCEzJMN13Gc=",
         "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_oblivion_v0181.zip\ndirectURLHeaders=Referer:http://enbdev.com/download_mod_tesoblivion.htm",
@@ -31,16 +31,6 @@
             "Referer:http://enbdev.com/download_mod_tesoblivion.htm"
           ],
           "Url": "http://enbdev.com/enbseries_oblivion_v0181.zip"
-        }
-      },
-      "PatchedFrom": {
-        "Hash": "oCEzJMN13Gc=",
-        "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/a0213324c375dc67",
-        "Name": "enbseries_oblivion_v0181.zip",
-        "Size": 1508958,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://mirror.wabbajack.org/a0213324c375dc67"
         }
       }
     },
