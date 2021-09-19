@@ -225,14 +225,12 @@
     "Status": "Mirrored",
     "Original": {
       "Hash": "qiiTVe2JMMI=",
-      "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimse_v0462.zip\ndirectURLHeaders=Referer:http://enbdev.com/download_mod_tesskyrimse.htm",
+      "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimse_v0462.zip",
       "Name": "enbseries_skyrimse_v0462.zip",
       "Size": 4248916,
       "State": {
         "$type": "HttpDownloader, Wabbajack.Lib",
-        "Headers": [
-          "Referer:http://enbdev.com/download_mod_tesskyrimse.htm"
-        ],
+        "Headers": [],
         "Url": "http://enbdev.com/enbseries_skyrimse_v0462.zip"
       }
     },

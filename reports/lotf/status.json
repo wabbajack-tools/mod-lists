@@ -1,8 +1,8 @@
 {
   "MachineURL": "lotf",
   "Name": "Legends of the Frost",
-  "Version": "1.3",
-  "ModListHash": "trhUWWi/qnA=",
+  "Version": "1.3.1",
+  "ModListHash": "69ckKycIqqQ=",
   "Archives": [
     {
       "Status": "Valid",
@@ -70,28 +70,18 @@
       }
     },
     {
-      "Status": "Mirrored",
+      "Status": "Valid",
       "Original": {
-        "Hash": "qiiTVe2JMMI=",
-        "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimse_v0462.zip\ndirectURLHeaders=Referer:http://enbdev.com/download_mod_tesskyrimse.htm",
-        "Name": "enbseries_skyrimse_v0462.zip",
-        "Size": 4248916,
+        "Hash": "OuC7jikTOuQ=",
+        "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimse_v0463.zip\ndirectURLHeaders=Referer:http://enbdev.com/download_mod_tesskyrimse.htm",
+        "Name": "enbseries_skyrimse_v0463.zip",
+        "Size": 4250214,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [
             "Referer:http://enbdev.com/download_mod_tesskyrimse.htm"
           ],
-          "Url": "http://enbdev.com/enbseries_skyrimse_v0462.zip"
-        }
-      },
-      "PatchedFrom": {
-        "Hash": "qiiTVe2JMMI=",
-        "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/aa289355ed8930c2",
-        "Name": "enbseries_skyrimse_v0462.zip",
-        "Size": 4248916,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://mirror.wabbajack.org/aa289355ed8930c2"
+          "Url": "http://enbdev.com/enbseries_skyrimse_v0463.zip"
         }
       }
     },
@@ -3262,21 +3252,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "EusG/q8SLR0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53653\nfileID=224367",
-        "Name": "Fixed Mesh Lighting-53653-1-4-1-1630150732.zip",
-        "Size": 138513587,
+        "Hash": "zwwoRsTLtuQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53653\nfileID=228986",
+        "Name": "Fixed Mesh Lighting-53653-1-4-2-1631897728.zip",
+        "Size": 141607022,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Catnyss",
           "Description": "Fixes lighting bugs with vanilla Skyrim meshes rendering too bright outside under shadows especially during daytime. \n\nPatches for popular mods included.",
-          "FileID": 224367,
+          "FileID": 228986,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53653/53653-1628683457-1876970166.png",
           "IsNSFW": false,
           "ModID": 53653,
           "Name": "Fixed Mesh Lighting",
-          "Version": "1.4.1.0"
+          "Version": "1.4.2.0"
         }
       }
     },
@@ -3388,13 +3378,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "P40GhOCO6O4=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Legends of the Frost - TexGen Output 1.2.7z_249a5554-1db9-4a32-8e93-46624402178c",
-        "Name": "Legends of the Frost - TexGen Output 1.2.7z",
-        "Size": 62368524,
+        "Hash": "kBbFMLS6Ccs=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Legends of the Frost - TexGen Output 1.3.7z_3344ef32-28f8-4f7a-952d-63643e0bab60",
+        "Name": "Legends of the Frost - TexGen Output 1.3.7z",
+        "Size": 63881331,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Legends%20of%20the%20Frost%20-%20TexGen%20Output%201.2.7z_249a5554-1db9-4a32-8e93-46624402178c"
+          "Url": "https://authored-files.wabbajack.org/Legends%20of%20the%20Frost%20-%20TexGen%20Output%201.3.7z_3344ef32-28f8-4f7a-952d-63643e0bab60"
         }
       }
     },
@@ -3485,21 +3475,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5ER5PychHxU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=40261\nfileID=220370",
-        "Name": "NPC AI Process Pos Fix-SSE-V4.05c-40261-v4-05c-1628673809.7z",
-        "Size": 56668,
+        "Hash": "zWbj1lnAkZw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=40261\nfileID=228723",
+        "Name": "NPC AI Process Pos Fix-SSE-V4.05d-40261-v4-05d-1631801145.7z",
+        "Size": 56882,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Maxsu",
           "Description": "A DLL plugin that fixes the vanilla game engine bug that NPCs AI process positions could not be updated after you waiting/ sleeping/ fast travel.",
-          "FileID": 220370,
+          "FileID": 228723,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/40261/40261-1599834679-1191296208.png",
           "IsNSFW": false,
           "ModID": 40261,
           "Name": "NPC AI Process Position  Fix - SSE",
-          "Version": "f4.05c"
+          "Version": "f4.05d"
         }
       }
     },
@@ -3708,21 +3698,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6O5XP4fYeQw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=36869\nfileID=196343",
-        "Name": "Spell Perk Item Distributor - 4.4-36869-4-4-1617682270.7z",
-        "Size": 115976,
+        "Hash": "GjlD3o+CF6E=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=36869\nfileID=228603",
+        "Name": "Spell Perk Item Distributor  - SSE-36869-5-0-3-1631732867.7z",
+        "Size": 311593,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
-          "Description": "An SKSE plugin that can be used to add spells/leveled spells/perks/items/leveled items/shouts/packages/outfits to every NPC in the game, using config files.",
-          "FileID": 196343,
+          "Description": "SKSE plugin that can be used to add spells/leveled spells/perks/items/leveled items/shouts/packages/outfits to every NPC in the game, using config files.",
+          "FileID": 228603,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/36869/36869-1591389125-628593205.png",
           "IsNSFW": false,
           "ModID": 36869,
           "Name": "Spell Perk Item Distributor (SPID)",
-          "Version": "4.4.0.0"
+          "Version": "5.0.3.0"
         }
       }
     },
@@ -4191,19 +4181,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "M7p69P3WZDU=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Legends of the Frost - DynDOLOD Output 1.2.7z_52f6ba10-6d72-4d85-a053-841ac5d80314",
-        "Name": "Legends of the Frost - DynDOLOD Output 1.2.7z",
-        "Size": 1345434525,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Legends%20of%20the%20Frost%20-%20DynDOLOD%20Output%201.2.7z_52f6ba10-6d72-4d85-a053-841ac5d80314"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "IEka9cxTKIw=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Legends of the Frost - Terrain LOD 1.0.7z_7abab868-ef59-41cf-951f-e68164c91bfb",
         "Name": "Legends of the Frost - Terrain LOD 1.0.7z",
@@ -4211,19 +4188,6 @@
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
           "Url": "https://authored-files.wabbajack.org/Legends%20of%20the%20Frost%20-%20Terrain%20LOD%201.0.7z_7abab868-ef59-41cf-951f-e68164c91bfb"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kBbFMLS6Ccs=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Legends of the Frost - TexGen Output 1.3.7z_3344ef32-28f8-4f7a-952d-63643e0bab60",
-        "Name": "Legends of the Frost - TexGen Output 1.3.7z",
-        "Size": 63881331,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Legends%20of%20the%20Frost%20-%20TexGen%20Output%201.3.7z_3344ef32-28f8-4f7a-952d-63643e0bab60"
         }
       }
     },
@@ -4852,21 +4816,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "J9l+KGyoPqw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44283\nfileID=179176",
-        "Name": "Project Clarity - Architecture Half Res-44283-1-0-1610483065.7z",
-        "Size": 1394667810,
+        "Hash": "TeL/xeL/NZQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=35593\nfileID=188717",
+        "Name": "Project Clarity - Armor Half Resolution-35593-2-4-1614569503.7z",
+        "Size": 1490783334,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Iconic",
-          "Description": "Upscaled architecture textures",
-          "FileID": 179176,
+          "Description": "High resolution AI up-scaled armor textures, for every single armor piece.",
+          "FileID": 188717,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44283/44283-1610478958-1411452358.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35593/35593-1603234670-1638325438.png",
           "IsNSFW": false,
-          "ModID": 44283,
-          "Name": "Project Clarity - Architecture Textures Redone",
-          "Version": "1.0.0.0"
+          "ModID": 35593,
+          "Name": "Project Clarity - Vanilla Armor Textures Redone",
+          "Version": "2.4.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tiyExJiOV9c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42859\nfileID=188727",
+        "Name": "Project Clarity - Clothing And Jewelry Half Resolution-42859-1-1-1614577435.7z",
+        "Size": 1023218609,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "High resolution AI up-scaled clothing \u0026amp; jewelry textures, for every single piece of clothing and jewelry",
+          "FileID": 188727,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42859/42859-1606613179-982611889.png",
+          "IsNSFW": false,
+          "ModID": 42859,
+          "Name": "Project Clarity - Vanilla Clothing And Jewelry Textures Redone",
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -4894,69 +4879,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6IKkkLLiPIs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=41998\nfileID=188799",
-        "Name": "Project Clarity - Creatures Half Res-41998-1-7-1614612171.7z",
-        "Size": 1256895428,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "High resolution AI up-scaled creature textures, for every single creature",
-          "FileID": 188799,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41998/41998-1604439666-1249755764.png",
-          "IsNSFW": false,
-          "ModID": 41998,
-          "Name": "Project Clarity - Creature Textures Redone",
-          "Version": "1.7.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "JN4Fx0CimTs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=41998\nfileID=223086",
-        "Name": "Hotfix To v1.8 Half Res-41998-1-8-1629682228.7z",
-        "Size": 3527685,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "High resolution AI up-scaled creature textures, for every single creature",
-          "FileID": 223086,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41998/41998-1604439666-1249755764.png",
-          "IsNSFW": false,
-          "ModID": 41998,
-          "Name": "Project Clarity - Creature Textures Redone",
-          "Version": "1.8.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "TeL/xeL/NZQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=35593\nfileID=188717",
-        "Name": "Project Clarity - Armor Half Resolution-35593-2-4-1614569503.7z",
-        "Size": 1490783334,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "High resolution AI up-scaled armor textures, for every single armor piece.",
-          "FileID": 188717,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35593/35593-1603234670-1638325438.png",
-          "IsNSFW": false,
-          "ModID": 35593,
-          "Name": "Project Clarity - Vanilla Armor Textures Redone",
-          "Version": "2.4.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "S11NxswdIvo=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=45135\nfileID=183362",
         "Name": "Project Clarity - Dungeons Half Res-45135-1-0-1612196348.7z",
@@ -4972,27 +4894,6 @@
           "ModID": 45135,
           "Name": "Project Clarity - Dungeon Textures Redone",
           "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "A9DhqnLlWSA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45286\nfileID=188619",
-        "Name": "Project Clarity - Landscapes Half Res-45286-1-3-1614542418.7z",
-        "Size": 652356029,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "Upscaled landscape and flora textures",
-          "FileID": 188619,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45286/45286-1612463302-1641055471.png",
-          "IsNSFW": false,
-          "ModID": 45286,
-          "Name": "Project Clarity - Landscape Textures Redone",
-          "Version": "1.3.0.0"
         }
       }
     },
@@ -5046,21 +4947,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "tiyExJiOV9c=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42859\nfileID=188727",
-        "Name": "Project Clarity - Clothing And Jewelry Half Resolution-42859-1-1-1614577435.7z",
-        "Size": 1023218609,
+        "Hash": "6IKkkLLiPIs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=41998\nfileID=188799",
+        "Name": "Project Clarity - Creatures Half Res-41998-1-7-1614612171.7z",
+        "Size": 1256895428,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Iconic",
-          "Description": "High resolution AI up-scaled clothing \u0026amp; jewelry textures, for every single piece of clothing and jewelry",
-          "FileID": 188727,
+          "Description": "High resolution AI up-scaled creature textures, for every single creature",
+          "FileID": 188799,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42859/42859-1606613179-982611889.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41998/41998-1604439666-1249755764.png",
           "IsNSFW": false,
-          "ModID": 42859,
-          "Name": "Project Clarity - Vanilla Clothing And Jewelry Textures Redone",
-          "Version": "1.1.0.0"
+          "ModID": 41998,
+          "Name": "Project Clarity - Creature Textures Redone",
+          "Version": "1.7.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JN4Fx0CimTs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=41998\nfileID=223086",
+        "Name": "Hotfix To v1.8 Half Res-41998-1-8-1629682228.7z",
+        "Size": 3527685,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "High resolution AI up-scaled creature textures, for every single creature",
+          "FileID": 223086,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41998/41998-1604439666-1249755764.png",
+          "IsNSFW": false,
+          "ModID": 41998,
+          "Name": "Project Clarity - Creature Textures Redone",
+          "Version": "1.8.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "A9DhqnLlWSA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45286\nfileID=188619",
+        "Name": "Project Clarity - Landscapes Half Res-45286-1-3-1614542418.7z",
+        "Size": 652356029,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "Upscaled landscape and flora textures",
+          "FileID": 188619,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45286/45286-1612463302-1641055471.png",
+          "IsNSFW": false,
+          "ModID": 45286,
+          "Name": "Project Clarity - Landscape Textures Redone",
+          "Version": "1.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "J9l+KGyoPqw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44283\nfileID=179176",
+        "Name": "Project Clarity - Architecture Half Res-44283-1-0-1610483065.7z",
+        "Size": 1394667810,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "Upscaled architecture textures",
+          "FileID": 179176,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44283/44283-1610478958-1411452358.png",
+          "IsNSFW": false,
+          "ModID": 44283,
+          "Name": "Project Clarity - Architecture Textures Redone",
+          "Version": "1.0.0.0"
         }
       }
     },
