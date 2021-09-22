@@ -1,10 +1,11 @@
 ## Validation Report - Fallout VR Essentials Overhaul (fo4vre)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Satellite Color World Map Combo 1-3-9414-1-3.7z](https://mega.nz/file/0i4gHbpa#tw8WL-OP_7orz8gKKYy8ZU34kJEHNU0hjlmT2WOMJdI)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (245)
+### Valid (244)
 *  [_25 damage reduction -4743-1-1.zip](https://www.nexusmods.com/fallout4/mods/4743/?tab=files&file_id=16525)
 *  [_50 damage reduction-4743-1-1.zip](https://www.nexusmods.com/fallout4/mods/4743/?tab=files&file_id=16526)
 *  [(Experimental) FallUI VR-Patch-48758-1-12-1-vr-exp3-1618625274.rar](https://www.nexusmods.com/fallout4/mods/48758/?tab=files&file_id=206079)
@@ -202,7 +203,6 @@
 *  [Reverb-True Storms Patch-45429-1-1591056818.zip](https://www.nexusmods.com/fallout4/mods/45429/?tab=files&file_id=183334)
 *  [RGrip to interact UI Fix for Oculus-50473-1-0-1614632439.zip](https://www.nexusmods.com/fallout4/mods/50473/?tab=files&file_id=202633)
 *  [SalvageBeacons_v1_0_3.7z-18757-1-0-3.7z](https://www.nexusmods.com/fallout4/mods/18757/?tab=files&file_id=125164)
-*  [Satellite Color World Map Combo 1-3-9414-1-3.7z](https://mega.nz/file/0i4gHbpa#tw8WL-OP_7orz8gKKYy8ZU34kJEHNU0hjlmT2WOMJdI)
 *  [SavrenX Detailed Hair-40547-1-00-1565302287.7z](https://www.nexusmods.com/fallout4/mods/40547/?tab=files&file_id=164049)
 *  [SavrenX Organic Super Mutant-40397-1-00-1564658288.7z](https://www.nexusmods.com/fallout4/mods/40397/?tab=files&file_id=163492)
 *  [Seen Better Days PIPBOY Retexture-17818-PIP1-0.rar](https://www.nexusmods.com/fallout4/mods/17818/?tab=files&file_id=71604)
