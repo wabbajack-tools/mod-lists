@@ -275,7 +275,7 @@ A lightweight power fantasy list accessible to any level of gamer. Sexy without 
 
 Ass n titties, swords and pretties.
 
-For a brief introduction to the combat and visuals please check the video here: [showcase and trailer here.](https://www.youtube.com/watch?v=URoyzP_a87s)
+For a brief introduction to the combat and visuals please check the video here: [showcase and trailer here.](https://www.youtube.com/watch?v=I2hlkN-OEqA)
 
 **_Mods to get familiar with:_**
 
