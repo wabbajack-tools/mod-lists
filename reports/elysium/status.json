@@ -1,8 +1,8 @@
 {
   "MachineURL": "elysium",
   "Name": "Elysium",
-  "Version": "5.4.3",
-  "ModListHash": "s8gtmOg8BR4=",
+  "Version": "5.5.0",
+  "ModListHash": "yNo6sodFd+g=",
   "Archives": [
     {
       "Status": "Valid",
@@ -36,12 +36,15 @@
       "Status": "Valid",
       "Original": {
         "Hash": "OuC7jikTOuQ=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0463.zip_0eba6cb9-ace6-439c-aa69-cd9f8054df28",
+        "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimse_v0463.zip\ndirectURLHeaders=Referer:http://enbdev.com/download_mod_tesskyrimse.htm",
         "Name": "enbseries_skyrimse_v0463.zip",
         "Size": 4250214,
         "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0463.zip_0eba6cb9-ace6-439c-aa69-cd9f8054df28"
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [
+            "Referer:http://enbdev.com/download_mod_tesskyrimse.htm"
+          ],
+          "Url": "http://enbdev.com/enbseries_skyrimse_v0463.zip"
         }
       }
     },
@@ -887,6 +890,27 @@
           "IsNSFW": false,
           "ModID": 38813,
           "Name": "Animated Armoury - Legacy of Dragonborn Displays",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "R1wcRwyaSng=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55457\nfileID=229631",
+        "Name": "Apocalypse Enhanced True 2k BSA-55457-1-1632152399.rar",
+        "Size": 154145593,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Enai Siaion and MrShadowBlood",
+          "Description": "Cleaned textures of Apocalypse - Magic of Skyrim with optional files for better quality. Properly cleaned textures lets Skyrim use less memory loading it so means more FPS for you!\n\n\n\nMore Enai Siaion cleaned textures on the way.",
+          "FileID": 229631,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55457/55457-1632146643-1733274524.jpeg",
+          "IsNSFW": false,
+          "ModID": 55457,
+          "Name": "Apocalypse - Magic of Skyrim Cleaned and Enhanced Textures",
           "Version": "1.0.0.0"
         }
       }
@@ -2196,15 +2220,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bSupH2XJZQs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=24791\nfileID=217171",
-        "Name": "Cathedral Weathers Unofficial Update-24791-2-32-1627431362.7z",
-        "Size": 54337,
+        "Hash": "kV6PXHR+T6I=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=24791\nfileID=229526",
+        "Name": "Cathedral Weathers Unofficial Update-24791-2-32-1632101058.7z",
+        "Size": 19369,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "The Community",
           "Description": "A natural-fantasy weather mod.",
-          "FileID": 217171,
+          "FileID": 229526,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/24791/24791-1554680316-435236928.png",
           "IsNSFW": false,
@@ -2595,21 +2619,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Uj7CPOX4ook=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=55207\nfileID=226591",
-        "Name": "Coherent Inns Prices-55207-1-0-1630962705.7z",
-        "Size": 3031,
+        "Hash": "gcK39MXRueQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55207\nfileID=230181",
+        "Name": "Coherent Inns Prices-55207-1-1-1632429231.7z",
+        "Size": 4296,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kesta",
           "Description": "A small tweak to inns prices. \n\nThey\u0027re overall a bit more expensive, and the price depend on the location.",
-          "FileID": 226591,
+          "FileID": 230181,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55207/55207-1630962568-215394611.png",
           "IsNSFW": false,
           "ModID": 55207,
           "Name": "Coherent Inns Prices",
-          "Version": "1.0.0.0"
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -3561,73 +3585,73 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+eMuHxBhlhc=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output.7z_386e987d-f4dc-435d-aa8b-873ba453e0b1",
+        "Hash": "7b2F7m8mG+U=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output.7z_679b6e4e-9f8d-4897-8502-bd2d4f2eca36",
         "Name": "Elysium - Dyndolod 3D Output.7z",
-        "Size": 6515166148,
+        "Size": 6513708545,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Dyndolod%203D%20Output.7z_386e987d-f4dc-435d-aa8b-873ba453e0b1"
+          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Dyndolod%203D%20Output.7z_679b6e4e-9f8d-4897-8502-bd2d4f2eca36"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VgcM+9ffv8o=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output (Creation Club).7z_1f1a7df3-11f9-4a68-9ca5-b0cbe7b5832e",
+        "Hash": "bFqdIknVfis=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output (Creation Club).7z_625f736b-efcd-46ef-85cc-63a20d3a82b7",
         "Name": "Elysium - Dyndolod 3D Output (Creation Club).7z",
-        "Size": 6520856964,
+        "Size": 6560788707,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Dyndolod%203D%20Output%20(Creation%20Club).7z_1f1a7df3-11f9-4a68-9ca5-b0cbe7b5832e"
+          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Dyndolod%203D%20Output%20(Creation%20Club).7z_625f736b-efcd-46ef-85cc-63a20d3a82b7"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "3WWOhRh9leM=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output - Performance Mode.7z_b3aadeec-aa49-4a8d-a860-58d2c6de6523",
+        "Hash": "9IR/hxyp3Bs=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output - Performance Mode.7z_371f696f-f19f-4478-9d69-303b2743b434",
         "Name": "Elysium - Dyndolod 3D Output - Performance Mode.7z",
-        "Size": 1085068760,
+        "Size": 1089413670,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Dyndolod%203D%20Output%20-%20Performance%20Mode.7z_b3aadeec-aa49-4a8d-a860-58d2c6de6523"
+          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Dyndolod%203D%20Output%20-%20Performance%20Mode.7z_371f696f-f19f-4478-9d69-303b2743b434"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "r6WX9gy1RNQ=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output - Performance Mode (Creation Club).7z_d0f24ff7-71ac-48a2-99d5-e6bd4bf72754",
+        "Hash": "Bz9+c+iVVxY=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output - Performance Mode (Creation Club).7z_8a3e30bd-12cf-4c71-b75a-cd38d5313e90",
         "Name": "Elysium - Dyndolod 3D Output - Performance Mode (Creation Club).7z",
-        "Size": 1087094726,
+        "Size": 1090503357,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Dyndolod%203D%20Output%20-%20Performance%20Mode%20(Creation%20Club).7z_d0f24ff7-71ac-48a2-99d5-e6bd4bf72754"
+          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Dyndolod%203D%20Output%20-%20Performance%20Mode%20(Creation%20Club).7z_8a3e30bd-12cf-4c71-b75a-cd38d5313e90"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "q8uDdZ7BP1s=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=35910\nfileID=229010",
-        "Name": "JKs Interiors Patch Collection-35910-3-15-1631902973.7z",
-        "Size": 14858761,
+        "Hash": "ar99/bJPO78=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=35910\nfileID=229711",
+        "Name": "JKs Interiors Patch Collection-35910-3-16-1632168780.7z",
+        "Size": 14915178,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DarkMaster06 Timiku Czasior Monops blitzicestorm Shekhinaga Neko14789 Teabag86 TitansBane and Janquel",
           "Description": "A collection of small patches/tweaks to help various mods play well with JK\u0027s Interiors series",
-          "FileID": 229010,
+          "FileID": 229711,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35910/35910-1589352521-1164967416.jpeg",
           "IsNSFW": false,
           "ModID": 35910,
           "Name": "JK\u0027s Interiors Patch Collection",
-          "Version": "3.15.0.0"
+          "Version": "3.16.0.0"
         }
       }
     },
@@ -3907,21 +3931,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Y0YiRImb9BU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=13552\nfileID=79876",
-        "Name": "ETaC SSE v0.4.4-13552-0-4-4-1548690632.7z",
-        "Size": 192862571,
+        "Hash": "VI5ZnBuBy8U=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=13552\nfileID=229847",
+        "Name": "ETaC SE v0.5 Fixed Installer-13552-0-5-1-1632244663.7z",
+        "Size": 270689914,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "missjennabee",
-          "Description": "Expands upon existing towns, villages, settlements, cities, etc. (This is a complete rebuild of the LE version - Not a direct port.) So far includes Darkwater Crossing, Dawnstar, Riverwood and Rorikstead. Other towns will be added as they\u0027re completed. (Morthal currently in-progress.)",
-          "FileID": 79876,
+          "Description": "Expands upon existing towns, villages, settlements, cities, etc. The \u0022new\u0022 version so far includes: Darkwater Crossing, Dawnstar, Kynesgrove, Riverwood and Rorikstead. Available in \u0022Complete\u0022 - All the towns packed together; and, \u0022Modular\u0022 - Individual towns \u00E0 la carte versions. (Karthwasten and Morthal are currently in progress.)",
+          "FileID": 229847,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/13552/13552-1533904508-950732035.gif",
           "IsNSFW": false,
           "ModID": 13552,
           "Name": "Expanded Towns and Cities (SSE)",
-          "Version": "0.4.4.0"
+          "Version": "0.5.1.0"
         }
       }
     },
@@ -4951,6 +4975,27 @@
           "IsNSFW": false,
           "ModID": 39282,
           "Name": "High Poly NPC Overhaul - Carriage and Ferry Travel Overhaul (CFTO)",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "W0IxDagKQMU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=39033\nfileID=155491",
+        "Name": "High Poly NPC Overhaul - Expanded Towns and Cities (ETaC - Darkwater Crossing)-39033-1-0-1597377531.7z",
+        "Size": 2642342,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zhalroth",
+          "Description": "This is an appearance overhaul for the new NPCs added by Expanded Towns and Cities.",
+          "FileID": 155491,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/39033/39033-1596608905-1611633923.jpeg",
+          "IsNSFW": false,
+          "ModID": 39033,
+          "Name": "High Poly NPC Overhaul - Expanded Towns and Cities",
           "Version": "1.0.0.0"
         }
       }
@@ -6832,21 +6877,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wZFhMT/WEuo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43991\nfileID=201194",
-        "Name": "Jk\u0027s The Winking Skeever-43991-1-2-0-1619926333.7z",
-        "Size": 82506,
+        "Hash": "HRf40xppEEI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43991\nfileID=229466",
+        "Name": "Jk\u0027s The Winking Skeever-43991-1-2-1-1632080602.zip",
+        "Size": 300337,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Jkrojmal",
           "Description": "An enhanced Inn overhaul.",
-          "FileID": 201194,
+          "FileID": 229466,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43991/43991-1609798731-955846568.jpeg",
           "IsNSFW": false,
           "ModID": 43991,
           "Name": "JK\u0027s The Winking Skeever",
-          "Version": "1.2.0.0"
+          "Version": "1.2.1.0"
         }
       }
     },
@@ -7700,21 +7745,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "T6+VhYEFeJk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=158941",
-        "Name": "Lucien - Creation Club - Bone Wolf Patch-20035-1-5-0c-1599134970.rar",
-        "Size": 811879,
+        "Hash": "0MP1tGjKoeY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=230124",
+        "Name": "Lucien - Creation Club - Bone Wolf Patch-20035-1-6-2-1632397605.rar",
+        "Size": 811874,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Joseph Russell",
           "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
-          "FileID": 158941,
+          "FileID": 230124,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
           "IsNSFW": false,
           "ModID": 20035,
           "Name": "Lucien - Immersive Fully Voiced Male Follower",
-          "Version": "1.5.0.0c"
+          "Version": "1.6.2.0"
         }
       }
     },
@@ -7736,6 +7781,69 @@
           "ModID": 20035,
           "Name": "Lucien - Immersive Fully Voiced Male Follower",
           "Version": "1.5.0.0c"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cQD1sU8ZRdE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=230013",
+        "Name": "Lucien - Creation Club - Expanded Crossbow Pack Patch-20035-1-6-2-1632335463.rar",
+        "Size": 832064,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Joseph Russell",
+          "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
+          "FileID": 230013,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
+          "IsNSFW": false,
+          "ModID": 20035,
+          "Name": "Lucien - Immersive Fully Voiced Male Follower",
+          "Version": "1.6.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pAaOYMr9rDU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=230009",
+        "Name": "Lucien - Creation Club - Goblins Patch-20035-1-6-2-1632335342.rar",
+        "Size": 1585043,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Joseph Russell",
+          "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
+          "FileID": 230009,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
+          "IsNSFW": false,
+          "ModID": 20035,
+          "Name": "Lucien - Immersive Fully Voiced Male Follower",
+          "Version": "1.6.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dh6d9fYS4WM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=230007",
+        "Name": "Lucien -  Creation Club - Myrwatch Patch-20035-1-6-2-1632335174.rar",
+        "Size": 887635,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Joseph Russell",
+          "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
+          "FileID": 230007,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
+          "IsNSFW": false,
+          "ModID": 20035,
+          "Name": "Lucien - Immersive Fully Voiced Male Follower",
+          "Version": "1.6.2.0"
         }
       }
     },
@@ -8003,6 +8111,27 @@
           "Author": "GGUNIT",
           "Description": "Consistent and complete rework of Skyrim interiors lighting. This mod takes advantage of the latest developments in enb, including enb light, and has for main objective to offer a gaming experience as realistic as it is dramatic.",
           "FileID": 229011,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43158/43158-1607340742-1060911231.jpeg",
+          "IsNSFW": false,
+          "ModID": 43158,
+          "Name": "Lux",
+          "Version": "3.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cOmN08DRMqs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43158\nfileID=229334",
+        "Name": "Lux - Shadow Scene Node fix-43158-3-1-1632040497.rar",
+        "Size": 1386,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GGUNIT",
+          "Description": "Consistent and complete rework of Skyrim interiors lighting. This mod takes advantage of the latest developments in enb, including enb light, and has for main objective to offer a gaming experience as realistic as it is dramatic.",
+          "FileID": 229334,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43158/43158-1607340742-1060911231.jpeg",
           "IsNSFW": false,
@@ -9402,6 +9531,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "bKmYVEZOXyU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=24493\nfileID=86593",
+        "Name": "OAE - Tablecloths-24493-1-0-1-1553758936.7z",
+        "Size": 54113,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SomethingObscure",
+          "Description": "A replacement for the Whiterun and Sovngarde tablecloths.  Includes a plugin which tweaks the positions of some tablecloths, and much of the tabletop clutter in Sovngarde.",
+          "FileID": 86593,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/24493/24493-1553622698-640618423.png",
+          "IsNSFW": false,
+          "ModID": 24493,
+          "Name": "Obscure\u0027s Art Editions - Tablecloths",
+          "Version": "1.0.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "BmkqKFoJE40=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=46000\nfileID=219515",
         "Name": "Odin 1.9.0-46000-1-9-0-1628362278.zip",
@@ -9760,15 +9910,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "1PKRehiRjt8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=19012\nfileID=125965",
-        "Name": "Pandorable\u0027s NPCs SE-19012-1-4-1582680071.rar",
-        "Size": 189444038,
+        "Hash": "2kUFy19UgZ8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=19012\nfileID=229960",
+        "Name": "PAN_NPCs-19012-1-4-1632324450.rar",
+        "Size": 189443994,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Pandorable",
           "Description": "A visual overhaul of 85 female NPCs.",
-          "FileID": 125965,
+          "FileID": 229960,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19012/19012-1582678867-798894430.png",
           "IsNSFW": false,
@@ -9859,6 +10009,27 @@
           "ModID": 50617,
           "Name": "Pandorable\u0027s NPCs - males 2",
           "Version": "f1.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UV7C5JRMY+I=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55877\nfileID=229684",
+        "Name": "PAN_NPCs - Sovngarde-55877-1-0-1632163033.rar",
+        "Size": 102148728,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Pandorable",
+          "Description": "Dead people deserve to be pretty too.",
+          "FileID": 229684,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55877/109031-1632154005-789479461.png",
+          "IsNSFW": false,
+          "ModID": 55877,
+          "Name": "Pandorable\u0027s Heroes of Sovngarde",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -12188,21 +12359,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "JJIJk8xouHY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54924\nfileID=228376",
-        "Name": "SPID for Footprints-54924-2-4-1631634636.zip",
-        "Size": 47143,
+        "Hash": "HuyW3mdqVT0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54924\nfileID=230055",
+        "Name": "SPID for Footprints-54924-2--5-1632347120.zip",
+        "Size": 46672,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "reza9892",
           "Description": "Uses SPID to distribute the footprints spells from the footprints mod, instead of the cloak spell of the original mod",
-          "FileID": 228376,
+          "FileID": 230055,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54924/54924-1630531907-1463307100.png",
           "IsNSFW": false,
           "ModID": 54924,
           "Name": "SPID for Footprints",
-          "Version": "2.4.0.0"
+          "Version": "2.5.0.0"
         }
       }
     },
@@ -12245,6 +12416,27 @@
           "ModID": 9670,
           "Name": "Splendor - Dragon Variants SE",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4okM/kHYNSM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=26191\nfileID=94258",
+        "Name": "squirrels (sse)-26191-1-1559278127.rar",
+        "Size": 11042251,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mihail",
+          "Description": "Squirrels are fast small rodents that can be found in the wilderness of the temperate forest regions of Skyrim, Cyrodiil, High Rock, Valenwood and Elsweyr. In Skyrim 2 variants can be found, the red and the grey one, both subspecies of the same type of squirrel.",
+          "FileID": 94258,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26191/26191-1559277976-1168950013.jpeg",
+          "IsNSFW": false,
+          "ModID": 26191,
+          "Name": "Squirrels- Mihail Monsters and Animals (MIHAIL SSE PORT)",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -13377,21 +13569,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "IaVhRiYBrH8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=51614\nfileID=225529",
-        "Name": "True Directional Movement-51614-1-4-2-1630571759.zip",
-        "Size": 699388,
+        "Hash": "chVBXvRVOaw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=51614\nfileID=230041",
+        "Name": "True Directional Movement-51614-1-4-3-1632340170.zip",
+        "Size": 699253,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ersh",
           "Description": "Overhauls the third person gameplay similarly to modern action RPGs, entirely through SKSE. Move and attack in any direction. Includes a custom target lock component and animated healthbar widget, target headtracking, projectile aim support during target lock, boss bars, mount support and more! Modular and customizable through MCM.",
-          "FileID": 225529,
+          "FileID": 230041,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51614/51614-1627839075-1842122342.gif",
           "IsNSFW": false,
           "ModID": 51614,
           "Name": "True Directional Movement - Modernized Third Person Gameplay",
-          "Version": "1.4.2.0"
+          "Version": "1.4.3.0"
         }
       }
     },
@@ -13734,21 +13926,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bGkbkpiBhAk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54061\nfileID=222000",
-        "Name": "Vanilla Script microOptimizations-54061-1-0-1629273565.zip",
-        "Size": 273868,
+        "Hash": "Kc+1AXYx+4I=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54061\nfileID=229685",
+        "Name": "Vanilla Script microOptimizations-54061-1-1a-1632163235.zip",
+        "Size": 335991,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Subhuman0100",
           "Description": "Rewriting many of the vanilla game scripts with the goal of increasing efficiency.  Replacing slower \u0022convenience functions\u0022 with their faster native counterparts.    Re-ordering condition checks to implement \u0022fail fast fail early\u0022 approach.  Cacheing of often-used values.",
-          "FileID": 222000,
+          "FileID": 229685,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54061/54061-1629273233-1433404228.png",
           "IsNSFW": false,
           "ModID": 54061,
           "Name": "Vanilla Script (micro)Optimizations",
-          "Version": "1.0.0.0"
+          "Version": "1.1.0.0a"
         }
       }
     },
@@ -14630,21 +14822,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "R3uV8FY3MGo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32382\nfileID=228963",
-        "Name": "DynDOLOD 3.00-32382-Alpha-43-1631887290.7z",
-        "Size": 42572356,
+        "Hash": "ci5hY6sW3js=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32382\nfileID=229338",
+        "Name": "DynDOLOD 3.00-32382-Alpha-44-1632040828.7z",
+        "Size": 42577483,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sheson",
           "Description": "DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD \u002B tree LOD and the new,  optional dynamic distant object LOD in a few simple steps.",
-          "FileID": 228963,
+          "FileID": 229338,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32382/32382-1580900155-1292674369.jpeg",
           "IsNSFW": false,
           "ModID": 32382,
           "Name": "Dynamic Distant Objects LOD - DynDOLOD",
-          "Version": "Alpha-43"
+          "Version": "Alpha-44"
         }
       }
     },
@@ -15128,21 +15320,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uMdcyHrYmz8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=52897\nfileID=227680",
-        "Name": "DynDOLOD Resources SE 3-52897-Alpha-12-1631388372.7z",
-        "Size": 60074206,
+        "Hash": "c2TpO2C2D04=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=52897\nfileID=230145",
+        "Name": "DynDOLOD Resources SE 3-52897-Alpha-13-1632411335.7z",
+        "Size": 60074167,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sheson",
           "Description": "DynDOLOD Resources SE 3 required by DynDOLOD 3 for drastically improved tree and object LOD generation.",
-          "FileID": 227680,
+          "FileID": 230145,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/52897/108514-1627373276-1783344232.jpeg",
           "IsNSFW": false,
           "ModID": 52897,
           "Name": "DynDOLOD Resources SE 3",
-          "Version": "Alpha-12"
+          "Version": "Alpha-13"
         }
       }
     },
@@ -15275,21 +15467,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Wtzfo6m5wxg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=55518\nfileID=228030",
-        "Name": "Fixed Fixed Dragon Stalking Fix-55518-1-0-1631499484.zip",
-        "Size": 8367,
+        "Hash": "6N7lHdGNGMo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54625\nfileID=224150",
+        "Name": "Fixed Dragon Stalking Fix-54625-2-0-1-1630077293.7z",
+        "Size": 6419,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "KirbonatedBeverage",
-          "Description": "Attempted to resolve a perceived programming error that turned out not to be a programming error. Ignore this mod if you are already using a mod that fixes the dragon stalking bug",
-          "FileID": 228030,
+          "Author": "tarlazo",
+          "Description": "A re-upload of tarlazo\u0027s wonderful mod - Fixed Dragon Stalking Fix",
+          "FileID": 224150,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55518/55518-1631499063-2026018662.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54625/54625-1630076896-99228191.gif",
           "IsNSFW": false,
-          "ModID": 55518,
-          "Name": "Unnecessarily Fixed Fixed Dragon Stalking Fix",
-          "Version": "1.0.0.0"
+          "ModID": 54625,
+          "Name": "Fixed Dragon Stalking Fix (Re-Upload)",
+          "Version": "2.0.1.0"
         }
       }
     },
@@ -15336,28 +15528,28 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
-        "Hash": "HrG3K1qC8qs=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Grass Cache Generated Files.7z_a11e8956-75e5-4385-88ad-4ec244eb5a15",
+        "Hash": "htmfWV97oRs=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Grass Cache Generated Files.7z_be62a76a-2638-4999-bdd0-6c5c42ed1109",
         "Name": "Grass Cache Generated Files.7z",
-        "Size": 904450161,
+        "Size": 857876930,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Grass%20Cache%20Generated%20Files.7z_a11e8956-75e5-4385-88ad-4ec244eb5a15"
+          "Url": "https://authored-files.wabbajack.org/Grass%20Cache%20Generated%20Files.7z_be62a76a-2638-4999-bdd0-6c5c42ed1109"
         }
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
-        "Hash": "ANnJVba9UXA=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Grass Cache Generated Files (Creation Club).7z_932286ac-ec3d-4f43-8f09-55d107423941",
+        "Hash": "+6Don+wPbSg=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Grass Cache Generated Files (Creation Club).7z_862141a1-a9d1-4350-a633-17edbfe86792",
         "Name": "Grass Cache Generated Files (Creation Club).7z",
-        "Size": 922161223,
+        "Size": 874774518,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Grass%20Cache%20Generated%20Files%20(Creation%20Club).7z_932286ac-ec3d-4f43-8f09-55d107423941"
+          "Url": "https://authored-files.wabbajack.org/Grass%20Cache%20Generated%20Files%20(Creation%20Club).7z_862141a1-a9d1-4350-a633-17edbfe86792"
         }
       }
     },
@@ -16042,6 +16234,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "qG6W4ZI3oSQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32973\nfileID=184154",
+        "Name": "Tamrielic Textures SE 1 Landscapes 2K-32973-1-4-0-1612538781.7z",
+        "Size": 656785926,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ciathyza",
+          "Description": "A fresh and complete replacement of all Skyrim landscape textures in 4K (and 2K, 1K) glorious quality.",
+          "FileID": 184154,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32973/32973-1583594959-1500829976.jpeg",
+          "IsNSFW": false,
+          "ModID": 32973,
+          "Name": "Tamrielic Textures SE 1 - Landscapes",
+          "Version": "1.4.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "C9fOCZ2Wock=",
         "Meta": "[General]\ngameName=skyrim\nmodID=70260\nfileID=1000179149",
         "Name": "The Notice Board Redefined 2K (Performance)-70260-1-0.rar",
@@ -16435,27 +16648,6 @@
           "ModID": 53761,
           "Name": "Animated Static Reload Fix",
           "Version": "f1.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vq0yPITTA8k=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=55457\nfileID=227939",
-        "Name": "Apocalypse - Magic of Skyrim 2k-55457-1-1631468356.rar",
-        "Size": 211701206,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Enai Siaion and MrShadowBlood",
-          "Description": "Cleaned textures of Apocalypse - Magic of Skyrim with optional files for better quality. Properly cleaned textures lets Skyrim use less memory loading it so means more FPS for you!\n\n\n\nMore Enai Siaion cleaned textures on the way.",
-          "FileID": 227939,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55457/55457-1631466187-1879575803.jpeg",
-          "IsNSFW": false,
-          "ModID": 55457,
-          "Name": "Apocalypse - Magic of Skyrim Cleaned and Enhanced Textures",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -17100,13 +17292,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "xuqek+/A7NU=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Texgen Output (Creation Club).7z_a1240377-a624-44ff-82eb-bc67ab27f6d6",
+        "Hash": "iW3eEAIeyxk=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Texgen Output (Creation Club).7z_4d963c87-ad01-473c-a49d-2730a752c27f",
         "Name": "Elysium - Texgen Output (Creation Club).7z",
-        "Size": 75734311,
+        "Size": 75760348,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Texgen%20Output%20(Creation%20Club).7z_a1240377-a624-44ff-82eb-bc67ab27f6d6"
+          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Texgen%20Output%20(Creation%20Club).7z_4d963c87-ad01-473c-a49d-2730a752c27f"
         }
       }
     },
@@ -18129,21 +18321,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GfKyf/DkQj8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=55663\nfileID=229115",
-        "Name": "Legacy of The Dragonborn - Dwemer Compass Replacer-55663-0-3-1631945834.7z",
-        "Size": 64540654,
+        "Hash": "aAtOlzGosUc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55663\nfileID=229384",
+        "Name": "Legacy of The Dragonborn - Dwemer Compass Replacer-55663-0-3-1-1632064723.7z",
+        "Size": 64542003,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wSkeever Kreiste",
           "Description": "Replaces the Dwemer Compass from Legacy of The Dragonborn with higher quality model",
-          "FileID": 229115,
+          "FileID": 229384,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55663/55663-1631792394-1041402884.gif",
           "IsNSFW": false,
           "ModID": 55663,
           "Name": "Legacy of The Dragonborn - Dwemer Compass Replacer",
-          "Version": "0.3.0.0"
+          "Version": "0.3.1.0"
         }
       }
     },
@@ -19334,6 +19526,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "pxfHnPwMHXg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55852\nfileID=230099",
+        "Name": "Rudification - Rudy Candles Expanded-55852-1-1-1632375306.7z",
+        "Size": 47941131,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Daralima and InstanKor",
+          "Description": "Incorporates Rudy102\u0027s candles to objects that didn\u0027t have them before. With patches added for compatibility with other mods included!",
+          "FileID": 230099,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55852/55852-1632411734-420581230.png",
+          "IsNSFW": false,
+          "ModID": 55852,
+          "Name": "Rudification - Rudy Candles Expanded",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "ER4kF+u8Qso=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=39113\nfileID=186283",
         "Name": "Rudy ENB Cathedral Weathers required files Part II-39113-4-0-1613499204.rar",
@@ -19449,7 +19662,7 @@
           "Description": "Fixes bug with \u0022Rudy HQ - More Lights for ENB SE\u0022 mods where floating blood splatters apply incorrectly on the light glow halos",
           "FileID": 228318,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55582/55582-1631610381-601541455.gif",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55582/55582-1632054333-2124583308.gif",
           "IsNSFW": false,
           "ModID": 55582,
           "Name": "More Lights for ENB - Blood Splatter Fix",
@@ -22547,65 +22760,65 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dl+S99mHGMw=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Terrain LOD Output (Creation Club).7z_d3b436ec-4746-496d-860b-456f917020df",
+        "Hash": "EZjGjuDtyEk=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Terrain LOD Output (Creation Club).7z_3747139e-e98d-4324-8cf4-11b097043ebb",
         "Name": "Elysium - Terrain LOD Output (Creation Club).7z",
-        "Size": 228861740,
+        "Size": 348650463,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Terrain%20LOD%20Output%20(Creation%20Club).7z_d3b436ec-4746-496d-860b-456f917020df"
+          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Terrain%20LOD%20Output%20(Creation%20Club).7z_3747139e-e98d-4324-8cf4-11b097043ebb"
         }
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
-        "Hash": "Ao9Bh3cfAF8=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Terrain LOD Output.7z_73d48f57-a510-4601-842b-b9f1b74bf9ca",
+        "Hash": "OnF8VqMQjQw=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Terrain LOD Output.7z_5176eff8-105f-4b9c-b39e-1df85391aa58",
         "Name": "Elysium - Terrain LOD Output.7z",
-        "Size": 228906076,
+        "Size": 348635570,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Terrain%20LOD%20Output.7z_73d48f57-a510-4601-842b-b9f1b74bf9ca"
+          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Terrain%20LOD%20Output.7z_5176eff8-105f-4b9c-b39e-1df85391aa58"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HTc76/gNKBc=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Texgen Output.7z_3631e574-cafb-41cb-90d2-0e57e0727425",
+        "Hash": "AVfeoRB0CBU=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Texgen Output.7z_5e129c54-96ef-4e7c-a6b3-c73306de2916",
         "Name": "Elysium - Texgen Output.7z",
-        "Size": 75733832,
+        "Size": 75903717,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Texgen%20Output.7z_3631e574-cafb-41cb-90d2-0e57e0727425"
+          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Texgen%20Output.7z_5e129c54-96ef-4e7c-a6b3-c73306de2916"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "YCEL5GfT95U=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Texgen Output - Performance Mode.7z_fc7f2e23-f094-40d3-89a1-b4328c8bb4c9",
+        "Hash": "upPklbodqW4=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Texgen Output - Performance Mode.7z_70ce63c0-ae2e-4ff8-af15-acdf5a09db71",
         "Name": "Elysium - Texgen Output - Performance Mode.7z",
-        "Size": 54561878,
+        "Size": 54591475,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Texgen%20Output%20-%20Performance%20Mode.7z_fc7f2e23-f094-40d3-89a1-b4328c8bb4c9"
+          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Texgen%20Output%20-%20Performance%20Mode.7z_70ce63c0-ae2e-4ff8-af15-acdf5a09db71"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "RcJK2BEmUYg=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Texgen Output - Performance Mode (Creation Club).7z_c141c384-271a-40d6-b4bc-cea6479d1ca3",
+        "Hash": "E28OqZtCpiA=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Elysium - Texgen Output - Performance Mode (Creation Club).7z_c1c7ba0d-a12b-49f1-8491-9bdeb053b2ae",
         "Name": "Elysium - Texgen Output - Performance Mode (Creation Club).7z",
-        "Size": 54562069,
+        "Size": 54591635,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Texgen%20Output%20-%20Performance%20Mode%20(Creation%20Club).7z_c141c384-271a-40d6-b4bc-cea6479d1ca3"
+          "Url": "https://authored-files.wabbajack.org/Elysium%20-%20Texgen%20Output%20-%20Performance%20Mode%20(Creation%20Club).7z_c1c7ba0d-a12b-49f1-8491-9bdeb053b2ae"
         }
       }
     },
@@ -23704,21 +23917,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HofkaLukbxk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=55417\nfileID=227647",
-        "Name": "EVE - Ice skating fixed for real - No more attack skating movement-55417-1-1-1631375574.7z",
-        "Size": 87186,
+        "Hash": "DmtkygU04Ag=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55417\nfileID=229934",
+        "Name": "EVE - Ice skating fixed for real - No more attack skating movement-55417-1-3-1632307596.7z",
+        "Size": 86613,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Exalderan",
           "Description": "Fixes the infamous long-standing vanilla issue where attacking while slowly moving will make you slide across the ground giving the impression of an ice-skater.1H and 2H covered, NPC and Player.",
-          "FileID": 227647,
+          "FileID": 229934,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55417/55417-1631361593-754400028.gif",
           "IsNSFW": false,
           "ModID": 55417,
           "Name": "Ice skating fixed for real - No more attack sliding movement (NEMESIS compatible)",
-          "Version": "1.1.0.0"
+          "Version": "1.3.0.0"
         }
       }
     },
@@ -24586,15 +24799,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "h19bOSfOtNA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53626\nfileID=227106",
-        "Name": "Mrf\u0027s Markarth window fix-53626-2-1-1631157741.7z",
-        "Size": 180822,
+        "Hash": "treGwpJT/50=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53626\nfileID=230264",
+        "Name": "Mrf\u0027s Markarth meshes fix-53626-2-1-1632478059.7z",
+        "Size": 286413,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "mo ru feng",
           "Description": "A parallax Markarth and  metal reflections Dwemerruins  retexture with 1~4k options.Please read the instructions.",
-          "FileID": 227106,
+          "FileID": 230264,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53626/53626-1628663949-1115503508.jpeg",
           "IsNSFW": false,
@@ -24748,6 +24961,27 @@
           "ModID": 51364,
           "Name": "Northfire\u0027s Castle Volkihar Parallax",
           "Version": "f1.02"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tMgV8uNj94g=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=24491\nfileID=130254",
+        "Name": "OAE - Noble Shelves-24491-1-1-1-1585034000.7z",
+        "Size": 18820,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SomethingObscure",
+          "Description": "Drop-in replacements for the two noble wall shelves and the noble sideboard.",
+          "FileID": 130254,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/24491/24491-1553614415-472094575.png",
+          "IsNSFW": false,
+          "ModID": 24491,
+          "Name": "Obscure\u0027s Art Editions - Noble Shelves",
+          "Version": "1.1.1.0"
         }
       }
     },
@@ -26517,7 +26751,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Brumbek Soldierofwar",
-          "Description": "Add SMIM 3D rope to lumbermill mesh from The Great Town of Ivarstead and The Great Village of Mixwater Mill",
+          "Description": "Add SMIM 3D ropes to lumbermill meshes from The Great Town of Ivarstead and The Great Village of Mixwater Mill",
           "FileID": 137155,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35406/35406-1588253274-91234142.png",
@@ -27407,27 +27641,6 @@
           "ModID": 41834,
           "Name": "3W\u0027s - More lights for ENB SE - Mania tileset",
           "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "J/rnN4WAzOQ=",
-        "Meta": "[General]\ngameName=skyrim\nmodID=101450\nfileID=1000313757",
-        "Name": "5und43f1n3d317y\u0027s Eyes Uncompressed Normals x512-101450-0-0-1582431794.zip",
-        "Size": 584653,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "5und43f1n3d317y",
-          "Description": "I carefully re-textured ALL eyes to look like those of a living person \u002B fixed several incompatibilities and inconsistencies present in the original textures! Adds 397 NEW color options closely resembling Bethesda\u0027s original style!",
-          "FileID": 1000313757,
-          "GameName": "Skyrim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/110/images/101450/101450-1613859738-628817906.gif",
-          "IsNSFW": false,
-          "ModID": 101450,
-          "Name": "5und43f1n3d317y\u0027s Living Eyes",
-          "Version": "0.0.0.0"
         }
       }
     },
@@ -29410,7 +29623,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Brumbek Soldierofwar",
-          "Description": "Add SMIM 3D rope to lumbermill mesh from The Great Town of Ivarstead and The Great Village of Mixwater Mill",
+          "Description": "Add SMIM 3D ropes to lumbermill meshes from The Great Town of Ivarstead and The Great Village of Mixwater Mill",
           "FileID": 141823,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35406/35406-1588253274-91234142.png",
@@ -29886,27 +30099,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BNq8sleKlh8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=52335\nfileID=224505",
-        "Name": "Lux Patch Parallax-52335-1-1-1630205291.rar",
-        "Size": 5526408,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RemmyKun",
-          "Description": "ENB particle lights effect for the candles on some nordic ruins\u0027 walls and columns. No .esp :)",
-          "FileID": 224505,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/52335/52335-1626123509-1484895853.jpeg",
-          "IsNSFW": false,
-          "ModID": 52335,
-          "Name": "Particle Lights for ENB - Nordic Ruins Candles",
-          "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "uXSo2fvUtvk=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=42510\nfileID=170815",
         "Name": "Translucent Windows (Parallax)-42510-1-0-1605824217.zip",
@@ -29998,7 +30190,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kris Takahashi    Elianora    Bethesda",
-          "Description": "Correct environment map of Creation Club content. Currently: Dead Man\u0027s Dread, Dwarven Armored Mudcrab",
+          "Description": "Correct environment map of Creation Club content. \n\nCurrently: Dead Man\u0027s Dread, Dwarven Armored Mudcrab",
           "FileID": 147768,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35298/35298-1593331824-64914164.jpeg",
@@ -30019,7 +30211,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kris Takahashi    Elianora    Bethesda",
-          "Description": "Correct environment map of Creation Club content. Currently: Dead Man\u0027s Dread, Dwarven Armored Mudcrab",
+          "Description": "Correct environment map of Creation Club content. \n\nCurrently: Dead Man\u0027s Dread, Dwarven Armored Mudcrab",
           "FileID": 136731,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35298/35298-1593331824-64914164.jpeg",
@@ -30761,6 +30953,6 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 3
+  "Status": "Available",
+  "Failures": 0
 }
