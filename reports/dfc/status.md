@@ -1,16 +1,10 @@
 ## Validation Report - Devil's Food Cake (dfc)
 
 
-### Invalid (6)
-*  Release_50Shades_v01_05.zip
-*  Release_BadEnd_v01_05.zip
-*  Release_CreaturePackDLC_v01.zip
-*  Release_NSFWsoundpack_03_01.zip
-*  Staged Leito plus_1.0.6.7z
-*  Vadermania[AAF].rar
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (314)
+### Valid (320)
 *  (Optional) LightUp2.0_MCG_Version_1.0.rar
 *  [1_FN P90-22871-1-4-2.zip](https://www.nexusmods.com/fallout4/mods/22871/?tab=files&file_id=97389)
 *  [1.5.11b - TruBy9 UltraWide Fallout 4 Public BETA Release-24630-1-5-11b-1565654842.7z](https://www.nexusmods.com/fallout4/mods/24630/?tab=files&file_id=164269)
@@ -242,6 +236,10 @@
 *  RealHandcuffs.0.4.14.7z
 *  [Realistic Conversations-32514-1-0.zip](https://www.nexusmods.com/fallout4/mods/32514/?tab=files&file_id=132517)
 *  [Realistic Roads - Fade (2K)-12137-2-1-1562393237.zip](https://www.nexusmods.com/fallout4/mods/12137/?tab=files&file_id=161351)
+*  Release_50Shades_v01_05.zip
+*  Release_BadEnd_v01_05.zip
+*  Release_CreaturePackDLC_v01.zip
+*  Release_NSFWsoundpack_03_01.zip
 *  [Retextured Chems 2 - Ephla's Unique Chems-18867-0-6.zip](https://www.nexusmods.com/fallout4/mods/18867/?tab=files&file_id=78697)
 *  [RobCo Recon Scope Replacer - Main File-36374-1-03-1558554685.7z](https://www.nexusmods.com/fallout4/mods/36374/?tab=files&file_id=158355)
 *  [RPG-7V2 Replacer - FOMOD Installer-34212-1-3-1558138314.7z](https://www.nexusmods.com/fallout4/mods/34212/?tab=files&file_id=158098)
@@ -269,6 +267,7 @@
 *  [Springfield Armory M1A-41999-1-0-1579088521.rar](https://www.nexusmods.com/fallout4/mods/41999/?tab=files&file_id=174379)
 *  [SREP Redux-46267-v0-99D-1618280663.7z](https://www.nexusmods.com/fallout4/mods/46267/?tab=files&file_id=205767)
 *  [SRP v1.14-3265-1-14.zip](https://www.nexusmods.com/fallout4/mods/3265/?tab=files&file_id=133652)
+*  Staged Leito plus_1.0.6.7z
 *  [Start Me Up - Alternate Start and Quick Start-18946-2-0.zip](https://www.nexusmods.com/fallout4/mods/18946/?tab=files&file_id=77748)
 *  [Steamer Trunk 1 Olive and Brown-14035-.zip](https://www.nexusmods.com/fallout4/mods/14035/?tab=files&file_id=55534)
 *  [Steyr AUG - 1.0 - 4K-43419-1-0-1581304588.7z](https://www.nexusmods.com/fallout4/mods/43419/?tab=files&file_id=175707)
@@ -295,6 +294,7 @@
 *  [TRUBY9 ULTRAWIDESCREEN DEF_INV compatibility fix-43278-v1-0-1580573605.7z](https://www.nexusmods.com/fallout4/mods/43278/?tab=files&file_id=175176)
 *  [Unofficial Fallout 4 Patch-4598-2-1-3-1622921619.7z](https://www.nexusmods.com/fallout4/mods/4598/?tab=files&file_id=209596)
 *  [Urban Food Expanded-18065-1-0.7z](https://www.nexusmods.com/fallout4/mods/18065/?tab=files&file_id=72859)
+*  Vadermania[AAF].rar
 *  [Valentine REBORN - HD Retexture - V2 - Blue Eyes-9568-2-0.7z](https://www.nexusmods.com/fallout4/mods/9568/?tab=files&file_id=90547)
 *  Vioxsis' Strap-On's of Fallout 4.7z
 *  [Visible Galaxy Dim-19127-1-0.7z](https://www.nexusmods.com/fallout4/mods/19127/?tab=files&file_id=91215)
