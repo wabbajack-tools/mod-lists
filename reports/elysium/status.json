@@ -2,7 +2,7 @@
   "MachineURL": "elysium",
   "Name": "Elysium",
   "Version": "5.5.1",
-  "ModListHash": "I9C6h0Mrsq8=",
+  "ModListHash": "+7hE+jBn1gg=",
   "Archives": [
     {
       "Status": "Valid",
@@ -10246,6 +10246,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "SsuC9/5MBeI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56130\nfileID=230897",
+        "Name": "Quest Journal Limit Bug Fixer-56130-0-1-1632701660.7z",
+        "Size": 5374,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wankingSkeever",
+          "Description": "An utility to bring back quests that disappeared due to quest journal limit bug",
+          "FileID": 230897,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56130/56130-1632671639-620410825.png",
+          "IsNSFW": false,
+          "ModID": 56130,
+          "Name": "Quest Journal Limit Bug Fixer - Recover Disappeared Quests",
+          "Version": "0.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "UChqwEK78W4=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=18416\nfileID=105157",
         "Name": "QuestsAreInSkyrim_USSEP_1_2_reupload-18416-1-2-1567347964.zip",
@@ -16633,21 +16654,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "a8qAH8wNVFQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=227570",
-        "Name": "Assorted mesh fixes-32117-0-26-1631350084.7z",
-        "Size": 8034338,
+        "Hash": "gTXFOkZUn4g=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=230942",
+        "Name": "Assorted mesh fixes-32117-0-27-1632734279.7z",
+        "Size": 8291587,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wankingSkeever",
           "Description": "Fixes various issues with vanilla Skyrim meshes that causes them to render incorrectly",
-          "FileID": 227570,
+          "FileID": 230942,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32117/32117-1612599331-161051453.png",
           "IsNSFW": false,
           "ModID": 32117,
           "Name": "Assorted mesh fixes",
-          "Version": "0.26.0.0"
+          "Version": "0.27.0.0"
         }
       }
     },
@@ -29924,6 +29945,27 @@
           "IsNSFW": false,
           "ModID": 29180,
           "Name": "Better beast race scars",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5FcO6HsNcwM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=34889\nfileID=134882",
+        "Name": "AGO XP32 Patch 1.0.0-34889-1-0-0-1587203275.zip",
+        "Size": 176251,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MasterZenII",
+          "Description": "Makes the XP32 styles system in the MCM apply the appropriate animations from Archery Gameplay Overhaul.",
+          "FileID": 134882,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34889/34889-1587204052-1330267005.png",
+          "IsNSFW": false,
+          "ModID": 34889,
+          "Name": "Compatibility Patch for Archery Gameplay Overhaul (AGO) and XP32 Skeleton Styles MCM",
           "Version": "1.0.0.0"
         }
       }
