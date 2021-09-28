@@ -1,15 +1,13 @@
 ## Validation Report - Dungeons & Deviousness: Director's Cut (dungeons_and_deviousness)
 
 
-### Invalid (5)
+### Invalid (3)
 *  2138883329_SLAL_Billyy_Animationsv4.7SE.zip
 *  766663625_BakaFactoryABCLESE2.26V.7z
 *  CO More Creatures 1.7 (No Jail Creatures).rar
-*  Sexlab Survival SSE 0.662 Beta.7z
-*  Shocky Pose Pack SE.7z
 ### Updated (0)
 ### Mirrored (0)
-### Valid (891)
+### Valid (893)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
@@ -708,6 +706,7 @@
 *  SexLab CumTextures Remake v1.2.7z
 *  SexLab Parasites CBBE SE and 3BBB Bodyslides V2.7z
 *  SexLab Solutions v3 - Revisited.7z
+*  Sexlab Survival SSE 0.662 Beta.7z
 *  SexLab-Separate-Orgasm-SE-1.6.7 SL1.63b8.7z
 *  [SexLabFrameworkSE_v163_BETA8.7z](https://mega.nz/file/jIRgUKDZ#1Px1-XXNSIwDKMeZc4IZe-X6dMXpvlVbNMUrOTiXNNI)
 *  Sexy Starting Options SE v1.0.1.7z
@@ -716,6 +715,7 @@
 *  [Sheps Male Tattoo Collection SE-22636-2-0-1547659292.rar](https://www.nexusmods.com/skyrimspecialedition/mods/22636/?tab=files&file_id=78524)
 *  [Sheps Tattoo Collection SE-22636-2-0-1547659218.rar](https://www.nexusmods.com/skyrimspecialedition/mods/22636/?tab=files&file_id=78523)
 *  [Shina High Poly Head Preset-42281-1-0-1605185415.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42281/?tab=files&file_id=169755)
+*  Shocky Pose Pack SE.7z
 *  [Simple Dual Sheath-50049-1-0-0-1621270064.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=204015)
 *  Simple Slavery Plus Plus 6.3.12 [SE].zip
 *  [Simply Balanced - 1.4.5-15541-1-4-5-1567316322.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15541/?tab=files&file_id=105089)
