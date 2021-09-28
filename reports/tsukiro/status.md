@@ -1,12 +1,10 @@
 ## Validation Report - Tsukiro (tsukiro)
 
 
-### Invalid (2)
-*  [Dark Sorceress [SE] - BHUNP (w optional SMP).7z](https://www.mediafire.com/file/sr6hvjms1dfzotx/Dark_Sorceress_%255BSE%255D_-_BHUNP_%2528w_optional_SMP%2529.7z/file)
-*  [Paragon Sparrow Rogue.7z](https://www.mediafire.com/file/f9ekncasa8ddhus/Paragon+Sparrow+Rogue.7z/file)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (705)
+### Valid (707)
 *  [---Lucien Replacer SE Younger Face version-38116-1-2-1604513810.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38116/?tab=files&file_id=168611)
 *  [(2) Community Overlays 1 - Main - UNP  4K-22487-1-0-1-1547248023.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77987)
 *  [(3) Community Overlays 2 - Main - UUNP and Male-26224-1-0-1559372410.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94369)
@@ -179,6 +177,7 @@
 *  DAR - Pretty Sit Idles + Random Female Sitting.zip
 *  [Dark Disciple [SE] - CBBE - BHUNP.7z](https://www.mediafire.com/file/0li0x872uuwowvl/Dark_Disciple_%255BSE%255D_-_CBBE_-_BHUNP.7z/)
 *  [Dark Knight Armor 4K-40775-1-1-1602262257.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40775/?tab=files&file_id=164652)
+*  [Dark Sorceress [SE] - BHUNP (w optional SMP).7z](https://www.mediafire.com/file/sr6hvjms1dfzotx/Dark_Sorceress_%255BSE%255D_-_BHUNP_%2528w_optional_SMP%2529.7z/file)
 *  [DarkenD 1.4 SSE-10423-1-4.rar](https://www.nexusmods.com/skyrimspecialedition/mods/10423/?tab=files&file_id=44256)
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -480,6 +479,7 @@
 *  [Pandorable's NPCs Dawnguard SE - Salt and Wind Textures-25439-1-0-1556539604.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25439/?tab=files&file_id=90159)
 *  [Papyrus Extender SSE - 4.5.1-22854-4-5-1-1629475714.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=222457)
 *  [PapyrusUtil SE - Scripting Utility Functions-13048-3-9-1580810594.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=122686)
+*  [Paragon Sparrow Rogue.7z](https://www.mediafire.com/file/f9ekncasa8ddhus/Paragon+Sparrow+Rogue.7z/file)
 *  [Paramount - FPS Galore ModPack (LITE)-36208-3-1-3-1627947044.rar](https://www.nexusmods.com/skyrimspecialedition/mods/36208/?tab=files&file_id=218451)
 *  [Part 1) SEKIRO HUD-41428-2-1-1617610892.zip](https://www.nexusmods.com/skyrimspecialedition/mods/41428/?tab=files&file_id=196108)
 *  [Part 2) SEKIRO COMBAT-41428-2-2-3-1627139305.zip](https://www.nexusmods.com/skyrimspecialedition/mods/41428/?tab=files&file_id=216434)

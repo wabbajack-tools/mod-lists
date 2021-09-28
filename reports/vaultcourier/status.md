@@ -1,12 +1,10 @@
 ## Validation Report - The Vault Courier: DCNV (vaultcourier)
 
 
-### Invalid (2)
-*  [BrokenSteel.7z](https://www.mediafire.com/download/fwksyu0v6auw32u/BrokenSteel.7z)
-*  [ThePitt.7z](https://www.mediafire.com/download/boi3u7tgqan5htt/ThePitt.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (231)
+### Valid (233)
 *  _3e582da872c15767b57a7ca4f1e5d9b7a2dbb03909e1ce64c674bb61a7f33407_
 *  [(TTW) OREO Standalone-70959-1-0a-1611795426.zip](https://www.nexusmods.com/newvegas/mods/70959/?tab=files&file_id=1000070310)
 *  [1stPar 5.0-69403-5-00-1603823682.zip](https://www.nexusmods.com/newvegas/mods/69403/?tab=files&file_id=1000066892)
@@ -41,6 +39,7 @@
 *  [Better Burned Man-41974-1-0.rar](https://www.nexusmods.com/newvegas/mods/41974/?tab=files&file_id=91388)
 *  [BLEED-61141-1-7-3-1551409542.7z](https://www.nexusmods.com/newvegas/mods/61141/?tab=files&file_id=1000052361)
 *  [BOA NV The Book Of Flesh-39873.7z](https://www.nexusmods.com/newvegas/mods/39873/?tab=files&file_id=86074)
+*  [BrokenSteel.7z](https://www.mediafire.com/download/fwksyu0v6auw32u/BrokenSteel.7z)
 *  [Casino Crowds-71037-1-2-1614893989.rar](https://www.nexusmods.com/newvegas/mods/71037/?tab=files&file_id=1000072810)
 *  [Casino Exchange All 1-5a-35701-1-5.7z](https://www.nexusmods.com/newvegas/mods/35701/?tab=files&file_id=108522)
 *  [Cazaclaws 1.1-58606-1-1.rar](https://www.nexusmods.com/newvegas/mods/58606/?tab=files&file_id=1000028259)
@@ -211,6 +210,7 @@
 *  [The Regulators-66266-1-4-1552255674.7z](https://www.nexusmods.com/newvegas/mods/66266/?tab=files&file_id=1000052520)
 *  [The Spaminator - FormID List Integration Edition-69740-1-1-1598071553.rar](https://www.nexusmods.com/newvegas/mods/69740/?tab=files&file_id=1000064902)
 *  [The Weapon Mod Menu-44515-1-2.7z](https://www.nexusmods.com/newvegas/mods/44515/?tab=files&file_id=1000001686)
+*  [ThePitt.7z](https://www.mediafire.com/download/boi3u7tgqan5htt/ThePitt.7z)
 *  [TTW A World of Pain A World of Pain for Fallout 3-66268-1-01-1552236281.7z](https://www.nexusmods.com/newvegas/mods/66268/?tab=files&file_id=1000052504)
 *  [TTW DLC Sortomatic Homes 1-0-65988-1-0-1542603998.7z](https://www.nexusmods.com/newvegas/mods/65988/?tab=files&file_id=1000050305)
 *  [TTW New Vegas Speech Checks-68736-1-1-1587740028.7z](https://www.nexusmods.com/newvegas/mods/68736/?tab=files&file_id=1000061168)
