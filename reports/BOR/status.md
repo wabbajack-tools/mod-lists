@@ -1,10 +1,11 @@
 ## Validation Report - Box of Rockets (BOR)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [GU_Core.zip](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/download/1.1/GU_Core.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (61)
+### Valid (60)
 *  [BetterTimeWarp-1.8.0-2.3.12.6-180.zip](https://github.com/linuxgurugamer/BetterTimeWarpContinued/releases/download/2.3.12.6/BetterTimeWarp-1.8.0-2.3.12.6-180.zip)
 *  [Blueshift.zip](https://github.com/Angel-125/Blueshift/releases/download/v1.3.5/Blueshift.zip)
 *  [ClickThroughBlocker-1.10.1-0.1.10.15.zip](https://github.com/linuxgurugamer/ClickThroughBlocker/releases/download/0.1.10.15/ClickThroughBlocker-1.10.1-0.1.10.15.zip)
@@ -17,7 +18,6 @@
 *  [EditorExtensionsRedux-1.10.1-3.4.2.zip](https://github.com/linuxgurugamer/EditorExtensionsRedux/releases/download/3.4.2/EditorExtensionsRedux-1.10.1-3.4.2.zip)
 *  [EVE-Redux1.11.2.1.zip](https://github.com/LGhassen/EnvironmentalVisualEnhancements/releases/download/1.11.2.1/EVE-Redux1.11.2.1.zip)
 *  [Firespitter_7.17.zip](https://github.com/snjo/Firespitter/releases/download/v7.17/Firespitter_7.17.zip)
-*  [GU_Core.zip](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/download/1.1/GU_Core.zip)
 *  [HeatControl_0_6_0.zip](https://github.com/post-kerbin-mining-corporation/HeatControl/releases/download/0.6.0/HeatControl_0_6_0.zip)
 *  [HideEmptyTechTreeNodes-1.3.0.zip](https://github.com/Orthethac/HideEmptyTechTreeNodes/releases/download/v1.3.0/HideEmptyTechTreeNodes-1.3.0.zip)
 *  [HyperEdit-1.5.8_for-KSP-1.4.4.zip](https://wabbajack.b-cdn.net/HyperEdit-1.5.8_for-KSP-1.4.4.zip_b2beaf2c-f77b-4a4b-b527-1f8643301715)
