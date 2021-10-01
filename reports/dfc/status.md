@@ -1,10 +1,11 @@
 ## Validation Report - Devil's Food Cake (dfc)
 
 
-### Invalid (0)
+### Invalid (1)
+*  CaptiveTattoos3.0.1.7z
 ### Updated (0)
 ### Mirrored (0)
-### Valid (320)
+### Valid (319)
 *  (Optional) LightUp2.0_MCG_Version_1.0.rar
 *  [1_FN P90-22871-1-4-2.zip](https://www.nexusmods.com/fallout4/mods/22871/?tab=files&file_id=97389)
 *  [1.5.11b - TruBy9 UltraWide Fallout 4 Public BETA Release-24630-1-5-11b-1565654842.7z](https://www.nexusmods.com/fallout4/mods/24630/?tab=files&file_id=164269)
@@ -58,7 +59,6 @@
 *  [Calamity Weathers - Far Harbor-27158-FH-1-4.zip](https://www.nexusmods.com/fallout4/mods/27158/?tab=files&file_id=112160)
 *  [Calamity Weathers - Nuka World-27158-NW-1-2.zip](https://www.nexusmods.com/fallout4/mods/27158/?tab=files&file_id=112161)
 *  [Caliente's Beautiful Bodies Enhancer - v2.6.3-15-2-6-3-1587299180.7z](https://www.nexusmods.com/fallout4/mods/15/?tab=files&file_id=179786)
-*  CaptiveTattoos3.0.1.7z
 *  [CAWS_v1.0-46718-1-0-1596618609.zip](https://www.nexusmods.com/fallout4/mods/46718/?tab=files&file_id=188426)
 *  [CBBE Ida Body Texture (Vanilla-like version)-10726-1-1.rar](https://www.nexusmods.com/fallout4/mods/10726/?tab=files&file_id=42647)
 *  [CC's HQ Diamond City Textures - 0.4 - 2K-20784-0-4.7z](https://www.nexusmods.com/fallout4/mods/20784/?tab=files&file_id=96955)
