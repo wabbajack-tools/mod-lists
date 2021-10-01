@@ -1,10 +1,11 @@
 ## Validation Report - Big Warden (big_warden)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Nightcrawler_Pearl.rar](https://mega.nz/file/NokwgJKD#ViZafoOOfa_za0nBQL38Vp0q8zJ6tttijS0yOx1EEJk)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (152)
+### Valid (151)
 *  [ GDApp-214-1.rar](https://www.nexusmods.com/dragonage/mods/214/?tab=files&file_id=12111)
 *  [(9) Mismatched Armors-5504-1-0-1623781751.zip](https://www.nexusmods.com/dragonage/mods/5504/?tab=files&file_id=1000008210)
 *  [[sapphim] Keeper Avvar Ports.7z](https://www.mediafire.com/file/scbebe74e7i46ly/%255Bsapphim%255D_Keeper_Avvar_Ports.7z/file)
@@ -103,7 +104,6 @@
 *  [Nightcrawler_Cola.rar](https://mega.nz/file/l0MB0axS#2GdFQkEVx5kdbS4K18fV3F7MP_PjCbe5cYla3MDwl3w)
 *  [Nightcrawler_Dante.rar](https://mega.nz/file/Bk91AA6Y#nV2_XReHgOcvHAYX9rBoseCbUzojjBfK_UOSr5yhymQ)
 *  [Nightcrawler_Hope.rar](https://mega.nz/file/E4lGiKCJ#K-ZLr1IOk0XRvkHD0aFH9wdwyMasHO5bx2qm5VGJvdU)
-*  [Nightcrawler_Pearl.rar](https://mega.nz/file/NokwgJKD#ViZafoOOfa_za0nBQL38Vp0q8zJ6tttijS0yOx1EEJk)
 *  [Nightcrawler_Sangrita.rar](https://mega.nz/file/0lkyRa5R#C0SsSN8uTf7zBjEmdeHncb7nTIAyQwN5AXClWU2LDnI)
 *  [No-Kirkwall No-Glow Ser Isaac for DAO-4091-Final.7z](https://www.nexusmods.com/dragonage/mods/4091/?tab=files&file_id=1000005298)
 *  [Normal Textures-5402-1-00-1611204552.zip](https://www.nexusmods.com/dragonage/mods/5402/?tab=files&file_id=1000007669)
