@@ -19,7 +19,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "Mirrored",
       "Original": {
         "Hash": "vKMKKroIyOM=",
         "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.0/Mod.Organizer-2.4.0.7z",
@@ -29,6 +29,16 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.0/Mod.Organizer-2.4.0.7z"
+        }
+      },
+      "PatchedFrom": {
+        "Hash": "vKMKKroIyOM=",
+        "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/bca30a2aba08c8e3",
+        "Name": "Mod.Organizer-2.4.0.7z",
+        "Size": 89306961,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://mirror.wabbajack.org/bca30a2aba08c8e3"
         }
       }
     },

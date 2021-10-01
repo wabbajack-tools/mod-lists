@@ -5,7 +5,7 @@
   "ModListHash": "phOl2qSCbB0=",
   "Archives": [
     {
-      "Status": "Valid",
+      "Status": "Mirrored",
       "Original": {
         "Hash": "vKMKKroIyOM=",
         "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.0/Mod.Organizer-2.4.0.7z",
@@ -15,6 +15,16 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.0/Mod.Organizer-2.4.0.7z"
+        }
+      },
+      "PatchedFrom": {
+        "Hash": "vKMKKroIyOM=",
+        "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/bca30a2aba08c8e3",
+        "Name": "Mod.Organizer-2.4.0.7z",
+        "Size": 89306961,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://mirror.wabbajack.org/bca30a2aba08c8e3"
         }
       }
     },
@@ -201,7 +211,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "yUpEIeNl0Js=",
         "Meta": "[General]\ndirectURL=https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/download/1.1/GU_Core.zip",
@@ -326,7 +336,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "7XPq1lc216Q=",
         "Meta": "[General]\ndirectURL=https://spacedock.info/mod/172/KSP%20Interstellar%20Extended/download/1.26.26",
@@ -648,7 +658,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "Mirrored",
       "Original": {
         "Hash": "GoCOyUN6QbE=",
         "Meta": "[General]\ndirectURL=https://github.com/post-kerbin-mining-corporation/NearFutureExploration/releases/download/1.1.1/NearFutureExploration_1_1_1.zip",
@@ -658,6 +668,16 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/post-kerbin-mining-corporation/NearFutureExploration/releases/download/1.1.1/NearFutureExploration_1_1_1.zip"
+        }
+      },
+      "PatchedFrom": {
+        "Hash": "GoCOyUN6QbE=",
+        "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/1a808ec9437a41b1",
+        "Name": "NearFutureExploration_1_1_1.zip",
+        "Size": 42380262,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://mirror.wabbajack.org/1a808ec9437a41b1"
         }
       }
     },
@@ -690,7 +710,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "Mirrored",
       "Original": {
         "Hash": "uhQTLLdrPaU=",
         "Meta": "[General]\ndirectURL=https://github.com/post-kerbin-mining-corporation/NearFutureSpacecraft/releases/download/1.4.1/NearFutureSpacecraft_1_4_1.zip",
@@ -700,6 +720,16 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/post-kerbin-mining-corporation/NearFutureSpacecraft/releases/download/1.4.1/NearFutureSpacecraft_1_4_1.zip"
+        }
+      },
+      "PatchedFrom": {
+        "Hash": "uhQTLLdrPaU=",
+        "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/ba14132cb76b3da5",
+        "Name": "NearFutureSpacecraft_1_4_1.zip",
+        "Size": 91193997,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://mirror.wabbajack.org/ba14132cb76b3da5"
         }
       }
     },
@@ -760,7 +790,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "Gp+s79UfOTw=",
         "Meta": "[General]\ndirectURL=https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/download/1.1/System_AlphaCentauri.zip",
@@ -774,7 +804,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "iyKFlTW4AJs=",
         "Meta": "[General]\ndirectURL=https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/download/1.1/System_EpsilonEridani.zip",
@@ -802,7 +832,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "21NyV6k6sH0=",
         "Meta": "[General]\ndirectURL=https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/download/1.1/System_Luhman16.zip",
@@ -816,7 +846,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "MNgkhr6vsg0=",
         "Meta": "[General]\ndirectURL=https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/download/1.1/System_Sirius.zip",
@@ -859,5 +889,5 @@
     }
   ],
   "Status": "Failed",
-  "Failures": 2
+  "Failures": 6
 }
