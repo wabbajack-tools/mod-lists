@@ -1,8 +1,8 @@
 {
   "MachineURL": "big_warden",
   "Name": "Big Warden",
-  "Version": "3.1",
-  "ModListHash": "4PiCzjI2RDk=",
+  "Version": "3.1.1",
+  "ModListHash": "89tLSCnF5jg=",
   "Archives": [
     {
       "Status": "Valid",
@@ -2293,7 +2293,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "vkP2gR8hDx8=",
         "Meta": "[General]\ndirectURL=https://mega.nz/file/x4lS1Sgb#ISHC6QoCM-GdW-Q4Pm93AEF_UVcqJWos-5CafhJMyok",
@@ -2446,27 +2446,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "g/RuXy1X/zA=",
-        "Meta": "[General]\ngameName=\nmodID=5560\nfileID=1000008402",
-        "Name": "Thedas Redone - Realistic Teeth-5560-1-2-1632206169.rar",
-        "Size": 7444301,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "neoncolor",
-          "Description": "Overhaul of NPCs faces, in order to make them more realistic and interesting.\n\n At the moment, 167 NPCs have been changed.",
-          "FileID": 1000008402,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5560/5560-1631593589-1763261959.jpeg",
-          "IsNSFW": false,
-          "ModID": 5560,
-          "Name": "Thedas Redone",
-          "Version": "1.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "zRhwwgN7/i0=",
         "Meta": "[General]\ndirectURL=https://www.moddb.com/downloads/start/110423?referer=https%3A%2F%2Fwww.nexusmods.com%2F",
         "Name": "cgi_leliana.7z",
@@ -2526,27 +2505,6 @@
         "State": {
           "$type": "MegaDownloader, Wabbajack.Lib",
           "Url": "https://mega.nz/file/E4lGiKCJ#K-ZLr1IOk0XRvkHD0aFH9wdwyMasHO5bx2qm5VGJvdU"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2K0FxreBImQ=",
-        "Meta": "[General]\ngameName=\nmodID=5557\nfileID=1000008379",
-        "Name": "Thedas Redone - Companions - Realistic Teeth-5557-1-0-1632003952.rar",
-        "Size": 5775055,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "neoncolor",
-          "Description": "Overhaul of companion faces. \n\nCompleted faces of all Origins companions (except Sten) \u002B Loghain.",
-          "FileID": 1000008379,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5557/5557-1631254994-1559179806.jpeg",
-          "IsNSFW": false,
-          "ModID": 5557,
-          "Name": "Thedas Redone - Companions",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -2828,6 +2786,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "2K0FxreBImQ=",
+        "Meta": "[General]\ngameName=\nmodID=5557\nfileID=1000008379",
+        "Name": "Thedas Redone - Companions - Realistic Teeth-5557-1-0-1632003952.rar",
+        "Size": 5775055,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "neoncolor",
+          "Description": "Overhaul of companion faces. \n\nCompleted faces of all Origins companions (except Sten) \u002B Loghain.",
+          "FileID": 1000008379,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5557/5557-1631254994-1559179806.jpeg",
+          "IsNSFW": false,
+          "ModID": 5557,
+          "Name": "Thedas Redone - Companions",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "g/RuXy1X/zA=",
+        "Meta": "[General]\ngameName=\nmodID=5560\nfileID=1000008402",
+        "Name": "Thedas Redone - Realistic Teeth-5560-1-2-1632206169.rar",
+        "Size": 7444301,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "neoncolor",
+          "Description": "Overhaul of NPCs faces, in order to make them more realistic and interesting.\n\n At the moment, 167 NPCs have been changed.",
+          "FileID": 1000008402,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5560/5560-1631593589-1763261959.jpeg",
+          "IsNSFW": false,
+          "ModID": 5560,
+          "Name": "Thedas Redone",
+          "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "R5cfwgpf9dQ=",
         "Meta": "[General]\ngameName=\nmodID=971\nfileID=1000004508",
         "Name": "DA_CharGenMorph_Compiler_v125-971-1-2-5.zip",
@@ -2947,6 +2947,6 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1
+  "Status": "Available",
+  "Failures": 0
 }
