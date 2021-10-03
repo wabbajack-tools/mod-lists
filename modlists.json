@@ -23,7 +23,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/WJ-Banner-Book-SE.png",
+      "image": "https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/WJ-Banner-Book-SE.webp",
       "readme": "https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/README.md",
       "download": "https://github.com/apoapse1/Librum-for-Skyrim-VR/releases/download/v3.0.4-1/Librum.SE.wabbajack",
       "machineURL": "librum_se"
@@ -64,7 +64,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/WJ-Banner-Orrery-VR.png",
+      "image": "https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/WJ-Banner-Orrery-VR.webp",
       "readme": "https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/README.md",
       "download": "https://github.com/apoapse1/Librum-for-Skyrim-VR/releases/download/v3.0.4-1/Librum.VR.wabbajack",
       "machineURL": "librum_vr"
@@ -131,7 +131,7 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/total-skyrim-overhaul/2020.01.21-01.26.png",
@@ -399,7 +399,9 @@
     "title": "Box of Rockets",
     "description": "A Kerbal Space Program mod list that adds all the parts you could ever want, all integrated into the Community Tech Tree so you can explore the Galaxies Unbound planets!",
     "author": "LaughingHyena",
-    "maintainers": [],
+    "maintainers": [
+      "laughinghyena"
+    ],
     "game": "kerbalspaceprogram",
     "official": false,
     "tags": [
@@ -413,19 +415,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/LaughingHyena279/BoxOfRockets/main/kerbal_centrifuge_training_by_timmon26_d5g7dkr.jpg.74803b68ceb0fcafe450403c6af93139.thumb.jpg.13fff86622b4d3715e64e573b0483946.png",
       "readme": "https://raw.githubusercontent.com/LaughingHyena279/BoxOfRockets/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Box%20of%20Rockets1.1.wabbajack_316b65cb-0813-43ab-a4bc-bf33bbc5597d",
+      "download": "https://authored-files.wabbajack.org/Box of Rockets.wabbajack_5a434459-a720-4f3f-8965-f213cbcb8fb1",
       "machineURL": "BOR"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "U1h7Hx4qJtU=",
-      "Size": 542097,
-      "NumberOfArchives": 53,
-      "SizeOfArchives": 3384132219,
-      "NumberOfInstalledFiles": 14083,
-      "SizeOfInstalledFiles": 7782274655
+      "Hash": "phOl2qSCbB0=",
+      "Size": 556412,
+      "NumberOfArchives": 61,
+      "SizeOfArchives": 4202644287,
+      "NumberOfInstalledFiles": 14337,
+      "SizeOfInstalledFiles": 8299304186
     },
-    "version": "1.0"
+    "version": "1.2"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
@@ -466,7 +468,7 @@
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "The Phoenix Flavour",
     "description": "The Phoenix Flavour for Skyrim SE is a vanilla-plus modding guide and mod list, featuring over 600 mods carefully selected and patched for a coherent and stable experience. Originally released in 2017, it has gone through many iterations and continues to be updated and expanded frequently.",
-    "author": "Phoenix & Umgak",
+    "author": "Phoenix & Umgak, maintained by Codygits",
     "maintainers": [],
     "game": "skyrimspecialedition",
     "official": false,
@@ -481,19 +483,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/foreverphoenix/the-phoenix-flavour/master/static/Pictures/tpf-wj-cover-new.webp",
       "readme": "https://raw.githubusercontent.com/foreverphoenix/the-phoenix-flavour/master/WABBAJACK.md",
-      "download": "https://authored-files.wabbajack.org/The%20Phoenix%20Flavour.wabbajack_44a016c5-9c9d-4e47-bb00-c0e3630397f9",
+      "download": "https://authored-files.wabbajack.org/The.Phoenix.Flavour.wabbajack_635e338c-95b1-4e07-939e-f330a561c509",
       "machineURL": "tpf"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "KlgsMK2rvPg=",
-      "Size": 216523280,
-      "NumberOfArchives": 775,
-      "SizeOfArchives": 52624937090,
-      "NumberOfInstalledFiles": 72627,
-      "SizeOfInstalledFiles": 63623070064
+      "Hash": "26r66gj7grM=",
+      "Size": 215603232,
+      "NumberOfArchives": 808,
+      "SizeOfArchives": 64747819580,
+      "NumberOfInstalledFiles": 74721,
+      "SizeOfInstalledFiles": 77468510075
     },
-    "version": "4.7.6"
+    "version": "4.8.0.1"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
@@ -514,19 +516,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/foreverphoenix/the-phoenix-flavour/master/static/Pictures/lotf-wj-cover.webp",
       "readme": "https://raw.githubusercontent.com/foreverphoenix/the-phoenix-flavour/master/WABBAJACK-LOTF.md",
-      "download": "https://authored-files.wabbajack.org/Legends%20of%20the%20Frost.wabbajack_8ae9fbc3-a6b0-4cc9-a64a-8ed1bee26c95",
+      "download": "https://authored-files.wabbajack.org/Legends%20of%20the%20Frost.wabbajack_439bf731-6eb2-4155-9fa3-a1c9630718d2",
       "machineURL": "lotf"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "trhUWWi/qnA=",
-      "Size": 214043831,
-      "NumberOfArchives": 256,
-      "SizeOfArchives": 47748368204,
+      "Hash": "69ckKycIqqQ=",
+      "Size": 214065491,
+      "NumberOfArchives": 254,
+      "SizeOfArchives": 46343855719,
       "NumberOfInstalledFiles": 45547,
-      "SizeOfInstalledFiles": 59233976080
+      "SizeOfInstalledFiles": 59234998095
     },
-    "version": "1.3"
+    "version": "1.3.1"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
@@ -550,19 +552,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Kvitekvist/Auriel-s-Dream/master/AD%20Cover2_low.png",
       "readme": "https://raw.githubusercontent.com/Kvitekvist/Auriel-s-Dream/master/README.md",
-      "download": "https://authored-files.wabbajack.org/Auriels Dream.wabbajack_af7161b7-3c24-458a-9d02-094819982da3",
+      "download": "https://authored-files.wabbajack.org/Auriels Dream.wabbajack_0504e43d-5076-4728-b814-71aff23df65a",
       "machineURL": "auriels_dream"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "+Dtt3SMl0kc=",
-      "Size": 599602715,
-      "NumberOfArchives": 749,
-      "SizeOfArchives": 49371565816,
-      "NumberOfInstalledFiles": 171620,
-      "SizeOfInstalledFiles": 74387126083
+      "Hash": "MAYnZtZG4w4=",
+      "Size": 599611789,
+      "NumberOfArchives": 758,
+      "SizeOfArchives": 49526147472,
+      "NumberOfInstalledFiles": 172012,
+      "SizeOfInstalledFiles": 74406218964
     },
-    "version": "9.0.1"
+    "version": "9.0.2"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
@@ -585,19 +587,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Patchier/Big-Warden/main/Warden's%20Creed.png",
       "readme": "https://raw.githubusercontent.com/Patchier/Big-Warden/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Big Warden.wabbajack_db92d054-7ab2-43c8-8f19-20ad5abf3be9",
+      "download": "https://authored-files.wabbajack.org/Big Warden.wabbajack_9bca7aeb-177b-421d-b98e-94a1007a9208",
       "machineURL": "big_warden"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "tOTFNFRB2nw=",
-      "Size": 824629424,
-      "NumberOfArchives": 135,
-      "SizeOfArchives": 16680826306,
-      "NumberOfInstalledFiles": 11009,
-      "SizeOfInstalledFiles": 16108203022
+      "Hash": "89tLSCnF5jg=",
+      "Size": 801170031,
+      "NumberOfArchives": 152,
+      "SizeOfArchives": 16410315946,
+      "NumberOfInstalledFiles": 13982,
+      "SizeOfInstalledFiles": 16062878320
     },
-    "version": "2.6"
+    "version": "3.1.1"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
@@ -934,21 +936,21 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://i.imgur.com/EM9jvxo.png",
+      "image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/narsil/hero_image.webp",
       "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/narsil/readme.md",
-      "download": "https://authored-files.wabbajack.org/Narsil.wabbajack_5e5e1eee-d66b-4eda-a54d-2491355c2cf9",
+      "download": "https://authored-files.wabbajack.org/Narsil.wabbajack_8dd2bb2e-c0c5-411c-95d0-ac0e41ad7064",
       "machineURL": "narsil"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "dWmTHAeihcs=",
-      "Size": 2156368408,
-      "NumberOfArchives": 927,
-      "SizeOfArchives": 82293162009,
-      "NumberOfInstalledFiles": 207554,
-      "SizeOfInstalledFiles": 126210426988
+      "Hash": "d5be7TVYvJU=",
+      "Size": 2571004788,
+      "NumberOfArchives": 935,
+      "SizeOfArchives": 81366832779,
+      "NumberOfInstalledFiles": 204375,
+      "SizeOfInstalledFiles": 119831359210
     },
-    "version": "1.5.2.4"
+    "version": "1.5.3"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
@@ -1078,19 +1080,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/LivelyDismay/Learn-To-Mod/main/wabbajack-stuff/neat.webp",
       "readme": "https://raw.githubusercontent.com/LivelyDismay/Learn-To-Mod/main/wabbajack-stuff/Readme.md",
-      "download": "https://authored-files.wabbajack.org/Magnum Opus.wabbajack_ab52d21e-6097-4c1d-a341-d0e4f11b1b31",
+      "download": "https://authored-files.wabbajack.org/Magnum Opus.wabbajack_34e6ea7a-9766-48b8-a4e9-5b9c034e2c50",
       "machineURL": "magnum_opus"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "SsSXGg1u1uE=",
-      "Size": 50519520,
-      "NumberOfArchives": 614,
-      "SizeOfArchives": 50063397152,
-      "NumberOfInstalledFiles": 27468,
-      "SizeOfInstalledFiles": 62445864923
+      "Hash": "OYgzdCEEYhg=",
+      "Size": 50539332,
+      "NumberOfArchives": 619,
+      "SizeOfArchives": 50536512859,
+      "NumberOfInstalledFiles": 27941,
+      "SizeOfInstalledFiles": 64047798745
     },
-    "version": "4.8.9"
+    "version": "4.9.0"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
@@ -1147,21 +1149,21 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/TitansBane/Elysium/master/image/Elysium_Banner.png",
+      "image": "https://raw.githubusercontent.com/TitansBane/Elysium/master/image/Elysium_Banner.webp",
       "readme": "https://raw.githubusercontent.com/TitansBane/Elysium/master/README.md",
-      "download": "https://authored-files.wabbajack.org/Elysium.wabbajack_36d5d0fb-fdb4-498a-b0da-a1b9744f042a",
+      "download": "https://authored-files.wabbajack.org/Elysium.wabbajack_e1d9e982-0b3d-446a-95af-1be4de36e71c",
       "machineURL": "elysium"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "8Bd3gyZLGMI=",
-      "Size": 964904958,
-      "NumberOfArchives": 1478,
-      "SizeOfArchives": 137725184987,
-      "NumberOfInstalledFiles": 233992,
-      "SizeOfInstalledFiles": 211950912072
+      "Hash": "bfPZBZBq14E=",
+      "Size": 956094405,
+      "NumberOfArchives": 1497,
+      "SizeOfArchives": 139241616762,
+      "NumberOfInstalledFiles": 240521,
+      "SizeOfInstalledFiles": 214195480498
     },
-    "version": "5.4.3"
+    "version": "5.5.3"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
@@ -1187,25 +1189,25 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/SovnSkyrim/Aldrnari/main/Banner-Top-Down.webp",
       "readme": "https://raw.githubusercontent.com/SovnSkyrim/Aldrnari/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Aldrnari.wabbajack_3ef84eed-3b04-4ffc-8fb8-a1cc96527157",
+      "download": "https://authored-files.wabbajack.org/Aldrnari.wabbajack_89103525-479f-4e5d-80a4-35f1b3928117",
       "machineURL": "aldrnari"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "AmcBvlF1U20=",
-      "Size": 1089640242,
-      "NumberOfArchives": 1929,
-      "SizeOfArchives": 173761559465,
-      "NumberOfInstalledFiles": 301552,
-      "SizeOfInstalledFiles": 357419454913
+      "Hash": "7R30e4dq5tk=",
+      "Size": 1140974509,
+      "NumberOfArchives": 1942,
+      "SizeOfArchives": 174263187450,
+      "NumberOfInstalledFiles": 301721,
+      "SizeOfInstalledFiles": 358106076968
     },
-    "version": "1.0"
+    "version": "1.1"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "QWEST!",
-    "description": "The biggest Legacy of the Dragonborn Museum in Wabbajack with over 4000 relics, new lands, vanilla quest enhancers, new music, weapons, armors, toggleable survival mods and even the choice between SimonRim and EnaiRim! A 850+ Modlist specifically made so 2GB of VRAM Cards can run it! Comes with a Custom Zangdar's Rudy Cathedral ENB specific for the list's setup for people with a PC above the lowest specs! Has a HyperCasual profile for those who only care about quests and not difficulty!",
-    "author": "Sovn, maintained by Althro & The QWEST team",
+    "description": "A mighty modlist for mini machines. Featuring a wide array of diversity in quests, followers, relics and character playstyles, plenty of new things to see and create, all wrapped up in one neat performance package.",
+    "author": "Sovn, maintained by The Animonculory",
     "maintainers": [
       "sovn",
       "althro"
@@ -1227,7 +1229,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/SovnSkyrim/QWEST/main/QWEST.webp",
+      "image": "https://raw.githubusercontent.com/SovnSkyrim/QWEST/main/QWEST_New.webp",
       "readme": "https://raw.githubusercontent.com/SovnSkyrim/QWEST/main/README.md",
       "download": "https://authored-files.wabbajack.org/QWEST%203.7.1.wabbajack_8579eae8-8473-42d8-aaf4-5681e3a58fd0",
       "machineURL": "qwest"
@@ -1264,19 +1266,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/cacophony-wj/LeS/master/Licentia.png",
       "readme": "https://raw.githubusercontent.com/cacophony-wj/LeS/master/README.md",
-      "download": "https://authored-files.wabbajack.org/Licentia.wabbajack_0ae2b184-a33c-4008-b594-28c06261a655",
+      "download": "https://authored-files.wabbajack.org/Licentia.wabbajack_06745a01-165b-4b80-85cc-ce31c6154ac9",
       "machineURL": "Licentia"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "5KeiFBeAB/g=",
-      "Size": 562263817,
-      "NumberOfArchives": 857,
-      "SizeOfArchives": 131651209728,
-      "NumberOfInstalledFiles": 258568,
-      "SizeOfInstalledFiles": 188442861445
+      "Hash": "yrWR/CCfjMA=",
+      "Size": 556837925,
+      "NumberOfArchives": 854,
+      "SizeOfArchives": 128863143038,
+      "NumberOfInstalledFiles": 257738,
+      "SizeOfInstalledFiles": 187127908282
     },
-    "version": "10.6.0.2"
+    "version": "10.8.1"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
@@ -1317,7 +1319,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Tsukiro",
-    "description": "NSFW modlist with Sekiro style combat, beautiful characters and a wealth of outfits all seamlessly integrated into the game.",
+    "description": "Revolutionised combat with girls in suggestive clothing",
     "author": "Tsukino",
     "maintainers": [],
     "game": "skyrimspecialedition",
@@ -1333,19 +1335,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/zhongjiedong/Tsukiro/main/Titlepage2.png",
       "readme": "https://raw.githubusercontent.com/zhongjiedong/Tsukiro/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Tsukiro.wabbajack_3fb6acf0-65c4-41d6-8093-f0eeeb4e96c1",
+      "download": "https://authored-files.wabbajack.org/Tsukiro.wabbajack_e46a7f3b-1bb0-40af-9404-14e8ee41758e",
       "machineURL": "tsukiro"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "9e8TmQtjSZY=",
-      "Size": 1140734308,
-      "NumberOfArchives": 705,
-      "SizeOfArchives": 109739370826,
-      "NumberOfInstalledFiles": 179841,
-      "SizeOfInstalledFiles": 171274292377
+      "Hash": "WoTixbuVAyI=",
+      "Size": 895380088,
+      "NumberOfArchives": 733,
+      "SizeOfArchives": 108695118003,
+      "NumberOfInstalledFiles": 178297,
+      "SizeOfInstalledFiles": 171775918156
     },
-    "version": "1.0.3"
+    "version": "1.0.5.2"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
@@ -1368,19 +1370,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://i.imgur.com/9jnSPcX.png",
       "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/living_skyrim/readme.md",
-      "download": "https://authored-files.wabbajack.org/Living Skyrim.wabbajack_a9c1dab9-2fb5-42a4-a7b1-a90480e198b5",
+      "download": "https://authored-files.wabbajack.org/Living Skyrim.wabbajack_a3e144ff-8e08-43c4-b314-e973aec5c9d6",
       "machineURL": "living_skyrim"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "9OOtGsKGIYU=",
-      "Size": 681499735,
+      "Hash": "ZBw3IRBldlU=",
+      "Size": 682590900,
       "NumberOfArchives": 1066,
-      "SizeOfArchives": 97075066378,
-      "NumberOfInstalledFiles": 292384,
-      "SizeOfInstalledFiles": 190394955806
+      "SizeOfArchives": 97305936506,
+      "NumberOfInstalledFiles": 291616,
+      "SizeOfInstalledFiles": 190258996235
     },
-    "version": "3.5.0"
+    "version": "3.5.1"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
@@ -1436,7 +1438,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/ForgottenGlory/forgottenglory.github.io/master/docs/images/MOISE Logo 3.png",
+      "image": "https://raw.githubusercontent.com/ForgottenGlory/forgottenglory.github.io/master/docs/images/MOISE Logo 3.webp",
       "readme": "https://raw.githubusercontent.com/ForgottenGlory/MOISE/master/README.md",
       "download": "https://authored-files.wabbajack.org/MOISE.wabbajack_7774182b-e527-497d-993e-32839f869e0b",
       "machineURL": "moise"
