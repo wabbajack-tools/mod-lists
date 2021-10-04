@@ -1,8 +1,8 @@
 {
   "MachineURL": "tinvaak2",
   "Name": "Tinvaak 2",
-  "Version": "0.9.2",
-  "ModListHash": "cnzEljfRp5Q=",
+  "Version": "0.9.8",
+  "ModListHash": "MuzGUYFnK+Q=",
   "Archives": [
     {
       "Status": "Valid",
@@ -15,6 +15,20 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JSPWXdKvqj0=",
+        "Meta": "[General]\ndirectURL=https://raw.githubusercontent.com/Althro/Tinvaak2/main/Splash.png",
+        "Name": "Splash.png",
+        "Size": 329038,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://raw.githubusercontent.com/Althro/Tinvaak2/main/Splash.png"
         }
       }
     },
@@ -1156,27 +1170,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "rTPNu9sG3/c=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=4652\nfileID=210118",
-        "Name": "Animated Eating Redux-4652-4-4-0-1624172608.7z",
-        "Size": 110358667,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "FlipDeezy",
-          "Description": "Definitive animated eating mod. works on NPCs and the player",
-          "FileID": 210118,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4652-4-1479604981.jpg",
-          "IsNSFW": false,
-          "ModID": 4652,
-          "Name": "Animated Eating Redux SE edition",
-          "Version": "4.4.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "uYcjP6AyZYk=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=47454\nfileID=193254",
         "Name": "Balanced Daggerfall Traits-47454-v1-0-1616553742.7z",
@@ -1849,21 +1842,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qp2vyL/aEVM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=14644\nfileID=177820",
-        "Name": "Better Dynamic Ash SE v2.0-14644-2-0-1609844277.7z",
-        "Size": 22445,
+        "Hash": "PVxDMGmUdE8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54754\nfileID=224790",
+        "Name": "Better Dynamic Ash SE v2.1.1-54754-2-1-1-1630276704.7z",
+        "Size": 52963,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BDA Team",
-          "Description": "",
-          "FileID": 177820,
+          "Author": "Arlekin-SparrowPrince-Step Modifications",
+          "Description": "Converts the original Better Dynamic Snow shader to use installed ash texture and applies the shader to objects in Solstheim (ash covered objects).",
+          "FileID": 224790,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": null,
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54754/54754-1630265442-682475060.png",
           "IsNSFW": false,
-          "ModID": 14644,
-          "Name": "",
-          "Version": "2.0.0.0"
+          "ModID": 54754,
+          "Name": "Better Dynamic Ash SE",
+          "Version": "2.1.1.0"
         }
       }
     },
@@ -3656,6 +3649,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "wYEAD8eERhE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=50412\nfileID=211815",
+        "Name": "Dlizzio\u0027s Mesh Fixes Solitude patches collection-50412-2-0-1625005367.zip",
+        "Size": 44415,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Czasior",
+          "Description": "Small Solitude compatibility fixes for Dlizzio\u0027s Mesh Fixes and various mods",
+          "FileID": 211815,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50412/50412-1621983044-1273756254.png",
+          "IsNSFW": false,
+          "ModID": 50412,
+          "Name": "Dlizzio\u0027s Mesh Fixes Solitude patches collection",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "S2KCNvQtCGA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=19942\nfileID=78522",
         "Name": "Dalish Vallaslin Face Tattoo\u0027s for Racemenu-19942-3-0-1547659207.rar",
@@ -3976,21 +3990,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Y+63hTiGZIY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=48724\nfileID=199650",
-        "Name": "Dwemer Automatons Glowmapped 2.2-48724-2-2-1619128107.rar",
-        "Size": 16424458,
+        "Hash": "99O2WcQ0jIU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=48724\nfileID=232252",
+        "Name": "Dwemer Automatons Glowmapped 3-48724-3-1633235968.rar",
+        "Size": 15549087,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Caleb2 - a k a Anubis",
           "Description": "Adds glow maps to all dwemer automatons.",
-          "FileID": 199650,
+          "FileID": 232252,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/48724/48724-1619128250-1590416869.jpeg",
           "IsNSFW": false,
           "ModID": 48724,
           "Name": "Dwemer Automatons Glowmapped",
-          "Version": "2.2.0.0"
+          "Version": "3.0.0.0"
         }
       }
     },
@@ -4018,13 +4032,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ZdOc0Udp3eI=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Tinvaak2LodFiles.7z_8507113a-8f0d-470e-a672-fab15ccf7892",
-        "Name": "Tinvaak2LodFiles.7z",
-        "Size": 3947194269,
+        "Hash": "UFZjT5s771s=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/T2LodFiles.7z_4bcb0cdb-eab4-47fe-b080-9a6214c14ac3",
+        "Name": "T2LodFiles.7z",
+        "Size": 4015233950,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Tinvaak2LodFiles.7z_8507113a-8f0d-470e-a672-fab15ccf7892"
+          "Url": "https://authored-files.wabbajack.org/T2LodFiles.7z_4bcb0cdb-eab4-47fe-b080-9a6214c14ac3"
         }
       }
     },
@@ -5087,13 +5101,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "86klLlI7BDE=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/T2MiscFiles.7z_98fa44ec-4147-4ce4-b8fa-6fd5fd93e6a6",
+        "Hash": "+h58/j1a8PY=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/T2MiscFiles.7z_90ed5059-70ca-4976-83d5-166081ff1609",
         "Name": "T2MiscFiles.7z",
-        "Size": 164739714,
+        "Size": 168764538,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/T2MiscFiles.7z_98fa44ec-4147-4ce4-b8fa-6fd5fd93e6a6"
+          "Url": "https://authored-files.wabbajack.org/T2MiscFiles.7z_90ed5059-70ca-4976-83d5-166081ff1609"
         }
       }
     },
@@ -7718,48 +7732,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "o3VGsJMcmkY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=47134\nfileID=201588",
-        "Name": "Leadership-47134-1-2-1620088739.7z",
-        "Size": 56068,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Nahsch",
-          "Description": "Increase the number of followers with perks",
-          "FileID": 201588,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47134/47134-1616558199-1442887927.png",
-          "IsNSFW": false,
-          "ModID": 47134,
-          "Name": "Leadership",
-          "Version": "1.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "aoC0R/+U2q4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=51764\nfileID=212319",
-        "Name": "Leadership - Custom Skill Framework Extension-51764-1-1-1625247864.7z",
-        "Size": 167891,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Luca - EzioTheDeadPoet",
-          "Description": "This integrates the perks from the Leadership mod in a completely separate skill menu for increased compatibility.",
-          "FileID": 212319,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51764/51764-1624958036-1501376277.png",
-          "IsNSFW": false,
-          "ModID": 51764,
-          "Name": "Leadership - Custom Skill Framework Extension",
-          "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "WWT4Krg3364=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=49387\nfileID=201763",
         "Name": "Legendary Alpha Shields (optimized meshes)-49387-1-1-1620184046.rar",
@@ -8201,6 +8173,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "FLSN/4Ipw2s=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32014\nfileID=120887",
+        "Name": "Meridia Revoiced - Dialogue Edits-32014-1-0-1579759321.zip",
+        "Size": 1849925,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GalimeerKandarus with Andrea Kaden",
+          "Description": "No more ear-rape. Now Meridia\u0027s voice makes sweet, consensual love to your ears. Voice talent provided by Andrea Kaden. LE -\u0026gt; SE porting by bernardtp",
+          "FileID": 120887,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32014/32014-1579750407-1365708731.jpeg",
+          "IsNSFW": false,
+          "ModID": 32014,
+          "Name": "Meridia Revoiced SE",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "irkI4x3sx5A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56433\nfileID=232482",
+        "Name": "Merlin the Corgi-56433-1-0-1-1633317395.zip",
+        "Size": 62784493,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tate Taylor",
+          "Description": "Adds a magical corgi companion to join you on your adventures!",
+          "FileID": 232482,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56433/56433-1633217757-1009001159.png",
+          "IsNSFW": false,
+          "ModID": 56433,
+          "Name": "Merlin the Corgi - A Magical Dog Follower Mod",
+          "Version": "1.0.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "fmMos06BsQ0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=23609\nfileID=84795",
         "Name": "Missing Encounter Zones FIXED - Vanilla Fixes - v2.2-23609-2-2-1552504943.7z",
@@ -8237,27 +8251,6 @@
           "ModID": 46552,
           "Name": "MGHM",
           "Version": "2.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "B+rwoutM5Cs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=47549\nfileID=193622",
-        "Name": "Minimalistic Follower Framework-47549-0-1-Alpha-1616717646.7z",
-        "Size": 79863,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Nahsch",
-          "Description": "Allow up to 4 followers. Nothing else for now",
-          "FileID": 193622,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47549/47549-1616717485-1444919173.png",
-          "IsNSFW": false,
-          "ModID": 47549,
-          "Name": "Minimalistic Follower Framework",
-          "Version": "0.1.0.0-Alpha"
         }
       }
     },
@@ -8636,6 +8629,20 @@
           "ModID": 46299,
           "Name": "Natural Hair Colors",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "p9AtTVCy7q4=",
+        "Meta": "[General]\ndirectURL=https://www.patreon.com/file?h=56194641\u0026i=8887786",
+        "Name": "Nethers_Follower_Framework_UNI_2_7_9.zip",
+        "Size": 9181316,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://www.patreon.com/file?h=56194641\u0026i=8887786"
         }
       }
     },
@@ -9713,6 +9720,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "DasP0xD3Gb8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55387\nfileID=228562",
+        "Name": "Soul Cairn Canvas Map for FWMF-55387-1-03-1631720112.zip",
+        "Size": 4738332,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Caites",
+          "Description": "Implements handmade Soul Cairn map in Map Menu.",
+          "FileID": 228562,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55387/55387-1631305365-635712956.png",
+          "IsNSFW": false,
+          "ModID": 55387,
+          "Name": "Paper Soul Cairn Map for FWMF",
+          "Version": "f1.03"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "kIHO/Cw2640=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=54255\nfileID=222754",
         "Name": "Paper Sovngarde Map for FWMF-54255-1-01-1629569335.zip",
@@ -10356,27 +10384,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dHOjsCmMxQY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=49948\nfileID=203619",
-        "Name": "Realistic Dog Sounds-49948-1-0-0-1621094723.zip",
-        "Size": 2043405,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Tate Taylor",
-          "Description": "Overhauls dog audio using sound assets from real wolfhounds!",
-          "FileID": 203619,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49948/49948-1621094559-2107527903.png",
-          "IsNSFW": false,
-          "ModID": 49948,
-          "Name": "Realistic Dog Sounds",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "adMlFtHnXxg=",
         "Meta": "[General]\ngameName=skyrim\nmodID=3819\nfileID=11289",
         "Name": "Paper V2-3819-2.rar",
@@ -10476,6 +10483,27 @@
           "ModID": 42052,
           "Name": "RedBag\u0027s Solitude",
           "Version": "1.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Q3qSESZ43Cc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=48595\nfileID=198305",
+        "Name": "RedBag\u0027s Solitude - Lantern of Skyrim TML Patch-48595-1-0-1618488246.zip",
+        "Size": 35138,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Inpa Skyrim",
+          "Description": "RedBag\u0027s Solitude \u002B Lanterns Of Skyrim II TML Compatible Patch. Fix floating lanterns.",
+          "FileID": 198305,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/48595/48595-1618487735-589041044.png",
+          "IsNSFW": false,
+          "ModID": 48595,
+          "Name": "RedBag\u0027s Solitude - Lanterns Of Skyrim II TML Patch",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -11656,27 +11684,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "c2Xj5MefZwQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54921\nfileID=226004",
-        "Name": "Sleight of Hand - BSA Version-54921-1-4-1630718122.7z",
-        "Size": 6560,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Macrophage",
-          "Description": "Adds a lesser power called Sleight of Hand that allows the player to open an NPC\u0027s inventory when they \u0022bump\u0022 into them.",
-          "FileID": 226004,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54921/54921-1630524000-427409417.png",
-          "IsNSFW": false,
-          "ModID": 54921,
-          "Name": "Sleight of Hand",
-          "Version": "1.4.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "qJFzdtVynEQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=54921\nfileID=227168",
         "Name": "Sleight of Hand - BSA Version-54921-1-5-1631188177.7z",
@@ -11692,6 +11699,27 @@
           "ModID": 54921,
           "Name": "Sleight of Hand",
           "Version": "1.4.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "c2Xj5MefZwQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54921\nfileID=226004",
+        "Name": "Sleight of Hand - BSA Version-54921-1-4-1630718122.7z",
+        "Size": 6560,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Macrophage",
+          "Description": "Adds a lesser power called Sleight of Hand that allows the player to open an NPC\u0027s inventory when they \u0022bump\u0022 into them.",
+          "FileID": 226004,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54921/54921-1630524000-427409417.png",
+          "IsNSFW": false,
+          "ModID": 54921,
+          "Name": "Sleight of Hand",
+          "Version": "1.4.0.0"
         }
       }
     },
@@ -11902,27 +11930,6 @@
           "ModID": 17294,
           "Name": "Sonia Armor SSE",
           "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "pbJIYg2sMpY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=29877\nfileID=186662",
-        "Name": "Automatic Save Mgr Esl Version-29877-1-6-1613688885.7z",
-        "Size": 10228,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SOT Team - Cipscis - Eliijahz",
-          "Description": "Cipscis\u0027 Automatic Save Manager, or CASM for short, adds configurable automatic and hotkey saving to Skyrim Special Edition.  This version has added functionality courtesy of the SOT Team .\n\nCASM does not affect Skyrim\u0027s existing quicksave or autosave systems. It can be used alongside them, or you can disable them and CASM can be used instead.",
-          "FileID": 186662,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29877/29877-1571713861-610292941.jpeg",
-          "IsNSFW": false,
-          "ModID": 29877,
-          "Name": "SOT CASM -  Cipscis\u0027 Automatic Save Manager for SSE on Steroids",
-          "Version": "1.6.0.0"
         }
       }
     },
@@ -12412,21 +12419,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "UN7YIzYNLwQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=39414\nfileID=228876",
-        "Name": "SunHelm Survival-39414-3-0-4-1631851841.7z",
-        "Size": 7857540,
+        "Hash": "Gg7Zpqrs4X8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=39414\nfileID=232570",
+        "Name": "SunHelm Survival-39414-3-0-5-1633355746.7z",
+        "Size": 7857657,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "colinswrath",
           "Description": "SunHelm is an all in one survival and needs mod. It includes many features such as Hunger, Thirst, Fatigue, and even hypothermia mechanics all while attempting to stay as streamlined as possible.",
-          "FileID": 228876,
+          "FileID": 232570,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/39414/39414-1597459604-1382851726.jpeg",
           "IsNSFW": false,
           "ModID": 39414,
           "Name": "SunHelm Survival and needs",
-          "Version": "3.0.4.0"
+          "Version": "3.0.5.0"
         }
       }
     },
@@ -13063,21 +13070,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "LGTeCXPcseY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=36380\nfileID=219771",
-        "Name": "Great Town of Ivarstead Patch Collection-36380-2-1-2-1628452075.7z",
-        "Size": 8964515,
+        "Hash": "JwHRDQ6CRGM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=36380\nfileID=232141",
+        "Name": "Great Town of Ivarstead Patch Collection-36380-2-2-1633207703.7z",
+        "Size": 8964550,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "giovanni1214 Cecell ShadowOfNV and Janquel",
           "Description": "A collection of compatibility patches for The Great Town of Ivarstead",
-          "FileID": 219771,
+          "FileID": 232141,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/36380/36380-1590351479-1532128223.jpeg",
           "IsNSFW": false,
           "ModID": 36380,
           "Name": "The Great Town of Ivarstead Patch Collection",
-          "Version": "2.1.2.0"
+          "Version": "2.2.0.0"
         }
       }
     },
@@ -13105,21 +13112,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "iYLBuFiX87w=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=37471\nfileID=219799",
-        "Name": "The Great Town of Karthwasten Patch Collection-37471-2-0-2-1628461434.7z",
-        "Size": 3608785,
+        "Hash": "GLia8b6+SHE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=37471\nfileID=232153",
+        "Name": "The Great Town of Karthwasten Patch Collection-37471-2-1-1633208979.7z",
+        "Size": 3609261,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Janquel",
           "Description": "A collection of patches for The Great Town of Karthwasten",
-          "FileID": 219799,
+          "FileID": 232153,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37471/37471-1593052560-285747014.jpeg",
           "IsNSFW": false,
           "ModID": 37471,
           "Name": "The Great Town of Karthwasten Patch Collection",
-          "Version": "2.0.2.0"
+          "Version": "2.1.0.0"
         }
       }
     },
@@ -13252,21 +13259,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BVnwU1mQkuo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=37414\nfileID=219580",
-        "Name": "The Great Village of Mixwater Mill Patch Collection-37414-2-0-1-1628382737.7z",
-        "Size": 1100628,
+        "Hash": "yOKBo7hyVPY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=37414\nfileID=232146",
+        "Name": "The Great Village of Mixwater Mill Patch Collection-37414-2-1-1633208274.7z",
+        "Size": 1100767,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Janquel",
           "Description": "A collection of patches for The Great Village of Mixwater Mill",
-          "FileID": 219580,
+          "FileID": 232146,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37414/37414-1592499614-2133100904.jpeg",
           "IsNSFW": false,
           "ModID": 37414,
           "Name": "The Great Village of Mixwater Mill Patch Collection",
-          "Version": "2.0.1.0"
+          "Version": "2.1.0.0"
         }
       }
     },
@@ -14315,21 +14322,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Bjx69uN2CvE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=37061\nfileID=227917",
-        "Name": "Water for ENB-37061-1-40b-1631462494.zip",
-        "Size": 450479367,
+        "Hash": "nZDzeDSQNd4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=37061\nfileID=232351",
+        "Name": "Water for ENB-37061-1-41-1633284637.zip",
+        "Size": 452820091,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "mindflux",
           "Description": "A water modification that takes full advantage of advanced features offered by ENBSeries.",
-          "FileID": 227917,
+          "FileID": 232351,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37061/37061-1631361680-2098426155.jpeg",
           "IsNSFW": false,
           "ModID": 37061,
           "Name": "Water for ENB",
-          "Version": "1.40.0.0b"
+          "Version": "1.41.0.0"
         }
       }
     },
@@ -14609,21 +14616,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "RAr3rfP0agU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=55190\nfileID=228248",
-        "Name": "Wyrmtamer-55190-1-0-2-1631584062.zip",
-        "Size": 20992958,
+        "Hash": "IQ6xbOHoESQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55190\nfileID=232265",
+        "Name": "Wyrmtamer-55190-1-0-3-1633240922.zip",
+        "Size": 20993448,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tate Taylor",
           "Description": "Expands on the excellent Lawbringer mod to make several locations in Wyrmstooth claimable!",
-          "FileID": 228248,
+          "FileID": 232265,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55190/55190-1630946784-131252816.gif",
           "IsNSFW": false,
           "ModID": 55190,
           "Name": "Wyrmtamer - Lawbringer for Wyrmstooth",
-          "Version": "1.0.2.0"
+          "Version": "1.0.3.0"
         }
       }
     },
@@ -14812,21 +14819,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ci5hY6sW3js=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32382\nfileID=229338",
-        "Name": "DynDOLOD 3.00-32382-Alpha-44-1632040828.7z",
-        "Size": 42577483,
+        "Hash": "bJU/0oisvQI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32382\nfileID=232590",
+        "Name": "DynDOLOD 3.00-32382-Alpha-45-1633366837.7z",
+        "Size": 42584410,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sheson",
           "Description": "DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD \u002B tree LOD and the new,  optional dynamic distant object LOD in a few simple steps.",
-          "FileID": 229338,
+          "FileID": 232590,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32382/32382-1580900155-1292674369.jpeg",
           "IsNSFW": false,
           "ModID": 32382,
           "Name": "Dynamic Distant Objects LOD - DynDOLOD",
-          "Version": "Alpha-44"
+          "Version": "Alpha-45"
         }
       }
     },
@@ -14910,13 +14917,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Ypeg2MKgzlQ=",
-        "Meta": "[General]\ndirectURL=https://mega.nz/file/dEwQnJRS#E-qpq29rVCBw3FxT3gTOjF_Z2zYkzR2CcWhQ5OAZcwg",
-        "Name": "xLODGen.84.7z",
-        "Size": 15189224,
+        "Hash": "5hKA3MnukjA=",
+        "Meta": "[General]\ndirectURL=https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg",
+        "Name": "xLODGen.83.7z",
+        "Size": 15175790,
         "State": {
           "$type": "MegaDownloader, Wabbajack.Lib",
-          "Url": "https://mega.nz/file/dEwQnJRS#E-qpq29rVCBw3FxT3gTOjF_Z2zYkzR2CcWhQ5OAZcwg"
+          "Url": "https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg"
         }
       }
     },
@@ -15353,6 +15360,27 @@
           "ModID": 54019,
           "Name": "Forgotten City Music Fixer",
           "Version": "2.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8ImIPWYw3bc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=47670\nfileID=225739",
+        "Name": "Gamepad Users - Mini Patch for 1.50-47670-1-50b-1630651115.zip",
+        "Size": 4239,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "JaySerpa",
+          "Description": "See your character perform context-aware animations when interacting with the world. Animated greeting of NPCs, pickpocketing, lockpicking, and more!",
+          "FileID": 225739,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47670/47670-1619964293-563819594.jpeg",
+          "IsNSFW": false,
+          "ModID": 47670,
+          "Name": "Immersive Interactions - Animated Actions",
+          "Version": "1.50.0.0b"
         }
       }
     },
@@ -16058,21 +16086,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "YcCMR1uW0Ww=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=231837",
-        "Name": "Assorted Mesh Fixes-32117-0-29-1633077700.7z",
-        "Size": 8526184,
+        "Hash": "P60+1QMcMIE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=232159",
+        "Name": "Assorted Mesh Fixes-32117-0-30-1-1633211100.7z",
+        "Size": 15362087,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wankingSkeever",
           "Description": "Fixes various issues with vanilla Skyrim meshes that causes them to render incorrectly",
-          "FileID": 231837,
+          "FileID": 232159,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32117/32117-1612599331-161051453.png",
           "IsNSFW": false,
           "ModID": 32117,
           "Name": "Assorted mesh fixes",
-          "Version": "0.29.0.0"
+          "Version": "0.30.1.0"
         }
       }
     },
@@ -16835,21 +16863,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "9nkUoj7q/4Q=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=55856\nfileID=231747",
-        "Name": "ENB Particle Glow - Candles v1.1-55856-1-1-0-1633032101.zip",
-        "Size": 32207636,
+        "Hash": "wYq2qVKuE2k=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55856\nfileID=232138",
+        "Name": "Radiant - Candles v2.0.0-55856-2-0-0-1633207284.7z",
+        "Size": 19950924,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "TechAngel85",
           "Description": "Adds basic, static particle glow to all the candles of Skyrim. Support for various lighting mods included.",
-          "FileID": 231747,
+          "FileID": 232138,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55856/55856-1632103575-1516131760.png",
           "IsNSFW": false,
           "ModID": 55856,
           "Name": "Radiant - Candles",
-          "Version": "1.1.0.0"
+          "Version": "2.0.0.0"
         }
       }
     },
@@ -16891,27 +16919,6 @@
           "IsNSFW": false,
           "ModID": 50483,
           "Name": "Enemy Friendly Fire",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ohjRBxldfN4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=46449\nfileID=189034",
-        "Name": "Enhanced Death Cam-46449-1-0-1614716087.7z",
-        "Size": 102817,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "powerofthree",
-          "Description": "SKSE plugin that improves death/ragdoll camera, with free rotation/fly camera and other features",
-          "FileID": 189034,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46449/46449-1614715933-1542326614.png",
-          "IsNSFW": false,
-          "ModID": 46449,
-          "Name": "Enhanced Death Cam",
           "Version": "1.0.0.0"
         }
       }
@@ -19557,6 +19564,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "UUYGYmd7tp0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43092\nfileID=173191",
+        "Name": "Vanilla Enhanced-43092-1-0-1607203114.rar",
+        "Size": 1193,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mwilsnd",
+          "Description": "A SmoothCam preset, tweaked to emulate the vanilla camera with smoothing and functionality in mind.",
+          "FileID": 173191,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43092/43092-1607202502-1140665755.jpeg",
+          "IsNSFW": false,
+          "ModID": 43092,
+          "Name": "Vanilla Enhanced SmoothCam Preset",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "ubcmk2vOOJI=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=38544\nfileID=152453",
         "Name": "Venerable Nordic Temples - Standard-38544-0-2-1595876247.zip",
@@ -21880,7 +21908,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46486/46486-1615046327-1863946208.png",
           "IsNSFW": false,
           "ModID": 46486,
-          "Name": "Kanjs - Chaurus eggs and staff - 4k - 2k - 1k - New Meshes - Animated Textures",
+          "Name": "Kanjs - Chaurus eggs and staff - OLD VERSION",
           "Version": "2.1.0.0"
         }
       }
@@ -22932,6 +22960,27 @@
           "ModID": 36893,
           "Name": "Rally\u0027s Solstheim AIO",
           "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Lo/cALLCsVs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32539\nfileID=153801",
+        "Name": "REACHBody Classic-32539-1-2-1596573042.rar",
+        "Size": 2382689,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CrepusculeCraft",
+          "Description": "Realistic thin to thick CBBE preset for Bodyslide",
+          "FileID": 153801,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32539/32539-1581322362-1947699470.jpeg",
+          "IsNSFW": false,
+          "ModID": 32539,
+          "Name": "REACHbody- Thin to Thick realistic CBBE preset",
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -25192,6 +25241,27 @@
           "ModID": 10893,
           "Name": "Better Looking Amulets",
           "Version": "2.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Uh7aptBHzCQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43622\nfileID=176052",
+        "Name": "Better Whispering Door - Loose-43622-1-1-1608839952.7z",
+        "Size": 163491,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KaptainCnucklz",
+          "Description": "Edited the black doors voice lines to be deeper, and in effect more menacing and easier on the ears. Headphone users rejoice!",
+          "FileID": 176052,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43622/43622-1608791881-435287473.jpeg",
+          "IsNSFW": false,
+          "ModID": 43622,
+          "Name": "Better Whispering Door - Dark Brotherhood Black Door Voice Tweaked",
+          "Version": "1.1.0.0"
         }
       }
     },
