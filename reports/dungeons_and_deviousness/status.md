@@ -1,13 +1,14 @@
 ## Validation Report - Dungeons & Deviousness: Director's Cut (dungeons_and_deviousness)
 
 
-### Invalid (3)
+### Invalid (4)
 *  2138883329_SLAL_Billyy_Animationsv4.7SE.zip
 *  766663625_BakaFactoryABCLESE2.26V.7z
+*  BattleFuck-20210820.7z
 *  CO More Creatures 1.7 (No Jail Creatures).rar
 ### Updated (0)
 ### Mirrored (0)
-### Valid (893)
+### Valid (892)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
@@ -87,7 +88,6 @@
 *  [Awesome Artifacts-13776-2-3-0-1614467472.7z](https://www.nexusmods.com/skyrimspecialedition/mods/13776/?tab=files&file_id=188449)
 *  [Babo Creature 2021.06.09 SE Fix.7z](https://www.patreon.com/file?h=52272716&i=8750895)
 *  [Babo Human 2021.06.09 SE.7z](https://www.patreon.com/file?h=52272716&i=8205982)
-*  BattleFuck-20210820.7z
 *  BattleFuckSLSOPatch-20210722.7z
 *  [BCC-SkyUI-ESL-v30-25271-3-0-1555977855.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25271/?tab=files&file_id=89351)
 *  [Beards of Power - Polymorph Version-42635-03cbeard-1611369735.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42635/?tab=files&file_id=181178)
