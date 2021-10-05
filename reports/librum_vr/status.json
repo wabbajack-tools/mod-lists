@@ -6574,7 +6574,7 @@
       }
     },
     {
-      "Status": "Mirrored",
+      "Status": "Valid",
       "Original": {
         "Hash": "nwV+ZdkljtM=",
         "Meta": "[General]\ndirectURL=https://github.com/Mutagen-Modding/Synthesis/releases/download/0.19.3/Synthesis.zip",
@@ -6584,16 +6584,6 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/Mutagen-Modding/Synthesis/releases/download/0.19.3/Synthesis.zip"
-        }
-      },
-      "PatchedFrom": {
-        "Hash": "nwV+ZdkljtM=",
-        "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/9f057e65d9258ed3",
-        "Name": "Synthesis.zip",
-        "Size": 77657348,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://mirror.wabbajack.org/9f057e65d9258ed3"
         }
       }
     },

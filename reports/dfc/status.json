@@ -5,7 +5,7 @@
   "ModListHash": "vPX3lhnrJWU=",
   "Archives": [
     {
-      "Status": "Valid",
+      "Status": "Mirrored",
       "Original": {
         "Hash": "8c+dxnxiqyM=",
         "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.1/Mod.Organizer-2.4.1.7z",
@@ -15,6 +15,16 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.1/Mod.Organizer-2.4.1.7z"
+        }
+      },
+      "PatchedFrom": {
+        "Hash": "8c+dxnxiqyM=",
+        "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/f1cf9dc67c62ab23",
+        "Name": "Mod.Organizer-2.4.1.7z",
+        "Size": 89658061,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://mirror.wabbajack.org/f1cf9dc67c62ab23"
         }
       }
     },
@@ -3826,7 +3836,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "hnF4bPXNU4E=",
         "Meta": "[General]\ndirectURL=https://www.dracotorre.com/mods/downloads/SleepIntimateXOXO_v2.7z",
@@ -6663,5 +6673,5 @@
     }
   ],
   "Status": "Failed",
-  "Failures": 1
+  "Failures": 2
 }
