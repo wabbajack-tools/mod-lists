@@ -1,8 +1,8 @@
 {
   "MachineURL": "tinvaak2",
   "Name": "Tinvaak 2",
-  "Version": "0.9.8",
-  "ModListHash": "MuzGUYFnK+Q=",
+  "Version": "1.0",
+  "ModListHash": "SsIgWftzdA0=",
   "Archives": [
     {
       "Status": "Valid",
@@ -3712,6 +3712,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "jpp0MdJzRoE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56658\nfileID=233012",
+        "Name": "Dragon Ragdoll Sounds-56658-1-0-1633527166.zip",
+        "Size": 449,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ClarkWasHere",
+          "Description": "Dragons don\u0027t have ragdoll sounds when they flail about or crash into the ground if you use mid air death mods. This adds sounds to their bodies hitting the floor.",
+          "FileID": 233012,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56658/109368-1633506430-1896214954.png",
+          "IsNSFW": false,
+          "ModID": 56658,
+          "Name": "Dragon Ragdoll Sounds",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "sSuBxSCY/Z0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=17591\nfileID=55799",
         "Name": "Dragon Wall Wisdom - Readable Dragon Walls-17591-1-1.rar",
@@ -5101,13 +5122,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+h58/j1a8PY=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/T2MiscFiles.7z_90ed5059-70ca-4976-83d5-166081ff1609",
+        "Hash": "fa8q4tK6B8w=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/T2MiscFiles.7z_58fe3012-315c-4d73-ac86-9a03d302517a",
         "Name": "T2MiscFiles.7z",
-        "Size": 168764538,
+        "Size": 259185879,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/T2MiscFiles.7z_90ed5059-70ca-4976-83d5-166081ff1609"
+          "Url": "https://authored-files.wabbajack.org/T2MiscFiles.7z_58fe3012-315c-4d73-ac86-9a03d302517a"
         }
       }
     },
@@ -9292,7 +9313,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55210/55210-1630965941-2088953401.png",
           "IsNSFW": false,
           "ModID": 55210,
-          "Name": "Open World Loot - Heritage Patch",
+          "Name": "Open World Loot - Heritage - Reflexive Enemies Patch",
           "Version": "1.0.0.0"
         }
       }
@@ -13804,7 +13825,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "meh321 and KernalsEgg",
-          "Description": "A collection of engine bug fixes and patches made possible by the .NET Script Framework.",
+          "Description": "A collection of engine bug fixes and patches.",
           "FileID": 194716,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43532/43532-1631663358-1008600046.jpeg",
@@ -14819,21 +14840,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bJU/0oisvQI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32382\nfileID=232590",
-        "Name": "DynDOLOD 3.00-32382-Alpha-45-1633366837.7z",
-        "Size": 42584410,
+        "Hash": "ZyZVqzB3DFk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32382\nfileID=232738",
+        "Name": "DynDOLOD 3.00-32382-Alpha-46-1633425412.7z",
+        "Size": 42581940,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sheson",
           "Description": "DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD \u002B tree LOD and the new,  optional dynamic distant object LOD in a few simple steps.",
-          "FileID": 232590,
+          "FileID": 232738,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32382/32382-1580900155-1292674369.jpeg",
           "IsNSFW": false,
           "ModID": 32382,
           "Name": "Dynamic Distant Objects LOD - DynDOLOD",
-          "Version": "Alpha-45"
+          "Version": "Alpha-46"
         }
       }
     },
@@ -15213,6 +15234,27 @@
           "ModID": 18398,
           "Name": "Customizable UI Replacer SE",
           "Version": "2.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fXNp+nCyCDM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56596\nfileID=232801",
+        "Name": "Dirt and Blood - New Dirt Textures - 2k-56596-1-1-1633453396.7z",
+        "Size": 12889918,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MoonMods",
+          "Description": "New Textures for Dirt and Blood.\n\n(Almost) Seamless textures for CBBE/3BA",
+          "FileID": 232801,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56596/56596-1633535457-361107118.png",
+          "IsNSFW": false,
+          "ModID": 56596,
+          "Name": "Dirt and Blood - New Dirt Textures",
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -17031,20 +17073,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "CTe/uvnyJKY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54628\nfileID=224161",
-        "Name": "Flat Map Markers Config File for all FWMF maps-54628-1-0-1630078434.zip",
-        "Size": 1188,
+        "Hash": "JPAvtTzmY3I=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55387\nfileID=227462",
+        "Name": "Flat Map Markers Config File for all FWMF maps-55387-1-0-1631305692.zip",
+        "Size": 1259,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Caites",
-          "Description": "Implements handmade Forgotten Vale map in Map Menu.",
-          "FileID": 224161,
+          "Description": "Implements handmade Soul Cairn map in Map Menu.",
+          "FileID": 227462,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54628/54628-1630078804-925056867.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55387/55387-1631305365-635712956.png",
           "IsNSFW": false,
-          "ModID": 54628,
-          "Name": "Paper Forgotten Vale Map for FWMF",
+          "ModID": 55387,
+          "Name": "Paper Soul Cairn Map for FWMF",
           "Version": "1.0.0.0"
         }
       }
@@ -18060,27 +18102,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "FXKgj4qAe8I=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=48364\nfileID=198638",
-        "Name": "OSD Font for SSE Display Tweaks-48364-1-1-0-1618649420.7z",
-        "Size": 4980,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "jn64",
-          "Description": "Alternative font for the On-Screen Display of SSE Display Tweaks plugin",
-          "FileID": 198638,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/48364/48364-1618063640-1575917092.png",
-          "IsNSFW": false,
-          "ModID": 48364,
-          "Name": "OSD Font for SSE Display Tweaks",
-          "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "5HmsXdd4J90=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=50737\nfileID=206974",
         "Name": "Particle Lights for ENB - Light Orbs - Motes-50737-1-0-1622659895.rar",
@@ -18928,7 +18949,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "meh321 and KernalsEgg",
-          "Description": "A collection of engine bug fixes and patches made possible by the .NET Script Framework.",
+          "Description": "A collection of engine bug fixes and patches.",
           "FileID": 226756,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43532/43532-1631663358-1008600046.jpeg",
@@ -18949,7 +18970,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "meh321 and KernalsEgg",
-          "Description": "A collection of engine bug fixes and patches made possible by the .NET Script Framework.",
+          "Description": "A collection of engine bug fixes and patches.",
           "FileID": 200347,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43532/43532-1631663358-1008600046.jpeg",
@@ -22678,7 +22699,7 @@
         "Size": 808364,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Lumik",
+          "Author": "Lumi",
           "Description": "Are you a conjurer ? Do you use Odin ? Odin have good conjuration spells, but some sounds are too much loud or repetitive, so I tried to fix the sounds to avoid this.",
           "FileID": 192466,
           "GameName": "SkyrimSpecialEdition",
