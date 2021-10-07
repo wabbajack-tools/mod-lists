@@ -1,8 +1,8 @@
 {
   "MachineURL": "elysium",
   "Name": "Elysium",
-  "Version": "5.6.0",
-  "ModListHash": "+vvkx1PR9P8=",
+  "Version": "5.6.1",
+  "ModListHash": "o5qg/YyR0Nk=",
   "Archives": [
     {
       "Status": "Valid",
@@ -29,6 +29,27 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/wabbajack-tools/mod-lists/releases/download/1.0.0/Wabbajack.Theme.for.MO2.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yBufDZv5O30=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=23316\nfileID=233055",
+        "Name": "Cathedral Assets Optimizer 64-23316-5-3-0-1633541000.7z",
+        "Size": 9464077,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "G_k",
+          "Description": "An automation tool used to optimize BSAs, meshes, textures and animations. It helps quickly porting an Oldrim mod to Skyrim Special Edition, and can optimize assets for many Bethesda games.",
+          "FileID": 233055,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23316/23316-1567888135-1230823006.png",
+          "IsNSFW": false,
+          "ModID": 23316,
+          "Name": "Cathedral Assets Optimizer",
+          "Version": "5.3.0.0"
         }
       }
     },
@@ -85,14 +106,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "B0H61OxirmU=",
-        "Meta": "[General]\ndirectURL=https://skse.silverlock.org/beta/skse64_2_00_19.7z",
-        "Name": "skse64_2_00_19.7z",
-        "Size": 922047,
+        "Hash": "v1aK6iCHYs8=",
+        "Meta": "[General]\ndirectURL=https://skse.silverlock.org/beta/skse64_2_00_20.7z",
+        "Name": "skse64_2_00_20.7z",
+        "Size": 813935,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://skse.silverlock.org/beta/skse64_2_00_19.7z"
+          "Url": "https://skse.silverlock.org/beta/skse64_2_00_20.7z"
         }
       }
     },
@@ -2367,15 +2388,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "4og+m8gHo5s=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=28952\nfileID=167078",
-        "Name": "JK\u0027s Skyrim Patch-28952-1-2-1603665231.7z",
-        "Size": 7245712,
+        "Hash": "V7iBujMBw80=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=28952\nfileID=233076",
+        "Name": "JK\u0027s Skyrim Patch 1.2 bis-28952-1-2-1633548103.7z",
+        "Size": 7244979,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "JPSteel2",
           "Description": "A new set of unique buildings for the capital of the Pale.",
-          "FileID": 167078,
+          "FileID": 233076,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28952/28952-1568294372-1569106240.png",
           "IsNSFW": false,
@@ -4919,90 +4940,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ynMBsYUnLQo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=39420\nfileID=155687",
-        "Name": "High Poly NPC Overhaul - The Great Town of Karthwasten-39420-1-0-1597473233.7z",
-        "Size": 1755033,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Zhalroth",
-          "Description": "This is an appearance overhaul for the new NPCs added by the mod \u0022The Great Town of Karthwasten\u0022.",
-          "FileID": 155687,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/39420/39420-1597473052-1796294254.jpeg",
-          "IsNSFW": false,
-          "ModID": 39420,
-          "Name": "High Poly NPC Overhaul - The Great Town of Karthwasten",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "j2rVF4lSWa0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=39445\nfileID=155881",
-        "Name": "High Poly NPC Overhaul - The Great Town of Shor\u0027s Stone-39445-1-0-1597555689.7z",
-        "Size": 1905345,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Zhalroth",
-          "Description": "This is an appearance overhaul for the new NPCs added by the mod \u0022The Great Town of Shor\u0027s Stone\u0022.",
-          "FileID": 155881,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/39445/39445-1597555584-1905952888.jpeg",
-          "IsNSFW": false,
-          "ModID": 39445,
-          "Name": "High Poly NPC Overhaul - The Great Town of Shor\u0027s Stone",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "FY+fvdVWf/4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=39953\nfileID=158325",
-        "Name": "High Poly NPC Overhaul - The Great Village of Mixwater Mill-39953-1-0-1598748946.7z",
-        "Size": 641096,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Zhalroth",
-          "Description": "This is an appearance overhaul for the new NPCs added by \u0022The Great Village of Mixwater Mill\u0022.",
-          "FileID": 158325,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/39953/39953-1598748493-1622884192.jpeg",
-          "IsNSFW": false,
-          "ModID": 39953,
-          "Name": "High Poly NPC Overhaul - The Great Village of Mixwater Mill",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "S6/ONmA4ffI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=39952\nfileID=158318",
-        "Name": "High Poly NPC Overhaul - The Great Village of Old Hroldan-39952-1-0-1598747996.7z",
-        "Size": 640885,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Zhalroth",
-          "Description": "An appearance overhaul for the new NPCs added by \u0022The Great Village of Old Hroldan\u0022",
-          "FileID": 158318,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/39952/39952-1598747741-173582458.jpeg",
-          "IsNSFW": false,
-          "ModID": 39952,
-          "Name": "High Poly NPC Overhaul - The Great Village of Old Hroldan",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "FPlktYm14jY=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=40565\nfileID=165337",
         "Name": "Clockwork (SSE)-40565-1-0-1602596532.7z",
@@ -5033,27 +4970,6 @@
           "Author": "KouLeifo Herowynne katattax",
           "Description": "Gives the adult humanoid NPCs added by various mods High Poly Head faces and KS Hairdos hair. See description for mods covered.",
           "FileID": 165347,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/40565/40565-1601578845-519200048.png",
-          "IsNSFW": false,
-          "ModID": 40565,
-          "Name": "High Poly NPCs",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Eq5/RwPioEo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=40565\nfileID=165348",
-        "Name": "Immersive Patrols SE-40565-1-0-1602596789.7z",
-        "Size": 33721963,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "KouLeifo Herowynne katattax",
-          "Description": "Gives the adult humanoid NPCs added by various mods High Poly Head faces and KS Hairdos hair. See description for mods covered.",
-          "FileID": 165348,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/40565/40565-1601578845-519200048.png",
           "IsNSFW": false,
@@ -5654,42 +5570,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "tlu+CR77yHc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=50999\nfileID=209903",
-        "Name": "(ESL) Immersive World Encounters AddOn - High Poly Uniques-50999-V1-1-1-1624099094.7z",
-        "Size": 44426813,
+        "Hash": "aU+qUwnOehs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=50999\nfileID=233002",
+        "Name": "(ESL) Immersive World Encounters AddOn - High Poly Uniques-50999-V1-2-1633524791.7z",
+        "Size": 44419634,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sette",
           "Description": "An official add-on for Immersive World Encounters",
-          "FileID": 209903,
+          "FileID": 233002,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50999/50999-1623320334-253653946.jpeg",
           "IsNSFW": false,
           "ModID": 50999,
           "Name": "Immersive World Encounters AddOn - High Poly Uniques",
-          "Version": "1.1.1.0"
+          "Version": "1.2.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "UW0j7ee2Tmk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=18330\nfileID=230450",
-        "Name": "Immersive World Encounters SE-18330-V3-4-1632544095.7z",
-        "Size": 124544384,
+        "Hash": "KddgY+BWK9Q=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=18330\nfileID=233019",
+        "Name": "Immersive World Encounters SE-18330-V3-5a-1633527793.7z",
+        "Size": 148680963,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sette",
           "Description": "First released in 2018, Immersive World Encounters has been developped by SetteLisette with a goal to diversify your exploration in Skyrim by adding roughly 100 new random events and new quests.",
-          "FileID": 230450,
+          "FileID": 233019,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18330/18330-1623307232-841701705.jpeg",
           "IsNSFW": false,
           "ModID": 18330,
           "Name": "Immersive World Encounters. FINAL SE",
-          "Version": "3.4.0.0"
+          "Version": "3.5.0.0a"
         }
       }
     },
@@ -8417,6 +8333,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "CLknGFY4RhI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56637\nfileID=232916",
+        "Name": "Modpocalypse NPCs (v2) Immersive Patrols-56637-1-0-1633479610.7z",
+        "Size": 24936876,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ModpocalypseGaming",
+          "Description": "This mod improves the visual appearance of the new NPCs added by Immersive Patrols.",
+          "FileID": 232916,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56637/56637-1633479182-1231080187.jpeg",
+          "IsNSFW": false,
+          "ModID": 56637,
+          "Name": "Modpocalypse NPCs - Immersive Patrols",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "7L+h04M49CM=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=54851\nfileID=225086",
         "Name": "Modpocalypse NPCs (v2) JK\u0027s Skyrim-54851-1-0-1630371652.7z",
@@ -8431,6 +8368,27 @@
           "IsNSFW": false,
           "ModID": 54851,
           "Name": "Modpocalypse NPCs - JK\u0027s Skyrim",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "d7n+BZyMMZU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56635\nfileID=232912",
+        "Name": "Modpocalypse NPCs (v2) Legacy of the Dragonborn-56635-1-0-1633479405.7z",
+        "Size": 19676691,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ModpocalypseGaming",
+          "Description": "This mod improves the visual appearance of the new NPCs added by Legacy of the Dragonborn.",
+          "FileID": 232912,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56635/56635-1633478784-52196774.jpeg",
+          "IsNSFW": false,
+          "ModID": 56635,
+          "Name": "Modpocalypse NPCs - Legacy of the Dragonborn",
           "Version": "1.0.0.0"
         }
       }
@@ -8473,6 +8431,111 @@
           "IsNSFW": false,
           "ModID": 56479,
           "Name": "Modpocalypse NPCs - Obscure\u0027s College of Winterhold",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Ij9FZuXrWiQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56695\nfileID=233124",
+        "Name": "Modpocalypse NPCs (v3) The Great Town of Karthwasten-56695-1-0-1633569506.7z",
+        "Size": 2182436,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ModpocalypseGaming",
+          "Description": "This is an appearance overhaul for the new NPCs added by the mod \u0022The Great Town of Karthwasten\u0022.",
+          "FileID": 233124,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56695/56695-1633569367-1960277341.jpeg",
+          "IsNSFW": false,
+          "ModID": 56695,
+          "Name": "Modpocalypse NPCs - The Great Town of Karthwasten",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eRQvYQXb8K8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56701\nfileID=233140",
+        "Name": "Modpocalypse NPCs (v2) The Great Town of Shor\u0027s Stone-56701-1-0-1633571000.7z",
+        "Size": 1950966,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ModpocalypseGaming",
+          "Description": "This is an appearance overhaul for the new NPCs added by the mod \u0022The Great Town of Shor\u0027s Stone SSE\u0022.",
+          "FileID": 233140,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56701/56701-1633570875-1635481359.jpeg",
+          "IsNSFW": false,
+          "ModID": 56701,
+          "Name": "Modpocalypse NPCs - The Great Town of Shor\u0027s Stone",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/F5ZtXKt9M8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56697\nfileID=233128",
+        "Name": "Modpocalypse NPCs (v2) The Great Village of Kynesgrove-56697-1-0-1633569840.7z",
+        "Size": 2005838,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ModpocalypseGaming",
+          "Description": "This is an appearance overhaul for the new NPCs added by the mod \u0022The Great Village of Kynesgrove\u0022.",
+          "FileID": 233128,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56697/56697-1633569709-830566349.jpeg",
+          "IsNSFW": false,
+          "ModID": 56697,
+          "Name": "Modpocalypse NPCs - The Great Village of Kynesgrove",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "aiuw0K5Uyto=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56698\nfileID=233132",
+        "Name": "Modpocalypse NPCs (v2) The Great Village of Mixwater Mill-56698-1-0-1633570237.7z",
+        "Size": 672057,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ModpocalypseGaming",
+          "Description": "This is an appearance overhaul for the new NPCs added by the mod \u0022The Great Village of Mixwater Mill\u0022.",
+          "FileID": 233132,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56698/56698-1633570150-445447991.jpeg",
+          "IsNSFW": false,
+          "ModID": 56698,
+          "Name": "Modpocalypse NPCs - The Great Village of Mixwater Mill",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5WUmYZvWIk4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56700\nfileID=233137",
+        "Name": "Modpocalypse NPCs (v3) The Great Village of Old Hroldan-56700-1-0-1633570622.7z",
+        "Size": 789619,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ModpocalypseGaming",
+          "Description": "This is an appearance overhaul for the new NPCs added by the mod \u0022The Great Village of Old Hroldan\u0022.",
+          "FileID": 233137,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56700/56700-1633570485-321870662.jpeg",
+          "IsNSFW": false,
+          "ModID": 56700,
+          "Name": "Modpocalypse NPCs - The Great Village of Old Hroldan",
           "Version": "1.0.0.0"
         }
       }
@@ -11317,21 +11380,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "y2iyGDQ/H/w=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54245\nfileID=224557",
-        "Name": "Sidequests of Skyrim-54245-0-4-1630233606.rar",
-        "Size": 120947,
+        "Hash": "FPU3OswRk7o=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54245\nfileID=233160",
+        "Name": "Sidequests of Skyrim-54245-0-5-1633577083.7z",
+        "Size": 71822,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wankingSkeever",
           "Description": "Perform radiant side quests for almost any NPC. Get rewarded and become friends with NPCs",
-          "FileID": 224557,
+          "FileID": 233160,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54245/54245-1629542423-1696082515.png",
           "IsNSFW": false,
           "ModID": 54245,
           "Name": "Sidequests of Skyrim",
-          "Version": "0.4.0.0"
+          "Version": "0.5.0.0"
         }
       }
     },
@@ -11380,21 +11443,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "DKbDKSucEho=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=56235\nfileID=231582",
-        "Name": "Simplicity of Snow-56235-0-1-1-1632969898.7z",
-        "Size": 26187624,
+        "Hash": "2Ppl+kA2O5M=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56235\nfileID=233235",
+        "Name": "Simplicity of Snow-56235-0-2-1633611049.7z",
+        "Size": 27199170,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wankingSkeever",
           "Description": "A light-weight snow mod designed to minimize conflicts. Uses your own snow texture and removes snow from under roofs",
-          "FileID": 231582,
+          "FileID": 233235,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56235/56235-1632818492-1376746124.gif",
           "IsNSFW": false,
           "ModID": 56235,
           "Name": "Simplicity of Snow",
-          "Version": "0.1.1.0"
+          "Version": "0.2.0.0"
         }
       }
     },
@@ -14682,21 +14745,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "M6LeKsGUSSo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=38693\nfileID=165098",
-        "Name": "Zim\u0027s Dragon Improvements V1.1 - LIGHT-38693-V1-1-1602451861.rar",
-        "Size": 1210666,
+        "Hash": "dpbHjiRHkaI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=38693\nfileID=232827",
+        "Name": "Zim\u0027s Dragon Improvements V1.2 - LIGHT-38693-V1-2-1633461597.rar",
+        "Size": 1197067,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Zim",
           "Description": "The aim of this mod is to provide a subtle, lore-friendly improvement to the Dragons of Skyrim that makes encountering one feel more like a boss fight and less like a slightly-more-difficult animal encounter.",
-          "FileID": 165098,
+          "FileID": 232827,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38693/103914-1595539660-1822032732.jpeg",
           "IsNSFW": false,
           "ModID": 38693,
           "Name": "Zim\u0027s Dragon Improvements",
-          "Version": "1.1.0.0"
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -14745,6 +14808,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "HR0wlMaclEA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45182\nfileID=233230",
+        "Name": "zxlice\u0027s ultimate potion animation-45182-1-5-0-1633607159.rar",
+        "Size": 521448,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "zxlice",
+          "Description": "An Animated Potion mechanism-changing SKSE plugin, which makes player and NPCs to have realistic potion animation without delay, and designed to maximize the compatibility with all potions.",
+          "FileID": 233230,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45182/45182-1612534766-606230027.png",
+          "IsNSFW": false,
+          "ModID": 45182,
+          "Name": "zxlice\u0027s ultimate potion animation - ZUPA",
+          "Version": "1.5.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "yma1dX2E2wA=",
         "Meta": "[General]\ndirectURL=https://github.com/deorder/mo2-plugins/releases/download/1.1/deorder_plugins-1.1.zip",
         "Name": "deorder_plugins-1.1.zip",
@@ -14780,42 +14864,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VyV2bsDzLUA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=23316\nfileID=156313",
-        "Name": "Cathedral Assets Optimizer-23316-5-0-15-1597747643.7z",
-        "Size": 8678331,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "G_k",
-          "Description": "An automation tool used to optimize BSAs, meshes, textures and animations. It helps quickly porting an Oldrim mod to Skyrim Special Edition, and can optimize assets for many Bethesda games.",
-          "FileID": 156313,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23316/23316-1567888135-1230823006.png",
-          "IsNSFW": false,
-          "ModID": 23316,
-          "Name": "Cathedral Assets Optimizer",
-          "Version": "5.0.15.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ci5hY6sW3js=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32382\nfileID=229338",
-        "Name": "DynDOLOD 3.00-32382-Alpha-44-1632040828.7z",
-        "Size": 42577483,
+        "Hash": "AG5W3Yjgsl4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32382\nfileID=233225",
+        "Name": "DynDOLOD 3.00-32382-Alpha-47-1633605074.7z",
+        "Size": 42589767,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sheson",
           "Description": "DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD \u002B tree LOD and the new,  optional dynamic distant object LOD in a few simple steps.",
-          "FileID": 229338,
+          "FileID": 233225,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32382/32382-1580900155-1292674369.jpeg",
           "IsNSFW": false,
           "ModID": 32382,
           "Name": "Dynamic Distant Objects LOD - DynDOLOD",
-          "Version": "Alpha-44"
+          "Version": "Alpha-47"
         }
       }
     },
@@ -15963,6 +16026,27 @@
           "ModID": 40021,
           "Name": "Riften Docks Overhaul",
           "Version": "1.51.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "trfeL96D+jQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43532\nfileID=233010",
+        "Name": "Scrambled Bugs-43532-14-1633526767.7z",
+        "Size": 327367,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "meh321 and KernalsEgg",
+          "Description": "A collection of engine bug fixes and patches.",
+          "FileID": 233010,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43532/43532-1631663358-1008600046.jpeg",
+          "IsNSFW": false,
+          "ModID": 43532,
+          "Name": "Scrambled Bugs",
+          "Version": "14.0.0.0"
         }
       }
     },
@@ -19300,22 +19384,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "eN9rU4PSvEs=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Meshes1.bsa",
-        "Name": "Data_Skyrim - Meshes1.bsa",
-        "Size": 373427426,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Meshes1.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "eN9rU4PSvEs="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "eFtZWCVdD/U=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=44971\nfileID=182506",
         "Name": "Remastered Ash Piles Of Skyrim-44971-1-1-1611883469.7z",
@@ -20135,27 +20203,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "tWGjTOKgv1E=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43532\nfileID=226756",
-        "Name": "Scrambled Bugs-43532-13-1631036451.7z",
-        "Size": 368969,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "meh321 and KernalsEgg",
-          "Description": "A collection of engine bug fixes and patches made possible by the .NET Script Framework.",
-          "FileID": 226756,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43532/43532-1631663358-1008600046.jpeg",
-          "IsNSFW": false,
-          "ModID": 43532,
-          "Name": "Scrambled Bugs",
-          "Version": "13.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "1H6gPEwDVKM=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=43532\nfileID=200347",
         "Name": "Scrambled Eggchantments-43532-1-1619468588.7z",
@@ -20163,7 +20210,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "meh321 and KernalsEgg",
-          "Description": "A collection of engine bug fixes and patches made possible by the .NET Script Framework.",
+          "Description": "A collection of engine bug fixes and patches.",
           "FileID": 200347,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43532/43532-1631663358-1008600046.jpeg",
@@ -20744,6 +20791,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "VFda5Qy9Lp8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55543\nfileID=233073",
+        "Name": "Static Mesh Improvement Mod Improvement Mod-55543-1-0-0-1633547286.7z",
+        "Size": 4678479,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Novelyst",
+          "Description": "A mod to improve the topology of a few badly poorly subdivided meshes in the staple Static Mesh Improvement Mod and eliminate jaggedness in some which it does not cover.",
+          "FileID": 233073,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55543/55543-1633362492-930330184.png",
+          "IsNSFW": false,
+          "ModID": 55543,
+          "Name": "Static Mesh Improvement Mod Improvement Mod",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "ao+9l8yXNU8=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=19832\nfileID=126538",
         "Name": "Stay At System Page-19832-1-5-0-1583022131.zip",
@@ -20843,6 +20911,22 @@
           "ModID": 44017,
           "Name": "Swamp fungal pod by Mari",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eN9rU4PSvEs=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Meshes1.bsa",
+        "Name": "Data_Skyrim - Meshes1.bsa",
+        "Size": 373427426,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Meshes1.bsa",
+          "GameVersion": "1.5.97.0",
+          "Hash": "eN9rU4PSvEs="
         }
       }
     },
@@ -24946,6 +25030,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "7BNjN/Gu4kc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56691\nfileID=233113",
+        "Name": "Parallax Meshes for TGC-56691-1-0-1633568130.7z",
+        "Size": 4011299,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ModpocalypseGaming",
+          "Description": "This mod enables parallax on the new meshes added by \u0022The Great Cities/Towns/Villages\u0022 series.",
+          "FileID": 233113,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56691/56691-1633567960-2001408488.jpeg",
+          "IsNSFW": false,
+          "ModID": 56691,
+          "Name": "Parallax Meshes for The Great Cities Towns Villages",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "v48Zk+0ANaI=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=52845\nfileID=224556",
         "Name": "SkeletonReplacer - PatchCollection-52845-1-1-1630233459.7z",
@@ -26675,27 +26780,6 @@
           "ModID": 83593,
           "Name": "The Forgotten City - No Audiobooks",
           "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "uBINMwjZGNU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=35406\nfileID=137155",
-        "Name": "SMIM Rope for Ivarstead-35406-1-0-1588253464.zip",
-        "Size": 1236227,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Brumbek Soldierofwar",
-          "Description": "Add SMIM 3D ropes to lumbermill meshes from The Great Town of Ivarstead and The Great Village of Mixwater Mill",
-          "FileID": 137155,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35406/35406-1588253274-91234142.png",
-          "IsNSFW": false,
-          "ModID": 35406,
-          "Name": "The Great Town and Village - SMIM Patch",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -29589,27 +29673,6 @@
           "ModID": 27269,
           "Name": "Talkative Dragons Audio Replacer",
           "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Td5T9KWmAxU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=35406\nfileID=141823",
-        "Name": "The Great Village of Mixwater Mill - SMIM-35406-1-0-1590340277.zip",
-        "Size": 1285363,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Brumbek Soldierofwar",
-          "Description": "Add SMIM 3D ropes to lumbermill meshes from The Great Town of Ivarstead and The Great Village of Mixwater Mill",
-          "FileID": 141823,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35406/35406-1588253274-91234142.png",
-          "IsNSFW": false,
-          "ModID": 35406,
-          "Name": "The Great Town and Village - SMIM Patch",
-          "Version": "1.0.0.0"
         }
       }
     },
