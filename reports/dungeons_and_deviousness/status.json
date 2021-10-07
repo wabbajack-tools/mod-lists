@@ -1,8 +1,8 @@
 {
   "MachineURL": "dungeons_and_deviousness",
   "Name": "Dungeons \u0026 Deviousness: Director\u0027s Cut",
-  "Version": "2.1.1",
-  "ModListHash": "YMNn0QJTe3A=",
+  "Version": "2.2.0",
+  "ModListHash": "KO/84bbVsHo=",
   "Archives": [
     {
       "Status": "Valid",
@@ -533,21 +533,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "CxGQ8ac8N80=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=272\nfileID=175926",
-        "Name": "Alternate Start - Live Another Life-272-4-1-4-1608766947.7z",
-        "Size": 5134346,
+        "Hash": "rkZo6wi5wlg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=50307\nfileID=229568",
+        "Name": "Hostile Messenger Fix-50307-V2-3-1-1632123808.7z",
+        "Size": 547619,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Arthmoor",
-          "Description": "Live Another Life provides an alternative means to start the game for those who do not wish to go through the lengthy intro sequence at Helgen.",
-          "FileID": 175926,
+          "Author": "Scrab",
+          "Description": "Rewrite \u0026amp; Framework for the Vanilla Intro. Experience Helgens Destruction from a POV different than the Prisoners!",
+          "FileID": 229568,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/9557-1-1401347037.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50307/50307-1626608069-215982230.png",
           "IsNSFW": false,
-          "ModID": 272,
-          "Name": "Alternate Start - Live Another Life - SSE",
-          "Version": "4.1.4.0"
+          "ModID": 50307,
+          "Name": "Alternate Perspective",
+          "Version": "2.3.1.0"
         }
       }
     },
@@ -668,6 +668,50 @@
           "IsNSFW": true,
           "Name": "AnimatedParasites SE",
           "Version": "0.1.5.3.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "asGK07qL2Ng=",
+        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=17411\nips4File=[SE] Anuketh Godessess Pack.zip",
+        "Name": "[SE] Anuketh Godessess Pack.zip",
+        "Size": 99134245,
+        "State": {
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
+          "Author": "Anuketh",
+          "Description": "",
+          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2021_05/cover.png.af3141b0d880d8be10922b24ee7c3dca.png",
+          "IPS4File": "[SE] Anuketh Godessess Pack.zip",
+          "IPS4Mod": 17411,
+          "IPS4Url": "https://www.loverslab.com/files/file/17411-anuketh-greek-goddesses-megapack-standalone-followers-se/",
+          "IsAttachment": false,
+          "IsNSFW": true,
+          "Name": "Anuketh Greek Goddesses MegaPack - Standalone Followers SE",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JaocugMFgq8=",
+        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=17830\nips4File=AP - Sold Out V2.7z",
+        "Name": "AP - Sold Out V2.7z",
+        "Size": 1074,
+        "State": {
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
+          "Author": "Scrab",
+          "Description": "",
+          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2021_05/ScreenShot71.png.a819b630b3ae5074c6875baa7a56f421.png",
+          "IPS4File": "AP - Sold Out V2.7z",
+          "IPS4Mod": 17830,
+          "IPS4Url": "https://www.loverslab.com/files/file/17830-alternate-perspective-sold-out/",
+          "IsAttachment": false,
+          "IsNSFW": true,
+          "Name": "Alternate Perspective - Sold Out",
+          "Version": "V2.0"
         }
       }
     },
@@ -932,7 +976,7 @@
         "Size": 24762,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dylan James - lazygecko",
+          "Author": "Dylan James - lazygecko - Katarsi",
           "Description": "An intelligently-made integration of the two largest and most extensive audio mods available for Skyrim. \n\nExperience all of what both expansive mods have to offer while maintaining full-compatibility between both projects.",
           "FileID": 143472,
           "GameName": "SkyrimSpecialEdition",
@@ -1106,24 +1150,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
-        "Hash": "EahjtJ9Jsng=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=7556\nips4File=766663625_BakaFactoryABCLESE2.26V.7z",
-        "Name": "766663625_BakaFactoryABCLESE2.26V.7z",
-        "Size": 144830421,
+        "Hash": "PZzG8YWiumY=",
+        "Meta": "[General]\ndirectURL=https://www.patreon.com/file?h=22802542\u0026i=8938266",
+        "Name": "BakaFactory ABC LE SE 2.30V.7z",
+        "Size": 151461285,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "factoryclose",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2019_01/ezgif.com-video-to-gif.gif.c635f1f3d36150c03882b28e0b4fd5c7.gif",
-          "IPS4File": "766663625_BakaFactoryABCLESE2.26V.7z",
-          "IPS4Mod": 7556,
-          "IPS4Url": "https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "Animated Beast\u0027s Cocks(ABC) For users LE / SE",
-          "Version": "2.26V"
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://www.patreon.com/file?h=22802542\u0026i=8938266"
         }
       }
     },
@@ -1149,24 +1185,24 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
-        "Hash": "IZ76H/HP6EQ=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=18241\nips4File=BattleFuck-20210820.7z",
-        "Name": "BattleFuck-20210820.7z",
-        "Size": 404519,
+        "Hash": "zboSBe0fx1w=",
+        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=18241\nips4File=BattleFuck-20211005.7z",
+        "Name": "BattleFuck-20211005.7z",
+        "Size": 413935,
         "State": {
           "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "Suzutsuki",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2021_07/799250610_BATTLEFUCK!_square.png.b778c0598a369d8bf346715f232b6e2a.png",
-          "IPS4File": "BattleFuck-20210820.7z",
+          "IPS4File": "BattleFuck-20211005.7z",
           "IPS4Mod": 18241,
           "IPS4Url": "https://www.loverslab.com/files/file/18241-battle-fuck/",
           "IsAttachment": false,
           "IsNSFW": true,
           "Name": "Battle Fuck!",
-          "Version": "20210820"
+          "Version": "20211005"
         }
       }
     },
@@ -1188,7 +1224,7 @@
           "IsAttachment": false,
           "IsNSFW": true,
           "Name": "Battle Fuck!",
-          "Version": "20210820"
+          "Version": "20211005"
         }
       }
     },
@@ -1286,13 +1322,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "BDA Team",
-          "Description": "Applies the Better Dynamic Snow shader to ash objects in Solstheim.",
+          "Description": "",
           "FileID": 177820,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/14644/14644-1516123436-1067282087.jpeg",
+          "ImageURL": null,
           "IsNSFW": false,
           "ModID": 14644,
-          "Name": "Better Dynamic Ash SE",
+          "Name": "",
           "Version": "2.0.0.0"
         }
       }
@@ -1319,23 +1355,23 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
-        "Hash": "W5jDycDXI0I=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=3999\nips4File=2138883329_SLAL_Billyy_Animationsv4.7SE.zip",
-        "Name": "2138883329_SLAL_Billyy_Animationsv4.7SE.zip",
-        "Size": 145896645,
+        "Hash": "/9ASQeeYZGQ=",
+        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=3999\nips4File=1243369920_SLAL_Billyy_Animationsv4.9SE.zip",
+        "Name": "1243369920_SLAL_Billyy_Animationsv4.9SE.zip",
+        "Size": 148611835,
         "State": {
           "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "Billyy",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2018_08/1844895303_Draugr3pCG(1).jpg.363ad64376ff9e7def7fe03c4c15eaa2.jpg",
-          "IPS4File": "2138883329_SLAL_Billyy_Animationsv4.7SE.zip",
+          "IPS4File": "1243369920_SLAL_Billyy_Animationsv4.9SE.zip",
           "IPS4Mod": 3999,
-          "IPS4Url": "https://www.loverslab.com/files/file/3999-billyys-slal-animations-2021-8-1/",
+          "IPS4Url": "https://www.loverslab.com/files/file/3999-billyys-slal-animations-2021-10-1/",
           "IsAttachment": false,
           "IsNSFW": true,
-          "Name": "Billyy\u0027s SLAL Animations (2021-8-1)",
+          "Name": "Billyy\u0027s SLAL Animations (2021-10-1)",
           "Version": ""
         }
       }
@@ -1905,24 +1941,24 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
-        "Hash": "5vb3sApNz9s=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=12760\nips4File=CO More Creatures 1.7 (No Jail Creatures).rar",
-        "Name": "CO More Creatures 1.7 (No Jail Creatures).rar",
-        "Size": 169898,
+        "Hash": "nL4SlmZ5l7U=",
+        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=12760\nips4File=CO More Creatures 1.8 (No Jail Creatures).rar",
+        "Name": "CO More Creatures 1.8 (No Jail Creatures).rar",
+        "Size": 162095,
         "State": {
           "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "Snoipeh",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2020_06/2011050234_AnimatedWolf.gif.2e2c30ab4f2cc52c783cc11e8bfc60a4.gif",
-          "IPS4File": "CO More Creatures 1.7 (No Jail Creatures).rar",
+          "IPS4File": "CO More Creatures 1.8 (No Jail Creatures).rar",
           "IPS4Mod": 12760,
           "IPS4Url": "https://www.loverslab.com/files/file/12760-creature-overhaul/",
           "IsAttachment": false,
           "IsNSFW": true,
           "Name": "Creature Overhaul",
-          "Version": "1.7/1.0"
+          "Version": "1.8/1.1"
         }
       }
     },
@@ -2245,13 +2281,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "otEOZzEh/wo=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/DNDDC DynDOLOD Output 2.1.0.7z_beaa2203-e30c-47ea-82fd-46ae68cb19ba",
-        "Name": "DNDDC DynDOLOD Output 2.1.0.7z",
-        "Size": 427184633,
+        "Hash": "41sfYA2gUUM=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/DNDDC DynDOLOD Output 2.2.0.zip_6551d7a9-ef76-4307-bdbd-0742a5693687",
+        "Name": "DNDDC DynDOLOD Output 2.2.0.zip",
+        "Size": 665321680,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/DNDDC%20DynDOLOD%20Output%202.1.0.7z_beaa2203-e30c-47ea-82fd-46ae68cb19ba"
+          "Url": "https://authored-files.wabbajack.org/DNDDC%20DynDOLOD%20Output%202.2.0.zip_6551d7a9-ef76-4307-bdbd-0742a5693687"
         }
       }
     },
@@ -4029,6 +4065,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "R/w+HMQnKWk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=35205\nfileID=136356",
+        "Name": "Erotica Skill-35205-1-1587868808.zip",
+        "Size": 3096,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Skulliam4",
+          "Description": "Skyrim\u0027s erotica teaches One-Handed to males and Lockpicking to females.",
+          "FileID": 136356,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35205/35205-1587868576-1620690923.jpeg",
+          "IsNSFW": true,
+          "ModID": 35205,
+          "Name": "One-Handed or Lockpicking Skill Book - Lusty Argonian Maid and Others",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "2WQmwh+loQs=",
         "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=1890\nips4File=EggFactory35a.zip",
         "Name": "EggFactory35a.zip",
@@ -4282,22 +4339,22 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/BT6MULpbCo=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=6160\nips4File=Estrus Chaurus V4.37se.7z",
-        "Name": "Estrus Chaurus V4.37se.7z",
-        "Size": 4753086,
+        "Hash": "xe3BUAd8wsM=",
+        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=1033\nips4File=Estrus Chaurus V4.390 SE.7z",
+        "Name": "Estrus Chaurus V4.390 SE.7z",
+        "Size": 4766007,
         "State": {
           "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "Pfiffy",
+          "Author": "Bane Master",
           "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2019_06/SC.jpg.bef578a2ab80bc9b8f13bda9091b3f72.jpg",
-          "IPS4File": "Estrus Chaurus V4.37se.7z",
-          "IPS4Mod": 6160,
-          "IPS4Url": "https://www.loverslab.com/files/file/6160-estrus-chaurus-for-se/",
+          "ImageURL": "https://static.loverslab.com/screenshots/58424c65087935a45232ed526243f877-estrus_chaurus.png",
+          "IPS4File": "Estrus Chaurus V4.390 SE.7z",
+          "IPS4Mod": 1033,
+          "IPS4Url": "https://www.loverslab.com/files/file/1033-estrus-chaurus/",
           "IsAttachment": false,
           "IsNSFW": true,
-          "Name": "Estrus Chaurus for SE",
-          "Version": "4.37 SE"
+          "Name": "Estrus Chaurus\u002B",
+          "Version": "V4.390 (29/08/2021)"
         }
       }
     },
@@ -4378,7 +4435,7 @@
           "Description": "This mod replaces the morphs for the vanilla human and elf character creations and adds a morph for Racemenu.",
           "FileID": 151138,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35785/102796-1589047753-939570794.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35785/35785-1604675729-217979873.jpeg",
           "IsNSFW": false,
           "ModID": 35785,
           "Name": "Expressive Facegen Morphs SE",
@@ -5995,22 +6052,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "MQm1IBywSQs=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=1211391\nips4File=",
-        "Name": "763371993_SexLabParasitesSE2021-06-30.7z",
-        "Size": 218568100,
+        "Hash": "TedMTdbV9No=",
+        "Meta": "[General]\ndirectURL=https://mega.nz/file/obZj0QKK#CcTaWCv4YqxFKKWF_bRs-uzih4_iFpU-AWIqvMhAhWM",
+        "Name": "1420278612_SexLabParasitesSE2021-07-31.7z",
+        "Size": 215658537,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "ImageURL": null,
-          "IPS4File": null,
-          "IPS4Mod": 1211391,
-          "IPS4Url": "https://loverslab.com//applications/core/interface/file/attachment.php?id=1211391",
-          "IsAttachment": true,
-          "IsNSFW": false,
-          "Name": null,
-          "Version": null
+          "$type": "MegaDownloader, Wabbajack.Lib",
+          "Url": "https://mega.nz/file/obZj0QKK#CcTaWCv4YqxFKKWF_bRs-uzih4_iFpU-AWIqvMhAhWM"
         }
       }
     },
@@ -6290,21 +6338,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "JzQ6dFuWTIw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43158\nfileID=223607",
-        "Name": "Lux-43158-3-0-1629869934.rar",
-        "Size": 206875018,
+        "Hash": "QRDr/7rkVhQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43158\nfileID=230563",
+        "Name": "Lux-43158-3-2-1632584889.rar",
+        "Size": 234592335,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "GGUNIT",
           "Description": "Consistent and complete rework of Skyrim interiors lighting. This mod takes advantage of the latest developments in enb, including enb light, and has for main objective to offer a gaming experience as realistic as it is dramatic.",
-          "FileID": 223607,
+          "FileID": 230563,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43158/43158-1607340742-1060911231.jpeg",
           "IsNSFW": false,
           "ModID": 43158,
           "Name": "Lux",
-          "Version": "3.0.0.0"
+          "Version": "3.2.0.0"
         }
       }
     },
@@ -6849,27 +6897,6 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://www.patreon.com/file?h=53262094\u0026i=8377963"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2RdC0ymRbIw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=4939\nfileID=71751",
-        "Name": "Alternate Start -- New Beginnings-4939-1-3-1541752063.7z",
-        "Size": 83945,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Original by Flo27 SSE version by Kelsenellenelvian",
-          "Description": "New Beginnings Live Another Life Extension adds a lot of new options to Live another life by Arthmoor",
-          "FileID": 71751,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4939-3-1479958338.jpg",
-          "IsNSFW": false,
-          "ModID": 4939,
-          "Name": "New Beginnings - Live Another Life Extension SSE",
-          "Version": "1.3.0.0"
         }
       }
     },
@@ -8018,7 +8045,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20982/49892-1541269677-1183855329.jpeg",
           "IsNSFW": false,
           "ModID": 20982,
-          "Name": "Riverside Shack - Buildable Player Home",
+          "Name": "Riverside Shack",
           "Version": "3.0.0.0"
         }
       }
@@ -8039,7 +8066,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20982/49892-1541269677-1183855329.jpeg",
           "IsNSFW": false,
           "ModID": 20982,
-          "Name": "Riverside Shack - Buildable Player Home",
+          "Name": "Riverside Shack",
           "Version": "3.0.1.0"
         }
       }
@@ -8238,28 +8265,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Hnf4kk1PEZs=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=11466\nips4File=SE_SLAM.7z",
-        "Name": "SE_SLAM.7z",
-        "Size": 133363,
-        "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "Ecohex",
-          "Description": "",
-          "ImageURL": null,
-          "IPS4File": "SE_SLAM.7z",
-          "IPS4Mod": 11466,
-          "IPS4Url": "https://www.loverslab.com/files/file/11466-sexlab-aroused-monitor-widget-se/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "SexLab Aroused Monitor Widget SE",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "vEC/KaGwjZY=",
         "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=11867\nips4File=SexLab Confabulation - Solutions Patch V1.7.4.zip",
         "Name": "SexLab Confabulation - Solutions Patch V1.7.4.zip",
@@ -8326,22 +8331,22 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "9dZheDJ+fIc=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=5929\nips4File=SexLab-Separate-Orgasm-SE-1.6.7 SL1.63b8.7z",
-        "Name": "SexLab-Separate-Orgasm-SE-1.6.7 SL1.63b8.7z",
-        "Size": 125420,
+        "Hash": "Q/ATPsrbzCQ=",
+        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=5929\nips4File=SexLab-Separate-Orgasm-SE-1.7.3 SL1.63b9.7z",
+        "Name": "SexLab-Separate-Orgasm-SE-1.7.3 SL1.63b9.7z",
+        "Size": 139026,
         "State": {
           "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "Ed86",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2018_05/0mcm.jpg.a5d8937014078349975af0845147cf36.jpg",
-          "IPS4File": "SexLab-Separate-Orgasm-SE-1.6.7 SL1.63b8.7z",
+          "IPS4File": "SexLab-Separate-Orgasm-SE-1.7.3 SL1.63b9.7z",
           "IPS4Mod": 5929,
           "IPS4Url": "https://www.loverslab.com/files/file/5929-sexlab-separate-orgasm-se/",
           "IsAttachment": false,
           "IsNSFW": true,
           "Name": "SexLab Separate Orgasm SE",
-          "Version": "1.6.7"
+          "Version": "1.7.3"
         }
       }
     },
@@ -8390,15 +8395,16 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
-        "Hash": "QzCbS/1k04Y=",
-        "Meta": "[General]\ndirectURL=https://mega.nz/file/jIRgUKDZ#1Px1-XXNSIwDKMeZc4IZe-X6dMXpvlVbNMUrOTiXNNI",
-        "Name": "SexLabFrameworkSE_v163_BETA8.7z",
-        "Size": 71897584,
+        "Hash": "TdTIr+iwXU4=",
+        "Meta": "[General]\ndirectURL=https://github.com/eeveelo/SexLab/archive/refs/heads/development.zip",
+        "Name": "SexLab-development.zip",
+        "Size": 108797063,
         "State": {
-          "$type": "MegaDownloader, Wabbajack.Lib",
-          "Url": "https://mega.nz/file/jIRgUKDZ#1Px1-XXNSIwDKMeZc4IZe-X6dMXpvlVbNMUrOTiXNNI"
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/eeveelo/SexLab/archive/refs/heads/development.zip"
         }
       }
     },
@@ -8991,22 +8997,44 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ZUBOZYmOzMg=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=14089\nips4File=SLSFFameComments v2.1NS SE.7z",
-        "Name": "SLSFFameComments v2.1NS SE.7z",
-        "Size": 115713,
+        "Hash": "8+LQg+4MhpY=",
+        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=14089\nips4File=SLSFFameComments v3.0 SE.7z",
+        "Name": "SLSFFameComments v3.0 SE.7z",
+        "Size": 395945,
         "State": {
           "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "Gristle",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2020_10/1419786182_SLSFFameComments2.png.84e67392ca9d505360443795d16d1bf7.png",
-          "IPS4File": "SLSFFameComments v2.1NS SE.7z",
+          "IPS4File": "SLSFFameComments v3.0 SE.7z",
           "IPS4Mod": 14089,
           "IPS4Url": "https://www.loverslab.com/files/file/14089-slsf-fame-comments-se/",
           "IsAttachment": false,
           "IsNSFW": true,
           "Name": "SLSF Fame Comments SE",
-          "Version": "2.1"
+          "Version": "3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cJb3HjBbUT4=",
+        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=19148\nips4File=SLWidgets 1.1.0 (SE).7z",
+        "Name": "SLWidgets 1.1.0 (SE).7z",
+        "Size": 112553,
+        "State": {
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
+          "Author": "crajjjj",
+          "Description": "",
+          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2021_09/slwidgets3.png.0b3ff79e3d585404e3dc2da5cc6d5951.png",
+          "IPS4File": "SLWidgets 1.1.0 (SE).7z",
+          "IPS4Mod": 19148,
+          "IPS4Url": "https://www.loverslab.com/files/file/19148-sl-widgets/",
+          "IsAttachment": false,
+          "IsNSFW": true,
+          "Name": "SL Widgets",
+          "Version": "Version 1.1.0 (25092021)"
         }
       }
     },
@@ -9553,27 +9581,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "n/sU+9+0xV0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=12713\nfileID=37782",
-        "Name": "Toccata Follower SE v1.4.2-12713-1-4-2.7z",
-        "Size": 131170771,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "rxkx22 and Kasprutz and cloudedtruth",
-          "Description": "A standalone female follower by rxkx22.\r\n\nShe will heal you and other followers in combat.\r\n\nIncludes a MCM that allows you to fully customize her combat behavior, class/skills, and spells.",
-          "FileID": 37782,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/12713-0-1508718395.jpg",
-          "IsNSFW": true,
-          "ModID": 12713,
-          "Name": "Toccata Follower SE (With Elisif Replacer Option)",
-          "Version": "1.4.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "ZAgJbKREVZc=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=23081\nfileID=80352",
         "Name": "Trade and Barter SE-23081-2-0-1549045766.7z",
@@ -10004,7 +10011,7 @@
           "Description": "A water modification that takes full advantage of advanced features offered by ENBSeries.",
           "FileID": 160032,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37061/37061-1591799580-904729202.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37061/37061-1631361680-2098426155.jpeg",
           "IsNSFW": false,
           "ModID": 37061,
           "Name": "Water for ENB",
@@ -10877,6 +10884,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "SRH5UXhq7PU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=50307\nfileID=229389",
+        "Name": "Alternate Perspective-50307-V2-3-1632067427.7z",
+        "Size": 7731816,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Scrab",
+          "Description": "Rewrite \u0026amp; Framework for the Vanilla Intro. Experience Helgens Destruction from a POV different than the Prisoners!",
+          "FileID": 229389,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50307/50307-1626608069-215982230.png",
+          "IsNSFW": false,
+          "ModID": 50307,
+          "Name": "Alternate Perspective",
+          "Version": "2.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "IRj/BcalX6E=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=46753\nfileID=209295",
         "Name": "Dont Read Elder Scrolls While Swimming - SKSE-46753-1-1-1623792031.7z",
@@ -10892,6 +10920,28 @@
           "ModID": 46753,
           "Name": "Andrealphus\u0027 Exploit Fixes",
           "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gG/hUPtOrYs=",
+        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=17830\nips4File=AP - Sold Out.7z",
+        "Name": "AP - Sold Out.7z",
+        "Size": 38993,
+        "State": {
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
+          "Author": "Scrab",
+          "Description": "",
+          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2021_05/ScreenShot71.png.a819b630b3ae5074c6875baa7a56f421.png",
+          "IPS4File": "AP - Sold Out.7z",
+          "IPS4Mod": 17830,
+          "IPS4Url": "https://www.loverslab.com/files/file/17830-alternate-perspective-sold-out/",
+          "IsAttachment": false,
+          "IsNSFW": true,
+          "Name": "Alternate Perspective - Sold Out",
+          "Version": "V2.0"
         }
       }
     },
@@ -11032,6 +11082,28 @@
           "ModID": 24858,
           "Name": "ConsoleUtilSSE",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Hnf4kk1PEZs=",
+        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=11466\nips4File=SE_SLAM.7z",
+        "Name": "SE_SLAM.7z",
+        "Size": 133363,
+        "State": {
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
+          "Author": "Ecohex",
+          "Description": "",
+          "ImageURL": null,
+          "IPS4File": "SE_SLAM.7z",
+          "IPS4Mod": 11466,
+          "IPS4Url": "https://www.loverslab.com/files/file/11466-sexlab-aroused-monitor-widget-se/",
+          "IsAttachment": false,
+          "IsNSFW": true,
+          "Name": "SexLab Aroused Monitor Widget SE",
+          "Version": "1.0.0"
         }
       }
     },
@@ -11543,7 +11615,7 @@
           "IsAttachment": false,
           "IsNSFW": true,
           "Name": "SexLab Separate Orgasm SE",
-          "Version": "1.6.7"
+          "Version": "1.7.3"
         }
       }
     },
@@ -13415,7 +13487,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
-          "Description": "An SKSE plugin that can be used to add spells/leveled spells/perks/items/leveled items/shouts/packages/outfits to every NPC in the game, using config files.",
+          "Description": "SKSE plugin that can be used to add spells/leveled spells/perks/items/leveled items/shouts/packages/outfits to every NPC in the game, using config files.",
           "FileID": 187929,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/36869/36869-1591389125-628593205.png",
@@ -13965,7 +14037,7 @@
           "Description": "Here we have my Dunmer preset, I feel like I don\u0027t see enough of them so I decided to create one to share to everyone :)",
           "FileID": 194879,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47818/47818-1617190988-238719077.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47818/47818-1631801567-1204442311.jpeg",
           "IsNSFW": true,
           "ModID": 47818,
           "Name": "Alvara - High Poly Dark Elf Preset",
@@ -14479,7 +14551,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "r1Goodwin",
-          "Description": "This mod adds bodyslide preset for CBBE and 3BA Body.\n\nHas different shapes for weight 0, 50 and 100.\n\n\n\nEnjoy!",
+          "Description": "This mod adds bodyslide preset for CBBE and 3BA Body.\n\nHas different shapes for weight 0, 50 and 100.",
           "FileID": 199932,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/48916/48916-1619263008-1879568373.png",
@@ -14713,7 +14785,7 @@
           "Description": "Say hello to Ella :) She\u0027s a Breton who is usually very relaxed but if you get to know her she can be quite the character :D",
           "FileID": 195398,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45993/45993-1617360021-665409826.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45993/45993-1632727238-1057802886.jpeg",
           "IsNSFW": true,
           "ModID": 45993,
           "Name": "Ella - High Poly Breton Preset",
@@ -14903,7 +14975,7 @@
           "Description": "HDT-SMP \u0026amp; CBP Settings for CBBE body with less Jell-O-like jiggle.",
           "FileID": 168993,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42107/42107-1627430307-2078134372.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42107/42107-1627431773-1275083199.jpeg",
           "IsNSFW": false,
           "ModID": 42107,
           "Name": "Firm HDT-SMP and CBP Settings for CBBE",
@@ -15733,28 +15805,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zXvUr7MF/GE=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=18156\nips4File=SexLab Parasites CBBE SE and 3BBB Bodyslides V2.7z",
-        "Name": "SexLab Parasites CBBE SE and 3BBB Bodyslides V2.7z",
-        "Size": 88148915,
-        "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "ForgottenGlory",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2021_06/LLAPC.png.bf78e57ddb1fb0340d21997032fe2006.png",
-          "IPS4File": "SexLab Parasites CBBE SE and 3BBB Bodyslides V2.7z",
-          "IPS4Mod": 18156,
-          "IPS4Url": "https://www.loverslab.com/files/file/18156-llapc-loverslab-attachment-patch-compendium/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "LLAPC - LoversLab Attachment Patch Compendium",
-          "Version": "1.0.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "EKxJNuvW+/M=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=41601\nfileID=166444",
         "Name": "Leah - High Poly Female Preset-41601-1-0-1603296920.zip",
@@ -16548,6 +16598,19 @@
           "ModID": 32667,
           "Name": "SavrenX Lux Weapons",
           "Version": "f1.00"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "m1c75mjiDEw=",
+        "Meta": "[General]\ndirectURL=https://mega.nz/file/IWYFiKiD#ci8OcvnY_7fwSBtD_Ehm4_mAcShfFnwNgAzXLk0IL_g",
+        "Name": "SexLab Parasites CBBE SE and 3BBB Bodyslides V7.7z",
+        "Size": 115220379,
+        "State": {
+          "$type": "MegaDownloader, Wabbajack.Lib",
+          "Url": "https://mega.nz/file/IWYFiKiD#ci8OcvnY_7fwSBtD_Ehm4_mAcShfFnwNgAzXLk0IL_g"
         }
       }
     },
@@ -17711,6 +17774,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Q0V35dxfbIY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43158\nfileID=231182",
+        "Name": "Dwemer split mesh fix-43158-3-2-1632809409.7z",
+        "Size": 21702,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GGUNIT",
+          "Description": "Consistent and complete rework of Skyrim interiors lighting. This mod takes advantage of the latest developments in enb, including enb light, and has for main objective to offer a gaming experience as realistic as it is dramatic.",
+          "FileID": 231182,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43158/43158-1607340742-1060911231.jpeg",
+          "IsNSFW": false,
+          "ModID": 43158,
+          "Name": "Lux",
+          "Version": "3.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "HgEXiQeAZLo=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=46761\nfileID=190547",
         "Name": "Maduia-46761-1-0-1615336360.7z",
@@ -17763,7 +17847,7 @@
           "Description": "This is a retexture for the Khajiit male, it will make your Khajiit look more masculine.",
           "FileID": 1000209543,
           "GameName": "Skyrim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/110/images/70481-0-1445662428.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/110/images/70481/70481-1631628919-1953996472.png",
           "IsNSFW": true,
           "ModID": 70481,
           "Name": "Masculine Khajiit Textures (Grey Cat and Leopard)",
@@ -17999,6 +18083,28 @@
           "ModID": 32667,
           "Name": "SavrenX Lux Weapons",
           "Version": "f1.00"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zXvUr7MF/GE=",
+        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=18156\nips4File=SexLab Parasites CBBE SE and 3BBB Bodyslides V2.7z",
+        "Name": "SexLab Parasites CBBE SE and 3BBB Bodyslides V2.7z",
+        "Size": 88148915,
+        "State": {
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
+          "Author": "ForgottenGlory",
+          "Description": "",
+          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2021_06/LLAPC.png.bf78e57ddb1fb0340d21997032fe2006.png",
+          "IPS4File": "SexLab Parasites CBBE SE and 3BBB Bodyslides V2.7z",
+          "IPS4Mod": 18156,
+          "IPS4Url": "https://www.loverslab.com/files/file/18156-llapc-loverslab-attachment-patch-compendium/",
+          "IsAttachment": false,
+          "IsNSFW": true,
+          "Name": "LLAPC - LoversLab Attachment Patch Compendium",
+          "Version": "1.0.3"
         }
       }
     },
@@ -18455,5 +18561,5 @@
     }
   ],
   "Status": "Failed",
-  "Failures": 4
+  "Failures": 1
 }

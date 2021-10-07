@@ -54,6 +54,30 @@
   {
     "Status": "Mirrored",
     "Original": {
+      "Hash": "qE+ufQxw1o4=",
+      "Meta": "[General]\ndirectURL=https://github.com/post-kerbin-mining-corporation/NearFutureSolar/releases/download/1.3.1/NearFutureSolar_1_3_1.zip",
+      "Name": "NearFutureSolar_1_3_1.zip",
+      "Size": 25611101,
+      "State": {
+        "$type": "HttpDownloader, Wabbajack.Lib",
+        "Headers": [],
+        "Url": "https://github.com/post-kerbin-mining-corporation/NearFutureSolar/releases/download/1.3.1/NearFutureSolar_1_3_1.zip"
+      }
+    },
+    "PatchedFrom": {
+      "Hash": "qE+ufQxw1o4=",
+      "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/a84fae7d0c70d68e",
+      "Name": "NearFutureSolar_1_3_1.zip",
+      "Size": 25611101,
+      "State": {
+        "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+        "Url": "https://mirror.wabbajack.org/a84fae7d0c70d68e"
+      }
+    }
+  },
+  {
+    "Status": "Mirrored",
+    "Original": {
       "Hash": "nJ59BDEM0qc=",
       "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimse_v0462.zip\ndirectURLHeaders=Referer:http://enbdev.com/download_mod_tesskyrimse.htm",
       "Name": "enbseries_skyrimse_v0462.zip",
@@ -100,6 +124,30 @@
       "State": {
         "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
         "Url": "https://mirror.wabbajack.org/1131d11bde2ca2cb"
+      }
+    }
+  },
+  {
+    "Status": "Mirrored",
+    "Original": {
+      "Hash": "4Ik5n1UzK9o=",
+      "Meta": "[General]\ndirectURL=https://github.com/post-kerbin-mining-corporation/NearFutureLaunchVehicles/releases/download/2.1.3/NearFutureLaunchVehicles_2_1_3.zip",
+      "Name": "NearFutureLaunchVehicles_2_1_3.zip",
+      "Size": 169106732,
+      "State": {
+        "$type": "HttpDownloader, Wabbajack.Lib",
+        "Headers": [],
+        "Url": "https://github.com/post-kerbin-mining-corporation/NearFutureLaunchVehicles/releases/download/2.1.3/NearFutureLaunchVehicles_2_1_3.zip"
+      }
+    },
+    "PatchedFrom": {
+      "Hash": "4Ik5n1UzK9o=",
+      "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/e089399f55332bda",
+      "Name": "NearFutureLaunchVehicles_2_1_3.zip",
+      "Size": 169106732,
+      "State": {
+        "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+        "Url": "https://mirror.wabbajack.org/e089399f55332bda"
       }
     }
   },
