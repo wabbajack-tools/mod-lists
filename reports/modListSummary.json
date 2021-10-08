@@ -194,14 +194,14 @@
   {
     "name": "Big Warden",
     "machineURL": "big_warden",
-    "failed": 1,
-    "passed": 151,
+    "failed": 0,
+    "passed": 152,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/big_warden/status.json",
     "report": "reports/big_warden/status.md",
     "modlist_missing": false,
-    "has_failures": true
+    "has_failures": false
   },
   {
     "name": "Relics of Hyrule - GAT Edition",
@@ -422,14 +422,14 @@
   {
     "name": "Tsukiro",
     "machineURL": "tsukiro",
-    "failed": 0,
-    "passed": 734,
+    "failed": 1,
+    "passed": 733,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/tsukiro/status.json",
     "report": "reports/tsukiro/status.md",
     "modlist_missing": false,
-    "has_failures": false
+    "has_failures": true
   },
   {
     "name": "Living Skyrim",
@@ -446,14 +446,14 @@
   {
     "name": "Dungeons \u0026 Deviousness: Director\u0027s Cut",
     "machineURL": "dungeons_and_deviousness",
-    "failed": 0,
-    "passed": 902,
+    "failed": 1,
+    "passed": 901,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/dungeons_and_deviousness/status.json",
     "report": "reports/dungeons_and_deviousness/status.md",
     "modlist_missing": false,
-    "has_failures": false
+    "has_failures": true
   },
   {
     "name": "MOISE",
@@ -507,9 +507,9 @@
     "name": "Tranquility",
     "machineURL": "tranquility",
     "failed": 7,
-    "passed": 1017,
+    "passed": 1018,
     "updating": 0,
-    "mirrored": 2,
+    "mirrored": 1,
     "link": "reports/tranquility/status.json",
     "report": "reports/tranquility/status.md",
     "modlist_missing": false,
