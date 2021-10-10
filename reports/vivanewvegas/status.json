@@ -1,8 +1,8 @@
 {
   "MachineURL": "vivanewvegas",
   "Name": "Viva New Vegas",
-  "Version": "1.2.9",
-  "ModListHash": "ppRTUGu2HZI=",
+  "Version": "1.2.10",
+  "ModListHash": "2d8tb+0Xfx8=",
   "Archives": [
     {
       "Status": "Valid",
@@ -56,14 +56,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "npTeQxLqXDk=",
-        "Meta": "[General]\ndirectURL=https://github.com/xNVSE/NVSE/releases/download/6.2.2/nvse_6_2_2.7z",
-        "Name": "nvse_6_2_2.7z",
-        "Size": 494235,
+        "Hash": "Wh2C6o8jo8Q=",
+        "Meta": "[General]\ndirectURL=https://github.com/xNVSE/NVSE/releases/download/6.2.4/nvse_6_2_4.7z",
+        "Name": "nvse_6_2_4.7z",
+        "Size": 496008,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/xNVSE/NVSE/releases/download/6.2.2/nvse_6_2_2.7z"
+          "Url": "https://github.com/xNVSE/NVSE/releases/download/6.2.4/nvse_6_2_4.7z"
         }
       }
     },
@@ -154,42 +154,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "1U4a0IJabQ4=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=70973\nfileID=1000073105",
-        "Name": "Better Character Creation-70973-1-6-1615301731.7z",
-        "Size": 16597,
+        "Hash": "yKZPHodQEww=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=70973\nfileID=1000080872",
+        "Name": "Better Character Creation-70973-1-7-1631193693.7z",
+        "Size": 16468,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Qolore7",
           "Description": "Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.",
-          "FileID": 1000073105,
+          "FileID": 1000080872,
           "GameName": "FalloutNewVegas",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/70973/70973-1611607409-798723973.png",
           "IsNSFW": false,
           "ModID": 70973,
           "Name": "Better Character Creation",
-          "Version": "1.6.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "i47PrE8/wGY=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=71512\nfileID=1000077588",
-        "Name": "Complex Vendors-71512-1-1-1623693162.7z",
-        "Size": 1829,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Qolore7",
-          "Description": "Makes vendors only buy items related to their profession (e.g. doctors only buy aid items). Fully scripted, no conflicts.",
-          "FileID": 1000077588,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71512/71512-1614562084-406174405.png",
-          "IsNSFW": false,
-          "ModID": 71512,
-          "Name": "Complex Vendors",
-          "Version": "1.1.0.0"
+          "Version": "1.7.0.0"
         }
       }
     },
@@ -217,21 +196,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KSiRqmbz2sM=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=71490\nfileID=1000080213",
-        "Name": "Follower Formula Redone-71490-1-2-1629924786.7z",
-        "Size": 9577,
+        "Hash": "o40DDKHU4lo=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=71490\nfileID=1000081492",
+        "Name": "Follower Formula Redone-71490-1-4-1632433864.7z",
+        "Size": 9667,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Qolore7",
           "Description": "Changes the amount of followers for you can have to your Charisma stat/2, rounded down. Charisma is no longer a dump stat!",
-          "FileID": 1000080213,
+          "FileID": 1000081492,
           "GameName": "FalloutNewVegas",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71490/71490-1614383844-639157762.png",
           "IsNSFW": false,
           "ModID": 71490,
           "Name": "Follower Formula Redone",
-          "Version": "1.2.0.0"
+          "Version": "1.4.0.0"
         }
       }
     },
@@ -490,20 +469,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/jWZf0kSscw=",
-        "Meta": "[General]\ndirectURL=https://github.com/c6-dev/c6-dev.github.io/raw/8aad6aeea987e135c3843450bfcc46e3411b601f/mod/NMFL-NV.zip",
-        "Name": "NMFL-NV.zip",
-        "Size": 507,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/c6-dev/c6-dev.github.io/raw/8aad6aeea987e135c3843450bfcc46e3411b601f/mod/NMFL-NV.zip"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "sYMUvUTuGKU=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=62153\nfileID=1000038443",
         "Name": "Real Recoil v1.2.1-62153-1-2-1.7z",
@@ -546,21 +511,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HYv5MpZWOls=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=71390\nfileID=1000074910",
-        "Name": "Simple Interior Lighting Overhaul-71390-1-3-1618340231.7z",
-        "Size": 1940,
+        "Hash": "7UXPZUv08ss=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=71390\nfileID=1000081486",
+        "Name": "Simple Interior Lighting Overhaul-71390-1-5-1632429617.7z",
+        "Size": 2504,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Qolore 7 - Anro24",
           "Description": "Simple scripted interior lighting overhaul. Automatically works with any mod",
-          "FileID": 1000074910,
+          "FileID": 1000081486,
           "GameName": "FalloutNewVegas",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71390/71390-1613788181-76508826.png",
           "IsNSFW": false,
           "ModID": 71390,
           "Name": "Simple Interior Lighting Overhaul",
-          "Version": "1.3.0.0"
+          "Version": "1.5.0.0"
         }
       }
     },
@@ -651,14 +616,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "jxA/Y9eXO9o=",
-        "Meta": "[General]\ndirectURL=https://eddoursul.win/download/202",
-        "Name": "Unfound-Loot-1.0rc1.7z",
-        "Size": 22114,
+        "Hash": "GIUctcirgrM=",
+        "Meta": "[General]\ndirectURL=https://eddoursul.win/download/582",
+        "Name": "Unfound Loot 1.0rc2 [eddoursul.win].7z",
+        "Size": 24802,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://eddoursul.win/download/202"
+          "Url": "https://eddoursul.win/download/582"
         }
       }
     },
@@ -838,21 +803,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Qq/oink1tDE=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=66347\nfileID=1000080403",
-        "Name": "Stewie Tweaks-66347-6-75-1630259714.zip",
-        "Size": 475684,
+        "Hash": "AfVPv+IYB54=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=66347\nfileID=1000082003",
+        "Name": "Stewie Tweaks-66347-6-91-1633285070.zip",
+        "Size": 484666,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "lStewieAl",
           "Description": "A fully customisable engine plugin providing a collection of optional bugfixes, tweaks and new features to the game with no performance impact. \n\nIncludes Inventory Searching, Cookable Grenades, Smooth Aiming, WASD Menu Support and more. Fully compatible with TTW and The Frontier.",
-          "FileID": 1000080403,
+          "FileID": 1000082003,
           "GameName": "FalloutNewVegas",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/66347/66347-1609155725-1037587166.png",
           "IsNSFW": false,
           "ModID": 66347,
           "Name": "lStewieAl\u0027s Tweaks",
-          "Version": "6.75.0.0"
+          "Version": "6.91.0.0"
         }
       }
     },
@@ -950,21 +915,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6iJXgsLJuaQ=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=58277\nfileID=1000079232",
-        "Name": "JIP LN NVSE Plugin-58277-56-31-1627700382.7z",
-        "Size": 183559,
+        "Hash": "I2HqjYyfci4=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=58277\nfileID=1000080718",
+        "Name": "JIP LN NVSE Plugin-58277-56-34-1630858699.7z",
+        "Size": 183942,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "jazzisparis and LuthienAnarion",
           "Description": "This plugin is an extension of the New Vegas Script Extender (NVSE). It adds 900\u002B new functions, which can be used in GECK scripting and (in some cases) as conditions.\n\nAdditionally, this mod includes numerous engine bug fixes/tweaks, and restores several broken game features.",
-          "FileID": 1000079232,
+          "FileID": 1000080718,
           "GameName": "FalloutNewVegas",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/58277-1-1424895949.jpg",
           "IsNSFW": false,
           "ModID": 58277,
           "Name": "JIP LN NVSE Plugin",
-          "Version": "56.31.0.0"
+          "Version": "56.34.0.0"
         }
       }
     },
@@ -992,28 +957,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "MFKYuaoZGsc=",
-        "Meta": "[General]\ndirectURL=https://github.com/carxt/JohnnyGuitarNVSE/releases/download/4.0/JohnnyGuitar.NVSE-4.0.zip",
-        "Name": "JohnnyGuitar.NVSE-4.0.zip",
-        "Size": 137700,
+        "Hash": "mJ1lbLqak/g=",
+        "Meta": "[General]\ndirectURL=https://github.com/carxt/JohnnyGuitarNVSE/releases/download/4.10/JohnnyGuitarNVSE_4.10.7z",
+        "Name": "JohnnyGuitarNVSE_4.10.7z",
+        "Size": 116282,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/carxt/JohnnyGuitarNVSE/releases/download/4.0/JohnnyGuitar.NVSE-4.0.zip"
+          "Url": "https://github.com/carxt/JohnnyGuitarNVSE/releases/download/4.10/JohnnyGuitarNVSE_4.10.7z"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "nbEY6Nz9d8c=",
-        "Meta": "[General]\ndirectURL=https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/81e5df54cdfa1a70358556b197635546c245721f/lStewieAl\u0027s%20Tweaks%20Custom%20INI.7z",
+        "Hash": "g1asJnyP9kk=",
+        "Meta": "[General]\ndirectURL=https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/6bd07d41a94e8983828a43ae3f545684b3727215/lStewieAl\u0027s%20Tweaks%20Custom%20INI.7z",
         "Name": "lStewieAl\u0027s Tweaks Custom INI.7z",
-        "Size": 28353,
+        "Size": 28809,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/81e5df54cdfa1a70358556b197635546c245721f/lStewieAl\u0027s%20Tweaks%20Custom%20INI.7z"
+          "Url": "https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/6bd07d41a94e8983828a43ae3f545684b3727215/lStewieAl\u0027s%20Tweaks%20Custom%20INI.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qJ5hAVMHWtA=",
+        "Meta": "[General]\ndirectURL=https://github.com/c6-dev/c6-dev.github.io/raw/106107b42fb9d8f7eb812501f5409081b6442639/mod/NMFL-NV_2.0.7z",
+        "Name": "NMFL-NV_2.0.7z",
+        "Size": 738,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/c6-dev/c6-dev.github.io/raw/106107b42fb9d8f7eb812501f5409081b6442639/mod/NMFL-NV_2.0.7z"
         }
       }
     },
@@ -1154,6 +1133,27 @@
           "ModID": 71101,
           "Name": "Better Ghouls - No Roar Animation",
           "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pYMekeMdyu8=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=71512\nfileID=1000082243",
+        "Name": "Complex Vendors-71512-1-3-1633712776.7z",
+        "Size": 1220,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Qolore7",
+          "Description": "Makes vendors only buy items related to their profession (e.g. doctors only buy aid items). No ESP, no conflicts.",
+          "FileID": 1000082243,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71512/71512-1614562084-406174405.png",
+          "IsNSFW": false,
+          "ModID": 71512,
+          "Name": "Complex Vendors",
+          "Version": "1.3.0.0"
         }
       }
     },
