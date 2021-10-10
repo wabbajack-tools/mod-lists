@@ -312,7 +312,7 @@
 *  [Emfy Cleric-4853-2-01-1556249833.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4853/?tab=files&file_id=89720)
 *  [ENB Helper SE 1.5 for SSE 1.5.97-23174-1-5-1574569443.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23174/?tab=files&file_id=114237)
 *  [ENB Light 0.95 Release Candidate 2-22574-0-95-1555278577.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=88473)
-*  [enbseries_skyrimse_v0454.zip](https://mirror.wabbajack.org/7465f6d4f89ad156)
+*  [enbseries_skyrimse_v0463.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0463.zip_0eba6cb9-ace6-439c-aa69-cd9f8054df28)
 *  [Enchantment Reload Fix SE-21055-1-4-1574334575.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21055/?tab=files&file_id=113960)
 *  [Enemy (R)Evolution of Skyrim - EEOS Installer-37228-1-77-0-1614787135.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37228/?tab=files&file_id=189162)
 *  [Enhanced Lights and FX-2424-3-06.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2424/?tab=files&file_id=35608)
