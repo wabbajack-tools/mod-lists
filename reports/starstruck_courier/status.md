@@ -1,11 +1,10 @@
 ## Validation Report - Starstruck Courier (starstruck_courier)
 
 
-### Invalid (1)
-*  [TTW General Oliver Hat Fix-66747-1-0-1554288316.zip](https://www.nexusmods.com/newvegas/mods/66747/?tab=files&file_id=1000053009)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (202)
+### Valid (203)
 *  [_TTW Interiors Combo v6.5-66449-v6-5-1554528986.7z](https://www.nexusmods.com/newvegas/mods/66449/?tab=files&file_id=1000053074)
 *  [(TTW) Benny Humbles You-69842-1-05-1600663334.7z](https://www.nexusmods.com/newvegas/mods/69842/?tab=files&file_id=1000065771)
 *  [A Roleplayer's History - Patchy's Picks-72032-1-0-1618133654.rar](https://www.nexusmods.com/newvegas/mods/72032/?tab=files&file_id=1000074785)
@@ -173,6 +172,7 @@
 *  [TTW A World of Pain A World of Pain for Fallout 3-66268-1-01-1552236281.7z](https://www.nexusmods.com/newvegas/mods/66268/?tab=files&file_id=1000052504)
 *  [TTW Dialogue Expansion for Role-Players v1.1-70907-1-1-1612224075.rar](https://www.nexusmods.com/newvegas/mods/70907/?tab=files&file_id=1000070747)
 *  [TTW DLC Sortomatic Homes 1-0-65988-1-0-1542603998.7z](https://www.nexusmods.com/newvegas/mods/65988/?tab=files&file_id=1000050305)
+*  [TTW General Oliver Hat Fix-66747-1-0-1554288316.zip](https://www.nexusmods.com/newvegas/mods/66747/?tab=files&file_id=1000053009)
 *  [TTW Interiors Core v4.3.3-66449-v4-3-3-1554528862.7z](https://www.nexusmods.com/newvegas/mods/66449/?tab=files&file_id=1000053073)
 *  [TTW New Vegas Speech Checks-68736-1-1-1587740028.7z](https://www.nexusmods.com/newvegas/mods/68736/?tab=files&file_id=1000061168)
 *  [TTW PN supermutant fix-67383-1-0-1564680034.zip](https://www.nexusmods.com/newvegas/mods/67383/?tab=files&file_id=1000055366)
