@@ -1,11 +1,10 @@
 ## Validation Report - Dungeons & Deviousness: Director's Cut (dungeons_and_deviousness)
 
 
-### Invalid (1)
-*  AnimalMansionPlusNS_SE_v1.1.7z
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (901)
+### Valid (902)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
@@ -50,6 +49,7 @@
 *  [Andrealphus Tweaks - Player Grab Stealing-46753-1-0-1615328612.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46753/?tab=files&file_id=190524)
 *  [Andrealphus Tweaks - Releasing Clutter on Actors deals Damage-46753-1-0-1615328546.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46753/?tab=files&file_id=190521)
 *  [Ania A Beautiful Racemenu Preset High Poly Version-38032-1-0-1594110784.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38032/?tab=files&file_id=149207)
+*  AnimalMansionPlusNS_SE_v1.1.7z
 *  [Animated Clutter SSE-14398-1-9.rar](https://www.nexusmods.com/skyrimspecialedition/mods/14398/?tab=files&file_id=42632)
 *  AnimatedParasites_SE_0.1.5.3.3.7z
 *  AP - Sold Out V2.7z
