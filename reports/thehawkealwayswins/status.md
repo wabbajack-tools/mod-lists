@@ -1,11 +1,10 @@
 ## Validation Report - The Hawke Always Wins (thehawkealwayswins)
 
 
-### Invalid (1)
-*  [DA2 stuff.rar](https://authored-files.wabbajack.org/DA2 stuff.rar_39f85419-e624-4866-b4f2-5bae66eb9739)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (34)
+### Valid (35)
 *  [[DA2] Vanilla Face Skin Retexture.7z](https://www.dropbox.com/s/ufq152ljefsqbty/%5BDA2%5D Vanilla Face Skin Retexture.7z?dl=1)
 *  [13c-2145-1-3c.rar](https://www.nexusmods.com/dragonage2/mods/2145/?tab=files&file_id=12074)
 *  [All weapon and armor improved-4375-1-0-1612517220.rar](https://www.nexusmods.com/dragonage2/mods/4375/?tab=files&file_id=1000003196)
@@ -15,6 +14,7 @@
 *  [Better Combat - Main-2766-1-1.7z](https://www.nexusmods.com/dragonage2/mods/2766/?tab=files&file_id=13818)
 *  [Black Underwear-4421-1-0-1627088907.rar](https://www.nexusmods.com/dragonage2/mods/4421/?tab=files&file_id=1000003383)
 *  [Companion Retextures-3930-1-0.7z](https://www.nexusmods.com/dragonage2/mods/3930/?tab=files&file_id=1000001339)
+*  [DA2 stuff.rar](https://authored-files.wabbajack.org/DA2 stuff.rar_39f85419-e624-4866-b4f2-5bae66eb9739)
 *  [DLC-Away-4117-1-0.zip](https://www.nexusmods.com/dragonage2/mods/4117/?tab=files&file_id=1000001953)
 *  [elven_tallis_redux_c.rar-4026-2-0-1621318895.rar](https://www.nexusmods.com/dragonage2/mods/4026/?tab=files&file_id=1000003351)
 *  [Epilogue Restoration and Fixes v1.1a-4062-1-1.zip](https://www.nexusmods.com/dragonage2/mods/4062/?tab=files&file_id=1000001957)
