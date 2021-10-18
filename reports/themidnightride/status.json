@@ -1,8 +1,8 @@
 {
   "MachineURL": "themidnightride",
   "Name": "The Midnight Ride",
-  "Version": "0.0.2",
-  "ModListHash": "JJmaFGOAk0Y=",
+  "Version": "0.0.3",
+  "ModListHash": "oOtpmCFiWlE=",
   "Archives": [
     {
       "Status": "Valid",
@@ -41,7 +41,7 @@
         "Size": 2690368,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kerber",
+          "Author": "Karandra",
           "Description": "This mod allows preload F4SE plugins before the game initializes.",
           "FileID": 195989,
           "GameName": "Fallout4",
@@ -98,27 +98,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "OmueQXLTIk4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=4106\nfileID=54946",
-        "Name": "SkjAlert V5.1-4106-5-1.7z",
-        "Size": 953,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Shaikujin",
-          "Description": "Changes the 2 second message when a settlement is attacked to a standard message box (see screenshot).",
-          "FileID": 54946,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/4106-0-1449059428.jpg",
-          "IsNSFW": false,
-          "ModID": 4106,
-          "Name": "Shaikujin\u0027s Better warning for settlements being attacked",
-          "Version": "5.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "SvEwCOl2Tgs=",
         "Meta": "[General]\ngameName=fallout4\nmodID=31991\nfileID=187621",
         "Name": "Clarity 4.3 BETA-31991-4-3-1595653144.7z",
@@ -140,14 +119,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "TzCNNGHY61Y=",
-        "Meta": "[General]\ndirectURL=https://github.com/VivaNewVegas/The-Midnight-Ride-Patch-Emporium/raw/9f1f061f2f37f5382c92dd20a630c29111759bfe/Clarity%20-%20Darker%20Nights.7z",
-        "Name": "Clarity - Darker Nights.7z",
-        "Size": 10435,
+        "Hash": "OkUM0vu3bhM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=55025\nfileID=219471",
+        "Name": "Commonwealth Climate-55025-1-2-1634585345.7z",
+        "Size": 5937,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/VivaNewVegas/The-Midnight-Ride-Patch-Emporium/raw/9f1f061f2f37f5382c92dd20a630c29111759bfe/Clarity%20-%20Darker%20Nights.7z"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Qolore7",
+          "Description": "Makes Fallout 4 a little more bleak/post-apocalyptic without completely changing the game\u0027s aesthetics",
+          "FileID": 219471,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/55025/55025-1634072197-1310231843.png",
+          "IsNSFW": false,
+          "ModID": 55025,
+          "Name": "Commonwealth Climate - A Vanilla Plus Weather Mod",
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -553,14 +539,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PDQWUWxtl1I=",
-        "Meta": "[General]\ndirectURL=https://github.com/VivaNewVegas/The-Midnight-Ride-Patch-Emporium/raw/c3375e45de6d25f23c6107ac70093bd90f05a496/Ruddy%20Simple%20Sorter%20Plugin.7z",
+        "Hash": "di3D3xLjxjY=",
+        "Meta": "[General]\ndirectURL=https://github.com/VivaNewVegas/The-Midnight-Ride-Patch-Emporium/raw/da6fb20a0a0f0d0a9b12834b42b9b9afa3f1dcf2/Ruddy%20Simple%20Sorter%20Plugin.7z",
         "Name": "Ruddy Simple Sorter Plugin.7z",
-        "Size": 225291,
+        "Size": 225401,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/VivaNewVegas/The-Midnight-Ride-Patch-Emporium/raw/c3375e45de6d25f23c6107ac70093bd90f05a496/Ruddy%20Simple%20Sorter%20Plugin.7z"
+          "Url": "https://github.com/VivaNewVegas/The-Midnight-Ride-Patch-Emporium/raw/da6fb20a0a0f0d0a9b12834b42b9b9afa3f1dcf2/Ruddy%20Simple%20Sorter%20Plugin.7z"
         }
       }
     },
@@ -609,14 +595,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ppqfXZTLchs=",
-        "Meta": "[General]\ndirectURL=https://github.com/VivaNewVegas/The-Midnight-Ride-Patch-Emporium/raw/7dc43e2bf5c8811a0a46a85d749b9ac036890c48/TMR%20Conflict%20Resolution%20FOMOD.7z",
+        "Hash": "zvJOYW7IOuw=",
+        "Meta": "[General]\ndirectURL=https://github.com/VivaNewVegas/The-Midnight-Ride-Patch-Emporium/raw/556ef916a17f1ee63a99da9c138838b08c4b88c7/TMR%20Conflict%20Resolution%20FOMOD.7z",
         "Name": "TMR Conflict Resolution FOMOD.7z",
-        "Size": 566905,
+        "Size": 568526,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/VivaNewVegas/The-Midnight-Ride-Patch-Emporium/raw/7dc43e2bf5c8811a0a46a85d749b9ac036890c48/TMR%20Conflict%20Resolution%20FOMOD.7z"
+          "Url": "https://github.com/VivaNewVegas/The-Midnight-Ride-Patch-Emporium/raw/556ef916a17f1ee63a99da9c138838b08c4b88c7/TMR%20Conflict%20Resolution%20FOMOD.7z"
         }
       }
     },

@@ -10841,7 +10841,7 @@
       }
     },
     {
-      "Status": "Mirrored",
+      "Status": "Valid",
       "Original": {
         "Hash": "zZRIzKEqcLU=",
         "Meta": "[General]\ndirectURL=https://github.com/Mutagen-Modding/Synthesis/releases/download/0.13.1/Synthesis.exe",
@@ -10851,16 +10851,6 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/Mutagen-Modding/Synthesis/releases/download/0.13.1/Synthesis.exe"
-        }
-      },
-      "PatchedFrom": {
-        "Hash": "zZRIzKEqcLU=",
-        "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/cd9448cca12a70b5",
-        "Name": "Synthesis.exe",
-        "Size": 122785021,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://mirror.wabbajack.org/cd9448cca12a70b5"
         }
       }
     },
