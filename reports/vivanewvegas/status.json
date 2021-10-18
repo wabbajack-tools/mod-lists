@@ -1,8 +1,8 @@
 {
   "MachineURL": "vivanewvegas",
   "Name": "Viva New Vegas",
-  "Version": "1.2.11",
-  "ModListHash": "O609Vklb4a0=",
+  "Version": "1.2.12",
+  "ModListHash": "Zs4fxBhQJ7E=",
   "Archives": [
     {
       "Status": "Valid",
@@ -280,42 +280,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/BUKZx39Jr4=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=66676\nfileID=1000077966",
-        "Name": "Just Dynamic Crosshair-66676-4-1-1624694798.7z",
-        "Size": 16717,
+        "Hash": "LYJ4Bvi34Cs=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=66666\nfileID=1000079507",
+        "Name": "Just Assorted Mods-66666-4-1j-1628272208.7z",
+        "Size": 4879418,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "yvileapsis",
-          "Description": "Just a mod that adds dynamic crosshair which reacts to changes in weapon\u0027s spread. \n\nRequires UIO and JIPLN.",
-          "FileID": 1000077966,
+          "Author": "yvileapsis and others",
+          "Description": "A collection of my mods, merged for convenience. \n\nRequires JIP LN NVSE and JohnnyGuitar NVSE.",
+          "FileID": 1000079507,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/66676/66676-1553376295-1132587784.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/66666/66666-1605545881-1902299479.png",
           "IsNSFW": false,
-          "ModID": 66676,
-          "Name": "JDC - Just Dynamic Crosshair",
-          "Version": "4.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "y7oC8foMWn4=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=66667\nfileID=1000077967",
-        "Name": "Just Hit Marker-66667-4-1-1624694894.7z",
-        "Size": 11199,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "yvileapsis",
-          "Description": "Just a mod that adds hit marker. \n\nRequires UIO and JIPLN.",
-          "FileID": 1000077967,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/66667/66667-1553375977-2022703013.png",
-          "IsNSFW": false,
-          "ModID": 66667,
-          "Name": "JHM - Just Hit Marker",
-          "Version": "4.1.0.0"
+          "ModID": 66666,
+          "Name": "JAM - Just Assorted Mods",
+          "Version": "4.1.0.0j"
         }
       }
     },
@@ -337,27 +316,6 @@
           "ModID": 59638,
           "Name": "JIP Improved Recipe Menu",
           "Version": "1.20.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "KA83ISC9I0Y=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=68084\nfileID=1000078442",
-        "Name": "Just Loot Menu-68084-4-1g-1625952950.7z",
-        "Size": 31684,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "yvileapsis",
-          "Description": "Just a small mod that adds a FO76-like Loot Menu. Also features container animations by Hitman47101.",
-          "FileID": 1000078442,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/68084/68084-1605531955-346721570.png",
-          "IsNSFW": false,
-          "ModID": 68084,
-          "Name": "JLM - Just Loot Menu",
-          "Version": "4.1.0.0g"
         }
       }
     },
@@ -400,27 +358,6 @@
           "ModID": 61592,
           "Name": "JSawyer Ultimate Edition",
           "Version": "5.2.14.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "t9aWOCcqxsI=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=68485\nfileID=1000072368",
-        "Name": "Marathoner-68485-v1-3-1614213957.zip",
-        "Size": 1810,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Unvalid User Name",
-          "Description": "A simple alternative to sprint mods. Increases player\u0027s running speed when out of combat. Having your weapon drawn or a crippled leg causes the speed boost to end.",
-          "FileID": 1000072368,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/68485/68485-1584373962-1939939750.png",
-          "IsNSFW": false,
-          "ModID": 68485,
-          "Name": "Marathoner",
-          "Version": "1.3.0.0"
         }
       }
     },
@@ -789,6 +726,20 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "/mTvP+1rjxg=",
+        "Meta": "[General]\ndirectURL=https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/9067999b4308b9b83a4d880af2a8d93580df78ca/Just%20Assorted%20Mods%20Custom%20INI.7z",
+        "Name": "Just Assorted Mods Custom INI.7z",
+        "Size": 1418,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/9067999b4308b9b83a4d880af2a8d93580df78ca/Just%20Assorted%20Mods%20Custom%20INI.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "TrDR4AaDBVk=",
         "Meta": "[General]\ndirectURL=https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/0c51c7d2253c97ed8a96fe926a56c0aecca43d87/JSawyer%20Ultimate%20Edition%20Custom%20INI.7z",
         "Name": "JSawyer Ultimate Edition Custom INI.7z",
@@ -930,27 +881,6 @@
           "ModID": 58277,
           "Name": "JIP LN NVSE Plugin",
           "Version": "56.34.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cNSKUlbGebM=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=68084\nfileID=1000077399",
-        "Name": "Just Loot Menu - Container Animations-68084-1-0-1623425755.7z",
-        "Size": 636024,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "yvileapsis",
-          "Description": "Just a small mod that adds a FO76-like Loot Menu. Also features container animations by Hitman47101.",
-          "FileID": 1000077399,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/68084/68084-1605531955-346721570.png",
-          "IsNSFW": false,
-          "ModID": 68084,
-          "Name": "JLM - Just Loot Menu",
-          "Version": "1.0.0.0"
         }
       }
     },
