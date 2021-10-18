@@ -7,7 +7,6 @@
 ***
 
 - [Skyrim Special Edition](#skyrim-special-edition)
-  - [NOIR - Nice Overall Improvement Requiem](#noir---nice-overall-improvement-requiem)
   - [TSO - Total Skyrim Overhaul](#tso---total-skyrim-overhaul)
   - [RGE - Relics of Hyrule - Grand Admiral Thrawn Edition](#rge---relics-of-hyrule---grand-admiral-thrawn-edition)
   - [Elysium](#elysium)
@@ -25,7 +24,6 @@
   - [(NSFW)Tsukiro(NSFW)](#nsfwtsukironsfw)
 - [Fallout 4](#fallout-4)
   - [Fallout 4: Enhanced Edition (F4EE)](#fallout-4-enhanced-edition-f4ee)
-  - [Sim Settlements Experience](#sim-settlements-experience)
   - [Magnum Opus](#magnum-opus)
   - [Welcome to Paradise](#welcome-to-paradise)
 - [Skyrim Special Edition - VR](#skyrim-special-edition---vr)
@@ -42,29 +40,13 @@
   - [The Vault Courier](#the-vault-courier)
   - [Starstruck Courier](#starstruck-courier)
 - [Oblivion](#oblivion)
-  - [Bevilex](#bevilex)
+  - [Heartland](#heartland)
   - [Through The Valleys](#through-the-valleys)
   - [Wojo's Oblivion Overhaul List](#wool)
 
 ***
 
 ## Skyrim Special Edition
-
-***
-
-### [NOIR - Nice Overall Improvement Requiem](https://www.wabbajack.org/#/modlists/info?machineURL=noir)
-
-NOIR is meant to serve two purposes: first, to introduce players to the world of Requiem inside of an environment full of enhanced graphics and new gameplay options; second, to serve as a potential base for veteran modders that wish to add various overhauls such as AZTweaks, 3Tweaks, and other complex mods.
-
-**_Mods to get familiar with:_**
-
-[Requiem](https://www.nexusmods.com/skyrim/mods/19281)  
-[Requiem - Minor Arcana Reborn (R-MAR)](https://www.nexusmods.com/skyrim/mods/90983)  
-[Requiem - Classic Food and Drink (R-CFD](https://www.nexusmods.com/skyrim/mods/90714)  
-[Requiem - Classic Alchemy Overhaul (R-CAO)](https://www.nexusmods.com/skyrim/mods/86504)  
-[Requiem - Immersive Abilities](https://www.nexusmods.com/skyrim/mods/96880)  
-[Requiem - Immersive Divine Blessings](https://www.nexusmods.com/skyrim/mods/90691)  
-[Requiem - Standing Stone Rebalance](https://www.nexusmods.com/skyrim/mods/88988)  
 
 ***
 
@@ -302,20 +284,6 @@ F4EE is a hardcore experience built around Horizon. Survival difficulty is a mai
 
 ***
 
-### [Sim Settlements Experience](https://www.wabbajack.org/#/modlists/info?machineURL=ssem)
-
-This modlist is created entirely by a member of the Sim Settlements team, and is meant to be a showcase for both the mod itself and its vast array of potential additions. Really great list to build on top of, provided you don’t want the fuss of sorting through all the SS expansions and prefer to have that section done for you.
-
-**_Mods to get familiar with:_**
-
-[Sim Settlements](https://www.nexusmods.com/fallout4/mods/21872/)  
-[Sim Settlements - Conqueror](https://www.nexusmods.com/fallout4/mods/37000)  
-[Workshop Plus](https://www.nexusmods.com/fallout4/mods/35005)  
-[Sim Settlements - Mega Pack - Year One](https://www.nexusmods.com/fallout4/mods/30396)  
-[Sim Settlements - Mega Pack - Year Two](https://www.nexusmods.com/fallout4/mods/37983)  
-
-***
-
 ### [Magnum Opus](https://www.wabbajack.org/#/modlists/info?machineURL=magnum_opus)
 
 This list aims to greatly expand the content of Fallout 4 while keeping the original game fully intact. Featuring hundreds of new weapons and armors, dozens of quests and locations, tons of gameplay tweaks, and a custom sorting system, Magnum Opus will do its best to allow you to have fun in whatever way you want while still providing a moderate challenge.
@@ -506,7 +474,7 @@ Starstruck Courier combines Tale of Two Wastelands with Fallout: New California,
 
 ***
 
-### [Bevilex](https://www.wabbajack.org/#/modlists/info?machineURL=bevilex)
+### [Heartland](https://www.wabbajack.org/#/modlists/info?machineURL=heartland)
 
 ***
 
