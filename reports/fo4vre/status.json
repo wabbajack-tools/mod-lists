@@ -2,7 +2,7 @@
   "MachineURL": "fo4vre",
   "Name": "Fallout VR Essentials Overhaul",
   "Version": "9.8.5",
-  "ModListHash": "9puHWAcmOvc=",
+  "ModListHash": "0tDY0njUrPY=",
   "Archives": [
     {
       "Status": "Valid",
@@ -75,7 +75,7 @@
         "Size": 116757,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kerber",
+          "Author": "Karandra",
           "Description": "This mod allows preload F4SE plugins before the game initializes.",
           "FileID": 142513,
           "GameName": "Fallout4",
@@ -1495,7 +1495,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "llamaRCA",
-          "Description": "From the author of New Vegas\u0027 most popular companion mod, Willow - A Better Companion Experience, comes a new, complex companion for Fallout 4. Heather is a story-driven character with over 1200 lines of custom, voiced dialogue, quests, etc. Heather\u0027s unique implementation is designed to improve on the FO4 companion experience.",
+          "Description": "April 2017 #1 File of the Month: Heather is a complex, story-driven character with over 1200 lines of custom, voiced dialogue, quests, etc. Heather\u0027s unique implementation is designed to improve on the FO4 companion experience.",
           "FileID": 107007,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23273-0-1491366297.png",
@@ -2074,15 +2074,23 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "taOl+RVtLUk=",
-        "Meta": "[General]\ndirectURL=https://mega.nz/file/CV0xHADJ#lzGJk4BP1YYyTP2GmmRcSQD01Ca8URs-jkxJv3jSNdc",
+        "Meta": "[General]\ngameName=fallout4\nmodID=43441\nfileID=175793",
         "Name": "More Feral Ghouls. A Zombie Mod-43441-0-9-1581441117.rar",
         "Size": 175199582,
         "State": {
-          "$type": "MegaDownloader, Wabbajack.Lib",
-          "Url": "https://mega.nz/file/CV0xHADJ#lzGJk4BP1YYyTP2GmmRcSQD01Ca8URs-jkxJv3jSNdc"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Oynlen and DeathByKitty",
+          "Description": "",
+          "FileID": 175793,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": true,
+          "ModID": 43441,
+          "Name": "",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -2180,7 +2188,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "KhaoMaat",
-          "Description": "An alternative way for a silent protagonist. Mutes the player voice using an .esp plugin file. The plugin lowers the volume of the sound category for player voice to 0.\r\n\n",
+          "Description": "An alternative way for a silent protagonist. Mutes the player voice using an .esp plugin file. The plugin lowers the volume of the sound category for player voice to 0.",
           "FileID": 21599,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/6279-0-1450397796.png",
@@ -3349,6 +3357,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "SRuXXFbWoVo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51224\nfileID=214589",
+        "Name": "Virtual Holsters V2.0.0-51224-2-0-0-1628749460.zip",
+        "Size": 48591,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CylonSurfer",
+          "Description": "Adds 5 virtual weapon holsters  and new weapon sheathing / equipping system which aims for a more realistic approach forcing the player to return a weapon to the holster it was drawn from before being able to equip another weapon.",
+          "FileID": 214589,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51224/51224-1628104334-927879350.png",
+          "IsNSFW": false,
+          "ModID": 51224,
+          "Name": "Virtual Holsters",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Eb2NDCgso4w=",
         "Meta": "[General]\ngameName=fallout4\nmodID=10660\nfileID=71942",
         "Name": "Visible Companion Affinity v4.141 EN-10660-4-141.rar",
@@ -3419,7 +3448,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "KhaoMaat",
-          "Description": "Revises the VATS effect in VR to be completely neutral.",
+          "Description": "Revises the VATS effect in VR. No longer any green tint. Visuals will be completely neutral.",
           "FileID": 192853,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47850/47850-1602298854-975213326.png",
@@ -3831,13 +3860,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kwiat_W",
-          "Description": "",
+          "Description": "Display quest\u0027s text summary in Pip-boy by default instead of showing vault-boy animation.",
           "FileID": 206106,
           "GameName": "Fallout4",
-          "ImageURL": null,
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51490/51490-1618670810-411564059.jpeg",
           "IsNSFW": false,
           "ModID": 51490,
-          "Name": "",
+          "Name": "Quest Summary by Default VR",
           "Version": "1.0.0.0"
         }
       }
@@ -3873,13 +3902,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kwiat_W",
-          "Description": "",
+          "Description": "Swaps \u0022A\u0022 and \u0022Right Grip\u0022 button labels in game\u0027s interface, useful for people using Steam Input to swap functionality of these buttons.",
           "FileID": 202633,
           "GameName": "Fallout4",
-          "ImageURL": null,
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50473/50473-1614631971-469532479.jpeg",
           "IsNSFW": false,
           "ModID": 50473,
-          "Name": "",
+          "Name": "Right Grip to Interact - UI fix for Oculus controllers",
           "Version": "1.0.0.0"
         }
       }
@@ -3968,7 +3997,7 @@
           "Description": "The Complex Sorter from FallUI Item Sorter Mod. Automatically add item tags to all items. Highly versatile and completely configurable: custom processing rules, custom tag sets, custom naming rules. You can just change anything to your liking. Standard rules support most custom mods out-of-the-box.",
           "FileID": 199941,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48826/48826-1610918181-1426350744.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48826/48826-1633905486-1901157957.png",
           "IsNSFW": false,
           "ModID": 48826,
           "Name": "M8r98a4f2\u0027s Complex Item Sorter",
@@ -4132,7 +4161,7 @@
         "Size": 148414,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kerber",
+          "Author": "Karandra",
           "Description": "Speeds up game start by storing INI files in memory instead of opening, parsing and closing the file each time some value from it is needed.",
           "FileID": 167135,
           "GameName": "Fallout4",
@@ -5031,6 +5060,6 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1
+  "Status": "Available",
+  "Failures": 0
 }
