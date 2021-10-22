@@ -1,11 +1,12 @@
 ## Validation Report - Elysium (elysium)
 
 
-### Invalid (1)
+### Invalid (2)
+*  [Elysium - Dyndolod 3D Output.7z](https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output.7z_d0fa2e54-afad-44de-910b-7b6fbfd12246)
 *  [enbseries_skyrimse_v0463.zip](http://enbdev.com/enbseries_skyrimse_v0463.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1493)
+### Valid (1492)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(3.0) The Great City of Solitude Unofficial Patch-36116-1-1-1604960322.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169365)
 *  [(DMC) The Ultimate Dodge Mod Reanimated-33049-1-1-1585073759.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33049/?tab=files&file_id=130315)
@@ -365,7 +366,6 @@
 *  [Elysium - Dyndolod 3D Output - Performance Mode (Creation Club).7z](https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output - Performance Mode (Creation Club).7z_949ceffe-af5b-42f8-a7e7-ede30fa20d77)
 *  [Elysium - Dyndolod 3D Output - Performance Mode.7z](https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output - Performance Mode.7z_47a0e1f4-ccb2-46e8-b845-19cc9682ed89)
 *  [Elysium - Dyndolod 3D Output (Creation Club).7z](https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output (Creation Club).7z_1ab05867-9968-4c50-af30-225a0c6cde61)
-*  [Elysium - Dyndolod 3D Output.7z](https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output.7z_d0fa2e54-afad-44de-910b-7b6fbfd12246)
 *  [Elysium - Terrain LOD Output (Creation Club).7z](https://authored-files.wabbajack.org/Elysium - Terrain LOD Output (Creation Club).7z_3747139e-e98d-4324-8cf4-11b097043ebb)
 *  [Elysium - Terrain LOD Output.7z](https://authored-files.wabbajack.org/Elysium - Terrain LOD Output.7z_5176eff8-105f-4b9c-b39e-1df85391aa58)
 *  [Elysium - Texgen Output - Performance Mode (Creation Club).7z](https://authored-files.wabbajack.org/Elysium - Texgen Output - Performance Mode (Creation Club).7z_eebcb745-f0d2-4fb3-ab78-590c7dedf680)
