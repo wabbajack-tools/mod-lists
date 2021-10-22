@@ -1,11 +1,10 @@
 ## Validation Report - Dungeons & Deviousness: Director's Cut (dungeons_and_deviousness)
 
 
-### Invalid (1)
-*  Fill Her Up Baka Edition English SE 1.552V.7z
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (901)
+### Valid (915)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
@@ -103,6 +102,7 @@
 *  [Better Jumping SE-18967-1-7-1-1586802920.zip](https://www.nexusmods.com/skyrimspecialedition/mods/18967/?tab=files&file_id=134075)
 *  betterblowjobSE101.7z
 *  [BetterFalmerCaveCeilingGlow-17232-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/17232/?tab=files&file_id=54429)
+*  [BetterStealing v2-32295-2-1580801928.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32295/?tab=files&file_id=122672)
 *  binkw64.dll
 *  [Black Widow Outfit UNP-29944-1-0-1572452485.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29944/?tab=files&file_id=111900)
 *  [Blade and Blunt - A Combat Overhaul-34549-1-3-0-1617738790.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34549/?tab=files&file_id=196508)
@@ -348,6 +348,7 @@
 *  [Feminine Khajiit Textures (Grey Cat and Leopard) CBBE-183-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/183/?tab=files&file_id=11212)
 *  [Feral SSE - Welcome to the Jungle v2.0-34552-2-0-1588715277.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34552/?tab=files&file_id=138331)
 *  [FileAccess Interface for Skyrim SE Scripts - FISSES-13956-1-3-7-1574615841.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13956/?tab=files&file_id=114287)
+*  [Fill Her Up Baka Edition English SE 1.60V.7z](https://www.patreon.com/file?h=48362669&i=9138658)
 *  [Finding Susanna Alive-32512-1-0-1581844989.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32512/?tab=files&file_id=124236)
 *  [Firm HDT-SMP Settings - CBBE-42107-1-0-1604728194.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42107/?tab=files&file_id=168993)
 *  [First Person Sneak Strafe-Walk Stutter Fix-31165-1-0-1577054070.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31165/?tab=files&file_id=117079)
@@ -404,6 +405,7 @@
 *  [Halted Stream Camp - Revisited-39199-1-0-2-1605910107.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39199/?tab=files&file_id=170954)
 *  [Hammet Dungeon Packs for SE - ESM-12186-2-01-1606890678.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12186/?tab=files&file_id=172668)
 *  [Hanging moss by Mari SE- 2k-34772-1-0-1586953968.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34772/?tab=files&file_id=134439)
+*  [Harder Lock Picking-8462-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8462/?tab=files&file_id=22961)
 *  [HD Dark Elf Urns 2k-21717-1-0-1544295541.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21717/?tab=files&file_id=74527)
 *  [HD Dragonborn Skull Variants-21917-1-0-1544983300.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21917/?tab=files&file_id=75326)
 *  [HD Goat by Pfuscher-22802-1-0-1548249167.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22802/?tab=files&file_id=79354)
@@ -462,6 +464,10 @@
 *  [JContainers SE-16495-4-1-13-1602690897.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16495/?tab=files&file_id=165534)
 *  [JK's Riverfall Cottage Family edition-34542-1-10-1587308910.rar](https://www.nexusmods.com/skyrimspecialedition/mods/34542/?tab=files&file_id=135105)
 *  [JK's Riverfall Cottage Wall Hotfix-34542-1-1-1-1587409113.rar](https://www.nexusmods.com/skyrimspecialedition/mods/34542/?tab=files&file_id=135304)
+*  [JK's Skyrim - Mirai Patch-6289-1-2-1615695795.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6289/?tab=files&file_id=191393)
+*  [JK's Skyrim all in one-6289-1-7-1614998676.zip](https://www.nexusmods.com/skyrimspecialedition/mods/6289/?tab=files&file_id=189705)
+*  [JK's Skyrim SE Clockwork Patch-6289-1-0-1552104168.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6289/?tab=files&file_id=84314)
+*  JKMilkMod.7z
 *  [JS Barenziah SE - 2K Textures-22990-1-2-1549268563.rar](https://www.nexusmods.com/skyrimspecialedition/mods/22990/?tab=files&file_id=80684)
 *  [JS Circlet Replacer USSEP Fix-35576-1-0-1588585810.zip](https://www.nexusmods.com/skyrimspecialedition/mods/35576/?tab=files&file_id=137969)
 *  [JS Circlet Replacer-8686-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/8686/?tab=files&file_id=21756)
@@ -570,6 +576,7 @@
 *  [Nazeem is the Ebony Warrior-35600-1-0-0-1588638637.zip](https://www.nexusmods.com/skyrimspecialedition/mods/35600/?tab=files&file_id=138138)
 *  [Nethers_Follower_Framework_UNI_2_7_7.zip](https://www.patreon.com/file?h=53262094&i=8377963)
 *  [NetScriptFramework SkyrimSE v14-21294-14-1603958973.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21294/?tab=files&file_id=167555)
+*  [NEVERSEEITCOMING-28414-2-0-1567717595.zip](https://www.nexusmods.com/skyrimspecialedition/mods/28414/?tab=files&file_id=105738)
 *  [Nezzar Ult Lingerie Collection 2.0 - CBBE SE-45107-1-1-1612444163.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45107/?tab=files&file_id=183955)
 *  [NFF Patch-37693-1-0-1615551654.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37693/?tab=files&file_id=190979)
 *  [NieR Automata Body Preset-29338-5-1569812486.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29338/?tab=files&file_id=108853)
@@ -681,7 +688,6 @@
 *  [RUSTIC RELIEFS-34684-1-0-1586750725.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34684/?tab=files&file_id=133951)
 *  [RUSTIC SOULGEMS SE - FOMOD - English Only-5785-1-0-1552411870.rar](https://www.nexusmods.com/skyrimspecialedition/mods/5785/?tab=files&file_id=84678)
 *  [RUSTIC SPRIGGAN - Special Edition - 2K-18107-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18107/?tab=files&file_id=57795)
-*  [S'hani the Grey - A Khajiit Follower - CBBE - Unfinished-26935-0-91-1561669245.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26935/?tab=files&file_id=97483)
 *  [Sabrecat.2k-5303-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5303/?tab=files&file_id=11599)
 *  [Sacred Trees-26214-1-1-1559344485.zip](https://www.nexusmods.com/skyrimspecialedition/mods/26214/?tab=files&file_id=94336)
 *  [Sakora's Make Over Kit - SKSE64-22169-1-1-1546140657.rar](https://www.nexusmods.com/skyrimspecialedition/mods/22169/?tab=files&file_id=76664)
@@ -735,7 +741,7 @@
 *  [skse64_2_00_19.7z](https://skse.silverlock.org/beta/skse64_2_00_19.7z)
 *  [Skygazer Moons SSE 2K - No Glow-32057-1-2-1579996351.rar](https://www.nexusmods.com/skyrimspecialedition/mods/32057/?tab=files&file_id=121175)
 *  [SkyMirai Standalone Follower 2_11 SSE-10908-2-11-1541905399.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10908/?tab=files&file_id=71948)
-*  [SkyRem - Ava-23329-5-4-5-1612408621.rar](https://www.nexusmods.com/skyrimspecialedition/mods/23329/?tab=files&file_id=183889)
+*  [SkyRem - Ava-23329-5-4-9-1633377908.zip](https://www.nexusmods.com/skyrimspecialedition/mods/23329/?tab=files&file_id=232623)
 *  [SkyRem - Elsa-23126-5-0-1-1609249474.zip](https://www.nexusmods.com/skyrimspecialedition/mods/23126/?tab=files&file_id=176649)
 *  [SkyRem - Eve-26325-2-2-0-1602534242.zip](https://www.nexusmods.com/skyrimspecialedition/mods/26325/?tab=files&file_id=165244)
 *  [SkyRem - Gabi-23145-5-2-1-1606689889.zip](https://www.nexusmods.com/skyrimspecialedition/mods/23145/?tab=files&file_id=172265)
@@ -808,6 +814,7 @@
 *  steam_api64.dll
 *  [Steepfall Burrow - Revisited-34594-1-1-1597478564.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34594/?tab=files&file_id=155694)
 *  [STR - SkyHaven 2K-10375-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/10375/?tab=files&file_id=27582)
+*  [Suspicious City Guards-38762-5-1595968194.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38762/?tab=files&file_id=152650)
 *  [Sweet Mother HD-4947-2-0.7z](https://www.nexusmods.com/skyrim/mods/4947/?tab=files&file_id=28326)
 *  [SWIFT SE 3.2.3-17905-3-2-3-1548109160.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17905/?tab=files&file_id=79210)
 *  [Synthesis.exe](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.13.1/Synthesis.exe)
@@ -829,6 +836,7 @@
 *  [The Queen Body SE-37926-universetitties1-1593857977.rar](https://www.nexusmods.com/skyrimspecialedition/mods/37926/?tab=files&file_id=148715)
 *  [The Witcher 3 Female Armours - Clothing-14244-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/14244/?tab=files&file_id=43008)
 *  [The Witcher 3 Female Armours - SSE CBBE BodySlide-14244-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/14244/?tab=files&file_id=49865)
+*  [ThiccumUP 3BA-3BBB-57048-1-0-1634207371.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57048/?tab=files&file_id=234773)
 *  [Thieves Guild Requirements - FISS Version-33256-4-0-1584196877.zip](https://www.nexusmods.com/skyrimspecialedition/mods/33256/?tab=files&file_id=128534)
 *  [Thistle by Mari  SE 2k-35138-1-0-1587737456.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35138/?tab=files&file_id=136059)
 *  [Thottie to Mommy CBBE 3BBB Bodyslide Preset-41977-1-0-1604376249.rar](https://www.nexusmods.com/skyrimspecialedition/mods/41977/?tab=files&file_id=168370)
@@ -840,6 +848,7 @@
 *  [Trade and Barter SE-23081-2-0-1549045766.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23081/?tab=files&file_id=80352)
 *  [Training Dummies 2k Texture Replacer-13522-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13522/?tab=files&file_id=38896)
 *  [Tranquil Main Menu Replacer-17181-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17181/?tab=files&file_id=54233)
+*  Transformative Elixirs v1.0.0.7z
 *  [Trees Addon Billboards for Dyndolod 2.0-22053-1-0-1614703514.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22053/?tab=files&file_id=188987)
 *  [Trees Addon SE-22053-1-2-8-1614116932.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22053/?tab=files&file_id=187650)
 *  [Troll.4k-2k-4682-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4682/?tab=files&file_id=9408)
@@ -847,6 +856,8 @@
 *  [True Directional Movement-51614-1-3-0-1629154705.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51614/?tab=files&file_id=221727)
 *  [True Storms - Main File 1.0.2-2472-1-0-2-1569804173.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2472/?tab=files&file_id=108837)
 *  [True Wolves of Skyrim-59174-2-01-1560474108.7z](https://www.nexusmods.com/skyrim/mods/59174/?tab=files&file_id=1000299371)
+*  TRX_COW_GIRL_2_1_Main.7z
+*  TRX_COW_GIRL_2_1_Textures.7z
 *  [Tundra cotton by Mari 2k-37113-1-0-1591782589.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37113/?tab=files&file_id=144834)
 *  [UIExtensions v1-2-0-17561-1-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17561/?tab=files&file_id=55628)
 *  ultra.ini
@@ -858,6 +869,8 @@
 *  [Valerica SSE-13027-1-8-4-1605366915.7z](https://www.nexusmods.com/skyrimspecialedition/mods/13027/?tab=files&file_id=170063)
 *  [Vampire Lord Retextured (Demonic)-8402-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/8402/?tab=files&file_id=20806)
 *  [Vampire Lords Can Activate-11978-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/11978/?tab=files&file_id=33107)
+*  [Vanargand Animations - Sneak Archery-56788-1-4-1634237551.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56788/?tab=files&file_id=234830)
+*  [Vanargand Animations - Sneak Idle Walk and Run-54351-1-1-1630433273.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54351/?tab=files&file_id=225228)
 *  [Vanilla Armors - Replacer Edition-31679-1-02-1593188146.rar](https://www.nexusmods.com/skyrimspecialedition/mods/31679/?tab=files&file_id=147524)
 *  [Vanilla Eye Color Replacer with extra variations-29895-1-0-1571856725.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29895/?tab=files&file_id=111194)
 *  [Vanilla Script microOptimizations-54061-1-0-1629273565.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54061/?tab=files&file_id=222000)

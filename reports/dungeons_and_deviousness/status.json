@@ -1,8 +1,8 @@
 {
   "MachineURL": "dungeons_and_deviousness",
   "Name": "Dungeons \u0026 Deviousness: Director\u0027s Cut",
-  "Version": "2.2.1",
-  "ModListHash": "JJ+hLguvZ6w=",
+  "Version": "2.3.0",
+  "ModListHash": "BukJPG9DcY4=",
   "Archives": [
     {
       "Status": "Valid",
@@ -949,21 +949,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5YLHu8nxDo8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=23329\nfileID=183889",
-        "Name": "SkyRem - Ava-23329-5-4-5-1612408621.rar",
-        "Size": 32585,
+        "Hash": "8dbTj4j4h6c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=23329\nfileID=232623",
+        "Name": "SkyRem - Ava-23329-5-4-9-1633377908.zip",
+        "Size": 39197,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DrPharmDawg",
           "Description": "Attribute system to further customize your character: Adds Strength, Intelligence, etc.. to Skyrim, each controlling three characteristics.",
-          "FileID": 183889,
+          "FileID": 232623,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23329/23329-1549749410-1478117466.png",
           "IsNSFW": false,
           "ModID": 23329,
           "Name": "Attribute Value Application (SkyRem - Ava)",
-          "Version": "5.4.5.0"
+          "Version": "5.4.9.0"
         }
       }
     },
@@ -1547,15 +1547,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "M5AqicqOi/A=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=8379\nfileID=23767",
-        "Name": "Carriage and Ferry Travel Overhaul-8379-2-0.7z",
-        "Size": 4940906,
+        "Hash": "M/ZUJ5Xjlf0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=8379\nfileID=124248",
+        "Name": "CFTO - JK\u0027s Skyrim Patch-8379-2-0-1581851405.7z",
+        "Size": 29365,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kinaga",
           "Description": "A lightweight overhaul of both the vanilla Skyrim carriage system and Dawnguard\u0027s ferry system. Realistic and bug-free.",
-          "FileID": 23767,
+          "FileID": 124248,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68221-0-1437999415.jpg",
           "IsNSFW": false,
@@ -1568,15 +1568,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "M/ZUJ5Xjlf0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=8379\nfileID=124248",
-        "Name": "CFTO - JK\u0027s Skyrim Patch-8379-2-0-1581851405.7z",
-        "Size": 29365,
+        "Hash": "M5AqicqOi/A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=8379\nfileID=23767",
+        "Name": "Carriage and Ferry Travel Overhaul-8379-2-0.7z",
+        "Size": 4940906,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kinaga",
           "Description": "A lightweight overhaul of both the vanilla Skyrim carriage system and Dawnguard\u0027s ferry system. Realistic and bug-free.",
-          "FileID": 124248,
+          "FileID": 23767,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68221-0-1437999415.jpg",
           "IsNSFW": false,
@@ -4549,24 +4549,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
-        "Hash": "1CHTk3lPkhc=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=14920\nips4File=Fill Her Up Baka Edition English SE 1.552V.7z",
-        "Name": "Fill Her Up Baka Edition English SE 1.552V.7z",
-        "Size": 20609876,
+        "Hash": "kYSvJnicU94=",
+        "Meta": "[General]\ndirectURL=https://www.patreon.com/file?h=48362669\u0026i=9138658",
+        "Name": "Fill Her Up Baka Edition English SE 1.60V.7z",
+        "Size": 20606600,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "factoryclose",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2020_11/01.jpg.8c1a9d310ca8a848c4bb05a6c9a307e2.jpg",
-          "IPS4File": "Fill Her Up Baka Edition English SE 1.552V.7z",
-          "IPS4Mod": 14920,
-          "IPS4Url": "https://www.loverslab.com/files/file/14920-fill-her-up-baka-edition/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "Fill Her Up Baka Edition",
-          "Version": "1.552"
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://www.patreon.com/file?h=48362669\u0026i=9138658"
         }
       }
     },
@@ -5161,6 +5153,27 @@
           "ModID": 12186,
           "Name": "Hammet\u0027s Dungeon Packs for SE",
           "Version": "f2.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oCsCGF3jAY4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=8462\nfileID=22961",
+        "Name": "Harder Lock Picking-8462-1-1.7z",
+        "Size": 973,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Pruvan",
+          "Description": "This little mod makes picking locks harder. A LOT harder.",
+          "FileID": 22961,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/8462-1-1487737639.png",
+          "IsNSFW": false,
+          "ModID": 8462,
+          "Name": "Harder Lock Picking",
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -5863,6 +5876,28 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "WC6dVjrBf+U=",
+        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=19660\nips4File=JKMilkMod.7z",
+        "Name": "JKMilkMod.7z",
+        "Size": 132875,
+        "State": {
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
+          "Author": "DaddyDubstep13",
+          "Description": "",
+          "ImageURL": null,
+          "IPS4File": "JKMilkMod.7z",
+          "IPS4Mod": 19660,
+          "IPS4Url": "https://www.loverslab.com/files/file/19660-jks-skyrim-milk-mod-economy-patch/",
+          "IsAttachment": false,
+          "IsNSFW": true,
+          "Name": "JK\u0027S Skyrim \u002B Milk Mod Economy Patch",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "QuzfYlOEOZo=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=34542\nfileID=135304",
         "Name": "JK\u0027s Riverfall Cottage Wall Hotfix-34542-1-1-1-1587409113.rar",
@@ -5878,6 +5913,69 @@
           "ModID": 34542,
           "Name": "JK\u0027s Riverfall Cottage",
           "Version": "1.1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CShlErAUOjQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=6289\nfileID=191393",
+        "Name": "JK\u0027s Skyrim - Mirai Patch-6289-1-2-1615695795.7z",
+        "Size": 69478,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jkrojmal and Teabag86",
+          "Description": "An enhanced Skyrim cities and towns overhaul all in one.",
+          "FileID": 191393,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61035-1-1419438387.jpg",
+          "IsNSFW": false,
+          "ModID": 6289,
+          "Name": "JK\u0027s Skyrim",
+          "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JvE/uiKjmnc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=6289\nfileID=189705",
+        "Name": "JK\u0027s Skyrim all in one-6289-1-7-1614998676.zip",
+        "Size": 11382962,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jkrojmal and Teabag86",
+          "Description": "An enhanced Skyrim cities and towns overhaul all in one.",
+          "FileID": 189705,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61035-1-1419438387.jpg",
+          "IsNSFW": false,
+          "ModID": 6289,
+          "Name": "JK\u0027s Skyrim",
+          "Version": "1.7.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dmEULE/2YdI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=6289\nfileID=84314",
+        "Name": "JK\u0027s Skyrim SE Clockwork Patch-6289-1-0-1552104168.7z",
+        "Size": 162749,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jkrojmal and Teabag86",
+          "Description": "An enhanced Skyrim cities and towns overhaul all in one.",
+          "FileID": 84314,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61035-1-1419438387.jpg",
+          "IsNSFW": false,
+          "ModID": 6289,
+          "Name": "JK\u0027s Skyrim",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -8116,27 +8214,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VFnbsrClxfA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=26935\nfileID=97483",
-        "Name": "S\u0027hani the Grey - A Khajiit Follower - CBBE - Unfinished-26935-0-91-1561669245.7z",
-        "Size": 31242821,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "polingc",
-          "Description": "S\u0027hani is a fully standalone follower: what you see is what you get. She has a custom glowing full body tattoo and custom Summon Familiar spell. UNP and CBBE versions available.",
-          "FileID": 97483,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26935/26935-1561656591-1749203596.png",
-          "IsNSFW": false,
-          "ModID": 26935,
-          "Name": "S\u0027hani the Grey - A standalone Khajiit Follower",
-          "Version": "0.91.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "nviGfmqtq2U=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=22169\nfileID=76664",
         "Name": "Sakora\u0027s Make Over Kit - SKSE64-22169-1-1-1546140657.rar",
@@ -9012,7 +9089,7 @@
           "IsAttachment": false,
           "IsNSFW": true,
           "Name": "SLSF Fame Comments SE",
-          "Version": "3.0"
+          "Version": "3.01"
         }
       }
     },
@@ -9098,27 +9175,6 @@
           "ModID": 5226,
           "Name": "Smart No More Stupid Dog Comments",
           "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Jy3kXq8HP7c=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=1863\nfileID=168803",
-        "Name": "Sneak Tools (SE)-1863-2-3-1604626533.rar",
-        "Size": 58360642,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Borgut1337 - Haytur",
-          "Description": "Enhance your sneaking experience with sneak tools. With additions like water arrows, slit throat, blackjack and much more!",
-          "FileID": 168803,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1863-0-1477978132.jpg",
-          "IsNSFW": false,
-          "ModID": 1863,
-          "Name": "Sneak Tools SE Edition",
-          "Version": "2.3.0.0"
         }
       }
     },
@@ -9267,6 +9323,27 @@
           "ModID": 26795,
           "Name": "Sunstarved - Tanlines for UUNP and CBBE - Racemenu Overlays - Special Edition",
           "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "E26DfkbyxvU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=38762\nfileID=152650",
+        "Name": "Suspicious City Guards-38762-5-1595968194.zip",
+        "Size": 7401,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TheSecretMaster",
+          "Description": "Guards will become suspicious when they see you sneaking around.",
+          "FileID": 152650,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38762/38762-1595967682-1123729113.png",
+          "IsNSFW": false,
+          "ModID": 38762,
+          "Name": "Suspicious City Guards",
+          "Version": "5.0.0.0"
         }
       }
     },
@@ -9602,6 +9679,28 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Wj1J1sMPGf4=",
+        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=19735\nips4File=Transformative Elixirs v1.0.0.7z",
+        "Name": "Transformative Elixirs v1.0.0.7z",
+        "Size": 7876,
+        "State": {
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
+          "Author": "ForgottenGlory",
+          "Description": "",
+          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2021_10/TFEPicture.png.68cfde02a2543db16d7298069dd6f003.png",
+          "IPS4File": "Transformative Elixirs v1.0.0.7z",
+          "IPS4Mod": 19735,
+          "IPS4Url": "https://www.loverslab.com/files/file/19735-transformative-elixirs/",
+          "IsAttachment": false,
+          "IsNSFW": true,
+          "Name": "Transformative Elixirs",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "iXlXlgHCGHI=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=22053\nfileID=187650",
         "Name": "Trees Addon SE-22053-1-2-8-1614116932.7z",
@@ -9701,6 +9800,28 @@
           "ModID": 12872,
           "Name": "Truly Light Elven Armor (male) - Replacer - Standalone",
           "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9rykLhKERiA=",
+        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=14636\nips4File=TRX_COW_GIRL_2_1_Main.7z",
+        "Name": "TRX_COW_GIRL_2_1_Main.7z",
+        "Size": 240202610,
+        "State": {
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
+          "Author": "m4mk203",
+          "Description": "",
+          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2020_10/479582320_TheElderScrollsVSkyrimSpecialEditionScreenshot2020_10.15-04_37.26_10.png.d4266245a2b3e5cd71cd42485c09efa7.png",
+          "IPS4File": "TRX_COW_GIRL_2_1_Main.7z",
+          "IPS4Mod": 14636,
+          "IPS4Url": "https://www.loverslab.com/files/file/14636-cow-girl-bikini/",
+          "IsAttachment": false,
+          "IsNSFW": true,
+          "Name": "COW Girl - bikini",
+          "Version": "2.1.0"
         }
       }
     },
@@ -11643,6 +11764,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "pOCqJNV4aZA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=28414\nfileID=105738",
+        "Name": "NEVERSEEITCOMING-28414-2-0-1567717595.zip",
+        "Size": 757339,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ultimate Expander",
+          "Description": "This is my first attempt at modding Skyrim, so I made a very basic audio file replacement",
+          "FileID": 105738,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28414/28414-1566331399-1626046657.jpeg",
+          "IsNSFW": false,
+          "ModID": 28414,
+          "Name": "Last Surprise Sneak Attack Sound Replacer WIP",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "egft/ZbBPfs=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=1523\nfileID=31674",
         "Name": "SSIRT SE v4.1-1523-v4-1.7z",
@@ -12010,6 +12152,27 @@
           "ModID": 18967,
           "Name": "Better Jumping SE",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "x/YhLz4jCf4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32295\nfileID=122672",
+        "Name": "BetterStealing v2-32295-2-1580801928.zip",
+        "Size": 26447,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "meh321",
+          "Description": "Removes \u0022stolen\u0022 from cheap items if you didn\u0027t get caught while stealing it.",
+          "FileID": 122672,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32295/32295-1580657921-1538477617.png",
+          "IsNSFW": false,
+          "ModID": 32295,
+          "Name": "Better Stealing",
+          "Version": "2.0.0.0"
         }
       }
     },
@@ -16955,6 +17118,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "k/rl21qq64k=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=57048\nfileID=234773",
+        "Name": "ThiccumUP 3BA-3BBB-57048-1-0-1634207371.7z",
+        "Size": 1990,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DaddyDubstep13",
+          "Description": "The best damn preset I\u0027ve ever made. I\u0027m pretty sure you can see why.",
+          "FileID": 234773,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57048/57048-1634207008-512024769.jpeg",
+          "IsNSFW": true,
+          "ModID": 57048,
+          "Name": "Thiccum Up- Custom 3BA-3BBB Preset for HDTSMP-CBPC physics",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "w6PxyKjXXNw=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=41198\nfileID=164399",
         "Name": "Thrones of Skyrim SE-41198-1-0-1602101281.zip",
@@ -17012,6 +17196,28 @@
           "ModID": 59174,
           "Name": "True Wolves Of Skyrim",
           "Version": "f2.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UjeIQi+fBek=",
+        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=14636\nips4File=TRX_COW_GIRL_2_1_Textures.7z",
+        "Name": "TRX_COW_GIRL_2_1_Textures.7z",
+        "Size": 228698750,
+        "State": {
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
+          "Author": "m4mk203",
+          "Description": "",
+          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2020_10/479582320_TheElderScrollsVSkyrimSpecialEditionScreenshot2020_10.15-04_37.26_10.png.d4266245a2b3e5cd71cd42485c09efa7.png",
+          "IPS4File": "TRX_COW_GIRL_2_1_Textures.7z",
+          "IPS4Mod": 14636,
+          "IPS4Url": "https://www.loverslab.com/files/file/14636-cow-girl-bikini/",
+          "IsAttachment": false,
+          "IsNSFW": true,
+          "Name": "COW Girl - bikini",
+          "Version": "2.1.0"
         }
       }
     },
@@ -18202,6 +18408,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Jy3kXq8HP7c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=1863\nfileID=168803",
+        "Name": "Sneak Tools (SE)-1863-2-3-1604626533.rar",
+        "Size": 58360642,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Borgut1337 - Haytur",
+          "Description": "Enhance your sneaking experience with sneak tools. With additions like water arrows, slit throat, blackjack and much more!",
+          "FileID": 168803,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1863-0-1477978132.jpg",
+          "IsNSFW": false,
+          "ModID": 1863,
+          "Name": "Sneak Tools SE Edition",
+          "Version": "2.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "PV4ff2YNsOY=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=15638\nfileID=52041",
         "Name": "Zara - RaceMenu Preset (Mature Version)-15638-1-1-M.7z",
@@ -18364,6 +18591,27 @@
           "ModID": 52742,
           "Name": "Victoria\u0027s High Heel Walk by XP32",
           "Version": "1.3.0.0b-LX"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kWnI0aJT/hs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56788\nfileID=234830",
+        "Name": "Vanargand Animations - Sneak Archery-56788-1-4-1634237551.7z",
+        "Size": 121777,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Verolevi",
+          "Description": "A new animation pack, using DAR, aimed at bringing a more modern experience into the Sneak Archery archetype and eliminating long standing issues with the vanilla animations (bow changing direction while aiming, jittery movement and bow handling).",
+          "FileID": 234830,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56788/109396-1633727775-1077138231.gif",
+          "IsNSFW": false,
+          "ModID": 56788,
+          "Name": "Vanargand Animations - Sneak Archery",
+          "Version": "1.4.0.0"
         }
       }
     },
@@ -18558,8 +18806,29 @@
           "Version": "1.0.0.0"
         }
       }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QBfoX/9i2hM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54351\nfileID=225228",
+        "Name": "Vanargand Animations - Sneak Idle Walk and Run-54351-1-1-1630433273.7z",
+        "Size": 51268,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Verolevi",
+          "Description": "Animations for the sneak idle, sneak walk and sneak run, while no weapon is drawn, using DAR.",
+          "FileID": 225228,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54351/54351-1630009362-1199531532.gif",
+          "IsNSFW": false,
+          "ModID": 54351,
+          "Name": "Vanargand Animations - Sneak idle walk and run",
+          "Version": "1.1.0.0"
+        }
+      }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1
+  "Status": "Available",
+  "Failures": 0
 }
