@@ -1535,5 +1535,41 @@
       "SizeOfInstalledFiles": 55546853841
     },
     "version": "1.0.1"
+  },
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Slidikins' Strenuous Skyrim",
+    "description": "This is an extension of The Phoenix Flavour (TPF). As implied by its name, it's a more challenging approach featuring Survival Mode, a reduced HUD, and a harsher economy among other changes.",
+    "author": "Slidikins",
+    "maintainers": [
+      "slidikins"
+    ],
+    "game": "skyrimspecialedition",
+    "official": true,
+    "tags": [
+      "Official",
+	    "Survival"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/Amigoliath/Slidikins-Strenuous-Skyrim/main/Wabbajack%20Splash.webp",
+      "readme": "https://raw.githubusercontent.com/Amigoliath/Slidikins-Strenuous-Skyrim/main/README.md",
+      "download": "https://authored-files.wabbajack.org/SSS.wabbajack_93197ca6-eff0-4a05-9e0c-3783fc201850",
+      "machineURL": "sss"
+    },
+    "download_metadata": {
+	  "$type": "DownloadMetadata, Wabbajack.Lib",
+	  "Hash": "DKbZD0GApGc=",
+	  "Size": 189858912,
+	  "NumberOfArchives": 876,
+	  "SizeOfArchives": 62406307905,
+	  "NumberOfInstalledFiles": 74188,
+	  "SizeOfInstalledFiles": 78630748612
+    },
+    "version": "4.8.0.3"
   }
 ]
