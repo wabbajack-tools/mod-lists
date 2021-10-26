@@ -33,7 +33,7 @@ jobs:
       - name: Checkout Wabbajack Source
         uses: actions/checkout@v2
         with:
-          repository: wabbajack-tools/wabbajack-redux
+          repository: wabbajack-tools/wabbajack
       
       - name: Checkout Modlist Source
         uses: actions/checkout@v2
