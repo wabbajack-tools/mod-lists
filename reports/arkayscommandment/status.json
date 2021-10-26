@@ -1,8 +1,8 @@
 {
   "MachineURL": "arkayscommandment",
   "Name": "Arkay\u0027s Commandment",
-  "Version": "1.4.1",
-  "ModListHash": "yyJaM42uoFU=",
+  "Version": "1.4.2",
+  "ModListHash": "xPqVy4E/mIY=",
   "Archives": [
     {
       "Status": "Valid",
@@ -40,18 +40,15 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
-        "Hash": "RF0RMu9v3T0=",
-        "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimse_v0465.zip\ndirectURLHeaders=Referer:http://enbdev.com/mod_tesskyrimse_v0465.htm",
+        "Hash": "oxC/Q7bUIcY=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0465.zip_23007a9a-c241-4ad0-adb1-6f76c370e1f2/",
         "Name": "enbseries_skyrimse_v0465.zip",
-        "Size": 4258929,
+        "Size": 4259629,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [
-            "Referer:http://enbdev.com/mod_tesskyrimse_v0465.htm"
-          ],
-          "Url": "http://enbdev.com/enbseries_skyrimse_v0465.zip"
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0465.zip_23007a9a-c241-4ad0-adb1-6f76c370e1f2/"
         }
       }
     },
@@ -12958,6 +12955,6 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1
+  "Status": "Available",
+  "Failures": 0
 }
