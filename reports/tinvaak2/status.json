@@ -3949,7 +3949,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "v5u0dyAqhYA=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/T2Lods.7z_e5bc91fc-6749-4e8d-a94f-acaa1cd778f4",
@@ -8560,7 +8560,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "RbsZYd3AnKc=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/T2MiscFiles.7z_4e104eed-963b-43df-b53f-bce846bbfa2b",
@@ -14813,7 +14813,7 @@
       }
     },
     {
-      "Status": "Mirrored",
+      "Status": "Valid",
       "Original": {
         "Hash": "5hKA3MnukjA=",
         "Meta": "[General]\ndirectURL=https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg",
@@ -14822,16 +14822,6 @@
         "State": {
           "$type": "MegaDownloader, Wabbajack.Lib",
           "Url": "https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg"
-        }
-      },
-      "PatchedFrom": {
-        "Hash": "5hKA3MnukjA=",
-        "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/e61280dcc9ee9230",
-        "Name": "xLODGen.83.7z",
-        "Size": 15175790,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://mirror.wabbajack.org/e61280dcc9ee9230"
         }
       }
     },
@@ -28077,5 +28067,5 @@
     }
   ],
   "Status": "Failed",
-  "Failures": 3
+  "Failures": 1
 }
