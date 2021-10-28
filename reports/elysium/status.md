@@ -1,7 +1,8 @@
 ## Validation Report - Elysium (elysium)
 
 
-### Invalid (14)
+### Invalid (15)
+*  [Elysium - Core Files.7z](https://mega.nz/file/VE1QVZSR#nMWpZ4s_wZtBdRRXbbxMbJqflZLdysLMM_Xca0BStFU)
 *  [Elysium - Dyndolod 3D Output - Performance Mode (Creation Club).7z](https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output - Performance Mode (Creation Club).7z_949ceffe-af5b-42f8-a7e7-ede30fa20d77)
 *  [Elysium - Dyndolod 3D Output - Performance Mode.7z](https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output - Performance Mode.7z_47a0e1f4-ccb2-46e8-b845-19cc9682ed89)
 *  [Elysium - Dyndolod 3D Output (Creation Club).7z](https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output (Creation Club).7z_1ab05867-9968-4c50-af30-225a0c6cde61)
@@ -18,7 +19,7 @@
 *  [Rudy ENB CW Zangdar's Edit for Lux.7z](https://mega.nz/file/5d0UQDKA#cr1kZqLqvNpraY0FMYeoSc8LFF2e_45szQOJs-QlREM)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1480)
+### Valid (1479)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(3.0) The Great City of Solitude Unofficial Patch-36116-1-1-1604960322.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169365)
 *  [(DMC) The Ultimate Dodge Mod Reanimated-33049-1-1-1585073759.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33049/?tab=files&file_id=130315)
@@ -374,7 +375,6 @@
 *  [ElSopa - HD Big Backpack-36445-1-1-1590429335.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36445/?tab=files&file_id=142023)
 *  [ElSopa - HD Keys Redone 1k-48209-1-0-1617726011.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48209/?tab=files&file_id=196464)
 *  [Elwaps SpeedTree.7z](https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM)
-*  [Elysium - Core Files.7z](https://mega.nz/file/VE1QVZSR#nMWpZ4s_wZtBdRRXbbxMbJqflZLdysLMM_Xca0BStFU)
 *  [Embers HD-14368-1-41-1599751061.zip](https://www.nexusmods.com/skyrimspecialedition/mods/14368/?tab=files&file_id=160041)
 *  [Embers XD-37085-2-3-3-1631116707.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37085/?tab=files&file_id=226973)
 *  [ENB Brow Fix SE 1.2-18783-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18783/?tab=files&file_id=65782)
