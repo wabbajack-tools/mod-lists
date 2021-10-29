@@ -2,7 +2,7 @@
   "MachineURL": "rge",
   "Name": "Relics of Hyrule - GAT Edition",
   "Version": "2.2.5.7",
-  "ModListHash": "+07RKESp3BE=",
+  "ModListHash": "NBseis/Abxw=",
   "Archives": [
     {
       "Status": "Valid",
@@ -126,16 +126,15 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
-        "Hash": "RU5qhSIhnBI=",
-        "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimse_v0463.zip",
-        "Name": "enbseries_skyrimse_v0463.zip",
-        "Size": 4253055,
+        "Hash": "oxC/Q7bUIcY=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0463.zip_7e24bb44-7ef1-4038-95df-b3703c4cd6a9",
+        "Name": "enbseries_skyrimse_v0465.zip",
+        "Size": 4259629,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "http://enbdev.com/enbseries_skyrimse_v0463.zip"
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0463.zip_7e24bb44-7ef1-4038-95df-b3703c4cd6a9"
         }
       }
     },
@@ -19751,6 +19750,6 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1
+  "Status": "Available",
+  "Failures": 0
 }

@@ -1,11 +1,10 @@
 ## Validation Report - Relics of Hyrule - GAT Edition (rge)
 
 
-### Invalid (1)
-*  [enbseries_skyrimse_v0463.zip](http://enbdev.com/enbseries_skyrimse_v0463.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (964)
+### Valid (965)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(2K) Skygazer Moons - Masser and Secunda HD Moons by fadingsignal-54349-1-0.rar](https://www.nexusmods.com/skyrim/mods/54349/?tab=files&file_id=1000110438)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
@@ -269,6 +268,7 @@
 *  [ENB Light 0.96 WIP 04 - Inferno patch and Fire fixes-22574-0-9-1574535067.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=114206)
 *  [ENB-ParticleLights-DwemerLanterns-1-02-24108-1-02-1552437026.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24108/?tab=files&file_id=84731)
 *  [ENBLights Patch-25709-1-1570288666.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25709/?tab=files&file_id=109377)
+*  [enbseries_skyrimse_v0465.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0463.zip_7e24bb44-7ef1-4038-95df-b3703c4cd6a9)
 *  [Enchanting Adjustments FOMOD V2.4 Installer-8473-2-4-1572294099.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8473/?tab=files&file_id=111715)
 *  [Enchantments and Potions Work for NPCs - EPW4NPCs-37607-1-0-1-1616451353.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37607/?tab=files&file_id=193008)
 *  [Encounter Zones Unlocked SE-19608-1-4-1583906933.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19608/?tab=files&file_id=128125)
