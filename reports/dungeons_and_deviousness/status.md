@@ -1,12 +1,13 @@
 ## Validation Report - Dungeons & Deviousness: Director's Cut (dungeons_and_deviousness)
 
 
-### Invalid (2)
+### Invalid (3)
 *  SexLab-Separate-Orgasm-SE-1.7.3 SL1.63b9.7z
+*  [Smooth Combat Animation by Race.7z](https://blog.kakaocdn.net/dn/cc2DCv/btq75DwB45E/Ngh6JToG1d7rL8IOwblKLk/Smooth Combat Animation by Race.7z?attach=1&knm=tfile.7z)
 *  Yamete! V3.1.7z
 ### Updated (0)
 ### Mirrored (0)
-### Valid (913)
+### Valid (912)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
@@ -779,7 +780,6 @@
 *  [Smart Cast-43123-1-0.7z](https://www.nexusmods.com/skyrim/mods/43123/?tab=files&file_id=1000061017)
 *  [Smart No More Stupid Dog-5226-1-1-1574871776.zip](https://www.nexusmods.com/skyrimspecialedition/mods/5226/?tab=files&file_id=114516)
 *  [SMIM SE 2-08-659-2-08.7z](https://www.nexusmods.com/skyrimspecialedition/mods/659/?tab=files&file_id=59069)
-*  [Smooth Combat Animation by Race.7z](https://blog.kakaocdn.net/dn/cc2DCv/btq75DwB45E/Ngh6JToG1d7rL8IOwblKLk/Smooth Combat Animation by Race.7z?attach=1&knm=tfile.7z)
 *  [Smooth Combat Non Combat Animation.7z](https://blog.kakaocdn.net/dn/9Tn0e/btq6pI8JGgq/RMxvJoTOF071qWFu9pc04k/Smooth Combat Non Combat Animation.7z?attach=1&knm=tfile.7z)
 *  [Smooth DAR Combat Dodge.7z](https://mega.nz/file/hbQ0yZoS#OhAKlalcXcW3GwzMI8k2vld3KSoOemX6nl4_nc-QxMY)
 *  [Smooth Magic Casting Animation 3.2.7z](https://blog.kakaocdn.net/dn/cyDuii/btq74ntfh9i/FwXmgAkFKizXGmtyVpscZK/Smooth Magic Casting Animation 3.2.7z?attach=1&knm=tfile.7z)
