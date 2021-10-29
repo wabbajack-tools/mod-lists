@@ -2,7 +2,7 @@
   "MachineURL": "rge",
   "Name": "Relics of Hyrule - GAT Edition",
   "Version": "2.2.5.7",
-  "ModListHash": "NBseis/Abxw=",
+  "ModListHash": "PEPf20Aj/Yc=",
   "Archives": [
     {
       "Status": "Valid",
@@ -15,6 +15,19 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oxC/Q7bUIcY=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0465.zip_ec62a01c-ab3f-46b7-bf5f-a9aee88f3ede",
+        "Name": "enbseries_skyrimse_v0465.zip",
+        "Size": 4259629,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0465.zip_ec62a01c-ab3f-46b7-bf5f-a9aee88f3ede"
         }
       }
     },
@@ -42,20 +55,33 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "IrakF95OZ/E=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=4796\nfileID=167158",
-        "Name": "Rudy ENB SE for Obsidian Weathers and ENB binaries 0.448-4796-5-0g-1603722335.rar",
-        "Size": 3208825,
+        "Hash": "R1prsTDPS4w=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Reshade_DLL_and_License.rar_7ddfa602-eca8-4b5e-b81d-de247173f2c6",
+        "Name": "Reshade DLL and License.rar",
+        "Size": 1190640,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/Reshade_DLL_and_License.rar_7ddfa602-eca8-4b5e-b81d-de247173f2c6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ZJAuKjs+PlY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32364\nfileID=142351",
+        "Name": "(Part 2) Picturesque - ENB - 1.6-32364-1-6-1590599614.zip",
+        "Size": 22732626,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Rudy102",
-          "Description": "Semi realistic preset, for all popular weather and lighting mods.\n\nAll the effects are customizable through the GUI, plus a series of videos aimed at illustrating the major modifications that can be made by the users.",
-          "FileID": 167158,
+          "Author": "Arindel",
+          "Description": "Graphical overhaul consisting of a brand new weathers mod along with an ENB preset as companion with a heavy focus on consistency and as few flaws as possible.",
+          "FileID": 142351,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4796/4796-1523387434-939349546.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32364/32364-1580856790-910200602.jpeg",
           "IsNSFW": false,
-          "ModID": 4796,
-          "Name": "Rudy ENB SE for Obsidian Weathers - Vivid Weathers - NAT 2.0",
+          "ModID": 32364,
+          "Name": "Picturesque - graphical overhaul - weathers mod plus ENB",
           "Version": "0.0.0.0"
         }
       }
@@ -122,32 +148,6 @@
           "GameFile": "binkw64.dll",
           "GameVersion": "1.5.97.0",
           "Hash": "FZXovxp8lX0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "oxC/Q7bUIcY=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0463.zip_7e24bb44-7ef1-4038-95df-b3703c4cd6a9",
-        "Name": "enbseries_skyrimse_v0465.zip",
-        "Size": 4259629,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0463.zip_7e24bb44-7ef1-4038-95df-b3703c4cd6a9"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "R1prsTDPS4w=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Reshade_DLL_and_License.rar_7ddfa602-eca8-4b5e-b81d-de247173f2c6/",
-        "Name": "Reshade DLL and License.rar",
-        "Size": 1190640,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Reshade_DLL_and_License.rar_7ddfa602-eca8-4b5e-b81d-de247173f2c6/"
         }
       }
     },
@@ -329,6 +329,27 @@
           "GameFile": "ultra.ini",
           "GameVersion": "1.5.97.0",
           "Hash": "joAkOFfS7Wc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "IrakF95OZ/E=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=4796\nfileID=167158",
+        "Name": "Rudy ENB SE for Obsidian Weathers and ENB binaries 0.448-4796-5-0g-1603722335.rar",
+        "Size": 3208825,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Rudy102",
+          "Description": "Semi realistic preset, for all popular weather and lighting mods.\n\nAll the effects are customizable through the GUI, plus a series of videos aimed at illustrating the major modifications that can be made by the users.",
+          "FileID": 167158,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4796/4796-1523387434-939349546.jpeg",
+          "IsNSFW": false,
+          "ModID": 4796,
+          "Name": "Rudy ENB SE for Obsidian Weathers - Vivid Weathers - NAT 2.0",
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -6390,27 +6411,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ZJAuKjs+PlY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32364\nfileID=142351",
-        "Name": "(Part 2) Picturesque - ENB - 1.6-32364-1-6-1590599614.zip",
-        "Size": 22732626,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Arindel",
-          "Description": "Graphical overhaul consisting of a brand new weathers mod along with an ENB preset as companion with a heavy focus on consistency and as few flaws as possible.",
-          "FileID": 142351,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32364/32364-1580856790-910200602.jpeg",
-          "IsNSFW": false,
-          "ModID": 32364,
-          "Name": "Picturesque - graphical overhaul - weathers mod plus ENB",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "l7UXu9t9L9o=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=4875\nfileID=133276",
         "Name": "BethINI Standalone Version-4875-3-3-1586463833.zip",
@@ -6558,6 +6558,34 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fVffSucFpQY=",
+        "Meta": "[General]\ndirectURL=https://github.com/crosire/reshade-shaders/archive/master.zip",
+        "Name": "reshade-shaders-master.zip",
+        "Size": 8994857,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/crosire/reshade-shaders/archive/master.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EZpkwzn8M9w=",
+        "Meta": "[General]\ndirectURL=https://github.com/crosire/reshade-shaders/blob/slim/Shaders/Blending.fxh",
+        "Name": "Blending.fxh",
+        "Size": 291156,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/crosire/reshade-shaders/blob/slim/Shaders/Blending.fxh"
         }
       }
     },
@@ -9573,34 +9601,6 @@
           "GameFile": "Data\\Video\\BGS_Logo.bik",
           "GameVersion": "1.5.97.0",
           "Hash": "3z7MDvy3Dhw="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fVffSucFpQY=",
-        "Meta": "[General]\ndirectURL=https://github.com/crosire/reshade-shaders/archive/master.zip",
-        "Name": "reshade-shaders-master.zip",
-        "Size": 8994857,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/crosire/reshade-shaders/archive/master.zip"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "EZpkwzn8M9w=",
-        "Meta": "[General]\ndirectURL=https://github.com/crosire/reshade-shaders/blob/slim/Shaders/Blending.fxh",
-        "Name": "Blending.fxh",
-        "Size": 291156,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/crosire/reshade-shaders/blob/slim/Shaders/Blending.fxh"
         }
       }
     },
