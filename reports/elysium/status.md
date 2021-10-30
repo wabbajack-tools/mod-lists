@@ -1,10 +1,11 @@
 ## Validation Report - Elysium (elysium)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Elysium - Core Files.7z](https://mega.nz/file/UFtWmKgA#uFqxIunpV7rSgBuyUEQZIlCfqdzcazdDBnjaI3UGXHs)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1546)
+### Valid (1545)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(3.0) The Great City of Solitude Unofficial Patch-36116-1-1-1604960322.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169365)
 *  [(DMC) The Ultimate Dodge Mod Reanimated-33049-1-1-1585073759.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33049/?tab=files&file_id=130315)
@@ -386,7 +387,6 @@
 *  [ElSopa - HD Big Backpack-36445-1-1-1590429335.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36445/?tab=files&file_id=142023)
 *  [ElSopa - HD Keys Redone 1k-48209-1-0-1617726011.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48209/?tab=files&file_id=196464)
 *  [Elwaps SpeedTree.7z](https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM)
-*  [Elysium - Core Files.7z](https://mega.nz/file/UFtWmKgA#uFqxIunpV7rSgBuyUEQZIlCfqdzcazdDBnjaI3UGXHs)
 *  [Elysium - Dyndolod 3D Output - Performance Mode (Creation Club).7z](https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output - Performance Mode (Creation Club).7z_0df6d10c-aec8-4b3d-a30a-87cad7fd6bb4)
 *  [Elysium - Dyndolod 3D Output - Performance Mode.7z](https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output - Performance Mode.7z_7d285e83-a7db-43ec-935a-7ae612953e27)
 *  [Elysium - Dyndolod 3D Output (Creation Club).7z](https://authored-files.wabbajack.org/Elysium - Dyndolod 3D Output (Creation Club).7z_cb770082-9eca-4844-a202-e928a5afb437)
