@@ -1,12 +1,10 @@
 ## Validation Report - Dungeons & Deviousness: Director's Cut (dungeons_and_deviousness)
 
 
-### Invalid (2)
-*  SexLab-Separate-Orgasm-SE-1.7.3 SL1.63b9.7z
-*  Yamete! V3.1.7z
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (913)
+### Valid (914)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
@@ -315,7 +313,7 @@
 *  [Emfy Cleric-4853-2-01-1556249833.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4853/?tab=files&file_id=89720)
 *  [ENB Helper SE 1.5 for SSE 1.5.97-23174-1-5-1574569443.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23174/?tab=files&file_id=114237)
 *  [ENB Light 0.95 Release Candidate 2-22574-0-95-1555278577.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=88473)
-*  [enbseries_skyrimse_v0463.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0463.zip_0eba6cb9-ace6-439c-aa69-cd9f8054df28)
+*  [enbseries_skyrimse_v0465.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0465.zip_ec62a01c-ab3f-46b7-bf5f-a9aee88f3ede)
 *  [Enchantment Reload Fix SE-21055-1-4-1574334575.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21055/?tab=files&file_id=113960)
 *  [Enemy (R)Evolution of Skyrim - EEOS Installer-37228-1-77-0-1614787135.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37228/?tab=files&file_id=189162)
 *  [Enhanced Lights and FX-2424-3-06.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2424/?tab=files&file_id=35608)
@@ -722,6 +720,7 @@
 *  SexLab Solutions v3 - Revisited.7z
 *  Sexlab Survival SSE 0.662 Beta.7z
 *  [SexLab v163-Beta9 WJ Fork.zip](https://github.com/ForgottenGlory/SexLab/releases/download/Beta9/SexLab.v163-Beta9.WJ.Fork.zip)
+*  SexLab-Separate-Orgasm-SE-1.7.4 SL1.63b9.7z
 *  Sexy Starting Options SE v1.0.1.7z
 *  [Shandar-8204-3-0-1-1601608297.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8204/?tab=files&file_id=163537)
 *  [Shelak-46031-1-1613967156.rar](https://www.nexusmods.com/skyrimspecialedition/mods/46031/?tab=files&file_id=187347)

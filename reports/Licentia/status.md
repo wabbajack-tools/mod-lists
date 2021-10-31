@@ -1,11 +1,10 @@
 ## Validation Report - Licentia (Licentia)
 
 
-### Invalid (1)
-*  [Licentia CC DynDOLOD Output.7z](https://authored-files.wabbajack.org/Licentia CC DynDOLOD Output.7z_39e72afd-fa5a-4dd4-85fd-e1e047e103df)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (853)
+### Valid (854)
 *  [(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77989)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
 *  [(4) Community Overlays 3 - Main - CBBE and Male-35339-1-0-1588129970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136903)
@@ -405,6 +404,7 @@
 *  [LeiaBody - CBBE (3BBB) BodySlide Preset-51258-1-0-1623843395.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51258/?tab=files&file_id=209392)
 *  [Less Distracting Blowing Snow Effects 1.0-36198-1-0-1589943324.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36198/?tab=files&file_id=140954)
 *  [Licentia BodySlide Output.7z](https://authored-files.wabbajack.org/Licentia BodySlide Output.7z_65fb6c7e-9135-4129-af15-5cbc03f473c4)
+*  [Licentia CC DynDOLOD Output.7z](https://authored-files.wabbajack.org/Licentia CC DynDOLOD Output.7z_39e72afd-fa5a-4dd4-85fd-e1e047e103df)
 *  [Licentia CC Grass Cache.7z](https://authored-files.wabbajack.org/Licentia CC Grass Cache.7z_a8bbd123-e702-4761-bf8c-da877cada4f3)
 *  [Licentia CC TexGen Output.7z](https://authored-files.wabbajack.org/Licentia CC TexGen Output.7z_f305cfa9-36a6-40c9-a795-41b08f05c0e0)
 *  [Licentia CC xLODGen Output.7z](https://authored-files.wabbajack.org/Licentia CC xLODGen Output.7z_2d93339f-2a75-4f15-b976-afbb7eb89df0)
