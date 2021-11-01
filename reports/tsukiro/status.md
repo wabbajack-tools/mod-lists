@@ -609,7 +609,7 @@
 *  [Sharpen Other Swords-52723-0-1-1627037518.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52723/?tab=files&file_id=216135)
 *  [Shield Sisters Re-Imagined UNP-44243-1-0-1610348415.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44243/?tab=files&file_id=178919)
 *  [Shinoa Hiiragi Preset-55586-1-5-97-0-1631620325.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55586/?tab=files&file_id=228321)
-*  [Shire facegen.7z](https://authored-files.wabbajack.org/Shire facegen.7z_fe7c3e10-0e6c-4535-b87b-6537bc3a043e)
+*  [Shire facegen.7z](https://authored-files.wabbajack.org/Shire facegen.7z_92e3a238-4954-414e-a737-20da02da693a)
 *  [ShowRaceMenu Alternative - Latest Version-2155-3-0-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/2155/?tab=files&file_id=2703)
 *  [Simple Activate SKSE-56767-1-0-1633706345.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56767/?tab=files&file_id=233470)
 *  [Simple Activate SKSE-56767-1-1-1634400869.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56767/?tab=files&file_id=235181)
