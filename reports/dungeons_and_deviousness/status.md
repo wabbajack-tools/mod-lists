@@ -1,12 +1,13 @@
 ## Validation Report - Dungeons & Deviousness: Director's Cut (dungeons_and_deviousness)
 
 
-### Invalid (2)
+### Invalid (3)
 *  1243369920_SLAL_Billyy_Animationsv4.9SE.zip
+*  [BakaFactory ABC LE SE 2.30V.7z](https://www.patreon.com/file?h=22802542&i=8938266)
 *  Milk-Mod-Economy-Scripts-20210209.7z
 ### Updated (0)
 ### Mirrored (0)
-### Valid (912)
+### Valid (911)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
@@ -88,7 +89,6 @@
 *  [Awesome Artifacts-13776-2-3-0-1614467472.7z](https://www.nexusmods.com/skyrimspecialedition/mods/13776/?tab=files&file_id=188449)
 *  [Babo Creature 2021.06.09 SE Fix.7z](https://www.patreon.com/file?h=52272716&i=8750895)
 *  [Babo Human 2021.06.09 SE.7z](https://www.patreon.com/file?h=52272716&i=8205982)
-*  [BakaFactory ABC LE SE 2.30V.7z](https://www.patreon.com/file?h=22802542&i=8938266)
 *  BattleFuck-20211005.7z
 *  BattleFuckSLSOPatch-20210722.7z
 *  [BCC-SkyUI-ESL-v30-25271-3-0-1555977855.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25271/?tab=files&file_id=89351)
