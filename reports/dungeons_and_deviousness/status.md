@@ -1,14 +1,13 @@
 ## Validation Report - Dungeons & Deviousness: Director's Cut (dungeons_and_deviousness)
 
 
-### Invalid (4)
+### Invalid (3)
 *  1243369920_SLAL_Billyy_Animationsv4.9SE.zip
-*  AnimatedParasites_SE_0.1.5.3.3.7z
 *  [BakaFactory ABC LE SE 2.30V.7z](https://www.patreon.com/file?h=22802542&i=8938266)
 *  Milk-Mod-Economy-Scripts-20210209.7z
 ### Updated (0)
 ### Mirrored (0)
-### Valid (910)
+### Valid (911)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
@@ -54,6 +53,7 @@
 *  [Ania A Beautiful Racemenu Preset High Poly Version-38032-1-0-1594110784.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38032/?tab=files&file_id=149207)
 *  AnimalMansionPlusNS_SE_v1.1.7z
 *  [Animated Clutter SSE-14398-1-9.rar](https://www.nexusmods.com/skyrimspecialedition/mods/14398/?tab=files&file_id=42632)
+*  AnimatedParasites_SE_0.1.5.3.3.7z
 *  AP - Sold Out V2.7z
 *  AP - Sold Out.7z
 *  [Apachii_Divine_Elegance_SSE_v_1_9-9213-1-9-1562364562.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9213/?tab=files&file_id=98285)
