@@ -1,8 +1,8 @@
 {
   "MachineURL": "living_skyrim",
   "Name": "Living Skyrim",
-  "Version": "3.6.0",
-  "ModListHash": "fkgiPEsVkXM=",
+  "Version": "3.6.0.1",
+  "ModListHash": "B1m81DOYjiQ=",
   "Archives": [
     {
       "Status": "Valid",
@@ -722,6 +722,48 @@
           "ModID": 50307,
           "Name": "Alternate Perspective",
           "Version": "2.4.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gxW4V9l/gLw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=50307\nfileID=229454",
+        "Name": "AP_TUDM Patch-50307-V1-2-1632077643.7z",
+        "Size": 6253,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Scrab",
+          "Description": "Rewrite \u0026amp; Framework for the Vanilla Intro. Experience Helgens Destruction from a POV different than the Prisoners!",
+          "FileID": 229454,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50307/50307-1626608069-215982230.png",
+          "IsNSFW": false,
+          "ModID": 50307,
+          "Name": "Alternate Perspective",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bIojk4avaZI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55871\nfileID=229601",
+        "Name": "Alternate Perspective - Helgen Reborn Patch-55871-1-0-1632141444.7z",
+        "Size": 29059,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Scrabx3 and Nechigawara Sanzenin",
+          "Description": "Improve version of Scrabx3\u0027s original Alternate Perspective - HelgenReborn Patch",
+          "FileID": 229601,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55871/55871-1632182046-2086167548.png",
+          "IsNSFW": false,
+          "ModID": 55871,
+          "Name": "Alternate Perspective - Helgen Reborn Patch",
+          "Version": "1.0.0.0"
         }
       }
     },
