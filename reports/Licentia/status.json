@@ -1,8 +1,8 @@
 {
   "MachineURL": "Licentia",
   "Name": "Licentia",
-  "Version": "10.9.1.3",
-  "ModListHash": "Pq/HVhDGqgQ=",
+  "Version": "10.10",
+  "ModListHash": "KMolFlsayXA=",
   "Archives": [
     {
       "Status": "Valid",
@@ -22,20 +22,6 @@
           "ModID": 6194,
           "Name": "Mod Organizer 2",
           "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vKMKKroIyOM=",
-        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.0/Mod.Organizer-2.4.0.7z",
-        "Name": "Mod.Organizer-2.4.0.7z",
-        "Size": 89306961,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.0/Mod.Organizer-2.4.0.7z"
         }
       }
     },
@@ -197,6 +183,157 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/deorder/mo2-plugins/archive/1.0.1.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FZXovxp8lX0=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=binkw64.dll",
+        "Name": "binkw64.dll",
+        "Size": 298496,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "binkw64.dll",
+          "GameVersion": "1.5.97.0",
+          "Hash": "FZXovxp8lX0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oxC/Q7bUIcY=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0465.zip_4688c24a-7810-4276-8596-1daadf7391b8",
+        "Name": "enbseries_skyrimse_v0465.zip",
+        "Size": 4259629,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0465.zip_4688c24a-7810-4276-8596-1daadf7391b8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6I/387a+Px4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=181373",
+        "Name": "(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip",
+        "Size": 417160,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "aers - Nukem - Ryan",
+          "Description": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.",
+          "FileID": 181373,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17230/17230-1526195370-298143229.png",
+          "IsNSFW": false,
+          "ModID": 17230,
+          "Name": "SSE Engine Fixes (skse64 plugin)",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yLhCbCSfkuE=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Skyrim.ccc",
+        "Name": "Skyrim.ccc",
+        "Size": 1605,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Skyrim.ccc",
+          "GameVersion": "1.5.97.0",
+          "Hash": "yLhCbCSfkuE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KgfAYLNFIVA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20061\nfileID=193264",
+        "Name": "CK64Fixes Release 3.2-20061-3-2-1616560054.zip",
+        "Size": 516600,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nukem",
+          "Description": "Various patches and bug fixes for the Creation Kit to make life easier.",
+          "FileID": 193264,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20061/20061-1537418488-165012313.png",
+          "IsNSFW": false,
+          "ModID": 20061,
+          "Name": "SSE CreationKit Fixes",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8iPX1dhv7+E=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=SkyrimSE.exe",
+        "Name": "SkyrimSE.exe",
+        "Size": 34769792,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "SkyrimSE.exe",
+          "GameVersion": "1.5.97.0",
+          "Hash": "8iPX1dhv7+E="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0bhc8w0adVI=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=SkyrimSELauncher.exe",
+        "Name": "SkyrimSELauncher.exe",
+        "Size": 4363776,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "SkyrimSELauncher.exe",
+          "GameVersion": "1.5.97.0",
+          "Hash": "0bhc8w0adVI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JbYP1w8FSfY=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Skyrim_Default.ini",
+        "Name": "Skyrim_Default.ini",
+        "Size": 1859,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Skyrim_Default.ini",
+          "GameVersion": "1.5.97.0",
+          "Hash": "JbYP1w8FSfY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XEqXAcAgOQ8=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=steam_api64.dll",
+        "Name": "steam_api64.dll",
+        "Size": 206760,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "steam_api64.dll",
+          "GameVersion": "1.5.97.0",
+          "Hash": "XEqXAcAgOQ8="
         }
       }
     },
@@ -1064,27 +1201,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6I/387a+Px4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=181373",
-        "Name": "(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip",
-        "Size": 417160,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "aers - Nukem - Ryan",
-          "Description": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.",
-          "FileID": 181373,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17230/17230-1526195370-298143229.png",
-          "IsNSFW": false,
-          "ModID": 17230,
-          "Name": "SSE Engine Fixes (skse64 plugin)",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "G2DjY5IuufI=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=47990\nfileID=195504",
         "Name": "Auri RaceMenu Crash Fix-47990-1-0-1617396723.7z",
@@ -1260,13 +1376,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Briraka",
-          "Description": "Provides lore fixes, unique appearances, and general enhancements to the draugr enemies and other related elements of Skyrim.",
+          "Description": "A lightweight overhaul providing balance adjustments, new items, unique boss designs, and some more variants to the draugr enemies.",
           "FileID": 199267,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26188/26188-1604496561-1002192678.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26188/26188-1636246732-1656616278.png",
           "IsNSFW": false,
           "ModID": 26188,
-          "Name": "Briraka\u0027s Draugr Overhaul",
+          "Name": "Haugbui - A Draugr Overhaul",
           "Version": "0.0.0.0"
         }
       }
@@ -1281,13 +1397,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Briraka",
-          "Description": "Provides lore fixes, unique appearances, and general enhancements to the draugr enemies and other related elements of Skyrim.",
+          "Description": "A lightweight overhaul providing balance adjustments, new items, unique boss designs, and some more variants to the draugr enemies.",
           "FileID": 168586,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26188/26188-1604496561-1002192678.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26188/26188-1636246732-1656616278.png",
           "IsNSFW": false,
           "ModID": 26188,
-          "Name": "Briraka\u0027s Draugr Overhaul",
+          "Name": "Haugbui - A Draugr Overhaul",
           "Version": "0.0.0.0"
         }
       }
@@ -1302,13 +1418,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Briraka",
-          "Description": "Provides lore fixes, unique appearances, and general enhancements to the draugr enemies and other related elements of Skyrim.",
+          "Description": "A lightweight overhaul providing balance adjustments, new items, unique boss designs, and some more variants to the draugr enemies.",
           "FileID": 168585,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26188/26188-1604496561-1002192678.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26188/26188-1636246732-1656616278.png",
           "IsNSFW": false,
           "ModID": 26188,
-          "Name": "Briraka\u0027s Draugr Overhaul",
+          "Name": "Haugbui - A Draugr Overhaul",
           "Version": "0.0.0.0"
         }
       }
@@ -1323,13 +1439,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Briraka",
-          "Description": "Provides lore fixes, unique appearances, and general enhancements to the draugr enemies and other related elements of Skyrim.",
+          "Description": "A lightweight overhaul providing balance adjustments, new items, unique boss designs, and some more variants to the draugr enemies.",
           "FileID": 169698,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26188/26188-1604496561-1002192678.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26188/26188-1636246732-1656616278.png",
           "IsNSFW": false,
           "ModID": 26188,
-          "Name": "Briraka\u0027s Draugr Overhaul",
+          "Name": "Haugbui - A Draugr Overhaul",
           "Version": "0.0.0.0"
         }
       }
@@ -1667,6 +1783,27 @@
           "ModID": 2916,
           "Name": "CL\u0027s Weapon-replacer\u0027s",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "op3nstEVFes=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=38775\nfileID=209523",
+        "Name": "Kart_CSSET_Overwrite-38775-1-2-3-2-1623895015.7z",
+        "Size": 7804395251,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kartoffel",
+          "Description": "All Skyrim SE textures cleaned of compression artifacts, removed bad bicubic upscaling, and other random fixes. Improves performance too.",
+          "FileID": 209523,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38775/38775-1596038458-317824919.png",
+          "IsNSFW": false,
+          "ModID": 38775,
+          "Name": "Cleaned Skyrim SE Textures",
+          "Version": "1.2.3.2"
         }
       }
     },
@@ -2170,7 +2307,7 @@
           "IsNSFW": true,
           "ModID": 29451,
           "Name": "DX Crimson Blood Armor - UNP",
-          "Version": "0.0.0.0"
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -8758,13 +8895,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "tvgMSeQttG4=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Licentia DynDOLOD Output.7z_4a4da90e-6824-4778-9da3-5e4997efc0cc",
+        "Hash": "EzXuncEvEOs=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Licentia DynDOLOD Output.7z_cdf69e35-ccdb-428a-b150-b6385ce1fc76",
         "Name": "Licentia DynDOLOD Output.7z",
-        "Size": 5565012208,
+        "Size": 2508104712,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Licentia%20DynDOLOD%20Output.7z_4a4da90e-6824-4778-9da3-5e4997efc0cc"
+          "Url": "https://authored-files.wabbajack.org/Licentia%20DynDOLOD%20Output.7z_cdf69e35-ccdb-428a-b150-b6385ce1fc76"
         }
       }
     },
@@ -9046,6 +9183,246 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "CEgEhUUtOcU=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Dawnguard.esm",
+        "Name": "Data_Dawnguard.esm",
+        "Size": 25189548,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Dawnguard.esm",
+          "GameVersion": "1.5.97.0",
+          "Hash": "CEgEhUUtOcU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eypuUwdQUb4=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Dragonborn.esm",
+        "Name": "Data_Dragonborn.esm",
+        "Size": 64564304,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Dragonborn.esm",
+          "GameVersion": "1.5.97.0",
+          "Hash": "eypuUwdQUb4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GPdcQrqi2NI=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\HearthFires.esm",
+        "Name": "Data_HearthFires.esm",
+        "Size": 3978606,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\HearthFires.esm",
+          "GameVersion": "1.5.97.0",
+          "Hash": "GPdcQrqi2NI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kX9UFltG4+s=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Animations.bsa",
+        "Name": "Data_Skyrim - Animations.bsa",
+        "Size": 116177491,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Animations.bsa",
+          "GameVersion": "1.5.97.0",
+          "Hash": "kX9UFltG4+s="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "k5EWx/9Woqg=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Interface.bsa",
+        "Name": "Data_Skyrim - Interface.bsa",
+        "Size": 65726709,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Interface.bsa",
+          "GameVersion": "1.5.97.0",
+          "Hash": "k5EWx/9Woqg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XTaNNFIm3eM=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Meshes0.bsa",
+        "Name": "Data_Skyrim - Meshes0.bsa",
+        "Size": 1152069673,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Meshes0.bsa",
+          "GameVersion": "1.5.97.0",
+          "Hash": "XTaNNFIm3eM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eN9rU4PSvEs=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Meshes1.bsa",
+        "Name": "Data_Skyrim - Meshes1.bsa",
+        "Size": 373427426,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Meshes1.bsa",
+          "GameVersion": "1.5.97.0",
+          "Hash": "eN9rU4PSvEs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/Sglpr+ZffA=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Misc.bsa",
+        "Name": "Data_Skyrim - Misc.bsa",
+        "Size": 204313675,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Misc.bsa",
+          "GameVersion": "1.5.97.0",
+          "Hash": "/Sglpr+ZffA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GG4pOfUmiRA=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Patch.bsa",
+        "Name": "Data_Skyrim - Patch.bsa",
+        "Size": 166880326,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Patch.bsa",
+          "GameVersion": "1.5.97.0",
+          "Hash": "GG4pOfUmiRA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yRcX3Ttf9YM=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Shaders.bsa",
+        "Name": "Data_Skyrim - Shaders.bsa",
+        "Size": 67318282,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Shaders.bsa",
+          "GameVersion": "1.5.97.0",
+          "Hash": "yRcX3Ttf9YM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8LzXRU4x9Sw=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Sounds.bsa",
+        "Name": "Data_Skyrim - Sounds.bsa",
+        "Size": 1535523399,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Sounds.bsa",
+          "GameVersion": "1.5.97.0",
+          "Hash": "8LzXRU4x9Sw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2Tmfw2AG/MM=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Voices_en0.bsa",
+        "Name": "Data_Skyrim - Voices_en0.bsa",
+        "Size": 1807969854,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Voices_en0.bsa",
+          "GameVersion": "1.5.97.0",
+          "Hash": "2Tmfw2AG/MM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "krNnq2qHmOo=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim.esm",
+        "Name": "Data_Skyrim.esm",
+        "Size": 249753573,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim.esm",
+          "GameVersion": "1.5.97.0",
+          "Hash": "krNnq2qHmOo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/DLG/LjdGXI=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Update.esm",
+        "Name": "Data_Update.esm",
+        "Size": 18557306,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Update.esm",
+          "GameVersion": "1.5.97.0",
+          "Hash": "/DLG/LjdGXI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fiMS7vbbpNE=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Skyrim\\SkyrimPrefs.ini",
+        "Name": "Skyrim_SkyrimPrefs.ini",
+        "Size": 3498,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Skyrim\\SkyrimPrefs.ini",
+          "GameVersion": "1.5.97.0",
+          "Hash": "fiMS7vbbpNE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "kmEacAXiWyY=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=32382\nfileID=236178",
         "Name": "DynDOLOD 3.00-32382-Alpha-53-1634812868.7z",
@@ -9186,19 +9563,6 @@
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
           "Url": "https://authored-files.wabbajack.org/Licentia%20Synthesis%20Data.7z_d78dbffb-b85a-4e20-bded-5637991f1a2e"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Ypeg2MKgzlQ=",
-        "Meta": "[General]\ndirectURL=https://mega.nz/file/dEwQnJRS#E-qpq29rVCBw3FxT3gTOjF_Z2zYkzR2CcWhQ5OAZcwg",
-        "Name": "xLODGen.84.7z",
-        "Size": 15189224,
-        "State": {
-          "$type": "MegaDownloader, Wabbajack.Lib",
-          "Url": "https://mega.nz/file/dEwQnJRS#E-qpq29rVCBw3FxT3gTOjF_Z2zYkzR2CcWhQ5OAZcwg"
         }
       }
     },
@@ -9583,22 +9947,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "k5EWx/9Woqg=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Interface.bsa",
-        "Name": "Data_Skyrim - Interface.bsa",
-        "Size": 65726709,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Interface.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "k5EWx/9Woqg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Vf3ll27d0JY=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=24858\nfileID=126531",
         "Name": "ConsoleUtilSSE-24858-1-2-0-1583021370.zip",
@@ -9949,27 +10297,6 @@
           "IsNSFW": false,
           "ModID": 13789,
           "Name": "Fresh Faces",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "iagIgS8zK7w=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=3532\nfileID=222321",
-        "Name": "Frozen Electrocuted Combustion - 4.9.5-3532-4-9-5-1629411470.7z",
-        "Size": 89248629,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "powerofthree",
-          "Description": "Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects.",
-          "FileID": 222321,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/78709-0-1473783976.png",
-          "IsNSFW": false,
-          "ModID": 3532,
-          "Name": "Frozen Electrocuted Combustion",
           "Version": "0.0.0.0"
         }
       }
@@ -11730,6 +12057,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "3z7MDvy3Dhw=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Video\\BGS_Logo.bik",
+        "Name": "Data_Video_BGS_Logo.bik",
+        "Size": 13835808,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Video\\BGS_Logo.bik",
+          "GameVersion": "1.5.97.0",
+          "Hash": "3z7MDvy3Dhw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "atpbzWwizug=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=18160\nfileID=85381",
         "Name": "HavokFix64-18160-2-7-1552913852.zip",
@@ -12058,48 +12401,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ckZwyn9+/sY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=38775\nfileID=201185",
-        "Name": "kart_CSSET_fix-38775-1-2-2-1619921606.7z",
-        "Size": 33655943,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kartoffel",
-          "Description": "All Skyrim SE textures cleaned of compression artifacts, removed bad bicubic upscaling, and other random fixes. Improves performance too.",
-          "FileID": 201185,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38775/38775-1596038458-317824919.png",
-          "IsNSFW": false,
-          "ModID": 38775,
-          "Name": "Cleaned Skyrim SE Textures",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Q+XLM79Wxrw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=36836\nfileID=143727",
-        "Name": "dwarven defenders sse-36836-1-1591234134.rar",
-        "Size": 33382577,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Mihail",
-          "Description": "Created to be the pawns on the front line of the Dwemer army, Dwarven Defenders are articulated automatons designed to emulate the combat skills of their creators in wars and conflicts. Wielding light dwarven shields, and sledgehammers, and firing blasts of electricity through their central core, these machine armies are a force to be feared.",
-          "FileID": 143727,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/36836/103220-1591217003-348069757.png",
-          "IsNSFW": false,
-          "ModID": 36836,
-          "Name": "Dwarven Defenders- Mihail Monsters and Animals (MIHAIL SSE PORT)",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Jc1mbDpXkXY=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=30928\nfileID=191247",
         "Name": "Copy and Paste in Console v1.0.1 for Skyrim SE-30928-1-0-1-1615644554.7z",
@@ -12114,27 +12415,6 @@
           "IsNSFW": false,
           "ModID": 30928,
           "Name": "Copy and Paste in Console",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "XhvYUo6+n8g=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=34526\nfileID=133154",
-        "Name": "CCAUT_CWC_2x-34526-1-1586416466.7z",
-        "Size": 318414100,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kartoffel",
-          "Description": "I upscaled textures of armor of Creation Club with ESRGAN. I made this on request.",
-          "FileID": 133154,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34526/34526-1593233751-100272435.png",
-          "IsNSFW": false,
-          "ModID": 34526,
-          "Name": "Creation Club Armors Upscaled Textures",
           "Version": "0.0.0.0"
         }
       }
@@ -13024,6 +13304,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "ckZwyn9+/sY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=38775\nfileID=201185",
+        "Name": "kart_CSSET_fix-38775-1-2-2-1619921606.7z",
+        "Size": 33655943,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kartoffel",
+          "Description": "All Skyrim SE textures cleaned of compression artifacts, removed bad bicubic upscaling, and other random fixes. Improves performance too.",
+          "FileID": 201185,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38775/38775-1596038458-317824919.png",
+          "IsNSFW": false,
+          "ModID": 38775,
+          "Name": "Cleaned Skyrim SE Textures",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "VREVfxSLOxA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=13572\nfileID=69161",
         "Name": "RensHDShrines_2_4-13572-2-4-1539464278.7z",
@@ -13856,19 +14157,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "CSO1fGvzFag=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Licentia CC DynDOLOD Output.7z_b0e23e7c-468e-443e-96e1-09b4dee160ad",
-        "Name": "Licentia CC DynDOLOD Output.7z",
-        "Size": 2539056861,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Licentia%20CC%20DynDOLOD%20Output.7z_b0e23e7c-468e-443e-96e1-09b4dee160ad"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "UfstFjyssIQ=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Licentia CC TexGen Output.7z_90ff3bca-ba21-46a3-83ef-6905a37981f1",
         "Name": "Licentia CC TexGen Output.7z",
@@ -14211,27 +14499,6 @@
           "IsNSFW": false,
           "ModID": 29947,
           "Name": "CBBE Creation Club Outfits Bodyslides",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tkL8DkGwYKw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=34526\nfileID=133160",
-        "Name": "CCAUT_KOTN_2x-34526-1-1586416774.7z",
-        "Size": 145171562,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kartoffel",
-          "Description": "I upscaled textures of armor of Creation Club with ESRGAN. I made this on request.",
-          "FileID": 133160,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34526/34526-1593233751-100272435.png",
-          "IsNSFW": false,
-          "ModID": 34526,
-          "Name": "Creation Club Armors Upscaled Textures",
           "Version": "0.0.0.0"
         }
       }
@@ -15848,19 +16115,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ZKXQK5jSSAs=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Licentia CC xLODGen Ouput.7z_8fd55a0e-3537-46ca-825b-5f2f5bb17ddb",
-        "Name": "Licentia CC xLODGen Ouput.7z",
-        "Size": 1190590309,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Licentia%20CC%20xLODGen%20Ouput.7z_8fd55a0e-3537-46ca-825b-5f2f5bb17ddb"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "7dizT466AfA=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Licentia xLODGen Output.7z_2fe2908c-a7d0-4c20-a373-c64338d5be00",
         "Name": "Licentia xLODGen Output.7z",
@@ -16373,75 +16627,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VPwF1YtoZJw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=49779\nfileID=215812",
-        "Name": "Artifacts of Skyrim - Revised Edition-49779-1-1-2-1626876093.7z",
-        "Size": 314702223,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "HeirOfTheSeptims",
-          "Description": "The successor to my Artifacts of Skyrim Mod. Adds over 200 new Items for you to discover. Adds several new dungeons to explore. Adds a new museum (fully compatible with LoTD) to display all of the artifacts.",
-          "FileID": 215812,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49779/49779-1621876700-1325602540.jpeg",
-          "IsNSFW": false,
-          "ModID": 49779,
-          "Name": "Artifacts of Skyrim - Revised Edition",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "XTaNNFIm3eM=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Meshes0.bsa",
-        "Name": "Data_Skyrim - Meshes0.bsa",
-        "Size": 1152069673,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Meshes0.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "XTaNNFIm3eM="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "eN9rU4PSvEs=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Meshes1.bsa",
-        "Name": "Data_Skyrim - Meshes1.bsa",
-        "Size": 373427426,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Meshes1.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "eN9rU4PSvEs="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8LzXRU4x9Sw=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Sounds.bsa",
-        "Name": "Data_Skyrim - Sounds.bsa",
-        "Size": 1535523399,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Sounds.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "8LzXRU4x9Sw="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "M8Mbwl6yxbM=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=24794\nfileID=128747",
         "Name": "storm golem (sse) 1.1-24794-1-1-1584290992.rar",
@@ -16499,27 +16684,6 @@
           "ModID": 49138,
           "Name": "Nibbles Animation Pack for OStim",
           "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "op3nstEVFes=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=38775\nfileID=209523",
-        "Name": "Kart_CSSET_Overwrite-38775-1-2-3-2-1623895015.7z",
-        "Size": 7804395251,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kartoffel",
-          "Description": "All Skyrim SE textures cleaned of compression artifacts, removed bad bicubic upscaling, and other random fixes. Improves performance too.",
-          "FileID": 209523,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38775/38775-1596038458-317824919.png",
-          "IsNSFW": false,
-          "ModID": 38775,
-          "Name": "Cleaned Skyrim SE Textures",
-          "Version": "1.2.3.2"
         }
       }
     },
@@ -17198,69 +17362,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "miS7B0ELsLU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=34526\nfileID=145400",
-        "Name": "CCAUT_SI_2x-34526-1-1592010530.7z",
-        "Size": 1239317081,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kartoffel",
-          "Description": "I upscaled textures of armor of Creation Club with ESRGAN. I made this on request.",
-          "FileID": 145400,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34526/34526-1593233751-100272435.png",
-          "IsNSFW": false,
-          "ModID": 34526,
-          "Name": "Creation Club Armors Upscaled Textures",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "uYWm0xouIOs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=34526\nfileID=133162",
-        "Name": "CCAUT_Steel_2x-34526-1-1586416837.7z",
-        "Size": 61694195,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kartoffel",
-          "Description": "I upscaled textures of armor of Creation Club with ESRGAN. I made this on request.",
-          "FileID": 133162,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34526/34526-1593233751-100272435.png",
-          "IsNSFW": false,
-          "ModID": 34526,
-          "Name": "Creation Club Armors Upscaled Textures",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kVZG5LVO0tI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=34526\nfileID=133158",
-        "Name": "CCAUT_Ebony_2x-34526-1-1586416655.7z",
-        "Size": 56704042,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kartoffel",
-          "Description": "I upscaled textures of armor of Creation Club with ESRGAN. I made this on request.",
-          "FileID": 133158,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34526/34526-1593233751-100272435.png",
-          "IsNSFW": false,
-          "ModID": 34526,
-          "Name": "Creation Club Armors Upscaled Textures",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "S0ahD20dtyM=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=35298\nfileID=147768",
         "Name": "Dwarven Armored Mudcrab - Properly Environment Mapped-35298-1-0-1593331103 (1).7z",
@@ -17612,111 +17713,6 @@
           "IsNSFW": false,
           "ModID": 35339,
           "Name": "Community Overlay 3 (51- 70) Bodypaints Warpaints and Tattoos",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "edNI9RrK+/A=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=34526\nfileID=133155",
-        "Name": "CCAUT_Daedric_2x-34526-1-1586416544.7z",
-        "Size": 58226005,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kartoffel",
-          "Description": "I upscaled textures of armor of Creation Club with ESRGAN. I made this on request.",
-          "FileID": 133155,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34526/34526-1593233751-100272435.png",
-          "IsNSFW": false,
-          "ModID": 34526,
-          "Name": "Creation Club Armors Upscaled Textures",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "i+lI6eGKkoM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=34526\nfileID=133161",
-        "Name": "CCAUT_Stalhrim_2x-34526-1-1586416802.7z",
-        "Size": 39492599,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kartoffel",
-          "Description": "I upscaled textures of armor of Creation Club with ESRGAN. I made this on request.",
-          "FileID": 133161,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34526/34526-1593233751-100272435.png",
-          "IsNSFW": false,
-          "ModID": 34526,
-          "Name": "Creation Club Armors Upscaled Textures",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "M6thMtJ3WCs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=34526\nfileID=133156",
-        "Name": "CCAUT_Dragonscale_2x-34526-1-1586416594.7z",
-        "Size": 54864934,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kartoffel",
-          "Description": "I upscaled textures of armor of Creation Club with ESRGAN. I made this on request.",
-          "FileID": 133156,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34526/34526-1593233751-100272435.png",
-          "IsNSFW": false,
-          "ModID": 34526,
-          "Name": "Creation Club Armors Upscaled Textures",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8m6+Gm/CQQM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=34526\nfileID=133157",
-        "Name": "CCAUT_Dwarven_2x-34526-1-1586416620.7z",
-        "Size": 36562104,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kartoffel",
-          "Description": "I upscaled textures of armor of Creation Club with ESRGAN. I made this on request.",
-          "FileID": 133157,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34526/34526-1593233751-100272435.png",
-          "IsNSFW": false,
-          "ModID": 34526,
-          "Name": "Creation Club Armors Upscaled Textures",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "j56Kq8eS+zs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=34526\nfileID=133159",
-        "Name": "CCAUT_Elven_2x-34526-1-1586416694.7z",
-        "Size": 62372593,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kartoffel",
-          "Description": "I upscaled textures of armor of Creation Club with ESRGAN. I made this on request.",
-          "FileID": 133159,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34526/34526-1593233751-100272435.png",
-          "IsNSFW": false,
-          "ModID": 34526,
-          "Name": "Creation Club Armors Upscaled Textures",
           "Version": "0.0.0.0"
         }
       }
