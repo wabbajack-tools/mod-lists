@@ -382,7 +382,7 @@
 *  [Landscape Fixes For Grass Mods-9005-4-9-1630543970.zip](https://www.nexusmods.com/skyrimspecialedition/mods/9005/?tab=files&file_id=225493)
 *  [LANDSCAPE ONLY TEXTURES - Mid Quality-19421-2-4-1580420075.rar](https://www.nexusmods.com/skyrimspecialedition/mods/19421/?tab=files&file_id=121863)
 *  [Landscapes - Cathedral Concept-21954-3-0-1-1578207117.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21954/?tab=files&file_id=118641)
-*  [Lanterns Of Skyrim II - FOMOD-30817-v4-0-1636165236.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30817/?tab=files&file_id=239296)
+*  [Lanterns Of Skyrim II - FOMOD-30817-3-1-1632687713.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30817/?tab=files&file_id=230855)
 *  [LeanWolf's Better-Shaped Talos with Greatsword SSE-4752-1-3b.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4752/?tab=files&file_id=9860)
 *  [LeanWolfs Better-Shaped Weapons Installer v2.1.03 SE-2017-2-1-03-1585765834.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2017/?tab=files&file_id=131901)
 *  [Leek-53205-0-1-1628508913.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53205/?tab=files&file_id=219926)
