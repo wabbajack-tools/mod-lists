@@ -1,14 +1,12 @@
 ## Validation Report - Dungeons & Deviousness: Director's Cut (dungeons_and_deviousness)
 
 
-### Invalid (3)
+### Invalid (2)
 *  780991774_BakaFactoryABCLESE2.32V.7z
-*  AnimalMansionPlusNS_SE_v1.1.7z
 *  FurnitureMarkerSex v0_13 SE.zip
 ### Updated (0)
-### Mirrored (1)
-*  [xLODGen.83.7z](https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg)
-### Valid (910)
+### Mirrored (0)
+### Valid (912)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
@@ -53,6 +51,7 @@
 *  [Andrealphus Tweaks - Player Grab Stealing-46753-1-0-1615328612.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46753/?tab=files&file_id=190524)
 *  [Andrealphus Tweaks - Releasing Clutter on Actors deals Damage-46753-1-0-1615328546.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46753/?tab=files&file_id=190521)
 *  [Ania A Beautiful Racemenu Preset High Poly Version-38032-1-0-1594110784.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38032/?tab=files&file_id=149207)
+*  AnimalMansionPlusNS_SE_v1.1.7z
 *  [Animated Clutter SSE-14398-1-9.rar](https://www.nexusmods.com/skyrimspecialedition/mods/14398/?tab=files&file_id=42632)
 *  AnimatedParasites_SE_0.1.5.3.3.7z
 *  AP - Sold Out V2.7z
@@ -906,6 +905,7 @@
 *  [Wolfpaint - Face - Racemenu Overlays-30255-1-0-1573205535.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30255/?tab=files&file_id=112816)
 *  [Wood and Paper - A Dear Diary Skin-44174-1-0-1-1622378205.zip](https://www.nexusmods.com/skyrimspecialedition/mods/44174/?tab=files&file_id=206364)
 *  [Xaza High Poly Dark Elf Female Preset-47460-1-0-1616564943.zip](https://www.nexusmods.com/skyrimspecialedition/mods/47460/?tab=files&file_id=193278)
+*  [xLODGen.83.7z](https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg)
 *  [XP32 Maximum Skeleton Special Extended-1988-4-80-1610196777.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=178559)
 *  [XPMSSE Left Hand Skeleton Rotation Fix-50049-4-80-1621290459.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=204058)
 *  [YesImSure-24898-1-5-0-1583022330.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24898/?tab=files&file_id=126540)
