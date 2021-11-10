@@ -628,7 +628,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "xyGWHOlOvSU=",
         "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=13508\nips4File=AnimalMansionPlusNS_SE_v1.1.7z",
@@ -10984,7 +10984,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "Mirrored",
       "Original": {
         "Hash": "5hKA3MnukjA=",
         "Meta": "[General]\ndirectURL=https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg",
@@ -10993,6 +10993,16 @@
         "State": {
           "$type": "MegaDownloader, Wabbajack.Lib",
           "Url": "https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg"
+        }
+      },
+      "PatchedFrom": {
+        "Hash": "5hKA3MnukjA=",
+        "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/e61280dcc9ee9230",
+        "Name": "xLODGen.83.7z",
+        "Size": 15175790,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://mirror.wabbajack.org/e61280dcc9ee9230"
         }
       }
     },
@@ -18816,5 +18826,5 @@
     }
   ],
   "Status": "Failed",
-  "Failures": 2
+  "Failures": 3
 }
