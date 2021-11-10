@@ -3,8 +3,9 @@
 
 ### Invalid (0)
 ### Updated (0)
-### Mirrored (0)
-### Valid (329)
+### Mirrored (1)
+*  [xLODGen.83.7z](https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg)
+### Valid (328)
 *  [3D Casting FX-50197-1-0-1621612410.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50197/?tab=files&file_id=204758)
 *  [A Better Magelight - Enhanced-5954-2-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/5954/?tab=files&file_id=16406)
 *  [a better magelight patch-53186-1-0-1627894519.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53186/?tab=files&file_id=218284)
@@ -332,5 +333,4 @@
 *  [Whiterun Tower fix-14365-1-0-1556909203.zip](https://www.nexusmods.com/skyrimspecialedition/mods/14365/?tab=files&file_id=90708)
 *  [xLODGen_Output-53186-1-1-0-1631640232.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53186/?tab=files&file_id=228393)
 *  [xLODGen_Output-53186-2-0-1-1636223057.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53186/?tab=files&file_id=239436)
-*  [xLODGen.83.7z](https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg)
 *  [zEdit_v0.6.6.1_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.6.1/zEdit_v0.6.6.1_-_Portable_x64.7z)
