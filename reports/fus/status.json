@@ -1,8 +1,8 @@
 {
   "MachineURL": "fus",
   "Name": "FUS",
-  "Version": "2.0.3",
-  "ModListHash": "/8WOkjv25LU=",
+  "Version": "2.0.4",
+  "ModListHash": "R5efIyylm5c=",
   "Archives": [
     {
       "Status": "Valid",
@@ -1482,21 +1482,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ONFEw/3fKOU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43930\nfileID=223132",
-        "Name": "HIGGS-43930-1-4-2-1629701543.zip",
-        "Size": 448697,
+        "Hash": "3x8k9c4zns0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32376\nfileID=129655",
+        "Name": "Glorious Doors of Skyrim SE-32376-1-03-1584773006.7z",
+        "Size": 836877116,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "hype1",
+          "Description": "All-In-One pack of all my doors including a handy Fomod installer and a new Dwemer door!",
+          "FileID": 129655,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32376/32376-1581621875-1810225153.jpeg",
+          "IsNSFW": false,
+          "ModID": 32376,
+          "Name": "Glorious Doors of Skyrim (GDOS) SE",
+          "Version": "f1.03"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TSEfvKNm16I=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32376\nfileID=129661",
+        "Name": "Glorious Doors of Skyrim SE - Update 1.04-32376-1-04-1584774890.7z",
+        "Size": 509,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "hype1",
+          "Description": "All-In-One pack of all my doors including a handy Fomod installer and a new Dwemer door!",
+          "FileID": 129661,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32376/32376-1581621875-1810225153.jpeg",
+          "IsNSFW": false,
+          "ModID": 32376,
+          "Name": "Glorious Doors of Skyrim (GDOS) SE",
+          "Version": "f1.04"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "B9iX++KaBYk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43930\nfileID=237080",
+        "Name": "HIGGS-43930-1-4-3-1635205247.zip",
+        "Size": 451864,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "FlyingParticle",
           "Description": "Hand/weapon collision, weapon two-handing, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR",
-          "FileID": 223132,
+          "FileID": 237080,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43930/43930-1609640985-1855858433.jpeg",
           "IsNSFW": false,
           "ModID": 43930,
           "Name": "HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR",
-          "Version": "1.4.2.0"
+          "Version": "1.4.3.0"
         }
       }
     },
@@ -2685,21 +2727,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dn0WxqTwlTo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=56394\nfileID=232673",
-        "Name": "Werewolf Body for VR-56394-2-2-1-1633394387.7z",
-        "Size": 1529842,
+        "Hash": "cv8yqL80fhc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56394\nfileID=237797",
+        "Name": "Werewolf Body for VR-56394-2-3-1635537803.7z",
+        "Size": 1842156,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Wolfman5750 Nyphani GroLak2020",
           "Description": "A body for werewolves(or werebears) in VR! Also enables compatibility of your installed modded werewolf/werebear textures for use in 1st person!",
-          "FileID": 232673,
+          "FileID": 237797,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56394/56394-1633116308-1254857569.jpeg",
           "IsNSFW": false,
           "ModID": 56394,
           "Name": "Werewolf Body for VR",
-          "Version": "2.2.1.0"
+          "Version": "2.3.0.0"
         }
       }
     },
@@ -2896,29 +2938,6 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/Mutagen-Modding/Synthesis/releases/download/0.19.2/Synthesis.zip"
-        }
-      }
-    },
-    {
-      "Status": "Mirrored",
-      "Original": {
-        "Hash": "5hKA3MnukjA=",
-        "Meta": "[General]\ndirectURL=https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg",
-        "Name": "xLODGen.83.7z",
-        "Size": 15175790,
-        "State": {
-          "$type": "MegaDownloader, Wabbajack.Lib",
-          "Url": "https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg"
-        }
-      },
-      "PatchedFrom": {
-        "Hash": "5hKA3MnukjA=",
-        "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/e61280dcc9ee9230",
-        "Name": "xLODGen.83.7z",
-        "Size": 15175790,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://mirror.wabbajack.org/e61280dcc9ee9230"
         }
       }
     },
@@ -4745,27 +4764,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "B9iX++KaBYk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43930\nfileID=237080",
-        "Name": "HIGGS-43930-1-4-3-1635205247.zip",
-        "Size": 451864,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "FlyingParticle",
-          "Description": "Hand/weapon collision, weapon two-handing, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR",
-          "FileID": 237080,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43930/43930-1609640985-1855858433.jpeg",
-          "IsNSFW": false,
-          "ModID": 43930,
-          "Name": "HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR",
-          "Version": "1.4.3.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "AlfnStEiFXc=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=16495\nfileID=165533",
         "Name": "JContainers VR-16495-4-1-13-1602690839.7z",
@@ -6099,22 +6097,6 @@
           "ModID": 1897,
           "Name": "True 3D Sound for Headphones",
           "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kYVBvzzlhfE=",
-        "Meta": "[General]\ngameName=Skyrim VR\ngameFile=openvr_api.dll",
-        "Name": "openvr_api.dll",
-        "Size": 598816,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "openvr_api.dll",
-          "GameVersion": "1.4.15.0",
-          "Hash": "kYVBvzzlhfE="
         }
       }
     },
