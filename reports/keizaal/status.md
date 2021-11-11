@@ -1,11 +1,10 @@
 ## Validation Report - Keizaal (keizaal)
 
 
-### Invalid (1)
-*  [DynDOLOD_Output.zip](https://github.com/Keizaal/Keizaal/releases/download/6.0.0/DynDOLOD_Output.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (819)
+### Valid (820)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
@@ -263,6 +262,7 @@
 *  [DynDOLOD 3.00-32382-Alpha-53-1634812868.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32382/?tab=files&file_id=236178)
 *  [DynDOLOD DLL SE - SKSE64 Plugin - Skyrim Special Edition 1.5.97-57264-2-45-1634727631.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57264/?tab=files&file_id=235987)
 *  [DynDOLOD Resources SE 3-52897-Alpha-15-1634374549.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=235114)
+*  [DynDOLOD_Output.zip](https://github.com/Keizaal/Keizaal/releases/download/6.0.0/DynDOLOD_Output.zip)
 *  [East Empire Company Armor-54990-1-0-3-1632715920.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54990/?tab=files&file_id=230915)
 *  [East Empire Logo - Rustic Retexture by Gamwich (1k)-38252-2-0.zip](https://www.nexusmods.com/skyrim/mods/38252/?tab=files&file_id=1000169595)
 *  [East Empire Logo - Rustic Retexture by Gamwich (2k)-38252-2-0.zip](https://www.nexusmods.com/skyrim/mods/38252/?tab=files&file_id=1000169594)
