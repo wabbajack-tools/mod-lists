@@ -1,11 +1,10 @@
 ## Validation Report - Path of the Dovahkiin (potd)
 
 
-### Invalid (1)
-*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (507)
+### Valid (508)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -283,6 +282,7 @@
 *  [Mild Complexions - SE-28510-2-0-1622231851.zip](https://www.nexusmods.com/skyrimspecialedition/mods/28510/?tab=files&file_id=206069)
 *  [MILK - Many Immersive Lootboxes and Keys - Special Edition-15876-v1-0-1.rar](https://www.nexusmods.com/skyrimspecialedition/mods/15876/?tab=files&file_id=48904)
 *  [mo2-plugins-1.1.zip](https://github.com/deorder/mo2-plugins/archive/1.1.zip)
+*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 *  [Modern Brawl Bug Fix v104-1473-1-04.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1473/?tab=files&file_id=1552)
 *  [More Bandit Camps SE-1994-2-7a-1580014418.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1994/?tab=files&file_id=121201)
 *  [More Informative Console 0.43-19250-0-43-1624831495.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=211462)
