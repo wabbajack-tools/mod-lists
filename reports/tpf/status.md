@@ -1,10 +1,11 @@
 ## Validation Report - The Phoenix Flavour (tpf)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (825)
+### Valid (824)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -422,7 +423,6 @@
 *  [Misc Tweaks - Shrines Don't Cure Diseases-38348-1-9-1629620871.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38348/?tab=files&file_id=222865)
 *  [Misc. College of Winterhold Tweaks-22653-1-5-1-1585328122.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22653/?tab=files&file_id=130834)
 *  [Mod Organizer 2 Splash Screen - Intro Title Style-51391-1-0-0-1624130948.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51391/?tab=files&file_id=210029)
-*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 *  [Modern Clap Bug Fix-38621-1-1-1595650689.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38621/?tab=files&file_id=152011)
 *  [Modular Armory - Armor Mesh Fixes Patch-49771-1-0-1622360513.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49771/?tab=files&file_id=206316)
 *  [Modular Armory - Masks of the Dovah Sonaak Patch-49771-1-0-1622279661.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49771/?tab=files&file_id=206168)
