@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (328)
+### Valid (330)
 *  [3D Casting FX-50197-1-0-1621612410.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50197/?tab=files&file_id=204758)
 *  [A Better Magelight - Enhanced-5954-2-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/5954/?tab=files&file_id=16406)
 *  [a better magelight patch-53186-1-0-1627894519.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53186/?tab=files&file_id=218284)
@@ -30,9 +30,11 @@
 *  [Clean Menu-53524-1-0-1628516880.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53524/?tab=files&file_id=219953)
 *  [Clear HUD VR-49657-1-0-0-1620507127.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49657/?tab=files&file_id=202388)
 *  [Compatibility patch for Archery-30404-1-0-1598305456.zip](https://www.nexusmods.com/skyrimspecialedition/mods/30404/?tab=files&file_id=157505)
+*  [Conduit-58023-1-0-1636579559.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58023/?tab=files&file_id=240415)
 *  [ConsoleUtilVR-47189-1-3-1631757413.zip](https://www.nexusmods.com/skyrimspecialedition/mods/47189/?tab=files&file_id=228656)
 *  [Creatures Resized for VR - SE-51551-1-1624436825.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51551/?tab=files&file_id=210715)
 *  [CrouchToDodgeVR-44442-1-0-1-1613659639.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44442/?tab=files&file_id=186584)
+*  [Data Files-42057-1-1604616002.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42057/?tab=files&file_id=168776)
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
