@@ -1,11 +1,10 @@
 ## Validation Report - Ultimate VR Essentials (ultimate_vr_essentials)
 
 
-### Invalid (1)
-*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (760)
+### Valid (761)
 *  [1_Legacy of the Dragonborn - M'rissi Follower Patch-40816-1-0-1601078125.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40816/?tab=files&file_id=162540)
 *  [1. Majestic Mountains Main File-11052-3-2-1604048751.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=167707)
 *  [1st Person Candlelight Fix-9736-1-0-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9736/?tab=files&file_id=25327)
@@ -472,6 +471,7 @@
 *  [mo2-plugins-1.0.1.zip](https://github.com/deorder/mo2-plugins/archive/1.0.1.zip)
 *  [mo2-plugins-1.1.zip](https://github.com/deorder/mo2-plugins/archive/1.1.zip)
 *  [Mod.Organizer-2.2.2.1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6194/?tab=files&file_id=119741)
+*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 *  [More Tavern Idles compatibility version-16757-2b-1551481571.zip](https://www.nexusmods.com/skyrimspecialedition/mods/16757/?tab=files&file_id=83449)
 *  [moreHUD VR-33215-1-0-3-1587002808.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33215/?tab=files&file_id=134554)
 *  [moreHUD VR-33215-1-0-4-hotfix-1-1617665670.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33215/?tab=files&file_id=196304)
