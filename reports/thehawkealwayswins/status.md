@@ -1,10 +1,11 @@
 ## Validation Report - The Hawke Always Wins (thehawkealwayswins)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (35)
+### Valid (34)
 *  [[DA2] Vanilla Face Skin Retexture.7z](https://www.dropbox.com/s/ufq152ljefsqbty/%5BDA2%5D Vanilla Face Skin Retexture.7z?dl=1)
 *  [13c-2145-1-3c.rar](https://www.nexusmods.com/dragonage2/mods/2145/?tab=files&file_id=12074)
 *  [All weapon and armor improved-4375-1-0-1612517220.rar](https://www.nexusmods.com/dragonage2/mods/4375/?tab=files&file_id=1000003196)
@@ -24,7 +25,6 @@
 *  [Fenris Spring Cleaning v2.0-3989-2-0.zip](https://www.nexusmods.com/dragonage2/mods/3989/?tab=files&file_id=1000001523)
 *  [Fugitive Armor HD-4220-1-0.7z](https://www.nexusmods.com/dragonage2/mods/4220/?tab=files&file_id=1000002413)
 *  [Import Vault Fixes-4236-0-1c.zip](https://www.nexusmods.com/dragonage2/mods/4236/?tab=files&file_id=1000002461)
-*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 *  [Mother Petrice-4349-1-0-1593882217.7z](https://www.nexusmods.com/dragonage2/mods/4349/?tab=files&file_id=1000003078)
 *  [Portrait Gallery - Miscellaneous Portrait Replacers-4300-1-01-1575274113.zip](https://www.nexusmods.com/dragonage2/mods/4300/?tab=files&file_id=1000002881)
 *  [Portrait of Your Mother - Main Hall-4300-1-0-1573501628.zip](https://www.nexusmods.com/dragonage2/mods/4300/?tab=files&file_id=1000002785)
