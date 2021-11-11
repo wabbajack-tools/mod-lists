@@ -1,8 +1,8 @@
 {
   "MachineURL": "big_warden",
   "Name": "Big Warden",
-  "Version": "4.0.2",
-  "ModListHash": "Al0Mw08PbME=",
+  "Version": "4.0.3",
+  "ModListHash": "L8mSZ0QUw6c=",
   "Archives": [
     {
       "Status": "Valid",
@@ -146,27 +146,6 @@
           "ModID": 4689,
           "Name": "Qwinn\u0027s Ultimate DAO Fixpack v3.52",
           "Version": "3.5.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ZH0cizrnLXw=",
-        "Meta": "[General]\ngameName=\nmodID=920\nfileID=12345",
-        "Name": "Awakening in the OC Core Resource Extension v1-920-1-0.rar",
-        "Size": 46751,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Jake Zahn",
-          "Description": "Extends the game\\\u0027s Core Resources with Awakening\\\u0027s resources.",
-          "FileID": 12345,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/920-1-1269485464.jpg",
-          "IsNSFW": false,
-          "ModID": 920,
-          "Name": "Awakening in the OC",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -739,48 +718,6 @@
           "ModID": 5588,
           "Name": "AP Neural Enhanced Textures v3 - Patchy\u0027s 1K edition",
           "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6il9BT7SgI8=",
-        "Meta": "[General]\ngameName=\nmodID=5402\nfileID=1000008422",
-        "Name": "Diffusion Textures-5402-3-00-1633582992.zip",
-        "Size": 6932238862,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "NewActionPotential",
-          "Description": "This mod utilizes ESRGAN (Enhanced Super-Resolution Generative Adversarial Networks) to upscale several textures by 4x, 8x, and even\n\n16x. Multiple pre-trained models were used to reduce DDS compression\n\nartifacts, remove aliasing, and add detail. This is my third take at these textures with some applied filters, both neural and traditional",
-          "FileID": 1000008422,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5402/5402-1615776007-1243351618.jpeg",
-          "IsNSFW": false,
-          "ModID": 5402,
-          "Name": "AP Neural Enhanced Textures v3",
-          "Version": "f3.00"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "XEjibPEnKAw=",
-        "Meta": "[General]\ngameName=\nmodID=5402\nfileID=1000007669",
-        "Name": "Normal Textures-5402-1-00-1611204552.zip",
-        "Size": 2006432823,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "NewActionPotential",
-          "Description": "This mod utilizes ESRGAN (Enhanced Super-Resolution Generative Adversarial Networks) to upscale several textures by 4x, 8x, and even\n\n16x. Multiple pre-trained models were used to reduce DDS compression\n\nartifacts, remove aliasing, and add detail. This is my third take at these textures with some applied filters, both neural and traditional",
-          "FileID": 1000007669,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5402/5402-1615776007-1243351618.jpeg",
-          "IsNSFW": false,
-          "ModID": 5402,
-          "Name": "AP Neural Enhanced Textures v3",
-          "Version": "f1.00"
         }
       }
     },
@@ -1763,69 +1700,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6jBV3qU31oY=",
-        "Meta": "[General]\ngameName=\nmodID=5181\nfileID=1000007555",
-        "Name": "Awakening in the OC - Expanded Integration-5181-1-2-0-1607036162.7z",
-        "Size": 59378,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "darthbdaman",
-          "Description": "Fixes, tweaks, and expansions to the Origins content, in order to better integrate the Awakening in the OC mod features into the game.",
-          "FileID": 1000007555,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 5181,
-          "Name": "Awakening in the OC - Expanded Integration",
-          "Version": "1.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "j9Qb2LBn398=",
-        "Meta": "[General]\ngameName=\nmodID=4384\nfileID=1000008094",
-        "Name": "Dain\u0027s Fixes-4384-4-21-1620219634.zip",
-        "Size": 1683818,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "dainbramage",
-          "Description": "A collection of gameplay fixes, tweaks and quality of life changes.",
-          "FileID": 1000008094,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 4384,
-          "Name": "Dain\u0027s Fixes",
-          "Version": "4.21.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "XJ0ofLs36zY=",
-        "Meta": "[General]\ngameName=\nmodID=5181\nfileID=1000007552",
-        "Name": "Shale Compatibility-5181-1-1-0-1606934112.7z",
-        "Size": 1615,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "darthbdaman",
-          "Description": "Fixes, tweaks, and expansions to the Origins content, in order to better integrate the Awakening in the OC mod features into the game.",
-          "FileID": 1000007552,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 5181,
-          "Name": "Awakening in the OC - Expanded Integration",
-          "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "6DhHSYMC4Fo=",
         "Meta": "[General]\ngameName=\nmodID=5190\nfileID=1000007556",
         "Name": "DLC Item Integration-5190-1-2-0-1607051878.7z",
@@ -2357,6 +2231,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "XJ0ofLs36zY=",
+        "Meta": "[General]\ngameName=\nmodID=5181\nfileID=1000007552",
+        "Name": "Shale Compatibility-5181-1-1-0-1606934112.7z",
+        "Size": 1615,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "darthbdaman",
+          "Description": "Fixes, tweaks, and expansions to the Origins content, in order to better integrate the Awakening in the OC mod features into the game.",
+          "FileID": 1000007552,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 5181,
+          "Name": "Awakening in the OC - Expanded Integration",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6jBV3qU31oY=",
+        "Meta": "[General]\ngameName=\nmodID=5181\nfileID=1000007555",
+        "Name": "Awakening in the OC - Expanded Integration-5181-1-2-0-1607036162.7z",
+        "Size": 59378,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "darthbdaman",
+          "Description": "Fixes, tweaks, and expansions to the Origins content, in order to better integrate the Awakening in the OC mod features into the game.",
+          "FileID": 1000007555,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 5181,
+          "Name": "Awakening in the OC - Expanded Integration",
+          "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "7UvtvFU1imA=",
         "Meta": "[General]\ngameName=\nmodID=5437\nfileID=1000007850",
         "Name": "Videos-5437-1-1-1615857635.7z",
@@ -2372,6 +2288,27 @@
           "ModID": 5437,
           "Name": "1080p Cutscenes",
           "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "j9Qb2LBn398=",
+        "Meta": "[General]\ngameName=\nmodID=4384\nfileID=1000008094",
+        "Name": "Dain\u0027s Fixes-4384-4-21-1620219634.zip",
+        "Size": 1683818,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "dainbramage",
+          "Description": "A collection of gameplay fixes, tweaks and quality of life changes.",
+          "FileID": 1000008094,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 4384,
+          "Name": "Dain\u0027s Fixes",
+          "Version": "4.21.0.0"
         }
       }
     },
