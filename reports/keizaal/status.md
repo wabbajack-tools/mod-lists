@@ -775,7 +775,7 @@
 *  [Vampire Attacks Restored Outside of Walled Cities - esp tagged as esl-21287-1-0-1-1566289186.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21287/?tab=files&file_id=103702)
 *  [Vanilla Body with UNP Textures-20517-1-2-1-1598118449.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20517/?tab=files&file_id=157116)
 *  [Vanilla NPCs SSE Ruhmastered v2.1-25977-v2-1-1576697477.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25977/?tab=files&file_id=116648)
-*  [Vanilla Script microOptimizations-54061-1-12-1635008718.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54061/?tab=files&file_id=236651)
+*  [Vanilla Script microOptimizations-54061-1-12b-1636417840.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54061/?tab=files&file_id=239970)
 *  [Vanilla Warpaints Absolution - FOMOD Installer - All Inclusive-20751-1-4-1540581882.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20751/?tab=files&file_id=70357)
 *  [Vastly More Unique Visage of Mzund Main File-3125-1-2d-1617415695.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3125/?tab=files&file_id=195554)
 *  [Vigil Enforcer Armor Set-58120-1-0-1636481712.rar](https://www.nexusmods.com/skyrimspecialedition/mods/58120/?tab=files&file_id=240162)
