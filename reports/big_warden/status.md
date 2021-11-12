@@ -1,11 +1,10 @@
 ## Validation Report - Big Warden (big_warden)
 
 
-### Invalid (1)
-*  [Nightcrawler_Pearl.rar](https://mega.nz/file/NokwgJKD#ViZafoOOfa_za0nBQL38Vp0q8zJ6tttijS0yOx1EEJk)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (137)
+### Valid (138)
 *  [ GDApp-214-1.rar](https://www.nexusmods.com/dragonage/mods/214/?tab=files&file_id=12111)
 *  [[sapphim] Keeper Avvar Ports.7z](https://www.mediafire.com/file/scbebe74e7i46ly/%255Bsapphim%255D_Keeper_Avvar_Ports.7z/file)
 *  [[sapphim] The Skin That Stalks.7z](https://www.mediafire.com/file/xfjlimt3ctsyprr/%255Bsapphim%255D_The_Skin_That_Stalks.7z/file)
@@ -94,6 +93,7 @@
 *  [Nightcrawler_Close.rar](https://mega.nz/file/Eg0z1K4C#GrcaNGLzgC7qpyFlyWw7BzLrx8T77RjdELR1jXeE3Ts)
 *  [Nightcrawler_Cola.rar](https://mega.nz/file/l0MB0axS#2GdFQkEVx5kdbS4K18fV3F7MP_PjCbe5cYla3MDwl3w)
 *  [Nightcrawler_Dante.rar](https://mega.nz/file/Bk91AA6Y#nV2_XReHgOcvHAYX9rBoseCbUzojjBfK_UOSr5yhymQ)
+*  [Nightcrawler_Pearl.rar](https://mega.nz/file/NokwgJKD#ViZafoOOfa_za0nBQL38Vp0q8zJ6tttijS0yOx1EEJk)
 *  [Nightcrawler_Sangrita.rar](https://mega.nz/file/0lkyRa5R#C0SsSN8uTf7zBjEmdeHncb7nTIAyQwN5AXClWU2LDnI)
 *  [No-Kirkwall No-Glow Ser Isaac for DAO-4091-Final.7z](https://www.nexusmods.com/dragonage/mods/4091/?tab=files&file_id=1000005298)
 *  [Nouk Dreads Updo_DM.7z](https://www.mediafire.com/file/8u2xoi1411gbx8e/Nouk_Dreads_Updo_DM.7z/file)
