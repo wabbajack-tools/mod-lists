@@ -1,8 +1,8 @@
 {
   "MachineURL": "keizaal",
   "Name": "Keizaal",
-  "Version": "6.0.0.3",
-  "ModListHash": "tsGQ/E3VdOo=",
+  "Version": "6.0.0.4",
+  "ModListHash": "7uWloECz73Q=",
   "Archives": [
     {
       "Status": "Valid",
@@ -1171,21 +1171,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "vLfn8sLYDgs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=10917\nfileID=240649",
-        "Name": "Beyond Skyrim - Bruma 1.5.0-10917-1-5-0-1636666106.7z",
-        "Size": 3024089072,
+        "Hash": "DYzD/QCLjUQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=10917\nfileID=241018",
+        "Name": "Beyond Skyrim - Bruma 1.5.1-10917-1-5-1-1636813248.7z",
+        "Size": 3059356295,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "The Beyond Skyrim - Cyrodiil Development Team",
           "Description": "Travel beyond the borders of Skyrim and explore Bruma, the northernmost county in Cyrodiil. Delve into Ayleid ruins, meddle in local affairs or explore the wilds - the journey begins now.",
-          "FileID": 240649,
+          "FileID": 241018,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/84946-0-1498689983.jpg",
           "IsNSFW": false,
           "ModID": 10917,
           "Name": "Beyond Skyrim - Bruma SE",
-          "Version": "1.5.0.0"
+          "Version": "1.5.1.0"
         }
       }
     },
@@ -8503,14 +8503,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XCvp9cazImg=",
-        "Meta": "[General]\ndirectURL=https://github.com/TES5Edit/TES5Edit/releases/download/xedit-4.0.3/SSEEdit.4.0.3.zip",
-        "Name": "SSEEdit.4.0.3.zip",
-        "Size": 39434145,
+        "Hash": "4+F6wQO0cRg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=164\nfileID=240322",
+        "Name": "SSEEdit 4.0.4-164-4-0-4-1636548642.7z",
+        "Size": 14361762,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/TES5Edit/TES5Edit/releases/download/xedit-4.0.3/SSEEdit.4.0.3.zip"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ElminsterAU and the xEdit team",
+          "Description": "SSEEdit is the Skyrim: Special Edition version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.",
+          "FileID": 240322,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/164/164-1544500149-1688528806.png",
+          "IsNSFW": false,
+          "ModID": 164,
+          "Name": "SSEEdit",
+          "Version": "4.0.4.0"
         }
       }
     },
