@@ -1,8 +1,8 @@
 {
   "MachineURL": "magnum_opus",
   "Name": "Magnum Opus",
-  "Version": "4.11.0",
-  "ModListHash": "0zsGwFX8cSc=",
+  "Version": "4.11.1",
+  "ModListHash": "5p3TjirEb+w=",
   "Archives": [
     {
       "Status": "Valid",
@@ -760,7 +760,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "HK++wQMbfpg=",
         "Meta": "[General]\ndirectURL=https://mega.nz/file/bmh2WQqR#iUi9rDCF0qqDcpHb1LyI1vRlo5slJi33MmrUMjLRXu8",
@@ -3398,7 +3398,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "jgNNJY634rQ=",
         "Meta": "[General]\ndirectURL=https://mega.nz/file/BZhlVCAJ#s-GqqbnJlZDvCLPiRw1Wm1EWGqMQCuh4CR8Zzn8POM4",
@@ -3623,42 +3623,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "sYmWkI09KEY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=43686\nfileID=201751",
-        "Name": "Gunner Heavy Outfits 1stperson fix-43686-3-0-1613585709.rar",
-        "Size": 54891243,
+        "Hash": "sRwJ0DnfqNw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=43686\nfileID=220179",
+        "Name": "Gunner Outfit Pack-43686-4-1-1635495724.rar",
+        "Size": 252150074,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Defalt - Mavmanzero",
           "Description": "This adds 215 Gunner themed Outfits/Hats/Helmets/Masks (75 Outfits, 112 Hats/Helmets, 10 Masks, 11 Backpacks, 2 Goggles and 5 Standalone Kevlar armors) \u002B Gunner themed Paint Jobs for the T-45, T-51, T-60 and X-01 Power Armors to the game.",
-          "FileID": 201751,
+          "FileID": 220179,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/43686/43686-1635470519-829274344.png",
           "IsNSFW": false,
           "ModID": 43686,
           "Name": "Gunner Outfit Pack (STANDALONE)",
-          "Version": "3.0.0.0"
+          "Version": "4.1.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ia6WPRiQ8rw=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=43686\nfileID=201750",
-        "Name": "Gunner Outfit Pack 3.0-43686-3-0-1613585465.rar",
-        "Size": 166427943,
+        "Hash": "hoFeoMg3kqA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=43686\nfileID=221291",
+        "Name": "Gunner Outfit Pack - ESP Only-43686-4-1-1-1636757816.rar",
+        "Size": 45165,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Defalt - Mavmanzero",
           "Description": "This adds 215 Gunner themed Outfits/Hats/Helmets/Masks (75 Outfits, 112 Hats/Helmets, 10 Masks, 11 Backpacks, 2 Goggles and 5 Standalone Kevlar armors) \u002B Gunner themed Paint Jobs for the T-45, T-51, T-60 and X-01 Power Armors to the game.",
-          "FileID": 201750,
+          "FileID": 221291,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/43686/43686-1635470519-829274344.png",
           "IsNSFW": false,
           "ModID": 43686,
           "Name": "Gunner Outfit Pack (STANDALONE)",
-          "Version": "3.0.0.0"
+          "Version": "4.1.1.0"
         }
       }
     },
@@ -10117,7 +10117,7 @@
           "Description": "The Complex Sorter from FallUI Item Sorter Mod. Automatically add item tags to all items. Highly versatile and completely configurable: custom processing rules, custom tag sets, custom naming rules. You can just change anything to your liking. Standard rules support most custom mods out-of-the-box.",
           "FileID": 206267,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48826/48826-1633905486-1901157957.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48826/48826-1636805582-768817055.png",
           "IsNSFW": false,
           "ModID": 48826,
           "Name": "M8r98a4f2\u0027s Complex Item Sorter",
@@ -13006,6 +13006,6 @@
       }
     }
   ],
-  "Status": "Available",
-  "Failures": 0
+  "Status": "Failed",
+  "Failures": 2
 }

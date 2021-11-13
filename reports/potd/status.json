@@ -5624,7 +5624,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "Mirrored",
       "Original": {
         "Hash": "Ypeg2MKgzlQ=",
         "Meta": "[General]\ndirectURL=https://mega.nz/file/dEwQnJRS#E-qpq29rVCBw3FxT3gTOjF_Z2zYkzR2CcWhQ5OAZcwg",
@@ -5633,6 +5633,16 @@
         "State": {
           "$type": "MegaDownloader, Wabbajack.Lib",
           "Url": "https://mega.nz/file/dEwQnJRS#E-qpq29rVCBw3FxT3gTOjF_Z2zYkzR2CcWhQ5OAZcwg"
+        }
+      },
+      "PatchedFrom": {
+        "Hash": "Ypeg2MKgzlQ=",
+        "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/6297a0d8c2a0ce54",
+        "Name": "xLODGen.84.7z",
+        "Size": 15189224,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://mirror.wabbajack.org/6297a0d8c2a0ce54"
         }
       }
     },
