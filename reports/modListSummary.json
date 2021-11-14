@@ -50,14 +50,14 @@
   {
     "name": "Serenity 2",
     "machineURL": "serenity",
-    "failed": 0,
-    "passed": 998,
+    "failed": 1,
+    "passed": 997,
     "updating": 0,
     "mirrored": 1,
     "link": "reports/serenity/status.json",
     "report": "reports/serenity/status.md",
     "modlist_missing": false,
-    "has_failures": false
+    "has_failures": true
   },
   {
     "name": "Total Skyrim Overhaul",
@@ -416,18 +416,6 @@
     "mirrored": 0,
     "link": "reports/aldrnari/status.json",
     "report": "reports/aldrnari/status.md",
-    "modlist_missing": false,
-    "has_failures": false
-  },
-  {
-    "name": "QWEST!",
-    "machineURL": "qwest",
-    "failed": 0,
-    "passed": 956,
-    "updating": 0,
-    "mirrored": 0,
-    "link": "reports/qwest/status.json",
-    "report": "reports/qwest/status.md",
     "modlist_missing": false,
     "has_failures": false
   },
