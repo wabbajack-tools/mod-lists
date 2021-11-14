@@ -506,7 +506,7 @@
 *  [Wispmother.2x1k-7638-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/7638/?tab=files&file_id=18465)
 *  [Wolfpaint - Face - Racemenu Overlays - Male and Female-30255-1-0-MF-1573895529.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30255/?tab=files&file_id=113503)
 *  [xEdit_4.0.3g.7z](https://cdn.discordapp.com/attachments/518048160526893057/832281169717362738/xEdit_4.0.3g.7z)
-*  [xLODGen.84.7z](https://mega.nz/file/dEwQnJRS#E-qpq29rVCBw3FxT3gTOjF_Z2zYkzR2CcWhQ5OAZcwg)
+*  [xLODGen.85.7z](https://mega.nz/file/kNRCHRDY#ONIMDnlxyyBH-QsSUgatbQJWOgGGrr8F8bxWD_-bSGc)
 *  [XP32 Maximum Skeleton Special Extended-1988-4-80-1610196777.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=178559)
 *  [YesImSure-24898-1-5-0-1583022330.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24898/?tab=files&file_id=126540)
 *  [zEdit module-25673-4-2-1620585412.rar](https://www.nexusmods.com/skyrimspecialedition/mods/25673/?tab=files&file_id=202565)
