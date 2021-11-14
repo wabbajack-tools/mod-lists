@@ -1,23 +1,12 @@
 ## Validation Report - Dungeons & Deviousness: Director's Cut (dungeons_and_deviousness)
 
 
-### Invalid (12)
-*  [1420278612_SexLabParasitesSE2021-07-31.7z](https://mega.nz/file/obZj0QKK#CcTaWCv4YqxFKKWF_bRs-uzih4_iFpU-AWIqvMhAhWM)
+### Invalid (2)
 *  780991774_BakaFactoryABCLESE2.32V.7z
-*  [AmorousAdventures 3.4 SE.zip](https://mega.nz/#!bQoxnKZa!hb2QAHpKafYvw5NPY_eqDVi2AVAZ7-89NQkS6mR8Q6Y)
-*  [Devious Devices SE & VR 5.1.7z](https://mega.nz/file/3RkWmApB#U-0icSo9aEw4lV3kL2uxeSaScJmYPntFuKMg6B6ecmU)
-*  [Deviously Cursed Loot SE 9.0.7z](https://mega.nz/file/7ZMAXbQD#cPR5m0k8q5ZTcL8WtYSgpeZS5tOhlRzhY4hMiUOcCyY)
 *  FurnitureMarkerSex v0_13 SE.zip
-*  [SexLab Parasites CBBE SE and 3BBB Bodyslides V7.7z](https://mega.nz/file/IWYFiKiD#ci8OcvnY_7fwSBtD_Ehm4_mAcShfFnwNgAzXLk0IL_g)
-*  [Smooth DAR Combat Dodge.7z](https://mega.nz/file/hbQ0yZoS#OhAKlalcXcW3GwzMI8k2vld3KSoOemX6nl4_nc-QxMY)
-*  [Smooth Random Blocking Animation.7z](https://mega.nz/file/4LxGTALK#7I8XPLnIW0PxR_r_nXMP-9ZUnZ16MlFVMdFdgGy-gF0)
-*  [Smooth Random Magic idle Animation.7z](https://mega.nz/file/IS4EjJhC#inP4yfb3i-UO_sx790OpoFDk81x-WIRf9WcBeKxnmYo)
-*  [Smooth Random Sprint Animation.7z](https://mega.nz/file/8T4ixLCB#YKQw5EDFdL1_e-5G_JB8WgmUkJ8N0kNtpzeOwUHZcZY)
-*  [ZaZ Animation Pack+ CBBE HDT V.8.0+SEREV3.7z](https://mega.nz/file/WEgGDaCa#wAho2Rphy47Lcd55DEmV50GgN07CMnTjhQ_r9s6dq-I)
 ### Updated (0)
-### Mirrored (1)
-*  [xLODGen.83.7z](https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg)
-### Valid (901)
+### Mirrored (0)
+### Valid (912)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
@@ -35,6 +24,7 @@
 *  01 - Poser Hotkeys Version.7z
 *  [1. Majestic Mountains Main File-11052-3-2-1604048751.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=167707)
 *  1233575648_SLAL_Billyy_Animationsv5.0SE.zip
+*  [1420278612_SexLabParasitesSE2021-07-31.7z](https://mega.nz/file/obZj0QKK#CcTaWCv4YqxFKKWF_bRs-uzih4_iFpU-AWIqvMhAhWM)
 *  [2K Alchemy Table ONLY-16446-1-1-1611138530.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16446/?tab=files&file_id=180669)
 *  [2K ElSopa HD - Dirt Blast-22342-1-0-1546570565.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22342/?tab=files&file_id=77145)
 *  [2K Enchanting Table ONLY-16446-1-1-1611305246.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16446/?tab=files&file_id=181009)
@@ -55,6 +45,7 @@
 *  [Amalia - Breton Female-40323-1-0-1599792918.zip](https://www.nexusmods.com/skyrimspecialedition/mods/40323/?tab=files&file_id=160125)
 *  [AMatterOfTime_v3_0_0_alpha_4-12937-v3-0-0a4.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12937/?tab=files&file_id=43572)
 *  [Amber - a High Poly Female Preset-41743-1-0-1603709431.zip](https://www.nexusmods.com/skyrimspecialedition/mods/41743/?tab=files&file_id=167138)
+*  [AmorousAdventures 3.4 SE.zip](https://mega.nz/#!bQoxnKZa!hb2QAHpKafYvw5NPY_eqDVi2AVAZ7-89NQkS6mR8Q6Y)
 *  [Andela-48350-1-0-1618031522.rar](https://www.nexusmods.com/skyrimspecialedition/mods/48350/?tab=files&file_id=197226)
 *  [ANDR Tweaks 06 - No Easy Bloodkin-27939-1-0-1564922413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27939/?tab=files&file_id=101832)
 *  [Andrealphus Tweaks - Player Grab Stealing-46753-1-0-1615328612.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46753/?tab=files&file_id=190524)
@@ -232,7 +223,9 @@
 *  [Depths of Skyrim-26913-1-1-7-1608572556.rar](https://www.nexusmods.com/skyrimspecialedition/mods/26913/?tab=files&file_id=175564)
 *  [Desaturated Alternative Tents 4K or 2K Option-17072-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17072/?tab=files&file_id=53903)
 *  Devious Cidhna v1_10_SE.7z
+*  [Devious Devices SE & VR 5.1.7z](https://mega.nz/file/3RkWmApB#U-0icSo9aEw4lV3kL2uxeSaScJmYPntFuKMg6B6ecmU)
 *  Devious Followers - Continued SE v2.14.3.7z
+*  [Deviously Cursed Loot SE 9.0.7z](https://mega.nz/file/7ZMAXbQD#cPR5m0k8q5ZTcL8WtYSgpeZS5tOhlRzhY4hMiUOcCyY)
 *  [Diamond CBBE 3BA Bodyslide-48916-1-0-1619264240.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48916/?tab=files&file_id=199932)
 *  [Diamond Textures CBBE-45718-1-6-1618659623.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45718/?tab=files&file_id=198658)
 *  [Diana Vampyre's Fancy Dress - SSE CBBE BodySlide-30484-1-0-1575735517.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30484/?tab=files&file_id=115480)
@@ -723,6 +716,7 @@
 *  SexLab Confabulation V1.7.4 Hotfix.zip
 *  SexLab CumTextures Remake v1.2.7z
 *  SexLab Parasites CBBE SE and 3BBB Bodyslides V2.7z
+*  [SexLab Parasites CBBE SE and 3BBB Bodyslides V7.7z](https://mega.nz/file/IWYFiKiD#ci8OcvnY_7fwSBtD_Ehm4_mAcShfFnwNgAzXLk0IL_g)
 *  SexLab Solutions v3 - Revisited.7z
 *  Sexlab Survival SSE 0.662 Beta.7z
 *  [SexLab v163-Beta9 WJ Fork.zip](https://github.com/ForgottenGlory/SexLab/releases/download/Beta9/SexLab.v163-Beta9.WJ.Fork.zip)
@@ -786,7 +780,11 @@
 *  [SMIM SE 2-08-659-2-08.7z](https://www.nexusmods.com/skyrimspecialedition/mods/659/?tab=files&file_id=59069)
 *  [Smooth Combat Animation by Race.7z](https://blog.kakaocdn.net/dn/cc2DCv/btq75DwB45E/Ngh6JToG1d7rL8IOwblKLk/Smooth Combat Animation by Race.7z?attach=1&knm=tfile.7z)
 *  [Smooth Combat Non Combat Animation.7z](https://blog.kakaocdn.net/dn/9Tn0e/btq6pI8JGgq/RMxvJoTOF071qWFu9pc04k/Smooth Combat Non Combat Animation.7z?attach=1&knm=tfile.7z)
+*  [Smooth DAR Combat Dodge.7z](https://mega.nz/file/hbQ0yZoS#OhAKlalcXcW3GwzMI8k2vld3KSoOemX6nl4_nc-QxMY)
 *  [Smooth Magic Casting Animation 3.2.7z](https://blog.kakaocdn.net/dn/cyDuii/btq74ntfh9i/FwXmgAkFKizXGmtyVpscZK/Smooth Magic Casting Animation 3.2.7z?attach=1&knm=tfile.7z)
+*  [Smooth Random Blocking Animation.7z](https://mega.nz/file/4LxGTALK#7I8XPLnIW0PxR_r_nXMP-9ZUnZ16MlFVMdFdgGy-gF0)
+*  [Smooth Random Magic idle Animation.7z](https://mega.nz/file/IS4EjJhC#inP4yfb3i-UO_sx790OpoFDk81x-WIRf9WcBeKxnmYo)
+*  [Smooth Random Sprint Animation.7z](https://mega.nz/file/8T4ixLCB#YKQw5EDFdL1_e-5G_JB8WgmUkJ8N0kNtpzeOwUHZcZY)
 *  [Sneak Tools (SE)-1863-2-3-1604626533.rar](https://www.nexusmods.com/skyrimspecialedition/mods/1863/?tab=files&file_id=168803)
 *  [Snowberries by Mari-41793-1-3-1604737230.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41793/?tab=files&file_id=169009)
 *  SOS - Futanari - Patch for CBBE SE Femenine Argonian Textures (Lizard ONLY).7z
@@ -907,6 +905,7 @@
 *  [Wolfpaint - Face - Racemenu Overlays-30255-1-0-1573205535.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30255/?tab=files&file_id=112816)
 *  [Wood and Paper - A Dear Diary Skin-44174-1-0-1-1622378205.zip](https://www.nexusmods.com/skyrimspecialedition/mods/44174/?tab=files&file_id=206364)
 *  [Xaza High Poly Dark Elf Female Preset-47460-1-0-1616564943.zip](https://www.nexusmods.com/skyrimspecialedition/mods/47460/?tab=files&file_id=193278)
+*  [xLODGen.83.7z](https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg)
 *  [XP32 Maximum Skeleton Special Extended-1988-4-80-1610196777.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=178559)
 *  [XPMSSE Left Hand Skeleton Rotation Fix-50049-4-80-1621290459.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=204058)
 *  [YesImSure-24898-1-5-0-1583022330.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24898/?tab=files&file_id=126540)
@@ -914,6 +913,7 @@
 *  [Yuna Racemenu preset-41575-1-01-1603309324.rar](https://www.nexusmods.com/skyrimspecialedition/mods/41575/?tab=files&file_id=166469)
 *  [Yyvengar Bodypaints - Female (CBBE)-37384-1-0-1592374869.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37384/?tab=files&file_id=146106)
 *  [Zara - RaceMenu Preset (Mature Version)-15638-1-1-M.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15638/?tab=files&file_id=52041)
+*  [ZaZ Animation Pack+ CBBE HDT V.8.0+SEREV3.7z](https://mega.nz/file/WEgGDaCa#wAho2Rphy47Lcd55DEmV50GgN07CMnTjhQ_r9s6dq-I)
 *  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
 *  [ZincTO's CBBE Bodyslide Preset-29156-1-1569109067.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29156/?tab=files&file_id=107727)
 *  [Ziovendian Bodypaints - Female (CBBE)-25204-1-1555774316.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25204/?tab=files&file_id=89056)

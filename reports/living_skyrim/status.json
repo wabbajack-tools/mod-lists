@@ -1,8 +1,8 @@
 {
   "MachineURL": "living_skyrim",
   "Name": "Living Skyrim",
-  "Version": "3.6.0.1",
-  "ModListHash": "9wxUAhF8nLI=",
+  "Version": "3.6.0.2",
+  "ModListHash": "xV+Gspky3Vk=",
   "Archives": [
     {
       "Status": "Valid",
@@ -1638,7 +1638,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mharlek1",
-          "Description": "New vanilla based models for hair,horns, beard and brows combined with vanilla options - Beast races only\n\nPlayer character only - esl flagged, no slot on load order.\n\nAnd/or a npc replacer (with the pc options) for all Argonians and Khajiit named npcs and leveled lists - an esp.\n\nPlus a content addon - a npc replacer for other mods",
+          "Description": "The ultimate mod package for the beast races boasting thousands of possible outcomes for player character creation with exciting new vanilla based models accompanied by a complete npc replacer for all Argonians and Khajiit, named npcs and leveled lists, with glorious reimagining.\n\nAnd beyond: optional unique npc replacer addons for other mods",
           "FileID": 159382,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38480/38480-1596231698-1692247970.png",
@@ -14834,25 +14834,15 @@
       }
     },
     {
-      "Status": "Mirrored",
+      "Status": "Valid",
       "Original": {
-        "Hash": "5hKA3MnukjA=",
-        "Meta": "[General]\ndirectURL=https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg",
-        "Name": "xLODGen.83.7z",
-        "Size": 15175790,
+        "Hash": "I6EB0F4LS8o=",
+        "Meta": "[General]\ndirectURL=https://mega.nz/file/kNRCHRDY#ONIMDnlxyyBH-QsSUgatbQJWOgGGrr8F8bxWD_-bSGc",
+        "Name": "xLODGen.85.7z",
+        "Size": 14736564,
         "State": {
           "$type": "MegaDownloader, Wabbajack.Lib",
-          "Url": "https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg"
-        }
-      },
-      "PatchedFrom": {
-        "Hash": "5hKA3MnukjA=",
-        "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/e61280dcc9ee9230",
-        "Name": "xLODGen.83.7z",
-        "Size": 15175790,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://mirror.wabbajack.org/e61280dcc9ee9230"
+          "Url": "https://mega.nz/file/kNRCHRDY#ONIMDnlxyyBH-QsSUgatbQJWOgGGrr8F8bxWD_-bSGc"
         }
       }
     },
@@ -22073,7 +22063,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "eymT7VFVQMc=",
         "Meta": "[General]\ndirectURL=https://mega.nz/file/4LxGTALK#7I8XPLnIW0PxR_r_nXMP-9ZUnZ16MlFVMdFdgGy-gF0",
@@ -22086,7 +22076,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "PG/o5lafcb4=",
         "Meta": "[General]\ndirectURL=https://mega.nz/file/IS4EjJhC#inP4yfb3i-UO_sx790OpoFDk81x-WIRf9WcBeKxnmYo",
@@ -22099,7 +22089,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "QEregwUeFqs=",
         "Meta": "[General]\ndirectURL=https://mega.nz/file/8T4ixLCB#YKQw5EDFdL1_e-5G_JB8WgmUkJ8N0kNtpzeOwUHZcZY",
@@ -22133,6 +22123,6 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 3
+  "Status": "Available",
+  "Failures": 0
 }

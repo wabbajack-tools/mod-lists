@@ -3707,7 +3707,7 @@
       }
     },
     {
-      "Status": "Mirrored",
+      "Status": "Valid",
       "Original": {
         "Hash": "h5LJ+CbJSuE=",
         "Meta": "[General]\ndirectURL=https://mega.nz/#!r0Ei1QwB!wqSFfjiHywamVGdERbq_iKKudShZ5Om_7WDbAlwrdvU",
@@ -3716,16 +3716,6 @@
         "State": {
           "$type": "MegaDownloader, Wabbajack.Lib",
           "Url": "https://mega.nz/#!r0Ei1QwB!wqSFfjiHywamVGdERbq_iKKudShZ5Om_7WDbAlwrdvU"
-        }
-      },
-      "PatchedFrom": {
-        "Hash": "h5LJ+CbJSuE=",
-        "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/8792c9f826c94ae1",
-        "Name": "Skyrim_Particle_Patch_for_ENB-SSE.zip",
-        "Size": 28189946,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://mirror.wabbajack.org/8792c9f826c94ae1"
         }
       }
     },
@@ -4063,7 +4053,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "3Qp47M3e3YI=",
         "Meta": "[General]\ndirectURL=https://mega.nz/file/MI41iADD#Qa47iXpHBZLxAICe7My9q-dSAX1Rh9uKQlXFk9vMIOc",
@@ -4595,7 +4585,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "3pGsGAYzDjE=",
         "Meta": "[General]\ndirectURL=https://mega.nz/#!8040WI6b!BgurOV5-aHqrHQfwyHAxTwy9D_8O0AYP3r1p7qvAnoI",
@@ -5021,7 +5011,7 @@
       }
     },
     {
-      "Status": "Mirrored",
+      "Status": "Valid",
       "Original": {
         "Hash": "Ypeg2MKgzlQ=",
         "Meta": "[General]\ndirectURL=https://mega.nz/file/dEwQnJRS#E-qpq29rVCBw3FxT3gTOjF_Z2zYkzR2CcWhQ5OAZcwg",
@@ -5030,16 +5020,6 @@
         "State": {
           "$type": "MegaDownloader, Wabbajack.Lib",
           "Url": "https://mega.nz/file/dEwQnJRS#E-qpq29rVCBw3FxT3gTOjF_Z2zYkzR2CcWhQ5OAZcwg"
-        }
-      },
-      "PatchedFrom": {
-        "Hash": "Ypeg2MKgzlQ=",
-        "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/6297a0d8c2a0ce54",
-        "Name": "xLODGen.84.7z",
-        "Size": 15189224,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://mirror.wabbajack.org/6297a0d8c2a0ce54"
         }
       }
     },
@@ -15165,6 +15145,6 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 2
+  "Status": "Available",
+  "Failures": 0
 }
