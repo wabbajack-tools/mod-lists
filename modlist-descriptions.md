@@ -15,7 +15,6 @@
   - [The Phoenix Flavour](#the-phoenix-flavour)
   - [Living Skyrim](#living-skyrim)
   - [Serenity 2](#serenity-2)
-  - [QWEST!](#qwest)
   - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr)
   - [Tinvaak](#tinvaak)
   - [Aldrnari](#aldrnari)
@@ -157,25 +156,6 @@ Serenity 2 is a Skyrim SE modlist that aims to bring a fresh Requiem Experience 
 
 ***
 
-### [QWEST!](https://www.wabbajack.org/#/modlists/info?machineURL=qwest)
-
-QWEST! was born after a few friends were talking about how some of their friends couldn't enjoy cool quests in modded Skyrim, even with Wabbajack, due to the hardware requirements. This list overalls the game graphically, in a way that it does not impact fps.
-It is Legacy of the Dragonborn centered, since it's the list with the most addons for it, with additions like music, animations, many new lands, many vanilla quest enhancers, better looking NPCs, unique followers and much more, tested to be ran perfectly fine by people with 2GB of VRAM graphic cards.
-2 Profiles exists so you can choose between EnaiRim and SimonRim.
-Survival mods such as The Frozen North, SunHelm and Campfire are toggleable and there's even a gamepad guide.
-
-**_Mods to get familiar with:_**
-
-[EnaiRim](https://www.nexusmods.com/skyrimspecialedition/users/3959191)
-[SimonRim](https://www.nexusmods.com/skyrimspecialedition/users/67410746)
-[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)
-[Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194)  
-[Enemy (R)Evolution of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/37228)
-[Dynamic Dungeon Loot](https://www.nexusmods.com/skyrimspecialedition/mods/10308)
-[Detailled Document of all the quest mods](https://docs.google.com/spreadsheets/d/15h4lGfMr4z_1hqPp8LDVbTLLRqgjaQBUUSIYc6XtJGU/edit#gid=0)
-
-***
-
 ### [Librum for Skyrim SE and VR](https://github.com/apoapse1/Librum-for-Skyrim-VR)
 
 A gritty, low-magic, hardcore survival-adventure experience with an uncompromising vision. Hundreds of new quests and locations, a total mechanics overhaul, and a complete makeover of the graphics and atmosphere. The path to your destiny as the Dragonborn will be long and treacherous. Welcome to Librum.
@@ -195,17 +175,16 @@ Really, though, please check out our [website](https://librum-modpack.com/).
 
 ### [Tinvaak](https://www.wabbajack.org/#/modlists/info?machineURL=Tinvaak)
 
-Tinvaak is a modlist focused on revitalising and reworking Skyrim into an actual roleplaying game. Featuring T3NDO's Skyrim SE Redone, Skyrim Unbound, Oblivion influenced classes and birthsigns and an optional suite of survival mods, you can be anyone you wish. A second fully patched profile for Khajiit speak is included as well.
-
-For an overview of the various mods included, you can view the modlist [showcase and trailer here.](https://www.youtube.com/watch?v=p8CtRdu0-e0)
+Tinvaak is a list focused on making Skyrim: Special Edition (SSE) into an actual roleplaying game. Many new mechanics and changes are present to offer an alternate take on the game. You can view many of these changes in the [showcase video from DroppedIceCream](https://www.youtube.com/watch?v=4N0cOrv5Crc), the [official trailer](https://youtu.be/8bLSGfok47g) and the [Changes to Gameplay](https://github.com/The-Animonculory/Tinvaak/blob/main/Changes%20to%20Gameplay.md) article.
 
 **_Mods to get familiar with:_**
 
-- [T3NDO's Skyrim Redone](https://www.nexusmods.com/skyrimspecialedition/mods/17915)
+- [Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673)
 - [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962)
-- [SkyRem Series](https://www.nexusmods.com/skyrimspecialedition/users/19562249)
+- [Dino's Spell Discovery](https://www.nexusmods.com/skyrimspecialedition/mods/43929?tab=description)
 - [Skyrim Realistic Conquering](https://www.nexusmods.com/skyrimspecialedition/mods/26396)
 - [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
+- [Heim - Smithing Tweaks and Lightweight Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54207)
 
 ***
 
