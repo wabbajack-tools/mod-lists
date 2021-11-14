@@ -1,12 +1,11 @@
 ## Validation Report - Serenity 2 (serenity)
 
 
-### Invalid (1)
-*  [reshade-shaders-eb6b988035d71d7b081682ee4edbe1cfe45877bd.zip](https://github.com/benjamimgois/reshade-shaders/archive/eb6b988035d71d7b081682ee4edbe1cfe45877bd.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (1)
 *  [enbseries_skyrimse_v0462.zip](http://enbdev.com/enbseries_skyrimse_v0462.zip)
-### Valid (997)
+### Valid (998)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [000EquanimityLoader.7z](https://wabbajack.b-cdn.net/000EquanimityLoader.7z_21c9caf3-f5b4-4589-bc0e-fde0af7d00e3)
@@ -740,6 +739,7 @@
 *  [Requiem_NPC_Statefix-42633-0-2j-1627790320.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42633/?tab=files&file_id=218005)
 *  [Requiem_VampireCollection-42633-0-3d-1627790885.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42633/?tab=files&file_id=218006)
 *  [Reshade 4.7.7z](https://wabbajack.b-cdn.net/Reshade 4.7.7z_e73b517d-799a-4dcb-b83b-83adf9ad7090)
+*  [reshade-shaders-eb6b988035d71d7b081682ee4edbe1cfe45877bd.zip](https://github.com/benjamimgois/reshade-shaders/archive/eb6b988035d71d7b081682ee4edbe1cfe45877bd.zip)
 *  [Revamped Assets Skyrim - High-75380-0-31.7z](https://www.nexusmods.com/skyrim/mods/75380/?tab=files&file_id=1000205331)
 *  [Revamped Assets Skyrim - Weapon Racks Patch-26092-1-1-1614011801.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26092/?tab=files&file_id=187421)
 *  [Riekling Barrels SMIM-43306-0-1-1607862251.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43306/?tab=files&file_id=174353)
