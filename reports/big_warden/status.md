@@ -1,11 +1,10 @@
 ## Validation Report - Big Warden (big_warden)
 
 
-### Invalid (1)
-*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (142)
+### Valid (143)
 *  [ GDApp-214-1.rar](https://www.nexusmods.com/dragonage/mods/214/?tab=files&file_id=12111)
 *  [[sapphim] Keeper Avvar Ports.7z](https://www.mediafire.com/file/scbebe74e7i46ly/%255Bsapphim%255D_Keeper_Avvar_Ports.7z/file)
 *  [[sapphim] The Skin That Stalks.7z](https://www.mediafire.com/file/xfjlimt3ctsyprr/%255Bsapphim%255D_The_Skin_That_Stalks.7z/file)
@@ -87,6 +86,7 @@
 *  [Mage item Pack 2 armor variation-3914-1-0.zip](https://www.nexusmods.com/dragonage/mods/3914/?tab=files&file_id=1000001087)
 *  [Main File - Grey Wardens of Ferelden-3258-2-5.zip](https://www.nexusmods.com/dragonage/mods/3258/?tab=files&file_id=17152)
 *  [medium_helmet_conflict_fix-5439-1-0-1623768302.7z](https://www.nexusmods.com/dragonage/mods/5439/?tab=files&file_id=1000008206)
+*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 *  [More Believable Fade Duncan-4718-1-0.7z](https://www.nexusmods.com/dragonage/mods/4718/?tab=files&file_id=1000004904)
 *  [More Hairs for Kids-5382-1-1-1607669535.7z](https://www.nexusmods.com/dragonage/mods/5382/?tab=files&file_id=1000007577)
 *  [More Hairstyles 0_51-392.zip](https://www.nexusmods.com/dragonage/mods/392/?tab=files&file_id=2820)

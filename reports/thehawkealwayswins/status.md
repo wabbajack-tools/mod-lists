@@ -1,11 +1,10 @@
 ## Validation Report - The Hawke Always Wins (thehawkealwayswins)
 
 
-### Invalid (1)
-*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (51)
+### Valid (52)
 *  [All Models-3136.rar](https://www.nexusmods.com/dragonage2/mods/3136/?tab=files&file_id=16258)
 *  [Anto Hairs v1-4208-01.zip](https://www.nexusmods.com/dragonage2/mods/4208/?tab=files&file_id=1000002356)
 *  [Arishok AI Rebalance-4192-1-0.zip](https://www.nexusmods.com/dragonage2/mods/4192/?tab=files&file_id=1000002294)
@@ -39,6 +38,7 @@
 *  [Lore Keeper Merrill-4427-1-1629080723.rar](https://www.nexusmods.com/dragonage2/mods/4427/?tab=files&file_id=1000003405)
 *  [Mark Meer Jethann-4426-1-1628998751.rar](https://www.nexusmods.com/dragonage2/mods/4426/?tab=files&file_id=1000003403)
 *  [Missing Codexes-4442-1-2-1636418552.zip](https://www.nexusmods.com/dragonage2/mods/4442/?tab=files&file_id=1000003483)
+*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 *  [Natural Hair-2582-1-0.zip](https://www.nexusmods.com/dragonage2/mods/2582/?tab=files&file_id=12629)
 *  [Natural Skin 1-2-2620-1-2.zip](https://www.nexusmods.com/dragonage2/mods/2620/?tab=files&file_id=13530)
 *  [New Alistair-4400-1-1630431344.rar](https://www.nexusmods.com/dragonage2/mods/4400/?tab=files&file_id=1000003418)

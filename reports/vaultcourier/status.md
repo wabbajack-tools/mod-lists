@@ -1,11 +1,10 @@
 ## Validation Report - The Vault Courier: DCNV (vaultcourier)
 
 
-### Invalid (1)
-*  [Mod.Organizer-2.4.0.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.0/Mod.Organizer-2.4.0.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (232)
+### Valid (233)
 *  _3e582da872c15767b57a7ca4f1e5d9b7a2dbb03909e1ce64c674bb61a7f33407_
 *  [(TTW) OREO Standalone-70959-1-0a-1611795426.zip](https://www.nexusmods.com/newvegas/mods/70959/?tab=files&file_id=1000070310)
 *  [1stPar 5.0-69403-5-00-1603823682.zip](https://www.nexusmods.com/newvegas/mods/69403/?tab=files&file_id=1000066892)
@@ -143,6 +142,7 @@
 *  [Mobile Truck Base - Quieter Sounds-59601-1-0.rar](https://www.nexusmods.com/newvegas/mods/59601/?tab=files&file_id=1000030122)
 *  [Mobile Truck Base - TTW 3.2 - 1.0-66012-1-0-1542764842.7z](https://www.nexusmods.com/newvegas/mods/66012/?tab=files&file_id=1000050364)
 *  [Mod Organizer 2 (Archive)-6194-2-3-2-1597663207.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.3.2/Mod.Organizer-2.3.2.7z)
+*  [Mod.Organizer-2.4.0.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.0/Mod.Organizer-2.4.0.7z)
 *  [Mojave Nights FOMOD-44381.zip](https://www.nexusmods.com/newvegas/mods/44381/?tab=files&file_id=99873)
 *  [Mojave Styles 0.2.1-70036-0-2-1-1602777092.zip](https://www.nexusmods.com/newvegas/mods/70036/?tab=files&file_id=1000066459)
 *  [MoneyRetexV1_2-40792-1-2.zip](https://www.nexusmods.com/newvegas/mods/40792/?tab=files&file_id=87896)
