@@ -852,6 +852,39 @@
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "OME(FT)",
+    "description": "Oblivion Modding Essentials (Fixes & Tools)",
+    "author": "jdsmith2816",
+    "maintainers": ["jdsmith2816"],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Official"
+    ],
+    "nsfw": false,
+    "utility_list": true,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/jdsmith2816/omeft/main/extra/omeft.webp",
+      "readme": "https://raw.githubusercontent.com/jdsmith2816/omeft/main/README.md",
+      "download": "https://authored-files.wabbajack.org/OMEFT.wabbajack_b9e40a70-6641-4824-8b85-dcd00ae6d5f0",
+      "machineURL": "omeft"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "XvQk/fx1E/Y=",
+      "Size": 215610572,
+      "NumberOfArchives": 249,
+      "SizeOfArchives": 6744780042,
+      "NumberOfInstalledFiles": 57881,
+      "SizeOfInstalledFiles": 10445904341
+    },
+    "version": "1.0.0"
+  },
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Welcome to Paradise",
     "description": "From the author of The Phoenix Flavour for Skyrim SE comes a lightweight vanilla-plus setup for Fallout 4, focusing on enhanced gameplay and visuals as well as good performance. Welcome to Paradise offers detailed documentation, some customisation options, and a carefully curated selection of mods to improve but not drastically change the Fallout 4 experience.",
     "author": "Phoenix",
