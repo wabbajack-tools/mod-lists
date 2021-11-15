@@ -1,10 +1,11 @@
 ## Validation Report - Magnum Opus (magnum_opus)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (624)
+### Valid (623)
 *  [0001. Weapon QuickSwap 3-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108861)
 *  [0002. FastPipboy-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=89711)
 *  [2k-49369-1-1610332539.rar](https://www.nexusmods.com/fallout4/mods/49369/?tab=files&file_id=198790)
@@ -363,7 +364,6 @@
 *  [MiscHairstyle1.6 by Atherisz.7z](http://www.mediafire.com/file/kfac38dni6d53rp/MiscHairstyle1.6_by_Atherisz.7z/file)
 *  [MK. II Grenade - Replacer V1.2-10602-1-2.zip](https://www.nexusmods.com/fallout4/mods/10602/?tab=files&file_id=41425)
 *  [Mod Configuration Menu 1.39-21497-1-39-1575706632.zip](https://www.nexusmods.com/fallout4/mods/21497/?tab=files&file_id=172180)
-*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 *  [Moddable Greygarden v1.0-11243-1-0.rar](https://www.nexusmods.com/fallout4/mods/11243/?tab=files&file_id=44278)
 *  [Modular Vault 88 Rooms-18245-1-1-2.7z](https://www.nexusmods.com/fallout4/mods/18245/?tab=files&file_id=74835)
 *  [Money Mags - Alternate Hair-17948-1-0.zip](https://www.nexusmods.com/fallout4/mods/17948/?tab=files&file_id=72261)
