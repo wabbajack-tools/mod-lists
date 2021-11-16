@@ -1,10 +1,9 @@
 ## Validation Report - Box of Rockets (BOR)
 
 
-### Invalid (8)
+### Invalid (7)
 *  [GU_Core.zip](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/download/1.1/GU_Core.zip)
 *  [NearFutureLaunchVehicles_2_1_3.zip](https://github.com/post-kerbin-mining-corporation/NearFutureLaunchVehicles/releases/download/2.1.3/NearFutureLaunchVehicles_2_1_3.zip)
-*  [System_AlphaCentauri.zip](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/download/1.1/System_AlphaCentauri.zip)
 *  [System_EpsilonEridani.zip](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/download/1.1/System_EpsilonEridani.zip)
 *  [System_Luhman16.zip](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/download/1.1/System_Luhman16.zip)
 *  [System_Sirius.zip](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/download/1.1/System_Sirius.zip)
@@ -12,7 +11,7 @@
 *  [System_Trappist-1.zip](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/download/1.1/System_Trappist-1.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (53)
+### Valid (54)
 *  [BetterTimeWarp-1.8.0-2.3.12.6-180.zip](https://github.com/linuxgurugamer/BetterTimeWarpContinued/releases/download/2.3.12.6/BetterTimeWarp-1.8.0-2.3.12.6-180.zip)
 *  [Blueshift.zip](https://github.com/Angel-125/Blueshift/releases/download/v1.3.5/Blueshift.zip)
 *  [ClickThroughBlocker-1.10.1-0.1.10.15.zip](https://github.com/linuxgurugamer/ClickThroughBlocker/releases/download/0.1.10.15/ClickThroughBlocker-1.10.1-0.1.10.15.zip)
@@ -59,6 +58,7 @@
 *  [SpaceTux_Library-0.0.6.1.zip](https://spacedock.info/mod/2210/SpaceTux Library/download/0.0.6.1)
 *  [SpaceY-Lifters-1.17.1.zip](http://ksp.necrobones.com/files/SpaceY-Lifters/SpaceY-Lifters-1.17.1.zip)
 *  [Stockalike_Station_Parts_Expansion_Redux-2.0.3.zip](https://spacedock.info/mod/1682/Stockalike Station Parts Expansion Redux/download/2.0.3)
+*  [System_AlphaCentauri.zip](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/download/1.1/System_AlphaCentauri.zip)
 *  [System_Lich.zip](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/download/1.1/System_Lich.zip)
 *  [ToolbarControl-1.10.1-0.1.9.4.zip](https://github.com/linuxgurugamer/ToolbarControl/releases/download/0.1.9.4/ToolbarControl-1.10.1-0.1.9.4.zip)
 *  [TweakScale-2.4.5.0.zip](https://spacedock.info/mod/127/TweakScale/download/2.4.5.0)
