@@ -1,8 +1,8 @@
 {
   "MachineURL": "keizaal",
   "Name": "Keizaal",
-  "Version": "6.0.0.4",
-  "ModListHash": "y6E4fFxemgs=",
+  "Version": "6.0.1",
+  "ModListHash": "DsU8KNpj08E=",
   "Archives": [
     {
       "Status": "Valid",
@@ -63,16 +63,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "FZXovxp8lX0=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=binkw64.dll",
-        "Name": "binkw64.dll",
-        "Size": 298496,
+        "Hash": "d+fMLBcSgpk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=10546\nfileID=28074",
+        "Name": "DLL Plugin Loader v1-10546-1.zip",
+        "Size": 101092,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "binkw64.dll",
-          "GameVersion": "1.5.97.0",
-          "Hash": "FZXovxp8lX0="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "meh321",
+          "Description": "Simple DLL plugins loader.",
+          "FileID": 28074,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 10546,
+          "Name": "DLL Plugin Loader",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -122,14 +127,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "ia6Y2mEquMg=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=high.ini",
-        "Name": "high.ini",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=High.ini",
+        "Name": "High.ini",
         "Size": 906,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "high.ini",
-          "GameVersion": "1.5.97.0",
+          "GameFile": "High.ini",
+          "GameVersion": "1.6.318.0",
           "Hash": "ia6Y2mEquMg="
         }
       }
@@ -145,7 +150,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "installscript.vdf",
-          "GameVersion": "1.5.97.0",
+          "GameVersion": "1.6.318.0",
           "Hash": "M9LtyeAVtQE="
         }
       }
@@ -154,14 +159,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "O5kJ576V0KY=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=low.ini",
-        "Name": "low.ini",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Low.ini",
+        "Name": "Low.ini",
         "Size": 898,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "low.ini",
-          "GameVersion": "1.5.97.0",
+          "GameFile": "Low.ini",
+          "GameVersion": "1.6.318.0",
           "Hash": "O5kJ576V0KY="
         }
       }
@@ -170,14 +175,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "tBVeSwhhyNk=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=medium.ini",
-        "Name": "medium.ini",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Medium.ini",
+        "Name": "Medium.ini",
         "Size": 898,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "medium.ini",
-          "GameVersion": "1.5.97.0",
+          "GameFile": "Medium.ini",
+          "GameVersion": "1.6.318.0",
           "Hash": "tBVeSwhhyNk="
         }
       }
@@ -199,16 +204,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yLhCbCSfkuE=",
+        "Hash": "Wsq6jhOx4YM=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Skyrim.ccc",
         "Name": "Skyrim.ccc",
-        "Size": 1605,
+        "Size": 2018,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Skyrim.ccc",
-          "GameVersion": "1.5.97.0",
-          "Hash": "yLhCbCSfkuE="
+          "GameVersion": "1.6.318.0",
+          "Hash": "Wsq6jhOx4YM="
         }
       }
     },
@@ -236,16 +241,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8iPX1dhv7+E=",
+        "Hash": "VYn5P05t/WM=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=SkyrimSE.exe",
         "Name": "SkyrimSE.exe",
-        "Size": 34769792,
+        "Size": 35403608,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "SkyrimSE.exe",
-          "GameVersion": "1.5.97.0",
-          "Hash": "8iPX1dhv7+E="
+          "GameVersion": "1.6.318.0",
+          "Hash": "VYn5P05t/WM="
         }
       }
     },
@@ -260,7 +265,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "SkyrimSELauncher.exe",
-          "GameVersion": "1.5.97.0",
+          "GameVersion": "1.6.318.0",
           "Hash": "0bhc8w0adVI="
         }
       }
@@ -276,7 +281,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Skyrim_Default.ini",
-          "GameVersion": "1.5.97.0",
+          "GameVersion": "1.6.318.0",
           "Hash": "JbYP1w8FSfY="
         }
       }
@@ -292,7 +297,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "steam_api64.dll",
-          "GameVersion": "1.5.97.0",
+          "GameVersion": "1.6.318.0",
           "Hash": "XEqXAcAgOQ8="
         }
       }
@@ -301,14 +306,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "joAkOFfS7Wc=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=ultra.ini",
-        "Name": "ultra.ini",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Ultra.ini",
+        "Name": "Ultra.ini",
         "Size": 911,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "ultra.ini",
-          "GameVersion": "1.5.97.0",
+          "GameFile": "Ultra.ini",
+          "GameVersion": "1.6.318.0",
           "Hash": "joAkOFfS7Wc="
         }
       }
@@ -365,197 +370,352 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "CEgEhUUtOcU=",
+        "Hash": "VT5uI6QOA2g=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Dawnguard.esm",
         "Name": "Data_Dawnguard.esm",
-        "Size": 25189548,
+        "Size": 25886225,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Dawnguard.esm",
-          "GameVersion": "1.5.97.0",
-          "Hash": "CEgEhUUtOcU="
+          "GameVersion": "1.6.318.0",
+          "Hash": "VT5uI6QOA2g="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "eypuUwdQUb4=",
+        "Hash": "Nz66hYiFgvg=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Dragonborn.esm",
         "Name": "Data_Dragonborn.esm",
-        "Size": 64564304,
+        "Size": 64663944,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Dragonborn.esm",
-          "GameVersion": "1.5.97.0",
-          "Hash": "eypuUwdQUb4="
+          "GameVersion": "1.6.318.0",
+          "Hash": "Nz66hYiFgvg="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GPdcQrqi2NI=",
+        "Hash": "Ywl4apnGDIc=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\HearthFires.esm",
         "Name": "Data_HearthFires.esm",
-        "Size": 3978606,
+        "Size": 3979017,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\HearthFires.esm",
-          "GameVersion": "1.5.97.0",
-          "Hash": "GPdcQrqi2NI="
+          "GameVersion": "1.6.318.0",
+          "Hash": "Ywl4apnGDIc="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kX9UFltG4+s=",
+        "Hash": "5xD6UEtvt3M=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Animations.bsa",
         "Name": "Data_Skyrim - Animations.bsa",
-        "Size": 116177491,
+        "Size": 65101236,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Animations.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "kX9UFltG4+s="
+          "GameVersion": "1.6.318.0",
+          "Hash": "5xD6UEtvt3M="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "k5EWx/9Woqg=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Interface.bsa",
-        "Name": "Data_Skyrim - Interface.bsa",
-        "Size": 65726709,
+        "Hash": "Zjz5YcU4sgg=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Meshes0.bsa",
+        "Name": "Data_Skyrim - Meshes0.bsa",
+        "Size": 1153102432,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Interface.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "k5EWx/9Woqg="
+          "GameFile": "Data\\Skyrim - Meshes0.bsa",
+          "GameVersion": "1.6.318.0",
+          "Hash": "Zjz5YcU4sgg="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/Sglpr+ZffA=",
+        "Hash": "GRx67b5+qQA=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Meshes1.bsa",
+        "Name": "Data_Skyrim - Meshes1.bsa",
+        "Size": 378850916,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Meshes1.bsa",
+          "GameVersion": "1.6.318.0",
+          "Hash": "GRx67b5+qQA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0Twc9cQfrso=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Misc.bsa",
         "Name": "Data_Skyrim - Misc.bsa",
-        "Size": 204313675,
+        "Size": 204421620,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Misc.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "/Sglpr+ZffA="
+          "GameVersion": "1.6.318.0",
+          "Hash": "0Twc9cQfrso="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GG4pOfUmiRA=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Patch.bsa",
-        "Name": "Data_Skyrim - Patch.bsa",
-        "Size": 166880326,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Patch.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "GG4pOfUmiRA="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "yRcX3Ttf9YM=",
+        "Hash": "8m+BalLcmnY=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Shaders.bsa",
         "Name": "Data_Skyrim - Shaders.bsa",
-        "Size": 67318282,
+        "Size": 67308970,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Shaders.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "yRcX3Ttf9YM="
+          "GameVersion": "1.6.318.0",
+          "Hash": "8m+BalLcmnY="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8LzXRU4x9Sw=",
+        "Hash": "mvoD5exlhQ0=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Sounds.bsa",
         "Name": "Data_Skyrim - Sounds.bsa",
-        "Size": 1535523399,
+        "Size": 1538656059,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Sounds.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "8LzXRU4x9Sw="
+          "GameVersion": "1.6.318.0",
+          "Hash": "mvoD5exlhQ0="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "krNnq2qHmOo=",
+        "Hash": "ZYa08lDwZbI=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures0.bsa",
+        "Name": "Data_Skyrim - Textures0.bsa",
+        "Size": 652401558,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures0.bsa",
+          "GameVersion": "1.6.318.0",
+          "Hash": "ZYa08lDwZbI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "p/V8m2khLRo=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures1.bsa",
+        "Name": "Data_Skyrim - Textures1.bsa",
+        "Size": 1511504224,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures1.bsa",
+          "GameVersion": "1.6.318.0",
+          "Hash": "p/V8m2khLRo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DyUfDZ6p8Yw=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures2.bsa",
+        "Name": "Data_Skyrim - Textures2.bsa",
+        "Size": 1346030841,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures2.bsa",
+          "GameVersion": "1.6.318.0",
+          "Hash": "DyUfDZ6p8Yw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "f94jj7/40mM=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures3.bsa",
+        "Name": "Data_Skyrim - Textures3.bsa",
+        "Size": 1401677791,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures3.bsa",
+          "GameVersion": "1.6.318.0",
+          "Hash": "f94jj7/40mM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1eU8WxRjny4=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures4.bsa",
+        "Name": "Data_Skyrim - Textures4.bsa",
+        "Size": 1265325033,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures4.bsa",
+          "GameVersion": "1.6.318.0",
+          "Hash": "1eU8WxRjny4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "i/ntHKgBXR8=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures5.bsa",
+        "Name": "Data_Skyrim - Textures5.bsa",
+        "Size": 809121183,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures5.bsa",
+          "GameVersion": "1.6.318.0",
+          "Hash": "i/ntHKgBXR8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Xpu54wlhxn8=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures6.bsa",
+        "Name": "Data_Skyrim - Textures6.bsa",
+        "Size": 107211187,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures6.bsa",
+          "GameVersion": "1.6.318.0",
+          "Hash": "Xpu54wlhxn8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sCw3yv0yYoE=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures7.bsa",
+        "Name": "Data_Skyrim - Textures7.bsa",
+        "Size": 700733354,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures7.bsa",
+          "GameVersion": "1.6.318.0",
+          "Hash": "sCw3yv0yYoE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vYlL6NHTTxc=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures8.bsa",
+        "Name": "Data_Skyrim - Textures8.bsa",
+        "Size": 214496000,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures8.bsa",
+          "GameVersion": "1.6.318.0",
+          "Hash": "vYlL6NHTTxc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2Tmfw2AG/MM=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Voices_en0.bsa",
+        "Name": "Data_Skyrim - Voices_en0.bsa",
+        "Size": 1807969854,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Voices_en0.bsa",
+          "GameVersion": "1.6.318.0",
+          "Hash": "2Tmfw2AG/MM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "450DAiqHnjM=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim.esm",
         "Name": "Data_Skyrim.esm",
-        "Size": 249753573,
+        "Size": 249753442,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim.esm",
-          "GameVersion": "1.5.97.0",
-          "Hash": "krNnq2qHmOo="
+          "GameVersion": "1.6.318.0",
+          "Hash": "450DAiqHnjM="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/DLG/LjdGXI=",
+        "Hash": "ibqG/13sb10=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Update.esm",
         "Name": "Data_Update.esm",
-        "Size": 18557306,
+        "Size": 18825054,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Update.esm",
-          "GameVersion": "1.5.97.0",
-          "Hash": "/DLG/LjdGXI="
+          "GameVersion": "1.6.318.0",
+          "Hash": "ibqG/13sb10="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "4yC8+6aVmRU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=50961\nfileID=233685",
-        "Name": "a little tree mod - main file-50961-0-9-1633790769.7z",
-        "Size": 236299272,
+        "Hash": "fiMS7vbbpNE=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Skyrim\\SkyrimPrefs.ini",
+        "Name": "Skyrim_SkyrimPrefs.ini",
+        "Size": 3498,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "T4GTR34UM3R",
-          "Description": "A nice little tree mod with skinned trees and a low performance cost.",
-          "FileID": 233685,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50961/50961-1623145776-322270213.jpeg",
-          "IsNSFW": false,
-          "ModID": 50961,
-          "Name": "Happy Little Trees",
-          "Version": "0.9.0.0"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Skyrim\\SkyrimPrefs.ini",
+          "GameVersion": "1.6.318.0",
+          "Hash": "fiMS7vbbpNE="
         }
       }
     },
@@ -1039,27 +1199,6 @@
           "ModID": 47202,
           "Name": "BA Bard Songs",
           "Version": "1.3.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "JrMlxQ8CRfE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=46850\nfileID=191371",
-        "Name": "Basecoat - Textures and Terrain LoD (Includes mesh bsa\u0027s)-46850-1-0-1615685163.7z",
-        "Size": 17359721715,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Packaged by Fuguss",
-          "Description": "Cleaned and Upscaled textures for pretty much the entire game packaged into Skyrim - Texture BSAs. No actual mods to load.",
-          "FileID": 191371,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46850/46850-1615515922-731535165.png",
-          "IsNSFW": false,
-          "ModID": 46850,
-          "Name": "Base Coat",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -2158,21 +2297,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ps/m8ZYkkh4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=56123\nfileID=239692",
-        "Name": "CoMAP-56123-3-1-0-1636308333.7z",
-        "Size": 8662005,
+        "Hash": "HP9iiHc5h/Q=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56123\nfileID=240339",
+        "Name": "CoMAP-56123-3-1-2-1636559864.7z",
+        "Size": 5430873,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Jelidity and Parapets",
           "Description": "CoMAP is an SKSE based framework that allows the adding of custom map/compass marker designs, editing marker discovery music and changing marker assignments without any need for an esp. Ships with a large variety of built in marker types for you to use and premade config files for various mods.",
-          "FileID": 239692,
+          "FileID": 240339,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56123/56123-1633296446-147092038.png",
           "IsNSFW": false,
           "ModID": 56123,
           "Name": "CoMAP - Common Marker Addon Project",
-          "Version": "3.1.0.0"
+          "Version": "3.1.2.0"
         }
       }
     },
@@ -2452,21 +2591,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SMWYRdHkOXU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=52981\nfileID=219846",
-        "Name": "Crystal Mudcrabs-52981-1-0-1-1628471101.7z",
-        "Size": 6635781,
+        "Hash": "fMYwL8+tNHE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=52981\nfileID=239976",
+        "Name": "Crystal Mudcrabs-52981-1-0-2-1636421039.7z",
+        "Size": 6635359,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Jelidity",
           "Description": "Adds a new visually distinct mudcrab type to Blackreach and other similar areas. They aren\u0027t as territorial as their smaller cousins on the surface, but pack much more of a punch. Take them down to gather some Soul Gems or simply watch as a mudcrab with a glowy stone on its back wanders around and hides in the ground.",
-          "FileID": 219846,
+          "FileID": 239976,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/52981/52981-1627549747-1585140623.jpeg",
           "IsNSFW": false,
           "ModID": 52981,
           "Name": "Crystal Mudcrabs",
-          "Version": "1.0.1.0"
+          "Version": "1.0.2.0"
         }
       }
     },
@@ -3116,21 +3255,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "tE823dT40oA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54907\nfileID=235578",
-        "Name": "eFPS - Exterior FPS boost-54907-2-0-1634550053.zip",
-        "Size": 739390,
+        "Hash": "R2izlxMgU8s=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54907\nfileID=238577",
+        "Name": "eFPS - Exterior FPS boost-54907-2-1-1635843712.zip",
+        "Size": 750046,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "nicola89b - Firegtx",
           "Description": "Make Skyrim great again with miracle FPS improvement.",
-          "FileID": 235578,
+          "FileID": 238577,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54907/54907-1630845704-474935940.png",
           "IsNSFW": false,
           "ModID": 54907,
           "Name": "eFPS - Exterior FPS boost",
-          "Version": "2.0.0.0"
+          "Version": "2.1.0.0"
         }
       }
     },
@@ -3641,42 +3780,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "TJySYpUI2K4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=50164\nfileID=224302",
-        "Name": "Gladys the Corgi - A Custom Dog Follower Mod-50164-1-1-1-1630134929.zip",
-        "Size": 79706258,
+        "Hash": "ycKs7OhnqwY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=50164\nfileID=242171",
+        "Name": "Gladys the Corgi-50164-1-2-3-1637119781.zip",
+        "Size": 80096527,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tate Taylor",
           "Description": "Adds a friendly corgi companion to join you on your adventures!",
-          "FileID": 224302,
+          "FileID": 242171,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50164/50164-1627357751-799551582.png",
           "IsNSFW": false,
           "ModID": 50164,
           "Name": "Gladys the Corgi - A Custom Dog Follower Mod",
-          "Version": "1.1.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "e2A+hKSgmrI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=50164\nfileID=225519",
-        "Name": "Gladys the Corgi - A Custom Dog Follower Mod-50164-1-2-0-1630558967.zip",
-        "Size": 80216136,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Tate Taylor",
-          "Description": "Adds a friendly corgi companion to join you on your adventures!",
-          "FileID": 225519,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50164/50164-1627357751-799551582.png",
-          "IsNSFW": false,
-          "ModID": 50164,
-          "Name": "Gladys the Corgi - A Custom Dog Follower Mod",
-          "Version": "1.2.0.0"
+          "Version": "1.2.3.0"
         }
       }
     },
@@ -3824,6 +3942,27 @@
           "ModID": 7992,
           "Name": "Hallgarth\u0027s Additional (Vanilla) Hair SE",
           "Version": "3.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zAyrFVvaiBM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=50961\nfileID=241060",
+        "Name": "Happy Little Trees-50961-1-0-1636828220.7z",
+        "Size": 262244999,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "T4GTR34UM3R",
+          "Description": "A nice little tree mod with skinned trees and a low performance cost.",
+          "FileID": 241060,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50961/50961-1623145776-322270213.jpeg",
+          "IsNSFW": false,
+          "ModID": 50961,
+          "Name": "Happy Little Trees",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -4726,21 +4865,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uY0ihVBkR7U=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=193151",
-        "Name": "Lucien-20035-1-6-2-1616519910.rar",
-        "Size": 171309323,
+        "Hash": "SYsd7tue4s0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=240595",
+        "Name": "Lucien-20035-1-6-3-1636656096.rar",
+        "Size": 171311530,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Joseph Russell",
           "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
-          "FileID": 193151,
+          "FileID": 240595,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
           "IsNSFW": false,
           "ModID": 20035,
           "Name": "Lucien - Immersive Fully Voiced Male Follower",
-          "Version": "1.6.2.0"
+          "Version": "1.6.3.0"
         }
       }
     },
@@ -4915,21 +5054,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "S73fPtUT8CM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=56433\nfileID=237866",
-        "Name": "Merlin the Corgi-56433-1-0-2-1635563141.zip",
-        "Size": 62782471,
+        "Hash": "Wf/i3p2OjNw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56433\nfileID=242168",
+        "Name": "Merlin the Corgi-56433-1-0-4-1637119665.zip",
+        "Size": 62782640,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tate Taylor",
           "Description": "Adds a magical corgi companion to join you on your adventures!",
-          "FileID": 237866,
+          "FileID": 242168,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56433/56433-1633217757-1009001159.png",
           "IsNSFW": false,
           "ModID": 56433,
           "Name": "Merlin the Corgi - A Magical Dog Follower Mod",
-          "Version": "1.0.2.0"
+          "Version": "1.0.4.0"
         }
       }
     },
@@ -6397,7 +6536,7 @@
           "IsNSFW": false,
           "ModID": 34681,
           "Name": "Save the Icerunner - Lights Out Alternate Routes",
-          "Version": "0.0.0.0"
+          "Version": "1.1.2.0"
         }
       }
     },
@@ -7950,21 +8089,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "S7o+/ZKen3c=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=266\nfileID=209150",
-        "Name": "Unofficial Skyrim Special Edition Patch-266-4-2-5b-1623727189.7z",
-        "Size": 157221268,
+        "Hash": "XZPQ2se5O3o=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=266\nfileID=241103",
+        "Name": "Unofficial Skyrim Special Edition Patch-266-4-2-6a-1636838663.7z",
+        "Size": 134034173,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Unofficial Patch Project Team",
           "Description": "A comprehensive bugfixing mod for The Elder Scrolls V: Skyrim - Special Edition. The goal of the Unofficial Skyrim Special Edition Patch (aka USSEP) is to eventually fix every bug with Skyrim Special Edition not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.",
-          "FileID": 209150,
+          "FileID": 241103,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/266-0-1477512662.png",
           "IsNSFW": false,
           "ModID": 266,
           "Name": "Unofficial Skyrim Special Edition Patch",
-          "Version": "4.2.5.0b"
+          "Version": "4.2.6.0a"
         }
       }
     },
@@ -8307,21 +8446,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Hz5kIa79kGQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=55190\nfileID=239706",
-        "Name": "Wyrm Tamer-55190-2-0-1-1636313807.zip",
-        "Size": 20994404,
+        "Hash": "p1+KAPH5g4c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55190\nfileID=241747",
+        "Name": "Wyrm  Tamer-55190-2-0-2-1636997437.zip",
+        "Size": 20994421,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tate Taylor",
           "Description": "Expands on the excellent Lawbringer mod to make several locations in Wyrmstooth claimable!",
-          "FileID": 239706,
+          "FileID": 241747,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55190/55190-1630946784-131252816.gif",
           "IsNSFW": false,
           "ModID": 55190,
           "Name": "Wyrm Tamer - Lawbringer for Wyrmstooth",
-          "Version": "2.0.1.0"
+          "Version": "2.0.2.0"
         }
       }
     },
@@ -8580,7 +8719,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Video\\BGS_Logo.bik",
-          "GameVersion": "1.5.97.0",
+          "GameVersion": "1.6.318.0",
           "Hash": "3z7MDvy3Dhw="
         }
       }
@@ -8714,27 +8853,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "7B4m9suXSl4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58120\nfileID=240149",
-        "Name": "Divine Crusader-58120-1-0-1636481661.rar",
-        "Size": 398652323,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "HeartAttackMan",
-          "Description": "Just in time for Anniversary Edition - Every texture for every Creation Club mod upscaled, maximum size is 4K, textures that were already 4K have been cleaned and saved with a lower compression.",
-          "FileID": 240149,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58120/58120-1636385058-1978659092.jpeg",
-          "IsNSFW": false,
-          "ModID": 58120,
-          "Name": "Creation Club - Everything Upscaled",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "HLNLF6gd0+4=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=10755\nfileID=28770",
         "Name": "Deathbell HD 1K-10755-1-1.rar",
@@ -8750,6 +8868,22 @@
           "ModID": 10755,
           "Name": "Deathbell HD - All-New Textures (2K-1K)",
           "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "AAuRXat8yT0=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Interface.bsa",
+        "Name": "Data_Skyrim - Interface.bsa",
+        "Size": 78695298,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Interface.bsa",
+          "GameVersion": "1.6.318.0",
+          "Hash": "AAuRXat8yT0="
         }
       }
     },
@@ -9281,6 +9415,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "49KMNxS0/XQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45306\nfileID=188839",
+        "Name": "Project Clarity AIO Half Res Loose-45306-2-0-1614625586.7z",
+        "Size": 11701250648,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "A compilation of all the Project Clarity mods",
+          "FileID": 188839,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45306/45306-1612756620-270228000.png",
+          "IsNSFW": false,
+          "ModID": 45306,
+          "Name": "Project Clarity AIO - Skyrim Textures Redone",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "lqMbb+Jdj0E=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=28334\nfileID=104133",
         "Name": "Remove QuickSave Button-28334-1-1-1566642678.7z",
@@ -9422,6 +9577,27 @@
           "ModID": 49373,
           "Name": "Automation Tools for TES5Edit",
           "Version": "1.5.0.0c"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ZMYkkrD62mw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=6536\nfileID=56620",
+        "Name": "Hishy_Open_Cities_Converter-6536-0-41.7z",
+        "Size": 6085,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Hishy",
+          "Description": "This script does the bulk of the work involved with making mods work with Open Cities Skyrim.",
+          "FileID": 56620,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/6536-2-1482460636.png",
+          "IsNSFW": false,
+          "ModID": 6536,
+          "Name": "Open Cities Skyrim xEdit Converter and Patcher",
+          "Version": "0.41.0.0"
         }
       }
     },
@@ -9659,21 +9835,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SHRPJkytknE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=237327",
-        "Name": "Assorted Mesh Fixes-32117-0-32-2-1635338514.7z",
-        "Size": 9473385,
+        "Hash": "DRnQbOhFNnM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=240272",
+        "Name": "Assorted Mesh Fixes-32117-0-32-3-1636520524.7z",
+        "Size": 10330418,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wankingSkeever",
           "Description": "Fixes various issues with vanilla Skyrim meshes that causes them to render incorrectly",
-          "FileID": 237327,
+          "FileID": 240272,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32117/32117-1612599331-161051453.png",
           "IsNSFW": false,
           "ModID": 32117,
           "Name": "Assorted mesh fixes",
-          "Version": "0.32.2.0"
+          "Version": "0.32.3.0"
         }
       }
     },
@@ -10772,21 +10948,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zWbj1lnAkZw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=40261\nfileID=228723",
-        "Name": "NPC AI Process Pos Fix-SSE-V4.05d-40261-v4-05d-1631801145.7z",
-        "Size": 56882,
+        "Hash": "c2Sa7lKtkrY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=40261\nfileID=241400",
+        "Name": "NPC AI Process Pos Fix-SSE-V4.06-40261-v4-06-1636884021.7z",
+        "Size": 56789,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Maxsu",
           "Description": "A DLL plugin that fixes the vanilla game engine bug that NPCs AI process positions could not be updated after you waiting/ sleeping/ fast travel.",
-          "FileID": 228723,
+          "FileID": 241400,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/40261/40261-1599834679-1191296208.png",
           "IsNSFW": false,
           "ModID": 40261,
           "Name": "NPC AI Process Position  Fix - SSE",
-          "Version": "f4.05d"
+          "Version": "f4.06"
         }
       }
     },
@@ -11933,27 +12109,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "LRddyWGQObY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=56907\nfileID=234412",
-        "Name": "A little tree mod WIP - DynDOLOD 3-56907-0-9-0-1634063630.7z",
-        "Size": 3726217,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "z929669 and T4gtr34um3r",
-          "Description": "Official DynDOLOD 3D hybrid LOD models for \u0022Hasppy Little Trees\u0022. Built using the latest DynDOLOD 3 tools and uploaded with approval from T4gtr34um3r to provide LOD to augment his mod while he continues development.",
-          "FileID": 234412,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56907/56907-1633994937-1136520641.jpeg",
-          "IsNSFW": false,
-          "ModID": 56907,
-          "Name": "Happy Little Trees Add-On - DynDOLOD 3",
-          "Version": "0.9.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "zQ7h4AHosko=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=49042\nfileID=200165",
         "Name": "Alternative Meadbarrel and Spigot 1.2-49042-1-2-1619384716.zip",
@@ -12731,6 +12886,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "7B4m9suXSl4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58120\nfileID=240149",
+        "Name": "Divine Crusader-58120-1-0-1636481661.rar",
+        "Size": 398652323,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "HeartAttackMan",
+          "Description": "Just in time for Anniversary Edition - Every texture for every Creation Club mod upscaled, maximum size is 4K, textures that were already 4K have been cleaned and saved with a lower compression.",
+          "FileID": 240149,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58120/58120-1636385058-1978659092.jpeg",
+          "IsNSFW": false,
+          "ModID": 58120,
+          "Name": "Creation Club - Everything Upscaled",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "XyKO1HuCMuA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=45597\nfileID=186667",
         "Name": "Dlizzio\u0027s Mesh Fixes - Assorted Mesh Fixes Patch-45597-1-03-1613690417.7z",
@@ -13166,6 +13342,27 @@
           "ModID": 7679,
           "Name": "HAGRAVEN",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4yC8+6aVmRU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=50961\nfileID=233685",
+        "Name": "a little tree mod - main file-50961-0-9-1633790769.7z",
+        "Size": 236299272,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "T4GTR34UM3R",
+          "Description": "A nice little tree mod with skinned trees and a low performance cost.",
+          "FileID": 233685,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50961/50961-1623145776-322270213.jpeg",
+          "IsNSFW": false,
+          "ModID": 50961,
+          "Name": "Happy Little Trees",
+          "Version": "0.9.0.0"
         }
       }
     },
@@ -14285,6 +14482,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "RLXeIzlaqYQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58559\nfileID=241931",
+        "Name": "Simplicity of Snow - Cities of The North-58559-0-1-1637068034.7z",
+        "Size": 23230899,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wSkeever",
+          "Description": "Removes snow from under roofs. \n\nMakes snow shader use your own snow texture.",
+          "FileID": 241931,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58559/58559-1637067569-235032855.gif",
+          "IsNSFW": false,
+          "ModID": 58559,
+          "Name": "Simplicity of Snow - Cities of The North",
+          "Version": "0.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "AW4P009bP0I=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=17282\nfileID=54628",
         "Name": "Skeleton.and.Human.Bones.4k-17282-1-2.7z",
@@ -15012,27 +15230,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QmZelY6LKzA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=56907\nfileID=236722",
-        "Name": "A little tree mod WIP - DynDOLOD 3-56907-0-9-1-1635053255.7z",
-        "Size": 3707735,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "z929669 and T4gtr34um3r",
-          "Description": "Official DynDOLOD 3D hybrid LOD models for \u0022Hasppy Little Trees\u0022. Built using the latest DynDOLOD 3 tools and uploaded with approval from T4gtr34um3r to provide LOD to augment his mod while he continues development.",
-          "FileID": 236722,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56907/56907-1633994937-1136520641.jpeg",
-          "IsNSFW": false,
-          "ModID": 56907,
-          "Name": "Happy Little Trees Add-On - DynDOLOD 3",
-          "Version": "0.9.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "AziE9Vh1ctk=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=35382\nfileID=148071",
         "Name": "aMidianBorn Book of Silence SE -- DRAGONBORN-35382-1-9-1-1593494717.zip",
@@ -15132,6 +15329,27 @@
           "ModID": 34413,
           "Name": "Beyond Skyrim - Bruma Upscaled Textures (BSBUT)",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mOQcj2YA/H8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58213\nfileID=241825",
+        "Name": "Beyond Skyrim Ayleid Kit - Bethesda\u0027s New Artstyle-58213-1-2-0-1637019891.7z",
+        "Size": 246944498,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jelidity",
+          "Description": "Adds a new cave section connecting Rielle from Bruma and Rielle from The Cause to a shared exit.",
+          "FileID": 241825,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58213/58213-1636553928-63526125.jpeg",
+          "IsNSFW": false,
+          "ModID": 58213,
+          "Name": "The Halls of Rielle - Beyond Skyrim Bruma and The Cause Combined",
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -15446,6 +15664,69 @@
           "IsNSFW": false,
           "ModID": 35576,
           "Name": "Circlet USSEP Fixes",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3mB7ELk4Jf0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56907\nfileID=241062",
+        "Name": "Happy Little Trees 3D Lods quality-56907-1-0-1636828410.7z",
+        "Size": 3892187,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "z929669 and T4gtr34um3r",
+          "Description": "Official DynDOLOD 3D hybrid LOD models for \u0022Hasppy Little Trees\u0022. Built using the latest DynDOLOD 3 tools and uploaded with approval from T4gtr34um3r to provide LOD to augment his mod while he continues development.",
+          "FileID": 241062,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56907/56907-1633994937-1136520641.jpeg",
+          "IsNSFW": false,
+          "ModID": 56907,
+          "Name": "Happy Little Trees Add-On - DynDOLOD 3",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LRddyWGQObY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56907\nfileID=234412",
+        "Name": "A little tree mod WIP - DynDOLOD 3-56907-0-9-0-1634063630.7z",
+        "Size": 3726217,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "z929669 and T4gtr34um3r",
+          "Description": "Official DynDOLOD 3D hybrid LOD models for \u0022Hasppy Little Trees\u0022. Built using the latest DynDOLOD 3 tools and uploaded with approval from T4gtr34um3r to provide LOD to augment his mod while he continues development.",
+          "FileID": 234412,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56907/56907-1633994937-1136520641.jpeg",
+          "IsNSFW": false,
+          "ModID": 56907,
+          "Name": "Happy Little Trees Add-On - DynDOLOD 3",
+          "Version": "0.9.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CqkFKO8MJwM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56907\nfileID=241396",
+        "Name": "Happy Little Trees 3D Lods quality-56907-1-0-1636881089.7z",
+        "Size": 3897027,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "z929669 and T4gtr34um3r",
+          "Description": "Official DynDOLOD 3D hybrid LOD models for \u0022Hasppy Little Trees\u0022. Built using the latest DynDOLOD 3 tools and uploaded with approval from T4gtr34um3r to provide LOD to augment his mod while he continues development.",
+          "FileID": 241396,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56907/56907-1633994937-1136520641.jpeg",
+          "IsNSFW": false,
+          "ModID": 56907,
+          "Name": "Happy Little Trees Add-On - DynDOLOD 3",
           "Version": "1.0.0.0"
         }
       }
@@ -16182,6 +16463,27 @@
           "ModID": 43862,
           "Name": "Whiterun Skyforge - Reforged",
           "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Xt3vcjiHTUw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58120\nfileID=239892",
+        "Name": "Chrysamere-58120-1-0-1636395036.rar",
+        "Size": 18452120,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "HeartAttackMan",
+          "Description": "Just in time for Anniversary Edition - Every texture for every Creation Club mod upscaled, maximum size is 4K, textures that were already 4K have been cleaned and saved with a lower compression.",
+          "FileID": 239892,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58120/58120-1636385058-1978659092.jpeg",
+          "IsNSFW": false,
+          "ModID": 58120,
+          "Name": "Creation Club - Everything Upscaled",
+          "Version": "1.0.0.0"
         }
       }
     },
