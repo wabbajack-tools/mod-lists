@@ -1,13 +1,12 @@
 ## Validation Report - Dungeons & Deviousness: Director's Cut (dungeons_and_deviousness)
 
 
-### Invalid (3)
+### Invalid (2)
 *  780991774_BakaFactoryABCLESE2.32V.7z
 *  FurnitureMarkerSex v0_13 SE.zip
-*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (911)
+### Valid (912)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
@@ -555,6 +554,7 @@
 *  [Mixed version-41874-1-0-1604095130.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41874/?tab=files&file_id=167837)
 *  [MM REAL ELKS 2K-41929-1-0-1-1615885343.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41929/?tab=files&file_id=191785)
 *  [mo2-plugins-1.0.1.zip](https://github.com/deorder/mo2-plugins/archive/1.0.1.zip)
+*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 *  [Modern Brawl Bug Fix v104-1473-1-04.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1473/?tab=files&file_id=1552)
 *  [Monster Lipsync SE - Vanilla-22878-2-8b-1555466953.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22878/?tab=files&file_id=88699)
 *  [More Bandit Camps SE-1994-2-7a-1580014418.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1994/?tab=files&file_id=121201)

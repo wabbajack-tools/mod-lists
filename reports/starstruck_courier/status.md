@@ -1,11 +1,10 @@
 ## Validation Report - Starstruck Courier (starstruck_courier)
 
 
-### Invalid (1)
-*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (202)
+### Valid (203)
 *  [_TTW Interiors Combo v6.5-66449-v6-5-1554528986.7z](https://www.nexusmods.com/newvegas/mods/66449/?tab=files&file_id=1000053074)
 *  [(TTW) Benny Humbles You-69842-1-05-1600663334.7z](https://www.nexusmods.com/newvegas/mods/69842/?tab=files&file_id=1000065771)
 *  [A Roleplayer's History - Patchy's Picks-72032-1-0-1618133654.rar](https://www.nexusmods.com/newvegas/mods/72032/?tab=files&file_id=1000074785)
@@ -110,6 +109,7 @@
 *  [MGs NCR Pack 7-42551.7z](https://www.nexusmods.com/newvegas/mods/42551/?tab=files&file_id=103975)
 *  [Minigame Bypass-65840-1-2-1562060485.zip](https://www.nexusmods.com/newvegas/mods/65840/?tab=files&file_id=1000054828)
 *  [Mod Organizer 2 - TTW Theme v1.1-66593-1-1-1551914882.zip](https://www.nexusmods.com/newvegas/mods/66593/?tab=files&file_id=1000052456)
+*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 *  [Mojave Nights FOMOD-44381.zip](https://www.nexusmods.com/newvegas/mods/44381/?tab=files&file_id=99873)
 *  [MoneyRetexV1_2-40792-1-2.zip](https://www.nexusmods.com/newvegas/mods/40792/?tab=files&file_id=87896)
 *  [MusicPackRNV 2.19 (FULL)-62551-2-19-1621387459.7z](https://www.nexusmods.com/newvegas/mods/62551/?tab=files&file_id=1000076243)
