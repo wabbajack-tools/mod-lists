@@ -1,12 +1,13 @@
 ## Validation Report - Dungeons & Deviousness: Director's Cut (dungeons_and_deviousness)
 
 
-### Invalid (2)
+### Invalid (3)
 *  780991774_BakaFactoryABCLESE2.32V.7z
+*  Creature Framework 1.1.0-pre2A-SE.7z
 *  FurnitureMarkerSex v0_13 SE.zip
 ### Updated (0)
 ### Mirrored (0)
-### Valid (912)
+### Valid (911)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
@@ -166,7 +167,6 @@
 *  [Convenient Horses-9519-7-0-1-1558715462.zip](https://www.nexusmods.com/skyrimspecialedition/mods/9519/?tab=files&file_id=93484)
 *  [Copy and Paste in Console v1.0.1 for Skyrim SE-30928-1-0-1-1615644554.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30928/?tab=files&file_id=191247)
 *  [Courageous Women of Skyrim - Rugged Women All-42053-1-1-1605370605.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42053/?tab=files&file_id=170073)
-*  Creature Framework 1.1.0-pre2A-SE.7z
 *  [Crimson Blood Armor-29451-1-0-1570426302.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29451/?tab=files&file_id=109516)
 *  [Critters Aint Snitches v1.0 SSE-15134-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/15134/?tab=files&file_id=45421)
 *  [Cross and Jab SE-24442-1-1-1553454980.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24442/?tab=files&file_id=86100)
