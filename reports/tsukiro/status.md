@@ -125,7 +125,7 @@
 *  [bodyslide0.7z](https://authored-files.wabbajack.org/bodyslide0.7z_7d661004-baa7-4ed3-a4fa-e3cab8c14c1f)
 *  [bodyslide1.7z](https://authored-files.wabbajack.org/bodyslide1.7z_a85bb446-939a-4ace-9fca-bcbf201b5aa9)
 *  [bodyslide2.7z](https://authored-files.wabbajack.org/bodyslide2.7z_697bc243-99cd-4da7-83de-e3ea01e19eaa)
-*  [bodyslide3.7z](https://authored-files.wabbajack.org/bodyslide2.7z_697bc243-99cd-4da7-83de-e3ea01e19eaa)
+*  [bodyslide3.7z](https://authored-files.wabbajack.org/bodyslide3.7z_f8a77eb4-eebc-43f2-b805-dc5bbea1c331)
 *  [bodyslide4.7z](https://authored-files.wabbajack.org/bodyslide4.7z_e0ea9f85-9522-40e0-8cdb-8b8687076693)
 *  [bodyslide5.7z](https://authored-files.wabbajack.org/bodyslide5.7z_de6c710c-1c7c-4533-ad78-c9147fbfa40b)
 *  [bodyslide6.7z](https://authored-files.wabbajack.org/bodyslide6.7z_6fdd275a-dfef-4cd6-9ef8-26e1acd22d20)
