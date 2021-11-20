@@ -1,12 +1,10 @@
 ## Validation Report - Dungeons & Deviousness: Director's Cut (dungeons_and_deviousness)
 
 
-### Invalid (2)
-*  780991774_BakaFactoryABCLESE2.32V.7z
-*  FurnitureMarkerSex v0_13 SE.zip
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (912)
+### Valid (914)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
@@ -32,6 +30,7 @@
 *  [2k Textures-1394-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/1394/?tab=files&file_id=1423)
 *  [2k Textures-22160-1-1-1545936016.rar](https://www.nexusmods.com/skyrimspecialedition/mods/22160/?tab=files&file_id=76346)
 *  [3D Casting FX-50197-1-0-1621612410.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50197/?tab=files&file_id=204758)
+*  55265476_BakaFactoryABCLESE.7z
 *  [A. Noble Skyrim - FULL PACK_2K-21423-5-5-0-1543032385.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21423/?tab=files&file_id=73168)
 *  [ActorLimitPlugin v2-32349-2-1581232495.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=123312)
 *  [Adrielle Preset No Elf Ears Version-41124-1-0-1601850104.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41124/?tab=files&file_id=163942)
@@ -372,6 +371,7 @@
 *  [FreshFacesSSE12.7z-13789-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/13789/?tab=files&file_id=40409)
 *  [Frostfall 3.4.1 SE Release-671-3-4-1SE.zip](https://www.nexusmods.com/skyrimspecialedition/mods/671/?tab=files&file_id=15282)
 *  Furniture Sex Framework Animation Pack.rar
+*  FurnitureMarkerSex v0_14_1 SE.zip
 *  [Fuz Ro D'oh-15109-1-7-1574514494.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15109/?tab=files&file_id=114169)
 *  [GameplayTweaks v5-41953-5-1605517401.zip](https://www.nexusmods.com/skyrimspecialedition/mods/41953/?tab=files&file_id=170314)
 *  GenderBender_SE.7z
@@ -905,7 +905,7 @@
 *  [Wolfpaint - Face - Racemenu Overlays-30255-1-0-1573205535.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30255/?tab=files&file_id=112816)
 *  [Wood and Paper - A Dear Diary Skin-44174-1-0-1-1622378205.zip](https://www.nexusmods.com/skyrimspecialedition/mods/44174/?tab=files&file_id=206364)
 *  [Xaza High Poly Dark Elf Female Preset-47460-1-0-1616564943.zip](https://www.nexusmods.com/skyrimspecialedition/mods/47460/?tab=files&file_id=193278)
-*  [xLODGen.83.7z](https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg)
+*  [xLODGen.85.7z](https://mega.nz/file/kNRCHRDY#ONIMDnlxyyBH-QsSUgatbQJWOgGGrr8F8bxWD_-bSGc)
 *  [XP32 Maximum Skeleton Special Extended-1988-4-80-1610196777.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=178559)
 *  [XPMSSE Left Hand Skeleton Rotation Fix-50049-4-80-1621290459.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=204058)
 *  [YesImSure-24898-1-5-0-1583022330.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24898/?tab=files&file_id=126540)
