@@ -1,12 +1,10 @@
 ## Validation Report - Starstruck Courier (starstruck_courier)
 
 
-### Invalid (2)
-*  [Vanilla_UI_Plus_New_Vegas_8.83.7z](https://www.moddb.com/downloads/start/128019)
-*  [Vanilla_UI_Plus_Remastered_Patch_1.83l.7z](https://www.moddb.com/downloads/start/171596?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fvanilla-ui-plus%2F.html)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (201)
+### Valid (203)
 *  [_TTW Interiors Combo v6.5-66449-v6-5-1554528986.7z](https://www.nexusmods.com/newvegas/mods/66449/?tab=files&file_id=1000053074)
 *  [(TTW) Benny Humbles You-69842-1-05-1600663334.7z](https://www.nexusmods.com/newvegas/mods/69842/?tab=files&file_id=1000065771)
 *  [A Roleplayer's History - Patchy's Picks-72032-1-0-1618133654.rar](https://www.nexusmods.com/newvegas/mods/72032/?tab=files&file_id=1000074785)
@@ -197,6 +195,8 @@
 *  [Vanilla Hair Retextured NV-71466-1-1614217860.zip](https://www.nexusmods.com/newvegas/mods/71466/?tab=files&file_id=1000072369)
 *  [Vanilla Hud Cleaned-70001-0-381-1607085285.7z](https://www.nexusmods.com/newvegas/mods/70001/?tab=files&file_id=1000068281)
 *  [Vanilla HUD Remastered 4K v1.83-64102-1-83-1543745073.7z](https://www.nexusmods.com/newvegas/mods/64102/?tab=files&file_id=1000050605)
+*  [Vanilla_UI_Plus_New_Vegas_8.83.7z](https://www.moddb.com/downloads/start/128019)
+*  [Vanilla_UI_Plus_Remastered_Patch_1.83l.7z](https://www.moddb.com/downloads/start/171596?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fvanilla-ui-plus%2F.html)
 *  [Vault Door Loading Wheel - TTW-62998-1-0.zip](https://www.nexusmods.com/newvegas/mods/62998/?tab=files&file_id=1000040953)
 *  [Veronica Outfit Replacer 1.3-71823-1-3-1617670842.zip](https://www.nexusmods.com/newvegas/mods/71823/?tab=files&file_id=1000074581)
 *  [Version 1-2-38419-1-2.rar](https://www.nexusmods.com/newvegas/mods/38419/?tab=files&file_id=79744)

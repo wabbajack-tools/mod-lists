@@ -1,11 +1,10 @@
 ## Validation Report - The Vault Courier: DCNV (vaultcourier)
 
 
-### Invalid (1)
-*  [Vanilla_UI_Plus_Remastered_Patch_1.83l.7z](https://www.moddb.com/downloads/start/171596?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fvanilla-ui-plus%2F.html)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (232)
+### Valid (233)
 *  _3e582da872c15767b57a7ca4f1e5d9b7a2dbb03909e1ce64c674bb61a7f33407_
 *  [(TTW) OREO Standalone-70959-1-0a-1611795426.zip](https://www.nexusmods.com/newvegas/mods/70959/?tab=files&file_id=1000070310)
 *  [1stPar 5.0-69403-5-00-1603823682.zip](https://www.nexusmods.com/newvegas/mods/69403/?tab=files&file_id=1000066892)
@@ -230,6 +229,7 @@
 *  [V1 2048x2048-53863-1-0.rar](https://www.nexusmods.com/newvegas/mods/53863/?tab=files&file_id=1000013674)
 *  [Vanilla HUD Remastered 4K v1.83-64102-1-83-1543745073.7z](https://www.nexusmods.com/newvegas/mods/64102/?tab=files&file_id=1000050605)
 *  [Vanilla_UI_Plus_New_Vegas_8.73.7z](https://drive.google.com/uc?id=1eNtJXE51oGmQHYORzIEdHMAa5c7zvGZi&export=download)
+*  [Vanilla_UI_Plus_Remastered_Patch_1.83l.7z](https://www.moddb.com/downloads/start/171596?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fvanilla-ui-plus%2F.html)
 *  [Vault_Suits_Retextured_v1_2_2048-44875-1-2.zip](https://www.nexusmods.com/newvegas/mods/44875/?tab=files&file_id=101366)
 *  [Viewmodel Recoil 0.254-71852-0-254-1618838578.zip](https://www.nexusmods.com/newvegas/mods/71852/?tab=files&file_id=1000075113)
 *  [VQHD Load Screens for TTW-58219-0-0-6-1541956757.7z](https://www.nexusmods.com/newvegas/mods/58219/?tab=files&file_id=1000050160)
