@@ -1,10 +1,11 @@
 ## Validation Report - Tend To Your Frontier (tendtoyourfrontier)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Vanilla_UI_Plus_New_Vegas_8.83.7z](https://www.moddb.com/downloads/start/128019)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (174)
+### Valid (173)
 *  [22LR Varmint Rifle vp3-40274-0-3.zip](https://www.nexusmods.com/newvegas/mods/40274/?tab=files&file_id=100792)
 *  [6f2721d32b35231777941ee21022c1b2-4729cb14adcea9835381afa76c774c9f06c9cc7d.zip](https://gist.github.com/Saxonis/6f2721d32b35231777941ee21022c1b2/archive/4729cb14adcea9835381afa76c774c9f06c9cc7d.zip)
 *  [A Little More Lamplight-69226-1-2-1594706760.zip](https://www.nexusmods.com/newvegas/mods/69226/?tab=files&file_id=1000063736)
@@ -165,7 +166,6 @@
 *  [Unofficial Patch NVSE Plus-71239-1-3-3-1629920236.zip](https://www.nexusmods.com/newvegas/mods/71239/?tab=files&file_id=1000080211)
 *  [Vanilla Body Patch-52721-patch.rar](https://www.nexusmods.com/newvegas/mods/52721/?tab=files&file_id=1000012308)
 *  [Vanilla Hud Cleaned-70001-0-381-1607085285.7z](https://www.nexusmods.com/newvegas/mods/70001/?tab=files&file_id=1000068281)
-*  [Vanilla_UI_Plus_New_Vegas_8.83.7z](https://www.moddb.com/downloads/start/128019)
 *  [Version 1-2-38419-1-2.rar](https://www.nexusmods.com/newvegas/mods/38419/?tab=files&file_id=79744)
 *  [Viewmodel Recoil 0.308-71852-0-308-1621847906.zip](https://www.nexusmods.com/newvegas/mods/71852/?tab=files&file_id=1000076459)
 *  [Vikki and Vance Mascot-62036-0-1-1621800314.zip](https://www.nexusmods.com/newvegas/mods/62036/?tab=files&file_id=1000076443)
