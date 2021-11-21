@@ -1,11 +1,10 @@
 ## Validation Report - Dungeons & Deviousness: Director's Cut (dungeons_and_deviousness)
 
 
-### Invalid (1)
-*  Schlongs_of_Skyrim_SE - v1.1.4.rar
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (913)
+### Valid (914)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
@@ -705,6 +704,7 @@
 *  [SavrenX Silver Elegant Mehrunes Razor-32667-1-00-1582262379.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32667/?tab=files&file_id=125086)
 *  [Saw dust-26577-1-0-1560610919.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26577/?tab=files&file_id=96114)
 *  [ScaleformTranslationPP-22603-1-4-1-1586306055.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22603/?tab=files&file_id=132968)
+*  Schlongs_of_Skyrim_SE - v1.1.4.rar
 *  [Scion - A Vampire Overhaul-41639-1-1-1611509241.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41639/?tab=files&file_id=181534)
 *  SE_SLAM.7z
 *  [Septentrional Landscapes 2K-29842-1-3-2-1588173223.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29842/?tab=files&file_id=136963)
