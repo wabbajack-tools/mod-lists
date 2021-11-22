@@ -1,11 +1,10 @@
 ## Validation Report - The Vault Courier: DCNV (vaultcourier)
 
 
-### Invalid (1)
-*  [PointLookout.7z](https://www.mediafire.com/download/ql238cvbl494re3/PointLookout.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (232)
+### Valid (233)
 *  _3e582da872c15767b57a7ca4f1e5d9b7a2dbb03909e1ce64c674bb61a7f33407_
 *  [(TTW) OREO Standalone-70959-1-0a-1611795426.zip](https://www.nexusmods.com/newvegas/mods/70959/?tab=files&file_id=1000070310)
 *  [1stPar 5.0-69403-5-00-1603823682.zip](https://www.nexusmods.com/newvegas/mods/69403/?tab=files&file_id=1000066892)
@@ -174,6 +173,7 @@
 *  [PACK 2-70035-1-0-1602584971.rar](https://www.nexusmods.com/newvegas/mods/70035/?tab=files&file_id=1000066405)
 *  [Pause Menu HD 2048-63934-1-0.7z](https://www.nexusmods.com/newvegas/mods/63934/?tab=files&file_id=1000043819)
 *  [Pip-Boy Light Colours 1-4-56523-1-4.7z](https://www.nexusmods.com/newvegas/mods/56523/?tab=files&file_id=1000030142)
+*  [PointLookout.7z](https://www.mediafire.com/download/ql238cvbl494re3/PointLookout.7z)
 *  [Portable Campsite v1_0_2-35134-1-0-2.7z](https://www.nexusmods.com/newvegas/mods/35134/?tab=files&file_id=87072)
 *  [Possible Invisible NPC Fix - Please Test For Me-51577-.rar](https://www.nexusmods.com/newvegas/mods/51577/?tab=files&file_id=1000037542)
 *  [Project Nevada - Enhanced Vision-68781-1-3-1-1591820894.7z](https://www.nexusmods.com/newvegas/mods/68781/?tab=files&file_id=1000062747)
