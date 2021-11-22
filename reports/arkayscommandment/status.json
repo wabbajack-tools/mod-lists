@@ -1,8 +1,8 @@
 {
   "MachineURL": "arkayscommandment",
   "Name": "Arkay\u0027s Commandment",
-  "Version": "1.6",
-  "ModListHash": "w7bYgfszoVo=",
+  "Version": "1.6.1",
+  "ModListHash": "a0/V5f+NSQI=",
   "Archives": [
     {
       "Status": "Valid",
@@ -43,12 +43,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "tNEVP8P1V+k=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/RFTI.7z_fd385695-22d5-4c94-ac88-4fae92ac896b/",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0465.zip_93a38bf5-dd3b-48a1-a788-56c87b7c6d22/",
         "Name": "enbseries_skyrimse_v0465.zip",
         "Size": 4259506,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/RFTI.7z_fd385695-22d5-4c94-ac88-4fae92ac896b/"
+          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0465.zip_93a38bf5-dd3b-48a1-a788-56c87b7c6d22/"
         }
       }
     },
@@ -6017,27 +6017,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QUstvq/snRc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=57790\nfileID=238472",
-        "Name": "HorsesSimplyTurnBetter-57790-1-0-0-1635787436.rar",
-        "Size": 411,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Loki",
-          "Description": "Makes horses turn much better",
-          "FileID": 238472,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57790/57790-1635787269-650829866.png",
-          "IsNSFW": false,
-          "ModID": 57790,
-          "Name": "Horses Simply Turn Better",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "VPqI/4YNQzM=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=4541\nfileID=8883",
         "Name": "Immersive Bookreading-4541-1-0.7z",
@@ -6158,6 +6137,27 @@
           "ModID": 17592,
           "Name": "Improved Traps",
           "Version": "2.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "q6N1ySzDvtA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=38348\nfileID=168323",
+        "Name": "Misc Tweaks - Night Eye Redux-38348-2-0-1-1604339947.rar",
+        "Size": 1170,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "see credits tab",
+          "Description": "A small collection of tweaks I personally use in my game.",
+          "FileID": 168323,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38348/38348-1596981424-483315613.jpeg",
+          "IsNSFW": false,
+          "ModID": 38348,
+          "Name": "Miscellaneous Tweaks Collection",
+          "Version": "2.0.1.0"
         }
       }
     },
@@ -9370,27 +9370,6 @@
           "ModID": 34705,
           "Name": "SSE Display Tweaks",
           "Version": "0.5.0.0b"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "FHKG5DYqJDA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=38438\nfileID=241599",
-        "Name": "SSE FPS Stabilizer - FOMOD Installer-38438-1-1-3-1636935329.rar",
-        "Size": 7367156,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Shizof",
-          "Description": "No more fps drops when looking at certain directions. This mod changes ini settings automatically to keep your framerate at target levels. Also runs console commands at game startup or save load.",
-          "FileID": 241599,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38438/38438-1595101174-820090888.png",
-          "IsNSFW": false,
-          "ModID": 38438,
-          "Name": "SSE FPS Stabilizer",
-          "Version": "1.1.3.0"
         }
       }
     },
