@@ -1,10 +1,11 @@
 ## Validation Report - Dungeons & Deviousness: Director's Cut (dungeons_and_deviousness)
 
 
-### Invalid (0)
+### Invalid (1)
+*  FurnitureMarkerSex v0_14_1 SE.zip
 ### Updated (0)
 ### Mirrored (0)
-### Valid (917)
+### Valid (916)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
@@ -372,7 +373,6 @@
 *  [FreshFacesSSE12.7z-13789-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/13789/?tab=files&file_id=40409)
 *  [Frostfall 3.4.1 SE Release-671-3-4-1SE.zip](https://www.nexusmods.com/skyrimspecialedition/mods/671/?tab=files&file_id=15282)
 *  Furniture Sex Framework Animation Pack.rar
-*  FurnitureMarkerSex v0_14_1 SE.zip
 *  [Fuz Ro D'oh-15109-1-7-1574514494.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15109/?tab=files&file_id=114169)
 *  [GameplayTweaks v5-41953-5-1605517401.zip](https://www.nexusmods.com/skyrimspecialedition/mods/41953/?tab=files&file_id=170314)
 *  GenderBender_SE.7z
