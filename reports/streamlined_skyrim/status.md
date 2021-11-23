@@ -1,11 +1,10 @@
 ## Validation Report - Streamlined Skyrim (streamlined_skyrim)
 
 
-### Invalid (1)
-*  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.19.1/Synthesis.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (728)
+### Valid (729)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [(SGC) NASC-32996-1-1-1630160159.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32996/?tab=files&file_id=224384)
@@ -647,6 +646,7 @@
 *  [Stronger Swimming Animation-32625-1-0-1581608154.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32625/?tab=files&file_id=123901)
 *  [Sufficiently Optimized Snowberries 3D FOMOD-42033-0-6-1605144469.rar](https://www.nexusmods.com/skyrimspecialedition/mods/42033/?tab=files&file_id=169701)
 *  [Super Fast Get Up Animation-46714-1-0-1615242774.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46714/?tab=files&file_id=190327)
+*  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.19.1/Synthesis.zip)
 *  [Table Mesh Fix-41751-1-7-1TableMeshFix-1606932134.rar](https://www.nexusmods.com/skyrimspecialedition/mods/41751/?tab=files&file_id=172752)
 *  [Tactical Valtheim Installer-9101-1-11-1636303116.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9101/?tab=files&file_id=239678)
 *  [Take a Seat - DAR Animations-54193-1-0-1630519272.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54193/?tab=files&file_id=225430)
