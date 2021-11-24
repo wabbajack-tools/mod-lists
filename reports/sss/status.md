@@ -1,10 +1,11 @@
 ## Validation Report - Slidikins' Strenuous Skyrim (sss)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [enbseries_skyrimse_v0465.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0465.zip_781a195e-4929-4069-887e-ca9bf8e7a49d)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (872)
+### Valid (871)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [(Part 1) Engine Fixes-17230-5-8-0-1637340889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=242713)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -237,7 +238,6 @@
 *  [ENB Light 0.96 WIP 04 - Inferno patch and Fire fixes-22574-0-9-1574535067.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=114206)
 *  [ENB Light 0.98 Alpha 2-22574-0-98Alpha2-1577144667.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=117211)
 *  [ENB Lights For Effect Shaders-56362-1-0-1-1633051616.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56362/?tab=files&file_id=231784)
-*  [enbseries_skyrimse_v0465.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0465.zip_781a195e-4929-4069-887e-ca9bf8e7a49d)
 *  [Enchantments and Potions Work for NPCs - EPW4NPCs-37607-1-0-1-1616449562.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37607/?tab=files&file_id=193001)
 *  [Encounter Zones Unlocked SE-19608-1-4-1583906933.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19608/?tab=files&file_id=128125)
 *  [Enhanced Reanimation-43500-1-3-1619463800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43500/?tab=files&file_id=200339)
