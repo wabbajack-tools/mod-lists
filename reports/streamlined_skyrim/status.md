@@ -1,10 +1,12 @@
 ## Validation Report - Streamlined Skyrim (streamlined_skyrim)
 
 
-### Invalid (0)
+### Invalid (2)
+*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
+*  [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (729)
+### Valid (727)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [(SGC) NASC-32996-1-1-1630160159.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32996/?tab=files&file_id=224384)
@@ -538,8 +540,6 @@
 *  [RUSTIC WORD WALLS 2K-68561-1-0.zip](https://www.nexusmods.com/skyrim/mods/68561/?tab=files&file_id=1000170922)
 *  [Sacrilege 2.0.0-42408-2-0-0-1619956194.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42408/?tab=files&file_id=201255)
 *  [Saw dust-26577-1-0-1560610919.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26577/?tab=files&file_id=96114)
-*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
-*  [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
 *  [ScaleformTranslationPP-22603-1-4-1-1586306055.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22603/?tab=files&file_id=132968)
 *  [Scrambled Bugs-43532-10-1623302557.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=208412)
 *  [Scrambled Eggchantments-43532-1-1619468588.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=200347)
