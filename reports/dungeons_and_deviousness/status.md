@@ -1,11 +1,10 @@
 ## Validation Report - Dungeons & Deviousness: Director's Cut (dungeons_and_deviousness)
 
 
-### Invalid (1)
-*  368787143_BakaFactoryABCLESE.7z
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (916)
+### Valid (917)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
@@ -22,6 +21,7 @@
 *  [[SunJeong] Ninirim Collection 6.0 FOMOD.7z](http://www.mediafire.com/file/h40zast0ozolmwx/%255BSunJeong%255D_Ninirim_Collection_6.0_FOMOD.7z)
 *  01 - Poser Hotkeys Version.7z
 *  [1. Majestic Mountains Main File-11052-3-2-1604048751.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=167707)
+*  1029229006_BakaFactoryABCLESE.7z
 *  1233575648_SLAL_Billyy_Animationsv5.0SE.zip
 *  [1420278612_SexLabParasitesSE2021-07-31.7z](https://mega.nz/file/obZj0QKK#CcTaWCv4YqxFKKWF_bRs-uzih4_iFpU-AWIqvMhAhWM)
 *  [2K Alchemy Table ONLY-16446-1-1-1611138530.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16446/?tab=files&file_id=180669)
@@ -137,7 +137,7 @@
 *  [CBBE Spice Gear SE extra immersive physics 1.4-16321-1-4.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16321/?tab=files&file_id=56702)
 *  [CBBE Spice Gear SE physics pack 1.4-16321-1-4.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16321/?tab=files&file_id=56350)
 *  [CBBE Tera Armors Collection - Special Edition V2.1-9651-2-1-1596648820.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9651/?tab=files&file_id=153915)
-*  [CBPC - Fomod installer - MAIN FILE-21224-1-3-6-1588356165.rar](https://www.nexusmods.com/skyrimspecialedition/mods/21224/?tab=files&file_id=137375)
+*  [CBPC - Fomod installer - MAIN FILE-21224-1-4-4-1637764497.rar](https://www.nexusmods.com/skyrimspecialedition/mods/21224/?tab=files&file_id=244057)
 *  [CC's Fort Dawnguard Reborn - 2K - 5.0-9776-5-0-1564861969.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9776/?tab=files&file_id=101754)
 *  [CC's HQ Mines - 2K - 1.2-8429-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8429/?tab=files&file_id=21073)
 *  [CC's HQ Roadsigns SSE - HD - 4.2-2778-4-2-1563794098.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2778/?tab=files&file_id=100172)
