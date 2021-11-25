@@ -1,8 +1,8 @@
 {
   "MachineURL": "big_warden",
   "Name": "Big Warden",
-  "Version": "4.5.1",
-  "ModListHash": "VTSQyA2M/Fo=",
+  "Version": "4.5.2",
+  "ModListHash": "Mx8Ej6KjTQY=",
   "Archives": [
     {
       "Status": "Valid",
@@ -563,6 +563,27 @@
           "ModID": 971,
           "Name": "CharGenMorph Compiler",
           "Version": "1.2.6.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4rjyaBZ7+ig=",
+        "Meta": "[General]\ngameName=\nmodID=5352\nfileID=1000008010",
+        "Name": "Spoils of the Avvar-5352-1-1b-1618240059.7z",
+        "Size": 33522775,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "IceBuckets",
+          "Description": "Overhauls Avvar/Chasind NPC to wear Chasind clothing as seen in Dragon Age: Inquisition",
+          "FileID": 1000008010,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5352/5352-1601412428-1915410097.png",
+          "IsNSFW": true,
+          "ModID": 5352,
+          "Name": "Spoils of the Avvar - Origins Edition",
+          "Version": "1.1.0.0b"
         }
       }
     },
@@ -1137,19 +1158,6 @@
           "ModID": 4594,
           "Name": "hd werewolf eyes",
           "Version": "0.0.0.0-1481962510"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "61lalDKRygw=",
-        "Meta": "[General]\ndirectURL=https://mega.nz/file/l0MB0axS#2GdFQkEVx5kdbS4K18fV3F7MP_PjCbe5cYla3MDwl3w",
-        "Name": "Nightcrawler_Cola.rar",
-        "Size": 922317,
-        "State": {
-          "$type": "MegaDownloader, Wabbajack.Lib",
-          "Url": "https://mega.nz/file/l0MB0axS#2GdFQkEVx5kdbS4K18fV3F7MP_PjCbe5cYla3MDwl3w"
         }
       }
     },
@@ -1736,6 +1744,69 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "AhrYgRWv3rs=",
+        "Meta": "[General]\ngameName=\nmodID=1076\nfileID=5300",
+        "Name": "LNL_tints-1076.zip",
+        "Size": 26780,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Loc_n_lol",
+          "Description": "Replaces the default tints for arms and armors with better looking ones (or at the very least, less offensive to look at...)",
+          "FileID": 5300,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/1076-2-1271392422.jpg",
+          "IsNSFW": false,
+          "ModID": 1076,
+          "Name": "Alternative arms and armor tints",
+          "Version": ""
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8p+KcEkg/K4=",
+        "Meta": "[General]\ngameName=\nmodID=4861\nfileID=1000005531",
+        "Name": "Covered Enchanters Robes V2-4861-1.zip",
+        "Size": 3377030,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lotsofbees",
+          "Description": "Adjustment to the texture for zwierzomods\u0027 More Covered Female Chasind Robes to be compatible with Dadriell\u0027s Enchanter Robes v7 mesh edit. Essentially, lets you have the non-skimpy chasind robes and a hood instead of a neck collar.",
+          "FileID": 1000005531,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4861/4861-1518880862-1919628334.jpeg",
+          "IsNSFW": false,
+          "ModID": 4861,
+          "Name": "Covered Enchanter Robes",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DtvSIJsZddc=",
+        "Meta": "[General]\ngameName=\nmodID=5605\nfileID=1000008539",
+        "Name": "4K Inquisition Style Templars-5605-3-2-1637782767.rar",
+        "Size": 29210670,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "killerkoalas",
+          "Description": "Gives the Templar Knight armor set from Kirkwall Exports a darker, shinier, Inquisition-style texture.",
+          "FileID": 1000008539,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5605/5605-1637706182-1313019104.png",
+          "IsNSFW": false,
+          "ModID": 5605,
+          "Name": "4K Inquisition-style Templar Armors for Viva La Orlais and Kirkwall Exports",
+          "Version": "3.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "CZgdx0JJNxI=",
         "Meta": "[General]\ngameName=\nmodID=4384\nfileID=1000007904",
         "Name": "Extras-4384-4-2-1617598695.zip",
@@ -1751,27 +1822,6 @@
           "ModID": 4384,
           "Name": "Dain\u0027s Fixes",
           "Version": "4.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "q5YPF3OFWI8=",
-        "Meta": "[General]\ngameName=\nmodID=5418\nfileID=1000008215",
-        "Name": "update 1.01a-5418-1-01a-1624034301.rar",
-        "Size": 43364,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Adrian Blake",
-          "Description": "This addin revises and imports all PC abilities from Awakening into Origins, aiming to unify and further improve the combat of the entire game, building upon the basis that is Combat Tweaks by kend7510. Requires Combat Tweaks.",
-          "FileID": 1000008215,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5418/5418-1612970526-903313954.png",
-          "IsNSFW": false,
-          "ModID": 5418,
-          "Name": "Combat Tweaks for Awakening and Origins",
-          "Version": "f1.01a"
         }
       }
     },
@@ -2069,19 +2119,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5sz22jg6cvA=",
-        "Meta": "[General]\ndirectURL=https://mega.nz/file/F5kHSAwI#pH6y_MFBTXRqWaSfS5Z31ugzqK3nfN15dCs2_84fIcg",
-        "Name": "NewSea_Macho.rar",
-        "Size": 1376398,
-        "State": {
-          "$type": "MegaDownloader, Wabbajack.Lib",
-          "Url": "https://mega.nz/file/F5kHSAwI#pH6y_MFBTXRqWaSfS5Z31ugzqK3nfN15dCs2_84fIcg"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "RjVa/cYGcxY=",
         "Meta": "[General]\ndirectURL=https://mega.nz/file/Eg0z1K4C#GrcaNGLzgC7qpyFlyWw7BzLrx8T77RjdELR1jXeE3Ts",
         "Name": "Nightcrawler_Close.rar",
@@ -2149,6 +2186,19 @@
           "ModID": 4976,
           "Name": "Elven Hairstyles",
           "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "61lalDKRygw=",
+        "Meta": "[General]\ndirectURL=https://www.mediafire.com/file/57uw1ey2qe37gh9/Nightcrawler_Cola.rar/file",
+        "Name": "Nightcrawler_Cola.rar",
+        "Size": 922317,
+        "State": {
+          "$type": "MediaFireDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://www.mediafire.com/file/57uw1ey2qe37gh9/Nightcrawler_Cola.rar/file"
         }
       }
     },
@@ -2348,6 +2398,174 @@
           "ModID": 5421,
           "Name": "Updated Codex for Updated Canon",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nFzRMcUX1FI=",
+        "Meta": "[General]\ngameName=\nmodID=1076\nfileID=6868",
+        "Name": "Dragonbone_armors_uti-1076.zip",
+        "Size": 13123,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Loc_n_lol",
+          "Description": "Replaces the default tints for arms and armors with better looking ones (or at the very least, less offensive to look at...)",
+          "FileID": 6868,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/1076-2-1271392422.jpg",
+          "IsNSFW": false,
+          "ModID": 1076,
+          "Name": "Alternative arms and armor tints",
+          "Version": ""
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "J3aPd+vmwiA=",
+        "Meta": "[General]\ngameName=\nmodID=5343\nfileID=1000007360",
+        "Name": "female noble outfit textures-5343-1-0-1600635842.zip",
+        "Size": 23768662,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "eudodo",
+          "Description": "Replaces the textures of the female noble clothes with new designs.",
+          "FileID": 1000007360,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5343/5343-1600633046-2122309258.jpeg",
+          "IsNSFW": false,
+          "ModID": 5343,
+          "Name": "Female Noble Clothing Overhaul",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gi+FmPBP5fQ=",
+        "Meta": "[General]\ngameName=\nmodID=4462\nfileID=1000003569",
+        "Name": "NEUTRAL FEMALE ARMOR (Medium and High edition)-4462-1-1.zip",
+        "Size": 20138551,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "magpiedragon",
+          "Description": "Replaces vanilla meshes for Medium and Heavy female armors for all races with more unisex ones. Includes edited armor textures to match. No more boobplate.",
+          "FileID": 1000003569,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4462-0-1462355101.jpg",
+          "IsNSFW": false,
+          "ModID": 4462,
+          "Name": "Neutral Female Armor (Medium and Heavy edition)",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eo7w+lJ4xIc=",
+        "Meta": "[General]\ngameName=\nmodID=3858\nfileID=1000000970",
+        "Name": "A Fallen Templar Quest Fix-3858-1-0.rar",
+        "Size": 5163,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Freedon Nadd",
+          "Description": "Fixes a couple of discrepancies in the \\\u0022A Fallen Templar\\\u0022 quest in Lothering. ",
+          "FileID": 1000000970,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/3858-1-1377171811.jpg",
+          "IsNSFW": false,
+          "ModID": 3858,
+          "Name": "A Fallen Templar Quest Fix",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RldijMDdMKw=",
+        "Meta": "[General]\ngameName=\nmodID=4621\nfileID=1000004399",
+        "Name": "Gloves During the Joining-4621-1-0.rar",
+        "Size": 1231887,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "blightedmods",
+          "Description": "A simple mod that edits the Joining scene so that you keep your gloves on.",
+          "FileID": 1000004399,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4621-0-1485663909.jpg",
+          "IsNSFW": false,
+          "ModID": 4621,
+          "Name": "Gloves During the Joining",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9ywBSbe9BF8=",
+        "Meta": "[General]\ngameName=\nmodID=4483\nfileID=1000003708",
+        "Name": "Robes Main File-4483-1-0.zip",
+        "Size": 4404923,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SaintVehk",
+          "Description": "This mod changes the basic Chantry Robes in Origins to better match the new color scheme introduced in Inquisition.",
+          "FileID": 1000003708,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4483-0-1467832195.png",
+          "IsNSFW": false,
+          "ModID": 4483,
+          "Name": "Chantry Robes - Inquisition Colors",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ckXpA5m+PZI=",
+        "Meta": "[General]\ngameName=\nmodID=5503\nfileID=1000008184",
+        "Name": "Fugitive\u0027s Mantle - No Chantry Symbol-5503-1-1622857108.rar",
+        "Size": 1041296,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "rdmaster",
+          "Description": "Removes the Fugitive Mantle Chantry symbol. Optional 2K Textures.",
+          "FileID": 1000008184,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5503/5503-1622857900-1570855484.png",
+          "IsNSFW": false,
+          "ModID": 5503,
+          "Name": "Fugitive\u0027s Mantle - No Chantry",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sHyiiRF16EM=",
+        "Meta": "[General]\ngameName=\nmodID=4973\nfileID=1000006156",
+        "Name": "Orlesian Baroness Is Orlesian (Viva la Orlais ver.)-4973-1-01-1548968722.zip",
+        "Size": 29543,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SilverAngelAnn aka Sabriel",
+          "Description": "More orlesian look for Baroness of Blackmarsh.",
+          "FileID": 1000006156,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4973/4973-1544072623-354004315.png",
+          "IsNSFW": false,
+          "ModID": 4973,
+          "Name": "Orlesian Baroness is Orlesian",
+          "Version": "f1.01"
         }
       }
     },
@@ -2669,6 +2887,104 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "xc4aOAwWkfo=",
+        "Meta": "[General]\ngameName=\nmodID=5056\nfileID=1000006355",
+        "Name": "Light Armor Retextures-5056-2-01-1557088033.zip",
+        "Size": 23884957,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "hoarous",
+          "Description": "Retextures all light armors to comply with lore established in later games.",
+          "FileID": 1000006355,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5056/5056-1557104485-839502540.jpeg",
+          "IsNSFW": false,
+          "ModID": 5056,
+          "Name": "Retcon Light Armor Texture Rehaul",
+          "Version": "f2.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "p+YmBUKRF7k=",
+        "Meta": "[General]\ngameName=\nmodID=5424\nfileID=1000007809",
+        "Name": "Anora wears armour in DAA-5424-1-0-1614696328.zip",
+        "Size": 9661,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Furtled",
+          "Description": "Puts Anora in her armour or a dress from the Unique Characters Overhaul when she visits Vigil\u0027s Keep. File this under \u0027sensible clothing options when the monarch is travelling in a country that only just ended a war\u0027 -  especially with the Ferelden weather.",
+          "FileID": 1000007809,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5424/5424-1614693623-1509430940.png",
+          "IsNSFW": false,
+          "ModID": 5424,
+          "Name": "Anora wears armour in Awakening",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KkokHevyncU=",
+        "Meta": "[General]\ngameName=\nmodID=3420\nfileID=17781",
+        "Name": "MB-3420-1.zip",
+        "Size": 5380547,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MissBasha",
+          "Description": "Few new fantasy elves to character creation and to change the characters in the game.\r\nIncludes new eyes and faces textures.",
+          "FileID": 17781,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/3420-1-1333723885.jpg",
+          "IsNSFW": false,
+          "ModID": 3420,
+          "Name": "Fantasy Elves Presets",
+          "Version": ""
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ogKAeCwH9Bg=",
+        "Meta": "[General]\ngameName=\nmodID=3583\nfileID=18630",
+        "Name": "NewTex by MissB-3583-.7z",
+        "Size": 6292562,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MissBasha",
+          "Description": "New Face and Eyes textures for creating your character in DA.",
+          "FileID": 18630,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/3583-1-1346501680.jpg",
+          "IsNSFW": false,
+          "ModID": 3583,
+          "Name": "New Textures by MissB",
+          "Version": ""
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zJjof3rYhIU=",
+        "Meta": "[General]\ndirectURL=https://www.moddb.com/mods/tmp7704/downloads/human-female-proportions-fix",
+        "Name": "human_female_proportions_fix.7z",
+        "Size": 11861367,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://www.moddb.com/mods/tmp7704/downloads/human-female-proportions-fix"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "36SAnx3klCo=",
         "Meta": "[General]\ngameName=\nmodID=4976\nfileID=1000006098",
         "Name": "Human Female Version-4976-1-1-1545120205.zip",
@@ -2768,6 +3084,27 @@
           "ModID": 5560,
           "Name": "Thedas Redone",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "B9kJ+fWr39Q=",
+        "Meta": "[General]\ngameName=\nmodID=5336\nfileID=1000007578",
+        "Name": "Tevinter Nights-5336-1-0a-1607812067.7z",
+        "Size": 28204127,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "IceBuckets",
+          "Description": "Overhauls the Tevinter (human) NPCs in-game to be wearing proper Tevinter attire as seen in Dragon Age: Inquisition",
+          "FileID": 1000007578,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5336/5336-1600205708-969994223.jpeg",
+          "IsNSFW": false,
+          "ModID": 5336,
+          "Name": "Tevinter Nights",
+          "Version": "1.0.0.0a"
         }
       }
     }
