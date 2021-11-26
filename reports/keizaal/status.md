@@ -1,10 +1,11 @@
 ## Validation Report - Keizaal (keizaal)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Keizaal-Patron-Rewards-main.zip](https://github.com/Keizaal/Keizaal-Patron-Rewards/releases/download/Rewards/Keizaal-Patron-Rewards-main.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (830)
+### Valid (829)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
@@ -436,7 +437,6 @@
 *  [Karstaag - The Frost King Reborn-14328-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/14328/?tab=files&file_id=42262)
 *  [Keening - 2K-39474-1-0-1597618061.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39474/?tab=files&file_id=156019)
 *  [Keizaal-Patch-main.zip](https://github.com/Keizaal/Keizaal-Patch/releases/download/Patch/Keizaal-Patch-main.zip)
-*  [Keizaal-Patron-Rewards-main.zip](https://github.com/Keizaal/Keizaal-Patron-Rewards/releases/download/Rewards/Keizaal-Patron-Rewards-main.zip)
 *  [Keizaal-RaceMenu-Presets-main.zip](https://github.com/Keizaal/Keizaal-RaceMenu-Presets/releases/download/Presets/Keizaal-RaceMenu-Presets-main.zip)
 *  [Keizaal-Settings-main.zip](https://github.com/Keizaal/Keizaal-Settings/releases/download/Settings/Keizaal-Settings-main.zip)
 *  [Keizaal-Tweaks-main.zip](https://github.com/Keizaal/Keizaal-Tweaks/releases/download/Tweaks/Keizaal-Tweaks-main.zip)
