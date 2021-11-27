@@ -1,6 +1,41 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "No, Not Vegas",
+    "description": "A small modlist which will, eventually, be focused around Tales from New Reno. Completely reworked from the original version to be more focused, as well as include mods that may be a little less famous than they should be.",
+    "author": "Patchier",
+    "maintainers": [
+      "patchier"
+    ],
+    "game": "falloutnewvegas",
+    "official": true,
+    "tags": [
+      "Official"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://staticdelivery.nexusmods.com/images/130/6385124-1623274937.jpg",
+      "readme": "https://raw.githubusercontent.com/Patchier/No-Not-Vegas/main/README.md",
+      "download": "https://authored-files.wabbajack.org/No,%20Not%20Vegas.wabbajack_47f50093-16a1-4938-9855-fedb1464ab80",
+      "machineURL": "nnv"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "ZidZ+aw8T3I=",
+      "Size": 1085910110,
+      "NumberOfArchives": 260,
+      "SizeOfArchives": 23906961765,
+      "NumberOfInstalledFiles": 87299,
+      "SizeOfInstalledFiles": 41732324276
+    },
+    "version": "1.0"
+  },
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "FUS",
     "description": "FUS is a fundamental and modular vanilla+ setup for Skyrim VR that offers 4 profiles. Essentials only (FUS), Essentials + Apperance (FUS ROH), Essentials + Apperance + Gameplay, and Cangar, including all optional mods.",
     "author": "Kvitekvist & Cangar",
