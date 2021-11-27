@@ -1,20 +1,19 @@
 {
   "MachineURL": "big_warden",
   "Name": "Big Warden",
-  "Version": "4.5.3",
-  "ModListHash": "uedjCCVlljM=",
+  "Version": "4.5.3.1",
+  "ModListHash": "84Vk35EB40M=",
   "Archives": [
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PfX6zen7m2M=",
-        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z",
-        "Name": "Mod.Organizer-2.4.2.7z",
-        "Size": 89503525,
+        "Hash": "/KpYuWagmk8=",
+        "Meta": "[General]\ndirectURL=https://mega.nz/file/czgT3aRQ#ipEnFbNQ-KnB5cyr2NKuNRQgO4KeIzDEp1bW6rnhNHA",
+        "Name": "Mod.Organizer-2.4.3alpha4.7z",
+        "Size": 89098643,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z"
+          "$type": "MegaDownloader, Wabbajack.Lib",
+          "Url": "https://mega.nz/file/czgT3aRQ#ipEnFbNQ-KnB5cyr2NKuNRQgO4KeIzDEp1bW6rnhNHA"
         }
       }
     },
@@ -626,27 +625,6 @@
           "ModID": 4526,
           "Name": "Witcher inspired morps",
           "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "wY9E8Sfc1I0=",
-        "Meta": "[General]\ngameName=\nmodID=214\nfileID=12111",
-        "Name": " GDApp-214-1.rar",
-        "Size": 1088966,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "elys",
-          "Description": "A native G2DA (*.gda) editor.",
-          "FileID": 12111,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/214-1-1259617984.jpg",
-          "IsNSFW": false,
-          "ModID": 214,
-          "Name": "GDApp - GDA Editor",
-          "Version": ""
         }
       }
     },
@@ -3040,21 +3018,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "r3NdmBtS/iw=",
-        "Meta": "[General]\ngameName=\nmodID=1435\nfileID=7361",
-        "Name": "LOTC s Character Creator Longer Eyelashes-1435.rar",
-        "Size": 365384,
+        "Hash": "AUa4cSwRtp0=",
+        "Meta": "[General]\ngameName=\nmodID=4795\nfileID=1000006061",
+        "Name": "Zoe hairbun-4795-1-0-1542564756.rar",
+        "Size": 1881035,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lastofthecouslands",
-          "Description": "Additional Eyelash choices for the toolset and Character Creator.",
-          "FileID": 7361,
+          "Author": "Jenya66",
+          "Description": "A bunch of hairstyles I made ages ago",
+          "FileID": 1000006061,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/1435-1-1278725307.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4795-0-1510500502.jpg",
           "IsNSFW": false,
-          "ModID": 1435,
-          "Name": "LOTC s Female Eyelashes",
-          "Version": ""
+          "ModID": 4795,
+          "Name": "Jenya\u0027s random hairstyles",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -3076,27 +3054,6 @@
           "ModID": 4795,
           "Name": "Jenya\u0027s random hairstyles",
           "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "AUa4cSwRtp0=",
-        "Meta": "[General]\ngameName=\nmodID=4795\nfileID=1000006061",
-        "Name": "Zoe hairbun-4795-1-0-1542564756.rar",
-        "Size": 1881035,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Jenya66",
-          "Description": "A bunch of hairstyles I made ages ago",
-          "FileID": 1000006061,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4795-0-1510500502.jpg",
-          "IsNSFW": false,
-          "ModID": 4795,
-          "Name": "Jenya\u0027s random hairstyles",
-          "Version": "1.0.0.0"
         }
       }
     },

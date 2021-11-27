@@ -39,7 +39,7 @@
 *  [Lore Keeper Merrill-4427-1-1629080723.rar](https://www.nexusmods.com/dragonage2/mods/4427/?tab=files&file_id=1000003405)
 *  [Mark Meer Jethann-4426-1-1628998751.rar](https://www.nexusmods.com/dragonage2/mods/4426/?tab=files&file_id=1000003403)
 *  [Missing Codexes-4442-1-2-1636418552.zip](https://www.nexusmods.com/dragonage2/mods/4442/?tab=files&file_id=1000003483)
-*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
+*  [Mod.Organizer-2.4.3alpha4.7z](https://mega.nz/file/czgT3aRQ#ipEnFbNQ-KnB5cyr2NKuNRQgO4KeIzDEp1bW6rnhNHA)
 *  [Natural Hair-2582-1-0.zip](https://www.nexusmods.com/dragonage2/mods/2582/?tab=files&file_id=12629)
 *  [Natural Skin 1-2-2620-1-2.zip](https://www.nexusmods.com/dragonage2/mods/2620/?tab=files&file_id=13530)
 *  [New Alistair-4400-1-1630431344.rar](https://www.nexusmods.com/dragonage2/mods/4400/?tab=files&file_id=1000003418)
