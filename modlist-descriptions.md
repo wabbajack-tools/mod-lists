@@ -234,15 +234,23 @@ A lightweight power fantasy list accessible to any level of gamer. Sexy without 
 
 ### [(NSFW)Tsukiro(NSFW)](https://www.wabbajack.org/#/modlists/info?machineURL=tsukiro)
 
-Ass n titties, swords and pretties.
+You ever thought Skyrim combat sucked? Yeah so did everyone. Tsukiro aims to bring combat to the next level with hundreds of hand-picked animations among a plethora of weapon styles. With the Inpa-Sekiro mod, Sekiro-style combat elevates everything to a new level of lethality and action.
+
+This won't just be your standard Skyrim playthrough with better combat though, hundreds of hours of additional quest content can be found through Legacy of the Dragonborn, Vigilant, Unslaad, Glenmoril, Interesting NPCs, The Shire, Maids 2: Deception, The Shadow of Meresis, Clockwork and more!
+
+For the sexier side of things, you'll find most NPCs are more attractive than usual, including enemies. Full levelled list integration for hundreds of skimpy, sexy and spicy outfits. Can you collect them all? 
+
+And last but not least, the spicier side of things: Yamete provides a great advancement over the old defeat mods, an extra layer of punishment should you so desire. Also including 1000+ scenes for Sexlab including gay, group, Futa and creature support. Random scenes can also trigger via Scrappies Matchmaker (same author as Yamete) and Sexlab Solutions provides less violent ways to quest.
 
 For a brief introduction to the combat and visuals please check the video here: [showcase and trailer here.](https://www.youtube.com/watch?v=I2hlkN-OEqA)
+Some fantastic screenshots from a fan of the modlist: https://www.youtube.com/watch?v=LiADst1IVo0
 
 **_Mods to get familiar with:_**
 
 - [Inpa - Sekiro Combat](https://www.nexusmods.com/skyrimspecialedition/mods/41428)
 - [Yamete!](https://www.loverslab.com/files/file/16057-yamete/)
 - [Static Levelling](https://www.nexusmods.com/skyrimspecialedition/mods/30410)
+- [Grimy Utilities](https://www.nexusmods.com/skyrim/mods/36328)
 
 ***
 
