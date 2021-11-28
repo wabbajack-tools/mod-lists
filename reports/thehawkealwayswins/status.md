@@ -1,11 +1,10 @@
 ## Validation Report - The Hawke Always Wins (thehawkealwayswins)
 
 
-### Invalid (1)
-*  [Tallis DeQuned - Pure Elven Tallis version-4366-1-0-1604538986.7z](https://www.nexusmods.com/dragonage2/mods/4366/?tab=files&file_id=1000003149)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (53)
+### Valid (54)
 *  [All Models-3136.rar](https://www.nexusmods.com/dragonage2/mods/3136/?tab=files&file_id=16258)
 *  [Anto Hairs v1-4208-01.zip](https://www.nexusmods.com/dragonage2/mods/4208/?tab=files&file_id=1000002356)
 *  [Arishok AI Rebalance-4192-1-0.zip](https://www.nexusmods.com/dragonage2/mods/4192/?tab=files&file_id=1000002294)
@@ -53,6 +52,7 @@
 *  [Serendipity-4398-1-1617973063.rar](https://www.nexusmods.com/dragonage2/mods/4398/?tab=files&file_id=1000003301)
 *  [Sketchy on the Details Fix-3922-1-00.zip](https://www.nexusmods.com/dragonage2/mods/3922/?tab=files&file_id=1000001320)
 *  [Skip Intro v1.2-4110-1-2.zip](https://www.nexusmods.com/dragonage2/mods/4110/?tab=files&file_id=1000002121)
+*  [Tallis DeQuned - Pure Elven Tallis version-4366-1-0-1604538986.7z](https://www.nexusmods.com/dragonage2/mods/4366/?tab=files&file_id=1000003149)
 *  [Tattoo eyeliner-4281-1-0-1567561568.rar](https://www.nexusmods.com/dragonage2/mods/4281/?tab=files&file_id=1000002687)
 *  [Textures for CC-3930-1-0.7z](https://www.nexusmods.com/dragonage2/mods/3930/?tab=files&file_id=1000001340)
 *  [The Bird Mage-4403-1-1618060585.rar](https://www.nexusmods.com/dragonage2/mods/4403/?tab=files&file_id=1000003309)
