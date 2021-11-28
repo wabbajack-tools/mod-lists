@@ -39,7 +39,7 @@
     "name": "Librum SE",
     "machineURL": "librum_se",
     "failed": 0,
-    "passed": 1035,
+    "passed": 1036,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/librum_se/status.json",
@@ -50,14 +50,14 @@
   {
     "name": "Librum VR",
     "machineURL": "librum_vr",
-    "failed": 1,
-    "passed": 1131,
+    "failed": 0,
+    "passed": 1133,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/librum_vr/status.json",
     "report": "reports/librum_vr/status.md",
     "modlist_missing": false,
-    "has_failures": true
+    "has_failures": false
   },
   {
     "name": "Serenity 2",
@@ -182,8 +182,8 @@
   {
     "name": "Box of Rockets",
     "machineURL": "BOR",
-    "failed": 5,
-    "passed": 56,
+    "failed": 4,
+    "passed": 57,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/BOR/status.json",
@@ -566,13 +566,13 @@
   {
     "name": "Tranquility",
     "machineURL": "tranquility",
-    "failed": 0,
-    "passed": 1025,
+    "failed": 1,
+    "passed": 1024,
     "updating": 0,
     "mirrored": 1,
     "link": "reports/tranquility/status.json",
     "report": "reports/tranquility/status.md",
     "modlist_missing": false,
-    "has_failures": false
+    "has_failures": true
   }
 ]

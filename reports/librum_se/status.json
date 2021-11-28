@@ -1,8 +1,8 @@
 {
   "MachineURL": "librum_se",
   "Name": "Librum SE",
-  "Version": "3.0.4.2",
-  "ModListHash": "jc9XwaShx1k=",
+  "Version": "3.0.4.3",
+  "ModListHash": "LKK0Qr80yEY=",
   "Archives": [
     {
       "Status": "Valid",
@@ -540,7 +540,7 @@
         "Size": 3402712,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "dunc001  MrNeverLost  Azhaab  Fudgyduff  VictorF  Ersh  Hazarduss",
+          "Author": "dunc001  MrNeverLost  Ahzaab  Fudgyduff  VictorF  Ersh  Hazarduss",
           "Description": "iEquip is a fully featured hotkey gear switching and equipment management mod, complete with advanced SkyUI HUD widget. Its purpose is to reduce the amount of time spent in menus managing weapons, potions, poisons...and MUCH MUCH MORE!",
           "FileID": 211133,
           "GameName": "SkyrimSpecialEdition",
@@ -6750,6 +6750,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "MGGeI/R+kRc=",
+        "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimvr_v0457.zip\ndirectURLHeaders=Referer:http://enbdev.com/download_mod_tesskyrimvr.html",
+        "Name": "enbseries_skyrimvr_v0457.zip",
+        "Size": 2551767,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [
+            "Referer:http://enbdev.com/download_mod_tesskyrimvr.html"
+          ],
+          "Url": "http://enbdev.com/enbseries_skyrimvr_v0457.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "ia6Y2mEquMg=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=High.ini",
         "Name": "High.ini",
@@ -8584,13 +8600,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mihail",
-          "Description": "The cliff racer is an aggressive, dangerous flying reptilian creature native from Morrowind. They have large membranous wings, a legless body, with two large vertical sails along their spine and chest, and a long whip like tail. They are quite pesky and will attack anyone on sight.",
+          "Description": "",
           "FileID": 159573,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27247/27247-1625773656-469282526.jpeg",
+          "ImageURL": null,
           "IsNSFW": false,
           "ModID": 27247,
-          "Name": "Cliff Racers- Mihail Monsters and Animals (MIHAIL SSE PORT)",
+          "Name": "",
           "Version": "3.0.0.0"
         }
       }
@@ -10676,13 +10692,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mebantiza  -  Is this display name taken",
-          "Description": "Reduces the frequency of random dragon attacks. Three tiers to choose from. 10%, 20% or 35%. Support for Beyond Skyrim Bruma",
+          "Description": "",
           "FileID": 137868,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4858/4858-1525939164-438720210.jpeg",
+          "ImageURL": null,
           "IsNSFW": false,
           "ModID": 4858,
-          "Name": "Less Dragons 2019-SSE",
+          "Name": "",
           "Version": "alpha"
         }
       }
@@ -12436,7 +12452,7 @@
           "Description": "Almost all mage bandits are replaced with Nord melee bandits.",
           "FileID": 65701,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19875/19875-1536636549-622770673.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19875/19875-1630990043-1008449289.jpeg",
           "IsNSFW": false,
           "ModID": 19875,
           "Name": "Skyrim Belongs to the Nords - Bandit Edition",
@@ -13987,13 +14003,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mihail",
-          "Description": "A Verminous Fabricant is an artificial cyborg creature, from Sotha Sil\u0027s Clockwork City, a deer-size saurid with synthetic limbs, fast and agile, with the head and spine covered with large boney spikes. Based on an unknown preexisting creature of Nirn, they resemble lean blue dinosaurs similar to Black Marsh\u0027s velociraptors.",
+          "Description": "",
           "FileID": 165250,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29235/29235-1582089593-738372132.png",
+          "ImageURL": null,
           "IsNSFW": false,
           "ModID": 29235,
-          "Name": "Verminous Fabricants - Mihail Monsters and Animals (MIHAIL SSE PORT)",
+          "Name": "",
           "Version": "3.0.0.0"
         }
       }
@@ -21070,7 +21086,7 @@
           "Description": "First person magic casting animation",
           "FileID": 69081,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20375/20375-1539393047-502481393.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20375/20375-1539392684-493843910.jpeg",
           "IsNSFW": false,
           "ModID": 20375,
           "Name": "Finally First Person Magic Animation for SSE",
