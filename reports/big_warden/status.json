@@ -1,8 +1,8 @@
 {
   "MachineURL": "big_warden",
   "Name": "Big Warden",
-  "Version": "4.5.3.1",
-  "ModListHash": "84Vk35EB40M=",
+  "Version": "4.5.4",
+  "ModListHash": "Wcku3OBbwAk=",
   "Archives": [
     {
       "Status": "Valid",
@@ -631,6 +631,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "wY9E8Sfc1I0=",
+        "Meta": "[General]\ngameName=\nmodID=214\nfileID=12111",
+        "Name": " GDApp-214-1.rar",
+        "Size": 1088966,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "elys",
+          "Description": "A native G2DA (*.gda) editor.",
+          "FileID": 12111,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/214-1-1259617984.jpg",
+          "IsNSFW": false,
+          "ModID": 214,
+          "Name": "GDApp - GDA Editor",
+          "Version": ""
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "UbXmojiZ1Q4=",
         "Meta": "[General]\ngameName=\nmodID=726\nfileID=3377",
         "Name": "Event Manager 01 beta fixed-726.zip",
@@ -851,7 +872,7 @@
           "Description": "Bugfixes for the quest \u0022Bombs Away!\u0022 for Awakening.",
           "FileID": 1000005744,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4835/4835-1516553931-745396323.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4835/4835-1628591539-2088464781.png",
           "IsNSFW": false,
           "ModID": 4835,
           "Name": "Bombs Away Quest Fix",
@@ -1743,48 +1764,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "AhrYgRWv3rs=",
-        "Meta": "[General]\ngameName=\nmodID=1076\nfileID=5300",
-        "Name": "LNL_tints-1076.zip",
-        "Size": 26780,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Loc_n_lol",
-          "Description": "Replaces the default tints for arms and armors with better looking ones (or at the very least, less offensive to look at...)",
-          "FileID": 5300,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/1076-2-1271392422.jpg",
-          "IsNSFW": false,
-          "ModID": 1076,
-          "Name": "Alternative arms and armor tints",
-          "Version": ""
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8p+KcEkg/K4=",
-        "Meta": "[General]\ngameName=\nmodID=4861\nfileID=1000005531",
-        "Name": "Covered Enchanters Robes V2-4861-1.zip",
-        "Size": 3377030,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lotsofbees",
-          "Description": "Adjustment to the texture for zwierzomods\u0027 More Covered Female Chasind Robes to be compatible with Dadriell\u0027s Enchanter Robes v7 mesh edit. Essentially, lets you have the non-skimpy chasind robes and a hood instead of a neck collar.",
-          "FileID": 1000005531,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4861/4861-1518880862-1919628334.jpeg",
-          "IsNSFW": false,
-          "ModID": 4861,
-          "Name": "Covered Enchanter Robes",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Pu6Jkd14Oxo=",
         "Meta": "[General]\ngameName=\nmodID=5605\nfileID=1000008544",
         "Name": "4K Inquisition Style Templars v4.0-5605-4-0-1637866420.rar",
@@ -1798,7 +1777,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5605/5605-1637706182-1313019104.png",
           "IsNSFW": false,
           "ModID": 5605,
-          "Name": "4K Inquisition-style Templar Armors for Viva La Orlais and Kirkwall Exports",
+          "Name": "Inquisition-style Templar Armors",
           "Version": "4.0.0.0"
         }
       }
@@ -2374,6 +2353,90 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "6jBV3qU31oY=",
+        "Meta": "[General]\ngameName=\nmodID=5181\nfileID=1000007555",
+        "Name": "Awakening in the OC - Expanded Integration-5181-1-2-0-1607036162.7z",
+        "Size": 59378,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "darthbdaman",
+          "Description": "Fixes, tweaks, and expansions to the Origins content, in order to better integrate the Awakening in the OC mod features into the game.",
+          "FileID": 1000007555,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 5181,
+          "Name": "Awakening in the OC - Expanded Integration",
+          "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XJ0ofLs36zY=",
+        "Meta": "[General]\ngameName=\nmodID=5181\nfileID=1000007552",
+        "Name": "Shale Compatibility-5181-1-1-0-1606934112.7z",
+        "Size": 1615,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "darthbdaman",
+          "Description": "Fixes, tweaks, and expansions to the Origins content, in order to better integrate the Awakening in the OC mod features into the game.",
+          "FileID": 1000007552,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 5181,
+          "Name": "Awakening in the OC - Expanded Integration",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sHyiiRF16EM=",
+        "Meta": "[General]\ngameName=\nmodID=4973\nfileID=1000006156",
+        "Name": "Orlesian Baroness Is Orlesian (Viva la Orlais ver.)-4973-1-01-1548968722.zip",
+        "Size": 29543,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SilverAngelAnn aka Sabriel",
+          "Description": "More orlesian look for Baroness of Blackmarsh.",
+          "FileID": 1000006156,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4973/4973-1544072623-354004315.png",
+          "IsNSFW": false,
+          "ModID": 4973,
+          "Name": "Orlesian Baroness is Orlesian",
+          "Version": "f1.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RldijMDdMKw=",
+        "Meta": "[General]\ngameName=\nmodID=4621\nfileID=1000004399",
+        "Name": "Gloves During the Joining-4621-1-0.rar",
+        "Size": 1231887,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "blightedmods",
+          "Description": "A simple mod that edits the Joining scene so that you keep your gloves on.",
+          "FileID": 1000004399,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4621-0-1485663909.jpg",
+          "IsNSFW": false,
+          "ModID": 4621,
+          "Name": "Gloves During the Joining",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "nFzRMcUX1FI=",
         "Meta": "[General]\ngameName=\nmodID=1076\nfileID=6868",
         "Name": "Dragonbone_armors_uti-1076.zip",
@@ -2395,21 +2458,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "J3aPd+vmwiA=",
-        "Meta": "[General]\ngameName=\nmodID=5343\nfileID=1000007360",
-        "Name": "female noble outfit textures-5343-1-0-1600635842.zip",
-        "Size": 23768662,
+        "Hash": "AhrYgRWv3rs=",
+        "Meta": "[General]\ngameName=\nmodID=1076\nfileID=5300",
+        "Name": "LNL_tints-1076.zip",
+        "Size": 26780,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "eudodo",
-          "Description": "Replaces the textures of the female noble clothes with new designs.",
-          "FileID": 1000007360,
+          "Author": "Loc_n_lol",
+          "Description": "Replaces the default tints for arms and armors with better looking ones (or at the very least, less offensive to look at...)",
+          "FileID": 5300,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5343/5343-1600633046-2122309258.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/1076-2-1271392422.jpg",
           "IsNSFW": false,
-          "ModID": 5343,
-          "Name": "Female Noble Clothing Overhaul",
-          "Version": "1.0.0.0"
+          "ModID": 1076,
+          "Name": "Alternative arms and armor tints",
+          "Version": ""
         }
       }
     },
@@ -2458,20 +2521,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "RldijMDdMKw=",
-        "Meta": "[General]\ngameName=\nmodID=4621\nfileID=1000004399",
-        "Name": "Gloves During the Joining-4621-1-0.rar",
-        "Size": 1231887,
+        "Hash": "ckXpA5m+PZI=",
+        "Meta": "[General]\ngameName=\nmodID=5503\nfileID=1000008184",
+        "Name": "Fugitive\u0027s Mantle - No Chantry Symbol-5503-1-1622857108.rar",
+        "Size": 1041296,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "blightedmods",
-          "Description": "A simple mod that edits the Joining scene so that you keep your gloves on.",
-          "FileID": 1000004399,
+          "Author": "rdmaster",
+          "Description": "Removes the Fugitive Mantle Chantry symbol. Optional 2K Textures.",
+          "FileID": 1000008184,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4621-0-1485663909.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5503/5503-1622857900-1570855484.png",
           "IsNSFW": false,
-          "ModID": 4621,
-          "Name": "Gloves During the Joining",
+          "ModID": 5503,
+          "Name": "Fugitive\u0027s Mantle - No Chantry",
           "Version": "1.0.0.0"
         }
       }
@@ -2494,90 +2557,6 @@
           "ModID": 4483,
           "Name": "Chantry Robes - Inquisition Colors",
           "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ckXpA5m+PZI=",
-        "Meta": "[General]\ngameName=\nmodID=5503\nfileID=1000008184",
-        "Name": "Fugitive\u0027s Mantle - No Chantry Symbol-5503-1-1622857108.rar",
-        "Size": 1041296,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "rdmaster",
-          "Description": "Removes the Fugitive Mantle Chantry symbol. Optional 2K Textures.",
-          "FileID": 1000008184,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5503/5503-1622857900-1570855484.png",
-          "IsNSFW": false,
-          "ModID": 5503,
-          "Name": "Fugitive\u0027s Mantle - No Chantry",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "sHyiiRF16EM=",
-        "Meta": "[General]\ngameName=\nmodID=4973\nfileID=1000006156",
-        "Name": "Orlesian Baroness Is Orlesian (Viva la Orlais ver.)-4973-1-01-1548968722.zip",
-        "Size": 29543,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SilverAngelAnn aka Sabriel",
-          "Description": "More orlesian look for Baroness of Blackmarsh.",
-          "FileID": 1000006156,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4973/4973-1544072623-354004315.png",
-          "IsNSFW": false,
-          "ModID": 4973,
-          "Name": "Orlesian Baroness is Orlesian",
-          "Version": "f1.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6jBV3qU31oY=",
-        "Meta": "[General]\ngameName=\nmodID=5181\nfileID=1000007555",
-        "Name": "Awakening in the OC - Expanded Integration-5181-1-2-0-1607036162.7z",
-        "Size": 59378,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "darthbdaman",
-          "Description": "Fixes, tweaks, and expansions to the Origins content, in order to better integrate the Awakening in the OC mod features into the game.",
-          "FileID": 1000007555,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 5181,
-          "Name": "Awakening in the OC - Expanded Integration",
-          "Version": "1.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "XJ0ofLs36zY=",
-        "Meta": "[General]\ngameName=\nmodID=5181\nfileID=1000007552",
-        "Name": "Shale Compatibility-5181-1-1-0-1606934112.7z",
-        "Size": 1615,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "darthbdaman",
-          "Description": "Fixes, tweaks, and expansions to the Origins content, in order to better integrate the Awakening in the OC mod features into the game.",
-          "FileID": 1000007552,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 5181,
-          "Name": "Awakening in the OC - Expanded Integration",
-          "Version": "1.1.0.0"
         }
       }
     },
@@ -2899,6 +2878,41 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "zJjof3rYhIU=",
+        "Meta": "[General]\ndirectURL=https://www.moddb.com/mods/tmp7704/downloads/human-female-proportions-fix",
+        "Name": "human_female_proportions_fix.7z",
+        "Size": 11861367,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://www.moddb.com/mods/tmp7704/downloads/human-female-proportions-fix"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "J3aPd+vmwiA=",
+        "Meta": "[General]\ngameName=\nmodID=5343\nfileID=1000007360",
+        "Name": "female noble outfit textures-5343-1-0-1600635842.zip",
+        "Size": 23768662,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "eudodo",
+          "Description": "Replaces the textures of the female noble clothes with new designs.",
+          "FileID": 1000007360,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5343/5343-1600633046-2122309258.jpeg",
+          "IsNSFW": false,
+          "ModID": 5343,
+          "Name": "Female Noble Clothing Overhaul",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "xc4aOAwWkfo=",
         "Meta": "[General]\ngameName=\nmodID=5056\nfileID=1000006355",
         "Name": "Light Armor Retextures-5056-2-01-1557088033.zip",
@@ -2920,6 +2934,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "TtRnrhnzpE0=",
+        "Meta": "[General]\ngameName=\nmodID=4462\nfileID=1000003563",
+        "Name": "Human proportions fix adjustment-4462-1-0.zip",
+        "Size": 283061,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "magpiedragon",
+          "Description": "Replaces vanilla meshes for Medium and Heavy female armors for all races with more unisex ones. Includes edited armor textures to match. No more boobplate.",
+          "FileID": 1000003563,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4462-0-1462355101.jpg",
+          "IsNSFW": false,
+          "ModID": 4462,
+          "Name": "Neutral Female Armor (Medium and Heavy edition)",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "p+YmBUKRF7k=",
         "Meta": "[General]\ngameName=\nmodID=5424\nfileID=1000007809",
         "Name": "Anora wears armour in DAA-5424-1-0-1614696328.zip",
@@ -2935,62 +2970,6 @@
           "ModID": 5424,
           "Name": "Anora wears armour in Awakening",
           "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "KkokHevyncU=",
-        "Meta": "[General]\ngameName=\nmodID=3420\nfileID=17781",
-        "Name": "MB-3420-1.zip",
-        "Size": 5380547,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MissBasha",
-          "Description": "Few new fantasy elves to character creation and to change the characters in the game.\r\nIncludes new eyes and faces textures.",
-          "FileID": 17781,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/3420-1-1333723885.jpg",
-          "IsNSFW": false,
-          "ModID": 3420,
-          "Name": "Fantasy Elves Presets",
-          "Version": ""
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ogKAeCwH9Bg=",
-        "Meta": "[General]\ngameName=\nmodID=3583\nfileID=18630",
-        "Name": "NewTex by MissB-3583-.7z",
-        "Size": 6292562,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MissBasha",
-          "Description": "New Face and Eyes textures for creating your character in DA.",
-          "FileID": 18630,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/3583-1-1346501680.jpg",
-          "IsNSFW": false,
-          "ModID": 3583,
-          "Name": "New Textures by MissB",
-          "Version": ""
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "zJjof3rYhIU=",
-        "Meta": "[General]\ndirectURL=https://www.moddb.com/mods/tmp7704/downloads/human-female-proportions-fix",
-        "Name": "human_female_proportions_fix.7z",
-        "Size": 11861367,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://www.moddb.com/mods/tmp7704/downloads/human-female-proportions-fix"
         }
       }
     },
