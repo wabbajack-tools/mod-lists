@@ -1,11 +1,10 @@
 ## Validation Report - The Midnight Ride (themidnightride)
 
 
-### Invalid (1)
-*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (55)
+### Valid (56)
 *  [Addres Library-47327-1-10-163-0-1599728753.zip](https://www.nexusmods.com/fallout4/mods/47327/?tab=files&file_id=191018)
 *  [BCR- Lever Action Rifle v1.02-41178-1-02-1569349299.zip](https://www.nexusmods.com/fallout4/mods/41178/?tab=files&file_id=167402)
 *  [Better Coastal Waves ESL-47153-1-1-1598895306.zip](https://www.nexusmods.com/fallout4/mods/47153/?tab=files&file_id=190357)
@@ -35,6 +34,7 @@
 *  [Keep Radiants in the Commonwealth-25934-1-2.7z](https://www.nexusmods.com/fallout4/mods/25934/?tab=files&file_id=111818)
 *  [LunarFalloutOverhaul ver96a-34769-96a-1632697614.zip](https://www.nexusmods.com/fallout4/mods/34769/?tab=files&file_id=217824)
 *  [Mod Configuration Menu 1.39-21497-1-39-1575706632.zip](https://www.nexusmods.com/fallout4/mods/21497/?tab=files&file_id=172180)
+*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 *  [MXPF-a-68617-v1-1-0.zip](https://www.nexusmods.com/skyrim/mods/68617/?tab=files&file_id=1000194968)
 *  [No Aggro Impact Landing-9019-1-0.zip](https://www.nexusmods.com/fallout4/mods/9019/?tab=files&file_id=34271)
 *  [No Holotape Tease - Texture Replacement-6731-.7z](https://www.nexusmods.com/fallout4/mods/6731/?tab=files&file_id=23634)

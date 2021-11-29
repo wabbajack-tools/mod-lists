@@ -1,11 +1,11 @@
 {
   "MachineURL": "sss",
   "Name": "Slidikins\u0027 Strenuous Skyrim",
-  "Version": "4.9.6",
-  "ModListHash": "qvXR2yuYFyw=",
+  "Version": "4.9.6.1",
+  "ModListHash": "FXYW+nhSOoE=",
   "Archives": [
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "PfX6zen7m2M=",
         "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z",
@@ -649,21 +649,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "9ezZEUORrV4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=52130\nfileID=215107",
-        "Name": "Apothecary - Food Duration Tweaks-52130-1-0-0-1626544290.7z",
-        "Size": 461,
+        "Hash": "jU9gjfff+Go=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=52130\nfileID=239501",
+        "Name": "Apothecary - Food and Drink Addon - Survival Mode Patch-52130-1-2-0-1636244549.7z",
+        "Size": 5509,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Simon Magus and DeltaRider",
           "Description": "Apothecary is a complete overhaul of Skyrim\u2019s alchemy, food, and alcohol systems designed to balance existing options while adding powerful new effects to the game.",
-          "FileID": 215107,
+          "FileID": 239501,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/52130/52130-1625763145-1987350992.png",
           "IsNSFW": false,
           "ModID": 52130,
           "Name": "Apothecary - An Alchemy Overhaul",
-          "Version": "1.0.0.0"
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -1510,48 +1510,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "m/kZG/bCOVs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=19152\nfileID=243241",
-        "Name": "Conner\u0027s Survival Mode-19152-3-45-1637507684.rar",
-        "Size": 107276,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ConnerRia",
-          "Description": "An overhaul of the Creation Club Survival Mode.",
-          "FileID": 243241,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19152/19152-1533615066-848024850.png",
-          "IsNSFW": false,
-          "ModID": 19152,
-          "Name": "Conner\u0027s Survival Mode",
-          "Version": "3.45.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7yoUIOXkHE8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=19152\nfileID=240566",
-        "Name": "Optional 00 - Apothecary Food Patch-19152-3-30-1636645090.rar",
-        "Size": 7827,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ConnerRia",
-          "Description": "An overhaul of the Creation Club Survival Mode.",
-          "FileID": 240566,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19152/19152-1533615066-848024850.png",
-          "IsNSFW": false,
-          "ModID": 19152,
-          "Name": "Conner\u0027s Survival Mode",
-          "Version": "3.30.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "7uDjKRC6OxU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=13826\nfileID=40079",
         "Name": "Container and Arrow Weight Restrictions-13826-2-0-2.7z",
@@ -1630,86 +1588,6 @@
           "ModID": 5013,
           "Name": "Craftable Torches",
           "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vbGhR356+Bs=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\ccBGSSSE001-Fish.esm",
-        "Name": "Data_ccBGSSSE001-Fish.esm",
-        "Size": 1423500,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccBGSSSE001-Fish.esm",
-          "GameVersion": "1.6.323.0",
-          "Hash": "vbGhR356+Bs="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cPxxYXNq0iE=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\ccBGSSSE037-Curios.bsa",
-        "Name": "Data_ccBGSSSE037-Curios.bsa",
-        "Size": 111735718,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccBGSSSE037-Curios.bsa",
-          "GameVersion": "1.6.323.0",
-          "Hash": "cPxxYXNq0iE="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4DgMsi8I2m8=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\ccBGSSSE037-Curios.esl",
-        "Name": "Data_ccBGSSSE037-Curios.esl",
-        "Size": 37476,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccBGSSSE037-Curios.esl",
-          "GameVersion": "1.6.323.0",
-          "Hash": "4DgMsi8I2m8="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "n1a268FnWz0=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\ccQDRSSE001-SurvivalMode.bsa",
-        "Name": "Data_ccQDRSSE001-SurvivalMode.bsa",
-        "Size": 12775030,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccQDRSSE001-SurvivalMode.bsa",
-          "GameVersion": "1.6.323.0",
-          "Hash": "n1a268FnWz0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "rXB5sSgI2jM=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\ccQDRSSE001-SurvivalMode.esl",
-        "Name": "Data_ccQDRSSE001-SurvivalMode.esl",
-        "Size": 240708,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccQDRSSE001-SurvivalMode.esl",
-          "GameVersion": "1.6.323.0",
-          "Hash": "rXB5sSgI2jM="
         }
       }
     },
@@ -2472,6 +2350,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "vbGhR356+Bs=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\ccBGSSSE001-Fish.esm",
+        "Name": "Data_ccBGSSSE001-Fish.esm",
+        "Size": 1423500,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccBGSSSE001-Fish.esm",
+          "GameVersion": "1.6.323.0",
+          "Hash": "vbGhR356+Bs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "MKbzL9D68wo=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=43389\nfileID=199547",
         "Name": "FVAR - Main 4k Compressed-43389-0-3-1619066540.7z",
@@ -2818,7 +2712,7 @@
           "Description": "Replacement models and textures for the Hearthfire dumplings. Annoyed that chicken, apple, and lavender dumplings all have the exact same model and texture? Look no further. All three dumplings now have their own unique models and textures so you can actually tell them apart just by looking at them.",
           "FileID": 154242,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38862/38862-1596217174-1008910371.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38862/38862-1596217210-1334928731.png",
           "IsNSFW": false,
           "ModID": 38862,
           "Name": "Hearthfire Crispy Dumplings",
@@ -4320,70 +4214,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "39TE1/Ot45E=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Dawnguard.esm",
-        "Name": "Data_Dawnguard.esm",
-        "Size": 25884579,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Dawnguard.esm",
-          "GameVersion": "1.6.323.0",
-          "Hash": "39TE1/Ot45E="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "32rOVH8c/vM=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Dragonborn.esm",
-        "Name": "Data_Dragonborn.esm",
-        "Size": 64663961,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Dragonborn.esm",
-          "GameVersion": "1.6.323.0",
-          "Hash": "32rOVH8c/vM="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "NSjSglH0F/s=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\HearthFires.esm",
-        "Name": "Data_HearthFires.esm",
-        "Size": 3977748,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\HearthFires.esm",
-          "GameVersion": "1.6.323.0",
-          "Hash": "NSjSglH0F/s="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "oZzXdq/4XGs=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Update.esm",
-        "Name": "Data_Update.esm",
-        "Size": 18825075,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Update.esm",
-          "GameVersion": "1.6.323.0",
-          "Hash": "oZzXdq/4XGs="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "pzLOlaUneWQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=13943\nfileID=120563",
         "Name": "Open Face Guard Helmets-13943-2-2-1579523091.7z",
@@ -4538,13 +4368,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "rob18",
-          "Description": "Simple patch for Open World Loot and C.O.I.N. ESL flagged",
+          "Description": "",
           "FileID": 211285,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51489/51489-1624304430-501178867.png",
+          "ImageURL": null,
           "IsNSFW": false,
           "ModID": 51489,
-          "Name": "Open World Loot - C.O.I.N Patch",
+          "Name": "",
           "Version": "1.1.0.0"
         }
       }
@@ -4825,6 +4655,38 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "cPxxYXNq0iE=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\ccBGSSSE037-Curios.bsa",
+        "Name": "Data_ccBGSSSE037-Curios.bsa",
+        "Size": 111735718,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccBGSSSE037-Curios.bsa",
+          "GameVersion": "1.6.323.0",
+          "Hash": "cPxxYXNq0iE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4DgMsi8I2m8=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\ccBGSSSE037-Curios.esl",
+        "Name": "Data_ccBGSSSE037-Curios.esl",
+        "Size": 37476,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccBGSSSE037-Curios.esl",
+          "GameVersion": "1.6.323.0",
+          "Hash": "4DgMsi8I2m8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "BRPuNTSQvIQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=14075\nfileID=41290",
         "Name": "Raven Rock - Fix Exit on Horseback SE-14075-1.7z",
@@ -5066,7 +4928,7 @@
           "Description": "Because 500-1,500 Gold for delivering a bunch of stale cookies to the Graybeards is just ridiculous, Klimmek.",
           "FileID": 191175,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46910/46910-1615630458-1681959709.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46910/46910-1618768772-508172109.png",
           "IsNSFW": false,
           "ModID": 46910,
           "Name": "Reasonable Quest Rewards",
@@ -5087,7 +4949,7 @@
           "Description": "Because 500-1,500 Gold for delivering a bunch of stale cookies to the Graybeards is just ridiculous, Klimmek.",
           "FileID": 191177,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46910/46910-1615630458-1681959709.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46910/46910-1618768772-508172109.png",
           "IsNSFW": false,
           "ModID": 46910,
           "Name": "Reasonable Quest Rewards",
@@ -5108,7 +4970,7 @@
           "Description": "Because 500-1,500 Gold for delivering a bunch of stale cookies to the Graybeards is just ridiculous, Klimmek.",
           "FileID": 191178,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46910/46910-1615630458-1681959709.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46910/46910-1618768772-508172109.png",
           "IsNSFW": false,
           "ModID": 46910,
           "Name": "Reasonable Quest Rewards",
@@ -5959,84 +5821,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "vgDWqzn1dsU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53939\nfileID=243632",
-        "Name": "Slidikins\u0027 Strenuous Skyrim - Conflict Resolution Patch-53939-4-9-5-1637645107.7z",
-        "Size": 31879,
+        "Hash": "WxRd/gyeA7k=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53939\nfileID=245252",
+        "Name": "Slidikins\u0027 Strenuous Skyrim - Conflict Resolution Patch-53939-4-9-6-1-1638150411.7z",
+        "Size": 32019,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Slidikins",
           "Description": "The Nexus page for Slidikins\u0027 Strenuous Skyrim -- with all necessary files.",
-          "FileID": 243632,
+          "FileID": 245252,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53939/53939-1632337703-344784517.png",
           "IsNSFW": false,
           "ModID": 53939,
           "Name": "Slidikins\u0027 Strenuous Skyrim - A TPF Addon",
-          "Version": "4.9.5.0"
+          "Version": "4.9.6.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "l4C7z5scQTk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53939\nfileID=241559",
-        "Name": "Slidikins\u0027 Strenuous Skyrim - DynDOLOD Output-53939-4-9-3-1636923288.7z",
-        "Size": 1233133782,
+        "Hash": "CaaG0k60WC0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53939\nfileID=244300",
+        "Name": "Slidikins\u0027 Strenuous Skyrim - DynDOLOD Output-53939-4-9-6-1637856440.7z",
+        "Size": 1238849347,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Slidikins",
           "Description": "The Nexus page for Slidikins\u0027 Strenuous Skyrim -- with all necessary files.",
-          "FileID": 241559,
+          "FileID": 244300,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53939/53939-1632337703-344784517.png",
           "IsNSFW": false,
           "ModID": 53939,
           "Name": "Slidikins\u0027 Strenuous Skyrim - A TPF Addon",
-          "Version": "4.9.3.0"
+          "Version": "4.9.6.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "csT6riRikpY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53939\nfileID=241558",
-        "Name": "Slidikins\u0027 Strenuous Skyrim - DynDOLOD Output (Performance)-53939-4-9-3-1636923155.7z",
-        "Size": 514280013,
+        "Hash": "OtBfr/0p3Vw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53939\nfileID=244301",
+        "Name": "Slidikins\u0027 Strenuous Skyrim - DynDOLOD Output (Performance)-53939-4-9-6-1637856509.7z",
+        "Size": 510425857,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Slidikins",
           "Description": "The Nexus page for Slidikins\u0027 Strenuous Skyrim -- with all necessary files.",
-          "FileID": 241558,
+          "FileID": 244301,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53939/53939-1632337703-344784517.png",
           "IsNSFW": false,
           "ModID": 53939,
           "Name": "Slidikins\u0027 Strenuous Skyrim - A TPF Addon",
-          "Version": "4.9.3.0"
+          "Version": "4.9.6.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Ww/pp/luf8s=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53939\nfileID=243633",
-        "Name": "Slidikins\u0027 Strenuous Skyrim - Survival Mode Patch-53939-4-9-5-1637645137.7z",
-        "Size": 1175,
+        "Hash": "T9GDF3+zGMA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53939\nfileID=245253",
+        "Name": "Slidikins\u0027 Strenuous Skyrim - Survival Mode Patch-53939-4-9-6-1-1638150451.7z",
+        "Size": 3577,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Slidikins",
           "Description": "The Nexus page for Slidikins\u0027 Strenuous Skyrim -- with all necessary files.",
-          "FileID": 243633,
+          "FileID": 245253,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53939/53939-1632337703-344784517.png",
           "IsNSFW": false,
           "ModID": 53939,
           "Name": "Slidikins\u0027 Strenuous Skyrim - A TPF Addon",
-          "Version": "4.9.5.0"
+          "Version": "4.9.6.1"
         }
       }
     },
@@ -6064,21 +5926,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "gi59SlmanW8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=41252\nfileID=242292",
-        "Name": "SmoothCam-41252-1-6-1637179867.zip",
-        "Size": 1060418,
+        "Hash": "Ibnio+WIQXY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=41252\nfileID=244599",
+        "Name": "SmoothCam-41252-1-6-1-1637953179.zip",
+        "Size": 1083565,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "mwilsnd",
           "Description": "SmoothCam is a highly configurable third-person camera, with smooth frame-interpolation and a raycasting crosshair to help you aim.",
-          "FileID": 242292,
+          "FileID": 244599,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41252/41252-1602334269-1734454604.png",
           "IsNSFW": false,
           "ModID": 41252,
           "Name": "SmoothCam",
-          "Version": "1.6.0.0"
+          "Version": "1.6.1.0"
         }
       }
     },
@@ -6253,6 +6115,59 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "n1a268FnWz0=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\ccQDRSSE001-SurvivalMode.bsa",
+        "Name": "Data_ccQDRSSE001-SurvivalMode.bsa",
+        "Size": 12775030,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccQDRSSE001-SurvivalMode.bsa",
+          "GameVersion": "1.6.323.0",
+          "Hash": "n1a268FnWz0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rXB5sSgI2jM=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\ccQDRSSE001-SurvivalMode.esl",
+        "Name": "Data_ccQDRSSE001-SurvivalMode.esl",
+        "Size": 240708,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccQDRSSE001-SurvivalMode.esl",
+          "GameVersion": "1.6.323.0",
+          "Hash": "rXB5sSgI2jM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ooOuv1erago=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56374\nfileID=242744",
+        "Name": "Survival Mode Improved-56374-1-2-2-1637353668.7z",
+        "Size": 69900,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "colinswrath",
+          "Description": "",
+          "FileID": 242744,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56374/56374-1634178751-1333863609.jpeg",
+          "IsNSFW": false,
+          "ModID": 56374,
+          "Name": "Survival Mode Improved",
+          "Version": "1.2.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "tvGbiQrZ5jk=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=23107\nfileID=146207",
         "Name": "TavernAIFix-se-23107-1-1d-1592428108.7z",
@@ -6415,27 +6330,6 @@
           "ModID": 14223,
           "Name": "The Phoenix Flavour - A Modding Guide for Skyrim SE",
           "Version": "4.9.4.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "f0qNNhKq+eU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45830\nfileID=221867",
-        "Name": "The Phoenix Flavour - Conner\u0027s Survival Mode Patch-45830-1-5-1629219036.7z",
-        "Size": 2513,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Delta",
-          "Description": "A few patches to integrate some Creation Club mods into The Phoenix Flavour guide!",
-          "FileID": 221867,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45830/45830-1613693238-710656458.png",
-          "IsNSFW": false,
-          "ModID": 45830,
-          "Name": "The Phoenix Flavour - Unofficial Creation Club Integration",
-          "Version": "1.5.0.0"
         }
       }
     },
@@ -6967,21 +6861,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "AjC4jz7UvMg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=18994\nfileID=214323",
-        "Name": "Weapons Armor Clothing and Clutter Fixes-18994-2-5-1626150186.zip",
-        "Size": 30189093,
+        "Hash": "SkVuLkZn+d0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=18994\nfileID=244408",
+        "Name": "Weapons Armor Clothing and Clutter Fixes-18994-2-6-1637895346.zip",
+        "Size": 32214223,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kryptopyr",
           "Description": "Fixes bugs and inconsistencies for Skyrim\u0027s weapons, armors, clothing, jewelry, and clutter items.",
-          "FileID": 214323,
+          "FileID": 244408,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18994/18994-1533245114-1467886195.jpeg",
           "IsNSFW": false,
           "ModID": 18994,
           "Name": "Weapons Armor Clothing and Clutter Fixes",
-          "Version": "0.0.0.0"
+          "Version": "2.6.0.0"
         }
       }
     },
@@ -7129,6 +7023,54 @@
           "ModID": 48725,
           "Name": "Yet Another Music Merge",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "39TE1/Ot45E=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Dawnguard.esm",
+        "Name": "Data_Dawnguard.esm",
+        "Size": 25884579,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Dawnguard.esm",
+          "GameVersion": "1.6.323.0",
+          "Hash": "39TE1/Ot45E="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "32rOVH8c/vM=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Dragonborn.esm",
+        "Name": "Data_Dragonborn.esm",
+        "Size": 64663961,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Dragonborn.esm",
+          "GameVersion": "1.6.323.0",
+          "Hash": "32rOVH8c/vM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "NSjSglH0F/s=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\HearthFires.esm",
+        "Name": "Data_HearthFires.esm",
+        "Size": 3977748,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\HearthFires.esm",
+          "GameVersion": "1.6.323.0",
+          "Hash": "NSjSglH0F/s="
         }
       }
     },
@@ -7385,6 +7327,22 @@
           "GameFile": "Data\\Skyrim.esm",
           "GameVersion": "1.6.323.0",
           "Hash": "habII97Ul5c="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oZzXdq/4XGs=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Update.esm",
+        "Name": "Data_Update.esm",
+        "Size": 18825075,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Update.esm",
+          "GameVersion": "1.6.323.0",
+          "Hash": "oZzXdq/4XGs="
         }
       }
     },
@@ -8293,21 +8251,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bBjWB43Cdi4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53939\nfileID=244158",
-        "Name": "Slidikins\u0027 Strenuous Skyrim - Configuration and Runtime Files-53939-4-9-6-1637800779.7z",
-        "Size": 16232,
+        "Hash": "pH/kcVYNJZ8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53939\nfileID=245254",
+        "Name": "Slidikins\u0027 Strenuous Skyrim - Configuration and Runtime Files-53939-4-9-6-1-1638150474.7z",
+        "Size": 12173,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Slidikins",
           "Description": "The Nexus page for Slidikins\u0027 Strenuous Skyrim -- with all necessary files.",
-          "FileID": 244158,
+          "FileID": 245254,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53939/53939-1632337703-344784517.png",
           "IsNSFW": false,
           "ModID": 53939,
           "Name": "Slidikins\u0027 Strenuous Skyrim - A TPF Addon",
-          "Version": "4.9.6.0"
+          "Version": "4.9.6.1"
         }
       }
     },
@@ -8671,21 +8629,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KZf1chLTqs4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=243579",
-        "Name": "Assorted Mesh Fixes-32117-0-34-1-1637624596.7z",
-        "Size": 10893444,
+        "Hash": "YEudVr268yE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=244206",
+        "Name": "Assorted Mesh Fixes-32117-0-35-1637817615.7z",
+        "Size": 10896342,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wankingSkeever",
           "Description": "Fixes various issues with vanilla Skyrim meshes that causes them to render incorrectly",
-          "FileID": 243579,
+          "FileID": 244206,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32117/32117-1612599331-161051453.png",
           "IsNSFW": false,
           "ModID": 32117,
           "Name": "Assorted mesh fixes",
-          "Version": "0.34.1.0"
+          "Version": "0.35.0.0"
         }
       }
     },
@@ -8923,21 +8881,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BjOkZYBUozI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45931\nfileID=204497",
-        "Name": "Classic Paralysis-45931-3-1-1621492375.7z",
-        "Size": 84988,
+        "Hash": "g8L0xWLA3VM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45931\nfileID=244713",
+        "Name": "Classic Paralysis SE-45931-3-2-1-1637989053.7z",
+        "Size": 223017,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
           "Description": "A SKSE plugin that makes paralysis spells freeze the target in place.",
-          "FileID": 204497,
+          "FileID": 244713,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45931/45931-1613770098-1328740644.png",
           "IsNSFW": false,
           "ModID": 45931,
           "Name": "Classic Paralysis",
-          "Version": "0.0.0.0"
+          "Version": "3.2.0.0"
         }
       }
     },
@@ -9322,21 +9280,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "drqa0ow+TNc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42997\nfileID=201941",
-        "Name": "Essential Favorites-42997-2-1-1620276394.7z",
-        "Size": 93766,
+        "Hash": "XBxwT03uyNk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42997\nfileID=244390",
+        "Name": "Essential Favorites SE-42997-2-2-0-1637889161.7z",
+        "Size": 222543,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
           "Description": "SKSE plugin that prevents favorited items from being sold, crafted, disarmed, disenchanted, or dropped.",
-          "FileID": 201941,
+          "FileID": 244390,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42997/42997-1620276191-707645528.png",
           "IsNSFW": false,
           "ModID": 42997,
           "Name": "Essential Favorites",
-          "Version": "0.0.0.0"
+          "Version": "2.2.0.0"
         }
       }
     },
@@ -10025,7 +9983,7 @@
           "Description": "Beautiful photorealistic textures for many things in Skyrim (over 148 textures) - Landscape overhaul, Farmhouses, Holds, Mountains etc... Also included is a small Mod List",
           "FileID": 121863,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19421/19421-1580420633-1838463696.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19421/19421-1546748060-1288754391.png",
           "IsNSFW": false,
           "ModID": 19421,
           "Name": "MystiriousDawn\u0027s HD Skyrim Overhaul",
@@ -11498,21 +11456,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "DgKkydGiiB8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53939\nfileID=241555",
-        "Name": "Slidikins\u0027 Strenuous Skyrim - TexGen Output-53939-4-9-3-1636923001.7z",
-        "Size": 63011404,
+        "Hash": "k0KXZAS5nDM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53939\nfileID=244302",
+        "Name": "Slidikins\u0027 Strenuous Skyrim - TexGen Output-53939-4-9-6-1637856537.7z",
+        "Size": 56829937,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Slidikins",
           "Description": "The Nexus page for Slidikins\u0027 Strenuous Skyrim -- with all necessary files.",
-          "FileID": 241555,
+          "FileID": 244302,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53939/53939-1632337703-344784517.png",
           "IsNSFW": false,
           "ModID": 53939,
           "Name": "Slidikins\u0027 Strenuous Skyrim - A TPF Addon",
-          "Version": "4.9.3.0"
+          "Version": "4.9.6.0"
         }
       }
     },
@@ -11561,21 +11519,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "UitrARJv+ps=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=34705\nfileID=243735",
-        "Name": "SSE Display Tweaks-34705-0-5-3b-1637686762.zip",
-        "Size": 421181,
+        "Hash": "9spSooCV34Q=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=34705\nfileID=244777",
+        "Name": "SSE Display Tweaks-34705-0-5-4b-1638015590.zip",
+        "Size": 421179,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SlavicPotato",
           "Description": "All-in-one solution for smooth FPS-unlocked gameplay. Includes a physics fix, borderless fullscreen performance boost, refresh rate control, highly configurable frame rate limiting, various bugfixes and more.",
-          "FileID": 243735,
+          "FileID": 244777,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34705/34705-1586796582-2125322633.png",
           "IsNSFW": false,
           "ModID": 34705,
           "Name": "SSE Display Tweaks",
-          "Version": "0.5.3.0b"
+          "Version": "0.5.4.0b"
         }
       }
     },
@@ -12149,21 +12107,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "gzzq4cT2Uqg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=52130\nfileID=213404",
-        "Name": "Apothecary - Rustic Animated Potions Patch-52130-1-0-0-1625772080.7z",
-        "Size": 82149,
+        "Hash": "B23cfMtUw/o=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58607\nfileID=242565",
+        "Name": "Awesome Potions Simplified ENB Lights-58607-1-1-1637285785.7z",
+        "Size": 284007,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Simon Magus and DeltaRider",
-          "Description": "Apothecary is a complete overhaul of Skyrim\u2019s alchemy, food, and alcohol systems designed to balance existing options while adding powerful new effects to the game.",
-          "FileID": 213404,
+          "Author": "Revoith - Nicoroshi - greenleaf1mile",
+          "Description": "ENB lights for the great mod \u0022Awesome Potions Simplified.\u0022",
+          "FileID": 242565,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/52130/52130-1625763145-1987350992.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58607/58607-1637185240-1094604832.png",
           "IsNSFW": false,
-          "ModID": 52130,
-          "Name": "Apothecary - An Alchemy Overhaul",
-          "Version": "0.0.0.0"
+          "ModID": 58607,
+          "Name": "Awesome Potions Simplified -ENB Lights",
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -12206,27 +12164,6 @@
           "ModID": 45597,
           "Name": "Mesh Patch for Various Mods",
           "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "B23cfMtUw/o=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58607\nfileID=242565",
-        "Name": "Awesome Potions Simplified ENB Lights-58607-1-1-1637285785.7z",
-        "Size": 284007,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Revoith - Nicoroshi - greenleaf1mile",
-          "Description": "ENB lights for the great mod \u0022Awesome Potions Simplified.\u0022",
-          "FileID": 242565,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58607/58607-1637185240-1094604832.png",
-          "IsNSFW": false,
-          "ModID": 58607,
-          "Name": "Awesome Potions Simplified -ENB Lights",
-          "Version": "1.1.0.0"
         }
       }
     },
@@ -13314,7 +13251,7 @@
           "Description": "Replacement models and textures for the Hearthfire dumplings. Annoyed that chicken, apple, and lavender dumplings all have the exact same model and texture? Look no further. All three dumplings now have their own unique models and textures so you can actually tell them apart just by looking at them.",
           "FileID": 153765,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38862/38862-1596217174-1008910371.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38862/38862-1596217210-1334928731.png",
           "IsNSFW": false,
           "ModID": 38862,
           "Name": "Hearthfire Crispy Dumplings",
@@ -18101,6 +18038,6 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1
+  "Status": "Available",
+  "Failures": 0
 }
