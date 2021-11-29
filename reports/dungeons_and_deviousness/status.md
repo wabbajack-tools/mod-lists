@@ -1,11 +1,12 @@
 ## Validation Report - Dungeons & Deviousness: Director's Cut (dungeons_and_deviousness)
 
 
-### Invalid (1)
+### Invalid (2)
+*  High_Poly_Head_v1.4_(SE).zip
 *  SLSFFameComments v3.0 SE.7z
 ### Updated (0)
 ### Mirrored (0)
-### Valid (916)
+### Valid (915)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
@@ -425,7 +426,6 @@
 *  [High Poly NPC Overhaul - Skyrim Special Edition 2.04-44155-2-04-1610760955.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44155/?tab=files&file_id=179803)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
 *  [High Quality Tintmasks for Vanilla NPCs - BSA 1K-18360-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18360/?tab=files&file_id=68440)
-*  High_Poly_Head_v1.4_(SE).zip
 *  high.ini
 *  [Holy Hand Grenade v1.2-24713-1-2-1554487265.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24713/?tab=files&file_id=87476)
 *  [Holy Wards - a retexture-18535-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18535/?tab=files&file_id=60014)
