@@ -56,7 +56,7 @@ If you want your PipBoy Flashlight to be colored a flat white rather than whatev
 Under `Section`, select `Pipboy`.
 Under `Setting`, select `bPipboyEffectColorOnLight`.
 In the text box below, change the `1` to a `0`, and then click `Save`.
-* **Setup**:  
+* **Basic**:  
 Now, hit `Save and Exit` in the bottom right.
 
 ### Step 5:
