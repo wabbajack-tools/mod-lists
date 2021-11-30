@@ -614,7 +614,6 @@
 *  [RB - Light - Main File-18183-2-5-1601235509.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18183/?tab=files&file_id=162868)
 *  [Real Wildlife - Skyrim SE-17466-1-5.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17466/?tab=files&file_id=55414)
 *  [Real Wildlife Improved SE-29843-4-0-1576325787.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29843/?tab=files&file_id=116148)
-*  [Realistic Animation Project - Movement 1.2-77343-1-2.zip](https://www.nexusmods.com/skyrim/mods/77343/?tab=files&file_id=1000214657)
 *  [Realistic HD Food Remastered-22087-1-3-1546092697.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22087/?tab=files&file_id=76594)
 *  [Realistic Natural Skin Tones v1b-55198-v1b-1631115357.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55198/?tab=files&file_id=226970)
 *  [Realistic Room Rental - Basic-24859-1-71-1555006619.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24859/?tab=files&file_id=88109)
@@ -671,6 +670,7 @@
 *  [Serana Dialogue Add-On SE-32161-2-8-2-1635256772.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32161/?tab=files&file_id=237147)
 *  [SeranaDialogEdit v 102-16222-1-02.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16222/?tab=files&file_id=59083)
 *  SexLab_Solutions_Revisited_SE_-_Ostim_Beta_4.1.7z
+*  [Sexy Random Idles optional-105489-1-1-1605663586.zip](https://www.nexusmods.com/skyrim/mods/105489/?tab=files&file_id=1000328448)
 *  [Shield Sisters Re-Imagined CBBE-44243-1-0-1610348019.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44243/?tab=files&file_id=178918)
 *  [Sidequests of Skyrim-54245-0-4-1630233606.rar](https://www.nexusmods.com/skyrimspecialedition/mods/54245/?tab=files&file_id=224557)
 *  [Sidequests of Skyrim-54245-0-5-1633577083.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54245/?tab=files&file_id=233160)
