@@ -1,19 +1,19 @@
 {
   "MachineURL": "nnv",
   "Name": "No, Not Vegas",
-  "Version": "1.1",
-  "ModListHash": "zGBe1jLLymU=",
+  "Version": "1.2",
+  "ModListHash": "MugQgzCL2w4=",
   "Archives": [
     {
       "Status": "Valid",
       "Original": {
         "Hash": "/KpYuWagmk8=",
-        "Meta": "[General]\ndirectURL=https://mega.nz/file/czgT3aRQ#ipEnFbNQ-KnB5cyr2NKuNRQgO4KeIzDEp1bW6rnhNHA",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Mod.Organizer-2.4.3alpha4.7z_3e41f081-6b67-4394-a70e-871cb0ed67e8",
         "Name": "Mod.Organizer-2.4.3alpha4.7z",
         "Size": 89098643,
         "State": {
-          "$type": "MegaDownloader, Wabbajack.Lib",
-          "Url": "https://mega.nz/file/czgT3aRQ#ipEnFbNQ-KnB5cyr2NKuNRQgO4KeIzDEp1bW6rnhNHA"
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/Mod.Organizer-2.4.3alpha4.7z_3e41f081-6b67-4394-a70e-871cb0ed67e8"
         }
       }
     },
@@ -84,6 +84,20 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://cdn.bethsoft.com/fallout/nv/geck/GECK_NVE_v1.4.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fPb0Z0u4zHw=",
+        "Meta": "[General]\ndirectURL=https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LostDragonist-MO2-Plugins.zip",
+        "Name": "LostDragonist-MO2-Plugins.zip",
+        "Size": 5315,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LostDragonist-MO2-Plugins.zip"
         }
       }
     },
@@ -210,6 +224,27 @@
           "ModID": 73699,
           "Name": "A Very Uncreative Collection of FPGE Mods",
           "Version": "7.4.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dDqZ/P5mvWo=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=61390\nfileID=1000057744",
+        "Name": "ADAM All-In-One Installer 4.5.2-61390-4-5-2-1574821692.7z",
+        "Size": 150013670,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MonoAccipiter - darthbdaman",
+          "Description": "This is a continuation of the original ADAM mod, including a new installer, new meshes, modular patches and a lot of bug fixes. All neatly prepared in one download with the original author\u0027s permission.",
+          "FileID": 1000057744,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/61390/61390-1536350564-301733574.jpeg",
+          "IsNSFW": false,
+          "ModID": 61390,
+          "Name": "ADAM Reborn",
+          "Version": "4.5.2.0"
         }
       }
     },
@@ -796,6 +831,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "F+2lteWP2Xg=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=70250\nfileID=1000067052",
+        "Name": "Delay Salt Lake Stories-70250-1-0-1604130743.7z",
+        "Size": 4052,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "replica102",
+          "Description": "A patch to delay the mod \u0022Salt Lake Stories\u0022 from auto starting on load.",
+          "FileID": 1000067052,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/70250/70250-1604416356-1471483547.jpeg",
+          "IsNSFW": false,
+          "ModID": 70250,
+          "Name": "Delay Salt Lake Stories",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "vtrncPyvpIk=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=64981\nfileID=1000083256",
         "Name": "1 - DiDisaan\u0027s Patch Emporium-64981-1-9-1635500291.rar",
@@ -880,21 +936,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "oV3BHqbMXIA=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=72139\nfileID=1000083825",
-        "Name": "DMT Main File-72139-3fix15-1636526794.rar",
-        "Size": 16827431,
+        "Hash": "lGKb2+Xc2JU=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=72139\nfileID=1000084487",
+        "Name": "DMT Main File-72139-4-1637918045.rar",
+        "Size": 16833265,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "S6S and ePath",
           "Description": "This mod completely overhauls Dead Money with lots of new weapons, overhauled ammo placements, starting gear changes, recipe tweaks, note tweaks, new enemies customizable reduction in collar annoyances, customizable cloud damage and cloud equipment degradation, and much more.",
-          "FileID": 1000083825,
+          "FileID": 1000084487,
           "GameName": "FalloutNewVegas",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/72139/72139-1632298713-1953409332.png",
           "IsNSFW": false,
           "ModID": 72139,
           "Name": "DMT - Dead Money Tweaks - Complete Overhaul",
-          "Version": "3.0.0.0fix15"
+          "Version": "4.0.0.0"
         }
       }
     },
@@ -2245,6 +2301,90 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "JoMRROZz3z0=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=63332\nfileID=1000062067",
+        "Name": "Salt Lake Stories-63332-1-3-1589974140.7z",
+        "Size": 882237892,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Yossarian22 and Radioactivman",
+          "Description": "This mod takes place in the area around the Great Salt Lake. On a unique designed travel map you can discover 15 mini-worldspaces, 100 interiors and 38 quests with over 50,000 voiced words of dialogue lines.",
+          "FileID": 1000062067,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/63332/63332-1519505951-1804771894.jpeg",
+          "IsNSFW": false,
+          "ModID": 63332,
+          "Name": "Salt Lake Stories",
+          "Version": "1.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "J4H9rsga05w=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=63332\nfileID=1000056270",
+        "Name": "No Type 3 Clothing Patch-63332-1-15-1567933482.7z",
+        "Size": 2684,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Yossarian22 and Radioactivman",
+          "Description": "This mod takes place in the area around the Great Salt Lake. On a unique designed travel map you can discover 15 mini-worldspaces, 100 interiors and 38 quests with over 50,000 voiced words of dialogue lines.",
+          "FileID": 1000056270,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/63332/63332-1519505951-1804771894.jpeg",
+          "IsNSFW": false,
+          "ModID": 63332,
+          "Name": "Salt Lake Stories",
+          "Version": "1.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+5/NPVLk1eM=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=71392\nfileID=1000074458",
+        "Name": "SLS English Fixes-71392-1-3-1617469230.7z",
+        "Size": 24530,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "HandsomeAwkward",
+          "Description": "Patches the Salt Lake Stories mod to improve the dialogue options from a native English speaker\u0027s point of view.",
+          "FileID": 1000074458,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71392/71392-1613800160-1299088619.jpeg",
+          "IsNSFW": false,
+          "ModID": 71392,
+          "Name": "Salt Lake Stories - Player Dialogue Fixes",
+          "Version": "1.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ElY/3R6pJn8=",
+        "Meta": "[General]\ngameName=fallout3\nmodID=22533\nfileID=1000014535",
+        "Name": "Various Meshes Resources-22533-1-0.7z",
+        "Size": 117700670,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Yossarian",
+          "Description": "This file includes some reshaped, retextured, converted or entire new resource files, that I converted and created over the years.",
+          "FileID": 1000014535,
+          "GameName": "Fallout3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/120/images/22533/22533-1516187037-1252131348.jpeg",
+          "IsNSFW": false,
+          "ModID": 22533,
+          "Name": "Various Meshes Resources",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "OHH00RuqQTA=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=72529\nfileID=1000077353",
         "Name": "Weapons of Our Millenia and Misc Tweaks Patch-72529-1-1-1623348144.7z",
@@ -2727,6 +2867,27 @@
           "ModID": 42507,
           "Name": "The Mod Configuration Menu",
           "Version": "0.0.0.0-1361850736"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nSkNiqr5Q9w=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=40433\nfileID=1000014514",
+        "Name": "New Bison Steve Version 107 MASTER FILE VERSION-40433-107.7z",
+        "Size": 38464043,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mike Hancho aka Balok",
+          "Description": "Rebuild the Bison Steve Hotel and Lucky Casino from an empty structure to the Grand Opening and get a cut of the profit, two great player home options, unique weapons and armor and your own personal vendor. You\u0027ll restore law and order to a community, track down supply shipments, make a few deals along the way and watch the place transform as y",
+          "FileID": 1000014514,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/40433-1-1392575040.jpg",
+          "IsNSFW": false,
+          "ModID": 40433,
+          "Name": "The New Bison Steve Hotel and Lucky Casino",
+          "Version": "107.0.0.0"
         }
       }
     },
@@ -3244,6 +3405,27 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/z-edit/zedit/releases/download/0.6.6.1/zEdit_v0.6.6.1_-_Portable_x64.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oV3BHqbMXIA=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=72139\nfileID=1000083825",
+        "Name": "DMT Main File-72139-3fix15-1636526794.rar",
+        "Size": 16827431,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "S6S and ePath",
+          "Description": "This mod completely overhauls Dead Money with lots of new weapons, overhauled ammo placements, starting gear changes, recipe tweaks, note tweaks, new enemies customizable reduction in collar annoyances, customizable cloud damage and cloud equipment degradation, and much more.",
+          "FileID": 1000083825,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/72139/72139-1632298713-1953409332.png",
+          "IsNSFW": false,
+          "ModID": 72139,
+          "Name": "DMT - Dead Money Tweaks - Complete Overhaul",
+          "Version": "3.0.0.0fix15"
         }
       }
     },
@@ -4349,6 +4531,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "a7K1GulYnYs=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=61390\nfileID=1000036069",
+        "Name": "Fafnir\u0027s Custom Ranger Armor-61390-1-0.rar",
+        "Size": 14313510,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MonoAccipiter - darthbdaman",
+          "Description": "This is a continuation of the original ADAM mod, including a new installer, new meshes, modular patches and a lot of bug fixes. All neatly prepared in one download with the original author\u0027s permission.",
+          "FileID": 1000036069,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/61390/61390-1536350564-301733574.jpeg",
+          "IsNSFW": false,
+          "ModID": 61390,
+          "Name": "ADAM Reborn",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "32MFTDUkbCI=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=74315\nfileID=1000084414",
         "Name": "All Clothing Retex 2K-74315-1-0-1637789536.rar",
@@ -5289,13 +5492,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "2ik9jZ+DDeY=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/NNV LOD 11-27-2021.zip_c8b59d0d-7469-4135-ad7b-414e1b479a60",
-        "Name": "NNV LOD 11-27-2021.zip",
-        "Size": 554238426,
+        "Hash": "8D0p/7hBQD0=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/NNV LOD 11-30-2021.zip_c6209431-9a7b-4edc-a862-5f9dba9d2091",
+        "Name": "NNV LOD 11-30-2021.zip",
+        "Size": 599586822,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/NNV%20LOD%2011-27-2021.zip_c8b59d0d-7469-4135-ad7b-414e1b479a60"
+          "Url": "https://authored-files.wabbajack.org/NNV%20LOD%2011-30-2021.zip_c6209431-9a7b-4edc-a862-5f9dba9d2091"
         }
       }
     },
