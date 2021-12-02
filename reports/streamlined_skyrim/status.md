@@ -1,12 +1,11 @@
 ## Validation Report - Streamlined Skyrim (streamlined_skyrim)
 
 
-### Invalid (2)
+### Invalid (1)
 *  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
-*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (726)
+### Valid (727)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [(SGC) NASC-32996-1-1-1630160159.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32996/?tab=files&file_id=224384)
@@ -729,6 +728,7 @@
 *  [Wyrmstooth-45565-1-19-7-1635995016.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45565/?tab=files&file_id=238910)
 *  [xEdit_4.0.3g.7z](https://cdn.discordapp.com/attachments/518048160526893057/832281169717362738/xEdit_4.0.3g.7z)
 *  [xLODGen.83.7z](https://authored-files.wabbajack.org/xLODGen.83.7z_6249a0d9-6fe1-4142-9e86-04c4a9e4e614)
+*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
 *  [Zephyr Redone-13816-2-0-1605255651.7z](https://www.nexusmods.com/skyrimspecialedition/mods/13816/?tab=files&file_id=169866)
 *  [zxlice hitStop Preset-50250-1-0-1621672987.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50250/?tab=files&file_id=204908)
 *  [zxlice hitStop v0.9.3a-42811-0-9-3a-1607855937.rar](https://www.nexusmods.com/skyrimspecialedition/mods/42811/?tab=files&file_id=174342)

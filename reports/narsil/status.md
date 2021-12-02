@@ -1,12 +1,11 @@
 ## Validation Report - Narsil (narsil)
 
 
-### Invalid (2)
+### Invalid (1)
 *  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
-*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (933)
+### Valid (934)
 *  [01 My Road Signs are Beautiful - English Version - SE-46564-1-3EN-1618870156.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46564/?tab=files&file_id=199131)
 *  [1-0 The Great Cities ELFX Compatibility - Winterhold - ELFX Base Only-35914-1-0-1589334544.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35914/?tab=files&file_id=139642)
 *  [1.0-19893-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19893/?tab=files&file_id=65775)
@@ -938,5 +937,6 @@
 *  [YY Animation Replacer - Mystic Knight-9179-V-1.rar](https://www.nexusmods.com/skyrimspecialedition/mods/9179/?tab=files&file_id=23351)
 *  [z Vanilla Military Camps-9005-1-1558843128.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9005/?tab=files&file_id=93654)
 *  [ZdoImmersiveDeath-v2.1-35517-v2-1-1589580217.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35517/?tab=files&file_id=140186)
+*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
 *  [Zerofrost Ultimate Armor Collection (Now With Mavari Armor)-45145-1-1618262178.rar](https://www.nexusmods.com/skyrimspecialedition/mods/45145/?tab=files&file_id=197777)
 *  [Zora_normalizedv2-16090-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16090/?tab=files&file_id=51545)

@@ -2,7 +2,7 @@
 
 
 ### Invalid (1)
-*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
+*  [Mod.Organizer-2.4.1.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.1/Mod.Organizer-2.4.1.7z)
 ### Updated (0)
 ### Mirrored (1)
 *  [enbseries_skyrimse_v0460.zip](http://enbdev.com/enbseries_skyrimse_v0460.zip)
@@ -303,7 +303,6 @@
 *  [Mild Hair Colors-27013-2-0-1599609295.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27013/?tab=files&file_id=159783)
 *  [MiscFix DLL-43239-v1-1607562365.zip](https://www.nexusmods.com/skyrimspecialedition/mods/43239/?tab=files&file_id=174017)
 *  [MM- REAL ELKS 2K-94362-1-0-1540907627.zip](https://www.nexusmods.com/skyrim/mods/94362/?tab=files&file_id=1000285056)
-*  [Mod.Organizer-2.4.1.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.1/Mod.Organizer-2.4.1.7z)
 *  [Modular Armory - Armor Mesh Fixes Patch-49771-1-0-1622360513.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49771/?tab=files&file_id=206316)
 *  [Modular Armory-49771-1-1-1622054916.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49771/?tab=files&file_id=205713)
 *  [More Informative Console 0.43-19250-0-43-1624831495.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=211462)
@@ -534,5 +533,6 @@
 *  [XPMSSE Left Hand Skeleton Rotation Fix-50049-4-80-1621290459.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=204058)
 *  [Yero's Cave full - new soul trap system-115-2-8-1610150261.rar](https://www.nexusmods.com/enderal/mods/115/?tab=files&file_id=838)
 *  [YesImSure-24898-1-5-0-1583022330.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24898/?tab=files&file_id=126540)
+*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
 *  [zxlice hitStop v0.9.3a-42811-0-9-3a-1607855937.rar](https://www.nexusmods.com/skyrimspecialedition/mods/42811/?tab=files&file_id=174342)
 *  [zxlice's ultimate potion animatio-45182-1-4-2-1621048228.rar](https://www.nexusmods.com/skyrimspecialedition/mods/45182/?tab=files&file_id=203543)

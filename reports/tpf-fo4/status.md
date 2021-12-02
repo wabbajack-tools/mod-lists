@@ -1,12 +1,11 @@
 ## Validation Report - Welcome to Paradise (tpf-fo4)
 
 
-### Invalid (2)
+### Invalid (1)
 *  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
-*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (363)
+### Valid (364)
 *  [0.3 - Patch Job-1934-0-3.rar](https://www.nexusmods.com/fallout4/mods/1934/?tab=files&file_id=5988)
 *  [0005. Power Grid Tools 1.4-17777-1-4-1580736283.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=175288)
 *  [1 Rad Fix - v2.0-15977-2-0.zip](https://www.nexusmods.com/fallout4/mods/15977/?tab=files&file_id=64936)
@@ -370,3 +369,4 @@
 *  [X-01 power armor neck fix-30967-1.rar](https://www.nexusmods.com/fallout4/mods/30967/?tab=files&file_id=126190)
 *  [X-01_Nuka_Quantum_Uncompressed_Normals-27917-1-2-2.7z](https://www.nexusmods.com/fallout4/mods/27917/?tab=files&file_id=139526)
 *  [xSE PluginPreloader F4 0.2.5.1-33946-0-2-5-1-1637347868.zip](https://www.nexusmods.com/fallout4/mods/33946/?tab=files&file_id=221778)
+*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)

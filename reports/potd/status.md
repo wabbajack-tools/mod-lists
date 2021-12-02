@@ -1,12 +1,11 @@
 ## Validation Report - Path of the Dovahkiin (potd)
 
 
-### Invalid (2)
+### Invalid (1)
 *  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
-*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (506)
+### Valid (507)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -511,5 +510,6 @@
 *  [XP32 Maximum Skeleton Special Extended-1988-4-80-1610196777.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=178559)
 *  [YesImSure-24898-1-5-0-1583022330.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24898/?tab=files&file_id=126540)
 *  [zEdit module-25673-4-2-1620585412.rar](https://www.nexusmods.com/skyrimspecialedition/mods/25673/?tab=files&file_id=202565)
+*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
 *  [zedit-visual-transfer-23254-1-0-1-1549597958.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23254/?tab=files&file_id=81053)
 *  [Ziovendian Bodypaints - Female and Male (CBBE)-25204-1-1555774523.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25204/?tab=files&file_id=89058)

@@ -2,8 +2,8 @@
 
 
 ### Invalid (2)
+*  [Keizaal-Patron-Rewards-main.zip](https://github.com/Keizaal/Keizaal-Patron-Rewards/releases/download/Rewards/Keizaal-Patron-Rewards-main.zip)
 *  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
-*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (828)
@@ -438,7 +438,6 @@
 *  [Karstaag - The Frost King Reborn-14328-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/14328/?tab=files&file_id=42262)
 *  [Keening - 2K-39474-1-0-1597618061.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39474/?tab=files&file_id=156019)
 *  [Keizaal-Patch-main.zip](https://github.com/Keizaal/Keizaal-Patch/releases/download/Patch/Keizaal-Patch-main.zip)
-*  [Keizaal-Patron-Rewards-main.zip](https://github.com/Keizaal/Keizaal-Patron-Rewards/releases/download/Rewards/Keizaal-Patron-Rewards-main.zip)
 *  [Keizaal-RaceMenu-Presets-main.zip](https://github.com/Keizaal/Keizaal-RaceMenu-Presets/releases/download/Presets/Keizaal-RaceMenu-Presets-main.zip)
 *  [Keizaal-Settings-main.zip](https://github.com/Keizaal/Keizaal-Settings/releases/download/Settings/Keizaal-Settings-main.zip)
 *  [Keizaal-Tweaks-main.zip](https://github.com/Keizaal/Keizaal-Tweaks/releases/download/Tweaks/Keizaal-Tweaks-main.zip)
@@ -835,3 +834,4 @@
 *  [XP32 Maximum Skeleton Special Extended-1988-4-80-1610196777.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=178559)
 *  [YASTM (FOMOD)-56144-1-7-3-1637581234.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56144/?tab=files&file_id=243430)
 *  [Ysgramor Shield 8K-46864-1-0-1615539009.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46864/?tab=files&file_id=190961)
+*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)

@@ -3,7 +3,7 @@
 
 ### Invalid (2)
 *  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
-*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
+*  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.19.2/Synthesis.zip)
 ### Updated (0)
 ### Mirrored (1)
 *  [enbseries_skyrimse_v0462.zip](http://enbdev.com/enbseries_skyrimse_v0462.zip)
@@ -911,7 +911,6 @@
 *  [Survival Control Panel-41891-1-0-3-1606221978.zip](https://www.nexusmods.com/skyrimspecialedition/mods/41891/?tab=files&file_id=171458)
 *  [Swamp Fungal Pod-80722-1-0.7z](https://www.nexusmods.com/skyrim/mods/80722/?tab=files&file_id=1000230232)
 *  [Sweet Roll Boiled Creme Treat and Pie-9034-.zip](https://www.nexusmods.com/skyrimspecialedition/mods/9034/?tab=files&file_id=22836)
-*  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.19.2/Synthesis.zip)
 *  [Taproot 1K-74303-1-1.rar](https://www.nexusmods.com/skyrim/mods/74303/?tab=files&file_id=1000199725)
 *  [TavernAIFix-se-23107-1-1d-1592428108.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23107/?tab=files&file_id=146207)
 *  [Teach Followers Spells v1.0 - Full SE-17384-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17384/?tab=files&file_id=55015)
@@ -1002,5 +1001,6 @@
 *  [Yggdrasil SoundFX-21578-3-0-2-1618804552.rar](https://www.nexusmods.com/skyrimspecialedition/mods/21578/?tab=files&file_id=198969)
 *  [Your Choices Matter - Dark Brotherhood Expansion main file SSE-46871-2-0-6-1622552117.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46871/?tab=files&file_id=206745)
 *  [z Vanilla Military Camps-9005-1-1558843128.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9005/?tab=files&file_id=93654)
+*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
 *  [Zora_normalizedv2-16090-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16090/?tab=files&file_id=51545)
 *  [zxlice hitStop v0.9.3a-42811-0-9-3a-1607855937.rar](https://www.nexusmods.com/skyrimspecialedition/mods/42811/?tab=files&file_id=174342)

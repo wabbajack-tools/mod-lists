@@ -1,10 +1,11 @@
 ## Validation Report - Degenerate Dungeon (degeneratedungeon)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Mod.Organizer-2.4.1.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.1/Mod.Organizer-2.4.1.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (343)
+### Valid (342)
 *  _windows_errors.txt
 *  [1_stagecoach_GS_A-966-1-1587388552.zip](https://www.nexusmods.com/darkestdungeon/mods/966/?tab=files&file_id=3711)
 *  [1_stagecoach_GS_C-966-1-1587388728.zip](https://www.nexusmods.com/darkestdungeon/mods/966/?tab=files&file_id=3713)
@@ -278,7 +279,6 @@
 *  [LW- Town Event beautify part 2-1336-0-9-1635603790.rar](https://www.nexusmods.com/darkestdungeon/mods/1336/?tab=files&file_id=5207)
 *  [Maid_3skin-977-1-1589025535.zip](https://www.nexusmods.com/darkestdungeon/mods/977/?tab=files&file_id=3752)
 *  [Mod Organizer 2 (Archive)-6194-2-3-0-1595984227.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6194/?tab=files&file_id=152689)
-*  [Mod.Organizer-2.4.1.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.1/Mod.Organizer-2.4.1.7z)
 *  monsters_ancestor_perfect_fx_ancestor_perfect.sprite.bloodsteal_target.png
 *  monsters_brigand_sapper_fx_brigand_sapper.sprite.detonate_target.png
 *  monsters_cultist_brawler_fx_cultist_brawler.sprite.brawler_claw.png

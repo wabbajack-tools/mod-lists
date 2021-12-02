@@ -1,11 +1,12 @@
 ## Validation Report - FUS (fus)
 
 
-### Invalid (1)
+### Invalid (2)
 *  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
+*  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.19.2/Synthesis.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (329)
+### Valid (328)
 *  [3D Casting FX-50197-1-0-1621612410.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50197/?tab=files&file_id=204758)
 *  [A Better Magelight - Enhanced-5954-2-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/5954/?tab=files&file_id=16406)
 *  [a better magelight patch-53186-1-0-1627894519.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53186/?tab=files&file_id=218284)
@@ -299,7 +300,6 @@
 *  [Swap Drop and Hold Add Spells-55983-2-1632862272.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55983/?tab=files&file_id=231292)
 *  [Swap Drop and Hold-49425-0-0-1-1620085763.zip](https://www.nexusmods.com/skyrimspecialedition/mods/49425/?tab=files&file_id=201581)
 *  [Swearing Mudcrabs Mod-1951-0-2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1951/?tab=files&file_id=2287)
-*  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.19.2/Synthesis.zip)
 *  [Tactsuit SkyrimVR-24486-2-0-1-1628347119.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24486/?tab=files&file_id=219471)
 *  [TexGen_Output-53186-1-1-0-1631640275.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53186/?tab=files&file_id=228394)
 *  [TexGen_Output-53186-2--0-1-1636222966.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53186/?tab=files&file_id=239435)
