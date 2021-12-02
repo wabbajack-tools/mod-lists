@@ -1,11 +1,10 @@
 ## Validation Report - Viva New Vegas (vivanewvegas)
 
 
-### Invalid (1)
-*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (71)
+### Valid (72)
 *  [A Little More Lamplight-69226-1-2-1594706760.zip](https://www.nexusmods.com/newvegas/mods/69226/?tab=files&file_id=1000063736)
 *  [Altitude - Zion Ambient Music-71404-1-0-1635624334.7z](https://www.nexusmods.com/newvegas/mods/71404/?tab=files&file_id=1000083323)
 *  [Altitude-71404-3-1-1635272575.7z](https://www.nexusmods.com/newvegas/mods/71404/?tab=files&file_id=1000083099)
@@ -42,6 +41,7 @@
 *  [Misc Gameplay Merge - JSawyer Ultimate Edition Patch-73921-1-0-1633476630.7z](https://www.nexusmods.com/newvegas/mods/73921/?tab=files&file_id=1000082118)
 *  [Misc Gameplay Merge-73921-1-7-1635363836.7z](https://www.nexusmods.com/newvegas/mods/73921/?tab=files&file_id=1000083156)
 *  [mo2-plugins-e0bd307b77f45c7cee78edf11311b14069e9ffe9.zip](https://github.com/deorder/mo2-plugins/archive/e0bd307b77f45c7cee78edf11311b14069e9ffe9.zip)
+*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 *  [Mojave Raiders Tweaks.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/12e2b50f3765a6c0c57e28e50d4641faed926203/Mojave Raiders Tweaks.7z)
 *  [Mojave Raiders-64660-1-1-0-1617557974.zip](https://www.nexusmods.com/newvegas/mods/64660/?tab=files&file_id=1000074511)
 *  [NMFL-NV_2.0.7z](https://github.com/c6-dev/c6-dev.github.io/raw/106107b42fb9d8f7eb812501f5409081b6442639/mod/NMFL-NV_2.0.7z)
