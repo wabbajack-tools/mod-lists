@@ -1,10 +1,12 @@
 ## Validation Report - SME(FT) (smeft)
 
 
-### Invalid (0)
+### Invalid (2)
+*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
+*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (106)
+### Valid (104)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [ActorLimitPlugin v2-32349-2-1581232495.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=123312)
@@ -60,7 +62,6 @@
 *  [LostDragonist-MO2-Plugins.zip](https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LostDragonist-MO2-Plugins.zip)
 *  [Mator Smash Updated-39378-2-0-0-beta-1-1627615769.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39378/?tab=files&file_id=217565)
 *  [mo2-plugins-1.1.zip](https://github.com/deorder/mo2-plugins/archive/1.1.zip)
-*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 *  [Modern Brawl Bug Fix v104-1473-1-04.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1473/?tab=files&file_id=1552)
 *  [More Informative Console 0.43-19250-0-43-1624831495.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=211462)
 *  [Move it Dammit - for Skyrim Special Edition v1.1 (Installation Script)-752-1-1-0b.7z](https://www.nexusmods.com/skyrimspecialedition/mods/752/?tab=files&file_id=10772)
@@ -110,4 +111,3 @@
 *  [Wrye Bash 309.1 - Standalone Executable-6837-309-1-1623232467.7z](https://www.nexusmods.com/skyrim/mods/1840/?tab=files&file_id=1000337935)
 *  [xEdit_4.0.3g.7z](https://cdn.discordapp.com/attachments/518048160526893057/832281169717362738/xEdit_4.0.3g.7z)
 *  [xLODGen.85.7z](https://mega.nz/file/kNRCHRDY#ONIMDnlxyyBH-QsSUgatbQJWOgGGrr8F8bxWD_-bSGc)
-*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)

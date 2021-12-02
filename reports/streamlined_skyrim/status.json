@@ -1,11 +1,11 @@
 {
   "MachineURL": "streamlined_skyrim",
   "Name": "Streamlined Skyrim",
-  "Version": "1.0.2",
-  "ModListHash": "CA2cuhqoGvs=",
+  "Version": "1.0.3",
+  "ModListHash": "73KCLn+SVg0=",
   "Archives": [
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "PfX6zen7m2M=",
         "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z",
@@ -645,7 +645,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "oyvveg",
-          "Description": "Distribute adamant perks to npcs and undead with Spell Perk Item Distributor (spid). all mods that adds npcs should be compatible. UPDATED TO ADAMANT 5.1.4",
+          "Description": "Distribute adamant perks to npcs and undead with Spell Perk Item Distributor (spid). all mods that adds npcs should be compatible.",
           "FileID": 218503,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47484/47484-1616606706-2085284025.png",
@@ -732,7 +732,7 @@
           "Description": "An overhaul of Auri and her home from \u0022Song of the Green\u0022.",
           "FileID": 198960,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47806/47806-1617160796-427801751.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47806/47806-1618800592-1260085268.png",
           "IsNSFW": false,
           "ModID": 47806,
           "Name": "Alternate Auri - Appearance and Abode Overhaul",
@@ -1593,7 +1593,7 @@
           "Description": "A texture replacement for the ore veins found in mines and around skyrim. This mod also retextures the mined ores and the ingots.",
           "FileID": 151266,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1306/1306-1569159804-646252978.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1306/1306-1637702049-69850307.jpeg",
           "IsNSFW": false,
           "ModID": 1306,
           "Name": "CC\u0027s Enhanced Ore Veins SSE Edition",
@@ -2048,27 +2048,6 @@
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
           "Url": "https://authored-files.wabbajack.org/DynDOLOD_Output.zip_d1cf3153-cd7b-4e17-98ca-59fd1c8fd505"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "R2izlxMgU8s=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54907\nfileID=238577",
-        "Name": "eFPS - Exterior FPS boost-54907-2-1-1635843712.zip",
-        "Size": 750046,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "nicola89b - Firegtx",
-          "Description": "Make Skyrim great again with miracle FPS improvement.",
-          "FileID": 238577,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54907/54907-1630845704-474935940.png",
-          "IsNSFW": false,
-          "ModID": 54907,
-          "Name": "eFPS - Exterior FPS boost",
-          "Version": "2.1.0.0"
         }
       }
     },
@@ -2867,27 +2846,6 @@
           "ModID": 1737,
           "Name": "Hold Border Banners",
           "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QUstvq/snRc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=57790\nfileID=238472",
-        "Name": "HorsesSimplyTurnBetter-57790-1-0-0-1635787436.rar",
-        "Size": 411,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Loki",
-          "Description": "Makes horses turn much better",
-          "FileID": 238472,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57790/57790-1635787269-650829866.png",
-          "IsNSFW": false,
-          "ModID": 57790,
-          "Name": "Horses Simply Turn Better",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -6513,6 +6471,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "UOz4Nnfx9Nk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=57923\nfileID=239043",
+        "Name": "Unslaad starting requirements-57923-1-0-1636060228.7z",
+        "Size": 1165,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Vicn",
+          "Description": "Locks the start of Unslaad to after killing Alduin",
+          "FileID": 239043,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57923/57923-1636060122-359046063.png",
+          "IsNSFW": false,
+          "ModID": 57923,
+          "Name": "Unslaad Starting Requirements",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "RJ6Hz24jXbo=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=11896\nfileID=188395",
         "Name": "UNSLAAD Voiced - English Addon SE-11896-2-5-0-1614449389.zip",
@@ -7558,13 +7537,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Wrye Bash Team",
-          "Description": "",
+          "Description": "Wrye Bash is a multipurpose mod management and mod installation utility.",
           "FileID": 1000028064,
           "GameName": "Oblivion",
-          "ImageURL": null,
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/22368-0-1483362752.png",
           "IsNSFW": false,
           "ModID": 22368,
-          "Name": "",
+          "Name": "Wrye Bash",
           "Version": "0.0.0.0"
         }
       }
@@ -7632,7 +7611,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "zqXquZJccXU=",
         "Meta": "[General]\ndirectURL=https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z",
@@ -8231,19 +8210,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "DcXYBOy/pSI=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/TexGen_Output.zip_30b082a8-0d7f-415e-bc72-1d809d4106e9",
-        "Name": "TexGen_Output.zip",
-        "Size": 61598575,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/TexGen_Output.zip_30b082a8-0d7f-415e-bc72-1d809d4106e9"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "1jMvSWB9zyI=",
         "Meta": "[General]\ndirectURL=https://github.com/matortheeternal/mxpf/releases/download/v1.1/mxpf.zip",
         "Name": "MXPF-a-68617-v1-1-0.zip",
@@ -8546,27 +8512,6 @@
           "ModID": 36468,
           "Name": "Arachnid Brutality",
           "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PBlyr/OL804=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54309\nfileID=225158",
-        "Name": "Auto Input Switch-54309-1-1-2-1630404989.zip",
-        "Size": 244442,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Parapets",
-          "Description": "Ever get annoyed that you can\u0027t use your mouse with your gamepad plugged in? Now you can switch between them painlessly.",
-          "FileID": 225158,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54309/54309-1629632972-1826723939.png",
-          "IsNSFW": false,
-          "ModID": 54309,
-          "Name": "Auto Input Switch",
-          "Version": "1.1.2.0"
         }
       }
     },
@@ -9777,10 +9722,10 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "TheSithLord",
-          "Description": "Alters all three types of pine shrubs with textures from my branches mod. Standalone. 4K version.",
+          "Description": "Alters all three types of Pine shrubs with textures from my branches mod. Standalone. 4K version.",
           "FileID": 187963,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46183/46183-1636498347-932801103.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46183/46183-1637597484-1350402768.png",
           "IsNSFW": false,
           "ModID": 46183,
           "Name": "Pine Shrubs Redone",
@@ -10652,6 +10597,19 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "DcXYBOy/pSI=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/TexGen_Output.zip_30b082a8-0d7f-415e-bc72-1d809d4106e9",
+        "Name": "TexGen_Output.zip",
+        "Size": 61598575,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/TexGen_Output.zip_30b082a8-0d7f-415e-bc72-1d809d4106e9"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "4tylX8zCe5Y=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=56956\nfileID=239191",
         "Name": "TK Dodge RE-v0.46a-56956-0-46a-1636131028.zip",
@@ -10667,6 +10625,27 @@
           "ModID": 56956,
           "Name": "TK Dodge RE - Script Free",
           "Version": "0.46.0.0a"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DBvFdmlb608=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=38150\nfileID=153900",
+        "Name": "True Nordic Farmhouses - Standard-38150-0-2-1596636087.zip",
+        "Size": 111790269,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Spiffyskytrooper and Nasenohrring",
+          "Description": "An HQ retexture for Skyrim\u0027s many farmhouses that brings them closer to a true Scandinavian aesthetic.",
+          "FileID": 153900,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38150/38150-1601607474-1737411793.png",
+          "IsNSFW": false,
+          "ModID": 38150,
+          "Name": "True Nordic Farmhouses (2K - 4K)",
+          "Version": "0.2.0.0"
         }
       }
     },
@@ -12143,6 +12122,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "029RK/hq+WM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=37112\nfileID=144818",
+        "Name": "Ivy by Mari 2k - Green-37112-1-0-1591775736.7z",
+        "Size": 2469161,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ArtByMari",
+          "Description": "Ivy retexture 4k",
+          "FileID": 144818,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37112/37112-1591775061-1791115542.jpeg",
+          "IsNSFW": false,
+          "ModID": 37112,
+          "Name": "Ivy by Mari",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "r+uleK1kAS4=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=23833\nfileID=155084",
         "Name": "JS Dragon Claws - Amethyst Patch-23833-2-1-1597174292.7z",
@@ -13116,27 +13116,6 @@
           "ModID": 29759,
           "Name": "Strongbox Replacer",
           "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Z4EE5K2Pj3s=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=56325\nfileID=232154",
-        "Name": "Stone Walls - Grey-56325-1-6G-1633208985.zip",
-        "Size": 9031086,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "GreyMtnFox",
-          "Description": "Texture replacer for beautiful, natural looking fieldstone walls.",
-          "FileID": 232154,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56325/56325-1633294048-2095621614.jpeg",
-          "IsNSFW": false,
-          "ModID": 56325,
-          "Name": "Sweet Stone Walls - SE",
-          "Version": "1.6.0.0G"
         }
       }
     },
@@ -14994,6 +14973,6 @@
       }
     }
   ],
-  "Status": "Available",
-  "Failures": 0
+  "Status": "Failed",
+  "Failures": 2
 }

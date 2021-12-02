@@ -1,12 +1,14 @@
 ## Validation Report - Dungeons & Deviousness: Director's Cut (dungeons_and_deviousness)
 
 
-### Invalid (2)
+### Invalid (4)
+*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 *  SexLab-Separate-Orgasm-SE-1.7.4 SL1.63b9.7z
 *  SLSFFameComments v3.0 SE.7z
+*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (915)
+### Valid (913)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
@@ -558,7 +560,6 @@
 *  [Mixed version-41874-1-0-1604095130.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41874/?tab=files&file_id=167837)
 *  [MM REAL ELKS 2K-41929-1-0-1-1615885343.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41929/?tab=files&file_id=191785)
 *  [mo2-plugins-1.0.1.zip](https://github.com/deorder/mo2-plugins/archive/1.0.1.zip)
-*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 *  [Modern Brawl Bug Fix v104-1473-1-04.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1473/?tab=files&file_id=1552)
 *  [Monster Lipsync SE - Vanilla-22878-2-8b-1555466953.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22878/?tab=files&file_id=88699)
 *  [More Bandit Camps SE-1994-2-7a-1580014418.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1994/?tab=files&file_id=121201)
@@ -917,7 +918,6 @@
 *  [Yyvengar Bodypaints - Female (CBBE)-37384-1-0-1592374869.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37384/?tab=files&file_id=146106)
 *  [Zara - RaceMenu Preset (Mature Version)-15638-1-1-M.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15638/?tab=files&file_id=52041)
 *  [ZaZ Animation Pack+ CBBE HDT V.8.0+SEREV3.7z](https://mega.nz/file/WEgGDaCa#wAho2Rphy47Lcd55DEmV50GgN07CMnTjhQ_r9s6dq-I)
-*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
 *  [ZincTO's CBBE Bodyslide Preset-29156-1-1569109067.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29156/?tab=files&file_id=107727)
 *  [Ziovendian Bodypaints - Female (CBBE)-25204-1-1555774316.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25204/?tab=files&file_id=89056)
 *  [Zora_normalizedv2-16090-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16090/?tab=files&file_id=51545)

@@ -1,11 +1,12 @@
 ## Validation Report - Tranquility (tranquility)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
 ### Updated (0)
 ### Mirrored (1)
 *  [enbseries_skyrimse_v0454.zip](http://enbdev.com/enbseries_skyrimse_v0454.zip)
-### Valid (1025)
+### Valid (1024)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
 *  [(4) Community Overlays 3 - Main - CBBE and Male-35339-1-0-1588129970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136903)
@@ -1030,4 +1031,3 @@
 *  [YesImSure-24898-1-5-0-1583022330.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24898/?tab=files&file_id=126540)
 *  [Your Choices Matter - Dark Brotherhood Expansion main file SSE-46871-2-0-6-1622552117.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46871/?tab=files&file_id=206745)
 *  [z Vanilla Military Camps-9005-1-1558843128.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9005/?tab=files&file_id=93654)
-*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)

@@ -1,10 +1,12 @@
 ## Validation Report - Keizaal (keizaal)
 
 
-### Invalid (0)
+### Invalid (2)
+*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
+*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (830)
+### Valid (828)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
@@ -481,7 +483,6 @@
 *  [Misc. Blended Roads Fixes-42643-1-1-1606173428.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42643/?tab=files&file_id=171390)
 *  [Misc. College of Winterhold Tweaks-22653-1-5-1-1585328122.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22653/?tab=files&file_id=130834)
 *  [Misc. SMIM Fixes-34656-1-2-1621451658.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34656/?tab=files&file_id=204378)
-*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 *  [Modern Clap Bug Fix-38621-1-1-1595650689.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38621/?tab=files&file_id=152011)
 *  [Moon Crest Retexture-45788-1-2-1613859281.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45788/?tab=files&file_id=187079)
 *  [More Chainmail mod-43605-1-0-0-1-1608817062.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43605/?tab=files&file_id=176002)
@@ -834,4 +835,3 @@
 *  [XP32 Maximum Skeleton Special Extended-1988-4-80-1610196777.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=178559)
 *  [YASTM (FOMOD)-56144-1-7-3-1637581234.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56144/?tab=files&file_id=243430)
 *  [Ysgramor Shield 8K-46864-1-0-1615539009.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46864/?tab=files&file_id=190961)
-*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)

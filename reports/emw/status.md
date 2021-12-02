@@ -1,11 +1,12 @@
 ## Validation Report - Enderal - My Way (emw)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
 ### Updated (0)
 ### Mirrored (1)
 *  [enbseries_skyrimse_v0460.zip](http://enbdev.com/enbseries_skyrimse_v0460.zip)
-### Valid (530)
+### Valid (529)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  ['The Howling' edited Mesh for AV users-60804-1-0.rar](https://www.nexusmods.com/skyrim/mods/60804/?tab=files&file_id=1000139064)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
@@ -533,6 +534,5 @@
 *  [XPMSSE Left Hand Skeleton Rotation Fix-50049-4-80-1621290459.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=204058)
 *  [Yero's Cave full - new soul trap system-115-2-8-1610150261.rar](https://www.nexusmods.com/enderal/mods/115/?tab=files&file_id=838)
 *  [YesImSure-24898-1-5-0-1583022330.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24898/?tab=files&file_id=126540)
-*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
 *  [zxlice hitStop v0.9.3a-42811-0-9-3a-1607855937.rar](https://www.nexusmods.com/skyrimspecialedition/mods/42811/?tab=files&file_id=174342)
 *  [zxlice's ultimate potion animatio-45182-1-4-2-1621048228.rar](https://www.nexusmods.com/skyrimspecialedition/mods/45182/?tab=files&file_id=203543)

@@ -1,10 +1,12 @@
 ## Validation Report - Welcome to Paradise (tpf-fo4)
 
 
-### Invalid (0)
+### Invalid (2)
+*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
+*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (365)
+### Valid (363)
 *  [0.3 - Patch Job-1934-0-3.rar](https://www.nexusmods.com/fallout4/mods/1934/?tab=files&file_id=5988)
 *  [0005. Power Grid Tools 1.4-17777-1-4-1580736283.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=175288)
 *  [1 Rad Fix - v2.0-15977-2-0.zip](https://www.nexusmods.com/fallout4/mods/15977/?tab=files&file_id=64936)
@@ -225,7 +227,6 @@
 *  [Minutemen Paint Job_v1.1.zip-28029-1-1.zip](https://www.nexusmods.com/fallout4/mods/28029/?tab=files&file_id=114836)
 *  [MO2 - No Sort Button Theme.7z](https://authored-files.wabbajack.org/MO2 - No Sort Button Theme.7z_13884393-32e7-451d-8a9f-3c0bb6649bca)
 *  [Mod Configuration Menu 1.39-21497-1-39-1575706632.zip](https://www.nexusmods.com/fallout4/mods/21497/?tab=files&file_id=172180)
-*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 *  [Moonracer's Armor Overhaul 1.1-30348-1-1.zip](https://www.nexusmods.com/fallout4/mods/30348/?tab=files&file_id=125485)
 *  [MTM - Garden Terrace Ceiling Fixed By Monorail - ESL-40513-1-0-1565774992.7z](https://www.nexusmods.com/fallout4/mods/40513/?tab=files&file_id=164322)
 *  [MTM - Nuka Town East Archway Fix - ESL-40513-1-0-1565157755.7z](https://www.nexusmods.com/fallout4/mods/40513/?tab=files&file_id=163908)
@@ -369,4 +370,3 @@
 *  [X-01 power armor neck fix-30967-1.rar](https://www.nexusmods.com/fallout4/mods/30967/?tab=files&file_id=126190)
 *  [X-01_Nuka_Quantum_Uncompressed_Normals-27917-1-2-2.7z](https://www.nexusmods.com/fallout4/mods/27917/?tab=files&file_id=139526)
 *  [xSE PluginPreloader F4 0.2.5.1-33946-0-2-5-1-1637347868.zip](https://www.nexusmods.com/fallout4/mods/33946/?tab=files&file_id=221778)
-*  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
