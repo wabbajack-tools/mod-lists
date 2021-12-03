@@ -1,10 +1,11 @@
 ## Validation Report - Relics of Hyrule - GAT Edition (rge)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (969)
+### Valid (968)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(2K) Skygazer Moons - Masser and Secunda HD Moons by fadingsignal-54349-1-0.rar](https://www.nexusmods.com/skyrim/mods/54349/?tab=files&file_id=1000110438)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
@@ -532,7 +533,6 @@
 *  [Missives 2.03 SSE-17576-2-03-1562185360.rar](https://www.nexusmods.com/skyrimspecialedition/mods/17576/?tab=files&file_id=98093)
 *  [MLP Soul Gems SSE-25709-1-1557615562.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25709/?tab=files&file_id=91816)
 *  [MM- REAL ELKS 2K-94362-1-0-1540907627.zip](https://www.nexusmods.com/skyrim/mods/94362/?tab=files&file_id=1000285056)
-*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 *  [More Dialogue Options - for Misc Dialogue Edits-28905-1-3-1-1591604954.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28905/?tab=files&file_id=144441)
 *  [More Dwemered Textures 2K V02-5827-0-2.zip](https://www.nexusmods.com/skyrim/mods/5827/?tab=files&file_id=23102)
 *  [More Informative Console for SKSE 2.17-19250-0-34-1574384572.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=114036)
