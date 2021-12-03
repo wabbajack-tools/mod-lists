@@ -1,11 +1,10 @@
 ## Validation Report - Narsil (narsil)
 
 
-### Invalid (1)
-*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (934)
+### Valid (935)
 *  [01 My Road Signs are Beautiful - English Version - SE-46564-1-3EN-1618870156.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46564/?tab=files&file_id=199131)
 *  [1-0 The Great Cities ELFX Compatibility - Winterhold - ELFX Base Only-35914-1-0-1589334544.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35914/?tab=files&file_id=139642)
 *  [1.0-19893-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19893/?tab=files&file_id=65775)
@@ -541,6 +540,7 @@
 *  [Missives Notes Retexture-46201-1-0-1614289834.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46201/?tab=files&file_id=188007)
 *  [MISVR-55751-1-0-2-1632203306.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55751/?tab=files&file_id=229775)
 *  [mo2-plugins-1.1.zip](https://github.com/deorder/mo2-plugins/archive/1.1.zip)
+*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 *  [More Dialogue Options - for Misc Dialogue Edits-28905-1-3-1-1591604954.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28905/?tab=files&file_id=144441)
 *  [More Tavern Idles compatibility version-16757-2b-1551481571.zip](https://www.nexusmods.com/skyrimspecialedition/mods/16757/?tab=files&file_id=83449)
 *  [More to Say (merged version)-22622-8-0-3-1625941410.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22622/?tab=files&file_id=213849)

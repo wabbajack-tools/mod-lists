@@ -1,11 +1,10 @@
 ## Validation Report - Through The Valleys (throughthevalleys)
 
 
-### Invalid (1)
-*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (114)
+### Valid (115)
 *  [4gb_Patch_plus_Ram_optimization_readme-45576-1-0-0-1.zip](https://www.nexusmods.com/oblivion/mods/45576/?tab=files&file_id=1000008086)
 *  [Animated Window Lighting System v5-5-4-19628.7z](https://www.nexusmods.com/oblivion/mods/19628/?tab=files&file_id=80773)
 *  [APFA Refined-50806-1-0-1612912761.zip](https://www.nexusmods.com/oblivion/mods/50806/?tab=files&file_id=1000026889)
@@ -70,6 +69,7 @@
 *  [Lunas Darker Glass Equipment Textures 1.1-47072-1-1.7z](https://www.nexusmods.com/oblivion/mods/47072/?tab=files&file_id=1000014360)
 *  [Mankars Mythic Robe Replacer-50137-1-1590171789.7z](https://www.nexusmods.com/oblivion/mods/50137/?tab=files&file_id=1000024826)
 *  [Mercantile Experience Fix - Selling Only-50204-1-01-1593520752.zip](https://www.nexusmods.com/oblivion/mods/50204/?tab=files&file_id=1000025163)
+*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 *  [NAO - Even Brighter Nights and Closer Fog-51105-1-1-0-1630159766.7z](https://www.nexusmods.com/oblivion/mods/51105/?tab=files&file_id=1000028819)
 *  [NAO - Natural and Atmospheric Oblivion-50923-1-0-1616065545.zip](https://www.nexusmods.com/oblivion/mods/50923/?tab=files&file_id=1000027251)
 *  [New Brows for OCO v2-48199-1-0.7z](https://www.nexusmods.com/oblivion/mods/48199/?tab=files&file_id=1000018239)
