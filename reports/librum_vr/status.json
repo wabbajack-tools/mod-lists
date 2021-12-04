@@ -1,11 +1,11 @@
 {
   "MachineURL": "librum_vr",
   "Name": "Librum VR",
-  "Version": "3.0.4.3",
-  "ModListHash": "Ez9nImQUdSE=",
+  "Version": "3.0.4.4",
+  "ModListHash": "/e1iKbilqLM=",
   "Archives": [
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "PfX6zen7m2M=",
         "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z",
@@ -48,22 +48,6 @@
       }
     },
     {
-      "Status": "InValid",
-      "Original": {
-        "Hash": "DChbXG6BtlE=",
-        "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimse_v0465.zip\ndirectURLHeaders=Referer:http://enbdev.com/download_mod_tesskyrimse.htm",
-        "Name": "enbseries_skyrimse_v0465.zip",
-        "Size": 4259887,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [
-            "Referer:http://enbdev.com/download_mod_tesskyrimse.htm"
-          ],
-          "Url": "http://enbdev.com/enbseries_skyrimse_v0465.zip"
-        }
-      }
-    },
-    {
       "Status": "Valid",
       "Original": {
         "Hash": "WZ/m/k/OsvM=",
@@ -73,7 +57,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kezyma",
-          "Description": "Tired of having to install mods manually because they need files in your install folder and not just your data folder? Wish you could just add them all through Mod Organizer (2)? Well now you can, sort of.",
+          "Description": "Root Builder is a Mod Organizer 2 plugin that allows you to manage files in the base game folder through Mod Organizer, leaving your game folder in pristine, vanilla condition!",
           "FileID": 237332,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31720/31720-1621958348-396480772.jpeg",
@@ -2072,21 +2056,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Sl7HINxLZMY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=276\nfileID=174809",
-        "Name": "Cutting Room Floor-276-3-1-9-1608184702.7z",
-        "Size": 5055996,
+        "Hash": "kAmHCC5fzkU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=276\nfileID=245427",
+        "Name": "Cutting Room Floor-276-3-1-11-1638226201.7z",
+        "Size": 5060529,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Arthmoor",
           "Description": "A mod to restore several pieces of cut content in Skyrim Special Edition.",
-          "FileID": 174809,
+          "FileID": 245427,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47327-1-1384661745.jpg",
           "IsNSFW": false,
           "ModID": 276,
           "Name": "Cutting Room Floor - SSE",
-          "Version": "3.1.9.0"
+          "Version": "3.1.11.0"
         }
       }
     },
@@ -11945,7 +11929,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/601-1-1328431450.jpg",
           "IsNSFW": false,
           "ModID": 1439,
-          "Name": "Realistic Ragdolls and Force",
+          "Name": "Realistic Ragdolls and Force SE",
           "Version": "1.0.0.0"
         }
       }
@@ -13746,7 +13730,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/601-1-1328431450.jpg",
           "IsNSFW": false,
           "ModID": 1439,
-          "Name": "Realistic Ragdolls and Force",
+          "Name": "Realistic Ragdolls and Force SE",
           "Version": "1.92.0.0"
         }
       }
@@ -13866,7 +13850,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "JPSteel2",
-          "Description": "Adds basalt cliffs around Rorikstead, giving the town a unique atmosphere. Compatible with every Rorikstead overhaul.",
+          "Description": "Adds basalt cliffs around Rorikstead, giving the town a unique atmosphere. Compatible with most Rorikstead overhauls.",
           "FileID": 93074,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/25718/25718-1557635139-63508536.jpeg",
@@ -17311,7 +17295,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/24720/24720-1554167161-778729903.png",
           "IsNSFW": false,
           "ModID": 24720,
-          "Name": "To Your Face SE and VR",
+          "Name": "To Your Face SE - AE - VR",
           "Version": "1.0.0.0f"
         }
       }
@@ -17332,7 +17316,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/24720/24720-1554167161-778729903.png",
           "IsNSFW": false,
           "ModID": 24720,
-          "Name": "To Your Face SE and VR",
+          "Name": "To Your Face SE - AE - VR",
           "Version": "1.0.0.0h"
         }
       }

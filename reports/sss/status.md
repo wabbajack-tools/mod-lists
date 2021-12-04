@@ -1,10 +1,11 @@
 ## Validation Report - Slidikins' Strenuous Skyrim (sss)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (870)
+### Valid (869)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-2-1637784364.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244120)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -445,7 +446,6 @@
 *  [Missives 2.03 SSE-17576-2-03-1562185360.rar](https://www.nexusmods.com/skyrimspecialedition/mods/17576/?tab=files&file_id=98093)
 *  [Missives Notes Retexture-46201-1-0-1614289834.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46201/?tab=files&file_id=188007)
 *  [Mod Organizer 2 Splash Screen - Intro Title Style-51391-1-0-0-1624130948.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51391/?tab=files&file_id=210029)
-*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 *  [Modern Clap Bug Fix-38621-1-1-1595650689.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38621/?tab=files&file_id=152011)
 *  [Modular Armory - Armor Mesh Fixes Patch-49771-1-0-1622360513.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49771/?tab=files&file_id=206316)
 *  [Modular Armory - Masks of the Dovah Sonaak Patch-49771-1-0-1622279661.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49771/?tab=files&file_id=206168)
