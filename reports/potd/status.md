@@ -1,12 +1,11 @@
 ## Validation Report - Path of the Dovahkiin (potd)
 
 
-### Invalid (2)
+### Invalid (1)
 *  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
-*  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.19.1/Synthesis.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (506)
+### Valid (507)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -441,6 +440,7 @@
 *  [Summermyst v307-6285-3-07SSE.zip](https://www.nexusmods.com/skyrimspecialedition/mods/6285/?tab=files&file_id=49264)
 *  [Super Fast Get Up Animation-46714-1-0-1615242774.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46714/?tab=files&file_id=190327)
 *  [SWE - Traditional Leveled Lists-32500-1-3-1603264762.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32500/?tab=files&file_id=166397)
+*  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.19.1/Synthesis.zip)
 *  [Tempered Skins for Males - Dressed Version-7902-2-05-1601297180.7z](https://www.nexusmods.com/skyrimspecialedition/mods/7902/?tab=files&file_id=162982)
 *  [TGCoDB LOD-19962-1-11.rar](https://www.nexusmods.com/skyrimspecialedition/mods/19962/?tab=files&file_id=67701)
 *  [TGCoF LOD-19709-1-11.rar](https://www.nexusmods.com/skyrimspecialedition/mods/19709/?tab=files&file_id=67702)
