@@ -2,10 +2,10 @@
   "MachineURL": "auriels_dream",
   "Name": "Auriel\u0027s Dream",
   "Version": "9.1.0",
-  "ModListHash": "OxdFdZpZQM4=",
+  "ModListHash": "zGptFWEFHKU=",
   "Archives": [
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "PfX6zen7m2M=",
         "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z",
@@ -6555,7 +6555,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "JpYh6Gk7Bl0=",
         "Meta": "[General]\ndirectURL=https://github.com/loot/loot/releases/download/0.16.1/loot_0.16.1-0-g18e28e9_0.16.1.7z",
@@ -15924,6 +15924,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "VAiKyftlRN4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44367\nfileID=211068",
+        "Name": "Auril\u0027s Dream - Skyrim 2020 Texture pack P1-44367-1-1-1624621681.7z",
+        "Size": 1254888064,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kvitekvist",
+          "Description": "Mini Texture Pack for Skyrim VR mod Auril\u0027s Dream",
+          "FileID": 211068,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44367/44367-1610738804-2014630511.jpeg",
+          "IsNSFW": false,
+          "ModID": 44367,
+          "Name": "Auril\u0027s Dream - Skyrim 2020 Texture pack",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "O2FC3xeCFKQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=44016\nfileID=209716",
         "Name": "Auriel\u0027s Dream - Core Texture Pack - BSA-44016-2-1624016649.7z",
@@ -15973,29 +15994,8 @@
           "Hash": "mwREtRFyhvs="
         }
       }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "VAiKyftlRN4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44367\nfileID=211068",
-        "Name": "Auril\u0027s Dream - Skyrim 2020 Texture pack P1-44367-1-1-1624621681.7z",
-        "Size": 1254888064,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kvitekvist",
-          "Description": "Mini Texture Pack for Skyrim VR mod Auril\u0027s Dream",
-          "FileID": 211068,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44367/44367-1610738804-2014630511.jpeg",
-          "IsNSFW": false,
-          "ModID": 44367,
-          "Name": "Auril\u0027s Dream - Skyrim 2020 Texture pack",
-          "Version": "0.0.0.0"
-        }
-      }
     }
   ],
-  "Status": "Available",
-  "Failures": 0
+  "Status": "Failed",
+  "Failures": 2
 }
