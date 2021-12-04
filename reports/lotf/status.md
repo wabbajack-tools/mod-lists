@@ -1,11 +1,10 @@
 ## Validation Report - Legends of the Frost (lotf)
 
 
-### Invalid (1)
-*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (275)
+### Valid (276)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [(Part 1) Engine Fixes-17230-5-8-0-1637340889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=242713)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -142,6 +141,7 @@
 *  [Misc Tweaks - Night Eye Redux-38348-2-0-1-1604339947.rar](https://www.nexusmods.com/skyrimspecialedition/mods/38348/?tab=files&file_id=168323)
 *  [Misc Tweaks - No Starting Spells-38348-1-1-1601156594.rar](https://www.nexusmods.com/skyrimspecialedition/mods/38348/?tab=files&file_id=162727)
 *  [Mod Organizer 2 Splash Screen - Intro Title Style-51391-1-1-0-1630806878.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51391/?tab=files&file_id=226212)
+*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 *  [Modern Clap Bug Fix-38621-1-1-1595650689.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38621/?tab=files&file_id=152011)
 *  [Modern Toggle Walk-Run Fix-44689-1-2-1611592107.zip](https://www.nexusmods.com/skyrimspecialedition/mods/44689/?tab=files&file_id=181743)
 *  [More Informative Console 0.43-19250-0-43-1624831495.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=211462)
