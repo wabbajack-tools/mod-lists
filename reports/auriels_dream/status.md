@@ -1,11 +1,12 @@
 ## Validation Report - Auriel's Dream (auriels_dream)
 
 
-### Invalid (1)
+### Invalid (2)
+*  [loot_0.16.1-0-g18e28e9_0.16.1.7z](https://github.com/loot/loot/releases/download/0.16.1/loot_0.16.1-0-g18e28e9_0.16.1.7z)
 *  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (760)
+### Valid (759)
 *  [1_Improved Closefaced Helmets (Legendary Edition)-824-1-58.zip](https://www.nexusmods.com/skyrimspecialedition/mods/824/?tab=files&file_id=19438)
 *  [2. Ultimate HD Fire Effects SSE - Medium Version-20654-1-2-1570361318.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20654/?tab=files&file_id=109439)
 *  [2K Caveworm-41956-1-0-1604317541.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41956/?tab=files&file_id=168277)
@@ -457,7 +458,6 @@
 *  [Less is more-44448-1-1610872737.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44448/?tab=files&file_id=180011)
 *  [Less useless ghost weapon-51693-v1-0-1624784686.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51693/?tab=files&file_id=211368)
 *  [Looming Lurkers-23122-1-0-1549196648.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23122/?tab=files&file_id=80573)
-*  [loot_0.16.1-0-g18e28e9_0.16.1.7z](https://github.com/loot/loot/releases/download/0.16.1/loot_0.16.1-0-g18e28e9_0.16.1.7z)
 *  [LOS2_Merge_patch-41020-8-0-3-1627029141.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41020/?tab=files&file_id=216111)
 *  [LowerVolume-1826-1.rar](https://www.nexusmods.com/skyrim/mods/1826/?tab=files&file_id=4759)
 *  [Lucien-20035-1-6-2-1616519910.rar](https://www.nexusmods.com/skyrimspecialedition/mods/20035/?tab=files&file_id=193151)

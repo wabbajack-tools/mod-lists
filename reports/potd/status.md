@@ -1,11 +1,12 @@
 ## Validation Report - Path of the Dovahkiin (potd)
 
 
-### Invalid (1)
+### Invalid (2)
+*  [loot_0.15.1-0-g82c756e_master.7z](https://github.com/loot/loot/releases/download/0.15.1/loot_0.15.1-0-g82c756e_master.7z)
 *  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (507)
+### Valid (506)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -262,7 +263,6 @@
 *  [Lock Related Loot-11342-1-2.rar](https://www.nexusmods.com/skyrimspecialedition/mods/11342/?tab=files&file_id=32126)
 *  [Logical Outfits and Classes for The Dark Brotherhood Forever - ESPFE-43483-2-0-1608402920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43483/?tab=files&file_id=175159)
 *  [Loki_WadeInWater-42854-v1-1606602483.rar](https://www.nexusmods.com/skyrimspecialedition/mods/42854/?tab=files&file_id=172065)
-*  [loot_0.15.1-0-g82c756e_master.7z](https://github.com/loot/loot/releases/download/0.15.1/loot_0.15.1-0-g82c756e_master.7z)
 *  [LostDragonist-MO2-Plugins.zip](https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LostDragonist-MO2-Plugins.zip)
 *  low.ini
 *  [Lux-43158-3-3-1634213956.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=234781)

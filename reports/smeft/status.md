@@ -1,11 +1,12 @@
 ## Validation Report - SME(FT) (smeft)
 
 
-### Invalid (1)
+### Invalid (2)
+*  [loot_0.15.1-0-g82c756e_master.7z](https://github.com/loot/loot/releases/download/0.15.1/loot_0.15.1-0-g82c756e_master.7z)
 *  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (105)
+### Valid (104)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [ActorLimitPlugin v2-32349-2-1581232495.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=123312)
@@ -57,7 +58,6 @@
 *  [Labyrinthian Shalidor's Maze Fixes-52239-0-3-1626070810.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52239/?tab=files&file_id=214147)
 *  [Logical Outfits and Classes for The Dark Brotherhood Forever - ESPFE-43483-2-0-1608402920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43483/?tab=files&file_id=175159)
 *  [Loki_WadeInWater-42854-v1-1606602483.rar](https://www.nexusmods.com/skyrimspecialedition/mods/42854/?tab=files&file_id=172065)
-*  [loot_0.15.1-0-g82c756e_master.7z](https://github.com/loot/loot/releases/download/0.15.1/loot_0.15.1-0-g82c756e_master.7z)
 *  [LostDragonist-MO2-Plugins.zip](https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LostDragonist-MO2-Plugins.zip)
 *  [Mator Smash Updated-39378-2-0-0-beta-1-1627615769.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39378/?tab=files&file_id=217565)
 *  [mo2-plugins-1.1.zip](https://github.com/deorder/mo2-plugins/archive/1.1.zip)

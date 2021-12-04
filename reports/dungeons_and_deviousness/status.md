@@ -1,14 +1,15 @@
 ## Validation Report - Dungeons & Deviousness: Director's Cut (dungeons_and_deviousness)
 
 
-### Invalid (4)
+### Invalid (5)
 *  1233575648_SLAL_Billyy_Animationsv5.0SE.zip
+*  [loot_0.15.1-0-g82c756e_master.7z](https://github.com/loot/loot/releases/download/0.15.1/loot_0.15.1-0-g82c756e_master.7z)
 *  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 *  SexLab-Separate-Orgasm-SE-1.7.4 SL1.63b9.7z
 *  SLSFFameComments v3.0 SE.7z
 ### Updated (0)
 ### Mirrored (0)
-### Valid (913)
+### Valid (912)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
@@ -518,7 +519,6 @@
 *  [Lingerie Set CBBE Curvy-35815-1-1-1591740741.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35815/?tab=files&file_id=144762)
 *  [Lock Overhaul-14927-1-6.rar](https://www.nexusmods.com/skyrimspecialedition/mods/14927/?tab=files&file_id=45647)
 *  [Loot and Degradation SE-21744-1-32-1544955288.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21744/?tab=files&file_id=75278)
-*  [loot_0.15.1-0-g82c756e_master.7z](https://github.com/loot/loot/releases/download/0.15.1/loot_0.15.1-0-g82c756e_master.7z)
 *  [LootPreventifier.zip](https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LootPreventifier.zip)
 *  [LostDragonist-MO2-Plugins.zip](https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LostDragonist-MO2-Plugins.zip)
 *  low.ini

@@ -1,11 +1,12 @@
 ## Validation Report - Living Skyrim (living_skyrim)
 
 
-### Invalid (1)
+### Invalid (2)
+*  [loot_0.15.1-0-g82c756e_master.7z](https://github.com/loot/loot/releases/download/0.15.1/loot_0.15.1-0-g82c756e_master.7z)
 *  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1071)
+### Valid (1070)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
@@ -548,7 +549,6 @@
 *  [Leviathan Animations Male Idle Walk and Run-42590-1-5-1616287877.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42590/?tab=files&file_id=192606)
 *  [Loading Screens With Extra Sarcasm SE-6386-2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/6386/?tab=files&file_id=14935)
 *  [Lock Related Loot-11342-1-2.rar](https://www.nexusmods.com/skyrimspecialedition/mods/11342/?tab=files&file_id=32126)
-*  [loot_0.15.1-0-g82c756e_master.7z](https://github.com/loot/loot/releases/download/0.15.1/loot_0.15.1-0-g82c756e_master.7z)
 *  [LootPreventifier.zip](https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LootPreventifier.zip)
 *  [LostDragonist-MO2-Plugins.zip](https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LostDragonist-MO2-Plugins.zip)
 *  [LOTD - Pale Pass Extension-48814-1-2-1619749920.rar](https://www.nexusmods.com/skyrimspecialedition/mods/48814/?tab=files&file_id=200878)
