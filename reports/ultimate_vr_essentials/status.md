@@ -1,10 +1,11 @@
 ## Validation Report - Ultimate VR Essentials (ultimate_vr_essentials)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (770)
+### Valid (769)
 *  [(1) Pine Branches Redone 8K-45294-3-0-1637522602.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45294/?tab=files&file_id=243288)
 *  [1. Majestic Mountains Main File-11052-3-2-1604048751.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=167707)
 *  [1st Person Candlelight Fix-9736-1-0-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9736/?tab=files&file_id=25327)
@@ -474,7 +475,6 @@
 *  [mo2-plugins-1.0.1.zip](https://github.com/deorder/mo2-plugins/archive/1.0.1.zip)
 *  [mo2-plugins-1.1.zip](https://github.com/deorder/mo2-plugins/archive/1.1.zip)
 *  [Mod.Organizer-2.2.2.1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6194/?tab=files&file_id=119741)
-*  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 *  [More Tavern Idles compatibility version-16757-2b-1551481571.zip](https://www.nexusmods.com/skyrimspecialedition/mods/16757/?tab=files&file_id=83449)
 *  [moreHUD VR-33215-1-0-5-1638022018.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33215/?tab=files&file_id=244793)
 *  [Morekvior Main-44600-1-2-1612269871.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44600/?tab=files&file_id=183540)
