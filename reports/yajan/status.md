@@ -2,7 +2,7 @@
 
 
 ### Invalid (1)
-*  [YAJAN.AF.7z](https://github.com/RingComics/yajan/releases/download/AF-v5/YAJAN.AF.7z)
+*  [Mod.Organizer-2.4.0.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.0/Mod.Organizer-2.4.0.7z)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (7548)
@@ -7390,7 +7390,6 @@
 *  [Mines and Caverns-44893-6-2-1615264272.rar](https://www.nexusmods.com/morrowind/mods/44893/?tab=files&file_id=1000023271)
 *  [Mlox user file-48812-2-9-1615922373.7z](https://www.nexusmods.com/morrowind/mods/48812/?tab=files&file_id=1000023400)
 *  [mlox-exe - standalone executable for Windows-43001-0-61.7z](https://www.nexusmods.com/morrowind/mods/43001/?tab=files&file_id=1000004129)
-*  [Mod.Organizer-2.4.0.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.0/Mod.Organizer-2.4.0.7z)
 *  [Modern User Interface-42526-1-0.7z](https://www.nexusmods.com/morrowind/mods/42526/?tab=files&file_id=1000000520)
 *  [More Attentive Guards-48622-1-1-6-1616551246.7z](https://www.nexusmods.com/morrowind/mods/48622/?tab=files&file_id=1000023531)
 *  [More character backgrounds for Merlord's character backgrounds-48076-1-0-1-1589922359.7z](https://www.nexusmods.com/morrowind/mods/48076/?tab=files&file_id=1000018688)
@@ -7552,5 +7551,6 @@
 *  [What Thieves Guild-47728-1-31-1592656468.zip](https://www.nexusmods.com/morrowind/mods/47728/?tab=files&file_id=1000019421)
 *  [Wings of Will-46626-1-1-1556899173.7z](https://www.nexusmods.com/morrowind/mods/46626/?tab=files&file_id=1000014285)
 *  [WIP Improved Cavern Clutter-44321-0-4.7z](https://www.nexusmods.com/morrowind/mods/44321/?tab=files&file_id=1000006838)
+*  [YAJAN.AF.7z](https://github.com/RingComics/yajan/releases/download/AF-v5/YAJAN.AF.7z)
 *  [Yet Another Guard Diversity - Regular-45894-1-9-1608400137.zip](https://www.nexusmods.com/morrowind/mods/45894/?tab=files&file_id=1000022185)
 *  [Yurt Crafting - no MAO needed-47356-1-0-1575555675.7z](https://www.nexusmods.com/morrowind/mods/47356/?tab=files&file_id=1000016438)
