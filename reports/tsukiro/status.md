@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (871)
+### Valid (876)
 *  [---Lucien Replacer SE Younger Face version-38116-1-2-1604513810.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38116/?tab=files&file_id=168611)
 *  [(1) Sharkish Piercings - BHUNP - Base-57131-1-01-1634463636.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235337)
 *  [(1) Sunstarved Tanlines - UUNP-26795-2-0-1580192177.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121531)
@@ -18,7 +18,7 @@
 *  [BHUNP SE] DM BDOR Aquila by Team TAL.7z
 *  [[COCO] Pinup Cheongsam [SE] - BHUNP.7z](https://drive.google.com/uc?id=1L75e_NR6rCrCXK16icDmPOGNcRQSfZuR&export=download)
 *  [00- Demon Hunter Armor - SE-40287-1-1-1599780448.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40287/?tab=files&file_id=160101)
-*  [00-EVW 5.8 AIO-23006-5-8-1638301901.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23006/?tab=files&file_id=245616)
+*  [00-EVW 5.8.2 AIO-23006-5-8-2-1638726071.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23006/?tab=files&file_id=246843)
 *  [02 - Leyenda Skin 4.0 Common Races (Alternative)-10306-4-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10306/?tab=files&file_id=27389)
 *  [02 - Leyenda Skin 4.0 UNP 4K-10306-4-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10306/?tab=files&file_id=27361)
 *  [1_VIGILANT SE v162-11849-1-6-2-1611879722.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11849/?tab=files&file_id=182491)
@@ -116,7 +116,7 @@
 *  [Boreal Boat 2K-47608-1-3-1616949937.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47608/?tab=files&file_id=194176)
 *  [Bow Before The Dead - Draugr Sounds- (ENIGMA REMASTER)-46500-4-3-1614806536.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46500/?tab=files&file_id=189226)
 *  [Bow Before The Dead - Lower Volume Plus Update 5-46500-5-0-1630144803.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46500/?tab=files&file_id=224343)
-*  [Bow Charge Plus-59124-0-3-2-1638398218.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59124/?tab=files&file_id=245918)
+*  [Bow Charge Plus-59124-0-4-1638718991.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59124/?tab=files&file_id=246818)
 *  [Brows by Ellise-87362-1-0.7z](https://www.nexusmods.com/skyrim/mods/87362/?tab=files&file_id=1000257554)
 *  [Brynja - High Poly Female Nord RaceMenu Preset-48186-1-0-1617696309.zip](https://www.nexusmods.com/skyrimspecialedition/mods/48186/?tab=files&file_id=196380)
 *  [Bug Fixes SSE v3-33261-3-1617429109.zip](https://www.nexusmods.com/skyrimspecialedition/mods/33261/?tab=files&file_id=195587)
@@ -478,11 +478,11 @@
 *  Low.ini
 *  [Lucien-20035-1-6-2-1616519910.rar](https://www.nexusmods.com/skyrimspecialedition/mods/20035/?tab=files&file_id=193151)
 *  [Lucy - High poly NORD preset-45901-1-0-1613738882.rar](https://www.nexusmods.com/skyrimspecialedition/mods/45901/?tab=files&file_id=186749)
-*  [Lux - JK's Temple of Talos patch-43158-3-6-1-1637346486.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=242732)
 *  [Lux - Lightweight patch-43158-3-3-1635493014.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=237685)
-*  [Lux - New Gnisis Cornerclub patch update-43158-3-6-1-1638599965.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=246502)
-*  [Lux Orbis-56095-2-1-1636731916.rar](https://www.nexusmods.com/skyrimspecialedition/mods/56095/?tab=files&file_id=240814)
+*  [Lux JK's Temple of Talos missing patch-43158-3-7-1638720897.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=246826)
+*  [Lux Orbis-56095-2-2-1638732106.rar](https://www.nexusmods.com/skyrimspecialedition/mods/56095/?tab=files&file_id=246863)
 *  [Lux-43158-3-6-1-1636731767.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=240813)
+*  [Lux-43158-3-7-1638719143.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=246819)
 *  [MA Windhelm-19428-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19428/?tab=files&file_id=65519)
 *  Maelstrom.7z
 *  [MageArmorScriptFix-58862-1-0-1637563565.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58862/?tab=files&file_id=243411)
@@ -625,7 +625,7 @@
 *  [Scrambled Bugs-43532-14-1633526767.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=233010)
 *  [Scrambled Eggchantments-43532-1-1619468588.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=200347)
 *  ScrappiesMatchmaker - 1.2.zip
-*  [Security Overhaul SKSE - Lock Variations-58224-1-0-1636599424.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58224/?tab=files&file_id=240469)
+*  [Security Overhaul SKSE - Lock Variations-58224-2-0-1638727815.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58224/?tab=files&file_id=246852)
 *  [Seductive Lips HD SE Edition-4864-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/4864/?tab=files&file_id=10149)
 *  [Sekiro's Mortal Blade 1.3-25535-1-3-1558212020.rar](https://www.nexusmods.com/skyrimspecialedition/mods/25535/?tab=files&file_id=92652)
 *  [Septentrional Landscapes 2K-29842-1-3-2-1588173223.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29842/?tab=files&file_id=136963)
@@ -643,6 +643,7 @@
 *  Sexlab Sound FX Hip flap replacer 0.2.rar
 *  SexLab Utility Plus v20211127.7z
 *  SexLab_Extra_Voices_1_5.rar
+*  SexLabFrameworkSE_v163.7z
 *  [Shae - A High Poly Redguard Preset-50727-1-1622647288.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50727/?tab=files&file_id=206947)
 *  [Sharpen Other Swords-52723-0-1-1627037518.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52723/?tab=files&file_id=216135)
 *  [Shield Sisters Re-Imagined UNP-44243-1-0-1610348415.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44243/?tab=files&file_id=178919)
@@ -665,6 +666,7 @@
 *  [skse64_2_00_19.7z](https://skse.silverlock.org/beta/skse64_2_00_19.7z)
 *  [Sky Haven Temple - Gardens-8537-1-2.rar](https://www.nexusmods.com/skyrimspecialedition/mods/8537/?tab=files&file_id=21832)
 *  [Sky Haven Temple - Interior Overhaul and Player Home-9880-1-1.rar](https://www.nexusmods.com/skyrimspecialedition/mods/9880/?tab=files&file_id=37866)
+*  [Sky Idles alternative version-45794-2-0-1638347475.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45794/?tab=files&file_id=245767)
 *  [SkyHUD v090B v4-463-0-90B.zip](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=61422)
 *  [Skyland AIO-34179-2-1-1634535217.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34179/?tab=files&file_id=235560)
 *  [SkyRem - Lora-26732-3-0-2-1630516642.zip](https://www.nexusmods.com/skyrimspecialedition/mods/26732/?tab=files&file_id=225415)
@@ -678,11 +680,12 @@
 *  [Skyrim Souls RE - Updated-27859-2-2-2-1627555490.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27859/?tab=files&file_id=217445)
 *  [Skyrim Unbound Reborn-27962-1-6-14-1635614237.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27962/?tab=files&file_id=237965)
 *  Skyrim_Default.ini
-*  [Skyrim_Particle_Patch_for_ENB-SSE.zip](https://authored-files.wabbajack.org/Skyrim_Particle_Patch_for_ENB-SSE.zip_3e721b61-e21d-44c3-9020-3847f2385c44)
+*  [Skyrim_Particle_Patch_for_ENB-SSE.zip](https://authored-files.wabbajack.org/Skyrim_Particle_Patch_for_ENB-SSE.zip_7fcf03a7-a076-44c4-94e9-34ff058e34af)
 *  Skyrim_SkyrimPrefs.ini
 *  Skyrim.ccc
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
+*  [SkyUI Weapons Pack SE 1.3-37231-1-3-1592760261.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37231/?tab=files&file_id=146790)
 *  [SkyUI_5_2_SE-12604-5-2SE.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12604/?tab=files&file_id=35407)
 *  SL_Advanced_Cum_Stages_v0_3_0b.7z
 *  SLACS repl.v1.5 light mess.7z
@@ -815,6 +818,7 @@
 *  [Unslaad starting requirements-57923-1-0-1636060228.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57923/?tab=files&file_id=239043)
 *  [UNSLAAD Voiced - English Addon SE-11896-2-6-0-1631562568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/11896/?tab=files&file_id=228185)
 *  [Ursine Armor Pack-3905-2-0-1556270846.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3905/?tab=files&file_id=89747)
+*  [Use Telekinesis on Traps - po3's Papyrus Extender Version-59350-0-2-3-1638465335.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59350/?tab=files&file_id=246095)
 *  [Ustengrav - Revisited-33878-1-1-1-1605825106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33878/?tab=files&file_id=170821)
 *  [UVCPC - Umgak's Vokrii Compatibility Patch Compendium-26278-3-0-3-1598375753.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26278/?tab=files&file_id=157587)
 *  [ValmariFacePresetsSE-54188-1-0-1629636669.rar](https://www.nexusmods.com/skyrimspecialedition/mods/54188/?tab=files&file_id=222913)
@@ -846,7 +850,8 @@
 *  [Walking Animation-49981-1-0-1w-1621684264.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49981/?tab=files&file_id=204929)
 *  [Wall mounted dead animals fixes-58511-1-0-1636998454.rar](https://www.nexusmods.com/skyrimspecialedition/mods/58511/?tab=files&file_id=241749)
 *  [Water for ENB-37061-1-52-1637612325.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37061/?tab=files&file_id=243549)
-*  [Water in Wells - mesh-only animated wells-57268-0-5-1-1638134650.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57268/?tab=files&file_id=245225)
+*  [Water in Wash Basins - Alternate-59333-1-2-1638480442.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59333/?tab=files&file_id=246158)
+*  [Water in Wells - mesh-only animated wells-57268-0-6-1638715916.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57268/?tab=files&file_id=246804)
 *  [Water Mod-56520-0-2-2-1637669564.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56520/?tab=files&file_id=243693)
 *  [Waymark - A Road Signs Mod-53333-1-3-1634408149.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53333/?tab=files&file_id=235195)
 *  [Weapon buff by loop 4.46-39189-4-46-1630671337.zip](https://www.nexusmods.com/skyrimspecialedition/mods/39189/?tab=files&file_id=225789)
