@@ -648,7 +648,7 @@
 *  [Scrambled Eggchantments-43532-1-1619468588.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=200347)
 *  [SD's Farmhouse Fences Texture Patch-38150-0-1-1596660827.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38150/?tab=files&file_id=153943)
 *  [SD's Horn Candles SE 1k-40192-1-0-1599485980.zip](https://www.nexusmods.com/skyrimspecialedition/mods/40192/?tab=files&file_id=159547)
-*  [Security Overhaul SKSE - Lock Variations-58224-1-0-1636599424.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58224/?tab=files&file_id=240469)
+*  [Security Overhaul SKSE - Lock Variations-58224-2-0-1638727815.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58224/?tab=files&file_id=246852)
 *  [Sensible Bribes-55450-1-0-1631440752.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55450/?tab=files&file_id=227830)
 *  [Serana's Hood Fix-20243-3-1-0-1627660653.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20243/?tab=files&file_id=217670)
 *  [SeranasTombBloodCurse SE v1.1-26852-1-1-1561201783.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26852/?tab=files&file_id=96871)
