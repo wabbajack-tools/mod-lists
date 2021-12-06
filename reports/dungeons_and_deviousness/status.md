@@ -1,13 +1,10 @@
 ## Validation Report - Dungeons & Deviousness: Director's Cut (dungeons_and_deviousness)
 
 
-### Invalid (3)
-*  1233575648_SLAL_Billyy_Animationsv5.0SE.zip
-*  SexLab-Separate-Orgasm-SE-1.7.4 SL1.63b9.7z
-*  SLSFFameComments v3.0 SE.7z
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (914)
+### Valid (917)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
@@ -26,6 +23,7 @@
 *  [1. Majestic Mountains Main File-11052-3-2-1604048751.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=167707)
 *  1029229006_BakaFactoryABCLESE.7z
 *  [1420278612_SexLabParasitesSE2021-07-31.7z](https://mega.nz/file/obZj0QKK#CcTaWCv4YqxFKKWF_bRs-uzih4_iFpU-AWIqvMhAhWM)
+*  1912605708_SLAL_Billyy_Animationsv5.1SE.zip
 *  [2K Alchemy Table ONLY-16446-1-1-1611138530.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16446/?tab=files&file_id=180669)
 *  [2K ElSopa HD - Dirt Blast-22342-1-0-1546570565.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22342/?tab=files&file_id=77145)
 *  [2K Enchanting Table ONLY-16446-1-1-1611305246.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16446/?tab=files&file_id=181009)
@@ -724,6 +722,7 @@
 *  SexLab Solutions v3 - Revisited.7z
 *  Sexlab Survival SSE 0.662 Beta.7z
 *  [SexLab v163-Beta9 WJ Fork.zip](https://github.com/ForgottenGlory/SexLab/releases/download/Beta9/SexLab.v163-Beta9.WJ.Fork.zip)
+*  SexLab-Separate-Orgasm-SE-1.7.4.1 SL1.63.7z
 *  Sexy Starting Options SE v1.0.1.7z
 *  [Shandar-8204-3-0-1-1601608297.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8204/?tab=files&file_id=163537)
 *  [Shelak-46031-1-1613967156.rar](https://www.nexusmods.com/skyrimspecialedition/mods/46031/?tab=files&file_id=187347)
@@ -774,6 +773,7 @@
 *  SLAL_SE.7z
 *  [Sleep to Level Up-32357-1-4-0-1604218369.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32357/?tab=files&file_id=168114)
 *  [SLO - Stone Walls Collision Fix-34082-1-0-1585359247.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34082/?tab=files&file_id=130919)
+*  SLSFFameComments v3.1 SE.7z
 *  SLSO Estrus Chaurus+ v4.346.7z
 *  SLWidgets 1.1.0 (SE).7z
 *  [Smart Cast SSE Patch-32847-1-0-1582183378.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32847/?tab=files&file_id=124845)
