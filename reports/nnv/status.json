@@ -1,8 +1,8 @@
 {
   "MachineURL": "nnv",
   "Name": "No, Not Vegas",
-  "Version": "1.3.1",
-  "ModListHash": "toeVfDgRkBI=",
+  "Version": "1.3.2",
+  "ModListHash": "LOkXqQpSUkc=",
   "Archives": [
     {
       "Status": "Valid",
@@ -4119,6 +4119,27 @@
           "ModID": 65906,
           "Name": "Console Paste Support",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "M/NtB6rGCq0=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=72317\nfileID=1000076041",
+        "Name": "Crash Logger-72317-3-0-0-1621016750.zip",
+        "Size": 10893,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DavidJCobb and llde",
+          "Description": "A DLL that logs raw crash data -- the instruction pointer, x86 register values, and an attempt at identifying the source DLL (and instruction pointer relative to its module base).",
+          "FileID": 1000076041,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/72317/72317-1621016898-1404992206.png",
+          "IsNSFW": false,
+          "ModID": 72317,
+          "Name": "Crash Logger",
+          "Version": "3.0.0.0"
         }
       }
     },
