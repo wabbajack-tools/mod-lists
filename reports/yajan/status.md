@@ -1,4 +1,4 @@
-## Validation Report - You Are Just A N'wah (yajan)
+## Validation Report - You Are Just an N'wah (yajan)
 
 
 ### Invalid (0)

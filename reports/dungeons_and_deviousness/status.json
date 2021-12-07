@@ -1,8 +1,8 @@
 {
   "MachineURL": "dungeons_and_deviousness",
   "Name": "Dungeons \u0026 Deviousness: Director\u0027s Cut",
-  "Version": "2.3.0",
-  "ModListHash": "BukJPG9DcY4=",
+  "Version": "2.3.5",
+  "ModListHash": "remG8MBmoxA=",
   "Archives": [
     {
       "Status": "Valid",
@@ -149,13 +149,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "NlU2TxgbfKE=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0463.zip_0eba6cb9-ace6-439c-aa69-cd9f8054df28",
-        "Name": "enbseries_skyrimse_v0463.zip",
-        "Size": 4250025,
+        "Hash": "oxC/Q7bUIcY=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0465.zip_ec62a01c-ab3f-46b7-bf5f-a9aee88f3ede",
+        "Name": "enbseries_skyrimse_v0465.zip",
+        "Size": 4259629,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0463.zip_0eba6cb9-ace6-439c-aa69-cd9f8054df28"
+          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0465.zip_ec62a01c-ab3f-46b7-bf5f-a9aee88f3ede"
         }
       }
     },
@@ -469,6 +469,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "q9Ui/3RLFGY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=24127\nfileID=165763",
+        "Name": "Administer Potions to NPCs SE-24127-2-0-1602878388.7z",
+        "Size": 11575,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AndrealphusVIII",
+          "Description": "This mod adds a lesser power which allows you to administer potions and poisons to friendly NPCs, to buff or heal them.",
+          "FileID": 165763,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/24127/24127-1552744175-44191261.jpeg",
+          "IsNSFW": false,
+          "ModID": 24127,
+          "Name": "Administer Potions and Poisons to Friendly NPCs",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "+F9rk8e+EWo=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=16117\nfileID=50272",
         "Name": "Aequinoctium Addon for Obsidian-16117-1-1.7z",
@@ -546,7 +567,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50307/50307-1626608069-215982230.png",
           "IsNSFW": false,
           "ModID": 50307,
-          "Name": "Alternate Perspective",
+          "Name": "Alternate Perspective - Prologue Retold",
           "Version": "2.3.1.0"
         }
       }
@@ -619,7 +640,7 @@
           "Description": "This mod changes several quests, giving them higher requirements for objectives to be fullfilled.",
           "FileID": 101832,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27939/27939-1615331249-444875491.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27939/27939-1632515727-466822465.png",
           "IsNSFW": false,
           "ModID": 27939,
           "Name": "Andrealphus\u0027 Harder Quests",
@@ -1152,14 +1173,22 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PZzG8YWiumY=",
-        "Meta": "[General]\ndirectURL=https://www.patreon.com/file?h=22802542\u0026i=8938266",
-        "Name": "BakaFactory ABC LE SE 2.30V.7z",
-        "Size": 151461285,
+        "Hash": "yd581c8UsYw=",
+        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=7556\nips4File=1029229006_BakaFactoryABCLESE.7z",
+        "Name": "1029229006_BakaFactoryABCLESE.7z",
+        "Size": 165692495,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://www.patreon.com/file?h=22802542\u0026i=8938266"
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
+          "Author": "factoryclose",
+          "Description": "",
+          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2019_01/ezgif.com-video-to-gif.gif.c635f1f3d36150c03882b28e0b4fd5c7.gif",
+          "IPS4File": "1029229006_BakaFactoryABCLESE.7z",
+          "IPS4Mod": 7556,
+          "IPS4Url": "https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/",
+          "IsAttachment": false,
+          "IsNSFW": true,
+          "Name": "Animated Beast\u0027s Cocks(ABC) For users LE / SE",
+          "Version": "2.41V"
         }
       }
     },
@@ -1357,21 +1386,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/9ASQeeYZGQ=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=3999\nips4File=1243369920_SLAL_Billyy_Animationsv4.9SE.zip",
-        "Name": "1243369920_SLAL_Billyy_Animationsv4.9SE.zip",
-        "Size": 148611835,
+        "Hash": "klGpn52mNUM=",
+        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=3999\nips4File=1912605708_SLAL_Billyy_Animationsv5.1SE.zip",
+        "Name": "1912605708_SLAL_Billyy_Animationsv5.1SE.zip",
+        "Size": 151303922,
         "State": {
           "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "Billyy",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2018_08/1844895303_Draugr3pCG(1).jpg.363ad64376ff9e7def7fe03c4c15eaa2.jpg",
-          "IPS4File": "1243369920_SLAL_Billyy_Animationsv4.9SE.zip",
+          "IPS4File": "1912605708_SLAL_Billyy_Animationsv5.1SE.zip",
           "IPS4Mod": 3999,
-          "IPS4Url": "https://www.loverslab.com/files/file/3999-billyys-slal-animations-2021-10-1/",
+          "IPS4Url": "https://www.loverslab.com/files/file/3999-billyys-slal-animations-2021-11-1/",
           "IsAttachment": false,
           "IsNSFW": true,
-          "Name": "Billyy\u0027s SLAL Animations (2021-10-1)",
+          "Name": "Billyy\u0027s SLAL Animations (2021-11-1)",
           "Version": ""
         }
       }
@@ -1449,13 +1478,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "BlubboDE",
-          "Description": "A little mod that adds trees in Whiterun.\n\n\n\nTwo versions are available. One, for the standard Whiterun and one for JKs Whiterun.",
+          "Description": "",
           "FileID": 76928,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22291/22291-1558900265-446044494.png",
+          "ImageURL": null,
           "IsNSFW": false,
           "ModID": 22291,
-          "Name": "Blubbos Trees in Whiterun",
+          "Name": "",
           "Version": "1.0.0.0"
         }
       }
@@ -1641,7 +1670,7 @@
           "Description": "The CBBE 3BA (3BBB) mod is an Improved version of CBBE SMP.\n\nCBBE 3BA (3BBB) is the 3 Breast Bone Body with improved vagina mesh and repainted the bone weights.\n\nalso provides solutions for users who are interested in performance.",
           "FileID": 196150,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/30174/30174-1572867308-547132148.gif",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/30174/30174-1638318324-2129677732.png",
           "IsNSFW": true,
           "ModID": 30174,
           "Name": "CBBE 3BA (3BBB)",
@@ -1725,7 +1754,7 @@
           "Description": "A texture replacement for the ore veins found in mines and around skyrim. This mod also retextures the mined ores and the ingots.",
           "FileID": 151267,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1306/1306-1569159804-646252978.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1306/1306-1637702049-69850307.jpeg",
           "IsNSFW": false,
           "ModID": 1306,
           "Name": "CC\u0027s Enhanced Ore Veins SSE Edition",
@@ -2769,14 +2798,14 @@
         "Size": 7515200,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Inky84",
-          "Description": "This is a conversion collection of DeserterXs armors for CBBE 3BBB Bodyslide! From Ursine to Newest! YAY!",
+          "Author": "Inky84   Nekomata17",
+          "Description": "This is a conversion collection of DeserterXs armors for 3BA Bodyslide! From Ursine to Newest! YAY!",
           "FileID": 129121,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33690/33690-1584480256-2124162320.png",
           "IsNSFW": true,
           "ModID": 33690,
-          "Name": "DX CBBE 3BBB BodySlide Emporium SSE",
+          "Name": "DX 3BA BodySlide Emporium SSE (DX CBBE 3BBB BodySlide Emporium SSE)",
           "Version": "1.0.0.0.o"
         }
       }
@@ -2790,14 +2819,14 @@
         "Size": 7437499,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Inky84",
-          "Description": "This is a conversion collection of DeserterXs armors for CBBE 3BBB Bodyslide! From Ursine to Newest! YAY!",
+          "Author": "Inky84   Nekomata17",
+          "Description": "This is a conversion collection of DeserterXs armors for 3BA Bodyslide! From Ursine to Newest! YAY!",
           "FileID": 129105,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33690/33690-1584480256-2124162320.png",
           "IsNSFW": true,
           "ModID": 33690,
-          "Name": "DX CBBE 3BBB BodySlide Emporium SSE",
+          "Name": "DX 3BA BodySlide Emporium SSE (DX CBBE 3BBB BodySlide Emporium SSE)",
           "Version": "1.0.0.0.o"
         }
       }
@@ -2811,14 +2840,14 @@
         "Size": 7501469,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Inky84",
-          "Description": "This is a conversion collection of DeserterXs armors for CBBE 3BBB Bodyslide! From Ursine to Newest! YAY!",
+          "Author": "Inky84   Nekomata17",
+          "Description": "This is a conversion collection of DeserterXs armors for 3BA Bodyslide! From Ursine to Newest! YAY!",
           "FileID": 129113,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33690/33690-1584480256-2124162320.png",
           "IsNSFW": true,
           "ModID": 33690,
-          "Name": "DX CBBE 3BBB BodySlide Emporium SSE",
+          "Name": "DX 3BA BodySlide Emporium SSE (DX CBBE 3BBB BodySlide Emporium SSE)",
           "Version": "1.0.0.0.o"
         }
       }
@@ -2832,14 +2861,14 @@
         "Size": 7080854,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Inky84",
-          "Description": "This is a conversion collection of DeserterXs armors for CBBE 3BBB Bodyslide! From Ursine to Newest! YAY!",
+          "Author": "Inky84   Nekomata17",
+          "Description": "This is a conversion collection of DeserterXs armors for 3BA Bodyslide! From Ursine to Newest! YAY!",
           "FileID": 129104,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33690/33690-1584480256-2124162320.png",
           "IsNSFW": true,
           "ModID": 33690,
-          "Name": "DX CBBE 3BBB BodySlide Emporium SSE",
+          "Name": "DX 3BA BodySlide Emporium SSE (DX CBBE 3BBB BodySlide Emporium SSE)",
           "Version": "1.0.0.0.o"
         }
       }
@@ -2853,14 +2882,14 @@
         "Size": 7335830,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Inky84",
-          "Description": "This is a conversion collection of DeserterXs armors for CBBE 3BBB Bodyslide! From Ursine to Newest! YAY!",
+          "Author": "Inky84   Nekomata17",
+          "Description": "This is a conversion collection of DeserterXs armors for 3BA Bodyslide! From Ursine to Newest! YAY!",
           "FileID": 132261,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33690/33690-1584480256-2124162320.png",
           "IsNSFW": true,
           "ModID": 33690,
-          "Name": "DX CBBE 3BBB BodySlide Emporium SSE",
+          "Name": "DX 3BA BodySlide Emporium SSE (DX CBBE 3BBB BodySlide Emporium SSE)",
           "Version": "1.11.0.0"
         }
       }
@@ -2874,14 +2903,14 @@
         "Size": 8675544,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Inky84",
-          "Description": "This is a conversion collection of DeserterXs armors for CBBE 3BBB Bodyslide! From Ursine to Newest! YAY!",
+          "Author": "Inky84   Nekomata17",
+          "Description": "This is a conversion collection of DeserterXs armors for 3BA Bodyslide! From Ursine to Newest! YAY!",
           "FileID": 129577,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33690/33690-1584480256-2124162320.png",
           "IsNSFW": true,
           "ModID": 33690,
-          "Name": "DX CBBE 3BBB BodySlide Emporium SSE",
+          "Name": "DX 3BA BodySlide Emporium SSE (DX CBBE 3BBB BodySlide Emporium SSE)",
           "Version": "1.1.0.0"
         }
       }
@@ -2895,14 +2924,14 @@
         "Size": 7783014,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Inky84",
-          "Description": "This is a conversion collection of DeserterXs armors for CBBE 3BBB Bodyslide! From Ursine to Newest! YAY!",
+          "Author": "Inky84   Nekomata17",
+          "Description": "This is a conversion collection of DeserterXs armors for 3BA Bodyslide! From Ursine to Newest! YAY!",
           "FileID": 129579,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33690/33690-1584480256-2124162320.png",
           "IsNSFW": true,
           "ModID": 33690,
-          "Name": "DX CBBE 3BBB BodySlide Emporium SSE",
+          "Name": "DX 3BA BodySlide Emporium SSE (DX CBBE 3BBB BodySlide Emporium SSE)",
           "Version": "1.1.0.0"
         }
       }
@@ -2916,14 +2945,14 @@
         "Size": 12598909,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Inky84",
-          "Description": "This is a conversion collection of DeserterXs armors for CBBE 3BBB Bodyslide! From Ursine to Newest! YAY!",
+          "Author": "Inky84   Nekomata17",
+          "Description": "This is a conversion collection of DeserterXs armors for 3BA Bodyslide! From Ursine to Newest! YAY!",
           "FileID": 129114,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33690/33690-1584480256-2124162320.png",
           "IsNSFW": true,
           "ModID": 33690,
-          "Name": "DX CBBE 3BBB BodySlide Emporium SSE",
+          "Name": "DX 3BA BodySlide Emporium SSE (DX CBBE 3BBB BodySlide Emporium SSE)",
           "Version": "1.0.0.0.o"
         }
       }
@@ -2937,14 +2966,14 @@
         "Size": 30001182,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Inky84",
-          "Description": "This is a conversion collection of DeserterXs armors for CBBE 3BBB Bodyslide! From Ursine to Newest! YAY!",
+          "Author": "Inky84   Nekomata17",
+          "Description": "This is a conversion collection of DeserterXs armors for 3BA Bodyslide! From Ursine to Newest! YAY!",
           "FileID": 135302,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33690/33690-1584480256-2124162320.png",
           "IsNSFW": true,
           "ModID": 33690,
-          "Name": "DX CBBE 3BBB BodySlide Emporium SSE",
+          "Name": "DX 3BA BodySlide Emporium SSE (DX CBBE 3BBB BodySlide Emporium SSE)",
           "Version": "1.0.0.0.o"
         }
       }
@@ -2958,14 +2987,14 @@
         "Size": 11234760,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Inky84",
-          "Description": "This is a conversion collection of DeserterXs armors for CBBE 3BBB Bodyslide! From Ursine to Newest! YAY!",
+          "Author": "Inky84   Nekomata17",
+          "Description": "This is a conversion collection of DeserterXs armors for 3BA Bodyslide! From Ursine to Newest! YAY!",
           "FileID": 129122,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33690/33690-1584480256-2124162320.png",
           "IsNSFW": true,
           "ModID": 33690,
-          "Name": "DX CBBE 3BBB BodySlide Emporium SSE",
+          "Name": "DX 3BA BodySlide Emporium SSE (DX CBBE 3BBB BodySlide Emporium SSE)",
           "Version": "1.0.0.0.o"
         }
       }
@@ -2979,14 +3008,14 @@
         "Size": 195870831,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Inky84",
-          "Description": "This is a conversion collection of DeserterXs armors for CBBE 3BBB Bodyslide! From Ursine to Newest! YAY!",
+          "Author": "Inky84   Nekomata17",
+          "Description": "This is a conversion collection of DeserterXs armors for 3BA Bodyslide! From Ursine to Newest! YAY!",
           "FileID": 156152,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33690/33690-1584480256-2124162320.png",
           "IsNSFW": true,
           "ModID": 33690,
-          "Name": "DX CBBE 3BBB BodySlide Emporium SSE",
+          "Name": "DX 3BA BodySlide Emporium SSE (DX CBBE 3BBB BodySlide Emporium SSE)",
           "Version": "1.0.0.0.o"
         }
       }
@@ -3000,14 +3029,14 @@
         "Size": 36688463,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Inky84",
-          "Description": "This is a conversion collection of DeserterXs armors for CBBE 3BBB Bodyslide! From Ursine to Newest! YAY!",
+          "Author": "Inky84   Nekomata17",
+          "Description": "This is a conversion collection of DeserterXs armors for 3BA Bodyslide! From Ursine to Newest! YAY!",
           "FileID": 146224,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33690/33690-1584480256-2124162320.png",
           "IsNSFW": true,
           "ModID": 33690,
-          "Name": "DX CBBE 3BBB BodySlide Emporium SSE",
+          "Name": "DX 3BA BodySlide Emporium SSE (DX CBBE 3BBB BodySlide Emporium SSE)",
           "Version": "1.0.0.0.o"
         }
       }
@@ -3021,14 +3050,14 @@
         "Size": 7720971,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Inky84",
-          "Description": "This is a conversion collection of DeserterXs armors for CBBE 3BBB Bodyslide! From Ursine to Newest! YAY!",
+          "Author": "Inky84   Nekomata17",
+          "Description": "This is a conversion collection of DeserterXs armors for 3BA Bodyslide! From Ursine to Newest! YAY!",
           "FileID": 129123,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33690/33690-1584480256-2124162320.png",
           "IsNSFW": true,
           "ModID": 33690,
-          "Name": "DX CBBE 3BBB BodySlide Emporium SSE",
+          "Name": "DX 3BA BodySlide Emporium SSE (DX CBBE 3BBB BodySlide Emporium SSE)",
           "Version": "1.0.0.0.o"
         }
       }
@@ -3042,14 +3071,14 @@
         "Size": 8566444,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Inky84",
-          "Description": "This is a conversion collection of DeserterXs armors for CBBE 3BBB Bodyslide! From Ursine to Newest! YAY!",
+          "Author": "Inky84   Nekomata17",
+          "Description": "This is a conversion collection of DeserterXs armors for 3BA Bodyslide! From Ursine to Newest! YAY!",
           "FileID": 130850,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33690/33690-1584480256-2124162320.png",
           "IsNSFW": true,
           "ModID": 33690,
-          "Name": "DX CBBE 3BBB BodySlide Emporium SSE",
+          "Name": "DX 3BA BodySlide Emporium SSE (DX CBBE 3BBB BodySlide Emporium SSE)",
           "Version": "1.11.0.0"
         }
       }
@@ -3063,14 +3092,14 @@
         "Size": 7052501,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Inky84",
-          "Description": "This is a conversion collection of DeserterXs armors for CBBE 3BBB Bodyslide! From Ursine to Newest! YAY!",
+          "Author": "Inky84   Nekomata17",
+          "Description": "This is a conversion collection of DeserterXs armors for 3BA Bodyslide! From Ursine to Newest! YAY!",
           "FileID": 130852,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33690/33690-1584480256-2124162320.png",
           "IsNSFW": true,
           "ModID": 33690,
-          "Name": "DX CBBE 3BBB BodySlide Emporium SSE",
+          "Name": "DX 3BA BodySlide Emporium SSE (DX CBBE 3BBB BodySlide Emporium SSE)",
           "Version": "1.11.0.0"
         }
       }
@@ -3084,14 +3113,14 @@
         "Size": 13616778,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Inky84",
-          "Description": "This is a conversion collection of DeserterXs armors for CBBE 3BBB Bodyslide! From Ursine to Newest! YAY!",
+          "Author": "Inky84   Nekomata17",
+          "Description": "This is a conversion collection of DeserterXs armors for 3BA Bodyslide! From Ursine to Newest! YAY!",
           "FileID": 129582,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33690/33690-1584480256-2124162320.png",
           "IsNSFW": true,
           "ModID": 33690,
-          "Name": "DX CBBE 3BBB BodySlide Emporium SSE",
+          "Name": "DX 3BA BodySlide Emporium SSE (DX CBBE 3BBB BodySlide Emporium SSE)",
           "Version": "1.1.0.0"
         }
       }
@@ -3105,14 +3134,14 @@
         "Size": 18315923,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Inky84",
-          "Description": "This is a conversion collection of DeserterXs armors for CBBE 3BBB Bodyslide! From Ursine to Newest! YAY!",
+          "Author": "Inky84   Nekomata17",
+          "Description": "This is a conversion collection of DeserterXs armors for 3BA Bodyslide! From Ursine to Newest! YAY!",
           "FileID": 129585,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33690/33690-1584480256-2124162320.png",
           "IsNSFW": true,
           "ModID": 33690,
-          "Name": "DX CBBE 3BBB BodySlide Emporium SSE",
+          "Name": "DX 3BA BodySlide Emporium SSE (DX CBBE 3BBB BodySlide Emporium SSE)",
           "Version": "1.1.0.0"
         }
       }
@@ -3126,14 +3155,14 @@
         "Size": 6459136,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Inky84",
-          "Description": "This is a conversion collection of DeserterXs armors for CBBE 3BBB Bodyslide! From Ursine to Newest! YAY!",
+          "Author": "Inky84   Nekomata17",
+          "Description": "This is a conversion collection of DeserterXs armors for 3BA Bodyslide! From Ursine to Newest! YAY!",
           "FileID": 130851,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33690/33690-1584480256-2124162320.png",
           "IsNSFW": true,
           "ModID": 33690,
-          "Name": "DX CBBE 3BBB BodySlide Emporium SSE",
+          "Name": "DX 3BA BodySlide Emporium SSE (DX CBBE 3BBB BodySlide Emporium SSE)",
           "Version": "1.11.0.0"
         }
       }
@@ -3147,14 +3176,14 @@
         "Size": 6492289,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Inky84",
-          "Description": "This is a conversion collection of DeserterXs armors for CBBE 3BBB Bodyslide! From Ursine to Newest! YAY!",
+          "Author": "Inky84   Nekomata17",
+          "Description": "This is a conversion collection of DeserterXs armors for 3BA Bodyslide! From Ursine to Newest! YAY!",
           "FileID": 129101,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33690/33690-1584480256-2124162320.png",
           "IsNSFW": true,
           "ModID": 33690,
-          "Name": "DX CBBE 3BBB BodySlide Emporium SSE",
+          "Name": "DX 3BA BodySlide Emporium SSE (DX CBBE 3BBB BodySlide Emporium SSE)",
           "Version": "1.0.0.0.o"
         }
       }
@@ -3168,14 +3197,14 @@
         "Size": 12227511,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Inky84",
-          "Description": "This is a conversion collection of DeserterXs armors for CBBE 3BBB Bodyslide! From Ursine to Newest! YAY!",
+          "Author": "Inky84   Nekomata17",
+          "Description": "This is a conversion collection of DeserterXs armors for 3BA Bodyslide! From Ursine to Newest! YAY!",
           "FileID": 129589,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33690/33690-1584480256-2124162320.png",
           "IsNSFW": true,
           "ModID": 33690,
-          "Name": "DX CBBE 3BBB BodySlide Emporium SSE",
+          "Name": "DX 3BA BodySlide Emporium SSE (DX CBBE 3BBB BodySlide Emporium SSE)",
           "Version": "1.1.0.0"
         }
       }
@@ -4396,7 +4425,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33102-1-1362940589.jpg",
           "IsNSFW": true,
           "ModID": 12832,
-          "Name": "EstrusForSkyrimSE_VR",
+          "Name": "EstrusForSkyrimSE_AE_VR",
           "Version": "2.5.0.0b"
         }
       }
@@ -4733,22 +4762,22 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "1GqA33nU6oI=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=13464\nips4File=FurnitureMarkerSex v0_13 SE.zip",
-        "Name": "FurnitureMarkerSex v0_13 SE.zip",
-        "Size": 489520,
+        "Hash": "Msr37xOKLqM=",
+        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=13464\nips4File=FurnitureMarkerSex v0_14_2 SE.zip",
+        "Name": "FurnitureMarkerSex v0_14_2 SE.zip",
+        "Size": 490072,
         "State": {
           "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "shyguy570",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2020_07/ScreenShot124.jpg.740f88309c949f5a68edd33b91f80b18.jpg",
-          "IPS4File": "FurnitureMarkerSex v0_13 SE.zip",
+          "IPS4File": "FurnitureMarkerSex v0_14_2 SE.zip",
           "IPS4Mod": 13464,
           "IPS4Url": "https://www.loverslab.com/files/file/13464-furniture-sex-framework/",
           "IsAttachment": false,
           "IsNSFW": true,
           "Name": "Furniture Sex Framework",
-          "Version": "0.13"
+          "Version": "0.14.2"
         }
       }
     },
@@ -4827,7 +4856,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DrPharmDawg",
-          "Description": "Genders in Skyrim serve no (non-aesthetic) purpose. This is a light mod that aims to change this in a lore-friendly manner.",
+          "Description": "Genders in Skyrim serve no [non-aesthetic] purpose. This is a simple mod that aims to change that in a non-intrusive, non-game-breaking, yet lore-friendly manner.",
           "FileID": 172265,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23145/23145-1549231839-1602954658.png",
@@ -6627,22 +6656,22 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "AfcV46FQw6g=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=6103\nips4File=Milk-Mod-Economy-Scripts-20210209.7z",
-        "Name": "Milk-Mod-Economy-Scripts-20210209.7z",
-        "Size": 4863764,
+        "Hash": "HwHaOLfvEFQ=",
+        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=1382\nips4File=Milk-Mod-Economy-Scripts-20211102.7z",
+        "Name": "Milk-Mod-Economy-Scripts-20211102.7z",
+        "Size": 4861258,
         "State": {
           "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "Ed86",
           "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2018_06/MilkLogo.jpg.392983da7b995410bee6d95b3002f591.jpg",
-          "IPS4File": "Milk-Mod-Economy-Scripts-20210209.7z",
-          "IPS4Mod": 6103,
-          "IPS4Url": "https://www.loverslab.com/files/file/6103-milk-mod-economy-se/",
+          "ImageURL": "https://static.loverslab.com/screenshots/83a902924d32bcdac56850b41a5ff7ee-milklogo.jpg",
+          "IPS4File": "Milk-Mod-Economy-Scripts-20211102.7z",
+          "IPS4Mod": 1382,
+          "IPS4Url": "https://www.loverslab.com/files/file/1382-milk-mod-economy/",
           "IsAttachment": false,
           "IsNSFW": true,
-          "Name": "Milk Mod Economy SE",
-          "Version": "09-02-2021"
+          "Name": "Milk Mod Economy",
+          "Version": "02-11-2021"
         }
       }
     },
@@ -7141,7 +7170,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17214-1-1337259335.jpg",
           "IsNSFW": false,
           "ModID": 1432,
-          "Name": "No Spinning Death Animation",
+          "Name": "No Spinning Death Animation SE",
           "Version": "0.0.0.0"
         }
       }
@@ -7303,13 +7332,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Maydragon75",
-          "Description": "Driven by an endless thirst for knowledge, and a need to unravel all of the mysteries of Nirn Nykal, an ancient and powerful vampire, recently arrived in Solitude and is staying at the Winking Skeever Inn. Curiosity will cause him to agree to join you on your adventures.",
+          "Description": "",
           "FileID": 29149,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/10052-17-1495632860.jpg",
+          "ImageURL": null,
           "IsNSFW": false,
           "ModID": 10052,
-          "Name": "Nykal the master vampire - a standalone follower mod",
+          "Name": "",
           "Version": "1.1.0.0a"
         }
       }
@@ -8095,7 +8124,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ld50365",
-          "Description": "Redspire Manor is a Mulitple Adoption/Lore Friendly Player Home Located in Raven Rock in Solstheim, it includes plenty of safe Storage, Display Areas for all the Black Books, Elder Scrolls, Dragon Priest Masks, Claws and Paragons, Armory Area with Plenty of Armor Mannequins, 6 Beds for Children, 6 Beds for Followers, A New In-House Merchant ",
+          "Description": "Redspire Manor is a Mulitple Adoption/Lore Friendly Player Home Located in Raven Rock in Solstheim, it includes plenty of safe Storage, Display Areas for all the Black Books, Elder Scrolls, Dragon Priest Masks, Claws and Paragons, Armory Area with Plenty of Armor Mannequins, 6 Beds for Children, 6 Beds for Followers, A New In-House Merchant",
           "FileID": 3388,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/52022-1-1407535788.png",
@@ -8221,7 +8250,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sakora",
-          "Description": "Sakora\u0027s Make Over Kit SKSE64 adds 19 New Layerable Warpaints, 7 New Eyeshadows, 3 New Eyeliners, 1 New Contour, 1 New Highlighter, 1 New Lip Stick, 1 New Blush",
+          "Description": "Sakora\u0027s Make Over Kit SKSE64 adds 19 New Layerable Warpaints, 7 New Eyeshadows, 4 New Eyeliners, 2 New Contour, 1 New Highlighter, 1 New Lip Stick, 1 New Blush",
           "FileID": 76664,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22169/22169-1546043597-807389649.png",
@@ -8408,22 +8437,22 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Q/ATPsrbzCQ=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=5929\nips4File=SexLab-Separate-Orgasm-SE-1.7.3 SL1.63b9.7z",
-        "Name": "SexLab-Separate-Orgasm-SE-1.7.3 SL1.63b9.7z",
-        "Size": 139026,
+        "Hash": "a+9AhKH2Wkk=",
+        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=5929\nips4File=SexLab-Separate-Orgasm-SE-1.7.4.1 SL1.63.7z",
+        "Name": "SexLab-Separate-Orgasm-SE-1.7.4.1 SL1.63.7z",
+        "Size": 140210,
         "State": {
           "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "Ed86",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2018_05/0mcm.jpg.a5d8937014078349975af0845147cf36.jpg",
-          "IPS4File": "SexLab-Separate-Orgasm-SE-1.7.3 SL1.63b9.7z",
+          "IPS4File": "SexLab-Separate-Orgasm-SE-1.7.4.1 SL1.63.7z",
           "IPS4Mod": 5929,
           "IPS4Url": "https://www.loverslab.com/files/file/5929-sexlab-separate-orgasm-se/",
           "IsAttachment": false,
           "IsNSFW": true,
           "Name": "SexLab Separate Orgasm SE",
-          "Version": "1.7.3"
+          "Version": "1.7.4.1"
         }
       }
     },
@@ -8833,7 +8862,7 @@
         "Size": 20309969,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Lrsamways",
+          "Author": "EngineersLogic",
           "Description": "A medium to large player home situated in its own secluded cavern near Falkreath and crammed with features. The home is adoption/spouse.",
           "FileID": 15899,
           "GameName": "SkyrimSpecialEdition",
@@ -8854,7 +8883,7 @@
         "Size": 222206,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Lrsamways",
+          "Author": "EngineersLogic",
           "Description": "A medium to large player home situated in its own secluded cavern near Falkreath and crammed with features. The home is adoption/spouse.",
           "FileID": 17578,
           "GameName": "SkyrimSpecialEdition",
@@ -9074,22 +9103,22 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8+LQg+4MhpY=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=14089\nips4File=SLSFFameComments v3.0 SE.7z",
-        "Name": "SLSFFameComments v3.0 SE.7z",
-        "Size": 395945,
+        "Hash": "iEihFAJDSrc=",
+        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=14089\nips4File=SLSFFameComments v3.1 SE.7z",
+        "Name": "SLSFFameComments v3.1 SE.7z",
+        "Size": 452611,
         "State": {
           "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "Gristle",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2020_10/1419786182_SLSFFameComments2.png.84e67392ca9d505360443795d16d1bf7.png",
-          "IPS4File": "SLSFFameComments v3.0 SE.7z",
+          "IPS4File": "SLSFFameComments v3.1 SE.7z",
           "IPS4Mod": 14089,
           "IPS4Url": "https://www.loverslab.com/files/file/14089-slsf-fame-comments-se/",
           "IsAttachment": false,
           "IsNSFW": true,
           "Name": "SLSF Fame Comments SE",
-          "Version": "3.01"
+          "Version": "3.1"
         }
       }
     },
@@ -9679,22 +9708,22 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Wj1J1sMPGf4=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=19735\nips4File=Transformative Elixirs v1.0.0.7z",
-        "Name": "Transformative Elixirs v1.0.0.7z",
-        "Size": 7876,
+        "Hash": "eZM2tu4aIrk=",
+        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=19735\nips4File=Transformative Elixirs v1.1.0.7z",
+        "Name": "Transformative Elixirs v1.1.0.7z",
+        "Size": 9768,
         "State": {
           "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "ForgottenGlory",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2021_10/TFEPicture.png.68cfde02a2543db16d7298069dd6f003.png",
-          "IPS4File": "Transformative Elixirs v1.0.0.7z",
+          "IPS4File": "Transformative Elixirs v1.1.0.7z",
           "IPS4Mod": 19735,
           "IPS4Url": "https://www.loverslab.com/files/file/19735-transformative-elixirs/",
           "IsAttachment": false,
           "IsNSFW": true,
           "Name": "Transformative Elixirs",
-          "Version": "1.0.0"
+          "Version": "1.1.0"
         }
       }
     },
@@ -9812,7 +9841,7 @@
         "Size": 240202610,
         "State": {
           "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "m4mk203",
+          "Author": "TRX_Trixter",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2020_10/479582320_TheElderScrollsVSkyrimSpecialEditionScreenshot2020_10.15-04_37.26_10.png.d4266245a2b3e5cd71cd42485c09efa7.png",
           "IPS4File": "TRX_COW_GIRL_2_1_Main.7z",
@@ -10978,13 +11007,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5hKA3MnukjA=",
-        "Meta": "[General]\ndirectURL=https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg",
-        "Name": "xLODGen.83.7z",
-        "Size": 15175790,
+        "Hash": "I6EB0F4LS8o=",
+        "Meta": "[General]\ndirectURL=https://mega.nz/file/kNRCHRDY#ONIMDnlxyyBH-QsSUgatbQJWOgGGrr8F8bxWD_-bSGc",
+        "Name": "xLODGen.85.7z",
+        "Size": 14736564,
         "State": {
           "$type": "MegaDownloader, Wabbajack.Lib",
-          "Url": "https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg"
+          "Url": "https://mega.nz/file/kNRCHRDY#ONIMDnlxyyBH-QsSUgatbQJWOgGGrr8F8bxWD_-bSGc"
         }
       }
     },
@@ -11018,7 +11047,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50307/50307-1626608069-215982230.png",
           "IsNSFW": false,
           "ModID": 50307,
-          "Name": "Alternate Perspective",
+          "Name": "Alternate Perspective - Prologue Retold",
           "Version": "2.3.0.0"
         }
       }
@@ -11229,28 +11258,6 @@
       }
     },
     {
-      "Status": "InValid",
-      "Original": {
-        "Hash": "rgT4GkjzwSA=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=16057\nips4File=Yamete! V3.1.7z",
-        "Name": "Yamete! V3.1.7z",
-        "Size": 250821,
-        "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "Scrab",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2021_01/ScreenShot34.png.05249cb07e7a300ef5ff7b7a92d814e7.png",
-          "IPS4File": "Yamete! V3.1.7z",
-          "IPS4Mod": 16057,
-          "IPS4Url": "https://www.loverslab.com/files/file/16057-yamete/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "Yamete!",
-          "Version": "V3"
-        }
-      }
-    },
-    {
       "Status": "Valid",
       "Original": {
         "Hash": "l9iIQsO9E5M=",
@@ -11402,6 +11409,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "jq+iDHogVqo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=13366\nfileID=114102",
+        "Name": "Inventory Functions SE-13366-0-07-00-1574447405.zip",
+        "Size": 99460,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Quad2Core originally - updated and extended by Kalivore",
+          "Description": "Inventory Functions plugin for SKSE to allow filtering of inventory by Keyword.Originally by Quad2Core, now updated for SKSE-64 (including functions supporting Poisoning, and for getting filtered lists of spells/shouts an actor has)",
+          "FileID": 114102,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/13366/13366-1509892350-1415651772.jpeg",
+          "IsNSFW": false,
+          "ModID": 13366,
+          "Name": "Inventory Functions SE",
+          "Version": "0.7.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "lJcnujE8v9U=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=16495\nfileID=165534",
         "Name": "JContainers SE-16495-4-1-13-1602690897.7z",
@@ -11501,7 +11529,7 @@
           "IsAttachment": false,
           "IsNSFW": true,
           "Name": "Milk Mod Economy SE",
-          "Version": "09-02-2021"
+          "Version": "02-11-2021"
         }
       }
     },
@@ -11523,7 +11551,7 @@
           "IsAttachment": false,
           "IsNSFW": true,
           "Name": "Milk Mod Economy SE",
-          "Version": "09-02-2021"
+          "Version": "02-11-2021"
         }
       }
     },
@@ -11736,7 +11764,28 @@
           "IsAttachment": false,
           "IsNSFW": true,
           "Name": "SexLab Separate Orgasm SE",
-          "Version": "1.7.3"
+          "Version": "1.7.4.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HnR1uFzTLUk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=386\nfileID=115926",
+        "Name": "Sovngarde - Mist\u0027s Font Replacer Bold V8.9-386-8-9-1576107205.7z",
+        "Size": 335682,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Koveich",
+          "Description": "Sovngarde is a lore-friendly font replacer I designed by hand based on Skyrim\u0027s title. Supports 8 languages and 2 weights!",
+          "FileID": 115926,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/386/386-1598818175-28512544.jpeg",
+          "IsNSFW": false,
+          "ModID": 386,
+          "Name": "Sovngarde - A Nordic Font",
+          "Version": "8.9.0.0"
         }
       }
     },
@@ -12242,21 +12291,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WIA0cfXHjfQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=21224\nfileID=137375",
-        "Name": "CBPC - Fomod installer - MAIN FILE-21224-1-3-6-1588356165.rar",
-        "Size": 2413024,
+        "Hash": "p24UE0ijoto=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=21224\nfileID=244057",
+        "Name": "CBPC - Fomod installer - MAIN FILE-21224-1-4-4-1637764497.rar",
+        "Size": 35360823,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Shizof",
           "Description": "CBPC - Physics with Collisions for SSE and VR. \n\nBreast-Butt-Belly-Vagina collisions that work out of the box. Player VR Hands and Weapons collisions with them for the VR version.",
-          "FileID": 137375,
+          "FileID": 244057,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21224/21224-1542146879-1527686583.jpeg",
           "IsNSFW": true,
           "ModID": 21224,
           "Name": "CBPC - Physics with Collisions for SSE and VR",
-          "Version": "1.3.6.0"
+          "Version": "1.4.4.0"
         }
       }
     },
@@ -13572,7 +13621,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50129/50129-1623157278-652122102.png",
           "IsNSFW": false,
           "ModID": 50129,
-          "Name": "Skyrim Priority SE - skse plugin",
+          "Name": "Skyrim Priority SE AE - skse plugin",
           "Version": "1.0.0.0"
         }
       }
@@ -13650,7 +13699,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
-          "Description": "SKSE plugin that can be used to add spells/leveled spells/perks/items/leveled items/shouts/packages/outfits to every NPC in the game, using config files.",
+          "Description": "SKSE plugin that can be used to add spells/perks/items/shouts/packages/outfits/keywords/factions to every NPC in the game, using config files.",
           "FileID": 187929,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/36869/36869-1591389125-628593205.png",
@@ -14091,13 +14140,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cunny1975",
-          "Description": "3 retextured salts in 2K. See my Misc Retexture Project for my retextured SMIM ingredients.",
+          "Description": "Fire salts, frost salts and void salts retextured with suitable effects added.",
           "FileID": 97628,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/13981/13981-1561675337-1141239489.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/13981/13981-1635351624-490701914.png",
           "IsNSFW": false,
           "ModID": 13981,
-          "Name": "2K Salts Retextured",
+          "Name": "Retextured Salts with FX",
           "Version": "1.3.0.0"
         }
       }
@@ -14137,7 +14186,7 @@
           "Description": "Here my second preset ! Her name is Adrielle and she is a cute wood elf. Take screenshot with her or use like a base for your own preset ! You can choose directly the preset with Preset tab, or get only the face form with Scult tab -\u0026gt; Import Face. I hope you will enjoy her !",
           "FileID": 163942,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41124/41124-1601849123-373644227.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41124/41124-1637951975-1788515396.png",
           "IsNSFW": true,
           "ModID": 41124,
           "Name": "Adrielle - A High Poly Bosmer Preset",
@@ -16151,7 +16200,7 @@
           "IsAttachment": false,
           "IsNSFW": true,
           "Name": "Milk Mod Economy SE",
-          "Version": "09-02-2021"
+          "Version": "02-11-2021"
         }
       }
     },
@@ -17208,7 +17257,7 @@
         "Size": 228698750,
         "State": {
           "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "m4mk203",
+          "Author": "TRX_Trixter",
           "Description": "",
           "ImageURL": "https://static.loverslab.com/screenshots/monthly_2020_10/479582320_TheElderScrollsVSkyrimSpecialEditionScreenshot2020_10.15-04_37.26_10.png.d4266245a2b3e5cd71cd42485c09efa7.png",
           "IPS4File": "TRX_COW_GIRL_2_1_Textures.7z",
@@ -17420,13 +17469,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "emiiyaa",
-          "Description": "My main Breton Dragonborn, uploaded as a preset by request. Uses High Poly Head.",
+          "Description": "",
           "FileID": 160125,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/40323/40323-1599792833-1435022755.png",
+          "ImageURL": null,
           "IsNSFW": false,
           "ModID": 40323,
-          "Name": "Amalia - A High Poly Female Preset for RaceMenu",
+          "Name": "",
           "Version": "1.0.0.0"
         }
       }
@@ -17672,7 +17721,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Niroku",
-          "Description": "This mod replaces \u0022tri\u0022 files for human and elf female face animation.\n\nThe changes are all about emotional expressions, phonemes and modifers.",
+          "Description": "This mod replaces the facial expression morphing files for humans and elves used by players and NPCs.\n\nThis mod modifies all animations including lips, eyebrows and eye movements and expressions.",
           "FileID": 115524,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19181/19181-1542534574-1077375430.jpeg",
@@ -17693,7 +17742,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Niroku",
-          "Description": "This mod replaces \u0022tri\u0022 files for human and elf male face animation.\n\nThe changes are all about emotional expressions, phonemes and modifers.",
+          "Description": "This mod replaces the facial expression morphing files for humans and elves used by players and NPCs.\n\nThis mod modifies all animations including lips, eyebrows and eye movements and expressions.",
           "FileID": 115593,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19532/93258-1535206907-378630950.jpeg",
@@ -18008,13 +18057,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "eeriechasms",
-          "Description": "Maduia, a dark elf preset with two versions available: Vanilla Head and High Poly Head",
+          "Description": "",
           "FileID": 190547,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46761/46761-1615336056-1002158061.jpeg",
+          "ImageURL": null,
           "IsNSFW": false,
           "ModID": 46761,
-          "Name": "Maduia - Dark Elf Racemenu Preset - Vanilla and High Poly Head Versions",
+          "Name": "",
           "Version": "1.0.0.0"
         }
       }
@@ -18775,13 +18824,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Smooth",
-          "Description": "Why don\u0027t you think about hitting it with a shield?\n\nA shield can also be a great weapon.",
+          "Description": "",
           "FileID": 188353,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46309/46309-1614429578-1739983965.png",
+          "ImageURL": null,
           "IsNSFW": false,
           "ModID": 46309,
-          "Name": "Smooth Shield Power Attack",
+          "Name": "",
           "Version": "1.0.0.0"
         }
       }
@@ -18796,13 +18845,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Smooth",
-          "Description": "Five random expressions of boring unarmed blocking animation",
+          "Description": "",
           "FileID": 179243,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44303/44303-1610513451-454792015.png",
+          "ImageURL": null,
           "IsNSFW": false,
           "ModID": 44303,
-          "Name": "Unarmed Block Animation",
+          "Name": "",
           "Version": "1.0.0.0"
         }
       }
@@ -18829,6 +18878,6 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1
+  "Status": "Available",
+  "Failures": 0
 }

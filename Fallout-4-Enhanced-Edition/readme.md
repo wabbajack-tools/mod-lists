@@ -43,7 +43,7 @@ Make sure `Game` is set to `Fallout 4`.
 `Mod Organizer` should be set to your `F4EEInstall` directory, wherever that is.
 `INI Path` should be set to `ModOrganizer > F4EE 1.2.1`.
 * **Basic**:  
-Here, set your screen's resolution is set properly, and also set your graphical preset. I recommend using BethINI's Ultra preset.
+Here, set your screen's resolution is set properly, and also set your graphical preset. I recommend using BethINI's High preset (I used to recommend Ultra, but it really just hurts performance).
 Ensure that `FPS` is set to `60`. Don't worry, we can get more in game, it just needs to be that way in the INIs.
 Be sure to check the `Recommended Tweaks` Box as well!
 * **General**:  
@@ -56,7 +56,7 @@ If you want your PipBoy Flashlight to be colored a flat white rather than whatev
 Under `Section`, select `Pipboy`.
 Under `Setting`, select `bPipboyEffectColorOnLight`.
 In the text box below, change the `1` to a `0`, and then click `Save`.
-* **Setup**:  
+* **Basic**:  
 Now, hit `Save and Exit` in the bottom right.
 
 ### Step 5:
@@ -71,7 +71,11 @@ You can also choose to install Pack Attack NPC, which is an AI mod that was remo
 
 ### Step 6:
 
-Now, launch your game from `F4SE` in the top left of your MO2! After creating your character, be sure to first set the difficulty to `Survival`, as this list is built entirely for that difficulty. Then, configure the MCM menus found at the top of your pause menu. Follow these steps and you will be good!
+Now, launch your game from `F4SE` in the top left of your MO2! 
+
+If this does not work, please update your MO2 installation. I will fix this in the next update.
+
+After creating your character, be sure to first set the difficulty to `Survival`, as this list is built entirely for that difficulty. Then, configure the MCM menus found at the top of your pause menu. Follow these steps and you will be good!
 
 * **HoloTime**:   
 For `Toggle HoloTime Display`, set it to the `?/` key. Then, click on `Widget Position`, and move the widget to the very top middle of your screen, with `Y` being close to 1, and `X` being close to half of your monitor's resolution width. Then, ensure that scale is `0.5`.
