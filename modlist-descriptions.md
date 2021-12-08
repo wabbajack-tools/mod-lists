@@ -117,15 +117,13 @@ Keizaal also features a more in-depth overview of all its features that can be f
 
 ### [The Phoenix Flavour](https://www.wabbajack.org/#/modlists/info?machineURL=tpf)
 
-Automated installer for [The Phoenix Flavour](https://thephoenixflavour.com/), this is a list that would be considered a Vanilla+ experience and focuses on greatly improved graphics and enhancing existing gameplay mechanics instead of outright replacing them.
+Automated installer for [The Phoenix Flavour](https://thephoenixflavour.com/), this is a list that focuses on greatly improved graphics and enhancing existing gameplay mechanics instead of outright replacing them.
 
 **_Mods to get familiar with:_**
 
 [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191)  
 [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549)  
 [Arena](https://www.nexusmods.com/skyrimspecialedition/mods/33487)  
-
-***
 
 ***
 
