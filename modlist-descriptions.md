@@ -13,6 +13,7 @@
   - [Tales From the Northern Lands](#tales-from-the-northern-lands)
   - [Keizaal](#keizaal)
   - [The Phoenix Flavour](#the-phoenix-flavour)
+  - [Septimus](#septimus)
   - [Living Skyrim](#living-skyrim)
   - [Serenity 2](#serenity-2)
   - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr)
@@ -123,6 +124,18 @@ Automated installer for [The Phoenix Flavour](https://thephoenixflavour.com/), t
 [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191)  
 [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549)  
 [Arena](https://www.nexusmods.com/skyrimspecialedition/mods/33487)  
+
+***
+
+***
+
+### [Septimus](https://www.wabbajack.org/#/modlists/info?machineURL=septimus)
+
+Septimus is an extended version of The Phoenix Flavor with lots of new items, quests, visual tweaks and optional survival elements all built on top of the fantastic base that Phoenix has created. It also has full Anniversary Edition support including all the new creation club content for those eager to get right into the new content.
+
+**_Mods to get familiar with:_**
+
+[Mod Guide Here](https://github.com/Guitarninja2/septimus/blob/main/GAMEPLAY.md)
 
 ***
 
