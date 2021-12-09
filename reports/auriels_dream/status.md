@@ -1,4 +1,4 @@
-## Validation Report - Auriel's Dream (auriels_dream)
+## Validation Report - Auriels Dream (auriels_dream)
 
 
 ### Invalid (0)
