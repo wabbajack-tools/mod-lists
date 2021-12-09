@@ -251,7 +251,7 @@
 *  [Spice of Life Vanilla v1-5 Release Candidate.7z](http://www.mediafire.com/file/ln1a2l2th1if8es/Spice_of_Life_Vanilla_v1-5_Release_Candidate.7z/file)
 *  [Stewie Tweaks-66347-6-95-1635697248.zip](https://www.nexusmods.com/newvegas/mods/66347/?tab=files&file_id=1000083369)
 *  [Stewie's Tweaks Overhauls INI.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Stewie's Tweaks Overhauls INI.7z)
-*  [SUP NVSE Plugin-73160-4-25-1635261274.rar](https://www.nexusmods.com/newvegas/mods/73160/?tab=files&file_id=1000083084)
+*  [SUP NVSE Plugin-73160-5-00-1638995397.rar](https://www.nexusmods.com/newvegas/mods/73160/?tab=files&file_id=1000084928)
 *  [Sweet 6 Shooter Perk Pack NV Version-73438-8-1637191685.rar](https://www.nexusmods.com/newvegas/mods/73438/?tab=files&file_id=1000084125)
 *  [Sweet 6 Shooter Perk Pack NV Version-73438-8fix-1638048310.rar](https://www.nexusmods.com/newvegas/mods/73438/?tab=files&file_id=1000084541)
 *  [Tales of New Reno - Episode Zero-62288-1-1589265657.rar](https://www.nexusmods.com/newvegas/mods/62288/?tab=files&file_id=1000061856)
