@@ -1,16 +1,10 @@
 ## Validation Report - Dungeons & Deviousness: Director's Cut (dungeons_and_deviousness)
 
 
-### Invalid (6)
-*  1912605708_SLAL_Billyy_Animationsv5.1SE.zip
-*  Creature Framework 1.1.0-pre2A-SE.7z
-*  Maids II Sexlab Patch SE 1.2.7z
-*  MoreNastyCritters_v12_6SE.7z
-*  Schlongs_of_Skyrim_SE - v1.1.4.rar
-*  SLAL_SE.7z
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (911)
+### Valid (917)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
@@ -29,6 +23,7 @@
 *  [1. Majestic Mountains Main File-11052-3-2-1604048751.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=167707)
 *  1029229006_BakaFactoryABCLESE.7z
 *  [1420278612_SexLabParasitesSE2021-07-31.7z](https://mega.nz/file/obZj0QKK#CcTaWCv4YqxFKKWF_bRs-uzih4_iFpU-AWIqvMhAhWM)
+*  1912605708_SLAL_Billyy_Animationsv5.1SE.zip
 *  [2K Alchemy Table ONLY-16446-1-1-1611138530.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16446/?tab=files&file_id=180669)
 *  [2K ElSopa HD - Dirt Blast-22342-1-0-1546570565.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22342/?tab=files&file_id=77145)
 *  [2K Enchanting Table ONLY-16446-1-1-1611305246.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16446/?tab=files&file_id=181009)
@@ -171,6 +166,7 @@
 *  [Convenient Horses-9519-7-0-1-1558715462.zip](https://www.nexusmods.com/skyrimspecialedition/mods/9519/?tab=files&file_id=93484)
 *  [Copy and Paste in Console v1.0.1 for Skyrim SE-30928-1-0-1-1615644554.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30928/?tab=files&file_id=191247)
 *  [Courageous Women of Skyrim - Rugged Women All-42053-1-1-1605370605.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42053/?tab=files&file_id=170073)
+*  Creature Framework 1.1.0-pre2A-SE.7z
 *  [Crimson Blood Armor-29451-1-0-1570426302.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29451/?tab=files&file_id=109516)
 *  [Critters Aint Snitches v1.0 SSE-15134-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/15134/?tab=files&file_id=45421)
 *  [Cross and Jab SE-24442-1-1-1553454980.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24442/?tab=files&file_id=86100)
@@ -530,6 +526,7 @@
 *  [MagIBadult (A Less Rude Mod edition)-50556-1-1-1622238528.rar](https://www.nexusmods.com/skyrimspecialedition/mods/50556/?tab=files&file_id=206098)
 *  [MAIDS II - Deception and Interesting NPCS (3DNPC) Clipping Patch-48383-1-0-1618086922.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48383/?tab=files&file_id=197381)
 *  [Maids II - Deception-189-5-1-6-1605145198.7z](https://www.nexusmods.com/skyrimspecialedition/mods/189/?tab=files&file_id=169705)
+*  Maids II Sexlab Patch SE 1.2.7z
 *  [Main File v4.0-4423-4-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4423/?tab=files&file_id=58810)
 *  [Majestic Mountains - Northside-27981-2-0-1588623600.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27981/?tab=files&file_id=138094)
 *  [Mammoth.4k-2k-6127-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6127/?tab=files&file_id=54735)
@@ -566,6 +563,7 @@
 *  [More Informative Console 0.42-19250-0-42-1618884468.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=199164)
 *  [moreHUD Inventory Edition Loose Version-18619-1-0-18-1597503401.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18619/?tab=files&file_id=155749)
 *  [moreHUD SE Light Master-12688-4-0-0-5Beta-1612021456.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12688/?tab=files&file_id=182883)
+*  MoreNastyCritters_v12_6SE.7z
 *  [Mornfallow Manor-411-1-0-3.zip](https://www.nexusmods.com/skyrimspecialedition/mods/411/?tab=files&file_id=7624)
 *  [Morrowloot Miscellania - Hybrid Loot-27094-1-0-1-1590074279.rar](https://www.nexusmods.com/skyrimspecialedition/mods/27094/?tab=files&file_id=141251)
 *  [Morrowloot Miscellania - Item Districution-27094-1-4-1608144649.rar](https://www.nexusmods.com/skyrimspecialedition/mods/27094/?tab=files&file_id=174750)
@@ -708,6 +706,7 @@
 *  [SavrenX Silver Elegant Mehrunes Razor-32667-1-00-1582262379.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32667/?tab=files&file_id=125086)
 *  [Saw dust-26577-1-0-1560610919.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26577/?tab=files&file_id=96114)
 *  [ScaleformTranslationPP-22603-1-4-1-1586306055.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22603/?tab=files&file_id=132968)
+*  Schlongs_of_Skyrim_SE - v1.1.4.rar
 *  [Scion - A Vampire Overhaul-41639-1-1-1611509241.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41639/?tab=files&file_id=181534)
 *  SE_SLAM.7z
 *  [Septentrional Landscapes 2K-29842-1-3-2-1588173223.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29842/?tab=files&file_id=136963)
@@ -771,6 +770,7 @@
 *  [SkyUI_5_2_SE-12604-5-2SE.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12604/?tab=files&file_id=35407)
 *  SL - Ayasato Animations 1.1 SLAL SSE.7z
 *  SLAL_AnimationsByLeito_v1.6SE.7z
+*  SLAL_SE.7z
 *  [Sleep to Level Up-32357-1-4-0-1604218369.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32357/?tab=files&file_id=168114)
 *  [SLO - Stone Walls Collision Fix-34082-1-0-1585359247.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34082/?tab=files&file_id=130919)
 *  SLSFFameComments v3.1 SE.7z
