@@ -1,8 +1,8 @@
 {
   "MachineURL": "auriels_dream",
   "Name": "Auriels Dream",
-  "Version": "9.1.0",
-  "ModListHash": "zGptFWEFHKU=",
+  "Version": "9.1.1",
+  "ModListHash": "A/yNM7DSEFI=",
   "Archives": [
     {
       "Status": "Valid",
@@ -15,27 +15,6 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Wypyfdu2/E8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=5804\nfileID=13792",
-        "Name": "9.0.1 A Quality World Map - Vivid with Stone Roads-5804-9-0-1.zip",
-        "Size": 21683072,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "IcePenguin",
-          "Description": "Provides a new set of highly-detailed 3D or paper world map textures, complete with roads! Also adds a detailed Solsteim map.",
-          "FileID": 13792,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/5804-1-1481088259.jpg",
-          "IsNSFW": false,
-          "ModID": 5804,
-          "Name": "A Quality World Map",
-          "Version": "0.0.0.0"
         }
       }
     },
@@ -553,7 +532,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kevkas",
-          "Description": "No more opening every book or checking its value to see if it increases a skill or gives you a quest. This mod renames skill books and quest books so that you can identify them quickly by just hovering with your crosshair. It also renames some journals, notes, and letters with the same purpose.",
+          "Description": "No more opening every book or checking its value to see if it increases a skill or gives you a quest. This mod renames skill books and quest books so that you can identify them quickly by just hovering over them with your crosshair. ESL plugin.",
           "FileID": 11414,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/5260/5260-1623835686-1516122282.png",
@@ -1581,6 +1560,27 @@
           "ModID": 44381,
           "Name": "LOD files for Auriel\u0027s Dream",
           "Version": "9.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "l4s4dSpKSGA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=679\nfileID=3715",
+        "Name": "Elizabeths tower-679-1-0.rar",
+        "Size": 2717,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GoodfellowGoodspring - Elastic Fantastic",
+          "Description": "Increases the size of the Azura Shrine so that its visible from all around Skyrim.",
+          "FileID": 3715,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38472-5-1420570155.jpg",
+          "IsNSFW": false,
+          "ModID": 679,
+          "Name": "Elizabeths Tower - Azura Shrine SSE",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -3001,161 +3001,140 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kvitekvist",
-          "Description": "This mod offers 3 options to adjust skill increase speed.\n\nBalanced\n\nDouble\n\nHalf\n\nPatches for:\n\nOrdinator, Adamant and Vokrii",
+          "Description": "This mod offers 3 options to adjust skill increase speed.\n\nBalanced \n\nDouble \n\nHalf \n\nPatches for: \n\nOrdinator, Adamant and Vokrii",
           "FileID": 246551,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59515/59515-1638623223-1721717438.png",
           "IsNSFW": false,
           "ModID": 59515,
           "Name": "Kvite\u0027s Skill Increase - Rebalanced",
-          "Version": "1.0.0.0"
+          "Version": "3.0.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "gAh6fCfO7fo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59515\nfileID=246642",
-        "Name": "Kvite\u0027s Leveling Rebalanced - Balanced Speed - Adamant-59515-2-1638652730.7z",
-        "Size": 5022,
+        "Hash": "4c/Rj2+XW58=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59515\nfileID=246748",
+        "Name": "Kvite\u0027s Leveling Rebalanced - Balanced Speed - Adamant-59515-3-1638694196.7z",
+        "Size": 5006,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kvitekvist",
-          "Description": "This mod offers 3 options to adjust skill increase speed.\n\nBalanced\n\nDouble\n\nHalf\n\nPatches for:\n\nOrdinator, Adamant and Vokrii",
-          "FileID": 246642,
+          "Description": "This mod offers 3 options to adjust skill increase speed.\n\nBalanced \n\nDouble \n\nHalf \n\nPatches for: \n\nOrdinator, Adamant and Vokrii",
+          "FileID": 246748,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59515/59515-1638623223-1721717438.png",
           "IsNSFW": false,
           "ModID": 59515,
           "Name": "Kvite\u0027s Skill Increase - Rebalanced",
-          "Version": "2.0.0.0"
+          "Version": "3.0.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hOFph4R7jDw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59515\nfileID=246644",
-        "Name": "Kvite\u0027s Leveling Rebalanced - Balanced Speed - Ordinator-59515-2-1638652760.7z",
-        "Size": 8694,
+        "Hash": "I3o+p/O+CSk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59515\nfileID=246743",
+        "Name": "Kvite\u0027s Leveling Rebalanced - Balanced Speed - Ordinator-59515-3-1638693884.7z",
+        "Size": 8691,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kvitekvist",
-          "Description": "This mod offers 3 options to adjust skill increase speed.\n\nBalanced\n\nDouble\n\nHalf\n\nPatches for:\n\nOrdinator, Adamant and Vokrii",
-          "FileID": 246644,
+          "Description": "This mod offers 3 options to adjust skill increase speed.\n\nBalanced \n\nDouble \n\nHalf \n\nPatches for: \n\nOrdinator, Adamant and Vokrii",
+          "FileID": 246743,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59515/59515-1638623223-1721717438.png",
           "IsNSFW": false,
           "ModID": 59515,
           "Name": "Kvite\u0027s Skill Increase - Rebalanced",
-          "Version": "2.0.0.0"
+          "Version": "3.0.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wXGS1WH0vLE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59515\nfileID=246645",
-        "Name": "Kvite\u0027s Leveling Rebalanced - Balanced Speed - Vokrii-59515-2-1638652778.7z",
-        "Size": 6191,
+        "Hash": "SWv/bS/4Ufk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59515\nfileID=246747",
+        "Name": "Kvite\u0027s Leveling Rebalanced - Balanced Speed - Vokrii-59515-3-1638694135.7z",
+        "Size": 6186,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kvitekvist",
-          "Description": "This mod offers 3 options to adjust skill increase speed.\n\nBalanced\n\nDouble\n\nHalf\n\nPatches for:\n\nOrdinator, Adamant and Vokrii",
-          "FileID": 246645,
+          "Description": "This mod offers 3 options to adjust skill increase speed.\n\nBalanced \n\nDouble \n\nHalf \n\nPatches for: \n\nOrdinator, Adamant and Vokrii",
+          "FileID": 246747,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59515/59515-1638623223-1721717438.png",
           "IsNSFW": false,
           "ModID": 59515,
           "Name": "Kvite\u0027s Skill Increase - Rebalanced",
-          "Version": "2.0.0.0"
+          "Version": "3.0.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5B0iyhHjVQA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59515\nfileID=246552",
-        "Name": "Kvite\u0027s Leveling Rebalanced - Double Speed-59515-1-0-1638623376.7z",
-        "Size": 4412,
+        "Hash": "BZ05xYpYbrY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59515\nfileID=246749",
+        "Name": "Kvite\u0027s Leveling Rebalanced - Double Speed - Adamant-59515-3-1638694250.7z",
+        "Size": 5026,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kvitekvist",
-          "Description": "This mod offers 3 options to adjust skill increase speed.\n\nBalanced\n\nDouble\n\nHalf\n\nPatches for:\n\nOrdinator, Adamant and Vokrii",
-          "FileID": 246552,
+          "Description": "This mod offers 3 options to adjust skill increase speed.\n\nBalanced \n\nDouble \n\nHalf \n\nPatches for: \n\nOrdinator, Adamant and Vokrii",
+          "FileID": 246749,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59515/59515-1638623223-1721717438.png",
           "IsNSFW": false,
           "ModID": 59515,
           "Name": "Kvite\u0027s Skill Increase - Rebalanced",
-          "Version": "1.0.0.0"
+          "Version": "3.0.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "7rIeq5SHxsQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59515\nfileID=246646",
-        "Name": "Kvite\u0027s Leveling Rebalanced - Double Speed - Adamant-59515-2-1638652806.7z",
-        "Size": 5034,
+        "Hash": "qwOU44HIFek=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59515\nfileID=246746",
+        "Name": "Kvite\u0027s Leveling Rebalanced - Double Speed - Ordinator-59515-3-1638694078.7z",
+        "Size": 8699,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kvitekvist",
-          "Description": "This mod offers 3 options to adjust skill increase speed.\n\nBalanced\n\nDouble\n\nHalf\n\nPatches for:\n\nOrdinator, Adamant and Vokrii",
-          "FileID": 246646,
+          "Description": "This mod offers 3 options to adjust skill increase speed.\n\nBalanced \n\nDouble \n\nHalf \n\nPatches for: \n\nOrdinator, Adamant and Vokrii",
+          "FileID": 246746,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59515/59515-1638623223-1721717438.png",
           "IsNSFW": false,
           "ModID": 59515,
           "Name": "Kvite\u0027s Skill Increase - Rebalanced",
-          "Version": "2.0.0.0"
+          "Version": "3.0.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zgocGMjtEaY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59515\nfileID=246647",
-        "Name": "Kvite\u0027s Leveling Rebalanced - Double Speed - Ordinator-59515-2-1638652828.7z",
-        "Size": 8702,
+        "Hash": "Eor4eKQHFEo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59515\nfileID=246750",
+        "Name": "Kvite\u0027s Leveling Rebalanced - Double Speed - Vokrii-59515-3-1638694293.7z",
+        "Size": 6202,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kvitekvist",
-          "Description": "This mod offers 3 options to adjust skill increase speed.\n\nBalanced\n\nDouble\n\nHalf\n\nPatches for:\n\nOrdinator, Adamant and Vokrii",
-          "FileID": 246647,
+          "Description": "This mod offers 3 options to adjust skill increase speed.\n\nBalanced \n\nDouble \n\nHalf \n\nPatches for: \n\nOrdinator, Adamant and Vokrii",
+          "FileID": 246750,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59515/59515-1638623223-1721717438.png",
           "IsNSFW": false,
           "ModID": 59515,
           "Name": "Kvite\u0027s Skill Increase - Rebalanced",
-          "Version": "2.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "aaUXyF2I6EA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59515\nfileID=246648",
-        "Name": "Kvite\u0027s Leveling Rebalanced - Double Speed - Vokrii-59515-2-1638652867.7z",
-        "Size": 6213,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kvitekvist",
-          "Description": "This mod offers 3 options to adjust skill increase speed.\n\nBalanced\n\nDouble\n\nHalf\n\nPatches for:\n\nOrdinator, Adamant and Vokrii",
-          "FileID": 246648,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59515/59515-1638623223-1721717438.png",
-          "IsNSFW": false,
-          "ModID": 59515,
-          "Name": "Kvite\u0027s Skill Increase - Rebalanced",
-          "Version": "2.0.0.0"
+          "Version": "3.0.0.0"
         }
       }
     },
@@ -3169,7 +3148,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kvitekvist",
-          "Description": "This mod offers 3 options to adjust skill increase speed.\n\nBalanced\n\nDouble\n\nHalf\n\nPatches for:\n\nOrdinator, Adamant and Vokrii",
+          "Description": "This mod offers 3 options to adjust skill increase speed.\n\nBalanced \n\nDouble \n\nHalf \n\nPatches for: \n\nOrdinator, Adamant and Vokrii",
           "FileID": 246553,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59515/59515-1638623223-1721717438.png",
@@ -3183,63 +3162,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cJVfssr+vAA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59515\nfileID=246649",
-        "Name": "Kvite\u0027s Leveling Rebalanced - Half Speed - Adamant-59515-2-1638652892.7z",
-        "Size": 5025,
+        "Hash": "c5pZsHh/Yms=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59515\nfileID=246751",
+        "Name": "Kvite\u0027s Leveling Rebalanced - Half Speed - Adamant-59515-3-1638694344.7z",
+        "Size": 5017,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kvitekvist",
-          "Description": "This mod offers 3 options to adjust skill increase speed.\n\nBalanced\n\nDouble\n\nHalf\n\nPatches for:\n\nOrdinator, Adamant and Vokrii",
-          "FileID": 246649,
+          "Description": "This mod offers 3 options to adjust skill increase speed.\n\nBalanced \n\nDouble \n\nHalf \n\nPatches for: \n\nOrdinator, Adamant and Vokrii",
+          "FileID": 246751,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59515/59515-1638623223-1721717438.png",
           "IsNSFW": false,
           "ModID": 59515,
           "Name": "Kvite\u0027s Skill Increase - Rebalanced",
-          "Version": "2.0.0.0"
+          "Version": "3.0.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GutLPqtv6R8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59515\nfileID=246650",
-        "Name": "Kvite\u0027s Leveling Rebalanced - Half Speed - Ordinator-59515-2-1638652910.7z",
-        "Size": 8705,
+        "Hash": "P5WTyiKFKnQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59515\nfileID=246745",
+        "Name": "Kvite\u0027s Leveling Rebalanced - Half Speed - Ordinator-59515-3-1638693992.7z",
+        "Size": 8699,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kvitekvist",
-          "Description": "This mod offers 3 options to adjust skill increase speed.\n\nBalanced\n\nDouble\n\nHalf\n\nPatches for:\n\nOrdinator, Adamant and Vokrii",
-          "FileID": 246650,
+          "Description": "This mod offers 3 options to adjust skill increase speed.\n\nBalanced \n\nDouble \n\nHalf \n\nPatches for: \n\nOrdinator, Adamant and Vokrii",
+          "FileID": 246745,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59515/59515-1638623223-1721717438.png",
           "IsNSFW": false,
           "ModID": 59515,
           "Name": "Kvite\u0027s Skill Increase - Rebalanced",
-          "Version": "2.0.0.0"
+          "Version": "3.0.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/PQtZI2MR20=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59515\nfileID=246651",
-        "Name": "Kvite\u0027s Leveling Rebalanced - Half Speed - Vokrii-59515-2-1638652929.7z",
-        "Size": 6209,
+        "Hash": "bCj+D9fsqcs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59515\nfileID=246752",
+        "Name": "Kvite\u0027s Leveling Rebalanced - Half Speed - Vokrii-59515-3-1638694395.7z",
+        "Size": 6192,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kvitekvist",
-          "Description": "This mod offers 3 options to adjust skill increase speed.\n\nBalanced\n\nDouble\n\nHalf\n\nPatches for:\n\nOrdinator, Adamant and Vokrii",
-          "FileID": 246651,
+          "Description": "This mod offers 3 options to adjust skill increase speed.\n\nBalanced \n\nDouble \n\nHalf \n\nPatches for: \n\nOrdinator, Adamant and Vokrii",
+          "FileID": 246752,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59515/59515-1638623223-1721717438.png",
           "IsNSFW": false,
           "ModID": 59515,
           "Name": "Kvite\u0027s Skill Increase - Rebalanced",
-          "Version": "2.0.0.0"
+          "Version": "3.0.0.0"
         }
       }
     },
@@ -4506,6 +4485,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "haZLvpsgJkw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58374\nfileID=247040",
+        "Name": "PowerAttackVR-58374-0-0-2-1638804232.7z",
+        "Size": 85926,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AutoGibbon",
+          "Description": "This mod allows you to perform power attacks based on how you swing your weapon.",
+          "FileID": 247040,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58374/58374-1638799020-1068249480.png",
+          "IsNSFW": false,
+          "ModID": 58374,
+          "Name": "Power Attack VR",
+          "Version": "0.0.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "r2nXo+3U/YQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=52663\nfileID=215832",
         "Name": "Pretty Animated Potions - VR Edition-52663-1-1626882178.zip",
@@ -4920,6 +4920,48 @@
           "ModID": 31981,
           "Name": "Rorikstead Basalt Cliffs Patches",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ySldaRILbdE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59529\nfileID=247452",
+        "Name": "Security Overhaul SKSE - Add-ons-59529-0-1-1-1638938395.7z",
+        "Size": 162439803,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kreiste-wSkeever-powerofthree",
+          "Description": "Additional variant lock models for Security Overhaul SKSE - Lock Variations",
+          "FileID": 247452,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59529/59529-1638754442-1253084650.gif",
+          "IsNSFW": false,
+          "ModID": 59529,
+          "Name": "Security Overhaul SKSE - Add-ons",
+          "Version": "0.1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Y5Vhn3o1sW4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58224\nfileID=246852",
+        "Name": "Security Overhaul SKSE - Lock Variations-58224-2-0-1638727815.7z",
+        "Size": 168195560,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kreiste-wSkeever-powerofthree",
+          "Description": "SKSE based framework for replacing overused lock model with unique lock variants.",
+          "FileID": 246852,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58224/58224-1636566041-1637060129.gif",
+          "IsNSFW": false,
+          "ModID": 58224,
+          "Name": "Security Overhaul SKSE - Lock Variations",
+          "Version": "2.0.0.0"
         }
       }
     },
@@ -6095,27 +6137,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yFGVu5QQzkA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=28004\nfileID=101929",
-        "Name": "VR power attack fix-28004-0-8-1564963240.7z",
-        "Size": 477,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pritine",
-          "Description": "Makes forwards, sideways, and backwards power attacks easier to execute in VR.",
-          "FileID": 101929,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28004/28004-1564962831-1216171930.jpeg",
-          "IsNSFW": false,
-          "ModID": 28004,
-          "Name": "VR power attack fix",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "3VJYq7fCzDY=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=49205\nfileID=213945",
         "Name": "VR Refit - Mine Chop and Drop-49205-1-0-3-1625978242.zip",
@@ -6173,6 +6194,27 @@
           "ModID": 23416,
           "Name": "VRIK Player Avatar",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SZZ7Z9cG+hI=",
+        "Meta": "[General]\ngameName=skyrim\nmodID=48669\nfileID=1000101948",
+        "Name": "WOS162-48669-1-62.rar",
+        "Size": 7636648,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sokco816",
+          "Description": "Adds fully functional and ready-to-use magical wands to Skyrim. They are not remodeled staves and provide their own fun and unique gameplay experience. It\u0027s like Harry Potter, but in Skyrim.",
+          "FileID": 1000101948,
+          "GameName": "Skyrim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/110/images/48669-1-1394957374.jpg",
+          "IsNSFW": false,
+          "ModID": 48669,
+          "Name": "Wands Of Skyrim",
+          "Version": "1.62.0.0"
         }
       }
     },
@@ -6341,6 +6383,27 @@
           "ModID": 42990,
           "Name": "Capital Windhelm Expansion",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Xdw2L3516EQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56971\nfileID=244452",
+        "Name": "JK\u0027s Temple of Talos-56971-1-1-1637910811.7z",
+        "Size": 21436,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jkrojmal",
+          "Description": "An enhanced Temple overhaul.",
+          "FileID": 244452,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56971/56971-1634061326-1899943065.jpeg",
+          "IsNSFW": false,
+          "ModID": 56971,
+          "Name": "JK\u0027s Temple of Talos",
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -6628,27 +6691,6 @@
           "ModID": 164,
           "Name": "SSEEdit",
           "Version": "4.0.4.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "rY5QRw8OO8s=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=5804\nfileID=13556",
-        "Name": "A Quality World Map - Clear Map Skies-5804-9-0-1CMS.zip",
-        "Size": 2477434,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "IcePenguin",
-          "Description": "Provides a new set of highly-detailed 3D or paper world map textures, complete with roads! Also adds a detailed Solsteim map.",
-          "FileID": 13556,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/5804-1-1481088259.jpg",
-          "IsNSFW": false,
-          "ModID": 5804,
-          "Name": "A Quality World Map",
-          "Version": "0.0.0.0"
         }
       }
     },
@@ -9072,27 +9114,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KZf1chLTqs4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=243579",
-        "Name": "Assorted Mesh Fixes-32117-0-34-1-1637624596.7z",
-        "Size": 10893444,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "wankingSkeever",
-          "Description": "Fixes various issues with vanilla Skyrim meshes that causes them to render incorrectly",
-          "FileID": 243579,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32117/32117-1612599331-161051453.png",
-          "IsNSFW": false,
-          "ModID": 32117,
-          "Name": "Assorted mesh fixes",
-          "Version": "0.34.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "prqmmXKvMeQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=21397\nfileID=73026",
         "Name": "Atlantis Galaxy 2K-21397-1-0-1542899251.zip",
@@ -9219,6 +9240,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "u9etfVNmpxo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59499\nfileID=246911",
+        "Name": "boathiah 1.02 - 4k textures-59499-1-02-1638751426.zip",
+        "Size": 16095550,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mandragorasprouts",
+          "Description": "new shrine of Boethiah",
+          "FileID": 246911,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59499/59499-1638657865-490716875.png",
+          "IsNSFW": false,
+          "ModID": 59499,
+          "Name": "Boethiah",
+          "Version": "f1.02"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "4OGJAtZCcZQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=36594\nfileID=142551",
         "Name": "Candlelight Spell - VR Fix-36594-1-0-1590683028.7z",
@@ -9276,6 +9318,27 @@
           "ModID": 47189,
           "Name": "ConsoleUtilVR",
           "Version": "1.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "27UnEP5PNVE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59818\nfileID=247895",
+        "Name": "CrashLogger VR-59818-1-0-0-1639116706.7z",
+        "Size": 463684,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "alandtse",
+          "Description": "Generates crash logs when the game Just Works\u2122. This is a VR port using fudgyduff\u0027s MIT source.",
+          "FileID": 247895,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59818/59818-1639111702-221034218.png",
+          "IsNSFW": false,
+          "ModID": 59818,
+          "Name": "Crash Logger VR",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -9394,7 +9457,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "PraedythXVI",
-          "Description": "Model and texture replacer for the elder scroll.\n\nTextures are available in 8K/4K/2K and 1K.\n\nThe model has animated spinning parts, with a slightly different animation for when Serana\u0027s carrying her elder scroll.",
+          "Description": "Model and texture replacer for the elder scroll.\n\nTextures are available in 4K/2K and 1K.\n\nThe model has animated spinning parts, with a slightly different animation for when Serana\u0027s carrying her elder scroll.",
           "FileID": 208837,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51082/51082-1623618138-1358810004.png",
@@ -10241,6 +10304,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Wypyfdu2/E8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=5804\nfileID=13792",
+        "Name": "9.0.1 A Quality World Map - Vivid with Stone Roads-5804-9-0-1.zip",
+        "Size": 21683072,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "IcePenguin",
+          "Description": "Provides a new set of highly-detailed 3D or paper world map textures, complete with roads! Also adds a detailed Solsteim map.",
+          "FileID": 13792,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/5804-1-1481088259.jpg",
+          "IsNSFW": false,
+          "ModID": 5804,
+          "Name": "A Quality World Map",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "gsZydAQLP4Y=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=29773\nfileID=110675",
         "Name": "Oblivioneseque Category Icons For SkyUI-29773-1-0-1571342924.7z",
@@ -10703,21 +10787,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Ic/UUMAp04Y=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44698\nfileID=181234",
-        "Name": "Shrine of Azura HD-44698-1-0-1611395988.rar",
-        "Size": 7108119,
+        "Hash": "O+fbM0cL+ng=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58298\nfileID=240770",
+        "Name": "Security Overhaul SKSEVR - Lock Variations VR-58298-1-0-0-1636709118.7z",
+        "Size": 213467,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "alandtse",
+          "Description": "SKSEVR based framework for replacing overused lock model with unique lock variants. This requires Security Overhaul SKSE - Lock Variations and is built from po3\u0027s source.",
+          "FileID": 240770,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58298/58298-1636708716-888682519.png",
+          "IsNSFW": false,
+          "ModID": 58298,
+          "Name": "Security Overhaul SKSEVR - Lock Variations VR",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CM7/u5JwSsA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44698\nfileID=181393",
+        "Name": "Shrine of Azura HD 4K-44698-1-01-1611453517.rar",
+        "Size": 26264635,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "fadingsignal",
           "Description": "Scratch-made textures and normal maps for Azura\u0027s Shrine. 2K and 4K options.",
-          "FileID": 181234,
+          "FileID": 181393,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44698/44698-1611395768-2097057476.jpeg",
           "IsNSFW": false,
           "ModID": 44698,
           "Name": "Shrine of Azura HD",
-          "Version": "0.0.0.0"
+          "Version": "f1.01"
         }
       }
     },
@@ -11033,6 +11138,27 @@
           "ModID": 44695,
           "Name": "VR - Auriel Welcome Screen",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "w8IMYTO5rqY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58101\nfileID=246727",
+        "Name": "VR Address Library-58101-0-15-0-1638686758.7z",
+        "Size": 23658,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "alandtse",
+          "Description": "VR Address Library database for end users. This is intended as a VR replacement for Address Library for SKSE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha.\n\n\n\nThis is not for SSE. This is different from Address Library for SKSE.",
+          "FileID": 246727,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58101/58101-1636346500-1172135015.png",
+          "IsNSFW": false,
+          "ModID": 58101,
+          "Name": "VR Address Library for SKSEVR",
+          "Version": "0.15.0.0"
         }
       }
     },
@@ -14490,7 +14616,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "PraedythXVI",
-          "Description": "Model and texture replacer for the elder scroll.\n\nTextures are available in 8K/4K/2K and 1K.\n\nThe model has animated spinning parts, with a slightly different animation for when Serana\u0027s carrying her elder scroll.",
+          "Description": "Model and texture replacer for the elder scroll.\n\nTextures are available in 4K/2K and 1K.\n\nThe model has animated spinning parts, with a slightly different animation for when Serana\u0027s carrying her elder scroll.",
           "FileID": 208901,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51082/51082-1623618138-1358810004.png",
@@ -14598,6 +14724,27 @@
           "ModID": 13779,
           "Name": "Heart of the Beast - Werewolf Sound and Texture Overhaul",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MUDoFve+/3w=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59641\nfileID=247393",
+        "Name": "High Poly Amulets of the Divines-59641-0-3-1638916530.7z",
+        "Size": 2933481,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Saeva Veritas",
+          "Description": "An WIP ongoing project to improve the appearance of the low quality divine amulet meshes.",
+          "FileID": 247393,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59641/59641-1638839475-1734720089.png",
+          "IsNSFW": false,
+          "ModID": 59641,
+          "Name": "High Poly Amulets of the Divines",
+          "Version": "0.3.0.0"
         }
       }
     },
@@ -15924,27 +16071,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VAiKyftlRN4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44367\nfileID=211068",
-        "Name": "Auril\u0027s Dream - Skyrim 2020 Texture pack P1-44367-1-1-1624621681.7z",
-        "Size": 1254888064,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kvitekvist",
-          "Description": "Mini Texture Pack for Skyrim VR mod Auril\u0027s Dream",
-          "FileID": 211068,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44367/44367-1610738804-2014630511.jpeg",
-          "IsNSFW": false,
-          "ModID": 44367,
-          "Name": "Auril\u0027s Dream - Skyrim 2020 Texture pack",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "O2FC3xeCFKQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=44016\nfileID=209716",
         "Name": "Auriel\u0027s Dream - Core Texture Pack - BSA-44016-2-1624016649.7z",
@@ -15992,6 +16118,48 @@
           "GameFile": "Data\\Skyrim - Patch.bsa",
           "GameVersion": "1.4.15.0",
           "Hash": "mwREtRFyhvs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KZf1chLTqs4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=243579",
+        "Name": "Assorted Mesh Fixes-32117-0-34-1-1637624596.7z",
+        "Size": 10893444,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wankingSkeever",
+          "Description": "Fixes various issues with vanilla Skyrim meshes that causes them to render incorrectly",
+          "FileID": 243579,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32117/32117-1612599331-161051453.png",
+          "IsNSFW": false,
+          "ModID": 32117,
+          "Name": "Assorted mesh fixes",
+          "Version": "0.34.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VAiKyftlRN4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44367\nfileID=211068",
+        "Name": "Auril\u0027s Dream - Skyrim 2020 Texture pack P1-44367-1-1-1624621681.7z",
+        "Size": 1254888064,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kvitekvist",
+          "Description": "Mini Texture Pack for Skyrim VR mod Auril\u0027s Dream",
+          "FileID": 211068,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44367/44367-1610738804-2014630511.jpeg",
+          "IsNSFW": false,
+          "ModID": 44367,
+          "Name": "Auril\u0027s Dream - Skyrim 2020 Texture pack",
+          "Version": "0.0.0.0"
         }
       }
     }
