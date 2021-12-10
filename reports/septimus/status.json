@@ -1,8 +1,8 @@
 {
   "MachineURL": "septimus",
   "Name": "Septimus",
-  "Version": "1.9.0",
-  "ModListHash": "KhsxhCrOlFU=",
+  "Version": "1.9.1",
+  "ModListHash": "TkL/93I2nw8=",
   "Archives": [
     {
       "Status": "Valid",
@@ -77,22 +77,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wwYDXqpkrNE=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=bink2w64.dll",
-        "Name": "bink2w64.dll",
-        "Size": 391360,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "bink2w64.dll",
-          "GameVersion": "1.6.323.0",
-          "Hash": "wwYDXqpkrNE="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "d+fMLBcSgpk=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=10546\nfileID=28074",
         "Name": "DLL Plugin Loader v1-10546-1.zip",
@@ -149,6 +133,27 @@
           "IsNSFW": false,
           "ModID": 25287,
           "Name": "Dragonborn Presence - Discord Rich Presence",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/obn+hH+FVE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=2242\nfileID=4341",
+        "Name": "Blackthorn - A Buildable Town in The Rift (SE)-2242-1-1.rar",
+        "Size": 46563373,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ld50365",
+          "Description": "Blackthorn is a large Hearthfire inspired buildable player home/town with over 400\u002B build options to choose from, it also includes plenty of Safe Storage, Hearthfire Style Gardens, Armor Mannequins, Displays for Dragon Priest Masks, Claws, Black Books, Paragons, Weapon Racks, Display Cases, New Merchants, Indoor Smithing Area, Plenty of room for Fo",
+          "FileID": 4341,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65839-0-1431480654.png",
+          "IsNSFW": false,
+          "ModID": 2242,
+          "Name": "Blackthorn - A Buildable Town in The Rift (SE)",
           "Version": "0.0.0.0"
         }
       }
@@ -1359,6 +1364,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "AMinIl6Nta4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=57176\nfileID=235390",
+        "Name": "Bruma LOD-57176-1-0-1634480381.7z",
+        "Size": 28709109,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jelidity",
+          "Description": "Hand tweaked terrain LOD for Beyond Skyrim - Bruma that retains detail when used alone or alongside Quality World Map. Also adds surrounding clouds to the map (Bruma itself has little to no cover for clear visibility).",
+          "FileID": 235390,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57176/57176-1634480440-1006759609.jpeg",
+          "IsNSFW": false,
+          "ModID": 57176,
+          "Name": "Beyond Skyrim - Bruma - Enhanced Map Terrain for Quality World Map",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "FDV61jXKb2w=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=23089\nfileID=80423",
         "Name": "Beyond Skyrim Bruma Craft Restrictions-23089-1-0-1549083658.zip",
@@ -1457,27 +1483,6 @@
           "IsNSFW": false,
           "ModID": 31787,
           "Name": "Beyond Skyrim in Skyrim - An Integration Mod",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "/obn+hH+FVE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=2242\nfileID=4341",
-        "Name": "Blackthorn - A Buildable Town in The Rift (SE)-2242-1-1.rar",
-        "Size": 46563373,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ld50365",
-          "Description": "Blackthorn is a large Hearthfire inspired buildable player home/town with over 400\u002B build options to choose from, it also includes plenty of Safe Storage, Hearthfire Style Gardens, Armor Mannequins, Displays for Dragon Priest Masks, Claws, Black Books, Paragons, Weapon Racks, Display Cases, New Merchants, Indoor Smithing Area, Plenty of room for Fo",
-          "FileID": 4341,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65839-0-1431480654.png",
-          "IsNSFW": false,
-          "ModID": 2242,
-          "Name": "Blackthorn - A Buildable Town in The Rift (SE)",
           "Version": "0.0.0.0"
         }
       }
@@ -1710,6 +1715,27 @@
           "ModID": 26188,
           "Name": "Haugbui - A Draugr Overhaul",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "T/TU4bupmCk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=10924\nfileID=29422",
+        "Name": "Bruma SE Signs SMIMmed-10924-1.7z",
+        "Size": 96781,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Forzane",
+          "Description": "patches the Stone Rest sign and Bruma\u0027s signage to the stores and guilds and inns with SMIM Meshes",
+          "FileID": 29422,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/85074-0-1499199467.jpg",
+          "IsNSFW": false,
+          "ModID": 10924,
+          "Name": "Bruma Signs SMIM patch - SE",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -2430,21 +2456,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "1oVllLM1NJg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=29020\nfileID=245345",
-        "Name": "Creation Club Integration - Armours-29020-3-0-0-1638192452.7z",
-        "Size": 224340,
+        "Hash": "acc2tDM/Na0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=29020\nfileID=247219",
+        "Name": "Creation Club Integration - Armours-29020-3-0-2-1638858585.7z",
+        "Size": 127434,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "moose",
           "Description": "Better integrates most of the armours available from the Creation Club into the world.",
-          "FileID": 245345,
+          "FileID": 247219,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29020/29020-1574782625-984688975.png",
           "IsNSFW": false,
           "ModID": 29020,
           "Name": "Creation Club Integration - Armours",
-          "Version": "0.0.0.0"
+          "Version": "3.0.2.0"
         }
       }
     },
@@ -3165,21 +3191,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "aB8FWOxrnAc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=49250\nfileID=224477",
-        "Name": "1_Dynamic Things Alternative-49250-0-14-1630194824.7z",
-        "Size": 4683471,
+        "Hash": "aPLm976v15o=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=49250\nfileID=242823",
+        "Name": "1_Dynamic Things Alternative-49250-0-15-1-1637387483.7z",
+        "Size": 4726963,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wankingSkeever",
           "Description": "Interact with previously static items like archery targets, crates, mammoth skulls, taproots, and more!",
-          "FileID": 224477,
+          "FileID": 242823,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49250/49250-1619754999-1978240345.gif",
           "IsNSFW": false,
           "ModID": 49250,
           "Name": "Dynamic Things Alternative",
-          "Version": "0.0.0.0"
+          "Version": "0.15.1.0"
         }
       }
     },
@@ -4049,6 +4075,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "ycKs7OhnqwY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=50164\nfileID=242171",
+        "Name": "Gladys the Corgi-50164-1-2-3-1637119781.zip",
+        "Size": 80096527,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tate Taylor",
+          "Description": "Adds a friendly corgi companion to join you on your adventures!",
+          "FileID": 242171,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50164/50164-1627357751-799551582.png",
+          "IsNSFW": false,
+          "ModID": 50164,
+          "Name": "Gladys the Corgi - A Custom Dog Follower Mod",
+          "Version": "1.2.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "7ar/kuHC/Nk=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=9311\nfileID=37785",
         "Name": "Grahl - The Ice Troll-9311-1-3-0.zip",
@@ -4280,21 +4327,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yc08S3uSNLI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=57285\nfileID=237924",
-        "Name": "House of Horrors - Quest Expansion-57285-1-02-1635600281.zip",
-        "Size": 25002132,
+        "Hash": "hvgyz9E+vNo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=57285\nfileID=242900",
+        "Name": "House of Horrors - Quest Expansion-57285-1-10-1637416174.zip",
+        "Size": 33031561,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "JaySerpa",
           "Description": "This mod expands Molag Bal\u0027s daedric quest, giving you the option of choosing an alternative \u0022good guy\u0022 route to finish the vanilla quest. Fully voiced, with new scenes and a custom reward: a new follower!",
-          "FileID": 237924,
+          "FileID": 242900,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57285/57285-1634858440-22571931.jpeg",
           "IsNSFW": false,
           "ModID": 57285,
           "Name": "House of Horrors - Quest Expansion",
-          "Version": "0.0.0.0"
+          "Version": "1.10.0.0"
         }
       }
     },
@@ -4358,6 +4405,27 @@
           "ModID": 9252,
           "Name": "Immersive College NPCs",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4oi6bt7+wgs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54930\nfileID=228066",
+        "Name": "All games     Skyrim Special Edition     Mods     Overhauls     Open World Loot - Encounter Zone and Loot Overhaul  Open World Loot - Encounter Zone and Loot Overhaul-54930-1-3-0-1631523424.7z",
+        "Size": 979,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lifestorock",
+          "Description": "A collection of small add-ons and patches for Skyrim Immersive Creatures v7 or newer.",
+          "FileID": 228066,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54930/54930-1630536040-1231205916.png",
+          "IsNSFW": false,
+          "ModID": 54930,
+          "Name": "SIC SE - Add-Ons and Patches",
+          "Version": "1.3.0.0"
         }
       }
     },
@@ -5141,21 +5209,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "lMammWRshWs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=35910\nfileID=242590",
-        "Name": "JKs Interiors Patch Collection-35910-4-2-1637307279.7z",
-        "Size": 15173457,
+        "Hash": "etqota/I41g=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=35910\nfileID=246548",
+        "Name": "JKs Interiors Patch Collection-35910-5-2-1638622433.7z",
+        "Size": 15333281,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DarkMaster06 Timiku Czasior Monops blitzicestorm Shekhinaga Neko14789 Teabag86 TitansBane and Janquel",
           "Description": "A collection of small patches/tweaks to help various mods play well with JK\u0027s Interiors series",
-          "FileID": 242590,
+          "FileID": 246548,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35910/35910-1589352521-1164967416.jpeg",
           "IsNSFW": false,
           "ModID": 35910,
           "Name": "JK\u0027s Interiors Patch Collection",
-          "Version": "0.0.0.0"
+          "Version": "5.2.0.0"
         }
       }
     },
@@ -5183,21 +5251,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Qlr7o8gFNSY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=48293\nfileID=197109",
-        "Name": "JK\u0027s New Gnisis Cornerclub-48293-1-0-0-1617990855.rar",
-        "Size": 24484,
+        "Hash": "Q0Y/BCWWzYs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=48293\nfileID=246358",
+        "Name": "JK\u0027s New Gnisis Cornerclub-48293-1-1-0-1638561666.rar",
+        "Size": 656136,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Jkrojmal",
           "Description": "An enhanced tavern overhaul.",
-          "FileID": 197109,
+          "FileID": 246358,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/48293/48293-1617974511-88182402.jpeg",
           "IsNSFW": false,
           "ModID": 48293,
           "Name": "JK\u0027s New Gnisis Cornerclub",
-          "Version": "0.0.0.0"
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -5372,42 +5440,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KtFgYfSV35k=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=56971\nfileID=242653",
-        "Name": "JK\u0027s Temple of Talos-56971-1-0-0-1637322412.rar",
-        "Size": 24876,
+        "Hash": "Xdw2L3516EQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56971\nfileID=244452",
+        "Name": "JK\u0027s Temple of Talos-56971-1-1-1637910811.7z",
+        "Size": 21436,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Jkrojmal",
           "Description": "An enhanced Temple overhaul.",
-          "FileID": 242653,
+          "FileID": 244452,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56971/56971-1634061326-1899943065.jpeg",
           "IsNSFW": false,
           "ModID": 56971,
           "Name": "JK\u0027s Temple of Talos",
-          "Version": "0.0.0.0"
+          "Version": "1.1.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "aT3z4yGfSqY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=57304\nfileID=239220",
-        "Name": "JK\u0027s Temple of the Divines-57304-1-0-0-1636137131.rar",
-        "Size": 65265,
+        "Hash": "CAkCg4EaJCM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=57304\nfileID=244453",
+        "Name": "JK\u0027s Temple of the Divines-57304-1-1-1637911302.7z",
+        "Size": 58711,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Jkrojmal",
           "Description": "An enhanced Temple overhaul.",
-          "FileID": 239220,
+          "FileID": 244453,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57304/57304-1634810073-1912474729.jpeg",
           "IsNSFW": false,
           "ModID": 57304,
           "Name": "JK\u0027s Temple of the Divines",
-          "Version": "0.0.0.0"
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -5813,6 +5881,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "yy3ChR4s7KA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59687\nfileID=247381",
+        "Name": "Landscape Seam Fixes-59687-0-1-1638914859.7z",
+        "Size": 463827,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Real Pharaoh",
+          "Description": "Comprehensive fixing of the landscape seams that result in ugly visuals.",
+          "FileID": 247381,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59687/59687-1638906710-2028511306.png",
+          "IsNSFW": false,
+          "ModID": 59687,
+          "Name": "Landscape Seam Fixes",
+          "Version": "0.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "HxUjTLUjMe8=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=30817\nfileID=230855",
         "Name": "Lanterns Of Skyrim II - FOMOD-30817-3-1-1632687713.7z",
@@ -5855,21 +5944,441 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uY0ihVBkR7U=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=193151",
-        "Name": "Lucien-20035-1-6-2-1616519910.rar",
-        "Size": 171309323,
+        "Hash": "SYsd7tue4s0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=240595",
+        "Name": "Lucien-20035-1-6-3-1636656096.rar",
+        "Size": 171311530,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Joseph Russell",
           "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
-          "FileID": 193151,
+          "FileID": 240595,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
           "IsNSFW": false,
           "ModID": 20035,
           "Name": "Lucien - Immersive Fully Voiced Male Follower",
-          "Version": "0.0.0.0"
+          "Version": "1.6.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "t/SVe3hDq8s=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=231199",
+        "Name": "Lucien - Creation Club - Alternative Armors - Dwarven Mail Patch-20035-1-6-2-1632823741.rar",
+        "Size": 411461,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Joseph Russell",
+          "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
+          "FileID": 231199,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
+          "IsNSFW": false,
+          "ModID": 20035,
+          "Name": "Lucien - Immersive Fully Voiced Male Follower",
+          "Version": "1.6.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yK/A3a2N/lU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=116303",
+        "Name": "Lucien - Arcane Archer Pack Patch-20035-1-4-3a-1576451094.rar",
+        "Size": 861829,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Joseph Russell",
+          "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
+          "FileID": 116303,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
+          "IsNSFW": false,
+          "ModID": 20035,
+          "Name": "Lucien - Immersive Fully Voiced Male Follower",
+          "Version": "1.4.3.0a"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8OwgDGr9IoE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=145630",
+        "Name": "Lucien - Creation Club - Adventurer\u0027s Backpack Patch-20035-1-5-0b-1592135167.rar",
+        "Size": 709712,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Joseph Russell",
+          "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
+          "FileID": 145630,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
+          "IsNSFW": false,
+          "ModID": 20035,
+          "Name": "Lucien - Immersive Fully Voiced Male Follower",
+          "Version": "1.5.0.0c"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0MP1tGjKoeY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=230124",
+        "Name": "Lucien - Creation Club - Bone Wolf Patch-20035-1-6-2-1632397605.rar",
+        "Size": 811874,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Joseph Russell",
+          "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
+          "FileID": 230124,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
+          "IsNSFW": false,
+          "ModID": 20035,
+          "Name": "Lucien - Immersive Fully Voiced Male Follower",
+          "Version": "1.6.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cs9F+Pyz6As=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=148134",
+        "Name": "Lucien - Creation Club - Camping Patch-20035-1-5-0c-1593524648.rar",
+        "Size": 1976965,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Joseph Russell",
+          "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
+          "FileID": 148134,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
+          "IsNSFW": false,
+          "ModID": 20035,
+          "Name": "Lucien - Immersive Fully Voiced Male Follower",
+          "Version": "1.5.0.0c"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cQD1sU8ZRdE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=230013",
+        "Name": "Lucien - Creation Club - Expanded Crossbow Pack Patch-20035-1-6-2-1632335463.rar",
+        "Size": 832064,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Joseph Russell",
+          "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
+          "FileID": 230013,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
+          "IsNSFW": false,
+          "ModID": 20035,
+          "Name": "Lucien - Immersive Fully Voiced Male Follower",
+          "Version": "1.6.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SKiX5mRoFio=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=240811",
+        "Name": "Lucien - Creation Club - Forgotten Seasons Patch-20035-1-6-3-1636731399.rar",
+        "Size": 4553287,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Joseph Russell",
+          "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
+          "FileID": 240811,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
+          "IsNSFW": false,
+          "ModID": 20035,
+          "Name": "Lucien - Immersive Fully Voiced Male Follower",
+          "Version": "1.6.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pAaOYMr9rDU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=230009",
+        "Name": "Lucien - Creation Club - Goblins Patch-20035-1-6-2-1632335342.rar",
+        "Size": 1585043,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Joseph Russell",
+          "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
+          "FileID": 230009,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
+          "IsNSFW": false,
+          "ModID": 20035,
+          "Name": "Lucien - Immersive Fully Voiced Male Follower",
+          "Version": "1.6.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VT8WdeWJlMA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=231200",
+        "Name": "Lucien - Creation Club - Lord\u0027s Mail Patch-20035-1-6-2-1632823842.rar",
+        "Size": 1422032,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Joseph Russell",
+          "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
+          "FileID": 231200,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
+          "IsNSFW": false,
+          "ModID": 20035,
+          "Name": "Lucien - Immersive Fully Voiced Male Follower",
+          "Version": "1.6.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dh6d9fYS4WM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=230007",
+        "Name": "Lucien -  Creation Club - Myrwatch Patch-20035-1-6-2-1632335174.rar",
+        "Size": 887635,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Joseph Russell",
+          "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
+          "FileID": 230007,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
+          "IsNSFW": false,
+          "ModID": 20035,
+          "Name": "Lucien - Immersive Fully Voiced Male Follower",
+          "Version": "1.6.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VFnNWOqzMPo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=141472",
+        "Name": "Lucien - Plague of the Dead Patch-20035-1-5-0b-1590185580.rar",
+        "Size": 915320,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Joseph Russell",
+          "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
+          "FileID": 141472,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
+          "IsNSFW": false,
+          "ModID": 20035,
+          "Name": "Lucien - Immersive Fully Voiced Male Follower",
+          "Version": "1.5.0.0b"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vELMzWCJGqM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=225891",
+        "Name": "Lucien -  Creation Club - Rare Curios Patch-20035-1-6-2-1630693949.rar",
+        "Size": 4185103,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Joseph Russell",
+          "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
+          "FileID": 225891,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
+          "IsNSFW": false,
+          "ModID": 20035,
+          "Name": "Lucien - Immersive Fully Voiced Male Follower",
+          "Version": "1.6.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8SY/ZJ2PJV0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=143973",
+        "Name": "Lucien - Ruin\u0027s Edge Patch-20035-1-5-0c-1591366481.rar",
+        "Size": 1102358,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Joseph Russell",
+          "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
+          "FileID": 143973,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
+          "IsNSFW": false,
+          "ModID": 20035,
+          "Name": "Lucien - Immersive Fully Voiced Male Follower",
+          "Version": "1.5.0.0c"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "T4x+Z6o20bk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=194463",
+        "Name": "Lucien - Saints and Seducers Patch-20035-1-6-2-1617047097.rar",
+        "Size": 5036554,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Joseph Russell",
+          "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
+          "FileID": 194463,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
+          "IsNSFW": false,
+          "ModID": 20035,
+          "Name": "Lucien - Immersive Fully Voiced Male Follower",
+          "Version": "1.6.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jUFOhnDv35E=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=117273",
+        "Name": "Lucien - Saturalia Holiday Pack Patch-20035-1-4-3b-1577192512.rar",
+        "Size": 584251,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Joseph Russell",
+          "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
+          "FileID": 117273,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
+          "IsNSFW": false,
+          "ModID": 20035,
+          "Name": "Lucien - Immersive Fully Voiced Male Follower",
+          "Version": "1.4.3.0b"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "u2k8v6kRhVo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=119422",
+        "Name": "Lucien - Shadowrend Patch-20035-1-4-3-1578752012.rar",
+        "Size": 598731,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Joseph Russell",
+          "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
+          "FileID": 119422,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
+          "IsNSFW": false,
+          "ModID": 20035,
+          "Name": "Lucien - Immersive Fully Voiced Male Follower",
+          "Version": "1.4.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hAkSqXXTRSg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=143969",
+        "Name": "Lucien - Staff of Sheogorath Patch-20035-1-5-0b-1591365302.rar",
+        "Size": 1249746,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Joseph Russell",
+          "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
+          "FileID": 143969,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
+          "IsNSFW": false,
+          "ModID": 20035,
+          "Name": "Lucien - Immersive Fully Voiced Male Follower",
+          "Version": "1.5.0.0b"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "K0zx4rhLpms=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=116387",
+        "Name": "Lucien - Stendarr\u0027s Hammer Patch-20035-1-4-3b-1576510012.rar",
+        "Size": 919259,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Joseph Russell",
+          "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
+          "FileID": 116387,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
+          "IsNSFW": false,
+          "ModID": 20035,
+          "Name": "Lucien - Immersive Fully Voiced Male Follower",
+          "Version": "1.4.3.0b"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "C2rCTo+fvYM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=152836",
+        "Name": "Lucien - Creation Club - Tundra Homestead Patch-20035-1-5-0c-1596103584.rar",
+        "Size": 1083554,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Joseph Russell",
+          "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
+          "FileID": 152836,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
+          "IsNSFW": false,
+          "ModID": 20035,
+          "Name": "Lucien - Immersive Fully Voiced Male Follower",
+          "Version": "1.5.0.0c"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sDBnLObopmc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20035\nfileID=116385",
+        "Name": "Lucien - Umbra Patch-20035-1-4-3a-1576508175.rar",
+        "Size": 1583472,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Joseph Russell",
+          "Description": "Lucien is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he\u0027ll gradually gain strength and confidence by your side until he grows into a hero in his own right.",
+          "FileID": 116385,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png",
+          "IsNSFW": false,
+          "ModID": 20035,
+          "Name": "Lucien - Immersive Fully Voiced Male Follower",
+          "Version": "1.4.3.0a"
         }
       }
     },
@@ -6332,6 +6841,27 @@
           "ModID": 49771,
           "Name": "Modular Armory - Community Collection",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sTmV/3WK2Fk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58621\nfileID=242487",
+        "Name": "Molag\u0027s Will - A Vampire Custom Skill Tree-58621-1-1-2-1637255329.7z",
+        "Size": 6803230,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SeaSparrow",
+          "Description": "Adds an in-depth Vampirism Skill Tree with unique and powerful abilities.",
+          "FileID": 242487,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58621/58621-1637161102-1613849313.png",
+          "IsNSFW": false,
+          "ModID": 58621,
+          "Name": "Molag\u0027s Will - A Vampire Skill Tree",
+          "Version": "1.1.2.0"
         }
       }
     },
@@ -7031,6 +7561,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "S1/gk3tqnbI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=4145\nfileID=214500",
+        "Name": "obis-4145-2-61-1626218413.7z",
+        "Size": 605163516,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Indigoblade and the OBIS Team",
+          "Description": "Adds over 2500 different bandits into the level lists. They are organized into gangs with 7 tiers from wannabes to the deadly Bandit Lords. Each gang has its own strengths, weaknesses and lore. OBIS Bandits reluctantly work together to ensure Skyrim never feels safe again.",
+          "FileID": 214500,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4145/4145-1513686176-1046145311.png",
+          "IsNSFW": false,
+          "ModID": 4145,
+          "Name": "OBIS SE - Organized Bandits In Skyrim Special Edition",
+          "Version": "2.61.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "9+8QWdUthBA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=20514\nfileID=134566",
         "Name": "Obscure\u0027s College of Winterhold-20514-1-6-1-1587010675.7z",
@@ -7265,7 +7816,7 @@
       "Original": {
         "Hash": "FxkmJockWZo=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=49681\nfileID=237867",
-        "Name": "OWL Main File-49681-1-3-1-1635563468.7z",
+        "Name": "1_OWL Main File-49681-1-3-1-1635563468.7z",
         "Size": 59573,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
@@ -7277,7 +7828,28 @@
           "IsNSFW": false,
           "ModID": 49681,
           "Name": "Open World Loot - Encounter Zone and Loot Overhaul",
-          "Version": "0.0.0.0"
+          "Version": "1.3.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "26ON0MKh2LY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54975\nfileID=226790",
+        "Name": "Open World Loot - OBIS Patch-54975-1-1-1631042110.7z",
+        "Size": 1619,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ender",
+          "Description": "A small compatibility and balancing patch for Open World Loot and OBIS.",
+          "FileID": 226790,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54975/54975-1630615298-1024204692.png",
+          "IsNSFW": false,
+          "ModID": 54975,
+          "Name": "Open World Loot - Organized Bandits In Skyrim (OBIS) Patch",
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -8376,42 +8948,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "jUrEAEn/v58=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58229\nfileID=247328",
-        "Name": "Septimus - Conflict Resolution Patch-58229-1-9-0-4-1638901754.zip",
-        "Size": 159168,
+        "Hash": "gnbIIKHx28E=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58229\nfileID=247979",
+        "Name": "Septimus - Conflict Resolution Patch-58229-1-9-1-1-1639149842.zip",
+        "Size": 183586,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Guitarninja",
           "Description": "Septimus is an extended version of The Phoenix Flavour with lots of new items, quests, visual tweaks and optional survival elements all built on top of the fantastic base that Phoenix has created. It also has full Anniversary Edition support including all the new creation club content for those eager to get right into the new content.",
-          "FileID": 247328,
+          "FileID": 247979,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58229/58229-1638763736-1102057428.png",
           "IsNSFW": false,
           "ModID": 58229,
           "Name": "Septimus - A Phoenix Flavour Fork",
-          "Version": "1.9.0.4"
+          "Version": "1.9.1.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "DUqgsBZJnYE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58229\nfileID=247327",
-        "Name": "Septimus - Conflict Resolution Patch CC-58229-1-9-0-4-1638901729.zip",
-        "Size": 53231,
+        "Hash": "mHUm5EoqSZw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58229\nfileID=247832",
+        "Name": "Septimus - Conflict Resolution Patch CC-58229-1-9-1-1639094313.zip",
+        "Size": 53973,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Guitarninja",
           "Description": "Septimus is an extended version of The Phoenix Flavour with lots of new items, quests, visual tweaks and optional survival elements all built on top of the fantastic base that Phoenix has created. It also has full Anniversary Edition support including all the new creation club content for those eager to get right into the new content.",
-          "FileID": 247327,
+          "FileID": 247832,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58229/58229-1638763736-1102057428.png",
           "IsNSFW": false,
           "ModID": 58229,
           "Name": "Septimus - A Phoenix Flavour Fork",
-          "Version": "1.9.0.4"
+          "Version": "1.9.1.0"
         }
       }
     },
@@ -8533,6 +9105,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "RUrOQO+5g1o=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58229\nfileID=247662",
+        "Name": "Open World Loot - Fishing Script Fix-58229-1-9-1-1639020186.zip",
+        "Size": 1564,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Guitarninja",
+          "Description": "Septimus is an extended version of The Phoenix Flavour with lots of new items, quests, visual tweaks and optional survival elements all built on top of the fantastic base that Phoenix has created. It also has full Anniversary Edition support including all the new creation club content for those eager to get right into the new content.",
+          "FileID": 247662,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58229/58229-1638763736-1102057428.png",
+          "IsNSFW": false,
+          "ModID": 58229,
+          "Name": "Septimus - A Phoenix Flavour Fork",
+          "Version": "1.9.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "v55g5KA7DZQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=58229\nfileID=246961",
         "Name": "Realistic Water Two - Needs Patch-58229-1-9-0-1638763593.zip",
@@ -8548,6 +9141,27 @@
           "ModID": 58229,
           "Name": "Septimus - A Phoenix Flavour Fork",
           "Version": "1.9.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jziLCDF4jjU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58229\nfileID=247836",
+        "Name": "Septimus - Necromantic Grimoire Patch-58229-1-9-1-1-1639095434.zip",
+        "Size": 678,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Guitarninja",
+          "Description": "Septimus is an extended version of The Phoenix Flavour with lots of new items, quests, visual tweaks and optional survival elements all built on top of the fantastic base that Phoenix has created. It also has full Anniversary Edition support including all the new creation club content for those eager to get right into the new content.",
+          "FileID": 247836,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58229/58229-1638763736-1102057428.png",
+          "IsNSFW": false,
+          "ModID": 58229,
+          "Name": "Septimus - A Phoenix Flavour Fork",
+          "Version": "1.9.1.1"
         }
       }
     },
@@ -9029,6 +9643,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Yey5s2s3MN0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=12680\nfileID=227169",
+        "Name": "1) Skyrim Immersive Creatures v7.0.2 (includes 1K Textures)-12680-v7-0-2-1631188254.7z",
+        "Size": 896382849,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lifestorock and jackstarr",
+          "Description": "Skyrim Immersive Creatures adds dozens of new creatures to enhance your gaming experience. This mod adds brand new creatures which fit in to the world of Skyrim, alongside variations of existing creatures, adding diversity and improving gameplay.",
+          "FileID": 227169,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/12680/12680-1630517880-876227210.png",
+          "IsNSFW": false,
+          "ModID": 12680,
+          "Name": "Skyrim Immersive Creatures Special Edition",
+          "Version": "7.0.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1VinXIErpTA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55551\nfileID=228172",
+        "Name": "Skyrim Immersive Creatures Special Edition - Settings Loader for New Game-55551-1-0-1631559662.zip",
+        "Size": 5226,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Automatically loads the user config file of the \u0022Skyrim Immersive Creatures Special Edition\u0022 mod after you start NEW GAME or install this mod, so you don\u0027t have to spend time in MCM again with each new game. ESPFE file, so it doesn\u0027t take plugin slot.",
+          "FileID": 228172,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55551/55551-1631559133-786848088.png",
+          "IsNSFW": false,
+          "ModID": 55551,
+          "Name": "Skyrim Immersive Creatures Special Edition - Settings Loader",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "uTXHwzi0vnU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=26138\nfileID=238154",
         "Name": "Skyrim Landscape and Water Fixes - FOMOD-26138-v6-4-1635681762.7z",
@@ -9239,21 +9895,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dGDsaZQY9mU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59250\nfileID=245910",
-        "Name": "Sleeping Expanded-59250-1-01-1638397306.zip",
-        "Size": 7111948,
+        "Hash": "JN25WcBN3NI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59250\nfileID=247749",
+        "Name": "1_Sleeping Expanded-59250-1-10-1639064175.zip",
+        "Size": 15741129,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "JaySerpa",
           "Description": "Ever noticed how NPCs don\u0027t react at all to being woken up in the middle of the night? Or how characters stop breathing while they sleep? Or... how it takes them YEARS to get in and out of bed? Well, no more! WAKE UP, JARL BALGRUUF!!!!!!! Sleeping Expanded is here!!!!",
-          "FileID": 245910,
+          "FileID": 247749,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59250/59250-1638294167-1297461910.jpeg",
           "IsNSFW": false,
           "ModID": 59250,
           "Name": "Sleeping Expanded - Animations and NPC reactions",
-          "Version": "f1.01"
+          "Version": "1.10.0.0"
         }
       }
     },
@@ -9554,21 +10210,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ooOuv1erago=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=56374\nfileID=242744",
-        "Name": "Survival Mode Improved-56374-1-2-2-1637353668.7z",
-        "Size": 69900,
+        "Hash": "HLURIo/jj6Q=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56374\nfileID=246977",
+        "Name": "Survival Mode Improved-56374-1-2-3-1638770900.7z",
+        "Size": 69950,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "colinswrath",
           "Description": "",
-          "FileID": 242744,
+          "FileID": 246977,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56374/56374-1634178751-1333863609.jpeg",
           "IsNSFW": false,
           "ModID": 56374,
           "Name": "Survival Mode Improved",
-          "Version": "1.2.2.0"
+          "Version": "1.2.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FVx6OrAOUd8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56374\nfileID=247453",
+        "Name": "Wyrmstooth Region Patch-56374-1-2-3-1638938562.7z",
+        "Size": 777,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "colinswrath",
+          "Description": "",
+          "FileID": 247453,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56374/56374-1634178751-1333863609.jpeg",
+          "IsNSFW": false,
+          "ModID": 56374,
+          "Name": "Survival Mode Improved",
+          "Version": "1.2.3.0"
         }
       }
     },
@@ -9602,7 +10279,7 @@
         "Size": 330611,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Simon and Friends",
+          "Author": "Simon Magus - DeltaRider - Oreo - Hypebringer",
           "Description": "Thaumaturgy is a complete overhaul of Skyrim\u2019s enchanting system designed to balance existing enchantments and add powerful new weapon and armor enchantments to the game.",
           "FileID": 239751,
           "GameName": "SkyrimSpecialEdition",
@@ -9623,7 +10300,7 @@
         "Size": 79737,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Simon and Friends",
+          "Author": "Simon Magus - DeltaRider - Oreo - Hypebringer",
           "Description": "Thaumaturgy is a complete overhaul of Skyrim\u2019s enchanting system designed to balance existing enchantments and add powerful new weapon and armor enchantments to the game.",
           "FileID": 239752,
           "GameName": "SkyrimSpecialEdition",
@@ -10898,27 +11575,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "AGVdZQwpW6k=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=30481\nfileID=177000",
-        "Name": "WiZkiD Signs-30481-2-3-1609391985.7z",
-        "Size": 479283872,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "WiZkiD",
-          "Description": "A new and complete retexture of all the Skyrim signs. Every single texture I created was designed to look as realistic and lorefriendly as possible.",
-          "FileID": 177000,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/30481/30481-1574294998-2023308437.jpeg",
-          "IsNSFW": false,
-          "ModID": 30481,
-          "Name": "WiZkiD Signs",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "j+SAm1UzBY8=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=13044\nfileID=36936",
         "Name": "Wonders of Weather v1_10-13044-1-10.7z",
@@ -11335,22 +11991,6 @@
           "GameFile": "Data\\Skyrim - Textures8.bsa",
           "GameVersion": "1.6.323.0",
           "Hash": "WJzdWWq7n8M="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2Tmfw2AG/MM=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Voices_en0.bsa",
-        "Name": "Data_Skyrim - Voices_en0.bsa",
-        "Size": 1807969854,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Voices_en0.bsa",
-          "GameVersion": "1.6.323.0",
-          "Hash": "2Tmfw2AG/MM="
         }
       }
     },
@@ -11883,6 +12523,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "yc08S3uSNLI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=57285\nfileID=237924",
+        "Name": "House of Horrors - Quest Expansion-57285-1-02-1635600281.zip",
+        "Size": 25002132,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "JaySerpa",
+          "Description": "This mod expands Molag Bal\u0027s daedric quest, giving you the option of choosing an alternative \u0022good guy\u0022 route to finish the vanilla quest. Fully voiced, with new scenes and a custom reward: a new follower!",
+          "FileID": 237924,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57285/57285-1634858440-22571931.jpeg",
+          "IsNSFW": false,
+          "ModID": 57285,
+          "Name": "House of Horrors - Quest Expansion",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "h39jqqO6JhU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=51918\nfileID=218693",
         "Name": "iHUD - SmoothCam Automated Compatibility Patch-51918-1-0-1628069254.7z",
@@ -12170,6 +12831,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "y6EjWylq23I=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56732\nfileID=233305",
+        "Name": "OBIS SE - Organized Bandits In Skyrim Special Edition - Settings Loader-56732-1-0-1633639385.7z",
+        "Size": 6847,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Adds the ability to save and load settings in MCM for OBIS SE - Organized Bandits In Skyrim Special Edition by Indigoblade. Automatically loads saved settings at startup, so you don\u0027t have to spend time in MCM again with each new game. No plugin.",
+          "FileID": 233305,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56732/56732-1633639468-1599523911.png",
+          "IsNSFW": false,
+          "ModID": 56732,
+          "Name": "OBIS SE - Organized Bandits In Skyrim Special Edition - Settings Loader",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Xi7epOgfmq0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=22854\nfileID=235900",
         "Name": "Papyrus Extender SSE - 4.5.2-22854-4-5-2-1634665907.7z",
@@ -12331,28 +13013,7 @@
           "IsNSFW": false,
           "ModID": 43532,
           "Name": "Scrambled Bugs",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "GCJDhrOKHMY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58229\nfileID=245392",
-        "Name": "EasierRider\u0027s Dungeon Pack Book Fix-58229-1-8-0-1638210337.zip",
-        "Size": 8739,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Guitarninja",
-          "Description": "Septimus is an extended version of The Phoenix Flavour with lots of new items, quests, visual tweaks and optional survival elements all built on top of the fantastic base that Phoenix has created. It also has full Anniversary Edition support including all the new creation club content for those eager to get right into the new content.",
-          "FileID": 245392,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58229/58229-1638763736-1102057428.png",
-          "IsNSFW": false,
-          "ModID": 58229,
-          "Name": "Septimus - A Phoenix Flavour Fork",
-          "Version": "0.0.0.0"
+          "Version": "14.0.0.0"
         }
       }
     },
@@ -13535,6 +14196,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "ggvoxPrisCU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=21704\nfileID=74448",
+        "Name": "HD Hand Made Signs Project Overhaul 1K-21704-1-0-1544251842.7z",
+        "Size": 31693022,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ElSopa",
+          "Description": "What if the signs were made by actual people from skyrim? A complete signs retexture overhaul, extreme attention to detail and immersion, 1k optional.",
+          "FileID": 74448,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21704/95063-1544251328-1012617036.jpeg",
+          "IsNSFW": false,
+          "ModID": 21704,
+          "Name": "ElSopa HD - Unique Hand Made Signs Overhaul SE",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "HFdvAZ7/sns=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=23174\nfileID=114237",
         "Name": "ENB Helper SE 1.5 for SSE 1.5.97-23174-1-5-1574569443.7z",
@@ -14033,6 +14715,27 @@
           "ModID": 47674,
           "Name": "Iconic\u0027s Wuuthrad Retexture",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TawWTEcREI0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=12680\nfileID=227165",
+        "Name": "2a) 2K Texture Pack-12680-v7-0-2-1631187494.7z",
+        "Size": 2647173476,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lifestorock and jackstarr",
+          "Description": "Skyrim Immersive Creatures adds dozens of new creatures to enhance your gaming experience. This mod adds brand new creatures which fit in to the world of Skyrim, alongside variations of existing creatures, adding diversity and improving gameplay.",
+          "FileID": 227165,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/12680/12680-1630517880-876227210.png",
+          "IsNSFW": false,
+          "ModID": 12680,
+          "Name": "Skyrim Immersive Creatures Special Edition",
+          "Version": "7.0.2.0"
         }
       }
     },
@@ -15488,21 +16191,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Y5Vhn3o1sW4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58224\nfileID=246852",
-        "Name": "Security Overhaul SKSE - Lock Variations-58224-2-0-1638727815.7z",
-        "Size": 168195560,
+        "Hash": "CA6ttP1bxUg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58224\nfileID=247455",
+        "Name": "Security Overhaul SKSE - Lock Variations-58224-2-0-1-1638940333.7z",
+        "Size": 168191446,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kreiste-wSkeever-powerofthree",
           "Description": "SKSE based framework for replacing overused lock model with unique lock variants.",
-          "FileID": 246852,
+          "FileID": 247455,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58224/58224-1636566041-1637060129.gif",
           "IsNSFW": false,
           "ModID": 58224,
           "Name": "Security Overhaul SKSE - Lock Variations",
-          "Version": "2.0.0.0"
+          "Version": "2.0.1.0"
         }
       }
     },
@@ -18897,6 +19600,27 @@
           "ModID": 44022,
           "Name": "Particle Lights For ENB SE - Ingredients",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VKMnEiT7e4k=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59416\nfileID=246255",
+        "Name": "Quick Light SE SMIM Lantern-59416-1-1-1638528338.7z",
+        "Size": 39923,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "StoneSpiralGaming",
+          "Description": "A simple mesh replacer for Quick Light SE so that a SMIM lantern mesh is used",
+          "FileID": 246255,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59416/59416-1638471808-1981148890.jpeg",
+          "IsNSFW": false,
+          "ModID": 59416,
+          "Name": "Quick Light SE SMIM Mesh",
+          "Version": "1.1.0.0"
         }
       }
     },
