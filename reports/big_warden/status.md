@@ -93,7 +93,7 @@
 *  [Mage item Pack 2 armor variation-3914-1-0.zip](https://www.nexusmods.com/dragonage/mods/3914/?tab=files&file_id=1000001087)
 *  [Main File - Grey Wardens of Ferelden-3258-2-5.zip](https://www.nexusmods.com/dragonage/mods/3258/?tab=files&file_id=17152)
 *  [medium_helmet_conflict_fix-5439-1-0-1623768302.7z](https://www.nexusmods.com/dragonage/mods/5439/?tab=files&file_id=1000008206)
-*  [Mod.Organizer-2.4.3alpha4.7z](https://mega.nz/file/czgT3aRQ#ipEnFbNQ-KnB5cyr2NKuNRQgO4KeIzDEp1bW6rnhNHA)
+*  [Mod.Organizer-2.4.3alpha4.7z](https://authored-files.wabbajack.org/Mod.Organizer-2.4.3alpha4.7z_3e41f081-6b67-4394-a70e-871cb0ed67e8)
 *  [More Believable Fade Duncan-4718-1-0.7z](https://www.nexusmods.com/dragonage/mods/4718/?tab=files&file_id=1000004904)
 *  [More Hairs for Kids-5382-1-1-1607669535.7z](https://www.nexusmods.com/dragonage/mods/5382/?tab=files&file_id=1000007577)
 *  [More Hairstyles 0_51-392.zip](https://www.nexusmods.com/dragonage/mods/392/?tab=files&file_id=2820)
