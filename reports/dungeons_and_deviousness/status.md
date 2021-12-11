@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (917)
+### Valid (916)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
@@ -351,7 +351,6 @@
 *  [FileAccess Interface for Skyrim SE Scripts - FISSES-13956-1-3-7-1574615841.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13956/?tab=files&file_id=114287)
 *  [Fill Her Up Baka Edition English SE 1.60V.7z](https://www.patreon.com/file?h=48362669&i=9138658)
 *  [Finding Susanna Alive-32512-1-0-1581844989.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32512/?tab=files&file_id=124236)
-*  [Firm HDT-SMP Settings - CBBE-42107-1-0-1604728194.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42107/?tab=files&file_id=168993)
 *  [First Person Sneak Strafe-Walk Stutter Fix-31165-1-0-1577054070.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31165/?tab=files&file_id=117079)
 *  [Fixed body collision-10849-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/10849/?tab=files&file_id=29097)
 *  [FixNotesForSkyUI SKSE64 2.0.17-32561-1-2-1-1583205405.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32561/?tab=files&file_id=126933)
@@ -721,8 +720,8 @@
 *  [SexLab Parasites CBBE SE and 3BBB Bodyslides V7.7z](https://mega.nz/file/IWYFiKiD#ci8OcvnY_7fwSBtD_Ehm4_mAcShfFnwNgAzXLk0IL_g)
 *  SexLab Solutions v3 - Revisited.7z
 *  Sexlab Survival SSE 0.662 Beta.7z
-*  [SexLab v163-Beta9 WJ Fork.zip](https://github.com/ForgottenGlory/SexLab/releases/download/Beta9/SexLab.v163-Beta9.WJ.Fork.zip)
 *  SexLab-Separate-Orgasm-SE-1.7.4.1 SL1.63.7z
+*  SexLabFrameworkSE_v163.7z
 *  Sexy Starting Options SE v1.0.1.7z
 *  [Shandar-8204-3-0-1-1601608297.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8204/?tab=files&file_id=163537)
 *  [Shelak-46031-1-1613967156.rar](https://www.nexusmods.com/skyrimspecialedition/mods/46031/?tab=files&file_id=187347)

@@ -1,8 +1,8 @@
 {
   "MachineURL": "dungeons_and_deviousness",
   "Name": "Dungeons \u0026 Deviousness: Director\u0027s Cut",
-  "Version": "2.3.5",
-  "ModListHash": "remG8MBmoxA=",
+  "Version": "2.3.6",
+  "ModListHash": "e5NE4zRAGLI=",
   "Archives": [
     {
       "Status": "Valid",
@@ -1670,7 +1670,7 @@
           "Description": "The CBBE 3BA (3BBB) mod is an Improved version of CBBE SMP.\n\nCBBE 3BA (3BBB) is the 3 Breast Bone Body with improved vagina mesh and repainted the bone weights.\n\nalso provides solutions for users who are interested in performance.",
           "FileID": 196150,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/30174/30174-1638318324-2129677732.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/30174/30174-1639155272-1270190855.png",
           "IsNSFW": true,
           "ModID": 30174,
           "Name": "CBBE 3BA (3BBB)",
@@ -1751,7 +1751,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ClearanceClarence",
-          "Description": "A texture replacement for the ore veins found in mines and around skyrim. This mod also retextures the mined ores and the ingots.",
+          "Description": "A texture replacement for the Ore veins, Mined ores and Ingots. Includes patches for Hearthfire and Skyrim AE",
           "FileID": 151267,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1306/1306-1637702049-69850307.jpeg",
@@ -3433,7 +3433,7 @@
           "FileID": 164652,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/40775/40775-1600943107-718870033.jpeg",
-          "IsNSFW": false,
+          "IsNSFW": true,
           "ModID": 40775,
           "Name": "DX Dark Knight Armor - UNP",
           "Version": "1.1.0.0"
@@ -5216,7 +5216,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "4nk8r",
-          "Description": "This is a dummy ESM (ESL flagged) that does nothing more than provide the file dependency for mods that require \u0022hdtHighHeels.esm\u0022 as a master.  Use with Racemenu High Heels or your HDT heels will sink into the ground.",
+          "Description": "This is a dummy ESM (ESL and ESM flagged) that does nothing more than provide the file dependency for mods that require \u0022hdtHighHeels.esm\u0022 as a master.  Use with Racemenu High Heels or your HDT heels will sink into the ground.",
           "FileID": 121074,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32052/32052-1579940412-1298800307.png",
@@ -8437,6 +8437,28 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "15UIkeLZme0=",
+        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=20058\nips4File=SexLabFrameworkSE_v163.7z",
+        "Name": "SexLabFrameworkSE_v163.7z",
+        "Size": 72223207,
+        "State": {
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
+          "Author": "Ashal",
+          "Description": "",
+          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2021_11/sexlablogo_se.png.81c98b360cf4ebaa60c7adf34c7254b2.png",
+          "IPS4File": "SexLabFrameworkSE_v163.7z",
+          "IPS4Mod": 20058,
+          "IPS4Url": "https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framework-v164b-112321/",
+          "IsAttachment": false,
+          "IsNSFW": true,
+          "Name": "SexLab SE - Sex Animation Framework v1.64b - 11/23/21",
+          "Version": "1.64b"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "a+9AhKH2Wkk=",
         "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=5929\nips4File=SexLab-Separate-Orgasm-SE-1.7.4.1 SL1.63.7z",
         "Name": "SexLab-Separate-Orgasm-SE-1.7.4.1 SL1.63.7z",
@@ -8497,20 +8519,6 @@
           "IsNSFW": true,
           "Name": "Sexlab Survival SE",
           "Version": "0.662 Beta"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "TdTIr+iwXU4=",
-        "Meta": "[General]\ndirectURL=https://github.com/ForgottenGlory/SexLab/releases/download/Beta9/SexLab.v163-Beta9.WJ.Fork.zip",
-        "Name": "SexLab v163-Beta9 WJ Fork.zip",
-        "Size": 108797063,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/ForgottenGlory/SexLab/releases/download/Beta9/SexLab.v163-Beta9.WJ.Fork.zip"
         }
       }
     },
@@ -15171,27 +15179,6 @@
           "ModID": 17224,
           "Name": "FALMER",
           "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "mpRZJapKYRg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42107\nfileID=168993",
-        "Name": "Firm HDT-SMP Settings - CBBE-42107-1-0-1604728194.zip",
-        "Size": 10786,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MayheM7",
-          "Description": "HDT-SMP \u0026amp; CBP Settings for CBBE body with less Jell-O-like jiggle.",
-          "FileID": 168993,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42107/42107-1627431773-1275083199.jpeg",
-          "IsNSFW": false,
-          "ModID": 42107,
-          "Name": "Firm HDT-SMP and CBP Settings for CBBE",
-          "Version": "1.0.0.0"
         }
       }
     },
