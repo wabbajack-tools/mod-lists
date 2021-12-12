@@ -734,7 +734,7 @@
 *  [Slidikins' Strenuous Skyrim - DynDOLOD Output (Performance)-53939-4-10-0-1639335229.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53939/?tab=files&file_id=248597)
 *  [Slidikins' Strenuous Skyrim - DynDOLOD Output-53939-4-10-0-1639335083.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53939/?tab=files&file_id=248596)
 *  [Slidikins' Strenuous Skyrim - Nemesis Output-53939-4-10-0-1639349817.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53939/?tab=files&file_id=248664)
-*  [Slidikins' Strenuous Skyrim - Survival Mode Patch-53939-4-10-0-1639335903.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53939/?tab=files&file_id=248602)
+*  [Slidikins' Strenuous Skyrim - Survival Mode Patch-53939-4-10-0-1639352839.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53939/?tab=files&file_id=248679)
 *  [Slidikins' Strenuous Skyrim - Terrain LOD-53939-4-9-3-1636923463.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53939/?tab=files&file_id=241562)
 *  [Slidikins' Strenuous Skyrim - TexGen Output-53939-4-10-0-1639334940.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53939/?tab=files&file_id=248595)
 *  [Slof's Trotting Horse SSE-38788-1-0-1596032023.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38788/?tab=files&file_id=152742)
