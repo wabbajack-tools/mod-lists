@@ -1,8 +1,8 @@
 {
   "MachineURL": "nnv",
   "Name": "No, Not Vegas",
-  "Version": "1.4.3",
-  "ModListHash": "LciGwweJW44=",
+  "Version": "1.4.4",
+  "ModListHash": "yP/Gk0UQUzY=",
   "Archives": [
     {
       "Status": "Valid",
@@ -1293,6 +1293,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "ZgmgqH3f1G4=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=41841\nfileID=90992",
+        "Name": "Functional Food Sanitizer-41841-1-0.7z",
+        "Size": 2027,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "pintocat",
+          "Description": "Adds 50% radiation cleansing of consumables to the Food Sanitizer. Compatible with all food.",
+          "FileID": 90992,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/41841-1-1305627650.png",
+          "IsNSFW": false,
+          "ModID": 41841,
+          "Name": "Functional Food Sanitizer",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "DW1wntTmhBs=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=66726\nfileID=1000080049",
         "Name": "Functional Post Game Ending - FOMOD Installation-66726-5-0-1629571607.7z",
@@ -2224,6 +2245,27 @@
           "IsNSFW": false,
           "ModID": 74145,
           "Name": "Standardized NCR Supply Caches",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oBwyc+Zq0tQ=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=74672\nfileID=1000085043",
+        "Name": "Patchy\u0027s Prestidigitated Food Sanitizers.zip",
+        "Size": 1282,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "JamesiaInc or Patchier",
+          "Description": "Restores the Food Sanitizer item to a select few merchant inventories. Made for use with Functional Food Sanitizers and S6S Ingestibles.",
+          "FileID": 1000085043,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/74672/74672-1639279312-1097363225.png",
+          "IsNSFW": false,
+          "ModID": 74672,
+          "Name": "Patchy\u0027s Restored Food Sanitizers",
           "Version": "1.0.0.0"
         }
       }
@@ -3537,21 +3579,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "v4rGX8OZbX4=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=74052\nfileID=1000084760",
-        "Name": "Vegas Elysium Perks-74052-6-1638596185.rar",
-        "Size": 548168,
+        "Hash": "674XR7IJcYQ=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=74052\nfileID=1000085036",
+        "Name": "Vegas Elysium Perks-74052-6fix2-1639258803.rar",
+        "Size": 549155,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "S6S",
           "Description": "This is a perk/trait pack inspired by Disco Elysium, and it\u0027s thought cabinet in particular.\n\nIt features 23 traits and 13 perks.",
-          "FileID": 1000084760,
+          "FileID": 1000085036,
           "GameName": "FalloutNewVegas",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/74052/74052-1635977708-1363103103.png",
           "IsNSFW": false,
           "ModID": 74052,
           "Name": "Vegas Elysium Perk Pack",
-          "Version": "6.0.0.0"
+          "Version": "6.0.0.0fix2"
         }
       }
     },
