@@ -517,7 +517,7 @@
 *  [Navigate VR - Equipable Dynamic Compass and Maps-47174-1-05-1618017288.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47174/?tab=files&file_id=197173)
 *  [Near Vanilla Project - Eye Of Magnus 2K-43139-1-0-1607295785.zip](https://www.nexusmods.com/skyrimspecialedition/mods/43139/?tab=files&file_id=173451)
 *  [Nemesis PCEA Main-31667-0-8b-1586750186.rar](https://www.nexusmods.com/skyrimspecialedition/mods/31667/?tab=files&file_id=133950)
-*  [Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases/download/v0.84-beta/Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar)
+*  [Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar](https://www.nexusmods.com/skyrimspecialedition/mods/60033/?tab=files&file_id=248867)
 *  [Neutral VR Animations for VRIK and PCEA2-28831-0-0-1-1567803426.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28831/?tab=files&file_id=105902)
 *  [New Hellhounds-41020-1-1623251690.zip](https://www.nexusmods.com/skyrimspecialedition/mods/41020/?tab=files&file_id=208316)
 *  [Nightmare Chaurus-21488-1-0-1543285468.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21488/?tab=files&file_id=73464)

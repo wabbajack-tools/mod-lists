@@ -2,7 +2,7 @@
   "MachineURL": "auriels_dream",
   "Name": "Auriels Dream",
   "Version": "9.1.2",
-  "ModListHash": "JeM3WQbw9m0=",
+  "ModListHash": "9QhKjmGBfus=",
   "Archives": [
     {
       "Status": "Valid",
@@ -8650,20 +8650,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uq8KT2b+f9A=",
-        "Meta": "[General]\ndirectURL=https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases/download/v0.84-beta/Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar",
-        "Name": "Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar",
-        "Size": 26127652,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases/download/v0.84-beta/Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Zefec7A6mkY=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=13109\nfileID=37475",
         "Name": "No Crime Teleport-13109-1-1.zip",
@@ -8800,6 +8786,27 @@
           "ModID": 22854,
           "Name": "powerofthree\u0027s Papyrus Extender",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uq8KT2b+f9A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60033\nfileID=248867",
+        "Name": "Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar",
+        "Size": 26127652,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Shikyo Kira",
+          "Description": "Your all in 1 skyrim behavior framework. Automated behavior modification extraction, behavior patching and more. Currently still in beta stage",
+          "FileID": 248867,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60033/87642-1639422463-1327059535.png",
+          "IsNSFW": false,
+          "ModID": 60033,
+          "Name": "Project New Reign - Nemesis Unlimited Behavior Engine",
+          "Version": "0.84.0.0b-"
         }
       }
     },
@@ -16092,27 +16099,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VAiKyftlRN4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44367\nfileID=211068",
-        "Name": "Auril\u0027s Dream - Skyrim 2020 Texture pack P1-44367-1-1-1624621681.7z",
-        "Size": 1254888064,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kvitekvist",
-          "Description": "Mini Texture Pack for Skyrim VR mod Auril\u0027s Dream",
-          "FileID": 211068,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44367/44367-1610738804-2014630511.jpeg",
-          "IsNSFW": false,
-          "ModID": 44367,
-          "Name": "Auril\u0027s Dream - Skyrim 2020 Texture pack",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Mj8+6rxW6Es=",
         "Meta": "[General]\ngameName=Skyrim VR\ngameFile=Data\\Skyrim - Interface.bsa",
         "Name": "Data_Skyrim - Interface.bsa",
@@ -16160,6 +16146,27 @@
           "ModID": 32117,
           "Name": "Assorted mesh fixes",
           "Version": "0.34.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VAiKyftlRN4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44367\nfileID=211068",
+        "Name": "Auril\u0027s Dream - Skyrim 2020 Texture pack P1-44367-1-1-1624621681.7z",
+        "Size": 1254888064,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kvitekvist",
+          "Description": "Mini Texture Pack for Skyrim VR mod Auril\u0027s Dream",
+          "FileID": 211068,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44367/44367-1610738804-2014630511.jpeg",
+          "IsNSFW": false,
+          "ModID": 44367,
+          "Name": "Auril\u0027s Dream - Skyrim 2020 Texture pack",
+          "Version": "0.0.0.0"
         }
       }
     }
