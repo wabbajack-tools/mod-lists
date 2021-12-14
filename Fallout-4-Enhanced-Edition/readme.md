@@ -63,6 +63,8 @@ Now, hit `Save and Exit` in the bottom right.
 
 Launch ModOrganizer from the exe found in your `F4EEInstall` folder.
 
+NOTE: If you are on Windows 11, update the MO2 Installation using the Update button (It looks like a globe) in the top right of MO2.
+
 ### Step 5.5 (Optional):
 
 Now, you have a few choices before starting your game. You can follow the simple instructions at the bottom of the left pane of MO2 to decide if you want your Protagonist to talk or not. By default, it will not.
