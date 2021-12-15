@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (939)
+### Valid (946)
 *  [---Lucien Replacer SE Younger Face version-38116-1-2-1604513810.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38116/?tab=files&file_id=168611)
 *  [(1) Sharkish Piercings - BHUNP - Base-57131-1-01-1634463636.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235337)
 *  [(1) Sunstarved Tanlines - UUNP-26795-2-0-1580192177.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121531)
@@ -82,10 +82,12 @@
 *  [Better Bears 2k-33788-1-0-1585033344.rar](https://www.nexusmods.com/skyrimspecialedition/mods/33788/?tab=files&file_id=130251)
 *  [Better Blood Splatters-40584-V1-0-1-1633208244.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40584/?tab=files&file_id=232145)
 *  [Better Candlelight-4553-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4553/?tab=files&file_id=8923)
+*  [Better Dialogue Control Widescreen Fix-1778-1-6.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?tab=files&file_id=11606)
 *  [Better Dwemer Spider Textures by Naitrii - 2048-3049-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3049/?tab=files&file_id=11820)
 *  [Better Fast Travel - Carriages and Ships SE-59834-1-0-1639137139.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59834/?tab=files&file_id=247947)
 *  [Better Females Eyebrows-50302-1-2.7z](https://www.nexusmods.com/skyrim/mods/50302/?tab=files&file_id=1000093374)
 *  [Better Jumping SE-18967-1-7-1-1586802920.zip](https://www.nexusmods.com/skyrimspecialedition/mods/18967/?tab=files&file_id=134075)
+*  [Better MessageBox Control Widescreen Fix-1778-1-6.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?tab=files&file_id=11607)
 *  [Better MessageBox Controls v1_2-1428-1-2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1428/?tab=files&file_id=11023)
 *  [Better PowerAttack Control-SSE-49648-v0-31-1628337415.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49648/?tab=files&file_id=219449)
 *  [Better Telekinesis v3-42906-3-1607094858.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42906/?tab=files&file_id=173051)
@@ -160,6 +162,7 @@
 *  [Colovian Leather Armor and Outfit SE - UNP - V2-50331-2-1623186398.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50331/?tab=files&file_id=208190)
 *  [Colovian Leather Armors and Outfits BHUNP-50683-2-0-1624243486.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50683/?tab=files&file_id=210370)
 *  [Companions Questline Tweaks - Beta-22300-1-1-1546471344.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22300/?tab=files&file_id=77033)
+*  [Complete Widescreen Fix for SkyUI 5.2 SE Alpha - 2560x1080-1778-2-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?tab=files&file_id=35568)
 *  [ConsoleUtilSSE-24858-1-2-0-1583021370.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24858/?tab=files&file_id=126531)
 *  [Convenient Dialogue UI (Vanilla look)-57943-1-2-1636286326.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57943/?tab=files&file_id=239607)
 *  [Copy and Paste in Console v1.0.0 for Skyrim SE 1597-30928-1-0-0-1576070650.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30928/?tab=files&file_id=115884)
@@ -506,6 +509,7 @@
 *  [Legacy of the Dragonborn SSE - The Curators Companion-38529-6-0-5-1636253208.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38529/?tab=files&file_id=239544)
 *  [Legacy of the Dragonborn-11802-5-5-5-1638121457.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11802/?tab=files&file_id=245152)
 *  [Lightened Skyrim-50755-1-05-1629459935.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50755/?tab=files&file_id=222412)
+*  [Lock-Pick Menu Increased Resolution - Widescreen Fix-1778-2-0-1615124574.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?tab=files&file_id=190027)
 *  [Loki_WadeInWater-42854-v1-1606602483.rar](https://www.nexusmods.com/skyrimspecialedition/mods/42854/?tab=files&file_id=172065)
 *  [LootPreventifier.zip](https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LootPreventifier.zip)
 *  [LostDragonist-MO2-Plugins.zip](https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LostDragonist-MO2-Plugins.zip)
@@ -602,6 +606,7 @@
 *  [Odin - Vokrii Compatibility Patch-26176-3-7-0-1637500802.zip](https://www.nexusmods.com/skyrimspecialedition/mods/26176/?tab=files&file_id=243222)
 *  [Odin 1.9.0-46000-1-9-0-1628362278.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46000/?tab=files&file_id=219515)
 *  [ODIN Spells For NPCS-46877-1-3-1636877191.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46877/?tab=files&file_id=241382)
+*  [Opt. 4 - Full-Screen MCM Menu for SkyUI - Widescreen Fix-1778-2-0-1595620682.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?tab=files&file_id=151950)
 *  [Opt. 4 - Full-screen MCM Menu for SkyUI-22825-1-2-1572528295.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22825/?tab=files&file_id=112007)
 *  [Orc Settlements Enhanced 4K-28566-1-1-1567007915.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28566/?tab=files&file_id=104648)
 *  [Oxygen Meter - SSE-57452-1-2-0-1637264927.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57452/?tab=files&file_id=242515)
@@ -634,6 +639,7 @@
 *  PsycheAnimation SE 1.1.9V.7z
 *  [Pubic Hair for Females Baka Edition 2.0 BHUNP SE.7z](https://authored-files.wabbajack.org/Pubic Hair for Females Baka Edition 2.0 BHUNP SE.7z_9ea2d525-f892-4bb8-94f0-636306d470d5)
 *  [R18PN Ritter - BHUNP - HIMBO-49930-2-0-1634417923.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49930/?tab=files&file_id=235232)
+*  [Race Menu SE - WIdescreen Fix-1778-0-2-7.rar](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?tab=files&file_id=68724)
 *  [RaceMenu High Heels Fixes-18045-1-3-1552859840.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18045/?tab=files&file_id=85313)
 *  [RaceMenu Overlay Compilation - UNP Version-48705-1-1.rar](https://www.nexusmods.com/skyrim/mods/48705/?tab=files&file_id=1000086792)
 *  [RaceMenu Special Edition v0-4-16-19080-0-4-16-1601805673.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19080/?tab=files&file_id=163861)
@@ -736,6 +742,7 @@
 *  Skyrim.ccc
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
+*  [SkyUI Weapons Pack SE - Widescreen Fix-1778-2-0-1592514836.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?tab=files&file_id=146354)
 *  [SkyUI Weapons Pack SE 1.3-37231-1-3-1592760261.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37231/?tab=files&file_id=146790)
 *  [SkyUI_5_2_SE-12604-5-2SE.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12604/?tab=files&file_id=35407)
 *  SL_Advanced_Cum_Stages_v0_3_0b.7z
