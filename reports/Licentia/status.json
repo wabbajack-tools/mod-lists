@@ -1,8 +1,8 @@
 {
   "MachineURL": "Licentia",
   "Name": "Licentia",
-  "Version": "10.19",
-  "ModListHash": "khoFStK0rhY=",
+  "Version": "10.19.1",
+  "ModListHash": "uOIoFnOyxd8=",
   "Archives": [
     {
       "Status": "Valid",
@@ -5428,12 +5428,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "uq8KT2b+f9A=",
-        "Meta": "[General]\ndirectURL=https://wabbajack.b-cdn.net/Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar_1958da7d-22ef-4439-a8b6-9745a077f199",
-        "Name": "Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60033\nfileID=248867",
+        "Name": "Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar",
         "Size": 26127652,
         "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://wabbajack.b-cdn.net/Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar_1958da7d-22ef-4439-a8b6-9745a077f199"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Shikyo Kira",
+          "Description": "Your all in 1 skyrim behavior framework. Automated behavior modification extraction, behavior patching and more. Currently still in beta stage",
+          "FileID": 248867,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60033/87642-1639422463-1327059535.png",
+          "IsNSFW": false,
+          "ModID": 60033,
+          "Name": "Project New Reign - Nemesis Unlimited Behavior Engine",
+          "Version": "0.84.0.0b-"
         }
       }
     },
@@ -14999,27 +15007,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Fk6aP6BN96Y=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=3038\nfileID=124617",
-        "Name": "FNIS Behavior SE 7_6-3038-7-6-1582048023.7z",
-        "Size": 3749077,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "fore",
-          "Description": "No custom animation possible for Skyrim? Wrong. [color=skyblue]FNIS Behaviors allows to add different types of animations to the game[/color]: idles/poses, sequenced, furniture, paired, killmoves, creatures, and others.",
-          "FileID": 124617,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/11811-1-1364819540.jpg",
-          "IsNSFW": false,
-          "ModID": 3038,
-          "Name": "Fores New Idles in Skyrim SE - FNIS SE",
-          "Version": "7.6.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "cjXlmv3UhBM=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=47299\nfileID=192591",
         "Name": "BodySlide Preset File-47299-1-0-1616284175.7z",
@@ -15329,6 +15316,27 @@
           "ModID": 44022,
           "Name": "Particle Lights For ENB SE - Ingredients",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Fk6aP6BN96Y=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=3038\nfileID=124617",
+        "Name": "FNIS Behavior SE 7_6-3038-7-6-1582048023.7z",
+        "Size": 3749077,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "fore",
+          "Description": "No custom animation possible for Skyrim? Wrong. [color=skyblue]FNIS Behaviors allows to add different types of animations to the game[/color]: idles/poses, sequenced, furniture, paired, killmoves, creatures, and others.",
+          "FileID": 124617,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/11811-1-1364819540.jpg",
+          "IsNSFW": false,
+          "ModID": 3038,
+          "Name": "Fores New Idles in Skyrim SE - FNIS SE",
+          "Version": "7.6.0.0"
         }
       }
     },

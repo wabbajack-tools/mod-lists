@@ -489,7 +489,7 @@
 *  [Mythos SE-51576-1-0-1624536880.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51576/?tab=files&file_id=210920)
 *  [Natural And Realistic Bodies - Main File ALL-IN-ONE-13896-3-0-1633906542.7z](https://www.nexusmods.com/skyrimspecialedition/mods/13896/?tab=files&file_id=234062)
 *  [Nemesis Patch-24296-1-3-2-1584996736.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24296/?tab=files&file_id=130181)
-*  [Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar](https://wabbajack.b-cdn.net/Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar_1958da7d-22ef-4439-a8b6-9745a077f199)
+*  [Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar](https://www.nexusmods.com/skyrimspecialedition/mods/60033/?tab=files&file_id=248867)
 *  [NetScriptFramework SkyrimSE v17-21294-17-1631362586.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21294/?tab=files&file_id=227609)
 *  [NetScriptFramework SkyrimSE v18-21294-18-1635489335.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21294/?tab=files&file_id=237679)
 *  [Nibbles' Animations for OStim-49138-1-2-1629961152.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49138/?tab=files&file_id=223837)
