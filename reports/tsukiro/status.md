@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (938)
+### Valid (939)
 *  [---Lucien Replacer SE Younger Face version-38116-1-2-1604513810.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38116/?tab=files&file_id=168611)
 *  [(1) Sharkish Piercings - BHUNP - Base-57131-1-01-1634463636.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235337)
 *  [(1) Sunstarved Tanlines - UUNP-26795-2-0-1580192177.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121531)
@@ -97,6 +97,7 @@
 *  BikiniAscendVolume1 SE.7z
 *  [Bjorn - A Racemenu Preset - High Poly Head-49659-1-0-1620501429.zip](https://www.nexusmods.com/skyrimspecialedition/mods/49659/?tab=files&file_id=202377)
 *  [Black Widow Outfit UNP-29944-1-0-1572452485.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29944/?tab=files&file_id=111900)
+*  [Blackreach Paper Map for FWMF-53878-1-01-1631631769.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53878/?tab=files&file_id=228356)
 *  [Bleak Falls Barrow - Revisited-33251-1-2-1-1605824605.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33251/?tab=files&file_id=170818)
 *  [Blended Roads Redone 2K-26270-1-5-1-1614714055.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26270/?tab=files&file_id=189023)
 *  [Blended Roads Redone Bridges 2K-26270-1-0-1570961587.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26270/?tab=files&file_id=110180)
