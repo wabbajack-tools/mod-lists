@@ -1,8 +1,8 @@
 {
   "MachineURL": "tpf",
   "Name": "The Phoenix Flavour",
-  "Version": "4.10.0",
-  "ModListHash": "6v/6mlKA7n0=",
+  "Version": "4.10.1",
+  "ModListHash": "CI1/QH+xQTI=",
   "Archives": [
     {
       "Status": "Valid",
@@ -182,7 +182,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "High.ini",
-          "GameVersion": "1.6.323.0",
+          "GameVersion": "1.6.342.0",
           "Hash": "ia6Y2mEquMg="
         }
       }
@@ -198,7 +198,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "installscript.vdf",
-          "GameVersion": "1.6.323.0",
+          "GameVersion": "1.6.342.0",
           "Hash": "M9LtyeAVtQE="
         }
       }
@@ -214,7 +214,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Low.ini",
-          "GameVersion": "1.6.323.0",
+          "GameVersion": "1.6.342.0",
           "Hash": "O5kJ576V0KY="
         }
       }
@@ -230,7 +230,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Medium.ini",
-          "GameVersion": "1.6.323.0",
+          "GameVersion": "1.6.342.0",
           "Hash": "tBVeSwhhyNk="
         }
       }
@@ -260,7 +260,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Skyrim.ccc",
-          "GameVersion": "1.6.323.0",
+          "GameVersion": "1.6.342.0",
           "Hash": "Wsq6jhOx4YM="
         }
       }
@@ -289,16 +289,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QM3cfKFlMVo=",
+        "Hash": "uuCxBZAT5Bk=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=SkyrimSE.exe",
         "Name": "SkyrimSE.exe",
-        "Size": 35403608,
+        "Size": 35410264,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "SkyrimSE.exe",
-          "GameVersion": "1.6.323.0",
-          "Hash": "QM3cfKFlMVo="
+          "GameVersion": "1.6.342.0",
+          "Hash": "uuCxBZAT5Bk="
         }
       }
     },
@@ -313,7 +313,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "SkyrimSELauncher.exe",
-          "GameVersion": "1.6.323.0",
+          "GameVersion": "1.6.342.0",
           "Hash": "0bhc8w0adVI="
         }
       }
@@ -329,7 +329,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Skyrim_Default.ini",
-          "GameVersion": "1.6.323.0",
+          "GameVersion": "1.6.342.0",
           "Hash": "JbYP1w8FSfY="
         }
       }
@@ -345,7 +345,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "steam_api64.dll",
-          "GameVersion": "1.6.323.0",
+          "GameVersion": "1.6.342.0",
           "Hash": "XEqXAcAgOQ8="
         }
       }
@@ -361,7 +361,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Ultra.ini",
-          "GameVersion": "1.6.323.0",
+          "GameVersion": "1.6.342.0",
           "Hash": "joAkOFfS7Wc="
         }
       }
@@ -453,63 +453,105 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "lv2iNE04J14=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=30191\nfileID=248248",
-        "Name": "Adamant - A Perk Overhaul-30191-5-3-2-1639241492.7z",
-        "Size": 89736,
+        "Hash": "yCmzO7vOXQo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43466\nfileID=244246",
+        "Name": "ACE Tweaks-43466-2-0-1637840877.7z",
+        "Size": 1094,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Phoenix",
+          "Description": "Some minor tweaks for kryptopyr\u0027s mods WACCF and ACE.",
+          "FileID": 244246,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43466/43466-1623866233-857623540.png",
+          "IsNSFW": false,
+          "ModID": 43466,
+          "Name": "Tweaks for WACCF and ACE",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pQ5AjNijFAc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=30191\nfileID=248524",
+        "Name": "Adamant - A Perk Overhaul-30191-5-3-3-1639319742.7z",
+        "Size": 89669,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Simon Magus",
           "Description": "Adamant is a complete overhaul of Skyrim\u2019s perk trees designed to balance existing skills and add powerful new perks to the game.",
-          "FileID": 248248,
+          "FileID": 248524,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/30191/30191-1572896988-939425731.png",
           "IsNSFW": false,
           "ModID": 30191,
           "Name": "Adamant - A Perk Overhaul",
-          "Version": "5.3.2.0"
+          "Version": "5.3.3.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SgQvyhKRRkg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59790\nfileID=248236",
-        "Name": "Hand to Hand - Trainers and Skill Books Addon-59790-1-0-0-1639240590.7z",
-        "Size": 72116,
+        "Hash": "rkSlpeW5BIg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59790\nfileID=248541",
+        "Name": "Hand to Hand - BSC Patch-59790-1-0-1-1639323983.7z",
+        "Size": 2350844,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Simon Magus - Colinswrath - Jelidity",
           "Description": "Hand to Hand is an addon for Adamant - A Perk Overhaul that merges Lockpicking and Pickpocketing into a single skill and adds a new perk tree for Hand to Hand combat.",
-          "FileID": 248236,
+          "FileID": 248541,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59790/59790-1639082548-714006488.png",
           "IsNSFW": false,
           "ModID": 59790,
           "Name": "Hand to Hand - An Adamant Addon",
-          "Version": "1.0.0.0"
+          "Version": "1.0.1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "eVVBEKP/+2k=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59790\nfileID=248234",
-        "Name": "Hand to Hand - An Adamant Addon-59790-1-0-0-1639240490.7z",
-        "Size": 534409,
+        "Hash": "/dV3VtW2n9M=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59790\nfileID=248937",
+        "Name": "Hand to Hand - Trainers and Skill Books Addon-59790-1-0-3-1639451190.7z",
+        "Size": 72559,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Simon Magus - Colinswrath - Jelidity",
           "Description": "Hand to Hand is an addon for Adamant - A Perk Overhaul that merges Lockpicking and Pickpocketing into a single skill and adds a new perk tree for Hand to Hand combat.",
-          "FileID": 248234,
+          "FileID": 248937,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59790/59790-1639082548-714006488.png",
           "IsNSFW": false,
           "ModID": 59790,
           "Name": "Hand to Hand - An Adamant Addon",
-          "Version": "1.0.0.0"
+          "Version": "1.0.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cctlPlawx6U=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59790\nfileID=248786",
+        "Name": "Hand to Hand - An Adamant Addon-59790-1-0-1-1639405182.7z",
+        "Size": 534455,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Simon Magus - Colinswrath - Jelidity",
+          "Description": "Hand to Hand is an addon for Adamant - A Perk Overhaul that merges Lockpicking and Pickpocketing into a single skill and adds a new perk tree for Hand to Hand combat.",
+          "FileID": 248786,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59790/59790-1639082548-714006488.png",
+          "IsNSFW": false,
+          "ModID": 59790,
+          "Name": "Hand to Hand - An Adamant Addon",
+          "Version": "1.0.1.0"
         }
       }
     },
@@ -705,21 +747,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Lrl7ayZrNg4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=52130\nfileID=239507",
-        "Name": "Apothecary - An Alchemy Overhaul-52130-1-2-1-1636246567.7z",
-        "Size": 102828,
+        "Hash": "y71R/YkYWrc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=52130\nfileID=248650",
+        "Name": "Apothecary - An Alchemy Overhaul-52130-1-2-3-1639346507.7z",
+        "Size": 102868,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Simon Magus and DeltaRider",
           "Description": "Apothecary is a complete overhaul of Skyrim\u2019s alchemy, food, and alcohol systems designed to balance existing options while adding powerful new effects to the game.",
-          "FileID": 239507,
+          "FileID": 248650,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/52130/52130-1625763145-1987350992.png",
           "IsNSFW": false,
           "ModID": 52130,
           "Name": "Apothecary - An Alchemy Overhaul",
-          "Version": "1.2.1.0"
+          "Version": "1.2.3.0"
         }
       }
     },
@@ -1503,6 +1545,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "ddVHNaXOPWg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=38775\nfileID=248251",
+        "Name": "Kart_CSSET_Overwrite_LATEST-38775-1-2-3-2-1639242215.7z",
+        "Size": 8131263100,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kartoffel",
+          "Description": "All Skyrim SE textures cleaned of compression artifacts, removed bad bicubic upscaling, and other random fixes. Improves performance too.",
+          "FileID": 248251,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38775/38775-1596038458-317824919.png",
+          "IsNSFW": false,
+          "ModID": 38775,
+          "Name": "Cleaned Skyrim SE Textures",
+          "Version": "1.2.3.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "/F3QjgNDLIE=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=53817\nfileID=233664",
         "Name": "College of Winterhold Quest Start Fixes-53817-0-2-1633783252.7z",
@@ -2098,13 +2161,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "dDefinder",
-          "Description": "A blood overhaul mod",
+          "Description": "A blood mod overhaul",
           "FileID": 68649,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60-1-1363345227.jpg",
           "IsNSFW": true,
           "ModID": 2357,
-          "Name": "Enhanced Blood Textures SE",
+          "Name": "Enhanced Blood Textures",
           "Version": "0.0.0.0"
         }
       }
@@ -3393,21 +3456,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0pCvgv3iZrE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44746\nfileID=199448",
-        "Name": "Manbeast - A Werewolf Overhaul-44746-1-2-0-1619026023.7z",
-        "Size": 11030,
+        "Hash": "4QlzuUvtjlk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44746\nfileID=248514",
+        "Name": "Manbeast - A Werewolf Overhaul-44746-1-2-1-1639316610.7z",
+        "Size": 11075,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Simon Magus and colinswrath",
           "Description": "Manbeast is a complete overhaul of Skyrim\u2019s Werewolf system designed to balance existing Werewolf mechanics and add powerful new lycanthropic abilities to the game.",
-          "FileID": 199448,
+          "FileID": 248514,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44746/44746-1611463256-105629958.png",
           "IsNSFW": false,
           "ModID": 44746,
           "Name": "Manbeast - A Werewolf Overhaul",
-          "Version": "0.0.0.0"
+          "Version": "1.2.1.0"
         }
       }
     },
@@ -4086,64 +4149,64 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "39TE1/Ot45E=",
+        "Hash": "dUSNQC77KRY=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Dawnguard.esm",
         "Name": "Data_Dawnguard.esm",
-        "Size": 25884579,
+        "Size": 25885945,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Dawnguard.esm",
-          "GameVersion": "1.6.323.0",
-          "Hash": "39TE1/Ot45E="
+          "GameVersion": "1.6.342.0",
+          "Hash": "dUSNQC77KRY="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "32rOVH8c/vM=",
+        "Hash": "Yy8RXTAQDOA=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Dragonborn.esm",
         "Name": "Data_Dragonborn.esm",
-        "Size": 64663961,
+        "Size": 64663913,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Dragonborn.esm",
-          "GameVersion": "1.6.323.0",
-          "Hash": "32rOVH8c/vM="
+          "GameVersion": "1.6.342.0",
+          "Hash": "Yy8RXTAQDOA="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "NSjSglH0F/s=",
+        "Hash": "VTeJeDgqCJw=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\HearthFires.esm",
         "Name": "Data_HearthFires.esm",
-        "Size": 3977748,
+        "Size": 3978550,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\HearthFires.esm",
-          "GameVersion": "1.6.323.0",
-          "Hash": "NSjSglH0F/s="
+          "GameVersion": "1.6.342.0",
+          "Hash": "VTeJeDgqCJw="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "oZzXdq/4XGs=",
+        "Hash": "q/5qq9s66e8=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Update.esm",
         "Name": "Data_Update.esm",
-        "Size": 18825075,
+        "Size": 18825175,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Update.esm",
-          "GameVersion": "1.6.323.0",
-          "Hash": "oZzXdq/4XGs="
+          "GameVersion": "1.6.342.0",
+          "Hash": "q/5qq9s66e8="
         }
       }
     },
@@ -4430,7 +4493,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "doodlez",
-          "Description": "High-performance lighting for player spells (and now weapons!) with included bug-fixes and automatic compatibility for all spell packs. Skyrim VR compatible. No ENB required!",
+          "Description": "High-performance lighting for player spells (and now weapons!) with included bug-fixes and automatic compatibility for all spell packs. Skyrim SE, AE, VR compatible. Enderal compatible. ESP-FE",
           "FileID": 238019,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56830/56830-1633879879-51384465.png",
@@ -4451,7 +4514,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "doodlez",
-          "Description": "High-performance lighting for player spells (and now weapons!) with included bug-fixes and automatic compatibility for all spell packs. Skyrim VR compatible. No ENB required!",
+          "Description": "High-performance lighting for player spells (and now weapons!) with included bug-fixes and automatic compatibility for all spell packs. Skyrim SE, AE, VR compatible. Enderal compatible. ESP-FE",
           "FileID": 233941,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56830/56830-1633879879-51384465.png",
@@ -6184,27 +6247,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "86HqyqrbK8E=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43466\nfileID=222871",
-        "Name": "Tweaks for WACCF and ACE-43466-1-7-1629623298.7z",
-        "Size": 4510,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Phoenix",
-          "Description": "Some minor tweaks for kryptopyr\u0027s mods WACCF and ACE.",
-          "FileID": 222871,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43466/43466-1623866233-857623540.png",
-          "IsNSFW": false,
-          "ModID": 43466,
-          "Name": "Tweaks for WACCF and ACE",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Dcqb2Ys5Ia0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=44031\nfileID=242437",
         "Name": "Unequip Quiver SE-44031-1-6-1637238325.zip",
@@ -6499,6 +6541,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "L602UIt1cws=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43466\nfileID=244245",
+        "Name": "WACCF Tweaks-43466-2-0-1637840864.7z",
+        "Size": 2799,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Phoenix",
+          "Description": "Some minor tweaks for kryptopyr\u0027s mods WACCF and ACE.",
+          "FileID": 244245,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43466/43466-1623866233-857623540.png",
+          "IsNSFW": false,
+          "ModID": 43466,
+          "Name": "Tweaks for WACCF and ACE",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "AjC4jz7UvMg=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=18994\nfileID=214323",
         "Name": "Weapons Armor Clothing and Clutter Fixes-18994-2-5-1626150186.zip",
@@ -6689,7 +6752,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Animations.bsa",
-          "GameVersion": "1.6.323.0",
+          "GameVersion": "1.6.342.0",
           "Hash": "5xD6UEtvt3M="
         }
       }
@@ -6697,16 +6760,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "sBKaTMsnYZE=",
+        "Hash": "3z2xGhZIbY4=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Interface.bsa",
         "Name": "Data_Skyrim - Interface.bsa",
-        "Size": 78649032,
+        "Size": 78541040,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Interface.bsa",
-          "GameVersion": "1.6.323.0",
-          "Hash": "sBKaTMsnYZE="
+          "GameVersion": "1.6.342.0",
+          "Hash": "3z2xGhZIbY4="
         }
       }
     },
@@ -6721,7 +6784,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Meshes0.bsa",
-          "GameVersion": "1.6.323.0",
+          "GameVersion": "1.6.342.0",
           "Hash": "oIYZPu4jH2g="
         }
       }
@@ -6737,7 +6800,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Meshes1.bsa",
-          "GameVersion": "1.6.323.0",
+          "GameVersion": "1.6.342.0",
           "Hash": "TvzBPkbzJjI="
         }
       }
@@ -6745,7 +6808,7 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "2ijY0jzc0p4=",
+        "Hash": "iMQDxIASP80=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Misc.bsa",
         "Name": "Data_Skyrim - Misc.bsa",
         "Size": 204574260,
@@ -6753,15 +6816,15 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Misc.bsa",
-          "GameVersion": "1.6.323.0",
-          "Hash": "2ijY0jzc0p4="
+          "GameVersion": "1.6.342.0",
+          "Hash": "iMQDxIASP80="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "lzBvM2fcuUc=",
+        "Hash": "6ILjbi2XOOA=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Sounds.bsa",
         "Name": "Data_Skyrim - Sounds.bsa",
         "Size": 1538656059,
@@ -6769,168 +6832,24 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Sounds.bsa",
-          "GameVersion": "1.6.323.0",
-          "Hash": "lzBvM2fcuUc="
+          "GameVersion": "1.6.342.0",
+          "Hash": "6ILjbi2XOOA="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VX7KHQ0qSXM=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures0.bsa",
-        "Name": "Data_Skyrim - Textures0.bsa",
-        "Size": 652401558,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures0.bsa",
-          "GameVersion": "1.6.323.0",
-          "Hash": "VX7KHQ0qSXM="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "0DYAzX1tsf8=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures1.bsa",
-        "Name": "Data_Skyrim - Textures1.bsa",
-        "Size": 1511504224,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures1.bsa",
-          "GameVersion": "1.6.323.0",
-          "Hash": "0DYAzX1tsf8="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "uutAUjvgpvg=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures2.bsa",
-        "Name": "Data_Skyrim - Textures2.bsa",
-        "Size": 1346030841,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures2.bsa",
-          "GameVersion": "1.6.323.0",
-          "Hash": "uutAUjvgpvg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "miIWAsh+4As=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures3.bsa",
-        "Name": "Data_Skyrim - Textures3.bsa",
-        "Size": 1401677791,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures3.bsa",
-          "GameVersion": "1.6.323.0",
-          "Hash": "miIWAsh+4As="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8nHuDbnzCw0=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures4.bsa",
-        "Name": "Data_Skyrim - Textures4.bsa",
-        "Size": 1265325033,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures4.bsa",
-          "GameVersion": "1.6.323.0",
-          "Hash": "8nHuDbnzCw0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "gGA1UynjlR8=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures5.bsa",
-        "Name": "Data_Skyrim - Textures5.bsa",
-        "Size": 809121183,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures5.bsa",
-          "GameVersion": "1.6.323.0",
-          "Hash": "gGA1UynjlR8="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7YxJe07jHiI=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures6.bsa",
-        "Name": "Data_Skyrim - Textures6.bsa",
-        "Size": 107211187,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures6.bsa",
-          "GameVersion": "1.6.323.0",
-          "Hash": "7YxJe07jHiI="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "M2lXyN1Vo8A=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures7.bsa",
-        "Name": "Data_Skyrim - Textures7.bsa",
-        "Size": 700733354,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures7.bsa",
-          "GameVersion": "1.6.323.0",
-          "Hash": "M2lXyN1Vo8A="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "WJzdWWq7n8M=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures8.bsa",
-        "Name": "Data_Skyrim - Textures8.bsa",
-        "Size": 214496000,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures8.bsa",
-          "GameVersion": "1.6.323.0",
-          "Hash": "WJzdWWq7n8M="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "habII97Ul5c=",
+        "Hash": "zJl1CmheETU=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim.esm",
         "Name": "Data_Skyrim.esm",
-        "Size": 249753532,
+        "Size": 249753479,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim.esm",
-          "GameVersion": "1.6.323.0",
-          "Hash": "habII97Ul5c="
+          "GameVersion": "1.6.342.0",
+          "Hash": "zJl1CmheETU="
         }
       }
     },
@@ -7363,21 +7282,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "TLWRUo+Ph74=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=2755\nfileID=4002",
-        "Name": "Follower Trap Safety-2755-1-3.zip",
-        "Size": 5792,
+        "Hash": "FUqSlmwOjnY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=2755\nfileID=245105",
+        "Name": "Follower Trap Safety-2755-1-4-1638111386.zip",
+        "Size": 5818,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Alek",
           "Description": "Followers and summoned creatures will no longer trigger bear traps, pressure plates and trip wires.",
-          "FileID": 4002,
+          "FileID": 245105,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/2755-0-1478260546.jpg",
           "IsNSFW": false,
           "ModID": 2755,
           "Name": "Follower Trap Safety",
-          "Version": "0.0.0.0"
+          "Version": "1.4.0.0"
         }
       }
     },
@@ -7588,13 +7507,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "uq8KT2b+f9A=",
-        "Meta": "[General]\ndirectURL=https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases/download/v0.84-beta/Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar",
-        "Name": "Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60033\nfileID=248867",
+        "Name": "Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar",
         "Size": 26127652,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases/download/v0.84-beta/Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Shikyo Kira",
+          "Description": "Your all in 1 skyrim behavior framework. Automated behavior modification extraction, behavior patching and more. Currently still in beta stage",
+          "FileID": 248867,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60033/87642-1639422463-1327059535.png",
+          "IsNSFW": false,
+          "ModID": 60033,
+          "Name": "Project New Reign - Nemesis Unlimited Behavior Engine",
+          "Version": "0.84.0.0b-"
         }
       }
     },
@@ -17329,7 +17255,7 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "3JVsfCnKO8s=",
+        "Hash": "SwnAPr6pbzg=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Shaders.bsa",
         "Name": "Data_Skyrim - Shaders.bsa",
         "Size": 67308970,
@@ -17337,8 +17263,8 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Shaders.bsa",
-          "GameVersion": "1.6.323.0",
-          "Hash": "3JVsfCnKO8s="
+          "GameVersion": "1.6.342.0",
+          "Hash": "SwnAPr6pbzg="
         }
       }
     }
