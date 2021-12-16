@@ -1,9 +1,9 @@
 ## Validation Report - Dungeons & Deviousness: Director's Cut (dungeons_and_deviousness)
 
 
-### Invalid (1)
+### Invalid (0)
+### Updated (1)
 *  SexLab-Separate-Orgasm-SE-1.7.4.1 SL1.63.7z
-### Updated (0)
 ### Mirrored (0)
 ### Valid (915)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
