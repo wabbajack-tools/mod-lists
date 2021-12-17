@@ -1,10 +1,11 @@
 ## Validation Report - Relics of Hyrule - GAT Edition (rge)
 
 
-### Invalid (0)
+### Invalid (1)
+*  High_Poly_Head_v1.4_(SE).zip
 ### Updated (0)
 ### Mirrored (0)
-### Valid (969)
+### Valid (968)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(2K) Skygazer Moons - Masser and Secunda HD Moons by fadingsignal-54349-1-0.rar](https://www.nexusmods.com/skyrim/mods/54349/?tab=files&file_id=1000110438)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
@@ -395,7 +396,6 @@
 *  [High Quality Tintmasks for Vanilla NPCs - BSA 1K-18360-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18360/?tab=files&file_id=68440)
 *  [High Resolution Books - Menu v1_5-1628.zip](https://www.nexusmods.com/skyrim/mods/1628/?tab=files&file_id=4899)
 *  [High Resolution Books - Objects v1_5-1628.zip](https://www.nexusmods.com/skyrim/mods/1628/?tab=files&file_id=4874)
-*  High_Poly_Head_v1.4_(SE).zip
 *  [High-Res Texture Pack-24273-1-1.zip](https://www.nexusmods.com/skyrim/mods/24273/?tab=files&file_id=105173)
 *  high.ini
 *  [Highlandcow HD-20758-1-0-1548091865.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20758/?tab=files&file_id=79177)
