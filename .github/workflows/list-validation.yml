@@ -6,7 +6,6 @@ on:
   push:
     paths-ignore:
       - reports/**
-      - configs/**
     branches:
       - master
   workflow_dispatch:
