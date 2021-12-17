@@ -2,7 +2,7 @@
   "MachineURL": "keizaal",
   "Name": "Keizaal",
   "Version": "6.1.0",
-  "ModListHash": "HoW4UDpwMMQ=",
+  "ModListHash": "aLqiRyZyBN0=",
   "Archives": [
     {
       "Status": "Valid",
@@ -15,27 +15,6 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "/xrGKMCrByA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=11052\nfileID=200275",
-        "Name": "Lod Pack for DynDoLod (all versions)-11052-1-2-1619435067.7z",
-        "Size": 134057486,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "T4GTR34UM3R",
-          "Description": "-all mountains cast shadows-a single 8192 x 4096 pixel sized texture instead of two 4096 pixel ones-custom UV mapping with a reworked fitting lod-completely reworked vertex colors, prebaked ambient occlusion-reworked \u0022Improved Snow Shader\u0022 settings-three completely differen variations\n\n-optional landscape texture pack with a fitting lod",
-          "FileID": 200275,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/11052-0-1500743977.jpg",
-          "IsNSFW": false,
-          "ModID": 11052,
-          "Name": "Majestic Mountains",
-          "Version": "1.2.0.0"
         }
       }
     },
@@ -1449,13 +1428,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Jelidity",
-          "Description": "Synergy patch for Beyond Skyrim: Bruma and the Goblins Creation, including a new passage into Cyrodiil.",
+          "Description": "Synergy patch for Beyond Skyrim: Bruma and the Goblins Creation, including a new passage into Cyrodiil. Also includes a patch to give new spear weapons to the goblins, preventing them from savagely swinging their hands at you.",
           "FileID": 121730,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32182/32182-1580334193-259729049.jpeg",
           "IsNSFW": false,
           "ModID": 32182,
-          "Name": "Beyond Skyrim Bruma - Creation Club Goblins Synergy Patch",
+          "Name": "Goblins - Bruma and Spears Patches",
           "Version": "1.0.0.0"
         }
       }
@@ -1470,13 +1449,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Jelidity",
-          "Description": "Synergy patch for Beyond Skyrim: Bruma and the Goblins Creation, including a new passage into Cyrodiil.",
+          "Description": "Synergy patch for Beyond Skyrim: Bruma and the Goblins Creation, including a new passage into Cyrodiil. Also includes a patch to give new spear weapons to the goblins, preventing them from savagely swinging their hands at you.",
           "FileID": 122017,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32182/32182-1580334193-259729049.jpeg",
           "IsNSFW": false,
           "ModID": 32182,
-          "Name": "Beyond Skyrim Bruma - Creation Club Goblins Synergy Patch",
+          "Name": "Goblins - Bruma and Spears Patches",
           "Version": "1.0.0.0"
         }
       }
@@ -1772,6 +1751,27 @@
           "ModID": 22447,
           "Name": "Bogmort - Mud Monsters of Morthal Swamp",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1xSQKKC9/iE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=39903\nfileID=240912",
+        "Name": "Rare Curios - Bolts Expanded-39903-1-3-1636766645.7z",
+        "Size": 15838275,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jelidity",
+          "Description": "Adds new types of bolts based on the new models added by Rare Curios. Also fixes a couple of texture issues present in the bolts already present in Rare Curios.",
+          "FileID": 240912,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/39903/39903-1598638220-1599054962.jpeg",
+          "IsNSFW": false,
+          "ModID": 39903,
+          "Name": "Rare Curios - Bolts Expanded",
+          "Version": "1.3.0.0"
         }
       }
     },
@@ -9891,7 +9891,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/12679-0-1507147882.jpg",
           "IsNSFW": false,
           "ModID": 12679,
-          "Name": "No More Creation Club News",
+          "Name": "No More Creation Club News SPECIAL EDITION",
           "Version": "1.0.0.0"
         }
       }
@@ -10676,27 +10676,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "xMuSPPQhgII=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=35366\nfileID=204679",
-        "Name": "CHADD Uncapper Keizaal Cut-35366-2-10-1621568137.zip",
-        "Size": 3415,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Cheshyr",
-          "Description": "Collection of Uncapper Presets. Balanced progression across skills, freedom to pursue noncombat skills, dynamic 1-50 advancement experience. Engaging high-level growth.",
-          "FileID": 204679,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35366/35366-1610936727-1910952051.png",
-          "IsNSFW": false,
-          "ModID": 35366,
-          "Name": "CHADD Uncapper Preset Library",
-          "Version": "2.10.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "9X01gHckBKc=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=53247\nfileID=219009",
         "Name": "Clothing Iron - 1K-53247-1-1-1628175455.zip",
@@ -11411,6 +11390,19 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "dsmXq8w9sms=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Blue_Ogres.7z_88104cdb-2935-4eac-8943-ba05c1ab2822",
+        "Name": "Blue_Ogres.7z",
+        "Size": 4397657,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/Blue_Ogres.7z_88104cdb-2935-4eac-8943-ba05c1ab2822"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "96lbPWoHU74=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=45952\nfileID=197655",
         "Name": "Mari\u0027s flora - Medium-45952-1-2-1618220800.7z",
@@ -11447,6 +11439,27 @@
           "ModID": 9444,
           "Name": "Just Ice",
           "Version": "3.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kG1A5aD+C7A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=50129\nfileID=247721",
+        "Name": "Skyrim Priority SE AE-50129-3-2-0-1639055862.zip",
+        "Size": 59374,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Boring3",
+          "Description": "Make Skyrim always take most of CPU usage\n\nIncrease FPS and Prevent suddenly lag caused by other processes",
+          "FileID": 247721,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50129/50129-1623157278-652122102.png",
+          "IsNSFW": false,
+          "ModID": 50129,
+          "Name": "Skyrim Priority SE AE - skse plugin",
+          "Version": "3.2.0.0"
         }
       }
     },
@@ -11510,6 +11523,27 @@
           "ModID": 2017,
           "Name": "LeanWolf\u0027s Better-Shaped Weapons SE",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/xrGKMCrByA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=11052\nfileID=200275",
+        "Name": "Lod Pack for DynDoLod (all versions)-11052-1-2-1619435067.7z",
+        "Size": 134057486,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "T4GTR34UM3R",
+          "Description": "-all mountains cast shadows-a single 8192 x 4096 pixel sized texture instead of two 4096 pixel ones-custom UV mapping with a reworked fitting lod-completely reworked vertex colors, prebaked ambient occlusion-reworked \u0022Improved Snow Shader\u0022 settings-three completely differen variations\n\n-optional landscape texture pack with a fitting lod",
+          "FileID": 200275,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/11052-0-1500743977.jpg",
+          "IsNSFW": false,
+          "ModID": 11052,
+          "Name": "Majestic Mountains",
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -12308,27 +12342,6 @@
           "ModID": 22892,
           "Name": "Skyrim 3D Blacksmith",
           "Version": "1.0.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kG1A5aD+C7A=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=50129\nfileID=247721",
-        "Name": "Skyrim Priority SE AE-50129-3-2-0-1639055862.zip",
-        "Size": 59374,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Boring3",
-          "Description": "Make Skyrim always take most of CPU usage\n\nIncrease FPS and Prevent suddenly lag caused by other processes",
-          "FileID": 247721,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50129/50129-1623157278-652122102.png",
-          "IsNSFW": false,
-          "ModID": 50129,
-          "Name": "Skyrim Priority SE AE - skse plugin",
-          "Version": "3.2.0.0"
         }
       }
     },
@@ -13441,27 +13454,6 @@
           "ModID": 39479,
           "Name": "Conjuration Staff HD - SE",
           "Version": "1.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7B4m9suXSl4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58120\nfileID=240149",
-        "Name": "Divine Crusader-58120-1-0-1636481661.rar",
-        "Size": 398652323,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "HeartAttackMan",
-          "Description": "Every texture for every Creation Club mod upscaled, maximum size is 4K, textures that were already 4K have been cleaned and saved with a lower compression.",
-          "FileID": 240149,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58120/58120-1636385058-1978659092.jpeg",
-          "IsNSFW": false,
-          "ModID": 58120,
-          "Name": "Anniversary Edition and Creation Club - Everything Upscaled",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -15854,27 +15846,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hlKn0kMnihI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58120\nfileID=240156",
-        "Name": "Netch Leather Armor-58120-1-0-1636481690.rar",
-        "Size": 647720628,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "HeartAttackMan",
-          "Description": "Every texture for every Creation Club mod upscaled, maximum size is 4K, textures that were already 4K have been cleaned and saved with a lower compression.",
-          "FileID": 240156,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58120/58120-1636385058-1978659092.jpeg",
-          "IsNSFW": false,
-          "ModID": 58120,
-          "Name": "Anniversary Edition and Creation Club - Everything Upscaled",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "5gPgpzm9p7E=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=45966\nfileID=187396",
         "Name": "Ultimate Combat and Creature Behaviour\u0027s Nemesis Compatibility-45966-1-12-1613999850.7z",
@@ -16883,90 +16854,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Xt3vcjiHTUw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58120\nfileID=239892",
-        "Name": "Chrysamere-58120-1-0-1636395036.rar",
-        "Size": 18452120,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "HeartAttackMan",
-          "Description": "Every texture for every Creation Club mod upscaled, maximum size is 4K, textures that were already 4K have been cleaned and saved with a lower compression.",
-          "FileID": 239892,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58120/58120-1636385058-1978659092.jpeg",
-          "IsNSFW": false,
-          "ModID": 58120,
-          "Name": "Anniversary Edition and Creation Club - Everything Upscaled",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3PNxwQrRDro=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58120\nfileID=240148",
-        "Name": "Dead Man\u0027s Dread-58120-1-0-1636481657.rar",
-        "Size": 1449588216,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "HeartAttackMan",
-          "Description": "Every texture for every Creation Club mod upscaled, maximum size is 4K, textures that were already 4K have been cleaned and saved with a lower compression.",
-          "FileID": 240148,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58120/58120-1636385058-1978659092.jpeg",
-          "IsNSFW": false,
-          "ModID": 58120,
-          "Name": "Anniversary Edition and Creation Club - Everything Upscaled",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "o6Byq8pohew=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58120\nfileID=240157",
-        "Name": "Rare Curios-58120-1-0-1636481694.rar",
-        "Size": 758492640,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "HeartAttackMan",
-          "Description": "Every texture for every Creation Club mod upscaled, maximum size is 4K, textures that were already 4K have been cleaned and saved with a lower compression.",
-          "FileID": 240157,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58120/58120-1636385058-1978659092.jpeg",
-          "IsNSFW": false,
-          "ModID": 58120,
-          "Name": "Anniversary Edition and Creation Club - Everything Upscaled",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "De7N2lFMEV0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58120\nfileID=240150",
-        "Name": "Elite Crossbows-58120-1-0-1636481664.rar",
-        "Size": 460951779,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "HeartAttackMan",
-          "Description": "Every texture for every Creation Club mod upscaled, maximum size is 4K, textures that were already 4K have been cleaned and saved with a lower compression.",
-          "FileID": 240150,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58120/58120-1636385058-1978659092.jpeg",
-          "IsNSFW": false,
-          "ModID": 58120,
-          "Name": "Anniversary Edition and Creation Club - Everything Upscaled",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "sk09NSiUuSM=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=58120\nfileID=239899",
         "Name": "Alternative Armors - Steel Soldier-58120-1-0-1636396458.rar",
@@ -16997,27 +16884,6 @@
           "Author": "HeartAttackMan",
           "Description": "Every texture for every Creation Club mod upscaled, maximum size is 4K, textures that were already 4K have been cleaned and saved with a lower compression.",
           "FileID": 239902,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58120/58120-1636385058-1978659092.jpeg",
-          "IsNSFW": false,
-          "ModID": 58120,
-          "Name": "Anniversary Edition and Creation Club - Everything Upscaled",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "zq4Z02KXm84=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58120\nfileID=240151",
-        "Name": "Expanded Crossbow Pack-58120-1-0-1636481668.rar",
-        "Size": 411286302,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "HeartAttackMan",
-          "Description": "Every texture for every Creation Club mod upscaled, maximum size is 4K, textures that were already 4K have been cleaned and saved with a lower compression.",
-          "FileID": 240151,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58120/58120-1636385058-1978659092.jpeg",
           "IsNSFW": false,
@@ -17219,21 +17085,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "i+lI6eGKkoM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=34526\nfileID=133161",
-        "Name": "CCAUT_Stalhrim_2x-34526-1-1586416802.7z",
-        "Size": 39492599,
+        "Hash": "UFlXij7s8f0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58120\nfileID=239893",
+        "Name": "Alternative Armors - Stalhrim Fur-58120-1-0-1636395268.rar",
+        "Size": 159359646,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kartoffel",
-          "Description": "",
-          "FileID": 133161,
+          "Author": "HeartAttackMan",
+          "Description": "Every texture for every Creation Club mod upscaled, maximum size is 4K, textures that were already 4K have been cleaned and saved with a lower compression.",
+          "FileID": 239893,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": null,
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58120/58120-1636385058-1978659092.jpeg",
           "IsNSFW": false,
-          "ModID": 34526,
-          "Name": "",
-          "Version": "0.0.0.0"
+          "ModID": 58120,
+          "Name": "Anniversary Edition and Creation Club - Everything Upscaled",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -17291,27 +17157,6 @@
           "Author": "HeartAttackMan",
           "Description": "Every texture for every Creation Club mod upscaled, maximum size is 4K, textures that were already 4K have been cleaned and saved with a lower compression.",
           "FileID": 239903,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58120/58120-1636385058-1978659092.jpeg",
-          "IsNSFW": false,
-          "ModID": 58120,
-          "Name": "Anniversary Edition and Creation Club - Everything Upscaled",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "RrII9/FEbNQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58120\nfileID=240162",
-        "Name": "Vigil Enforcer Armor Set-58120-1-0-1636481712.rar",
-        "Size": 716573962,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "HeartAttackMan",
-          "Description": "Every texture for every Creation Club mod upscaled, maximum size is 4K, textures that were already 4K have been cleaned and saved with a lower compression.",
-          "FileID": 240162,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58120/58120-1636385058-1978659092.jpeg",
           "IsNSFW": false,
