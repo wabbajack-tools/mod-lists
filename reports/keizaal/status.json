@@ -2,7 +2,7 @@
   "MachineURL": "keizaal",
   "Name": "Keizaal",
   "Version": "6.1.0",
-  "ModListHash": "aLqiRyZyBN0=",
+  "ModListHash": "/kVY1Ns08jk=",
   "Archives": [
     {
       "Status": "Valid",
@@ -4996,10 +4996,24 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "A1ZWeyAfVow=",
+        "Hash": "Pw+grAxIX0w=",
+        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Maintenance/releases/download/Maintenance/Keizaal-Maintenance-main.zip",
+        "Name": "Keizaal-Maintenance-main.zip",
+        "Size": 6344,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Keizaal/Keizaal-Maintenance/releases/download/Maintenance/Keizaal-Maintenance-main.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rk2HJIjNtqc=",
         "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Patch/releases/download/Patch/Keizaal-Patch-main.zip",
         "Name": "Keizaal-Patch-main.zip",
-        "Size": 20809476,
+        "Size": 12320878,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
@@ -5010,10 +5024,10 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kGiSOL4fnbA=",
+        "Hash": "6nu19BuBx1U=",
         "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Patron-Rewards/releases/download/Rewards/Keizaal-Patron-Rewards-main.zip",
         "Name": "Keizaal-Patron-Rewards-main.zip",
-        "Size": 117804434,
+        "Size": 774397,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
@@ -5024,10 +5038,10 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "W+idM1clviQ=",
+        "Hash": "lYm34InRPRU=",
         "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-RaceMenu-Presets/releases/download/Presets/Keizaal-RaceMenu-Presets-main.zip",
         "Name": "Keizaal-RaceMenu-Presets-main.zip",
-        "Size": 5953446,
+        "Size": 6012445,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
@@ -5038,10 +5052,10 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PW/M54eFI3U=",
+        "Hash": "ELwkWskzBpw=",
         "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Settings/releases/download/Settings/Keizaal-Settings-main.zip",
         "Name": "Keizaal-Settings-main.zip",
-        "Size": 187953,
+        "Size": 229319,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
@@ -5052,10 +5066,31 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "x5Rp5qk/0JY=",
+        "Hash": "UUubiWiVyx4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58224\nfileID=240469",
+        "Name": "Security Overhaul SKSE - Lock Variations-58224-1-0-1636599424.7z",
+        "Size": 168122556,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kreiste-wSkeever-powerofthree",
+          "Description": "SKSE based framework for replacing overused lock model with unique lock variants.",
+          "FileID": 240469,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58224/58224-1636566041-1637060129.gif",
+          "IsNSFW": false,
+          "ModID": 58224,
+          "Name": "Security Overhaul SKSE - Lock Variations",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "D43KWUjhpvw=",
         "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Tweaks/releases/download/Tweaks/Keizaal-Tweaks-main.zip",
         "Name": "Keizaal-Tweaks-main.zip",
-        "Size": 47016516,
+        "Size": 49756494,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
@@ -9731,21 +9766,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "l5fmxfOLccs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59655\nfileID=247213",
-        "Name": "Obsidian Weathers and Seasons MCM Patch - Settings Loader-59655-1-0-1638856512.7z",
-        "Size": 3663,
+        "Hash": "rsrAuVHmGfM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=1651\nfileID=33902",
+        "Name": "SKSE64 INI PRE DOWNLOAD v1.2-1651-1-2.7z",
+        "Size": 325,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MaskedRPGFan",
-          "Description": "Created from scratch MCM for Obsidian Weathers and Seasons MCM Patch by Fudgyduff to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load, so you don\u0027t have to spend time in MCM again with each game. Localization support. No plugin.",
-          "FileID": 247213,
+          "Author": "Sagittarius22",
+          "Description": "Don\u0027t know what to add in your SKSE ini? \r\n\nHere\u0027s one. Does NOT include SKSE files but only the ini.",
+          "FileID": 33902,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59655/59655-1638856625-1271983193.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51038-1-1392205368.jpg",
           "IsNSFW": false,
-          "ModID": 59655,
-          "Name": "Obsidian Weathers and Seasons MCM Patch - Settings Loader",
-          "Version": "1.0.0.0"
+          "ModID": 1651,
+          "Name": "SKSE64 ini pre-download for lazy users",
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -11445,21 +11480,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kG1A5aD+C7A=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=50129\nfileID=247721",
-        "Name": "Skyrim Priority SE AE-50129-3-2-0-1639055862.zip",
-        "Size": 59374,
+        "Hash": "Lu2qAMaEvw0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42161\nfileID=173957",
+        "Name": "Grass Control v6-42161-6-1607532895.zip",
+        "Size": 60674,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Boring3",
-          "Description": "Make Skyrim always take most of CPU usage\n\nIncrease FPS and Prevent suddenly lag caused by other processes",
-          "FileID": 247721,
+          "Author": "meh321",
+          "Description": "Stops grass from growing out of rocks, floorboards, bedrolls, crates, roads and other objects. Also allows drawing grass outside of loaded cells.",
+          "FileID": 173957,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50129/50129-1623157278-652122102.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42161/42161-1604867051-1379334159.png",
           "IsNSFW": false,
-          "ModID": 50129,
-          "Name": "Skyrim Priority SE AE - skse plugin",
-          "Version": "3.2.0.0"
+          "ModID": 42161,
+          "Name": "No Grass In Objects",
+          "Version": "6.0.0.0"
         }
       }
     },
@@ -11481,6 +11516,132 @@
           "ModID": 3620,
           "Name": "Keyboard Shortcuts Fix",
           "Version": "1.0.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ZKXQVYeF5d0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=36095\nfileID=140440",
+        "Name": "Player Rotation in ShowRaceMenu v1.0.0 for SkyrimSE-36095-1-0-0-1589710499.7z",
+        "Size": 130343,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Felisky",
+          "Description": "This mod makes it possible to rotate the player character using right-clicking and mouse dragging in ShowRaceMenu.",
+          "FileID": 140440,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/36095/36095-1589710318-598360198.jpeg",
+          "IsNSFW": false,
+          "ModID": 36095,
+          "Name": "Player Rotation in ShowRaceMenu",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fFSCBVmizww=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=51073\nfileID=215916",
+        "Name": "INI file-51073-1-2-1626933536.7z",
+        "Size": 1588,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "Collection of engine bug fixes and tweaks. SKSE plugin.",
+          "FileID": 215916,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51073/51073-1623688700-1006153578.png",
+          "IsNSFW": false,
+          "ModID": 51073,
+          "Name": "powerofthree\u0027s Tweaks",
+          "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kG1A5aD+C7A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=50129\nfileID=247721",
+        "Name": "Skyrim Priority SE AE-50129-3-2-0-1639055862.zip",
+        "Size": 59374,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Boring3",
+          "Description": "Make Skyrim always take most of CPU usage\n\nIncrease FPS and Prevent suddenly lag caused by other processes",
+          "FileID": 247721,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50129/50129-1623157278-652122102.png",
+          "IsNSFW": false,
+          "ModID": 50129,
+          "Name": "Skyrim Priority SE AE - skse plugin",
+          "Version": "3.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CKEERKyMBO8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=18860\nfileID=193340",
+        "Name": "PrivateProfileRedirector SE 0.5.2-18860-0-5-2-1616600452.zip",
+        "Size": 158550,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Karandra",
+          "Description": "Speeds up game start by storing INI files in memory instead of opening, parsing and closing the file each time some value from it is needed.",
+          "FileID": 193340,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18860/18860-1569070418-156286168.png",
+          "IsNSFW": false,
+          "ModID": 18860,
+          "Name": "PrivateProfileRedirector SE - Faster game start (INI file cacher)",
+          "Version": "0.5.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1H6gPEwDVKM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43532\nfileID=200347",
+        "Name": "Scrambled Eggchantments-43532-1-1619468588.7z",
+        "Size": 222914,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "meh321 and KernalsEgg",
+          "Description": "A collection of engine bug fixes and patches.",
+          "FileID": 200347,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43532/43532-1631663358-1008600046.jpeg",
+          "IsNSFW": false,
+          "ModID": 43532,
+          "Name": "Scrambled Bugs",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xMuSPPQhgII=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=35366\nfileID=204679",
+        "Name": "CHADD Uncapper Keizaal Cut-35366-2-10-1621568137.zip",
+        "Size": 3415,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cheshyr",
+          "Description": "Collection of Uncapper Presets. Balanced progression across skills, freedom to pursue noncombat skills, dynamic 1-50 advancement experience. Engaging high-level growth.",
+          "FileID": 204679,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35366/35366-1610936727-1910952051.png",
+          "IsNSFW": false,
+          "ModID": 35366,
+          "Name": "CHADD Uncapper Preset Library",
+          "Version": "2.10.0.0"
         }
       }
     },
@@ -11718,27 +11879,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ZKXQVYeF5d0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=36095\nfileID=140440",
-        "Name": "Player Rotation in ShowRaceMenu v1.0.0 for SkyrimSE-36095-1-0-0-1589710499.7z",
-        "Size": 130343,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Felisky",
-          "Description": "This mod makes it possible to rotate the player character using right-clicking and mouse dragging in ShowRaceMenu.",
-          "FileID": 140440,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/36095/36095-1589710318-598360198.jpeg",
-          "IsNSFW": false,
-          "ModID": 36095,
-          "Name": "Player Rotation in ShowRaceMenu",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "qiIeNR+Da7I=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=51073\nfileID=243754",
         "Name": "powerofthree\u0027s Tweaks SE-51073-1-4-1-1637694161.7z",
@@ -11754,27 +11894,6 @@
           "ModID": 51073,
           "Name": "powerofthree\u0027s Tweaks",
           "Version": "1.4.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "CKEERKyMBO8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=18860\nfileID=193340",
-        "Name": "PrivateProfileRedirector SE 0.5.2-18860-0-5-2-1616600452.zip",
-        "Size": 158550,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Karandra",
-          "Description": "Speeds up game start by storing INI files in memory instead of opening, parsing and closing the file each time some value from it is needed.",
-          "FileID": 193340,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18860/18860-1569070418-156286168.png",
-          "IsNSFW": false,
-          "ModID": 18860,
-          "Name": "PrivateProfileRedirector SE - Faster game start (INI file cacher)",
-          "Version": "0.5.2.0"
         }
       }
     },
@@ -12237,27 +12356,6 @@
           "ModID": 53205,
           "Name": "Scallions of Skyrim - High Polygon Leeks",
           "Version": "0.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "1H6gPEwDVKM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43532\nfileID=200347",
-        "Name": "Scrambled Eggchantments-43532-1-1619468588.7z",
-        "Size": 222914,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "meh321 and KernalsEgg",
-          "Description": "A collection of engine bug fixes and patches.",
-          "FileID": 200347,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43532/43532-1631663358-1008600046.jpeg",
-          "IsNSFW": false,
-          "ModID": 43532,
-          "Name": "Scrambled Bugs",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -14210,6 +14308,27 @@
           "ModID": 39474,
           "Name": "Keening Rework HD - SE",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zDkgv+/4dOw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=50410\nfileID=206436",
+        "Name": "Imperial Guard Centurion Armor SE - 2k-50410-1-2-1-1622404776.rar",
+        "Size": 97211233,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "johnskyrim",
+          "Description": "Adds a unique, lore friendly armor set based on the same version from Elder Scrolls Online. Comes in 2k and 4k versions.",
+          "FileID": 206436,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50410/50410-1622073484-1347811060.png",
+          "IsNSFW": false,
+          "ModID": 50410,
+          "Name": "Imperial Guard Centurion Armor SE",
+          "Version": "1.2.1.0"
         }
       }
     },
@@ -16281,48 +16400,6 @@
           "ModID": 6192,
           "Name": "JazzJR CoverKhajiits Bodytexture Ver1",
           "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "69+Nvz6jurk=",
-        "Meta": "[General]\ngameName=skyrim\nmodID=59174\nfileID=1000299371",
-        "Name": "True Wolves of Skyrim-59174-2-01-1560474108.7z",
-        "Size": 53814481,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "KrittaKitty and ShimoOkami",
-          "Description": "Super realistic textures and mesh replacer for Skyrim wolves. ",
-          "FileID": 1000299371,
-          "GameName": "Skyrim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/110/images/59174/59174-1555919900-1098291553.jpeg",
-          "IsNSFW": false,
-          "ModID": 59174,
-          "Name": "True Wolves Of Skyrim",
-          "Version": "f2.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "RDfxhL3vVzM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=4653\nfileID=69341",
-        "Name": "Dogs Kingdom SE 2.1-4653-2-1-1539624385.7z",
-        "Size": 17752025,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "gg77",
-          "Description": "This mod adds Dogs in Skyrim",
-          "FileID": 69341,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4653-0-1479546804.jpg",
-          "IsNSFW": false,
-          "ModID": 4653,
-          "Name": "Dogs Kingdom SE",
-          "Version": "2.1.0.0"
         }
       }
     },
