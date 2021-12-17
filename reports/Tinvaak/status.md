@@ -1,11 +1,10 @@
 ## Validation Report - Tinvaak 2 (Tinvaak)
 
 
-### Invalid (1)
-*  [T2Resources.7z](https://authored-files.wabbajack.org/T2Resources.7z_ba101af9-f34a-46be-9ee6-2740b29971c6)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1336)
+### Valid (1337)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -1164,6 +1163,7 @@
 *  [SV Mods Menu-34784-1-21SE-1586993265.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34784/?tab=files&file_id=134535)
 *  [Sweeping Organizes Stuff - Use Broom to Clean Mess-51645-0-4-1631276902.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51645/?tab=files&file_id=227392)
 *  [T2LandscapeResources.7z](https://authored-files.wabbajack.org/T2LandscapeResources.7z_847a1ae9-ec8b-4767-b1b3-2f3394abc037)
+*  [T2Resources.7z](https://authored-files.wabbajack.org/T2Resources.7z_ba101af9-f34a-46be-9ee6-2740b29971c6)
 *  [Tale of Two Mer-43074-2-2-0-1634494475.zip](https://www.nexusmods.com/skyrimspecialedition/mods/43074/?tab=files&file_id=235416)
 *  [Talisman of Treachery HD 1.2 - Regular-27763-1-2-1564853962.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27763/?tab=files&file_id=101739)
 *  [TavernAIFix-se-23107-1-1d-1592428108.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23107/?tab=files&file_id=146207)
