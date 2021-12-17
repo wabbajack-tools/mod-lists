@@ -1,11 +1,10 @@
 ## Validation Report - Tinvaak 2 (Tinvaak)
 
 
-### Invalid (1)
-*  High_Poly_Head_v1.4_(SE).zip
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1336)
+### Valid (1337)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -565,6 +564,7 @@
 *  [High Poly Project-12029-v5-3-1634909383.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=236420)
 *  [High Poly Soul Husks for cunny1975's textures-47891-0-2-1617301553.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47891/?tab=files&file_id=195241)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
+*  High_Poly_Head_v1.4_(SE).zip
 *  [High-Poly Inigo Replacer - FOMOD installer-38860-3-0-1596500717.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38860/?tab=files&file_id=153610)
 *  high.ini
 *  [Highlandcow HD-20758-1-0-1548091865.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20758/?tab=files&file_id=79177)
