@@ -2,7 +2,7 @@
   "MachineURL": "keizaal",
   "Name": "Keizaal",
   "Version": "6.1.0",
-  "ModListHash": "/kVY1Ns08jk=",
+  "ModListHash": "Nw0eYRi9Lqc=",
   "Archives": [
     {
       "Status": "Valid",
@@ -5052,6 +5052,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "XbHBB3dI4RE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59529\nfileID=248739",
+        "Name": "Security Overhaul SKSE - Add-ons-59529-0-1-2-1639384195.7z",
+        "Size": 176715420,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kreiste-wSkeever-powerofthree",
+          "Description": "Additional variant lock models for Security Overhaul SKSE - Lock Variations",
+          "FileID": 248739,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59529/59529-1638754442-1253084650.gif",
+          "IsNSFW": false,
+          "ModID": 59529,
+          "Name": "Security Overhaul SKSE - Add-ons",
+          "Version": "0.1.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "ELwkWskzBpw=",
         "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Settings/releases/download/Settings/Keizaal-Settings-main.zip",
         "Name": "Keizaal-Settings-main.zip",
@@ -6941,27 +6962,6 @@
           "ModID": 41639,
           "Name": "Scion - A Vampire Overhaul",
           "Version": "1.2.3.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "XbHBB3dI4RE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59529\nfileID=248739",
-        "Name": "Security Overhaul SKSE - Add-ons-59529-0-1-2-1639384195.7z",
-        "Size": 176715420,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kreiste-wSkeever-powerofthree",
-          "Description": "Additional variant lock models for Security Overhaul SKSE - Lock Variations",
-          "FileID": 248739,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59529/59529-1638754442-1253084650.gif",
-          "IsNSFW": false,
-          "ModID": 59529,
-          "Name": "Security Overhaul SKSE - Add-ons",
-          "Version": "0.1.2.0"
         }
       }
     },
