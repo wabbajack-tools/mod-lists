@@ -1,14 +1,13 @@
 ## Validation Report - Licentia (Licentia)
 
 
-### Invalid (4)
-*  High_Poly_Head_v1.4_(SE).zip
+### Invalid (3)
 *  OTrainers_2.0.zip
 *  Schlongs_of_Skyrim_SE - v1.1.4.rar
 *  SexLab_Solutions_Revisited_SE_-_Ostim_Beta_4.1.7z
 ### Updated (0)
 ### Mirrored (0)
-### Valid (829)
+### Valid (830)
 *  [(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77989)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
 *  [(4) Community Overlays 3 - Main - CBBE and Male-35339-1-0-1588129970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136903)
@@ -313,6 +312,7 @@
 *  [Hi-Res Armors Weapons Creatures-11849-1-4-0-1610197197.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11849/?tab=files&file_id=178564)
 *  [High Level Enemies Redux 2.0 Beta-32801-2-0-Beta-1627044271.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32801/?tab=files&file_id=216151)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
+*  High_Poly_Head_v1.4_(SE).zip
 *  [High-Poly Inigo Replacer - FOMOD installer-38860-3-0-1596500717.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38860/?tab=files&file_id=153610)
 *  [Himbo Regular Guy-48743-1-0-1618777994.zip](https://www.nexusmods.com/skyrimspecialedition/mods/48743/?tab=files&file_id=198899)
 *  [HIMBO V4 - Core-46311-4-2-0-1627739064.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46311/?tab=files&file_id=217856)
