@@ -1,7 +1,10 @@
 ## Validation Report - That Lucky Old Inquisitor (thatluckyoldinquisitor)
 
 
-### Invalid (35)
+### Invalid (0)
+### Updated (0)
+### Mirrored (0)
+### Valid (35)
 *  [Boosted Volume-2726-1-1597669066.rar](https://www.nexusmods.com/dragonageinquisition/mods/2726/?tab=files&file_id=13279)
 *  [BugsBeGone-1992-v0-7-2-1577477895.zip](https://www.nexusmods.com/dragonageinquisition/mods/1992/?tab=files&file_id=11291)
 *  [cassandra_meshfix (frosty)-3312-1-0-0-1607187757.zip](https://www.nexusmods.com/dragonageinquisition/mods/3312/?tab=files&file_id=14109)
@@ -37,6 +40,3 @@
 *  [War Table Rewards Change - Gather Materials-3622-1-1-1639365985.zip](https://www.nexusmods.com/dragonageinquisition/mods/3622/?tab=files&file_id=15855)
 *  [War Table Rewards Change - Haven-3622-1-0-1639262309.zip](https://www.nexusmods.com/dragonageinquisition/mods/3622/?tab=files&file_id=15842)
 *  [War Table Rewards Change - Skyhold-3622-1-0-1639262378.zip](https://www.nexusmods.com/dragonageinquisition/mods/3622/?tab=files&file_id=15843)
-### Updated (0)
-### Mirrored (0)
-### Valid (0)

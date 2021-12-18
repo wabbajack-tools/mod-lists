@@ -1,7 +1,10 @@
 ## Validation Report - The Phoenix Flavour (tpf)
 
 
-### Invalid (832)
+### Invalid (0)
+### Updated (0)
+### Mirrored (0)
+### Valid (832)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
 *  [(Part 1) Engine Fixes-17230-5-8-0-1637340889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=242713)
@@ -834,6 +837,3 @@
 *  [Yet Another Music Merge-48725-1-0-1618749645.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48725/?tab=files&file_id=198825)
 *  [Ysgramor Shield 2K-46864-1-0-1615538766.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46864/?tab=files&file_id=190957)
 *  [z Vanilla Military Camps-9005-1-1558843128.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9005/?tab=files&file_id=93654)
-### Updated (0)
-### Mirrored (0)
-### Valid (0)

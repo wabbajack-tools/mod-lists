@@ -1,7 +1,10 @@
 ## Validation Report - Legends of the Frost (lotf)
 
 
-### Invalid (276)
+### Invalid (0)
+### Updated (0)
+### Mirrored (0)
+### Valid (276)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [(Part 1) Engine Fixes-17230-5-8-0-1637340889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=242713)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -278,6 +281,3 @@
 *  [xLODGen.84.7z](https://authored-files.wabbajack.org/xLODGen.84.7z_66c4e456-5385-459e-91a9-8b0fb00a3d5d)
 *  [YesImSure-24898-1-5-0-1583022330.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24898/?tab=files&file_id=126540)
 *  [z Vanilla Military Camps-9005-1-1558843128.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9005/?tab=files&file_id=93654)
-### Updated (0)
-### Mirrored (0)
-### Valid (0)

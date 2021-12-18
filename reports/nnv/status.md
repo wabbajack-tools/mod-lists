@@ -1,7 +1,10 @@
 ## Validation Report - No, Not Vegas (nnv)
 
 
-### Invalid (324)
+### Invalid (0)
+### Updated (0)
+### Mirrored (0)
+### Valid (324)
 *  [.50 BMG Compatibility-73565-1-1630816314.rar](https://www.nexusmods.com/newvegas/mods/73565/?tab=files&file_id=1000080699)
 *  [01 - Vanilla Body Version-55174-1-0-vanilla-1581050238.7z](https://www.nexusmods.com/newvegas/mods/55174/?tab=files&file_id=1000059173)
 *  [091 -  2k Body-70160-any-1634926373.7z](https://www.nexusmods.com/newvegas/mods/70160/?tab=files&file_id=1000082874)
@@ -326,6 +329,3 @@
 *  [yUI-74357-1-0f-1636981535.7z](https://www.nexusmods.com/newvegas/mods/74357/?tab=files&file_id=1000084046)
 *  [YUP - Base Game and All DLC-51664-12-2-1622237906.7z](https://www.nexusmods.com/newvegas/mods/51664/?tab=files&file_id=1000076677)
 *  [zEdit_v0.6.6.1_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.6.1/zEdit_v0.6.6.1_-_Portable_x64.7z)
-### Updated (0)
-### Mirrored (0)
-### Valid (0)

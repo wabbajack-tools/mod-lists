@@ -1,7 +1,10 @@
 ## Validation Report - The Hawke Always Wins (thehawkealwayswins)
 
 
-### Invalid (54)
+### Invalid (0)
+### Updated (0)
+### Mirrored (0)
+### Valid (54)
 *  [All Models-3136.rar](https://www.nexusmods.com/dragonage2/mods/3136/?tab=files&file_id=16258)
 *  [Anto Hairs v1-4208-01.zip](https://www.nexusmods.com/dragonage2/mods/4208/?tab=files&file_id=1000002356)
 *  [Arishok AI Rebalance-4192-1-0.zip](https://www.nexusmods.com/dragonage2/mods/4192/?tab=files&file_id=1000002294)
@@ -56,6 +59,3 @@
 *  [The Pirate Queen-4395-1-1617969063.rar](https://www.nexusmods.com/dragonage2/mods/4395/?tab=files&file_id=1000003297)
 *  [The Rogue Crow-4396-1-1629653144.rar](https://www.nexusmods.com/dragonage2/mods/4396/?tab=files&file_id=1000003412)
 *  [Zevran Romance Dialogue Fix 2.0-3979-2-0.zip](https://www.nexusmods.com/dragonage2/mods/3979/?tab=files&file_id=1000002251)
-### Updated (0)
-### Mirrored (0)
-### Valid (0)

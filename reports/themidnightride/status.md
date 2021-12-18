@@ -1,7 +1,10 @@
 ## Validation Report - The Midnight Ride (themidnightride)
 
 
-### Invalid (56)
+### Invalid (0)
+### Updated (0)
+### Mirrored (0)
+### Valid (56)
 *  [Addres Library-47327-1-10-163-0-1599728753.zip](https://www.nexusmods.com/fallout4/mods/47327/?tab=files&file_id=191018)
 *  [BCR- Lever Action Rifle v1.02-41178-1-02-1569349299.zip](https://www.nexusmods.com/fallout4/mods/41178/?tab=files&file_id=167402)
 *  [Better Coastal Waves ESL-47153-1-1-1598895306.zip](https://www.nexusmods.com/fallout4/mods/47153/?tab=files&file_id=190357)
@@ -58,6 +61,3 @@
 *  [Weapon Debris Crash Fix-48078-1-2-1605028967.zip](https://www.nexusmods.com/fallout4/mods/48078/?tab=files&file_id=194684)
 *  [xSE PluginPreloader F4 0.2.4-33946-0-2-4-1606749072.zip](https://www.nexusmods.com/fallout4/mods/33946/?tab=files&file_id=195989)
 *  [Yet Another HUD Preset-35672-1-6-1624905377.7z](https://www.nexusmods.com/fallout4/mods/35672/?tab=files&file_id=211361)
-### Updated (0)
-### Mirrored (0)
-### Valid (0)

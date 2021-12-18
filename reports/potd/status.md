@@ -1,7 +1,11 @@
 ## Validation Report - Path of the Dovahkiin (potd)
 
 
-### Invalid (508)
+### Invalid (1)
+*  High_Poly_Head_v1.4_(SE).zip
+### Updated (0)
+### Mirrored (0)
+### Valid (507)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -227,7 +231,6 @@
 *  [High Poly Gleamblossoms - ENB Light-40278-1-2-1626461597.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40278/?tab=files&file_id=214944)
 *  [High Poly Project-12029-v4-95-1614673394.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=188917)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
-*  High_Poly_Head_v1.4_(SE).zip
 *  high.ini
 *  [Hostile Messenger Fix-50307-V2-3-1-1632123808.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50307/?tab=files&file_id=229568)
 *  [HQ Alduins Wall - 1.0-2638-1-01.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2638/?tab=files&file_id=3816)
@@ -510,6 +513,3 @@
 *  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
 *  [zedit-visual-transfer-23254-1-0-1-1549597958.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23254/?tab=files&file_id=81053)
 *  [Ziovendian Bodypaints - Female and Male (CBBE)-25204-1-1555774523.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25204/?tab=files&file_id=89058)
-### Updated (0)
-### Mirrored (0)
-### Valid (0)

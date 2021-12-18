@@ -1,7 +1,10 @@
 ## Validation Report - Heartland (heartland)
 
 
-### Invalid (218)
+### Invalid (0)
+### Updated (0)
+### Mirrored (0)
+### Valid (218)
 *  [1.A Tropical Gold Coast-51187-1-A-1625614921.zip](https://www.nexusmods.com/oblivion/mods/51187/?tab=files&file_id=1000028325)
 *  [2020 Retexture Project - Landscape and Rocks-49933-2-0-1615432788.7z](https://www.nexusmods.com/oblivion/mods/49933/?tab=files&file_id=1000027190)
 *  [2020 Retexture Project - Snowy Roofs in Bruma (AWLS)-49933-1-1-1615434855.7z](https://www.nexusmods.com/oblivion/mods/49933/?tab=files&file_id=1000027192)
@@ -220,6 +223,3 @@
 *  [Wet Version Update1-47316-.zip](https://www.nexusmods.com/oblivion/mods/47316/?tab=files&file_id=1000015331)
 *  [Wrye Bash 309.1 - Standalone Executable-22368-309-1-1623232823.7z](https://www.nexusmods.com/oblivion/mods/22368/?tab=files&file_id=1000028064)
 *  [xOBSE22.4.1.7z](https://github.com/llde/xOBSE/releases/download/22.4.1/xOBSE22.4.1.7z)
-### Updated (0)
-### Mirrored (0)
-### Valid (0)

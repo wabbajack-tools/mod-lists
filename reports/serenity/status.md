@@ -1,7 +1,11 @@
 ## Validation Report - Serenity 2 (serenity)
 
 
-### Invalid (998)
+### Invalid (0)
+### Updated (0)
+### Mirrored (1)
+*  [enbseries_skyrimse_v0462.zip](http://enbdev.com/enbseries_skyrimse_v0462.zip)
+### Valid (998)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [000EquanimityLoader.7z](https://wabbajack.b-cdn.net/000EquanimityLoader.7z_21c9caf3-f5b4-4589-bc0e-fde0af7d00e3)
@@ -1000,7 +1004,3 @@
 *  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
 *  [Zora_normalizedv2-16090-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16090/?tab=files&file_id=51545)
 *  [zxlice hitStop v0.9.3a-42811-0-9-3a-1607855937.rar](https://www.nexusmods.com/skyrimspecialedition/mods/42811/?tab=files&file_id=174342)
-### Updated (0)
-### Mirrored (1)
-*  [enbseries_skyrimse_v0462.zip](http://enbdev.com/enbseries_skyrimse_v0462.zip)
-### Valid (0)

@@ -1,7 +1,10 @@
 ## Validation Report - Big Warden (big_warden)
 
 
-### Invalid (157)
+### Invalid (0)
+### Updated (0)
+### Mirrored (0)
+### Valid (157)
 *  [ GDApp-214-1.rar](https://www.nexusmods.com/dragonage/mods/214/?tab=files&file_id=12111)
 *  [[DAO] Vanilla Textures Replacer.7z](https://www.dropbox.com/s/1inuwa5345bryl0/%5BDAO%5D Vanilla Textures Replacer.7z?dl=1)
 *  [[sapphim] Keeper Avvar Ports.7z](https://www.mediafire.com/file/scbebe74e7i46ly/%255Bsapphim%255D_Keeper_Avvar_Ports.7z/file)
@@ -159,6 +162,3 @@
 *  [Witcher hairstyles. Elfs and dwarfs edition-4526-.rar](https://www.nexusmods.com/dragonage/mods/4526/?tab=files&file_id=1000004820)
 *  [Witcher inspired morps WRT-4526-.rar](https://www.nexusmods.com/dragonage/mods/4526/?tab=files&file_id=1000003976)
 *  [Zoe hairbun-4795-1-0-1542564756.rar](https://www.nexusmods.com/dragonage/mods/4795/?tab=files&file_id=1000006061)
-### Updated (0)
-### Mirrored (0)
-### Valid (0)

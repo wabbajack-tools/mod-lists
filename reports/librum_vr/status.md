@@ -1,7 +1,10 @@
 ## Validation Report - Librum VR (librum_vr)
 
 
-### Invalid (1132)
+### Invalid (0)
+### Updated (0)
+### Mirrored (0)
+### Valid (1132)
 *  [(1) Community Overlays 1 - Main - UNP  2K-22487-1-0-1-1547247749.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77985)
 *  [(1K) Skygazer Moons - Masser and Secunda HD Moons by fadingsignal-54349-1-0.rar](https://www.nexusmods.com/skyrim/mods/54349/?tab=files&file_id=1000110439)
 *  [(3) Community Overlays 2 - Main - UUNP and Male-26224-1-0-1559372410.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94369)
@@ -1134,6 +1137,3 @@
 *  [ZIm's Dremora Improvements-CACO Consistency Patch-16814-1-0-1584929494.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16814/?tab=files&file_id=130046)
 *  [Zim's Immersive Artifacts V1.6.2-9138-V1-6-2-1592990585.rar](https://www.nexusmods.com/skyrimspecialedition/mods/9138/?tab=files&file_id=147184)
 *  [Zora_normalizedv2-16090-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16090/?tab=files&file_id=51545)
-### Updated (0)
-### Mirrored (0)
-### Valid (0)

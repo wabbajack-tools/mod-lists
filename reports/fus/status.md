@@ -1,7 +1,10 @@
 ## Validation Report - FUS (fus)
 
 
-### Invalid (362)
+### Invalid (0)
+### Updated (0)
+### Mirrored (0)
+### Valid (362)
 *  [3D Casting FX-50197-1-0-1621612410.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50197/?tab=files&file_id=204758)
 *  [A Better Magelight - Enhanced-5954-2-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/5954/?tab=files&file_id=16406)
 *  [a better magelight patch-53186-1-0-1627894519.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53186/?tab=files&file_id=218284)
@@ -364,6 +367,3 @@
 *  [WOS162-48669-1-62.rar](https://www.nexusmods.com/skyrim/mods/48669/?tab=files&file_id=1000101948)
 *  [xLODGen_Output-53186-2-1-1639514961.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53186/?tab=files&file_id=249158)
 *  [zEdit_v0.6.6.1_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.6.1/zEdit_v0.6.6.1_-_Portable_x64.7z)
-### Updated (0)
-### Mirrored (0)
-### Valid (0)

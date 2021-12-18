@@ -1,7 +1,10 @@
 ## Validation Report - Septimus (septimus)
 
 
-### Invalid (1165)
+### Invalid (0)
+### Updated (0)
+### Mirrored (0)
+### Valid (1165)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-2-1637784364.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244120)
@@ -1167,6 +1170,3 @@
 *  [Ysgramor Shield 2K-46864-1-0-1615538766.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46864/?tab=files&file_id=190957)
 *  [z Vanilla Military Camps-9005-1-1558843128.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9005/?tab=files&file_id=93654)
 *  [Zora VO-27448-1-0-1563383454.rar](https://www.nexusmods.com/skyrimspecialedition/mods/27448/?tab=files&file_id=99599)
-### Updated (0)
-### Mirrored (0)
-### Valid (0)

@@ -1,7 +1,11 @@
 ## Validation Report - Aldrnari (aldrnari)
 
 
-### Invalid (2129)
+### Invalid (1)
+*  High_Poly_Head_v1.4_(SE).zip
+### Updated (0)
+### Mirrored (0)
+### Valid (2128)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0.0) SELUA - Solitude Exterior LOD Unlocker Advocate II-36116-1-1-1605036920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169508)
 *  [(1.1) The Great City of Solitude PATCH - Solitude Skyway SE - Drengin's Blue Palace Terrace (STD)-36116-1-1-1604648419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=168848)
@@ -906,7 +910,6 @@
 *  [High Poly NPC Overhaul - The Great Town of Shor's Stone-39445-1-0-1597555689.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39445/?tab=files&file_id=155881)
 *  [High Poly Project-12029-v5-3-1634909383.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=236420)
 *  [High Poly Soul Husks-47891-0-2-1617274845.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47891/?tab=files&file_id=195157)
-*  High_Poly_Head_v1.4_(SE).zip
 *  High.ini
 *  [Highlandcow HD-20758-1-0-1548091865.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20758/?tab=files&file_id=79177)
 *  [HN66s Long Eye Lashes SE-50966-1-3-1623152387.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50966/?tab=files&file_id=208120)
@@ -2131,6 +2134,3 @@
 *  [Zzjay's Wardrobe - Docteure's Version-51665-1-0-1629014329.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51665/?tab=files&file_id=221295)
 *  [zzjay's Wardrobe - SSE CBBE BodySlide-19506-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19506/?tab=files&file_id=65760)
 *  [zzjay's Wardrope - SE-37549-1-0-1592776992.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37549/?tab=files&file_id=146828)
-### Updated (0)
-### Mirrored (0)
-### Valid (0)

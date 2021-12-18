@@ -1,7 +1,10 @@
 ## Validation Report - Viva New Vegas (vivanewvegas)
 
 
-### Invalid (72)
+### Invalid (0)
+### Updated (0)
+### Mirrored (0)
+### Valid (72)
 *  [A Little More Lamplight-69226-1-2-1594706760.zip](https://www.nexusmods.com/newvegas/mods/69226/?tab=files&file_id=1000063736)
 *  [Altitude - Zion Ambient Music-71404-1-0-1635624334.7z](https://www.nexusmods.com/newvegas/mods/71404/?tab=files&file_id=1000083323)
 *  [Altitude-71404-3-1-1635272575.7z](https://www.nexusmods.com/newvegas/mods/71404/?tab=files&file_id=1000083099)
@@ -74,6 +77,3 @@
 *  [Weapon Mesh Improvement Mod-65052-1-3.7z](https://www.nexusmods.com/newvegas/mods/65052/?tab=files&file_id=1000048235)
 *  [WMIM ESP Replacer.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/8af949eda75b49cadc5efa65b3d43fcb182302e1/WMIM ESP Replacer.7z)
 *  [YUP - Base Game and All DLC-51664-12-2-1622237906.7z](https://www.nexusmods.com/newvegas/mods/51664/?tab=files&file_id=1000076677)
-### Updated (0)
-### Mirrored (0)
-### Valid (0)

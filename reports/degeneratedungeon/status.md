@@ -1,7 +1,10 @@
 ## Validation Report - Degenerate Dungeon (degeneratedungeon)
 
 
-### Invalid (343)
+### Invalid (0)
+### Updated (0)
+### Mirrored (0)
+### Valid (343)
 *  _windows_errors.txt
 *  [1_stagecoach_GS_A-966-1-1587388552.zip](https://www.nexusmods.com/darkestdungeon/mods/966/?tab=files&file_id=3711)
 *  [1_stagecoach_GS_C-966-1-1587388728.zip](https://www.nexusmods.com/darkestdungeon/mods/966/?tab=files&file_id=3713)
@@ -345,6 +348,3 @@
 *  [Xelsword Plague Doctor - Replacer-994-1-0-1590407886.zip](https://www.nexusmods.com/darkestdungeon/mods/994/?tab=files&file_id=3796)
 *  [Xelsword Shieldbreaker - Replacer-1143-1-0-1609504909.zip](https://www.nexusmods.com/darkestdungeon/mods/1143/?tab=files&file_id=4648)
 *  [Xelsword Vestal Replacer-968-1-0-1587642703.zip](https://www.nexusmods.com/darkestdungeon/mods/968/?tab=files&file_id=3718)
-### Updated (0)
-### Mirrored (0)
-### Valid (0)

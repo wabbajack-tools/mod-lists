@@ -1,7 +1,10 @@
 ## Validation Report - You Are Just an N'wah (yajan)
 
 
-### Invalid (7549)
+### Invalid (0)
+### Updated (0)
+### Mirrored (0)
+### Valid (7549)
 *  [16x9 Version-39329-v1-0.zip](https://www.nexusmods.com/morrowind/mods/39329/?tab=files&file_id=81971)
 *  [2.1 MWSE Pursuit Revisited-45904-1-202-1541828727.7z](https://www.nexusmods.com/morrowind/mods/45904/?tab=files&file_id=1000012488)
 *  [A Strange Plant-42009-2-1.7z](https://www.nexusmods.com/morrowind/mods/42009/?tab=files&file_id=1000001031)
@@ -7551,6 +7554,3 @@
 *  [YAJAN.AF.7z](https://github.com/RingComics/yajan/releases/download/AF-v5/YAJAN.AF.7z)
 *  [Yet Another Guard Diversity - Regular-45894-1-9-1608400137.zip](https://www.nexusmods.com/morrowind/mods/45894/?tab=files&file_id=1000022185)
 *  [Yurt Crafting - no MAO needed-47356-1-0-1575555675.7z](https://www.nexusmods.com/morrowind/mods/47356/?tab=files&file_id=1000016438)
-### Updated (0)
-### Mirrored (0)
-### Valid (0)

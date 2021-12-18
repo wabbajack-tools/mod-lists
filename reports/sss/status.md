@@ -1,7 +1,10 @@
 ## Validation Report - Slidikins' Strenuous Skyrim (sss)
 
 
-### Invalid (873)
+### Invalid (0)
+### Updated (0)
+### Mirrored (0)
+### Valid (873)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -875,6 +878,3 @@
 *  [Yet Another Music Merge-48725-1-0-1618749645.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48725/?tab=files&file_id=198825)
 *  [Ysgramor Shield 2K-46864-1-0-1615538766.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46864/?tab=files&file_id=190957)
 *  [z Vanilla Military Camps-9005-1-1558843128.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9005/?tab=files&file_id=93654)
-### Updated (0)
-### Mirrored (0)
-### Valid (0)
