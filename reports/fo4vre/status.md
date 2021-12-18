@@ -1,10 +1,7 @@
 ## Validation Report - Fallout VR Essentials Overhaul (fo4vre)
 
 
-### Invalid (0)
-### Updated (0)
-### Mirrored (0)
-### Valid (246)
+### Invalid (246)
 *  [_25 damage reduction -4743-1-1.zip](https://www.nexusmods.com/fallout4/mods/4743/?tab=files&file_id=16525)
 *  [_50 damage reduction-4743-1-1.zip](https://www.nexusmods.com/fallout4/mods/4743/?tab=files&file_id=16526)
 *  [(Experimental) FallUI VR-Patch-48758-1-12-1-vr-exp3-1618625274.rar](https://www.nexusmods.com/fallout4/mods/48758/?tab=files&file_id=206079)
@@ -251,3 +248,6 @@
 *  [WhatsYourName-25321-1-11-0-1606864376.7z](https://www.nexusmods.com/fallout4/mods/25321/?tab=files&file_id=196069)
 *  [Workshop Framework v1.1.9-35004-1-1-9-1567796883.7z](https://www.nexusmods.com/fallout4/mods/35004/?tab=files&file_id=166035)
 *  [xSE PluginPreloader F4 0.1.2-33946-0-1-2.zip](https://www.nexusmods.com/fallout4/mods/33946/?tab=files&file_id=142513)
+### Updated (0)
+### Mirrored (0)
+### Valid (0)

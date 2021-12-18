@@ -1,10 +1,7 @@
 ## Validation Report - Relics of Hyrule - GAT Edition (rge)
 
 
-### Invalid (0)
-### Updated (0)
-### Mirrored (0)
-### Valid (969)
+### Invalid (969)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(2K) Skygazer Moons - Masser and Secunda HD Moons by fadingsignal-54349-1-0.rar](https://www.nexusmods.com/skyrim/mods/54349/?tab=files&file_id=1000110438)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
@@ -974,3 +971,6 @@
 *  [YesImSure-24898-1-5-0-1583022330.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24898/?tab=files&file_id=126540)
 *  [z Vanilla Military Camps-9005-1-1558843128.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9005/?tab=files&file_id=93654)
 *  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
+### Updated (0)
+### Mirrored (0)
+### Valid (0)

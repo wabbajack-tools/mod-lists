@@ -1,10 +1,7 @@
 ## Validation Report - Auriels Dream (auriels_dream)
 
 
-### Invalid (0)
-### Updated (0)
-### Mirrored (0)
-### Valid (823)
+### Invalid (823)
 *  [1_Improved Closefaced Helmets (Legendary Edition)-824-1-58.zip](https://www.nexusmods.com/skyrimspecialedition/mods/824/?tab=files&file_id=19438)
 *  [2. Ultimate HD Fire Effects SSE - Medium Version-20654-1-2-1570361318.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20654/?tab=files&file_id=109439)
 *  [2K Caveworm-41956-1-0-1604317541.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41956/?tab=files&file_id=168277)
@@ -828,3 +825,6 @@
 *  [Yada Yada Whatever-2340-1-1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/2340/?tab=files&file_id=5402)
 *  [Ysgramor Shield 2K-46864-1-0-1615538766.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46864/?tab=files&file_id=190957)
 *  [Zombies-41020-1-1623251907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41020/?tab=files&file_id=208317)
+### Updated (0)
+### Mirrored (0)
+### Valid (0)

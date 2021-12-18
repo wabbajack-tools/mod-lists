@@ -1,10 +1,7 @@
 ## Validation Report - Living Skyrim (living_skyrim)
 
 
-### Invalid (0)
-### Updated (0)
-### Mirrored (0)
-### Valid (1072)
+### Invalid (1072)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
@@ -1077,3 +1074,6 @@
 *  [zEdit_v0.6.6.1_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.6.1/zEdit_v0.6.6.1_-_Portable_x64.7z)
 *  [Zora VO-27448-1-0-1563383454.rar](https://www.nexusmods.com/skyrimspecialedition/mods/27448/?tab=files&file_id=99599)
 *  [Zulfardin-33889-2-2-1588634558.zip](https://www.nexusmods.com/skyrimspecialedition/mods/33889/?tab=files&file_id=138123)
+### Updated (0)
+### Mirrored (0)
+### Valid (0)

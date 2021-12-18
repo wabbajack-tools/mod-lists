@@ -1,10 +1,7 @@
 ## Validation Report - Ultimate VR Essentials (ultimate_vr_essentials)
 
 
-### Invalid (0)
-### Updated (0)
-### Mirrored (0)
-### Valid (770)
+### Invalid (770)
 *  [(1) Pine Branches Redone 8K-45294-3-0-1637522602.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45294/?tab=files&file_id=243288)
 *  [1. Majestic Mountains Main File-11052-3-2-1604048751.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=167707)
 *  [1st Person Candlelight Fix-9736-1-0-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9736/?tab=files&file_id=25327)
@@ -775,3 +772,6 @@
 *  [zEBD-36019-1-9i-1617740505.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36019/?tab=files&file_id=196519)
 *  [zEdit_v0.6.6.1_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.6.1/zEdit_v0.6.6.1_-_Portable_x64.7z)
 *  [Zora_normalizedv2-16090-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16090/?tab=files&file_id=51545)
+### Updated (0)
+### Mirrored (0)
+### Valid (0)

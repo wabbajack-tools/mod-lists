@@ -1,10 +1,7 @@
 ## Validation Report - Magnum Opus (magnum_opus)
 
 
-### Invalid (0)
-### Updated (0)
-### Mirrored (0)
-### Valid (623)
+### Invalid (623)
 *  [0001. Weapon QuickSwap 3-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108861)
 *  [0002. FastPipboy-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=89711)
 *  [2k-49369-1-1610332539.rar](https://www.nexusmods.com/fallout4/mods/49369/?tab=files&file_id=198790)
@@ -628,3 +625,6 @@
 *  [xSE PluginPreloader F4 0.2.4-33946-0-2-4-1606749072.zip](https://www.nexusmods.com/fallout4/mods/33946/?tab=files&file_id=195989)
 *  [You And What Army - But it's an AIO FOMOD Installer 1.2-41998-1-2-1616256627.zip](https://www.nexusmods.com/fallout4/mods/41998/?tab=files&file_id=204132)
 *  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
+### Updated (0)
+### Mirrored (0)
+### Valid (0)

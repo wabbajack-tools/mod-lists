@@ -1,10 +1,7 @@
 ## Validation Report - Fallout 4 Enhanced Edition (fallout_4_enhanced_edition)
 
 
-### Invalid (0)
-### Updated (0)
-### Mirrored (0)
-### Valid (279)
+### Invalid (279)
 *  [(AB) Horizon Weapon Patches - Pistols and SMGs FOMOD-39320-v180b7-1584141169.7z](https://www.nexusmods.com/fallout4/mods/39320/?tab=files&file_id=177456)
 *  [(CD) Horizon Weapon Patches - Rifles FOMOD-39320-v180b7-1584141259.7z](https://www.nexusmods.com/fallout4/mods/39320/?tab=files&file_id=177459)
 *  [(EFG) Horizon Weapon Patches - Shotguns Energy and Melee Weapons FOMOD-39320-v180b7-1584141212.7z](https://www.nexusmods.com/fallout4/mods/39320/?tab=files&file_id=177458)
@@ -284,3 +281,6 @@
 *  [xSE PluginPreloader F4 0.2.4-33946-0-2-4-1606749072.zip](https://www.nexusmods.com/fallout4/mods/33946/?tab=files&file_id=195989)
 *  [YK42B - Pulse Rifle-37575-1-1-1550809413.zip](https://www.nexusmods.com/fallout4/mods/37575/?tab=files&file_id=152700)
 *  [Z_Horizon_Patch_SOTS EN-42029-0-05-1595542878.7z](https://www.nexusmods.com/fallout4/mods/42029/?tab=files&file_id=187497)
+### Updated (0)
+### Mirrored (0)
+### Valid (0)

@@ -1,10 +1,7 @@
 ## Validation Report - The Vault Courier: DCNV (vaultcourier)
 
 
-### Invalid (0)
-### Updated (0)
-### Mirrored (0)
-### Valid (233)
+### Invalid (233)
 *  _3e582da872c15767b57a7ca4f1e5d9b7a2dbb03909e1ce64c674bb61a7f33407_
 *  [(TTW) OREO Standalone-70959-1-0a-1611795426.zip](https://www.nexusmods.com/newvegas/mods/70959/?tab=files&file_id=1000070310)
 *  [1stPar 5.0-69403-5-00-1603823682.zip](https://www.nexusmods.com/newvegas/mods/69403/?tab=files&file_id=1000066892)
@@ -238,3 +235,6 @@
 *  [Weapon Retexture Project - WRP-38285-2-2-3-1590027446.7z](https://www.nexusmods.com/newvegas/mods/38285/?tab=files&file_id=1000062081)
 *  [WJS DLC05 Retex 1_0-8260.rar](https://www.nexusmods.com/fallout3/mods/8260/?tab=files&file_id=54936)
 *  [WTH - Weapon Textures from Heaven 2k-69837-1-1-1610579173.rar](https://www.nexusmods.com/newvegas/mods/69837/?tab=files&file_id=1000069571)
+### Updated (0)
+### Mirrored (0)
+### Valid (0)
