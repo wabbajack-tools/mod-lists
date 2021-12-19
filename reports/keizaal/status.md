@@ -109,7 +109,7 @@
 *  [Better Volkihar Secret Entrance.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34739/?tab=files&file_id=134453)
 *  [Better_Signage_1_0_1-51272-1-1.zip](https://www.nexusmods.com/skyrim/mods/51272/?tab=files&file_id=1000097734)
 *  [Beyond Skyrim - Assets-10917-1-5-2-1639253786.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=files&file_id=248311)
-*  [Beyond Skyrim - Bruma Hotfix 1.5.3-10917-1-5-3-1639746702.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=files&file_id=249824)
+*  [Beyond Skyrim - Bruma Hotfix 1.5.3-10917-1-5-3-1639913724.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=files&file_id=250252)
 *  [Beyond Skyrim - Bruma with Gemling Queen Jewelry-35876-1-1-1589297883.zip](https://www.nexusmods.com/skyrimspecialedition/mods/35876/?tab=files&file_id=139545)
 *  [Beyond Skyrim - Bruma-10917-1-5-2-1639253787.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=files&file_id=248312)
 *  [Beyond Skyrim - Cyrodilic Horses-33988-1-4-1604246388.zip](https://www.nexusmods.com/skyrimspecialedition/mods/33988/?tab=files&file_id=168169)
