@@ -16,7 +16,7 @@
     },
     "PatchedFrom": {
       "Hash": "ouYrMqkErSA=",
-      "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/a2e62b32a904ad20",
+      "Meta": "",
       "Name": "enbseries_skyrimse_v0460.zip",
       "Size": 4247793,
       "State": {
@@ -42,7 +42,7 @@
     },
     "PatchedFrom": {
       "Hash": "dGX21Pia0VY=",
-      "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/7465f6d4f89ad156",
+      "Meta": "",
       "Name": "enbseries_skyrimse_v0454.zip",
       "Size": 4210463,
       "State": {
@@ -50,6 +50,32 @@
         "Url": "https://mirror.wabbajack.org/7465f6d4f89ad156"
       }
     }
+  },
+  {
+    "Status": "Updated",
+    "Original": {
+      "Hash": "N+xTNYcpJWE=",
+      "Meta": "[General]\ndirectURL=https://build.wabbajack.org/authored_files/direct_link/old-file-to-be-patched_56cb208b-27b6-4521-aed4-66fd0eaa4272",
+      "Name": "old-file-to-be-patched",
+      "Size": 22,
+      "State": {
+        "$type": "HttpDownloader, Wabbajack.Lib",
+        "Headers": [],
+        "Url": "https://build.wabbajack.org/authored_files/direct_link/old-file-to-be-patched_56cb208b-27b6-4521-aed4-66fd0eaa4272"
+      }
+    },
+    "PatchedFrom": {
+      "Hash": "rNLgrD2fiHY=",
+      "Meta": "",
+      "Name": "new-file-to-be-patched",
+      "Size": 22,
+      "State": {
+        "$type": "HttpDownloader, Wabbajack.Lib",
+        "Headers": [],
+        "Url": "https://build.wabbajack.org/authored_files/direct_link/new-file-to-be-patched_3a1709b7-f898-4492-8440-8a781d09b444"
+      }
+    },
+    "PatchUrl": "https://patches.wabbajack.org/37ec533587292561_acd2e0ac3d9f8876"
   },
   {
     "Status": "Mirrored",
@@ -68,12 +94,36 @@
     },
     "PatchedFrom": {
       "Hash": "nJ59BDEM0qc=",
-      "Meta": "[General]\ndirectURL=https://mirror.wabbajack.org/9c9e7d04310cd2a7",
+      "Meta": "",
       "Name": "enbseries_skyrimse_v0462.zip",
       "Size": 4248740,
       "State": {
         "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
         "Url": "https://mirror.wabbajack.org/9c9e7d04310cd2a7"
+      }
+    }
+  },
+  {
+    "Status": "Mirrored",
+    "Original": {
+      "Hash": "S87AlrOsvsY=",
+      "Meta": "[General]\ndirectURL=https://build.wabbajack.org/authored_files/direct_link/file-to-be-mirrored_4a8ed41e-c4b6-4397-a6ee-8c48fd20b0a4",
+      "Name": "file-to-be-mirrored",
+      "Size": 21,
+      "State": {
+        "$type": "HttpDownloader, Wabbajack.Lib",
+        "Headers": [],
+        "Url": "https://build.wabbajack.org/authored_files/direct_link/file-to-be-mirrored_4a8ed41e-c4b6-4397-a6ee-8c48fd20b0a4"
+      }
+    },
+    "PatchedFrom": {
+      "Hash": "S87AlrOsvsY=",
+      "Meta": "",
+      "Name": "file-to-be-mirrored",
+      "Size": 21,
+      "State": {
+        "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+        "Url": "https://mirror.wabbajack.org/4bcec096b3acbec6"
       }
     }
   }

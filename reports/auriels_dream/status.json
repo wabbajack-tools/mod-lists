@@ -1,8 +1,8 @@
 {
   "MachineURL": "auriels_dream",
   "Name": "Auriels Dream",
-  "Version": "9.1.2",
-  "ModListHash": "MNdL/qfg08k=",
+  "Version": "9.2.1",
+  "ModListHash": "QT7dwTXQzhM=",
   "Archives": [
     {
       "Status": "Valid",
@@ -1545,21 +1545,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0qJeEge4cEM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44381\nfileID=246664",
-        "Name": "DynDOLOD_Output-44381-9-1-0-1638658850.7z",
-        "Size": 495084403,
+        "Hash": "1cjyiGg7OEQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44381\nfileID=250235",
+        "Name": "DynDOLOD_Output-44381-9-2-0-1639906914.7z",
+        "Size": 461863906,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kvitekvist",
           "Description": "In development - LOD files to work with Auriel\u0027s Dream",
-          "FileID": 246664,
+          "FileID": 250235,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44381/44381-1610699546-272185049.jpeg",
           "IsNSFW": false,
           "ModID": 44381,
           "Name": "LOD files for Auriel\u0027s Dream",
-          "Version": "9.1.0.0"
+          "Version": "9.2.0.0"
         }
       }
     },
@@ -3225,6 +3225,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "VUJ0vgPeh+I=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60316\nfileID=250499",
+        "Name": "Kvite\u0027s Simple Start-60316-1-3-1639997410.7z",
+        "Size": 39970872,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kvitekvist",
+          "Description": "A new Alternate Start mod.\n\nThis is a super light altenrate start mod. You start in a small starting area.\n\nYour inventory is filled with basic gear.\n\nCompatible with SE / AE / VR",
+          "FileID": 250499,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60316/60316-1639993617-1857281497.png",
+          "IsNSFW": false,
+          "ModID": 60316,
+          "Name": "Kvite\u0027s Simple Start",
+          "Version": "1.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "MknoRW9WUjw=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=30817\nfileID=171507",
         "Name": "Lanterns Of Skyrim II - FOMOD-30817-v3-0-1606248670.7z",
@@ -3282,6 +3303,27 @@
           "ModID": 51693,
           "Name": "Less useless ghost weapons",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jEGEQL45PL0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44381\nfileID=250243",
+        "Name": "LOD_Patch-44381-9-2-0-1639909777.7z",
+        "Size": 24940,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kvitekvist",
+          "Description": "In development - LOD files to work with Auriel\u0027s Dream",
+          "FileID": 250243,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44381/44381-1610699546-272185049.jpeg",
+          "IsNSFW": false,
+          "ModID": 44381,
+          "Name": "LOD files for Auriel\u0027s Dream",
+          "Version": "9.2.0.0"
         }
       }
     },
@@ -4653,48 +4695,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ZQjDO3QwKSQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=18223\nfileID=170407",
-        "Name": "Realm of Lorkhan - Custom Alternate Start-18223-3-5-1605583173.7z",
-        "Size": 208768,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Twin Crows",
-          "Description": "Starts the player in an alternate realm, rather than the default execution scene opening.\n\n\n\nHere, they can obtain items; a birth sign; optional boons, curses, and classes; smith starting gear; and choose a location to start the game. Gorgeous visuals, and limitless possibilities for adventure and exploration.",
-          "FileID": 170407,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18223/18223-1530123820-89041246.png",
-          "IsNSFW": false,
-          "ModID": 18223,
-          "Name": "Realm of Lorkhan - Freeform Alternate Start",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "/zIvbO7rHY8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44755\nfileID=181571",
-        "Name": "Realm of Lorkhan - Unbound Fix-44755-1-01-1611515416.7z",
-        "Size": 22620,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TheRetroCarrot",
-          "Description": "This should correct the issue with the \u0022Unbound\u0022 quest not correctly completing in the quest journal. New game is required.",
-          "FileID": 181571,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44755/44755-1611477735-1607642021.png",
-          "IsNSFW": false,
-          "ModID": 44755,
-          "Name": "Realm of Lorkhan - Unbound Quest Fix",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "oro4S1QD08o=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=15526\nfileID=110846",
         "Name": "Redguard Noble Armor 1.0 - Encounter Version-15526-1-00-1571545242.rar",
@@ -5507,42 +5507,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BHCyIfIh5wg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=41020\nfileID=216119",
-        "Name": "Synthesis-41020-8-0-3-1627029808.7z",
-        "Size": 4349924,
+        "Hash": "YlN6N8Myo/8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=41020\nfileID=250247",
+        "Name": "Synthesis-41020-9-2-0-1639911154.7z",
+        "Size": 5126084,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kvitekvist",
           "Description": "Auriels Dream - a visually focused modlist. Colors are warmer and theme  is high fantasy, complimented with a greatly tuned ENB. No changes to perks, leveling, crating and so on by default. But optional mods are provided to add popular game changing mods. Also offers two game modes, hard mode and survival mode. Comes with complete LODs.",
-          "FileID": 216119,
+          "FileID": 250247,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41020/41020-1639471466-84806239.png",
           "IsNSFW": false,
           "ModID": 41020,
           "Name": "Auriel\u0027s Dream - A Skyrim VR overhaul guide",
-          "Version": "8.0.3.0"
+          "Version": "9.2.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "InM+7GO4O8M=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44381\nfileID=246665",
-        "Name": "TexGen_Output-44381-9-1-0-1638658897.7z",
-        "Size": 42887127,
+        "Hash": "oSAYAHEUEA0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44381\nfileID=250236",
+        "Name": "TexGen_Output-44381-9-2-0-1639907015.7z",
+        "Size": 38763652,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kvitekvist",
           "Description": "In development - LOD files to work with Auriel\u0027s Dream",
-          "FileID": 246665,
+          "FileID": 250236,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44381/44381-1610699546-272185049.jpeg",
           "IsNSFW": false,
           "ModID": 44381,
           "Name": "LOD files for Auriel\u0027s Dream",
-          "Version": "9.1.0.0"
+          "Version": "9.2.0.0"
         }
       }
     },
@@ -6578,21 +6578,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dTGlLSwmhZQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44381\nfileID=246666",
-        "Name": "xLODGen_Output-44381-9-1-0-1638659028.7z",
-        "Size": 317239695,
+        "Hash": "UaAAy6hWoRc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44381\nfileID=250242",
+        "Name": "xLODGen_Output-44381-9-2-0-1639909605.7z",
+        "Size": 481565478,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kvitekvist",
           "Description": "In development - LOD files to work with Auriel\u0027s Dream",
-          "FileID": 246666,
+          "FileID": 250242,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44381/44381-1610699546-272185049.jpeg",
           "IsNSFW": false,
           "ModID": 44381,
           "Name": "LOD files for Auriel\u0027s Dream",
-          "Version": "9.1.0.0"
+          "Version": "9.2.0.0"
         }
       }
     },
@@ -6697,21 +6697,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "1UYQ+vELV7c=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=18098\nfileID=82056",
-        "Name": "Astral Aspect - 2K - 1.4-18098-1-4-1550412155.7z",
-        "Size": 97185303,
+        "Hash": "IAE1tV8ddqo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=18098\nfileID=215061",
+        "Name": "Astral Aspect - 4K - 2.0-18098-2-0-1626523748.7z",
+        "Size": 584020847,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ClearanceClarence and Koveich",
           "Description": "Uniquely illustrated 8K Standing Stones based on the cultural perspective of a 4th era Nord.",
-          "FileID": 82056,
+          "FileID": 215061,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18098/18098-1626523009-1971533080.jpeg",
           "IsNSFW": false,
           "ModID": 18098,
           "Name": "Astral Aspect - 8K 4K 2K Standing Stones",
-          "Version": "0.0.0.0"
+          "Version": "2.0.0.0"
         }
       }
     },
@@ -9052,6 +9052,27 @@
           "ModID": 70260,
           "Name": "The Notice Board Redefined - New Meshes and Textures",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JmUHCpLyVcM=",
+        "Meta": "[General]\ngameName=skyrim\nmodID=59721\nfileID=1000345897",
+        "Name": "DynDOLOD 3.00-32382-Alpha-58-1639558310.7z",
+        "Size": 25949713,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sheson",
+          "Description": "DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD \u002B tree LOD and the new,  optional dynamic distant object LOD in a few simple steps.",
+          "FileID": 1000345897,
+          "GameName": "Skyrim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/110/images/59721-0-1444567557.jpg",
+          "IsNSFW": false,
+          "ModID": 59721,
+          "Name": "Dynamic Distant Objects LOD - DynDOLOD",
+          "Version": "Alpha-58"
         }
       }
     },
@@ -13419,6 +13440,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "HQ9ktp0vLLw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60316\nfileID=250231",
+        "Name": "Kvite\u0027s Simple Start-60316-1-1-1639905963.7z",
+        "Size": 7826954,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kvitekvist",
+          "Description": "A new Alternate Start mod.\n\nThis is a super light altenrate start mod. You start in a small starting area.\n\nYour inventory is filled with basic gear.\n\nCompatible with SE / AE / VR",
+          "FileID": 250231,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60316/60316-1639993617-1857281497.png",
+          "IsNSFW": false,
+          "ModID": 60316,
+          "Name": "Kvite\u0027s Simple Start",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "KpMhtcyfytY=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=41020\nfileID=189378",
         "Name": "Kvite\u0027s Skyrim 3D Trees and Plants texture patch-41020-7-0-2-1614879201.7z",
@@ -15766,15 +15808,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yj9fCHKhjv0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=12371\nfileID=142730",
-        "Name": "Skyrim 3D Trees and Plants BILLBOARDS-12371-5-0-0-1590769638.7z",
-        "Size": 10275253,
+        "Hash": "ykHAw3HZf/s=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=12371\nfileID=145752",
+        "Name": "Skyrim3DTrees and Plants 3dLOD Resources-12371-5-0-1-1592182291.7z",
+        "Size": 29904372,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "mathy79",
           "Description": "Next Generation 3D Forests",
-          "FileID": 142730,
+          "FileID": 145752,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/12371/12371-1590768533-1213106320.png",
           "IsNSFW": false,
@@ -16561,27 +16603,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "O2FC3xeCFKQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44016\nfileID=209716",
-        "Name": "Auriel\u0027s Dream - Core Texture Pack - BSA-44016-2-1624016649.7z",
-        "Size": 2793689727,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kvitekvist",
-          "Description": "This is a light version of Project Clarity optimized for Auriel\u0027s Dream modlist. All credits to  Project Clarity",
-          "FileID": 209716,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44016/44016-1609859295-1573649788.png",
-          "IsNSFW": false,
-          "ModID": 44016,
-          "Name": "Auriel\u0027s Dream - Core Texture Pack",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "VAiKyftlRN4=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=44367\nfileID=211068",
         "Name": "Auril\u0027s Dream - Skyrim 2020 Texture pack P1-44367-1-1-1624621681.7z",
@@ -16596,6 +16617,27 @@
           "IsNSFW": false,
           "ModID": 44367,
           "Name": "Auril\u0027s Dream - Skyrim 2020 Texture pack",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "O2FC3xeCFKQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44016\nfileID=209716",
+        "Name": "Auriel\u0027s Dream - Core Texture Pack - BSA-44016-2-1624016649.7z",
+        "Size": 2793689727,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kvitekvist",
+          "Description": "This is a light version of Project Clarity optimized for Auriel\u0027s Dream modlist. All credits to  Project Clarity",
+          "FileID": 209716,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44016/44016-1609859295-1573649788.png",
+          "IsNSFW": false,
+          "ModID": 44016,
+          "Name": "Auriel\u0027s Dream - Core Texture Pack",
           "Version": "0.0.0.0"
         }
       }
@@ -16649,7 +16691,7 @@
           "IsNSFW": false,
           "ModID": 32117,
           "Name": "Assorted mesh fixes",
-          "Version": "0.34.1.0"
+          "Version": "0.0.0.0"
         }
       }
     }
