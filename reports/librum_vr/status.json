@@ -1,8 +1,8 @@
 {
   "MachineURL": "librum_vr",
   "Name": "Librum VR",
-  "Version": "3.0.4.4",
-  "ModListHash": "/e1iKbilqLM=",
+  "Version": "3.0.4.5",
+  "ModListHash": "fsCBT2CPirY=",
   "Archives": [
     {
       "Status": "Valid",
@@ -366,13 +366,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "uq8KT2b+f9A=",
-        "Meta": "[General]\ndirectURL=https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases/download/v0.84-beta/Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar",
-        "Name": "Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60033\nfileID=248867",
+        "Name": "Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar",
         "Size": 26127652,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases/download/v0.84-beta/Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Shikyo Kira",
+          "Description": "Your all in 1 skyrim behavior framework. Automated behavior modification extraction, behavior patching and more. Currently still in beta stage",
+          "FileID": 248867,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60033/87642-1639422463-1327059535.png",
+          "IsNSFW": false,
+          "ModID": 60033,
+          "Name": "Project New Reign - Nemesis Unlimited Behavior Engine",
+          "Version": "0.84.0.0b-"
         }
       }
     },
@@ -2084,13 +2091,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "opusGlass",
-          "Description": "This mod adds two new Daedric creatures - The ravenous Wendigos of Hircine, and the bloodthirsty Howlers of Molag Bal.\n\nIncludes 24 Wendigo variants and 12 Howler variants.",
+          "Description": "This mod adds two new Daedric creatures - The ravenous Huntbeasts of Hircine, and the sadistic Bloodhorns of Molag Bal.\n\nIncludes 24 Huntbeast variants and 12 Bloodhorn variants.",
           "FileID": 109843,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/15831/90096-1520865776-1168950292.jpeg",
           "IsNSFW": false,
           "ModID": 15831,
-          "Name": "Daedric Beasts - Wendigos and Howlers SE",
+          "Name": "Daedric Beasts",
           "Version": "1.2.0.0"
         }
       }
@@ -2538,13 +2545,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "dDefinder",
-          "Description": "A blood overhaul mod",
+          "Description": "A blood mod overhaul",
           "FileID": 68649,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60-1-1363345227.jpg",
           "IsNSFW": true,
           "ModID": 2357,
-          "Name": "Enhanced Blood Textures SE",
+          "Name": "Enhanced Blood Textures",
           "Version": "3.8.0.0"
         }
       }
@@ -7141,7 +7148,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Andrelo",
-          "Description": "This mod fixes ModifyFaceGen(mfg) console command and adds some more fixes.",
+          "Description": "Fixes \u0026lt;mfg\u0026gt; console command and adds some other fixes.",
           "FileID": 147181,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/11669-0-1503081803.jpg",
@@ -10125,7 +10132,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ClearanceClarence",
-          "Description": "A texture replacement for the ore veins found in mines and around skyrim. This mod also retextures the mined ores and the ingots.",
+          "Description": "A texture replacement for the Ore veins, Mined ores and Ingots. Includes patches for Hearthfire and Skyrim AE",
           "FileID": 151267,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1306/1306-1637702049-69850307.jpeg",
@@ -10338,7 +10345,7 @@
           "Description": "A collection of patches for Cities of the North - Dawnstar, primarily moving object placements to match the new interiors, along with a few worldspace patches",
           "FileID": 219626,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/30885/30885-1575876493-720953367.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/30885/30885-1582612546-2085111110.jpeg",
           "IsNSFW": false,
           "ModID": 30885,
           "Name": "Cities of the North - Dawnstar Patch Collection",
@@ -11091,7 +11098,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ClearanceClarence",
-          "Description": "A texture replacement for the ore veins found in mines and around skyrim. This mod also retextures the mined ores and the ingots.",
+          "Description": "A texture replacement for the Ore veins, Mined ores and Ingots. Includes patches for Hearthfire and Skyrim AE",
           "FileID": 151418,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1306/1306-1637702049-69850307.jpeg",
@@ -17002,7 +17009,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Andrelo",
-          "Description": "This mod fixes ModifyFaceGen(mfg) console command and adds some more fixes.",
+          "Description": "Fixes \u0026lt;mfg\u0026gt; console command and adds some other fixes.",
           "FileID": 68879,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/11669-0-1503081803.jpg",
@@ -17418,7 +17425,7 @@
           "Description": "Makes the vanilla Whiterun trellis 3D with custom meshes. Includes iron and (optional) wood textures.",
           "FileID": 170134,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41801/41801-1603852836-2082411913.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41801/41801-1639214695-175003452.png",
           "IsNSFW": false,
           "ModID": 41801,
           "Name": "3D Whiterun Trellis",
@@ -21284,7 +21291,7 @@
           "Description": "Replaces the clover texture filename to Ivy on the walls. Mesh still sucks. xD",
           "FileID": 177252,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43865/43865-1609550987-1581022428.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43865/43865-1639901358-531235494.png",
           "IsNSFW": false,
           "ModID": 43865,
           "Name": "Solitude Clover to Ivy Replacer 2k-4k",

@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1035)
+### Valid (1026)
 *  [(1) Community Overlays 1 - Main - UNP  2K-22487-1-0-1-1547247749.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77985)
 *  [(1K) Skygazer Moons - Masser and Secunda HD Moons by fadingsignal-54349-1-0.rar](https://www.nexusmods.com/skyrim/mods/54349/?tab=files&file_id=1000110439)
 *  [(3) Community Overlays 2 - Main - UUNP and Male-26224-1-0-1559372410.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94369)
@@ -203,15 +203,6 @@
 *  Data_Skyrim - Misc.bsa
 *  Data_Skyrim - Shaders.bsa
 *  Data_Skyrim - Sounds.bsa
-*  Data_Skyrim - Textures0.bsa
-*  Data_Skyrim - Textures1.bsa
-*  Data_Skyrim - Textures2.bsa
-*  Data_Skyrim - Textures3.bsa
-*  Data_Skyrim - Textures4.bsa
-*  Data_Skyrim - Textures5.bsa
-*  Data_Skyrim - Textures6.bsa
-*  Data_Skyrim - Textures7.bsa
-*  Data_Skyrim - Textures8.bsa
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
 *  Data_Update.esm
@@ -245,7 +236,6 @@
 *  [Diverse Skyrim Civil War Fix-47939-1-0-1-1617326632.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47939/?tab=files&file_id=195336)
 *  [DIVERSE SKYRIM SSE-7707-2-14-1540771022.zip](https://www.nexusmods.com/skyrimspecialedition/mods/7707/?tab=files&file_id=70632)
 *  [Diverse Werewolves Collection-7009-1-3-2-1546134328.zip](https://www.nexusmods.com/skyrimspecialedition/mods/7009/?tab=files&file_id=76651)
-*  [DLL Plugin Loader v1-10546-1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/10546/?tab=files&file_id=28074)
 *  [DllLoader-3619-1-0-0-4.zip](https://www.nexusmods.com/skyrimspecialedition/mods/3619/?tab=files&file_id=35843)
 *  [Don't Stay in The Water-52164-4-1-1626051733.zip](https://www.nexusmods.com/skyrimspecialedition/mods/52164/?tab=files&file_id=214110)
 *  [Dragon Shouts Cost Literally Zero Souls-46794-v1-0-1615412238.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46794/?tab=files&file_id=190678)
@@ -459,6 +449,7 @@
 *  [Jump Behavior Overhaul SE - AIO-36889-1-4-1595787187.zip](https://www.nexusmods.com/skyrimspecialedition/mods/36889/?tab=files&file_id=152283)
 *  [Just Ice 2k-9444-3-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9444/?tab=files&file_id=47802)
 *  [Karstaag - The Frost King Reborn-14328-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/14328/?tab=files&file_id=42262)
+*  [Kart_CSSET_Overwrite_LATEST-38775-1-2-3-2-1639242215.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38775/?tab=files&file_id=248251)
 *  [Kato's Riverwood Update 2.0 SMIM-7031-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/7031/?tab=files&file_id=20653)
 *  [Khajiits Steal Too - Caravan Fence Option-18231-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/18231/?tab=files&file_id=58941)
 *  [Khonsu - Mist's Shadowmarks 1K-9264-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9264/?tab=files&file_id=23709)
@@ -575,8 +566,8 @@
 *  [Mysticism - A Magic Overhaul-27839-1-2-1-1629349404.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27839/?tab=files&file_id=222189)
 *  [Mysticism - Vokrii Compatibility Patch-26176-3-2-0-1600008718.zip](https://www.nexusmods.com/skyrimspecialedition/mods/26176/?tab=files&file_id=160515)
 *  [Navigate VR - Equipable Dynamic Compass and Maps-47174-1-05-1618017288.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47174/?tab=files&file_id=197173)
+*  [Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar](https://www.nexusmods.com/skyrimspecialedition/mods/60033/?tab=files&file_id=248867)
 *  [Nemesis_Engine.7z](https://wabbajack.b-cdn.net/Nemesis_Engine.7z_1ff8ccc5-2d95-4f4f-88d4-48dbf1f467f7)
-*  [Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases/download/v0.84-beta/Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar)
 *  [NetScriptFramework SkyrimSE v16-21294-16-1630303782.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21294/?tab=files&file_id=224837)
 *  [New Legion - NordWarUA Improved Upscaled Textures-37079-1-0-1591732391.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37079/?tab=files&file_id=144747)
 *  [Night Predators-26023-1-03-1586985544.zip](https://www.nexusmods.com/skyrimspecialedition/mods/26023/?tab=files&file_id=134515)
