@@ -1,8 +1,8 @@
 {
   "MachineURL": "arkayscommandment",
   "Name": "Arkay\u0027s Commandment",
-  "Version": "1.6.1",
-  "ModListHash": "a0/V5f+NSQI=",
+  "Version": "1.7",
+  "ModListHash": "rQQ6I4DVE1k=",
   "Archives": [
     {
       "Status": "Valid",
@@ -15,27 +15,6 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "0zDgMBP7EqU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=21543\nfileID=134764",
-        "Name": "D) Silent Horizons ENB for Cathedral Weathers-21543-7-1-1587129102.7z",
-        "Size": 58620332,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LonelyKitsuune",
-          "Description": "Extremely customizable and feature packed ENB for SSE with presets for most popular weather mods. Includes a completely new, optimized and unique shader setup that is usable for both gameplay and screenarchery.",
-          "FileID": 134764,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21543/21543-1551712264-1320468297.jpeg",
-          "IsNSFW": false,
-          "ModID": 21543,
-          "Name": "Silent Horizons ENB",
-          "Version": "7.1.0.0"
         }
       }
     },
@@ -860,6 +839,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "0EfCJhXr2IY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42731\nfileID=217991",
+        "Name": "Azurite Weathers-42731-1-72-1627777624.7z",
+        "Size": 50788967,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "JonnyWang aka Megaloblast",
+          "Description": "A simple weather mod.",
+          "FileID": 217991,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42731/42731-1606242199-964194139.png",
+          "IsNSFW": false,
+          "ModID": 42731,
+          "Name": "Azurite Weathers",
+          "Version": "1.72.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "a8HODm/OUUk=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=47202\nfileID=213912",
         "Name": "BA_BardSongs_FOMOD-47202-1-3-1625966592.7z",
@@ -1007,6 +1007,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "b4BbZzuwyt0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42032\nfileID=168836",
+        "Name": "Cathedral - 3D Pine Grass-42032-0-457-1604643871.7z",
+        "Size": 39573457,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Community",
+          "Description": "Photographed plants from alpine forests turned into 3D plants and spread through Skyrim\u0027s pine forests as grass. The first truly 3D grass mod for Skyrim.",
+          "FileID": 168836,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42032/42032-1604548155-433214223.png",
+          "IsNSFW": false,
+          "ModID": 42032,
+          "Name": "Cathedral - 3D Pine Grass",
+          "Version": "0.457.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "7M0HdKMPaEw=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=24791\nfileID=166374",
         "Name": "Cathedral - Weathers-24791-2-23b-1603246542.7z",
@@ -1049,27 +1070,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kV6PXHR+T6I=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=24791\nfileID=229526",
-        "Name": "Cathedral Weathers Unofficial Update-24791-2-32-1632101058.7z",
-        "Size": 19369,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "The Community",
-          "Description": "A natural-fantasy weather mod.",
-          "FileID": 229526,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/24791/24791-1554680316-435236928.png",
-          "IsNSFW": false,
-          "ModID": 24791,
-          "Name": "Cathedral Weathers and Seasons",
-          "Version": "2.32.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "3tY3DvVMbLU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=1306\nfileID=151267",
         "Name": "Enhanced Ore Veins - 2K - 8.0-1306-8-0-1595238568.7z",
@@ -1077,10 +1077,10 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ClearanceClarence",
-          "Description": "A texture replacement for the ore veins found in mines and around skyrim. This mod also retextures the mined ores and the ingots.",
+          "Description": "A texture replacement for the Ore veins, Mined ores and Ingots. Includes patches for Hearthfire and Skyrim AE",
           "FileID": 151267,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1306/1306-1569159804-646252978.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1306/1306-1637702049-69850307.jpeg",
           "IsNSFW": false,
           "ModID": 1306,
           "Name": "CC\u0027s Enhanced Ore Veins SSE Edition",
@@ -1449,6 +1449,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "ni6Tjz/6Yms=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32925\nfileID=125213",
+        "Name": "Delphine Innkeeper Dialogue-32925-3-1582336193.7z",
+        "Size": 3955,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DayDreamer",
+          "Description": "Delphine\u0027s dialogue is randomized and conditioned on quest stages. Orgnar leads you to your room.",
+          "FileID": 125213,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32925/32925-1582337856-395788682.png",
+          "IsNSFW": false,
+          "ModID": 32925,
+          "Name": "UUSkyPP Delphine Innkeeper Dialogue",
+          "Version": "3.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Bw0hrQBoFJ4=",
         "Meta": "[General]\ngameName=skyrim\nmodID=80501\nfileID=1000229260",
         "Name": "Dialogue During Magnus-80501-1-1.zip",
@@ -1533,27 +1554,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "w2GS2qRmJHs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=51798\nfileID=211864",
-        "Name": "Dungeons - Revisited-51798-1-0-1625039482.7z",
-        "Size": 577817,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Cooleoj",
-          "Description": "Overhauls and enhances Skyrim\u0027s dungeons. Doubles the size of most dungeons and makes them much more interesting to visit.",
-          "FileID": 211864,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51798/51798-1625038939-557169627.png",
-          "IsNSFW": false,
-          "ModID": 51798,
-          "Name": "Dungeons - Revisited",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "jdW20byGBxk=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=26331\nfileID=214878",
         "Name": "Dwemer Gates Don\u0027t Reset-26331-1-3-3-1626435626.7z",
@@ -1596,13 +1596,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "v3XGqjzeqjk=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/DynDOLOD_Output.7z_d1ba0ee9-d64b-4203-96e7-282f0a7df2c5/",
-        "Name": "DynDOLOD_Output.7z",
-        "Size": 559547990,
+        "Hash": "xyl6AOeDPSA=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/DynDOLOD_Output.zip_b2a9a84a-ce48-43bf-a07c-1eefc4f2e6c3/",
+        "Name": "DynDOLOD_Output.zip",
+        "Size": 1035691281,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/DynDOLOD_Output.7z_d1ba0ee9-d64b-4203-96e7-282f0a7df2c5/"
+          "Url": "https://authored-files.wabbajack.org/DynDOLOD_Output.zip_b2a9a84a-ce48-43bf-a07c-1eefc4f2e6c3/"
         }
       }
     },
@@ -1651,42 +1651,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "R2izlxMgU8s=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54907\nfileID=238577",
-        "Name": "eFPS - Exterior FPS boost-54907-2-1-1635843712.zip",
-        "Size": 750046,
+        "Hash": "kZhcvdLQYwI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54907\nfileID=244135",
+        "Name": "eFPS - Exterior FPS boost-54907-2-2-1637788185.zip",
+        "Size": 781961,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "nicola89b - Firegtx",
           "Description": "Make Skyrim great again with miracle FPS improvement.",
-          "FileID": 238577,
+          "FileID": 244135,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54907/54907-1630845704-474935940.png",
           "IsNSFW": false,
           "ModID": 54907,
           "Name": "eFPS - Exterior FPS boost",
-          "Version": "2.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8b8gcFnoCXU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=1377\nfileID=73990",
-        "Name": "ELE - SE v1.2.2-1377-1-2-2-1543800567.7z",
-        "Size": 88651,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "--JawZ-- TechAngel85",
-          "Description": "Lighting changes for all interiors in Skyrim Special Edition.\n\nThis version of ELE is a Lite version of the full ELE Suite found at ENBDev. This only includes certain features from all ELE modules into one single .esp plugin.",
-          "FileID": 73990,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1377-5-1477755119.jpg",
-          "IsNSFW": false,
-          "ModID": 1377,
-          "Name": "Enhanced Lighting for ENB (ELE) - Special Edition",
-          "Version": "0.0.0.0"
+          "Version": "2.2.0.0"
         }
       }
     },
@@ -1735,42 +1714,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8acDbGVaxYA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=22574\nfileID=94725",
-        "Name": "ENB Light 0.95 RC2 patch 1-22574-0-95RC2-patch1-1559603751.7z",
-        "Size": 128714,
+        "Hash": "GCNDzyZ+pUE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=22574\nfileID=117211",
+        "Name": "ENB Light 0.98 Alpha 2-22574-0-98Alpha2-1577144667.7z",
+        "Size": 11513522,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "4109",
           "Description": "Light on grass at night! Unlimited shadowed light sources! Transform your Skyrim experience completely with ENB particle lights.",
-          "FileID": 94725,
+          "FileID": 117211,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22574/22574-1547392713-1545651030.jpeg",
           "IsNSFW": false,
           "ModID": 22574,
           "Name": "ENB Light",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cDyepbwiRDc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42759\nfileID=215687",
-        "Name": "Installer_ASM_HP_enbPL 4.5-42759-4-5-1626806606.7z",
-        "Size": 15659468,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "skirymmods",
-          "Description": "Azura with high poly mesh and enb particle light for sun and moon",
-          "FileID": 215687,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42759/42759-1606340606-690233375.png",
-          "IsNSFW": true,
-          "ModID": 42759,
-          "Name": "Azura Highpoly EnbParticleLight",
-          "Version": "4.5.0.0"
+          "Version": "0.98.0.0Alpha2"
         }
       }
     },
@@ -1805,13 +1763,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "dDefinder",
-          "Description": "A blood overhaul mod",
+          "Description": "A blood mod overhaul",
           "FileID": 68649,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60-1-1363345227.jpg",
           "IsNSFW": true,
           "ModID": 2357,
-          "Name": "Enhanced Blood Textures SE",
+          "Name": "Enhanced Blood Textures",
           "Version": "0.0.0.0"
         }
       }
@@ -1855,27 +1813,6 @@
           "ModID": 51486,
           "Name": "Footstep Sounds Restored - Cut Content Restoration",
           "Version": "1.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Q7wxOsv+SiI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=49353\nfileID=201832",
-        "Name": "EVE - Giant Campfires Cast Shadows - ENB Light Version-49353-1-1b-1620217174.7z",
-        "Size": 10194094,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Exalderan",
-          "Description": "This mod adds shadows casting lights to all giant campfires in the game as vanilla was missing them for almost 10 years now. \n\nThe logs of the fire do not cast shadows, cause it looks stupid. (as seen in similiar modding attempts).",
-          "FileID": 201832,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49353/49353-1620216621-780246122.gif",
-          "IsNSFW": false,
-          "ModID": 49353,
-          "Name": "Giant Campfires Cast Shadows- Giant Fire Lighting Fixed - OPTIONAL ENB Light Version",
-          "Version": "1.1.0.0b"
         }
       }
     },
@@ -2092,42 +2029,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "YoHOYGusfEg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44044\nfileID=243277",
-        "Name": "FTweaks-44044-1-12-1637520910.7z",
-        "Size": 71438683,
+        "Hash": "/Euk+IjfnPw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44044\nfileID=250578",
+        "Name": "FTweaks-44044-1-13-1640025282.7z",
+        "Size": 81274856,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ANoobInDisguise and Requiem Community",
           "Description": "\u0022A comprehensive tweaks mod for Requiem in the vein of AZTweaks for version 4.0.2 that aims to alter Requiem into a version that suits my vision. Things will be more deadly and the player will become less overwhelmingly powerful by a playthrough\u0027s conclusion, while still maintaining a sense of fairness and balance. Balanced for use with DiD.\u0022",
-          "FileID": 243277,
+          "FileID": 250578,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44044/44044-1610165316-279129692.png",
           "IsNSFW": false,
           "ModID": 44044,
           "Name": "Requiem - 3Tweaks - plus Community Additions and Patches",
-          "Version": "1.12.0.0"
+          "Version": "1.13.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "rOrBTycE9mw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54723\nfileID=226855",
-        "Name": "FTweaks - Pact Weapon Redone Patch-54723-2-1-0-1631057512.7z",
-        "Size": 905,
+        "Hash": "Gc8f2I7OMZk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54723\nfileID=244936",
+        "Name": "FTweaks - Pact Weapon Redone Patch-54723-3-0-1638049889.7z",
+        "Size": 902,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "James B",
           "Description": "Channel spells onto your weapon attacks, and be a true battle-mage!",
-          "FileID": 226855,
+          "FileID": 244936,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54723/54723-1630246967-1172683173.jpeg",
           "IsNSFW": false,
           "ModID": 54723,
           "Name": "Pact Weapon - Redone",
-          "Version": "2.1.0.0"
+          "Version": "3.0.0.0"
         }
       }
     },
@@ -2169,6 +2106,27 @@
           "IsNSFW": false,
           "ModID": 348,
           "Name": "Gildergreen Regrown",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3x8k9c4zns0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32376\nfileID=129655",
+        "Name": "Glorious Doors of Skyrim SE-32376-1-03-1584773006.7z",
+        "Size": 836877116,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "hype1",
+          "Description": "All-In-One pack of all my doors including a handy Fomod installer and a new Dwemer door!",
+          "FileID": 129655,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32376/32376-1581621875-1810225153.jpeg",
+          "IsNSFW": false,
+          "ModID": 32376,
+          "Name": "Glorious Doors of Skyrim (GDOS) SE",
           "Version": "0.0.0.0"
         }
       }
@@ -2365,21 +2323,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hUl4RuUYIGE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=24174\nfileID=208207",
-        "Name": "HMB II-24174-4-41-1623193888.7z",
-        "Size": 1018294857,
+        "Hash": "0wtf8rEcez0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=24174\nfileID=249715",
+        "Name": "HMB II-24174-4-45-1639702921.7z",
+        "Size": 1237550211,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Soulmancer and Laeris and The Community",
           "Description": "A lore friendly and compatible NPC overhaul that aims to preserve the rugged aesthetic of people in Skyrim.",
-          "FileID": 208207,
+          "FileID": 249715,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/24174/24174-1597194663-1038784515.jpeg",
           "IsNSFW": false,
           "ModID": 24174,
           "Name": "Cathedral Player and NPC Overhaul - HMB II",
-          "Version": "4.41.0.0"
+          "Version": "4.45.0.0"
         }
       }
     },
@@ -2680,6 +2638,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "0HI0VrT8aVg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=46753\nfileID=249446",
+        "Name": "Jail Armor Stack Exploit Fix-46753-1-0-1639605145.7z",
+        "Size": 2389,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AndrealphusVIII",
+          "Description": "A compilation of various fixes to common exploits.",
+          "FileID": 249446,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46753/46753-1615409047-1595834174.png",
+          "IsNSFW": false,
+          "ModID": 46753,
+          "Name": "Andrealphus\u0027 Exploit Fixes",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "UdrFxEuXfOY=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=46501\nfileID=193952",
         "Name": "Just Blood-46501-1-0-1616869843.zip",
@@ -2869,6 +2848,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "NFLyqGRMRxI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43158\nfileID=246819",
+        "Name": "Lux-43158-3-7-1638719143.rar",
+        "Size": 165588245,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GGUNIT",
+          "Description": "Consistent and complete rework of Skyrim interiors lighting. This mod takes advantage of the latest developments in enb, including enb light, and has for main objective to offer a gaming experience as realistic as it is dramatic.",
+          "FileID": 246819,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43158/43158-1607340742-1060911231.jpeg",
+          "IsNSFW": false,
+          "ModID": 43158,
+          "Name": "Lux",
+          "Version": "3.7.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "E2WZ1nhd4ss=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=20265\nfileID=67797",
         "Name": "Maiq the Abomination-20265-1.7z",
@@ -2926,6 +2926,27 @@
           "ModID": 33140,
           "Name": "Make Non-Exploitable Crossbow Slow Again For Requiem SSE",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fwG+5l6eX/o=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43158\nfileID=232292",
+        "Name": "Mechanicalpanda\u0027s Brighter Templates-43158-1-0-1-1633253966.7z",
+        "Size": 1321349,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GGUNIT",
+          "Description": "Consistent and complete rework of Skyrim interiors lighting. This mod takes advantage of the latest developments in enb, including enb light, and has for main objective to offer a gaming experience as realistic as it is dramatic.",
+          "FileID": 232292,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43158/43158-1607340742-1060911231.jpeg",
+          "IsNSFW": false,
+          "ModID": 43158,
+          "Name": "Lux",
+          "Version": "1.0.1.0"
         }
       }
     },
@@ -3121,6 +3142,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "PRZfHu9+bSY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=52641\nfileID=237996",
+        "Name": "Navigator - Navmesh Fixes-52641-1-1-2-1635622515.7z",
+        "Size": 1139833,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "tarlazo",
+          "Description": "A few navmesh improvements -- AIO and modular -- ESP-FE and .esl",
+          "FileID": 237996,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/52641/52641-1626809900-1216566478.jpeg",
+          "IsNSFW": false,
+          "ModID": 52641,
+          "Name": "Navigator - Navmesh Fixes",
+          "Version": "1.1.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "hK/hi9FXqGU=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Nemesis Output.7z_9a0306a9-54bc-43d3-8730-411c365ce13c/",
         "Name": "Nemesis Output.7z",
@@ -3149,6 +3191,27 @@
           "ModID": 21294,
           "Name": ".NET Script Framework",
           "Version": "18.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bVZFGaPovIo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=19469\nfileID=246978",
+        "Name": "New Treasure Hunt-19469-1-83-1638771081.7z",
+        "Size": 3442033,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "soreass",
+          "Description": "Adds 13 new hand-drawn treasure maps and treasures hidden across Skyrim SE.",
+          "FileID": 246978,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19469/19469-1534964339-387839446.jpeg",
+          "IsNSFW": false,
+          "ModID": 19469,
+          "Name": "New Treasure Hunt SSE",
+          "Version": "1.83.0.0"
         }
       }
     },
@@ -3239,6 +3302,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "0KhOTqotEaE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=35639\nfileID=174116",
+        "Name": "NoGrassias Ultimate-35639-1-1-1607633607.7z",
+        "Size": 1581,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Knight Life",
+          "Description": "This is a grass fix for overgrown grass and grass clipping issues caused by grass mods adding grass to land textures that aren\u0027t suppose to have grass. It can be use to fix issues in areas that other mods do not fix. All options are light plugins (ESPFE/esl flagged) and can be added or removed at anytime.",
+          "FileID": 174116,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35639/35639-1588716534-246646583.png",
+          "IsNSFW": false,
+          "ModID": 35639,
+          "Name": "No Grassias - A Universal Grass Fix For Grass Mods",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "hoACxoYNmhk=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=34137\nfileID=137879",
         "Name": "NOIR Custom Patches-34137-1-3-6-1588545860.zip",
@@ -3270,7 +3354,7 @@
           "Description": "The year is 2019. It is a time of great innovation and proper crossbow reloading! \n\nDon\u0027t tell me you never asked for this...",
           "FileID": 111215,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29869/29869-1571688988-502313347.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29869/29869-1613144086-2100938531.jpeg",
           "IsNSFW": false,
           "ModID": 29869,
           "Name": "Non-Exploitable Crossbow Reloading SE",
@@ -3296,6 +3380,48 @@
           "ModID": 9799,
           "Name": "Nordic Carving - Wallbaskets SE",
           "Version": "1.0.0.0c"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "I4//zadJ0Bk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=41363\nfileID=179537",
+        "Name": "Northern Cathedral Reach Grass-41363-1-1-1610674237.rar",
+        "Size": 392,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Wolfpack49",
+          "Description": "This is an ESL flagged patch that merges grasses from Cathedral Landscapes and Northern Grass, specifically replacing Cathedral\u0027s short green grass in The Reach (and other places) with Northern grass, but keeping Cathedral\u0027s distinctive flavor throughout much of the world.",
+          "FileID": 179537,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41363/41363-1602561247-2066538469.jpeg",
+          "IsNSFW": false,
+          "ModID": 41363,
+          "Name": "Northern Cathedral Reach Grass",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "a72+JyxtlUs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=25459\nfileID=90305",
+        "Name": "Northern Grass-25459-1-00-1556635600.zip",
+        "Size": 73940455,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BrosisJK",
+          "Description": "Northern Grass adds unique, lush and beautiful grasses that maintain a cold aesthetic and fit greatly with the climate of Skyrim. Built from the original Unbelievable Grass Two, it adds various other immersive and cold looking grasses for a unique and beautiful result. If you want your Skyrim to look cold, this is the mod for you.",
+          "FileID": 90305,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/25459/25459-1556635269-1741223163.png",
+          "IsNSFW": false,
+          "ModID": 25459,
+          "Name": "Northern Grass SE",
+          "Version": "f1.00"
         }
       }
     },
@@ -3344,21 +3470,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PYtbFQRZtGI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54723\nfileID=226851",
-        "Name": "Pact Weapon - Redone-54723-2-1-0-1631057135.7z",
-        "Size": 5111,
+        "Hash": "bA7CwlpyX04=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54723\nfileID=244949",
+        "Name": "Pact Weapon - Redone-54723-3-0-1-1638054359.7z",
+        "Size": 5844,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "James B",
           "Description": "Channel spells onto your weapon attacks, and be a true battle-mage!",
-          "FileID": 226851,
+          "FileID": 244949,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54723/54723-1630246967-1172683173.jpeg",
           "IsNSFW": false,
           "ModID": 54723,
           "Name": "Pact Weapon - Redone",
-          "Version": "2.1.0.0"
+          "Version": "3.0.1.0"
         }
       }
     },
@@ -3401,27 +3527,6 @@
           "ModID": 13048,
           "Name": "PapyrusUtil SE - Modders Scripting Utility Functions",
           "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "YyUeM2M8jAE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53064\nfileID=219396",
-        "Name": "PATCH The Grass Your Mother Warned About and Landscape Fixes For Grass Mods-53064-1-1628309864.zip",
-        "Size": 862622,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "StephanoA aka Pyroc14",
-          "Description": "An innovative and unique grass overhaul, with a plugin made from scratch, for both Skyrim and Solstheim.",
-          "FileID": 219396,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53064/53064-1628136051-312269771.png",
-          "IsNSFW": false,
-          "ModID": 53064,
-          "Name": "The Grass Your Mother Warned About",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -3590,27 +3695,6 @@
           "ModID": 33669,
           "Name": "Rally\u0027s All The Things",
           "Version": "1.4.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "1O5AYPbxACU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=13757\nfileID=39841",
-        "Name": "Randomized Word Walls.zip-13757-1-0.zip",
-        "Size": 32689,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Sjogga",
-          "Description": "Shuffels the word walls of Skyrim around so that each playthrough will be unique.",
-          "FileID": 39841,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/13757/13757-1511696306-1791981205.jpeg",
-          "IsNSFW": false,
-          "ModID": 13757,
-          "Name": "Randomized Word Walls",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -3869,21 +3953,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/+vz1InlC4c=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54723\nfileID=226852",
-        "Name": "Requiem - Pact Weapon Redone Patch-54723-2-1-0-1631057249.7z",
-        "Size": 3739,
+        "Hash": "dbFnAAWdizw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54723\nfileID=244931",
+        "Name": "Requiem - Pact Weapon Redone Patch-54723-3-0-1638049606.7z",
+        "Size": 8618,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "James B",
           "Description": "Channel spells onto your weapon attacks, and be a true battle-mage!",
-          "FileID": 226852,
+          "FileID": 244931,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54723/54723-1630246967-1172683173.jpeg",
           "IsNSFW": false,
           "ModID": 54723,
           "Name": "Pact Weapon - Redone",
-          "Version": "2.1.0.0"
+          "Version": "3.0.0.0"
         }
       }
     },
@@ -3995,42 +4079,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "h5AZhb7H6e4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42633\nfileID=227885",
-        "Name": "Requiem_NPC_Statefix-42633-0-3-1631456528.zip",
-        "Size": 260598,
+        "Hash": "PFnYx6DyNZ8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42633\nfileID=248809",
+        "Name": "Requiem_NPC_Statefix-42633-0-3a-1639410948.zip",
+        "Size": 260552,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sunny333456",
           "Description": "The mods here aren\u0027t patches. They are used to enhance your Requiem experience. Currently here have five mods : knockdown tweak, NPC statefix, VampireCollection,  Alduin redone and Better forgotten vale.",
-          "FileID": 227885,
+          "FileID": 248809,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42633/42633-1627374428-482034935.jpeg",
           "IsNSFW": false,
           "ModID": 42633,
           "Name": "Requiem - small tweaks SE",
-          "Version": "0.3.0.0"
+          "Version": "0.3.0.0a"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "B3P8p45tnxA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42633\nfileID=227887",
-        "Name": "Requiem_VampireCollection-42633-0-4-1631456780.zip",
-        "Size": 22180193,
+        "Hash": "XtQOMncTBuA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42633\nfileID=248815",
+        "Name": "Requiem_VampireCollection-42633-0-4a-1639411264.zip",
+        "Size": 22180195,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sunny333456",
           "Description": "The mods here aren\u0027t patches. They are used to enhance your Requiem experience. Currently here have five mods : knockdown tweak, NPC statefix, VampireCollection,  Alduin redone and Better forgotten vale.",
-          "FileID": 227887,
+          "FileID": 248815,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42633/42633-1627374428-482034935.jpeg",
           "IsNSFW": false,
           "ModID": 42633,
           "Name": "Requiem - small tweaks SE",
-          "Version": "0.4.0.0"
+          "Version": "0.4.0.0a"
         }
       }
     },
@@ -4058,13 +4142,34 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "a1tQ6MMl6gQ=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/RFTI.7z_fd385695-22d5-4c94-ac88-4fae92ac896b/",
+        "Hash": "01NgRk2vxZc=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/RFTI.7z_6a8efce2-80db-477b-8b25-32b7ca6e5d34/",
         "Name": "RFTI.7z",
-        "Size": 31763481,
+        "Size": 31369352,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/RFTI.7z_fd385695-22d5-4c94-ac88-4fae92ac896b/"
+          "Url": "https://authored-files.wabbajack.org/RFTI.7z_6a8efce2-80db-477b-8b25-32b7ca6e5d34/"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rCKpJuzCTvY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=52641\nfileID=216463",
+        "Name": "Rift Watchtower NavFix-52641-1-0-1-1627149174.7z",
+        "Size": 155265,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "tarlazo",
+          "Description": "A few navmesh improvements -- AIO and modular -- ESP-FE and .esl",
+          "FileID": 216463,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/52641/52641-1626809900-1216566478.jpeg",
+          "IsNSFW": false,
+          "ModID": 52641,
+          "Name": "Navigator - Navmesh Fixes",
+          "Version": "1.0.1.0"
         }
       }
     },
@@ -4155,21 +4260,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "UUubiWiVyx4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58224\nfileID=240469",
-        "Name": "Security Overhaul SKSE - Lock Variations-58224-1-0-1636599424.7z",
-        "Size": 168122556,
+        "Hash": "XbHBB3dI4RE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59529\nfileID=248739",
+        "Name": "Security Overhaul SKSE - Add-ons-59529-0-1-2-1639384195.7z",
+        "Size": 176715420,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kreiste-wSkeever-powerofthree",
+          "Description": "Additional variant lock models for Security Overhaul SKSE - Lock Variations",
+          "FileID": 248739,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59529/59529-1638754442-1253084650.gif",
+          "IsNSFW": false,
+          "ModID": 59529,
+          "Name": "Security Overhaul SKSE - Add-ons",
+          "Version": "0.1.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CA6ttP1bxUg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58224\nfileID=247455",
+        "Name": "Security Overhaul SKSE - Lock Variations-58224-2-0-1-1638940333.7z",
+        "Size": 168191446,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kreiste-wSkeever-powerofthree",
           "Description": "SKSE based framework for replacing overused lock model with unique lock variants.",
-          "FileID": 240469,
+          "FileID": 247455,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58224/58224-1636566041-1637060129.gif",
           "IsNSFW": false,
           "ModID": 58224,
           "Name": "Security Overhaul SKSE - Lock Variations",
-          "Version": "1.0.0.0"
+          "Version": "2.0.1.0"
         }
       }
     },
@@ -4291,7 +4417,7 @@
           "Description": "A light-weight snow mod designed to minimize conflicts. Uses your own snow texture and removes snow from under roofs",
           "FileID": 235071,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56235/56235-1632818492-1376746124.gif",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56235/56235-1639798812-1869807476.gif",
           "IsNSFW": false,
           "ModID": 56235,
           "Name": "Simplicity of Snow",
@@ -4470,21 +4596,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "UpXXiH+3cuM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44044\nfileID=236625",
-        "Name": "Small Tweaks (NPC Statefix and Vampire Collection) - 3Tweaks Patch-44044-18-1634999007.7z",
-        "Size": 28178,
+        "Hash": "ix4A6k5nKGE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44044\nfileID=250577",
+        "Name": "Small Tweaks (NPC Statefix and Vampire Collection) - 3Tweaks Patch-44044-19-1640024905.7z",
+        "Size": 34392,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ANoobInDisguise and Requiem Community",
           "Description": "\u0022A comprehensive tweaks mod for Requiem in the vein of AZTweaks for version 4.0.2 that aims to alter Requiem into a version that suits my vision. Things will be more deadly and the player will become less overwhelmingly powerful by a playthrough\u0027s conclusion, while still maintaining a sense of fairness and balance. Balanced for use with DiD.\u0022",
-          "FileID": 236625,
+          "FileID": 250577,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44044/44044-1610165316-279129692.png",
           "IsNSFW": false,
           "ModID": 44044,
           "Name": "Requiem - 3Tweaks - plus Community Additions and Patches",
-          "Version": "18.0.0.0"
+          "Version": "19.0.0.0"
         }
       }
     },
@@ -4548,6 +4674,27 @@
           "ModID": 659,
           "Name": "Static Mesh Improvement Mod - SMIM",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8OwZVgyge7U=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=29841\nfileID=111581",
+        "Name": "Stendarr Paladin Armor Set - No Light Enchant - ESP Version-29841-1-0xESP-1572178455.7z",
+        "Size": 35150567,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NordwarUA",
+          "Description": "Adds a standalone set of Stendarr Paladin armor complete with a shield and two weapons. ESPLite version available for those vigilant of plugin limit.",
+          "FileID": 111581,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29841/29841-1571599862-629768098.png",
+          "IsNSFW": false,
+          "ModID": 29841,
+          "Name": "Stendarr Paladin Armor Set",
+          "Version": "1.0.0.0xESP"
         }
       }
     },
@@ -4631,27 +4778,6 @@
           "IsNSFW": false,
           "ModID": 43803,
           "Name": "The Companions Ain\u0027t Hachikos",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "TlD2xYpd6AA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53064\nfileID=219011",
-        "Name": "The Grass Your Mother Warned About SE-53064-1-1628176178.rar",
-        "Size": 156479251,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "StephanoA aka Pyroc14",
-          "Description": "An innovative and unique grass overhaul, with a plugin made from scratch, for both Skyrim and Solstheim.",
-          "FileID": 219011,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53064/53064-1628136051-312269771.png",
-          "IsNSFW": false,
-          "ModID": 53064,
-          "Name": "The Grass Your Mother Warned About",
           "Version": "1.0.0.0"
         }
       }
@@ -4806,6 +4932,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "3L/+w2YVm4s=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59350\nfileID=246095",
+        "Name": "Use Telekinesis on Traps - po3\u0027s Papyrus Extender Version-59350-0-2-3-1638465335.7z",
+        "Size": 4313,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wankingSkeever",
+          "Description": "Allow you to use telekinesis on soul gem traps, trip wires, pressure plates, and more.",
+          "FileID": 246095,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59350/59350-1638363767-656205106.gif",
+          "IsNSFW": false,
+          "ModID": 59350,
+          "Name": "Use Telekinesis on Traps",
+          "Version": "0.2.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "/b2sLC1x210=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=26489\nfileID=95554",
         "Name": "Useful Scrolls 1.0 SSE-26489-1-0-1560222755.rar",
@@ -4953,27 +5100,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "iCwa1C0Y5Ss=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=37831\nfileID=213210",
-        "Name": "Window Shadows-37831-7-7-4-1625664658.zip",
-        "Size": 39886817,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "HHaley and Dlizzio",
-          "Description": "Windows cast shadows from interiors in Skyrim. Now uses simulated ray tracing.",
-          "FileID": 213210,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37831/37831-1625770531-1625365687.png",
-          "IsNSFW": false,
-          "ModID": 37831,
-          "Name": "Window Shadows RT",
-          "Version": "7.7.4.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "8csxUHn+vZE=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=38547\nfileID=151599",
         "Name": "Wounds Overlays For RaceMenu-38547-1-0-1595408884.rar",
@@ -5016,21 +5142,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "FcDmSmYbX18=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=56144\nfileID=238384",
-        "Name": "YASTM - Yet Another Soul Trap Manager-56144-1-6-0-1635752174.7z",
-        "Size": 7335005,
+        "Hash": "uRh+mvyNtbM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56144\nfileID=248243",
+        "Name": "YASTM (FOMOD)-56144-1-8-2-1639241092.7z",
+        "Size": 1935475,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Seally25",
           "Description": "\u0022Yet Another\u0022 solution to the underfilled soul gem problem, this time using SKSE. Heavily inspired by GIST (Genuinely Intelligent Soul Trap) by opusGlass.",
-          "FileID": 238384,
+          "FileID": 248243,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56144/56144-1632650715-84106087.jpeg",
           "IsNSFW": false,
           "ModID": 56144,
           "Name": "YASTM - Yet Another Soul Trap Manager",
-          "Version": "1.6.0.0"
+          "Version": "1.8.2.0"
         }
       }
     },
@@ -5255,6 +5381,19 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "ENwaigEeDLI=",
+        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=1x7Biesz0kcNnFh27kVWx_CUpnWUg3mI8\u0026export=download",
+        "Name": "Pi-CHO ENB N6.75 for Azurite Weathers.7z",
+        "Size": 55215827,
+        "State": {
+          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
+          "Id": "1x7Biesz0kcNnFh27kVWx_CUpnWUg3mI8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Agjkn41Emeo=",
         "Meta": "[General]\ndirectURL=https://github.com/Mutagen-Modding/Synthesis/releases/download/0.19.2/Synthesis.zip",
         "Name": "Synthesis.zip",
@@ -5290,21 +5429,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cuD8GT9N+Xw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54723\nfileID=226853",
-        "Name": "3Tweaks - Pact Weapon Redone Patch-54723-2-1-0-1631057332.7z",
-        "Size": 957,
+        "Hash": "QLH80Mb2xdM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54723\nfileID=244933",
+        "Name": "3Tweaks - Pact Weapon Redone Patch-54723-3-0-1638049710.7z",
+        "Size": 1451,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "James B",
           "Description": "Channel spells onto your weapon attacks, and be a true battle-mage!",
-          "FileID": 226853,
+          "FileID": 244933,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54723/54723-1630246967-1172683173.jpeg",
           "IsNSFW": false,
           "ModID": 54723,
           "Name": "Pact Weapon - Redone",
-          "Version": "2.1.0.0"
+          "Version": "3.0.0.0"
         }
       }
     },
@@ -5416,21 +5555,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VsjqFm5z6DQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54723\nfileID=226854",
-        "Name": "BTweaks - Pact Weapon Redone Patch-54723-2-1-0-1631057399.7z",
-        "Size": 1101,
+        "Hash": "mSC+uPAA3Xk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54723\nfileID=244935",
+        "Name": "BTweaks - Pact Weapon Redone Patch-54723-3-0-1638049806.7z",
+        "Size": 1215,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "James B",
           "Description": "Channel spells onto your weapon attacks, and be a true battle-mage!",
-          "FileID": 226854,
+          "FileID": 244935,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54723/54723-1630246967-1172683173.jpeg",
           "IsNSFW": false,
           "ModID": 54723,
           "Name": "Pact Weapon - Redone",
-          "Version": "2.1.0.0"
+          "Version": "3.0.0.0"
         }
       }
     },
@@ -5542,21 +5681,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "DNQeWidv8dQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=17716\nfileID=243300",
-        "Name": "Charge Dialogue Fix-17716-1-2-1637525511.7z",
-        "Size": 1206,
+        "Hash": "bYMtnN4ItaA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=17716\nfileID=249154",
+        "Name": "Charge Dialogue Fix-17716-1-4-1639512548.7z",
+        "Size": 1222,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Whitefang37",
           "Description": "Just a simple fix I made in TES5Edit that prevents the \u0022Hey watch it\u0022 type dialogue, that you get from running into people, from playing in combat.",
-          "FileID": 243300,
+          "FileID": 249154,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17716/17716-1527940821-1010043045.jpeg",
           "IsNSFW": false,
           "ModID": 17716,
           "Name": "Charge Dialogue Fix",
-          "Version": "1.2.0.0"
+          "Version": "1.4.0.0"
         }
       }
     },
@@ -5752,6 +5891,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "jLoXRAKQEjE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=17715\nfileID=56529",
+        "Name": "Don\u0027t Talk With Your Mouth Full-17715-1-1.7z",
+        "Size": 538,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Whitefang37",
+          "Description": "A simple edit that prevents NPC eating and drinking animations while talking to the player.",
+          "FileID": 56529,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17715/84474-1527938847-1305370958.jpeg",
+          "IsNSFW": false,
+          "ModID": 17715,
+          "Name": "Don\u0027t Talk With Your Mouth Full",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Hck+gv7pQaI=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=52897\nfileID=235114",
         "Name": "DynDOLOD Resources SE 3-52897-Alpha-15-1634374549.7z",
@@ -5780,7 +5940,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "PraedythXVI",
-          "Description": "Model and texture replacer for the elder scroll.\n\nTextures are available in 8K/4K/2K and 1K.\n\nThe model has animated spinning parts, with a slightly different animation for when Serana\u0027s carrying her elder scroll.",
+          "Description": "Model and texture replacer for the elder scroll.\n\nTextures are available in 4K/2K and 1K.\n\nThe model has animated spinning parts, with a slightly different animation for when Serana\u0027s carrying her elder scroll.",
           "FileID": 211252,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51082/51082-1623618138-1358810004.png",
@@ -5822,10 +5982,10 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ClearanceClarence",
-          "Description": "A texture replacement for the ore veins found in mines and around skyrim. This mod also retextures the mined ores and the ingots.",
+          "Description": "A texture replacement for the Ore veins, Mined ores and Ingots. Includes patches for Hearthfire and Skyrim AE",
           "FileID": 151418,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1306/1306-1569159804-646252978.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1306/1306-1637702049-69850307.jpeg",
           "IsNSFW": false,
           "ModID": 1306,
           "Name": "CC\u0027s Enhanced Ore Veins SSE Edition",
@@ -5941,13 +6101,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zN4HVaY3XP8=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Grass Cache.7z_aed9a794-5737-4c01-ad59-d47961922ad0/",
+        "Hash": "brG9JHvNzqc=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Grass Cache.7z_627e3172-4877-4ed1-9d73-7fcd84ca82a0/",
         "Name": "Grass Cache.7z",
-        "Size": 371014221,
+        "Size": 219591058,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Grass%20Cache.7z_aed9a794-5737-4c01-ad59-d47961922ad0/"
+          "Url": "https://authored-files.wabbajack.org/Grass%20Cache.7z_627e3172-4877-4ed1-9d73-7fcd84ca82a0/"
         }
       }
     },
@@ -6101,6 +6261,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "I3MBJ+ltsn0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=18080\nfileID=57650",
+        "Name": "Less Charitable NPCs SE-18080-1-0.rar",
+        "Size": 385,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Juudas333",
+          "Description": "Immersion mod that restricts the amount of stuff friendly NPCs let the player take from their homes and stores for free.",
+          "FileID": 57650,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18080/18080-1529406551-1529461462.jpeg",
+          "IsNSFW": false,
+          "ModID": 18080,
+          "Name": "DON\u0027T GIVE ME ALL THIS STUFF - Less Charitable NPCs SE",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OQVJEP/TqF0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43158\nfileID=240813",
+        "Name": "Lux-43158-3-6-1-1636731767.rar",
+        "Size": 133849782,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GGUNIT",
+          "Description": "Consistent and complete rework of Skyrim interiors lighting. This mod takes advantage of the latest developments in enb, including enb light, and has for main objective to offer a gaming experience as realistic as it is dramatic.",
+          "FileID": 240813,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43158/43158-1607340742-1060911231.jpeg",
+          "IsNSFW": false,
+          "ModID": 43158,
+          "Name": "Lux",
+          "Version": "3.6.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "PEKf1krhnRA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=11669\nfileID=147181",
         "Name": "MfgFix-11669-1-5-4-1592988142.7z",
@@ -6108,7 +6310,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Andrelo",
-          "Description": "This mod fixes ModifyFaceGen(mfg) console command and adds some more fixes.",
+          "Description": "Fixes \u0026lt;mfg\u0026gt; console command and adds some other fixes.",
           "FileID": 147181,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/11669-0-1503081803.jpg",
@@ -6324,21 +6526,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Xi7epOgfmq0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=22854\nfileID=235900",
-        "Name": "Papyrus Extender SSE - 4.5.2-22854-4-5-2-1634665907.7z",
-        "Size": 498067,
+        "Hash": "cV8Ygyd6sl0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=38944\nfileID=160166",
+        "Name": "Paper UI Sounds-38944-6-1-1599820078.7z",
+        "Size": 11385105,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Muffloid",
+          "Description": "A project to replace Skyrim\u0027s UI sounds with paper sounds, to work with paper interface retextures and maps.",
+          "FileID": 160166,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38944/38944-1596706020-255977565.png",
+          "IsNSFW": false,
+          "ModID": 38944,
+          "Name": "Paper UI Sounds for Skyrim",
+          "Version": "5.2.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QsFrRSM+Cts=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=22854\nfileID=245817",
+        "Name": "Papyrus Extender SE-22854-4-5-5-1638372170.7z",
+        "Size": 503098,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
           "Description": "SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.",
-          "FileID": 235900,
+          "FileID": 245817,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22854/95017-1548256254-1238854123.png",
           "IsNSFW": false,
           "ModID": 22854,
           "Name": "powerofthree\u0027s Papyrus Extender",
-          "Version": "4.5.2.0"
+          "Version": "4.5.5.0"
         }
       }
     },
@@ -6597,6 +6820,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "DDbsIF8SYy8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44685\nfileID=181189",
+        "Name": "Scare my Enemy Bug Fix-44685-1-0-1611374649.7z",
+        "Size": 627,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Liberal Life",
+          "Description": "This bug fix addresses a longstanding issue with the Scare my Enemy radiant quest.",
+          "FileID": 181189,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44685/106360-1611373760-251448827.png",
+          "IsNSFW": false,
+          "ModID": 44685,
+          "Name": "Scare my Enemy Bug Fix",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "H6Lc5WNbZlo=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=1928\nfileID=2237",
         "Name": "Shut Up Mirmulnir-1928-.7z",
@@ -6681,21 +6925,55 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WFNBWlyix7o=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=27859\nfileID=189882",
-        "Name": "Skyrim Souls RE - Updated-27859-2-2-0-1615057340.zip",
-        "Size": 252199,
+        "Hash": "0kX5BgWAsoQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=23174\nfileID=96157",
+        "Name": "Skyrim SE Shader Bundle - 1.5.73 and earlier-23174-1-5-73-1560635808.7z",
+        "Size": 709084,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "aers",
+          "Description": "Adds necessary functions to support extra features in ENB for Skyrim Special Edition.",
+          "FileID": 96157,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23174/23174-1549311716-1723342253.png",
+          "IsNSFW": false,
+          "ModID": 23174,
+          "Name": "ENB Helper SE",
+          "Version": "1.5.73.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VRfsofyskfM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=27859\nfileID=217445",
+        "Name": "Skyrim Souls RE - Updated-27859-2-2-2-1627555490.zip",
+        "Size": 290316,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Vermunds and Fudgyduff",
           "Description": "Unpauses game menus. Updated and fixed version.",
-          "FileID": 189882,
+          "FileID": 217445,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27859/27859-1564599010-1807707357.png",
           "IsNSFW": false,
           "ModID": 27859,
           "Name": "Skyrim Souls RE - Updated",
-          "Version": "2.2.0.0"
+          "Version": "2.2.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2MrbjqTtwtg=",
+        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=12tL3_kpm_KXlQvQqEnK3zOAl-sm_H3Fw\u0026export=download",
+        "Name": "Skyrim_Particle_Patch_for_ENB-SSE.zip",
+        "Size": 38399950,
+        "State": {
+          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
+          "Id": "12tL3_kpm_KXlQvQqEnK3zOAl-sm_H3Fw"
         }
       }
     },
@@ -6801,6 +7079,27 @@
           "ModID": 54854,
           "Name": "Ultra Widescreen Patch for Forget Spell (Temporary Upload)",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Bc+8+YqQ4YM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=24079\nfileID=245897",
+        "Name": "Underwater Visibility Fix - RW2-24079-2-5-1638394705.7z",
+        "Size": 2841,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nyphani",
+          "Description": "Lessens the ugly underwater blur and pushes back the underwater fog to a decent distance, without disabling depth of field.",
+          "FileID": 245897,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/24079/24079-1552677211-1233475283.jpeg",
+          "IsNSFW": false,
+          "ModID": 24079,
+          "Name": "Underwater Visibility Fix",
+          "Version": "2.5.0.0"
         }
       }
     },
@@ -6935,21 +7234,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kmEacAXiWyY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32382\nfileID=236178",
-        "Name": "DynDOLOD 3.00-32382-Alpha-53-1634812868.7z",
-        "Size": 42970417,
+        "Hash": "TOf2nKWniBs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32382\nfileID=244025",
+        "Name": "DynDOLOD 3.00-32382-Alpha-56-1637746966.7z",
+        "Size": 25951543,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sheson",
           "Description": "DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD \u002B tree LOD and the new,  optional dynamic distant object LOD in a few simple steps.",
-          "FileID": 236178,
+          "FileID": 244025,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32382/32382-1580900155-1292674369.jpeg",
           "IsNSFW": false,
           "ModID": 32382,
           "Name": "Dynamic Distant Objects LOD - DynDOLOD",
-          "Version": "Alpha-53"
+          "Version": "Alpha-56"
         }
       }
     },
@@ -7042,7 +7341,7 @@
           "Description": "Makes the vanilla Whiterun trellis 3D with custom meshes. Includes iron and (optional) wood textures.",
           "FileID": 170134,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41801/41801-1603852836-2082411913.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41801/41801-1639214695-175003452.png",
           "IsNSFW": false,
           "ModID": 41801,
           "Name": "3D Whiterun Trellis",
@@ -7179,21 +7478,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XjS5BRtq+7Q=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=243129",
-        "Name": "Assorted Mesh Fixes-32117-0-34-1637466603.7z",
-        "Size": 10449686,
+        "Hash": "6CS5eiZDdmA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=250333",
+        "Name": "Assorted Mesh Fixes-32117-0-39-1639931326.7z",
+        "Size": 11027513,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wankingSkeever",
           "Description": "Fixes various issues with vanilla Skyrim meshes that causes them to render incorrectly",
-          "FileID": 243129,
+          "FileID": 250333,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32117/32117-1612599331-161051453.png",
           "IsNSFW": false,
           "ModID": 32117,
           "Name": "Assorted mesh fixes",
-          "Version": "0.34.0.0"
+          "Version": "0.39.0.0"
         }
       }
     },
@@ -7347,27 +7646,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "usGDEGlfe1E=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58004\nfileID=239357",
-        "Name": "Breton Mage Loading Screen Fix-58004-1-0-1636193476.zip",
-        "Size": 289579,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Sayoregg",
-          "Description": "Fixes an issue where, when using an ENB, the breton mage loading screen\u0027s hands would appear green.",
-          "FileID": 239357,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58004/58004-1636193185-290114847.png",
-          "IsNSFW": false,
-          "ModID": 58004,
-          "Name": "Breton mage loading screen green hand fix",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "NbCS6SfioKg=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=33261\nfileID=195587",
         "Name": "Bug Fixes SSE v3-33261-3-1617429109.zip",
@@ -7431,21 +7709,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BjOkZYBUozI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45931\nfileID=204497",
-        "Name": "Classic Paralysis-45931-3-1-1621492375.7z",
-        "Size": 84988,
+        "Hash": "g8L0xWLA3VM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45931\nfileID=244713",
+        "Name": "Classic Paralysis SE-45931-3-2-1-1637989053.7z",
+        "Size": 223017,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
           "Description": "A SKSE plugin that makes paralysis spells freeze the target in place.",
-          "FileID": 204497,
+          "FileID": 244713,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45931/45931-1613770098-1328740644.png",
           "IsNSFW": false,
           "ModID": 45931,
           "Name": "Classic Paralysis",
-          "Version": "3.1.0.0"
+          "Version": "3.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zWM912NwZms=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60097\nfileID=249553",
+        "Name": "Clavicus Vile - 2K textures-60097-1-01-1639657024.zip",
+        "Size": 8989969,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mandragorasprouts",
+          "Description": "New Clavicus Vile shrine",
+          "FileID": 249553,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60097/60097-1639569102-794374261.png",
+          "IsNSFW": false,
+          "ModID": 60097,
+          "Name": "Clavicus Vile",
+          "Version": "f1.01"
         }
       }
     },
@@ -7739,70 +8038,7 @@
           "IsNSFW": false,
           "ModID": 23174,
           "Name": "ENB Helper SE",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "CQvjRFyTRCs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=22574\nfileID=88473",
-        "Name": "ENB Light 0.95 Release Candidate 2-22574-0-95-1555278577.7z",
-        "Size": 8625154,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "4109",
-          "Description": "Light on grass at night! Unlimited shadowed light sources! Transform your Skyrim experience completely with ENB particle lights.",
-          "FileID": 88473,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22574/22574-1547392713-1545651030.jpeg",
-          "IsNSFW": false,
-          "ModID": 22574,
-          "Name": "ENB Light",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "IEDHYfSIWZM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=22574\nfileID=87009",
-        "Name": "ENB Light - patch for Quick Light SE-22574-1-2-1554053499.7z",
-        "Size": 126747,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "4109",
-          "Description": "Light on grass at night! Unlimited shadowed light sources! Transform your Skyrim experience completely with ENB particle lights.",
-          "FileID": 87009,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22574/22574-1547392713-1545651030.jpeg",
-          "IsNSFW": false,
-          "ModID": 22574,
-          "Name": "ENB Light",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "iNkHMxpQm1E=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=22574\nfileID=109252",
-        "Name": "ENB Light 0.96 WIP 01 - Magic Staff lights-22574-0-96WIP01-1570151118.7z",
-        "Size": 155410,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "4109",
-          "Description": "Light on grass at night! Unlimited shadowed light sources! Transform your Skyrim experience completely with ENB particle lights.",
-          "FileID": 109252,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22574/22574-1547392713-1545651030.jpeg",
-          "IsNSFW": false,
-          "ModID": 22574,
-          "Name": "ENB Light",
-          "Version": "0.0.0.0"
+          "Version": "1.5.0.0"
         }
       }
     },
@@ -7830,21 +8066,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "lWmEvkSjP8A=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43500\nfileID=200339",
-        "Name": "Enhanced Reanimation-43500-1-3-1619463800.7z",
-        "Size": 96123,
+        "Hash": "Maz1mY7vDvA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43500\nfileID=245264",
+        "Name": "Enhanced Reanimation SE-43500-1-4-0-1638156734.7z",
+        "Size": 226073,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
           "Description": "An SKSE plugin that improves and fixes bugs with Reanimation effects.",
-          "FileID": 200339,
+          "FileID": 245264,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43500/43500-1608437743-1764148754.png",
           "IsNSFW": false,
           "ModID": 43500,
           "Name": "Enhanced Reanimation",
-          "Version": "1.3.0.0"
+          "Version": "1.4.0.0"
         }
       }
     },
@@ -7872,21 +8108,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "drqa0ow+TNc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42997\nfileID=201941",
-        "Name": "Essential Favorites-42997-2-1-1620276394.7z",
-        "Size": 93766,
+        "Hash": "XBxwT03uyNk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42997\nfileID=244390",
+        "Name": "Essential Favorites SE-42997-2-2-0-1637889161.7z",
+        "Size": 222543,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
           "Description": "SKSE plugin that prevents favorited items from being sold, crafted, disarmed, disenchanted, or dropped.",
-          "FileID": 201941,
+          "FileID": 244390,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42997/42997-1620276191-707645528.png",
           "IsNSFW": false,
           "ModID": 42997,
           "Name": "Essential Favorites",
-          "Version": "2.1.0.0"
+          "Version": "2.2.0.0"
         }
       }
     },
@@ -7935,21 +8171,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QwWsQ5Y1oiQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42750\nfileID=190638",
-        "Name": "Favorite Misc Items SSE-42750-3-5-1615393928.7z",
-        "Size": 87326,
+        "Hash": "+QQTgOJbzyc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42750\nfileID=244322",
+        "Name": "Favorite Misc Items SSE-42750-3-5-1-1637861882.7z",
+        "Size": 225526,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
           "Description": "SKSE plugin that allows you to favorite books/soul gems/keys and other misc items.",
-          "FileID": 190638,
+          "FileID": 244322,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42750/42750-1606328474-479478683.png",
           "IsNSFW": false,
           "ModID": 42750,
           "Name": "Favorite Misc Items",
-          "Version": "3.5.0.0"
+          "Version": "3.5.1.0"
         }
       }
     },
@@ -8097,6 +8333,27 @@
           "ModID": 21704,
           "Name": "ElSopa HD - Unique Hand Made Signs Overhaul SE",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rLy+D2OI+Kg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=11052\nfileID=219005",
+        "Name": "DynDoLod V 3.0 Lod pack-11052-1-1-1628175173.7z",
+        "Size": 75323069,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "T4GTR34UM3R",
+          "Description": "-all mountains cast shadows-a single 8192 x 4096 pixel sized texture instead of two 4096 pixel ones-custom UV mapping with a reworked fitting lod-completely reworked vertex colors, prebaked ambient occlusion-reworked \u0022Improved Snow Shader\u0022 settings-three completely differen variations\n\n-optional landscape texture pack with a fitting lod",
+          "FileID": 219005,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/11052-0-1500743977.jpg",
+          "IsNSFW": false,
+          "ModID": 11052,
+          "Name": "Majestic Mountains",
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -8284,27 +8541,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "mnmbLE+lJbU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44644\nfileID=180961",
-        "Name": "2K-44644-1-0-1611279210.7z",
-        "Size": 4166368,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PraedythXVI",
-          "Description": "Replaces the lava textures with new ones.",
-          "FileID": 180961,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44644/44644-1611278805-1497275483.png",
-          "IsNSFW": false,
-          "ModID": 44644,
-          "Name": "Lava Replacer - SE",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "a2NQVcUIWeg=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=2017\nfileID=131901",
         "Name": "LeanWolfs Better-Shaped Weapons Installer v2.1.03 SE-2017-2-1-03-1585765834.7z",
@@ -8368,27 +8604,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "nNXEHyIgU6E=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=28552\nfileID=104386",
-        "Name": "Lucid Rain-28552-1-0-1566777628.zip",
-        "Size": 12361,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "nicostein",
-          "Description": "Rain that is denser and more visible for Cathedral Weathers and Seasons.",
-          "FileID": 104386,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28552/28552-1566785008-916291883.png",
-          "IsNSFW": false,
-          "ModID": 28552,
-          "Name": "Lucid Rain - for Cathedral Weathers and Seasons",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "64vHKy2jiTk=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=42391\nfileID=170174",
         "Name": "LucidAPs High Poly Project v4.9 (Optimization)-42391-1-0-2-1605438655.7z",
@@ -8404,27 +8619,6 @@
           "ModID": 42391,
           "Name": "High Poly Project - Texture optimization",
           "Version": "1.0.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "rLy+D2OI+Kg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=11052\nfileID=219005",
-        "Name": "DynDoLod V 3.0 Lod pack-11052-1-1-1628175173.7z",
-        "Size": 75323069,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "T4GTR34UM3R",
-          "Description": "-all mountains cast shadows-a single 8192 x 4096 pixel sized texture instead of two 4096 pixel ones-custom UV mapping with a reworked fitting lod-completely reworked vertex colors, prebaked ambient occlusion-reworked \u0022Improved Snow Shader\u0022 settings-three completely differen variations\n\n-optional landscape texture pack with a fitting lod",
-          "FileID": 219005,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/11052-0-1500743977.jpg",
-          "IsNSFW": false,
-          "ModID": 11052,
-          "Name": "Majestic Mountains",
-          "Version": "1.1.0.0"
         }
       }
     },
@@ -8725,6 +8919,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "SI5hIw9Pv+s=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=19562\nfileID=64173",
+        "Name": "Outlandish Stalhrim SSE-19562-1-0.7z",
+        "Size": 95780032,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "billyro",
+          "Description": "This is a port of the mod \u0022Outlandish Stalhrim\u0022 originally made for old Skyrim by billyro. Thank you for the permission to port this mod!",
+          "FileID": 64173,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19562/19562-1535315490-730894543.jpeg",
+          "IsNSFW": false,
+          "ModID": 19562,
+          "Name": "Outlandish Stalhrim SSE",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "KHvd0uDdCdk=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=57452\nfileID=242515",
         "Name": "Oxygen Meter - SSE-57452-1-2-0-1637264927.7z",
@@ -8740,27 +8955,6 @@
           "ModID": 57452,
           "Name": "Oxygen Meter",
           "Version": "1.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cV8Ygyd6sl0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=38944\nfileID=160166",
-        "Name": "Paper UI Sounds-38944-6-1-1599820078.7z",
-        "Size": 11385105,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Muffloid",
-          "Description": "A project to replace Skyrim\u0027s UI sounds with paper sounds, to work with paper interface retextures and maps.",
-          "FileID": 160166,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38944/38944-1596706020-255977565.png",
-          "IsNSFW": false,
-          "ModID": 38944,
-          "Name": "Paper UI Sounds for Skyrim",
-          "Version": "5.2.1.0"
         }
       }
     },
@@ -8788,21 +8982,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "2pR46f3Tt0w=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=51073\nfileID=242461",
-        "Name": "powerofthree\u0027s Tweaks SSE-51073-1-4-1637249374.7z",
-        "Size": 245142,
+        "Hash": "qiIeNR+Da7I=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=51073\nfileID=243754",
+        "Name": "powerofthree\u0027s Tweaks SE-51073-1-4-1-1637694161.7z",
+        "Size": 259680,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
           "Description": "Collection of engine bug fixes and tweaks. SKSE plugin.",
-          "FileID": 242461,
+          "FileID": 243754,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51073/51073-1623688700-1006153578.png",
           "IsNSFW": false,
           "ModID": 51073,
           "Name": "powerofthree\u0027s Tweaks",
-          "Version": "1.4.0.0"
+          "Version": "1.4.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "G1Qqnd2Q068=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59815\nfileID=247870",
+        "Name": "Qwafee\u0027s Yuck Rag-59815-1-0-0-1639108331.7z",
+        "Size": 2829168,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Qwafee",
+          "Description": "Yuck",
+          "FileID": 247870,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59815/59815-1639108142-369690139.png",
+          "IsNSFW": false,
+          "ModID": 59815,
+          "Name": "Qwafee Bloody Rags",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -9187,21 +9402,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WVuolFpxbhQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=56767\nfileID=235181",
-        "Name": "Simple Activate SKSE-56767-1-1-1634400869.7z",
-        "Size": 212153,
+        "Hash": "1W2pZEG9Pvk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56767\nfileID=243953",
+        "Name": "Simple Activate SKSE - SE-56767-1-2-1637723627.7z",
+        "Size": 232074,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
           "Description": "SKSE plugin that streamlines and offers customizable activation prompts",
-          "FileID": 235181,
+          "FileID": 243953,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56767/56767-1633701539-830650806.png",
           "IsNSFW": false,
           "ModID": 56767,
           "Name": "Simple Activate SKSE",
-          "Version": "1.1.0.0"
+          "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1HAdCzrfzLg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58927\nfileID=247908",
+        "Name": "Simple Block Sparks-58927-v0-25-1639125243.7z",
+        "Size": 99186,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Maxsu",
+          "Description": "SKSE plugin that spawns sparks effect on weapon/shield while block attack, visual effect only.",
+          "FileID": 247908,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58927/58927-1637659645-1360601301.png",
+          "IsNSFW": false,
+          "ModID": 58927,
+          "Name": "Simple Block Sparks- Script Free",
+          "Version": "0.25.0.0"
         }
       }
     },
@@ -9284,7 +9520,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50129/50129-1623157278-652122102.png",
           "IsNSFW": false,
           "ModID": 50129,
-          "Name": "Skyrim Priority SE - skse plugin",
+          "Name": "Skyrim Priority SE AE - skse plugin",
           "Version": "2.1.0.0"
         }
       }
@@ -9313,21 +9549,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "TV4FLn0ohkw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=36869\nfileID=242466",
-        "Name": "Spell Perk Item Distributor - SSE-36869-5-1-0-1637251775.7z",
-        "Size": 322503,
+        "Hash": "+JRCnMCrkBM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44388\nfileID=179941",
+        "Name": "Smim - Quality Addon-44388-1-3-1610838572.7z",
+        "Size": 53616503,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Pfuscher and Brumbek and Rudy",
+          "Description": "Improves many files of the great SMIM Mod, providing  visual upgrades",
+          "FileID": 179941,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44388/44388-1610719493-1294260507.png",
+          "IsNSFW": false,
+          "ModID": 44388,
+          "Name": "Static Mesh improvement Mod - SMIM - Quality Addon",
+          "Version": "1.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ypnYS6hvC1c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=36869\nfileID=245335",
+        "Name": "Spell Perk Item Distributor - SSE-36869-5-2-0-1638188435.7z",
+        "Size": 337719,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
           "Description": "SKSE plugin that can be used to add spells/perks/items/shouts/packages/outfits/keywords/factions to every NPC in the game, using config files.",
-          "FileID": 242466,
+          "FileID": 245335,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/36869/36869-1591389125-628593205.png",
           "IsNSFW": false,
           "ModID": 36869,
           "Name": "Spell Perk Item Distributor (SPID)",
-          "Version": "5.1.0.0"
+          "Version": "5.2.0.0"
         }
       }
     },
@@ -9355,21 +9612,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "rV/+5ScM0F4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=34705\nfileID=242036",
-        "Name": "SSE Display Tweaks-34705-0-5-0b-1637092400.zip",
-        "Size": 424697,
+        "Hash": "OREHD9duzD0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=34705\nfileID=248990",
+        "Name": "SSE Display Tweaks-34705-0-5-7b-1639473409.zip",
+        "Size": 421375,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SlavicPotato",
           "Description": "All-in-one solution for smooth FPS-unlocked gameplay. Includes a physics fix, borderless fullscreen performance boost, refresh rate control, highly configurable frame rate limiting, various bugfixes and more.",
-          "FileID": 242036,
+          "FileID": 248990,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34705/34705-1586796582-2125322633.png",
           "IsNSFW": false,
           "ModID": 34705,
           "Name": "SSE Display Tweaks",
-          "Version": "0.5.0.0b"
+          "Version": "0.5.7.0b"
         }
       }
     },
@@ -9397,6 +9654,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "sMxSoCZ1UmI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55543\nfileID=236878",
+        "Name": "Static Mesh Improvement Mod Improvement Mod-55543-1-3-0-1635115656.7z",
+        "Size": 6369657,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Novelyst",
+          "Description": "A mod to improve the topology of a few badly poorly subdivided meshes in the staple Static Mesh Improvement Mod and eliminate jaggedness in some which it does not cover.",
+          "FileID": 236878,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55543/55543-1633362492-930330184.png",
+          "IsNSFW": false,
+          "ModID": 55543,
+          "Name": "Static Mesh Improvement Mod Improvement Mod",
+          "Version": "1.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "ao+9l8yXNU8=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=19832\nfileID=126538",
         "Name": "Stay At System Page-19832-1-5-0-1583022131.zip",
@@ -9418,13 +9696,55 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XH1qYWTG3fg=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/TexGen_Output.7z_dd8a6a4c-a93a-4f78-a91f-ef312d091352/",
-        "Name": "TexGen_Output.7z",
-        "Size": 47476062,
+        "Hash": "sCguHxIAErg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=47184\nfileID=192354",
+        "Name": "Alt. Improved \u0027Light\u0027 Steel Armor-47184-1-0-1616179331.7z",
+        "Size": 8510690,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "QuestionableKhajiit and NordWarUA et al",
+          "Description": "A mesh/texture only replacer for most of the vanilla armor sets \u0026amp; some of the most common weapons. Primarily uses NordwarUA assets as well as weapons from Billyro and other modders with some texture modifications.",
+          "FileID": 192354,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47184/47184-1616110148-1749651918.png",
+          "IsNSFW": false,
+          "ModID": 47184,
+          "Name": "Simply Realistic Armor and Weapons (Custom NordwarUA Edition)",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Pf8zHy1J9r0=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/TexGen_Output.zip_873225bb-5d70-4646-991a-204f1e6d5af0/",
+        "Name": "TexGen_Output.zip",
+        "Size": 60213050,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/TexGen_Output.7z_dd8a6a4c-a93a-4f78-a91f-ef312d091352/"
+          "Url": "https://authored-files.wabbajack.org/TexGen_Output.zip_873225bb-5d70-4646-991a-204f1e6d5af0/"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "b6bqAy4RE/0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=1037\nfileID=3198",
+        "Name": "Total Character Makeover 1.2-1037-1-2.zip",
+        "Size": 229769148,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Scarla",
+          "Description": "A collection of carefully curated and optimized character improvements.",
+          "FileID": 3198,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53716-1-1399213359.png",
+          "IsNSFW": false,
+          "ModID": 1037,
+          "Name": "Total Character Makeover",
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -9760,6 +10080,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "M/rYVMIqmdA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=33369\nfileID=166288",
+        "Name": "2K SMIM Furniture Chest-33369-1-1-1603195093.7z",
+        "Size": 29066137,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "cunny1975",
+          "Description": "A retexture of the SMIM furniture chests, Upperclass, Weathered, Open and Snow. 4K or 2K.",
+          "FileID": 166288,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33369/33369-1603231465-986108560.jpeg",
+          "IsNSFW": false,
+          "ModID": 33369,
+          "Name": "4K SMIM Furniture Chest",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "v6zP0yA0ziA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=33052\nfileID=126281",
         "Name": "2K SMIM Large Ruins Chest WEATHERED-33052-1-1-1582884219.7z",
@@ -9964,6 +10305,27 @@
           "ModID": 51726,
           "Name": "Arvak - My version",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VnO9V78OshI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45597\nfileID=185518",
+        "Name": "Assorted Mesh Fixes - SMIM - Blended Roads Patch-45597-1-02-1613152761.7z",
+        "Size": 624593,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ShatterRock",
+          "Description": "Simply some mesh conflict resolution patches I made for personal use.",
+          "FileID": 185518,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45597/45597-1613096846-1975820091.png",
+          "IsNSFW": false,
+          "ModID": 45597,
+          "Name": "Mesh Patch for Various Mods",
+          "Version": "1.12.0.0a"
         }
       }
     },
@@ -10243,6 +10605,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "TA3vy3F7IQs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=4974\nfileID=10647",
+        "Name": "Dragon.Priest.2k-4974-1-2.7z",
+        "Size": 15564580,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kajuan",
+          "Description": "Dragon Priests and Acolytes skin-outfit-armor texture overhaul.",
+          "FileID": 10647,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4974-0-1481431885.jpg",
+          "IsNSFW": false,
+          "ModID": 4974,
+          "Name": "DRAGON PRIEST",
+          "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Acdrd/3F9Lo=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=5848\nfileID=13160",
         "Name": "Draugr.2k-5848-1-1.7z",
@@ -10258,27 +10641,6 @@
           "ModID": 5848,
           "Name": "DRAUGR",
           "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "HvMwGCrGTgw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=46507\nfileID=226711",
-        "Name": "Dwemer Pipework Reworked 4-46507-4-1631021604.rar",
-        "Size": 111526234,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Caleb2  - a k a   Anubis",
-          "Description": "Rework of Dwemer pipes, including Dwemer boilers.",
-          "FileID": 226711,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46507/46507-1615012118-1485397878.jpeg",
-          "IsNSFW": false,
-          "ModID": 46507,
-          "Name": "Dwemer Pipework Reworked",
-          "Version": "4.0.0.0"
         }
       }
     },
@@ -10306,6 +10668,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "wWQaRXR27ug=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=52897\nfileID=243722",
+        "Name": "DynDOLOD Resources SE 3.00-52897-Alpha-16-1637683162.7z",
+        "Size": 60409176,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sheson",
+          "Description": "DynDOLOD Resources SE 3 required by DynDOLOD 3 for drastically improved tree and object LOD generation.",
+          "FileID": 243722,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/52897/108514-1627373276-1783344232.jpeg",
+          "IsNSFW": false,
+          "ModID": 52897,
+          "Name": "DynDOLOD Resources SE 3",
+          "Version": "Alpha-16"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "71Ir3k2UD+g=",
         "Meta": "[General]\ngameName=skyrim\nmodID=19826\nfileID=71988",
         "Name": "Redguard Outfit-19826-.rar",
@@ -10321,27 +10704,6 @@
           "ModID": 19826,
           "Name": "Elaborate Textiles - NPC Clothing Retexture",
           "Version": "0.0.0.0-1341355466"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "x49yoRMWgoY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=22574\nfileID=110084",
-        "Name": "ENB Light 0.96 WIP 02 - Glowing Caveworms and Blackreach Plants-22574-0-96WIP02-1570891011.7z",
-        "Size": 126642,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "4109",
-          "Description": "Light on grass at night! Unlimited shadowed light sources! Transform your Skyrim experience completely with ENB particle lights.",
-          "FileID": 110084,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22574/22574-1547392713-1545651030.jpeg",
-          "IsNSFW": false,
-          "ModID": 22574,
-          "Name": "ENB Light",
-          "Version": "0.0.0.0"
         }
       }
     },
@@ -10537,27 +10899,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "3x8k9c4zns0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32376\nfileID=129655",
-        "Name": "Glorious Doors of Skyrim SE-32376-1-03-1584773006.7z",
-        "Size": 836877116,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "hype1",
-          "Description": "All-In-One pack of all my doors including a handy Fomod installer and a new Dwemer door!",
-          "FileID": 129655,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32376/32376-1581621875-1810225153.jpeg",
-          "IsNSFW": false,
-          "ModID": 32376,
-          "Name": "Glorious Doors of Skyrim (GDOS) SE",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "AZ2up0MQwoQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=325\nfileID=97149",
         "Name": "Greatsword Sheaths and Scabbards Redux SE-325-2-7--6-1561416448.7z",
@@ -10726,27 +11067,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "F7Y5xSTIlIE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=40278\nfileID=214944",
-        "Name": "High Poly Gleamblossoms - ENB Light-40278-1-2-1626461597.7z",
-        "Size": 210222,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "powerofthree",
-          "Description": "Higher poly gleamblossom model replacer, with ENB light support.",
-          "FileID": 214944,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/40278/40278-1599673056-685622218.png",
-          "IsNSFW": false,
-          "ModID": 40278,
-          "Name": "High Poly Gleamblossoms",
-          "Version": "1.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "ctk6h8MYWkI=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=22799\nfileID=79270",
         "Name": "High poly Pebbles-22799-1-0-1548156302.7z",
@@ -10867,6 +11187,27 @@
           "ModID": 35576,
           "Name": "Circlet USSEP Fixes",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0NlE99VA7AM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44644\nfileID=244510",
+        "Name": "Lava Replacer 1K-44644-1-1-1637929941.7z",
+        "Size": 3476334,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PraedythXVI",
+          "Description": "Replaces the lava textures and meshes with new ones.\n\nCovers the lava in the Deadlands CC location and Ghost of the tribunal forge as well.",
+          "FileID": 244510,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44644/44644-1637929447-464462299.jpeg",
+          "IsNSFW": false,
+          "ModID": 44644,
+          "Name": "Lava Replacer - SE",
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -11167,27 +11508,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SoEebbD45a8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=47845\nfileID=210251",
-        "Name": "Near Vanilla Project - Control Cube Redone - Dara ENB Light-47845-1-1-1624206955.zip",
-        "Size": 294119,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "NearDaniel",
-          "Description": "High resolution Control Cube from the Dragonborn DLC",
-          "FileID": 210251,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47845/47845-1617236446-1475711521.png",
-          "IsNSFW": false,
-          "ModID": 47845,
-          "Name": "Near Vanilla Project - Control Cube Redone - ENB Light",
-          "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "W+ANPFndQ7U=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=47845\nfileID=195058",
         "Name": "Near Vanilla Project - Control Cube Redone 2K-47845-1-1-1617235099.zip",
@@ -11251,21 +11571,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "7NwS6ayrdcM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45401\nfileID=184483",
-        "Name": "No Sunlight Through Mountains-45401-0-1-1612659349.rar",
-        "Size": 2907137,
+        "Hash": "WbiMWYYAYRM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45401\nfileID=244172",
+        "Name": "No Sunlight Through Mountains-45401-0-2-1637802612.7z",
+        "Size": 2343966,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wankingSkeever",
           "Description": "Make mountain statics double-sided so sun doesn\u0027t shine through them at extreme angles.",
-          "FileID": 184483,
+          "FileID": 244172,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45401/45401-1612659196-680835461.gif",
           "IsNSFW": false,
           "ModID": 45401,
           "Name": "No Sunlight Through Mountains",
-          "Version": "0.0.0.0"
+          "Version": "0.2.0.0"
         }
       }
     },
@@ -11328,27 +11648,6 @@
           "IsNSFW": false,
           "ModID": 29682,
           "Name": "Oblivionesque Active Effects For SkyUI SE",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "SI5hIw9Pv+s=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=19562\nfileID=64173",
-        "Name": "Outlandish Stalhrim SSE-19562-1-0.7z",
-        "Size": 95780032,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "billyro",
-          "Description": "This is a port of the mod \u0022Outlandish Stalhrim\u0022 originally made for old Skyrim by billyro. Thank you for the permission to port this mod!",
-          "FileID": 64173,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19562/19562-1535315490-730894543.jpeg",
-          "IsNSFW": false,
-          "ModID": 19562,
-          "Name": "Outlandish Stalhrim SSE",
           "Version": "0.0.0.0"
         }
       }
@@ -11818,27 +12117,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "sCguHxIAErg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=47184\nfileID=192354",
-        "Name": "Alt. Improved \u0027Light\u0027 Steel Armor-47184-1-0-1616179331.7z",
-        "Size": 8510690,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "QuestionableKhajiit and NordWarUA et al",
-          "Description": "A mesh/texture only replacer for most of the vanilla armor sets \u0026amp; some of the most common weapons. Primarily uses NordwarUA assets as well as weapons from Billyro and other modders with some texture modifications.",
-          "FileID": 192354,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47184/47184-1616110148-1749651918.png",
-          "IsNSFW": false,
-          "ModID": 47184,
-          "Name": "Simply Realistic Armor and Weapons (Custom NordwarUA Edition)",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "eDEZlfPb2rU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=47184\nfileID=203189",
         "Name": "Simply Realistic Armor (NordwarUA Edition) - 1.3 Patch-47184-1-3-1620892193.7z",
@@ -12133,48 +12411,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "sMxSoCZ1UmI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=55543\nfileID=236878",
-        "Name": "Static Mesh Improvement Mod Improvement Mod-55543-1-3-0-1635115656.7z",
-        "Size": 6369657,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Novelyst",
-          "Description": "A mod to improve the topology of a few badly poorly subdivided meshes in the staple Static Mesh Improvement Mod and eliminate jaggedness in some which it does not cover.",
-          "FileID": 236878,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55543/55543-1633362492-930330184.png",
-          "IsNSFW": false,
-          "ModID": 55543,
-          "Name": "Static Mesh Improvement Mod Improvement Mod",
-          "Version": "1.3.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "776cGEeVElE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=52483\nfileID=214948",
-        "Name": "Statue of Shalidor - Fire Frost Version-52483-1-0-1626464131.7z",
-        "Size": 142320,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "powerofthree",
-          "Description": "Winterhold mage statue replacer, with spell casting effects and ENB light.",
-          "FileID": 214948,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/52483/52483-1626465435-1616757846.png",
-          "IsNSFW": false,
-          "ModID": 52483,
-          "Name": "Statue of Shalidor - Mage Statue Replacer",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "qsh2O4UjL90=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=43227\nfileID=174357",
         "Name": "Stockades of Skyrim 3D-43227-0-5-1607866649.rar",
@@ -12217,13 +12453,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Uro1DDMcs6w=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Terrain LOD Generated.7z_8f41a292-050b-4620-a7b9-e1fe935c2c4a/",
-        "Name": "Terrain LOD Generated.7z",
-        "Size": 77701981,
+        "Hash": "kLPbrxQTU8E=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Terrain LOD.7z_8a27b492-166c-423c-9638-64db7f633994/",
+        "Name": "Terrain LOD.7z",
+        "Size": 77882997,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Terrain%20LOD%20Generated.7z_8f41a292-050b-4620-a7b9-e1fe935c2c4a/"
+          "Url": "https://authored-files.wabbajack.org/Terrain%20LOD.7z_8a27b492-166c-423c-9638-64db7f633994/"
         }
       }
     },
@@ -12307,27 +12543,6 @@
           "IsNSFW": false,
           "ModID": 41198,
           "Name": "Thrones of Skyrim",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "b6bqAy4RE/0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=1037\nfileID=3198",
-        "Name": "Total Character Makeover 1.2-1037-1-2.zip",
-        "Size": 229769148,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Scarla",
-          "Description": "A collection of carefully curated and optimized character improvements.",
-          "FileID": 3198,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53716-1-1399213359.png",
-          "IsNSFW": false,
-          "ModID": 1037,
-          "Name": "Total Character Makeover",
           "Version": "0.0.0.0"
         }
       }
@@ -12446,14 +12661,14 @@
         "Size": 19644841,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Visitant",
-          "Description": "Solitude is the seat of Imperial power. This mod changes the roofs to a red color, while the Blue Palace roof is now colored a royal blue. New 2K normals and HD textures.",
+          "Author": "deleted27978865",
+          "Description": "",
           "FileID": 70426,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20808/94227-1540611799-78807962.jpeg",
+          "ImageURL": null,
           "IsNSFW": false,
           "ModID": 20808,
-          "Name": "Visitant\u0027s Solitude Rooftops",
+          "Name": "",
           "Version": "10.18.0.0"
         }
       }
@@ -12580,7 +12795,7 @@
           "IsNSFW": false,
           "ModID": 41463,
           "Name": "Word Wall Transparency Fix for ENB",
-          "Version": "0.0.0.0"
+          "Version": "0.2.0.0"
         }
       }
     },
@@ -12602,27 +12817,6 @@
           "ModID": 46864,
           "Name": "Iconic\u0027s Ysgramor Shield Retexture",
           "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "M/rYVMIqmdA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=33369\nfileID=166288",
-        "Name": "2K SMIM Furniture Chest-33369-1-1-1603195093.7z",
-        "Size": 29066137,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "cunny1975",
-          "Description": "A retexture of the SMIM furniture chests, Upperclass, Weathered, Open and Snow. 4K or 2K.",
-          "FileID": 166288,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33369/33369-1603231465-986108560.jpeg",
-          "IsNSFW": false,
-          "ModID": 33369,
-          "Name": "4K SMIM Furniture Chest",
-          "Version": "1.1.0.0"
         }
       }
     },
@@ -12832,27 +13026,6 @@
           "IsNSFW": false,
           "ModID": 23536,
           "Name": "Dog to Husky Replacer - No ESP",
-          "Version": "1.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "TA3vy3F7IQs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=4974\nfileID=10647",
-        "Name": "Dragon.Priest.2k-4974-1-2.7z",
-        "Size": 15564580,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kajuan",
-          "Description": "Dragon Priests and Acolytes skin-outfit-armor texture overhaul.",
-          "FileID": 10647,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4974-0-1481431885.jpg",
-          "IsNSFW": false,
-          "ModID": 4974,
-          "Name": "DRAGON PRIEST",
           "Version": "1.2.0.0"
         }
       }
@@ -13547,48 +13720,6 @@
           "ModID": 3824,
           "Name": "Whispering Souls",
           "Version": ""
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "10tbr3Y9kGk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44553\nfileID=225518",
-        "Name": "ENB Lights For Aetherium Shards Patch-44553-1-1-1630558790.7z",
-        "Size": 290978,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "cunny1975",
-          "Description": "Improves the blue dwemer \u0027glass\u0027 or whatever it is which you see on the astrolabe and observatory aswell as other things.",
-          "FileID": 225518,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44553/44553-1611075928-1484972478.png",
-          "IsNSFW": false,
-          "ModID": 44553,
-          "Name": "Improved Dwemer Glass",
-          "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Ecr8LO0CxRc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54472\nfileID=223662",
-        "Name": "ENB lights for Aetherium Shards SE-54472-1-0-1629895053.zip",
-        "Size": 530540,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lilum",
-          "Description": "This mod makes Aetherium glow ethereal blue -  - as it should.",
-          "FileID": 223662,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54472/54472-1629894489-1289473029.jpeg",
-          "IsNSFW": false,
-          "ModID": 54472,
-          "Name": "ENB lights for Aetherium shards",
-          "Version": "1.0.0.0"
         }
       }
     },
