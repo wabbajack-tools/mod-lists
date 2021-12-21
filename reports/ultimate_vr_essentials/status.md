@@ -1,10 +1,11 @@
 ## Validation Report - Ultimate VR Essentials (ultimate_vr_essentials)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Bugfix Compilation-33449-1-0-5-1584829147.7z](https://wabbajack-mirror.b-cdn.net/b78d7d3ef227e14d)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (770)
+### Valid (769)
 *  [(1) Pine Branches Redone 8K-45294-3-0-1637522602.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45294/?tab=files&file_id=243288)
 *  [1. Majestic Mountains Main File-11052-3-2-1604048751.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=167707)
 *  [1st Person Candlelight Fix-9736-1-0-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9736/?tab=files&file_id=25327)
@@ -64,7 +65,6 @@
 *  [Bound Dagger CTD Fix-45191-2-1630253612.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45191/?tab=files&file_id=224667)
 *  [Bow sound-27208-1.rar](https://www.nexusmods.com/skyrim/mods/27208/?tab=files&file_id=100825)
 *  [Bristleback Boars-22578-1-0-1547364513.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22578/?tab=files&file_id=78163)
-*  [Bugfix Compilation-33449-1-0-5-1584829147.7z](https://wabbajack-mirror.b-cdn.net/b78d7d3ef227e14d)
 *  [Call Follower VR Adaption V1.0-46866-1-0-1615545394.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46866/?tab=files&file_id=190969)
 *  [Campfire - Mortar and Pestle VR CTD Fix-37779-0-2-1593381397.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37779/?tab=files&file_id=147875)
 *  [Campfire 1.12.1 and Frostfall 3.4.1SE-17925-1-2-1575057734.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17925/?tab=files&file_id=114677)
