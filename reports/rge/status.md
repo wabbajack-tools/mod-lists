@@ -672,7 +672,7 @@
 *  [RGE - Facegen.rar](https://authored-files.wabbajack.org/RGE - Facegen.rar_3f178217-efe9-4540-9603-167295f04566)
 *  [RGE - Nemesis Output v2.3.7z](https://authored-files.wabbajack.org/RGE - Nemesis Output v2.3.7z_f22d359c-6be4-43b0-a1d2-58e151ae69a2)
 *  [RGE - TexGen Output 2.5.rar](https://authored-files.wabbajack.org/RGE - TexGen Output 2.5.rar_236b2905-b85c-4e9e-87f3-910c102d6953)
-*  [RGE - xLODGen Output 2.5.rar](https://authored-files.wabbajack.org/RGE - xLODGen Output 2.5.rar_a0083b3c-b089-4c3e-b529-2124ae8195b7)
+*  [RGE - xLODGen Output 2.5.rar](https://authored-files.wabbajack.org/RGE - xLODGen Output 2.5.rar_4ba79c53-3b49-48f0-afdb-26ac48eea3d0)
 *  [RGE main Menu No Fog-34114-1-6-1587169685.rar](https://www.nexusmods.com/skyrimspecialedition/mods/34114/?tab=files&file_id=134831)
 *  [RGE Random xEdit Scripts.zip](https://wabbajack.b-cdn.net/RGE Random xEdit Scripts.zip_1b1ade52-a25e-40e0-865c-07663e11f706)
 *  [Riekling Reavers-22948-1-1-1589936323.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22948/?tab=files&file_id=140942)
