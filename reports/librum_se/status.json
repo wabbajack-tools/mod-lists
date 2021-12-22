@@ -2,7 +2,7 @@
   "MachineURL": "librum_se",
   "Name": "Librum SE",
   "Version": "3.0.4.5",
-  "ModListHash": "g89lctAoXoA=",
+  "ModListHash": "WqedsV+ZtqE=",
   "Archives": [
     {
       "Status": "Valid",
@@ -6651,6 +6651,27 @@
           "ModID": 17230,
           "Name": "SSE Engine Fixes (skse64 plugin)",
           "Version": "5.6.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "d+fMLBcSgpk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=10546\nfileID=28074",
+        "Name": "DLL Plugin Loader v1-10546-1.zip",
+        "Size": 101092,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "meh321",
+          "Description": "Simple DLL plugins loader.",
+          "FileID": 28074,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 10546,
+          "Name": "DLL Plugin Loader",
+          "Version": "0.0.0.0"
         }
       }
     },
