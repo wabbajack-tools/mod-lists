@@ -117,7 +117,7 @@
 *  [bodyslide4.7z](https://authored-files.wabbajack.org/bodyslide4.7z_0cfb12fb-0aa7-4fe8-a0fb-dcbf282a4491)
 *  [bodyslide5.7z](https://authored-files.wabbajack.org/bodyslide5.7z_a97c67bf-5edc-46c4-88b2-62be74edabe7)
 *  [bodyslide6.7z](https://authored-files.wabbajack.org/bodyslide6.7z_4effb955-be15-490f-b3a0-e732254702a1)
-*  [bodyslide7.7z](https://authored-files.wabbajack.org/bodyslide.7z_cd0e33b7-8b48-4b84-9a07-41e49a369b01)
+*  [bodyslide7.7z](https://authored-files.wabbajack.org/bodyslide7.7z_6cd79c8d-b028-42e5-8efe-e7986209462c)
 *  [BodySlots_SkyUIWeaponPack-58835-0-2-1637924684.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58835/?tab=files&file_id=244496)
 *  [Book of BHUNP 1.2-44784-1-2-1622452188.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44784/?tab=files&file_id=206569)
 *  [Boreal Boat 2K-47608-1-3-1616949937.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47608/?tab=files&file_id=194176)
