@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (815)
+### Valid (812)
 *  [(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77989)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
 *  [(4) Community Overlays 3 - Main - CBBE and Male-35339-1-0-1588129970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136903)
@@ -190,7 +190,6 @@
 *  [Deadly Spell Impacts v1_70-12939-1-70.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12939/?tab=files&file_id=36481)
 *  [Deiform Alduin 4K-44329-1-1-1621189306.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44329/?tab=files&file_id=203882)
 *  [Deiform Alduin Eye textures 2K-44329-1-1-1621189506.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44329/?tab=files&file_id=203883)
-*  [Devious Devices [SE][AE][VR] 5.2 Beta 3.7z](https://mega.nz/file/pDAXwQyT#5pKYl9YSywhnl37rkPnpwRdXrHw-w99bp5c-8rqBWqs)
 *  [Diamond CBBE 3BA Bodyslide v1.1-48916-1-1-1633108262.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48916/?tab=files&file_id=231884)
 *  [Difficulty Balance v1.0.0 for SkyrimSE-35767-1-0-0-1589018989.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35767/?tab=files&file_id=138923)
 *  [Dint999_New HDT Physics for KS-SG Hairs SMP Wigs Package SSE 1.01-31405-1-01-1589112540.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31405/?tab=files&file_id=139132)
@@ -631,8 +630,6 @@
 *  [Septentrional Landscapes 4K SE-29842-1-3-2-1584615630.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29842/?tab=files&file_id=129365)
 *  [Serana Dialogue Add-On SE-32161-2-8-2-1635256772.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32161/?tab=files&file_id=237147)
 *  [SeranaDialogEdit v 102-16222-1-02.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16222/?tab=files&file_id=59083)
-*  SexLab Confabulation - Solutions Patch V1.7.4.zip
-*  SexLab Solutions v3 - Revisited SE v1.1.5.7z
 *  [Sexy Random Idles optional-105489-1-1-1605663586.zip](https://www.nexusmods.com/skyrim/mods/105489/?tab=files&file_id=1000328448)
 *  [Shield Sisters Re-Imagined CBBE-44243-1-0-1610348019.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44243/?tab=files&file_id=178918)
 *  [Sidequests of Skyrim-54245-0-6-1-1637951200.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54245/?tab=files&file_id=244590)
