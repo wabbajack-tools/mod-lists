@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (332)
+### Valid (335)
 *  [.50 BMG Compatibility-73565-1-1630816314.rar](https://www.nexusmods.com/newvegas/mods/73565/?tab=files&file_id=1000080699)
 *  [01 - Vanilla Body Version-55174-1-0-vanilla-1581050238.7z](https://www.nexusmods.com/newvegas/mods/55174/?tab=files&file_id=1000059173)
 *  [091 -  2k Body-70160-any-1634926373.7z](https://www.nexusmods.com/newvegas/mods/70160/?tab=files&file_id=1000082874)
@@ -69,6 +69,9 @@
 *  [Consistent Pip-boy Icons-65046-4-1630586713.zip](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000080529)
 *  [Console Paste-65906-1-0-1546350722.zip](https://www.nexusmods.com/newvegas/mods/65906/?tab=files&file_id=1000051301)
 *  [CPI - Mod Patches-65046-4-1630589675.zip](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000080537)
+*  [CyberJAM-74655-1-01-1639346120.7z](https://www.nexusmods.com/newvegas/mods/74655/?tab=files&file_id=1000085074)
+*  [Cyberware 2281 - B42 Quickthrow 3.1b Patch [eddoursul.win].7z](https://eddoursul.win/download/222)
+*  [Cyberware 2281 1.3.3 [eddoursul.win].7z](https://eddoursul.win/download/224)
 *  Data_CaravanPack.esm
 *  Data_ClassicPack.esm
 *  Data_DeadMoney.esm
