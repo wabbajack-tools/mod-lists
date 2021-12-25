@@ -1,8 +1,8 @@
 {
   "MachineURL": "tpf-fo4",
   "Name": "Welcome to Paradise",
-  "Version": "2.0",
-  "ModListHash": "izoReEXdjpU=",
+  "Version": "2.1",
+  "ModListHash": "HKA2tBUCZJI=",
   "Archives": [
     {
       "Status": "Valid",
@@ -34,21 +34,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "pmip08K8nBs=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=55662\nfileID=222290",
-        "Name": "FallOpt ENB-55662-1-7-1637970650.rar",
-        "Size": 26946,
+        "Hash": "DOAlOZWbsY8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=55662\nfileID=224046",
+        "Name": "FallOpt ENB-55662-2-2-1639683178.rar",
+        "Size": 357171,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SpringHeelJon",
-          "Description": "Optimised ENB for the vanilla weather system.",
-          "FileID": 222290,
+          "Description": "Featured in the Welcome to Paradise Wabbajack modlist by Phoenix, FallOpt is an optimized ENB for the vanilla weather system.",
+          "FileID": 224046,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/55662/55662-1636664361-491599115.jpeg",
           "IsNSFW": false,
           "ModID": 55662,
           "Name": "FallOpt - Lightweight ENB for Vanilla weather",
-          "Version": "1.7.0.0"
+          "Version": "2.2.0.0"
         }
       }
     },
@@ -1356,27 +1356,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yoHijm6uHMU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=3855\nfileID=12038",
-        "Name": "Hush Dogmeat - No Sounds While Sneaking-3855-1-0.rar",
-        "Size": 933,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "fadingsignal",
-          "Description": "Dogmeat will no longer whine or grumble when you\u0027re sneaking.  This simply adds conditions to Dogmeat\u0027s idle/whine sounds so he is silent while the player is sneaking.  Made with FO4Edit.",
-          "FileID": 12038,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/3855-0-1448937297.jpg",
-          "IsNSFW": false,
-          "ModID": 3855,
-          "Name": "Hush Dogmeat - No Idle or Whine Sounds While Sneaking",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "lJxDRxWZkK0=",
         "Meta": "[General]\ngameName=fallout4\nmodID=20830\nfileID=112759",
         "Name": "Immersive HUD - iHUD-20830-3-0.rar",
@@ -1692,21 +1671,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "m8f8UazLhAE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=38448\nfileID=219497",
-        "Name": "LOST Audio Tweaks-38448-2-1634640714.zip",
-        "Size": 36778802,
+        "Hash": "D17sf4gA8PA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=38448\nfileID=224455",
+        "Name": "LOST Audio Tweaks-38448-2-1-1640088167.zip",
+        "Size": 124875306,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mortercotic",
           "Description": "Sound mods pack and other tweaks!",
-          "FileID": 219497,
+          "FileID": 224455,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/38448/38448-1566082368-1695805874.jpeg",
           "IsNSFW": false,
           "ModID": 38448,
           "Name": "LOST Audio Tweaks",
-          "Version": "2.0.0.0"
+          "Version": "2.1.0.0"
         }
       }
     },
@@ -1776,21 +1755,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "IrVZe0BPk/c=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=56195\nfileID=222766",
-        "Name": "MCM Settings Manager-56195-1-0-1-1638377705.rar",
-        "Size": 131917,
+        "Hash": "txNC+0eKUYw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56195\nfileID=224283",
+        "Name": "MCM Settings Manager-56195-1-0-3-1639942904.rar",
+        "Size": 134572,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "m8r98a4f2",
           "Description": "Save, load, transfer, import and export all your MCM settings at once. Transfer settings between savegames, backup your favorite settings, or send your settings to another user!",
-          "FileID": 222766,
+          "FileID": 224283,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56195/56195-1638374233-408174017.png",
           "IsNSFW": false,
           "ModID": 56195,
           "Name": "MCM Settings Manager",
-          "Version": "1.0.1.0"
+          "Version": "1.0.3.0"
         }
       }
     },
@@ -2476,14 +2455,35 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "BenRierimanu",
-          "Description": "Basically BostonFPSFix but more up to date, but covers the entire game. Your one stop precombine shop.",
+          "Description": "Basically BostonFPSFix but more up to date, but covers the entire game. Your one stop previsibines replacement shop.",
           "FileID": 220656,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46403/46403-1633275924-24527580.jpeg",
           "IsNSFW": false,
           "ModID": 46403,
-          "Name": "Previs Repair Pack",
+          "Name": "Previsibines Repair Pack",
           "Version": "0.53.10282021.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "merhSL35gXU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=46403\nfileID=222782",
+        "Name": "PRP-46403-0-53-12012021-1638390747.7z",
+        "Size": 1551467935,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BenRierimanu",
+          "Description": "Basically BostonFPSFix but more up to date, but covers the entire game. Your one stop previsibines replacement shop.",
+          "FileID": 222782,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46403/46403-1633275924-24527580.jpeg",
+          "IsNSFW": false,
+          "ModID": 46403,
+          "Name": "Previsibines Repair Pack",
+          "Version": "0.53.12012021.0"
         }
       }
     },
@@ -2497,13 +2497,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "BenRierimanu",
-          "Description": "Basically BostonFPSFix but more up to date, but covers the entire game. Your one stop precombine shop.",
+          "Description": "Basically BostonFPSFix but more up to date, but covers the entire game. Your one stop previsibines replacement shop.",
           "FileID": 221775,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46403/46403-1633275924-24527580.jpeg",
           "IsNSFW": false,
           "ModID": 46403,
-          "Name": "Previs Repair Pack",
+          "Name": "Previsibines Repair Pack",
           "Version": "0.53.11192021.0"
         }
       }
@@ -2518,13 +2518,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "BenRierimanu",
-          "Description": "Basically BostonFPSFix but more up to date, but covers the entire game. Your one stop precombine shop.",
+          "Description": "Basically BostonFPSFix but more up to date, but covers the entire game. Your one stop previsibines replacement shop.",
           "FileID": 219912,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46403/46403-1633275924-24527580.jpeg",
           "IsNSFW": false,
           "ModID": 46403,
-          "Name": "Previs Repair Pack",
+          "Name": "Previsibines Repair Pack",
           "Version": "1.1.0.0"
         }
       }
@@ -3708,21 +3708,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Ac5vshs88bQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=35004\nfileID=214290",
-        "Name": "Workshop Framework-35004-2-0-16-1628350788.7z",
-        "Size": 870712,
+        "Hash": "7LARphKMOSQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=35004\nfileID=224644",
+        "Name": "Workshop Framework-35004-2-0-18a-1640317281.7z",
+        "Size": 903478,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kinggath",
           "Description": "Framework to open up the settlement system to editing by the community.\n\n\n\nFor Players: New controls and faster, more stable workshop scripts.\n\n\n\nFor Modders: Add new resource types, override settings, and generally change the way settlements work dynamically.",
-          "FileID": 214290,
+          "FileID": 224644,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35004/35004-1538179488-326730582.png",
           "IsNSFW": false,
           "ModID": 35004,
           "Name": "Workshop Framework",
-          "Version": "2.0.16.0"
+          "Version": "2.0.18.0a"
         }
       }
     },
@@ -5808,64 +5808,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "pEo7q2Pc0z0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=2461\nfileID=18744",
-        "Name": "BetterSettlementCamps2-4K-2461-1-1-2.zip",
-        "Size": 499589303,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DUST2DEATH",
-          "Description": "Settlements and Camps are now even better in 4K with all new redesigned vanilla textures \u002B new lore friendly textures.",
-          "FileID": 18744,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/2461-0-1449935773.jpg",
-          "IsNSFW": false,
-          "ModID": 2461,
-          "Name": "Better Settlements and Camps 2",
-          "Version": "1.1.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Sixw2j3SC4I=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=37762\nfileID=153420",
-        "Name": "ADs 2X Rez HDTP-37762-2-0-1551577003.7z",
-        "Size": 362712184,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MediAsylum",
-          "Description": "Billboards\u0027 and posters\u0027 textures in doubled resolution.\n\n\n\nUPDATE: v 2.0 features official HD textures (including DLC)",
-          "FileID": 153420,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/37762/37762-1551522627-391862862.jpeg",
-          "IsNSFW": false,
-          "ModID": 37762,
-          "Name": "ADs 2X Rez",
-          "Version": "2.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "US7beXF4oY4=",
-        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\Fallout4 - Textures4.ba2",
-        "Name": "Data_Fallout4 - Textures4.ba2",
-        "Size": 1999988681,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures4.ba2",
-          "GameVersion": "1.10.163.0",
-          "Hash": "US7beXF4oY4="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "BbzHw2Hq2/E=",
         "Meta": "[General]\ngameName=fallout4\nmodID=53742\nfileID=214503",
         "Name": "CC\u0027s Vertibirds - 4K - 1.0-53742-1-0-1628617986.7z",
@@ -5881,6 +5823,69 @@
           "ModID": 53742,
           "Name": "CC\u0027s Vertibirds",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nX+YoeZIuus=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=5086\nfileID=21773",
+        "Name": "HaulD Out 4K - Pier-5086-1-1-1.zip",
+        "Size": 187268553,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DUST2DEATH",
+          "Description": "Overhaul Project for Fallout 4 starting with Architecture. Available 4K, 2K, 1K Module files.",
+          "FileID": 21773,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/5086-0-1450430192.jpg",
+          "IsNSFW": false,
+          "ModID": 5086,
+          "Name": "Haul\u0027d Out 4K",
+          "Version": "1.1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "m6yMKdqI93E=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=5086\nfileID=21793",
+        "Name": "HaulD Out 4K - Warehouse-5086-1-1-1.zip",
+        "Size": 225103061,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DUST2DEATH",
+          "Description": "Overhaul Project for Fallout 4 starting with Architecture. Available 4K, 2K, 1K Module files.",
+          "FileID": 21793,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/5086-0-1450430192.jpg",
+          "IsNSFW": false,
+          "ModID": 5086,
+          "Name": "Haul\u0027d Out 4K",
+          "Version": "1.1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "etR1DNYkErk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=5086\nfileID=30359",
+        "Name": "Warehouse4K-noholesmetal-5086-1-1-1.zip",
+        "Size": 21312867,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DUST2DEATH",
+          "Description": "Overhaul Project for Fallout 4 starting with Architecture. Available 4K, 2K, 1K Module files.",
+          "FileID": 30359,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/5086-0-1450430192.jpg",
+          "IsNSFW": false,
+          "ModID": 5086,
+          "Name": "Haul\u0027d Out 4K",
+          "Version": "1.1.1.0"
         }
       }
     },
@@ -5903,431 +5908,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uLoMqo2Gyf0=",
-        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\Fallout4 - Textures6.ba2",
-        "Name": "Data_Fallout4 - Textures6.ba2",
-        "Size": 1382855876,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures6.ba2",
-          "GameVersion": "1.10.163.0",
-          "Hash": "uLoMqo2Gyf0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "9hQSwQke0ic=",
-        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\Fallout4 - Textures2.ba2",
-        "Name": "Data_Fallout4 - Textures2.ba2",
-        "Size": 2410629991,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures2.ba2",
-          "GameVersion": "1.10.163.0",
-          "Hash": "9hQSwQke0ic="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8LTt1OzGHcQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=1934\nfileID=5988",
-        "Name": "0.3 - Patch Job-1934-0-3.rar",
-        "Size": 13249396,
+        "Hash": "i5R3VFl5UwA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=2174\nfileID=7040",
+        "Name": "Dull 4K 1.2-2174-1-2.zip",
+        "Size": 34359788,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Stuyk",
-          "Description": "There\u0027s a lot of holes in the walls of the wasteland. I think it\u0027s about time they gave it a patch job. This is mainly focused around settlements.",
-          "FileID": 5988,
+          "Author": "TheMatthewBe",
+          "Description": "The wooden shack floors are nasty! You\u0027d think 200 years later people would know how to build with wood correctly. \r\n\n\r\n\nI made this 4K (2K optional) re-texture to add immersion and a little bit of pretty to the Post-War world.",
+          "FileID": 7040,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/1934-1-1448137936.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/2174-0-1448228123.jpg",
           "IsNSFW": false,
-          "ModID": 1934,
-          "Name": "Patch Job - Fill Those Holes",
-          "Version": "0.3.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "OZ3GXESQtjc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=25188\nfileID=103336",
-        "Name": "Copper Fix-25188-0-6.rar",
-        "Size": 16229,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Meysam",
-          "Description": "Replaces vanilla components\u0027 meshes and textures with better, more realistic and high quality textures and meshes. (Choose your desired options in the installer) ",
-          "FileID": 103336,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/25188-2-1498741577.jpg",
-          "IsNSFW": false,
-          "ModID": 25188,
-          "Name": "Components Redone",
-          "Version": "0.6.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "loH/7lNrLw8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=8087\nfileID=30010",
-        "Name": "Better Ammo Boxes Overhaul-8087-1-0.zip",
-        "Size": 77943376,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Devious_Methods",
-          "Description": "This mod retextures all conventional weapon ammo boxes with hand textured maps. Multiple colorways and resolutions.",
-          "FileID": 30010,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/8087-0-1452457995.jpg",
-          "IsNSFW": false,
-          "ModID": 8087,
-          "Name": "Better Ammo Boxes",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "0iu51v8+tt0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=12062\nfileID=48028",
-        "Name": "PatrickJr\u0027s Redone BobbleHeads-12062-1-0.rar",
-        "Size": 5407796,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "GrimTech - PatrickJr",
-          "Description": "I thought about redoing the Bobbleheads, this is my first time actually doing something like this, so I\u0027m sure it\u0027s awful or not nearly as good as those super duper 4K re-textures!",
-          "FileID": 48028,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/12062-2-1460868564.jpg",
-          "IsNSFW": false,
-          "ModID": 12062,
-          "Name": "PatrickJr\u0027s Redone Bobbleheads",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "qXVqPpnHk5k=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=34014\nfileID=138254",
-        "Name": "Wall worldmap with USSR 4K-34014-1-0.7z",
-        "Size": 3641859,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MediAsylum",
-          "Description": "Simple diffuse texture replacer for some large wall mounted world maps, which can be found for example in Fort Hagen.\n\nAnd maybe somewhere else (like Switchboard, Federal surveillance center K-21B).",
-          "FileID": 138254,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/34014/34014-1534016420-1254621414.jpeg",
-          "IsNSFW": false,
-          "ModID": 34014,
-          "Name": "Wall worldmap 4K",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+q60P0pHjnc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=1500\nfileID=24997",
-        "Name": "1k - bottles label overhaul v0.9.1-1500-0-9-1.7z",
-        "Size": 16039572,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BlastoLho",
-          "Description": "An overhaul project for bottles\u0027 label : Whiskey, Rum, Bourbon, Wines, Vodka, Water, Beer and Milk.",
-          "FileID": 24997,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/1500-3-1451009279.jpg",
-          "IsNSFW": false,
-          "ModID": 1500,
-          "Name": "Bottles Labels Overhaul",
-          "Version": "0.9.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "WE6uL4Hs6nA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=20399\nfileID=84072",
-        "Name": "Retextured Water - by Ben Ephla-20399-0-1.zip",
-        "Size": 8002739,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ben Ephla",
-          "Description": "A simple retexture for water.  I was just wanting a change, so I made these.  Hope you like them!",
-          "FileID": 84072,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20399-4-1481425354.png",
-          "IsNSFW": false,
-          "ModID": 20399,
-          "Name": "Retextured Water - by Ben Ephla",
-          "Version": "0.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8GtS69Pnms4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=16841\nfileID=82319",
-        "Name": "Ephla\u0027s Unique First Aid Kits v1-16841-1.zip",
-        "Size": 11404628,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ben Ephla",
-          "Description": "Retextures of all the First Aid Kits in the Commonwealth.",
-          "FileID": 82319,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/16841-0-1479865786.png",
-          "IsNSFW": false,
-          "ModID": 16841,
-          "Name": "Retextured First Aid Kits - Ephla\u0027s Unique First Aid",
-          "Version": "2.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "nja+AMqoIy4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=8879\nfileID=33685",
-        "Name": "Better Duffle Bag Retexture-8879-1-0.zip",
-        "Size": 116315440,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Devious_Methods",
-          "Description": "Retexture for the duffle bag containers around the wastes. 3 colors and 6 variants total. 2K and 4K resolutions. ",
-          "FileID": 33685,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/8879-11-1453560906.jpg",
-          "IsNSFW": false,
-          "ModID": 8879,
-          "Name": "Duffle Bag Retexure",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6oxX8+FIZ6s=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=34246\nfileID=139259",
-        "Name": "Globes 2K-34246-1-0.7z",
-        "Size": 23858579,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MediAsylum",
-          "Description": "Texture replacer for all globe models of Fallout 4",
-          "FileID": 139259,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/34246/34246-1534806732-1258450330.jpeg",
-          "IsNSFW": false,
-          "ModID": 34246,
-          "Name": "Globes 2K",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "v+waOXdOtoA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=49999\nfileID=219269",
-        "Name": "1. Classic Wasteland Survival Guide - Vanilla - Magazine Retexture-49999-1-02-1634319295.7z",
-        "Size": 33949551,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TurntLogic",
-          "Description": "Retexture of all 9 Wasteland Survival Guides bringing them in line with the classic Fallout 3/ New Vegas style.",
-          "FileID": 219269,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49999/49999-1612971485-270789244.png",
-          "IsNSFW": false,
-          "ModID": 49999,
-          "Name": "Classic Wasteland Survival Guide - Magazine Retexture",
-          "Version": "f1.02"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "CBWVcVEXdc0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53012\nfileID=211830",
-        "Name": "FO4 U.S. Covert Ops. Manual Revised - Magazine Retexture-53012-1-01-1625358718.7z",
-        "Size": 64961934,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TurntLogic",
-          "Description": "Retexture of all 10 U.S. Covert Operations Manuals based on the U.S. Military manuals of the 60s \u0026amp; 70s. Offers multiple variants, typo fixes, and new unique details for each cover.",
-          "FileID": 211830,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53012/53012-1625357774-1039586451.png",
-          "IsNSFW": false,
-          "ModID": 53012,
-          "Name": "(Revised) U.S. Covert Operations Manual - Magazine Retexture",
-          "Version": "f1.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "dbu31HnM8ok=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=50253\nfileID=202418",
-        "Name": "Total Hack - Magazine Retexture-50253-1-01-1614386499.7z",
-        "Size": 4265763,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TurntLogic",
-          "Description": "Retexture of all 3 Total Hack magazines giving each a unique look fitting to the world.",
-          "FileID": 202418,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50253/50253-1614387140-1368912573.png",
-          "IsNSFW": false,
-          "ModID": 50253,
-          "Name": "Total Hack - Magazine Retexture",
-          "Version": "f1.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "1dB1nllWoJg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=28204\nfileID=115368",
-        "Name": "Grey Tortoise Cigarettes Redux v1.0.zip-28204-v1-0.zip",
-        "Size": 26408146,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ciscodeaux",
-          "Description": "A set of completely redone textures for Fallout 4\u0027s Cigarette Packs and Cartons based on both Fallout Lore and on package designs from the 1940s \u0026amp; 1950s.",
-          "FileID": 115368,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/28204/28204-1511916633-1242976048.png",
-          "IsNSFW": false,
-          "ModID": 28204,
-          "Name": "Grey Tortoise Cigarettes Redux",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "KYpkw2kFZ80=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=32224\nfileID=192227",
-        "Name": "Sweetroll 5000 GROSS-32224-1-1-1601436872.rar",
-        "Size": 6578861,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "fadingsignal",
-          "Description": "Replaces the sweetroll and birthday sweetroll with brand-new handmade meshes and textures, and gives the birthday variant its own color with 3D candles.  Clean and gross options available.",
-          "FileID": 192227,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/32224/32224-1528281226-2075117308.jpeg",
-          "IsNSFW": false,
-          "ModID": 32224,
-          "Name": "Sweet Roll 5000 - Xtreme Sweetroll Mesh and Texture Replacer",
-          "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "o2Efu+u0fxE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=52206\nfileID=208420",
-        "Name": "1k loose-52206-1-1621645675.rar",
-        "Size": 3957250,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "dpillari",
-          "Description": "a proof of concept for me, newly created models for the subway and library tokens, complete with hd textures to match. good for use in decoration. modeled in blender, a first of several new model mods to come i think.",
-          "FileID": 208420,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52206/52206-1621645407-367970749.jpeg",
-          "IsNSFW": false,
-          "ModID": 52206,
-          "Name": "Library and Subway Tokens HD remastered.",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "iGqs/0seRAI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=8087\nfileID=91583",
-        "Name": "Nuka World 7.62 Ammo Box-8087-1-0.rar",
-        "Size": 1444537,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Devious_Methods",
-          "Description": "This mod retextures all conventional weapon ammo boxes with hand textured maps. Multiple colorways and resolutions.",
-          "FileID": 91583,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/8087-0-1452457995.jpg",
-          "IsNSFW": false,
-          "ModID": 8087,
-          "Name": "Better Ammo Boxes",
+          "ModID": 2174,
+          "Name": "Shack Floors Re-Done 4K",
           "Version": "1.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "nJf5/+BcVXU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=8087\nfileID=55821",
-        "Name": "Far Harbor 45-70 Box Retexture-8087-1-0.zip",
-        "Size": 1739014,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Devious_Methods",
-          "Description": "This mod retextures all conventional weapon ammo boxes with hand textured maps. Multiple colorways and resolutions.",
-          "FileID": 55821,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/8087-0-1452457995.jpg",
-          "IsNSFW": false,
-          "ModID": 8087,
-          "Name": "Better Ammo Boxes",
-          "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "KO4uIwc57ys=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=45675\nfileID=187785",
-        "Name": "Dead Money - All Bars Replacer-45675-1-1-1595839398.7z",
-        "Size": 4969806,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "C1PH3RR",
-          "Description": "A Gold bar model replacer inspired by the best FNV DLC - Dead Money. Begin Again...",
-          "FileID": 187785,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/45675/45675-1592096095-1023551287.png",
-          "IsNSFW": false,
-          "ModID": 45675,
-          "Name": "Gold Bars - FNV Dead Money Inspired Replacer",
-          "Version": "1.1.0.0"
         }
       }
     },
@@ -6539,21 +6134,342 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "i5R3VFl5UwA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=2174\nfileID=7040",
-        "Name": "Dull 4K 1.2-2174-1-2.zip",
-        "Size": 34359788,
+        "Hash": "KO4uIwc57ys=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=45675\nfileID=187785",
+        "Name": "Dead Money - All Bars Replacer-45675-1-1-1595839398.7z",
+        "Size": 4969806,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TheMatthewBe",
-          "Description": "The wooden shack floors are nasty! You\u0027d think 200 years later people would know how to build with wood correctly. \r\n\n\r\n\nI made this 4K (2K optional) re-texture to add immersion and a little bit of pretty to the Post-War world.",
-          "FileID": 7040,
+          "Author": "C1PH3RR",
+          "Description": "A Gold bar model replacer inspired by the best FNV DLC - Dead Money. Begin Again...",
+          "FileID": 187785,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/2174-0-1448228123.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/45675/45675-1592096095-1023551287.png",
           "IsNSFW": false,
-          "ModID": 2174,
-          "Name": "Shack Floors Re-Done 4K",
+          "ModID": 45675,
+          "Name": "Gold Bars - FNV Dead Money Inspired Replacer",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6oxX8+FIZ6s=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=34246\nfileID=139259",
+        "Name": "Globes 2K-34246-1-0.7z",
+        "Size": 23858579,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MediAsylum",
+          "Description": "Texture replacer for all globe models of Fallout 4",
+          "FileID": 139259,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/34246/34246-1534806732-1258450330.jpeg",
+          "IsNSFW": false,
+          "ModID": 34246,
+          "Name": "Globes 2K",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KYpkw2kFZ80=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=32224\nfileID=192227",
+        "Name": "Sweetroll 5000 GROSS-32224-1-1-1601436872.rar",
+        "Size": 6578861,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "fadingsignal",
+          "Description": "Replaces the sweetroll and birthday sweetroll with brand-new handmade meshes and textures, and gives the birthday variant its own color with 3D candles.  Clean and gross options available.",
+          "FileID": 192227,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/32224/32224-1528281226-2075117308.jpeg",
+          "IsNSFW": false,
+          "ModID": 32224,
+          "Name": "Sweet Roll 5000 - Xtreme Sweetroll Mesh and Texture Replacer",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "o2Efu+u0fxE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=52206\nfileID=208420",
+        "Name": "1k loose-52206-1-1621645675.rar",
+        "Size": 3957250,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "dpillari",
+          "Description": "a proof of concept for me, newly created models for the subway and library tokens, complete with hd textures to match. good for use in decoration. modeled in blender, a first of several new model mods to come i think.",
+          "FileID": 208420,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52206/52206-1621645407-367970749.jpeg",
+          "IsNSFW": false,
+          "ModID": 52206,
+          "Name": "Library and Subway Tokens HD remastered.",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Lnbrj5QHuEg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27917\nfileID=114335",
+        "Name": "Power_Armors_Redone.7z-27917-1.7z",
+        "Size": 586822806,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nukanist",
+          "Description": "This is a retexture pack in 2K for all base game and DLC Power Armors.",
+          "FileID": 114335,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27917/27917-1535244233-465590016.jpeg",
+          "IsNSFW": false,
+          "ModID": 27917,
+          "Name": "Power Armors Redone",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bgR9Io/X79U=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=28033\nfileID=114946",
+        "Name": "PA_Redone_MPJ_Loose.7z-28033-1-2.7z",
+        "Size": 21777141,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nukanist",
+          "Description": "Texture replacer in the same style as Power Armors Redone for other Power Armor mods.",
+          "FileID": 114946,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/28033/28033-1535249748-752957088.jpeg",
+          "IsNSFW": false,
+          "ModID": 28033,
+          "Name": "Power Armors Redone Extended",
           "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "X27R75luh34=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=28033\nfileID=114791",
+        "Name": "PA_Redone_CPAO_Loose.7z-28033-1.7z",
+        "Size": 150983772,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nukanist",
+          "Description": "Texture replacer in the same style as Power Armors Redone for other Power Armor mods.",
+          "FileID": 114791,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/28033/28033-1535249748-752957088.jpeg",
+          "IsNSFW": false,
+          "ModID": 28033,
+          "Name": "Power Armors Redone Extended",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ye+9q0+2d2M=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27917\nfileID=114462",
+        "Name": "PAR_Institue_Helmet_Fix..7z-27917-1-2-1.7z",
+        "Size": 4123800,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nukanist",
+          "Description": "This is a retexture pack in 2K for all base game and DLC Power Armors.",
+          "FileID": 114462,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27917/27917-1535244233-465590016.jpeg",
+          "IsNSFW": false,
+          "ModID": 27917,
+          "Name": "Power Armors Redone",
+          "Version": "1.2.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RCtRwv8fSH0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=4092\nfileID=12860",
+        "Name": "Matching White Brotherhood Rank Insignia-4092-1-0.rar",
+        "Size": 242794,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Th3 Space Pope",
+          "Description": "Changes the Rank Insignia on Brotherhood Power Armor to match the white of the Chest Logo.",
+          "FileID": 12860,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/4092-0-1449048066.jpg",
+          "IsNSFW": false,
+          "ModID": 4092,
+          "Name": "Matching White Brotherhood Rank Insignia",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2tsTjIrBltY=",
+        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\Fallout4 - Textures3.ba2",
+        "Name": "Data_Fallout4 - Textures3.ba2",
+        "Size": 2101083744,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures3.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "2tsTjIrBltY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kJKoi2V0wmg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=30796\nfileID=125602",
+        "Name": "2k-30796-1.rar",
+        "Size": 8315644,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "dpilari",
+          "Description": "a hd retexture of the vanilla power armor jetpack",
+          "FileID": 125602,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/30796/30796-1522289049-375403137.jpeg",
+          "IsNSFW": false,
+          "ModID": 30796,
+          "Name": "Power Armor Jetpack HD",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YDzVJp+K4aQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=39711\nfileID=160705",
+        "Name": "PAframe4k-39711-1-1561654150.rar",
+        "Size": 61795518,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "dpillari",
+          "Description": "a 4k retexture of the vanilla power armor frame and hands[in first person].",
+          "FileID": 160705,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/39711/39711-1561675904-1096889570.png",
+          "IsNSFW": false,
+          "ModID": 39711,
+          "Name": "Power Armor Frame 4K UHD",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+wSzOyMqqpU=",
+        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\DLCworkshop02 - Textures.ba2",
+        "Name": "Data_DLCworkshop02 - Textures.ba2",
+        "Size": 169146799,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCworkshop02 - Textures.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "+wSzOyMqqpU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8U5heX/Ht6w=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27917\nfileID=139526",
+        "Name": "X-01_Nuka_Quantum_Uncompressed_Normals-27917-1-2-2.7z",
+        "Size": 12633816,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nukanist",
+          "Description": "This is a retexture pack in 2K for all base game and DLC Power Armors.",
+          "FileID": 139526,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27917/27917-1535244233-465590016.jpeg",
+          "IsNSFW": false,
+          "ModID": 27917,
+          "Name": "Power Armors Redone",
+          "Version": "1.2.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tyLRjoIIfxU=",
+        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\DLCNukaWorld - Textures.ba2",
+        "Name": "Data_DLCNukaWorld - Textures.ba2",
+        "Size": 2348553100,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCNukaWorld - Textures.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "tyLRjoIIfxU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "AhkwezljrZo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=36045\nfileID=146486",
+        "Name": "Assaultron HD - HIGH-36045-1-0-1542883980.rar",
+        "Size": 56574405,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "fadingsignal",
+          "Description": "Brand new, ultra-HD, scratch-made textures for the Assaultron (including P.A.M.)",
+          "FileID": 146486,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/36045/36045-1542883659-610023164.jpeg",
+          "IsNSFW": false,
+          "ModID": 36045,
+          "Name": "Assaultron HD",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iKfg2VB5xXk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53516\nfileID=213530",
+        "Name": "CC\u0027s UHD Bloatflies - Reimagined - 2K - 1.0-53516-1-0-1627492932.7z",
+        "Size": 23601763,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ClearanceClarence",
+          "Description": "An 8K reimagining of my old retexture for the bloatflies. Also available in 4K and 2K",
+          "FileID": 213530,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53516/53516-1627492123-1538633832.jpeg",
+          "IsNSFW": false,
+          "ModID": 53516,
+          "Name": "CC\u0027s UHD Bloatflies - Reimagined",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -6644,6 +6560,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "9hQSwQke0ic=",
+        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\Fallout4 - Textures2.ba2",
+        "Name": "Data_Fallout4 - Textures2.ba2",
+        "Size": 2410629991,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures2.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "9hQSwQke0ic="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "W1QXt6HHj0Q=",
         "Meta": "[General]\ngameName=fallout4\nmodID=15038\nfileID=61635",
         "Name": "Protectron HD 2K-15038-0-2.7z",
@@ -6707,48 +6639,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "iKfg2VB5xXk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53516\nfileID=213530",
-        "Name": "CC\u0027s UHD Bloatflies - Reimagined - 2K - 1.0-53516-1-0-1627492932.7z",
-        "Size": 23601763,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ClearanceClarence",
-          "Description": "An 8K reimagining of my old retexture for the bloatflies. Also available in 4K and 2K",
-          "FileID": 213530,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53516/53516-1627492123-1538633832.jpeg",
-          "IsNSFW": false,
-          "ModID": 53516,
-          "Name": "CC\u0027s UHD Bloatflies - Reimagined",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "AhkwezljrZo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=36045\nfileID=146486",
-        "Name": "Assaultron HD - HIGH-36045-1-0-1542883980.rar",
-        "Size": 56574405,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "fadingsignal",
-          "Description": "Brand new, ultra-HD, scratch-made textures for the Assaultron (including P.A.M.)",
-          "FileID": 146486,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/36045/36045-1542883659-610023164.jpeg",
-          "IsNSFW": false,
-          "ModID": 36045,
-          "Name": "Assaultron HD",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "0lkPJ/UHs5c=",
         "Meta": "[General]\ngameName=fallout4\nmodID=36460\nfileID=149792",
         "Name": "CC\u0027s UHD Aliens - 2K - 1.1-36460-1-1-1547199551.7z",
@@ -6764,6 +6654,106 @@
           "ModID": 36460,
           "Name": "CC\u0027s UHD Aliens",
           "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pEo7q2Pc0z0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=2461\nfileID=18744",
+        "Name": "BetterSettlementCamps2-4K-2461-1-1-2.zip",
+        "Size": 499589303,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DUST2DEATH",
+          "Description": "Settlements and Camps are now even better in 4K with all new redesigned vanilla textures \u002B new lore friendly textures.",
+          "FileID": 18744,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/2461-0-1449935773.jpg",
+          "IsNSFW": false,
+          "ModID": 2461,
+          "Name": "Better Settlements and Camps 2",
+          "Version": "1.1.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Sixw2j3SC4I=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=37762\nfileID=153420",
+        "Name": "ADs 2X Rez HDTP-37762-2-0-1551577003.7z",
+        "Size": 362712184,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MediAsylum",
+          "Description": "Billboards\u0027 and posters\u0027 textures in doubled resolution.\n\n\n\nUPDATE: v 2.0 features official HD textures (including DLC)",
+          "FileID": 153420,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/37762/37762-1551522627-391862862.jpeg",
+          "IsNSFW": false,
+          "ModID": 37762,
+          "Name": "ADs 2X Rez",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "US7beXF4oY4=",
+        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\Fallout4 - Textures4.ba2",
+        "Name": "Data_Fallout4 - Textures4.ba2",
+        "Size": 1999988681,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures4.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "US7beXF4oY4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OZ3GXESQtjc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=25188\nfileID=103336",
+        "Name": "Copper Fix-25188-0-6.rar",
+        "Size": 16229,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Meysam",
+          "Description": "Replaces vanilla components\u0027 meshes and textures with better, more realistic and high quality textures and meshes. (Choose your desired options in the installer) ",
+          "FileID": 103336,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/25188-2-1498741577.jpg",
+          "IsNSFW": false,
+          "ModID": 25188,
+          "Name": "Components Redone",
+          "Version": "0.6.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8LTt1OzGHcQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=1934\nfileID=5988",
+        "Name": "0.3 - Patch Job-1934-0-3.rar",
+        "Size": 13249396,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Stuyk",
+          "Description": "There\u0027s a lot of holes in the walls of the wasteland. I think it\u0027s about time they gave it a patch job. This is mainly focused around settlements.",
+          "FileID": 5988,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/1934-1-1448137936.jpg",
+          "IsNSFW": false,
+          "ModID": 1934,
+          "Name": "Patch Job - Fill Those Holes",
+          "Version": "0.3.0.0"
         }
       }
     },
@@ -7248,63 +7238,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "nX+YoeZIuus=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=5086\nfileID=21773",
-        "Name": "HaulD Out 4K - Pier-5086-1-1-1.zip",
-        "Size": 187268553,
+        "Hash": "uLoMqo2Gyf0=",
+        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\Fallout4 - Textures6.ba2",
+        "Name": "Data_Fallout4 - Textures6.ba2",
+        "Size": 1382855876,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DUST2DEATH",
-          "Description": "Overhaul Project for Fallout 4 starting with Architecture. Available 4K, 2K, 1K Module files.",
-          "FileID": 21773,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/5086-0-1450430192.jpg",
-          "IsNSFW": false,
-          "ModID": 5086,
-          "Name": "Haul\u0027d Out 4K",
-          "Version": "1.1.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "m6yMKdqI93E=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=5086\nfileID=21793",
-        "Name": "HaulD Out 4K - Warehouse-5086-1-1-1.zip",
-        "Size": 225103061,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DUST2DEATH",
-          "Description": "Overhaul Project for Fallout 4 starting with Architecture. Available 4K, 2K, 1K Module files.",
-          "FileID": 21793,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/5086-0-1450430192.jpg",
-          "IsNSFW": false,
-          "ModID": 5086,
-          "Name": "Haul\u0027d Out 4K",
-          "Version": "1.1.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "etR1DNYkErk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=5086\nfileID=30359",
-        "Name": "Warehouse4K-noholesmetal-5086-1-1-1.zip",
-        "Size": 21312867,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DUST2DEATH",
-          "Description": "Overhaul Project for Fallout 4 starting with Architecture. Available 4K, 2K, 1K Module files.",
-          "FileID": 30359,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/5086-0-1450430192.jpg",
-          "IsNSFW": false,
-          "ModID": 5086,
-          "Name": "Haul\u0027d Out 4K",
-          "Version": "1.1.1.0"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures6.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "uLoMqo2Gyf0="
         }
       }
     },
@@ -7353,20 +7296,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Lnbrj5QHuEg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=27917\nfileID=114335",
-        "Name": "Power_Armors_Redone.7z-27917-1.7z",
-        "Size": 586822806,
+        "Hash": "loH/7lNrLw8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=8087\nfileID=30010",
+        "Name": "Better Ammo Boxes Overhaul-8087-1-0.zip",
+        "Size": 77943376,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Nukanist",
-          "Description": "This is a retexture pack in 2K for all base game and DLC Power Armors.",
-          "FileID": 114335,
+          "Author": "Devious_Methods",
+          "Description": "This mod retextures all conventional weapon ammo boxes with hand textured maps. Multiple colorways and resolutions.",
+          "FileID": 30010,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27917/27917-1535244233-465590016.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/8087-0-1452457995.jpg",
           "IsNSFW": false,
-          "ModID": 27917,
-          "Name": "Power Armors Redone",
+          "ModID": 8087,
+          "Name": "Better Ammo Boxes",
           "Version": "1.0.0.0"
         }
       }
@@ -7374,20 +7317,230 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bgR9Io/X79U=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=28033\nfileID=114946",
-        "Name": "PA_Redone_MPJ_Loose.7z-28033-1-2.7z",
-        "Size": 21777141,
+        "Hash": "0iu51v8+tt0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=12062\nfileID=48028",
+        "Name": "PatrickJr\u0027s Redone BobbleHeads-12062-1-0.rar",
+        "Size": 5407796,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Nukanist",
-          "Description": "Texture replacer in the same style as Power Armors Redone for other Power Armor mods.",
-          "FileID": 114946,
+          "Author": "GrimTech - PatrickJr",
+          "Description": "I thought about redoing the Bobbleheads, this is my first time actually doing something like this, so I\u0027m sure it\u0027s awful or not nearly as good as those super duper 4K re-textures!",
+          "FileID": 48028,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/28033/28033-1535249748-752957088.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/12062-2-1460868564.jpg",
           "IsNSFW": false,
-          "ModID": 28033,
-          "Name": "Power Armors Redone Extended",
+          "ModID": 12062,
+          "Name": "PatrickJr\u0027s Redone Bobbleheads",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qXVqPpnHk5k=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=34014\nfileID=138254",
+        "Name": "Wall worldmap with USSR 4K-34014-1-0.7z",
+        "Size": 3641859,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MediAsylum",
+          "Description": "Simple diffuse texture replacer for some large wall mounted world maps, which can be found for example in Fort Hagen.\n\nAnd maybe somewhere else (like Switchboard, Federal surveillance center K-21B).",
+          "FileID": 138254,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/34014/34014-1534016420-1254621414.jpeg",
+          "IsNSFW": false,
+          "ModID": 34014,
+          "Name": "Wall worldmap 4K",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+q60P0pHjnc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=1500\nfileID=24997",
+        "Name": "1k - bottles label overhaul v0.9.1-1500-0-9-1.7z",
+        "Size": 16039572,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BlastoLho",
+          "Description": "An overhaul project for bottles\u0027 label : Whiskey, Rum, Bourbon, Wines, Vodka, Water, Beer and Milk.",
+          "FileID": 24997,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/1500-3-1451009279.jpg",
+          "IsNSFW": false,
+          "ModID": 1500,
+          "Name": "Bottles Labels Overhaul",
+          "Version": "0.9.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WE6uL4Hs6nA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=20399\nfileID=84072",
+        "Name": "Retextured Water - by Ben Ephla-20399-0-1.zip",
+        "Size": 8002739,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ben Ephla",
+          "Description": "A simple retexture for water.  I was just wanting a change, so I made these.  Hope you like them!",
+          "FileID": 84072,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20399-4-1481425354.png",
+          "IsNSFW": false,
+          "ModID": 20399,
+          "Name": "Retextured Water - by Ben Ephla",
+          "Version": "0.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8GtS69Pnms4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=16841\nfileID=82319",
+        "Name": "Ephla\u0027s Unique First Aid Kits v1-16841-1.zip",
+        "Size": 11404628,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ben Ephla",
+          "Description": "Retextures of all the First Aid Kits in the Commonwealth.",
+          "FileID": 82319,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/16841-0-1479865786.png",
+          "IsNSFW": false,
+          "ModID": 16841,
+          "Name": "Retextured First Aid Kits - Ephla\u0027s Unique First Aid",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nja+AMqoIy4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=8879\nfileID=33685",
+        "Name": "Better Duffle Bag Retexture-8879-1-0.zip",
+        "Size": 116315440,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Devious_Methods",
+          "Description": "Retexture for the duffle bag containers around the wastes. 3 colors and 6 variants total. 2K and 4K resolutions. ",
+          "FileID": 33685,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/8879-11-1453560906.jpg",
+          "IsNSFW": false,
+          "ModID": 8879,
+          "Name": "Duffle Bag Retexure",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "v+waOXdOtoA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=49999\nfileID=219269",
+        "Name": "1. Classic Wasteland Survival Guide - Vanilla - Magazine Retexture-49999-1-02-1634319295.7z",
+        "Size": 33949551,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TurntLogic",
+          "Description": "Retexture of all 9 Wasteland Survival Guides bringing them in line with the classic Fallout 3/ New Vegas style.",
+          "FileID": 219269,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49999/49999-1612971485-270789244.png",
+          "IsNSFW": false,
+          "ModID": 49999,
+          "Name": "Classic Wasteland Survival Guide - Magazine Retexture",
+          "Version": "f1.02"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CBWVcVEXdc0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53012\nfileID=211830",
+        "Name": "FO4 U.S. Covert Ops. Manual Revised - Magazine Retexture-53012-1-01-1625358718.7z",
+        "Size": 64961934,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TurntLogic",
+          "Description": "Retexture of all 10 U.S. Covert Operations Manuals based on the U.S. Military manuals of the 60s \u0026amp; 70s. Offers multiple variants, typo fixes, and new unique details for each cover.",
+          "FileID": 211830,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53012/53012-1625357774-1039586451.png",
+          "IsNSFW": false,
+          "ModID": 53012,
+          "Name": "U.S. Covert Operations Manual Redux - Magazine Retexture",
+          "Version": "f1.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dbu31HnM8ok=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=50253\nfileID=202418",
+        "Name": "Total Hack - Magazine Retexture-50253-1-01-1614386499.7z",
+        "Size": 4265763,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TurntLogic",
+          "Description": "Retexture of all 3 Total Hack magazines giving each a unique look fitting to the world.",
+          "FileID": 202418,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50253/50253-1614387140-1368912573.png",
+          "IsNSFW": false,
+          "ModID": 50253,
+          "Name": "Total Hack - Magazine Retexture",
+          "Version": "f1.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1dB1nllWoJg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=28204\nfileID=115368",
+        "Name": "Grey Tortoise Cigarettes Redux v1.0.zip-28204-v1-0.zip",
+        "Size": 26408146,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ciscodeaux",
+          "Description": "A set of completely redone textures for Fallout 4\u0027s Cigarette Packs and Cartons based on both Fallout Lore and on package designs from the 1940s \u0026amp; 1950s.",
+          "FileID": 115368,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/28204/28204-1511916633-1242976048.png",
+          "IsNSFW": false,
+          "ModID": 28204,
+          "Name": "Grey Tortoise Cigarettes Redux",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iGqs/0seRAI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=8087\nfileID=91583",
+        "Name": "Nuka World 7.62 Ammo Box-8087-1-0.rar",
+        "Size": 1444537,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Devious_Methods",
+          "Description": "This mod retextures all conventional weapon ammo boxes with hand textured maps. Multiple colorways and resolutions.",
+          "FileID": 91583,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/8087-0-1452457995.jpg",
+          "IsNSFW": false,
+          "ModID": 8087,
+          "Name": "Better Ammo Boxes",
           "Version": "1.2.0.0"
         }
       }
@@ -7395,174 +7548,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "X27R75luh34=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=28033\nfileID=114791",
-        "Name": "PA_Redone_CPAO_Loose.7z-28033-1.7z",
-        "Size": 150983772,
+        "Hash": "nJf5/+BcVXU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=8087\nfileID=55821",
+        "Name": "Far Harbor 45-70 Box Retexture-8087-1-0.zip",
+        "Size": 1739014,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Nukanist",
-          "Description": "Texture replacer in the same style as Power Armors Redone for other Power Armor mods.",
-          "FileID": 114791,
+          "Author": "Devious_Methods",
+          "Description": "This mod retextures all conventional weapon ammo boxes with hand textured maps. Multiple colorways and resolutions.",
+          "FileID": 55821,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/28033/28033-1535249748-752957088.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/8087-0-1452457995.jpg",
           "IsNSFW": false,
-          "ModID": 28033,
-          "Name": "Power Armors Redone Extended",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ye+9q0+2d2M=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=27917\nfileID=114462",
-        "Name": "PAR_Institue_Helmet_Fix..7z-27917-1-2-1.7z",
-        "Size": 4123800,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Nukanist",
-          "Description": "This is a retexture pack in 2K for all base game and DLC Power Armors.",
-          "FileID": 114462,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27917/27917-1535244233-465590016.jpeg",
-          "IsNSFW": false,
-          "ModID": 27917,
-          "Name": "Power Armors Redone",
-          "Version": "1.2.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "RCtRwv8fSH0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=4092\nfileID=12860",
-        "Name": "Matching White Brotherhood Rank Insignia-4092-1-0.rar",
-        "Size": 242794,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Th3 Space Pope",
-          "Description": "Changes the Rank Insignia on Brotherhood Power Armor to match the white of the Chest Logo.",
-          "FileID": 12860,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/4092-0-1449048066.jpg",
-          "IsNSFW": false,
-          "ModID": 4092,
-          "Name": "Matching White Brotherhood Rank Insignia",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2tsTjIrBltY=",
-        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\Fallout4 - Textures3.ba2",
-        "Name": "Data_Fallout4 - Textures3.ba2",
-        "Size": 2101083744,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures3.ba2",
-          "GameVersion": "1.10.163.0",
-          "Hash": "2tsTjIrBltY="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kJKoi2V0wmg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=30796\nfileID=125602",
-        "Name": "2k-30796-1.rar",
-        "Size": 8315644,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "dpilari",
-          "Description": "a hd retexture of the vanilla power armor jetpack",
-          "FileID": 125602,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/30796/30796-1522289049-375403137.jpeg",
-          "IsNSFW": false,
-          "ModID": 30796,
-          "Name": "Power Armor Jetpack HD",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "YDzVJp+K4aQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=39711\nfileID=160705",
-        "Name": "PAframe4k-39711-1-1561654150.rar",
-        "Size": 61795518,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "dpillari",
-          "Description": "a 4k retexture of the vanilla power armor frame and hands[in first person].",
-          "FileID": 160705,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/39711/39711-1561675904-1096889570.png",
-          "IsNSFW": false,
-          "ModID": 39711,
-          "Name": "Power Armor Frame 4K UHD",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+wSzOyMqqpU=",
-        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\DLCworkshop02 - Textures.ba2",
-        "Name": "Data_DLCworkshop02 - Textures.ba2",
-        "Size": 169146799,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\DLCworkshop02 - Textures.ba2",
-          "GameVersion": "1.10.163.0",
-          "Hash": "+wSzOyMqqpU="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8U5heX/Ht6w=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=27917\nfileID=139526",
-        "Name": "X-01_Nuka_Quantum_Uncompressed_Normals-27917-1-2-2.7z",
-        "Size": 12633816,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Nukanist",
-          "Description": "This is a retexture pack in 2K for all base game and DLC Power Armors.",
-          "FileID": 139526,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27917/27917-1535244233-465590016.jpeg",
-          "IsNSFW": false,
-          "ModID": 27917,
-          "Name": "Power Armors Redone",
-          "Version": "1.2.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tyLRjoIIfxU=",
-        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\DLCNukaWorld - Textures.ba2",
-        "Name": "Data_DLCNukaWorld - Textures.ba2",
-        "Size": 2348553100,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\DLCNukaWorld - Textures.ba2",
-          "GameVersion": "1.10.163.0",
-          "Hash": "tyLRjoIIfxU="
+          "ModID": 8087,
+          "Name": "Better Ammo Boxes",
+          "Version": "1.1.0.0"
         }
       }
     }
