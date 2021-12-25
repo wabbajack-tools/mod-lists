@@ -4,8 +4,10 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (343)
+### Valid (344)
 *  _windows_errors.txt
+*  [1_Lustiest Lair - Flagellant Patch-931-2-0-1628002061.zip](https://www.nexusmods.com/darkestdungeon/mods/931/?tab=files&file_id=5107)
+*  [1_Lustiest Lair - Shieldbreaker Patch-931-6-2-1628002268.zip](https://www.nexusmods.com/darkestdungeon/mods/931/?tab=files&file_id=5109)
 *  [1_stagecoach_GS_A-966-1-1587388552.zip](https://www.nexusmods.com/darkestdungeon/mods/966/?tab=files&file_id=3711)
 *  [1_stagecoach_GS_C-966-1-1587388728.zip](https://www.nexusmods.com/darkestdungeon/mods/966/?tab=files&file_id=3713)
 *  [2B-702-1-1-FV.7z](https://www.nexusmods.com/darkestdungeon/mods/702/?tab=files&file_id=3022)
@@ -252,7 +254,6 @@
 *  heroes_abomination_icons_equip_eqp_weapon_2.png
 *  heroes_bounty_hunter_anim_bounty_hunter.sprite.afflicted.skel
 *  heroes_bounty_hunter_anim_bounty_hunter.sprite.heroic.skel
-*  heroes_bounty_hunter_bounty_hunter.ability.two.png
 *  heroes_crusader_fx_crusader.sprite.smite.png
 *  heroes_grave_robber_icons_equip_eqp_weapon_3.png
 *  heroes_highwayman_fx_highwayman.sprite.point_blank_shot_target.png
@@ -264,10 +265,9 @@
 *  [Jef's MOD Hero Collection-1026-0-81-1593241605.rar](https://www.nexusmods.com/darkestdungeon/mods/1026/?tab=files&file_id=3974)
 *  [leper_P-891-1-1569780073.zip](https://www.nexusmods.com/darkestdungeon/mods/891/?tab=files&file_id=3478)
 *  [LilithClass-1063-1-13-1599387286.zip](https://www.nexusmods.com/darkestdungeon/mods/1063/?tab=files&file_id=4262)
-*  [Lustiest Lair - Main-931-4-1-3-1620133052.zip](https://www.nexusmods.com/darkestdungeon/mods/931/?tab=files&file_id=4939)
+*  [Lustiest Lair - Main - 7.2-931-7-2-1640130948.zip](https://www.nexusmods.com/darkestdungeon/mods/931/?tab=files&file_id=5270)
 *  [Lustiest Lair - Main-931-5-0-1622819901.zip](https://www.nexusmods.com/darkestdungeon/mods/931/?tab=files&file_id=5002)
 *  [Lustiest Lair - Main-931-6-2-0-1628001980.zip](https://www.nexusmods.com/darkestdungeon/mods/931/?tab=files&file_id=5106)
-*  [Lustiest Lair - Main-931-6-5-1634231099.zip](https://www.nexusmods.com/darkestdungeon/mods/931/?tab=files&file_id=5183)
 *  [LW- blacksmith build add details-892-0-6-1569856882.rar](https://www.nexusmods.com/darkestdungeon/mods/892/?tab=files&file_id=3480)
 *  [LW- courtyard Landscaping-1074-0-8-1599567234.rar](https://www.nexusmods.com/darkestdungeon/mods/1074/?tab=files&file_id=4263)
 *  [LW- Cute Slime Girl 0.91-901-0-91-1572886235.rar](https://www.nexusmods.com/darkestdungeon/mods/901/?tab=files&file_id=3503)
@@ -335,6 +335,7 @@
 *  [Weald background replacement NSFW 1.5-1081-1-5-1600772540.7z](https://www.nexusmods.com/darkestdungeon/mods/1081/?tab=files&file_id=4311)
 *  [Weald background replacement NSFW 1.5.3-1081-1-5-3-1600980632.7z](https://www.nexusmods.com/darkestdungeon/mods/1081/?tab=files&file_id=4335)
 *  [Xelsword Abomination - Replacer-1077-1-0-1600002493.zip](https://www.nexusmods.com/darkestdungeon/mods/1077/?tab=files&file_id=4269)
+*  [Xelsword Bounty Hunter - Replacer-1354-1-0-1639664540.zip](https://www.nexusmods.com/darkestdungeon/mods/1354/?tab=files&file_id=5259)
 *  [Xelsword Crusader Replacer-927-1-3-1584890825.zip](https://www.nexusmods.com/darkestdungeon/mods/927/?tab=files&file_id=3679)
 *  [Xelsword Grave Robber - Replacer-1120-1-0-1605468036.zip](https://www.nexusmods.com/darkestdungeon/mods/1120/?tab=files&file_id=4537)
 *  [Xelsword Hellion - Replacer-1098-1-0-1603271691.zip](https://www.nexusmods.com/darkestdungeon/mods/1098/?tab=files&file_id=4429)
