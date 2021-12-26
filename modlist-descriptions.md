@@ -86,14 +86,15 @@ From TitansBane, the author of [Reliquary of Myth](https://www.nexusmods.com/sky
 
 ### [Tales From the Northern Lands](https://www.wabbajack.org/#/modlists/info?machineURL=TalesFromTheNorthernLands)
 
-Tales from the Northern Lands is a list that focuses primarily on offering a stylized look similar to Borderlands, the Tales of/from … or the TellTale Walking Dead games. A very welcome side effect of this is that it will even run on older hardware like a GTX 950 and possibly lower. And for people that are only interested in the visual changes made by the list, there is a “Basics” profile included you can use customize to your liking*. This is for if the various gameplay tweaks make the game too much of an easy “power fantasy” for you.
+Tales from the Northern Lands is a list that focuses primarily on offering a stylized look similar to Borderlands, the Tales of/from … or the TellTale Walking Dead games. A very welcome side effect of this is that it will even run on older hardware like a GTX 950 and possibly lower. The gameplay features a unique inventory overhaul that allows you to only focus on your armor, weapons and potions.
 
 *Please note that Luca (the modlist author) does not support changes to the list, as this Basics profile was only made by request.*
 
 **_Mods to get familiar with:_**
 
-[SPERG - Skyrim Perk Enhancements and Rebalanced Gameplay](https://www.nexusmods.com/skyrimspecialedition/mods/14180)  
-[True Dragonborn - Uncapper Preset](https://www.nexusmods.com/skyrimspecialedition/mods/27400)  
+[Race Abilities Enhanced (SkyRem - Rae)](https://www.nexusmods.com/skyrimspecialedition/mods/23223)
+[Constellations - A Standing Stones Improvement (SkyRem - Cassi)](https://www.nexusmods.com/skyrimspecialedition/mods/43763)
+[All the SimonRim Mods (Except the Race, Religion and Stadingstone mods)](https://www.nexusmods.com/skyrimspecialedition/mods/43763)
 
 ***
 
