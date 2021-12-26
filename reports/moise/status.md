@@ -1,10 +1,11 @@
 ## Validation Report - MOISE (moise)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [lgnpc_vivec_redoran_1.70.zip](http://lgnpc.org/mods/lgnpc_vivec_redoran_1.70.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (208)
+### Valid (207)
 *  [-Pluginless Khajiit Head Pack--43110-1-0.7z](https://www.nexusmods.com/morrowind/mods/43110/?tab=files&file_id=1000002478)
 *  [16x10 Version-39329-1.zip](https://www.nexusmods.com/morrowind/mods/39329/?tab=files&file_id=81982)
 *  [16x9 Version-39329-v1-0.zip](https://www.nexusmods.com/morrowind/mods/39329/?tab=files&file_id=81971)
@@ -113,7 +114,6 @@
 *  [lgnpc_soul_sickness_patch.zip](http://lgnpc.org/mods/lgnpc_soul_sickness_patch.zip)
 *  [lgnpc_tel_mora_1.31.zip](http://lgnpc.org/mods/lgnpc_tel_mora_1.31.zip)
 *  [lgnpc_vfq_2.22.zip](http://lgnpc.org/mods/lgnpc_vfq_2.22.zip)
-*  [lgnpc_vivec_redoran_1.70.zip](http://lgnpc.org/mods/lgnpc_vivec_redoran_1.70.zip)
 *  license.txt
 *  [LLL - Optimal pack-45718-1-1.zip](https://www.nexusmods.com/morrowind/mods/45718/?tab=files&file_id=1000010360)
 *  [Long Live The Glassware - Retexture-44016-1-0.7z](https://www.nexusmods.com/morrowind/mods/44016/?tab=files&file_id=1000004882)
