@@ -96,7 +96,7 @@ Tales from the Northern Lands is a list that focuses primarily on offering a sty
 [Constellations - A Standing Stones Improvement (SkyRem - Cassi)](https://www.nexusmods.com/skyrimspecialedition/mods/43763)  
 [All the SimonRim Mods (Except the Race, Religion and Stadingstone mods)](https://www.nexusmods.com/skyrimspecialedition/mods/43763)  
 
-[Full Li]
+[Full List on LoadorderLibrary](https://loadorderlibrary.com/lists/tales-from-the-northern-lands)
 
 ***
 
