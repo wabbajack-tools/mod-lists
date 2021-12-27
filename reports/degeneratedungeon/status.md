@@ -260,7 +260,6 @@
 *  heroes_occultist_icons_equip_eqp_armour_0.png
 *  heroes_occultist_icons_equip_eqp_armour_3.png
 *  heroes_vestal_icons_equip_eqp_weapon_0.png
-*  [Jef's MOD Hero Collection-1026-0-81-1593241605.rar](https://www.nexusmods.com/darkestdungeon/mods/1026/?tab=files&file_id=3974)
 *  [leper_P-891-1-1569780073.zip](https://www.nexusmods.com/darkestdungeon/mods/891/?tab=files&file_id=3478)
 *  [LilithClass-1063-1-13-1599387286.zip](https://www.nexusmods.com/darkestdungeon/mods/1063/?tab=files&file_id=4262)
 *  [Lustiest Lair - Flagellant Patch-931-2-0-1628002061.zip](https://www.nexusmods.com/darkestdungeon/mods/931/?tab=files&file_id=5107)
@@ -272,6 +271,7 @@
 *  [LW- hellion sexy skin-561-0-8.rar](https://www.nexusmods.com/darkestdungeon/mods/561/?tab=files&file_id=2417)
 *  [LW- open logo 2-643-0-8.rar](https://www.nexusmods.com/darkestdungeon/mods/643/?tab=files&file_id=2722)
 *  [LW- open logo-624-0-9.rar](https://www.nexusmods.com/darkestdungeon/mods/624/?tab=files&file_id=2669)
+*  [LW- Tifa's eye skin-908-0-8-1574235046.rar](https://www.nexusmods.com/darkestdungeon/mods/908/?tab=files&file_id=3512)
 *  [LW- Town Event beautify part 1-1294-0-85-1627728721.rar](https://www.nexusmods.com/darkestdungeon/mods/1294/?tab=files&file_id=5097)
 *  [LW- Town Event beautify part 2-1336-0-9-1635603790.rar](https://www.nexusmods.com/darkestdungeon/mods/1336/?tab=files&file_id=5207)
 *  [Maid_3skin-977-1-1589025535.zip](https://www.nexusmods.com/darkestdungeon/mods/977/?tab=files&file_id=3752)
@@ -342,7 +342,7 @@
 *  [Xelsword Houndmaster Human Dog - Replacer-1052-1-0-1596280327.zip](https://www.nexusmods.com/darkestdungeon/mods/1052/?tab=files&file_id=4115)
 *  [Xelsword Jester - Replacer-1234-1-0-1619259930.zip](https://www.nexusmods.com/darkestdungeon/mods/1234/?tab=files&file_id=4929)
 *  [Xelsword Leper - Replacer-1202-1-0-1614504399.zip](https://www.nexusmods.com/darkestdungeon/mods/1202/?tab=files&file_id=4835)
-*  [Xelsword Man-at-Arms - Standalone-1318-1-0-1632515664.zip](https://www.nexusmods.com/darkestdungeon/mods/1318/?tab=files&file_id=5165)
+*  [Xelsword Man-at-Arms - Replacer-1318-1-0-1632515620.zip](https://www.nexusmods.com/darkestdungeon/mods/1318/?tab=files&file_id=5164)
 *  [Xelsword Occultist - Replacer-1017-1-1-1593036296.zip](https://www.nexusmods.com/darkestdungeon/mods/1017/?tab=files&file_id=3964)
 *  [Xelsword Plague Doctor - Replacer-994-1-0-1590407886.zip](https://www.nexusmods.com/darkestdungeon/mods/994/?tab=files&file_id=3796)
 *  [Xelsword Shieldbreaker - Replacer-1143-1-0-1609504909.zip](https://www.nexusmods.com/darkestdungeon/mods/1143/?tab=files&file_id=4648)

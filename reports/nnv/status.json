@@ -1,19 +1,20 @@
 {
   "MachineURL": "nnv",
   "Name": "No, Not Vegas",
-  "Version": "1.4.8",
-  "ModListHash": "GEjZqdaR8t4=",
+  "Version": "1.4.8.1",
+  "ModListHash": "qUxnzMHCqhQ=",
   "Archives": [
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/KpYuWagmk8=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Mod.Organizer-2.4.3alpha4.7z_3e41f081-6b67-4394-a70e-871cb0ed67e8",
-        "Name": "Mod.Organizer-2.4.3alpha4.7z",
-        "Size": 89098643,
+        "Hash": "yWfA6UF0b+g=",
+        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.3/Mod.Organizer-2.4.3.7z",
+        "Name": "Mod.Organizer-2.4.3.7z",
+        "Size": 90055989,
         "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Mod.Organizer-2.4.3alpha4.7z_3e41f081-6b67-4394-a70e-871cb0ed67e8"
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.3/Mod.Organizer-2.4.3.7z"
         }
       }
     },
@@ -314,21 +315,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "h7uQzT+kSoQ=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=74379\nfileID=1000084973",
-        "Name": "Aid Addon-74379-4-1639091373.rar",
-        "Size": 49820242,
+        "Hash": "VCaU6kopoow=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=74379\nfileID=1000085607",
+        "Name": "Aid Addon-74379-4fix2-1640585695.rar",
+        "Size": 49820409,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "S6S and Azhidaljun and Clavyn and KorianHun",
           "Description": "Featuring 15 new healing items and new Survival healing options, this Aid Addon adds Antiseptic, Bandages, Blood Draw Kits, Medkits, Preserved Blood Packs, Hemostatic Pills, Combat Stims, and Army Morphine Syrettes to the wasteland, with configurable saturations per-item.",
-          "FileID": 1000084973,
+          "FileID": 1000085607,
           "GameName": "FalloutNewVegas",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/74379/74379-1637438511-274347114.png",
           "IsNSFW": false,
           "ModID": 74379,
           "Name": "Aid Addon - Medkits - Blood Draw - Bandages - More",
-          "Version": "4.0.0.0"
+          "Version": "4.0.0.0fix2"
         }
       }
     },
@@ -1111,21 +1112,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "vvyuJlXgBXM=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=74569\nfileID=1000085550",
-        "Name": "Hitman Hotfix-74569-1-3-1640418712.rar",
-        "Size": 30325,
+        "Hash": "DJWVHdm90nE=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=74569\nfileID=1000085587",
+        "Name": "1.3.1 Bugfixes-74569-1-3-1-1640529414.rar",
+        "Size": 34417,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Models by ButchCassidy1118 Textures by various authors and Adaptation by NightshiftMike23",
           "Description": "42 lore-friendly firearms \u002B 11 unique firearms, all adapted from BUTCH\u0027s FInal Weapon Resource Pack.",
-          "FileID": 1000085550,
+          "FileID": 1000085587,
           "GameName": "FalloutNewVegas",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/74569/74569-1640373745-934865534.png",
           "IsNSFW": false,
           "ModID": 74569,
           "Name": "Cyn\u0027s Armory - The ButchCassidy Weapon Pack",
-          "Version": "1.3.0.0"
+          "Version": "1.3.1.0"
         }
       }
     },
@@ -2910,21 +2911,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Y9nbHfPbE20=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=73352\nfileID=1000084594",
-        "Name": "S6S Nif Bashed Armor Patch NV Version-73352-4-2update2-1638159470.rar",
-        "Size": 6583610,
+        "Hash": "+qlGEV1l1bM=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=73352\nfileID=1000085606",
+        "Name": "S6S Nif Bashed Armor Patch NV Version-73352-4-2fix-1640585343.rar",
+        "Size": 6583995,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "S6S",
           "Description": "This patch slims down the integrated clothes in the Nif-Bashed Armor Pack, disabling the integration of the less than perfect armors, rebalancing most of them (with DT and DR), and making multiple completely unique with custom placements.",
-          "FileID": 1000084594,
+          "FileID": 1000085606,
           "GameName": "FalloutNewVegas",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/73352/73352-1635141626-1372885394.png",
           "IsNSFW": false,
           "ModID": 73352,
           "Name": "S6S Nif-Bashed Armor Patch - TTW - NV",
-          "Version": "4.2.0.0update2"
+          "Version": "4.2.0.0fix"
         }
       }
     },
@@ -3183,21 +3184,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "e6HRq6CQVxY=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=74802\nfileID=1000085510",
-        "Name": "Simple Diseases-74802-1-0-1640315137.zip",
-        "Size": 256867,
+        "Hash": "s6BTA0r0ZnI=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=74802\nfileID=1000085604",
+        "Name": "Simple Diseases 1.10-74802-1-10-1640580682.zip",
+        "Size": 261743,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "hman101",
-          "Description": "A simple and modular disease system for Fallout New Vegas. Adds a the chance to get sick from eating bad food as well as the risk of contracting diseases from wild animal attacks.",
-          "FileID": 1000085510,
+          "Description": "A simple and modular disease system for Fallout New Vegas. Adds a the chance to get sick from eating bad food and drinking untreated water as well as the risk of contracting diseases from wild animal attacks.",
+          "FileID": 1000085604,
           "GameName": "FalloutNewVegas",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/74802/74802-1640314474-17745839.png",
           "IsNSFW": false,
           "ModID": 74802,
           "Name": "Simple Diseases",
-          "Version": "1.0.0.0"
+          "Version": "1.10.0.0"
         }
       }
     },
@@ -4320,6 +4321,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "h7uQzT+kSoQ=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=74379\nfileID=1000084973",
+        "Name": "Aid Addon-74379-4-1639091373.rar",
+        "Size": 49820242,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "S6S and Azhidaljun and Clavyn and KorianHun",
+          "Description": "Featuring 15 new healing items and new Survival healing options, this Aid Addon adds Antiseptic, Bandages, Blood Draw Kits, Medkits, Preserved Blood Packs, Hemostatic Pills, Combat Stims, and Army Morphine Syrettes to the wasteland, with configurable saturations per-item.",
+          "FileID": 1000084973,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/74379/74379-1637438511-274347114.png",
+          "IsNSFW": false,
+          "ModID": 74379,
+          "Name": "Aid Addon - Medkits - Blood Draw - Bandages - More",
+          "Version": "4.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "vcoqBqqQeeU=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=67278\nfileID=1000071123",
         "Name": "Book Menu Restored-67278-1-1-1612700059.zip",
@@ -4818,6 +4840,111 @@
           "ModID": 73856,
           "Name": "Hit\u0027s Anims - Season 1",
           "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/FeK60iVNCE=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=73880\nfileID=1000081937",
+        "Name": "Hit Anims - WOOM Override-73880-2-0-1633216743.zip",
+        "Size": 1375,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Hitman Millenia Qolore7 and DrPootis",
+          "Description": "Hitman made animations for the Fallout 3 Assault Rifle and Chinese Assault Rifle. I\u0027ve made an anim group override file so that the Assault Rifle from Weapons of Our Millenia uses this animation.",
+          "FileID": 1000081937,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/73880/73880-1633219304-721092414.gif",
+          "IsNSFW": false,
+          "ModID": 73880,
+          "Name": "Hit\u0027s Anims - Weapons of our Millenia Overrides",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SeOByUkQlHA=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=73617\nfileID=1000085596",
+        "Name": "Hitmisc. - Season One-73617-3-1-1640558394.zip",
+        "Size": 780,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "hitman47101 - Me - Myself - I",
+          "Description": "Various .json files that allow hitman4701\u0027s kNVSE animations to be used on other similar base game weapons! Requires the original animations. Now with modded weapon support!",
+          "FileID": 1000085596,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/73617/73617-1632192962-186555654.gif",
+          "IsNSFW": false,
+          "ModID": 73617,
+          "Name": "Hitmisc. - hitman47101\u0027s kNVSE Animations on Other Vanilla Weapons",
+          "Version": "3.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wkOc28AMQEw=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=73617\nfileID=1000080995",
+        "Name": "Hitmisc. - Scottmack\u0027s Weapons Redone-73617-2-0-1631414534.zip",
+        "Size": 621,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "hitman47101 - Me - Myself - I",
+          "Description": "Various .json files that allow hitman4701\u0027s kNVSE animations to be used on other similar base game weapons! Requires the original animations. Now with modded weapon support!",
+          "FileID": 1000080995,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/73617/73617-1632192962-186555654.gif",
+          "IsNSFW": false,
+          "ModID": 73617,
+          "Name": "Hitmisc. - hitman47101\u0027s kNVSE Animations on Other Vanilla Weapons",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "c3oGmrV46S4=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=73617\nfileID=1000080997",
+        "Name": "Hitmisc. - Weapons of Our Millenia-73617-2-0-1631414607.zip",
+        "Size": 636,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "hitman47101 - Me - Myself - I",
+          "Description": "Various .json files that allow hitman4701\u0027s kNVSE animations to be used on other similar base game weapons! Requires the original animations. Now with modded weapon support!",
+          "FileID": 1000080997,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/73617/73617-1632192962-186555654.gif",
+          "IsNSFW": false,
+          "ModID": 73617,
+          "Name": "Hitmisc. - hitman47101\u0027s kNVSE Animations on Other Vanilla Weapons",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2PbHiBwB7TM=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=73617\nfileID=1000080998",
+        "Name": "Hitmisc. - Weapons of the Modern Millenia-73617-2-0-1631414634.zip",
+        "Size": 790,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "hitman47101 - Me - Myself - I",
+          "Description": "Various .json files that allow hitman4701\u0027s kNVSE animations to be used on other similar base game weapons! Requires the original animations. Now with modded weapon support!",
+          "FileID": 1000080998,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/73617/73617-1632192962-186555654.gif",
+          "IsNSFW": false,
+          "ModID": 73617,
+          "Name": "Hitmisc. - hitman47101\u0027s kNVSE Animations on Other Vanilla Weapons",
+          "Version": "2.0.0.0"
         }
       }
     },
@@ -6455,6 +6582,27 @@
           "IsNSFW": false,
           "ModID": 73675,
           "Name": "Simplified Weapon Retexture Project",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iIWqT6RMcQU=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=74831\nfileID=1000085593",
+        "Name": "Smooth Pip Light Enhancer-74831-1-1640556195.rar",
+        "Size": 351,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "S6S and hunterz",
+          "Description": "This is an esp free version of SmoothLight - Pipboy Light Enhancer.",
+          "FileID": 1000085593,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/74831/74831-1640552391-1779097600.png",
+          "IsNSFW": false,
+          "ModID": 74831,
+          "Name": "SmoothLight Pip Boy Light Enhancer ScriptRunner",
           "Version": "1.0.0.0"
         }
       }
