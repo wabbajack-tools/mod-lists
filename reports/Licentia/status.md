@@ -230,7 +230,7 @@
 *  [ENB Helper SE 1.5 for SSE 1.5.97-23174-1-5-1574569443.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23174/?tab=files&file_id=114237)
 *  [ENB Light 0.98 Alpha 2-22574-0-98Alpha2-1577144667.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=117211)
 *  [ENB lights for Aetherium Shards SE-54472-1-0-1629895053.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54472/?tab=files&file_id=223662)
-*  [enbseries_skyrimse_v0465.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0465.zip_b18a9ca9-944b-4ff8-821d-04c81e96579e)
+*  [enbseries_skyrimse_v0466.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0466.zip_d68a7ff5-baa6-4d18-8f55-db1f35e3ea94)
 *  [Encounter Zones Unlocked SE-19608-1-4-1583906933.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19608/?tab=files&file_id=128125)
 *  [Enhanced Blood Textures-2357-4-0-1639547261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=249235)
 *  [Enhanced Ore Veins - 4K - 9.0.1-1306-9-0-1-1638445445.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1306/?tab=files&file_id=246045)
