@@ -470,7 +470,6 @@
 *  [Smooth Combat Animation by Race.7z](https://blog.kakaocdn.net/dn/cc2DCv/btq75DwB45E/Ngh6JToG1d7rL8IOwblKLk/Smooth Combat Animation by Race.7z?knm=tfile.7z)
 *  Smooth Combat Animation by skill level.7z
 *  [Smooth Combat Non Combat Animation-52145-4-4-1-1639384793.zip](https://www.nexusmods.com/skyrimspecialedition/mods/52145/?tab=files&file_id=248740)
-*  Smooth DAR Combat Dodge (1).7z
 *  Smooth Jump Stagger Animation (1).7z
 *  [Smooth Magic Casting Animation-45799-3-3-1630441221.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45799/?tab=files&file_id=225265)
 *  [Smooth Random Blocking Animation 3.2-59239-3-2-1638279965.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59239/?tab=files&file_id=245535)
@@ -539,6 +538,7 @@
 *  [Ultimate Combat and Creature Behaviour's Nemesis Compatibility-45966-1-12-1613999850.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45966/?tab=files&file_id=187396)
 *  [Ultimate Immersion Toggle - UI Toggle-53210-1-1-1628073919.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53210/?tab=files&file_id=218703)
 *  Ultra.ini
+*  [Unequip Quiver SE-44031-1-7-1639526156.zip](https://www.nexusmods.com/skyrimspecialedition/mods/44031/?tab=files&file_id=249195)
 *  [Unique Region Names SE-56452-1-1-0-1633359628.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56452/?tab=files&file_id=232579)
 *  [Unlabeled Paper Skyrim and Solstheim Maps by Mirhayasu for FWMF-53788-1-0-1629055534.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53788/?tab=files&file_id=221445)
 *  [Unofficial Creation Club Fishing Patch-59702-1-0-1638919558.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59702/?tab=files&file_id=247406)
