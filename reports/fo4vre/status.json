@@ -1,8 +1,8 @@
 {
   "MachineURL": "fo4vre",
   "Name": "Fallout VR Essentials Overhaul",
-  "Version": "9.8.5",
-  "ModListHash": "0tDY0njUrPY=",
+  "Version": "10.0",
+  "ModListHash": "aQQjBSOxXdE=",
   "Archives": [
     {
       "Status": "Valid",
@@ -28,14 +28,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "vKMKKroIyOM=",
-        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.0/Mod.Organizer-2.4.0.7z",
-        "Name": "Mod.Organizer-2.4.0.7z",
-        "Size": 89306961,
+        "Hash": "LqKnmSUrXac=",
+        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z",
+        "Name": "Mod.Organizer-2.4.4.7z",
+        "Size": 90051560,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.0/Mod.Organizer-2.4.0.7z"
+          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z"
         }
       }
     },
@@ -69,21 +69,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wlH61byworU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=33946\nfileID=142513",
-        "Name": "xSE PluginPreloader F4 0.1.2-33946-0-1-2.zip",
-        "Size": 116757,
+        "Hash": "5lnqwWvOd70=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=33946\nfileID=221778",
+        "Name": "xSE PluginPreloader F4 0.2.5.1-33946-0-2-5-1-1637347868.zip",
+        "Size": 2253885,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Karandra",
           "Description": "This mod allows preload F4SE plugins before the game initializes.",
-          "FileID": 142513,
+          "FileID": 221778,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33946/33946-1538438829-1641188428.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33946/33946-1637514329-1439127529.png",
           "IsNSFW": false,
           "ModID": 33946,
           "Name": "xSE PluginPreloader F4",
-          "Version": "0.1.2.0"
+          "Version": "0.2.5.1"
         }
       }
     },
@@ -300,21 +300,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Qf/nvlwZ0Ss=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=34741\nfileID=141606",
-        "Name": "Automatron VR FIX-34741-V0-89.rar",
-        "Size": 118343,
+        "Hash": "AiCOi5Sx5E4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=55692\nfileID=221218",
+        "Name": "Automatron Workbench Rebuild-55692-1-0-1636683358.rar",
+        "Size": 2806946,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Markyrocks",
-          "Description": "Fixes the Automatron DLC and Robot Workbench in the VR version of Fallout 4",
-          "FileID": 141606,
+          "Author": "Edmond Noir",
+          "Description": "Complete rebuild of the Automatron Workbench for VR.",
+          "FileID": 221218,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/34741/34741-1537141452-1799585869.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/55692/55692-1636681533-998513406.png",
           "IsNSFW": false,
-          "ModID": 34741,
-          "Name": "Automatron DLC VR FIX",
-          "Version": "0.89.0.0"
+          "ModID": 55692,
+          "Name": "Automatron VR Workbench Rebuild",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -1098,6 +1098,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Xmhx8SSyrXw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56405\nfileID=224373",
+        "Name": "VRCP_DOOMMerged-56405-1-1-1640018436.zip",
+        "Size": 4697125,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mith077",
+          "Description": "Working laser sights and flashlight for Fallout 4 VR!\n\n\n\nThis is a sister mod to my another mod \u0027Fallout 4 VR Compatibility Patch for Weaponsmith Extended 2\u0027:\n\nBrings positional fixes, optimized reflexes, laser sights and flashlights.\n\nWhereas with essential weapons, less requirement, easier installation and higher compatibility.",
+          "FileID": 224373,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56405/56405-1639049906-804782026.jpeg",
+          "IsNSFW": false,
+          "ModID": 56405,
+          "Name": "Fallout 4 VR Compatibility Patch for DOOMBASED Weapons Merged",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "iH91kpboDws=",
         "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\DLCCoast.esm",
         "Name": "Data_DLCCoast.esm",
@@ -1404,6 +1425,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "7kWyO9hZuAw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53464\nfileID=222455",
+        "Name": "FRIK alpha 37-53464-v0-37-1638124746.zip",
+        "Size": 235229,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "rollingrock",
+          "Description": "FRIK brings the full player body to life in VR!    Inspired by VRIK from SkyrimVR FRIK aims to bring the same level of immersion of having your body visible to Fallout 4 VR.   Full body Inverse Kinematics has been implemented to animate the arms and legs based on your controller and HMD position.",
+          "FileID": 222455,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53464/53464-1627237967-435592659.png",
+          "IsNSFW": false,
+          "ModID": 53464,
+          "Name": "FRIK - Full Player Body with IK",
+          "Version": "0.37.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "tZVG9Kiz5fw=",
         "Meta": "[General]\ngameName=fallout4\nmodID=13193\nfileID=104543",
         "Name": "Give Me That Bottle - DLC (Requires Far Harbor)-13193-2-6a.zip",
@@ -1587,48 +1629,6 @@
           "ModID": 46591,
           "Name": "HUIDE_VR - Hide HUD Elements in VR",
           "Version": "1.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "BA3tvX7CClU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=42922\nfileID=191678",
-        "Name": "Idle Hands v3.0.3-42922-3-0-3-1600591814.zip",
-        "Size": 52044856,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CylonSurfer",
-          "Description": "Idle Hands will provide Fallout 4: VR players with visible hands (and Pipboy) in varity of styles and skin tones, customisable via the mods FOMOD installer. Players will have visible hands with /without weapons being drawn, which change to Power Armor hands when a frame is entered (Pairing nicely with \u0027Kabuto:VRs\u0027 visible Power Armor helmets).",
-          "FileID": 191678,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/42922/42922-1578593370-915051553.jpeg",
-          "IsNSFW": false,
-          "ModID": 42922,
-          "Name": "Idle Hands",
-          "Version": "3.0.3.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "qzS0o/mlrf0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=42922\nfileID=194288",
-        "Name": "Idle Hands v3.0.3 Left Hand Edition Beta-42922-3-0-3-1604482734.zip",
-        "Size": 52444397,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CylonSurfer",
-          "Description": "Idle Hands will provide Fallout 4: VR players with visible hands (and Pipboy) in varity of styles and skin tones, customisable via the mods FOMOD installer. Players will have visible hands with /without weapons being drawn, which change to Power Armor hands when a frame is entered (Pairing nicely with \u0027Kabuto:VRs\u0027 visible Power Armor helmets).",
-          "FileID": 194288,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/42922/42922-1578593370-915051553.jpeg",
-          "IsNSFW": false,
-          "ModID": 42922,
-          "Name": "Idle Hands",
-          "Version": "3.0.3.0"
         }
       }
     },
@@ -2083,13 +2083,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Oynlen and DeathByKitty",
-          "Description": "",
+          "Description": "Mod adds more types of feral ghouls, some of them might be unique and have notes in their equipment.",
           "FileID": 175793,
           "GameName": "Fallout4",
-          "ImageURL": null,
-          "IsNSFW": true,
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/43441/43441-1581440944-2040625922.jpeg",
+          "IsNSFW": false,
           "ModID": 43441,
-          "Name": "",
+          "Name": "More Feral Ghouls. A Zombie Mod",
           "Version": "1.0.0.0"
         }
       }
@@ -3168,6 +3168,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "6graXVz0Z60=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=50664\nfileID=216027",
+        "Name": "Take a Load Off-50664-1-0-1630608646.zip",
+        "Size": 18485,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Akimbo Swords",
+          "Description": "Giving you an immersive reason to physically crouch more when you play. My VR friendly answer to over encoumberence. Works on non VR too.\n\n\n\nSo instead of hitting that unimmersive threshold that is carry weight and it stops you from moving/damages your health. You can now physically crouch/take a knee/sit down to take the load off.",
+          "FileID": 216027,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50664/50664-1630607937-374577827.jpeg",
+          "IsNSFW": false,
+          "ModID": 50664,
+          "Name": "Take a Load Off",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "/Exv14em1ss=",
         "Meta": "[General]\ngameName=fallout4\nmodID=8704\nfileID=200023",
         "Name": "Tales from the Commonwealth-8704-3-02-1611704519.7z",
@@ -3357,21 +3378,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SRuXXFbWoVo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=51224\nfileID=214589",
-        "Name": "Virtual Holsters V2.0.0-51224-2-0-0-1628749460.zip",
-        "Size": 48591,
+        "Hash": "YbK8lichg8M=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53625\nfileID=224446",
+        "Name": "Virtual Chems v1.3.2-53625-1-3-2-1640079179.zip",
+        "Size": 588250,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "CylonSurfer",
-          "Description": "Adds 5 virtual weapon holsters  and new weapon sheathing / equipping system which aims for a more realistic approach forcing the player to return a weapon to the holster it was drawn from before being able to equip another weapon.",
-          "FileID": 214589,
+          "Description": "Expanding on the idea of equipping chems from virtual body slots and using them in a more \u0027VR Centric\u0027 way; Virtual Chems will provide Fallout 4 VR / FRIK players with 5 body slots which can be used to assign and then equip chems from in real time. Once in hand, chems can be virtually inhaled, ingested or injected!",
+          "FileID": 224446,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53625/53625-1628058428-1339813157.png",
+          "IsNSFW": false,
+          "ModID": 53625,
+          "Name": "Virtual Chems",
+          "Version": "1.3.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yCkLOaPbcyw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51224\nfileID=221510",
+        "Name": "Virtual Holsters V2.1.0-51224-2-1-0-1636998065.zip",
+        "Size": 53830,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CylonSurfer",
+          "Description": "Adds 7 virtual weapon holsters  and new weapon sheathing / equipping system which aims for a more realistic approach forcing the player to return a weapon to the holster it was drawn from before being able to equip another weapon.",
+          "FileID": 221510,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51224/51224-1628104334-927879350.png",
           "IsNSFW": false,
           "ModID": 51224,
           "Name": "Virtual Holsters",
-          "Version": "2.0.0.0"
+          "Version": "2.1.0.0"
         }
       }
     },
@@ -3735,6 +3777,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "zig33o/Ql3o=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53777\nfileID=214727",
+        "Name": "Customizable Loading Screen VR-53777-1-0-1628970384.7z",
+        "Size": 941247,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KhaoMaat",
+          "Description": "Centers loading screen elements in VR and provides a number of options to customize the appearance.",
+          "FileID": 214727,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53777/53777-1628975134-989755779.png",
+          "IsNSFW": false,
+          "ModID": 53777,
+          "Name": "Customizable Loading Screen VR",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "kfLvdynuIYk=",
         "Meta": "[General]\ngameName=fallout4\nmodID=31088\nfileID=172178",
         "Name": "DEF_UI Iconlibs Rescaled and Fixed - Colored-31088-1-6-1575705975.7z",
@@ -3829,7 +3892,7 @@
           "Description": "Fixes (more or less) the obfuscated dialog choices.",
           "FileID": 117525,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/28516/28516-1513328287-170505231.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/28516/28516-1513353930-1675021743.png",
           "IsNSFW": false,
           "ModID": 28516,
           "Name": "Full Dialog VR",
@@ -3937,27 +4000,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "1om78oBEcmc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=44768\nfileID=180654",
-        "Name": "Smooth Movement VR-44768-1-0-1588181010.rar",
-        "Size": 223410,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Shizof",
-          "Description": "An F4SEVR plugin to eliminate jitter/stutter/judder caused by collision when walking/running on bumpy roads and terrain. Moving will feel like skating on ice. No more headaches or nausea caused by playing Fallout VR.",
-          "FileID": 180654,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44768/44768-1588180752-2029905341.jpeg",
-          "IsNSFW": false,
-          "ModID": 44768,
-          "Name": "Smooth Movement VR",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "qqmjYb+DyiI=",
         "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=14k9bT0Ex1BoYGsub-nrbbCXtXhVOWMsd\u0026export=download",
         "Name": "UIChanges.zip",
@@ -3987,6 +4029,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "DI3JHh9EKrM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53625\nfileID=221901",
+        "Name": "Virtual Chems v1.3.0-53625-1-3-0-1637494108.zip",
+        "Size": 587396,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CylonSurfer",
+          "Description": "Expanding on the idea of equipping chems from virtual body slots and using them in a more \u0027VR Centric\u0027 way; Virtual Chems will provide Fallout 4 VR / FRIK players with 5 body slots which can be used to assign and then equip chems from in real time. Once in hand, chems can be virtually inhaled, ingested or injected!",
+          "FileID": 221901,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53625/53625-1628058428-1339813157.png",
+          "IsNSFW": false,
+          "ModID": 53625,
+          "Name": "Virtual Chems",
+          "Version": "1.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SRuXXFbWoVo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51224\nfileID=214589",
+        "Name": "Virtual Holsters V2.0.0-51224-2-0-0-1628749460.zip",
+        "Size": 48591,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CylonSurfer",
+          "Description": "Adds 7 virtual weapon holsters  and new weapon sheathing / equipping system which aims for a more realistic approach forcing the player to return a weapon to the holster it was drawn from before being able to equip another weapon.",
+          "FileID": 214589,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51224/51224-1628104334-927879350.png",
+          "IsNSFW": false,
+          "ModID": 51224,
+          "Name": "Virtual Holsters",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Wjhb05uadh8=",
         "Meta": "[General]\ngameName=fallout4\nmodID=48826\nfileID=199941",
         "Name": "M8r98a4f2\u0027s Complex Item Sorter-48826-1-7-1-1611600864.rar",
@@ -3997,7 +4081,7 @@
           "Description": "The Complex Sorter from FallUI Item Sorter Mod. Automatically add item tags to all items. Highly versatile and completely configurable: custom processing rules, custom tag sets, custom naming rules. You can just change anything to your liking. Standard rules support most custom mods out-of-the-box.",
           "FileID": 199941,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48826/48826-1633905486-1901157957.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48826/48826-1636805582-768817055.png",
           "IsNSFW": false,
           "ModID": 48826,
           "Name": "M8r98a4f2\u0027s Complex Item Sorter",
@@ -4155,6 +4239,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "woUCNOHYMu8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53464\nfileID=219000",
+        "Name": "FRIK alpha 34-53464-v0-34-1633912313.zip",
+        "Size": 231081,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "rollingrock",
+          "Description": "FRIK brings the full player body to life in VR!    Inspired by VRIK from SkyrimVR FRIK aims to bring the same level of immersion of having your body visible to Fallout 4 VR.   Full body Inverse Kinematics has been implemented to animate the arms and legs based on your controller and HMD position.",
+          "FileID": 219000,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53464/53464-1627237967-435592659.png",
+          "IsNSFW": false,
+          "ModID": 53464,
+          "Name": "FRIK - Full Player Body with IK",
+          "Version": "0.34.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cyt3lVYJxp4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=33947\nfileID=204424",
+        "Name": "PrivateProfileRedirector F4VR 0.5.2-33947-0-5-2-1616600754.zip",
+        "Size": 158550,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Karandra",
+          "Description": "Speeds up game start by storing INI files in memory instead of opening, parsing and closing the file each time some value from it is needed.",
+          "FileID": 204424,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33947/33947-1569070420-1702363259.png",
+          "IsNSFW": false,
+          "ModID": 33947,
+          "Name": "PrivateProfileRedirector F4 - Faster game start (INI file cacher)",
+          "Version": "0.5.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "N9mL6nrvC1w=",
         "Meta": "[General]\ngameName=fallout4\nmodID=33947\nfileID=167135",
         "Name": "PrivateProfileRedirector F4 0.4.1-33947-0-4-1-1569069129.zip",
@@ -4286,6 +4412,48 @@
           "ModID": 26163,
           "Name": "Unlimited Survival Mode - F4SE",
           "Version": "1.4.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JQelK1DHKN0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53625\nfileID=214545",
+        "Name": "Virtual Chems v1.0.0-53625-1-0-0-1628675154.zip",
+        "Size": 520393,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CylonSurfer",
+          "Description": "Expanding on the idea of equipping chems from virtual body slots and using them in a more \u0027VR Centric\u0027 way; Virtual Chems will provide Fallout 4 VR / FRIK players with 5 body slots which can be used to assign and then equip chems from in real time. Once in hand, chems can be virtually inhaled, ingested or injected!",
+          "FileID": 214545,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53625/53625-1628058428-1339813157.png",
+          "IsNSFW": false,
+          "ModID": 53625,
+          "Name": "Virtual Chems",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qzS0o/mlrf0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=42922\nfileID=194288",
+        "Name": "Idle Hands v3.0.3 Left Hand Edition Beta-42922-3-0-3-1604482734.zip",
+        "Size": 52444397,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CylonSurfer",
+          "Description": "Idle Hands will provide Fallout 4: VR players with visible hands (and Pipboy) in varity of styles and skin tones, customisable via the mods FOMOD installer. Players will have visible hands with /without weapons being drawn, which change to Power Armor hands when a frame is entered (Pairing nicely with \u0027Kabuto:VRs\u0027 visible Power Armor helmets).",
+          "FileID": 194288,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/42922/42922-1578593370-915051553.jpeg",
+          "IsNSFW": false,
+          "ModID": 42922,
+          "Name": "Idle Hands",
+          "Version": "3.0.3.0"
         }
       }
     },
