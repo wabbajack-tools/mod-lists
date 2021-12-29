@@ -404,7 +404,7 @@
 *  [JS Dragon Claws - Amethyst Patch-23833-2-1-1597174292.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23833/?tab=files&file_id=155084)
 *  [JS Purses and Septims SE - FOMOD-37306-1-2-1626039809.rar](https://www.nexusmods.com/skyrimspecialedition/mods/37306/?tab=files&file_id=214078)
 *  [JS Shrines of the Divines SE - 2K-33394-1-1-1583649279.rar](https://www.nexusmods.com/skyrim/mods/101609/?tab=files&file_id=1000314553)
-*  [Kvite's Simple Start - Permanent Standing Stones-60316-1-4-1640272320.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60316/?tab=files&file_id=251165)
+*  [Kvite's Simple Start-60316-1-5-1640733667.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60316/?tab=files&file_id=252338)
 *  [Lafreakshows VAE Summermyst Patch-35023-1-0-0-1588329335.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35023/?tab=files&file_id=137311)
 *  [Landscape Fixes For Grass Mods-9005-4-9-1630543970.zip](https://www.nexusmods.com/skyrimspecialedition/mods/9005/?tab=files&file_id=225493)
 *  [Leafeater's Windhelm Tree Overhaul-25333-v1-00-1556247821.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25333/?tab=files&file_id=89713)
