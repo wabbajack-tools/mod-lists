@@ -1,20 +1,20 @@
 {
   "MachineURL": "TalesFromTheNorthernLands",
   "Name": "Tales from the Northern Lands",
-  "Version": "2.0.5",
-  "ModListHash": "63WlT3aV2fI=",
+  "Version": "2.1",
+  "ModListHash": "bR1rTbE0s6E=",
   "Archives": [
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PfX6zen7m2M=",
-        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z",
-        "Name": "Mod.Organizer-2.4.2.7z",
-        "Size": 89503525,
+        "Hash": "LqKnmSUrXac=",
+        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z",
+        "Name": "Mod.Organizer-2.4.4.7z",
+        "Size": 90051560,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z"
+          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z"
         }
       }
     },
@@ -631,15 +631,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "M7uTlLxOvaw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=3257\nfileID=95652",
-        "Name": "Adopt Aventus Aretino patch RS Children with USSEP-3257-1-2-1560310204.7z",
-        "Size": 924,
+        "Hash": "KfEqCbLDZZA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=3257\nfileID=203792",
+        "Name": "Adopt Aventus Aretino patch TKAA-3257-1-2-1621157947.7z",
+        "Size": 696,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Hydreigon",
           "Description": "Allows you to adopt Aventus Aretino.",
-          "FileID": 95652,
+          "FileID": 203792,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/3257-4-1478487118.jpg",
           "IsNSFW": false,
@@ -771,6 +771,27 @@
           "IsNSFW": false,
           "ModID": 54362,
           "Name": "Animal and Creature Loot Tweaks",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "klJE6bByn58=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=50307\nfileID=215249",
+        "Name": "AP - TKAA - Patch-50307-V1-0-1626595479.7z",
+        "Size": 649,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Scrab",
+          "Description": "Rewrite \u0026amp; Framework for the Vanilla Intro. Experience Helgens Destruction from a POV different than the Prisoners!",
+          "FileID": 215249,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50307/50307-1626608069-215982230.png",
+          "IsNSFW": false,
+          "ModID": 50307,
+          "Name": "Alternate Perspective - Prologue Retold",
           "Version": "1.0.0.0"
         }
       }
@@ -1261,6 +1282,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "5XHcjuPr83A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60258\nfileID=250165",
+        "Name": "CGO Stripped-60258-2-1639870375.zip",
+        "Size": 438112,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DServant",
+          "Description": "DServant\u0027s Combat Gameplay Overhaul, without the combat. Removes everything but 3rd \u0026amp; 1st person leaning, jump attacks, and camera noise, while retaining the MCM.",
+          "FileID": 250165,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60258/60258-1639774224-1346688701.png",
+          "IsNSFW": false,
+          "ModID": 60258,
+          "Name": "CGO Stripped",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "yXVYIP4LaDM=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=31949\nfileID=120640",
         "Name": "Chill Out Aela-31949-1-0-1579568285.7z",
@@ -1395,6 +1437,27 @@
           "ModID": 43763,
           "Name": "Constellations - A Standing Stones Improvement (SkyRem - Cassi)",
           "Version": "1.0.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "T0/uK4hzH6A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60902\nfileID=252322",
+        "Name": "Container Slot Restrictions - SlotsSlotsSlots Addon-60902-1-0-1640727519.7z",
+        "Size": 5523,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Luca - EzioTheDeadPoet",
+          "Description": "Gives containers a storage limit based on their size, balanced around the Synthesis based SlotsSlotsSlots Inventory Overhaul.",
+          "FileID": 252322,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60902/60902-1640730073-760099878.png",
+          "IsNSFW": false,
+          "ModID": 60902,
+          "Name": "Container Slot Restrictions - Slot-Inventory Overhaul Addon",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -3526,27 +3589,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ohAz18Ch+xs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44260\nfileID=179015",
-        "Name": "Night Eye Fix for Summermyst - Enchantments of Skyrim-44260-1-0-1610401820.zip",
-        "Size": 633,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Luca - EzioTheDeadPoet",
-          "Description": "This Mod fixes Night Eye activating when any loaded NPC uses an armor piece with the Night Eye enchantment.\n\nBy adding a condition to the enchantment that it only works on the player.\n\nThis fix is an ESP-FE plugin to save plugin slots.",
-          "FileID": 179015,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44260/44260-1610401183-1827372123.png",
-          "IsNSFW": false,
-          "ModID": 44260,
-          "Name": "Night Eye Fix for Summermyst - Enchantments of Skyrim",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "+6gCDF4ROic=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=53792\nfileID=228707",
         "Name": "Nilheim - Quest Expansion-53792-1-11-1631790402.zip",
@@ -4001,6 +4043,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "E0Rz8eyGZLw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44041\nfileID=229230",
+        "Name": "Quiet Better Jumping for CGO - Audio Overhaul - Immersive Sounds Integration-44041-1-1-1632001934.zip",
+        "Size": 5354,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Monops",
+          "Description": "Quiet Better Jumping for Combat Gameplay Overhaul fixes the running sounds that play while sprint jumping when Better Jumping and Combat Gameplay Overhaul are used together.",
+          "FileID": 229230,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44041/44041-1609904763-911490043.jpeg",
+          "IsNSFW": false,
+          "ModID": 44041,
+          "Name": "Quiet Better Jumping for Combat Gameplay Overhaul (CGO)",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "ZiPMMdSXSX4=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=23223\nfileID=224392",
         "Name": "SkyRem - Rae-23223-5-2-5-1630162268.zip",
@@ -4201,27 +4264,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "2CHEpzcHL5Y=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=40231\nfileID=163370",
-        "Name": "Realistic Elven Children-40231-2-1-1601549618.7z",
-        "Size": 8279026,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Muffloid - mdfeelgood",
-          "Description": "An Aymar-and-friends-based children mod that adds 8 adoptable -mer children to the game, with faces in the style of my mod Realistic RS Children.",
-          "FileID": 163370,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/40231/40231-1600122525-643667450.png",
-          "IsNSFW": false,
-          "ModID": 40231,
-          "Name": "Realistic Elven Children (Aymar and friends reimagined)",
-          "Version": "2.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "o+a2EY9WyYc=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=16310\nfileID=50322",
         "Name": "Realistic Skin Shaders - Falmer and Hagravens-16310-v1-03.7z",
@@ -4264,21 +4306,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "aO/mqgxasdE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=31612\nfileID=248116",
-        "Name": "Reliquary of Myth - Artifact Overhaul-31612-4-3-2-1639192727.7z",
-        "Size": 34111814,
+        "Hash": "tHAsfaTTRFg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=31612\nfileID=251468",
+        "Name": "Reliquary of Myth - Artifact Overhaul-31612-4-4-3-1640362525.7z",
+        "Size": 34185712,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "TitansBane",
           "Description": "Reliquary of Myth includes balanced, lore-friendly, and unique enchantments to nearly all of Skyrim\u0027s most legendary and famous artifacts.",
-          "FileID": 248116,
+          "FileID": 251468,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31612/31612-1593017452-346981980.png",
           "IsNSFW": false,
           "ModID": 31612,
           "Name": "Reliquary of Myth - Artifact Overhaul",
-          "Version": "4.3.2.0"
+          "Version": "4.4.3.0"
         }
       }
     },
@@ -4405,48 +4447,6 @@
           "ModID": 26398,
           "Name": "Royal Armory Tweaks and Fixes",
           "Version": "1.41.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7O7dODRhKHU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=2650\nfileID=128013",
-        "Name": "RSSE Children Overhaul 1.1.3 with hotfix 1-2650-1-1-3HF1-1583835543.7z",
-        "Size": 31651302,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ranaline and Atsuraelu",
-          "Description": "Overhauls the appearance of all children. Also adds some outfits and accessories (currently only for boys).",
-          "FileID": 128013,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55555-1-1404448008.png",
-          "IsNSFW": false,
-          "ModID": 2650,
-          "Name": "RS Children Overhaul",
-          "Version": "1.1.3.0HF1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7aSW5l65wU0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=50307\nfileID=237601",
-        "Name": "RS Children Patch-50307-V2-3-1-1635455884.zip",
-        "Size": 84143,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Scrab",
-          "Description": "Rewrite \u0026amp; Framework for the Vanilla Intro. Experience Helgens Destruction from a POV different than the Prisoners!",
-          "FileID": 237601,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50307/50307-1626608069-215982230.png",
-          "IsNSFW": false,
-          "ModID": 50307,
-          "Name": "Alternate Perspective - Prologue Retold",
-          "Version": "2.3.1.0"
         }
       }
     },
@@ -4611,21 +4611,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WXE5VGcCn9E=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59341\nfileID=246185",
-        "Name": "SRR - Serana Relationship Revamped-59341-1-0-beta-1638491323.zip",
-        "Size": 13901758,
+        "Hash": "CsSZ2q7yUss=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59341\nfileID=252374",
+        "Name": "SRR - Serana Relationship Revamped HOTFIX-59341-1-1-beta-1640748567.zip",
+        "Size": 17694835,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Novum-Semita",
           "Description": "A mod that aims to enhance Serana as a character and her relationship with the player character. The intent is to stay as faithful to Bethesda\u0027s original rendition as possible while exploring new avenues of conversation and a gradually evolving relationship, either platonic or romantic which is based on how the player character interacts with her.",
-          "FileID": 246185,
+          "FileID": 252374,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59341/59341-1638332402-1851537988.jpeg",
           "IsNSFW": false,
           "ModID": 59341,
           "Name": "Serana Relationship Revamped",
-          "Version": "1.0.0.0b-"
+          "Version": "1.1.0.0b-"
         }
       }
     },
@@ -5493,27 +5493,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "NyGjviAQmK8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=6285\nfileID=49264",
-        "Name": "Summermyst v307-6285-3-07SSE.zip",
-        "Size": 2595252,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Enai Siaion",
-          "Description": "Summermyst adds 120 new enchantments to the game. The new enchantments are integrated seamlessly into the vanilla item system. It also makes many improvements to vanilla enchantments.",
-          "FileID": 49264,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/80918-0-1481978824.jpg",
-          "IsNSFW": false,
-          "ModID": 6285,
-          "Name": "Summermyst - Enchantments of Skyrim",
-          "Version": "f3.07SSE"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "vcl/80e6PFA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=53682\nfileID=246339",
         "Name": "Summons dont get spells-53682-1-0-1638558836.7z",
@@ -5598,6 +5577,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "ei3abdUiniw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=57138\nfileID=246596",
+        "Name": "Thaumaturgy - An Enchanting Overhaul-57138-1-1-4-1638635465.7z",
+        "Size": 330598,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Simon Magus - DeltaRider - Oreo - Hypebringer",
+          "Description": "Thaumaturgy is a complete overhaul of Skyrim\u2019s enchanting system designed to balance existing enchantments and add powerful new weapon and armor enchantments to the game.",
+          "FileID": 246596,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57138/57138-1634395887-1497209698.png",
+          "IsNSFW": false,
+          "ModID": 57138,
+          "Name": "Thaumaturgy - An Enchanting Overhaul",
+          "Version": "1.1.4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "cA08gnYA6Q4=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=3850\nfileID=248364",
         "Name": "The Choice is Yours-3850-2-3-1639269200.zip",
@@ -5634,6 +5634,27 @@
           "ModID": 5794,
           "Name": "TESG Loadscreen Replacer - SSE Port",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "repwKRbEjho=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=48297\nfileID=205168",
+        "Name": "The Kids Are Alright Renewal-48297-UltimateRenewal-1621790048.7z",
+        "Size": 351524252,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "triptherift",
+          "Description": "A comprehensive overhaul of the children of Skyrim",
+          "FileID": 205168,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/48297/48297-1617899763-1061636304.png",
+          "IsNSFW": false,
+          "ModID": 48297,
+          "Name": "The Kids Are Alright Renewal",
+          "Version": "UltimateRenewal"
         }
       }
     },
@@ -5739,6 +5760,27 @@
           "ModID": 25464,
           "Name": "Timing is Everything SE",
           "Version": "2.2.0.0FFF"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dJVYHPkJnso=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=49415\nfileID=248193",
+        "Name": "TKAA AI PATCH-49415-1-2-1639224021.rar",
+        "Size": 8015,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "diritotor",
+          "Description": "A patch for TKAA \u002B AI OVERHAUL",
+          "FileID": 248193,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49415/49415-1620070842-1024815028.png",
+          "IsNSFW": false,
+          "ModID": 49415,
+          "Name": "TKAA AI OVERHAUL PATCH 1.6.7",
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -6858,14 +6900,28 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qt37BjsnQCo=",
-        "Meta": "[General]\ndirectURL=https://github.com/Mutagen-Modding/Synthesis/releases/download/0.20.6-pr001/Synthesis.zip",
-        "Name": "Synthesis.zip",
-        "Size": 80192078,
+        "Hash": "YNNvVW+irB4=",
+        "Meta": "[General]\ndirectURL=https://github.com/Ryan-rsm-McKenzie/ConsoleUtilSSE/archive/refs/tags/1.2.0.zip",
+        "Name": "ConsoleUtilSSE-1.2.0.zip",
+        "Size": 14181,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/Mutagen-Modding/Synthesis/releases/download/0.20.6-pr001/Synthesis.zip"
+          "Url": "https://github.com/Ryan-rsm-McKenzie/ConsoleUtilSSE/archive/refs/tags/1.2.0.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SkWApplfc2c=",
+        "Meta": "[General]\ndirectURL=https://github.com/Mutagen-Modding/Synthesis/releases/download/0.21.4/Synthesis.zip",
+        "Name": "Synthesis.zip",
+        "Size": 144249269,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Mutagen-Modding/Synthesis/releases/download/0.21.4/Synthesis.zip"
         }
       }
     },
@@ -6971,6 +7027,27 @@
           "ModID": 33877,
           "Name": "Bounty Preview",
           "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "A3TtOJBErV8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60258\nfileID=252159",
+        "Name": "CGO Stripped Update - Female Greatsword Left Arm Position Fix-60258-2-1-1640655618.zip",
+        "Size": 3820,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DServant",
+          "Description": "DServant\u0027s Combat Gameplay Overhaul, without the combat. Removes everything but 3rd \u0026amp; 1st person leaning, jump attacks, and camera noise, while retaining the MCM.",
+          "FileID": 252159,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60258/60258-1639774224-1346688701.png",
+          "IsNSFW": false,
+          "ModID": 60258,
+          "Name": "CGO Stripped",
+          "Version": "2.1.0.0"
         }
       }
     },
@@ -7397,27 +7474,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5UDxv/hFfVs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53000\nfileID=223749",
-        "Name": "MCM SDK-53000-1-3-0-1629918647.zip",
-        "Size": 52248,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Parapets",
-          "Description": "Simplifies the creation of Mod Configuration Menus and extends them with powerful new features, such as persistent INI settings and hotkey registration. Mod authors will be able to write simpler, cleaner Papyrus scripts for their configs. Players will be able to spend less time in menus.",
-          "FileID": 223749,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53000/53000-1627746793-1514379922.png",
-          "IsNSFW": false,
-          "ModID": 53000,
-          "Name": "MCM Helper",
-          "Version": "1.3.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "PEKf1krhnRA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=11669\nfileID=147181",
         "Name": "MfgFix-11669-1-5-4-1592988142.7z",
@@ -7475,27 +7531,6 @@
           "ModID": 19250,
           "Name": "More Informative Console",
           "Version": "0.43.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "K2m5DRdZDPw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=50307\nfileID=237598",
-        "Name": "No Start Room Markers-50307-V2-4-1635455756.zip",
-        "Size": 1009,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Scrab",
-          "Description": "Rewrite \u0026amp; Framework for the Vanilla Intro. Experience Helgens Destruction from a POV different than the Prisoners!",
-          "FileID": 237598,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50307/50307-1626608069-215982230.png",
-          "IsNSFW": false,
-          "ModID": 50307,
-          "Name": "Alternate Perspective - Prologue Retold",
-          "Version": "2.4.0.0"
         }
       }
     },
@@ -7980,48 +8015,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "n6MoIMDXIzY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=28833\nfileID=129961",
-        "Name": "AllGUD xEdit Scripts-28833-1-8-3-3-1584914667.7z",
-        "Size": 31762,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kriffin",
-          "Description": "The only mod that displays Unequipped Bows AND Shield on your Back!\n\nDisplays your favorite Weapons and Shields! NPCs as well!\n\nGold Pouches, Potions, War Horn, Lute, Azura\u0027s Star, White Phial, and more can be positioned around the waist and back!\n\nCompletely replaces Equipping Overhaul, Ecotone Dual Sheath, Visible Favorited Gear, AGU",
-          "FileID": 129961,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28833/28833-1569450097-284315467.png",
-          "IsNSFW": false,
-          "ModID": 28833,
-          "Name": "All Geared Up Derivative SE - AllGUD",
-          "Version": "1.8.3.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "OHRgwiVPH68=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=38151\nfileID=161436",
-        "Name": "AllGUD Weapon Mesh Generator Script Fix-38151-2-0-1600469545.7z",
-        "Size": 17043,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Hilli1",
-          "Description": "Users of All Geared Up Derivative SE - AllGUD may have notice that the mesh generator script fails for some weapons. This Script fixes this.",
-          "FileID": 161436,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38151/38151-1594416137-1200386133.jpeg",
-          "IsNSFW": false,
-          "ModID": 38151,
-          "Name": "AllGUD Weapon Mesh Generator Script Fix",
-          "Version": "2.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "yrkrUS1fJ7M=",
         "Meta": "[General]\ndirectURL=https://github.com/matortheeternal/TES5EditScripts/archive/abe8a57fd6f73c9ad4e1f734800f0b519f176fd3.zip",
         "Name": "TES5EditScripts-abe8a57fd6f73c9ad4e1f734800f0b519f176fd3.zip",
@@ -8344,21 +8337,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5ukJbyRpOu4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=251632",
-        "Name": "Assorted Mesh Fixes-32117-0-40-1640428907.7z",
-        "Size": 11009678,
+        "Hash": "3yP6bayeQE8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=252204",
+        "Name": "Assorted Mesh Fixes-32117-0-41-1640689381.7z",
+        "Size": 11100109,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wankingSkeever",
           "Description": "Fixes various issues with vanilla Skyrim meshes that causes them to render incorrectly",
-          "FileID": 251632,
+          "FileID": 252204,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32117/32117-1612599331-161051453.png",
           "IsNSFW": false,
           "ModID": 32117,
           "Name": "Assorted mesh fixes",
-          "Version": "0.40.0.0"
+          "Version": "0.41.0.0"
         }
       }
     },
@@ -11290,6 +11283,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "08vyZMfLlLc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=48297\nfileID=203526",
+        "Name": "The Kids Are Alright Default Kid Loose Files-48297-Ultimate-1621042279.7z",
+        "Size": 12508342,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "triptherift",
+          "Description": "A comprehensive overhaul of the children of Skyrim",
+          "FileID": 203526,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/48297/48297-1617899763-1061636304.png",
+          "IsNSFW": false,
+          "ModID": 48297,
+          "Name": "The Kids Are Alright Renewal",
+          "Version": "Ultimate"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "1mizl8WhIEE=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=41823\nfileID=169730",
         "Name": "CWUSA 1.2-41823-1-2-1605165378.zip",
@@ -11889,27 +11903,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "s22hF4O5cfI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54422\nfileID=223358",
-        "Name": "Modpocalypse NPCs - All Vanilla NPCs v3-54422-1-0-1629769843.7z",
-        "Size": 861471059,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ModpocalypseGaming",
-          "Description": "This mod improves the visual appearance of every NPC in the base game.",
-          "FileID": 223358,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54422/54422-1629766511-207602721.jpeg",
-          "IsNSFW": false,
-          "ModID": 54422,
-          "Name": "Modpocalypse NPCs - All Vanilla NPCs",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Gskcqu4fDHc=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=10112\nfileID=26989",
         "Name": "Fluffjiits SSE-10112-1-8.rar",
@@ -11925,6 +11918,27 @@
           "ModID": 10112,
           "Name": "Fluff\u0027s Hybrid Khajiits SSE",
           "Version": "1.8.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "s22hF4O5cfI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54422\nfileID=223358",
+        "Name": "Modpocalypse NPCs - All Vanilla NPCs v3-54422-1-0-1629769843.7z",
+        "Size": 861471059,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ModpocalypseGaming",
+          "Description": "This mod improves the visual appearance of every NPC in the base game.",
+          "FileID": 223358,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54422/54422-1629766511-207602721.jpeg",
+          "IsNSFW": false,
+          "ModID": 54422,
+          "Name": "Modpocalypse NPCs - All Vanilla NPCs",
+          "Version": "1.0.0.0"
         }
       }
     }
