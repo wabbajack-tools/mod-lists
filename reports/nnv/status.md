@@ -1,10 +1,11 @@
 ## Validation Report - No, Not Vegas (nnv)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Tales of New Reno Episode II V2.35.rar](https://drive.google.com/uc?id=13kctD8GfgTzG8CHvPOVpQrgwSzSPPYYE&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (341)
+### Valid (340)
 *  [.50 BMG Compatibility-73565-1-1630816314.rar](https://www.nexusmods.com/newvegas/mods/73565/?tab=files&file_id=1000080699)
 *  [01 - Vanilla Body Version-55174-1-0-vanilla-1581050238.7z](https://www.nexusmods.com/newvegas/mods/55174/?tab=files&file_id=1000059173)
 *  [091 -  2k Body-70160-any-1634926373.7z](https://www.nexusmods.com/newvegas/mods/70160/?tab=files&file_id=1000082874)
@@ -283,7 +284,6 @@
 *  [SUP NVSE Plugin-73160-5-00-1638995397.rar](https://www.nexusmods.com/newvegas/mods/73160/?tab=files&file_id=1000084928)
 *  [Sweet 6 Shooter Perk Pack NV Version-73438-10fix2-1640033067.rar](https://www.nexusmods.com/newvegas/mods/73438/?tab=files&file_id=1000085358)
 *  [Tales of New Reno - Episode Zero-62288-1-1589265657.rar](https://www.nexusmods.com/newvegas/mods/62288/?tab=files&file_id=1000061856)
-*  [Tales of New Reno Episode II V2.35.rar](https://drive.google.com/uc?id=13kctD8GfgTzG8CHvPOVpQrgwSzSPPYYE&export=download)
 *  [Tales of New Reno Episode One-63128-1-1595585928.rar](https://www.nexusmods.com/newvegas/mods/63128/?tab=files&file_id=1000064063)
 *  [Tammer's NIF-Bashed Armor Mega-Pack v4.2.rar](https://drive.google.com/uc?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download)
 *  [TCM's LOD Overhaul-70155-1-1-1627771074.zip](https://www.nexusmods.com/newvegas/mods/70155/?tab=files&file_id=1000079255)
