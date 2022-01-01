@@ -1,8 +1,8 @@
 {
   "MachineURL": "lotf",
   "Name": "Legends of the Frost",
-  "Version": "2.0",
-  "ModListHash": "0IPbFpir5Wo=",
+  "Version": "2.0.1",
+  "ModListHash": "7nJAIFbPmQU=",
   "Archives": [
     {
       "Status": "Valid",
@@ -63,14 +63,308 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "m2SyP5Dy6VM=",
-        "Meta": "[General]\ndirectURL=https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LootPreventifier.zip",
-        "Name": "LootPreventifier.zip",
-        "Size": 793,
+        "Hash": "wwYDXqpkrNE=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=bink2w64.dll",
+        "Name": "bink2w64.dll",
+        "Size": 391360,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "bink2w64.dll",
+          "GameVersion": "1.6.342.0",
+          "Hash": "wwYDXqpkrNE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "d+fMLBcSgpk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=10546\nfileID=28074",
+        "Name": "DLL Plugin Loader v1-10546-1.zip",
+        "Size": 101092,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "meh321",
+          "Description": "Simple DLL plugins loader.",
+          "FileID": 28074,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 10546,
+          "Name": "DLL Plugin Loader",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tNEVP8P1V+k=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0465.zip_b18a9ca9-944b-4ff8-821d-04c81e96579e",
+        "Name": "enbseries_skyrimse_v0465.zip",
+        "Size": 4259506,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0465.zip_b18a9ca9-944b-4ff8-821d-04c81e96579e"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rQiGSRx2WrY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=181171",
+        "Name": "(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z",
+        "Size": 206648,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "aers - Nukem - Ryan",
+          "Description": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.",
+          "FileID": 181171,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17230/17230-1526195370-298143229.png",
+          "IsNSFW": false,
+          "ModID": 17230,
+          "Name": "SSE Engine Fixes (skse64 plugin)",
+          "Version": "2020.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "v6fl6XKxiBI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=25287\nfileID=114762",
+        "Name": "Dragonborn Presence-25287-1-0-5-1575125851 (1).7z",
+        "Size": 208329,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Fozar",
+          "Description": "Dragonborn Presence is Discord Rich Presence SKSE plugin for Skyrim Special Edition and Skyrim VR.",
+          "FileID": 114762,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/25287/25287-1556037686-218054129.png",
+          "IsNSFW": false,
+          "ModID": 25287,
+          "Name": "Dragonborn Presence - Discord Rich Presence",
+          "Version": "1.0.5.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gGoX2v8CeVo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=37098\nfileID=226856",
+        "Name": "Minimal ENB 1.2-37098-1-2-1631058068.zip",
+        "Size": 5275866,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Yuevie",
+          "Description": "If you have a favorite weather and lighting combo that you love, but want to utilize the effects of an ENB without changing the original atmosphere, this is the preset for you!",
+          "FileID": 226856,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37098/37098-1636918460-1072297872.png",
+          "IsNSFW": false,
+          "ModID": 37098,
+          "Name": "Yuevie\u0027s Minimal ENB",
+          "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ia6Y2mEquMg=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=High.ini",
+        "Name": "High.ini",
+        "Size": 906,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "High.ini",
+          "GameVersion": "1.6.342.0",
+          "Hash": "ia6Y2mEquMg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "M9LtyeAVtQE=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=installscript.vdf",
+        "Name": "installscript.vdf",
+        "Size": 648,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "installscript.vdf",
+          "GameVersion": "1.6.342.0",
+          "Hash": "M9LtyeAVtQE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "O5kJ576V0KY=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Low.ini",
+        "Name": "Low.ini",
+        "Size": 898,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Low.ini",
+          "GameVersion": "1.6.342.0",
+          "Hash": "O5kJ576V0KY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tBVeSwhhyNk=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Medium.ini",
+        "Name": "Medium.ini",
+        "Size": 898,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Medium.ini",
+          "GameVersion": "1.6.342.0",
+          "Hash": "tBVeSwhhyNk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HP9iiHc5h/Q=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56123\nfileID=240339",
+        "Name": "CoMAP-56123-3-1-2-1636559864.7z",
+        "Size": 5430873,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jelidity and Parapets",
+          "Description": "CoMAP is an SKSE based framework that allows the adding of custom map/compass marker designs, editing marker discovery music and changing marker assignments without any need for an esp. Ships with a large variety of built in marker types for you to use and premade config files for various mods.",
+          "FileID": 240339,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56123/56123-1633296446-147092038.png",
+          "IsNSFW": false,
+          "ModID": 56123,
+          "Name": "CoMAP - Common Marker Addon Project",
+          "Version": "3.1.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "v1aK6iCHYs8=",
+        "Meta": "[General]\ndirectURL=http://skse.silverlock.org/beta/skse64_2_00_20.7z",
+        "Name": "skse64_2_00_20.7z",
+        "Size": 813935,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LootPreventifier.zip"
+          "Url": "http://skse.silverlock.org/beta/skse64_2_00_20.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Wsq6jhOx4YM=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Skyrim.ccc",
+        "Name": "Skyrim.ccc",
+        "Size": 2018,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Skyrim.ccc",
+          "GameVersion": "1.6.342.0",
+          "Hash": "Wsq6jhOx4YM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uuCxBZAT5Bk=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=SkyrimSE.exe",
+        "Name": "SkyrimSE.exe",
+        "Size": 35410264,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "SkyrimSE.exe",
+          "GameVersion": "1.6.342.0",
+          "Hash": "uuCxBZAT5Bk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0bhc8w0adVI=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=SkyrimSELauncher.exe",
+        "Name": "SkyrimSELauncher.exe",
+        "Size": 4363776,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "SkyrimSELauncher.exe",
+          "GameVersion": "1.6.342.0",
+          "Hash": "0bhc8w0adVI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JbYP1w8FSfY=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Skyrim_Default.ini",
+        "Name": "Skyrim_Default.ini",
+        "Size": 1859,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Skyrim_Default.ini",
+          "GameVersion": "1.6.342.0",
+          "Hash": "JbYP1w8FSfY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XEqXAcAgOQ8=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=steam_api64.dll",
+        "Name": "steam_api64.dll",
+        "Size": 206760,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "steam_api64.dll",
+          "GameVersion": "1.6.342.0",
+          "Hash": "XEqXAcAgOQ8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "joAkOFfS7Wc=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Ultra.ini",
+        "Name": "Ultra.ini",
+        "Size": 911,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Ultra.ini",
+          "GameVersion": "1.6.342.0",
+          "Hash": "joAkOFfS7Wc="
         }
       }
     },
@@ -155,6 +449,27 @@
           "ModID": 12466,
           "Name": "Audio Overhaul for Skyrim SE",
           "Version": "3.3.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LByVtHpLlEk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=12466\nfileID=78804",
+        "Name": "Weather Patch for Obsidian Weathers and Seasons-12466-3-1-2-1547849664.7z",
+        "Size": 4856,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "David Jegutidse",
+          "Description": "AOS is an extensive sound overhaul aiming to make the soundscape more immersive, responsive, and ultimately fun. Ambiance, weapons, magic, movement, reverb system, sound propagation, creatures, and the whole mix are key areas of change.",
+          "FileID": 78804,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/12466/12466-1569391544-568892773.png",
+          "IsNSFW": false,
+          "ModID": 12466,
+          "Name": "Audio Overhaul for Skyrim SE",
+          "Version": "RELZ"
         }
       }
     },
@@ -413,27 +728,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HP9iiHc5h/Q=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=56123\nfileID=240339",
-        "Name": "CoMAP-56123-3-1-2-1636559864.7z",
-        "Size": 5430873,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Jelidity and Parapets",
-          "Description": "CoMAP is an SKSE based framework that allows the adding of custom map/compass marker designs, editing marker discovery music and changing marker assignments without any need for an esp. Ships with a large variety of built in marker types for you to use and premade config files for various mods.",
-          "FileID": 240339,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56123/56123-1633296446-147092038.png",
-          "IsNSFW": false,
-          "ModID": 56123,
-          "Name": "CoMAP - Common Marker Addon Project",
-          "Version": "3.1.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "yHaTzy69Olg=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=50202\nfileID=205659",
         "Name": "Convenient Reading-50202-1-1-1622046204.zip",
@@ -575,27 +869,6 @@
           "ModID": 51310,
           "Name": "Dragon War - A Dragon Overhaul",
           "Version": "1.1.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "v6fl6XKxiBI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=25287\nfileID=114762",
-        "Name": "Dragonborn Presence-25287-1-0-5-1575125851 (1).7z",
-        "Size": 208329,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Fozar",
-          "Description": "Dragonborn Presence is Discord Rich Presence SKSE plugin for Skyrim Special Edition and Skyrim VR.",
-          "FileID": 114762,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/25287/25287-1556037686-218054129.png",
-          "IsNSFW": false,
-          "ModID": 25287,
-          "Name": "Dragonborn Presence - Discord Rich Presence",
-          "Version": "1.0.5.0"
         }
       }
     },
@@ -1367,6 +1640,48 @@
           "ModID": 2482,
           "Name": "NPC\u0027s Run and Walk at Your Pace",
           "Version": "f1.00"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wO3tBLPCBcI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=12125\nfileID=202527",
+        "Name": "Obsidian Weathers - 1.07a-12125-1-07a-1620568126.zip",
+        "Size": 2291553,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dr Mega Arindel",
+          "Description": "Sharp, ominous, and atmospheric weathers that accentuate proximal detail while obscuring distant landscapes with mysterious fogs. Obsidian Weathers and Seasons is a collaborative work by the authors of Dolomite and Rustic Weathers; a hybridization of artistic styles that glorifies Skyrim for her beauty while preserving her dated modesty.",
+          "FileID": 202527,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/12125-2-1511239520.png",
+          "IsNSFW": false,
+          "ModID": 12125,
+          "Name": "Obsidian Weathers and Seasons",
+          "Version": "f1.07a"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xRYpgFBQ3Nc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20209\nfileID=67580",
+        "Name": "Obsidian Weathers and Seasons MCM Patch ESP-20209-1-2-0.zip",
+        "Size": 628,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ryan",
+          "Description": "This mod adds a functional MCM to Obsidian Weathers and Seasons",
+          "FileID": 67580,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20209/20209-1538094382-458471461.png",
+          "IsNSFW": false,
+          "ModID": 20209,
+          "Name": "Obsidian Weathers and Seasons MCM Patch",
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -2297,14 +2612,245 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yma1dX2E2wA=",
-        "Meta": "[General]\ndirectURL=https://github.com/deorder/mo2-plugins/releases/download/1.1/deorder_plugins-1.1.zip",
-        "Name": "deorder_plugins-1.1.zip",
-        "Size": 25785,
+        "Hash": "dUSNQC77KRY=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Dawnguard.esm",
+        "Name": "Data_Dawnguard.esm",
+        "Size": 25885945,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/deorder/mo2-plugins/releases/download/1.1/deorder_plugins-1.1.zip"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Dawnguard.esm",
+          "GameVersion": "1.6.342.0",
+          "Hash": "dUSNQC77KRY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Yy8RXTAQDOA=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Dragonborn.esm",
+        "Name": "Data_Dragonborn.esm",
+        "Size": 64663913,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Dragonborn.esm",
+          "GameVersion": "1.6.342.0",
+          "Hash": "Yy8RXTAQDOA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VTeJeDgqCJw=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\HearthFires.esm",
+        "Name": "Data_HearthFires.esm",
+        "Size": 3978550,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\HearthFires.esm",
+          "GameVersion": "1.6.342.0",
+          "Hash": "VTeJeDgqCJw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5xD6UEtvt3M=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Animations.bsa",
+        "Name": "Data_Skyrim - Animations.bsa",
+        "Size": 65101236,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Animations.bsa",
+          "GameVersion": "1.6.342.0",
+          "Hash": "5xD6UEtvt3M="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3z2xGhZIbY4=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Interface.bsa",
+        "Name": "Data_Skyrim - Interface.bsa",
+        "Size": 78541040,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Interface.bsa",
+          "GameVersion": "1.6.342.0",
+          "Hash": "3z2xGhZIbY4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oIYZPu4jH2g=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Meshes0.bsa",
+        "Name": "Data_Skyrim - Meshes0.bsa",
+        "Size": 1153090124,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Meshes0.bsa",
+          "GameVersion": "1.6.342.0",
+          "Hash": "oIYZPu4jH2g="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TvzBPkbzJjI=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Meshes1.bsa",
+        "Name": "Data_Skyrim - Meshes1.bsa",
+        "Size": 378853391,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Meshes1.bsa",
+          "GameVersion": "1.6.342.0",
+          "Hash": "TvzBPkbzJjI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iMQDxIASP80=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Misc.bsa",
+        "Name": "Data_Skyrim - Misc.bsa",
+        "Size": 204574260,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Misc.bsa",
+          "GameVersion": "1.6.342.0",
+          "Hash": "iMQDxIASP80="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SwnAPr6pbzg=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Shaders.bsa",
+        "Name": "Data_Skyrim - Shaders.bsa",
+        "Size": 67308970,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Shaders.bsa",
+          "GameVersion": "1.6.342.0",
+          "Hash": "SwnAPr6pbzg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6ILjbi2XOOA=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Sounds.bsa",
+        "Name": "Data_Skyrim - Sounds.bsa",
+        "Size": 1538656059,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Sounds.bsa",
+          "GameVersion": "1.6.342.0",
+          "Hash": "6ILjbi2XOOA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WSW1gqk8QG8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=21166\nfileID=241623",
+        "Name": "upot anniversary edition-21166-v10-1636943358.7z",
+        "Size": 2761567370,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mlbrad aka rogue",
+          "Description": "bethesdas textures optimized for performance without quality loss, credit also goes to bethesda for the game and to the developers of ordenator \u0026amp; DDSopt without which this would not have been possible,  textures for low end pcs now available\n\n\n\ncredit also goes to the creators of octagon \u0026amp; cathedral assets optimizer",
+          "FileID": 241623,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21166/21166-1541972612-1362954261.jpeg",
+          "IsNSFW": false,
+          "ModID": 21166,
+          "Name": "unofficial performance optimized textures AKA (UPOT)",
+          "Version": "10.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2Tmfw2AG/MM=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Voices_en0.bsa",
+        "Name": "Data_Skyrim - Voices_en0.bsa",
+        "Size": 1807969854,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Voices_en0.bsa",
+          "GameVersion": "1.6.342.0",
+          "Hash": "2Tmfw2AG/MM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zJl1CmheETU=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim.esm",
+        "Name": "Data_Skyrim.esm",
+        "Size": 249753479,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim.esm",
+          "GameVersion": "1.6.342.0",
+          "Hash": "zJl1CmheETU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "q/5qq9s66e8=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Update.esm",
+        "Name": "Data_Update.esm",
+        "Size": 18825175,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Update.esm",
+          "GameVersion": "1.6.342.0",
+          "Hash": "q/5qq9s66e8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fiMS7vbbpNE=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Skyrim\\SkyrimPrefs.ini",
+        "Name": "Skyrim_SkyrimPrefs.ini",
+        "Size": 3498,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Skyrim\\SkyrimPrefs.ini",
+          "GameVersion": "1.6.342.0",
+          "Hash": "fiMS7vbbpNE="
         }
       }
     },
@@ -2702,6 +3248,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "l5fmxfOLccs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59655\nfileID=247213",
+        "Name": "Obsidian Weathers and Seasons MCM Patch - Settings Loader-59655-1-0-1638856512.7z",
+        "Size": 3663,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Created from scratch MCM for Obsidian Weathers and Seasons MCM Patch by Fudgyduff to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load, so you don\u0027t have to spend time in MCM again with each game. Localization support. No plugin.",
+          "FileID": 247213,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59655/59655-1638856625-1271983193.png",
+          "IsNSFW": false,
+          "ModID": 59655,
+          "Name": "Obsidian Weathers and Seasons MCM Patch - Settings Loader",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "uq8KT2b+f9A=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=60033\nfileID=248867",
         "Name": "Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar",
@@ -2822,20 +3389,6 @@
           "ModID": 20243,
           "Name": "Serana\u0027s Hood Fix",
           "Version": "3.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "v1aK6iCHYs8=",
-        "Meta": "[General]\ndirectURL=http://skse.silverlock.org/beta/skse64_2_00_20.7z",
-        "Name": "skse64_2_00_20.7z",
-        "Size": 813935,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "http://skse.silverlock.org/beta/skse64_2_00_20.7z"
         }
       }
     },
@@ -3004,6 +3557,22 @@
           "ModID": 54485,
           "Name": "Wiseman303\u0027s Critter Fixes",
           "Version": "f1.06"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3z7MDvy3Dhw=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Video\\BGS_Logo.bik",
+        "Name": "Data_Video_BGS_Logo.bik",
+        "Size": 13835808,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Video\\BGS_Logo.bik",
+          "GameVersion": "1.6.342.0",
+          "Hash": "3z7MDvy3Dhw="
         }
       }
     },
@@ -4650,22 +5219,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "oIYZPu4jH2g=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Meshes0.bsa",
-        "Name": "Data_Skyrim - Meshes0.bsa",
-        "Size": 1153090124,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Meshes0.bsa",
-          "GameVersion": "1.6.342.0",
-          "Hash": "oIYZPu4jH2g="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "MKSXs+3skpI=",
         "Meta": "[General]\ndirectURL=https://www.moddb.com/downloads/start/116934?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads",
         "Name": "Skyrim_Realistic_Overhaul_Part_3.7z",
@@ -4904,22 +5457,6 @@
           "ModID": 37485,
           "Name": "Males Of Skyrim by zzjay  -  with Better Male Feet and High poly hands - SE",
           "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "5xD6UEtvt3M=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Animations.bsa",
-        "Name": "Data_Skyrim - Animations.bsa",
-        "Size": 65101236,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Animations.bsa",
-          "GameVersion": "1.6.342.0",
-          "Hash": "5xD6UEtvt3M="
         }
       }
     },
@@ -5241,21 +5778,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "J9l+KGyoPqw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44283\nfileID=179176",
-        "Name": "Project Clarity - Architecture Half Res-44283-1-0-1610483065.7z",
-        "Size": 1394667810,
+        "Hash": "A9DhqnLlWSA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45286\nfileID=188619",
+        "Name": "Project Clarity - Landscapes Half Res-45286-1-3-1614542418.7z",
+        "Size": 652356029,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Iconic",
-          "Description": "Upscaled architecture textures",
-          "FileID": 179176,
+          "Description": "Upscaled landscape and flora textures",
+          "FileID": 188619,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44283/44283-1610478958-1411452358.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45286/45286-1612463302-1641055471.png",
           "IsNSFW": false,
-          "ModID": 44283,
-          "Name": "Project Clarity - Architecture Textures Redone",
-          "Version": "1.0.0.0"
+          "ModID": 45286,
+          "Name": "Project Clarity - Landscape Textures Redone",
+          "Version": "1.3.0.0"
         }
       }
     },
@@ -5298,6 +5835,27 @@
           "ModID": 42859,
           "Name": "Project Clarity - Vanilla Clothing And Jewelry Textures Redone",
           "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5o3vOt4JJwc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42756\nfileID=190354",
+        "Name": "Project Clarity - Effects Half Res-42756-2-4-1615256606.7z",
+        "Size": 399078741,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "High resolution AI up-scaled effects textures, for every single effect",
+          "FileID": 190354,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42756/42756-1606331284-1361885254.png",
+          "IsNSFW": false,
+          "ModID": 42756,
+          "Name": "Project Clarity - Effects Textures Redone",
+          "Version": "2.4.0.0"
         }
       }
     },
@@ -5388,27 +5946,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5o3vOt4JJwc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42756\nfileID=190354",
-        "Name": "Project Clarity - Effects Half Res-42756-2-4-1615256606.7z",
-        "Size": 399078741,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "High resolution AI up-scaled effects textures, for every single effect",
-          "FileID": 190354,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42756/42756-1606331284-1361885254.png",
-          "IsNSFW": false,
-          "ModID": 42756,
-          "Name": "Project Clarity - Effects Textures Redone",
-          "Version": "2.4.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "PcjV818C0vA=",
         "Meta": "[General]\ndirectURL=https://www.moddb.com/downloads/start/116891?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads",
         "Name": "Skyrim_Realistic_Overhaul_Part_1.7z",
@@ -5435,6 +5972,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "J9l+KGyoPqw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44283\nfileID=179176",
+        "Name": "Project Clarity - Architecture Half Res-44283-1-0-1610483065.7z",
+        "Size": 1394667810,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "Upscaled architecture textures",
+          "FileID": 179176,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44283/44283-1610478958-1411452358.png",
+          "IsNSFW": false,
+          "ModID": 44283,
+          "Name": "Project Clarity - Architecture Textures Redone",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "S11NxswdIvo=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=45135\nfileID=183362",
         "Name": "Project Clarity - Dungeons Half Res-45135-1-0-1612196348.7z",
@@ -5450,27 +6008,6 @@
           "ModID": 45135,
           "Name": "Project Clarity - Dungeon Textures Redone",
           "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "A9DhqnLlWSA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45286\nfileID=188619",
-        "Name": "Project Clarity - Landscapes Half Res-45286-1-3-1614542418.7z",
-        "Size": 652356029,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "Upscaled landscape and flora textures",
-          "FileID": 188619,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45286/45286-1612463302-1641055471.png",
-          "IsNSFW": false,
-          "ModID": 45286,
-          "Name": "Project Clarity - Landscape Textures Redone",
-          "Version": "1.3.0.0"
         }
       }
     }
