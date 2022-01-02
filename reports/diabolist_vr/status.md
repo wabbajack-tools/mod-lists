@@ -40,7 +40,7 @@
 *  [Armor Variants Expansion Improved closefaced helmets Add-on-34100-2-0-1589724581.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34100/?tab=files&file_id=140461)
 *  [Armor Variants Expansion-34100-2-0-1589724219.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34100/?tab=files&file_id=140458)
 *  [Ashien's Cursed Rings v1.02 Standalone-64530-1-02.rar](https://www.nexusmods.com/skyrim/mods/64530/?tab=files&file_id=1000156217)
-*  [Assorted Mesh Fixes-32117-0-41-1640689381.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=252204)
+*  [Assorted Mesh Fixes-32117-0-41-1-1641136506.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=253359)
 *  [Astral Aspect - 4K - 2.0-18098-2-0-1626523748.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18098/?tab=files&file_id=215061)
 *  [Aureil's Sunlight-44903-1-1611762741.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44903/?tab=files&file_id=182178)
 *  [AVE-Hide normal fix-34100-2-1-1612912474.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34100/?tab=files&file_id=185026)
