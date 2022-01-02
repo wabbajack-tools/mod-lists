@@ -121,7 +121,7 @@
 *  [Please Remember My Birthday 1.0.7-6525-1-0-7-1630485332.zip](https://www.nexusmods.com/stardewvalley/mods/6525/?tab=files&file_id=44671)
 *  [Prepare For New Day-7638-1-0-1-1611076392.zip](https://www.nexusmods.com/stardewvalley/mods/7638/?tab=files&file_id=36145)
 *  [ProducerFrameworkMod-v1.7.3-4970-1-7-3-1617605123.zip](https://www.nexusmods.com/stardewvalley/mods/4970/?tab=files&file_id=40110)
-*  [Professor Jasper Thomas Updated for East Scarp 2.0-5599-1-5-0-1635583602.zip](https://www.nexusmods.com/stardewvalley/mods/5599/?tab=files&file_id=46620)
+*  [Professor Jasper Thomas-5599-1-3-5-1630972408.zip](https://www.nexusmods.com/stardewvalley/mods/5599/?tab=files&file_id=44957)
 *  [PyTK - Platonymous Toolkit-1726-1-22-8-1627473393.zip](https://www.nexusmods.com/stardewvalley/mods/1726/?tab=files&file_id=43423)
 *  [Quest Framework 1.4.0-6414-1-4-0-1632131315.zip](https://www.nexusmods.com/stardewvalley/mods/6414/?tab=files&file_id=45471)
 *  [Ranch Expansion-5070-1-5-1-1640714154.zip](https://www.nexusmods.com/stardewvalley/mods/5070/?tab=files&file_id=48602)
