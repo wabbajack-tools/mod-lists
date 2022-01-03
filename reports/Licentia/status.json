@@ -10647,7 +10647,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Updated",
       "Original": {
         "Hash": "ZbBsIgkzJzA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=17209\nfileID=54347",
@@ -10665,7 +10665,26 @@
           "Name": "OSex",
           "Version": "0.0.0.0"
         }
-      }
+      },
+      "PatchedFrom": {
+        "Hash": "P5K8VamH4oI=",
+        "Meta": "",
+        "Name": "OSex Vanilla AE-17209-00-00-0000-1641143330.zip",
+        "Size": 7678616,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 253389,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 17209,
+          "Name": null,
+          "Version": null
+        }
+      },
+      "PatchUrl": "https://patches.wabbajack.org/65b06c2209332730_3f92bc55a987e282"
     },
     {
       "Status": "Valid",
@@ -16740,6 +16759,6 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1
+  "Status": "Available",
+  "Failures": 0
 }

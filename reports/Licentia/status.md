@@ -1,9 +1,9 @@
 ## Validation Report - Licentia (Licentia)
 
 
-### Invalid (1)
+### Invalid (0)
+### Updated (1)
 *  [OSex-17209-2-02SE-Alpha.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17209/?tab=files&file_id=54347)
-### Updated (0)
 ### Mirrored (0)
 ### Valid (807)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
