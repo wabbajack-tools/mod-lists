@@ -90,7 +90,7 @@
 *  [Duct Tape-42551-.7z](https://www.nexusmods.com/newvegas/mods/42551/?tab=files&file_id=1000040154)
 *  [DWA kNVSE update 0.2.6b-69403-0-2-6b-1635618151.zip](https://www.nexusmods.com/newvegas/mods/69403/?tab=files&file_id=1000083316)
 *  [Economy Overhaul - FO3E INI-62899-3-0-0-1615483961.zip](https://www.nexusmods.com/newvegas/mods/62899/?tab=files&file_id=1000073251)
-*  [Economy Overhaul-62899-3-0-2-1615585700.zip](https://www.nexusmods.com/newvegas/mods/62899/?tab=files&file_id=1000073340)
+*  [Economy Overhaul-62899-3-0-3-1641225626.7z](https://www.nexusmods.com/newvegas/mods/62899/?tab=files&file_id=1000085883)
 *  [El Dorado Substation trusts an idolized Courier.zip](https://www.nexusmods.com/newvegas/mods/74228/?tab=files&file_id=1000083268)
 *  [Ending-Based DLC Integration-70320-2-1-1640210899.zip](https://www.nexusmods.com/newvegas/mods/70320/?tab=files&file_id=1000085445)
 *  [Essential DLC Enhancements-73803-1-1-0-1634378109.7z](https://www.nexusmods.com/newvegas/mods/73803/?tab=files&file_id=1000082594)
