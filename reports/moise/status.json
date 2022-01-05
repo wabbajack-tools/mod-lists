@@ -2,7 +2,7 @@
   "MachineURL": "moise",
   "Name": "MOISE",
   "Version": "1.2.6",
-  "ModListHash": "Fqx/DUdZF4A=",
+  "ModListHash": "+3qagEvQ0ZA=",
   "Archives": [
     {
       "Status": "Valid",
@@ -73,6 +73,22 @@
           "ModID": 19510,
           "Name": "Morrowind Code Patch",
           "Version": "2.4.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pFPJ9f2pE/g=",
+        "Meta": "[General]\ngameName=Morrowind\ngameFile=Morrowind.ini",
+        "Name": "Morrowind.ini",
+        "Size": 26797,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Morrowind",
+          "GameFile": "Morrowind.ini",
+          "GameVersion": "1.6.1820",
+          "Hash": "pFPJ9f2pE/g="
         }
       }
     },
@@ -837,27 +853,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/ziKbvnJiLA=",
-        "Meta": "[General]\ngameName=morrowind\nmodID=46533\nfileID=1000014041",
-        "Name": "Dark Brotherhood Delay - Player\u0027s Choice ENGLISH-46533-V1-01-1555620603.7z",
-        "Size": 2576,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RubberMan",
-          "Description": "Available in 3 languages. Provides the player with an extra menu on the character creation with alternative options of when to start the DarkBrotherhood attacks.",
-          "FileID": 1000014041,
-          "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46533/46533-1554900822-9826622.png",
-          "IsNSFW": false,
-          "ModID": 46533,
-          "Name": "Dark Brotherhood Delay - Player\u0027s Choice",
-          "Version": "f1.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "OteZ1HPyTC0=",
         "Meta": "[General]\ngameName=morrowind\nmodID=43418\nfileID=1000003212",
         "Name": "DNWeaponsComplete.zip-43418-1-0.zip",
@@ -873,6 +868,27 @@
           "ModID": 43418,
           "Name": "Darknut\u0027s Little Weapons Mod Complete",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WeQkJK00HH8=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=14891\nfileID=1000004310",
+        "Name": "DelayedDBAttacksTest-14891-2-1.zip",
+        "Size": 1686,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kir",
+          "Description": "Based on original Avenger\u0027s Delayed DB Attack. Makes Tribunal main quest start only after significant progress in MW main quest. Optimized for performance.",
+          "FileID": 1000004310,
+          "GameName": "Morrowind",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 14891,
+          "Name": "Delayed DB Attack V2",
+          "Version": "2.1.0.0"
         }
       }
     },
@@ -1607,7 +1623,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "MOP Team",
-          "Description": "Greatly improves performance and fixes some mesh errors.",
+          "Description": "Greatly improves performance and fixes tons of mesh errors.",
           "FileID": 1000015768,
           "GameName": "Morrowind",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/45384-5-1514396528.jpg",
@@ -1964,7 +1980,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cdcooley",
-          "Description": "Do you tire of the tedious tutorial messages whenever you start a new game?  Then this may be for you.  When starting a new game you will be given a choice of three ways to start the game:\r\n\r\nTutorials -- the normal sequence with tutorials\r\nSkip Tutorials -- the normal sequence without the tutorials and delays\r\nQuick Start    -- choose name, race, ",
+          "Description": "Do you tire of the tedious tutorial messages whenever you start a new game?  Then this may be for you.  When starting a new game you will be given a choice of three ways to start the game:\n\n\n\nTutorials -- the normal sequence with tutorials\n\nSkip Tutorials -- the normal sequence without the tutorials and delays\n\nQuick Start    -- cho",
           "FileID": 48807,
           "GameName": "Morrowind",
           "ImageURL": null,
@@ -2030,7 +2046,7 @@
           "Description": "Changes the text for virtually every scroll in the game.",
           "FileID": 1000004832,
           "GameName": "Morrowind",
-          "ImageURL": null,
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/42936/42936-1617078848-711522772.jpeg",
           "IsNSFW": false,
           "ModID": 42936,
           "Name": "Spell Scroll Text Overhaul",
@@ -2545,6 +2561,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "tsbnldZzHkg=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=3874\nfileID=3240",
+        "Name": "TESPCD Plugin Conflict Detector-3874.zip",
+        "Size": 326482,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "",
+          "Description": "Updated Info:\r\n\r\nLooking in the Utilities, I noticed there is another copy of this program. I believe the other version of this program is an older version. Unfortanetly, \\\u0022Unknown\\\u0022 did not leave a version number to check, but by judging by size of the program, usually the newer one is larger.  Of course, I leave this to your discretion.\r\n\r\nTo",
+          "FileID": 3240,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/3874-1-1195097396.jpg",
+          "IsNSFW": false,
+          "ModID": 3874,
+          "Name": "TESPCD Plugin Conflict Detector",
+          "Version": ""
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "NdnywVC9JXA=",
         "Meta": "[General]\ngameName=morrowind\nmodID=46445\nfileID=1000013701",
         "Name": "Aesthesia Strongholds 2k-46445-1-1552479237.7z",
@@ -3038,7 +3075,7 @@
           "Description": "Replaces the misc_lantern_paper textures with higher resolution ones.",
           "FileID": 1000004314,
           "GameName": "Morrowind",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/43837-3-1442375957.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/43837/43837-1600565176-262053881.jpeg",
           "IsNSFW": false,
           "ModID": 43837,
           "Name": "EKM Vanilla-Based Paper Lanterns",
@@ -3902,7 +3939,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46104/46104-1539947392-1988581858.jpeg",
           "IsNSFW": false,
           "ModID": 46104,
-          "Name": "Correct UV Rrocks",
+          "Name": "Correct UV Rocks",
           "Version": "1.5.0.0"
         }
       }

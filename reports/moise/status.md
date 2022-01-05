@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (208)
+### Valid (210)
 *  [-Pluginless Khajiit Head Pack--43110-1-0.7z](https://www.nexusmods.com/morrowind/mods/43110/?tab=files&file_id=1000002478)
 *  [16x10 Version-39329-1.zip](https://www.nexusmods.com/morrowind/mods/39329/?tab=files&file_id=81982)
 *  [16x9 Version-39329-v1-0.zip](https://www.nexusmods.com/morrowind/mods/39329/?tab=files&file_id=81971)
@@ -54,7 +54,6 @@
 *  [Crabmeat ingredient replacer-43387-1-0.7z](https://www.nexusmods.com/morrowind/mods/43387/?tab=files&file_id=1000003220)
 *  [Daedric Lord Armor Face of God-45037-1-1a.7z](https://www.nexusmods.com/morrowind/mods/45037/?tab=files&file_id=1000008129)
 *  [Daedric Lord Armor Morrowind Edition-44081-1-03-1541699966.7z](https://www.nexusmods.com/morrowind/mods/44081/?tab=files&file_id=1000012484)
-*  [Dark Brotherhood Delay - Player's Choice ENGLISH-46533-V1-01-1555620603.7z](https://www.nexusmods.com/morrowind/mods/46533/?tab=files&file_id=1000014041)
 *  [Darker Crates-42453-.7z](https://www.nexusmods.com/morrowind/mods/42453/?tab=files&file_id=1000000225)
 *  [Darknut's Better Clothes Textures-43423-1-0.7z](https://www.nexusmods.com/morrowind/mods/43423/?tab=files&file_id=1000003217)
 *  [Darknut's Creature Texture addendum-43441-1-0.zip](https://www.nexusmods.com/morrowind/mods/43441/?tab=files&file_id=1000003270)
@@ -65,6 +64,7 @@
 *  Data Files_Morrowind.bsa
 *  Data Files_Tribunal.bsa
 *  [Deadric Ruins -39125-3-1.zip](https://www.nexusmods.com/morrowind/mods/39125/?tab=files&file_id=1000000215)
+*  [DelayedDBAttacksTest-14891-2-1.zip](https://www.nexusmods.com/morrowind/mods/14891/?tab=files&file_id=1000004310)
 *  [Detailed Brooms_1.0-43528-1-0.rar](https://www.nexusmods.com/morrowind/mods/43528/?tab=files&file_id=1000004122)
 *  [Djangos Dialogue 1.42-47253-1-42-1592244472.zip](https://www.nexusmods.com/morrowind/mods/47253/?tab=files&file_id=1000019280)
 *  [DjangosDialogue1_3-37328-1-3.zip](https://www.nexusmods.com/morrowind/mods/37328/?tab=files&file_id=1000000939)
@@ -133,6 +133,7 @@
 *  [Morrowind Better Blood-33426.7z](https://www.nexusmods.com/morrowind/mods/33426/?tab=files&file_id=64860)
 *  [Morrowind Code Patch-19510-2-4.7z](https://www.nexusmods.com/morrowind/mods/19510/?tab=files&file_id=1000007846)
 *  [Morrowind Optimization Patch-45384-8-0-1568378230.7z](https://www.nexusmods.com/morrowind/mods/45384/?tab=files&file_id=1000015768)
+*  Morrowind.ini
 *  [Mournhold LOD V1.0-43255-1-0.zip](https://www.nexusmods.com/morrowind/mods/43255/?tab=files&file_id=1000002824)
 *  [MWSE-Update for Nightly Builds-45468-nightly-builds-1624232443.zip](https://www.nexusmods.com/morrowind/mods/45468/?tab=files&file_id=1000025607)
 *  [NastierCtong12-22601.rar](https://www.nexusmods.com/morrowind/mods/22601/?tab=files&file_id=43788)
@@ -181,6 +182,7 @@
 *  [Telvanni - Arkitektora of Vvardenfell HQ - Bump Maps - Missing Glow Maps-43795-1-1555671296.7z](https://www.nexusmods.com/morrowind/mods/43795/?tab=files&file_id=1000014047)
 *  [Telvanni Fireplace Replacer-43232-1-0.rar](https://www.nexusmods.com/morrowind/mods/43232/?tab=files&file_id=1000002782)
 *  [TelvanniMeshImprovement1-2-1.zip-42343-1-2-1.zip](https://www.nexusmods.com/morrowind/mods/42343/?tab=files&file_id=1000012022)
+*  [TESPCD Plugin Conflict Detector-3874.zip](https://www.nexusmods.com/morrowind/mods/3874/?tab=files&file_id=3240)
 *  [Texture Fix - Extended-46018-1-2-1565558085.7z](https://www.nexusmods.com/morrowind/mods/46018/?tab=files&file_id=1000015400)
 *  [Texture Fix 2.0.7z](https://www.dropbox.com/sh/7fv2wojbp6y3uo9/AAAJJNHGtbsISsob7Uz_N4FNa/Texture Fix 2.0.7z?dl=1)
 *  [Texture_Fix__Bloodmoon_1.1.7z](https://www.dropbox.com/sh/7fv2wojbp6y3uo9/AABdOQ5DflPDV3wb4bMx_snla/Texture_Fix__Bloodmoon_1.1.7z?dl=1)
