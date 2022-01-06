@@ -396,14 +396,14 @@ Welcome to DVR... More Monsters, More Loot!
 
 **_Mods to get familiar with:_**
 
-[VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)  
-[HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)  
-[Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630)
-[VR Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/38539)  
-[Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374)  
-[Be Seated](https://www.nexusmods.com/skyrimspecialedition/mods/16613)
-[Nethers Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653)
-[Fine-Tuned Challange](https://www.nexusmods.com/skyrimspecialedition/mods/26889)
+[VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)    
+[HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)    
+[Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630)    
+[VR Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/38539)    
+[Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374)    
+[Be Seated](https://www.nexusmods.com/skyrimspecialedition/mods/16613)    
+[Nethers Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653)    
+[Fine-Tuned Challange](https://www.nexusmods.com/skyrimspecialedition/mods/26889)    
 
 ## Fallout 4 VR
 
