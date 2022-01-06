@@ -1,10 +1,10 @@
 ## Validation Report - Life in the Ruins (life_in_the_ruins)
 
 
-### Invalid (1)
-*  [enbseries_fallout4_v0461.zip](http://enbdev.com/enbseries_fallout4_v0461.zip)
+### Invalid (0)
 ### Updated (0)
-### Mirrored (0)
+### Mirrored (1)
+*  [enbseries_fallout4_v0461.zip](http://enbdev.com/enbseries_fallout4_v0461.zip)
 ### Valid (551)
 *  [1_Resized 10mm Pistol Reworked-55890-1-3-1638403499.rar](https://www.nexusmods.com/fallout4/mods/55890/?tab=files&file_id=222794)
 *  [10mm SMG-22223-1-2.rar](https://www.nexusmods.com/fallout4/mods/22223/?tab=files&file_id=100700)

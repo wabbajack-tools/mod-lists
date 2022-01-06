@@ -166,5 +166,31 @@
         "Url": "https://mirror.wabbajack.org/4bcec096b3acbec6"
       }
     }
+  },
+  {
+    "Status": "Mirrored",
+    "Original": {
+      "Hash": "7RvFtTRVpPI=",
+      "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_fallout4_v0461.zip\ndirectURLHeaders=Referer:http://enbdev.com/mod_fallout4_v0461.htm",
+      "Name": "enbseries_fallout4_v0461.zip",
+      "Size": 2907937,
+      "State": {
+        "$type": "HttpDownloader, Wabbajack.Lib",
+        "Headers": [
+          "Referer:http://enbdev.com/mod_fallout4_v0461.htm"
+        ],
+        "Url": "http://enbdev.com/enbseries_fallout4_v0461.zip"
+      }
+    },
+    "PatchedFrom": {
+      "Hash": "7RvFtTRVpPI=",
+      "Meta": "",
+      "Name": "enbseries_fallout4_v0461.zip",
+      "Size": 2907937,
+      "State": {
+        "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+        "Url": "https://mirror.wabbajack.org/ed1bc5b53455a4f2"
+      }
+    }
   }
 ]
