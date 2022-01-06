@@ -390,7 +390,7 @@ Auriel's Dream is a warm welcome into modded SkyrimVR. The focus is mostly on st
 
 ### [Diabolist VR](https://github.com/ex0-tekk/Diabolist-VR/blob/main/Readme.md)
 
-Diabolist VR pays homage to the hack'n'slash loot hoarding ARPG of the late 90s, by adding 7 Diablo inspired mods, 67 additional dungeons, 100's of unique monsters, complete with a generous 3 tier loot system. Most creatures are randomly generated and respawn often for variation and you can adjust the Fine-Tuned Challange MCM settings to change overall difficulty. During development and testing I focused heavily on optimizing DVR, via performance tools, mod settings, ini settings and using low DynDOLOD 3 @ 512k res with xLodGen Occlusion and it should run very well on many HMD/PC configurations.
+Diabolist VR pays homage to the hack'n'slash loot hoarding ARPG of the late 90s, by adding 7 Diablo inspired mods, 67 additional dungeons, 100's of unique monsters, complete with a generous 3 tier loot system. Most creatures are randomly generated and respawn often for variation and you can adjust the Fine-Tuned Challange MCM settings to change overall difficulty. Optimizing DVR during development and testing was paramount and achieved via performance tools, mods, ini settings and using hybrid 3D trees with DynDOLOD 3 (low) @ 512k res, along with xLodGen Occlusion, this modlist should run very well on many HMD/PC configurations, with top notch visuals.
 
 Welcome to DVR... More Monsters, More Loot!
 
