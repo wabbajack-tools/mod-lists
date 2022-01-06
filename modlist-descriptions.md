@@ -31,6 +31,7 @@
   - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr-1)
   - [Narsil](#narsil)
   - [Auriel's Dream](#auriels-dream)
+  - [Diabolist VR](#diabolist-vr)
 - [Fallout 4 VR](#fallout-4-vr)
   - [Fallout 4 VR Essentials Overhaul](#fallout-4-vr-essentials-overhaul)
 - [Fallout New Vegas](#fallout-new-vegas)
@@ -384,6 +385,25 @@ Auriel's Dream is a warm welcome into modded SkyrimVR. The focus is mostly on st
 [VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)  
 [HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)  
 [Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630)  
+
+***
+
+### [Diabolist VR](https://github.com/ex0-tekk/Diabolist-VR/blob/main/Readme.md)
+
+Diabolist VR pays homage to the hack'n'slash loot hoarding ARPG of the late 90s, by adding 7 Diablo inspired mods, 67 additional dungeons, 100's of unique monsters, complete with a generous 3 tier loot system. Most creatures are randomly generated and respawn often for variation and you can adjust the Fine-Tuned Challange MCM settings to change overall difficulty. During development and testing I focused heavily on optimizing DVR, via performance tools, mod settings, ini settings and using low DynDOLOD 3 @ 512k res with xLodGen Occlusion and it should run very well on many HMD/PC configurations.
+
+Welcome to DVR... More Monsters, More Loot!
+
+**_Mods to get familiar with:_**
+
+[VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)  
+[HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)  
+[Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630)
+[VR Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/38539)  
+[Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374)  
+[Be Seated](https://www.nexusmods.com/skyrimspecialedition/mods/16613)
+[Nethers Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653)
+[Fine-Tuned Challange](https://www.nexusmods.com/skyrimspecialedition/mods/26889)
 
 ## Fallout 4 VR
 
