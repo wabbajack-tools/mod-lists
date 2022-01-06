@@ -1,3 +1,5 @@
+# Skyrim SE/AE Modlist Info
+
 List of versions that each Wabbajack SkyrimSE requires and if it uses Stock Game or not.
 
 Modlist                        | Version Required | Stock Game
