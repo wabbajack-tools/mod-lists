@@ -24,3 +24,4 @@ Streamlined Skyrim             | 1.6.342          | Stock Game
 Licentia                       | 1.6.342          | Stock Game
 Librum SE                      | 1.6.342          | Stock Game
 Tsukiro                        | 1.6.342          | Stock Game
+Wildlander                     | 1.6.353          | Stock Game
