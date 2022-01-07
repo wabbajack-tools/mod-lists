@@ -1,8 +1,8 @@
 {
   "MachineURL": "diabolist_vr",
   "Name": "Diabolist VR",
-  "Version": "2.8.6",
-  "ModListHash": "rwAPq0tsLco=",
+  "Version": "2.8.7",
+  "ModListHash": "3tUXiS98FMQ=",
   "Archives": [
     {
       "Status": "Valid",
@@ -1411,14 +1411,14 @@
         "Size": 118528,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ic0nic0de",
+          "Author": "K1ngTr4cker",
           "Description": "Complete MCM quest tracking of Skyrim, official DLC, Creation Club (Including Anniversary Edition) and a whole boat load of popular quest mods available here on the Nexus!",
           "FileID": 245311,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46358/46358-1638112245-1234890184.png",
           "IsNSFW": false,
           "ModID": 46358,
-          "Name": "Completionist - Quest Tracker (SE-AE)",
+          "Name": "Completionist - Skyrim Completion Tracker (SE-AE)",
           "Version": "3.5.0.0c"
         }
       }
@@ -2888,7 +2888,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43930/43930-1609640985-1855858433.jpeg",
           "IsNSFW": false,
           "ModID": 43930,
-          "Name": "HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR",
+          "Name": "HIGGS - Enhanced VR Interaction",
           "Version": "1.4.6.0"
         }
       }
@@ -5059,6 +5059,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "uBW8pN2I/GA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=23416\nfileID=118293",
+        "Name": "VRIK Rift-Index-WMR Controller Bindings V2.1.0-23416-V2-1-0-1577940412.7z",
+        "Size": 547830,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "prog",
+          "Description": "VRIK will display the player character\u0027s body in SkyrimVR and animate it to match your movements.  Weapons can be kept, drawn, and sheathed in up to 14 visible holsters on your body.  An input gesture system allows users to bind actions to gestures on each hand, reducing the need to open menus.  An MCM menu allows full configuration of everything.",
+          "FileID": 118293,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23416/23416-1550100888-1590315308.jpeg",
+          "IsNSFW": false,
+          "ModID": 23416,
+          "Name": "VRIK Player Avatar",
+          "Version": "2.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "FJEzuFawJL4=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=25710\nfileID=92124",
         "Name": "Ring of Extra Carry-25710-2-0-1557783783.7z",
@@ -6801,13 +6822,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Crithion",
-          "Description": "Removes the bethesda logo from the main menu in VR (you only get this bug if you disable the VR Playroom)",
+          "Description": "Removes the bethesda logo from the main menu in VR (you only get this bug if you disable the VR Playroom) and many distracting HUD elements.",
           "FileID": 219953,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53524/53524-1628516630-428527580.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53524/53524-1641323670-276411984.png",
           "IsNSFW": false,
           "ModID": 53524,
-          "Name": "Clean Menu - VR Edition",
+          "Name": "Unobtrusive UI for VR",
           "Version": "0.0.0.0"
         }
       }
@@ -8865,7 +8886,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tommas666",
-          "Description": "Fixes XPMSSE script where it can\u0027t find the correct animation groups causing Papyrus Stack errors, when using ONLY Nemesis, without FNIS.",
+          "Description": "Fixes XPMSSE script where it can\u0027t find the correct animation groups causing Papyrus Stack errors, when using Nemesis.",
           "FileID": 250345,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60363/60363-1639931203-351687902.png",
@@ -9189,21 +9210,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "gkfskhG3SGc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=21224\nfileID=252639",
-        "Name": "CBPC - Fomod installer - MAIN FILE-21224-1-4-10-1640866243.rar",
-        "Size": 38634267,
+        "Hash": "Ea+wCuvoadg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=21224\nfileID=253644",
+        "Name": "CBPC - Fomod installer - MAIN FILE-21224-1-4-11-1641220143.rar",
+        "Size": 38576442,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Shizof",
           "Description": "CBPC - Physics with Collisions for SSE and VR. \n\nBreast-Butt-Belly-Vagina collisions that work out of the box. Player VR Hands and Weapons collisions with them for the VR version.",
-          "FileID": 252639,
+          "FileID": 253644,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21224/21224-1542146879-1527686583.jpeg",
           "IsNSFW": true,
           "ModID": 21224,
           "Name": "CBPC - Physics with Collisions for SSE and VR",
-          "Version": "1.4.10.0"
+          "Version": "1.4.11.0"
         }
       }
     },
@@ -9602,21 +9623,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "F6u9gjKcsE4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53957\nfileID=241462",
-        "Name": "Flickering Meshes Fix-53957-1-7-1636900784.zip",
-        "Size": 44059426,
+        "Hash": "lziQS/yzPLk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53957\nfileID=253905",
+        "Name": "Flickering Meshes Fix-53957-1-8-1641313691.zip",
+        "Size": 50747080,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "nicola89b and gururaj20000",
           "Description": "This mod fix some visual flickering problem in certain zones of Skyrim.",
-          "FileID": 241462,
+          "FileID": 253905,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53957/53957-1629156819-359372036.png",
           "IsNSFW": false,
           "ModID": 53957,
           "Name": "Flickering Meshes Fix",
-          "Version": "0.0.0.0"
+          "Version": "1.8.0.0"
         }
       }
     },
