@@ -1,4 +1,4 @@
 # Website
 
-The Website to Wildlander can be found [here](https://www.wildlandermod.com/)
+The Website of Wildlander can be found [here](https://www.wildlandermod.com/).
 
