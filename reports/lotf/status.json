@@ -1,8 +1,8 @@
 {
   "MachineURL": "lotf",
   "Name": "Legends of the Frost",
-  "Version": "2.0.1",
-  "ModListHash": "7nJAIFbPmQU=",
+  "Version": "2.1",
+  "ModListHash": "FKv9Ij9yjT8=",
   "Archives": [
     {
       "Status": "Valid",
@@ -63,6 +63,20 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "m2SyP5Dy6VM=",
+        "Meta": "[General]\ndirectURL=https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LootPreventifier.zip",
+        "Name": "LootPreventifier.zip",
+        "Size": 793,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LootPreventifier.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "wwYDXqpkrNE=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=bink2w64.dll",
         "Name": "bink2w64.dll",
@@ -71,7 +85,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "bink2w64.dll",
-          "GameVersion": "1.6.342.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "wwYDXqpkrNE="
         }
       }
@@ -184,7 +198,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "High.ini",
-          "GameVersion": "1.6.342.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "ia6Y2mEquMg="
         }
       }
@@ -200,7 +214,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "installscript.vdf",
-          "GameVersion": "1.6.342.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "M9LtyeAVtQE="
         }
       }
@@ -216,7 +230,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Low.ini",
-          "GameVersion": "1.6.342.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "O5kJ576V0KY="
         }
       }
@@ -232,29 +246,8 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Medium.ini",
-          "GameVersion": "1.6.342.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "tBVeSwhhyNk="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "HP9iiHc5h/Q=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=56123\nfileID=240339",
-        "Name": "CoMAP-56123-3-1-2-1636559864.7z",
-        "Size": 5430873,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Jelidity and Parapets",
-          "Description": "CoMAP is an SKSE based framework that allows the adding of custom map/compass marker designs, editing marker discovery music and changing marker assignments without any need for an esp. Ships with a large variety of built in marker types for you to use and premade config files for various mods.",
-          "FileID": 240339,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56123/56123-1633296446-147092038.png",
-          "IsNSFW": false,
-          "ModID": 56123,
-          "Name": "CoMAP - Common Marker Addon Project",
-          "Version": "3.1.2.0"
         }
       }
     },
@@ -283,7 +276,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Skyrim.ccc",
-          "GameVersion": "1.6.342.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "Wsq6jhOx4YM="
         }
       }
@@ -291,7 +284,7 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uuCxBZAT5Bk=",
+        "Hash": "L2b/YNPnYDg=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=SkyrimSE.exe",
         "Name": "SkyrimSE.exe",
         "Size": 35410264,
@@ -299,8 +292,8 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "SkyrimSE.exe",
-          "GameVersion": "1.6.342.0",
-          "Hash": "uuCxBZAT5Bk="
+          "GameVersion": "1.6.353.0",
+          "Hash": "L2b/YNPnYDg="
         }
       }
     },
@@ -315,7 +308,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "SkyrimSELauncher.exe",
-          "GameVersion": "1.6.342.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "0bhc8w0adVI="
         }
       }
@@ -331,7 +324,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Skyrim_Default.ini",
-          "GameVersion": "1.6.342.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "JbYP1w8FSfY="
         }
       }
@@ -347,7 +340,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "steam_api64.dll",
-          "GameVersion": "1.6.342.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "XEqXAcAgOQ8="
         }
       }
@@ -363,8 +356,21 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Ultra.ini",
-          "GameVersion": "1.6.342.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "joAkOFfS7Wc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wb5olU2T0Uk=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/MO2 No Sort Button.7z_4d3e4233-a5da-404c-be8a-090bf17c2a17",
+        "Name": "MO2 No Sort Button.7z",
+        "Size": 245,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/MO2%20No%20Sort%20Button.7z_4d3e4233-a5da-404c-be8a-090bf17c2a17"
         }
       }
     },
@@ -722,6 +728,27 @@
           "ModID": 53817,
           "Name": "College of Winterhold Quest Start Fixes",
           "Version": "0.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HP9iiHc5h/Q=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56123\nfileID=240339",
+        "Name": "CoMAP-56123-3-1-2-1636559864.7z",
+        "Size": 5430873,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jelidity and Parapets",
+          "Description": "CoMAP is an SKSE based framework that allows the adding of custom map/compass marker designs, editing marker discovery music and changing marker assignments without any need for an esp. Ships with a large variety of built in marker types for you to use and premade config files for various mods.",
+          "FileID": 240339,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56123/56123-1633296446-147092038.png",
+          "IsNSFW": false,
+          "ModID": 56123,
+          "Name": "CoMAP - Common Marker Addon Project",
+          "Version": "3.1.2.0"
         }
       }
     },
@@ -2612,7 +2639,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dUSNQC77KRY=",
+        "Hash": "yma1dX2E2wA=",
+        "Meta": "[General]\ndirectURL=https://github.com/deorder/mo2-plugins/releases/download/1.1/deorder_plugins-1.1.zip",
+        "Name": "deorder_plugins-1.1.zip",
+        "Size": 25785,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/deorder/mo2-plugins/releases/download/1.1/deorder_plugins-1.1.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "v593yGFgPDo=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Dawnguard.esm",
         "Name": "Data_Dawnguard.esm",
         "Size": 25885945,
@@ -2620,15 +2661,15 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Dawnguard.esm",
-          "GameVersion": "1.6.342.0",
-          "Hash": "dUSNQC77KRY="
+          "GameVersion": "1.6.353.0",
+          "Hash": "v593yGFgPDo="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Yy8RXTAQDOA=",
+        "Hash": "F76LaGyCAJA=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Dragonborn.esm",
         "Name": "Data_Dragonborn.esm",
         "Size": 64663913,
@@ -2636,15 +2677,15 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Dragonborn.esm",
-          "GameVersion": "1.6.342.0",
-          "Hash": "Yy8RXTAQDOA="
+          "GameVersion": "1.6.353.0",
+          "Hash": "F76LaGyCAJA="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VTeJeDgqCJw=",
+        "Hash": "XlKELPX7jog=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\HearthFires.esm",
         "Name": "Data_HearthFires.esm",
         "Size": 3978550,
@@ -2652,8 +2693,8 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\HearthFires.esm",
-          "GameVersion": "1.6.342.0",
-          "Hash": "VTeJeDgqCJw="
+          "GameVersion": "1.6.353.0",
+          "Hash": "XlKELPX7jog="
         }
       }
     },
@@ -2668,24 +2709,8 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Animations.bsa",
-          "GameVersion": "1.6.342.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "5xD6UEtvt3M="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3z2xGhZIbY4=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Interface.bsa",
-        "Name": "Data_Skyrim - Interface.bsa",
-        "Size": 78541040,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Interface.bsa",
-          "GameVersion": "1.6.342.0",
-          "Hash": "3z2xGhZIbY4="
         }
       }
     },
@@ -2700,7 +2725,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Meshes0.bsa",
-          "GameVersion": "1.6.342.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "oIYZPu4jH2g="
         }
       }
@@ -2716,7 +2741,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Meshes1.bsa",
-          "GameVersion": "1.6.342.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "TvzBPkbzJjI="
         }
       }
@@ -2724,7 +2749,7 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "iMQDxIASP80=",
+        "Hash": "7ZEj5ntJZIc=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Misc.bsa",
         "Name": "Data_Skyrim - Misc.bsa",
         "Size": 204574260,
@@ -2732,8 +2757,8 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Misc.bsa",
-          "GameVersion": "1.6.342.0",
-          "Hash": "iMQDxIASP80="
+          "GameVersion": "1.6.353.0",
+          "Hash": "7ZEj5ntJZIc="
         }
       }
     },
@@ -2748,7 +2773,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Shaders.bsa",
-          "GameVersion": "1.6.342.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "SwnAPr6pbzg="
         }
       }
@@ -2764,7 +2789,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Sounds.bsa",
-          "GameVersion": "1.6.342.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "6ILjbi2XOOA="
         }
       }
@@ -2801,7 +2826,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Voices_en0.bsa",
-          "GameVersion": "1.6.342.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "2Tmfw2AG/MM="
         }
       }
@@ -2809,23 +2834,23 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zJl1CmheETU=",
+        "Hash": "oct60LUJHOc=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim.esm",
         "Name": "Data_Skyrim.esm",
-        "Size": 249753479,
+        "Size": 249753477,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim.esm",
-          "GameVersion": "1.6.342.0",
-          "Hash": "zJl1CmheETU="
+          "GameVersion": "1.6.353.0",
+          "Hash": "oct60LUJHOc="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "q/5qq9s66e8=",
+        "Hash": "w7YJ2li+67E=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Update.esm",
         "Name": "Data_Update.esm",
         "Size": 18825175,
@@ -2833,8 +2858,8 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Update.esm",
-          "GameVersion": "1.6.342.0",
-          "Hash": "q/5qq9s66e8="
+          "GameVersion": "1.6.353.0",
+          "Hash": "w7YJ2li+67E="
         }
       }
     },
@@ -2849,7 +2874,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Skyrim\\SkyrimPrefs.ini",
-          "GameVersion": "1.6.342.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "fiMS7vbbpNE="
         }
       }
@@ -2878,21 +2903,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "JmUHCpLyVcM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32382\nfileID=249258",
-        "Name": "DynDOLOD 3.00-32382-Alpha-58-1639558310.7z",
-        "Size": 25949713,
+        "Hash": "GjOhwdG5mbY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32382\nfileID=253816",
+        "Name": "DynDOLOD 3.00-32382-Alpha-60-1641286187.7z",
+        "Size": 25977524,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sheson",
           "Description": "DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD \u002B tree LOD and the new,  optional dynamic distant object LOD in a few simple steps.",
-          "FileID": 249258,
+          "FileID": 253816,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32382/32382-1580900155-1292674369.jpeg",
           "IsNSFW": false,
           "ModID": 32382,
           "Name": "Dynamic Distant Objects LOD - DynDOLOD",
-          "Version": "Alpha-58"
+          "Version": "Alpha-60"
         }
       }
     },
@@ -3045,21 +3070,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wWQaRXR27ug=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=52897\nfileID=243722",
-        "Name": "DynDOLOD Resources SE 3.00-52897-Alpha-16-1637683162.7z",
-        "Size": 60409176,
+        "Hash": "ThVF0uVNEps=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=52897\nfileID=253633",
+        "Name": "DynDOLOD Resources SE 3.00-52897-Alpha-17-1641215790.7z",
+        "Size": 64361181,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sheson",
           "Description": "DynDOLOD Resources SE 3 required by DynDOLOD 3 for drastically improved tree and object LOD generation.",
-          "FileID": 243722,
+          "FileID": 253633,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/52897/108514-1627373276-1783344232.jpeg",
           "IsNSFW": false,
           "ModID": 52897,
           "Name": "DynDOLOD Resources SE 3",
-          "Version": "Alpha-16"
+          "Version": "Alpha-17"
         }
       }
     },
@@ -3571,7 +3596,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Video\\BGS_Logo.bik",
-          "GameVersion": "1.6.342.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "3z7MDvy3Dhw="
         }
       }
@@ -3607,6 +3632,27 @@
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
           "Url": "https://authored-files.wabbajack.org/xLODGen.84.7z_66c4e456-5385-459e-91a9-8b0fb00a3d5d"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "an/CPP8I350=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=41801\nfileID=170134",
+        "Name": "3D Whiterun Trellis v1.1-41801-1-1-1605406717.7z",
+        "Size": 9318871,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SparrowPrince - TechAngel85",
+          "Description": "Makes the vanilla Whiterun trellis 3D with custom meshes. Includes iron and (optional) wood textures.",
+          "FileID": 170134,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41801/41801-1639214695-175003452.png",
+          "IsNSFW": false,
+          "ModID": 41801,
+          "Name": "3D Whiterun Trellis",
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -3676,21 +3722,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "3yP6bayeQE8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=252204",
-        "Name": "Assorted Mesh Fixes-32117-0-41-1640689381.7z",
-        "Size": 11100109,
+        "Hash": "jWbHC+QMagw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=253359",
+        "Name": "Assorted Mesh Fixes-32117-0-41-1-1641136506.7z",
+        "Size": 11099125,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wankingSkeever",
           "Description": "Fixes various issues with vanilla Skyrim meshes that causes them to render incorrectly",
-          "FileID": 252204,
+          "FileID": 253359,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32117/32117-1612599331-161051453.png",
           "IsNSFW": false,
           "ModID": 32117,
           "Name": "Assorted mesh fixes",
-          "Version": "0.41.0.0"
+          "Version": "0.41.1.0"
         }
       }
     },
@@ -4012,21 +4058,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "nbBmOXo7Wjg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53957\nfileID=241472",
-        "Name": "Flickering Meshes Fix-53957-1-7b-1636903704.zip",
-        "Size": 44335304,
+        "Hash": "lziQS/yzPLk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53957\nfileID=253905",
+        "Name": "Flickering Meshes Fix-53957-1-8-1641313691.zip",
+        "Size": 50747080,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "nicola89b and gururaj20000",
           "Description": "This mod fix some visual flickering problem in certain zones of Skyrim.",
-          "FileID": 241472,
+          "FileID": 253905,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53957/53957-1629156819-359372036.png",
           "IsNSFW": false,
           "ModID": 53957,
           "Name": "Flickering Meshes Fix",
-          "Version": "1.7.0.0b"
+          "Version": "1.8.0.0"
         }
       }
     },
@@ -4166,6 +4212,27 @@
           "ModID": 36198,
           "Name": "Less Distracting Blowing Snow Effects for ENB Particle Patch",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "N3IAlzBnBvs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=49259\nfileID=252310",
+        "Name": "Major Cities Mesh Overhaul SE-49259-1-0a-1640722091.rar",
+        "Size": 49657066,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "raiserfx",
+          "Description": "This mod does improve meshes and also some textures of many buildings, terrain meshes and other objects, which are used in the major cities of Skyrim.",
+          "FileID": 252310,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49259/49259-1619947210-1240321281.jpeg",
+          "IsNSFW": false,
+          "ModID": 49259,
+          "Name": "Major Cities Mesh Overhaul",
+          "Version": "1.0.0.0a"
         }
       }
     },
@@ -4521,21 +4588,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "K3IGbEb5bdA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=34705\nfileID=246276",
-        "Name": "SSE Display Tweaks-34705-0-5-6b-1638537297.zip",
-        "Size": 421183,
+        "Hash": "O5+UpYE70LM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=34705\nfileID=254775",
+        "Name": "SSE Display Tweaks-34705-0-5-8-1641580429.zip",
+        "Size": 417046,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SlavicPotato",
           "Description": "All-in-one solution for smooth FPS-unlocked gameplay. Includes a physics fix, borderless fullscreen performance boost, refresh rate control, highly configurable frame rate limiting, various bugfixes and more.",
-          "FileID": 246276,
+          "FileID": 254775,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34705/34705-1586796582-2125322633.png",
           "IsNSFW": false,
           "ModID": 34705,
           "Name": "SSE Display Tweaks",
-          "Version": "0.5.6.0b"
+          "Version": "0.5.8.0"
         }
       }
     },
@@ -4752,6 +4819,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Jz9QzB1+8l8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56973\nfileID=234411",
+        "Name": "3D Riften Trellis and Roofs-56973-1-0-1634061868.7z",
+        "Size": 527008,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RedBag",
+          "Description": "Adds 3D trellis to Riften market, as well as adds trims to some roofs and fixes some UV tiling errors in Riften.",
+          "FileID": 234411,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56973/109436-1634058415-1020833354.jpeg",
+          "IsNSFW": false,
+          "ModID": 56973,
+          "Name": "3D Riften Trellis and Roofs",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "8E1xC79lq4w=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=39704\nfileID=157117",
         "Name": "Armor Mesh Fixes-39704-1-0-1598119433.7z",
@@ -4836,21 +4924,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "CJcGDilESNo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42746\nfileID=224567",
-        "Name": "Better Windhelm Ground Meshes-42746-1-3-1-1630236915.7z",
-        "Size": 1367995,
+        "Hash": "UMNr/iea9X0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42746\nfileID=253607",
+        "Name": "Better Windhelm Ground Meshes-42746-1-3-3-1641210634.7z",
+        "Size": 1398129,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cuyima",
           "Description": "I was fed up with the windhelm ground meshes so I made this.",
-          "FileID": 224567,
+          "FileID": 253607,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42746/42746-1617637827-925869274.png",
           "IsNSFW": false,
           "ModID": 42746,
           "Name": "Better Windhelm Ground Meshes - With Parallax Support",
-          "Version": "1.3.2.0"
+          "Version": "1.3.3.0"
         }
       }
     },
@@ -5114,6 +5202,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "J92mytBunn4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=23432\nfileID=82506",
+        "Name": "Optional Round Farmhouse Posts (ORFP)-23432-v1-2-1550763800.7z",
+        "Size": 3358028,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xyberbat and Thunderchild_PdP",
+          "Description": "( ORFP ) This will replace the Farmhouses, Inns, Mills and wooden Walkways with an optional version using High Poly posts, making them appear rounder than the octagon shaped vanilla versions.\n\nV1.2 = bugfix update.",
+          "FileID": 82506,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23432/23432-1550151203-1125536170.jpeg",
+          "IsNSFW": false,
+          "ModID": 23432,
+          "Name": "Optional Round Farmhouse Posts",
+          "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "DU7U042VSDQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=20691\nfileID=69863",
         "Name": "Reduced Glow FX SE-20691-1-0-1540125125.rar",
@@ -5331,6 +5440,27 @@
           "ModID": 20517,
           "Name": "Vanilla Body with UNP Textures",
           "Version": "1.2.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VcmAfcxE8Z4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42472\nfileID=170442",
+        "Name": "3D Solitude Market Trellis-42472-1-0-1605612541.7z",
+        "Size": 59676,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RedBag",
+          "Description": "3D trellis for vendor stands in Solitude.",
+          "FileID": 170442,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42472/105533-1605612084-1857176337.jpeg",
+          "IsNSFW": false,
+          "ModID": 42472,
+          "Name": "3D Solitude Market Trellis",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -5778,84 +5908,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "A9DhqnLlWSA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45286\nfileID=188619",
-        "Name": "Project Clarity - Landscapes Half Res-45286-1-3-1614542418.7z",
-        "Size": 652356029,
+        "Hash": "J9l+KGyoPqw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44283\nfileID=179176",
+        "Name": "Project Clarity - Architecture Half Res-44283-1-0-1610483065.7z",
+        "Size": 1394667810,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Iconic",
-          "Description": "Upscaled landscape and flora textures",
-          "FileID": 188619,
+          "Description": "Upscaled architecture textures",
+          "FileID": 179176,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45286/45286-1612463302-1641055471.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44283/44283-1610478958-1411452358.png",
           "IsNSFW": false,
-          "ModID": 45286,
-          "Name": "Project Clarity - Landscape Textures Redone",
-          "Version": "1.3.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "TeL/xeL/NZQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=35593\nfileID=188717",
-        "Name": "Project Clarity - Armor Half Resolution-35593-2-4-1614569503.7z",
-        "Size": 1490783334,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "High resolution AI up-scaled armor textures, for every single armor piece.",
-          "FileID": 188717,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35593/35593-1603234670-1638325438.png",
-          "IsNSFW": false,
-          "ModID": 35593,
-          "Name": "Project Clarity - Vanilla Armor Textures Redone",
-          "Version": "2.4.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tiyExJiOV9c=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42859\nfileID=188727",
-        "Name": "Project Clarity - Clothing And Jewelry Half Resolution-42859-1-1-1614577435.7z",
-        "Size": 1023218609,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "High resolution AI up-scaled clothing \u0026amp; jewelry textures, for every single piece of clothing and jewelry",
-          "FileID": 188727,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42859/42859-1606613179-982611889.png",
-          "IsNSFW": false,
-          "ModID": 42859,
-          "Name": "Project Clarity - Vanilla Clothing And Jewelry Textures Redone",
-          "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "5o3vOt4JJwc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42756\nfileID=190354",
-        "Name": "Project Clarity - Effects Half Res-42756-2-4-1615256606.7z",
-        "Size": 399078741,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "High resolution AI up-scaled effects textures, for every single effect",
-          "FileID": 190354,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42756/42756-1606331284-1361885254.png",
-          "IsNSFW": false,
-          "ModID": 42756,
-          "Name": "Project Clarity - Effects Textures Redone",
-          "Version": "2.4.0.0"
+          "ModID": 44283,
+          "Name": "Project Clarity - Architecture Textures Redone",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -5925,6 +5992,69 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "S11NxswdIvo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45135\nfileID=183362",
+        "Name": "Project Clarity - Dungeons Half Res-45135-1-0-1612196348.7z",
+        "Size": 1681864827,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "Upscaled dungeon textures",
+          "FileID": 183362,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45135/45135-1612153673-1485954791.png",
+          "IsNSFW": false,
+          "ModID": 45135,
+          "Name": "Project Clarity - Dungeon Textures Redone",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "A9DhqnLlWSA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45286\nfileID=188619",
+        "Name": "Project Clarity - Landscapes Half Res-45286-1-3-1614542418.7z",
+        "Size": 652356029,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "Upscaled landscape and flora textures",
+          "FileID": 188619,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45286/45286-1612463302-1641055471.png",
+          "IsNSFW": false,
+          "ModID": 45286,
+          "Name": "Project Clarity - Landscape Textures Redone",
+          "Version": "1.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5o3vOt4JJwc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42756\nfileID=190354",
+        "Name": "Project Clarity - Effects Half Res-42756-2-4-1615256606.7z",
+        "Size": 399078741,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "High resolution AI up-scaled effects textures, for every single effect",
+          "FileID": 190354,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42756/42756-1606331284-1361885254.png",
+          "IsNSFW": false,
+          "ModID": 42756,
+          "Name": "Project Clarity - Effects Textures Redone",
+          "Version": "2.4.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "7t/EYkLMPEg=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=36222\nfileID=166851",
         "Name": "Project Clarity - Weapons 2K-36222-2-0-1603559046.7z",
@@ -5940,6 +6070,27 @@
           "ModID": 36222,
           "Name": "Project Clarity - Vanilla Weapon Textures Redone",
           "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TeL/xeL/NZQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=35593\nfileID=188717",
+        "Name": "Project Clarity - Armor Half Resolution-35593-2-4-1614569503.7z",
+        "Size": 1490783334,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "High resolution AI up-scaled armor textures, for every single armor piece.",
+          "FileID": 188717,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35593/35593-1603234670-1638325438.png",
+          "IsNSFW": false,
+          "ModID": 35593,
+          "Name": "Project Clarity - Vanilla Armor Textures Redone",
+          "Version": "2.4.0.0"
         }
       }
     },
@@ -5972,42 +6123,37 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "J9l+KGyoPqw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44283\nfileID=179176",
-        "Name": "Project Clarity - Architecture Half Res-44283-1-0-1610483065.7z",
-        "Size": 1394667810,
+        "Hash": "tiyExJiOV9c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42859\nfileID=188727",
+        "Name": "Project Clarity - Clothing And Jewelry Half Resolution-42859-1-1-1614577435.7z",
+        "Size": 1023218609,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Iconic",
-          "Description": "Upscaled architecture textures",
-          "FileID": 179176,
+          "Description": "High resolution AI up-scaled clothing \u0026amp; jewelry textures, for every single piece of clothing and jewelry",
+          "FileID": 188727,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44283/44283-1610478958-1411452358.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42859/42859-1606613179-982611889.png",
           "IsNSFW": false,
-          "ModID": 44283,
-          "Name": "Project Clarity - Architecture Textures Redone",
-          "Version": "1.0.0.0"
+          "ModID": 42859,
+          "Name": "Project Clarity - Vanilla Clothing And Jewelry Textures Redone",
+          "Version": "1.1.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "S11NxswdIvo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45135\nfileID=183362",
-        "Name": "Project Clarity - Dungeons Half Res-45135-1-0-1612196348.7z",
-        "Size": 1681864827,
+        "Hash": "l/34Syb1rXg=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Interface.bsa",
+        "Name": "Data_Skyrim - Interface.bsa",
+        "Size": 78740221,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "Upscaled dungeon textures",
-          "FileID": 183362,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45135/45135-1612153673-1485954791.png",
-          "IsNSFW": false,
-          "ModID": 45135,
-          "Name": "Project Clarity - Dungeon Textures Redone",
-          "Version": "1.0.0.0"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Interface.bsa",
+          "GameVersion": "1.6.353.0",
+          "Hash": "l/34Syb1rXg="
         }
       }
     }
