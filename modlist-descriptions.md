@@ -26,6 +26,7 @@
   - [Fallout 4: Enhanced Edition (F4EE)](#fallout-4-enhanced-edition-f4ee)
   - [Magnum Opus](#magnum-opus)
   - [Welcome to Paradise](#welcome-to-paradise)
+  - [Life in the Ruins](#life-in-the-ruins)
 - [Skyrim Special Edition - VR](#skyrim-special-edition---vr)
   - [Ultimate VR Essentials](#ultimate-vr-essentials)
   - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr-1)
@@ -311,6 +312,15 @@ Simply put, this list is what Fallout 4 should have been on release. Touting doz
 [Loot Logic and Reduction](https://www.nexusmods.com/fallout4/mods/21366)  
 
 ***
+
+### [Life in the Ruins](https://www.wabbajack.org/#/modlists/info?machineURL=life_in_the_ruins)
+
+From the author of Creative Perks Plus, a Fallout 4 modlist for a survival playthrough without the grind, based on Lunar Fallout Overhaul and Sim Settlements 2. Designed to deepen and enhance the game, without straying too far from the vanilla asthetic.
+
+**_Mods to get familiar with:_**
+
+[Lunar Fallout Overhaul](https://www.nexusmods.com/fallout4/mods/34769)
+
 
 ## Skyrim Special Edition - VR
 
