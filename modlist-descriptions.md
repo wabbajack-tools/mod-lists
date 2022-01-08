@@ -20,6 +20,7 @@
   - [Tinvaak](#tinvaak)
   - [Aldrnari](#aldrnari)
   - [Arkay's Commandment](#arkays-commandment)
+  - [Wildlander](#wildlander)
   - [(NSFW)Licentia(NSFW)](#NSFWLicentiaNSFW)
   - [(NSFW)Tsukiro(NSFW)](#nsfwtsukironsfw)
 - [Fallout 4](#fallout-4)
@@ -233,6 +234,17 @@ My personal mod list that I play with, utilizing Requiem and 3Tweaks, focused on
 - [Skyrim Souls](https://www.nexusmods.com/skyrimspecialedition/mods/27859)
 
 ***
+
+### [Wildlander](https://www.wildlandermod.com/download)
+
+Wildlander is a total conversion modpack for The Elder Scrolls V: Skyrim Special Edition that aims to bring the frozen north into your home. Whether you want to call it immersion, realism, roleplaying, or simple masochism, the end-goal is to make you actually feel like an intrepid adventurer climbing snow-covered mountains, delving into ancient ruins, and getting yourself chased by packs of hungry wolves. The whole experience is built around Requiem - the Roleplaying Overhaul - 4.0.2. Requiem completely retools all of Skyrim to create a challenging, deleveled world with plenty of meaningful choices and is made up of hundreds of publicly available mods made by almost as many talented mod authors. These mods have been carefully selected, tested, and tweaked by Dylan Perry to iron out any technical difficulties and maintain a consistent experience.
+
+**_Mods to get familiar with:_**
+- [Requiem](https://www.nexusmods.com/skyrimspecialedition/mods/60888)
+- [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962)
+
+***
+
 
 ### [(NSFW)Licentia(NSFW)](https://www.wabbajack.org/#/modlists/info?machineURL=Licentia)
 
