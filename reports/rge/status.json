@@ -1,8 +1,8 @@
 {
   "MachineURL": "rge",
   "Name": "Relics of Hyrule - GAT Edition",
-  "Version": "2.2.5.11",
-  "ModListHash": "yUpDuB13+eI=",
+  "Version": "2.2.5.12",
+  "ModListHash": "LnM6ANofuZU=",
   "Archives": [
     {
       "Status": "Valid",
@@ -41,13 +41,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "aers - Nukem - Ryan",
-          "Description": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.",
+          "Description": "",
           "FileID": 181171,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17230/17230-1526195370-298143229.png",
+          "ImageURL": null,
           "IsNSFW": false,
           "ModID": 17230,
-          "Name": "SSE Engine Fixes (skse64 plugin)",
+          "Name": "",
           "Version": "0.0.0.0"
         }
       }
@@ -124,13 +124,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "aers - Nukem - Ryan",
-          "Description": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.",
+          "Description": "",
           "FileID": 181373,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17230/17230-1526195370-298143229.png",
+          "ImageURL": null,
           "IsNSFW": false,
           "ModID": 17230,
-          "Name": "SSE Engine Fixes (skse64 plugin)",
+          "Name": "",
           "Version": "5.6.0.0"
         }
       }
@@ -4497,27 +4497,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SeDQ6XspoDA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=1193\nfileID=1203",
-        "Name": "Routa - Stormcloak-1193-1-0.7z",
-        "Size": 40396414,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Elianora",
-          "Description": "Are you a True Nord\u2122 ? Do you worship Talos, proudly? Are you a burly, seasoned warrior who likes killing things and drinking mead? Then I have a house for you! A small cabin next to Windhelm stables. Only vanilla Skyrim needed! Sauna, displays, amazing new furniture etc.",
-          "FileID": 1203,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67818-9-1436877262.png",
-          "IsNSFW": false,
-          "ModID": 1193,
-          "Name": "Routa - Stormcloak and Warrior cabin",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "pDp5PwO+Gy0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=6994\nfileID=46583",
         "Name": "Royal Armory V2.2-6994-2-2.7z",
@@ -5252,7 +5231,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Arctal",
-          "Description": "Perform combos with spells, weapons and a special new Shout. Remove the need for menus or hotkeys and instead discover a system where swapping spells and using multiple weapons is streamlined and rewarding. Experience a plethora of customized sounds and visual effects. Grow in power by playing skillfully, not just from levels and gear.",
+          "Description": "Experience gameplay focused on combos and synergy. Lessen the need for menus or hotkeys through a system where swapping spells and weapons is streamlined and rewarding. Continue the fight at 0 magicka by using new spell types. Enjoy a plethora of new sounds and visual effects. Grow in power by playing skillfully, not just from levels and gear.",
           "FileID": 217716,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26627/26627-1610977815-1142588597.png",
@@ -9042,6 +9021,27 @@
           "ModID": 21075,
           "Name": "Savage Wolves",
           "Version": "1.7.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SeDQ6XspoDA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=1193\nfileID=1203",
+        "Name": "Routa - Stormcloak-1193-1-0.7z",
+        "Size": 40396414,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Elianora",
+          "Description": "Are you a True Nord\u2122 ? Do you worship Talos, proudly? Are you a burly, seasoned warrior who likes killing things and drinking mead? Then I have a house for you! A small cabin next to Windhelm stables. Only vanilla Skyrim needed! Sauna, displays, amazing new furniture etc.",
+          "FileID": 1203,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67818-9-1436877262.png",
+          "IsNSFW": false,
+          "ModID": 1193,
+          "Name": "Routa - Stormcloak and Warrior cabin",
+          "Version": "1.0.0.0"
         }
       }
     },
