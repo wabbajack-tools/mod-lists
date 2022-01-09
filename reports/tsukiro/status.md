@@ -1,9 +1,9 @@
 ## Validation Report - Tsukiro (tsukiro)
 
 
-### Invalid (1)
+### Invalid (0)
+### Updated (1)
 *  NCK30 SLAL 3.2 SE.7z
-### Updated (0)
 ### Mirrored (0)
 ### Valid (962)
 *  [---Lucien Replacer SE Younger Face version-38116-1-2-1604513810.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38116/?tab=files&file_id=168611)

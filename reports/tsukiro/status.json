@@ -6882,7 +6882,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Updated",
       "Original": {
         "Hash": "oreaj6TSFec=",
         "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=6878\nips4File=NCK30 SLAL 3.2 SE.7z",
@@ -6901,7 +6901,27 @@
           "Name": "NCK30 Animations",
           "Version": "3.2"
         }
-      }
+      },
+      "PatchedFrom": {
+        "Hash": "zGlMzDY3ayU=",
+        "Meta": "",
+        "Name": "NCK30 SLAL 3.3 SE.7z",
+        "Size": 16690761,
+        "State": {
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "ImageURL": null,
+          "IPS4File": "NCK30 SLAL 3.3 SE.7z",
+          "IPS4Mod": 6878,
+          "IPS4Url": "",
+          "IsAttachment": false,
+          "IsNSFW": false,
+          "Name": null,
+          "Version": null
+        }
+      },
+      "PatchUrl": "https://patches.wabbajack.org/a2b79a8fa4d215e7_cc694ccc36376b25"
     },
     {
       "Status": "Valid",
@@ -19794,6 +19814,6 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1
+  "Status": "Available",
+  "Failures": 0
 }
