@@ -1,8 +1,8 @@
 {
   "MachineURL": "fus",
   "Name": "FUS",
-  "Version": "2.2.8",
-  "ModListHash": "i6X7LG/lTuM=",
+  "Version": "2.3.1",
+  "ModListHash": "cChWkD8Qb9Y=",
   "Archives": [
     {
       "Status": "Valid",
@@ -1161,6 +1161,27 @@
           "ModID": 2345,
           "Name": "Realistic AI Detection SE (better sneaking)",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lKzNYq1zFf0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=27201\nfileID=249986",
+        "Name": "Skyrim Revamped Rebalanced and Releveled-27201-2-39-1639797529.7z",
+        "Size": 111716,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Soulmancer",
+          "Description": "This tweaks most bosses and unique encounters in Skyrim Revamped to scale above but with the player level.  Their minimum level will be lower and their maximum level will be higher than vanilla and Revamped default.  This patch also fixes a few bugs, issues and inconsistencies in SRCEO",
+          "FileID": 249986,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27201/27201-1562475113-620840996.jpeg",
+          "IsNSFW": false,
+          "ModID": 27201,
+          "Name": "Skyrim Revamped Rebalanced and Releveled",
+          "Version": "2.39.0.0"
         }
       }
     },
@@ -2820,12 +2841,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "fnfd4HcCEm0=",
-        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=1aTAMxZXejb-GMJlV2UaThDvq_Iz_FOPz\u0026export=download",
-        "Name": "VRIK V0.8.1 In-Dev Build 28.7z",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=23416\nfileID=211578",
+        "Name": "VRIK V0.8.1 Test Build 28-23416-V0-8-1-Test-Build-28-1624911793.7z",
         "Size": 442721,
         "State": {
-          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
-          "Id": "1aTAMxZXejb-GMJlV2UaThDvq_Iz_FOPz"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "prog",
+          "Description": "VRIK will display the player character\u0027s body in SkyrimVR and animate it to match your movements.  Weapons can be kept, drawn, and sheathed in up to 14 visible holsters on your body.  An input gesture system allows users to bind actions to gestures on each hand, reducing the need to open menus.  An MCM menu allows full configuration of everything.",
+          "FileID": 211578,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23416/23416-1550100888-1590315308.jpeg",
+          "IsNSFW": false,
+          "ModID": 23416,
+          "Name": "VRIK Player Avatar",
+          "Version": "0.8.1.0-Test-Build-28"
         }
       }
     },
@@ -5149,7 +5178,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Jonas",
-          "Description": "Mesh replacer for 93 of Skyrim\u0027s original axes, maces, swords and warhammers. Opts for a slimmer and cleaner design, while keeping the original style.",
+          "Description": "Mesh replacer for 99 of Skyrim\u0027s original axes, maces, swords and warhammers. Opts for a slimmer and cleaner design, while keeping the original style.",
           "FileID": 148339,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37737/37737-1593283303-1926078149.jpeg",
@@ -5681,27 +5710,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "tPPgoK/XfTI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=31392\nfileID=233450",
-        "Name": "VR FPS Stabilizer (FOMOD Installer)-31392-1-3-2-1633701142.rar",
-        "Size": 2114938,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Shizof",
-          "Description": "No more reprojections. No more framerate spikes when looking at certain directions. This mod changes ini settings automatically to keep your framerate at target levels.",
-          "FileID": 233450,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31392/31392-1577747566-1538981851.png",
-          "IsNSFW": false,
-          "ModID": 31392,
-          "Name": "VR FPS Stabilizer",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "M2gmT6A7EDk=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=58296\nfileID=244708",
         "Name": "Papyrus Extender VR-58296-4-5-5-1637981897.7z",
@@ -5822,6 +5830,27 @@
           "ModID": 28354,
           "Name": "Sprint Jump VR",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Gap6oK73CsM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55962\nfileID=230075",
+        "Name": "STUF VR-55962-1-0-0-1632360144.zip",
+        "Size": 72258,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FlyingParticle",
+          "Description": "Makes it so that pressing the triggers while sheathed does not cause you to unsheathe / draw your weapons.",
+          "FileID": 230075,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55962/55962-1632360047-641336243.png",
+          "IsNSFW": false,
+          "ModID": 55962,
+          "Name": "Stop Trigger Unsheathing For VR",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -5954,6 +5983,69 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "8u65bmkr8MA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53186\nfileID=255649",
+        "Name": "Controller Bindings - Cangar-53186-1-1641825662.7z",
+        "Size": 3376,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cangar and Kvitekvist",
+          "Description": "This is a selection of patches that are intended to be used in combination with the FUS mod list.",
+          "FileID": 255649,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53186/53186-1639838346-1697175645.png",
+          "IsNSFW": false,
+          "ModID": 53186,
+          "Name": "FUS Patch Compendium",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qDgMFaOXuYc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53186\nfileID=255656",
+        "Name": "Controller Bindings - Cangar - Spellsiphon-53186-1-1-1641827256.7z",
+        "Size": 3385,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cangar and Kvitekvist",
+          "Description": "This is a selection of patches that are intended to be used in combination with the FUS mod list.",
+          "FileID": 255656,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53186/53186-1639838346-1697175645.png",
+          "IsNSFW": false,
+          "ModID": 53186,
+          "Name": "FUS Patch Compendium",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/HaomY8V17A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53186\nfileID=255685",
+        "Name": "Controller Bindings - Kvite-53186-1-1-1641832834.7z",
+        "Size": 3373,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cangar and Kvitekvist",
+          "Description": "This is a selection of patches that are intended to be used in combination with the FUS mod list.",
+          "FileID": 255685,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53186/53186-1639838346-1697175645.png",
+          "IsNSFW": false,
+          "ModID": 53186,
+          "Name": "FUS Patch Compendium",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "0iYn7ghDJtU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=51551\nfileID=210735",
         "Name": "Smaller Insects-51551-1-1-1624448338.7z",
@@ -6080,6 +6172,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "ev2JbM6fT5E=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53186\nfileID=255642",
+        "Name": "SkyUI-FUS-53186-1-1641823190.7z",
+        "Size": 383,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cangar and Kvitekvist",
+          "Description": "This is a selection of patches that are intended to be used in combination with the FUS mod list.",
+          "FileID": 255642,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53186/53186-1639838346-1697175645.png",
+          "IsNSFW": false,
+          "ModID": 53186,
+          "Name": "FUS Patch Compendium",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "xUUHg7DmNaw=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=44656\nfileID=181194",
         "Name": "Thunder Sounds -WiZkiD Mix--44656-1-0-1611377840.7z",
@@ -6178,6 +6291,27 @@
           "IsNSFW": false,
           "ModID": 26876,
           "Name": "Retimed Hit Frames",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UQ1KWeYLP8E=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=61434\nfileID=255552",
+        "Name": "Glamur Reshade-61434-1-2-1641779848.zip",
+        "Size": 1674155,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "rhellct - see Acknowledgments",
+          "Description": "Performance-friendly Ambient Occlusion for SkyrimVR. Also includes subtle Global Illumination and bounce lighting effects. And sharpening to fix the game\u0027s blurriness, of course.\n\n\n\nCan be run on top of any weather mod, interior lighting mod, and/or ENB that you\u0027re currently using.",
+          "FileID": 255552,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61434/61434-1641526710-1912474592.png",
+          "IsNSFW": false,
+          "ModID": 61434,
+          "Name": "Glamur Reshade VR",
           "Version": "0.0.0.0"
         }
       }
@@ -6299,27 +6433,6 @@
           "IsNSFW": false,
           "ModID": 53119,
           "Name": "Azurean ENB",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "h3DVnKcU3HI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=47989\nfileID=208587",
-        "Name": "VRVision-47989-3-0-1623406179.zip",
-        "Size": 1657564,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Crithion",
-          "Description": "A reshade preset based on The Sharper Eye that increases the amount of detail and sharpness even more. Best with Azurite Weathers.",
-          "FileID": 208587,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47989/47989-1640044719-530885918.png",
-          "IsNSFW": false,
-          "ModID": 47989,
-          "Name": "VrVision - Performance-friendly sharpening for VR",
           "Version": "0.0.0.0"
         }
       }
@@ -6467,6 +6580,27 @@
           "IsNSFW": false,
           "ModID": 197,
           "Name": "Luminous ENB VR",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "h3DVnKcU3HI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=47989\nfileID=208587",
+        "Name": "VRVision-47989-3-0-1623406179.zip",
+        "Size": 1657564,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Crithion",
+          "Description": "A reshade preset based on The Sharper Eye that increases the amount of detail and sharpness even more. Best with Azurite Weathers.",
+          "FileID": 208587,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47989/47989-1640044719-530885918.png",
+          "IsNSFW": false,
+          "ModID": 47989,
+          "Name": "VrVision - Performance-friendly sharpening for VR",
           "Version": "0.0.0.0"
         }
       }
