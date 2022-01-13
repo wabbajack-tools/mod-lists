@@ -1,8 +1,8 @@
 {
   "MachineURL": "fo4vre",
   "Name": "Fallout VR Essentials Overhaul",
-  "Version": "10.0",
-  "ModListHash": "EVpp6/yhKq4=",
+  "Version": "10.1",
+  "ModListHash": "3MFaRVlTMsE=",
   "Archives": [
     {
       "Status": "Valid",
@@ -630,6 +630,19 @@
           "ModID": 222,
           "Name": "Create Your Own Difficulty Rebalance",
           "Version": "3.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HhM2Wx7tvJ8=",
+        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=1n0IcJvANinCdmUr_8jwzIOAqyBoj8wKC\u0026export=download",
+        "Name": "Crime and Punishment (v1.1.2)-42857-v1-1-2-1620060207.zip",
+        "Size": 353133027,
+        "State": {
+          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
+          "Id": "1n0IcJvANinCdmUr_8jwzIOAqyBoj8wKC"
         }
       }
     },
@@ -2433,6 +2446,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "H50PV8E3AlE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56311\nfileID=223155",
+        "Name": "NPCs Travel - MCM Settings-56311-1-0-1638739867.rar",
+        "Size": 1811063,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "m8r98a4f2",
+          "Description": "Full featured MCM settings menu for NPCs Travel",
+          "FileID": 223155,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56311/56311-1638741715-297341806.png",
+          "IsNSFW": false,
+          "ModID": 56311,
+          "Name": "NPCs Travel - MCM Settings Menu",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "zEZucMBg32I=",
         "Meta": "[General]\ngameName=fallout4\nmodID=1204\nfileID=58800",
         "Name": "Optimized Vanilla Textures 1-10 Archive-1204-1-10.7z",
@@ -3882,6 +3916,20 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "qjGn3wqXsjo=",
+        "Meta": "[General]\ndirectURL=https://cdn.discordapp.com/attachments/354663002433388545/876390467351232532/MCM_VR.zip",
+        "Name": "MCM_VR.zip",
+        "Size": 374641,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://cdn.discordapp.com/attachments/354663002433388545/876390467351232532/MCM_VR.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Wefd82hkRD0=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Pip-Boy Duel Colors VR Green Mutant-45523-1-1-1591561677.zip_066e1030-4f55-413d-b2ec-3350ea9f3cdd",
         "Name": "Pip-Boy Duel Colors VR Green Mutant-45523-1-1-1591561677.zip",
@@ -4002,27 +4050,6 @@
           "GameFile": "Data\\Video\\MainMenuLoop.bk2",
           "GameVersion": "1.10.163.0",
           "Hash": "/YoBMfMWEho="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "DI3JHh9EKrM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53625\nfileID=221901",
-        "Name": "Virtual Chems v1.3.0-53625-1-3-0-1637494108.zip",
-        "Size": 587396,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CylonSurfer",
-          "Description": "Expanding on the idea of equipping chems from virtual body slots and using them in a more \u0027VR Centric\u0027 way; Virtual Chems will provide Fallout 4 VR / FRIK players with 5 body slots which can be used to assign and then equip chems from in real time. Once in hand, chems can be virtually inhaled, ingested or injected!",
-          "FileID": 221901,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53625/53625-1628058428-1339813157.png",
-          "IsNSFW": false,
-          "ModID": 53625,
-          "Name": "Virtual Chems",
-          "Version": "1.3.0.0"
         }
       }
     },
@@ -4218,27 +4245,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "woUCNOHYMu8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53464\nfileID=219000",
-        "Name": "FRIK alpha 34-53464-v0-34-1633912313.zip",
-        "Size": 231081,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "rollingrock",
-          "Description": "FRIK brings the full player body to life in VR!    Inspired by VRIK from SkyrimVR FRIK aims to bring the same level of immersion of having your body visible to Fallout 4 VR.   Full body Inverse Kinematics has been implemented to animate the arms and legs based on your controller and HMD position.",
-          "FileID": 219000,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53464/53464-1627237967-435592659.png",
-          "IsNSFW": false,
-          "ModID": 53464,
-          "Name": "FRIK - Full Player Body with IK",
-          "Version": "0.34.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "cyt3lVYJxp4=",
         "Meta": "[General]\ngameName=fallout4\nmodID=33947\nfileID=204424",
         "Name": "PrivateProfileRedirector F4VR 0.5.2-33947-0-5-2-1616600754.zip",
@@ -4391,27 +4397,6 @@
           "ModID": 26163,
           "Name": "Unlimited Survival Mode - F4SE",
           "Version": "1.4.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "JQelK1DHKN0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53625\nfileID=214545",
-        "Name": "Virtual Chems v1.0.0-53625-1-0-0-1628675154.zip",
-        "Size": 520393,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CylonSurfer",
-          "Description": "Expanding on the idea of equipping chems from virtual body slots and using them in a more \u0027VR Centric\u0027 way; Virtual Chems will provide Fallout 4 VR / FRIK players with 5 body slots which can be used to assign and then equip chems from in real time. Once in hand, chems can be virtually inhaled, ingested or injected!",
-          "FileID": 214545,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53625/53625-1628058428-1339813157.png",
-          "IsNSFW": false,
-          "ModID": 53625,
-          "Name": "Virtual Chems",
-          "Version": "1.0.0.0"
         }
       }
     },
