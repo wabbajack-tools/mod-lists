@@ -154,7 +154,7 @@
 *  [Crafting - Gunner Outfit Pack - Whisper's Workbenches and Lively's Keywords-56229-1-2-1638935724.7z](https://www.nexusmods.com/fallout4/mods/56229/?tab=files&file_id=223359)
 *  [Crafting Highlight Fix 1.8.8-27479-1-8-8-1576067808.zip](https://www.nexusmods.com/fallout4/mods/27479/?tab=files&file_id=172411)
 *  [Creation Club Delayed Main File-42753-1-4-1639375828.rar](https://www.nexusmods.com/fallout4/mods/42753/?tab=files&file_id=223764)
-*  [Creative Perks Plus-49400-4-8-1641287021.7z](https://www.nexusmods.com/fallout4/mods/49400/?tab=files&file_id=225572)
+*  [Creative Perks Plus-49400-4-10-1642091941.7z](https://www.nexusmods.com/fallout4/mods/49400/?tab=files&file_id=226456)
 *  [Creative Perks-28192-20-5-1612359665.rar](https://www.nexusmods.com/fallout4/mods/28192/?tab=files&file_id=200586)
 *  [Crimsomrider's Accessories-19563-5-0.zip](https://www.nexusmods.com/fallout4/mods/19563/?tab=files&file_id=117982)
 *  [CriticalFX-99c-Fix-21300-99c.zip](https://www.nexusmods.com/fallout4/mods/21300/?tab=files&file_id=87296)
