@@ -132,7 +132,7 @@ Automated installer for [The Phoenix Flavour](https://thephoenixflavour.com/), t
 
 ### [Septimus](https://www.wabbajack.org/#/modlists/info?machineURL=septimus)
 
-Septimus is an extended version of The Phoenix Flavor with lots of new items, quests, visual tweaks and optional survival elements all built on top of the fantastic base that Phoenix has created. It also has full Anniversary Edition support including all the new creation club content for those eager to get right into the new content.
+Septimus is an extensive performance-friendly modlist full of carefully chosen new gear, spells, quests, optional survival gameplay as well as full anniversary edition creation club support.
 
 **_Mods to get familiar with:_**
 
