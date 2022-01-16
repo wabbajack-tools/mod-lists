@@ -1,10 +1,11 @@
 ## Validation Report - Viva New Vegas (vivanewvegas)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [VNV LODGenOutput.7z](https://authored-files.wabbajack.org/VNV LODGenOutput.7z_6e3d3854-9f64-43b6-ab4b-bfc7c89997a2)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (72)
+### Valid (71)
 *  [A Little More Lamplight-69226-1-2-1594706760.zip](https://www.nexusmods.com/newvegas/mods/69226/?tab=files&file_id=1000063736)
 *  [Altitude - Zion Ambient Music-71404-1-0-1635624334.7z](https://www.nexusmods.com/newvegas/mods/71404/?tab=files&file_id=1000083323)
 *  [Altitude-71404-3-1-1635272575.7z](https://www.nexusmods.com/newvegas/mods/71404/?tab=files&file_id=1000083099)
@@ -72,7 +73,6 @@
 *  [Unofficial Patch NVSE Plus-71239-1-3-3-1629920236.zip](https://www.nexusmods.com/newvegas/mods/71239/?tab=files&file_id=1000080211)
 *  [Vanilla Hud Cleaned-70001-0-381-1607085285.7z](https://www.nexusmods.com/newvegas/mods/70001/?tab=files&file_id=1000068281)
 *  [Vanilla_UI_Plus_New_Vegas_8.83.7z](https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fvivanewvegas.github.io%2F)
-*  [VNV LODGenOutput.7z](https://authored-files.wabbajack.org/VNV LODGenOutput.7z_6e3d3854-9f64-43b6-ab4b-bfc7c89997a2)
 *  [Weapon Mesh Improvement Mod Patch-70158-1-7-1606187817.7z](https://www.nexusmods.com/newvegas/mods/70158/?tab=files&file_id=1000067993)
 *  [Weapon Mesh Improvement Mod-65052-1-3.7z](https://www.nexusmods.com/newvegas/mods/65052/?tab=files&file_id=1000048235)
 *  [WMIM ESP Replacer.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/8af949eda75b49cadc5efa65b3d43fcb182302e1/WMIM ESP Replacer.7z)
