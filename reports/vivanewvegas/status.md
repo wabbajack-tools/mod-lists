@@ -1,9 +1,9 @@
 ## Validation Report - Viva New Vegas (vivanewvegas)
 
 
-### Invalid (1)
+### Invalid (0)
+### Updated (1)
 *  [Vanilla_UI_Plus_New_Vegas_8.83.7z](https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fvivanewvegas.github.io%2F)
-### Updated (0)
 ### Mirrored (0)
 ### Valid (71)
 *  [A Little More Lamplight-69226-1-2-1594706760.zip](https://www.nexusmods.com/newvegas/mods/69226/?tab=files&file_id=1000063736)

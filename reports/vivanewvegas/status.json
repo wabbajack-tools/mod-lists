@@ -760,7 +760,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Updated",
       "Original": {
         "Hash": "d3Zme+pQfCc=",
         "Meta": "[General]\ndirectURL=https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fvivanewvegas.github.io%2F",
@@ -770,7 +770,18 @@
           "$type": "ModDBDownloader, Wabbajack.Lib",
           "Url": "https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fvivanewvegas.github.io%2F"
         }
-      }
+      },
+      "PatchedFrom": {
+        "Hash": "B/ZqvWlp/XM=",
+        "Meta": "",
+        "Name": "Vanilla_UI_Plus_New_Vegas_8.85.7z",
+        "Size": 1041024,
+        "State": {
+          "$type": "ModDBDownloader, Wabbajack.Lib",
+          "Url": "https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fwww.google.com%2F"
+        }
+      },
+      "PatchUrl": "https://patches.wabbajack.org/7776667bea507c27_07f66abd6969fd73"
     },
     {
       "Status": "Valid",
@@ -1375,6 +1386,6 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1
+  "Status": "Available",
+  "Failures": 0
 }
