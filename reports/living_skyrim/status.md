@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1130)
+### Valid (1128)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
@@ -117,7 +117,6 @@
 *  [Beyond Skyrim - Bruma Patch-39634-1-02-1598324632.zip](https://www.nexusmods.com/skyrimspecialedition/mods/39634/?tab=files&file_id=157529)
 *  [Beyond Skyrim Bruma SE 1.3.3-10917-1-3-3.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=files&file_id=32840)
 *  [Beyond Skyrim DLC Integration Patch-10917-1-1-2.rar](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=files&file_id=33143)
-*  binkw64.dll
 *  [Blackened CBBE NoBounce-33106-1-2-1586200424.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33106/?tab=files&file_id=132800)
 *  [Blackened Steel Weapon and Armour-27052-1-007-1565674770.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27052/?tab=files&file_id=102848)
 *  [Blackreach Paper Map for FWMF-53878-1-01-1631631769.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53878/?tab=files&file_id=228356)
@@ -175,7 +174,6 @@
 *  [Cloaks Of Skyrim Retextured 2k-42558-1-0-1605820625.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42558/?tab=files&file_id=170809)
 *  [Cloaks of Skyrim SSE - v1.2.1-6369-1-2-1.rar](https://www.nexusmods.com/skyrimspecialedition/mods/6369/?tab=files&file_id=18422)
 *  [Clockwork_SSE_v1-0-4155-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4155/?tab=files&file_id=7713)
-*  [Closing Time 2.0 Test Version 2-34169-2-0-Test-1591116466.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34169/?tab=files&file_id=143520)
 *  [Clothing Option-35623-1-0-1588756057.rar](https://www.nexusmods.com/skyrimspecialedition/mods/35623/?tab=files&file_id=138385)
 *  [CO 61 Converus Bugfix-35339-1-01-1588440899.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=137645)
 *  [Collecting the Edda-52081-1-0-1-1625691587.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52081/?tab=files&file_id=213283)
@@ -224,7 +222,6 @@
 *  Data_Skyrim - Meshes0.bsa
 *  Data_Skyrim - Meshes1.bsa
 *  Data_Skyrim - Misc.bsa
-*  Data_Skyrim - Patch.bsa
 *  Data_Skyrim - Shaders.bsa
 *  Data_Skyrim - Sounds.bsa
 *  Data_Skyrim - Textures0.bsa
@@ -258,6 +255,7 @@
 *  [Difficulty Balance v1.0.0 for SkyrimSE-35767-1-0-0-1589018989.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35767/?tab=files&file_id=138923)
 *  [Diverse Dragons Collection SE-695-2-1-3.zip](https://www.nexusmods.com/skyrimspecialedition/mods/695/?tab=files&file_id=36470)
 *  [Diverse Random Normal Attack-40415-1-32-1603414849.zip](https://www.nexusmods.com/skyrimspecialedition/mods/40415/?tab=files&file_id=166649)
+*  [DLL Plugin Loader v1-10546-1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/10546/?tab=files&file_id=28074)
 *  [Dovah Nord Weapons SE-19236-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19236/?tab=files&file_id=62559)
 *  [Dragon Stalking Fix-14060-1-3.7z](https://www.nexusmods.com/skyrimspecialedition/mods/14060/?tab=files&file_id=41641)
 *  [Dragon.Priest.2k-4974-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4974/?tab=files&file_id=10647)
@@ -424,7 +422,7 @@
 *  [High Quality Tintmasks for Vanilla NPCs - BSA 1K-18360-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18360/?tab=files&file_id=68440)
 *  High_Poly_Head_v1.4_(SE).zip
 *  [High-Poly Inigo Replacer - FOMOD installer-38860-3-0-1596500717.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38860/?tab=files&file_id=153610)
-*  high.ini
+*  High.ini
 *  [Hjertesten Hall-48118-7-1637109979.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48118/?tab=files&file_id=242136)
 *  [Holy Wards - a retexture-18535-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18535/?tab=files&file_id=60014)
 *  [Honed Metal V1-10-12885-1-10-1579466929.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12885/?tab=files&file_id=120505)
@@ -578,7 +576,7 @@
 *  [LostDragonist-MO2-Plugins.zip](https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LostDragonist-MO2-Plugins.zip)
 *  [LOTD - Pale Pass Extension-48814-1-2-1619749920.rar](https://www.nexusmods.com/skyrimspecialedition/mods/48814/?tab=files&file_id=200878)
 *  [LOTD Version-34698-1-0-1586781044.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34698/?tab=files&file_id=133998)
-*  low.ini
+*  Low.ini
 *  [LS3 DynDOLOD Output 3.7.0.7z](https://authored-files.wabbajack.org/LS3 DynDOLOD Output 3.7.0.7z_9b754cec-0a86-4b35-801b-a5b88d935efc)
 *  [LS3 Grass Cache 3.7.0.7z](https://authored-files.wabbajack.org/LS3 Grass Cache 3.7.0.7z_1b18e31d-915c-40b8-a798-fcbb2e391fcd)
 *  [LS3 SSELODGen Output 3.0.0.7z](https://authored-files.wabbajack.org/LS3 SSELODGen Output 3.0.0.7z_589e52ca-9d4e-4648-ae1f-603a517aaae3)
@@ -606,7 +604,7 @@
 *  [Mechanicalpanda's Brighter Templates-43158-1-0-1618906099.zip](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=199181)
 *  [Medieval Candlehorns and Sconces-24324-2-0-0-1561629898.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24324/?tab=files&file_id=97446)
 *  [Medieval Silverworks-23938-1-0-0-1551836270.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23938/?tab=files&file_id=83990)
-*  medium.ini
+*  Medium.ini
 *  [MERGED ALL 4 BSA VERSION-15092-SE1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15092/?tab=files&file_id=46133)
 *  [Meridia Revoiced - Dialogue Edits-32014-1-0-1579759321.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32014/?tab=files&file_id=120887)
 *  [Merlin the Corgi-56433-1-1-0-1639031079.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56433/?tab=files&file_id=247674)
@@ -1046,7 +1044,7 @@
 *  [UFO Compatibility Patch-16137-1-1561052507.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16137/?tab=files&file_id=96666)
 *  [UIExtensions v1-2-0-17561-1-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17561/?tab=files&file_id=55628)
 *  [Ulags Legacy - No Immersive Armors-20510-1-1-1-1540364027.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20510/?tab=files&file_id=70107)
-*  ultra.ini
+*  Ultra.ini
 *  [Underground FOMOD-14365-1-2-1564302022.7z](https://www.nexusmods.com/skyrimspecialedition/mods/14365/?tab=files&file_id=100954)
 *  [Unique Bows Collected Balanced-33451-1-1-1594357174.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33451/?tab=files&file_id=149654)
 *  [UniqueBows-21524-1-0-1543419696.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21524/?tab=files&file_id=73594)
@@ -1127,7 +1125,7 @@
 *  [Wyrmstooth-45565-1-19-5-1628822035.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45565/?tab=files&file_id=220763)
 *  [Wyrmtamer - Lawbringer for Wyrmstooth-55190-1-0-1-1631066500.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55190/?tab=files&file_id=226874)
 *  [xEdit Script-29758-1-4-1595447316.zip](https://www.nexusmods.com/skyrimspecialedition/mods/29758/?tab=files&file_id=151684)
-*  [xLODGen.85.7z](https://mega.nz/file/kNRCHRDY#ONIMDnlxyyBH-QsSUgatbQJWOgGGrr8F8bxWD_-bSGc)
+*  [xLODGen.86.7z](https://mega.nz/file/8Iog2abQ#0rQzamCU_uv68QpnBjvlR8SSepyek7LM6sow4rQFh_c)
 *  [XP32 Maximum Skeleton Special Extended-1988-4-80-1610196777.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=178559)
 *  [YesImSure-24898-1-5-0-1583022330.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24898/?tab=files&file_id=126540)
 *  [Yggdrasil Music and SoundFX-21578-2-1-0-1598428810.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21578/?tab=files&file_id=157701)
