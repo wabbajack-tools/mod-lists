@@ -775,7 +775,7 @@
 *  [WM's Flora Fixes - Revamped-28197-3-2-1570824231.zip](https://www.nexusmods.com/skyrimspecialedition/mods/28197/?tab=files&file_id=110002)
 *  [Wrye Bash 309.1 - Standalone Executable-1840-309-1-1623232712.7z](https://www.nexusmods.com/skyrim/mods/1840/?tab=files&file_id=1000337935)
 *  [xLOD_UVRE_b2160.7z](https://authored-files.wabbajack.org/xLOD_UVRE_b2160.7z_feed542b-6c38-4e6a-9375-24b5b78f2257)
-*  xLODGen.86.7z
+*  [xLODGen.86.7z](https://mega.nz/file/8Iog2abQ#0rQzamCU_uv68QpnBjvlR8SSepyek7LM6sow4rQFh_c)
 *  [XP32 First Person Skeleton CTD Bugfix for VR-34301-4-71-1585881749.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34301/?tab=files&file_id=132142)
 *  [XP32 Maximum Skeleton Special Extended - Fixed Scripts-44252-1-0-1610402131.rar](https://www.nexusmods.com/skyrimspecialedition/mods/44252/?tab=files&file_id=179016)
 *  [XP32 Maximum Skeleton Special Extended-1988-4-80-1610196777.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=178559)
