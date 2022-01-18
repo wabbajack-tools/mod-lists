@@ -1,8 +1,8 @@
 {
   "MachineURL": "TalesFromTheNorthernLands",
   "Name": "Tales from the Northern Lands",
-  "Version": "2.2",
-  "ModListHash": "QIs1QoV+dTg=",
+  "Version": "2.3",
+  "ModListHash": "k3EZ7TJ3hEE=",
   "Archives": [
     {
       "Status": "Valid",
@@ -1268,7 +1268,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DServant",
-          "Description": "DServant\u0027s Combat Gameplay Overhaul, without the combat. Removes everything but 3rd \u0026amp; 1st person leaning, jump attacks, and camera noise, while retaining the MCM.",
+          "Description": "DServant\u0027s Combat Gameplay Overhaul, without the combat. Removes everything but 3rd \u0026amp; 1st person leaning, jump attacks, and camera sway, while retaining the MCM.",
           "FileID": 250165,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60258/60258-1639774224-1346688701.png",
@@ -3001,6 +3001,20 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "bSaQwvAiSFo=",
+        "Meta": "[General]\ndirectURL=https://github.com/Osmosis-Wrench/wabbaWidget/releases/download/1.0/wabbaWidget.zip",
+        "Name": "wabbaWidget.zip",
+        "Size": 25437,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Osmosis-Wrench/wabbaWidget/releases/download/1.0/wabbaWidget.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "NzSZqkPWpe8=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=59633\nfileID=248528",
         "Name": "Smooth Random Jump Animation-59633-2-1-1639321705.zip",
@@ -3247,6 +3261,27 @@
           "ModID": 54411,
           "Name": "Little Touches- A tree Placement for Whiterun City",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KIwTHjHt2qU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=61251\nfileID=256294",
+        "Name": "LOD Unloading Bug Fix-61251-0-1-1642048241.7z",
+        "Size": 2946,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wankingSkeever",
+          "Description": "Fixes the bug where LOD objects don\u0027t unload if you load an exterior save and fast travel.",
+          "FileID": 256294,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61251/61251-1641283509-678530088.gif",
+          "IsNSFW": false,
+          "ModID": 61251,
+          "Name": "LOD Unloading Bug Fix",
+          "Version": "0.1.0.0"
         }
       }
     },
@@ -3799,13 +3834,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ydBhBPVL9nI=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/NPC Merge 2021-12-18 ESPS ONLY.7z_4959568a-27c8-4520-a4a7-fd5972b33156",
-        "Name": "NPC Merge 2021-12-18 ESPS ONLY.7z",
-        "Size": 334712,
+        "Hash": "Q6d9EnizwRQ=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/NPC Merge 2022-01-18.7z_0f838b96-fb3b-4a1e-8b44-042a2ede4e9a",
+        "Name": "NPC Merge 2022-01-18.7z",
+        "Size": 977089833,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/NPC%20Merge%202021-12-18%20ESPS%20ONLY.7z_4959568a-27c8-4520-a4a7-fd5972b33156"
+          "Url": "https://authored-files.wabbajack.org/NPC%20Merge%202022-01-18.7z_0f838b96-fb3b-4a1e-8b44-042a2ede4e9a"
         }
       }
     },
@@ -3959,21 +3994,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "T9lypv/h5/g=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=60958\nfileID=254854",
-        "Name": "Pause After Unload Unscripted AE-1.0.0.8.rar-60958-1-0-0-8-1641595201.rar",
-        "Size": 153348,
+        "Hash": "qSbzo4d7Z0g=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60958\nfileID=256364",
+        "Name": "Pause After Unload Unscripted SE-1.0.0.9.rar-60958-1-0-0-9-1642075444.rar",
+        "Size": 153277,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SteveTownsend",
           "Description": "SKSE plugin to mimic Pause After Loading Screens. Pauses the game after loading, doors, travel until player input. Options: auto-resume after interval, pause on save.",
-          "FileID": 254854,
+          "FileID": 256364,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60958/60958-1640843531-1647664380.gif",
           "IsNSFW": false,
           "ModID": 60958,
           "Name": "Pause After Load Unscripted",
-          "Version": "1.0.0.8"
+          "Version": "1.0.0.9"
         }
       }
     },
@@ -4306,21 +4341,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "tHAsfaTTRFg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=31612\nfileID=251468",
-        "Name": "Reliquary of Myth - Artifact Overhaul-31612-4-4-3-1640362525.7z",
-        "Size": 34185712,
+        "Hash": "TFh2sh9DcYQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=31612\nfileID=254347",
+        "Name": "Reliquary of Myth - Artifact Overhaul-31612-4-4-6-1641464720.7z",
+        "Size": 34186896,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "TitansBane",
           "Description": "Reliquary of Myth includes balanced, lore-friendly, and unique enchantments to nearly all of Skyrim\u0027s most legendary and famous artifacts.",
-          "FileID": 251468,
+          "FileID": 254347,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31612/31612-1593017452-346981980.png",
           "IsNSFW": false,
           "ModID": 31612,
           "Name": "Reliquary of Myth - Artifact Overhaul",
-          "Version": "4.4.3.0"
+          "Version": "4.4.6.0"
         }
       }
     },
@@ -4962,6 +4997,27 @@
           "ModID": 2300,
           "Name": "Skyrim SE Expanded Skyrim Weaponry",
           "Version": "f1.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Fea5MpNw/8k=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62126\nfileID=257499",
+        "Name": "Skyrim Souls RE - Minimap Compatibility-62126-1-0-1642443008.7z",
+        "Size": 1794,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Luca - EzioTheDeadPoet",
+          "Description": "Fixes the issue of the Minimap staying visible when opening some unpaused menus.",
+          "FileID": 257499,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62126/62126-1642442876-1409384502.png",
+          "IsNSFW": false,
+          "ModID": 62126,
+          "Name": "Skyrim Souls RE - Minimap Compatibility",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -7061,7 +7117,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DServant",
-          "Description": "DServant\u0027s Combat Gameplay Overhaul, without the combat. Removes everything but 3rd \u0026amp; 1st person leaning, jump attacks, and camera noise, while retaining the MCM.",
+          "Description": "DServant\u0027s Combat Gameplay Overhaul, without the combat. Removes everything but 3rd \u0026amp; 1st person leaning, jump attacks, and camera sway, while retaining the MCM.",
           "FileID": 252159,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60258/60258-1639774224-1346688701.png",
@@ -7390,6 +7446,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "KhJnlfy8fHA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62001\nfileID=257122",
+        "Name": "Immersive Equipment Displays-62001-1-0-3-1642314221.zip",
+        "Size": 1348477,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SlavicPotato",
+          "Description": "Display unequipped gear and custom items on the player or NPCs. Works with any item with no additional meshes required. Does not use body slots. SKSE64 plugin. Custom in-game user interface for configuring everything in real-time while you\u0027re playing. Includes a flexible positioning system for both equipped and unequipped gear.",
+          "FileID": 257122,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62001/62001-1642274191-1583063063.png",
+          "IsNSFW": false,
+          "ModID": 62001,
+          "Name": "Immersive Equipment Displays",
+          "Version": "1.0.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "3NAyypJ8JCw=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=53745\nfileID=238189",
         "Name": "IIAA - DCAU Instant Patch-53745-1-56-1635691177.7z",
@@ -7489,6 +7566,27 @@
           "ModID": 58862,
           "Name": "Mage Armor Script Fix",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5UDxv/hFfVs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53000\nfileID=223749",
+        "Name": "MCM SDK-53000-1-3-0-1629918647.zip",
+        "Size": 52248,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Parapets",
+          "Description": "Simplifies the creation of Mod Configuration Menus and extends them with powerful new features, such as persistent INI settings and hotkey registration. Mod authors will be able to write simpler, cleaner Papyrus scripts for their configs. Players will be able to spend less time in menus.",
+          "FileID": 223749,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53000/53000-1627746793-1514379922.png",
+          "IsNSFW": false,
+          "ModID": 53000,
+          "Name": "MCM Helper",
+          "Version": "1.3.0.0"
         }
       }
     },
@@ -7844,8 +7942,29 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53210/53210-1627954297-715188267.jpeg",
           "IsNSFW": false,
           "ModID": 53210,
-          "Name": "Ultimate Immersion Toggle - UI Toggle",
+          "Name": "Ultimate Immersion Toggle - UI Toggle - TM Version",
           "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XcRPd3QYnXI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62117\nfileID=257461",
+        "Name": "Immersion Toggle - UI Toggle - Hide Your HUD - Rebuild-62117-1-0-1642429671.7z",
+        "Size": 1936,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Luca - EzioTheDeadPoet",
+          "Description": "A complete rebuild of my previous mod that now doesn\u0027t rely on the \u0022tm\u0022 console command anymore.",
+          "FileID": 257461,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62117/62117-1642429266-43733491.png",
+          "IsNSFW": false,
+          "ModID": 62117,
+          "Name": "Ultimate Immersion Toggle - UI Toggle - Hide Your HUD - Rebuild",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -8422,21 +8541,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Uc0x8CcXFzk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=37737\nfileID=255009",
-        "Name": "Believable weapons SE-37737-1-3-1641646543.7z",
-        "Size": 12469968,
+        "Hash": "BnUdxUplhkk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=37737\nfileID=256750",
+        "Name": "Believable weapons SE-37737-1-4-1642208062.7z",
+        "Size": 12192003,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Jonas",
-          "Description": "Mesh replacer for 99 of Skyrim\u0027s original axes, maces, swords and warhammers. Opts for a slimmer and cleaner design, while keeping the original style.",
-          "FileID": 255009,
+          "Description": "Mesh replacer for 105 of Skyrim\u0027s original axes, maces, swords and warhammers. Opts for a slimmer and cleaner design, while keeping the original style.",
+          "FileID": 256750,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37737/37737-1593283303-1926078149.jpeg",
           "IsNSFW": false,
           "ModID": 37737,
           "Name": "Believable weapons",
-          "Version": "1.3.0.0"
+          "Version": "1.4.0.0"
         }
       }
     },
@@ -8814,6 +8933,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "9zYiQgg5ruk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=61950\nfileID=256825",
+        "Name": "Enhanced Invisibility SE-61950-1-1-0-1642229644.7z",
+        "Size": 221996,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "SKSE plugin that improves and fixes bugs with Invisibility effects",
+          "FileID": 256825,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61950/61950-1642218696-1263312632.gif",
+          "IsNSFW": false,
+          "ModID": 61950,
+          "Name": "Enhanced Invisibility",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Maz1mY7vDvA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=43500\nfileID=245264",
         "Name": "Enhanced Reanimation SE-43500-1-4-0-1638156734.7z",
@@ -8919,21 +9059,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "h4Zq70xd2IA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53653\nfileID=245810",
-        "Name": "Fixed Mesh Lighting-53653-1-6-1638370234.zip",
-        "Size": 154695665,
+        "Hash": "mmHsvN5GJEE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53653\nfileID=257654",
+        "Name": "Fixed Mesh Lighting-53653-1-6-1-1642505316.zip",
+        "Size": 154646710,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Catnyss",
           "Description": "Fixes lighting bugs with vanilla Skyrim meshes rendering too bright outside under shadows especially during daytime. \n\nPatches for popular mods included.",
-          "FileID": 245810,
+          "FileID": 257654,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53653/53653-1628683457-1876970166.png",
           "IsNSFW": false,
           "ModID": 53653,
           "Name": "Fixed Mesh Lighting",
-          "Version": "1.6.0.0"
+          "Version": "1.6.1.0"
         }
       }
     },
@@ -9100,21 +9240,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "w40e1cbZ1Jg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=56956\nfileID=247225",
-        "Name": "TK Dodge RE-v0.48-56956-v0-48-1638861868.7z",
-        "Size": 305369,
+        "Hash": "BsLNOhH5j4s=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56956\nfileID=256934",
+        "Name": "TK Dodge RE-v0.48a-56956-v0-48a-1642263628.7z",
+        "Size": 403491,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Maxsu and FBplus and Loop",
           "Description": "TK dodge script free remake edition, also with several features improvement.",
-          "FileID": 247225,
+          "FileID": 256934,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56956/56956-1634025087-1364057633.png",
           "IsNSFW": false,
           "ModID": 56956,
           "Name": "TK Dodge RE - Script Free",
-          "Version": "0.48.0.0"
+          "Version": "0.48.0.0a"
         }
       }
     },
@@ -9325,6 +9465,27 @@
           "ModID": 30817,
           "Name": "Lanterns Of Skyrim II",
           "Version": "4.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8/qLLIgYGSM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54421\nfileID=238707",
+        "Name": "Modpocalypse NPCs - Resources-54421-1--02-1635898875.7z",
+        "Size": 244895489,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ModpocalypseGaming",
+          "Description": "This file contains the meshes and textures required for the \u0022Modpocalypse NPCs\u0022 series.",
+          "FileID": 238707,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54421/54421-1629765747-1512046781.jpeg",
+          "IsNSFW": false,
+          "ModID": 54421,
+          "Name": "Modpocalypse NPCs - Resources",
+          "Version": "f1.02"
         }
       }
     },
@@ -9913,6 +10074,48 @@
           "ModID": 49047,
           "Name": "To Your Face Redux",
           "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tDdqhmddh84=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=21765\nfileID=121905",
+        "Name": "Uninterrupted Ethereal Form v2-21765-2-1580455671.zip",
+        "Size": 6921,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "meh321",
+          "Description": "Game will not remove ethereal form effect if you activate something (pick up item or open door for example).",
+          "FileID": 121905,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21765/21765-1544453953-1120271123.png",
+          "IsNSFW": false,
+          "ModID": 21765,
+          "Name": "Uninterrupted Ethereal Form",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RKeW9wbugls=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=21729\nfileID=121907",
+        "Name": "Uninterrupted Invisibility v2-21729-2-1580455756.zip",
+        "Size": 6909,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "meh321",
+          "Description": "Game will not remove invisibility effect if you activate something (pick up item or open door for example).",
+          "FileID": 121907,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21729/21729-1544355963-183192056.png",
+          "IsNSFW": false,
+          "ModID": 21729,
+          "Name": "Uninterrupted Invisibility",
+          "Version": "2.0.0.0"
         }
       }
     },
@@ -11032,27 +11235,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8/qLLIgYGSM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54421\nfileID=238707",
-        "Name": "Modpocalypse NPCs - Resources-54421-1--02-1635898875.7z",
-        "Size": 244895489,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ModpocalypseGaming",
-          "Description": "This file contains the meshes and textures required for the \u0022Modpocalypse NPCs\u0022 series.",
-          "FileID": 238707,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54421/54421-1629765747-1512046781.jpeg",
-          "IsNSFW": false,
-          "ModID": 54421,
-          "Name": "Modpocalypse NPCs - Resources",
-          "Version": "f1.02"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "+3V/Cgz8WLw=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=53757\nfileID=220772",
         "Name": "TDM - Tail Behavior Fix-53757-1-0-1628824407.zip",
@@ -11194,6 +11376,27 @@
           "ModID": 50049,
           "Name": "Simple Dual Sheath",
           "Version": "4.80.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XOJXcJLRcPg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=38480\nfileID=246585",
+        "Name": "BeastHHBB - Patches and Addons-38480-1-0-1638631461.zip",
+        "Size": 169236286,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mharlek1",
+          "Description": "The ultimate mod package for the beast races boasting thousands of possible outcomes for player character creation with exciting new vanilla based models accompanied by a complete npc replacer for all Argonians and Khajiit, named npcs and leveled lists, with glorious reimagining.\n\nAnd beyond: optional unique npc replacer addons for other mods",
+          "FileID": 246585,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38480/38480-1596231698-1692247970.png",
+          "IsNSFW": false,
+          "ModID": 38480,
+          "Name": "BeastHHBB - Khajiit and Argonian content - player character and NPC replacer",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -11694,21 +11897,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "P1a/JPgK9IQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54883\nfileID=248512",
-        "Name": "Smooth Staff Animation-54883-1-2-1639315223.zip",
-        "Size": 687183,
+        "Hash": "blzzSefUgrc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54883\nfileID=256725",
+        "Name": "Smooth Staff Animation-54883-1-3-1642203369.zip",
+        "Size": 686895,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Smooth",
           "Description": "Changes the appearance of a gorilla using a staff to a human form.",
-          "FileID": 248512,
+          "FileID": 256725,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54883/54883-1630440309-876472766.gif",
           "IsNSFW": false,
           "ModID": 54883,
           "Name": "Smooth Staff Animation",
-          "Version": "1.2.0.0"
+          "Version": "1.3.0.0"
         }
       }
     },
@@ -11939,48 +12142,6 @@
           "IsNSFW": false,
           "ModID": 56956,
           "Name": "TK Dodge RE - Script Free",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Gskcqu4fDHc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=10112\nfileID=26989",
-        "Name": "Fluffjiits SSE-10112-1-8.rar",
-        "Size": 103711586,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "FluffEisenkette and butidigress",
-          "Description": "A Khajiit race replacer for Skyrim Special Edition",
-          "FileID": 26989,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/10112-0-1497473247.png",
-          "IsNSFW": true,
-          "ModID": 10112,
-          "Name": "Fluff\u0027s Hybrid Khajiits SSE",
-          "Version": "1.8.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "s22hF4O5cfI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54422\nfileID=223358",
-        "Name": "Modpocalypse NPCs - All Vanilla NPCs v3-54422-1-0-1629769843.7z",
-        "Size": 861471059,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ModpocalypseGaming",
-          "Description": "This mod improves the visual appearance of every NPC in the base game.",
-          "FileID": 223358,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54422/54422-1629766511-207602721.jpeg",
-          "IsNSFW": false,
-          "ModID": 54422,
-          "Name": "Modpocalypse NPCs - All Vanilla NPCs",
           "Version": "1.0.0.0"
         }
       }
