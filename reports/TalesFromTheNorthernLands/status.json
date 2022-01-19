@@ -1,8 +1,8 @@
 {
   "MachineURL": "TalesFromTheNorthernLands",
   "Name": "Tales from the Northern Lands",
-  "Version": "2.3",
-  "ModListHash": "k3EZ7TJ3hEE=",
+  "Version": "2.3.1",
+  "ModListHash": "bbdPYB+shOM=",
   "Archives": [
     {
       "Status": "Valid",
@@ -925,21 +925,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ZKp5hI7JC2M=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59487\nfileID=246446",
-        "Name": "Apothecary Action Patch - 5x Faster Recovery Potions-59487-1-0-1638577030.7z",
-        "Size": 1165,
+        "Hash": "+cwdoxQR85A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59487\nfileID=257893",
+        "Name": "Apothecary Action Patch - 5x Faster Recovery Potions-59487-1-1-1642599423.7z",
+        "Size": 4556,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Luca - EzioTheDeadPoet",
           "Description": "Reduces the time of the recovery potions by 5  and increased the effect strength by the same factor.",
-          "FileID": 246446,
+          "FileID": 257893,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59487/59487-1638576093-233469566.png",
           "IsNSFW": false,
           "ModID": 59487,
           "Name": "Apothecary Action Patch - 5x Faster Recovery Potions",
-          "Version": "1.0.0.0"
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -1395,27 +1395,6 @@
           "ModID": 45148,
           "Name": "Conditional Expressions - Subtle Face Animations",
           "Version": "1.20.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fdsK1wzoFo4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43763\nfileID=190218",
-        "Name": "SkyRem - Cassi-43763-1-0-1-1615216201.zip",
-        "Size": 13358,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DrPharmDawg",
-          "Description": "Lore inspired improvements on the 13 standing stones, with a SkyRem twist. The strength of the abilities granted by the stones, and their corresponding trade-offs (or penalties if you wish), wax and wane as their constellation counterparts go in and out of season.",
-          "FileID": 190218,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43763/43763-1609214731-318446625.png",
-          "IsNSFW": false,
-          "ModID": 43763,
-          "Name": "Constellations - A Standing Stones Improvement (SkyRem - Cassi)",
-          "Version": "1.0.1.0"
         }
       }
     },
@@ -3561,6 +3540,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "bhI/JTfQQ/o=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=33411\nfileID=238042",
+        "Name": "Mundus - A Standing Stone Overhaul-33411-1-7-0-1635640449.7z",
+        "Size": 4428,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Simon Magus",
+          "Description": "Mundus is a complete overhaul of Skyrim\u2019s Standing Stones designed to balance the game\u2019s stone bonuses and add powerful new gameplay options.",
+          "FileID": 238042,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33411/33411-1583615824-315240576.png",
+          "IsNSFW": false,
+          "ModID": 33411,
+          "Name": "Mundus - A Standing Stone Overhaul",
+          "Version": "1.7.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "kD5D7hAQGSY=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=7096\nfileID=16811",
         "Name": "My Home is Your Home-7096-.zip",
@@ -3994,21 +3994,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qSbzo4d7Z0g=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=60958\nfileID=256364",
-        "Name": "Pause After Unload Unscripted SE-1.0.0.9.rar-60958-1-0-0-9-1642075444.rar",
-        "Size": 153277,
+        "Hash": "iAQtkkwzUPo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62031\nfileID=257632",
+        "Name": "Pause Menu After Loading - Auto Unpause-62031-v2-1642487275.zip",
+        "Size": 11377,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SteveTownsend",
-          "Description": "SKSE plugin to mimic Pause After Loading Screens. Pauses the game after loading, doors, travel until player input. Options: auto-resume after interval, pause on save.",
-          "FileID": 256364,
+          "Author": "Osmosis-Wrench - wSkeever",
+          "Description": "Uses a custom menu to force the game to pause fully after loading screens. After receving any key input it will automatically close the pause screen and continue the game instantly. Supports controller, mouse and keyboard input.",
+          "FileID": 257632,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60958/60958-1640843531-1647664380.gif",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62031/62031-1642321074-1155975748.gif",
           "IsNSFW": false,
-          "ModID": 60958,
-          "Name": "Pause After Load Unscripted",
-          "Version": "1.0.0.9"
+          "ModID": 62031,
+          "Name": "Pause Menu After Load Screens",
+          "Version": "2.0.0.0"
         }
       }
     },
@@ -5921,27 +5921,6 @@
           "ModID": 17561,
           "Name": "UIExtensions",
           "Version": "1.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "XuKNHnXwzNo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44031\nfileID=249195",
-        "Name": "Unequip Quiver SE-44031-1-7-1639526156.zip",
-        "Size": 211849,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PK0",
-          "Description": "Unequip Quiver removes the quiver/bolts when equipping weapons and spells or when the character unequips the bow or crossbow. (SKSE Plugin)",
-          "FileID": 249195,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44031/44031-1609882631-1506340646.png",
-          "IsNSFW": false,
-          "ModID": 44031,
-          "Name": "Unequip Quiver SE",
-          "Version": "1.7.0.0"
         }
       }
     },
@@ -9198,21 +9177,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Znq+JsCyHOw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=50049\nfileID=243656",
-        "Name": "Simple Dual Sheath-50049-1-5-1-1637652931.zip",
-        "Size": 259030,
+        "Hash": "0Y1AROw3k8c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=50049\nfileID=257742",
+        "Name": "Simple Dual Sheath-50049-1-5-2-1642538272.zip",
+        "Size": 254335,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SlavicPotato",
           "Description": "Makes equipped left hand weapons and both staves visible on the player or NPCs. Works with any weapon. Lightweight SKSE64 plugin. No scripts, ESPs or additional meshes required. Includes shield on back option.",
-          "FileID": 243656,
+          "FileID": 257742,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50049/50049-1621269269-1230900975.png",
           "IsNSFW": false,
           "ModID": 50049,
           "Name": "Simple Dual Sheath",
-          "Version": "1.5.1.0"
+          "Version": "1.5.2.0"
         }
       }
     },
@@ -11834,21 +11813,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6zuQ402KRpE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45799\nfileID=225265",
-        "Name": "Smooth Magic Casting Animation-45799-3-3-1630441221.7z",
-        "Size": 410106,
+        "Hash": "xEBYE478pJ4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45799\nfileID=257879",
+        "Name": "Smooth Magic Casting Animation-45799-4-0-1642588409.zip",
+        "Size": 1055099,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Smooth",
           "Description": "We have been waiting for a long time. New magic casting animation.",
-          "FileID": 225265,
+          "FileID": 257879,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45799/45799-1613498126-2050697232.png",
           "IsNSFW": false,
           "ModID": 45799,
           "Name": "Smooth Magic Casting Animation",
-          "Version": "3.3.0.0"
+          "Version": "4.0.0.0"
         }
       }
     },
