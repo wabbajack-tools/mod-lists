@@ -381,7 +381,7 @@
 *  [Pickpocket Everyone-38702-0-2-1595835704.rar](https://www.nexusmods.com/skyrimspecialedition/mods/38702/?tab=files&file_id=152353)
 *  [Pickpocket Reset-13838-1-1-1-1618526480.7z](https://www.nexusmods.com/skyrimspecialedition/mods/13838/?tab=files&file_id=198406)
 *  [Player Rotation in ShowRaceMenu v1.0.0 for SkyrimSE-36095-1-0-0-1589710499.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36095/?tab=files&file_id=140440)
-*  [powerofthree's Tweaks SE-51073-1-4-1-1637694161.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=243754)
+*  [powerofthree's Tweaks SE-51073-1-5-1-1642691073.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=258071)
 *  [Pray With Amulets-35248-1-1-1596191493.zip](https://www.nexusmods.com/skyrimspecialedition/mods/35248/?tab=files&file_id=153060)
 *  [prod80-ReShade-Repository-1c810bef7b032d26d64a385625e2d5aeff073429.zip](https://github.com/prod80/prod80-ReShade-Repository/archive/1c810bef7b032d26d64a385625e2d5aeff073429.zip)
 *  [PrvtIRoyalArmory - Experience fix - for Royal Armory Tweaks and Fixes-51901-1-0-1625776976.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51901/?tab=files&file_id=213419)
@@ -475,7 +475,7 @@
 *  Smooth Combat Animation by skill level.7z
 *  [Smooth Combat Non Combat Animation-52145-4-5-1641687572.zip](https://www.nexusmods.com/skyrimspecialedition/mods/52145/?tab=files&file_id=255144)
 *  Smooth Jump Stagger Animation (1).7z
-*  [Smooth Magic Casting Animation-45799-4-0-1642588409.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45799/?tab=files&file_id=257879)
+*  [Smooth Magic Casting Animation-45799-4-2-1642677385.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45799/?tab=files&file_id=258039)
 *  [Smooth Random Blocking Animation 3.2-59239-3-2-1638279965.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59239/?tab=files&file_id=245535)
 *  [Smooth Random Jump Animation-59633-2-1-1639321705.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59633/?tab=files&file_id=248528)
 *  [Smooth Random Magic idle Animation 2.0-49853-2-0-1638508381.zip](https://www.nexusmods.com/skyrimspecialedition/mods/49853/?tab=files&file_id=246228)
