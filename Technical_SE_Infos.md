@@ -10,7 +10,7 @@ Keizaal                        | 1.6.342          | Stock Game
 Total Skyrim Overhaul          | N/A              | N/A
 Path of the Dovahkiin          | 1.5.97           | Stock Game
 Tales from the Northern Lands  | 1.6.353          | Stock Game
-Living Skyrim                  | 1.5.97           | Stock Game
+Living Skyrim                  | 1.6.353          | Stock Game
 Tinvaak 2                      | 1.5.97           | Stock Game
 Slidikins' Strenuous Skyrim    | 1.6.342          | Stock Game
 The Phoenix Flavour            | 1.6.353          | Stock Game
