@@ -1,8 +1,8 @@
 {
   "MachineURL": "diabolist_vr",
   "Name": "Diabolist VR",
-  "Version": "2.9.2",
-  "ModListHash": "9lUMV64Gj/k=",
+  "Version": "2.9.5",
+  "ModListHash": "ZG05i2kd8sQ=",
   "Archives": [
     {
       "Status": "Valid",
@@ -22,13 +22,13 @@
       "Status": "Valid",
       "Original": {
         "Hash": "XxHdJqmG/zI=",
-        "Meta": "[General]\ndirectURL=https://github.com/rollingrock/EngineFixesVR/releases/download/v1.21/EngineFixesVR_part2.zip",
+        "Meta": "[General]\ndirectURL=https://github.com/rollingrock/EngineFixesVR/releases/download/v1.22/EngineFixesVR_part2.zip",
         "Name": "EngineFixesVR_part2.zip",
         "Size": 195198,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/rollingrock/EngineFixesVR/releases/download/v1.21/EngineFixesVR_part2.zip"
+          "Url": "https://github.com/rollingrock/EngineFixesVR/releases/download/v1.22/EngineFixesVR_part2.zip"
         }
       }
     },
@@ -1861,27 +1861,6 @@
           "ModID": 44989,
           "Name": "Voidgate - A Simple Town Portal",
           "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "AU6lAp4wOmM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=18533\nfileID=74875",
-        "Name": "DisplayEnemyLevelVR 1.0.0 for Skyrim 1415-18533-1-0-0-1544595692.7z",
-        "Size": 178414,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Felisky",
-          "Description": "This MOD displays enemy level and enemy health numbers on the HUDMenu.",
-          "FileID": 74875,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18533/18533-1531376715-1364111358.jpeg",
-          "IsNSFW": false,
-          "ModID": 18533,
-          "Name": "Display Enemy Level",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -3904,6 +3883,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "1S3DYtKADo4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=61719\nfileID=256991",
+        "Name": "MCM Recorder-61719-1-0-5-1642273439.zip",
+        "Size": 64586,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mrowr Purr",
+          "Description": "Configuring MCMs has never been easier!",
+          "FileID": 256991,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61719/61719-1641851175-987844145.png",
+          "IsNSFW": false,
+          "ModID": 61719,
+          "Name": "MCM Recorder",
+          "Version": "1.0.5.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "FjvmhtYgUYM=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=27131\nfileID=149655",
         "Name": "Mighty Bellyaches New Dragon Species-27131-1-53-1594357267.7z",
@@ -4219,21 +4219,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "2y6ntv8KmF8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=33215\nfileID=244793",
-        "Name": "moreHUD VR-33215-1-0-5-1638022018.7z",
-        "Size": 695769,
+        "Hash": "/LIkWgJbMDE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=33215\nfileID=257984",
+        "Name": "moreHUD VR-33215-1-0-7-1642643998.7z",
+        "Size": 696462,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ahzaab",
           "Description": "Adds more information to the HUD about the currently targeted object. Such as ingredients, weapon effects, potions, read books, v/w, enemy level, etc",
-          "FileID": 244793,
+          "FileID": 257984,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33215/33215-1583090570-1305381865.png",
           "IsNSFW": false,
           "ModID": 33215,
           "Name": "moreHUD VR",
-          "Version": "1.0.5.0"
+          "Version": "1.0.7.0"
         }
       }
     },
@@ -5745,21 +5745,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WyY68QIznwk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=26627\nfileID=211916",
-        "Name": "Spellsiphon - Complete Edition-26627-5-14-1625062076.7z",
-        "Size": 2945795,
+        "Hash": "GwBNYrU74Bs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=26627\nfileID=257255",
+        "Name": "Spellsiphon - Complete Edition-26627-5-16-1642349673.7z",
+        "Size": 2948968,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Arctal",
           "Description": "Experience gameplay focused on combos and synergy. Lessen the need for menus or hotkeys through a system where swapping spells and weapons is streamlined and rewarding. Continue the fight at 0 magicka by using new spell types. Enjoy a plethora of new sounds and visual effects. Grow in power by playing skillfully, not just from levels and gear.",
-          "FileID": 211916,
+          "FileID": 257255,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26627/26627-1610977815-1142588597.png",
           "IsNSFW": false,
           "ModID": 26627,
           "Name": "Spellsiphon - Immersive Combat",
-          "Version": "0.0.0.0"
+          "Version": "5.16.0.0"
         }
       }
     },
@@ -6241,21 +6241,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5Qrm+GIxI9U=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=26176\nfileID=247313",
-        "Name": "Vokrii 3.8.0-26176-3-8-0-1638898232.zip",
-        "Size": 764814,
+        "Hash": "AyyF53KGpFg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=26176\nfileID=258362",
+        "Name": "Vokrii 3.8.2-26176-3-8-2-1642771755.zip",
+        "Size": 764784,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Enai Siaion",
           "Description": "Vokrii is a lightweight \u0022vanilla-plus\u0022 perk overhaul that improves build diversity, but respects the vanilla vision and balance. It is lightweight and uses clean scripting.",
-          "FileID": 247313,
+          "FileID": 258362,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26176/26176-1601731663-2107855687.jpeg",
           "IsNSFW": false,
           "ModID": 26176,
           "Name": "Vokrii - Minimalistic Perks of Skyrim",
-          "Version": "3.8.0.0"
+          "Version": "3.8.2.0"
         }
       }
     },
@@ -6550,27 +6550,6 @@
           "ModID": 1988,
           "Name": "XP32 Maximum Skeleton Special Extended - XPMSSE",
           "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "0vUEloMWoeY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=29437\nfileID=111145",
-        "Name": "YeOlde - MCM Settings-29437-1-1-4-alpha-1571790499.7z",
-        "Size": 89525,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "YeOldeDragon",
-          "Description": "A mod to configure a few things for Sky UI.\n\n- You can hide/show any installed MCM menu from your SkyUI interface.  \n\n- You can backup and import many MCM menu configs (see description for more infos).",
-          "FileID": 111145,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29437/29437-1570147428-523349388.png",
-          "IsNSFW": false,
-          "ModID": 29437,
-          "Name": "YeOlde - MCM Settings",
-          "Version": "1.1.4.0a-"
         }
       }
     },
@@ -8602,15 +8581,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Du+3oVRvEVs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=52897\nfileID=256629",
-        "Name": "DynDOLOD Resources SE 3.00-52897-Alpha-19-1642180701.7z",
-        "Size": 64362823,
+        "Hash": "asIIacyOBI8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=52897\nfileID=257352",
+        "Name": "DynDOLOD Resources SE 3.00-52897-Alpha-19-1642374914.7z",
+        "Size": 64363221,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sheson",
           "Description": "DynDOLOD Resources SE 3 required by DynDOLOD 3 for drastically improved tree and object LOD generation.",
-          "FileID": 256629,
+          "FileID": 257352,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/52897/108514-1627373276-1783344232.jpeg",
           "IsNSFW": false,
@@ -8760,6 +8739,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "UUcNXamirtg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60363\nfileID=257770",
+        "Name": "XPMSSE - Nemesis - Script Fix-60363-4-8-1-1642543750.7z",
+        "Size": 23186,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tommas666",
+          "Description": "Fixes XPMSSE script where it can\u0027t find the correct animation groups causing Papyrus Stack errors, when using Nemesis.",
+          "FileID": 257770,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60363/60363-1639931203-351687902.png",
+          "IsNSFW": false,
+          "ModID": 60363,
+          "Name": "XPMSSE - Nemesis - Papyrus Stack Fix",
+          "Version": "4.8.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Jzi27mO4yEg=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=22854\nfileID=190489",
         "Name": "Papyrus Extender VR - 4.3-22854-4-3-1615320224.7z",
@@ -8880,27 +8880,6 @@
           "ModID": 17897,
           "Name": "Transparent Dialogue VR",
           "Version": "0.5.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+17gg/AIIuo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=60363\nfileID=250345",
-        "Name": "XPMSSE - Nemesis - Script Fix-60363-3-6-1639932398.7z",
-        "Size": 12177,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Tommas666",
-          "Description": "Fixes XPMSSE script where it can\u0027t find the correct animation groups causing Papyrus Stack errors, when using Nemesis.",
-          "FileID": 250345,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60363/60363-1639931203-351687902.png",
-          "IsNSFW": false,
-          "ModID": 60363,
-          "Name": "XPMSSE - Nemesis - Papyrus Stack Fix",
-          "Version": "4.8.0.0"
         }
       }
     },
@@ -9469,14 +9448,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dHfcUzt72/4=",
-        "Meta": "[General]\ndirectURL=https://github.com/rollingrock/EngineFixesVR/releases/download/v1.21/EngineFixesVR_v121_part1.zip",
-        "Name": "EngineFixesVR_v121_part1.zip",
-        "Size": 342736,
+        "Hash": "MRCUg7bj+Yc=",
+        "Meta": "[General]\ndirectURL=https://github.com/rollingrock/EngineFixesVR/releases/download/v1.22/EngineFixesVR_v122_part1.zip",
+        "Name": "EngineFixesVR_v122_part1.zip",
+        "Size": 343729,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/rollingrock/EngineFixesVR/releases/download/v1.21/EngineFixesVR_v121_part1.zip"
+          "Url": "https://github.com/rollingrock/EngineFixesVR/releases/download/v1.22/EngineFixesVR_v122_part1.zip"
         }
       }
     },
@@ -10023,6 +10002,48 @@
           "ModID": 1188,
           "Name": "More Subtle Nirnroot",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/DxkORk7UZs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59510\nfileID=256080",
+        "Name": "powerofthrees\u0027 Tweaks VR-59510-1-5-0-1641975623.7z",
+        "Size": 3489015,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "alandtse",
+          "Description": "Collection of engine bug fixes and tweaks. SKSEVR plugin. Built from po3\u0027s source.",
+          "FileID": 256080,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59510/59510-1638616256-1374153815.png",
+          "IsNSFW": false,
+          "ModID": 59510,
+          "Name": "powerofthree\u0027s Tweaks VR",
+          "Version": "1.5.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4zJRupRswsE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=51073\nfileID=258051",
+        "Name": "INI file-51073-1-5-0-1642682975.7z",
+        "Size": 2023,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "Collection of engine bug fixes and tweaks. SKSE plugin.",
+          "FileID": 258051,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51073/51073-1623688700-1006153578.png",
+          "IsNSFW": false,
+          "ModID": 51073,
+          "Name": "powerofthree\u0027s Tweaks",
+          "Version": "1.5.0.0"
         }
       }
     },
