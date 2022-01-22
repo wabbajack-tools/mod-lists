@@ -429,7 +429,7 @@
 *  [Masculine Chameleon and Lizard (Vanilla) 2K-185-2-0-1635646063.7z](https://www.nexusmods.com/skyrimspecialedition/mods/185/?tab=files&file_id=238065)
 *  [Masculine Grey Cat and Leopard (Vanilla) 2K-186-2-0-1637430468.7z](https://www.nexusmods.com/skyrimspecialedition/mods/186/?tab=files&file_id=242970)
 *  [Masculine Khajiit EXTRA (Vanilla) 2K-186-2-0-1637421586.7z](https://www.nexusmods.com/skyrimspecialedition/mods/186/?tab=files&file_id=242936)
-*  [MCM Recorder-61719-1-0-5-1642273439.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61719/?tab=files&file_id=256991)
+*  [MCM Recorder-61719-1-0-7-1642847171.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61719/?tab=files&file_id=258619)
 *  [Medieval Candlehorns and Sconces-24324-2-0-0-1561629898.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24324/?tab=files&file_id=97446)
 *  [Mighty Bellyaches New Dragon Species-27131-1-53-1594357267.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27131/?tab=files&file_id=149655)
 *  [MILK - Many Immersive Lootboxes and Keys-90138-v1-0-1.rar](https://www.nexusmods.com/skyrim/mods/90138/?tab=files&file_id=1000268943)
