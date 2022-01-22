@@ -1,8 +1,8 @@
 {
   "MachineURL": "tpf",
   "Name": "The Phoenix Flavour",
-  "Version": "4.11.0",
-  "ModListHash": "gPYLA6HMaq4=",
+  "Version": "4.11.1",
+  "ModListHash": "8xlMTiifegc=",
   "Archives": [
     {
       "Status": "Valid",
@@ -238,14 +238,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "B0H61OxirmU=",
-        "Meta": "[General]\ndirectURL=http://skse.silverlock.org/beta/skse64_2_00_19.7z",
-        "Name": "skse64_2_00_19.7z",
-        "Size": 922047,
+        "Hash": "v1aK6iCHYs8=",
+        "Meta": "[General]\ndirectURL=https://skse.silverlock.org/beta/skse64_2_00_20.7z",
+        "Name": "skse64_2_00_20.7z",
+        "Size": 813935,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "http://skse.silverlock.org/beta/skse64_2_00_19.7z"
+          "Url": "https://skse.silverlock.org/beta/skse64_2_00_20.7z"
         }
       }
     },
@@ -495,21 +495,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "rkSlpeW5BIg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59790\nfileID=248541",
-        "Name": "Hand to Hand - BSC Patch-59790-1-0-1-1639323983.7z",
-        "Size": 2350844,
+        "Hash": "Z9YB+coltqQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59790\nfileID=251780",
+        "Name": "Hand to Hand - BSC Patch-59790-1-0-2-1640486769.7z",
+        "Size": 2380386,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Simon Magus - Colinswrath - Jelidity",
           "Description": "Hand to Hand is an addon for Adamant - A Perk Overhaul that merges Lockpicking and Pickpocketing into a single skill and adds a new perk tree for Hand to Hand combat.",
-          "FileID": 248541,
+          "FileID": 251780,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59790/59790-1639082548-714006488.png",
           "IsNSFW": false,
           "ModID": 59790,
           "Name": "Hand to Hand - An Adamant Addon",
-          "Version": "1.0.1.0"
+          "Version": "1.0.2.0"
         }
       }
     },
@@ -1600,7 +1600,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46687/46687-1615191478-639698353.jpeg",
           "IsNSFW": false,
           "ModID": 46687,
-          "Name": "Companions Werewolf Bloodritual Scene Tweak",
+          "Name": "Scene Tweak - Companions Werewolf Bloodritual",
           "Version": "0.0.0.0"
         }
       }
@@ -1734,21 +1734,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "rEkC17UMm5g=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=41284\nfileID=226867",
-        "Name": "Deadly Spell Impacts Transparency Fix-41284-3-0-1631061617.zip",
-        "Size": 520,
+        "Hash": "dIhzf9QNiY0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=41284\nfileID=251343",
+        "Name": "Deadly Spells Impacts Transparency Fix-41284-3-1-1640317062.7z",
+        "Size": 498604,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Korodic and Daralima",
           "Description": "For ENB users, the Deadly Spell Impacts mod by isoku can have squares around them due to an issue with transparency. This was identified as a deficiency within the Deadly Spell Impacts mod which hasn\u0027t been updated since 2017. My mod makes the necessary changes to fix this issue so you don\u0027t have to.",
-          "FileID": 226867,
+          "FileID": 251343,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41284/41284-1602395439-1186210591.jpeg",
           "IsNSFW": false,
           "ModID": 41284,
           "Name": "Deadly Spell Impacts Transparency Fix for ENB",
-          "Version": "0.0.0.0"
+          "Version": "3.1.0.0"
         }
       }
     },
@@ -3183,27 +3183,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uljPneVfsY0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43441\nfileID=227398",
-        "Name": "Lightweight Smithing Tweaks for SSO-43441-1-2-1631279126.7z",
-        "Size": 1323,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Phoenix",
-          "Description": "",
-          "FileID": 227398,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 43441,
-          "Name": "",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "gLd5depFe40=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=53030\nfileID=220371",
         "Name": "Lucid Skin-53030-1-5-1-1628674158.7z",
@@ -3366,6 +3345,27 @@
           "ModID": 28904,
           "Name": "Misc Dialogue Edits",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "aNc1HByOjVQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=38348\nfileID=251674",
+        "Name": "Misc Tweaks - Decluttered Crafting Menus-38348-1-0-1640445793.7z",
+        "Size": 1078,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "see credits tab",
+          "Description": "A small collection of various tweaks.",
+          "FileID": 251674,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38348/38348-1596981424-483315613.jpeg",
+          "IsNSFW": false,
+          "ModID": 38348,
+          "Name": "Miscellaneous Tweaks Collection",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -5158,21 +5158,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dt96CsWiuow=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=47115\nfileID=227373",
-        "Name": "Simple Smithing Overhaul-47115-1-1-6a-1631270580.7z",
-        "Size": 75581,
+        "Hash": "bWAbBaFlSmA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=47115\nfileID=255986",
+        "Name": "Simple Smithing Overhaul-47115-1-3-1-1641932581.7z",
+        "Size": 81003,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "m00se",
           "Description": "A simple smithing overhaul changing recipes, adding the ability to breakdown most armour and weapons, replicate certain artefacts without their enchantments, and upgrade unique levelled weapons and armour.",
-          "FileID": 227373,
+          "FileID": 255986,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47115/47115-1617538323-678960110.png",
           "IsNSFW": false,
           "ModID": 47115,
           "Name": "Simple Smithing Overhaul",
-          "Version": "0.0.0.0"
+          "Version": "1.3.1.0"
         }
       }
     },
@@ -5914,21 +5914,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GfNFdR/re4o=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=14223\nfileID=248525",
-        "Name": "The Phoenix Flavour - Conflict Resolution Patch - Maintainer Version-14223-4-10-1-1639320084.7z",
-        "Size": 4950144,
+        "Hash": "F+njAvMaUB4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=14223\nfileID=258686",
+        "Name": "The Phoenix Flavour - Conflict Resolution Patch - Maintainer Version-14223-4-11-1-1642873450.7z",
+        "Size": 4945924,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Phoenix and Umgak",
           "Description": "The Nexus page for The Phoenix Flavour guide - https://thephoenixflavour.com/ - with all necessary files.",
-          "FileID": 248525,
+          "FileID": 258686,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/14223/14223-1514314519-272502807.jpeg",
           "IsNSFW": false,
           "ModID": 14223,
           "Name": "The Phoenix Flavour - A Modding Guide for Skyrim SE",
-          "Version": "4.10.1.0"
+          "Version": "4.11.1.0"
         }
       }
     },
@@ -6472,6 +6472,27 @@
           "ModID": 18994,
           "Name": "Weapons Armor Clothing and Clutter Fixes",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "T39gnkII26g=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59343\nfileID=245813",
+        "Name": "Windhelm - Snow Texture Cleanup-59343-1-1-1638371163.7z",
+        "Size": 3408,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Codygits",
+          "Description": "A hub for the collection of patches that I make for mods that I play with, others might find them useful, so here they are.",
+          "FileID": 245813,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59343/59343-1638333940-445142629.png",
+          "IsNSFW": false,
+          "ModID": 59343,
+          "Name": "Miscellaneous Patch Hub",
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -8086,27 +8107,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cctlPlawx6U=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59790\nfileID=248786",
-        "Name": "Hand to Hand - An Adamant Addon-59790-1-0-1-1639405182.7z",
-        "Size": 534455,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Simon Magus - Colinswrath - Jelidity",
-          "Description": "Hand to Hand is an addon for Adamant - A Perk Overhaul that merges Lockpicking and Pickpocketing into a single skill and adds a new perk tree for Hand to Hand combat.",
-          "FileID": 248786,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59790/59790-1639082548-714006488.png",
-          "IsNSFW": false,
-          "ModID": 59790,
-          "Name": "Hand to Hand - An Adamant Addon",
-          "Version": "1.0.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "ch+HsBAf2KA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=32444\nfileID=125647",
         "Name": "All in one-32444-2-1582543914.zip",
@@ -8233,21 +8233,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "jWbHC+QMagw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=253359",
-        "Name": "Assorted Mesh Fixes-32117-0-41-1-1641136506.7z",
-        "Size": 11099125,
+        "Hash": "KNmWLahw6Js=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=256101",
+        "Name": "Assorted Mesh Fixes-32117-0-44-1641984096.7z",
+        "Size": 11332545,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wankingSkeever",
           "Description": "Fixes various issues with vanilla Skyrim meshes that causes them to render incorrectly",
-          "FileID": 253359,
+          "FileID": 256101,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32117/32117-1612599331-161051453.png",
           "IsNSFW": false,
           "ModID": 32117,
           "Name": "Assorted mesh fixes",
-          "Version": "0.41.1.0"
+          "Version": "0.44.0.0"
         }
       }
     },
@@ -16106,27 +16106,6 @@
           "IsNSFW": false,
           "ModID": 39260,
           "Name": "Dlizzio\u0027s Mesh Fixes",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "WvKDlRhrY3o=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=51310\nfileID=219877",
-        "Name": "Dragon War - Dragon Animation Replace Patch-51310-1-1-1628476127.7z",
-        "Size": 42604,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Delta",
-          "Description": "Dragon War is a lightweight dragon combat overhaul. It will change the way you approach dragon encounters - now you are the prey and no longer the predator.",
-          "FileID": 219877,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51310/51310-1623976320-1913388928.png",
-          "IsNSFW": false,
-          "ModID": 51310,
-          "Name": "Dragon War - A Dragon Overhaul",
           "Version": "0.0.0.0"
         }
       }
