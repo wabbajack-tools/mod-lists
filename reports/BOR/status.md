@@ -1,11 +1,10 @@
 ## Validation Report - Box of Rockets (BOR)
 
 
-### Invalid (1)
-*  [scatterer-0.0772.zip](https://spacedock.info/mod/141/scatterer/download/0.0772)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (60)
+### Valid (61)
 *  [BetterTimeWarp-1.8.0-2.3.12.6-180.zip](https://github.com/linuxgurugamer/BetterTimeWarpContinued/releases/download/2.3.12.6/BetterTimeWarp-1.8.0-2.3.12.6-180.zip)
 *  [Blueshift.zip](https://github.com/Angel-125/Blueshift/releases/download/v1.3.5/Blueshift.zip)
 *  [ClickThroughBlocker-1.10.1-0.1.10.15.zip](https://github.com/linuxgurugamer/ClickThroughBlocker/releases/download/0.1.10.15/ClickThroughBlocker-1.10.1-0.1.10.15.zip)
@@ -48,6 +47,7 @@
 *  [RealChute_v1.4.8.3.zip](https://github.com/ChrisViral/RealChute/releases/download/v1.4.8.3/RealChute_v1.4.8.3.zip)
 *  [RealPlume_-_Stock-v4.0.6.zip](https://spacedock.info/mod/2226/RealPlume - Stock/download/v4.0.6)
 *  [RetractableLiftingSurface-1.8.0-0.2.1.1.zip](https://github.com/linuxgurugamer/RetractableLiftingSurface/releases/download/0.2.1.1/RetractableLiftingSurface-1.8.0-0.2.1.1.zip)
+*  [scatterer-0.0772.zip](https://spacedock.info/mod/141/scatterer/download/0.0772)
 *  [Singularity0.991.zip](https://github.com/LGhassen/Singularity/releases/download/0.991/Singularity0.991.zip)
 *  [SoundingRockets-112.0.0.zip](https://github.com/BobPalmer/SoundingRockets/archive/refs/tags/v112.0.0.zip)
 *  [SpaceTux_Library-0.0.6.1.zip](https://spacedock.info/mod/2210/SpaceTux Library/download/0.0.6.1)
