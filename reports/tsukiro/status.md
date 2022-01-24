@@ -1,9 +1,9 @@
 ## Validation Report - Tsukiro (tsukiro)
 
 
-### Invalid (1)
+### Invalid (0)
+### Updated (2)
 *  GS_SLAL SE Creatures 29 08.7z
-### Updated (1)
 *  NCK30 SLAL 3.2 SE.7z
 ### Mirrored (0)
 ### Valid (961)

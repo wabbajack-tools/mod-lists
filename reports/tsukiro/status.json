@@ -3827,7 +3827,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Updated",
       "Original": {
         "Hash": "s8ovxrogUkA=",
         "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=8148\nips4File=GS_SLAL SE Creatures 29 08.7z",
@@ -3846,7 +3846,27 @@
           "Name": "GSPoses \u0026 SLAL",
           "Version": "02/01"
         }
-      }
+      },
+      "PatchedFrom": {
+        "Hash": "yN5x83/BzQ0=",
+        "Meta": "",
+        "Name": "GS_SLAL SE Creatures 23 01.7z",
+        "Size": 13353079,
+        "State": {
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "ImageURL": null,
+          "IPS4File": "GS_SLAL SE Creatures 23 01.7z",
+          "IPS4Mod": 8148,
+          "IPS4Url": "",
+          "IsAttachment": false,
+          "IsNSFW": false,
+          "Name": null,
+          "Version": null
+        }
+      },
+      "PatchUrl": "https://patches.wabbajack.org/b3ca2fc6ba205240_c8de71f37fc1cd0d"
     },
     {
       "Status": "Valid",
@@ -19814,6 +19834,6 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1
+  "Status": "Available",
+  "Failures": 0
 }
