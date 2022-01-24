@@ -1,8 +1,8 @@
 {
   "MachineURL": "sss",
   "Name": "Slidikins\u0027 Strenuous Skyrim",
-  "Version": "4.11.0",
-  "ModListHash": "nkAkp8hwJGE=",
+  "Version": "4.11.2",
+  "ModListHash": "r6Wjgv2KVPY=",
   "Archives": [
     {
       "Status": "Valid",
@@ -49,13 +49,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "aers - Nukem - Ryan",
-          "Description": "",
+          "Description": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.",
           "FileID": 244154,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": null,
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17230/17230-1526195370-298143229.png",
           "IsNSFW": false,
           "ModID": 17230,
-          "Name": "",
+          "Name": "SSE Engine Fixes (skse64 plugin)",
           "Version": "5.8.3.0"
         }
       }
@@ -104,13 +104,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "aers - Nukem - Ryan",
-          "Description": "",
+          "Description": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.",
           "FileID": 181171,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": null,
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17230/17230-1526195370-298143229.png",
           "IsNSFW": false,
           "ModID": 17230,
-          "Name": "",
+          "Name": "SSE Engine Fixes (skse64 plugin)",
           "Version": "0.0.0.0"
         }
       }
@@ -1565,7 +1565,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46687/46687-1615191478-639698353.jpeg",
           "IsNSFW": false,
           "ModID": 46687,
-          "Name": "Companions Werewolf Bloodritual Scene Tweak",
+          "Name": "Scene Tweak - Companions Werewolf Bloodritual",
           "Version": "0.0.0.0"
         }
       }
@@ -1594,21 +1594,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "7uDjKRC6OxU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=13826\nfileID=40079",
-        "Name": "Container and Arrow Weight Restrictions-13826-2-0-2.7z",
-        "Size": 7485,
+        "Hash": "+TsDIggfc8g=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=13826\nfileID=259063",
+        "Name": "Container and Arrow Weight Restrictions-13826-2-1-1642984499.7z",
+        "Size": 7516,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "AndrealphusVIII and PlagueHush",
           "Description": "This mod adds a weight limit to all containers, even those added by mods, as well as adding a weight limit to arrows, and arrows stored in containers and/or followers.",
-          "FileID": 40079,
+          "FileID": 259063,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68285-0-1438116818.jpg",
           "IsNSFW": false,
           "ModID": 13826,
           "Name": "Container and Arrow Weight Restrictions",
-          "Version": "2.0.2.0"
+          "Version": "2.1.0.0"
         }
       }
     },
@@ -2744,21 +2744,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zJuRaELsJSg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=61015\nfileID=253261",
-        "Name": "Honed Metal SSE-61015-1-22-RC-1641104408.zip",
-        "Size": 834741,
+        "Hash": "3M7cp1ygpuI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=61015\nfileID=258895",
+        "Name": "Honed Metal SSE-61015-1-22-RC4-1642948652.7z",
+        "Size": 701114,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SkylineR390",
           "Description": "Blacksmiths and mages all over Skyrim will be able to craft, temper and enchant your equipment, including armor and weapons added by mods. The quality and price of their work will depend on their skill as craftsmen as well as your barter abilities. Fully customizable through an MCM menu.",
-          "FileID": 253261,
+          "FileID": 258895,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61015/51024-3-1392177225.jpg",
           "IsNSFW": false,
           "ModID": 61015,
           "Name": "Honed Metal -NPC Crafting and Enchanting Services-",
-          "Version": "1.22.0.0-RC"
+          "Version": "1.22.0.0-RC4"
         }
       }
     },
@@ -3416,27 +3416,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uljPneVfsY0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43441\nfileID=227398",
-        "Name": "Lightweight Smithing Tweaks for SSO-43441-1-2-1631279126.7z",
-        "Size": 1323,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Phoenix",
-          "Description": "",
-          "FileID": 227398,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 43441,
-          "Name": "",
-          "Version": "1.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "iTTlCllF6WM=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=42535\nfileID=170686",
         "Name": "Locks Are Just Locked-42535-1-0-0-1605762149.zip",
@@ -3620,6 +3599,27 @@
           "ModID": 28904,
           "Name": "Misc Dialogue Edits",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "aNc1HByOjVQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=38348\nfileID=251674",
+        "Name": "Misc Tweaks - Decluttered Crafting Menus-38348-1-0-1640445793.7z",
+        "Size": 1078,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "see credits tab",
+          "Description": "A small collection of various tweaks.",
+          "FileID": 251674,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38348/38348-1596981424-483315613.jpeg",
+          "IsNSFW": false,
+          "ModID": 38348,
+          "Name": "Miscellaneous Tweaks Collection",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -3941,21 +3941,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "EsL83UZALTE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=38655\nfileID=210950",
-        "Name": "Mountains Enhanced K747 SSE with HQ LODs-38655-1-3-1624552494.7z",
-        "Size": 1049610,
+        "Hash": "oBRr7tkyAA4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=38655\nfileID=236605",
+        "Name": "Mountains Enhanced K747 SSE with HQ LODs-38655-1-4-1634991047.7z",
+        "Size": 1049600,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kojak747 and others",
           "Description": "Various files.",
-          "FileID": 210950,
+          "FileID": 236605,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38655/38655-1595679683-797664532.jpeg",
           "IsNSFW": false,
           "ModID": 38655,
           "Name": "K747 Patches for Special Edition",
-          "Version": "1.3.0.0"
+          "Version": "1.4.0.0"
         }
       }
     },
@@ -4235,21 +4235,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "FxkmJockWZo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=49681\nfileID=237867",
-        "Name": "OWL Main File-49681-1-3-1-1635563468.7z",
-        "Size": 59573,
+        "Hash": "C98tk1o9K4c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=49681\nfileID=255366",
+        "Name": "OWL Main FIle-49681-1-3-2-1641742148.7z",
+        "Size": 59790,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "deletepch",
           "Description": "A Loot and Encounter Zone Overhaul that focus on open world experience and freedom. \n\nAlso enable easy integration for modded weapon or armor.",
-          "FileID": 237867,
+          "FileID": 255366,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49681/49681-1620582432-1427848545.png",
           "IsNSFW": false,
           "ModID": 49681,
           "Name": "Open World Loot - Encounter Zone and Loot Overhaul",
-          "Version": "1.3.1.0"
+          "Version": "1.3.2.0"
         }
       }
     },
@@ -4944,21 +4944,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "l+5ClxRrIHg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45253\nfileID=238044",
-        "Name": "Resistances and Weaknesses - Main File-45253-0-9-7-2-1635640900.rar",
-        "Size": 4805,
+        "Hash": "vSnmS4YWo98=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45253\nfileID=257104",
+        "Name": "Resistances and Weaknesses - Main File-45253-0-9-8-1642304685.rar",
+        "Size": 4810,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Hackfield",
           "Description": "Pretty simple and compatible resistance and weakness system (D\u0026amp;D 5e style).\n\nSeparates physical damage into Slash, Piercing and Bludgeoning. Magic damage remains as Cold, Fire and Shock.",
-          "FileID": 238044,
+          "FileID": 257104,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45253/45253-1612466910-929026968.png",
           "IsNSFW": false,
           "ModID": 45253,
           "Name": "Resistances and Weaknesses",
-          "Version": "0.9.7.2"
+          "Version": "0.9.8.0"
         }
       }
     },
@@ -5469,84 +5469,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dt96CsWiuow=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=47115\nfileID=227373",
-        "Name": "Simple Smithing Overhaul-47115-1-1-6a-1631270580.7z",
-        "Size": 75581,
+        "Hash": "bWAbBaFlSmA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=47115\nfileID=255986",
+        "Name": "Simple Smithing Overhaul-47115-1-3-1-1641932581.7z",
+        "Size": 81003,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "m00se",
           "Description": "A simple smithing overhaul changing recipes, adding the ability to breakdown most armour and weapons, replicate certain artefacts without their enchantments, and upgrade unique levelled weapons and armour.",
-          "FileID": 227373,
+          "FileID": 255986,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47115/47115-1617538323-678960110.png",
           "IsNSFW": false,
           "ModID": 47115,
           "Name": "Simple Smithing Overhaul",
-          "Version": "1.1.6.0a"
+          "Version": "1.3.1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ICp3Q/iW2h0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=47115\nfileID=250951",
-        "Name": "Simple Smithing Overhaul-47115-1-2-0-1640178249.7z",
-        "Size": 74531,
+        "Hash": "xz19C5uuERU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=47115\nfileID=255980",
+        "Name": "SSO Ancient Nord Stalhrim Replacer Patch-47115-1-1-p-1641932200.7z",
+        "Size": 3518,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "m00se",
           "Description": "A simple smithing overhaul changing recipes, adding the ability to breakdown most armour and weapons, replicate certain artefacts without their enchantments, and upgrade unique levelled weapons and armour.",
-          "FileID": 250951,
+          "FileID": 255980,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47115/47115-1617538323-678960110.png",
           "IsNSFW": false,
           "ModID": 47115,
           "Name": "Simple Smithing Overhaul",
-          "Version": "1.2.0.0"
+          "Version": "1.1.0.0-p"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8HPxKGxXUqI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=47115\nfileID=222892",
-        "Name": "SSO Ancient Nord Stalhrim Replacer Patch-47115-1-0-p-1629627746.7z",
-        "Size": 3441,
+        "Hash": "5vxOKkI5IrY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=47115\nfileID=255983",
+        "Name": "SSO Open World Loot AVL Addon Patches-47115-1-1-p-1641932485.7z",
+        "Size": 3437,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "m00se",
           "Description": "A simple smithing overhaul changing recipes, adding the ability to breakdown most armour and weapons, replicate certain artefacts without their enchantments, and upgrade unique levelled weapons and armour.",
-          "FileID": 222892,
+          "FileID": 255983,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47115/47115-1617538323-678960110.png",
           "IsNSFW": false,
           "ModID": 47115,
           "Name": "Simple Smithing Overhaul",
-          "Version": "1.0.0.0-p"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "SQ4Wo7TiW2Y=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=47115\nfileID=226493",
-        "Name": "SSO Open World Loot AVL Addon Patches-47115-1-0-p-1630920497.7z",
-        "Size": 3197,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m00se",
-          "Description": "A simple smithing overhaul changing recipes, adding the ability to breakdown most armour and weapons, replicate certain artefacts without their enchantments, and upgrade unique levelled weapons and armour.",
-          "FileID": 226493,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47115/47115-1617538323-678960110.png",
-          "IsNSFW": false,
-          "ModID": 47115,
-          "Name": "Simple Smithing Overhaul",
-          "Version": "1.0.0.0-p"
+          "Version": "1.1.0.0-p"
         }
       }
     },
@@ -5868,63 +5847,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XQXCsXRUCoc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53939\nfileID=255376",
-        "Name": "Slidikins\u0027 Strenuous Skyrim - Conflict Resolution Patch-53939-4-11-0-1641743782.7z",
-        "Size": 20342,
+        "Hash": "wNNFq+JZ+4s=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53939\nfileID=259316",
+        "Name": "Slidikins\u0027 Strenuous Skyrim - Conflict Resolution Patch-53939-4-11-2-1643054874.7z",
+        "Size": 20242,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Slidikins",
           "Description": "The Nexus page for Slidikins\u0027 Strenuous Skyrim -- with all necessary files.",
-          "FileID": 255376,
+          "FileID": 259316,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53939/53939-1632337703-344784517.png",
           "IsNSFW": false,
           "ModID": 53939,
           "Name": "Slidikins\u0027 Strenuous Skyrim - A TPF Addon",
-          "Version": "4.11.0.0"
+          "Version": "4.11.2.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "pQvJvYlixQk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53939\nfileID=255378",
-        "Name": "Slidikins\u0027 Strenuous Skyrim - DynDOLOD Output-53939-4-11-0-1641743923.7z",
-        "Size": 1267362055,
+        "Hash": "1icHiaqiWLw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53939\nfileID=259296",
+        "Name": "Slidikins\u0027 Strenuous Skyrim - DynDOLOD Output-53939-4-11-2-1643050914.7z",
+        "Size": 1267525062,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Slidikins",
           "Description": "The Nexus page for Slidikins\u0027 Strenuous Skyrim -- with all necessary files.",
-          "FileID": 255378,
+          "FileID": 259296,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53939/53939-1632337703-344784517.png",
           "IsNSFW": false,
           "ModID": 53939,
           "Name": "Slidikins\u0027 Strenuous Skyrim - A TPF Addon",
-          "Version": "4.11.0.0"
+          "Version": "4.11.2.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "lSQuYN6L+lE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53939\nfileID=255379",
-        "Name": "Slidikins\u0027 Strenuous Skyrim - DynDOLOD Output (Performance)-53939-4-11-0-1641743982.7z",
-        "Size": 531706559,
+        "Hash": "ssK/tFTiiHY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53939\nfileID=259294",
+        "Name": "Slidikins\u0027 Strenuous Skyrim - DynDOLOD Output (Performance)-53939-4-11-2-1643050799.7z",
+        "Size": 531842680,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Slidikins",
           "Description": "The Nexus page for Slidikins\u0027 Strenuous Skyrim -- with all necessary files.",
-          "FileID": 255379,
+          "FileID": 259294,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53939/53939-1632337703-344784517.png",
           "IsNSFW": false,
           "ModID": 53939,
           "Name": "Slidikins\u0027 Strenuous Skyrim - A TPF Addon",
-          "Version": "4.11.0.0"
+          "Version": "4.11.2.0"
         }
       }
     },
@@ -6220,21 +6199,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ZNtdIkWh5ws=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=56374\nfileID=253235",
-        "Name": "Survival Mode Improved-56374-1-2-5-1641096967.7z",
-        "Size": 67978,
+        "Hash": "wEYaAqugO5w=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56374\nfileID=256289",
+        "Name": "Survival Mode Improved-56374-1-2-6-1642046804.7z",
+        "Size": 67973,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "colinswrath",
           "Description": "",
-          "FileID": 253235,
+          "FileID": 256289,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56374/56374-1634178751-1333863609.jpeg",
           "IsNSFW": false,
           "ModID": 56374,
           "Name": "Survival Mode Improved",
-          "Version": "1.2.5.0"
+          "Version": "1.2.6.0"
         }
       }
     },
@@ -6325,27 +6304,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "iMAl5blyvhw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=3850\nfileID=227966",
-        "Name": "The Choice is Yours-3850-2-2-1631476131.7z",
-        "Size": 797470,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kryptopyr",
-          "Description": "Stop quests from starting automatically. Pursue the quests you want, ignore the ones you don\u0027t.  Make your choices matter.",
-          "FileID": 227966,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/3850/3850-1527614257-1427258737.jpeg",
-          "IsNSFW": false,
-          "ModID": 3850,
-          "Name": "The Choice is Yours",
-          "Version": "2.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "cA08gnYA6Q4=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=3850\nfileID=248364",
         "Name": "The Choice is Yours-3850-2-3-1639269200.zip",
@@ -6409,21 +6367,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "nUjw2hacQcs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=14223\nfileID=255258",
-        "Name": "The Phoenix Flavour - Conflict Resolution Patch - Maintainer Version-14223-4-11-0-1641718807.7z",
-        "Size": 4946467,
+        "Hash": "8G8ATfNWRpE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=14223\nfileID=259020",
+        "Name": "The Phoenix Flavour - Conflict Resolution Patch - Maintainer Version-14223-4-11-2-1642973010.7z",
+        "Size": 4945379,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Phoenix and Umgak",
           "Description": "The Nexus page for The Phoenix Flavour guide - https://thephoenixflavour.com/ - with all necessary files.",
-          "FileID": 255258,
+          "FileID": 259020,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/14223/14223-1514314519-272502807.jpeg",
           "IsNSFW": false,
           "ModID": 14223,
           "Name": "The Phoenix Flavour - A Modding Guide for Skyrim SE",
-          "Version": "4.11.0.0"
+          "Version": "4.11.2.0"
         }
       }
     },
@@ -7018,6 +6976,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "T39gnkII26g=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59343\nfileID=245813",
+        "Name": "Windhelm - Snow Texture Cleanup-59343-1-1-1638371163.7z",
+        "Size": 3408,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Codygits",
+          "Description": "A hub for the collection of patches that I make for mods that I play with, others might find them useful, so here they are.",
+          "FileID": 245813,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59343/59343-1638333940-445142629.png",
+          "IsNSFW": false,
+          "ModID": 59343,
+          "Name": "Miscellaneous Patch Hub",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "8JRydbojTSU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=21181\nfileID=71995",
         "Name": "Windhelm Segregation - Stay at New Gnisis Cornerclub-21181-1-0-1541943222.zip",
@@ -7585,21 +7564,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GjOhwdG5mbY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32382\nfileID=253816",
-        "Name": "DynDOLOD 3.00-32382-Alpha-60-1641286187.7z",
-        "Size": 25977524,
+        "Hash": "z4ZcxQ6zwKE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32382\nfileID=257896",
+        "Name": "DynDOLOD 3.00-32382-Alpha-65-1642602113.7z",
+        "Size": 26046351,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sheson",
           "Description": "DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD \u002B tree LOD and the new,  optional dynamic distant object LOD in a few simple steps.",
-          "FileID": 253816,
+          "FileID": 257896,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32382/32382-1580900155-1292674369.jpeg",
           "IsNSFW": false,
           "ModID": 32382,
           "Name": "Dynamic Distant Objects LOD - DynDOLOD",
-          "Version": "Alpha-60"
+          "Version": "Alpha-65"
         }
       }
     },
@@ -7717,6 +7696,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "UZE0eRMyee8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56871\nfileID=237369",
+        "Name": "Cathedral Weathers MCM - Settings Loader-56871-2-0-1635351580.7z",
+        "Size": 4733,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Created from scratch MCM for Cathedral Weathers MCM by Sandman53 to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load so you don\u0027t have to spend time in MCM again with each game. Localization support. No plugin.",
+          "FileID": 237369,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56871/56871-1635723837-504864350.png",
+          "IsNSFW": false,
+          "ModID": 56871,
+          "Name": "Cathedral Weathers MCM - Settings Loader",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "/lL4K1C2YSI=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=45241\nfileID=183820",
         "Name": "CC\u0027s Remastered Murals - 4K - BC7 - 1.0-45241-1-0-1612384743.7z",
@@ -7822,21 +7822,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ThVF0uVNEps=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=52897\nfileID=253633",
-        "Name": "DynDOLOD Resources SE 3.00-52897-Alpha-17-1641215790.7z",
-        "Size": 64361181,
+        "Hash": "asIIacyOBI8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=52897\nfileID=257352",
+        "Name": "DynDOLOD Resources SE 3.00-52897-Alpha-19-1642374914.7z",
+        "Size": 64363221,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sheson",
           "Description": "DynDOLOD Resources SE 3 required by DynDOLOD 3 for drastically improved tree and object LOD generation.",
-          "FileID": 253633,
+          "FileID": 257352,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/52897/108514-1627373276-1783344232.jpeg",
           "IsNSFW": false,
           "ModID": 52897,
           "Name": "DynDOLOD Resources SE 3",
-          "Version": "Alpha-17"
+          "Version": "Alpha-19"
         }
       }
     },
@@ -8137,6 +8137,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "EsL83UZALTE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=38655\nfileID=210950",
+        "Name": "Mountains Enhanced K747 SSE with HQ LODs-38655-1-3-1624552494.7z",
+        "Size": 1049610,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kojak747 and others",
+          "Description": "Various files.",
+          "FileID": 210950,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38655/38655-1595679683-797664532.jpeg",
+          "IsNSFW": false,
+          "ModID": 38655,
+          "Name": "K747 Patches for Special Edition",
+          "Version": "1.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "uq8KT2b+f9A=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=60033\nfileID=248867",
         "Name": "Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar",
@@ -8284,21 +8305,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QsFrRSM+Cts=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=22854\nfileID=245817",
-        "Name": "Papyrus Extender SE-22854-4-5-5-1638372170.7z",
-        "Size": 503098,
+        "Hash": "+mwoL1EILb4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=22854\nfileID=256077",
+        "Name": "Papyrus Extender SE-22854-4-5-7-1641973468.7z",
+        "Size": 507649,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
           "Description": "SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.",
-          "FileID": 245817,
+          "FileID": 256077,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22854/95017-1548256254-1238854123.png",
           "IsNSFW": false,
           "ModID": 22854,
           "Name": "powerofthree\u0027s Papyrus Extender",
-          "Version": "4.5.5.0"
+          "Version": "4.5.7.0"
         }
       }
     },
@@ -8452,21 +8473,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "R7gwIdsY/ow=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53939\nfileID=255375",
-        "Name": "Slidikins\u0027 Strenuous Skyrim - Configuration and Runtime Files-53939-4-11-0-1641743761.7z",
-        "Size": 12366,
+        "Hash": "RRGL1/o5fG4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53939\nfileID=259315",
+        "Name": "Slidikins\u0027 Strenuous Skyrim - Configuration and Runtime Files-53939-4-11-2-1643054854.7z",
+        "Size": 12548,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Slidikins",
           "Description": "The Nexus page for Slidikins\u0027 Strenuous Skyrim -- with all necessary files.",
-          "FileID": 255375,
+          "FileID": 259315,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53939/53939-1632337703-344784517.png",
           "IsNSFW": false,
           "ModID": 53939,
           "Name": "Slidikins\u0027 Strenuous Skyrim - A TPF Addon",
-          "Version": "4.11.0.0"
+          "Version": "4.11.2.0"
         }
       }
     },
@@ -8788,21 +8809,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "jWbHC+QMagw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=253359",
-        "Name": "Assorted Mesh Fixes-32117-0-41-1-1641136506.7z",
-        "Size": 11099125,
+        "Hash": "KNmWLahw6Js=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=256101",
+        "Name": "Assorted Mesh Fixes-32117-0-44-1641984096.7z",
+        "Size": 11332545,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wankingSkeever",
           "Description": "Fixes various issues with vanilla Skyrim meshes that causes them to render incorrectly",
-          "FileID": 253359,
+          "FileID": 256101,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32117/32117-1612599331-161051453.png",
           "IsNSFW": false,
           "ModID": 32117,
           "Name": "Assorted mesh fixes",
-          "Version": "0.41.1.0"
+          "Version": "0.44.0.0"
         }
       }
     },
@@ -9418,6 +9439,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "acWtDAOiU2k=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42839\nfileID=255812",
+        "Name": "Equip Enchantment Fix-42839-1-3-4-1641880115.zip",
+        "Size": 205810,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SlavicPotato",
+          "Description": "Fixes engine bugs where item enchantments don\u0027t apply when equipped or stop working while the item is still equipped. SKSE64 plugin.",
+          "FileID": 255812,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42839/42839-1606550112-1092714395.png",
+          "IsNSFW": false,
+          "ModID": 42839,
+          "Name": "Equip Enchantment Fix",
+          "Version": "1.3.4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "ARhX2tbX6bU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=42839\nfileID=243657",
         "Name": "Equip Enchantment Fix-42839-1-3-3-1637653022.zip",
@@ -9481,21 +9523,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "IoCkx3CEBTY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53653\nfileID=238394",
-        "Name": "Fixed Mesh Lighting-53653-1-5-1635754366.zip",
-        "Size": 149701815,
+        "Hash": "txWe/UiNvzI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53653\nfileID=258711",
+        "Name": "Fixed Mesh Lighting-53653-1-6-2-1642883317.zip",
+        "Size": 150124756,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Catnyss",
           "Description": "Fixes lighting bugs with vanilla Skyrim meshes rendering too bright outside under shadows especially during daytime. \n\nPatches for popular mods included.",
-          "FileID": 238394,
+          "FileID": 258711,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53653/53653-1628683457-1876970166.png",
           "IsNSFW": false,
           "ModID": 53653,
           "Name": "Fixed Mesh Lighting",
-          "Version": "1.5.0.0"
+          "Version": "1.6.2.0"
         }
       }
     },
@@ -10237,21 +10279,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qiIeNR+Da7I=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=51073\nfileID=243754",
-        "Name": "powerofthree\u0027s Tweaks SE-51073-1-4-1-1637694161.7z",
-        "Size": 259680,
+        "Hash": "loz6vRweWkg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=51073\nfileID=258071",
+        "Name": "powerofthree\u0027s Tweaks SE-51073-1-5-1-1642691073.7z",
+        "Size": 264914,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
           "Description": "Collection of engine bug fixes and tweaks. SKSE plugin.",
-          "FileID": 243754,
+          "FileID": 258071,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51073/51073-1623688700-1006153578.png",
           "IsNSFW": false,
           "ModID": 51073,
           "Name": "powerofthree\u0027s Tweaks",
-          "Version": "1.4.1.0"
+          "Version": "1.5.1.0"
         }
       }
     },
@@ -10867,21 +10909,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "vG+ObYDJBCM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=21031\nfileID=81291",
-        "Name": "Ruins Clutter Improved - Fixes 1.1-21031-1-1-1549805990.rar",
-        "Size": 9221812,
+        "Hash": "jADHmtXeL5g=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=21031\nfileID=257686",
+        "Name": "Ruins Clutter Improved - Fixes 1.2-21031-1-2-1642516628.rar",
+        "Size": 8732460,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "mnikjom raiserfx",
           "Description": "A patch for Ruins Clutter Improved SE that allows to install other retextures for Enchanting Table and Bloody Rags.",
-          "FileID": 81291,
+          "FileID": 257686,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21031/21031-1541436798-1209563452.png",
           "IsNSFW": false,
           "ModID": 21031,
           "Name": "Ruins Clutter Improved - Fixes",
-          "Version": "0.0.0.0"
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -11203,21 +11245,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Znq+JsCyHOw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=50049\nfileID=243656",
-        "Name": "Simple Dual Sheath-50049-1-5-1-1637652931.zip",
-        "Size": 259030,
+        "Hash": "0Y1AROw3k8c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=50049\nfileID=257742",
+        "Name": "Simple Dual Sheath-50049-1-5-2-1642538272.zip",
+        "Size": 254335,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SlavicPotato",
           "Description": "Makes equipped left hand weapons and both staves visible on the player or NPCs. Works with any weapon. Lightweight SKSE64 plugin. No scripts, ESPs or additional meshes required. Includes shield on back option.",
-          "FileID": 243656,
+          "FileID": 257742,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50049/50049-1621269269-1230900975.png",
           "IsNSFW": false,
           "ModID": 50049,
           "Name": "Simple Dual Sheath",
-          "Version": "1.5.1.0"
+          "Version": "1.5.2.0"
         }
       }
     },
@@ -11573,21 +11615,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uh1JMWKEEY4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53939\nfileID=255380",
-        "Name": "Slidikins\u0027 Strenuous Skyrim - TexGen Output-53939-4-11-0-1641744014.7z",
-        "Size": 66525870,
+        "Hash": "6EoYjYniKyk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53939\nfileID=259298",
+        "Name": "Slidikins\u0027 Strenuous Skyrim - TexGen Output-53939-4-11-2-1643050949.7z",
+        "Size": 66578443,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Slidikins",
           "Description": "The Nexus page for Slidikins\u0027 Strenuous Skyrim -- with all necessary files.",
-          "FileID": 255380,
+          "FileID": 259298,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53939/53939-1632337703-344784517.png",
           "IsNSFW": false,
           "ModID": 53939,
           "Name": "Slidikins\u0027 Strenuous Skyrim - A TPF Addon",
-          "Version": "4.11.0.0"
+          "Version": "4.11.2.0"
         }
       }
     },
@@ -12413,42 +12455,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "UMNr/iea9X0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42746\nfileID=253607",
-        "Name": "Better Windhelm Ground Meshes-42746-1-3-3-1641210634.7z",
-        "Size": 1398129,
+        "Hash": "yJ3RUTvgRd4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42746\nfileID=256874",
+        "Name": "Better Windhelm Ground Meshes-42746-1-3-4-1642245666.7z",
+        "Size": 1398159,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cuyima",
           "Description": "I was fed up with the windhelm ground meshes so I made this.",
-          "FileID": 253607,
+          "FileID": 256874,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42746/42746-1617637827-925869274.png",
           "IsNSFW": false,
           "ModID": 42746,
           "Name": "Better Windhelm Ground Meshes - With Parallax Support",
-          "Version": "1.3.3.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "CJcGDilESNo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42746\nfileID=224567",
-        "Name": "Better Windhelm Ground Meshes-42746-1-3-1-1630236915.7z",
-        "Size": 1367995,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "cuyima",
-          "Description": "I was fed up with the windhelm ground meshes so I made this.",
-          "FileID": 224567,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42746/42746-1617637827-925869274.png",
-          "IsNSFW": false,
-          "ModID": 42746,
-          "Name": "Better Windhelm Ground Meshes - With Parallax Support",
-          "Version": "1.3.2.0"
+          "Version": "1.3.4.0"
         }
       }
     },
@@ -15452,27 +15473,6 @@
           "ModID": 24252,
           "Name": "Skyland - Solitude",
           "Version": "1.6.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "OtAESq6a3dI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=24252\nfileID=85332",
-        "Name": "Skyland - Solitude-24252-1-0-1552871152.zip",
-        "Size": 333529233,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "JohnRose81",
-          "Description": "Skyland Solitude offers a truly realistic texture overhaul to the city of Solitude and the Blue Palace along with surrounding areas such as the docks bridge and stone structures and gates along with the Dominion consulate.",
-          "FileID": 85332,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/24252/24252-1552870272-1527441324.jpeg",
-          "IsNSFW": false,
-          "ModID": 24252,
-          "Name": "Skyland - Solitude",
-          "Version": "0.0.0.0"
         }
       }
     },
