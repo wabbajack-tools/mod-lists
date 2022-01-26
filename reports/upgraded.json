@@ -106,32 +106,6 @@
     "PatchUrl": "https://patches.wabbajack.org/b3ca2fc6ba205240_c8de71f37fc1cd0d"
   },
   {
-    "Status": "Mirrored",
-    "Original": {
-      "Hash": "dGX21Pia0VY=",
-      "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimse_v0454.zip\ndirectURLHeaders=Referer:http://enbdev.com/download_mod_tesskyrimse.htm",
-      "Name": "enbseries_skyrimse_v0454.zip",
-      "Size": 4210463,
-      "State": {
-        "$type": "HttpDownloader, Wabbajack.Lib",
-        "Headers": [
-          "Referer:http://enbdev.com/download_mod_tesskyrimse.htm"
-        ],
-        "Url": "http://enbdev.com/enbseries_skyrimse_v0454.zip"
-      }
-    },
-    "PatchedFrom": {
-      "Hash": "dGX21Pia0VY=",
-      "Meta": "",
-      "Name": "enbseries_skyrimse_v0454.zip",
-      "Size": 4210463,
-      "State": {
-        "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-        "Url": "https://mirror.wabbajack.org/7465f6d4f89ad156"
-      }
-    }
-  },
-  {
     "Status": "Updated",
     "Original": {
       "Hash": "N+xTNYcpJWE=",
