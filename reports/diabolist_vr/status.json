@@ -1,8 +1,8 @@
 {
   "MachineURL": "diabolist_vr",
   "Name": "Diabolist VR",
-  "Version": "2.9.6",
-  "ModListHash": "c4nbXLzxiE4=",
+  "Version": "2.9.7",
+  "ModListHash": "Q/W9NhP3UOE=",
   "Archives": [
     {
       "Status": "Valid",
@@ -15,6 +15,20 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MsIFUQ57Jbo=",
+        "Meta": "[General]\ndirectURL=https://github.com/z-edit/zedit/releases/download/0.6.6.1/zEdit_v0.6.6.1_-_Portable_x64.7z",
+        "Name": "zEdit_v0.6.6.1_-_Portable_x64.7z",
+        "Size": 58236583,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/z-edit/zedit/releases/download/0.6.6.1/zEdit_v0.6.6.1_-_Portable_x64.7z"
         }
       }
     },
@@ -1384,21 +1398,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "IGe8Trwgwj8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53050\nfileID=218958",
-        "Name": "Strike Obstruction Systems - Combat Blocking Overhaul-53050-1-02-1628160132.7z",
-        "Size": 1875687,
+        "Hash": "Vy/1KAzc7Pg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53050\nfileID=259704",
+        "Name": "Strike Obstruction Systems - Combat Blocking Overhaul-53050-1-04-1643215499.7z",
+        "Size": 1877774,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ashen",
           "Description": "Blocking can now mitigate damage from blocked Spells, Shouts, Enchants, and Poisons. Timed Blocks can provide greater mitigation, redirect parried arrows \u0026amp; spells, and inflict various debuffs. All features configurable via MCM (Light Plugin).",
-          "FileID": 218958,
+          "FileID": 259704,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53050/53050-1628206770-2029002479.png",
           "IsNSFW": false,
           "ModID": 53050,
           "Name": "Strike Obstruction Systems - Combat Blocking Overhaul",
-          "Version": "0.0.0.0"
+          "Version": "f1.04"
         }
       }
     },
@@ -1861,6 +1875,27 @@
           "ModID": 44989,
           "Name": "Voidgate - A Simple Town Portal",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "AU6lAp4wOmM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=18533\nfileID=74875",
+        "Name": "DisplayEnemyLevelVR 1.0.0 for Skyrim 1415-18533-1-0-0-1544595692.7z",
+        "Size": 178414,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Felisky",
+          "Description": "This MOD displays enemy level and enemy health numbers on the HUDMenu.",
+          "FileID": 74875,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18533/18533-1531376715-1364111358.jpeg",
+          "IsNSFW": false,
+          "ModID": 18533,
+          "Name": "Display Enemy Level",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -4213,27 +4248,6 @@
           "ModID": 34392,
           "Name": "Minotaurs - Mihail Monsters and Animals (MIHAIL SSE PORT)",
           "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "/LIkWgJbMDE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=33215\nfileID=257984",
-        "Name": "moreHUD VR-33215-1-0-7-1642643998.7z",
-        "Size": 696462,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ahzaab",
-          "Description": "Adds more information to the HUD about the currently targeted object. Such as ingredients, weapon effects, potions, read books, v/w, enemy level, etc",
-          "FileID": 257984,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33215/33215-1583090570-1305381865.png",
-          "IsNSFW": false,
-          "ModID": 33215,
-          "Name": "moreHUD VR",
-          "Version": "1.0.7.0"
         }
       }
     },
@@ -6676,20 +6690,6 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/TES5Edit/TES5Edit/releases/download/xedit-4.1.4/xEdit.4.1.4.EXTREMELY.EXPERIMENTAL.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "MsIFUQ57Jbo=",
-        "Meta": "[General]\ndirectURL=https://github.com/z-edit/zedit/releases/download/0.6.6.1/zEdit_v0.6.6.1_-_Portable_x64.7z",
-        "Name": "zEdit_v0.6.6.1_-_Portable_x64.7z",
-        "Size": 58236583,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/z-edit/zedit/releases/download/0.6.6.1/zEdit_v0.6.6.1_-_Portable_x64.7z"
         }
       }
     },
@@ -9981,6 +9981,27 @@
           "ModID": 1188,
           "Name": "More Subtle Nirnroot",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KCbbIE7YxWg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62090\nfileID=257383",
+        "Name": "VR Parallax Shader Fix-62090-1-0-1642385888.7z",
+        "Size": 1209661,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "alandtse - shadowking97",
+          "Description": "Injects fixed parallax shaders into Skyrim VR. Based on original code from aers under MIT.",
+          "FileID": 257383,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62090/62090-1642384688-1241152886.png",
+          "IsNSFW": false,
+          "ModID": 62090,
+          "Name": "VR Parallax Shader Fix",
+          "Version": "1.0.0.0"
         }
       }
     },
