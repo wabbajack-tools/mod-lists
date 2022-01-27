@@ -83,7 +83,7 @@
 *  [Chapper_Alduin.zip-5455-1-2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/5455/?tab=files&file_id=12248)
 *  [children toys (sse) 1.1-28345-1-1-1584251204.rar](https://www.nexusmods.com/skyrimspecialedition/mods/28345/?tab=files&file_id=128661)
 *  [Cinematic Fire Effects 2 HD - SSE - Alternative-16326-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16326/?tab=files&file_id=50334)
-*  [Citizens of Tamriel SE - Complete-29069-Final-1594435229.zip](https://www.nexusmods.com/skyrimspecialedition/mods/29069/?tab=files&file_id=149789)
+*  [Citizens of Tamriel SE - Complete-29069-Redux-1643170133.zip](https://www.nexusmods.com/skyrimspecialedition/mods/29069/?tab=files&file_id=259606)
 *  [CLARALUX for SSE - Support Patches-2371-0-21.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2371/?tab=files&file_id=29610)
 *  [CLARALUX for SSE-2371-1-21.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2371/?tab=files&file_id=29611)
 *  [Claralux MCM with Testing Facility Door-18573-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18573/?tab=files&file_id=59885)
