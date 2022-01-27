@@ -427,6 +427,27 @@ Welcome to DVR... More Monsters, More Loot!
 [Nethers Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653)    
 [Fine-Tuned Challange](https://www.nexusmods.com/skyrimspecialedition/mods/26889)    
 
+### [FUS](https://github.com/Kvitekvist/FUS/blob/main/README.md)
+
+FUS is a fundamental and modular modlist for Skyrim VR made by Kvitekvist and Cangar. It offers 4 profiles:
+
+FUS (Basic): Including the barebones for a good VR experience.
+FUS RO (Basic + Visuals): Also includes some visual improvements.
+FUS RO DAH (Basic + Visuals + Gameplay): Also includes several mods that alter gameplay, both VR-specific and general ones.
+Cangar: Basically FUS RO DAH with my personal choice of optional mods.
+
+This is an excellent list for users who are new to Skyrim / skyrimVR, or users who want a stable base to build their own modlist on.
+
+**_Mods to get familiar with:_**
+
+[VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)  
+[Spellsiphon - Immersive Combat](https://www.nexusmods.com/skyrimspecialedition/mods/26627)  
+[Muken's Arcane Archery](https://www.nexusmods.com/skyrimspecialedition/mods/30404)  
+[HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)  
+[Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374)  
+
+There is also a [handy dandy installation video](https://youtu.be/_Y4h4U-MWhA)!
+
 ***
 
 ## Fallout 4 VR
