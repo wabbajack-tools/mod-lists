@@ -34,6 +34,7 @@
   - [Narsil](#narsil)
   - [Auriel's Dream](#auriels-dream)
   - [Diabolist VR](#diabolist-vr)
+  - [FUS](#fus)
 - [Fallout 4 VR](#fallout-4-vr)
   - [Fallout 4 VR Essentials Overhaul](#fallout-4-vr-essentials-overhaul)
 - [Fallout New Vegas](#fallout-new-vegas)
