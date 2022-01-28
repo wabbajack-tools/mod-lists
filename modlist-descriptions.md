@@ -419,6 +419,7 @@ Welcome to DVR... More Monsters, More Loot!
 
 **_Mods to get familiar with:_**
 
+[MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719)
 [VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)    
 [HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)    
 [Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630)    
@@ -426,7 +427,9 @@ Welcome to DVR... More Monsters, More Loot!
 [Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374)    
 [Be Seated](https://www.nexusmods.com/skyrimspecialedition/mods/16613)    
 [Nethers Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653)    
-[Fine-Tuned Challange](https://www.nexusmods.com/skyrimspecialedition/mods/26889)    
+[Fine-Tuned Challange](https://www.nexusmods.com/skyrimspecialedition/mods/26889)   
+
+***
 
 ### [FUS](https://github.com/Kvitekvist/FUS/blob/main/README.md)
 
