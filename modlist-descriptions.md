@@ -419,7 +419,7 @@ Welcome to DVR... More Monsters, More Loot!
 
 **_Mods to get familiar with:_**
 
-[MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719)
+[MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719)    
 [VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)    
 [HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)    
 [Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630)    
