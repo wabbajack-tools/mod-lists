@@ -1,8 +1,8 @@
 {
   "MachineURL": "serenity",
   "Name": "Serenity 2",
-  "Version": "1.6.2.1",
-  "ModListHash": "yRaH789l+Wc=",
+  "Version": "1.6.3",
+  "ModListHash": "k2ZQWvLQDwA=",
   "Archives": [
     {
       "Status": "Valid",
@@ -36,48 +36,6 @@
           "ModID": 42161,
           "Name": "No Grass In Objects",
           "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "FZXovxp8lX0=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=binkw64.dll",
-        "Name": "binkw64.dll",
-        "Size": 298496,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "binkw64.dll",
-          "GameVersion": "1.5.97.0",
-          "Hash": "FZXovxp8lX0="
-        }
-      }
-    },
-    {
-      "Status": "Mirrored",
-      "Original": {
-        "Hash": "nJ59BDEM0qc=",
-        "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimse_v0462.zip\ndirectURLHeaders=Referer:http://enbdev.com/download_mod_tesskyrimse.htm",
-        "Name": "enbseries_skyrimse_v0462.zip",
-        "Size": 4248740,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [
-            "Referer:http://enbdev.com/download_mod_tesskyrimse.htm"
-          ],
-          "Url": "http://enbdev.com/enbseries_skyrimse_v0462.zip"
-        }
-      },
-      "PatchedFrom": {
-        "Hash": "nJ59BDEM0qc=",
-        "Meta": "",
-        "Name": "enbseries_skyrimse_v0462.zip",
-        "Size": 4248740,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://mirror.wabbajack.org/9c9e7d04310cd2a7"
         }
       }
     },
@@ -140,14 +98,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "ia6Y2mEquMg=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=high.ini",
-        "Name": "high.ini",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=High.ini",
+        "Name": "High.ini",
         "Size": 906,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "high.ini",
-          "GameVersion": "1.5.97.0",
+          "GameFile": "High.ini",
+          "GameVersion": "1.6.353.0",
           "Hash": "ia6Y2mEquMg="
         }
       }
@@ -163,7 +121,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "installscript.vdf",
-          "GameVersion": "1.5.97.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "M9LtyeAVtQE="
         }
       }
@@ -172,14 +130,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "O5kJ576V0KY=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=low.ini",
-        "Name": "low.ini",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Low.ini",
+        "Name": "Low.ini",
         "Size": 898,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "low.ini",
-          "GameVersion": "1.5.97.0",
+          "GameFile": "Low.ini",
+          "GameVersion": "1.6.353.0",
           "Hash": "O5kJ576V0KY="
         }
       }
@@ -188,14 +146,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "tBVeSwhhyNk=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=medium.ini",
-        "Name": "medium.ini",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Medium.ini",
+        "Name": "Medium.ini",
         "Size": 898,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "medium.ini",
-          "GameVersion": "1.5.97.0",
+          "GameFile": "Medium.ini",
+          "GameVersion": "1.6.353.0",
           "Hash": "tBVeSwhhyNk="
         }
       }
@@ -217,16 +175,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yLhCbCSfkuE=",
+        "Hash": "Wsq6jhOx4YM=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Skyrim.ccc",
         "Name": "Skyrim.ccc",
-        "Size": 1605,
+        "Size": 2018,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Skyrim.ccc",
-          "GameVersion": "1.5.97.0",
-          "Hash": "yLhCbCSfkuE="
+          "GameVersion": "1.6.353.0",
+          "Hash": "Wsq6jhOx4YM="
         }
       }
     },
@@ -254,16 +212,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8iPX1dhv7+E=",
+        "Hash": "L2b/YNPnYDg=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=SkyrimSE.exe",
         "Name": "SkyrimSE.exe",
-        "Size": 34769792,
+        "Size": 35410264,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "SkyrimSE.exe",
-          "GameVersion": "1.5.97.0",
-          "Hash": "8iPX1dhv7+E="
+          "GameVersion": "1.6.353.0",
+          "Hash": "L2b/YNPnYDg="
         }
       }
     },
@@ -278,7 +236,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "SkyrimSELauncher.exe",
-          "GameVersion": "1.5.97.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "0bhc8w0adVI="
         }
       }
@@ -294,7 +252,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Skyrim_Default.ini",
-          "GameVersion": "1.5.97.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "JbYP1w8FSfY="
         }
       }
@@ -310,7 +268,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "steam_api64.dll",
-          "GameVersion": "1.5.97.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "XEqXAcAgOQ8="
         }
       }
@@ -319,14 +277,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "joAkOFfS7Wc=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=ultra.ini",
-        "Name": "ultra.ini",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Ultra.ini",
+        "Name": "Ultra.ini",
         "Size": 911,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "ultra.ini",
-          "GameVersion": "1.5.97.0",
+          "GameFile": "Ultra.ini",
+          "GameVersion": "1.6.353.0",
           "Hash": "joAkOFfS7Wc="
         }
       }
@@ -361,7 +319,7 @@
           "IsNSFW": false,
           "ModID": 21294,
           "Name": ".NET Script Framework",
-          "Version": "16.0.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -564,7 +522,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Xtudo",
-          "Description": "This mod will patch some dwemer textures to fit the color palette of the Ancient Dwemer Metal mod. Includes Dawnguard, Dragonborn, SMIM and vanilla.",
+          "Description": "This mod will patch some dwemer textures to fit the color palette of the Ancient Dwemer Metal mod. Includes Dawnguard, Dragonborn, SMIM, Anniversary Edition and vanilla.",
           "FileID": 180928,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38845/104061-1596157249-886127725.jpeg",
@@ -588,7 +546,7 @@
           "Description": "This mod changes several quests, giving them higher requirements for objectives to be fullfilled.",
           "FileID": 101828,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27939/27939-1615331249-444875491.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27939/27939-1632515727-466822465.png",
           "IsNSFW": false,
           "ModID": 27939,
           "Name": "Andrealphus\u0027 Harder Quests",
@@ -609,7 +567,7 @@
           "Description": "This mod changes several quests, giving them higher requirements for objectives to be fullfilled.",
           "FileID": 101832,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27939/27939-1615331249-444875491.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27939/27939-1632515727-466822465.png",
           "IsNSFW": false,
           "ModID": 27939,
           "Name": "Andrealphus\u0027 Harder Quests",
@@ -731,7 +689,7 @@
         "Size": 24762,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dylan James - lazygecko",
+          "Author": "Dylan James - lazygecko - Katarsi",
           "Description": "An intelligently-made integration of the two largest and most extensive audio mods available for Skyrim. \n\nExperience all of what both expansive mods have to offer while maintaining full-compatibility between both projects.",
           "FileID": 143472,
           "GameName": "SkyrimSpecialEdition",
@@ -865,7 +823,7 @@
           "IsNSFW": false,
           "ModID": 47202,
           "Name": "BA Bard Songs",
-          "Version": "1.3.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -921,14 +879,14 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mharlek1",
-          "Description": "New vanilla based models for hair,horns, beard and brows combined with vanilla options - Beast races only\n\nPlayer character only - esl flagged, no slot on load order.\n\nAnd/or a npc replacer (with the pc options) for all Argonians and Khajiit named npcs and leveled lists - an esp.\n\nPlus a content addon - a npc replacer for other mods",
+          "Description": "The ultimate mod package for the beast races boasting thousands of possible outcomes for player character creation with exciting new vanilla based models accompanied by a complete npc replacer for all Argonians and Khajiit, named npcs and leveled lists, with glorious reimagining.\n\nAnd beyond: optional unique npc replacer addons for other mods",
           "FileID": 217862,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38480/38480-1596231698-1692247970.png",
           "IsNSFW": false,
           "ModID": 38480,
           "Name": "BeastHHBB - Khajiit and Argonian content - player character and NPC replacer",
-          "Version": "3.1.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -942,7 +900,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mharlek1",
-          "Description": "New vanilla based models for hair,horns, beard and brows combined with vanilla options - Beast races only\n\nPlayer character only - esl flagged, no slot on load order.\n\nAnd/or a npc replacer (with the pc options) for all Argonians and Khajiit named npcs and leveled lists - an esp.\n\nPlus a content addon - a npc replacer for other mods",
+          "Description": "The ultimate mod package for the beast races boasting thousands of possible outcomes for player character creation with exciting new vanilla based models accompanied by a complete npc replacer for all Argonians and Khajiit, named npcs and leveled lists, with glorious reimagining.\n\nAnd beyond: optional unique npc replacer addons for other mods",
           "FileID": 162771,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38480/38480-1596231698-1692247970.png",
@@ -963,13 +921,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "BDA Team",
-          "Description": "Applies the Better Dynamic Snow shader to ash objects in Solstheim.",
+          "Description": "",
           "FileID": 177820,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/14644/14644-1516123436-1067282087.jpeg",
+          "ImageURL": null,
           "IsNSFW": false,
           "ModID": 14644,
-          "Name": "Better Dynamic Ash",
+          "Name": "",
           "Version": "0.0.0.0"
         }
       }
@@ -984,7 +942,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "tarlazo",
-          "Description": "Applies the snow shader of \u0022Better Dynamic Snow\u0022 2.11.0 in \u0022Wyrmstooth\u0022, \u0022Falskaar\u0022, \u0022Beyond Reach\u0022, \u0022Rigmor of Cyrodiil\u0022, \u0022Northpoint\u0022.   ESP-FE",
+          "Description": "Applies the snow shader of \u0022Better Dynamic Snow\u0022 2.11.0 in \u0022Wyrmstooth\u0022, \u0022Falskaar\u0022, \u0022Beyond Reach\u0022, \u0022Rigmor of Cyrodiil\u0022, \u0022Northpoint\u0022, \u0022Clockwork\u0022.   ESP-FE",
           "FileID": 208437,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22741/22741-1547899379-901195250.jpeg",
@@ -1075,7 +1033,7 @@
           "IsNSFW": false,
           "ModID": 9110,
           "Name": "Blackreach Edits",
-          "Version": "1.0.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -1362,7 +1320,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ViktoriaLanders",
-          "Description": "Provides fixes, extra carriage and ferry, ESL flags and other features to the wonderful Carriage and Ferry Travel Overhaul mod.",
+          "Description": "Provides fixes, extra carriage and ferry services, ESL flags and other features to the wonderful Carriage and Ferry Travel Overhaul mod.",
           "FileID": 167001,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/40651/40651-1600634583-65657992.jpeg",
@@ -1502,64 +1460,64 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "CEgEhUUtOcU=",
+        "Hash": "v593yGFgPDo=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Dawnguard.esm",
         "Name": "Data_Dawnguard.esm",
-        "Size": 25189548,
+        "Size": 25885945,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Dawnguard.esm",
-          "GameVersion": "1.5.97.0",
-          "Hash": "CEgEhUUtOcU="
+          "GameVersion": "1.6.353.0",
+          "Hash": "v593yGFgPDo="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "eypuUwdQUb4=",
+        "Hash": "F76LaGyCAJA=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Dragonborn.esm",
         "Name": "Data_Dragonborn.esm",
-        "Size": 64564304,
+        "Size": 64663913,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Dragonborn.esm",
-          "GameVersion": "1.5.97.0",
-          "Hash": "eypuUwdQUb4="
+          "GameVersion": "1.6.353.0",
+          "Hash": "F76LaGyCAJA="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GPdcQrqi2NI=",
+        "Hash": "XlKELPX7jog=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\HearthFires.esm",
         "Name": "Data_HearthFires.esm",
-        "Size": 3978606,
+        "Size": 3978550,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\HearthFires.esm",
-          "GameVersion": "1.5.97.0",
-          "Hash": "GPdcQrqi2NI="
+          "GameVersion": "1.6.353.0",
+          "Hash": "XlKELPX7jog="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/DLG/LjdGXI=",
+        "Hash": "w7YJ2li+67E=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Update.esm",
         "Name": "Data_Update.esm",
-        "Size": 18557306,
+        "Size": 18825175,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Update.esm",
-          "GameVersion": "1.5.97.0",
-          "Hash": "/DLG/LjdGXI="
+          "GameVersion": "1.6.353.0",
+          "Hash": "w7YJ2li+67E="
         }
       }
     },
@@ -1601,7 +1559,7 @@
           "IsNSFW": false,
           "ModID": 53817,
           "Name": "College of Winterhold Quest Start Fixes",
-          "Version": "0.1.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -1635,14 +1593,14 @@
         "Size": 108285,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ic0nic0de",
-          "Description": "Complete automatic MCM quest tracking of the base game, DLC and a whole load of popular quest mods.",
+          "Author": "K1ngTr4cker",
+          "Description": "Complete MCM quest tracking of Skyrim, official DLC, Creation Club (Including Anniversary Edition) and a whole boat load of popular quest mods available here on the Nexus!",
           "FileID": 202881,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46358/46358-1614885097-1241702864.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46358/46358-1638112245-1234890184.png",
           "IsNSFW": false,
           "ModID": 46358,
-          "Name": "Completionist - Quest Tracker",
+          "Name": "Completionist - Skyrim Completion Tracker (SE-AE)",
           "Version": "0.0.0.0"
         }
       }
@@ -1741,10 +1699,10 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "winedave",
-          "Description": "A new take on Alduin with completely remade textures using high poly - low poly workflow. Optional Particle Lit Eyes. Comes in 4,8 \u0026amp; 16K resolution",
+          "Description": "A new take on Alduin with completely remade textures using high poly - low poly workflow. Optional Particle Lit Eyes. Comes in 2,4,8 \u0026amp; 16K resolution. Eyes in 1 or 2K.",
           "FileID": 179501,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44329/44329-1621188493-187901026.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44329/44329-1641217836-1016773760.png",
           "IsNSFW": false,
           "ModID": 44329,
           "Name": "Deiform Alduin - 16K - ENB Light Particle Effects",
@@ -2000,7 +1958,7 @@
           "IsNSFW": false,
           "ModID": 25498,
           "Name": "ELFX Fixes",
-          "Version": "5.7.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -2056,13 +2014,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "dDefinder",
-          "Description": "A blood overhaul mod",
+          "Description": "A blood mod overhaul",
           "FileID": 68649,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60-1-1363345227.jpg",
           "IsNSFW": true,
           "ModID": 2357,
-          "Name": "Enhanced Blood Textures SE",
+          "Name": "Enhanced Blood Textures",
           "Version": "0.0.0.0"
         }
       }
@@ -2077,13 +2035,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "dDefinder",
-          "Description": "A blood overhaul mod",
+          "Description": "A blood mod overhaul",
           "FileID": 162913,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60-1-1363345227.jpg",
           "IsNSFW": true,
           "ModID": 2357,
-          "Name": "Enhanced Blood Textures SE",
+          "Name": "Enhanced Blood Textures",
           "Version": "0.0.0.0"
         }
       }
@@ -2357,7 +2315,7 @@
           "IsNSFW": false,
           "ModID": 53441,
           "Name": "Flickering Sunlight Shadows Fix",
-          "Version": "1.4.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -2609,7 +2567,7 @@
           "IsNSFW": false,
           "ModID": 51847,
           "Name": "Headhunter - Bounties Redone",
-          "Version": "1.20.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -2903,7 +2861,7 @@
           "IsNSFW": false,
           "ModID": 47670,
           "Name": "Immersive Interactions - Animated Actions",
-          "Version": "1.36.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -2966,7 +2924,7 @@
           "IsNSFW": false,
           "ModID": 22184,
           "Name": "Improved College Entry - Questline Tweaks",
-          "Version": "2.8.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -3504,7 +3462,7 @@
           "IsNSFW": false,
           "ModID": 35910,
           "Name": "JK\u0027s Interiors Patch Collection",
-          "Version": "3.11.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -3567,7 +3525,7 @@
           "IsNSFW": false,
           "ModID": 52462,
           "Name": "JK\u0027s Mistveil Keep",
-          "Version": "1.0.1.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -3714,7 +3672,7 @@
           "IsNSFW": false,
           "ModID": 53554,
           "Name": "JK\u0027s Silver-Blood Inn",
-          "Version": "1.0.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -3924,7 +3882,7 @@
           "IsNSFW": false,
           "ModID": 52724,
           "Name": "JK\u0027s The Temple of Mara",
-          "Version": "1.0.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -4365,7 +4323,7 @@
           "IsNSFW": false,
           "ModID": 53074,
           "Name": "Leaps of Faith - A Misc Quest",
-          "Version": "f1.01"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -4386,7 +4344,7 @@
           "IsNSFW": false,
           "ModID": 53074,
           "Name": "Leaps of Faith - A Misc Quest",
-          "Version": "f1.01"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -4427,7 +4385,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/40816/40816-1601259833-1462062811.png",
           "IsNSFW": false,
           "ModID": 40816,
-          "Name": "Legacy of the Dragonborn - Followers Patch (Inigo-Auri-Kaidan-M\u0027rissi)",
+          "Name": "Legacy of the Dragonborn - Followers Patch (Inigo-Auri-Kaidan-M\u0027rissi-Hoth-Vilja)",
           "Version": "0.0.0.0"
         }
       }
@@ -4466,7 +4424,7 @@
           "Description": "Adds dynamic sunlight through the dome of the museum",
           "FileID": 175657,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38237/38237-1594596201-1742885501.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38237/38237-1631109107-1907370768.png",
           "IsNSFW": false,
           "ModID": 38237,
           "Name": "Legacy of The Dragonborn - museum dome sunlight and shadows",
@@ -4487,7 +4445,7 @@
           "Description": "Fixes some visual issues with the museum\u0027s exterior such as road blending and UV maps",
           "FileID": 193245,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47321/47321-1629014563-454810220.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47321/47321-1631110981-1063330513.png",
           "IsNSFW": false,
           "ModID": 47321,
           "Name": "Legacy of The Dragonborn - Museum Exterior Fixes",
@@ -4687,7 +4645,7 @@
           "IsNSFW": false,
           "ModID": 11052,
           "Name": "Majestic Mountains",
-          "Version": "3.2.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -5149,7 +5107,7 @@
           "IsNSFW": false,
           "ModID": 53792,
           "Name": "Nilheim - Misc Quest Expansion",
-          "Version": "1.0.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -5191,7 +5149,7 @@
           "IsNSFW": false,
           "ModID": 13395,
           "Name": "No Killmoves - No Killcams - No Killbites SE",
-          "Version": "1.1.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -5253,7 +5211,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17214-1-1337259335.jpg",
           "IsNSFW": false,
           "ModID": 1432,
-          "Name": "No Spinning Death Animation",
+          "Name": "No Spinning Death Animation SE",
           "Version": "0.0.0.0"
         }
       }
@@ -5271,7 +5229,7 @@
           "Description": "The year is 2019. It is a time of great innovation and proper crossbow reloading! \n\nDon\u0027t tell me you never asked for this...",
           "FileID": 185428,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29869/29869-1571688988-502313347.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29869/29869-1613144086-2100938531.jpeg",
           "IsNSFW": false,
           "ModID": 29869,
           "Name": "Non-Exploitable Crossbow Reloading SE",
@@ -5296,7 +5254,7 @@
           "IsNSFW": false,
           "ModID": 38708,
           "Name": "Oblivion-like Loading Menu SE",
-          "Version": "1.0.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -5380,7 +5338,7 @@
           "IsNSFW": false,
           "ModID": 51711,
           "Name": "Paarthurnax - Quest Expansion",
-          "Version": "f1.02"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -5422,7 +5380,7 @@
           "IsNSFW": false,
           "ModID": 38944,
           "Name": "Paper UI Sounds for Skyrim",
-          "Version": "6.1.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -5443,7 +5401,7 @@
           "IsNSFW": false,
           "ModID": 10836,
           "Name": "Paper World Map for SSE",
-          "Version": "1.4.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -5771,7 +5729,7 @@
         "Size": 2489,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Random%20Encounter%20Tweaks-16804-1-1-1564773772.zip_b4957e28-f3fc-4bc2-9b42-56a5da8ef274"
+          "Url": "https://authored-files.wabbajack.org/Random Encounter Tweaks-16804-1-1-1564773772.zip_b4957e28-f3fc-4bc2-9b42-56a5da8ef274"
         }
       }
     },
@@ -5911,7 +5869,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "isoku-TechAngel85-SparrowPrince",
-          "Description": "With this mod creek, lake, marsh, pond, river, and ocean water are once again visually and aurally distinct from one another.",
+          "Description": "Visually crisp and distinct water combined with the most robust improvements to effects across the board. Fully compatible with ENBSeries.",
           "FileID": 190952,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41076-1-1377597873.png",
@@ -5932,7 +5890,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "isoku-TechAngel85-SparrowPrince",
-          "Description": "With this mod creek, lake, marsh, pond, river, and ocean water are once again visually and aurally distinct from one another.",
+          "Description": "Visually crisp and distinct water combined with the most robust improvements to effects across the board. Fully compatible with ENBSeries.",
           "FileID": 153461,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41076-1-1377597873.png",
@@ -6100,10 +6058,10 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "agd25",
-          "Description": "Magic Overhaul for Requiem. This mod adds over a hundred spells to Requiem, as well as adjusting vanilla spells and adding perks.",
+          "Description": "Magic Overhaul for Requiem. This mod adds two hundred new spells to Requiem, as well as adjusting vanilla spells and adding perks.",
           "FileID": 203324,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/39214/39214-1603396785-261467738.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/39214/39214-1603396786-451535797.jpeg",
           "IsNSFW": false,
           "ModID": 39214,
           "Name": "Requiem - Expanded Grimoire",
@@ -6212,7 +6170,7 @@
           "IsNSFW": false,
           "ModID": 47231,
           "Name": "Requiem - Immersive Racial Traits",
-          "Version": "1.0.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -6275,7 +6233,7 @@
           "IsNSFW": false,
           "ModID": 42591,
           "Name": "Requiem - Noxcrab\u0027s Tweaks",
-          "Version": "0.2.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -6289,7 +6247,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Xanza",
-          "Description": "Removes the crime and quest conditions on Requiem\u0027s shrine blessings. Compatible with Requiem 4.0X",
+          "Description": "Removes the crime and quest conditions on Requiem\u0027s shrine blessings. Compatible with Requiem 4.0.x",
           "FileID": 210904,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51574/51574-1624528392-1203150058.png",
@@ -6310,14 +6268,14 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "agd25",
-          "Description": "This mod overhauls the Lockpicking and Pickpocketing skills for Requiem - The Roleplaying Overhaul.",
+          "Description": "This mod overhauls the Speechcraft, Lockpicking and Pickpocketing skills for Requiem - The Roleplaying Overhaul.",
           "FileID": 203327,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/48972/48972-1619230168-237294549.jpeg",
           "IsNSFW": false,
           "ModID": 48972,
           "Name": "Requiem - Skills of the Scoundrel",
-          "Version": "1.1.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -6331,7 +6289,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sunny333456",
-          "Description": "The mods here aren\u0027t patches. They are used to enhance your Requiem experience. Currently here have five mods : knockdown tweak, NPC statefix, VampireCollection,  Alduin redone and Better forgotten vale.",
+          "Description": "The mods are used to enhance your Requiem experience. Currently here have five mods : knockdown tweak, NPC statefix, VampireCollection,  Alduin redone and Better forgotten vale.",
           "FileID": 184528,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42633/42633-1627374428-482034935.jpeg",
@@ -6352,7 +6310,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sunny333456",
-          "Description": "The mods here aren\u0027t patches. They are used to enhance your Requiem experience. Currently here have five mods : knockdown tweak, NPC statefix, VampireCollection,  Alduin redone and Better forgotten vale.",
+          "Description": "The mods are used to enhance your Requiem experience. Currently here have five mods : knockdown tweak, NPC statefix, VampireCollection,  Alduin redone and Better forgotten vale.",
           "FileID": 171039,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42633/42633-1627374428-482034935.jpeg",
@@ -6373,14 +6331,14 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sunny333456",
-          "Description": "The mods here aren\u0027t patches. They are used to enhance your Requiem experience. Currently here have five mods : knockdown tweak, NPC statefix, VampireCollection,  Alduin redone and Better forgotten vale.",
+          "Description": "The mods are used to enhance your Requiem experience. Currently here have five mods : knockdown tweak, NPC statefix, VampireCollection,  Alduin redone and Better forgotten vale.",
           "FileID": 218005,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42633/42633-1627374428-482034935.jpeg",
           "IsNSFW": false,
           "ModID": 42633,
           "Name": "Requiem - small tweaks SE",
-          "Version": "0.2.0.0j"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -6394,14 +6352,14 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sunny333456",
-          "Description": "The mods here aren\u0027t patches. They are used to enhance your Requiem experience. Currently here have five mods : knockdown tweak, NPC statefix, VampireCollection,  Alduin redone and Better forgotten vale.",
+          "Description": "The mods are used to enhance your Requiem experience. Currently here have five mods : knockdown tweak, NPC statefix, VampireCollection,  Alduin redone and Better forgotten vale.",
           "FileID": 218006,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42633/42633-1627374428-482034935.jpeg",
           "IsNSFW": false,
           "ModID": 42633,
           "Name": "Requiem - small tweaks SE",
-          "Version": "0.3.0.0d"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -6422,7 +6380,7 @@
           "IsNSFW": false,
           "ModID": 42588,
           "Name": "Requiem - Special Feats",
-          "Version": "0.3.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -6443,7 +6401,7 @@
           "IsNSFW": false,
           "ModID": 43185,
           "Name": "Requiem - Static Skill Leveling (Experience Mod Add-on)",
-          "Version": "2.2.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -6548,7 +6506,7 @@
           "IsNSFW": false,
           "ModID": 42591,
           "Name": "Requiem - Noxcrab\u0027s Tweaks",
-          "Version": "0.1.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -6716,7 +6674,7 @@
           "IsNSFW": false,
           "ModID": 50008,
           "Name": "Scribes of Skyrim - a font extension",
-          "Version": "0.9.3.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -7091,7 +7049,7 @@
           "IsNSFW": false,
           "ModID": 52416,
           "Name": "Skyrim Reputation Improved",
-          "Version": "1.3.3.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -7154,7 +7112,7 @@
           "IsNSFW": false,
           "ModID": 50357,
           "Name": "Skyrim\u0027s Got Talent - Improve As a Bard",
-          "Version": "1.2.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -7175,7 +7133,7 @@
           "IsNSFW": false,
           "ModID": 50357,
           "Name": "Skyrim\u0027s Got Talent - Improve As a Bard",
-          "Version": "1.22.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -7553,7 +7511,7 @@
           "IsNSFW": false,
           "ModID": 41335,
           "Name": "SunHelm Survival - Compatibility Patches",
-          "Version": "1.1.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -7570,7 +7528,7 @@
           "Description": "A framework for mods and players to customize native Survival Mode features like Sleep to Level Up, with added support for cloaks and more! Survival Control Panel does not require Survival Mode to be installed to utilize its features.",
           "FileID": 171458,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41891/41891-1604175501-984501430.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41891/41891-1637788200-1436441007.png",
           "IsNSFW": false,
           "ModID": 41891,
           "Name": "Survival Control Panel",
@@ -7671,11 +7629,11 @@
         "Size": 62229672,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ak0d and Jeremy Soule",
+          "Author": "ak0d",
           "Description": "Adds a few tracks from Jeremy Soule\u0027s Northerner Diaries into Skyrim and Solstheim\u0027s exploration playlists.",
           "FileID": 113553,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28108/28108-1565311688-399496815.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28108/28108-1635796444-86673584.png",
           "IsNSFW": false,
           "ModID": 28108,
           "Name": "The Northerner Diaries - Immersive Edition (music by Jeremy Soule)",
@@ -7826,7 +7784,7 @@
           "IsNSFW": false,
           "ModID": 52073,
           "Name": "Unique Skulls HD - SE",
-          "Version": "1.1.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -7959,6 +7917,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "/anEAug/bp8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=21166\nfileID=136277",
+        "Name": "UPOT 512 max 512 res v9-21166-v9-1587840094.7z",
+        "Size": 3249886430,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mlbrad aka rogue",
+          "Description": "bethesdas textures optimized for performance without quality loss, credit also goes to bethesda for the game and to the developers of ordenator \u0026amp; DDSopt without which this would not have been possible,  textures for low end pcs now available\n\n\n\ncredit also goes to the creators of octagon \u0026amp; cathedral assets optimizer",
+          "FileID": 136277,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21166/21166-1541972612-1362954261.jpeg",
+          "IsNSFW": false,
+          "ModID": 21166,
+          "Name": "unofficial performance optimized textures AKA (UPOT)",
+          "Version": "9.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "ChOYzp87UDk=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=38132\nfileID=149669",
         "Name": "SSoB USSEP incorporation-38132-1-0-1594368943.7z",
@@ -7966,7 +7945,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ikillyou233 - feeddanoob",
-          "Description": "Has Stackable Stones of Barenziah with Optional Quest Markers include a Unofficial Skyrim Special Edition Patch bug fix w/ or w/o Even Better Quest Objectives inclusion.",
+          "Description": "Has Stackable Stones of Barenziah with Optional Quest Markers include a Unofficial Skyrim Special Edition Patch bug fix w/ or w/o Even Better Quest Objectives inclusion. DO NOT USE WITH SSOB 2.0.0, THEY ALREADY HAVE THE FIX",
           "FileID": 149669,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38132/38132-1594368014-2106313697.png",
@@ -8015,7 +7994,7 @@
           "IsNSFW": false,
           "ModID": 54061,
           "Name": "Vanilla Script (micro)Optimizations",
-          "Version": "1.0.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -8074,7 +8053,7 @@
           "Description": "Adds a small display to LOTD\u0027s Hall of Secrets to house a set of the Volkihar Knight armor.",
           "FileID": 152657,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38546/38546-1595408257-1249927227.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38546/38546-1630631721-1676556412.png",
           "IsNSFW": false,
           "ModID": 38546,
           "Name": "Legacy of the Dragonborn - Volkihar Knight Patch",
@@ -8183,7 +8162,7 @@
           "IsNSFW": false,
           "ModID": 49305,
           "Name": "Whiterun Watchtower Doesn\u0027t Start Broken",
-          "Version": "1.0.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -8379,6 +8358,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "pH2JTou2V4I=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=1778\nfileID=35568",
+        "Name": "Complete Widescreen Fix for SkyUI 5.2 SE Alpha - 2560x1080-1778-2-0.rar",
+        "Size": 942513,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Daisuke",
+          "Description": "It\u0027s a fix for a Widescreen 2560x1080, 3440x1440 Vanilla and SkyUI",
+          "FileID": 35568,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1778/1778-1533587023-1250170495.jpeg",
+          "IsNSFW": false,
+          "ModID": 1778,
+          "Name": "Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "yma1dX2E2wA=",
         "Meta": "[General]\ndirectURL=https://github.com/deorder/mo2-plugins/releases/download/1.1/deorder_plugins-1.1.zip",
         "Name": "deorder_plugins-1.1.zip",
@@ -8393,278 +8393,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kX9UFltG4+s=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Animations.bsa",
-        "Name": "Data_Skyrim - Animations.bsa",
-        "Size": 116177491,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Animations.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "kX9UFltG4+s="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "k5EWx/9Woqg=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Interface.bsa",
-        "Name": "Data_Skyrim - Interface.bsa",
-        "Size": 65726709,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Interface.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "k5EWx/9Woqg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "XTaNNFIm3eM=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Meshes0.bsa",
-        "Name": "Data_Skyrim - Meshes0.bsa",
-        "Size": 1152069673,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Meshes0.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "XTaNNFIm3eM="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "eN9rU4PSvEs=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Meshes1.bsa",
-        "Name": "Data_Skyrim - Meshes1.bsa",
-        "Size": 373427426,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Meshes1.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "eN9rU4PSvEs="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "/Sglpr+ZffA=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Misc.bsa",
-        "Name": "Data_Skyrim - Misc.bsa",
-        "Size": 204313675,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Misc.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "/Sglpr+ZffA="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "GG4pOfUmiRA=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Patch.bsa",
-        "Name": "Data_Skyrim - Patch.bsa",
-        "Size": 166880326,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Patch.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "GG4pOfUmiRA="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "yRcX3Ttf9YM=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Shaders.bsa",
-        "Name": "Data_Skyrim - Shaders.bsa",
-        "Size": 67318282,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Shaders.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "yRcX3Ttf9YM="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8LzXRU4x9Sw=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Sounds.bsa",
-        "Name": "Data_Skyrim - Sounds.bsa",
-        "Size": 1535523399,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Sounds.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "8LzXRU4x9Sw="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "EwvbU7wcUUo=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures0.bsa",
-        "Name": "Data_Skyrim - Textures0.bsa",
-        "Size": 655189115,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures0.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "EwvbU7wcUUo="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "NEfClmVq9B4=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures1.bsa",
-        "Name": "Data_Skyrim - Textures1.bsa",
-        "Size": 1509673333,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures1.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "NEfClmVq9B4="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vkYZpIgHQxU=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures2.bsa",
-        "Name": "Data_Skyrim - Textures2.bsa",
-        "Size": 1344319627,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures2.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "vkYZpIgHQxU="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "rENi4TDkFjY=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures3.bsa",
-        "Name": "Data_Skyrim - Textures3.bsa",
-        "Size": 1318023565,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures3.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "rENi4TDkFjY="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "giTfe+sElPQ=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures4.bsa",
-        "Name": "Data_Skyrim - Textures4.bsa",
-        "Size": 1355383619,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures4.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "giTfe+sElPQ="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "UiL63aqbepg=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures5.bsa",
-        "Name": "Data_Skyrim - Textures5.bsa",
-        "Size": 523065091,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures5.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "UiL63aqbepg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "S8YE//PoRFI=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures6.bsa",
-        "Name": "Data_Skyrim - Textures6.bsa",
-        "Size": 168591797,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures6.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "S8YE//PoRFI="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "dFLn+q0m2ic=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures7.bsa",
-        "Name": "Data_Skyrim - Textures7.bsa",
-        "Size": 824377007,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures7.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "dFLn+q0m2ic="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Pv1SP027iuw=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures8.bsa",
-        "Name": "Data_Skyrim - Textures8.bsa",
-        "Size": 25248518,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures8.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "Pv1SP027iuw="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "2Tmfw2AG/MM=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Voices_en0.bsa",
         "Name": "Data_Skyrim - Voices_en0.bsa",
@@ -8673,7 +8401,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Voices_en0.bsa",
-          "GameVersion": "1.5.97.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "2Tmfw2AG/MM="
         }
       }
@@ -8681,16 +8409,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "krNnq2qHmOo=",
+        "Hash": "oct60LUJHOc=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim.esm",
         "Name": "Data_Skyrim.esm",
-        "Size": 249753573,
+        "Size": 249753477,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim.esm",
-          "GameVersion": "1.5.97.0",
-          "Hash": "krNnq2qHmOo="
+          "GameVersion": "1.6.353.0",
+          "Hash": "oct60LUJHOc="
         }
       }
     },
@@ -8844,19 +8572,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5hKA3MnukjA=",
-        "Meta": "[General]\ndirectURL=https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg",
-        "Name": "xLODGen.83.7z",
-        "Size": 15175790,
-        "State": {
-          "$type": "MegaDownloader, Wabbajack.Lib",
-          "Url": "https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "zqXquZJccXU=",
         "Meta": "[General]\ndirectURL=https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z",
         "Name": "zEdit_v0.6.5_-_Portable_x64.7z",
@@ -8906,7 +8621,7 @@
           "IsNSFW": false,
           "ModID": 50238,
           "Name": "AllGUD Tweaks",
-          "Version": "1.0.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -9004,10 +8719,10 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ClearanceClarence",
-          "Description": "A texture replacement for the ore veins found in mines and around skyrim. This mod also retextures the mined ores and the ingots.",
+          "Description": "A texture replacement for the Ore veins, Mined ores and Ingots. Includes patches for Hearthfire and Skyrim AE",
           "FileID": 151418,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1306/1306-1569159804-646252978.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1306/1306-1637702049-69850307.jpeg",
           "IsNSFW": false,
           "ModID": 1306,
           "Name": "CC\u0027s Enhanced Ore Veins SSE Edition",
@@ -9074,7 +8789,7 @@
           "IsNSFW": false,
           "ModID": 23010,
           "Name": "Dear Diary - Paper SkyUI Menus Replacer SE",
-          "Version": "3.0.5.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -9095,7 +8810,7 @@
           "IsNSFW": false,
           "ModID": 46546,
           "Name": "Dialogue Interface ReShaped",
-          "Version": "f1.03"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -9158,7 +8873,7 @@
           "IsNSFW": false,
           "ModID": 2004,
           "Name": "Enderal Font for Skyrim SE (Dumbledor Font)",
-          "Version": "1.2.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -9179,7 +8894,7 @@
           "IsNSFW": false,
           "ModID": 17751,
           "Name": "Experience",
-          "Version": "1.2.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -9221,7 +8936,7 @@
           "IsNSFW": false,
           "ModID": 2880,
           "Name": "Font Overhaul - Natural Typefaces for Skyrim -- FONTS",
-          "Version": "2.1.1.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -9242,7 +8957,7 @@
           "IsNSFW": false,
           "ModID": 51125,
           "Name": "Forget Spell",
-          "Version": "1.2.2.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -9263,7 +8978,7 @@
           "IsNSFW": false,
           "ModID": 53745,
           "Name": "Immersive Interactions - Patch for Dragon Claws Auto-Unlock Instant Version",
-          "Version": "1.35.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -9500,7 +9215,7 @@
           "IsNSFW": false,
           "ModID": 47748,
           "Name": "Paper HUD - Director\u0027s Cut",
-          "Version": "1.0.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -9521,7 +9236,7 @@
           "IsNSFW": false,
           "ModID": 22854,
           "Name": "powerofthree\u0027s Papyrus Extender",
-          "Version": "4.5.1.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -9647,7 +9362,7 @@
           "IsNSFW": false,
           "ModID": 47231,
           "Name": "Requiem - Immersive Racial Traits",
-          "Version": "0.9.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -9661,7 +9376,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sunny333456",
-          "Description": "The mods here aren\u0027t patches. They are used to enhance your Requiem experience. Currently here have five mods : knockdown tweak, NPC statefix, VampireCollection,  Alduin redone and Better forgotten vale.",
+          "Description": "The mods are used to enhance your Requiem experience. Currently here have five mods : knockdown tweak, NPC statefix, VampireCollection,  Alduin redone and Better forgotten vale.",
           "FileID": 208441,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42633/42633-1627374428-482034935.jpeg",
@@ -9682,7 +9397,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sunny333456",
-          "Description": "The mods here aren\u0027t patches. They are used to enhance your Requiem experience. Currently here have five mods : knockdown tweak, NPC statefix, VampireCollection,  Alduin redone and Better forgotten vale.",
+          "Description": "The mods are used to enhance your Requiem experience. Currently here have five mods : knockdown tweak, NPC statefix, VampireCollection,  Alduin redone and Better forgotten vale.",
           "FileID": 213364,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42633/42633-1627374428-482034935.jpeg",
@@ -9710,7 +9425,7 @@
           "IsNSFW": false,
           "ModID": 61621,
           "Name": "Requiem Patch Central",
-          "Version": "f4.05"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -9916,7 +9631,7 @@
           "Description": "A water modification that takes full advantage of advanced features offered by ENBSeries.",
           "FileID": 194593,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37061/37061-1591799580-904729202.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37061/37061-1631361680-2098426155.jpeg",
           "IsNSFW": false,
           "ModID": 37061,
           "Name": "Water for ENB",
@@ -9977,7 +9692,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Video\\BGS_Logo.bik",
-          "GameVersion": "1.5.97.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "3z7MDvy3Dhw="
         }
       }
@@ -10197,7 +9912,7 @@
           "Description": "Makes the vanilla Whiterun trellis 3D with custom meshes. Includes iron and (optional) wood textures.",
           "FileID": 170134,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41801/41801-1603852836-2082411913.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41801/41801-1639214695-175003452.png",
           "IsNSFW": false,
           "ModID": 41801,
           "Name": "3D Whiterun Trellis",
@@ -10348,7 +10063,7 @@
           "IsNSFW": false,
           "ModID": 53761,
           "Name": "Animated Static Reload Fix",
-          "Version": "f1.01"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -10369,7 +10084,7 @@
           "IsNSFW": false,
           "ModID": 32117,
           "Name": "Assorted mesh fixes",
-          "Version": "0.23.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -10411,7 +10126,7 @@
           "IsNSFW": false,
           "ModID": 54309,
           "Name": "Auto Input Switch",
-          "Version": "1.1.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -10474,7 +10189,7 @@
           "IsNSFW": false,
           "ModID": 40045,
           "Name": "Better Blackreach Clutter",
-          "Version": "1.0.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -10495,7 +10210,7 @@
           "IsNSFW": false,
           "ModID": 40045,
           "Name": "Better Blackreach Clutter",
-          "Version": "1.0.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -10516,7 +10231,7 @@
           "IsNSFW": false,
           "ModID": 40045,
           "Name": "Better Blackreach Clutter",
-          "Version": "1.2.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -10537,7 +10252,7 @@
           "IsNSFW": false,
           "ModID": 40045,
           "Name": "Better Blackreach Clutter",
-          "Version": "1.4.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -10558,7 +10273,7 @@
           "IsNSFW": false,
           "ModID": 43936,
           "Name": "Better Combat Escape - SSE",
-          "Version": "0.83.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -10663,7 +10378,7 @@
           "IsNSFW": false,
           "ModID": 37956,
           "Name": "Bright Waterfall Fix for ENB",
-          "Version": "3.3.3.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -10705,7 +10420,7 @@
           "IsNSFW": false,
           "ModID": 34516,
           "Name": "Campfire Backpack HD",
-          "Version": "1.2.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -10726,7 +10441,7 @@
           "IsNSFW": false,
           "ModID": 34516,
           "Name": "Campfire Backpack HD",
-          "Version": "1.0.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -10747,7 +10462,7 @@
           "IsNSFW": false,
           "ModID": 34516,
           "Name": "Campfire Backpack HD",
-          "Version": "1.1.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -10824,10 +10539,10 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ClearanceClarence",
-          "Description": "A texture replacement for the ore veins found in mines and around skyrim. This mod also retextures the mined ores and the ingots.",
+          "Description": "A texture replacement for the Ore veins, Mined ores and Ingots. Includes patches for Hearthfire and Skyrim AE",
           "FileID": 151267,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1306/1306-1569159804-646252978.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1306/1306-1637702049-69850307.jpeg",
           "IsNSFW": false,
           "ModID": 1306,
           "Name": "CC\u0027s Enhanced Ore Veins SSE Edition",
@@ -10957,7 +10672,7 @@
           "IsNSFW": false,
           "ModID": 52164,
           "Name": "Don\u0027t Stay in The Water",
-          "Version": "4.1.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -11083,7 +10798,7 @@
           "IsNSFW": false,
           "ModID": 52605,
           "Name": "ElSopa - Iron Weapons Redone SE",
-          "Version": "1.1.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -11293,7 +11008,7 @@
           "IsNSFW": false,
           "ModID": 42441,
           "Name": "Face Discoloration Fix",
-          "Version": "1.0.1.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -11356,7 +11071,7 @@
           "IsNSFW": false,
           "ModID": 53653,
           "Name": "Fixed Mesh Lighting",
-          "Version": "1.3.1.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -11377,7 +11092,7 @@
           "IsNSFW": false,
           "ModID": 22122,
           "Name": "Flat Map Markers SSE",
-          "Version": "1.3.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -11650,7 +11365,7 @@
           "IsNSFW": false,
           "ModID": 9951,
           "Name": "Lost of T\u0027Skyrim",
-          "Version": "1.0.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -12028,7 +11743,7 @@
           "IsNSFW": false,
           "ModID": 11052,
           "Name": "Majestic Mountains",
-          "Version": "1.2.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -12259,7 +11974,7 @@
           "IsNSFW": false,
           "ModID": 40261,
           "Name": "NPC AI Process Position  Fix - SSE",
-          "Version": "f4.05c"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -12280,7 +11995,7 @@
           "IsNSFW": false,
           "ModID": 29773,
           "Name": "Oblivionesque Category Icons For SkyUI SE",
-          "Version": "1.1.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -12385,7 +12100,7 @@
           "IsNSFW": false,
           "ModID": 51073,
           "Name": "powerofthree\u0027s Tweaks",
-          "Version": "1.2.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -12406,7 +12121,7 @@
           "IsNSFW": false,
           "ModID": 51073,
           "Name": "powerofthree\u0027s Tweaks",
-          "Version": "1.2.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -12469,7 +12184,7 @@
           "IsNSFW": false,
           "ModID": 27984,
           "Name": "Rally\u0027s Honey Pot",
-          "Version": "1.0.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -12671,7 +12386,7 @@
           "IsNSFW": false,
           "ModID": 38944,
           "Name": "Paper UI Sounds for Skyrim",
-          "Version": "2.0.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -13217,7 +12932,7 @@
           "IsNSFW": false,
           "ModID": 53205,
           "Name": "Scallions of Skyrim - High Polygon Leeks",
-          "Version": "0.1.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -13231,14 +12946,14 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "meh321 and KernalsEgg",
-          "Description": "A collection of engine bug fixes and patches made possible by the .NET Script Framework.",
+          "Description": "A collection of engine bug fixes and patches.",
           "FileID": 221360,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43532/43532-1616689685-1381075271.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43532/43532-1631663358-1008600046.jpeg",
           "IsNSFW": false,
           "ModID": 43532,
           "Name": "Scrambled Bugs",
-          "Version": "12.0.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -13252,10 +12967,10 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "meh321 and KernalsEgg",
-          "Description": "A collection of engine bug fixes and patches made possible by the .NET Script Framework.",
+          "Description": "A collection of engine bug fixes and patches.",
           "FileID": 200347,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43532/43532-1616689685-1381075271.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43532/43532-1631663358-1008600046.jpeg",
           "IsNSFW": false,
           "ModID": 43532,
           "Name": "Scrambled Bugs",
@@ -13481,8 +13196,8 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50129/50129-1623157278-652122102.png",
           "IsNSFW": false,
           "ModID": 50129,
-          "Name": "Skyrim Priority SE - skse plugin",
-          "Version": "3.0.0.0"
+          "Name": "Skyrim Priority SE AE - skse plugin",
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -13524,7 +13239,7 @@
           "IsNSFW": false,
           "ModID": 47710,
           "Name": "Splashes Of Skyrim",
-          "Version": "1.2.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -14168,7 +13883,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Xtudo",
-          "Description": "This mod will patch some dwemer textures to fit the color palette of the Ancient Dwemer Metal mod. Includes Dawnguard, Dragonborn, SMIM and vanilla.",
+          "Description": "This mod will patch some dwemer textures to fit the color palette of the Ancient Dwemer Metal mod. Includes Dawnguard, Dragonborn, SMIM, Anniversary Edition and vanilla.",
           "FileID": 190481,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38845/104061-1596157249-886127725.jpeg",
@@ -14189,7 +13904,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Xtudo",
-          "Description": "This mod will patch some dwemer textures to fit the color palette of the Ancient Dwemer Metal mod. Includes Dawnguard, Dragonborn, SMIM and vanilla.",
+          "Description": "This mod will patch some dwemer textures to fit the color palette of the Ancient Dwemer Metal mod. Includes Dawnguard, Dragonborn, SMIM, Anniversary Edition and vanilla.",
           "FileID": 178217,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38845/104061-1596157249-886127725.jpeg",
@@ -14210,7 +13925,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Xtudo",
-          "Description": "This mod will patch some dwemer textures to fit the color palette of the Ancient Dwemer Metal mod. Includes Dawnguard, Dragonborn, SMIM and vanilla.",
+          "Description": "This mod will patch some dwemer textures to fit the color palette of the Ancient Dwemer Metal mod. Includes Dawnguard, Dragonborn, SMIM, Anniversary Edition and vanilla.",
           "FileID": 190137,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38845/104061-1596157249-886127725.jpeg",
@@ -14574,7 +14289,7 @@
           "IsNSFW": false,
           "ModID": 101685,
           "Name": "Dear Diary Startscreen Retexture",
-          "Version": "1.0.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -14588,10 +14303,10 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "winedave",
-          "Description": "A new take on Alduin with completely remade textures using high poly - low poly workflow. Optional Particle Lit Eyes. Comes in 4,8 \u0026amp; 16K resolution",
+          "Description": "A new take on Alduin with completely remade textures using high poly - low poly workflow. Optional Particle Lit Eyes. Comes in 2,4,8 \u0026amp; 16K resolution. Eyes in 1 or 2K.",
           "FileID": 203881,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44329/44329-1621188493-187901026.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44329/44329-1641217836-1016773760.png",
           "IsNSFW": false,
           "ModID": 44329,
           "Name": "Deiform Alduin - 16K - ENB Light Particle Effects",
@@ -14805,7 +14520,7 @@
           "IsNSFW": false,
           "ModID": 9951,
           "Name": "Lost of T\u0027Skyrim",
-          "Version": "1.0.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -15512,13 +15227,13 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Halk Hogan PL",
-          "Description": "100% vanilla friendly 4K HD Reworked Mammoths for Skyrim SE",
+          "Description": "",
           "FileID": 84082,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23958/23958-1551906115-1052906740.jpeg",
+          "ImageURL": null,
           "IsNSFW": false,
           "ModID": 23958,
-          "Name": "HD Reworked Mammoths",
+          "Name": "",
           "Version": "0.0.0.0"
         }
       }
@@ -15751,6 +15466,38 @@
           "ModID": 61920,
           "Name": "Immersive Armors - Heroic Imperial amidianborn fix",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WJzdWWq7n8M=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures8.bsa",
+        "Name": "Data_Skyrim - Textures8.bsa",
+        "Size": 214496000,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures8.bsa",
+          "GameVersion": "1.6.353.0",
+          "Hash": "WJzdWWq7n8M="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uutAUjvgpvg=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures2.bsa",
+        "Name": "Data_Skyrim - Textures2.bsa",
+        "Size": 1346030841,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures2.bsa",
+          "GameVersion": "1.6.353.0",
+          "Hash": "uutAUjvgpvg="
         }
       }
     },
@@ -16061,7 +15808,7 @@
           "Description": "This mod replaces the glass textures on the LOTD displays, giving it a cleaner look and letting you see your collected items better.",
           "FileID": 127703,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33409/33409-1583612993-101906460.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33409/33409-1616268923-981044131.png",
           "IsNSFW": false,
           "ModID": 33409,
           "Name": "Legacy of the Dragonborn - Cleaner Display Glass",
@@ -16334,7 +16081,7 @@
           "Description": "This mod is a high quality retexture of Road Signs with unique illustrations for all cities, in 4K-2K or 2K-1K resolution. The mod is available in English, French, German, Italian, Spanish, Russian, Czech and Polish.",
           "FileID": 199131,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46564/46564-1614939151-600118504.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46564/46564-1636041581-495532307.gif",
           "IsNSFW": false,
           "ModID": 46564,
           "Name": "My Road Signs are Beautiful - Multilingual HD Retexture - SE",
@@ -16422,7 +16169,7 @@
           "IsNSFW": false,
           "ModID": 29682,
           "Name": "Oblivionesque Active Effects For SkyUI SE",
-          "Version": "1.0.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -16443,7 +16190,7 @@
           "IsNSFW": false,
           "ModID": 25131,
           "Name": "Pants for Savior\u0027s Hide",
-          "Version": "0.1.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -16464,7 +16211,7 @@
           "IsNSFW": false,
           "ModID": 23114,
           "Name": "Warburg\u0027s Paper World Map Flat Mesh with Unofficial Fix and Flat Map Markers JSON",
-          "Version": "1.0.1.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -16485,7 +16232,7 @@
           "IsNSFW": false,
           "ModID": 84734,
           "Name": "Paper World Map Addons",
-          "Version": "1.2.2.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -16506,7 +16253,7 @@
           "IsNSFW": false,
           "ModID": 52335,
           "Name": "Particle Lights for ENB - Nordic Ruins Candles",
-          "Version": "1.1.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -17590,7 +17337,7 @@
           "IsNSFW": false,
           "ModID": 53779,
           "Name": "Solstheim Objects SMIMed - High Poly Dark Elf Furniture",
-          "Version": "0.1.1.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -18241,7 +17988,7 @@
           "IsNSFW": false,
           "ModID": 44581,
           "Name": "All Geared Up Derivative - JS Purses and Septims Patch",
-          "Version": "1.0.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -18346,7 +18093,7 @@
           "IsNSFW": false,
           "ModID": 52317,
           "Name": "Banshee -Wisp Mother Sounds Rework-",
-          "Version": "1.0.0.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -18696,7 +18443,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Niroku",
-          "Description": "This mod replaces \u0022tri\u0022 files for human and elf female face animation.\n\nThe changes are all about emotional expressions, phonemes and modifers.",
+          "Description": "This mod replaces the facial expression morphing files for humans and elves used by players and NPCs.\n\nThis mod modifies all animations including lips, eyebrows and eye movements and expressions.",
           "FileID": 115524,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19181/19181-1542534574-1077375430.jpeg",
@@ -18717,7 +18464,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Niroku",
-          "Description": "This mod replaces \u0022tri\u0022 files for human and elf male face animation.\n\nThe changes are all about emotional expressions, phonemes and modifers.",
+          "Description": "This mod replaces the facial expression morphing files for humans and elves used by players and NPCs.\n\nThis mod modifies all animations including lips, eyebrows and eye movements and expressions.",
           "FileID": 115593,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19532/93258-1535206907-378630950.jpeg",
@@ -19266,7 +19013,7 @@
           "Description": "This is a retexture for the Khajiit male, it will make your Khajiit look more masculine.",
           "FileID": 2108,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/70481-0-1445662428.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/186/186-1637467190-280876717.jpeg",
           "IsNSFW": true,
           "ModID": 186,
           "Name": "Masculine Khajiit Textures (Grey Cat and Leopard)",
@@ -20033,7 +19780,7 @@
           "IsNSFW": false,
           "ModID": 48786,
           "Name": "AllGud SE Azura Star Fix",
-          "Version": "1.0.1.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -20292,6 +20039,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "TvzBPkbzJjI=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Meshes1.bsa",
+        "Name": "Data_Skyrim - Meshes1.bsa",
+        "Size": 378853391,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Meshes1.bsa",
+          "GameVersion": "1.6.353.0",
+          "Hash": "TvzBPkbzJjI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "9NVELcso5KY=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=22948\nfileID=140942",
         "Name": "Riekling Reavers-22948-1-1-1589936323.7z",
@@ -20541,6 +20304,36 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "X3r9auZPg40=",
+        "Meta": "[General]\ndirectURL=https://github.com/LostDragonist/SSE-Downgrade-Kit/raw/3680a5f60f6b74434c4ddaaf786daf8007273839/SSE.Downgrade.Kit.7z",
+        "Name": "SSE.Downgrade.Kit.7z",
+        "Size": 114969,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/LostDragonist/SSE-Downgrade-Kit/raw/3680a5f60f6b74434c4ddaaf786daf8007273839/SSE.Downgrade.Kit.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oIYZPu4jH2g=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Meshes0.bsa",
+        "Name": "Data_Skyrim - Meshes0.bsa",
+        "Size": 1153090124,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Meshes0.bsa",
+          "GameVersion": "1.6.353.0",
+          "Hash": "oIYZPu4jH2g="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Vyxtu2lLWlo=",
         "Meta": "[General]\ndirectURL=https://github.com/Timboman/skyrim/archive/a2c5e8ec0f68d4bf26e58863d260233ba8c31457.zip",
         "Name": "StayWithMe-a2c5e8ec0f68d4bf26e58863d260233ba8c31457.zip",
@@ -20549,6 +20342,150 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/Timboman/skyrim/archive/a2c5e8ec0f68d4bf26e58863d260233ba8c31457.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5xD6UEtvt3M=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Animations.bsa",
+        "Name": "Data_Skyrim - Animations.bsa",
+        "Size": 65101236,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Animations.bsa",
+          "GameVersion": "1.6.353.0",
+          "Hash": "5xD6UEtvt3M="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6ILjbi2XOOA=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Sounds.bsa",
+        "Name": "Data_Skyrim - Sounds.bsa",
+        "Size": 1538656059,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Sounds.bsa",
+          "GameVersion": "1.6.353.0",
+          "Hash": "6ILjbi2XOOA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "l/34Syb1rXg=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Interface.bsa",
+        "Name": "Data_Skyrim - Interface.bsa",
+        "Size": 78740221,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Interface.bsa",
+          "GameVersion": "1.6.353.0",
+          "Hash": "l/34Syb1rXg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "miIWAsh+4As=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures3.bsa",
+        "Name": "Data_Skyrim - Textures3.bsa",
+        "Size": 1401677791,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures3.bsa",
+          "GameVersion": "1.6.353.0",
+          "Hash": "miIWAsh+4As="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VX7KHQ0qSXM=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures0.bsa",
+        "Name": "Data_Skyrim - Textures0.bsa",
+        "Size": 652401558,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures0.bsa",
+          "GameVersion": "1.6.353.0",
+          "Hash": "VX7KHQ0qSXM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TxUe36eG4W0=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\ccBGSSSE001-Fish.bsa",
+        "Name": "Data_ccBGSSSE001-Fish.bsa",
+        "Size": 377448164,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccBGSSSE001-Fish.bsa",
+          "GameVersion": "1.6.353.0",
+          "Hash": "TxUe36eG4W0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gGA1UynjlR8=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures5.bsa",
+        "Name": "Data_Skyrim - Textures5.bsa",
+        "Size": 809121183,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures5.bsa",
+          "GameVersion": "1.6.353.0",
+          "Hash": "gGA1UynjlR8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7ZEj5ntJZIc=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Misc.bsa",
+        "Name": "Data_Skyrim - Misc.bsa",
+        "Size": 204574260,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Misc.bsa",
+          "GameVersion": "1.6.353.0",
+          "Hash": "7ZEj5ntJZIc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SwnAPr6pbzg=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Shaders.bsa",
+        "Name": "Data_Skyrim - Shaders.bsa",
+        "Size": 67308970,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Shaders.bsa",
+          "GameVersion": "1.6.353.0",
+          "Hash": "SwnAPr6pbzg="
         }
       }
     }
