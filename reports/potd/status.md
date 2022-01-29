@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (505)
+### Valid (509)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -59,15 +59,16 @@
 *  [Bedroll 4K-46101-1-0-1614121183.rar](https://www.nexusmods.com/skyrimspecialedition/mods/46101/?tab=files&file_id=187657)
 *  [Believable Crime Report Radius-2802-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2802/?tab=files&file_id=4160)
 *  [BethINI Standalone Version-4875-3-5-1593829244.zip](https://www.nexusmods.com/skyrimspecialedition/mods/4875/?tab=files&file_id=148679)
+*  [Better Coin Purses (Overhaul) ESP-58582-1-0-1637100332.rar](https://www.nexusmods.com/skyrimspecialedition/mods/58582/?tab=files&file_id=242102)
 *  [Better Jumping SE-18967-1-7-1-1586802920.zip](https://www.nexusmods.com/skyrimspecialedition/mods/18967/?tab=files&file_id=134075)
 *  [Bijin Skin CBBE-20078-1-4-1541714925.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20078/?tab=files&file_id=71720)
-*  binkw64.dll
 *  [Blended Roads-8834-1-7-1586448385.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8834/?tab=files&file_id=133231)
 *  [Blue Palace only version - by Titansbane-41621-1-1603667471.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41621/?tab=files&file_id=167081)
 *  [Boats and Ships - 4k-45601-1-0-1613108417.rar](https://www.nexusmods.com/skyrimspecialedition/mods/45601/?tab=files&file_id=185419)
 *  [BodySlide and Outfit Studio - v5.4.1-201-5-4-1-1627325006.7z](https://www.nexusmods.com/skyrimspecialedition/mods/201/?tab=files&file_id=216944)
 *  [Bug Fixes SSE v3-33261-3-1617429109.zip](https://www.nexusmods.com/skyrimspecialedition/mods/33261/?tab=files&file_id=195587)
 *  [Caliente's Beautiful Bodies Enhancer - v1.6.2-198-1-6-2-1628020768.7z](https://www.nexusmods.com/skyrimspecialedition/mods/198/?tab=files&file_id=218572)
+*  [Capital Windhelm Expansion - City Entrances Overhaul Patch-47186-1-2-1617131897.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47186/?tab=files&file_id=194704)
 *  [Capital Windhelm Expansion - JK's Skyrim Patch-42990-1-1611861057.rar](https://www.nexusmods.com/skyrimspecialedition/mods/42990/?tab=files&file_id=182432)
 *  [Capital Windhelm Expansion - Normal-42990-1-3-1614298844.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42990/?tab=files&file_id=188036)
 *  [Cathedral Assets Optimizer-23316-5-1-3-1619257830.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23316/?tab=files&file_id=199921)
@@ -106,7 +107,6 @@
 *  Data_Skyrim - Meshes0.bsa
 *  Data_Skyrim - Meshes1.bsa
 *  Data_Skyrim - Misc.bsa
-*  Data_Skyrim - Patch.bsa
 *  Data_Skyrim - Shaders.bsa
 *  Data_Skyrim - Sounds.bsa
 *  Data_Skyrim - Textures0.bsa
@@ -127,6 +127,8 @@
 *  [Deiform Alduin 4K-44329-1-1-1621189306.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44329/?tab=files&file_id=203882)
 *  [Deiform Alduin Eye textures 4K-44329-1-1-1621189508.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44329/?tab=files&file_id=203884)
 *  [Diverse Random Normal Attack-40415-1-32-1603414849.zip](https://www.nexusmods.com/skyrimspecialedition/mods/40415/?tab=files&file_id=166649)
+*  [DLL Plugin Loader v1-10546-1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/10546/?tab=files&file_id=28074)
+*  [Dovahkiin's Vault SSE-42237-1-0-0-1605211688.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42237/?tab=files&file_id=169793)
 *  [Dragon War - A Dragon Overhaul-51310-1-1-1-1629216603.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51310/?tab=files&file_id=221859)
 *  [Dragon War - Variants-51310-1-1-1628475782.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51310/?tab=files&file_id=219871)
 *  [Dragon.Priest.4k-4974-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4974/?tab=files&file_id=10639)
@@ -230,7 +232,7 @@
 *  [High Poly Project-12029-v4-95-1614673394.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=188917)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
 *  High_Poly_Head_v1.4_(SE).zip
-*  high.ini
+*  High.ini
 *  [HQ Alduins Wall - 1.0-2638-1-01.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2638/?tab=files&file_id=3816)
 *  [HQ Solitude - 2K-23937-1-0-1552088561.rar](https://www.nexusmods.com/skyrimspecialedition/mods/23937/?tab=files&file_id=84292)
 *  [Hun - Lovaas - ESP flagged as ESL-16123-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/16123/?tab=files&file_id=66015)
@@ -261,7 +263,7 @@
 *  [Loki_WadeInWater-42854-v1-1606602483.rar](https://www.nexusmods.com/skyrimspecialedition/mods/42854/?tab=files&file_id=172065)
 *  [loot_0.15.1-0-g82c756e_master.7z](https://github.com/loot/loot/releases/download/0.15.1/loot_0.15.1-0-g82c756e_master.7z)
 *  [LostDragonist-MO2-Plugins.zip](https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LostDragonist-MO2-Plugins.zip)
-*  low.ini
+*  Low.ini
 *  [Lux-43158-3-9-1640958769.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=252854)
 *  [Majestic Mountains - Mesh Tangent Space Fixes-48574-1-0-1618451379.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48574/?tab=files&file_id=198250)
 *  [Majestic Mountains - Northside-27981-2-0-1588623600.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27981/?tab=files&file_id=138094)
@@ -273,7 +275,7 @@
 *  [Medieval Candlehorns and Sconces-24324-2-0-0-1561629898.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24324/?tab=files&file_id=97446)
 *  [Medieval Silverworks-23938-1-0-0-1551836270.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23938/?tab=files&file_id=83990)
 *  [Medieval Spirits-24243-1-0-2-1553889655.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24243/?tab=files&file_id=86769)
-*  medium.ini
+*  Medium.ini
 *  [Melodies of Civilization 1.01-30014-1-01-1572356289.rar](https://www.nexusmods.com/skyrimspecialedition/mods/30014/?tab=files&file_id=111784)
 *  [Meridia Revoiced - Dialogue Edits-32014-1-0-1579759321.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32014/?tab=files&file_id=120887)
 *  [Mild Complexions - SE-28510-2-0-1622231851.zip](https://www.nexusmods.com/skyrimspecialedition/mods/28510/?tab=files&file_id=206069)
@@ -283,6 +285,8 @@
 *  [Modern Brawl Bug Fix v104-1473-1-04.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1473/?tab=files&file_id=1552)
 *  [More Bandit Camps SE-1994-2-7a-1580014418.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1994/?tab=files&file_id=121201)
 *  [More Informative Console 0.43-19250-0-43-1624831495.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=211462)
+*  [moreHUD Inventory Edition-18619-1-0-18-1597503354.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18619/?tab=files&file_id=155748)
+*  [moreHUD SE-12688-4-0-0-5Beta-1612021355.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12688/?tab=files&file_id=182882)
 *  [Move it Dammit - for Skyrim Special Edition v1.1 (Installation Script)-752-1-1-0b.7z](https://www.nexusmods.com/skyrimspecialedition/mods/752/?tab=files&file_id=10772)
 *  [Mundus - A Standing Stone Overhaul-33411-1-6-2-1629128778.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33411/?tab=files&file_id=221640)
 *  [Music - HQ-18115-0-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18115/?tab=files&file_id=57834)
@@ -468,7 +472,7 @@
 *  [True Storms and Azurite Patch-42731-1-71-1627776662.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42731/?tab=files&file_id=217984)
 *  [True Wolves of Skyrim-59174-2-01-1560474108.7z](https://www.nexusmods.com/skyrim/mods/59174/?tab=files&file_id=1000299371)
 *  [UIExtensions v1-2-0-17561-1-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17561/?tab=files&file_id=55628)
-*  ultra.ini
+*  Ultra.ini
 *  [Underground FOMOD-14365-1-2-1564302022.7z](https://www.nexusmods.com/skyrimspecialedition/mods/14365/?tab=files&file_id=100954)
 *  [Underwater Treasures SSE SoG- Rivers and Lakes 1-0-17267-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/17267/?tab=files&file_id=54590)
 *  [Unofficial Skyrim Special Edition Patch-266-4-2-5b-1623727189.7z](https://www.nexusmods.com/skyrimspecialedition/mods/266/?tab=files&file_id=209150)
@@ -487,9 +491,9 @@
 *  [Voices EN - Part 1-18115-0-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18115/?tab=files&file_id=57972)
 *  [Voidgate - A simple town portal-44989-1-2-1612600648.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44989/?tab=files&file_id=184324)
 *  [Vokrii 3.5.2-26176-3-5-2-1618053983.zip](https://www.nexusmods.com/skyrimspecialedition/mods/26176/?tab=files&file_id=197264)
+*  [Vokriinator Black - EDM patch-26702-6-7-0-1639681930.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26702/?tab=files&file_id=249644)
 *  [Vokriinator Black - Trade and Barter patch-26702-6-1598820364.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26702/?tab=files&file_id=158471)
-*  [Vokriinator Black-26702-6-5-0-1628737204.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26702/?tab=files&file_id=220537)
-*  [Vokriinator Plus - EDM patch-26702-6-4-0-1621491812.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26702/?tab=files&file_id=204493)
+*  [Vokriinator Black-26702-6-8-2-1642183881.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26702/?tab=files&file_id=256653)
 *  [VolcanicHeatHaze-by-fadingsignal.rar-13749-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/13749/?tab=files&file_id=39801)
 *  [Voltage 4-2K-15565-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15565/?tab=files&file_id=52702)
 *  [Wabbajack.Theme.for.MO2.7z](https://github.com/wabbajack-tools/mod-lists/releases/download/1.0.0/Wabbajack.Theme.for.MO2.7z)
@@ -503,7 +507,7 @@
 *  [Wispmother.2x1k-7638-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/7638/?tab=files&file_id=18465)
 *  [Wolfpaint - Face - Racemenu Overlays - Male and Female-30255-1-0-MF-1573895529.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30255/?tab=files&file_id=113503)
 *  [xEdit_4.0.3g.7z](https://cdn.discordapp.com/attachments/518048160526893057/832281169717362738/xEdit_4.0.3g.7z)
-*  [xLODGen.85.7z](https://mega.nz/file/kNRCHRDY#ONIMDnlxyyBH-QsSUgatbQJWOgGGrr8F8bxWD_-bSGc)
+*  [xLODGen.86.7z](https://mega.nz/file/8Iog2abQ#0rQzamCU_uv68QpnBjvlR8SSepyek7LM6sow4rQFh_c)
 *  [XP32 Maximum Skeleton Special Extended-1988-4-80-1610196777.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=178559)
 *  [YesImSure-24898-1-5-0-1583022330.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24898/?tab=files&file_id=126540)
 *  [zEdit module-25673-4-2-1620585412.rar](https://www.nexusmods.com/skyrimspecialedition/mods/25673/?tab=files&file_id=202565)
