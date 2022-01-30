@@ -14,7 +14,7 @@
   - [Keizaal](#keizaal)
   - [The Phoenix Flavour](#the-phoenix-flavour)
   - [Septimus](#septimus)
-  - [The Phoenix Flavour - Dragon's Edition](#the-phoenix-flavour-dragon\u0027s-edition)
+  - [The Phoenix Flavour - Dragon's Edition](#the-phoenix-flavour-dragons-edition)
   - [Living Skyrim](#living-skyrim)
   - [Serenity 2](#serenity-2)
   - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr)
