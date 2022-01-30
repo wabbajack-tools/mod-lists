@@ -134,7 +134,7 @@ Automated installer for [The Phoenix Flavour](https://thephoenixflavour.com/), t
 
 ### [The Phoenix Flavour - Dragon's Edition](https://www.wabbajack.org/#/modlists/info?machineURL=tpfde)
 
-A fork of The Phoenix Flavour, which expands skyrim's world and possibilities extensively. 
+A fork of The Phoenix Flavour, which expands Skyrim's world and possibilities extensively by adding adventuristic content for many tastes and beautiful sceneries surrounding it. 
 
 _**What awaits you:**_
 - Different quests and places to explore, people to meet;
