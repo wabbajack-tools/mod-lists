@@ -14,6 +14,7 @@
   - [Keizaal](#keizaal)
   - [The Phoenix Flavour](#the-phoenix-flavour)
   - [Septimus](#septimus)
+  - [The Phoenix Flavour - Dragon's Edition](#)
   - [Living Skyrim](#living-skyrim)
   - [Serenity 2](#serenity-2)
   - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr)
@@ -128,6 +129,27 @@ Automated installer for [The Phoenix Flavour](https://thephoenixflavour.com/), t
 [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191)  
 [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549)  
 [Arena](https://www.nexusmods.com/skyrimspecialedition/mods/33487)  
+
+***
+
+### [The Phoenix Flavour - Dragon's Edition](https://www.wabbajack.org/#/modlists/info?machineURL=tpfde)
+
+A fork of The Phoenix Flavour, which expands Skyrim's world and possibilities extensively by adding adventuristic content for many tastes and beautiful sceneries surrounding it. 
+
+_**What awaits you:**_
+- Different quests and places to explore, people to meet;
+- Picturesque additions to Skyrim's landscape and interiors;
+- Not intrusive, interesting new mechanics;
+- Many useful tools and quality of life additions;
+- Unique looks for all races of Skyrim;
+- Fresh, hand-picked animations for player character;
+- And much more.
+
+_**Some of the juiciest additions for you to learn about:**_
+- [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961), [Treerific](https://www.nexusmods.com/skyrimspecialedition/mods/62267), [Cathedral 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312) 
+- [JPSteel2](https://www.nexusmods.com/skyrimspecialedition/users/19519279?tab=user+files)'s and [JK](https://www.nexusmods.com/skyrimspecialedition/users/1305814?tab=user+files)'s Skyrim's overhauls
+- [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194)
+- **and much, much more!**
 
 ***
 
