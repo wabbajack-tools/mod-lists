@@ -2,7 +2,7 @@
   "MachineURL": "life_in_the_ruins",
   "Name": "Life in the Ruins",
   "Version": "1.0.5",
-  "ModListHash": "glbYLqd9Cow=",
+  "ModListHash": "YVs7JLc9sJo=",
   "Archives": [
     {
       "Status": "Valid",
@@ -53,10 +53,10 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PWVyqKKtnQI=",
+        "Hash": "LLSgiVhqyL4=",
         "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_fallout4_v0467.zip\ndirectURLHeaders=Referer:http://enbdev.com/mod_fallout4_v0467.htm",
         "Name": "enbseries_fallout4_v0467.zip",
-        "Size": 2911096,
+        "Size": 2911207,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [
@@ -9756,6 +9756,91 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "eSJIc0P2BFo=",
+        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\Fallout4 - Textures1.ba2",
+        "Name": "Data_Fallout4 - Textures1.ba2",
+        "Size": 2703605715,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures1.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "eSJIc0P2BFo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uLoMqo2Gyf0=",
+        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\Fallout4 - Textures6.ba2",
+        "Name": "Data_Fallout4 - Textures6.ba2",
+        "Size": 1382855876,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures6.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "uLoMqo2Gyf0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "US7beXF4oY4=",
+        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\Fallout4 - Textures4.ba2",
+        "Name": "Data_Fallout4 - Textures4.ba2",
+        "Size": 1999988681,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures4.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "US7beXF4oY4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9hQSwQke0ic=",
+        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\Fallout4 - Textures2.ba2",
+        "Name": "Data_Fallout4 - Textures2.ba2",
+        "Size": 2410629991,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures2.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "9hQSwQke0ic="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1b8rAjVMf2Y=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=3802\nfileID=31631",
+        "Name": "Appealing Moles- EXTRA Moles-3802-2-0.rar",
+        "Size": 19694,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ANiceOakTree",
+          "Description": "Changes the nasty facial moles to ones that are more commonly seen and nicer looking.",
+          "FileID": 31631,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/3802-0-1452906311.jpg",
+          "IsNSFW": false,
+          "ModID": 3802,
+          "Name": "Appealing Moles",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "ZxbEOOR5xN0=",
         "Meta": "[General]\ngameName=fallout4\nmodID=31611\nfileID=128919",
         "Name": "broadsider hd-31611-1.rar",
@@ -9771,22 +9856,6 @@
           "ModID": 31611,
           "Name": "Broadsider HD",
           "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2tsTjIrBltY=",
-        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\Fallout4 - Textures3.ba2",
-        "Name": "Data_Fallout4 - Textures3.ba2",
-        "Size": 2101083744,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures3.ba2",
-          "GameVersion": "1.10.163.0",
-          "Hash": "2tsTjIrBltY="
         }
       }
     },
@@ -9814,21 +9883,79 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "664vVpBNUvQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=51233\nfileID=225041",
-        "Name": "Gunmetal Handmade Textures 2k-51233-1-1640773966.7z",
-        "Size": 156874796,
+        "Hash": "pSUmGSrkJe0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=5060\nfileID=16450",
+        "Name": "Fallout 4 Enhanced Color Correction-5060-1-01.rar",
+        "Size": 413403,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "WhiskyTangoFox",
-          "Description": "Basically an (almost) AWKCR-free patch for Gunmetal Weapon, Armor, and Clothing skin. Also includes patches for distributing Creation Club Skins. Based on a lite framework",
-          "FileID": 225041,
+          "Author": "ChaosWWW",
+          "Description": "This mod aims to increase the quality of the colors and contrast in Fallout 4 with no performance impact.",
+          "FileID": 16450,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51233/51233-1617733352-59010089.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/5060-5-1449612468.png",
           "IsNSFW": false,
-          "ModID": 51233,
-          "Name": "Gunmetal And CC Faction Distribution Framework",
-          "Version": "1.0.0.0"
+          "ModID": 5060,
+          "Name": "Fallout 4 Enhanced Color Correction",
+          "Version": "f1.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "AlSk0UZUvK4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=1500\nfileID=25000",
+        "Name": "2k - bottles label overhaul v0.9.1-1500-0-9-1.7z",
+        "Size": 35280821,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BlastoLho",
+          "Description": "An overhaul project for bottles\u0027 label : Whiskey, Rum, Bourbon, Wines, Vodka, Water, Beer and Milk.",
+          "FileID": 25000,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/1500-3-1451009279.jpg",
+          "IsNSFW": false,
+          "ModID": 1500,
+          "Name": "Bottles Labels Overhaul",
+          "Version": "0.9.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2tsTjIrBltY=",
+        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\Fallout4 - Textures3.ba2",
+        "Name": "Data_Fallout4 - Textures3.ba2",
+        "Size": 2101083744,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures3.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "2tsTjIrBltY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dgiZEXKgDyM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=44971\nfileID=182269",
+        "Name": "H.U.E - Handmade Unique Eyes-44971-1-0-6-1589913484.rar",
+        "Size": 8579279,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KOALYNHA",
+          "Description": "This mod replaces all Vanilla eyes of all genders. The textures are all handmade and focused in a lore friendly experience, but of course, there\u0027s the standalone custom part too. All files are 512px.",
+          "FileID": 182269,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44971/44971-1589071719-1551970637.jpeg",
+          "IsNSFW": false,
+          "ModID": 44971,
+          "Name": "H.U.E - Handmade Unique Eyes",
+          "Version": "1.0.6.0"
         }
       }
     },
@@ -9877,42 +10004,105 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "X3lo9AHn3pI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=28267\nfileID=127542",
-        "Name": "2287_Billboards and posters_ Complete-28267-1-2.zip",
-        "Size": 386185458,
+        "Hash": "664vVpBNUvQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51233\nfileID=225041",
+        "Name": "Gunmetal Handmade Textures 2k-51233-1-1640773966.7z",
+        "Size": 156874796,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Apolocrato",
-          "Description": "This mod replaces many of the billboards , posters and Bus Stops images in the game   . The objective is to add more visual and thematic variety .",
-          "FileID": 127542,
+          "Author": "WhiskyTangoFox",
+          "Description": "Basically an (almost) AWKCR-free patch for Gunmetal Weapon, Armor, and Clothing skin. Also includes patches for distributing Creation Club Skins. Based on a lite framework",
+          "FileID": 225041,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/28267/28267-1516282371-1456348867.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51233/51233-1617733352-59010089.png",
           "IsNSFW": false,
-          "ModID": 28267,
-          "Name": "2287 - Billboards and Posters",
-          "Version": "1.2.0.0"
+          "ModID": 51233,
+          "Name": "Gunmetal And CC Faction Distribution Framework",
+          "Version": "1.0.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "AlSk0UZUvK4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=1500\nfileID=25000",
-        "Name": "2k - bottles label overhaul v0.9.1-1500-0-9-1.7z",
-        "Size": 35280821,
+        "Hash": "3T8IL71HLYo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=21477\nfileID=124522",
+        "Name": "Proper Flyers and Posters V 2.0-21477-2-0.7z",
+        "Size": 61789836,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BlastoLho",
-          "Description": "An overhaul project for bottles\u0027 label : Whiskey, Rum, Bourbon, Wines, Vodka, Water, Beer and Milk.",
-          "FileID": 25000,
+          "Author": "mindkiller316",
+          "Description": "This mod retextures the flyers and posters located on buildings and note boards.",
+          "FileID": 124522,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/1500-3-1451009279.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/21477-0-1485296012.jpg",
           "IsNSFW": false,
-          "ModID": 1500,
-          "Name": "Bottles Labels Overhaul",
-          "Version": "0.9.1.0"
+          "ModID": 21477,
+          "Name": "Proper Flyers and Posters",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/S8G74kouXg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=36637\nfileID=148988",
+        "Name": "Hair Tones Redux - Bethesda v2-36637-2-01-1546183211.zip",
+        "Size": 19568,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "radbeetle",
+          "Description": "A refresh of all the hair colors, with a focus on distinct and realistic, though slightly exaggerated tones. Also includes an optional file for the LMCC colors.",
+          "FileID": 148988,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/36637/36637-1545961942-675471323.png",
+          "IsNSFW": false,
+          "ModID": 36637,
+          "Name": "Hair Tones Redux - A Hair Color Overhaul",
+          "Version": "f2.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "w1mr5y2bva0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=24250\nfileID=98829",
+        "Name": "newlauncher-24250-1.rar",
+        "Size": 38680231,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "dpillari",
+          "Description": "new normal maps for missile launchers to give them increased surface detail. additionally I have tagged the targeting computer to have its buttons glow in the dark. recolored the 3 shot missile receiver to make it the same color green as the missile launcher. finally added correct PBR data to scopes to make the lens reflect light like they are supp",
+          "FileID": 98829,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/24250-4-1494963049.jpg",
+          "IsNSFW": false,
+          "ModID": 24250,
+          "Name": "Marvelous Missile Launcher",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gfZd1lAnRm0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=55385\nfileID=220814",
+        "Name": "RoNin1971\u0027s UHD Landscape Enhancement - Plants-55385-0-95-1636261644.zip",
+        "Size": 178430708,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RoNin1971",
+          "Description": "This mod contains Up-scaled (4K), enhanced and (some) greener landscape textures (WIP). Greener grass, plants, ground \u0026amp; trees. Added leaves. (both swapped for pre-war and new). It\u0027s goal is to put a bit of life into the wasteland, without turning it into a lush forest/jungle, but just hanging on, trying to survive like everything else.",
+          "FileID": 220814,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/55385/55385-1635551838-1347802777.png",
+          "IsNSFW": false,
+          "ModID": 55385,
+          "Name": "RoNin1971\u0027s UHD Landscape Enhancement",
+          "Version": "0.95.0.0"
         }
       }
     },
@@ -9982,63 +10172,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "w1mr5y2bva0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=24250\nfileID=98829",
-        "Name": "newlauncher-24250-1.rar",
-        "Size": 38680231,
+        "Hash": "C02YyoI9G1U=",
+        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\Fallout4 - Textures5.ba2",
+        "Name": "Data_Fallout4 - Textures5.ba2",
+        "Size": 1963767149,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "dpillari",
-          "Description": "new normal maps for missile launchers to give them increased surface detail. additionally I have tagged the targeting computer to have its buttons glow in the dark. recolored the 3 shot missile receiver to make it the same color green as the missile launcher. finally added correct PBR data to scopes to make the lens reflect light like they are supp",
-          "FileID": 98829,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/24250-4-1494963049.jpg",
-          "IsNSFW": false,
-          "ModID": 24250,
-          "Name": "Marvelous Missile Launcher",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "uYWqSVYvq0Y=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=2211\nfileID=6466",
-        "Name": "ScratchMade - FO4 Double Barrel Shotgun retexture-2211-1-0.7z",
-        "Size": 9098669,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Millenia",
-          "Description": "A new set of textures from scratch for the double barrel shotgun. High resolution \u0026 improved material definition.",
-          "FileID": 6466,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/2211-5-1448239871.jpg",
-          "IsNSFW": false,
-          "ModID": 2211,
-          "Name": "ScratchMade - New Double Barrel Shotgun textures",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tgJidkihX/E=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=46403\nfileID=224777",
-        "Name": "PRP-46403-0-54-26-1640501471.7z",
-        "Size": 1579722006,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BenRierimanu",
-          "Description": "Previsibines performance upgrade package for Fallout 4, covering the entire game. Depending on location, could give from 2 FPS to 30\u002B FPS increase, also includes any relevant bug fixes I can find and fix not already covered by UF4OP. Requires Season Pass / All main DLC.",
-          "FileID": 224777,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46403/46403-1633275924-24527580.jpeg",
-          "IsNSFW": false,
-          "ModID": 46403,
-          "Name": "Previsibines Repair Pack",
-          "Version": "0.54.26.0"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures5.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "C02YyoI9G1U="
         }
       }
     },
@@ -10066,211 +10209,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "gfZd1lAnRm0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=55385\nfileID=220814",
-        "Name": "RoNin1971\u0027s UHD Landscape Enhancement - Plants-55385-0-95-1636261644.zip",
-        "Size": 178430708,
+        "Hash": "MHmCCWhcaRk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=24295\nfileID=108271",
+        "Name": "Smoke And Flames Enhanced-24295-2-2.zip",
+        "Size": 92353770,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RoNin1971",
-          "Description": "This mod contains Up-scaled (4K), enhanced and (some) greener landscape textures (WIP). Greener grass, plants, ground \u0026amp; trees. Added leaves. (both swapped for pre-war and new). It\u0027s goal is to put a bit of life into the wasteland, without turning it into a lush forest/jungle, but just hanging on, trying to survive like everything else.",
-          "FileID": 220814,
+          "Author": "sargeschultz11",
+          "Description": "Enhances the smoke and flame visuals of the game. ",
+          "FileID": 108271,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/55385/55385-1635551838-1347802777.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/24295-0-1495144128.jpg",
           "IsNSFW": false,
-          "ModID": 55385,
-          "Name": "RoNin1971\u0027s UHD Landscape Enhancement",
-          "Version": "0.95.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3P2vVi0fNpY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=25114\nfileID=142668",
-        "Name": "Spitfire - Extra Options-25114-0-1.zip",
-        "Size": 3622764,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ModClub",
-          "Description": "Overhauls the effects produced from muzzle attachments, every muzzle and caliber produces a different amount of smoke, sparks , and a unique muzzle flash, some attachments dont produce any muzzle flashes like a suppressor.",
-          "FileID": 142668,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/25114/25114-1538628821-664495929.jpeg",
-          "IsNSFW": false,
-          "ModID": 25114,
-          "Name": "Spitfire (Enhanced Muzzle FX)",
-          "Version": "0.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "1b8rAjVMf2Y=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=3802\nfileID=31631",
-        "Name": "Appealing Moles- EXTRA Moles-3802-2-0.rar",
-        "Size": 19694,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ANiceOakTree",
-          "Description": "Changes the nasty facial moles to ones that are more commonly seen and nicer looking.",
-          "FileID": 31631,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/3802-0-1452906311.jpg",
-          "IsNSFW": false,
-          "ModID": 3802,
-          "Name": "Appealing Moles",
-          "Version": "2.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "eSJIc0P2BFo=",
-        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\Fallout4 - Textures1.ba2",
-        "Name": "Data_Fallout4 - Textures1.ba2",
-        "Size": 2703605715,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures1.ba2",
-          "GameVersion": "1.10.163.0",
-          "Hash": "eSJIc0P2BFo="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "uLoMqo2Gyf0=",
-        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\Fallout4 - Textures6.ba2",
-        "Name": "Data_Fallout4 - Textures6.ba2",
-        "Size": 1382855876,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures6.ba2",
-          "GameVersion": "1.10.163.0",
-          "Hash": "uLoMqo2Gyf0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "US7beXF4oY4=",
-        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\Fallout4 - Textures4.ba2",
-        "Name": "Data_Fallout4 - Textures4.ba2",
-        "Size": 1999988681,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures4.ba2",
-          "GameVersion": "1.10.163.0",
-          "Hash": "US7beXF4oY4="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "9hQSwQke0ic=",
-        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\Fallout4 - Textures2.ba2",
-        "Name": "Data_Fallout4 - Textures2.ba2",
-        "Size": 2410629991,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures2.ba2",
-          "GameVersion": "1.10.163.0",
-          "Hash": "9hQSwQke0ic="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "qAbUF6+QsNE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=9556\nfileID=36588",
-        "Name": "Kirs freckels-9556-1-0.zip",
-        "Size": 839057,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kirse10",
-          "Description": "Thought the vanilla freckles were a little.. unimmersive? Well i got you covered buddy. :)",
-          "FileID": 36588,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/9556-0-1454764764.png",
-          "IsNSFW": false,
-          "ModID": 9556,
-          "Name": "Kirs freckles",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "dpP9zjvUwdc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=49369\nfileID=198788",
-        "Name": "2k loose-49369-1-1610330982.rar",
-        "Size": 292888163,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "dpillari",
-          "Description": "a high definition repainting of various rifle class ballistic weapons featured in fallout 4, the submachine gun, with silver shroud variant, the combat weapons, shotgun and rifle, and finally the machine gun.  this mod comes in 2k, 4k forms in either loose esl or esp versions.",
-          "FileID": 198788,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49369/49369-1610328536-1415592947.jpeg",
-          "IsNSFW": false,
-          "ModID": 49369,
-          "Name": "The Ballistic Series",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Q33KuuM5U3k=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=40547\nfileID=164049",
-        "Name": "SavrenX Detailed Hair-40547-1-00-1565302287.7z",
-        "Size": 39792556,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SavrenX",
-          "Description": "Enhance hair to greater detail. Get rid that cartoon hair.",
-          "FileID": 164049,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/40547/40547-1565301090-751395668.jpeg",
-          "IsNSFW": false,
-          "ModID": 40547,
-          "Name": "SavrenX Detailed Hair",
-          "Version": "f1.00"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ZcSKNjyY5Do=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=24813\nfileID=101175",
-        "Name": "newdeliverer-24813-1.rar",
-        "Size": 21665574,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "dpillari",
-          "Description": "a high quality retexture to make the Deliverer look like its real world counterpart, the Walther PPK. new indented text, logos, a new Bakelite grip. and for good measure a new silencer. enjoy",
-          "FileID": 101175,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/24813-1-1497238155.jpg",
-          "IsNSFW": false,
-          "ModID": 24813,
-          "Name": "The Delightful Deliverer",
-          "Version": "1.0.0.0"
+          "ModID": 24295,
+          "Name": "Smoke And Flames Enhanced",
+          "Version": "2.2.0.0"
         }
       }
     },
@@ -10298,6 +10251,90 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "dk6NJaHA/hA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=11388\nfileID=44928",
+        "Name": "Crossbows of the Commonwealth - SWOP 2.1plus-11388-2-1plus.rar",
+        "Size": 5853329,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "sligth",
+          "Description": "Stand-alone optimized textures for Crossbows of the Commonwealth - use on their own or as a patch",
+          "FileID": 44928,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/11388-4-1459107873.png",
+          "IsNSFW": false,
+          "ModID": 11388,
+          "Name": "Crossbows of the Commonwealth - Stand-alone Weapon Optimization Project SWOP",
+          "Version": "2.1.0.0plus"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EpHMErpyH3w=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=24398\nfileID=99421",
+        "Name": "new44-24398-.rar",
+        "Size": 32727976,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "dpillari",
+          "Description": "spruced up the plain old vanilla 44 revolver with new normal maps, a brand new wood grip, and reworked rubber grip. also fixed the shell casings, not having the correct PBR data. now they shine real good. ",
+          "FileID": 99421,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/24398-0-1495600401.jpg",
+          "IsNSFW": false,
+          "ModID": 24398,
+          "Name": "The Fantastic Forty Four",
+          "Version": ""
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9z4U4qPVj5k=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=11853\nfileID=144416",
+        "Name": "SuperMutantRedux 2.5-SD-DLC-11853-2-5-1540490103.7z",
+        "Size": 726414668,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MadMAX713 -  joemitchell320 - kkthebeast - Thirdstorm",
+          "Description": "Reworks the super mutant faction including Behemoths, FEV Hounds, and of course, Super Mutants.",
+          "FileID": 144416,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/11853-0-1461040283.png",
+          "IsNSFW": false,
+          "ModID": 11853,
+          "Name": "Super Mutant Redux",
+          "Version": "2.5.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dpP9zjvUwdc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=49369\nfileID=198788",
+        "Name": "2k loose-49369-1-1610330982.rar",
+        "Size": 292888163,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "dpillari",
+          "Description": "a high definition repainting of various rifle class ballistic weapons featured in fallout 4, the submachine gun, with silver shroud variant, the combat weapons, shotgun and rifle, and finally the machine gun.  this mod comes in 2k, 4k forms in either loose esl or esp versions.",
+          "FileID": 198788,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49369/49369-1610328536-1415592947.jpeg",
+          "IsNSFW": false,
+          "ModID": 49369,
+          "Name": "The Ballistic Series",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "+3FL/1bi//U=",
         "Meta": "[General]\ngameName=fallout4\nmodID=24506\nfileID=99827",
         "Name": "HQminigun-24506-1.rar",
@@ -10312,48 +10349,6 @@
           "IsNSFW": false,
           "ModID": 24506,
           "Name": "The Meritable Minigun",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "MHmCCWhcaRk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=24295\nfileID=108271",
-        "Name": "Smoke And Flames Enhanced-24295-2-2.zip",
-        "Size": 92353770,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "sargeschultz11",
-          "Description": "Enhances the smoke and flame visuals of the game. ",
-          "FileID": 108271,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/24295-0-1495144128.jpg",
-          "IsNSFW": false,
-          "ModID": 24295,
-          "Name": "Smoke And Flames Enhanced",
-          "Version": "2.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "HFDL/G7lXZM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=49185\nfileID=198071",
-        "Name": "2k loose-49185-1-1609558526.rar",
-        "Size": 215195997,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "dpillari",
-          "Description": "a high definition repaint of all part of the hunting rifle system,  in both 4k and 2k varieties, in either esp, esl, or loose file forms.",
-          "FileID": 198071,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49185/49185-1609620790-221929433.jpeg",
-          "IsNSFW": false,
-          "ModID": 49185,
-          "Name": "The Hunting Rifle Set",
           "Version": "1.0.0.0"
         }
       }
@@ -10382,105 +10377,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "m59E+v9+fUg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=24357\nfileID=144525",
-        "Name": "UniqueNPCs-CreatureMonsters_2_1_Hotfix-24357-2-1-1540620302.zip",
-        "Size": 2366994,
+        "Hash": "tgJidkihX/E=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=46403\nfileID=224777",
+        "Name": "PRP-46403-0-54-26-1640501471.7z",
+        "Size": 1579722006,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Thirdstorm",
-          "Description": "Unique NPCs - Creatures and Monsters of the Commonwealth\n\n\n\nA new... non-replacer way to introduce exceptional variety to the Creatures of the Wasteland.",
-          "FileID": 144525,
+          "Author": "BenRierimanu",
+          "Description": "Previsibines performance upgrade package for Fallout 4, covering the entire game. Depending on location, could give from 2 FPS to 30\u002B FPS increase, also includes any relevant bug fixes I can find and fix not already covered by UF4OP. Requires Season Pass / All main DLC.",
+          "FileID": 224777,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/24357/24357-1534782063-338414852.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46403/46403-1633275924-24527580.jpeg",
           "IsNSFW": false,
-          "ModID": 24357,
-          "Name": "Unique NPCs - Creatures and Monsters of the Commonwealth",
-          "Version": "2.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "pSUmGSrkJe0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=5060\nfileID=16450",
-        "Name": "Fallout 4 Enhanced Color Correction-5060-1-01.rar",
-        "Size": 413403,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ChaosWWW",
-          "Description": "This mod aims to increase the quality of the colors and contrast in Fallout 4 with no performance impact.",
-          "FileID": 16450,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/5060-5-1449612468.png",
-          "IsNSFW": false,
-          "ModID": 5060,
-          "Name": "Fallout 4 Enhanced Color Correction",
-          "Version": "f1.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "9z4U4qPVj5k=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=11853\nfileID=144416",
-        "Name": "SuperMutantRedux 2.5-SD-DLC-11853-2-5-1540490103.7z",
-        "Size": 726414668,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MadMAX713 -  joemitchell320 - kkthebeast - Thirdstorm",
-          "Description": "Reworks the super mutant faction including Behemoths, FEV Hounds, and of course, Super Mutants.",
-          "FileID": 144416,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/11853-0-1461040283.png",
-          "IsNSFW": false,
-          "ModID": 11853,
-          "Name": "Super Mutant Redux",
-          "Version": "2.5.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "sIfJk31bhOU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=13649\nfileID=53937",
-        "Name": "WX - Face Paints and Dirt-13649-1-0.rar",
-        "Size": 5610306,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Wyn Xombii",
-          "Description": "Redid the face paint textures to make them less opaque and aged them considerably. Makes Joker paint a viable option. New optional less cracked version.",
-          "FileID": 53937,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/13649-4-1463506306.jpg",
-          "IsNSFW": false,
-          "ModID": 13649,
-          "Name": "WX Face Paints and Dirt",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "dk6NJaHA/hA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=11388\nfileID=44928",
-        "Name": "Crossbows of the Commonwealth - SWOP 2.1plus-11388-2-1plus.rar",
-        "Size": 5853329,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "sligth",
-          "Description": "Stand-alone optimized textures for Crossbows of the Commonwealth - use on their own or as a patch",
-          "FileID": 44928,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/11388-4-1459107873.png",
-          "IsNSFW": false,
-          "ModID": 11388,
-          "Name": "Crossbows of the Commonwealth - Stand-alone Weapon Optimization Project SWOP",
-          "Version": "2.1.0.0plus"
+          "ModID": 46403,
+          "Name": "Previsibines Repair Pack",
+          "Version": "0.54.26.0"
         }
       }
     },
@@ -10508,21 +10419,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "EpHMErpyH3w=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=24398\nfileID=99421",
-        "Name": "new44-24398-.rar",
-        "Size": 32727976,
+        "Hash": "uYWqSVYvq0Y=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=2211\nfileID=6466",
+        "Name": "ScratchMade - FO4 Double Barrel Shotgun retexture-2211-1-0.7z",
+        "Size": 9098669,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Millenia",
+          "Description": "A new set of textures from scratch for the double barrel shotgun. High resolution \u0026 improved material definition.",
+          "FileID": 6466,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/2211-5-1448239871.jpg",
+          "IsNSFW": false,
+          "ModID": 2211,
+          "Name": "ScratchMade - New Double Barrel Shotgun textures",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Q33KuuM5U3k=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=40547\nfileID=164049",
+        "Name": "SavrenX Detailed Hair-40547-1-00-1565302287.7z",
+        "Size": 39792556,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SavrenX",
+          "Description": "Enhance hair to greater detail. Get rid that cartoon hair.",
+          "FileID": 164049,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/40547/40547-1565301090-751395668.jpeg",
+          "IsNSFW": false,
+          "ModID": 40547,
+          "Name": "SavrenX Detailed Hair",
+          "Version": "f1.00"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HFDL/G7lXZM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=49185\nfileID=198071",
+        "Name": "2k loose-49185-1-1609558526.rar",
+        "Size": 215195997,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "dpillari",
-          "Description": "spruced up the plain old vanilla 44 revolver with new normal maps, a brand new wood grip, and reworked rubber grip. also fixed the shell casings, not having the correct PBR data. now they shine real good. ",
-          "FileID": 99421,
+          "Description": "a high definition repaint of all part of the hunting rifle system,  in both 4k and 2k varieties, in either esp, esl, or loose file forms.",
+          "FileID": 198071,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/24398-0-1495600401.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49185/49185-1609620790-221929433.jpeg",
           "IsNSFW": false,
-          "ModID": 24398,
-          "Name": "The Fantastic Forty Four",
-          "Version": ""
+          "ModID": 49185,
+          "Name": "The Hunting Rifle Set",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -10545,79 +10498,126 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dgiZEXKgDyM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=44971\nfileID=182269",
-        "Name": "H.U.E - Handmade Unique Eyes-44971-1-0-6-1589913484.rar",
-        "Size": 8579279,
+        "Hash": "qAbUF6+QsNE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=9556\nfileID=36588",
+        "Name": "Kirs freckels-9556-1-0.zip",
+        "Size": 839057,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "KOALYNHA",
-          "Description": "This mod replaces all Vanilla eyes of all genders. The textures are all handmade and focused in a lore friendly experience, but of course, there\u0027s the standalone custom part too. All files are 512px.",
-          "FileID": 182269,
+          "Author": "Kirse10",
+          "Description": "Thought the vanilla freckles were a little.. unimmersive? Well i got you covered buddy. :)",
+          "FileID": 36588,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44971/44971-1589071719-1551970637.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/9556-0-1454764764.png",
           "IsNSFW": false,
-          "ModID": 44971,
-          "Name": "H.U.E - Handmade Unique Eyes",
-          "Version": "1.0.6.0"
+          "ModID": 9556,
+          "Name": "Kirs freckles",
+          "Version": "1.0.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/S8G74kouXg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=36637\nfileID=148988",
-        "Name": "Hair Tones Redux - Bethesda v2-36637-2-01-1546183211.zip",
-        "Size": 19568,
+        "Hash": "X3lo9AHn3pI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=28267\nfileID=127542",
+        "Name": "2287_Billboards and posters_ Complete-28267-1-2.zip",
+        "Size": 386185458,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "radbeetle",
-          "Description": "A refresh of all the hair colors, with a focus on distinct and realistic, though slightly exaggerated tones. Also includes an optional file for the LMCC colors.",
-          "FileID": 148988,
+          "Author": "Apolocrato",
+          "Description": "This mod replaces many of the billboards , posters and Bus Stops images in the game   . The objective is to add more visual and thematic variety .",
+          "FileID": 127542,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/36637/36637-1545961942-675471323.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/28267/28267-1516282371-1456348867.jpeg",
           "IsNSFW": false,
-          "ModID": 36637,
-          "Name": "Hair Tones Redux - A Hair Color Overhaul",
-          "Version": "f2.01"
+          "ModID": 28267,
+          "Name": "2287 - Billboards and Posters",
+          "Version": "1.2.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "3T8IL71HLYo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=21477\nfileID=124522",
-        "Name": "Proper Flyers and Posters V 2.0-21477-2-0.7z",
-        "Size": 61789836,
+        "Hash": "3P2vVi0fNpY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=25114\nfileID=142668",
+        "Name": "Spitfire - Extra Options-25114-0-1.zip",
+        "Size": 3622764,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mindkiller316",
-          "Description": "This mod retextures the flyers and posters located on buildings and note boards.",
-          "FileID": 124522,
+          "Author": "ModClub",
+          "Description": "Overhauls the effects produced from muzzle attachments, every muzzle and caliber produces a different amount of smoke, sparks , and a unique muzzle flash, some attachments dont produce any muzzle flashes like a suppressor.",
+          "FileID": 142668,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/21477-0-1485296012.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/25114/25114-1538628821-664495929.jpeg",
           "IsNSFW": false,
-          "ModID": 21477,
-          "Name": "Proper Flyers and Posters",
-          "Version": "2.0.0.0"
+          "ModID": 25114,
+          "Name": "Spitfire (Enhanced Muzzle FX)",
+          "Version": "0.1.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "C02YyoI9G1U=",
-        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\Fallout4 - Textures5.ba2",
-        "Name": "Data_Fallout4 - Textures5.ba2",
-        "Size": 1963767149,
+        "Hash": "ZcSKNjyY5Do=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=24813\nfileID=101175",
+        "Name": "newdeliverer-24813-1.rar",
+        "Size": 21665574,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures5.ba2",
-          "GameVersion": "1.10.163.0",
-          "Hash": "C02YyoI9G1U="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "dpillari",
+          "Description": "a high quality retexture to make the Deliverer look like its real world counterpart, the Walther PPK. new indented text, logos, a new Bakelite grip. and for good measure a new silencer. enjoy",
+          "FileID": 101175,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/24813-1-1497238155.jpg",
+          "IsNSFW": false,
+          "ModID": 24813,
+          "Name": "The Delightful Deliverer",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sIfJk31bhOU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=13649\nfileID=53937",
+        "Name": "WX - Face Paints and Dirt-13649-1-0.rar",
+        "Size": 5610306,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Wyn Xombii",
+          "Description": "Redid the face paint textures to make them less opaque and aged them considerably. Makes Joker paint a viable option. New optional less cracked version.",
+          "FileID": 53937,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/13649-4-1463506306.jpg",
+          "IsNSFW": false,
+          "ModID": 13649,
+          "Name": "WX Face Paints and Dirt",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "m59E+v9+fUg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=24357\nfileID=144525",
+        "Name": "UniqueNPCs-CreatureMonsters_2_1_Hotfix-24357-2-1-1540620302.zip",
+        "Size": 2366994,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Thirdstorm",
+          "Description": "Unique NPCs - Creatures and Monsters of the Commonwealth\n\n\n\nA new... non-replacer way to introduce exceptional variety to the Creatures of the Wasteland.",
+          "FileID": 144525,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/24357/24357-1534782063-338414852.png",
+          "IsNSFW": false,
+          "ModID": 24357,
+          "Name": "Unique NPCs - Creatures and Monsters of the Commonwealth",
+          "Version": "2.1.0.0"
         }
       }
     }
