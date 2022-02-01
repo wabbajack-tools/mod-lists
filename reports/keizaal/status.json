@@ -2,7 +2,7 @@
   "MachineURL": "keizaal",
   "Name": "Keizaal",
   "Version": "6.2.0",
-  "ModListHash": "DTzwdbaaM1M=",
+  "ModListHash": "rCOAfdJh/Zs=",
   "Archives": [
     {
       "Status": "Valid",
@@ -9793,6 +9793,19 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Vn8QoUhQP0I=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/xLODGen beta 86.zip_8aefe9a0-4622-4909-818a-cc7a565f46fc",
+        "Name": "xLODGen beta 86.zip",
+        "Size": 35993795,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/xLODGen%20beta%2086.zip_8aefe9a0-4622-4909-818a-cc7a565f46fc"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "zqXquZJccXU=",
         "Meta": "[General]\ndirectURL=https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z",
         "Name": "zEdit_v0.6.5_-_Portable_x64.7z",
@@ -16527,12 +16540,13 @@
       "Status": "Valid",
       "Original": {
         "Hash": "xr0zsDmLLwI=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/xLODGEN_Output.zip_69672356-08ec-4627-82c4-69bef039c9d0",
+        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal/releases/download/6.2.0/xLODGEN_Output.zip",
         "Name": "xLODGEN_Output.zip",
         "Size": 379459820,
         "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/xLODGEN_Output.zip_69672356-08ec-4627-82c4-69bef039c9d0"
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Keizaal/Keizaal/releases/download/6.2.0/xLODGEN_Output.zip"
         }
       }
     },
