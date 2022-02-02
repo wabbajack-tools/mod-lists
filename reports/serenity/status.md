@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (995)
+### Valid (991)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [000EquanimityLoader.7z](https://wabbajack.b-cdn.net/000EquanimityLoader.7z_21c9caf3-f5b4-4589-bc0e-fde0af7d00e3)
@@ -110,6 +110,7 @@
 *  [Better Windhelm Ground Meshes-42746-1-3-1-1617793765.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42746/?tab=files&file_id=196628)
 *  [BetterStealing v2-32295-2-1580801928.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32295/?tab=files&file_id=122672)
 *  [Bijin Skin CBBE-20078-1-4-1541714925.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20078/?tab=files&file_id=71720)
+*  bink2w64.dll
 *  [Blackened Steel Weapon and Armour-27052-1-007-1565674770.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27052/?tab=files&file_id=102848)
 *  [Blackreach Reimaged-9110-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/9110/?tab=files&file_id=23148)
 *  [Blackreach Sun-40045-1-4-1609918363.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40045/?tab=files&file_id=177966)
@@ -171,7 +172,6 @@
 *  [Daedric Blue Frost Standalone-47361-1-5-1619058973.zip](https://www.nexusmods.com/skyrimspecialedition/mods/47361/?tab=files&file_id=199530)
 *  [DARinSE_1_0_StandingBreathOption-2163-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2163/?tab=files&file_id=2717)
 *  [DarkFaceIssueReporter-42133-2-6-1605359043.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42133/?tab=files&file_id=170050)
-*  Data_ccBGSSSE001-Fish.bsa
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
@@ -182,10 +182,7 @@
 *  Data_Skyrim - Misc.bsa
 *  Data_Skyrim - Shaders.bsa
 *  Data_Skyrim - Sounds.bsa
-*  Data_Skyrim - Textures0.bsa
 *  Data_Skyrim - Textures2.bsa
-*  Data_Skyrim - Textures3.bsa
-*  Data_Skyrim - Textures5.bsa
 *  Data_Skyrim - Textures8.bsa
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
@@ -878,7 +875,6 @@
 *  [SSE Display Tweaks-34705-0-4-15-1-1623522047.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34705/?tab=files&file_id=208797)
 *  [SSE HD Animal and Creature Drops-33791-1-0-1584709054.rar](https://www.nexusmods.com/skyrimspecialedition/mods/33791/?tab=files&file_id=129501)
 *  [SSE Meshes-2276-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2276/?tab=files&file_id=19886)
-*  [SSE.Downgrade.Kit.7z](https://github.com/LostDragonist/SSE-Downgrade-Kit/raw/3680a5f60f6b74434c4ddaaf786daf8007273839/SSE.Downgrade.Kit.7z)
 *  [SSEEdit 4_0_3-164-4-0-3-1575326827.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164/?tab=files&file_id=115017)
 *  [SSIRT SE v4.1-1523-v4-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1523/?tab=files&file_id=31674)
 *  [SSoB USSEP incorporation-38132-1-0-1594368943.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38132/?tab=files&file_id=149669)
