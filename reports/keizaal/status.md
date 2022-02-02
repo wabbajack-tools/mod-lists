@@ -459,7 +459,7 @@
 *  [Keizaal-Patron-Rewards-main.zip](https://github.com/Keizaal/Keizaal-Patron-Rewards/releases/download/6.1.0.1/Keizaal-Patron-Rewards-main.zip)
 *  [KeyboardShortcutsFix_SKSE64-3620-1-0-0-2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/3620/?tab=files&file_id=35847)
 *  [Keyword Item Distributor - SE-55728-1-3-1-1639152121.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55728/?tab=files&file_id=247997)
-*  [Knight of the North-45869-2-1-0-2-1643764577.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45869/?tab=files&file_id=261099)
+*  [Knight of the North-45869-2-1-0-2-1643775513.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45869/?tab=files&file_id=261132)
 *  [Kthonia's Weapon Pack SE - Larger Textures (4K)-15050-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15050/?tab=files&file_id=45143)
 *  [Labyrinthian Shalidor's Maze Fixes-52239-0-3-1626070810.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52239/?tab=files&file_id=214147)
 *  [Landscape Fixes For Grass Mods-9005-4-9-1630543970.zip](https://www.nexusmods.com/skyrimspecialedition/mods/9005/?tab=files&file_id=225493)
