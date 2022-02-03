@@ -22,6 +22,7 @@
   - [Aldrnari](#aldrnari)
   - [Arkay's Commandment](#arkays-commandment)
   - [Wildlander](#wildlander)
+  - [Tranquility](#tranquility)
   - [(NSFW)Licentia(NSFW)](#NSFWLicentiaNSFW)
   - [(NSFW)Tsukiro(NSFW)](#nsfwtsukironsfw)
 - [Fallout 4](#fallout-4)
@@ -269,6 +270,21 @@ Wildlander is a total conversion modpack for The Elder Scrolls V: Skyrim Special
 
 ***
 
+### [Tranquility](https://www.wabbajack.org/#/modlists/info?machineURL=tranquility)
+
+A complete overhaul of Skyrim, Tranquility is a modlist aimed at people wanting an easy to learn but hard to master playthrough. It features the full Simonrim suite of mods, no nudity, complete Creation Club support ($20 for Anniversary Upgrade is required), body and armor physics.
+
+**_Mods to get familiar with:_**
+
+- [Alternate Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/50307)
+- [Simonrim suite](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files)
+- [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310)
+- [King Priest](https://www.nexusmods.com/skyrimspecialedition/mods/59652)
+- [Sunhelm Survival and Needs](https://www.nexusmods.com/skyrimspecialedition/mods/39414) 
+- [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
+
+
+***
 
 ### [(NSFW)Licentia(NSFW)](https://www.wabbajack.org/#/modlists/info?machineURL=Licentia)
 
