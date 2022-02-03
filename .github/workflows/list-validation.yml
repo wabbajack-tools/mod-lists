@@ -30,6 +30,14 @@ jobs:
           dotnet-version: '6.0.x'
           include-prerelease: true
           
+      - name: Cache Source and data
+        uses: actions/cache@v2
+        with:
+          key: source-and-data
+          path: |
+            ~/.nuget
+            ~/
+          
       - name: Checkout Wabbajack Source
         uses: actions/checkout@v2
         with:
@@ -48,9 +56,7 @@ jobs:
       
       - name: Install dependencies
         run: dotnet restore Wabbajack.CLI/Wabbajack.CLI.csproj
-      - name: Build
-        run: dotnet build Wabbajack.CLI/Wabbajack.CLI.csproj --configuration Release --no-restore
-        
+
       - name: Run List Validation
         run: dotnet run --project Wabbajack.CLI/Wabbajack.CLI.csproj -- validate-lists -l Published -l Unlisted -l Utility -a /list-validation-archives -r ${{ github.workspace }}/mod-lists/reports --other-archives /other_archives
         
