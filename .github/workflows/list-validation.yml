@@ -29,15 +29,7 @@ jobs:
         with:
           dotnet-version: '6.0.x'
           include-prerelease: true
-          
-      - name: Cache Source and data
-        uses: actions/cache@v2
-        with:
-          key: source-and-data
-          path: |
-            ~/.nuget
-            ~/
-          
+
       - name: Checkout Wabbajack Source
         uses: actions/checkout@v2
         with:
