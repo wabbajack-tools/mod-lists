@@ -1,8 +1,8 @@
 {
   "MachineURL": "TalesFromTheNorthernLands",
   "Name": "Tales from the Northern Lands",
-  "Version": "2.3.2",
-  "ModListHash": "sqEqFz45ktI=",
+  "Version": "2.3.3",
+  "ModListHash": "bRIR1CFlE8g=",
   "Archives": [
     {
       "Status": "Valid",
@@ -94,48 +94,6 @@
           "GameFile": "bink2w64.dll",
           "GameVersion": "1.6.353.0",
           "Hash": "wwYDXqpkrNE="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "d+fMLBcSgpk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=10546\nfileID=28074",
-        "Name": "DLL Plugin Loader v1-10546-1.zip",
-        "Size": 101092,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "meh321",
-          "Description": "Simple DLL plugins loader.",
-          "FileID": 28074,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 10546,
-          "Name": "DLL Plugin Loader",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "f/nbLjRJL2Q=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=19817\nfileID=65800",
-        "Name": "CK Custom ini-19817-4-0.zip",
-        "Size": 687,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PhysicsFish",
-          "Description": "Blocks annoying error message pop ups, loads multiple masters and has a few other minor tweaks. Improved performance.",
-          "FileID": 65800,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19817/19817-1536409113-1692131165.png",
-          "IsNSFW": false,
-          "ModID": 19817,
-          "Name": "Tweaked Creation Kit ini",
-          "Version": "4.0.0.0"
         }
       }
     },
@@ -736,21 +694,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "D94mCybagmM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=50307\nfileID=252974",
-        "Name": "Alternate Perspective-50307-2-6-1640991662.zip",
-        "Size": 10162448,
+        "Hash": "rJLSfoIlOro=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=50307\nfileID=259005",
+        "Name": "Alternate Perspective-50307-V2-7-1642970332.zip",
+        "Size": 7022530,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Scrab",
           "Description": "Rewrite \u0026amp; Framework for the Vanilla Intro. Experience Helgens Destruction from a POV different than the Prisoners!",
-          "FileID": 252974,
+          "FileID": 259005,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50307/50307-1626608069-215982230.png",
           "IsNSFW": false,
           "ModID": 50307,
           "Name": "Alternate Perspective - Prologue Retold",
-          "Version": "2.6.0.0"
+          "Version": "2.7.0.0"
         }
       }
     },
@@ -1198,21 +1156,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "tpIN+Nl2RMQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59124\nfileID=252019",
-        "Name": "Bow Charge Plus-59124-0-8-1640592790.zip",
-        "Size": 1575465,
+        "Hash": "817E2J1o5H0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59124\nfileID=258562",
+        "Name": "Bow Charge Plus-59124-0-9-1642820165.zip",
+        "Size": 1575869,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "saltmaxwellpshk",
           "Description": "Adds a Charge attack to the bow.\n\nYou can add a Dodge shot and Power Shot in the MCM settings.",
-          "FileID": 252019,
+          "FileID": 258562,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59124/59124-1638024212-1900291518.png",
           "IsNSFW": false,
           "ModID": 59124,
           "Name": "Bow Charge Plus",
-          "Version": "0.8.0.0"
+          "Version": "0.9.0.0"
         }
       }
     },
@@ -1437,6 +1395,27 @@
           "ModID": 15134,
           "Name": "Critters Ain\u0027t Snitches - Animal and Monster Crime Reporting Fix",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "D22K7ckGCWs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62423\nfileID=260138",
+        "Name": "Custom Skill Menu-62423-1-1-3-1643384370.zip",
+        "Size": 58904,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OsmosisWrench",
+          "Description": "Adds a custom menu to give you to easy access all Custom Skills Framework skill trees. Directly integrated into the vanilla tween menu, and supports mouse, keyboard and controller input.",
+          "FileID": 260138,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62423/62423-1642922558-920074583.gif",
+          "IsNSFW": false,
+          "ModID": 62423,
+          "Name": "Custom Skills Menu - A Custom Skills Framework Unified Menu",
+          "Version": "1.1.3.0"
         }
       }
     },
@@ -2496,21 +2475,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "1RNPqpThgXE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=4224\nfileID=114347",
-        "Name": "Gotobed-4224-1-5-3-1574684334.7z",
-        "Size": 1201277,
+        "Hash": "I/Pb/yJBdfg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=4224\nfileID=260335",
+        "Name": "Gotobed-se-4224-2-0-4-1643477148.7z",
+        "Size": 119832,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Andrelo",
           "Description": "This mod allows your character to actually sleep in bed.",
-          "FileID": 114347,
+          "FileID": 260335,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67763-0-1436714934.png",
           "IsNSFW": false,
           "ModID": 4224,
           "Name": "Go to bed",
-          "Version": "1.5.3.0"
+          "Version": "2.0.4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UoLs8hMXiVA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=4224\nfileID=258876",
+        "Name": "Gotobed-ae-patches-4224-1-0-1642942649.7z",
+        "Size": 197938,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Andrelo",
+          "Description": "This mod allows your character to actually sleep in bed.",
+          "FileID": 258876,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67763-0-1436714934.png",
+          "IsNSFW": false,
+          "ModID": 4224,
+          "Name": "Go to bed",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -3456,21 +3456,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qjmGUj/A/BY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=18619\nfileID=155748",
-        "Name": "moreHUD Inventory Edition-18619-1-0-18-1597503354.7z",
-        "Size": 205717,
+        "Hash": "VlpdLGfNnL8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=18619\nfileID=260838",
+        "Name": "moreHUD Inventory Edition - Pre AE-18619-1-0-19-1643677289.7z",
+        "Size": 143591,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ahzaab",
           "Description": "This mod brings some features from moreHUD into the inventory menu.  From your inventory you can now see if enchantments are known by the player and other features.  Also increases the Item Card size for mods that have long effect descriptions",
-          "FileID": 155748,
+          "FileID": 260838,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18619/18619-1531625604-468083957.png",
           "IsNSFW": false,
           "ModID": 18619,
           "Name": "moreHUD Inventory Edition",
-          "Version": "1.0.18.0"
+          "Version": "1.0.19.0"
         }
       }
     },
@@ -4604,21 +4604,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "3EeDZgj/khA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58224\nfileID=254194",
-        "Name": "Security Overhaul SKSE - Lock Variations-58224-2-1-0-1641404893.7z",
-        "Size": 168192963,
+        "Hash": "nAtfW1C3Xlk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58224\nfileID=260686",
+        "Name": "Security Overhaul SKSE - Lock Variations-58224-3-0-1643625561.7z",
+        "Size": 168196085,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kreiste-wSkeever-powerofthree",
           "Description": "SKSE based framework for replacing overused lock model with unique lock variants.",
-          "FileID": 254194,
+          "FileID": 260686,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58224/58224-1636566041-1637060129.gif",
           "IsNSFW": false,
           "ModID": 58224,
           "Name": "Security Overhaul SKSE - Lock Variations",
-          "Version": "2.1.0.0"
+          "Version": "3.0.0.0"
         }
       }
     },
@@ -4913,27 +4913,6 @@
           "ModID": 45540,
           "Name": "Skill Comments Reconditioned",
           "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "AZdJVvOj2v0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=463\nfileID=61422",
-        "Name": "SkyHUD v090B v4-463-0-90B.zip",
-        "Size": 3980107,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Fhaarkas",
-          "Description": "Toggle HUD elements on or off, scale sizes, change positions and swap elements with alternative version. Features dot crosshair, slim compass, alternate ammo display, detached compass markers and built-in support for font mods.",
-          "FileID": 61422,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/463/463-1509171654-2130223191.jpeg",
-          "IsNSFW": false,
-          "ModID": 463,
-          "Name": "SkyHUD",
-          "Version": "0.90.0.0B"
         }
       }
     },
@@ -5885,21 +5864,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "chVBXvRVOaw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=51614\nfileID=230041",
-        "Name": "True Directional Movement-51614-1-4-3-1632340170.zip",
-        "Size": 699253,
+        "Hash": "ChWyX2sRNYY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=51614\nfileID=261264",
+        "Name": "True Directional Movement (SE)-51614-2-0-1-1643815277.7z",
+        "Size": 404008,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ersh",
           "Description": "Overhauls the third person gameplay similarly to modern action RPGs, entirely through SKSE. Move and attack in any direction. Includes a custom target lock component and animated healthbar widget, target headtracking, projectile aim support during target lock, boss bars, mount support and more! Modular and customizable through MCM.",
-          "FileID": 230041,
+          "FileID": 261264,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51614/51614-1627839075-1842122342.gif",
           "IsNSFW": false,
           "ModID": 51614,
           "Name": "True Directional Movement - Modernized Third Person Gameplay",
-          "Version": "1.4.3.0"
+          "Version": "2.0.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WmJFPYwMACE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62775\nfileID=261112",
+        "Name": "TrueHUD (SE)-62775-1-0-0-1643768777.7z",
+        "Size": 260322,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ersh",
+          "Description": "HUD additions formerly included in True Directional Movement, completely reworked and improved! Very customizable actor info bars, boss bars, player widget and an API for other plugins to use. Modular and customizable through MCM.",
+          "FileID": 261112,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62775/62775-1643737629-1125862080.png",
+          "IsNSFW": false,
+          "ModID": 62775,
+          "Name": "TrueHUD - HUD Additions",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -6837,14 +6837,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hdAYXykAFbk=",
-        "Meta": "[General]\ndirectURL=https://github.com/focustense/easymod/releases/download/v0.9.5/EasyNPC-0.9.5.7z",
-        "Name": "EasyNPC-0.9.5.7z",
-        "Size": 55134415,
+        "Hash": "JJeOJUsYL3A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=52313\nfileID=235518",
+        "Name": "EasyNPC-52313-0-9-5-1634521270.7z",
+        "Size": 55134416,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/focustense/easymod/releases/download/v0.9.5/EasyNPC-0.9.5.7z"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "focustense",
+          "Description": "Painlessly mix, merge, and resolve conflicts and compatibility issues for all of your NPC overhauls.",
+          "FileID": 235518,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/52313/52313-1627160971-2115341263.png",
+          "IsNSFW": false,
+          "ModID": 52313,
+          "Name": "EasyNPC",
+          "Version": "0.9.5.0"
         }
       }
     },
@@ -7635,6 +7642,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "H0S1iTbz3Z0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=49881\nfileID=221209",
+        "Name": "NORDIC UI (Final Design)-49881-2-4-1-1628977374.zip",
+        "Size": 28042029,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dopesan",
+          "Description": "Replaces *everything*. Requires SkyUI and SkyHUD.",
+          "FileID": 221209,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49881/49881-1628689978-131335626.png",
+          "IsNSFW": false,
+          "ModID": 49881,
+          "Name": "NORDIC UI - Interface Overhaul",
+          "Version": "2.4.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "+mwoL1EILb4=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=22854\nfileID=256077",
         "Name": "Papyrus Extender SE-22854-4-5-7-1641973468.7z",
@@ -7692,6 +7720,27 @@
           "ModID": 21085,
           "Name": "Quick Loot RE",
           "Version": "2.8.6.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "X1n12C/ZJB0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=2853\nfileID=258881",
+        "Name": "BETA - Scion compatibility patch - graciously provided by MischiefBrew0-2853-2-13-1642945220.7z",
+        "Size": 6929,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TMPhoenix",
+          "Description": "This package allows mod authors to make mods based on the RaceCompatibility.esm to work properly with the Special Edition. With optional compatibility for USSEP, Better Vampires. Also fixes a bug in RaceCompatibility related to multiple custom races.",
+          "FileID": 258881,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/24168-1-1365970048.jpg",
+          "IsNSFW": false,
+          "ModID": 2853,
+          "Name": "RaceCompatibility for Skyrim Special Edition",
+          "Version": "2.13.0.0"
         }
       }
     },
@@ -7944,6 +7993,27 @@
           "ModID": 62117,
           "Name": "Ultimate Immersion Toggle - UI Toggle - Hide Your HUD - Rebuild",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VHU1odp+Rfs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62413\nfileID=259270",
+        "Name": "WIDeadBodyCleanupScript Crash Fix-62413-0-3-1643044583.7z",
+        "Size": 2297,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wankingSkeever",
+          "Description": "Fixes a rare crash when saving due to wideadbodycleanupscript",
+          "FileID": 259270,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62413/62413-1642900175-2078270576.png",
+          "IsNSFW": false,
+          "ModID": 62413,
+          "Name": "WIDeadBodyCleanupScript Crash Fix",
+          "Version": "0.3.0.0"
         }
       }
     },
@@ -8373,21 +8443,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GPcnA+giHHc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=50258\nfileID=244886",
-        "Name": "Animation Motion Revolution 1.4-50258-1-4-1638047104.rar",
-        "Size": 242764,
+        "Hash": "ij43vfn13Gk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=50258\nfileID=260563",
+        "Name": "Animation Motion Revolution - Special Edition-50258-1-5-1643576447.rar",
+        "Size": 242448,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "alexsylex",
           "Description": "This SKSE plugin removes the mismatch between displacement and custom animations driven by motion data (the infamous ice-skating problem). Welcome to 2021 guys.",
-          "FileID": 244886,
+          "FileID": 260563,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50258/50258-1621685673-1805072304.png",
           "IsNSFW": false,
           "ModID": 50258,
           "Name": "Animation Motion Revolution",
-          "Version": "1.4.0.0"
+          "Version": "1.5.0.0"
         }
       }
     },
@@ -8457,21 +8527,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KNmWLahw6Js=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=256101",
-        "Name": "Assorted Mesh Fixes-32117-0-44-1641984096.7z",
-        "Size": 11332545,
+        "Hash": "nFye4/3EyGc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=260257",
+        "Name": "Assorted Mesh Fixes-32117-0-45-1-1643449721.7z",
+        "Size": 11413149,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wankingSkeever",
           "Description": "Fixes various issues with vanilla Skyrim meshes that causes them to render incorrectly",
-          "FileID": 256101,
+          "FileID": 260257,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32117/32117-1612599331-161051453.png",
           "IsNSFW": false,
           "ModID": 32117,
           "Name": "Assorted mesh fixes",
-          "Version": "0.44.0.0"
+          "Version": "0.45.1.0"
         }
       }
     },
@@ -8499,42 +8569,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "NWPvZMA+Z/U=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=60805\nfileID=252039",
-        "Name": "Base Object Swapper SE-60805-1-1-0-1640609064.7z",
-        "Size": 235221,
+        "Hash": "ii2VqMnygIk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60805\nfileID=260412",
+        "Name": "Base Object Swapper SE-60805-1-3-0-1643517213.7z",
+        "Size": 234297,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
           "Description": "SKSE plugin and framework for swapping base objects and references, using config files.",
-          "FileID": 252039,
+          "FileID": 260412,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60805/60805-1640547264-263882935.png",
           "IsNSFW": false,
           "ModID": 60805,
           "Name": "Base Object Swapper",
-          "Version": "1.1.0.0"
+          "Version": "1.2.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BnUdxUplhkk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=37737\nfileID=256750",
-        "Name": "Believable weapons SE-37737-1-4-1642208062.7z",
-        "Size": 12192003,
+        "Hash": "v/WzG70T0Oc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=37737\nfileID=260562",
+        "Name": "Believable weapons-37737-1-5-1643576065.7z",
+        "Size": 15754238,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Jonas",
           "Description": "Mesh replacer for 105 of Skyrim\u0027s original axes, maces, swords and warhammers. Opts for a slimmer and cleaner design, while keeping the original style.",
-          "FileID": 256750,
+          "FileID": 260562,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37737/37737-1593283303-1926078149.jpeg",
           "IsNSFW": false,
           "ModID": 37737,
           "Name": "Believable weapons",
-          "Version": "1.4.0.0"
+          "Version": "1.5.0.0"
         }
       }
     },
@@ -8745,6 +8815,27 @@
           "ModID": 52276,
           "Name": "Crafting Recipe Distributor",
           "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EsX4sP4Mxoc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62423\nfileID=258865",
+        "Name": "Custom Skill Menu Basic Icon Pack-62423-1-0-1642939412.zip",
+        "Size": 6648274,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OsmosisWrench",
+          "Description": "Adds a custom menu to give you to easy access all Custom Skills Framework skill trees. Directly integrated into the vanilla tween menu, and supports mouse, keyboard and controller input.",
+          "FileID": 258865,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62423/62423-1642922558-920074583.gif",
+          "IsNSFW": false,
+          "ModID": 62423,
+          "Name": "Custom Skills Menu - A Custom Skills Framework Unified Menu",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -9171,6 +9262,27 @@
           "ModID": 56767,
           "Name": "Simple Activate SKSE",
           "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4zJRupRswsE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=51073\nfileID=258051",
+        "Name": "INI file-51073-1-5-0-1642682975.7z",
+        "Size": 2023,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "Collection of engine bug fixes and tweaks. SKSE plugin.",
+          "FileID": 258051,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51073/51073-1623688700-1006153578.png",
+          "IsNSFW": false,
+          "ModID": 51073,
+          "Name": "powerofthree\u0027s Tweaks",
+          "Version": "1.5.0.0"
         }
       }
     },
@@ -9633,27 +9745,6 @@
           "ModID": 51073,
           "Name": "powerofthree\u0027s Tweaks",
           "Version": "1.5.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4cRWKv8cxBI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=51073\nfileID=238875",
-        "Name": "INI file-51073-1-3-0-1635979712.7z",
-        "Size": 1902,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "powerofthree",
-          "Description": "Collection of engine bug fixes and tweaks. SKSE plugin.",
-          "FileID": 238875,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51073/51073-1623688700-1006153578.png",
-          "IsNSFW": false,
-          "ModID": 51073,
-          "Name": "powerofthree\u0027s Tweaks",
-          "Version": "1.3.0.0"
         }
       }
     },
@@ -11725,6 +11816,27 @@
           "ModID": 34663,
           "Name": "Injured Animations Dynamic Replacer SE",
           "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "G+eP1d7cRUM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62491\nfileID=259464",
+        "Name": "non-combat sneak idle-62491-1-2-1643121387.zip",
+        "Size": 1553490,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Smooth",
+          "Description": "non-combat sneak idle",
+          "FileID": 259464,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62491/62491-1643012324-442231425.gif",
+          "IsNSFW": false,
+          "ModID": 62491,
+          "Name": "non-combat sneak idle",
+          "Version": "1.2.0.0"
         }
       }
     },
