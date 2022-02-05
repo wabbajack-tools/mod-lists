@@ -14,7 +14,7 @@
   - [Keizaal](#keizaal)
   - [The Phoenix Flavour](#the-phoenix-flavour)
   - [Septimus](#septimus)
-  - [The Phoenix Flavour - Dragon's Edition](#The Phoenix Flavour - Dragon's Edition)
+  - [The Phoenix Flavour - Dragon's Edition](#the-phoenix-flavour---dragons-edition)
   - [Living Skyrim](#living-skyrim)
   - [Serenity 2](#serenity-2)
   - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr)
@@ -133,7 +133,7 @@ Automated installer for [The Phoenix Flavour](https://thephoenixflavour.com/), t
 
 ***
 
-### [The Phoenix Flavour - Dragon's Edition](https://www.wabbajack.org/#/modlists/info?machineURL=tpfde)
+### [The Phoenix Flavour - Dragons Edition](https://www.wabbajack.org/#/modlists/info?machineURL=tpfde)
 
 A fork of The Phoenix Flavour, which expands Skyrim's world and possibilities extensively by adding adventuristic content for many tastes and beautiful sceneries surrounding it. 
 
