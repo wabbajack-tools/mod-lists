@@ -13,7 +13,7 @@ on:
 jobs:
   build-cli:
     name: List Validation
-    runs-on: ubuntu-latest
+    runs-on: list-validation
     
     env:
       NEXUS_API_KEY: ${{ secrets.NEXUS_API_KEY }}
