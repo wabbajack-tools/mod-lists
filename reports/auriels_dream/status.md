@@ -1,10 +1,11 @@
 ## Validation Report - Auriels Dream (auriels_dream)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [enbseries_skyrimvr_v0457.zip](http://enbdev.com/enbseries_skyrimvr_v0457.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (830)
+### Valid (829)
 *  [1_Improved Closefaced Helmets (Legendary Edition)-824-1-58.zip](https://www.nexusmods.com/skyrimspecialedition/mods/824/?tab=files&file_id=19438)
 *  [2. Ultimate HD Fire Effects SSE - Medium Version-20654-1-2-1570361318.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20654/?tab=files&file_id=109439)
 *  [2K Caveworm-41956-1-0-1604317541.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41956/?tab=files&file_id=168277)
@@ -316,7 +317,6 @@
 *  [Embers HD-14368-1-41-1599751061.zip](https://www.nexusmods.com/skyrimspecialedition/mods/14368/?tab=files&file_id=160041)
 *  [ENB Helper VR-25142-1-0-0-1555617161.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25142/?tab=files&file_id=88880)
 *  [ENB Organizer-67077-v2-1-1.zip](https://www.nexusmods.com/skyrim/mods/67077/?tab=files&file_id=1000214338)
-*  [enbseries_skyrimvr_v0457.zip](http://enbdev.com/enbseries_skyrimvr_v0457.zip)
 *  [Energy Shield v1.9 SSE Port-27488-v1-9-1577606049.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27488/?tab=files&file_id=117851)
 *  [EngineFixesVR_part1.zip](https://github.com/rollingrock/EngineFixesVR/releases/download/v1.20/EngineFixesVR_part1.zip)
 *  [EngineFixesVR_part2.zip](https://github.com/rollingrock/EngineFixesVR/releases/download/v1.20/EngineFixesVR_part2.zip)
