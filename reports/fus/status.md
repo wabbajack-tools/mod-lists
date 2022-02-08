@@ -1,11 +1,10 @@
 ## Validation Report - FUS (fus)
 
 
-### Invalid (1)
-*  [enbseries_skyrimvr_v0457.zip](http://enbdev.com/enbseries_skyrimvr_v0457.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (349)
+### Valid (350)
 *  [3D Casting FX-50197-1-0-1621612410.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50197/?tab=files&file_id=204758)
 *  [A Better Magelight - Enhanced-5954-2-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/5954/?tab=files&file_id=16406)
 *  [a better magelight patch-53186-1-0-1627894519.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53186/?tab=files&file_id=218284)
@@ -171,6 +170,7 @@
 *  [Embers HD-14368-1-41-1599751061.zip](https://www.nexusmods.com/skyrimspecialedition/mods/14368/?tab=files&file_id=160041)
 *  [ENB Helper VR-25142-1-0-0-1555617161.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25142/?tab=files&file_id=88880)
 *  [ENB Organizer-67077-v2-1-1.zip](https://www.nexusmods.com/skyrim/mods/67077/?tab=files&file_id=1000214338)
+*  [enbseries_skyrimvr_v0457.zip](http://enbdev.com/enbseries_skyrimvr_v0457.zip)
 *  [Enemy Healthbar  Red with Names-17812-0-7.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17812/?tab=files&file_id=56578)
 *  [EngineFixesVR_part2.zip](https://github.com/rollingrock/EngineFixesVR/releases/download/v1.21/EngineFixesVR_part2.zip)
 *  [EngineFixesVR_v121_part1.zip](https://github.com/rollingrock/EngineFixesVR/releases/download/v1.21/EngineFixesVR_v121_part1.zip)
