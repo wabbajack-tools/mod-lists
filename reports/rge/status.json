@@ -1,8 +1,8 @@
 {
   "MachineURL": "rge",
   "Name": "Relics of Hyrule - GAT Edition",
-  "Version": "2.2.5.13",
-  "ModListHash": "St6gBjVRQpc=",
+  "Version": "2.3.6",
+  "ModListHash": "2TSxhNv1zcA=",
   "Archives": [
     {
       "Status": "Valid",
@@ -132,6 +132,22 @@
           "ModID": 17230,
           "Name": "SSE Engine Fixes (skse64 plugin)",
           "Version": "5.6.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wwYDXqpkrNE=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=bink2w64.dll",
+        "Name": "bink2w64.dll",
+        "Size": 391360,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "bink2w64.dll",
+          "GameVersion": "1.6.353.0",
+          "Hash": "wwYDXqpkrNE="
         }
       }
     },
@@ -1349,27 +1365,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "RUje9PNxQ1g=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=10086\nfileID=114426",
-        "Name": "Curse of the Vampire SSE-10086-V6-2-1574773579.zip",
-        "Size": 816069,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TX12001",
-          "Description": "A highly immersive vampirism overhaul for Skyrim Special Edition made by TX12001.",
-          "FileID": 114426,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/10086/10086-1565819273-219504255.jpeg",
-          "IsNSFW": false,
-          "ModID": 10086,
-          "Name": "Curse of the Vampire SSE",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "CKLlnfTQhJ8=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=21728\nfileID=94913",
         "Name": "Daanik the Returned-21728-V3-1559776063.zip",
@@ -1664,13 +1659,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "CN7rXlpLnCE=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/ECTV Merged.rar_98cda234-7287-4152-a3a7-ddb7f715ab2c",
+        "Hash": "iu510noEt+E=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/ECTV Merged.rar_d016626c-d3b3-4395-ac84-b19a04739372",
         "Name": "ECTV Merged.rar",
-        "Size": 315146549,
+        "Size": 333831836,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/ECTV%20Merged.rar_98cda234-7287-4152-a3a7-ddb7f715ab2c"
+          "Url": "https://authored-files.wabbajack.org/ECTV%20Merged.rar_d016626c-d3b3-4395-ac84-b19a04739372"
         }
       }
     },
@@ -2104,6 +2099,19 @@
           "ModID": 57873,
           "Name": "Extended UI",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "E/CNFD5kyDY=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Faces Merged.rar_b0eab46f-ef34-4336-b313-8d65107505e5",
+        "Name": "Faces Merged.rar",
+        "Size": 34655,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/Faces%20Merged.rar_b0eab46f-ef34-4336-b313-8d65107505e5"
         }
       }
     },
@@ -4439,6 +4447,19 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "0+OVkR4HVVA=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/RGE - Patches.rar_87a1bc99-6ad2-4499-9d4a-6884e80caaa0",
+        "Name": "RGE - Patches.rar",
+        "Size": 10450675,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/RGE%20-%20Patches.rar_87a1bc99-6ad2-4499-9d4a-6884e80caaa0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "PrGucXP1WVI=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=20982\nfileID=71223",
         "Name": "Riverside Shack-20982-3-0-1541269864.7z",
@@ -4496,6 +4517,27 @@
           "ModID": 6994,
           "Name": "Royal Armory - New Artifacts",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/mo5HOLqWAY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42408\nfileID=258370",
+        "Name": "Sacrilege 2.1.0-42408-2-1-0-1642773358.zip",
+        "Size": 1586955,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Enai Siaion",
+          "Description": "Sacrilege is a high depth, low complexity vampire mod. It is a cleaned up and slimmed down version of Sacrosanct, offering an in-depth vampire experience without feature bloat.",
+          "FileID": 258370,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42408/105113-1605399363-1079243294.jpeg",
+          "IsNSFW": false,
+          "ModID": 42408,
+          "Name": "Sacrilege - Minimalistic Vampires of Skyrim",
+          "Version": "2.1.0.0"
         }
       }
     },
@@ -6264,6 +6306,118 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "5xD6UEtvt3M=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Animations.bsa",
+        "Name": "Data_Skyrim - Animations.bsa",
+        "Size": 65101236,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Animations.bsa",
+          "GameVersion": "1.6.353.0",
+          "Hash": "5xD6UEtvt3M="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "l/34Syb1rXg=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Interface.bsa",
+        "Name": "Data_Skyrim - Interface.bsa",
+        "Size": 78740221,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Interface.bsa",
+          "GameVersion": "1.6.353.0",
+          "Hash": "l/34Syb1rXg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oIYZPu4jH2g=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Meshes0.bsa",
+        "Name": "Data_Skyrim - Meshes0.bsa",
+        "Size": 1153090124,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Meshes0.bsa",
+          "GameVersion": "1.6.353.0",
+          "Hash": "oIYZPu4jH2g="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TvzBPkbzJjI=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Meshes1.bsa",
+        "Name": "Data_Skyrim - Meshes1.bsa",
+        "Size": 378853391,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Meshes1.bsa",
+          "GameVersion": "1.6.353.0",
+          "Hash": "TvzBPkbzJjI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7ZEj5ntJZIc=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Misc.bsa",
+        "Name": "Data_Skyrim - Misc.bsa",
+        "Size": 204574260,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Misc.bsa",
+          "GameVersion": "1.6.353.0",
+          "Hash": "7ZEj5ntJZIc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SwnAPr6pbzg=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Shaders.bsa",
+        "Name": "Data_Skyrim - Shaders.bsa",
+        "Size": 67308970,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Shaders.bsa",
+          "GameVersion": "1.6.353.0",
+          "Hash": "SwnAPr6pbzg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6ILjbi2XOOA=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Sounds.bsa",
+        "Name": "Data_Skyrim - Sounds.bsa",
+        "Size": 1538656059,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Sounds.bsa",
+          "GameVersion": "1.6.353.0",
+          "Hash": "6ILjbi2XOOA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "2Tmfw2AG/MM=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Voices_en0.bsa",
         "Name": "Data_Skyrim - Voices_en0.bsa",
@@ -7351,6 +7505,19 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Io4d+3ai+Ac=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/ECTV Consistency Patch.rar_6c504380-a79a-4714-ab70-77b459fcef53",
+        "Name": "ECTV Consistency Patch.rar",
+        "Size": 2780392,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/ECTV%20Consistency%20Patch.rar_6c504380-a79a-4714-ab70-77b459fcef53"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "qDby3b7iovU=",
         "Meta": "[General]\ngameName=skyrim\nmodID=80577\nfileID=1000245575",
         "Name": "Enhanced Interiors Radioactive 2-80577-2.7z",
@@ -8359,6 +8526,19 @@
           "ModID": 94246,
           "Name": "Non-Exploitable Crossbow Reloading",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ul8JZCkYKB8=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/NPC Retextures Merged Consistency Patch.rar_351d240e-6dff-41d3-81e2-41934d2ac31d",
+        "Name": "NPC Retextures Merged Consistency Patch.rar",
+        "Size": 979,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/NPC%20Retextures%20Merged%20Consistency%20Patch.rar_351d240e-6dff-41d3-81e2-41934d2ac31d"
         }
       }
     },
@@ -12440,6 +12620,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "4VfZEW2/m1Q=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=31245\nfileID=126071",
+        "Name": "Growl 1.4.0-31245-1-4-0-1582754867.zip",
+        "Size": 584896,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Enai Siaion",
+          "Description": "Growl is a lightweight werewolf and werebear overhaul. Better werebeast combat, scaling, experience gain, reworked perks, synergies between beast and mortal form, lunar transformations, werebears and many quality of life improvements. Growl makes werebeasts a viable choice without \u0022taking over\u0022 or imbalancing the game.",
+          "FileID": 126071,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31245/31245-1577300688-2074823911.jpeg",
+          "IsNSFW": false,
+          "ModID": 31245,
+          "Name": "Growl - Werebeasts of Skyrim",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "eKO0WV/CnNA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=22603\nfileID=132968",
         "Name": "ScaleformTranslationPP-22603-1-4-1-1586306055.zip",
@@ -13900,22 +14101,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "oIYZPu4jH2g=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Meshes0.bsa",
-        "Name": "Data_Skyrim - Meshes0.bsa",
-        "Size": 1153090124,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Meshes0.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "oIYZPu4jH2g="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "voa2ZBntXGM=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=6580\nfileID=35178",
         "Name": "PATCH - Shoe Fixes (Standard Shine)-6580-1-0.rar",
@@ -15141,22 +15326,6 @@
           "ModID": 1826,
           "Name": "Lower Sounding Thieves Guild Door",
           "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "TvzBPkbzJjI=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Meshes1.bsa",
-        "Name": "Data_Skyrim - Meshes1.bsa",
-        "Size": 378853391,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Meshes1.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "TvzBPkbzJjI="
         }
       }
     },
@@ -17932,13 +18101,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "YdvmG6sepw8=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/RGE - Facegen.rar_3f178217-efe9-4540-9603-167295f04566",
+        "Hash": "PGJ0HqnvXzg=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/RGE - Facegen.rar_86a27608-2cdb-4325-b393-d344ece34518",
         "Name": "RGE - Facegen.rar",
-        "Size": 75603906,
+        "Size": 75636014,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/RGE%20-%20Facegen.rar_3f178217-efe9-4540-9603-167295f04566"
+          "Url": "https://authored-files.wabbajack.org/RGE%20-%20Facegen.rar_86a27608-2cdb-4325-b393-d344ece34518"
         }
       }
     },
@@ -19226,22 +19395,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5xD6UEtvt3M=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Animations.bsa",
-        "Name": "Data_Skyrim - Animations.bsa",
-        "Size": 65101236,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Animations.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "5xD6UEtvt3M="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "DIgz6AsUNmg=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=27366\nfileID=99235",
         "Name": "Hardy Hares-27366-1-0-1563088719.7z",
@@ -19599,121 +19752,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "l/34Syb1rXg=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Interface.bsa",
-        "Name": "Data_Skyrim - Interface.bsa",
-        "Size": 78740221,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Interface.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "l/34Syb1rXg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "HnR1uFzTLUk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=386\nfileID=115926",
-        "Name": "Sovngarde - Mist\u0027s Font Replacer Bold V8.9-386-8-9-1576107205.7z",
-        "Size": 335682,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Koveich",
-          "Description": "Sovngarde is a lore-friendly font replacer I designed by hand based on Skyrim\u0027s title. Supports 8 languages and 2 weights!",
-          "FileID": 115926,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/386/386-1598818175-28512544.jpeg",
-          "IsNSFW": false,
-          "ModID": 386,
-          "Name": "Sovngarde - A Nordic Font",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6ILjbi2XOOA=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Sounds.bsa",
-        "Name": "Data_Skyrim - Sounds.bsa",
-        "Size": 1538656059,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Sounds.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "6ILjbi2XOOA="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "TxUe36eG4W0=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\ccBGSSSE001-Fish.bsa",
-        "Name": "Data_ccBGSSSE001-Fish.bsa",
-        "Size": 377448164,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccBGSSSE001-Fish.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "TxUe36eG4W0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "gGA1UynjlR8=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures5.bsa",
-        "Name": "Data_Skyrim - Textures5.bsa",
-        "Size": 809121183,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures5.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "gGA1UynjlR8="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "X3r9auZPg40=",
-        "Meta": "[General]\ndirectURL=https://github.com/LostDragonist/SSE-Downgrade-Kit/raw/3680a5f60f6b74434c4ddaaf786daf8007273839/SSE.Downgrade.Kit.7z",
-        "Name": "SSE.Downgrade.Kit.7z",
-        "Size": 114969,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/LostDragonist/SSE-Downgrade-Kit/raw/3680a5f60f6b74434c4ddaaf786daf8007273839/SSE.Downgrade.Kit.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7ZEj5ntJZIc=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Misc.bsa",
-        "Name": "Data_Skyrim - Misc.bsa",
-        "Size": 204574260,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Misc.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "7ZEj5ntJZIc="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "PcjV818C0vA=",
         "Meta": "[General]\ndirectURL=https://www.moddb.com/downloads/start/116891?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads",
         "Name": "Skyrim_Realistic_Overhaul_Part_1.7z",
@@ -19734,43 +19772,6 @@
         "State": {
           "$type": "ModDBDownloader, Wabbajack.Lib",
           "Url": "https://www.moddb.com/downloads/start/116934?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "0gOtlzVmEXM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=11278\nfileID=160694",
-        "Name": "Inigo Banter patch - sfts and Talwin fix-11278-0-1-1600098079.zip",
-        "Size": 13652967,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Waribiki",
-          "Description": "A standalone, custom-voiced follower\u0026amp;Quest mod.",
-          "FileID": 160694,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/11278-0-1506046717.jpg",
-          "IsNSFW": false,
-          "ModID": 11278,
-          "Name": "Song of the Green (Auri Follower)",
-          "Version": "0.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "SwnAPr6pbzg=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Shaders.bsa",
-        "Name": "Data_Skyrim - Shaders.bsa",
-        "Size": 67308970,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Shaders.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "SwnAPr6pbzg="
         }
       }
     }
