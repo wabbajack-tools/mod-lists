@@ -1,8 +1,8 @@
 {
   "MachineURL": "tpf",
   "Name": "The Phoenix Flavour",
-  "Version": "4.11.2",
-  "ModListHash": "jYe1bnAbtw4=",
+  "Version": "4.12.0",
+  "ModListHash": "oldnEwyqDCA=",
   "Archives": [
     {
       "Status": "Valid",
@@ -98,21 +98,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "d+fMLBcSgpk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=10546\nfileID=28074",
-        "Name": "DLL Plugin Loader v1-10546-1.zip",
-        "Size": 101092,
+        "Hash": "wwYDXqpkrNE=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=bink2w64.dll",
+        "Name": "bink2w64.dll",
+        "Size": 391360,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "meh321",
-          "Description": "Simple DLL plugins loader.",
-          "FileID": 28074,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 10546,
-          "Name": "DLL Plugin Loader",
-          "Version": "1.0.0.0"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "bink2w64.dll",
+          "GameVersion": "1.6.353.0",
+          "Hash": "wwYDXqpkrNE="
         }
       }
     },
@@ -642,21 +637,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "N8rSjavQRxs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=21654\nfileID=241914",
-        "Name": "AI Overhaul 1.6.7-21654-1-6-7-1637061735.rar",
-        "Size": 432650,
+        "Hash": "ei6MIAODDTg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=21654\nfileID=261600",
+        "Name": "AI Overhaul for SE Only-21654-1-7-1643928858.zip",
+        "Size": 488831,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "mnikjom SpiderAkiraC",
           "Description": "Changes many of the Vanilla NPCs AI to act more realistic and immersive.",
-          "FileID": 241914,
+          "FileID": 261600,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21654/21654-1550995361-2034399068.jpeg",
           "IsNSFW": false,
           "ModID": 21654,
           "Name": "AI Overhaul SSE",
-          "Version": "1.6.7.0"
+          "Version": "1.7.0.0"
         }
       }
     },
@@ -888,6 +883,69 @@
           "ModID": 19002,
           "Name": "Armor and Clothing Extension",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Wh/AZm2QK2s=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=41254\nfileID=197059",
+        "Name": "Balance Patch-41254-2-0-1617966847.7z",
+        "Size": 14830,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "registrant",
+          "Description": "This mod replaces the models for many unique artifacts and items. Made by registrant.",
+          "FileID": 197059,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41254/41254-1602336282-346355810.jpeg",
+          "IsNSFW": false,
+          "ModID": 41254,
+          "Name": "ArteFakes - Unique Artifacts Replacer",
+          "Version": "BP2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qFeqUjeoyw4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=41254\nfileID=197058",
+        "Name": "ArteFakes-41254-2-0-1617966810.7z",
+        "Size": 3243975,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "registrant",
+          "Description": "This mod replaces the models for many unique artifacts and items. Made by registrant.",
+          "FileID": 197058,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41254/41254-1602336282-346355810.jpeg",
+          "IsNSFW": false,
+          "ModID": 41254,
+          "Name": "ArteFakes - Unique Artifacts Replacer",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+V9ELI70T70=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=41254\nfileID=197029",
+        "Name": "USSEP Patch-41254-2-0-1617950420.7z",
+        "Size": 12514,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "registrant",
+          "Description": "This mod replaces the models for many unique artifacts and items. Made by registrant.",
+          "FileID": 197029,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41254/41254-1602336282-346355810.jpeg",
+          "IsNSFW": false,
+          "ModID": 41254,
+          "Name": "ArteFakes - Unique Artifacts Replacer",
+          "Version": "2.0.0.0"
         }
       }
     },
@@ -1965,21 +2023,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GCNDzyZ+pUE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=22574\nfileID=117211",
-        "Name": "ENB Light 0.98 Alpha 2-22574-0-98Alpha2-1577144667.7z",
-        "Size": 11513522,
+        "Hash": "DeP8HoCIG8g=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=22574\nfileID=85143",
+        "Name": "ENB Light-22574-0-94-1552759521.7z",
+        "Size": 4466275,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "4109",
           "Description": "Light on grass at night! Unlimited shadowed light sources! Transform your Skyrim experience completely with ENB particle lights.",
-          "FileID": 117211,
+          "FileID": 85143,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22574/22574-1547392713-1545651030.jpeg",
           "IsNSFW": false,
           "ModID": 22574,
           "Name": "ENB Light",
-          "Version": "0.98.0.0Alpha2"
+          "Version": "0.94.0.0"
         }
       }
     },
@@ -3477,21 +3535,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "J45aSF+qEDc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=38348\nfileID=162727",
-        "Name": "Misc Tweaks - No Starting Spells-38348-1-1-1601156594.rar",
-        "Size": 8812,
+        "Hash": "CCouJBbkuAI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=38348\nfileID=261999",
+        "Name": "Misc Tweaks - No Starting Spells-38348-1-2-1644090700.7z",
+        "Size": 5795,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "see credits tab",
           "Description": "A small collection of various tweaks.",
-          "FileID": 162727,
+          "FileID": 261999,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38348/38348-1596981424-483315613.jpeg",
           "IsNSFW": false,
           "ModID": 38348,
           "Name": "Miscellaneous Tweaks Collection",
-          "Version": "0.0.0.0"
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -4927,21 +4985,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "UUubiWiVyx4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58224\nfileID=240469",
-        "Name": "Security Overhaul SKSE - Lock Variations-58224-1-0-1636599424.7z",
-        "Size": 168122556,
+        "Hash": "nAtfW1C3Xlk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58224\nfileID=260686",
+        "Name": "Security Overhaul SKSE - Lock Variations-58224-3-0-1643625561.7z",
+        "Size": 168196085,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kreiste-wSkeever-powerofthree",
           "Description": "SKSE based framework for replacing overused lock model with unique lock variants.",
-          "FileID": 240469,
+          "FileID": 260686,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58224/58224-1636566041-1637060129.gif",
           "IsNSFW": false,
           "ModID": 58224,
           "Name": "Security Overhaul SKSE - Lock Variations",
-          "Version": "1.0.0.0"
+          "Version": "3.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CcvL42Y1rms=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62781\nfileID=260861",
+        "Name": "Security Overhaul SKSE - Regional Locks-62781-1-0-1-1643681140.7z",
+        "Size": 358199384,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree - Kreiste - wSkeever",
+          "Description": "Regional variant lock models for Security Overhaul SKSE - Lock Variations",
+          "FileID": 260861,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62781/62781-1643585210-1219461913.gif",
+          "IsNSFW": false,
+          "ModID": 62781,
+          "Name": "Security Overhaul SKSE - Regional Locks",
+          "Version": "1.0.1.0"
         }
       }
     },
@@ -4984,6 +5063,27 @@
           "ModID": 27061,
           "Name": "Serio\u0027s Enhanced Dragons Redone",
           "Version": "1.23.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/e3mErebZmI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60399\nfileID=251625",
+        "Name": "Sexier Vanilla - Guards-60399-1-3-1640425063.7z",
+        "Size": 5067733,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "StinkyAegis - Some meshes by QwibQwibMods",
+          "Description": "Diversifies and enhances town guards and Stormcloaks, adding heavy armor variants and more. Like vanilla Skyrim, but sexier (but not that kind of sexy).",
+          "FileID": 251625,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60399/60399-1639973411-1324514563.png",
+          "IsNSFW": false,
+          "ModID": 60399,
+          "Name": "Sexier Vanilla - Guards",
+          "Version": "1.3.0.0"
         }
       }
     },
@@ -5515,27 +5615,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "q4O4+QAm3Sc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=18077\nfileID=57729",
-        "Name": "Sleeves for Guards - FOMOD-18077-1-1.7z",
-        "Size": 4012,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Niko Moldova",
-          "Description": "Adds a chance that guards will spawn with sleeves and/or fur gauntlets. Probability changes based on general climate of their hold. Same mod as the one for non-SE Skyrim. Turns out it works on SE so I thought I\u0027d upload it here, too.",
-          "FileID": 57729,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18077/18077-1529382707-1554031253.jpeg",
-          "IsNSFW": false,
-          "ModID": 18077,
-          "Name": "Sleeves for Guards",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Qf4LK+15NJU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=38788\nfileID=152742",
         "Name": "Slof\u0027s Trotting Horse SSE-38788-1-0-1596032023.7z",
@@ -5914,21 +5993,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "F+njAvMaUB4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=14223\nfileID=258686",
-        "Name": "The Phoenix Flavour - Conflict Resolution Patch - Maintainer Version-14223-4-11-1-1642873450.7z",
-        "Size": 4945924,
+        "Hash": "WqgNPfUv3Yw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=14223\nfileID=263239",
+        "Name": "The Phoenix Flavour - Conflict Resolution Patch - Maintainer Version-14223-4-12-0-1644533290.7z",
+        "Size": 4955869,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Phoenix and Umgak",
           "Description": "The Nexus page for The Phoenix Flavour guide - https://thephoenixflavour.com/ - with all necessary files.",
-          "FileID": 258686,
+          "FileID": 263239,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/14223/14223-1514314519-272502807.jpeg",
           "IsNSFW": false,
           "ModID": 14223,
           "Name": "The Phoenix Flavour - A Modding Guide for Skyrim SE",
-          "Version": "4.11.1.0"
+          "Version": "4.12.0.0"
         }
       }
     },
@@ -5961,13 +6040,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "CiLz7lL3RPM=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/The Phoenix Flavour - FaceGen v4.9.3.7z_32770852-9163-45cf-b159-e35c154c7310",
-        "Name": "The Phoenix Flavour - FaceGen v4.9.3.7z",
-        "Size": 457692637,
+        "Hash": "5Dyw3A5plac=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/The Phoenix Flavour - FaceGen v4.12.0.7z_a854d7f3-86d1-4d0e-b00e-d514ecdce9e7",
+        "Name": "The Phoenix Flavour - FaceGen v4.12.0.7z",
+        "Size": 457646406,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/The%20Phoenix%20Flavour%20-%20FaceGen%20v4.9.3.7z_32770852-9163-45cf-b159-e35c154c7310"
+          "Url": "https://authored-files.wabbajack.org/The%20Phoenix%20Flavour%20-%20FaceGen%20v4.12.0.7z_a854d7f3-86d1-4d0e-b00e-d514ecdce9e7"
         }
       }
     },
@@ -8254,21 +8333,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KNmWLahw6Js=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=256101",
-        "Name": "Assorted Mesh Fixes-32117-0-44-1641984096.7z",
-        "Size": 11332545,
+        "Hash": "nFye4/3EyGc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=260257",
+        "Name": "Assorted Mesh Fixes-32117-0-45-1-1643449721.7z",
+        "Size": 11413149,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wankingSkeever",
           "Description": "Fixes various issues with vanilla Skyrim meshes that causes them to render incorrectly",
-          "FileID": 256101,
+          "FileID": 260257,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32117/32117-1612599331-161051453.png",
           "IsNSFW": false,
           "ModID": 32117,
           "Name": "Assorted mesh fixes",
-          "Version": "0.44.0.0"
+          "Version": "0.45.1.0"
         }
       }
     },
@@ -9976,27 +10055,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "1rV5nR4rL7Q=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=22574\nfileID=94727",
-        "Name": "Redesigned Candle Flame for ENB-22574-1-1-1559605066.7z",
-        "Size": 1559,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "4109",
-          "Description": "Light on grass at night! Unlimited shadowed light sources! Transform your Skyrim experience completely with ENB particle lights.",
-          "FileID": 94727,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22574/22574-1547392713-1545651030.jpeg",
-          "IsNSFW": false,
-          "ModID": 22574,
-          "Name": "ENB Light",
-          "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "vlY4+vv5u/w=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=26838\nfileID=126735",
         "Name": "Remember Lockpick Angle - Updated-26838-2-0-1583102894.7z",
@@ -11230,6 +11288,27 @@
           "ModID": 32973,
           "Name": "Tamrielic Textures SE 1 - Landscapes",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gA/A/iOSOa4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=37541\nfileID=147194",
+        "Name": "TB\u0027s Improved Smoke - 4K (Patched)-37541-2-1592996280.7z",
+        "Size": 446701,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Blender Animator",
+          "Description": "This mod replaces the unrealistic low-quality smoke textures with simulation generated 4K ones.",
+          "FileID": 147194,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37541/37541-1592765538-942318752.jpeg",
+          "IsNSFW": false,
+          "ModID": 37541,
+          "Name": "TB\u0027s Improved Smoke (Beta)",
+          "Version": "2.0.0.0"
         }
       }
     },
@@ -17058,21 +17137,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "D9N0SbVOk8o=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=48120\nfileID=210090",
-        "Name": "Whiterun Mesh Fixes-48120-1-1-5-1624153918.7z",
-        "Size": 2294837,
+        "Hash": "oQz7udW9phQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=48120\nfileID=260852",
+        "Name": "Whiterun Mesh Fixes-48120-1-2-5-1643679348.7z",
+        "Size": 2501945,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "NeverLost",
           "Description": "Fixes various issues with meshes in Whiterun.",
-          "FileID": 210090,
+          "FileID": 260852,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/48120/48120-1617597538-2111270181.png",
           "IsNSFW": false,
           "ModID": 48120,
           "Name": "Whiterun Mesh Fixes",
-          "Version": "0.0.0.0"
+          "Version": "1.2.5.0"
         }
       }
     },
