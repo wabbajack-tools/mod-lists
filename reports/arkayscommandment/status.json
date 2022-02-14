@@ -1,8 +1,8 @@
 {
   "MachineURL": "arkayscommandment",
   "Name": "Arkay\u0027s Commandment",
-  "Version": "1.9",
-  "ModListHash": "Yu7dsB9BB3A=",
+  "Version": "1.10",
+  "ModListHash": "qq5405j4yrQ=",
   "Archives": [
     {
       "Status": "Valid",
@@ -28,6 +28,27 @@
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
           "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0465.zip_93a38bf5-dd3b-48a1-a788-56c87b7c6d22/"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6I/387a+Px4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=181373",
+        "Name": "(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip",
+        "Size": 417160,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "aers - Nukem - Ryan",
+          "Description": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.",
+          "FileID": 181373,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17230/17230-1526195370-298143229.png",
+          "IsNSFW": false,
+          "ModID": 17230,
+          "Name": "SSE Engine Fixes (skse64 plugin)",
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -105,27 +126,6 @@
           "ModID": 42161,
           "Name": "No Grass In Objects",
           "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6I/387a+Px4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=181373",
-        "Name": "(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip",
-        "Size": 417160,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "aers - Nukem - Ryan",
-          "Description": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.",
-          "FileID": 181373,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17230/17230-1526195370-298143229.png",
-          "IsNSFW": false,
-          "ModID": 17230,
-          "Name": "SSE Engine Fixes (skse64 plugin)",
-          "Version": "0.0.0.0"
         }
       }
     },
@@ -4261,27 +4261,6 @@
           "IsNSFW": false,
           "ModID": 45695,
           "Name": "Requiem - Wizard Hats",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "h8FEUrOjPzY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=63316\nfileID=262802",
-        "Name": "Requiem Arena-63316-1-0-1644368707.7z",
-        "Size": 6216216,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pamposzek",
-          "Description": "Testing cell to craft your build and take on Requiem baddies.",
-          "FileID": 262802,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/63316/63316-1644367892-710046991.png",
-          "IsNSFW": false,
-          "ModID": 63316,
-          "Name": "Requiem Arena",
           "Version": "1.0.0.0"
         }
       }
