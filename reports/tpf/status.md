@@ -761,7 +761,7 @@
 *  [The Last Dragonborn Perk-40225-1-0-1612306414.rar](https://www.nexusmods.com/skyrimspecialedition/mods/40225/?tab=files&file_id=183623)
 *  [The Northerner Diaries - Skyrim and Solstheim-28108-1-2-1573943146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28108/?tab=files&file_id=113553)
 *  [The Paarthurnax Resolution-43766-1-1609224380.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43766/?tab=files&file_id=176615)
-*  [The Phoenix Flavour - Conflict Resolution Patch - Maintainer Version-14223-4-12-1-1645390048.7z](https://www.nexusmods.com/skyrimspecialedition/mods/14223/?tab=files&file_id=265718)
+*  [The Phoenix Flavour - Conflict Resolution Patch - Maintainer Version-14223-4-12-1-1-1645400607.7z](https://www.nexusmods.com/skyrimspecialedition/mods/14223/?tab=files&file_id=265753)
 *  [The Phoenix Flavour - DynDOLOD Output (Performance) v4.12.1.7z](https://authored-files.wabbajack.org/The Phoenix Flavour - DynDOLOD Output (Performance) v4.12.1.7z_3718f919-b218-4daa-896e-95bd52b336b1)
 *  [The Phoenix Flavour - DynDOLOD Output v4.12.1.7z](https://authored-files.wabbajack.org/The Phoenix Flavour - DynDOLOD Output v4.12.1.7z_c5761abf-85dc-44d0-9173-2c30e4144eb6)
 *  [The Phoenix Flavour - FaceGen v4.12.0.7z](https://authored-files.wabbajack.org/The Phoenix Flavour - FaceGen v4.12.0.7z_a854d7f3-86d1-4d0e-b00e-d514ecdce9e7)
