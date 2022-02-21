@@ -594,7 +594,7 @@
 *  [ElSopa - HS Iron Tools Redone Hotfix Patch 1.1-60495-1-1-1640268043.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60495/?tab=files&file_id=251150)
 *  [ElSopa - Medieval Anvil Hammer HotFix-48825-1-2-1619372790.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48825/?tab=files&file_id=200127)
 *  [Elwaps SpeedTree.7z](https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM)
-*  [Elysium Remastered - Core Files.7z](https://mega.nz/file/VR8ERb5a#DXubU4l-fn1GLLxTSTz6gQ-M4IUi6uZ2T14Tt49_waI)
+*  [Elysium Remastered - Core Files.7z](https://mega.nz/file/pIkl3AQD#zDTeVHnPSSRKPzEjj7ZufGyAImOpqBv0ny-7efp6_8c)
 *  [Elysium Remastered - Dyndolod 3D Output - Performance Mode.7z](https://authored-files.wabbajack.org/Elysium Remastered - Dyndolod 3D Output - Performance Mode.7z_132e0774-92a3-4897-82af-abc49ee58c02)
 *  [Elysium Remastered - Dyndolod 3D Output.7z](https://authored-files.wabbajack.org/Elysium Remastered - Dyndolod 3D Output.7z_bee432d6-e6cc-4070-8dbe-fb586c8ac091)
 *  [Elysium Remastered - Terrain LOD Output.7z](https://authored-files.wabbajack.org/Elysium Remastered - Terrain LOD Output.7z_317d46cd-c590-41c3-9aea-a0269452ec26)
