@@ -2,7 +2,7 @@
   "MachineURL": "keizaal",
   "Name": "Keizaal",
   "Version": "6.2.1",
-  "ModListHash": "YVifqWqIbvQ=",
+  "ModListHash": "bCnBkWlbhdI=",
   "Archives": [
     {
       "Status": "Valid",
@@ -9541,21 +9541,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "z4ZcxQ6zwKE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32382\nfileID=257896",
-        "Name": "DynDOLOD 3.00-32382-Alpha-65-1642602113.7z",
-        "Size": 26046351,
+        "Hash": "k0yiFVvlpXo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32382\nfileID=264023",
+        "Name": "DynDOLOD 3.00-32382-Alpha-73-1644828244.7z",
+        "Size": 26237521,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sheson",
           "Description": "DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD \u002B tree LOD and the new,  optional dynamic distant object LOD in a few simple steps.",
-          "FileID": 257896,
+          "FileID": 264023,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32382/32382-1580900155-1292674369.jpeg",
           "IsNSFW": false,
           "ModID": 32382,
           "Name": "Dynamic Distant Objects LOD - DynDOLOD",
-          "Version": "Alpha-65"
+          "Version": "Alpha-73"
         }
       }
     },
@@ -10096,20 +10096,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "KUbPeBWZQ8g=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=55744\nfileID=233499",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/HD Bethesda Logo Replacer - Keizaal Cut-55744-1-0-1633715702.zip_affdbc56-3865-48ee-8f7a-283817e22736",
         "Name": "HD Bethesda Logo Replacer - Keizaal Cut-55744-1-0-1633715702.zip",
         "Size": 65336524,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Catir",
-          "Description": "HD replacer for the Bethesda logo with unique art and music. Designed to mask initial loading time. Compatible with main menu replacers.",
-          "FileID": 233499,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55744/55744-1631941993-773853207.jpeg",
-          "IsNSFW": false,
-          "ModID": 55744,
-          "Name": "HD Bethesda Logo Replacer",
-          "Version": "1.0.0.0"
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/HD%20Bethesda%20Logo%20Replacer%20-%20Keizaal%20Cut-55744-1-0-1633715702.zip_affdbc56-3865-48ee-8f7a-283817e22736"
         }
       }
     },
@@ -10215,6 +10207,27 @@
           "ModID": 36889,
           "Name": "Jump Behavior Overhaul",
           "Version": "1.4.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qgb4B3YG3y4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=64032\nfileID=265922",
+        "Name": "Lawbringer Register Fix-64032-1-1645466685.7z",
+        "Size": 13016,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "EpicCrab",
+          "Description": "A quick fix for Lawbringer\u0027s MCM Location Registration, fixes the function signature in order to be compatible with Serenity/Halted Stream Mine",
+          "FileID": 265922,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64032/64032-1645466182-1531956422.jpeg",
+          "IsNSFW": false,
+          "ModID": 64032,
+          "Name": "Lawbringer - Serenity - Halted Stream Mine Register Fix",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -10341,6 +10354,27 @@
           "ModID": 53905,
           "Name": "Movement Behavior Overhaul - True Directional Movement Patch",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1lKWVp6a3e4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=64016\nfileID=265836",
+        "Name": "Neloth\u0027s Experimental Subject Quest (DLC2TTR4a) Fix-64016-0-1-1645437312.7z",
+        "Size": 1049,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wankingSkeever",
+          "Description": "Fixes Neloth\u0027s Experimental Subject Quest (DLC2TTR4a) getting stuck",
+          "FileID": 265836,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64016/64016-1645437938-230699334.png",
+          "IsNSFW": false,
+          "ModID": 64016,
+          "Name": "Neloth\u0027s Experimental Subject Quest (DLC2TTR4a) Fix",
+          "Version": "0.1.0.0"
         }
       }
     },
@@ -13098,7 +13132,7 @@
       "Original": {
         "Hash": "eKO0WV/CnNA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=22603\nfileID=132968",
-        "Name": "ScaleformTranslationPP-22603-1-4-1-1586306055.zip",
+        "Name": "1_ScaleformTranslationPP-22603-1-4-1-1586306055.zip",
         "Size": 386268,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
@@ -13677,6 +13711,27 @@
           "ModID": 13749,
           "Name": "Volcanic Tundra - Heat Wave Effects",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "T2xIaWF5QN4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=63862\nfileID=265943",
+        "Name": "Water Effects Brightness and Reflection Fix-63862-0-2-1645472191.7z",
+        "Size": 1161904,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wankingSkeever",
+          "Description": "Fixes bright water effects at night and neon green reflections",
+          "FileID": 265943,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/63862/63862-1645457520-1103696750.png",
+          "IsNSFW": false,
+          "ModID": 63862,
+          "Name": "Water Effects Brightness and Reflection Fix",
+          "Version": "0.2.0.0"
         }
       }
     },
