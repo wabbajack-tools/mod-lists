@@ -2,7 +2,7 @@
   "MachineURL": "keizaal",
   "Name": "Keizaal",
   "Version": "6.2.1",
-  "ModListHash": "4RDZhgigaEA=",
+  "ModListHash": "CU5MSC2+7kc=",
   "Archives": [
     {
       "Status": "Valid",
@@ -6464,6 +6464,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "uG5DmwXnqpQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42756\nfileID=190356",
+        "Name": "Project Clarity - Effects Full Res-42756-2-4-1615256808.7z",
+        "Size": 1729404478,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "High resolution AI up-scaled effects textures, for every single effect",
+          "FileID": 190356,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42756/42756-1606331284-1361885254.png",
+          "IsNSFW": false,
+          "ModID": 42756,
+          "Name": "Project Clarity - Effects Textures Redone",
+          "Version": "2.4.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "OeXsI+asCs8=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=18369\nfileID=91599",
         "Name": "QUASIPC - Unified Patch Compendium v2_5_0-18369-2-5-0-1557483615.7z",
@@ -9632,6 +9653,20 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "rSweb1D6ufY=",
+        "Meta": "[General]\ndirectURL=https://github.com/Mutagen-Modding/Synthesis/releases/download/0.22.1/Synthesis.zip",
+        "Name": "Synthesis.zip",
+        "Size": 144636436,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Mutagen-Modding/Synthesis/releases/download/0.22.1/Synthesis.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "4+F6wQO0cRg=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=164\nfileID=240322",
         "Name": "SSEEdit 4.0.4-164-4-0-4-1636548642.7z",
@@ -10486,21 +10521,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "auNq2OW97lE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45306\nfileID=188985",
-        "Name": "Project Clarity AIO Full Res Loose Pt 3-45306-2-0-1614703421.7z",
-        "Size": 14989646925,
+        "Hash": "tpXHefFqu+4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43401\nfileID=188795",
+        "Name": "Project Clarity - Clutter Full Res-43401-1-2-1614609210.7z",
+        "Size": 7169170913,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Iconic",
-          "Description": "A compilation of all the Project Clarity mods",
-          "FileID": 188985,
+          "Description": "Thousands of textures covering hundreds of objects, this upscales all the clutter in Skyrim. Guaranteed to cover many things you didn\u0027t know you were missing.",
+          "FileID": 188795,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45306/45306-1612756620-270228000.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43401/43401-1608153976-258395948.png",
           "IsNSFW": false,
-          "ModID": 45306,
-          "Name": "Project Clarity AIO - Skyrim Textures Redone",
-          "Version": "2.0.0.0"
+          "ModID": 43401,
+          "Name": "Project Clarity - Clutter Textures Redone",
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -10711,27 +10746,6 @@
           "ModID": 57876,
           "Name": "EVG Conditional Idles - Settings Loader",
           "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "AZdJVvOj2v0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=463\nfileID=61422",
-        "Name": "SkyHUD v090B v4-463-0-90B.zip",
-        "Size": 3980107,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Fhaarkas",
-          "Description": "Toggle HUD elements on or off, scale sizes, change positions and swap elements with alternative version. Features dot crosshair, slim compass, alternate ammo display, detached compass markers and built-in support for font mods.",
-          "FileID": 61422,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/463/463-1509171654-2130223191.jpeg",
-          "IsNSFW": false,
-          "ModID": 463,
-          "Name": "SkyHUD",
-          "Version": "0.90.0.0B"
         }
       }
     },
@@ -12710,42 +12724,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "mYEd9eXaoV4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45306\nfileID=188983",
-        "Name": "Project Clarity AIO Full Res Loose Pt 1-45306-2-0-1614703418.7z",
-        "Size": 13861548353,
+        "Hash": "GtThPvs36Ms=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=41998\nfileID=188800",
+        "Name": "Project Clarity - Creatures Full Res-41998-1-7-1614612173.7z",
+        "Size": 4742826685,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Iconic",
-          "Description": "A compilation of all the Project Clarity mods",
-          "FileID": 188983,
+          "Description": "High resolution AI up-scaled creature textures, for every single creature",
+          "FileID": 188800,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45306/45306-1612756620-270228000.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41998/41998-1604439666-1249755764.png",
           "IsNSFW": false,
-          "ModID": 45306,
-          "Name": "Project Clarity AIO - Skyrim Textures Redone",
-          "Version": "2.0.0.0"
+          "ModID": 41998,
+          "Name": "Project Clarity - Creature Textures Redone",
+          "Version": "1.7.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Ox0PVcV4HKU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45306\nfileID=188984",
-        "Name": "Project Clarity AIO Full Res Loose Pt 2-45306-2-0-1614703420.7z",
-        "Size": 14354101601,
+        "Hash": "kTI3nRXwaok=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45135\nfileID=183361",
+        "Name": "Project Clarity - Dungeons Full Res-45135-1-0-1612196346.7z",
+        "Size": 6006393406,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Iconic",
-          "Description": "A compilation of all the Project Clarity mods",
-          "FileID": 188984,
+          "Description": "Upscaled dungeon textures",
+          "FileID": 183361,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45306/45306-1612756620-270228000.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45135/45135-1612153673-1485954791.png",
           "IsNSFW": false,
-          "ModID": 45306,
-          "Name": "Project Clarity AIO - Skyrim Textures Redone",
-          "Version": "2.0.0.0"
+          "ModID": 45135,
+          "Name": "Project Clarity - Dungeon Textures Redone",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "V/ImHl4vecI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45286\nfileID=188623",
+        "Name": "Project Clarity - Landscapes Full Res-45286-1-3-1614544737.7z",
+        "Size": 2433950828,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "Upscaled landscape and flora textures",
+          "FileID": 188623,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45286/45286-1612463302-1641055471.png",
+          "IsNSFW": false,
+          "ModID": 45286,
+          "Name": "Project Clarity - Landscape Textures Redone",
+          "Version": "1.3.0.0"
         }
       }
     },
@@ -13187,6 +13222,27 @@
           "ModID": 43532,
           "Name": "Scrambled Bugs",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "AZdJVvOj2v0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=463\nfileID=61422",
+        "Name": "SkyHUD v090B v4-463-0-90B.zip",
+        "Size": 3980107,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Fhaarkas",
+          "Description": "Toggle HUD elements on or off, scale sizes, change positions and swap elements with alternative version. Features dot crosshair, slim compass, alternate ammo display, detached compass markers and built-in support for font mods.",
+          "FileID": 61422,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/463/463-1509171654-2130223191.jpeg",
+          "IsNSFW": false,
+          "ModID": 463,
+          "Name": "SkyHUD",
+          "Version": "0.90.0.0B"
         }
       }
     },
@@ -15509,6 +15565,90 @@
           "ModID": 34177,
           "Name": "Practical Female Blades Armor",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eGdwTL2luFc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44283\nfileID=179177",
+        "Name": "Project Clarity - Architecture Full Res-44283-1-0-1610483066.7z",
+        "Size": 5118095780,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "Upscaled architecture textures",
+          "FileID": 179177,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44283/44283-1610478958-1411452358.png",
+          "IsNSFW": false,
+          "ModID": 44283,
+          "Name": "Project Clarity - Architecture Textures Redone",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "a99txGvVNIE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42859\nfileID=188728",
+        "Name": "Project Clarity - Clothing And Jewelry Full Resolution-42859-1-1-1614578276.7z",
+        "Size": 3847594060,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "High resolution AI up-scaled clothing \u0026amp; jewelry textures, for every single piece of clothing and jewelry",
+          "FileID": 188728,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42859/42859-1606613179-982611889.png",
+          "IsNSFW": false,
+          "ModID": 42859,
+          "Name": "Project Clarity - Vanilla Clothing And Jewelry Textures Redone",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Wi9G8D6NQDk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=35593\nfileID=188721",
+        "Name": "Project Clarity - Armor Full Resolution-35593-2-4-1614572149.7z",
+        "Size": 5709012803,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "High resolution AI up-scaled armor textures, for every single armor piece.",
+          "FileID": 188721,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35593/35593-1603234670-1638325438.png",
+          "IsNSFW": false,
+          "ModID": 35593,
+          "Name": "Project Clarity - Vanilla Armor Textures Redone",
+          "Version": "2.4.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vk+sYk2eZWQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=36222\nfileID=166852",
+        "Name": "Project Clarity - Weapons 4K-36222-2-0-1603559050.7z",
+        "Size": 5613508882,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "High resolution AI up-scaled weapon textures, for every single weapon.",
+          "FileID": 166852,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/36222/36222-1603556229-1137125212.png",
+          "IsNSFW": false,
+          "ModID": 36222,
+          "Name": "Project Clarity - Vanilla Weapon Textures Redone",
+          "Version": "2.0.0.0"
         }
       }
     },
