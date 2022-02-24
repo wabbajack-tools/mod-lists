@@ -1,8 +1,8 @@
 {
   "MachineURL": "keizaal",
   "Name": "Keizaal",
-  "Version": "6.2.1",
-  "ModListHash": "CU5MSC2+7kc=",
+  "Version": "6.2.1.1",
+  "ModListHash": "Jhlq/xtXBCM=",
   "Archives": [
     {
       "Status": "Valid",
@@ -5409,28 +5409,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qCj1UmX5WPc=",
-        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Tweaks/releases/download/6.1.0.1/Tweaks.zip",
-        "Name": "Keizaal Tweaks.zip",
-        "Size": 108395442,
+        "Hash": "R06oSxOtEKk=",
+        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Maintenance/releases/download/Maintenance/Keizaal-Maintenance-main.zip",
+        "Name": "Keizaal-Maintenance-main.zip",
+        "Size": 62094793,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/Keizaal/Keizaal-Tweaks/releases/download/6.1.0.1/Tweaks.zip"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "budgefqkdFE=",
-        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Maintenance/releases/download/6.1.0.1/Maintenance.zip",
-        "Name": "Keizaal Maintenance.zip",
-        "Size": 4855,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Keizaal/Keizaal-Maintenance/releases/download/6.1.0.1/Maintenance.zip"
+          "Url": "https://github.com/Keizaal/Keizaal-Maintenance/releases/download/Maintenance/Keizaal-Maintenance-main.zip"
         }
       }
     },
@@ -6275,28 +6261,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XSpeeDC2TCc=",
-        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Patch/releases/download/6.1.0.1/Patch.zip",
-        "Name": "Keizaal Patch.zip",
-        "Size": 12369665,
+        "Hash": "vS4yfmKkDWg=",
+        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Patch/releases/download/Patch/Keizaal-Patch-main.zip",
+        "Name": "Keizaal-Patch-main.zip",
+        "Size": 74944440,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/Keizaal/Keizaal-Patch/releases/download/6.1.0.1/Patch.zip"
+          "Url": "https://github.com/Keizaal/Keizaal-Patch/releases/download/Patch/Keizaal-Patch-main.zip"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BtSAgS+yjqw=",
-        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Patron-Rewards/releases/download/6.1.0.1/Keizaal-Patron-Rewards-main.zip",
-        "Name": "Keizaal-Patron-Rewards-main.zip",
-        "Size": 774400,
+        "Hash": "2uWD0rJTstQ=",
+        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Patch/releases/download/Patch/Synthesis.zip",
+        "Name": "Synthesis_Patch.zip",
+        "Size": 67993632,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/Keizaal/Keizaal-Patron-Rewards/releases/download/6.1.0.1/Keizaal-Patron-Rewards-main.zip"
+          "Url": "https://github.com/Keizaal/Keizaal-Patch/releases/download/Patch/Synthesis.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QPochiSOmbw=",
+        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Patron-Rewards/releases/download/Patron-Rewards/Keizaal-Patron-Rewards-main.zip",
+        "Name": "Keizaal-Patron-Rewards-main.zip",
+        "Size": 774411,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Keizaal/Keizaal-Patron-Rewards/releases/download/Patron-Rewards/Keizaal-Patron-Rewards-main.zip"
         }
       }
     },
@@ -6429,14 +6429,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "9rIvmoDnB1Y=",
-        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-RaceMenu-Presets/releases/download/6.1.0.1/Presets.zip",
-        "Name": "Keizaal Presets.zip",
-        "Size": 5955514,
+        "Hash": "kPqcbZrsAhM=",
+        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-RaceMenu-Presets/releases/download/Presets/Keizaal-RaceMenu-Presets-main.zip",
+        "Name": "Keizaal-RaceMenu-Presets-main.zip",
+        "Size": 6012384,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/Keizaal/Keizaal-RaceMenu-Presets/releases/download/6.1.0.1/Presets.zip"
+          "Url": "https://github.com/Keizaal/Keizaal-RaceMenu-Presets/releases/download/Presets/Keizaal-RaceMenu-Presets-main.zip"
         }
       }
     },
@@ -7191,14 +7191,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kK20z31/uAA=",
-        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Settings/releases/download/6.1.0.1/Settings.zip",
-        "Name": "Keizaal Settings.zip",
-        "Size": 238743,
+        "Hash": "AtgSi5QmW7A=",
+        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Settings/releases/download/Settings/Keizaal-Settings-main.zip",
+        "Name": "Keizaal-Settings-main.zip",
+        "Size": 274300,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/Keizaal/Keizaal-Settings/releases/download/6.1.0.1/Settings.zip"
+          "Url": "https://github.com/Keizaal/Keizaal-Settings/releases/download/Settings/Keizaal-Settings-main.zip"
         }
       }
     },
@@ -8514,6 +8514,20 @@
           "ModID": 63623,
           "Name": "Turn of the Seasons",
           "Version": "1.0.5.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "52BpaOcl1vA=",
+        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Tweaks/releases/download/Tweaks/Keizaal-Tweaks-main.zip",
+        "Name": "Keizaal-Tweaks-main.zip",
+        "Size": 99792078,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Keizaal/Keizaal-Tweaks/releases/download/Tweaks/Keizaal-Tweaks-main.zip"
         }
       }
     },
@@ -9983,21 +9997,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PX3/3QvNg+g=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=52897\nfileID=263099",
-        "Name": "DynDOLOD Resources SE 3.00-52897-Alpha-20-1644501196.7z",
-        "Size": 64389004,
+        "Hash": "AozhE4ZjLdI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=52897\nfileID=266047",
+        "Name": "DynDOLOD Resources SE 3.00-52897-Alpha-21-1645519995.7z",
+        "Size": 64470184,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sheson",
           "Description": "DynDOLOD Resources SE 3 required by DynDOLOD 3 for drastically improved tree and object LOD generation.",
-          "FileID": 263099,
+          "FileID": 266047,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/52897/108514-1627373276-1783344232.jpeg",
           "IsNSFW": false,
           "ModID": 52897,
           "Name": "DynDOLOD Resources SE 3",
-          "Version": "Alpha-20"
+          "Version": "Alpha-21"
         }
       }
     },
@@ -10130,19 +10144,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "szhIl/WYizc=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/HD Bethesda Logo Replacer - Keizaal Cut-55744-1-0-1633715702.zip_d5cd3b6f-c8b6-4398-b24c-a39d7aab25e7",
-        "Name": "HD Bethesda Logo Replacer - Keizaal Cut-55744-1-0-1633715702.zip",
-        "Size": 50040262,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/HD%20Bethesda%20Logo%20Replacer%20-%20Keizaal%20Cut-55744-1-0-1633715702.zip_d5cd3b6f-c8b6-4398-b24c-a39d7aab25e7"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "dQoFyDSNaj0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=53643\nfileID=220379",
         "Name": "High Gate Ruins Puzzle Reset Fix-53643-0-2-1628676419.7z",
@@ -10164,21 +10165,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "p9tVmLXtCl0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=62001\nfileID=265613",
-        "Name": "Immersive Equipment Displays-62001-1-3-1-1645352270.zip",
-        "Size": 1515336,
+        "Hash": "qIb90nRFRpM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62001\nfileID=266002",
+        "Name": "Immersive Equipment Displays-62001-1-3-2-1645483225.zip",
+        "Size": 1518919,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SlavicPotato",
           "Description": "Display unequipped gear and custom items on the player or NPCs. Works with any item with no additional meshes required. Does not use body slots. SKSE64 plugin. Custom in-game user interface for configuring everything in real-time while you\u0027re playing. Includes a flexible positioning system for both equipped and unequipped gear.",
-          "FileID": 265613,
+          "FileID": 266002,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62001/62001-1642274191-1583063063.png",
           "IsNSFW": false,
           "ModID": 62001,
           "Name": "Immersive Equipment Displays",
-          "Version": "1.3.1.0"
+          "Version": "1.3.2.0"
         }
       }
     },
@@ -10620,27 +10621,6 @@
           "ModID": 43532,
           "Name": "Scrambled Bugs",
           "Version": "14.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "/hY9Pjq2QOQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=63460\nfileID=263542",
-        "Name": "Simple Horse - MCM Helper-63460-1-0-1644648581.zip",
-        "Size": 5356,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mjh9476",
-          "Description": "It enables the game to share user settings of \u0022Simple Horse\u0022 among game saves.",
-          "FileID": 263542,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/63460/63460-1644648356-106570500.png",
-          "IsNSFW": false,
-          "ModID": 63460,
-          "Name": "Simple Horse - MCM Helper",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -13228,6 +13208,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "aBU3l7DjaTI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=64124\nfileID=266393",
+        "Name": "Screenshot Helper-64124-1-1-0-1645661820.zip",
+        "Size": 282960,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "doodlez",
+          "Description": "SKSE plugin which sorts your screenshots by saving them into separate folders for each of your characters, with information about the location they were taken as well as the time and date.",
+          "FileID": 266393,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64124/64124-1645627960-699760108.png",
+          "IsNSFW": false,
+          "ModID": 64124,
+          "Name": "Screenshot Helper",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "AZdJVvOj2v0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=463\nfileID=61422",
         "Name": "SkyHUD v090B v4-463-0-90B.zip",
@@ -13249,105 +13250,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Lu2qAMaEvw0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42161\nfileID=173957",
-        "Name": "Grass Control v6-42161-6-1607532895.zip",
-        "Size": 60674,
+        "Hash": "fFSCBVmizww=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=51073\nfileID=215916",
+        "Name": "INI file-51073-1-2-1626933536.7z",
+        "Size": 1588,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "meh321",
-          "Description": "Stops grass from growing out of rocks, floorboards, bedrolls, crates, roads and other objects. Also allows drawing grass outside of loaded cells.",
-          "FileID": 173957,
+          "Author": "powerofthree",
+          "Description": "Collection of engine bug fixes and tweaks. SKSE plugin.",
+          "FileID": 215916,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42161/42161-1604867051-1379334159.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51073/51073-1623688700-1006153578.png",
           "IsNSFW": false,
-          "ModID": 42161,
-          "Name": "No Grass In Objects",
-          "Version": "6.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cctlPlawx6U=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59790\nfileID=248786",
-        "Name": "Hand to Hand - An Adamant Addon-59790-1-0-1-1639405182.7z",
-        "Size": 534455,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Simon Magus - Colinswrath - Jelidity",
-          "Description": "Hand to Hand is an addon for Adamant - A Perk Overhaul that merges Lockpicking and Pickpocketing into a single skill and adds a new perk tree for Hand to Hand combat.",
-          "FileID": 248786,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59790/59790-1639082548-714006488.png",
-          "IsNSFW": false,
-          "ModID": 59790,
-          "Name": "Hand to Hand - An Adamant Addon",
-          "Version": "1.0.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "74/yoRp9KM0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58927\nfileID=260265",
-        "Name": "Simple Block Sparks - v0.31 SE-58927-v0-31-1643453449.7z",
-        "Size": 100259,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Maxsu",
-          "Description": "SKSE plugin that spawns sparks effect on weapon/shield while block attack, visual effect only.",
-          "FileID": 260265,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58927/58927-1637659645-1360601301.png",
-          "IsNSFW": false,
-          "ModID": 58927,
-          "Name": "Simple Block Sparks- Script Free",
-          "Version": "0.31.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ej3oqTAolmo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44726\nfileID=235861",
-        "Name": "Simple Weapon Swing Parry - SSE -v1.10-44726-v1-10-1634645187.7z",
-        "Size": 92389,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Maxsu",
-          "Description": "A SKSE Plugin that adds a weapon swinging parry effect similar to \u0022Action Combat\u0022.",
-          "FileID": 235861,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44726/44726-1611420679-981141744.png",
-          "IsNSFW": false,
-          "ModID": 44726,
-          "Name": "Simple Weapon Swing Parry - Scripts Free - SSE",
-          "Version": "1.10.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "xMuSPPQhgII=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=35366\nfileID=204679",
-        "Name": "CHADD Uncapper Keizaal Cut-35366-2-10-1621568137.zip",
-        "Size": 3415,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Cheshyr",
-          "Description": "Collection of Uncapper Presets. Balanced progression across skills, freedom to pursue noncombat skills, dynamic 1-50 advancement experience. Engaging high-level growth.",
-          "FileID": 204679,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35366/35366-1610936727-1910952051.png",
-          "IsNSFW": false,
-          "ModID": 35366,
-          "Name": "CHADD Uncapper Preset Library",
-          "Version": "2.10.0.0"
+          "ModID": 51073,
+          "Name": "powerofthree\u0027s Tweaks",
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -13375,6 +13292,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "74/yoRp9KM0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58927\nfileID=260265",
+        "Name": "Simple Block Sparks - v0.31 SE-58927-v0-31-1643453449.7z",
+        "Size": 100259,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Maxsu",
+          "Description": "SKSE plugin that spawns sparks effect on weapon/shield while block attack, visual effect only.",
+          "FileID": 260265,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58927/58927-1637659645-1360601301.png",
+          "IsNSFW": false,
+          "ModID": 58927,
+          "Name": "Simple Block Sparks- Script Free",
+          "Version": "0.31.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "0Y1AROw3k8c=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=50049\nfileID=257742",
         "Name": "Simple Dual Sheath-50049-1-5-2-1642538272.zip",
@@ -13390,6 +13328,27 @@
           "ModID": 50049,
           "Name": "Simple Dual Sheath",
           "Version": "1.5.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ej3oqTAolmo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44726\nfileID=235861",
+        "Name": "Simple Weapon Swing Parry - SSE -v1.10-44726-v1-10-1634645187.7z",
+        "Size": 92389,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Maxsu",
+          "Description": "A SKSE Plugin that adds a weapon swinging parry effect similar to \u0022Action Combat\u0022.",
+          "FileID": 235861,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44726/44726-1611420679-981141744.png",
+          "IsNSFW": false,
+          "ModID": 44726,
+          "Name": "Simple Weapon Swing Parry - Scripts Free - SSE",
+          "Version": "1.10.0.0"
         }
       }
     },
@@ -14844,6 +14803,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "UUcBdtm04U8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=28181\nfileID=102721",
+        "Name": "HD Reworked Armors - Iron-28181-1-0-1565555998.7z",
+        "Size": 109539162,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Halk Hogan PL",
+          "Description": "100% vanilla friendly 4K/2K HD Reworked Armors - Iron for Skyrim SE.",
+          "FileID": 102721,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28181/28181-1565554518-1929954137.jpeg",
+          "IsNSFW": false,
+          "ModID": 28181,
+          "Name": "HD Reworked Armors - Iron",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "YY3bz8xghy0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=55254\nfileID=227266",
         "Name": "High Hrothgar Fixed-55254-1-02-1631218321.7z",
@@ -16048,6 +16028,27 @@
           "ModID": 38454,
           "Name": "Scathecraw HD 2K",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "u13dBSfTrkI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=63475\nfileID=263584",
+        "Name": "Seasons of Skyrim SMIM Patch-63475-0-1-1644674395.7z",
+        "Size": 76434,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wankingSkeever",
+          "Description": "Patches a broken rock when using Seasons of Skyrim SKSE and Static Mesh Improvement Mod (SMIM)",
+          "FileID": 263584,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/63475/63475-1644674228-1017297000.gif",
+          "IsNSFW": false,
+          "ModID": 63475,
+          "Name": "Seasons of Skyrim SMIM Patch",
+          "Version": "0.1.0.0"
         }
       }
     },
@@ -18243,6 +18244,27 @@
           "ModID": 35978,
           "Name": "Animated Armoury - DAR Version - New Weapons with animations",
           "Version": "2.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2+MDW25u/AE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=34739\nfileID=266211",
+        "Name": "Unofficial Material Fix-34739-1-2-1645575381.7z",
+        "Size": 42305,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "cunny1975",
+          "Description": "A simple retexture of the secret entrance and moon dials found in Castle Volkihar Garden. Now has optional ebony variant.",
+          "FileID": 266211,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34739/34739-1586869716-1452193813.png",
+          "IsNSFW": false,
+          "ModID": 34739,
+          "Name": "Better Volkihar Secret Entrance",
+          "Version": "1.2.0.0"
         }
       }
     },
