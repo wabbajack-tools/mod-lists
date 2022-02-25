@@ -2,7 +2,7 @@
   "MachineURL": "elysium",
   "Name": "Elysium Remastered",
   "Version": "1.1.1",
-  "ModListHash": "uWzLSefATQA=",
+  "ModListHash": "8ORnb6eK8xg=",
   "Archives": [
     {
       "Status": "Valid",
@@ -18113,21 +18113,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "NqzIe4bsGdI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=51614\nfileID=266439",
-        "Name": "True Directional Movement (SE)-51614-2-1-0-1645684889.7z",
-        "Size": 1204921,
+        "Hash": "mbZEcfRpVvo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=51614\nfileID=266575",
+        "Name": "True Directional Movement (SE)-51614-2-1-1-1645741516.7z",
+        "Size": 1205502,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ersh",
           "Description": "Overhauls the third person gameplay similarly to modern action RPGs, entirely through SKSE. Move and attack in any direction. Includes a custom target lock component and animated healthbar widget, target headtracking, projectile aim support during target lock, boss bars, mount support and more! Modular and customizable through MCM.",
-          "FileID": 266439,
+          "FileID": 266575,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51614/51614-1627839075-1842122342.gif",
           "IsNSFW": false,
           "ModID": 51614,
           "Name": "True Directional Movement - Modernized Third Person Gameplay",
-          "Version": "2.1.0.0"
+          "Version": "2.1.1.0"
         }
       }
     },
@@ -18170,6 +18170,27 @@
           "ModID": 25628,
           "Name": "True Hunter - fewer animals per square meter",
           "Version": "4.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EPXH8M8K+ss=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62775\nfileID=265266",
+        "Name": "TrueHUD (SE)-62775-1-0-3-1645245823.7z",
+        "Size": 269729,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ersh",
+          "Description": "HUD additions formerly included in True Directional Movement, completely reworked and improved! Very customizable actor info bars, boss bars, player widget and an API for other plugins to use. Modular and customizable through MCM.",
+          "FileID": 265266,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62775/62775-1643737629-1125862080.png",
+          "IsNSFW": false,
+          "ModID": 62775,
+          "Name": "TrueHUD - HUD Additions",
+          "Version": "1.0.3.0"
         }
       }
     },
