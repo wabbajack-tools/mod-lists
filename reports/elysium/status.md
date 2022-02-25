@@ -601,7 +601,7 @@
 *  [Elysium Remastered - Texgen Output - Performance Mode.7z](https://authored-files.wabbajack.org/Elysium Remastered - Texgen Output - Performance Mode.7z_31a722fc-88bc-43b8-91d5-22e90583376f)
 *  [Elysium Remastered - Texgen Output.7z](https://authored-files.wabbajack.org/Elysium Remastered - Texgen Output.7z_06625f8e-281b-4e80-9777-1fe6c44dc9f1)
 *  [Embers and Fire Combo Patch (Inferno)-42174-1-0-1604916175.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42174/?tab=files&file_id=169274)
-*  [Embers XD-37085-2-5-3-1645348265.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37085/?tab=files&file_id=265597)
+*  [Embers XD-37085-2-5-4-1645802732.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37085/?tab=files&file_id=266676)
 *  [Emissive Eyes - Cannibal Draugr-60774-1-1-1644463211.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60774/?tab=files&file_id=263018)
 *  [Emissive Eyes - Draugr Upgrades and Improvements-60774-1-1-1644463238.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60774/?tab=files&file_id=263019)
 *  [EMPEROR - Giant Crab Overhaul-58612-1-1-1637652768.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58612/?tab=files&file_id=243653)
