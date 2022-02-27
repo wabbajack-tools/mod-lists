@@ -1,8 +1,8 @@
 {
   "MachineURL": "tbv",
   "Name": "The Bustling Valley",
-  "Version": "0.4.3",
-  "ModListHash": "uSEq/Douuls=",
+  "Version": "0.4.4",
+  "ModListHash": "ezTIzBm56j8=",
   "Archives": [
     {
       "Status": "Valid",
@@ -141,6 +141,20 @@
           "ModID": 7286,
           "Name": "Ridgeside Village",
           "Version": "2.0.5.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "r5EMlnPezJs=",
+        "Meta": "[General]\ndirectURL=https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.4.3.3.zip",
+        "Name": "rootbuilder.4.3.3.zip",
+        "Size": 767949,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.4.3.3.zip"
         }
       }
     },
@@ -3172,6 +3186,27 @@
           "ModID": 963,
           "Name": "Skull Cavern Elevator",
           "Version": "1.4.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MjAzikgIeqE=",
+        "Meta": "[General]\ngameName=\nmodID=2400\nfileID=49497",
+        "Name": "SMAPI 3.13.4-2400-3-13-4-1642395981.zip",
+        "Size": 42024591,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "",
+          "Description": "",
+          "FileID": 49497,
+          "GameName": "StardewValley",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 2400,
+          "Name": "",
+          "Version": "3.13.4.0"
         }
       }
     },
