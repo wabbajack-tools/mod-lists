@@ -147,9 +147,9 @@ _**What awaits you:**_
 - And much more.
 
 _**Some of the juiciest additions for you to learn about:**_
-- [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543), [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961), [Cathedral 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312) 
-- [JPSteel2](https://www.nexusmods.com/skyrimspecialedition/users/19519279?tab=user+files)'s, [JK](https://www.nexusmods.com/skyrimspecialedition/users/1305814?tab=user+files)'s and [soldierofwar](https://www.nexusmods.com/skyrimspecialedition/users/10182460?tab=user+files)'s Skyrim overhauls
-- [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194)
+- [Culminated ENB](https://www.nexusmods.com/skyrimspecialedition/mods/53167), [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961), [Cathedral 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312);
+- [JPSteel2](https://www.nexusmods.com/skyrimspecialedition/users/19519279?tab=user+files)'s, [JK](https://www.nexusmods.com/skyrimspecialedition/users/1305814?tab=user+files)'s and [soldierofwar](https://www.nexusmods.com/skyrimspecialedition/users/10182460?tab=user+files)'s Skyrim overhauls;
+- [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194).
 
 ***
 
