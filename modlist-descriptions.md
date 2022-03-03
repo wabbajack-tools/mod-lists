@@ -287,13 +287,15 @@ A complete overhaul of Skyrim, Tranquility is a modlist aimed at people wanting 
 
 ### [(NSFW)Licentia(NSFW)](https://www.wabbajack.org/#/modlists/info?machineURL=Licentia)
 
-A lightweight power fantasy list accessible to any level of gamer. Sexy without rubbing your nose in it. Imagine if Skyrim was prestige TV with excessive violence, boobs and sex scenes. Emphasizes questing and build diversity over collectibles and micromanagement.
+A kitchen-sink power fantasy list with tough enemies and an even tougher Dragonborn. Sexy without rubbing your nose in it. Legacy of the Dragonborn, full Creation Club required, piles of mobs packing every surface and loot and artifacts stashed in every corner. Way more ridiculous stuff than you'd ever find the time for.
 
 **_Mods to get familiar with_**
 
+- [Skyrim Anniversary Edition with all Creation Club Content]
+- [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)
 - [Combat Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33767)
 - [Vokriinator - Choice Cuts](https://www.nexusmods.com/skyrimspecialedition/mods/26702)
-- [Bob's Interdimensional Chambers](https://www.nexusmods.com/skyrimspecialedition/search/)
+- [OStim - OSex Overhaul & API](https://www.nexusmods.com/skyrimspecialedition/mods/40725)
 
 ### [(NSFW)Tsukiro(NSFW)](https://www.wabbajack.org/#/modlists/info?machineURL=tsukiro)
 
