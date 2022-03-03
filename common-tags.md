@@ -34,4 +34,8 @@ Hardcore
 
 Performance
 
+Vokriinator
+
+Power Fantasy
+
 
