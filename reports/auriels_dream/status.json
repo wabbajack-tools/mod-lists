@@ -1,8 +1,8 @@
 {
   "MachineURL": "auriels_dream",
   "Name": "Auriels Dream",
-  "Version": "10.0.0",
-  "ModListHash": "jPycoasbIRU=",
+  "Version": "10.0.1",
+  "ModListHash": "pzqVEWGe/P8=",
   "Archives": [
     {
       "Status": "Valid",
@@ -11109,21 +11109,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "2DMPIABHiho=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58296\nfileID=266293",
-        "Name": "Papyrus Extender VR-58296-4-5-7-1645607041.7z",
-        "Size": 5923614,
+        "Hash": "M2gmT6A7EDk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58296\nfileID=244708",
+        "Name": "Papyrus Extender VR-58296-4-5-5-1637981897.7z",
+        "Size": 5458487,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "alandtse",
           "Description": "SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3\u0027s source.",
-          "FileID": 266293,
+          "FileID": 244708,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58296/58296-1636705803-963961914.png",
           "IsNSFW": false,
           "ModID": 58296,
           "Name": "Papyrus Extender VR",
-          "Version": "4.5.7.0"
+          "Version": "4.5.5.0"
         }
       }
     },
@@ -11145,27 +11145,6 @@
           "ModID": 9965,
           "Name": "Pottery Recolor-The Third Set-SSE",
           "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "uAAIrhMGm7g=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59510\nfileID=259178",
-        "Name": "powerofthree\u0027s Tweaks VR-59510-1-5-0-2-1643014375.7z",
-        "Size": 3586424,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "alandtse",
-          "Description": "Collection of engine bug fixes and tweaks. SKSEVR plugin. Built from po3\u0027s source.",
-          "FileID": 259178,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59510/59510-1638616256-1374153815.png",
-          "IsNSFW": false,
-          "ModID": 59510,
-          "Name": "powerofthree\u0027s Tweaks VR",
-          "Version": "1.5.0.2"
         }
       }
     },
@@ -16627,6 +16606,22 @@
           "ModID": 1897,
           "Name": "True 3D Sound for Headphones",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kYVBvzzlhfE=",
+        "Meta": "[General]\ngameName=Skyrim VR\ngameFile=openvr_api.dll",
+        "Name": "openvr_api.dll",
+        "Size": 598816,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "openvr_api.dll",
+          "GameVersion": "1.4.15.0",
+          "Hash": "kYVBvzzlhfE="
         }
       }
     },

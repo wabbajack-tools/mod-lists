@@ -1,8 +1,8 @@
 {
   "MachineURL": "diabolist_vr",
   "Name": "Diabolist VR",
-  "Version": "2.9.8",
-  "ModListHash": "TEtW7inXZcI=",
+  "Version": "2.9.9",
+  "ModListHash": "DRk5R+4PUNk=",
   "Archives": [
     {
       "Status": "Valid",
@@ -78,6 +78,43 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "http://skse.silverlock.org/beta/sksevr_2_00_12.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JbYP1w8FSfY=",
+        "Meta": "[General]\ngameName=Skyrim VR\ngameFile=Skyrim.ini",
+        "Name": "Skyrim.ini",
+        "Size": 1859,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "Skyrim.ini",
+          "GameVersion": "1.4.15.0",
+          "Hash": "JbYP1w8FSfY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1IRyl4bMY8E=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=26916\nfileID=265471",
+        "Name": "Binaural 3D Surround Sound for SKYRIM VR-26916-2-4-1645308060.7z",
+        "Size": 1203602,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kosumosu",
+          "Description": "This mod uses algorithms that can simulate HRTF, allowing for full 3D surround sound with just a normal pair of earphones or headphones. For 1st person use.",
+          "FileID": 265471,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26916/26916-1561417870-1115985147.png",
+          "IsNSFW": false,
+          "ModID": 26916,
+          "Name": "Binaural 3D Surround Sound for Headphones - HRTF",
+          "Version": "2.4.0.0"
         }
       }
     },
@@ -2700,6 +2737,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Q26vlt1tdVw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=3532\nfileID=232088",
+        "Name": "Frozen Electrocuted Combustion - 4.9.6-3532-4-9-6-1633188907.7z",
+        "Size": 89236062,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects.",
+          "FileID": 232088,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/78709-0-1473783976.png",
+          "IsNSFW": false,
+          "ModID": 3532,
+          "Name": "Frozen Electrocuted Combustion",
+          "Version": "4.9.6.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "8aQzqf9GuxU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=36552\nfileID=142368",
         "Name": "ghouls sse-36552-1-1590605949.rar",
@@ -4968,6 +5026,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "BpQQn5+oncg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=16310\nfileID=222330",
+        "Name": "Realistic Skin Shaders- Falmer and Hagraven-16310-1-05-1629413744.7z",
+        "Size": 7585710,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "Enables realistic skin shaders for Falmer and Hagravens, with subsurface scattering, eye reflections and anisotropic hair highlights. Also adds environmental mapping to Falmer armor, and a high poly emerald circlet for female Falmer.",
+          "FileID": 222330,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/16310/90565-1522974361-1935256865.png",
+          "IsNSFW": false,
+          "ModID": 16310,
+          "Name": "Realistic Skin Shaders - Falmer and Hagravens",
+          "Version": "f1.05"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "fgf+v7Xd30o=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=26\nfileID=32599",
         "Name": "Rebalanced Leveled Lists 2.0-26-2-0.rar",
@@ -6297,6 +6376,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "UslnW/hBchg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=63663\nfileID=264674",
+        "Name": "Arctals VRIK Tweaks - Merged-63663-1-1-1645050277.7z",
+        "Size": 43063,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Arctal",
+          "Description": "Fixes some pet peeves of mine with the VRIK mod. Currently including gesture system improvements, changes to ragdolling during knockback/death and a near-clip-distance bug fix.",
+          "FileID": 264674,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/63663/63663-1644922652-422123967.png",
+          "IsNSFW": false,
+          "ModID": 63663,
+          "Name": "Arctal\u0027s VRIK Tweaks",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "fnfd4HcCEm0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=23416\nfileID=211578",
         "Name": "VRIK V0.8.1 Test Build 28-23416-V0-8-1-Test-Build-28-1624911793.7z",
@@ -6381,21 +6481,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SS5D16Cpyoc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=38539\nfileID=240876",
-        "Name": "VR Arsenal V5.1-38539-V5-1-1636753508.rar",
-        "Size": 436429584,
+        "Hash": "VxQrSdSJLAY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=38539\nfileID=262957",
+        "Name": "VR Arsenal V6.1-38539-V6-1-1644435902.rar",
+        "Size": 640034397,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mango Pirate",
           "Description": "A Collection of custom weapons built for Skyrim VR and enhanced combat mechanic mods like Weapon Throw VR. The package aims to improve on the variety of weapons in the world of Skyrim to add a bit of flavour to combat in a lore friendly way.",
-          "FileID": 240876,
+          "FileID": 262957,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38539/38539-1637186225-1977125189.png",
           "IsNSFW": false,
           "ModID": 38539,
           "Name": "VR Arsenal",
-          "Version": "0.0.0.0"
+          "Version": "6.1.0.0"
         }
       }
     },
@@ -6780,21 +6880,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "JeDlvM0xXOM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=21224\nfileID=256395",
-        "Name": "CBPC - Fomod installer - MAIN FILE-21224-1-4-17-1642089686.rar",
-        "Size": 42064277,
+        "Hash": "NmXSMusTTg8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=21224\nfileID=264625",
+        "Name": "CBPC - Fomod installer - MAIN FILE-21224-1-4-18-1645033881.rar",
+        "Size": 42056970,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Shizof",
           "Description": "CBPC - Physics with Collisions for SSE and VR. \n\nBreast-Butt-Belly-Vagina collisions that work out of the box. Player VR Hands and Weapons collisions with them for the VR version.",
-          "FileID": 256395,
+          "FileID": 264625,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21224/21224-1542146879-1527686583.jpeg",
           "IsNSFW": true,
           "ModID": 21224,
           "Name": "CBPC - Physics with Collisions for SSE and VR",
-          "Version": "1.4.17.0"
+          "Version": "1.4.18.0"
         }
       }
     },
@@ -8781,42 +8881,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BZmk4p5QrxA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=60363\nfileID=260439",
-        "Name": "XPMSSE - Nemesis - Script Fix-60363-4-8-2-1643537760.7z",
-        "Size": 23369,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Tommas666",
-          "Description": "Fixes XPMSSE script where it can\u0027t find the correct animation groups causing Papyrus Stack errors, when using Nemesis.",
-          "FileID": 260439,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60363/60363-1639931203-351687902.png",
-          "IsNSFW": false,
-          "ModID": 60363,
-          "Name": "XPMSSE - Nemesis - Papyrus Stack Fix",
-          "Version": "4.8.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Jzi27mO4yEg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=22854\nfileID=190489",
-        "Name": "Papyrus Extender VR - 4.3-22854-4-3-1615320224.7z",
-        "Size": 215617,
+        "Hash": "MqLpcTSmSUE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=22854\nfileID=256023",
+        "Name": "Papyrus Extender SE-22854-4-5-6-1641945168.7z",
+        "Size": 507593,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
           "Description": "SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.",
-          "FileID": 190489,
+          "FileID": 256023,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22854/95017-1548256254-1238854123.png",
           "IsNSFW": false,
           "ModID": 22854,
           "Name": "powerofthree\u0027s Papyrus Extender",
-          "Version": "0.0.0.0"
+          "Version": "4.5.6.0"
         }
       }
     },
@@ -8901,6 +8980,27 @@
           "ModID": 27782,
           "Name": "Skyrim VR Tools",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Fm0dbj9gxoQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60363\nfileID=266615",
+        "Name": "XPMSSE - Nemesis - Script Fix - SE-60363-4-8-4-1645765745.7z",
+        "Size": 41047,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tommas666",
+          "Description": "Fixes XPMSSE script where it can\u0027t find the correct animation groups causing Papyrus Stack errors, when using Nemesis.",
+          "FileID": 266615,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60363/60363-1639931203-351687902.png",
+          "IsNSFW": false,
+          "ModID": 60363,
+          "Name": "XPMSSE - Nemesis - Papyrus Stack Fix",
+          "Version": "4.8.4.0"
         }
       }
     },
@@ -9012,21 +9112,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5TZTko2azms=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58101\nfileID=260671",
-        "Name": "VR Address Library-58101-0-24-0-1643617804.7z",
-        "Size": 23650,
+        "Hash": "PcEvxEXm2qU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58101\nfileID=265571",
+        "Name": "VR Address Library-58101-0-29-0-1645342193.7z",
+        "Size": 23890,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "alandtse",
           "Description": "VR Address Library database for end users. This is intended as a VR replacement for Address Library for SKSE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha.\n\n\n\nThis is not for SSE. This is different from Address Library for SKSE.",
-          "FileID": 260671,
+          "FileID": 265571,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58101/58101-1636346500-1172135015.png",
           "IsNSFW": false,
           "ModID": 58101,
           "Name": "VR Address Library for SKSEVR",
-          "Version": "0.24.0.0"
+          "Version": "0.29.0.0"
         }
       }
     },
@@ -9693,6 +9793,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "yTeAW4SJQrA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59118\nfileID=244711",
+        "Name": "FEC-59118-4-9-6-1637982723.7z",
+        "Size": 3175660,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "alandtse",
+          "Description": "Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects. VR version that requires original FEC to run.",
+          "FileID": 244711,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59118/59118-1637980244-625547496.png",
+          "IsNSFW": false,
+          "ModID": 59118,
+          "Name": "Frozen Electrocuted Combustion VR",
+          "Version": "4.9.6.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "umm8NeZoXaE=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=4294\nfileID=9441",
         "Name": "Gemling Queen Jewelry SE-4294-4-1SE.7z",
@@ -10044,6 +10165,27 @@
           "ModID": 1188,
           "Name": "More Subtle Nirnroot",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Ujt+jZIbcbc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58296\nfileID=258605",
+        "Name": "Papyrus Extender VR-58296-4-5-6-1642840073.7z",
+        "Size": 6010395,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "alandtse",
+          "Description": "SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3\u0027s source.",
+          "FileID": 258605,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58296/58296-1636705803-963961914.png",
+          "IsNSFW": false,
+          "ModID": 58296,
+          "Name": "Papyrus Extender VR",
+          "Version": "4.5.6.0"
         }
       }
     },
@@ -10674,6 +10816,27 @@
           "ModID": 59333,
           "Name": "Water in Wash Basins - Mesh-only Replacer",
           "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SS5D16Cpyoc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=38539\nfileID=240876",
+        "Name": "VR Arsenal V5.1-38539-V5-1-1636753508.rar",
+        "Size": 436429584,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mango Pirate",
+          "Description": "A Collection of custom weapons built for Skyrim VR and enhanced combat mechanic mods like Weapon Throw VR. The package aims to improve on the variety of weapons in the world of Skyrim to add a bit of flavour to combat in a lore friendly way.",
+          "FileID": 240876,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38539/38539-1637186225-1977125189.png",
+          "IsNSFW": false,
+          "ModID": 38539,
+          "Name": "VR Arsenal",
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -11652,6 +11815,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "2WNnMJvR7po=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=34656\nfileID=265479",
+        "Name": "Misc. SMIM Fixes-34656-1-3-1645311303.7z",
+        "Size": 1560394,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Briraka",
+          "Description": "A couple of small fixes for Brumbek\u0027s amazing Static Mesh Improvement Mod.",
+          "FileID": 265479,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34656/34656-1586701590-1420372639.png",
+          "IsNSFW": false,
+          "ModID": 34656,
+          "Name": "Misc. SMIM Fixes",
+          "Version": "1.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "I5D2Z8uLYU4=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=36656\nfileID=142895",
         "Name": "Vanilla And Morning Fogs SSE - Easy Seam Fixer-36656-v1-1-1590868673.zip",
@@ -11793,6 +11977,27 @@
           "ModID": 23611,
           "Name": "Real 3D Walls",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UKGYLg66NxI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=15511\nfileID=54950",
+        "Name": "Realistic Skin and Hair Shaders - Giants-15511-v1-1.7z",
+        "Size": 2066354,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "Enables subsurface scattering for skin, realistic reflections for eyes, and anisotropic lighting on hair, on giants.",
+          "FileID": 54950,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/15511/89852-1519676676-84837775.png",
+          "IsNSFW": false,
+          "ModID": 15511,
+          "Name": "Realistic Skin And Hair Shaders - Giants",
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -12240,6 +12445,27 @@
           "ModID": 23775,
           "Name": "Vampire Lord Retexture",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+XaEIHqRTek=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=61016\nfileID=252802",
+        "Name": "Venoms Alternate Vanilla Bindings-61016-1-0-1640932291.rar",
+        "Size": 3437,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TeH_Venom",
+          "Description": "These bindings move a few things around for the sake of having free analogue buttons to use with VRIK bindings, and clearing up the grip buttons so that you can actually grip and interact with things with your hands... you know, like a VR game.\n\nThis sacrifices the favorites button, i recommend using a mod like Spell Wheel VR as an alternative.",
+          "FileID": 252802,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61016/61016-1640992121-938795530.png",
+          "IsNSFW": false,
+          "ModID": 61016,
+          "Name": "Alternate Oculus Vanilla Bindings - VR",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -12766,27 +12992,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "pZXa0QWC0O0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=34656\nfileID=204378",
-        "Name": "Misc. SMIM Fixes-34656-1-2-1621451658.7z",
-        "Size": 986054,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Briraka",
-          "Description": "A couple of small fixes for Brumbek\u0027s amazing Static Mesh Improvement Mod.",
-          "FileID": 204378,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34656/34656-1586701590-1420372639.png",
-          "IsNSFW": false,
-          "ModID": 34656,
-          "Name": "Misc. SMIM Fixes",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "hoDq6UUJAW0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=2317\nfileID=15326",
         "Name": "Stupid Dog 3.0-2317-3-0.rar",
@@ -12997,6 +13202,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "QiwG3H5EV1Y=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=131\nfileID=168547",
+        "Name": "Quieter Zombies esp-131-4-6-1-1604481158.rar",
+        "Size": 120164,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AncientKane",
+          "Description": "Underground dungeon system",
+          "FileID": 168547,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/131/131-1518740367-18581503.jpeg",
+          "IsNSFW": false,
+          "ModID": 131,
+          "Name": "Skyrim Underground SSE",
+          "Version": "4.6.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "5k0A47v6thw=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=41772\nfileID=218834",
         "Name": "SNS HDT Patch-41772-1-0-1628106274.7z",
@@ -13180,6 +13406,27 @@
           "ModID": 21632,
           "Name": "Foxes No Breath Sound SE",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3/NIuZvbHxs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59118\nfileID=259197",
+        "Name": "Shock Exploded Mesh Fix-59118-4-9-6-1643018915.7z",
+        "Size": 551350,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "alandtse",
+          "Description": "Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects. VR version that requires original FEC to run.",
+          "FileID": 259197,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59118/59118-1637980244-625547496.png",
+          "IsNSFW": false,
+          "ModID": 59118,
+          "Name": "Frozen Electrocuted Combustion VR",
+          "Version": "4.9.6.0"
         }
       }
     },
