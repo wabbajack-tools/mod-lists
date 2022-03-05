@@ -2,7 +2,7 @@
   "MachineURL": "elysium",
   "Name": "Elysium Remastered",
   "Version": "1.2.2",
-  "ModListHash": "fKHurx2McfQ=",
+  "ModListHash": "rpSyLpDpMLM=",
   "Archives": [
     {
       "Status": "Valid",
@@ -12964,20 +12964,21 @@
       "Status": "Valid",
       "Original": {
         "Hash": "p9AtTVCy7q4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=55653\nfileID=228648",
-        "Name": "Nether\u0027s Follower Framework - Universal Installer (LE or SSE)-55653-2-7-9-1631753067.zip",
+        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=6188\nips4File=Nethers_Follower_Framework_UNI_2_7_9.zip",
+        "Name": "Nethers_Follower_Framework_UNI_2_7_9.zip",
         "Size": 9181316,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
+          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
           "Author": "Netherworks",
-          "Description": "Nether\u0027s Follower Framework is a multi-follower system that is light on game resources and allows for up to 10 companions at one time. It provides a wealth of additional features, including immersion and quality-of-life functions to allow you to adventure with a small team of characters.",
-          "FileID": 228648,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55653/109150-1631751354-1152366051.jpeg",
-          "IsNSFW": false,
-          "ModID": 55653,
+          "Description": "",
+          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2021_07/NFF_main.jpeg.93f4b0f1af752155a13bd2e95d5db8b4.jpeg",
+          "IPS4File": "Nethers_Follower_Framework_UNI_2_7_9.zip",
+          "IPS4Mod": 6188,
+          "IPS4Url": "https://www.loverslab.com/files/file/6188-nethers-follower-framework/",
+          "IsAttachment": false,
+          "IsNSFW": true,
           "Name": "Nether\u0027s Follower Framework",
-          "Version": "2.7.9.0"
+          "Version": "2.7.9"
         }
       }
     },
