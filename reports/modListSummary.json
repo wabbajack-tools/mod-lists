@@ -350,14 +350,14 @@
   {
     "name": "Elysium Remastered",
     "machineURL": "elysium",
-    "failed": 0,
-    "passed": 1883,
+    "failed": 1,
+    "passed": 1882,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/elysium/status.json",
     "report": "reports/elysium/status.md",
     "modlist_missing": false,
-    "has_failures": false
+    "has_failures": true
   },
   {
     "name": "Aldrnari",
@@ -374,8 +374,8 @@
   {
     "name": "Licentia",
     "machineURL": "Licentia",
-    "failed": 1,
-    "passed": 1243,
+    "failed": 5,
+    "passed": 1239,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Licentia/status.json",
@@ -386,8 +386,8 @@
   {
     "name": "Tsukiro",
     "machineURL": "tsukiro",
-    "failed": 12,
-    "passed": 1005,
+    "failed": 30,
+    "passed": 987,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/tsukiro/status.json",
@@ -507,7 +507,7 @@
     "name": "Life in the Ruins",
     "machineURL": "life_in_the_ruins",
     "failed": 0,
-    "passed": 547,
+    "passed": 549,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/life_in_the_ruins/status.json",
