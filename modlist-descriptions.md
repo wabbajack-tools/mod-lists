@@ -238,7 +238,7 @@ It has a plethora of quests, hundreds of handplaced new armors and weapons, new 
 
 - [Yggdrasil Music and SoundFX Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21578) with [Celtic Music in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/2980)
 - [Alternate Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/50307)
-- [Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673)
+- [SkySA](https://www.nexusmods.com/skyrimspecialedition/mods/31390) and [Distance Based Combat](https://www.nexusmods.com/skyrimspecialedition/mods/60855)
 - [Ordinator](https://www.nexusmods.com/skyrimspecialedition/mods/1137)
 - [Palladium Racials](https://www.nexusmods.com/skyrimspecialedition/mods/43890)
 - [Arcanum](https://www.nexusmods.com/skyrimspecialedition/mods/23488) and [Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711)
