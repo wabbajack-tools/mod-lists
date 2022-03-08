@@ -2,7 +2,7 @@
   "MachineURL": "tranquility",
   "Name": "Tranquility",
   "Version": "1.2.3",
-  "ModListHash": "rvmg8uxbA5Q=",
+  "ModListHash": "yZ0xAEMRGFA=",
   "Archives": [
     {
       "Status": "Valid",
@@ -5244,21 +5244,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5OfzQHWlk4U=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=57339\nfileID=257487",
-        "Name": "Faster HDT-SMP-57339-1-24-1642439766.7z",
-        "Size": 27795458,
+        "Hash": "lHn5gdQndX4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=57339\nfileID=253209",
+        "Name": "Faster HDT-SMP-57339-1-18-1641086034.7z",
+        "Size": 29935260,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "hydrogensaysHDT - aers - Karonar1 - alandtse - geniusty - HSanMartin - skullgirls - DaydreamingDay - idaan300 - romanicles - igloomod",
           "Description": "Faster physics for capes, clothes, hair, etc!",
-          "FileID": 257487,
+          "FileID": 253209,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57339/57339-1634898011-810844781.png",
           "IsNSFW": false,
           "ModID": 57339,
           "Name": "Faster HDT-SMP",
-          "Version": "0.0.0.0"
+          "Version": "1.18.0.0"
         }
       }
     },
@@ -15853,13 +15853,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "4nSVF+mrK7Q=",
-        "Meta": "[General]\ndirectURL=https://github.com/matortheeternal/mxpf/archive/refs/heads/master.zip",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/mxpf-master.zip_6a594690-1e1f-4c2e-98aa-a5e18a3069f9",
         "Name": "mxpf-master.zip",
         "Size": 355776,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/matortheeternal/mxpf/archive/refs/heads/master.zip"
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/mxpf-master.zip_6a594690-1e1f-4c2e-98aa-a5e18a3069f9"
         }
       }
     },
@@ -16874,6 +16873,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "5OfzQHWlk4U=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=57339\nfileID=257487",
+        "Name": "Faster HDT-SMP-57339-1-24-1642439766.7z",
+        "Size": 27795458,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "hydrogensaysHDT - aers - Karonar1 - alandtse - geniusty - HSanMartin - skullgirls - DaydreamingDay - idaan300 - romanicles - igloomod",
+          "Description": "Faster physics for capes, clothes, hair, etc!",
+          "FileID": 257487,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57339/57339-1634898011-810844781.png",
+          "IsNSFW": false,
+          "ModID": 57339,
+          "Name": "Faster HDT-SMP",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "6+oMnNlyC6E=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=32561\nfileID=126933",
         "Name": "FixNotesForSkyUI SKSE64 2.0.17-32561-1-2-1-1583205405.zip",
@@ -17603,6 +17623,27 @@
           "ModID": 49771,
           "Name": "Modular Armory - Community Collection",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EzRYCagP04A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=18619\nfileID=260839",
+        "Name": "moreHUD Inventory Edition Loose Version - Pre AE-18619-1-0-19-1643677334.7z",
+        "Size": 143348,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ahzaab",
+          "Description": "This mod brings some features from moreHUD into the inventory menu.  From your inventory you can now see if enchantments are known by the player and other features.  Also increases the Item Card size for mods that have long effect descriptions",
+          "FileID": 260839,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18619/18619-1531625604-468083957.png",
+          "IsNSFW": false,
+          "ModID": 18619,
+          "Name": "moreHUD Inventory Edition",
+          "Version": "1.0.19.0"
         }
       }
     },
@@ -20533,27 +20574,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uwTd9vk/lYY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=24108\nfileID=84731",
-        "Name": "ENB-ParticleLights-DwemerLanterns-1-02-24108-1-02-1552437026.rar",
-        "Size": 1920245,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "fadingsignal",
-          "Description": "Adds ENB Complex Particle Lights to all Dwemer lanterns and chandeliers.  Subtle effect that goes a long way.  Requires ENBSeries.",
-          "FileID": 84731,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/24108/24108-1552355736-684927376.jpeg",
-          "IsNSFW": false,
-          "ModID": 24108,
-          "Name": "ENB Particle Lights - Dwemer Lanterns",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "2edAChWjQug=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=49378\nfileID=201348",
         "Name": "Enemy Magelock-49378-1-0-0-1619990342.rar",
@@ -23150,6 +23170,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "+X5hhtmpplM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56235\nfileID=261837",
+        "Name": "Simplicity of Snow-56235-0-5-1-1644034658.7z",
+        "Size": 26683210,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wankingSkeever",
+          "Description": "A light-weight snow mod designed to minimize conflicts. Uses your own snow texture and removes snow from under roofs",
+          "FileID": 261837,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56235/56235-1639798812-1869807476.gif",
+          "IsNSFW": false,
+          "ModID": 56235,
+          "Name": "Simplicity of Snow",
+          "Version": "0.5.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "8E8trJYzQSM=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=25319\nfileID=89814",
         "Name": "Skeevertail GREY-25319-3-0-1556296343.7z",
@@ -25732,6 +25773,27 @@
           "ModID": 48120,
           "Name": "Whiterun Mesh Fixes",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oQz7udW9phQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=48120\nfileID=260852",
+        "Name": "Whiterun Mesh Fixes-48120-1-2-5-1643679348.7z",
+        "Size": 2501945,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NeverLost",
+          "Description": "Fixes various issues with meshes in Whiterun.",
+          "FileID": 260852,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/48120/48120-1617597538-2111270181.png",
+          "IsNSFW": false,
+          "ModID": 48120,
+          "Name": "Whiterun Mesh Fixes",
+          "Version": "1.2.5.0"
         }
       }
     },
