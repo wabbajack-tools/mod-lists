@@ -1,13 +1,11 @@
 ## Validation Report - Elysium Remastered (elysium)
 
 
-### Invalid (3)
-*  [Elysium Remastered - Dyndolod 3D Output - Performance Mode.7z](https://authored-files.wabbajack.org/Elysium Remastered - Dyndolod 3D Output - Performance Mode.7z_81db3ad0-5a69-4cd0-834c-a87fd4a6a602)
-*  [Elysium Remastered - Texgen Output - Performance Mode.7z](https://authored-files.wabbajack.org/Elysium Remastered - Texgen Output - Performance Mode.7z_95a302af-53a9-41f5-b1bd-b5a4fc7d80a4)
+### Invalid (1)
 *  Nethers_Follower_Framework_UNI_2_7_9.zip
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1880)
+### Valid (1882)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(DMC) The Ultimate Dodge Mod Reanimated-33049-1-1-1585073759.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33049/?tab=files&file_id=130315)
 *  [(ESL) Immersive World Encounters AddOn - High Poly Uniques-50999-V1-2-1633524791.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50999/?tab=files&file_id=233002)
@@ -602,8 +600,10 @@
 *  [ElSopa - Medieval Anvil Hammer HotFix-48825-1-2-1619372790.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48825/?tab=files&file_id=200127)
 *  [Elwaps SpeedTree.7z](https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM)
 *  [Elysium Remastered - Core Files.7z](https://mega.nz/file/ccNCxbqA#zcsaLy1Yb3KhX_9UHv1feLkQqrzJGZARxTzATWBmNA4)
+*  [Elysium Remastered - Dyndolod 3D Output - Performance Mode.7z](https://authored-files.wabbajack.org/Elysium Remastered - Dyndolod 3D Output - Performance Mode.7z_81db3ad0-5a69-4cd0-834c-a87fd4a6a602)
 *  [Elysium Remastered - Dyndolod 3D Output.7z](https://authored-files.wabbajack.org/Elysium Remastered - Dyndolod 3D Output.7z_3b19c72c-cdd2-4182-b5b9-975ca98cb0d9)
 *  [Elysium Remastered - Terrain LOD Output.7z](https://authored-files.wabbajack.org/Elysium Remastered - Terrain LOD Output.7z_2c6698aa-1270-427c-94e9-e83da905f7aa)
+*  [Elysium Remastered - Texgen Output - Performance Mode.7z](https://authored-files.wabbajack.org/Elysium Remastered - Texgen Output - Performance Mode.7z_95a302af-53a9-41f5-b1bd-b5a4fc7d80a4)
 *  [Elysium Remastered - Texgen Output.7z](https://authored-files.wabbajack.org/Elysium Remastered - Texgen Output.7z_e21a004e-f504-4ece-bf67-5271ea0cb838)
 *  [Embers and Fire Combo Patch (Inferno)-42174-1-0-1604916175.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42174/?tab=files&file_id=169274)
 *  [Embers XD-37085-2-5-4-1645809129.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37085/?tab=files&file_id=266694)
