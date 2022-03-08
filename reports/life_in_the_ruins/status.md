@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (550)
+### Valid (549)
 *  [10mm SMG-22223-1-2.rar](https://www.nexusmods.com/fallout4/mods/22223/?tab=files&file_id=100700)
 *  [2287_Billboards and posters_ Complete-28267-1-2.zip](https://www.nexusmods.com/fallout4/mods/28267/?tab=files&file_id=127542)
 *  [2k - bottles label overhaul v0.9.1-1500-0-9-1.7z](https://www.nexusmods.com/fallout4/mods/1500/?tab=files&file_id=25000)
@@ -347,7 +347,6 @@
 *  [Mod Configuration Menu 1.39-21497-1-39-1575706632.zip](https://www.nexusmods.com/fallout4/mods/21497/?tab=files&file_id=172180)
 *  [Mod.Organizer-2.4.4.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z)
 *  [Money Mags - Vanilla Hair-17948-1-1.zip](https://www.nexusmods.com/fallout4/mods/17948/?tab=files&file_id=72333)
-*  [More Feral Ghouls. A Zombie Mod-43441-0-2-1646324323.rar](https://www.nexusmods.com/fallout4/mods/43441/?tab=files&file_id=231174)
 *  msvcp110.dll
 *  msvcr110.dll
 *  [MTM - Nuka Town East Archway Fix - ESL-40513-1-0-1565157755.7z](https://www.nexusmods.com/fallout4/mods/40513/?tab=files&file_id=163908)
