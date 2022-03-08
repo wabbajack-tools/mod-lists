@@ -216,18 +216,6 @@
     "has_failures": false
   },
   {
-    "name": "The Vault Courier: DCNV",
-    "machineURL": "vaultcourier",
-    "failed": 0,
-    "passed": 0,
-    "updating": 0,
-    "mirrored": 0,
-    "link": "reports/vaultcourier/status.json",
-    "report": "reports/vaultcourier/status.md",
-    "modlist_missing": false,
-    "has_failures": false
-  },
-  {
     "name": "OME(FT)",
     "machineURL": "omeft",
     "failed": 0,
@@ -350,14 +338,14 @@
   {
     "name": "Elysium Remastered",
     "machineURL": "elysium",
-    "failed": 0,
-    "passed": 1883,
+    "failed": 1,
+    "passed": 1882,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/elysium/status.json",
     "report": "reports/elysium/status.md",
     "modlist_missing": false,
-    "has_failures": false
+    "has_failures": true
   },
   {
     "name": "Aldrnari",
@@ -374,26 +362,26 @@
   {
     "name": "Licentia",
     "machineURL": "Licentia",
-    "failed": 0,
-    "passed": 1244,
+    "failed": 5,
+    "passed": 1239,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Licentia/status.json",
     "report": "reports/Licentia/status.md",
     "modlist_missing": false,
-    "has_failures": false
+    "has_failures": true
   },
   {
     "name": "Tsukiro",
     "machineURL": "tsukiro",
-    "failed": 0,
-    "passed": 1017,
+    "failed": 30,
+    "passed": 987,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/tsukiro/status.json",
     "report": "reports/tsukiro/status.md",
     "modlist_missing": false,
-    "has_failures": false
+    "has_failures": true
   },
   {
     "name": "Living Skyrim",
