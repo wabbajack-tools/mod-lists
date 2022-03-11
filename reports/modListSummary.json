@@ -362,14 +362,14 @@
   {
     "name": "Licentia",
     "machineURL": "Licentia",
-    "failed": 5,
-    "passed": 1239,
+    "failed": 0,
+    "passed": 1244,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Licentia/status.json",
     "report": "reports/Licentia/status.md",
     "modlist_missing": false,
-    "has_failures": true
+    "has_failures": false
   },
   {
     "name": "Tsukiro",
@@ -512,6 +512,18 @@
     "mirrored": 0,
     "link": "reports/tranquility/status.json",
     "report": "reports/tranquility/status.md",
+    "modlist_missing": false,
+    "has_failures": false
+  },
+  {
+    "name": "Animonculory Visual Overhaul",
+    "machineURL": "AVO",
+    "failed": 0,
+    "passed": 0,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/AVO/status.json",
+    "report": "reports/AVO/status.md",
     "modlist_missing": false,
     "has_failures": false
   },
