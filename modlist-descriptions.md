@@ -23,6 +23,7 @@
   - [Arkay's Commandment](#arkays-commandment)
   - [Wildlander](#wildlander)
   - [Tranquility](#tranquility)
+  - [Animonculory Visual Overhaul (AVO)]()
   - [(NSFW)Licentia(NSFW)](#NSFWLicentiaNSFW)
   - [(NSFW)Tsukiro(NSFW)](#nsfwtsukironsfw)
 - [Fallout 4](#fallout-4)
@@ -282,6 +283,17 @@ A complete overhaul of Skyrim, Tranquility is a modlist aimed at people wanting 
 - [Sunhelm Survival and Needs](https://www.nexusmods.com/skyrimspecialedition/mods/39414) 
 - [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
 
+***
+
+### [Animonculory Visual Overhaul (AVO)](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul)
+
+Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect graphical base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well.
+
+**_Mods to get familiar with:_**
+
+- [Weathers for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/55005)
+- [Synthesis](https://github.com/Mutagen-Modding/Synthesis)
+- [Full Modlist](https://loadorderlibrary.com/lists/animonculory-visual-overhaul)
 
 ***
 
