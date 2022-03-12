@@ -277,7 +277,6 @@
 *  [Dalish Vallaslin Face Tattoo's for Racemenu-19942-3-0-1547659207.rar](https://www.nexusmods.com/skyrimspecialedition/mods/19942/?tab=files&file_id=78522)
 *  [Dark Brown Texture-33789-1-0-1584710983.rar](https://www.nexusmods.com/skyrimspecialedition/mods/33789/?tab=files&file_id=129507)
 *  [Darkwater Crossing Town-33698-1-0-1584481937.rar](https://www.nexusmods.com/skyrimspecialedition/mods/33698/?tab=files&file_id=129143)
-*  Data_ccbgssse052-ba_iron.bsa
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
@@ -505,6 +504,7 @@
 *  [Hammet Dungeon Packs - ESM version-12186-2-03-1618016980.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12186/?tab=files&file_id=197170)
 *  [Hammet Dungeon Packs BSA-12186-2-03-1621165143.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12186/?tab=files&file_id=203811)
 *  [Hanging moss by Mari SE- 2k-34772-1-0-1586953968.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34772/?tab=files&file_id=134439)
+*  [Harsher SunHelm Cold-63548-1-0-0-1644770400.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63548/?tab=files&file_id=263878)
 *  [Havok-Enabled Ground Meshes try 2-6492-1-2-0-1579126642.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6492/?tab=files&file_id=119953)
 *  [hawk replacer sse-55461-1-1631435695.rar](https://www.nexusmods.com/skyrimspecialedition/mods/55461/?tab=files&file_id=227820)
 *  [Haze Lights - Torches Cast Shadows ONLY-45210-1-1-1618685515.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45210/?tab=files&file_id=198727)
