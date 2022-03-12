@@ -23,7 +23,7 @@
   - [Arkay's Commandment](#arkays-commandment)
   - [Wildlander](#wildlander)
   - [Tranquility](#tranquility)
-  - [Animonculory Visual Overhaul (AVO)]()
+  - [Animonculory Visual Overhaul (AVO)](#animonculory-visual-overhaul-(AVO))
   - [(NSFW)Licentia(NSFW)](#NSFWLicentiaNSFW)
   - [(NSFW)Tsukiro(NSFW)](#nsfwtsukironsfw)
 - [Fallout 4](#fallout-4)
@@ -217,12 +217,14 @@ Tinvaak is a list focused on making Skyrim: Special Edition (SSE) into an actual
 
 **_Mods to get familiar with:_**
 
-- [Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673)
-- [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962)
+- [Know Your Enemy Redux](https://www.nexusmods.com/skyrimspecialedition/mods/55045/?tab=files&file_id=259030)
+- [Alternate Perspective - Prologue Retold](https://www.nexusmods.com/skyrimspecialedition/mods/50307/?tab=files&file_id=229454)
+- [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751/?tab=files&file_id=246121)
 - [Dino's Spell Discovery](https://www.nexusmods.com/skyrimspecialedition/mods/43929?tab=description)
 - [Skyrim Realistic Conquering](https://www.nexusmods.com/skyrimspecialedition/mods/26396)
 - [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
 - [Heim - Smithing Tweaks and Lightweight Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54207)
+- [SkySA - Combat Behaviour Compulsion](https://www.nexusmods.com/skyrimspecialedition/mods/31390)
 
 ***
 
