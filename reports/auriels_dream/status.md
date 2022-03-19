@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (849)
+### Valid (848)
 *  [1_Improved Closefaced Helmets (Legendary Edition)-824-1-58.zip](https://www.nexusmods.com/skyrimspecialedition/mods/824/?tab=files&file_id=19438)
 *  [2K Caveworm-41956-1-0-1604317541.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41956/?tab=files&file_id=168277)
 *  [2K ElSopa HD - Grindstone-22647-1-0-1547611945.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22647/?tab=files&file_id=78482)
@@ -573,7 +573,6 @@
 *  [Oblivionesque Interaction Overhaul-52743-0-98-1631379971.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52743/?tab=files&file_id=227656)
 *  [Obscure's College of Winterhold-20514-1-6-1-1587010675.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20514/?tab=files&file_id=134566)
 *  [Onyx VR Weathers-36227-0-71-1590446674.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36227/?tab=files&file_id=142065)
-*  openvr_api.dll
 *  [openvr_fsr.zip](https://github.com/fholger/openvr_fsr/releases/download/fsr_alpha1.2/openvr_fsr.zip)
 *  [Optimized Texture for SSE-3858-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/3858/?tab=files&file_id=6780)
 *  [Optional yellow glow for the aetherium shield (except the crystal - it stays blue) Overwrite the main mod.-48227-1-1618229631.rar](https://www.nexusmods.com/skyrimspecialedition/mods/48227/?tab=files&file_id=197667)
