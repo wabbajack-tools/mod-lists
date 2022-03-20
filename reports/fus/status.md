@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (350)
+### Valid (358)
 *  [3D Casting FX-50197-1-0-1621612410.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50197/?tab=files&file_id=204758)
 *  [A Better Magelight - Enhanced-5954-2-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/5954/?tab=files&file_id=16406)
 *  [a better magelight patch-53186-1-0-1627894519.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53186/?tab=files&file_id=218284)
@@ -18,6 +18,7 @@
 *  [Auto Sneak and Jump VR-23649-0-5-0-1634485937.rar](https://www.nexusmods.com/skyrimspecialedition/mods/23649/?tab=files&file_id=235404)
 *  [Azurean ENB-53119-1-0-1627777511.rar](https://www.nexusmods.com/skyrimspecialedition/mods/53119/?tab=files&file_id=217990)
 *  [Azurite Weathers-42731-1-72-1627777624.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42731/?tab=files&file_id=217991)
+*  [Azurite Weathers-42731-1-85-1643778238.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42731/?tab=files&file_id=261147)
 *  [Be Seated v4.2.3-16613-4-2-3-1628012069.zip](https://www.nexusmods.com/skyrimspecialedition/mods/16613/?tab=files&file_id=218532)
 *  [Believable weapons SE-37737-1-0-2-1593641428.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37737/?tab=files&file_id=148339)
 *  [Better Dynamic Ash SE v2.1.1-54754-2-1-1-1630276704.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54754/?tab=files&file_id=224790)
@@ -33,6 +34,7 @@
 *  [Clear HUD VR-49657-1-0-0-1620507127.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49657/?tab=files&file_id=202388)
 *  [Compatibility patch for Archery-30404-1-0-1598305456.zip](https://www.nexusmods.com/skyrimspecialedition/mods/30404/?tab=files&file_id=157505)
 *  [Conduit-58023-2-1-1639325318.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58023/?tab=files&file_id=248548)
+*  [Conduit-58023-2-3-1646576611.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58023/?tab=files&file_id=268447)
 *  [ConsoleUtilVR-47189-1-3-1631757413.zip](https://www.nexusmods.com/skyrimspecialedition/mods/47189/?tab=files&file_id=228656)
 *  [Controller Bindings - Cangar - Spellsiphon-53186-1-1-1641827256.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53186/?tab=files&file_id=255656)
 *  [Controller Bindings - Cangar-53186-1-1641825662.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53186/?tab=files&file_id=255649)
@@ -46,9 +48,12 @@
 *  Data_HearthFires.esm
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
+*  Data_Skyrim - Meshes1.bsa
 *  Data_Skyrim - Misc.bsa
 *  Data_Skyrim - Patch.bsa
 *  Data_Skyrim - Textures0.bsa
+*  Data_Skyrim - Textures1.bsa
+*  Data_Skyrim - Textures4.bsa
 *  Data_Skyrim.esm
 *  Data_SkyrimVR.esm
 *  Data_Strings_Dawnguard_ENGLISH.DLSTRINGS
@@ -185,6 +190,7 @@
 *  [Frozen Electrocuted Combustion - 4.9.6-3532-4-9-6-1633188907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3532/?tab=files&file_id=232088)
 *  [FUS_TrueStorm_Patch-53186-1-1628099701.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53186/?tab=files&file_id=218810)
 *  [GIST Soul Trap-15755-1-3.zip](https://www.nexusmods.com/skyrimspecialedition/mods/15755/?tab=files&file_id=52900)
+*  [Glamur Reshade v2.0-61434-2-0-1645325253.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61434/?tab=files&file_id=265533)
 *  [Glamur Reshade-61434-1-2-1641779848.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61434/?tab=files&file_id=255552)
 *  [Glorious Doors of Skyrim SE - Update 1.04-32376-1-04-1584774890.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32376/?tab=files&file_id=129661)
 *  [Glorious Doors of Skyrim SE-32376-1-03-1584773006.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32376/?tab=files&file_id=129655)
@@ -219,7 +225,7 @@
 *  [Less is more-44448-1-1610872737.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44448/?tab=files&file_id=180011)
 *  [LocationalDamageSKSE VR 0.7.2-26447-0-7-2-1638129484.zip](https://www.nexusmods.com/skyrimspecialedition/mods/26447/?tab=files&file_id=245200)
 *  [LoS II - Giant Campfires textures update-30817-v4-0-1637709490.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30817/?tab=files&file_id=243887)
-*  [Lucien-20035-1-6-2-1616519910.rar](https://www.nexusmods.com/skyrimspecialedition/mods/20035/?tab=files&file_id=193151)
+*  [Lucien-20035-1-6-3-1636656096.rar](https://www.nexusmods.com/skyrimspecialedition/mods/20035/?tab=files&file_id=240595)
 *  [Luminous ENB for Skyrim SE and VR 1.3-197-1-3.zip](https://www.nexusmods.com/skyrimspecialedition/mods/197/?tab=files&file_id=51251)
 *  [LUX_no_ENB-53186-1-0-1627894312.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53186/?tab=files&file_id=218281)
 *  [Lux-43158-3-7-1638719143.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=246819)
@@ -231,6 +237,7 @@
 *  [MISVR-55751-1-0-2-1632203306.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55751/?tab=files&file_id=229775)
 *  [Mod.Organizer-2.4.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z)
 *  [moreHUD VR-33215-1-0-5-1638022018.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33215/?tab=files&file_id=244793)
+*  [moreHUD VR-33215-1-0-7-1642643998.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33215/?tab=files&file_id=257984)
 *  [Mortal Enemies SE-4881-1-05.rar](https://www.nexusmods.com/skyrimspecialedition/mods/4881/?tab=files&file_id=11006)
 *  [Mountain Z Fight Patch-37891-1-1-1604766784.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37891/?tab=files&file_id=169053)
 *  [Music - HQ-18115-0-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18115/?tab=files&file_id=57834)
@@ -246,8 +253,6 @@
 *  [Northern Shores 2K-27041-1-4-1581623323.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27041/?tab=files&file_id=123911)
 *  [NoStaggerMod v 1.0-16335-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16335/?tab=files&file_id=50443)
 *  [Obsidian Mountain Fogs 1.01.zip-13539-1-01.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13539/?tab=files&file_id=39025)
-*  [openvr_fsr_v2.0.zip](https://github.com/fholger/openvr_fsr/releases/download/fsr_v2.0/openvr_fsr_v2.0.zip)
-*  [openvr_fsr.zip](https://github.com/fholger/openvr_fsr/releases/download/fsr_alpha1.2/openvr_fsr.zip)
 *  [Papyrus Extender SE-22854-4-5-5-1638372170.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=245817)
 *  [Papyrus Extender VR-58296-4-5-5-1637981897.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58296/?tab=files&file_id=244708)
 *  [PapyrusUtil VR - Scripting Utility Functions-13048-3-6b-1545409528.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=75826)
@@ -286,6 +291,7 @@
 *  [Simple Realistic Archery VR-28524-1-26-1617578073.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28524/?tab=files&file_id=196057)
 *  [Simply Balanced - 1.4.5-15541-1-4-5-1567316322.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15541/?tab=files&file_id=105089)
 *  [sksevr_2_00_12.7z](https://skse.silverlock.org/beta/sksevr_2_00_12.7z)
+*  [Skygazer Moons SSE 2K - No Glow-32057-1-2-1579996351.rar](https://www.nexusmods.com/skyrimspecialedition/mods/32057/?tab=files&file_id=121175)
 *  [Skyrim 3D Signs-21338-1-2-5-1564130448.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21338/?tab=files&file_id=100707)
 *  [Skyrim 3D Trees and Plants-12371-5-0-1-1591527547.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12371/?tab=files&file_id=144298)
 *  [Skyrim Landscape and Water Fixes - FOMOD-26138-v6-3-1628796351.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26138/?tab=files&file_id=220706)
@@ -306,6 +312,7 @@
 *  [Spell Wheel VR-47630-1-2-5-1638635111.rar](https://www.nexusmods.com/skyrimspecialedition/mods/47630/?tab=files&file_id=246594)
 *  [Spellforge-46482-1-8-1620404704.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46482/?tab=files&file_id=202168)
 *  [Spellsiphon - Complete Edition-26627-5-15-1627670130.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26627/?tab=files&file_id=217716)
+*  [Spellsiphon - Complete Edition-26627-5-17-1643018556.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26627/?tab=files&file_id=259195)
 *  [SprintJumpVR-28354-1-01-1566288456.rar](https://www.nexusmods.com/skyrimspecialedition/mods/28354/?tab=files&file_id=103699)
 *  [SSEEdit 4_0_3-164-4-0-3-1575326827.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164/?tab=files&file_id=115017)
 *  [STATUS-23040-1-97-1548903155.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23040/?tab=files&file_id=80191)
@@ -345,6 +352,7 @@
 *  [VRIK Rift-Index-WMR Controller Bindings V2.1.0-23416-V2-1-0-1577940412.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23416/?tab=files&file_id=118293)
 *  [VRIK Support Patch for 0.8.1 Build 28-24486-2-0-0-1626791961.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24486/?tab=files&file_id=215655)
 *  [VRIK V0.8.1 Test Build 28-23416-V0-8-1-Test-Build-28-1624911793.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23416/?tab=files&file_id=211578)
+*  [vrperfkit_v0.3.zip](https://github.com/fholger/vrperfkit/releases/download/v0.3/vrperfkit_v0.3.zip)
 *  [VRVision-47989-3-0-1623406179.zip](https://www.nexusmods.com/skyrimspecialedition/mods/47989/?tab=files&file_id=208587)
 *  [Waterplants for Skyrim-6092-1-7-1613289970.zip](https://www.nexusmods.com/skyrimspecialedition/mods/6092/?tab=files&file_id=185841)
 *  [Waymark - A Road Signs Mod-53333-1-2-1628468328.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53333/?tab=files&file_id=219827)
