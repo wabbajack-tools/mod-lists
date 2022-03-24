@@ -31,6 +31,8 @@
   - [Magnum Opus](#magnum-opus)
   - [Welcome to Paradise](#welcome-to-paradise)
   - [Life in the Ruins](#life-in-the-ruins)
+- [Enderal Special Edition](#enderal-special-edition)
+  - [Somnium](#somnium)
 - [Skyrim Special Edition - VR](#skyrim-special-edition---vr)
   - [Ultimate VR Essentials](#ultimate-vr-essentials)
   - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr-1)
@@ -387,6 +389,13 @@ From the author of Creative Perks Plus, a Fallout 4 modlist for a survival playt
 
 [Lunar Fallout Overhaul](https://www.nexusmods.com/fallout4/mods/34769)
 
+## Enderal Special Edition
+
+***
+
+### [Somnium](https://www.scenicroute.games/projects/somnium)
+
+From the same team that brought you Librum SE and Librum VR, Somnium is a total conversion of Enderal's mechanics, graphics, and atmosphere, designed to bring the gameplay and visuals up to par with Enderal's first-rate stories and setting. Specifically, Somnium casts the game into an Age of Sail setting, complete with all-new, custom third-person shooter mechanics; new and remastered assets and locations; and a complete re-imagining of all game mechanics. Moreover, the game is built upon a new horror framework in the form of _Apoapse's Anomalies_, turning Enderal's fantasy elements into something more reminiscient of Lovecraftian horror.
 
 ## Skyrim Special Edition - VR
 
