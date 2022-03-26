@@ -1,11 +1,10 @@
 ## Validation Report - Animonculory Visual Overhaul (AVO)
 
 
-### Invalid (1)
-*  [enbseries_skyrimse_v0469.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0469.zip_42820b5d-b5fc-42ae-b08c-e52d01a89e25)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (537)
+### Valid (538)
 *  [- Meshes - important-58370-1-0-1637050362.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=241886)
 *  [(Part 1) SSE Engine Fixes for 1.6.xxx-17230-6-0-2-1637784396.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -176,6 +175,7 @@
 *  [ENB Lights For Aetherium Shards Patch-44553-1-1-1630558790.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44553/?tab=files&file_id=225518)
 *  [ENB Organizer-67077-v2-1-1.zip](https://www.nexusmods.com/skyrim/mods/67077/?tab=files&file_id=1000214338)
 *  [ENB-ParticleLights-DwemerLanterns-1-02-24108-1-02-1552437026.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24108/?tab=files&file_id=84731)
+*  [enbseries_skyrimse_v0469.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0469.zip_42820b5d-b5fc-42ae-b08c-e52d01a89e25)
 *  [Encounter Zones Unlocked AE-19608-1-5-3-1637749108.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19608/?tab=files&file_id=244035)
 *  [Enhanced Blood Textures-2357-4-0-1639547261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=249235)
 *  [Enhanced Invisibility AE-61950-1-2-0-1642780858.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61950/?tab=files&file_id=258408)
