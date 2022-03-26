@@ -1,11 +1,10 @@
 ## Validation Report - Welcome to Paradise (tpf-fo4)
 
 
-### Invalid (1)
-*  [enbseries_fallout4_v0468.zip](https://authored-files.wabbajack.org/enbseries_fallout4_v0468.zip_aad76783-e760-4677-a388-88442f4c3b1e)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (362)
+### Valid (363)
 *  [0.3 - Patch Job-1934-0-3.rar](https://www.nexusmods.com/fallout4/mods/1934/?tab=files&file_id=5988)
 *  [0005. Power Grid Tools 1.4-17777-1-4-1580736283.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=175288)
 *  [1 Rad Fix - v2.0-15977-2-0.zip](https://www.nexusmods.com/fallout4/mods/15977/?tab=files&file_id=64936)
@@ -119,6 +118,7 @@
 *  [EBF UFO4P compatibility fix-43409-v2-1-0-1581247305.7z](https://www.nexusmods.com/fallout4/mods/43409/?tab=files&file_id=175639)
 *  [EBT_Basic v101-212-1-01.7z](https://www.nexusmods.com/fallout4/mods/212/?tab=files&file_id=54175)
 *  [enbhelperf4-56566-1-1-1641666492.zip](https://www.nexusmods.com/fallout4/mods/56566/?tab=files&file_id=225947)
+*  [enbseries_fallout4_v0468.zip](https://authored-files.wabbajack.org/enbseries_fallout4_v0468.zip_aad76783-e760-4677-a388-88442f4c3b1e)
 *  [Encounter Zone Recalculation-45674-1-0-1592086483.zip](https://www.nexusmods.com/fallout4/mods/45674/?tab=files&file_id=184238)
 *  [Ephla's Unique First Aid Kits v1-16841-1.zip](https://www.nexusmods.com/fallout4/mods/16841/?tab=files&file_id=82319)
 *  [ESP Version 1.4-45072-1-4-1625087443.rar](https://www.nexusmods.com/fallout4/mods/45072/?tab=files&file_id=211543)
