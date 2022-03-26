@@ -1,10 +1,11 @@
 ## Validation Report - Septimus (septimus)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [enbseries_skyrimse_v0465.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0465.zip_b18a9ca9-944b-4ff8-821d-04c81e96579e)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (880)
+### Valid (879)
 *  [(1) Community Overlays 1 - Main - UNP  2K-22487-1-0-1-1547247749.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77985)
 *  [(1) Community Overlays 2 - Main - UUNP-26224-1-0-1559370785.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94365)
 *  [(1) Community Overlays 3 - Main - UUNP-35339-1-0-1588116623.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136885)
@@ -277,7 +278,6 @@
 *  [ENB Input Disabler-62796-1-0-2-1643723189.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62796/?tab=files&file_id=260978)
 *  [ENB Organizer-67077-v2-1-1.zip](https://www.nexusmods.com/skyrim/mods/67077/?tab=files&file_id=1000214338)
 *  [ENB Particle Glow - Candles (Vanilla) v1.0-55856-1-0-1632108039.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55856/?tab=files&file_id=229545)
-*  [enbseries_skyrimse_v0465.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0465.zip_b18a9ca9-944b-4ff8-821d-04c81e96579e)
 *  [Encounter Zones Unlocked SE-19608-1-4-1583906933.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19608/?tab=files&file_id=128125)
 *  [Enemy (R)Evolution of Skyrim - EEOS Installer-37228-1-77-0-1614787135.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37228/?tab=files&file_id=189162)
 *  [Enhanced Ore Veins - 2K - 9.0.1-1306-9-0-1-1638445071.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1306/?tab=files&file_id=246044)
