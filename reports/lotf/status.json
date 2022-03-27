@@ -1,8 +1,8 @@
 {
   "MachineURL": "lotf",
   "Name": "Legends of the Frost",
-  "Version": "2.3",
-  "ModListHash": "MmRxp0jfFyM=",
+  "Version": "2.3.1",
+  "ModListHash": "I7yVPaezwu0=",
   "Archives": [
     {
       "Status": "Valid",
@@ -3251,19 +3251,6 @@
       }
     },
     {
-      "Status": "InValid",
-      "Original": {
-        "Hash": "I6EB0F4LS8o=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/xLODGen.85.7z_30941226-b45d-450f-9bd7-b0d32db52480",
-        "Name": "xLODGen.85.7z",
-        "Size": 14736564,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/xLODGen.85.7z_30941226-b45d-450f-9bd7-b0d32db52480"
-        }
-      }
-    },
-    {
       "Status": "Valid",
       "Original": {
         "Hash": "MsIFUQ57Jbo=",
@@ -3624,6 +3611,27 @@
           "ModID": 59655,
           "Name": "Obsidian Weathers and Seasons MCM Patch - Settings Loader",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gZ9iuvrA4ok=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=64532\nfileID=268185",
+        "Name": "Oxygen Meter 2-64532-1-0-2-1646459320.7z",
+        "Size": 251061,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Po3 and OsmosisWrench",
+          "Description": "Adds a new oxygen meter to the game for when you are underwater. Using a custom Scaleform menu and SKSE plugin, based off the original Oxygen Meter by PO3.",
+          "FileID": 268185,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64532/64532-1646400111-1768343092.png",
+          "IsNSFW": false,
+          "ModID": 64532,
+          "Name": "Oxygen Meter 2",
+          "Version": "1.0.2.0"
         }
       }
     },
@@ -4066,21 +4074,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "nFye4/3EyGc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=260257",
-        "Name": "Assorted Mesh Fixes-32117-0-45-1-1643449721.7z",
-        "Size": 11413149,
+        "Hash": "AK0/ii8XHw4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=272974",
+        "Name": "Assorted Mesh Fixes-32117-0-46-1648367854.7z",
+        "Size": 11771235,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wankingSkeever",
           "Description": "Fixes various issues with vanilla Skyrim meshes that causes them to render incorrectly",
-          "FileID": 260257,
+          "FileID": 272974,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32117/32117-1612599331-161051453.png",
           "IsNSFW": false,
           "ModID": 32117,
           "Name": "Assorted mesh fixes",
-          "Version": "0.45.1.0"
+          "Version": "0.46.0.0"
         }
       }
     },
@@ -4745,27 +4753,6 @@
           "ModID": 40261,
           "Name": "NPC AI Process Position  Fix - SSE",
           "Version": "f4.06"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "KHvd0uDdCdk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=57452\nfileID=242515",
-        "Name": "Oxygen Meter - SSE-57452-1-2-0-1637264927.7z",
-        "Size": 204013,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "powerofthree",
-          "Description": "SKSE plugin that adds an oxygen meter, when underwater",
-          "FileID": 242515,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57452/57452-1635160901-1302933930.gif",
-          "IsNSFW": false,
-          "ModID": 57452,
-          "Name": "Oxygen Meter",
-          "Version": "1.2.0.0"
         }
       }
     },
@@ -5979,21 +5966,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VcmAfcxE8Z4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42472\nfileID=170442",
-        "Name": "3D Solitude Market Trellis-42472-1-0-1605612541.7z",
-        "Size": 59676,
+        "Hash": "ws9oCxxIHdY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42472\nfileID=272401",
+        "Name": "3D Solitude Trellis-42472-2-0-1648216212.7z",
+        "Size": 1906710,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "RedBag",
           "Description": "3D trellis for vendor stands in Solitude.",
-          "FileID": 170442,
+          "FileID": 272401,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42472/105533-1605612084-1857176337.jpeg",
           "IsNSFW": false,
           "ModID": 42472,
           "Name": "3D Solitude Market Trellis",
-          "Version": "1.0.0.0"
+          "Version": "2.0.0.0"
         }
       }
     },
@@ -6567,27 +6554,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "tiyExJiOV9c=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42859\nfileID=188727",
-        "Name": "Project Clarity - Clothing And Jewelry Half Resolution-42859-1-1-1614577435.7z",
-        "Size": 1023218609,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "High resolution AI up-scaled clothing \u0026amp; jewelry textures, for every single piece of clothing and jewelry",
-          "FileID": 188727,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42859/42859-1606613179-982611889.png",
-          "IsNSFW": false,
-          "ModID": 42859,
-          "Name": "Project Clarity - Vanilla Clothing And Jewelry Textures Redone",
-          "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "TeL/xeL/NZQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=35593\nfileID=188717",
         "Name": "Project Clarity - Armor Half Resolution-35593-2-4-1614569503.7z",
@@ -6603,6 +6569,90 @@
           "ModID": 35593,
           "Name": "Project Clarity - Vanilla Armor Textures Redone",
           "Version": "2.4.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cuyvwGURDts=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43401\nfileID=188794",
+        "Name": "Project Clarity - Clutter Half Res-43401-1-2-1614609208.7z",
+        "Size": 1951293165,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "Thousands of textures covering hundreds of objects, this upscales all the clutter in Skyrim. Guaranteed to cover many things you didn\u0027t know you were missing.",
+          "FileID": 188794,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43401/43401-1608153976-258395948.png",
+          "IsNSFW": false,
+          "ModID": 43401,
+          "Name": "Project Clarity - Clutter Textures Redone",
+          "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6IKkkLLiPIs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=41998\nfileID=188799",
+        "Name": "Project Clarity - Creatures Half Res-41998-1-7-1614612171.7z",
+        "Size": 1256895428,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "High resolution AI up-scaled creature textures, for every single creature",
+          "FileID": 188799,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41998/41998-1604439666-1249755764.png",
+          "IsNSFW": false,
+          "ModID": 41998,
+          "Name": "Project Clarity - Creature Textures Redone",
+          "Version": "1.7.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JN4Fx0CimTs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=41998\nfileID=223086",
+        "Name": "Hotfix To v1.8 Half Res-41998-1-8-1629682228.7z",
+        "Size": 3527685,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "High resolution AI up-scaled creature textures, for every single creature",
+          "FileID": 223086,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41998/41998-1604439666-1249755764.png",
+          "IsNSFW": false,
+          "ModID": 41998,
+          "Name": "Project Clarity - Creature Textures Redone",
+          "Version": "1.8.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tiyExJiOV9c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42859\nfileID=188727",
+        "Name": "Project Clarity - Clothing And Jewelry Half Resolution-42859-1-1-1614577435.7z",
+        "Size": 1023218609,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "High resolution AI up-scaled clothing \u0026amp; jewelry textures, for every single piece of clothing and jewelry",
+          "FileID": 188727,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42859/42859-1606613179-982611889.png",
+          "IsNSFW": false,
+          "ModID": 42859,
+          "Name": "Project Clarity - Vanilla Clothing And Jewelry Textures Redone",
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -6698,69 +6748,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cuyvwGURDts=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43401\nfileID=188794",
-        "Name": "Project Clarity - Clutter Half Res-43401-1-2-1614609208.7z",
-        "Size": 1951293165,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "Thousands of textures covering hundreds of objects, this upscales all the clutter in Skyrim. Guaranteed to cover many things you didn\u0027t know you were missing.",
-          "FileID": 188794,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43401/43401-1608153976-258395948.png",
-          "IsNSFW": false,
-          "ModID": 43401,
-          "Name": "Project Clarity - Clutter Textures Redone",
-          "Version": "1.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6IKkkLLiPIs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=41998\nfileID=188799",
-        "Name": "Project Clarity - Creatures Half Res-41998-1-7-1614612171.7z",
-        "Size": 1256895428,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "High resolution AI up-scaled creature textures, for every single creature",
-          "FileID": 188799,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41998/41998-1604439666-1249755764.png",
-          "IsNSFW": false,
-          "ModID": 41998,
-          "Name": "Project Clarity - Creature Textures Redone",
-          "Version": "1.7.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "JN4Fx0CimTs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=41998\nfileID=223086",
-        "Name": "Hotfix To v1.8 Half Res-41998-1-8-1629682228.7z",
-        "Size": 3527685,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "High resolution AI up-scaled creature textures, for every single creature",
-          "FileID": 223086,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41998/41998-1604439666-1249755764.png",
-          "IsNSFW": false,
-          "ModID": 41998,
-          "Name": "Project Clarity - Creature Textures Redone",
-          "Version": "1.8.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "A9DhqnLlWSA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=45286\nfileID=188619",
         "Name": "Project Clarity - Landscapes Half Res-45286-1-3-1614542418.7z",
@@ -6796,6 +6783,6 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1
+  "Status": "Available",
+  "Failures": 0
 }
