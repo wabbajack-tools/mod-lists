@@ -1,10 +1,11 @@
 ## Validation Report - Legends of the Frost (lotf)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [xLODGen.85.7z](https://authored-files.wabbajack.org/xLODGen.85.7z_30941226-b45d-450f-9bd7-b0d32db52480)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (338)
+### Valid (337)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [(Part 1) Engine Fixes-17230-5-8-0-1637340889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=242713)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -336,7 +337,6 @@
 *  [WM's Flora Fixes - Revamped (No Scripts)-28197-3-2-1617147694.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28197/?tab=files&file_id=194797)
 *  [xEdit Script-29758-1-5-1631342317.zip](https://www.nexusmods.com/skyrimspecialedition/mods/29758/?tab=files&file_id=227543)
 *  [Xenius Character Enhancement Complete-36985-v1-2-1591608608.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36985/?tab=files&file_id=144454)
-*  [xLODGen.85.7z](https://authored-files.wabbajack.org/xLODGen.85.7z_30941226-b45d-450f-9bd7-b0d32db52480)
 *  [xLODGen.91.7z](https://authored-files.wabbajack.org/xLODGen.91.7z_3cf200c4-b492-42e8-9fee-d654ec410e02)
 *  [XP32 Maximum Skeleton Special Extended-1988-4-80-1610196777.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=178559)
 *  [XPMSSE Left Hand Skeleton Rotation Fix-50049-4-80-1621290459.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=204058)
