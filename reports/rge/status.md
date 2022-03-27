@@ -1,11 +1,10 @@
 ## Validation Report - Relics of Hyrule - GAT Edition (rge)
 
 
-### Invalid (1)
-*  [xLODGen.85.7z](https://authored-files.wabbajack.org/xLODGen.85.7z_30941226-b45d-450f-9bd7-b0d32db52480)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (966)
+### Valid (967)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(2K) Skygazer Moons - Masser and Secunda HD Moons by fadingsignal-54349-1-0.rar](https://www.nexusmods.com/skyrim/mods/54349/?tab=files&file_id=1000110438)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
@@ -965,6 +964,7 @@
 *  [WM's Flora Fixes - SMIM Patch-28197-1-1-1565996803.zip](https://www.nexusmods.com/skyrimspecialedition/mods/28197/?tab=files&file_id=103242)
 *  [Wrye Bash 309.1 - Standalone Executable-6837-309-1-1623232467.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6837/?tab=files&file_id=208295)
 *  [XCE CompilationPack 1_0-40305-1-0.7z](https://www.nexusmods.com/skyrim/mods/40305/?tab=files&file_id=1000046909)
+*  [xLODGen.85.7z](https://authored-files.wabbajack.org/xLODGen.85.7z_30941226-b45d-450f-9bd7-b0d32db52480)
 *  [XP32 Maximum Skeleton Special Extended - Fixed Scripts-44252-1-0-1610402131.rar](https://www.nexusmods.com/skyrimspecialedition/mods/44252/?tab=files&file_id=179016)
 *  [XP32 Maximum Skeleton Special Extended-1988-4-72-1592055293.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=145457)
 *  [XP32 Maximum Skeleton Special Extended-1988-4-80-1610196777.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=178559)

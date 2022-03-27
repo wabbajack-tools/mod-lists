@@ -1,12 +1,11 @@
 ## Validation Report - Septimus (septimus)
 
 
-### Invalid (2)
+### Invalid (1)
 *  [enbseries_skyrimse_v0465.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0465.zip_b18a9ca9-944b-4ff8-821d-04c81e96579e)
-*  [xLODGen.85.7z](https://authored-files.wabbajack.org/xLODGen.85.7z_30941226-b45d-450f-9bd7-b0d32db52480)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (878)
+### Valid (879)
 *  [(1) Community Overlays 1 - Main - UNP  2K-22487-1-0-1-1547247749.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77985)
 *  [(1) Community Overlays 2 - Main - UUNP-26224-1-0-1559370785.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94365)
 *  [(1) Community Overlays 3 - Main - UUNP-35339-1-0-1588116623.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136885)
@@ -878,6 +877,7 @@
 *  [Wyrmstooth-45565-1-19-7-1635995016.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45565/?tab=files&file_id=238910)
 *  [xEdit Script-29758-1-5-1631342317.zip](https://www.nexusmods.com/skyrimspecialedition/mods/29758/?tab=files&file_id=227543)
 *  [Xenius Character Enhancement Complete-36985-v1-2-1591608608.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36985/?tab=files&file_id=144454)
+*  [xLODGen.85.7z](https://authored-files.wabbajack.org/xLODGen.85.7z_30941226-b45d-450f-9bd7-b0d32db52480)
 *  [XP32 Maximum Skeleton Special Extended-1988-4-80-1610196777.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=178559)
 *  [YesImSure-24898-1-5-0-1583022330.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24898/?tab=files&file_id=126540)
 *  [Yet Another Music Merge - Dreyma Patch-48725-1-0-1622585028.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48725/?tab=files&file_id=206832)
