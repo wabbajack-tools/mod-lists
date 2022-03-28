@@ -1,11 +1,10 @@
 ## Validation Report - The Phoenix Flavour (tpf)
 
 
-### Invalid (1)
-*  [enbseries_skyrimse_v0465.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0465.zip_b18a9ca9-944b-4ff8-821d-04c81e96579e)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (852)
+### Valid (853)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
 *  [(Part 1) Engine Fixes-17230-5-8-0-1637340889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=242713)
@@ -236,6 +235,7 @@
 *  [ENB Light 0.96 WIP 04 - Inferno patch and Fire fixes-22574-0-9-1574535067.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=114206)
 *  [ENB Light-22574-0-94-1552759521.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=85143)
 *  [ENB Lights for Effect Shaders SE-56362-2-0-1641571441.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56362/?tab=files&file_id=254729)
+*  [enbseries_skyrimse_v0465.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0465.zip_b18a9ca9-944b-4ff8-821d-04c81e96579e)
 *  [Encounter Zones Unlocked SE-19608-1-4-1583906933.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19608/?tab=files&file_id=128125)
 *  [Enhanced Blood Textures-2357-4-0-1639547261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=249235)
 *  [Enhanced Reanimation-43500-1-3-1619463800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43500/?tab=files&file_id=200339)
