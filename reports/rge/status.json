@@ -2,7 +2,7 @@
   "MachineURL": "rge",
   "Name": "Relics of Hyrule - GAT Edition",
   "Version": "2.3.6.1",
-  "ModListHash": "nkxKT9IShnU=",
+  "ModListHash": "Wlsx0r2RVAk=",
   "Archives": [
     {
       "Status": "Valid",
@@ -15,6 +15,20 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LqKnmSUrXac=",
+        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z",
+        "Name": "Mod.Organizer-2.4.4.7z",
+        "Size": 90051560,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z"
         }
       }
     },
@@ -117,21 +131,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6I/387a+Px4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=181373",
-        "Name": "(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip",
-        "Size": 417160,
+        "Hash": "2tSuAtVKC5M=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=244154",
+        "Name": "(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z",
+        "Size": 269290,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "aers - Nukem - Ryan",
           "Description": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.",
-          "FileID": 181373,
+          "FileID": 244154,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17230/17230-1526195370-298143229.png",
           "IsNSFW": false,
           "ModID": 17230,
           "Name": "SSE Engine Fixes (skse64 plugin)",
-          "Version": "5.6.0.0"
+          "Version": "5.8.3.0"
         }
       }
     },
@@ -6574,15 +6588,15 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
-        "Hash": "I6EB0F4LS8o=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/xLODGen.85.7z_30941226-b45d-450f-9bd7-b0d32db52480",
-        "Name": "xLODGen.85.7z",
-        "Size": 14736564,
+        "Hash": "lVjBYzpCFFY=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/xLODGen.93.7z_b2c73c09-032b-4391-aa58-478cd3dcc72e",
+        "Name": "xLODGen.93.7z",
+        "Size": 14690090,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/xLODGen.85.7z_30941226-b45d-450f-9bd7-b0d32db52480"
+          "Url": "https://authored-files.wabbajack.org/xLODGen.93.7z_b2c73c09-032b-4391-aa58-478cd3dcc72e"
         }
       }
     },
@@ -19776,6 +19790,6 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1
+  "Status": "Available",
+  "Failures": 0
 }
