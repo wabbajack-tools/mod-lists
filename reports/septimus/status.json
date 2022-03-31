@@ -1,8 +1,8 @@
 {
   "MachineURL": "septimus",
   "Name": "Septimus",
-  "Version": "3.0.2",
-  "ModListHash": "mD1ijSW/5TQ=",
+  "Version": "3.0.2.1",
+  "ModListHash": "giDXQb/rmTk=",
   "Archives": [
     {
       "Status": "Valid",
@@ -13618,6 +13618,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "ow94sNGEmNk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53909\nfileID=224651",
+        "Name": "Nordic ui 21 by 9-53909-1-1630251482.rar",
+        "Size": 22958330,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BlackKnight and Dopesan",
+          "Description": "Nordic UI patched for monitors with a  32 by 9 or 21 by 9 aspect ratio",
+          "FileID": 224651,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53909/53909-1629076089-778370417.jpeg",
+          "IsNSFW": false,
+          "ModID": 53909,
+          "Name": "Nordic UI 32 by 9 and 21 by 9 aspect ratio patch",
+          "Version": "2.4.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yEVscnrkXbg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=63339\nfileID=266125",
+        "Name": "NORDIC UI - Ultrawide (21x9) Fixes and Patches-63339-1-3-1645552256.zip",
+        "Size": 17904663,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "infernalryan",
+          "Description": "Ultrawide fixes and patches for NORDIC UI interface overhaul",
+          "FileID": 266125,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/63339/63339-1644437532-2016938745.png",
+          "IsNSFW": false,
+          "ModID": 63339,
+          "Name": "NORDIC UI - Ultrawide Fixes and Patches -- Sunhelm - Frostfall - Others",
+          "Version": "1.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "gZ9iuvrA4ok=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=64532\nfileID=268185",
         "Name": "Oxygen Meter 2-64532-1-0-2-1646459320.7z",
@@ -19115,22 +19157,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "l/34Syb1rXg=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Interface.bsa",
-        "Name": "Data_Skyrim - Interface.bsa",
-        "Size": 78740221,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Interface.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "l/34Syb1rXg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "RcY/iQDAx8M=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=11849\nfileID=178564",
         "Name": "Hi-Res Armors Weapons Creatures-11849-1-4-0-1610197197.7z",
@@ -19167,6 +19193,22 @@
           "ModID": 11849,
           "Name": "VIGILANT SE",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "l/34Syb1rXg=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Interface.bsa",
+        "Name": "Data_Skyrim - Interface.bsa",
+        "Size": 78740221,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Interface.bsa",
+          "GameVersion": "1.6.353.0",
+          "Hash": "l/34Syb1rXg="
         }
       }
     }
