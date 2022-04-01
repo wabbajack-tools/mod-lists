@@ -1,8 +1,8 @@
 {
   "MachineURL": "septimus",
   "Name": "Septimus",
-  "Version": "3.0.2.1",
-  "ModListHash": "giDXQb/rmTk=",
+  "Version": "3.0.2.2",
+  "ModListHash": "xxwbACl6V70=",
   "Archives": [
     {
       "Status": "Valid",
@@ -9475,27 +9475,6 @@
           "ModID": 22789,
           "Name": "Simple Children",
           "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "U2sEHG92A+c=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58258\nfileID=261229",
-        "Name": "Simple Follower Extension AE-58258-2-2-1643807959.7z",
-        "Size": 75159,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ekagames",
-          "Description": "This is a simple follower extension mod. The player will be able to take up to 10 humanoid followers from the normal conversation dialogue.\n\nThis mod is intended to be used with Anniversary Edition.",
-          "FileID": 261229,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58258/58258-1636636282-1590629154.jpeg",
-          "IsNSFW": false,
-          "ModID": 58258,
-          "Name": "Simple Follower Extension AE",
-          "Version": "2.2.0.0"
         }
       }
     },
@@ -19157,6 +19136,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "l/34Syb1rXg=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Interface.bsa",
+        "Name": "Data_Skyrim - Interface.bsa",
+        "Size": 78740221,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Interface.bsa",
+          "GameVersion": "1.6.353.0",
+          "Hash": "l/34Syb1rXg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "RcY/iQDAx8M=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=11849\nfileID=178564",
         "Name": "Hi-Res Armors Weapons Creatures-11849-1-4-0-1610197197.7z",
@@ -19193,22 +19188,6 @@
           "ModID": 11849,
           "Name": "VIGILANT SE",
           "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "l/34Syb1rXg=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Interface.bsa",
-        "Name": "Data_Skyrim - Interface.bsa",
-        "Size": 78740221,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Interface.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "l/34Syb1rXg="
         }
       }
     }
