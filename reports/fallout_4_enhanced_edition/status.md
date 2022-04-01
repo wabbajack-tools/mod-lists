@@ -1,11 +1,10 @@
 ## Validation Report - Fallout 4 Enhanced Edition (fallout_4_enhanced_edition)
 
 
-### Invalid (1)
-*  [f4se_0_06_21.7z](https://f4se.silverlock.org/beta/f4se_0_06_21.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (278)
+### Valid (279)
 *  [(AB) Horizon Weapon Patches - Pistols and SMGs FOMOD-39320-v180b7-1584141169.7z](https://www.nexusmods.com/fallout4/mods/39320/?tab=files&file_id=177456)
 *  [(CD) Horizon Weapon Patches - Rifles FOMOD-39320-v180b7-1584141259.7z](https://www.nexusmods.com/fallout4/mods/39320/?tab=files&file_id=177459)
 *  [(EFG) Horizon Weapon Patches - Shotguns Energy and Melee Weapons FOMOD-39320-v180b7-1584141212.7z](https://www.nexusmods.com/fallout4/mods/39320/?tab=files&file_id=177458)
@@ -96,6 +95,7 @@
 *  [F4EE HUD-39996-1-2-1607716568.7z](https://www.nexusmods.com/fallout4/mods/39996/?tab=files&file_id=196816)
 *  [F4EEArt-39996-1-2-1596578097.7z](https://www.nexusmods.com/fallout4/mods/39996/?tab=files&file_id=188386)
 *  [F4NV-AMR_v1.5.1-36922-v1-5-1-1573930226.7z](https://www.nexusmods.com/fallout4/mods/36922/?tab=files&file_id=171009)
+*  [f4se_0_06_21.7z](https://f4se.silverlock.org/beta/f4se_0_06_21.7z)
 *  [FaceMaxsonV2_9-21923-2-9.7z](https://www.nexusmods.com/fallout4/mods/21923/?tab=files&file_id=97510)
 *  [Faded Glory - A Post-Apocalyptic Soundscape-26014-5-1-1596838402.7z](https://www.nexusmods.com/fallout4/mods/26014/?tab=files&file_id=188642)
 *  [Fallout 4 Ultimate Window Overahaul 2.0 FOMod-43458-2-0-1598728152.zip](https://www.nexusmods.com/fallout4/mods/43458/?tab=files&file_id=190222)

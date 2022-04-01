@@ -1,11 +1,10 @@
 ## Validation Report - Life in the Ruins (life_in_the_ruins)
 
 
-### Invalid (1)
-*  [f4se_0_06_21.7z](https://f4se.silverlock.org/beta/f4se_0_06_21.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (547)
+### Valid (548)
 *  [2287_Billboards and posters_ Complete-28267-1-2.zip](https://www.nexusmods.com/fallout4/mods/28267/?tab=files&file_id=127542)
 *  [2k - bottles label overhaul v0.9.1-1500-0-9-1.7z](https://www.nexusmods.com/fallout4/mods/1500/?tab=files&file_id=25000)
 *  [2k esl-48567-1-1606107463.rar](https://www.nexusmods.com/fallout4/mods/48567/?tab=files&file_id=195516)
@@ -210,6 +209,7 @@
 *  [ExoticCreatures v1.3-13919-1-3.zip](https://www.nexusmods.com/fallout4/mods/13919/?tab=files&file_id=84653)
 *  [Eye Normal Map Fix 1b Final-819-1b.zip](https://www.nexusmods.com/fallout4/mods/819/?tab=files&file_id=3599)
 *  [F4AIO Better Goodneighbor Patch-57741-1-1-1645137636.zip](https://www.nexusmods.com/fallout4/mods/57741/?tab=files&file_id=229890)
+*  [f4se_0_06_21.7z](https://f4se.silverlock.org/beta/f4se_0_06_21.7z)
 *  [FaceMaxsonV2_9-21923-2-9.7z](https://www.nexusmods.com/fallout4/mods/21923/?tab=files&file_id=97510)
 *  [Faction Distribution Framework-51233-4-4-1648571748.7z](https://www.nexusmods.com/fallout4/mods/51233/?tab=files&file_id=233299)
 *  [Faded Glory - A Post-Apocalyptic Soundscape-26014-5-1-1596838402.7z](https://www.nexusmods.com/fallout4/mods/26014/?tab=files&file_id=188642)
