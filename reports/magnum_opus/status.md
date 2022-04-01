@@ -1,10 +1,11 @@
 ## Validation Report - Magnum Opus (magnum_opus)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [f4se_0_06_21.7z](https://f4se.silverlock.org/beta/f4se_0_06_21.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (678)
+### Valid (677)
 *  [.44 Magnum Modification Pack-58358-1-0-0-1645580996.7z](https://www.nexusmods.com/fallout4/mods/58358/?tab=files&file_id=230466)
 *  [0001. Weapon QuickSwap 3-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108861)
 *  [0002. FastPipboy-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=89711)
@@ -235,7 +236,6 @@
 *  [Eyewear and mask retexture-5021-1-6.7z](https://www.nexusmods.com/fallout4/mods/5021/?tab=files&file_id=91218)
 *  [F4 Creation Kit Fixes-51165-1-1f-1621699694.7z](https://www.nexusmods.com/fallout4/mods/51165/?tab=files&file_id=208452)
 *  [F4ECC - 1.2-5060-1-2.rar](https://www.nexusmods.com/fallout4/mods/5060/?tab=files&file_id=16830)
-*  [f4se_0_06_21.7z](https://f4se.silverlock.org/beta/f4se_0_06_21.7z)
 *  [FaceGen - TOTC-54872-1-0-1633778051.7z](https://www.nexusmods.com/fallout4/mods/54872/?tab=files&file_id=218851)
 *  [FaceMaxsonV2_9-21923-2-9.7z](https://www.nexusmods.com/fallout4/mods/21923/?tab=files&file_id=97510)
 *  [Fallout 4 Configuration Tool-102-1-3-5-2024.zip](https://www.nexusmods.com/fallout4/mods/102/?tab=files&file_id=71172)

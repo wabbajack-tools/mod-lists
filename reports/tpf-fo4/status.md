@@ -1,10 +1,11 @@
 ## Validation Report - Welcome to Paradise (tpf-fo4)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [f4se_0_06_21.7z](https://f4se.silverlock.org/beta/f4se_0_06_21.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (365)
+### Valid (364)
 *  [0.3 - Patch Job-1934-0-3.rar](https://www.nexusmods.com/fallout4/mods/1934/?tab=files&file_id=5988)
 *  [0005. Power Grid Tools 1.4-17777-1-4-1580736283.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=175288)
 *  [1 Rad Fix - v2.0-15977-2-0.zip](https://www.nexusmods.com/fallout4/mods/15977/?tab=files&file_id=64936)
@@ -127,7 +128,6 @@
 *  [Extended Dialogue Interface 1.3.6-27216-1-3-6-1575706721.zip](https://www.nexusmods.com/fallout4/mods/27216/?tab=files&file_id=172181)
 *  [Eye Liner Masks-4398-0-3.zip](https://www.nexusmods.com/fallout4/mods/4398/?tab=files&file_id=31749)
 *  [Eye Normal Map Fix 1b Final-819-1b.zip](https://www.nexusmods.com/fallout4/mods/819/?tab=files&file_id=3599)
-*  [f4se_0_06_21.7z](https://f4se.silverlock.org/beta/f4se_0_06_21.7z)
 *  [Facials LITE for Workshop Framework-37180-1-7-1642920082.7z](https://www.nexusmods.com/fallout4/mods/37180/?tab=files&file_id=227511)
 *  [FallOpt ENB-55662-2-3-1641079132.rar](https://www.nexusmods.com/fallout4/mods/55662/?tab=files&file_id=225349)
 *  [Fallout 4 Ultimate Window Overhaul-43458-3-1-1619450668.zip](https://www.nexusmods.com/fallout4/mods/43458/?tab=files&file_id=206724)
