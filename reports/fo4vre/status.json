@@ -2,7 +2,7 @@
   "MachineURL": "fo4vre",
   "Name": "Fallout VR Essentials Overhaul",
   "Version": "10.1",
-  "ModListHash": "3MFaRVlTMsE=",
+  "ModListHash": "fI1o8PVyuUg=",
   "Archives": [
     {
       "Status": "Valid",
@@ -636,13 +636,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HhM2Wx7tvJ8=",
-        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=1n0IcJvANinCdmUr_8jwzIOAqyBoj8wKC\u0026export=download",
-        "Name": "Crime and Punishment (v1.1.2)-42857-v1-1-2-1620060207.zip",
-        "Size": 353133027,
+        "Hash": "peD19LwaE+U=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=58429\nfileID=230708",
+        "Name": "Crime And Punishment Main File-58429-v1-1-3-1645825049.zip",
+        "Size": 353026752,
         "State": {
-          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
-          "Id": "1n0IcJvANinCdmUr_8jwzIOAqyBoj8wKC"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FlashyJoeR",
+          "Description": "Crime And Punishment is a game-wide systems mod that includes a fully customizable karma and crime system, replete with consequences. It also includes game play mechanics such as combat surrender, kidnappings, holdups, disguises, stealth takedowns, settlement repopulation and much more!",
+          "FileID": 230708,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/58429/58429-1645833890-475221513.jpeg",
+          "IsNSFW": true,
+          "ModID": 58429,
+          "Name": "Flashy(JoeR) - Crime And Punishment",
+          "Version": "1.1.3.0"
         }
       }
     },
@@ -1111,21 +1119,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Xmhx8SSyrXw=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=56405\nfileID=224373",
-        "Name": "VRCP_DOOMMerged-56405-1-1-1640018436.zip",
-        "Size": 4697125,
+        "Hash": "xt3SJ/g/dtE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56405\nfileID=227852",
+        "Name": "VRCP_DOOMMerged-56405-1-2-1643213823.zip",
+        "Size": 4718253,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "mith077",
           "Description": "Working laser sights and flashlight for Fallout 4 VR!\n\n\n\nThis is a sister mod to my another mod \u0027Fallout 4 VR Compatibility Patch for Weaponsmith Extended 2\u0027:\n\nBrings positional fixes, optimized reflexes, laser sights and flashlights.\n\nWhereas with essential weapons, less requirement, easier installation and higher compatibility.",
-          "FileID": 224373,
+          "FileID": 227852,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56405/56405-1639049906-804782026.jpeg",
           "IsNSFW": false,
           "ModID": 56405,
           "Name": "Fallout 4 VR Compatibility Patch for DOOMBASED Weapons Merged",
-          "Version": "1.1.0.0"
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -1438,21 +1446,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "7kWyO9hZuAw=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53464\nfileID=222455",
-        "Name": "FRIK alpha 37-53464-v0-37-1638124746.zip",
-        "Size": 235229,
+        "Hash": "jRjY10mHOUk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53464\nfileID=228871",
+        "Name": "FRIK alpha 38-53464-v0-38-1644176461.zip",
+        "Size": 235772,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "rollingrock",
           "Description": "FRIK brings the full player body to life in VR!    Inspired by VRIK from SkyrimVR FRIK aims to bring the same level of immersion of having your body visible to Fallout 4 VR.   Full body Inverse Kinematics has been implemented to animate the arms and legs based on your controller and HMD position.",
-          "FileID": 222455,
+          "FileID": 228871,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53464/53464-1627237967-435592659.png",
           "IsNSFW": false,
           "ModID": 53464,
           "Name": "FRIK - Full Player Body with IK",
-          "Version": "0.37.0.0"
+          "Version": "0.38.0.0"
         }
       }
     },
@@ -4197,6 +4205,27 @@
           "ModID": 42497,
           "Name": "Fallout 4 Version Check Patcher",
           "Version": "f1.00"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Xmhx8SSyrXw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56405\nfileID=224373",
+        "Name": "VRCP_DOOMMerged-56405-1-1-1640018436.zip",
+        "Size": 4697125,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mith077",
+          "Description": "Working laser sights and flashlight for Fallout 4 VR!\n\n\n\nThis is a sister mod to my another mod \u0027Fallout 4 VR Compatibility Patch for Weaponsmith Extended 2\u0027:\n\nBrings positional fixes, optimized reflexes, laser sights and flashlights.\n\nWhereas with essential weapons, less requirement, easier installation and higher compatibility.",
+          "FileID": 224373,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56405/56405-1639049906-804782026.jpeg",
+          "IsNSFW": false,
+          "ModID": 56405,
+          "Name": "Fallout 4 VR Compatibility Patch for DOOMBASED Weapons Merged",
+          "Version": "1.1.0.0"
         }
       }
     },
