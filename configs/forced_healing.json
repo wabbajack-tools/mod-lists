@@ -275,7 +275,8 @@
       "Name": "old.7z",
       "Size": 5581270,
       "State": {
-        "$type": "Manual",
+        "$type": "ManualDownloader, Wabbajack.Lib",
+        "Prompt": null,
         "Url": "https://www.loverslab.com/clubs/144-cyberpunk-2077/"
       }
     },
@@ -285,10 +286,37 @@
       "Name": "new.7z",
       "Size": 145409783,
       "State": {
-        "$type": "Manual",
+        "$type": "ManualDownloader, Wabbajack.Lib",
+        "Prompt": null,
         "Url": "https://www.loverslab.com/files/file/20159-advertising-altered/"
       }
     },
     "PatchUrl": "https://patches.wabbajack.org/53d364a16d30db59_9aef4fce9c6ce61e"
+  },
+  {
+    "Status": "Updated",
+    "Original": {
+      "Hash": "YOt+h3+w/PI=",
+      "Meta": "",
+      "Name": "572890882_SLAL_Billyy_Animationsv5.4SE.zip",
+      "Size": 156300369,
+      "State": {
+        "$type": "ManualDownloader, Wabbajack.Lib",
+        "Prompt": "Please download 572890882_SLAL_Billyy_Animationsv5.4SE.zip",
+        "Url": "https://www.loverslab.com/files/file/3999-billyys-slal-animations-2022-3-2/"
+      }
+    },
+    "PatchedFrom": {
+      "Hash": "oFdVTqwL4lA=",
+      "Meta": "",
+      "Name": "SLAL_Billyy_Animations v5.5 SE.7z",
+      "Size": 103199026,
+      "State": {
+        "$type": "ManualDownloader, Wabbajack.Lib",
+        "Prompt": "Please download SLAL_Billyy_Animations v5.5 SE.7z",
+        "Url": "https://www.loverslab.com/files/file/3999-billyys-slal-animations-2022-4-2/"
+      }
+    },
+    "PatchUrl": "https://patches.wabbajack.org/60eb7e877fb0fcf2_a057554eac0be250"
   }
 ]
