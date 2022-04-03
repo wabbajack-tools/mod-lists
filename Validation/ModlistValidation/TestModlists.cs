@@ -45,7 +45,6 @@ namespace ModlistValidation
             }
 
             Assert.NotNull(modlists);
-            Assert.NotEmpty(modlists);
 
             foreach (var modlist in modlists)
             {
