@@ -1,11 +1,10 @@
 ## Validation Report - Relics of Hyrule - GAT Edition (wj-featured/rge)
 
 
-### Invalid (1)
-*  [RGE - Facegen.rar](https://authored-files.wabbajack.org/RGE - Facegen.rar_86a27608-2cdb-4325-b393-d344ece34518)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (967)
+### Valid (968)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(2K) Skygazer Moons - Masser and Secunda HD Moons by fadingsignal-54349-1-0.rar](https://www.nexusmods.com/skyrim/mods/54349/?tab=files&file_id=1000110438)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
@@ -675,6 +674,7 @@
 *  [Retexture for Bread - Hearthfire-64980-0-55.7z](https://www.nexusmods.com/skyrim/mods/64980/?tab=files&file_id=1000156757)
 *  [Revamped Assets Skyrim - High-75380-0-31.7z](https://www.nexusmods.com/skyrim/mods/75380/?tab=files&file_id=1000205331)
 *  [RGE - DynDOLOD Output 2.5.rar](https://authored-files.wabbajack.org/RGE - DynDOLOD Output 2.5.rar_e8a5325d-38a6-4a54-aaf6-7824010a880a)
+*  [RGE - Facegen.rar](https://authored-files.wabbajack.org/RGE - Facegen.rar_86a27608-2cdb-4325-b393-d344ece34518)
 *  [RGE - Nemesis Output v2.3.7z](https://authored-files.wabbajack.org/RGE - Nemesis Output v2.3.7z_f22d359c-6be4-43b0-a1d2-58e151ae69a2)
 *  [RGE - Patches.rar](https://authored-files.wabbajack.org/RGE - Patches.rar_87a1bc99-6ad2-4499-9d4a-6884e80caaa0)
 *  [RGE - TexGen Output 2.5.rar](https://authored-files.wabbajack.org/RGE - TexGen Output 2.5.rar_236b2905-b85c-4e9e-87f3-910c102d6953)
