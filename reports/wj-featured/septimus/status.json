@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/septimus",
   "Name": "Septimus",
-  "Version": "3.0.2.2",
-  "ModListHash": "xxwbACl6V70=",
+  "Version": "3.0.3",
+  "ModListHash": "KmPw8fMK6YA=",
   "Archives": [
     {
       "Status": "Valid",
@@ -73,12 +73,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "o0D559MZWhM=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0473.zip_9b5544cf-4370-4b3a-ab4e-e5e7a2a3676d",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0473.zip_52e10c29-6f1b-4785-ba91-056cb98f85ea",
         "Name": "enbseries_skyrimse_v0473.zip",
         "Size": 4292678,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0473.zip_9b5544cf-4370-4b3a-ab4e-e5e7a2a3676d"
+          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0473.zip_52e10c29-6f1b-4785-ba91-056cb98f85ea"
         }
       }
     },
@@ -469,21 +469,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "djr45fSrHkA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=30191\nfileID=272814",
-        "Name": "Adamant - A Perk Overhaul-30191-5-4-0-1648323718.7z",
-        "Size": 92441,
+        "Hash": "wzHFV+cJCfY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=30191\nfileID=274162",
+        "Name": "Adamant - A Perk Overhaul-30191-5-4-1-1648838890.7z",
+        "Size": 92930,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Simon Magus",
           "Description": "Adamant is a complete overhaul of Skyrim\u2019s perk trees designed to balance existing skills and add powerful new perks to the game.",
-          "FileID": 272814,
+          "FileID": 274162,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/30191/30191-1572896988-939425731.png",
           "IsNSFW": false,
           "ModID": 30191,
           "Name": "Adamant - A Perk Overhaul",
-          "Version": "5.4.0.0"
+          "Version": "5.4.1.0"
         }
       }
     },
@@ -1120,21 +1120,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "L6b4vbMDkO4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=61559\nfileID=255094",
-        "Name": "Adamant Patch-61559-1-3-1641674555.zip",
-        "Size": 14102,
+        "Hash": "t84yXrTKTkg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=61559\nfileID=274734",
+        "Name": "Adamant Patch-61559-1-4-1649076742.zip",
+        "Size": 13779,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "MichaelDawn",
           "Description": "A detailed, calculated rebalance of the spells and enchantments in Arcane Accessories that brings them roughly in line with vanilla spells. Adamant version rebalances spells based on closest Mysticism equivalents and adds Adamant perk support to all spells. Requires Anniversary Edition.",
-          "FileID": 255094,
+          "FileID": 274734,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61559/61559-1641675502-225768400.png",
           "IsNSFW": false,
           "ModID": 61559,
           "Name": "Arcane Accessories - Rebalance Patch",
-          "Version": "1.3.0.0"
+          "Version": "1.4.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "J+cOV1jgBLs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=33487\nfileID=184575",
+        "Name": "Arena - An Encounter Zone Overhaul-33487-1-1-0-1612716543.7z",
+        "Size": 5287,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Simon Magus",
+          "Description": "Arena is a complete overhaul of Skyrim\u2019s encounter zones designed to increase the game\u2019s difficulty and provide an organic sense of progression.",
+          "FileID": 184575,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33487/33487-1583864306-1623034299.png",
+          "IsNSFW": false,
+          "ModID": 33487,
+          "Name": "Arena - An Encounter Zone Overhaul",
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -1324,6 +1345,27 @@
           "ModID": 47202,
           "Name": "BA Bard Songs",
           "Version": "1.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ijRH1rNsvg0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=65978\nfileID=274716",
+        "Name": "Baggage - CC Backpacks Rebalance-65978-1-0-1649073784.zip",
+        "Size": 2802,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MichaelDawn",
+          "Description": "Rebalances CC Backpacks to values that more closely follow Thaumaturgy - An Enchanting Overhaul. Also restructures and rebalances loot and crafting recipes for backpacks.",
+          "FileID": 274716,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65978/65978-1649076095-208481907.png",
+          "IsNSFW": false,
+          "ModID": 65978,
+          "Name": "Baggage - Another CC Backpacks Rebalance",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -6790,6 +6832,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "FWG0uZLBkhU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=1539\nfileID=82274",
+        "Name": "MCoW - ELFX-1539-5-3-1550583740.rar",
+        "Size": 8496,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sable17",
+          "Description": "A lightly magical, aesthetic overhaul for the College of Winterhold!",
+          "FileID": 82274,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1539/1539-1550584968-606423210.png",
+          "IsNSFW": false,
+          "ModID": 1539,
+          "Name": "Magical College of Winterhold",
+          "Version": "5.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "cW17/71rlXk=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=1539\nfileID=112705",
         "Name": "MCoW - Tools of Kargrenac-1539-5-3-1573132549.rar",
@@ -7036,6 +7099,27 @@
           "ModID": 38348,
           "Name": "Miscellaneous Tweaks Collection",
           "Version": "2.0.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PpdGHVtiyb8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53801\nfileID=220996",
+        "Name": "Miscellaneous   Equip Text Removal - Main File-53801-1-0-1628896298.zip",
+        "Size": 317,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CloudQuest",
+          "Description": "Super simple, removes the \u0022You can\u0027t equip this item\u0022 text that occurs when you try to equip an item.",
+          "FileID": 220996,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53801/53801-1628896207-1362686028.png",
+          "IsNSFW": false,
+          "ModID": 53801,
+          "Name": "Miscellaneous Equip Text Removal",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -7462,21 +7546,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uQDVHf5l72o=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=27839\nfileID=272813",
-        "Name": "Mysticism - A Magic Overhaul-27839-2-0-1648323333.7z",
-        "Size": 10901547,
+        "Hash": "/1pCZjAo+ck=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=27839\nfileID=274158",
+        "Name": "Mysticism - A Magic Overhaul-27839-2-0-1-1648838761.7z",
+        "Size": 10910868,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Simon Magus",
           "Description": "Mysticism is an overhaul that fixes bugs in Vanilla spells, fills in gaps in the game\u0027s magic progression, and adds new spells from previous Elder Scrolls titles.",
-          "FileID": 272813,
+          "FileID": 274158,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27839/27839-1564552769-1829074082.png",
           "IsNSFW": false,
           "ModID": 27839,
           "Name": "Mysticism - A Magic Overhaul",
-          "Version": "2.0.0.0"
+          "Version": "2.0.1.0"
         }
       }
     },
@@ -7708,27 +7792,6 @@
           "ModID": 4784,
           "Name": "No More Standing Too Close SSE",
           "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Q8v3W1VNa+0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=1044\nfileID=7648",
-        "Name": "No NPC Greetings (Special Edition) - NMM FOMOD Installer (deprecated-1044-2-0a.rar",
-        "Size": 463023,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Cipscis-Reize",
-          "Description": "This mod allows you to eliminate NPC greetings altogether or reduce the distance required for NPC\u0027s to greet you.",
-          "FileID": 7648,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1044-0-1477691065.png",
-          "IsNSFW": false,
-          "ModID": 1044,
-          "Name": "No NPC Greetings (Special Edition) - Reduced Range Greetings options available",
-          "Version": "0.0.0.0"
         }
       }
     },
@@ -8347,6 +8410,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "QnJgjqWLu/E=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53682\nfileID=257195",
+        "Name": "Mysticism spells for spellcasters-53682-1-47-1642336364.7z",
+        "Size": 2510,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "oyvveg",
+          "Description": "gives mysticism spells to npcs with the revolutionary mod, spell perk item distributor (SPID)",
+          "FileID": 257195,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53682/53682-1628783272-2090855416.png",
+          "IsNSFW": false,
+          "ModID": 53682,
+          "Name": "Mysticism Spells For Npcs",
+          "Version": "1.47.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Jm3iPEEf0X0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=54099\nfileID=268999",
         "Name": "Pilgrim-54099-1-0-12-1-1646791200.zip",
@@ -8467,6 +8551,27 @@
           "ModID": 15996,
           "Name": "Project AHO",
           "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5K8PCdA8rSw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=65891\nfileID=274421",
+        "Name": "Project AHO - Spell Crafting for Mysticism-65891-1-0--1648928938.zip",
+        "Size": 899,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DragonBlame",
+          "Description": "Adds some of Mysticism - A Magic Overhaul\u0027s spell tomes to the tome crafting station added by Project AHO.",
+          "FileID": 274421,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65891/65891-1648927824-434686550.jpeg",
+          "IsNSFW": false,
+          "ModID": 65891,
+          "Name": "Project AHO - Spell Crafting for Mysticism",
+          "Version": "1.0.0.0."
         }
       }
     },
@@ -9670,27 +9775,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dAIOlOQ1Tas=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=9917\nfileID=31300",
-        "Name": "Simply Stronger Dragons-9917-2-0-2.zip",
-        "Size": 697344,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "opusGlass",
-          "Description": "A simple script-free mod to boost enemy dragons\u0027 health and melee/breath damage. Designed for compatibility with DDC, Splendor, and other dragon mods.\n\n\n\nHealth, Meelee, Breath, and Alduin boosts are separately configurable.\n\n\n\nOptions are chosen during installation -- safe to reinstall with different options at any time.",
-          "FileID": 31300,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/83888-1-1494824577.jpg",
-          "IsNSFW": false,
-          "ModID": 9917,
-          "Name": "Simply Stronger Dragons (SSD) SE",
-          "Version": "2.0.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "QWHOiREWsEk=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=62256\nfileID=258037",
         "Name": "Skaal Heavy Armor SE-62256-1-0-1642674969.7z",
@@ -10426,21 +10510,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ei3abdUiniw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=57138\nfileID=246596",
-        "Name": "Thaumaturgy - An Enchanting Overhaul-57138-1-1-4-1638635465.7z",
-        "Size": 330598,
+        "Hash": "1zDfBZGAkSM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=57138\nfileID=274164",
+        "Name": "Thaumaturgy - An Enchanting Overhaul-57138-1-1-6-1648839042.7z",
+        "Size": 330992,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Simon Magus - DeltaRider - Oreo - Hypebringer",
           "Description": "Thaumaturgy is a complete overhaul of Skyrim\u2019s enchanting system designed to balance existing enchantments and add powerful new weapon and armor enchantments to the game.",
-          "FileID": 246596,
+          "FileID": 274164,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57138/57138-1634395887-1497209698.png",
           "IsNSFW": false,
           "ModID": 57138,
           "Name": "Thaumaturgy - An Enchanting Overhaul",
-          "Version": "1.1.4.0"
+          "Version": "1.1.6.0"
         }
       }
     },
@@ -11875,6 +11959,69 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "BmBmb+c38cI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=66027\nfileID=274913",
+        "Name": "Webmetz\u0027s Growables - Interesting NPCs-66027-1-1649123386.zip",
+        "Size": 8165,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Webmetz",
+          "Description": "ESL Flagged. Makes the 3 plants from Interesting NPCs plantable in farm plots in a way that won\u0027t conflict with other mods which add growables.",
+          "FileID": 274913,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/66027/66027-1649123282-483043643.png",
+          "IsNSFW": false,
+          "ModID": 66027,
+          "Name": "Webmetz\u0027s Growables - Interesting NPCs",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "au/uee3qsQM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=66026\nfileID=274908",
+        "Name": "Webmetz\u0027s Growables - VIGILANT-66026-1-1649121469.zip",
+        "Size": 8378,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Webmetz",
+          "Description": "ESL Flagged. Makes the flower from VIGILANT plantable in farm plots in a way that won\u0027t conflict with other mods which add growables.",
+          "FileID": 274908,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/66026/66026-1649121275-2000481131.png",
+          "IsNSFW": false,
+          "ModID": 66026,
+          "Name": "Webmetz\u0027s Growables - VIGILANT",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PaiQFeXSXT0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=66030\nfileID=274919",
+        "Name": "Webmetz\u0027s Growables - Wyrmstooth-66030-1-1649124997.zip",
+        "Size": 8174,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Webmetz",
+          "Description": "ESL Flagged. Makes 3 plants from Wyrmstooth plantable in farm plots in a way that won\u0027t conflict with other mods which add growables.",
+          "FileID": 274919,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/66030/66030-1649125021-1291231533.png",
+          "IsNSFW": false,
+          "ModID": 66030,
+          "Name": "Webmetz\u0027s Growables - Wyrmstooth",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "nwiH/VW2I9w=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=52032\nfileID=212915",
         "Name": "Wedding Outfit Commission v1.0-52032-1-0-1625517458.zip",
@@ -12037,6 +12184,27 @@
           "ModID": 56144,
           "Name": "YASTM - Yet Another Soul Trap Manager",
           "Version": "1.9.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "S8w3CxOspCo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=65751\nfileID=274854",
+        "Name": "Coffee Mod-65751-2-3-1649097721.rar",
+        "Size": 21860678,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "sasspiria",
+          "Description": "Teeny tiny mod that adds coffee to skyrim because we all need a pick me up",
+          "FileID": 274854,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65751/65751-1648734509-1704324872.jpeg",
+          "IsNSFW": false,
+          "ModID": 65751,
+          "Name": "Yet Another Coffee Mod (For Apothecary)",
+          "Version": "2.3.0.0"
         }
       }
     },
@@ -12794,12 +12962,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "tv20UpywciM=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/xLODGen.90.7z_495ebde6-722d-4e31-b45e-502e3df74773",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/xLODGen.90.7z_61201151-d85b-4561-b72c-0a627706eae5",
         "Name": "xLODGen.90.7z",
         "Size": 14536526,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/xLODGen.90.7z_495ebde6-722d-4e31-b45e-502e3df74773"
+          "Url": "https://authored-files.wabbajack.org/xLODGen.90.7z_61201151-d85b-4561-b72c-0a627706eae5"
         }
       }
     },
@@ -12982,27 +13150,6 @@
           "ModID": 8379,
           "Name": "Carriage and Ferry Travel Overhaul (Formerly Complete Fast Travel Overhaul)",
           "Version": "2.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Xzh/+p7oXlQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=9776\nfileID=207245",
-        "Name": "CC\u0027s Fort Dawnguard Reborn - 2K - 6.0-9776-6-0-1622836676.7z",
-        "Size": 45510950,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ClearanceClarence",
-          "Description": "This is a retexture of fort dawnguard in new colors and new HD textures",
-          "FileID": 207245,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/9776/9776-1564862301-998716345.jpeg",
-          "IsNSFW": false,
-          "ModID": 9776,
-          "Name": "CC\u0027s Fort Dawnguard Reborn",
-          "Version": "6.0.0.0"
         }
       }
     },
@@ -13534,21 +13681,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "lGipTrLf5xE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58059\nfileID=239662",
-        "Name": "Dot crosshair for NORDIC UI-58059-1-1636295425.zip",
-        "Size": 425720,
+        "Hash": "9LLT8BAPSts=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=64249\nfileID=268318",
+        "Name": "NORDIC UI - Compass Markers Restored-64249-1-2-0-1646522763.7z",
+        "Size": 1186092,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BubblefishHK",
-          "Description": "Dot crosshair for NORDIC UI - Interface Overhaul.",
-          "FileID": 239662,
+          "Author": "Trenergy",
+          "Description": "Restores the default undiscovered location compass markers from SkyHUD for NORDIC UI along with some customization options.",
+          "FileID": 268318,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58059/58059-1636303558-1430475343.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64249/64249-1645879540-877133238.png",
           "IsNSFW": false,
-          "ModID": 58059,
-          "Name": "Dot crosshair for NORDIC UI - Interface Overhaul",
-          "Version": "1.0.0.0"
+          "ModID": 64249,
+          "Name": "NORDIC UI - Compass Markers Restored",
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -17393,27 +17540,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "mgGO0O53UPU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=10710\nfileID=147633",
-        "Name": "Northfire\u0027s Castle Volkihar-10710-1-1593254489.rar",
-        "Size": 128562392,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "sgtpetterzon2",
-          "Description": "Texture overhaul for Castle Volkihar from the DLC Dawnguard.",
-          "FileID": 147633,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/10710-0-1499026277.jpg",
-          "IsNSFW": false,
-          "ModID": 10710,
-          "Name": "Northfire\u0027s Castle Volkihar",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "NSBuEj0PhRQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=18645\nfileID=60167",
         "Name": "Chains Galore-18645-1-0-0.7z",
@@ -17687,6 +17813,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Vqq4wYjVgf0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=65842\nfileID=274473",
+        "Name": "Skyland Dawnguard-65842-1-1-1648949373.7z",
+        "Size": 513222109,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Skyking2020",
+          "Description": "Skyland Dawnguard is a complete texture overhaul of the Dawnguard DLC. This mod covers all landscape textures, Snow Elf Ruins, Vampire Castle, Dawnguard Castle, Soul Cairn, Falmer architecture, and some clutter.",
+          "FileID": 274473,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65842/65842-1648866374-1230364728.jpeg",
+          "IsNSFW": false,
+          "ModID": 65842,
+          "Name": "Skyland Dawnguard",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "o1OvpkIEQtk=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=65228\nfileID=271199",
         "Name": "Skyland Skyhaven Temple-65228-1-0-1647714063.7z",
@@ -17744,48 +17891,6 @@
           "ModID": 43866,
           "Name": "Skyrim - A Mountainous Experience",
           "Version": "1.5.6.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "So9tDQHBdU0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=28781\nfileID=105564",
-        "Name": "Skyrim 3D Docks and Boardwalks-28781-1-0-0-1567592346.7z",
-        "Size": 32550262,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mathy79",
-          "Description": "A complete remodel of all the docks architectural meshes.",
-          "FileID": 105564,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28781/28781-1567591945-1515140244.png",
-          "IsNSFW": false,
-          "ModID": 28781,
-          "Name": "Skyrim 3D Docks and Boardwalks",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "DxJ9HJtbC7c=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=28781\nfileID=105630",
-        "Name": "Skyrim 3D Docks and BoardWalks Weathered Riften Textures-28781-1-0-0-1567638438.7z",
-        "Size": 15788973,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mathy79",
-          "Description": "A complete remodel of all the docks architectural meshes.",
-          "FileID": 105630,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28781/28781-1567591945-1515140244.png",
-          "IsNSFW": false,
-          "ModID": 28781,
-          "Name": "Skyrim 3D Docks and Boardwalks",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -18143,27 +18248,6 @@
           "ModID": 53102,
           "Name": "Animations from Skyrim Horse  Renewal",
           "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "TyFjWE5Fu3w=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=7292\nfileID=17309",
-        "Name": "SSE 2K Textures-7292-1-0.zip",
-        "Size": 68384177,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "arrioch",
-          "Description": "2K high quality retexture of Snow Elf architecture, introduced in Dawnguard DLC.",
-          "FileID": 17309,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68660-0-1439314326.jpg",
-          "IsNSFW": false,
-          "ModID": 7292,
-          "Name": "Arri\u0027s Snow Elf Ruins Retexture Special Edition",
-          "Version": "1.1.0.0"
         }
       }
     },
@@ -19115,27 +19199,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "4Sk7IcIkAGQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45735\nfileID=231555",
-        "Name": "Vigilant Armors and Weapons Retexture SE-45735-3-0-1632959826.rar",
-        "Size": 810012614,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xavbio",
-          "Description": "This mod retextures most armors and weapons from the popular mod \u0022Vigilant\u0022 by Vicn. Uses Vigilant\u0027s Hi-res pack textures as a base and some upscaled textures. I tried to stay true to the original designs as much as possible.",
-          "FileID": 231555,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45735/45735-1632959307-2009519046.png",
-          "IsNSFW": false,
-          "ModID": 45735,
-          "Name": "Vigilant Armors and Weapons Retexture SE",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "l/34Syb1rXg=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Interface.bsa",
         "Name": "Data_Skyrim - Interface.bsa",
@@ -19187,6 +19250,27 @@
           "IsNSFW": true,
           "ModID": 11849,
           "Name": "VIGILANT SE",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4Sk7IcIkAGQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45735\nfileID=231555",
+        "Name": "Vigilant Armors and Weapons Retexture SE-45735-3-0-1632959826.rar",
+        "Size": 810012614,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xavbio",
+          "Description": "This mod retextures most armors and weapons from the popular mod \u0022Vigilant\u0022 by Vicn. Uses Vigilant\u0027s Hi-res pack textures as a base and some upscaled textures. I tried to stay true to the original designs as much as possible.",
+          "FileID": 231555,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45735/45735-1632959307-2009519046.png",
+          "IsNSFW": false,
+          "ModID": 45735,
+          "Name": "Vigilant Armors and Weapons Retexture SE",
           "Version": "0.0.0.0"
         }
       }
