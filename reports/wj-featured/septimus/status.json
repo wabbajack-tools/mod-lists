@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/septimus",
   "Name": "Septimus",
-  "Version": "3.0.3",
-  "ModListHash": "KmPw8fMK6YA=",
+  "Version": "3.0.3.1",
+  "ModListHash": "yWQZUt3r8mU=",
   "Archives": [
     {
       "Status": "Valid",
@@ -11791,27 +11791,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bzzJGF7VYJA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=49707\nfileID=208581",
-        "Name": "Village of Old Hroldan-49707-1-1-1623403221.zip",
-        "Size": 967529,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Symonson",
-          "Description": "Old Hroldan is located in the Reach and was the site of one of Tiber Septim\u0027s early triumphs back in the Second Era. But besides that the place has little to show for it self than one building, the Old Hroldan Inn.",
-          "FileID": 208581,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49707/49707-1620594888-943311058.png",
-          "IsNSFW": false,
-          "ModID": 49707,
-          "Name": "Village of Old Hroldan",
-          "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "DoGdJpX8v78=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=33752\nfileID=154451",
         "Name": "Village of the Skaal-33752-1-3-1596903174.zip",
@@ -19199,16 +19178,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "l/34Syb1rXg=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Interface.bsa",
-        "Name": "Data_Skyrim - Interface.bsa",
-        "Size": 78740221,
+        "Hash": "4Sk7IcIkAGQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45735\nfileID=231555",
+        "Name": "Vigilant Armors and Weapons Retexture SE-45735-3-0-1632959826.rar",
+        "Size": 810012614,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Interface.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "l/34Syb1rXg="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xavbio",
+          "Description": "This mod retextures most armors and weapons from the popular mod \u0022Vigilant\u0022 by Vicn. Uses Vigilant\u0027s Hi-res pack textures as a base and some upscaled textures. I tried to stay true to the original designs as much as possible.",
+          "FileID": 231555,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45735/45735-1632959307-2009519046.png",
+          "IsNSFW": false,
+          "ModID": 45735,
+          "Name": "Vigilant Armors and Weapons Retexture SE",
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -19257,21 +19241,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "4Sk7IcIkAGQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45735\nfileID=231555",
-        "Name": "Vigilant Armors and Weapons Retexture SE-45735-3-0-1632959826.rar",
-        "Size": 810012614,
+        "Hash": "l/34Syb1rXg=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Interface.bsa",
+        "Name": "Data_Skyrim - Interface.bsa",
+        "Size": 78740221,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xavbio",
-          "Description": "This mod retextures most armors and weapons from the popular mod \u0022Vigilant\u0022 by Vicn. Uses Vigilant\u0027s Hi-res pack textures as a base and some upscaled textures. I tried to stay true to the original designs as much as possible.",
-          "FileID": 231555,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45735/45735-1632959307-2009519046.png",
-          "IsNSFW": false,
-          "ModID": 45735,
-          "Name": "Vigilant Armors and Weapons Retexture SE",
-          "Version": "0.0.0.0"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Interface.bsa",
+          "GameVersion": "1.6.353.0",
+          "Hash": "l/34Syb1rXg="
         }
       }
     }
