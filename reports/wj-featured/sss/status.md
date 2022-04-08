@@ -1,11 +1,10 @@
 ## Validation Report - Slidikins' Strenuous Skyrim (wj-featured/sss)
 
 
-### Invalid (1)
-*  [The Phoenix Flavour - FaceGen v4.12.0.7z](https://authored-files.wabbajack.org/The Phoenix Flavour - FaceGen v4.12.0.7z_a854d7f3-86d1-4d0e-b00e-d514ecdce9e7)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (912)
+### Valid (913)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -827,6 +826,7 @@
 *  [The Northerner Diaries - Skyrim and Solstheim-28108-1-2-1573943146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28108/?tab=files&file_id=113553)
 *  [The Paarthurnax Resolution-43766-1-1609224380.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43766/?tab=files&file_id=176615)
 *  [The Phoenix Flavour - Conflict Resolution Patch - Maintainer Version-14223-4-14-1-1648785600.7z](https://www.nexusmods.com/skyrimspecialedition/mods/14223/?tab=files&file_id=274000)
+*  [The Phoenix Flavour - FaceGen v4.12.0.7z](https://authored-files.wabbajack.org/The Phoenix Flavour - FaceGen v4.12.0.7z_a854d7f3-86d1-4d0e-b00e-d514ecdce9e7)
 *  [The Phoenix Flavour - Rare Curios Patch-45830-1-3-1628777074.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45830/?tab=files&file_id=220620)
 *  [Thrones of Skyrim SE-41198-1-0-1602101281.zip](https://www.nexusmods.com/skyrimspecialedition/mods/41198/?tab=files&file_id=164399)
 *  [Thugs Not Assassins - Timing Is Everything-34028-1-1-0-1585564458.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34028/?tab=files&file_id=131423)
