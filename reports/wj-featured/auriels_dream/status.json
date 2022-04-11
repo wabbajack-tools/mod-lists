@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/auriels_dream",
   "Name": "Auriels Dream",
-  "Version": "10.0.3",
-  "ModListHash": "xg0G8vkfsDk=",
+  "Version": "10.0.4",
+  "ModListHash": "b/DEkVqO+Q8=",
   "Archives": [
     {
       "Status": "Valid",
@@ -11235,6 +11235,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "FEuKdYfuWKE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=66025\nfileID=276078",
+        "Name": "PLANCK-66025-0-2-0-1649574103.zip",
+        "Size": 310384,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FlyingParticle",
+          "Description": "Physically-driven animation in Skyrim. Characters interact with physics and can be grabbed, melee hit detection is physically accurate, and much more.",
+          "FileID": 276078,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/66025/66025-1649132253-1750711249.png",
+          "IsNSFW": false,
+          "ModID": 66025,
+          "Name": "PLANCK - Physical Animation and Character Kinetics",
+          "Version": "0.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "c4GSQ0SdlqE=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=9965\nfileID=26247",
         "Name": "Pottery Recolor-The Third Set Installer-9965-1-1.7z",
@@ -16829,6 +16850,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "NSSXBXpqxsw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=27308\nfileID=104224",
+        "Name": "High Fidelity ENB - LCD version-27308-2-5-1566689033.rar",
+        "Size": 44664,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SGS",
+          "Description": "Skyrim VR - High Fidelity ENB By SGS\n\n\n\nThe main goals of this ENB are realism, high performance, and visual fidelity.   The shader code was written from scratch and optimized for VR, all processing is done in a single pass to minimize fps loss. It applies proper tonemapping to Skyrim VR, as well as tweaking light levels for increased reali",
+          "FileID": 104224,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27308/27308-1563054202-989578593.jpeg",
+          "IsNSFW": false,
+          "ModID": 27308,
+          "Name": "Skyrim VR - High Fidelity ENB By SGS",
+          "Version": "2.5.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "7Sk+Q/bkV+M=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=35545\nfileID=184433",
         "Name": "Scenery ENB VR for Vivid Weathers for ENB VR 0.410-35545-7-8-1612637343.zip",
@@ -16885,20 +16927,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "CC1SfUDTsUM=",
-        "Meta": "[General]\ndirectURL=https://github.com/fholger/openvr_fsr/releases/download/fsr_alpha1.2/openvr_fsr.zip",
-        "Name": "openvr_fsr.zip",
-        "Size": 85925,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/fholger/openvr_fsr/releases/download/fsr_alpha1.2/openvr_fsr.zip"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "JwMVF4b1inM=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=58489\nfileID=241664",
         "Name": "Real Virtual Magic Libraries-58489-1-1636970167.7z",
@@ -16914,6 +16942,20 @@
           "ModID": 58489,
           "Name": "Real Virtual Magic",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CC1SfUDTsUM=",
+        "Meta": "[General]\ndirectURL=https://github.com/fholger/openvr_fsr/releases/download/fsr_alpha1.2/openvr_fsr.zip",
+        "Name": "openvr_fsr.zip",
+        "Size": 85925,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/fholger/openvr_fsr/releases/download/fsr_alpha1.2/openvr_fsr.zip"
         }
       }
     },
@@ -17214,27 +17256,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wiWlwCGE55c=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=197\nfileID=51251",
-        "Name": "Luminous ENB for Skyrim SE and VR 1.3-197-1-3.zip",
-        "Size": 11483838,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "roxahris and many others",
-          "Description": "Now with VR support. The first complete tonemapping and shader overhaul on the Nexus! A feature-filled experimental ENB with filmic features - Special Edition! Skyrim, resurrected.",
-          "FileID": 51251,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/197-0-1478242196.png",
-          "IsNSFW": false,
-          "ModID": 197,
-          "Name": "Luminous ENB VR",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "j6xeBlIAQh4=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=38219\nfileID=150049",
         "Name": "CAS_For_ENB-38219-1-0-1594576475.zip",
@@ -17249,6 +17270,27 @@
           "IsNSFW": false,
           "ModID": 38219,
           "Name": "Contrast Adaptive Sharpener for ENB (SE and VR)",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wiWlwCGE55c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=197\nfileID=51251",
+        "Name": "Luminous ENB for Skyrim SE and VR 1.3-197-1-3.zip",
+        "Size": 11483838,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "roxahris and many others",
+          "Description": "Now with VR support. The first complete tonemapping and shader overhaul on the Nexus! A feature-filled experimental ENB with filmic features - Special Edition! Skyrim, resurrected.",
+          "FileID": 51251,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/197-0-1478242196.png",
+          "IsNSFW": false,
+          "ModID": 197,
+          "Name": "Luminous ENB VR",
           "Version": "0.0.0.0"
         }
       }
@@ -17377,27 +17419,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "O2FC3xeCFKQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44016\nfileID=209716",
-        "Name": "Auriel\u0027s Dream - Core Texture Pack - BSA-44016-2-1624016649.7z",
-        "Size": 2793689727,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kvitekvist",
-          "Description": "This is a light version of Project Clarity optimized for Auriel\u0027s Dream modlist. All credits to  Project Clarity",
-          "FileID": 209716,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44016/44016-1609859295-1573649788.png",
-          "IsNSFW": false,
-          "ModID": 44016,
-          "Name": "Auriel\u0027s Dream - Core Texture Pack",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "VAiKyftlRN4=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=44367\nfileID=211068",
         "Name": "Auril\u0027s Dream - Skyrim 2020 Texture pack P1-44367-1-1-1624621681.7z",
@@ -17445,6 +17466,27 @@
           "GameFile": "Data\\Skyrim - Patch.bsa",
           "GameVersion": "1.4.15.0",
           "Hash": "mwREtRFyhvs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "O2FC3xeCFKQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44016\nfileID=209716",
+        "Name": "Auriel\u0027s Dream - Core Texture Pack - BSA-44016-2-1624016649.7z",
+        "Size": 2793689727,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kvitekvist",
+          "Description": "This is a light version of Project Clarity optimized for Auriel\u0027s Dream modlist. All credits to  Project Clarity",
+          "FileID": 209716,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44016/44016-1609859295-1573649788.png",
+          "IsNSFW": false,
+          "ModID": 44016,
+          "Name": "Auriel\u0027s Dream - Core Texture Pack",
+          "Version": "0.0.0.0"
         }
       }
     }
