@@ -2,7 +2,7 @@
   "MachineURL": "Skybax/Zeagle_Skybax",
   "Name": "Skybax",
   "Version": "1.4.1",
-  "ModListHash": "vOeBgnJcPc8=",
+  "ModListHash": "n8bJOXwoMz8=",
   "Archives": [
     {
       "Status": "Valid",
@@ -1434,24 +1434,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "MB8YVFjqMuU=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=20483\nips4File=BBLS_32B_Base_LL.zip",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/20483-bathing-beauties-or-beefcake-luxury-suite/\nprompt=Please download BBLS_32B_Base_LL.zip",
         "Name": "BBLS_32B_Base_LL.zip",
         "Size": 536196030,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "migal130",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2022_01/5646-1594595116-1915316285.jpeg.00f2acc6b57ecc5d907683e8fe8b9477.jpeg",
-          "IPS4File": "BBLS_32B_Base_LL.zip",
-          "IPS4Mod": 20483,
-          "IPS4Url": "https://www.loverslab.com/files/file/20483-bathing-beauties-or-beefcake-luxury-suite/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "Bathing Beauties or Beefcake Luxury Suite",
-          "Version": "3.2B"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Please download BBLS_32B_Base_LL.zip",
+          "Url": "https://www.loverslab.com/files/file/20483-bathing-beauties-or-beefcake-luxury-suite/"
         }
       }
     },
@@ -9913,24 +9905,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "bT4lnuFYSOk=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=18500\nips4File=Maelstrom.7z",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/18500-maelstrom-norse-dungeon-quest-mod-se/\nprompt=Please download Maelstrom.7z",
         "Name": "Maelstrom.7z",
         "Size": 151958453,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "nachtdaemmerung77",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2021_07/1529576510_Description00A.jpg.60e2c58c1f259abdc631cdd288c18050.jpg",
-          "IPS4File": "Maelstrom.7z",
-          "IPS4Mod": 18500,
-          "IPS4Url": "https://www.loverslab.com/files/file/18500-maelstrom-norse-dungeon-quest-mod-se/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "Maelstrom - Norse Dungeon Quest Mod SE",
-          "Version": "1.03SE"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Please download Maelstrom.7z",
+          "Url": "https://www.loverslab.com/files/file/18500-maelstrom-norse-dungeon-quest-mod-se/"
         }
       }
     },
@@ -13778,24 +13762,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "5unK1KNe6V8=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=5355\nips4File=Schlongs_of_Skyrim_SE - v1.1.4.rar",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/\nprompt=Please download Schlongs_of_Skyrim_SE - v1.1.4.rar",
         "Name": "Schlongs_of_Skyrim_SE - v1.1.4.rar",
         "Size": 37345605,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "galgaroth",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2018_04/ScreenShot0.jpg.1182f61ad36d22b56aab36151f7fd588.jpg",
-          "IPS4File": "Schlongs_of_Skyrim_SE - v1.1.4.rar",
-          "IPS4Mod": 5355,
-          "IPS4Url": "https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "Schlongs of Skyrim SE",
-          "Version": "1.1.4"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Please download Schlongs_of_Skyrim_SE - v1.1.4.rar",
+          "Url": "https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/"
         }
       }
     },
@@ -33331,6 +33307,6 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 3
+  "Status": "Available",
+  "Failures": 0
 }
