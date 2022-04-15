@@ -11260,7 +11260,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Mirrored",
       "Original": {
         "Hash": "KKn2dgirVKM=",
         "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=1L75e_NR6rCrCXK16icDmPOGNcRQSfZuR\u0026export=download",
@@ -11269,6 +11269,16 @@
         "State": {
           "$type": "GoogleDriveDownloader, Wabbajack.Lib",
           "Id": "1L75e_NR6rCrCXK16icDmPOGNcRQSfZuR"
+        }
+      },
+      "PatchedFrom": {
+        "Hash": "KKn2dgirVKM=",
+        "Meta": "",
+        "Name": "[COCO] Pinup Cheongsam [SE] - BHUNP.7z",
+        "Size": 303444464,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://mirror.wabbajack.org/28a9f67608ab54a3"
         }
       }
     },
@@ -20616,6 +20626,6 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1
+  "Status": "Available",
+  "Failures": 0
 }

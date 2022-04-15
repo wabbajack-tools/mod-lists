@@ -1,11 +1,11 @@
 ## Validation Report - Tsukiro (wj-featured/tsukiro)
 
 
-### Invalid (1)
-*  [[COCO] Pinup Cheongsam [SE] - BHUNP.7z](https://drive.google.com/uc?id=1L75e_NR6rCrCXK16icDmPOGNcRQSfZuR&export=download)
+### Invalid (0)
 ### Updated (1)
 *  572890882_SLAL_Billyy_Animationsv5.4SE.zip
-### Mirrored (0)
+### Mirrored (1)
+*  [[COCO] Pinup Cheongsam [SE] - BHUNP.7z](https://drive.google.com/uc?id=1L75e_NR6rCrCXK16icDmPOGNcRQSfZuR&export=download)
 ### Valid (1013)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [(1) Sharkish Piercings - BHUNP - Base-57131-1-01-1634463636.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235337)
