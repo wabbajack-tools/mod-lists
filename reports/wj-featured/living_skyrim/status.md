@@ -581,7 +581,7 @@
 *  [LoS II - Fortified Whiterun patch-30817-v4-0-1636466541.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30817/?tab=files&file_id=240095)
 *  [Lost Knowledge Quest Fix-61445-0-0-3-1642902382.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61445/?tab=files&file_id=258791)
 *  [LostDragonist-MO2-Plugins.zip](https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LostDragonist-MO2-Plugins.zip)
-*  [LOTD - Pale Pass Extension-48814-1-2-1619749920.rar](https://www.nexusmods.com/skyrimspecialedition/mods/48814/?tab=files&file_id=200878)
+*  [LOTD - Pale Pass Extension-48814-1-5-1644178000.rar](https://www.nexusmods.com/skyrimspecialedition/mods/48814/?tab=files&file_id=262276)
 *  [LOTD Version-34698-1-0-1586781044.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34698/?tab=files&file_id=133998)
 *  Low.ini
 *  [LS3 DynDOLOD Output 3.8.0.7z](https://authored-files.wabbajack.org/LS3 DynDOLOD Output 3.8.0.7z_3a09f8c9-0db3-4507-92bd-66eee4f167c8)
