@@ -71,7 +71,7 @@
 *  [Auriel's Chantry 4K-47204-1-0-1616153165.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47204/?tab=files&file_id=192284)
 *  [Auto Input Switch-54309-1-1-3-1637600255.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54309/?tab=files&file_id=243501)
 *  [Auto Toggle Menu Screenshot-50682-0-1-4-1622531038.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50682/?tab=files&file_id=206723)
-*  [Automatic Animations - Including Icon Identification-59484-1-0-2-1639612849.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59484/?tab=files&file_id=249465)
+*  [AutomaticAnimations.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59484/?tab=files&file_id=279191)
 *  [Automation Tools r6c-49373-1-5c.zip](https://www.nexusmods.com/skyrim/mods/49373/?tab=files&file_id=1000129948)
 *  [Ave's Moon Amulet-38367-1-0-1594918762.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38367/?tab=files&file_id=150701)
 *  [Ayleid Consistency Suite - Ayleid Equipment - Ayleid Lich Crown Patch-58213-1-3-0-1649508160.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58213/?tab=files&file_id=275885)
