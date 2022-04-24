@@ -70,7 +70,7 @@
 *  [Unofficial Patch NVSE Plus-71239-1-3-3-1629920236.zip](https://www.nexusmods.com/newvegas/mods/71239/?tab=files&file_id=1000080211)
 *  [Vanilla Hud Cleaned - Barter Update-70001-Barter-1643367854.zip](https://www.nexusmods.com/newvegas/mods/70001/?tab=files&file_id=1000086836)
 *  [Vanilla Hud Cleaned-70001-0-381-1607085285.7z](https://www.nexusmods.com/newvegas/mods/70001/?tab=files&file_id=1000068281)
-*  [Vanilla_UI_Plus_New_Vegas_8.92.93.7z](https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fvivanewvegas.github.io%2F)
+*  [Vanilla_UI_Plus_New_Vegas_8.93.7z](https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fvivanewvegas.github.io%2F)
 *  [VNV LODGenOutput.7z](https://authored-files.wabbajack.org/VNV LODGenOutput.7z_6e3d3854-9f64-43b6-ab4b-bfc7c89997a2)
 *  [Weapon Mesh Improvement Mod-65052-1-4-1644880975.rar](https://www.nexusmods.com/newvegas/mods/65052/?tab=files&file_id=1000087716)
 *  [WMIM - JSUE Patch.7z](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/raw/8b671138c7e567340a6a01ea9e3d18d1c8928015/WMIM - JSUE Patch.7z)
