@@ -133,7 +133,7 @@
 *  [Stamina of Steeds-58742-1-0-1637372154.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58742/?tab=files&file_id=242776)
 *  [Stay At System Page-19832-1-5-0-1583022131.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19832/?tab=files&file_id=126538)
 *  steam_api64.dll
-*  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.21.4/Synthesis.zip)
+*  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.22.1/Synthesis.zip)
 *  [UIExtensions v1-2-0-17561-1-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17561/?tab=files&file_id=55628)
 *  Ultra.ini
 *  [Unofficial Creation Club Fishing Patch-59702-1-0-1638919558.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59702/?tab=files&file_id=247406)
