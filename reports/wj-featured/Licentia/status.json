@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/Licentia",
   "Name": "Licentia",
-  "Version": "10.48",
-  "ModListHash": "b428/OKWf5w=",
+  "Version": "10.49.0.2",
+  "ModListHash": "SxW5eswJhxU=",
   "Archives": [
     {
       "Status": "Valid",
@@ -298,27 +298,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KgfAYLNFIVA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=20061\nfileID=193264",
-        "Name": "CK64Fixes Release 3.2-20061-3-2-1616560054.zip",
-        "Size": 516600,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Nukem",
-          "Description": "Various patches and bug fixes for the Creation Kit to make life easier.",
-          "FileID": 193264,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20061/20061-1537418488-165012313.png",
-          "IsNSFW": false,
-          "ModID": 20061,
-          "Name": "SSE CreationKit Fixes",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "L2b/YNPnYDg=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=SkyrimSE.exe",
         "Name": "SkyrimSE.exe",
@@ -393,6 +372,27 @@
           "GameFile": "Ultra.ini",
           "GameVersion": "1.6.353.0",
           "Hash": "joAkOFfS7Wc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KgfAYLNFIVA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20061\nfileID=193264",
+        "Name": "CK64Fixes Release 3.2-20061-3-2-1616560054.zip",
+        "Size": 516600,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nukem",
+          "Description": "Various patches and bug fixes for the Creation Kit to make life easier.",
+          "FileID": 193264,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20061/20061-1537418488-165012313.png",
+          "IsNSFW": false,
+          "ModID": 20061,
+          "Name": "SSE CreationKit Fixes",
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -5434,21 +5434,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "JYLdTA6hX48=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59340\nfileID=268984",
-        "Name": "Curated Curios-59340-1-0-1-1646789092.zip",
-        "Size": 1794,
+        "Hash": "CUVkLOhifNg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59340\nfileID=279456",
+        "Name": "Curated Curios-59340-1-0-2-1650833103.zip",
+        "Size": 1916,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tate Taylor",
           "Description": "Distributes items from Rare Curios to various merchants around the world!",
-          "FileID": 268984,
+          "FileID": 279456,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59340/59340-1638587672-1810490705.png",
           "IsNSFW": false,
           "ModID": 59340,
           "Name": "Curated Curios - A Creation Club Integration Mod",
-          "Version": "0.0.0.0"
+          "Version": "1.0.2.0"
         }
       }
     },
@@ -6421,6 +6421,90 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "rVBXaHxjIg4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=16669\nfileID=60142",
+        "Name": "FMR - ORD Comp Patch with Restoration Tweaks v1.31-16669-1-31.zip",
+        "Size": 47747,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TheNinjew",
+          "Description": "A lot of FMR spells and Ordinator perk effects know how to play together right from the get-go, but there\u0027s a stubborn few things that refuse to line up. This mod aims to fix that, because just one spell effect is never enough.",
+          "FileID": 60142,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/16669/16669-1524286142-296756206.jpeg",
+          "IsNSFW": false,
+          "ModID": 16669,
+          "Name": "Forgotten Magic Redone - Ordinator Compatibility Patch",
+          "Version": "1.31.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qkzyCwQzoJk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=48419\nfileID=197514",
+        "Name": "Forgotten Magic Redone - Vokrii Bound Weapons Compatibility Patch-48419-1-0-0-1618158625.7z",
+        "Size": 744,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "thehajo",
+          "Description": "This is just a small patch that allows the bound weapons added by Forgotten Magic Redone to use the bound weapon perks that were added by Vokrii.",
+          "FileID": 197514,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/48419/48419-1618159450-758479542.png",
+          "IsNSFW": false,
+          "ModID": 48419,
+          "Name": "Forgotten Magic Redone - Vokrii Bound Weapons Compatibility Patch",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XIn/Dtx2B64=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=12711\nfileID=35591",
+        "Name": "Forgotten Magic Redone SE-12711-1-65SE.rar",
+        "Size": 9423885,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "3jiou and  Sward66",
+          "Description": "[color=orange]Forgotten Magic Redone SE[/color] brings you some of the most comprehensive and intriguing spells for Skyrim Special Edition to date! Following on from the [color=orange]Forgotten Magic[/color] mod, the arcane arts have now been mastered.",
+          "FileID": 35591,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/12711-0-1507236665.jpg",
+          "IsNSFW": false,
+          "ModID": 12711,
+          "Name": "Forgotten Magic Redone SE",
+          "Version": "1.65.0.0SE"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8Av1fRsQO18=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=24648\nfileID=153074",
+        "Name": "Forgotten Magic Redone SE ver 1.6.5 - Fix CTD - install in MO2-24648-1-65SE-1596208507.7z",
+        "Size": 9158046,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "3JIou",
+          "Description": "Corrects annoying CTD when using magic from modification \u0027\u0027Forgotten Magic Redone SE\u0027\u0027.",
+          "FileID": 153074,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/24648/24648-1596208122-1318344785.jpeg",
+          "IsNSFW": false,
+          "ModID": 24648,
+          "Name": "Forgotten Magic Redone SE - Patch CTD",
+          "Version": "1.65.0.0SE"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "IUkoonmY7E8=",
         "Meta": "[General]\ngameName=skyrim\nmodID=86208\nfileID=1000252620",
         "Name": "Freckle Mania 2 Combo 2K-86208-1-0.7z",
@@ -7311,6 +7395,48 @@
           "ModID": 22382,
           "Name": "Immersive Armours - SSE CBBE BodySlide",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Y7Nzpmhiw5g=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=51255\nfileID=209379",
+        "Name": "Immersive Jewelry - Lower Value and No Craftable Jewels-51255-1a-1623837728.zip",
+        "Size": 590415,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Huerta",
+          "Description": "Vanilla values back to original for game items. Lower value for mod items (around 25%).",
+          "FileID": 209379,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51255/51255-1623830537-2082004497.jpeg",
+          "IsNSFW": false,
+          "ModID": 51255,
+          "Name": "Immersive Jewelry - Lower Value",
+          "Version": "1.0.0.0a"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nMwEtgzVit8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=5336\nfileID=16147",
+        "Name": "Immersive Jewelry 1.06a-5336-1-06a.7z",
+        "Size": 1568786,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Forteverum",
+          "Description": "Add diversity with 4200 jewelry variants distributed across culture-specific leveled lists for races and dungeons. Swap any of 1700 rings or bracelets to the left hand and back instantly via right click-even player enchanted and named ones. Incorporates a new system of gem and metal-influenced enchanting based on occultism and the Aedric planets.",
+          "FileID": 16147,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64283-1-1428048598.jpg",
+          "IsNSFW": false,
+          "ModID": 5336,
+          "Name": "Immersive Jewelry SSE",
+          "Version": "f1.06a"
         }
       }
     },
@@ -8752,6 +8878,27 @@
           "ModID": 29709,
           "Name": "Lusty Argonian Skill Books",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GLrtga6Rr9Q=",
+        "Meta": "[General]\ngameName=skyrim\nmodID=16914\nfileID=60718",
+        "Name": "Lyn_NoLoadingScreenText-16914-1-1.rar",
+        "Size": 201570,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Martin Lynge",
+          "Description": "This mod will remove all text from loading screens in the game. ",
+          "FileID": 60718,
+          "GameName": "Skyrim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/110/images/16914-1-1336820768.gif",
+          "IsNSFW": false,
+          "ModID": 16914,
+          "Name": "Lynges No Loading Screen Text Mod",
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -11788,6 +11935,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "MhfzItRFM4w=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56130\nfileID=278564",
+        "Name": "Quest Journal Limit Bug Fixer-56130-0-2-1650504872.7z",
+        "Size": 3636,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wankingSkeever",
+          "Description": "An utility to bring back quests that disappeared due to quest journal limit bug",
+          "FileID": 278564,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56130/56130-1632671639-620410825.png",
+          "IsNSFW": false,
+          "ModID": 56130,
+          "Name": "Quest Journal Limit Bug Fixer - Recover Disappeared Quests",
+          "Version": "0.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "XHy1LQdoDWM=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=18416\nfileID=269931",
         "Name": "QuestsAreInSkyrim_USSEP_1_3-18416-1-3-1647194854.zip",
@@ -11971,6 +12139,27 @@
           "ModID": 29843,
           "Name": "Real Wildlife Improved SE",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dHOjsCmMxQY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=49948\nfileID=203619",
+        "Name": "Realistic Dog Sounds-49948-1-0-0-1621094723.zip",
+        "Size": 2043405,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tate Taylor",
+          "Description": "Overhauls dog audio using sound assets from real wolfhounds!",
+          "FileID": 203619,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49948/49948-1621094559-2107527903.png",
+          "IsNSFW": false,
+          "ModID": 49948,
+          "Name": "Realistic Dog Sounds",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -16044,6 +16233,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "ON9IbF+9U1E=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=49127\nfileID=231101",
+        "Name": "NL_MCM_SSE-49127-1-0-5-1632781541.zip",
+        "Size": 25354,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NeverLost",
+          "Description": "NL_MCM is an object oriented module based extension of the SkyUI MCM scripts. It primarily functions as a redistributable framework that allows mod authors to separate their MCM pages into individual scripts.",
+          "FileID": 231101,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49127/49127-1627404046-306833545.png",
+          "IsNSFW": false,
+          "ModID": 49127,
+          "Name": "NL_MCM - A Modular MCM Framework",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "mQX4+vVp848=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=32382\nfileID=274717",
         "Name": "DynDOLOD 3.00-32382-Alpha-87-1649074133.7z",
@@ -16239,27 +16449,6 @@
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
           "Url": "https://authored-files.wabbajack.org/xLODGen.93.7z_890cf5de-a7aa-475c-9cd6-808f59a49e1d"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "HWVhTmCgJXs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44184\nfileID=253344",
-        "Name": "xVASynth v2.1.0 Main app-44184-2-1-0-1641134674.zip",
-        "Size": 4414645293,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dan Ruta",
-          "Description": "xVASynth is an AI tool for generating high-quality voice acting lines using voices from video games. The app supports hundreds of voices, across dozens of games, and provides pitch, duration, and energy control at per-letter granularity.",
-          "FileID": 253344,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44184/44184-1634978709-936370148.png",
-          "IsNSFW": false,
-          "ModID": 44184,
-          "Name": "xVASynth 2 - SKVA Synth",
-          "Version": "0.0.0.0"
         }
       }
     },
@@ -17120,6 +17309,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "e5cDmLV/0oM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=5336\nfileID=11851",
+        "Name": "Immersive Jewelry SSE 1.05-5336-1-05.rar",
+        "Size": 1083895071,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Forteverum",
+          "Description": "Add diversity with 4200 jewelry variants distributed across culture-specific leveled lists for races and dungeons. Swap any of 1700 rings or bracelets to the left hand and back instantly via right click-even player enchanted and named ones. Incorporates a new system of gem and metal-influenced enchanting based on occultism and the Aedric planets.",
+          "FileID": 11851,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64283-1-1428048598.jpg",
+          "IsNSFW": false,
+          "ModID": 5336,
+          "Name": "Immersive Jewelry SSE",
+          "Version": "f1.05"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "LMABV+spQtc=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=16402\nfileID=51100",
         "Name": "Immersive Music-16402-3-2.7z",
@@ -17440,6 +17650,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "3Q1qZL5qeCg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=37492\nfileID=146567",
+        "Name": "Moonpath Stuck Combat Music Fix-37492-1-0-1592628430.7z",
+        "Size": 1282,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Hazado",
+          "Description": "Fixes the combat music being stuck from \u0022Moonpath to Elsweyr\u0022",
+          "FileID": 146567,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37492/37492-1592628664-1926413706.jpeg",
+          "IsNSFW": false,
+          "ModID": 37492,
+          "Name": "Moonpath Stuck Combat Music Fix",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "iYnHD3pvtRI=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=19250\nfileID=211462",
         "Name": "More Informative Console 0.43-19250-0-43-1624831495.zip",
@@ -17475,27 +17706,6 @@
           "IsNSFW": false,
           "ModID": 51576,
           "Name": "Mythos SE",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ON9IbF+9U1E=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=49127\nfileID=231101",
-        "Name": "NL_MCM_SSE-49127-1-0-5-1632781541.zip",
-        "Size": 25354,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "NeverLost",
-          "Description": "NL_MCM is an object oriented module based extension of the SkyUI MCM scripts. It primarily functions as a redistributable framework that allows mod authors to separate their MCM pages into individual scripts.",
-          "FileID": 231101,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49127/49127-1627404046-306833545.png",
-          "IsNSFW": false,
-          "ModID": 49127,
-          "Name": "NL_MCM - A Modular MCM Framework",
           "Version": "0.0.0.0"
         }
       }
@@ -19152,6 +19362,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "k/WeDXcAp4A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=12680\nfileID=227159",
+        "Name": "2b) 4K Texture Pack-12680-v7-0-2-1631185062.7z",
+        "Size": 7636714184,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lifestorock and jackstarr",
+          "Description": "Skyrim Immersive Creatures adds dozens of new creatures to enhance your gaming experience. This mod adds brand new creatures which fit in to the world of Skyrim, alongside variations of existing creatures, adding diversity and improving gameplay.",
+          "FileID": 227159,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/12680/12680-1630517880-876227210.png",
+          "IsNSFW": false,
+          "ModID": 12680,
+          "Name": "Skyrim Immersive Creatures Special Edition",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "PvGn3mp5r0M=",
         "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=12hqOZbfeFK0zXJxpzsEXsyQyDclDQaZk\u0026export=download",
         "Name": "Improved_Camera-1.0_Beta4.7z",
@@ -19569,22 +19800,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "miIWAsh+4As=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures3.bsa",
-        "Name": "Data_Skyrim - Textures3.bsa",
-        "Size": 1401677791,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures3.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "miIWAsh+4As="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "KHvd0uDdCdk=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=57452\nfileID=242515",
         "Name": "Oxygen Meter - SSE-57452-1-2-0-1637264927.7z",
@@ -19725,27 +19940,6 @@
           "IsNSFW": false,
           "ModID": 22087,
           "Name": "Realistic HD Food Remastered",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "k/WeDXcAp4A=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=12680\nfileID=227159",
-        "Name": "2b) 4K Texture Pack-12680-v7-0-2-1631185062.7z",
-        "Size": 7636714184,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lifestorock and jackstarr",
-          "Description": "Skyrim Immersive Creatures adds dozens of new creatures to enhance your gaming experience. This mod adds brand new creatures which fit in to the world of Skyrim, alongside variations of existing creatures, adding diversity and improving gameplay.",
-          "FileID": 227159,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/12680/12680-1630517880-876227210.png",
-          "IsNSFW": false,
-          "ModID": 12680,
-          "Name": "Skyrim Immersive Creatures Special Edition",
           "Version": "0.0.0.0"
         }
       }
@@ -20509,27 +20703,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "fTv7DGlLGPI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44184\nfileID=253417",
-        "Name": "v2.1.1 PATCH (s2s hotfix)-44184-2-1-1-1641151548.zip",
-        "Size": 31851159,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dan Ruta",
-          "Description": "xVASynth is an AI tool for generating high-quality voice acting lines using voices from video games. The app supports hundreds of voices, across dozens of games, and provides pitch, duration, and energy control at per-letter granularity.",
-          "FileID": 253417,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44184/44184-1634978709-936370148.png",
-          "IsNSFW": false,
-          "ModID": 44184,
-          "Name": "xVASynth 2 - SKVA Synth",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "148b9aO+vGE=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=24356\nfileID=85753",
         "Name": "XP editor-24356-0-0-0-1553203075.zip",
@@ -21133,22 +21306,6 @@
           "ModID": 51692,
           "Name": "Celestial Beings - Horoscope Body Shapes 3BA - BHUNP - CBBE",
           "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "0DYAzX1tsf8=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures1.bsa",
-        "Name": "Data_Skyrim - Textures1.bsa",
-        "Size": 1511504224,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures1.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "0DYAzX1tsf8="
         }
       }
     },
@@ -23534,21 +23691,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WgOl/+G7ngk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=65444\nfileID=274632",
-        "Name": "Billyys Animation Pack-65444-2-1649006324.rar",
-        "Size": 8509153,
+        "Hash": "It9p6G+S52s=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=65444\nfileID=278698",
+        "Name": "Billyys Animation Pack-65444-2-1-1650558726.rar",
+        "Size": 8546459,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Billyy",
           "Description": "2 actor animations made by the fantastic animator Billyy ported into OStim",
-          "FileID": 274632,
+          "FileID": 278698,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65444/65444-1648587978-1554440726.png",
           "IsNSFW": true,
           "ModID": 65444,
           "Name": "Billy Animations Pack Ostim Port",
-          "Version": "2.0.0.0"
+          "Version": "2.1.0.0"
         }
       }
     },
@@ -23654,6 +23811,27 @@
           "ModID": 52907,
           "Name": "Seductress Serana",
           "Version": "3.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xsoKpCWx8f0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45786\nfileID=187332",
+        "Name": "RHF CGO Patch-45786-1-0-1613959179.rar",
+        "Size": 2915,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Wooph DServant",
+          "Description": "A compatibility patch that fixes the one handed swing hit timings.",
+          "FileID": 187332,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45786/45786-1613959041-2117542668.png",
+          "IsNSFW": false,
+          "ModID": 45786,
+          "Name": "Combat Gameplay Overhaul and Retimed Hit Frames Compatibility Patch",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -24059,21 +24237,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VVAS8WPc3uk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58640\nfileID=277243",
-        "Name": "OpenSex addon version-58640-v0-18nexus-1650016425.7z",
-        "Size": 33962701,
+        "Hash": "pyuiv/p/5zs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=67121\nfileID=279746",
+        "Name": "NCK30 Animations Pack-67121-1-1650981461.rar",
+        "Size": 5346578,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NCK30",
+          "Description": "A port of the lovely 2 actor animations by the fantastic animator NCK30 ported into OStim.",
+          "FileID": 279746,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67121/67121-1650978450-2026451918.png",
+          "IsNSFW": true,
+          "ModID": 67121,
+          "Name": "NCK30 Animations Pack OStim Port",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XxV6qWyeg+Y=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58640\nfileID=278919",
+        "Name": "OpenSex addon version-58640-v0-19nexus-1650634994.7z",
+        "Size": 36181175,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "aceanimations",
           "Description": "This mod adds new animations to OSex that you can use with OStim. Uniquely, I make them to look good in 1st person as well as 3rd person!\n\nNew animations every Friday! Helping the Skyrim adult mod scene remain prosperous several animations at a time!",
-          "FileID": 277243,
+          "FileID": 278919,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58640/58640-1641524963-958293370.png",
           "IsNSFW": true,
           "ModID": 58640,
           "Name": "New animations for OSex - OpenSex addon version",
-          "Version": "0.18.0.0nexus"
+          "Version": "0.19.0.0nexus"
         }
       }
     },
@@ -24326,6 +24525,27 @@
           "ModID": 20078,
           "Name": "Bijin Skin UNP and CBBE SE",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Zk8qAQ56ik8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=67029\nfileID=279723",
+        "Name": "REALORE MEN\u0027S - SOS Full-67029-1-1-1650968973.zip",
+        "Size": 563523812,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "_Greedy_",
+          "Description": "The male version of realore skin.\n\nThis gives a highpoly body\u0026amp;genitals, realistic but fancy male texture.\n\nprepared a variety ofoptions with 4k diffuses and normals.",
+          "FileID": 279723,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67029/67029-1650975416-1626979833.png",
+          "IsNSFW": true,
+          "ModID": 67029,
+          "Name": "REALORE MEN\u0027S Skin Texture",
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -24744,6 +24964,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Qu0PmEulZJI=",
+        "Meta": "[General]\ngameName=skyrim\nmodID=47688\nfileID=1000081531",
+        "Name": "WolfSounds-47688-1-0.7z",
+        "Size": 2019320,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Persephone Charming",
+          "Description": "A mix of dog and wolf audio files designed to make wolves sound more like they actually do in the wild. Also gets rid of that annoying breathing sound.",
+          "FileID": 1000081531,
+          "GameName": "Skyrim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/110/images/47688-1-1385072078.jpg",
+          "IsNSFW": false,
+          "ModID": 47688,
+          "Name": "woof woof i am wolf - Better Ambient Wolf Sounds",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "n/Cj91m7BOk=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=8393\nfileID=37161",
         "Name": "Serana-8393-1-0a.7z",
@@ -24891,21 +25132,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8k9NbyJ9kRE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=35298\nfileID=258020",
-        "Name": "Iron Plate Armor - Properly Environment Mapped-35298-1-0-1642663123.zip",
-        "Size": 2353725,
+        "Hash": "SPc0UWogeHw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=35298\nfileID=278830",
+        "Name": "Iron Plate Armor - Properly Environment Mapped-35298-1-1-1650599018.zip",
+        "Size": 2353696,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kris Takahashi    Elianora    Bethesda",
           "Description": "Correct environment map of various Creation Club contents for better visual results",
-          "FileID": 258020,
+          "FileID": 278830,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35298/35298-1593331824-64914164.jpeg",
           "IsNSFW": false,
           "ModID": 35298,
           "Name": "Creation Club Content - Properly Environment Mapped",
-          "Version": "0.0.0.0"
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -24996,22 +25237,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uutAUjvgpvg=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures2.bsa",
-        "Name": "Data_Skyrim - Textures2.bsa",
-        "Size": 1346030841,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures2.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "uutAUjvgpvg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "oZeSBP+FxHc=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=20146\nfileID=120630",
         "Name": "Skyrim 2018-20146-1-5-1579560286.7z",
@@ -25027,54 +25252,6 @@
           "ModID": 20146,
           "Name": "Skyrim 2018 by Pfuscher",
           "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "VX7KHQ0qSXM=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures0.bsa",
-        "Name": "Data_Skyrim - Textures0.bsa",
-        "Size": 652401558,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures0.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "VX7KHQ0qSXM="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "WJzdWWq7n8M=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures8.bsa",
-        "Name": "Data_Skyrim - Textures8.bsa",
-        "Size": 214496000,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures8.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "WJzdWWq7n8M="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "M2lXyN1Vo8A=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures7.bsa",
-        "Name": "Data_Skyrim - Textures7.bsa",
-        "Size": 700733354,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures7.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "M2lXyN1Vo8A="
         }
       }
     },
@@ -25459,42 +25636,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "trEdtVU0UHo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=61656\nfileID=274198",
-        "Name": "OpenSex compatibility patch minus L\u0027Amour Rose-61656-2-6c-1648849958.7z",
-        "Size": 11204,
+        "Hash": "AN37lw5MhxI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=65444\nfileID=273766",
+        "Name": "OpenSex ADDON and Lamour Rose Compatibility Patch-65444-1-1648680464.rar",
+        "Size": 1704,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kwynon",
-          "Description": "This mod adds compatibility between Opensex, Billyy Lesbian Animation pack for OStim, Billyy Threesome Animation Pack for OStim, Nibbles Animatiion pack for OStim and OSex L\u0027Amour Rose Animation pack either with or without OStim Feet Animation pack.",
-          "FileID": 274198,
+          "Author": "Billyy",
+          "Description": "2 actor animations made by the fantastic animator Billyy ported into OStim",
+          "FileID": 273766,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61656/61656-1641754061-985883454.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65444/65444-1648587978-1554440726.png",
           "IsNSFW": true,
-          "ModID": 61656,
-          "Name": "OpenSex compatibility patch",
-          "Version": "2.6.0.0c"
+          "ModID": 65444,
+          "Name": "Billy Animations Pack Ostim Port",
+          "Version": "1.0.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "23KXVuFRvvM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=61656\nfileID=259385",
-        "Name": "OpenSex compatibility patch with Feet animation pack-61656-2-4-1643086683.7z",
-        "Size": 14283,
+        "Hash": "VVAS8WPc3uk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58640\nfileID=277243",
+        "Name": "OpenSex addon version-58640-v0-18nexus-1650016425.7z",
+        "Size": 33962701,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kwynon",
-          "Description": "This mod adds compatibility between Opensex, Billyy Lesbian Animation pack for OStim, Billyy Threesome Animation Pack for OStim, Nibbles Animatiion pack for OStim and OSex L\u0027Amour Rose Animation pack either with or without OStim Feet Animation pack.",
-          "FileID": 259385,
+          "Author": "aceanimations",
+          "Description": "This mod adds new animations to OSex that you can use with OStim. Uniquely, I make them to look good in 1st person as well as 3rd person!\n\nNew animations every Friday! Helping the Skyrim adult mod scene remain prosperous several animations at a time!",
+          "FileID": 277243,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61656/61656-1641754061-985883454.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58640/58640-1641524963-958293370.png",
           "IsNSFW": true,
-          "ModID": 61656,
-          "Name": "OpenSex compatibility patch",
-          "Version": "0.0.0.0"
+          "ModID": 58640,
+          "Name": "New animations for OSex - OpenSex addon version",
+          "Version": "0.18.0.0nexus"
         }
       }
     },
@@ -25564,20 +25741,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Qrj1/xXxGqw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=23283\nfileID=96557",
-        "Name": "Farmhouse Addon-23283-2-0-1560939823.7z",
-        "Size": 100627721,
+        "Hash": "sHXONYiOVDk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=29842\nfileID=129365",
+        "Name": "Septentrional Landscapes 4K SE-29842-1-3-2-1584615630.7z",
+        "Size": 1255510411,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pfuscher",
-          "Description": "4K/ 2K Landscape Pack \n\n Photogrammetry",
-          "FileID": 96557,
+          "Author": "winedave",
+          "Description": "Landscape textures made with 3D Scans. 8, 4 \u0026amp; 2K versions available",
+          "FileID": 129365,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23283/23283-1549898406-1461763373.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29842/29842-1581630636-1748116040.png",
           "IsNSFW": false,
-          "ModID": 23283,
-          "Name": "Skyrim 2019",
+          "ModID": 29842,
+          "Name": "Septentrional Landscapes SE - 8K",
           "Version": "0.0.0.0"
         }
       }
@@ -25606,69 +25783,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "TxoOPb+4Sm4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=29316\nfileID=143264",
-        "Name": "Inferno - Fire Effects Redux-29316-4-1-1591025449.zip",
-        "Size": 191184792,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Retrospect",
-          "Description": "Spiritual successor to the original Ultimate HD Fire Effects\uFEFF mod by rheadude with improved meshes and textures!",
-          "FileID": 143264,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29316/29316-1569648226-937260997.png",
-          "IsNSFW": false,
-          "ModID": 29316,
-          "Name": "Inferno - Fire Effects Redux",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6HQLOXOBbw8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=23283\nfileID=163442",
-        "Name": "Skyrim 2019-23283-2-1-1601578063.7z",
-        "Size": 906302877,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pfuscher",
-          "Description": "4K/ 2K Landscape Pack \n\n Photogrammetry",
-          "FileID": 163442,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23283/23283-1549898406-1461763373.jpeg",
-          "IsNSFW": false,
-          "ModID": 23283,
-          "Name": "Skyrim 2019",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "sHXONYiOVDk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=29842\nfileID=129365",
-        "Name": "Septentrional Landscapes 4K SE-29842-1-3-2-1584615630.7z",
-        "Size": 1255510411,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "winedave",
-          "Description": "Landscape textures made with 3D Scans. 8, 4 \u0026amp; 2K versions available",
-          "FileID": 129365,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29842/29842-1581630636-1748116040.png",
-          "IsNSFW": false,
-          "ModID": 29842,
-          "Name": "Septentrional Landscapes SE - 8K",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "TdVQB8S9dDg=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=2347\nfileID=209102",
         "Name": "Skyrim 2020 8.4.2 - Landscape-2347-8-4-2-1623694058.rar",
@@ -25683,6 +25797,27 @@
           "IsNSFW": false,
           "ModID": 2347,
           "Name": "Skyrim 2020 Parallax by Pfuscher",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Qrj1/xXxGqw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=23283\nfileID=96557",
+        "Name": "Farmhouse Addon-23283-2-0-1560939823.7z",
+        "Size": 100627721,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Pfuscher",
+          "Description": "4K/ 2K Landscape Pack \n\n Photogrammetry",
+          "FileID": 96557,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23283/23283-1549898406-1461763373.jpeg",
+          "IsNSFW": false,
+          "ModID": 23283,
+          "Name": "Skyrim 2019",
           "Version": "0.0.0.0"
         }
       }
@@ -25711,6 +25846,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "6HQLOXOBbw8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=23283\nfileID=163442",
+        "Name": "Skyrim 2019-23283-2-1-1601578063.7z",
+        "Size": 906302877,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Pfuscher",
+          "Description": "4K/ 2K Landscape Pack \n\n Photogrammetry",
+          "FileID": 163442,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23283/23283-1549898406-1461763373.jpeg",
+          "IsNSFW": false,
+          "ModID": 23283,
+          "Name": "Skyrim 2019",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "PRhuqY06HXc=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=60980\nfileID=252690",
         "Name": "TB\u0027s 8K Tower 4K Version-60980-1-3-1640878645.zip",
@@ -25725,6 +25881,27 @@
           "IsNSFW": false,
           "ModID": 60980,
           "Name": "TB\u0027s Parallax Towers",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TxoOPb+4Sm4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=29316\nfileID=143264",
+        "Name": "Inferno - Fire Effects Redux-29316-4-1-1591025449.zip",
+        "Size": 191184792,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Retrospect",
+          "Description": "Spiritual successor to the original Ultimate HD Fire Effects\uFEFF mod by rheadude with improved meshes and textures!",
+          "FileID": 143264,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29316/29316-1569648226-937260997.png",
+          "IsNSFW": false,
+          "ModID": 29316,
+          "Name": "Inferno - Fire Effects Redux",
           "Version": "0.0.0.0"
         }
       }
