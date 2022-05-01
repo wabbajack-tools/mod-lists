@@ -5,7 +5,7 @@
 ### Updated (1)
 *  [OSex-17209-2-02SE-Alpha.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17209/?tab=files&file_id=54347)
 ### Mirrored (0)
-### Valid (1283)
+### Valid (1282)
 *  [-Skyrim 2020 Update 8.45 to 8.8 - 8K-2347-8-8-1646827889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=269047)
 *  [-Update 8.8.1 Solitude Moss fix-2347-8-8-1-1647693218.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=271144)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -592,6 +592,7 @@
 *  High_Poly_Head_v1.4_(SE).zip
 *  [High-Poly Inigo Replacer - FOMOD installer-38860-3-0-1596500717.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38860/?tab=files&file_id=153610)
 *  High.ini
+*  [HIMBO Lite - Core-63107-1-2-1651420730.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63107/?tab=files&file_id=280826)
 *  [HIMBO-46311-4-4-1-1649255121.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46311/?tab=files&file_id=275257)
 *  [Honed Metal SSE-61015-1-23-1646437217.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61015/?tab=files&file_id=268138)
 *  [Horse Stamina HUD-47076-1-0-1-1616008141.zip](https://www.nexusmods.com/skyrimspecialedition/mods/47076/?tab=files&file_id=192003)
@@ -1018,7 +1019,6 @@
 *  [ScandaNordic Mountains - Majestic Mountains Fix - 4k-62820-1-0-1-1645480844.rar](https://www.nexusmods.com/skyrimspecialedition/mods/62820/?tab=files&file_id=265992)
 *  [ScandaNordic Mountains - Parallax-62820-1-0-1643566341.rar](https://www.nexusmods.com/skyrimspecialedition/mods/62820/?tab=files&file_id=260527)
 *  [ScandaNordic Mountains 4k-62820-1-0-1643566155.rar](https://www.nexusmods.com/skyrimspecialedition/mods/62820/?tab=files&file_id=260525)
-*  Schlongs_of_Skyrim_SE - v1.1.4.rar
 *  [Scrambled Bugs (Special Edition)-43532-17-1646905605.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=269169)
 *  [Scrambled Eggchantments-43532-1-1619468588 (1).7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=200347)
 *  [Screenshot Helper-64124-1-2-1-1645918862.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64124/?tab=files&file_id=266991)
@@ -1115,7 +1115,6 @@
 *  [Song of the Green 1.2 sfts fix-11278-1-2-1578412852.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11278/?tab=files&file_id=118958)
 *  [Song of the Green 1.3-11278-1-3-1630437169.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11278/?tab=files&file_id=225250)
 *  [Sons of Skyrim - Epic Metal Remix (Main Menu Music Mod)-8796-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/8796/?tab=files&file_id=22100)
-*  SOS_Leito_Schlongs_Addon_SE_v1_0_1.7z
 *  [Sound Hammering Sounds-5592-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/5592/?tab=files&file_id=12403)
 *  [Spell Perk Item Distributor - SSE-36869-5-2-0-1638188435.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36869/?tab=files&file_id=245335)
 *  [Spellsiphon - Complete Edition-26627-5-17-1643018556.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26627/?tab=files&file_id=259195)
