@@ -3869,7 +3869,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "Updated",
       "Original": {
         "Hash": "dIyvCEYcD8s=",
         "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/8148-gsposes-slal/\nprompt=GS_SLAL SE 20 02.7z",
@@ -3880,7 +3880,19 @@
           "Prompt": "GS_SLAL SE 20 02.7z",
           "Url": "https://www.loverslab.com/files/file/8148-gsposes-slal/"
         }
-      }
+      },
+      "PatchedFrom": {
+        "Hash": "iAsHpTnbN6c=",
+        "Meta": "",
+        "Name": "GS_SLAL SE 03 04.7z",
+        "Size": 8368580,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "please download GS_SLAL SE 03 04.7z",
+          "Url": "https://www.loverslab.com/files/file/8148-gsposes-slal/"
+        }
+      },
+      "PatchUrl": "https://patches.wabbajack.org/748caf08461c0fcb_880b07a539db37a7"
     },
     {
       "Status": "Valid",
