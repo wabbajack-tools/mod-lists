@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/fo4vre",
   "Name": "Fallout VR Essentials Overhaul",
-  "Version": "10.1",
-  "ModListHash": "fI1o8PVyuUg=",
+  "Version": "11.0",
+  "ModListHash": "ZO52o+C9iG8=",
   "Archives": [
     {
       "Status": "Valid",
@@ -63,27 +63,6 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/fholger/f4ovr_improvements/releases/download/cas/fo4_controller_fix_and_cas.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "5lnqwWvOd70=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=33946\nfileID=221778",
-        "Name": "xSE PluginPreloader F4 0.2.5.1-33946-0-2-5-1-1637347868.zip",
-        "Size": 2253885,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Karandra",
-          "Description": "This mod allows preload F4SE plugins before the game initializes.",
-          "FileID": 221778,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33946/33946-1637514329-1439127529.png",
-          "IsNSFW": false,
-          "ModID": 33946,
-          "Name": "xSE PluginPreloader F4",
-          "Version": "0.2.5.1"
         }
       }
     },
@@ -1551,42 +1530,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "iclkvbugmzg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=23273\nfileID=107007",
-        "Name": "llamaCompanionHeather v1.03-23273-1-03.zip",
-        "Size": 103338303,
+        "Hash": "BveDXEf/ptw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=23273\nfileID=235666",
+        "Name": "llamaCompanionHeatherv2-23273-2-0-1650652062.zip",
+        "Size": 181837519,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "llamaRCA",
           "Description": "April 2017 #1 File of the Month: Heather is a complex, story-driven character with over 1200 lines of custom, voiced dialogue, quests, etc. Heather\u0027s unique implementation is designed to improve on the FO4 companion experience.",
-          "FileID": 107007,
+          "FileID": 235666,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23273-0-1491366297.png",
           "IsNSFW": false,
           "ModID": 23273,
           "Name": "Heather Casdin - A Unique Companion Experience by llamaRCA",
-          "Version": "f1.03"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Qqe8tRHH2S0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=24314\nfileID=136089",
-        "Name": "Heather Casdin Patches FOMOD v1.03-XG-24314-v1-03-XG.7z",
-        "Size": 1227191,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "llamaRCA DarkDominion J3tAc3 and Rusey",
-          "Description": "This mod contains patches made by members of the community to use with Heather Casdin - A Unique Companion Experience by llamaRCA. Current patches available: Full Dialogue Interface, Bhaal\u0027s Better Sorting, Valdacil\u0027s Item Sorting and Armorsmith Extended",
-          "FileID": 136089,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/24314-1-1495214254.jpg",
-          "IsNSFW": false,
-          "ModID": 24314,
-          "Name": "Heather Casdin - Assorted Patches",
-          "Version": "f1.03-XG"
+          "Version": "2.0.0.0"
         }
       }
     },
@@ -2958,6 +2916,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "LNxKfbA6RcI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27439\nfileID=112293",
+        "Name": "Save Hot Key - ArchMod-27439-1d.7z",
+        "Size": 1515,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Archey",
+          "Description": "Creates a full save on keypress. MCM \u0026 F4SE required. Works in survival difficulty",
+          "FileID": 112293,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27439-0-1508536289.png",
+          "IsNSFW": false,
+          "ModID": 27439,
+          "Name": "Save Hot Key - ArchMod",
+          "Version": "1.0.0.0d"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Dqb0VCwKsQs=",
         "Meta": "[General]\ngameName=fallout4\nmodID=32361\nfileID=134052",
         "Name": "Service Rifle-32361-0-96.zip",
@@ -4036,12 +4015,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "qqmjYb+DyiI=",
-        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=14k9bT0Ex1BoYGsub-nrbbCXtXhVOWMsd\u0026export=download",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/UIChanges.zip_f142a913-22d5-4095-9ba2-f6273ea21ab3",
         "Name": "UIChanges.zip",
         "Size": 974750,
         "State": {
-          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
-          "Id": "14k9bT0Ex1BoYGsub-nrbbCXtXhVOWMsd"
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/UIChanges.zip_f142a913-22d5-4095-9ba2-f6273ea21ab3"
         }
       }
     },
@@ -4274,21 +4253,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cyt3lVYJxp4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=33947\nfileID=204424",
-        "Name": "PrivateProfileRedirector F4VR 0.5.2-33947-0-5-2-1616600754.zip",
-        "Size": 158550,
+        "Hash": "LZhNWDVh+D8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=33947\nfileID=225831",
+        "Name": "PrivateProfileRedirector F4VR 0.5.3 (Runtime 1.2.72)-33947-0-5-3-1641590518.zip",
+        "Size": 160390,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Karandra",
           "Description": "Speeds up game start by storing INI files in memory instead of opening, parsing and closing the file each time some value from it is needed.",
-          "FileID": 204424,
+          "FileID": 225831,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33947/33947-1569070420-1702363259.png",
           "IsNSFW": false,
           "ModID": 33947,
           "Name": "PrivateProfileRedirector F4 - Faster game start (INI file cacher)",
-          "Version": "0.5.2.0"
+          "Version": "0.5.3.0"
         }
       }
     },
