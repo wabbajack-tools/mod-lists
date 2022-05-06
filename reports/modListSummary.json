@@ -110,14 +110,14 @@
   {
     "name": "Box of Rockets",
     "machineURL": "wj-featured/BOR",
-    "failed": 0,
-    "passed": 61,
+    "failed": 1,
+    "passed": 60,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/wj-featured/BOR/status.json",
     "report": "reports/wj-featured/BOR/status.md",
     "modlist_missing": false,
-    "has_failures": false
+    "has_failures": true
   },
   {
     "name": "The Phoenix Flavour",
@@ -516,30 +516,6 @@
     "has_failures": false
   },
   {
-    "name": "Septimus",
-    "machineURL": "Animonculory/septimus",
-    "failed": 0,
-    "passed": 948,
-    "updating": 0,
-    "mirrored": 0,
-    "link": "reports/Animonculory/septimus/status.json",
-    "report": "reports/Animonculory/septimus/status.md",
-    "modlist_missing": false,
-    "has_failures": false
-  },
-  {
-    "name": "The Path",
-    "machineURL": "Animonculory/thepath",
-    "failed": 0,
-    "passed": 637,
-    "updating": 0,
-    "mirrored": 0,
-    "link": "reports/Animonculory/thepath/status.json",
-    "report": "reports/Animonculory/thepath/status.md",
-    "modlist_missing": false,
-    "has_failures": false
-  },
-  {
     "name": "Tinvaak 2",
     "machineURL": "Animonculory/tinvaak",
     "failed": 0,
@@ -576,18 +552,6 @@
     "has_failures": true
   },
   {
-    "name": "Journey",
-    "machineURL": "Animonculory/journey",
-    "failed": 0,
-    "passed": 633,
-    "updating": 0,
-    "mirrored": 0,
-    "link": "reports/Animonculory/journey/status.json",
-    "report": "reports/Animonculory/journey/status.md",
-    "modlist_missing": false,
-    "has_failures": false
-  },
-  {
     "name": "Skybax",
     "machineURL": "Skybax/Zeagle_Skybax",
     "failed": 0,
@@ -620,6 +584,42 @@
     "mirrored": 0,
     "link": "reports/WhisperingChills/WhisperingChills/status.json",
     "report": "reports/WhisperingChills/WhisperingChills/status.md",
+    "modlist_missing": false,
+    "has_failures": false
+  },
+  {
+    "name": "Septimus",
+    "machineURL": "LostOutpost/septimus",
+    "failed": 0,
+    "passed": 948,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/LostOutpost/septimus/status.json",
+    "report": "reports/LostOutpost/septimus/status.md",
+    "modlist_missing": false,
+    "has_failures": false
+  },
+  {
+    "name": "The Path",
+    "machineURL": "LostOutpost/thepath",
+    "failed": 0,
+    "passed": 637,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/LostOutpost/thepath/status.json",
+    "report": "reports/LostOutpost/thepath/status.md",
+    "modlist_missing": false,
+    "has_failures": false
+  },
+  {
+    "name": "Journey",
+    "machineURL": "LostOutpost/journey",
+    "failed": 0,
+    "passed": 633,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/LostOutpost/journey/status.json",
+    "report": "reports/LostOutpost/journey/status.md",
     "modlist_missing": false,
     "has_failures": false
   }
