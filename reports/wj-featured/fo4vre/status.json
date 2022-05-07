@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/fo4vre",
   "Name": "Fallout VR Essentials Overhaul",
-  "Version": "11.1",
-  "ModListHash": "YFwSjdR3dzA=",
+  "Version": "11.2",
+  "ModListHash": "6kTItQVhWY0=",
   "Archives": [
     {
       "Status": "Valid",
@@ -63,6 +63,27 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/fholger/f4ovr_improvements/releases/download/cas/fo4_controller_fix_and_cas.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5lnqwWvOd70=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=33946\nfileID=221778",
+        "Name": "xSE PluginPreloader F4 0.2.5.1-33946-0-2-5-1-1637347868.zip",
+        "Size": 2253885,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Karandra",
+          "Description": "This mod allows preload F4SE plugins before the game initializes.",
+          "FileID": 221778,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33946/33946-1637514329-1439127529.png",
+          "IsNSFW": false,
+          "ModID": 33946,
+          "Name": "xSE PluginPreloader F4",
+          "Version": "0.2.5.1"
         }
       }
     },
