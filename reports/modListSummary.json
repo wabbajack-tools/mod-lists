@@ -110,14 +110,14 @@
   {
     "name": "Box of Rockets",
     "machineURL": "wj-featured/BOR",
-    "failed": 1,
-    "passed": 60,
+    "failed": 0,
+    "passed": 61,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/wj-featured/BOR/status.json",
     "report": "reports/wj-featured/BOR/status.md",
     "modlist_missing": false,
-    "has_failures": true
+    "has_failures": false
   },
   {
     "name": "The Phoenix Flavour",
@@ -152,18 +152,6 @@
     "mirrored": 0,
     "link": "reports/wj-featured/auriels_dream/status.json",
     "report": "reports/wj-featured/auriels_dream/status.md",
-    "modlist_missing": false,
-    "has_failures": false
-  },
-  {
-    "name": "Diabolist VR",
-    "machineURL": "wj-featured/diabolist_vr",
-    "failed": 0,
-    "passed": 682,
-    "updating": 0,
-    "mirrored": 0,
-    "link": "reports/wj-featured/diabolist_vr/status.json",
-    "report": "reports/wj-featured/diabolist_vr/status.md",
     "modlist_missing": false,
     "has_failures": false
   },
@@ -620,6 +608,30 @@
     "mirrored": 0,
     "link": "reports/LostOutpost/journey/status.json",
     "report": "reports/LostOutpost/journey/status.md",
+    "modlist_missing": false,
+    "has_failures": false
+  },
+  {
+    "name": "Diabolist VR",
+    "machineURL": "ex0tek/diabolist_vr",
+    "failed": 0,
+    "passed": 682,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/ex0tek/diabolist_vr/status.json",
+    "report": "reports/ex0tek/diabolist_vr/status.md",
+    "modlist_missing": false,
+    "has_failures": false
+  },
+  {
+    "name": "Legend of SkyrimVR",
+    "machineURL": "ex0tek/LoSVR",
+    "failed": 0,
+    "passed": 611,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/ex0tek/LoSVR/status.json",
+    "report": "reports/ex0tek/LoSVR/status.md",
     "modlist_missing": false,
     "has_failures": false
   }
