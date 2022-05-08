@@ -2,7 +2,7 @@
 
 ### Documentation and Instructions for Installer Version 2.2.6, Wabbajack 2.5.2.2+
 
-**NOTE**: Welcome! Before we get started, a note: if you encounter issues with your installation, please direct support queries to the Heartland support channel ([#heartland-support](https://discord.com/channels/605449136870916175/623464963616276490)) in the [Wabbajack discord](https://discord.gg/wabbajack). Additionally, while we can't provide tailored support if you modify or build upon the list, advice can be sought in the [Heartland thread](https://discord.com/channels/605449136870916175/881449257805185035) of the #general-oblivion-discussion channel. 
+**NOTE**: Welcome! Before we get started, a note: if you encounter issues with your installation, the Heartland support channel can be found on (Drazden and Dark's Modding Hub)[https://discord.gg/xQmzNASbz5]. Please direct any and all support queries there.
 
 ## Mandatory Instructions
 
@@ -123,11 +123,7 @@ This won't be to everyone's tastes (particularly the pauses), but I encourage yo
 
 ### Mod Suggestions, Gameplay Profiles, and Installing Additional Mods
 
-The base Heartland modlist overhauls visuals and stability, leaving the gameplay systems (questing, levelling, level scaling, combat) in a vanilla state. Given this, you may want to consider adding additional mods to enhance Oblivion's gameplay.
-
-While we cannot guarantee support if you modify the list, we can provide advice. Please direct any modlist editing or additions queries to the Heartland thread within the #general-oblivion-discussion Wabbajack Discord channel. To navigate there in the browser, simply open [this link](https://discord.com/channels/605449136870916175/881449257805185035). Otherwise, in the Discord app: select the #general-oblivion-discussion channel, press the threads (#) button on the top bar, and select 'Heartland - Modlist Additions'. Depending on activity, this thread will appear either within the 'Active' or 'Archived' tab.
-
-![](https://i.imgur.com/zBcL80g.png)
+The base Heartland modlist overhauls visuals and stability, leaving the gameplay systems (questing, levelling, level scaling, combat) in a vanilla state. Given this, you may want to consider adding additional mods to enhance Oblivion's gameplay. Below are some general steps to follow in order to add mods on top of the list. Please note though, we cannot provide support for list modifications, so you are more than welcome to play around, but do so at your own risk!
 
 #### General Steps
 
@@ -186,7 +182,7 @@ _BSA Decompressor recreates BSA archives without zlib compression so the game is
 1. _I receive a blank / black screen on start up._
     * Replace the Oblivion.ini file in Documents/MyGames/Oblivion and [MO2 Install]/profiles/Heartland with [this version](https://drive.google.com/file/d/1nby-4x-eFlEC4nvIlERilWVstzHztRck/view?usp=sharing).
 2. _I am unable to download [X] mod during the Wabbajack install process, and from the Nexus page I can see that it was updated within the past week._
-    * The mod in question has been updated and the mod author has not kept the previous version accessible on the Nexus. As such, the current modlist cannot be installed and must be updated. If you encounter this and it has not been mentioned in the #heartland-support channel on Discord, please ping me (@Sam) so that I am aware of the issue and can update the modlist as soon as possible. 
+    * The mod in question has been updated and the mod author has not kept the previous version accessible on the Nexus. As such, the current modlist cannot be installed and must be updated. If you encounter this and it has not been mentioned in the support channel on [Drazden and Dark's Modding Hub Discord](https://discord.gg/xQmzNASbz5), please ping me (@Sam) so that I am aware of the issue and can update the modlist as soon as possible. 
 3. _I can’t run the Oblivion executable from MO2 - I get an application error._
     * If you bought the game through Steam, it needs to be running in the background for you to play the game. Boot up Steam and give it another try.
 4. _When I run Oblivion, a new window opens and I can hear the main menu audio, but all I get is a blank/black screen._
