@@ -56,9 +56,9 @@ Only applicable if you purchased the standard GOTY version of Oblivion. (if this
 7. **Interior Draw Distance ENB Fog Fix**
 8. **Grimbot's Spell Tomes Jackets**
 
-##### _Widescreen Users_
+##### _Ultrawide Users_
 
-Only applicable if you use a monitor with resolution greater than 1920x1080.
+Only applicable for use with a monitor that has greater than a 16:9 aspect ratio.
 
 * Open the **INI Editor in MO2** (jigsaw/puzzle icon on the top bar).
 * Under **[Display]**, change **iSizeW** and **iSizeH** to match your resolution. For example, for 1440p, iSizeW=3440 and iSizeH=1440.
