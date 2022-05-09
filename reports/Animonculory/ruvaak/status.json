@@ -1,8 +1,8 @@
 {
   "MachineURL": "Animonculory/ruvaak",
   "Name": "Ruvaak",
-  "Version": "2.1.1.1",
-  "ModListHash": "UCv2IkymyXU=",
+  "Version": "2.1.1.2",
+  "ModListHash": "cZiNzyI2N10=",
   "Archives": [
     {
       "Status": "Valid",
@@ -3795,27 +3795,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "OAfLc1uBMsw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=61004\nfileID=255717",
-        "Name": "CC Armour Integration - Ebony Plate Patch-61004-2-01-1641842673.rar",
-        "Size": 654,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "criminal tango",
-          "Description": "Creation Club content being thrown at you from level 1 completely destroyed any sense of progression in the game. This mod changes that. No more dragonbone and daedric artifacts at level 1. You decide when AE quests start now.",
-          "FileID": 255717,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61004/61004-1640985021-342366766.jpeg",
-          "IsNSFW": false,
-          "ModID": 61004,
-          "Name": "Rebalancing Anniversary Edition - Quest Requirements.",
-          "Version": "f2.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "xFvJEbAYu0I=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=60111\nfileID=249383",
         "Name": "CC Bow of Shadows Lingering Invisibility Fix-60111-1-0-0-1639591322.7z",
@@ -6730,21 +6709,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+sTAFInk7Gc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=29020\nfileID=251396",
-        "Name": "Creation Club Integration - Armours-29020-3-0-3-1640345941.7z",
-        "Size": 127361,
+        "Hash": "2B5CeRzP03o=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=29020\nfileID=270275",
+        "Name": "Creation Club Integration - Armours-29020-4-0-0a-1647327230.7z",
+        "Size": 104323,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "moose",
           "Description": "Better integrates most of the armours available from the Creation Club into the world.",
-          "FileID": 251396,
+          "FileID": 270275,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29020/29020-1574782625-984688975.png",
           "IsNSFW": false,
           "ModID": 29020,
           "Name": "Creation Club Integration - Armours",
-          "Version": "3.0.3.0"
+          "Version": "4.0.0.0a"
         }
       }
     },
@@ -7528,48 +7507,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "9alJW/JbiHo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=65963\nfileID=275086",
-        "Name": "Dynamic Armor Variants-65963-1-0-2-1649189461.7z",
-        "Size": 887377,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Parapets",
-          "Description": "Framework for mods to define variants of armors by swapping armor addons dynamically at runtime.",
-          "FileID": 275086,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65963/65963-1649018415-683313530.png",
-          "IsNSFW": false,
-          "ModID": 65963,
-          "Name": "Dynamic Armor Variants",
-          "Version": "1.0.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4qWbpAFGqL8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=65964\nfileID=274711",
-        "Name": "Dynamic Lowered Hoods-65964-1-0-0-1649069652.7z",
-        "Size": 460169,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Parapets",
-          "Description": "Uses the Dynamic Armor Variants framework to allow hoods to be lowered and raised dynamically.",
-          "FileID": 274711,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65964/65964-1649065028-1391239046.png",
-          "IsNSFW": false,
-          "ModID": 65964,
-          "Name": "Dynamic Lowered Hoods",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "i7SQCEIlTXM=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=60741\nfileID=253415",
         "Name": "Dynamic Things Alternative - Base Object Swapper (0.2 Beta)-60741-0-2-1641151266.7z",
@@ -8068,6 +8005,27 @@
           "ModID": 13552,
           "Name": "Expanded Towns and Cities (SSE)",
           "Version": "0.6.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WmEH2UBe4ks=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=67477\nfileID=282364",
+        "Name": "EternalFlames_Violet-67477-1-3-1652033154.7z",
+        "Size": 819099,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "cyberrumor",
+          "Description": "Base Object Swapper plugin that replaces fire in crypts with eternal fire. Pick between blue and violet.",
+          "FileID": 282364,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67477/67477-1652015690-102479166.png",
+          "IsNSFW": false,
+          "ModID": 67477,
+          "Name": "Eternal Flames",
+          "Version": "1.3.0.0"
         }
       }
     },
@@ -12148,48 +12106,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "IcGC07HyTps=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59014\nfileID=265649",
-        "Name": "OWL - Full Creation Club Integration-59014-1-0-10-1645371678.zip",
-        "Size": 41408,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ghastly",
-          "Description": "The pretty much official patch hub for Creation Club and OWL. I\u0027ll be adding the rest soon!",
-          "FileID": 265649,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59014/59014-1637806989-652659361.jpeg",
-          "IsNSFW": false,
-          "ModID": 59014,
-          "Name": "Ghastly\u0027s Open World Loot Creation Club Patches",
-          "Version": "1.0.10.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "5awQ/U/YqFo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59014\nfileID=249723",
-        "Name": "OWL - Creation Club Full Integration-59014-1-0-4-1639706312.7z",
-        "Size": 11113,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ghastly",
-          "Description": "The pretty much official patch hub for Creation Club and OWL. I\u0027ll be adding the rest soon!",
-          "FileID": 249723,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59014/59014-1637806989-652659361.jpeg",
-          "IsNSFW": false,
-          "ModID": 59014,
-          "Name": "Ghastly\u0027s Open World Loot Creation Club Patches",
-          "Version": "1.0.4.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "C98tk1o9K4c=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=49681\nfileID=255366",
         "Name": "OWL Main FIle-49681-1-3-2-1641742148.7z",
@@ -12415,6 +12331,48 @@
           "ModID": 60889,
           "Name": "Some OWL patches",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "djJe7xROLfQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59014\nfileID=279815",
+        "Name": "OWL - Full Creation Club Integration-59014-2-0-0-1651002760.zip",
+        "Size": 41014,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ghastly",
+          "Description": "The pretty much official patch hub for Creation Club and OWL. I\u0027ll be adding the rest soon!",
+          "FileID": 279815,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59014/59014-1637806989-652659361.jpeg",
+          "IsNSFW": false,
+          "ModID": 59014,
+          "Name": "Ghastly\u0027s Open World Loot Creation Club Patches",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5awQ/U/YqFo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59014\nfileID=249723",
+        "Name": "OWL - Creation Club Full Integration-59014-1-0-4-1639706312.7z",
+        "Size": 11113,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ghastly",
+          "Description": "The pretty much official patch hub for Creation Club and OWL. I\u0027ll be adding the rest soon!",
+          "FileID": 249723,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59014/59014-1637806989-652659361.jpeg",
+          "IsNSFW": false,
+          "ModID": 59014,
+          "Name": "Ghastly\u0027s Open World Loot Creation Club Patches",
+          "Version": "1.0.4.0"
         }
       }
     },
@@ -16702,21 +16660,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uIKnEHY66/8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=49616\nfileID=251911",
-        "Name": "Unofficial Skyrim Modder\u0027s Patch - USMP SE-49616-2-5-4-1640545691.7z",
-        "Size": 9866430,
+        "Hash": "iBFkcirC2n8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=49616\nfileID=276476",
+        "Name": "Unofficial Skyrim Modder\u0027s Patch - USMP SE-49616-2-5-5-1649705590.7z",
+        "Size": 9867762,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "The Community - PlagueHush - sattyre",
           "Description": "A large, community compilation of fixes for bugs, inconsistencies, and errors that can come to light from a modded Skyrim and its DLCs. Curated with both mod-makers and players in mind to aid the in-game experience, and serve as a base so mod authors don\u0027t need to keep finding, fixing, and working around the same old problems",
-          "FileID": 251911,
+          "FileID": 276476,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49616/49616-1620430439-1827142343.png",
           "IsNSFW": false,
           "ModID": 49616,
           "Name": "Unofficial Skyrim Modder\u0027s Patch - USMP SE",
-          "Version": "2.5.4.0"
+          "Version": "2.5.5.0"
         }
       }
     },
@@ -20638,15 +20596,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "22edbLDzUHg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=28950\nfileID=129257",
-        "Name": "Illustrious Whiterun 8K-28950-1-2-1584557610.7z",
-        "Size": 7371264230,
+        "Hash": "W2PdRU3Qr4k=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=28950\nfileID=129253",
+        "Name": "Illustrious Whiterun 2K-28950-1-2-1584556648.7z",
+        "Size": 528871654,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "winedave",
           "Description": "My idea of what Whiterun should look like. Still A work in progress but getting there with every update. 8,4 \u0026amp; 2K versions.",
-          "FileID": 129257,
+          "FileID": 129253,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28950/28950-1620245589-72992561.png",
           "IsNSFW": false,
@@ -21220,6 +21178,27 @@
           "ModID": 26838,
           "Name": "Remember Lockpick Angle - Updated",
           "Version": "4.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "AUAEOhEJZYM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=38196\nfileID=234056",
+        "Name": "Remove Dust Fog Smoke Mist Glow-38196-1-2-1633905705.7z",
+        "Size": 58664,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Corsafire",
+          "Description": "Ultimate smoke remover. Meshes only. No esp.",
+          "FileID": 234056,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38196/38196-1594521698-233391174.png",
+          "IsNSFW": false,
+          "ModID": 38196,
+          "Name": "Remove Dust Fog Smoke Mist Glow",
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -23045,15 +23024,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QsViGUNqr4I=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=28950\nfileID=217114",
-        "Name": "Illustrious Whiterun 4K Update-28950-1-4-1627406480.7z",
-        "Size": 582084754,
+        "Hash": "S/H9iCc3JWc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=28950\nfileID=217115",
+        "Name": "Illustrious Whiterun 2K Update-28950-1-4-1627406483.7z",
+        "Size": 151049298,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "winedave",
           "Description": "My idea of what Whiterun should look like. Still A work in progress but getting there with every update. 8,4 \u0026amp; 2K versions.",
-          "FileID": 217114,
+          "FileID": 217115,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28950/28950-1620245589-72992561.png",
           "IsNSFW": false,
