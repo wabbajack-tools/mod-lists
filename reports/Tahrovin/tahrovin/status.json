@@ -1,8 +1,8 @@
 {
   "MachineURL": "Tahrovin/tahrovin",
   "Name": "Tahrovin",
-  "Version": "0.5",
-  "ModListHash": "/a3d1+QM94s=",
+  "Version": "0.6",
+  "ModListHash": "X9RMTWii4H0=",
   "Archives": [
     {
       "Status": "Valid",
@@ -502,27 +502,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5TDokI3SxNg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53334\nfileID=219122",
-        "Name": "Bijin AIO Patch-53334-1-1628213741.rar",
-        "Size": 13354,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ayrthwil",
-          "Description": "Just a patch for AI Overhaul and Bijin. The versions found on nexus are out of date. This file is temporary and will be removed if previous authors update the patch.",
-          "FileID": 219122,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53334/53334-1628213399-2038573933.png",
-          "IsNSFW": false,
-          "ModID": 53334,
-          "Name": "Bijin AI Overhaul Patch",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Djcxl+2LuY0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=1825\nfileID=30620",
         "Name": "Bijin AIO SE for USSEP-1825-AIOSE.7z",
@@ -635,27 +614,6 @@
           "IsNSFW": false,
           "ModID": 34549,
           "Name": "Blade and Blunt - A Combat Overhaul",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2iyo4LVSw0M=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=8834\nfileID=133231",
-        "Name": "Blended Roads-8834-1-7-1586448385.7z",
-        "Size": 56636479,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "T4GTR43UM3R",
-          "Description": "Roadstones are blended to the ground mesh instead of assigning a texture to an extra mesh.\n\nThis eliminates a lot of road uvw issues.",
-          "FileID": 133231,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/8834-0-1497812902.gif",
-          "IsNSFW": false,
-          "ModID": 8834,
-          "Name": "Blended Roads",
           "Version": "0.0.0.0"
         }
       }
@@ -946,13 +904,55 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8gqVCc/hXo0=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Tahrovin DynDOLOD Output.zip_5607da1d-a2cc-4a6d-aca7-95b44cf9c4ca",
+        "Hash": "Py/Z/U0Js6I=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Tahrovin DynDOLOD Output.zip_218db3d7-5373-4da4-a0bc-161a26726f10",
         "Name": "Tahrovin DynDOLOD Output.zip",
-        "Size": 1018047962,
+        "Size": 1642540863,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Tahrovin%20DynDOLOD%20Output.zip_5607da1d-a2cc-4a6d-aca7-95b44cf9c4ca"
+          "Url": "https://authored-files.wabbajack.org/Tahrovin%20DynDOLOD%20Output.zip_218db3d7-5373-4da4-a0bc-161a26726f10"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gkAH4L//v48=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54907\nfileID=260156",
+        "Name": "eFPS - Exterior FPS boost-54907-2-3-1643391992.zip",
+        "Size": 781960,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "nicola89b - Firegtx",
+          "Description": "Make Skyrim great again with miracle FPS improvement.",
+          "FileID": 260156,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54907/54907-1630845704-474935940.png",
+          "IsNSFW": false,
+          "ModID": 54907,
+          "Name": "eFPS - Exterior FPS boost",
+          "Version": "2.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pcr1Y1E9elA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54998\nfileID=273650",
+        "Name": "eFPS - Official Patch Hub-54998-1-7a-1648632543.zip",
+        "Size": 55692610,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Firegtx - nicola89b",
+          "Description": "Collection of official patches for eFPS - Exterior FPS boost",
+          "FileID": 273650,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54998/54998-1632684924-1128872551.jpeg",
+          "IsNSFW": false,
+          "ModID": 54998,
+          "Name": "eFPS - Official Patch Hub",
+          "Version": "1.7.0.0a"
         }
       }
     },
@@ -1226,6 +1226,27 @@
           "ModID": 32376,
           "Name": "Glorious Doors of Skyrim (GDOS) SE",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "q7FU2NgrlnU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20082\nfileID=241828",
+        "Name": "Grass FPS Booster-20082-5-9-1637020900.zip",
+        "Size": 120901721,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "grvulture",
+          "Description": "Grass FPS Booster is the only SSE grass density mod that gives you an FPS boost, instead of slowing you down! It supports vanilla and many many popular grass mods!",
+          "FileID": 241828,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20082/20082-1537551169-329113761.png",
+          "IsNSFW": false,
+          "ModID": 20082,
+          "Name": "Grass FPS Booster",
+          "Version": "5.9.0.0"
         }
       }
     },
@@ -1563,6 +1584,27 @@
           "ModID": 29194,
           "Name": "Interesting NPCs SE (3DNPC)",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RAU2Yx01vlM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=30247\nfileID=186274",
+        "Name": "Kalilies NPCs-30247-2-4-1613495939.7z",
+        "Size": 281787644,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kalilies",
+          "Description": "Changes the appearance of 72 female NPCs. Standalone. Meant to be used alongside Bijin and Pandorable overhauls.",
+          "FileID": 186274,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/30247/30247-1613424099-1039132898.png",
+          "IsNSFW": false,
+          "ModID": 30247,
+          "Name": "Kalilies NPCs",
+          "Version": "2.4.0.0"
         }
       }
     },
@@ -2311,27 +2353,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Uv8/agk2Uo4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=19012\nfileID=233297",
-        "Name": "PAN_NPCs - AI Overhaul patch-19012-1-4-1633635725.rar",
-        "Size": 42920,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pandorable",
-          "Description": "A visual overhaul of 85 female NPCs.",
-          "FileID": 233297,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19012/19012-1582678867-798894430.png",
-          "IsNSFW": false,
-          "ModID": 19012,
-          "Name": "Pandorable\u0027s NPCs",
-          "Version": "1.4.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "L8BmQAlIxeY=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=24135\nfileID=84822",
         "Name": "Pandorable\u0027s NPCs - Dawnguard SE - grey face fix-24135-1-1-1552519919.rar",
@@ -2437,90 +2458,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HzWLhl3VPtU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=50617\nfileID=248823",
-        "Name": "PAN_NPCs Males 2 - AI Overhaul patch-50617-1-1-1639414053.rar",
-        "Size": 23822,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pandorable",
-          "Description": "Another 60 lads.",
-          "FileID": 248823,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50617/107354-1621725506-686093569.png",
-          "IsNSFW": false,
-          "ModID": 50617,
-          "Name": "Pandorable\u0027s NPCs - males 2",
-          "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "820trMnzNZQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=60566\nfileID=251133",
-        "Name": "Pandorable\u0027s NPCs-60566-3-0-1640264407.7z",
-        "Size": 43123,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pandorable   mnikjom    SpiderAkiraC",
-          "Description": "A small patch hub for patches bringing over AI Overhaul\u0027s (version 1.6.7 as of now) changes with Pandorable\u0027s many visual overhauls for NPCs, giving you the best of both worlds.",
-          "FileID": 251133,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60566/60566-1640279465-1600713536.png",
-          "IsNSFW": false,
-          "ModID": 60566,
-          "Name": "Pandorable\u0027s NPCs and AI Overhaul SSE Patches",
-          "Version": "3.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4+99w+RtSws=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=60566\nfileID=251141",
-        "Name": "Pandorable\u0027s NPCs - Dawnguard-60566-2-0-1640265678.7z",
-        "Size": 2202,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pandorable   mnikjom    SpiderAkiraC",
-          "Description": "A small patch hub for patches bringing over AI Overhaul\u0027s (version 1.6.7 as of now) changes with Pandorable\u0027s many visual overhauls for NPCs, giving you the best of both worlds.",
-          "FileID": 251141,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60566/60566-1640279465-1600713536.png",
-          "IsNSFW": false,
-          "ModID": 60566,
-          "Name": "Pandorable\u0027s NPCs and AI Overhaul SSE Patches",
-          "Version": "2.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "UIFLhlcwqvA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=60566\nfileID=251140",
-        "Name": "Pandorable\u0027s NPCs - Dragonborn-60566-2-0-1640265648.7z",
-        "Size": 8321,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pandorable   mnikjom    SpiderAkiraC",
-          "Description": "A small patch hub for patches bringing over AI Overhaul\u0027s (version 1.6.7 as of now) changes with Pandorable\u0027s many visual overhauls for NPCs, giving you the best of both worlds.",
-          "FileID": 251140,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60566/60566-1640279465-1600713536.png",
-          "IsNSFW": false,
-          "ModID": 60566,
-          "Name": "Pandorable\u0027s NPCs and AI Overhaul SSE Patches",
-          "Version": "2.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "YiPGlEYlZ/A=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=13048\nfileID=75826",
         "Name": "PapyrusUtil VR - Scripting Utility Functions-13048-3-6b-1545409528.zip",
@@ -2599,27 +2536,6 @@
           "ModID": 58374,
           "Name": "Power Attack VR",
           "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Vie223vJrXM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=49006\nfileID=226850",
-        "Name": "PA44 AI Overhaul Patch 1.1-49006-1-1-1631055734.rar",
-        "Size": 118003,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "sidfu",
-          "Description": "This is nothing but a patch to carry over AI overhauls changes to npc but still keep the appearance of the Pride of Skyrim  NPC replacer.",
-          "FileID": 226850,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49006/49006-1619296565-1830895792.jpeg",
-          "IsNSFW": false,
-          "ModID": 49006,
-          "Name": "Pride of Skyrim - AIO Male High Poly Head Overhaul AI Overhauul patch",
-          "Version": "1.1.0.0"
         }
       }
     },
@@ -3305,27 +3221,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0QyjxbqOLJI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53186\nfileID=218286",
-        "Name": "SOSCBO better slomo patch-53186-1-0-1627894963.7z",
-        "Size": 1714,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Cangar and Kvitekvist",
-          "Description": "This is a selection of patches that are intended to be used in combination with the FUS mod list.",
-          "FileID": 218286,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53186/53186-1639838346-1697175645.png",
-          "IsNSFW": false,
-          "ModID": 53186,
-          "Name": "FUS Patch Compendium",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "s1UVANVaiaE=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=47630\nfileID=246594",
         "Name": "Spell Wheel VR-47630-1-2-5-1638635111.rar",
@@ -3774,27 +3669,6 @@
           "ModID": 266,
           "Name": "Unofficial Skyrim Special Edition Patch",
           "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "eBaAzpkBHkQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42780\nfileID=171674",
-        "Name": "USSEP - Metalsabers Beautiful Orcs of Skyrim - AI Overhaul Patch-42780-1-0--1606392004.zip",
-        "Size": 10765,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DragonBlame",
-          "Description": "A patch to apply both Unofficial Skyrim Special Edition Patch\u0027s and AI Overhaul\u0027s modifications to Metalsabers Beautiful Orcs of Skyrim mod, which changes appearances of 21 female orcs.",
-          "FileID": 171674,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42780/42780-1610474585-1424792244.jpeg",
-          "IsNSFW": false,
-          "ModID": 42780,
-          "Name": "USSEP - Metalsabers Beautiful Orcs of Skyrim - AI Overhaul Patch",
-          "Version": "1.0.0.0."
         }
       }
     },
@@ -4479,6 +4353,20 @@
           "ModID": 201,
           "Name": "BodySlide and Outfit Studio",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MsIFUQ57Jbo=",
+        "Meta": "[General]\ndirectURL=https://github.com/z-edit/zedit/releases/download/0.6.6.1/zEdit_v0.6.6.1_-_Portable_x64.7z",
+        "Name": "zEdit_v0.6.6.1_-_Portable_x64.7z",
+        "Size": 58236583,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/z-edit/zedit/releases/download/0.6.6.1/zEdit_v0.6.6.1_-_Portable_x64.7z"
         }
       }
     },
@@ -7241,6 +7129,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "2iyo4LVSw0M=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=8834\nfileID=133231",
+        "Name": "Blended Roads-8834-1-7-1586448385.7z",
+        "Size": 56636479,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "T4GTR43UM3R",
+          "Description": "Roadstones are blended to the ground mesh instead of assigning a texture to an extra mesh.\n\nThis eliminates a lot of road uvw issues.",
+          "FileID": 133231,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/8834-0-1497812902.gif",
+          "IsNSFW": false,
+          "ModID": 8834,
+          "Name": "Blended Roads",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "q15E+dpu5Jc=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=55720\nfileID=229282",
         "Name": "Legacy of The Dragonborn - SMIM Chests-55720-0-1-1-1632020411.7z",
@@ -7871,13 +7780,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "9pH5Fo2e+zA=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Tahrovin TexGen Output.zip_02bd1978-316e-4753-a5f5-a5e2e155fe32",
+        "Hash": "M3wo24azifw=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Tahrovin TexGen Output.zip_f549fab5-7859-4187-91d3-9efd3a8972af",
         "Name": "Tahrovin TexGen Output.zip",
-        "Size": 73468638,
+        "Size": 39303850,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Tahrovin%20TexGen%20Output.zip_02bd1978-316e-4753-a5f5-a5e2e155fe32"
+          "Url": "https://authored-files.wabbajack.org/Tahrovin%20TexGen%20Output.zip_f549fab5-7859-4187-91d3-9efd3a8972af"
         }
       }
     },
@@ -8871,13 +8780,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6X2Ztx40rTw=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Tahrovin xLODGen Output.zip_516c7cef-344d-490a-a850-d5260bae789d",
+        "Hash": "SUVnu2seTew=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Tahrovin xLODGen Output.zip_d2595da8-e729-452f-aa8f-593996b35f07",
         "Name": "Tahrovin xLODGen Output.zip",
-        "Size": 628953805,
+        "Size": 628636260,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Tahrovin%20xLODGen%20Output.zip_516c7cef-344d-490a-a850-d5260bae789d"
+          "Url": "https://authored-files.wabbajack.org/Tahrovin%20xLODGen%20Output.zip_d2595da8-e729-452f-aa8f-593996b35f07"
         }
       }
     },
@@ -9190,18 +9099,15 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "MGGeI/R+kRc=",
-        "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimvr_v0457.zip\ndirectURLHeaders=Referer:http://enbdev.com/mod_tesskyrimvr_v0457.htm",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimvr_v0457.zip_7e721d77-29bb-49b7-8878-a5a0a40d800f",
         "Name": "enbseries_skyrimvr_v0457.zip",
         "Size": 2551767,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [
-            "Referer:http://enbdev.com/mod_tesskyrimvr_v0457.htm"
-          ],
-          "Url": "http://enbdev.com/enbseries_skyrimvr_v0457.zip"
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimvr_v0457.zip_7e721d77-29bb-49b7-8878-a5a0a40d800f"
         }
       }
     },
@@ -9216,6 +9122,27 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/fholger/vrperfkit/releases/download/v0.3/vrperfkit_v0.3.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UQ1KWeYLP8E=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=61434\nfileID=255552",
+        "Name": "Glamur Reshade-61434-1-2-1641779848.zip",
+        "Size": 1674155,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "rhellct - see Acknowledgments",
+          "Description": "Performance-friendly Ambient Occlusion for SkyrimVR. Also includes subtle Global Illumination and bounce lighting effects. And sharpening to fix the game\u0027s blurriness, of course.\n\n\n\nCan be run on top of any weather mod, interior lighting mod, and/or ENB that you\u0027re currently using.",
+          "FileID": 255552,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61434/61434-1641526710-1912474592.png",
+          "IsNSFW": false,
+          "ModID": 61434,
+          "Name": "Glamur Reshade VR",
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -9306,27 +9233,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "UQ1KWeYLP8E=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=61434\nfileID=255552",
-        "Name": "Glamur Reshade-61434-1-2-1641779848.zip",
-        "Size": 1674155,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "rhellct - see Acknowledgments",
-          "Description": "Performance-friendly Ambient Occlusion for SkyrimVR. Also includes subtle Global Illumination and bounce lighting effects. And sharpening to fix the game\u0027s blurriness, of course.\n\n\n\nCan be run on top of any weather mod, interior lighting mod, and/or ENB that you\u0027re currently using.",
-          "FileID": 255552,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61434/61434-1641526710-1912474592.png",
-          "IsNSFW": false,
-          "ModID": 61434,
-          "Name": "Glamur Reshade VR",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "vlfRfscOsCs=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=46999\nfileID=191435",
         "Name": "The Sharper Eye-46999-1-0-1615729372.7z",
@@ -9409,6 +9315,6 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1
+  "Status": "Available",
+  "Failures": 0
 }

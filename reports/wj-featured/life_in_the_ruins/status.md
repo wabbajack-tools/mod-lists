@@ -1,11 +1,10 @@
 ## Validation Report - Life in the Ruins (wj-featured/life_in_the_ruins)
 
 
-### Invalid (1)
-*  [enbseries_fallout4_v0468.zip](http://enbdev.com/enbseries_fallout4_v0468.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (588)
+### Valid (589)
 *  [1-handed Version-11142-1-2.7z](https://www.nexusmods.com/fallout4/mods/11142/?tab=files&file_id=50631)
 *  [2287_Billboards and posters_ Complete-28267-1-2.zip](https://www.nexusmods.com/fallout4/mods/28267/?tab=files&file_id=127542)
 *  [2k - bottles label overhaul v0.9.1-1500-0-9-1.7z](https://www.nexusmods.com/fallout4/mods/1500/?tab=files&file_id=25000)
@@ -205,6 +204,7 @@
 *  [Dynaperf.zip-28143-0-9-5.zip](https://www.nexusmods.com/fallout4/mods/28143/?tab=files&file_id=116461)
 *  [Eli's Armour Compendium Vanilla Body - 1.5-22431-1-5.7z](https://www.nexusmods.com/fallout4/mods/22431/?tab=files&file_id=96364)
 *  [enbhelperf4-56566-1-1-1641666492.zip](https://www.nexusmods.com/fallout4/mods/56566/?tab=files&file_id=225947)
+*  [enbseries_fallout4_v0468.zip](http://enbdev.com/enbseries_fallout4_v0468.zip)
 *  [Encounter Zone Recalculation-45674-1-0-1592086483.zip](https://www.nexusmods.com/fallout4/mods/45674/?tab=files&file_id=184238)
 *  [Enhanced Gun Smoke 1-20872-0-6.rar](https://www.nexusmods.com/fallout4/mods/20872/?tab=files&file_id=106926)
 *  [EVB with dismemberment - nevernude female-59143-1-1648423211.7z](https://www.nexusmods.com/fallout4/mods/59143/?tab=files&file_id=233186)

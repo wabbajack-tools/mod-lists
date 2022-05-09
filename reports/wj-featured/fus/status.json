@@ -2,7 +2,7 @@
   "MachineURL": "wj-featured/fus",
   "Name": "FUS",
   "Version": "2.4.1",
-  "ModListHash": "NqXlRSEWRh0=",
+  "ModListHash": "dqmoyKBq2G8=",
   "Archives": [
     {
       "Status": "Valid",
@@ -6591,18 +6591,15 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "MGGeI/R+kRc=",
-        "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimvr_v0457.zip\ndirectURLHeaders=Referer:http://enbdev.com/mod_tesskyrimvr_v0457.htm",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimvr_v0457.zip_7e721d77-29bb-49b7-8878-a5a0a40d800f",
         "Name": "enbseries_skyrimvr_v0457.zip",
         "Size": 2551767,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [
-            "Referer:http://enbdev.com/mod_tesskyrimvr_v0457.htm"
-          ],
-          "Url": "http://enbdev.com/enbseries_skyrimvr_v0457.zip"
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimvr_v0457.zip_7e721d77-29bb-49b7-8878-a5a0a40d800f"
         }
       }
     },
@@ -6909,6 +6906,6 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1
+  "Status": "Available",
+  "Failures": 0
 }
