@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (587)
+### Valid (585)
 *  [1-handed Version-11142-1-2.7z](https://www.nexusmods.com/fallout4/mods/11142/?tab=files&file_id=50631)
 *  [2287_Billboards and posters_ Complete-28267-1-2.zip](https://www.nexusmods.com/fallout4/mods/28267/?tab=files&file_id=127542)
 *  [2k - bottles label overhaul v0.9.1-1500-0-9-1.7z](https://www.nexusmods.com/fallout4/mods/1500/?tab=files&file_id=25000)
@@ -346,7 +346,7 @@
 *  [Lunar Fallout Plus - Life In The Ruins-35168-1-0-1631260030.7z](https://www.nexusmods.com/fallout4/mods/35168/?tab=files&file_id=216575)
 *  [LunarFalloutOverhaul ver101a-34769-101a-1648842689.zip](https://www.nexusmods.com/fallout4/mods/34769/?tab=files&file_id=233563)
 *  [Lush Ambience ESL-38609-2-1-1597688218.zip](https://www.nexusmods.com/fallout4/mods/38609/?tab=files&file_id=189318)
-*  [M8r98a4f2's Complex Item Sorter-48826-1-10-1636805184.rar](https://www.nexusmods.com/fallout4/mods/48826/?tab=files&file_id=221325)
+*  [M8r98a4f2's Complex Item Sorter-48826-1-11-1652229677.rar](https://www.nexusmods.com/fallout4/mods/48826/?tab=files&file_id=237312)
 *  [Mad Can - Fury beans-10771-1-1.zip](https://www.nexusmods.com/fallout4/mods/10771/?tab=files&file_id=42229)
 *  [Makeshift Nailgun-59089-2-0-1648451550.zip](https://www.nexusmods.com/fallout4/mods/59089/?tab=files&file_id=233206)
 *  [Makeshift SMG Patch-51233-1-1648974397.7z](https://www.nexusmods.com/fallout4/mods/51233/?tab=files&file_id=233763)
@@ -361,8 +361,6 @@
 *  [Mod Configuration Menu 1.39-21497-1-39-1575706632.zip](https://www.nexusmods.com/fallout4/mods/21497/?tab=files&file_id=172180)
 *  [Mod.Organizer-2.4.4.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z)
 *  [Money Mags - Vanilla Hair-17948-1-1.zip](https://www.nexusmods.com/fallout4/mods/17948/?tab=files&file_id=72333)
-*  [More Uniques - R-54848-1-0-1633250862.7z](https://www.nexusmods.com/fallout4/mods/54848/?tab=files&file_id=218324)
-*  [MoreUniquesV2.5-18357-2-5.7z](https://www.nexusmods.com/fallout4/mods/18357/?tab=files&file_id=78674)
 *  [MS SS2 Unlock Vanilla Recruitable Vendors-59904-1-0-1-1651416319.zip](https://www.nexusmods.com/fallout4/mods/59904/?tab=files&file_id=236429)
 *  msvcp110.dll
 *  msvcr110.dll

@@ -1,8 +1,8 @@
 {
   "MachineURL": "Tahrovin/tahrovin",
   "Name": "Tahrovin",
-  "Version": "0.6.1",
-  "ModListHash": "gAzw2ZY0NFo=",
+  "Version": "0.6.2",
+  "ModListHash": "xMWS5g3Xl48=",
   "Archives": [
     {
       "Status": "Valid",
@@ -88,27 +88,6 @@
           "IsNSFW": false,
           "ModID": 3619,
           "Name": "xSHADOWMANx\u0027s Dll Loader",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "UQ1KWeYLP8E=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=61434\nfileID=255552",
-        "Name": "Glamur Reshade-61434-1-2-1641779848.zip",
-        "Size": 1674155,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "rhellct - see Acknowledgments",
-          "Description": "Performance-friendly Ambient Occlusion for SkyrimVR. Also includes subtle Global Illumination and bounce lighting effects. And sharpening to fix the game\u0027s blurriness, of course.\n\n\n\nCan be run on top of any weather mod, interior lighting mod, and/or ENB that you\u0027re currently using.",
-          "FileID": 255552,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61434/61434-1641526710-1912474592.png",
-          "IsNSFW": false,
-          "ModID": 61434,
-          "Name": "Glamur Reshade VR",
           "Version": "0.0.0.0"
         }
       }
@@ -2108,21 +2087,26 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uq8KT2b+f9A=",
-        "Meta": "[General]\ngameName=skyrim\nmodID=87642\nfileID=1000345842",
-        "Name": "Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar",
-        "Size": 26127652,
+        "Hash": "zOs/2qVPBbk=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Tahrovin Nemesis Output.zip_f21686d1-e726-4645-9082-b564cfdb4b1d",
+        "Name": "Tahrovin Nemesis Output.zip",
+        "Size": 4388327,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Shikyo Kira",
-          "Description": "Your all in 1 skyrim behavior framework. Automated behavior modification extraction, behavior patching and more. Currently still in beta stage",
-          "FileID": 1000345842,
-          "GameName": "Skyrim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/110/images/87642/87642-1639422463-1327059535.png",
-          "IsNSFW": false,
-          "ModID": 87642,
-          "Name": "Project New Reign - Nemesis Unlimited Behavior Engine",
-          "Version": "0.84.0.0b-"
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/Tahrovin%20Nemesis%20Output.zip_f21686d1-e726-4645-9082-b564cfdb4b1d"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1CYbd8CT58M=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Tahrovin Nemesis Output - DE Profile.zip_2426c8fd-5ac1-4c81-b6d6-18f809d81c33",
+        "Name": "Tahrovin Nemesis Output - DE Profile.zip",
+        "Size": 3275345,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/Tahrovin%20Nemesis%20Output%20-%20DE%20Profile.zip_2426c8fd-5ac1-4c81-b6d6-18f809d81c33"
         }
       }
     },
@@ -4633,6 +4617,27 @@
           "ModID": 19250,
           "Name": "More Informative Console",
           "Version": "0.43.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uq8KT2b+f9A=",
+        "Meta": "[General]\ngameName=skyrim\nmodID=87642\nfileID=1000345842",
+        "Name": "Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar",
+        "Size": 26127652,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Shikyo Kira",
+          "Description": "Your all in 1 skyrim behavior framework. Automated behavior modification extraction, behavior patching and more. Currently still in beta stage",
+          "FileID": 1000345842,
+          "GameName": "Skyrim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/110/images/87642/87642-1639422463-1327059535.png",
+          "IsNSFW": false,
+          "ModID": 87642,
+          "Name": "Project New Reign - Nemesis Unlimited Behavior Engine",
+          "Version": "0.84.0.0b-"
         }
       }
     },
@@ -9164,6 +9169,27 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/fholger/vrperfkit/releases/download/v0.3/vrperfkit_v0.3.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UQ1KWeYLP8E=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=61434\nfileID=255552",
+        "Name": "Glamur Reshade-61434-1-2-1641779848.zip",
+        "Size": 1674155,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "rhellct - see Acknowledgments",
+          "Description": "Performance-friendly Ambient Occlusion for SkyrimVR. Also includes subtle Global Illumination and bounce lighting effects. And sharpening to fix the game\u0027s blurriness, of course.\n\n\n\nCan be run on top of any weather mod, interior lighting mod, and/or ENB that you\u0027re currently using.",
+          "FileID": 255552,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61434/61434-1641526710-1912474592.png",
+          "IsNSFW": false,
+          "ModID": 61434,
+          "Name": "Glamur Reshade VR",
+          "Version": "0.0.0.0"
         }
       }
     },
