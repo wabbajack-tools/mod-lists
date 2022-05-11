@@ -487,7 +487,7 @@ More Monsters, More Loot!
 
 **_Mods to get familiar with:_**
 
-[PLANCK](https://www.nexusmods.com/skyrimspecialedition/mods/66025)
+[PLANCK](https://www.nexusmods.com/skyrimspecialedition/mods/66025)    
 [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719)    
 [VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)    
 [HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)    
