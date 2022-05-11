@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (490)
+### Valid (491)
 *  [1207437741_BakaFactoryABCLESE.7z](https://authored-files.wabbajack.org/1207437741_BakaFactoryABCLESE.7z_072b8ab8-e8b7-414c-a86d-4886ee476e55)
 *  [2-4k. New Statue of Mehrunes Dagon. Version 1-65870-1-0-0-1648907009.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65870/?tab=files&file_id=274336)
 *  [2k-4k. New Night Mother 2A-64404-1-0-0-1646219295.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64404/?tab=files&file_id=267595)
@@ -310,6 +310,7 @@
 *  [Lux-43158-4-1-1-1650550754.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=278671)
 *  [MageVR Mod-21297-2-8-1598139579.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21297/?tab=files&file_id=157172)
 *  [Marc - Main-30404-2-3-1592762366.zip](https://www.nexusmods.com/skyrimspecialedition/mods/30404/?tab=files&file_id=146792)
+*  [MCM Helper VR-53000-1-3-0-1629918620.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53000/?tab=files&file_id=223748)
 *  [MCM Recorder-61719-1-0-7-1642847171.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61719/?tab=files&file_id=258619)
 *  Medium.ini
 *  [Menu Mouse Fix-33414-1-3-0-1624205511.rar](https://www.nexusmods.com/skyrimspecialedition/mods/33414/?tab=files&file_id=210239)
