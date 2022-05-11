@@ -477,14 +477,17 @@ Auriel's Dream is a warm welcome into modded SkyrimVR. The focus is mostly on st
 
 ***
 
-### [Diabolist VR](https://github.com/ex0-tekk/Diabolist-VR/blob/main/Readme.md)
+### [Diabolist VR](https://ex0-tekk.github.io/Diabolist-VR/)
 
-Diabolist VR pays homage to the hack'n'slash loot hoarding ARPG of the late 90s, by adding 7 Diablo inspired mods, 67 additional dungeons, 100's of unique monsters, complete with a generous 3 tier loot system. Most creatures are randomly generated and respawn often for variation and you can adjust the Fine-Tuned Challange MCM settings to change overall difficulty. Optimizing DVR during development and testing was paramount and achieved via performance tools, mods, ini settings and using hybrid 3D trees with DynDOLOD 3 (low) @ 512k res, along with xLodGen Occlusion, this modlist should run very well on many HMD/PC configurations, with top notch visuals.
+Diabolist VR is a theme focused performance friendly modlist that pays homage to the Action RPG of the late 90s, DIABLO.
+It does this by adding 10 series inspired mods, 67 additional dungeons, 100s of unique monsters, a 3 tier enchanted loot system and much more! Most enemies are generated randomly and respawn often for variation, with bosses and chests having over-the-top loot pools.
 
-Welcome to DVR... More Monsters, More Loot!
+Welcome to Diabolist VR...
+More Monsters, More Loot!
 
 **_Mods to get familiar with:_**
 
+[PLANCK](https://www.nexusmods.com/skyrimspecialedition/mods/66025)
 [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719)    
 [VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)    
 [HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)    
