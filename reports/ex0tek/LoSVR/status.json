@@ -1,8 +1,8 @@
 {
   "MachineURL": "ex0tek/LoSVR",
   "Name": "Legend of SkyrimVR",
-  "Version": "1.0.7",
-  "ModListHash": "J1pCZ1YrI4g=",
+  "Version": "1.0.8",
+  "ModListHash": "7CsYFn2cuDU=",
   "Archives": [
     {
       "Status": "Valid",
@@ -36,13 +36,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "XxHdJqmG/zI=",
-        "Meta": "[General]\ndirectURL=https://github.com/rollingrock/EngineFixesVR/releases/download/v1.22/EngineFixesVR_part2.zip",
-        "Name": "EngineFixesVR_part2.zip",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62089\nfileID=257389",
+        "Name": "Part 2 Engine Fixes VR v1.22-62089-v1-22-1642386533.zip",
         "Size": 195198,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/rollingrock/EngineFixesVR/releases/download/v1.22/EngineFixesVR_part2.zip"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "rollingrock",
+          "Description": "Port of the popular SSE Engine Fixes to the VR version of the game.",
+          "FileID": 257389,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62089/62089-1642382124-1014904395.png",
+          "IsNSFW": false,
+          "ModID": 62089,
+          "Name": "Engine Fixes VR",
+          "Version": "1.22.0.0"
         }
       }
     },
@@ -157,6 +164,27 @@
           "ModID": 39244,
           "Name": "Add Perk Points Through Console Commands",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EzzIwm5XqXc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=67433\nfileID=281032",
+        "Name": "Allow Dialogue Progress Bugfix-67433-1-0-1651482549.zip",
+        "Size": 3737,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Osmosis-Wrench",
+          "Description": "In the vanilla game, when you try to talk to an NPC that already has some dialogue running you are often unable to skip it like you can with regular dialogue and therefore have to wait for the entire dialogue line to finish. This is due to an oversight with how dialogue skipping works in the dialogue menu, and with a small patch is easy to fix.",
+          "FileID": 281032,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67433/67433-1651482248-1672759852.png",
+          "IsNSFW": false,
+          "ModID": 67433,
+          "Name": "Allow Dialogue Progress Bugfix",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -2662,6 +2690,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "ao+M1+in0rE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=67607\nfileID=282014",
+        "Name": "Fairies Lite Edition-67607-1-2-1651895488.zip",
+        "Size": 1299224,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Princessmely",
+          "Description": "Enhance the mystical beauty of your Skyrim game with these mysterious gentle creatures. Over 150 Fairies will be added to the wilderness of Tamriel, bringing spectral light and playful joy to your game.",
+          "FileID": 282014,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67607/67607-1651783815-974581357.png",
+          "IsNSFW": false,
+          "ModID": 67607,
+          "Name": "Fairies",
+          "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "pzkQaUP6b0A=",
         "Meta": "[General]\ngameName=skyrim\nmodID=34617\nfileID=1000023739",
         "Name": "Zelda Hyrule Castle Player House Followers-34617-1-0.rar",
@@ -4090,6 +4139,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "KffvQJApAuM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=7868\nfileID=21262",
+        "Name": "More Saddles SSE - FOMOD Installer-7868-1-2.rar",
+        "Size": 6419668,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Laup26",
+          "Description": "Bard, Hunter, Big Game, Traveler and Knight Saddles for all explorers and adventurers. Get off your feet, take up the reins and aim for the horizon. Nothing can stop you when you and your trusty stead are ready for it all. More Saddles brings you four more saddles to further customize your horse for the journeys ahead.",
+          "FileID": 21262,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/7868-4-1485584849.jpg",
+          "IsNSFW": false,
+          "ModID": 7868,
+          "Name": "More Saddles SSE - Horse",
+          "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "6sVQ9RmFbW8=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=59142\nfileID=244798",
         "Name": "moreHUD Inventory Edition VR-59142-1-0-0-1638023369.7z",
@@ -4384,21 +4454,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cCRaoJH3gJA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=67637\nfileID=281936",
-        "Name": "Interactive Ai - Play Fetch_v0.49-67637-0-49-1651864115.7z",
-        "Size": 543939,
+        "Hash": "EDUnybQgE/g=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=67637\nfileID=282454",
+        "Name": "Interactive Ai - Play Fetch v0.61-67637-0-61-1652081240.7z",
+        "Size": 549039,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Harison Zamperla",
           "Description": "Interactive AI - Play Fetch allows you to play fetch with any dog in the game using the havok physics system. The mod is intended to be both a a modular plug-in to enhance dog companions and also to be a modding resource/inspiration for anyone who wants to play with the basic system setup here.",
-          "FileID": 281936,
+          "FileID": 282454,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67637/67637-1651864220-702302979.png",
           "IsNSFW": false,
           "ModID": 67637,
           "Name": "INTERACTIVE AI - PLAY FETCH",
-          "Version": "0.49.0.0"
+          "Version": "0.61.0.0"
         }
       }
     },
@@ -8889,14 +8959,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "MRCUg7bj+Yc=",
-        "Meta": "[General]\ndirectURL=https://github.com/rollingrock/EngineFixesVR/releases/download/v1.22/EngineFixesVR_v122_part1.zip",
-        "Name": "EngineFixesVR_v122_part1.zip",
-        "Size": 343729,
+        "Hash": "WmWFLxFndKo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62089\nfileID=257472",
+        "Name": "Engine Fixes VR v1.22a-62089-v1-22a-1642433292.zip",
+        "Size": 343775,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/rollingrock/EngineFixesVR/releases/download/v1.22/EngineFixesVR_v122_part1.zip"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "rollingrock",
+          "Description": "Port of the popular SSE Engine Fixes to the VR version of the game.",
+          "FileID": 257472,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62089/62089-1642382124-1014904395.png",
+          "IsNSFW": false,
+          "ModID": 62089,
+          "Name": "Engine Fixes VR",
+          "Version": "1.22.0.0a"
         }
       }
     },
@@ -9780,27 +9857,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "jhVSwcPgwF4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59508\nfileID=246533",
-        "Name": "Simple Offence Suppression VR-59508-2-1-0-1638614802.7z",
-        "Size": 2981482,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "alandtse",
-          "Description": "SKSEVR plugin that prevents neutral NPCs from turning hostile when you accidentally hit them. This is built from po3\u0027s source.",
-          "FileID": 246533,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59508/59508-1638614235-1469266693.png",
-          "IsNSFW": false,
-          "ModID": 59508,
-          "Name": "Simple Offence Suppression VR",
-          "Version": "2.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "SC61jJy0OHs=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=41764\nfileID=244473",
         "Name": "Simple Offence Suppression SE-41764-2-1-0-1637919353.7z",
@@ -9815,6 +9871,27 @@
           "IsNSFW": false,
           "ModID": 41764,
           "Name": "Simple Offence Suppression",
+          "Version": "2.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jhVSwcPgwF4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59508\nfileID=246533",
+        "Name": "Simple Offence Suppression VR-59508-2-1-0-1638614802.7z",
+        "Size": 2981482,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "alandtse",
+          "Description": "SKSEVR plugin that prevents neutral NPCs from turning hostile when you accidentally hit them. This is built from po3\u0027s source.",
+          "FileID": 246533,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59508/59508-1638614235-1469266693.png",
+          "IsNSFW": false,
+          "ModID": 59508,
+          "Name": "Simple Offence Suppression VR",
           "Version": "2.1.0.0"
         }
       }
@@ -9922,21 +9999,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "YY+l7CAoPAs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=28354\nfileID=103520",
-        "Name": "SprintJumpVR-28354-1-0-1566164245.rar",
-        "Size": 202537,
+        "Hash": "YWrlu2t3k2s=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=28354\nfileID=282346",
+        "Name": "SprintJumpVR-28354-1-1-3-1652022739.rar",
+        "Size": 1376581,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Shizof",
           "Description": "An SKSE plugin to allow Sprint Jumping in SkyrimVR. Increase sprint jump height and distance with a multiplier in the config file.",
-          "FileID": 103520,
+          "FileID": 282346,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28354/28354-1566164748-2021065073.jpeg",
           "IsNSFW": false,
           "ModID": 28354,
           "Name": "Sprint Jump VR",
-          "Version": "0.0.0.0"
+          "Version": "1.1.3.0"
         }
       }
     },
@@ -9953,6 +10030,27 @@
           "GameFile": "Data\\Skyrim - Textures4.bsa",
           "GameVersion": "1.4.15.0",
           "Hash": "yg9nTkWSL+M="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "36k+HnN+nfM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=21027\nfileID=113020",
+        "Name": "Unofficial Material Fix-21027-1-17-0-1573377063.7z",
+        "Size": 12713537,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Elzee",
+          "Description": "Why material bugs need to be fixed?\n\nThey will cause wrong footstep sounds or just silence them. \n\nThey will also cause wrong sparks and sounds when weapons or other objects hit on them. \n\nWhich will suddenly break immersion during playing.",
+          "FileID": 113020,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21027/21027-1554467226-1036504381.jpeg",
+          "IsNSFW": false,
+          "ModID": 21027,
+          "Name": "Unofficial Material Fix",
+          "Version": "1.17.0.0"
         }
       }
     },
@@ -11808,6 +11906,27 @@
           "ModID": 64420,
           "Name": "Dialogue Animation Remix (DAR)",
           "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RGalO8F3ZnE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=67557\nfileID=281552",
+        "Name": "Lively Children Animations (DAR)-67557-1-0-0-1651692528.zip",
+        "Size": 1788628,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CHIMgarden",
+          "Description": "Makes kids childish: adds more than 10 idles and 10 dialogue gestures and other animations variants \u002B secret bonus animation specifically to children. No esp/esl plugin - just Dynamic Animation Replacer folders. Safe to install or delete mid-playthrough - try and see for yourself!",
+          "FileID": 281552,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67557/67557-1651690185-1631307135.png",
+          "IsNSFW": false,
+          "ModID": 67557,
+          "Name": "Lively Children Animations (DAR)",
+          "Version": "1.0.0.0"
         }
       }
     },
