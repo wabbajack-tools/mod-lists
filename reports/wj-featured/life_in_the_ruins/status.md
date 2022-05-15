@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (588)
+### Valid (590)
 *  [1-handed Version-11142-1-2.7z](https://www.nexusmods.com/fallout4/mods/11142/?tab=files&file_id=50631)
 *  [2287_Billboards and posters_ Complete-28267-1-2.zip](https://www.nexusmods.com/fallout4/mods/28267/?tab=files&file_id=127542)
 *  [2k - bottles label overhaul v0.9.1-1500-0-9-1.7z](https://www.nexusmods.com/fallout4/mods/1500/?tab=files&file_id=25000)
@@ -44,6 +44,7 @@
 *  [Beretta M9-FS - Additional Customization Options-43860-0-0-0-1584905253.zip](https://www.nexusmods.com/fallout4/mods/43860/?tab=files&file_id=177992)
 *  [Beretta M9-FS v1.0.2 (ESL)-34589-1-0-2.rar](https://www.nexusmods.com/fallout4/mods/34589/?tab=files&file_id=141241)
 *  [BETA Facials V1.6 Face Gen Data-37180-BETA-1642794899.7z](https://www.nexusmods.com/fallout4/mods/37180/?tab=files&file_id=227370)
+*  [BethINI Standalone Version-67-3-6-1-1651358958 (1).zip](https://www.nexusmods.com/fallout4/mods/67/?tab=files&file_id=236370)
 *  [Better Atom Cats Garage-14764-1-00.rar](https://www.nexusmods.com/fallout4/mods/14764/?tab=files&file_id=58601)
 *  [Better Goodneighbor - Previsibines-54036-2-0-1648306300.7z](https://www.nexusmods.com/fallout4/mods/54036/?tab=files&file_id=233014)
 *  [Better Goodneighbor Fixed ESP-59575-1-0-1649629251.7z](https://www.nexusmods.com/fallout4/mods/59575/?tab=files&file_id=234535)
@@ -137,7 +138,6 @@
 *  Data_DLCworkshop02.esm
 *  Data_DLCworkshop03 - Geometry.csg
 *  Data_DLCworkshop03 - Main.ba2
-*  Data_DLCworkshop03 - Textures.ba2
 *  Data_DLCworkshop03 - Voices_en.ba2
 *  Data_DLCworkshop03.cdx
 *  Data_DLCworkshop03.esm
@@ -197,6 +197,7 @@
 *  [DLCRobot - Textures-52423-1-03-1650756648.zip](https://www.nexusmods.com/fallout4/mods/52423/?tab=files&file_id=235772)
 *  [DLCworkshop01 - Textures-52423-1-03-1650756866.zip](https://www.nexusmods.com/fallout4/mods/52423/?tab=files&file_id=235775)
 *  [DLCworkshop02 - Textures-52423-1-03-1650758796.zip](https://www.nexusmods.com/fallout4/mods/52423/?tab=files&file_id=235777)
+*  [DLCworkshop03 - Textures-52423-1-03-1650759600.zip](https://www.nexusmods.com/fallout4/mods/52423/?tab=files&file_id=235778)
 *  [DocDrumlin_002-29977-002.zip](https://www.nexusmods.com/fallout4/mods/29977/?tab=files&file_id=122763)
 *  [DoorsNotWalls-24699-0-1.7z](https://www.nexusmods.com/fallout4/mods/24699/?tab=files&file_id=100771)
 *  [Double Barrel Shotgun Reload-22805-V3.rar](https://www.nexusmods.com/fallout4/mods/22805/?tab=files&file_id=93212)
@@ -589,6 +590,7 @@
 *  [Whose Quest Is It Anyway-51979-1-0-0-1620621492.zip](https://www.nexusmods.com/fallout4/mods/51979/?tab=files&file_id=207575)
 *  [Windows (Dim)-17205-1-21.7z](https://www.nexusmods.com/fallout4/mods/17205/?tab=files&file_id=76444)
 *  [Workshop Framework-35004-2-2-1-1652457012.7z](https://www.nexusmods.com/fallout4/mods/35004/?tab=files&file_id=237516)
+*  [Workshop Framework-35004-2-2-1a-1652578215.7z](https://www.nexusmods.com/fallout4/mods/35004/?tab=files&file_id=237678)
 *  [WX - Face Paints and Dirt-13649-1-0.rar](https://www.nexusmods.com/fallout4/mods/13649/?tab=files&file_id=53937)
 *  [xSE PluginPreloader F4 0.2.5.1-33946-0-2-5-1-1637347868.zip](https://www.nexusmods.com/fallout4/mods/33946/?tab=files&file_id=221778)
 *  [Yet Another Prydwen Overhaul-38156-1-0a-1554049593.7z](https://www.nexusmods.com/fallout4/mods/38156/?tab=files&file_id=155318)
