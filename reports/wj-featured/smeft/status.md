@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (140)
+### Valid (164)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [Actor Limit Fix (Special Edition)-32349-5-1646905082.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=269167)
@@ -25,6 +25,8 @@
 *  [ConsoleUtilSSE-24858-1-2-0-1583021370.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24858/?tab=files&file_id=126531)
 *  [Controlmap.txt Fixed and Cleaned-44160-1-02-1610755531.zip](https://www.nexusmods.com/skyrimspecialedition/mods/44160/?tab=files&file_id=179784)
 *  [Copy and Paste in Console v1.0.1 for Skyrim SE-30928-1-0-1-1615644554.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30928/?tab=files&file_id=191247)
+*  CreationKit.exe
+*  CreationKit.ini
 *  [Critters Aint Snitches v1.0 SSE-15134-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/15134/?tab=files&file_id=45421)
 *  [d3dcompiler_47-31963-1-0-1579609721.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31963/?tab=files&file_id=120677)
 *  Data_ccBGSSSE001-Fish.bsa
@@ -38,6 +40,7 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
+*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -66,6 +69,7 @@
 *  [EasyNPC-52313-0-9-5-1634521270.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52313/?tab=files&file_id=235518)
 *  [Equip Enchantment Fix-42839-1-3-4-1641880115.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42839/?tab=files&file_id=255812)
 *  [Essential Favorites SE-42997-2-2-0-1637889161.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42997/?tab=files&file_id=244390)
+*  [FaceFXWrapper 0.4-20061-0-4-1631087053.zip](https://www.nexusmods.com/skyrimspecialedition/mods/20061/?tab=files&file_id=226894)
 *  [Fast Travel Speed Multiplier v1.0-1503-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1503/?tab=files&file_id=1579)
 *  [Favorite Misc Items SE-42750-3-6-0-1649290980.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42750/?tab=files&file_id=275352)
 *  [FileAccess Interface for Skyrim SE Scripts - FISSES-13956-1-3-7-1574615841.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13956/?tab=files&file_id=114287)
@@ -73,6 +77,7 @@
 *  [Fixed body collision-10849-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/10849/?tab=files&file_id=29097)
 *  [Fixed Dragon Stalking Fix-37230-2-0-1-1621401968.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37230/?tab=files&file_id=204271)
 *  [FixNotesForSkyUI SKSE64 2.0.17-32561-1-2-1-1583205405.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32561/?tab=files&file_id=126933)
+*  flowchartx64.dll
 *  [FNIS Behavior SE 7_5_1 XXL-3038-7-5-1-1573167284.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3038/?tab=files&file_id=112786)
 *  [Freed Prisoner Uses Items-22152-1-0-1545863442.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22152/?tab=files&file_id=76286)
 *  [Fuz Ro D'oh-15109-1-7-1574514494.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15109/?tab=files&file_id=114169)
@@ -83,6 +88,15 @@
 *  [JContainers SE-16495-4-1-13-1602690897.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16495/?tab=files&file_id=165534)
 *  [KeyboardShortcutsFix_SKSE64-3620-1-0-0-2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/3620/?tab=files&file_id=35847)
 *  [Labyrinthian Shalidor's Maze Fixes-52239-0-3-1626070810.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52239/?tab=files&file_id=214147)
+*  lex_accent.tlx
+*  lex_ssceam.tlx
+*  lex_ssceam2.clx
+*  lex_sscebr.tlx
+*  lex_sscebr2.clx
+*  lex_ssceca2.clx
+*  lex_tech.tlx
+*  lex_User_correct.tlx
+*  lex_User_userdic.tlx
 *  [Logical Outfits and Classes for The Dark Brotherhood Forever - ESL-43483-2-0-1608402889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43483/?tab=files&file_id=175157)
 *  [LostDragonist-MO2-Plugins.zip](https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LostDragonist-MO2-Plugins.zip)
 *  Low.ini
@@ -105,6 +119,9 @@
 *  [No Spinning Death Animation-1432-1-31.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1432/?tab=files&file_id=9874)
 *  [NotificationLogSSE-27707-1-2-0-1583021883.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27707/?tab=files&file_id=126536)
 *  [opparco mfg command-12919-v0-2-2-1650438575.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12919/?tab=files&file_id=278400)
+*  p4com64.dll
+*  Papyrus Compiler_PapyrusCompiler.exe
+*  Papyrus Compiler_ScriptCompile.bat
 *  [Papyrus Extender-22854-5-0-3-1649837626.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=276783)
 *  [PapyrusUtil SE - Scripting Utility Functions-13048-3-9-1580810594.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=122686)
 *  [PCA 5.6.0-23852-5-6-0-1623357413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23852/?tab=files&file_id=208502)
@@ -134,6 +151,13 @@
 *  [Stay At System Page-19832-1-5-0-1583022131.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19832/?tab=files&file_id=126538)
 *  steam_api64.dll
 *  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.22.1/Synthesis.zip)
+*  Tools_Archive_Archive.exe
+*  Tools_Audio_xwmaencode.exe
+*  Tools_Elric_xg.dll
+*  Tools_Elric_xtexconv.exe
+*  Tools_HavokBehaviorPostProcess_HavokBehaviorPostProcess.exe
+*  Tools_HavokBehaviorPostProcess_readme.txt
+*  Tools_HavokBehaviorPostProcess_UpgradeHavokBehavior.bat
 *  [UIExtensions v1-2-0-17561-1-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17561/?tab=files&file_id=55628)
 *  Ultra.ini
 *  [Unofficial Creation Club Fishing Patch-59702-1-0-1638919558.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59702/?tab=files&file_id=247406)

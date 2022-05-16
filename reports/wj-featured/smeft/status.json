@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/smeft",
   "Name": "SME(FT)",
-  "Version": "2.1",
-  "ModListHash": "LaqINtrBid4=",
+  "Version": "2.2",
+  "ModListHash": "M0UhUKBffCE=",
   "Archives": [
     {
       "Status": "Valid",
@@ -86,6 +86,38 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "ifra1vPD7JE=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=CreationKit.exe",
+        "Name": "CreationKit.exe",
+        "Size": 47319432,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "CreationKit.exe",
+          "GameVersion": "1.6.353.0",
+          "Hash": "ifra1vPD7JE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BcsmObjEj9s=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=CreationKit.ini",
+        "Name": "CreationKit.ini",
+        "Size": 2709,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "CreationKit.ini",
+          "GameVersion": "1.6.353.0",
+          "Hash": "BcsmObjEj9s="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "oG0Tgfy1Vmg=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=31963\nfileID=120677",
         "Name": "d3dcompiler_47-31963-1-0-1579609721.7z",
@@ -122,6 +154,22 @@
           "ModID": 17230,
           "Name": "SSE Engine Fixes (skse64 plugin)",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bWL9LiYirZI=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=flowchartx64.dll",
+        "Name": "flowchartx64.dll",
+        "Size": 2972608,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "flowchartx64.dll",
+          "GameVersion": "1.6.353.0",
+          "Hash": "bWL9LiYirZI="
         }
       }
     },
@@ -186,6 +234,22 @@
           "GameFile": "Medium.ini",
           "GameVersion": "1.6.353.0",
           "Hash": "tBVeSwhhyNk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fZc1l6G61BQ=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=p4com64.dll",
+        "Name": "p4com64.dll",
+        "Size": 1219072,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "p4com64.dll",
+          "GameVersion": "1.6.353.0",
+          "Hash": "fZc1l6G61BQ="
         }
       }
     },
@@ -1080,6 +1144,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "1bf78U78VJc=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Scripts.zip",
+        "Name": "Data_Scripts.zip",
+        "Size": 13364473,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Scripts.zip",
+          "GameVersion": "1.6.353.0",
+          "Hash": "1bf78U78VJc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "5xD6UEtvt3M=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Animations.bsa",
         "Name": "Data_Skyrim - Animations.bsa",
@@ -1378,6 +1458,171 @@
           "GameFile": "Data\\Update.esm",
           "GameVersion": "1.6.353.0",
           "Hash": "w7YJ2li+67E="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "750xyQs09MU=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=lex\\accent.tlx",
+        "Name": "lex_accent.tlx",
+        "Size": 2338,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "lex\\accent.tlx",
+          "GameVersion": "1.6.353.0",
+          "Hash": "750xyQs09MU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BwrUHmgJXRY=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=lex\\ssceam.tlx",
+        "Name": "lex_ssceam.tlx",
+        "Size": 7796,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "lex\\ssceam.tlx",
+          "GameVersion": "1.6.353.0",
+          "Hash": "BwrUHmgJXRY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kBPCtNvqmqo=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=lex\\ssceam2.clx",
+        "Name": "lex_ssceam2.clx",
+        "Size": 328061,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "lex\\ssceam2.clx",
+          "GameVersion": "1.6.353.0",
+          "Hash": "kBPCtNvqmqo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SPdZFfZsTvw=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=lex\\sscebr.tlx",
+        "Name": "lex_sscebr.tlx",
+        "Size": 7798,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "lex\\sscebr.tlx",
+          "GameVersion": "1.6.353.0",
+          "Hash": "SPdZFfZsTvw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kqNobldeXgM=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=lex\\sscebr2.clx",
+        "Name": "lex_sscebr2.clx",
+        "Size": 330192,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "lex\\sscebr2.clx",
+          "GameVersion": "1.6.353.0",
+          "Hash": "kqNobldeXgM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+x53YoHI7S4=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=lex\\ssceca2.clx",
+        "Name": "lex_ssceca2.clx",
+        "Size": 328670,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "lex\\ssceca2.clx",
+          "GameVersion": "1.6.353.0",
+          "Hash": "+x53YoHI7S4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "s36jaa7cqlY=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=lex\\tech.tlx",
+        "Name": "lex_tech.tlx",
+        "Size": 3632,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "lex\\tech.tlx",
+          "GameVersion": "1.6.353.0",
+          "Hash": "s36jaa7cqlY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uq8KT2b+f9A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60033\nfileID=248867",
+        "Name": "Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar",
+        "Size": 26127652,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Shikyo Kira",
+          "Description": "Your all in 1 skyrim behavior framework. Automated behavior modification extraction, behavior patching and more. Currently still in beta stage",
+          "FileID": 248867,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60033/87642-1639422463-1327059535.png",
+          "IsNSFW": false,
+          "ModID": 60033,
+          "Name": "Project New Reign - Nemesis Unlimited Behavior Engine",
+          "Version": "0.84.0.0b-"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Nu8hdw/a3gw=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Papyrus Compiler\\PapyrusCompiler.exe",
+        "Name": "Papyrus Compiler_PapyrusCompiler.exe",
+        "Size": 13824,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Papyrus Compiler\\PapyrusCompiler.exe",
+          "GameVersion": "1.6.353.0",
+          "Hash": "Nu8hdw/a3gw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BMhgJJr3szE=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Papyrus Compiler\\ScriptCompile.bat",
+        "Name": "Papyrus Compiler_ScriptCompile.bat",
+        "Size": 195,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Papyrus Compiler\\ScriptCompile.bat",
+          "GameVersion": "1.6.353.0",
+          "Hash": "BMhgJJr3szE="
         }
       }
     },
@@ -1834,27 +2079,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uq8KT2b+f9A=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=60033\nfileID=248867",
-        "Name": "Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar",
-        "Size": 26127652,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Shikyo Kira",
-          "Description": "Your all in 1 skyrim behavior framework. Automated behavior modification extraction, behavior patching and more. Currently still in beta stage",
-          "FileID": 248867,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60033/87642-1639422463-1327059535.png",
-          "IsNSFW": false,
-          "ModID": 60033,
-          "Name": "Project New Reign - Nemesis Unlimited Behavior Engine",
-          "Version": "0.84.0.0b-"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "IbNnRWX8R1c=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=22854\nfileID=276783",
         "Name": "Papyrus Extender-22854-5-0-3-1649837626.7z",
@@ -1970,6 +2194,171 @@
           "GameFile": "Data\\Video\\BGS_Logo.bik",
           "GameVersion": "1.6.353.0",
           "Hash": "3z7MDvy3Dhw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HX7thozbLrQ=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=lex\\User\\correct.tlx",
+        "Name": "lex_User_correct.tlx",
+        "Size": 21529,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "lex\\User\\correct.tlx",
+          "GameVersion": "1.6.353.0",
+          "Hash": "HX7thozbLrQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QGzMWDLeDrE=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=lex\\User\\userdic.tlx",
+        "Name": "lex_User_userdic.tlx",
+        "Size": 2841,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "lex\\User\\userdic.tlx",
+          "GameVersion": "1.6.353.0",
+          "Hash": "QGzMWDLeDrE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xBx601V/M0Q=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Tools\\Archive\\Archive.exe",
+        "Name": "Tools_Archive_Archive.exe",
+        "Size": 273920,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Tools\\Archive\\Archive.exe",
+          "GameVersion": "1.6.353.0",
+          "Hash": "xBx601V/M0Q="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DBTuFk/mE2o=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20061\nfileID=226894",
+        "Name": "FaceFXWrapper 0.4-20061-0-4-1631087053.zip",
+        "Size": 28206429,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nukem",
+          "Description": "Various patches and bug fixes for the Creation Kit to make life easier.",
+          "FileID": 226894,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20061/20061-1537418488-165012313.png",
+          "IsNSFW": false,
+          "ModID": 20061,
+          "Name": "SSE CreationKit Fixes",
+          "Version": "0.4.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xEjUKCIoThk=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Tools\\Audio\\xwmaencode.exe",
+        "Name": "Tools_Audio_xwmaencode.exe",
+        "Size": 681304,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Tools\\Audio\\xwmaencode.exe",
+          "GameVersion": "1.6.353.0",
+          "Hash": "xEjUKCIoThk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Q5JO8vG8O94=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Tools\\Elric\\xg.dll",
+        "Name": "Tools_Elric_xg.dll",
+        "Size": 90624,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Tools\\Elric\\xg.dll",
+          "GameVersion": "1.6.353.0",
+          "Hash": "Q5JO8vG8O94="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CITWX8yaaL0=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Tools\\Elric\\xtexconv.exe",
+        "Name": "Tools_Elric_xtexconv.exe",
+        "Size": 536064,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Tools\\Elric\\xtexconv.exe",
+          "GameVersion": "1.6.353.0",
+          "Hash": "CITWX8yaaL0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "J6V48Q2idp8=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Tools\\HavokBehaviorPostProcess\\HavokBehaviorPostProcess.exe",
+        "Name": "Tools_HavokBehaviorPostProcess_HavokBehaviorPostProcess.exe",
+        "Size": 4730368,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Tools\\HavokBehaviorPostProcess\\HavokBehaviorPostProcess.exe",
+          "GameVersion": "1.6.353.0",
+          "Hash": "J6V48Q2idp8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "i349bhAvByI=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Tools\\HavokBehaviorPostProcess\\readme.txt",
+        "Name": "Tools_HavokBehaviorPostProcess_readme.txt",
+        "Size": 488,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Tools\\HavokBehaviorPostProcess\\readme.txt",
+          "GameVersion": "1.6.353.0",
+          "Hash": "i349bhAvByI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8jf8/ti3Sr0=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Tools\\HavokBehaviorPostProcess\\UpgradeHavokBehavior.bat",
+        "Name": "Tools_HavokBehaviorPostProcess_UpgradeHavokBehavior.bat",
+        "Size": 112,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Tools\\HavokBehaviorPostProcess\\UpgradeHavokBehavior.bat",
+          "GameVersion": "1.6.353.0",
+          "Hash": "8jf8/ti3Sr0="
         }
       }
     },
