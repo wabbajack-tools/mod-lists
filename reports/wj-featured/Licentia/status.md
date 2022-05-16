@@ -1,11 +1,12 @@
 ## Validation Report - Licentia (wj-featured/Licentia)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Improved_Camera-1.0_Beta4.7z](https://drive.google.com/uc?id=12hqOZbfeFK0zXJxpzsEXsyQyDclDQaZk&export=download)
 ### Updated (1)
 *  [OSex-17209-2-02SE-Alpha.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17209/?tab=files&file_id=54347)
 ### Mirrored (0)
-### Valid (1294)
+### Valid (1293)
 *  [-Skyrim 2020 Update 8.45 to 8.8 - 8K-2347-8-8-1646827889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=269047)
 *  [-Update 8.8.1 Solitude Moss fix-2347-8-8-1-1647693218.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=271144)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -634,7 +635,6 @@
 *  [Imperious 7.28.0-1315-7-28-0-1631877097.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1315/?tab=files&file_id=228927)
 *  [Improved Camera ini-40725-1-3-1626310079.zip](https://www.nexusmods.com/skyrimspecialedition/mods/40725/?tab=files&file_id=214622)
 *  [Improved Combat Music v. 2.0-66016-2-0.rar](https://www.nexusmods.com/skyrim/mods/66016/?tab=files&file_id=1000160769)
-*  [Improved_Camera-1.0_Beta4.7z](https://drive.google.com/uc?id=12hqOZbfeFK0zXJxpzsEXsyQyDclDQaZk&export=download)
 *  [Inferno - Fire Effects Redux-29316-4-1-1591025449.zip](https://www.nexusmods.com/skyrimspecialedition/mods/29316/?tab=files&file_id=143264)
 *  [INI file-51073-1-3-0-1635979712.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=238875)
 *  [Inigo - Bloodchill Manor Patch-58317-1-0-0-1636738152.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58317/?tab=files&file_id=240839)

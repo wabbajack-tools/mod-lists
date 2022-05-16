@@ -1,10 +1,11 @@
 ## Validation Report - Journey (LostOutpost/journey)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Improved_Camera-1.0_Beta4.7z](https://drive.google.com/uc?id=12hqOZbfeFK0zXJxpzsEXsyQyDclDQaZk&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (632)
+### Valid (631)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
 *  [(4) Community Overlays 3 - Main - CBBE and Male-35339-1-0-1588129970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136903)
@@ -272,7 +273,6 @@
 *  [Improved College Entry-22184-2-8-1602614138.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22184/?tab=files&file_id=165417)
 *  [Improved Follower Dialogue - Lydia-38473-2-0-2-1611199674.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38473/?tab=files&file_id=180809)
 *  [Improved Horse Step Sounds - Special Edition-848-2-2-1541612556.7z](https://www.nexusmods.com/skyrimspecialedition/mods/848/?tab=files&file_id=71621)
-*  [Improved_Camera-1.0_Beta4.7z](https://drive.google.com/uc?id=12hqOZbfeFK0zXJxpzsEXsyQyDclDQaZk&export=download)
 *  [Inconsequential NPCs - Crier Begone - ESPFE-40790-1-0-1600979684.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40790/?tab=files&file_id=162365)
 *  [Inconsequential NPCs 1 dot 9e-36334-1-9e.rar](https://www.nexusmods.com/skyrim/mods/36334/?tab=files&file_id=1000165316)
 *  [INI file-51073-1-5-0-1642682975.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=258051)
