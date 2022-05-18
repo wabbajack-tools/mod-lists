@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (708)
+### Valid (696)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
@@ -161,22 +161,10 @@
 *  [Crossbow Integration-28766-3-0-0-1638960494.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28766/?tab=files&file_id=247475)
 *  [Crystal Mudcrabs-52981-1-0-2-1636421039.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52981/?tab=files&file_id=239976)
 *  [Curated Curios-59340-1-0-1-1646789092.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59340/?tab=files&file_id=268984)
-*  Data_ccasvsse001-almsivi.bsa
 *  Data_ccBGSSSE001-Fish.bsa
-*  Data_ccBGSSSE001-Fish.esm
-*  Data_ccbgssse005-goldbrand.bsa
-*  Data_ccbgssse008-wraithguard.bsa
-*  Data_ccbgssse013-dawnfang.bsa
 *  Data_ccBGSSSE025-AdvDSGS.bsa
-*  Data_ccBGSSSE025-AdvDSGS.esm
-*  Data_ccbgssse031-advcyrus.bsa
 *  Data_ccBGSSSE037-Curios.bsa
 *  Data_ccBGSSSE037-Curios.esl
-*  Data_ccbgssse067-daedinv.bsa
-*  Data_ccedhsse003-redguard.bsa
-*  Data_ccffbsse001-imperialdragon.bsa
-*  Data_cckrtsse001_altar.bsa
-*  Data_ccmtysse001-knightsofthenine.bsa
 *  Data_ccQDRSSE001-SurvivalMode.bsa
 *  Data_ccQDRSSE001-SurvivalMode.esl
 *  Data_Dawnguard.esm
