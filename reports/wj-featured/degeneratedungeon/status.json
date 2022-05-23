@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/degeneratedungeon",
   "Name": "Degenerate Dungeon",
-  "Version": "3.4",
-  "ModListHash": "XYEzdE9WsZw=",
+  "Version": "3.5",
+  "ModListHash": "5IFGr9M/njg=",
   "Archives": [
     {
       "Status": "Valid",
@@ -75,13 +75,13 @@
       "Status": "Valid",
       "Original": {
         "Hash": "+51Jax/kyB4=",
-        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=dlc\\1117860_arena_mp\\dungeons\\arena\\colour_grade.png",
-        "Name": "dlc_1117860_arena_mp_dungeons_arena_colour_grade.png",
+        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=colours\\default_colour_grade.png",
+        "Name": "colours_default_colour_grade.png",
         "Size": 7495,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "DarkestDungeon",
-          "GameFile": "dlc\\1117860_arena_mp\\dungeons\\arena\\colour_grade.png",
+          "GameFile": "colours\\default_colour_grade.png",
           "GameVersion": "0.0.0.0",
           "Hash": "+51Jax/kyB4="
         }
@@ -846,6 +846,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Fmg27KM7+s0=",
+        "Meta": "[General]\ngameName=\nmodID=1052\nfileID=4115",
+        "Name": "Xelsword Houndmaster Human Dog - Replacer-1052-1-0-1596280327.zip",
+        "Size": 130675276,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "XelswordArt",
+          "Description": "This mod completely replaces the Houndmaster with a lewd, female version, with completely new animations. It has eight different versions, clothed or nude with visible or hidden eyes, an anthro or more human dog, with four color variants each.",
+          "FileID": 4115,
+          "GameName": "DarkestDungeon",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/804/images/1052/1052-1596279859-852851076.png",
+          "IsNSFW": true,
+          "ModID": 1052,
+          "Name": "Xelsword Houndmaster",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "vAGPxqzsPzg=",
         "Meta": "[General]\ngameName=\nmodID=1234\nfileID=4929",
         "Name": "Xelsword Jester - Replacer-1234-1-0-1619259930.zip",
@@ -1080,7 +1101,7 @@
           "Description": "This experimental mod adds random loading screens for main locations.",
           "FileID": 4332,
           "GameName": "DarkestDungeon",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/804/images/1084/1084-1605966671-1358319952.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/804/images/1084/1084-1641124530-474527030.png",
           "IsNSFW": true,
           "ModID": 1084,
           "Name": "Lusty Loading Screens",
@@ -1586,13 +1607,13 @@
       "Status": "Valid",
       "Original": {
         "Hash": "CBTPlQryqn4=",
-        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=heroes\\crusader\\fx\\crusader.sprite.smite.png",
-        "Name": "heroes_crusader_fx_crusader.sprite.smite.png",
+        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=heroes\\bounty_hunter\\fx\\bounty_hunter.sprite.finish_him.png",
+        "Name": "heroes_bounty_hunter_fx_bounty_hunter.sprite.finish_him.png",
         "Size": 51080,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "DarkestDungeon",
-          "GameFile": "heroes\\crusader\\fx\\crusader.sprite.smite.png",
+          "GameFile": "heroes\\bounty_hunter\\fx\\bounty_hunter.sprite.finish_him.png",
           "GameVersion": "0.0.0.0",
           "Hash": "CBTPlQryqn4="
         }
@@ -1686,13 +1707,13 @@
       "Status": "Valid",
       "Original": {
         "Hash": "e2bXKFNT5Bs=",
-        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=monsters\\ancestor_perfect\\fx\\ancestor_perfect.sprite.bloodsteal_target.png",
-        "Name": "monsters_ancestor_perfect_fx_ancestor_perfect.sprite.bloodsteal_target.png",
+        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=heroes\\occultist\\fx\\occultist.sprite.hands_from_abyss_target.png",
+        "Name": "heroes_occultist_fx_occultist.sprite.hands_from_abyss_target.png",
         "Size": 557519,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "DarkestDungeon",
-          "GameFile": "monsters\\ancestor_perfect\\fx\\ancestor_perfect.sprite.bloodsteal_target.png",
+          "GameFile": "heroes\\occultist\\fx\\occultist.sprite.hands_from_abyss_target.png",
           "GameVersion": "0.0.0.0",
           "Hash": "e2bXKFNT5Bs="
         }
@@ -1734,13 +1755,13 @@
       "Status": "Valid",
       "Original": {
         "Hash": "p2/HPJjfpOY=",
-        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=dlc\\1117860_arena_mp\\heroes\\musketeer\\fx\\musketeer.sprite.buckshot_target.png",
-        "Name": "dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.buckshot_target.png",
+        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=heroes\\highwayman\\fx\\highwayman.sprite.grape_shot_blast_target.png",
+        "Name": "heroes_highwayman_fx_highwayman.sprite.grape_shot_blast_target.png",
         "Size": 88628,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "DarkestDungeon",
-          "GameFile": "dlc\\1117860_arena_mp\\heroes\\musketeer\\fx\\musketeer.sprite.buckshot_target.png",
+          "GameFile": "heroes\\highwayman\\fx\\highwayman.sprite.grape_shot_blast_target.png",
           "GameVersion": "0.0.0.0",
           "Hash": "p2/HPJjfpOY="
         }
@@ -2052,15 +2073,15 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "JKQmLXwqRQc=",
-        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=129bykcnuNYauaKNTZR8iidiMdQSJUX2E\u0026export=download",
+        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=1qdbx_hh0cEi8daUeWiwMxizCUYpbI9eI\u0026export=download",
         "Name": "This lets your heroes use all 7 skills at once (poggers).7z",
         "Size": 18323,
         "State": {
           "$type": "GoogleDriveDownloader, Wabbajack.Lib",
-          "Id": "129bykcnuNYauaKNTZR8iidiMdQSJUX2E"
+          "Id": "1qdbx_hh0cEi8daUeWiwMxizCUYpbI9eI"
         }
       }
     },
@@ -2123,27 +2144,6 @@
           "IsNSFW": true,
           "ModID": 1077,
           "Name": "Xelsword Abomination",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Fmg27KM7+s0=",
-        "Meta": "[General]\ngameName=\nmodID=1052\nfileID=4115",
-        "Name": "Xelsword Houndmaster Human Dog - Replacer-1052-1-0-1596280327.zip",
-        "Size": 130675276,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "XelswordArt",
-          "Description": "This mod completely replaces the Houndmaster with a lewd, female version, with completely new animations. It has eight different versions, clothed or nude with visible or hidden eyes, an anthro or more human dog, with four color variants each.",
-          "FileID": 4115,
-          "GameName": "DarkestDungeon",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/804/images/1052/1052-1596279859-852851076.png",
-          "IsNSFW": true,
-          "ModID": 1052,
-          "Name": "Xelsword Houndmaster",
           "Version": "1.0.0.0"
         }
       }
@@ -3025,13 +3025,13 @@
       "Status": "Valid",
       "Original": {
         "Hash": "8ZYjnTb8c1c=",
-        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=dlc\\1117860_arena_mp\\heroes\\musketeer\\fx\\musketeer.sprite.patch_up_target.png",
-        "Name": "dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.patch_up_target.png",
+        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=heroes\\arbalest\\fx\\arbalest.sprite.battlefield_bandage_target.png",
+        "Name": "heroes_arbalest_fx_arbalest.sprite.battlefield_bandage_target.png",
         "Size": 111687,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "DarkestDungeon",
-          "GameFile": "dlc\\1117860_arena_mp\\heroes\\musketeer\\fx\\musketeer.sprite.patch_up_target.png",
+          "GameFile": "heroes\\arbalest\\fx\\arbalest.sprite.battlefield_bandage_target.png",
           "GameVersion": "0.0.0.0",
           "Hash": "8ZYjnTb8c1c="
         }
@@ -3041,13 +3041,13 @@
       "Status": "Valid",
       "Original": {
         "Hash": "VDy1aPXqG60=",
-        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=dlc\\1117860_arena_mp\\panels\\icons_equip\\banner\\rarity_crimson_court.png",
-        "Name": "dlc_1117860_arena_mp_panels_icons_equip_banner_rarity_crimson_court.png",
+        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=dlc\\580100_crimson_court\\features\\crimson_court\\panels\\icons_equip\\trinket\\rarity_crimson_court.png",
+        "Name": "dlc_580100_crimson_court_features_crimson_court_panels_icons_equip_trinket_rarity_crimson_court.png",
         "Size": 45367,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "DarkestDungeon",
-          "GameFile": "dlc\\1117860_arena_mp\\panels\\icons_equip\\banner\\rarity_crimson_court.png",
+          "GameFile": "dlc\\580100_crimson_court\\features\\crimson_court\\panels\\icons_equip\\trinket\\rarity_crimson_court.png",
           "GameVersion": "0.0.0.0",
           "Hash": "VDy1aPXqG60="
         }
@@ -3057,13 +3057,13 @@
       "Status": "Valid",
       "Original": {
         "Hash": "Qd84dniLhN4=",
-        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=dlc\\735730_color_of_madness\\monsters\\cocoon\\anim\\cocoon.sprite.dead.skel",
-        "Name": "dlc_735730_color_of_madness_monsters_cocoon_anim_cocoon.sprite.dead.skel",
+        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=dlc\\735730_color_of_madness\\monsters\\farmer\\anim\\farmer.sprite.dead.skel",
+        "Name": "dlc_735730_color_of_madness_monsters_farmer_anim_farmer.sprite.dead.skel",
         "Size": 867,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "DarkestDungeon",
-          "GameFile": "dlc\\735730_color_of_madness\\monsters\\cocoon\\anim\\cocoon.sprite.dead.skel",
+          "GameFile": "dlc\\735730_color_of_madness\\monsters\\farmer\\anim\\farmer.sprite.dead.skel",
           "GameVersion": "0.0.0.0",
           "Hash": "Qd84dniLhN4="
         }
@@ -3073,13 +3073,13 @@
       "Status": "Valid",
       "Original": {
         "Hash": "nEvH1eADAqU=",
-        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=dlc\\735730_color_of_madness\\monsters\\cocoon\\fx\\cocoon.sprite.murmurs_target.png",
-        "Name": "dlc_735730_color_of_madness_monsters_cocoon_fx_cocoon.sprite.murmurs_target.png",
+        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=dlc\\735730_color_of_madness\\monsters\\thing\\fx\\thing.sprite.phase_gnaw_target.png",
+        "Name": "dlc_735730_color_of_madness_monsters_thing_fx_thing.sprite.phase_gnaw_target.png",
         "Size": 115745,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "DarkestDungeon",
-          "GameFile": "dlc\\735730_color_of_madness\\monsters\\cocoon\\fx\\cocoon.sprite.murmurs_target.png",
+          "GameFile": "dlc\\735730_color_of_madness\\monsters\\thing\\fx\\thing.sprite.phase_gnaw_target.png",
           "GameVersion": "0.0.0.0",
           "Hash": "nEvH1eADAqU="
         }
@@ -3238,13 +3238,13 @@
       "Status": "Valid",
       "Original": {
         "Hash": "5mYS/tTq7FE=",
-        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=dlc\\1117860_arena_mp\\heroes\\shieldbreaker\\shieldbreaker.ability.four.png",
-        "Name": "dlc_1117860_arena_mp_heroes_shieldbreaker_shieldbreaker.ability.four.png",
+        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=dlc\\702540_shieldbreaker\\heroes\\shieldbreaker\\shieldbreaker.ability.four.png",
+        "Name": "dlc_702540_shieldbreaker_heroes_shieldbreaker_shieldbreaker.ability.four.png",
         "Size": 94222,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "DarkestDungeon",
-          "GameFile": "dlc\\1117860_arena_mp\\heroes\\shieldbreaker\\shieldbreaker.ability.four.png",
+          "GameFile": "dlc\\702540_shieldbreaker\\heroes\\shieldbreaker\\shieldbreaker.ability.four.png",
           "GameVersion": "0.0.0.0",
           "Hash": "5mYS/tTq7FE="
         }
@@ -3254,13 +3254,13 @@
       "Status": "Valid",
       "Original": {
         "Hash": "hdhsoHSRY2g=",
-        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=dlc\\1117860_arena_mp\\heroes\\shieldbreaker\\shieldbreaker.ability.seven.png",
-        "Name": "dlc_1117860_arena_mp_heroes_shieldbreaker_shieldbreaker.ability.seven.png",
+        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=dlc\\702540_shieldbreaker\\heroes\\shieldbreaker\\shieldbreaker.ability.seven.png",
+        "Name": "dlc_702540_shieldbreaker_heroes_shieldbreaker_shieldbreaker.ability.seven.png",
         "Size": 92901,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "DarkestDungeon",
-          "GameFile": "dlc\\1117860_arena_mp\\heroes\\shieldbreaker\\shieldbreaker.ability.seven.png",
+          "GameFile": "dlc\\702540_shieldbreaker\\heroes\\shieldbreaker\\shieldbreaker.ability.seven.png",
           "GameVersion": "0.0.0.0",
           "Hash": "hdhsoHSRY2g="
         }
@@ -4948,13 +4948,13 @@
       "Status": "Valid",
       "Original": {
         "Hash": "rOlbGhNZBDc=",
-        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=dlc\\1117860_arena_mp\\heroes\\shieldbreaker\\fx\\shieldbreaker.sprite.break_guard.png",
-        "Name": "dlc_1117860_arena_mp_heroes_shieldbreaker_fx_shieldbreaker.sprite.break_guard.png",
+        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=dlc\\702540_shieldbreaker\\heroes\\shieldbreaker\\fx\\shieldbreaker.sprite.break_guard.png",
+        "Name": "dlc_702540_shieldbreaker_heroes_shieldbreaker_fx_shieldbreaker.sprite.break_guard.png",
         "Size": 571953,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "DarkestDungeon",
-          "GameFile": "dlc\\1117860_arena_mp\\heroes\\shieldbreaker\\fx\\shieldbreaker.sprite.break_guard.png",
+          "GameFile": "dlc\\702540_shieldbreaker\\heroes\\shieldbreaker\\fx\\shieldbreaker.sprite.break_guard.png",
           "GameVersion": "0.0.0.0",
           "Hash": "rOlbGhNZBDc="
         }
@@ -4964,13 +4964,13 @@
       "Status": "Valid",
       "Original": {
         "Hash": "b1FJLuQPcfg=",
-        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=dlc\\1117860_arena_mp\\heroes\\shieldbreaker\\fx\\shieldbreaker.sprite.expose.png",
-        "Name": "dlc_1117860_arena_mp_heroes_shieldbreaker_fx_shieldbreaker.sprite.expose.png",
+        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=dlc\\702540_shieldbreaker\\heroes\\shieldbreaker\\fx\\shieldbreaker.sprite.expose.png",
+        "Name": "dlc_702540_shieldbreaker_heroes_shieldbreaker_fx_shieldbreaker.sprite.expose.png",
         "Size": 390221,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "DarkestDungeon",
-          "GameFile": "dlc\\1117860_arena_mp\\heroes\\shieldbreaker\\fx\\shieldbreaker.sprite.expose.png",
+          "GameFile": "dlc\\702540_shieldbreaker\\heroes\\shieldbreaker\\fx\\shieldbreaker.sprite.expose.png",
           "GameVersion": "0.0.0.0",
           "Hash": "b1FJLuQPcfg="
         }
@@ -4980,13 +4980,13 @@
       "Status": "Valid",
       "Original": {
         "Hash": "iHB6LAQM0sw=",
-        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=dlc\\1117860_arena_mp\\heroes\\shieldbreaker\\fx\\shieldbreaker.sprite.serpents_sway.png",
-        "Name": "dlc_1117860_arena_mp_heroes_shieldbreaker_fx_shieldbreaker.sprite.serpents_sway.png",
+        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=dlc\\702540_shieldbreaker\\heroes\\shieldbreaker\\fx\\shieldbreaker.sprite.serpents_sway.png",
+        "Name": "dlc_702540_shieldbreaker_heroes_shieldbreaker_fx_shieldbreaker.sprite.serpents_sway.png",
         "Size": 778497,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "DarkestDungeon",
-          "GameFile": "dlc\\1117860_arena_mp\\heroes\\shieldbreaker\\fx\\shieldbreaker.sprite.serpents_sway.png",
+          "GameFile": "dlc\\702540_shieldbreaker\\heroes\\shieldbreaker\\fx\\shieldbreaker.sprite.serpents_sway.png",
           "GameVersion": "0.0.0.0",
           "Hash": "iHB6LAQM0sw="
         }
@@ -4996,13 +4996,13 @@
       "Status": "Valid",
       "Original": {
         "Hash": "Ulzd7HqAdmY=",
-        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=dlc\\1117860_arena_mp\\heroes\\shieldbreaker\\fx\\shieldbreaker.sprite.single_out.png",
-        "Name": "dlc_1117860_arena_mp_heroes_shieldbreaker_fx_shieldbreaker.sprite.single_out.png",
+        "Meta": "[General]\ngameName=Darkest Dungeon\ngameFile=dlc\\702540_shieldbreaker\\heroes\\shieldbreaker\\fx\\shieldbreaker.sprite.single_out.png",
+        "Name": "dlc_702540_shieldbreaker_heroes_shieldbreaker_fx_shieldbreaker.sprite.single_out.png",
         "Size": 451135,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "DarkestDungeon",
-          "GameFile": "dlc\\1117860_arena_mp\\heroes\\shieldbreaker\\fx\\shieldbreaker.sprite.single_out.png",
+          "GameFile": "dlc\\702540_shieldbreaker\\heroes\\shieldbreaker\\fx\\shieldbreaker.sprite.single_out.png",
           "GameVersion": "0.0.0.0",
           "Hash": "Ulzd7HqAdmY="
         }
@@ -6265,8 +6265,8 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/1175f75b50753f6d_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/1175f75b50753f6d_large.webp"
 }

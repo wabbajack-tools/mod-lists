@@ -1,11 +1,10 @@
 ## Validation Report - Degenerate Dungeon (wj-featured/degeneratedungeon)
 
 
-### Invalid (1)
-*  [This lets your heroes use all 7 skills at once (poggers).7z](https://drive.google.com/uc?id=129bykcnuNYauaKNTZR8iidiMdQSJUX2E&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (341)
+### Valid (342)
 *  _windows_errors.txt
 *  [1_stagecoach_GS_A-966-1-1587388552.zip](https://www.nexusmods.com/darkestdungeon/mods/966/?tab=files&file_id=3711)
 *  [1_stagecoach_GS_C-966-1-1587388728.zip](https://www.nexusmods.com/darkestdungeon/mods/966/?tab=files&file_id=3713)
@@ -57,6 +56,7 @@
 *  [Butcher_A-1011-1-1591798411.zip](https://www.nexusmods.com/darkestdungeon/mods/1011/?tab=files&file_id=3905)
 *  [ButcherCircus_SKIN_B-1022-1-1592676995.zip](https://www.nexusmods.com/darkestdungeon/mods/1022/?tab=files&file_id=3948)
 *  [ButcherCircus_SKIN_C-1028-1-1593608035.zip](https://www.nexusmods.com/darkestdungeon/mods/1028/?tab=files&file_id=3997)
+*  colours_default_colour_grade.png
 *  [comet_trinket_OD_A-956-1-1584636589.zip](https://www.nexusmods.com/darkestdungeon/mods/956/?tab=files&file_id=3670)
 *  [comet_trinket_OD_B-956-1-1584636620.zip](https://www.nexusmods.com/darkestdungeon/mods/956/?tab=files&file_id=3671)
 *  [comet_trinket_OD_C-956-1-1584636642.zip](https://www.nexusmods.com/darkestdungeon/mods/956/?tab=files&file_id=3672)
@@ -69,7 +69,6 @@
 *  [cultist-1004-0-1-1590999219.zip](https://www.nexusmods.com/darkestdungeon/mods/1004/?tab=files&file_id=3865)
 *  [Darkest Dungeon Grave Robber porn skin-777-1-1549633740.zip](https://www.nexusmods.com/darkestdungeon/mods/777/?tab=files&file_id=3186)
 *  [DDSaveEditor-v0.0.68_1.zip](https://github.com/robojumper/DarkestDungeonSaveEditor/releases/download/v0.0.68/DDSaveEditor-v0.0.68.zip)
-*  dlc_1117860_arena_mp_dungeons_arena_colour_grade.png
 *  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.endure.atlas
 *  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.endure.png
 *  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.endure.skel
@@ -140,7 +139,6 @@
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.aimed_shot.png
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.aimed_shot.skel
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.buckshot_target.atlas
-*  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.buckshot_target.png
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.buckshot_target.skel
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.buckshot.atlas
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.buckshot.png
@@ -149,7 +147,6 @@
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.call_the_shot.png
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.call_the_shot.skel
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.patch_up_target.atlas
-*  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.patch_up_target.png
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.patch_up_target.skel
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.patch_up.atlas
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.patch_up.png
@@ -203,10 +200,6 @@
 *  dlc_1117860_arena_mp_heroes_musketeer_musketeer.ability.two.png
 *  dlc_1117860_arena_mp_heroes_shieldbreaker_anim_shieldbreaker.sprite.dead.atlas
 *  dlc_1117860_arena_mp_heroes_shieldbreaker_anim_shieldbreaker.sprite.dead.skel
-*  dlc_1117860_arena_mp_heroes_shieldbreaker_fx_shieldbreaker.sprite.break_guard.png
-*  dlc_1117860_arena_mp_heroes_shieldbreaker_fx_shieldbreaker.sprite.expose.png
-*  dlc_1117860_arena_mp_heroes_shieldbreaker_fx_shieldbreaker.sprite.serpents_sway.png
-*  dlc_1117860_arena_mp_heroes_shieldbreaker_fx_shieldbreaker.sprite.single_out.png
 *  dlc_1117860_arena_mp_heroes_shieldbreaker_icons_equip_eqp_armour_4.png
 *  dlc_1117860_arena_mp_heroes_shieldbreaker_shieldbreaker_A_anim_shieldbreaker.sprite.attack_kiss.png
 *  dlc_1117860_arena_mp_heroes_shieldbreaker_shieldbreaker_A_anim_shieldbreaker.sprite.heroic.png
@@ -226,12 +219,16 @@
 *  dlc_1117860_arena_mp_heroes_shieldbreaker_shieldbreaker_D_anim_shieldbreaker.sprite.walk.png
 *  dlc_1117860_arena_mp_heroes_shieldbreaker_shieldbreaker_D_shieldbreaker_portrait_roster.png
 *  dlc_1117860_arena_mp_heroes_shieldbreaker_shieldbreaker_guild_header.png
-*  dlc_1117860_arena_mp_heroes_shieldbreaker_shieldbreaker.ability.four.png
-*  dlc_1117860_arena_mp_heroes_shieldbreaker_shieldbreaker.ability.seven.png
-*  dlc_1117860_arena_mp_panels_icons_equip_banner_rarity_crimson_court.png
+*  dlc_580100_crimson_court_features_crimson_court_panels_icons_equip_trinket_rarity_crimson_court.png
 *  dlc_702540_shieldbreaker_campaign_roster_shieldbreaker.roster.additional_variables.json
-*  dlc_735730_color_of_madness_monsters_cocoon_anim_cocoon.sprite.dead.skel
-*  dlc_735730_color_of_madness_monsters_cocoon_fx_cocoon.sprite.murmurs_target.png
+*  dlc_702540_shieldbreaker_heroes_shieldbreaker_fx_shieldbreaker.sprite.break_guard.png
+*  dlc_702540_shieldbreaker_heroes_shieldbreaker_fx_shieldbreaker.sprite.expose.png
+*  dlc_702540_shieldbreaker_heroes_shieldbreaker_fx_shieldbreaker.sprite.serpents_sway.png
+*  dlc_702540_shieldbreaker_heroes_shieldbreaker_fx_shieldbreaker.sprite.single_out.png
+*  dlc_702540_shieldbreaker_heroes_shieldbreaker_shieldbreaker.ability.four.png
+*  dlc_702540_shieldbreaker_heroes_shieldbreaker_shieldbreaker.ability.seven.png
+*  dlc_735730_color_of_madness_monsters_farmer_anim_farmer.sprite.dead.skel
+*  dlc_735730_color_of_madness_monsters_thing_fx_thing.sprite.phase_gnaw_target.png
 *  [Dragon Mistress 1.5.0-961-1-5-0-1602390984.rar](https://www.nexusmods.com/darkestdungeon/mods/961/?tab=files&file_id=4400)
 *  [event_OD_A-1012-1-1591800134.zip](https://www.nexusmods.com/darkestdungeon/mods/1012/?tab=files&file_id=3906)
 *  [event_OD_B.zip](https://www.nexusmods.com/darkestdungeon/mods/1012/?tab=files&file_id=3907)
@@ -251,13 +248,16 @@
 *  [Guild_MH_C-943-1-1582609711.zip](https://www.nexusmods.com/darkestdungeon/mods/943/?tab=files&file_id=3630)
 *  [H Version-1265-1-1-1624103246.rar](https://www.nexusmods.com/darkestdungeon/mods/1265/?tab=files&file_id=5042)
 *  heroes_abomination_icons_equip_eqp_weapon_2.png
+*  heroes_arbalest_fx_arbalest.sprite.battlefield_bandage_target.png
 *  heroes_bounty_hunter_anim_bounty_hunter.sprite.afflicted.skel
 *  heroes_bounty_hunter_anim_bounty_hunter.sprite.heroic.skel
-*  heroes_crusader_fx_crusader.sprite.smite.png
+*  heroes_bounty_hunter_fx_bounty_hunter.sprite.finish_him.png
 *  heroes_grave_robber_icons_equip_eqp_weapon_3.png
+*  heroes_highwayman_fx_highwayman.sprite.grape_shot_blast_target.png
 *  heroes_highwayman_fx_highwayman.sprite.point_blank_shot_target.png
 *  heroes_houndmaster_icons_equip_eqp_weapon_4.png
 *  heroes_man_at_arms_icons_equip_eqp_weapon_1.png
+*  heroes_occultist_fx_occultist.sprite.hands_from_abyss_target.png
 *  heroes_occultist_icons_equip_eqp_armour_0.png
 *  heroes_occultist_icons_equip_eqp_armour_3.png
 *  heroes_vestal_icons_equip_eqp_weapon_0.png
@@ -278,7 +278,6 @@
 *  [Maid_3skin-977-1-1589025535.zip](https://www.nexusmods.com/darkestdungeon/mods/977/?tab=files&file_id=3752)
 *  [Mod Organizer 2 (Archive)-6194-2-3-0-1595984227.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6194/?tab=files&file_id=152689)
 *  [Mod.Organizer-2.4.1.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.1/Mod.Organizer-2.4.1.7z)
-*  monsters_ancestor_perfect_fx_ancestor_perfect.sprite.bloodsteal_target.png
 *  monsters_brigand_sapper_fx_brigand_sapper.sprite.detonate_target.png
 *  monsters_cultist_brawler_fx_cultist_brawler.sprite.brawler_claw.png
 *  monsters_cultist_brawler_fx_cultist_brawler.sprite.brawler_claw.skel
@@ -322,6 +321,7 @@
 *  [The Profligates - CoM Trinkets 1.1-647-1-1.rar](https://www.nexusmods.com/darkestdungeon/mods/647/?tab=files&file_id=2799)
 *  [The Shrapnel - Class Mod-562-1-3.rar](https://www.nexusmods.com/darkestdungeon/mods/562/?tab=files&file_id=2714)
 *  [The Tusk - Class Mod-482-1-5.rar](https://www.nexusmods.com/darkestdungeon/mods/482/?tab=files&file_id=2717)
+*  [This lets your heroes use all 7 skills at once (poggers).7z](https://drive.google.com/uc?id=1qdbx_hh0cEi8daUeWiwMxizCUYpbI9eI&export=download)
 *  [Tifa Lockhart - Class Mod-490-1-3.rar](https://www.nexusmods.com/darkestdungeon/mods/490/?tab=files&file_id=2716)
 *  [Trinket Slots - 5 and Inventory Slots - 24 (Triple Stacked)-972-1-3-1588194673.7z](https://www.nexusmods.com/darkestdungeon/mods/972/?tab=files&file_id=3729)
 *  [wagon_DS_A-949-1-1583256805.zip](https://www.nexusmods.com/darkestdungeon/mods/949/?tab=files&file_id=3647)
