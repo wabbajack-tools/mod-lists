@@ -13,6 +13,7 @@
   - [Tales From the Northern Lands](#tales-from-the-northern-lands)
   - [Keizaal](#keizaal)
   - [The Phoenix Flavour](#the-phoenix-flavour)
+  - [Journey](#journey)
   - [Septimus](#septimus)
   - [The Phoenix Flavour - Dragon's Edition](#the-phoenix-flavour---dragons-edition)
   - [Living Skyrim](#living-skyrim)
@@ -157,6 +158,16 @@ _**Some of the juiciest additions for you to learn about:**_
 - [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194).
 
 Look [here](https://www.nexusmods.com/skyrimspecialedition/mods/51973) to learn more.
+
+***
+
+### [Journey](https://github.com/Lost-Outpost/journey)
+
+Journey is a lightweight modlist designed to give an enhanced graphical presentation that keeps the spirit of Skyrim's aesthetic and provide a cohesive lightweight gameplay overhaul with an optional survival component using Survival Mode and optional full Creation Club integration. Play an enhanced Skyrim experience with a few carefully selected additional quests, new lands, and companions included. Journey is designed to look and run beautifully, even on lower end systems.
+
+**_Mods to get familiar with_**
+
+[Gameplay Guide Here](https://github.com/Lost-Outpost/journey/blob/main/GAMEPLAY.md)
 
 ***
 
