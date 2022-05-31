@@ -1,7 +1,8 @@
 ## Validation Report - Tales from the Northern Lands (wj-featured/TalesFromTheNorthernLands)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Improved_Camera-1.0_Beta4.7z](https://drive.google.com/uc?id=12hqOZbfeFK0zXJxpzsEXsyQyDclDQaZk&export=download)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (605)
@@ -73,6 +74,7 @@
 *  [Better PowerAttack Control-SSE-49648-v0-31-1628337415.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49648/?tab=files&file_id=219449)
 *  [Better SkyUI Config-49095-1-0-1-1620924046.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49095/?tab=files&file_id=203272)
 *  [Better Third Person Selection (SE)-64339-0-5-3-1650034048.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64339/?tab=files&file_id=277318)
+*  [Better Third Person Selection (SE)-64339-0-5-4-1651184106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64339/?tab=files&file_id=280222)
 *  [Bijin Skin UNP-20078-1-4-1541715142.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20078/?tab=files&file_id=71721)
 *  bink2w64.dll
 *  [Blackreach Tentacle Mesh Fix-43083-0-1-1607186501.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43083/?tab=files&file_id=173163)
@@ -266,7 +268,6 @@
 *  [Immersive Realistic Party Clothing Overhaul-31737-1-0-1-1616275461.zip](https://www.nexusmods.com/skyrimspecialedition/mods/31737/?tab=files&file_id=192566)
 *  [Immersive Sounds Compendium 3.0-523-3-0-1629219996.zip](https://www.nexusmods.com/skyrimspecialedition/mods/523/?tab=files&file_id=221873)
 *  [Improved College Entry-22184-2-8-1602614138.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22184/?tab=files&file_id=165417)
-*  [Improved_Camera-1.0_Beta4.7z](https://drive.google.com/uc?id=12hqOZbfeFK0zXJxpzsEXsyQyDclDQaZk&export=download)
 *  [Inferno - Fire Effects Redux-29316-4-1-1591025449.zip](https://www.nexusmods.com/skyrimspecialedition/mods/29316/?tab=files&file_id=143264)
 *  [INI file-51073-1-5-0-1642682975.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=258051)
 *  [Injured Animations Dynamic Replacer SE-34663-1-1-1615302930.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34663/?tab=files&file_id=190437)

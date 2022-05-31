@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/TalesFromTheNorthernLands",
   "Name": "Tales from the Northern Lands",
-  "Version": "2.7.1",
-  "ModListHash": "wOpFiNtGWbM=",
+  "Version": "2.7.3",
+  "ModListHash": "C4XeBd1hJKQ=",
   "Archives": [
     {
       "Status": "Valid",
@@ -8773,6 +8773,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "7VNosx7AI2A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=64339\nfileID=280222",
+        "Name": "Better Third Person Selection (SE)-64339-0-5-4-1651184106.7z",
+        "Size": 611263,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Shrimperator",
+          "Description": "SKSE DLL to overhaul 3rd person object selection. \n\n\n\nRewrites Skyrim\u0027s crosshair selection to work more like true 3rd person RPGs - no more spending 5 minutes picking up tiny gold coins from the ground!",
+          "FileID": 280222,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64339/64339-1646073940-673615021.png",
+          "IsNSFW": false,
+          "ModID": 64339,
+          "Name": "Better Third Person Selection - BTPS",
+          "Version": "0.5.4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "w2yzO40NxVo=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=58407\nfileID=242261",
         "Name": "Kanjs - Borderland Style Effect and Sky Retextures 1k-58407-1-fix-1637172459.zip",
@@ -9464,7 +9485,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "PvGn3mp5r0M=",
         "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=12hqOZbfeFK0zXJxpzsEXsyQyDclDQaZk\u0026export=download",
@@ -12388,8 +12409,8 @@
       }
     }
   ],
-  "Status": "Available",
-  "Failures": 0,
+  "Status": "Failed",
+  "Failures": 1,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/c94255cd16282326_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/c94255cd16282326_large.webp"
 }
