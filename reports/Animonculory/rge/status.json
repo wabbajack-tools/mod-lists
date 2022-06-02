@@ -2,7 +2,7 @@
   "MachineURL": "Animonculory/rge",
   "Name": "Relics of Hyrule - GAT Edition",
   "Version": "2.3.7",
-  "ModListHash": "3RDZ7FodhVE=",
+  "ModListHash": "qqkIPsfYF0Y=",
   "Archives": [
     {
       "Status": "Valid",
@@ -127,6 +127,22 @@
           "GameFile": "bink2w64.dll",
           "GameVersion": "1.6.353.0",
           "Hash": "wwYDXqpkrNE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BcsmObjEj9s=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=CreationKit.ini",
+        "Name": "CreationKit.ini",
+        "Size": 2709,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "CreationKit.ini",
+          "GameVersion": "1.6.353.0",
+          "Hash": "BcsmObjEj9s="
         }
       }
     },
@@ -6469,15 +6485,15 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "lVjBYzpCFFY=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/xLODGen.93.7z_b2c73c09-032b-4391-aa58-478cd3dcc72e",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/xLODGen.93.7z_23981423-091f-4ce0-ac77-8cb356b79957",
         "Name": "xLODGen.93.7z",
         "Size": 14690090,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/xLODGen.93.7z_b2c73c09-032b-4391-aa58-478cd3dcc72e"
+          "Url": "https://authored-files.wabbajack.org/xLODGen.93.7z_23981423-091f-4ce0-ac77-8cb356b79957"
         }
       }
     },
@@ -8155,6 +8171,22 @@
           "ModID": 22025,
           "Name": "Metalsabers Beautiful Orcs of Skyrim",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1bf78U78VJc=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Scripts.zip",
+        "Name": "Data_Scripts.zip",
+        "Size": 13364473,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Scripts.zip",
+          "GameVersion": "1.6.353.0",
+          "Hash": "1bf78U78VJc="
         }
       }
     },
@@ -19293,8 +19325,8 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Animonculory/f543387c5d3f76cd_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Animonculory/f543387c5d3f76cd_large.webp"
 }
