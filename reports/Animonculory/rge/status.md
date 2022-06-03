@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (946)
+### Valid (944)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(2K) Skygazer Moons - Masser and Secunda HD Moons by fadingsignal-54349-1-0.rar](https://www.nexusmods.com/skyrim/mods/54349/?tab=files&file_id=1000110438)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
@@ -172,7 +172,6 @@
 *  [Copy and Paste in Console v1.0.1 for Skyrim SE-30928-1-0-1-1615644554.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30928/?tab=files&file_id=191247)
 *  [coverkhajiits female version-5941-1-0.rar](https://www.nexusmods.com/skyrim/mods/5941/?tab=files&file_id=18933)
 *  [coverkhajiits male version-5941-1-0.rar](https://www.nexusmods.com/skyrim/mods/5941/?tab=files&file_id=18932)
-*  CreationKit.ini
 *  [Cross section of Mammoth snout-79400-0-21.7z](https://www.nexusmods.com/skyrim/mods/79400/?tab=files&file_id=1000224180)
 *  [Cute Eyes-13076-1-2.7z](https://www.nexusmods.com/skyrim/mods/13076/?tab=files&file_id=72556)
 *  [Daanik the Returned-21728-V3-1559776063.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21728/?tab=files&file_id=94913)
@@ -188,7 +187,6 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
-*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
