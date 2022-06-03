@@ -1,23 +1,9 @@
 {
   "MachineURL": "Keizaal/keizaal",
   "Name": "Keizaal",
-  "Version": "6.4.2",
-  "ModListHash": "M2BwsZLotTM=",
+  "Version": "6.4.3",
+  "ModListHash": "GjQinRDgYpI=",
   "Archives": [
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PfX6zen7m2M=",
-        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z",
-        "Name": "Mod.Organizer-2.4.2.7z",
-        "Size": 89503525,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z"
-        }
-      }
-    },
     {
       "Status": "Valid",
       "Original": {
@@ -64,6 +50,48 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LostDragonist-MO2-Plugins.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1fTEOE0NiTw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=57552\nfileID=237295",
+        "Name": "4thUnknown Ancient Shrouded Armor Replacer-57552-1-0-1635314985.7z",
+        "Size": 1219,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "4thUnknown - Decaro",
+          "Description": "Replaces the Ancient Shrouded armor for the amazingly crafted armor by 4thUnknown",
+          "FileID": 237295,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57552/57552-1636011112-1301072877.png",
+          "IsNSFW": false,
+          "ModID": 57552,
+          "Name": "4thUnknown - Ancient Shrouded Armor Replacer",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YnxS8l8FgNs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44508\nfileID=180247",
+        "Name": "Beyond Skyrim Scamp Patch-44508-1-0-1610979324.rar",
+        "Size": 12422,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "HeartAttackMan",
+          "Description": "Very quick mod I\u0027ve just whipped up, makes Beyond Skyrim uses 4thUknown\u0027s Scamps without changing any stats or animations, so they still use Falmer animations and attacks. Now has an option to make the Scamps in 4thUnknown\u0027s mod use Falmer animations and Flames.",
+          "FileID": 180247,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44508/44508-1610979037-243958120.jpeg",
+          "IsNSFW": false,
+          "ModID": 44508,
+          "Name": "4thUnknown\u0027s Scamps Use Falmer Animations and Flames - Beyond Skyrim Uses 4thUnknown\u0027s Scamps",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -148,6 +176,27 @@
           "ModID": 5804,
           "Name": "A Quality World Map",
           "Version": "9.0.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qWRHZq88KSs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=67776\nfileID=282482",
+        "Name": "Actually Useful Butter Churns - Base Object Swapper-67776-0-1-1-1652095277.7z",
+        "Size": 1455,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wankingSkeever",
+          "Description": "Ultra low effort mod to turn useless Hearthfire Butter Churns into useful Butter Churns",
+          "FileID": 282482,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67776/67776-1652088956-1518252907.png",
+          "IsNSFW": false,
+          "ModID": 67776,
+          "Name": "Actually Useful Butter Churns - Base Object Swapper",
+          "Version": "0.1.1.0"
         }
       }
     },
@@ -364,21 +413,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WM0AEpSpudU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=48756\nfileID=279863",
-        "Name": "Ancient Nord Stalhrim-48756-1-2-0-1651016876.zip",
-        "Size": 76544567,
+        "Hash": "EBTREKXrGj4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=48756\nfileID=288136",
+        "Name": "Ancient Nord Stalhrim-48756-1-2-1-1654109915.zip",
+        "Size": 77270476,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tate Taylor and opusGlass and jboyd4",
           "Description": "Distributes new Ancient Stalhrim weapons to high-level draugr in place of the Vanilla ebony!",
-          "FileID": 279863,
+          "FileID": 288136,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/48756/48756-1618800443-1773672043.png",
           "IsNSFW": false,
           "ModID": 48756,
           "Name": "Ancient Nord Stalhrim",
-          "Version": "1.2.0.0"
+          "Version": "1.2.1.0"
         }
       }
     },
@@ -1583,13 +1632,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "9SIVt3wp70w=",
-        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Patch/releases/download/Patch/Keizaal-Patch-main.zip",
-        "Name": "Keizaal-Patch-main.zip",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68997\nfileID=288353",
+        "Name": "Keizaal Patch-68997-6-4-2-1654194223.zip",
         "Size": 12850990,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Keizaal/Keizaal-Patch/releases/download/Patch/Keizaal-Patch-main.zip"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tate Taylor",
+          "Description": "Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda\u2019s original vision that we all fell in love with back in 2011. \n\n\n\nAlso it adds my corgis.",
+          "FileID": 288353,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68997/68997-1654173890-1501419924.png",
+          "IsNSFW": false,
+          "ModID": 68997,
+          "Name": "Keizaal - A Simple Modlist",
+          "Version": "6.4.2.0"
         }
       }
     },
@@ -3318,6 +3374,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "u7HaO5UYzow=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68997\nfileID=288311",
+        "Name": "Keizaal LODGEN-68997-6-5-0-1654180466.7z",
+        "Size": 2031202184,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tate Taylor",
+          "Description": "Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda\u2019s original vision that we all fell in love with back in 2011. \n\n\n\nAlso it adds my corgis.",
+          "FileID": 288311,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68997/68997-1654173890-1501419924.png",
+          "IsNSFW": false,
+          "ModID": 68997,
+          "Name": "Keizaal - A Simple Modlist",
+          "Version": "6.5.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "srf2tJjuf2E=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=57264\nfileID=254625",
         "Name": "DynDOLOD DLL SE - SKSE64 Plugin - Skyrim Special Edition 1.6.353-57264-2-45-1641539213.7z",
@@ -4872,14 +4949,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bf4Ai6jgpQM=",
-        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/DB_Ancient.7z",
-        "Name": "DB_Ancient.7z",
-        "Size": 2778200,
+        "Hash": "k1hJgRq/RAM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68997\nfileID=288298",
+        "Name": "Jelidity\u0027s Civil War Commanders-68997-1-0-0-1654175848.7z",
+        "Size": 22046,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/DB_Ancient.7z"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tate Taylor",
+          "Description": "Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda\u2019s original vision that we all fell in love with back in 2011. \n\n\n\nAlso it adds my corgis.",
+          "FileID": 288298,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68997/68997-1654173890-1501419924.png",
+          "IsNSFW": false,
+          "ModID": 68997,
+          "Name": "Keizaal - A Simple Modlist",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lMlpewQOc/U=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68997\nfileID=288300",
+        "Name": "Keizaal New Quest Knotwork-68997-1-0-0-1654175884.zip",
+        "Size": 244063,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tate Taylor",
+          "Description": "Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda\u2019s original vision that we all fell in love with back in 2011. \n\n\n\nAlso it adds my corgis.",
+          "FileID": 288300,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68997/68997-1654173890-1501419924.png",
+          "IsNSFW": false,
+          "ModID": 68997,
+          "Name": "Keizaal - A Simple Modlist",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "No014vbFaPI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68997\nfileID=288289",
+        "Name": "Jelidity\u0027s Distinct Imrpoved Bonemold Armor-68997-1-0-0-1654175394.7z",
+        "Size": 11204612,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tate Taylor",
+          "Description": "Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda\u2019s original vision that we all fell in love with back in 2011. \n\n\n\nAlso it adds my corgis.",
+          "FileID": 288289,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68997/68997-1654173890-1501419924.png",
+          "IsNSFW": false,
+          "ModID": 68997,
+          "Name": "Keizaal - A Simple Modlist",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -4887,13 +5013,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "01dt2H4B+vQ=",
-        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Jelidity.s.Mixtape.Vol.2.zip",
-        "Name": "Jelidity\u0027s Mixtape Vol 2.zip",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68997\nfileID=288287",
+        "Name": "The Keizaal Mixtape-68997-2-0-0-1654175351.zip",
         "Size": 53387497,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Jelidity.s.Mixtape.Vol.2.zip"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tate Taylor",
+          "Description": "Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda\u2019s original vision that we all fell in love with back in 2011. \n\n\n\nAlso it adds my corgis.",
+          "FileID": 288287,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68997/68997-1654173890-1501419924.png",
+          "IsNSFW": false,
+          "ModID": 68997,
+          "Name": "Keizaal - A Simple Modlist",
+          "Version": "2.0.0.0"
         }
       }
     },
@@ -5278,20 +5411,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "aNaRRSZArl4=",
-        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-LOD/releases/download/LOD/DynDOLOD_Output.7z",
-        "Name": "DynDOLOD_Output.7z",
-        "Size": 1135869448,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Keizaal/Keizaal-LOD/releases/download/LOD/DynDOLOD_Output.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "YksAMrR1LCs=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=43483\nfileID=175157",
         "Name": "Logical Outfits and Classes for The Dark Brotherhood Forever - ESL-43483-2-0-1608402889.7z",
@@ -5418,14 +5537,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "R06oSxOtEKk=",
-        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Maintenance/releases/download/Maintenance/Keizaal-Maintenance-main.zip",
-        "Name": "Keizaal-Maintenance-main.zip",
-        "Size": 62094793,
+        "Hash": "QyU23awClUs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=66743\nfileID=278138",
+        "Name": "Crash Log Tools-66743-1-0-0-1650316022.7z",
+        "Size": 976634,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Keizaal/Keizaal-Maintenance/releases/download/Maintenance/Keizaal-Maintenance-main.zip"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Parapets",
+          "Description": "Plugins for Mod Organizer with special functionality for crash logs, including labeling known function addresses and more.",
+          "FileID": 278138,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/66743/66743-1650315282-957851337.png",
+          "IsNSFW": false,
+          "ModID": 66743,
+          "Name": "Crash Log Tools for Mod Organizer",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -5559,13 +5685,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "JUlwnasyJ6Y=",
-        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Minor_World_Improvements.7z",
-        "Name": "Minor_World_Improvements.7z",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68997\nfileID=288296",
+        "Name": "Minor World Improvements-68997-1-0-0-1654175790.7z",
         "Size": 20855,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Minor_World_Improvements.7z"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tate Taylor",
+          "Description": "Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda\u2019s original vision that we all fell in love with back in 2011. \n\n\n\nAlso it adds my corgis.",
+          "FileID": 288296,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68997/68997-1654173890-1501419924.png",
+          "IsNSFW": false,
+          "ModID": 68997,
+          "Name": "Keizaal - A Simple Modlist",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -5867,13 +6000,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "h1qOIeUkK3k=",
-        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Mystic.Addons.-.Enchanting.and.Alchemy.Tweaks-27839-1-0-0-1565380695.7z",
-        "Name": "Mystic.Addons.-.Enchanting.and.Alchemy.Tweaks-27839-1-0-0-1565380695.7z",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68997\nfileID=288294",
+        "Name": "Mystic Addons - Enchanting and Alchemy Tweaks-68997-1-0-0-1654175695.7z",
         "Size": 1008,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Mystic.Addons.-.Enchanting.and.Alchemy.Tweaks-27839-1-0-0-1565380695.7z"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tate Taylor",
+          "Description": "Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda\u2019s original vision that we all fell in love with back in 2011. \n\n\n\nAlso it adds my corgis.",
+          "FileID": 288294,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68997/68997-1654173890-1501419924.png",
+          "IsNSFW": false,
+          "ModID": 68997,
+          "Name": "Keizaal - A Simple Modlist",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -6125,6 +6265,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "wYTZJjeJ5XM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68997\nfileID=288286",
+        "Name": "Jelidity\u0027s Oblivion Style Dwarven Mail Shield for Crimson.Trail-68997-1-0-0-1654175331.7z",
+        "Size": 1861648,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tate Taylor",
+          "Description": "Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda\u2019s original vision that we all fell in love with back in 2011. \n\n\n\nAlso it adds my corgis.",
+          "FileID": 288286,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68997/68997-1654173890-1501419924.png",
+          "IsNSFW": false,
+          "ModID": 68997,
+          "Name": "Keizaal - A Simple Modlist",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Cqxu6rubSEA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=20514\nfileID=134497",
         "Name": "Obscure\u0027s College of Winterhold-20514-1-6-1586976660.7z",
@@ -6370,13 +6531,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "QPochiSOmbw=",
-        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Patron-Rewards/releases/download/Patron-Rewards/Keizaal-Patron-Rewards-main.zip",
-        "Name": "Keizaal-Patron-Rewards-main.zip",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68997\nfileID=288354",
+        "Name": "Keizaal Patron Rewards-68997-6-4-2-1654194316.zip",
         "Size": 774411,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Keizaal/Keizaal-Patron-Rewards/releases/download/Patron-Rewards/Keizaal-Patron-Rewards-main.zip"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tate Taylor",
+          "Description": "Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda\u2019s original vision that we all fell in love with back in 2011. \n\n\n\nAlso it adds my corgis.",
+          "FileID": 288354,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68997/68997-1654173890-1501419924.png",
+          "IsNSFW": false,
+          "ModID": 68997,
+          "Name": "Keizaal - A Simple Modlist",
+          "Version": "6.4.2.0"
         }
       }
     },
@@ -6552,13 +6720,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "kPqcbZrsAhM=",
-        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-RaceMenu-Presets/releases/download/Presets/Keizaal-RaceMenu-Presets-main.zip",
-        "Name": "Keizaal-RaceMenu-Presets-main.zip",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68997\nfileID=288355",
+        "Name": "Keizaal RaceMenu Presets-68997-6-4-2-1654194344.zip",
         "Size": 6012384,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Keizaal/Keizaal-RaceMenu-Presets/releases/download/Presets/Keizaal-RaceMenu-Presets-main.zip"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tate Taylor",
+          "Description": "Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda\u2019s original vision that we all fell in love with back in 2011. \n\n\n\nAlso it adds my corgis.",
+          "FileID": 288355,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68997/68997-1654173890-1501419924.png",
+          "IsNSFW": false,
+          "ModID": 68997,
+          "Name": "Keizaal - A Simple Modlist",
+          "Version": "6.4.2.0"
         }
       }
     },
@@ -6964,20 +7139,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "D/KDL/zQEws=",
-        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Red.Mountain.Volcano.-.Tamriels.Natural.Wonder.rar",
-        "Name": "Red Mountain Volcano - Tamriels Natural Wonder.rar",
-        "Size": 6951657,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Red.Mountain.Volcano.-.Tamriels.Natural.Wonder.rar"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "EUsojVwxlt0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=41870\nfileID=213557",
         "Name": "RedBag\u0027s Dragonsreach-41870-1-4b-1625847526.7z",
@@ -7084,13 +7245,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "2cxd3uuvkWQ=",
-        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Tweaks/releases/download/Tweaks/Keizaal-Tweaks-main.zip",
-        "Name": "Keizaal-Tweaks-main.zip",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68997\nfileID=288356",
+        "Name": "Keizaal Tweaks-68997-6-4-2-1654194905.zip",
         "Size": 145074097,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Keizaal/Keizaal-Tweaks/releases/download/Tweaks/Keizaal-Tweaks-main.zip"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tate Taylor",
+          "Description": "Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda\u2019s original vision that we all fell in love with back in 2011. \n\n\n\nAlso it adds my corgis.",
+          "FileID": 288356,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68997/68997-1654173890-1501419924.png",
+          "IsNSFW": false,
+          "ModID": 68997,
+          "Name": "Keizaal - A Simple Modlist",
+          "Version": "6.4.2.0"
         }
       }
     },
@@ -7434,13 +7602,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "eb1Gsj/oypY=",
-        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Settings/releases/download/Settings/Keizaal-Settings-main.zip",
-        "Name": "Keizaal-Settings-main.zip",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68997\nfileID=288351",
+        "Name": "Keizaal Settings-68997-6-4-2-1654194190.zip",
         "Size": 275604,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Keizaal/Keizaal-Settings/releases/download/Settings/Keizaal-Settings-main.zip"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tate Taylor",
+          "Description": "Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda\u2019s original vision that we all fell in love with back in 2011. \n\n\n\nAlso it adds my corgis.",
+          "FileID": 288351,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68997/68997-1654173890-1501419924.png",
+          "IsNSFW": false,
+          "ModID": 68997,
+          "Name": "Keizaal - A Simple Modlist",
+          "Version": "6.4.2.0"
         }
       }
     },
@@ -7574,13 +7749,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "ZMN6ZH3+NJk=",
-        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Shrine.of.Kyne.zip",
-        "Name": "Shrine of Kyne.zip",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68997\nfileID=288285",
+        "Name": "Shrine of Kyne-68997-1-0-0-1654175308.zip",
         "Size": 39882301,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Shrine.of.Kyne.zip"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tate Taylor",
+          "Description": "Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda\u2019s original vision that we all fell in love with back in 2011. \n\n\n\nAlso it adds my corgis.",
+          "FileID": 288285,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68997/68997-1654173890-1501419924.png",
+          "IsNSFW": false,
+          "ModID": 68997,
+          "Name": "Keizaal - A Simple Modlist",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -7776,6 +7958,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "gbRuDrYS2XY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53733\nfileID=221544",
+        "Name": "Skaal Village Overhaul 1.1-53733-1-1-0-1629091734.7z",
+        "Size": 11238308,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Elianora",
+          "Description": "Mod completely overhauls the architecture in the Skaal Village on Solstheim and adds a new player home for you to acquire!",
+          "FileID": 221544,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53733/53733-1628793391-57904023.png",
+          "IsNSFW": false,
+          "ModID": 53733,
+          "Name": "Skaal Village Overhaul",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "q8WlfviyPms=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=52845\nfileID=217702",
         "Name": "Skeleton Replacer HD 2K SE-52845-1-1-1627666084.7z",
@@ -7811,27 +8014,6 @@
           "IsNSFW": false,
           "ModID": 57631,
           "Name": "Skinshifters - Forsworn Doppelgangers",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "d6mh8TaVDUA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=57728\nfileID=238173",
-        "Name": "Skyblivion Necromancer Robes 1.0-57728-1-0-1635687183.7z",
-        "Size": 30820472,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SKYBLIVION",
-          "Description": "This mod contains Master Necromancer robes that have been recreated for the Skyblivion project.",
-          "FileID": 238173,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57728/57728-1635685958-359079261.jpeg",
-          "IsNSFW": false,
-          "ModID": 57728,
-          "Name": "SKYBLIVION - master Necromancer Robes",
           "Version": "1.0.0.0"
         }
       }
@@ -9615,13 +9797,41 @@
       "Status": "Valid",
       "Original": {
         "Hash": "SssKsIM2M2Q=",
-        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Unique.Weapons.for.Snow.Elves.zip",
-        "Name": "Unique Weapons for Snow Elves.zip",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68997\nfileID=288292",
+        "Name": "Unique Weapons for Snow Elves-68997-1-0-0-1654175478.zip",
         "Size": 48162557,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Unique.Weapons.for.Snow.Elves.zip"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tate Taylor",
+          "Description": "Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda\u2019s original vision that we all fell in love with back in 2011. \n\n\n\nAlso it adds my corgis.",
+          "FileID": 288292,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68997/68997-1654173890-1501419924.png",
+          "IsNSFW": false,
+          "ModID": 68997,
+          "Name": "Keizaal - A Simple Modlist",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wdGxdAyVnVA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68445\nfileID=285574",
+        "Name": "Unique Windhelm Farms-68445-1-1-1653176824.7z",
+        "Size": 543856,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Domenicus-Kraeten",
+          "Description": "Makes the Farmhouses near windhelm use Kraeten\u0027s stormcloak cabin",
+          "FileID": 285574,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68445/68445-1653164954-1734747607.png",
+          "IsNSFW": false,
+          "ModID": 68445,
+          "Name": "Unique Windhelm Farmhouses",
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -10174,6 +10384,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "48mr8dPikz0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=48889\nfileID=203603",
+        "Name": "Worldspace Transition Tweaks - Skyrim To Solstheim-48889-0-1-1-1621082131.7z",
+        "Size": 147751975,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AndrealphusVIII",
+          "Description": "This mod aims to make several worldspaces across DLCs and mods more consistent.",
+          "FileID": 203603,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/48889/48889-1620230279-828475073.png",
+          "IsNSFW": false,
+          "ModID": 48889,
+          "Name": "Worldspace Transition Tweaks",
+          "Version": "0.1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GBNulGotF7c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=49316\nfileID=205225",
+        "Name": "WTT - Depths of Skyrim Patch-49316-1-0-1621809930.7z",
+        "Size": 1264992,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AndrealphusVIII",
+          "Description": "A collection of patches for my mod Worldspace Transition Tweaks.",
+          "FileID": 205225,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49316/49316-1620230774-367106312.jpeg",
+          "IsNSFW": false,
+          "ModID": 49316,
+          "Name": "Worldspace Transition Tweaks - Patches",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "p1+KAPH5g4c=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=55190\nfileID=241747",
         "Name": "Wyrm  Tamer-55190-2-0-2-1636997437.zip",
@@ -10321,27 +10573,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QyU23awClUs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=66743\nfileID=278138",
-        "Name": "Crash Log Tools-66743-1-0-0-1650316022.7z",
-        "Size": 976634,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Parapets",
-          "Description": "Plugins for Mod Organizer with special functionality for crash logs, including labeling known function addresses and more.",
-          "FileID": 278138,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/66743/66743-1650315282-957851337.png",
-          "IsNSFW": false,
-          "ModID": 66743,
-          "Name": "Crash Log Tools for Mod Organizer",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "oQk5W6Y5w6s=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=66329\nfileID=276284",
         "Name": "creation_organizer-0.0.4-66329-0-0-4-1649624468.zip",
@@ -10426,21 +10657,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SXt0ZSvGZOY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32382\nfileID=268313",
-        "Name": "DynDOLOD 3.00-32382-Alpha-76-1646521587.7z",
-        "Size": 25902238,
+        "Hash": "NfMRhARy8s0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32382\nfileID=284707",
+        "Name": "DynDOLOD 3.00-32382-Alpha-92-1652897325.7z",
+        "Size": 28486356,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sheson",
           "Description": "DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD \u002B tree LOD and the new,  optional dynamic distant object LOD in a few simple steps.",
-          "FileID": 268313,
+          "FileID": 284707,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32382/32382-1580900155-1292674369.jpeg",
           "IsNSFW": false,
           "ModID": 32382,
           "Name": "Dynamic Distant Objects LOD - DynDOLOD",
-          "Version": "Alpha-76"
+          "Version": "Alpha-92"
         }
       }
     },
@@ -10826,21 +11057,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Jzk1qpmuZNo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=52897\nfileID=281907",
-        "Name": "DynDOLOD Resources SE 3.00-52897-Alpha-25-1651860193.7z",
-        "Size": 65931557,
+        "Hash": "IvnIV4M6nXk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=52897\nfileID=284673",
+        "Name": "DynDOLOD Resources SE 3.00-52897-Alpha-27-1652888148.7z",
+        "Size": 65934120,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sheson",
           "Description": "DynDOLOD Resources SE 3 required by DynDOLOD 3 for drastically improved tree and object LOD generation.",
-          "FileID": 281907,
+          "FileID": 284673,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/52897/108514-1627373276-1783344232.jpeg",
           "IsNSFW": false,
           "ModID": 52897,
           "Name": "DynDOLOD Resources SE 3",
-          "Version": "Alpha-25"
+          "Version": "Alpha-27"
         }
       }
     },
@@ -11367,27 +11598,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "lqMbb+Jdj0E=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=28334\nfileID=104133",
-        "Name": "Remove QuickSave Button-28334-1-1-1566642678.7z",
-        "Size": 1733464,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "uranreactor",
-          "Description": "This small mod removes the \u0022Quick Save\u0022 button from System Menu (esc), that was added in SE.\n\nYou can now normally exit your game without scrolling in System Menu.",
-          "FileID": 104133,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28334/28334-1566111510-1423328506.png",
-          "IsNSFW": false,
-          "ModID": 28334,
-          "Name": "Remove QuickSave Button from SkyUI System Menu",
-          "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "oIAv4E64sXw=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=28334\nfileID=104134",
         "Name": "Remove QuickSave Button - UltraWide-28334-1-1-1566642757.7z",
@@ -11691,6 +11901,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "/mbdsvrvkg0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68139\nfileID=286549",
+        "Name": "Loose Version-68139-2-0-1653521521.rar",
+        "Size": 23116,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nightfallstorm and JR",
+          "Description": "Optimize certain vanilla scripts with PO3 Extender to reduce script lag when using lots of mods.",
+          "FileID": 286549,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68139/68139-1653490196-1459286095.jpeg",
+          "IsNSFW": false,
+          "ModID": 68139,
+          "Name": "Vanilla Scripting Enhancements",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "kO3tc6MnKtw=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=49851\nfileID=203176",
         "Name": "WE05 Script Fix-49851-1-0-1-1620879756.7z",
@@ -11895,6 +12126,48 @@
           "ModID": 41801,
           "Name": "3D Whiterun Trellis",
           "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+WW2ZzstSys=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59363\nfileID=245842",
+        "Name": "1OgresSE-59363-1-1638380873.7z",
+        "Size": 42520904,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Malacath",
+          "Description": "Adds ogres to the game",
+          "FileID": 245842,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59363/109955-1638380578-1638046479.jpeg",
+          "IsNSFW": false,
+          "ModID": 59363,
+          "Name": "Ogres SE",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "x85VcckowYM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44505\nfileID=180229",
+        "Name": "1ScampsSE-44505-0-1610972897.7z",
+        "Size": 24093439,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Creeper",
+          "Description": "This modification adds Scamps and their conjuring spell to Skyrim. \u042D\u0442\u0430 \u043C\u043E\u0434\u0438\u0444\u0438\u043A\u0430\u0446\u0438\u044F \u0434\u043E\u0431\u0430\u0432\u043B\u044F\u0435\u0442 \u0421\u043A\u0430\u043C\u043F\u043E\u0432 \u0438 \u0438\u0445 \u0442\u043E\u043C \u043F\u0440\u0438\u0437\u044B\u0432\u0430 \u0432 \u0438\u0433\u0440\u0443.",
+          "FileID": 180229,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44505/106309-1610972666-640606339.jpeg",
+          "IsNSFW": false,
+          "ModID": 44505,
+          "Name": "Scamps SE",
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -12237,21 +12510,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "85nBc6a/IIw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=41312\nfileID=184035",
-        "Name": "Cathedral - 3D Mountain Flowers-41312-1-8-1612476932.7z",
-        "Size": 11938765,
+        "Hash": "Evl3kg60/u4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68793\nfileID=287313",
+        "Name": "Cathedral - 3D Clovers-68793-1-1653789098.7z",
+        "Size": 4183528,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dr Jacopo",
+          "Description": "Performance friendly 3D replacer for the clovers",
+          "FileID": 287313,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68793/68793-1653788464-732415681.png",
+          "IsNSFW": false,
+          "ModID": 68793,
+          "Name": "Cathedral - 3D Clovers",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JOYXkR/HK6g=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68310\nfileID=285641",
+        "Name": "Cathedral - 3D Lavender - Vanilla Size-68310-1-3-1653203946.7z",
+        "Size": 1314878,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dr Jacopo",
+          "Description": "A 3D replacer for the dreaded lavender plant",
+          "FileID": 285641,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68310/68310-1652958285-698466983.png",
+          "IsNSFW": false,
+          "ModID": 68310,
+          "Name": "Cathedral - 3D Lavender",
+          "Version": "1.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lLFlacibeGA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=41312\nfileID=285632",
+        "Name": "Hearthfire Patch-41312-2-0-1653198355.7z",
+        "Size": 112951,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Jonny Wang",
           "Description": "Replaces the ultra low quality vanilla mountain flowers with 3D flowers created from photographs.",
-          "FileID": 184035,
+          "FileID": 285632,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41312/41312-1602441674-457877699.png",
           "IsNSFW": false,
           "ModID": 41312,
           "Name": "Cathedral - 3D Mountain Flowers",
-          "Version": "1.8.0.0"
+          "Version": "2.0.0.0"
         }
       }
     },
@@ -12273,6 +12588,27 @@
           "ModID": 67619,
           "Name": "Cathedral - 3D Thistle",
           "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5adv4WNWtFo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68068\nfileID=287564",
+        "Name": "Cathedral - 3D Tundra Cotton-68068-2-0-1653868046.7z",
+        "Size": 2943738,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dr Jacopo",
+          "Description": "A 3D replacer for the dreaded tundra cotton plant that improves performance.",
+          "FileID": 287564,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68068/68068-1652576887-1506079208.png",
+          "IsNSFW": false,
+          "ModID": 68068,
+          "Name": "Cathedral - 3D Tundra Cotton",
+          "Version": "2.0.0.0"
         }
       }
     },
@@ -12930,6 +13266,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "8JxUoTS69v4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68997\nfileID=288297",
+        "Name": "Jelidity\u0027s Gelid Glaciers-68997-1-0-0-1654175828.7z",
+        "Size": 2845850,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tate Taylor",
+          "Description": "Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda\u2019s original vision that we all fell in love with back in 2011. \n\n\n\nAlso it adds my corgis.",
+          "FileID": 288297,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68997/68997-1654173890-1501419924.png",
+          "IsNSFW": false,
+          "ModID": 68997,
+          "Name": "Keizaal - A Simple Modlist",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "tZJOQ6h+OOU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=9444\nfileID=47803",
         "Name": "Just Ice 4k-9444-3-1.7z",
@@ -12987,20 +13344,6 @@
           "ModID": 2017,
           "Name": "LeanWolf\u0027s Better-Shaped Weapons SE",
           "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "zGt3Rxud9XQ=",
-        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-LOD/releases/download/LOD/TexGen_Output.7z",
-        "Name": "TexGen_Output.7z",
-        "Size": 145724011,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Keizaal/Keizaal-LOD/releases/download/LOD/TexGen_Output.7z"
         }
       }
     },
@@ -13113,12 +13456,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "cXDcGmfHSuo=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Nemesis Temp Nehaviors.zip_511f42fc-2a35-45c5-abf0-601f393e5bc9",
-        "Name": "Nemesis Temp Nehaviors.zip",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68997\nfileID=288396",
+        "Name": "Keizaal 6.4.2 Nemesis Temp Behaviors-68997-6-4-2-1654206492.zip",
         "Size": 4256378,
         "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Nemesis%20Temp%20Nehaviors.zip_511f42fc-2a35-45c5-abf0-601f393e5bc9"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tate Taylor",
+          "Description": "Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda\u2019s original vision that we all fell in love with back in 2011. \n\n\n\nAlso it adds my corgis.",
+          "FileID": 288396,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68997/68997-1654173890-1501419924.png",
+          "IsNSFW": false,
+          "ModID": 68997,
+          "Name": "Keizaal - A Simple Modlist",
+          "Version": "6.4.2.0"
         }
       }
     },
@@ -14310,6 +14661,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "GgWQau1u6Pc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=57539\nfileID=237378",
+        "Name": "color variation by IconicDeath-57539-1-1635353371.7z",
+        "Size": 17225918,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sithis Personal Tailor",
+          "Description": "Dark Brotherhood armor redesign (no .esp)",
+          "FileID": 237378,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57539/109579-1635271120-1528617344.jpeg",
+          "IsNSFW": false,
+          "ModID": 57539,
+          "Name": "Dark Brotherhood Armor SE",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CuRKq7atxTY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=57539\nfileID=237218",
+        "Name": "DBArmorSE-57539-1-1635271446.7z",
+        "Size": 25256438,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sithis Personal Tailor",
+          "Description": "Dark Brotherhood armor redesign (no .esp)",
+          "FileID": 237218,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57539/109579-1635271120-1528617344.jpeg",
+          "IsNSFW": false,
+          "ModID": 57539,
+          "Name": "Dark Brotherhood Armor SE",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "zQ7h4AHosko=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=49042\nfileID=200165",
         "Name": "Alternative Meadbarrel and Spigot 1.2-49042-1-2-1619384716.zip",
@@ -14604,6 +14997,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "wprHwJR7l2E=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44508\nfileID=180318",
+        "Name": "4thUnknown\u0027s Scamps Patch-44508-1-0-1611002276.rar",
+        "Size": 52148,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "HeartAttackMan",
+          "Description": "Very quick mod I\u0027ve just whipped up, makes Beyond Skyrim uses 4thUknown\u0027s Scamps without changing any stats or animations, so they still use Falmer animations and attacks. Now has an option to make the Scamps in 4thUnknown\u0027s mod use Falmer animations and Flames.",
+          "FileID": 180318,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44508/44508-1610979037-243958120.jpeg",
+          "IsNSFW": false,
+          "ModID": 44508,
+          "Name": "4thUnknown\u0027s Scamps Use Falmer Animations and Flames - Beyond Skyrim Uses 4thUnknown\u0027s Scamps",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "KeJz1X2uukA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=43083\nfileID=173163",
         "Name": "Blackreach Tentacle Mesh Fix-43083-0-1-1607186501.rar",
@@ -14682,6 +15096,27 @@
           "ModID": 37302,
           "Name": "Butterfly Improved by zzjay - SE",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fxXZqLaWEGo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=41312\nfileID=284821",
+        "Name": "Cathedral - 3D Mountain Flowers-41312-2-0-1652927174.7z",
+        "Size": 12836201,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jonny Wang",
+          "Description": "Replaces the ultra low quality vanilla mountain flowers with 3D flowers created from photographs.",
+          "FileID": 284821,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41312/41312-1602441674-457877699.png",
+          "IsNSFW": false,
+          "ModID": 41312,
+          "Name": "Cathedral - 3D Mountain Flowers",
+          "Version": "2.0.0.0"
         }
       }
     },
@@ -15529,13 +15964,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "WgRHNNDkpwc=",
-        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Jelidity.s.Goblin.Weapons.Retexture.zip",
-        "Name": "Jelidity\u0027s Goblin Weapons Retexture.zip",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68997\nfileID=288288",
+        "Name": "Jelidity\u0027s Goblin Weapons Retexture for Bruma-68997-1-0-0-1654175370.zip",
         "Size": 3054299,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Jelidity.s.Goblin.Weapons.Retexture.zip"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tate Taylor",
+          "Description": "Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda\u2019s original vision that we all fell in love with back in 2011. \n\n\n\nAlso it adds my corgis.",
+          "FileID": 288288,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68997/68997-1654173890-1501419924.png",
+          "IsNSFW": false,
+          "ModID": 68997,
+          "Name": "Keizaal - A Simple Modlist",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -15599,20 +16041,6 @@
           "ModID": 44644,
           "Name": "Lava Replacer - SE",
           "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ITF///7GvGA=",
-        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-LOD/releases/download/LOD/xLODGEN.Output.7z",
-        "Name": "xLODGEN Output.7z",
-        "Size": 459508088,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Keizaal/Keizaal-LOD/releases/download/LOD/xLODGEN.Output.7z"
         }
       }
     },
@@ -17373,27 +17801,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "K06GI4ppMc4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=63029\nfileID=279512",
-        "Name": "Conditional tavern cheering (DAR)-63029-1-0-3-1650865731.zip",
-        "Size": 635430,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CHIMgarden",
-          "Description": "4 new applause animations and 3,5 new ways of cheering while bard sings. No esp. DAR folders by NPC demographic, Voice types, worn Armor to add personality to taverns quests. Sam Guevenne included!",
-          "FileID": 279512,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/63029/63029-1643910679-16563790.png",
-          "IsNSFW": false,
-          "ModID": 63029,
-          "Name": "Conditional tavern cheering and applause animation variety for NPC (DAR mod)",
-          "Version": "1.0.3.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "TaaDk136SJ4=",
         "Meta": "[General]\ngameName=skyrim\nmodID=5941\nfileID=18933",
         "Name": "coverkhajiits female version-5941-1-0.rar",
@@ -17450,27 +17857,6 @@
           "IsNSFW": false,
           "ModID": 35003,
           "Name": "Cross and Jab Speed fix",
-          "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "hNKLrS/4BC0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=64420\nfileID=277485",
-        "Name": "Gesture Animation Remix (DAR) - main archive-64420-1-1-0-1650110947.zip",
-        "Size": 1433528,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CHIMgarden",
-          "Description": "Adds over 30 dialogue gesture animation variants according to NPCs personality, role in society and by armor type. Works with custom followers and NPC from mods as well as vanilla. Dynamic Animation Replacer folders with .hkx animations - no esp/esl!",
-          "FileID": 277485,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64420/64420-1646845235-460528060.png",
-          "IsNSFW": false,
-          "ModID": 64420,
-          "Name": "Dialogue Animation Remix (DAR)",
           "Version": "1.1.0.0"
         }
       }
@@ -17751,27 +18137,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dghWDElmct8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=62849\nfileID=277479",
-        "Name": "Immersive folded hands (DAR) - Main download-62849-1-2-0-1650110048.zip",
-        "Size": 277080,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CHIMgarden",
-          "Description": "Adds 5 short idles with folding hands for NPC and makes standard \u0022folded hands\u0022 animation overlay less probable by adding 10 new variants according to NPCs armor type, personality or role in society. Works with NPC from mods as well. No esp, just Dynamic Animation Replacer folders with .hkx files",
-          "FileID": 277479,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62849/62849-1644236701-775892206.png",
-          "IsNSFW": false,
-          "ModID": 62849,
-          "Name": "Immersive folded hands - new idles and offsetarmscrossed.hkx replacer for NPC with new variants by conditions (DAR mod)",
-          "Version": "1.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "lSBta8ChSYs=",
         "Meta": "[General]\ngameName=skyrim\nmodID=67447\nfileID=1000166266",
         "Name": "Improved Eye Reflections-67447-1-0.rar",
@@ -17857,13 +18222,41 @@
       "Status": "Valid",
       "Original": {
         "Hash": "vGW0GlTX5mQ=",
-        "Meta": "[General]\ndirectURL=https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Jelidity.s.Blades.Style.Wares.of.Tamriel.Silver.Weapons.zip",
-        "Name": "Jelidity\u0027s Blades Style Wares of Tamriel Silver Weapons.zip",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68997\nfileID=288290",
+        "Name": "Jelidity\u0027s Blades Style Silver Weapons for Wares of Tamriel-68997-1-0-0-1654175413.zip",
         "Size": 2563983,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Jelidity.s.Blades.Style.Wares.of.Tamriel.Silver.Weapons.zip"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tate Taylor",
+          "Description": "Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda\u2019s original vision that we all fell in love with back in 2011. \n\n\n\nAlso it adds my corgis.",
+          "FileID": 288290,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68997/68997-1654173890-1501419924.png",
+          "IsNSFW": false,
+          "ModID": 68997,
+          "Name": "Keizaal - A Simple Modlist",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0Gv/mX09TaQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68696\nfileID=287807",
+        "Name": "DAR Stagger NPC and Player-68696-1-2-1653964714.7z",
+        "Size": 37971,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RI AC",
+          "Description": "A smooth animation for large stagger. Very immersive in melee fights.",
+          "FileID": 287807,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68696/68696-1653648003-49463663.jpeg",
+          "IsNSFW": false,
+          "ModID": 68696,
+          "Name": "Large Stagger Animation",
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -17906,6 +18299,27 @@
           "ModID": 38672,
           "Name": "Male Horns for Female Iron Helmet",
           "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sHzGndi53eQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68997\nfileID=288295",
+        "Name": "Jelidity\u0027s Minotaur Loincloth for Bruma-68997-1-0-0-1654175778.zip",
+        "Size": 577387,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tate Taylor",
+          "Description": "Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda\u2019s original vision that we all fell in love with back in 2011. \n\n\n\nAlso it adds my corgis.",
+          "FileID": 288295,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68997/68997-1654173890-1501419924.png",
+          "IsNSFW": false,
+          "ModID": 68997,
+          "Name": "Keizaal - A Simple Modlist",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -17969,27 +18383,6 @@
           "ModID": 63471,
           "Name": "NPC Animation Remix (DAR)",
           "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vkPmvegn4ss=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=63471\nfileID=267220",
-        "Name": "NPC Animation Remix (DAR) - main download without idles for your Dovahkiin-63471-1-0-1-1646010238.zip",
-        "Size": 1351725,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CHIMgarden",
-          "Description": "Scratching head animation, pulling pants, pondering, checking pockets in Riften... 22 idles for NPCs with appropriate conditions using DAR folders and big amount of less noticable animations to fix inconsistencies: prevents NPCs from standing synchronized, for example. Works with NPCs added by mods as well as vanilla. No esp/esl!",
-          "FileID": 267220,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/63471/63471-1645015389-80633865.png",
-          "IsNSFW": false,
-          "ModID": 63471,
-          "Name": "NPC Animation Remix (DAR)",
-          "Version": "1.0.1.0"
         }
       }
     },
@@ -18786,27 +19179,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "RGalO8F3ZnE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=67557\nfileID=281552",
-        "Name": "Lively Children Animations (DAR)-67557-1-0-0-1651692528.zip",
-        "Size": 1788628,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CHIMgarden",
-          "Description": "Makes kids childish: adds more than 10 idles and 10 dialogue gestures and other animations variants \u002B secret bonus animation specifically to children. No esp/esl plugin - just Dynamic Animation Replacer folders. Safe to install or delete mid-playthrough - try and see for yourself!",
-          "FileID": 281552,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67557/67557-1651690185-1631307135.png",
-          "IsNSFW": false,
-          "ModID": 67557,
-          "Name": "Lively Children Animations (DAR)",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "j1R5yF+oPVk=",
         "Meta": "[General]\ngameName=skyrim\nmodID=67147\nfileID=1000165128",
         "Name": "Painterly_HighResVanillaWarpaint-67147-1-0.7z",
@@ -19238,27 +19610,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "m00WnLI6h14=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=38534\nfileID=269316",
-        "Name": "EVG Animation Variance 1.1-38534-1-1-1646956058.zip",
-        "Size": 2073278,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Everglaid",
-          "Description": "Adds variety to existing animations, through NPC personality types, conditions, or just randomly.",
-          "FileID": 269316,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38534/38534-1595362665-1480636479.png",
-          "IsNSFW": false,
-          "ModID": 38534,
-          "Name": "EVG Animation Variance",
-          "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "dv9vQ6azH8M=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=34853\nfileID=134723",
         "Name": "DAR - Dynamic Swimming-34853-1-0-1587114447.rar",
@@ -19295,6 +19646,27 @@
           "ModID": 34853,
           "Name": "DAR - Dynamic Swimming",
           "Version": "1.1.0.0-Optional"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "m00WnLI6h14=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=38534\nfileID=269316",
+        "Name": "EVG Animation Variance 1.1-38534-1-1-1646956058.zip",
+        "Size": 2073278,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Everglaid",
+          "Description": "Adds variety to existing animations, through NPC personality types, conditions, or just randomly.",
+          "FileID": 269316,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38534/38534-1595362665-1480636479.png",
+          "IsNSFW": false,
+          "ModID": 38534,
+          "Name": "EVG Animation Variance",
+          "Version": "1.1.0.0"
         }
       }
     },
