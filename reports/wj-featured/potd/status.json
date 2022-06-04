@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/potd",
   "Name": "Path of the Dovahkiin",
-  "Version": "1.2.0",
-  "ModListHash": "QZmx46GaWLM=",
+  "Version": "1.3.0",
+  "ModListHash": "g/iN3bnhtIE=",
   "Archives": [
     {
       "Status": "Valid",
@@ -35,21 +35,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "d+fMLBcSgpk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=10546\nfileID=28074",
-        "Name": "DLL Plugin Loader v1-10546-1.zip",
-        "Size": 101092,
+        "Hash": "wwYDXqpkrNE=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=bink2w64.dll",
+        "Name": "bink2w64.dll",
+        "Size": 391360,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "meh321",
-          "Description": "Simple DLL plugins loader.",
-          "FileID": 28074,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 10546,
-          "Name": "DLL Plugin Loader",
-          "Version": "1.0.0.0"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "bink2w64.dll",
+          "GameVersion": "1.6.353.0",
+          "Hash": "wwYDXqpkrNE="
         }
       }
     },
@@ -467,27 +462,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "D94mCybagmM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=50307\nfileID=252974",
-        "Name": "Alternate Perspective-50307-2-6-1640991662.zip",
-        "Size": 10162448,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Scrab",
-          "Description": "Rewrite \u0026amp; Framework for the Vanilla Intro. Experience Helgens Destruction from a POV different than the Prisoners!",
-          "FileID": 252974,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50307/50307-1626608069-215982230.png",
-          "IsNSFW": false,
-          "ModID": 50307,
-          "Name": "Alternate Perspective - Prologue Retold",
-          "Version": "2.6.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "HWYVMCziqDg=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=35382\nfileID=148042",
         "Name": "aMidianBorn Book of Silence SE -- WEAPONS-35382-1-9-1-1593480012.zip",
@@ -524,6 +498,27 @@
           "ModID": 13239,
           "Name": "Anga\u0027s Mill Reborn",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PSpSqslEuWw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45268\nfileID=183916",
+        "Name": "Apoapse\u0027s RoL Patch-45268-v1-0-1612423981.7z",
+        "Size": 3061,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Apoapse",
+          "Description": "Fixes the abrupt weather change when Alduin flies off from Helgen, and renames the Boon activators to be readable.",
+          "FileID": 183916,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45268/45268-1612423758-76459127.png",
+          "IsNSFW": false,
+          "ModID": 45268,
+          "Name": "Apoapse\u0027s Realm of Lorkhan Patch",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -860,6 +855,27 @@
           "ModID": 25271,
           "Name": "Better Container Controls for SkyUI",
           "Version": "3.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HtUj6YpNfD0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53878\nfileID=228356",
+        "Name": "Blackreach Paper Map for FWMF-53878-1-01-1631631769.zip",
+        "Size": 3065912,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Caites",
+          "Description": "Implements handmade Blackreach map in Map Menu.",
+          "FileID": 228356,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53878/53878-1629036352-1087253523.png",
+          "IsNSFW": false,
+          "ModID": 53878,
+          "Name": "Paper Blackreach Map for FWMF",
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -1660,13 +1676,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "tpyTUU3UtiA=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/POTD DynDOLOD Output 1.0.0.7z_346a2589-0e25-4466-8727-ad43e38e4d91",
-        "Name": "POTD DynDOLOD Output 1.0.0.7z",
-        "Size": 356139630,
+        "Hash": "79dl6ko/tLA=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/POTD DynDOLOD Output 1.3.0.7z_4721edd8-de7b-41fc-b5c7-e6f3e06678eb",
+        "Name": "POTD DynDOLOD Output 1.3.0.7z",
+        "Size": 808520278,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/POTD DynDOLOD Output 1.0.0.7z_346a2589-0e25-4466-8727-ad43e38e4d91"
+          "Url": "https://authored-files.wabbajack.org/POTD%20DynDOLOD%20Output%201.3.0.7z_4721edd8-de7b-41fc-b5c7-e6f3e06678eb"
         }
       }
     },
@@ -1940,6 +1956,27 @@
           "ModID": 32512,
           "Name": "Finding Susanna Alive - A Blood on the Ice Trigger Revision",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "50i+Y0OoRi0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=29932\nfileID=219742",
+        "Name": "Flat World Map Framework SE - Unmarked Clean Map 4K-29932-1-7-1628442320.zip",
+        "Size": 12342446,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Caites",
+          "Description": "This mod changes default 3D Skyrim map to a flat one.",
+          "FileID": 219742,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29932/29932-1625775974-1644257580.png",
+          "IsNSFW": false,
+          "ModID": 29932,
+          "Name": "Flat World Map Framework SE",
+          "Version": "1.7.0.0"
         }
       }
     },
@@ -2577,42 +2614,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "mBSt062t2wU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43158\nfileID=252854",
-        "Name": "Lux-43158-3-9-1640958769.rar",
-        "Size": 188888176,
+        "Hash": "3ShLIsftSaA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43158\nfileID=280865",
+        "Name": "Lux-43158-4-2-1651433630.rar",
+        "Size": 212047537,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "GGUNIT",
           "Description": "Consistent and complete rework of Skyrim interiors lighting. This mod takes advantage of the latest developments in enb, including enb light, and has for main objective to offer a gaming experience as realistic as it is dramatic.",
-          "FileID": 252854,
+          "FileID": 280865,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43158/43158-1640106608-423891061.jpeg",
           "IsNSFW": false,
           "ModID": 43158,
           "Name": "Lux",
-          "Version": "3.9.0.0"
+          "Version": "4.2.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "aTTGdykTgrU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43158\nfileID=199181",
-        "Name": "Mechanicalpanda\u0027s Brighter Templates-43158-1-0-1618906099.zip",
-        "Size": 1563792,
+        "Hash": "SlMmJcf/EeM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=63588\nfileID=278680",
+        "Name": "Resource Pack - Via Lanterns (ENB Light)-63588-1-4-1650551880.rar",
+        "Size": 482065473,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "GGUNIT",
-          "Description": "Consistent and complete rework of Skyrim interiors lighting. This mod takes advantage of the latest developments in enb, including enb light, and has for main objective to offer a gaming experience as realistic as it is dramatic.",
-          "FileID": 199181,
+          "Description": "Lux Via is reworking main roads while still focusing on lighting, adding consistent light sources between towns and villages, improving or reworking from scratch many bridges, crossroads and adding a lot of points of interest to make roads a bit more interesting.",
+          "FileID": 278680,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43158/43158-1640106608-423891061.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/63588/63588-1644823402-1663823553.jpeg",
           "IsNSFW": false,
-          "ModID": 43158,
-          "Name": "Lux",
-          "Version": "0.0.0.0"
+          "ModID": 63588,
+          "Name": "Lux Via",
+          "Version": "1.4.0.0"
         }
       }
     },
@@ -2640,21 +2677,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0pCvgv3iZrE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44746\nfileID=199448",
-        "Name": "Manbeast - A Werewolf Overhaul-44746-1-2-0-1619026023.7z",
-        "Size": 11030,
+        "Hash": "4QlzuUvtjlk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44746\nfileID=248514",
+        "Name": "Manbeast - A Werewolf Overhaul-44746-1-2-1-1639316610.7z",
+        "Size": 11075,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Simon Magus and colinswrath",
           "Description": "Manbeast is a complete overhaul of Skyrim\u2019s Werewolf system designed to balance existing Werewolf mechanics and add powerful new lycanthropic abilities to the game.",
-          "FileID": 199448,
+          "FileID": 248514,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44746/44746-1611463256-105629958.png",
           "IsNSFW": false,
           "ModID": 44746,
           "Name": "Manbeast - A Werewolf Overhaul",
-          "Version": "0.0.0.0"
+          "Version": "1.2.1.0"
         }
       }
     },
@@ -3564,13 +3601,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "c4CZLrOUle8=",
-        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=1mfTQy2HIsdz8WWuTLDgiOR-t_IBZyTQC\u0026export=download",
-        "Name": "Paper Maps SE V1.1.zip",
-        "Size": 59489031,
+        "Hash": "kIHO/Cw2640=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54255\nfileID=222754",
+        "Name": "Paper Sovngarde Map for FWMF-54255-1-01-1629569335.zip",
+        "Size": 3642200,
         "State": {
-          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
-          "Id": "1mfTQy2HIsdz8WWuTLDgiOR-t_IBZyTQC"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Caites",
+          "Description": "Implements handmade Sovngarde map in Map Menu.",
+          "FileID": 222754,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54255/54255-1629554292-547381778.png",
+          "IsNSFW": false,
+          "ModID": 54255,
+          "Name": "Paper Sovngarde Map for FWMF",
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -3823,6 +3868,111 @@
           "ModID": 14075,
           "Name": "Raven Rock - Fix Exit on Horseback",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iIlT5CRMVgg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=18223\nfileID=282529",
+        "Name": "Realm of Lorkhan-18223-4-0-1-1652116169.7z",
+        "Size": 221843,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Twin Crows",
+          "Description": "Starts the player in an alternate realm, rather than the default execution scene opening.\n\n\n\nHere, they can obtain items; a birth sign; optional boons, curses, and classes; smith starting gear; and choose a location to start the game. Gorgeous visuals, and limitless possibilities for adventure and exploration.",
+          "FileID": 282529,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18223/18223-1530123820-89041246.png",
+          "IsNSFW": false,
+          "ModID": 18223,
+          "Name": "Realm of Lorkhan - Freeform Alternate Start",
+          "Version": "4.0.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "f2E5lW+nn+U=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=36348\nfileID=230520",
+        "Name": "Realm of Lorkhan - No Shards-36348-3-6-1-1632573827.7z",
+        "Size": 33221,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "benjapo",
+          "Description": "Removes the teleporting shards from Realm of Lorkhan, so that it\u0027s a one-way-trip when you start the game.",
+          "FileID": 230520,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/36348/36348-1590243590-1540079331.jpeg",
+          "IsNSFW": false,
+          "ModID": 36348,
+          "Name": "Realm of Lorkhan - No Shards in Tamriel Patch",
+          "Version": "3.6.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/zIvbO7rHY8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44755\nfileID=181571",
+        "Name": "Realm of Lorkhan - Unbound Fix-44755-1-01-1611515416.7z",
+        "Size": 22620,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TheRetroCarrot",
+          "Description": "This should correct the issue with the \u0022Unbound\u0022 quest not correctly completing in the quest journal. New game is required.",
+          "FileID": 181571,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44755/44755-1611477735-1607642021.png",
+          "IsNSFW": false,
+          "ModID": 44755,
+          "Name": "Realm of Lorkhan - Unbound Quest Fix",
+          "Version": "f1.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Dn+ptMOdpHo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44327\nfileID=181225",
+        "Name": "Realm of Lorkhan - Unofficial Alternate Cut-44327-1-0-1611390768.zip",
+        "Size": 52966114,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TheRetroCarrot",
+          "Description": "This is a reimagining of Realm of Lorkhan I made specifically as a VR user. Though all the changes work for SSE as well.",
+          "FileID": 181225,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44327/44327-1610570950-1020084872.png",
+          "IsNSFW": false,
+          "ModID": 44327,
+          "Name": "Realm of Lorkhan - Unofficial Alternate Cut",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "IIMyha2tfOM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60498\nfileID=250894",
+        "Name": "Realm of Lorkhan ENB Lighting Patch-60498-1-0-1640137663.zip",
+        "Size": 2191,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kidhedera",
+          "Description": "This is a simple patch to make the Realm of Lorkhan friendlier to players using Lux and Lux based ENBs. Its designed specifically for Lumos ENB, but may work with other ENBs that make the Realm of Lorkhan too bright at character creation.",
+          "FileID": 250894,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60498/60498-1640137368-1175141773.jpeg",
+          "IsNSFW": false,
+          "ModID": 60498,
+          "Name": "Realm of Lorkhan Lighting Patch for Lux and Lumos ENB",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -4123,6 +4273,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "SEkutdgFHpA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60748\nfileID=251721",
+        "Name": "Skyshards v1.6.0-60748-1-6-0-1640462572.7z",
+        "Size": 19455913,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deadmano",
+          "Description": "Skyshards brings the joy of Skyshard hunting based on the MMO \u0022The Elder Scrolls Online\u0022 (ESO) to Skyrim!\n\nEvery 3 (default) Skyshards absorbed rewards you with a perk point to invest as you please.",
+          "FileID": 251721,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60748/82660-0-1489160674.jpg",
+          "IsNSFW": false,
+          "ModID": 60748,
+          "Name": "Skyshards",
+          "Version": "1.6.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "dF2yafV2Oks=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=12604\nfileID=35407",
         "Name": "SkyUI_5_2_SE-12604-5-2SE.7z",
@@ -4186,6 +4357,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "wlvqz/rwlmQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55025\nfileID=260100",
+        "Name": "Solstheim Paper Map by Duncan for FWMF-55025-1-7-1643373922.zip",
+        "Size": 6764930,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Caites",
+          "Description": "Adapts paper maps by Duncan Larsen for Flat World Map Framework. Includes Solstheim, Falskaar, The Grey Cowl of Nocturnal, Beyond Skyrim: Bruma and Wyrmstooth.",
+          "FileID": 260100,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55025/55025-1630688074-1966548661.png",
+          "IsNSFW": false,
+          "ModID": 55025,
+          "Name": "Duncan\u0027s Solstheim - Bruma - Wyrmstooth - Falskaar - Grey Cowl Paper Maps for FWMF",
+          "Version": "1.7.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "KQYkHDcRyqA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=13375\nfileID=69363",
         "Name": "Somewhat Historically Accurate Weapons and Norse Viking Gear 3-0-13375-3-0-1539643569.7z",
@@ -4200,6 +4392,27 @@
           "IsNSFW": false,
           "ModID": 13375,
           "Name": "Somewhat Historically Accurate Weapons and Viking Gear",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+z81TObkqyc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55387\nfileID=228563",
+        "Name": "Soul Cairn Old Paper Map for FWMF-55387-1-03-1631720143.zip",
+        "Size": 4745052,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Caites",
+          "Description": "Implements handmade Soul Cairn map in Map Menu.",
+          "FileID": 228563,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55387/55387-1631305365-635712956.png",
+          "IsNSFW": false,
+          "ModID": 55387,
+          "Name": "Paper Soul Cairn Map for FWMF",
           "Version": "0.0.0.0"
         }
       }
@@ -5559,21 +5772,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "EgpiprSEIL0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32382\nfileID=227719",
-        "Name": "DynDOLOD 3.00-32382-Alpha-41-1631396634.7z",
-        "Size": 42572823,
+        "Hash": "xZB5csUZ8M4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32382\nfileID=288099",
+        "Name": "DynDOLOD 3.00-32382-Alpha-93-1654095565.7z",
+        "Size": 28494202,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sheson",
           "Description": "DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD \u002B tree LOD and the new,  optional dynamic distant object LOD in a few simple steps.",
-          "FileID": 227719,
+          "FileID": 288099,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32382/32382-1580900155-1292674369.jpeg",
           "IsNSFW": false,
           "ModID": 32382,
           "Name": "Dynamic Distant Objects LOD - DynDOLOD",
-          "Version": "0.0.0.0"
+          "Version": "Alpha-93"
         }
       }
     },
@@ -5720,13 +5933,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "MDisdI/y43Q=",
-        "Meta": "[General]\ndirectURL=https://mega.nz/file/8Iog2abQ#0rQzamCU_uv68QpnBjvlR8SSepyek7LM6sow4rQFh_c",
-        "Name": "xLODGen.86.7z",
-        "Size": 14501309,
+        "Hash": "tv20UpywciM=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/xLODGen.90.7z_301311bd-5912-4bc3-b9b6-955fce14cd71",
+        "Name": "xLODGen.90.7z",
+        "Size": 14536526,
         "State": {
-          "$type": "MegaDownloader, Wabbajack.Lib",
-          "Url": "https://mega.nz/file/8Iog2abQ#0rQzamCU_uv68QpnBjvlR8SSepyek7LM6sow4rQFh_c"
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/xLODGen.90.7z_301311bd-5912-4bc3-b9b6-955fce14cd71"
         }
       }
     },
@@ -5915,21 +6128,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uMdcyHrYmz8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=52897\nfileID=227680",
-        "Name": "DynDOLOD Resources SE 3-52897-Alpha-12-1631388372.7z",
-        "Size": 60074206,
+        "Hash": "IvnIV4M6nXk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=52897\nfileID=284673",
+        "Name": "DynDOLOD Resources SE 3.00-52897-Alpha-27-1652888148.7z",
+        "Size": 65934120,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Sheson",
           "Description": "DynDOLOD Resources SE 3 required by DynDOLOD 3 for drastically improved tree and object LOD generation.",
-          "FileID": 227680,
+          "FileID": 284673,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/52897/108514-1627373276-1783344232.jpeg",
           "IsNSFW": false,
           "ModID": 52897,
           "Name": "DynDOLOD Resources SE 3",
-          "Version": "0.0.0.0"
+          "Version": "Alpha-27"
         }
       }
     },
@@ -6953,6 +7166,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "d5rbFcv00dM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55025\nfileID=225862",
+        "Name": "Flat Map Markers Config File for all FWMF maps-55025-1-7-1630687597.zip",
+        "Size": 1244,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Caites",
+          "Description": "Adapts paper maps by Duncan Larsen for Flat World Map Framework. Includes Solstheim, Falskaar, The Grey Cowl of Nocturnal, Beyond Skyrim: Bruma and Wyrmstooth.",
+          "FileID": 225862,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55025/55025-1630688074-1966548661.png",
+          "IsNSFW": false,
+          "ModID": 55025,
+          "Name": "Duncan\u0027s Solstheim - Bruma - Wyrmstooth - Falskaar - Grey Cowl Paper Maps for FWMF",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+St5/ZXJDkg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=22122\nfileID=126532",
+        "Name": "Flat Map Markers SSE-22122-1-3-0-1583021504.zip",
+        "Size": 295361,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ryan",
+          "Description": "Moves all map markers onto the same plane on the world map",
+          "FileID": 126532,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22122/22122-1545703482-140864084.png",
+          "IsNSFW": false,
+          "ModID": 22122,
+          "Name": "Flat Map Markers SSE",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "4McCgjG1fzA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=19699\nfileID=64768",
         "Name": "Frankly HD Miraak 1.0-19699-1-0.7z",
@@ -7849,27 +8104,6 @@
           "IsNSFW": false,
           "ModID": 32711,
           "Name": "SkyUI Config Tweak - Equipped Items On Top SE",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "iXuKlDiuq5Q=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=46826\nfileID=201354",
-        "Name": "Slayable Offspring SKSE-46826-1-5-1619991069.7z",
-        "Size": 97334,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "powerofthree",
-          "Description": "SKSE plugin that makes children killable. No patches required.",
-          "FileID": 201354,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46826/46826-1619988706-637420336.png",
-          "IsNSFW": true,
-          "ModID": 46826,
-          "Name": "Slayable Offspring SKSE",
           "Version": "0.0.0.0"
         }
       }
@@ -8963,6 +9197,27 @@
           "ModID": 28950,
           "Name": "Illustrious Whiterun SE - 8K - Parallax",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TpiHmCXwVV0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54710\nfileID=224919",
+        "Name": "Unmarked Map by CKW25-54710-1-1-1630327735.7z",
+        "Size": 157751146,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CKW25",
+          "Description": "A new extremely high fantasy paper map of Skyrim and surrounding areas, with 14 versions to choose from.  See map version pictures below!!!\n\nPlease see map in game to see how high quality it really is (pictures on nexus are downscaled a lot for upload).",
+          "FileID": 224919,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54710/54710-1630276149-769541657.png",
+          "IsNSFW": false,
+          "ModID": 54710,
+          "Name": "Immersive Paper Map (3rd Edition) By CKW25",
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -10306,12 +10561,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "eymT7VFVQMc=",
-        "Meta": "[General]\nmanualURL=https://mega.nz/file/4LxGTALK#7I8XPLnIW0PxR_r_nXMP-9ZUnZ16MlFVMdFdgGy-gF0",
+        "Meta": "[General]\nmanualURL=https://mega.nz/file/4LxGTALK#7I8XPLnIW0PxR_r_nXMP-9ZUnZ16MlFVMdFdgGy-gF0\nprompt=",
         "Name": "Smooth Random Blocking Animation.7z",
         "Size": 231196,
         "State": {
           "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": null,
+          "Prompt": "",
           "Url": "https://mega.nz/file/4LxGTALK#7I8XPLnIW0PxR_r_nXMP-9ZUnZ16MlFVMdFdgGy-gF0"
         }
       }
@@ -10320,12 +10575,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "PG/o5lafcb4=",
-        "Meta": "[General]\nmanualURL=https://mega.nz/file/IS4EjJhC#inP4yfb3i-UO_sx790OpoFDk81x-WIRf9WcBeKxnmYo",
+        "Meta": "[General]\nmanualURL=https://mega.nz/file/IS4EjJhC#inP4yfb3i-UO_sx790OpoFDk81x-WIRf9WcBeKxnmYo\nprompt=",
         "Name": "Smooth Random Magic idle Animation.7z",
         "Size": 302575,
         "State": {
           "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": null,
+          "Prompt": "",
           "Url": "https://mega.nz/file/IS4EjJhC#inP4yfb3i-UO_sx790OpoFDk81x-WIRf9WcBeKxnmYo"
         }
       }
