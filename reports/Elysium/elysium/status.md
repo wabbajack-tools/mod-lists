@@ -832,7 +832,7 @@
 *  [FYX - 3D Solitude SighPost - DockRopes-68048-1-0-3-1652897854.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68048/?tab=files&file_id=284708)
 *  [FYX - 3D Stockades - SoS 3D - Parallax-65104-1-0-4-1-1649689086.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65104/?tab=files&file_id=276419)
 *  [FYX - 3D Stockades - Walls and Gate - Parallax-66037-1-0-3-1652433107.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66037/?tab=files&file_id=283341)
-*  [FYX - 3D Whiterun Castle Brigde - 3D Trellis-69124-1-0-1654414950.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69124/?tab=files&file_id=288891)
+*  [FYX - 3D Whiterun Castle Brigde - 3D Trellis-69124-1-0-1-1654419777.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69124/?tab=files&file_id=288896)
 *  [FYX - 3D Whiterun Drawbridge Gate - LUX Orbis meshe Parallax-64645-1-0-2-1-1651907556.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64645/?tab=files&file_id=282043)
 *  [FYX - 3D Whiterun Drawbridge Gate - Parallax-64645-1-0-2-1647976958.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64645/?tab=files&file_id=271863)
 *  [FYX - 3D Whiterun Guard Towers - Parallax-68572-1-0-1-1653547941.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68572/?tab=files&file_id=286588)
