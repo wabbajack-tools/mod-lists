@@ -53,7 +53,7 @@ namespace ModlistValidation
                 Assert.False(string.IsNullOrWhiteSpace(modlist.Description), $"Modlist does not have a description! (\"{modlist.Title}\")");
 
                 Assert.True(modlist.Maintainers.All(x => !string.IsNullOrWhiteSpace(x)), $"Modlist has empty strings in Maintainers Array! (\"{modlist.Title}\")");
-                Assert.True(modlist.tags.All(x => !string.IsNullOrWhiteSpace(x)), $"Modlist has empty strings in tags list! (\"{modlist.Title}\")");
+                Assert.True(modlist.Tags.All(x => !string.IsNullOrWhiteSpace(x)), $"Modlist has empty strings in tags list! (\"{modlist.Title}\")");
 
                 Assert.False(modlist.Version == null, $"Modlist has no Version! (\"{modlist.Title}\")");
                 Assert.False(modlist.DownloadMetadata == null, $"Modlist has no Download Metadata! (\"{modlist.Title}\")");
