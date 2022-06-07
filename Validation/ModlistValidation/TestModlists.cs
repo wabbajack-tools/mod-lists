@@ -66,7 +66,6 @@ namespace ModlistValidation
 
                 ValidateGitHubUri(readmeUri, modlist.Title);
                 ValidateGitHubUri(imageUri, modlist.Title);
-                ValidateGitHubReadme(readmeUri, modlist.Title);
                 ValidateMachineUrl(modlist.Links.MachineURL, modlist.Title);
 
                 var sameName = modlists.Count(x => x.Title.Equals(modlist.Title, StringComparison.OrdinalIgnoreCase));
