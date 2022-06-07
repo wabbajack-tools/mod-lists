@@ -64,7 +64,6 @@ namespace ModlistValidation
                 Assert.True(Uri.TryCreate(modlist.Links.Readme, UriKind.Absolute, out var readmeUri), $"Modlist has no valid Readme Url (Unable to create Uri)! (\"{modlist.Title}\")");
                 Assert.True(Uri.TryCreate(modlist.Links.ImageUri, UriKind.Absolute, out var imageUri), $"Modlist has no valid Image Url (Unable to create Uri)! (\"{modlist.Title}\")");
 
-                ValidateGitHubUri(readmeUri, modlist.Title);
                 ValidateGitHubUri(imageUri, modlist.Title);
                 ValidateMachineUrl(modlist.Links.MachineURL, modlist.Title);
 
