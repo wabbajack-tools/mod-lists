@@ -2,7 +2,7 @@
   "MachineURL": "wj-featured/fus",
   "Name": "FUS",
   "Version": "2.4.4",
-  "ModListHash": "/Q6VO6snA28=",
+  "ModListHash": "buko9kRW2yk=",
   "Archives": [
     {
       "Status": "Valid",
@@ -6887,6 +6887,22 @@
           "ModID": 1897,
           "Name": "True 3D Sound for Headphones",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kYVBvzzlhfE=",
+        "Meta": "[General]\ngameName=Skyrim VR\ngameFile=openvr_api.dll",
+        "Name": "openvr_api.dll",
+        "Size": 598816,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "openvr_api.dll",
+          "GameVersion": "1.4.15.0",
+          "Hash": "kYVBvzzlhfE="
         }
       }
     },

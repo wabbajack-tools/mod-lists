@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (367)
+### Valid (368)
 *  [3D Casting FX-50197-1-0-1621612410.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50197/?tab=files&file_id=204758)
 *  [A Better Magelight - Enhanced-5954-2-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/5954/?tab=files&file_id=16406)
 *  [a better magelight patch-53186-1-0-1627894519.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53186/?tab=files&file_id=218284)
@@ -256,6 +256,7 @@
 *  [Northern Shores 2K-27041-1-4-1581623323.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27041/?tab=files&file_id=123911)
 *  [NoStaggerMod v 1.0-16335-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16335/?tab=files&file_id=50443)
 *  [Obsidian Mountain Fogs 1.01.zip-13539-1-01.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13539/?tab=files&file_id=39025)
+*  openvr_api.dll
 *  [Papyrus Extender SE-22854-4-5-5-1638372170.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=245817)
 *  [Papyrus Extender VR-58296-5-0-3-1-1650264176.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58296/?tab=files&file_id=277961)
 *  [Papyrus Extender-22854-5-0-3-1649837626.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=276783)
