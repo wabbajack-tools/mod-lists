@@ -1,11 +1,10 @@
 ## Validation Report - A Tale of Two Commonwealths (TTC/TTC)
 
 
-### Invalid (1)
-*  [TTC_FNVPatches_6-3.zip](https://authored-files.wabbajack.org/TTC_FNVPatches_6-3.zip_fa7ab845-5808-4b8d-86f6-124c02e18c66)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (337)
+### Valid (338)
 *  [_Sound Zero_-45659-2-1605358427.7z](https://www.nexusmods.com/fallout4/mods/45659/?tab=files&file_id=194937)
 *  [.45 Auto Pistol Ha_ru anims-21142-1-2-1.zip](https://www.nexusmods.com/fallout4/mods/21142/?tab=files&file_id=87199)
 *  [(2K Perf. - BSA) Fallout 4 Ultimate Window Overhaul-43458-3-2-1650552300.rar](https://www.nexusmods.com/fallout4/mods/43458/?tab=files&file_id=235534)
@@ -321,6 +320,7 @@
 *  [TTC_Fallout New Vegas ENB Preset 6-3 (extract in game folder for FNV profile).zip](https://authored-files.wabbajack.org/TTC_Fallout New Vegas ENB Preset 6-3 (extract in game folder for FNV profile).zip_b7c095af-dc26-4116-b19b-ca4414a9266c)
 *  [TTC_Fallout New Vegas Preloader.zip](https://authored-files.wabbajack.org/TTC_Fallout New Vegas Preloader.zip_50c1c9b3-f009-4d9f-ae5a-9b2f86a155ed)
 *  [TTC_FNV ECO WB Patch 6-2.zip](https://authored-files.wabbajack.org/TTC_FNV ECO WB Patch 6-2.zip_23a1ab57-0311-42f6-b5bc-96b3996e8d7d)
+*  [TTC_FNVPatches_6-3.zip](https://authored-files.wabbajack.org/TTC_FNVPatches_6-3.zip_50223e4d-4ae2-4ab3-bbb6-dd94e0960f4e)
 *  [Tweaked interior color an light-33774-1-0.zip](https://www.nexusmods.com/fallout4/mods/33774/?tab=files&file_id=137637)
 *  [Ultra Interior Lighting-22101-2-3-1566718572.rar](https://www.nexusmods.com/fallout4/mods/22101/?tab=files&file_id=165082)
 *  [Underground Hideout Redux v1.3-51730-1-3-1620920505.7z](https://www.nexusmods.com/fallout4/mods/51730/?tab=files&file_id=207789)
