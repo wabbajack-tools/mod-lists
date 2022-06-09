@@ -1,15 +1,14 @@
 ## Validation Report - Tsukiro (wj-featured/tsukiro)
 
 
-### Invalid (1)
-*  [Dark Sorceress [SE] - BHUNP (w optional SMP).7z](https://www.mediafire.com/file/sr6hvjms1dfzotx/Dark_Sorceress_%255BSE%255D_-_BHUNP_%2528w_optional_SMP%2529.7z/file)
+### Invalid (0)
 ### Updated (3)
 *  572890882_SLAL_Billyy_Animationsv5.4SE.zip
 *  GS_SLAL SE 20 02.7z
 *  GS_SLAL SE Creatures 20 02.7z
 ### Mirrored (1)
 *  [[COCO] Pinup Cheongsam [SE] - BHUNP.7z](https://drive.google.com/uc?id=1L75e_NR6rCrCXK16icDmPOGNcRQSfZuR&export=download)
-### Valid (1010)
+### Valid (1011)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [(1) Sharkish Piercings - BHUNP - Base-57131-1-01-1634463636.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235337)
 *  [(1) Sunstarved Tanlines - UUNP-26795-2-0-1580192177.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121531)
@@ -217,6 +216,7 @@
 *  DAR - Pretty Sit Idles + Random Female Sitting.zip
 *  [Dark Disciple [SE] - CBBE - BHUNP.7z](https://www.mediafire.com/file/0li0x872uuwowvl/Dark_Disciple_%255BSE%255D_-_CBBE_-_BHUNP.7z/)
 *  [Dark Knight Armor 4K-40775-1-1-1602262257.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40775/?tab=files&file_id=164652)
+*  [Dark Sorceress [SE] - BHUNP (w optional SMP).7z](https://www.mediafire.com/file/sr6hvjms1dfzotx/Dark_Sorceress_%255BSE%255D_-_BHUNP_%2528w_optional_SMP%2529.7z/file)
 *  [DarkenD 1.4 SSE-10423-1-4.rar](https://www.nexusmods.com/skyrimspecialedition/mods/10423/?tab=files&file_id=44256)
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
