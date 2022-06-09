@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/Licentia",
   "Name": "Licentia",
-  "Version": "10.55.2",
-  "ModListHash": "IkFwqZAvi0s=",
+  "Version": "10.56",
+  "ModListHash": "R6mGs+sldHE=",
   "Archives": [
     {
       "Status": "Valid",
@@ -206,7 +206,7 @@
       "Original": {
         "Hash": "Bs1OYi6rdSE=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=35082\nfileID=285584",
-        "Name": "NEW) PI-CHO ENB Hyper Edition for NAT.ENB III - Natural and Atmospheric Tamriel ENB 3.0.3 - Build 2-35082-N7-4-1653180637.7z",
+        "Name": "PI-CHO N7.4 - Hpyer Edition for NAT.ENB III.7z",
         "Size": 51481710,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
@@ -954,6 +954,20 @@
           "ModID": 34100,
           "Name": "Armor Variants Expansion",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TAba61PaY44=",
+        "Meta": "[General]\ndirectURL=https://www.patreon.com/file?h=65790091\u0026i=10628173",
+        "Name": "Artifacts_Revised.7z",
+        "Size": 34867322,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://www.patreon.com/file?h=65790091\u0026i=10628173"
         }
       }
     },
@@ -7038,21 +7052,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "gsvUHbjw0js=",
-        "Meta": "[General]\nips4Site=Vector Plexus\nips4Mod=283\nips4File=High_Poly_Head_v1.4_(SE).zip",
+        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq\u0026export=download",
         "Name": "High_Poly_Head_v1.4_(SE).zip",
         "Size": 188231174,
         "State": {
-          "$type": "VectorPlexusOAuthDownloader\u002BState, Wabbajack.Lib",
-          "Author": "KouLeifoh",
-          "Description": "",
-          "ImageURL": "//storage.vectorplexus.com/screenshots/monthly_2019_12/splash.jpg.981878824c3ffe924664eb229f1b7749.jpg",
-          "IPS4File": "High_Poly_Head_v1.4_(SE).zip",
-          "IPS4Mod": 283,
-          "IPS4Url": "https://vectorplexus.com/files/file/283-high-poly-head/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "High Poly Head",
-          "Version": "1.4"
+          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
+          "Id": "15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq"
         }
       }
     },
@@ -8571,6 +8576,69 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "dHYOGcTC6kA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=69108\nfileID=288837",
+        "Name": "Immersive Jewlery Weight Fix-69108-1-0-1654386699.rar",
+        "Size": 4230,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kaoticgam3rs",
+          "Description": "This is a list of patches or modifications I have made to licentia. Some offer bug fixes while others are just modifications that I like. All of these were made with licentia in mind. You can try to use them independently but that is your choice and not guaranteed to work.",
+          "FileID": 288837,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69108/69108-1654387983-41593185.jpeg",
+          "IsNSFW": false,
+          "ModID": 69108,
+          "Name": "Licentia Patch And Change Central",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "i9dKXtfvjCM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=69108\nfileID=288835",
+        "Name": "Kaotic - Immersive Jewlery vs Survival-69108-1-0-1654386640.rar",
+        "Size": 603,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kaoticgam3rs",
+          "Description": "This is a list of patches or modifications I have made to licentia. Some offer bug fixes while others are just modifications that I like. All of these were made with licentia in mind. You can try to use them independently but that is your choice and not guaranteed to work.",
+          "FileID": 288835,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69108/69108-1654387983-41593185.jpeg",
+          "IsNSFW": false,
+          "ModID": 69108,
+          "Name": "Licentia Patch And Change Central",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "l2I1Cy2Ppdk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=69108\nfileID=288840",
+        "Name": "Pick Pocket Max Chance 100-69108-1-0-1654386766.rar",
+        "Size": 245,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kaoticgam3rs",
+          "Description": "This is a list of patches or modifications I have made to licentia. Some offer bug fixes while others are just modifications that I like. All of these were made with licentia in mind. You can try to use them independently but that is your choice and not guaranteed to work.",
+          "FileID": 288840,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69108/69108-1654387983-41593185.jpeg",
+          "IsNSFW": false,
+          "ModID": 69108,
+          "Name": "Licentia Patch And Change Central",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "9A8gJ3vnCe4=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=11342\nfileID=32126",
         "Name": "Lock Related Loot-11342-1-2.rar",
@@ -8816,6 +8884,27 @@
           "IsNSFW": false,
           "ModID": 16914,
           "Name": "Lynges No Loading Screen Text Mod",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "939CvGwVRxw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=38073\nfileID=149463",
+        "Name": "Magic Crafting at Terminan Forge-38073-1-1-1594232910.7z",
+        "Size": 1056,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Freaky Mutant Man",
+          "Description": "Simple patch for RoH that places an Ancient Enchanter and an Alteration Workbench at the Terminan Forge in order to reduce time spent fast-traveling from location to location.",
+          "FileID": 149463,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/38073/38073-1594223758-1365686964.jpeg",
+          "IsNSFW": false,
+          "ModID": 38073,
+          "Name": "Relics of Hyrule Unofficial Add-on - Magic Crafting at Terminan Forge SE",
           "Version": "1.1.0.0"
         }
       }
@@ -11210,6 +11299,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Ahj4OhseDsM=",
+        "Meta": "[General]\ndirectURL=https://www.patreon.com/file?h=65969282\u0026i=10668147",
+        "Name": "Patch - AE Staff Enchanting.7z",
+        "Size": 4407,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://www.patreon.com/file?h=65969282\u0026i=10668147"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Gd7tpTEg5Hg=",
+        "Meta": "[General]\ndirectURL=https://www.patreon.com/file?h=65969282\u0026i=10668148",
+        "Name": "Patch - AoS Staff Enchanting.7z",
+        "Size": 1346,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://www.patreon.com/file?h=65969282\u0026i=10668148"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+zJ6tTT7qi0=",
+        "Meta": "[General]\ndirectURL=https://www.patreon.com/file?h=65790091\u0026i=10628175",
+        "Name": "Patch - Legacy of The Dragonborn.7z",
+        "Size": 957467,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://www.patreon.com/file?h=65790091\u0026i=10628175"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "BvZFb8ha6Lo=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=6702\nfileID=144929",
         "Name": "Path of Sorcery - Apocalypse Patch-6702-2-1-1591817596.7z",
@@ -12057,6 +12188,48 @@
           "ModID": 12253,
           "Name": "Relic Hunter- Guildmaster Start (Legacy and ASLAL addon)",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "o5kYQoUc4Pg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=12244\nfileID=214493",
+        "Name": "Relics of Hyrule SE 6.6.1.G - June 2021-12244-6-6-1-G-1626215921.7z",
+        "Size": 1478758649,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "JKalenad",
+          "Description": "Enrich your Skyrim experience with loads of new, hidden weapons, armor, spells and dungeons that pay homage to the Legend of Zelda universe, linking it to Elder Scrolls lore in a respectful way.",
+          "FileID": 214493,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/12244-6-1505494662.jpg",
+          "IsNSFW": false,
+          "ModID": 12244,
+          "Name": "Relics of Hyrule SE - A DLC Scale Zelda Mod",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3nPf8OVvVvI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=12244\nfileID=210604",
+        "Name": "6.6.1.G SE Shapshot-Hotfix-12244-6-6-1-G-1624374194.rar",
+        "Size": 248530070,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "JKalenad",
+          "Description": "Enrich your Skyrim experience with loads of new, hidden weapons, armor, spells and dungeons that pay homage to the Legend of Zelda universe, linking it to Elder Scrolls lore in a respectful way.",
+          "FileID": 210604,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/12244-6-1505494662.jpg",
+          "IsNSFW": false,
+          "ModID": 12244,
+          "Name": "Relics of Hyrule SE - A DLC Scale Zelda Mod",
+          "Version": "6.6.1.0.G"
         }
       }
     },
@@ -13645,6 +13818,20 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "ECxYxlj5R1Q=",
+        "Meta": "[General]\ndirectURL=https://www.patreon.com/file?h=65969282\u0026i=10668144",
+        "Name": "StaffEnchanting.7z",
+        "Size": 4576,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://www.patreon.com/file?h=65969282\u0026i=10668144"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "i9jZDlqOFk0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=659\nfileID=59069",
         "Name": "SMIM SE 2-08-659-2-08.7z",
@@ -14604,6 +14791,20 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "lJGPEsN1GCA=",
+        "Meta": "[General]\ndirectURL=https://www.patreon.com/file?h=67059625\u0026i=10872127",
+        "Name": "UniversalStorage.7z",
+        "Size": 12892,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://www.patreon.com/file?h=67059625\u0026i=10872127"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "S7ugRgiLEJU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=49266\nfileID=200934",
         "Name": "UNMEAT-49266-0-1-1619795599.7z",
@@ -15228,6 +15429,27 @@
           "ModID": 5019,
           "Name": "Weapons of the Third Era SSE",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "R9KkWkbtTJo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=65912\nfileID=274482",
+        "Name": "Relics of Hyrule Growables-65912-1-1648951962.zip",
+        "Size": 8669,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Webmetz",
+          "Description": "ESL Flagged. Makes Relics of Hyrule plants plantable in farm plots in a way that won\u0027t conflict with other mods which add growables.",
+          "FileID": 274482,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65912/65912-1648951646-1918564603.png",
+          "IsNSFW": false,
+          "ModID": 65912,
+          "Name": "Webmetz\u0027s More Growable Plants - Relics of Hyrule",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -15967,27 +16189,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "K61lSJj7JZM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42629\nfileID=171223",
-        "Name": "Viven Rain for ENB-42629-0-2-1606080272.zip",
-        "Size": 10860,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "12ain",
-          "Description": "Raindrop Texture Replacer",
-          "FileID": 171223,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42629/42629-1606077834-1769599521.jpeg",
-          "IsNSFW": false,
-          "ModID": 42629,
-          "Name": "Viven Rain for ENB",
-          "Version": "0.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "fiMS7vbbpNE=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Skyrim\\SkyrimPrefs.ini",
         "Name": "Skyrim_SkyrimPrefs.ini",
@@ -16542,21 +16743,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "RN6McOSavqQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=21224\nfileID=286893",
-        "Name": "CBPC - Fomod installer - MAIN FILE-21224-1-5-1-1653670757.rar",
-        "Size": 45862478,
+        "Hash": "ZEjsgDxgqeA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=21224\nfileID=289366",
+        "Name": "CBPC - Fomod installer - MAIN FILE-21224-1-5-2-1654550613.rar",
+        "Size": 45804027,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Shizof",
           "Description": "CBPC - Physics with Collisions for SSE and VR. \n\nBreast-Butt-Belly-Vagina collisions that work out of the box. Player VR Hands and Weapons collisions with them for the VR version.",
-          "FileID": 286893,
+          "FileID": 289366,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21224/21224-1542146879-1527686583.jpeg",
           "IsNSFW": true,
           "ModID": 21224,
           "Name": "CBPC - Physics with Collisions for SSE and VR",
-          "Version": "1.5.1.0"
+          "Version": "1.5.2.0"
         }
       }
     },
@@ -17193,27 +17394,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "e5cDmLV/0oM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=5336\nfileID=11851",
-        "Name": "Immersive Jewelry SSE 1.05-5336-1-05.rar",
-        "Size": 1083895071,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Forteverum",
-          "Description": "Add diversity with 4200 jewelry variants distributed across culture-specific leveled lists for races and dungeons. Swap any of 1700 rings or bracelets to the left hand and back instantly via right click-even player enchanted and named ones. Incorporates a new system of gem and metal-influenced enchanting based on occultism and the Aedric planets.",
-          "FileID": 11851,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64283-1-1428048598.jpg",
-          "IsNSFW": false,
-          "ModID": 5336,
-          "Name": "Immersive Jewelry SSE",
-          "Version": "f1.05"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "LMABV+spQtc=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=16402\nfileID=51100",
         "Name": "Immersive Music-16402-3-2.7z",
@@ -17228,27 +17408,6 @@
           "IsNSFW": false,
           "ModID": 16402,
           "Name": "Immersive Music",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "o5kYQoUc4Pg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=12244\nfileID=214493",
-        "Name": "Relics of Hyrule SE 6.6.1.G - June 2021-12244-6-6-1-G-1626215921.7z",
-        "Size": 1478758649,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "JKalenad",
-          "Description": "Enrich your Skyrim experience with loads of new, hidden weapons, armor, spells and dungeons that pay homage to the Legend of Zelda universe, linking it to Elder Scrolls lore in a respectful way.",
-          "FileID": 214493,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/12244-6-1505494662.jpg",
-          "IsNSFW": false,
-          "ModID": 12244,
-          "Name": "Relics of Hyrule SE - A DLC Scale Zelda Mod",
           "Version": "0.0.0.0"
         }
       }
@@ -18422,6 +18581,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "e5cDmLV/0oM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=5336\nfileID=11851",
+        "Name": "Immersive Jewelry SSE 1.05-5336-1-05.rar",
+        "Size": 1083895071,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Forteverum",
+          "Description": "Add diversity with 4200 jewelry variants distributed across culture-specific leveled lists for races and dungeons. Swap any of 1700 rings or bracelets to the left hand and back instantly via right click-even player enchanted and named ones. Incorporates a new system of gem and metal-influenced enchanting based on occultism and the Aedric planets.",
+          "FileID": 11851,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64283-1-1428048598.jpg",
+          "IsNSFW": false,
+          "ModID": 5336,
+          "Name": "Immersive Jewelry SSE",
+          "Version": "f1.05"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "oFiyILYqe1w=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=48756\nfileID=240473",
         "Name": "Ancient Nord Stalhrim-48756-1-1-7-1636602964.zip",
@@ -18458,6 +18638,19 @@
           "ModID": 52322,
           "Name": "Animated Forge Water",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KhFX1RiNAVM=",
+        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=1hfBglYRVeMN3NxITAdDgxdiEGqZAi-5i\u0026export=download",
+        "Name": "Artifacts_Revised 1.2.1 - Textures.7z",
+        "Size": 277128214,
+        "State": {
+          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
+          "Id": "1hfBglYRVeMN3NxITAdDgxdiEGqZAi-5i"
         }
       }
     },
@@ -18611,21 +18804,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zaBxxRvNFLQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=21224\nfileID=286998",
-        "Name": "CBPC 3-Bone Breast Body Breast-Butt Bounce Configs for 3BA-BHUNP-COCO-21224-1-5-1-1653696925.rar",
-        "Size": 29949,
+        "Hash": "TmbITk/DJX8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=21224\nfileID=289367",
+        "Name": "CBPC 3-Bone Breast Body Breast-Butt Bounce Configs for 3BA-BHUNP-COCO-21224-1-5-2-1654550666.rar",
+        "Size": 29940,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Shizof",
           "Description": "CBPC - Physics with Collisions for SSE and VR. \n\nBreast-Butt-Belly-Vagina collisions that work out of the box. Player VR Hands and Weapons collisions with them for the VR version.",
-          "FileID": 286998,
+          "FileID": 289367,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21224/21224-1542146879-1527686583.jpeg",
           "IsNSFW": true,
           "ModID": 21224,
           "Name": "CBPC - Physics with Collisions for SSE and VR",
-          "Version": "1.5.1.0"
+          "Version": "1.5.2.0"
         }
       }
     },
@@ -21073,6 +21266,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Hs7mK/jo9MU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=67793\nfileID=282547",
+        "Name": "Antithetical Physiques - Two Bodyslide Presets-67793-1-0-1652123449.zip",
+        "Size": 2877,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Curly",
+          "Description": "Antithetical Physiques was an idea that I had a couple nights ago after an acquaintance of mine made his own bodyslide preset. He made a very bottom focused bodyslide and I thought myself, it would be funny if I made a very top heavy one. Then it came to me, why not make both and package it in one mod!",
+          "FileID": 282547,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67793/67793-1652122827-345527254.jpeg",
+          "IsNSFW": true,
+          "ModID": 67793,
+          "Name": "Antithetical Physiques - Two Polar Opposite Bodyslide Presets (3BA)",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "ohy3we+0UuA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=34100\nfileID=185027",
         "Name": "Armor Variants Expansion-CBBE BodySlide_2.1-34100-2-1-1612912810.zip",
@@ -21087,6 +21301,41 @@
           "IsNSFW": false,
           "ModID": 34100,
           "Name": "Armor Variants Expansion",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "l71OolBbA2M=",
+        "Meta": "[General]\ndirectURL=https://www.patreon.com/file?h=65790091\u0026i=10628177",
+        "Name": "Patch - Nchuak Default Normal Paths.7z",
+        "Size": 1149027,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://www.patreon.com/file?h=65790091\u0026i=10628177"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/R17eDVomSc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=27515\nfileID=251810",
+        "Name": "falmer abyssraider 2 sse-27515-2-1640498466.rar",
+        "Size": 131457536,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mihail",
+          "Description": "Well armored Falmers, wielding long shock- embedded halberds made of chitin and riding bulky Pitroamers, the falmer class Abyssraiders is a threat in each falmer hive that they patrol.",
+          "FileID": 251810,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27515/27515-1640497103-648463545.jpeg",
+          "IsNSFW": false,
+          "ModID": 27515,
+          "Name": "Falmer Abyssraiders- Mihail Monsters and Animals (SE-AE version)",
           "Version": "0.0.0.0"
         }
       }
@@ -21682,21 +21931,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "s95HxO+U5hI=",
-        "Meta": "[General]\ngameName=skyrim\nmodID=40615\nfileID=1000215286",
-        "Name": "Disable and Silence Fairies-12244-NA-1570337005.rar",
-        "Size": 129907,
+        "Hash": "mPqPXdkti8k=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=12244\nfileID=279583",
+        "Name": "Disable and Silence Fairies (Apr 25 2022)-12244-Any-1650897907.rar",
+        "Size": 145946,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "JKalenad",
-          "Description": "Enrich your Skyrim experience with hundreds of new, hidden weapons, armor, spells and dungeons that pay homage to the Zelda universe, linking it to Elder Scrolls lore in a respectful way.",
-          "FileID": 1000215286,
-          "GameName": "Skyrim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/110/images/40615-0-1502500053.jpg",
+          "Description": "Enrich your Skyrim experience with loads of new, hidden weapons, armor, spells and dungeons that pay homage to the Legend of Zelda universe, linking it to Elder Scrolls lore in a respectful way.",
+          "FileID": 279583,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/12244-6-1505494662.jpg",
           "IsNSFW": false,
-          "ModID": 40615,
-          "Name": "Relics of Hyrule - A DLC Scale Zelda Mod",
-          "Version": "0.0.0.0"
+          "ModID": 12244,
+          "Name": "Relics of Hyrule SE - A DLC Scale Zelda Mod",
+          "Version": "Any"
         }
       }
     },
@@ -22598,6 +22847,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "+VHrpItbLAk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=41639\nfileID=242906",
+        "Name": "Scion - A Vampire Overhaul-41639-1-2-3-1637417863.7z",
+        "Size": 33862,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Simon Magus and rodvt",
+          "Description": "Scion is a complete overhaul of Skyrim\u2019s Vampire system designed to balance existing Vampire mechanics and add powerful new vampiric abilities to the game.",
+          "FileID": 242906,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41639/41639-1603410651-1374248152.png",
+          "IsNSFW": false,
+          "ModID": 41639,
+          "Name": "Scion - A Vampire Overhaul",
+          "Version": "1.2.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "HE6V8AcfEvE=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=13896\nfileID=234062",
         "Name": "Natural And Realistic Bodies - Main File ALL-IN-ONE-13896-3-0-1633906542.7z",
@@ -22997,6 +23267,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "cWhbemGGq3w=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43413\nfileID=174870",
+        "Name": "Northbourne NPCs of Winterhold Full Version-43413-1-1-1608230709.7z",
+        "Size": 266237504,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Southpawe",
+          "Description": "This is a high poly face replacer/redesign for all 34 named male and female NPCs in the Winterhold Region (except children and beast races).",
+          "FileID": 174870,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43413/43413-1608199664-1788629931.jpeg",
+          "IsNSFW": false,
+          "ModID": 43413,
+          "Name": "Northbourne NPCs of Winterhold",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "PeMmanACH+U=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=64022\nfileID=265884",
         "Name": "Rock Grass for ENB Complex Grass SE - Johnskyrim-64022-1-0-1645456212.rar",
@@ -23207,6 +23498,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "SScuTelcROU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=67238\nfileID=280176",
+        "Name": "STUs 3BA Body Bonanza - 3BABB-67238-1-0-1651163283.7z",
+        "Size": 2160,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SamsyTheUnicorn",
+          "Description": "A trio of BodySlide presets designed to be used at 100 weight with OBody. Contains a preset for a slim chiseled body, a curvier body, and an over the top body.",
+          "FileID": 280176,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67238/67238-1651162793-1544579543.gif",
+          "IsNSFW": true,
+          "ModID": 67238,
+          "Name": "SamsyTheUnicorn\u0027s 3BA Body Bonanza",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "1l3yAnG8XRE=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=37768\nfileID=276553",
         "Name": "Savage Skyrim-37768-4-00-1649729545.7z",
@@ -23306,6 +23618,27 @@
           "ModID": 62820,
           "Name": "ScandaNordic Mountains - HD Mountain Textures - 8K 4K 2K - Parallax",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+IrO5KA8wMU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=67716\nfileID=282248",
+        "Name": "Simple Yet Curvy - Bodyslide Preset v1.1-67716-1-1-1651980240.zip",
+        "Size": 4749,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Curly",
+          "Description": "Simple Yet Curvy is a 3BA based bodyslide that aims to realistic and proportional, whilst still having some lovely eye-candy to look at during your Skyrim Adventures!",
+          "FileID": 282248,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67716/67716-1651963966-1736542601.jpeg",
+          "IsNSFW": true,
+          "ModID": 67716,
+          "Name": "Simple Yet Curvy - Bodyslide Preset (3BA)",
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -24194,6 +24527,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "MxFpOFr88YE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=22027\nfileID=75827",
+        "Name": "Khinara Jade SE - RaceMenu Preset-22027-1-0-1545410028.zip",
+        "Size": 2488,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kyndra72",
+          "Description": "A RaceMenu preset I created for my character Khinara Jade, based off of the amazing \u0022Adriana RaceMenu Preset\u0022 by StephieRawx. :3 Now available in Special Edition!",
+          "FileID": 75827,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22027/22027-1545408605-1073828897.jpeg",
+          "IsNSFW": false,
+          "ModID": 22027,
+          "Name": "Khinara Jade SE - RaceMenu Preset",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "8WZ5Ab1sYkI=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=5890\nfileID=67821",
         "Name": "D13 Faster Get Up Stand Up SSE-5890-2-1.7z",
@@ -24929,6 +25283,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "8V2ktuwMknE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=49703\nfileID=208943",
+        "Name": "STUs High Poly Character Compendium - HPCC-49703-v2-2-1623610368.rar",
+        "Size": 134243,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SamsyTheUnicorn",
+          "Description": "A collection of RaceMenu preset \u0022jslot\u0022s for use with High Poly Head and a few other, popular, character generation mods. Contains at least one preset for every vanilla race, both male and female options are available.",
+          "FileID": 208943,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49703/49703-1620591889-2055131695.jpeg",
+          "IsNSFW": false,
+          "ModID": 49703,
+          "Name": "SamsyTheUnicorn\u0027s High Poly Character Compendium",
+          "Version": "1.0.0.0-2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5tRXyF76GTA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=49703\nfileID=274413",
+        "Name": "STUs High Poly Character Compendium - HPCC 2-49703-2-1-0-1648927260.7z",
+        "Size": 25706,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SamsyTheUnicorn",
+          "Description": "A collection of RaceMenu preset \u0022jslot\u0022s for use with High Poly Head and a few other, popular, character generation mods. Contains at least one preset for every vanilla race, both male and female options are available.",
+          "FileID": 274413,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49703/49703-1620591889-2055131695.jpeg",
+          "IsNSFW": false,
+          "ModID": 49703,
+          "Name": "SamsyTheUnicorn\u0027s High Poly Character Compendium",
+          "Version": "2.0.0.0-1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "QhhcMG0UpAY=",
         "Meta": "[General]\ndirectURL=https://mega.nz/file/j64AnQLQ#SsGVP7pBSv-P3FGO7TyryPHUTmZtT0fybF8fAJfVi8w",
         "Name": "SexLab Solutions Revisited 1.1.5 Voice Files.zip",
@@ -25572,27 +25968,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/R17eDVomSc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=27515\nfileID=251810",
-        "Name": "falmer abyssraider 2 sse-27515-2-1640498466.rar",
-        "Size": 131457536,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Mihail",
-          "Description": "Well armored Falmers, wielding long shock- embedded halberds made of chitin and riding bulky Pitroamers, the falmer class Abyssraiders is a threat in each falmer hive that they patrol.",
-          "FileID": 251810,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27515/27515-1640497103-648463545.jpeg",
-          "IsNSFW": false,
-          "ModID": 27515,
-          "Name": "Falmer Abyssraiders- Mihail Monsters and Animals (SE-AE version)",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "BxzrACQt7vc=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=29345\nfileID=110736",
         "Name": "CBBE and UNP Hotfix - V1.0 to v1.1-29345-1-1-1571435309.zip",
@@ -25692,20 +26067,6 @@
           "ModID": 18976,
           "Name": "Dx\u0027s Better Men of Skyrim SE",
           "Version": "5.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "TAba61PaY44=",
-        "Meta": "[General]\ndirectURL=https://www.patreon.com/file?h=65790091\u0026i=10628173",
-        "Name": "Artifacts_Revised.7z",
-        "Size": 34867322,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://www.patreon.com/file?h=65790091\u0026i=10628173"
         }
       }
     },
