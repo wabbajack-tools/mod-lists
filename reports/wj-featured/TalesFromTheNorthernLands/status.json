@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/TalesFromTheNorthernLands",
   "Name": "Tales from the Northern Lands",
-  "Version": "2.7.3",
-  "ModListHash": "C4XeBd1hJKQ=",
+  "Version": "2.7.4",
+  "ModListHash": "8YeW6iuMCKA=",
   "Archives": [
     {
       "Status": "Valid",
@@ -520,27 +520,6 @@
           "ModID": 30853,
           "Name": "A New Chapter - UI Sound Replacer",
           "Version": "2.1.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4yHDTIIGQs4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=30191\nfileID=276682",
-        "Name": "Adamant - A Perk Overhaul-30191-5-4-3-1649781876.7z",
-        "Size": 91398,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Simon Magus",
-          "Description": "Adamant is a complete overhaul of Skyrim\u2019s perk trees designed to balance existing skills and add powerful new perks to the game.",
-          "FileID": 276682,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/30191/30191-1572896988-939425731.png",
-          "IsNSFW": false,
-          "ModID": 30191,
-          "Name": "Adamant - A Perk Overhaul",
-          "Version": "5.4.3.0"
         }
       }
     },
@@ -1156,21 +1135,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "7rFKgdugb64=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=64339\nfileID=277318",
-        "Name": "Better Third Person Selection (SE)-64339-0-5-3-1650034048.7z",
-        "Size": 611779,
+        "Hash": "7VNosx7AI2A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=64339\nfileID=280222",
+        "Name": "Better Third Person Selection (SE)-64339-0-5-4-1651184106.7z",
+        "Size": 611263,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Shrimperator",
           "Description": "SKSE DLL to overhaul 3rd person object selection. \n\n\n\nRewrites Skyrim\u0027s crosshair selection to work more like true 3rd person RPGs - no more spending 5 minutes picking up tiny gold coins from the ground!",
-          "FileID": 277318,
+          "FileID": 280222,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64339/64339-1646073940-673615021.png",
           "IsNSFW": false,
           "ModID": 64339,
           "Name": "Better Third Person Selection - BTPS",
-          "Version": "0.5.3.0"
+          "Version": "0.5.4.0"
         }
       }
     },
@@ -2735,21 +2714,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "gsvUHbjw0js=",
-        "Meta": "[General]\nips4Site=Vector Plexus\nips4Mod=283\nips4File=High_Poly_Head_v1.4_(SE).zip",
-        "Name": "High_Poly_Head_v1.4_(SE).zip",
+        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq\u0026export=download",
+        "Name": "High Poly Head v1.4 (SE).zip",
         "Size": 188231174,
         "State": {
-          "$type": "VectorPlexusOAuthDownloader\u002BState, Wabbajack.Lib",
-          "Author": "KouLeifoh",
-          "Description": "",
-          "ImageURL": "//storage.vectorplexus.com/screenshots/monthly_2019_12/splash.jpg.981878824c3ffe924664eb229f1b7749.jpg",
-          "IPS4File": "High_Poly_Head_v1.4_(SE).zip",
-          "IPS4Mod": 283,
-          "IPS4Url": "https://vectorplexus.com/files/file/283-high-poly-head/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "High Poly Head",
-          "Version": "1.4"
+          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
+          "Id": "15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq"
         }
       }
     },
@@ -8415,28 +8385,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "pDrA33NnHsQ=",
-        "Meta": "[General]\nips4Site=Vector Plexus\nips4Mod=283\nips4File=High Poly Head xEdit Scripts v1.4.zip",
-        "Name": "High Poly Head xEdit Scripts v1.4.zip",
-        "Size": 8515,
-        "State": {
-          "$type": "VectorPlexusOAuthDownloader\u002BState, Wabbajack.Lib",
-          "Author": "KouLeifoh",
-          "Description": "",
-          "ImageURL": "//storage.vectorplexus.com/screenshots/monthly_2019_12/splash.jpg.981878824c3ffe924664eb229f1b7749.jpg",
-          "IPS4File": "High Poly Head xEdit Scripts v1.4.zip",
-          "IPS4Mod": 283,
-          "IPS4Url": "https://vectorplexus.com/files/file/283-high-poly-head/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "High Poly Head",
-          "Version": "1.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "xe2UwQDC0Fc=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=32349\nfileID=269167",
         "Name": "Actor Limit Fix (Special Edition)-32349-5-1646905082.7z",
@@ -8767,27 +8715,6 @@
           "ModID": 49095,
           "Name": "Better SkyUI Config - Smart sorting by type",
           "Version": "1.0.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7VNosx7AI2A=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=64339\nfileID=280222",
-        "Name": "Better Third Person Selection (SE)-64339-0-5-4-1651184106.7z",
-        "Size": 611263,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Shrimperator",
-          "Description": "SKSE DLL to overhaul 3rd person object selection. \n\n\n\nRewrites Skyrim\u0027s crosshair selection to work more like true 3rd person RPGs - no more spending 5 minutes picking up tiny gold coins from the ground!",
-          "FileID": 280222,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64339/64339-1646073940-673615021.png",
-          "IsNSFW": false,
-          "ModID": 64339,
-          "Name": "Better Third Person Selection - BTPS",
-          "Version": "0.5.4.0"
         }
       }
     },

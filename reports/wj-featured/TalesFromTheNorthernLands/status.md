@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (606)
+### Valid (603)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [1_Enhanced Blood Textures-2357-4-0-1639547261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=249235)
@@ -12,7 +12,6 @@
 *  [A Lovely Letter Alternate Routes-21916-1-0-1544983389.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21916/?tab=files&file_id=75329)
 *  [A New Chapter-30853-2-1-1-1626425557.zip](https://www.nexusmods.com/skyrimspecialedition/mods/30853/?tab=files&file_id=214860)
 *  [Actor Limit Fix (Special Edition)-32349-5-1646905082.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=269167)
-*  [Adamant - A Perk Overhaul-30191-5-4-3-1649781876.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=276682)
 *  [Adamant - A Perk Overhaul-30191-5-4-4-1650478584.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=278495)
 *  [Adamant - Shrines and Amulets-30191-5-0-3-1629346813.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=222179)
 *  [Adopt Aventus Aretino patch TKAA-3257-1-2-1621157947.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3257/?tab=files&file_id=203792)
@@ -72,7 +71,6 @@
 *  [Better MessageBox Controls v1_2-1428-1-2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1428/?tab=files&file_id=11023)
 *  [Better PowerAttack Control-SSE-49648-v0-31-1628337415.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49648/?tab=files&file_id=219449)
 *  [Better SkyUI Config-49095-1-0-1-1620924046.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49095/?tab=files&file_id=203272)
-*  [Better Third Person Selection (SE)-64339-0-5-3-1650034048.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64339/?tab=files&file_id=277318)
 *  [Better Third Person Selection (SE)-64339-0-5-4-1651184106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64339/?tab=files&file_id=280222)
 *  [Bijin Skin UNP-20078-1-4-1541715142.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20078/?tab=files&file_id=71721)
 *  bink2w64.dll
@@ -246,11 +244,10 @@
 *  [HelsCels.ini-41978-2-0-1-1613726568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/41978/?tab=files&file_id=186737)
 *  [Hide Quest Items in Container Menu-51243-0-8-1647622538.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51243/?tab=files&file_id=270959)
 *  [High Gate Ruins Puzzle Reset Fix-53643-0-2-1628676419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53643/?tab=files&file_id=220379)
-*  High Poly Head xEdit Scripts v1.4.zip
+*  [High Poly Head v1.4 (SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 *  [High Poly NPC Overhaul - Resources 2.06-42768-2-06-1613264959.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42768/?tab=files&file_id=185780)
 *  [High Poly NPC Overhaul - Skyrim Special Edition 2.04-44155-2-04-1610760955.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44155/?tab=files&file_id=179803)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
-*  High_Poly_Head_v1.4_(SE).zip
 *  High.ini
 *  [Hishy_NPC_RecordForwarding.pas-5049-2-5b.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5049/?tab=files&file_id=15222)
 *  [Honeyside's Black-Briar Bar-43372-1-0-1608031057.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43372/?tab=files&file_id=174621)
