@@ -2,7 +2,7 @@
   "MachineURL": "Elysium/elysium",
   "Name": "Elysium Remastered",
   "Version": "1.7.0",
-  "ModListHash": "6MUGk4+jBsU=",
+  "ModListHash": "Y0UGM8xn3y4=",
   "Archives": [
     {
       "Status": "Valid",
@@ -24358,21 +24358,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hjRbuB6XES8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53761\nfileID=221989",
-        "Name": "Animated Static Reload Fix - SSE-53761-v1-01-1629257292.7z",
-        "Size": 84554,
+        "Hash": "Zha7ZHKioaw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=69331\nfileID=289715",
+        "Name": "Animated Static Reload Fix - NG-69331-1-0-1654695803.zip",
+        "Size": 4898828,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Maxsu",
-          "Description": "SKSE plugin that fixed a game engine bug: static object\u0027s loop animation not re-activated after loaded saved.",
-          "FileID": 221989,
+          "Description": "Updated Animated Static Reload Fix with support for SSE, AE, and VR in one DLL.",
+          "FileID": 289715,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53761/53761-1629129336-60029212.gif",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69331/69331-1654695736-465181578.gif",
           "IsNSFW": false,
-          "ModID": 53761,
-          "Name": "Animated Static Reload Fix",
-          "Version": "f1.01"
+          "ModID": 69331,
+          "Name": "Animated Static Reload Fix - NG",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -25515,27 +25515,6 @@
           "ModID": 20865,
           "Name": "ElSopa HD - Glorious Dummies SE",
           "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "nqUH18HuQQc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=69487\nfileID=290371",
-        "Name": "Skyrim Objects SMIMed - Glazed and Nordic Pottery-69487-0-2-1654941151.7z",
-        "Size": 980289,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "wankingSkeever",
-          "Description": "Slightly higher polygon glazed and nordic pottery",
-          "FileID": 290371,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69487/69487-1654912787-2115069875.png",
-          "IsNSFW": false,
-          "ModID": 69487,
-          "Name": "Skyrim Objects SMIMed - Glazed and Nordic Pottery",
-          "Version": "0.2.0.0"
         }
       }
     },
@@ -27524,21 +27503,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "c2Sa7lKtkrY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=40261\nfileID=241400",
-        "Name": "NPC AI Process Pos Fix-SSE-V4.06-40261-v4-06-1636884021.7z",
-        "Size": 56789,
+        "Hash": "qYcb2Ux5dkw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=69326\nfileID=290386",
+        "Name": "NPC AI Process Position Fix - NG-69326-1-1-0-1654945511.zip",
+        "Size": 5623297,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Maxsu",
-          "Description": "A DLL plugin that fixes the vanilla game engine bug that NPCs AI process positions could not be updated after you waiting/ sleeping/ fast travel.",
-          "FileID": 241400,
+          "Description": "Updated NPC AI Process Position Fix adding support for SSE, AE, and VR in one DLL.",
+          "FileID": 290386,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/40261/40261-1599834679-1191296208.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69326/69326-1654692591-651616921.png",
           "IsNSFW": false,
-          "ModID": 40261,
-          "Name": "NPC AI Process Position  Fix - SSE",
-          "Version": "f4.06"
+          "ModID": 69326,
+          "Name": "NPC AI Process Position Fix  - NG",
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -29225,21 +29204,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ANrrv5bVak4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=68025\nfileID=287389",
-        "Name": "Soaking Wet-68025-1-1-3-1653823967.zip",
-        "Size": 244575,
+        "Hash": "/jjai4Ddl5w=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68025\nfileID=290493",
+        "Name": "Soaking Wet-68025-1-2-0-1654976379.zip",
+        "Size": 434709,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SlavicPotato",
           "Description": "A SKSE64 plugin that makes characters and their gear appear wet when in water. Works on player and NPCs with seamless soak/dry transitions and adjustable shine level.",
-          "FileID": 287389,
+          "FileID": 290493,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68025/68025-1652510922-1452901076.png",
           "IsNSFW": false,
           "ModID": 68025,
           "Name": "Soaking Wet - Character Wetness Effect",
-          "Version": "1.1.3.0"
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -37454,6 +37433,27 @@
           "ModID": 44656,
           "Name": "Thunder Sounds - WiZkiD Mix -",
           "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CXZ7veXrd4M=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=47089\nfileID=191868",
+        "Name": "Triumvirate - Warlock Summons Volume Down-47089-1-0-1615923389.rar",
+        "Size": 419339,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Enai Siaion - MihailMods - Zakaria",
+          "Description": "I love playing as a Warlock archetype in the triumvirate, but the three first summons really hurt my ears and my head after brining them, so this is a personal mod that I made to reduce the volume of those summons , and am uploading it to save as many ears as possible.",
+          "FileID": 191868,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47089/47089-1615915129-354178422.png",
+          "IsNSFW": false,
+          "ModID": 47089,
+          "Name": "Triumvirate - Warlock Summons Volume Down",
+          "Version": "1.0.0.0"
         }
       }
     },
