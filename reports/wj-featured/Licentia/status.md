@@ -1,11 +1,12 @@
 ## Validation Report - Licentia (wj-featured/Licentia)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Improved_Camera-1.0_Beta4.7z](https://drive.google.com/uc?id=12hqOZbfeFK0zXJxpzsEXsyQyDclDQaZk&export=download)
 ### Updated (1)
 *  [OSex-17209-2-02SE-Alpha.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17209/?tab=files&file_id=54347)
 ### Mirrored (0)
-### Valid (1303)
+### Valid (1302)
 *  [-Skyrim 2020 Update 8.45 to 8.8 - 8K-2347-8-8-1646827889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=269047)
 *  [-Update 8.8.1 Solitude Moss fix-2347-8-8-1-1647693218.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=271144)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -627,7 +628,6 @@
 *  [Improved Camera ini-40725-1-3-1626310079.zip](https://www.nexusmods.com/skyrimspecialedition/mods/40725/?tab=files&file_id=214622)
 *  [Improved Combat Music v. 2.0-66016-2-0.rar](https://www.nexusmods.com/skyrim/mods/66016/?tab=files&file_id=1000160769)
 *  [Improved Follower Dialogue - Lydia-38473-2-0-2-1611199674.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38473/?tab=files&file_id=180809)
-*  [Improved_Camera-1.0_Beta4.7z](https://drive.google.com/uc?id=12hqOZbfeFK0zXJxpzsEXsyQyDclDQaZk&export=download)
 *  [Informed Mail Delivery-66339-1-2-1650030696.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66339/?tab=files&file_id=277306)
 *  [INI file-51073-1-3-0-1635979712.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=238875)
 *  [Inigo - Bloodchill Manor Patch-58317-1-0-0-1636738152.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58317/?tab=files&file_id=240839)
