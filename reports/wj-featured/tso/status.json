@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/tso",
   "Name": "Total Skyrim Overhaul",
-  "Version": "4.0.0",
-  "ModListHash": "8Shm+HnPj1I=",
+  "Version": "4.0.1",
+  "ModListHash": "tgqTTNBQwCg=",
   "Archives": [
     {
       "Status": "Valid",
@@ -42,16 +42,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "FZXovxp8lX0=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=binkw64.dll",
-        "Name": "binkw64.dll",
-        "Size": 298496,
+        "Hash": "wwYDXqpkrNE=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=bink2w64.dll",
+        "Name": "bink2w64.dll",
+        "Size": 391360,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "binkw64.dll",
-          "GameVersion": "1.5.97.0",
-          "Hash": "FZXovxp8lX0="
+          "GameFile": "bink2w64.dll",
+          "GameVersion": "1.6.353.0",
+          "Hash": "wwYDXqpkrNE="
         }
       }
     },
@@ -127,14 +127,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "ia6Y2mEquMg=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=high.ini",
-        "Name": "high.ini",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=High.ini",
+        "Name": "High.ini",
         "Size": 906,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "high.ini",
-          "GameVersion": "1.5.97.0",
+          "GameFile": "High.ini",
+          "GameVersion": "1.6.353.0",
           "Hash": "ia6Y2mEquMg="
         }
       }
@@ -150,7 +150,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "installscript.vdf",
-          "GameVersion": "1.5.97.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "M9LtyeAVtQE="
         }
       }
@@ -159,14 +159,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "O5kJ576V0KY=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=low.ini",
-        "Name": "low.ini",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Low.ini",
+        "Name": "Low.ini",
         "Size": 898,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "low.ini",
-          "GameVersion": "1.5.97.0",
+          "GameFile": "Low.ini",
+          "GameVersion": "1.6.353.0",
           "Hash": "O5kJ576V0KY="
         }
       }
@@ -175,14 +175,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "tBVeSwhhyNk=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=medium.ini",
-        "Name": "medium.ini",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Medium.ini",
+        "Name": "Medium.ini",
         "Size": 898,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "medium.ini",
-          "GameVersion": "1.5.97.0",
+          "GameFile": "Medium.ini",
+          "GameVersion": "1.6.353.0",
           "Hash": "tBVeSwhhyNk="
         }
       }
@@ -204,32 +204,32 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yLhCbCSfkuE=",
+        "Hash": "Wsq6jhOx4YM=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Skyrim.ccc",
         "Name": "Skyrim.ccc",
-        "Size": 1605,
+        "Size": 2018,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Skyrim.ccc",
-          "GameVersion": "1.5.97.0",
-          "Hash": "yLhCbCSfkuE="
+          "GameVersion": "1.6.353.0",
+          "Hash": "Wsq6jhOx4YM="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8iPX1dhv7+E=",
+        "Hash": "L2b/YNPnYDg=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=SkyrimSE.exe",
         "Name": "SkyrimSE.exe",
-        "Size": 34769792,
+        "Size": 35410264,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "SkyrimSE.exe",
-          "GameVersion": "1.5.97.0",
-          "Hash": "8iPX1dhv7+E="
+          "GameVersion": "1.6.353.0",
+          "Hash": "L2b/YNPnYDg="
         }
       }
     },
@@ -244,7 +244,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "SkyrimSELauncher.exe",
-          "GameVersion": "1.5.97.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "0bhc8w0adVI="
         }
       }
@@ -260,7 +260,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Skyrim_Default.ini",
-          "GameVersion": "1.5.97.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "JbYP1w8FSfY="
         }
       }
@@ -276,7 +276,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "steam_api64.dll",
-          "GameVersion": "1.5.97.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "XEqXAcAgOQ8="
         }
       }
@@ -285,14 +285,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "joAkOFfS7Wc=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=ultra.ini",
-        "Name": "ultra.ini",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Ultra.ini",
+        "Name": "Ultra.ini",
         "Size": 911,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "ultra.ini",
-          "GameVersion": "1.5.97.0",
+          "GameFile": "Ultra.ini",
+          "GameVersion": "1.6.353.0",
           "Hash": "joAkOFfS7Wc="
         }
       }
@@ -9038,10 +9038,10 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "690rIEf3sUM=",
+        "Hash": "TipqrZUG7EM=",
         "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=1THN3jBMBTHydVWV_DeADu3AQCZEvYAKT\u0026export=download",
         "Name": "[Dint999] OutfitOfConfessor v1.01 [SE].7z",
-        "Size": 322360353,
+        "Size": 323820183,
         "State": {
           "$type": "GoogleDriveDownloader, Wabbajack.Lib",
           "Id": "1THN3jBMBTHydVWV_DeADu3AQCZEvYAKT"
@@ -9255,19 +9255,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "MypGGvHR8fc=",
-        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=1v3NnIqN-x1Kow3GuYFS7OAeM4GHFvd1-\u0026export=download",
-        "Name": "[Melodic] Shadow Cat.7z",
-        "Size": 109538723,
-        "State": {
-          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
-          "Id": "1v3NnIqN-x1Kow3GuYFS7OAeM4GHFvd1-"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "LYV6jAwZXp4=",
         "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/13662-se-team-tals-9204-dr-alicia-smp-3ba/?do=download\u0026csrfKey=d6bfb8e17735b87c4386ca53f4236467\nprompt=",
         "Name": "[SE] 9204 DR Alicia by Team TAL CBBE 3BA BS.7z",
@@ -9455,320 +9442,304 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "CEgEhUUtOcU=",
+        "Hash": "v593yGFgPDo=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Dawnguard.esm",
         "Name": "Data_Dawnguard.esm",
-        "Size": 25189548,
+        "Size": 25885945,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Dawnguard.esm",
-          "GameVersion": "1.5.97.0",
-          "Hash": "CEgEhUUtOcU="
+          "GameVersion": "1.6.353.0",
+          "Hash": "v593yGFgPDo="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "eypuUwdQUb4=",
+        "Hash": "F76LaGyCAJA=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Dragonborn.esm",
         "Name": "Data_Dragonborn.esm",
-        "Size": 64564304,
+        "Size": 64663913,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Dragonborn.esm",
-          "GameVersion": "1.5.97.0",
-          "Hash": "eypuUwdQUb4="
+          "GameVersion": "1.6.353.0",
+          "Hash": "F76LaGyCAJA="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GPdcQrqi2NI=",
+        "Hash": "XlKELPX7jog=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\HearthFires.esm",
         "Name": "Data_HearthFires.esm",
-        "Size": 3978606,
+        "Size": 3978550,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\HearthFires.esm",
-          "GameVersion": "1.5.97.0",
-          "Hash": "GPdcQrqi2NI="
+          "GameVersion": "1.6.353.0",
+          "Hash": "XlKELPX7jog="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kX9UFltG4+s=",
+        "Hash": "5xD6UEtvt3M=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Animations.bsa",
         "Name": "Data_Skyrim - Animations.bsa",
-        "Size": 116177491,
+        "Size": 65101236,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Animations.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "kX9UFltG4+s="
+          "GameVersion": "1.6.353.0",
+          "Hash": "5xD6UEtvt3M="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "k5EWx/9Woqg=",
+        "Hash": "l/34Syb1rXg=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Interface.bsa",
         "Name": "Data_Skyrim - Interface.bsa",
-        "Size": 65726709,
+        "Size": 78740221,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Interface.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "k5EWx/9Woqg="
+          "GameVersion": "1.6.353.0",
+          "Hash": "l/34Syb1rXg="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XTaNNFIm3eM=",
+        "Hash": "oIYZPu4jH2g=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Meshes0.bsa",
         "Name": "Data_Skyrim - Meshes0.bsa",
-        "Size": 1152069673,
+        "Size": 1153090124,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Meshes0.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "XTaNNFIm3eM="
+          "GameVersion": "1.6.353.0",
+          "Hash": "oIYZPu4jH2g="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "eN9rU4PSvEs=",
+        "Hash": "TvzBPkbzJjI=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Meshes1.bsa",
         "Name": "Data_Skyrim - Meshes1.bsa",
-        "Size": 373427426,
+        "Size": 378853391,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Meshes1.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "eN9rU4PSvEs="
+          "GameVersion": "1.6.353.0",
+          "Hash": "TvzBPkbzJjI="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/Sglpr+ZffA=",
+        "Hash": "7ZEj5ntJZIc=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Misc.bsa",
         "Name": "Data_Skyrim - Misc.bsa",
-        "Size": 204313675,
+        "Size": 204574260,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Misc.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "/Sglpr+ZffA="
+          "GameVersion": "1.6.353.0",
+          "Hash": "7ZEj5ntJZIc="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GG4pOfUmiRA=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Patch.bsa",
-        "Name": "Data_Skyrim - Patch.bsa",
-        "Size": 166880326,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Patch.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "GG4pOfUmiRA="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "yRcX3Ttf9YM=",
+        "Hash": "SwnAPr6pbzg=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Shaders.bsa",
         "Name": "Data_Skyrim - Shaders.bsa",
-        "Size": 67318282,
+        "Size": 67308970,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Shaders.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "yRcX3Ttf9YM="
+          "GameVersion": "1.6.353.0",
+          "Hash": "SwnAPr6pbzg="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8LzXRU4x9Sw=",
+        "Hash": "6ILjbi2XOOA=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Sounds.bsa",
         "Name": "Data_Skyrim - Sounds.bsa",
-        "Size": 1535523399,
+        "Size": 1538656059,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Sounds.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "8LzXRU4x9Sw="
+          "GameVersion": "1.6.353.0",
+          "Hash": "6ILjbi2XOOA="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "EwvbU7wcUUo=",
+        "Hash": "VX7KHQ0qSXM=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures0.bsa",
         "Name": "Data_Skyrim - Textures0.bsa",
-        "Size": 655189115,
+        "Size": 652401558,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Textures0.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "EwvbU7wcUUo="
+          "GameVersion": "1.6.353.0",
+          "Hash": "VX7KHQ0qSXM="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "NEfClmVq9B4=",
+        "Hash": "0DYAzX1tsf8=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures1.bsa",
         "Name": "Data_Skyrim - Textures1.bsa",
-        "Size": 1509673333,
+        "Size": 1511504224,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Textures1.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "NEfClmVq9B4="
+          "GameVersion": "1.6.353.0",
+          "Hash": "0DYAzX1tsf8="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "vkYZpIgHQxU=",
+        "Hash": "uutAUjvgpvg=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures2.bsa",
         "Name": "Data_Skyrim - Textures2.bsa",
-        "Size": 1344319627,
+        "Size": 1346030841,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Textures2.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "vkYZpIgHQxU="
+          "GameVersion": "1.6.353.0",
+          "Hash": "uutAUjvgpvg="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "rENi4TDkFjY=",
+        "Hash": "miIWAsh+4As=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures3.bsa",
         "Name": "Data_Skyrim - Textures3.bsa",
-        "Size": 1318023565,
+        "Size": 1401677791,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Textures3.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "rENi4TDkFjY="
+          "GameVersion": "1.6.353.0",
+          "Hash": "miIWAsh+4As="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "giTfe+sElPQ=",
+        "Hash": "8nHuDbnzCw0=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures4.bsa",
         "Name": "Data_Skyrim - Textures4.bsa",
-        "Size": 1355383619,
+        "Size": 1265325033,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Textures4.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "giTfe+sElPQ="
+          "GameVersion": "1.6.353.0",
+          "Hash": "8nHuDbnzCw0="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "UiL63aqbepg=",
+        "Hash": "gGA1UynjlR8=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures5.bsa",
         "Name": "Data_Skyrim - Textures5.bsa",
-        "Size": 523065091,
+        "Size": 809121183,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Textures5.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "UiL63aqbepg="
+          "GameVersion": "1.6.353.0",
+          "Hash": "gGA1UynjlR8="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "S8YE//PoRFI=",
+        "Hash": "7YxJe07jHiI=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures6.bsa",
         "Name": "Data_Skyrim - Textures6.bsa",
-        "Size": 168591797,
+        "Size": 107211187,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Textures6.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "S8YE//PoRFI="
+          "GameVersion": "1.6.353.0",
+          "Hash": "7YxJe07jHiI="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dFLn+q0m2ic=",
+        "Hash": "M2lXyN1Vo8A=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures7.bsa",
         "Name": "Data_Skyrim - Textures7.bsa",
-        "Size": 824377007,
+        "Size": 700733354,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Textures7.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "dFLn+q0m2ic="
+          "GameVersion": "1.6.353.0",
+          "Hash": "M2lXyN1Vo8A="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Pv1SP027iuw=",
+        "Hash": "WJzdWWq7n8M=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures8.bsa",
         "Name": "Data_Skyrim - Textures8.bsa",
-        "Size": 25248518,
+        "Size": 214496000,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Textures8.bsa",
-          "GameVersion": "1.5.97.0",
-          "Hash": "Pv1SP027iuw="
+          "GameVersion": "1.6.353.0",
+          "Hash": "WJzdWWq7n8M="
         }
       }
     },
@@ -9783,7 +9754,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Voices_en0.bsa",
-          "GameVersion": "1.5.97.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "2Tmfw2AG/MM="
         }
       }
@@ -9791,32 +9762,32 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "krNnq2qHmOo=",
+        "Hash": "oct60LUJHOc=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim.esm",
         "Name": "Data_Skyrim.esm",
-        "Size": 249753573,
+        "Size": 249753477,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim.esm",
-          "GameVersion": "1.5.97.0",
-          "Hash": "krNnq2qHmOo="
+          "GameVersion": "1.6.353.0",
+          "Hash": "oct60LUJHOc="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/DLG/LjdGXI=",
+        "Hash": "w7YJ2li+67E=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Update.esm",
         "Name": "Data_Update.esm",
-        "Size": 18557306,
+        "Size": 18825175,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Update.esm",
-          "GameVersion": "1.5.97.0",
-          "Hash": "/DLG/LjdGXI="
+          "GameVersion": "1.6.353.0",
+          "Hash": "w7YJ2li+67E="
         }
       }
     },
@@ -9831,7 +9802,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Skyrim\\SkyrimPrefs.ini",
-          "GameVersion": "1.5.97.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "fiMS7vbbpNE="
         }
       }
@@ -11222,7 +11193,7 @@
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Video\\BGS_Logo.bik",
-          "GameVersion": "1.5.97.0",
+          "GameVersion": "1.6.353.0",
           "Hash": "3z7MDvy3Dhw="
         }
       }
