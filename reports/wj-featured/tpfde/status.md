@@ -1119,7 +1119,7 @@
 *  [SDA Castle Volkihar Rebuilt Patch-32161-1-0CastleVolkPatch-1654005103.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32161/?tab=files&file_id=287867)
 *  [Seasonal Aspen Trees-63641-1-01-1644880975.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63641/?tab=files&file_id=264226)
 *  [Seasonal Landscapes for ENB Complex Grass-67304-1-0-1651803178.zip](https://www.nexusmods.com/skyrimspecialedition/mods/67304/?tab=files&file_id=281758)
-*  [Seasonal Landscapes-66903-1-4-1655241857.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66903/?tab=files&file_id=291270)
+*  [Seasonal Landscapes-66903-1-5-1655322760.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66903/?tab=files&file_id=291420)
 *  [Seasonal Unique Flowers and Plants-69130-1-0--1654423073.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69130/?tab=files&file_id=288901)
 *  [Seasonal Weathers Framework - 1.01-63562-1-01-1644859098.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63562/?tab=files&file_id=264127)
 *  [Seasonal Weathers Framework - Cathedral Weathers and Seasons-63562-Cathedral-1645387371.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63562/?tab=files&file_id=265710)
