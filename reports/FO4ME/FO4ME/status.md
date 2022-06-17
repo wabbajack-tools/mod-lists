@@ -1,4 +1,4 @@
-## Validation Report - Fallout 4 Modding Essentials (FO4ME/gozermodlists/FO4ME)
+## Validation Report - Fallout 4 Modding Essentials (FO4ME/FO4ME)
 
 
 ### Invalid (0)
