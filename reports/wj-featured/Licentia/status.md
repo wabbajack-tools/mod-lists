@@ -5,7 +5,7 @@
 ### Updated (1)
 *  [OSex-17209-2-02SE-Alpha.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17209/?tab=files&file_id=54347)
 ### Mirrored (0)
-### Valid (1303)
+### Valid (1308)
 *  [-Skyrim 2020 Update 8.45 to 8.8 - 8K-2347-8-8-1646827889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=269047)
 *  [-Update 8.8.1 Solitude Moss fix-2347-8-8-1-1647693218.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=271144)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -162,6 +162,7 @@
 *  [Cannibal Draugr Compatibility Patch SSE v1.5-21775-1-5-1563365022.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21775/?tab=files&file_id=99581)
 *  [Cannibal Draugr on Solstheim-21238-2-2-1623042542.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21238/?tab=files&file_id=207882)
 *  [Carriage and Ferry Travel Overhaul-8379-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8379/?tab=files&file_id=23767)
+*  [Carriage Ferry Travel Overhaul (CFTO) Bittercup Fix-60974-0-2-1641386559.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60974/?tab=files&file_id=254116)
 *  [Cathedral Assets Optimizer 64-23316-5-3-12-1646519263.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23316/?tab=files&file_id=268309)
 *  [CBBE 3BA (3BBB)-30174-2-31-1648475339.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30174/?tab=files&file_id=273270)
 *  [CBBE 3BA Creation Club-62774-1-0-1643558872.rar](https://www.nexusmods.com/skyrimspecialedition/mods/62774/?tab=files&file_id=260503)
@@ -850,6 +851,7 @@
 *  [OpenSex addon version-58640-v0-19nexus-1650634994.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58640/?tab=files&file_id=278919)
 *  [OpenSex addon version-58640-v0-22-1652417085.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58640/?tab=files&file_id=283310)
 *  [OpenSex Beta-61167-v0-24-1652368201.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61167/?tab=files&file_id=283150)
+*  [opleaseletmego-69308-1-3-1655057407.rar](https://www.nexusmods.com/skyrimspecialedition/mods/69308/?tab=files&file_id=290671)
 *  [OProstitution ASLAL Intergration-62923-1-0-1643724342.rar](https://www.nexusmods.com/skyrimspecialedition/mods/62923/?tab=files&file_id=260979)
 *  [OProstitution-64148-1-4-1645670309.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64148/?tab=files&file_id=266405)
 *  [Optional 01 - Eli's Coffee Mod Integration-19152-1-90-1540625095.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19152/?tab=files&file_id=70413)
@@ -909,6 +911,7 @@
 *  [Pandorable's NPCs SE - Salt and Wind Textures-19450-1-2-1556538108.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19450/?tab=files&file_id=90158)
 *  [Pandorable's NPCs SE-19012-1-4-1582680071.rar](https://www.nexusmods.com/skyrimspecialedition/mods/19012/?tab=files&file_id=125965)
 *  [Pandorable's Serana-24931-1-0-1559404031.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24931/?tab=files&file_id=94417)
+*  Papyrus Compiler_PapyrusCompiler.exe
 *  [Papyrus Extender-22854-5-1-0-1652182311.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=282672)
 *  [PapyrusUtil SE - Scripting Utility Functions-13048-3-9-1580810594.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=122686)
 *  [Paraglider Auto-Equip Tarhiel's Gale-53436-1-11-1628413680.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53436/?tab=files&file_id=219652)
@@ -979,6 +982,7 @@
 *  [RAW SSE - 4K-2K-19666-3-0-1539568268.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19666/?tab=files&file_id=69262)
 *  [RB - Light - Main File-18183-2-5-1601235509.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18183/?tab=files&file_id=162868)
 *  [Re-nable ENB on Loading and Title Screen-52661-1-1626872245.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52661/?tab=files&file_id=215804)
+*  [Read Or Take SKSE-69588-1-0-1-1655137975.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69588/?tab=files&file_id=291015)
 *  [Real Argonian Eyes-48346-1-0-1618027104.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48346/?tab=files&file_id=197219)
 *  [Real Wildlife - Skyrim SE-17466-1-5.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17466/?tab=files&file_id=55414)
 *  [Real Wildlife Improved SE-29843-4-0-1576325787.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29843/?tab=files&file_id=116148)
@@ -1107,6 +1111,7 @@
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
 *  [SkyrimsParaglider-53256-1-5-0-1629830063.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53256/?tab=files&file_id=223502)
+*  [SkyrimUncapperFixed-46536-0-0-1-1614884169.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46536/?tab=files&file_id=189400)
 *  [SkyrimUnderground_Add-On-131-5-0-1645006543.7z](https://www.nexusmods.com/skyrimspecialedition/mods/131/?tab=files&file_id=264578)
 *  [Skysan_ELFX_SMIM_Fix.7z-5520-3-06-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5520/?tab=files&file_id=39424)
 *  [SkyUI_5_2_SE-12604-5-2SE.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12604/?tab=files&file_id=35407)

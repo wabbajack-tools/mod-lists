@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/Licentia",
   "Name": "Licentia",
-  "Version": "10.56.2",
-  "ModListHash": "J4/o3V+8ZX0=",
+  "Version": "10.56.3",
+  "ModListHash": "vUzQIdZcvc8=",
   "Archives": [
     {
       "Status": "Valid",
@@ -1745,6 +1745,27 @@
           "ModID": 8379,
           "Name": "Carriage and Ferry Travel Overhaul (Formerly Complete Fast Travel Overhaul)",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "78wGecdoSog=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60974\nfileID=254116",
+        "Name": "Carriage Ferry Travel Overhaul (CFTO) Bittercup Fix-60974-0-2-1641386559.7z",
+        "Size": 4664,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wankingSkeever",
+          "Description": "Fixes issue where CFTO deletes an NPC needed for Bittercup Creation",
+          "FileID": 254116,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60974/60974-1640868668-1375634330.png",
+          "IsNSFW": false,
+          "ModID": 60974,
+          "Name": "Carriage Ferry Travel Overhaul (CFTO) Bittercup Fix",
+          "Version": "0.3.0.0"
         }
       }
     },
@@ -10578,6 +10599,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "BOP47NjeLB4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=69308\nfileID=290671",
+        "Name": "opleaseletmego-69308-1-3-1655057407.rar",
+        "Size": 20419,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "321mahra",
+          "Description": "allows you to prevent getting arrested by offering seggs.",
+          "FileID": 290671,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69308/69308-1654705557-310967862.png",
+          "IsNSFW": true,
+          "ModID": 69308,
+          "Name": "OPleaseLetMeGo",
+          "Version": "1.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Ez0OI756Myg=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=64148\nfileID=266405",
         "Name": "OProstitution-64148-1-4-1645670309.zip",
@@ -16189,6 +16231,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Nu8hdw/a3gw=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Papyrus Compiler\\PapyrusCompiler.exe",
+        "Name": "Papyrus Compiler_PapyrusCompiler.exe",
+        "Size": 13824,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Papyrus Compiler\\PapyrusCompiler.exe",
+          "GameVersion": "1.6.353.0",
+          "Hash": "Nu8hdw/a3gw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "fiMS7vbbpNE=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Skyrim\\SkyrimPrefs.ini",
         "Name": "Skyrim_SkyrimPrefs.ini",
@@ -20069,6 +20127,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "5bID7i0bAJQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=69588\nfileID=291015",
+        "Name": "Read Or Take SKSE-69588-1-0-1-1655137975.7z",
+        "Size": 270565,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "Simple SKSE plugin that allows you to read OR take books",
+          "FileID": 291015,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69588/69588-1655089970-264818889.png",
+          "IsNSFW": false,
+          "ModID": 69588,
+          "Name": "Read Or Take SKSE",
+          "Version": "1.0.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Oz9qctufmI0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=22087\nfileID=76594",
         "Name": "Realistic HD Food Remastered-22087-1-3-1546092697.7z",
@@ -20588,6 +20667,27 @@
           "ModID": 8889,
           "Name": "Skyrim Skill Uncapper",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9OyBO9I4F2I=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=46536\nfileID=189400",
+        "Name": "SkyrimUncapperFixed-46536-0-0-1-1614884169.zip",
+        "Size": 192565,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Author",
+          "Description": "Original Skyrim Skill Uncapper(V1.1.0) has bug that causes random initialization failure.\n\nWhen bug happens SkyrimUncapper.log ends with:\n\ncouldn\u0027t allocate trampoline, no free space before image\n\ncouldn\u0027t create codegen buffer. this is fatal. skipping remainder of init process.",
+          "FileID": 189400,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46536/46536-1614885853-36073399.jpeg",
+          "IsNSFW": false,
+          "ModID": 46536,
+          "Name": "Skyrim Skill Uncapper(fixed)",
+          "Version": "0.0.1.0"
         }
       }
     },
