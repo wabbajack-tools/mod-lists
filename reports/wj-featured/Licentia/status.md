@@ -5,7 +5,7 @@
 ### Updated (1)
 *  [OSex-17209-2-02SE-Alpha.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17209/?tab=files&file_id=54347)
 ### Mirrored (0)
-### Valid (1308)
+### Valid (1307)
 *  [-Skyrim 2020 Update 8.45 to 8.8 - 8K-2347-8-8-1646827889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=269047)
 *  [-Update 8.8.1 Solitude Moss fix-2347-8-8-1-1647693218.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=271144)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -911,7 +911,6 @@
 *  [Pandorable's NPCs SE - Salt and Wind Textures-19450-1-2-1556538108.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19450/?tab=files&file_id=90158)
 *  [Pandorable's NPCs SE-19012-1-4-1582680071.rar](https://www.nexusmods.com/skyrimspecialedition/mods/19012/?tab=files&file_id=125965)
 *  [Pandorable's Serana-24931-1-0-1559404031.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24931/?tab=files&file_id=94417)
-*  Papyrus Compiler_PapyrusCompiler.exe
 *  [Papyrus Extender-22854-5-1-0-1652182311.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=282672)
 *  [PapyrusUtil SE - Scripting Utility Functions-13048-3-9-1580810594.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=122686)
 *  [Paraglider Auto-Equip Tarhiel's Gale-53436-1-11-1628413680.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53436/?tab=files&file_id=219652)
