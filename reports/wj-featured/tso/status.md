@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1031)
+### Valid (1022)
 *  [- Skyrim 2020 8.4.2 - 3 of 3 - Other - 4K to 2K-2347-8-4-2-1624479907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=210840)
 *  [-Skyrim 2020 Update 8.7-2347-8-7-1641316815.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=253924)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)
@@ -260,6 +260,8 @@
 *  [CBBE patch textures by docteure and Jeir-30107-v1-2-1575546327.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30107/?tab=files&file_id=115251)
 *  [CBBE patch textures-27281-v1-0-1584189711.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27281/?tab=files&file_id=128527)
 *  [CBPC - Fomod installer - MAIN FILE-21224-1-4-17-1642089686.rar](https://www.nexusmods.com/skyrimspecialedition/mods/21224/?tab=files&file_id=256395)
+*  [CBPC - Fomod installer - MAIN FILE-21224-1-5-2-1654550613.rar](https://www.nexusmods.com/skyrimspecialedition/mods/21224/?tab=files&file_id=289366)
+*  [CBPC 3-Bone Breast Body Breast-Butt Bounce Configs for 3BA-BHUNP-COCO-21224-1-5-2-1654550666.rar](https://www.nexusmods.com/skyrimspecialedition/mods/21224/?tab=files&file_id=289367)
 *  [CBPC Equipment Physics SE and AE-58990-1-3-0-1639863663.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58990/?tab=files&file_id=250142)
 *  [CC's Castle Volkihar Reborn - 2K - 2.0.7z-10729-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10729/?tab=files&file_id=34748)
 *  [CC's Fort Dawnguard Reborn - 2K - 5.0-9776-5-0-1564861969.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9776/?tab=files&file_id=101754)
@@ -331,15 +333,6 @@
 *  Data_Skyrim - Misc.bsa
 *  Data_Skyrim - Shaders.bsa
 *  Data_Skyrim - Sounds.bsa
-*  Data_Skyrim - Textures0.bsa
-*  Data_Skyrim - Textures1.bsa
-*  Data_Skyrim - Textures2.bsa
-*  Data_Skyrim - Textures3.bsa
-*  Data_Skyrim - Textures4.bsa
-*  Data_Skyrim - Textures5.bsa
-*  Data_Skyrim - Textures6.bsa
-*  Data_Skyrim - Textures7.bsa
-*  Data_Skyrim - Textures8.bsa
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
 *  Data_Update.esm
@@ -551,8 +544,6 @@
 *  [JK's Bits and Pieces-44642-1-0-0-1611364361.rar](https://www.nexusmods.com/skyrimspecialedition/mods/44642/?tab=files&file_id=181168)
 *  [JK's Blue Palace-45324-1-2-2-1645208142.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45324/?tab=files&file_id=265144)
 *  [JK's Candlehearth Hall-45617-1-0-0-1613177179.rar](https://www.nexusmods.com/skyrimspecialedition/mods/45617/?tab=files&file_id=185575)
-*  [JK's College of Winterhold (Immersive and Obscure) Combo Patches-67820-2-2-1654473186.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67820/?tab=files&file_id=289060)
-*  [JK's College of Winterhold-65676-1-0-1-1654456199.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65676/?tab=files&file_id=288990)
 *  [JK's Dragonsreach-34000-1-1-0-1585285027.rar](https://www.nexusmods.com/skyrimspecialedition/mods/34000/?tab=files&file_id=130711)
 *  [JK's Elgrims Elixirs - Bee and Barb Patch-49934-1-0-0-1621176648.rar](https://www.nexusmods.com/skyrimspecialedition/mods/49934/?tab=files&file_id=203842)
 *  [JK's Elgrims Elixirs-49934-1-0-0-1621051376.rar](https://www.nexusmods.com/skyrimspecialedition/mods/49934/?tab=files&file_id=203549)
@@ -625,6 +616,7 @@
 *  [KHO Warriors of Light - Scholar (Physics Addon)-53691-1-0-1628717720.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53691/?tab=files&file_id=220512)
 *  [Khonsu - Mist's Shadowmarks 1K-9264-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9264/?tab=files&file_id=23709)
 *  [Knight of The Village 3BA-62364-1-2-1643395803.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62364/?tab=files&file_id=260165)
+*  [Knight of The Village BHUNP SSE Extended Textures 4K-62371-2022-c-1643392857.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62371/?tab=files&file_id=260159)
 *  [Knight of The Village BHUNP SSE Extended-62371-2022-c-1643392850.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62371/?tab=files&file_id=260158)
 *  [Kozakowy's Falka Armor - CBBE 3BA Bodyslide-52651-1-0-1-1627678770.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52651/?tab=files&file_id=217745)
 *  [Kozakowy's Falka Armor UNP - SSE v1.8.1-33939-1-8-1-1614390796.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33939/?tab=files&file_id=188290)
@@ -720,6 +712,7 @@
 *  [Nimana Skydancer - 3BBB Addon-48176-1-1-1618084927.rar](https://www.nexusmods.com/skyrimspecialedition/mods/48176/?tab=files&file_id=197374)
 *  [Nimana Skydancer 2k Textures-48176-1-1-1618084672.rar](https://www.nexusmods.com/skyrimspecialedition/mods/48176/?tab=files&file_id=197369)
 *  [No Spinning Death Animation-1432-1-31.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1432/?tab=files&file_id=9874)
+*  [Nordic tent-19627-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19627/?tab=files&file_id=64444)
 *  [Nordic Wanderer - Increased Diffuse Contrast-7943-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/7943/?tab=files&file_id=19289)
 *  [Nordic Wanderer - Main-7943-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/7943/?tab=files&file_id=19288)
 *  [Northborn Scars-720-1-3.rar](https://www.nexusmods.com/skyrimspecialedition/mods/720/?tab=files&file_id=2432)
@@ -868,7 +861,6 @@
 *  [Skeleton.and.Human.Bones.4k-2k-17282-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17282/?tab=files&file_id=54629)
 *  [skse64_2_00_19.7z](https://skse.silverlock.org/beta/skse64_2_00_19.7z)
 *  [Sky Haven Temple HD-6eca2f6e-e3ce-49cf-834a-9b971918ff51.7z](https://wabbajack.b-cdn.net/Sky Haven Temple HD-6eca2f6e-e3ce-49cf-834a-9b971918ff51.7z_0f815c42-2855-41aa-a933-b48d58db36f4)
-*  [Sky Idles-45794-3-2-1650042661.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45794/?tab=files&file_id=277335)
 *  [SKYBLIVION Steel Armor-31206-1-0-1577200795.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31206/?tab=files&file_id=117302)
 *  [Skygazer Moons SSE 2K - No Glow-32057-1-2-1579996351.rar](https://www.nexusmods.com/skyrimspecialedition/mods/32057/?tab=files&file_id=121175)
 *  [Skyland AIO-34179-3-12-1653450110.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34179/?tab=files&file_id=286296)
@@ -890,7 +882,6 @@
 *  [Skyrim Weapons Expansion - BSA-32500-1-3-1603260368.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32500/?tab=files&file_id=166390)
 *  Skyrim_Default.ini
 *  Skyrim_SkyrimPrefs.ini
-*  Skyrim.ccc
 *  [SkyrimSE HD Reworked Horses-28249-1-0-1565810425.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28249/?tab=files&file_id=103005)
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe

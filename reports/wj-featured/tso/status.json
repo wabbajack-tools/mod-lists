@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/tso",
   "Name": "Total Skyrim Overhaul",
-  "Version": "4.0.2",
-  "ModListHash": "auMa1+MOlsc=",
+  "Version": "4.0.3",
+  "ModListHash": "OEDT5LWofvg=",
   "Archives": [
     {
       "Status": "Valid",
@@ -198,22 +198,6 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://skse.silverlock.org/beta/skse64_2_00_19.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Wsq6jhOx4YM=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Skyrim.ccc",
-        "Name": "Skyrim.ccc",
-        "Size": 2018,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Skyrim.ccc",
-          "GameVersion": "1.6.353.0",
-          "Hash": "Wsq6jhOx4YM="
         }
       }
     },
@@ -4268,48 +4252,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bjQc5hPl0LE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=65676\nfileID=288990",
-        "Name": "JK\u0027s College of Winterhold-65676-1-0-1-1654456199.zip",
-        "Size": 10371398,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Jkrojmal",
-          "Description": "An enhanced College overhaul.",
-          "FileID": 288990,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65676/65676-1648560188-1642461799.jpeg",
-          "IsNSFW": false,
-          "ModID": 65676,
-          "Name": "JK\u0027s College of Winterhold",
-          "Version": "1.0.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Hy2SgHHCeUQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=67820\nfileID=289060",
-        "Name": "JK\u0027s College of Winterhold (Immersive and Obscure) Combo Patches-67820-2-2-1654473186.7z",
-        "Size": 1829492,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Czasior and Janquel",
-          "Description": "JKs College of Winterhold \u002B ICOW or OCW patches (and patches for use with other mods)",
-          "FileID": 289060,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67820/67820-1652158657-1712877940.jpeg",
-          "IsNSFW": false,
-          "ModID": 67820,
-          "Name": "JK\u0027s College of Winterhold (Immersive and Obscure) Combo Patches",
-          "Version": "2.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "rPUr09PWfAY=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=34000\nfileID=130711",
         "Name": "JK\u0027s Dragonsreach-34000-1-1-0-1585285027.rar",
@@ -5794,27 +5736,6 @@
           "Author": "GGUNIT",
           "Description": "Consistent and complete rework of Skyrim interiors lighting. This mod takes advantage of the latest developments in enb, including enb light, and has for main objective to offer a gaming experience as realistic as it is dramatic.",
           "FileID": 280865,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43158/43158-1640106608-423891061.jpeg",
-          "IsNSFW": false,
-          "ModID": 43158,
-          "Name": "Lux",
-          "Version": "4.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "X71TCdROW8Q=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43158\nfileID=281069",
-        "Name": "Lux - JK\u0027s College patch update-43158-4-2-1651494633.rar",
-        "Size": 11077,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "GGUNIT",
-          "Description": "Consistent and complete rework of Skyrim interiors lighting. This mod takes advantage of the latest developments in enb, including enb light, and has for main objective to offer a gaming experience as realistic as it is dramatic.",
-          "FileID": 281069,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43158/43158-1640106608-423891061.jpeg",
           "IsNSFW": false,
@@ -7386,27 +7307,6 @@
           "ModID": 44243,
           "Name": "Shield Sisters Re-Imagined SE",
           "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PvDvLbvW9GA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45794\nfileID=277335",
-        "Name": "Sky Idles-45794-3-2-1650042661.zip",
-        "Size": 329940,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "juhaaaa",
-          "Description": "Sky Idles is an condition based 3rd person idle animation collection for Skyrim SE.",
-          "FileID": 277335,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45794/45794-1629486233-544248546.jpeg",
-          "IsNSFW": false,
-          "ModID": 45794,
-          "Name": "Sky Idles SE",
-          "Version": "3.2.0.0"
         }
       }
     },
@@ -9576,150 +9476,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VX7KHQ0qSXM=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures0.bsa",
-        "Name": "Data_Skyrim - Textures0.bsa",
-        "Size": 652401558,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures0.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "VX7KHQ0qSXM="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "0DYAzX1tsf8=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures1.bsa",
-        "Name": "Data_Skyrim - Textures1.bsa",
-        "Size": 1511504224,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures1.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "0DYAzX1tsf8="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "uutAUjvgpvg=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures2.bsa",
-        "Name": "Data_Skyrim - Textures2.bsa",
-        "Size": 1346030841,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures2.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "uutAUjvgpvg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "miIWAsh+4As=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures3.bsa",
-        "Name": "Data_Skyrim - Textures3.bsa",
-        "Size": 1401677791,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures3.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "miIWAsh+4As="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8nHuDbnzCw0=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures4.bsa",
-        "Name": "Data_Skyrim - Textures4.bsa",
-        "Size": 1265325033,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures4.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "8nHuDbnzCw0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "gGA1UynjlR8=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures5.bsa",
-        "Name": "Data_Skyrim - Textures5.bsa",
-        "Size": 809121183,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures5.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "gGA1UynjlR8="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7YxJe07jHiI=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures6.bsa",
-        "Name": "Data_Skyrim - Textures6.bsa",
-        "Size": 107211187,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures6.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "7YxJe07jHiI="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "M2lXyN1Vo8A=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures7.bsa",
-        "Name": "Data_Skyrim - Textures7.bsa",
-        "Size": 700733354,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures7.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "M2lXyN1Vo8A="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "WJzdWWq7n8M=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures8.bsa",
-        "Name": "Data_Skyrim - Textures8.bsa",
-        "Size": 214496000,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures8.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "WJzdWWq7n8M="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "2Tmfw2AG/MM=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Voices_en0.bsa",
         "Name": "Data_Skyrim - Voices_en0.bsa",
@@ -10624,6 +10380,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "X71TCdROW8Q=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43158\nfileID=281069",
+        "Name": "Lux - JK\u0027s College patch update-43158-4-2-1651494633.rar",
+        "Size": 11077,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GGUNIT",
+          "Description": "Consistent and complete rework of Skyrim interiors lighting. This mod takes advantage of the latest developments in enb, including enb light, and has for main objective to offer a gaming experience as realistic as it is dramatic.",
+          "FileID": 281069,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43158/43158-1640106608-423891061.jpeg",
+          "IsNSFW": false,
+          "ModID": 43158,
+          "Name": "Lux",
+          "Version": "4.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "njbfBGtnrv8=",
         "Meta": "[General]\ndirectURL=https://wabbajack.b-cdn.net/Markarth HD Retexture.7z_4a21f8b7-5169-44e5-98ae-a3cc4a5c927c",
         "Name": "Markarth HD Retexture-7374c530-0e22-4ac6-87dc-ad96ec533b97.7z",
@@ -11518,6 +11295,48 @@
           "ModID": 26103,
           "Name": "Cathedral - Mushrooms",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TmbITk/DJX8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=21224\nfileID=289367",
+        "Name": "CBPC 3-Bone Breast Body Breast-Butt Bounce Configs for 3BA-BHUNP-COCO-21224-1-5-2-1654550666.rar",
+        "Size": 29940,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Shizof",
+          "Description": "CBPC - Physics with Collisions for SSE and VR. \n\nBreast-Butt-Belly-Vagina collisions that work out of the box. Player VR Hands and Weapons collisions with them for the VR version.",
+          "FileID": 289367,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21224/21224-1542146879-1527686583.jpeg",
+          "IsNSFW": true,
+          "ModID": 21224,
+          "Name": "CBPC - Physics with Collisions for SSE and VR",
+          "Version": "1.5.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ZEjsgDxgqeA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=21224\nfileID=289366",
+        "Name": "CBPC - Fomod installer - MAIN FILE-21224-1-5-2-1654550613.rar",
+        "Size": 45804027,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Shizof",
+          "Description": "CBPC - Physics with Collisions for SSE and VR. \n\nBreast-Butt-Belly-Vagina collisions that work out of the box. Player VR Hands and Weapons collisions with them for the VR version.",
+          "FileID": 289366,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21224/21224-1542146879-1527686583.jpeg",
+          "IsNSFW": true,
+          "ModID": 21224,
+          "Name": "CBPC - Physics with Collisions for SSE and VR",
+          "Version": "1.5.2.0"
         }
       }
     },
@@ -16753,6 +16572,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "qaICDifigfg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=19627\nfileID=64444",
+        "Name": "Nordic tent-19627-1-0.7z",
+        "Size": 11089102,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Pfuscher",
+          "Description": "Nordic tent retexture",
+          "FileID": 64444,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19627/19627-1535533390-1704613994.png",
+          "IsNSFW": false,
+          "ModID": 19627,
+          "Name": "Nordic Tent upgrade by Pfuscher",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "7oimrjpyknU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=7943\nfileID=19289",
         "Name": "Nordic Wanderer - Increased Diffuse Contrast-7943-1-1.7z",
@@ -19146,6 +18986,27 @@
           "ModID": 4254,
           "Name": "Immersive Animations",
           "Version": "2.1.0.0SE"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KbIboHBXOOE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62371\nfileID=260159",
+        "Name": "Knight of The Village BHUNP SSE Extended Textures 4K-62371-2022-c-1643392857.7z",
+        "Size": 230720236,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ysmir Egilvar - Skyforge",
+          "Description": "Not a fantasy armor, just the clothes of a knight from the village",
+          "FileID": 260159,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62371/62371-1643136703-1884985936.png",
+          "IsNSFW": false,
+          "ModID": 62371,
+          "Name": "Knight of The Village Set BHUNP SSE",
+          "Version": "2022.0.0.0.c"
         }
       }
     },
