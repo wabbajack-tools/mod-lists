@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/fo4vre",
   "Name": "Fallout VR Essentials Overhaul",
-  "Version": "11.2",
-  "ModListHash": "6kTItQVhWY0=",
+  "Version": "11.5",
+  "ModListHash": "Yoc9C19612U=",
   "Archives": [
     {
       "Status": "Valid",
@@ -1446,21 +1446,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "jRjY10mHOUk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53464\nfileID=228871",
-        "Name": "FRIK alpha 38-53464-v0-38-1644176461.zip",
-        "Size": 235772,
+        "Hash": "sB1/btWA/Nk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53464\nfileID=240838",
+        "Name": "FRIK alpha 45-53464-v0-45-1655495460.zip",
+        "Size": 284972,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "rollingrock",
           "Description": "FRIK brings the full player body to life in VR!    Inspired by VRIK from SkyrimVR FRIK aims to bring the same level of immersion of having your body visible to Fallout 4 VR.   Full body Inverse Kinematics has been implemented to animate the arms and legs based on your controller and HMD position.",
-          "FileID": 228871,
+          "FileID": 240838,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53464/53464-1627237967-435592659.png",
           "IsNSFW": false,
           "ModID": 53464,
           "Name": "FRIK - Full Player Body with IK",
-          "Version": "0.38.0.0"
+          "Version": "0.45.0.0"
         }
       }
     },
@@ -2979,6 +2979,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "R6s+D1egEa4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=32502\nfileID=132475",
+        "Name": "Service Rifle VR position fix-32502-1-0.zip",
+        "Size": 75540,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zohoho",
+          "Description": "Service Rifle VR position fix\n\n\n\nThis is a VR position fix for the DeadPool2099 - The Shiny Haxorus and friends Service Rifle : https://www.nexusmods.com/fallout4/mods/32361\n\n** The weapon mod IS REQUIRED FOR THIS FIX TO WORK **\n\nIn VR, some weapon mods appear being held by the stock instead of the grip, this fixes it for this speci",
+          "FileID": 132475,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/32502/32502-1529219475-606836421.jpeg",
+          "IsNSFW": false,
+          "ModID": 32502,
+          "Name": "Service Rifle  - VR position fix",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "HClS/QH1gG4=",
         "Meta": "[General]\ngameName=fallout4\nmodID=41785\nfileID=175610",
         "Name": "Settler and Companion Dialogue Overhaul-41785-1-0-1581207627.zip",
@@ -4064,27 +4085,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SRuXXFbWoVo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=51224\nfileID=214589",
-        "Name": "Virtual Holsters V2.0.0-51224-2-0-0-1628749460.zip",
-        "Size": 48591,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CylonSurfer",
-          "Description": "Adds 7 virtual weapon holsters  and new weapon sheathing / equipping system which aims for a more realistic approach forcing the player to return a weapon to the holster it was drawn from before being able to equip another weapon.",
-          "FileID": 214589,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51224/51224-1628104334-927879350.png",
-          "IsNSFW": false,
-          "ModID": 51224,
-          "Name": "Virtual Holsters",
-          "Version": "2.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Wjhb05uadh8=",
         "Meta": "[General]\ngameName=fallout4\nmodID=48826\nfileID=199941",
         "Name": "M8r98a4f2\u0027s Complex Item Sorter-48826-1-7-1-1611600864.rar",
@@ -4289,27 +4289,6 @@
           "ModID": 33947,
           "Name": "PrivateProfileRedirector F4 - Faster game start (INI file cacher)",
           "Version": "0.5.3.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "N9mL6nrvC1w=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=33947\nfileID=167135",
-        "Name": "PrivateProfileRedirector F4 0.4.1-33947-0-4-1-1569069129.zip",
-        "Size": 148414,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Karandra",
-          "Description": "Speeds up game start by storing INI files in memory instead of opening, parsing and closing the file each time some value from it is needed.",
-          "FileID": 167135,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33947/33947-1569070420-1702363259.png",
-          "IsNSFW": false,
-          "ModID": 33947,
-          "Name": "PrivateProfileRedirector F4 - Faster game start (INI file cacher)",
-          "Version": "0.4.1.0"
         }
       }
     },
