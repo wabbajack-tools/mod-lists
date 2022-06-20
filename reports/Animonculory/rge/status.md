@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (944)
+### Valid (947)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(2K) Skygazer Moons - Masser and Secunda HD Moons by fadingsignal-54349-1-0.rar](https://www.nexusmods.com/skyrim/mods/54349/?tab=files&file_id=1000110438)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
@@ -151,6 +151,7 @@
 *  [Cities of the North - Dawnstar-28952-1-2-1580945907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28952/?tab=files&file_id=122857)
 *  [City Entrances Overhaul - Markarth-19538-1-1-1557195696.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19538/?tab=files&file_id=91146)
 *  [City Entrances Overhaul - WIndhelm-19400-1-3-1-1616167712.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19400/?tab=files&file_id=192322)
+*  [CK Export.rar](https://authored-files.wabbajack.org/CK Export.rar_e2729fc5-5444-4c57-85d6-c578b6991cdb)
 *  [CK64Fixes Release 2.8-20061-2-8-1589598904.zip](https://www.nexusmods.com/skyrimspecialedition/mods/20061/?tab=files&file_id=140237)
 *  [CL's Daedric Weapon's-73433-1-6-3.7z](https://www.nexusmods.com/skyrim/mods/73433/?tab=files&file_id=1000213209)
 *  [CL's Ebony Weapon Replacer-61818-1-2-7.7z](https://www.nexusmods.com/skyrim/mods/61818/?tab=files&file_id=1000281524)
@@ -187,6 +188,7 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
+*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -387,7 +389,7 @@
 *  [High Quality Tintmasks for Vanilla NPCs - BSA 1K-18360-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18360/?tab=files&file_id=68440)
 *  [High Resolution Books - Menu v1_5-1628.zip](https://www.nexusmods.com/skyrim/mods/1628/?tab=files&file_id=4899)
 *  [High Resolution Books - Objects v1_5-1628.zip](https://www.nexusmods.com/skyrim/mods/1628/?tab=files&file_id=4874)
-*  High_Poly_Head_v1.4_(SE).zip
+*  [High_Poly_Head_v1.4_(SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 *  [High-Res Texture Pack-24273-1-1.zip](https://www.nexusmods.com/skyrim/mods/24273/?tab=files&file_id=105173)
 *  High.ini
 *  [Highlandcow HD-20758-1-0-1548091865.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20758/?tab=files&file_id=79177)
@@ -521,7 +523,7 @@
 *  [Mod.Organizer-2.4.4.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z)
 *  [More Dialogue Options - for Misc Dialogue Edits-28905-1-3-1-1591604954.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28905/?tab=files&file_id=144441)
 *  [More Dwemered Textures 2K V02-5827-0-2.zip](https://www.nexusmods.com/skyrim/mods/5827/?tab=files&file_id=23102)
-*  [More Informative Console 0.43-19250-0-43-1624831495.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=211462)
+*  [More Informative Console 1.0.1 SE-19250-1-0-1-1653434078.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=286245)
 *  [More Werewolves-7259-1-2-1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/7259/?tab=files&file_id=61780)
 *  [moreHUD Inventory Edition Loose Version-18619-1-0-18-1597503401.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18619/?tab=files&file_id=155749)
 *  [moreHUD SE-12688-4-0-0-5Beta-1612021355.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12688/?tab=files&file_id=182882)
@@ -545,6 +547,7 @@
 *  [No hoods and no wigs - Vigilant.ESM-22146-2-1-1553900070.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22146/?tab=files&file_id=86779)
 *  [No More Laser-Printed Book-462-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/462/?tab=files&file_id=1330)
 *  [No More Swirl Effects from Absorb - nif-77848-1-0.7z](https://www.nexusmods.com/skyrim/mods/77848/?tab=files&file_id=1000216825)
+*  [NoFollowerAttackCollision-65037-2-0-1648873151.rar](https://www.nexusmods.com/skyrimspecialedition/mods/65037/?tab=files&file_id=274246)
 *  [Non Exploitable Crossbow Reload-29869-1-3-SE-1613127206.zip](https://www.nexusmods.com/skyrimspecialedition/mods/29869/?tab=files&file_id=185428)
 *  [Normal Version - 2k-28871-1-0-1567916959.zip](https://www.nexusmods.com/skyrimspecialedition/mods/28871/?tab=files&file_id=106167)
 *  [Northern Cathedral Grass-28706-1-92-1610508620.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28706/?tab=files&file_id=179233)
