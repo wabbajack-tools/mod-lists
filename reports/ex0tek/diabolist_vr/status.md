@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (682)
+### Valid (673)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [1_All in one-32444-2-1582543914.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32444/?tab=files&file_id=125647)
 *  [1) Skyrim Immersive Creatures v7.0.2 (includes 1K Textures)-12680-v7-0-2-1631188254.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12680/?tab=files&file_id=227169)
@@ -123,11 +123,8 @@
 *  Data_Skyrim - Textures0.bsa
 *  Data_Skyrim - Textures2.bsa
 *  Data_Skyrim - Textures3.bsa
-*  Data_Skyrim - Textures4.bsa
 *  Data_Skyrim - Textures5.bsa
 *  Data_Skyrim - Textures6.bsa
-*  Data_Skyrim - Textures7.bsa
-*  Data_Skyrim - Textures8.bsa
 *  Data_Skyrim.esm
 *  Data_SkyrimVR.esm
 *  Data_Strings_Dawnguard_ENGLISH.DLSTRINGS
@@ -239,7 +236,6 @@
 *  [Dawley - CBBE SE-26729-1-0-1560875712.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26729/?tab=files&file_id=96491)
 *  [Dawley - Fixed HeadNif-26729-1-0-1560879159.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26729/?tab=files&file_id=96497)
 *  [Deadly Spell Impacts v1_70-12939-1-70.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12939/?tab=files&file_id=36481)
-*  [Diablo 1 for Skyrim mod BETA-75935-1-0.7z](https://www.nexusmods.com/skyrim/mods/75935/?tab=files&file_id=1000207967)
 *  [Diablo 2 Cursor-86421-1.rar](https://www.nexusmods.com/skyrim/mods/86421/?tab=files&file_id=1000253557)
 *  [DiabloIV-108598-1-0-1628083302.rar](https://www.nexusmods.com/skyrim/mods/108598/?tab=files&file_id=1000340081)
 *  [DimmerFog-7397-2-1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/7397/?tab=files&file_id=20517)
@@ -263,6 +259,7 @@
 *  [DVR 3.0Re DynDOLODx64 Output.zip](https://authored-files.wabbajack.org/DVR 3.0Re DynDOLODx64 Output.zip_5cc89e99-1751-4e7e-a1a4-f5fa06c21bfd)
 *  [DVR 3.0Re Mihail Monster Pack.zip](https://authored-files.wabbajack.org/DVR 3.0Re Mihail Monster Pack.zip_a1f789bf-81ef-43f5-91b0-2628e23fb2e1)
 *  [DVR 3.0Re TexGenx64 Output.zip](https://authored-files.wabbajack.org/DVR 3.0Re TexGenx64 Output.zip_e4db25f6-edaa-44b8-bc08-56b5ee5592aa)
+*  [DVR 3.0Re Tweaks and Overhauls.zip](https://authored-files.wabbajack.org/DVR 3.0Re Tweaks and Overhauls.zip_79f63b0b-63c6-4da8-86c6-be4ddcbc2dd5)
 *  [DVR 3.0Re xLODGenx64 Output.zip](https://authored-files.wabbajack.org/DVR 3.0Re xLODGenx64 Output.zip_cfef481d-6d59-47d4-b709-d8d2a390fb15)
 *  [DVR 3.0Re zMerged Populated Skyrim Reborn.zip](https://authored-files.wabbajack.org/DVR 3.0Re zMerged Populated Skyrim Reborn.zip_dbb97d5a-2d08-4879-8cdc-506f0bd30d12)
 *  [Dwarven Shield - SE-AE - My version 2K-59369-1-1638386667.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59369/?tab=files&file_id=245866)
@@ -334,7 +331,6 @@
 *  [Grass Field SE-27444-2-0-1563371730.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27444/?tab=files&file_id=99584)
 *  [Grass FPS Booster-20082-5-9-1637020900.zip](https://www.nexusmods.com/skyrimspecialedition/mods/20082/?tab=files&file_id=241828)
 *  [Green and Lush Aspen Trees SE-26319-1-3-1-1600181947.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26319/?tab=files&file_id=160864)
-*  [Green Grass in Whiterun-41850-1-0-1604035763.rar](https://www.nexusmods.com/skyrimspecialedition/mods/41850/?tab=files&file_id=167670)
 *  [Grindstones - 10X Sparks-19831-3-0-1613626021.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19831/?tab=files&file_id=186525)
 *  [Guards Armor Replacer-22671-5-5a-1551221031.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22671/?tab=files&file_id=83024)
 *  [GuardsArmorReplacer - ImprovedClosefacedHelmets Patch-38903-1-0-1596313354.rar](https://www.nexusmods.com/skyrimspecialedition/mods/38903/?tab=files&file_id=153260)
@@ -418,7 +414,6 @@
 *  [LWs BSW Orcish Greatsword inventory fix - sheath-2017-2-1-03-1612910069.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2017/?tab=files&file_id=185014)
 *  [MageArmorScriptFix-58862-1-0-1637563565.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58862/?tab=files&file_id=243411)
 *  [Map Markers Complete-4138-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4138/?tab=files&file_id=11312)
-*  [Mari's flora - Medium-45952-1-2-1618220800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45952/?tab=files&file_id=197655)
 *  [Masculine Argonian EXTRA (Vanilla) 1K-185-2-0-1635655768.7z](https://www.nexusmods.com/skyrimspecialedition/mods/185/?tab=files&file_id=238085)
 *  [Masculine Chameleon and Lizard (Vanilla) 1K-185-2-0-1635645233.7z](https://www.nexusmods.com/skyrimspecialedition/mods/185/?tab=files&file_id=238057)
 *  [Masculine Grey Cat and Leopard (Vanilla) 1K-186-2-0-1637430203.7z](https://www.nexusmods.com/skyrimspecialedition/mods/186/?tab=files&file_id=242969)
@@ -429,7 +424,6 @@
 *  [Menu Mouse Fix-33414-1-3-0-1624205511.rar](https://www.nexusmods.com/skyrimspecialedition/mods/33414/?tab=files&file_id=210239)
 *  [Mighty Bellyaches New Dragon Species-27131-1-53-1594357267.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27131/?tab=files&file_id=149655)
 *  [MILK - Many Immersive Lootboxes and Keys-90138-v1-0-1.rar](https://www.nexusmods.com/skyrim/mods/90138/?tab=files&file_id=1000268943)
-*  [Misc. SMIM Fixes-34656-1-3-1645311303.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34656/?tab=files&file_id=265479)
 *  [MISVR-55751-1-0-2-1632203306.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55751/?tab=files&file_id=229775)
 *  [Mod.Organizer-2.4.4.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z)
 *  [Modest Elderly-7935-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/7935/?tab=files&file_id=19279)
@@ -469,7 +463,6 @@
 *  [NPC Animation Remix (DAR) - EVG Animation Variance elders patch-63471-1-1-0-1650110508.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63471/?tab=files&file_id=277482)
 *  [NPC Animation Remix (DAR) - main download-63471-1-1-0-1650110350.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63471/?tab=files&file_id=277481)
 *  [NPC mage balance fix-17041-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17041/?tab=files&file_id=53751)
-*  [NSM - SMIM Patch-21423-5-5-0-1543033398.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21423/?tab=files&file_id=73170)
 *  [NWU VAR SSE - Missing Ancient Nord Armor Texture Patch-42885-v1-0-0-1606664275.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42885/?tab=files&file_id=172207)
 *  [Oldhollow Chalet-43129-1-0-1607271762.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43129/?tab=files&file_id=173348)
 *  [Onyx VR Weathers-36227-0-71-1590446674.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36227/?tab=files&file_id=142065)
@@ -519,7 +512,6 @@
 *  [Rich Skyrim Merchants-1772-2-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/1772/?tab=files&file_id=29328)
 *  [Ring of Extra Carry-25710-2-0-1557783783.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25710/?tab=files&file_id=92124)
 *  [RIS - Real Ice and Snow-1484-2-5-1-1613578398.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1484/?tab=files&file_id=186431)
-*  [RIS - Windhelm Bridge and Street Fix-1484-1-5-1547223545.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1484/?tab=files&file_id=77950)
 *  [RIS and BDS Diffuse Patch-48671-1-0-1618661291.rar](https://www.nexusmods.com/skyrimspecialedition/mods/48671/?tab=files&file_id=198663)
 *  [RLE SSE - DATA Files-23872-3-55-1638478915.zip](https://www.nexusmods.com/skyrimspecialedition/mods/23872/?tab=files&file_id=246151)
 *  [RLE SSE - ESP Files-23872-3-53-1634945835.zip](https://www.nexusmods.com/skyrimspecialedition/mods/23872/?tab=files&file_id=236525)
@@ -585,7 +577,6 @@
 *  [SprintJumpVR-28354-1-1-3-1652022739.rar](https://www.nexusmods.com/skyrimspecialedition/mods/28354/?tab=files&file_id=282346)
 *  [SSEEdit 4_0_3-164-4-0-3-1575326827.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164/?tab=files&file_id=115017)
 *  [Steel Armor Fix-39704-1-1-1598141551.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39704/?tab=files&file_id=157176)
-*  [Stony AF Markarth and Dwemer Ruins 2K-68815-1-0-1653838985.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68815/?tab=files&file_id=287421)
 *  [Storm Lightning for SSE and VR - Fomod Installer-29243-1-4-12-1637766908.rar](https://www.nexusmods.com/skyrimspecialedition/mods/29243/?tab=files&file_id=244068)
 *  [Stormcloak Nordic Carved Armor Replacer 1.0-51532-1-0-1624405080.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51532/?tab=files&file_id=210667)
 *  [Streamlined Bleak Falls Barrow and Golden Claw-13540-1-3.7z](https://www.nexusmods.com/skyrimspecialedition/mods/13540/?tab=files&file_id=39144)
