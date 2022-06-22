@@ -1,10 +1,11 @@
 ## Validation Report - Path of the Dovahkiin (wj-featured/potd)
 
 
-### Invalid (0)
+### Invalid (1)
+*  High_Poly_Head_v1.4_(SE).zip
 ### Updated (0)
 ### Mirrored (0)
-### Valid (521)
+### Valid (520)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -235,7 +236,6 @@
 *  [High Poly Gleamblossoms - ENB Light-40278-1-2-1626461597.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40278/?tab=files&file_id=214944)
 *  [High Poly Project-12029-v4-95-1614673394.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=188917)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
-*  High_Poly_Head_v1.4_(SE).zip
 *  High.ini
 *  [HQ Alduins Wall - 1.0-2638-1-01.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2638/?tab=files&file_id=3816)
 *  [HQ Solitude - 2K-23937-1-0-1552088561.rar](https://www.nexusmods.com/skyrimspecialedition/mods/23937/?tab=files&file_id=84292)
@@ -427,8 +427,8 @@
 *  [Smooth Combat Animation by Race.7z](https://blog.kakaocdn.net/dn/cc2DCv/btq75DwB45E/Ngh6JToG1d7rL8IOwblKLk/Smooth Combat Animation by Race.7z?attach=1&knm=tfile.7z)
 *  [Smooth Combat Non Combat Animation.7z](https://blog.kakaocdn.net/dn/9Tn0e/btq6pI8JGgq/RMxvJoTOF071qWFu9pc04k/Smooth Combat Non Combat Animation.7z?attach=1&knm=tfile.7z)
 *  [Smooth Magic Casting Animation 3.2.7z](https://blog.kakaocdn.net/dn/cyDuii/btq74ntfh9i/FwXmgAkFKizXGmtyVpscZK/Smooth Magic Casting Animation 3.2.7z?attach=1&knm=tfile.7z)
-*  Smooth Random Blocking Animation.7z
-*  Smooth Random Magic idle Animation.7z
+*  [Smooth Random Blocking Animation.7z](https://mega.nz/file/4LxGTALK#7I8XPLnIW0PxR_r_nXMP-9ZUnZ16MlFVMdFdgGy-gF0)
+*  [Smooth Random Magic idle Animation.7z](https://mega.nz/file/IS4EjJhC#inP4yfb3i-UO_sx790OpoFDk81x-WIRf9WcBeKxnmYo)
 *  [SmoothCam - Modern Camera Preset-41636-1-5-1628867735.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41636/?tab=files&file_id=220887)
 *  [SmoothCam - Octavian's Preset 1.1.2-43927-1-1-2-1610903285.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43927/?tab=files&file_id=180082)
 *  [SmoothCam_EasyEase_Preset_1.3b-41395-1-3b-1604245949.zip](https://www.nexusmods.com/skyrimspecialedition/mods/41395/?tab=files&file_id=168168)

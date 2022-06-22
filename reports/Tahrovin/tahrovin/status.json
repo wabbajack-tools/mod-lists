@@ -1,8 +1,8 @@
 {
   "MachineURL": "Tahrovin/tahrovin",
   "Name": "Tahrovin",
-  "Version": "0.7.0.1",
-  "ModListHash": "An2mMeYpO+M=",
+  "Version": "0.7.0.2",
+  "ModListHash": "77hAMyMPEZY=",
   "Archives": [
     {
       "Status": "Valid",
@@ -1506,7 +1506,7 @@
           "IsNSFW": false,
           "ModID": 43930,
           "Name": "HIGGS - Enhanced VR Interaction",
-          "Version": "1.5.2.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -1514,21 +1514,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "gsvUHbjw0js=",
-        "Meta": "[General]\nips4Site=Vector Plexus\nips4Mod=283\nips4File=High_Poly_Head_v1.4_(SE).zip",
+        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq\u0026export=download",
         "Name": "High_Poly_Head_v1.4_(SE).zip",
         "Size": 188231174,
         "State": {
-          "$type": "VectorPlexusOAuthDownloader\u002BState, Wabbajack.Lib",
-          "Author": "KouLeifoh",
-          "Description": "",
-          "ImageURL": "//storage.vectorplexus.com/screenshots/monthly_2019_12/splash.jpg.981878824c3ffe924664eb229f1b7749.jpg",
-          "IPS4File": "High_Poly_Head_v1.4_(SE).zip",
-          "IPS4Mod": 283,
-          "IPS4Url": "https://vectorplexus.com/files/file/283-high-poly-head/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "High Poly Head",
-          "Version": "1.4"
+          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
+          "Id": "15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq"
         }
       }
     },
@@ -4498,7 +4489,7 @@
           "IsNSFW": false,
           "ModID": 26293,
           "Name": "Veydosebrom Regions",
-          "Version": "1.2.1.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -5156,12 +5147,26 @@
       "Original": {
         "Hash": "nwV+ZdkljtM=",
         "Meta": "[General]\ndirectURL=https://github.com/Mutagen-Modding/Synthesis/releases/download/0.19.3/Synthesis.zip",
-        "Name": "Synthesis.zip",
+        "Name": "Synthesis_796a476afb5805f3e701d53177caf4adc36bbffb60eb5d5e50131d13901b3c53_.zip",
         "Size": 77657348,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/Mutagen-Modding/Synthesis/releases/download/0.19.3/Synthesis.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rSweb1D6ufY=",
+        "Meta": "[General]\ndirectURL=https://github.com/Mutagen-Modding/Synthesis/releases/download/0.22.1/Synthesis.zip",
+        "Name": "Synthesis.zip",
+        "Size": 144636436,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Mutagen-Modding/Synthesis/releases/download/0.22.1/Synthesis.zip"
         }
       }
     },
@@ -8281,7 +8286,28 @@
           "IsNSFW": true,
           "ModID": 52695,
           "Name": "New Shrine of Azura 1.1 SE",
-          "Version": "1.1.0.0"
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YFJulG1bH50=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=52695\nfileID=283935",
+        "Name": "2k-4K. Shrine of Azura 2.0. Ver.1 Dirt Low-52695-2-0-0-1652614196.zip",
+        "Size": 184354745,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PsBoss",
+          "Description": "New Shrine of Azura Statue Replacer",
+          "FileID": 283935,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/52695/52695-1627044151-1799354645.jpeg",
+          "IsNSFW": true,
+          "ModID": 52695,
+          "Name": "New Shrine of Azura 1.1 SE",
+          "Version": "2.0.0.0"
         }
       }
     },
@@ -8365,7 +8391,7 @@
           "IsNSFW": false,
           "ModID": 66025,
           "Name": "PLANCK - Physical Animation and Character Kinetics",
-          "Version": "0.2.4.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -9870,6 +9896,27 @@
           "ModID": 18107,
           "Name": "RUSTIC SPRIGGAN - Special Edition",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UZGof9WVxK4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=11052\nfileID=167707",
+        "Name": "1. Majestic Mountains Main File-11052-3-2-1604048751.7z",
+        "Size": 241958899,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "T4GTR34UM3R",
+          "Description": "-all mountains cast shadows-a single 8192 x 4096 pixel sized texture instead of two 4096 pixel ones-custom UV mapping with a reworked fitting lod-completely reworked vertex colors, prebaked ambient occlusion-reworked \u0022Improved Snow Shader\u0022 settings-three completely differen variations\n\n-optional landscape texture pack with a fitting lod",
+          "FileID": 167707,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/11052-0-1500743977.jpg",
+          "IsNSFW": false,
+          "ModID": 11052,
+          "Name": "Majestic Mountains",
+          "Version": "3.2.0.0"
         }
       }
     },

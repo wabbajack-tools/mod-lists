@@ -799,7 +799,7 @@
 *  [NCK30 Animations Pack-67121-1-1650981461.rar](https://www.nexusmods.com/skyrimspecialedition/mods/67121/?tab=files&file_id=279746)
 *  [Nemesis Patch-24296-1-3-2-1584996736.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24296/?tab=files&file_id=130181)
 *  [Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar](https://www.nexusmods.com/skyrimspecialedition/mods/60033/?tab=files&file_id=248867)
-*  Nethers_Follower_Framework_UNI_2_7_9.zip
+*  [Nethers_Follower_Framework_UNI_2_7_9.zip](https://www.loverslab.com/files/file/6188-nethers-follower-framework/)
 *  [NetScriptFramework SkyrimSE v18-21294-18-1635489335.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21294/?tab=files&file_id=237679)
 *  [Nibbles' Animations for OStim-49138-1-2-1629961152.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49138/?tab=files&file_id=223837)
 *  [NifSkope_2_0_2018-02-22-x64.7z](https://github.com/niftools/nifskope/releases/download/v2.0.dev7/NifSkope_2_0_2018-02-22-x64.7z)
@@ -879,7 +879,7 @@
 *  [OStim-40725-5-4-1637290701.zip](https://www.nexusmods.com/skyrimspecialedition/mods/40725/?tab=files&file_id=242576)
 *  [OStim-OSex 3P Animations-45082-1-1612062562.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45082/?tab=files&file_id=183002)
 *  [OStrap 3BBB-CBBE-51140-1-3-1634011732.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51140/?tab=files&file_id=234269)
-*  OTrainers_2.1.zip
+*  [OTrainers_2.1.zip](https://www.loverslab.com/files/file/18438-otrainers-ostim-trainers-with-benefits/)
 *  [OVirginity-45563-1-3-1-1634686771.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45563/?tab=files&file_id=235932)
 *  [OVoice-53307-1-6-1645232741.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53307/?tab=files&file_id=265237)
 *  [OWBody - Athletic-57880-Athletic-1-0-1636042271.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57880/?tab=files&file_id=238987)
@@ -1038,7 +1038,7 @@
 *  [ScandaNordic Mountains - Majestic Mountains Fix - 4k-62820-1-0-1-1645480844.rar](https://www.nexusmods.com/skyrimspecialedition/mods/62820/?tab=files&file_id=265992)
 *  [ScandaNordic Mountains - Parallax-62820-1-0-1643566341.rar](https://www.nexusmods.com/skyrimspecialedition/mods/62820/?tab=files&file_id=260527)
 *  [ScandaNordic Mountains 4k-62820-1-0-1643566155.rar](https://www.nexusmods.com/skyrimspecialedition/mods/62820/?tab=files&file_id=260525)
-*  Schlongs_of_Skyrim_SE - v1.1.4.rar
+*  [Schlongs_of_Skyrim_SE - v1.1.4.rar](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/)
 *  [Scion - A Vampire Overhaul-41639-1-2-3-1637417863.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41639/?tab=files&file_id=242906)
 *  [Scrambled Bugs (Special Edition)-43532-17-1646905605.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=269169)
 *  [Scrambled Eggchantments-43532-1-1619468588 (1).7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=200347)
@@ -1059,7 +1059,7 @@
 *  [Serana Dialogue Add-On SE-32161-3-0-0-1-1649942690.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32161/?tab=files&file_id=277051)
 *  [SeranaDialogEdit v 102-16222-1-02.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16222/?tab=files&file_id=59083)
 *  [SexLab Solutions Revisited 1.1.5 Voice Files.zip](https://mega.nz/file/j64AnQLQ#SsGVP7pBSv-P3FGO7TyryPHUTmZtT0fybF8fAJfVi8w)
-*  SexLab_Solutions_Revisited_SE_-_Ostim_Beta_5.zip
+*  [SexLab_Solutions_Revisited_SE_-_Ostim_Beta_5.zip](https://www.loverslab.com/files/file/17441-ostim-solutions-a-sexlab-solutions-revisited-port/)
 *  [Sheps Male Tattoo Collection SE-22636-2-0-1547659292.rar](https://www.nexusmods.com/skyrimspecialedition/mods/22636/?tab=files&file_id=78524)
 *  [Sheps Tattoo Collection SE-22636-2-0-1547659218.rar](https://www.nexusmods.com/skyrimspecialedition/mods/22636/?tab=files&file_id=78523)
 *  [Shield Sisters Re-Imagined CBBE-44243-1-0-1610348019.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44243/?tab=files&file_id=178918)
@@ -1129,7 +1129,7 @@
 *  [Song of the Green 1.2 sfts fix-11278-1-2-1578412852.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11278/?tab=files&file_id=118958)
 *  [Song of the Green 1.3-11278-1-3-1630437169.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11278/?tab=files&file_id=225250)
 *  [Sons of Skyrim - Epic Metal Remix (Main Menu Music Mod)-8796-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/8796/?tab=files&file_id=22100)
-*  SOS_Leito_Schlongs_Addon_SE_v1_0_1.7z
+*  [SOS_Leito_Schlongs_Addon_SE_v1_0_1.7z](https://www.loverslab.com/files/file/13942-sos-leito-schlongs-addon-se/)
 *  [Sound Hammering Sounds-5592-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/5592/?tab=files&file_id=12403)
 *  [Sparkles-8936-1-3.zip](https://www.nexusmods.com/skyrimspecialedition/mods/8936/?tab=files&file_id=22636)
 *  [Spell Perk Item Distributor - SSE-36869-5-2-0-1638188435.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36869/?tab=files&file_id=245335)

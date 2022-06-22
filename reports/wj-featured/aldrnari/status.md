@@ -1,10 +1,12 @@
 ## Validation Report - Aldrnari (wj-featured/aldrnari)
 
 
-### Invalid (0)
+### Invalid (2)
+*  High_Poly_Head_v1.4_(SE).zip
+*  [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2369)
+### Valid (2367)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0.0) SELUA - Solitude Exterior LOD Unlocker Advocate II-36116-1-1-1605036920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169508)
 *  [(1.1) The Great City of Solitude PATCH - Solitude Skyway SE - Drengin's Blue Palace Terrace (STD)-36116-1-1-1604648419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=168848)
@@ -35,8 +37,8 @@
 *  [[full_inu] Maria Outfit SSE.7z](https://drive.google.com/uc?id=1IWOtJbxiI0Gq6gMB43c5hL8O13toDDTN&export=download)
 *  [[full_inu] Medieval Knight Armor SSE.7z](https://drive.google.com/uc?id=1nSs9FP1G-su2P_kOHBs2s0cVuR2WSKhJ&export=download)
 *  [[full_inu] Sebastian Castellanos Outfit SSE.7z](https://drive.google.com/uc?id=1WjNvb9lJkpiGwpbDOzJKM63T8HNLdxEs&export=download)
-*  [SunJeong] Ninirim Collection - 3BBB bodyslide v0.2.7z
-*  [SunJeong] Ninirim Collection 6.0 FOMOD.7z
+*  [[SunJeong] Ninirim Collection - 3BBB bodyslide v0.2.7z](https://mega.nz/file/S0gjECST#TvdX1Mh33lZqqT1vCbRJnDDTKnQ5E1-FI8hVRDi9Kps)
+*  [[SunJeong] Ninirim Collection 6.0 FOMOD.7z](http://www.mediafire.com/file/h40zast0ozolmwx/%255BSunJeong%255D_Ninirim_Collection_6.0_FOMOD.7z)
 *  [00 - esp fix-37549-1-1-1593281885.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37549/?tab=files&file_id=147682)
 *  [00- Demon Hunter Armor - SE-40287-1-1-1599780448.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40287/?tab=files&file_id=160101)
 *  [01 My Road Signs are Beautiful - English Version - SE-46564-1-3EN-1618870156.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46564/?tab=files&file_id=199131)
@@ -744,7 +746,7 @@
 *  [ElSopa HD - Organic Burial Urns 2K-26692-2K-1560749618.zip](https://www.nexusmods.com/skyrimspecialedition/mods/26692/?tab=files&file_id=96311)
 *  [Elven Defender-58761-1-0-1637413457.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58761/?tab=files&file_id=242890)
 *  [Elven Weapon for Silence SE (Dark Obsidian) 2K-27994-1-0-1564932334.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27994/?tab=files&file_id=101863)
-*  Elwaps SpeedTree.7z
+*  [Elwaps SpeedTree.7z](https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM)
 *  [Embers XD-37085-2-5-4-1645809129.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37085/?tab=files&file_id=266694)
 *  [EmbersXD - Campfire Patch-50883-1-3-1638287753.rar](https://www.nexusmods.com/skyrimspecialedition/mods/50883/?tab=files&file_id=245557)
 *  [EmbersXD Fire Animation Fix-50766-1-0-1622755076.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50766/?tab=files&file_id=207126)
@@ -1006,7 +1008,7 @@
 *  [Heritage-30017-1-9-1581349742.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30017/?tab=files&file_id=123516)
 *  [Hermaeus Mora - My HD version SE-37330-1-2-1592593678.rar](https://www.nexusmods.com/skyrimspecialedition/mods/37330/?tab=files&file_id=146480)
 *  [HeroicAncientNords-60903-1-0-1640754152.rar](https://www.nexusmods.com/skyrimspecialedition/mods/60903/?tab=files&file_id=252397)
-*  HG Hairdos SE.7z
+*  [HG Hairdos SE.7z](https://mega.nz/#!x0QWjKKL!B9xkI29Dg0YoBPAo1fyXa_PxtBoma_f4UmSMOiwnv2A)
 *  [Hi-Res Armors Weapons Creatures-11849-1-4-0-1610197197.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11849/?tab=files&file_id=178564)
 *  [High Hrothgar Fixed - Lux Parallax Patch-55254-1-01-1631177350.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55254/?tab=files&file_id=227146)
 *  [High Hrothgar Fixed - Parallax Version-55254-1-02-1631218390.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55254/?tab=files&file_id=227267)
@@ -1018,7 +1020,6 @@
 *  [High Poly NPC Overhaul - The Great Town of Shor's Stone-39445-1-0-1597555689.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39445/?tab=files&file_id=155881)
 *  [High Poly Project-12029-v5-3-1634909383.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=236420)
 *  [High Poly Soul Husks-47891-0-2-1617274845.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47891/?tab=files&file_id=195157)
-*  High_Poly_Head_v1.4_(SE).zip
 *  High.ini
 *  [Highlandcow HD-20758-1-0-1548091865.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20758/?tab=files&file_id=79177)
 *  [Hircine 2k-63155-1-02-1644173090.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63155/?tab=files&file_id=262260)
@@ -1786,7 +1787,6 @@
 *  [SC - KS Hairdos Retextured - Physics-38820-1-4-2-1596293936.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38820/?tab=files&file_id=153215)
 *  [SC - KS Hairdos Retextured-38820-1-8-1621881743.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38820/?tab=files&file_id=205362)
 *  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
-*  [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
 *  [ScaleformTranslationPP-22603-1-4-1-1586306055.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22603/?tab=files&file_id=132968)
 *  [Scarified Dunmer Overhauled -- SSE-32344-1-0-1580834742.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32344/?tab=files&file_id=122711)
 *  [Scathecraw HD 2K-38454-1-0-1595157198.rar](https://www.nexusmods.com/skyrimspecialedition/mods/38454/?tab=files&file_id=151088)

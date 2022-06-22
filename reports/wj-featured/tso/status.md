@@ -50,62 +50,62 @@
 *  [[Christine] Zhurong.7z](https://www.mediafire.com/file/c038efag87cbx1k/%255BChristine%255D_Zhurong.7z)
 *  [[Dint999] BDO DK Floree 3BA SMP BS.7z](https://drive.google.com/uc?id=1wTR2XVRcC5Rl1YVyqUqd4_sRFuLXMmui&export=download)
 *  [[Dint999] BDO Guardian Grunil v.1.00 (eng) CBBE.7z](https://drive.google.com/uc?id=1YB6V09RCGMiHLy1zN045KBA7AA4tj6UK&export=download)
-*  [Dint999] BDO Sorceress DahliaOfTheNight SE.7z
+*  [[Dint999] BDO Sorceress DahliaOfTheNight SE.7z](https://www.loverslab.com/files/file/11804-dint999s-bdor-dahlia-of-the-night-smp-se-3ba/?do=download&csrfKey=d6bfb8e17735b87c4386ca53f4236467)
 *  [[Dint999] BDO Striker CBBE SE fomod.7z](https://www.mediafire.com/file/369mq5q15b02sie/%255BDint999%255D_BDO_Striker_CBBE_SE_fomod.7z/)
 *  [[Dint999] OutfitOfConfessor v1.01 [SE].7z](https://drive.google.com/uc?id=1THN3jBMBTHydVWV_DeADu3AQCZEvYAKT&export=download)
 *  [[Dint999] Sorceress outfit from Dragon's Crown(SSE) v.1.01.7z](https://drive.google.com/uc?id=15rXBnyE41ZHFztQ122G6XRlgPhtw8KZN&export=download)
 *  [[full_inu] Galahad Renegade Coat SSE.7z](https://drive.google.com/uc?id=1pRRSPyfHG71V3RyL3K1Z7cCuXnnHVfi8&export=download)
 *  [[full_inu] Lord Nicholas Armor SSE.7z](https://drive.google.com/uc?id=1cL7BC2Nrvi2HTVv-ppZzyOkcszD5g7gA&export=download)
 *  [[full_inu] Medieval Knight Armor SSE.7z](https://drive.google.com/uc?id=1nSs9FP1G-su2P_kOHBs2s0cVuR2WSKhJ&export=download)
-*  [immyneedscake] BDO Valoren CBBE SSE SMP.7z
-*  [immyneedscake] BDOR Jousting Armor Team TAL CBBE SSE.7z
-*  [immyneedscake] Dint Dark Knight BDO - Rosa Cassius CBBE SSE SMP.7z
-*  [immyneedscake] Dint Dark Knight BDO - Sin Terrna CBBE SSE SMP.7z
-*  [immyneedscake] Ero Selene Armor CBBE SSE.7z
-*  [immyneedscake] FF12 Fran Armor CBBE SSE.7z
-*  [immyneedscake] FFXV Gentiana Shiva CBBE SSE SMP.7z
-*  [immyneedscake] Silver Fox Retouched CBBE SSE.7z
-*  [immyneedscake] Zhumoyi CBBE SSE SMP.7z
+*  [[immyneedscake] BDO Valoren CBBE SSE SMP.7z](https://mega.nz/file/xnYWwQxQ#zl7tNj9O1opkvDvOpSGGlDfz4wmjtW6A-VvQnFNpgRc)
+*  [[immyneedscake] BDOR Jousting Armor Team TAL CBBE SSE.7z](https://mega.nz/file/knQQhQZB#2CeI8ZpOeFCkJpf8Op6-hlzrdKd_eI_AmZtTOkeWRsc)
+*  [[immyneedscake] Dint Dark Knight BDO - Rosa Cassius CBBE SSE SMP.7z](https://mega.nz/file/EqZ2EQpb#dDi75Ix3W5zS_Ee7yOartTRi4_9zpfmrTYVwQKy5Mqg)
+*  [[immyneedscake] Dint Dark Knight BDO - Sin Terrna CBBE SSE SMP.7z](https://mega.nz/file/srR0yIbZ#rsTaW12GjDuG8QW1HuPYlui4ja-gVmNC1WEmTP8iRgQ)
+*  [[immyneedscake] Ero Selene Armor CBBE SSE.7z](https://mega.nz/file/F6ZhBaJT#XKdDnI5TqaNaMfYwM9K1_A29nP4iIN7UfjvKOxrWyj8)
+*  [[immyneedscake] FF12 Fran Armor CBBE SSE.7z](https://mega.nz/file/87JHyKSZ#1EWVru3vSWZsknJDUVuFzwreC0Uw7pNffgT5kU5ZSOc)
+*  [[immyneedscake] FFXV Gentiana Shiva CBBE SSE SMP.7z](https://mega.nz/file/xzwQwQZa#lCD2KiMQuD7DAh7vToEjMv-7plMCNhluDHv7v-gXVhQ)
+*  [[immyneedscake] Silver Fox Retouched CBBE SSE.7z](https://mega.nz/file/QmB0kQLZ#DGzlAlvVFuS5SgwMY1SIZk84TAxUDmq-lL6eOQG2nQU)
+*  [[immyneedscake] Zhumoyi CBBE SSE SMP.7z](https://mega.nz/file/g7IwQYaI#uASe7NJ04jHQ1WYVOmET4TbG5iM8c-xz_c8GtISZz_c)
 *  [[Kirax] Vindictus Sakura Blossom CBBE SE HDT-SMP fomod.7z](https://www.mediafire.com/file/c1qt8494p8uvn5y/%255BKirax%255D_Vindictus_Sakura_Blossom_CBBE_SE_HDT-SMP_fomod.7z/)
 *  [[Melodic] Mistress Lilith CBBE (Physics - CBBE SMP - 3BA) fomod.7z](https://www.mediafire.com/file/ta679dq9dpe9pcz/%255BMelodic%255D_Mistress_Lilith_CBBE_%2528Physics_-_CBBE_SMP_-_3BA%2529_fomod.7z/)
 *  [[SE-Alpha] 9204 Vindictus Sonic Blade by Team TAL.zip](https://drive.google.com/uc?id=1CXe4llor7UO13v_t7NXY37dm73LojIfX&export=download)
 *  [[SE] 9204 BO MD0014 by Team TAL.7z](https://drive.google.com/uc?id=1hoJxN_qq9pR2WbKYMTlibSIcfwA1-ze0&export=download)
-*  [SE] 9204 DR Alicia by Team TAL CBBE 3BA BS.7z
+*  [[SE] 9204 DR Alicia by Team TAL CBBE 3BA BS.7z](https://www.loverslab.com/files/file/13662-se-team-tals-9204-dr-alicia-smp-3ba/?do=download&csrfKey=d6bfb8e17735b87c4386ca53f4236467)
 *  [[SE] 9204 Overhit Taze by Team TAL(converted by em486).7z](https://drive.google.com/uc?id=1JoSeVzSBIa4YrbPNtrE6HNFLE4FoQ_wU&export=download)
 *  [[SE] BDOR Checkmate 3BA fix.7z](https://drive.google.com/uc?id=1iy9FT2kf8vq2g0aTOuFtlLNKiyUepfq9&export=download)
 *  [[SE] BDOR Grotevant by Team TAL (converted by em486).7z](https://drive.google.com/uc?id=1aLukpnhO7YNorYl11VTy8-6HEEeFPP35&export=download)
-*  [SE] BDOR La Orzeca by Team TAL(converted by em486).7z
+*  [[SE] BDOR La Orzeca by Team TAL(converted by em486).7z](https://www.loverslab.com/files/file/15216-se-team-tals-dm-bdor-la-orzeca-smp-3ba/?do=download&csrfKey=d6bfb8e17735b87c4386ca53f4236467)
 *  [[SE] BDOR Makalu by Team TAL.7z](https://drive.google.com/uc?id=1u9Fvkc5xgY4vr3oiPZGkC_cX2CuwX2FV&export=download)
 *  [[SE] BDOR Malice by Team TAL(converted by em486).7z](https://drive.google.com/uc?id=1ZRN_2w1Vzh9o4-H9ymy5Au0P3NKApqwn&export=download)
-*  [SE] BDOR Pabilla by Team TAL.7z
-*  [SE] Dint999 BDO Arethel+Heled SMP CBBE 3BA 1.01.7z
-*  [SE] Dint999 BDO Sor LumiK SMP 3BA by em486.7z
+*  [[SE] BDOR Pabilla by Team TAL.7z](https://www.loverslab.com/files/file/12076-team-tals-dm-bdor-pabilla-smp-3ba/?do=download&csrfKey=d6bfb8e17735b87c4386ca53f4236467)
+*  [[SE] Dint999 BDO Arethel+Heled SMP CBBE 3BA 1.01.7z](https://www.loverslab.com/files/file/12828-se-dint999s-bdo-arethel-heled-smp-3ba/?do=download&csrfKey=d6bfb8e17735b87c4386ca53f4236467)
+*  [[SE] Dint999 BDO Sor LumiK SMP 3BA by em486.7z](https://www.loverslab.com/files/file/13922-se-dint999s-bdo-sor-lumik-smp-3ba/?do=download&csrfKey=d6bfb8e17735b87c4386ca53f4236467)
 *  [[SE] DM BDOR Adamas by Team TAL, em486.7z](https://drive.google.com/uc?id=1bBhqwH969t1UBVAJVtOog9k2uKJQ-hjY&export=download)
-*  [SE] DM BDOR Aquila by Team TAL(converted by em486).7z
+*  [[SE] DM BDOR Aquila by Team TAL(converted by em486).7z](https://www.loverslab.com/files/file/16007-se-team-tals-dm-bdor-aquila-smp-3ba/?do=download&csrfKey=d6bfb8e17735b87c4386ca53f4236467)
 *  [[SE] DM BDOR Azure Knight by Team TAL, em486.7z](https://drive.google.com/uc?id=1Ck6NHy2ojNC8sU2qhg9H1oRHOtATiXjv&export=download)
-*  [SE] DM BDOR Caroxya by Team TAL.7z
+*  [[SE] DM BDOR Caroxya by Team TAL.7z](https://www.loverslab.com/files/file/13470-se-team-tals-dm-bdor-caroxya-smp-3ba/?do=download&csrfKey=d6bfb8e17735b87c4386ca53f4236467)
 *  [[SE] DM BDOR Corbicanus by Team TAL, em486.zip](https://drive.google.com/uc?id=1G5yiU0xbXh_y9XsPDQ6z5Gg6razeb-Nk&export=download)
-*  [SE] DM BDOR Danharum by Team TAL(converted by em486).7z
+*  [[SE] DM BDOR Danharum by Team TAL(converted by em486).7z](https://www.loverslab.com/files/file/16006-se-team-tals-dm-bdor-danharum-smp-3ba/?do=download&csrfKey=d6bfb8e17735b87c4386ca53f4236467)
 *  [[SE] DM BDOR Deathrone by Team TAL 200826 (converted by em486).7z](https://drive.google.com/uc?id=1v1dc8jZnT4Xq6bB9Tt6XGaM8VnOFOpw8&export=download)
-*  [SE] DM BDOR Hamshin by Team TAL.7z
+*  [[SE] DM BDOR Hamshin by Team TAL.7z](https://www.loverslab.com/files/file/11997-team-tals-bdor-hamshin-smp-3ba/?do=download&csrfKey=d6bfb8e17735b87c4386ca53f4236467)
 *  [[SE] DM BDOR Iron Thorn by Team TAL, em486.7z](https://drive.google.com/uc?id=1g0KQQqCDK_L-or_b0ow1usc0KdDK_WYR&export=download)
 *  [[SE] DM BDOR Karlstein by Team TAL.zip](https://drive.google.com/uc?id=1KpTH4vEk1sf9QwLTG5K3k4Fps9AT3fJ0&export=download)
-*  [SE] DM BDOR Kibelius by Team TAL.7z
-*  [SE] DM BDOR Lephria by Team TAL 200426 (1).7z
-*  [SE] DM BDOR Mueburus 1.11 by Team TAL.7z
+*  [[SE] DM BDOR Kibelius by Team TAL.7z](https://www.loverslab.com/files/file/12827-se-team-tals-dm-bdor-kibelius-smp-3ba/?do=download&csrfKey=d6bfb8e17735b87c4386ca53f4236467)
+*  [[SE] DM BDOR Lephria by Team TAL 200426 (1).7z](https://www.loverslab.com/files/file/12825-se-team-tals-dm-bdor-lephria-smp-3ba/?do=download&csrfKey=d6bfb8e17735b87c4386ca53f4236467)
+*  [[SE] DM BDOR Mueburus 1.11 by Team TAL.7z](https://www.loverslab.com/files/file/11915-se-team-tals-dm-bdor-mueburus-smp-3ba/?do=download)
 *  [[SE] DM BDOR Robeaus by Team TAL 200826(converted by em486).7z](https://drive.google.com/uc?id=1AU3j37pKA9IWYOnxBB9gXnrZOI1Qz6RS&export=download)
-*  [SE] DM BDOR Sacra by Team TAL(converted by em486).7z
+*  [[SE] DM BDOR Sacra by Team TAL(converted by em486).7z](https://www.loverslab.com/files/file/15192-se-team-tals-dm-bdor-sacra-smp-3ba/?do=download&csrfKey=d6bfb8e17735b87c4386ca53f4236467)
 *  [[SE] DM BDOR Solios by Team TAL CBBE 3BA BS 1.4.7z](https://drive.google.com/uc?id=1ssqZ7O28hB0MuDGBoQMSnqCSFUTbugAM&export=download)
 *  [[SE] DM BDOR Trailblazer by Team TAL, em486.zip](https://drive.google.com/uc?id=1G-r_seDgTy5k-WzxpzzYk3OON9KFMQYd&export=download)
-*  [SE] DM BDOR Vedirdate by Team TAL.7z
+*  [[SE] DM BDOR Vedirdate by Team TAL.7z](https://www.loverslab.com/files/file/13457-se-team-tals-dm-bdor-vedirdate-smp-3ba/?do=download&csrfKey=d6bfb8e17735b87c4386ca53f4236467)
 *  [[SE] Kirax BDO Cavaro SMP 3BA.7z](https://drive.google.com/uc?id=1qDN1OymReXzS52ZidrD4JywEgnpus-D5&export=download)
 *  [[SE] Kirax BDO DK Ataraxia SMP 3BA.7z](https://drive.google.com/uc?id=1qBpFZmOIp6B_JmSXl7-FB4kLDeDeJxAf&export=download)
 *  [[SE] Kirax BDO Rosa Le Dessous SMP 3BA.7z](https://drive.google.com/uc?id=1w8FYON11jWnOY0J8yqaMxKUtEYuI6TdA&export=download)
 *  [[SE] Kirax_BDO DK 0172 SMP 3BA.7z](https://drive.google.com/uc?id=1TkeHDdN48ybtTeRH5zpE9_cjKCGAgiHq&export=download)
 *  [[SE] MoonWitch CBBE 3BA SMP.7z](https://drive.google.com/uc?id=1RgKwQ3KpZHgxP-CIjvXqleIGZcI5KH3l&export=download)
-*  [SE] Overhit Jannedaarc by Team TAL(converted by em486).7z
-*  [SE] Overhit Syana by Team TAL(converted by em486).7z
-*  [SE] TAL TW Yennefer SMP 3BA by em486.7z
+*  [[SE] Overhit Jannedaarc by Team TAL(converted by em486).7z](https://www.loverslab.com/files/file/14067-se-team-tals-overhit-jannedaarc-smp-3ba/?do=download&csrfKey=d6bfb8e17735b87c4386ca53f4236467)
+*  [[SE] Overhit Syana by Team TAL(converted by em486).7z](https://www.loverslab.com/files/file/14405-se-team-tals-overhit-syana-smp-3ba/?do=download&csrfKey=d6bfb8e17735b87c4386ca53f4236467)
+*  [[SE] TAL TW Yennefer SMP 3BA by em486.7z](https://www.loverslab.com/files/file/13799-se-team-tals-tw-yennefer-smp-3ba/?do=download&csrfKey=d6bfb8e17735b87c4386ca53f4236467)
 *  [01 Paragon Aurora Glacier Empress.7z](https://www.mediafire.com/file/rsdw21ogf433uve/Paragon+Aurora+Glacier+Empress.7z/file)
 *  [04 [Christine] Bandit Summoner.7z](https://www.mediafire.com/file/m6vcqryvl2yarb2/04_%255BChristine%255D_Bandit_Summoner.7z/file)
 *  [05 [Christine] Dragon Berserkr v4.7z](https://www.mediafire.com/file/t2jjzedv5ptphmn/[Christine]+Dragon+Berserkr+v4.7z/file)
@@ -115,7 +115,7 @@
 *  [1) Enhanced Vanilla Trees SE - Custom Trees v2.1.0-11008-2-1-0-1607405747.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11008/?tab=files&file_id=173749)
 *  [1K Dandelion Seeds-18062-1-0SSE.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18062/?tab=files&file_id=57596)
 *  [2. Majestic Mountains Darkside-11052-3-2-1604049795.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=167716)
-*  288656079_SEDMBDORNovaTaritasbyTeamTAL(convertedbyem486Caenarvon).7z
+*  [288656079_SEDMBDORNovaTaritasbyTeamTAL(convertedbyem486Caenarvon).7z](https://www.loverslab.com/files/file/16865-se-team-tals-dm-bdor-nova-taritas-smp-3babhunp/?do=download&csrfKey=d6bfb8e17735b87c4386ca53f4236467)
 *  [2k Ancient Nordic Arrows and Quiver Plain-4245-New-1-01.zip](https://www.nexusmods.com/skyrimspecialedition/mods/4245/?tab=files&file_id=47921)
 *  [2k Coin Pouch Dark-4898-1-01.zip](https://www.nexusmods.com/skyrimspecialedition/mods/4898/?tab=files&file_id=51117)
 *  [2K Dark Brotherhood tenants-6782-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/6782/?tab=files&file_id=50175)
@@ -133,7 +133,7 @@
 *  [3Tweaks-44044-0-28-1642904687.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44044/?tab=files&file_id=258793)
 *  [4K ElSopa HD - Bristleback-22294-1-0-1546380094.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22294/?tab=files&file_id=76942)
 *  [4K Version-37680-1-1-1593187690.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37680/?tab=files&file_id=147521)
-*  761493319_DMBDORDobartbyTeamTAL1.3.7z
+*  [761493319_DMBDORDobartbyTeamTAL1.3.7z](https://www.loverslab.com/files/file/16227-se-team-tals-dm-bdor-dobart-smp-3babhunp/?do=download&csrfKey=d6bfb8e17735b87c4386ca53f4236467)
 *  [9.0.1 A Quality World Map - Vivid with Stone Roads-5804-9-0-1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/5804/?tab=files&file_id=13792)
 *  [A Clear Map of Skyrim and Other Worlds FOMOD - PART 1-56367-3-2-1654360939.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56367/?tab=files&file_id=288759)
 *  [A. Noble Skyrim - FULL PACK_2K-21423-5-5-0-1543032385.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21423/?tab=files&file_id=73168)
