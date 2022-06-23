@@ -2,7 +2,7 @@
   "MachineURL": "wj-featured/potd",
   "Name": "Path of the Dovahkiin",
   "Version": "1.3.0",
-  "ModListHash": "g/iN3bnhtIE=",
+  "ModListHash": "t5uPrLpAu7U=",
   "Archives": [
     {
       "Status": "Valid",
@@ -2275,24 +2275,15 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "gsvUHbjw0js=",
-        "Meta": "[General]\nips4Site=Vector Plexus\nips4Mod=283\nips4File=High_Poly_Head_v1.4_(SE).zip",
-        "Name": "High_Poly_Head_v1.4_(SE).zip",
+        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq\u0026export=download",
+        "Name": "High Poly Head v1.4 (SE).zip",
         "Size": 188231174,
         "State": {
-          "$type": "VectorPlexusOAuthDownloader\u002BState, Wabbajack.Lib",
-          "Author": "KouLeifoh",
-          "Description": "",
-          "ImageURL": "//storage.vectorplexus.com/screenshots/monthly_2019_12/splash.jpg.981878824c3ffe924664eb229f1b7749.jpg",
-          "IPS4File": "High_Poly_Head_v1.4_(SE).zip",
-          "IPS4Mod": 283,
-          "IPS4Url": "https://vectorplexus.com/files/file/283-high-poly-head/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "High Poly Head",
-          "Version": "1.4"
+          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
+          "Id": "15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq"
         }
       }
     },
@@ -10628,8 +10619,8 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/491cb813e0fcc109_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/491cb813e0fcc109_large.webp"
 }
