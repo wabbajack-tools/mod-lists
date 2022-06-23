@@ -2,7 +2,7 @@
   "MachineURL": "wj-featured/tpf",
   "Name": "The Phoenix Flavour",
   "Version": "4.15.0",
-  "ModListHash": "YSSjPGW6YdM=",
+  "ModListHash": "7mrBqxBqAc8=",
   "Archives": [
     {
       "Status": "Valid",
@@ -10525,6 +10525,27 @@
           "ModID": 34719,
           "Name": "Qwafee Keys",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DtgfxGHVm+g=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=70161\nfileID=293455",
+        "Name": "RaceMenu 0.4.16 Memory Leak Hotfix (SE)-70161-1-0-0-1656002259.zip",
+        "Size": 146234,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SlavicPotato",
+          "Description": "Fixes a severe memory leak issue in RaceMenu 0.4.16 (SE 1.5.97) skee64 binary due to armor and inventory object 3D never getting released.",
+          "FileID": 293455,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/70161/70161-1656001443-528966239.png",
+          "IsNSFW": false,
+          "ModID": 70161,
+          "Name": "RaceMenu 0.4.16 Memory Leak Hotfix (SE)",
+          "Version": "1.0.0.0"
         }
       }
     },
