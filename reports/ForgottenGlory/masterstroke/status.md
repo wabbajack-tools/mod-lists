@@ -51,7 +51,7 @@
 *  Transformative Elixirs v1.1.0.7z
 ### Updated (0)
 ### Mirrored (0)
-### Valid (841)
+### Valid (840)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -871,7 +871,6 @@
 *  [Wrye Bash 309.1 - Standalone Executable-6837-309-1-1623232467.7z](https://www.nexusmods.com/skyrim/mods/1840/?tab=files&file_id=1000337935)
 *  [Wyrmstooth_2x-39992-1-1599063074.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39992/?tab=files&file_id=158829)
 *  [Wyrmstooth-45565-1-19-7-1635995016.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45565/?tab=files&file_id=238910)
-*  [xEdit_4.0.3g.7z](https://cdn.discordapp.com/attachments/518048160526893057/832281169717362738/xEdit_4.0.3g.7z)
 *  [xLODGen.90.7z](https://authored-files.wabbajack.org/xLODGen.90.7z_301311bd-5912-4bc3-b9b6-955fce14cd71)
 *  [XP32 MAXIMUM SKELETON FOR DUMMIES-69583-1-0-1655074994.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69583/?tab=files&file_id=290712)
 *  [XP32 Maximum Skeleton Special Extended - Fixed Scripts-44252-1-0-1610402131.rar](https://www.nexusmods.com/skyrimspecialedition/mods/44252/?tab=files&file_id=179016)
