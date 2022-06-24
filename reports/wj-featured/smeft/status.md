@@ -1,11 +1,10 @@
 ## Validation Report - SME(FT) (wj-featured/smeft)
 
 
-### Invalid (1)
-*  [xEdit_4.0.3g.7z](https://cdn.discordapp.com/attachments/518048160526893057/832281169717362738/xEdit_4.0.3g.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (165)
+### Valid (166)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [Actor Limit Fix (Special Edition)-32349-5-1646905082.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=269167)
@@ -170,4 +169,5 @@
 *  [Whiterun Vram Texture Mod-79995-1-1.rar](https://www.nexusmods.com/skyrim/mods/79995/?tab=files&file_id=1000226998)
 *  [WhoseQuestIsItAnyway-23581-1-3-0-1583022223.zip](https://www.nexusmods.com/skyrimspecialedition/mods/23581/?tab=files&file_id=126539)
 *  [Wrye Bash 309.1 - Standalone Executable-6837-309-1-1623232467.7z](https://www.nexusmods.com/skyrim/mods/1840/?tab=files&file_id=1000337935)
+*  [xEdit_4.0.3g.7z](https://cdn.discordapp.com/attachments/518048160526893057/832281169717362738/xEdit_4.0.3g.7z)
 *  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
