@@ -1,8 +1,7 @@
 ## Validation Report - SME(FT) (wj-featured/smeft)
 
 
-### Invalid (1)
-*  [xEdit_4.0.3g.7z](https://cdn.discordapp.com/attachments/518048160526893057/832281169717362738/xEdit_4.0.3g.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (165)

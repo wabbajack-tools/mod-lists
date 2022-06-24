@@ -1,11 +1,10 @@
 ## Validation Report - Path of the Dovahkiin (wj-featured/potd)
 
 
-### Invalid (1)
-*  [xEdit_4.0.3g.7z](https://cdn.discordapp.com/attachments/518048160526893057/832281169717362738/xEdit_4.0.3g.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (520)
+### Valid (521)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -519,6 +518,7 @@
 *  [WhoseQuestIsItAnyway-23581-1-3-0-1583022223.zip](https://www.nexusmods.com/skyrimspecialedition/mods/23581/?tab=files&file_id=126539)
 *  [Wispmother.2x1k-7638-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/7638/?tab=files&file_id=18465)
 *  [Wolfpaint - Face - Racemenu Overlays - Male and Female-30255-1-0-MF-1573895529.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30255/?tab=files&file_id=113503)
+*  [xEdit_4.0.3g.7z](https://cdn.discordapp.com/attachments/518048160526893057/832281169717362738/xEdit_4.0.3g.7z)
 *  [xLODGen.90.7z](https://authored-files.wabbajack.org/xLODGen.90.7z_301311bd-5912-4bc3-b9b6-955fce14cd71)
 *  [XP32 Maximum Skeleton Special Extended-1988-4-80-1610196777.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=178559)
 *  [YesImSure-24898-1-5-0-1583022330.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24898/?tab=files&file_id=126540)
