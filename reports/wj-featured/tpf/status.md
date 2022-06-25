@@ -251,7 +251,7 @@
 *  [Enb light for wearable lanterns-57710-1-0-1635667810.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57710/?tab=files&file_id=238112)
 *  [ENB Light-22574-0-94-1552759521.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=85143)
 *  [ENB Lights for Effect Shaders SE-56362-2-0-1641571441.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56362/?tab=files&file_id=254729)
-*  [enbseries_skyrimse_v0475.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_8e4f27f8-e960-4938-aabc-385baac54886)
+*  [enbseries_skyrimse_v0475.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_25b82250-5472-4604-8e76-1570899360a1)
 *  [Encounter Zones Unlocked SE-19608-1-4-1583906933.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19608/?tab=files&file_id=128125)
 *  [Enhanced Blood Textures-2357-4-0-1639547261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=249235)
 *  [Enhanced Reanimation SE-43500-1-4-0-1638156734.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43500/?tab=files&file_id=245264)
