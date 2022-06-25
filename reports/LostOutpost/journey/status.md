@@ -1,8 +1,7 @@
 ## Validation Report - Journey (LostOutpost/journey)
 
 
-### Invalid (1)
-*  [skse64_2_00_20.7z](https://skse.silverlock.org/beta/skse64_2_00_20.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (715)
@@ -306,7 +305,6 @@
 *  [Improved College Entry-22184-2-8-1602614138.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22184/?tab=files&file_id=165417)
 *  [Improved Follower Dialogue - Lydia-38473-2-0-2-1611199674.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38473/?tab=files&file_id=180809)
 *  [Improved Horse Step Sounds - Special Edition-848-2-2-1541612556.7z](https://www.nexusmods.com/skyrimspecialedition/mods/848/?tab=files&file_id=71621)
-*  [Improved_Camera-1.0_Beta4.7z](https://drive.google.com/uc?id=12hqOZbfeFK0zXJxpzsEXsyQyDclDQaZk&export=download)
 *  [Inconsequential NPCs - Crier Begone - ESPFE-40790-1-0-1600979684.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40790/?tab=files&file_id=162365)
 *  [Inconsequential NPCs 1 dot 9e-36334-1-9e.rar](https://www.nexusmods.com/skyrim/mods/36334/?tab=files&file_id=1000165316)
 *  [Inferno - Fire Effects Redux-29316-4-1-1591025449.zip](https://www.nexusmods.com/skyrimspecialedition/mods/29316/?tab=files&file_id=143264)
@@ -556,6 +554,7 @@
 *  [Simplicity of Snow-56235-0-5-1-1644034658.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56235/?tab=files&file_id=261837)
 *  [Sixth House Bell Hammer SSE-50051-1-0-1621272695.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50051/?tab=files&file_id=204018)
 *  [Skooma is Illicit-29120-1-1-1569761722.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29120/?tab=files&file_id=108726)
+*  [skse64_2_00_20.7z](https://skse.silverlock.org/beta/skse64_2_00_20.7z)
 *  [Sky Haven Temple - Gardens-8537-1-2.rar](https://www.nexusmods.com/skyrimspecialedition/mods/8537/?tab=files&file_id=21832)
 *  [SkyHUD v090B v4-463-0-90B.zip](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=61422)
 *  [Skyland AIO-34179-3-11-1652234607.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34179/?tab=files&file_id=282873)
