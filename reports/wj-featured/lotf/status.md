@@ -1,10 +1,11 @@
 ## Validation Report - Legends of the Frost (wj-featured/lotf)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [skse64_2_00_20.7z](http://skse.silverlock.org/beta/skse64_2_00_20.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (358)
+### Valid (357)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [(Part 1) Engine Fixes-17230-5-8-0-1637340889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=242713)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -269,7 +270,6 @@
 *  [Simplicity of Snow - Blended Roads Patch-59282-1-0-1638262673.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59282/?tab=files&file_id=245498)
 *  [Simplicity of Snow-56235-0-6-4-1-1654300379.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56235/?tab=files&file_id=288639)
 *  [skeletons don't breathe SSE loose files version-18542-1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/18542/?tab=files&file_id=60692)
-*  [skse64_2_00_20.7z](http://skse.silverlock.org/beta/skse64_2_00_20.7z)
 *  [SkyHud - High Resolution Widescreen Fix-1778-2-0-1601140724.rar](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?tab=files&file_id=162696)
 *  [SkyHUD v090B v4-463-0-90B.zip](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=61422)
 *  [Skyrim - A Mountainous Experience-43866-1-5-6-1620053696.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43866/?tab=files&file_id=201507)

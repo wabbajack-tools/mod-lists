@@ -1,8 +1,8 @@
 {
   "MachineURL": "tw3mw/tw3mw",
   "Name": "The Witcher 3 - My Way",
-  "Version": "1.0.0",
-  "ModListHash": "I9/7OytMk2Q=",
+  "Version": "1.0.1",
+  "ModListHash": "DcsstgsGDOM=",
   "Archives": [
     {
       "Status": "Valid",
@@ -100,6 +100,48 @@
           "GameFile": "MANUAL\\The_Witcher_3_Wild_Hunt_Game_Manual_PC_EN.pdf",
           "GameVersion": "3.0.0.1259521(Build Machine)",
           "Hash": "6o+6On0VF0s="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "J06xG9pCENM=",
+        "Meta": "[General]\ngameName=\nmodID=1055\nfileID=15354",
+        "Name": "w3strings encoder-v0.4.1.zip-1055-0-4-1.zip",
+        "Size": 214700,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "rmemr",
+          "Description": "w3strings decoder / encoder for adding new strings as standalone w3string files to mods",
+          "FileID": 15354,
+          "GameName": "Witcher3",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 1055,
+          "Name": "w3strings encoder",
+          "Version": "0.4.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ttfj8YX3Zhw=",
+        "Meta": "[General]\ngameName=\nmodID=4738\nfileID=35338",
+        "Name": "DEEN - W3strings PowerShell Utility-4738-v4-0-1-1619127706.zip",
+        "Size": 5184,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Myself",
+          "Description": "This script is essentially aimed at making the W3STRINGS encoding / decoding process easier and more intuitive for mod creators.",
+          "FileID": 35338,
+          "GameName": "Witcher3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/4738/4738-1619127370-1522488229.png",
+          "IsNSFW": false,
+          "ModID": 4738,
+          "Name": "DEEN -- W3strings Decoding and Encoding (PowerShell Tool)",
+          "Version": "4.0.1.0"
         }
       }
     },
@@ -11394,21 +11436,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "i7G5hgFRH5s=",
-        "Meta": "[General]\ngameName=\nmodID=6251\nfileID=40460",
-        "Name": "Active Medallion-6251-1-31-1655759128.7z",
-        "Size": 1923472,
+        "Hash": "/DnUgtGyJds=",
+        "Meta": "[General]\ngameName=\nmodID=6251\nfileID=40544",
+        "Name": "Active Medallion-6251-1-31b-1656089722.7z",
+        "Size": 1923590,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "plasticmetal",
           "Description": "Makes medallion respond to monsters and magic.",
-          "FileID": 40460,
+          "FileID": 40544,
           "GameName": "Witcher3",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/952/images/6251/6251-1640125749-105721567.jpeg",
           "IsNSFW": false,
           "ModID": 6251,
           "Name": "Active Medallion",
-          "Version": "1.31.0.0"
+          "Version": "1.31.0.0b"
         }
       }
     },

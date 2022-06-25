@@ -1,10 +1,11 @@
 ## Validation Report - Journey (LostOutpost/journey)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [skse64_2_00_20.7z](https://skse.silverlock.org/beta/skse64_2_00_20.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (716)
+### Valid (715)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
@@ -555,7 +556,6 @@
 *  [Simplicity of Snow-56235-0-5-1-1644034658.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56235/?tab=files&file_id=261837)
 *  [Sixth House Bell Hammer SSE-50051-1-0-1621272695.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50051/?tab=files&file_id=204018)
 *  [Skooma is Illicit-29120-1-1-1569761722.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29120/?tab=files&file_id=108726)
-*  [skse64_2_00_20.7z](https://skse.silverlock.org/beta/skse64_2_00_20.7z)
 *  [Sky Haven Temple - Gardens-8537-1-2.rar](https://www.nexusmods.com/skyrimspecialedition/mods/8537/?tab=files&file_id=21832)
 *  [SkyHUD v090B v4-463-0-90B.zip](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=61422)
 *  [Skyland AIO-34179-3-11-1652234607.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34179/?tab=files&file_id=282873)

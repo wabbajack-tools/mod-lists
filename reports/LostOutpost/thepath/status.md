@@ -1,10 +1,11 @@
 ## Validation Report - The Path (LostOutpost/thepath)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [skse64_2_00_20.7z](http://skse.silverlock.org/beta/skse64_2_00_20.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (637)
+### Valid (636)
 *  [(1) Pine Branches Redone 8K-45294-3-0-1637522602.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45294/?tab=files&file_id=243288)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474_cee172be8b892e21849f407c48156302e7ca7bde7b849494fcf36ef979dc1e20_.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
@@ -517,7 +518,6 @@
 *  [Skip Into SE (Variant 1)-175-1-03-1638373828.rar](https://www.nexusmods.com/enderalspecialedition/mods/175/?tab=files&file_id=1384)
 *  [Skip Into SE (Variant 2)-175-1-00-1624619061.rar](https://www.nexusmods.com/enderalspecialedition/mods/175/?tab=files&file_id=761)
 *  [skse64_2_00_19.7z](https://skse.silverlock.org/beta/skse64_2_00_19.7z)
-*  [skse64_2_00_20.7z](http://skse.silverlock.org/beta/skse64_2_00_20.7z)
 *  [SkyFix SE - HD Blacksmith Signs 1.0-10606-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/10606/?tab=files&file_id=28274)
 *  [SkyHUD v090B v4-463-0-90B.zip](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=61422)
 *  [Skyland AIO-34179-3-11-1652234607.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34179/?tab=files&file_id=282873)
