@@ -1,15 +1,10 @@
 ## Validation Report - Masterstroke (ForgottenGlory/masterstroke)
 
 
-### Invalid (5)
-*  Sexlab BJ Sound FX replacerv0.1.rar
-*  Sexlab Framework Sound Replacer AIO.7z
-*  SlaveTats CumTextures Remake v1.2.5.7z
-*  SOS - Futanari - Patch for CBBE SE Femenine Argonian Textures (Lizard ONLY).7z
-*  SOS - Futanari - Patch for CBBE SE Femenine Khajiit Textures (Gray Cat ONLY).7z
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (882)
+### Valid (887)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -682,7 +677,9 @@
 *  [Sets of Skill - A Skyrim Class Mod-55535-1-2-1641821218.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55535/?tab=files&file_id=255633)
 *  Sex Lab - Sexual Fame 0.99.rar
 *  Sexlab Baka Defeat.7z
+*  Sexlab BJ Sound FX replacerv0.1.rar
 *  SexLab EagerNPCSERev2.7z
+*  Sexlab Framework Sound Replacer AIO.7z
 *  SexLab Solutions v3 - Revisited SE v1.1.5.7z
 *  SexLab-Separate-Orgasm-SE-1.7.9 SL1.63.7z
 *  [SexLabAroused Redux V28b SSE Modified by BakaFactory(2020 11 17)).7z](https://authored-files.wabbajack.org/SexLabAroused Redux V28b SSE Modified by BakaFactory(2020 11 17)).7z_b3765932-fe0d-4da6-904a-273ff258b903)
@@ -733,6 +730,7 @@
 *  [SkyUI_5_2_SE-12604-5-2SE.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12604/?tab=files&file_id=35407)
 *  SLAL_AnimationsByLeito_v1.6SE.7z
 *  SLAL_SE.7z
+*  SlaveTats CumTextures Remake v1.2.5.7z
 *  SLDrunkRedux v1.3.7z
 *  SLSW Addicted 3.65 SE.7z
 *  SLWidgets 2.0.5 (SE).zip
@@ -754,6 +752,8 @@
 *  [Snow White Armor - HIMBO version-58139-1-1-1636437390.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58139/?tab=files&file_id=240020)
 *  [Snow White Armor - SE CBBE 3BA v2-41635-2-0-1636384177.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41635/?tab=files&file_id=239861)
 *  [SometimesPickUpBooksV10-11304-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11304/?tab=files&file_id=30656)
+*  SOS - Futanari - Patch for CBBE SE Femenine Argonian Textures (Lizard ONLY).7z
+*  SOS - Futanari - Patch for CBBE SE Femenine Khajiit Textures (Gray Cat ONLY).7z
 *  SOS - Futanari CBBE SSE V1.1b.7z
 *  [Sotteta Necromancer-4306-2-01-1556251194.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4306/?tab=files&file_id=89731)
 *  [Sovngarde - HQ Main Menu Music Replacer-33639-1-0-1584303930.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33639/?tab=files&file_id=128784)
