@@ -1,10 +1,11 @@
 ## Validation Report - Total Skyrim Overhaul (wj-featured/tso)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Lux for Wabbajack.7z](https://drive.google.com/uc?id=1dNsBIaXPNlZWoNMPbPpMjBUfnS4eFUsy&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (999)
+### Valid (998)
 *  [- Skyrim 2020 8.4.2 - 3 of 3 - Other - 4K to 2K-2347-8-4-2-1624479907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=210840)
 *  [-Skyrim 2020 Update 8.7-2347-8-7-1641316815.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=253924)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)
@@ -653,7 +654,6 @@
 *  [Lucien-20035-1-6-3-1636656096.rar](https://www.nexusmods.com/skyrimspecialedition/mods/20035/?tab=files&file_id=240595)
 *  [Lux - JK's College patch update-43158-4-2-1651494633.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=281069)
 *  [Lux - JK's Sinderion Lab patch-43158-4-2-1653110837.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=285343)
-*  [Lux for Wabbajack.7z](https://drive.google.com/uc?id=1dNsBIaXPNlZWoNMPbPpMjBUfnS4eFUsy&export=download)
 *  [Lux Orbis (main plugins update)-56095-2-6-1-1650705125.rar](https://www.nexusmods.com/skyrimspecialedition/mods/56095/?tab=files&file_id=279105)
 *  [Lux Orbis-56095-2-6-1650555921.rar](https://www.nexusmods.com/skyrimspecialedition/mods/56095/?tab=files&file_id=278691)
 *  [Lux Via (main plugins update)-63588-1-4-1-1650704828.rar](https://www.nexusmods.com/skyrimspecialedition/mods/63588/?tab=files&file_id=279104)
