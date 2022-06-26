@@ -1,8 +1,8 @@
 {
   "MachineURL": "LostOutpost/thepath",
   "Name": "The Path",
-  "Version": "1.1.0",
-  "ModListHash": "LTwf1npKpGQ=",
+  "Version": "1.1.1",
+  "ModListHash": "m3nOQQi1fpE=",
   "Archives": [
     {
       "Status": "Valid",
@@ -232,12 +232,12 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
-        "Hash": "v1aK6iCHYs8=",
+        "Hash": "jd0P+E2VtwA=",
         "Meta": "[General]\ndirectURL=http://skse.silverlock.org/beta/skse64_2_00_20.7z",
         "Name": "skse64_2_00_20.7z",
-        "Size": 813935,
+        "Size": 834815,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
@@ -664,27 +664,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "1lsPR4szmng=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=25271\nfileID=244865",
-        "Name": "BCC-SkyUI-v31-25271-3-1-1638044447.7z",
-        "Size": 6326,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CDCooley",
-          "Description": "Do you get annoyed by the quantity prompt or wish you could put all of your ingredients away with a single command? Better Container Controls for SkyUI adds a few new useful features to the container menu.",
-          "FileID": 244865,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/25271/25271-1555977294-525220704.jpeg",
-          "IsNSFW": false,
-          "ModID": 25271,
-          "Name": "Better Container Controls for SkyUI",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "qUE0TfnbbEc=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=34549\nfileID=196509",
         "Name": "Blade and Blunt - Timed Block Module-34549-1-3-0-1617738857.7z",
@@ -868,6 +847,27 @@
           "ModID": 77,
           "Name": "Delectable Docks SE (fixed)",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7BqN3TyvrlU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=52030\nfileID=212906",
+        "Name": "1. Slightly Difficult Archery - SSE-52030-1-1625515162.zip",
+        "Size": 418,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Askeladden and mikely92",
+          "Description": "Reduces accuracy of enemy ranged attacks - Now for SSE!",
+          "FileID": 212906,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/52030/52030-1625513542-707052622.jpeg",
+          "IsNSFW": false,
+          "ModID": 52030,
+          "Name": "Difficult Archery - SSE Port",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -4757,20 +4757,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "B0H61OxirmU=",
-        "Meta": "[General]\ndirectURL=https://skse.silverlock.org/beta/skse64_2_00_19.7z",
-        "Name": "skse64_2_00_19.7z",
-        "Size": 922047,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://skse.silverlock.org/beta/skse64_2_00_19.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "AZdJVvOj2v0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=463\nfileID=61422",
         "Name": "SkyHUD v090B v4-463-0-90B.zip",
@@ -5552,6 +5538,27 @@
           "IsNSFW": false,
           "ModID": 36063,
           "Name": "Authentic Eyes",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PBlyr/OL804=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54309\nfileID=225158",
+        "Name": "Auto Input Switch-54309-1-1-2-1630404989.zip",
+        "Size": 244442,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Parapets",
+          "Description": "Ever get annoyed that you can\u0027t use your mouse with your gamepad plugged in? Now you can switch between them painlessly.",
+          "FileID": 225158,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54309/54309-1629632972-1826723939.png",
+          "IsNSFW": false,
+          "ModID": 54309,
+          "Name": "Auto Input Switch",
           "Version": "0.0.0.0"
         }
       }
@@ -7294,20 +7301,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "eFtZWCVdD/U=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44971\nfileID=182506",
-        "Name": "Remastered Ash Piles Of Skyrim-44971-1-1-1611883469.7z",
-        "Size": 173390586,
+        "Hash": "5OQ0KGVs4Q8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=5870\nfileID=254650",
+        "Name": "Ruins Clutter Improved SE Mod Manager-5870-3-2b-1641550746.rar",
+        "Size": 253305615,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "High quality, immersive, dust-like ash pile retexture. With support for the various ash piles added by Ordinator, Vokrii, and Wintersun.",
-          "FileID": 182506,
+          "Author": "raiserfx",
+          "Description": "This mod does improve textures and meshes and also corrects UV errors of many clutter objects, which can mostly be found in the dungeons of Skyrim.",
+          "FileID": 254650,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44971/44971-1611865398-1200194227.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/5870-3-1481215810.jpg",
           "IsNSFW": false,
-          "ModID": 44971,
-          "Name": "Iconic\u0027s Remastered Ash Piles Of Skyrim (4K-2K-1K)",
+          "ModID": 5870,
+          "Name": "Ruins Clutter Improved",
           "Version": "0.0.0.0"
         }
       }
@@ -7581,27 +7588,6 @@
           "IsNSFW": false,
           "ModID": 5436,
           "Name": "RUGNAROK - Special Edition",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "5OQ0KGVs4Q8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=5870\nfileID=254650",
-        "Name": "Ruins Clutter Improved SE Mod Manager-5870-3-2b-1641550746.rar",
-        "Size": 253305615,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "raiserfx",
-          "Description": "This mod does improve textures and meshes and also corrects UV errors of many clutter objects, which can mostly be found in the dungeons of Skyrim.",
-          "FileID": 254650,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/5870-3-1481215810.jpg",
-          "IsNSFW": false,
-          "ModID": 5870,
-          "Name": "Ruins Clutter Improved",
           "Version": "0.0.0.0"
         }
       }
@@ -12785,8 +12771,8 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/LostOutpost/5de29025ede8cd5c_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/LostOutpost/5de29025ede8cd5c_large.webp"
 }
