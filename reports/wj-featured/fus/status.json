@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/fus",
   "Name": "FUS",
-  "Version": "2.5.0",
-  "ModListHash": "BD7CRrQOu2w=",
+  "Version": "2.5.2",
+  "ModListHash": "anfegu3kGnY=",
   "Archives": [
     {
       "Status": "Valid",
@@ -3134,6 +3134,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "MAuDaMiK3og=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=5098\nfileID=10997",
+        "Name": "Unlimited Sprinting-5098-1.7z",
+        "Size": 385,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaliceGFS",
+          "Description": "A simple mod that removes the stamina drain from sprinting.",
+          "FileID": 10997,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/5098-1-1480191247.jpg",
+          "IsNSFW": false,
+          "ModID": 5098,
+          "Name": "Unlimited Sprinting",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "S7o+/ZKen3c=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=266\nfileID=209150",
         "Name": "Unofficial Skyrim Special Edition Patch-266-4-2-5b-1623727189.7z",
@@ -6256,6 +6277,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "I7fCdVRRDHw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=69558\nfileID=291072",
+        "Name": "Glowing Mushroom Collision Fixes - Skyrim Particle Patch Compatible-69558-1-0-0-1655153037.7z",
+        "Size": 64118,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "sync67",
+          "Description": "Fixes the infuriatingly difficult to pick glowing mushrooms. No more mashing keys, or trying to select the tiny tendrils with surgical precision! Large, easy to select hitboxes make picking these a breeze. (No .ESP)",
+          "FileID": 291072,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69558/69558-1655236499-105970569.png",
+          "IsNSFW": false,
+          "ModID": 69558,
+          "Name": "Glowing Mushroom Collision Fixes",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "s2vOuZxyOzM=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=20364\nfileID=169765",
         "Name": "HapticSkyrimVR - Spellcasting and Enhanced Bow and Melee Feedback SKSE Plugin-20364-1-7-2-1605193196.rar",
@@ -6271,6 +6313,27 @@
           "ModID": 20364,
           "Name": "Haptic Skyrim VR - Spellcasting and Enhanced Bow and Melee Haptics",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pBiDASguAO8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43930\nfileID=289115",
+        "Name": "HIGGS 1.5.6-43930-1-5-6-1654495736.zip",
+        "Size": 5121541,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FlyingParticle",
+          "Description": "Hand/weapon collision, weapon two-handing, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR",
+          "FileID": 289115,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43930/43930-1609640985-1855858433.jpeg",
+          "IsNSFW": false,
+          "ModID": 43930,
+          "Name": "HIGGS - Enhanced VR Interaction",
+          "Version": "1.5.6.0"
         }
       }
     },
@@ -6592,21 +6655,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "3sizB+2Fqh4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=66025\nfileID=277679",
-        "Name": "PLANCK 0.2.4-66025-0-2-4-1650154110.zip",
-        "Size": 311380,
+        "Hash": "0jenSik5GJM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=66025\nfileID=290759",
+        "Name": "PLANCK 0.3.1-66025-0-3-1-1655089350.zip",
+        "Size": 4028217,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "FlyingParticle",
           "Description": "Physically-driven animation in Skyrim. Characters interact with physics and can be grabbed, melee hit detection is physically accurate, and much more.",
-          "FileID": 277679,
+          "FileID": 290759,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/66025/66025-1649132253-1750711249.png",
           "IsNSFW": false,
           "ModID": 66025,
           "Name": "PLANCK - Physical Animation and Character Kinetics",
-          "Version": "0.0.0.0"
+          "Version": "0.3.1.0"
         }
       }
     },
@@ -7736,6 +7799,27 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/fholger/vrperfkit/releases/download/v0.3/vrperfkit_v0.3.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kMXTcv9vIik=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=23419\nfileID=106614",
+        "Name": "Bow Before The Dead - Draugr Sounds Lower Volume By sebbyostian-23419-SSE1-2-1568340042.7z",
+        "Size": 5546843,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Satafinix",
+          "Description": "After receiving permission here is a simple port of Satafinix mod! ENJOY\n\n\n\n\n\nDraugr Sounds: Bow Before The Dead Edition is a full replacement for Vanilla Draugrs sounds to more fearsome and Demonic Sounds FX / Voices!",
+          "FileID": 106614,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23419/23419-1550104712-1106114668.jpeg",
+          "IsNSFW": false,
+          "ModID": 23419,
+          "Name": "Bow Before The Dead - Draugr Sounds Legacy Edition - SSE PORT",
+          "Version": "SSE1.2"
         }
       }
     },
