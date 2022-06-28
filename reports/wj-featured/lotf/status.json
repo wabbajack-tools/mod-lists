@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/lotf",
   "Name": "Legends of the Frost",
-  "Version": "2.5.1",
-  "ModListHash": "qnt/bxY1TOg=",
+  "Version": "2.6",
+  "ModListHash": "gTPmrvgHw3s=",
   "Archives": [
     {
       "Status": "Valid",
@@ -71,6 +71,27 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LootPreventifier.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XIpv2PC9NCI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=69813\nfileID=293627",
+        "Name": "NIF Preview-69813-0-1-18-1b-1656068039.7z",
+        "Size": 233735,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Parapets",
+          "Description": "Mod Organizer plugin to support previewing NIF files (3D models).",
+          "FileID": 293627,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69813/69813-1655498149-175023022.png",
+          "IsNSFW": false,
+          "ModID": 69813,
+          "Name": "NIF Preview (3D Model Viewer) for Mod Organizer",
+          "Version": "0.1.8.0b"
         }
       }
     },
@@ -197,16 +218,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
-        "Hash": "v1aK6iCHYs8=",
-        "Meta": "[General]\ndirectURL=http://skse.silverlock.org/beta/skse64_2_00_20.7z",
+        "Hash": "jd0P+E2VtwA=",
+        "Meta": "[General]\ndirectURL=https://skse.silverlock.org/beta/skse64_2_00_20.7z",
         "Name": "skse64_2_00_20.7z",
-        "Size": 813935,
+        "Size": 834815,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "http://skse.silverlock.org/beta/skse64_2_00_20.7z"
+          "Url": "https://skse.silverlock.org/beta/skse64_2_00_20.7z"
         }
       }
     },
@@ -721,6 +742,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "YjVADn1Zk+c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=19518\nfileID=292739",
+        "Name": "Survival Mode (CC) __ WACCF-19518-1-1-1655781035.zip",
+        "Size": 6956,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kryptopyr and others",
+          "Description": "A central location for any compatibility patches I\u0027ve created for my mods.  I\u0027ll also try to provide updated links to patches available elsewhere.",
+          "FileID": 292739,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19518/19518-1536925880-1200742885.jpeg",
+          "IsNSFW": false,
+          "ModID": 19518,
+          "Name": "kryptopyr\u0027s Patch Hub",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "bYMtnN4ItaA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=17716\nfileID=249154",
         "Name": "Charge Dialogue Fix-17716-1-4-1639512548.7z",
@@ -1135,6 +1177,48 @@
           "ModID": 3333,
           "Name": "HD LODs Textures SE",
           "Version": "9.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "U/kv4fwZfkI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=69559\nfileID=292016",
+        "Name": "HearthFires - Customizable Fertile Soil-69559-1-1-1655553753.7z",
+        "Size": 5223,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AndrealphusVIII",
+          "Description": "This mod optimizes the fertile soil script, making it perform faster and adds options for customizing its interaction.",
+          "FileID": 292016,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69559/69559-1655037736-278737010.png",
+          "IsNSFW": false,
+          "ModID": 69559,
+          "Name": "HearthFires - Customizable Fertile Soil",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "657afySVnlM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=69559\nfileID=290617",
+        "Name": "HearthFires - Customizable Fertile Soil - CC Farm Patch-69559-1-0-1655038069.7z",
+        "Size": 4881,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AndrealphusVIII",
+          "Description": "This mod optimizes the fertile soil script, making it perform faster and adds options for customizing its interaction.",
+          "FileID": 290617,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69559/69559-1655037736-278737010.png",
+          "IsNSFW": false,
+          "ModID": 69559,
+          "Name": "HearthFires - Customizable Fertile Soil",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -2408,6 +2492,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "/4GJ4ijtSo4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=65375\nfileID=271893",
+        "Name": "Skyrim Landscape and Water Fixes CC Farming Patch-65375-1-1647998546.7z",
+        "Size": 53054,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nukanist",
+          "Description": "Resolves a conflict between Landscape and Water Fixes and CC-Farming DLC that makes an important quest item inaccessible.",
+          "FileID": 271893,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65375/65375-1647997993-1071387454.jpeg",
+          "IsNSFW": false,
+          "ModID": 65375,
+          "Name": "Skyrim Landscape and Water Fixes CC Farming compatibility patch",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "5VKZPWW0MZU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=18147\nfileID=117238",
         "Name": "SUEMR v3.0 Simple Vampire Fixes SSE-18147-v3-0-1577160259.7z",
@@ -2870,21 +2975,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ZW0/uZBEsVo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=18975\nfileID=276697",
-        "Name": "Unofficial Skyrim Creation Club Content Patch-18975-6-5-1649789603.zip",
-        "Size": 20404045,
+        "Hash": "wAq9iPYthgs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=18975\nfileID=292474",
+        "Name": "Unofficial Skyrim Creation Club Content Patch-18975-6-7-1655696959.zip",
+        "Size": 19164499,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "garthand",
           "Description": "This is a bundle of patches to fix the bugs in the Skyrim Creation Club content as well as resolve conflicts between Creation Club mods and the Unofficial Skyrim Special Edition Patch (USSEP).",
-          "FileID": 276697,
+          "FileID": 292474,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18975/18975-1533087916-257772479.png",
           "IsNSFW": false,
           "ModID": 18975,
           "Name": "Unofficial Skyrim Creation Club Content Patches",
-          "Version": "6.5.0.0"
+          "Version": "6.7.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yY/NAjCN0ss=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=266\nfileID=292193",
+        "Name": "Unofficial Skyrim Special Edition Patch-266-4-2-7-1655599279.7z",
+        "Size": 134113481,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Unofficial Patch Project Team",
+          "Description": "A comprehensive bugfixing mod for The Elder Scrolls V: Skyrim - Special Edition. The goal of the Unofficial Skyrim Special Edition Patch (aka USSEP) is to eventually fix every bug with Skyrim Special Edition not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.",
+          "FileID": 292193,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/266-0-1477512662.png",
+          "IsNSFW": false,
+          "ModID": 266,
+          "Name": "Unofficial Skyrim Special Edition Patch",
+          "Version": "4.2.7.0"
         }
       }
     },
@@ -4000,6 +4126,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "eu3SoKqq+Is=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=69346\nfileID=291689",
+        "Name": "Optimized USSEP Valdr Quest-69346-2-0-1655443568.7z",
+        "Size": 2416,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "igotnousername",
+          "Description": "USSEP added a script that supposedly allows the player to do any kind of healing spell on Valdr during his quest.\n\nThe problem is that it doesn\u0027t seem to end properly and can cause performance issues due to how its implemented, this mod fixes that.",
+          "FileID": 291689,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69346/69346-1654788445-2113156239.png",
+          "IsNSFW": false,
+          "ModID": 69346,
+          "Name": "Optimized USSEP Valdr Quest",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "3CPAsZH/0Zs=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=64532\nfileID=278062",
         "Name": "Oxygen Meter 2 SE-64532-1-0-5-1650292086.7z",
@@ -4294,6 +4441,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "FcdGPQSZSOA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59049\nfileID=244329",
+        "Name": "Survival Mode - Disable By Default-59049-1-0-0-1637864324.zip",
+        "Size": 5167,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Parapets",
+          "Description": "Get rid of the prompt that asks you if you want to enable Survival Mode at the start of a new game. Includes options to enable by default, disable by default, or permanently disable the mode.",
+          "FileID": 244329,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59049/59049-1637864225-1139368346.png",
+          "IsNSFW": false,
+          "ModID": 59049,
+          "Name": "Survival Mode Prompt Removed",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "RRpbaV8QjIc=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=44969\nfileID=182439",
         "Name": "True Teacher Durnehviir-44969-1-0-1611862156.7z",
@@ -4478,21 +4646,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "oQ7FI7zf1RU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=289650",
-        "Name": "Assorted Mesh Fixes-32117-0-59-1654676754.7z",
-        "Size": 14131583,
+        "Hash": "8q4VodsPWIc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=294409",
+        "Name": "Assorted mesh fixes-32117-0-65-1656315475.7z",
+        "Size": 15013135,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wankingSkeever",
           "Description": "Fixes various issues with vanilla Skyrim meshes that causes them to render incorrectly",
-          "FileID": 289650,
+          "FileID": 294409,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32117/32117-1612599331-161051453.png",
           "IsNSFW": false,
           "ModID": 32117,
           "Name": "Assorted mesh fixes",
-          "Version": "0.59.0.0"
+          "Version": "0.65.0.0"
         }
       }
     },
@@ -4961,6 +5129,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "I7fCdVRRDHw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=69558\nfileID=291072",
+        "Name": "Glowing Mushroom Collision Fixes - Skyrim Particle Patch Compatible-69558-1-0-0-1655153037.7z",
+        "Size": 64118,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "sync67",
+          "Description": "Fixes the infuriatingly difficult to pick glowing mushrooms. No more mashing keys, or trying to select the tiny tendrils with surgical precision! Large, easy to select hitboxes make picking these a breeze. (No .ESP)",
+          "FileID": 291072,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69558/69558-1655236499-105970569.png",
+          "IsNSFW": false,
+          "ModID": 69558,
+          "Name": "Glowing Mushroom Collision Fixes",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "rLy+D2OI+Kg=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=11052\nfileID=219005",
         "Name": "DynDoLod V 3.0 Lod pack-11052-1-1-1628175173.7z",
@@ -5100,21 +5289,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "N3IAlzBnBvs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=49259\nfileID=252310",
-        "Name": "Major Cities Mesh Overhaul SE-49259-1-0a-1640722091.rar",
-        "Size": 49657066,
+        "Hash": "lSni7vYE6gA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=49259\nfileID=289515",
+        "Name": "Major Cities Mesh Overhaul SE-49259-1-2-1654621184.rar",
+        "Size": 51877879,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "raiserfx",
           "Description": "This mod does improve meshes and also some textures of many buildings, terrain meshes and other objects, which are used in the major cities of Skyrim.",
-          "FileID": 252310,
+          "FileID": 289515,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49259/49259-1619947210-1240321281.jpeg",
           "IsNSFW": false,
           "ModID": 49259,
           "Name": "Major Cities Mesh Overhaul",
-          "Version": "1.0.0.0a"
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -5226,21 +5415,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wv3wxck+eFQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42756\nfileID=288864",
-        "Name": "Hotfix to 3.2.6-42756-3-2-6-1654396546.7z",
-        "Size": 23187144,
+        "Hash": "ZXC7purwazw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42756\nfileID=291924",
+        "Name": "Hotfix to 3.2.7-42756-3-2-7-1655519903.7z",
+        "Size": 66384006,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Iconic",
           "Description": "High resolution AI up-scaled effects textures, for every single effect",
-          "FileID": 288864,
+          "FileID": 291924,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42756/42756-1606331284-1361885254.png",
           "IsNSFW": false,
           "ModID": 42756,
           "Name": "Project Clarity - Effects Textures Redone",
-          "Version": "3.2.6.0"
+          "Version": "3.2.7.0"
         }
       }
     },
@@ -5304,6 +5493,27 @@
           "ModID": 55856,
           "Name": "Radiant - Candles (ENB Lights)",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5bID7i0bAJQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=69588\nfileID=291015",
+        "Name": "Read Or Take SKSE-69588-1-0-1-1655137975.7z",
+        "Size": 270565,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "Simple SKSE plugin that allows you to read OR take books",
+          "FileID": 291015,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69588/69588-1655089970-264818889.png",
+          "IsNSFW": false,
+          "ModID": 69588,
+          "Name": "Read Or Take SKSE",
+          "Version": "1.0.1.0"
         }
       }
     },
@@ -5512,6 +5722,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "LQoHR+X5l7o=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=17729\nfileID=57227",
+        "Name": "SkyUI - Survival Mode-17729-1-1-1.zip",
+        "Size": 90639,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GonDragon",
+          "Description": "Small UI change for SkyUI that let it show the Warmth Value of the items. It will only show it if Survival Mode is enabled.",
+          "FileID": 57227,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17729/17729-1527969385-533414043.png",
+          "IsNSFW": false,
+          "ModID": 17729,
+          "Name": "SkyUI - Survival Mode Integration",
+          "Version": "1.1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "ypnYS6hvC1c=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=36869\nfileID=245335",
         "Name": "Spell Perk Item Distributor - SSE-36869-5-2-0-1638188435.7z",
@@ -5533,21 +5764,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uhI6MmC1Hww=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=34705\nfileID=255184",
-        "Name": "SSE Display Tweaks-34705-0-5-9-1641693323.zip",
-        "Size": 416833,
+        "Hash": "k4DFe5ruKVM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=34705\nfileID=290487",
+        "Name": "SSE Display Tweaks-34705-0-5-10-1654974444.zip",
+        "Size": 364941,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SlavicPotato",
           "Description": "All-in-one solution for smooth FPS-unlocked gameplay. Includes a physics fix, borderless fullscreen performance boost, refresh rate control, highly configurable frame rate limiting, various bugfixes and more.",
-          "FileID": 255184,
+          "FileID": 290487,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34705/34705-1586796582-2125322633.png",
           "IsNSFW": false,
           "ModID": 34705,
           "Name": "SSE Display Tweaks",
-          "Version": "0.5.9.0"
+          "Version": "0.5.10.0"
         }
       }
     },
@@ -5590,6 +5821,27 @@
           "ModID": 19832,
           "Name": "Stay At The System Page - Updated",
           "Version": "1.5.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "81PqEAjgjTo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=57138\nfileID=291833",
+        "Name": "Thaumaturgy - Weapon Enchantment XP Tweak-57138-1-0-0-1655486482.7z",
+        "Size": 296781,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Simon Magus - DeltaRider - Oreo - Hypebringer",
+          "Description": "Thaumaturgy is a complete overhaul of Skyrim\u2019s enchanting system designed to balance existing enchantments and add powerful new weapon and armor enchantments to the game.",
+          "FileID": 291833,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57138/57138-1634395887-1497209698.png",
+          "IsNSFW": false,
+          "ModID": 57138,
+          "Name": "Thaumaturgy - An Enchanting Overhaul",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -6966,6 +7218,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "uKsaKDF0gC0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=61001\nfileID=252774",
+        "Name": "Matching CC Draugr Weapons-61001-1-1640906271.7z",
+        "Size": 3513822,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Briraka",
+          "Description": "A retexture of the Draugr Weapons added by the Fishing CC to better match the base game\u0027s coloration.",
+          "FileID": 252774,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61001/61001-1640905371-1971099933.png",
+          "IsNSFW": false,
+          "ModID": 61001,
+          "Name": "Matching CC Draugr Weapons",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "VcFsM1OW+h0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=22480\nfileID=77742",
         "Name": "Nixhound Eyes Fix-22480-1-0-1547051275.zip",
@@ -7050,90 +7323,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "tiyExJiOV9c=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42859\nfileID=188727",
-        "Name": "Project Clarity - Clothing And Jewelry Half Resolution-42859-1-1-1614577435.7z",
-        "Size": 1023218609,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "High resolution AI up-scaled clothing \u0026amp; jewelry textures, for every single piece of clothing and jewelry",
-          "FileID": 188727,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42859/42859-1606613179-982611889.png",
-          "IsNSFW": false,
-          "ModID": 42859,
-          "Name": "Project Clarity - Vanilla Clothing And Jewelry Textures Redone",
-          "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cuyvwGURDts=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43401\nfileID=188794",
-        "Name": "Project Clarity - Clutter Half Res-43401-1-2-1614609208.7z",
-        "Size": 1951293165,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "Thousands of textures covering hundreds of objects, this upscales all the clutter in Skyrim. Guaranteed to cover many things you didn\u0027t know you were missing.",
-          "FileID": 188794,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43401/43401-1608153976-258395948.png",
-          "IsNSFW": false,
-          "ModID": 43401,
-          "Name": "Project Clarity - Clutter Textures Redone",
-          "Version": "1.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PKqirpiRByg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=41998\nfileID=281244",
-        "Name": "Project Clarity - Creatures Half Res-41998-1-8-1651547511.7z",
-        "Size": 1257189765,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "High resolution AI up-scaled creature textures, for every single creature",
-          "FileID": 281244,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41998/41998-1604439666-1249755764.png",
-          "IsNSFW": false,
-          "ModID": 41998,
-          "Name": "Project Clarity - Creature Textures Redone",
-          "Version": "1.8.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "S11NxswdIvo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45135\nfileID=183362",
-        "Name": "Project Clarity - Dungeons Half Res-45135-1-0-1612196348.7z",
-        "Size": 1681864827,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "Upscaled dungeon textures",
-          "FileID": 183362,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45135/45135-1612153673-1485954791.png",
-          "IsNSFW": false,
-          "ModID": 45135,
-          "Name": "Project Clarity - Dungeon Textures Redone",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "A9DhqnLlWSA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=45286\nfileID=188619",
         "Name": "Project Clarity - Landscapes Half Res-45286-1-3-1614542418.7z",
@@ -7202,6 +7391,69 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "tiyExJiOV9c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42859\nfileID=188727",
+        "Name": "Project Clarity - Clothing And Jewelry Half Resolution-42859-1-1-1614577435.7z",
+        "Size": 1023218609,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "High resolution AI up-scaled clothing \u0026amp; jewelry textures, for every single piece of clothing and jewelry",
+          "FileID": 188727,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42859/42859-1606613179-982611889.png",
+          "IsNSFW": false,
+          "ModID": 42859,
+          "Name": "Project Clarity - Vanilla Clothing And Jewelry Textures Redone",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cuyvwGURDts=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43401\nfileID=188794",
+        "Name": "Project Clarity - Clutter Half Res-43401-1-2-1614609208.7z",
+        "Size": 1951293165,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "Thousands of textures covering hundreds of objects, this upscales all the clutter in Skyrim. Guaranteed to cover many things you didn\u0027t know you were missing.",
+          "FileID": 188794,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43401/43401-1608153976-258395948.png",
+          "IsNSFW": false,
+          "ModID": 43401,
+          "Name": "Project Clarity - Clutter Textures Redone",
+          "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "S11NxswdIvo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45135\nfileID=183362",
+        "Name": "Project Clarity - Dungeons Half Res-45135-1-0-1612196348.7z",
+        "Size": 1681864827,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "Upscaled dungeon textures",
+          "FileID": 183362,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45135/45135-1612153673-1485954791.png",
+          "IsNSFW": false,
+          "ModID": 45135,
+          "Name": "Project Clarity - Dungeon Textures Redone",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "l/34Syb1rXg=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Interface.bsa",
         "Name": "Data_Skyrim - Interface.bsa",
@@ -7214,10 +7466,31 @@
           "Hash": "l/34Syb1rXg="
         }
       }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PKqirpiRByg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=41998\nfileID=281244",
+        "Name": "Project Clarity - Creatures Half Res-41998-1-8-1651547511.7z",
+        "Size": 1257189765,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "High resolution AI up-scaled creature textures, for every single creature",
+          "FileID": 281244,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41998/41998-1604439666-1249755764.png",
+          "IsNSFW": false,
+          "ModID": 41998,
+          "Name": "Project Clarity - Creature Textures Redone",
+          "Version": "1.8.0.0"
+        }
+      }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/90b9afa8899020fe_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/90b9afa8899020fe_large.webp"
 }
