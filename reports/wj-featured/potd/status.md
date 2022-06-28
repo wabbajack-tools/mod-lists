@@ -1,11 +1,10 @@
 ## Validation Report - Path of the Dovahkiin (wj-featured/potd)
 
 
-### Invalid (1)
-*  [Smooth Combat Animation by Race.7z](https://blog.kakaocdn.net/dn/cc2DCv/btq75DwB45E/Ngh6JToG1d7rL8IOwblKLk/Smooth Combat Animation by Race.7z?attach=1&knm=tfile.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (520)
+### Valid (521)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -425,6 +424,7 @@
 *  [SkyUI_5_2_SE-12604-5-2SE.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12604/?tab=files&file_id=35407)
 *  [SLO - Stone Walls Collision Fix-34082-1-0-1585359247.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34082/?tab=files&file_id=130919)
 *  [SMIM SE 2-08-659-2-08.7z](https://www.nexusmods.com/skyrimspecialedition/mods/659/?tab=files&file_id=59069)
+*  [Smooth Combat Animation by Race.7z](https://blog.kakaocdn.net/dn/cc2DCv/btq75DwB45E/Ngh6JToG1d7rL8IOwblKLk/Smooth Combat Animation by Race.7z?attach=1&knm=tfile.7z)
 *  [Smooth Combat Non Combat Animation.7z](https://blog.kakaocdn.net/dn/9Tn0e/btq6pI8JGgq/RMxvJoTOF071qWFu9pc04k/Smooth Combat Non Combat Animation.7z?attach=1&knm=tfile.7z)
 *  [Smooth Magic Casting Animation 3.2.7z](https://blog.kakaocdn.net/dn/cyDuii/btq74ntfh9i/FwXmgAkFKizXGmtyVpscZK/Smooth Magic Casting Animation 3.2.7z?attach=1&knm=tfile.7z)
 *  [Smooth Random Blocking Animation.7z](https://mega.nz/file/4LxGTALK#7I8XPLnIW0PxR_r_nXMP-9ZUnZ16MlFVMdFdgGy-gF0)
