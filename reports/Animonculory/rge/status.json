@@ -2,7 +2,7 @@
   "MachineURL": "Animonculory/rge",
   "Name": "Relics of Hyrule - GAT Edition",
   "Version": "2.3.7.1",
-  "ModListHash": "dDUhnX007GY=",
+  "ModListHash": "P7io5bYzZ2U=",
   "Archives": [
     {
       "Status": "Valid",
@@ -66,12 +66,12 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
-        "Hash": "v1aK6iCHYs8=",
+        "Hash": "jd0P+E2VtwA=",
         "Meta": "[General]\ndirectURL=https://skse.silverlock.org/beta/skse64_2_00_20.7z",
         "Name": "skse64_2_00_20.7z",
-        "Size": 813935,
+        "Size": 834815,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
@@ -5088,6 +5088,27 @@
           "ModID": 41252,
           "Name": "SmoothCam",
           "Version": "1.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "NixLuKf931w=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43618\nfileID=178021",
+        "Name": "SNIFF Simple No Internal Friendly Fire-43618-1-2-1609958416.7z",
+        "Size": 4681,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KeiZero",
+          "Description": "This Mod nullify Damage and Spell Magnitude from weapon and offensive spells between the Player and Followers,Summons,Undead and Allies, also Between Followers and the player,Summons,Undead and Allies. This mod should be compatible with almost everything with no conflicts, but in any case there is an extensive MCM that you can fine tune everything",
+          "FileID": 178021,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43618/43618-1608764331-1950401789.png",
+          "IsNSFW": false,
+          "ModID": 43618,
+          "Name": "SNIFF - Simple No Internal Friendly Fire",
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -19318,8 +19339,8 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Animonculory/f543387c5d3f76cd_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Animonculory/f543387c5d3f76cd_large.webp"
 }
