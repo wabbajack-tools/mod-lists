@@ -1,22 +1,15 @@
 ## Validation Report - Masterstroke (ForgottenGlory/masterstroke)
 
 
-### Invalid (12)
-*  1868227199_SLAL_Billyy_Animationsv5.7SE.7z
-*  3BA for MME.zip
-*  Anub H 3.2021.7z
-*  DD_Helpers_1_04_8.7z
-*  Deviously Enchanted Chests SE 3.11.7z
-*  Gossip - 0.952.zip
+### Invalid (5)
+*  JKMilkMod.7z
 *  Sexlab BJ Sound FX replacerv0.1.rar
-*  Sexlab Framework Sound Replacer AIO.7z
-*  Simple Slavery Plus Plus 6.3.15 [SE].zip
 *  SlaveTats CumTextures Remake v1.2.5.7z
 *  SOS - Futanari - Patch for CBBE SE Femenine Argonian Textures (Lizard ONLY).7z
 *  SOS - Futanari - Patch for CBBE SE Femenine Khajiit Textures (Gray Cat ONLY).7z
 ### Updated (0)
 ### Mirrored (0)
-### Valid (882)
+### Valid (889)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -31,6 +24,7 @@
 *  [(SJG) Quick Light Patch-19879-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19879/?tab=files&file_id=65715)
 *  [04 - Leyenda Skin 4.0 CBBE 4K SSE-10306-4-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10306/?tab=files&file_id=27370)
 *  [1. Majestic Mountains Main File-11052-3-2-1604048751.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=167707)
+*  1868227199_SLAL_Billyy_Animationsv5.7SE.7z
 *  2022_06_12_The Trappings of Fate v0.3.0.7z
 *  [2K SMIM Furniture Chest-33369-1-1-1603195093.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33369/?tab=files&file_id=166288)
 *  [2K SMIM Large Ruins Chest WEATHERED-33052-1-1-1582884219.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33052/?tab=files&file_id=126281)
@@ -43,6 +37,7 @@
 *  [2K-4K. Ver.1 New Nocturnal Statue SE-56353-1-0-0-1633461807.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56353/?tab=files&file_id=232828)
 *  [2K. New Mara Statue SE-53520-1-0-0-1628894173.rar](https://www.nexusmods.com/skyrimspecialedition/mods/53520/?tab=files&file_id=220991)
 *  [3BA 3BBB CBPC RFBBT v2.1-59123-2-1-1638483984.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59123/?tab=files&file_id=246165)
+*  3BA for MME.zip
 *  [3BA Vanilla-51610-1-9-5-1635315490.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51610/?tab=files&file_id=237298)
 *  [4K (Reccomended)-38577-1-0-1595500546.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38577/?tab=files&file_id=151747)
 *  [4K. Dawnbreaker Pedestal Meridia Retexture. Clean-54982-1-1-0-1630766061.rar](https://www.nexusmods.com/skyrimspecialedition/mods/54982/?tab=files&file_id=226100)
@@ -74,6 +69,7 @@
 *  [Angelic Halos and Demonic Horns-1971-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1971/?tab=files&file_id=2329)
 *  [Animated Forge Water-52322-0-5-1639536098.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52322/?tab=files&file_id=249209)
 *  [Animated Static Reload Fix - SSE-53761-v1-01-1629257292.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53761/?tab=files&file_id=221989)
+*  Anub H 3.2021.7z
 *  [Apoapse's RoL Patch-45268-v1-0-1612423981.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45268/?tab=files&file_id=183916)
 *  [Apothecary - An Alchemy Overhaul-52130-1-2-3-1639346507.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=248650)
 *  [Archery 2.5-10926-2-5.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10926/?tab=files&file_id=55877)
@@ -216,10 +212,12 @@
 *  [Database for 1.5.97.0-32444-2-1582543829.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32444/?tab=files&file_id=125645)
 *  [Day7 Chub to Snu-61246-1-1-1641275856.rar](https://www.nexusmods.com/skyrimspecialedition/mods/61246/?tab=files&file_id=253787)
 *  [DBArmorSE-57539-1-1635271446.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57539/?tab=files&file_id=237218)
+*  DD_Helpers_1_04_8.7z
 *  [Dead Shrubs Replacer-33842-1-2-1-1622375193.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33842/?tab=files&file_id=206356)
 *  [Deiform Alduin 4K-44329-1-1-1621189306.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44329/?tab=files&file_id=203882)
 *  [Demoniac CBBE v1.12-29114-1-12b-1569149485.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29114/?tab=files&file_id=107769)
 *  [Devious Devices [SE][AE][VR] 5.2 Beta 6.7z](https://mega.nz/file/NX43RSxT#lQZx7C9ftiXPlVzzVn_HXYmt9P3WfXlq5hDUn2NNgp4)
+*  Deviously Enchanted Chests SE 3.11.7z
 *  [Diamond CBBE 3BA Bodyslide v1.1-48916-1-1-1633108262.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48916/?tab=files&file_id=231884)
 *  [Diamond Textures CBBE-45718-1-9-3-1635096135.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45718/?tab=files&file_id=236821)
 *  [Diefferent animations for different races version-41874-1-0-1604095584.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41874/?tab=files&file_id=167839)
@@ -352,6 +350,7 @@
 *  [Glorious Doors of Skyrim SE - Update 1.04-32376-1-04-1584774890.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32376/?tab=files&file_id=129661)
 *  [Glorious Doors of Skyrim SE-32376-1-03-1584773006.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32376/?tab=files&file_id=129655)
 *  [Google's Locked City Gates-13133-1-0-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/13133/?tab=files&file_id=61529)
+*  Gossip - 0.952.zip
 *  [Grass Control v6-42161-6-1607532895.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42161/?tab=files&file_id=173957)
 *  [Greek Goddess - All in One-24201-4-0-1602736952.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24201/?tab=files&file_id=165596)
 *  [GreekGod Preset-54349-1-0-1629674561.rar](https://www.nexusmods.com/skyrimspecialedition/mods/54349/?tab=files&file_id=223053)
@@ -446,7 +445,6 @@
 *  [JK's Skyrim all in one-6289-1-7-1614998676.zip](https://www.nexusmods.com/skyrimspecialedition/mods/6289/?tab=files&file_id=189705)
 *  [JK's Skyrim SE Clockwork Patch-6289-1-0-1552104168.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6289/?tab=files&file_id=84314)
 *  [JK's Skyrim SE Skyrim 3D Trees Patch-6289-1-1-1564799596.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6289/?tab=files&file_id=101676)
-*  JKMilkMod.7z
 *  [JS Dragon Claws AE Anniversary Edition - 2k-57038-1-1-1637437886.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57038/?tab=files&file_id=242999)
 *  [JS Purses and Septims SE - FOMOD-37306-1-2-1626039809.rar](https://www.nexusmods.com/skyrimspecialedition/mods/37306/?tab=files&file_id=214078)
 *  [JS Shrines of the Divines SE - 2K-33394-1-2-1626112892.rar](https://www.nexusmods.com/skyrimspecialedition/mods/33394/?tab=files&file_id=214217)
@@ -691,6 +689,7 @@
 *  Sex Lab - Sexual Fame 0.99.rar
 *  Sexlab Baka Defeat.7z
 *  SexLab EagerNPCSERev2.7z
+*  Sexlab Framework Sound Replacer AIO.7z
 *  SexLab Solutions v3 - Revisited SE v1.1.5.7z
 *  SexLab-Separate-Orgasm-SE-1.7.9 SL1.63.7z
 *  [SexLabAroused Redux V28b SSE Modified by BakaFactory(2020 11 17)).7z](https://authored-files.wabbajack.org/SexLabAroused Redux V28b SSE Modified by BakaFactory(2020 11 17)).7z_b3765932-fe0d-4da6-904a-273ff258b903)
@@ -701,6 +700,7 @@
 *  [Sheps Tattoo Collection SE-22636-2-0-1547659218.rar](https://www.nexusmods.com/skyrimspecialedition/mods/22636/?tab=files&file_id=78523)
 *  [Simple Dual Sheath-50049-1-5-1-1637652931.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=243656)
 *  [Simple Outfit System-48974-0-2-3-1622825158.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48974/?tab=files&file_id=207223)
+*  Simple Slavery Plus Plus 6.3.15 [SE].zip
 *  [SimpleAddItems-32319-2-0-1580701739.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32319/?tab=files&file_id=122474)
 *  [Simplicity of Snow-56235-0-5-1639830611.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56235/?tab=files&file_id=250047)
 *  [Simply Balanced - 1.4.6-15541-1-4-6-1631273416.zip](https://www.nexusmods.com/skyrimspecialedition/mods/15541/?tab=files&file_id=227380)
