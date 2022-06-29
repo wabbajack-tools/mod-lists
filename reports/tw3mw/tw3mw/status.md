@@ -1,10 +1,11 @@
 ## Validation Report - The Witcher 3 - My Way (tw3mw/tw3mw)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [bsbah_ladyofthelake.rar](https://www.patreon.com/file?h=63982317&i=10309524)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1000)
+### Valid (999)
 *  [-Immersive Wildlife Project--3527-1-1563313441.zip](https://www.nexusmods.com/witcher3/mods/3527/?tab=files&file_id=24973)
 *  [1.1- Yennefer of Vengerberg 4K - Curvy Version-4018-4-6-1626788002.7z](https://www.nexusmods.com/witcher3/mods/4018/?tab=files&file_id=36423)
 *  [2- Triss Merigold 4K - Blue Eyes Version-4018-4-7-1626769336.7z](https://www.nexusmods.com/witcher3/mods/4018/?tab=files&file_id=36420)
@@ -91,7 +92,6 @@
 *  [Blitz Igni-6447-0-1-1-1648593848.zip](https://www.nexusmods.com/witcher3/mods/6447/?tab=files&file_id=39379)
 *  [BlitzFX-6447-0-3-3-1651165430.zip](https://www.nexusmods.com/witcher3/mods/6447/?tab=files&file_id=39727)
 *  [Bricks and Roofs of W2-3410-1-0-1543851133.7z](https://www.nexusmods.com/witcher3/mods/3410/?tab=files&file_id=22878)
-*  [bsbah_ladyofthelake.rar](https://www.patreon.com/file?h=63982317&i=10309524)
 *  [C1. Children of the Continent-5710-1-0-1620777532.rar](https://www.nexusmods.com/witcher3/mods/5710/?tab=files&file_id=35582)
 *  [CCS-5736-1-0-1621602618.rar](https://www.nexusmods.com/witcher3/mods/5736/?tab=files&file_id=35741)
 *  [cheaperrepair-3046-1-2-1587686903.zip](https://www.nexusmods.com/witcher3/mods/3046/?tab=files&file_id=29732)
