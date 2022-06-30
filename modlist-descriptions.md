@@ -152,12 +152,10 @@ _**What awaits you:**_
 - And much more.
 
 _**Some of the juiciest additions for you to learn about:**_
-- [Pi-CHO ENB](https://www.nexusmods.com/skyrimspecialedition/mods/35082), [Seasonal Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/66903) and [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961);
+- [PI-CHO ENB](https://www.nexusmods.com/skyrimspecialedition/mods/35082), [Seasonal Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/66903) and [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961);
 - [JPSteel2](https://www.nexusmods.com/skyrimspecialedition/users/19519279?tab=user+files)'s, [JK](https://www.nexusmods.com/skyrimspecialedition/users/1305814?tab=user+files)'s and [soldierofwar](https://www.nexusmods.com/skyrimspecialedition/users/10182460?tab=user+files)'s Skyrim overhauls;
-- Creation Content like [The Cause](https://en.uesp.net/wiki/Skyrim:The_Cause), [The Forgotten Seasons](https://en.uesp.net/wiki/Skyrim:Forgotten_Seasons) and [Spell Knight Armor](https://en.uesp.net/wiki/Skyrim:Spell_Knight_Armor);
+- Creation Content like [The Cause](https://en.uesp.net/wiki/Skyrim:The_Cause), [The Forgotten Seasons](https://en.uesp.net/wiki/Skyrim:Forgotten_Seasons) and Alternative Armors;
 - [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194).
-
-Look [here](https://www.nexusmods.com/skyrimspecialedition/mods/51973) to learn more.
 
 ***
 
