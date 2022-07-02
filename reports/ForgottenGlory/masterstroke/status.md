@@ -1,16 +1,10 @@
 ## Validation Report - Masterstroke (ForgottenGlory/masterstroke)
 
 
-### Invalid (6)
-*  1600063388_SLAL_Billyy_Animationsv5.8SE.7z
-*  Anub H 3.2021.7z
-*  DD_Helpers_1_04_8.7z
-*  Deviously Enchanted Chests SE 3.11.7z
-*  Fill Her Up Baka Edition.7z
-*  State of Dress - 1.0.3.zip
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (888)
+### Valid (894)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -25,6 +19,7 @@
 *  [(SJG) Quick Light Patch-19879-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19879/?tab=files&file_id=65715)
 *  [04 - Leyenda Skin 4.0 CBBE 4K SSE-10306-4-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10306/?tab=files&file_id=27370)
 *  [1. Majestic Mountains Main File-11052-3-2-1604048751.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=167707)
+*  1600063388_SLAL_Billyy_Animationsv5.8SE.7z
 *  2022_06_12_The Trappings of Fate v0.3.0.7z
 *  [2K SMIM Furniture Chest-33369-1-1-1603195093.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33369/?tab=files&file_id=166288)
 *  [2K SMIM Large Ruins Chest WEATHERED-33052-1-1-1582884219.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33052/?tab=files&file_id=126281)
@@ -69,6 +64,7 @@
 *  [Angelic Halos and Demonic Horns-1971-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1971/?tab=files&file_id=2329)
 *  [Animated Forge Water-52322-0-5-1639536098.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52322/?tab=files&file_id=249209)
 *  [Animated Static Reload Fix - SSE-53761-v1-01-1629257292.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53761/?tab=files&file_id=221989)
+*  Anub H 3.2021.7z
 *  [Apoapse's RoL Patch-45268-v1-0-1612423981.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45268/?tab=files&file_id=183916)
 *  [Apothecary - An Alchemy Overhaul-52130-1-2-3-1639346507.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=248650)
 *  [Archery 2.5-10926-2-5.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10926/?tab=files&file_id=55877)
@@ -211,10 +207,12 @@
 *  [Database for 1.5.97.0-32444-2-1582543829.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32444/?tab=files&file_id=125645)
 *  [Day7 Chub to Snu-61246-1-1-1641275856.rar](https://www.nexusmods.com/skyrimspecialedition/mods/61246/?tab=files&file_id=253787)
 *  [DBArmorSE-57539-1-1635271446.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57539/?tab=files&file_id=237218)
+*  DD_Helpers_1_04_8.7z
 *  [Dead Shrubs Replacer-33842-1-2-1-1622375193.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33842/?tab=files&file_id=206356)
 *  [Deiform Alduin 4K-44329-1-1-1621189306.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44329/?tab=files&file_id=203882)
 *  [Demoniac CBBE v1.12-29114-1-12b-1569149485.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29114/?tab=files&file_id=107769)
 *  [Devious Devices [SE][AE][VR] 5.2 Beta 6.7z](https://mega.nz/file/NX43RSxT#lQZx7C9ftiXPlVzzVn_HXYmt9P3WfXlq5hDUn2NNgp4)
+*  Deviously Enchanted Chests SE 3.11.7z
 *  [Diamond CBBE 3BA Bodyslide v1.1-48916-1-1-1633108262.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48916/?tab=files&file_id=231884)
 *  [Diamond Textures CBBE-45718-1-9-3-1635096135.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45718/?tab=files&file_id=236821)
 *  [Diefferent animations for different races version-41874-1-0-1604095584.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41874/?tab=files&file_id=167839)
@@ -309,6 +307,7 @@
 *  [fencewoven extra natural wood-10921-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/10921/?tab=files&file_id=29414)
 *  [Feral SSE - Shadow of the Beast v2.0-34552-2-0-1625836752.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34552/?tab=files&file_id=213528)
 *  [FileAccess Interface for Skyrim SE Scripts - FISSES-13956-1-3-7-1574615841.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13956/?tab=files&file_id=114287)
+*  Fill Her Up Baka Edition.7z
 *  [Finding Susanna Alive-32512-1-0-1581844989.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32512/?tab=files&file_id=124236)
 *  [First Person Sneak Strafe-Walk Stutter Fix-31165-1-0-1577054070.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31165/?tab=files&file_id=117079)
 *  [Fixed body collision-10849-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/10849/?tab=files&file_id=29097)
@@ -774,6 +773,7 @@
 *  [SSE Display Tweaks-34705-0-4-15-1-1623522047.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34705/?tab=files&file_id=208797)
 *  [SSEEdit 4_0_3-164-4-0-3-1575326827.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164/?tab=files&file_id=115017)
 *  [SSoS - Installer Fix-3375-v1-5.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3375/?tab=files&file_id=9840)
+*  State of Dress - 1.0.3.zip
 *  [Stay At System Page-19832-1-5-0-1583022131.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19832/?tab=files&file_id=126538)
 *  steam_api64.dll
 *  [Stoja's HighRes Plugin-19020-1-1.rar](https://www.nexusmods.com/skyrimspecialedition/mods/19020/?tab=files&file_id=61724)
