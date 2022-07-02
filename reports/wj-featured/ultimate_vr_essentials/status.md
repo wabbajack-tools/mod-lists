@@ -1,11 +1,10 @@
 ## Validation Report - Ultimate VR Essentials (wj-featured/ultimate_vr_essentials)
 
 
-### Invalid (1)
-*  [enbseries_skyrimvr_v0375.zip](http://enbdev.com/enbseries_skyrimvr_v0375.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (781)
+### Valid (782)
 *  [(1) Pine Branches Redone 8K-45294-3-0-1637522602.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45294/?tab=files&file_id=243288)
 *  [1. Majestic Mountains Main File-11052-3-2-1604048751.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=167707)
 *  [1st Person Candlelight Fix-9736-1-0-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9736/?tab=files&file_id=25327)
@@ -271,6 +270,7 @@
 *  [ELE SE - Legacy of the Dragonborn patch-1377-1-1-1572390813.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1377/?tab=files&file_id=111821)
 *  [Embers HD-14368-1-41-1599751061.zip](https://www.nexusmods.com/skyrimspecialedition/mods/14368/?tab=files&file_id=160041)
 *  [ENB Helper VR-25142-1-0-0-1555617161.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25142/?tab=files&file_id=88880)
+*  [enbseries_skyrimvr_v0375.zip](http://enbdev.com/enbseries_skyrimvr_v0375.zip)
 *  [Engine Fixes VR v1.22a-62089-v1-22a-1642433292.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62089/?tab=files&file_id=257472)
 *  [Enhanced Lights and FX-2424-3-06.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2424/?tab=files&file_id=35608)
 *  [Enhanced Reanimation SE-43500-1-4-0-1638156734.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43500/?tab=files&file_id=245264)
