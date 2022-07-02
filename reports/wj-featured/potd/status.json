@@ -2,7 +2,7 @@
   "MachineURL": "wj-featured/potd",
   "Name": "Path of the Dovahkiin",
   "Version": "1.3.0",
-  "ModListHash": "t5uPrLpAu7U=",
+  "ModListHash": "hcAOLCOGJnk=",
   "Archives": [
     {
       "Status": "Valid",
@@ -6414,13 +6414,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "c3A1SMUZMVA=",
-        "Meta": "[General]\ndirectURL=https://github.com/Ryan-rsm-McKenzie/QuickLootRE/releases/download/2.8.6/QuickLootRE.zip",
-        "Name": "QuickLootRE.zip",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=21085\nfileID=177675",
+        "Name": "QuickLootRE-21085-2-8-6-1609752312.zip",
         "Size": 317899,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Ryan-rsm-McKenzie/QuickLootRE/releases/download/2.8.6/QuickLootRE.zip"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ryan",
+          "Description": "This mod adds a looting menu akin to the one present in FO4.",
+          "FileID": 177675,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21085/21085-1541663066-2058527066.png",
+          "IsNSFW": false,
+          "ModID": 21085,
+          "Name": "Quick Loot RE",
+          "Version": "2.8.6.0"
         }
       }
     },

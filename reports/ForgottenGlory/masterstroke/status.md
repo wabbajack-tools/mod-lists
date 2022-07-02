@@ -1,11 +1,10 @@
 ## Validation Report - Masterstroke (ForgottenGlory/masterstroke)
 
 
-### Invalid (1)
-*  1868227199_SLAL_Billyy_Animationsv5.7SE.7z
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (893)
+### Valid (894)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -20,6 +19,7 @@
 *  [(SJG) Quick Light Patch-19879-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19879/?tab=files&file_id=65715)
 *  [04 - Leyenda Skin 4.0 CBBE 4K SSE-10306-4-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10306/?tab=files&file_id=27370)
 *  [1. Majestic Mountains Main File-11052-3-2-1604048751.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=167707)
+*  1600063388_SLAL_Billyy_Animationsv5.8SE.7z
 *  2022_06_12_The Trappings of Fate v0.3.0.7z
 *  [2K SMIM Furniture Chest-33369-1-1-1603195093.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33369/?tab=files&file_id=166288)
 *  [2K SMIM Large Ruins Chest WEATHERED-33052-1-1-1582884219.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33052/?tab=files&file_id=126281)

@@ -760,7 +760,7 @@
 *  [Quest NPCs Run-21103-1-12-1623072158.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21103/?tab=files&file_id=207937)
 *  [Quick Light SE-12633-2-2-1575553166.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12633/?tab=files&file_id=115255)
 *  [Quick Mass Follower Commands-51362-0-1-1624065676.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51362/?tab=files&file_id=209845)
-*  [QuickLootRE.zip](https://github.com/Ryan-rsm-McKenzie/QuickLootRE/releases/download/2.8.6/QuickLootRE.zip)
+*  [QuickLootRE-21085-2-8-6-1609752312.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21085/?tab=files&file_id=177675)
 *  [R88_ESLify-42211-0-2-1605073948.rar](https://www.nexusmods.com/skyrimspecialedition/mods/42211/?tab=files&file_id=169561)
 *  [RaceMenu High Heels Fixes-18045-1-3-1552859840.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18045/?tab=files&file_id=85313)
 *  [RaceMenu Special Edition v0-4-14-19080-0-4-14-1597081311.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19080/?tab=files&file_id=154908)

@@ -356,7 +356,7 @@
 *  [Pretty Gems-15415-2-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/15415/?tab=files&file_id=46598)
 *  [Pride of Skyrim - AIO FOMOD-48904-1-0-1619066017.zip](https://www.nexusmods.com/skyrimspecialedition/mods/48904/?tab=files&file_id=199544)
 *  [Quick Light SE-12633-2-2-1575553166.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12633/?tab=files&file_id=115255)
-*  [QuickLootRE.zip](https://github.com/Ryan-rsm-McKenzie/QuickLootRE/releases/download/2.8.6/QuickLootRE.zip)
+*  [QuickLootRE-21085-2-8-6-1609752312.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21085/?tab=files&file_id=177675)
 *  [RaceMenu Special Edition v0-4-16-19080-0-4-16-1601805673.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19080/?tab=files&file_id=163861)
 *  [Rain Barrel Fix and Retexture-13522-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13522/?tab=files&file_id=39748)
 *  [Rally's Solstheim AIO-36893-1-1-1617914523.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36893/?tab=files&file_id=196957)
