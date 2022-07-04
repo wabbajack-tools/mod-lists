@@ -1,8 +1,8 @@
 {
   "MachineURL": "FO4ME/FO4ME",
   "Name": "Fallout 4 Modding Essentials",
-  "Version": "1.0.5",
-  "ModListHash": "ZAn0GcJNbKA=",
+  "Version": "1.0.6",
+  "ModListHash": "9qxezKXtIfA=",
   "Archives": [
     {
       "Status": "Valid",
@@ -467,6 +467,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Xr08nO0XNAU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=61437\nfileID=241089",
+        "Name": "LKR and WSW Weapon Patches-61437-1-2-1655760195.7z",
+        "Size": 2537846,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Gozer",
+          "Description": "Patches for weapons to be used with \u0022Lively\u0027s Keyword Resource\u0022 by Livelynightmare AKA Lively, and \u0022Standalone Workbenches\u0022 by bionicyardiff AKA Whisper.",
+          "FileID": 241089,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/61437/61437-1655591700-1371535766.png",
+          "IsNSFW": false,
+          "ModID": 61437,
+          "Name": "LKR and WSW Weapon Patches",
+          "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Onp5nCfrItk=",
         "Meta": "[General]\ngameName=fallout4\nmodID=56195\nfileID=236578",
         "Name": "MCM Settings Manager-56195-1-1-1651532592.rar",
@@ -608,6 +629,27 @@
           "ModID": 59508,
           "Name": "NukaCola and Beverages Fix",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Vj0mBnWYYDs=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51487\nfileID=223642",
+        "Name": "Patches for LKR and WSW-51487-2-0-1639283012.7z",
+        "Size": 1304401,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Lively",
+          "Description": "FOMOD for patches between Whisper\u0027s Standalone Workbenches and Lively\u0027s Keyword Resource.",
+          "FileID": 223642,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51487/51487-1618622173-2095179716.png",
+          "IsNSFW": false,
+          "ModID": 51487,
+          "Name": "Patches for Lively\u0027s Keywords Resource and Whisper\u0027s Standalone Workbenches",
+          "Version": "2.0.0.0"
         }
       }
     },
