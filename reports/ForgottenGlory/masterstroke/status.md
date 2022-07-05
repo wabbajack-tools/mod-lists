@@ -5,8 +5,8 @@
 *  1600063388_SLAL_Billyy_Animationsv5.8SE.7z
 *  2022_06_12_The Trappings of Fate v0.3.0.7z
 *  3BA for MME.zip
+*  891921229_BakaFactorySLALAnimation5.40.7z
 *  Anub H 3.2021.7z
-*  Babo SLAL Human SE.7z
 *  DD_Helpers_1_04_8.7z
 *  Deviously Enchanted Chests SE 3.11.7z
 *  Fill Her Up Baka Edition.7z
