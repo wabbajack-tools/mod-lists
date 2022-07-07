@@ -656,7 +656,7 @@
 *  [Retexture for Bread - Hearthfire-64980-0-55.7z](https://www.nexusmods.com/skyrim/mods/64980/?tab=files&file_id=1000156757)
 *  [Revamped Assets Skyrim - High-75380-0-31.7z](https://www.nexusmods.com/skyrim/mods/75380/?tab=files&file_id=1000205331)
 *  [RGE - DynDOLOD Output 2.5.rar](https://authored-files.wabbajack.org/RGE - DynDOLOD Output 2.5.rar_26aea991-e133-471b-bcf1-7e4adf18b397)
-*  [RGE - Facegen.rar](https://authored-files.wabbajack.org/RGE - Facegen.rar_855df6a9-237a-4dc0-b2d6-3d04af864701)
+*  [RGE - Facegen.rar](https://authored-files.wabbajack.org/RGE - Facegen.rar_7c9561e7-74ad-4cdb-afe4-fbb344a8a226)
 *  [RGE - Nemesis Output v2.3.7z](https://authored-files.wabbajack.org/RGE - Nemesis Output v2.3.7z_5ac32d47-bb3e-47a9-a60f-d37648d46040)
 *  [RGE - Patches.rar](https://authored-files.wabbajack.org/RGE - Patches.rar_49f3b057-d914-4f57-b0ca-7f683814410f)
 *  [RGE - TexGen Output 2.5.rar](https://authored-files.wabbajack.org/RGE - TexGen Output 2.5.rar_24a533dc-d619-42fc-9d8f-86d2105cf615)
