@@ -1,11 +1,10 @@
 ## Validation Report - Total Skyrim Overhaul (wj-featured/tso)
 
 
-### Invalid (1)
-*  [MBO 0027 CBBE SE HDT-SMP.7z](https://www.mediafire.com/file/plu0tkvs7fmpmn9/MBO_0027_CBBE_SE_HDT-SMP.7z/)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (998)
+### Valid (999)
 *  [- Skyrim 2020 8.4.2 - 3 of 3 - Other - 4K to 2K-2347-8-4-2-1624479907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=210840)
 *  [-Skyrim 2020 Update 8.7-2347-8-7-1641316815.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=253924)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)
@@ -670,6 +669,7 @@
 *  [Marvelous Attire - Tawenja Armor - CBBE 3BA Bodyslide-61697-0-2-0-1641814557.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61697/?tab=files&file_id=255611)
 *  [Masks of the Dovah Sonaak - High-23251-1-0-1549591571.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23251/?tab=files&file_id=81045)
 *  [Mature Skin - CBBE-26017-2-15-2-1560516171.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26017/?tab=files&file_id=95930)
+*  [MBO 0027 CBBE SE HDT-SMP.7z](https://www.mediafire.com/file/plu0tkvs7fmpmn9/MBO_0027_CBBE_SE_HDT-SMP.7z/)
 *  [MBO 0051 - CBBE SE (Physics).7z](https://www.mediafire.com/file/odlvy4uyrd3us2k/MBO_0051_-_CBBE_SE_%2528Physics%2529.7z/)
 *  [Medieval Silverworks-23938-1-0-0-1551836270.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23938/?tab=files&file_id=83990)
 *  Medium.ini
