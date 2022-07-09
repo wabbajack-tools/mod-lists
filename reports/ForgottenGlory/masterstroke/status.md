@@ -1,10 +1,12 @@
 ## Validation Report - Masterstroke (ForgottenGlory/masterstroke)
 
 
-### Invalid (0)
+### Invalid (2)
+*  Sexlab BJ Sound FX replacerv0.1.rar
+*  SlaveTats CumTextures Remake v1.2.5.7z
 ### Updated (0)
 ### Mirrored (0)
-### Valid (894)
+### Valid (895)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -39,15 +41,12 @@
 *  [4K. Shrine of Azura. Ver.1 Dirt Low 1.1-52695-1-1-0-1628074861.rar](https://www.nexusmods.com/skyrimspecialedition/mods/52695/?tab=files&file_id=218706)
 *  891921229_BakaFactorySLALAnimation5.40.7z
 *  [A - Vanilla and SMIM files-68843-1-3-1654480827.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68843/?tab=files&file_id=289074)
-*  [A Delicate Face - Human Ears-34287-1-1-1595984280.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34287/?tab=files&file_id=152691)
-*  [A Pretty Face-33823-1-4-1586141723.zip](https://www.nexusmods.com/skyrimspecialedition/mods/33823/?tab=files&file_id=132683)
 *  [A. Noble Skyrim - FULL PACK_2K-21423-5-5-0-1543032385.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21423/?tab=files&file_id=73168)
 *  [ActorLimitPlugin v2-32349-2-1581232495.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=123312)
 *  [Adamant - A Perk Overhaul-30191-5-3-3-1639319742.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=248524)
 *  [Additional Clockwork-47087-2-0-2-1638822973.zip](https://www.nexusmods.com/skyrimspecialedition/mods/47087/?tab=files&file_id=247088)
 *  [Administer Potions to NPCs SE-24127-2-0-1602878388.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24127/?tab=files&file_id=165763)
 *  [Aetherius - A Race Overhaul-26686-2-7-1-1639241310.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26686/?tab=files&file_id=248246)
-*  [AGO XP32 Patch 1.0.0-34889-1-0-0-1587203275.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34889/?tab=files&file_id=134882)
 *  [Alikr Accusation Happens Only Once-35830-2-0-1592122664.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35830/?tab=files&file_id=145611)
 *  [All Races Patch-23358-1-1-1549901500.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23358/?tab=files&file_id=81431)
 *  [AMatterOfTime_v3_0_0_alpha_4-12937-v3-0-0a4.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12937/?tab=files&file_id=43572)
@@ -114,6 +113,7 @@
 *  [BetterStealing v2-32295-2-1580801928.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32295/?tab=files&file_id=122672)
 *  [Bikini Robe Replacer and Standalone (3BA)-41285-2-0-0-1632506599.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41285/?tab=files&file_id=230362)
 *  bink2w64.dll
+*  [Bjorn - A Racemenu Preset - High Poly Head-49659-1-0-1620501429.zip](https://www.nexusmods.com/skyrimspecialedition/mods/49659/?tab=files&file_id=202377)
 *  [Blackreach Paper Map for FWMF-53878-1-01-1631631769.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53878/?tab=files&file_id=228356)
 *  [Blended Roads Redone 2K-26270-1-5-1-1614714055.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26270/?tab=files&file_id=189023)
 *  [Blended Roads Redone Bridges 2K-26270-1-0-1570961587.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26270/?tab=files&file_id=110180)
@@ -154,7 +154,6 @@
 *  [CK64Fixes Release 3.2-20061-3-2-1616560054.zip](https://www.nexusmods.com/skyrimspecialedition/mods/20061/?tab=files&file_id=193264)
 *  [Classic Enhanced-65521-1-0-1648288428.rar](https://www.nexusmods.com/skyrimspecialedition/mods/65521/?tab=files&file_id=272645)
 *  [Clockwork_SSE_v1-0-4155-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4155/?tab=files&file_id=7713)
-*  [Closing Time 2.0 Test Version 2-34169-2-0-Test-1591116466.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34169/?tab=files&file_id=143520)
 *  [CO 61 Converus Bugfix-35339-1-01-1588440899.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=137645)
 *  [Coldharbour Paper map for FWMF-59967-1-0-1639327671.rar](https://www.nexusmods.com/skyrimspecialedition/mods/59967/?tab=files&file_id=248556)
 *  [Colovian Leather Armor and Outfit SE - CBBE - V2-50331-2-1623186556.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50331/?tab=files&file_id=208192)
@@ -178,6 +177,7 @@
 *  [d3dcompiler_47-31963-1-0-1579609721.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31963/?tab=files&file_id=120677)
 *  [Dalish Vallaslin Face Tattoo's for Racemenu-19942-3-0-1547659207.rar](https://www.nexusmods.com/skyrimspecialedition/mods/19942/?tab=files&file_id=78522)
 *  [DangerousCurves-29299-1-1569566901.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29299/?tab=files&file_id=108433)
+*  [Dark Elf Zet NMM-19191-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19191/?tab=files&file_id=62770)
 *  [Dark Knight Armor - My Final Version by Xtudo SE MAIN 4K UNP v5-45902-5-1632598514.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45902/?tab=files&file_id=230613)
 *  [Dark Preset-40381-1-0-1599915724.rar](https://www.nexusmods.com/skyrimspecialedition/mods/40381/?tab=files&file_id=160345)
 *  [DarkFaceIssueReporter-42133-2-8-1605654107.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42133/?tab=files&file_id=170508)
@@ -230,6 +230,7 @@
 *  [Dragonbone Barbarian SSE CBBE Bodyslide.zip-13823-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13823/?tab=files&file_id=40076)
 *  [Draugr.2k-5848-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5848/?tab=files&file_id=13160)
 *  [Dream Angels Body Preset - All-In-One-15360-1-4.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15360/?tab=files&file_id=48595)
+*  [Duncan De la Fonte - A Racemenu Preset-19946-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19946/?tab=files&file_id=66306)
 *  [Dungeons - Revisited-51798-1-0-1625039482.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51798/?tab=files&file_id=211864)
 *  [DustEffectsSSE-2407-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2407/?tab=files&file_id=3274)
 *  [Dwemer Gates Don't Reset-26331-1-3-3-1626435626.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26331/?tab=files&file_id=214878)
@@ -366,15 +367,12 @@
 *  [HDT-SMP for SSE 1.5.97 v2.11-30872-2-11-1578745910.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30872/?tab=files&file_id=119417)
 *  [Headhunter - Bounties Redone-51847-1-20-1626602674.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51847/?tab=files&file_id=215260)
 *  [Heavy Armory SE-6308-3-3.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6308/?tab=files&file_id=14653)
-*  [Helps To Have A Compass-37239-2-2-1-1656109593.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37239/?tab=files&file_id=293818)
 *  [Helps To Have A Map - Dawnguard Worlds-37239-2-2-1656095747.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37239/?tab=files&file_id=293748)
 *  [Helps To Have A Map - Gray Fox-37239-2-2-1656095874.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37239/?tab=files&file_id=293751)
 *  [Helps To Have A Map - No Equipment Reqs-37238-2-2-1656095286.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37238/?tab=files&file_id=293741)
-*  [Helps To Have A Map - VIGILANT 2.0-37239-2-0-1603194838.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37239/?tab=files&file_id=166285)
 *  [Helps To Have A Map - VIGILANT-37239-2-2-1656096170.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37239/?tab=files&file_id=293754)
 *  [Helps To Have A Map - Wyrmstooth 2.0a-37239-2-0a-1613487007.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37239/?tab=files&file_id=186265)
 *  [Helps To Have A Map - Wyrmstooth-37239-2-2-1656096200.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37239/?tab=files&file_id=293755)
-*  [Helps To Have A Map v2.0-37238-2-0-1603194061.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37238/?tab=files&file_id=166272)
 *  [Helps To Have A Map-37238-2-2-1656093840.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37238/?tab=files&file_id=293737)
 *  [Heritage 2-55989-1-0-1632552457.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55989/?tab=files&file_id=230475)
 *  [Hide Quest Items in Container Menu-51243-0-7-1632038973.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51243/?tab=files&file_id=229324)
@@ -464,6 +462,7 @@
 *  [KS Hairdos SSE-6817-1-8-1621841731.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6817/?tab=files&file_id=205269)
 *  [Kurone CBBE Body-46560-1-2-1618378880.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46560/?tab=files&file_id=198056)
 *  [Labyrinthian Shalidor's Maze Fixes-52239-0-3-1626070810.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52239/?tab=files&file_id=214147)
+*  Laura's Bondage Shop v3.32.7z
 *  [Leadership - Custom Skill Framework Extension-51764-1-4-1639512420.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51764/?tab=files&file_id=249152)
 *  [Leadership-47134-1-2-1620088739.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47134/?tab=files&file_id=201588)
 *  [Legendary Alpha Shields (optimized meshes)-49387-1-1-1620184046.rar](https://www.nexusmods.com/skyrimspecialedition/mods/49387/?tab=files&file_id=201763)
@@ -495,6 +494,7 @@
 *  [Male SOS version-28584-1-0-1566902082.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28584/?tab=files&file_id=104510)
 *  [Mammoth.4k-2k-6127-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6127/?tab=files&file_id=54735)
 *  [Manbeast - A Werewolf Overhaul-44746-1-2-1-1639316610.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44746/?tab=files&file_id=248514)
+*  [Marau-56978-1-0-1634081399.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56978/?tab=files&file_id=234458)
 *  [Markarth Cliff Fix-36414-1-1-1590416164.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36414/?tab=files&file_id=141991)
 *  [Masculine Chameleon and Lizard (Better Males) 4K-185-2-0-1635639067.7z](https://www.nexusmods.com/skyrimspecialedition/mods/185/?tab=files&file_id=238038)
 *  [Masculine Grey Cat and Leopard (SOS-FULL) 4K-186-2-0-1637428870.7z](https://www.nexusmods.com/skyrimspecialedition/mods/186/?tab=files&file_id=242960)
@@ -639,7 +639,8 @@
 *  [Raven Rock - Fix Exit on Horseback SE-14075-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/14075/?tab=files&file_id=41290)
 *  [Reading Is Good SE-42026-1-1-0-1628762512.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42026/?tab=files&file_id=220581)
 *  [Real 3D Walls-23611-1-5-1551295937.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23611/?tab=files&file_id=83153)
-*  [Realistic AI Detection 2 SE Lite-2345-2-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/2345/?tab=files&file_id=28916)
+*  [Realistic AI Detection 3 - Lite-2345-3-1-1650801693.zip](https://www.nexusmods.com/skyrimspecialedition/mods/2345/?tab=files&file_id=279346)
+*  [Realistic AI Detection 3 - Medium Interior Medium Exterior-2345-3-0-1648410236.zip](https://www.nexusmods.com/skyrimspecialedition/mods/2345/?tab=files&file_id=273093)
 *  [Realistic HD Baskets Remastered-22199-1-0-1546026887.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22199/?tab=files&file_id=76508)
 *  [Realistic Room Rental Enhanced - FOMOD-24859-1-8-9-001-1562153244.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24859/?tab=files&file_id=98025)
 *  [Realm of Lorkhan - Enhanced ESPfe-69092-1-0-0-1654356287.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69092/?tab=files&file_id=288754)
@@ -647,6 +648,7 @@
 *  [Realm of Lorkhan - Unbound Fix-44755-1-01-1611515416.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44755/?tab=files&file_id=181571)
 *  [Realm of Lorkhan - Unofficial Alternate Cut-44327-1-0-1611390768.zip](https://www.nexusmods.com/skyrimspecialedition/mods/44327/?tab=files&file_id=181225)
 *  [Realm of Lorkhan-18223-4-0-1-1652116169.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18223/?tab=files&file_id=282529)
+*  [Recorder - SOS Patch-69680-1-1-0-1657151134.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69680/?tab=files&file_id=296761)
 *  [Recorder Bodyslides - CBBE-17214-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17214/?tab=files&file_id=67660)
 *  [Recorder Follower BSA Ver. 3.0-4718-3-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4718/?tab=files&file_id=12395)
 *  [Redspire Manor (SE)-2460-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2460/?tab=files&file_id=3388)
@@ -684,7 +686,6 @@
 *  [Sets of Skill - A Skyrim Class Mod-55535-1-2-1641821218.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55535/?tab=files&file_id=255633)
 *  Sex Lab - Sexual Fame 0.99.rar
 *  Sexlab Baka Defeat.7z
-*  Sexlab BJ Sound FX replacerv0.1.rar
 *  SexLab EagerNPCSERev2.7z
 *  Sexlab Framework Sound Replacer AIO.7z
 *  SexLab Solutions v3 - Revisited SE v1.1.5.7z
@@ -708,6 +709,7 @@
 *  Skooma Whore Patch V1.04 SE.7z
 *  Skooma Whore SE v1.01.7z
 *  [skse64_2_00_19.7z](https://skse.silverlock.org/beta/skse64_2_00_19.7z)
+*  [SkyHUD v090B v4-463-0-90B.zip](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=61422)
 *  [SkyRem - Iris-41920-1-0-2-1630582408.zip](https://www.nexusmods.com/skyrimspecialedition/mods/41920/?tab=files&file_id=225565)
 *  [Skyrim 3D Blacksmith-22892-1-0-1-1548490334.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22892/?tab=files&file_id=79666)
 *  [Skyrim 3D Cooking-23007-1-3-0-1554627535.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23007/?tab=files&file_id=87631)
@@ -737,7 +739,6 @@
 *  [SkyUI_5_2_SE-12604-5-2SE.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12604/?tab=files&file_id=35407)
 *  SLAL_AnimationsByLeito_v1.6SE.7z
 *  SLAL_SE.7z
-*  SlaveTats CumTextures Remake v1.2.5.7z
 *  SLDrunkRedux v1.3.7z
 *  SLSW Addicted 3.65 SE.7z
 *  SLWidgets 2.0.5 (SE).zip
@@ -762,6 +763,7 @@
 *  SOS - Futanari - Patch for CBBE SE Femenine Argonian Textures (Lizard ONLY).7z
 *  SOS - Futanari - Patch for CBBE SE Femenine Khajiit Textures (Gray Cat ONLY).7z
 *  SOS - Futanari CBBE SSE V1.1b.7z
+*  SoS Uncloaked.zip
 *  [Sotteta Necromancer-4306-2-01-1556251194.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4306/?tab=files&file_id=89731)
 *  [Sovngarde - HQ Main Menu Music Replacer-33639-1-0-1584303930.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33639/?tab=files&file_id=128784)
 *  [Sovngarde - Mist's Font Replacer Light V8.9-386-8-9-1576107283.7z](https://www.nexusmods.com/skyrimspecialedition/mods/386/?tab=files&file_id=115927)
@@ -883,6 +885,7 @@
 *  [XP32 Maximum Skeleton Special Extended - Fixed Scripts-44252-1-0-1610402131.rar](https://www.nexusmods.com/skyrimspecialedition/mods/44252/?tab=files&file_id=179016)
 *  [XP32 Maximum Skeleton Special Extended-1988-4-80-1610196777.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=178559)
 *  [XPMSSE Left Hand Skeleton Rotation Fix-50049-4-80-1621290459.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=204058)
+*  [XPMSSE Weapons Uncloaked-54720-1-0-0-1630200370.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54720/?tab=files&file_id=224496)
 *  [Xtudo's Dark Knight 3BA-56914-1-0a-1635105494.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56914/?tab=files&file_id=236841)
 *  [Xtudo's Dark Knight HIMBO-56914-1-0a-1635105532.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56914/?tab=files&file_id=236842)
 *  [YesImSure-24898-1-5-0-1583022330.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24898/?tab=files&file_id=126540)
