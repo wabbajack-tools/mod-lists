@@ -1,8 +1,8 @@
 {
   "MachineURL": "TTC/TTC",
   "Name": "A Tale of Two Commonwealths",
-  "Version": "1.1.1",
-  "ModListHash": "V4oBXyJ6t4A=",
+  "Version": "1.2",
+  "ModListHash": "vnby0A5DQ0c=",
   "Archives": [
     {
       "Status": "Valid",
@@ -68,14 +68,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KjhKrrH61jo=",
-        "Meta": "[General]\ndirectURL=https://f4se.silverlock.org/beta/f4se_0_06_21.7z",
-        "Name": "f4se_0_06_21.7z",
-        "Size": 598435,
+        "Hash": "21h4TOKduN0=",
+        "Meta": "[General]\ndirectURL=https://f4se.silverlock.org/beta/f4se_0_06_23.7z",
+        "Name": "f4se_0_06_23.7z",
+        "Size": 650275,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://f4se.silverlock.org/beta/f4se_0_06_21.7z"
+          "Url": "https://f4se.silverlock.org/beta/f4se_0_06_23.7z"
         }
       }
     },
@@ -142,6 +142,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "fB/Sci7dOJU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=57363\nfileID=231442",
+        "Name": ".45 Auto Pistol - Unofficial Update-57363-1-2-1646614695.zip",
+        "Size": 264270,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "codeblackcrash - Dnxyken - MischiefBrew0",
+          "Description": "An unofficial update to DeadPool2099\u0027s .45 Auto Pistol (Colt M1911)\u00A0mod that contains a number of adjustments, bug fixes, tweaks, and more.",
+          "FileID": 231442,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/57363/57363-1655860871-86794523.jpeg",
+          "IsNSFW": false,
+          "ModID": 57363,
+          "Name": ".45 Auto Pistol (Colt M1911) - Unofficial Update",
+          "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "MGGXgy1mAWo=",
         "Meta": "[General]\ngameName=fallout4\nmodID=21142\nfileID=87199",
         "Name": ".45 Auto Pistol Ha_ru anims-21142-1-2-1.zip",
@@ -163,27 +184,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "T+J9cw33uqE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=60089\nfileID=236206",
-        "Name": "N99 Replacer-60089-1-1651227801.7z",
-        "Size": 2853,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "me",
-          "Description": "An alternate style replacer for the 10mm using the F4NV N99, should fix some of the issues some people are having.",
-          "FileID": 236206,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60089/60089-1651227653-61429014.jpeg",
-          "IsNSFW": false,
-          "ModID": 60089,
-          "Name": "10mm Pistol Replacer - F4NV N99 10mm Pistol",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "2lhFduhhDdU=",
         "Meta": "[General]\ngameName=fallout4\nmodID=23434\nfileID=95958",
         "Name": "12.7mm-23434-1-0-1.zip",
@@ -199,6 +199,27 @@
           "ModID": 23434,
           "Name": "12.7mm Pistol (Sig Sauer P127)",
           "Version": "1.0.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "watTzb7m//o=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=57371\nfileID=229372",
+        "Name": "12.7mm Pistol - Crash\u0027s Unofficial Update-57371-1-2-1644715755.zip",
+        "Size": 2868,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "codeblackcrash",
+          "Description": "An unofficial update to DeadPool2099\u0027s 12.7mm Pistol (Sig Sauer P127) mod that contains a number of adjustments, bug fixes, tweaks, and more.",
+          "FileID": 229372,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/57371/57371-1655860732-332910385.jpeg",
+          "IsNSFW": false,
+          "ModID": 57371,
+          "Name": "12.7mm Pistol (Sig Sauer P127) - Unofficial Update",
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -241,6 +262,27 @@
           "ModID": 41005,
           "Name": "T-45x Experimental Light Power Armor",
           "Version": "2.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cXeDlLq0veg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=61886\nfileID=242449",
+        "Name": "4estGimp - Fallout 3 10mm SMG Replacer-61886--91-1656967268.7z",
+        "Size": 38057,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "4estGimp",
+          "Description": "This is a group of 4 versions of edits, fixes, and improvements to the Fallout 3 10mm SMG.",
+          "FileID": 242449,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/61886/61886-1656966779-819895109.jpeg",
+          "IsNSFW": false,
+          "ModID": 61886,
+          "Name": "4estGimp - Fallout 3 10mm SMG Edits",
+          "Version": ".91"
         }
       }
     },
@@ -625,63 +667,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qMWpOfFCoWk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=38448\nfileID=219498",
-        "Name": "AT - Ambient Wasteland and RAO Patch-38448-1-1634640802.zip",
-        "Size": 3064,
+        "Hash": "qZgypTOAqJY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=38448\nfileID=242549",
+        "Name": "AT - Ambient Wasteland and RAO Patch-38448-2-1657044205.zip",
+        "Size": 2840,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mortercotic",
           "Description": "Sound mods pack and other tweaks!\n\nDon\u0027t expect big changes since I want this to be as much compatible as possible and to let users choose their own sound mods. If you want to help and/or advice of better ways, please let me know.",
-          "FileID": 219498,
+          "FileID": 242549,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/38448/38448-1566082368-1695805874.jpeg",
           "IsNSFW": false,
           "ModID": 38448,
           "Name": "LOST Audio Tweaks",
-          "Version": "1.0.0.0"
+          "Version": "2.0.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GjQxQ86vfbY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=38448\nfileID=228713",
-        "Name": "AT - DC Ambience and RAO Patch-38448-1-2-1644093471.zip",
-        "Size": 15224,
+        "Hash": "TlOLxh+a1Pw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=38448\nfileID=242550",
+        "Name": "AT - DC Ambience and RAO Patch-38448-2-1657044234.zip",
+        "Size": 1627,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mortercotic",
           "Description": "Sound mods pack and other tweaks!\n\nDon\u0027t expect big changes since I want this to be as much compatible as possible and to let users choose their own sound mods. If you want to help and/or advice of better ways, please let me know.",
-          "FileID": 228713,
+          "FileID": 242550,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/38448/38448-1566082368-1695805874.jpeg",
           "IsNSFW": false,
           "ModID": 38448,
           "Name": "LOST Audio Tweaks",
-          "Version": "1.2.0.0"
+          "Version": "2.0.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "LdUBXehGLyo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=38448\nfileID=228714",
-        "Name": "AT - Inner City Ambience and RAO Patch-38448-1-1-1644093503.zip",
-        "Size": 1124,
+        "Hash": "wo1kD4xQu64=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=38448\nfileID=242552",
+        "Name": "AT - Inner City Ambience and RAO Patch-38448-2-1657044340.zip",
+        "Size": 823,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mortercotic",
           "Description": "Sound mods pack and other tweaks!\n\nDon\u0027t expect big changes since I want this to be as much compatible as possible and to let users choose their own sound mods. If you want to help and/or advice of better ways, please let me know.",
-          "FileID": 228714,
+          "FileID": 242552,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/38448/38448-1566082368-1695805874.jpeg",
           "IsNSFW": false,
           "ModID": 38448,
           "Name": "LOST Audio Tweaks",
-          "Version": "1.1.0.0"
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "V+sFZl3xOwQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=38448\nfileID=242555",
+        "Name": "AT - True Storms and RAO Patch-38448-2-1-1657044460.zip",
+        "Size": 3352,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mortercotic",
+          "Description": "Sound mods pack and other tweaks!\n\nDon\u0027t expect big changes since I want this to be as much compatible as possible and to let users choose their own sound mods. If you want to help and/or advice of better ways, please let me know.",
+          "FileID": 242555,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/38448/38448-1566082368-1695805874.jpeg",
+          "IsNSFW": false,
+          "ModID": 38448,
+          "Name": "LOST Audio Tweaks",
+          "Version": "2.1.0.0"
         }
       }
     },
@@ -898,21 +961,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GKg1yJpXPW8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=57789\nfileID=229313",
-        "Name": "Burst Impact Blast FX-57789-9-5-1644661695.zip",
-        "Size": 44825013,
+        "Hash": "/M9XajKhjEY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=57789\nfileID=241990",
+        "Name": "Burst Impact Blast FX-57789-9-51-1656568465.zip",
+        "Size": 44824998,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ap05",
           "Description": "Burst Impact Blast FX MOD changes the fallout4 particle effect.\n\nFallout 4 Effect is not cool. So I change it coolly like the latest FPS game.\n\nAll the resources I modified are those included in Fallout 4.",
-          "FileID": 229313,
+          "FileID": 241990,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/57789/57789-1643876472-2104366496.png",
           "IsNSFW": false,
           "ModID": 57789,
           "Name": "Burst Impact Blast FX",
-          "Version": "9.5.0.0"
+          "Version": "9.51.0.0"
         }
       }
     },
@@ -955,6 +1018,27 @@
           "ModID": 50728,
           "Name": "Capital Wasteland 10mm Pistol",
           "Version": "3.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "V65Lied+aEY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=62001\nfileID=242862",
+        "Name": "Capital Wasteland 10mm Pistol - Unofficial Update (Replacer Version)-62001-1-1-1657337344.zip",
+        "Size": 10959,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "codeblackcrash",
+          "Description": "An unofficial update to GrilledTurkey\u0027s Capital Wasteland 10mm pistol mod that contains a number of adjustments, bug fixes, tweaks, and more.",
+          "FileID": 242862,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/62001/62001-1657248573-980425836.jpeg",
+          "IsNSFW": false,
+          "ModID": 62001,
+          "Name": "Capital Wasteland 10mm Pistol - Unofficial Update",
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -1101,6 +1185,27 @@
           "IsNSFW": false,
           "ModID": 55872,
           "Name": "Capital Wasteland Hunting Rifle",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4NadAtVIA34=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=62033\nfileID=242858",
+        "Name": "Capital Wasteland Hunting Rifle - Unofficial Update (Replacer Version)-62033-1-0-1657334812.zip",
+        "Size": 14587,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "codeblackcrash",
+          "Description": "An unofficial update to GrilledTurkey\u0027s Capital Wasteland Hunting Rifle mod that contains a number of adjustments, bug fixes, tweaks, and more.",
+          "FileID": 242858,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/62033/62033-1657334640-1882700173.jpeg",
+          "IsNSFW": false,
+          "ModID": 62033,
+          "Name": "Capital Wasteland Hunting Rifle - Unofficial Update",
           "Version": "1.0.0.0"
         }
       }
@@ -2032,6 +2137,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "cZuEsr9DVek=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=61764\nfileID=241998",
+        "Name": "DC Robots Only-61764-1-1656580080.zip",
+        "Size": 15353,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Radiclown",
+          "Description": "Replaces the base game Mr Handys and Protectrons with their Capital Wasteland variants.",
+          "FileID": 241998,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/61764/61764-1656579991-1711947567.jpeg",
+          "IsNSFW": false,
+          "ModID": 61764,
+          "Name": "DC Robots Only",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "IFDkyX14eR4=",
         "Meta": "[General]\ngameName=fallout4\nmodID=56565\nfileID=223844",
         "Name": "DC Super Mutants only ESP-56565-1-1639442490.zip",
@@ -2242,21 +2368,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VJnwN23rV2M=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=55503\nfileID=240979",
-        "Name": "ECO 2.5.1-55503-2-5-1-1655644830.7z",
-        "Size": 17158231,
+        "Hash": "QkJKdWJz9hU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=55503\nfileID=242003",
+        "Name": "ECO 2.5.7-55503-2-5-7-1656583936.7z",
+        "Size": 17162612,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Dank Rafft",
           "Description": "The definitive edition of Armor and Clothing Overhaul, Crafting Framework and Quick Gun Modification, combined in a single plugin. Extensive and fully modular but lightweight equipment overhaul and expansion of the crafting system. Configure the mod to your liking via holotape or MCM.",
-          "FileID": 240979,
+          "FileID": 242003,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/55503/55503-1637432015-2140842745.png",
           "IsNSFW": false,
           "ModID": 55503,
           "Name": "Equipment and Crafting Overhaul (ECO)",
-          "Version": "2.5.1.0"
+          "Version": "2.5.7.0"
         }
       }
     },
@@ -2515,6 +2641,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "9bfARKtoQ2Q=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=61962\nfileID=242701",
+        "Name": "Aidan Watts\u0027s Fallout 3 Furniture Replacer - 2K Textures-61962-1-0-1657200746.zip",
+        "Size": 179576019,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Aidan Watts",
+          "Description": "Replaces a number of vanilla furniture with the classic Fallout 3 versions.",
+          "FileID": 242701,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/61962/61962-1657190273-1735150556.png",
+          "IsNSFW": false,
+          "ModID": 61962,
+          "Name": "Fallout 3 Furniture Replacer",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "WjQaDjitmu8=",
         "Meta": "[General]\ngameName=fallout4\nmodID=52549\nfileID=210601",
         "Name": "Fallout 3 layout for FallUI - HUD (Small edition)-52549-1-1-1-1624094388.rar",
@@ -2599,21 +2746,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "mSNaVXP90G8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=60330\nfileID=237549",
-        "Name": "Fallout 4 Point Lookout - Patch - 1.11-60330-1-11-1652473617.rar",
-        "Size": 933822,
+        "Hash": "1Bb5tP+cQ7U=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=60330\nfileID=242233",
+        "Name": "Fallout 4 Point Lookout - Patch - 1.14-60330-1-14-1656782011.rar",
+        "Size": 1033419,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "The Capital Wasteland Team",
           "Description": "Fallout 4: Point Lookout is a fan recreation of Fallout 3\u0027s Point Lookout DLC, fully realized in Fallout 4, including all quests and NPCs.",
-          "FileID": 237549,
+          "FileID": 242233,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60330/60330-1652201203-280592258.jpeg",
           "IsNSFW": false,
           "ModID": 60330,
           "Name": "Fallout 4 - Point Lookout",
-          "Version": "1.11.0.0"
+          "Version": "1.14.0.0"
         }
       }
     },
@@ -2662,21 +2809,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kc3xr89lfI8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=43458\nfileID=235534",
-        "Name": "(2K Perf. - BSA) Fallout 4 Ultimate Window Overhaul-43458-3-2-1650552300.rar",
-        "Size": 198959522,
+        "Hash": "YbsVsv5fDPY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=43458\nfileID=241301",
+        "Name": "(Archived Version) Ultimate Window Overhaul Redone-43458-4-0-1655919356.rar",
+        "Size": 406799766,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SickStyle",
           "Description": "You won\u0027t know you really need this mod, until you install it. This mod overhauls all windows across the Commonwealth. RTX-ish next-gen reflections!",
-          "FileID": 235534,
+          "FileID": 241301,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/43458/43458-1619463475-1957245561.png",
           "IsNSFW": false,
           "ModID": 43458,
           "Name": "Fallout 4 Ultimate Window Overhaul",
-          "Version": "3.2.0.0"
+          "Version": "4.0.0.0"
         }
       }
     },
@@ -2719,27 +2866,6 @@
           "ModID": 30455,
           "Name": "Fire Axe - A Standalone Melee Weapon",
           "Version": "1.0.0.0.fire"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "RTSBzyli8Cw=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=31662\nfileID=129176",
-        "Name": "FO3 First Aid Kit - All DLCs-31662-1-0.rar",
-        "Size": 10287091,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "alexh1",
-          "Description": "Let nostalgia hit you back!\n\n\n\nThis mod replace all the First Aid Kits in the game for a new model reminiscent of Fallout 3 and Fallout New Vegas\u0027 First Aid Kits.",
-          "FileID": 129176,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/31662/31662-1525976352-1582640928.png",
-          "IsNSFW": false,
-          "ModID": 31662,
-          "Name": "First Aid Kit Replacer - Fallout 3 Edition",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -2824,6 +2950,48 @@
           "ModID": 43979,
           "Name": "Fourville",
           "Version": "1.13.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ipqv+WRi2OM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=33759\nfileID=188907",
+        "Name": "Game Configuration Menu-33759-0-7-1-1597165382.zip",
+        "Size": 267126,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zzyxzz",
+          "Description": "GCM allows you easily set many game settings without the need of additional ESPs or console commands.",
+          "FileID": 188907,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33759/33759-1533151164-1011383970.png",
+          "IsNSFW": false,
+          "ModID": 33759,
+          "Name": "Game Configuration Menu",
+          "Version": "0.7.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0EtX8VoWW/M=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=33759\nfileID=160697",
+        "Name": "GCM DLC Far Harbor-33759-0-6-1561641689.zip",
+        "Size": 420,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zzyxzz",
+          "Description": "GCM allows you easily set many game settings without the need of additional ESPs or console commands.",
+          "FileID": 160697,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33759/33759-1533151164-1011383970.png",
+          "IsNSFW": false,
+          "ModID": 33759,
+          "Name": "Game Configuration Menu",
+          "Version": "0.6.0.0"
         }
       }
     },
@@ -3397,21 +3565,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "D17sf4gA8PA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=38448\nfileID=224455",
-        "Name": "LOST Audio Tweaks-38448-2-1-1640088167.zip",
-        "Size": 124875306,
+        "Hash": "QDaOOYevzmc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=38448\nfileID=242556",
+        "Name": "LOST Audio Tweaks-38448-3-1657044879.zip",
+        "Size": 149326962,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mortercotic",
           "Description": "Sound mods pack and other tweaks!\n\nDon\u0027t expect big changes since I want this to be as much compatible as possible and to let users choose their own sound mods. If you want to help and/or advice of better ways, please let me know.",
-          "FileID": 224455,
+          "FileID": 242556,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/38448/38448-1566082368-1695805874.jpeg",
           "IsNSFW": false,
           "ModID": 38448,
           "Name": "LOST Audio Tweaks",
-          "Version": "2.1.0.0"
+          "Version": "3.0.0.0"
         }
       }
     },
@@ -3454,27 +3622,6 @@
           "ModID": 10669,
           "Name": "M2019 PKD Detective Special - That Gun",
           "Version": "2.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "T3yWsTKtbNE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=60197\nfileID=236704",
-        "Name": "Mantis Replacer-60197-1-1651685842.zip",
-        "Size": 3428,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Father Elijah",
-          "Description": "Replaces all radroaches with the mojave mantis, for when you want a Fallout 1 and 2 type playthrough for fallout 4",
-          "FileID": 236704,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60197/60197-1651685669-1690782695.png",
-          "IsNSFW": false,
-          "ModID": 60197,
-          "Name": "Mantis Radroach Replacer",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -3558,27 +3705,6 @@
           "IsNSFW": false,
           "ModID": 23556,
           "Name": "Fallout 4 Mod List and Load Order Guide (BiRaitBec Modlist)",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "nJ7Pd4YSZd4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=39154\nfileID=158631",
-        "Name": "Metal Footlocker FO3-FNV Style HD Textures - 2K-39154-1-0-1558958122.zip",
-        "Size": 7347149,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RedRocketTV",
-          "Description": "These textures replace the vanilla, green wooden footlocker textures with bare metal textures reminiscent of the footlockers in Fallout 3 and Fallout: New Vegas.",
-          "FileID": 158631,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/39154/39154-1558957576-1454470792.jpeg",
-          "IsNSFW": false,
-          "ModID": 39154,
-          "Name": "Metal Footlocker HD Textures FO3-FNV Style",
           "Version": "1.0.0.0"
         }
       }
@@ -3874,48 +4000,6 @@
           "ModID": 49299,
           "Name": "Mutilated Dead Bodies",
           "Version": "1.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "j0U2HWgh8Xs=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=40072\nfileID=162319",
-        "Name": "N99 V1.1-40072-V1-1-1563497745.rar",
-        "Size": 25873153,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ToastyFresh",
-          "Description": "Adds a reimagined N99 10mm pistol from Fallout 3 and New Vegas. Originally created for the F4NV fan project.",
-          "FileID": 162319,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/40072/40072-1563254419-1602396774.jpeg",
-          "IsNSFW": false,
-          "ModID": 40072,
-          "Name": "N99 10mm Pistol - F4NV",
-          "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "DeRB3V6ZRAM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=60089\nfileID=236207",
-        "Name": "N99 ECO Patch-60089-1-1651228289.7z",
-        "Size": 471,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "me",
-          "Description": "An alternate style replacer for the 10mm using the F4NV N99, should fix some of the issues some people are having.",
-          "FileID": 236207,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60089/60089-1651227653-61429014.jpeg",
-          "IsNSFW": false,
-          "ModID": 60089,
-          "Name": "10mm Pistol Replacer - F4NV N99 10mm Pistol",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -4783,48 +4867,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XiPYDGLUVuQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=20097\nfileID=149059",
-        "Name": "Main File-20097-1-6-1546262048.zip",
-        "Size": 60528803,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "StupidDunmer",
-          "Description": "Removes all spoken dialogue and lines from the player character, making the dialogue experience closer to older Bethesda games.",
-          "FileID": 149059,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20097-1-1479772835.jpg",
-          "IsNSFW": false,
-          "ModID": 20097,
-          "Name": "Silent Protagonist",
-          "Version": "1.6.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "DU4NqgqjYt4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=36418\nfileID=228861",
-        "Name": "Silent Protagonist Patch Compilation - FOMOD Installer-36418-2022-02-06-1644167239.rar",
-        "Size": 45530200,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Luniartic",
-          "Description": "Voice pack patches, meant to be used with the mod Silent Protagonist and some other mods.",
-          "FileID": 228861,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/36418/36418-1576841890-428534814.png",
-          "IsNSFW": false,
-          "ModID": 36418,
-          "Name": "Silent Protagonist Patch Compilation",
-          "Version": "2022.2.6.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "WOY442AWVvE=",
         "Meta": "[General]\ngameName=fallout4\nmodID=29227\nfileID=204835",
         "Name": "SKKFastStartNewGame_019-29227-019-1617191609.zip",
@@ -5413,52 +5455,39 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HQR1K66XtoA=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/TTC F3 ECO WB Patch 6-19.zip_5887f03c-1c36-44ca-9b56-3f97cb442c25",
-        "Name": "TTC F3 ECO WB Patch 6-19.zip",
-        "Size": 6667,
+        "Hash": "pgGO7HncSXI=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/TTC_F3Patches_7-9.zip_91b79cc0-ee0e-4c0d-8ad0-6bdb1b4a951d",
+        "Name": "TTC_F3Patches_7-9.zip",
+        "Size": 90863,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/TTC%20F3%20ECO%20WB%20Patch%206-19.zip_5887f03c-1c36-44ca-9b56-3f97cb442c25"
+          "Url": "https://authored-files.wabbajack.org/TTC_F3Patches_7-9.zip_91b79cc0-ee0e-4c0d-8ad0-6bdb1b4a951d"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "3iMbHmv7QnU=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/TTC F3 Patches 6-19.zip_0741ee60-3aa8-4e93-8e22-9157e70583ed",
-        "Name": "TTC F3 Patches 6-19.zip",
-        "Size": 84408,
+        "Hash": "QGPRnrwwnTY=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/TTC_FNVPatches_7-9.zip_f484b944-18b8-42ec-b651-73fa8704fd9e",
+        "Name": "TTC_FNVPatches_7-9.zip",
+        "Size": 32475,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/TTC%20F3%20Patches%206-19.zip_0741ee60-3aa8-4e93-8e22-9157e70583ed"
+          "Url": "https://authored-files.wabbajack.org/TTC_FNVPatches_7-9.zip_f484b944-18b8-42ec-b651-73fa8704fd9e"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "lKNoh27CGwY=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/TTC FNV ECO WB Patch 6-19.zip_0ff86719-d741-4c2c-abd1-9ff3a5e471c8",
-        "Name": "TTC FNV ECO WB Patch 6-19.zip",
-        "Size": 10469,
+        "Hash": "QL1jLJH1jLc=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/TTC_PGP_Classic Vault Suit Replacer.zip_cdc136fc-65c9-4542-8904-f5971e30e9c5",
+        "Name": "TTC_PGP_Classic Vault Suit Replacer.zip",
+        "Size": 2461,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/TTC%20FNV%20ECO%20WB%20Patch%206-19.zip_0ff86719-d741-4c2c-abd1-9ff3a5e471c8"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "P3gcotUHvIU=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/TTC_FNVPatches_6-3.zip_50223e4d-4ae2-4ab3-bbb6-dd94e0960f4e",
-        "Name": "TTC_FNVPatches_6-3.zip",
-        "Size": 22083,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/TTC_FNVPatches_6-3.zip_50223e4d-4ae2-4ab3-bbb6-dd94e0960f4e"
+          "Url": "https://authored-files.wabbajack.org/TTC_PGP_Classic%20Vault%20Suit%20Replacer.zip_cdc136fc-65c9-4542-8904-f5971e30e9c5"
         }
       }
     },
@@ -6464,21 +6493,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WFBz1NOmCes=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=44798\nfileID=218372",
-        "Name": "High FPS Physics Fix-44798-0-8-4-5-1633293504.zip",
-        "Size": 165353,
+        "Hash": "bxERKoM90KA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=44798\nfileID=242328",
+        "Name": "High FPS Physics Fix-44798-0-8-6-1656849140.zip",
+        "Size": 168212,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Antonix35",
           "Description": "Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time.\n\nNow there is a separate version for VR.",
-          "FileID": 218372,
+          "FileID": 242328,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44798/44798-1588329807-748092555.png",
           "IsNSFW": false,
           "ModID": 44798,
           "Name": "High FPS Physics Fix",
-          "Version": "0.8.4.0-5"
+          "Version": "0.8.6.0"
         }
       }
     },
@@ -6584,6 +6613,27 @@
           "ModID": 54026,
           "Name": "Real Water HD for ENB 2",
           "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "teyIMDLQnRw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=61732\nfileID=242325",
+        "Name": "SilentProtagonistF4SE-61732-0-3-1656848964.zip",
+        "Size": 5792,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "carxt",
+          "Description": "Whipped this out in like an hour or something.",
+          "FileID": 242325,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/61732/61732-1656463317-695823048.jpeg",
+          "IsNSFW": false,
+          "ModID": 61732,
+          "Name": "Silent Protagonist F4SE",
+          "Version": "0.3.0.0"
         }
       }
     },
