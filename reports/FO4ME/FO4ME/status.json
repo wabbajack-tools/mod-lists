@@ -1,8 +1,8 @@
 {
   "MachineURL": "FO4ME/FO4ME",
   "Name": "Fallout 4 Modding Essentials",
-  "Version": "1.0.6",
-  "ModListHash": "9qxezKXtIfA=",
+  "Version": "1.0.7",
+  "ModListHash": "wgNvBWK4YGg=",
   "Archives": [
     {
       "Status": "Valid",
@@ -21,14 +21,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KjhKrrH61jo=",
-        "Meta": "[General]\ndirectURL=https://f4se.silverlock.org/beta/f4se_0_06_21.7z",
-        "Name": "f4se_0_06_21.7z",
-        "Size": 598435,
+        "Hash": "21h4TOKduN0=",
+        "Meta": "[General]\ndirectURL=https://f4se.silverlock.org/beta/f4se_0_06_23.7z",
+        "Name": "f4se_0_06_23.7z",
+        "Size": 650275,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://f4se.silverlock.org/beta/f4se_0_06_21.7z"
+          "Url": "https://f4se.silverlock.org/beta/f4se_0_06_23.7z"
         }
       }
     },
@@ -1049,6 +1049,27 @@
           "ModID": 26592,
           "Name": "CCCleaner",
           "Version": "1.10.163.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6Klv6wHnAiM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53977\nfileID=218129",
+        "Name": "SW Model 1905-53977-1-1-1633058044.zip",
+        "Size": 29828349,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jff007",
+          "Description": "A simple mod adding in a Model 1905 S\u0026amp;W Revolver.",
+          "FileID": 218129,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53977/53977-1633057603-391570537.png",
+          "IsNSFW": false,
+          "ModID": 53977,
+          "Name": "Smith and Wesson Model 1905 Revolver",
+          "Version": "1.1.0.0"
         }
       }
     },
