@@ -1,8 +1,8 @@
 {
   "MachineURL": "Tahrovin/smeftbs",
   "Name": "SMEFT but Sexy",
-  "Version": "0.1.2.2",
-  "ModListHash": "AopKKpGcp7w=",
+  "Version": "0.2",
+  "ModListHash": "yP8qRqXOEow=",
   "Archives": [
     {
       "Status": "Valid",
@@ -909,6 +909,27 @@
           "ModID": 43483,
           "Name": "Logical Outfits and Classes for The Dark Brotherhood Forever",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gXfkid3lztM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53000\nfileID=223746",
+        "Name": "MCM Helper SE-53000-1-3-0-1629918598.zip",
+        "Size": 1176933,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Parapets",
+          "Description": "Simplifies the creation of Mod Configuration Menus and extends them with powerful new features, such as persistent INI settings and hotkey registration. Mod authors will be able to write simpler, cleaner Papyrus scripts for their configs. Players will be able to spend less time in menus.",
+          "FileID": 223746,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53000/53000-1627746793-1514379922.png",
+          "IsNSFW": false,
+          "ModID": 53000,
+          "Name": "MCM Helper",
+          "Version": "1.3.0.0"
         }
       }
     },
@@ -2841,20 +2862,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "rSweb1D6ufY=",
-        "Meta": "[General]\ndirectURL=https://github.com/Mutagen-Modding/Synthesis/releases/download/0.22.1/Synthesis.zip",
-        "Name": "Synthesis.zip",
-        "Size": 144636436,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Mutagen-Modding/Synthesis/releases/download/0.22.1/Synthesis.zip"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "LP84axVfTAM=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=39378\nfileID=217565",
         "Name": "Mator Smash Updated-39378-2-0-0-beta-1-1627615769.7z",
@@ -2940,6 +2947,20 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://cdn.discordapp.com/attachments/518048160526893057/832281169717362738/xEdit_4.0.3g.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rSweb1D6ufY=",
+        "Meta": "[General]\ndirectURL=https://github.com/Mutagen-Modding/Synthesis/releases/download/0.22.1/Synthesis.zip",
+        "Name": "Synthesis_af92e06802d0e24db11ccff7cef9465f7e33032c79cf8fdf4d652a89b48dadce_.zip",
+        "Size": 144636436,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Mutagen-Modding/Synthesis/releases/download/0.22.1/Synthesis.zip"
         }
       }
     },
@@ -3706,21 +3727,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "1VvCnl+oLd4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=292566",
-        "Name": "Assorted mesh fixes-32117-0-64-1655742928.7z",
-        "Size": 14919241,
+        "Hash": "SBo0OhYkApQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=298591",
+        "Name": "Assorted mesh fixes-32117-0-68-1657716317.7z",
+        "Size": 15114536,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wankingSkeever",
           "Description": "Fixes various issues with vanilla Skyrim meshes that causes them to render incorrectly",
-          "FileID": 292566,
+          "FileID": 298591,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32117/32117-1612599331-161051453.png",
           "IsNSFW": false,
           "ModID": 32117,
           "Name": "Assorted mesh fixes",
-          "Version": "0.64.0.0"
+          "Version": "0.68.0.0"
         }
       }
     },
