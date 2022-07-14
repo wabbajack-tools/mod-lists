@@ -735,7 +735,7 @@
 *  [Even More LOTD Crates for Mods - Wyrmstooth-34795-1-0-1603326141.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34795/?tab=files&file_id=166503)
 *  [Evenstar 1.1.0-41256-1-1-0-1602436947.zip](https://www.nexusmods.com/skyrimspecialedition/mods/41256/?tab=files&file_id=165049)
 *  [EVG Animated Traversal - Main Framework-63232-0-982-1656992643.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63232/?tab=files&file_id=296339)
-*  [EVG Animated Traversal - Patch Collection-70635-1-1-1-1657513056.zip](https://www.nexusmods.com/skyrimspecialedition/mods/70635/?tab=files&file_id=298002)
+*  [EVG Animated Traversal - Patch Collection-70635-1-1-2-1657759585.zip](https://www.nexusmods.com/skyrimspecialedition/mods/70635/?tab=files&file_id=298731)
 *  [EVG Conditional Idles-34006-1-42-1649384249.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34006/?tab=files&file_id=275554)
 *  [EVLaS-63725-1-3-0-1647098495.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63725/?tab=files&file_id=269636)
 *  [Experience SE-17751-2-1-1-1654426814.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17751/?tab=files&file_id=288909)
