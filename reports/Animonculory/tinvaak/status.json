@@ -1,8 +1,8 @@
 {
   "MachineURL": "Animonculory/tinvaak",
   "Name": "Tinvaak",
-  "Version": "2.4",
-  "ModListHash": "EF5uAGSijiM=",
+  "Version": "2.4.1",
+  "ModListHash": "dfV9X9RQnts=",
   "Archives": [
     {
       "Status": "Valid",
@@ -72,19 +72,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "t+Kw4j9ldUQ=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0463.zip_24cf961e-2f2b-47a3-b334-d21c2f3520e1/",
-        "Name": "enbseries_skyrimse_v0463.zip",
-        "Size": 4254699,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0463.zip_24cf961e-2f2b-47a3-b334-d21c2f3520e1/"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "oG0Tgfy1Vmg=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=31963\nfileID=120677",
         "Name": "d3dcompiler_47-31963-1-0-1579609721.7z",
@@ -120,27 +107,6 @@
           "IsNSFW": false,
           "ModID": 17230,
           "Name": "SSE Engine Fixes (skse64 plugin)",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "pH5gzkQ653w=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=27333\nfileID=203649",
-        "Name": "Ominous ENB for Obsidian (ENB Weathers Supported) V2.5-27333-2-5-1621104726.7z",
-        "Size": 20600799,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "firemanaf",
-          "Description": "ENB for Obsidian Weathers that is inspired by Grim and Somber ENB for LE. This brings an ominous feel to the world of Skyrim with its gloomy color palette, subtle lighting and dark skies. Includes multiple performance options, DOF strengths and Night Eye Fix (Off By Default). Created by the same author as Re-Engaged/NVT/Intrigued/Semirealis ENBs.",
-          "FileID": 203649,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27333/27333-1563222519-1358715833.jpeg",
-          "IsNSFW": false,
-          "ModID": 27333,
-          "Name": "Ominous ENB",
           "Version": "0.0.0.0"
         }
       }
@@ -210,12 +176,12 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
-        "Hash": "v1aK6iCHYs8=",
+        "Hash": "jd0P+E2VtwA=",
         "Meta": "[General]\ndirectURL=https://skse.silverlock.org/beta/skse64_2_00_20.7z",
         "Name": "skse64_2_00_20.7z",
-        "Size": 813935,
+        "Size": 834815,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
@@ -3722,13 +3688,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "EsWVFaEmpSI=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/TLods.7z_12c8f8a9-b93d-4ff5-810b-f08275a98989",
-        "Name": "TLods.7z",
-        "Size": 4323167672,
+        "Hash": "+fWUusKCBd0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62561\nfileID=298865",
+        "Name": "T2 - DynDOLOD-62561-2-4-1-1657806228.7z",
+        "Size": 2585716286,
         "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/TLods.7z_12c8f8a9-b93d-4ff5-810b-f08275a98989"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Animonculory",
+          "Description": "Landing page for resources related to The Animonculory.",
+          "FileID": 298865,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62561/62561-1643136347-1986850217.png",
+          "IsNSFW": false,
+          "ModID": 62561,
+          "Name": "Animonculory Resources",
+          "Version": "2.4.1.0"
         }
       }
     },
@@ -7984,12 +7958,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "Ohuyi6qS0Kc=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/TMisc.7z_c5fd28f0-c2ae-4589-be4b-fc65bff41129",
-        "Name": "TMisc.7z",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62561\nfileID=298847",
+        "Name": "T2 - Misc-62561-2-4-1-1657801165.7z",
         "Size": 118553409,
         "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/TMisc.7z_c5fd28f0-c2ae-4589-be4b-fc65bff41129"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Animonculory",
+          "Description": "Landing page for resources related to The Animonculory.",
+          "FileID": 298847,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62561/62561-1643136347-1986850217.png",
+          "IsNSFW": false,
+          "ModID": 62561,
+          "Name": "Animonculory Resources",
+          "Version": "2.4.1.0"
         }
       }
     },
@@ -12216,12 +12198,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "4/mUdLb+TFA=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/TFacegen.7z_6deeecad-b7d3-4058-a3a8-dc5cf520e3fe",
-        "Name": "TFacegen.7z",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62561\nfileID=298852",
+        "Name": "T2 - FaceGen-62561-2-4-1-1657802269.7z",
         "Size": 1920636300,
         "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/TFacegen.7z_6deeecad-b7d3-4058-a3a8-dc5cf520e3fe"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Animonculory",
+          "Description": "Landing page for resources related to The Animonculory.",
+          "FileID": 298852,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62561/62561-1643136347-1986850217.png",
+          "IsNSFW": false,
+          "ModID": 62561,
+          "Name": "Animonculory Resources",
+          "Version": "2.4.1.0"
         }
       }
     },
@@ -15401,12 +15391,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "bFtS4+Kg1BU=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/TCustomTrees.7z_71ed8859-8f06-49fc-98e5-e9cea9157253",
-        "Name": "TCustomTrees.7z",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62561\nfileID=298867",
+        "Name": "T2 - Custom Trees-62561-2-4-1-1657806446.7z",
         "Size": 48319528,
         "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/TCustomTrees.7z_71ed8859-8f06-49fc-98e5-e9cea9157253"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Animonculory",
+          "Description": "Landing page for resources related to The Animonculory.",
+          "FileID": 298867,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62561/62561-1643136347-1986850217.png",
+          "IsNSFW": false,
+          "ModID": 62561,
+          "Name": "Animonculory Resources",
+          "Version": "2.4.1.0"
         }
       }
     },
@@ -17240,6 +17238,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "DtgfxGHVm+g=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=70161\nfileID=293455",
+        "Name": "RaceMenu 0.4.16 Memory Leak Hotfix (SE)-70161-1-0-0-1656002259.zip",
+        "Size": 146234,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SlavicPotato",
+          "Description": "Fixes a severe memory leak issue in RaceMenu 0.4.16 (SE 1.5.97) skee64 binary due to armor and inventory object 3D never getting released.",
+          "FileID": 293455,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/70161/70161-1656001443-528966239.png",
+          "IsNSFW": false,
+          "ModID": 70161,
+          "Name": "RaceMenu 0.4.16 Memory Leak Hotfix (SE)",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "wEGUDYo+2dQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=30476\nfileID=133115",
         "Name": "Ragged Flagon Sign 2.3 Parallax-30476-2-3-1586385316.7z",
@@ -18381,6 +18400,27 @@
           "ModID": 39900,
           "Name": "TB\u0027s Candle Flames Improver",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KvlpFORD0cQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62561\nfileID=298856",
+        "Name": "T2 - TexGen-62561-2-4-1-1657803795.7z",
+        "Size": 75433036,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Animonculory",
+          "Description": "Landing page for resources related to The Animonculory.",
+          "FileID": 298856,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62561/62561-1643136347-1986850217.png",
+          "IsNSFW": false,
+          "ModID": 62561,
+          "Name": "Animonculory Resources",
+          "Version": "2.4.1.0"
         }
       }
     },
@@ -20145,6 +20185,27 @@
           "ModID": 74792,
           "Name": "Falmer Ear and Hagraven Claw",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5A/9os/trWg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62561\nfileID=298855",
+        "Name": "T2 - xLodGen-62561-2-4-1-1657803381.7z",
+        "Size": 1132954398,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Animonculory",
+          "Description": "Landing page for resources related to The Animonculory.",
+          "FileID": 298855,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62561/62561-1643136347-1986850217.png",
+          "IsNSFW": false,
+          "ModID": 62561,
+          "Name": "Animonculory Resources",
+          "Version": "2.4.1.0"
         }
       }
     },
@@ -26541,6 +26602,40 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "t+Kw4j9ldUQ=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0463.zip_24cf961e-2f2b-47a3-b334-d21c2f3520e1/",
+        "Name": "enbseries_skyrimse_v0463.zip",
+        "Size": 4254699,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0463.zip_24cf961e-2f2b-47a3-b334-d21c2f3520e1/"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pH5gzkQ653w=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=27333\nfileID=203649",
+        "Name": "Ominous ENB for Obsidian (ENB Weathers Supported) V2.5-27333-2-5-1621104726.7z",
+        "Size": 20600799,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "firemanaf",
+          "Description": "ENB for Obsidian Weathers that is inspired by Grim and Somber ENB for LE. This brings an ominous feel to the world of Skyrim with its gloomy color palette, subtle lighting and dark skies. Includes multiple performance options, DOF strengths and Night Eye Fix (Off By Default). Created by the same author as Re-Engaged/NVT/Intrigued/Semirealis ENBs.",
+          "FileID": 203649,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27333/27333-1563222519-1358715833.jpeg",
+          "IsNSFW": false,
+          "ModID": 27333,
+          "Name": "Ominous ENB",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "V0Nj8t7WlBA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=46372\nfileID=188768",
         "Name": "ALLGUD Azura Star Patch EnbLight-46372-1-0-1614602080.7z",
@@ -27393,8 +27488,8 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Animonculory/6c4b8c2eb901a83b_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Animonculory/6c4b8c2eb901a83b_large.webp"
 }
