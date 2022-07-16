@@ -246,7 +246,7 @@
 *  [Stay At System Page-19832-1-5-0-1583022131.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19832/?tab=files&file_id=126538)
 *  steam_api64.dll
 *  [STUs 3BA Body Bonanza - 3BABB-67238-1-0-1651163283.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67238/?tab=files&file_id=280176)
-*  [Synthesis_af92e06802d0e24db11ccff7cef9465f7e33032c79cf8fdf4d652a89b48dadce_.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.22.1/Synthesis.zip)
+*  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.23.3/Synthesis.zip)
 *  [Teru Bulky Woman 2.0 3BA-56278-2-0-1635187207.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56278/?tab=files&file_id=237016)
 *  [Teru Peach CBBE 3BA 3BBB-66997-1-0-1650733978.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66997/?tab=files&file_id=279196)
 *  [Teru Scandalous 1.0-54873-1-0-1630435029.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54873/?tab=files&file_id=225241)
