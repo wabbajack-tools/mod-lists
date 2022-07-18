@@ -1,10 +1,11 @@
 ## Validation Report - Total Skyrim Overhaul (wj-featured/tso)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [[SE] DM BDOR Robeaus by Team TAL 200826(converted by em486).7z](https://drive.google.com/uc?id=1AU3j37pKA9IWYOnxBB9gXnrZOI1Qz6RS&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (999)
+### Valid (998)
 *  [- Skyrim 2020 8.4.2 - 3 of 3 - Other - 4K to 2K-2347-8-4-2-1624479907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=210840)
 *  [-Skyrim 2020 Update 8.7-2347-8-7-1641316815.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=253924)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)
@@ -93,7 +94,6 @@
 *  [[SE] DM BDOR Kibelius by Team TAL.7z](https://www.loverslab.com/files/file/12827-se-team-tals-dm-bdor-kibelius-smp-3ba/?do=download&csrfKey=d6bfb8e17735b87c4386ca53f4236467)
 *  [[SE] DM BDOR Lephria by Team TAL 200426 (1).7z](https://www.loverslab.com/files/file/12825-se-team-tals-dm-bdor-lephria-smp-3ba/?do=download&csrfKey=d6bfb8e17735b87c4386ca53f4236467)
 *  [[SE] DM BDOR Mueburus 1.11 by Team TAL.7z](https://www.loverslab.com/files/file/11915-se-team-tals-dm-bdor-mueburus-smp-3ba/?do=download)
-*  [[SE] DM BDOR Robeaus by Team TAL 200826(converted by em486).7z](https://drive.google.com/uc?id=1AU3j37pKA9IWYOnxBB9gXnrZOI1Qz6RS&export=download)
 *  [[SE] DM BDOR Sacra by Team TAL(converted by em486).7z](https://www.loverslab.com/files/file/15192-se-team-tals-dm-bdor-sacra-smp-3ba/?do=download&csrfKey=d6bfb8e17735b87c4386ca53f4236467)
 *  [[SE] DM BDOR Solios by Team TAL CBBE 3BA BS 1.4.7z](https://drive.google.com/uc?id=1ssqZ7O28hB0MuDGBoQMSnqCSFUTbugAM&export=download)
 *  [[SE] DM BDOR Trailblazer by Team TAL, em486.zip](https://drive.google.com/uc?id=1G-r_seDgTy5k-WzxpzzYk3OON9KFMQYd&export=download)
