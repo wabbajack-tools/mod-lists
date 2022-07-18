@@ -1,11 +1,10 @@
 ## Validation Report - Masterstroke (ForgottenGlory/masterstroke)
 
 
-### Invalid (1)
-*  [FreeFlyCamSKSE64_v12.1 (1.5.73-97).zip](http://enbseries.enbdev.com/forum/download/file.php?id=1661&sid=e5f9c40cc51a29002e2e7ef3472a20ee)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (897)
+### Valid (898)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -333,6 +332,7 @@
 *  [Frankly HD Thieves Guild Armors-19953-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19953/?tab=files&file_id=66049)
 *  [FranklyHD Dawnguard Armor and Weapons-19663-1-3-1540912350.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19663/?tab=files&file_id=70809)
 *  [Freckle Mania 2 Combo 4K-86208-1-0.7z](https://www.nexusmods.com/skyrim/mods/86208/?tab=files&file_id=1000252598)
+*  [FreeFlyCamSKSE64_v12.1 (1.5.73-97).zip](http://enbseries.enbdev.com/forum/download/file.php?id=1661&sid=e5f9c40cc51a29002e2e7ef3472a20ee)
 *  [fuckmeat-58288-1-0-1636692914.rar](https://www.nexusmods.com/skyrimspecialedition/mods/58288/?tab=files&file_id=240721)
 *  FurnAnim v0_13.zip
 *  FurnitureMarkerSex v0_14_3 SE.zip
