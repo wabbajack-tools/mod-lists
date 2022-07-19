@@ -8,10 +8,10 @@
 
 - [Skyrim Special Edition](#skyrim-special-edition)
   - [Aldrnari](#aldrnari)
-  - [Animonculory Dev Tools (ADT)](#animonculory-dev-tools-(ADT))
-  - [Animonculory Visual Overhaul (AVO)](#animonculory-visual-overhaul-(AVO))
+  - [Animonculory Dev Tools (ADT)](#animonculory-dev-tools)
+  - [Animonculory Visual Overhaul (AVO)](#animonculory-visual-overhaul)
   - [Arkay's Commandment](#arkays-commandment)
-  - [Elysium](#elysium)
+  - [Elysium](#elysium-remastered)
   - [Journey](#journey)
   - [Keizaal](#keizaal)
   - [Legends of the Frost](#legends-of-the-frost)
@@ -28,22 +28,23 @@
   - [Tinvaak](#tinvaak)
   - [Tranquility](#tranquility)
   - [Wildlander](#wildlander)
-  - [(NSFW)Licentia(NSFW)](#NSFWLicentiaNSFW)
+  - [(NSFW)Licentia(NSFW)](#nsfwlicentiansfw)
   - [(NSFW)Tsukiro(NSFW)](#nsfwtsukironsfw)
 - [Fallout 4](#fallout-4)
   - [Fallout 4: Enhanced Edition (F4EE)](#fallout-4-enhanced-edition-f4ee)
+  - [Life in the Ruins](#life-in-the-ruins)
   - [Magnum Opus](#magnum-opus)
   - [Welcome to Paradise](#welcome-to-paradise)
-  - [Life in the Ruins](#life-in-the-ruins)
 - [Enderal Special Edition](#enderal-special-edition)
   - [Somnium](#somnium)
+  - [The Path](#the-path)
 - [Skyrim Special Edition - VR](#skyrim-special-edition---vr)
-  - [Ultimate VR Essentials](#ultimate-vr-essentials)
-  - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr-1)
-  - [Narsil](#narsil)
   - [Auriel's Dream](#auriels-dream)
   - [Diabolist VR](#diabolist-vr)
   - [FUS](#fus)
+  - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr-1)
+  - [Ultimate VR Essentials](#ultimate-vr-essentials)
+  - [Yggdrasil](#yggdrasil)
 - [Fallout 4 VR](#fallout-4-vr)
   - [Fallout 4 VR Essentials Overhaul](#fallout-4-vr-essentials-overhaul)
 - [Fallout New Vegas](#fallout-new-vegas)
@@ -79,7 +80,7 @@ It has a plethora of quests, hundreds of handplaced new armors and weapons, new 
 
 ***
 
-### [Animonculory Dev Tools (ADT)](https://github.com/The-Animonculory/ADT/blob/main/README.md)
+### [Animonculory Dev Tools](https://github.com/The-Animonculory/ADT/blob/main/README.md)
 
 Animonuclory Dev Tools (ADT) is designed as a mod-authors toolkit and, should you wish, a base for a modlist. Featuring dll level fixes and minimal other bug fixes, it comes with all the tools you need to test and develop mods. ADT uses the 1.6.xx version of SSE and all mods inlcuded are fully compatible with it.
 
@@ -91,7 +92,7 @@ Animonuclory Dev Tools (ADT) is designed as a mod-authors toolkit and, should yo
 
 ***
 
-### [Animonculory Visual Overhaul (AVO)](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul)
+### [Animonculory Visual Overhaul](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul)
 
 Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect graphical base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well. Full Anniversary Edition support is provided via [AVO-AE](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/AEReadme.md)
 
