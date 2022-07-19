@@ -406,7 +406,7 @@ This list aims to greatly expand the content of Fallout 4 while keeping the orig
 
 ### [Welcome to Paradise](https://www.wabbajack.org/#/modlists/info?machineURL=tpf-fo4)
 
-Welcome to Paradise (WTP) is a lightweight Wabbajack mod list for Fallout 4. Mods were selected to improve existing parts of the game rather than outright replacing them, although some aspects were edited more heavily than others. The setup was built with gameplay-friendly performance in mind and can run at a stable 60FPS @1440p on reasonably modern hardware. Includes custom weapon/armor sorting and power armor paint jobs.
+Welcome to Paradise (WTP) is a lightweight Wabbajack mod list for Fallout 4. Mods were selected to improve existing parts of the game rather than outright replacing them, although some aspects were edited more heavily than others. The setup was built with gameplay-friendly performance in mind and can run at a stable 60FPS @1440p on reasonably modern hardware. Includes custom weapon/armor sorting.
 
 **_Mods to get familiar with:_**
 
