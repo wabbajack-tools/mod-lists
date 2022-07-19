@@ -125,6 +125,29 @@ Keizaal also features a more in-depth overview of all its features that can be f
 
 ***
 
+### [Legends of the Frost](https://www.wabbajack.org/modlist/wj-featured/lotf)
+
+Legends of the Frost is Skyrim, but better. Textures are sharper, trees are lusher, weathers are more diverse, and water no longer looks like oil. A collection of around 300 mods fixes a plethora of bugs and annoyances in addition to bringing some light improvements to visuals, combat, and balancing. LOTF also features seamless blending of distant terrain and trees as well as high quality facegen.
+
+- All essentials are installed, including the Skyrim Script Extender, the USSEP, SSE Engine Fixes, SSE Display Tweaks, etc.
+- Includes a plethora of additional fixes and tweaks for a smoother vanilla-like experience.
+- Fixed green-tinted blonde hair, weirdly bright falling leaves at night, and more.
+- More lush trees, actually 3D roads, less oily water, and many other visual improvements.
+- Vanilla-like but higher quality textures for many objects provided by Skyrim Realistic Overhaul.
+- All remaining textures replaced by cleaned and upscaled versions, courtesy of the Project Clarity series.
+- Improved weathers with Wander - A Weather Mod or Obsidian Weathers and Seasons.
+- Optional support and detailed installation instructions for The Truth ENB.
+- Modern interface thanks to SkyUI. The HUD is toggleable with Hide UI. Better Reading UI.
+- More resource management-oriented combat with Blade and Blunt (and vanilla damage modifiers).
+- Better sound quality with the Unofficial High Definition Audio Project and Audio Overhaul for Skyrim.
+- Optional Creation Club support (to be gradually expanded until all Creations are integrated).
+- Optional Performance profile with potato-friendly INI settings and DynDOLOD configuration.
+- Optional Widescreen support for 2560x1080 or 3440x1440 monitors.
+
+Check out the [full modlist](https://loadorderlibrary.com/lists/legends-of-the-frost) on Load Order Library or watch this [showcase](https://youtu.be/_Hru8F0QRwQ) by DroppedIceCream to find out more.
+
+***
+
 ### [The Phoenix Flavour](https://www.wabbajack.org/#/modlists/info?machineURL=tpf)
 
 Automated installer for [The Phoenix Flavour](https://thephoenixflavour.com/), this is a list that focuses on greatly improved graphics and enhancing existing gameplay mechanics instead of outright replacing them.
