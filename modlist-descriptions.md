@@ -406,15 +406,17 @@ This list aims to greatly expand the content of Fallout 4 while keeping the orig
 
 ### [Welcome to Paradise](https://www.wabbajack.org/#/modlists/info?machineURL=tpf-fo4)
 
-Simply put, this list is what Fallout 4 should have been on release. Touting dozens of fixes, improved performance through rebuilt precombines, a custom expanded sorting overhaul, and a wide variety of customization options, Phoenix Flavour: Fallout is the definitive answer for someone that wants to experience the game as it was meant to be played.
+Welcome to Paradise (WTP) is a lightweight Wabbajack mod list for Fallout 4. Mods were selected to improve existing parts of the game rather than outright replacing them, although some aspects were edited more heavily than others. The setup was built with gameplay-friendly performance in mind and can run at a stable 60FPS @1440p on reasonably modern hardware. Includes custom weapon/armor sorting and power armor paint jobs.
 
 **_Mods to get familiar with:_**
 
-[Workshop Rearranged](https://www.nexusmods.com/fallout4/mods/16181)  
-[No Legendary Items From Creatures](https://www.nexusmods.com/fallout4/mods/21864)  
-[True Storms](https://www.nexusmods.com/fallout4/mods/4472)  
+[The full FallUI suite]([https://www.nexusmods.com/fallout4/mods/16181](https://www.nexusmods.com/fallout4/mods/48758))  
+[Lightweight Lighting Overhaul]([https://www.nexusmods.com/fallout4/mods/21864](https://www.nexusmods.com/fallout4/mods/57680))  
+[Everyone's Best Friend](https://www.nexusmods.com/fallout4/mods/13459))  
 [Power Armor Materials and Paints](https://www.nexusmods.com/fallout4/mods/4619)  
-[Loot Logic and Reduction](https://www.nexusmods.com/fallout4/mods/21366)  
+[Loot Logic and Reduction](https://www.nexusmods.com/fallout4/mods/21366)
+
+Check out the [full modlist](https://loadorderlibrary.com/lists/welcome-to-paradise).
 
 ***
 
