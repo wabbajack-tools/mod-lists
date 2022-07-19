@@ -12,6 +12,7 @@
   - [Elysium](#elysium)
   - [Tales From the Northern Lands](#tales-from-the-northern-lands)
   - [Keizaal](#keizaal)
+  - [Legends of the Frost](#legends-of-the-frost)
   - [The Phoenix Flavour](#the-phoenix-flavour)
   - [Journey](#journey)
   - [Septimus](#septimus)
@@ -144,7 +145,7 @@ Legends of the Frost is Skyrim, but better. Textures are sharper, trees are lush
 - Optional Performance profile with potato-friendly INI settings and DynDOLOD configuration.
 - Optional Widescreen support for 2560x1080 or 3440x1440 monitors.
 
-Check out the [full modlist](https://loadorderlibrary.com/lists/legends-of-the-frost) on Load Order Library or watch this [showcase](https://youtu.be/_Hru8F0QRwQ) by DroppedIceCream to find out more.
+Check out the [full modlist](https://loadorderlibrary.com/lists/legends-of-the-frost) or watch this [showcase](https://youtu.be/_Hru8F0QRwQ) by DroppedIceCream to find out more.
 
 ***
 
