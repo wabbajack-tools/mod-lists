@@ -1,8 +1,7 @@
 ## Validation Report - Tahrovin (Tahrovin/tahrovin)
 
 
-### Invalid (1)
-*  [1207437741_BakaFactoryABCLESE.7z](https://authored-files.wabbajack.org/1207437741_BakaFactoryABCLESE.7z_072b8ab8-e8b7-414c-a86d-4886ee476e55)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (579)
@@ -49,6 +48,7 @@
 *  [Auto Sneak and Jump VR-23649-0-5-0-1634485937.rar](https://www.nexusmods.com/skyrimspecialedition/mods/23649/?tab=files&file_id=235404)
 *  [Azurite Weathers-42731-1-85-1643778238.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42731/?tab=files&file_id=261147)
 *  [Baka SOS SMP Patch.7z](https://www.patreon.com/file?h=37684959&i=5705398)
+*  [BakaFactory ABC LE SE.7z](https://authored-files.wabbajack.org/BakaFactory ABC LE SE.7z_8983fb6c-7c33-4b37-a404-ae0125bacd55)
 *  [Base Object Swapper VR-61734-1-6-0-1654506461.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61734/?tab=files&file_id=289176)
 *  [BD's Armor and clothes replacer CBBE 3BA - AIO-32518-1-41-1622832981.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32518/?tab=files&file_id=207237)
 *  [BD's Armor and clothes replacer CBBE 3BA - V1.42 Update file-32518-1-42-1623498473.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32518/?tab=files&file_id=208730)
@@ -281,7 +281,6 @@
 *  [FNIS Creature Pack SE 7.6-3038-7-6-1582049490.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3038/?tab=files&file_id=124621)
 *  [FOMOD created by Davoker-20214-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20214/?tab=files&file_id=68187)
 *  [For VR users-24135-1-2-1565804263.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24135/?tab=files&file_id=102992)
-*  [Forgiving Friends-26879-1-0-1609936829.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26879/?tab=files&file_id=177982)
 *  [Frozen Electrocuted Combustion-3532-5-0-5-1652183044.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3532/?tab=files&file_id=282674)
 *  [Fur Tent Retexture 4k-3621-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3621/?tab=files&file_id=6147)
 *  [Fuz.Ro.D.oh.VR.-.Alpha.3.zip](https://github.com/shadeMe/Fuz-Ro-D-oh-64/files/4674275/Fuz.Ro.D.oh.VR.-.Alpha.3.zip)
