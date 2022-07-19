@@ -126,6 +126,26 @@ Keizaal also features a more in-depth overview of all its features that can be f
 
 ***
 
+### [Skyrim Modding Essentials]
+
+Skyrim Modding Essentials is a lean utility Wabbajack list for Skyrim Special Edition, intended to jumpstart a new mod setup with all the required tools and basic mods. Instead of spending an afternoon configuring the basics, SME allows you to dive right into building your own custom mod list with zero hassle in a self-contained MO2 instance including a separate installation of the game.
+
+- Latest version of Mod Organizer 2 including useful plugins, all set up with a custom Game Root folder.
+- Skyrim Script Extender with a pre-configured INI and Address Library for SKSE.
+- Comprehensive list of essential modding tools, pre-installed and pre-configured.*
+- Lean file size with about 2.5GB of mods and 800MB of downloaded files.
+- All essentials, including but not limited to SkyUI, MCM Helper, and SSE Display Tweaks.
+- The foundational collections of fixes and tweaks: SSE Engine Fixes, po3's Tweaks, and Scrambled Bugs.
+- Additional fixes that should be relevant for and compatible with any setup. To be expanded.
+- Optionally includes full widescreen support with all relevant patches.
+- Optionally includes ENB binaries, premade enblocal.ini, and supplementary mods.
+- Clean MO2 setup with documentation for all changes in the Notes and further documentation on the website.
+- Quick & easy installation through Wabbajack.
+
+Check out the [full modlist](https://loadorderlibrary.com/lists/skyrim-modding-essentials).
+
+***
+
 ### [Legends of the Frost](https://www.wabbajack.org/modlist/wj-featured/lotf)
 
 Legends of the Frost is Skyrim, but better. Textures are sharper, trees are lusher, weathers are more diverse, and water no longer looks like oil. A collection of around 300 mods fixes a plethora of bugs and annoyances in addition to bringing some light improvements to visuals, combat, and balancing. LOTF also features seamless blending of distant terrain and trees as well as high quality facegen.
