@@ -12,6 +12,7 @@
   - [Elysium](#elysium)
   - [Tales From the Northern Lands](#tales-from-the-northern-lands)
   - [Keizaal](#keizaal)
+  - [Skyrim Modding Essentials](#skyrim-modding-essentials)
   - [Legends of the Frost](#legends-of-the-frost)
   - [The Phoenix Flavour](#the-phoenix-flavour)
   - [Journey](#journey)
