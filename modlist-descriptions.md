@@ -7,26 +7,27 @@
 ***
 
 - [Skyrim Special Edition](#skyrim-special-edition)
-  - [TSO - Total Skyrim Overhaul](#tso---total-skyrim-overhaul)
-  - [RGE - Relics of Hyrule - Grand Admiral Thrawn Edition](#rge---relics-of-hyrule---grand-admiral-thrawn-edition)
-  - [Elysium](#elysium)
-  - [Tales From the Northern Lands](#tales-from-the-northern-lands)
-  - [Keizaal](#keizaal)
-  - [Skyrim Modding Essentials](#skyrim-modding-essentials)
-  - [Legends of the Frost](#legends-of-the-frost)
-  - [The Phoenix Flavour](#the-phoenix-flavour)
-  - [Journey](#journey)
-  - [Septimus](#septimus)
-  - [The Phoenix Flavour - Dragon's Edition](#the-phoenix-flavour---dragons-edition)
-  - [Living Skyrim](#living-skyrim)
-  - [Serenity 2](#serenity-2)
-  - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr)
-  - [Tinvaak](#tinvaak)
   - [Aldrnari](#aldrnari)
-  - [Arkay's Commandment](#arkays-commandment)
-  - [Wildlander](#wildlander)
-  - [Tranquility](#tranquility)
+  - [Animonculory Dev Tools (ADT)](#animonculory-dev-tools-(ADT))
   - [Animonculory Visual Overhaul (AVO)](#animonculory-visual-overhaul-(AVO))
+  - [Arkay's Commandment](#arkays-commandment)
+  - [Elysium](#elysium)
+  - [Journey](#journey)
+  - [Keizaal](#keizaal)
+  - [Legends of the Frost](#legends-of-the-frost)
+  - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr)
+  - [Living Skyrim](#living-skyrim)
+  - [RGE - Relics of Hyrule - Grand Admiral Thrawn Edition](#rge---relics-of-hyrule---grand-admiral-thrawn-edition)
+  - [Septimus](#septimus)
+  - [Serenity 2](#serenity-2)
+  - [Skyrim Modding Essentials](#skyrim-modding-essentials)
+  - [TSO - Total Skyrim Overhaul](#tso---total-skyrim-overhaul)
+  - [Tales From the Northern Lands](#tales-from-the-northern-lands)
+  - [The Phoenix Flavour - Dragon's Edition](#the-phoenix-flavour---dragons-edition)
+  - [The Phoenix Flavour](#the-phoenix-flavour)
+  - [Tinvaak](#tinvaak)
+  - [Tranquility](#tranquility)
+  - [Wildlander](#wildlander)
   - [(NSFW)Licentia(NSFW)](#NSFWLicentiaNSFW)
   - [(NSFW)Tsukiro(NSFW)](#nsfwtsukironsfw)
 - [Fallout 4](#fallout-4)
@@ -57,31 +58,64 @@
 
 ## Skyrim Special Edition
 
-***
+### [Aldrnari](https://www.wabbajack.org/#/modlists/info?machineURL=aldrnari)
 
-### [TSO - Total Skyrim Overhaul](https://www.wabbajack.org/#/modlists/info?machineURL=tso)
+Aldrnari (ᚨᛚᛞᚱᚾᚨᚱᛁ) is a project to make a Skyrim ***I*** (Sovn) want to play. It is an ode to my love for folk music; in fact, the idea came when I began listening to [Yggdrasil Music and SoundFX Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21578) and started listening to folk music all together.
 
-TSO is a finely-tuned modlist based on Requiem v1.9.4 and AZ Tweaks. Almost everything has been modified by hand, and is meant to be a challenging experience unlike any you’ve had before. This is very much a game you are meant to experience for yourself without asking for a walkthrough, so be prepared to die a lot while you learn how best to handle the new mechanics.
+This 2000+ modlist is made to be challenging, rewarding, and, eventually, you will become an overpowered Dragonborn who goes against terrible and fierce enemies. 
+It is deeply inspired by games like Dark Souls and Hellblade: Senua's Sacrifice, while having an artistic direction that comes close to screen-archery.
 
-[TSO Gameplay Guide](https://github.com/NotTotal/Total-Skyrim-Overhaul/blob/master/README.md#gameplay-guide)
-
-***
-
-### [RGE - Relics of Hyrule - Grand Admiral Thrawn Edition](https://www.wabbajack.org/#/modlists/info?machineURL=rge)
-
-For those that have had enough of the “lore-friendly” lists and want something different, RGE boasts a massive 900+ mods, featuring items, characters, and references from both The Legend of Zelda and Star Wars universes.
+It has a plethora of quests, hundreds of handplaced new armors and weapons, new music, new companions and a completely overhauled worldspace. All of this is detailled in the rich **[Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)** which dives deeply on what's to expect. Many of this changes are detailled and showcased in [this video from DroppedIceCream](https://www.youtube.com/watch?v=OPqaZN5j1eg)
 
 **_Mods to get familiar with:_**
 
-[Relics of Hyrule](https://www.nexusmods.com/skyrimspecialedition/mods/12244)  
-[Invasion of Skyrim - The Force Awakens - Grand Admiral Thrawn](https://www.nexusmods.com/skyrimspecialedition/mods/24)  
-[Rogue-like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872)  
-[Spellsiphon](https://www.nexusmods.com/skyrimspecialedition/mods/26627)  
-[Skyrim Redone](https://www.nexusmods.com/skyrimspecialedition/mods/17915)  
+- [Yggdrasil Music and SoundFX Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21578) with [Celtic Music in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/2980)
+- [Alternate Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/50307)
+- [SkySA](https://www.nexusmods.com/skyrimspecialedition/mods/31390) and [Distance Based Combat](https://www.nexusmods.com/skyrimspecialedition/mods/60855)
+- [Ordinator](https://www.nexusmods.com/skyrimspecialedition/mods/1137)
+- [Palladium Racials](https://www.nexusmods.com/skyrimspecialedition/mods/43890)
+- [Arcanum](https://www.nexusmods.com/skyrimspecialedition/mods/23488) and [Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711)
+- [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/30410)
 
 ***
 
-### [Elysium](https://www.wabbajack.org/#/modlists/info?machineURL=elysium)
+### [Animonculory Dev Tools (ADT)](https://github.com/The-Animonculory/ADT/blob/main/README.md)
+
+Animonuclory Dev Tools (ADT) is designed as a mod-authors toolkit and, should you wish, a base for a modlist. Featuring dll level fixes and minimal other bug fixes, it comes with all the tools you need to test and develop mods. ADT uses the 1.6.xx version of SSE and all mods inlcuded are fully compatible with it.
+
+**_Tools/Mods to get familiar with:_**
+
+- [NifSkope](http://niftools.sourceforge.net/wiki/NifSkope)
+- [Octagon](https://www.nexusmods.com/skyrimspecialedition/mods/28773)
+- [Synthesis](https://github.com/Mutagen-Modding/Synthesis)
+
+***
+
+### [Animonculory Visual Overhaul (AVO)](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul)
+
+Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect graphical base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well. Full Anniversary Edition support is provided via [AVO-AE](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/AEReadme.md)
+
+**_Mods to get familiar with:_**
+
+- [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004)
+- [Synthesis](https://github.com/Mutagen-Modding/Synthesis)
+- [Full Modlist](https://loadorderlibrary.com/lists/animonculory-visual-overhaul)
+
+***
+
+### [Arkay's Commandment](https://www.wabbajack.org/#/modlists/info?machineURL=arkayscommandment)
+
+My personal mod list that I play with, utilizing Requiem and 3Tweaks, focused on limiting explotative gameplay and crafting a consistently challenging adventure, all with 1 life only. The only way to advance is to utilize everything at your disposal, and as a player you'll need to have good mechanical skills and game knowledge. 
+
+**_Mods to get familiar with:_**
+
+- [Requiem](https://www.nexusmods.com/skyrim/mods/19281)
+- [3Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44044)
+- [Skyrim Souls](https://www.nexusmods.com/skyrimspecialedition/mods/27859)
+
+***
+
+### [Elysium Remastered](https://github.com/TitansBane/Elysium-Remastered)
 
 From TitansBane, the author of [Reliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612), comes Elysium: what started as a simple off-shoot of The Phoenix Flavour has grown into its own massive undertaking. Elysium has taken its predecessor and packed it full of more content, including mods like [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802), [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194), a full suite of [EnaiSiaion](https://www.nexusmods.com/skyrimspecialedition/users/3959191)’s mods, and an optional MO2 profile that supports all of your Creation Club content - all without sacrificing the stability that TPF is known for.
 
@@ -95,19 +129,13 @@ From TitansBane, the author of [Reliquary of Myth](https://www.nexusmods.com/sky
 
 ***
 
-### [Tales From the Northern Lands](https://www.wabbajack.org/#/modlists/info?machineURL=TalesFromTheNorthernLands)
+### [Journey](https://github.com/Lost-Outpost/journey)
 
-Tales from the Northern Lands is a list that focuses primarily on offering a stylized look similar to Borderlands, the Tales of/from … or the TellTale Walking Dead games. A very welcome side effect of this is that it will even run on older hardware like a GTX 950 and possibly lower. The gameplay features a unique inventory overhaul that allows you to only focus on your armor, weapons and potions.
+Journey is a lightweight modlist designed to give an enhanced graphical presentation that keeps the spirit of Skyrim's aesthetic and provide a cohesive lightweight gameplay overhaul with an optional survival component using Survival Mode and optional full Creation Club integration. Play an enhanced Skyrim experience with a few carefully selected additional quests, new lands, and companions included. Journey is designed to look and run beautifully, even on lower end systems.
 
-*Please note that Luca (the modlist author) does not support changes to the list, as this Basics profile was only made by request.*
+**_Mods to get familiar with_**
 
-**_Mods to get familiar with:_**
-
-[Race Abilities Enhanced (SkyRem - Rae)](https://www.nexusmods.com/skyrimspecialedition/mods/23223)  
-[Constellations - A Standing Stones Improvement (SkyRem - Cassi)](https://www.nexusmods.com/skyrimspecialedition/mods/43763)  
-[All the SimonRim Mods (Except the Race, Religion and Stadingstone mods)](https://www.nexusmods.com/skyrimspecialedition/mods/43763)  
-
-[Full List on LoadorderLibrary](https://loadorderlibrary.com/lists/tales-from-the-northern-lands)
+[Gameplay Guide Here](https://github.com/Lost-Outpost/journey/blob/main/GAMEPLAY.md)
 
 ***
 
@@ -124,26 +152,6 @@ Keizaal also features a more in-depth overview of all its features that can be f
 [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549)  
 [Cities of the North](https://www.nexusmods.com/skyrimspecialedition/mods/28952)  
 [EpicCrab](https://www.nexusmods.com/skyrimspecialedition/users/4117328?tab=user+files) and [Parapets](https://www.nexusmods.com/skyrimspecialedition/users/39501725?tab=user+files) mod suites
-
-***
-
-### [Skyrim Modding Essentials]
-
-Skyrim Modding Essentials is a lean utility Wabbajack list for Skyrim Special Edition, intended to jumpstart a new mod setup with all the required tools and basic mods. Instead of spending an afternoon configuring the basics, SME allows you to dive right into building your own custom mod list with zero hassle in a self-contained MO2 instance including a separate installation of the game.
-
-- Latest version of Mod Organizer 2 including useful plugins, all set up with a custom Game Root folder.
-- Skyrim Script Extender with a pre-configured INI and Address Library for SKSE.
-- Comprehensive list of essential modding tools, pre-installed and pre-configured.*
-- Lean file size with about 2.5GB of mods and 800MB of downloaded files.
-- All essentials, including but not limited to SkyUI, MCM Helper, and SSE Display Tweaks.
-- The foundational collections of fixes and tweaks: SSE Engine Fixes, po3's Tweaks, and Scrambled Bugs.
-- Additional fixes that should be relevant for and compatible with any setup. To be expanded.
-- Optionally includes full widescreen support with all relevant patches.
-- Optionally includes ENB binaries, premade enblocal.ini, and supplementary mods.
-- Clean MO2 setup with documentation for all changes in the Notes and further documentation on the website.
-- Quick & easy installation through Wabbajack.
-
-Check out the [full modlist](https://loadorderlibrary.com/lists/skyrim-modding-essentials).
 
 ***
 
@@ -167,6 +175,113 @@ Legends of the Frost is Skyrim, but better. Textures are sharper, trees are lush
 - Optional Widescreen support for 2560x1080 or 3440x1440 monitors.
 
 Check out the [full modlist](https://loadorderlibrary.com/lists/legends-of-the-frost) or watch this [showcase](https://youtu.be/_Hru8F0QRwQ) by DroppedIceCream to find out more.
+
+***
+
+### [Librum for Skyrim SE and VR](https://github.com/apoapse1/Librum-for-Skyrim-VR)
+
+A gritty, low-magic, hardcore survival-adventure experience with an uncompromising vision. Hundreds of new quests and locations, a total mechanics overhaul, and a complete makeover of the graphics and atmosphere. The path to your destiny as the Dragonborn will be long and treacherous. Welcome to Librum.
+
+**_Mods to get familiar with:_**
+
+[Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983)  
+[Morrowloot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058)  
+[Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807)  
+[SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414)  
+[Frostfall](https://www.nexusmods.com/skyrimspecialedition/mods/671)  
+[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
+
+Really, though, please check out our [website](https://www.scenicroute.games/projects/librum-se).
+
+***
+
+### [Living Skyrim](https://www.wabbajack.org/#/modlists/info?machineURL=living_skyrim)
+
+Living Skyrim aims to breathe life to the familiar emptiness of Skyrim, bringing tons of new characters to meet and interact with. Pair this with the new quests and character options, and you get a roleplay-focused and immensely replayable list.
+
+**_Mods to get familiar with:_**
+
+[Increased Enemy Spawns](https://www.nexusmods.com/skyrimspecialedition/mods/2470)  
+[SmartCast](https://www.nexusmods.com/skyrim/mods/43123)  
+[Inconsequential NPCs](https://www.nexusmods.com/skyrim/mods/36334)  
+[Organic Factions](https://www.nexusmods.com/skyrimspecialedition/mods/10289)  
+[Alternate Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/50307)
+
+***
+
+### [RGE - Relics of Hyrule - Grand Admiral Thrawn Edition](https://www.wabbajack.org/#/modlists/info?machineURL=rge)
+
+For those that have had enough of the “lore-friendly” lists and want something different, RGE boasts a massive 900+ mods, featuring items, characters, and references from both The Legend of Zelda and Star Wars universes.
+
+**_Mods to get familiar with:_**
+
+[Relics of Hyrule](https://www.nexusmods.com/skyrimspecialedition/mods/12244)  
+[Invasion of Skyrim - The Force Awakens - Grand Admiral Thrawn](https://www.nexusmods.com/skyrimspecialedition/mods/24)  
+[Rogue-like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872)  
+[Spellsiphon](https://www.nexusmods.com/skyrimspecialedition/mods/26627)  
+[Skyrim Redone](https://www.nexusmods.com/skyrimspecialedition/mods/17915)  
+
+***
+
+### [Septimus](https://www.wabbajack.org/#/modlists/info?machineURL=septimus)
+
+Septimus is an extensive performance-friendly modlist full of carefully chosen new gear, spells, quests, optional survival gameplay as well as full anniversary edition creation club support.
+
+**_Mods to get familiar with:_**
+
+[Mod Guide Here](https://github.com/Guitarninja2/septimus/blob/main/GAMEPLAY.md)
+
+***
+
+### [Serenity 2](https://www.wabbajack.org/#/modlists/info?machineURL=serenity)
+
+Serenity 2 is a Skyrim SE modlist that aims to bring a fresh Requiem Experience to the table. It uses Requiem 4.0.1 converted to Skyrim Special Edition and has minor and some major tweaks to the core Requiem experience that aims to enhance longevity and replayability while keeping the game fair, balanced and looking great. Serenity is targeted at new and veteran Requiem players and can offer new experiences to both sides of the playerbase. The list should run well on 1440p by utilizing 2K textures everywhere.
+
+**_Mods to get familiar with:_**
+
+[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
+[Requiem](https://www.nexusmods.com/skyrim/mods/19281)  
+[Requiem - Small Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42633)  
+[Requiem - Immersive Divine Blessings](https://www.nexusmods.com/skyrim/mods/90691) 
+[Requiem - Expanded Grimoire](https://www.nexusmods.com/skyrimspecialedition/mods/39214)
+[Requiem - Special Feats](https://www.nexusmods.com/skyrimspecialedition/mods/42588)
+[Requiem - Unarmed Combat Enhancer](https://www.nexusmods.com/skyrimspecialedition/mods/42541)
+
+***
+
+### [Skyrim Modding Essentials](https://thephoenixflavour.com/sme/introduction/)
+
+Skyrim Modding Essentials is a lean utility Wabbajack list for Skyrim Special Edition, intended to jumpstart a new mod setup with all the required tools and basic mods. Instead of spending an afternoon configuring the basics, SME allows you to dive right into building your own custom mod list with zero hassle in a self-contained MO2 instance including a separate installation of the game.
+
+- Latest version of Mod Organizer 2 including useful plugins, all set up with a custom Game Root folder.
+- Skyrim Script Extender with a pre-configured INI and Address Library for SKSE.
+- Comprehensive list of essential modding tools, pre-installed and pre-configured.*
+- Lean file size with about 2.5GB of mods and 800MB of downloaded files.
+- All essentials, including but not limited to SkyUI, MCM Helper, and SSE Display Tweaks.
+- The foundational collections of fixes and tweaks: SSE Engine Fixes, po3's Tweaks, and Scrambled Bugs.
+- Additional fixes that should be relevant for and compatible with any setup. To be expanded.
+- Optionally includes full widescreen support with all relevant patches.
+- Optionally includes ENB binaries, premade enblocal.ini, and supplementary mods.
+- Clean MO2 setup with documentation for all changes in the Notes and further documentation on the website.
+- Quick & easy installation through Wabbajack.
+
+Check out the [full modlist](https://loadorderlibrary.com/lists/skyrim-modding-essentials).
+
+***
+
+### [Tales From the Northern Lands](https://www.wabbajack.org/#/modlists/info?machineURL=TalesFromTheNorthernLands)
+
+Tales from the Northern Lands is a list that focuses primarily on offering a stylized look similar to Borderlands, the Tales of/from … or the TellTale Walking Dead games. A very welcome side effect of this is that it will even run on older hardware like a GTX 950 and possibly lower. The gameplay features a unique inventory overhaul that allows you to only focus on your armor, weapons and potions.
+
+*Please note that Luca (the modlist author) does not support changes to the list, as this Basics profile was only made by request.*
+
+**_Mods to get familiar with:_**
+
+[Race Abilities Enhanced (SkyRem - Rae)](https://www.nexusmods.com/skyrimspecialedition/mods/23223)  
+[Constellations - A Standing Stones Improvement (SkyRem - Cassi)](https://www.nexusmods.com/skyrimspecialedition/mods/43763)  
+[All the SimonRim Mods (Except the Race, Religion and Stadingstone mods)](https://www.nexusmods.com/skyrimspecialedition/mods/43763)  
+
+[Full List on LoadorderLibrary](https://loadorderlibrary.com/lists/tales-from-the-northern-lands)
 
 ***
 
@@ -204,73 +319,6 @@ _**Some of the juiciest additions for you to learn about:**_
 
 ***
 
-### [Journey](https://github.com/Lost-Outpost/journey)
-
-Journey is a lightweight modlist designed to give an enhanced graphical presentation that keeps the spirit of Skyrim's aesthetic and provide a cohesive lightweight gameplay overhaul with an optional survival component using Survival Mode and optional full Creation Club integration. Play an enhanced Skyrim experience with a few carefully selected additional quests, new lands, and companions included. Journey is designed to look and run beautifully, even on lower end systems.
-
-**_Mods to get familiar with_**
-
-[Gameplay Guide Here](https://github.com/Lost-Outpost/journey/blob/main/GAMEPLAY.md)
-
-***
-
-### [Septimus](https://www.wabbajack.org/#/modlists/info?machineURL=septimus)
-
-Septimus is an extensive performance-friendly modlist full of carefully chosen new gear, spells, quests, optional survival gameplay as well as full anniversary edition creation club support.
-
-**_Mods to get familiar with:_**
-
-[Mod Guide Here](https://github.com/Guitarninja2/septimus/blob/main/GAMEPLAY.md)
-
-***
-
-### [Living Skyrim](https://www.wabbajack.org/#/modlists/info?machineURL=living_skyrim)
-
-Living Skyrim aims to breathe life to the familiar emptiness of Skyrim, bringing tons of new characters to meet and interact with. Pair this with the new quests and character options, and you get a roleplay-focused and immensely replayable list.
-
-**_Mods to get familiar with:_**
-
-[Increased Enemy Spawns](https://www.nexusmods.com/skyrimspecialedition/mods/2470)  
-[SmartCast](https://www.nexusmods.com/skyrim/mods/43123)  
-[Inconsequential NPCs](https://www.nexusmods.com/skyrim/mods/36334)  
-[Organic Factions](https://www.nexusmods.com/skyrimspecialedition/mods/10289)  
-[Alternate Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/50307)
-
-***
-
-### [Serenity 2](https://www.wabbajack.org/#/modlists/info?machineURL=serenity)
-
-Serenity 2 is a Skyrim SE modlist that aims to bring a fresh Requiem Experience to the table. It uses Requiem 4.0.1 converted to Skyrim Special Edition and has minor and some major tweaks to the core Requiem experience that aims to enhance longevity and replayability while keeping the game fair, balanced and looking great. Serenity is targeted at new and veteran Requiem players and can offer new experiences to both sides of the playerbase. The list should run well on 1440p by utilizing 2K textures everywhere.
-
-**_Mods to get familiar with:_**
-
-[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
-[Requiem](https://www.nexusmods.com/skyrim/mods/19281)  
-[Requiem - Small Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42633)  
-[Requiem - Immersive Divine Blessings](https://www.nexusmods.com/skyrim/mods/90691) 
-[Requiem - Expanded Grimoire](https://www.nexusmods.com/skyrimspecialedition/mods/39214)
-[Requiem - Special Feats](https://www.nexusmods.com/skyrimspecialedition/mods/42588)
-[Requiem - Unarmed Combat Enhancer](https://www.nexusmods.com/skyrimspecialedition/mods/42541)
-
-***
-
-### [Librum for Skyrim SE and VR](https://github.com/apoapse1/Librum-for-Skyrim-VR)
-
-A gritty, low-magic, hardcore survival-adventure experience with an uncompromising vision. Hundreds of new quests and locations, a total mechanics overhaul, and a complete makeover of the graphics and atmosphere. The path to your destiny as the Dragonborn will be long and treacherous. Welcome to Librum.
-
-**_Mods to get familiar with:_**
-
-[Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983)  
-[Morrowloot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058)  
-[Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807)  
-[SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414)  
-[Frostfall](https://www.nexusmods.com/skyrimspecialedition/mods/671)  
-[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
-
-Really, though, please check out our [website](https://librum-modpack.com/).
-
-***
-
 ### [Tinvaak](https://github.com/Althro/Tinvaak2)
 
 Tinvaak is a list focused on making Skyrim: Special Edition (SSE) into an actual roleplaying game. Many new mechanics and changes are present to offer an alternate take on the game. You can view many of these changes in the [showcase video from DroppedIceCream](https://www.youtube.com/watch?v=4N0cOrv5Crc), the [official trailer](https://youtu.be/8bLSGfok47g) and the [Changes to Gameplay](https://github.com/Althro/Tinvaak2/blob/main/Changes%20to%20Gameplay.md) article.
@@ -285,50 +333,6 @@ Tinvaak is a list focused on making Skyrim: Special Edition (SSE) into an actual
 - [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
 - [Heim - Smithing Tweaks and Lightweight Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54207)
 - [SkySA - Combat Behaviour Compulsion](https://www.nexusmods.com/skyrimspecialedition/mods/31390)
-
-***
-
-### [Aldrnari](https://www.wabbajack.org/#/modlists/info?machineURL=aldrnari)
-
-Aldrnari (ᚨᛚᛞᚱᚾᚨᚱᛁ) is a project to make a Skyrim ***I*** (Sovn) want to play. It is an ode to my love for folk music; in fact, the idea came when I began listening to [Yggdrasil Music and SoundFX Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21578) and started listening to folk music all together.
-
-This 2000+ modlist is made to be challenging, rewarding, and, eventually, you will become an overpowered Dragonborn who goes against terrible and fierce enemies. 
-It is deeply inspired by games like Dark Souls and Hellblade: Senua's Sacrifice, while having an artistic direction that comes close to screen-archery.
-
-It has a plethora of quests, hundreds of handplaced new armors and weapons, new music, new companions and a completely overhauled worldspace. All of this is detailled in the rich **[Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)** which dives deeply on what's to expect. Many of this changes are detailled and showcased in [this video from DroppedIceCream](https://www.youtube.com/watch?v=OPqaZN5j1eg)
-
-**_Mods to get familiar with:_**
-
-- [Yggdrasil Music and SoundFX Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21578) with [Celtic Music in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/2980)
-- [Alternate Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/50307)
-- [SkySA](https://www.nexusmods.com/skyrimspecialedition/mods/31390) and [Distance Based Combat](https://www.nexusmods.com/skyrimspecialedition/mods/60855)
-- [Ordinator](https://www.nexusmods.com/skyrimspecialedition/mods/1137)
-- [Palladium Racials](https://www.nexusmods.com/skyrimspecialedition/mods/43890)
-- [Arcanum](https://www.nexusmods.com/skyrimspecialedition/mods/23488) and [Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711)
-- [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/30410)
-
-
-***
-
-### [Arkay's Commandment](https://www.wabbajack.org/#/modlists/info?machineURL=arkayscommandment)
-
-My personal mod list that I play with, utilizing Requiem and 3Tweaks, focused on limiting explotative gameplay and crafting a consistently challenging adventure, all with 1 life only. The only way to advance is to utilize everything at your disposal, and as a player you'll need to have good mechanical skills and game knowledge. 
-
-**_Mods to get familiar with:_**
-
-- [Requiem](https://www.nexusmods.com/skyrim/mods/19281)
-- [3Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44044)
-- [Skyrim Souls](https://www.nexusmods.com/skyrimspecialedition/mods/27859)
-
-***
-
-### [Wildlander](https://www.wildlandermod.com/download)
-
-Wildlander is a total conversion modpack for The Elder Scrolls V: Skyrim Special Edition that aims to bring the frozen north into your home. Whether you want to call it immersion, realism, roleplaying, or simple masochism, the end-goal is to make you actually feel like an intrepid adventurer climbing snow-covered mountains, delving into ancient ruins, and getting yourself chased by packs of hungry wolves. The whole experience is built around Requiem - the Roleplaying Overhaul - 4.0.2. Requiem completely retools all of Skyrim to create a challenging, deleveled world with plenty of meaningful choices and is made up of hundreds of publicly available mods made by almost as many talented mod authors. These mods have been carefully selected, tested, and tweaked by Dylan Perry to iron out any technical difficulties and maintain a consistent experience.
-
-**_Mods to get familiar with:_**
-- [Requiem](https://www.nexusmods.com/skyrimspecialedition/mods/60888)
-- [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962)
 
 ***
 
@@ -347,15 +351,21 @@ A complete overhaul of Skyrim, Tranquility is a modlist aimed at people wanting 
 
 ***
 
-### [Animonculory Visual Overhaul (AVO)](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul)
+### [TSO - Total Skyrim Overhaul](https://www.wabbajack.org/#/modlists/info?machineURL=tso)
 
-Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect graphical base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well.
+TSO is a finely-tuned modlist based on Requiem v1.9.4 and AZ Tweaks. Almost everything has been modified by hand, and is meant to be a challenging experience unlike any you’ve had before. This is very much a game you are meant to experience for yourself without asking for a walkthrough, so be prepared to die a lot while you learn how best to handle the new mechanics.
+
+[TSO Gameplay Guide](https://github.com/NotTotal/Total-Skyrim-Overhaul/blob/master/README.md#gameplay-guide)
+
+***
+
+### [Wildlander](https://www.wildlandermod.com/download)
+
+Wildlander is a total conversion modpack for The Elder Scrolls V: Skyrim Special Edition that aims to bring the frozen north into your home. Whether you want to call it immersion, realism, roleplaying, or simple masochism, the end-goal is to make you actually feel like an intrepid adventurer climbing snow-covered mountains, delving into ancient ruins, and getting yourself chased by packs of hungry wolves. The whole experience is built around Requiem - the Roleplaying Overhaul - 4.0.2. Requiem completely retools all of Skyrim to create a challenging, deleveled world with plenty of meaningful choices and is made up of hundreds of publicly available mods made by almost as many talented mod authors. These mods have been carefully selected, tested, and tweaked by Dylan Perry to iron out any technical difficulties and maintain a consistent experience.
 
 **_Mods to get familiar with:_**
-
-- [Weathers for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/55005)
-- [Synthesis](https://github.com/Mutagen-Modding/Synthesis)
-- [Full Modlist](https://loadorderlibrary.com/lists/animonculory-visual-overhaul)
+- [Requiem](https://www.nexusmods.com/skyrimspecialedition/mods/60888)
+- [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962)
 
 ***
 
@@ -396,8 +406,6 @@ Some fantastic screenshots from a fan of the modlist: https://www.youtube.com/wa
 
 ## Fallout 4
 
-***
-
 ### [Fallout 4: Enhanced Edition (F4EE)](https://www.wabbajack.org/#/modlists/info?machineURL=fallout_4_enhanced_edition)
 
 F4EE is a hardcore experience built around Horizon. Survival difficulty is a mainstay for this list. Ammo, food, and water will all be much harder to find, and you’ll have to really think on your feet and take things slow if you want to survive. Overcoming great challenges is the name of the game here. Settlement building is a core mechanic of F4EE, and you will have a much more difficult time without it.
@@ -408,6 +416,16 @@ F4EE is a hardcore experience built around Horizon. Survival difficulty is a mai
 [Better Locational Damage](https://www.nexusmods.com/fallout4/mods/3815)  
 [Immersive Fallout](https://www.nexusmods.com/fallout4/mods/30151)  
 [VAFS Redux - Bullet Time and Manual Critical](https://www.nexusmods.com/fallout4/mods/36519)  
+
+***
+
+### [Life in the Ruins](https://www.wabbajack.org/#/modlists/info?machineURL=life_in_the_ruins)
+
+From the author of Creative Perks Plus, a Fallout 4 modlist for a survival playthrough without the grind, based on Lunar Fallout Overhaul and Sim Settlements 2. Designed to deepen and enhance the game, without straying too far from the vanilla asthetic.
+
+**_Mods to get familiar with:_**
+
+[Lunar Fallout Overhaul](https://www.nexusmods.com/fallout4/mods/34769)
 
 ***
 
@@ -441,85 +459,25 @@ Check out the [full modlist](https://loadorderlibrary.com/lists/welcome-to-parad
 
 ***
 
-### [Life in the Ruins](https://www.wabbajack.org/#/modlists/info?machineURL=life_in_the_ruins)
-
-From the author of Creative Perks Plus, a Fallout 4 modlist for a survival playthrough without the grind, based on Lunar Fallout Overhaul and Sim Settlements 2. Designed to deepen and enhance the game, without straying too far from the vanilla asthetic.
-
-**_Mods to get familiar with:_**
-
-[Lunar Fallout Overhaul](https://www.nexusmods.com/fallout4/mods/34769)
-
 ## Enderal Special Edition
-
-***
 
 ### [Somnium](https://www.scenicroute.games/projects/somnium)
 
 From the same team that brought you Librum SE and Librum VR, Somnium is a total conversion of Enderal's mechanics, graphics, and atmosphere, designed to bring the gameplay and visuals up to par with Enderal's first-rate stories and setting. Specifically, Somnium casts the game into an Age of Sail setting, complete with all-new, custom third-person shooter mechanics; new and remastered assets and locations; and a complete re-imagining of all game mechanics. Moreover, the game is built upon a new horror framework in the form of _Apoapse's Anomalies_, turning Enderal's fantasy elements into something more reminiscient of Lovecraftian horror.
 
+***
+
+### [The Path](https://github.com/Lost-Outpost/thepath)
+
+The Path is a lightweight Enderal modlist meant to enhance visuals, provide quality of life improvements and introduce some small content additions while keeping close to the game's original vision.
+
+**_Mods to get familiar with:_**
+
+[Mod Guide Here](https://github.com/Lost-Outpost/thepath/blob/main/GAMEPLAY.md)
+
+***
+
 ## Skyrim Special Edition - VR
-
-***
-
-### [Ultimate VR Essentials](https://docs.google.com/document/d/19PhkPbhh0d8_ZoKj5mGBpmUIMU10c_7P94X9FpIuyak/edit)
-
-The first official Skyrim VR list built for Wabbajack, UVRE’s primary goal is to provide users with a full visual overhaul tailored for Skyrim VR with all the adjustments and frameworks in place to serve as a base for further expansions and customizations, while also offering instant access to VR-centric mods like Spellsiphon and Weapon Throw VR.
-
-**_Mods to get familiar with:_**
-
-[VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)  
-[Spellsiphon - Immersive Combat](https://www.nexusmods.com/skyrimspecialedition/mods/26627)  
-[Muken's Arcane Archery](https://www.nexusmods.com/skyrimspecialedition/mods/30404)  
-[HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)  
-[VR Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/38539)  
-[Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374)  
-[Be Seated](https://www.nexusmods.com/skyrimspecialedition/mods/16613)  
-[MageVR](https://www.nexusmods.com/skyrimspecialedition/mods/21297)  
-[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
-
-There is also a [handy dandy installation video](https://youtu.be/_Y4h4U-MWhA)!
-
-***
-
-### [Librum for Skyrim SE and VR](https://github.com/apoapse1/Librum-for-Skyrim-VR)
-
-A gritty, low-magic, hardcore survival-adventure experience with an uncompromising vision. Hundreds of new quests and locations, a total mechanics overhaul, and a complete makeover of the graphics and atmosphere. The path to your destiny as the Dragonborn will be long and treacherous. Welcome to Librum.
-
-**_Mods to get familiar with:_**
-
-[VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)  
-[HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)  
-[Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630)  
-[Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983)  
-[Morrowloot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058)  
-[Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807)  
-[SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414)  
-[Frostfall](https://www.nexusmods.com/skyrimspecialedition/mods/671)  
-[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
-
-Really, though, please check out our [website](https://librum-modpack.com/).
-
-***
-
-### [Narsil](https://mvlad.design/narsil)
-
-Narsil is an ambitious curated modlist that seeks to overhaul and expand Skyrim VR to make it more balanced, challenging, varied, good looking and most importantly expand the available gameplay options and make the game more immersive while making sure it's playable on lower spec configurations.
-
-**_Mods to get familiar with:_**
-
-[VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)  
-[HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)  
-[Navigate VR](https://www.nexusmods.com/skyrimspecialedition/mods/47174)  
-[Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630)  
-[Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983)  
-[Campfire Unleashed](https://www.nexusmods.com/skyrimspecialedition/mods/11001)  
-[Decorator Helper](https://www.nexusmods.com/skyrimspecialedition/mods/11708)  
-[Knockout and Surrender](https://www.nexusmods.com/skyrimspecialedition/mods/40556)  
-[True Death](https://www.nexusmods.com/skyrimspecialedition/mods/26896)  
-
-Really, though, please check out the [website](https://mvlad.design/narsil).
-
-***
 
 ### [Auriels Dream](https://github.com/Kvitekvist/Auriel-s-Dream/blob/master/README.md)
 
@@ -579,9 +537,67 @@ There is also a [handy dandy installation video](https://youtu.be/_Y4h4U-MWhA)!
 
 ***
 
-## Fallout 4 VR
+### [Librum for Skyrim SE and VR](https://github.com/apoapse1/Librum-for-Skyrim-VR)
+
+A gritty, low-magic, hardcore survival-adventure experience with an uncompromising vision. Hundreds of new quests and locations, a total mechanics overhaul, and a complete makeover of the graphics and atmosphere. The path to your destiny as the Dragonborn will be long and treacherous. Welcome to Librum.
+
+**_Mods to get familiar with:_**
+
+[VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)  
+[HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)  
+[Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630)  
+[Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983)  
+[Morrowloot Ultimate](https://www.nexusmods.com/skyrimspecialedition/mods/3058)  
+[Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807)  
+[SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414)  
+[Frostfall](https://www.nexusmods.com/skyrimspecialedition/mods/671)  
+[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
+
+Really, though, please check out our [website](https://librum-modpack.com/).
 
 ***
+
+### [Ultimate VR Essentials](https://docs.google.com/document/d/19PhkPbhh0d8_ZoKj5mGBpmUIMU10c_7P94X9FpIuyak/edit)
+
+The first official Skyrim VR list built for Wabbajack, UVRE’s primary goal is to provide users with a full visual overhaul tailored for Skyrim VR with all the adjustments and frameworks in place to serve as a base for further expansions and customizations, while also offering instant access to VR-centric mods like Spellsiphon and Weapon Throw VR.
+
+**_Mods to get familiar with:_**
+
+[VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)  
+[Spellsiphon - Immersive Combat](https://www.nexusmods.com/skyrimspecialedition/mods/26627)  
+[Muken's Arcane Archery](https://www.nexusmods.com/skyrimspecialedition/mods/30404)  
+[HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)  
+[VR Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/38539)  
+[Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374)  
+[Be Seated](https://www.nexusmods.com/skyrimspecialedition/mods/16613)  
+[MageVR](https://www.nexusmods.com/skyrimspecialedition/mods/21297)  
+[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
+
+There is also a [handy dandy installation video](https://youtu.be/_Y4h4U-MWhA)!
+
+***
+
+### [Yggdrasil](https://github.com/m-vlad/Yggdrasil-VR/wiki)
+
+Yggdrasil is an ambitious curated modlist that seeks to overhaul and expand Skyrim VR to make it more balanced, challenging, varied, good looking and most importantly expand the available gameplay options and make the game more immersive while making sure it's playable on lower spec configurations.
+
+**_Mods to get familiar with:_**
+
+[VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)  
+[HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)  
+[Navigate VR](https://www.nexusmods.com/skyrimspecialedition/mods/47174)  
+[Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630)  
+[Spell Research](https://www.nexusmods.com/skyrimspecialedition/mods/20983)  
+[Campfire Unleashed](https://www.nexusmods.com/skyrimspecialedition/mods/11001)  
+[Decorator Helper](https://www.nexusmods.com/skyrimspecialedition/mods/11708)  
+[Knockout and Surrender](https://www.nexusmods.com/skyrimspecialedition/mods/40556)  
+[True Death](https://www.nexusmods.com/skyrimspecialedition/mods/26896)  
+
+Really, though, please check out the full [modlist](https://loadorderlibrary.com/lists/yggdrasil-vr).
+
+***
+
+## Fallout 4 VR
 
 ### [Fallout 4 VR Essentials Overhaul](https://docs.google.com/document/d/1KjAhJ3RAqUxp5TYivW7fjSC_XVEuAafiJmHfCVnb2VI/edit)
 
@@ -599,8 +615,6 @@ There is also a [handy dandy installation video](https://www.youtube.com/watch?v
 ***
 ## Fallout New Vegas
 
-***
-
 ### [Viva New Vegas](https://github.com/TDarkShadow/vivanewvegas-wabbajack)
 
 A lite, small modlist for first time FNV players. While not a lot of content, this provides a stable playthrough with the use of stability mods, some bugfixes, and a handful of quality of life feature mods.
@@ -617,8 +631,6 @@ A lite, small modlist for first time FNV players. While not a lot of content, th
 
 ## Tale Of Two Wastelands
 
-***
-
 ### [The Vault Courier](https://docs.google.com/document/d/1TXoa4XNsFzt5TNzqznh0dRNwatizjJ0fkjOvpjGv8a0/edit)
 
 This modlist will update the graphics and mechanics of Fallout New Vegas to bring it closer to modern standards of FPS shooters. In fact many of the gameplay elements here are better than even Fallout 4.
@@ -633,7 +645,11 @@ This modlist will update the graphics and mechanics of Fallout New Vegas to brin
 
 ***
 
-### [Heartland](https://www.wabbajack.org/#/modlists/info?machineURL=heartland)
+## Oblivion
+
+### [Heartland](https://github.com/wabbajack-tools/mod-lists/blob/master/heartland/readme.md)
+
+Heartland is a beautiful, comprehensive graphical overhaul for Oblivion. Enjoy it as a new way to experience Cyrodiil or a solid base for your modding adventures. Heartland is forked from the Bevilex's graphics guide for Oblivion and is one of the oldest continually supported lists on Wabbajack.
 
 ***
 
@@ -647,5 +663,3 @@ Through the Valleys is a lightweight but comprehensive overhaul of Oblivion tail
 [Balanced Unlevelled Rewards](https://www.nexusmods.com/oblivion/mods/51050/)  
 [Teleportation Services](https://www.nexusmods.com/oblivion/mods/50141)  
 [Simple Saves Plus](https://www.nexusmods.com/oblivion/mods/51122)  
-
-
