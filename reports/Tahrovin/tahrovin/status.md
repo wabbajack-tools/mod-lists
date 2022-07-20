@@ -1,11 +1,10 @@
 ## Validation Report - Tahrovin (Tahrovin/tahrovin)
 
 
-### Invalid (1)
-*  [Baka SOS SMP Patch.7z](https://www.patreon.com/file?h=37684959&i=5705398)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (578)
+### Valid (579)
 *  [(2) Sharkish Piercings - 3BA - Base-57131-1-01-1634464044.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235340)
 *  [(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77989)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
@@ -48,6 +47,7 @@
 *  [Aureil's Sunlight-44903-1-1611762741.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44903/?tab=files&file_id=182178)
 *  [Auto Sneak and Jump VR-23649-0-5-0-1634485937.rar](https://www.nexusmods.com/skyrimspecialedition/mods/23649/?tab=files&file_id=235404)
 *  [Azurite Weathers-42731-1-85-1643778238.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42731/?tab=files&file_id=261147)
+*  [Baka SOS SMP Patch.7z](https://authored-files.wabbajack.org/Baka SOS SMP Patch.7z_32c2777b-6050-409b-913f-c4410c8e20b2)
 *  [BakaFactory ABC LE SE.7z](https://authored-files.wabbajack.org/BakaFactory ABC LE SE.7z_8983fb6c-7c33-4b37-a404-ae0125bacd55)
 *  [Base Object Swapper VR-61734-1-6-0-1654506461.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61734/?tab=files&file_id=289176)
 *  [BD's Armor and clothes replacer CBBE 3BA - AIO-32518-1-41-1622832981.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32518/?tab=files&file_id=207237)
