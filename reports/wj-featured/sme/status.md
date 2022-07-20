@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (249)
+### Valid (179)
 *  [(Part 1) SSE Engine Fixes for 1.6.xxx-17230-6-0-2-1637784396.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [Actor Limit Fix (Anniversary Edition)-32349-6-1648396498.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=273041)
@@ -35,76 +35,6 @@
 *  [Creation Club - Widescreen Fix-1778-2-0-1592665361.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?tab=files&file_id=146621)
 *  CreationKit.exe
 *  CreationKit.ini
-*  Creations_4036197-3.manifest
-*  Creations_4036199-6.manifest
-*  Creations_4036200-4.manifest
-*  Creations_4036201-2.manifest
-*  Creations_4036203-3.manifest
-*  Creations_4036204-2.manifest
-*  Creations_4036205-5.manifest
-*  Creations_4036206-5.manifest
-*  Creations_4042546-4.manifest
-*  Creations_4042550-2.manifest
-*  Creations_4059051-2.manifest
-*  Creations_4059054-2.manifest
-*  Creations_4059057-2.manifest
-*  Creations_4059060-2.manifest
-*  Creations_4059064-3.manifest
-*  Creations_4078130-3.manifest
-*  Creations_4078134-2.manifest
-*  Creations_4078138-3.manifest
-*  Creations_4078144-3.manifest
-*  Creations_4081273-6.manifest
-*  Creations_4081276-6.manifest
-*  Creations_4087487-5.manifest
-*  Creations_4087490-3.manifest
-*  Creations_4087493-4.manifest
-*  Creations_4087496-4.manifest
-*  Creations_4087499-2.manifest
-*  Creations_4087502-3.manifest
-*  Creations_4098870-3.manifest
-*  Creations_4098879-2.manifest
-*  Creations_4098882-2.manifest
-*  Creations_4098885-3.manifest
-*  Creations_4110977-3.manifest
-*  Creations_4110980-6.manifest
-*  Creations_4110983-2.manifest
-*  Creations_4110986-3.manifest
-*  Creations_4110989-3.manifest
-*  Creations_4110993-3.manifest
-*  Creations_4110999-3.manifest
-*  Creations_4111002-3.manifest
-*  Creations_4135463-2.manifest
-*  Creations_4135479-2.manifest
-*  Creations_4135483-3.manifest
-*  Creations_4135493-2.manifest
-*  Creations_4135496-2.manifest
-*  Creations_4135499-2.manifest
-*  Creations_4183063-2.manifest
-*  Creations_4202964-2.manifest
-*  Creations_4202967-2.manifest
-*  Creations_4202970-2.manifest
-*  Creations_4202976-2.manifest
-*  Creations_4202980-2.manifest
-*  Creations_4202984-2.manifest
-*  Creations_4233855-2.manifest
-*  Creations_4233858-2.manifest
-*  Creations_4233861-2.manifest
-*  Creations_4233865-2.manifest
-*  Creations_4233868-2.manifest
-*  Creations_4233871-2.manifest
-*  Creations_4233874-2.manifest
-*  Creations_4233877-2.manifest
-*  Creations_4233884-6.manifest
-*  Creations_4233887-2.manifest
-*  Creations_4233890-2.manifest
-*  Creations_4233893-2.manifest
-*  Creations_4233896-2.manifest
-*  Creations_4233899-2.manifest
-*  Creations_4233904-2.manifest
-*  Creations_4233908-3.manifest
-*  Creations_4233911-3.manifest
-*  Creations_4233914-2.manifest
 *  [Critter Spawn Congestion Fix 1.2-67276-1-2-1651865683.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67276/?tab=files&file_id=281943)
 *  [D13 Faster Get Up Stand Up SSE-5890-2-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5890/?tab=files&file_id=67821)
 *  Data_ccBGSSSE001-Fish.bsa
