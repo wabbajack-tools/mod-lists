@@ -54,7 +54,8 @@
 - [Oblivion](#oblivion)
   - [Heartland](#heartland)
   - [Through The Valleys](#through-the-valleys)
-
+- [The Witcher 3](#the-witcher-3)
+  - [The Witcher 3 My Way](#the-witcher-3-my-way)
 ***
 
 ## Skyrim Special Edition
@@ -663,4 +664,12 @@ Through the Valleys is a lightweight but comprehensive overhaul of Oblivion tail
 [Ascension](https://www.nexusmods.com/oblivion/mods/50237)  
 [Balanced Unlevelled Rewards](https://www.nexusmods.com/oblivion/mods/51050/)  
 [Teleportation Services](https://www.nexusmods.com/oblivion/mods/50141)  
-[Simple Saves Plus](https://www.nexusmods.com/oblivion/mods/51122)  
+[Simple Saves Plus](https://www.nexusmods.com/oblivion/mods/51122)
+
+## The Witcher 3
+
+### [The Witcher 3 My Way](https://github.com/jdsmith2816/tw3mw)
+
+This is a "Vanilla Plus" style modlist for The Witcher 3 with gameplay enhancements based on FCR3 + nearly everything from Partoutatix.
+
+The game should still feel like TW3 but a much more refined and visually improved experience.
