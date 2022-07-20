@@ -45,6 +45,7 @@
   - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr-1)
   - [Ultimate VR Essentials](#ultimate-vr-essentials)
   - [Yggdrasil](#yggdrasil)
+  - [(NSFW)Tahrovin(NSFW)](#nsfwtahrovinnsfw)
 - [Fallout 4 VR](#fallout-4-vr)
   - [Fallout 4 VR Essentials Overhaul](#fallout-4-vr-essentials-overhaul)
 - [Fallout New Vegas](#fallout-new-vegas)
@@ -599,6 +600,20 @@ Really, though, please check out the full [modlist](https://loadorderlibrary.com
 
 ***
 
+### [(NSFW)Tahrovin(NSFW)](https://github.com/iAmMe27/Tahrovin/blob/main/README.md)
+
+Tahrovin is the first official NSFW Skyrim VR modlist that aims to improve and add upon the Skyrim VR experience. The list features most, if not all, of the fundamental mods needed for any Skyrim VR mod list. The list offers plenty of eye candy paired with everyone's favourite jiggle physics. Yes, this means plenty of skimpy outfits and selectively crafted bodyslides. With plenty of content and ever more to come, Tahrovin should fullfill your Skyrim VR cravings!
+
+***Mods to get familiar with:***
+
+- [VRIK](https://www.nexusmods.com/skyrimspecialedition/mods/23416)
+- [PLANCK](https://www.nexusmods.com/skyrimspecialedition/mods/66025)
+- [Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630)
+- [Strike Obstruction Systems](https://www.nexusmods.com/skyrimspecialedition/mods/53050)
+- [Conduit](https://www.nexusmods.com/skyrimspecialedition/mods/58023)
+
+Link to the full modlist is [here](https://loadorderlibrary.com/lists/tahrovin-regular-profile).
+
 ## Fallout 4 VR
 
 ### [Fallout 4 VR Essentials Overhaul](https://docs.google.com/document/d/1KjAhJ3RAqUxp5TYivW7fjSC_XVEuAafiJmHfCVnb2VI/edit)
@@ -615,6 +630,7 @@ Currently the only Fallout VR modlist built for Wabbajack, This is a complete ov
 There is also a [handy dandy installation video](https://www.youtube.com/watch?v=o8Y8d74_D-A)!
 
 ***
+
 ## Fallout New Vegas
 
 ### [Viva New Vegas](https://github.com/TDarkShadow/vivanewvegas-wabbajack)
