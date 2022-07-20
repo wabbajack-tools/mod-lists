@@ -293,7 +293,7 @@
 *  [Butterflies Unchained (ESL Version)-29538-1-1-1571191335.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29538/?tab=files&file_id=110531)
 *  [Butterflies-37302-1-0-1592165051.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37302/?tab=files&file_id=145715)
 *  [Buyable Golden Claw-24689-1-0-1554118440.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24689/?tab=files&file_id=87120)
-*  [C.O.I.N.-51439-1-1-11-1646787972.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51439/?tab=files&file_id=268980)
+*  [C.O.I.N.-51439-2-0-0-1658288553.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51439/?tab=files&file_id=300487)
 *  [Caliente's Beautiful Bodies Enhancer - v1.7.1-198-1-7-1-1655467297.7z](https://www.nexusmods.com/skyrimspecialedition/mods/198/?tab=files&file_id=291767)
 *  [Canis Hysteria-52397-1-0-4-1647397910.zip](https://www.nexusmods.com/skyrimspecialedition/mods/52397/?tab=files&file_id=270434)
 *  [Cannibal Draugr Compatibility Patch SSE v1.5-21775-1-5-1563365022.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21775/?tab=files&file_id=99581)
