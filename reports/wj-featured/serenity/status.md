@@ -1,12 +1,11 @@
 ## Validation Report - Serenity 2 (wj-featured/serenity)
 
 
-### Invalid (1)
-*  [Random Encounter Tweaks-16804-1-1-1564773772.zip](https://authored-files.wabbajack.org/Random Encounter Tweaks-16804-1-1-1564773772.zip_b4957e28-f3fc-4bc2-9b42-56a5da8ef274)
+### Invalid (0)
 ### Updated (1)
 *  [Skyrim_Particle_Patch_for_ENB-SSE.zip](https://drive.google.com/uc?id=12tL3_kpm_KXlQvQqEnK3zOAl-sm_H3Fw&export=download)
 ### Mirrored (0)
-### Valid (989)
+### Valid (990)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [000EquanimityLoader.7z](https://wabbajack.b-cdn.net/000EquanimityLoader.7z_21c9caf3-f5b4-4589-bc0e-fde0af7d00e3)
@@ -660,6 +659,7 @@
 *  [Rallys Jurgen Windcaller Tomb HQ-28800-1-0-1567715439.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28800/?tab=files&file_id=105731)
 *  [Rallys Riekling Outposts 2K-34899-1-0-1587222597.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34899/?tab=files&file_id=134919)
 *  [Rallys Werewolf Totems HQ 2K-1K-28882-1-0-1568399120.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28882/?tab=files&file_id=106705)
+*  [Random Encounter Tweaks-16804-1-1-1564773772.zip](https://authored-files.wabbajack.org/Random Encounter Tweaks-16804-1-1-1564773772.zip_b4957e28-f3fc-4bc2-9b42-56a5da8ef274)
 *  [Raven Rock - Fix Exit on Horseback SE-14075-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/14075/?tab=files&file_id=41290)
 *  [RAW SSE - 2K-19666-3-0-1539568066.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19666/?tab=files&file_id=69261)
 *  [Real Ice ALL-IN-ONE Installer by morpheas768-5388-V3.7z](https://wabbajack.b-cdn.net/Real Ice ALL-IN-ONE Installer by morpheas.7z_5cb41056-261f-45b2-a5c7-5b34a0e1abca)
