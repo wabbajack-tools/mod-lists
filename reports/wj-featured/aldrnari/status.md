@@ -1,11 +1,12 @@
 ## Validation Report - Aldrnari (wj-featured/aldrnari)
 
 
-### Invalid (1)
+### Invalid (2)
 *  High_Poly_Head_v1.4_(SE).zip
+*  [Random Encounter Tweaks-16804-1-1-1564773772.zip](https://authored-files.wabbajack.org/Random Encounter Tweaks-16804-1-1-1564773772.zip_b4957e28-f3fc-4bc2-9b42-56a5da8ef274)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2368)
+### Valid (2367)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0.0) SELUA - Solitude Exterior LOD Unlocker Advocate II-36116-1-1-1605036920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169508)
 *  [(1.1) The Great City of Solitude PATCH - Solitude Skyway SE - Drengin's Blue Palace Terrace (STD)-36116-1-1-1604648419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=168848)
@@ -1628,7 +1629,6 @@
 *  [Rallys Nord War Horns-46872-1-2-1620029294.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46872/?tab=files&file_id=201432)
 *  [Rallys Pillows HQ - FOMOD-28786-1-1-1567641119.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28786/?tab=files&file_id=105635)
 *  [Ramccoid's AIO A.K.A. LITTLE THINGS-65959-1-0-7.7z](https://www.nexusmods.com/skyrim/mods/65959/?tab=files&file_id=1000203863)
-*  [Random Encounter Tweaks-16804-1-1-1564773772.zip](https://authored-files.wabbajack.org/Random Encounter Tweaks-16804-1-1-1564773772.zip_b4957e28-f3fc-4bc2-9b42-56a5da8ef274)
 *  [Random first person magic animation SSE with DAR v1.1-61188-1-1-1641566405.rar](https://www.nexusmods.com/skyrimspecialedition/mods/61188/?tab=files&file_id=254715)
 *  [Rapid Rocks-26532-1-0-1560341633.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26532/?tab=files&file_id=95683)
 *  [RapierForSkySA-57592-1-1-1636071309.rar](https://www.nexusmods.com/skyrimspecialedition/mods/57592/?tab=files&file_id=239072)
