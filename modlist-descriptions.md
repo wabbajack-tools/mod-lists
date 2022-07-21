@@ -384,7 +384,7 @@ A kitchen-sink power fantasy list with tough enemies and an even tougher Dragonb
 - [Vokriinator - Choice Cuts](https://www.nexusmods.com/skyrimspecialedition/mods/26702)
 - [OStim - OSex Overhaul & API](https://www.nexusmods.com/skyrimspecialedition/mods/40725)
 
-### [(NSFW)Tsukiro(NSFW)](https://www.wabbajack.org/#/modlists/info?machineURL=tsukiro)
+### [(NSFW)Tsukiro(NSFW)](https://www.wabbajack.org/modlist/wj-featured/tsukiro)
 
 You ever thought Skyrim combat sucked? Yeah so did everyone. Tsukiro aims to bring combat to the next level with hundreds of hand-picked animations among a plethora of weapon styles. With the Inpa-Sekiro mod, Sekiro-style combat elevates everything to a new level of lethality and action.
 
