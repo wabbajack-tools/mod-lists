@@ -1,11 +1,10 @@
 ## Validation Report - Total Skyrim Overhaul (wj-featured/tso)
 
 
-### Invalid (1)
-*  [Bodyslide Output.7z](https://authored-files.wabbajack.org/Bodyslide Output.7z_5ed393f0-b954-44ac-909d-9b36a42c3103)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (998)
+### Valid (999)
 *  [- Skyrim 2020 8.4.2 - 3 of 3 - Other - 4K to 2K-2347-8-4-2-1624479907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=210840)
 *  [-Skyrim 2020 Update 8.7-2347-8-7-1641316815.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=253924)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)
@@ -235,6 +234,7 @@
 *  [Blood Witch Armor SSE-39941-1-1598735397.rar](https://www.nexusmods.com/skyrimspecialedition/mods/39941/?tab=files&file_id=158275)
 *  [Body Preset by Zer02-32039-1-0-1579877415.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32039/?tab=files&file_id=121003)
 *  [BodySlide and Outfit Studio - v5.5.1-201-5-5-1-1643408183.7z](https://www.nexusmods.com/skyrimspecialedition/mods/201/?tab=files&file_id=260193)
+*  [Bodyslide Output.7z](https://authored-files.wabbajack.org/Bodyslide Output.7z_5ed393f0-b954-44ac-909d-9b36a42c3103)
 *  [Boreal Hunter Armor ESL-51072-1-0-1623436796.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51072/?tab=files&file_id=208625)
 *  [Bosmer Ceremonial Armour - SSE CBBE BodySlide-23376-1-1-1567877742.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23376/?tab=files&file_id=106103)
 *  [BRB SE-BeastRaceBodypaints- 2K-20446-3-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20446/?tab=files&file_id=68743)
