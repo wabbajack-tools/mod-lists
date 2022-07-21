@@ -1,10 +1,11 @@
 ## Validation Report - Legends of the Frost (wj-featured/lotf)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Skyrim_Realistic_Overhaul_Part_1.7z](https://www.moddb.com/downloads/start/116891?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (376)
+### Valid (375)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [(Part 1) Engine Fixes-17230-5-8-0-1637340889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=242713)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -289,7 +290,6 @@
 *  [Skyrim Particle Patch for ENB - Assorted Mesh Fixes - Solitude Mesh Fixes Patch-45597-1-12-1615439841.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45597/?tab=files&file_id=190742)
 *  Skyrim_Default.ini
 *  [Skyrim_Realistic_Overhaul_1.8._Update.rar](https://www.moddb.com/downloads/start/139489?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
-*  [Skyrim_Realistic_Overhaul_Part_1.7z](https://www.moddb.com/downloads/start/116891?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
 *  [Skyrim_Realistic_Overhaul_Part_2.7z](https://www.moddb.com/downloads/start/116927?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
 *  [Skyrim_Realistic_Overhaul_Part_3.7z](https://www.moddb.com/downloads/start/116934?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
 *  Skyrim_SkyrimPrefs.ini

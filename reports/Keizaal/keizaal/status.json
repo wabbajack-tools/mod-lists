@@ -2,7 +2,7 @@
   "MachineURL": "Keizaal/keizaal",
   "Name": "Keizaal",
   "Version": "6.5.0.1",
-  "ModListHash": "YHD2KXSKsTs=",
+  "ModListHash": "nWJrF2L4ajQ=",
   "Archives": [
     {
       "Status": "Valid",
@@ -8250,21 +8250,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "B/gNcaHyOUU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=71372\nfileID=300559",
-        "Name": "Tamrielic Distribution-71372-1-1-5-1658316998.zip",
-        "Size": 38954639,
+        "Hash": "HVYTxyFQoMU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=71372\nfileID=300880",
+        "Name": "00 Core.zip",
+        "Size": 38950279,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Tate Taylor",
           "Description": "An all-encompassing integration and distribution mod that includes modules for a wide array of different content.",
-          "FileID": 300559,
+          "FileID": 300880,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/71372/71372-1658019596-1056314726.png",
           "IsNSFW": false,
           "ModID": 71372,
           "Name": "Tamrielic Distribution",
-          "Version": "1.1.5.0"
+          "Version": "1.1.5.2"
         }
       }
     },
@@ -10267,6 +10267,22 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/niftools/nifskope/releases/download/v2.0.dev7/NifSkope_2_0_2018-02-22-x64.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "i349bhAvByI=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Tools\\HavokBehaviorPostProcess\\readme.txt",
+        "Name": "Tools_HavokBehaviorPostProcess_readme.txt",
+        "Size": 488,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Tools\\HavokBehaviorPostProcess\\readme.txt",
+          "GameVersion": "1.6.353.0",
+          "Hash": "i349bhAvByI="
         }
       }
     },
