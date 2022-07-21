@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/sme",
   "Name": "Skyrim Modding Essentials",
-  "Version": "1.0.1",
-  "ModListHash": "K3R3wrsRh8o=",
+  "Version": "1.1",
+  "ModListHash": "2VcMmU8ax5A=",
   "Archives": [
     {
       "Status": "Valid",
@@ -353,6 +353,34 @@
           "GameFile": "Ultra.ini",
           "GameVersion": "1.6.353.0",
           "Hash": "joAkOFfS7Wc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "P38+dC6vgsw=",
+        "Meta": "[General]\ndirectURL=https://github.com/LostDragonist/MO2-Plugins/releases/download/2022.01.25/LostDragonist-MO2-Plugins.zip",
+        "Name": "LostDragonist-MO2-Plugins.zip",
+        "Size": 7386,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/LostDragonist/MO2-Plugins/releases/download/2022.01.25/LostDragonist-MO2-Plugins.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iyHKJ0Q3SPM=",
+        "Meta": "[General]\ndirectURL=https://github.com/LostDragonist/MO2-Plugins/releases/download/2022.01.25/LootPreventifier.zip",
+        "Name": "LootPreventifier.zip",
+        "Size": 891,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/LostDragonist/MO2-Plugins/releases/download/2022.01.25/LootPreventifier.zip"
         }
       }
     },
@@ -934,6 +962,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Too2c3zATZQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44249\nfileID=207969",
+        "Name": "Chillwind Depths CTD Fix-44249-1-0-1-1623084432.7z",
+        "Size": 2178,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "tarlazo",
+          "Description": "If you have CTDs in Chillwind Depths, this might help. ESP-FE",
+          "FileID": 207969,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44249/44249-1610380660-407326739.jpeg",
+          "IsNSFW": false,
+          "ModID": 44249,
+          "Name": "Chillwind Depths CTD Fix",
+          "Version": "1.0.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "oAkyYiEaJQU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=53817\nfileID=281002",
         "Name": "College of Winterhold Quest Start Fixes-53817-0-3-1-1651468459.7z",
@@ -1104,48 +1153,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Sq75KrXOQnU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=5471\nfileID=12034",
-        "Name": "Dawnguard Dont Hunt Cured Vampires 1_0-5471-1-0.7z",
-        "Size": 993,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "WetCement",
-          "Description": "Stops the Dawnguard vampire hunters random event if you have cured your vampirism.",
-          "FileID": 12034,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/5471-1-1480654311.jpg",
-          "IsNSFW": false,
-          "ModID": 5471,
-          "Name": "Dawnguard Don\u0027t Hunt Cured Vampires",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "I+llPqAxhy4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=1503\nfileID=1579",
-        "Name": "Fast Travel Speed Multiplier v1.0-1503-1-0.7z",
-        "Size": 801,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "michaelrw",
-          "Description": "Analogous to the \u0027Fast travel timescale fix\u0027 from Skyrim, this mod adjusts a game setting variable in an effort to change the amount of time that passes during your fast travel.",
-          "FileID": 1579,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1503-0-1477786245.jpg",
-          "IsNSFW": false,
-          "ModID": 1503,
-          "Name": "Fast Travel Speed Fix",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "HtryX1s68Qw=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=15109\nfileID=255064",
         "Name": "Fuz Ro D\u0027oh-15109-2-1-1641666901.7z",
@@ -1161,27 +1168,6 @@
           "ModID": 15109,
           "Name": "Fuz Ro D-oh - Silent Voice",
           "Version": "2.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "hrBBLGGapvk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=3622\nfileID=6139",
-        "Name": "main-3622-1.zip",
-        "Size": 5010,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Krucify",
-          "Description": "Makes Heartfire display cases great again.",
-          "FileID": 6139,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/80106-4-1478738551.jpg",
-          "IsNSFW": false,
-          "ModID": 3622,
-          "Name": "Hearthfire Display Case Fix by Krucify",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -1224,6 +1210,27 @@
           "ModID": 52239,
           "Name": "Labyrinthian Shalidor\u0027s Maze Fixes",
           "Version": "0.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "H3KLVnaz4w8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=34976\nfileID=135246",
+        "Name": "Solitude Lighthouse Fix-34976-1-0-0-1587375081.7z",
+        "Size": 25395,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "murrayj",
+          "Description": "Spoiler.\n\n\n\nAutomatically relights the solitude lighthouse during the quest Lights Out!",
+          "FileID": 135246,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34976/34976-1587374851-188802760.jpeg",
+          "IsNSFW": false,
+          "ModID": 34976,
+          "Name": "Lights Out. Solitude Lighthouse Fix",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -1314,6 +1321,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "GJm6Bc0cQxw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=13048\nfileID=254897",
+        "Name": "PapyrusUtil AE - Scripting Utility Functions-13048-4-3-1641608820.zip",
+        "Size": 569276,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "exiledviper meh321",
+          "Description": "An SKSE plugin adding several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.",
+          "FileID": 254897,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/13048/13048-1512389090-2109546993.png",
+          "IsNSFW": false,
+          "ModID": 13048,
+          "Name": "PapyrusUtil SE - Modders Scripting Utility Functions",
+          "Version": "4.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "NJMZUEBbMjg=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=66128\nfileID=275418",
         "Name": "Proving Honor Companions Quest Progression Fix-66128-1-0-0-1649323357.7z",
@@ -1350,27 +1378,6 @@
           "ModID": 19080,
           "Name": "RaceMenu",
           "Version": "0.4.19.11"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "l30zGuNix3E=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=894\nfileID=861",
-        "Name": "ImperialSoldiersEscortFix_v10-894-1-0.zip",
-        "Size": 1066,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "elite403",
-          "Description": "Sick of rude Imperial soldiers that are escorting prisoners on the road telling you to bug off in a threatening tone, even when your rank is Legate? This mod \u0022fixes\u0022 that! They will no longer be rude to Imperial legionnaires. Bonus - you can fool them if you wear Imperial chest armour, even if you\u0027re not an Imperial legionnaire!",
-          "FileID": 861,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/36068-1-1368635603.jpg",
-          "IsNSFW": false,
-          "ModID": 894,
-          "Name": "Rude Imperial Soldiers Escort Prisoner fix",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -1580,6 +1587,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "LWtEh1tIoAI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60864\nfileID=252180",
+        "Name": "LOOT Config Loader-60864-1-0-0-1640664306.zip",
+        "Size": 1278,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Parapets",
+          "Description": "Plugin for Mod Organizer that sets up a virtual folder for LOOT config files. This allows LOOT configs to be included with portable mod setups.",
+          "FileID": 252180,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60864/60864-1640647791-1564615676.png",
+          "IsNSFW": false,
+          "ModID": 60864,
+          "Name": "LOOT Config Loader for Mod Organizer",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "eL0XbseZ5X0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=974\nfileID=5396",
         "Name": "BAE v0.10-974-0-10.7z",
@@ -1622,6 +1650,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "T4HzhARDIDQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=201\nfileID=288728",
+        "Name": "BodySlide and Outfit Studio - v5.6.0-201-5-6-0-1654342850.7z",
+        "Size": 12466376,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ousnius and Caliente",
+          "Description": "An easy to use tool for customizing bodies and outfits, creating new bodies and outfits, and converting outfits between body types.",
+          "FileID": 288728,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/201-0-1478034289.png",
+          "IsNSFW": false,
+          "ModID": 201,
+          "Name": "BodySlide and Outfit Studio",
+          "Version": "5.6.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "CEv1o/F61S8=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=68518\nfileID=292309",
         "Name": "DynDOLOD 3.00-68518-Alpha-95-1655651317.7z",
@@ -1637,6 +1686,41 @@
           "ModID": 68518,
           "Name": "DynDOLOD 3 Alpha",
           "Version": "Alpha-95"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JJeOJUsYL3A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=52313\nfileID=235518",
+        "Name": "EasyNPC-52313-0-9-5-1634521270.7z",
+        "Size": 55134416,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "focustense",
+          "Description": "Painlessly mix, merge, and resolve conflicts and compatibility issues for all of your NPC overhauls.",
+          "FileID": 235518,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/52313/52313-1627160971-2115341263.png",
+          "IsNSFW": false,
+          "ModID": 52313,
+          "Name": "EasyNPC",
+          "Version": "0.9.5.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pMEpGGuOJ38=",
+        "Meta": "[General]\ndirectURL=https://github.com/loot/loot/releases/download/0.17.0/loot_0.17.0-0-g36fedfe_0.17.0.7z",
+        "Name": "loot_0.17.0-0-g36fedfe_0.17.0.7z",
+        "Size": 69102081,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/loot/loot/releases/download/0.17.0/loot_0.17.0-0-g36fedfe_0.17.0.7z"
         }
       }
     },
@@ -1744,6 +1828,27 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/Mutagen-Modding/Synthesis/releases/download/0.23.4/Synthesis.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dfB0RY1J3Pk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=6837\nfileID=285150",
+        "Name": "Wrye Bash 310 Beta 1 - Standalone Executable-6837-310-beta1-1653063220.7z",
+        "Size": 34581605,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Wrye Bash Team",
+          "Description": "Wrye Bash is a multipurpose mod management and mod installation utility.",
+          "FileID": 285150,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/6837-0-1483359848.png",
+          "IsNSFW": false,
+          "ModID": 6837,
+          "Name": "Wrye Bash",
+          "Version": "310.0.0.0b.1"
         }
       }
     },
@@ -2113,6 +2218,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "r2yslvm+i10=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=22152\nfileID=76286",
+        "Name": "Freed Prisoner Uses Items-22152-1-0-1545863442.zip",
+        "Size": 3492,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Parapets",
+          "Description": "Fixes the issue with escorted prisoners where you have the option to free and give them items but they don\u0027t use the items.",
+          "FileID": 76286,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22152/22152-1545863280-37777443.png",
+          "IsNSFW": false,
+          "ModID": 22152,
+          "Name": "Freed Prisoner Uses Items",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "dQoFyDSNaj0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=53643\nfileID=220379",
         "Name": "High Gate Ruins Puzzle Reset Fix-53643-0-2-1628676419.7z",
@@ -2170,6 +2296,27 @@
           "ModID": 65849,
           "Name": "King Olaf\u0027s Fire Festival Not Ending Fix",
           "Version": "0.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vNEAw7gDoMQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58862\nfileID=243411",
+        "Name": "MageArmorScriptFix-58862-1-0-1637563565.7z",
+        "Size": 1471,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ReDragon2013",
+          "Description": "Fix major lag/crashes when using Mage Armor",
+          "FileID": 243411,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58862/58862-1637563273-16733742.jpeg",
+          "IsNSFW": false,
+          "ModID": 58862,
+          "Name": "Mage Armor Script Fix",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -2317,6 +2464,27 @@
           "ModID": 1778,
           "Name": "Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE",
           "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DDbsIF8SYy8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44685\nfileID=181189",
+        "Name": "Scare my Enemy Bug Fix-44685-1-0-1611374649.7z",
+        "Size": 627,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Liberal Life",
+          "Description": "This bug fix addresses a longstanding issue with the Scare my Enemy radiant quest.",
+          "FileID": 181189,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44685/106360-1611373760-251448827.png",
+          "IsNSFW": false,
+          "ModID": 44685,
+          "Name": "Scare my Enemy Bug Fix",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -2611,27 +2779,6 @@
           "ModID": 60805,
           "Name": "Base Object Swapper",
           "Version": "1.6.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "pE1DYxelG+M=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=18967\nfileID=285113",
-        "Name": "Better Jumping AE-18967-1-8-4-1653053551.zip",
-        "Size": 167678,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "meh321 and z65536",
-          "Description": "Allows to jump while sprinting. Also you can configure jump height multiplier, how many times you can jump (double jump like in action games) . No ESP!",
-          "FileID": 285113,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18967/18967-1533041476-1512034262.jpeg",
-          "IsNSFW": false,
-          "ModID": 18967,
-          "Name": "Better Jumping SE",
-          "Version": "1.8.4.0"
         }
       }
     },
@@ -3016,6 +3163,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "GdDJtubx2qU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=71567\nfileID=299771",
+        "Name": "Sound Fix for Large Sector Drives-71567-2-1658084797.7z",
+        "Size": 5167,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ian Patterson",
+          "Description": "Skyrim\u0027s engine has a bug that causes audio to not play most of the time when the game is installed to a drive with a sector size other than 512 (usually referred to as Advanced Format). This is an SKSE plugin that fixes the bug. Compatible with all versions of SE/AE.",
+          "FileID": 299771,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/71567/71567-1658081909-218386064.png",
+          "IsNSFW": false,
+          "ModID": 71567,
+          "Name": "Sound Fix for Large Sector Drives",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "eLF7p2GZyrQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=36869\nfileID=245317",
         "Name": "Spell Perk Item Distributor - AE-36869-5-2-0-1638183419.7z",
@@ -3052,27 +3220,6 @@
           "ModID": 34705,
           "Name": "SSE Display Tweaks",
           "Version": "0.5.10.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "MlmkXYaxb4o=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=23581\nfileID=270842",
-        "Name": "Whose Quest Is It Anyway-23581-1-4-0-1647571148.zip",
-        "Size": 363642,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ryan",
-          "Description": "Swaps the \u0022Quest items cannot be removed...\u0022 message for a more descriptive message informing you which quest the item belongs to.",
-          "FileID": 270842,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23581/23581-1550631592-340836315.png",
-          "IsNSFW": false,
-          "ModID": 23581,
-          "Name": "Whose Quest Is It Anyway",
-          "Version": "1.4.0.0"
         }
       }
     },
@@ -3121,20 +3268,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "EXRI56/46I8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=51097\nfileID=208723",
-        "Name": "Green Dragon texture fix-51097-1-1623497069.7z",
-        "Size": 5857965,
+        "Hash": "jjArlzi152w=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=35207\nfileID=136360",
+        "Name": "CreepClusterFIX-35207-1-0-1587872723.7z",
+        "Size": 45607,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "wankingSkeever",
-          "Description": "Fixes the missing alpha on the Blood (Green) Dragon",
-          "FileID": 208723,
+          "Author": "oracus0",
+          "Description": "I like to grow creep cluster in my Hearthfire garden, but it is impossible to harvest!  This fix will let you harvest the creep cluster if you point your cursor just a little above where you would expect.",
+          "FileID": 136360,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51097/51097-1630636148-1424548235.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35207/35207-1587872335-198115898.png",
           "IsNSFW": false,
-          "ModID": 51097,
-          "Name": "Blood (Green) Dragon texture fix",
+          "ModID": 35207,
+          "Name": "Hearthfire Creep Cluster FIX",
           "Version": "1.0.0.0"
         }
       }
@@ -3205,105 +3352,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Om0P64w1juQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=2425\nfileID=3304",
-        "Name": "DWANIM-2425-1-00.zip",
-        "Size": 21741,
+        "Hash": "gYKhvlmNMyc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=71524\nfileID=299687",
+        "Name": "Alternate - Only black eye fix-71524-1-02-1658051783.7z",
+        "Size": 17752,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "imeltfaces",
-          "Description": "A conversion of imeltfaces\u0027 popular dual-wield animation fix. Now you will no longer hold your primary weapon up in the air like a doofus.",
-          "FileID": 3304,
+          "Author": "Sthaagg Memnochs",
+          "Description": "Fix underwater and black eyes issues when you use an enb. Cumulative fix, thank to theannagarcia \u0026amp; devpieron \u0026amp; Kyoni",
+          "FileID": 299687,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/2425-0-1478121485.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/71524/71524-1658006837-903816416.png",
           "IsNSFW": false,
-          "ModID": 2425,
-          "Name": "3rd Person Dual Wield Animation Fix SSE",
-          "Version": "f1.00"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8WZ5Ab1sYkI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=5890\nfileID=67821",
-        "Name": "D13 Faster Get Up Stand Up SSE-5890-2-1.7z",
-        "Size": 35628,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DarkAngel13 Argonil",
-          "Description": "Did it always bug you that it took ages for dovahkiin, the strongest creature in Skyrim SOOOOOO long to stand up? Well this will make you stand up twice as fast, and it still looks realistic.",
-          "FileID": 67821,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17491-1-1337695730.jpg",
-          "IsNSFW": false,
-          "ModID": 5890,
-          "Name": "D13 Faster GET UP STAND UP animation vanilla friendly SSE",
-          "Version": "2.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "t/fU+hkaBDM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=18370\nfileID=59078",
-        "Name": "HD Serpentine Dragon-18370-2-0.zip",
-        "Size": 29900907,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "opusGlass",
-          "Description": "HD retexture of the Serpentine Dragon, based on the previous works of Diostrocole and Bellyache. Also includes an optional \u0022Armored\u0022 version, and an optional mesh fix for bad UVs on the teeth.",
-          "FileID": 59078,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18370/72706-1530733017-1682063085.png",
-          "IsNSFW": false,
-          "ModID": 18370,
-          "Name": "HD Serpentine Dragon and Mesh Fix SE",
-          "Version": "2.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ISxkfIoDVy4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=18147\nfileID=92937",
-        "Name": "SUEMR No Beast Race Glow SSE-18147-v3-0-1558361611.7z",
-        "Size": 3844,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RAN46  bellwood2206  Borearis  HHaleyy  rxkx22  Ruhadre",
-          "Description": "Eye meshes have applied fixes/upgrades from many modders. Males, females, khajiits, argonians, and vampires covered. Meshes have the invisibility eye glitch fix and improves reflection on all player characters. Argonian/Khajiit Eyes have glow options. Vampire eyes have many optionals.  Bijin AIO 2019 Supported.",
-          "FileID": 92937,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18147/91568-1529716547-1262142668.jpeg",
-          "IsNSFW": false,
-          "ModID": 18147,
-          "Name": "SUEMR SSE with Bijin AIO 2019 Support",
-          "Version": "3.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "aS0VlphHhsY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=18147\nfileID=117237",
-        "Name": "SUEMR SSE v3.0 Meshes-18147-v3-0-1577160190.7z",
-        "Size": 17740,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RAN46  bellwood2206  Borearis  HHaleyy  rxkx22  Ruhadre",
-          "Description": "Eye meshes have applied fixes/upgrades from many modders. Males, females, khajiits, argonians, and vampires covered. Meshes have the invisibility eye glitch fix and improves reflection on all player characters. Argonian/Khajiit Eyes have glow options. Vampire eyes have many optionals.  Bijin AIO 2019 Supported.",
-          "FileID": 117237,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18147/91568-1529716547-1262142668.jpeg",
-          "IsNSFW": false,
-          "ModID": 18147,
-          "Name": "SUEMR SSE with Bijin AIO 2019 Support",
-          "Version": "3.0.0.0"
+          "ModID": 71524,
+          "Name": "Cumulative fix for Eye Meshes",
+          "Version": "f1.02"
         }
       }
     },
