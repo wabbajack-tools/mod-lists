@@ -1,9 +1,10 @@
 ## Validation Report - Tsukiro (wj-featured/tsukiro)
 
 
-### Invalid (3)
+### Invalid (4)
 *  [1207437741_BakaFactoryABCLESE.7z](https://authored-files.wabbajack.org/1207437741_BakaFactoryABCLESE.7z_072b8ab8-e8b7-414c-a86d-4886ee476e55)
 *  [572890882_SLAL_Billyy_Animationsv5.4SE.zip](https://www.loverslab.com/files/file/3999-billyys-slal-animations-2022-3-2/)
+*  [enbseries_skyrimse_v0466.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0466.zip_ed401f66-780c-42e0-8fed-3294d0b73c2f)
 *  High_Poly_Head_v1.4_(SE).zip
 ### Updated (3)
 *  [GS_SLAL SE 20 02.7z](https://www.loverslab.com/files/file/8148-gsposes-slal/)
@@ -11,7 +12,7 @@
 *  [Skyrim_Particle_Patch_for_ENB-SSE.zip](https://authored-files.wabbajack.org/Skyrim_Particle_Patch_for_ENB-SSE.zip_7fcf03a7-a076-44c4-94e9-34ff058e34af)
 ### Mirrored (1)
 *  [[COCO] Pinup Cheongsam [SE] - BHUNP.7z](https://drive.google.com/uc?id=1L75e_NR6rCrCXK16icDmPOGNcRQSfZuR&export=download)
-### Valid (1008)
+### Valid (1007)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [(1) Sharkish Piercings - BHUNP - Base-57131-1-01-1634463636.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235337)
 *  [(1) Sunstarved Tanlines - UUNP-26795-2-0-1580192177.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121531)
@@ -302,7 +303,6 @@
 *  [ENB Input Disabler-62796-1-0-2-1643723189.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62796/?tab=files&file_id=260978)
 *  [ENB Light-22574-0-94-1552759521.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=85143)
 *  [ENB Lights for Effect Shaders SE-56362-2-0-1641571441.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56362/?tab=files&file_id=254729)
-*  [enbseries_skyrimse_v0466.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0466.zip_ed401f66-780c-42e0-8fed-3294d0b73c2f)
 *  [Encounter Zones Unlocked SE-19608-1-4-1583906933.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19608/?tab=files&file_id=128125)
 *  [Engarde Main Files-25673-4-2-2-1621446644.rar](https://www.nexusmods.com/skyrimspecialedition/mods/25673/?tab=files&file_id=204367)
 *  [Engorged Robber's Gorge-45781-1-1-1-1636962999.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45781/?tab=files&file_id=241651)
