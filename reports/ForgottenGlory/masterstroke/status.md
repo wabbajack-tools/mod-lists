@@ -1,10 +1,11 @@
 ## Validation Report - Masterstroke (ForgottenGlory/masterstroke)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Community Overlays 1 - CBBE Male and Female Repackage.zip](https://drive.google.com/uc?id=1DMWc4kzWRm-Cwtn3EAmIiRo7p1bJmx15&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (899)
+### Valid (898)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -156,7 +157,6 @@
 *  [Coldharbour Paper map for FWMF-59967-1-0-1639327671.rar](https://www.nexusmods.com/skyrimspecialedition/mods/59967/?tab=files&file_id=248556)
 *  [Colovian Leather Armor and Outfit SE - CBBE - V2-50331-2-1623186556.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50331/?tab=files&file_id=208192)
 *  [Colovian Leather Armors and Outfits 3BA-50683-2-0-1624243364.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50683/?tab=files&file_id=210369)
-*  [Community Overlays 1 - CBBE Male and Female Repackage.zip](https://drive.google.com/uc?id=1DMWc4kzWRm-Cwtn3EAmIiRo7p1bJmx15&export=download)
 *  [Conditional Armor Type Animations - CATA-51507-1-0-1624340464.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51507/?tab=files&file_id=210549)
 *  [Console Commands Extender-28210-1-8-0-1596771552.zip](https://www.nexusmods.com/skyrimspecialedition/mods/28210/?tab=files&file_id=154169)
 *  [ConsoleUtilSSE-24858-1-2-0-1583021370.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24858/?tab=files&file_id=126531)
