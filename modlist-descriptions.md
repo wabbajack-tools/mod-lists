@@ -18,6 +18,7 @@
   - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr)
   - [Living Skyrim](#living-skyrim)
   - [RGE - Relics of Hyrule - Grand Admiral Thrawn Edition](#rge---relics-of-hyrule---grand-admiral-thrawn-edition)
+  - [Ruvaak](#Ruvaak)
   - [Septimus](#septimus)
   - [Serenity 2](#serenity-2)
   - [Skyrim Modding Essentials](#skyrim-modding-essentials)
