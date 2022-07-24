@@ -226,6 +226,20 @@ For those that have had enough of the “lore-friendly” lists and want somethi
 
 ***
 
+### [Ruvaak](https://github.com/chri3i/Ruvaak-Readme)
+
+Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark fantasy roleplaying game. Many new mechanics and changes are present to offer an alternate take on the game. The main focus of the list is combat. Paid AE DLC is required.
+
+**_Mods to get familiar with:_**
+
+[Attack Behavior Revamp](https://www.nexusmods.com/skyrimspecialedition/mods/45378)  
+[Rogue-Like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872)  
+[Breakable Equipment System](https://www.nexusmods.com/skyrimspecialedition/mods/23686)  
+[Ordii](https://www.nexusmods.com/skyrimspecialedition/mods/55200)  
+[Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711)  
+
+***
+
 ### [Septimus](https://www.wabbajack.org/#/modlists/info?machineURL=septimus)
 
 Septimus is an extensive performance-friendly modlist full of carefully chosen new gear, spells, quests, optional survival gameplay as well as full anniversary edition creation club support.
