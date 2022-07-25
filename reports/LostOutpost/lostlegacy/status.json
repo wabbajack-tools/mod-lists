@@ -1,8 +1,8 @@
 {
   "MachineURL": "LostOutpost/lostlegacy",
   "Name": "Lost Legacy",
-  "Version": "1.0.0",
-  "ModListHash": "uixi5WGZkNo=",
+  "Version": "1.0.1",
+  "ModListHash": "vIdqvvQVu9Y=",
   "Archives": [
     {
       "Status": "Valid",
@@ -2850,21 +2850,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "lvo6W1WoGdg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=66666\nfileID=301575",
-        "Name": "College of Winterhold - Quest Expansion-66666-1-05-1658611732.zip",
-        "Size": 77397312,
+        "Hash": "fqVLogSXKQk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=66666\nfileID=302036",
+        "Name": "College of Winterhold - Quest Expansion-66666-1-06-1658736279.zip",
+        "Size": 77397392,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "JaySerpa",
           "Description": "Tired of the College of Winterhold not actually teaching you any magic? Tired of jumping into Saarthal after your very first lesson? This mod provides 7 new starter magic lessons/quests to make your College of Winterhold feel like an actual school of magic.",
-          "FileID": 301575,
+          "FileID": 302036,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/66666/66666-1655019408-918226980.png",
           "IsNSFW": false,
           "ModID": 66666,
           "Name": "College of Winterhold - Quest Expansion",
-          "Version": "f1.05"
+          "Version": "f1.06"
         }
       }
     },
@@ -21467,6 +21467,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "GdDJtubx2qU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=71567\nfileID=299771",
+        "Name": "Sound Fix for Large Sector Drives-71567-2-1658084797.7z",
+        "Size": 5167,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ian Patterson",
+          "Description": "Skyrim\u0027s engine has a bug that causes audio to not play most of the time when the game is installed to a drive with a sector size other than 512 (usually referred to as Advanced Format). This is an SKSE plugin that fixes the bug. Compatible with all versions of SE/AE.",
+          "FileID": 299771,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/71567/71567-1658081909-218386064.png",
+          "IsNSFW": false,
+          "ModID": 71567,
+          "Name": "Sound Fix for Large Sector Drives",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "ypnYS6hvC1c=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=36869\nfileID=245335",
         "Name": "Spell Perk Item Distributor - SSE-36869-5-2-0-1638188435.7z",
@@ -22133,6 +22154,27 @@
           "ModID": 24420,
           "Name": "ElSopa - Animated Colored SkyUI Widgets SE",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Xw9O1X5HgPQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=72011\nfileID=301806",
+        "Name": "ElSopa - Azura\u0027s Star Redone - ENB Light by Mur4s4me-72011-1-1-1658677788.7z",
+        "Size": 137783,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ElSopa",
+          "Description": "Azura\u0027s Star Redone. New Model And Textures",
+          "FileID": 301806,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/72011/72011-1658629707-1427527557.jpeg",
+          "IsNSFW": false,
+          "ModID": 72011,
+          "Name": "ElSopa - Azura\u0027s Star Redone SE",
+          "Version": "1.1.0.0"
         }
       }
     },
