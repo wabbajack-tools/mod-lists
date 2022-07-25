@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (888)
+### Valid (886)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -152,7 +152,6 @@
 *  [Chests addon-19365-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/19365/?tab=files&file_id=64323)
 *  [Chisel 1K-47534-1-0-1616687625.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47534/?tab=files&file_id=193551)
 *  [Choose Your Own Arch-Mage-30887-1-0-01-1577640933.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30887/?tab=files&file_id=117892)
-*  [CK64Fixes Release 3.2-20061-3-2-1616560054.zip](https://www.nexusmods.com/skyrimspecialedition/mods/20061/?tab=files&file_id=193264)
 *  [Classic Paralysis SE-45931-3-2-1-1637989053.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45931/?tab=files&file_id=244713)
 *  [Classic Sprinting Redone-20166-2-2-1626015365.zip](https://www.nexusmods.com/skyrimspecialedition/mods/20166/?tab=files&file_id=214018)
 *  [College of Winterhold Quest Start Fixes-53817-0-3-1-1651468459.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53817/?tab=files&file_id=281002)
@@ -169,7 +168,6 @@
 *  [Convenient Reading-50202-1-1-1622046204.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50202/?tab=files&file_id=205659)
 *  [Craftable Torches-5013-1-1.rar](https://www.nexusmods.com/skyrimspecialedition/mods/5013/?tab=files&file_id=10995)
 *  [Creation Club - Misc Patches-30622-2-0-0-1639760752.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30622/?tab=files&file_id=249870)
-*  CreationKit.ini
 *  [D13 Faster Get Up Stand Up SSE-5890-2-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5890/?tab=files&file_id=67821)
 *  Data_ccBGSSSE001-Fish.bsa
 *  Data_ccBGSSSE001-Fish.esm
