@@ -353,7 +353,7 @@
 *  [Clockwork_SSE_v1-0-4155-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4155/?tab=files&file_id=7713)
 *  [CLOUDS-67436-1-1-1651787811.rar](https://www.nexusmods.com/skyrimspecialedition/mods/67436/?tab=files&file_id=281732)
 *  [Coherent Inns Prices-55207-1-1-1632429231.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55207/?tab=files&file_id=230181)
-*  [College of Winterhold - Quest Expansion-66666-1-05-1658611732.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66666/?tab=files&file_id=301575)
+*  [College of Winterhold - Quest Expansion-66666-1-06-1658736279.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66666/?tab=files&file_id=302036)
 *  [CoMAP Config - Bruma Additions-56123-3-4-2-1657465919.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56123/?tab=files&file_id=297824)
 *  [CoMAP-56123-3-4-2-1657465873.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56123/?tab=files&file_id=297823)
 *  [Combat Music Fix SKSE - SSE-67015-1-0-1650775442.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67015/?tab=files&file_id=279302)
