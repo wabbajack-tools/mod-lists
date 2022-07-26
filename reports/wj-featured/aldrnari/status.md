@@ -1,11 +1,12 @@
 ## Validation Report - Aldrnari (wj-featured/aldrnari)
 
 
-### Invalid (1)
+### Invalid (2)
 *  High_Poly_Head_v1.4_(SE).zip
+*  [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2368)
+### Valid (2367)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0.0) SELUA - Solitude Exterior LOD Unlocker Advocate II-36116-1-1-1605036920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169508)
 *  [(1.1) The Great City of Solitude PATCH - Solitude Skyway SE - Drengin's Blue Palace Terrace (STD)-36116-1-1-1604648419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=168848)
@@ -1786,7 +1787,6 @@
 *  [SC - KS Hairdos Retextured - Physics-38820-1-4-2-1596293936.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38820/?tab=files&file_id=153215)
 *  [SC - KS Hairdos Retextured-38820-1-8-1621881743.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38820/?tab=files&file_id=205362)
 *  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
-*  [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
 *  [ScaleformTranslationPP-22603-1-4-1-1586306055.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22603/?tab=files&file_id=132968)
 *  [Scarified Dunmer Overhauled -- SSE-32344-1-0-1580834742.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32344/?tab=files&file_id=122711)
 *  [Scathecraw HD 2K-38454-1-0-1595157198.rar](https://www.nexusmods.com/skyrimspecialedition/mods/38454/?tab=files&file_id=151088)
