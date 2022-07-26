@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/Licentia",
   "Name": "Licentia",
-  "Version": "10.57.9.1",
-  "ModListHash": "ptV7Y5LN9NQ=",
+  "Version": "10.57.10",
+  "ModListHash": "ecPlTXbgMMY=",
   "Archives": [
     {
       "Status": "Valid",
@@ -7225,12 +7225,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "gsvUHbjw0js=",
-        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq\u0026export=download",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b",
         "Name": "High_Poly_Head_v1.4_(SE).zip",
         "Size": 188231174,
         "State": {
-          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
-          "Id": "15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq"
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b"
         }
       }
     },
@@ -25072,21 +25072,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cHzo0ssyGrQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=68069\nfileID=285646",
-        "Name": "Wolves Of Skyrim  FOMOD-68069-2-1-1653209448.rar",
-        "Size": 171838682,
+        "Hash": "69+Nvz6jurk=",
+        "Meta": "[General]\ngameName=skyrim\nmodID=59174\nfileID=1000299371",
+        "Name": "True Wolves of Skyrim-59174-2-01-1560474108.7z",
+        "Size": 53814481,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Hornophobic",
-          "Description": "Visual Overhaul of the Wolves in Skyrim.  They\u0027re now bigger and fluffier!",
-          "FileID": 285646,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68069/68069-1652617829-451221778.png",
+          "Author": "KrittaKitty and ShimoOkami",
+          "Description": "Super realistic textures and mesh replacer for Skyrim wolves. ",
+          "FileID": 1000299371,
+          "GameName": "Skyrim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/110/images/59174/59174-1555919900-1098291553.jpeg",
           "IsNSFW": false,
-          "ModID": 68069,
-          "Name": "Wolves of Skyrim",
-          "Version": "2.1.0.0"
+          "ModID": 59174,
+          "Name": "True Wolves Of Skyrim",
+          "Version": "f2.01"
         }
       }
     },
@@ -25129,90 +25129,6 @@
           "ModID": 66541,
           "Name": "Alternate Start Voiced",
           "Version": "1.6.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tm5i6UYWZPY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=48346\nfileID=197218",
-        "Name": "No More Plastic Coated Argonians-48346-1-0-1618027009.7z",
-        "Size": 152938657,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BlackWolf24",
-          "Description": "This is a reupload of Argonians Enhanced Misc files but made easier to install! These textures are also updated!",
-          "FileID": 197218,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/48346/48346-1618026369-454635654.jpeg",
-          "IsNSFW": false,
-          "ModID": 48346,
-          "Name": "Argonians Enhanced Textures Simple Install and Update",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Wb3SP2GdRqQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=4830\nfileID=9955",
-        "Name": "HD Argonian Hairstyles-4830-2-0.rar",
-        "Size": 8043291,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Blackwolf24 And KrittaKitty",
-          "Description": "Makes Hair,Mouth and scars HD\n\nPlus maybe some extra stuff",
-          "FileID": 9955,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4830-7-1481384096.jpg",
-          "IsNSFW": false,
-          "ModID": 4830,
-          "Name": "Argonians Enhanced",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "lORqWwcVRLQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=48346\nfileID=197219",
-        "Name": "Real Argonian Eyes-48346-1-0-1618027104.7z",
-        "Size": 25173800,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BlackWolf24",
-          "Description": "This is a reupload of Argonians Enhanced Misc files but made easier to install! These textures are also updated!",
-          "FileID": 197219,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/48346/48346-1618026369-454635654.jpeg",
-          "IsNSFW": false,
-          "ModID": 48346,
-          "Name": "Argonians Enhanced Textures Simple Install and Update",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "NY1Ff6rXY+I=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=48346\nfileID=197213",
-        "Name": "Argonian Mouth Remastered-48346-1-0-1618026610.7z",
-        "Size": 8913645,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BlackWolf24",
-          "Description": "This is a reupload of Argonians Enhanced Misc files but made easier to install! These textures are also updated!",
-          "FileID": 197213,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/48346/48346-1618026369-454635654.jpeg",
-          "IsNSFW": false,
-          "ModID": 48346,
-          "Name": "Argonians Enhanced Textures Simple Install and Update",
-          "Version": "0.0.0.0"
         }
       }
     },
@@ -25618,21 +25534,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "4FfgvO8H7w4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=1442\nfileID=1516",
-        "Name": "4k CBBE-1442-1-0.rar",
-        "Size": 38740784,
+        "Hash": "ne++GaGU0qE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=184\nfileID=293984",
+        "Name": "Feminine Chameleon and Lizard (CBBE) 8K-184-3-2-1656178648.7z",
+        "Size": 959975561,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ChaserTech",
-          "Description": "New textures for female argonians. \r\n\n\r\n\nUNP and CBBE",
-          "FileID": 1516,
+          "Author": "MONSTERaider",
+          "Description": "This is a retexture for the Argonian female, it will make your Argonian look more feminine.",
+          "FileID": 293984,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/75826-0-1463947345.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/184-0-1480044034.jpg",
           "IsNSFW": true,
-          "ModID": 1442,
-          "Name": "Female Dragonic Argonian Textures 4k - 2k(CBBE and UNP)",
-          "Version": "0.0.0.0"
+          "ModID": 184,
+          "Name": "Feminine Argonian Textures (Chameleon and Lizard)",
+          "Version": "3.2.0.0"
         }
       }
     },
@@ -25786,42 +25702,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "d3QmVWqmAH8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=1443\nfileID=1519",
-        "Name": "4K SOS-1443-1-0.rar",
-        "Size": 28969005,
+        "Hash": "ztVUP8dDWR0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=185\nfileID=300099",
+        "Name": "Masculine Chameleon and Lizard (SOS-LITE) 8K-185-2-1-1658172375.7z",
+        "Size": 667053349,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ChaserTech",
-          "Description": "New textures for male Argonians (SOS and Vanilla)",
-          "FileID": 1519,
+          "Author": "MONSTERaider",
+          "Description": "This is a retexture for the Argonian male, it will make your Argonian look more masculine.",
+          "FileID": 300099,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/76127-0-1465176473.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/185/185-1629009719-329966876.png",
           "IsNSFW": true,
-          "ModID": 1443,
-          "Name": "Male Dragonic Argonian Textures 4k - 2k (SOS and Vanilla)",
-          "Version": "0.0.0.0"
+          "ModID": 185,
+          "Name": "Masculine Argonian Textures (Chameleon and Lizard)",
+          "Version": "2.1.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "08v/40AmNM4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=186\nfileID=242956",
-        "Name": "Masculine Grey Cat and Leopard (SOS-FULL) 8K-186-2-0-1637426567.7z",
-        "Size": 696214865,
+        "Hash": "5IE17sg4PD0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=186\nfileID=299845",
+        "Name": "Masculine Grey Cat and Leopard (SOS-LITE) 8K-186-2-1-1658101490.7z",
+        "Size": 723477520,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "MONSTERaider",
           "Description": "This is a retexture for the Khajiit male, it will make your Khajiit look more masculine.",
-          "FileID": 242956,
+          "FileID": 299845,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/186/186-1637467190-280876717.jpeg",
           "IsNSFW": true,
           "ModID": 186,
           "Name": "Masculine Khajiit Textures (Grey Cat and Leopard)",
-          "Version": "0.0.0.0"
+          "Version": "2.1.0.0"
         }
       }
     },
@@ -26296,6 +26212,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "cHzo0ssyGrQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68069\nfileID=285646",
+        "Name": "Wolves Of Skyrim  FOMOD-68069-2-1-1653209448.rar",
+        "Size": 171838682,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Hornophobic",
+          "Description": "Visual Overhaul of the Wolves in Skyrim.  They\u0027re now bigger and fluffier!",
+          "FileID": 285646,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68069/68069-1652617829-451221778.png",
+          "IsNSFW": false,
+          "ModID": 68069,
+          "Name": "Wolves of Skyrim",
+          "Version": "2.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "2QNJufhrSIw=",
         "Meta": "[General]\ngameName=skyrim\nmodID=76359\nfileID=1000214017",
         "Name": "Skyrim Landscape Overhaul - Stone Walls (All-In-One FOMOD Installer)-76359-2-0.rar",
@@ -26583,48 +26520,6 @@
           "IsNSFW": false,
           "ModID": 64463,
           "Name": "Apocrypha ENB Light",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "y+qaTQeP2Eo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=48346\nfileID=197217",
-        "Name": "HD Scars Vanilla-48346-1-0-1618026831.rar",
-        "Size": 875296,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BlackWolf24",
-          "Description": "This is a reupload of Argonians Enhanced Misc files but made easier to install! These textures are also updated!",
-          "FileID": 197217,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/48346/48346-1618026369-454635654.jpeg",
-          "IsNSFW": false,
-          "ModID": 48346,
-          "Name": "Argonians Enhanced Textures Simple Install and Update",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "knZKe+VLes8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=48346\nfileID=197215",
-        "Name": "HD Nostril Tint Mask-48346-1-0-1618026726.7z",
-        "Size": 16777674,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BlackWolf24",
-          "Description": "This is a reupload of Argonians Enhanced Misc files but made easier to install! These textures are also updated!",
-          "FileID": 197215,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/48346/48346-1618026369-454635654.jpeg",
-          "IsNSFW": false,
-          "ModID": 48346,
-          "Name": "Argonians Enhanced Textures Simple Install and Update",
           "Version": "0.0.0.0"
         }
       }
