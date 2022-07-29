@@ -2,7 +2,7 @@
   "MachineURL": "wj-featured/lotf",
   "Name": "Legends of the Frost",
   "Version": "2.8",
-  "ModListHash": "raAVmTts7AI=",
+  "ModListHash": "wCXYHFw2YfU=",
   "Archives": [
     {
       "Status": "Valid",
@@ -122,19 +122,6 @@
           "GameFile": "bink2w64.dll",
           "GameVersion": "1.6.353.0",
           "Hash": "wwYDXqpkrNE="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Tz+03L298Jc=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_7358bde0-69f2-47e5-950e-9ef4fced1ea2",
-        "Name": "enbseries_skyrimse_v0475.zip",
-        "Size": 4319343,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_7358bde0-69f2-47e5-950e-9ef4fced1ea2"
         }
       }
     },
@@ -3727,6 +3714,19 @@
           "GameFile": "Data\\Update.esm",
           "GameVersion": "1.6.353.0",
           "Hash": "w7YJ2li+67E="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Tz+03L298Jc=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_7358bde0-69f2-47e5-950e-9ef4fced1ea2",
+        "Name": "enbseries_skyrimse_v0475.zip",
+        "Size": 4319343,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_7358bde0-69f2-47e5-950e-9ef4fced1ea2"
         }
       }
     },
@@ -7799,27 +7799,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "S11NxswdIvo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45135\nfileID=183362",
-        "Name": "Project Clarity - Dungeons Half Res-45135-1-0-1612196348.7z",
-        "Size": 1681864827,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "Upscaled dungeon textures",
-          "FileID": 183362,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45135/45135-1612153673-1485954791.png",
-          "IsNSFW": false,
-          "ModID": 45135,
-          "Name": "Project Clarity - Dungeon Textures Redone",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "PKqirpiRByg=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=41998\nfileID=281244",
         "Name": "Project Clarity - Creatures Half Res-41998-1-8-1651547511.7z",
@@ -7835,6 +7814,27 @@
           "ModID": 41998,
           "Name": "Project Clarity - Creature Textures Redone",
           "Version": "1.8.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "S11NxswdIvo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45135\nfileID=183362",
+        "Name": "Project Clarity - Dungeons Half Res-45135-1-0-1612196348.7z",
+        "Size": 1681864827,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "Upscaled dungeon textures",
+          "FileID": 183362,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45135/45135-1612153673-1485954791.png",
+          "IsNSFW": false,
+          "ModID": 45135,
+          "Name": "Project Clarity - Dungeon Textures Redone",
+          "Version": "1.0.0.0"
         }
       }
     },
