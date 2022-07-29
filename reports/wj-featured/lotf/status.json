@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/lotf",
   "Name": "Legends of the Frost",
-  "Version": "2.7",
-  "ModListHash": "obwdmxj/yWw=",
+  "Version": "2.8",
+  "ModListHash": "raAVmTts7AI=",
   "Archives": [
     {
       "Status": "Valid",
@@ -63,14 +63,28 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "m2SyP5Dy6VM=",
-        "Meta": "[General]\ndirectURL=https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LootPreventifier.zip",
-        "Name": "LootPreventifier.zip",
-        "Size": 793,
+        "Hash": "P38+dC6vgsw=",
+        "Meta": "[General]\ndirectURL=https://github.com/LostDragonist/MO2-Plugins/releases/download/2022.01.25/LostDragonist-MO2-Plugins.zip",
+        "Name": "LostDragonist-MO2-Plugins.zip",
+        "Size": 7386,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LootPreventifier.zip"
+          "Url": "https://github.com/LostDragonist/MO2-Plugins/releases/download/2022.01.25/LostDragonist-MO2-Plugins.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iyHKJ0Q3SPM=",
+        "Meta": "[General]\ndirectURL=https://github.com/LostDragonist/MO2-Plugins/releases/download/2022.01.25/LootPreventifier.zip",
+        "Name": "LootPreventifier.zip",
+        "Size": 891,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/LostDragonist/MO2-Plugins/releases/download/2022.01.25/LootPreventifier.zip"
         }
       }
     },
@@ -114,6 +128,19 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Tz+03L298Jc=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_7358bde0-69f2-47e5-950e-9ef4fced1ea2",
+        "Name": "enbseries_skyrimse_v0475.zip",
+        "Size": 4319343,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_7358bde0-69f2-47e5-950e-9ef4fced1ea2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "rQiGSRx2WrY=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=181171",
         "Name": "(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z",
@@ -150,19 +177,6 @@
           "ModID": 25287,
           "Name": "Dragonborn Presence - Discord Rich Presence",
           "Version": "1.0.5.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Tz+03L298Jc=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_7358bde0-69f2-47e5-950e-9ef4fced1ea2",
-        "Name": "enbseries_skyrimse_v0475.zip",
-        "Size": 4319343,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_7358bde0-69f2-47e5-950e-9ef4fced1ea2"
         }
       }
     },
@@ -797,21 +811,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "oAkyYiEaJQU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53817\nfileID=281002",
-        "Name": "College of Winterhold Quest Start Fixes-53817-0-3-1-1651468459.7z",
-        "Size": 5073,
+        "Hash": "8dFvnIPQw1A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53817\nfileID=302893",
+        "Name": "College of Winterhold Quest Start Fixes-53817-0-3-3-1659024172.7z",
+        "Size": 11259,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wankingSkeever",
           "Description": "Fixes bugs where College of Winterhold MG07 \u0022The Staff of Magnus\u0022 and MG08 \u0022The Eye of Magnus\u0022 refuses to start due to unfilled reserved quest aliases.",
-          "FileID": 281002,
+          "FileID": 302893,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53817/53817-1628937603-1379582140.png",
           "IsNSFW": false,
           "ModID": 53817,
           "Name": "College of Winterhold Quest Start Fixes",
-          "Version": "0.3.1.0"
+          "Version": "0.3.3.0"
         }
       }
     },
@@ -833,6 +847,27 @@
           "ModID": 56123,
           "Name": "CoMAP - Common Marker Addon Project",
           "Version": "3.4.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ks6IUzJXWBo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=71550\nfileID=299718",
+        "Name": "Complemented Vanilla Smithing-71550-1-0-1658066608.7z",
+        "Size": 1420,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lilebonymace",
+          "Description": "Adds a few missing recipes: lockpicks, pickaxe, woodcutter\u0027s axe, silver sword, long bow, hunting bow, and edits long bow tempering recipe.",
+          "FileID": 299718,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/71550/71550-1658059824-1173708576.png",
+          "IsNSFW": false,
+          "ModID": 71550,
+          "Name": "Complemented Vanilla Smithing",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -1196,6 +1231,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "an9qIrfkUes=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=71546\nfileID=299693",
+        "Name": "Hawk Patch - Base Object Swapper Remake-71546-1-0-1658054360.7z",
+        "Size": 261,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lilebonymace",
+          "Description": "Makes all hawks that can\u0027t be shot shootable.",
+          "FileID": 299693,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/71546/71546-1658054195-188215411.png",
+          "IsNSFW": false,
+          "ModID": 71546,
+          "Name": "Hawk Patch - Base Object Swapper Remake",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "bpqUFLsBPGQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=3333\nfileID=122298",
         "Name": "HD Lods Textures SE 1K V9.3 - DynDOLOD ONLY VERSION-3333-9-3-1580653849.zip",
@@ -1427,21 +1483,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kjuLdSISY/4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=9005\nfileID=225493",
-        "Name": "Landscape Fixes For Grass Mods-9005-4-9-1630543970.zip",
-        "Size": 8936501,
+        "Hash": "JWV9Pi7StwE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=9005\nfileID=300703",
+        "Name": "Landscape Fixes For Grass Mods-9005-5-0-1658350895.7z",
+        "Size": 8748357,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "code1k",
           "Description": "Reduce grass clipping with grass mods.",
-          "FileID": 225493,
+          "FileID": 300703,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/9005-0-1489798331.jpg",
           "IsNSFW": false,
           "ModID": 9005,
           "Name": "Landscape Fixes For Grass Mods",
-          "Version": "4.9.0.0"
+          "Version": "5.0.0.0"
         }
       }
     },
@@ -1554,6 +1610,27 @@
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
           "Url": "https://authored-files.wabbajack.org/Legends%20of%20the%20Frost%20-%20Nemesis%20Output%202.0.7z_125adc36-b54c-4bb7-bf4a-3b40e0f58d7a"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "H3KLVnaz4w8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=34976\nfileID=135246",
+        "Name": "Solitude Lighthouse Fix-34976-1-0-0-1587375081.7z",
+        "Size": 25395,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "murrayj",
+          "Description": "Spoiler.\n\n\n\nAutomatically relights the solitude lighthouse during the quest Lights Out!",
+          "FileID": 135246,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34976/34976-1587374851-188802760.jpeg",
+          "IsNSFW": false,
+          "ModID": 34976,
+          "Name": "Lights Out. Solitude Lighthouse Fix",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -1854,42 +1931,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WUFjp8eg4JM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=64108\nfileID=266254",
-        "Name": "MYrwatch - House Fix-64108-1-0-0-1645591156.7z",
-        "Size": 90911,
+        "Hash": "YBsvbxFk3NM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=64108\nfileID=302020",
+        "Name": "Myrwatch - House Fix-64108-1-1-1-1658728465.7z",
+        "Size": 108202,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Jelidity",
           "Description": "Myrwatch is unfortunately set up as an ESM flagged ESL, which means that any mod attempting to touch its new cells cause the cell to break. This workaround creates a copy of the cell and repoints all necessary parts of the Creation, allowing other mods to edit the contents.",
-          "FileID": 266254,
+          "FileID": 302020,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64108/64108-1645590901-677086619.jpeg",
           "IsNSFW": false,
           "ModID": 64108,
           "Name": "Myrwatch - Editable Home Cells (Cell Bug Workaround)",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "lD/x7IZq8Po=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=64108\nfileID=266257",
-        "Name": "MYrwatch - House Fix - USCCCP Patch-64108-1-0-0-1645592154.7z",
-        "Size": 823,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Jelidity",
-          "Description": "Myrwatch is unfortunately set up as an ESM flagged ESL, which means that any mod attempting to touch its new cells cause the cell to break. This workaround creates a copy of the cell and repoints all necessary parts of the Creation, allowing other mods to edit the contents.",
-          "FileID": 266257,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64108/64108-1645590901-677086619.jpeg",
-          "IsNSFW": false,
-          "ModID": 64108,
-          "Name": "Myrwatch - Editable Home Cells (Cell Bug Workaround)",
-          "Version": "1.0.0.0"
+          "Version": "1.1.1.0"
         }
       }
     },
@@ -1932,6 +1988,27 @@
           "ModID": 46299,
           "Name": "Natural Hair Colors",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vl6VEofvNG8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=70336\nfileID=294677",
+        "Name": "No Crime Teleport - Voice Consistency Fix-70336-2-1-1656425799.7z",
+        "Size": 5720255,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Korodic",
+          "Description": "Modifies vanilla voice files to remove the part of the arrest dialogue which mentions coming with the guards since no crime teleport removes the feature that would move the player to the prison entrance. Immersion\u002B\u002B. Zing.",
+          "FileID": 294677,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/70336/70336-1656291623-1572833234.jpeg",
+          "IsNSFW": false,
+          "ModID": 70336,
+          "Name": "No Crime Teleport - Voice Consistency Fix",
+          "Version": "2.1.0.0"
         }
       }
     },
@@ -2295,6 +2372,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Gu4hgNBhNlg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=2182\nfileID=300990",
+        "Name": "Realistic Water Two SE v5.4.0-2182-5-4-0-1658449771.7z",
+        "Size": 93115373,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "isoku-TechAngel85-SparrowPrince",
+          "Description": "Visually crisp and distinct water combined with the most robust improvements to effects across the board. Fully compatible with ENBSeries.",
+          "FileID": 300990,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41076-1-1377597873.png",
+          "IsNSFW": false,
+          "ModID": 2182,
+          "Name": "Realistic Water Two SE",
+          "Version": "5.4.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3sZNOyN17hw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=2182\nfileID=301990",
+        "Name": "Realistic Water Two SE Hotfix v5.4.1-2182-5-4-1-1658717257.7z",
+        "Size": 173925,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "isoku-TechAngel85-SparrowPrince",
+          "Description": "Visually crisp and distinct water combined with the most robust improvements to effects across the board. Fully compatible with ENBSeries.",
+          "FileID": 301990,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41076-1-1377597873.png",
+          "IsNSFW": false,
+          "ModID": 2182,
+          "Name": "Realistic Water Two SE",
+          "Version": "5.4.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "U5megH4ddsk=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=35744\nfileID=240665",
         "Name": "Saints and Seducers Patch-35744-1-0SS-1636674577.7z",
@@ -2478,6 +2597,27 @@
           "ModID": 50250,
           "Name": "Assorted Mods and Patches",
           "Version": "1.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nplQXmCldjM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=26092\nfileID=303214",
+        "Name": "Simple Player Home Improvements - Proudspire Manor Fix-26092-1-0-1659132565.7z",
+        "Size": 645,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Phoenix - Umgak",
+          "Description": "Assorted plugin replacers and patches for various mods. Mostly intended for The Phoenix Flavour guide. Patches created by Phoenix and Umgak.",
+          "FileID": 303214,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26092/26092-1616016633-785644657.png",
+          "IsNSFW": false,
+          "ModID": 26092,
+          "Name": "Patches by Phoenix and Umgak",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -3593,6 +3733,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "DFmH8yabM60=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60887\nfileID=268146",
+        "Name": "Defaulto ENB-60887-1-1-1646440308.rar",
+        "Size": 119669,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dabeasttv367",
+          "Description": "An ENB preset for those who do not want to change the color palette of their game\u0027s weather mod. Works with every weather mod.",
+          "FileID": 268146,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60887/60887-1640709978-1900656310.jpeg",
+          "IsNSFW": false,
+          "ModID": 60887,
+          "Name": "Defaulto ENB",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "emWkX21ahaQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=242713",
         "Name": "(Part 1) Engine Fixes-17230-5-8-0-1637340889.7z",
@@ -3986,6 +4147,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "r2yslvm+i10=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=22152\nfileID=76286",
+        "Name": "Freed Prisoner Uses Items-22152-1-0-1545863442.zip",
+        "Size": 3492,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Parapets",
+          "Description": "Fixes the issue with escorted prisoners where you have the option to free and give them items but they don\u0027t use the items.",
+          "FileID": 76286,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22152/22152-1545863280-37777443.png",
+          "IsNSFW": false,
+          "ModID": 22152,
+          "Name": "Freed Prisoner Uses Items",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "dQoFyDSNaj0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=53643\nfileID=220379",
         "Name": "High Gate Ruins Puzzle Reset Fix-53643-0-2-1628676419.7z",
@@ -4063,6 +4245,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "vNEAw7gDoMQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58862\nfileID=243411",
+        "Name": "MageArmorScriptFix-58862-1-0-1637563565.7z",
+        "Size": 1471,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ReDragon2013",
+          "Description": "Fix major lag/crashes when using Mage Armor",
+          "FileID": 243411,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58862/58862-1637563273-16733742.jpeg",
+          "IsNSFW": false,
+          "ModID": 58862,
+          "Name": "Mage Armor Script Fix",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "GVbwkyLsvB4=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=38621\nfileID=152011",
         "Name": "Modern Clap Bug Fix-38621-1-1-1595650689.7z",
@@ -4077,6 +4280,27 @@
           "IsNSFW": false,
           "ModID": 38621,
           "Name": "Modern Clap Bug Fix",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pnNKdsX0SJY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=19250\nfileID=301855",
+        "Name": "More Informative Console 1.1.0 SE-19250-1-1-0-1658684842.zip",
+        "Size": 414673,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Linthar",
+          "Description": "This mod edits the UI to show a great deal of additional information on npcs, items, and other objects when the console is opened, similar to the way MFG console worked for Oldrim",
+          "FileID": 301855,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19250/19250-1554167901-1170138616.png",
+          "IsNSFW": false,
+          "ModID": 19250,
+          "Name": "More Informative Console",
           "Version": "1.1.0.0"
         }
       }
@@ -4730,21 +4954,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "s9eUfhoNa68=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=297406",
-        "Name": "Assorted mesh fixes-32117-0-67-1657360793.7z",
-        "Size": 15102420,
+        "Hash": "SBo0OhYkApQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=298591",
+        "Name": "Assorted mesh fixes-32117-0-68-1657716317.7z",
+        "Size": 15114536,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wankingSkeever",
           "Description": "Fixes various issues with vanilla Skyrim meshes that causes them to render incorrectly",
-          "FileID": 297406,
+          "FileID": 298591,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32117/32117-1612599331-161051453.png",
           "IsNSFW": false,
           "ModID": 32117,
           "Name": "Assorted mesh fixes",
-          "Version": "0.67.0.0"
+          "Version": "0.68.0.0"
         }
       }
     },
@@ -4808,6 +5032,27 @@
           "ModID": 60805,
           "Name": "Base Object Swapper",
           "Version": "1.5.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OxoS0vexl1g=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=18967\nfileID=302309",
+        "Name": "Better Jumping SE-18967-1-7-3-1658818941.zip",
+        "Size": 167667,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "meh321 and z65536",
+          "Description": "Allows to jump while sprinting. Also you can configure jump height multiplier, how many times you can jump (double jump like in action games) . No ESP!",
+          "FileID": 302309,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18967/18967-1533041476-1512034262.jpeg",
+          "IsNSFW": false,
+          "ModID": 18967,
+          "Name": "Better Jumping SE",
+          "Version": "1.7.3.0"
         }
       }
     },
@@ -5436,6 +5681,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "onbCG7HoiOo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=71691\nfileID=300428",
+        "Name": "No Crime Teleport SE-71691-1-0-1658271317.7z",
+        "Size": 119015,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "dTry",
+          "Description": "Simple SKSE plugin fixing the annoying teleportation after paying a fine.",
+          "FileID": 300428,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/71691/71691-1658270142-533657117.png",
+          "IsNSFW": false,
+          "ModID": 71691,
+          "Name": "No Crime Teleport RE",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "ScdoDFy59to=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=32218\nfileID=122320",
         "Name": "NoLockPicking v2-32218-2-1580658953.zip",
@@ -5800,6 +6066,27 @@
           "ModID": 17729,
           "Name": "SkyUI - Survival Mode Integration",
           "Version": "1.1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GdDJtubx2qU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=71567\nfileID=299771",
+        "Name": "Sound Fix for Large Sector Drives-71567-2-1658084797.7z",
+        "Size": 5167,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ian Patterson",
+          "Description": "Skyrim\u0027s engine has a bug that causes audio to not play most of the time when the game is installed to a drive with a sector size other than 512 (usually referred to as Advanced Format). This is an SKSE plugin that fixes the bug. Compatible with all versions of SE/AE.",
+          "FileID": 299771,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/71567/71567-1658081909-218386064.png",
+          "IsNSFW": false,
+          "ModID": 71567,
+          "Name": "Sound Fix for Large Sector Drives",
+          "Version": "2.0.0.0"
         }
       }
     },
@@ -6512,6 +6799,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "cklrV6ySYgc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=71691\nfileID=300427",
+        "Name": "No Crime Teleport AE-71691-1-0-1658271275.7z",
+        "Size": 118737,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "dTry",
+          "Description": "Simple SKSE plugin fixing the annoying teleportation after paying a fine.",
+          "FileID": 300427,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/71691/71691-1658270142-533657117.png",
+          "IsNSFW": false,
+          "ModID": 71691,
+          "Name": "No Crime Teleport RE",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "J92mytBunn4=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=23432\nfileID=82506",
         "Name": "Optional Round Farmhouse Posts (ORFP)-23432-v1-2-1550763800.7z",
@@ -6813,27 +7121,6 @@
           "ModID": 51529,
           "Name": "Amber Refossilised",
           "Version": "1.1.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "SBo0OhYkApQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=298591",
-        "Name": "Assorted mesh fixes-32117-0-68-1657716317.7z",
-        "Size": 15114536,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "wankingSkeever",
-          "Description": "Fixes various issues with vanilla Skyrim meshes that causes them to render incorrectly",
-          "FileID": 298591,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32117/32117-1612599331-161051453.png",
-          "IsNSFW": false,
-          "ModID": 32117,
-          "Name": "Assorted mesh fixes",
-          "Version": "0.68.0.0"
         }
       }
     },
@@ -7302,6 +7589,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "bkKRgFP5S00=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=31165\nfileID=117079",
+        "Name": "First Person Sneak Strafe-Walk Stutter Fix-31165-1-0-1577054070.7z",
+        "Size": 1941,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "UrbanCMC",
+          "Description": "Fixes the periodic camera stutter that occurs when slow-sneaking diagonally forward and to the right (W\u002BD).",
+          "FileID": 117079,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31165/31165-1577052532-1004536949.png",
+          "IsNSFW": false,
+          "ModID": 31165,
+          "Name": "First Person Sneak Strafe-Walk Stutter Fix",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "H/61zQJQhNg=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=41863\nfileID=183572",
         "Name": "High Poly Vanilla Hair-41863-3-0f-1612286321.7z",
@@ -7317,6 +7625,27 @@
           "ModID": 41863,
           "Name": "High Poly Vanilla Hair",
           "Version": "3.0.0.0f"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sAYYKsOBgZs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=71808\nfileID=300822",
+        "Name": "Less Ridiculous Arcane Archer Quivers (1.0.0)-71808-1-0-0-1658400494.7z",
+        "Size": 196686,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dylan James",
+          "Description": "Replaces the (admittedly cool, but) over-the-top quivers found in the Arcane Archer Pack creation with more subtle variants and effects. Elemental and Telekinesis variants of the quivers have had their orb removed, left intact the gold buckles, and UVs fixed maps. No ESP.",
+          "FileID": 300822,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/71808/71808-1658398793-129549094.png",
+          "IsNSFW": false,
+          "ModID": 71808,
+          "Name": "Less Ridiculous Arcane Archer Quivers (Fixed UVs - Subtle Effects - Creation Club)",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -7428,48 +7757,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "S11NxswdIvo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45135\nfileID=183362",
-        "Name": "Project Clarity - Dungeons Half Res-45135-1-0-1612196348.7z",
-        "Size": 1681864827,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "Upscaled dungeon textures",
-          "FileID": 183362,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45135/45135-1612153673-1485954791.png",
-          "IsNSFW": false,
-          "ModID": 45135,
-          "Name": "Project Clarity - Dungeon Textures Redone",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "A9DhqnLlWSA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45286\nfileID=188619",
-        "Name": "Project Clarity - Landscapes Half Res-45286-1-3-1614542418.7z",
-        "Size": 652356029,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "Upscaled landscape and flora textures",
-          "FileID": 188619,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45286/45286-1612463302-1641055471.png",
-          "IsNSFW": false,
-          "ModID": 45286,
-          "Name": "Project Clarity - Landscape Textures Redone",
-          "Version": "1.3.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "tiyExJiOV9c=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=42859\nfileID=188727",
         "Name": "Project Clarity - Clothing And Jewelry Half Resolution-42859-1-1-1614577435.7z",
@@ -7506,6 +7793,69 @@
           "ModID": 43401,
           "Name": "Project Clarity - Clutter Textures Redone",
           "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "S11NxswdIvo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45135\nfileID=183362",
+        "Name": "Project Clarity - Dungeons Half Res-45135-1-0-1612196348.7z",
+        "Size": 1681864827,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "Upscaled dungeon textures",
+          "FileID": 183362,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45135/45135-1612153673-1485954791.png",
+          "IsNSFW": false,
+          "ModID": 45135,
+          "Name": "Project Clarity - Dungeon Textures Redone",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PKqirpiRByg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=41998\nfileID=281244",
+        "Name": "Project Clarity - Creatures Half Res-41998-1-8-1651547511.7z",
+        "Size": 1257189765,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "High resolution AI up-scaled creature textures, for every single creature",
+          "FileID": 281244,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41998/41998-1604439666-1249755764.png",
+          "IsNSFW": false,
+          "ModID": 41998,
+          "Name": "Project Clarity - Creature Textures Redone",
+          "Version": "1.8.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "A9DhqnLlWSA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45286\nfileID=188619",
+        "Name": "Project Clarity - Landscapes Half Res-45286-1-3-1614542418.7z",
+        "Size": 652356029,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "Upscaled landscape and flora textures",
+          "FileID": 188619,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45286/45286-1612463302-1641055471.png",
+          "IsNSFW": false,
+          "ModID": 45286,
+          "Name": "Project Clarity - Landscape Textures Redone",
+          "Version": "1.3.0.0"
         }
       }
     },
@@ -7553,27 +7903,6 @@
         "State": {
           "$type": "ModDBDownloader, Wabbajack.Lib",
           "Url": "https://www.moddb.com/downloads/start/139489?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PKqirpiRByg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=41998\nfileID=281244",
-        "Name": "Project Clarity - Creatures Half Res-41998-1-8-1651547511.7z",
-        "Size": 1257189765,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "High resolution AI up-scaled creature textures, for every single creature",
-          "FileID": 281244,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41998/41998-1604439666-1249755764.png",
-          "IsNSFW": false,
-          "ModID": 41998,
-          "Name": "Project Clarity - Creature Textures Redone",
-          "Version": "1.8.0.0"
         }
       }
     },
