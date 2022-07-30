@@ -137,7 +137,7 @@
 *  [Sim Settlements 2 - Tech Settlements-49342-1-4-2-1641677949.7z](https://www.nexusmods.com/fallout4/mods/49342/?tab=files&file_id=225963)
 *  [Sim Settlements 2 - Tiny Living 3.1-49424-3-1-1639961174.zip](https://www.nexusmods.com/fallout4/mods/49424/?tab=files&file_id=224310)
 *  [Sim Settlements 2 Addon Pack - The Alley Cabaret-51722-1-0-1619589398.7z](https://www.nexusmods.com/fallout4/mods/51722/?tab=files&file_id=206812)
-*  [Sim Settlements 2-47976-2-2-0a-1658637778.7z](https://www.nexusmods.com/fallout4/mods/47976/?tab=files&file_id=244282)
+*  [Sim Settlements 2-47976-2-2-0b-1659156390.7z](https://www.nexusmods.com/fallout4/mods/47976/?tab=files&file_id=245009)
 *  [SimHomestead-50172-5-0beta-1613542141.zip](https://www.nexusmods.com/fallout4/mods/50172/?tab=files&file_id=201689)
 *  [SimSettlements2 AddOnPack Apocalyptic Additions SirLach-48659-1-0-1-1607344231.7z](https://www.nexusmods.com/fallout4/mods/48659/?tab=files&file_id=196526)
 *  [So I Made Plans-50552-2-1628461909.rar](https://www.nexusmods.com/fallout4/mods/50552/?tab=files&file_id=214368)
