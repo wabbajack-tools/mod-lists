@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/sme",
   "Name": "Skyrim Modding Essentials",
-  "Version": "1.1",
-  "ModListHash": "2VcMmU8ax5A=",
+  "Version": "1.2",
+  "ModListHash": "FNbacDXpl9M=",
   "Archives": [
     {
       "Status": "Valid",
@@ -1153,6 +1153,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "WadBv+nZw7c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62925\nfileID=260981",
+        "Name": "dunPOISoldiersRaidOnStart Script Tweak-62925-1-0-0-1643724953.7z",
+        "Size": 27302,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "tarlazo",
+          "Description": "Deals with the dunPOISoldiersRaidOnStart script and the dunPOIReachForswornRaidQST quest. ESP-FE",
+          "FileID": 260981,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62925/62925-1643725191-852053328.jpeg",
+          "IsNSFW": false,
+          "ModID": 62925,
+          "Name": "dunPOISoldiersRaidOnStart Script Tweak",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "HtryX1s68Qw=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=15109\nfileID=255064",
         "Name": "Fuz Ro D\u0027oh-15109-2-1-1641666901.7z",
@@ -1189,6 +1210,27 @@
           "ModID": 3620,
           "Name": "Keyboard Shortcuts Fix",
           "Version": "1.0.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ONXrF2nG3sc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=21597\nfileID=134154",
+        "Name": "Keywords Fixed - USEEP - ESL-21597---1586818157.zip",
+        "Size": 34264,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Anduniel",
+          "Description": "Fixes various Keywords being miss-matched (or not applied at all) to relevant Locations in the game.",
+          "FileID": 134154,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21597/21597-1543739508-1773062916.jpeg",
+          "IsNSFW": false,
+          "ModID": 21597,
+          "Name": "Keywords Fixed",
+          "Version": "."
         }
       }
     },
@@ -1357,6 +1399,27 @@
           "ModID": 66128,
           "Name": "Proving Honor Companions Quest Progression Fix",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MhfzItRFM4w=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56130\nfileID=278564",
+        "Name": "Quest Journal Limit Bug Fixer-56130-0-2-1650504872.7z",
+        "Size": 3636,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wankingSkeever",
+          "Description": "An utility to bring back quests that disappeared due to quest journal limit bug",
+          "FileID": 278564,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56130/56130-1632671639-620410825.png",
+          "IsNSFW": false,
+          "ModID": 56130,
+          "Name": "Quest Journal Limit Bug Fixer - Recover Disappeared Quests",
+          "Version": "0.2.0.0"
         }
       }
     },
@@ -1834,21 +1897,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dfB0RY1J3Pk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=6837\nfileID=285150",
-        "Name": "Wrye Bash 310 Beta 1 - Standalone Executable-6837-310-beta1-1653063220.7z",
-        "Size": 34581605,
+        "Hash": "sc7GdGZrthA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=6837\nfileID=301775",
+        "Name": "Wrye Bash 310 - Standalone Executable-6837-310-1658670545.7z",
+        "Size": 34873528,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Wrye Bash Team",
           "Description": "Wrye Bash is a multipurpose mod management and mod installation utility.",
-          "FileID": 285150,
+          "FileID": 301775,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/6837-0-1483359848.png",
           "IsNSFW": false,
           "ModID": 6837,
           "Name": "Wrye Bash",
-          "Version": "310.0.0.0b.1"
+          "Version": "310.0.0.0"
         }
       }
     },
@@ -2806,6 +2869,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "tTmJDHVZRU0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=67015\nfileID=279304",
+        "Name": "Combat Music Fix SKSE - AE-67015-1-0-1650775498.7z",
+        "Size": 244530,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "dTry",
+          "Description": "Simple SKSE plugin to fix the never-ending combat music bug.",
+          "FileID": 279304,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67015/67015-1650772664-364532617.png",
+          "IsNSFW": false,
+          "ModID": 67015,
+          "Name": "Combat Music Fix SKSE",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "eMKFxJ7DW00=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=59596\nfileID=246928",
         "Name": "Crash Logger-59596-1-0-0-1638754413.zip",
@@ -2905,6 +2989,48 @@
           "ModID": 62796,
           "Name": "ENB Input Disabler",
           "Version": "1.0.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7D9tMGw53eI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=61950\nfileID=258408",
+        "Name": "Enhanced Invisibility AE-61950-1-2-0-1642780858.7z",
+        "Size": 234282,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "SKSE plugin that improves and fixes bugs with Invisibility effects",
+          "FileID": 258408,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61950/61950-1642218696-1263312632.gif",
+          "IsNSFW": false,
+          "ModID": 61950,
+          "Name": "Enhanced Invisibility",
+          "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4ILlZyNro7I=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43500\nfileID=245265",
+        "Name": "Enhanced Reanimation AE-43500-1-4-0-1638156778.7z",
+        "Size": 226986,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "An SKSE plugin that improves and fixes bugs with Reanimation effects.",
+          "FileID": 245265,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43500/43500-1608437743-1764148754.png",
+          "IsNSFW": false,
+          "ModID": 43500,
+          "Name": "Enhanced Reanimation",
+          "Version": "1.4.0.0"
         }
       }
     },
@@ -3289,15 +3415,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "v0RcZWYtINw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44689\nfileID=181743",
-        "Name": "Modern Toggle Walk-Run Fix-44689-1-2-1611592107.zip",
-        "Size": 2730,
+        "Hash": "OnfCLCSxDSM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44689\nfileID=181745",
+        "Name": "Cobb Controlmap Fix Patch-44689-1-2-1611592394.zip",
+        "Size": 2634,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "uranreactor",
           "Description": "This mod fixes the old issue of Shift key sticking after leaving conversation or killcam mode. No scripts, no DLLs, no ESPs.",
-          "FileID": 181743,
+          "FileID": 181745,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44689/106346-1611380514-1550720858.png",
           "IsNSFW": false,
