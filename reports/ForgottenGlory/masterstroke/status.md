@@ -1,12 +1,13 @@
 ## Validation Report - Masterstroke (ForgottenGlory/masterstroke)
 
 
-### Invalid (2)
+### Invalid (3)
 *  2022_06_12_The Trappings of Fate v0.3.0.7z
+*  SLAL_AnimationsByLeito_v1.6SE.7z
 *  SubmissiveLolaResubmission 2.0.51.7z
 ### Updated (0)
 ### Mirrored (0)
-### Valid (897)
+### Valid (896)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -738,7 +739,6 @@
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
 *  [SkyUI_5_2_SE-12604-5-2SE.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12604/?tab=files&file_id=35407)
-*  SLAL_AnimationsByLeito_v1.6SE.7z
 *  SLAL_SE.7z
 *  SlaveTats CumTextures Remake v1.2.5.7z
 *  SLDrunkRedux v1.3.7z
