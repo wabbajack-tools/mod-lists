@@ -1,12 +1,10 @@
 ## Validation Report - Masterstroke (ForgottenGlory/masterstroke)
 
 
-### Invalid (2)
-*  2022_06_12_The Trappings of Fate v0.3.0.7z
-*  SubmissiveLolaResubmission 2.0.51.7z
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (897)
+### Valid (902)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -22,6 +20,7 @@
 *  [04 - Leyenda Skin 4.0 CBBE 4K SSE-10306-4-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10306/?tab=files&file_id=27370)
 *  [1. Majestic Mountains Main File-11052-3-2-1604048751.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=167707)
 *  1600063388_SLAL_Billyy_Animationsv5.8SE.7z
+*  2022_07_25_The Trappings of Fate_v1.0.0.7z
 *  [2K SMIM Furniture Chest-33369-1-1-1603195093.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33369/?tab=files&file_id=166288)
 *  [2K SMIM Large Ruins Chest WEATHERED-33052-1-1-1582884219.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33052/?tab=files&file_id=126281)
 *  [2K SMIM Small Ruins Chest WEATHERED-33090-1-1-1582900893.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33090/?tab=files&file_id=126306)
@@ -69,7 +68,6 @@
 *  [Archery 2.5-10926-2-5.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10926/?tab=files&file_id=55877)
 *  [Archery Campfire Patch for v2.5-10926-v-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10926/?tab=files&file_id=53345)
 *  [Archery for Hunterborn-10926-1-0-1583172090.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10926/?tab=files&file_id=126869)
-*  [Archery Gameplay Overhaul-24296-1-3-2-1553273598.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24296/?tab=files&file_id=85826)
 *  [Archery Locational Damage - INI Complex-63863-2-1-1654707935.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63863/?tab=files&file_id=289748)
 *  [Archery Locational Damage - SE-63863-2-1-1654707861.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63863/?tab=files&file_id=289746)
 *  [Arctic - Frost Effects Redux-29817-2-1-1591025469.zip](https://www.nexusmods.com/skyrimspecialedition/mods/29817/?tab=files&file_id=143265)
@@ -113,7 +111,7 @@
 *  [Bikini Robe Replacer and Standalone (3BA)-41285-2-0-0-1632506599.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41285/?tab=files&file_id=230362)
 *  bink2w64.dll
 *  [Bjorn - A Racemenu Preset - High Poly Head-49659-1-0-1620501429.zip](https://www.nexusmods.com/skyrimspecialedition/mods/49659/?tab=files&file_id=202377)
-*  [Blackreach Paper Map for FWMF-53878-1-01-1631631769.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53878/?tab=files&file_id=228356)
+*  [Blackreach Paper Map for FWMF-53878-1-7-1643368462.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53878/?tab=files&file_id=260068)
 *  [Blended Roads Redone 2K-26270-1-5-1-1614714055.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26270/?tab=files&file_id=189023)
 *  [Blended Roads Redone Bridges 2K-26270-1-0-1570961587.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26270/?tab=files&file_id=110180)
 *  [Blended Roads-8834-1-7-1586448385.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8834/?tab=files&file_id=133231)
@@ -163,7 +161,7 @@
 *  [ConsoleUtilSSE-24858-1-2-0-1583021370.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24858/?tab=files&file_id=126531)
 *  [Contractor Armor SSE-37610-1-1592950682.rar](https://www.nexusmods.com/skyrimspecialedition/mods/37610/?tab=files&file_id=147116)
 *  [Copy and Paste in Console v1.0.1 for Skyrim SE-30928-1-0-1-1615644554.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30928/?tab=files&file_id=191247)
-*  [Core Masterstroke Bodyslides Beta 6.7z](https://authored-files.wabbajack.org/Core Masterstroke Bodyslides Beta 6.7z_7d3b336d-5661-49d5-91ec-622cfced8650)
+*  [Core Masterstroke Bodyslides 1.2.0.7z](https://authored-files.wabbajack.org/Core Masterstroke Bodyslides 1.2.0.7z_bfe21d00-4b91-41f1-b473-fea8007c8782)
 *  [Cover Your Head - Scion-53466-1-0-1629552830.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53466/?tab=files&file_id=222699)
 *  [Critters Aint Snitches v1.0 SSE-15134-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/15134/?tab=files&file_id=45421)
 *  [Curvy Cookie Body Preset-50119-1-1-1621476799.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50119/?tab=files&file_id=204480)
@@ -183,7 +181,6 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
-*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -211,7 +208,7 @@
 *  [Dead Shrubs Replacer-33842-1-2-1-1622375193.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33842/?tab=files&file_id=206356)
 *  [Deiform Alduin 4K-44329-1-1-1621189306.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44329/?tab=files&file_id=203882)
 *  [Demoniac CBBE v1.12-29114-1-12b-1569149485.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29114/?tab=files&file_id=107769)
-*  [Devious Devices [SE][AE][VR] 5.2 Beta 6.7z](https://mega.nz/file/NX43RSxT#lQZx7C9ftiXPlVzzVn_HXYmt9P3WfXlq5hDUn2NNgp4)
+*  [Devious Devices [SE][AE][VR]  5.2 Beta 7.7z](https://mega.nz/file/oDxVjTDT#nDkSIwWLZxYFLMlUBKWAEaVCWpEb4U8yg_7dRwNAlK4)
 *  Deviously Enchanted Chests SE 3.11.7z
 *  [Diamond CBBE 3BA Bodyslide v1.1-48916-1-1-1633108262.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48916/?tab=files&file_id=231884)
 *  [Diamond Textures CBBE-45718-1-9-3-1635096135.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45718/?tab=files&file_id=236821)
@@ -316,12 +313,14 @@
 *  [FixNotesForSkyUI SKSE64 2.0.17-32561-1-2-1-1583205405.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32561/?tab=files&file_id=126933)
 *  [Flamebringer Tattoo-Sleeve-24132-1-2-1552600340.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24132/?tab=files&file_id=84927)
 *  [Flat Map Markers Config File for additional maps (including Sovngarde)-54255-1-0-1629555011.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54255/?tab=files&file_id=222703)
+*  [Flat Map Markers Config File for all FWMF maps-55025-1-7-1630687597.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55025/?tab=files&file_id=225862)
 *  [Flat Map Markers SSE-22122-1-3-0-1583021504.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22122/?tab=files&file_id=126532)
 *  [Flat World Map Framework SE - Marked Clean Map 4K-29932-1-70-1628440775.zip](https://www.nexusmods.com/skyrimspecialedition/mods/29932/?tab=files&file_id=219737)
 *  [FNIS Behavior SE 7_5_1 XXL-3038-7-5-1-1573167284.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3038/?tab=files&file_id=112786)
 *  [FNIS Behavior SE 7_6 XXL-3038-7-6-1582110624.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3038/?tab=files&file_id=124730)
 *  [Follower Trap Safety-2755-1-4-1638111386.zip](https://www.nexusmods.com/skyrimspecialedition/mods/2755/?tab=files&file_id=245105)
 *  [Forgotten City - No Audiobooks-83593-1-0.rar](https://www.nexusmods.com/skyrim/mods/83593/?tab=files&file_id=1000243157)
+*  [Forgotten Vale Paper Map for FWMF-54628-1-8-1650639757.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54628/?tab=files&file_id=278942)
 *  [Frankly HD Dawnguard Armor CBBE SE-19663-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19663/?tab=files&file_id=66111)
 *  [Frankly HD Dragonbone and Dragonscale 2k-25110-1-0-1555502184.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25110/?tab=files&file_id=88740)
 *  [Frankly HD Dragonbones 4k-2k-25099-1-0-1555458166.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25099/?tab=files&file_id=88687)
@@ -336,7 +335,7 @@
 *  [Freckle Mania 2 Combo 4K-86208-1-0.7z](https://www.nexusmods.com/skyrim/mods/86208/?tab=files&file_id=1000252598)
 *  [FreeFlyCamSKSE64_v12.1 (1.5.73-97).zip](http://enbseries.enbdev.com/forum/download/file.php?id=1661&sid=e5f9c40cc51a29002e2e7ef3472a20ee)
 *  [fuckmeat-58288-1-0-1636692914.rar](https://www.nexusmods.com/skyrimspecialedition/mods/58288/?tab=files&file_id=240721)
-*  FurnAnim v0_13.zip
+*  FurnAnim v0_14.zip
 *  FurnitureMarkerSex v0_14_3 SE.zip
 *  [Fuz Ro D'oh-15109-1-7-1574514494.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15109/?tab=files&file_id=114169)
 *  [Gecko's Nordic Ruins - HIGH Quality-10955-1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/10955/?tab=files&file_id=29517)
@@ -346,7 +345,6 @@
 *  [Glorious Doors of Skyrim SE - Update 1.04-32376-1-04-1584774890.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32376/?tab=files&file_id=129661)
 *  [Glorious Doors of Skyrim SE-32376-1-03-1584773006.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32376/?tab=files&file_id=129655)
 *  [Google's Locked City Gates-13133-1-0-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/13133/?tab=files&file_id=61529)
-*  Gossip - 0.952.zip
 *  [Grass Control v6-42161-6-1607532895.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42161/?tab=files&file_id=173957)
 *  [Greek Goddess - All in One-24201-4-0-1602736952.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24201/?tab=files&file_id=165596)
 *  [GreekGod Preset-54349-1-0-1629674561.rar](https://www.nexusmods.com/skyrimspecialedition/mods/54349/?tab=files&file_id=223053)
@@ -485,6 +483,7 @@
 *  [Lux-43158-4-2-1651433630.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=280865)
 *  [Maevan2 Eye Brows - For High Poly Head-38493-1-0-1595319774.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38493/?tab=files&file_id=151425)
 *  [Maevan2's Eye Brows SE 1.1-26881-1-1-1561299421.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26881/?tab=files&file_id=96994)
+*  [MAIDS II - Deception and Interesting NPCS (3DNPC) Clipping Patch-48383-1-0-1618086922.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48383/?tab=files&file_id=197381)
 *  [Maids II - Deception-189-5-1-6-1605145198.7z](https://www.nexusmods.com/skyrimspecialedition/mods/189/?tab=files&file_id=169705)
 *  Maids II Sexlab Patch SE 1.2.7z
 *  [Main File v4.0-4423-4-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4423/?tab=files&file_id=58810)
@@ -496,7 +495,7 @@
 *  [Manbeast - A Werewolf Overhaul-44746-1-2-1-1639316610.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44746/?tab=files&file_id=248514)
 *  [Marau-56978-1-0-1634081399.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56978/?tab=files&file_id=234458)
 *  [Markarth Cliff Fix-36414-1-1-1590416164.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36414/?tab=files&file_id=141991)
-*  [Masculine Chameleon and Lizard (Better Males) 4K-185-2-0-1635639067.7z](https://www.nexusmods.com/skyrimspecialedition/mods/185/?tab=files&file_id=238038)
+*  [Masculine Chameleon and Lizard (SOS-FULL) 4K-185-2-1-1658172080.7z](https://www.nexusmods.com/skyrimspecialedition/mods/185/?tab=files&file_id=300096)
 *  [Masculine Grey Cat and Leopard (SOS-FULL) 4K-186-2-0-1637428870.7z](https://www.nexusmods.com/skyrimspecialedition/mods/186/?tab=files&file_id=242960)
 *  [Masterstroke Bodyslides - Skimpy Male.7z](https://authored-files.wabbajack.org/Masterstroke Bodyslides - Skimpy Male.7z_53a33da8-48c3-4546-9976-786af42c125f)
 *  [Masterstroke Bodyslides Skimpy Female.7z](https://authored-files.wabbajack.org/Masterstroke Bodyslides Skimpy Female.7z_b15de2fc-b3f1-4f83-986b-cbf7fe9b89d1)
@@ -553,6 +552,7 @@
 *  [New Legion SE - Bodyslide Files-43103-1-0-1607415296.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43103/?tab=files&file_id=173760)
 *  [New Mara Bowl Replacer-53520-1-0-0-1628954498.rar](https://www.nexusmods.com/skyrimspecialedition/mods/53520/?tab=files&file_id=221125)
 *  [New Vominheim - ESM version-31472-2-04-1-1641819132.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31472/?tab=files&file_id=255627)
+*  [Nibenean Armors and Outfit 3BA-51219-2-0-1625644835.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51219/?tab=files&file_id=213180)
 *  [Nibenean Armors and Outfit SE by Xtudo-50785-3-1623417069.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50785/?tab=files&file_id=208599)
 *  [Nicos AIO Vanilla Bow Replacer SE-42929-1-1-1606795973.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42929/?tab=files&file_id=172469)
 *  [NieR Automata Body Preset-29338-5-1569812486.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29338/?tab=files&file_id=108853)
@@ -602,10 +602,9 @@
 *  [PAN_Heroines SE-16625-1-1-1632405717.rar](https://www.nexusmods.com/skyrimspecialedition/mods/16625/?tab=files&file_id=230133)
 *  [PAN_Vimar-45017-1-01-1612094992.rar](https://www.nexusmods.com/skyrimspecialedition/mods/45017/?tab=files&file_id=183076)
 *  [Pandorable's Frea and Frida-31273-1-0-1577410371.rar](https://www.nexusmods.com/skyrimspecialedition/mods/31273/?tab=files&file_id=117550)
-*  [Panties of Skyrim - Bodyslide 3BA - Slot52-47574-1-1-1625366409.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47574/?tab=files&file_id=212570)
+*  [Panties of Skyrim - Bodyslide 3BA - Slot49-47574-1-1-1625366360.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47574/?tab=files&file_id=212569)
 *  [Panties of Skyrim 2k Texture-47574-1-1-1625366272.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47574/?tab=files&file_id=212568)
 *  [Paper Sovngarde Map for FWMF-54255-1-01-1629569335.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54255/?tab=files&file_id=222754)
-*  [Papyrus Extender SSE - 4.4.2-22854-4-4-2-1626156020.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=214340)
 *  [Papyrus Extender-22854-5-1-0-1652182311.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=282672)
 *  [PapyrusUtil SE - Scripting Utility Functions-13048-3-9-1580810594.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=122686)
 *  [Patch - True Storms 1.02-12125-TS1-02.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12125/?tab=files&file_id=42504)
@@ -761,12 +760,13 @@
 *  [Snow Maiden-60284-1-0-1639813877.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60284/?tab=files&file_id=250016)
 *  [Snow White Armor - HIMBO version-58139-1-1-1636437390.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58139/?tab=files&file_id=240020)
 *  [Snow White Armor - SE CBBE 3BA v2-41635-2-0-1636384177.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41635/?tab=files&file_id=239861)
+*  [Solstheim Paper Map by Duncan for FWMF-55025-1-7-1643373922.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55025/?tab=files&file_id=260100)
 *  [SometimesPickUpBooksV10-11304-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11304/?tab=files&file_id=30656)
 *  SOS - Futanari - Patch for CBBE SE Femenine Argonian Textures (Lizard ONLY).7z
 *  SOS - Futanari - Patch for CBBE SE Femenine Khajiit Textures (Gray Cat ONLY).7z
 *  SOS - Futanari CBBE SSE V1.1b.7z
-*  SoS Uncloaked.zip
 *  [Sotteta Necromancer-4306-2-01-1556251194.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4306/?tab=files&file_id=89731)
+*  [Soul Cairn Paper Map for FWMF AIO FOMOD-55387-1-8-1650474551.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55387/?tab=files&file_id=278484)
 *  [Sovngarde - HQ Main Menu Music Replacer-33639-1-0-1584303930.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33639/?tab=files&file_id=128784)
 *  [Sovngarde - Mist's Font Replacer Light V8.9-386-8-9-1576107283.7z](https://www.nexusmods.com/skyrimspecialedition/mods/386/?tab=files&file_id=115927)
 *  [Sovngarde HD 2K-15891-3-1-1619791146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15891/?tab=files&file_id=200925)
@@ -783,6 +783,7 @@
 *  steam_api64.dll
 *  [Stoja's HighRes Plugin-19020-1-1.rar](https://www.nexusmods.com/skyrimspecialedition/mods/19020/?tab=files&file_id=61724)
 *  [Studded Elven Armor-59174-1-0-1638087846.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59174/?tab=files&file_id=245032)
+*  SubmissiveLolaResubmission 2.0.53.7z
 *  [Sunhelm - Experience Patch-55682-1-0-1-1631832100.rar](https://www.nexusmods.com/skyrimspecialedition/mods/55682/?tab=files&file_id=228827)
 *  [SunHelm Survival - Compatibility Patches-41335-1-1-1604559189.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41335/?tab=files&file_id=168682)
 *  [SunHelm Survival-39414-3-0-7-1637990426.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39414/?tab=files&file_id=244720)
@@ -808,6 +809,7 @@
 *  [The Forgotten City Entrance-25730-V1-0-3-1629023184.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25730/?tab=files&file_id=221326)
 *  [The Forgotten City-1179-1-8.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1179/?tab=files&file_id=32847)
 *  [The Gray Cowl of Nocturnal-4509-1-3.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4509/?tab=files&file_id=18560)
+*  [The Grey Cowl of Nocturnal Paper Map by Duncan for FWMF-55025-1-7-1643373970.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55025/?tab=files&file_id=260101)
 *  [The Instagram Body - Bodyslide Presets for CBBE 1.2-36494-1-2-1607697579.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36494/?tab=files&file_id=174200)
 *  [The Legendary Booty Body v3.1 Basic Edition-30857-booty3-1-1602633935.rar](https://www.nexusmods.com/skyrimspecialedition/mods/30857/?tab=files&file_id=165446)
 *  [THE P3ACH CBBE Bodyslide Preset-22438-1-1-1546975840.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22438/?tab=files&file_id=77662)
@@ -816,6 +818,7 @@
 *  [The Ravens Breezehome SE - BSA Archive-20486-1-1-1539364140.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20486/?tab=files&file_id=69044)
 *  [The Real Barenziah Uncensored - .ESL-58019-1-1636246041.rar](https://www.nexusmods.com/skyrimspecialedition/mods/58019/?tab=files&file_id=239506)
 *  [The Tinraa Body EDITS all-59497-1-0-1638584606.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59497/?tab=files&file_id=246458)
+*  TheTrappingsOfFate - BRRF Patch.7z
 *  [ThiccumUP 3BA-3BBB-57048-1-0-1634207371.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57048/?tab=files&file_id=234773)
 *  [Thottie to Mommy CBBE 3BBB Bodyslide Preset-41977-1-0-1604376249.rar](https://www.nexusmods.com/skyrimspecialedition/mods/41977/?tab=files&file_id=168370)
 *  [Thrones of Skyrim SE-41198-1-0-1602101281.zip](https://www.nexusmods.com/skyrimspecialedition/mods/41198/?tab=files&file_id=164399)
@@ -880,6 +883,7 @@
 *  [Wolfpaint - Face - Racemenu Overlays - Male and Female-30255-1-0-MF-1573895529.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30255/?tab=files&file_id=113503)
 *  [Wrong Body - CBBE SSE Bodyslide presets with CBP and SMP config-31101-1-9-1588301120.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31101/?tab=files&file_id=137272)
 *  [Wrye Bash 309.1 - Standalone Executable-6837-309-1-1623232467.7z](https://www.nexusmods.com/skyrim/mods/1840/?tab=files&file_id=1000337935)
+*  [Wyrmstooth Paper Map by Duncan for FWMF-55025-1-7-1643374008.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55025/?tab=files&file_id=260102)
 *  [Wyrmstooth_2x-39992-1-1599063074.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39992/?tab=files&file_id=158829)
 *  [Wyrmstooth-45565-1-19-7-1635995016.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45565/?tab=files&file_id=238910)
 *  [xLODGen.90.7z](https://authored-files.wabbajack.org/xLODGen.90.7z_301311bd-5912-4bc3-b9b6-955fce14cd71)
@@ -887,7 +891,6 @@
 *  [XP32 Maximum Skeleton Special Extended - Fixed Scripts-44252-1-0-1610402131.rar](https://www.nexusmods.com/skyrimspecialedition/mods/44252/?tab=files&file_id=179016)
 *  [XP32 Maximum Skeleton Special Extended-1988-4-80-1610196777.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=178559)
 *  [XPMSSE Left Hand Skeleton Rotation Fix-50049-4-80-1621290459.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=204058)
-*  [XPMSSE Weapons Uncloaked-54720-1-0-0-1630200370.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54720/?tab=files&file_id=224496)
 *  [Xtudo's Dark Knight 3BA-56914-1-0a-1635105494.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56914/?tab=files&file_id=236841)
 *  [Xtudo's Dark Knight HIMBO-56914-1-0a-1635105532.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56914/?tab=files&file_id=236842)
 *  [YesImSure-24898-1-5-0-1583022330.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24898/?tab=files&file_id=126540)
