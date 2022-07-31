@@ -2,7 +2,7 @@
   "MachineURL": "wj-featured/lotf",
   "Name": "Legends of the Frost",
   "Version": "2.8.1",
-  "ModListHash": "hOMrcsm7skk=",
+  "ModListHash": "m7/hwf7ufCE=",
   "Archives": [
     {
       "Status": "Valid",
@@ -798,21 +798,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8dFvnIPQw1A=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53817\nfileID=302893",
-        "Name": "College of Winterhold Quest Start Fixes-53817-0-3-3-1659024172.7z",
-        "Size": 11259,
+        "Hash": "T7yRAQAIJMo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53817\nfileID=303446",
+        "Name": "College of Winterhold Quest Start Fixes-53817-0-4-1659219863.7z",
+        "Size": 6406,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wankingSkeever",
           "Description": "Fixes bugs where College of Winterhold MG07 \u0022The Staff of Magnus\u0022 and MG08 \u0022The Eye of Magnus\u0022 refuses to start due to unfilled reserved quest aliases.",
-          "FileID": 302893,
+          "FileID": 303446,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53817/53817-1628937603-1379582140.png",
           "IsNSFW": false,
           "ModID": 53817,
           "Name": "College of Winterhold Quest Start Fixes",
-          "Version": "0.3.3.0"
+          "Version": "0.4.0.0"
         }
       }
     },
@@ -1876,27 +1876,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "G7ILJdwAmBo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45352\nfileID=268974",
-        "Name": "Morrowind Threads-45352-1-1-2-1646787188.zip",
-        "Size": 23933,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Tate Taylor",
-          "Description": "Distributes the Creation Club\u0027s Netch Leather Armor to leveled lists and various NPCS!",
-          "FileID": 268974,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45352/45352-1612589287-892513168.png",
-          "IsNSFW": false,
-          "ModID": 45352,
-          "Name": "Morrowind Threads - A Creation Club Integration Mod",
-          "Version": "1.1.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "fopgNWgiSYA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=45352\nfileID=292747",
         "Name": "Morrowind Threads-45352-2-0-0-1655781514.zip",
@@ -1954,6 +1933,27 @@
           "ModID": 64108,
           "Name": "Myrwatch - Editable Home Cells (Cell Bug Workaround)",
           "Version": "1.1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lD/x7IZq8Po=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=64108\nfileID=266257",
+        "Name": "MYrwatch - House Fix - USCCCP Patch-64108-1-0-0-1645592154.7z",
+        "Size": 823,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jelidity",
+          "Description": "Myrwatch is unfortunately set up as an ESM flagged ESL, which means that any mod attempting to touch its new cells cause the cell to break. This workaround creates a copy of the cell and repoints all necessary parts of the Creation, allowing other mods to edit the contents.",
+          "FileID": 266257,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64108/64108-1645590901-677086619.jpeg",
+          "IsNSFW": false,
+          "ModID": 64108,
+          "Name": "Myrwatch - Editable Home Cells (Cell Bug Workaround)",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -2353,27 +2353,6 @@
           "ModID": 937,
           "Name": "Realistic Paper",
           "Version": "0.21.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "GPgboi9qTwI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=2182\nfileID=276339",
-        "Name": "Realistic Water Two 5.3.0-2182-5-3-0-1649656225.7z",
-        "Size": 95310176,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "isoku-TechAngel85-SparrowPrince",
-          "Description": "Visually crisp and distinct water combined with the most robust improvements to effects across the board. Fully compatible with ENBSeries.",
-          "FileID": 276339,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41076-1-1377597873.png",
-          "IsNSFW": false,
-          "ModID": 2182,
-          "Name": "Realistic Water Two SE",
-          "Version": "5.3.0.0"
         }
       }
     },
@@ -3256,27 +3235,6 @@
           "ModID": 266,
           "Name": "Unofficial Skyrim Special Edition Patch",
           "Version": "4.2.7.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "S7o+/ZKen3c=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=266\nfileID=209150",
-        "Name": "Unofficial Skyrim Special Edition Patch-266-4-2-5b-1623727189.7z",
-        "Size": 157221268,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Unofficial Patch Project Team",
-          "Description": "A comprehensive bugfixing mod for The Elder Scrolls V: Skyrim - Special Edition. The goal of the Unofficial Skyrim Special Edition Patch (aka USSEP) is to eventually fix every bug with Skyrim Special Edition not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.",
-          "FileID": 209150,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/266-0-1477512662.png",
-          "IsNSFW": false,
-          "ModID": 266,
-          "Name": "Unofficial Skyrim Special Edition Patch",
-          "Version": "4.2.5.0b"
         }
       }
     },
@@ -4329,27 +4287,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "3bYACZx0wQg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=19250\nfileID=286245",
-        "Name": "More Informative Console 1.0.1 SE-19250-1-0-1-1653434078.zip",
-        "Size": 388413,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Linthar",
-          "Description": "This mod edits the UI to show a great deal of additional information on npcs, items, and other objects when the console is opened, similar to the way MFG console worked for Oldrim",
-          "FileID": 286245,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19250/19250-1554167901-1170138616.png",
-          "IsNSFW": false,
-          "ModID": 19250,
-          "Name": "More Informative Console",
-          "Version": "1.0.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "wk7gQ3yaFZc=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=55503\nfileID=262797",
         "Name": "moreHUD SE PapyrusUtil - Settings Loader-55503-2-1-1-1644367980.zip",
@@ -5074,27 +5011,6 @@
           "ModID": 18967,
           "Name": "Better Jumping SE",
           "Version": "1.7.3.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "EcvzVEURi4g=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=18967\nfileID=285114",
-        "Name": "Better Jumping SE-18967-1-7-2-1653053598.zip",
-        "Size": 167739,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "meh321 and z65536",
-          "Description": "Allows to jump while sprinting. Also you can configure jump height multiplier, how many times you can jump (double jump like in action games) . No ESP!",
-          "FileID": 285114,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18967/18967-1533041476-1512034262.jpeg",
-          "IsNSFW": false,
-          "ModID": 18967,
-          "Name": "Better Jumping SE",
-          "Version": "1.7.2.0"
         }
       }
     },
@@ -7862,6 +7778,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "J9l+KGyoPqw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44283\nfileID=179176",
+        "Name": "Project Clarity - Architecture Half Res-44283-1-0-1610483065.7z",
+        "Size": 1394667810,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "Upscaled architecture textures",
+          "FileID": 179176,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44283/44283-1610478958-1411452358.png",
+          "IsNSFW": false,
+          "ModID": 44283,
+          "Name": "Project Clarity - Architecture Textures Redone",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "cuyvwGURDts=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=43401\nfileID=188794",
         "Name": "Project Clarity - Clutter Half Res-43401-1-2-1614609208.7z",
@@ -7904,27 +7841,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "S11NxswdIvo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45135\nfileID=183362",
-        "Name": "Project Clarity - Dungeons Half Res-45135-1-0-1612196348.7z",
-        "Size": 1681864827,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "Upscaled dungeon textures",
-          "FileID": 183362,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45135/45135-1612153673-1485954791.png",
-          "IsNSFW": false,
-          "ModID": 45135,
-          "Name": "Project Clarity - Dungeon Textures Redone",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "A9DhqnLlWSA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=45286\nfileID=188619",
         "Name": "Project Clarity - Landscapes Half Res-45286-1-3-1614542418.7z",
@@ -7940,27 +7856,6 @@
           "ModID": 45286,
           "Name": "Project Clarity - Landscape Textures Redone",
           "Version": "1.3.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "J9l+KGyoPqw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44283\nfileID=179176",
-        "Name": "Project Clarity - Architecture Half Res-44283-1-0-1610483065.7z",
-        "Size": 1394667810,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "Upscaled architecture textures",
-          "FileID": 179176,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44283/44283-1610478958-1411452358.png",
-          "IsNSFW": false,
-          "ModID": 44283,
-          "Name": "Project Clarity - Architecture Textures Redone",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -8008,6 +7903,27 @@
         "State": {
           "$type": "ModDBDownloader, Wabbajack.Lib",
           "Url": "https://www.moddb.com/downloads/start/139489?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "S11NxswdIvo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45135\nfileID=183362",
+        "Name": "Project Clarity - Dungeons Half Res-45135-1-0-1612196348.7z",
+        "Size": 1681864827,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "Upscaled dungeon textures",
+          "FileID": 183362,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45135/45135-1612153673-1485954791.png",
+          "IsNSFW": false,
+          "ModID": 45135,
+          "Name": "Project Clarity - Dungeon Textures Redone",
+          "Version": "1.0.0.0"
         }
       }
     },
