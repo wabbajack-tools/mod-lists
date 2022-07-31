@@ -1,10 +1,18 @@
 ## Validation Report - Masterstroke (ForgottenGlory/masterstroke)
 
 
-### Invalid (0)
+### Invalid (8)
+*  2022_07_25_The Trappings of Fate_v1.0.0.7z
+*  3BA for MME.zip
+*  FurnAnim v0_14.zip
+*  Schlongs_of_Skyrim_SE - v1.1.4.rar
+*  Sexlab BJ Sound FX replacerv0.1.rar
+*  Sexlab Framework Sound Replacer AIO.7z
+*  SOS - Futanari - Patch for CBBE SE Femenine Argonian Textures (Lizard ONLY).7z
+*  SOS - Futanari - Patch for CBBE SE Femenine Khajiit Textures (Gray Cat ONLY).7z
 ### Updated (0)
 ### Mirrored (0)
-### Valid (902)
+### Valid (894)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -20,7 +28,6 @@
 *  [04 - Leyenda Skin 4.0 CBBE 4K SSE-10306-4-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10306/?tab=files&file_id=27370)
 *  [1. Majestic Mountains Main File-11052-3-2-1604048751.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=167707)
 *  1600063388_SLAL_Billyy_Animationsv5.8SE.7z
-*  2022_07_25_The Trappings of Fate_v1.0.0.7z
 *  [2K SMIM Furniture Chest-33369-1-1-1603195093.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33369/?tab=files&file_id=166288)
 *  [2K SMIM Large Ruins Chest WEATHERED-33052-1-1-1582884219.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33052/?tab=files&file_id=126281)
 *  [2K SMIM Small Ruins Chest WEATHERED-33090-1-1-1582900893.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33090/?tab=files&file_id=126306)
@@ -32,7 +39,6 @@
 *  [2K-4K. Ver.1 New Nocturnal Statue SE-56353-1-0-0-1633461807.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56353/?tab=files&file_id=232828)
 *  [2K. New Mara Statue SE-53520-1-0-0-1628894173.rar](https://www.nexusmods.com/skyrimspecialedition/mods/53520/?tab=files&file_id=220991)
 *  [3BA 3BBB CBPC RFBBT v2.1-59123-2-1-1638483984.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59123/?tab=files&file_id=246165)
-*  3BA for MME.zip
 *  [3BA Vanilla-51610-1-9-5-1635315490.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51610/?tab=files&file_id=237298)
 *  [4K (Reccomended)-38577-1-0-1595500546.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38577/?tab=files&file_id=151747)
 *  [4K. Dawnbreaker Pedestal Meridia Retexture. Clean-54982-1-1-0-1630766061.rar](https://www.nexusmods.com/skyrimspecialedition/mods/54982/?tab=files&file_id=226100)
@@ -335,7 +341,6 @@
 *  [Freckle Mania 2 Combo 4K-86208-1-0.7z](https://www.nexusmods.com/skyrim/mods/86208/?tab=files&file_id=1000252598)
 *  [FreeFlyCamSKSE64_v12.1 (1.5.73-97).zip](http://enbseries.enbdev.com/forum/download/file.php?id=1661&sid=e5f9c40cc51a29002e2e7ef3472a20ee)
 *  [fuckmeat-58288-1-0-1636692914.rar](https://www.nexusmods.com/skyrimspecialedition/mods/58288/?tab=files&file_id=240721)
-*  FurnAnim v0_14.zip
 *  FurnitureMarkerSex v0_14_3 SE.zip
 *  [Fuz Ro D'oh-15109-1-7-1574514494.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15109/?tab=files&file_id=114169)
 *  [Gecko's Nordic Ruins - HIGH Quality-10955-1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/10955/?tab=files&file_id=29517)
@@ -675,7 +680,6 @@
 *  [Sacred Trees-26214-1-1-1559344485.zip](https://www.nexusmods.com/skyrimspecialedition/mods/26214/?tab=files&file_id=94336)
 *  [Scabbards for JaySuS Swords-39226-1-1-1597065515.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39226/?tab=files&file_id=154875)
 *  [ScaleformTranslationPP-22603-1-4-1-1586306055.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22603/?tab=files&file_id=132968)
-*  Schlongs_of_Skyrim_SE - v1.1.4.rar
 *  [Scion - A Vampire Overhaul-41639-1-2-3-1637417863.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41639/?tab=files&file_id=242906)
 *  [Scrambled Bugs-43532-10-1623302557.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=208412)
 *  [Scrambled Eggchantments-43532-1-1619468588.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=200347)
@@ -685,9 +689,7 @@
 *  [Sets of Skill - A Skyrim Class Mod-55535-1-2-1641821218.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55535/?tab=files&file_id=255633)
 *  Sex Lab - Sexual Fame 0.99.rar
 *  Sexlab Baka Defeat.7z
-*  Sexlab BJ Sound FX replacerv0.1.rar
 *  SexLab EagerNPCSERev2.7z
-*  Sexlab Framework Sound Replacer AIO.7z
 *  SexLab Solutions v3 - Revisited SE v1.1.5.7z
 *  SexLab-Separate-Orgasm-SE-1.7.9 SL1.63.7z
 *  [SexLabAroused Redux V28b SSE Modified by BakaFactory(2020 11 17)).7z](https://authored-files.wabbajack.org/SexLabAroused Redux V28b SSE Modified by BakaFactory(2020 11 17)).7z_b3765932-fe0d-4da6-904a-273ff258b903)
@@ -762,8 +764,6 @@
 *  [Snow White Armor - SE CBBE 3BA v2-41635-2-0-1636384177.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41635/?tab=files&file_id=239861)
 *  [Solstheim Paper Map by Duncan for FWMF-55025-1-7-1643373922.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55025/?tab=files&file_id=260100)
 *  [SometimesPickUpBooksV10-11304-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11304/?tab=files&file_id=30656)
-*  SOS - Futanari - Patch for CBBE SE Femenine Argonian Textures (Lizard ONLY).7z
-*  SOS - Futanari - Patch for CBBE SE Femenine Khajiit Textures (Gray Cat ONLY).7z
 *  SOS - Futanari CBBE SSE V1.1b.7z
 *  [Sotteta Necromancer-4306-2-01-1556251194.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4306/?tab=files&file_id=89731)
 *  [Soul Cairn Paper Map for FWMF AIO FOMOD-55387-1-8-1650474551.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55387/?tab=files&file_id=278484)
