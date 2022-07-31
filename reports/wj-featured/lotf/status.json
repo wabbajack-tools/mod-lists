@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/lotf",
   "Name": "Legends of the Frost",
-  "Version": "2.8",
-  "ModListHash": "wCXYHFw2YfU=",
+  "Version": "2.8.1",
+  "ModListHash": "hOMrcsm7skk=",
   "Archives": [
     {
       "Status": "Valid",
@@ -1065,6 +1065,27 @@
           "ModID": 45579,
           "Name": "Draw 2 - Dual Weapon Equip-Unequip Animations",
           "Version": "1.6.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WadBv+nZw7c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62925\nfileID=260981",
+        "Name": "dunPOISoldiersRaidOnStart Script Tweak-62925-1-0-0-1643724953.7z",
+        "Size": 27302,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "tarlazo",
+          "Description": "Deals with the dunPOISoldiersRaidOnStart script and the dunPOIReachForswornRaidQST quest. ESP-FE",
+          "FileID": 260981,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62925/62925-1643725191-852053328.jpeg",
+          "IsNSFW": false,
+          "ModID": 62925,
+          "Name": "dunPOISoldiersRaidOnStart Script Tweak",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -2947,21 +2968,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qk976jjDYHU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=61777\nfileID=261319",
-        "Name": "Terrain Fixes for CC Mods-61777-1-1-1643832813.7z",
-        "Size": 7093716,
+        "Hash": "r0BhAclffwc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=61777\nfileID=302084",
+        "Name": "Grass Fixes for Creation Club Mods-61777-1-2-1658752919.7z",
+        "Size": 7094701,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mefariah",
           "Description": "A mod designed to ensure compatiility between various creation club content and grass mods in order to avoid having your new locations overrun with wild vegetation.",
-          "FileID": 261319,
+          "FileID": 302084,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61777/61777-1641937622-1958827008.jpeg",
           "IsNSFW": false,
           "ModID": 61777,
           "Name": "Terrain Fixes for CC Mods",
-          "Version": "1.1.0.0"
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -5185,6 +5206,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "+qizJ8m9UHU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=67015\nfileID=279302",
+        "Name": "Combat Music Fix SKSE - SSE-67015-1-0-1650775442.7z",
+        "Size": 224568,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "dTry",
+          "Description": "Simple SKSE plugin to fix the never-ending combat music bug.",
+          "FileID": 279302,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67015/67015-1650772664-364532617.png",
+          "IsNSFW": false,
+          "ModID": 67015,
+          "Name": "Combat Music Fix SKSE",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "yhQ1WTrffys=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=1778\nfileID=151954",
         "Name": "Opt. 1  - Wider MCM Menu for SkyUI - Widescreen Fix-1778-2-0-1595621008.zip",
@@ -5325,6 +5367,48 @@
           "IsNSFW": false,
           "ModID": 19608,
           "Name": "Encounter Zones Unlocked SE",
+          "Version": "1.4.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kuvjLFrfPFg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=61950\nfileID=258409",
+        "Name": "Enhanced Invisibility SE-61950-1-2-0-1642780878.7z",
+        "Size": 222903,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "SKSE plugin that improves and fixes bugs with Invisibility effects",
+          "FileID": 258409,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61950/61950-1642218696-1263312632.gif",
+          "IsNSFW": false,
+          "ModID": 61950,
+          "Name": "Enhanced Invisibility",
+          "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Maz1mY7vDvA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43500\nfileID=245264",
+        "Name": "Enhanced Reanimation SE-43500-1-4-0-1638156734.7z",
+        "Size": 226073,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "An SKSE plugin that improves and fixes bugs with Reanimation effects.",
+          "FileID": 245264,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43500/43500-1608437743-1764148754.png",
+          "IsNSFW": false,
+          "ModID": 43500,
+          "Name": "Enhanced Reanimation",
           "Version": "1.4.0.0"
         }
       }
@@ -7232,6 +7316,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "GHPvZn39oEI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=46357\nfileID=188663",
+        "Name": "Faster Reanimation - 33 Percent Faster-46357-1-0-1-1614550583.zip",
+        "Size": 31181,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dusky",
+          "Description": "A simple mod that reduces the duration of the reanimation animation by editing the three corresponding  .hkx files.",
+          "FileID": 188663,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46357/46357-1614533741-187228010.png",
+          "IsNSFW": false,
+          "ModID": 46357,
+          "Name": "Faster Reanimation - SSE",
+          "Version": "1.0.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "FSm9whoP5Fs=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=53653\nfileID=288319",
         "Name": "Fixed Mesh Lighting - Creation Club Backpacks-53653-1-8-1-1654184321.zip",
@@ -7715,27 +7820,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "J9l+KGyoPqw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44283\nfileID=179176",
-        "Name": "Project Clarity - Architecture Half Res-44283-1-0-1610483065.7z",
-        "Size": 1394667810,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Iconic",
-          "Description": "Upscaled architecture textures",
-          "FileID": 179176,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44283/44283-1610478958-1411452358.png",
-          "IsNSFW": false,
-          "ModID": 44283,
-          "Name": "Project Clarity - Architecture Textures Redone",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "TeL/xeL/NZQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=35593\nfileID=188717",
         "Name": "Project Clarity - Armor Half Resolution-35593-2-4-1614569503.7z",
@@ -7856,6 +7940,27 @@
           "ModID": 45286,
           "Name": "Project Clarity - Landscape Textures Redone",
           "Version": "1.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "J9l+KGyoPqw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44283\nfileID=179176",
+        "Name": "Project Clarity - Architecture Half Res-44283-1-0-1610483065.7z",
+        "Size": 1394667810,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Iconic",
+          "Description": "Upscaled architecture textures",
+          "FileID": 179176,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44283/44283-1610478958-1411452358.png",
+          "IsNSFW": false,
+          "ModID": 44283,
+          "Name": "Project Clarity - Architecture Textures Redone",
+          "Version": "1.0.0.0"
         }
       }
     },
