@@ -607,6 +607,7 @@
 *  [Simple Block Sparks - v0.31 AE-58927-v0-31-1643453628.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58927/?tab=files&file_id=260266)
 *  [Simple Children - Updated Textures-22789-1-1-0-1550355595.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22789/?tab=files&file_id=81956)
 *  [Simple Children Main - FOMOD-22789-1-1-0-1549058271.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22789/?tab=files&file_id=80397)
+*  [Simple Children Wyrmstooth Update Patch-72404-0-1-1659226846.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72404/?tab=files&file_id=303477)
 *  [Simple Dual Sheath-50049-1-5-3-1653505363.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=286465)
 *  [Simple Home Improvements AIO (Proudspire 2 Beds)-37236-2-2-1595316629.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37236/?tab=files&file_id=151419)
 *  [Simple Horse SE-12650-1-21-1595606399.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12650/?tab=files&file_id=151916)
@@ -710,7 +711,6 @@
 *  [Thwack-42653-3-0-0-1657940533.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42653/?tab=files&file_id=299303)
 *  [Timing is Everything SE - FISS version-25464-2-2FFF-1631585708.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25464/?tab=files&file_id=228255)
 *  [TK Children SE-5916-2-01-1574777032.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5916/?tab=files&file_id=114429)
-*  Tools_HavokBehaviorPostProcess_readme.txt
 *  [Toxic-42416-1-1-1624742870.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42416/?tab=files&file_id=211300)
 *  [Translucent Windows (Non-Parallax)-42510-1-0-1605824198.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=170814)
 *  [Troll.4k-4682-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4682/?tab=files&file_id=9402)

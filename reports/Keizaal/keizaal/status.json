@@ -2,7 +2,7 @@
   "MachineURL": "Keizaal/keizaal",
   "Name": "Keizaal",
   "Version": "6.5.0.4",
-  "ModListHash": "yruUEJqJxrk=",
+  "ModListHash": "Ap8DDoTMThg=",
   "Archives": [
     {
       "Status": "Valid",
@@ -7515,6 +7515,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "O7AYhl6fB3A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=72404\nfileID=303477",
+        "Name": "Simple Children Wyrmstooth Update Patch-72404-0-1-1659226846.7z",
+        "Size": 765,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wankingSkeever",
+          "Description": "Fixes Simple Children\u0027s Wyrmstooth patch for latest version of Wyrmstooth (1.19.8)",
+          "FileID": 303477,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/72404/72404-1659225344-1110393876.png",
+          "IsNSFW": false,
+          "ModID": 72404,
+          "Name": "Simple Children Wyrmstooth Update Patch",
+          "Version": "0.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "FKnl1utRYNQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=12650\nfileID=151916",
         "Name": "Simple Horse SE-12650-1-21-1595606399.7z",
@@ -10288,22 +10309,6 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/niftools/nifskope/releases/download/v2.0.dev7/NifSkope_2_0_2018-02-22-x64.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "i349bhAvByI=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Tools\\HavokBehaviorPostProcess\\readme.txt",
-        "Name": "Tools_HavokBehaviorPostProcess_readme.txt",
-        "Size": 488,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Tools\\HavokBehaviorPostProcess\\readme.txt",
-          "GameVersion": "1.6.353.0",
-          "Hash": "i349bhAvByI="
         }
       }
     },
