@@ -122,7 +122,7 @@
 *  msvcr110.dll
 *  nvdebris.txt
 *  nvToolsExt64_1.dll
-*  [ohSIM_Sim2_Settlements_Scrappers_Addon-48846-5-3-1656688913.7z](https://www.nexusmods.com/fallout4/mods/48846/?tab=files&file_id=242103)
+*  [ohSIM_Sim2_Settlements_Scrappers_Addon-48846-5-5-1659078226.7z](https://www.nexusmods.com/fallout4/mods/48846/?tab=files&file_id=244904)
 *  [Place (Fallout4 1.10.163 - latest release)-9424-1-18-0-1163-1575581603.7z](https://www.nexusmods.com/fallout4/mods/9424/?tab=files&file_id=172081)
 *  [PraRandomAddon2-48042-13-1-1-1656365874.7z](https://www.nexusmods.com/fallout4/mods/48042/?tab=files&file_id=241783)
 *  [PraScripts-28898-1-28-1624215255.7z](https://www.nexusmods.com/fallout4/mods/28898/?tab=files&file_id=210731)
@@ -148,7 +148,7 @@
 *  [SS2 Extended Outfit Injection ESL-47976-2-0-2a-1645827845.7z](https://www.nexusmods.com/fallout4/mods/47976/?tab=files&file_id=230718)
 *  [SS2 Happy Trails-50835-1-1-1654439220.zip](https://www.nexusmods.com/fallout4/mods/50835/?tab=files&file_id=239681)
 *  [SS2 Workshop HUD Override-47976-1-0-1-1605295694.7z](https://www.nexusmods.com/fallout4/mods/47976/?tab=files&file_id=194876)
-*  [SS2_AddOnPack_MsB'sPlainPlans V1-62383-1-1658289745.rar](https://www.nexusmods.com/fallout4/mods/62383/?tab=files&file_id=243892)
+*  [SS2_AddOnPack_MsB'sPlainPlans V1.1-62383-1-1-1659236702.rar](https://www.nexusmods.com/fallout4/mods/62383/?tab=files&file_id=245126)
 *  [SS2Addon MS_BareEssentials v1_0_0-50362-1-0-0-1614281130.7z](https://www.nexusmods.com/fallout4/mods/50362/?tab=files&file_id=202345)
 *  [SS2RobotMod-50277-1-0-1613942077.7z](https://www.nexusmods.com/fallout4/mods/50277/?tab=files&file_id=202063)
 *  [SSEEdit 4.0.4-164-4-0-4-1636548642.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164/?tab=files&file_id=240322)
