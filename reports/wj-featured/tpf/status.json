@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/tpf",
   "Name": "The Phoenix Flavour",
-  "Version": "4.15.2",
-  "ModListHash": "W5aNW+QmWmg=",
+  "Version": "4.15.3",
+  "ModListHash": "ffEszlowxiA=",
   "Archives": [
     {
       "Status": "Valid",
@@ -114,19 +114,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hRj4IUeJlv8=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_25b82250-5472-4604-8e76-1570899360a1",
-        "Name": "enbseries_skyrimse_v0475.zip",
-        "Size": 4319254,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_25b82250-5472-4604-8e76-1570899360a1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "rQiGSRx2WrY=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=181171",
         "Name": "(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z",
@@ -141,27 +128,6 @@
           "IsNSFW": false,
           "ModID": 17230,
           "Name": "SSE Engine Fixes (skse64 plugin)",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "xLFrLl5zQUE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=30506\nfileID=181729",
-        "Name": "Serio\u0027s ENB - TPF Edits-30506-1-10-TPF-1611587281.7z",
-        "Size": 37091682,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Serio",
-          "Description": "A simple ENB with that focuses on preserving native weather colors by including game imagespaces. For Cathedral Weathers.",
-          "FileID": 181729,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/30506/30506-1574395501-1520314120.jpeg",
-          "IsNSFW": false,
-          "ModID": 30506,
-          "Name": "Serio\u0027s ENB - Cathedral",
           "Version": "0.0.0.0"
         }
       }
@@ -826,21 +792,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "gQ2ilDHIFg0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=52130\nfileID=239476",
-        "Name": "Apothecary - Food and Drink Addon-52130-1-1-0-1636239646.7z",
-        "Size": 30834,
+        "Hash": "ZJoUT1z3Wpo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=52130\nfileID=289714",
+        "Name": "Apothecary - Food and Drink Addon-52130-1-1-1-1654695633.7z",
+        "Size": 30775,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Simon Magus and DeltaRider",
           "Description": "Apothecary is a complete overhaul of Skyrim\u2019s alchemy, food, and alcohol systems designed to balance existing options while adding powerful new effects to the game.",
-          "FileID": 239476,
+          "FileID": 289714,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/52130/52130-1625763145-1987350992.png",
           "IsNSFW": false,
           "ModID": 52130,
           "Name": "Apothecary - An Alchemy Overhaul",
-          "Version": "1.1.0.0"
+          "Version": "1.1.1.0"
         }
       }
     },
@@ -2360,21 +2326,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Fkis8OR644U=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54907\nfileID=297215",
-        "Name": "eFPS - Exterior FPS boost-54907-2-4-1657308123.zip",
-        "Size": 744726,
+        "Hash": "HG0zZihhdRc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54907\nfileID=302858",
+        "Name": "eFPS - Exterior FPS boost-54907-2-4-1-1659018960.zip",
+        "Size": 745488,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "nicola89b - Firegtx",
           "Description": "Make Skyrim great again with miracle FPS improvement.",
-          "FileID": 297215,
+          "FileID": 302858,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54907/54907-1630845704-474935940.png",
           "IsNSFW": false,
           "ModID": 54907,
           "Name": "eFPS - Exterior FPS boost",
-          "Version": "2.4.0.0"
+          "Version": "2.4.1.0"
         }
       }
     },
@@ -5763,6 +5729,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "nplQXmCldjM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=26092\nfileID=303214",
+        "Name": "Simple Player Home Improvements - Proudspire Manor Fix-26092-1-0-1659132565.7z",
+        "Size": 645,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Phoenix - Umgak",
+          "Description": "Assorted plugin replacers and patches for various mods. Mostly intended for The Phoenix Flavour guide. Patches created by Phoenix and Umgak.",
+          "FileID": 303214,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26092/26092-1616016633-785644657.png",
+          "IsNSFW": false,
+          "ModID": 26092,
+          "Name": "Patches by Phoenix and Umgak",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "G5rSlzsxwRQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=47115\nfileID=264321",
         "Name": "Simple Smithing Overhaul-47115-1-3-3a-1644906311.7z",
@@ -7655,48 +7642,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wJOZoFdB4n4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=39113\nfileID=186912",
-        "Name": "Rudy ENB SE for Cathedral Weathers-39113-4-0a1-1613787017.rar",
-        "Size": 367405909,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Rudy102",
-          "Description": "A touch of realism and magic. New and special preset for Cathedral Weathers. Designed for the latest ENB binaries, with all the new fancy effects :)",
-          "FileID": 186912,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/39113/39113-1611216452-1607917002.png",
-          "IsNSFW": false,
-          "ModID": 39113,
-          "Name": "Rudy ENB SE for Cathedral Weathers",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "K61lSJj7JZM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42629\nfileID=171223",
-        "Name": "Viven Rain for ENB-42629-0-2-1606080272.zip",
-        "Size": 10860,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "12ain",
-          "Description": "Raindrop Texture Replacer",
-          "FileID": 171223,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42629/42629-1606077834-1769599521.jpeg",
-          "IsNSFW": false,
-          "ModID": 42629,
-          "Name": "Viven Rain for ENB",
-          "Version": "0.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "bhiVn/Ul3Zs=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=4875\nfileID=148679",
         "Name": "BethINI Standalone Version-4875-3-5-1593829244.zip",
@@ -8011,6 +7956,19 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "hRj4IUeJlv8=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_25b82250-5472-4604-8e76-1570899360a1",
+        "Name": "enbseries_skyrimse_v0475.zip",
+        "Size": 4319254,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_25b82250-5472-4604-8e76-1570899360a1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "hU6loN5j9jI=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=2656\nfileID=92823",
         "Name": "Faster Mining Plus SE 3-3 v.2-2656-v2-0-1558296134.zip",
@@ -8025,6 +7983,27 @@
           "IsNSFW": false,
           "ModID": 2656,
           "Name": "Faster Mining Plus SE",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xLFrLl5zQUE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=30506\nfileID=181729",
+        "Name": "Serio\u0027s ENB - TPF Edits-30506-1-10-TPF-1611587281.7z",
+        "Size": 37091682,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Serio",
+          "Description": "A simple ENB with that focuses on preserving native weather colors by including game imagespaces. For Cathedral Weathers.",
+          "FileID": 181729,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/30506/30506-1574395501-1520314120.jpeg",
+          "IsNSFW": false,
+          "ModID": 30506,
+          "Name": "Serio\u0027s ENB - Cathedral",
           "Version": "0.0.0.0"
         }
       }
@@ -11434,21 +11413,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "nAtfW1C3Xlk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58224\nfileID=260686",
-        "Name": "Security Overhaul SKSE - Lock Variations-58224-3-0-1643625561.7z",
-        "Size": 168196085,
+        "Hash": "wJOZoFdB4n4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=39113\nfileID=186912",
+        "Name": "Rudy ENB SE for Cathedral Weathers-39113-4-0a1-1613787017.rar",
+        "Size": 367405909,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kreiste-wSkeever-powerofthree",
-          "Description": "SKSE based framework for replacing overused lock model with unique lock variants.",
-          "FileID": 260686,
+          "Author": "Rudy102",
+          "Description": "A touch of realism and magic. New and special preset for Cathedral Weathers. Designed for the latest ENB binaries, with all the new fancy effects :)",
+          "FileID": 186912,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58224/58224-1636566041-1637060129.gif",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/39113/39113-1611216452-1607917002.png",
           "IsNSFW": false,
-          "ModID": 58224,
-          "Name": "Security Overhaul SKSE - Lock Variations",
-          "Version": "3.0.0.0"
+          "ModID": 39113,
+          "Name": "Rudy ENB SE for Cathedral Weathers",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "K61lSJj7JZM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42629\nfileID=171223",
+        "Name": "Viven Rain for ENB-42629-0-2-1606080272.zip",
+        "Size": 10860,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "12ain",
+          "Description": "Raindrop Texture Replacer",
+          "FileID": 171223,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42629/42629-1606077834-1769599521.jpeg",
+          "IsNSFW": false,
+          "ModID": 42629,
+          "Name": "Viven Rain for ENB",
+          "Version": "0.2.0.0"
         }
       }
     },
