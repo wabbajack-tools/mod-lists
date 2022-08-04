@@ -1,8 +1,8 @@
 {
   "MachineURL": "LostOutpost/lostlegacy",
   "Name": "Lost Legacy",
-  "Version": "1.0.2",
-  "ModListHash": "YSNUFPxYyos=",
+  "Version": "1.0.3",
+  "ModListHash": "A67Y7MbSJAI=",
   "Archives": [
     {
       "Status": "Valid",
@@ -7926,6 +7926,27 @@
           "ModID": 37306,
           "Name": "JS Purses and Septims SE",
           "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Jxvo3SxHqSw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=72548\nfileID=304228",
+        "Name": "JS Shout Apart Skeletons SE-72548-1-0-1659491994.7z",
+        "Size": 1451,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "johnskyrim",
+          "Description": "Unrelenting Force now instantly kills weaker Skeletons and sends their bones flying!",
+          "FileID": 304228,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/72548/72548-1659491591-361526503.png",
+          "IsNSFW": false,
+          "ModID": 72548,
+          "Name": "JS Shout Apart Skeletons SE",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -20532,27 +20553,6 @@
           "ModID": 33394,
           "Name": "JS Shrines of the Divines SE",
           "Version": "1.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tS0kNbZjHU0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=3620\nfileID=35847",
-        "Name": "KeyboardShortcutsFix_SKSE64-3620-1-0-0-2.zip",
-        "Size": 112647,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "xSHADOWMANx or Sumwunn at github",
-          "Description": "Enables keyboards shortcuts in-game. Alt-F4, volume keys, it just works! \r\n\nRequires my dll loader.",
-          "FileID": 35847,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/3620-1-1507482126.jpg",
-          "IsNSFW": false,
-          "ModID": 3620,
-          "Name": "Keyboard Shortcuts Fix",
-          "Version": "1.0.0.2"
         }
       }
     },
