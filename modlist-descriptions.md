@@ -26,6 +26,7 @@
   - [Tales From the Northern Lands](#tales-from-the-northern-lands)
   - [The Phoenix Flavour - Dragon's Edition](#the-phoenix-flavour---dragons-edition)
   - [The Phoenix Flavour](#the-phoenix-flavour)
+  - [Tempus Maledictum](#tempus-maledictum)
   - [Tinvaak](#tinvaak)
   - [Tranquility](#tranquility)
   - [Wildlander](#wildlander)
