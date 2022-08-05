@@ -337,6 +337,18 @@ _**Some of the juiciest additions for you to learn about:**_
 
 ***
 
+### [Tempus Maledictum](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/TempusMaledictumReadmeMain.md)
+
+Tempus Maledictum is a LotD-and-quest-focused modlist, complete with the old school Enairim power fantasy mods. This is NOT a hardcore/Requiem/Dark Souls/I-need-a-torch-to-see-anything-at-noon type of list. The goal is twofold: fun and stability. That's it.
+
+**_Mods to get familiar with:_**
+
+- [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
+- [Ordinator - Perks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1137)  
+- [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614)  
+- [Wait Your Turn - Enemy Circling Behavior](https://www.nexusmods.com/skyrimspecialedition/mods/65091)  
+- [Dragon Aptitude - Dragon Souls Mod](https://www.nexusmods.com/skyrimspecialedition/mods/71134)  
+
 ### [Tinvaak](https://github.com/Althro/Tinvaak2)
 
 Tinvaak is a list focused on making Skyrim: Special Edition (SSE) into an actual roleplaying game. Many new mechanics and changes are present to offer an alternate take on the game. You can view many of these changes in the [showcase video from DroppedIceCream](https://www.youtube.com/watch?v=4N0cOrv5Crc), the [official trailer](https://youtu.be/8bLSGfok47g) and the [Changes to Gameplay](https://github.com/Althro/Tinvaak2/blob/main/Changes%20to%20Gameplay.md) article.
@@ -453,9 +465,7 @@ This list aims to greatly expand the content of Fallout 4 while keeping the orig
 
 **_Mods to get familiar with:_**
 
-[Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/47976)
-[Beantown Interiors](https://www.nexusmods.com/fallout4/mods/4612)  
-[Subway Runner](https://www.nexusmods.com/fallout4/mods/18639)  
+[Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/47976)  
 [This is Trash](https://www.nexusmods.com/fallout4/mods/42552)  
 [Creative Perks Plus](https://www.nexusmods.com/fallout4/mods/49400)   
 
