@@ -1,11 +1,10 @@
 ## Validation Report - Animonculory Dev Tools (Animonculory/ADT)
 
 
-### Invalid (1)
-*  [VSCode-win32-x64-1.69.2.zip](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-archive)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (135)
+### Valid (137)
 *  [(Part 1) SSE Engine Fixes for 1.6.xxx-17230-6-0-2-1637784396.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [ACMOS Road Generator Tool - PART 2-56367-3-2-1654360943.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56367/?tab=files&file_id=288760)
@@ -14,7 +13,7 @@
 *  [Auto Input Switch-54309-1-1-3-1637600255.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54309/?tab=files&file_id=243501)
 *  [Base Object Swapper-60805-1-6-0-1654456965.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60805/?tab=files&file_id=288995)
 *  [BethINI Standalone Version-4875-3-6-1-1651358897.zip](https://www.nexusmods.com/skyrimspecialedition/mods/4875/?tab=files&file_id=280690)
-*  [Better Jumping AE-18967-1-8-4-1653053551.zip](https://www.nexusmods.com/skyrimspecialedition/mods/18967/?tab=files&file_id=285113)
+*  [Better Jumping AE-18967-1-8-5-1658818970.zip](https://www.nexusmods.com/skyrimspecialedition/mods/18967/?tab=files&file_id=302310)
 *  bink2w64.dll
 *  [Blinking Player Eyes-21713-1-3-AE-1636873143.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21713/?tab=files&file_id=241368)
 *  [Bug Fixes SSE (Anniversary Edition)-33261-7-1648396889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33261/?tab=files&file_id=273044)
@@ -50,11 +49,11 @@
 *  Data_Skyrim.esm
 *  Data_Update.esm
 *  Data_Video_BGS_Logo.bik
-*  [DbMiscFunctions-65410-3-7-1658556538.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65410/?tab=files&file_id=301386)
+*  [DbMiscFunctions-65410-3-9-1659660434.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65410/?tab=files&file_id=304669)
 *  [DynDOLOD 3.00-68518-Alpha-95-1655651317.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68518/?tab=files&file_id=292309)
 *  [DynDOLOD DLL SE - Scripts-57264-2-82-3-1652179274.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57264/?tab=files&file_id=282666)
 *  [DynDOLOD DLL SE - SKSE64 Plugin - Skyrim Special Edition 1.6.353-57264-2-45-1641539213.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57264/?tab=files&file_id=254625)
-*  [DynDOLOD Resources SE 3.00-52897-Alpha-27-1652888148.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=284673)
+*  [DynDOLOD Resources SE 3.00-52897-Alpha-28-1659682546.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=304718)
 *  [EasyNPC-52313-0-9-5-1634521270.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52313/?tab=files&file_id=235518)
 *  [ENB Helper Plus-62743-1-0-1-1646400320.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62743/?tab=files&file_id=268032)
 *  [ENB Helper SE 2.1 for SSE 1.6.xxx-23174-2-1-0-1637800246.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23174/?tab=files&file_id=244156)
@@ -89,7 +88,7 @@
 *  [MfgFix-ae-11669-1-6-0-1640109515.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11669/?tab=files&file_id=250804)
 *  [MfgFix-MCM-ae-11669-1-6-0-1639994478.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11669/?tab=files&file_id=250492)
 *  [Mod.Organizer-2.4.4.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z)
-*  [More Informative Console 1.0.1 AE-19250-1-0-1-1653433777.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=286242)
+*  [More Informative Console 1.1.0 AE-19250-1-1-0-1658684725.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=301852)
 *  [Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar](https://www.nexusmods.com/skyrimspecialedition/mods/60033/?tab=files&file_id=248867)
 *  [NIF Preview-69813-0-1-18-1b-1656068039.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69813/?tab=files&file_id=293627)
 *  [NifSkope_2_0_2018-02-22-x64.7z](https://github.com/niftools/nifskope/releases/download/v2.0.dev7/NifSkope_2_0_2018-02-22-x64.7z)
@@ -135,9 +134,11 @@
 *  Tools_HavokBehaviorPostProcess_UpgradeHavokBehavior.bat
 *  Ultra.ini
 *  [Unofficial Creation Kit Patch AE-41195-6-1-1655914180.rar](https://www.nexusmods.com/skyrimspecialedition/mods/41195/?tab=files&file_id=293128)
-*  [Unofficial Skyrim Modder's Patch - USMP SE-49616-2-5-5-1649705590.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49616/?tab=files&file_id=276476)
+*  [Unofficial Skyrim Modder's Patch - USMP SE 2.5.6 Hotfix-49616-2-5-6-1659017825.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49616/?tab=files&file_id=302854)
+*  [Unofficial Skyrim Modder's Patch - USMP SE 2.5.6-49616-2-5-6-1658972154.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49616/?tab=files&file_id=302734)
 *  [Unofficial Skyrim Special Edition Patch-266-4-2-7-1655599279.7z](https://www.nexusmods.com/skyrimspecialedition/mods/266/?tab=files&file_id=292193)
 *  [upot anniversary edition-21166-v10-1636943358.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21166/?tab=files&file_id=241623)
+*  [VSCode-win32-x64-1.70.0.zip](https://az764295.vo.msecnd.net/stable/da76f93349a72022ca4670c1b84860304616aaa2/VSCode-win32-x64-1.70.0.zip)
 *  [xLODGen.94.7z](https://authored-files.wabbajack.org/xLODGen.94.7z_f3881fe6-a5d9-4a88-b85d-b2a2d7a88d03/)
 *  [YesImSure-24898-1-6-0-1641440796.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24898/?tab=files&file_id=254275)
 *  [zEdit_v0.6.6.1_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.6.1/zEdit_v0.6.6.1_-_Portable_x64.7z)
