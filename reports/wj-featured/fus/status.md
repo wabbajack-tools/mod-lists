@@ -190,7 +190,7 @@
 *  [Embers HD-14368-1-41-1599751061.zip](https://www.nexusmods.com/skyrimspecialedition/mods/14368/?tab=files&file_id=160041)
 *  [ENB Helper VR-25142-1-0-0-1555617161.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25142/?tab=files&file_id=88880)
 *  [ENB Organizer-67077-v2-1-1.zip](https://www.nexusmods.com/skyrim/mods/67077/?tab=files&file_id=1000214338)
-*  [enbseries_skyrimvr_v0457.zip](https://authored-files.wabbajack.org/enbseries_skyrimvr_v0457.zip_7e721d77-29bb-49b7-8878-a5a0a40d800f)
+*  [enbseries_skyrimvr_v0457.zip](https://authored-files.wabbajack.org/enbseries_skyrimvr_v0457.zip_8103e178-9db7-480b-b54e-28115c95eb2f)
 *  [Enchanted Weapon Charge Fix-62314-1-1-1642917800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62314/?tab=files&file_id=258817)
 *  [Enemy Healthbar  Red with Names-17812-0-7.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17812/?tab=files&file_id=56578)
 *  [EngineFixesVR_part2.zip](https://github.com/rollingrock/EngineFixesVR/releases/download/v1.21/EngineFixesVR_part2.zip)
