@@ -1,4 +1,4 @@
-## Validation Report - Atomic Warfare (AtomicWarfare/machineURL)
+## Validation Report - Atomic Warfare (AtomicWarfare/Atomic_Warfare)
 
 
 ### Invalid (0)
