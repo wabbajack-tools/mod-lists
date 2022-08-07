@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1027)
+### Valid (1028)
 *  [(Part 1) SSE Engine Fixes for 1.6.xxx-17230-6-0-2-1637784396.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [2K Ash Pile-31983-1-0-1579710192.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31983/?tab=files&file_id=120828)
@@ -525,7 +525,8 @@
 *  [HeimskrOnlyPreachesWeekends2.zip-13865-1-3.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13865/?tab=files&file_id=40292)
 *  [Hide Quest Items in Container Menu-51243-0-8-1647622538.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51243/?tab=files&file_id=270959)
 *  [High Gate Ruins Puzzle Reset Fix-53643-0-2-1628676419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53643/?tab=files&file_id=220379)
-*  [High Poly Project-12029-v5-3-1634909383.zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
+*  [High Poly Project-12029-v5-3-1634909383.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=236420)
+*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  High.ini
 *  [HLT and 3D Aspens-69102-1-0-1654370381.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69102/?tab=files&file_id=288781)
 *  [Hold Border Banners - No Text Version-1737-1-1.rar](https://www.nexusmods.com/skyrimspecialedition/mods/1737/?tab=files&file_id=12305)

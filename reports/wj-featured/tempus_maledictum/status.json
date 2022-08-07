@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/tempus_maledictum",
   "Name": "Tempus Maledictum",
-  "Version": "1.1.0",
-  "ModListHash": "QssaLDvxm/Q=",
+  "Version": "1.1.1",
+  "ModListHash": "75+pEgERu/8=",
   "Archives": [
     {
       "Status": "Valid",
@@ -7199,13 +7199,34 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "oiBn1ned/Fg=",
+        "Hash": "gsvUHbjw0js=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b",
-        "Name": "High Poly Project-12029-v5-3-1634909383.zip",
-        "Size": 394034306,
+        "Name": "High_Poly_Head_v1.4_(SE).zip",
+        "Size": 188231174,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
           "Url": "https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oiBn1ned/Fg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=12029\nfileID=236420",
+        "Name": "High Poly Project-12029-v5-3-1634909383.zip",
+        "Size": 394034306,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LucidAPs",
+          "Description": "An on going process to improve the models of the game with more polygons , UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.",
+          "FileID": 236420,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/76439-0-1466668179.png",
+          "IsNSFW": false,
+          "ModID": 12029,
+          "Name": "High Poly Project",
+          "Version": "5.3.0.0"
         }
       }
     },
