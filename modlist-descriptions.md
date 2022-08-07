@@ -316,25 +316,23 @@ Automated installer for [The Phoenix Flavour](https://thephoenixflavour.com/), t
 
 ***
 
-### [The Phoenix Flavour - Dragon's Edition](https://www.nexusmods.com/skyrimspecialedition/mods/51973)
+### [The Phoenix Flavour - Dragon's Edition](https://thephoenixflavour.com/skyrim-se/tpf-de/introduction/)
 
 A fork of The Phoenix Flavour, which expands Skyrim's world and possibilities extensively by adding adventuristic content for many tastes and beautiful sceneries surrounding it. 
 
-_**What awaits you:**_
-- Different quests and places to explore, people to meet;
-- Picturesque additions to Skyrim's landscape and interiors;
-- Seasonal changes in Skyrim's flora and fauna;
-- Not intrusive, interesting new mechanics;
-- Many useful tools and quality of life additions;
-- Unique looks for all races of Skyrim;
-- Fresh, hand-picked animations for player character;
-- And much more.
+#### Additional Features
 
-_**Some of the juiciest additions for you to learn about:**_
-- [PI-CHO ENB](https://www.nexusmods.com/skyrimspecialedition/mods/35082), [Seasonal Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/66903) and [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961);
-- [JPSteel2](https://www.nexusmods.com/skyrimspecialedition/users/19519279?tab=user+files)'s, [JK](https://www.nexusmods.com/skyrimspecialedition/users/1305814?tab=user+files)'s and [soldierofwar](https://www.nexusmods.com/skyrimspecialedition/users/10182460?tab=user+files)'s Skyrim overhauls;
-- Creation Content like [The Cause](https://en.uesp.net/wiki/Skyrim:The_Cause), [The Forgotten Seasons](https://en.uesp.net/wiki/Skyrim:Forgotten_Seasons) and Alternative Armors;
-- [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194).
+* Carefully integrated Creation Content from Anniversary Upgrade;
+* Different quests and places to explore, people to meet;
+* Picturesque additions to Skyrim's landscape and interiors;
+* Seasonal changes in Skyrim's flora and fauna;
+* Not intrusive, interesting new mechanics;
+* Many useful tools and quality of life additions;
+* Unique looks for all races of Skyrim;
+* Fresh, hand-picked animations for player character;
+* ...
+
+[_Click here to learn more_](https://thephoenixflavour.com/skyrim-se/tpf-de/introduction/)
 
 ***
 
