@@ -412,7 +412,7 @@ A kitchen-sink power fantasy list with tough enemies and an even tougher Dragonb
 
 ### [(NSFW)Tsukiro(NSFW)](https://www.wabbajack.org/modlist/wj-featured/tsukiro)
 
-You ever thought Skyrim combat sucked? Yeah so did everyone. Tsukiro aims to bring combat to the next level with hundreds of hand-picked animations among a plethora of weapon styles. With the Inpa-Sekiro mod, Sekiro-style combat elevates everything to a new level of lethality and action.
+You ever thought Skyrim combat sucked? Yeah so did everyone. Tsukiro aims to bring combat to the next level with hundreds of hand-picked animations among a wide variety of weapon styles.
 
 This won't just be your standard Skyrim playthrough with better combat though, hundreds of hours of additional quest content can be found through Legacy of the Dragonborn, Vigilant, Unslaad, Glenmoril, Interesting NPCs, The Shire, Maids 2: Deception, The Shadow of Meresis, Clockwork and more!
 
