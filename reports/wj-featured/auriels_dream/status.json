@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/auriels_dream",
   "Name": "Auriels Dream",
-  "Version": "10.0.8",
-  "ModListHash": "8fNWVHE7+Wg=",
+  "Version": "10.0.9",
+  "ModListHash": "f39ez+eEONY=",
   "Archives": [
     {
       "Status": "Valid",
@@ -17111,12 +17111,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "MGGeI/R+kRc=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimvr_v0457.zip_8103e178-9db7-480b-b54e-28115c95eb2f",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimvr_v0457.zip_44c21415-c1a0-445d-a7ad-5a5e6157f5ad",
         "Name": "enbseries_skyrimvr_v0457.zip",
         "Size": 2551767,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimvr_v0457.zip_8103e178-9db7-480b-b54e-28115c95eb2f"
+          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimvr_v0457.zip_44c21415-c1a0-445d-a7ad-5a5e6157f5ad"
         }
       }
     },
@@ -17236,6 +17236,22 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/rollingrock/EngineFixesVR/releases/download/v1.20/EngineFixesVR_part2.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JbYP1w8FSfY=",
+        "Meta": "[General]\ngameName=Skyrim VR\ngameFile=Skyrim.ini",
+        "Name": "Skyrim.ini",
+        "Size": 1859,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "Skyrim.ini",
+          "GameVersion": "1.4.15.0",
+          "Hash": "JbYP1w8FSfY="
         }
       }
     },
@@ -17902,20 +17918,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "O2FC3xeCFKQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44016\nfileID=209716",
-        "Name": "Auriel\u0027s Dream - Core Texture Pack - BSA-44016-2-1624016649.7z",
-        "Size": 2793689727,
+        "Hash": "VAiKyftlRN4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44367\nfileID=211068",
+        "Name": "Auril\u0027s Dream - Skyrim 2020 Texture pack P1-44367-1-1-1624621681.7z",
+        "Size": 1254888064,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kvitekvist",
-          "Description": "This is a light version of Project Clarity optimized for Auriel\u0027s Dream modlist. All credits to  Project Clarity",
-          "FileID": 209716,
+          "Description": "Mini Texture Pack for Skyrim VR mod Auril\u0027s Dream",
+          "FileID": 211068,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44016/44016-1609859295-1573649788.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44367/44367-1610738804-2014630511.jpeg",
           "IsNSFW": false,
-          "ModID": 44016,
-          "Name": "Auriel\u0027s Dream - Core Texture Pack",
+          "ModID": 44367,
+          "Name": "Auril\u0027s Dream - Skyrim 2020 Texture pack",
           "Version": "0.0.0.0"
         }
       }
@@ -17955,20 +17971,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VAiKyftlRN4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44367\nfileID=211068",
-        "Name": "Auril\u0027s Dream - Skyrim 2020 Texture pack P1-44367-1-1-1624621681.7z",
-        "Size": 1254888064,
+        "Hash": "O2FC3xeCFKQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44016\nfileID=209716",
+        "Name": "Auriel\u0027s Dream - Core Texture Pack - BSA-44016-2-1624016649.7z",
+        "Size": 2793689727,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kvitekvist",
-          "Description": "Mini Texture Pack for Skyrim VR mod Auril\u0027s Dream",
-          "FileID": 211068,
+          "Description": "This is a light version of Project Clarity optimized for Auriel\u0027s Dream modlist. All credits to  Project Clarity",
+          "FileID": 209716,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44367/44367-1610738804-2014630511.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44016/44016-1609859295-1573649788.png",
           "IsNSFW": false,
-          "ModID": 44367,
-          "Name": "Auril\u0027s Dream - Skyrim 2020 Texture pack",
+          "ModID": 44016,
+          "Name": "Auriel\u0027s Dream - Core Texture Pack",
           "Version": "0.0.0.0"
         }
       }
