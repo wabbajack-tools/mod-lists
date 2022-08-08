@@ -2,7 +2,7 @@
   "MachineURL": "Tsukiro/tsukiro",
   "Name": "Tsukiro",
   "Version": "1.0",
-  "ModListHash": "LG6jhXbUCB4=",
+  "ModListHash": "dKsuFjIHXxQ=",
   "Archives": [
     {
       "Status": "Valid",
@@ -149,13 +149,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uGqJM5K2v9k=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_862431a7-845a-4525-97b5-5b690d12adeb",
-        "Name": "enbseries_skyrimse_v0475.zip",
-        "Size": 4318220,
+        "Hash": "Py9BpFFp8yo=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0475_06082022.zip_60a10606-5c40-44b5-9c5c-143a16357f8b",
+        "Name": "enbseries_skyrimse_v0475_06082022.zip",
+        "Size": 4318388,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_862431a7-845a-4525-97b5-5b690d12adeb"
+          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0475_06082022.zip_60a10606-5c40-44b5-9c5c-143a16357f8b"
         }
       }
     },
@@ -303,13 +303,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "jd0P+E2VtwA=",
-        "Meta": "[General]\ndirectURL=https://skse.silverlock.org/beta/skse64_2_00_20.7z",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/skse64_2_00_20.7z_3944c8e4-64ee-4d7c-a60d-0cef270a1011",
         "Name": "skse64_2_00_20.7z",
         "Size": 834815,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://skse.silverlock.org/beta/skse64_2_00_20.7z"
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/skse64_2_00_20.7z_3944c8e4-64ee-4d7c-a60d-0cef270a1011"
         }
       }
     },
@@ -536,24 +535,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "/gTPFvhp99Y=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=6671\nips4File=Arousal Based Breast Adjuster SE 5.4.2.7z",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/6671-arousal-based-breast-adjuster-for-se-abba/\nprompt=Download Arousal Based Breast Adjuster SE 5.4.2.7z",
         "Name": "Arousal Based Breast Adjuster SE 5.4.2.7z",
         "Size": 1199967,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "Pfiffy",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2018_08/abba.jpg.7cb8accbf3e5391055a4a8c88e5d2dd9.jpg",
-          "IPS4File": "Arousal Based Breast Adjuster SE 5.4.2.7z",
-          "IPS4Mod": 6671,
-          "IPS4Url": "https://www.loverslab.com/files/file/6671-arousal-based-breast-adjuster-for-se-abba/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "Arousal Based Breast Adjuster for SE (ABBA)",
-          "Version": "5.4.2"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Download Arousal Based Breast Adjuster SE 5.4.2.7z",
+          "Url": "https://www.loverslab.com/files/file/6671-arousal-based-breast-adjuster-for-se-abba/"
         }
       }
     },
@@ -3170,24 +3161,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "HizIF9utrD0=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=15607\nips4File=DAR - Pretty Sit Idles \u002B Random Female Sitting.zip",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/15607-dar-pretty-sit-idles-random-female-sitting/\nprompt=",
         "Name": "DAR - Pretty Sit Idles \u002B Random Female Sitting.zip",
         "Size": 1227112,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "Jmzz",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2021_01/sit7.jpg.040bb35181f5091ce838c4eda9055ed6.jpg",
-          "IPS4File": "DAR - Pretty Sit Idles \u002B Random Female Sitting.zip",
-          "IPS4Mod": 15607,
-          "IPS4Url": "https://www.loverslab.com/files/file/15607-dar-pretty-sit-idles-random-female-sitting/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "DAR - Pretty Sit Idles \u002B Random Female Sitting",
-          "Version": "1.0.0"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "",
+          "Url": "https://www.loverslab.com/files/file/15607-dar-pretty-sit-idles-random-female-sitting/"
         }
       }
     },
@@ -3576,24 +3559,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "6Eccb9b+Bxs=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=16227\nips4File=761493319_DMBDORDobartbyTeamTAL1.3.7z",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/16227-se-team-tals-dm-bdor-dobart-smp-3babhunp/\nprompt=",
         "Name": "761493319_DMBDORDobartbyTeamTAL1.3.7z",
         "Size": 170913152,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "em486",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2021_02/1790994262_TheElderScrollsVSkyrimSpecialEditionScreenshot2021_02_02-00_31_33_20.png.957b7757e47b7c6157d793f7f6cd5884.png",
-          "IPS4File": "761493319_DMBDORDobartbyTeamTAL1.3.7z",
-          "IPS4Mod": 16227,
-          "IPS4Url": "https://www.loverslab.com/files/file/16227-se-team-tals-dm-bdor-dobart-smp-3babhunp/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "[SE] Team TAL\u0027s DM BDOR Dobart SMP 3BA/BHUNP",
-          "Version": "1.3.0"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "",
+          "Url": "https://www.loverslab.com/files/file/16227-se-team-tals-dm-bdor-dobart-smp-3babhunp/"
         }
       }
     },
@@ -4703,24 +4678,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "ZKUdB7fXuYc=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=19463\nips4File=FlufyFox_SLAL_SE_Human 1.3.rar",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/19463-flufyfox-slal-pack-le-se-update-060622/\nprompt=Download FlufyFox_SLAL_SE_Human 1.3.rar",
         "Name": "FlufyFox_SLAL_SE_Human 1.3.rar",
         "Size": 32693092,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "FlufyFox",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2022_06/CelestinexTroll.png.33dd7b526897cc2a67eb522cf52d220d.png",
-          "IPS4File": "FlufyFox_SLAL_SE_Human 1.3.rar",
-          "IPS4Mod": 19463,
-          "IPS4Url": "https://www.loverslab.com/files/file/19463-flufyfox-slal-pack-le-se-update-060622/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "FlufyFox SLAL Pack LE SE Update 06/06/22",
-          "Version": "1.3"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Download FlufyFox_SLAL_SE_Human 1.3.rar",
+          "Url": "https://www.loverslab.com/files/file/19463-flufyfox-slal-pack-le-se-update-060622/"
         }
       }
     },
@@ -5495,24 +5462,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "3KSmOKYrHH8=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=8148\nips4File=GS_SLAL SE Creatures 20 02.7z",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/8148-gsposes-slal/\nprompt=Download GS_SLAL SE Creatures 20 02.7z",
         "Name": "GS_SLAL SE Creatures 20 02.7z",
         "Size": 13484008,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "Gunslicer",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2019_01/659140941_UntitledProject(Time0_00_000000).jpg.5f8482a0c93bf4529cfb5ae5978f029f.jpg",
-          "IPS4File": "GS_SLAL SE Creatures 20 02.7z",
-          "IPS4Mod": 8148,
-          "IPS4Url": "https://www.loverslab.com/files/file/8148-gsposes-slal/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "GSPoses \u0026 SLAL",
-          "Version": "01/08"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Download GS_SLAL SE Creatures 20 02.7z",
+          "Url": "https://www.loverslab.com/files/file/8148-gsposes-slal/"
         }
       }
     },
@@ -8354,24 +8313,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "+IBFssRc+fE=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=9655\nips4File=LewdMarks 1.7 racemenu.7z",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/9655-lewdmarks/\nprompt=Download LewdMarks 1.7 racemenu.7z",
         "Name": "LewdMarks 1.7 racemenu.7z",
         "Size": 18362399,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "SavageDomain",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2022_06/LewdMarks.jpg.97996aa4a1b2b0ccbc7a050616f13785.jpg",
-          "IPS4File": "LewdMarks 1.7 racemenu.7z",
-          "IPS4Mod": 9655,
-          "IPS4Url": "https://www.loverslab.com/files/file/9655-lewdmarks/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "LewdMarks",
-          "Version": "1.7"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Download LewdMarks 1.7 racemenu.7z",
+          "Url": "https://www.loverslab.com/files/file/9655-lewdmarks/"
         }
       }
     },
@@ -8788,24 +8739,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "bT4lnuFYSOk=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=18500\nips4File=Maelstrom.7z",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/18500-maelstrom-norse-dungeon-quest-mod-se/\nprompt=",
         "Name": "Maelstrom.7z",
         "Size": 151958453,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "nachtdaemmerung77",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2021_07/1529576510_Description00A.jpg.60e2c58c1f259abdc631cdd288c18050.jpg",
-          "IPS4File": "Maelstrom.7z",
-          "IPS4Mod": 18500,
-          "IPS4Url": "https://www.loverslab.com/files/file/18500-maelstrom-norse-dungeon-quest-mod-se/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "Maelstrom - Norse Dungeon Quest Mod SE",
-          "Version": "1.03SE"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "",
+          "Url": "https://www.loverslab.com/files/file/18500-maelstrom-norse-dungeon-quest-mod-se/"
         }
       }
     },
@@ -9243,24 +9186,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "MNF6wJ3YhkI=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=5464\nips4File=MoreNastyCrittersSE_v12_7D.7z",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/\nprompt=Download MoreNastyCrittersSE_v12_7D.7z",
         "Name": "MoreNastyCrittersSE_v12_7D.7z",
         "Size": 162304232,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "MadMansGun",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2022_07/ModDependencies.jpg.1d2fae50552a358e6167cb81b9070162.jpg",
-          "IPS4File": "MoreNastyCrittersSE_v12_7D.7z",
-          "IPS4Mod": 5464,
-          "IPS4Url": "https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "More Nasty Critters Special Edition",
-          "Version": "12.7D"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Download MoreNastyCrittersSE_v12_7D.7z",
+          "Url": "https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/"
         }
       }
     },
@@ -9538,24 +9473,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "z2ZLO/waSyg=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=6878\nips4File=NCK30 SLAL 3.4 SE.7z",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/6878-nck30-animations/\nprompt=Download NCK30 SLAL 3.4 SE.7z",
         "Name": "NCK30 SLAL 3.4 SE.7z",
         "Size": 27742136,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "NCK30",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2020_06/1845786948_RomanticFace2Face-Scene3.gif.05ed2decc0112098a9e881d7ecabca21.gif",
-          "IPS4File": "NCK30 SLAL 3.4 SE.7z",
-          "IPS4Mod": 6878,
-          "IPS4Url": "https://www.loverslab.com/files/file/6878-nck30-animations/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "NCK30 Animations",
-          "Version": "3.4"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Download NCK30 SLAL 3.4 SE.7z",
+          "Url": "https://www.loverslab.com/files/file/6878-nck30-animations/"
         }
       }
     },
@@ -10162,24 +10089,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "VTRKVIn21ZE=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=10660\nips4File=Patched SE SL TOOLS Updated.zip",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/10660-sexlab-tools-for-se-patched/\nprompt=",
         "Name": "Patched SE SL TOOLS Updated.zip",
         "Size": 173345,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "Electric Aether",
-          "Description": "",
-          "ImageURL": null,
-          "IPS4File": "Patched SE SL TOOLS Updated.zip",
-          "IPS4Mod": 10660,
-          "IPS4Url": "https://www.loverslab.com/files/file/10660-sexlab-tools-for-se-patched/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "Sexlab tools for SE (Patched)",
-          "Version": "3.0.0"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "",
+          "Url": "https://www.loverslab.com/files/file/10660-sexlab-tools-for-se-patched/"
         }
       }
     },
@@ -11030,24 +10949,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "5unK1KNe6V8=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=5355\nips4File=Schlongs_of_Skyrim_SE - v1.1.4.rar",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/\nprompt=Download Schlongs_of_Skyrim_SE - v1.1.4.rar",
         "Name": "Schlongs_of_Skyrim_SE - v1.1.4.rar",
         "Size": 37345605,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "galgaroth",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2018_04/ScreenShot0.jpg.1182f61ad36d22b56aab36151f7fd588.jpg",
-          "IPS4File": "Schlongs_of_Skyrim_SE - v1.1.4.rar",
-          "IPS4Mod": 5355,
-          "IPS4Url": "https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "Schlongs of Skyrim SE",
-          "Version": "1.1.4"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Download Schlongs_of_Skyrim_SE - v1.1.4.rar",
+          "Url": "https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/"
         }
       }
     },
@@ -11310,112 +11221,72 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "4aSQ2IuJUbs=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=14676\nips4File=Sexlab - Cum Overlays v2.8 (20-Oct-2020).7z",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/14676-sexlab-cum-overlays/\nprompt=Download Sexlab - Cum Overlays v2.8 (20-Oct-2020).7z",
         "Name": "Sexlab - Cum Overlays v2.8 (20-Oct-2020).7z",
         "Size": 28944,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "Monoman1",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2020_10/1016735251_20181020191351_150.png.b0452fa4ab3b2b4009567bda61b15380.png.f754296255282f1e04b5bb1a57e8b192.png",
-          "IPS4File": "Sexlab - Cum Overlays v2.8 (20-Oct-2020).7z",
-          "IPS4Mod": 14676,
-          "IPS4Url": "https://www.loverslab.com/files/file/14676-sexlab-cum-overlays/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "Sexlab - Cum Overlays",
-          "Version": "2.8"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Download Sexlab - Cum Overlays v2.8 (20-Oct-2020).7z",
+          "Url": "https://www.loverslab.com/files/file/14676-sexlab-cum-overlays/"
         }
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "NiI3N3mR+IU=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=7309\nips4File=SexLab EagerNPCSERev2.7z",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/7309-sexlab-eager-npcs-se-slen/\nprompt=Download SexLab EagerNPCSERev2.7z",
         "Name": "SexLab EagerNPCSERev2.7z",
         "Size": 10116931,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "Pfiffy",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2018_11/20180916202709_1.jpg.828307e5782846082b4b77c267bf8ebb.jpg",
-          "IPS4File": "SexLab EagerNPCSERev2.7z",
-          "IPS4Mod": 7309,
-          "IPS4Url": "https://www.loverslab.com/files/file/7309-sexlab-eager-npcs-se-slen/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "Sexlab Eager NPC\u0027s SE (SLEN)",
-          "Version": "1.0.0"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Download SexLab EagerNPCSERev2.7z",
+          "Url": "https://www.loverslab.com/files/file/7309-sexlab-eager-npcs-se-slen/"
         }
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "FgjiiP2m1+w=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=10742\nips4File=SexLab Solutions v3 - Revisited SE v1.1.5.7z",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/\nprompt=Download SexLab Solutions v3 - Revisited SE v1.1.5.7z",
         "Name": "SexLab Solutions v3 - Revisited SE v1.1.5.7z",
         "Size": 624397,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "nomkaz",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2019_10/Nexus_Banner_Pic_2019_06_08.jpg.43283477836db92a365c9a82b7a9087c.jpg",
-          "IPS4File": "SexLab Solutions v3 - Revisited SE v1.1.5.7z",
-          "IPS4Mod": 10742,
-          "IPS4Url": "https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "SexLab Solutions - Revisited SE",
-          "Version": "1.1.5"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Download SexLab Solutions v3 - Revisited SE v1.1.5.7z",
+          "Url": "https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/"
         }
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "15UIkeLZme0=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=20058\nips4File=SexLabFrameworkSE_v163.7z",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framework-v164c-010722/\nprompt=Download SexLabFrameworkSE_v163.7z",
         "Name": "SexLabFrameworkSE_v163.7z",
         "Size": 72223207,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "Ashal",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2021_11/sexlablogo_se.png.81c98b360cf4ebaa60c7adf34c7254b2.png",
-          "IPS4File": "SexLabFrameworkSE_v163.7z",
-          "IPS4Mod": 20058,
-          "IPS4Url": "https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framework-v164c-010722/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "SexLab SE - Sex Animation Framework v1.64c - 01/07/22",
-          "Version": "1.64c"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Download SexLabFrameworkSE_v163.7z",
+          "Url": "https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framework-v164c-010722/"
         }
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "3GatpwuLCa4=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=14373\nips4File=SexLab_Extra_Voices_1_5.rar",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/14373-sexlab-extra-voices-nusbies-voices/\nprompt=Download SexLab_Extra_Voices_1_5.rar",
         "Name": "SexLab_Extra_Voices_1_5.rar",
         "Size": 125838227,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "CoverOne",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2020_09/55.jpg.3fed01b6ad468fefeda00435af07294c.jpg",
-          "IPS4File": "SexLab_Extra_Voices_1_5.rar",
-          "IPS4Mod": 14373,
-          "IPS4Url": "https://www.loverslab.com/files/file/14373-sexlab-extra-voices-nusbies-voices/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "SexLab Extra Voices \u002B Nusbie\u0027s Voices",
-          "Version": "1.5.0"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Download SexLab_Extra_Voices_1_5.rar",
+          "Url": "https://www.loverslab.com/files/file/14373-sexlab-extra-voices-nusbies-voices/"
         }
       }
     },
@@ -11903,24 +11774,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "KHwHVIjqKvk=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=5328\nips4File=SLAL_SE.7z",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/5328-sexlab-animation-loader-sse/\nprompt=",
         "Name": "SLAL_SE.7z",
         "Size": 85439,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "Andreis",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2018_02/SLAL_SE.png.5a418a73c60c193f2a5b2809fc24e285.png",
-          "IPS4File": "SLAL_SE.7z",
-          "IPS4Mod": 5328,
-          "IPS4Url": "https://www.loverslab.com/files/file/5328-sexlab-animation-loader-sse/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "SexLab Animation Loader SSE",
-          "Version": "1.0.0"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "",
+          "Url": "https://www.loverslab.com/files/file/5328-sexlab-animation-loader-sse/"
         }
       }
     },
@@ -12051,24 +11914,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "46mlFC+QwuE=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=13011\nips4File=SOS - No Futanari Schlong - Addon.7z",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/13011-sos-no-futanari-schlong-addon/\nprompt=Download SOS - No Futanari Schlong - Addon.7z",
         "Name": "SOS - No Futanari Schlong - Addon.7z",
         "Size": 1913,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "Husky1o1",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2020_05/2.jpg.e3927cac923c77862497f688e4d458fc.jpg",
-          "IPS4File": "SOS - No Futanari Schlong - Addon.7z",
-          "IPS4Mod": 13011,
-          "IPS4Url": "https://www.loverslab.com/files/file/13011-sos-no-futanari-schlong-addon/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "SOS - No Futanari Schlong - Addon",
-          "Version": "1.3"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Download SOS - No Futanari Schlong - Addon.7z",
+          "Url": "https://www.loverslab.com/files/file/13011-sos-no-futanari-schlong-addon/"
         }
       }
     },
@@ -17366,24 +17221,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "pAqQhy3w9/M=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=19463\nips4File=FlufyFox_SLAL_SE_Creature 1.3.rar",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/19463-flufyfox-slal-pack-le-se-update-060622/\nprompt=Download FlufyFox_SLAL_SE_Creature 1.3.rar",
         "Name": "FlufyFox_SLAL_SE_Creature 1.3.rar",
         "Size": 8137435,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "FlufyFox",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2022_06/CelestinexTroll.png.33dd7b526897cc2a67eb522cf52d220d.png",
-          "IPS4File": "FlufyFox_SLAL_SE_Creature 1.3.rar",
-          "IPS4Mod": 19463,
-          "IPS4Url": "https://www.loverslab.com/files/file/19463-flufyfox-slal-pack-le-se-update-060622/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "FlufyFox SLAL Pack LE SE Update 06/06/22",
-          "Version": "1.3"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Download FlufyFox_SLAL_SE_Creature 1.3.rar",
+          "Url": "https://www.loverslab.com/files/file/19463-flufyfox-slal-pack-le-se-update-060622/"
         }
       }
     },
@@ -18307,7 +18154,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "EqZ2AK9O26U=",
         "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=2968\nips4File=SexLab CumTextures Remake v1.2.7z",
@@ -18455,24 +18302,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "6P0gdCNbonU=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=16160\nips4File=SLAL_M2MAnimations_SE_v20210222.7z",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/16160-m2m-animations-for-slal/\nprompt=Download SLAL_M2MAnimations_SE_v20210222.7z",
         "Name": "SLAL_M2MAnimations_SE_v20210222.7z",
         "Size": 19329510,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "BeranabusBarnes",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2021_02/SLAL_M2M_Logo.png.b23ff6e9dfd48e04378507f26763a7b4.png",
-          "IPS4File": "SLAL_M2MAnimations_SE_v20210222.7z",
-          "IPS4Mod": 16160,
-          "IPS4Url": "https://www.loverslab.com/files/file/16160-m2m-animations-for-slal/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "M2M Animations for SLAL",
-          "Version": "20210222"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Download SLAL_M2MAnimations_SE_v20210222.7z",
+          "Url": "https://www.loverslab.com/files/file/16160-m2m-animations-for-slal/"
         }
       }
     },
@@ -23012,7 +22851,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "qwts2jxtFfc=",
         "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=12805\nips4File=Sexlab Semi-Realistic Sex Sounds.rar",
@@ -23554,24 +23393,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "V3aeAVGPJA8=",
-        "Meta": "[General]\nips4Site=Lovers Lab\nips4Mod=21344\nips4File=Better Heels Sounds FX 1.0.6.zip",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/21344-better-heels-sound-fx/\nprompt=",
         "Name": "Better Heels Sounds FX 1.0.6.zip",
         "Size": 8158047,
         "State": {
-          "$type": "LoversLabOAuthDownloader, Wabbajack.Lib",
-          "Author": "Laethas",
-          "Description": "",
-          "ImageURL": "https://static.loverslab.com/screenshots/monthly_2022_03/betterheelssounds.png.98217b5fbf69104ef53ec9e051bb09aa.png",
-          "IPS4File": "Better Heels Sounds FX 1.0.6.zip",
-          "IPS4Mod": 21344,
-          "IPS4Url": "https://www.loverslab.com/files/file/21344-better-heels-sound-fx/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "Better Heels Sound FX",
-          "Version": "1.0.6"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "",
+          "Url": "https://www.loverslab.com/files/file/21344-better-heels-sound-fx/"
         }
       }
     },
@@ -24922,258 +24753,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kreIdyD5o8E=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=28553\nfileID=105433",
-        "Name": "Celes Tarot Outfit Cloth UNP-28553-1-01-1567494978.7z",
-        "Size": 123361780,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deserter X - dianka33",
-          "Description": "A new light or cloth Daedric outfit. Suitable for sorceresses and witches.",
-          "FileID": 105433,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28553/28553-1566845843-1432500726.png",
-          "IsNSFW": true,
-          "ModID": 28553,
-          "Name": "DX Celes Tarot Outfit (Witch of the Black Rose) - UNP",
-          "Version": "f1.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+9qZKLaOCrU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=4783\nfileID=89718",
-        "Name": "Cassandra Frost Witch-4783-2-01-1556249432.7z",
-        "Size": 164800604,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deserter X",
-          "Description": "A new craftable light Elven outfit and a crystal staff. Has three hat sizes to fit most hair and optional skirt and underwear. Now with Race Menu High Heels support.",
-          "FileID": 89718,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4783/4783-1564797072-2017789163.jpeg",
-          "IsNSFW": true,
-          "ModID": 4783,
-          "Name": "DX Cassandra Frost Witch Outfit - UNP",
-          "Version": "3.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "KbIboHBXOOE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=62371\nfileID=260159",
-        "Name": "Knight of The Village BHUNP SSE Extended Textures 4K-62371-2022-c-1643392857.7z",
-        "Size": 230720236,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ysmir Egilvar - Skyforge",
-          "Description": "Not a fantasy armor, just the clothes of a knight from the village",
-          "FileID": 260159,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62371/62371-1643136703-1884985936.png",
-          "IsNSFW": false,
-          "ModID": 62371,
-          "Name": "Knight of The Village Set BHUNP SSE",
-          "Version": "2022.0.0.0.c"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QukpHLSU0sU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=13578\nfileID=237317",
-        "Name": "MRP 2.6 Small Update-13578-2-6-2-1635330251.7z",
-        "Size": 47228457,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "cunny1975",
-          "Description": "An ongoing project to find and retexture overlooked items throughout Skyrim.",
-          "FileID": 237317,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/13578/13578-1580127032-802599307.jpeg",
-          "IsNSFW": false,
-          "ModID": 13578,
-          "Name": "Misc Retexture Project",
-          "Version": "2.6.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "jgCe3ahXrsM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=4306\nfileID=89731",
-        "Name": "Sotteta Necromancer-4306-2-01-1556251194.7z",
-        "Size": 70452169,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deserter X and Mitosuke",
-          "Description": "Sotteta Necromancer contains a new craftable light armor or clothing, found in the Leather or Misc categories respectively. The outfit features the Necromancer\u0027s Grip enchant which is optional. Now with Race Menu High Heels support.",
-          "FileID": 89731,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4306/4306-1564796119-1094014540.png",
-          "IsNSFW": true,
-          "ModID": 4306,
-          "Name": "DX Sotteta Necromancer Outfit - UNP",
-          "Version": "f2.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6WQyVYxPG+I=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=72784\nfileID=304951",
-        "Name": "Glenmoril Armors and Weapons Retexture SE-72784-1-0-1659754211.rar",
-        "Size": 1910690018,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xavbio",
-          "Description": "This mod retextures most armors and weapons from the popular mod \u0022Glenmoril\u0022 by Vicn. Most textures are 2k, with some 4k textures when needed. There are 129 items retextured, 56 armor sets or helmet and 73 weapons",
-          "FileID": 304951,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/72784/72784-1659750900-938711796.png",
-          "IsNSFW": false,
-          "ModID": 72784,
-          "Name": "Glenmoril Armors and Weapons Retexture SE",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "NA1ir280Ju4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=28566\nfileID=104648",
-        "Name": "Orc Settlements Enhanced 4K-28566-1-1-1567007915.7z",
-        "Size": 532943424,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "winedave",
-          "Description": "Orc Settlements Redone with new textures. Made using 3D Scans and one material. Textures blended to give a matching visual. 8, 4 \u0026amp; 2K versions available",
-          "FileID": 104648,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28566/28566-1566938481-730956243.png",
-          "IsNSFW": false,
-          "ModID": 28566,
-          "Name": "Orc Settlements Enhanced",
-          "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "JDtOuLz1+tc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=4853\nfileID=89720",
-        "Name": "Emfy Cleric-4853-2-01-1556249833.7z",
-        "Size": 115239159,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deserter X and Mitosuke",
-          "Description": "A new craftable Elven heavy Armor with matching Mace and Shield. Light Armor and Cloth options. Bonus unique armored horse for you to own. Now with Race Menu High Heels support.",
-          "FileID": 89720,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4853/4853-1564726598-245562040.png",
-          "IsNSFW": true,
-          "ModID": 4853,
-          "Name": "DX Emfy Cleric Outfit - UNP",
-          "Version": "f2.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "zniCvvjD1D8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42975\nfileID=172664",
-        "Name": "LOTDCT_BC7-42975-1-1606887427.7z",
-        "Size": 1788481040,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kartoffel",
-          "Description": "Mostly as a resource, these are the textures of LOTD cleaned of compression artifacts and some bad overwrites.",
-          "FileID": 172664,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42975/42975-1606884290-242268815.png",
-          "IsNSFW": false,
-          "ModID": 42975,
-          "Name": "Legacy of the Dragonborn Cleaned Textures",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "0qpWF2bL56U=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42975\nfileID=173108",
-        "Name": "Blue Fabric Fix-42975-1-0-1-1607135750.7z",
-        "Size": 503373,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kartoffel",
-          "Description": "Mostly as a resource, these are the textures of LOTD cleaned of compression artifacts and some bad overwrites.",
-          "FileID": 173108,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42975/42975-1606884290-242268815.png",
-          "IsNSFW": false,
-          "ModID": 42975,
-          "Name": "Legacy of the Dragonborn Cleaned Textures",
-          "Version": "1.0.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vJgfgA7p6gc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=4372\nfileID=89724",
-        "Name": "Daedric Reaper-4372-2-01-1556250578.7z",
-        "Size": 220992030,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deserter X and Mitosuke",
-          "Description": "A new craftable upgrade to the Daedric heavy armor and sword. Includes both male and female versions. The new armor is lightweight with improved stats. The sword is faster and lighter to wield. Role playing crafting system with progression.",
-          "FileID": 89724,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4372-13-1479275143.jpg",
-          "IsNSFW": true,
-          "ModID": 4372,
-          "Name": "DX Daedric Reaper Armor - UNP and MALE",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "S/H9iCc3JWc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=28950\nfileID=217115",
-        "Name": "Illustrious Whiterun 2K Update-28950-1-4-1627406483.7z",
-        "Size": 151049298,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "winedave",
-          "Description": "My idea of what Whiterun should look like. Still A work in progress but getting there with every update. 8,4 \u0026amp; 2K versions.",
-          "FileID": 217115,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28950/28950-1620245589-72992561.png",
-          "IsNSFW": false,
-          "ModID": 28950,
-          "Name": "Illustrious Whiterun SE - 8K - Parallax",
-          "Version": "1.4.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "nuEp7R2WPjQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=29451\nfileID=109516",
         "Name": "Crimson Blood Armor-29451-1-0-1570426302.7z",
@@ -25189,69 +24768,6 @@
           "ModID": 29451,
           "Name": "DX Crimson Blood Armor - UNP",
           "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "CvVAxTHjSiI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=25370\nfileID=89880",
-        "Name": "Sotteta Huntress-25370-1-0-1556351828.7z",
-        "Size": 197075251,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deserter X",
-          "Description": "A new craftable armor with many variations. Four different type of dresses, many types of socks, stocking, trousers, etc. It comes with a new bow \u0022The Eclipse\u0022 and also new type of arrows and quiver to match the armor. Now with Racemenu High Heels support.",
-          "FileID": 89880,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/25370/25370-1565059918-1333202193.png",
-          "IsNSFW": true,
-          "ModID": 25370,
-          "Name": "DX Sotteta Huntress Outfit - UNP",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6pSjmG4F+48=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=26653\nfileID=96511",
-        "Name": "Stella Mithril Armor UNP-26653-1-1-1560889952.7z",
-        "Size": 83719325,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deserter X - dianka33",
-          "Description": "A new light dwarven armor.",
-          "FileID": 96511,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26653/26653-1568497393-488435324.png",
-          "IsNSFW": true,
-          "ModID": 26653,
-          "Name": "DX Stella Mithril Armor - UNP",
-          "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "GBQp0Kml/ho=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=29944\nfileID=111900",
-        "Name": "Black Widow Outfit UNP-29944-1-0-1572452485.7z",
-        "Size": 66254019,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deserter X - dianka33",
-          "Description": "A new Falmer light armor that rejuvenates.",
-          "FileID": 111900,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29944/29944-1572248555-626825766.png",
-          "IsNSFW": true,
-          "ModID": 29944,
-          "Name": "DX Black Widow Outfit - UNP",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -25279,27 +24795,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cXozqMATwCs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=4529\nfileID=89785",
-        "Name": "Celes Nightingale High Heels-4529-2-01-1556287026.7z",
-        "Size": 133876657,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deserter X and Mitosuke",
-          "Description": "Celes Nightingale is a new, craftable light Daedric armor. Matching sword, dagger, bow and crossbow with the option of poisonous arrows and bolts. Now with High Heels support.",
-          "FileID": 89785,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4529/4529-1564960757-1331421472.png",
-          "IsNSFW": true,
-          "ModID": 4529,
-          "Name": "DX Celes Nightingale Outfit and Weapons - UNP",
-          "Version": "f2.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "ubO6Itxhk4U=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=22487\nfileID=79615",
         "Name": "(Q) Community Overlays 1 - Bugfix Patch-22487-1-0-2-1548457861.7z",
@@ -25321,63 +24816,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "rIMZKLPjZ84=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=39793\nfileID=265282",
-        "Name": "BHUNP Ver 3 Black Widow Outfit-39793-1-1-1645259306.7z",
-        "Size": 25285790,
+        "Hash": "+9qZKLaOCrU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=4783\nfileID=89718",
+        "Name": "Cassandra Frost Witch-4783-2-01-1556249432.7z",
+        "Size": 164800604,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Bakafactory",
-          "Description": "Deserter X\u0027s Daughter of DX Black Widow in BHUNP BodySlide version. Thank you for the wonderful work.",
-          "FileID": 265282,
+          "Author": "Deserter X",
+          "Description": "A new craftable light Elven outfit and a crystal staff. Has three hat sizes to fit most hair and optional skirt and underwear. Now with Race Menu High Heels support.",
+          "FileID": 89718,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/39793/39793-1598338651-562759501.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4783/4783-1564797072-2017789163.jpeg",
           "IsNSFW": true,
-          "ModID": 39793,
-          "Name": "DX Black Widow Outfit - BHUNP Bodyslide(3BBB)",
-          "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "hEo7ftgbmWs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=4703\nfileID=154783",
-        "Name": "RUSTIC CLOTHING - Special Edition - 4K-2K-4703-3-0-1597024563.7z",
-        "Size": 1722008081,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Gamwich",
-          "Description": "High resolution RUSTIC CLOTHING texture overhaul for Skyrim Special Edition. Now with BC7 compression. Available in several resolution options.",
-          "FileID": 154783,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4703-0-1486937976.jpg",
-          "IsNSFW": false,
-          "ModID": 4703,
-          "Name": "RUSTIC CLOTHING - Special Edition",
+          "ModID": 4783,
+          "Name": "DX Cassandra Frost Witch Outfit - UNP",
           "Version": "3.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ayn3lK8gdRU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=4292\nfileID=89726",
-        "Name": "Tembtra Thief-4292-2-01-1556250882.7z",
-        "Size": 127892275,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deserter X and Mitosuke",
-          "Description": "A new craftable scaled light armor found under the steel category and upgradeable at the workbench. Offering a wide array of customization from skimpy to badass through the armor upgrade system. Now with Race Menu High Heels support.",
-          "FileID": 89726,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4292/4292-1564725578-841710361.png",
-          "IsNSFW": true,
-          "ModID": 4292,
-          "Name": "DX Tembtra Thief Outfit - UNP",
-          "Version": "0.0.0.0"
         }
       }
     },
@@ -25398,6 +24851,174 @@
           "IsNSFW": true,
           "ModID": 33034,
           "Name": "DX Witcher Armor - UNP",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jgCe3ahXrsM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=4306\nfileID=89731",
+        "Name": "Sotteta Necromancer-4306-2-01-1556251194.7z",
+        "Size": 70452169,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deserter X and Mitosuke",
+          "Description": "Sotteta Necromancer contains a new craftable light armor or clothing, found in the Leather or Misc categories respectively. The outfit features the Necromancer\u0027s Grip enchant which is optional. Now with Race Menu High Heels support.",
+          "FileID": 89731,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4306/4306-1564796119-1094014540.png",
+          "IsNSFW": true,
+          "ModID": 4306,
+          "Name": "DX Sotteta Necromancer Outfit - UNP",
+          "Version": "f2.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kreIdyD5o8E=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=28553\nfileID=105433",
+        "Name": "Celes Tarot Outfit Cloth UNP-28553-1-01-1567494978.7z",
+        "Size": 123361780,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deserter X - dianka33",
+          "Description": "A new light or cloth Daedric outfit. Suitable for sorceresses and witches.",
+          "FileID": 105433,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28553/28553-1566845843-1432500726.png",
+          "IsNSFW": true,
+          "ModID": 28553,
+          "Name": "DX Celes Tarot Outfit (Witch of the Black Rose) - UNP",
+          "Version": "f1.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JDtOuLz1+tc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=4853\nfileID=89720",
+        "Name": "Emfy Cleric-4853-2-01-1556249833.7z",
+        "Size": 115239159,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deserter X and Mitosuke",
+          "Description": "A new craftable Elven heavy Armor with matching Mace and Shield. Light Armor and Cloth options. Bonus unique armored horse for you to own. Now with Race Menu High Heels support.",
+          "FileID": 89720,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4853/4853-1564726598-245562040.png",
+          "IsNSFW": true,
+          "ModID": 4853,
+          "Name": "DX Emfy Cleric Outfit - UNP",
+          "Version": "f2.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zLLm86bBQds=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=4278\nfileID=89738",
+        "Name": "Merta Assassin-4278-2-0-1556258051.7z",
+        "Size": 139416133,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deserter X and Mitosuke",
+          "Description": "Merta Assassin contains a new craftable armor and dagger themed around the Assassins Guild. Armor upgrade system offers an array of styles from skimpy to elegance. Stats are equal to Daedric Light Armor and can be upgraded using the workbench. Now with Racemenu High Heels support.",
+          "FileID": 89738,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4278/4278-1564726211-1452874682.png",
+          "IsNSFW": true,
+          "ModID": 4278,
+          "Name": "DX Merta Assassin Outfit - UNP",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QukpHLSU0sU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=13578\nfileID=237317",
+        "Name": "MRP 2.6 Small Update-13578-2-6-2-1635330251.7z",
+        "Size": 47228457,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "cunny1975",
+          "Description": "An ongoing project to find and retexture overlooked items throughout Skyrim.",
+          "FileID": 237317,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/13578/13578-1580127032-802599307.jpeg",
+          "IsNSFW": false,
+          "ModID": 13578,
+          "Name": "Misc Retexture Project",
+          "Version": "2.6.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6pSjmG4F+48=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=26653\nfileID=96511",
+        "Name": "Stella Mithril Armor UNP-26653-1-1-1560889952.7z",
+        "Size": 83719325,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deserter X - dianka33",
+          "Description": "A new light dwarven armor.",
+          "FileID": 96511,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26653/26653-1568497393-488435324.png",
+          "IsNSFW": true,
+          "ModID": 26653,
+          "Name": "DX Stella Mithril Armor - UNP",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6WQyVYxPG+I=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=72784\nfileID=304951",
+        "Name": "Glenmoril Armors and Weapons Retexture SE-72784-1-0-1659754211.rar",
+        "Size": 1910690018,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xavbio",
+          "Description": "This mod retextures most armors and weapons from the popular mod \u0022Glenmoril\u0022 by Vicn. Most textures are 2k, with some 4k textures when needed. There are 129 items retextured, 56 armor sets or helmet and 73 weapons",
+          "FileID": 304951,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/72784/72784-1659750900-938711796.png",
+          "IsNSFW": false,
+          "ModID": 72784,
+          "Name": "Glenmoril Armors and Weapons Retexture SE",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CvVAxTHjSiI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=25370\nfileID=89880",
+        "Name": "Sotteta Huntress-25370-1-0-1556351828.7z",
+        "Size": 197075251,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deserter X",
+          "Description": "A new craftable armor with many variations. Four different type of dresses, many types of socks, stocking, trousers, etc. It comes with a new bow \u0022The Eclipse\u0022 and also new type of arrows and quiver to match the armor. Now with Racemenu High Heels support.",
+          "FileID": 89880,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/25370/25370-1565059918-1333202193.png",
+          "IsNSFW": true,
+          "ModID": 25370,
+          "Name": "DX Sotteta Huntress Outfit - UNP",
           "Version": "1.0.0.0"
         }
       }
@@ -25426,21 +25047,105 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zLLm86bBQds=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=4278\nfileID=89738",
-        "Name": "Merta Assassin-4278-2-0-1556258051.7z",
-        "Size": 139416133,
+        "Hash": "NA1ir280Ju4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=28566\nfileID=104648",
+        "Name": "Orc Settlements Enhanced 4K-28566-1-1-1567007915.7z",
+        "Size": 532943424,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "winedave",
+          "Description": "Orc Settlements Redone with new textures. Made using 3D Scans and one material. Textures blended to give a matching visual. 8, 4 \u0026amp; 2K versions available",
+          "FileID": 104648,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28566/28566-1566938481-730956243.png",
+          "IsNSFW": false,
+          "ModID": 28566,
+          "Name": "Orc Settlements Enhanced",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ayn3lK8gdRU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=4292\nfileID=89726",
+        "Name": "Tembtra Thief-4292-2-01-1556250882.7z",
+        "Size": 127892275,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Deserter X and Mitosuke",
-          "Description": "Merta Assassin contains a new craftable armor and dagger themed around the Assassins Guild. Armor upgrade system offers an array of styles from skimpy to elegance. Stats are equal to Daedric Light Armor and can be upgraded using the workbench. Now with Racemenu High Heels support.",
-          "FileID": 89738,
+          "Description": "A new craftable scaled light armor found under the steel category and upgradeable at the workbench. Offering a wide array of customization from skimpy to badass through the armor upgrade system. Now with Race Menu High Heels support.",
+          "FileID": 89726,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4278/4278-1564726211-1452874682.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4292/4292-1564725578-841710361.png",
           "IsNSFW": true,
-          "ModID": 4278,
-          "Name": "DX Merta Assassin Outfit - UNP",
+          "ModID": 4292,
+          "Name": "DX Tembtra Thief Outfit - UNP",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hEo7ftgbmWs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=4703\nfileID=154783",
+        "Name": "RUSTIC CLOTHING - Special Edition - 4K-2K-4703-3-0-1597024563.7z",
+        "Size": 1722008081,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Gamwich",
+          "Description": "High resolution RUSTIC CLOTHING texture overhaul for Skyrim Special Edition. Now with BC7 compression. Available in several resolution options.",
+          "FileID": 154783,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4703-0-1486937976.jpg",
+          "IsNSFW": false,
+          "ModID": 4703,
+          "Name": "RUSTIC CLOTHING - Special Edition",
+          "Version": "3.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vJgfgA7p6gc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=4372\nfileID=89724",
+        "Name": "Daedric Reaper-4372-2-01-1556250578.7z",
+        "Size": 220992030,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deserter X and Mitosuke",
+          "Description": "A new craftable upgrade to the Daedric heavy armor and sword. Includes both male and female versions. The new armor is lightweight with improved stats. The sword is faster and lighter to wield. Role playing crafting system with progression.",
+          "FileID": 89724,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4372-13-1479275143.jpg",
+          "IsNSFW": true,
+          "ModID": 4372,
+          "Name": "DX Daedric Reaper Armor - UNP and MALE",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GBQp0Kml/ho=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=29944\nfileID=111900",
+        "Name": "Black Widow Outfit UNP-29944-1-0-1572452485.7z",
+        "Size": 66254019,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deserter X - dianka33",
+          "Description": "A new Falmer light armor that rejuvenates.",
+          "FileID": 111900,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29944/29944-1572248555-626825766.png",
+          "IsNSFW": true,
+          "ModID": 29944,
+          "Name": "DX Black Widow Outfit - UNP",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -25468,6 +25173,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "cXozqMATwCs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=4529\nfileID=89785",
+        "Name": "Celes Nightingale High Heels-4529-2-01-1556287026.7z",
+        "Size": 133876657,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deserter X and Mitosuke",
+          "Description": "Celes Nightingale is a new, craftable light Daedric armor. Matching sword, dagger, bow and crossbow with the option of poisonous arrows and bolts. Now with High Heels support.",
+          "FileID": 89785,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4529/4529-1564960757-1331421472.png",
+          "IsNSFW": true,
+          "ModID": 4529,
+          "Name": "DX Celes Nightingale Outfit and Weapons - UNP",
+          "Version": "f2.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "4Sk7IcIkAGQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=45735\nfileID=231555",
         "Name": "Vigilant Armors and Weapons Retexture SE-45735-3-0-1632959826.rar",
@@ -25489,84 +25215,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6er9o2lky38=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=33041\nfileID=125785",
-        "Name": "Vanilla Table Replacers 4k 2k-33041-1-0-1582627947.zip",
-        "Size": 308732776,
+        "Hash": "S/H9iCc3JWc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=28950\nfileID=217115",
+        "Name": "Illustrious Whiterun 2K Update-28950-1-4-1627406483.7z",
+        "Size": 151049298,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SpotDisc",
-          "Description": "Replaces some tables of the game specially the main tables for nobles",
-          "FileID": 125785,
+          "Author": "winedave",
+          "Description": "My idea of what Whiterun should look like. Still A work in progress but getting there with every update. 8,4 \u0026amp; 2K versions.",
+          "FileID": 217115,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33041/33041-1582622018-1770536348.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28950/28950-1620245589-72992561.png",
           "IsNSFW": false,
-          "ModID": 33041,
-          "Name": "Vanilla Table Replacers",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "wRrp4XAJzoA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=72403\nfileID=303620",
-        "Name": "Pilgrim 4K-72403-1-0-1659278007.7z",
-        "Size": 929969176,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "",
-          "Description": "",
-          "FileID": 303620,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 72403,
-          "Name": "",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "9v4JiZN6wnw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=11849\nfileID=179292",
-        "Name": "VIGILANT - HiRes Pack 4K Landscape-11849-1-6-0-a-1610551128.7z",
-        "Size": 854225335,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Vicn",
-          "Description": "Vigilant of Stendarr Quest",
-          "FileID": 179292,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67103-6-1434853964.jpg",
-          "IsNSFW": true,
-          "ModID": 11849,
-          "Name": "VIGILANT SE",
-          "Version": "1.6.0.0.a"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "c0OFYO1jGt4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=71568\nfileID=302988",
-        "Name": "Viridian Armor - 4k Textures Addon-71568-2-0-1659057351.7z",
-        "Size": 338621722,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kreiste X wSkeever",
-          "Description": "Armors, weapons, and quest for male and female players.",
-          "FileID": 302988,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/71568/71568-1658656186-1870354735.png",
-          "IsNSFW": false,
-          "ModID": 71568,
-          "Name": "Viridian Knight Armor (hdt-SMP - CBBE - 3BA - BHUNP - HIMBO)",
-          "Version": "2.0.0.0"
+          "ModID": 28950,
+          "Name": "Illustrious Whiterun SE - 8K - Parallax",
+          "Version": "1.4.0.0"
         }
       }
     },
@@ -25611,10 +25274,178 @@
           "Version": "1.0.0.0"
         }
       }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6er9o2lky38=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=33041\nfileID=125785",
+        "Name": "Vanilla Table Replacers 4k 2k-33041-1-0-1582627947.zip",
+        "Size": 308732776,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SpotDisc",
+          "Description": "Replaces some tables of the game specially the main tables for nobles",
+          "FileID": 125785,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33041/33041-1582622018-1770536348.jpeg",
+          "IsNSFW": false,
+          "ModID": 33041,
+          "Name": "Vanilla Table Replacers",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rIMZKLPjZ84=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=39793\nfileID=265282",
+        "Name": "BHUNP Ver 3 Black Widow Outfit-39793-1-1-1645259306.7z",
+        "Size": 25285790,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Bakafactory",
+          "Description": "Deserter X\u0027s Daughter of DX Black Widow in BHUNP BodySlide version. Thank you for the wonderful work.",
+          "FileID": 265282,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/39793/39793-1598338651-562759501.jpeg",
+          "IsNSFW": true,
+          "ModID": 39793,
+          "Name": "DX Black Widow Outfit - BHUNP Bodyslide(3BBB)",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wRrp4XAJzoA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=72403\nfileID=303620",
+        "Name": "Pilgrim 4K-72403-1-0-1659278007.7z",
+        "Size": 929969176,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "",
+          "Description": "",
+          "FileID": 303620,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 72403,
+          "Name": "",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KbIboHBXOOE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62371\nfileID=260159",
+        "Name": "Knight of The Village BHUNP SSE Extended Textures 4K-62371-2022-c-1643392857.7z",
+        "Size": 230720236,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ysmir Egilvar - Skyforge",
+          "Description": "Not a fantasy armor, just the clothes of a knight from the village",
+          "FileID": 260159,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62371/62371-1643136703-1884985936.png",
+          "IsNSFW": false,
+          "ModID": 62371,
+          "Name": "Knight of The Village Set BHUNP SSE",
+          "Version": "2022.0.0.0.c"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "c0OFYO1jGt4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=71568\nfileID=302988",
+        "Name": "Viridian Armor - 4k Textures Addon-71568-2-0-1659057351.7z",
+        "Size": 338621722,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kreiste X wSkeever",
+          "Description": "Armors, weapons, and quest for male and female players.",
+          "FileID": 302988,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/71568/71568-1658656186-1870354735.png",
+          "IsNSFW": false,
+          "ModID": 71568,
+          "Name": "Viridian Knight Armor (hdt-SMP - CBBE - 3BA - BHUNP - HIMBO)",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zniCvvjD1D8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42975\nfileID=172664",
+        "Name": "LOTDCT_BC7-42975-1-1606887427.7z",
+        "Size": 1788481040,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kartoffel",
+          "Description": "Mostly as a resource, these are the textures of LOTD cleaned of compression artifacts and some bad overwrites.",
+          "FileID": 172664,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42975/42975-1606884290-242268815.png",
+          "IsNSFW": false,
+          "ModID": 42975,
+          "Name": "Legacy of the Dragonborn Cleaned Textures",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9v4JiZN6wnw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=11849\nfileID=179292",
+        "Name": "VIGILANT - HiRes Pack 4K Landscape-11849-1-6-0-a-1610551128.7z",
+        "Size": 854225335,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Vicn",
+          "Description": "Vigilant of Stendarr Quest",
+          "FileID": 179292,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67103-6-1434853964.jpg",
+          "IsNSFW": true,
+          "ModID": 11849,
+          "Name": "VIGILANT SE",
+          "Version": "1.6.0.0.a"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0qpWF2bL56U=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42975\nfileID=173108",
+        "Name": "Blue Fabric Fix-42975-1-0-1-1607135750.7z",
+        "Size": 503373,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kartoffel",
+          "Description": "Mostly as a resource, these are the textures of LOTD cleaned of compression artifacts and some bad overwrites.",
+          "FileID": 173108,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42975/42975-1606884290-242268815.png",
+          "IsNSFW": false,
+          "ModID": 42975,
+          "Name": "Legacy of the Dragonborn Cleaned Textures",
+          "Version": "1.0.1.0"
+        }
+      }
     }
   ],
-  "Status": "Failed",
-  "Failures": 23,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Tsukiro/f0ec8b7c1d87634a_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Tsukiro/f0ec8b7c1d87634a_large.webp"
 }
