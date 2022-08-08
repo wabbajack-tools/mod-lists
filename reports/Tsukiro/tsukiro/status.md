@@ -936,9 +936,9 @@
 *  [Serenity of Sleep-57768-1-0-1635742940.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57768/?tab=files&file_id=238371)
 *  [Serio's Cycle Hotkeys-27184-1-02-1566958021.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27184/?tab=files&file_id=104568)
 *  [Sexlab - Cum Overlays v2.8 (20-Oct-2020).7z](https://www.loverslab.com/files/file/14676-sexlab-cum-overlays/)
-*  SexLab CumTextures Remake v1.2.7z
+*  [SexLab CumTextures Remake v1.2.7z](https://www.loverslab.com/files/file/2968-sexlab-cum-textures-remake-slavetats/)
 *  [SexLab EagerNPCSERev2.7z](https://www.loverslab.com/files/file/7309-sexlab-eager-npcs-se-slen/)
-*  Sexlab Semi-Realistic Sex Sounds.rar
+*  [Sexlab Semi-Realistic Sex Sounds.rar](https://www.loverslab.com/files/file/12805-sexlab-semi-realistic-sex-sounds/)
 *  [SexLab Solutions v3 - Revisited SE v1.1.5.7z](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/)
 *  [SexLab_Extra_Voices_1_5.rar](https://www.loverslab.com/files/file/14373-sexlab-extra-voices-nusbies-voices/)
 *  [SexLabFrameworkSE_v163.7z](https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framework-v164c-010722/)
