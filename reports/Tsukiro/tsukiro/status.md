@@ -1,10 +1,12 @@
 ## Validation Report - Tsukiro (Tsukiro/tsukiro)
 
 
-### Invalid (0)
+### Invalid (2)
+*  SexLab CumTextures Remake v1.2.7z
+*  Sexlab Semi-Realistic Sex Sounds.rar
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1242)
+### Valid (1240)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [(1) Sharkish Piercings - BHUNP - Base-57131-1-01-1634463636.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235337)
 *  [(1) Sunstarved Tanlines - UUNP-26795-2-0-1580192177.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121531)
@@ -936,9 +938,7 @@
 *  [Serenity of Sleep-57768-1-0-1635742940.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57768/?tab=files&file_id=238371)
 *  [Serio's Cycle Hotkeys-27184-1-02-1566958021.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27184/?tab=files&file_id=104568)
 *  [Sexlab - Cum Overlays v2.8 (20-Oct-2020).7z](https://www.loverslab.com/files/file/14676-sexlab-cum-overlays/)
-*  SexLab CumTextures Remake v1.2.7z
 *  [SexLab EagerNPCSERev2.7z](https://www.loverslab.com/files/file/7309-sexlab-eager-npcs-se-slen/)
-*  Sexlab Semi-Realistic Sex Sounds.rar
 *  [SexLab Solutions v3 - Revisited SE v1.1.5.7z](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/)
 *  [SexLab_Extra_Voices_1_5.rar](https://www.loverslab.com/files/file/14373-sexlab-extra-voices-nusbies-voices/)
 *  [SexLabFrameworkSE_v163.7z](https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framework-v164c-010722/)
