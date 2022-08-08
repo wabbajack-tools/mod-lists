@@ -101,15 +101,15 @@
     "name": "Total Skyrim Overhaul",
     "machineURL": "wj-featured/tso",
     "failed": 0,
-    "passed": 999,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/wj-featured/tso/status.json",
     "report": "reports/wj-featured/tso/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/a3c908ad4b985ce2_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/a3c908ad4b985ce2_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Dishonored Plus",
@@ -240,14 +240,14 @@
   {
     "name": "Fallout VR Essentials Overhaul",
     "machineURL": "wj-featured/fo4vre",
-    "failed": 1,
-    "passed": 259,
+    "failed": 0,
+    "passed": 260,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/wj-featured/fo4vre/status.json",
     "report": "reports/wj-featured/fo4vre/status.md",
     "modlist_missing": false,
-    "has_failures": true,
+    "has_failures": false,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/f97ae5d415a2e632_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/f97ae5d415a2e632_large.webp"
   },
@@ -310,14 +310,14 @@
   {
     "name": "Degenerate Dungeon",
     "machineURL": "wj-featured/degeneratedungeon",
-    "failed": 0,
-    "passed": 342,
+    "failed": 1,
+    "passed": 341,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/wj-featured/degeneratedungeon/status.json",
     "report": "reports/wj-featured/degeneratedungeon/status.md",
     "modlist_missing": false,
-    "has_failures": false,
+    "has_failures": true,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/1175f75b50753f6d_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/1175f75b50753f6d_large.webp"
   },
@@ -394,14 +394,14 @@
   {
     "name": "MOISE",
     "machineURL": "wj-featured/moise",
-    "failed": 0,
-    "passed": 210,
+    "failed": 1,
+    "passed": 209,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/wj-featured/moise/status.json",
     "report": "reports/wj-featured/moise/status.md",
     "modlist_missing": false,
-    "has_failures": false,
+    "has_failures": true,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/8ef76d84aeb4f036_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/8ef76d84aeb4f036_large.webp"
   },
@@ -964,5 +964,19 @@
     "has_failures": false,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NEFARAM/3e31fe7a0f8e7c91_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NEFARAM/3e31fe7a0f8e7c91_large.webp"
+  },
+  {
+    "name": "Tsukiro",
+    "machineURL": "Tsukiro/tsukiro",
+    "failed": 23,
+    "passed": 1219,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/Tsukiro/tsukiro/status.json",
+    "report": "reports/Tsukiro/tsukiro/status.md",
+    "modlist_missing": false,
+    "has_failures": true,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Tsukiro/f0ec8b7c1d87634a_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Tsukiro/f0ec8b7c1d87634a_large.webp"
   }
 ]
