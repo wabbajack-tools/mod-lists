@@ -1,4 +1,4 @@
-## Validation Report - Yggdrasil VR (wj-featured/narsil)
+## Validation Report - Yggdrasil VR (wj-featured/yggdrasil_vr)
 
 
 ### Invalid (0)
