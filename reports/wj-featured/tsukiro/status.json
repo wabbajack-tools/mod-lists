@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/tsukiro",
   "Name": "Tsukiro",
-  "Version": "1.0",
-  "ModListHash": "Bv0OR3BIhAs=",
+  "Version": "1.1",
+  "ModListHash": "lcn9xqYBojs=",
   "Archives": [
     {
       "Status": "Valid",
@@ -198,19 +198,6 @@
           "ModID": 17230,
           "Name": "SSE Engine Fixes (skse64 plugin)",
           "Version": "2020.3.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "jf4EKFdasvE=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Reshade 4.7.7z_bcd91b41-5969-466b-a79b-23f610e1aeb4",
-        "Name": "Reshade 4.7.7z",
-        "Size": 986195,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Reshade%204.7.7z_bcd91b41-5969-466b-a79b-23f610e1aeb4"
         }
       }
     },
@@ -20553,12 +20540,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "Q0I81ipsiGU=",
-        "Meta": "[General]\ndirectURL=https://www.mediafire.com/file/024uztrtwv0sr2c/Lovely_Latex_-_4K_textures.7z/file",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Lovely Latex - 4K textures.7z_ec8bcb47-11e5-488d-8867-63c5e3a6aabb",
         "Name": "Lovely Latex - 4K textures.7z",
         "Size": 45711043,
         "State": {
-          "$type": "MediaFireDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://www.mediafire.com/file/024uztrtwv0sr2c/Lovely_Latex_-_4K_textures.7z/file"
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/Lovely%20Latex%20-%204K%20textures.7z_ec8bcb47-11e5-488d-8867-63c5e3a6aabb"
         }
       }
     },
@@ -24737,168 +24724,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "nuEp7R2WPjQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=29451\nfileID=109516",
-        "Name": "Crimson Blood Armor-29451-1-0-1570426302.7z",
-        "Size": 284221498,
+        "Hash": "zniCvvjD1D8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42975\nfileID=172664",
+        "Name": "LOTDCT_BC7-42975-1-1606887427.7z",
+        "Size": 1788481040,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deserter X - dianka33",
-          "Description": "Follow Valerica\u0027s clues to discover a unique material and the design of a powerful new vampire armor!",
-          "FileID": 109516,
+          "Author": "kartoffel",
+          "Description": "Mostly as a resource, these are the textures of LOTD cleaned of compression artifacts and some bad overwrites.",
+          "FileID": 172664,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29451/29451-1570191510-1967630195.png",
-          "IsNSFW": true,
-          "ModID": 29451,
-          "Name": "DX Crimson Blood Armor - UNP",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cXozqMATwCs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=4529\nfileID=89785",
-        "Name": "Celes Nightingale High Heels-4529-2-01-1556287026.7z",
-        "Size": 133876657,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deserter X and Mitosuke",
-          "Description": "Celes Nightingale is a new, craftable light Daedric armor. Matching sword, dagger, bow and crossbow with the option of poisonous arrows and bolts. Now with High Heels support.",
-          "FileID": 89785,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4529/4529-1564960757-1331421472.png",
-          "IsNSFW": true,
-          "ModID": 4529,
-          "Name": "DX Celes Nightingale Outfit and Weapons - UNP",
-          "Version": "f2.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "jgCe3ahXrsM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=4306\nfileID=89731",
-        "Name": "Sotteta Necromancer-4306-2-01-1556251194.7z",
-        "Size": 70452169,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deserter X and Mitosuke",
-          "Description": "Sotteta Necromancer contains a new craftable light armor or clothing, found in the Leather or Misc categories respectively. The outfit features the Necromancer\u0027s Grip enchant which is optional. Now with Race Menu High Heels support.",
-          "FileID": 89731,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4306/4306-1564796119-1094014540.png",
-          "IsNSFW": true,
-          "ModID": 4306,
-          "Name": "DX Sotteta Necromancer Outfit - UNP",
-          "Version": "f2.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "GBQp0Kml/ho=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=29944\nfileID=111900",
-        "Name": "Black Widow Outfit UNP-29944-1-0-1572452485.7z",
-        "Size": 66254019,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deserter X - dianka33",
-          "Description": "A new Falmer light armor that rejuvenates.",
-          "FileID": 111900,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29944/29944-1572248555-626825766.png",
-          "IsNSFW": true,
-          "ModID": 29944,
-          "Name": "DX Black Widow Outfit - UNP",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "WHsipAfjZSM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=33034\nfileID=126795",
-        "Name": "Witcher Armor UNP SE-33034-1-0-1583130420.7z",
-        "Size": 142827764,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deserter X - dianka33",
-          "Description": "A new craftable light ebony armor accompanied by a unique crossbow, bolts and cosmetic Witcher themed swords.",
-          "FileID": 126795,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33034/33034-1582606110-1902790691.png",
-          "IsNSFW": true,
-          "ModID": 33034,
-          "Name": "DX Witcher Armor - UNP",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "KbIboHBXOOE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=62371\nfileID=260159",
-        "Name": "Knight of The Village BHUNP SSE Extended Textures 4K-62371-2022-c-1643392857.7z",
-        "Size": 230720236,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ysmir Egilvar - Skyforge",
-          "Description": "Not a fantasy armor, just the clothes of a knight from the village",
-          "FileID": 260159,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62371/62371-1643136703-1884985936.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42975/42975-1606884290-242268815.png",
           "IsNSFW": false,
-          "ModID": 62371,
-          "Name": "Knight of The Village Set BHUNP SSE",
-          "Version": "2022.0.0.0.c"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6pSjmG4F+48=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=26653\nfileID=96511",
-        "Name": "Stella Mithril Armor UNP-26653-1-1-1560889952.7z",
-        "Size": 83719325,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deserter X - dianka33",
-          "Description": "A new light dwarven armor.",
-          "FileID": 96511,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26653/26653-1568497393-488435324.png",
-          "IsNSFW": true,
-          "ModID": 26653,
-          "Name": "DX Stella Mithril Armor - UNP",
-          "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "sLsgRya/d/M=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=27015\nfileID=97918",
-        "Name": "Spartan Bard Outfit UNP-27015-1-1-1562052711.7z",
-        "Size": 72694444,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deserter X - dianka33",
-          "Description": "A new social outfit with emphasis on trading and speechcraft.",
-          "FileID": 97918,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27015/27015-1568498751-268198358.png",
-          "IsNSFW": true,
-          "ModID": 27015,
-          "Name": "DX Spartan Bard Outfit - UNP",
-          "Version": "1.1.0.0"
+          "ModID": 42975,
+          "Name": "Legacy of the Dragonborn Cleaned Textures",
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -24926,42 +24766,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "JDtOuLz1+tc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=4853\nfileID=89720",
-        "Name": "Emfy Cleric-4853-2-01-1556249833.7z",
-        "Size": 115239159,
+        "Hash": "sLsgRya/d/M=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=27015\nfileID=97918",
+        "Name": "Spartan Bard Outfit UNP-27015-1-1-1562052711.7z",
+        "Size": 72694444,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deserter X and Mitosuke",
-          "Description": "A new craftable Elven heavy Armor with matching Mace and Shield. Light Armor and Cloth options. Bonus unique armored horse for you to own. Now with Race Menu High Heels support.",
-          "FileID": 89720,
+          "Author": "Deserter X - dianka33",
+          "Description": "A new social outfit with emphasis on trading and speechcraft.",
+          "FileID": 97918,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4853/4853-1564726598-245562040.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27015/27015-1568498751-268198358.png",
           "IsNSFW": true,
-          "ModID": 4853,
-          "Name": "DX Emfy Cleric Outfit - UNP",
-          "Version": "f2.01"
+          "ModID": 27015,
+          "Name": "DX Spartan Bard Outfit - UNP",
+          "Version": "1.1.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "CvVAxTHjSiI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=25370\nfileID=89880",
-        "Name": "Sotteta Huntress-25370-1-0-1556351828.7z",
-        "Size": 197075251,
+        "Hash": "+9qZKLaOCrU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=4783\nfileID=89718",
+        "Name": "Cassandra Frost Witch-4783-2-01-1556249432.7z",
+        "Size": 164800604,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Deserter X",
-          "Description": "A new craftable armor with many variations. Four different type of dresses, many types of socks, stocking, trousers, etc. It comes with a new bow \u0022The Eclipse\u0022 and also new type of arrows and quiver to match the armor. Now with Racemenu High Heels support.",
-          "FileID": 89880,
+          "Description": "A new craftable light Elven outfit and a crystal staff. Has three hat sizes to fit most hair and optional skirt and underwear. Now with Race Menu High Heels support.",
+          "FileID": 89718,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/25370/25370-1565059918-1333202193.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4783/4783-1564797072-2017789163.jpeg",
           "IsNSFW": true,
-          "ModID": 25370,
-          "Name": "DX Sotteta Huntress Outfit - UNP",
-          "Version": "1.0.0.0"
+          "ModID": 4783,
+          "Name": "DX Cassandra Frost Witch Outfit - UNP",
+          "Version": "3.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6pSjmG4F+48=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=26653\nfileID=96511",
+        "Name": "Stella Mithril Armor UNP-26653-1-1-1560889952.7z",
+        "Size": 83719325,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deserter X - dianka33",
+          "Description": "A new light dwarven armor.",
+          "FileID": 96511,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26653/26653-1568497393-488435324.png",
+          "IsNSFW": true,
+          "ModID": 26653,
+          "Name": "DX Stella Mithril Armor - UNP",
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -24989,6 +24850,69 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "CvVAxTHjSiI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=25370\nfileID=89880",
+        "Name": "Sotteta Huntress-25370-1-0-1556351828.7z",
+        "Size": 197075251,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deserter X",
+          "Description": "A new craftable armor with many variations. Four different type of dresses, many types of socks, stocking, trousers, etc. It comes with a new bow \u0022The Eclipse\u0022 and also new type of arrows and quiver to match the armor. Now with Racemenu High Heels support.",
+          "FileID": 89880,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/25370/25370-1565059918-1333202193.png",
+          "IsNSFW": true,
+          "ModID": 25370,
+          "Name": "DX Sotteta Huntress Outfit - UNP",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nuEp7R2WPjQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=29451\nfileID=109516",
+        "Name": "Crimson Blood Armor-29451-1-0-1570426302.7z",
+        "Size": 284221498,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deserter X - dianka33",
+          "Description": "Follow Valerica\u0027s clues to discover a unique material and the design of a powerful new vampire armor!",
+          "FileID": 109516,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29451/29451-1570191510-1967630195.png",
+          "IsNSFW": true,
+          "ModID": 29451,
+          "Name": "DX Crimson Blood Armor - UNP",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GBQp0Kml/ho=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=29944\nfileID=111900",
+        "Name": "Black Widow Outfit UNP-29944-1-0-1572452485.7z",
+        "Size": 66254019,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deserter X - dianka33",
+          "Description": "A new Falmer light armor that rejuvenates.",
+          "FileID": 111900,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29944/29944-1572248555-626825766.png",
+          "IsNSFW": true,
+          "ModID": 29944,
+          "Name": "DX Black Widow Outfit - UNP",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "QukpHLSU0sU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=13578\nfileID=237317",
         "Name": "MRP 2.6 Small Update-13578-2-6-2-1635330251.7z",
@@ -25010,21 +24934,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "rIMZKLPjZ84=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=39793\nfileID=265282",
-        "Name": "BHUNP Ver 3 Black Widow Outfit-39793-1-1-1645259306.7z",
-        "Size": 25285790,
+        "Hash": "vJgfgA7p6gc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=4372\nfileID=89724",
+        "Name": "Daedric Reaper-4372-2-01-1556250578.7z",
+        "Size": 220992030,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Bakafactory",
-          "Description": "Deserter X\u0027s Daughter of DX Black Widow in BHUNP BodySlide version. Thank you for the wonderful work.",
-          "FileID": 265282,
+          "Author": "Deserter X and Mitosuke",
+          "Description": "A new craftable upgrade to the Daedric heavy armor and sword. Includes both male and female versions. The new armor is lightweight with improved stats. The sword is faster and lighter to wield. Role playing crafting system with progression.",
+          "FileID": 89724,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/39793/39793-1598338651-562759501.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4372-13-1479275143.jpg",
           "IsNSFW": true,
-          "ModID": 39793,
-          "Name": "DX Black Widow Outfit - BHUNP Bodyslide(3BBB)",
-          "Version": "1.1.0.0"
+          "ModID": 4372,
+          "Name": "DX Daedric Reaper Armor - UNP and MALE",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WHsipAfjZSM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=33034\nfileID=126795",
+        "Name": "Witcher Armor UNP SE-33034-1-0-1583130420.7z",
+        "Size": 142827764,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deserter X - dianka33",
+          "Description": "A new craftable light ebony armor accompanied by a unique crossbow, bolts and cosmetic Witcher themed swords.",
+          "FileID": 126795,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33034/33034-1582606110-1902790691.png",
+          "IsNSFW": true,
+          "ModID": 33034,
+          "Name": "DX Witcher Armor - UNP",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -25073,20 +25018,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+9qZKLaOCrU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=4783\nfileID=89718",
-        "Name": "Cassandra Frost Witch-4783-2-01-1556249432.7z",
-        "Size": 164800604,
+        "Hash": "hEo7ftgbmWs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=4703\nfileID=154783",
+        "Name": "RUSTIC CLOTHING - Special Edition - 4K-2K-4703-3-0-1597024563.7z",
+        "Size": 1722008081,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deserter X",
-          "Description": "A new craftable light Elven outfit and a crystal staff. Has three hat sizes to fit most hair and optional skirt and underwear. Now with Race Menu High Heels support.",
-          "FileID": 89718,
+          "Author": "Gamwich",
+          "Description": "High resolution RUSTIC CLOTHING texture overhaul for Skyrim Special Edition. Now with BC7 compression. Available in several resolution options.",
+          "FileID": 154783,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4783/4783-1564797072-2017789163.jpeg",
-          "IsNSFW": true,
-          "ModID": 4783,
-          "Name": "DX Cassandra Frost Witch Outfit - UNP",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4703-0-1486937976.jpg",
+          "IsNSFW": false,
+          "ModID": 4703,
+          "Name": "RUSTIC CLOTHING - Special Edition",
           "Version": "3.0.0.0"
         }
       }
@@ -25094,21 +25039,126 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ayn3lK8gdRU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=4292\nfileID=89726",
-        "Name": "Tembtra Thief-4292-2-01-1556250882.7z",
-        "Size": 127892275,
+        "Hash": "kreIdyD5o8E=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=28553\nfileID=105433",
+        "Name": "Celes Tarot Outfit Cloth UNP-28553-1-01-1567494978.7z",
+        "Size": 123361780,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deserter X - dianka33",
+          "Description": "A new light or cloth Daedric outfit. Suitable for sorceresses and witches.",
+          "FileID": 105433,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28553/28553-1566845843-1432500726.png",
+          "IsNSFW": true,
+          "ModID": 28553,
+          "Name": "DX Celes Tarot Outfit (Witch of the Black Rose) - UNP",
+          "Version": "f1.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jgCe3ahXrsM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=4306\nfileID=89731",
+        "Name": "Sotteta Necromancer-4306-2-01-1556251194.7z",
+        "Size": 70452169,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Deserter X and Mitosuke",
-          "Description": "A new craftable scaled light armor found under the steel category and upgradeable at the workbench. Offering a wide array of customization from skimpy to badass through the armor upgrade system. Now with Race Menu High Heels support.",
-          "FileID": 89726,
+          "Description": "Sotteta Necromancer contains a new craftable light armor or clothing, found in the Leather or Misc categories respectively. The outfit features the Necromancer\u0027s Grip enchant which is optional. Now with Race Menu High Heels support.",
+          "FileID": 89731,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4292/4292-1564725578-841710361.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4306/4306-1564796119-1094014540.png",
           "IsNSFW": true,
-          "ModID": 4292,
-          "Name": "DX Tembtra Thief Outfit - UNP",
-          "Version": "0.0.0.0"
+          "ModID": 4306,
+          "Name": "DX Sotteta Necromancer Outfit - UNP",
+          "Version": "f2.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cXozqMATwCs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=4529\nfileID=89785",
+        "Name": "Celes Nightingale High Heels-4529-2-01-1556287026.7z",
+        "Size": 133876657,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deserter X and Mitosuke",
+          "Description": "Celes Nightingale is a new, craftable light Daedric armor. Matching sword, dagger, bow and crossbow with the option of poisonous arrows and bolts. Now with High Heels support.",
+          "FileID": 89785,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4529/4529-1564960757-1331421472.png",
+          "IsNSFW": true,
+          "ModID": 4529,
+          "Name": "DX Celes Nightingale Outfit and Weapons - UNP",
+          "Version": "f2.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rIMZKLPjZ84=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=39793\nfileID=265282",
+        "Name": "BHUNP Ver 3 Black Widow Outfit-39793-1-1-1645259306.7z",
+        "Size": 25285790,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Bakafactory",
+          "Description": "Deserter X\u0027s Daughter of DX Black Widow in BHUNP BodySlide version. Thank you for the wonderful work.",
+          "FileID": 265282,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/39793/39793-1598338651-562759501.jpeg",
+          "IsNSFW": true,
+          "ModID": 39793,
+          "Name": "DX Black Widow Outfit - BHUNP Bodyslide(3BBB)",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JDtOuLz1+tc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=4853\nfileID=89720",
+        "Name": "Emfy Cleric-4853-2-01-1556249833.7z",
+        "Size": 115239159,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deserter X and Mitosuke",
+          "Description": "A new craftable Elven heavy Armor with matching Mace and Shield. Light Armor and Cloth options. Bonus unique armored horse for you to own. Now with Race Menu High Heels support.",
+          "FileID": 89720,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4853/4853-1564726598-245562040.png",
+          "IsNSFW": true,
+          "ModID": 4853,
+          "Name": "DX Emfy Cleric Outfit - UNP",
+          "Version": "f2.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0qpWF2bL56U=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42975\nfileID=173108",
+        "Name": "Blue Fabric Fix-42975-1-0-1-1607135750.7z",
+        "Size": 503373,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kartoffel",
+          "Description": "Mostly as a resource, these are the textures of LOTD cleaned of compression artifacts and some bad overwrites.",
+          "FileID": 173108,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42975/42975-1606884290-242268815.png",
+          "IsNSFW": false,
+          "ModID": 42975,
+          "Name": "Legacy of the Dragonborn Cleaned Textures",
+          "Version": "1.0.1.0"
         }
       }
     },
@@ -25136,21 +25186,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "vJgfgA7p6gc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=4372\nfileID=89724",
-        "Name": "Daedric Reaper-4372-2-01-1556250578.7z",
-        "Size": 220992030,
+        "Hash": "4Sk7IcIkAGQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=45735\nfileID=231555",
+        "Name": "Vigilant Armors and Weapons Retexture SE-45735-3-0-1632959826.rar",
+        "Size": 810012614,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deserter X and Mitosuke",
-          "Description": "A new craftable upgrade to the Daedric heavy armor and sword. Includes both male and female versions. The new armor is lightweight with improved stats. The sword is faster and lighter to wield. Role playing crafting system with progression.",
-          "FileID": 89724,
+          "Author": "Xavbio",
+          "Description": "This mod retextures most armors and weapons from the popular mod \u0022Vigilant\u0022 by Vicn. Uses Vigilant\u0027s Hi-res pack textures as a base and some upscaled textures. I tried to stay true to the original designs as much as possible.",
+          "FileID": 231555,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4372-13-1479275143.jpg",
-          "IsNSFW": true,
-          "ModID": 4372,
-          "Name": "DX Daedric Reaper Armor - UNP and MALE",
-          "Version": "0.0.0.0"
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45735/45735-1632959307-2009519046.png",
+          "IsNSFW": false,
+          "ModID": 45735,
+          "Name": "Vigilant Armors and Weapons Retexture SE",
+          "Version": "3.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "S/H9iCc3JWc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=28950\nfileID=217115",
+        "Name": "Illustrious Whiterun 2K Update-28950-1-4-1627406483.7z",
+        "Size": 151049298,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "winedave",
+          "Description": "My idea of what Whiterun should look like. Still A work in progress but getting there with every update. 8,4 \u0026amp; 2K versions.",
+          "FileID": 217115,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28950/28950-1620245589-72992561.png",
+          "IsNSFW": false,
+          "ModID": 28950,
+          "Name": "Illustrious Whiterun SE - 8K - Parallax",
+          "Version": "1.4.0.0"
         }
       }
     },
@@ -25199,69 +25270,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hEo7ftgbmWs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=4703\nfileID=154783",
-        "Name": "RUSTIC CLOTHING - Special Edition - 4K-2K-4703-3-0-1597024563.7z",
-        "Size": 1722008081,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Gamwich",
-          "Description": "High resolution RUSTIC CLOTHING texture overhaul for Skyrim Special Edition. Now with BC7 compression. Available in several resolution options.",
-          "FileID": 154783,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4703-0-1486937976.jpg",
-          "IsNSFW": false,
-          "ModID": 4703,
-          "Name": "RUSTIC CLOTHING - Special Edition",
-          "Version": "3.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4Sk7IcIkAGQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=45735\nfileID=231555",
-        "Name": "Vigilant Armors and Weapons Retexture SE-45735-3-0-1632959826.rar",
-        "Size": 810012614,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xavbio",
-          "Description": "This mod retextures most armors and weapons from the popular mod \u0022Vigilant\u0022 by Vicn. Uses Vigilant\u0027s Hi-res pack textures as a base and some upscaled textures. I tried to stay true to the original designs as much as possible.",
-          "FileID": 231555,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/45735/45735-1632959307-2009519046.png",
-          "IsNSFW": false,
-          "ModID": 45735,
-          "Name": "Vigilant Armors and Weapons Retexture SE",
-          "Version": "3.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kreIdyD5o8E=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=28553\nfileID=105433",
-        "Name": "Celes Tarot Outfit Cloth UNP-28553-1-01-1567494978.7z",
-        "Size": 123361780,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deserter X - dianka33",
-          "Description": "A new light or cloth Daedric outfit. Suitable for sorceresses and witches.",
-          "FileID": 105433,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28553/28553-1566845843-1432500726.png",
-          "IsNSFW": true,
-          "ModID": 28553,
-          "Name": "DX Celes Tarot Outfit (Witch of the Black Rose) - UNP",
-          "Version": "f1.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "ubO6Itxhk4U=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=22487\nfileID=79615",
         "Name": "(Q) Community Overlays 1 - Bugfix Patch-22487-1-0-2-1548457861.7z",
@@ -25283,63 +25291,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zniCvvjD1D8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42975\nfileID=172664",
-        "Name": "LOTDCT_BC7-42975-1-1606887427.7z",
-        "Size": 1788481040,
+        "Hash": "KbIboHBXOOE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62371\nfileID=260159",
+        "Name": "Knight of The Village BHUNP SSE Extended Textures 4K-62371-2022-c-1643392857.7z",
+        "Size": 230720236,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kartoffel",
-          "Description": "Mostly as a resource, these are the textures of LOTD cleaned of compression artifacts and some bad overwrites.",
-          "FileID": 172664,
+          "Author": "Ysmir Egilvar - Skyforge",
+          "Description": "Not a fantasy armor, just the clothes of a knight from the village",
+          "FileID": 260159,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42975/42975-1606884290-242268815.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62371/62371-1643136703-1884985936.png",
           "IsNSFW": false,
-          "ModID": 42975,
-          "Name": "Legacy of the Dragonborn Cleaned Textures",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "9v4JiZN6wnw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=11849\nfileID=179292",
-        "Name": "VIGILANT - HiRes Pack 4K Landscape-11849-1-6-0-a-1610551128.7z",
-        "Size": 854225335,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Vicn",
-          "Description": "Vigilant of Stendarr Quest",
-          "FileID": 179292,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67103-6-1434853964.jpg",
-          "IsNSFW": true,
-          "ModID": 11849,
-          "Name": "VIGILANT SE",
-          "Version": "1.6.0.0.a"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "S/H9iCc3JWc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=28950\nfileID=217115",
-        "Name": "Illustrious Whiterun 2K Update-28950-1-4-1627406483.7z",
-        "Size": 151049298,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "winedave",
-          "Description": "My idea of what Whiterun should look like. Still A work in progress but getting there with every update. 8,4 \u0026amp; 2K versions.",
-          "FileID": 217115,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28950/28950-1620245589-72992561.png",
-          "IsNSFW": false,
-          "ModID": 28950,
-          "Name": "Illustrious Whiterun SE - 8K - Parallax",
-          "Version": "1.4.0.0"
+          "ModID": 62371,
+          "Name": "Knight of The Village Set BHUNP SSE",
+          "Version": "2022.0.0.0.c"
         }
       }
     },
@@ -25367,21 +25333,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0qpWF2bL56U=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42975\nfileID=173108",
-        "Name": "Blue Fabric Fix-42975-1-0-1-1607135750.7z",
-        "Size": 503373,
+        "Hash": "9v4JiZN6wnw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=11849\nfileID=179292",
+        "Name": "VIGILANT - HiRes Pack 4K Landscape-11849-1-6-0-a-1610551128.7z",
+        "Size": 854225335,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kartoffel",
-          "Description": "Mostly as a resource, these are the textures of LOTD cleaned of compression artifacts and some bad overwrites.",
-          "FileID": 173108,
+          "Author": "Vicn",
+          "Description": "Vigilant of Stendarr Quest",
+          "FileID": 179292,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42975/42975-1606884290-242268815.png",
-          "IsNSFW": false,
-          "ModID": 42975,
-          "Name": "Legacy of the Dragonborn Cleaned Textures",
-          "Version": "1.0.1.0"
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67103-6-1434853964.jpg",
+          "IsNSFW": true,
+          "ModID": 11849,
+          "Name": "VIGILANT SE",
+          "Version": "1.6.0.0.a"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ayn3lK8gdRU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=4292\nfileID=89726",
+        "Name": "Tembtra Thief-4292-2-01-1556250882.7z",
+        "Size": 127892275,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deserter X and Mitosuke",
+          "Description": "A new craftable scaled light armor found under the steel category and upgradeable at the workbench. Offering a wide array of customization from skimpy to badass through the armor upgrade system. Now with Race Menu High Heels support.",
+          "FileID": 89726,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4292/4292-1564725578-841710361.png",
+          "IsNSFW": true,
+          "ModID": 4292,
+          "Name": "DX Tembtra Thief Outfit - UNP",
+          "Version": "0.0.0.0"
         }
       }
     },
