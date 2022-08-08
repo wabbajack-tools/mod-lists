@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1242)
+### Valid (1240)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [(1) Sharkish Piercings - BHUNP - Base-57131-1-01-1634463636.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235337)
 *  [(1) Sunstarved Tanlines - UUNP-26795-2-0-1580192177.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121531)
@@ -264,7 +264,6 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
-*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -698,7 +697,7 @@
 *  [LotD art replacer - all-44473-1-2-1613503697.zip](https://www.nexusmods.com/skyrimspecialedition/mods/44473/?tab=files&file_id=186299)
 *  [LOTD updated Safehouse-43158-4-2-1651546737.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=281243)
 *  [LOTDCT_BC7-42975-1-1606887427.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42975/?tab=files&file_id=172664)
-*  [Lovely Latex - 4K textures.7z](https://www.mediafire.com/file/024uztrtwv0sr2c/Lovely_Latex_-_4K_textures.7z/file)
+*  [Lovely Latex - 4K textures.7z](https://authored-files.wabbajack.org/Lovely Latex - 4K textures.7z_ec8bcb47-11e5-488d-8867-63c5e3a6aabb)
 *  [Lovely Latex [SE] - BHUNP.7z](https://www.mediafire.com/file/xflbhd6y9hyhzjm/Lovely_Latex_%255BSE%255D_-_BHUNP.7z/file)
 *  Low.ini
 *  [Lucien-20035-1-6-3-1636656096.rar](https://www.nexusmods.com/skyrimspecialedition/mods/20035/?tab=files&file_id=240595)
@@ -884,7 +883,6 @@
 *  [Remove Small Rocks v1.1-8733-1-1-1594863373.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8733/?tab=files&file_id=150621)
 *  [RensHDShrines_2_4-13572-2-4-1539464278.7z](https://www.nexusmods.com/skyrimspecialedition/mods/13572/?tab=files&file_id=69161)
 *  [Renthal's Waterwheel Remastered-55927-1-2-1641855399.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55927/?tab=files&file_id=255763)
-*  [Reshade 4.7.7z](https://authored-files.wabbajack.org/Reshade 4.7.7z_bcd91b41-5969-466b-a79b-23f610e1aeb4)
 *  [Revna - a High Poly Female Preset-41924-1-0-1604220438.zip](https://www.nexusmods.com/skyrimspecialedition/mods/41924/?tab=files&file_id=168116)
 *  [Reyda's Necklace by Ave-42328-1-0-1605297821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42328/?tab=files&file_id=169944)
 *  [Rift Watchtower NavFix-52641-1-0-1-1627149174.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52641/?tab=files&file_id=216463)
