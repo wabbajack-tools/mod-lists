@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1056)
+### Valid (1057)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [(Part 1) SSE Engine Fixes for 1.6.xxx-17230-6-0-2-1637784396.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
 *  [01 My Road Signs are Beautiful - English Version-46564-1-5EN-1656853597.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46564/?tab=files&file_id=295840)
@@ -576,6 +576,7 @@
 *  [Masculine Grey Cat and Leopard (Vanilla) 2K-186-2-1-1658102262.7z](https://www.nexusmods.com/skyrimspecialedition/mods/186/?tab=files&file_id=299861)
 *  [Masks of the Dovah Sonaak - High-23251-1-0-1549591571.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23251/?tab=files&file_id=81045)
 *  [MCM Helper SE-53000-1-3-2-1637570704.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53000/?tab=files&file_id=243418)
+*  [Mechanicalpanda's Brighter Templates-43158-1-0-1-1633253966.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=232292)
 *  Medium.ini
 *  [MERGED ALL 4 BSA VERSION-15092-SE1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15092/?tab=files&file_id=46133)
 *  [Merlin the Corgi-56433-1-1-0-1639031079.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56433/?tab=files&file_id=247674)
@@ -615,6 +616,7 @@
 *  [Navmesh .esp by CakeofHonor-8306-1-1591953127.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8306/?tab=files&file_id=145263)
 *  [NB NPCs - CFTO Patch AIO-48507-1-1-1644087685.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48507/?tab=files&file_id=261986)
 *  [NB NPCs - USSEP Fixes AIO-48507-1-1-1644084372.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48507/?tab=files&file_id=261971)
+*  [Nemesis Creature Behaivour Compatiblity-45966-1-31-1660055725.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45966/?tab=files&file_id=306056)
 *  [Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar](https://www.nexusmods.com/skyrimspecialedition/mods/60033/?tab=files&file_id=248867)
 *  [Nether's Follower Framework - Settings Loader-57022-1-0-1634145115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57022/?tab=files&file_id=234609)
 *  [Nether's Follower Framework - Universal Installer (LE or SSE)-55653-2-7-9-1631753067.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55653/?tab=files&file_id=228648)
@@ -964,7 +966,6 @@
 *  [Type 2-29877-V8.rar](https://www.nexusmods.com/skyrim/mods/29877/?tab=files&file_id=1000002043)
 *  [UCL - The Cause Ayleid Lich Model Patch-40802-3-45-1641386219.rar](https://www.nexusmods.com/skyrimspecialedition/mods/40802/?tab=files&file_id=254115)
 *  [UIExtensions v1-2-0-17561-1-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17561/?tab=files&file_id=55628)
-*  [Ultimate Combat and Creature Behaviour's Nemesis Compatibility-45966-1-12-1613999850.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45966/?tab=files&file_id=187396)
 *  Ultra.ini
 *  [Undeath - XPMSSE - Strange Runes - Skeleton Patch-50694-1-1-1629206618.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50694/?tab=files&file_id=221834)
 *  [Undeath Classical Lichdom-40802-3-59-1659810779.rar](https://www.nexusmods.com/skyrimspecialedition/mods/40802/?tab=files&file_id=305140)
