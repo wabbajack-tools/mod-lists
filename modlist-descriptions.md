@@ -27,7 +27,6 @@
   - [The Phoenix Flavour - Dragon's Edition](#the-phoenix-flavour---dragons-edition)
   - [The Phoenix Flavour](#the-phoenix-flavour)
   - [Tempus Maledictum](#tempus-maledictum)
-  - [Tinvaak](#tinvaak)
   - [Tranquility](#tranquility)
   - [Wildlander](#wildlander)
   - [(NSFW)Licentia(NSFW)](#nsfwlicentiansfw)
@@ -347,21 +346,6 @@ Tempus Maledictum is a LotD-and-quest-focused modlist, complete with the old sch
 - [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614)  
 - [Wait Your Turn - Enemy Circling Behavior](https://www.nexusmods.com/skyrimspecialedition/mods/65091)  
 - [Dragon Aptitude - Dragon Souls Mod](https://www.nexusmods.com/skyrimspecialedition/mods/71134)  
-
-### [Tinvaak](https://github.com/Althro/Tinvaak2)
-
-Tinvaak is a list focused on making Skyrim: Special Edition (SSE) into an actual roleplaying game. Many new mechanics and changes are present to offer an alternate take on the game. You can view many of these changes in the [showcase video from DroppedIceCream](https://www.youtube.com/watch?v=4N0cOrv5Crc), the [official trailer](https://youtu.be/8bLSGfok47g) and the [Changes to Gameplay](https://github.com/Althro/Tinvaak2/blob/main/Changes%20to%20Gameplay.md) article.
-
-**_Mods to get familiar with:_**
-
-- [Know Your Enemy Redux](https://www.nexusmods.com/skyrimspecialedition/mods/55045/?tab=files&file_id=259030)
-- [Alternate Perspective - Prologue Retold](https://www.nexusmods.com/skyrimspecialedition/mods/50307/?tab=files&file_id=229454)
-- [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751/?tab=files&file_id=246121)
-- [Dino's Spell Discovery](https://www.nexusmods.com/skyrimspecialedition/mods/43929?tab=description)
-- [Skyrim Realistic Conquering](https://www.nexusmods.com/skyrimspecialedition/mods/26396)
-- [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
-- [Heim - Smithing Tweaks and Lightweight Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54207)
-- [SkySA - Combat Behaviour Compulsion](https://www.nexusmods.com/skyrimspecialedition/mods/31390)
 
 ***
 
