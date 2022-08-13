@@ -89,7 +89,7 @@
 *  [Armor Variants Expansion-34100-2-0-1589724219.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34100/?tab=files&file_id=140458)
 *  [Armor Variants Expansion-CBBE BodySlide_2.1-34100-2-1-1612912810.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34100/?tab=files&file_id=185027)
 *  [Around the Fire-36144-1-0-1589817599.rar](https://www.nexusmods.com/skyrimspecialedition/mods/36144/?tab=files&file_id=140654)
-*  [Artifacts_Revised 1.2.1 - Textures.7z](https://mega.nz/file/QWYBTaYY#6NTFsD3G_jtuHWGeTAQWcA1Rioch3D2KFhQobMD1Kpk)
+*  [Artifacts_Revised 1.2.1 - Textures.7z](https://mega.nz/file/VL5FDBoS#99jsLgDaCjUTk7wER48I2votSmKGiqdvt3jsp_uzMp0)
 *  [Artifacts_Revised.7z](https://www.patreon.com/file?h=65790091&i=10628173)
 *  [Astral Aspect - 2K - 2.0-18098-2-0-1626523910.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18098/?tab=files&file_id=215062)
 *  [AT - Immersive Weapons Patch-13782-3-1-1566061485.7z](https://www.nexusmods.com/skyrimspecialedition/mods/13782/?tab=files&file_id=103382)
