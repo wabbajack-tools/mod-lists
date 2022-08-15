@@ -1,10 +1,11 @@
 ## Validation Report - The Path (LostOutpost/thepath)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [enbseries_skyrimse_v0475.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_540deb04-1201-4d25-9be7-6cfb9ffbc682/)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (636)
+### Valid (635)
 *  [(1) Pine Branches Redone 8K-45294-3-0-1637522602.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45294/?tab=files&file_id=243288)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474_cee172be8b892e21849f407c48156302e7ca7bde7b849494fcf36ef979dc1e20_.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
@@ -248,7 +249,6 @@
 *  [ENB Loading Screen Fix-147-1-00-1622734150.rar](https://www.nexusmods.com/enderalspecialedition/mods/147/?tab=files&file_id=660)
 *  [ENB Organizer-67077-v2-1-1.zip](https://www.nexusmods.com/skyrim/mods/67077/?tab=files&file_id=1000214338)
 *  [ENB World Map Fix-335-1-00-1640193628.rar](https://www.nexusmods.com/enderalspecialedition/mods/335/?tab=files&file_id=1495)
-*  [enbseries_skyrimse_v0475.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_540deb04-1201-4d25-9be7-6cfb9ffbc682/)
 *  [Enchantments Upgraded V1_5-29316-1-5.rar](https://www.nexusmods.com/skyrim/mods/29316/?tab=files&file_id=1000002077)
 *  [Enderal - Arp-36-2-12-1617504227.7z](https://www.nexusmods.com/enderalspecialedition/mods/36/?tab=files&file_id=160)
 *  [Enderal - Donkey-107-2-4-1636075751.7z](https://www.nexusmods.com/enderalspecialedition/mods/107/?tab=files&file_id=1302)
