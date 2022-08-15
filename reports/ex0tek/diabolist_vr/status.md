@@ -279,7 +279,7 @@
 *  [Dual Wield Block VR 1.6.0-28456-1-6-0-1629096319.zip](https://www.nexusmods.com/skyrimspecialedition/mods/28456/?tab=files&file_id=221555)
 *  [DungeonMaps.zip-13313-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13313/?tab=files&file_id=37972)
 *  [Durzogs SE-37995-tjbf3g-1594021368.rar](https://www.nexusmods.com/skyrimspecialedition/mods/37995/?tab=files&file_id=149017)
-*  [DVR 3.5 Custom Files.zip](https://authored-files.wabbajack.org/DVR 3.5 Custom Files.zip_10799090-67ae-4af9-83ad-c69bcff54b92)
+*  [DVR 3.5 Custom Files.zip](https://authored-files.wabbajack.org/DVR 3.5 Custom Files.zip_4aa7dde3-e7c4-4660-b493-903ef038e7ef)
 *  [DVR 3.5 LOD Output.zip](https://authored-files.wabbajack.org/DVR 3.5 LOD Output.zip_287bc160-28ce-494a-8573-ae1ab41637d4)
 *  [Dwarven Shield - SE-AE - My version 2K-59369-1-1638386667.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59369/?tab=files&file_id=245866)
 *  [Dwemer Armor-63074-1-1-1657652013.rar](https://www.nexusmods.com/skyrimspecialedition/mods/63074/?tab=files&file_id=298442)
