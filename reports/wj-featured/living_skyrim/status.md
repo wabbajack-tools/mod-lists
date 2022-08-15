@@ -1,11 +1,10 @@
 ## Validation Report - Living Skyrim (wj-featured/living_skyrim)
 
 
-### Invalid (1)
-*  [Nethers_Follower_Framework_UNI_2_7_7.zip](https://www.patreon.com/file?h=53262094&i=8377963)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1164)
+### Valid (1165)
 *  [ BLOODSTONE CHALICE REBORN 2K -63551-.zip](https://www.nexusmods.com/skyrim/mods/63551/?tab=files&file_id=1000152102)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
@@ -658,6 +657,7 @@
 *  [Mystical and Continuum-15224-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/15224/?tab=files&file_id=45755)
 *  [Nemesis Patch-24296-1-3-2-1584996736.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24296/?tab=files&file_id=130181)
 *  [Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar](https://www.nexusmods.com/skyrimspecialedition/mods/60033/?tab=files&file_id=248867)
+*  [Nethers_Follower_Framework_UNI_2_7_7.zip](https://www.patreon.com/file?h=53262094&i=8377963)
 *  [NetScriptFramework SkyrimSE v17-21294-17-1631362586.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21294/?tab=files&file_id=227609)
 *  [New Treasure Hunt-19469-176-1611518742.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19469/?tab=files&file_id=181584)
 *  [New Vominheim - ESM version-31472-2-04-1-1641819132.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31472/?tab=files&file_id=255627)
