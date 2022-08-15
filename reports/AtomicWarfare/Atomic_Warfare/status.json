@@ -1,8 +1,8 @@
 {
   "MachineURL": "AtomicWarfare/Atomic_Warfare",
   "Name": "Atomic Warfare",
-  "Version": "1.2.1",
-  "ModListHash": "Zl81MKhhgl4=",
+  "Version": "1.3.0",
+  "ModListHash": "CjHt+0TIhlY=",
   "Archives": [
     {
       "Status": "Valid",
@@ -57,27 +57,6 @@
           "ModID": 58440,
           "Name": "Flashy(JoeR) - Advanced Needs 76",
           "Version": "1.8.5.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "beszB9q49J8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=58440\nfileID=230766",
-        "Name": "An76 - IAF Patch-58440-v1-0-0-1645858134.rar",
-        "Size": 1421,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "FlashyJoeR",
-          "Description": "The next iteration of Advanced Needs, coded from the top-down, to bring the best of AN2 and Fallout 76\u0027s many survival systems, with the same level of control over the systems as you are used to.",
-          "FileID": 230766,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/58440/58440-1645980357-1466572670.jpeg",
-          "IsNSFW": false,
-          "ModID": 58440,
-          "Name": "Flashy(JoeR) - Advanced Needs 76",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -231,6 +210,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "JvhZQ+QJ7oA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=61146\nfileID=246140",
+        "Name": "Better Power Armor - Redux-61146-1-2-2-1659984929.zip",
+        "Size": 157768,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zzyxzz",
+          "Description": "Your Power Armor will now fully absorb the damage of ballistic and laser weapon types.\n\nEach armor part will work individually and absorb the damage of the body part it covers.\n\nWhen one power armor part breaks, only this body part that was covered will take damage.\n\nKeep your power armor in a good state and it will protect you.",
+          "FileID": 246140,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/61146/61146-1654797149-2143244078.jpeg",
+          "IsNSFW": false,
+          "ModID": 61146,
+          "Name": "Better Power Armor - Redux",
+          "Version": "1.2.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "3ubG0HI1rsI=",
         "Meta": "[General]\ngameName=fallout4\nmodID=26286\nfileID=131132",
         "Name": "Boston FPS Fix - AIO-26286--32.7z",
@@ -288,6 +288,27 @@
           "ModID": 30673,
           "Name": "Boston Natural Surroundings",
           "Version": "2.4.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wXgxYsnOWcA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=11734\nfileID=238612",
+        "Name": "Campsite - Simple-11734-1-0-4-1653544913.rar",
+        "Size": 82300428,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "fadingsignal",
+          "Description": "Campsite is a simple, lightweight camping mod that adds craftable / carryable tents, sleeping bags (new HD textures!), dog beds, fires, lanterns, and cooking pot, each with their own unique dynamics, sounds, interactivity.  Simple enough for light play, detailed enough to make you feel involved. VR-friendly.",
+          "FileID": 238612,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/11734-0-1460009964.jpg",
+          "IsNSFW": false,
+          "ModID": 11734,
+          "Name": "Campsite - Simple Wasteland Camping (and HD Sleeping Bags)",
+          "Version": "1.0.4.0"
         }
       }
     },
@@ -819,6 +840,102 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "iH91kpboDws=",
+        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\DLCCoast.esm",
+        "Name": "Data_DLCCoast.esm",
+        "Size": 74565260,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCCoast.esm",
+          "GameVersion": "1.10.163.0",
+          "Hash": "iH91kpboDws="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vSJ86DGuiNU=",
+        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\DLCNukaWorld.esm",
+        "Name": "Data_DLCNukaWorld.esm",
+        "Size": 64313805,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCNukaWorld.esm",
+          "GameVersion": "1.10.163.0",
+          "Hash": "vSJ86DGuiNU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "teoU9OialzM=",
+        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\DLCRobot.esm",
+        "Name": "Data_DLCRobot.esm",
+        "Size": 8012051,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCRobot.esm",
+          "GameVersion": "1.10.163.0",
+          "Hash": "teoU9OialzM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JacRtCQOixw=",
+        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\DLCworkshop01.esm",
+        "Name": "Data_DLCworkshop01.esm",
+        "Size": 633592,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCworkshop01.esm",
+          "GameVersion": "1.10.163.0",
+          "Hash": "JacRtCQOixw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "olnGlKr39e0=",
+        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\DLCworkshop02.esm",
+        "Name": "Data_DLCworkshop02.esm",
+        "Size": 677786,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCworkshop02.esm",
+          "GameVersion": "1.10.163.0",
+          "Hash": "olnGlKr39e0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tSG9pGxASuw=",
+        "Meta": "[General]\ngameName=Fallout 4\ngameFile=Data\\DLCworkshop03.esm",
+        "Name": "Data_DLCworkshop03.esm",
+        "Size": 2971385,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCworkshop03.esm",
+          "GameVersion": "1.10.163.0",
+          "Hash": "tSG9pGxASuw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "uMW1yTnELpI=",
         "Meta": "[General]\ngameName=fallout4\nmodID=62738\nfileID=245476",
         "Name": "Climbable Ladders 1.1 ESL - Workshop Framework-62738-1-1-1659547059.zip",
@@ -834,6 +951,27 @@
           "ModID": 62738,
           "Name": "Climbable Ladders for Settlements",
           "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PiB/7XfugVo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56602\nfileID=245202",
+        "Name": "Condition Boy and Girl-56602-2-4-1-1659285043.7z",
+        "Size": 248966,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Bingle",
+          "Description": "A script-free UI widget that shows your current body condition.",
+          "FileID": 245202,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56602/56602-1640388476-1028516096.png",
+          "IsNSFW": false,
+          "ModID": 56602,
+          "Name": "Condition Boy - Now with Condition Girl",
+          "Version": "2.4.1.0"
         }
       }
     },
@@ -896,6 +1034,69 @@
           "IsNSFW": false,
           "ModID": 58353,
           "Name": "Cut SFX Restored",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8Q8nNfcoj+E=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=33812\nfileID=242134",
+        "Name": "Damn Apocalypse Core Resources-33812-1-0-1656714127.zip",
+        "Size": 59498980,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "payl0ad - BabyBearington",
+          "Description": "A modular survival overhaul, including a very in-depth loot and economy overhaul, a module for power armor scarcity and a lightweight combat plugin.",
+          "FileID": 242134,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33812/33812-1533371531-1497414665.png",
+          "IsNSFW": false,
+          "ModID": 33812,
+          "Name": "Damn Apocalypse",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7+yW6K9Z8tk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=33812\nfileID=242136",
+        "Name": "Damn Apocalypse Loot Module-33812-1-0-1656714209.zip",
+        "Size": 3757793,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "payl0ad - BabyBearington",
+          "Description": "A modular survival overhaul, including a very in-depth loot and economy overhaul, a module for power armor scarcity and a lightweight combat plugin.",
+          "FileID": 242136,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33812/33812-1533371531-1497414665.png",
+          "IsNSFW": false,
+          "ModID": 33812,
+          "Name": "Damn Apocalypse",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MqMJRGFymTs=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=33812\nfileID=242137",
+        "Name": "Damn Apocalypse Power Armor Module-33812-1-0-1656714233.zip",
+        "Size": 332033,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "payl0ad - BabyBearington",
+          "Description": "A modular survival overhaul, including a very in-depth loot and economy overhaul, a module for power armor scarcity and a lightweight combat plugin.",
+          "FileID": 242137,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33812/33812-1533371531-1497414665.png",
+          "IsNSFW": false,
+          "ModID": 33812,
+          "Name": "Damn Apocalypse",
           "Version": "1.0.0.0"
         }
       }
@@ -1218,6 +1419,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "JP1Z6S20DSg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=11664\nfileID=63892",
+        "Name": "FO4 Hotkeys - Option 1 - Full - v1.2-11664-1-2.zip",
+        "Size": 11579,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "registrator2000",
+          "Description": "Hotkey anything to any key.\n\n\n\nNot enough favorites slots for all your equipment? No problem!\n\n\n\nHotkey equipment, items, even console commands.\n\n\n\nLower weapons on demand, split grenade and melee keys, toggle HUD and more!",
+          "FileID": 63892,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/11664-1-1459896910.jpg",
+          "IsNSFW": false,
+          "ModID": 11664,
+          "Name": "FO4 Hotkeys",
+          "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "F4OiU8zWWCo=",
         "Meta": "[General]\ngameName=fallout4\nmodID=49997\nfileID=201941",
         "Name": "Photo Mode 1.0.3-49997-1-0-3-1613821040.zip",
@@ -1435,6 +1657,27 @@
           "ModID": 20309,
           "Name": "HUDFramework",
           "Version": "1.0.0.0f"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6EoA36lajYM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=48853\nfileID=240072",
+        "Name": "Hunter of the Commonwealth-48853-1-7-1-1654791226.zip",
+        "Size": 136963,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zzyxzz",
+          "Description": "Adds a new mechanic to gather meat, bones, skin and other materials from animals in a new immersive way.",
+          "FileID": 240072,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48853/48853-1607527309-2066657863.png",
+          "IsNSFW": false,
+          "ModID": 48853,
+          "Name": "Hunter of the Commonwealth",
+          "Version": "1.7.1.0"
         }
       }
     },
@@ -1924,27 +2167,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PZJ2BDMTlXM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=62110\nfileID=244758",
-        "Name": "Looted World-62110-1-1-5-1658998737.7z",
-        "Size": 5751197,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dank Rafft",
-          "Description": "Removes most static/placed junk items, consumables, armor, weapons and ammo from the game world and improves performance as a result. Also covers Leveled Item lists to some extent.",
-          "FileID": 244758,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/62110/62110-1657554162-1179082565.jpeg",
-          "IsNSFW": false,
-          "ModID": 62110,
-          "Name": "Looted World",
-          "Version": "1.1.5.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "5EMZujmVM3M=",
         "Meta": "[General]\ngameName=fallout4\nmodID=62347\nfileID=245107",
         "Name": "Lore Friendly 5.56 Collection 1.2-62347-1-2-1659223668.7z",
@@ -2086,6 +2308,69 @@
           "ModID": 53660,
           "Name": "Machineguns Rebirth",
           "Version": "1.1.0.0c"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xfWAEDx8W60=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=58964\nfileID=239368",
+        "Name": "MAIM 2.2 Installer-58964-2-2-1654197549.zip",
+        "Size": 38640583,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "eclix",
+          "Description": "A hardcore combat and medical overhaul which adds lethal headshots, wounds, bleeding, pain and 12 new medical items. Script free and highly compatible.",
+          "FileID": 239368,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/58964/58964-1647731428-1423869780.jpeg",
+          "IsNSFW": false,
+          "ModID": 58964,
+          "Name": "MAIM - Wounds Bleeding Pain Meds and Headshots",
+          "Version": "2.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "P2afKbkzq0E=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=58964\nfileID=242354",
+        "Name": "Damn Apocalypse - Loot Module Patch-58964-1-0-1656866805.zip",
+        "Size": 1279,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "eclix",
+          "Description": "A hardcore combat and medical overhaul which adds lethal headshots, wounds, bleeding, pain and 12 new medical items. Script free and highly compatible.",
+          "FileID": 242354,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/58964/58964-1647731428-1423869780.jpeg",
+          "IsNSFW": false,
+          "ModID": 58964,
+          "Name": "MAIM - Wounds Bleeding Pain Meds and Headshots",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jntNB7UcIlM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=58964\nfileID=239600",
+        "Name": "MAIM - Lite 0.1-58964-0-1-1654362843.zip",
+        "Size": 4984,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "eclix",
+          "Description": "A hardcore combat and medical overhaul which adds lethal headshots, wounds, bleeding, pain and 12 new medical items. Script free and highly compatible.",
+          "FileID": 239600,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/58964/58964-1647731428-1423869780.jpeg",
+          "IsNSFW": false,
+          "ModID": 58964,
+          "Name": "MAIM - Wounds Bleeding Pain Meds and Headshots",
+          "Version": "0.1.0.0"
         }
       }
     },
@@ -2317,69 +2602,6 @@
           "ModID": 48442,
           "Name": "Mojave Mantises",
           "Version": "1.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "bcDyFILiicM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=60532\nfileID=238123",
-        "Name": "Backwater Beasts Main File-60532-1-0-1653003243.zip",
-        "Size": 630766,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Delicon20",
-          "Description": "Mutant Menagerie comes to Point Lookout! This small expansion adds Mutant Menagerie support to the popular mod by the Capital Wasteland Project team, and builds on it to bring it into the Mutant Menagerie fold!",
-          "FileID": 238123,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60532/60532-1652834215-339621982.jpeg",
-          "IsNSFW": false,
-          "ModID": 60532,
-          "Name": "Mutant Menagerie - Backwater Beasts",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "L5NBHIb5AdM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53550\nfileID=238142",
-        "Name": "Mutant Menagerie Main File-53550-1-31-1653029669.zip",
-        "Size": 1223512109,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Delicon20",
-          "Description": "Mutant Menagerie fills the Commonwealth to the brim with all new creatures gathered from a wealth of public access sources. These new, lore-friendly creatures come with unique drops and hand-placed spawns. This mod also adds in dozens of dynamic spawns for new, vanilla, and DLC creatures alike!",
-          "FileID": 238142,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53550/53550-1627644483-159826260.jpeg",
-          "IsNSFW": false,
-          "ModID": 53550,
-          "Name": "Mutant Menagerie - Big Game Hunting",
-          "Version": "1.31.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3jXlJAm2boc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=55477\nfileID=238143",
-        "Name": "Horrors of the Deep Fog Main File-55477-1-1-1653029673.zip",
-        "Size": 1177104270,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Delicon20",
-          "Description": "New creatures come to Far Harbor in the first official expansion for Mutant Menagerie: Big Game Hunting! In Horrors of the Deep Fog, you\u0027ll run into familiar and new faces alike as you explore The Island. Fallout 4\u0027s most popular expansion has never been more diverse - or unnerving.",
-          "FileID": 238143,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/55477/55477-1635900260-1481237697.jpeg",
-          "IsNSFW": false,
-          "ModID": 55477,
-          "Name": "Mutant Menagerie - Horrors of the Deep Fog",
-          "Version": "1.1.0.0"
         }
       }
     },
@@ -2827,6 +3049,153 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "VOi+Y3OUfG0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=60917\nfileID=244859",
+        "Name": "SCOURGE - Capital Wasteland Centaurs-60917-2-0-1659046801.7z",
+        "Size": 2080,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GELUXRUM",
+          "Description": "SCOURGE is a stat overhaul that removes scaling and standardises stats. It uses a real-world math model to create a Commonwealth in which no two creatures are the same through MCM-configurable randomisation.",
+          "FileID": 244859,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60917/60917-1654093398-940172068.jpeg",
+          "IsNSFW": false,
+          "ModID": 60917,
+          "Name": "SCOURGE - Unleveled and Standardised NPC Stats",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gcC9ARhrd24=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=60917\nfileID=244858",
+        "Name": "SCOURGE - Main Installer-60917-2-0-1-1659046759.7z",
+        "Size": 1573883,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GELUXRUM",
+          "Description": "SCOURGE is a stat overhaul that removes scaling and standardises stats. It uses a real-world math model to create a Commonwealth in which no two creatures are the same through MCM-configurable randomisation.",
+          "FileID": 244858,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60917/60917-1654093398-940172068.jpeg",
+          "IsNSFW": false,
+          "ModID": 60917,
+          "Name": "SCOURGE - Unleveled and Standardised NPC Stats",
+          "Version": "2.0.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FDix+BRmFsE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=60917\nfileID=244860",
+        "Name": "SCOURGE - Mojave Bighorners-60917-2-0-1659046862.7z",
+        "Size": 1867,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GELUXRUM",
+          "Description": "SCOURGE is a stat overhaul that removes scaling and standardises stats. It uses a real-world math model to create a Commonwealth in which no two creatures are the same through MCM-configurable randomisation.",
+          "FileID": 244860,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60917/60917-1654093398-940172068.jpeg",
+          "IsNSFW": false,
+          "ModID": 60917,
+          "Name": "SCOURGE - Unleveled and Standardised NPC Stats",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8/H7W2VqaqM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=60917\nfileID=244921",
+        "Name": "SCOURGE - Mojave Cazadores-60917-2-0-1659086219.7z",
+        "Size": 1872,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GELUXRUM",
+          "Description": "SCOURGE is a stat overhaul that removes scaling and standardises stats. It uses a real-world math model to create a Commonwealth in which no two creatures are the same through MCM-configurable randomisation.",
+          "FileID": 244921,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60917/60917-1654093398-940172068.jpeg",
+          "IsNSFW": false,
+          "ModID": 60917,
+          "Name": "SCOURGE - Unleveled and Standardised NPC Stats",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XKTY9LBxBw0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=60917\nfileID=244862",
+        "Name": "SCOURGE - Mojave Geckos-60917-2-0-1659046956.7z",
+        "Size": 2103,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GELUXRUM",
+          "Description": "SCOURGE is a stat overhaul that removes scaling and standardises stats. It uses a real-world math model to create a Commonwealth in which no two creatures are the same through MCM-configurable randomisation.",
+          "FileID": 244862,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60917/60917-1654093398-940172068.jpeg",
+          "IsNSFW": false,
+          "ModID": 60917,
+          "Name": "SCOURGE - Unleveled and Standardised NPC Stats",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zf8wtGQWnGU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=60917\nfileID=244863",
+        "Name": "SCOURGE - Mojave Mantises-60917-2-0-1659046988.7z",
+        "Size": 2045,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GELUXRUM",
+          "Description": "SCOURGE is a stat overhaul that removes scaling and standardises stats. It uses a real-world math model to create a Commonwealth in which no two creatures are the same through MCM-configurable randomisation.",
+          "FileID": 244863,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60917/60917-1654093398-940172068.jpeg",
+          "IsNSFW": false,
+          "ModID": 60917,
+          "Name": "SCOURGE - Unleveled and Standardised NPC Stats",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+FlhyIkn4Ek=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=60917\nfileID=244864",
+        "Name": "SCOURGE - Point Lookout-60917-2-0-1659047157.7z",
+        "Size": 9981,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GELUXRUM",
+          "Description": "SCOURGE is a stat overhaul that removes scaling and standardises stats. It uses a real-world math model to create a Commonwealth in which no two creatures are the same through MCM-configurable randomisation.",
+          "FileID": 244864,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60917/60917-1654093398-940172068.jpeg",
+          "IsNSFW": false,
+          "ModID": 60917,
+          "Name": "SCOURGE - Unleveled and Standardised NPC Stats",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "7z9u2LUcw+0=",
         "Meta": "[General]\ngameName=fallout4\nmodID=9476\nfileID=227761",
         "Name": "See Through Scopes 2.5.1-9476-2-5-1-1643145053.zip",
@@ -3163,6 +3532,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "nuohiA/seIQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=41832\nfileID=242781",
+        "Name": "Standalone Workbenches-41832-8-1657266090.7z",
+        "Size": 3123468,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Whisper",
+          "Description": "Adds 13 standalone custom workbenches to the Settlement build-menu. Designed as a modder\u0027s resource, used by my Craft Power Armor, Crafting Rearranged and Shipments Expanded mods.",
+          "FileID": 242781,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41832/41832-1572425650-43362004.jpeg",
+          "IsNSFW": false,
+          "ModID": 41832,
+          "Name": "Standalone Workbenches",
+          "Version": "8.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "7eFCXM7PgPk=",
         "Meta": "[General]\ngameName=fallout4\nmodID=56984\nfileID=246200",
         "Name": "Start Me Up Redux (Normal-XDI Dialogue)-56984-6-2-1660026528.7z",
@@ -3184,21 +3574,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VA2+ImsNE+U=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=62140\nfileID=246092",
-        "Name": "STEALTH AND DETECTION SYSTEM 5-62140-5-1659970544.zip",
-        "Size": 1321,
+        "Hash": "yHPpnEYsydg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=37599\nfileID=229854",
+        "Name": "Survival Configuration Menu-37599-0-9-1645093442.zip",
+        "Size": 110762,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Urania",
-          "Description": "It\u0027s finally possible to take out enemies one by one, even undetected, if done carefully.  No more magic \u0022almost seeing through walls\u0022 enemies,  and alerting everyone around \u0022telepathically\u0022  for no reason,",
-          "FileID": 246092,
+          "Author": "Zzyxzz",
+          "Description": "Features a brand new eat and drink system, which relies on weight of the item instead of the caps value and allows you to control it.\n\nIn addition to that, you can tweak many aspects of the survival added features. Like tweaking disease chance, disabling Adrenaline. Choose how long you can maximally sleep on the different bet types.\n\nAnd mo",
+          "FileID": 229854,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/62140/62140-1659649027-344433780.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/37599/37599-1551538674-568822138.png",
           "IsNSFW": false,
-          "ModID": 62140,
-          "Name": "STEALTH   AND   DETECTION   SYSTEM",
-          "Version": "5.0.0.0"
+          "ModID": 37599,
+          "Name": "Survival Configuration Menu",
+          "Version": "0.9.0.0"
         }
       }
     },
@@ -3478,48 +3868,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XxfQ99wCxlY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=51497\nfileID=206113",
-        "Name": "_Wasteland Medic-51497-1-1618675581.7z",
-        "Size": 611181,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Hedieded",
-          "Description": "Wasteland Medic makes stimpacks pretty rare and add new healing items to the game.",
-          "FileID": 206113,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51497/51497-1618675248-1618364448.png",
-          "IsNSFW": false,
-          "ModID": 51497,
-          "Name": "Wasteland Medic",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "YKZtztt1pHk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=52579\nfileID=226963",
-        "Name": "Wasteland Medic-IAF patch-52579-1-1-1642426859.zip",
-        "Size": 1029,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PJSAS",
-          "Description": "a patch for wasteland medic and immersive animations framework",
-          "FileID": 226963,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52579/52579-1623507541-1264115103.png",
-          "IsNSFW": false,
-          "ModID": 52579,
-          "Name": "Wasteland Medic-IAF patch",
-          "Version": "1.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "0upCAG2MlIg=",
         "Meta": "[General]\ngameName=fallout4\nmodID=26386\nfileID=110924",
         "Name": "Wattz Laser Gun-26386-1-3-1.zip",
@@ -3625,20 +3973,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yma1dX2E2wA=",
-        "Meta": "[General]\ndirectURL=https://github.com/deorder/mo2-plugins/releases/download/1.1/deorder_plugins-1.1.zip",
-        "Name": "deorder_plugins-1.1.zip",
-        "Size": 25785,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/deorder/mo2-plugins/releases/download/1.1/deorder_plugins-1.1.zip"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "a4Cik4pVQuE=",
         "Meta": "[General]\ndirectURL=https://github.com/JonathanFeenstra/modorganizer-loot-warning-checker/releases/download/v1.2.2-beta/LOOT-Warning-Checker-v1.2.2-beta.zip",
         "Name": "LOOT-Warning-Checker-v1.2.2-beta.zip",
@@ -3674,20 +4008,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kJFf/vuuhXo=",
-        "Meta": "[General]\ndirectURL=https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/profilesync/profilesync.1.0.2.zip",
-        "Name": "profilesync.1.0.2.zip",
-        "Size": 748060,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/profilesync/profilesync.1.0.2.zip"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "2rCl64jPhnc=",
         "Meta": "[General]\ndirectURL=https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.4.4.0.zip",
         "Name": "rootbuilder.4.4.0.zip",
@@ -3696,20 +4016,6 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.4.4.0.zip"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "OTIMILtALyY=",
-        "Meta": "[General]\ndirectURL=https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/shortcutter/shortcutter.1.1.0.zip",
-        "Name": "shortcutter.1.1.0.zip",
-        "Size": 664347,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/shortcutter/shortcutter.1.1.0.zip"
         }
       }
     },
@@ -4108,6 +4414,20 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "kJFf/vuuhXo=",
+        "Meta": "[General]\ndirectURL=https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/profilesync/profilesync.1.0.2.zip",
+        "Name": "profilesync.1.0.2.zip",
+        "Size": 748060,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/profilesync/profilesync.1.0.2.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "wvfNBePIyHY=",
         "Meta": "[General]\ngameName=fallout4\nmodID=47327\nfileID=191018",
         "Name": "Addres Library-47327-1-10-163-0-1599728753.zip",
@@ -4402,6 +4722,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "751xw2sS9xk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=48365\nfileID=239601",
+        "Name": "Spell Perk Item Distributor-48365-2-0-1654363126.7z",
+        "Size": 309204,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "A F4SE plugin that can be used to add spells/perks/items and more, to every NPC in the game, using config files.",
+          "FileID": 239601,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48365/48365-1605096722-1428299081.png",
+          "IsNSFW": false,
+          "ModID": 48365,
+          "Name": "Spell Perk Item Distributor",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "gLqjTuqfBvI=",
         "Meta": "[General]\ngameName=fallout4\nmodID=56789\nfileID=225767",
         "Name": "Uneducated Shooter Alpha-0.75-56789-Alpha-0-75-1641535015.7z",
@@ -4459,6 +4800,20 @@
           "ModID": 48078,
           "Name": "Weapon Debris Crash Fix",
           "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yma1dX2E2wA=",
+        "Meta": "[General]\ndirectURL=https://github.com/deorder/mo2-plugins/releases/download/1.1/deorder_plugins-1.1.zip",
+        "Name": "deorder_plugins-1.1.zip",
+        "Size": 25785,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/deorder/mo2-plugins/releases/download/1.1/deorder_plugins-1.1.zip"
         }
       }
     },
@@ -4711,6 +5066,27 @@
           "ModID": 59701,
           "Name": "LC\u0027s UHD Video Equipment",
           "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Ldg1ikaPb0Q=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=47093\nfileID=198763",
+        "Name": "MCM Hotkeys-47093-1-2-1610306989.7z",
+        "Size": 1107,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sensei Shisha",
+          "Description": "Adds MCM Hotkey support for several mods.",
+          "FileID": 198763,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47093/47093-1598629677-1831239789.png",
+          "IsNSFW": false,
+          "ModID": 47093,
+          "Name": "MCM Hotkeys",
+          "Version": "1.2.0.0"
         }
       }
     },
