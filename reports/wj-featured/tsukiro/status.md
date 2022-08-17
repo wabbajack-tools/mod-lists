@@ -1,10 +1,12 @@
 ## Validation Report - Tsukiro (wj-featured/tsukiro)
 
 
-### Invalid (0)
+### Invalid (2)
+*  [FlufyFox_SLAL_SE_Creature 1.3.rar](https://www.loverslab.com/files/file/19463-flufyfox-slal-pack-le-se-update-060622/)
+*  [FlufyFox_SLAL_SE_Human 1.3.rar](https://www.loverslab.com/files/file/19463-flufyfox-slal-pack-le-se-update-060622/)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1250)
+### Valid (1248)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [(1) Sharkish Piercings - BHUNP - Base-57131-1-01-1634463636.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235337)
 *  [(1) Sunstarved Tanlines - UUNP-26795-2-0-1580192177.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121531)
@@ -424,8 +426,6 @@
 *  [FleshFX-27456-1-1-1563474180.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27456/?tab=files&file_id=99709)
 *  [Flickering Sunlight Shadows Fix-53441-1-4-1628625258.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53441/?tab=files&file_id=220241)
 *  [Floating Ash Pile Fix-63434-0-2-1644944776.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63434/?tab=files&file_id=264466)
-*  [FlufyFox_SLAL_SE_Creature 1.3.rar](https://www.loverslab.com/files/file/19463-flufyfox-slal-pack-le-se-update-060622/)
-*  [FlufyFox_SLAL_SE_Human 1.3.rar](https://www.loverslab.com/files/file/19463-flufyfox-slal-pack-le-se-update-060622/)
 *  [Flute Animation Fix-69609-1-0-1655225434.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69609/?tab=files&file_id=291228)
 *  [FNIS Behavior SE 7_6 XXL-3038-7-6-1582110624.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3038/?tab=files&file_id=124730)
 *  [Footprints - ENB-3808-1-6-0-1613342638.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3808/?tab=files&file_id=186011)
