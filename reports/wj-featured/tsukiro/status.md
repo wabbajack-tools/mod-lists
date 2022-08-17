@@ -1,10 +1,10 @@
 ## Validation Report - Tsukiro (wj-featured/tsukiro)
 
 
-### Invalid (2)
+### Invalid (0)
+### Updated (2)
 *  [FlufyFox_SLAL_SE_Creature 1.3.rar](https://www.loverslab.com/files/file/19463-flufyfox-slal-pack-le-se-update-060622/)
 *  [FlufyFox_SLAL_SE_Human 1.3.rar](https://www.loverslab.com/files/file/19463-flufyfox-slal-pack-le-se-update-060622/)
-### Updated (0)
 ### Mirrored (0)
 ### Valid (1248)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
