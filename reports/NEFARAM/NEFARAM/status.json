@@ -1,8 +1,8 @@
 {
   "MachineURL": "NEFARAM/NEFARAM",
   "Name": "NEFARAM",
-  "Version": "0.2.1.1",
-  "ModListHash": "UOd1/xRkpTw=",
+  "Version": "0.2.2",
+  "ModListHash": "/umA26REHVg=",
   "Archives": [
     {
       "Status": "Valid",
@@ -15,27 +15,6 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "BaWENKyScoQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=23316\nfileID=281168",
-        "Name": "Cathedral Assets Optimizer-23316-5-3-13-1651522837.7z",
-        "Size": 9829413,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "G_k",
-          "Description": "An automation tool used to optimize BSAs, meshes, textures and animations. It helps quickly porting an Oldrim mod to Skyrim Special Edition, and can optimize assets for many Bethesda games.",
-          "FileID": 281168,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23316/23316-1567888135-1230823006.png",
-          "IsNSFW": false,
-          "ModID": 23316,
-          "Name": "Cathedral Assets Optimizer",
-          "Version": "5.3.13.0"
         }
       }
     },
@@ -57,6 +36,27 @@
           "ModID": 17230,
           "Name": "SSE Engine Fixes (skse64 plugin)",
           "Version": "5.8.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BaWENKyScoQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=23316\nfileID=281168",
+        "Name": "Cathedral Assets Optimizer-23316-5-3-13-1651522837.7z",
+        "Size": 9829413,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "G_k",
+          "Description": "An automation tool used to optimize BSAs, meshes, textures and animations. It helps quickly porting an Oldrim mod to Skyrim Special Edition, and can optimize assets for many Bethesda games.",
+          "FileID": 281168,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23316/23316-1567888135-1230823006.png",
+          "IsNSFW": false,
+          "ModID": 23316,
+          "Name": "Cathedral Assets Optimizer",
+          "Version": "5.3.13.0"
         }
       }
     },
@@ -7448,27 +7448,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "oBOrwhweRBc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=50502\nfileID=286084",
-        "Name": "Fenix Stamina Overhaul-50502-5-4-1653381034.zip",
-        "Size": 516187,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "fenix31415",
-          "Description": "(v1.0) Mod disallows NPC attacking until he has enough stamina.\n\n(v2.0) Mod also disallows Player attacking until he has enough stamina.\n\n(v3.0) Custom stamina consumption.",
-          "FileID": 286084,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50502/50502-1622188909-1273346498.png",
-          "IsNSFW": false,
-          "ModID": 50502,
-          "Name": "Everyone\u0027s Stamina Matters -- Stamina Overhaul (SKSE)",
-          "Version": "5.4.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "5hOYK8UBCZU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=13956\nfileID=255218",
         "Name": "FileAccess Interface for Skyrim SE Scripts - FISSES (Anniversary Edition) BETA-13956-1-4-0-beta-1641703893.rar",
@@ -7526,6 +7505,27 @@
           "ModID": 60915,
           "Name": "Fish Anywhere With Water",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Rw9LafI429s=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=27456\nfileID=99709",
+        "Name": "FleshFX-27456-1-1-1563474180.7z",
+        "Size": 621691,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deserter X",
+          "Description": "Replaces the infamous alteration flesh glow with proper animated effects.",
+          "FileID": 99709,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27456/27456-1563416762-1194457864.png",
+          "IsNSFW": false,
+          "ModID": 27456,
+          "Name": "FleshFX",
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -11143,6 +11143,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "+HnI3tp+69A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=29869\nfileID=185428",
+        "Name": "Non Exploitable Crossbow Reload-29869-1-3-SE-1613127206.zip",
+        "Size": 75826,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "aitch-zed",
+          "Description": "The year is 2019. It is a time of great innovation and proper crossbow reloading! \n\nDon\u0027t tell me you never asked for this...",
+          "FileID": 185428,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29869/29869-1613144086-2100938531.jpeg",
+          "IsNSFW": false,
+          "ModID": 29869,
+          "Name": "Non-Exploitable Crossbow Reloading SE",
+          "Version": "1.3.0.0.SE"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "6RiosNPTclA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=44455\nfileID=180294",
         "Name": "Nordic Wanderer Equipment Beast Races SSE-44455-1-01-1610996938.7z",
@@ -11417,12 +11438,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "lDLwM3DuJKo=",
-        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/16941-paradise-halls-diary-of-mine-wip/\nprompt=821493245_DiaryOfMine2_12.2_SEandLE_fomod.7z",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/16941-paradise-halls-diary-of-mine-wip/\nprompt=1160258757_DiaryOfMine2_12.2_SEandLE_fomod.7z",
         "Name": "1160258757_DiaryOfMine2_12.2_SEandLE_fomod.7z",
         "Size": 140957312,
         "State": {
           "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "821493245_DiaryOfMine2_12.2_SEandLE_fomod.7z",
+          "Prompt": "1160258757_DiaryOfMine2_12.2_SEandLE_fomod.7z",
           "Url": "https://www.loverslab.com/files/file/16941-paradise-halls-diary-of-mine-wip/"
         }
       }
@@ -11767,27 +11788,6 @@
           "ModID": 28630,
           "Name": "Plague of the Dead - BS Bruma Synergy Patch",
           "Version": "2.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3aEfUUedhtQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=72653\nfileID=304480",
-        "Name": "POISE-72653-1-0-0-1659598872.rar",
-        "Size": 1362952,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "",
-          "Description": "",
-          "FileID": 304480,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 72653,
-          "Name": "",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -18099,27 +18099,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "lVohZvzYJBM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=50502\nfileID=288726",
-        "Name": "Fenix Stamina Overhaul -- Mern\u0027s preset-50502-1-0-1654339187.zip",
-        "Size": 696,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "fenix31415",
-          "Description": "(v1.0) Mod disallows NPC attacking until he has enough stamina.\n\n(v2.0) Mod also disallows Player attacking until he has enough stamina.\n\n(v3.0) Custom stamina consumption.",
-          "FileID": 288726,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50502/50502-1622188909-1273346498.png",
-          "IsNSFW": false,
-          "ModID": 50502,
-          "Name": "Everyone\u0027s Stamina Matters -- Stamina Overhaul (SKSE)",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "uF8F4CrDc/s=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=13956\nfileID=114287",
         "Name": "FileAccess Interface for Skyrim SE Scripts - FISSES-13956-1-3-7-1574615841.zip",
@@ -18268,27 +18247,6 @@
           "ModID": 34148,
           "Name": "Glow Be Gone SKSE Updated",
           "Version": "1.4.0.0.se"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "BbcFv8qvjqA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=34148\nfileID=256050",
-        "Name": "GlowBeGoneUpdated AE-34148-1-4-1-ae-1641953975.zip",
-        "Size": 267369,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ryan - Dropkicker",
-          "Description": "Updated SKSE plugin for Glow Be Gone mod that removes ugly glowing effects from your character and weapons.",
-          "FileID": 256050,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34148/34148-1585661140-464959190.png",
-          "IsNSFW": false,
-          "ModID": 34148,
-          "Name": "Glow Be Gone SKSE Updated",
-          "Version": "0.0.0.0"
         }
       }
     },
@@ -19003,6 +18961,27 @@
           "ModID": 72245,
           "Name": "Northfire\u0027s Skidmarks 1K-2K",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qFzDGdnYW44=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=67925\nfileID=286665",
+        "Name": "Notification Filter-67925-1-2-0-1653582758.zip",
+        "Size": 183308,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "miere",
+          "Description": "SKSE plugin that allows hiding notifications based on customizable rules.",
+          "FileID": 286665,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67925/67925-1652387471-1488381870.jpeg",
+          "IsNSFW": false,
+          "ModID": 67925,
+          "Name": "Notification Filter - Remove unwanted notifications",
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -22019,6 +21998,27 @@
           "ModID": 62309,
           "Name": "Dwemer Tech Glowmapped With ENB Light",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2bMbdzCdJgk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44125\nfileID=240325",
+        "Name": "Elise-44125-5--0-1636549769.rar",
+        "Size": 2391232,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PB",
+          "Description": "Elise is a wood elf who loves hunting and exploring new areas, she\u0027s also a fun character who can be a joy to be around, although she has spent majority of her life outdoors she still seems to be very confident :)",
+          "FileID": 240325,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44125/44125-1636549248-1615690946.jpeg",
+          "IsNSFW": false,
+          "ModID": 44125,
+          "Name": "Elise - My High Poly Wood Elf Face Preset",
+          "Version": "5.0.0.0..0"
         }
       }
     },
