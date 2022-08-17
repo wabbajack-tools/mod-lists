@@ -2,7 +2,7 @@
   "MachineURL": "Elysium/elysium",
   "Name": "Elysium Remastered",
   "Version": "2.0.0",
-  "ModListHash": "XbNoQkQgcnk=",
+  "ModListHash": "UiUVyjtzINk=",
   "Archives": [
     {
       "Status": "Valid",
@@ -15498,21 +15498,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qUaE1M7H0i4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=72347\nfileID=307927",
-        "Name": "Precision-72347-1-1-0-1660633712.7z",
-        "Size": 679746,
+        "Hash": "XkfvlFpCa3s=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=72347\nfileID=308161",
+        "Name": "Precision-72347-1-1-1-1660709389.7z",
+        "Size": 682152,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ersh",
           "Description": "Physically accurate, true Havok collisions for melee. Procedural, physics-based hit reactions. Weapon trails. Hitstop and camera shake. Recoils when hitting certain materials. Supports both first person and third person, as well as other NPCs and creatures. Custom collisions for new movesets. Supports SE/AE. Includes an API for other SKSE plugins.",
-          "FileID": 307927,
+          "FileID": 308161,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/72347/72347-1659355235-925958425.png",
           "IsNSFW": false,
           "ModID": 72347,
           "Name": "Precision - Accurate Melee Collisions",
-          "Version": "1.1.0.0"
+          "Version": "1.1.1.0"
         }
       }
     },
@@ -33349,22 +33349,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0DYAzX1tsf8=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures1.bsa",
-        "Name": "Data_Skyrim - Textures1.bsa",
-        "Size": 1511504224,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures1.bsa",
-          "GameVersion": "1.6.353.0",
-          "Hash": "0DYAzX1tsf8="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "OVu4UJubJK4=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=62907\nfileID=261263",
         "Name": "Dusty Vampire Dust SE 1k Textures-62907-v1-0-1643814835.7z",
@@ -35370,6 +35354,22 @@
           "ModID": 23937,
           "Name": "HQ Solitude",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0DYAzX1tsf8=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures1.bsa",
+        "Name": "Data_Skyrim - Textures1.bsa",
+        "Size": 1511504224,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures1.bsa",
+          "GameVersion": "1.6.353.0",
+          "Hash": "0DYAzX1tsf8="
         }
       }
     },
