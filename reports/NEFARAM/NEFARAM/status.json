@@ -1,8 +1,8 @@
 {
   "MachineURL": "NEFARAM/NEFARAM",
   "Name": "NEFARAM",
-  "Version": "0.2.2",
-  "ModListHash": "/umA26REHVg=",
+  "Version": "0.2.3",
+  "ModListHash": "8hQH2BqCJuo=",
   "Archives": [
     {
       "Status": "Valid",
@@ -3465,6 +3465,27 @@
           "ModID": 66385,
           "Name": "Citizens of Tamriel - More Immersive Edit",
           "Version": "1.2.4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "aOrnMh9Nwf8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=72226\nfileID=305402",
+        "Name": "Citizens of Tamriel - Sexlab patch-72226-2-1659885107.rar",
+        "Size": 126017,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "shadowman2777",
+          "Description": "Sexlab scene with Florian for female PC",
+          "FileID": 305402,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/72226/72226-1658934077-1720400887.png",
+          "IsNSFW": true,
+          "ModID": 72226,
+          "Name": "Citizens of Tamriel - Sexlab patch",
+          "Version": "2.0.0.0"
         }
       }
     },
@@ -11878,21 +11899,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XkfvlFpCa3s=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=72347\nfileID=308161",
-        "Name": "Precision-72347-1-1-1-1660709389.7z",
-        "Size": 682152,
+        "Hash": "n/JbTSZ+P0Y=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=72347\nfileID=308232",
+        "Name": "Precision-72347-1-1-2-1660747092.7z",
+        "Size": 682036,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ersh",
           "Description": "Physically accurate, true Havok collisions for melee. Procedural, physics-based hit reactions. Weapon trails. Hitstop and camera shake. Recoils when hitting certain materials. Supports both first person and third person, as well as other NPCs and creatures. Custom collisions for new movesets. Supports SE/AE. Includes an API for other SKSE plugins.",
-          "FileID": 308161,
+          "FileID": 308232,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/72347/72347-1659355235-925958425.png",
           "IsNSFW": false,
           "ModID": 72347,
           "Name": "Precision - Accurate Melee Collisions",
-          "Version": "1.1.1.0"
+          "Version": "1.1.2.0"
         }
       }
     },
@@ -15829,6 +15850,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "i349bhAvByI=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Tools\\HavokBehaviorPostProcess\\readme.txt",
+        "Name": "Tools_HavokBehaviorPostProcess_readme.txt",
+        "Size": 488,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Tools\\HavokBehaviorPostProcess\\readme.txt",
+          "GameVersion": "1.6.353.0",
+          "Hash": "i349bhAvByI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "3z7MDvy3Dhw=",
         "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Video\\BGS_Logo.bik",
         "Name": "Data_Video_BGS_Logo.bik",
@@ -17673,27 +17710,6 @@
           "ModID": 63057,
           "Name": "Detection Meter",
           "Version": "0.16.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3pZBm8N9Pe4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=35767\nfileID=138923",
-        "Name": "Difficulty Balance v1.0.0 for SkyrimSE-35767-1-0-0-1589018989.7z",
-        "Size": 128806,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Felisky",
-          "Description": "This mod makes that the player and allies have the same difficulty damage factor. As a result, it will be corrected that the higher the difficulty, the less damage will be caused to the followers and the summoned actors. No ESP file.",
-          "FileID": 138923,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35767/35767-1589018695-1120274884.jpeg",
-          "IsNSFW": false,
-          "ModID": 35767,
-          "Name": "Difficulty Balance",
-          "Version": "1.0.0.0"
         }
       }
     },
