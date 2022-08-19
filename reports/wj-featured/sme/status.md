@@ -4,14 +4,14 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (192)
+### Valid (193)
 *  [(Part 1) SSE Engine Fixes for 1.6.xxx-17230-6-0-2-1637784396.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [Actor Limit Fix (Anniversary Edition)-32349-6-1648396498.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=273041)
 *  [All in one (Anniversary Edition)-32444-5-1641492622.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32444/?tab=files&file_id=254423)
 *  [Alternate - Only black eye fix-71524-1-02-1658051783.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71524/?tab=files&file_id=299687)
 *  [Animated Static Reload Fix - NG-69331-1-0-1654695803.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69331/?tab=files&file_id=289715)
-*  [Assorted mesh fixes-32117-0-68-1657716317.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=298591)
+*  [Assorted mesh fixes-32117-0-69-1660876204.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=308567)
 *  [Auto Input Switch-54309-1-1-3-1637600255.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54309/?tab=files&file_id=243501)
 *  [Automation Tools r6c-49373-1-5c.zip](https://www.nexusmods.com/skyrim/mods/49373/?tab=files&file_id=1000129948)
 *  [Autorun-45451-1-0-1612756843.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45451/?tab=files&file_id=184691)
@@ -96,6 +96,7 @@
 *  [Freed Prisoner Uses Items-22152-1-0-1545863442.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22152/?tab=files&file_id=76286)
 *  [Fuz Ro D'oh-15109-2-1-1641666901.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15109/?tab=files&file_id=255064)
 *  [Ghost Pile Fix-67841-1-0-1652201688.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67841/?tab=files&file_id=282707)
+*  [Hearthfires Houses Building Fix-27298-0-1-1562932629.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27298/?tab=files&file_id=99014)
 *  [High Gate Ruins Puzzle Reset Fix-53643-0-2-1628676419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53643/?tab=files&file_id=220379)
 *  High.ini
 *  [INI file-51073-1-5-0-1642682975.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=258051)
@@ -139,7 +140,6 @@
 *  p4com64.dll
 *  Papyrus Compiler_PapyrusCompiler.exe
 *  Papyrus Compiler_ScriptCompile.bat
-*  [Papyrus Extender-22854-5-1-1-1656011913.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=293479)
 *  [Papyrus Extender-22854-5-2-0-1659709324.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=304790)
 *  [PapyrusUtil AE - Scripting Utility Functions-13048-4-3-1641608820.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=254897)
 *  [Particle Patch for ENB-65720-1-0-9-1650988655.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65720/?tab=files&file_id=279764)
@@ -180,7 +180,7 @@
 *  [Stamina of Steeds-58742-1-0-1637372154.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58742/?tab=files&file_id=242776)
 *  steam_api64.dll
 *  [SUEMR v3.0 Simple Vampire Fixes SSE-18147-v3-0-1577160259.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18147/?tab=files&file_id=117238)
-*  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.23.4/Synthesis.zip)
+*  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.23.7/Synthesis.zip)
 *  Tools_Archive_Archive.exe
 *  Tools_Audio_xwmaencode.exe
 *  Tools_Elric_xg.dll
@@ -188,6 +188,7 @@
 *  Tools_HavokBehaviorPostProcess_HavokBehaviorPostProcess.exe
 *  Tools_HavokBehaviorPostProcess_readme.txt
 *  Tools_HavokBehaviorPostProcess_UpgradeHavokBehavior.bat
+*  [UIExtensions v1-2-0-17561-1-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17561/?tab=files&file_id=55628)
 *  Ultra.ini
 *  [Unofficial Skyrim Special Edition Patch-266-4-2-7-1655599279.7z](https://www.nexusmods.com/skyrimspecialedition/mods/266/?tab=files&file_id=292193)
 *  [WE05 Script Fix-49851-1-0-1-1620879756.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49851/?tab=files&file_id=203176)

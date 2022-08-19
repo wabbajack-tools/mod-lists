@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/sme",
   "Name": "Skyrim Modding Essentials",
-  "Version": "1.3",
-  "ModListHash": "IxIkZjJpPhY=",
+  "Version": "1.4",
+  "ModListHash": "Wc39DmoYeN0=",
   "Archives": [
     {
       "Status": "Valid",
@@ -1195,21 +1195,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qMfNRmBCnQ4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=3620\nfileID=35845",
-        "Name": "KeyboardShortcutsFix-3620-1-0-0-2.zip",
-        "Size": 112887,
+        "Hash": "/1a04kdI0ko=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=27298\nfileID=99014",
+        "Name": "Hearthfires Houses Building Fix-27298-0-1-1562932629.7z",
+        "Size": 182769,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "xSHADOWMANx or Sumwunn at github",
-          "Description": "Enables keyboards shortcuts in-game. Alt-F4, volume keys, it just works! \r\n\nRequires my dll loader.",
-          "FileID": 35845,
+          "Author": "Ice885",
+          "Description": "Restores proper models of some building parts and furniture in crafting menu.",
+          "FileID": 99014,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/3620-1-1507482126.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27298/27298-1562845593-527291120.png",
           "IsNSFW": false,
-          "ModID": 3620,
-          "Name": "Keyboard Shortcuts Fix",
-          "Version": "1.0.0.2"
+          "ModID": 27298,
+          "Name": "Hearthfires Houses Building Fix",
+          "Version": "0.1.0.0"
         }
       }
     },
@@ -1525,6 +1525,27 @@
           "ModID": 58742,
           "Name": "Stamina of Steeds",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WehYle6/1vw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=17561\nfileID=55628",
+        "Name": "UIExtensions v1-2-0-17561-1-2-0.7z",
+        "Size": 459887,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Expired",
+          "Description": "Adds various custom menus to Skyrim for modder use.",
+          "FileID": 55628,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17561/57046-1527360500-1073676609.jpeg",
+          "IsNSFW": false,
+          "ModID": 17561,
+          "Name": "UIExtensions",
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -1925,14 +1946,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "76XhSIVcUDE=",
-        "Meta": "[General]\ndirectURL=https://github.com/Mutagen-Modding/Synthesis/releases/download/0.23.4/Synthesis.zip",
+        "Hash": "z2aBTeSu0V8=",
+        "Meta": "[General]\ndirectURL=https://github.com/Mutagen-Modding/Synthesis/releases/download/0.23.7/Synthesis.zip",
         "Name": "Synthesis.zip",
-        "Size": 159724810,
+        "Size": 159731735,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/Mutagen-Modding/Synthesis/releases/download/0.23.4/Synthesis.zip"
+          "Url": "https://github.com/Mutagen-Modding/Synthesis/releases/download/0.23.7/Synthesis.zip"
         }
       }
     },
@@ -2491,27 +2512,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Dy4+s2e8ZVM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=22854\nfileID=293479",
-        "Name": "Papyrus Extender-22854-5-1-1-1656011913.7z",
-        "Size": 709865,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "powerofthree",
-          "Description": "SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.",
-          "FileID": 293479,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22854/95017-1548256254-1238854123.png",
-          "IsNSFW": false,
-          "ModID": 22854,
-          "Name": "powerofthree\u0027s Papyrus Extender",
-          "Version": "5.1.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "jZ1sbiHa+W0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=22854\nfileID=304790",
         "Name": "Papyrus Extender-22854-5-2-0-1659709324.7z",
@@ -2848,21 +2848,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SBo0OhYkApQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=298591",
-        "Name": "Assorted mesh fixes-32117-0-68-1657716317.7z",
-        "Size": 15114536,
+        "Hash": "CrJ4CgbXRlU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=308567",
+        "Name": "Assorted mesh fixes-32117-0-69-1660876204.7z",
+        "Size": 15177050,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wankingSkeever",
           "Description": "Fixes various issues with vanilla Skyrim meshes that causes them to render incorrectly",
-          "FileID": 298591,
+          "FileID": 308567,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32117/32117-1612599331-161051453.png",
           "IsNSFW": false,
           "ModID": 32117,
           "Name": "Assorted mesh fixes",
-          "Version": "0.68.0.0"
+          "Version": "0.69.0.0"
         }
       }
     },
@@ -3220,6 +3220,27 @@
           "ModID": 67841,
           "Name": "Ghost Pile Seam Fix (Skyrim Particle Patch)",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qMfNRmBCnQ4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=3620\nfileID=35845",
+        "Name": "KeyboardShortcutsFix-3620-1-0-0-2.zip",
+        "Size": 112887,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "xSHADOWMANx or Sumwunn at github",
+          "Description": "Enables keyboards shortcuts in-game. Alt-F4, volume keys, it just works! \r\n\nRequires my dll loader.",
+          "FileID": 35845,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/3620-1-1507482126.jpg",
+          "IsNSFW": false,
+          "ModID": 3620,
+          "Name": "Keyboard Shortcuts Fix",
+          "Version": "1.0.0.2"
         }
       }
     },
