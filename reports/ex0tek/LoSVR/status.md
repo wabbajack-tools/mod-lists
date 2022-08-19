@@ -1,10 +1,11 @@
 ## Validation Report - Legend of SkyrimVR (ex0tek/LoSVR)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [sksevr_2_00_12.7z](http://skse.silverlock.org/beta/sksevr_2_00_12.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (616)
+### Valid (615)
 *  [1) Skyrim Immersive Creatures v7.0.2 (includes 1K Textures)-12680-v7-0-2-1631188254.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12680/?tab=files&file_id=227169)
 *  [1k Textures-75377-1-1.rar](https://www.nexusmods.com/skyrim/mods/75377/?tab=files&file_id=1000205296)
 *  [3D Casting FX-50197-1-0-1621612410.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50197/?tab=files&file_id=204758)
@@ -506,7 +507,6 @@
 *  [Simple Offence Suppression VR-59508-2-1-0-1638614802.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59508/?tab=files&file_id=246533)
 *  [skeletal vampires sse-55035-1-1630692904.rar](https://www.nexusmods.com/skyrimspecialedition/mods/55035/?tab=files&file_id=225889)
 *  [SKSEVR Perk Extender-16330-2-0-1577426728.zip](https://www.nexusmods.com/skyrimspecialedition/mods/16330/?tab=files&file_id=117562)
-*  [sksevr_2_00_12.7z](http://skse.silverlock.org/beta/sksevr_2_00_12.7z)
 *  [Skyrim Bridges-21263-3-2-1542918167.rar](https://www.nexusmods.com/skyrimspecialedition/mods/21263/?tab=files&file_id=73069)
 *  [Skyrim Save System Overhaul-19399-1-02.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19399/?tab=files&file_id=63579)
 *  [Skyrim SE Uncapper Presets-16229-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/16229/?tab=files&file_id=49933)
