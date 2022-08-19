@@ -26,117 +26,125 @@
       "Size": 7678616,
       "State": {
         "$type": "NexusDownloader, Wabbajack.Lib",
-        "Author": null,
-        "Description": null,
+        "Author": "Ceo",
+        "Description": "OSex brings award winning and tasteful intimacy, romance and sex to Skyrim. It features thousands of scenes all seamlessly connected with movement where you control every action through beautifully illustrated interactive menus. Each animation is hand crafted with charm and detail by one of Skyrim\u0027s most legendary animators, Ceo.",
         "FileID": 253389,
         "GameName": "SkyrimSpecialEdition",
-        "ImageURL": null,
-        "IsNSFW": false,
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17209/17209-1639869766-302481759.gif",
+        "IsNSFW": true,
         "ModID": 17209,
-        "Name": null,
-        "Version": null
+        "Name": "OSex",
+        "Version": "0002"
       }
     },
     "PatchUrl": "https://patches.wabbajack.org/65b06c2209332730_3f92bc55a987e282"
   },
   {
-    "Status": "Mirrored",
+    "Status": "Updated",
     "Original": {
-      "Hash": "KKn2dgirVKM=",
-      "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=1L75e_NR6rCrCXK16icDmPOGNcRQSfZuR\u0026export=download",
-      "Name": "[COCO] Pinup Cheongsam [SE] - BHUNP.7z",
-      "Size": 303444464,
+      "Hash": "MNF6wJ3YhkI=",
+      "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/\nprompt=Download MoreNastyCrittersSE_v12_7D.7z",
+      "Name": "MoreNastyCrittersSE_v12_7D.7z",
+      "Size": 162304232,
+      "State": {
+        "$type": "ManualDownloader, Wabbajack.Lib",
+        "Prompt": "Download MoreNastyCrittersSE_v12_7D.7z",
+        "Url": "https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/"
+      }
+    },
+    "PatchedFrom": {
+      "Hash": "sltQS3M3JQM=",
+      "Meta": "",
+      "Name": "MoreNastyCrittersSE_v12_7F.7z",
+      "Size": 162223447,
+      "State": {
+        "$type": "ManualDownloader, Wabbajack.Lib",
+        "Prompt": "Download MoreNastyCrittersSE_v12_7F.7z",
+        "Url": "https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/"
+      }
+    },
+    "PatchUrl": "https://patches.wabbajack.org/30d17ac09dd88642_b25b504b73372503"
+  },
+  {
+    "Status": "Updated",
+    "Original": {
+      "Hash": "ZKUdB7fXuYc=",
+      "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/19463-flufyfox-slal-pack-le-se-update-060622/\nprompt=Download FlufyFox_SLAL_SE_Human 1.3.rar",
+      "Name": "FlufyFox_SLAL_SE_Human 1.3.rar",
+      "Size": 32693092,
+      "State": {
+        "$type": "ManualDownloader, Wabbajack.Lib",
+        "Prompt": "Download FlufyFox_SLAL_SE_Human 1.3.rar",
+        "Url": "https://www.loverslab.com/files/file/19463-flufyfox-slal-pack-le-se-update-060622/"
+      }
+    },
+    "PatchedFrom": {
+      "Hash": "myTtLfHVvrw=",
+      "Meta": "",
+      "Name": "FlufyFox_SLAL_SE_Human 1.4.rar",
+      "Size": 39572963,
+      "State": {
+        "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+        "Url": "https://authored-files.wabbajack.org/FlufyFox_SLAL_SE_Human%201.4.rar_165a6687-c13a-4b17-a2d5-faf48eae99e9"
+      }
+    },
+    "PatchUrl": "https://patches.wabbajack.org/64a51d07b7d7b987_9b24ed2df1d5bebc"
+  },
+  {
+    "Status": "Updated",
+    "Original": {
+      "Hash": "2MrbjqTtwtg=",
+      "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=12tL3_kpm_KXlQvQqEnK3zOAl-sm_H3Fw\u0026export=download",
+      "Name": "Skyrim_Particle_Patch_for_ENB-SSE.zip",
+      "Size": 38399950,
       "State": {
         "$type": "GoogleDriveDownloader, Wabbajack.Lib",
-        "Id": "1L75e_NR6rCrCXK16icDmPOGNcRQSfZuR"
+        "Id": "12tL3_kpm_KXlQvQqEnK3zOAl-sm_H3Fw"
       }
     },
     "PatchedFrom": {
-      "Hash": "KKn2dgirVKM=",
+      "Hash": "IWebISWfpDA=",
       "Meta": "",
-      "Name": "[COCO] Pinup Cheongsam [SE] - BHUNP.7z",
-      "Size": 303444464,
+      "Name": "Particle Patch for ENB-65720-1-0-1648653747.zip",
+      "Size": 38693606,
+      "State": {
+        "$type": "NexusDownloader, Wabbajack.Lib",
+        "Author": "mindflux",
+        "Description": "The classic particle patch, now on Nexus.",
+        "FileID": 273694,
+        "GameName": "SkyrimSpecialEdition",
+        "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65720/65720-1648653582-1509088395.jpeg",
+        "IsNSFW": false,
+        "ModID": 65720,
+        "Name": "Particle Patch for ENB",
+        "Version": "1.0.2"
+      }
+    },
+    "PatchUrl": "https://patches.wabbajack.org/d8cadb8ea4edc2d8_21679b21259fa430"
+  },
+  {
+    "Status": "Updated",
+    "Original": {
+      "Hash": "pAqQhy3w9/M=",
+      "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/19463-flufyfox-slal-pack-le-se-update-060622/\nprompt=Download FlufyFox_SLAL_SE_Creature 1.3.rar",
+      "Name": "FlufyFox_SLAL_SE_Creature 1.3.rar",
+      "Size": 8137435,
+      "State": {
+        "$type": "ManualDownloader, Wabbajack.Lib",
+        "Prompt": "Download FlufyFox_SLAL_SE_Creature 1.3.rar",
+        "Url": "https://www.loverslab.com/files/file/19463-flufyfox-slal-pack-le-se-update-060622/"
+      }
+    },
+    "PatchedFrom": {
+      "Hash": "rVrNVLXNVoM=",
+      "Meta": "",
+      "Name": "FlufyFox_SLAL_SE_Creature 1.5.rar",
+      "Size": 13285502,
       "State": {
         "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-        "Url": "https://mirror.wabbajack.org/28a9f67608ab54a3"
-      }
-    }
-  },
-  {
-    "Status": "Updated",
-    "Original": {
-      "Hash": "dIyvCEYcD8s=",
-      "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/8148-gsposes-slal/\nprompt=GS_SLAL SE 20 02.7z",
-      "Name": "GS_SLAL SE 20 02.7z",
-      "Size": 8218048,
-      "State": {
-        "$type": "ManualDownloader, Wabbajack.Lib",
-        "Prompt": "GS_SLAL SE 20 02.7z",
-        "Url": "https://www.loverslab.com/files/file/8148-gsposes-slal/"
+        "Url": "https://authored-files.wabbajack.org/FlufyFox_SLAL_SE_Creature%201.5.rar_9cc65675-847a-4986-98d8-07226870a7b3"
       }
     },
-    "PatchedFrom": {
-      "Hash": "uFWsrsLIRug=",
-      "Meta": "",
-      "Name": "GS_SLAL SE 06 06.7z",
-      "Size": 8457125,
-      "State": {
-        "$type": "ManualDownloader, Wabbajack.Lib",
-        "Prompt": "please download GS_SLAL SE 06 06.7z",
-        "Url": "https://www.loverslab.com/files/file/8148-gsposes-slal/"
-      }
-    },
-    "PatchUrl": "https://patches.wabbajack.org/748caf08461c0fcb_b855acaec2c846e8"
-  },
-  {
-    "Status": "Updated",
-    "Original": {
-      "Hash": "HX7/e0OgNtU=",
-      "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/8148-gsposes-slal/\nprompt=Please download GS_SLAL SE Creatures 20 02.7z",
-      "Name": "GS_SLAL SE Creatures 20 02.7z",
-      "Size": 13484916,
-      "State": {
-        "$type": "ManualDownloader, Wabbajack.Lib",
-        "Prompt": "Please download GS_SLAL SE Creatures 20 02.7z",
-        "Url": "https://www.loverslab.com/files/file/8148-gsposes-slal/"
-      }
-    },
-    "PatchedFrom": {
-      "Hash": "3KSmOKYrHH8=",
-      "Meta": "",
-      "Name": "GS_SLAL SE Creatures 20 02.7z",
-      "Size": 13484008,
-      "State": {
-        "$type": "ManualDownloader, Wabbajack.Lib",
-        "Prompt": "Please download GS_SLAL SE Creatures 20 02.7z",
-        "Url": "https://www.loverslab.com/files/file/8148-gsposes-slal/"
-      }
-    },
-    "PatchUrl": "https://patches.wabbajack.org/1d7eff7b43a036d5_dca4a638a62b1c7f"
-  },
-  {
-    "Status": "Updated",
-    "Original": {
-      "Hash": "YOt+h3+w/PI=",
-      "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/3999-billyys-slal-animations-2022-3-2/\nprompt=Please download 572890882_SLAL_Billyy_Animationsv5.4SE.zip",
-      "Name": "572890882_SLAL_Billyy_Animationsv5.4SE.zip",
-      "Size": 156300369,
-      "State": {
-        "$type": "ManualDownloader, Wabbajack.Lib",
-        "Prompt": "Please download 572890882_SLAL_Billyy_Animationsv5.4SE.zip",
-        "Url": "https://www.loverslab.com/files/file/3999-billyys-slal-animations-2022-3-2/"
-      }
-    },
-    "PatchedFrom": {
-      "Hash": "8hmjS9pprVc=",
-      "Meta": "",
-      "Name": "1868227199_SLAL_Billyy_Animationsv5.7SE.7z",
-      "Size": 104496956,
-      "State": {
-        "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-        "Url": "https://authored-files.wabbajack.org/1868227199_SLAL_Billyy_Animationsv5.7SE.7z_71069708-ec86-4636-8520-ecce96d89e55"
-      }
-    },
-    "PatchUrl": "https://patches.wabbajack.org/60eb7e877fb0fcf2_f219a34bda69ad57"
+    "PatchUrl": "https://patches.wabbajack.org/a40a90872df0f7f3_ad5acd54b5cd5683"
   }
 ]

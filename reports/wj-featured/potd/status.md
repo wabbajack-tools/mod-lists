@@ -233,9 +233,9 @@
 *  [Heritage-30017-1-9-1581349742.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30017/?tab=files&file_id=123516)
 *  [Heritage-30017-1-98-1585990136.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30017/?tab=files&file_id=132335)
 *  [High Poly Gleamblossoms - ENB Light-40278-1-2-1626461597.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40278/?tab=files&file_id=214944)
+*  [High Poly Head v1.4 (SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 *  [High Poly Project-12029-v4-95-1614673394.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=188917)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
-*  High_Poly_Head_v1.4_(SE).zip
 *  High.ini
 *  [HQ Alduins Wall - 1.0-2638-1-01.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2638/?tab=files&file_id=3816)
 *  [HQ Solitude - 2K-23937-1-0-1552088561.rar](https://www.nexusmods.com/skyrimspecialedition/mods/23937/?tab=files&file_id=84292)
@@ -356,7 +356,7 @@
 *  [Pretty Gems-15415-2-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/15415/?tab=files&file_id=46598)
 *  [Pride of Skyrim - AIO FOMOD-48904-1-0-1619066017.zip](https://www.nexusmods.com/skyrimspecialedition/mods/48904/?tab=files&file_id=199544)
 *  [Quick Light SE-12633-2-2-1575553166.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12633/?tab=files&file_id=115255)
-*  [QuickLootRE.zip](https://github.com/Ryan-rsm-McKenzie/QuickLootRE/releases/download/2.8.6/QuickLootRE.zip)
+*  [QuickLootRE-21085-2-8-6-1609752312.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21085/?tab=files&file_id=177675)
 *  [RaceMenu Special Edition v0-4-16-19080-0-4-16-1601805673.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19080/?tab=files&file_id=163861)
 *  [Rain Barrel Fix and Retexture-13522-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13522/?tab=files&file_id=39748)
 *  [Rally's Solstheim AIO-36893-1-1-1617914523.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36893/?tab=files&file_id=196957)
@@ -427,8 +427,8 @@
 *  [Smooth Combat Animation by Race.7z](https://blog.kakaocdn.net/dn/cc2DCv/btq75DwB45E/Ngh6JToG1d7rL8IOwblKLk/Smooth Combat Animation by Race.7z?attach=1&knm=tfile.7z)
 *  [Smooth Combat Non Combat Animation.7z](https://blog.kakaocdn.net/dn/9Tn0e/btq6pI8JGgq/RMxvJoTOF071qWFu9pc04k/Smooth Combat Non Combat Animation.7z?attach=1&knm=tfile.7z)
 *  [Smooth Magic Casting Animation 3.2.7z](https://blog.kakaocdn.net/dn/cyDuii/btq74ntfh9i/FwXmgAkFKizXGmtyVpscZK/Smooth Magic Casting Animation 3.2.7z?attach=1&knm=tfile.7z)
-*  Smooth Random Blocking Animation.7z
-*  Smooth Random Magic idle Animation.7z
+*  [Smooth Random Blocking Animation.7z](https://mega.nz/file/4LxGTALK#7I8XPLnIW0PxR_r_nXMP-9ZUnZ16MlFVMdFdgGy-gF0)
+*  [Smooth Random Magic idle Animation.7z](https://mega.nz/file/IS4EjJhC#inP4yfb3i-UO_sx790OpoFDk81x-WIRf9WcBeKxnmYo)
 *  [SmoothCam - Modern Camera Preset-41636-1-5-1628867735.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41636/?tab=files&file_id=220887)
 *  [SmoothCam - Octavian's Preset 1.1.2-43927-1-1-2-1610903285.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43927/?tab=files&file_id=180082)
 *  [SmoothCam_EasyEase_Preset_1.3b-41395-1-3b-1604245949.zip](https://www.nexusmods.com/skyrimspecialedition/mods/41395/?tab=files&file_id=168168)

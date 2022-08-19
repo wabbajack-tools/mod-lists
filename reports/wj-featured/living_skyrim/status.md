@@ -416,9 +416,9 @@
 *  [High Poly Blackreach Mushrooms-40418-0-4-1600056886.rar](https://www.nexusmods.com/skyrimspecialedition/mods/40418/?tab=files&file_id=160628)
 *  [High Poly Canticle Tree-51433-0-1-1624205654.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51433/?tab=files&file_id=210242)
 *  [High Poly Gleamblossoms - vanilla glow-40278-1-1-1599743321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40278/?tab=files&file_id=160018)
+*  [High Poly Head v1.4 (SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
 *  [High Quality Tintmasks for Vanilla NPCs - BSA 1K-18360-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18360/?tab=files&file_id=68440)
-*  High_Poly_Head_v1.4_(SE).zip
 *  [High-Poly Inigo Replacer - FOMOD installer-38860-3-0-1596500717.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38860/?tab=files&file_id=153610)
 *  High.ini
 *  [Hjertesten Hall-48118-7-1637109979.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48118/?tab=files&file_id=242136)
@@ -760,7 +760,7 @@
 *  [Quest NPCs Run-21103-1-12-1623072158.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21103/?tab=files&file_id=207937)
 *  [Quick Light SE-12633-2-2-1575553166.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12633/?tab=files&file_id=115255)
 *  [Quick Mass Follower Commands-51362-0-1-1624065676.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51362/?tab=files&file_id=209845)
-*  [QuickLootRE.zip](https://github.com/Ryan-rsm-McKenzie/QuickLootRE/releases/download/2.8.6/QuickLootRE.zip)
+*  [QuickLootRE-21085-2-8-6-1609752312.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21085/?tab=files&file_id=177675)
 *  [R88_ESLify-42211-0-2-1605073948.rar](https://www.nexusmods.com/skyrimspecialedition/mods/42211/?tab=files&file_id=169561)
 *  [RaceMenu High Heels Fixes-18045-1-3-1552859840.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18045/?tab=files&file_id=85313)
 *  [RaceMenu Special Edition v0-4-14-19080-0-4-14-1597081311.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19080/?tab=files&file_id=154908)

@@ -702,7 +702,7 @@
 *  [Tempered Skins for Females-8505-1-31-1581275267.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8505/?tab=files&file_id=123402)
 *  [Tempered Skins for Males - Dressed Version-7902-2-05-1601297180.7z](https://www.nexusmods.com/skyrimspecialedition/mods/7902/?tab=files&file_id=162982)
 *  [Tempered Skins for Males - SOS Light Version - part 1 of 2-7902-2-05-1601297612.7z](https://www.nexusmods.com/skyrimspecialedition/mods/7902/?tab=files&file_id=162986)
-*  Tempered_Skins_for_Males_-_SOS_Light_Version_-_part_2_of_2_v2.051.7z
+*  [Tempered_Skins_for_Males_-_SOS_Light_Version_-_part_2_of_2_v2.051.7z](https://www.loverslab.com/files/file/3692-sos-light-version-with-tempered-skins-for-males-sse/)
 *  [Terrain Lod Redone-9135-1-42.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9135/?tab=files&file_id=59065)
 *  [TFoS Aspens RAT Large-28406-1-1566320910.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28406/?tab=files&file_id=103746)
 *  [The Ordinary Women - Salt and Wind Texture SE-17177-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17177/?tab=files&file_id=54212)

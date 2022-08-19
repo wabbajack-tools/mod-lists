@@ -839,7 +839,7 @@
 *  [Skyrim SE Improved Puddles FOMOD v1-4 for ENB users-1462-1-4-1539661325.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1462/?tab=files&file_id=69382)
 *  [Skyrim Textures Redone- Enhanced Night Sky-5561-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5561/?tab=files&file_id=12316)
 *  Skyrim_Default.ini
-*  [Skyrim_Particle_Patch_for_ENB-SSE.zip](https://drive.google.com/uc?id=12tL3_kpm_KXlQvQqEnK3zOAl-sm_H3Fw&export=download)
+*  [Skyrim_Particle_Patch_for_ENB-SSE.zip](https://authored-files.wabbajack.org/Skyrim_Particle_Patch_for_ENB-SSE.zip_1d02ae33-f893-451c-a3b0-314b3ecae171)
 *  Skyrim.ccc
 *  [Skyrim's Got Talent - Improve as a Bard-50357-1-22-1628861711.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50357/?tab=files&file_id=220855)
 *  [SkyrimSE HD Reworked Horses-28249-1-0-1565810425.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28249/?tab=files&file_id=103005)

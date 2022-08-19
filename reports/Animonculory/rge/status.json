@@ -1,8 +1,8 @@
 {
   "MachineURL": "Animonculory/rge",
   "Name": "Relics of Hyrule - GAT Edition",
-  "Version": "2.3.7",
-  "ModListHash": "Bi1hvkvRDmQ=",
+  "Version": "2.3.7.3",
+  "ModListHash": "8dXkTSBMRB8=",
   "Archives": [
     {
       "Status": "Valid",
@@ -68,10 +68,10 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "v1aK6iCHYs8=",
+        "Hash": "jd0P+E2VtwA=",
         "Meta": "[General]\ndirectURL=https://skse.silverlock.org/beta/skse64_2_00_20.7z",
         "Name": "skse64_2_00_20.7z",
-        "Size": 813935,
+        "Size": 834815,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
@@ -2551,6 +2551,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "FpAYp2HK9n4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=3862\nfileID=295913",
+        "Name": "Hearthfire Multiple Adoptions and Custom Home Support SE-3862-3-0-4-1656871468.7z",
+        "Size": 189587,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TMPhoenix",
+          "Description": "Allows adoption of up to 6 kids, instead of just 2\n\nMove your family into suitable custom homes\n\nGives children a last name",
+          "FileID": 295913,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29249-3-1382878251.jpg",
+          "IsNSFW": false,
+          "ModID": 3862,
+          "Name": "Hearthfire multiple adoptions - Now with custom home support for kids and spouse",
+          "Version": "3.0.4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "eVIr/wkvF90=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=30017\nfileID=123516",
         "Name": "Heritage-30017-1-9-1581349742.7z",
@@ -2636,21 +2657,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "gsvUHbjw0js=",
-        "Meta": "[General]\nips4Site=Vector Plexus\nips4Mod=283\nips4File=High_Poly_Head_v1.4_(SE).zip",
+        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq\u0026export=download",
         "Name": "High_Poly_Head_v1.4_(SE).zip",
         "Size": 188231174,
         "State": {
-          "$type": "VectorPlexusOAuthDownloader\u002BState, Wabbajack.Lib",
-          "Author": "KouLeifoh",
-          "Description": "",
-          "ImageURL": "//storage.vectorplexus.com/screenshots/monthly_2019_12/splash.jpg.981878824c3ffe924664eb229f1b7749.jpg",
-          "IPS4File": "High_Poly_Head_v1.4_(SE).zip",
-          "IPS4Mod": 283,
-          "IPS4Url": "https://vectorplexus.com/files/file/283-high-poly-head/",
-          "IsAttachment": false,
-          "IsNSFW": true,
-          "Name": "High Poly Head",
-          "Version": "1.4"
+          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
+          "Id": "15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq"
         }
       }
     },
@@ -4085,21 +4097,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "okf/YpjJpwo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=8354\nfileID=113974",
-        "Name": "Prince and the Pauper SE 4.1-8354-4-1-1574351160.rar",
-        "Size": 66689703,
+        "Hash": "PUe00yktoPg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=8354\nfileID=24364",
+        "Name": "Prince and The Pauper SE-8354-4-08.rar",
+        "Size": 96327060,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "JadeRoyale",
           "Description": "A clothing overhaul for the children of Skyrim with more appropriate upper, middle and lower class distinctions.",
-          "FileID": 113974,
+          "FileID": 24364,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46156-1-1383356397.jpg",
           "IsNSFW": false,
           "ModID": 8354,
           "Name": "Prince and The Pauper SE",
-          "Version": "0.0.0.0"
+          "Version": "f4.08"
         }
       }
     },
@@ -8203,21 +8215,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "iYnHD3pvtRI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=19250\nfileID=211462",
-        "Name": "More Informative Console 0.43-19250-0-43-1624831495.zip",
-        "Size": 202760,
+        "Hash": "3bYACZx0wQg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=19250\nfileID=286245",
+        "Name": "More Informative Console 1.0.1 SE-19250-1-0-1-1653434078.zip",
+        "Size": 388413,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Linthar",
           "Description": "This mod edits the UI to show a great deal of additional information on npcs, items, and other objects when the console is opened, similar to the way MFG console worked for Oldrim",
-          "FileID": 211462,
+          "FileID": 286245,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19250/19250-1554167901-1170138616.png",
           "IsNSFW": false,
           "ModID": 19250,
           "Name": "More Informative Console",
-          "Version": "0.43.0.0"
+          "Version": "1.0.1.0"
         }
       }
     },
@@ -8566,14 +8578,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "fP1juartaV0=",
-        "Meta": "[General]\ndirectURL=https://github.com/Ryan-rsm-McKenzie/QuickLootRE/releases/download/2.0.2.1/QuickLootRE.zip",
-        "Name": "QuickLootRE.zip",
-        "Size": 121081,
+        "Hash": "c3A1SMUZMVA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=21085\nfileID=177675",
+        "Name": "QuickLootRE-21085-2-8-6-1609752312.zip",
+        "Size": 317899,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Ryan-rsm-McKenzie/QuickLootRE/releases/download/2.0.2.1/QuickLootRE.zip"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ryan",
+          "Description": "This mod adds a looting menu akin to the one present in FO4.",
+          "FileID": 177675,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21085/21085-1541663066-2058527066.png",
+          "IsNSFW": false,
+          "ModID": 21085,
+          "Name": "Quick Loot RE",
+          "Version": "2.8.6.0"
         }
       }
     },
@@ -11231,6 +11250,27 @@
         "State": {
           "$type": "ModDBDownloader, Wabbajack.Lib",
           "Url": "https://www.moddb.com/downloads/start/116927?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CruX1rPNb7A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=65037\nfileID=274246",
+        "Name": "1_NoFollowerAttackCollision-65037-2-0-1648873151.rar",
+        "Size": 577496,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Loki",
+          "Description": "SKSE plugin to skip hit functions entirely if the target is friendly",
+          "FileID": 274246,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65037/65037-1647384792-1299072132.png",
+          "IsNSFW": false,
+          "ModID": 65037,
+          "Name": "No Follower Attack Collision",
+          "Version": "2.0.0.0"
         }
       }
     },
@@ -17639,13 +17679,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PGJ0HqnvXzg=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/RGE - Facegen.rar_855df6a9-237a-4dc0-b2d6-3d04af864701",
+        "Hash": "ePVTRX8WPYw=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/RGE - Facegen.rar_7c9561e7-74ad-4cdb-afe4-fbb344a8a226",
         "Name": "RGE - Facegen.rar",
-        "Size": 75636014,
+        "Size": 74153136,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/RGE%20-%20Facegen.rar_855df6a9-237a-4dc0-b2d6-3d04af864701"
+          "Url": "https://authored-files.wabbajack.org/RGE%20-%20Facegen.rar_7c9561e7-74ad-4cdb-afe4-fbb344a8a226"
         }
       }
     },
@@ -19158,6 +19198,19 @@
           "ModID": 31731,
           "Name": "The Divine Amulets Retexture",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ojTjSBZnTgw=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/CK Export.rar_e2729fc5-5444-4c57-85d6-c578b6991cdb",
+        "Name": "CK Export.rar",
+        "Size": 623935,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/CK%20Export.rar_e2729fc5-5444-4c57-85d6-c578b6991cdb"
         }
       }
     },

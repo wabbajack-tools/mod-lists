@@ -15409,7 +15409,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "Updated",
       "Original": {
         "Hash": "2MrbjqTtwtg=",
         "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=12tL3_kpm_KXlQvQqEnK3zOAl-sm_H3Fw\u0026export=download",
@@ -15419,7 +15419,26 @@
           "$type": "GoogleDriveDownloader, Wabbajack.Lib",
           "Id": "12tL3_kpm_KXlQvQqEnK3zOAl-sm_H3Fw"
         }
-      }
+      },
+      "PatchedFrom": {
+        "Hash": "IWebISWfpDA=",
+        "Meta": "",
+        "Name": "Particle Patch for ENB-65720-1-0-1648653747.zip",
+        "Size": 38693606,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mindflux",
+          "Description": "The classic particle patch, now on Nexus.",
+          "FileID": 273694,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65720/65720-1648653582-1509088395.jpeg",
+          "IsNSFW": false,
+          "ModID": 65720,
+          "Name": "Particle Patch for ENB",
+          "Version": "1.0.2"
+        }
+      },
+      "PatchUrl": "https://patches.wabbajack.org/d8cadb8ea4edc2d8_21679b21259fa430"
     },
     {
       "Status": "Valid",

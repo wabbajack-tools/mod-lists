@@ -1,20 +1,20 @@
 {
   "MachineURL": "LostOutpost/septimus",
   "Name": "Septimus",
-  "Version": "3.1.0",
-  "ModListHash": "9yzod3KIyV8=",
+  "Version": "3.1.1.1",
+  "ModListHash": "tsFs0FD/O2s=",
   "Archives": [
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PfX6zen7m2M=",
-        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z",
-        "Name": "Mod.Organizer-2.4.2.7z",
-        "Size": 89503525,
+        "Hash": "LqKnmSUrXac=",
+        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z",
+        "Name": "Mod.Organizer-2.4.4.7z",
+        "Size": 90051560,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z"
+          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z"
         }
       }
     },
@@ -50,6 +50,27 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/LostDragonist/MO2-Plugins/releases/download/2022.01.25/LootPreventifier.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yC8hNOZ1ciY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=69813\nfileID=292850",
+        "Name": "NIF Preview-69813-0-1-7b-1655813976.7z",
+        "Size": 233711,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Parapets",
+          "Description": "Mod Organizer plugin to support previewing NIF files (3D models).",
+          "FileID": 292850,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69813/69813-1655498149-175023022.png",
+          "IsNSFW": false,
+          "ModID": 69813,
+          "Name": "NIF Preview (3D Model Viewer) for Mod Organizer",
+          "Version": "0.1.7.0b"
         }
       }
     },
@@ -233,10 +254,10 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "v1aK6iCHYs8=",
+        "Hash": "jd0P+E2VtwA=",
         "Meta": "[General]\ndirectURL=http://skse.silverlock.org/beta/skse64_2_00_20.7z",
         "Name": "skse64_2_00_20.7z",
-        "Size": 813935,
+        "Size": 834815,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
@@ -2037,27 +2058,6 @@
           "IsNSFW": false,
           "ModID": 31519,
           "Name": "Beyond Skyrim - Wares of Tamriel SE",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "DJPOHADnjMM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=50840\nfileID=207903",
-        "Name": "Main File-50840-1-2-1623052905.rar",
-        "Size": 72935408,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "HeartAttackMan",
-          "Description": "Makes the Goblins from Beyond Skyrim Bruma visually consistent without changing them from a gameplay perspective.",
-          "FileID": 207903,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50840/50840-1622917152-1374777100.jpeg",
-          "IsNSFW": false,
-          "ModID": 50840,
-          "Name": "Beyond Skyrim Bruma uses Creation Club Goblins (While keeping Falmer animations)",
           "Version": "0.0.0.0"
         }
       }
@@ -6580,6 +6580,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "QmlXurfPS7s=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=37306\nfileID=214078",
+        "Name": "JS Purses and Septims SE - FOMOD-37306-1-2-1626039809.rar",
+        "Size": 333629149,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "johnskyrim",
+          "Description": "A complete re-creation of Septims, Coin Purses and Coin Piles.",
+          "FileID": 214078,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37306/103312-1592161204-474820372.png",
+          "IsNSFW": false,
+          "ModID": 37306,
+          "Name": "JS Purses and Septims SE",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "dt1673J8xHU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=68043\nfileID=283636",
         "Name": "Main File-68043-1-1652535458.7z",
@@ -9712,27 +9733,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "7Xq2P0BnUuw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=37228\nfileID=189162",
-        "Name": "Enemy (R)Evolution of Skyrim - EEOS Installer-37228-1-77-0-1614787135.7z",
-        "Size": 33331630,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Mangekyoumadara1987",
-          "Description": "Enemies will use Spells/Perks/Items/Shouts which were previously limited to the player only. Adds support for dozens of Mods. Lore-friendly implementation, highly customizable. No Scripts and no Plugin ;)",
-          "FileID": 189162,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37228/37228-1592423809-1420241214.png",
-          "IsNSFW": false,
-          "ModID": 37228,
-          "Name": "Enemy (R)Evolution of Skyrim - EEOS - Spell Perk Item Distributor Addon",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "bU6C0Gr69fE=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=53682\nfileID=277106",
         "Name": "Mysticism spells for spellcasters-53682-2-0-1649955248.7z",
@@ -9748,6 +9748,27 @@
           "ModID": 53682,
           "Name": "Mysticism Spells For Npcs",
           "Version": "1.6.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7Xq2P0BnUuw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=37228\nfileID=189162",
+        "Name": "Enemy (R)Evolution of Skyrim - EEOS Installer-37228-1-77-0-1614787135.7z",
+        "Size": 33331630,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mangekyoumadara1987",
+          "Description": "Enemies will use Spells/Perks/Items/Shouts which were previously limited to the player only. Adds support for dozens of Mods. Lore-friendly implementation, highly customizable. No Scripts and no Plugin ;)",
+          "FileID": 189162,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37228/37228-1592423809-1420241214.png",
+          "IsNSFW": false,
+          "ModID": 37228,
+          "Name": "Enemy (R)Evolution of Skyrim - EEOS - Spell Perk Item Distributor Addon",
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -11197,6 +11218,27 @@
           "ModID": 26138,
           "Name": "Skyrim Landscape and Water Fixes",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EtBzS2NzOHE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=65720\nfileID=279764",
+        "Name": "Particle Patch for ENB-65720-1-0-9-1650988655.zip",
+        "Size": 102764626,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mindflux",
+          "Description": "The classic particle patch, now on Nexus.",
+          "FileID": 279764,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65720/65720-1648653582-1509088395.jpeg",
+          "IsNSFW": false,
+          "ModID": 65720,
+          "Name": "Particle Patch for ENB",
+          "Version": "1.0.9.0"
         }
       }
     },
@@ -14794,6 +14836,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "NFP3o0lfh4E=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60837\nfileID=259654",
+        "Name": "Dear Diary Dark Mode (texts - warm color)-60837-1-0-1-1643200904.zip",
+        "Size": 38509845,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "uranreactor",
+          "Description": "Replacer for Skyrim interface in a dark fantasy style with some QoL improvements.\n\nEasy on eyes.",
+          "FileID": 259654,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60837/60837-1640783831-1683384486.gif",
+          "IsNSFW": false,
+          "ModID": 60837,
+          "Name": "Dear Diary Dark Mode - SkyUI Menus Replacer SE",
+          "Version": "1.0.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "KpNudn9pwiw=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=46437\nfileID=242431",
         "Name": "Dear Diary - Better More Informative Console-46437-1-3-1637236403.7z",
@@ -14809,6 +14872,27 @@
           "ModID": 46437,
           "Name": "The Phoenix Flavour - Repack Repository",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vHTIE0UYtXs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=63212\nfileID=272105",
+        "Name": "Nordic-ish - A Preset for TrueHUD based on Nordic UI-63212-1-1-1-1648090733.7z",
+        "Size": 35943,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AceAmir",
+          "Description": "This is a preset for TrueHUD meant to emulate Nordic UI.",
+          "FileID": 272105,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/63212/63212-1644207129-618370515.png",
+          "IsNSFW": false,
+          "ModID": 63212,
+          "Name": "Nordic...ish - A TrueHUD preset based on Nordic UI",
+          "Version": "1.1.1.0"
         }
       }
     },
@@ -16868,27 +16952,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QmlXurfPS7s=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=37306\nfileID=214078",
-        "Name": "JS Purses and Septims SE - FOMOD-37306-1-2-1626039809.rar",
-        "Size": 333629149,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "johnskyrim",
-          "Description": "A complete re-creation of Septims, Coin Purses and Coin Piles.",
-          "FileID": 214078,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37306/103312-1592161204-474820372.png",
-          "IsNSFW": false,
-          "ModID": 37306,
-          "Name": "JS Purses and Septims SE",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "TMvP3ZWnHhw=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=33394\nfileID=214217",
         "Name": "JS Shrines of the Divines SE - 2K-33394-1-2-1626112892.rar",
@@ -17071,27 +17134,6 @@
           "IsNSFW": false,
           "ModID": 45952,
           "Name": "Mari\u0027s flora",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "GDlpr52d2+A=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=51986\nfileID=212716",
-        "Name": "Menu and Load Smoke Removed for ENB-51986-1-0-1625418666.zip",
-        "Size": 41089,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Mitradis",
-          "Description": "Menu/loading smoke remover with latest ENB \u0022no menu and loading screen\u0022 feature support.",
-          "FileID": 212716,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51986/51986-1625419166-287805872.jpeg",
-          "IsNSFW": false,
-          "ModID": 51986,
-          "Name": "Menu and Load Smoke Removed for ENB",
           "Version": "0.0.0.0"
         }
       }
@@ -17540,27 +17582,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "G8j9SbpU5Bw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=37061\nfileID=261491",
-        "Name": "Water for ENB-37061-1-54-1643894028.zip",
-        "Size": 473452397,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mindflux",
-          "Description": "A water modification that takes full advantage of advanced features offered by ENBSeries.",
-          "FileID": 261491,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37061/37061-1631361680-2098426155.jpeg",
-          "IsNSFW": false,
-          "ModID": 37061,
-          "Name": "Water for ENB",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "+WZuvt4/3qs=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=41432\nfileID=165642",
         "Name": "Skyrim Remastered - Glaciers and Ice LODs for DynDOLOD-41432-1-00-1602779949.7z",
@@ -17897,6 +17918,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "ORojV685fVk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=20078\nfileID=71721",
+        "Name": "Bijin Skin UNP-20078-1-4-1541715142.7z",
+        "Size": 260076154,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "rxkx22 and Shiva182",
+          "Description": "Skin textures for CBBE and UNP made by rxkx22. \n\nCompatible with CBBE Special and UUNP Special",
+          "FileID": 71721,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/20078/20078-1537524852-1968939955.jpeg",
+          "IsNSFW": true,
+          "ModID": 20078,
+          "Name": "Bijin Skin UNP and CBBE SE",
+          "Version": "1.4.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "AdQnzv4VbGs=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=46107\nfileID=245327",
         "Name": "Vampires Cast No Shadows SE-46107-1-1-0-1638185539.7z",
@@ -17995,6 +18037,27 @@
           "IsNSFW": false,
           "ModID": 64736,
           "Name": "Water Effects Brightness and Reflection Fix - Realistic Water Two Patch",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "G8j9SbpU5Bw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=37061\nfileID=261491",
+        "Name": "Water for ENB-37061-1-54-1643894028.zip",
+        "Size": 473452397,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mindflux",
+          "Description": "A water modification that takes full advantage of advanced features offered by ENBSeries.",
+          "FileID": 261491,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37061/37061-1631361680-2098426155.jpeg",
+          "IsNSFW": false,
+          "ModID": 37061,
+          "Name": "Water for ENB",
           "Version": "0.0.0.0"
         }
       }
@@ -18752,6 +18815,27 @@
           "ModID": 4298,
           "Name": "Interior Floating Fog Remover",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4ZlR60uIOjM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=69073\nfileID=288670",
+        "Name": "JS Attunement Sphere and Lexicons SE - 2k Textures-69073-1-01-1654312905.7z",
+        "Size": 20024796,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "johnskyrim",
+          "Description": "A complete remake of the Attunement Sphere \u0026amp; Lexicons. Comes in 1k, 2k and 4k versions.",
+          "FileID": 288670,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69073/112097-1654300883-1775822489.png",
+          "IsNSFW": false,
+          "ModID": 69073,
+          "Name": "JS Attunement Sphere and Lexicons SE",
+          "Version": "f1.01"
         }
       }
     },
