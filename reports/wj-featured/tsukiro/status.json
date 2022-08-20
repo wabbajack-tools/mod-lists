@@ -7944,7 +7944,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "Updated",
       "Original": {
         "Hash": "1GEoQpaFAdQ=",
         "Meta": "[General]\ndirectURL=https://github.com/annakins/Katana/releases/download/0.62/Katana.7z",
@@ -7955,7 +7955,19 @@
           "Headers": [],
           "Url": "https://github.com/annakins/Katana/releases/download/0.62/Katana.7z"
         }
-      }
+      },
+      "PatchedFrom": {
+        "Hash": "YLhsUqBWC4c=",
+        "Meta": "",
+        "Name": "Katana.7z",
+        "Size": 456782930,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/annakins/Katana/releases/download/0.62/Katana.7z"
+        }
+      },
+      "PatchUrl": "https://patches.wabbajack.org/d4612842968501d4_60b86c52a0560b87"
     },
     {
       "Status": "Valid",

@@ -2,9 +2,10 @@
 
 
 ### Invalid (0)
-### Updated (0)
+### Updated (1)
+*  [Katana.7z](https://github.com/annakins/Katana/releases/download/0.62/Katana.7z)
 ### Mirrored (0)
-### Valid (1255)
+### Valid (1254)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [(1) Sharkish Piercings - BHUNP - Base-57131-1-01-1634463636.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235337)
 *  [(1) Sunstarved Tanlines - UUNP-26795-2-0-1580192177.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121531)
@@ -654,7 +655,6 @@
 *  [Kalilies NPCs-30247-2-4-1613495939.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30247/?tab=files&file_id=186274)
 *  [Kanjs - Nests and Eggs 2k-64905-1-3-1647285551.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64905/?tab=files&file_id=270168)
 *  [Kart_CSSET_Overwrite-38775-1-2-3-2-1623895015.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38775/?tab=files&file_id=209523)
-*  [Katana.7z](https://github.com/annakins/Katana/releases/download/0.62/Katana.7z)
 *  [Katarina Armor-9694-1-1.rar](https://www.nexusmods.com/skyrimspecialedition/mods/9694/?tab=files&file_id=26369)
 *  [Keyword Item Distributor-55728-2-0-1652806645.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55728/?tab=files&file_id=284514)
 *  [King Olaf's Fire Festival Not Ending Fix-65849-0-1-1648899684.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65849/?tab=files&file_id=274311)
