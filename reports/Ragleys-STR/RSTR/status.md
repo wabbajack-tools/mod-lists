@@ -1,4 +1,4 @@
-## Validation Report - Ragley's Skyrim Together Reborn (Ragleys-STR/Ragleys-STR/RSTR)
+## Validation Report - Ragley's Skyrim Together Reborn (Ragleys-STR/RSTR)
 
 
 ### Invalid (0)
