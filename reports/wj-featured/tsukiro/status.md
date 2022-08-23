@@ -2,10 +2,11 @@
 
 
 ### Invalid (0)
-### Updated (1)
+### Updated (2)
+*  [GS_SLAL SE 01 08.7z](https://www.loverslab.com/files/file/8148-gsposes-slal/)
 *  [Katana.7z](https://github.com/annakins/Katana/releases/download/0.62/Katana.7z)
 ### Mirrored (0)
-### Valid (1254)
+### Valid (1253)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [(1) Sharkish Piercings - BHUNP - Base-57131-1-01-1634463636.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235337)
 *  [(1) Sunstarved Tanlines - UUNP-26795-2-0-1580192177.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121531)
@@ -490,7 +491,6 @@
 *  [Great Town of Ivarstead Patch Collection-36380-2-4-1636172070.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36380/?tab=files&file_id=239313)
 *  [Great Town of Shor's Stone Patch Collection-36462-2-2-1-1644945187.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36462/?tab=files&file_id=264467)
 *  [Grimy Utilities-36328-6-08.rar](https://www.nexusmods.com/skyrim/mods/36328/?tab=files&file_id=1000182213)
-*  [GS_SLAL SE 01 08.7z](https://www.loverslab.com/files/file/8148-gsposes-slal/)
 *  [GS_SLAL SE Creatures 20 02.7z](https://www.loverslab.com/files/file/8148-gsposes-slal/)
 *  [Guard Dialogue Overhaul SE-22075-2-18-1639766018.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22075/?tab=files&file_id=249890)
 *  [Gwelda Dawnguard-4862-2-01-1556250995.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4862/?tab=files&file_id=89727)
