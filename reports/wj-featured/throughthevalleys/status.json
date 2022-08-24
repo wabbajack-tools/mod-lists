@@ -3,9 +3,2217 @@
   "Name": "Through The Valleys",
   "Version": "2.0",
   "ModListHash": "sAb360qr71s=",
-  "Archives": [],
-  "Status": "ForcedDown",
+  "Archives": [
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LqKnmSUrXac=",
+        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z",
+        "Name": "Mod.Organizer-2.4.4.7z",
+        "Size": 90051560,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GgSxTN+GNCU=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45576\nfileID=1000008086",
+        "Name": "4gb_Patch_plus_Ram_optimization_readme-45576-1-0-0-1.zip",
+        "Size": 24784,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Daniel Pistelli ",
+          "Description": "Small .exe with sole purpose of applying \u0026gt;2gb patch to .exe and .dll files. Automatically makes backups of original files. Applying this to all .exe and .dll related to Oblivion MAY give some of those with 4gb plus ram a performance boost. Even then extra tweaks and additional utilities are usually necessary to optimize things. ",
+          "FileID": 1000008086,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 45576,
+          "Name": "4gb Ram Patcher",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5qahD98Va/w=",
+        "Meta": "[General]\ndirectURL=https://github.com/llde/xOBSE/releases/download/22.5/xOBSE22.5.zip",
+        "Name": "xOBSE22.5.zip",
+        "Size": 5320797,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/llde/xOBSE/releases/download/22.5/xOBSE22.5.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8fZOJh4JCsk=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=19628\nfileID=1000029883",
+        "Name": "Animated Window Lighting System-19628-5-6-1-1640609701.7z",
+        "Size": 182019736,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "XMarksTheSpot-Brumbek-Ismelda",
+          "Description": "A replacement of Texian\u0027s Window Lighting System now with animated meshes with a tool to animate your own building windows. It also comes now with Chimney Smoke.",
+          "FileID": 1000029883,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/19628-1-1234862814.jpg",
+          "IsNSFW": false,
+          "ModID": 19628,
+          "Name": "Animated Window Lighting System and Chimneys - AWLS",
+          "Version": "5.6.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QHegligHaI8=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50219\nfileID=1000028816",
+        "Name": "Area Harvest-50219-1-0-2-1630158904.7z",
+        "Size": 1847,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "Attempting to harvest an ingredient will automatically harvest all plants of the same type in a small radius at once. Saves you repeatedly pressing on each plant in a patch.",
+          "FileID": 1000028816,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50219/50219-1593160318-1986959911.png",
+          "IsNSFW": false,
+          "ModID": 50219,
+          "Name": "Area Harvest - Gather Nearby Plant Clusters",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wg82Rc9T4ls=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50237\nfileID=1000030225",
+        "Name": "Ascension - All-in-One Push\u0027s Tweaks-50237-1-1-3-1644143297.7z",
+        "Size": 10902,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "An immersive overhaul true to the feel of the original game. Rare loot is actually rare, high level enemies only spawn at boss-level spawn points, low level enemies and items can spawn regardless of level, and a tonne of other balance tweaks for almost every aspect of the game. Oblivion, as it was meant to be!",
+          "FileID": 1000030225,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50237/50237-1593803361-1935254348.png",
+          "IsNSFW": false,
+          "ModID": 50237,
+          "Name": "Ascension - Immersive Vanilla \u0027Overhaul\u0027",
+          "Version": "1.1.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "NYvGjhitIFE=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50237\nfileID=1000030222",
+        "Name": "Ascension-50237-1-1-3-1644140059.7z",
+        "Size": 21643824,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "An immersive overhaul true to the feel of the original game. Rare loot is actually rare, high level enemies only spawn at boss-level spawn points, low level enemies and items can spawn regardless of level, and a tonne of other balance tweaks for almost every aspect of the game. Oblivion, as it was meant to be!",
+          "FileID": 1000030222,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50237/50237-1593803361-1935254348.png",
+          "IsNSFW": false,
+          "ModID": 50237,
+          "Name": "Ascension - Immersive Vanilla \u0027Overhaul\u0027",
+          "Version": "1.1.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "b6flVCnbwmo=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=44678\nfileID=1000005385",
+        "Name": "Dwemer armour replacer-44678-1-0.zip",
+        "Size": 2073090,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "nuska",
+          "Description": "Replacers for vanilla female armor. Fully covering sets reworked from male versions to fit a female figure. Works with any body replacer.",
+          "FileID": 1000005385,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/44678-1-1387126105.jpg",
+          "IsNSFW": false,
+          "ModID": 44678,
+          "Name": "Assorted Protective Female Armors",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LEdoERf92u4=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=44678\nfileID=1000005383",
+        "Name": "Ebony female armor replacer-44678-1-0.zip",
+        "Size": 1800499,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "nuska",
+          "Description": "Replacers for vanilla female armor. Fully covering sets reworked from male versions to fit a female figure. Works with any body replacer.",
+          "FileID": 1000005383,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/44678-1-1387126105.jpg",
+          "IsNSFW": false,
+          "ModID": 44678,
+          "Name": "Assorted Protective Female Armors",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/FdwOSUN6vk=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=44678\nfileID=1000005381",
+        "Name": "Female Mithril armor replacer-44678-1-0.zip",
+        "Size": 1981642,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "nuska",
+          "Description": "Replacers for vanilla female armor. Fully covering sets reworked from male versions to fit a female figure. Works with any body replacer.",
+          "FileID": 1000005381,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/44678-1-1387126105.jpg",
+          "IsNSFW": false,
+          "ModID": 44678,
+          "Name": "Assorted Protective Female Armors",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Co86INbebFA=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=44678\nfileID=1000005378",
+        "Name": "Female Iron Armor replacer-44678-1-0.zip",
+        "Size": 2065257,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "nuska",
+          "Description": "Replacers for vanilla female armor. Fully covering sets reworked from male versions to fit a female figure. Works with any body replacer.",
+          "FileID": 1000005378,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/44678-1-1387126105.jpg",
+          "IsNSFW": false,
+          "ModID": 44678,
+          "Name": "Assorted Protective Female Armors",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OWx0/mEcBxQ=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50806\nfileID=1000026889",
+        "Name": "APFA Refined-50806-1-0-1612912761.zip",
+        "Size": 411891,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "nuska and dasbadman",
+          "Description": "Corrected inventory icons and ground models for armor changed by nuska\u0027s Assorted Protective Female Armors.",
+          "FileID": 1000026889,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50806/50806-1612912406-2104529643.png",
+          "IsNSFW": false,
+          "ModID": 50806,
+          "Name": "Assorted Protective Female Armors - Refined",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JnAdSzQbKWg=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49385\nfileID=1000022544",
+        "Name": "Attribute Progression Redesign v1.2-49385-1-2-1562378719.zip",
+        "Size": 4102,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jake Alaimo",
+          "Description": "Unused attribute points carry over to your next level. My take on disincentivizing min-maxing approaches to gameplay while also preserving the balance and intent of Oblivion\u0027s design as elegantly as possible.",
+          "FileID": 1000022544,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49385/49385-1558627093-1919745086.jpeg",
+          "IsNSFW": false,
+          "ModID": 49385,
+          "Name": "Attribute Progression Redesign",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WaoNXK19MEo=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49194\nfileID=1000028441",
+        "Name": "Balanced Creature Stats - DLC Patch-49194-1-0-4-1626612864.zip",
+        "Size": 2105,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "Fixes Oblivion\u0027s creature level scaling by making all creature levels static or enforcing a maximum level for scaling with the player. Also balances and fixes creature stats logically across similar types, without altering the vanilla intention.",
+          "FileID": 1000028441,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49194/49194-1551004325-174237190.jpeg",
+          "IsNSFW": false,
+          "ModID": 49194,
+          "Name": "Balanced Creature Stats - Fixed Level Scaling",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9mFIDrKi4aw=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49194\nfileID=1000028440",
+        "Name": "Balanced Creature Stats-49194-1-0-4-1626612813.zip",
+        "Size": 15767,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "Fixes Oblivion\u0027s creature level scaling by making all creature levels static or enforcing a maximum level for scaling with the player. Also balances and fixes creature stats logically across similar types, without altering the vanilla intention.",
+          "FileID": 1000028440,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49194/49194-1551004325-174237190.jpeg",
+          "IsNSFW": false,
+          "ModID": 49194,
+          "Name": "Balanced Creature Stats - Fixed Level Scaling",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Se0H1iKInxA=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50094\nfileID=1000025061",
+        "Name": "Balanced NPC Level Cap - DLC Patches-50094-2-00-1592501328.zip",
+        "Size": 93669,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "The comprehensive solution to Oblivion\u0027s NPC scaling problem: adds consistent level caps to 1,400\u002B NPCs from the base game and all DLCs.",
+          "FileID": 1000025061,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50094/50094-1588881539-1014282595.png",
+          "IsNSFW": false,
+          "ModID": 50094,
+          "Name": "Balanced NPC Level Cap - Logical Levels for All NPCs",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "U658gzMwm7o=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50094\nfileID=1000025060",
+        "Name": "Balanced NPC Level Cap-50094-2-00-1592501185.zip",
+        "Size": 1234794,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "The comprehensive solution to Oblivion\u0027s NPC scaling problem: adds consistent level caps to 1,400\u002B NPCs from the base game and all DLCs.",
+          "FileID": 1000025060,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50094/50094-1588881539-1014282595.png",
+          "IsNSFW": false,
+          "ModID": 50094,
+          "Name": "Balanced NPC Level Cap - Logical Levels for All NPCs",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CR4dKB2UL/Q=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=51050\nfileID=1000028085",
+        "Name": "Balanced Unleveled Rewards - All-in-One-51050-1-0-2-1623430774.zip",
+        "Size": 17185,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "Removes level scaling from all leveled quest rewards and items, instead giving them balanced stats more like how artefacts are handled in Skyrim.",
+          "FileID": 1000028085,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51050/51050-1621155412-353314790.jpeg",
+          "IsNSFW": false,
+          "ModID": 51050,
+          "Name": "Balanced Unleveled Rewards",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WAc25v7WXvo=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=5286\nfileID=4418",
+        "Name": "Better Bell Sounds-5286.rar",
+        "Size": 2616,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Morbus",
+          "Description": "::::: Description :::::\r\nAfter the opportune request of Xanias I decided to tweak this specific feature of Oblivion: the sound of bells. Xanias argued that the bell sounds featured in vanilla Oblivion were very unrealistic, and I completely agree. So now, with Better Bell Sounds, you can finally give the bells the place they deserve in cities. You ",
+          "FileID": 4418,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/5286-1-1318221358.jpg",
+          "IsNSFW": false,
+          "ModID": 5286,
+          "Name": "Better Bell Sounds",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "aEQpD91nRMo=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=43752\nfileID=1000029844",
+        "Name": "Blockhead-43752-11-1-1640043918.7z",
+        "Size": 172565,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "shadeMe",
+          "Description": "An OBSE plugin that adds support for gender variant head models and textures for NPCs. And allows free camera movement in the race/sex menu. And enables pain-free inventory idle overriding. And per-NPC/Race/scripted body/head texture/model overriding. And animation overriding. And equipment model overriding.",
+          "FileID": 1000029844,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/43752-1-1373226750.jpg",
+          "IsNSFW": false,
+          "ModID": 43752,
+          "Name": "Blockhead",
+          "Version": "11.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Q3weqSFEhs4=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=48074\nfileID=1000020333",
+        "Name": "Complete Clutter and Container Ownership-48074-2-00.zip",
+        "Size": 23588,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "Adds ownership to all random clutter and containers in cities and settlements across Cyrodiil and the Shivering Isles.",
+          "FileID": 1000020333,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/48074-0-1506779351.jpg",
+          "IsNSFW": false,
+          "ModID": 48074,
+          "Name": "Complete Clutter and Container Ownership",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KE/NnEr9yT8=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50778\nfileID=1000026816",
+        "Name": "County Gates-50778-1-0-0-1612303879.zip",
+        "Size": 237676,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Enodoc",
+          "Description": "Decorative gates alongside the main roads mark the boundaries of the Counties of Cyrodiil.",
+          "FileID": 1000026816,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50778/50778-1612303391-1001213366.png",
+          "IsNSFW": false,
+          "ModID": 50778,
+          "Name": "County Gates",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cQObA67heGQ=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50261\nfileID=1000025306",
+        "Name": "Creature Spawn Chance Fix-50261-1-01-1594905881.zip",
+        "Size": 3681,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "A fix for an engine bug which affects all chance-based creature spawns.",
+          "FileID": 1000025306,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50261/50261-1594541904-1296766624.jpeg",
+          "IsNSFW": false,
+          "ModID": 50261,
+          "Name": "Creature Spawn Chance Fix",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nKJ2jPN/VOw=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50261\nfileID=1000025279",
+        "Name": "Leveled Creature Flag Fix-50261-1-00-1594542440.zip",
+        "Size": 680,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "A fix for an engine bug which affects all chance-based creature spawns.",
+          "FileID": 1000025279,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50261/50261-1594541904-1296766624.jpeg",
+          "IsNSFW": false,
+          "ModID": 50261,
+          "Name": "Creature Spawn Chance Fix",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Efzsqd+isxA=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=48732\nfileID=1000020110",
+        "Name": "Diverse Chapels Vanilla-48732-1-0.7z",
+        "Size": 3647913,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "frosty-theaussie",
+          "Description": "An update/remake of Saint_Jiub\u0027s Diverse Chapels without the \u0027All Natural\u0027 requirement. Re-positions altars and stained glass windows in the Grand Chapels to make it clearer who the city\u0027s Patron Divine is.",
+          "FileID": 1000020110,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/48732/48732-1534067236-842426773.jpeg",
+          "IsNSFW": false,
+          "ModID": 48732,
+          "Name": "Diverse Chapels Vanilla",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QP2lCg3hjoE=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=48667\nfileID=1000028336",
+        "Name": "Doomstone and Runestone Map Markers-48667-1-1-1625678046.7z",
+        "Size": 1716,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mixxa77",
+          "Description": "Places map markers at all Doom and Rune Stones across Cyrodiil. They are not marked on your map, you will have to find them on your own, but after discovering one, you can now Fast-Travel to them. | Based on a_saffin\u0027s \u0022Doomstone Map Markers\u0022 mod.",
+          "FileID": 1000028336,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/48667/48667-1531648042-2289561.jpeg",
+          "IsNSFW": false,
+          "ModID": 48667,
+          "Name": "Doomstone and Runestone Map Markers",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "05VYZD9RCOs=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50099\nfileID=1000028101",
+        "Name": "Dungeon Surprise Attacks-50099-1-2-2-1623516872.zip",
+        "Size": 4804,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "Adds randomised themed spawns to dungeons. Make sure to watch your six!",
+          "FileID": 1000028101,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50099/50099-1589113507-796468714.png",
+          "IsNSFW": false,
+          "ModID": 50099,
+          "Name": "Dungeon Surprise Attacks -  Extra Spawns",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rZnrBl4HUfM=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=47085\nfileID=1000022995",
+        "Name": "EngineBugFixes v2.22-47085-2-22-1569169531.7z",
+        "Size": 186817,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tiawar",
+          "Description": "An OBSE plugin containing bug fixes for the Oblivion game engine.",
+          "FileID": 1000022995,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 47085,
+          "Name": "EngineBugFixes",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JFqyc4AIY3w=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=23783\nfileID=40743",
+        "Name": "Enhanced Vegetation - Plugins v1dot1-23783.7z",
+        "Size": 16785,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LprMan",
+          "Description": "An alternative to Natural Vegetation by Max Tael. This mod offers better textures for distant trees/shrubs and the plugins scale vegetation bigger. The textures come in 3 different variations (high/normal/low resolutions) and the plugins offer multiple scaling choices. You can use any plugin \u002B texturepack combination.",
+          "FileID": 40743,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/23783-1-1239646676.gif",
+          "IsNSFW": false,
+          "ModID": 23783,
+          "Name": "Enhanced Vegetation",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Jmb78iooGA4=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=23064\nfileID=39019",
+        "Name": "Enhanced Water v20 HDMI-23064.zip",
+        "Size": 2838,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "XiNAVRO",
+          "Description": "This is a slight modification of LprMan\\\u0027s Enhanced Water v2.0 HD, combined with halo112358\\\u0027s Shivering Isles addon. It increases the underwater visibility.",
+          "FileID": 39019,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/23064-1-1236688110.jpg",
+          "IsNSFW": false,
+          "ModID": 23064,
+          "Name": "Enhanced Water v20 HDMI",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cf134Hr3DSQ=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=24078\nfileID=42172",
+        "Name": "EVE_HGEC_BodyStock and Clothing Wrye Bash BAIN -24078.7z",
+        "Size": 46621753,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "EVE TEAM see Credits Section ",
+          "Description": "Replaces the vanilla/Mods Oblivion clothing and armor to match several versions of the HGEC female body.\r\n",
+          "FileID": 42172,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/24078-1-1240949453.jpg",
+          "IsNSFW": false,
+          "ModID": 24078,
+          "Name": "EVE HGEC Eyecandy Variants Expansion",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GfSTsj+1wic=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=47173\nfileID=1000014754",
+        "Name": "Faction Followers-47173-1-0.7z",
+        "Size": 944552,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PrinceShroob",
+          "Description": "Adds generic, respawning Fighters Guild, Thieves Guild, and Blades followers.",
+          "FileID": 1000014754,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/47173-3-1471759118.jpg",
+          "IsNSFW": false,
+          "ModID": 47173,
+          "Name": "Faction Followers",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PQ/feW2up4M=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50226\nfileID=1000025161",
+        "Name": "Faster Horse Dismount-50226-1-0-1593457870.7z",
+        "Size": 77057,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "qwerty",
+          "Description": "Allows dismounting your horse almost twice as fast.",
+          "FileID": 1000025161,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50226/50226-1593457736-1670440949.jpeg",
+          "IsNSFW": false,
+          "ModID": 50226,
+          "Name": "Faster Horse Dismount",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rpCkTqmERMI=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=43331\nfileID=1000000560",
+        "Name": "Glowing Wonders-43331-v1-0.zip",
+        "Size": 680126,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ferretmyster",
+          "Description": "All Runestones and Doomstones and Ayleid Wells glow and also produce unique sound.",
+          "FileID": 1000000560,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/43331-1-1361319748.jpg",
+          "IsNSFW": false,
+          "ModID": 43331,
+          "Name": "Glowing Stones",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mko7ZFspjOs=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=3989\nfileID=3347",
+        "Name": "Golden Elven Armour-3989.zip",
+        "Size": 5002472,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ger1   ",
+          "Description": "This is just a simple recolor of the existing Elven armour to make it more gold rather than yellow/green.  It is a replacement, NOT new armour and just has texture files and requires no ESP.\r\n\r\nJust extract to your Oblivion folder.  The Readme has more instructions, especially if the new textures do not load on their own.",
+          "FileID": 3347,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/3989-1-1193217941.jpg",
+          "IsNSFW": false,
+          "ModID": 3989,
+          "Name": "Golden Elven Armour",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Xfu9HpeiiEg=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=3994\nfileID=3351",
+        "Name": "Golden Elven Weapons-3994.zip",
+        "Size": 1649829,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ger1 ",
+          "Description": "This is a simple color tweak of the Elven weapons to go along with the Armour recolor.  It makes the weapons more golden, rather than yellow/green.\r\nExtract file to the Oblivion folder and check the readme for more info.  This is a texture REPLACER, so there is no ESP.",
+          "FileID": 3351,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/3994-1-1193217811.jpg",
+          "IsNSFW": false,
+          "ModID": 3994,
+          "Name": "Golden Elven Weapons",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fd4ay4un5/4=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45214\nfileID=1000009969",
+        "Name": "GOSH v2-1-45214-2-1.zip",
+        "Size": 130711873,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lazygecko",
+          "Description": "Bethesda hates him! Overhaul your Oblivion sound with this one weird trick.",
+          "FileID": 1000009969,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45214-1-1403990755.jpg",
+          "IsNSFW": false,
+          "ModID": 45214,
+          "Name": "GOSH - Gecko\u0027s Oblivion Sound overHaul",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tdAj/iFyNCg=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45980\nfileID=1000009886",
+        "Name": "Hidden Treasures 1.1-45980-1-1.zip",
+        "Size": 28377,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ironman5000",
+          "Description": "100 secret Ayleid chests scattered across Tamriel and Shivering Isles, containing expensive and rare levelled loot.",
+          "FileID": 1000009886,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45980-1-1426358184.jpg",
+          "IsNSFW": false,
+          "ModID": 45980,
+          "Name": "Hidden Treasures of Tamriel",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oVOAZPt1EGM=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=48076\nfileID=1000025183",
+        "Name": "Hooded Outlaws-48076-1-02-1593797031.zip",
+        "Size": 173184,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "Makes outlaws look more villainous by adding a chance for Bandits, Highwaymen, Marauders, and Vampires to be wearing various hoods. Optionally covers Conjurers and Necromancers.",
+          "FileID": 1000025183,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/48076-0-1506848510.jpg",
+          "IsNSFW": false,
+          "ModID": 48076,
+          "Name": "Hooded Outlaws",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tqHqUqDGA4Y=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49868\nfileID=1000024605",
+        "Name": "Imperial City Canal Overhaul-49868-1-2-1588098860.7z",
+        "Size": 1087344,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "qwerty",
+          "Description": "Connects small ponds in Imperial City into a full circular canal.",
+          "FileID": 1000024605,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49868/49868-1580489335-1466352287.jpeg",
+          "IsNSFW": false,
+          "ModID": 49868,
+          "Name": "Imperial City Canal Overhaul",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rEpxd2mxGxY=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50195\nfileID=1000028729",
+        "Name": "Knights Improved Infamy - PikachunoTMs DLC Delayer Patch-50195-1-00-1629485775.zip",
+        "Size": 4070,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "Removes the infamy reset from completing the pilgrimage added by Knights of the Nine, whilst exactly preserving all other infamy-related features of the DLC and base game.",
+          "FileID": 1000028729,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50195/50195-1592496854-2144762875.png",
+          "IsNSFW": false,
+          "ModID": 50195,
+          "Name": "Knights of the Nine - Improved Infamy System",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1cAMzhAoC2Y=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50195\nfileID=1000025055",
+        "Name": "Knights Improved Infamy-50195-1-00-1592490050.zip",
+        "Size": 12351,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "Removes the infamy reset from completing the pilgrimage added by Knights of the Nine, whilst exactly preserving all other infamy-related features of the DLC and base game.",
+          "FileID": 1000025055,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50195/50195-1592496854-2144762875.png",
+          "IsNSFW": false,
+          "ModID": 50195,
+          "Name": "Knights of the Nine - Improved Infamy System",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "H1MW/Vpgoxw=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49616\nfileID=1000022895",
+        "Name": "Let there be Flowers-49616-1-0-1567346470.7z",
+        "Size": 116244,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Laulajatar",
+          "Description": "This mod adds some flowers to a few ground textures.",
+          "FileID": 1000022895,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49616/49616-1567344743-385176013.png",
+          "IsNSFW": false,
+          "ModID": 49616,
+          "Name": "Let there be Flowers",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7yiSWqGh1uw=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=51105\nfileID=1000028054",
+        "Name": "Let There Be Flowers - Custom Density-51105-1-0-0-1623176638.zip",
+        "Size": 717,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "A beginner-friendly modding guide that brings the spirit of vanilla plus all the way to the lands of Cyrodiil!",
+          "FileID": 1000028054,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51105/51105-1623418380-1735017601.png",
+          "IsNSFW": false,
+          "ModID": 51105,
+          "Name": "Through the Valleys - PushTheWinButton\u0027s Vanilla Plus Modding Guide",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "a2f3HxiQADw=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=8497\nfileID=7019",
+        "Name": "Light Spell Recolor-8497.zip",
+        "Size": 2073,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "acidrain226",
+          "Description": "Light Spell Recolor by acidrain226\r\n=========\r\nDESCRIPTION\r\n=========\r\nI\\\u0027ve always hated the default bright green color of the light spell so I created this mod. Now you have a choice of Torch, White, Blue, Lite Blue or Red. Color suggestions are welcome.\r\n\r\n==========\r\nINSTRUCTIONS\r\n==========\r\nSimply extract to your Oblivion/Data folder and ac",
+          "FileID": 7019,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/8497-1191286661.jpg",
+          "IsNSFW": false,
+          "ModID": 8497,
+          "Name": "Light Spell Recolor",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DcNbCPSTKjU=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=46131\nfileID=1000017916",
+        "Name": "Lights of Oblivion - Bravil Mesh-46131-1-5.7z",
+        "Size": 1036799,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "monkeyangie",
+          "Description": "Adds exterior light posts to all the main roads of Cyrodiil, and lanterns to settlements and inns. You can choose between 6 different light posts.",
+          "FileID": 1000017916,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/46131/46131-1581729307-745385457.jpeg",
+          "IsNSFW": false,
+          "ModID": 46131,
+          "Name": "Lights of Oblivion - Road Lanterns",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "a2zD+DHk62w=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50137\nfileID=1000024826",
+        "Name": "Mankars Mythic Robe Replacer-50137-1-1590171789.7z",
+        "Size": 2202684,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "me",
+          "Description": "Replaces and retextures Mankar Camorans robes to be coloured in such a way befitting of the leader of the Mythic Dawn instead of his clothing just having the base Arch Mage texture.",
+          "FileID": 1000024826,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50137/50137-1590171525-1923959025.jpeg",
+          "IsNSFW": false,
+          "ModID": 50137,
+          "Name": "Mankar Camoran - Mythic Styled Robe Replacer",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ImkJoiQG1F4=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50204\nfileID=1000025163",
+        "Name": "Mercantile Experience Fix - Selling Only-50204-1-01-1593520752.zip",
+        "Size": 1096,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "Fixes Mercantile experience gains in the simplest available method. Nothing more, nothing less. Just vanilla\u2014fixed.",
+          "FileID": 1000025163,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50204/50204-1592763298-1923386269.png",
+          "IsNSFW": false,
+          "ModID": 50204,
+          "Name": "Mercantile Experience Fix - Simplified",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KRHHITeft48=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=51105\nfileID=1000028819",
+        "Name": "NAO - Even Brighter Nights and Closer Fog-51105-1-1-0-1630159766.7z",
+        "Size": 2515,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "A beginner-friendly modding guide that brings the spirit of vanilla plus all the way to the lands of Cyrodiil!",
+          "FileID": 1000028819,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51105/51105-1623418380-1735017601.png",
+          "IsNSFW": false,
+          "ModID": 51105,
+          "Name": "Through the Valleys - PushTheWinButton\u0027s Vanilla Plus Modding Guide",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mIeGb3RrHt8=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50923\nfileID=1000027251",
+        "Name": "NAO - Natural and Atmospheric Oblivion-50923-1-0-1616065545.zip",
+        "Size": 6862198,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "L00",
+          "Description": "Cleanest, lightweight and consistent weather overhaul for Oblivion.",
+          "FileID": 1000027251,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50923/50923-1616059102-647084758.jpeg",
+          "IsNSFW": false,
+          "ModID": 50923,
+          "Name": "NAO - Natural and Atmospheric Oblivion",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EcGKuZ44IfU=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50109\nfileID=1000030154",
+        "Name": "No Backwards Running - Simplified and Improved-50109-1-1-0-1643581164.7z",
+        "Size": 883,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "Disables the ability to run backwards by forcing you to walk instead. Stand and fight or flee\u2014none of this kiting backwards malarkey. Simplest implementation of this concept available on the Nexus.",
+          "FileID": 1000030154,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50109/50109-1590312947-597854293.jpeg",
+          "IsNSFW": false,
+          "ModID": 50109,
+          "Name": "No Backwards Running - Simplified and Improved",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HJt2tmOZQ7A=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49816\nfileID=1000023644",
+        "Name": "No more crosshair - Vanilla-49816-1-0-1578323008.7z",
+        "Size": 39706,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Laulajatar",
+          "Description": "Removes the crosshair from Rythe Lythandas\u0027 painting. Bethesda, plz.",
+          "FileID": 1000023644,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49816/49816-1578321231-1176985997.png",
+          "IsNSFW": false,
+          "ModID": 49816,
+          "Name": "No more crosshair on Rythe\u0027s painting",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "s7EhfCCVN3g=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=51324\nfileID=1000028736",
+        "Name": "Oblivion Character Overhaul Cleaned-51324-1-0-0-1629621814.7z",
+        "Size": 1039905,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "A plugin replacer for Oblivion Character Overhaul that removes all dirty edits and ITM records. Optionally restores vanilla hairs.",
+          "FileID": 1000028736,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51324/51324-1629634885-2089925039.png",
+          "IsNSFW": false,
+          "ModID": 51324,
+          "Name": "Oblivion Character Overhaul Cleaned - OCO Cleaned",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "h1JuMMsKz9o=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=51324\nfileID=1000028737",
+        "Name": "Oblivion Character Overhaul Cleaned - Vanilla Hair-51324-1-0-0-1629621931.7z",
+        "Size": 25790,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "A plugin replacer for Oblivion Character Overhaul that removes all dirty edits and ITM records. Optionally restores vanilla hairs.",
+          "FileID": 1000028737,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51324/51324-1629634885-2089925039.png",
+          "IsNSFW": false,
+          "ModID": 51324,
+          "Name": "Oblivion Character Overhaul Cleaned - OCO Cleaned",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OnTl9P54P7k=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=48557\nfileID=1000028822",
+        "Name": "OCOv2 - DLC Faces-48557-1-3-1630180049.7z",
+        "Size": 17723,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dispensation",
+          "Description": "Fix for Oblivion Character Overhaul v2.",
+          "FileID": 1000028822,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/48557/48557-1553766154-1303653577.png",
+          "IsNSFW": false,
+          "ModID": 48557,
+          "Name": "Oblivion Character Overhaul V2 - DLC Faces",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ECp/FdiILYs=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=44676\nfileID=1000007063",
+        "Name": "Oblivion Character Overhaul v203-44676-2-03.zip",
+        "Size": 180400201,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "nuska",
+          "Description": "A comprehensive, all-in-one revamp of Oblivion character heads. New head shapes, skin textures, normal maps, eye textures and some new hairstyles covering all races in the game, including Dremoras and Shivering Isles races, all built to a single unified art direction that adheres to the styles of Skyrim and TESO. Affects both player and NPCs.",
+          "FileID": 1000007063,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/44676-1-1387664956.jpg",
+          "IsNSFW": false,
+          "ModID": 44676,
+          "Name": "Oblivion Character Overhaul version 2",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CTKVS69tAbA=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=48413\nfileID=1000019109",
+        "Name": "Potion Bottle Variation-48413-1-00.zip",
+        "Size": 1502,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "Restores the cut vanilla potion colour variations using a single lightweight script to avoid conflicts.",
+          "FileID": 1000019109,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/48413/48413-1521387815-477420718.png",
+          "IsNSFW": false,
+          "ModID": 48413,
+          "Name": "Potion Bottle Variation Restoration",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qxymzVqdhgc=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50101\nfileID=1000025088",
+        "Name": "Practical Training-50101-1-01-1592852909.zip",
+        "Size": 1827,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "Makes unused training sessions rollover into the next level, and training costs are now dependent on the trainer\u0027s disposition and skill.",
+          "FileID": 1000025088,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50101/50101-1592497099-862181454.png",
+          "IsNSFW": false,
+          "ModID": 50101,
+          "Name": "Practical Training",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Dqx5iTcqHg8=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49893\nfileID=1000029541",
+        "Name": "Quest NPCs Run-49893-1-6-1636718035.7z",
+        "Size": 1444,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dispensation",
+          "Description": "Makes slow walking quest NPCs run.",
+          "FileID": 1000029541,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49893/49893-1581514988-1224035926.jpeg",
+          "IsNSFW": false,
+          "ModID": 49893,
+          "Name": "Quest NPCs Run",
+          "Version": "1.6.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Q0fPrMCQNzM=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=14342\nfileID=18089",
+        "Name": "Really_Better_Tiling_Grass_1dot1-14342.7z",
+        "Size": 1556550,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Brumbek",
+          "Description": "Another grass tiling mod! This one combines the best of them all. Look at the pics to see if you like it. It\\\u0027s great! ;)",
+          "FileID": 18089,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/14342-1-1198049297.jpg",
+          "IsNSFW": false,
+          "ModID": 14342,
+          "Name": "Really Better Tiling Grass",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EsahQzFjXlc=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=12909\nfileID=14511",
+        "Name": "Silent Tracks Expanded v1.0-12909.zip",
+        "Size": 118462,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sneakstep",
+          "Description": "Hi,\r\n\r\nI made a couple of [i]silent tracks[/i] of different length and put them into the explore, public and dungeon folder.\r\n\r\n. 15\\\u0027 - 1x\r\n. 30\\\u0027 - 2x\r\n. 45\\\u0027 - 2x\r\n. 60\\\u0027 - 2x\r\n. 90\\\u0027 - 1x\r\n\r\nThe effect is great! I didn\\\u0027t like it when one track played after another without any pause. Now there is a random chance of getting a silent ",
+          "FileID": 14511,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/12909-1-1196812272.jpg",
+          "IsNSFW": false,
+          "ModID": 12909,
+          "Name": "Silent Tracks Expanded",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3TyKn4ZvNcY=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=51197\nfileID=1000029132",
+        "Name": "Simple Horse Utilities-51197-1-1-0-1632035803.7z",
+        "Size": 1924421,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "Adds simple, vanilla-friendly saddlebags to all vanilla and DLC horses and follow/wait commands.",
+          "FileID": 1000029132,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51197/51197-1625988864-149625682.png",
+          "IsNSFW": false,
+          "ModID": 51197,
+          "Name": "Simple Horse Utilities - Saddlebags and Follow-Wait Commands",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "N20/bI5yG2w=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=51122\nfileID=1000028126",
+        "Name": "Simple Saves Plus-51122-1-0-4-1623694930.zip",
+        "Size": 2614,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "A lightweight mod that automatically creates saves at customisable intervals and when you level up. Replaces the buggy vanilla autosave system.",
+          "FileID": 1000028126,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51122/51122-1623355336-1000078519.jpeg",
+          "IsNSFW": false,
+          "ModID": 51122,
+          "Name": "Simple Saves Plus",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ut5x8h25cM8=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=15317\nfileID=20621",
+        "Name": "Tycho Shield On Back 3_1-15317.zip",
+        "Size": 1205102,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tycho",
+          "Description": "This is a revival of my previous mod, Tycho\\\u0027s Shield On Back 2.0. That\r\nversion, while it functioned, was quite buggy and didnt work for alot of\r\nshields. \r\n\r\nThis version however, will! Due to some updates to OBSE (Oblivion Script\r\nExtender) the mod has had some new life breathed into it:",
+          "FileID": 20621,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/15317-1-1203105798.jpg",
+          "IsNSFW": false,
+          "ModID": 15317,
+          "Name": "Tychos Shield On Back Revived",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Y2vcnTGKTIE=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=51112\nfileID=1000028284",
+        "Name": "Simple Shield on Back-51112-2-0-3-1625412438.zip",
+        "Size": 53847,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "A highly optimised alternative to the original Shield on Back plugins, completely rebuilt with heavily reduced scripting. Shields will be displaced from the players arm to the back whenever weapons are sheathed.",
+          "FileID": 1000028284,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51112/51112-1622970162-1220146901.jpeg",
+          "IsNSFW": false,
+          "ModID": 51112,
+          "Name": "Simple Shield on Back",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "R6EhpYP1DbM=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=47153\nfileID=1000028105",
+        "Name": "Skill Diary Redone-47153-1-0-1-1623525075.zip",
+        "Size": 5420,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "A diary that tracks useful information about your class, skills, and attribute bonuses. Lightweight - no permanently-running scripts.",
+          "FileID": 1000028105,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/47153-1-1471355071.jpg",
+          "IsNSFW": false,
+          "ModID": 47153,
+          "Name": "Skill Diary Redone",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "22PQct3RIBY=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49612\nfileID=1000028079",
+        "Name": "Static Alchemy and Ingredient Storage-49612-1-0-1-1623416379.zip",
+        "Size": 2068630,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "Adds static alchemy apparatus and automatic shared ingredient storage to several locations across Cyrodiil and the Shivering Isles. Lightweight and designed to fit in with the vanilla game seamlessly.",
+          "FileID": 1000028079,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49612/49612-1567280726-91982048.png",
+          "IsNSFW": false,
+          "ModID": 49612,
+          "Name": "Static Alchemy and Ingredient Storage",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "whia3alKehs=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50141\nfileID=1000025044",
+        "Name": "Teleportation Services-50141-1-02-1592424717.zip",
+        "Size": 14694,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "This mod adds two teleportation networks to Cyrodiil that act as simple and vanilla-friendly fast travel alternatives.",
+          "FileID": 1000025044,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50141/50141-1590258271-1340124709.jpeg",
+          "IsNSFW": false,
+          "ModID": 50141,
+          "Name": "Teleportation Services - Simple Fast Travel Alternatives",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4AdWelbwbnE=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=48226\nfileID=1000018326",
+        "Name": "Thieves Den Barter for Upgrades-48226-1-0.zip",
+        "Size": 2539,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Migck",
+          "Description": "Makes you have to buy the upgrades for Dunbarrow Cove with your Mercantile skill, like every other DLC, instead of buying them from dialog topics with a fixed price.",
+          "FileID": 1000018326,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/48226-0-1512756422.jpg",
+          "IsNSFW": false,
+          "ModID": 48226,
+          "Name": "Thieves Den Barter for Upgrades",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/Yl6KFd0kD0=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=51105\nfileID=1000030226",
+        "Name": "Through the Valleys - Complete Patch-51105-1-1-4-1644143483.7z",
+        "Size": 1468759,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "A beginner-friendly modding guide that brings the spirit of vanilla plus all the way to the lands of Cyrodiil!",
+          "FileID": 1000030226,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51105/51105-1623418380-1735017601.png",
+          "IsNSFW": false,
+          "ModID": 51105,
+          "Name": "Through the Valleys - PushTheWinButton\u0027s Vanilla Plus Modding Guide",
+          "Version": "1.1.4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MLZa5xUKG1w=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=13033\nfileID=53122",
+        "Name": "TravelersCloaks_20-13033.7z",
+        "Size": 21968494,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Oriius",
+          "Description": "High-Resolution cloaks for all, now with new meshes!",
+          "FileID": 53122,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/13033-2-1261683135.jpg",
+          "IsNSFW": false,
+          "ModID": 13033,
+          "Name": "Travelers Cloaks",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KbC9NULEhCE=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=9969\nfileID=1000029465",
+        "Name": "Unofficial Oblivion DLC Patches-9969-25-1635879747.7z",
+        "Size": 4650540,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Quarn and Kivan and Arthmoor and PrinceShroob",
+          "Description": "The aim of this mod is to fix the bugs existing in the official mods released by Bethesda.",
+          "FileID": 1000029465,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/9969-2-1214077025.jpg",
+          "IsNSFW": false,
+          "ModID": 9969,
+          "Name": "Unofficial Oblivion DLC Patches",
+          "Version": "25.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TtfoFW7IA90=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=5296\nfileID=1000029461",
+        "Name": "Unofficial Oblivion Patch-5296-3-5-7-1635873247.7z",
+        "Size": 157541088,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Quarn and Kivan and Arthmoor and PrinceShroob",
+          "Description": "An Oblivion mod that fixes over 2,500 bugs (and 70,000 object placement errors.)",
+          "FileID": 1000029461,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/5296-1-1212820183.jpg",
+          "IsNSFW": false,
+          "ModID": 5296,
+          "Name": "Unofficial Oblivion Patch",
+          "Version": "3.5.7.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "66elHepTGDU=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=10739\nfileID=1000029462",
+        "Name": "Unofficial Shivering Isles Patch-10739-1-6-0-1635878152.7z",
+        "Size": 38746210,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Quarn and Kivan and Arthmoor and PrinceShroob",
+          "Description": "This mod is a joint effort to fix the vast amount of bugs currently existing in the Shivering Isles expansion pack for Oblivion v1.2.0416.",
+          "FileID": 1000029462,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/10739-1-1215225594.jpg",
+          "IsNSFW": false,
+          "ModID": 10739,
+          "Name": "Unofficial Shivering Isles Patch",
+          "Version": "1.6.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WmQvuZ2RPNg=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50052\nfileID=1000024547",
+        "Name": "VWD for Leyawiin-50052-1-1-1587511322.7z",
+        "Size": 89336,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Laulajatar",
+          "Description": "This mod adds VWD models for houses into the tamriel worldspace for Leyawiin.",
+          "FileID": 1000024547,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50052/50052-1587309783-302304161.png",
+          "IsNSFW": false,
+          "ModID": 50052,
+          "Name": "VWD for Leyawiin",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SlHN8vF+95Q=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=48729\nfileID=1000028337",
+        "Name": "Wayshrine Map Markers-48729-1-1-1625678280.7z",
+        "Size": 1483,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mixxa77",
+          "Description": "Places map markers at all Wayshrines across Cyrodiil. They are not marked on your map, you will have to find them on your own, but after discovering one, you can now Fast-Travel to them. | Based on Mezlo\u0027s \u0022Wayshrine Map Markers\u0022 mod.",
+          "FileID": 1000028337,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/48729/48729-1533914594-1024550227.jpeg",
+          "IsNSFW": false,
+          "ModID": 48729,
+          "Name": "Wayshrine Map Markers - Redux",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "n5leRMKRqho=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=51123\nfileID=1000028074",
+        "Name": "Wooden Bow Names-51123-1-0-0-1623356472.zip",
+        "Size": 713,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "Renames all Iron and Steel bows to more logical wooden names. Affects all Iron and Steel bows, including those added by Shivering Isles.",
+          "FileID": 1000028074,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51123/51123-1623356366-119139987.jpeg",
+          "IsNSFW": false,
+          "ModID": 51123,
+          "Name": "Wooden Bow Names",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xkNTmrTDOow=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49615\nfileID=1000025148",
+        "Name": "Far Cry inspired Grass - Expanded-49615-1-1-1593214108.7z",
+        "Size": 3150874,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Laulajatar",
+          "Description": "This mod takes the Far Cry inspired grass by betty and expands it to other areas of Cyrodiil and even the Shivering Isles and the Paradise.",
+          "FileID": 1000025148,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49615/49615-1567337044-1259773105.png",
+          "IsNSFW": false,
+          "ModID": 49615,
+          "Name": "Far Cry inspired Grass - Expanded",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gZruVY5oikU=",
+        "Meta": "[General]\ngameName=Oblivion\ngameFile=Data\\Oblivion - Meshes.bsa",
+        "Name": "Data_Oblivion - Meshes.bsa",
+        "Size": 671405897,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Oblivion",
+          "GameFile": "Data\\Oblivion - Meshes.bsa",
+          "GameVersion": "1.2.0416",
+          "Hash": "gZruVY5oikU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/ebEaxqtCWo=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50088\nfileID=1000024630",
+        "Name": "Really Textured Normal Maps - Updated-50088-1-0-1588502179.7z",
+        "Size": 557389489,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jarod",
+          "Description": "Attempts to fix some issues the original Really Textured Normal Maps for Vanilla mod had.",
+          "FileID": 1000024630,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50088/50088-1588501315-1616982641.png",
+          "IsNSFW": false,
+          "ModID": 50088,
+          "Name": "Really Textured Normal Maps - Updated",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "e5EQf250wbo=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=48832\nfileID=1000020497",
+        "Name": "Simple Better Inventory-48832-1-4-2.7z",
+        "Size": 26312,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Spychopat",
+          "Description": "Makes items and spells a bit smaller in inventory.\n\nAlso makes inventory and map windows larger.",
+          "FileID": 1000020497,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/48832/48832-1538908090-1384202266.jpeg",
+          "IsNSFW": false,
+          "ModID": 48832,
+          "Name": "Simple Better Inventory And Map",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GGw31PoTPFs=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=51354\nfileID=1000028839",
+        "Name": "Simple Sunglare with Lens Flare-51354-1-0-1630267265.7z",
+        "Size": 431421,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Laulajatar",
+          "Description": "This is just a simple retexture of the Oblivion sunglare.",
+          "FileID": 1000028839,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51354/51354-1630266508-1745309227.png",
+          "IsNSFW": false,
+          "ModID": 51354,
+          "Name": "Simple Sunglare with Lens Flare",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QuCSQzYHfWo=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45111\nfileID=1000006811",
+        "Name": "TIBs Compact Quivers - Manual Install - SI-45111-1-0.rar",
+        "Size": 396272,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TheInkBunny",
+          "Description": "This mod replaces every vanilla quiver in Oblivion with more narrow variants.",
+          "FileID": 1000006811,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45111-1-1411447613.png",
+          "IsNSFW": false,
+          "ModID": 45111,
+          "Name": "TIBs Compact Quivers - Thinner Arrow Holders",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "m1VuNHg2BvY=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45111\nfileID=1000006810",
+        "Name": "TIBs Compact Quivers - Manual Install-45111-1-0.rar",
+        "Size": 451601,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TheInkBunny",
+          "Description": "This mod replaces every vanilla quiver in Oblivion with more narrow variants.",
+          "FileID": 1000006810,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45111-1-1411447613.png",
+          "IsNSFW": false,
+          "ModID": 45111,
+          "Name": "TIBs Compact Quivers - Thinner Arrow Holders",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XygbFG7z3cc=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50073\nfileID=1000024591",
+        "Name": "VWD for Town Houses-50073-1-0-1587862794.7z",
+        "Size": 280619,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Laulajatar",
+          "Description": "This mod adds VWD models for all town house models.",
+          "FileID": 1000024591,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50073/50073-1587859680-723965306.png",
+          "IsNSFW": false,
+          "ModID": 50073,
+          "Name": "VWD for Town Houses",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Drq939s5bBY=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50111\nfileID=1000024802",
+        "Name": "VWD Ships-50111-1-01-1590002632.7z",
+        "Size": 240101,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "elpattos",
+          "Description": "Some simple *_far meshes for vanilla (and some mods) ships, making them visible on the distance. Little to no performance impact.",
+          "FileID": 1000024802,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50111/50111-1590572358-943145552.png",
+          "IsNSFW": false,
+          "ModID": 50111,
+          "Name": "VWD Ships",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "b97Iy2/uNKI=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=51732\nfileID=1000030182",
+        "Name": "J3 Atlassed VWD 2 - Cyrodiil-51732-1-0-1643738951.7z",
+        "Size": 34965817,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "JESSETIN3",
+          "Description": "JAVWD2.  A mod that adds optimized VWD/LOD models with a single texture atlas per world space.",
+          "FileID": 1000030182,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51732/51732-1643737901-848606448.jpeg",
+          "IsNSFW": false,
+          "ModID": 51732,
+          "Name": "J3 Atlassed VWD 2",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FHNlTfxMxSA=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=17300\nfileID=25150",
+        "Name": "Landscape LOD Textures by Xerus-17300.7z",
+        "Size": 60743643,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xerus",
+          "Description": "This mod replaces the vanilla landscape LOD textures in Cyrodiil and Shivering Isles with improved textures. Thus, the visual quality of the distant landscape will increase, without a significant performance impact.",
+          "FileID": 25150,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/17300-5-1211595757.jpg",
+          "IsNSFW": false,
+          "ModID": 17300,
+          "Name": "Landscape LOD Textures by Xerus",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BsCouh6rMfA=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=47072\nfileID=1000014360",
+        "Name": "Lunas Darker Glass Equipment Textures 1.1-47072-1-1.7z",
+        "Size": 6044666,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Lunasprite13",
+          "Description": "Changes all glass equipment textures to be a nice dark green, instead of looking radioactive. Based on Nuska\u0027s textures, but for all equipment.",
+          "FileID": 1000014360,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/47072-2-1468506302.jpg",
+          "IsNSFW": false,
+          "ModID": 47072,
+          "Name": "Lunas Darker Glass Equipment Textures",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "i+mSF/NOuUo=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50066\nfileID=1000024557",
+        "Name": "OBLModLimitFix-50066-1-0-1587582618.zip",
+        "Size": 70725,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "iranrmrf",
+          "Description": "This plugin fixes the Oblivion mod limit bug. It allows a maximum of 255 plugins to be loaded.",
+          "FileID": 1000024557,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50066/50066-1587582470-30531017.png",
+          "IsNSFW": false,
+          "ModID": 50066,
+          "Name": "OBL Mod Limit Fix",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2QVl60Neqts=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50348\nfileID=1000025586",
+        "Name": "Oblivion Display Tweaks-50348-1-3-1597794116.zip",
+        "Size": 76168,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ersh",
+          "Description": "Micro stutter tick fix, high framerate fix, true FOV fix, alt-tab freeze fix in fullscreen and G-Sync/FreeSync working in borderless/windowed mode.",
+          "FileID": 1000025586,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50348/50348-1597384220-354790620.png",
+          "IsNSFW": false,
+          "ModID": 50348,
+          "Name": "Oblivion Display Tweaks",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Zt7QvzsY/bA=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49595\nfileID=1000027797",
+        "Name": "Optimized VWD-49595-2-0-1621031055.7z",
+        "Size": 1530886,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "qwerty",
+          "Description": "Manually made models for distant objects with next to none performance impact.",
+          "FileID": 1000027797,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49595/49595-1566850824-841872927.jpeg",
+          "IsNSFW": false,
+          "ModID": 49595,
+          "Name": "Optimized VWD",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DhG52ytoNW8=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49568\nfileID=1000022815",
+        "Name": "SkyBSA-49568-1-1-0-1566477186.zip",
+        "Size": 61045,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DavidJCobb",
+          "Description": "An OBSE DLL that forces Oblivion to handle BSAs and loose files the same way that Skyrim does. No more mucking around with file timestamps!",
+          "FileID": 1000022815,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49568/49568-1565722507-1458560039.png",
+          "IsNSFW": false,
+          "ModID": 49568,
+          "Name": "SkyBSA",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LzWTvpVDxmE=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49067\nfileID=1000022312",
+        "Name": "WalkBlessed-49067-Beta15-5-1560188414.7z",
+        "Size": 83229,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "cOJzZ",
+          "Description": "diagonal movements, when in bow aiming rotate 3rd person spine2 to look up and down, skyrim-like vanity camera mode.",
+          "FileID": 1000022312,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49067/49067-1546161016-238899350.jpeg",
+          "IsNSFW": false,
+          "ModID": 49067,
+          "Name": "WalkBlessed OBSE Plugin (diagonal move)",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OoIMZz9Mg1w=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45760\nfileID=1000008660",
+        "Name": "Better Necks for OCOv2-45760-1-0.rar",
+        "Size": 11028549,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OminousVoice ",
+          "Description": "Addon to OCOv2. Adds neck definition and wrinkly necks to characters.",
+          "FileID": 1000008660,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45760-1-1419010204.jpg",
+          "IsNSFW": false,
+          "ModID": 45760,
+          "Name": "Better Necks for OCOv2",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uzeD8Y+kj0o=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=47467\nfileID=1000017182",
+        "Name": "Lifelike Eyes OCOv2-47467-1-1-11.rar",
+        "Size": 932042,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "User_1926808",
+          "Description": "Adds eye normalmaps to make the iris reflect light more properly.",
+          "FileID": 1000017182,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/47467-1-1483044675.png",
+          "IsNSFW": false,
+          "ModID": 47467,
+          "Name": "Lifelike Eye Normalmaps",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3fv4kX5zGfI=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=48199\nfileID=1000018239",
+        "Name": "New Brows for OCO v2-48199-1-0.7z",
+        "Size": 2946452,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "monkeyangie",
+          "Description": "New brows",
+          "FileID": 1000018239,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/48199/48199-1581728292-1678622793.jpeg",
+          "IsNSFW": false,
+          "ModID": 48199,
+          "Name": "New Brows for OCO v2",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "N500VUqFsSc=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=46995\nfileID=1000018581",
+        "Name": "New Eyes for OCOv2-46995-1-5.7z",
+        "Size": 700839,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "monkeyangie",
+          "Description": "New eye textures for OCO v2",
+          "FileID": 1000018581,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/46995/46995-1581728927-1396655411.jpeg",
+          "IsNSFW": false,
+          "ModID": 46995,
+          "Name": "New Eyes for OCO v2",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "V23pkTLDWsA=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45858\nfileID=1000027737",
+        "Name": "SE- HGEC CORE 24078-45858-1-2-1620733697.7z",
+        "Size": 18417294,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "junkacc11",
+          "Description": "Seamless Equipment Replacer for HGEC EVE -- Bodies, Armors, \u0026amp; Clothes",
+          "FileID": 1000027737,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45858/45858-1620958626-408384881.jpeg",
+          "IsNSFW": false,
+          "ModID": 45858,
+          "Name": "Seamless - HGEC Female",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sBqQbSJkJVM=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45864\nfileID=1000027821",
+        "Name": "SE- Robert Male v5.2 CORE-45864-1-4a-1621135355.7z",
+        "Size": 95743001,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "junkacc11",
+          "Description": "Seamless Equipment Replacer for Robert Male Body v5.2 -- Bodies, Armors, \u0026amp; Clothes",
+          "FileID": 1000027821,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45864/45864-1620976312-1886666551.jpeg",
+          "IsNSFW": false,
+          "ModID": 45864,
+          "Name": "Seamless - Robert Male",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PKohDLZp9Nk=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45859\nfileID=1000027820",
+        "Name": "SR- OCOv2 44676-45859-1-5a-1621134647.7z",
+        "Size": 112244755,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "junkacc11",
+          "Description": "Seamless Replacers for OCOv2\u0027s Heads and Textures.",
+          "FileID": 1000027820,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45859/45859-1620953582-927093649.jpeg",
+          "IsNSFW": false,
+          "ModID": 45859,
+          "Name": "Seamless - OCOv2",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sbyn0bAV1E0=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=11954\nfileID=12268",
+        "Name": "Vanilla Hair Replacer-11954.7z",
+        "Size": 743420,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "",
+          "Description": "Vanilla Hair Replacer, by throttlekitty\r\n\r\nThis is a simple mod:  It replaces the default hair texture for most of Oblivion\\\u0027s hairstyles with one of my own making.   This is simply to offer variety to anyone wishing it, that\\\u0027s all :)  This retexture is hand painted, rather than a photograph, and I am quite pleased with the result, I hope that",
+          "FileID": 12268,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/11954-1191518542.jpg",
+          "IsNSFW": false,
+          "ModID": 11954,
+          "Name": "Vanilla Hair Replacer",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pwOOu90B+Xc=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=44678\nfileID=1000005379",
+        "Name": "Female Chainmail armor replacer-44678-1-0.zip",
+        "Size": 1952367,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "nuska",
+          "Description": "Replacers for vanilla female armor. Fully covering sets reworked from male versions to fit a female figure. Works with any body replacer.",
+          "FileID": 1000005379,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/44678-1-1387126105.jpg",
+          "IsNSFW": false,
+          "ModID": 44678,
+          "Name": "Assorted Protective Female Armors",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BuJ56Tx/+Pk=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=44678\nfileID=1000005365",
+        "Name": "Female Glass Armor replacer and retexture-44678-1-0.zip",
+        "Size": 2334618,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "nuska",
+          "Description": "Replacers for vanilla female armor. Fully covering sets reworked from male versions to fit a female figure. Works with any body replacer.",
+          "FileID": 1000005365,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/44678-1-1387126105.jpg",
+          "IsNSFW": false,
+          "ModID": 44678,
+          "Name": "Assorted Protective Female Armors",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Pu2NXdVKl8s=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=47068\nfileID=1000014353",
+        "Name": "Character Overhaul Face Paint Remover-47068-.zip",
+        "Size": 79165,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LegoManIAm94",
+          "Description": "Removes face paint from all NPCs when using OCO.",
+          "FileID": 1000014353,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/47068-1-1468475126.jpg",
+          "IsNSFW": false,
+          "ModID": 47068,
+          "Name": "Oblivion OCO Face Paint Remover",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "X/SlfLbHuCc=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=46889\nfileID=1000013545",
+        "Name": "Faster Dungeon Doors-46889-.zip",
+        "Size": 495142,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Betty",
+          "Description": "Replaces the doors in Fort-dungeons with a faster moving version.\r\n\nIt are just the models, no new textures.",
+          "FileID": 1000013545,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/46889-0-1461057343.jpg",
+          "IsNSFW": false,
+          "ModID": 46889,
+          "Name": "Faster Dungeon Doors",
+          "Version": "0.0.0.0"
+        }
+      }
+    }
+  ],
+  "Status": "Available",
   "Failures": 0,
-  "SmallImage": null,
-  "LargeImage": null
+  "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/9113e064034d321f_small.webp",
+  "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/9113e064034d321f_large.webp"
 }

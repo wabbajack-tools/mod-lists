@@ -1,11 +1,10 @@
 ## Validation Report - Aldrnari (wj-featured/aldrnari)
 
 
-### Invalid (1)
-*  [[full_inu] Armor Pack 01 SSE.7z](https://drive.google.com/uc?id=1sWA6ufBaLZuJm3qWQMaXEfbNHHDnimCk&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2583)
+### Valid (2584)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0.0) SELUA - Solitude Exterior LOD Unlocker Advocate II-36116-1-1-1605036920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169508)
 *  [(1.1) The Great City of Solitude PATCH - Solitude Skyway SE - Drengin's Blue Palace Terrace (STD)-36116-1-1-1604648419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=168848)
@@ -26,6 +25,7 @@
 *  [[Christine] Dragon Slaughter.7z](https://www.mediafire.com/file/zc5p0x3lrhc5kz2/%5BChristine%5D+Dragon+Slaughter.7z/file)
 *  [[Dint999] HairPack02 SSE (v0.09).7z](https://drive.google.com/uc?id=1WOviY3mC7Zc9Nx408BTAMXK9DIdiwzeK&export=download)
 *  [[full_inu] Ada Wong Coat SSE.7z](https://drive.google.com/uc?id=1tNy4_FW4U73b3HyukOU9dB_bkJAmJUY_&export=download)
+*  [[full_inu] Armor Pack 01 SSE.7z](https://drive.google.com/uc?id=1sWA6ufBaLZuJm3qWQMaXEfbNHHDnimCk&export=download)
 *  [[full_inu] Elise's Evening Dress SSE.7z](https://drive.google.com/uc?id=1KWOAiCCxjbjFwk5ffcCM_0yx8gaPJWCN&export=download)
 *  [[full_inu] Eredrim, the Venerable SSE.7z](https://drive.google.com/uc?id=1KJnotWmn525OugyJOxAdHgtrQ-hDHPMM&export=download)
 *  [[full_inu] Galahad Renegade Coat SSE.7z](https://drive.google.com/uc?id=1pRRSPyfHG71V3RyL3K1Z7cCuXnnHVfi8&export=download)
