@@ -1,4 +1,4 @@
-## Validation Report - Do Not Go Gentle (Animonculory/Do Not Go Gentle)
+## Validation Report - Do Not Go Gentle (Animonculory/dngg)
 
 
 ### Invalid (0)
