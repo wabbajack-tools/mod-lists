@@ -1,11 +1,10 @@
 ## Validation Report - Krahven (Animonculory/Krahven)
 
 
-### Invalid (1)
-*  [Serenity 3DNPC BSA Proper.7z](https://build.wabbajack.org/authored_files/direct_link/Serenity 3DNPC BSA Proper.7z_5f4f4e64-4c67-42ee-b249-de8277cc67a5)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (993)
+### Valid (994)
 *  [(Part 1) SSE Engine Fixes for 1.6.xxx-17230-6-0-2-1637784396.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [(SGC) NASC-32996-1-1-1630160159.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32996/?tab=files&file_id=224384)
@@ -807,6 +806,7 @@
 *  [Sepia - Smoothcam preset-46614-1-2-1619558851.rar](https://www.nexusmods.com/skyrimspecialedition/mods/46614/?tab=files&file_id=200538)
 *  [Septentrional Landscapes 2K-29842-1-3-2-1588173223.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29842/?tab=files&file_id=136963)
 *  [Septims Have Weight (Really good balance - 0.05 weight)-2468-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2468/?tab=files&file_id=3852)
+*  [Serenity 3DNPC BSA Proper.7z](https://build.wabbajack.org/authored_files/direct_link/Serenity 3DNPC BSA Proper.7z_5f4f4e64-4c67-42ee-b249-de8277cc67a5)
 *  [Serio's Cycle Hotkeys-27184-1-02-1566958021.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27184/?tab=files&file_id=104568)
 *  [Seriously Improved Sparks-61478-1-0-1641581927.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61478/?tab=files&file_id=254782)
 *  [Set - Half Resolution-69934-1-0-1655677524.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69934/?tab=files&file_id=292417)

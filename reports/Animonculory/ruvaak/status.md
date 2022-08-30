@@ -1,11 +1,10 @@
 ## Validation Report - Ruvaak (Animonculory/ruvaak)
 
 
-### Invalid (1)
-*  [Serenity 3DNPC BSA Proper.7z](https://build.wabbajack.org/authored_files/direct_link/Serenity 3DNPC BSA Proper.7z_5f4f4e64-4c67-42ee-b249-de8277cc67a5)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1389)
+### Valid (1390)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
@@ -1069,6 +1068,7 @@
 *  [Security Overhaul SKSE - Some More Locks-59961-1-0-1641413422.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59961/?tab=files&file_id=254215)
 *  [Sensible Bribes-55450-1-0-1631440752.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55450/?tab=files&file_id=227830)
 *  [SeranaDialogEdit v 102-16222-1-02.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16222/?tab=files&file_id=59083)
+*  [Serenity 3DNPC BSA Proper.7z](https://build.wabbajack.org/authored_files/direct_link/Serenity 3DNPC BSA Proper.7z_5f4f4e64-4c67-42ee-b249-de8277cc67a5)
 *  [Settlements Expanded SE-7777-1-3-1546545748.7z](https://www.nexusmods.com/skyrimspecialedition/mods/7777/?tab=files&file_id=77110)
 *  [Shaders of Solstheim - Ash and Moss-60144-0-2-1-1639998945.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60144/?tab=files&file_id=250507)
 *  [Shadow Duelist Armor (Light)-64092-1-0-1-1645616385.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64092/?tab=files&file_id=266304)
