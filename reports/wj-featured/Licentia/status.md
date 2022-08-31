@@ -5,7 +5,7 @@
 ### Updated (1)
 *  [OSex-17209-2-02SE-Alpha.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17209/?tab=files&file_id=54347)
 ### Mirrored (0)
-### Valid (1349)
+### Valid (1347)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77989)
@@ -416,7 +416,6 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
-*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -938,7 +937,6 @@
 *  [Pandorable's NPCs SE - Salt and Wind Textures-19450-1-2-1556538108.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19450/?tab=files&file_id=90158)
 *  [Pandorable's NPCs SE-19012-1-4-1582680071.rar](https://www.nexusmods.com/skyrimspecialedition/mods/19012/?tab=files&file_id=125965)
 *  [Pandorable's Serana-24931-1-0-1559404031.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24931/?tab=files&file_id=94417)
-*  Papyrus Compiler_PapyrusCompiler.exe
 *  [Papyrus Extender-22854-5-1-0-1652182311.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=282672)
 *  [Papyrus Extender-22854-5-1-1-1656011913.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=293479)
 *  [PapyrusUtil SE - Scripting Utility Functions-13048-3-9-1580810594.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=122686)
