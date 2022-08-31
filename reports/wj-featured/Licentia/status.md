@@ -5,7 +5,7 @@
 ### Updated (1)
 *  [OSex-17209-2-02SE-Alpha.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17209/?tab=files&file_id=54347)
 ### Mirrored (0)
-### Valid (1347)
+### Valid (1349)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77989)
@@ -416,6 +416,7 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
+*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -502,7 +503,7 @@
 *  [ENB Light 0.98 Alpha 2-22574-0-98Alpha2-1577144667.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=117211)
 *  [ENB Light for Apocrypha-64463-0-1-1646291981.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64463/?tab=files&file_id=267781)
 *  [ENB lights for Aetherium Shards SE-54472-1-0-1629895053.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54472/?tab=files&file_id=223662)
-*  [enbseries_skyrimse_v0475.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_3d62efff-5fa0-4a30-a400-dbbd8babfd67)
+*  [enbseries_skyrimse_v0475.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_b1179ed1-f5b0-466f-be4c-dcb478475ea5)
 *  [Encounter Zones Unlocked SE-19608-1-4-1583906933.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19608/?tab=files&file_id=128125)
 *  [Enderal Music for Skyrim Forgotten Stories With Vanilla Music - Recommended-16243-2-1-1570389468.zip](https://www.nexusmods.com/skyrimspecialedition/mods/16243/?tab=files&file_id=109482)
 *  [Enhanced Blood Textures-2357-4-0-1639547261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=249235)
@@ -937,6 +938,7 @@
 *  [Pandorable's NPCs SE - Salt and Wind Textures-19450-1-2-1556538108.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19450/?tab=files&file_id=90158)
 *  [Pandorable's NPCs SE-19012-1-4-1582680071.rar](https://www.nexusmods.com/skyrimspecialedition/mods/19012/?tab=files&file_id=125965)
 *  [Pandorable's Serana-24931-1-0-1559404031.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24931/?tab=files&file_id=94417)
+*  Papyrus Compiler_PapyrusCompiler.exe
 *  [Papyrus Extender-22854-5-1-0-1652182311.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=282672)
 *  [Papyrus Extender-22854-5-1-1-1656011913.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=293479)
 *  [PapyrusUtil SE - Scripting Utility Functions-13048-3-9-1580810594.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=122686)
