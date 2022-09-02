@@ -1,10 +1,11 @@
 ## Validation Report - Aldrnari (wj-featured/aldrnari)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [ADXP+Beta+1.4.2.zip](https://www.skyrim-guild.com/s/ADXP-Beta-142.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2584)
+### Valid (2583)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0.0) SELUA - Solitude Exterior LOD Unlocker Advocate II-36116-1-1-1605036920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169508)
 *  [(1.1) The Great City of Solitude PATCH - Solitude Skyway SE - Drengin's Blue Palace Terrace (STD)-36116-1-1-1604648419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=168848)
@@ -113,7 +114,6 @@
 *  [Addon for Honorhall Orphanage Bugfixes and Expansion-70037-RELZ-1656084206.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70037/?tab=files&file_id=293697)
 *  [Address Library for SKSE Plugins.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32444/?tab=files&file_id=125647)
 *  [Adjusted Visual Animated Enchants (ENB Complex Particle Lights)-50382-1-1-0-1623476382.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50382/?tab=files&file_id=208694)
-*  [ADXP+Beta+1.4.2.zip](https://www.skyrim-guild.com/s/ADXP-Beta-142.zip)
 *  [Aetherial Crown SE-4309-Final.rar](https://www.nexusmods.com/skyrimspecialedition/mods/4309/?tab=files&file_id=8087)
 *  [Afterlife SE-55051-1-2-1-1649204749.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55051/?tab=files&file_id=275123)
 *  [Ahzidal's Armor Set - My version SE - v2-51309-2-2-1655838628.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51309/?tab=files&file_id=292944)
