@@ -1,11 +1,10 @@
 ## Validation Report - Do Not Go Gentle (Animonculory/dngg)
 
 
-### Invalid (1)
-*  [ADXP+Beta+1.4.2.zip](https://www.skyrim-guild.com/s/ADXP-Beta-142.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1226)
+### Valid (1227)
 *  [_Fuse00_ArmorRogue.rar](https://www.patreon.com/file?h=67007517&i=10861552)
 *  [_Fuse00HairPackBraided03.rar](https://www.patreon.com/file?h=64262256&i=10354948)
 *  [_Fuse00TaurielHair.rar](https://www.patreon.com/file?h=62190804&i=11074106)
@@ -61,6 +60,7 @@
 *  [Actor Limit Fix (Anniversary Edition)-32349-6-1648396498.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=273041)
 *  [Additional and fixed meshes-43158-3-9-1643126764.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=259493)
 *  [Adoption without Murder-46741-2-0-1615498476.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46741/?tab=files&file_id=190856)
+*  [ADXP+Beta+1.4.2.zip](https://www.skyrim-guild.com/s/ADXP-Beta-142.zip)
 *  [Aetherial Crown SE-4309-Final.rar](https://www.nexusmods.com/skyrimspecialedition/mods/4309/?tab=files&file_id=8087)
 *  [AI Overhaul 1.8.1-21654-1-8-1-1660499222.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21654/?tab=files&file_id=307505)
 *  [Alchemy Ingredients ENB Light-65509-0-3-1-1649146884.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65509/?tab=files&file_id=274977)
