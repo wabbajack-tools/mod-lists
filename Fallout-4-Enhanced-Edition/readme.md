@@ -67,6 +67,8 @@ NOTE: If you are on Windows 11, update the MO2 Installation using the Update but
 
 ### Step 5.5 (Optional):
 
+**NOTE FOR STREAMERS**: Disable the mod 'Musical Lore - Wasteland Edition', because the author has a tendency to DMCA claim YouTube videos. Sorry about that!
+
 Now, you have a few choices before starting your game. You can follow the simple instructions at the bottom of the left pane of MO2 to decide if you want your Protagonist to talk or not. By default, it will not.
 
 You can also choose to install Pack Attack NPC, which is an AI mod that was removed from the Nexus. You might be able to grab it from the author's discord server [here](https://discord.gg/Kacy6Z5BFM), but there are NO guarantees. Then, place the archive in your downloads folder, and install it like you would any other mod in MO2. If you don't know how to do that, then see [Lively's Learn To Mod](https://github.com/LivelyDismay/Learn-To-Mod/tree/main/lessons). Now, simply place this mod above `F4EE PANPC Patch` in the left pane, and enable both, and you will be good to go, with smarter enemies enabled.
