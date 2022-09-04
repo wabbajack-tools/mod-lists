@@ -67,7 +67,7 @@ NOTE: If you are on Windows 11, update the MO2 Installation using the Update but
 
 ### Step 5.5 (Optional):
 
-**NOTE FOR STREAMERS**: Disable the mod 'Musical Lore - Wasteland Edition', because the author has a tendency to DMCA claim YouTube videos. Sorry about that!
+**NOTE FOR STREAMERS**: Disable the mod 'Musical Lore - Wasteland Edition', because the author has a bot that will Copyright claim YouTube videos. You are free to contact the Author, NirShor, to ask permission to use it, because it does make the atmosphere even better! Sorry about the inconvenience!
 
 Now, you have a few choices before starting your game. You can follow the simple instructions at the bottom of the left pane of MO2 to decide if you want your Protagonist to talk or not. By default, it will not.
 
