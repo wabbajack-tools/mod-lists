@@ -2,7 +2,7 @@
   "MachineURL": "wj-featured/auriels_dream",
   "Name": "Auriels Dream",
   "Version": "10.0.10",
-  "ModListHash": "SrncPLElsXo=",
+  "ModListHash": "5b2JRxolVeM=",
   "Archives": [
     {
       "Status": "Valid",
@@ -17939,32 +17939,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Mj8+6rxW6Es=",
-        "Meta": "[General]\ngameName=Skyrim VR\ngameFile=Data\\Skyrim - Interface.bsa",
-        "Name": "Data_Skyrim - Interface.bsa",
-        "Size": 65726644,
+        "Hash": "O2FC3xeCFKQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44016\nfileID=209716",
+        "Name": "Auriel\u0027s Dream - Core Texture Pack - BSA-44016-2-1624016649.7z",
+        "Size": 2793689727,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "Data\\Skyrim - Interface.bsa",
-          "GameVersion": "1.4.15.0",
-          "Hash": "Mj8+6rxW6Es="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "mwREtRFyhvs=",
-        "Meta": "[General]\ngameName=Skyrim VR\ngameFile=Data\\Skyrim - Patch.bsa",
-        "Name": "Data_Skyrim - Patch.bsa",
-        "Size": 66322373,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "Data\\Skyrim - Patch.bsa",
-          "GameVersion": "1.4.15.0",
-          "Hash": "mwREtRFyhvs="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kvitekvist",
+          "Description": "This is a light version of Project Clarity optimized for Auriel\u0027s Dream modlist. All credits to  Project Clarity",
+          "FileID": 209716,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44016/44016-1609859295-1573649788.png",
+          "IsNSFW": false,
+          "ModID": 44016,
+          "Name": "Auriel\u0027s Dream - Core Texture Pack",
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -17992,21 +17981,32 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "O2FC3xeCFKQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44016\nfileID=209716",
-        "Name": "Auriel\u0027s Dream - Core Texture Pack - BSA-44016-2-1624016649.7z",
-        "Size": 2793689727,
+        "Hash": "Mj8+6rxW6Es=",
+        "Meta": "[General]\ngameName=Skyrim VR\ngameFile=Data\\Skyrim - Interface.bsa",
+        "Name": "Data_Skyrim - Interface.bsa",
+        "Size": 65726644,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kvitekvist",
-          "Description": "This is a light version of Project Clarity optimized for Auriel\u0027s Dream modlist. All credits to  Project Clarity",
-          "FileID": 209716,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44016/44016-1609859295-1573649788.png",
-          "IsNSFW": false,
-          "ModID": 44016,
-          "Name": "Auriel\u0027s Dream - Core Texture Pack",
-          "Version": "0.0.0.0"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "Data\\Skyrim - Interface.bsa",
+          "GameVersion": "1.4.15.0",
+          "Hash": "Mj8+6rxW6Es="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mwREtRFyhvs=",
+        "Meta": "[General]\ngameName=Skyrim VR\ngameFile=Data\\Skyrim - Patch.bsa",
+        "Name": "Data_Skyrim - Patch.bsa",
+        "Size": 66322373,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "Data\\Skyrim - Patch.bsa",
+          "GameVersion": "1.4.15.0",
+          "Hash": "mwREtRFyhvs="
         }
       }
     }
