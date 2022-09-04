@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (137)
+### Valid (138)
 *  [(Part 1) SSE Engine Fixes for 1.6.xxx-17230-6-0-2-1637784396.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [ACMOS Road Generator Tool - PART 2-56367-3-2-1654360943.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56367/?tab=files&file_id=288760)
@@ -16,6 +16,7 @@
 *  [Better Jumping AE-18967-1-8-5-1658818970.zip](https://www.nexusmods.com/skyrimspecialedition/mods/18967/?tab=files&file_id=302310)
 *  bink2w64.dll
 *  [Blinking Player Eyes-21713-1-3-AE-1636873143.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21713/?tab=files&file_id=241368)
+*  [BodySlide and Outfit Studio - v5.6.0-201-5-6-0-1654342850.7z](https://www.nexusmods.com/skyrimspecialedition/mods/201/?tab=files&file_id=288728)
 *  [Bug Fixes SSE (Anniversary Edition)-33261-7-1648396889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33261/?tab=files&file_id=273044)
 *  [Cathedral Assets Optimizer - Basic Profiles Pack-26092-1-6-1620556030.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26092/?tab=files&file_id=202500)
 *  [Cathedral Assets Optimizer-23316-5-0-10-1577124749.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23316/?tab=files&file_id=117182)
@@ -49,7 +50,7 @@
 *  Data_Skyrim.esm
 *  Data_Update.esm
 *  Data_Video_BGS_Logo.bik
-*  [DbMiscFunctions-65410-3-9-1659660434.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65410/?tab=files&file_id=304669)
+*  [DbMiscFunctions-65410-4-2-1660866324.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65410/?tab=files&file_id=308549)
 *  [DynDOLOD 3.00-68518-Alpha-95-1655651317.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68518/?tab=files&file_id=292309)
 *  [DynDOLOD DLL SE - Scripts-57264-2-82-3-1652179274.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57264/?tab=files&file_id=282666)
 *  [DynDOLOD DLL SE - SKSE64 Plugin - Skyrim Special Edition 1.6.353-57264-2-45-1641539213.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57264/?tab=files&file_id=254625)
@@ -79,8 +80,6 @@
 *  installscript.vdf
 *  [JContainers SE-16495-4-2-2-1641931067.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16495/?tab=files&file_id=255978)
 *  [Keyword Item Distributor-55728-2-0-1652806645.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55728/?tab=files&file_id=284514)
-*  [LOOT Config Loader-60864-1-0-0-1640664306.zip](https://www.nexusmods.com/skyrimspecialedition/mods/60864/?tab=files&file_id=252180)
-*  [loot_0.18.3-win64.7z](https://github.com/loot/loot/releases/download/0.18.3/loot_0.18.3-win64.7z)
 *  Low.ini
 *  [MCM Helper SE-53000-1-3-2-1637570704.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53000/?tab=files&file_id=243418)
 *  [MCM SDK-53000-1-3-0-1629918647.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53000/?tab=files&file_id=223749)
@@ -93,15 +92,17 @@
 *  [NIF Preview-69813-0-1-18-1b-1656068039.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69813/?tab=files&file_id=293627)
 *  [NifSkope_2_0_2018-02-22-x64.7z](https://github.com/niftools/nifskope/releases/download/v2.0.dev7/NifSkope_2_0_2018-02-22-x64.7z)
 *  [No Lockpick Activate-26790-3-1-1637648074.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26790/?tab=files&file_id=243641)
+*  [NotificationLogSSE-27707-1-3-1-1652506420.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27707/?tab=files&file_id=283561)
 *  [Octagon-28773-1-1-6-1649529304.rar](https://www.nexusmods.com/skyrimspecialedition/mods/28773/?tab=files&file_id=275968)
 *  [OSD Font for SSE Display Tweaks-48364-1-1-0-1618649420.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48364/?tab=files&file_id=198638)
 *  [Oxygen Meter 2 AE-64532-1-0-5-1650292064.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64532/?tab=files&file_id=278061)
 *  [Paper Themes for Mod Organizer 2-64439-7-1-1624721245.7z](https://www.nexusmods.com/skyrim/mods/64439/?tab=files&file_id=1000338549)
 *  Papyrus Compiler_PapyrusCompiler.exe
 *  Papyrus Compiler_ScriptCompile.bat
-*  [Papyrus Extender-22854-5-1-1-1656011913.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=293479)
+*  [Papyrus Extender-22854-5-2-0-1659709324.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=304790)
 *  [PapyrusUtil AE - Scripting Utility Functions-13048-4-3-1641608820.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=254897)
 *  [powerofthree's Tweaks AE-51073-1-6-0-1647567896.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=270837)
+*  [powerofthree's Tweaks-51073-1-7-0-1661226844.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=309695)
 *  [RaceMenu Anniversary Edition v0-4-19-11-19080-0-4-19-11-1657140512.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19080/?tab=files&file_id=296729)
 *  [Remember Lockpick Angle-26838-4-1-1641005793.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26838/?tab=files&file_id=253008)
 *  [ScaleformTranslationPP-22603-1-5-0-1643504878.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22603/?tab=files&file_id=260387)
