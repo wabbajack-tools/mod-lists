@@ -1,10 +1,10 @@
-## Validation Report - FUSION (FUSION/machineURL)
+## Validation Report - FUSION (FUSION/FUSION)
 
 
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (196)
+### Valid (195)
 *  [1 Rad Fix - v2.0-15977-2-0.zip](https://www.nexusmods.com/fallout4/mods/15977/?tab=files&file_id=64936)
 *  [1950s Feminine Outfits (VANILLA - EVB)-20105-2-1-1546278538.zip](https://www.nexusmods.com/fallout4/mods/20105/?tab=files&file_id=149068)
 *  [4estGimp - AI Edits-60417--95-1655366537.7z](https://www.nexusmods.com/fallout4/mods/60417/?tab=files&file_id=240708)
@@ -86,7 +86,6 @@
 *  [FUSION - FallUI HUD Preset-62852-1-0-1659478512.7z](https://www.nexusmods.com/fallout4/mods/62852/?tab=files&file_id=245422)
 *  [FUSION - LOD GEN-62880-1-2-1662283951.7z](https://www.nexusmods.com/fallout4/mods/62880/?tab=files&file_id=249436)
 *  [FUSION - MAIN MENU-62880-1-0-1659572104.7z](https://www.nexusmods.com/fallout4/mods/62880/?tab=files&file_id=245498)
-*  [FUSION - MCM SETTINGS-62880-1-2-1662283990.7z](https://www.nexusmods.com/fallout4/mods/62880/?tab=files&file_id=249438)
 *  [Genetical Father 1.0.1.rar-23411-1-0-1.rar](https://www.nexusmods.com/fallout4/mods/23411/?tab=files&file_id=115831)
 *  GFSDK_GodraysLib.x64.dll
 *  GFSDK_SSAO_D3D11.win64.dll
