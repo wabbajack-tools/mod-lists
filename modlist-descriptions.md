@@ -66,7 +66,7 @@
 
 Aldrnari (ᚨᛚᛞᚱᚾᚨᚱᛁ) is a project to make a Skyrim ***I*** (Sovn) want to play. It is an ode to my love for folk music; in fact, the idea came when I began listening to [Yggdrasil Music and SoundFX Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21578) and started listening to folk music all together.
 
-This 2000+ modlist is made to be challenging, rewarding, and, eventually, you will become an overpowered Dragonborn who goes against terrible and fierce enemies. 
+This 2200+ modlist is made to be challenging, rewarding, and, eventually, you will become an overpowered Dragonborn who goes against terrible and fierce enemies. 
 It is deeply inspired by games like Dark Souls and Hellblade: Senua's Sacrifice, while having an artistic direction that comes close to screen-archery.
 
 It has a plethora of quests, hundreds of handplaced new armors and weapons, new music, new companions and a completely overhauled worldspace. All of this is detailled in the rich **[Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md)** which dives deeply on what's to expect. Many of this changes are detailled and showcased in [this video from DroppedIceCream](https://www.youtube.com/watch?v=OPqaZN5j1eg)
@@ -74,8 +74,7 @@ It has a plethora of quests, hundreds of handplaced new armors and weapons, new 
 **_Mods to get familiar with:_**
 
 - [Yggdrasil Music and SoundFX Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21578) with [Celtic Music in Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/2980)
-- [Alternate Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/50307)
-- [SkySA](https://www.nexusmods.com/skyrimspecialedition/mods/31390) and [Distance Based Combat](https://www.nexusmods.com/skyrimspecialedition/mods/60855)
+- [Modern Combat Overhaul - ADXP | MCO](https://www.skyrim-guild.com/distar/mods/attack) and [SCAR](https://www.nexusmods.com/skyrimspecialedition/mods/72014)
 - [Ordinator](https://www.nexusmods.com/skyrimspecialedition/mods/1137)
 - [Palladium Racials](https://www.nexusmods.com/skyrimspecialedition/mods/43890)
 - [Arcanum](https://www.nexusmods.com/skyrimspecialedition/mods/23488) and [Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711)
