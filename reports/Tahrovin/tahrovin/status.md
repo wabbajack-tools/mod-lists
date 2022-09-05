@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (659)
+### Valid (660)
 *  [(2) Sharkish Piercings - 3BA - Base-57131-1-01-1634464044.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235340)
 *  [(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77989)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
@@ -346,6 +346,7 @@
 *  installscript.vdf
 *  [Instant Equip VR-44571-1-0-0-1611111731.zip](https://www.nexusmods.com/skyrimspecialedition/mods/44571/?tab=files&file_id=180629)
 *  [Interesting NPCs 3DNPC-29194-4-5-1660791732.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29194/?tab=files&file_id=308366)
+*  [Interesting NPCs SE - 4.3.6 to 4.4 Hotfix-29194-4-4-1591854782.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29194/?tab=files&file_id=145002)
 *  [Interesting NPCs SE - AI Overhaul SSE Patch-29194-1-1-1592506640.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29194/?tab=files&file_id=146332)
 *  [Interesting NPCs SE - Don't Call Me Dragonborn-29194-4-1-1572538575.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29194/?tab=files&file_id=112023)
 *  [Interesting NPCs SE - Winterhold Mods Compatibility-29194-2-0-1585275646.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29194/?tab=files&file_id=130694)
