@@ -32,6 +32,7 @@
   - [(NSFW)Licentia(NSFW)](#nsfwlicentiansfw)
   - [(NSFW)Tsukiro(NSFW)](#nsfwtsukironsfw)
 - [Fallout 4](#fallout-4)
+  - [Atomic Warfare](#atomic-warfare)
   - [Fallout 4: Enhanced Edition (F4EE)](#fallout-4-enhanced-edition-f4ee)
   - [Life in the Ruins](#life-in-the-ruins)
   - [Magnum Opus](#magnum-opus)
@@ -418,6 +419,30 @@ Some fantastic screenshots from a fan of the modlist: https://www.youtube.com/wa
 ***
 
 ## Fallout 4
+
+### [Atomic Warfare](https://github.com/Rage-GitHub/Atomic-Warfare)
+
+Atomic Warfare is an overhaul immersive, hardcore Tarkov/S.T.A.L.K.E.R.-like experience while maintaining the vanilla aspect of Fallout 4 with amazing combat and new gameplay mechanics. With hundreds of hours of new Quests and New Lands to explore, you're surely to be bound to playing with endless entertainment.
+
+**_Noticeable Features_**
+
+- Gunplay and projecticles have been vaslty overhauled, giving a more realistic and challenging scenario to each gunfight you come across.
+- Along with the above, locational damage and healing now have a substantial effect if not taken care of which can be done in various ways now.
+  - See [MAIN Lite](https://www.nexusmods.com/fallout4/articles/3799) for more details on this
+- Hours of new content to explore throughout the wasteland, meeting new faces and new locations.
+- Surival mode integration with added benefits, for a more immersive experience.
+- Overhauled visuals without the need of an ENB, for those juicy picturesque screenshots and FPS.
+
+**_Mods to get familiar with:_**
+
+- [MAIM](https://www.nexusmods.com/fallout4/mods/58964)
+- [Be Exceptional](https://www.nexusmods.com/fallout4/mods/28222)
+- [Damn Apocalypse](https://www.nexusmods.com/fallout4/mods/33812)
+- [SCOURGE](https://www.nexusmods.com/fallout4/mods/60917)
+- [Advanced Needs 76](https://www.nexusmods.com/fallout4/mods/58440)
+- [Crime and Punishment](https://www.nexusmods.com/fallout4/mods/58429)
+
+***
 
 ### [Fallout 4: Enhanced Edition (F4EE)](https://www.wabbajack.org/#/modlists/info?machineURL=fallout_4_enhanced_edition)
 
