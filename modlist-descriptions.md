@@ -36,6 +36,7 @@
   - [Life in the Ruins](#life-in-the-ruins)
   - [Magnum Opus](#magnum-opus)
   - [Welcome to Paradise](#welcome-to-paradise)
+  - [Fallout 4 Modding Essentials](#fallout-4-modding-essentials)
 - [Enderal Special Edition](#enderal-special-edition)
   - [Somnium](#somnium)
   - [The Path](#the-path)
@@ -466,6 +467,20 @@ Welcome to Paradise (WTP) is a lightweight Wabbajack mod list for Fallout 4. Mod
 [Loot Logic and Reduction](https://www.nexusmods.com/fallout4/mods/21366)
 
 Check out the [full modlist](https://loadorderlibrary.com/lists/welcome-to-paradise).
+
+***
+
+### [Fallout 4 Modding Essentials](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md)
+
+Fallout 4 Modding Essentials (FO4ME) was made to act as a strong baseline for a larger load order. It includes fixes, mod prerequisites, and a simple to understand keywords and sorting system. It also includes some various weapons and armor patches, made by Lively, creator of [Magnum Opus](https://www.wabbajack.org/#/modlists/info?machineURL=magnum_opus), or by myself. FO4ME should act as a gateway into Fallout 4 modding, and hopefully will be a good learning tool for those interested in modding.
+
+**_Mods to get familiar with:_**
+
+[Buffout 4](https://www.nexusmods.com/fallout4/mods/47359)
+
+[Unofficial Fallout 4 Patch](https://www.nexusmods.com/fallout4/mods/4598)
+
+View the entire [list of mods.](https://loadorderlibrary.com/lists/fo4me)
 
 ***
 
