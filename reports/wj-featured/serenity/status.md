@@ -1,10 +1,11 @@
 ## Validation Report - Serenity 2 (wj-featured/serenity)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Markarth HD Retexture. 2K_1K.zip](https://wabbajack.b-cdn.net/Markarth HD Retexture. 2K_1K.zip_287c9d0a-d966-4402-aadf-d75d8c22c220)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (991)
+### Valid (990)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [000EquanimityLoader.7z](https://wabbajack.b-cdn.net/000EquanimityLoader.7z_21c9caf3-f5b4-4589-bc0e-fde0af7d00e3)
@@ -524,7 +525,6 @@
 *  [Make Non-Explotaible Crossbow Reload Slow Again SSE-33140-1-4-1585069887.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33140/?tab=files&file_id=130310)
 *  [Mannequin Slapper System-38221-3-1-1600241019.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38221/?tab=files&file_id=161013)
 *  [Markarth - A Reflective Experience-43864-1-3-1609656913.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43864/?tab=files&file_id=177471)
-*  [Markarth HD Retexture. 2K_1K.zip](https://wabbajack.b-cdn.net/Markarth HD Retexture. 2K_1K.zip_287c9d0a-d966-4402-aadf-d75d8c22c220)
 *  [Masks of the Dovah Sonaak - High-23251-1-0-1549591571.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23251/?tab=files&file_id=81045)
 *  [MeatPie-9034-2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/9034/?tab=files&file_id=36322)
 *  [Medieval Bridges-8834-1-31.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8834/?tab=files&file_id=52732)
