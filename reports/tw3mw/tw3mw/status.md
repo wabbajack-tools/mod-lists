@@ -1,11 +1,10 @@
 ## Validation Report - The Witcher 3 - My Way (tw3mw/tw3mw)
 
 
-### Invalid (1)
-*  [DebugConsoleEnabler.7z](https://cdn.discordapp.com/attachments/486202559951011870/633534346489233471/DebugConsoleEnabler.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1003)
+### Valid (1004)
 *  [-Immersive Wildlife Project--3527-1-1563313441.zip](https://www.nexusmods.com/witcher3/mods/3527/?tab=files&file_id=24973)
 *  [1.1- Yennefer of Vengerberg 4K - Curvy Version-4018-4-6-1626788002.7z](https://www.nexusmods.com/witcher3/mods/4018/?tab=files&file_id=36423)
 *  [2- Triss Merigold 4K - Blue Eyes Version-4018-4-7-1626769336.7z](https://www.nexusmods.com/witcher3/mods/4018/?tab=files&file_id=36420)
@@ -455,6 +454,7 @@
 *  [Crach Red Fur Denser-4728-1-1-1593710173.rar](https://www.nexusmods.com/witcher3/mods/4728/?tab=files&file_id=31231)
 *  [Crippling Strikes Nerf for FCR3-4033-1-0-1571911558.zip](https://www.nexusmods.com/witcher3/mods/4033/?tab=files&file_id=26304)
 *  [Darker Generic Trees and Bushes-5776-0-01a-1623532885.zip](https://www.nexusmods.com/witcher3/mods/5776/?tab=files&file_id=35971)
+*  [DebugConsoleEnabler.7z](https://cdn.discordapp.com/attachments/486202559951011870/633534346489233471/DebugConsoleEnabler.7z)
 *  [DEEN - W3strings PowerShell Utility-4738-v4-0-1-1619127706.zip](https://www.nexusmods.com/witcher3/mods/4738/?tab=files&file_id=35338)
 *  [DenseRainfall-3272-1-0.zip](https://www.nexusmods.com/witcher3/mods/3272/?tab=files&file_id=22052)
 *  [Dettlaff van der Eretein-3239-1.zip](https://www.nexusmods.com/witcher3/mods/3239/?tab=files&file_id=21912)

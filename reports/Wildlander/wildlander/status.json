@@ -1,8 +1,8 @@
 {
   "MachineURL": "Wildlander/wildlander",
   "Name": "Wildlander",
-  "Version": "1.1.6",
-  "ModListHash": "wr3nKjNjz8Q=",
+  "Version": "1.1.7",
+  "ModListHash": "MyXQwF8vUus=",
   "Archives": [
     {
       "Status": "Valid",
@@ -6998,6 +6998,19 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "DcecfoL4cAU=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0466.zip_d68a7ff5-baa6-4d18-8f55-db1f35e3ea94",
+        "Name": "enbseries_skyrimse_v0466.zip",
+        "Size": 4260837,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0466.zip_d68a7ff5-baa6-4d18-8f55-db1f35e3ea94"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "J4wx8lAk4oU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=4875\nfileID=267023",
         "Name": "BethINI Standalone Version-4875-3-6-1645937212.zip",
@@ -7118,19 +7131,6 @@
           "ModID": 164,
           "Name": "SSEEdit",
           "Version": "4.0.4.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "DcecfoL4cAU=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0466.zip_d68a7ff5-baa6-4d18-8f55-db1f35e3ea94",
-        "Name": "enbseries_skyrimse_v0466.zip",
-        "Size": 4260837,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0466.zip_d68a7ff5-baa6-4d18-8f55-db1f35e3ea94"
         }
       }
     },
@@ -7819,6 +7819,48 @@
           "ModID": 54485,
           "Name": "Wiseman303\u0027s Critter Fixes",
           "Version": "f1.06"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OoEqagbmN84=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44252\nfileID=179016",
+        "Name": "XP32 Maximum Skeleton Special Extended - Fixed Scripts-44252-1-0-1610402131.rar",
+        "Size": 31808,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Team XPMSE - cskriffin - Umgak",
+          "Description": "Direct upload of the XPMSSE scripts fixed following cskriffin\u0027s instructions.",
+          "FileID": 179016,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44252/44252-1610391688-1067300670.png",
+          "IsNSFW": false,
+          "ModID": 44252,
+          "Name": "XP32 Maximum Skeleton Special Extended - Fixed Scripts",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4XfjTlvPF7o=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60363\nfileID=264512",
+        "Name": "XPMSSE - Nemesis - Script Fix - SE-60363-4-8-3-1644964405.7z",
+        "Size": 23186,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tommas666",
+          "Description": "Fixes XPMSSE script where it can\u0027t find the correct animation groups causing Papyrus Stack errors, when using Nemesis.",
+          "FileID": 264512,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60363/60363-1639931203-351687902.png",
+          "IsNSFW": false,
+          "ModID": 60363,
+          "Name": "XPMSSE - Nemesis - Papyrus Stack Fix",
+          "Version": "4.8.3.0"
         }
       }
     },
@@ -9589,27 +9631,6 @@
           "ModID": 46826,
           "Name": "Slayable Offspring SKSE",
           "Version": "1.5.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4XfjTlvPF7o=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=60363\nfileID=264512",
-        "Name": "XPMSSE - Nemesis - Script Fix - SE-60363-4-8-3-1644964405.7z",
-        "Size": 23186,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Tommas666",
-          "Description": "Fixes XPMSSE script where it can\u0027t find the correct animation groups causing Papyrus Stack errors, when using Nemesis.",
-          "FileID": 264512,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60363/60363-1639931203-351687902.png",
-          "IsNSFW": false,
-          "ModID": 60363,
-          "Name": "XPMSSE - Nemesis - Papyrus Stack Fix",
-          "Version": "4.8.3.0"
         }
       }
     },
