@@ -6,7 +6,7 @@ This is a modlist, without the effort of the many modders who make the 200+ mods
 * [HD Textures](https://www.nexusmods.com/fallout4/mods/40159) by [SavrenX](https://www.nexusmods.com/fallout4/users/55611457) (A Majority of the game textures have been overhauled by these textures, kindly re-packaged by [BiRaitBec](https://www.nexusmods.com/fallout4/users/43913757?tab=about+me))
 * [Tales from the Commonwealth](http://3dnpc.com/) by [Kris Takahashi](http://3dnpc.com/author/kristakahashigmail-com/) (New quests and places to explore!)
 * [Beantown Interiors](https://www.nexusmods.com/fallout4/mods/4612) by [Chucksteel](https://www.nexusmods.com/fallout4/users/981385) (If a building was closed, now it is open, thanks to Chucksteel!)
-* [Comprehensive Power Armor Merge](https://www.nexusmods.com/fallout4/mods/31657) by [Yvileapsis](https://www.nexusmods.com/fallout4/users/53378266), maintained by [Greby751](https://www.nexusmods.com/fallout4/users/30396610) (This is a complete merge of Power Armor mods by various authors, all patched to fit Horizon!)
+* [Comprehensive Power Armor Merge](https://www.nexusmods.com/fallout4/mods/31657) by [Yvileapsis](https://www.nexusmods.com/fallout4/users/53378266), maintained by [Greb751](https://www.nexusmods.com/fallout4/users/30396610) (This is a complete merge of Power Armor mods by various authors, all patched to fit Horizon!)
 * [Boston Natural Surroundings](https://www.nexusmods.com/fallout4/mods/30673) by [Silverfox600](https://www.nexusmods.com/fallout4/users/4911415) (This mod adds all of the amazing extra trees, adding to the ambiance of the game!)
 * So many more. Please, check back soon for a full link to all of these amazing authors. I would not be here without them.
 
