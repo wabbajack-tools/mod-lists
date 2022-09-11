@@ -1,8 +1,8 @@
 {
   "MachineURL": "HFT/HFT",
   "Name": "Happy Fun Times",
-  "Version": "0.1.0",
-  "ModListHash": "U7xszOMrbtU=",
+  "Version": "0.1.2",
+  "ModListHash": "O2zD4Drekmk=",
   "Archives": [
     {
       "Status": "Valid",
@@ -483,16 +483,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
-        "Hash": "bnhtXkLblDM=",
-        "Meta": "[General]\ndirectURL=https://www.skyrim-guild.com/s/ADXP-Beta-143.zip",
-        "Name": "ADXP\u002BBeta\u002B1.4.3.zip",
-        "Size": 3636264,
+        "Hash": "KIgFl1tadhs=",
+        "Meta": "[General]\ndirectURL=https://www.skyrim-guild.com/s/ADXP-Beta-142.zip",
+        "Name": "ADXP\u002BBeta\u002B1.4.2.zip",
+        "Size": 3635815,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://www.skyrim-guild.com/s/ADXP-Beta-143.zip"
+          "Url": "https://www.skyrim-guild.com/s/ADXP-Beta-142.zip"
         }
       }
     },
@@ -13229,27 +13229,6 @@
           "ModID": 22178,
           "Name": "Spice of Life - Orc Strongholds SE",
           "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kng2N4MdpRE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=51094\nfileID=282507",
-        "Name": "SPID-51094-1-22-1652107221.7z",
-        "Size": 12250,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Mat1024",
-          "Description": "Finally a collection of SPID .ini presets that you can read and manage.",
-          "FileID": 282507,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51094/51094-1635306669-1928191633.png",
-          "IsNSFW": false,
-          "ModID": 51094,
-          "Name": "SPID INI Reworked",
-          "Version": "1.22.0.0"
         }
       }
     },
@@ -29490,6 +29469,20 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "bnhtXkLblDM=",
+        "Meta": "[General]\ndirectURL=https://www.skyrim-guild.com/s/ADXP-Beta-143.zip",
+        "Name": "ADXP\u002BBeta\u002B1.4.3.zip",
+        "Size": 3636264,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://www.skyrim-guild.com/s/ADXP-Beta-143.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Z69u82sVObU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=26092\nfileID=231233",
         "Name": "AMB Matching Glass Armory - Female Glass Armor Fix-26092-1-0-1632838926.7z",
@@ -31693,8 +31686,8 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/HFT/fd8420bd94263814_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/HFT/fd8420bd94263814_large.webp"
 }
