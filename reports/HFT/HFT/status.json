@@ -1,8 +1,8 @@
 {
   "MachineURL": "HFT/HFT",
   "Name": "Happy Fun Times",
-  "Version": "0.1.2",
-  "ModListHash": "O2zD4Drekmk=",
+  "Version": "0.1.3",
+  "ModListHash": "TuDIfpbWkQI=",
   "Archives": [
     {
       "Status": "Valid",
@@ -56,21 +56,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "menYUTfbRu8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=73370\nfileID=307502",
-        "Name": "Arita BodySlide Slim-73370-1-1660498024.rar.unfinished",
-        "Size": 0,
+        "Hash": "emWkX21ahaQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=242713",
+        "Name": "(Part 1) Engine Fixes-17230-5-8-0-1637340889.7z",
+        "Size": 268891,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "xStrawberryEclair",
-          "Description": "3BA bodyslide preset",
-          "FileID": 307502,
+          "Author": "aers - Nukem - Ryan",
+          "Description": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.",
+          "FileID": 242713,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/73370/73370-1660496704-1150692534.png",
-          "IsNSFW": true,
-          "ModID": 73370,
-          "Name": "Petite BodySlide Preset - 3BA",
-          "Version": "1.0.0.0"
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17230/17230-1526195370-298143229.png",
+          "IsNSFW": false,
+          "ModID": 17230,
+          "Name": "SSE Engine Fixes (skse64 plugin)",
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -485,14 +485,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KIgFl1tadhs=",
-        "Meta": "[General]\ndirectURL=https://www.skyrim-guild.com/s/ADXP-Beta-142.zip",
-        "Name": "ADXP\u002BBeta\u002B1.4.2.zip",
-        "Size": 3635815,
+        "Hash": "bnhtXkLblDM=",
+        "Meta": "[General]\ndirectURL=https://www.skyrim-guild.com/s/ADXP-Beta-143.zip",
+        "Name": "ADXP\u002BBeta\u002B1.4.3.zip",
+        "Size": 3636264,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://www.skyrim-guild.com/s/ADXP-Beta-142.zip"
+          "Url": "https://www.skyrim-guild.com/s/ADXP-Beta-143.zip"
         }
       }
     },
@@ -13012,12 +13012,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "PvwG9gYL/IE=",
-        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/17212-shout-like-a-virgin-evolved-se/?do=download\u0026r=1351251\nprompt=",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/17212-shout-like-a-virgin-evolved-se/?do=download\u0026r=1351251\nprompt=SLaVE_SE-V9.12.7z",
         "Name": "SLaVE_SE_V9.12.7z",
         "Size": 117588625,
         "State": {
           "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "",
+          "Prompt": "SLaVE_SE-V9.12.7z",
           "Url": "https://www.loverslab.com/files/file/17212-shout-like-a-virgin-evolved-se/?do=download\u0026r=1351251"
         }
       }
@@ -15563,21 +15563,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cwJM6jWA+Tw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=1988\nfileID=178559",
-        "Name": "XP32 Maximum Skeleton Special Extended-1988-4-80-1610196777.7z",
-        "Size": 2376740,
+        "Hash": "oe5AwlYlkUI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=1988\nfileID=308218",
+        "Name": "XP32 Maximum Skeleton Special Extended-1988-4-81-1660739371.7z",
+        "Size": 2371610,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Team XPMSE",
           "Description": "XP32 Maximum Skeleton Special  Extended is the update of XP32 Maximum Skeleton Extended for Skyrim Special Edition.",
-          "FileID": 178559,
+          "FileID": 308218,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1988/1988-1543819769-456431788.jpeg",
           "IsNSFW": true,
           "ModID": 1988,
           "Name": "XP32 Maximum Skeleton Special Extended - XPMSSE",
-          "Version": "0.0.0.0"
+          "Version": "4.81.0.0"
         }
       }
     },
@@ -17332,48 +17332,6 @@
           "GameFile": "Skyrim\\SkyrimPrefs.ini",
           "GameVersion": "1.6.353.0",
           "Hash": "fiMS7vbbpNE="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "nlgle77YhZ0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=73819\nfileID=310630",
-        "Name": "Animated Potions-73819-3-0-2-1661543232.zip",
-        "Size": 2180697,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Juhaaaa",
-          "Description": "Custom movement enabled animations for all vanilla potions with correct animation meshes.\n\nAnimations are 3rd person and player only.",
-          "FileID": 310630,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/73819/73819-1661155251-578367634.png",
-          "IsNSFW": false,
-          "ModID": 73819,
-          "Name": "Animated Potions",
-          "Version": "3.0.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QjqyaIidJAs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=3008\nfileID=211596",
-        "Name": "Beyond Reach 4_51 2021-3008-4-51-1624917982.7z",
-        "Size": 2008404560,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "razorkid1",
-          "Description": "Beyond Reach is a DLC sized mod that takes place in the east of High Rock, commonly known as The Reach. You will experience a story of intrigue, conspiracies sowed by both men and gods, and the struggles of those in the most squalid situations.",
-          "FileID": 211596,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/48467-2-1435340149.jpg",
-          "IsNSFW": false,
-          "ModID": 3008,
-          "Name": "Beyond Reach",
-          "Version": "4.51.0.0"
         }
       }
     },
@@ -19685,27 +19643,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WjDsDYkq1pU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=72849\nfileID=308618",
-        "Name": "Animated Poisons-72849-2-1-1-1660899264.zip",
-        "Size": 1179287,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Juhaaaa",
-          "Description": "Custom movement enabled animations for all vanilla poisons with correct animation meshes.\n\nComes with customizable dosage system.",
-          "FileID": 308618,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/72849/72849-1660314808-65491988.png",
-          "IsNSFW": false,
-          "ModID": 72849,
-          "Name": "Animated Poisons",
-          "Version": "2.1.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "ij43vfn13Gk=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=50258\nfileID=260563",
         "Name": "Animation Motion Revolution - Special Edition-50258-1-5-1643576447.rar",
@@ -21063,27 +21000,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/F2um0MwI1k=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=74483\nfileID=312340",
-        "Name": "Infinity UI-74483-1-0-1662064486.rar",
-        "Size": 305125,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "alexsylex",
-          "Description": "This SKSE plugin aims to put an end to incompatibilities between UI mods with an easy-to-use framework, allowing customization per UI element.",
-          "FileID": 312340,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/74483/74483-1662064365-966032174.png",
-          "IsNSFW": false,
-          "ModID": 74483,
-          "Name": "Infinity UI",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "mmTJKR4c1Ng=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=43480\nfileID=175357",
         "Name": "Jazbay by Mari - Green-43480-1-1-1608472290.7z",
@@ -21624,6 +21540,27 @@
           "ModID": 51073,
           "Name": "powerofthree\u0027s Tweaks",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "smnY5FjjU0M=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=72347\nfileID=313383",
+        "Name": "Precision-72347-1-1-7-1662343197.7z",
+        "Size": 695394,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ersh",
+          "Description": "Physically accurate, true Havok collisions for melee. Procedural, physics-based hit reactions. Weapon trails. Hitstop and camera shake. Recoils when hitting certain materials. Supports both first person and third person, as well as other NPCs and creatures. Custom collisions for new movesets. Supports SE/AE. Includes an API for other SKSE plugins.",
+          "FileID": 313383,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/72347/72347-1659355235-925958425.png",
+          "IsNSFW": false,
+          "ModID": 72347,
+          "Name": "Precision - Accurate Melee Collisions",
+          "Version": "1.1.7.0"
         }
       }
     },
@@ -22617,27 +22554,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "vDtEQeYIowQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=29882\nfileID=239677",
-        "Name": "Lawbringer Installer-29882-1-3-0-2-1636302905.7z",
-        "Size": 18861670,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Epic Crab",
-          "Description": "Bring order to a chaotic world, making a real difference in Skyrim as you go about saving it. Claim bandit strongholds for the faction of your choice to keep the bandits from coming back, making Skyrim a safer place.",
-          "FileID": 239677,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29882/29882-1571724157-1690149741.png",
-          "IsNSFW": false,
-          "ModID": 29882,
-          "Name": "Lawbringer",
-          "Version": "1.3.0.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "LgXz7vCD8wk=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=54108\nfileID=222153",
         "Name": "Sigils of Skyrim - Banners-54108-1-0-1629337038.7z",
@@ -23121,27 +23037,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "emWkX21ahaQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=242713",
-        "Name": "(Part 1) Engine Fixes-17230-5-8-0-1637340889.7z",
-        "Size": 268891,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "aers - Nukem - Ryan",
-          "Description": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.",
-          "FileID": 242713,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17230/17230-1526195370-298143229.png",
-          "IsNSFW": false,
-          "ModID": 17230,
-          "Name": "SSE Engine Fixes (skse64 plugin)",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "zsjT/xtIU/Q=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=41348\nfileID=206676",
         "Name": "Stalhrim Refrozen-41348-1-6-0-1622505330.7z",
@@ -23576,27 +23471,6 @@
           "IsNSFW": false,
           "ModID": 21027,
           "Name": "Unofficial Material Fix",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "hvHOMuEtgFE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=22184\nfileID=165417",
-        "Name": "Improved College Entry-22184-2-8-1602614138.zip",
-        "Size": 309058,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Parapets - SomethingObscure",
-          "Description": "Choose your school and more improvements for the College of Winterhold.",
-          "FileID": 165417,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22184/22184-1546005817-730972191.png",
-          "IsNSFW": false,
-          "ModID": 22184,
-          "Name": "Improved College Entry - Questline Tweaks",
           "Version": "0.0.0.0"
         }
       }
@@ -28406,12 +28280,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "cXHOLY2ko9k=",
-        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/17212-shout-like-a-virgin-evolved-se/?do=download\u0026r=1064005\nprompt=",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/17212-shout-like-a-virgin-evolved-se/?do=download\u0026r=1064005\nprompt=SLaVE_Bodyslide_SE_CBBE_3bbb_v8.1.7z",
         "Name": "SLaVE_Bodyslide_SE_CBBE_3bbb_v8.1.7z",
         "Size": 34522467,
         "State": {
           "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "",
+          "Prompt": "SLaVE_Bodyslide_SE_CBBE_3bbb_v8.1.7z",
           "Url": "https://www.loverslab.com/files/file/17212-shout-like-a-virgin-evolved-se/?do=download\u0026r=1064005"
         }
       }
@@ -29469,20 +29343,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bnhtXkLblDM=",
-        "Meta": "[General]\ndirectURL=https://www.skyrim-guild.com/s/ADXP-Beta-143.zip",
-        "Name": "ADXP\u002BBeta\u002B1.4.3.zip",
-        "Size": 3636264,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://www.skyrim-guild.com/s/ADXP-Beta-143.zip"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Z69u82sVObU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=26092\nfileID=231233",
         "Name": "AMB Matching Glass Armory - Female Glass Armor Fix-26092-1-0-1632838926.7z",
@@ -29771,27 +29631,6 @@
           "ModID": 51071,
           "Name": "CC\u0027s Castle Volkihar Remastered",
           "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "bI5d/J3HQ7Y=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=74484\nfileID=312343",
-        "Name": "Compass Navigation Overhaul-74484-1-0-1662064806.rar",
-        "Size": 458788,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "alexsylex",
-          "Description": "This mod adds quality-of-life features and improvements to the compass, seen in games such as The Witcher 3, Horizon Zero Dawn, God of War, etc.",
-          "FileID": 312343,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/74484/74484-1662064677-911577158.gif",
-          "IsNSFW": false,
-          "ModID": 74484,
-          "Name": "Compass Navigation Overhaul",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -31058,27 +30897,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "oe5AwlYlkUI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=1988\nfileID=308218",
-        "Name": "XP32 Maximum Skeleton Special Extended-1988-4-81-1660739371.7z",
-        "Size": 2371610,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Team XPMSE",
-          "Description": "XP32 Maximum Skeleton Special  Extended is the update of XP32 Maximum Skeleton Extended for Skyrim Special Edition.",
-          "FileID": 308218,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1988/1988-1543819769-456431788.jpeg",
-          "IsNSFW": true,
-          "ModID": 1988,
-          "Name": "XP32 Maximum Skeleton Special Extended - XPMSSE",
-          "Version": "4.81.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "K5qPogBmLWE=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=64463\nfileID=267781",
         "Name": "ENB Light for Apocrypha-64463-0-1-1646291981.7z",
@@ -31535,69 +31353,6 @@
           "ModID": 45799,
           "Name": "Smooth Magic Casting Animation",
           "Version": "4.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Q3WFOQ0tIFI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=62735\nfileID=260248",
-        "Name": "Smooth Random Equip Animation(1H)-62735-1-0-1643440267.zip",
-        "Size": 43474,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Smooth",
-          "Description": "Smooth Random Equip Animation(1H)",
-          "FileID": 260248,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62735/62735-1643441322-1015080284.gif",
-          "IsNSFW": false,
-          "ModID": 62735,
-          "Name": "Smooth Random Equip Animation(1H)",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "NC4YBElqUt0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=62932\nfileID=261005",
-        "Name": "Smooth Random Equip Animation(2H)-62932-1-0-1643733807.zip",
-        "Size": 66874,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Smooth",
-          "Description": "5 types of Equip Animation of the two-handed sword are added at random.",
-          "FileID": 261005,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62932/62932-1643733649-1375260370.gif",
-          "IsNSFW": false,
-          "ModID": 62932,
-          "Name": "Smooth Random Equip Animation(2H)",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "FBNNZH8ebPQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=63332\nfileID=262926",
-        "Name": "Smooth Random Equip Animation(Dagger)-63332-1-0-1644424392.zip",
-        "Size": 45848,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Smooth",
-          "Description": "4 types of Equip Animation of the Dagger are added at random.",
-          "FileID": 262926,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/63332/63332-1644423981-1680133759.gif",
-          "IsNSFW": false,
-          "ModID": 63332,
-          "Name": "Smooth Random Equip Animation(Dagger)",
-          "Version": "1.0.0.0"
         }
       }
     },
