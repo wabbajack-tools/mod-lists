@@ -1,4 +1,4 @@
-## Validation Report - TTW True Vegas (TTWTrueVegas/True_Vegas_TTW)
+## Validation Report - Capital Punishment (TTWTrueVegas/capitalpunishment)
 
 
 ### Invalid (0)
