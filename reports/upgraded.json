@@ -42,32 +42,6 @@
   {
     "Status": "Updated",
     "Original": {
-      "Hash": "1GEoQpaFAdQ=",
-      "Meta": "[General]\ndirectURL=https://github.com/annakins/Katana/releases/download/0.62/Katana.7z",
-      "Name": "Katana.7z",
-      "Size": 456738983,
-      "State": {
-        "$type": "HttpDownloader, Wabbajack.Lib",
-        "Headers": [],
-        "Url": "https://github.com/annakins/Katana/releases/download/0.62/Katana.7z"
-      }
-    },
-    "PatchedFrom": {
-      "Hash": "YLhsUqBWC4c=",
-      "Meta": "",
-      "Name": "Katana.7z",
-      "Size": 456782930,
-      "State": {
-        "$type": "HttpDownloader, Wabbajack.Lib",
-        "Headers": [],
-        "Url": "https://github.com/annakins/Katana/releases/download/0.62/Katana.7z"
-      }
-    },
-    "PatchUrl": "https://patches.wabbajack.org/d4612842968501d4_60b86c52a0560b87"
-  },
-  {
-    "Status": "Updated",
-    "Original": {
       "Hash": "2MrbjqTtwtg=",
       "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=12tL3_kpm_KXlQvQqEnK3zOAl-sm_H3Fw\u0026export=download",
       "Name": "Skyrim_Particle_Patch_for_ENB-SSE.zip",
@@ -96,31 +70,5 @@
       }
     },
     "PatchUrl": "https://patches.wabbajack.org/d8cadb8ea4edc2d8_21679b21259fa430"
-  },
-  {
-    "Status": "Updated",
-    "Original": {
-      "Hash": "qJvyBipb+P4=",
-      "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/8148-gsposes-slal/\nprompt=Download GS_SLAL SE 01 08.7z",
-      "Name": "GS_SLAL SE 01 08.7z",
-      "Size": 8587750,
-      "State": {
-        "$type": "ManualDownloader, Wabbajack.Lib",
-        "Prompt": "Download GS_SLAL SE 01 08.7z",
-        "Url": "https://www.loverslab.com/files/file/8148-gsposes-slal/"
-      }
-    },
-    "PatchedFrom": {
-      "Hash": "0K+vO9tw1ms=",
-      "Meta": "",
-      "Name": "GS_SLAL SE 22 08.7z",
-      "Size": 8606166,
-      "State": {
-        "$type": "ManualDownloader, Wabbajack.Lib",
-        "Prompt": "Download GS_SLAL SE 22 08.7z",
-        "Url": "https://www.loverslab.com/files/file/8148-gsposes-slal/"
-      }
-    },
-    "PatchUrl": "https://patches.wabbajack.org/a89bf2062a5bf8fe_d0afaf3bdb70d66b"
   }
 ]
