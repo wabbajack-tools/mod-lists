@@ -1,8 +1,8 @@
 {
   "MachineURL": "TTWTrueVegas/capitalpunishment",
   "Name": "Capital Punishment",
-  "Version": "1.0",
-  "ModListHash": "TFOI4yuuxyw=",
+  "Version": "0.2",
+  "ModListHash": "VYIDQ26nKoI=",
   "Archives": [
     {
       "Status": "Valid",
@@ -15,6 +15,19 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0Iv4a7a5T7Y=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/splash.7z_a201bb74-a026-44a7-ac93-d37c2644ba44",
+        "Name": "splash.7z",
+        "Size": 57013,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/splash.7z_a201bb74-a026-44a7-ac93-d37c2644ba44"
         }
       }
     },
@@ -400,6 +413,27 @@
           "ModID": 65390,
           "Name": "4K Pre War Dress 2018",
           "Version": "101.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pp3JZhP3Q/8=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=78248\nfileID=1000098657",
+        "Name": "A Music Addition Project-78248-2-0-1662480654.zip",
+        "Size": 320642178,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Crygreg",
+          "Description": "This Mod overhauls the music in both NV and TTW and expands both of the regions with lore friendly, classic Fallout tracks.",
+          "FileID": 1000098657,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/78248/78248-1662288600-1253396856.png",
+          "IsNSFW": false,
+          "ModID": 78248,
+          "Name": "A Music Addition Project",
+          "Version": "2.0.0.0"
         }
       }
     },
@@ -889,6 +923,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "tMP9KCS2tl0=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=69505\nfileID=1000066936",
+        "Name": "AVladimir1994\u0027s Custom Messages for TTW-69505-1-0-1603859980.7z",
+        "Size": 2795,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Demorome",
+          "Description": "Level-up is delayed until the player finds a place to rest and reflect on what they\u0027ve learned. Supports level-up messages, akin to Oblivion. Now fully configurable.",
+          "FileID": 1000066936,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/69505/69505-1595429327-336196300.png",
+          "IsNSFW": false,
+          "ModID": 69505,
+          "Name": "Sleep To Level Up  -  Oblivion-Style Levelling",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "aH/W28tRGPY=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=77748\nfileID=1000096856",
         "Name": "Awesome Crippling Effects 2-77748-1-1659377713.zip",
@@ -1030,6 +1085,27 @@
           "ModID": 69486,
           "Name": "Bathroom Doors Overhaul",
           "Version": "1.4.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Ij8KPQ0JN1k=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=73261\nfileID=1000085478",
+        "Name": "Better Strip View-73261-1-7-1640273195.7z",
+        "Size": 1725136,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Darziak",
+          "Description": "Adds the Strip signs and moves the Strip buildings to where they should be.",
+          "FileID": 1000085478,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/73261/73261-1628545923-1943912881.jpeg",
+          "IsNSFW": false,
+          "ModID": 73261,
+          "Name": "Better Strip View",
+          "Version": "1.7.0.0"
         }
       }
     },
@@ -1415,6 +1491,27 @@
           "ModID": 71615,
           "Name": "Classic Robobrain Replacer (Robobrain Replacer)",
           "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xBcqgFSZyo4=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=77205\nfileID=1000094800",
+        "Name": "Longer Weather Transitions-77205-1-0-1656186140.zip",
+        "Size": 299,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "doodlez Demorome",
+          "Description": "NVSE plugin which adds utilities and bug fixes for weather mods.",
+          "FileID": 1000094800,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77205/77205-1656184473-585639839.png",
+          "IsNSFW": false,
+          "ModID": 77205,
+          "Name": "Climate Control NVSE",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -2170,6 +2267,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "3XZ0SMar1/M=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=70159\nfileID=1000067122",
+        "Name": "Height Randomizer - TTW-70159-1-1-1604323518.7z",
+        "Size": 53592,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "carxt - CovenantTurtle",
+          "Description": "Randomises NPC height in such a way that it\u0027s consistent across saves and playthroughs. Includes customisable INI settings for height scaling with SPECIAL, and/or gender disparity.",
+          "FileID": 1000067122,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/70159/70159-1603901150-1129195733.jpeg",
+          "IsNSFW": false,
+          "ModID": 70159,
+          "Name": "Height Randomizer NVSE",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "W/wXnBrqeUU=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=67870\nfileID=1000093262",
         "Name": "Helmet Overlay-67870-1-9-1-1653754928.7z",
@@ -2226,6 +2344,48 @@
           "IsNSFW": false,
           "ModID": 61273,
           "Name": "HiRes Skill Books Retexture",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1tX1JdmF2Mk=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=72135\nfileID=1000075283",
+        "Name": "Hoover Dam Jets Restored and Distant-72135-1-0-1619225107.7z",
+        "Size": 511700,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "zedas",
+          "Description": "Restores the cut outflow jets to Hoover Dam and makes them visible up \u0026amp; down the Colorado.",
+          "FileID": 1000075283,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/72135/72135-1619224044-2000488299.png",
+          "IsNSFW": false,
+          "ModID": 72135,
+          "Name": "Hoover Dam Jets Restored and Distant",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OKTm+jU2oxQ=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=72135\nfileID=1000075307",
+        "Name": "Distant Water Jets - FPGE Patch-72135-1-0-1619300977.7z",
+        "Size": 1075,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "zedas",
+          "Description": "Restores the cut outflow jets to Hoover Dam and makes them visible up \u0026amp; down the Colorado.",
+          "FileID": 1000075307,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/72135/72135-1619224044-2000488299.png",
+          "IsNSFW": false,
+          "ModID": 72135,
+          "Name": "Hoover Dam Jets Restored and Distant",
           "Version": "1.0.0.0"
         }
       }
@@ -2695,6 +2855,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "x9qZa5LM7bk=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=61206\nfileID=1000067094",
+        "Name": "LODadditions-61206-1-07-1604265497.7z",
+        "Size": 2800594,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "tomzik",
+          "Description": "A collection of new, low poly models to use during generating LOD.",
+          "FileID": 1000067094,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/61206-0-1451845583.jpg",
+          "IsNSFW": false,
+          "ModID": 61206,
+          "Name": "LOD additions and improvements",
+          "Version": "f1.07"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "s+J9I8q0lCI=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=46045\nfileID=1000068039",
         "Name": "Loot All Vehicles DLCs-46045-1-1-1606361780.7z",
@@ -2710,6 +2891,48 @@
           "ModID": 46045,
           "Name": "Loot All Cars Trucks Golf Carts Vehicles",
           "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vQc8pMIAkhQ=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=73273\nfileID=1000087218",
+        "Name": "Lucky 38 Lights Redone - Full Model - Better Strip View-73273-Patch-1644119374.7z",
+        "Size": 2442,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nehred",
+          "Description": "A modification of the Lucky 38 lights before and after they have been turned on during the Mr. House/Yes Man questlines (see pictures and description).",
+          "FileID": 1000087218,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/73273/73273-1629057341-2024077430.jpeg",
+          "IsNSFW": false,
+          "ModID": 73273,
+          "Name": "Lucky 38 Lights Redone",
+          "Version": "Patch"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QGlIUnKlY3M=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=73273\nfileID=1000087217",
+        "Name": "Lucky 38 Lights Redone - Full Model-73273-2-6-1-1644119334.7z",
+        "Size": 1217245,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nehred",
+          "Description": "A modification of the Lucky 38 lights before and after they have been turned on during the Mr. House/Yes Man questlines (see pictures and description).",
+          "FileID": 1000087217,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/73273/73273-1629057341-2024077430.jpeg",
+          "IsNSFW": false,
+          "ModID": 73273,
+          "Name": "Lucky 38 Lights Redone",
+          "Version": "2.6.1.0"
         }
       }
     },
@@ -2773,27 +2996,6 @@
           "ModID": 75981,
           "Name": "Melee Hitstop Effects",
           "Version": "f3.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "StqILSR13Y8=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=78217\nfileID=1000098445",
-        "Name": "Menace of The New West-78217-1-0-1662025307.7z",
-        "Size": 4472502,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Wombat",
-          "Description": "Complete character overhaul in classic Fallout style for all New Vegas super mutants",
-          "FileID": 1000098445,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/78217/78217-1662024631-1661114168.jpeg",
-          "IsNSFW": false,
-          "ModID": 78217,
-          "Name": "Menace of The New West",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -3025,6 +3227,27 @@
           "ModID": 76584,
           "Name": "More Perks Reimagined",
           "Version": "3.0.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mYJwClAFQLU=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=64805\nfileID=1000047000",
+        "Name": "Much Needed LOD-64805-1-2.7z",
+        "Size": 3778634,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "pilamin",
+          "Description": "Adds new distant level-of-detail to many world objects; from vehicles, roads, barricades, and lots of rocks.",
+          "FileID": 1000047000,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/64805/64805-1523055494-1996746148.jpeg",
+          "IsNSFW": false,
+          "ModID": 64805,
+          "Name": "Much Needed LOD",
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -4018,6 +4241,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "f3/iVpyipbE=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=69505\nfileID=1000064034",
+        "Name": "Sleep To Level Up-69505-2-2-1595500794.7z",
+        "Size": 2420,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Demorome",
+          "Description": "Level-up is delayed until the player finds a place to rest and reflect on what they\u0027ve learned. Supports level-up messages, akin to Oblivion. Now fully configurable.",
+          "FileID": 1000064034,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/69505/69505-1595429327-336196300.png",
+          "IsNSFW": false,
+          "ModID": 69505,
+          "Name": "Sleep To Level Up  -  Oblivion-Style Levelling",
+          "Version": "2.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "XlyTRaPShVY=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=41142\nfileID=1000006681",
         "Name": "Sortomatic_v1_3-41142-1-3.7z",
@@ -4075,6 +4319,90 @@
           "ModID": 44476,
           "Name": "Spice of Life - Variety Armor and Clothing Robert Breeze Type3",
           "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XsrUvaW5Fj0=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=73596\nfileID=1000087211",
+        "Name": "Strip Lights Region Fix-73596-1-3-1644119016.7z",
+        "Size": 50474,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nehred",
+          "Description": "Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.",
+          "FileID": 1000087211,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/73596/73596-1631161376-983215270.jpeg",
+          "IsNSFW": false,
+          "ModID": 73596,
+          "Name": "Strip Lights Region Fix",
+          "Version": "1.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dUmS5rmLkMQ=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=73596\nfileID=1000087212",
+        "Name": "Strip Lights Region Fix - Hoover Dam Jets Restored and Distant-73596-Patch-1644119080.7z",
+        "Size": 2597,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nehred",
+          "Description": "Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.",
+          "FileID": 1000087212,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/73596/73596-1631161376-983215270.jpeg",
+          "IsNSFW": false,
+          "ModID": 73596,
+          "Name": "Strip Lights Region Fix",
+          "Version": "Patch"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GpBftMgT1zw=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=73596\nfileID=1000087213",
+        "Name": "Strip Lights Region Fix - The Living Desert-73596-Patch-1644119113.7z",
+        "Size": 600,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nehred",
+          "Description": "Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.",
+          "FileID": 1000087213,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/73596/73596-1631161376-983215270.jpeg",
+          "IsNSFW": false,
+          "ModID": 73596,
+          "Name": "Strip Lights Region Fix",
+          "Version": "Patch"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uQ/M45ReRxk=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=73596\nfileID=1000087215",
+        "Name": "Strip Lights Region Fix - Vault 22 Flora Overhaul Remastered-73596-Patch-1644119165.7z",
+        "Size": 634,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nehred",
+          "Description": "Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.",
+          "FileID": 1000087215,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/73596/73596-1631161376-983215270.jpeg",
+          "IsNSFW": false,
+          "ModID": 73596,
+          "Name": "Strip Lights Region Fix",
+          "Version": "Patch"
         }
       }
     },
@@ -4850,6 +5178,19 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "+7umofo6Qeo=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/TTWTVFNVLODGen Output.7z_e0df690f-d13f-4ebe-999a-e364fe1efdbe",
+        "Name": "TTWTVFNVLODGen Output.7z",
+        "Size": 330581751,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/TTWTVFNVLODGen%20Output.7z_e0df690f-d13f-4ebe-999a-e364fe1efdbe"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "76RvgyRs3Wc=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=47746\nfileID=1000077460",
         "Name": "Tutorial Killer-47746-2-0-1623461482.7z",
@@ -4865,6 +5206,48 @@
           "ModID": 47746,
           "Name": "Tutorial Killer",
           "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lsrYC2zeJVI=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=73667\nfileID=1000088698",
+        "Name": "Two Wastelands Redesigned-73667-1-2-1646517279.7z",
+        "Size": 225644327,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dracomies - Drithius",
+          "Description": "Combines Dracomies\u0027 Project Beauty and New Vegas Redesigned II into an easy to install, all-in-one package.  Approximately 2,000 updated NPC faces across DC and the Mojave.",
+          "FileID": 1000088698,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/73667/73667-1631736911-2144687464.jpeg",
+          "IsNSFW": false,
+          "ModID": 73667,
+          "Name": "Two Wastelands Redesigned - TTW - Project Beauty and NVR2",
+          "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PK3jICBdJ7I=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=73667\nfileID=1000095633",
+        "Name": "TWR 3.3.2 Update-73667-1-2-2-1657380895.7z",
+        "Size": 774659,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dracomies - Drithius",
+          "Description": "Combines Dracomies\u0027 Project Beauty and New Vegas Redesigned II into an easy to install, all-in-one package.  Approximately 2,000 updated NPC faces across DC and the Mojave.",
+          "FileID": 1000095633,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/73667/73667-1631736911-2144687464.jpeg",
+          "IsNSFW": false,
+          "ModID": 73667,
+          "Name": "Two Wastelands Redesigned - TTW - Project Beauty and NVR2",
+          "Version": "1.2.2.0"
         }
       }
     },
@@ -5643,6 +6026,20 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/TES5Edit/TES5Edit/releases/download/xedit-4.0.4/xEdit.4.0.4.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zqXquZJccXU=",
+        "Meta": "[General]\ndirectURL=https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z",
+        "Name": "zEdit_v0.6.5_-_Portable_x64.7z",
+        "Size": 44073163,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z"
         }
       }
     },
@@ -8879,6 +9276,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "N4SoDZ2eJr8=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=78278\nfileID=1000098642",
+        "Name": "Height Randomizer Config-78278-1-0-1662456628.zip",
+        "Size": 1156,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Crygreg",
+          "Description": "This custom .ini tries to prevent Height Randomizer from turning a lot of characters into dwarves.",
+          "FileID": 1000098642,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 78278,
+          "Name": "Height Randomizer Custom Config",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "zn/bBjn0SJI=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=64589\nfileID=1000051593",
         "Name": "Hi Res Posters-64589-0-7-1547670614.7z",
@@ -8894,6 +9312,27 @@
           "ModID": 64589,
           "Name": "High Res Vanilla Posters and Graffiti",
           "Version": "0.7.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oQgeiflO5dI=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=77989\nfileID=1000097728",
+        "Name": "High Resolution Screens-77989-1-1-1660681437.zip",
+        "Size": 38772,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lStewieAl - Wall_SoGB",
+          "Description": "Increases the render resolution of in-game screens (Pipboy, terminals, character creation menu) to match game\u0027s screen resolution.",
+          "FileID": 1000097728,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77989/77989-1660680689-691142270.png",
+          "IsNSFW": false,
+          "ModID": 77989,
+          "Name": "High Resolution Screens",
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -9383,6 +9822,41 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "u8yIKftfxp0=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=64805\nfileID=1000048373",
+        "Name": "Much Needed LOD - NMC Patch-64805-1-2.7z",
+        "Size": 1005270,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "pilamin",
+          "Description": "Adds new distant level-of-detail to many world objects; from vehicles, roads, barricades, and lots of rocks.",
+          "FileID": 1000048373,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/64805/64805-1523055494-1996746148.jpeg",
+          "IsNSFW": false,
+          "ModID": 64805,
+          "Name": "Much Needed LOD",
+          "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9/ulA8mqufo=",
+        "Meta": "[General]\nmanualURL=http://www.mediafire.com/file/j7xthhc3rqg8n2i/BoomersGoBoom.rar/file\nprompt=Click the blue download button on the right side of this page.",
+        "Name": "BoomersGoBoom.rar",
+        "Size": 233843611,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Click the blue download button on the right side of this page.",
+          "Url": "http://www.mediafire.com/file/j7xthhc3rqg8n2i/BoomersGoBoom.rar/file"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "X45Q8doFrkA=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=43135\nfileID=1000003997",
         "Name": "NMCs Textures NV SMALL Pack SINGLE FILE FOR NMM-43135-1-0.7z",
@@ -9740,6 +10214,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "VM/MWGZpue8=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=70155\nfileID=1000079255",
+        "Name": "TCM\u0027s LOD Overhaul-70155-1-1-1627771074.zip",
+        "Size": 8511081,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tecium",
+          "Description": "New models and textures to improve the LOD.",
+          "FileID": 1000079255,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/70155/70155-1603067248-552513400.jpeg",
+          "IsNSFW": false,
+          "ModID": 70155,
+          "Name": "TCM\u0027s LOD Overhaul",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "0WOHodswlkc=",
         "Meta": "[General]\ngameName=fallout3\nmodID=23934\nfileID=1000018089",
         "Name": "Animated MicroFilm Machines-23934-1-02-1580141197.rar",
@@ -9845,6 +10340,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "IBWqxgiOAm4=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=78140\nfileID=1000098848",
+        "Name": "WAP Year One and Bonus - Scripted - 1.3 udpate-78140-1-3-1662831915.7z",
+        "Size": 6072878,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "anonx1987 and too many people to list here",
+          "Description": "A compilation pack of high quality gun replacers. Include unreleased (so far) weapons.",
+          "FileID": 1000098848,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/78140/78140-1661526489-426903902.png",
+          "IsNSFW": false,
+          "ModID": 78140,
+          "Name": "WAP Year One and Bonus",
+          "Version": "1.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "2mX/B+7aoPA=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=78140\nfileID=1000098209",
         "Name": "WAP Year One and Bonus - Scripted-78140-1-1661527270.7z",
@@ -9887,48 +10403,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HbLxeCDpmDM=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=74358\nfileID=1000090361",
-        "Name": "ySI - Sorting Icons - Nuka World Imports patch-74358-1-0-1648916489.zip",
-        "Size": 658,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "yvileapsis",
-          "Description": "Sorting mod, using features of yUI to make inventory management a better experience.",
-          "FileID": 1000090361,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/74358/74358-1636568205-358833191.png",
-          "IsNSFW": false,
-          "ModID": 74358,
-          "Name": "ySI - Sorting Ycons",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "sH+DGoPjvlM=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=74358\nfileID=1000090360",
-        "Name": "ySI - Sorting Icons - S6S Aid Addon patch-74358-1-0-1648916308.zip",
-        "Size": 614,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "yvileapsis",
-          "Description": "Sorting mod, using features of yUI to make inventory management a better experience.",
-          "FileID": 1000090360,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/74358/74358-1636568205-358833191.png",
-          "IsNSFW": false,
-          "ModID": 74358,
-          "Name": "ySI - Sorting Ycons",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "B0tOvjbgss0=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=77033\nfileID=1000094307",
         "Name": "ySI - Categories LITE-77033-1-0-1655185228.7z",
@@ -9964,6 +10438,69 @@
           "IsNSFW": false,
           "ModID": 77067,
           "Name": "ySI - Patches",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yTsT1NmxETM=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=74358\nfileID=1000090359",
+        "Name": "ySI - Sorting Icons-74358-1-4b-1648916180.7z",
+        "Size": 219663,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "yvileapsis",
+          "Description": "Sorting mod, using features of yUI to make inventory management a better experience.",
+          "FileID": 1000090359,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/74358/74358-1636568205-358833191.png",
+          "IsNSFW": false,
+          "ModID": 74358,
+          "Name": "ySI - Sorting Ycons",
+          "Version": "1.4.0.0b"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HbLxeCDpmDM=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=74358\nfileID=1000090361",
+        "Name": "ySI - Sorting Icons - Nuka World Imports patch-74358-1-0-1648916489.zip",
+        "Size": 658,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "yvileapsis",
+          "Description": "Sorting mod, using features of yUI to make inventory management a better experience.",
+          "FileID": 1000090361,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/74358/74358-1636568205-358833191.png",
+          "IsNSFW": false,
+          "ModID": 74358,
+          "Name": "ySI - Sorting Ycons",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sH+DGoPjvlM=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=74358\nfileID=1000090360",
+        "Name": "ySI - Sorting Icons - S6S Aid Addon patch-74358-1-0-1648916308.zip",
+        "Size": 614,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "yvileapsis",
+          "Description": "Sorting mod, using features of yUI to make inventory management a better experience.",
+          "FileID": 1000090360,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/74358/74358-1636568205-358833191.png",
+          "IsNSFW": false,
+          "ModID": 74358,
+          "Name": "ySI - Sorting Ycons",
           "Version": "1.0.0.0"
         }
       }
@@ -10342,6 +10879,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "B8mk3hj3X9w=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=59149\nfileID=1000042758",
+        "Name": "PrecisionCollisionClutterFix-59149-1-0.7z",
+        "Size": 38937,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MadAce",
+          "Description": "A mod that improves collision meshes.",
+          "FileID": 1000042758,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/59149-0-1433424635.png",
+          "IsNSFW": false,
+          "ModID": 59149,
+          "Name": "Collision Meshes",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "jOsjwn2zUts=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=65046\nfileID=1000096843",
         "Name": "1. Consistent Pip-boy Icons-65046-4-4-1659349331.7z",
@@ -10594,6 +11152,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "5r2OXeIdElE=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=72135\nfileID=1000075302",
+        "Name": "HDJRaD - Much Needed LOD Patch-72135-1-0-1619291139.7z",
+        "Size": 385,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "zedas",
+          "Description": "Restores the cut outflow jets to Hoover Dam and makes them visible up \u0026amp; down the Colorado.",
+          "FileID": 1000075302,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/72135/72135-1619224044-2000488299.png",
+          "IsNSFW": false,
+          "ModID": 72135,
+          "Name": "Hoover Dam Jets Restored and Distant",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "zQC85x/ncP8=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=70160\nfileID=1000087623",
         "Name": "01 - Improved Male Body - FOMOD Installer-70160-1-4-1644720615.7z",
@@ -10783,20 +11362,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qX/EgkSoXIE=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=70177\nfileID=1000066827",
-        "Name": "QwibQwib\u0027s Mariposa Mutants-70177-v1-1-1603736079.zip",
-        "Size": 1792064,
+        "Hash": "QjWS0vowWK4=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=78217\nfileID=1000098633",
+        "Name": "Menace of The New West-78217-1-1-1662439262.7z",
+        "Size": 4482197,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "QwibQwib",
-          "Description": "New faces for Super mutants and nightkin inspired by the classic fallout games.",
-          "FileID": 1000066827,
+          "Author": "Wombat",
+          "Description": "Complete character overhaul in classic Fallout style for all New Vegas super mutants",
+          "FileID": 1000098633,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/70177/70177-1603295442-352263250.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/78217/78217-1662024631-1661114168.jpeg",
           "IsNSFW": false,
-          "ModID": 70177,
-          "Name": "Mariposa Mutants",
+          "ModID": 78217,
+          "Name": "Menace of The New West",
           "Version": "1.1.0.0"
         }
       }
@@ -11218,6 +11797,27 @@
           "ModID": 75746,
           "Name": "SIDE - Simple Items Distributed Everywhere",
           "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ICTA/lhO8q0=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=78016\nfileID=1000097850",
+        "Name": "Simple Camera Shoulder Swap - (AIM POV)-78016-1-1660871383.zip",
+        "Size": 1118,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "zebumper",
+          "Description": "esp-free mod to shoulder-swap the camera in 3rd POV.",
+          "FileID": 1000097850,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/78016/78016-1661102686-690463782.jpeg",
+          "IsNSFW": false,
+          "ModID": 78016,
+          "Name": "Simple Camera Shoulder Swap",
+          "Version": "1.0.0.0"
         }
       }
     },
