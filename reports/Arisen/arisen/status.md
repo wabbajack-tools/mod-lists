@@ -1,4 +1,4 @@
-## Validation Report - Apotheosis (Arisen/apotheosis)
+## Validation Report - Arisen (Arisen/arisen)
 
 
 ### Invalid (0)
