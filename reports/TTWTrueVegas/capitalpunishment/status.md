@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (885)
+### Valid (887)
 *  [_TTW Interiors Combo v6.5-66449-v6-5-1554528986.7z](https://www.nexusmods.com/newvegas/mods/66449/?tab=files&file_id=1000053074)
 *  [00 - Alcohol Bottles - Overhaul-73919-1-0-2-1644020370.7z](https://www.nexusmods.com/newvegas/mods/73919/?tab=files&file_id=1000087139)
 *  [00 - Better Books-74333-1-0-1636330917.7z](https://www.nexusmods.com/newvegas/mods/74333/?tab=files&file_id=1000083742)
@@ -459,6 +459,8 @@
 *  FalloutNV.exe
 *  FalloutNV.ico
 *  FalloutNVLauncher.exe
+*  [Fast V.A.T.S. and Kill Camera 1.1-73504-1-1-1640988333.zip](https://www.nexusmods.com/newvegas/mods/73504/?tab=files&file_id=1000085786)
+*  [Faster Terminals-36902-1-0.7z](https://www.nexusmods.com/newvegas/mods/36902/?tab=files&file_id=74490)
 *  [Female Anim C-75420-2-1645343696.rar](https://www.nexusmods.com/newvegas/mods/75420/?tab=files&file_id=1000087986)
 *  [Feral Ghoul Retexture Mod by Koldorn-38727-1-0.rar](https://www.nexusmods.com/newvegas/mods/38727/?tab=files&file_id=80814)
 *  [File-72599-1-0-1623168172.7z](https://www.nexusmods.com/newvegas/mods/72599/?tab=files&file_id=1000077238)
@@ -483,8 +485,6 @@
 *  [HDJRaD - Much Needed LOD Patch-72135-1-0-1619291139.7z](https://www.nexusmods.com/newvegas/mods/72135/?tab=files&file_id=1000075302)
 *  [Hectrol Lockinterface Deluxe HighRes Retex-39945-1-0.7z](https://www.nexusmods.com/newvegas/mods/39945/?tab=files&file_id=84744)
 *  [Hectrol Tumbleweed Deluxe HighRes Retex-40333.7z](https://www.nexusmods.com/newvegas/mods/40333/?tab=files&file_id=86118)
-*  [Height Randomizer - TTW-70159-1-1-1604323518.7z](https://www.nexusmods.com/newvegas/mods/70159/?tab=files&file_id=1000067122)
-*  [Height Randomizer Config-78278-1-0-1662456628.zip](https://www.nexusmods.com/newvegas/mods/78278/?tab=files&file_id=1000098642)
 *  [Helmet Overlay-67870-1-9-1-1653754928.7z](https://www.nexusmods.com/newvegas/mods/67870/?tab=files&file_id=1000093262)
 *  [Hi Res Posters-64589-0-7-1547670614.7z](https://www.nexusmods.com/newvegas/mods/64589/?tab=files&file_id=1000051593)
 *  [Hi-Res Eyes 1-2-37537-1.rar](https://www.nexusmods.com/newvegas/mods/37537/?tab=files&file_id=78459)
@@ -533,6 +533,8 @@
 *  [Legendary Weapon Anims-77627-1-1658677157.rar](https://www.nexusmods.com/newvegas/mods/77627/?tab=files&file_id=1000096432)
 *  [Less Fertile Flora Overhaul-71422-2-1-1639614033.rar](https://www.nexusmods.com/newvegas/mods/71422/?tab=files&file_id=1000085165)
 *  [Less Flickery City of New Vegas-72061-0-01-1618409500.zip](https://www.nexusmods.com/newvegas/mods/72061/?tab=files&file_id=1000074936)
+*  libvorbis.dll
+*  libvorbisfile.dll
 *  [Lime's Faction Safehouse Overhaul-69997-2-10-1632219786.zip](https://www.nexusmods.com/newvegas/mods/69997/?tab=files&file_id=1000081397)
 *  [Lime's Fort Overhaul-73749-1-20-1632706091.zip](https://www.nexusmods.com/newvegas/mods/73749/?tab=files&file_id=1000081670)
 *  [LODadditions-61206-1-07-1604265497.7z](https://www.nexusmods.com/newvegas/mods/61206/?tab=files&file_id=1000067094)
@@ -559,7 +561,6 @@
 *  [Menace of The New West-78217-1-1-1662439262.7z](https://www.nexusmods.com/newvegas/mods/78217/?tab=files&file_id=1000098633)
 *  [MFC Meshes-58734-v1-0.7z](https://www.nexusmods.com/newvegas/mods/58734/?tab=files&file_id=1000027541)
 *  [MGs NCR Pack 7-42551.7z](https://www.nexusmods.com/newvegas/mods/42551/?tab=files&file_id=103975)
-*  [Minimal ENB Hair Fixes-68942-1-0-1589890664.rar](https://www.nexusmods.com/newvegas/mods/68942/?tab=files&file_id=1000062055)
 *  [MLF-68714-3-0-1652987496.zip](https://www.nexusmods.com/newvegas/mods/68714/?tab=files&file_id=1000092775)
 *  [Mod.Organizer-2.4.4.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z)
 *  [Mojave Arsenal - Default INI-62941-2-72-1647168386.7z](https://www.nexusmods.com/newvegas/mods/62941/?tab=files&file_id=1000089096)
@@ -601,6 +602,7 @@
 *  [NV Translucency Overhaul - 2x Upscale-70276-1-3-1610305367.7z](https://www.nexusmods.com/newvegas/mods/70276/?tab=files&file_id=1000069437)
 *  [NVAC - New Vegas Anti Crash-53635-7-5-1-0.zip](https://www.nexusmods.com/newvegas/mods/53635/?tab=files&file_id=1000039152)
 *  [NVCS Installer-68776-12-1617226207.zip](https://www.nexusmods.com/newvegas/mods/68776/?tab=files&file_id=1000074348)
+*  [NVHR-69779-3-2-1622060833.zip](https://www.nexusmods.com/newvegas/mods/69779/?tab=files&file_id=1000076606)
 *  [nvse_6_2_8.7z](https://github.com/xNVSE/NVSE/releases/download/6.2.8/nvse_6_2_8.7z)
 *  [NVTF-66537-9-9-7-1656853295.zip](https://www.nexusmods.com/newvegas/mods/66537/?tab=files&file_id=1000095253)
 *  [One Hand Melee HD-42509-1.rar](https://www.nexusmods.com/newvegas/mods/42509/?tab=files&file_id=92999)
@@ -625,6 +627,7 @@
 *  [Quickthrow Stylized FNV Icons-66876-1-1-1557447705.7z](https://www.nexusmods.com/newvegas/mods/66876/?tab=files&file_id=1000053775)
 *  [RAD - Overhaul-71541-2-1-0-1647663847.zip](https://www.nexusmods.com/newvegas/mods/71541/?tab=files&file_id=1000089456)
 *  [Ragdolls TTW-59147-5-3-9--1606565836.7z](https://www.nexusmods.com/newvegas/mods/59147/?tab=files&file_id=1000068113)
+*  [RBTC - Helmet Overlays Patch-77437-1-1-1658187740.7z](https://www.nexusmods.com/newvegas/mods/77437/?tab=files&file_id=1000096164)
 *  Readme.txt
 *  [Real Unique Flame Weapons ENG-76035-1-0-1649250380.rar](https://www.nexusmods.com/newvegas/mods/76035/?tab=files&file_id=1000090561)
 *  [Realistic Headshots V1_4 -35037.zip](https://www.nexusmods.com/newvegas/mods/35037/?tab=files&file_id=69606)
@@ -816,7 +819,6 @@
 *  [Spice Config-73484-4-1645998138.rar](https://www.nexusmods.com/newvegas/mods/73484/?tab=files&file_id=1000088453)
 *  [splash.7z](https://authored-files.wabbajack.org/splash.7z_a201bb74-a026-44a7-ac93-d37c2644ba44)
 *  steam_api.dll
-*  [Stewie Tweaks INI-66347-2-1-1562243757.zip](https://www.nexusmods.com/newvegas/mods/66347/?tab=files&file_id=1000054871)
 *  [Stewie Tweaks-66347-8-20-1661463079.zip](https://www.nexusmods.com/newvegas/mods/66347/?tab=files&file_id=1000098171)
 *  [Strip Lights Region Fix - Hoover Dam Jets Restored and Distant-73596-Patch-1644119080.7z](https://www.nexusmods.com/newvegas/mods/73596/?tab=files&file_id=1000087212)
 *  [Strip Lights Region Fix - The Living Desert-73596-Patch-1644119113.7z](https://www.nexusmods.com/newvegas/mods/73596/?tab=files&file_id=1000087213)
@@ -841,11 +843,11 @@
 *  [ttw - mojave raiders patch-74589-1-1-1648232759.7z](https://www.nexusmods.com/newvegas/mods/74589/?tab=files&file_id=1000089830)
 *  [TTW - More Ticket Options-77419-1-0-1657311786.zip](https://www.nexusmods.com/newvegas/mods/77419/?tab=files&file_id=1000095602)
 *  [TTW Addon-73481-1-1-1658256422.zip](https://www.nexusmods.com/newvegas/mods/73481/?tab=files&file_id=1000096209)
-*  [TTW Collection Resources-77738-1-2-1660579654.7z](https://www.nexusmods.com/newvegas/mods/77738/?tab=files&file_id=1000097663)
 *  [TTW DC Flora Overhaul - Dead Edition-71839-1-6-1659365470.zip](https://www.nexusmods.com/newvegas/mods/71839/?tab=files&file_id=1000096851)
 *  [TTW Hardcore Zeta AND Delay DLC Redux Patch v3.1-77340-3-1-1658707267.zip](https://www.nexusmods.com/newvegas/mods/77340/?tab=files&file_id=1000096474)
 *  [TTW Interiors Core v4.3.3-66449-v4-3-3-1554528862.7z](https://www.nexusmods.com/newvegas/mods/66449/?tab=files&file_id=1000053073)
 *  [TTW Merged Collectable Quests-75829-1-0-1648101211.7z](https://www.nexusmods.com/newvegas/mods/75829/?tab=files&file_id=1000089749)
+*  [TTW Modlist Resources-77738-1-3-1663353643.7z](https://www.nexusmods.com/newvegas/mods/77738/?tab=files&file_id=1000099048)
 *  [TTW Mothership Zeta Rehaul v3.1-77340-3-1-1658707146.zip](https://www.nexusmods.com/newvegas/mods/77340/?tab=files&file_id=1000096472)
 *  [TTW New Vegas Speech Checks Patch v3.0-77340-3-0-1657752643.zip](https://www.nexusmods.com/newvegas/mods/77340/?tab=files&file_id=1000095882)
 *  [TTW New Vegas Speech Checks-68736-1-4-1657361317.7z](https://www.nexusmods.com/newvegas/mods/68736/?tab=files&file_id=1000095630)

@@ -1,8 +1,8 @@
 {
   "MachineURL": "TTWTrueVegas/capitalpunishment",
   "Name": "Capital Punishment",
-  "Version": "0.2",
-  "ModListHash": "VYIDQ26nKoI=",
+  "Version": "0.3",
+  "ModListHash": "0VWbUn1+O2A=",
   "Archives": [
     {
       "Status": "Valid",
@@ -60,6 +60,27 @@
           "GameFile": "binkw32.dll",
           "GameVersion": "1.4.0.525",
           "Hash": "EHVqe5JmdU8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "M8q6fWkLPxI=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=69779\nfileID=1000076606",
+        "Name": "NVHR-69779-3-2-1622060833.zip",
+        "Size": 100111,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "iranrmrf",
+          "Description": "This library will replace the in-game heap with a faster, more optimized version. It should decrease load times, remove some stutter and slightly improve frame rate.",
+          "FileID": 1000076606,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/69779/69779-1598478840-261539760.png",
+          "IsNSFW": false,
+          "ModID": 69779,
+          "Name": "New Vegas Heap Replacer",
+          "Version": "3.2.0.0"
         }
       }
     },
@@ -198,6 +219,38 @@
           "GameFile": "high.ini",
           "GameVersion": "1.4.0.525",
           "Hash": "HGzxeu91GTQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hH9CoPGKkJk=",
+        "Meta": "[General]\ngameName=New Vegas\ngameFile=libvorbis.dll",
+        "Name": "libvorbis.dll",
+        "Size": 1241528,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "libvorbis.dll",
+          "GameVersion": "1.4.0.525",
+          "Hash": "hH9CoPGKkJk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7i03JvYf6jI=",
+        "Meta": "[General]\ngameName=New Vegas\ngameFile=libvorbisfile.dll",
+        "Name": "libvorbisfile.dll",
+        "Size": 120248,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "libvorbisfile.dll",
+          "GameVersion": "1.4.0.525",
+          "Hash": "7i03JvYf6jI="
         }
       }
     },
@@ -1973,6 +2026,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "UXMRlJNhccQ=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=73504\nfileID=1000085786",
+        "Name": "Fast V.A.T.S. and Kill Camera 1.1-73504-1-1-1640988333.zip",
+        "Size": 5856,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "JimmyCM123",
+          "Description": "Shortens the V.A.T.S. and kill camera process to keep you in the action.",
+          "FileID": 1000085786,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/73504/73504-1630277250-767212417.jpeg",
+          "IsNSFW": false,
+          "ModID": 73504,
+          "Name": "Fast V.A.T.S. and Kill Camera",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kJMMArOP21U=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=36902\nfileID=74490",
+        "Name": "Faster Terminals-36902-1-0.7z",
+        "Size": 557,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ZaAl",
+          "Description": "Speeds up terminal type rate.\n\nNo more waiting for login and text display.",
+          "FileID": 74490,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 36902,
+          "Name": "Faster Terminals",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "jL/swf58gaE=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=78111\nfileID=1000098511",
         "Name": "SD_Fatigue-78111-0-1-5-1662171600.zip",
@@ -2261,27 +2356,6 @@
           "ModID": 40333,
           "Name": "Hectrol Tumbleweed Deluxe HighRes Retex",
           "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3XZ0SMar1/M=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=70159\nfileID=1000067122",
-        "Name": "Height Randomizer - TTW-70159-1-1-1604323518.7z",
-        "Size": 53592,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "carxt - CovenantTurtle",
-          "Description": "Randomises NPC height in such a way that it\u0027s consistent across saves and playthroughs. Includes customisable INI settings for height scaling with SPECIAL, and/or gender disparity.",
-          "FileID": 1000067122,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/70159/70159-1603901150-1129195733.jpeg",
-          "IsNSFW": false,
-          "ModID": 70159,
-          "Name": "Height Randomizer NVSE",
-          "Version": "1.1.0.0"
         }
       }
     },
@@ -5157,21 +5231,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0bCqN6zkbS8=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=77738\nfileID=1000097663",
-        "Name": "TTW Collection Resources-77738-1-2-1660579654.7z",
-        "Size": 766012,
+        "Hash": "+H/6ApIUUvY=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=77738\nfileID=1000099048",
+        "Name": "TTW Modlist Resources-77738-1-3-1663353643.7z",
+        "Size": 765884,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "The True Vegas Team",
           "Description": "These are the resources for TTW True Vegas: Capital Punishment, an upcoming modpack. Do not download this unless you are doing so with the collection",
-          "FileID": 1000097663,
+          "FileID": 1000099048,
           "GameName": "FalloutNewVegas",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77738/77738-1659296211-937016255.png",
           "IsNSFW": false,
           "ModID": 77738,
           "Name": "TTW True Vegas Resources",
-          "Version": "1.2.0.0"
+          "Version": "1.3.0.0"
         }
       }
     },
@@ -6165,6 +6239,27 @@
           "IsNSFW": false,
           "ModID": 75682,
           "Name": "Hardcore Forever",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eHs5cmYoTCM=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=77437\nfileID=1000096164",
+        "Name": "RBTC - Helmet Overlays Patch-77437-1-1-1658187740.7z",
+        "Size": 1280,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NeonNito",
+          "Description": "Adds Helmet Overlays to ALL helmets, Power armor and Non-Power armor, to the mod \u0022Rebuild the Capital\u0022.",
+          "FileID": 1000096164,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77437/77437-1657497001-1418711992.jpeg",
+          "IsNSFW": false,
+          "ModID": 77437,
+          "Name": "Helmet Overlays - Rebuild the Capital Patch",
           "Version": "1.1.0.0"
         }
       }
@@ -9276,27 +9371,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "N4SoDZ2eJr8=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=78278\nfileID=1000098642",
-        "Name": "Height Randomizer Config-78278-1-0-1662456628.zip",
-        "Size": 1156,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Crygreg",
-          "Description": "This custom .ini tries to prevent Height Randomizer from turning a lot of characters into dwarves.",
-          "FileID": 1000098642,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 78278,
-          "Name": "Height Randomizer Custom Config",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "zn/bBjn0SJI=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=64589\nfileID=1000051593",
         "Name": "Hi Res Posters-64589-0-7-1547670614.7z",
@@ -9752,27 +9826,6 @@
           "IsNSFW": false,
           "ModID": 76251,
           "Name": "Different PowerFist Animations Xolerys kNVSE",
-          "Version": "2.1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "bbEeh2MwkGI=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=66347\nfileID=1000054871",
-        "Name": "Stewie Tweaks INI-66347-2-1-1562243757.zip",
-        "Size": 535,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lStewieAl",
-          "Description": "Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs. \n\nIncludes Inventory Searching, Cookable Grenades, Manual Reload, Smooth Aiming, WASD Menu Support and more. \n\nFully compatible with TTW and The Frontier.",
-          "FileID": 1000054871,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/66347/66347-1609155725-1037587166.png",
-          "IsNSFW": false,
-          "ModID": 66347,
-          "Name": "lStewieAl\u0027s Tweaks and Engine Fixes",
           "Version": "2.1.0.0"
         }
       }
@@ -10977,27 +11030,6 @@
           "IsNSFW": false,
           "ModID": 74921,
           "Name": "EDGE TTW - Early Decisions and Gameplay Enhancement",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "v76e80a/e5Y=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=68942\nfileID=1000062055",
-        "Name": "Minimal ENB Hair Fixes-68942-1-0-1589890664.rar",
-        "Size": 633344,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "caleb gamman",
-          "Description": "Fixes visual bugs with ENB AO and hair",
-          "FileID": 1000062055,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/68942/68942-1589889798-31920151.jpeg",
-          "IsNSFW": false,
-          "ModID": 68942,
-          "Name": "ENB Hair Fixes (Minimal)",
           "Version": "1.0.0.0"
         }
       }
