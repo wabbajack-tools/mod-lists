@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (887)
+### Valid (885)
 *  [_TTW Interiors Combo v6.5-66449-v6-5-1554528986.7z](https://www.nexusmods.com/newvegas/mods/66449/?tab=files&file_id=1000053074)
 *  [00 - Alcohol Bottles - Overhaul-73919-1-0-2-1644020370.7z](https://www.nexusmods.com/newvegas/mods/73919/?tab=files&file_id=1000087139)
 *  [00 - Better Books-74333-1-0-1636330917.7z](https://www.nexusmods.com/newvegas/mods/74333/?tab=files&file_id=1000083742)
@@ -533,8 +533,6 @@
 *  [Legendary Weapon Anims-77627-1-1658677157.rar](https://www.nexusmods.com/newvegas/mods/77627/?tab=files&file_id=1000096432)
 *  [Less Fertile Flora Overhaul-71422-2-1-1639614033.rar](https://www.nexusmods.com/newvegas/mods/71422/?tab=files&file_id=1000085165)
 *  [Less Flickery City of New Vegas-72061-0-01-1618409500.zip](https://www.nexusmods.com/newvegas/mods/72061/?tab=files&file_id=1000074936)
-*  libvorbis.dll
-*  libvorbisfile.dll
 *  [Lime's Faction Safehouse Overhaul-69997-2-10-1632219786.zip](https://www.nexusmods.com/newvegas/mods/69997/?tab=files&file_id=1000081397)
 *  [Lime's Fort Overhaul-73749-1-20-1632706091.zip](https://www.nexusmods.com/newvegas/mods/73749/?tab=files&file_id=1000081670)
 *  [LODadditions-61206-1-07-1604265497.7z](https://www.nexusmods.com/newvegas/mods/61206/?tab=files&file_id=1000067094)
