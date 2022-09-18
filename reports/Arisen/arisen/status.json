@@ -1,8 +1,8 @@
 {
   "MachineURL": "Arisen/arisen",
   "Name": "Arisen",
-  "Version": "1.3.1.1",
-  "ModListHash": "wSDxj3LajDg=",
+  "Version": "1.3.1.2",
+  "ModListHash": "SEE++CbgfUs=",
   "Archives": [
     {
       "Status": "Valid",
@@ -106,6 +106,20 @@
           "ModID": 42161,
           "Name": "No Grass In Objects",
           "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iyHKJ0Q3SPM=",
+        "Meta": "[General]\ndirectURL=https://github.com/LostDragonist/MO2-Plugins/releases/download/2022.01.25/LootPreventifier.zip",
+        "Name": "LootPreventifier.zip",
+        "Size": 891,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/LostDragonist/MO2-Plugins/releases/download/2022.01.25/LootPreventifier.zip"
         }
       }
     },
@@ -672,21 +686,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "CTu12pZ60kU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=30191\nfileID=312590",
-        "Name": "Adamant - A Perk Overhaul-30191-5-6-0-1662141119.7z",
-        "Size": 96629,
+        "Hash": "0iSVjnvNJy4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=30191\nfileID=313873",
+        "Name": "Adamant - A Perk Overhaul-30191-5-6-1-1662503766.7z",
+        "Size": 96466,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Simon Magus",
           "Description": "Adamant is a complete overhaul of Skyrim\u2019s perk trees designed to balance existing skills and add powerful new perks to the game.",
-          "FileID": 312590,
+          "FileID": 313873,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/30191/30191-1572896988-939425731.png",
           "IsNSFW": false,
           "ModID": 30191,
           "Name": "Adamant - A Perk Overhaul",
-          "Version": "5.6.0.0"
+          "Version": "5.6.1.0"
         }
       }
     },
@@ -14456,21 +14470,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "J/mHgD6iyx8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=27839\nfileID=312588",
-        "Name": "Mysticism - A Magic Overhaul-27839-2-1-0-1662140795.7z",
-        "Size": 10912078,
+        "Hash": "LGdw4x2rwrM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=27839\nfileID=313872",
+        "Name": "Mysticism - A Magic Overhaul-27839-2-1-2-1662503713.7z",
+        "Size": 10912443,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Simon Magus",
           "Description": "Mysticism is an overhaul that fixes bugs in Vanilla spells, fills in gaps in the game\u0027s magic progression, and adds new spells from previous Elder Scrolls titles.",
-          "FileID": 312588,
+          "FileID": 313872,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27839/27839-1564552769-1829074082.png",
           "IsNSFW": false,
           "ModID": 27839,
           "Name": "Mysticism - A Magic Overhaul",
-          "Version": "2.1.0.0"
+          "Version": "2.1.2.0"
         }
       }
     },
@@ -16024,6 +16038,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "70/hrzkO+QA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=29402\nfileID=139352",
+        "Name": "Perks for Questing SE v1.2-29402-1-2-1589225687.7z",
+        "Size": 1895799,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Klamactus",
+          "Description": "Grants the player new perks and powers upon completion of quest lines.",
+          "FileID": 139352,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29402/29402-1570073566-441303673.png",
+          "IsNSFW": false,
+          "ModID": 29402,
+          "Name": "Special Perks from Questing (SE)",
+          "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Q1F4BbpumPA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=24859\nfileID=88109",
         "Name": "Realistic Room Rental - Basic-24859-1-71-1555006619.rar",
@@ -16171,21 +16206,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0p9M9U9wQiY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=75447\nfileID=316446",
-        "Name": "Staggerlock Prevention for Poise-75447-1-0-0-1663290477.7z",
-        "Size": 512,
+        "Hash": "IPLpbR5U7Ik=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=75447\nfileID=316993",
+        "Name": "Staggerlock Prevention for Poise-75447-2-0-0-1663439249.7z",
+        "Size": 597,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ylikollikas",
           "Description": "Mod aims to alleviate the stagger lock problems that can arise when using Loki\u0027s Poise.",
-          "FileID": 316446,
+          "FileID": 316993,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/75447/75447-1663289847-506548578.png",
           "IsNSFW": false,
           "ModID": 75447,
           "Name": "Poise Staggerlock Prevention",
-          "Version": "1.0.0.0"
+          "Version": "2.0.0.0"
         }
       }
     },
@@ -22626,6 +22661,27 @@
           "ModID": 25204,
           "Name": "Ziovdendian Bodypaint - Designs of the Lupine - RaceMenu Overlays - Special Edition",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wjEBqOgOIy8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=48117\nfileID=196086",
+        "Name": "zxlice\u0027s ultimate potion animation-48117-1-0-1-1617598031.zip",
+        "Size": 853,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "XsyouxX",
+          "Description": "An alternativ way of slowdown when you are drinking with ZUPA installed.  If you\u0027ve got stuck after drinking, maybe this patch is for you.",
+          "FileID": 196086,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/48117/48117-1617593432-1225670518.png",
+          "IsNSFW": false,
+          "ModID": 48117,
+          "Name": "Zxlice\u0027s Ultimate Potion Animation - Alternative slowdown effect Patch",
+          "Version": "1.0.1.0"
         }
       }
     },
@@ -31488,6 +31544,27 @@
           "ModID": 8889,
           "Name": "Skyrim Skill Uncapper",
           "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9OyBO9I4F2I=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=46536\nfileID=189400",
+        "Name": "SkyrimUncapperFixed-46536-0-0-1-1614884169.zip",
+        "Size": 192565,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Author",
+          "Description": "Original Skyrim Skill Uncapper(V1.1.0) has bug that causes random initialization failure.\n\nWhen bug happens SkyrimUncapper.log ends with:\n\ncouldn\u0027t allocate trampoline, no free space before image\n\ncouldn\u0027t create codegen buffer. this is fatal. skipping remainder of init process.",
+          "FileID": 189400,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46536/46536-1614885853-36073399.jpeg",
+          "IsNSFW": false,
+          "ModID": 46536,
+          "Name": "Skyrim Skill Uncapper(fixed)",
+          "Version": "0.0.1.0"
         }
       }
     },
@@ -41126,6 +41203,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Glt0oeQsWQM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=75608\nfileID=317073",
+        "Name": "Arisen Racemenu Presets-75608-1-0-1-1663450480.7z",
+        "Size": 10332,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Hurlocks",
+          "Description": "just a couple of presets made in the Arisen modlist for Wabbajack!",
+          "FileID": 317073,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/75608/75608-1663446431-1841260204.png",
+          "IsNSFW": false,
+          "ModID": 75608,
+          "Name": "Arisen RaceMenu Presets",
+          "Version": "1.0.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "TyFjWE5Fu3w=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=7292\nfileID=17309",
         "Name": "SSE 2K Textures-7292-1-0.zip",
@@ -44626,6 +44724,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Y05ID+WM5vM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=75482\nfileID=316599",
+        "Name": "Goetia Animations - Sneak Magic-75482-1-0-1663350385.7z",
+        "Size": 601502,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Verolevi",
+          "Description": "A comprehensive replacer for all third person magic (spells, staves, spellsword/hybrid) animations while sneaking, and fixes for the jittery and inconsistent aim direction with magic while moving and/or turning. Requires DAR.",
+          "FileID": 316599,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/75482/75482-1663350278-1752374431.png",
+          "IsNSFW": false,
+          "ModID": 75482,
+          "Name": "Goetia Animations - Sneak Magic",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "A8Ekw6uMY6s=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=71991\nfileID=301867",
         "Name": "Portcullis Collision Fix (Ruins Clutter Improved)-71991-0-0-1-1658688694.7z",
@@ -46369,20 +46488,83 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "nyNAb3wlL5o=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=67065\nfileID=282677",
-        "Name": "Elevated NPCs-67065-1-3-1652186327.7z",
-        "Size": 650052050,
+        "Hash": "b7ysFXE7uJg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=65866\nfileID=274325",
+        "Name": "LotD Upscale - Armors AiO - 4K version-65866-v-1-0a-1648904089.7z",
+        "Size": 2798675474,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "eeekie",
-          "Description": "Unique, realistic NPC replacers created with a lot of time, care, and consideration.",
-          "FileID": 282677,
+          "Author": "Wuerfelhusten",
+          "Description": "This mod includes higher resolution and higher quality textures of all armor, clothing, robes and trinkets from the popular Legacy of the Dragonborn mod.",
+          "FileID": 274325,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67065/67065-1650911769-1124487205.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65866/65866-1648902827-462325530.jpeg",
           "IsNSFW": false,
-          "ModID": 67065,
-          "Name": "Elevated NPCs",
+          "ModID": 65866,
+          "Name": "Legacy of the Dragonborn - LotD Upscales - Armors All in One Pack",
+          "Version": ".1.0a"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "s22hF4O5cfI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54422\nfileID=223358",
+        "Name": "Modpocalypse NPCs - All Vanilla NPCs v3-54422-1-0-1629769843.7z",
+        "Size": 861471059,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ModpocalypseGaming",
+          "Description": "This mod improves the visual appearance of every NPC in the base game.",
+          "FileID": 223358,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54422/54422-1629766511-207602721.jpeg",
+          "IsNSFW": false,
+          "ModID": 54422,
+          "Name": "Modpocalypse NPCs - All Vanilla NPCs",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TO8dl0PXlz4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=35404\nfileID=211849",
+        "Name": "Northbourne NPCs of Whiterun Hold  -  Full Version-35404-1-2-1625034267.7z",
+        "Size": 345991045,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Southpawe and zxamonxz",
+          "Description": "This is a high poly face replacer/redesign for all 102 named male and female NPCs in Whiterun Hold (except children and beast races). Comes in two versions, Full version and a Males Only version.",
+          "FileID": 211849,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35404/35404-1608509110-247189781.jpeg",
+          "IsNSFW": false,
+          "ModID": 35404,
+          "Name": "Northbourne NPCs of Whiterun Hold",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yy/THbwAbIA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42043\nfileID=248825",
+        "Name": "PAN_NPCs - Males SE-42043-1-1-1639414959.rar",
+        "Size": 159007127,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Pandorable",
+          "Description": "A visual overhaul of 60 male NPCs.",
+          "FileID": 248825,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42043/104280-1604269076-392698532.png",
+          "IsNSFW": false,
+          "ModID": 42043,
+          "Name": "Pandorable\u0027s NPCs - males",
           "Version": "0.0.0.0"
         }
       }
@@ -46411,6 +46593,321 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "2kUFy19UgZ8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=19012\nfileID=229960",
+        "Name": "PAN_NPCs-19012-1-4-1632324450.rar",
+        "Size": 189443994,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Pandorable",
+          "Description": "A visual overhaul of 85 female NPCs.",
+          "FileID": 229960,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19012/19012-1582678867-798894430.png",
+          "IsNSFW": false,
+          "ModID": 19012,
+          "Name": "Pandorable\u0027s NPCs",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JHW5QvVlVFw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=22025\nfileID=75781",
+        "Name": "Metalsabers Beautiful Orcs of Skyrim-22025-1-0-1545341006.7z",
+        "Size": 29812443,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Metalsaber",
+          "Description": "This mod is an overhaul of the Orcs of Skyrim. I didn\u0027t touch the ones from the Bijin mod series. This mod includes new facegen/facetint data. It includes hair as well. This mod will use YOUR skin textures. I\u0027ve also updated a few of the characters outfits to non-hooded versions.",
+          "FileID": 75781,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22025/22025-1545341510-1608432808.jpeg",
+          "IsNSFW": false,
+          "ModID": 22025,
+          "Name": "Metalsabers Beautiful Orcs of Skyrim",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jyXhBusgEGk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42349\nfileID=176484",
+        "Name": "Northbourne NPCs of The Rift - Full Version-42349-1-3-1609142673.7z",
+        "Size": 193541333,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Southpawe",
+          "Description": "This is a high poly face replacer/redesign for all 125 named male and female NPCs in the Rift Region (except children and beast races).",
+          "FileID": 176484,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42349/42349-1605335148-540167349.jpeg",
+          "IsNSFW": false,
+          "ModID": 42349,
+          "Name": "Northbourne NPCs of the Rift",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7iYFwvha3P4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=57284\nfileID=265418",
+        "Name": "Fabulous Followers SE-57284-1-05-1645299017.zip",
+        "Size": 255001148,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tragedian",
+          "Description": "A makeover mod for Skyrim\u0027s followers featuring unique, lore-friendly looks \u0026amp; improved combat skills.",
+          "FileID": 265418,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57284/57284-1640479597-1876347314.png",
+          "IsNSFW": false,
+          "ModID": 57284,
+          "Name": "Tragedian\u0027s Fabulous Followers SSE",
+          "Version": "f1.05"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Nw/37e+byEY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44243\nfileID=178918",
+        "Name": "Shield Sisters Re-Imagined CBBE-44243-1-0-1610348019.7z",
+        "Size": 152255427,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Froztee",
+          "Description": "A visual overhaul for 24 of the warrior women that we know and love.",
+          "FileID": 178918,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44243/106223-1610317080-198408269.png",
+          "IsNSFW": false,
+          "ModID": 44243,
+          "Name": "Shield Sisters Re-Imagined SE",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cWhbemGGq3w=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43413\nfileID=174870",
+        "Name": "Northbourne NPCs of Winterhold Full Version-43413-1-1-1608230709.7z",
+        "Size": 266237504,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Southpawe",
+          "Description": "This is a high poly face replacer/redesign for all 34 named male and female NPCs in the Winterhold Region (except children and beast races).",
+          "FileID": 174870,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43413/43413-1608199664-1788629931.jpeg",
+          "IsNSFW": false,
+          "ModID": 43413,
+          "Name": "Northbourne NPCs of Winterhold",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3Yg++fDNoGg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68871\nfileID=287731",
+        "Name": "Lydia Replacer-68871-1-0-1653939390.7z",
+        "Size": 5726405,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Koralina",
+          "Description": "Mare follower or Lydia replacer, both High Poly Head, 4k and ESL flagged",
+          "FileID": 287731,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68871/68871-1653938898-718525378.png",
+          "IsNSFW": false,
+          "ModID": 68871,
+          "Name": "Mare Follower or Lydia Replacer - High Poly Head - 4K FaceTint - ESL",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UV7C5JRMY+I=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55877\nfileID=229684",
+        "Name": "PAN_NPCs - Sovngarde-55877-1-0-1632163033.rar",
+        "Size": 102148728,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Pandorable",
+          "Description": "Dead people deserve to be pretty too.",
+          "FileID": 229684,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55877/109031-1632154005-789479461.png",
+          "IsNSFW": false,
+          "ModID": 55877,
+          "Name": "Pandorable\u0027s Heroes of Sovngarde",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Qz4j54KtLQI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62213\nfileID=257876",
+        "Name": "Northbourne NPCs of Hjaalmarch-62213-1-0-1642588052.7z",
+        "Size": 62974113,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Southpawe",
+          "Description": "This is a high poly face replacer/redesign for all 27 named male and female NPCs in Hjaalmarch Hold (except children and beast races). Comes in two versions, full version and a Males Only version.",
+          "FileID": 257876,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62213/62213-1642586827-721851810.jpeg",
+          "IsNSFW": false,
+          "ModID": 62213,
+          "Name": "Northbourne NPCs of Hjaalmarch",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nyNAb3wlL5o=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=67065\nfileID=282677",
+        "Name": "Elevated NPCs-67065-1-3-1652186327.7z",
+        "Size": 650052050,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "eeekie",
+          "Description": "Unique, realistic NPC replacers created with a lot of time, care, and consideration.",
+          "FileID": 282677,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67065/67065-1650911769-1124487205.png",
+          "IsNSFW": false,
+          "ModID": 67065,
+          "Name": "Elevated NPCs",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nvys4vI+0mo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43293\nfileID=289943",
+        "Name": "Beards of Power - Sons of Skyrim-43293-3-2-3-1654787934.zip",
+        "Size": 630358629,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mharlek1",
+          "Description": "A spice of life mod for male npcs",
+          "FileID": 289943,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43293/43293-1607878843-1098057781.png",
+          "IsNSFW": false,
+          "ModID": 43293,
+          "Name": "Beards of Power - Sons of Skyrim - Male npc replacer",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sB+WJNJLZzk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=64057\nfileID=266435",
+        "Name": "Dapper Deliveries - A Courier Overhaul-64057-1-0-1645677635.zip",
+        "Size": 8909252,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tragedian",
+          "Description": "A makeover mod for Skyrim\u0027s favorite delivery boy.",
+          "FileID": 266435,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64057/64057-1645660298-1577275411.jpeg",
+          "IsNSFW": false,
+          "ModID": 64057,
+          "Name": "Dapper Deliveries - A Courier Overhaul",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bxtaxyRryKo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=34464\nfileID=277130",
+        "Name": "PAN_WarriorWomen SE-34464-1-4-1649964600.rar",
+        "Size": 20748852,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Pandorable",
+          "Description": "A visual overhaul of Mjoll the Lioness and Uthgerd the Unbroken.",
+          "FileID": 277130,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34464/102100-1586267662-1125752077.png",
+          "IsNSFW": false,
+          "ModID": 34464,
+          "Name": "Pandorable\u0027s Warrior Women - Mjoll Uthgerd",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "b5OmHvMDZb8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=64477\nfileID=278502",
+        "Name": "Legacy of the Dragonborn Visual Overhaul-64477-1-0-1650482465.7z",
+        "Size": 62865105,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mocia",
+          "Description": "6 months? How about 18?",
+          "FileID": 278502,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64477/64477-1650563561-287793649.png",
+          "IsNSFW": false,
+          "ModID": 64477,
+          "Name": "Legacy of the Dragonborn Visual Overhaul",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8e8ukMjOBu0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=69853\nfileID=292109",
+        "Name": "4K Skin Textures-69853-1-00-1655571849.7z",
+        "Size": 53546104,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Veracruze and Schnozymandias",
+          "Description": "Make Eola look like an interesting and unique NPC, like the Cannibal and the Namira Worshiper she was originally designed as.",
+          "FileID": 292109,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69853/69853-1655569353-1011918640.png",
+          "IsNSFW": true,
+          "ModID": 69853,
+          "Name": "Eola Reimagined",
+          "Version": "f1.00"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "r9UnXdjPXf4=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=30680\nfileID=114755",
         "Name": "Pandorable\u0027s NPCs - Dragonborn SE-30680-1-1-1575120229.rar",
@@ -46425,6 +46922,48 @@
           "IsNSFW": false,
           "ModID": 30680,
           "Name": "Pandorable\u0027s NPCs - Dragonborn",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pTYARduufe4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43430\nfileID=200583",
+        "Name": "Valerica-43430-na1-1619582163.7z",
+        "Size": 146116206,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Froztee",
+          "Description": "A visual overhaul of our favorite vampire princess.\n\nNow with a fancy FOMOD!",
+          "FileID": 200583,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43430/43430-1608233369-1789630651.jpeg",
+          "IsNSFW": false,
+          "ModID": 43430,
+          "Name": "Serana Re-Imagined SE",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Jg0LH9nUy5k=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43430\nfileID=181654",
+        "Name": "Serana Re-Imagined ESL Version-43430-2-0-1611543588.7z",
+        "Size": 407491834,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Froztee",
+          "Description": "A visual overhaul of our favorite vampire princess.\n\nNow with a fancy FOMOD!",
+          "FileID": 181654,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43430/43430-1608233369-1789630651.jpeg",
+          "IsNSFW": false,
+          "ModID": 43430,
+          "Name": "Serana Re-Imagined SE",
           "Version": "0.0.0.0"
         }
       }
@@ -46447,6 +46986,48 @@
           "ModID": 34827,
           "Name": "Lucien Replacer - Ella\u0027s Version",
           "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zniCvvjD1D8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42975\nfileID=172664",
+        "Name": "LOTDCT_BC7-42975-1-1606887427.7z",
+        "Size": 1788481040,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kartoffel",
+          "Description": "Mostly as a resource, these are the textures of LOTD cleaned of compression artifacts and some bad overwrites.",
+          "FileID": 172664,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42975/42975-1606884290-242268815.png",
+          "IsNSFW": false,
+          "ModID": 42975,
+          "Name": "Legacy of the Dragonborn Cleaned Textures",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0qpWF2bL56U=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42975\nfileID=173108",
+        "Name": "Blue Fabric Fix-42975-1-0-1-1607135750.7z",
+        "Size": 503373,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kartoffel",
+          "Description": "Mostly as a resource, these are the textures of LOTD cleaned of compression artifacts and some bad overwrites.",
+          "FileID": 173108,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42975/42975-1606884290-242268815.png",
+          "IsNSFW": false,
+          "ModID": 42975,
+          "Name": "Legacy of the Dragonborn Cleaned Textures",
+          "Version": "1.0.1.0"
         }
       }
     },
@@ -46516,90 +47097,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "TO8dl0PXlz4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=35404\nfileID=211849",
-        "Name": "Northbourne NPCs of Whiterun Hold  -  Full Version-35404-1-2-1625034267.7z",
-        "Size": 345991045,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Southpawe and zxamonxz",
-          "Description": "This is a high poly face replacer/redesign for all 102 named male and female NPCs in Whiterun Hold (except children and beast races). Comes in two versions, Full version and a Males Only version.",
-          "FileID": 211849,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35404/35404-1608509110-247189781.jpeg",
-          "IsNSFW": false,
-          "ModID": 35404,
-          "Name": "Northbourne NPCs of Whiterun Hold",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "yy/THbwAbIA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42043\nfileID=248825",
-        "Name": "PAN_NPCs - Males SE-42043-1-1-1639414959.rar",
-        "Size": 159007127,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pandorable",
-          "Description": "A visual overhaul of 60 male NPCs.",
-          "FileID": 248825,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42043/104280-1604269076-392698532.png",
-          "IsNSFW": false,
-          "ModID": 42043,
-          "Name": "Pandorable\u0027s NPCs - males",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "s22hF4O5cfI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54422\nfileID=223358",
-        "Name": "Modpocalypse NPCs - All Vanilla NPCs v3-54422-1-0-1629769843.7z",
-        "Size": 861471059,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ModpocalypseGaming",
-          "Description": "This mod improves the visual appearance of every NPC in the base game.",
-          "FileID": 223358,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54422/54422-1629766511-207602721.jpeg",
-          "IsNSFW": false,
-          "ModID": 54422,
-          "Name": "Modpocalypse NPCs - All Vanilla NPCs",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2kUFy19UgZ8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=19012\nfileID=229960",
-        "Name": "PAN_NPCs-19012-1-4-1632324450.rar",
-        "Size": 189443994,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pandorable",
-          "Description": "A visual overhaul of 85 female NPCs.",
-          "FileID": 229960,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19012/19012-1582678867-798894430.png",
-          "IsNSFW": false,
-          "ModID": 19012,
-          "Name": "Pandorable\u0027s NPCs",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "kLM+XHk8Mig=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=73389\nfileID=307601",
         "Name": "Project Cougar - Olava the Feeble-73389-1-0-1660521848.7z",
@@ -46615,174 +47112,6 @@
           "ModID": 73389,
           "Name": "Project Cougar - Olava the (not so) Feeble",
           "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "nvys4vI+0mo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43293\nfileID=289943",
-        "Name": "Beards of Power - Sons of Skyrim-43293-3-2-3-1654787934.zip",
-        "Size": 630358629,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Mharlek1",
-          "Description": "A spice of life mod for male npcs",
-          "FileID": 289943,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43293/43293-1607878843-1098057781.png",
-          "IsNSFW": false,
-          "ModID": 43293,
-          "Name": "Beards of Power - Sons of Skyrim - Male npc replacer",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7iYFwvha3P4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=57284\nfileID=265418",
-        "Name": "Fabulous Followers SE-57284-1-05-1645299017.zip",
-        "Size": 255001148,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Tragedian",
-          "Description": "A makeover mod for Skyrim\u0027s followers featuring unique, lore-friendly looks \u0026amp; improved combat skills.",
-          "FileID": 265418,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57284/57284-1640479597-1876347314.png",
-          "IsNSFW": false,
-          "ModID": 57284,
-          "Name": "Tragedian\u0027s Fabulous Followers SSE",
-          "Version": "f1.05"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "JHW5QvVlVFw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=22025\nfileID=75781",
-        "Name": "Metalsabers Beautiful Orcs of Skyrim-22025-1-0-1545341006.7z",
-        "Size": 29812443,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Metalsaber",
-          "Description": "This mod is an overhaul of the Orcs of Skyrim. I didn\u0027t touch the ones from the Bijin mod series. This mod includes new facegen/facetint data. It includes hair as well. This mod will use YOUR skin textures. I\u0027ve also updated a few of the characters outfits to non-hooded versions.",
-          "FileID": 75781,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22025/22025-1545341510-1608432808.jpeg",
-          "IsNSFW": false,
-          "ModID": 22025,
-          "Name": "Metalsabers Beautiful Orcs of Skyrim",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Qz4j54KtLQI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=62213\nfileID=257876",
-        "Name": "Northbourne NPCs of Hjaalmarch-62213-1-0-1642588052.7z",
-        "Size": 62974113,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Southpawe",
-          "Description": "This is a high poly face replacer/redesign for all 27 named male and female NPCs in Hjaalmarch Hold (except children and beast races). Comes in two versions, full version and a Males Only version.",
-          "FileID": 257876,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62213/62213-1642586827-721851810.jpeg",
-          "IsNSFW": false,
-          "ModID": 62213,
-          "Name": "Northbourne NPCs of Hjaalmarch",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "jyXhBusgEGk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42349\nfileID=176484",
-        "Name": "Northbourne NPCs of The Rift - Full Version-42349-1-3-1609142673.7z",
-        "Size": 193541333,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Southpawe",
-          "Description": "This is a high poly face replacer/redesign for all 125 named male and female NPCs in the Rift Region (except children and beast races).",
-          "FileID": 176484,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42349/42349-1605335148-540167349.jpeg",
-          "IsNSFW": false,
-          "ModID": 42349,
-          "Name": "Northbourne NPCs of the Rift",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Nw/37e+byEY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44243\nfileID=178918",
-        "Name": "Shield Sisters Re-Imagined CBBE-44243-1-0-1610348019.7z",
-        "Size": 152255427,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Froztee",
-          "Description": "A visual overhaul for 24 of the warrior women that we know and love.",
-          "FileID": 178918,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44243/106223-1610317080-198408269.png",
-          "IsNSFW": false,
-          "ModID": 44243,
-          "Name": "Shield Sisters Re-Imagined SE",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "bxtaxyRryKo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=34464\nfileID=277130",
-        "Name": "PAN_WarriorWomen SE-34464-1-4-1649964600.rar",
-        "Size": 20748852,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pandorable",
-          "Description": "A visual overhaul of Mjoll the Lioness and Uthgerd the Unbroken.",
-          "FileID": 277130,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34464/102100-1586267662-1125752077.png",
-          "IsNSFW": false,
-          "ModID": 34464,
-          "Name": "Pandorable\u0027s Warrior Women - Mjoll Uthgerd",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3Yg++fDNoGg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=68871\nfileID=287731",
-        "Name": "Lydia Replacer-68871-1-0-1653939390.7z",
-        "Size": 5726405,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Koralina",
-          "Description": "Mare follower or Lydia replacer, both High Poly Head, 4k and ESL flagged",
-          "FileID": 287731,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68871/68871-1653938898-718525378.png",
-          "IsNSFW": false,
-          "ModID": 68871,
-          "Name": "Mare Follower or Lydia Replacer - High Poly Head - 4K FaceTint - ESL",
-          "Version": "0.0.0.0"
         }
       }
     },
@@ -46824,27 +47153,6 @@
           "IsNSFW": false,
           "ModID": 56635,
           "Name": "Modpocalypse NPCs - Legacy of the Dragonborn",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "b5OmHvMDZb8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=64477\nfileID=278502",
-        "Name": "Legacy of the Dragonborn Visual Overhaul-64477-1-0-1650482465.7z",
-        "Size": 62865105,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mocia",
-          "Description": "6 months? How about 18?",
-          "FileID": 278502,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64477/64477-1650563561-287793649.png",
-          "IsNSFW": false,
-          "ModID": 64477,
-          "Name": "Legacy of the Dragonborn Visual Overhaul",
           "Version": "1.0.0.0"
         }
       }
@@ -46909,27 +47217,6 @@
           "ModID": 58196,
           "Name": "Modpocalypse NPCs - Moon and Star",
           "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "UV7C5JRMY+I=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=55877\nfileID=229684",
-        "Name": "PAN_NPCs - Sovngarde-55877-1-0-1632163033.rar",
-        "Size": 102148728,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pandorable",
-          "Description": "Dead people deserve to be pretty too.",
-          "FileID": 229684,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55877/109031-1632154005-789479461.png",
-          "IsNSFW": false,
-          "ModID": 55877,
-          "Name": "Pandorable\u0027s Heroes of Sovngarde",
-          "Version": "0.0.0.0"
         }
       }
     },
@@ -47020,111 +47307,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "pTYARduufe4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43430\nfileID=200583",
-        "Name": "Valerica-43430-na1-1619582163.7z",
-        "Size": 146116206,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Froztee",
-          "Description": "A visual overhaul of our favorite vampire princess.\n\nNow with a fancy FOMOD!",
-          "FileID": 200583,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43430/43430-1608233369-1789630651.jpeg",
-          "IsNSFW": false,
-          "ModID": 43430,
-          "Name": "Serana Re-Imagined SE",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Jg0LH9nUy5k=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43430\nfileID=181654",
-        "Name": "Serana Re-Imagined ESL Version-43430-2-0-1611543588.7z",
-        "Size": 407491834,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Froztee",
-          "Description": "A visual overhaul of our favorite vampire princess.\n\nNow with a fancy FOMOD!",
-          "FileID": 181654,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43430/43430-1608233369-1789630651.jpeg",
-          "IsNSFW": false,
-          "ModID": 43430,
-          "Name": "Serana Re-Imagined SE",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "b7ysFXE7uJg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=65866\nfileID=274325",
-        "Name": "LotD Upscale - Armors AiO - 4K version-65866-v-1-0a-1648904089.7z",
-        "Size": 2798675474,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Wuerfelhusten",
-          "Description": "This mod includes higher resolution and higher quality textures of all armor, clothing, robes and trinkets from the popular Legacy of the Dragonborn mod.",
-          "FileID": 274325,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65866/65866-1648902827-462325530.jpeg",
-          "IsNSFW": false,
-          "ModID": 65866,
-          "Name": "Legacy of the Dragonborn - LotD Upscales - Armors All in One Pack",
-          "Version": ".1.0a"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "zniCvvjD1D8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42975\nfileID=172664",
-        "Name": "LOTDCT_BC7-42975-1-1606887427.7z",
-        "Size": 1788481040,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kartoffel",
-          "Description": "Mostly as a resource, these are the textures of LOTD cleaned of compression artifacts and some bad overwrites.",
-          "FileID": 172664,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42975/42975-1606884290-242268815.png",
-          "IsNSFW": false,
-          "ModID": 42975,
-          "Name": "Legacy of the Dragonborn Cleaned Textures",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cWhbemGGq3w=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43413\nfileID=174870",
-        "Name": "Northbourne NPCs of Winterhold Full Version-43413-1-1-1608230709.7z",
-        "Size": 266237504,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Southpawe",
-          "Description": "This is a high poly face replacer/redesign for all 34 named male and female NPCs in the Winterhold Region (except children and beast races).",
-          "FileID": 174870,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43413/43413-1608199664-1788629931.jpeg",
-          "IsNSFW": false,
-          "ModID": 43413,
-          "Name": "Northbourne NPCs of Winterhold",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "brtjFkY03AQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=67065\nfileID=279970",
         "Name": "Optional file - no normal maps neckseam fix - MAIN FILE REQUIRED-67065-1-1-1651070619.7z",
@@ -47160,48 +47342,6 @@
           "IsNSFW": false,
           "ModID": 24135,
           "Name": "Pandorable\u0027s NPCs - Dawnguard",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8e8ukMjOBu0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=69853\nfileID=292109",
-        "Name": "4K Skin Textures-69853-1-00-1655571849.7z",
-        "Size": 53546104,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Veracruze and Schnozymandias",
-          "Description": "Make Eola look like an interesting and unique NPC, like the Cannibal and the Namira Worshiper she was originally designed as.",
-          "FileID": 292109,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69853/69853-1655569353-1011918640.png",
-          "IsNSFW": true,
-          "ModID": 69853,
-          "Name": "Eola Reimagined",
-          "Version": "f1.00"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "sB+WJNJLZzk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=64057\nfileID=266435",
-        "Name": "Dapper Deliveries - A Courier Overhaul-64057-1-0-1645677635.zip",
-        "Size": 8909252,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Tragedian",
-          "Description": "A makeover mod for Skyrim\u0027s favorite delivery boy.",
-          "FileID": 266435,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64057/64057-1645660298-1577275411.jpeg",
-          "IsNSFW": false,
-          "ModID": 64057,
-          "Name": "Dapper Deliveries - A Courier Overhaul",
           "Version": "0.0.0.0"
         }
       }
@@ -47245,27 +47385,6 @@
           "ModID": 56694,
           "Name": "Modpocalypse NPCs - The Great Town of Ivarstead",
           "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "0qpWF2bL56U=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42975\nfileID=173108",
-        "Name": "Blue Fabric Fix-42975-1-0-1-1607135750.7z",
-        "Size": 503373,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kartoffel",
-          "Description": "Mostly as a resource, these are the textures of LOTD cleaned of compression artifacts and some bad overwrites.",
-          "FileID": 173108,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42975/42975-1606884290-242268815.png",
-          "IsNSFW": false,
-          "ModID": 42975,
-          "Name": "Legacy of the Dragonborn Cleaned Textures",
-          "Version": "1.0.1.0"
         }
       }
     },
