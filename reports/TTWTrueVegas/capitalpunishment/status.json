@@ -1,8 +1,8 @@
 {
   "MachineURL": "TTWTrueVegas/capitalpunishment",
   "Name": "Capital Punishment",
-  "Version": "0.65",
-  "ModListHash": "rq3rPP1PynA=",
+  "Version": "0.70",
+  "ModListHash": "wTtW1rmTFEE=",
   "Archives": [
     {
       "Status": "Valid",
@@ -81,6 +81,19 @@
           "ModID": 69779,
           "Name": "New Vegas Heap Replacer",
           "Version": "3.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zb4D8/2DgCU=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Capital Punishment Reshade Files.7z_eb504467-42e9-42a1-ba0f-dd6679571f3c",
+        "Name": "Capital Punishment Reshade Files.7z",
+        "Size": 37002645,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/Capital%20Punishment%20Reshade%20Files.7z_eb504467-42e9-42a1-ba0f-dd6679571f3c"
         }
       }
     },
@@ -3836,6 +3849,27 @@
           "ModID": 77435,
           "Name": "Rebuild the Capitial - Titans of the new West Patch",
           "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "B6j0dDk2VKo=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=76632\nfileID=1000093456",
+        "Name": "Redesigned Quarries 2K-76632-0-1-1654024715.zip",
+        "Size": 558650525,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Spiffyskytrooper - Balebandro",
+          "Description": "Redesigned Quarries does what it says on the tin. This mod gives all quarries in New Vegas a complete and total facelift with working LODs, new meshes, and landscape repaints.",
+          "FileID": 1000093456,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/76632/76632-1654025058-1419339267.png",
+          "IsNSFW": false,
+          "ModID": 76632,
+          "Name": "Redesigned Quarries",
+          "Version": "0.1.0.0"
         }
       }
     },
@@ -9388,6 +9422,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "EAZ+eEw+ZTg=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=71240\nfileID=1000071348",
+        "Name": "HQ Metal Barrels - 2K-71240-0-1-1612998446.zip",
+        "Size": 31305993,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Spiffyskytrooper",
+          "Description": "Replaces all of the games metal barrel props with higher quality models and textures.",
+          "FileID": 1000071348,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71240/71240-1612987206-299957705.png",
+          "IsNSFW": false,
+          "ModID": 71240,
+          "Name": "HQ Metal Barrels",
+          "Version": "0.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "jwsDiYFSCEc=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=70801\nfileID=1000081407",
         "Name": "Improved Console-70801-1-6-1632234096.7z",
@@ -9466,6 +9521,48 @@
           "ModID": 71336,
           "Name": "kNVSE Animation Plugin",
           "Version": "20.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DqXWt5FR3/k=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=77960\nfileID=1000097648",
+        "Name": "Mojave Cliffs - High-77960-0-1-1660553863.zip",
+        "Size": 476755637,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Spiffyskytrooper",
+          "Description": "An addon designed to be used with the Legacy Reborn texture pack. This replaces the stock Legacy Reborn rock textures with something more stylized and faithful to the real world Mojave desert.",
+          "FileID": 1000097648,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77960/77960-1660553254-789596930.png",
+          "IsNSFW": false,
+          "ModID": 77960,
+          "Name": "Legacy Reborn - Mojave Cliffs",
+          "Version": "0.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yd+l/ON8qm0=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=73732\nfileID=1000081687",
+        "Name": "Legacy Reborn - High-73732-0-1-1632715915.zip",
+        "Size": 7158761749,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Spiffyskytrooper",
+          "Description": "Legacy Reborn aims to overhaul all landscape (and more) textures across both Fallout 3 and New Vegas, while retaining their vanilla essence.",
+          "FileID": 1000081687,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/73732/73732-1648486333-2147203787.png",
+          "IsNSFW": false,
+          "ModID": 73732,
+          "Name": "Legacy Reborn Texture Pack",
+          "Version": "0.1.0.0"
         }
       }
     },
@@ -9717,48 +9814,6 @@
           "IsNSFW": false,
           "ModID": 43135,
           "Name": "NMCs_Texture_Pack_For_New_Vegas",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cOuIqtyIWlc=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=76205\nfileID=1000091679",
-        "Name": "Nut Vegas - Nutscapes High-76205-1-0-0-1651108322.7z",
-        "Size": 3386440124,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "NutnOff",
-          "Description": "Nut Vegas - Nutscapes the Landscape retexture. The beginning to the Nut Vegas Project, Covers both Fallout 3 and New Vegas and all DLCs of both games",
-          "FileID": 1000091679,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/76205/76205-1650951539-283922805.png",
-          "IsNSFW": false,
-          "ModID": 76205,
-          "Name": "Nut Vegas - Landscapes",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "LvTfO77zy2g=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=76205\nfileID=1000095725",
-        "Name": "Nut Rock Canyon LOD Edit-76205-1-1657484674.7z",
-        "Size": 110191,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "NutnOff",
-          "Description": "Nut Vegas - Nutscapes the Landscape retexture. The beginning to the Nut Vegas Project, Covers both Fallout 3 and New Vegas and all DLCs of both games",
-          "FileID": 1000095725,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/76205/76205-1650951539-283922805.png",
-          "IsNSFW": false,
-          "ModID": 76205,
-          "Name": "Nut Vegas - Landscapes",
           "Version": "1.0.0.0"
         }
       }
@@ -11103,6 +11158,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "k1BDMxQb8UE=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=73732\nfileID=1000090397",
+        "Name": "Rockcanyon07 and Rockcanyon08 Hotfix-73732-Hotfix-1648961691.zip",
+        "Size": 237847,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Spiffyskytrooper",
+          "Description": "Legacy Reborn aims to overhaul all landscape (and more) textures across both Fallout 3 and New Vegas, while retaining their vanilla essence.",
+          "FileID": 1000090397,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/73732/73732-1648486333-2147203787.png",
+          "IsNSFW": false,
+          "ModID": 73732,
+          "Name": "Legacy Reborn Texture Pack",
+          "Version": "Hotfix"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "TUJdMh1JwrU=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=71422\nfileID=1000085165",
         "Name": "Less Fertile Flora Overhaul-71422-2-1-1639614033.rar",
@@ -11433,6 +11509,27 @@
           "ModID": 71781,
           "Name": "PSRO - Peripheral Scope Reticle Overhaul",
           "Version": "1.2.3.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Djjf0vWzqLk=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=71637\nfileID=1000073171",
+        "Name": "Quality Carts-71637-0-1-1615357015.zip",
+        "Size": 19305645,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Spiffyskytrooper and KiCHo666",
+          "Description": "HQ Shopping cart replacer, with new and improved collisions done by KiCHo666",
+          "FileID": 1000073171,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71637/71637-1615359025-1886944836.png",
+          "IsNSFW": false,
+          "ModID": 71637,
+          "Name": "Quality Carts",
+          "Version": "0.1.0.0"
         }
       }
     },
@@ -16033,13 +16130,34 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "IoKU9/VXhJc=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/FNVLodGen Output.7z_b047bccb-d4f2-492b-9f12-b2f97cc418f2",
-        "Name": "FNVLodGen Output.7z",
-        "Size": 258580998,
+        "Hash": "O5lo1UZW3SA=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/FNVLodgen Output.7z_3917952c-a183-466d-9fe8-168ea3600030",
+        "Name": "FNVLodgen Output.7z",
+        "Size": 266354875,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/FNVLodGen%20Output.7z_b047bccb-d4f2-492b-9f12-b2f97cc418f2"
+          "Url": "https://authored-files.wabbajack.org/FNVLodgen%20Output.7z_3917952c-a183-466d-9fe8-168ea3600030"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GCB/EYDjDyQ=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=73732\nfileID=1000083090",
+        "Name": "Legacy Reborn Terrain LOD (LOOSE)-73732-0-1-1635268920.zip",
+        "Size": 987624466,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Spiffyskytrooper",
+          "Description": "Legacy Reborn aims to overhaul all landscape (and more) textures across both Fallout 3 and New Vegas, while retaining their vanilla essence.",
+          "FileID": 1000083090,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/73732/73732-1648486333-2147203787.png",
+          "IsNSFW": false,
+          "ModID": 73732,
+          "Name": "Legacy Reborn Texture Pack",
+          "Version": "0.1.0.0"
         }
       }
     },
