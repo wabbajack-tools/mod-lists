@@ -7,7 +7,7 @@
 *  [[full_inu] Maria Outfit SSE.7z](https://drive.google.com/uc?id=1IWOtJbxiI0Gq6gMB43c5hL8O13toDDTN&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2632)
+### Valid (2631)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0.0) SELUA - Solitude Exterior LOD Unlocker Advocate II-36116-1-1-1605036920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169508)
 *  [(1.1) The Great City of Solitude PATCH - Solitude Skyway SE - Drengin's Blue Palace Terrace (STD)-36116-1-1-1604648419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=168848)
@@ -610,7 +610,6 @@
 *  [Data Files-42057-1-1604616002.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42057/?tab=files&file_id=168776)
 *  Data_ccBGSSSE025-AdvDSGS.bsa
 *  Data_ccBGSSSE025-AdvDSGS.esm
-*  Data_ccbgssse067-daedinv.bsa
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
@@ -1738,7 +1737,7 @@
 *  [Particle Lights for ENB SE - Undead Creatures-48424-1-1-1619288317.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48424/?tab=files&file_id=199985)
 *  [Particle Patch for ENB-65720-1-0-9-1650988655.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65720/?tab=files&file_id=279764)
 *  [Party Damage Control SSE-62613-1-1-1643973696.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62613/?tab=files&file_id=261676)
-*  [partyDmgDebuffMagic-74388-2-5-1661922086.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74388/?tab=files&file_id=311907)
+*  [partyDmgDebuffMagic-74388-2-71-1662507079.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74388/?tab=files&file_id=313883)
 *  [Patch - Ancient Nord Stalhrim and Briraka's Draugr Overhaul-49681-1-2-1620919635.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49681/?tab=files&file_id=203251)
 *  [PATCH - Shoe Fixes (Less Shine)-6580-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/6580/?tab=files&file_id=35179)
 *  [Patch - SkyHUD v090B-463-0-90-1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=65410)
