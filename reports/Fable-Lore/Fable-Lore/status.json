@@ -1,8 +1,8 @@
 {
   "MachineURL": "Fable-Lore/Fable-Lore",
   "Name": "Fable Lore",
-  "Version": "1.9.0",
-  "ModListHash": "VwHGjUV68Nw=",
+  "Version": "1.9.2",
+  "ModListHash": "aOpBqb2yp0k=",
   "Archives": [
     {
       "Status": "Valid",
@@ -5859,6 +5859,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "1VinXIErpTA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55551\nfileID=228172",
+        "Name": "Skyrim Immersive Creatures Special Edition - Settings Loader for New Game-55551-1-0-1631559662.zip",
+        "Size": 5226,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Automatically loads the user config file of the \u0022Skyrim Immersive Creatures Special Edition\u0022 mod after you start NEW GAME or install this mod, so you don\u0027t have to spend time in MCM again with each new game. ESPFE file, so it doesn\u0027t take plugin slot.",
+          "FileID": 228172,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55551/55551-1631559133-786848088.png",
+          "IsNSFW": false,
+          "ModID": 55551,
+          "Name": "Skyrim Immersive Creatures Special Edition - Settings Loader",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "o1e5pVytHRI=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=60144\nfileID=250507",
         "Name": "Shaders of Solstheim - Ash and Moss-60144-0-2-1-1639998945.7z",
@@ -6867,6 +6888,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "6r/5pQG5lTQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62050\nfileID=317781",
+        "Name": "Tiny Patch Hub-62050-1-6-1663625899.7z",
+        "Size": 146270142,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Showda and Oaristys",
+          "Description": "A compilation of 60\u002B patches for various mods, mainly resolving clipping issues.",
+          "FileID": 317781,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62050/62050-1642345133-2026628055.png",
+          "IsNSFW": false,
+          "ModID": 62050,
+          "Name": "Tiny but Useful - Yet Another Patch Hub",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "u7aZhqgDA6Y=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=51199\nfileID=209466",
         "Name": "Tonal Architect 1.0.0-51199-1-0-0-1623873919.zip",
@@ -7625,20 +7667,6 @@
       }
     },
     {
-      "Status": "InValid",
-      "Original": {
-        "Hash": "fSY3eOHMSkg=",
-        "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimse_v0477.zip",
-        "Name": "enbseries_skyrimse_v0477.zip",
-        "Size": 4320819,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "http://enbdev.com/enbseries_skyrimse_v0477.zip"
-        }
-      }
-    },
-    {
       "Status": "Valid",
       "Original": {
         "Hash": "K46Sym+xQ+E=",
@@ -7845,6 +7873,489 @@
           "ModID": 63476,
           "Name": "Seasons of Skyrim - Remove Unwanted Grass (Like No Grassias)",
           "Version": "0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fMFKpIeMR+c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56963\nfileID=281683",
+        "Name": "Immersive Interactions - Animated Actions - Legacy Settings Loader-56963-1-3-0-1651766929.zip",
+        "Size": 15256,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Adds the ability to save and load settings in MCM for Immersive Interactions - Animated Actions by jayserpa. Automatically loads saved settings at startup, so you don\u0027t have to spend time in MCM again with each new game. No plugin.",
+          "FileID": 281683,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56963/56963-1634041214-1557749003.png",
+          "IsNSFW": false,
+          "ModID": 56963,
+          "Name": "Immersive Interactions - Animated Actions - Settings Loader",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1oB1yqx+ZCc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58878\nfileID=243471",
+        "Name": "Complete Alchemy and Cooking Overhaul - Settings Loader-58878-1-0-1637595307.7z",
+        "Size": 22304,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Created from scratch MCM for Complete Alchemy and Cooking Overhaul by kryptopyr to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load, so you don\u0027t have to spend time in MCM again with each game. Localization support. No plugin.",
+          "FileID": 243471,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58878/58878-1637594986-1924277783.png",
+          "IsNSFW": false,
+          "ModID": 58878,
+          "Name": "Complete Alchemy and Cooking Overhaul - Settings Loader",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "B1C+L6yVYOk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58179\nfileID=296116",
+        "Name": "Complete Crafting Overhaul Remastered - Settings Loader-58179-1-3-0-1656942395.zip",
+        "Size": 114682,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Created from scratch MCM for Complete Crafting Overhaul Remastered by kryptopyr to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load so you don\u0027t have to spend time in MCM again with each game. Localization support. No plugin.",
+          "FileID": 296116,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58179/58179-1636480604-910738375.png",
+          "IsNSFW": false,
+          "ModID": 58179,
+          "Name": "Complete Crafting Overhaul Remastered - Settings Loader",
+          "Version": "1.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Hq/RPvL6QCI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59851\nfileID=248015",
+        "Name": "Conditional Expressions - Subtle Face Animations - Settings Loader-59851-1-0-1639156827.7z",
+        "Size": 6136,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Created from scratch MCM for Conditional Expressions - Subtle Face Animations by JaySerpa to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load, so you don\u0027t have to spend time in MCM again with each game. Localization support. No plugin.",
+          "FileID": 248015,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59851/59851-1639156570-451627216.png",
+          "IsNSFW": false,
+          "ModID": 59851,
+          "Name": "Conditional Expressions - Subtle Face Animations - Settings Loader",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "aTxPZEjAGVk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=70356\nfileID=294480",
+        "Name": "Legacy of the Dragonborn SSE - Settings Loader-70356-1-0-1-1656348901.zip",
+        "Size": 102184,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Modified MCM for Legacy of the Dragonborn SSE by icecreamassassin to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load, imports settings from an existing save, so you don\u0027t have to spend time in MCM again with each game. Localization support. No plugin.",
+          "FileID": 294480,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/70356/70356-1656346890-1087879799.png",
+          "IsNSFW": false,
+          "ModID": 70356,
+          "Name": "Legacy of the Dragonborn SSE - Settings Loader",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "J+l68+pfYa4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=57807\nfileID=238537",
+        "Name": "Archery Gameplay Overhaul SE - Settings Loader-57807-1-0-1635805088.7z",
+        "Size": 7811,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Created from scratch MCM for Archery Gameplay Overhaul SE by DServant to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load so you don\u0027t have to spend time in MCM again with each game. Localization support. No plugin.",
+          "FileID": 238537,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57807/57807-1635804266-878175254.png",
+          "IsNSFW": false,
+          "ModID": 57807,
+          "Name": "Archery Gameplay Overhaul SE - Settings Loader",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Kr5XOSyNFZg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=57871\nfileID=246291",
+        "Name": "Combat Gameplay Overhaul SE - Settings Loader-57871-1-0-3-1638548894.7z",
+        "Size": 7878,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Created from scratch MCM for Combat Gameplay Overhaul SE by DServant to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load so you don\u0027t have to spend time in MCM again with each game. Localization support. No plugin.",
+          "FileID": 246291,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57871/57871-1635943385-954650862.png",
+          "IsNSFW": false,
+          "ModID": 57871,
+          "Name": "Combat Gameplay Overhaul SE - Settings Loader",
+          "Version": "1.0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TfqJX9TMCik=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60935\nfileID=283089",
+        "Name": "Dynamic Things Alternative - Base Object Swapper - Settings Loader-60935-0-2-1-1652339454.zip",
+        "Size": 12701,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Created from scratch MCM for Dynamic Things Alternative - Base Object Swapper by wankingSkeever to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load, so you don\u0027t have to spend time in MCM again with each game. Localization support. No plugin.",
+          "FileID": 283089,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60935/60935-1640777810-596324451.png",
+          "IsNSFW": false,
+          "ModID": 60935,
+          "Name": "Dynamic Things Alternative - Base Object Swapper - Settings Loader",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Apflk+tFxGQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=64040\nfileID=266154",
+        "Name": "Immersive Armors - Settings Loader-64040-1-1-1-1645560663.zip",
+        "Size": 50334,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Created from scratch MCM for Immersive Armors by hothtrooper44 to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load, imports settings from an existing save, so you don\u0027t have to spend time in MCM again with each game. Localization support. No plugin.",
+          "FileID": 266154,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64040/64040-1645478108-589779414.png",
+          "IsNSFW": false,
+          "ModID": 64040,
+          "Name": "Immersive Armors - Settings Loader",
+          "Version": "1.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1SFBroYJFQE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=57876\nfileID=268709",
+        "Name": "EVG Conditional Idles - Settings Loader-57876-2-0-0-1646680948.zip",
+        "Size": 13441,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Created from scratch MCM for EVG Conditional Idles by Ria to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load so you don\u0027t have to spend time in MCM again with each game. Localization support. No plugin.",
+          "FileID": 268709,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57876/57876-1635945772-1120078873.png",
+          "IsNSFW": false,
+          "ModID": 57876,
+          "Name": "EVG Conditional Idles - Settings Loader",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7lV7+BWr89E=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=61394\nfileID=268551",
+        "Name": "Honed Metal -NPC Crafting and Enchanting Services- - Settings Loader-61394-1-3-0-1646609351.zip",
+        "Size": 52371,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Created from scratch MCM for Honed Metal -NPC Crafting and Enchanting Services- by SkylineR390 to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load, so you don\u0027t have to spend time in MCM again with each game. Localization support. No plugin.",
+          "FileID": 268551,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61394/61394-1641496907-1238761486.png",
+          "IsNSFW": false,
+          "ModID": 61394,
+          "Name": "Honed Metal -NPC Crafting and Enchanting Services- - Settings Loader",
+          "Version": "1.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "v8Z7d/Dolk8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56765\nfileID=233444",
+        "Name": "Growl - Werebeasts of Skyrim - Settings Loader-56765-1-0-1633698423.7z",
+        "Size": 3622,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Adds the ability to save and load settings in MCM for Growl - Werebeasts of Skyrim by Enai Siaion. Automatically loads saved settings at startup, so you don\u0027t have to spend time in MCM again with each new game. No plugin.",
+          "FileID": 233444,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56765/56765-1633698544-420403194.png",
+          "IsNSFW": false,
+          "ModID": 56765,
+          "Name": "Growl - Werebeasts of Skyrim - Settings Loader",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TQbnApLenVI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=70006\nfileID=293386",
+        "Name": "Take a Peek - New Stealth Mechanic - Settings Loader-70006-1-0-1-1655978872.zip",
+        "Size": 23279,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Created from scratch MCM for Take a Peek - New Stealth Mechanic by JaySerpa to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load, imports settings from an existing save, so you don\u0027t have to spend time in MCM again with each game. Localization support. No plugin.",
+          "FileID": 293386,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/70006/70006-1655759334-647243268.png",
+          "IsNSFW": false,
+          "ModID": 70006,
+          "Name": "Take a Peek - New Stealth Mechanic - Settings Loader",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iYFlpmsoOes=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=63662\nfileID=289363",
+        "Name": "Smart NPC Potions - Enemies Use Potions and Poisons - Settings Loader-63662-1-1-0-1654549802.zip",
+        "Size": 15292,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Created from scratch MCM for Smart NPC Potions - Enemies Use Potions and Poisons by jayserpa to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load, imports settings from an existing save, so you don\u0027t have to spend time in MCM again with each game. Localization support. No plugin.",
+          "FileID": 289363,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/63662/63662-1645002189-874703608.png",
+          "IsNSFW": false,
+          "ModID": 63662,
+          "Name": "Smart NPC Potions - Enemies Use Potions and Poisons - Settings Loader",
+          "Version": "1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JNyF35pOC6A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56615\nfileID=237191",
+        "Name": "Ordinator - Perks of Skyrim - Settings Loader-56615-2-0-1635267163.7z",
+        "Size": 4249,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Created from scratch MCM for Ordinator - Perks of Skyrim by Enai Siaion to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load so you don\u0027t have to spend time in MCM again with each game. Localization support. No plugin.",
+          "FileID": 237191,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56615/56615-1635723485-599741448.png",
+          "IsNSFW": false,
+          "ModID": 56615,
+          "Name": "Ordinator - Settings Loader",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tAHeBIpZRis=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56837\nfileID=247457",
+        "Name": "Sidequests of Skyrim - Settings Loader-56837-2-0-1638942668.7z",
+        "Size": 6180,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Created from scratch MCM for Sidequests of Skyrim by wSkeever to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load, so you don\u0027t have to spend time in MCM again with each game. Localization support. No plugin.",
+          "FileID": 247457,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56837/56837-1638942781-332036545.png",
+          "IsNSFW": false,
+          "ModID": 56837,
+          "Name": "Sidequests of Skyrim - Settings Loader",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xyySrLTH5tY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56717\nfileID=237605",
+        "Name": "Imperious - Races of Skyrim - Settings Loader-56717-2-0-1-1635456417.7z",
+        "Size": 5642,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Created from scratch MCM for Imperious - Races of Skyrim by Enai Siaion to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load so you don\u0027t have to spend time in MCM again with each game. Localization support. No plugin.",
+          "FileID": 237605,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56717/56717-1635723667-240943478.png",
+          "IsNSFW": false,
+          "ModID": 56717,
+          "Name": "Imperious - Races of Skyrim - Settings Loader",
+          "Version": "2.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CLwzzMdk7LU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56758\nfileID=237594",
+        "Name": "Sacrosanct - Vampires of Skyrim - Settings Loader-56758-2-0-1-1635455020.7z",
+        "Size": 5751,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Created from scratch MCM for Sacrosanct - Vampires of Skyrim by Enai Siaion to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load so you don\u0027t have to spend time in MCM again with each game. Localization support. No plugin.",
+          "FileID": 237594,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56758/56758-1635723773-1918523262.png",
+          "IsNSFW": false,
+          "ModID": 56758,
+          "Name": "Sacrosanct - Vampires of Skyrim - Settings Loader",
+          "Version": "2.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DpCDzoPWPCI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56865\nfileID=247404",
+        "Name": "Immersive World Encounters. FINAL SE - Settings Loader-56865-2-0-1638918559.7z",
+        "Size": 13160,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Created from scratch MCM for Immersive World Encounters. FINAL SE by SetteLisette to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load, so you don\u0027t have to spend time in MCM again with each game. Localization support. No plugin.",
+          "FileID": 247404,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56865/56865-1638918474-253056149.png",
+          "IsNSFW": false,
+          "ModID": 56865,
+          "Name": "Immersive World Encounters. FINAL SE - Settings Loader",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "syPtURqBnRQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56751\nfileID=236838",
+        "Name": "Summermyst - Enchantments of Skyrim - Settings Loader-56751-2-0-1-1635103481.7z",
+        "Size": 2064,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Created from scratch MCM for Summermyst - Enchantments of Skyrim by Enai Siaion to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load so you don\u0027t have to spend time in MCM again with each game. Localization support. No plugin.",
+          "FileID": 236838,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56751/56751-1635723738-1569636597.png",
+          "IsNSFW": false,
+          "ModID": 56751,
+          "Name": "Summermyst - Enchantments of Skyrim - Settings Loader",
+          "Version": "2.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jA9n32qDoIo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56621\nfileID=302659",
+        "Name": "Apocalypse - Magic of Skyrim - Settings Loader-56621-2-2-0-1658946969.zip",
+        "Size": 36181,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Created from scratch MCM for Apocalypse - Magic of Skyrim by Enai Siaion to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load so you don\u0027t have to spend time in MCM again with each game. Localization support. No plugin.",
+          "FileID": 302659,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56621/56621-1635723596-1267344874.png",
+          "IsNSFW": false,
+          "ModID": 56621,
+          "Name": "Apocalypse - Magic of Skyrim - Settings Loader",
+          "Version": "2.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7b8maAGpmFk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56761\nfileID=233424",
+        "Name": "Wintersun - Settings Loader-56761-1-0-1633691752.7z",
+        "Size": 3406,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Adds the ability to save and load settings in MCM for Wintersun - Faiths of Skyrim by Enai Siaion. Automatically loads saved settings at startup, so you don\u0027t have to spend time in MCM again with each new game. No plugin.",
+          "FileID": 233424,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56761/56761-1633691415-659179891.png",
+          "IsNSFW": false,
+          "ModID": 56761,
+          "Name": "Wintersun - Faiths of Skyrim - Settings Loader",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fU9P5XfP/30=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=69530\nfileID=297859",
+        "Name": "The Wheels of Lull - Unwound Edition - Settings Loader-69530-1-1-0-1657473187.zip",
+        "Size": 21766,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Created from scratch MCM for The Wheels of Lull - Unwound Edition by trainwiz to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load, imports settings from an existing save, so you don\u0027t have to spend time in MCM again with each game. Localization support. No plugin.",
+          "FileID": 297859,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69530/69530-1654971540-1775525760.png",
+          "IsNSFW": false,
+          "ModID": 69530,
+          "Name": "The Wheels of Lull - Unwound Edition - Settings Loader",
+          "Version": "1.0.0"
         }
       }
     },
@@ -9475,6 +9986,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "0tIDBI8pEOU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=75882\nfileID=318271",
+        "Name": "3D Trellis Improved - Gildergreen Plaza-75882-0-1-1663764550.7z",
+        "Size": 2375840,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wankingSkeever",
+          "Description": "Higher polygon meshes for Gildergreen plaza. Fixes Hexagon columns, missing faces. Improves texturing.",
+          "FileID": 318271,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/75882/75882-1663764590-1582933556.png",
+          "IsNSFW": false,
+          "ModID": 75882,
+          "Name": "3D Trellis Improved - Gildergreen Plaza",
+          "Version": "0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "K06GI4ppMc4=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=63029\nfileID=279512",
         "Name": "Conditional tavern cheering (DAR)-63029-1-0-3-1650865731.zip",
@@ -9998,8 +10530,8 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Fable-Lore/95d62a79e1951c5b_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Fable-Lore/95d62a79e1951c5b_large.webp"
 }
