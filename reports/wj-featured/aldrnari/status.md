@@ -7,7 +7,7 @@
 *  [[full_inu] Maria Outfit SSE.7z](https://drive.google.com/uc?id=1IWOtJbxiI0Gq6gMB43c5hL8O13toDDTN&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2631)
+### Valid (2634)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0.0) SELUA - Solitude Exterior LOD Unlocker Advocate II-36116-1-1-1605036920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169508)
 *  [(1.1) The Great City of Solitude PATCH - Solitude Skyway SE - Drengin's Blue Palace Terrace (STD)-36116-1-1-1604648419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=168848)
@@ -608,8 +608,9 @@
 *  [Darkwater Crossing - A Great Towns and Villages of Eastmarch - LUX PATCH-64393-1-0-1-1646234188.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64393/?tab=files&file_id=267630)
 *  [Darkwater Crossing - TGV Addon Patch Collection-64382-1-0-1-1646171614.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64382/?tab=files&file_id=267541)
 *  [Data Files-42057-1-1604616002.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42057/?tab=files&file_id=168776)
-*  Data_ccBGSSSE025-AdvDSGS.bsa
-*  Data_ccBGSSSE025-AdvDSGS.esm
+*  Data_ccbgssse025-advdsgs.bsa
+*  Data_ccbgssse025-advdsgs.esm
+*  Data_ccbgssse067-daedinv.bsa
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
@@ -673,6 +674,7 @@
 *  [Disable NPC stretching idle-61309-1-0-1641349857.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61309/?tab=files&file_id=254041)
 *  [Disable Snow Grass FOMOD-36974-0-2-1591713282.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36974/?tab=files&file_id=144703)
 *  [Dismiss Steward (ESP)-22236-1-0-1546135621.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22236/?tab=files&file_id=76656)
+*  [Distance Based Combat-60855-1-12-1642631380.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60855/?tab=files&file_id=257956)
 *  [Distinct Interiors - Cleaned Plugin Replacer-30483-1-0-1574281855.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30483/?tab=files&file_id=113915)
 *  [Distinct Interiors - Fixes 1.3.1-23831-1-3-1-1592749939.rar](https://www.nexusmods.com/skyrimspecialedition/mods/23831/?tab=files&file_id=146772)
 *  [Distinct Interiors - FPS Fix-41150-2-0-1604765476.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41150/?tab=files&file_id=169048)
@@ -781,6 +783,7 @@
 *  [Ebongrove-17355-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17355/?tab=files&file_id=54896)
 *  [Ebonmere Moons Restoration - ENB Light-68550-1-1-1653440446.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68550/?tab=files&file_id=286266)
 *  [Ebony Edge - Variant 4-33853-1-1-1608470044.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33853/?tab=files&file_id=175352)
+*  [Edgemaster ADXP MCO with SCAR patch-72256-1-0-13-1663652707.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72256/?tab=files&file_id=317846)
 *  [eeekie's Enhanced NPCs All-In-One Merged-30757-2-0-2a-1611031738.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30757/?tab=files&file_id=180425)
 *  [EEOS - Enemy Revolution of Skyrim-37228-2-00-0-1659188362.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37228/?tab=files&file_id=303325)
 *  [Eerie Ectoplasm SMIM-61953-v1-0-1642280744.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61953/?tab=files&file_id=257021)
