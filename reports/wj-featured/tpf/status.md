@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (886)
+### Valid (885)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -169,10 +169,10 @@
 *  [Craftable Torches-5013-1-1.rar](https://www.nexusmods.com/skyrimspecialedition/mods/5013/?tab=files&file_id=10995)
 *  [Creation Club - Misc Patches-30622-2-0-0-1639760752.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30622/?tab=files&file_id=249870)
 *  [D13 Faster Get Up Stand Up SSE-5890-2-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5890/?tab=files&file_id=67821)
-*  Data_ccBGSSSE001-Fish.bsa
-*  Data_ccBGSSSE001-Fish.esm
-*  Data_ccBGSSSE037-Curios.bsa
-*  Data_ccBGSSSE037-Curios.esl
+*  Data_ccbgssse001-fish.bsa
+*  Data_ccbgssse001-fish.esm
+*  Data_ccbgssse037-curios.bsa
+*  Data_ccbgssse037-curios.esl
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
@@ -615,7 +615,6 @@
 *  [Riften in High Definition-20296-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/20296/?tab=files&file_id=67947)
 *  [Roggvir's Amulet of Talos-43834-1-0-1609416821.zip](https://www.nexusmods.com/skyrimspecialedition/mods/43834/?tab=files&file_id=177042)
 *  [Root Builder 4.4.0-31720-4-4-0-1655909502.zip](https://www.nexusmods.com/skyrimspecialedition/mods/31720/?tab=files&file_id=293115)
-*  [Rudy ENB SE for Cathedral Weathers-39113-4-0a1-1613787017.rar](https://www.nexusmods.com/skyrimspecialedition/mods/39113/?tab=files&file_id=186912)
 *  [Rudy HQ - Falling Leaves and Needles for ENB SE-25939-1-0-1558485992.rar](https://www.nexusmods.com/skyrimspecialedition/mods/25939/?tab=files&file_id=93164)
 *  [Rudy HQ - Falling Leaves and Needles SE - Yellow Leaves Texture 512-25939-1-0-1592254949.rar](https://www.nexusmods.com/skyrimspecialedition/mods/25939/?tab=files&file_id=145908)
 *  [Rudy HQ - Hay SE-25125-1-4-1604857528.rar](https://www.nexusmods.com/skyrimspecialedition/mods/25125/?tab=files&file_id=169195)
