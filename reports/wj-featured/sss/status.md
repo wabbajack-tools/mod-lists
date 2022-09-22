@@ -179,13 +179,13 @@
 *  [Creation Club - Misc Patches-30622-2-0-0-1639760752.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30622/?tab=files&file_id=249870)
 *  [D13 Faster Get Up Stand Up SSE-5890-2-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5890/?tab=files&file_id=67821)
 *  [Dark Elf Voices For Bandits-63733-1-04-1655488875.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63733/?tab=files&file_id=291842)
-*  Data_ccBGSSSE001-Fish.bsa
-*  Data_ccBGSSSE001-Fish.esm
-*  Data_ccBGSSSE025-AdvDSGS.bsa
-*  Data_ccBGSSSE037-Curios.bsa
-*  Data_ccBGSSSE037-Curios.esl
-*  Data_ccQDRSSE001-SurvivalMode.bsa
-*  Data_ccQDRSSE001-SurvivalMode.esl
+*  Data_ccbgssse001-fish.bsa
+*  Data_ccbgssse001-fish.esm
+*  Data_ccbgssse025-advdsgs.bsa
+*  Data_ccbgssse037-curios.bsa
+*  Data_ccbgssse037-curios.esl
+*  Data_ccqdrsse001-survivalmode.bsa
+*  Data_ccqdrsse001-survivalmode.esl
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
