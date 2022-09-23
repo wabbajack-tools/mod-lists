@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1120)
+### Valid (1121)
 *  [(Part 1) SSE Engine Fixes for 1.6.xxx-17230-6-0-2-1637784396.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [2K Ash Pile-31983-1-0-1579710192.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31983/?tab=files&file_id=120828)
@@ -201,7 +201,6 @@
 *  [Cities of the North - Winterhold - Partitioned Meshes for Lighting-47497-1-0-1616621451.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47497/?tab=files&file_id=193402)
 *  [Cities of the North - Winterhold-40088-1-1-1602459318.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40088/?tab=files&file_id=165114)
 *  [City Entrances Overhaul - WIndhelm-19400-1-3-1-1616167712.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19400/?tab=files&file_id=192322)
-*  [CK Custom ini-19817-4-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19817/?tab=files&file_id=65800)
 *  [CK64Fixes Release 3.2-20061-3-2-1616560054.zip](https://www.nexusmods.com/skyrimspecialedition/mods/20061/?tab=files&file_id=193264)
 *  [Classic Paralysis AE-45931-3-2-0-1637989096.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45931/?tab=files&file_id=244714)
 *  [Cliff Racers on Solstheim-2168-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2168/?tab=files&file_id=2716)
@@ -246,8 +245,8 @@
 *  Data_ccafdsse001-dwesanctuary.esm
 *  Data_ccasvsse001-almsivi.bsa
 *  Data_ccasvsse001-almsivi.esm
-*  Data_ccBGSSSE001-Fish.bsa
-*  Data_ccBGSSSE001-Fish.esm
+*  Data_ccbgssse001-fish.bsa
+*  Data_ccbgssse001-fish.esm
 *  Data_ccbgssse002-exoticarrows.bsa
 *  Data_ccbgssse002-exoticarrows.esl
 *  Data_ccbgssse003-zombies.bsa
@@ -282,8 +281,8 @@
 *  Data_ccbgssse020-graycowl.esl
 *  Data_ccbgssse021-lordsmail.bsa
 *  Data_ccbgssse021-lordsmail.esl
-*  Data_ccBGSSSE025-AdvDSGS.bsa
-*  Data_ccBGSSSE025-AdvDSGS.esm
+*  Data_ccbgssse025-advdsgs.bsa
+*  Data_ccbgssse025-advdsgs.esm
 *  Data_ccbgssse031-advcyrus.bsa
 *  Data_ccbgssse031-advcyrus.esm
 *  Data_ccbgssse034-mntuni.bsa
@@ -292,8 +291,8 @@
 *  Data_ccbgssse035-petnhound.esl
 *  Data_ccbgssse036-petbwolf.bsa
 *  Data_ccbgssse036-petbwolf.esl
-*  Data_ccBGSSSE037-Curios.bsa
-*  Data_ccBGSSSE037-Curios.esl
+*  Data_ccbgssse037-curios.bsa
+*  Data_ccbgssse037-curios.esl
 *  Data_ccbgssse038-bowofshadows.bsa
 *  Data_ccbgssse038-bowofshadows.esl
 *  Data_ccbgssse040-advobgobs.bsa
@@ -374,8 +373,8 @@
 *  Data_ccmtysse002-ve.esl
 *  Data_ccpewsse002-armsofchaos.bsa
 *  Data_ccpewsse002-armsofchaos.esl
-*  Data_ccQDRSSE001-SurvivalMode.bsa
-*  Data_ccQDRSSE001-SurvivalMode.esl
+*  Data_ccqdrsse001-survivalmode.bsa
+*  Data_ccqdrsse001-survivalmode.esl
 *  Data_ccqdrsse002-firewood.bsa
 *  Data_ccqdrsse002-firewood.esl
 *  Data_ccrmssse001-necrohouse.bsa
@@ -485,6 +484,7 @@
 *  [ENB Light 0.98 Alpha 2-22574-0-98Alpha2-1577144667.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=117211)
 *  [ENB Light for Apocrypha-64463-0-1-1646291981.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64463/?tab=files&file_id=267781)
 *  [ENB Light for Deathbell by Mari-73349-1-1-0-1660489357.7z](https://www.nexusmods.com/skyrimspecialedition/mods/73349/?tab=files&file_id=307466)
+*  [enbseries_skyrimse_v0477.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0477.zip_c33dc2b6-f79a-434a-a841-b7599e539714)
 *  [Encounter Zones Unlocked AE-19608-1-5-3-1637749108.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19608/?tab=files&file_id=244035)
 *  [Enhanced Blood Textures-2357-4-0-1639547261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=249235)
 *  [Enhanced Invisibility AE-61950-1-2-0-1642780858.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61950/?tab=files&file_id=258408)
@@ -836,6 +836,7 @@
 *  [Relationship Dialogue Overhaul - RDO Final-1187-Final.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1187/?tab=files&file_id=1171)
 *  [Relationship Dialogue Overhaul - Update and MCM 1.0.5-44601-1-0-5-1635353663.rar](https://www.nexusmods.com/skyrimspecialedition/mods/44601/?tab=files&file_id=237381)
 *  [Relic Hunter- Guildmaster Start-12253-2-0-3-1576955397.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12253/?tab=files&file_id=116940)
+*  [Remastered Ash Piles Of Skyrim-44971-1-1-1611883469.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44971/?tab=files&file_id=182506)
 *  [Remastered Paragon Gems-45734-1-4-1613500289.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45734/?tab=files&file_id=186286)
 *  [Remember Lockpick Angle-26838-4-1-1641005793.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26838/?tab=files&file_id=253008)
 *  [Remove QuickSave Button-28334-1-1-1566642678.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28334/?tab=files&file_id=104133)
@@ -1116,7 +1117,7 @@
 *  [Wyrmstooth Animated ENB Light-72668-0-1-1659620819.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72668/?tab=files&file_id=304530)
 *  [Wyrmstooth Artifact Immersion Patch-68078-1-1-1652762449.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68078/?tab=files&file_id=284380)
 *  [Wyrmstooth-45565-1-19-8-1643616360.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45565/?tab=files&file_id=260668)
-*  [xLODGen.94.7z](https://mega.nz/file/sYJDgagK#gmJfih8eOrOflHVhvAhvoC9k93irpNJKEB_tvG_zpSI)
+*  [xLODGen.95.7z](https://authored-files.wabbajack.org/xLODGen.95.7z_c78faf7a-f2e6-4c8c-aa23-1564d77d314c)
 *  [XP32 Maximum Skeleton Special Extended - Fixed Scripts-44252-1-0-1610402131.rar](https://www.nexusmods.com/skyrimspecialedition/mods/44252/?tab=files&file_id=179016)
 *  [XP32 Maximum Skeleton Special Extended - XPMSSE - Legacy Settings Loader-56146-1-2-0-1653489760.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56146/?tab=files&file_id=286415)
 *  [XP32 Maximum Skeleton Special Extended-1988-4-80-1610196777.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=178559)
