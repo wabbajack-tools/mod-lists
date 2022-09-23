@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/xanzas_skyrim",
   "Name": "Xanza\u0027s Modded Skyrim",
-  "Version": "1.0.2",
-  "ModListHash": "qJ7seFm2CNw=",
+  "Version": "1.0.3",
+  "ModListHash": "8WLHZdKc/QA=",
   "Archives": [
     {
       "Status": "Valid",
@@ -21814,6 +21814,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "FQbA20bA5Dw=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse037-curios.bsa",
+        "Name": "Data_ccbgssse037-curios.bsa",
+        "Size": 111740475,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse037-curios.bsa",
+          "GameVersion": "1.6.640.0",
+          "Hash": "FQbA20bA5Dw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "BlO1rc+2UDY=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse025-advdsgs.bsa",
         "Name": "Data_ccbgssse025-advdsgs.bsa",
@@ -21846,22 +21862,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "K4hvZ+SKchM=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccasvsse001-almsivi.bsa",
-        "Name": "Data_ccasvsse001-almsivi.bsa",
-        "Size": 524046246,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccasvsse001-almsivi.bsa",
-          "GameVersion": "1.6.640.0",
-          "Hash": "K4hvZ+SKchM="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "SdaNZjorvPE=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Misc.bsa",
         "Name": "Data_Skyrim - Misc.bsa",
@@ -21872,38 +21872,6 @@
           "GameFile": "Data\\Skyrim - Misc.bsa",
           "GameVersion": "1.6.640.0",
           "Hash": "SdaNZjorvPE="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6UobnsijEeM=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse067-daedinv.bsa",
-        "Name": "Data_ccbgssse067-daedinv.bsa",
-        "Size": 386611786,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse067-daedinv.bsa",
-          "GameVersion": "1.6.640.0",
-          "Hash": "6UobnsijEeM="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "FQbA20bA5Dw=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse037-curios.bsa",
-        "Name": "Data_ccbgssse037-curios.bsa",
-        "Size": 111740475,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse037-curios.bsa",
-          "GameVersion": "1.6.640.0",
-          "Hash": "FQbA20bA5Dw="
         }
       }
     },
