@@ -5,7 +5,7 @@
 ### Updated (1)
 *  [OSex-17209-2-02SE-Alpha.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17209/?tab=files&file_id=54347)
 ### Mirrored (0)
-### Valid (1323)
+### Valid (1324)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77989)
@@ -258,8 +258,8 @@
 *  Data_ccafdsse001-dwesanctuary.esm
 *  Data_ccasvsse001-almsivi.bsa
 *  Data_ccasvsse001-almsivi.esm
-*  Data_ccBGSSSE001-Fish.bsa
-*  Data_ccBGSSSE001-Fish.esm
+*  Data_ccbgssse001-fish.bsa
+*  Data_ccbgssse001-fish.esm
 *  Data_ccbgssse002-exoticarrows.bsa
 *  Data_ccbgssse002-exoticarrows.esl
 *  Data_ccbgssse003-zombies.bsa
@@ -294,8 +294,8 @@
 *  Data_ccbgssse020-graycowl.esl
 *  Data_ccbgssse021-lordsmail.bsa
 *  Data_ccbgssse021-lordsmail.esl
-*  Data_ccBGSSSE025-AdvDSGS.bsa
-*  Data_ccBGSSSE025-AdvDSGS.esm
+*  Data_ccbgssse025-advdsgs.bsa
+*  Data_ccbgssse025-advdsgs.esm
 *  Data_ccbgssse031-advcyrus.bsa
 *  Data_ccbgssse031-advcyrus.esm
 *  Data_ccbgssse034-mntuni.bsa
@@ -304,8 +304,8 @@
 *  Data_ccbgssse035-petnhound.esl
 *  Data_ccbgssse036-petbwolf.bsa
 *  Data_ccbgssse036-petbwolf.esl
-*  Data_ccBGSSSE037-Curios.bsa
-*  Data_ccBGSSSE037-Curios.esl
+*  Data_ccbgssse037-curios.bsa
+*  Data_ccbgssse037-curios.esl
 *  Data_ccbgssse038-bowofshadows.bsa
 *  Data_ccbgssse038-bowofshadows.esl
 *  Data_ccbgssse040-advobgobs.bsa
@@ -386,8 +386,8 @@
 *  Data_ccmtysse002-ve.esl
 *  Data_ccpewsse002-armsofchaos.bsa
 *  Data_ccpewsse002-armsofchaos.esl
-*  Data_ccQDRSSE001-SurvivalMode.bsa
-*  Data_ccQDRSSE001-SurvivalMode.esl
+*  Data_ccqdrsse001-survivalmode.bsa
+*  Data_ccqdrsse001-survivalmode.esl
 *  Data_ccqdrsse002-firewood.bsa
 *  Data_ccqdrsse002-firewood.esl
 *  Data_ccrmssse001-necrohouse.bsa
@@ -415,6 +415,7 @@
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
 *  Data_Update.esm
+*  Data_Video_BGS_Logo.bik
 *  [Dave's UFHD Majestic Mountains 8K 1.4 Hotfix-26662-1-4-1566318217.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26662/?tab=files&file_id=103733)
 *  [Dave's UFHD Majestic Mountains 8K-26662-1-4-1566305438.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26662/?tab=files&file_id=103716)
 *  [Dave's UFHD Stonewalls 8K for SLO - Stonewalls-26662-1-1-1560850427.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26662/?tab=files&file_id=96469)
