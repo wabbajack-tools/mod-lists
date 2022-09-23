@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/TalesFromTheNorthernLands",
   "Name": "Tales from the Northern Lands",
-  "Version": "2.8.3",
-  "ModListHash": "4FQoNGMigAk=",
+  "Version": "2.8.4",
+  "ModListHash": "f/10EwdEo9k=",
   "Archives": [
     {
       "Status": "Valid",
@@ -77,7 +77,7 @@
           "IsNSFW": false,
           "ModID": 17230,
           "Name": "SSE Engine Fixes (skse64 plugin)",
-          "Version": "5.8.3.0"
+          "Version": "6.0.2"
         }
       }
     },
@@ -85,15 +85,68 @@
       "Status": "Valid",
       "Original": {
         "Hash": "wwYDXqpkrNE=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=bink2w64.dll",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=bink2w64.dll",
         "Name": "bink2w64.dll",
         "Size": 391360,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "bink2w64.dll",
-          "GameVersion": "1.6.629.0",
+          "GameVersion": "1.6.640.0",
           "Hash": "wwYDXqpkrNE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ifra1vPD7JE=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=CreationKit.exe",
+        "Name": "CreationKit.exe",
+        "Size": 47319432,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "CreationKit.exe",
+          "GameVersion": "1.6.640.0",
+          "Hash": "ifra1vPD7JE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BcsmObjEj9s=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=CreationKit.ini",
+        "Name": "CreationKit.ini",
+        "Size": 2709,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "CreationKit.ini",
+          "GameVersion": "1.6.640.0",
+          "Hash": "BcsmObjEj9s="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "f/nbLjRJL2Q=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=19817\nfileID=65800",
+        "Name": "CK Custom ini-19817-4-0.zip",
+        "Size": 687,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PhysicsFish",
+          "Description": "Blocks annoying error message pop ups, loads multiple masters and has a few other minor tweaks. Improved performance.",
+          "FileID": 65800,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19817/19817-1536409113-1692131165.png",
+          "IsNSFW": false,
+          "ModID": 19817,
+          "Name": "Tweaked Creation Kit ini",
+          "Version": "4.0"
         }
       }
     },
@@ -114,7 +167,7 @@
           "IsNSFW": false,
           "ModID": 31963,
           "Name": "SSE Parallax Shader Fix (BETA)",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -135,7 +188,7 @@
           "IsNSFW": false,
           "ModID": 17230,
           "Name": "SSE Engine Fixes (skse64 plugin)",
-          "Version": "2020.3.0.0"
+          "Version": "6.0.2"
         }
       }
     },
@@ -156,7 +209,23 @@
           "IsNSFW": false,
           "ModID": 25287,
           "Name": "Dragonborn Presence - Discord Rich Presence",
-          "Version": "1.0.5.0"
+          "Version": "1.0.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bWL9LiYirZI=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=flowchartx64.dll",
+        "Name": "flowchartx64.dll",
+        "Size": 2972608,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "flowchartx64.dll",
+          "GameVersion": "1.6.640.0",
+          "Hash": "bWL9LiYirZI="
         }
       }
     },
@@ -177,7 +246,7 @@
           "IsNSFW": false,
           "ModID": 41978,
           "Name": "Hel\u0027s Cel Shading",
-          "Version": "2.0.1.0"
+          "Version": "2.0.1"
         }
       }
     },
@@ -185,14 +254,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "ia6Y2mEquMg=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=High.ini",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=High.ini",
         "Name": "High.ini",
         "Size": 906,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "High.ini",
-          "GameVersion": "1.6.629.0",
+          "GameVersion": "1.6.640.0",
           "Hash": "ia6Y2mEquMg="
         }
       }
@@ -201,14 +270,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "M9LtyeAVtQE=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=installscript.vdf",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=installscript.vdf",
         "Name": "installscript.vdf",
         "Size": 648,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "installscript.vdf",
-          "GameVersion": "1.6.629.0",
+          "GameVersion": "1.6.640.0",
           "Hash": "M9LtyeAVtQE="
         }
       }
@@ -217,14 +286,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "O5kJ576V0KY=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Low.ini",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Low.ini",
         "Name": "Low.ini",
         "Size": 898,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Low.ini",
-          "GameVersion": "1.6.629.0",
+          "GameVersion": "1.6.640.0",
           "Hash": "O5kJ576V0KY="
         }
       }
@@ -246,7 +315,7 @@
           "IsNSFW": false,
           "ModID": 40578,
           "Name": "Luca\u0027s Cellshading ReShade Preset",
-          "Version": "1.3.0.0"
+          "Version": "1.2"
         }
       }
     },
@@ -254,15 +323,31 @@
       "Status": "Valid",
       "Original": {
         "Hash": "tBVeSwhhyNk=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Medium.ini",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Medium.ini",
         "Name": "Medium.ini",
         "Size": 898,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Medium.ini",
-          "GameVersion": "1.6.629.0",
+          "GameVersion": "1.6.640.0",
           "Hash": "tBVeSwhhyNk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fZc1l6G61BQ=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=p4com64.dll",
+        "Name": "p4com64.dll",
+        "Size": 1219072,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "p4com64.dll",
+          "GameVersion": "1.6.640.0",
+          "Hash": "fZc1l6G61BQ="
         }
       }
     },
@@ -284,14 +369,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "Wsq6jhOx4YM=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Skyrim.ccc",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Skyrim.ccc",
         "Name": "Skyrim.ccc",
         "Size": 2018,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Skyrim.ccc",
-          "GameVersion": "1.6.629.0",
+          "GameVersion": "1.6.640.0",
           "Hash": "Wsq6jhOx4YM="
         }
       }
@@ -313,23 +398,23 @@
           "IsNSFW": false,
           "ModID": 20061,
           "Name": "SSE CreationKit Fixes",
-          "Version": "3.2.0.0"
+          "Version": "3.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dU6T9PKXBnc=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=SkyrimSE.exe",
+        "Hash": "6arNJLzjd8U=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=SkyrimSE.exe",
         "Name": "SkyrimSE.exe",
-        "Size": 35371288,
+        "Size": 35369752,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "SkyrimSE.exe",
-          "GameVersion": "1.6.629.0",
-          "Hash": "dU6T9PKXBnc="
+          "GameVersion": "1.6.640.0",
+          "Hash": "6arNJLzjd8U="
         }
       }
     },
@@ -337,14 +422,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "8utDE1m7CoM=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=SkyrimSELauncher.exe",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=SkyrimSELauncher.exe",
         "Name": "SkyrimSELauncher.exe",
         "Size": 4705280,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "SkyrimSELauncher.exe",
-          "GameVersion": "1.6.629.0",
+          "GameVersion": "1.6.640.0",
           "Hash": "8utDE1m7CoM="
         }
       }
@@ -353,14 +438,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "JbYP1w8FSfY=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Skyrim_Default.ini",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Skyrim_Default.ini",
         "Name": "Skyrim_Default.ini",
         "Size": 1859,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Skyrim_Default.ini",
-          "GameVersion": "1.6.629.0",
+          "GameVersion": "1.6.640.0",
           "Hash": "JbYP1w8FSfY="
         }
       }
@@ -369,14 +454,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "XEqXAcAgOQ8=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=steam_api64.dll",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=steam_api64.dll",
         "Name": "steam_api64.dll",
         "Size": 206760,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "steam_api64.dll",
-          "GameVersion": "1.6.629.0",
+          "GameVersion": "1.6.640.0",
           "Hash": "XEqXAcAgOQ8="
         }
       }
@@ -385,14 +470,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "joAkOFfS7Wc=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Ultra.ini",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Ultra.ini",
         "Name": "Ultra.ini",
         "Size": 911,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Ultra.ini",
-          "GameVersion": "1.6.629.0",
+          "GameVersion": "1.6.640.0",
           "Hash": "joAkOFfS7Wc="
         }
       }
@@ -414,7 +499,7 @@
           "IsNSFW": false,
           "ModID": 41978,
           "Name": "Hel\u0027s Cel Shading",
-          "Version": "0.9.1.0"
+          "Version": "2.0.1"
         }
       }
     },
@@ -435,7 +520,7 @@
           "IsNSFW": false,
           "ModID": 21294,
           "Name": ".NET Script Framework",
-          "Version": "18.0.0.0"
+          "Version": "18"
         }
       }
     },
@@ -456,7 +541,7 @@
           "IsNSFW": false,
           "ModID": 35464,
           "Name": "A Guiding Light - Clairvoyance Reimagined",
-          "Version": "2.3.2.0"
+          "Version": "2.3.2"
         }
       }
     },
@@ -477,7 +562,7 @@
           "IsNSFW": false,
           "ModID": 21916,
           "Name": "A Lovely Letter Alternate Routes",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -498,7 +583,7 @@
           "IsNSFW": false,
           "ModID": 12937,
           "Name": "A Matter of Time - A HUD clock widget",
-          "Version": "3.0.0.0a4"
+          "Version": "v3.0.0a4"
         }
       }
     },
@@ -519,7 +604,7 @@
           "IsNSFW": false,
           "ModID": 30853,
           "Name": "A New Chapter - UI Sound Replacer",
-          "Version": "2.1.1.0"
+          "Version": "2.1.1"
         }
       }
     },
@@ -540,7 +625,7 @@
           "IsNSFW": false,
           "ModID": 30191,
           "Name": "Adamant - A Perk Overhaul",
-          "Version": "5.4.4.0"
+          "Version": "5.3.5"
         }
       }
     },
@@ -561,7 +646,7 @@
           "IsNSFW": false,
           "ModID": 30191,
           "Name": "Adamant - A Perk Overhaul",
-          "Version": "5.0.3.0"
+          "Version": "5.3.5"
         }
       }
     },
@@ -582,7 +667,7 @@
           "IsNSFW": false,
           "ModID": 3257,
           "Name": "Adopt Aventus Aretino",
-          "Version": "1.2.0.0"
+          "Version": "1.2"
         }
       }
     },
@@ -603,7 +688,7 @@
           "IsNSFW": false,
           "ModID": 3257,
           "Name": "Adopt Aventus Aretino",
-          "Version": "1.2.0.0"
+          "Version": "1.2"
         }
       }
     },
@@ -624,7 +709,7 @@
           "IsNSFW": false,
           "ModID": 55051,
           "Name": "Afterlife - Resurrected",
-          "Version": "1.2.1.0"
+          "Version": "1.2.0"
         }
       }
     },
@@ -645,7 +730,7 @@
           "IsNSFW": false,
           "ModID": 35823,
           "Name": "AI Overhaul SSE - Official Patch Hub",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -666,7 +751,7 @@
           "IsNSFW": false,
           "ModID": 21654,
           "Name": "AI Overhaul SSE",
-          "Version": "1.6.7.0"
+          "Version": "1.6.7"
         }
       }
     },
@@ -687,7 +772,7 @@
           "IsNSFW": false,
           "ModID": 25384,
           "Name": "Alik\u0027r Warriors Aren\u0027t Welcome",
-          "Version": "1.0.1.0"
+          "Version": "1.0.1"
         }
       }
     },
@@ -708,7 +793,7 @@
           "IsNSFW": false,
           "ModID": 50307,
           "Name": "Alternate Perspective - Prologue Retold",
-          "Version": "2.7.2.0"
+          "Version": "2.6"
         }
       }
     },
@@ -729,7 +814,7 @@
           "IsNSFW": false,
           "ModID": 54362,
           "Name": "Animal and Creature Loot Tweaks",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -750,7 +835,7 @@
           "IsNSFW": false,
           "ModID": 50307,
           "Name": "Alternate Perspective - Prologue Retold",
-          "Version": "1.0.0.0"
+          "Version": "2.6"
         }
       }
     },
@@ -771,7 +856,7 @@
           "IsNSFW": false,
           "ModID": 52130,
           "Name": "Apothecary - An Alchemy Overhaul",
-          "Version": "1.3.2.0"
+          "Version": "1.2.3"
         }
       }
     },
@@ -792,7 +877,7 @@
           "IsNSFW": false,
           "ModID": 52130,
           "Name": "Apothecary - An Alchemy Overhaul",
-          "Version": "1.2.1.0"
+          "Version": "1.2.3"
         }
       }
     },
@@ -813,7 +898,7 @@
           "IsNSFW": false,
           "ModID": 52130,
           "Name": "Apothecary - An Alchemy Overhaul",
-          "Version": "1.1.1.0"
+          "Version": "1.2.3"
         }
       }
     },
@@ -834,7 +919,7 @@
           "IsNSFW": false,
           "ModID": 52130,
           "Name": "Apothecary - An Alchemy Overhaul",
-          "Version": "1.0.0.0"
+          "Version": "1.2.3"
         }
       }
     },
@@ -855,7 +940,7 @@
           "IsNSFW": false,
           "ModID": 52130,
           "Name": "Apothecary - An Alchemy Overhaul",
-          "Version": "1.2.1.0"
+          "Version": "1.2.3"
         }
       }
     },
@@ -876,7 +961,7 @@
           "IsNSFW": false,
           "ModID": 52130,
           "Name": "Apothecary - An Alchemy Overhaul",
-          "Version": "1.2.1.0"
+          "Version": "1.2.3"
         }
       }
     },
@@ -897,7 +982,7 @@
           "IsNSFW": false,
           "ModID": 59487,
           "Name": "Apothecary Action Patch - 5x Faster Recovery Potions",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -918,7 +1003,7 @@
           "IsNSFW": false,
           "ModID": 39839,
           "Name": "Arachnomancer Spiders Spells Redux SE",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -939,7 +1024,7 @@
           "IsNSFW": false,
           "ModID": 56359,
           "Name": "Aranea of the Temple - SPID",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -960,7 +1045,7 @@
           "IsNSFW": false,
           "ModID": 29817,
           "Name": "Arctic - Frost Effects Redux",
-          "Version": "2.1.0.0"
+          "Version": "2.1"
         }
       }
     },
@@ -981,7 +1066,7 @@
           "IsNSFW": false,
           "ModID": 33487,
           "Name": "Arena - An Encounter Zone Overhaul",
-          "Version": "1.1.0.0"
+          "Version": "1.1.0"
         }
       }
     },
@@ -1002,7 +1087,7 @@
           "IsNSFW": false,
           "ModID": 40574,
           "Name": "Artistic Skyrim Overhaul - No More Reflective Surfaces",
-          "Version": "5.1.0.0"
+          "Version": "5.1"
         }
       }
     },
@@ -1023,7 +1108,7 @@
           "IsNSFW": false,
           "ModID": 36761,
           "Name": "Audio Overhaul - Immersive Sounds Integration (AOS - ISC Compatibility Patch)",
-          "Version": "1.0.2.0"
+          "Version": "1.0.2"
         }
       }
     },
@@ -1044,7 +1129,7 @@
           "IsNSFW": false,
           "ModID": 12466,
           "Name": "Audio Overhaul for Skyrim SE",
-          "Version": "3.3.2.0"
+          "Version": "3.3.2"
         }
       }
     },
@@ -1065,7 +1150,7 @@
           "IsNSFW": false,
           "ModID": 63733,
           "Name": "Bandit Lines Expansion",
-          "Version": "f1.03"
+          "Version": "1.01"
         }
       }
     },
@@ -1086,7 +1171,7 @@
           "IsNSFW": false,
           "ModID": 38480,
           "Name": "BeastHHBB - Khajiit and Argonian content - player character and NPC replacer",
-          "Version": "3.2.0.0"
+          "Version": "3.2"
         }
       }
     },
@@ -1107,7 +1192,7 @@
           "IsNSFW": false,
           "ModID": 54152,
           "Name": "Better Fitting Helmets SE",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -1128,7 +1213,7 @@
           "IsNSFW": false,
           "ModID": 49648,
           "Name": "Better Power Attack Direction Control - SSE",
-          "Version": "0.31.0.0"
+          "Version": "v0.31"
         }
       }
     },
@@ -1149,7 +1234,7 @@
           "IsNSFW": false,
           "ModID": 64339,
           "Name": "Better Third Person Selection - BTPS",
-          "Version": "0.5.5.0"
+          "Version": "0.2.2"
         }
       }
     },
@@ -1170,7 +1255,7 @@
           "IsNSFW": false,
           "ModID": 47778,
           "Name": "Bob\u0027s Interdimensional Chambers",
-          "Version": "1.0.0.0"
+          "Version": "1.2"
         }
       }
     },
@@ -1191,7 +1276,7 @@
           "IsNSFW": true,
           "ModID": 40599,
           "Name": "Borderlands 2 - The Name Game - Wolves and Skeevers Renamed",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -1212,7 +1297,7 @@
           "IsNSFW": false,
           "ModID": 59124,
           "Name": "Bow Charge Plus",
-          "Version": "0.9.0.0"
+          "Version": "0.8"
         }
       }
     },
@@ -1233,7 +1318,7 @@
           "IsNSFW": false,
           "ModID": 24689,
           "Name": "Buyable Golden Claw",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -1254,7 +1339,7 @@
           "IsNSFW": false,
           "ModID": 37891,
           "Name": "Cathedral - Improved Mountain LOD and Z Fight Patch (WIP)",
-          "Version": "1.2.0.0"
+          "Version": "1.2"
         }
       }
     },
@@ -1275,7 +1360,7 @@
           "IsNSFW": false,
           "ModID": 65708,
           "Name": "Caught Red Handed - Quest Expansion",
-          "Version": "f1.02"
+          "Version": "1.01"
         }
       }
     },
@@ -1296,7 +1381,7 @@
           "IsNSFW": false,
           "ModID": 65708,
           "Name": "Caught Red Handed - Quest Expansion",
-          "Version": "1.0.0.0"
+          "Version": "1.01"
         }
       }
     },
@@ -1317,7 +1402,7 @@
           "IsNSFW": false,
           "ModID": 60258,
           "Name": "CGO Stripped",
-          "Version": "2.0.0.0"
+          "Version": "2.1"
         }
       }
     },
@@ -1338,7 +1423,7 @@
           "IsNSFW": false,
           "ModID": 31949,
           "Name": "Chill Out Aela",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -1359,7 +1444,7 @@
           "IsNSFW": false,
           "ModID": 38775,
           "Name": "Cleaned Skyrim SE Textures",
-          "Version": "1.2.3.2"
+          "Version": "1.2.3.3"
         }
       }
     },
@@ -1380,7 +1465,7 @@
           "IsNSFW": false,
           "ModID": 53817,
           "Name": "College of Winterhold Quest Start Fixes",
-          "Version": "0.3.0.0"
+          "Version": "0.2"
         }
       }
     },
@@ -1401,7 +1486,7 @@
           "IsNSFW": false,
           "ModID": 45148,
           "Name": "Conditional Expressions - Subtle Face Animations",
-          "Version": "1.26.0.0"
+          "Version": "1.20"
         }
       }
     },
@@ -1422,7 +1507,7 @@
           "IsNSFW": false,
           "ModID": 60902,
           "Name": "Container Slot Restrictions - Slot-Inventory Overhaul Addon",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -1443,7 +1528,7 @@
           "IsNSFW": false,
           "ModID": 15134,
           "Name": "Critters Ain\u0027t Snitches - Animal and Monster Crime Reporting Fix",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -1464,7 +1549,7 @@
           "IsNSFW": false,
           "ModID": 62423,
           "Name": "Custom Skills Menu - A Custom Skills Framework Unified Menu",
-          "Version": "1.1.5.0"
+          "Version": "1.1"
         }
       }
     },
@@ -1485,7 +1570,7 @@
           "IsNSFW": false,
           "ModID": 49366,
           "Name": "Daedric Shrines of Skyrim",
-          "Version": "1.0.1.0"
+          "Version": "1.0.1"
         }
       }
     },
@@ -1506,7 +1591,7 @@
           "IsNSFW": false,
           "ModID": 30047,
           "Name": "Dark\u0027s Orc Stronghold",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -1526,8 +1611,8 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/5471-1-1480654311.jpg",
           "IsNSFW": false,
           "ModID": 5471,
-          "Name": "Dawnguard Don\u0027t Hunt Cured Vampires",
-          "Version": "1.0.0.0"
+          "Name": "Dawnguard Don\u0026#39;t Hunt Cured Vampires",
+          "Version": "1.0"
         }
       }
     },
@@ -1548,7 +1633,7 @@
           "IsNSFW": false,
           "ModID": 22555,
           "Name": "Dawnguard Vampire Corps",
-          "Version": "1.1.0.0"
+          "Version": "v1.1"
         }
       }
     },
@@ -1569,7 +1654,7 @@
           "IsNSFW": false,
           "ModID": 12939,
           "Name": "Deadly Spell Impacts",
-          "Version": "1.70.0.0"
+          "Version": "1.70"
         }
       }
     },
@@ -1590,7 +1675,7 @@
           "IsNSFW": false,
           "ModID": 22236,
           "Name": "Dismiss Steward",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -1611,7 +1696,7 @@
           "IsNSFW": false,
           "ModID": 39180,
           "Name": "Don\u0027t Roll In That",
-          "Version": "2.4.0.0"
+          "Version": "2.0"
         }
       }
     },
@@ -1632,7 +1717,7 @@
           "IsNSFW": false,
           "ModID": 32748,
           "Name": "Dovahkiin can lean Sit Kneel Lay down and Meditate etc too",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -1653,7 +1738,7 @@
           "IsNSFW": false,
           "ModID": 29941,
           "Name": "Dragon Aspect Overhaul",
-          "Version": "2.0.0.0"
+          "Version": "2.0"
         }
       }
     },
@@ -1674,7 +1759,7 @@
           "IsNSFW": false,
           "ModID": 47329,
           "Name": "Dragon Claws Auto-Unlock",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -1695,7 +1780,7 @@
           "IsNSFW": false,
           "ModID": 41950,
           "Name": "Dragonborn - Shouts Perk Tree",
-          "Version": "3.0.2.0"
+          "Version": "3.0.2"
         }
       }
     },
@@ -1716,7 +1801,7 @@
           "IsNSFW": false,
           "ModID": 56317,
           "Name": "Dragons Fall Down - Immersive Airborne Death",
-          "Version": "1.0.1.0"
+          "Version": "1.0.0"
         }
       }
     },
@@ -1737,7 +1822,7 @@
           "IsNSFW": false,
           "ModID": 45579,
           "Name": "Draw 2 - Dual Weapon Equip-Unequip Animations",
-          "Version": "1.6.0.0"
+          "Version": "1.6"
         }
       }
     },
@@ -1758,7 +1843,7 @@
           "IsNSFW": false,
           "ModID": 41634,
           "Name": "DVA Dynamic Vampire Appearance",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -1779,7 +1864,7 @@
           "IsNSFW": false,
           "ModID": 26331,
           "Name": "Dwemer Gates Don\u0027t Reset",
-          "Version": "1.3.3.0"
+          "Version": "1.3.3"
         }
       }
     },
@@ -1800,7 +1885,7 @@
           "IsNSFW": false,
           "ModID": 45677,
           "Name": "Dynamic Mercenary Fees",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -1821,7 +1906,7 @@
           "IsNSFW": false,
           "ModID": 60741,
           "Name": "Dynamic Things Alternative - Base Object Swapper",
-          "Version": "0.2.1.0"
+          "Version": "0.2"
         }
       }
     },
@@ -1855,7 +1940,7 @@
           "IsNSFW": false,
           "ModID": 7003,
           "Name": "EFF - Extensible Follower Framework",
-          "Version": "4.0.5.0"
+          "Version": "4.0.5"
         }
       }
     },
@@ -1876,7 +1961,7 @@
           "IsNSFW": false,
           "ModID": 35785,
           "Name": "Expressive Facegen Morphs SE",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -1897,7 +1982,7 @@
           "IsNSFW": false,
           "ModID": 37228,
           "Name": "Enemy (R)Evolution of Skyrim - EEOS - Spell Perk Item Distributor Addon",
-          "Version": "1.77.0.0"
+          "Version": "1.77.0"
         }
       }
     },
@@ -1918,7 +2003,7 @@
           "IsNSFW": true,
           "ModID": 2357,
           "Name": "Enhanced Blood Textures",
-          "Version": "4.0.0.0"
+          "Version": "4.0"
         }
       }
     },
@@ -1939,7 +2024,7 @@
           "IsNSFW": false,
           "ModID": 33078,
           "Name": "Enhanced WheelMenu Control SSE",
-          "Version": "f1.00"
+          "Version": "V1.0"
         }
       }
     },
@@ -1960,7 +2045,7 @@
           "IsNSFW": false,
           "ModID": 34006,
           "Name": "EVG Conditional Idles",
-          "Version": "1.42.0.0"
+          "Version": "1.4"
         }
       }
     },
@@ -1981,7 +2066,7 @@
           "IsNSFW": false,
           "ModID": 19766,
           "Name": "Extra Dimensional Storage",
-          "Version": "f1.02"
+          "Version": "1.02"
         }
       }
     },
@@ -2002,7 +2087,7 @@
           "IsNSFW": false,
           "ModID": 54035,
           "Name": "FadingSignal\u0027s Hide UI - Improved",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -2023,7 +2108,7 @@
           "IsNSFW": false,
           "ModID": 43834,
           "Name": "Assorted Tiny Tweaks",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -2044,7 +2129,7 @@
           "IsNSFW": false,
           "ModID": 1503,
           "Name": "Fast Travel Speed Fix",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -2065,7 +2150,7 @@
           "IsNSFW": false,
           "ModID": 13956,
           "Name": "FileAccess Interface for Skyrim SE Scripts - FISSES",
-          "Version": "1.3.7.0"
+          "Version": "1.4.0-beta"
         }
       }
     },
@@ -2086,7 +2171,7 @@
           "IsNSFW": false,
           "ModID": 19550,
           "Name": "Finding Derkeethus",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -2107,7 +2192,7 @@
           "IsNSFW": false,
           "ModID": 28973,
           "Name": "Finding Helgi... and Laelette - A Laid to Rest Overhaul",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -2128,7 +2213,7 @@
           "IsNSFW": false,
           "ModID": 32512,
           "Name": "Finding Susanna Alive - A Blood on the Ice Trigger Revision",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -2149,7 +2234,7 @@
           "IsNSFW": false,
           "ModID": 19815,
           "Name": "Finding Velehk Sain",
-          "Version": "1.0.15.0"
+          "Version": "1.0.15"
         }
       }
     },
@@ -2170,7 +2255,7 @@
           "IsNSFW": false,
           "ModID": 60915,
           "Name": "Fish Anywhere With Water",
-          "Version": "0.5.0.0"
+          "Version": "0.4.2"
         }
       }
     },
@@ -2178,14 +2263,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "5zpvMtfRLbY=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\ccBGSSSE001-Fish.bsa",
-        "Name": "Data_ccBGSSSE001-Fish.bsa",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse001-fish.bsa",
+        "Name": "Data_ccbgssse001-fish.bsa",
         "Size": 377673669,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccBGSSSE001-Fish.bsa",
-          "GameVersion": "1.6.629.0",
+          "GameFile": "Data\\ccbgssse001-fish.bsa",
+          "GameVersion": "1.6.640.0",
           "Hash": "5zpvMtfRLbY="
         }
       }
@@ -2194,14 +2279,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "Ht5zItXW/SY=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\ccBGSSSE001-Fish.esm",
-        "Name": "Data_ccBGSSSE001-Fish.esm",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse001-fish.esm",
+        "Name": "Data_ccbgssse001-fish.esm",
         "Size": 1425350,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccBGSSSE001-Fish.esm",
-          "GameVersion": "1.6.629.0",
+          "GameFile": "Data\\ccbgssse001-fish.esm",
+          "GameVersion": "1.6.640.0",
           "Hash": "Ht5zItXW/SY="
         }
       }
@@ -2223,7 +2308,7 @@
           "IsNSFW": false,
           "ModID": 10849,
           "Name": "Fixed body collision",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -2244,7 +2329,7 @@
           "IsNSFW": false,
           "ModID": 29932,
           "Name": "Flat World Map Framework SE",
-          "Version": "1.7.0.0"
+          "Version": "1.7"
         }
       }
     },
@@ -2265,7 +2350,7 @@
           "IsNSFW": false,
           "ModID": 27456,
           "Name": "FleshFX",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -2286,7 +2371,7 @@
           "IsNSFW": false,
           "ModID": 53441,
           "Name": "Flickering Sunlight Shadows Fix",
-          "Version": "1.4.0.0"
+          "Version": "1.4"
         }
       }
     },
@@ -2307,7 +2392,7 @@
           "IsNSFW": false,
           "ModID": 36276,
           "Name": "Forceful Tongue - Shouts Overhaul",
-          "Version": "1.0.1.0"
+          "Version": "3.0.5"
         }
       }
     },
@@ -2328,7 +2413,7 @@
           "IsNSFW": false,
           "ModID": 36276,
           "Name": "Forceful Tongue - Shouts Overhaul",
-          "Version": "3.0.6.0"
+          "Version": "3.0.5"
         }
       }
     },
@@ -2349,7 +2434,7 @@
           "IsNSFW": false,
           "ModID": 36276,
           "Name": "Forceful Tongue - Shouts Overhaul",
-          "Version": "3.0.3.0"
+          "Version": "3.0.5"
         }
       }
     },
@@ -2370,7 +2455,7 @@
           "IsNSFW": false,
           "ModID": 52639,
           "Name": "Forgotten Artifacts Empowered",
-          "Version": "1.0.1.0"
+          "Version": "0.9.0"
         }
       }
     },
@@ -2391,7 +2476,7 @@
           "IsNSFW": false,
           "ModID": 12549,
           "Name": "Forgotten Home Redux",
-          "Version": "1.2.0.0"
+          "Version": "1.2"
         }
       }
     },
@@ -2412,7 +2497,7 @@
           "IsNSFW": false,
           "ModID": 34900,
           "Name": "Forsworn Skinchangers",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -2433,7 +2518,7 @@
           "IsNSFW": false,
           "ModID": 3532,
           "Name": "Frozen Electrocuted Combustion",
-          "Version": "5.0.5.0"
+          "Version": "4.9.6"
         }
       }
     },
@@ -2454,7 +2539,7 @@
           "IsNSFW": false,
           "ModID": 15109,
           "Name": "Fuz Ro D-oh - Silent Voice",
-          "Version": "1.7.0.0"
+          "Version": "2.1"
         }
       }
     },
@@ -2475,7 +2560,7 @@
           "IsNSFW": false,
           "ModID": 15755,
           "Name": "GIST - Genuinely Intelligent Soul Trap SE",
-          "Version": "1.3.0.0"
+          "Version": "1.3"
         }
       }
     },
@@ -2496,7 +2581,7 @@
           "IsNSFW": false,
           "ModID": 50164,
           "Name": "Gladys the Corgi - A Custom Dog Follower Mod",
-          "Version": "1.2.3.0"
+          "Version": "1.2.3"
         }
       }
     },
@@ -2517,7 +2602,7 @@
           "IsNSFW": false,
           "ModID": 4224,
           "Name": "Go to bed",
-          "Version": "1.0.0.0"
+          "Version": "2.0.1"
         }
       }
     },
@@ -2538,7 +2623,7 @@
           "IsNSFW": false,
           "ModID": 23333,
           "Name": "Gray Quarter Apartment",
-          "Version": "f1.01"
+          "Version": "1.01"
         }
       }
     },
@@ -2559,7 +2644,7 @@
           "IsNSFW": false,
           "ModID": 46632,
           "Name": "Haemophilia - A Custom Vampire Skill Tree",
-          "Version": "1.0.1.0"
+          "Version": "1.0.0"
         }
       }
     },
@@ -2580,7 +2665,7 @@
           "IsNSFW": false,
           "ModID": 51897,
           "Name": "Haemophilia - Keybound Menu",
-          "Version": "1.2.0.0"
+          "Version": "1.2"
         }
       }
     },
@@ -2601,7 +2686,7 @@
           "IsNSFW": false,
           "ModID": 56510,
           "Name": "Keybinds for Haemophilia and Dragonborn Skilltrees",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -2622,7 +2707,7 @@
           "IsNSFW": false,
           "ModID": 59790,
           "Name": "Hand to Hand - An Adamant Addon",
-          "Version": "1.3.1.0"
+          "Version": "1.1.1"
         }
       }
     },
@@ -2643,7 +2728,7 @@
           "IsNSFW": false,
           "ModID": 59790,
           "Name": "Hand to Hand - An Adamant Addon",
-          "Version": "1.0.4.0"
+          "Version": "1.1.1"
         }
       }
     },
@@ -2664,7 +2749,7 @@
           "IsNSFW": false,
           "ModID": 51847,
           "Name": "Headhunter - Bounties Redone",
-          "Version": "1.0.0.0"
+          "Version": "1.20"
         }
       }
     },
@@ -2685,7 +2770,7 @@
           "IsNSFW": false,
           "ModID": 6308,
           "Name": "Heavy Armory - New Weapons",
-          "Version": "3.3.0.0"
+          "Version": "3.3"
         }
       }
     },
@@ -2706,7 +2791,7 @@
           "IsNSFW": false,
           "ModID": 51243,
           "Name": "Hide Quest Items in Container Menu",
-          "Version": "0.8.0.0"
+          "Version": "0.7"
         }
       }
     },
@@ -2740,7 +2825,7 @@
           "IsNSFW": false,
           "ModID": 42768,
           "Name": "High Poly NPC Overhaul - Resources",
-          "Version": "f2.06"
+          "Version": "2.06"
         }
       }
     },
@@ -2761,7 +2846,7 @@
           "IsNSFW": false,
           "ModID": 44155,
           "Name": "High Poly NPC Overhaul - Skyrim Special Edition 2.0 (All Vanilla NPCs)",
-          "Version": "f2.04"
+          "Version": "2.04"
         }
       }
     },
@@ -2782,7 +2867,7 @@
           "IsNSFW": false,
           "ModID": 43372,
           "Name": "Honeyside\u0027s Black Briar Bar",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -2803,7 +2888,7 @@
           "IsNSFW": false,
           "ModID": 57285,
           "Name": "House of Horrors - Quest Expansion",
-          "Version": "1.10.0.0"
+          "Version": "1.10"
         }
       }
     },
@@ -2824,7 +2909,7 @@
           "IsNSFW": false,
           "ModID": 43834,
           "Name": "Assorted Tiny Tweaks",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -2845,7 +2930,7 @@
           "IsNSFW": false,
           "ModID": 47670,
           "Name": "Immersive Interactions - Animated Actions",
-          "Version": "1.60.0.0"
+          "Version": "1.55"
         }
       }
     },
@@ -2866,7 +2951,7 @@
           "IsNSFW": false,
           "ModID": 31737,
           "Name": "Immersive Realistic Party Clothing Overhaul Enhanced Revised Special Edition",
-          "Version": "1.0.1.0"
+          "Version": "1.0.1"
         }
       }
     },
@@ -2887,7 +2972,7 @@
           "IsNSFW": false,
           "ModID": 523,
           "Name": "Immersive Sounds - Compendium",
-          "Version": "3.0.0.0"
+          "Version": "3.0"
         }
       }
     },
@@ -2908,7 +2993,7 @@
           "IsNSFW": false,
           "ModID": 22184,
           "Name": "Improved College Entry - Questline Tweaks",
-          "Version": "2.8.0.0"
+          "Version": "2.8"
         }
       }
     },
@@ -2929,7 +3014,7 @@
           "IsNSFW": false,
           "ModID": 22300,
           "Name": "Improved Companions - Questline Tweaks",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -2950,7 +3035,7 @@
           "IsNSFW": false,
           "ModID": 29316,
           "Name": "Inferno - Fire Effects Redux",
-          "Version": "4.1.0.0"
+          "Version": "4.1"
         }
       }
     },
@@ -2985,7 +3070,7 @@
           "IsNSFW": false,
           "ModID": 3354,
           "Name": "Insignificant Object Remover",
-          "Version": "1.2.2.0"
+          "Version": "1.2.2"
         }
       }
     },
@@ -3006,7 +3091,7 @@
           "IsNSFW": false,
           "ModID": 1960,
           "Name": "Ish\u0027s Respec Mod",
-          "Version": "1.6.0.0"
+          "Version": "1.6"
         }
       }
     },
@@ -3027,7 +3112,7 @@
           "IsNSFW": false,
           "ModID": 55735,
           "Name": "Jenassa in Chitin - SPID",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -3048,7 +3133,7 @@
           "IsNSFW": false,
           "ModID": 16334,
           "Name": "Key Bindable Dual Wield Blocking and Parrying",
-          "Version": "1.0.1.0"
+          "Version": "1.0.1"
         }
       }
     },
@@ -3069,7 +3154,7 @@
           "IsNSFW": false,
           "ModID": 56510,
           "Name": "Keybinds for Haemophilia and Dragonborn Skilltrees",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -3090,7 +3175,7 @@
           "IsNSFW": false,
           "ModID": 6817,
           "Name": "KS Hairdos SSE",
-          "Version": "1.9.0.0"
+          "Version": "1.8"
         }
       }
     },
@@ -3111,7 +3196,7 @@
           "IsNSFW": false,
           "ModID": 30817,
           "Name": "Lanterns Of Skyrim II",
-          "Version": "4.0.0.0"
+          "Version": "v4.0"
         }
       }
     },
@@ -3132,7 +3217,7 @@
           "IsNSFW": false,
           "ModID": 47134,
           "Name": "Leadership",
-          "Version": "1.2.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -3153,7 +3238,7 @@
           "IsNSFW": false,
           "ModID": 51764,
           "Name": "Leadership - Custom Skill Framework Extension",
-          "Version": "1.4.0.0"
+          "Version": "1.4"
         }
       }
     },
@@ -3174,7 +3259,7 @@
           "IsNSFW": false,
           "ModID": 53074,
           "Name": "Leaps of Faith - A Misc Quest",
-          "Version": "f1.02"
+          "Version": "1.02"
         }
       }
     },
@@ -3195,7 +3280,7 @@
           "IsNSFW": false,
           "ModID": 8778,
           "Name": "Lightning During Storms Sse (Minty lightning)",
-          "Version": ".3"
+          "Version": "V.3"
         }
       }
     },
@@ -3216,7 +3301,7 @@
           "IsNSFW": false,
           "ModID": 54411,
           "Name": "Little Touches- A tree Placement for Whiterun City",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -3237,7 +3322,7 @@
           "IsNSFW": false,
           "ModID": 61251,
           "Name": "LOD Unloading Bug Fix",
-          "Version": "0.1.0.0"
+          "Version": "0.1"
         }
       }
     },
@@ -3258,7 +3343,7 @@
           "IsNSFW": false,
           "ModID": 9660,
           "Name": "Lore Weapon Expansion SE",
-          "Version": "1.4.0.0c"
+          "Version": "1.4c"
         }
       }
     },
@@ -3279,7 +3364,7 @@
           "IsNSFW": false,
           "ModID": 30817,
           "Name": "Lanterns Of Skyrim II",
-          "Version": "4.1.0.0"
+          "Version": "v4.0"
         }
       }
     },
@@ -3300,7 +3385,7 @@
           "IsNSFW": false,
           "ModID": 44746,
           "Name": "Manbeast - A Werewolf Overhaul",
-          "Version": "1.2.1.0"
+          "Version": "1.2.1"
         }
       }
     },
@@ -3321,7 +3406,7 @@
           "IsNSFW": false,
           "ModID": 53000,
           "Name": "MCM Helper",
-          "Version": "1.3.0.0"
+          "Version": "1.3.2"
         }
       }
     },
@@ -3342,7 +3427,7 @@
           "IsNSFW": false,
           "ModID": 56433,
           "Name": "Merlin the Corgi - A Magical Dog Follower Mod",
-          "Version": "1.1.0.0"
+          "Version": "1.1.0"
         }
       }
     },
@@ -3363,7 +3448,7 @@
           "IsNSFW": false,
           "ModID": 17576,
           "Name": "Missives",
-          "Version": "f2.03"
+          "Version": "2.03"
         }
       }
     },
@@ -3384,7 +3469,7 @@
           "IsNSFW": false,
           "ModID": 44666,
           "Name": "More Craftable Equipment - Unenchanted Clothing and Specialty Gear",
-          "Version": "1.1.4.0"
+          "Version": "1.1.4"
         }
       }
     },
@@ -3405,7 +3490,7 @@
           "IsNSFW": false,
           "ModID": 26272,
           "Name": "More Immersive Activations (SkyRem - Mia)",
-          "Version": "2.1.3.0"
+          "Version": "2.1.3"
         }
       }
     },
@@ -3426,7 +3511,7 @@
           "IsNSFW": false,
           "ModID": 25702,
           "Name": "More Painful NPC Death Sounds SE",
-          "Version": "1.8.0.0"
+          "Version": "1.8"
         }
       }
     },
@@ -3447,7 +3532,7 @@
           "IsNSFW": false,
           "ModID": 18619,
           "Name": "moreHUD Inventory Edition",
-          "Version": "1.0.19.0"
+          "Version": "2.0.3.0"
         }
       }
     },
@@ -3468,7 +3553,7 @@
           "IsNSFW": false,
           "ModID": 12688,
           "Name": "moreHUD SE",
-          "Version": "4.0.0.5Beta"
+          "Version": "5.0.2.0"
         }
       }
     },
@@ -3489,7 +3574,7 @@
           "IsNSFW": false,
           "ModID": 752,
           "Name": "Move it Dammit - for Skyrim Special Edition",
-          "Version": "1.1.0.0b"
+          "Version": "1.1.0b"
         }
       }
     },
@@ -3510,7 +3595,7 @@
           "IsNSFW": false,
           "ModID": 4524,
           "Name": "Multiple Floors Sandboxing",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -3531,7 +3616,7 @@
           "IsNSFW": false,
           "ModID": 33411,
           "Name": "Mundus - A Standing Stone Overhaul",
-          "Version": "1.7.0.0"
+          "Version": "1.7.0"
         }
       }
     },
@@ -3552,7 +3637,7 @@
           "IsNSFW": false,
           "ModID": 7096,
           "Name": "My Home is Your Home",
-          "Version": ""
+          "Version": "1.21sse"
         }
       }
     },
@@ -3573,7 +3658,7 @@
           "IsNSFW": false,
           "ModID": 27839,
           "Name": "Mysticism - A Magic Overhaul",
-          "Version": "2.0.9.0"
+          "Version": "1.2.1"
         }
       }
     },
@@ -3594,7 +3679,7 @@
           "IsNSFW": false,
           "ModID": 53682,
           "Name": "Mysticism Spells For Npcs",
-          "Version": "1.6.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -3615,7 +3700,7 @@
           "IsNSFW": false,
           "ModID": 60033,
           "Name": "Project New Reign - Nemesis Unlimited Behavior Engine",
-          "Version": "0.84.0.0b-"
+          "Version": "0.84-beta"
         }
       }
     },
@@ -3636,7 +3721,7 @@
           "IsNSFW": false,
           "ModID": 53792,
           "Name": "Nilheim - Misc Quest Expansion",
-          "Version": "1.11.0.0"
+          "Version": "1.11"
         }
       }
     },
@@ -3657,7 +3742,7 @@
           "IsNSFW": false,
           "ModID": 39498,
           "Name": "Nilheim BQ Fix",
-          "Version": "1.0.2.0"
+          "Version": "1.0.2"
         }
       }
     },
@@ -3678,7 +3763,7 @@
           "IsNSFW": false,
           "ModID": 32361,
           "Name": "Niyya\u0027s New Clothes",
-          "Version": "1.1.0.0"
+          "Version": "1.1.0"
         }
       }
     },
@@ -3699,7 +3784,7 @@
           "IsNSFW": false,
           "ModID": 49960,
           "Name": "No Death in the Ratway",
-          "Version": "1.0.0.0"
+          "Version": "1.0.0"
         }
       }
     },
@@ -3720,7 +3805,7 @@
           "IsNSFW": false,
           "ModID": 60084,
           "Name": "no dogs are stupid",
-          "Version": "1.1.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -3741,7 +3826,7 @@
           "IsNSFW": false,
           "ModID": 1265,
           "Name": "No more Radial Blur - Performance optimization",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -3762,7 +3847,7 @@
           "IsNSFW": false,
           "ModID": 4784,
           "Name": "No More Standing Too Close SSE",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -3783,7 +3868,7 @@
           "IsNSFW": false,
           "ModID": 36132,
           "Name": "No Silly Physics Damage - Carts Pots Bones etc",
-          "Version": "2.0.0.0"
+          "Version": "2"
         }
       }
     },
@@ -3804,7 +3889,7 @@
           "IsNSFW": false,
           "ModID": 1432,
           "Name": "No Spinning Death Animation SE",
-          "Version": "1.31.0.0"
+          "Version": "1.31"
         }
       }
     },
@@ -3825,7 +3910,7 @@
           "IsNSFW": false,
           "ModID": 27707,
           "Name": "Notification Log SSE",
-          "Version": "1.2.0.0"
+          "Version": "1.2.0"
         }
       }
     },
@@ -3846,7 +3931,7 @@
           "IsNSFW": false,
           "ModID": 66125,
           "Name": "NPCs Wear Amulets of Mara",
-          "Version": "2.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -3867,7 +3952,7 @@
           "IsNSFW": false,
           "ModID": 53565,
           "Name": "Open Your Mouth - Non-Ventriloquist Player SE",
-          "Version": "6.3.0.0"
+          "Version": "6.3"
         }
       }
     },
@@ -3888,7 +3973,7 @@
           "IsNSFW": false,
           "ModID": 12919,
           "Name": "opparco mfg Command for SSE",
-          "Version": "0.2.1.0"
+          "Version": "v0.2.1"
         }
       }
     },
@@ -3909,7 +3994,7 @@
           "IsNSFW": false,
           "ModID": 51711,
           "Name": "Paarthurnax - Quest Expansion",
-          "Version": "f1.02"
+          "Version": "1.02"
         }
       }
     },
@@ -3930,7 +4015,7 @@
           "IsNSFW": false,
           "ModID": 38944,
           "Name": "Paper UI Sounds for Skyrim",
-          "Version": "6.1.0.0"
+          "Version": "6.1"
         }
       }
     },
@@ -3951,7 +4036,7 @@
           "IsNSFW": false,
           "ModID": 13048,
           "Name": "PapyrusUtil SE - Modders Scripting Utility Functions",
-          "Version": "3.9.0.0"
+          "Version": "4.3"
         }
       }
     },
@@ -3972,7 +4057,7 @@
           "IsNSFW": false,
           "ModID": 59310,
           "Name": "Passive Enchanting Experience",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -3993,7 +4078,7 @@
           "IsNSFW": false,
           "ModID": 62031,
           "Name": "Pause Menu After Load Screens",
-          "Version": "5.0.0.0"
+          "Version": "1.01"
         }
       }
     },
@@ -4014,7 +4099,7 @@
           "IsNSFW": false,
           "ModID": 38702,
           "Name": "Pickpocket Everyone (supports mod-added creatures)",
-          "Version": "0.2.0.0"
+          "Version": "0.2"
         }
       }
     },
@@ -4035,7 +4120,7 @@
           "IsNSFW": false,
           "ModID": 13838,
           "Name": "Pickpocket Reset",
-          "Version": "1.1.1.0"
+          "Version": "1.1.1"
         }
       }
     },
@@ -4056,7 +4141,7 @@
           "IsNSFW": false,
           "ModID": 35248,
           "Name": "Pray With Amulets",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -4077,7 +4162,7 @@
           "IsNSFW": false,
           "ModID": 69980,
           "Name": "QuickLoot RE with TCC icons",
-          "Version": "1.1.0.0"
+          "Version": "2.9.4"
         }
       }
     },
@@ -4098,7 +4183,7 @@
           "IsNSFW": false,
           "ModID": 44041,
           "Name": "Quiet Better Jumping for Combat Gameplay Overhaul (CGO)",
-          "Version": "1.2.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -4119,7 +4204,7 @@
           "IsNSFW": false,
           "ModID": 23223,
           "Name": "Race Abilities Enhanced (SkyRem - Rae)",
-          "Version": "5.2.5.0"
+          "Version": "5.2.5"
         }
       }
     },
@@ -4140,7 +4225,7 @@
           "IsNSFW": false,
           "ModID": 2853,
           "Name": "RaceCompatibility for Skyrim Special Edition",
-          "Version": "2.13.0.0"
+          "Version": "2.13"
         }
       }
     },
@@ -4161,7 +4246,7 @@
           "IsNSFW": false,
           "ModID": 19080,
           "Name": "RaceMenu",
-          "Version": "0.4.16.0"
+          "Version": "0.4.19.9"
         }
       }
     },
@@ -4182,7 +4267,7 @@
           "IsNSFW": false,
           "ModID": 45427,
           "Name": "Radiant Requirements MCM",
-          "Version": "1.2.0.0"
+          "Version": "1.2.0"
         }
       }
     },
@@ -4203,7 +4288,7 @@
           "IsNSFW": false,
           "ModID": 54177,
           "Name": "Rags to Ravens- Hagraven Variety and Replacer",
-          "Version": "0.2.0.0b"
+          "Version": "0.1"
         }
       }
     },
@@ -4211,14 +4296,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "FQbA20bA5Dw=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\ccBGSSSE037-Curios.bsa",
-        "Name": "Data_ccBGSSSE037-Curios.bsa",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse037-curios.bsa",
+        "Name": "Data_ccbgssse037-curios.bsa",
         "Size": 111740475,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccBGSSSE037-Curios.bsa",
-          "GameVersion": "1.6.629.0",
+          "GameFile": "Data\\ccbgssse037-curios.bsa",
+          "GameVersion": "1.6.640.0",
           "Hash": "FQbA20bA5Dw="
         }
       }
@@ -4227,14 +4312,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "it6+eSu4OCw=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\ccBGSSSE037-Curios.esl",
-        "Name": "Data_ccBGSSSE037-Curios.esl",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse037-curios.esl",
+        "Name": "Data_ccbgssse037-curios.esl",
         "Size": 37476,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccBGSSSE037-Curios.esl",
-          "GameVersion": "1.6.629.0",
+          "GameFile": "Data\\ccbgssse037-curios.esl",
+          "GameVersion": "1.6.640.0",
           "Hash": "it6+eSu4OCw="
         }
       }
@@ -4256,7 +4341,7 @@
           "IsNSFW": false,
           "ModID": 14075,
           "Name": "Raven Rock - Fix Exit on Horseback",
-          "Version": "1.0.0.0"
+          "Version": "1"
         }
       }
     },
@@ -4277,7 +4362,7 @@
           "IsNSFW": false,
           "ModID": 1187,
           "Name": "Relationship Dialogue Overhaul - RDO SE",
-          "Version": "1.0.0.0"
+          "Version": "Final"
         }
       }
     },
@@ -4298,7 +4383,7 @@
           "IsNSFW": false,
           "ModID": 42026,
           "Name": "Reading Is Good (SKSE)",
-          "Version": "1.1.0.0"
+          "Version": "1.1.1"
         }
       }
     },
@@ -4319,7 +4404,7 @@
           "IsNSFW": false,
           "ModID": 16310,
           "Name": "Realistic Skin Shaders - Falmer and Hagravens",
-          "Version": "f1.05"
+          "Version": "1.05"
         }
       }
     },
@@ -4340,7 +4425,7 @@
           "IsNSFW": false,
           "ModID": 1187,
           "Name": "Relationship Dialogue Overhaul - RDO SE",
-          "Version": "1.0.0.0"
+          "Version": "Final"
         }
       }
     },
@@ -4361,7 +4446,7 @@
           "IsNSFW": false,
           "ModID": 31612,
           "Name": "Reliquary of Myth - Artifact Overhaul",
-          "Version": "4.4.6.0"
+          "Version": "4.4.6"
         }
       }
     },
@@ -4382,7 +4467,7 @@
           "IsNSFW": false,
           "ModID": 30185,
           "Name": "Respect for the Legate",
-          "Version": "1.0.1.0"
+          "Version": "1.0.1"
         }
       }
     },
@@ -4403,7 +4488,7 @@
           "IsNSFW": false,
           "ModID": 53901,
           "Name": "Riften Gate Restored",
-          "Version": "1.0.1.0"
+          "Version": "1.0.1"
         }
       }
     },
@@ -4424,7 +4509,7 @@
           "IsNSFW": false,
           "ModID": 43834,
           "Name": "Assorted Tiny Tweaks",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -4445,7 +4530,7 @@
           "IsNSFW": false,
           "ModID": 6994,
           "Name": "Royal Armory - New Artifacts",
-          "Version": "2.2.0.0"
+          "Version": "2.2"
         }
       }
     },
@@ -4466,7 +4551,7 @@
           "IsNSFW": false,
           "ModID": 51901,
           "Name": "Royal Armory - No Visible Quest and Experience Patch",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -4487,7 +4572,7 @@
           "IsNSFW": false,
           "ModID": 26398,
           "Name": "Royal Armory Tweaks and Fixes",
-          "Version": "1.41.0.0"
+          "Version": "1.40"
         }
       }
     },
@@ -4495,14 +4580,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "BlO1rc+2UDY=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\ccBGSSSE025-AdvDSGS.bsa",
-        "Name": "Data_ccBGSSSE025-AdvDSGS.bsa",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse025-advdsgs.bsa",
+        "Name": "Data_ccbgssse025-advdsgs.bsa",
         "Size": 1092876206,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccBGSSSE025-AdvDSGS.bsa",
-          "GameVersion": "1.6.629.0",
+          "GameFile": "Data\\ccbgssse025-advdsgs.bsa",
+          "GameVersion": "1.6.640.0",
           "Hash": "BlO1rc+2UDY="
         }
       }
@@ -4511,14 +4596,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "dmVtPlUOtZ8=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\ccBGSSSE025-AdvDSGS.esm",
-        "Name": "Data_ccBGSSSE025-AdvDSGS.esm",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse025-advdsgs.esm",
+        "Name": "Data_ccbgssse025-advdsgs.esm",
         "Size": 812763,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccBGSSSE025-AdvDSGS.esm",
-          "GameVersion": "1.6.629.0",
+          "GameFile": "Data\\ccbgssse025-advdsgs.esm",
+          "GameVersion": "1.6.640.0",
           "Hash": "dmVtPlUOtZ8="
         }
       }
@@ -4540,7 +4625,7 @@
           "IsNSFW": false,
           "ModID": 34681,
           "Name": "Save the Icerunner - Lights Out Alternate Routes",
-          "Version": "1.1.2.0"
+          "Version": "1.1.2"
         }
       }
     },
@@ -4561,7 +4646,7 @@
           "IsNSFW": false,
           "ModID": 41639,
           "Name": "Scion - A Vampire Overhaul",
-          "Version": "1.2.4.0"
+          "Version": "1.2.3"
         }
       }
     },
@@ -4582,7 +4667,7 @@
           "IsNSFW": false,
           "ModID": 29017,
           "Name": "Secret of the Blood Armory",
-          "Version": "1.2.0.0"
+          "Version": "1.2"
         }
       }
     },
@@ -4603,7 +4688,7 @@
           "IsNSFW": false,
           "ModID": 59529,
           "Name": "Security Overhaul SKSE - Add-ons",
-          "Version": "0.1.4.0"
+          "Version": "0.1.2"
         }
       }
     },
@@ -4624,7 +4709,7 @@
           "IsNSFW": false,
           "ModID": 58224,
           "Name": "Security Overhaul SKSE - Lock Variations",
-          "Version": "3.0.0.0"
+          "Version": "2.1.0"
         }
       }
     },
@@ -4645,7 +4730,7 @@
           "IsNSFW": false,
           "ModID": 55450,
           "Name": "Sensible Bribes - Based on Speechcraft Not Level",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -4666,7 +4751,7 @@
           "IsNSFW": false,
           "ModID": 59341,
           "Name": "Serana Relationship Revamped",
-          "Version": "1.2.2.0"
+          "Version": "1.1-beta"
         }
       }
     },
@@ -4687,7 +4772,7 @@
           "IsNSFW": false,
           "ModID": 59341,
           "Name": "Serana Relationship Revamped",
-          "Version": "1.2.1.0"
+          "Version": "1.1-beta"
         }
       }
     },
@@ -4708,7 +4793,7 @@
           "IsNSFW": false,
           "ModID": 60144,
           "Name": "Shaders of Solstheim - Ash and Moss",
-          "Version": "0.2.1.0"
+          "Version": "0.2.1"
         }
       }
     },
@@ -4729,7 +4814,7 @@
           "IsNSFW": false,
           "ModID": 12995,
           "Name": "Shadowmark Labels",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -4750,7 +4835,7 @@
           "IsNSFW": false,
           "ModID": 41368,
           "Name": "Shadows Of Sunlight - In Small Exterior World Spaces",
-          "Version": "0.5.0.0"
+          "Version": "0.5"
         }
       }
     },
@@ -4771,7 +4856,7 @@
           "IsNSFW": false,
           "ModID": 47225,
           "Name": "Vampire Feeding Tweaks",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -4792,7 +4877,7 @@
           "IsNSFW": false,
           "ModID": 63463,
           "Name": "Shrubs of Snow - Seasons of Skyrim SKSE",
-          "Version": "0.1.0.0"
+          "Version": "0.1"
         }
       }
     },
@@ -4813,7 +4898,7 @@
           "IsNSFW": false,
           "ModID": 54245,
           "Name": "Sidequests of Skyrim",
-          "Version": "0.6.1.0"
+          "Version": "0.6.1"
         }
       }
     },
@@ -4834,7 +4919,7 @@
           "IsNSFW": false,
           "ModID": 52007,
           "Name": "Sil Gahrot - Improved Shout Learning",
-          "Version": "1.0.5.0"
+          "Version": "1.0.4"
         }
       }
     },
@@ -4855,7 +4940,7 @@
           "IsNSFW": false,
           "ModID": 15791,
           "Name": "Silenced Prisoners",
-          "Version": "3.0.0.0"
+          "Version": "3.0"
         }
       }
     },
@@ -4876,7 +4961,7 @@
           "IsNSFW": false,
           "ModID": 12650,
           "Name": "Simple Horse SE",
-          "Version": "1.21.0.0"
+          "Version": "1.21"
         }
       }
     },
@@ -4897,7 +4982,7 @@
           "IsNSFW": false,
           "ModID": 35736,
           "Name": "Simple Werewolf Favourite Howls Menu",
-          "Version": "1.5.1.0"
+          "Version": "1.5.1"
         }
       }
     },
@@ -4918,7 +5003,7 @@
           "IsNSFW": false,
           "ModID": 56235,
           "Name": "Simplicity of Snow",
-          "Version": "0.6.4.1"
+          "Version": "0.5"
         }
       }
     },
@@ -4939,7 +5024,7 @@
           "IsNSFW": false,
           "ModID": 26490,
           "Name": "Simply Tame",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -4960,7 +5045,7 @@
           "IsNSFW": false,
           "ModID": 45540,
           "Name": "Skill Comments Reconditioned",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -4981,7 +5066,7 @@
           "IsNSFW": false,
           "ModID": 44230,
           "Name": "SKYRIM BORDER HOLDS",
-          "Version": "1.0.6.0"
+          "Version": "V1.0.5"
         }
       }
     },
@@ -5002,7 +5087,7 @@
           "IsNSFW": false,
           "ModID": 54209,
           "Name": "Skyrim Particle Overhaul",
-          "Version": "1.0.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -5023,7 +5108,7 @@
           "IsNSFW": false,
           "ModID": 2300,
           "Name": "Skyrim SE Expanded Skyrim Weaponry",
-          "Version": "f1.01"
+          "Version": "V1.01"
         }
       }
     },
@@ -5044,7 +5129,7 @@
           "IsNSFW": false,
           "ModID": 62126,
           "Name": "Skyrim Souls RE - Minimap Compatibility",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -5065,7 +5150,7 @@
           "IsNSFW": false,
           "ModID": 12604,
           "Name": "SkyUI",
-          "Version": "5.2.0.0SE"
+          "Version": "5.2SE"
         }
       }
     },
@@ -5086,7 +5171,7 @@
           "IsNSFW": false,
           "ModID": 37295,
           "Name": "SkyUI Weapon Icon Patches",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -5107,7 +5192,7 @@
           "IsNSFW": false,
           "ModID": 37295,
           "Name": "SkyUI Weapon Icon Patches",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -5128,7 +5213,7 @@
           "IsNSFW": false,
           "ModID": 37295,
           "Name": "SkyUI Weapon Icon Patches",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -5149,7 +5234,7 @@
           "IsNSFW": false,
           "ModID": 59250,
           "Name": "Sleeping Expanded - Animations and NPC reactions",
-          "Version": "f1.01"
+          "Version": "1.20"
         }
       }
     },
@@ -5170,7 +5255,7 @@
           "IsNSFW": false,
           "ModID": 59562,
           "Name": "Slightly Better - Old People Consistency",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -5191,7 +5276,7 @@
           "IsNSFW": false,
           "ModID": 5226,
           "Name": "Smart No More Stupid Dog Comments",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -5212,7 +5297,7 @@
           "IsNSFW": false,
           "ModID": 40102,
           "Name": "Smart NPC Potions - Enemies Use Potions and Poisons",
-          "Version": "f1.04"
+          "Version": "1.04"
         }
       }
     },
@@ -5233,7 +5318,7 @@
           "IsNSFW": false,
           "ModID": 42402,
           "Name": "Smart Optimal Salves - Optimal Potion Hotkey MCM",
-          "Version": "0.3.0.0"
+          "Version": "0.3"
         }
       }
     },
@@ -5254,7 +5339,7 @@
           "IsNSFW": false,
           "ModID": 41252,
           "Name": "SmoothCam",
-          "Version": "1.6.1.0"
+          "Version": "1.6.1"
         }
       }
     },
@@ -5275,7 +5360,7 @@
           "IsNSFW": false,
           "ModID": 31531,
           "Name": "Soul Taker",
-          "Version": "1.3.0.0"
+          "Version": "1.3"
         }
       }
     },
@@ -5296,7 +5381,7 @@
           "IsNSFW": false,
           "ModID": 59741,
           "Name": "Soul-Cairn Objects Secured",
-          "Version": "1.1.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -5317,7 +5402,7 @@
           "IsNSFW": false,
           "ModID": 57226,
           "Name": "SPID - Skaal Clothes",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -5338,7 +5423,7 @@
           "IsNSFW": false,
           "ModID": 36869,
           "Name": "Spell Perk Item Distributor (SPID)",
-          "Version": "5.0.0.0"
+          "Version": "5.2.0"
         }
       }
     },
@@ -5359,7 +5444,7 @@
           "IsNSFW": false,
           "ModID": 55321,
           "Name": "SPID NPC Trap Safety",
-          "Version": "0.1.0.0"
+          "Version": "0.1"
         }
       }
     },
@@ -5380,7 +5465,7 @@
           "IsNSFW": false,
           "ModID": 32256,
           "Name": "Spooky Philter of the Phantom",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -5401,7 +5486,7 @@
           "IsNSFW": false,
           "ModID": 58742,
           "Name": "Stamina of Steeds",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -5422,7 +5507,7 @@
           "IsNSFW": false,
           "ModID": 659,
           "Name": "Static Mesh Improvement Mod - SMIM",
-          "Version": "f2.08"
+          "Version": "2.08"
         }
       }
     },
@@ -5443,7 +5528,7 @@
           "IsNSFW": false,
           "ModID": 16178,
           "Name": "Stendarr\u0027s Beacon Enhanced and Ruhmastered",
-          "Version": "1.4.0.0SSE"
+          "Version": "v1.4SSE"
         }
       }
     },
@@ -5464,7 +5549,7 @@
           "IsNSFW": false,
           "ModID": 60762,
           "Name": "Stones of Solitude - Better Blended Rock Piles",
-          "Version": "0.2.0.0"
+          "Version": "0.1"
         }
       }
     },
@@ -5485,7 +5570,7 @@
           "IsNSFW": false,
           "ModID": 19456,
           "Name": "Strange Runes",
-          "Version": "3.6.0.0"
+          "Version": "3.7.2"
         }
       }
     },
@@ -5506,7 +5591,7 @@
           "IsNSFW": false,
           "ModID": 19456,
           "Name": "Strange Runes",
-          "Version": "3.7.3.0"
+          "Version": "3.7.2"
         }
       }
     },
@@ -5527,7 +5612,7 @@
           "IsNSFW": false,
           "ModID": 42449,
           "Name": "Suffer at Kynareth\u0027s",
-          "Version": "1.0.0.0"
+          "Version": "1.0.0"
         }
       }
     },
@@ -5548,7 +5633,7 @@
           "IsNSFW": false,
           "ModID": 53682,
           "Name": "Mysticism Spells For Npcs",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -5569,7 +5654,7 @@
           "IsNSFW": false,
           "ModID": 47277,
           "Name": "Sun Affects NPC Vampires",
-          "Version": "1.1.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -5590,7 +5675,7 @@
           "IsNSFW": false,
           "ModID": 51645,
           "Name": "Sweeping Organizes Stuff - Use Broom to Clean Mess",
-          "Version": "0.4.0.0"
+          "Version": "0.4"
         }
       }
     },
@@ -5611,7 +5696,7 @@
           "IsNSFW": false,
           "ModID": 37884,
           "Name": "Thalmor Use Elven",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -5632,7 +5717,7 @@
           "IsNSFW": false,
           "ModID": 57138,
           "Name": "Thaumaturgy - An Enchanting Overhaul",
-          "Version": "1.2.1.0"
+          "Version": "1.1.4"
         }
       }
     },
@@ -5653,7 +5738,7 @@
           "IsNSFW": false,
           "ModID": 5794,
           "Name": "TESG Loadscreen Replacer - SSE Port",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -5695,7 +5780,7 @@
           "IsNSFW": false,
           "ModID": 57683,
           "Name": "The Only Cure - Quest Expansion",
-          "Version": "f1.01"
+          "Version": "1.01"
         }
       }
     },
@@ -5716,7 +5801,7 @@
           "IsNSFW": false,
           "ModID": 58383,
           "Name": "The Only Cure Quest Expansion - Patches",
-          "Version": "1.1.1.0"
+          "Version": "1.1.1"
         }
       }
     },
@@ -5737,7 +5822,7 @@
           "IsNSFW": false,
           "ModID": 34028,
           "Name": "Thugs Not Assassins",
-          "Version": "1.1.1.0"
+          "Version": "1.1.1"
         }
       }
     },
@@ -5758,7 +5843,7 @@
           "IsNSFW": false,
           "ModID": 34028,
           "Name": "Thugs Not Assassins",
-          "Version": "1.1.0.0"
+          "Version": "1.1.1"
         }
       }
     },
@@ -5779,7 +5864,7 @@
           "IsNSFW": false,
           "ModID": 25464,
           "Name": "Timing is Everything SE",
-          "Version": "2.2.0.0FFF"
+          "Version": "2.2"
         }
       }
     },
@@ -5800,7 +5885,7 @@
           "IsNSFW": false,
           "ModID": 49415,
           "Name": "TKAA AI OVERHAUL PATCH 1.6.7",
-          "Version": "1.2.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -5821,7 +5906,7 @@
           "IsNSFW": false,
           "ModID": 33381,
           "Name": "Torch Remover",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -5842,7 +5927,7 @@
           "IsNSFW": false,
           "ModID": 53797,
           "Name": "True Directional Movement - Diagonal Sprinting Fix",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -5863,7 +5948,7 @@
           "IsNSFW": false,
           "ModID": 51614,
           "Name": "True Directional Movement - Modernized Third Person Gameplay",
-          "Version": "2.2.1.0"
+          "Version": "1.4.3"
         }
       }
     },
@@ -5884,7 +5969,7 @@
           "IsNSFW": false,
           "ModID": 62775,
           "Name": "TrueHUD - HUD Additions",
-          "Version": "1.1.4.0"
+          "Version": "1.0.0"
         }
       }
     },
@@ -5905,7 +5990,7 @@
           "IsNSFW": false,
           "ModID": 17561,
           "Name": "UIExtensions",
-          "Version": "1.2.0.0"
+          "Version": "1.2.0"
         }
       }
     },
@@ -5926,7 +6011,7 @@
           "IsNSFW": false,
           "ModID": 64652,
           "Name": "Unbearable Taunt Animation",
-          "Version": "1.1.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -5947,7 +6032,7 @@
           "IsNSFW": false,
           "ModID": 56452,
           "Name": "Unique Region Names SE",
-          "Version": "1.1.0.0"
+          "Version": "1.1.0"
         }
       }
     },
@@ -5968,7 +6053,7 @@
           "IsNSFW": false,
           "ModID": 59702,
           "Name": "Unofficial Creation Club Fishing Patch",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -5989,7 +6074,7 @@
           "IsNSFW": false,
           "ModID": 18115,
           "Name": "Unofficial High Definition Audio Project",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -6010,7 +6095,7 @@
           "IsNSFW": false,
           "ModID": 18115,
           "Name": "Unofficial High Definition Audio Project",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -6031,7 +6116,7 @@
           "IsNSFW": false,
           "ModID": 18115,
           "Name": "Unofficial High Definition Audio Project",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -6052,7 +6137,7 @@
           "IsNSFW": false,
           "ModID": 49616,
           "Name": "Unofficial Skyrim Modder\u0027s Patch - USMP SE",
-          "Version": "2.5.5.0"
+          "Version": "2.5.4"
         }
       }
     },
@@ -6073,7 +6158,7 @@
           "IsNSFW": false,
           "ModID": 50813,
           "Name": "Unofficial Skyrim Modders Patch - USMP - Patch Emporium",
-          "Version": "1.3.23.0"
+          "Version": "1.3"
         }
       }
     },
@@ -6094,7 +6179,7 @@
           "IsNSFW": false,
           "ModID": 50813,
           "Name": "Unofficial Skyrim Modders Patch - USMP - Patch Emporium",
-          "Version": "1.0.0.0"
+          "Version": "1.3"
         }
       }
     },
@@ -6115,7 +6200,7 @@
           "IsNSFW": false,
           "ModID": 266,
           "Name": "Unofficial Skyrim Special Edition Patch",
-          "Version": "4.2.6.0a"
+          "Version": "4.2.6a"
         }
       }
     },
@@ -6136,7 +6221,7 @@
           "IsNSFW": false,
           "ModID": 11136,
           "Name": "UNP Body Fit Armors and Clothing",
-          "Version": "2.3.0.0"
+          "Version": "2.3"
         }
       }
     },
@@ -6157,7 +6242,7 @@
           "IsNSFW": false,
           "ModID": 29333,
           "Name": "Upgrade Old Potions",
-          "Version": "1.0.0.0"
+          "Version": "1.0.0"
         }
       }
     },
@@ -6178,7 +6263,7 @@
           "IsNSFW": false,
           "ModID": 59350,
           "Name": "Use Telekinesis on Traps",
-          "Version": "0.2.3.0"
+          "Version": "0.2.3"
         }
       }
     },
@@ -6199,7 +6284,7 @@
           "IsNSFW": false,
           "ModID": 47225,
           "Name": "Vampire Feeding Tweaks",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -6220,7 +6305,7 @@
           "IsNSFW": false,
           "ModID": 46023,
           "Name": "Vampire Lords Can Fly (With Collision)",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -6241,7 +6326,7 @@
           "IsNSFW": false,
           "ModID": 51232,
           "Name": "Vanilla Plus Writing Purity Patch",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -6262,7 +6347,7 @@
           "IsNSFW": false,
           "ModID": 54061,
           "Name": "Vanilla Script (micro)Optimizations",
-          "Version": "1.15.0.0a"
+          "Version": "1.14"
         }
       }
     },
@@ -6283,7 +6368,7 @@
           "IsNSFW": false,
           "ModID": 32133,
           "Name": "Velexia\u0027s Animals are not Monsters SE",
-          "Version": "1.3.1.0"
+          "Version": "1.3.1"
         }
       }
     },
@@ -6304,7 +6389,7 @@
           "IsNSFW": false,
           "ModID": 668,
           "Name": "VioLens - A Killmove Mod SE",
-          "Version": "2.22.0.0a"
+          "Version": "2.30"
         }
       }
     },
@@ -6325,7 +6410,7 @@
           "IsNSFW": false,
           "ModID": 49943,
           "Name": "Vision",
-          "Version": "1.1.2.0"
+          "Version": "1.1.2"
         }
       }
     },
@@ -6346,7 +6431,7 @@
           "IsNSFW": false,
           "ModID": 2187,
           "Name": "Vivid Weathers Definitive Edition - a complete Weather and Visual overhaul for Skyrim",
-          "Version": "2.42.0.0"
+          "Version": "2.42"
         }
       }
     },
@@ -6367,7 +6452,7 @@
           "IsNSFW": false,
           "ModID": 53333,
           "Name": "Waymark - A Road Signs Mod",
-          "Version": "1.3.0.0"
+          "Version": "1.3"
         }
       }
     },
@@ -6388,7 +6473,7 @@
           "IsNSFW": false,
           "ModID": 15619,
           "Name": "Whiterun Stormcloak Camp Reborn",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -6409,7 +6494,7 @@
           "IsNSFW": false,
           "ModID": 49305,
           "Name": "Whiterun Watchtower Doesn\u0027t Start Broken",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -6430,7 +6515,7 @@
           "IsNSFW": false,
           "ModID": 23604,
           "Name": "Widget Mod - SSE Port",
-          "Version": "SSE.1"
+          "Version": "0.5.6"
         }
       }
     },
@@ -6451,7 +6536,7 @@
           "IsNSFW": true,
           "ModID": 1988,
           "Name": "XP32 Maximum Skeleton Special Extended - XPMSSE",
-          "Version": "4.80.0.0"
+          "Version": "4.80"
         }
       }
     },
@@ -6472,7 +6557,7 @@
           "IsNSFW": false,
           "ModID": 53606,
           "Name": "Ysolda the Enchantress - Ysolda\u0027s House Gets an Arcane Enchanter",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -6493,7 +6578,7 @@
           "IsNSFW": false,
           "ModID": 45182,
           "Name": "zxlice\u0027s ultimate potion animation - ZUPA",
-          "Version": "1.4.2.0"
+          "Version": "1.5.0"
         }
       }
     },
@@ -6515,14 +6600,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "AqyqekpxEXM=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Dawnguard.esm",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Dawnguard.esm",
         "Name": "Data_Dawnguard.esm",
         "Size": 25884627,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Dawnguard.esm",
-          "GameVersion": "1.6.629.0",
+          "GameVersion": "1.6.640.0",
           "Hash": "AqyqekpxEXM="
         }
       }
@@ -6531,14 +6616,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "aKpCDVU04sU=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Dragonborn.esm",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Dragonborn.esm",
         "Name": "Data_Dragonborn.esm",
         "Size": 64663944,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Dragonborn.esm",
-          "GameVersion": "1.6.629.0",
+          "GameVersion": "1.6.640.0",
           "Hash": "aKpCDVU04sU="
         }
       }
@@ -6547,14 +6632,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "F0clUSPO+WE=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\HearthFires.esm",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\HearthFires.esm",
         "Name": "Data_HearthFires.esm",
         "Size": 3977660,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\HearthFires.esm",
-          "GameVersion": "1.6.629.0",
+          "GameVersion": "1.6.640.0",
           "Hash": "F0clUSPO+WE="
         }
       }
@@ -6562,15 +6647,31 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "1bf78U78VJc=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Scripts.zip",
+        "Name": "Data_Scripts.zip",
+        "Size": 13364473,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Scripts.zip",
+          "GameVersion": "1.6.640.0",
+          "Hash": "1bf78U78VJc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "5xD6UEtvt3M=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Animations.bsa",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Animations.bsa",
         "Name": "Data_Skyrim - Animations.bsa",
         "Size": 65101236,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Animations.bsa",
-          "GameVersion": "1.6.629.0",
+          "GameVersion": "1.6.640.0",
           "Hash": "5xD6UEtvt3M="
         }
       }
@@ -6579,14 +6680,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "7y9UDeVB50s=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Interface.bsa",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Interface.bsa",
         "Name": "Data_Skyrim - Interface.bsa",
         "Size": 105751175,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Interface.bsa",
-          "GameVersion": "1.6.629.0",
+          "GameVersion": "1.6.640.0",
           "Hash": "7y9UDeVB50s="
         }
       }
@@ -6595,14 +6696,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "oIYZPu4jH2g=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Meshes0.bsa",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Meshes0.bsa",
         "Name": "Data_Skyrim - Meshes0.bsa",
         "Size": 1153090124,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Meshes0.bsa",
-          "GameVersion": "1.6.629.0",
+          "GameVersion": "1.6.640.0",
           "Hash": "oIYZPu4jH2g="
         }
       }
@@ -6611,14 +6712,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "TvzBPkbzJjI=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Meshes1.bsa",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Meshes1.bsa",
         "Name": "Data_Skyrim - Meshes1.bsa",
         "Size": 378853391,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Meshes1.bsa",
-          "GameVersion": "1.6.629.0",
+          "GameVersion": "1.6.640.0",
           "Hash": "TvzBPkbzJjI="
         }
       }
@@ -6627,14 +6728,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "SdaNZjorvPE=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Misc.bsa",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Misc.bsa",
         "Name": "Data_Skyrim - Misc.bsa",
         "Size": 204987429,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Misc.bsa",
-          "GameVersion": "1.6.629.0",
+          "GameVersion": "1.6.640.0",
           "Hash": "SdaNZjorvPE="
         }
       }
@@ -6643,14 +6744,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "SwnAPr6pbzg=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Shaders.bsa",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Shaders.bsa",
         "Name": "Data_Skyrim - Shaders.bsa",
         "Size": 67308970,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Shaders.bsa",
-          "GameVersion": "1.6.629.0",
+          "GameVersion": "1.6.640.0",
           "Hash": "SwnAPr6pbzg="
         }
       }
@@ -6659,14 +6760,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "6ILjbi2XOOA=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Sounds.bsa",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Sounds.bsa",
         "Name": "Data_Skyrim - Sounds.bsa",
         "Size": 1538656059,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Sounds.bsa",
-          "GameVersion": "1.6.629.0",
+          "GameVersion": "1.6.640.0",
           "Hash": "6ILjbi2XOOA="
         }
       }
@@ -6675,14 +6776,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "2Tmfw2AG/MM=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Voices_en0.bsa",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Voices_en0.bsa",
         "Name": "Data_Skyrim - Voices_en0.bsa",
         "Size": 1807969854,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim - Voices_en0.bsa",
-          "GameVersion": "1.6.629.0",
+          "GameVersion": "1.6.640.0",
           "Hash": "2Tmfw2AG/MM="
         }
       }
@@ -6691,14 +6792,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "AxgVavYVPLY=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim.esm",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim.esm",
         "Name": "Data_Skyrim.esm",
         "Size": 249753351,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Skyrim.esm",
-          "GameVersion": "1.6.629.0",
+          "GameVersion": "1.6.640.0",
           "Hash": "AxgVavYVPLY="
         }
       }
@@ -6707,14 +6808,14 @@
       "Status": "Valid",
       "Original": {
         "Hash": "C1eOmY0OAqc=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Update.esm",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Update.esm",
         "Name": "Data_Update.esm",
         "Size": 18857707,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Update.esm",
-          "GameVersion": "1.6.629.0",
+          "GameVersion": "1.6.640.0",
           "Hash": "C1eOmY0OAqc="
         }
       }
@@ -6722,15 +6823,159 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "750xyQs09MU=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=lex\\accent.tlx",
+        "Name": "lex_accent.tlx",
+        "Size": 2338,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "lex\\accent.tlx",
+          "GameVersion": "1.6.640.0",
+          "Hash": "750xyQs09MU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BwrUHmgJXRY=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=lex\\ssceam.tlx",
+        "Name": "lex_ssceam.tlx",
+        "Size": 7796,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "lex\\ssceam.tlx",
+          "GameVersion": "1.6.640.0",
+          "Hash": "BwrUHmgJXRY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kBPCtNvqmqo=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=lex\\ssceam2.clx",
+        "Name": "lex_ssceam2.clx",
+        "Size": 328061,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "lex\\ssceam2.clx",
+          "GameVersion": "1.6.640.0",
+          "Hash": "kBPCtNvqmqo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SPdZFfZsTvw=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=lex\\sscebr.tlx",
+        "Name": "lex_sscebr.tlx",
+        "Size": 7798,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "lex\\sscebr.tlx",
+          "GameVersion": "1.6.640.0",
+          "Hash": "SPdZFfZsTvw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kqNobldeXgM=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=lex\\sscebr2.clx",
+        "Name": "lex_sscebr2.clx",
+        "Size": 330192,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "lex\\sscebr2.clx",
+          "GameVersion": "1.6.640.0",
+          "Hash": "kqNobldeXgM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+x53YoHI7S4=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=lex\\ssceca2.clx",
+        "Name": "lex_ssceca2.clx",
+        "Size": 328670,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "lex\\ssceca2.clx",
+          "GameVersion": "1.6.640.0",
+          "Hash": "+x53YoHI7S4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "s36jaa7cqlY=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=lex\\tech.tlx",
+        "Name": "lex_tech.tlx",
+        "Size": 3632,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "lex\\tech.tlx",
+          "GameVersion": "1.6.640.0",
+          "Hash": "s36jaa7cqlY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Nu8hdw/a3gw=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Papyrus Compiler\\PapyrusCompiler.exe",
+        "Name": "Papyrus Compiler_PapyrusCompiler.exe",
+        "Size": 13824,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Papyrus Compiler\\PapyrusCompiler.exe",
+          "GameVersion": "1.6.640.0",
+          "Hash": "Nu8hdw/a3gw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BMhgJJr3szE=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Papyrus Compiler\\ScriptCompile.bat",
+        "Name": "Papyrus Compiler_ScriptCompile.bat",
+        "Size": 195,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Papyrus Compiler\\ScriptCompile.bat",
+          "GameVersion": "1.6.640.0",
+          "Hash": "BMhgJJr3szE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "fiMS7vbbpNE=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Skyrim\\SkyrimPrefs.ini",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Skyrim\\SkyrimPrefs.ini",
         "Name": "Skyrim_SkyrimPrefs.ini",
         "Size": 3498,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Skyrim\\SkyrimPrefs.ini",
-          "GameVersion": "1.6.629.0",
+          "GameVersion": "1.6.640.0",
           "Hash": "fiMS7vbbpNE="
         }
       }
@@ -6752,7 +6997,7 @@
           "IsNSFW": false,
           "ModID": 4875,
           "Name": "BethINI",
-          "Version": "3.5.0.0"
+          "Version": "3.5"
         }
       }
     },
@@ -6773,7 +7018,7 @@
           "IsNSFW": false,
           "ModID": 23316,
           "Name": "Cathedral Assets Optimizer",
-          "Version": "5.1.3.0"
+          "Version": "5.3.9"
         }
       }
     },
@@ -6794,7 +7039,7 @@
           "IsNSFW": false,
           "ModID": 23316,
           "Name": "Cathedral Assets Optimizer",
-          "Version": "5.0.15.0"
+          "Version": "5.3.9"
         }
       }
     },
@@ -6815,7 +7060,7 @@
           "IsNSFW": false,
           "ModID": 32382,
           "Name": "Dynamic Distant Objects LOD - DynDOLOD",
-          "Version": "Alpha-88"
+          "Version": "2.98"
         }
       }
     },
@@ -6836,7 +7081,7 @@
           "IsNSFW": false,
           "ModID": 52313,
           "Name": "EasyNPC",
-          "Version": "0.9.5.0"
+          "Version": "0.9.5"
         }
       }
     },
@@ -6871,7 +7116,7 @@
           "IsNSFW": false,
           "ModID": 23852,
           "Name": "Papyrus Compiler App (Mod Organizer 2 Integration) SE",
-          "Version": "5.6.0.0"
+          "Version": "5.7.0"
         }
       }
     },
@@ -6892,7 +7137,7 @@
           "IsNSFW": false,
           "ModID": 23852,
           "Name": "Papyrus Compiler App (Mod Organizer 2 Integration) SE",
-          "Version": "5.7.0.0"
+          "Version": "5.7.0"
         }
       }
     },
@@ -6927,7 +7172,7 @@
           "IsNSFW": false,
           "ModID": 50307,
           "Name": "Alternate Perspective - Prologue Retold",
-          "Version": "2.6.0.0"
+          "Version": "2.6"
         }
       }
     },
@@ -6948,7 +7193,7 @@
           "IsNSFW": false,
           "ModID": 9111,
           "Name": "ASO - Artistic Skyrim Overhaul SE",
-          "Version": "OilSEV1"
+          "Version": "PixarSEV1"
         }
       }
     },
@@ -6969,7 +7214,7 @@
           "IsNSFW": false,
           "ModID": 1429,
           "Name": "Better Dialogue Controls",
-          "Version": "1.2.0.0"
+          "Version": "1.2"
         }
       }
     },
@@ -6990,7 +7235,7 @@
           "IsNSFW": false,
           "ModID": 1428,
           "Name": "Better MessageBox Controls",
-          "Version": "1.2.0.0"
+          "Version": "1.2"
         }
       }
     },
@@ -7011,7 +7256,7 @@
           "IsNSFW": false,
           "ModID": 201,
           "Name": "BodySlide and Outfit Studio",
-          "Version": "5.4.2.0"
+          "Version": "5.4.2"
         }
       }
     },
@@ -7032,7 +7277,7 @@
           "IsNSFW": false,
           "ModID": 33877,
           "Name": "Bounty Preview",
-          "Version": "2.0.0.0"
+          "Version": "2.0.0"
         }
       }
     },
@@ -7053,7 +7298,7 @@
           "IsNSFW": false,
           "ModID": 60258,
           "Name": "CGO Stripped",
-          "Version": "2.1.0.0"
+          "Version": "2.1"
         }
       }
     },
@@ -7074,7 +7319,7 @@
           "IsNSFW": false,
           "ModID": 59568,
           "Name": "Cleaned and Modernized Keybinds - Controlmap.txt",
-          "Version": "1.3.0.0"
+          "Version": "1.3"
         }
       }
     },
@@ -7095,7 +7340,7 @@
           "IsNSFW": false,
           "ModID": 44252,
           "Name": "XP32 Maximum Skeleton Special Extended - Fixed Scripts",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -7116,7 +7361,7 @@
           "IsNSFW": false,
           "ModID": 24858,
           "Name": "ConsoleUtilSSE",
-          "Version": "1.2.0.0"
+          "Version": "1.3.2"
         }
       }
     },
@@ -7137,7 +7382,7 @@
           "IsNSFW": false,
           "ModID": 62423,
           "Name": "Custom Skills Menu - A Custom Skills Framework Unified Menu",
-          "Version": "1.3.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -7158,7 +7403,7 @@
           "IsNSFW": false,
           "ModID": 18398,
           "Name": "Customizable UI Replacer SE",
-          "Version": "2.2.0.0"
+          "Version": "2.2"
         }
       }
     },
@@ -7179,7 +7424,7 @@
           "IsNSFW": false,
           "ModID": 23010,
           "Name": "Dear Diary - Paper SkyUI Menus Replacer SE",
-          "Version": "3.0.6.0"
+          "Version": "3.0.6"
         }
       }
     },
@@ -7200,7 +7445,7 @@
           "IsNSFW": false,
           "ModID": 52897,
           "Name": "DynDOLOD Resources SE 3",
-          "Version": "Alpha-24"
+          "Version": "Alpha-19"
         }
       }
     },
@@ -7221,7 +7466,7 @@
           "IsNSFW": false,
           "ModID": 17751,
           "Name": "Experience",
-          "Version": "2.1.1.0"
+          "Version": "2.0.2"
         }
       }
     },
@@ -7242,7 +7487,7 @@
           "IsNSFW": false,
           "ModID": 27177,
           "Name": "Favorite Things - Extended Favorites Menu for SkyUI",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -7263,7 +7508,7 @@
           "IsNSFW": false,
           "ModID": 54625,
           "Name": "Fixed Dragon Stalking Fix (Re-Upload)",
-          "Version": "2.0.1.0"
+          "Version": "2.0.1"
         }
       }
     },
@@ -7284,7 +7529,7 @@
           "IsNSFW": false,
           "ModID": 14332,
           "Name": "Floating Damage",
-          "Version": "2.0.1.0"
+          "Version": "2.0.2"
         }
       }
     },
@@ -7305,7 +7550,7 @@
           "IsNSFW": false,
           "ModID": 51125,
           "Name": "Forget Spell",
-          "Version": "1.2.0.0"
+          "Version": "1.2.3"
         }
       }
     },
@@ -7326,7 +7571,7 @@
           "IsNSFW": false,
           "ModID": 22152,
           "Name": "Freed Prisoner Uses Items",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -7347,7 +7592,7 @@
           "IsNSFW": false,
           "ModID": 53643,
           "Name": "High Gate Ruins Puzzle Reset Fix",
-          "Version": "0.2.0.0"
+          "Version": "0.2"
         }
       }
     },
@@ -7368,7 +7613,7 @@
           "IsNSFW": false,
           "ModID": 55441,
           "Name": "Horizons UI Overhaul",
-          "Version": "1.2.0.0"
+          "Version": "1.2"
         }
       }
     },
@@ -7389,7 +7634,7 @@
           "IsNSFW": false,
           "ModID": 55441,
           "Name": "Horizons UI Overhaul",
-          "Version": "1.1.1.0"
+          "Version": "1.2"
         }
       }
     },
@@ -7410,7 +7655,7 @@
           "IsNSFW": false,
           "ModID": 62001,
           "Name": "Immersive Equipment Displays",
-          "Version": "1.5.0.0"
+          "Version": "1.1.2"
         }
       }
     },
@@ -7431,7 +7676,7 @@
           "IsNSFW": false,
           "ModID": 53745,
           "Name": "Immersive Interactions - Patch for Dragon Claws Auto-Unlock Instant Version",
-          "Version": "1.56.0.0"
+          "Version": "1.56"
         }
       }
     },
@@ -7452,7 +7697,7 @@
           "IsNSFW": false,
           "ModID": 16495,
           "Name": "JContainers SE",
-          "Version": "4.1.13.0"
+          "Version": "4.2.2"
         }
       }
     },
@@ -7473,7 +7718,7 @@
           "IsNSFW": false,
           "ModID": 36889,
           "Name": "Jump Behavior Overhaul",
-          "Version": "1.4.0.0"
+          "Version": "1.4"
         }
       }
     },
@@ -7494,7 +7739,7 @@
           "IsNSFW": false,
           "ModID": 49763,
           "Name": "KG\u0027s Simple Minimap Markers",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -7515,7 +7760,7 @@
           "IsNSFW": false,
           "ModID": 65849,
           "Name": "King Olaf\u0027s Fire Festival Not Ending Fix",
-          "Version": "0.1.0.0"
+          "Version": "0.1"
         }
       }
     },
@@ -7536,7 +7781,7 @@
           "IsNSFW": false,
           "ModID": 58862,
           "Name": "Mage Armor Script Fix",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -7557,7 +7802,7 @@
           "IsNSFW": false,
           "ModID": 53000,
           "Name": "MCM Helper",
-          "Version": "1.3.0.0"
+          "Version": "1.3.2"
         }
       }
     },
@@ -7578,7 +7823,7 @@
           "IsNSFW": false,
           "ModID": 11669,
           "Name": "Mfg Fix",
-          "Version": "1.5.4.0"
+          "Version": "1.6.0"
         }
       }
     },
@@ -7599,7 +7844,7 @@
           "IsNSFW": false,
           "ModID": 49490,
           "Name": "MiniMap",
-          "Version": "1.0.1.0"
+          "Version": "1.0.1"
         }
       }
     },
@@ -7620,7 +7865,7 @@
           "IsNSFW": false,
           "ModID": 19250,
           "Name": "More Informative Console",
-          "Version": "0.43.0.0"
+          "Version": "0.43"
         }
       }
     },
@@ -7641,7 +7886,7 @@
           "IsNSFW": false,
           "ModID": 64016,
           "Name": "Neloth\u0027s Experimental Subject Quest (DLC2TTR4a) Fix",
-          "Version": "0.1.0.0"
+          "Version": "0.1"
         }
       }
     },
@@ -7662,7 +7907,7 @@
           "IsNSFW": false,
           "ModID": 49881,
           "Name": "NORDIC UI - Interface Overhaul",
-          "Version": "2.4.1.0"
+          "Version": "2.4.1"
         }
       }
     },
@@ -7683,7 +7928,7 @@
           "IsNSFW": false,
           "ModID": 70175,
           "Name": "NORDIC UI - QuickLootRE with TCC Icons",
-          "Version": "1.0.0.0"
+          "Version": "2.9.5"
         }
       }
     },
@@ -7704,7 +7949,7 @@
           "IsNSFW": false,
           "ModID": 63212,
           "Name": "Nordic...ish - A TrueHUD preset based on Nordic UI",
-          "Version": "1.1.1.0"
+          "Version": "1.0"
         }
       }
     },
@@ -7725,7 +7970,7 @@
           "IsNSFW": false,
           "ModID": 6285,
           "Name": "Summermyst - Enchantments of Skyrim",
-          "Version": "f3.07SSE"
+          "Version": "3.07SSE"
         }
       }
     },
@@ -7746,7 +7991,7 @@
           "IsNSFW": false,
           "ModID": 22854,
           "Name": "powerofthree\u0027s Papyrus Extender",
-          "Version": "5.0.3.0"
+          "Version": "4.5.7"
         }
       }
     },
@@ -7767,7 +8012,7 @@
           "IsNSFW": false,
           "ModID": 51073,
           "Name": "powerofthree\u0027s Tweaks",
-          "Version": "1.6.0.0"
+          "Version": "1.5.1"
         }
       }
     },
@@ -7788,7 +8033,7 @@
           "IsNSFW": false,
           "ModID": 2853,
           "Name": "RaceCompatibility for Skyrim Special Edition",
-          "Version": "2.13.0.0"
+          "Version": "2.13"
         }
       }
     },
@@ -7809,7 +8054,7 @@
           "IsNSFW": false,
           "ModID": 26680,
           "Name": "ReCleaned Menu",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -7830,7 +8075,7 @@
           "IsNSFW": false,
           "ModID": 1651,
           "Name": "SKSE64 ini pre-download for lazy users",
-          "Version": "1.2.0.0"
+          "Version": "1.2"
         }
       }
     },
@@ -7851,7 +8096,7 @@
           "IsNSFW": false,
           "ModID": 27859,
           "Name": "Skyrim Souls RE - Updated",
-          "Version": "2.2.2.0"
+          "Version": "2.3.0"
         }
       }
     },
@@ -7872,7 +8117,7 @@
           "IsNSFW": false,
           "ModID": 20406,
           "Name": "SkyUI SE - Flashing Savegames Fix",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -7893,7 +8138,7 @@
           "IsNSFW": false,
           "ModID": 37231,
           "Name": "SkyUI Weapons Pack SE",
-          "Version": "1.3.0.0"
+          "Version": "1.3"
         }
       }
     },
@@ -7914,7 +8159,7 @@
           "IsNSFW": false,
           "ModID": 38533,
           "Name": "The Cleanest Main Menu",
-          "Version": "1.0.1.0"
+          "Version": "1.0.1"
         }
       }
     },
@@ -7935,7 +8180,7 @@
           "IsNSFW": false,
           "ModID": 57754,
           "Name": "Timing is Everything SE - Settings Loader",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -7956,7 +8201,7 @@
           "IsNSFW": false,
           "ModID": 15309,
           "Name": "TK Dodge SE",
-          "Version": "3.18.0.0"
+          "Version": "3.18"
         }
       }
     },
@@ -7977,7 +8222,7 @@
           "IsNSFW": false,
           "ModID": 53210,
           "Name": "Ultimate Immersion Toggle - UI Toggle - TM Version",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -7998,7 +8243,7 @@
           "IsNSFW": false,
           "ModID": 62117,
           "Name": "Ultimate Immersion Toggle - UI Toggle - Hide Your HUD - Rebuild",
-          "Version": "1.1.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -8019,7 +8264,7 @@
           "IsNSFW": false,
           "ModID": 62413,
           "Name": "WIDeadBodyCleanupScript Crash Fix",
-          "Version": "0.3.0.0"
+          "Version": "0.1"
         }
       }
     },
@@ -8040,7 +8285,7 @@
           "IsNSFW": false,
           "ModID": 3974,
           "Name": "Yet Another Font Replacer",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -8048,15 +8293,47 @@
       "Status": "Valid",
       "Original": {
         "Hash": "3z7MDvy3Dhw=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Video\\BGS_Logo.bik",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Video\\BGS_Logo.bik",
         "Name": "Data_Video_BGS_Logo.bik",
         "Size": 13835808,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
           "GameFile": "Data\\Video\\BGS_Logo.bik",
-          "GameVersion": "1.6.629.0",
+          "GameVersion": "1.6.640.0",
           "Hash": "3z7MDvy3Dhw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HX7thozbLrQ=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=lex\\User\\correct.tlx",
+        "Name": "lex_User_correct.tlx",
+        "Size": 21529,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "lex\\User\\correct.tlx",
+          "GameVersion": "1.6.640.0",
+          "Hash": "HX7thozbLrQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QGzMWDLeDrE=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=lex\\User\\userdic.tlx",
+        "Name": "lex_User_userdic.tlx",
+        "Size": 2841,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "lex\\User\\userdic.tlx",
+          "GameVersion": "1.6.640.0",
+          "Hash": "QGzMWDLeDrE="
         }
       }
     },
@@ -8077,6 +8354,102 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "xBx601V/M0Q=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Tools\\Archive\\Archive.exe",
+        "Name": "Tools_Archive_Archive.exe",
+        "Size": 273920,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Tools\\Archive\\Archive.exe",
+          "GameVersion": "1.6.640.0",
+          "Hash": "xBx601V/M0Q="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xEjUKCIoThk=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Tools\\Audio\\xwmaencode.exe",
+        "Name": "Tools_Audio_xwmaencode.exe",
+        "Size": 681304,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Tools\\Audio\\xwmaencode.exe",
+          "GameVersion": "1.6.640.0",
+          "Hash": "xEjUKCIoThk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Q5JO8vG8O94=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Tools\\Elric\\xg.dll",
+        "Name": "Tools_Elric_xg.dll",
+        "Size": 90624,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Tools\\Elric\\xg.dll",
+          "GameVersion": "1.6.640.0",
+          "Hash": "Q5JO8vG8O94="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CITWX8yaaL0=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Tools\\Elric\\xtexconv.exe",
+        "Name": "Tools_Elric_xtexconv.exe",
+        "Size": 536064,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Tools\\Elric\\xtexconv.exe",
+          "GameVersion": "1.6.640.0",
+          "Hash": "CITWX8yaaL0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "J6V48Q2idp8=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Tools\\HavokBehaviorPostProcess\\HavokBehaviorPostProcess.exe",
+        "Name": "Tools_HavokBehaviorPostProcess_HavokBehaviorPostProcess.exe",
+        "Size": 4730368,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Tools\\HavokBehaviorPostProcess\\HavokBehaviorPostProcess.exe",
+          "GameVersion": "1.6.640.0",
+          "Hash": "J6V48Q2idp8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8jf8/ti3Sr0=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Tools\\HavokBehaviorPostProcess\\UpgradeHavokBehavior.bat",
+        "Name": "Tools_HavokBehaviorPostProcess_UpgradeHavokBehavior.bat",
+        "Size": 112,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Tools\\HavokBehaviorPostProcess\\UpgradeHavokBehavior.bat",
+          "GameVersion": "1.6.640.0",
+          "Hash": "8jf8/ti3Sr0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "xkPTR8/G8HI=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=164\nfileID=115017",
         "Name": "SSEEdit 4_0_3-164-4-0-3-1575326827.7z",
@@ -8091,7 +8464,7 @@
           "IsNSFW": false,
           "ModID": 164,
           "Name": "SSEEdit",
-          "Version": "4.0.3.0"
+          "Version": "4.0.4"
         }
       }
     },
@@ -8126,7 +8499,7 @@
           "IsNSFW": false,
           "ModID": 42133,
           "Name": "Dark Face Issue Reporter",
-          "Version": "2.8.0.0"
+          "Version": "2.8"
         }
       }
     },
@@ -8147,7 +8520,7 @@
           "IsNSFW": false,
           "ModID": 42133,
           "Name": "Dark Face Issue Reporter",
-          "Version": "2.8.0.0"
+          "Version": "2.8"
         }
       }
     },
@@ -8168,7 +8541,7 @@
           "IsNSFW": false,
           "ModID": 5049,
           "Name": "WICO cleanup script",
-          "Version": "2.5.0.0b"
+          "Version": "2.5b"
         }
       }
     },
@@ -8188,8 +8561,8 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/110/images/68617-0-1439170142.png",
           "IsNSFW": false,
           "ModID": 68617,
-          "Name": "MXPF - Mator\u0027s xEdit Patching Framework",
-          "Version": "1.1.0.0"
+          "Name": "MXPF - Mator\u0026#39;s xEdit Patching Framework",
+          "Version": "1.1.0"
         }
       }
     },
@@ -8210,7 +8583,7 @@
           "IsNSFW": false,
           "ModID": 32349,
           "Name": "Actor Limit Fix",
-          "Version": "5.0.0.0"
+          "Version": "2"
         }
       }
     },
@@ -8231,7 +8604,7 @@
           "IsNSFW": false,
           "ModID": 32444,
           "Name": "Address Library for SKSE Plugins",
-          "Version": "2.0.0.0"
+          "Version": "5"
         }
       }
     },
@@ -8252,7 +8625,7 @@
           "IsNSFW": false,
           "ModID": 40722,
           "Name": "Alternate Conversation Camera Plus",
-          "Version": "2.4.6.0"
+          "Version": "2.4.6"
         }
       }
     },
@@ -8273,7 +8646,7 @@
           "IsNSFW": false,
           "ModID": 53761,
           "Name": "Animated Static Reload Fix",
-          "Version": "f1.01"
+          "Version": "v1.01"
         }
       }
     },
@@ -8294,7 +8667,7 @@
           "IsNSFW": false,
           "ModID": 31146,
           "Name": "Animation Limit Crash Fix SSE",
-          "Version": "0.3.0.0-Beta"
+          "Version": "0.3-Beta"
         }
       }
     },
@@ -8315,7 +8688,7 @@
           "IsNSFW": false,
           "ModID": 50258,
           "Name": "Animation Motion Revolution",
-          "Version": "1.5.0.0"
+          "Version": "1.4"
         }
       }
     },
@@ -8336,7 +8709,7 @@
           "IsNSFW": false,
           "ModID": 40581,
           "Name": "Artistic Skyrim Overhaul - Dark Distant Terrain Fix",
-          "Version": "2.0.0.0"
+          "Version": "2.0"
         }
       }
     },
@@ -8357,7 +8730,7 @@
           "IsNSFW": false,
           "ModID": 53955,
           "Name": "Artistic Skyrim Overhaul - Exteriors Fixed",
-          "Version": "1.2.0.0"
+          "Version": "1.2"
         }
       }
     },
@@ -8378,7 +8751,7 @@
           "IsNSFW": false,
           "ModID": 46497,
           "Name": "Artistic Skyrim Overhaul - Markarth City Banner Patch",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -8399,7 +8772,7 @@
           "IsNSFW": false,
           "ModID": 32117,
           "Name": "Assorted mesh fixes",
-          "Version": "0.48.1.0"
+          "Version": "0.44"
         }
       }
     },
@@ -8420,7 +8793,7 @@
           "IsNSFW": false,
           "ModID": 54309,
           "Name": "Auto Input Switch",
-          "Version": "1.1.2.0"
+          "Version": "1.1.3"
         }
       }
     },
@@ -8441,7 +8814,7 @@
           "IsNSFW": false,
           "ModID": 60805,
           "Name": "Base Object Swapper",
-          "Version": "1.5.0.0"
+          "Version": "1.1.0"
         }
       }
     },
@@ -8462,7 +8835,7 @@
           "IsNSFW": false,
           "ModID": 37737,
           "Name": "Believable weapons",
-          "Version": "1.5.0.0"
+          "Version": "1.4"
         }
       }
     },
@@ -8483,7 +8856,7 @@
           "IsNSFW": false,
           "ModID": 43936,
           "Name": "Better Combat Escape - SSE",
-          "Version": "0.83.0.0"
+          "Version": "v0.83"
         }
       }
     },
@@ -8504,7 +8877,7 @@
           "IsNSFW": false,
           "ModID": 18967,
           "Name": "Better Jumping SE",
-          "Version": "1.7.1.0"
+          "Version": "1.8.3"
         }
       }
     },
@@ -8525,7 +8898,7 @@
           "IsNSFW": false,
           "ModID": 49095,
           "Name": "Better SkyUI Config - Smart sorting by type",
-          "Version": "1.0.1.0"
+          "Version": "1.0.1"
         }
       }
     },
@@ -8546,7 +8919,7 @@
           "IsNSFW": false,
           "ModID": 58407,
           "Name": "Kanjs - Borderlands Style Enb With Effect and Sky Retextures",
-          "Version": "1.0.0.0.fix"
+          "Version": "1.1"
         }
       }
     },
@@ -8567,7 +8940,7 @@
           "IsNSFW": false,
           "ModID": 64524,
           "Name": "Bright Falling Leaves Fix",
-          "Version": "0.2.0.0"
+          "Version": "0.1"
         }
       }
     },
@@ -8588,7 +8961,7 @@
           "IsNSFW": false,
           "ModID": 33261,
           "Name": "Bug Fixes SSE",
-          "Version": "6.0.0.0"
+          "Version": "3"
         }
       }
     },
@@ -8609,7 +8982,7 @@
           "IsNSFW": false,
           "ModID": 45931,
           "Name": "Classic Paralysis",
-          "Version": "3.2.0.0"
+          "Version": "3.2.0"
         }
       }
     },
@@ -8630,7 +9003,7 @@
           "IsNSFW": false,
           "ModID": 20166,
           "Name": "Classic Sprinting Redone (SKSE64)",
-          "Version": "2.2.0.0"
+          "Version": "2.3"
         }
       }
     },
@@ -8651,7 +9024,7 @@
           "IsNSFW": false,
           "ModID": 41636,
           "Name": "SmoothCam  - Modern Camera Preset",
-          "Version": "1.5.0.0"
+          "Version": "1.5"
         }
       }
     },
@@ -8672,7 +9045,7 @@
           "IsNSFW": false,
           "ModID": 28210,
           "Name": "Console Commands Extender",
-          "Version": "1.8.0.0"
+          "Version": "1.8.0"
         }
       }
     },
@@ -8693,7 +9066,7 @@
           "IsNSFW": false,
           "ModID": 63980,
           "Name": "Contextual Crosshair",
-          "Version": "1.2.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -8714,7 +9087,7 @@
           "IsNSFW": false,
           "ModID": 30928,
           "Name": "Copy and Paste in Console",
-          "Version": "1.0.1.0"
+          "Version": "1.0.1"
         }
       }
     },
@@ -8735,7 +9108,7 @@
           "IsNSFW": false,
           "ModID": 52276,
           "Name": "Crafting Recipe Distributor",
-          "Version": "2.0.0.0"
+          "Version": "1.2"
         }
       }
     },
@@ -8756,7 +9129,7 @@
           "IsNSFW": false,
           "ModID": 62423,
           "Name": "Custom Skills Menu - A Custom Skills Framework Unified Menu",
-          "Version": "1.0.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -8777,7 +9150,7 @@
           "IsNSFW": false,
           "ModID": 41780,
           "Name": "Custom Skills Framework",
-          "Version": "1.0.0.0"
+          "Version": "1"
         }
       }
     },
@@ -8798,7 +9171,7 @@
           "IsNSFW": false,
           "ModID": 63057,
           "Name": "Detection Meter",
-          "Version": "0.16.0.0"
+          "Version": "v0.12"
         }
       }
     },
@@ -8819,7 +9192,7 @@
           "IsNSFW": false,
           "ModID": 35767,
           "Name": "Difficulty Balance",
-          "Version": "1.0.0.0"
+          "Version": "1.0.0"
         }
       }
     },
@@ -8840,7 +9213,7 @@
           "IsNSFW": false,
           "ModID": 35925,
           "Name": "Disable Follower Collision",
-          "Version": "1.0.0.0"
+          "Version": "1.0.0"
         }
       }
     },
@@ -8861,7 +9234,7 @@
           "IsNSFW": false,
           "ModID": 52164,
           "Name": "Don\u0027t Stay in The Water",
-          "Version": "4.1.0.0"
+          "Version": "4.1"
         }
       }
     },
@@ -8882,7 +9255,7 @@
           "IsNSFW": false,
           "ModID": 33746,
           "Name": "Dynamic Animation Replacer",
-          "Version": "1.1.0.0"
+          "Version": "1.1.2"
         }
       }
     },
@@ -8903,7 +9276,7 @@
           "IsNSFW": false,
           "ModID": 19608,
           "Name": "Encounter Zones Unlocked SE",
-          "Version": "1.4.0.0"
+          "Version": "1.5.3"
         }
       }
     },
@@ -8924,7 +9297,7 @@
           "IsNSFW": false,
           "ModID": 50483,
           "Name": "Enemy Friendly Fire",
-          "Version": "1.1.0.0"
+          "Version": "1.1.0"
         }
       }
     },
@@ -8945,7 +9318,7 @@
           "IsNSFW": false,
           "ModID": 61950,
           "Name": "Enhanced Invisibility",
-          "Version": "1.2.0.0"
+          "Version": "1.1.0"
         }
       }
     },
@@ -8966,7 +9339,7 @@
           "IsNSFW": false,
           "ModID": 43500,
           "Name": "Enhanced Reanimation",
-          "Version": "1.4.0.0"
+          "Version": "1.4.0"
         }
       }
     },
@@ -8987,7 +9360,7 @@
           "IsNSFW": false,
           "ModID": 63725,
           "Name": "Enhanced Volumetric Lighting and Shadows (EVLaS)",
-          "Version": "1.3.0.0"
+          "Version": "1.0.0"
         }
       }
     },
@@ -9008,7 +9381,7 @@
           "IsNSFW": false,
           "ModID": 42839,
           "Name": "Equip Enchantment Fix",
-          "Version": "1.3.4.0"
+          "Version": "1.3.4"
         }
       }
     },
@@ -9029,7 +9402,7 @@
           "IsNSFW": false,
           "ModID": 42997,
           "Name": "Essential Favorites",
-          "Version": "2.2.0.0"
+          "Version": "2.2.0"
         }
       }
     },
@@ -9050,7 +9423,7 @@
           "IsNSFW": false,
           "ModID": 42750,
           "Name": "Favorite Misc Items",
-          "Version": "3.6.0.0"
+          "Version": "3.5.1"
         }
       }
     },
@@ -9071,7 +9444,7 @@
           "IsNSFW": false,
           "ModID": 32561,
           "Name": "Fix Note icon for SkyUI (SKSE64 plugin)",
-          "Version": "1.2.1.0"
+          "Version": "1.2.1"
         }
       }
     },
@@ -9092,7 +9465,7 @@
           "IsNSFW": false,
           "ModID": 53653,
           "Name": "Fixed Mesh Lighting",
-          "Version": "1.8.0.0"
+          "Version": "1.6.1"
         }
       }
     },
@@ -9113,7 +9486,7 @@
           "IsNSFW": false,
           "ModID": 22122,
           "Name": "Flat Map Markers SSE",
-          "Version": "1.3.0.0"
+          "Version": "1.3.0"
         }
       }
     },
@@ -9134,7 +9507,7 @@
           "IsNSFW": false,
           "ModID": 63434,
           "Name": "Floating Ash Pile Fix",
-          "Version": "0.2.0.0"
+          "Version": "0.2"
         }
       }
     },
@@ -9155,7 +9528,7 @@
           "IsNSFW": false,
           "ModID": 51125,
           "Name": "Forget Spell",
-          "Version": "1.2.2.0"
+          "Version": "1.2.3"
         }
       }
     },
@@ -9176,7 +9549,7 @@
           "IsNSFW": false,
           "ModID": 3532,
           "Name": "Frozen Electrocuted Combustion",
-          "Version": "4.9.0.0"
+          "Version": "4.9.6"
         }
       }
     },
@@ -9197,7 +9570,7 @@
           "IsNSFW": false,
           "ModID": 47076,
           "Name": "Horse Stamina HUD - Script-Free",
-          "Version": "1.0.1.0"
+          "Version": "1.0.3"
         }
       }
     },
@@ -9218,7 +9591,7 @@
           "IsNSFW": false,
           "ModID": 56965,
           "Name": "IFrame Generator",
-          "Version": "0.91.0.0"
+          "Version": "v0.91"
         }
       }
     },
@@ -9252,7 +9625,7 @@
           "IsNSFW": false,
           "ModID": 51073,
           "Name": "powerofthree\u0027s Tweaks",
-          "Version": "1.5.0.0"
+          "Version": "1.5.1"
         }
       }
     },
@@ -9273,7 +9646,7 @@
           "IsNSFW": false,
           "ModID": 50049,
           "Name": "Simple Dual Sheath",
-          "Version": "1.5.2.0"
+          "Version": "1.5.2"
         }
       }
     },
@@ -9294,7 +9667,7 @@
           "IsNSFW": false,
           "ModID": 34705,
           "Name": "SSE Display Tweaks",
-          "Version": "0.5.8.0"
+          "Version": "0.5.9"
         }
       }
     },
@@ -9315,7 +9688,7 @@
           "IsNSFW": false,
           "ModID": 56956,
           "Name": "TK Dodge RE - Script Free",
-          "Version": "0.48.0.0a"
+          "Version": "v0.48a"
         }
       }
     },
@@ -9336,7 +9709,7 @@
           "IsNSFW": false,
           "ModID": 58573,
           "Name": "Kanjs - Borderlands Style Clutter Retexture",
-          "Version": "1.0.0.0"
+          "Version": "1"
         }
       }
     },
@@ -9357,7 +9730,7 @@
           "IsNSFW": false,
           "ModID": 58632,
           "Name": "Kanjs - Borderlands Style Dungeons Retexture",
-          "Version": "1.0.0.0"
+          "Version": "1"
         }
       }
     },
@@ -9378,7 +9751,7 @@
           "IsNSFW": false,
           "ModID": 58732,
           "Name": "Kanjs - Borderlands Style Landscape and Tree Retexture",
-          "Version": "1.0.0.0"
+          "Version": "1"
         }
       }
     },
@@ -9399,7 +9772,7 @@
           "IsNSFW": false,
           "ModID": 58463,
           "Name": "Kanjs - Borderlands Style Plants Retexture",
-          "Version": "1.0.0.0"
+          "Version": "1"
         }
       }
     },
@@ -9420,7 +9793,7 @@
           "IsNSFW": false,
           "ModID": 59262,
           "Name": "Kanjs - Borderland Style SMIM Retexture",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -9441,7 +9814,7 @@
           "IsNSFW": false,
           "ModID": 58962,
           "Name": "Kanjs - Borderlands Style Dragonborn Retexture 2k",
-          "Version": "1.0.0.0"
+          "Version": "1"
         }
       }
     },
@@ -9462,7 +9835,7 @@
           "IsNSFW": false,
           "ModID": 58968,
           "Name": "Kanjs - Borderlands Style Miscellaneous Retexture",
-          "Version": "1.0.0.0"
+          "Version": "1"
         }
       }
     },
@@ -9504,7 +9877,7 @@
           "IsNSFW": false,
           "ModID": 6817,
           "Name": "KS Hairdos SSE",
-          "Version": "1.8.0.0"
+          "Version": "1.8"
         }
       }
     },
@@ -9525,7 +9898,7 @@
           "IsNSFW": false,
           "ModID": 46932,
           "Name": "Locational Damage(SKSE Plugin)",
-          "Version": "1.0.0.0"
+          "Version": "1.0.0"
         }
       }
     },
@@ -9546,7 +9919,7 @@
           "IsNSFW": false,
           "ModID": 24701,
           "Name": "Name Those Ash Piles",
-          "Version": "4.0.0.0"
+          "Version": "4.1"
         }
       }
     },
@@ -9567,7 +9940,7 @@
           "IsNSFW": false,
           "ModID": 26790,
           "Name": "No Lockpick Activate (SKSE) - Updated",
-          "Version": "3.1.0.0"
+          "Version": "3.1"
         }
       }
     },
@@ -9588,7 +9961,7 @@
           "IsNSFW": false,
           "ModID": 40261,
           "Name": "NPC AI Process Position  Fix - SSE",
-          "Version": "f4.06"
+          "Version": "v4.06"
         }
       }
     },
@@ -9609,7 +9982,7 @@
           "IsNSFW": false,
           "ModID": 42574,
           "Name": "OnHit Animations Framework - SSE",
-          "Version": "1.16.0.0"
+          "Version": "v1.16"
         }
       }
     },
@@ -9630,7 +10003,7 @@
           "IsNSFW": false,
           "ModID": 57452,
           "Name": "Oxygen Meter",
-          "Version": "1.2.0.0"
+          "Version": "1.2.1"
         }
       }
     },
@@ -9651,7 +10024,7 @@
           "IsNSFW": false,
           "ModID": 38944,
           "Name": "Paper UI Sounds for Skyrim",
-          "Version": "2.0.0.0"
+          "Version": "6.1"
         }
       }
     },
@@ -9672,7 +10045,7 @@
           "IsNSFW": false,
           "ModID": 36095,
           "Name": "Player Rotation in ShowRaceMenu",
-          "Version": "1.0.0.0"
+          "Version": "1.0.0"
         }
       }
     },
@@ -9693,7 +10066,7 @@
           "IsNSFW": false,
           "ModID": 70161,
           "Name": "RaceMenu 0.4.16 Memory Leak Hotfix (SE)",
-          "Version": "1.0.0.0"
+          "Version": "1.0.0"
         }
       }
     },
@@ -9714,7 +10087,7 @@
           "IsNSFW": false,
           "ModID": 26092,
           "Name": "Patches by Phoenix and Umgak",
-          "Version": "1.2.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -9735,7 +10108,7 @@
           "IsNSFW": false,
           "ModID": 49698,
           "Name": "Regional Save Names",
-          "Version": "1.2.0.0"
+          "Version": "1.2.0"
         }
       }
     },
@@ -9756,7 +10129,7 @@
           "IsNSFW": false,
           "ModID": 26838,
           "Name": "Remember Lockpick Angle - Updated",
-          "Version": "4.1.0.0"
+          "Version": "4.1"
         }
       }
     },
@@ -9777,7 +10150,7 @@
           "IsNSFW": false,
           "ModID": 38948,
           "Name": "Runic Enchantment- Weapon Glow Replacer",
-          "Version": "0.1.0.0"
+          "Version": "0.1"
         }
       }
     },
@@ -9798,7 +10171,7 @@
           "IsNSFW": false,
           "ModID": 22603,
           "Name": "Scaleform Translation Plus Plus",
-          "Version": "1.4.1.0"
+          "Version": "1.4.1"
         }
       }
     },
@@ -9819,7 +10192,7 @@
           "IsNSFW": false,
           "ModID": 43532,
           "Name": "Scrambled Bugs",
-          "Version": "17.0.0.0"
+          "Version": "14"
         }
       }
     },
@@ -9840,7 +10213,7 @@
           "IsNSFW": false,
           "ModID": 14180,
           "Name": "SPERG - Skyrim Perk Enhancements and Rebalanced Gameplay SE",
-          "Version": "1.8.0.0"
+          "Version": "1.8"
         }
       }
     },
@@ -9861,7 +10234,7 @@
           "IsNSFW": false,
           "ModID": 56767,
           "Name": "Simple Activate SKSE",
-          "Version": "1.3.1.0"
+          "Version": "1.2"
         }
       }
     },
@@ -9882,7 +10255,7 @@
           "IsNSFW": false,
           "ModID": 41764,
           "Name": "Simple Offence Suppression",
-          "Version": "2.1.0.0"
+          "Version": "2.1.0"
         }
       }
     },
@@ -9903,7 +10276,7 @@
           "IsNSFW": false,
           "ModID": 44726,
           "Name": "Simple Weapon Swing Parry - Scripts Free - SSE",
-          "Version": "1.10.0.0"
+          "Version": "v1.10"
         }
       }
     },
@@ -9924,7 +10297,7 @@
           "IsNSFW": false,
           "ModID": 8889,
           "Name": "Skyrim Skill Uncapper",
-          "Version": "1.1.0.0"
+          "Version": "V1.1.0"
         }
       }
     },
@@ -9945,7 +10318,7 @@
           "IsNSFW": false,
           "ModID": 36869,
           "Name": "Spell Perk Item Distributor (SPID)",
-          "Version": "5.2.0.0"
+          "Version": "5.2.0"
         }
       }
     },
@@ -9966,7 +10339,7 @@
           "IsNSFW": false,
           "ModID": 47710,
           "Name": "Splashes Of Skyrim",
-          "Version": "1.3.0.0"
+          "Version": "1.3.1"
         }
       }
     },
@@ -9987,7 +10360,7 @@
           "IsNSFW": false,
           "ModID": 41953,
           "Name": "SSE Gameplay Tweaks",
-          "Version": "6.0.0.0"
+          "Version": "6"
         }
       }
     },
@@ -10008,7 +10381,7 @@
           "IsNSFW": false,
           "ModID": 31963,
           "Name": "SSE Parallax Shader Fix (BETA)",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -10029,7 +10402,7 @@
           "IsNSFW": false,
           "ModID": 19832,
           "Name": "Stay At The System Page - Updated",
-          "Version": "1.5.0.0"
+          "Version": "1.5.0"
         }
       }
     },
@@ -10050,7 +10423,7 @@
           "IsNSFW": true,
           "ModID": 7902,
           "Name": "Tempered Skins for Males - Vanilla and SOS versions",
-          "Version": "f2.05"
+          "Version": "2.06"
         }
       }
     },
@@ -10071,7 +10444,7 @@
           "IsNSFW": false,
           "ModID": 57138,
           "Name": "Thaumaturgy - An Enchanting Overhaul",
-          "Version": "1.0.0.0"
+          "Version": "1.1.4"
         }
       }
     },
@@ -10092,7 +10465,7 @@
           "IsNSFW": false,
           "ModID": 46024,
           "Name": "Thunderbolt - HD Lightning",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -10113,7 +10486,7 @@
           "IsNSFW": false,
           "ModID": 26092,
           "Name": "Patches by Phoenix and Umgak",
-          "Version": "1.2.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -10134,7 +10507,7 @@
           "IsNSFW": false,
           "ModID": 49047,
           "Name": "To Your Face Redux",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -10155,7 +10528,7 @@
           "IsNSFW": false,
           "ModID": 21765,
           "Name": "Uninterrupted Ethereal Form",
-          "Version": "2.0.0.0"
+          "Version": "2"
         }
       }
     },
@@ -10176,7 +10549,7 @@
           "IsNSFW": false,
           "ModID": 21729,
           "Name": "Uninterrupted Invisibility",
-          "Version": "2.0.0.0"
+          "Version": "2"
         }
       }
     },
@@ -10197,7 +10570,7 @@
           "IsNSFW": false,
           "ModID": 21027,
           "Name": "Unofficial Material Fix",
-          "Version": "1.17.0.0"
+          "Version": "1.17.0"
         }
       }
     },
@@ -10218,7 +10591,7 @@
           "IsNSFW": false,
           "ModID": 46107,
           "Name": "Vampires Cast No Shadow 2",
-          "Version": "1.1.0.0"
+          "Version": "1.1.0"
         }
       }
     },
@@ -10239,7 +10612,7 @@
           "IsNSFW": false,
           "ModID": 23581,
           "Name": "Whose Quest Is It Anyway",
-          "Version": "1.3.0.0"
+          "Version": "1.3.0"
         }
       }
     },
@@ -10260,7 +10633,7 @@
           "IsNSFW": false,
           "ModID": 22825,
           "Name": "Wider MCM Menu for SkyUI",
-          "Version": "1.2.0.0"
+          "Version": "1.2"
         }
       }
     },
@@ -10281,7 +10654,7 @@
           "IsNSFW": false,
           "ModID": 50049,
           "Name": "Simple Dual Sheath",
-          "Version": "1.5.3.0"
+          "Version": "1.5.2"
         }
       }
     },
@@ -10302,7 +10675,7 @@
           "IsNSFW": false,
           "ModID": 36057,
           "Name": "You Can Sleep SKSE Remake",
-          "Version": "1.0.0.0"
+          "Version": "1.0.1.ae"
         }
       }
     },
@@ -10323,7 +10696,7 @@
           "IsNSFW": false,
           "ModID": 45182,
           "Name": "zxlice\u0027s ultimate potion animation - ZUPA",
-          "Version": "1.5.0.0"
+          "Version": "1.5.0"
         }
       }
     },
@@ -10344,7 +10717,7 @@
           "IsNSFW": false,
           "ModID": 40248,
           "Name": "Consistency Patch for Artistic Skyrim Overhaul SE and UNP Body Fit Armors and Clothing",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -10365,7 +10738,7 @@
           "IsNSFW": false,
           "ModID": 40574,
           "Name": "Artistic Skyrim Overhaul - No More Reflective Surfaces",
-          "Version": "3.0.0.0"
+          "Version": "5.1"
         }
       }
     },
@@ -10386,7 +10759,7 @@
           "IsNSFW": false,
           "ModID": 53406,
           "Name": "Better Bossbars for TDM",
-          "Version": "1.1.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -10407,7 +10780,7 @@
           "IsNSFW": false,
           "ModID": 43083,
           "Name": "Blackreach Tentacle Mesh Fix",
-          "Version": "0.1.0.0"
+          "Version": "0.1"
         }
       }
     },
@@ -10428,7 +10801,7 @@
           "IsNSFW": false,
           "ModID": 42550,
           "Name": "Flinching - Script Free Edition",
-          "Version": "1.4.0.0"
+          "Version": "1.4"
         }
       }
     },
@@ -10449,7 +10822,7 @@
           "IsNSFW": false,
           "ModID": 42492,
           "Name": "hank\u0027s gamepad and controller fixes",
-          "Version": "1.6.0.0"
+          "Version": "1.6"
         }
       }
     },
@@ -10470,7 +10843,7 @@
           "IsNSFW": false,
           "ModID": 58419,
           "Name": "Kanjs - Borderlands Style Architecture Retexture",
-          "Version": "1.0.0.0"
+          "Version": "1"
         }
       }
     },
@@ -10491,7 +10864,7 @@
           "IsNSFW": false,
           "ModID": 58433,
           "Name": "Kanjs - Borderlands Style Armor Retexture",
-          "Version": "1.0.0.0"
+          "Version": "1"
         }
       }
     },
@@ -10512,7 +10885,7 @@
           "IsNSFW": false,
           "ModID": 58450,
           "Name": "Kanjs - Borderlands Style Clothing Retexture",
-          "Version": "1.0.0.0"
+          "Version": "1"
         }
       }
     },
@@ -10533,7 +10906,7 @@
           "IsNSFW": false,
           "ModID": 58672,
           "Name": "Kanjs - Borderlands Style Creatures Retexture",
-          "Version": "1.0.0.0"
+          "Version": "1"
         }
       }
     },
@@ -10554,7 +10927,7 @@
           "IsNSFW": false,
           "ModID": 58789,
           "Name": "Kanjs - Borderlands Style Dawnguard Retexture",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -10575,7 +10948,7 @@
           "IsNSFW": false,
           "ModID": 58520,
           "Name": "Kanjs - Borderlands Style Hearthfire Retexture",
-          "Version": "1.0.0.0"
+          "Version": "1"
         }
       }
     },
@@ -10596,7 +10969,7 @@
           "IsNSFW": false,
           "ModID": 58506,
           "Name": "Kanjs - Borderlands Style Weapons Retexture",
-          "Version": "1.0.0.0"
+          "Version": "1"
         }
       }
     },
@@ -10617,7 +10990,7 @@
           "IsNSFW": false,
           "ModID": 60242,
           "Name": "Kanjs - Borderlands Style - UNP Body Fit Armors and Clothing Patch",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -10638,7 +11011,7 @@
           "IsNSFW": false,
           "ModID": 60023,
           "Name": "Kanjs - Borderlands Style Anniversary Edition Mega Pack",
-          "Version": "1.0.0.0"
+          "Version": "1"
         }
       }
     },
@@ -10659,7 +11032,7 @@
           "IsNSFW": false,
           "ModID": 53788,
           "Name": "Paper Skyrim and Solstheim World Maps by Mirhayasu for FWMF",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -10680,7 +11053,7 @@
           "IsNSFW": false,
           "ModID": 54154,
           "Name": "Ragged Cap - Beggar Cap Fix SE",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -10701,7 +11074,7 @@
           "IsNSFW": false,
           "ModID": 15511,
           "Name": "Realistic Skin And Hair Shaders - Giants",
-          "Version": "1.1.0.0"
+          "Version": "v1.1"
         }
       }
     },
@@ -10722,7 +11095,7 @@
           "IsNSFW": false,
           "ModID": 16310,
           "Name": "Realistic Skin Shaders - Falmer and Hagravens",
-          "Version": "f1.03"
+          "Version": "1.05"
         }
       }
     },
@@ -10743,7 +11116,7 @@
           "IsNSFW": false,
           "ModID": 18384,
           "Name": "Refracting Ice Form Debris",
-          "Version": "2.0.0.0"
+          "Version": "2.0"
         }
       }
     },
@@ -10764,7 +11137,7 @@
           "IsNSFW": false,
           "ModID": 57245,
           "Name": "Slow sprint bug fix",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -10785,7 +11158,7 @@
           "IsNSFW": false,
           "ModID": 40971,
           "Name": "SSE Creation Kit Fonixdata Lip Sync  Fix",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -10806,7 +11179,7 @@
           "IsNSFW": false,
           "ModID": 43227,
           "Name": "Stockades of Skyrim 3D",
-          "Version": "0.5.0.0"
+          "Version": "0.5"
         }
       }
     },
@@ -10827,7 +11200,7 @@
           "IsNSFW": false,
           "ModID": 19456,
           "Name": "Strange Runes",
-          "Version": "3.5.0.0"
+          "Version": "3.7.2"
         }
       }
     },
@@ -10848,7 +11221,7 @@
           "IsNSFW": false,
           "ModID": 19456,
           "Name": "Strange Runes",
-          "Version": "3.6.0.0"
+          "Version": "3.7.2"
         }
       }
     },
@@ -10869,7 +11242,7 @@
           "IsNSFW": true,
           "ModID": 8505,
           "Name": "Tempered Skins for Females - UNP CBBE and Vanilla",
-          "Version": "1.31.0.0"
+          "Version": "1.32"
         }
       }
     },
@@ -10890,7 +11263,7 @@
           "IsNSFW": false,
           "ModID": 45966,
           "Name": "Ultimate Combat and Creatures Behaviour compatibility for Nemesis",
-          "Version": "1.12.0.0"
+          "Version": "1.12"
         }
       }
     },
@@ -10911,7 +11284,7 @@
           "IsNSFW": false,
           "ModID": 44174,
           "Name": "Wood and Paper - SkyUI - Dear Diary Skin",
-          "Version": "1.0.2.0"
+          "Version": "1.0.2"
         }
       }
     },
@@ -10932,7 +11305,7 @@
           "IsNSFW": false,
           "ModID": 18637,
           "Name": "(SJG) Better Sounding Female Dragon Shouts",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -10953,7 +11326,7 @@
           "IsNSFW": true,
           "ModID": 28574,
           "Name": "Better Female wrists hands ankles and leg ratio twists for XPMSSE",
-          "Version": "2.95.0.0SE"
+          "Version": "2.95SE"
         }
       }
     },
@@ -10974,7 +11347,7 @@
           "IsNSFW": true,
           "ModID": 20078,
           "Name": "Bijin Skin UNP and CBBE SE",
-          "Version": "1.4.0.0"
+          "Version": "1.4"
         }
       }
     },
@@ -10995,7 +11368,7 @@
           "IsNSFW": false,
           "ModID": 2163,
           "Name": "Dragon Animation Replace in Special Edition",
-          "Version": "f1.01"
+          "Version": "1.01"
         }
       }
     },
@@ -11016,7 +11389,7 @@
           "IsNSFW": false,
           "ModID": 2163,
           "Name": "Dragon Animation Replace in Special Edition",
-          "Version": "f1.01"
+          "Version": "1.01"
         }
       }
     },
@@ -11037,7 +11410,7 @@
           "IsNSFW": false,
           "ModID": 35785,
           "Name": "Expressive Facegen Morphs SE",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -11058,7 +11431,7 @@
           "IsNSFW": false,
           "ModID": 19181,
           "Name": "Expressive Facial Animation -Female Edition-",
-          "Version": "1.7.0.0"
+          "Version": "1.7"
         }
       }
     },
@@ -11079,7 +11452,7 @@
           "IsNSFW": false,
           "ModID": 19532,
           "Name": "Expressive Facial Animation -Male Edition-",
-          "Version": "1.21.0.0"
+          "Version": "1.21"
         }
       }
     },
@@ -11100,7 +11473,7 @@
           "IsNSFW": true,
           "ModID": 184,
           "Name": "Feminine Argonian Textures (Chameleon and Lizard)",
-          "Version": "3.1.0.0"
+          "Version": "3.1"
         }
       }
     },
@@ -11121,7 +11494,7 @@
           "IsNSFW": true,
           "ModID": 183,
           "Name": "Feminine Khajiit Textures (Grey Cat and Leopard)",
-          "Version": "3.2.0.0"
+          "Version": "3.1"
         }
       }
     },
@@ -11142,7 +11515,7 @@
           "IsNSFW": false,
           "ModID": 64420,
           "Name": "Dialogue Animation Remix (DAR)",
-          "Version": "1.1.0.0"
+          "Version": "1.0.0"
         }
       }
     },
@@ -11163,7 +11536,7 @@
           "IsNSFW": true,
           "ModID": 7296,
           "Name": "Leather Underwear Retexture for UNP",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -11184,7 +11557,7 @@
           "IsNSFW": false,
           "ModID": 47092,
           "Name": "Leviathan Animations - Two-Handed High Stance",
-          "Version": "1.4.0.0"
+          "Version": "1.4"
         }
       }
     },
@@ -11205,7 +11578,7 @@
           "IsNSFW": false,
           "ModID": 48550,
           "Name": "Leviathan Animations - Two-Handed Normal Attacks",
-          "Version": "1.2.0.0"
+          "Version": "1.2"
         }
       }
     },
@@ -11226,7 +11599,7 @@
           "IsNSFW": false,
           "ModID": 50545,
           "Name": "Leviathan Animations - Two-Handed Power Attacks",
-          "Version": "1.3.0.0"
+          "Version": "1.3"
         }
       }
     },
@@ -11247,7 +11620,7 @@
           "IsNSFW": false,
           "ModID": 38672,
           "Name": "Male Horns for Female Iron Helmet",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -11268,7 +11641,7 @@
           "IsNSFW": true,
           "ModID": 185,
           "Name": "Masculine Argonian Textures (Chameleon and Lizard)",
-          "Version": "2.0.0.0"
+          "Version": "2.0"
         }
       }
     },
@@ -11289,7 +11662,7 @@
           "IsNSFW": true,
           "ModID": 186,
           "Name": "Masculine Khajiit Textures (Grey Cat and Leopard)",
-          "Version": "2.0.0.0"
+          "Version": "2.0"
         }
       }
     },
@@ -11310,7 +11683,7 @@
           "IsNSFW": false,
           "ModID": 24296,
           "Name": "Archery Gameplay Overhaul SE",
-          "Version": "1.3.2.0"
+          "Version": "1.3.2"
         }
       }
     },
@@ -11331,7 +11704,7 @@
           "IsNSFW": false,
           "ModID": 63471,
           "Name": "NPC Animation Remix (DAR)",
-          "Version": "1.1.0.0"
+          "Version": "1.0.0"
         }
       }
     },
@@ -11352,7 +11725,7 @@
           "IsNSFW": true,
           "ModID": 50448,
           "Name": "Respect Your Elders - Proper Old Females For UNP",
-          "Version": "f1.00"
+          "Version": "1.00"
         }
       }
     },
@@ -11373,7 +11746,7 @@
           "IsNSFW": false,
           "ModID": 19706,
           "Name": "Supreme Vampire Lords",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -11394,7 +11767,7 @@
           "IsNSFW": false,
           "ModID": 54421,
           "Name": "Modpocalypse NPCs - Resources",
-          "Version": "f1.02"
+          "Version": "1.02"
         }
       }
     },
@@ -11415,7 +11788,7 @@
           "IsNSFW": false,
           "ModID": 53757,
           "Name": "True Directional Movement - Tail Animation Fix",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -11436,7 +11809,7 @@
           "IsNSFW": true,
           "ModID": 1699,
           "Name": "UNP Female Body Renewal - A female face and body replacer",
-          "Version": "4.6.0.0"
+          "Version": "4.6"
         }
       }
     },
@@ -11457,7 +11830,7 @@
           "IsNSFW": false,
           "ModID": 60323,
           "Name": "Vanargand Animations - Archery",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -11478,7 +11851,7 @@
           "IsNSFW": false,
           "ModID": 63566,
           "Name": "Vanargand Animations - Dual Wield Attacks",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -11499,7 +11872,7 @@
           "IsNSFW": false,
           "ModID": 57544,
           "Name": "Vanargand Animations - One Handed Mid Stance",
-          "Version": "1.2.0.0"
+          "Version": "1.2"
         }
       }
     },
@@ -11520,7 +11893,7 @@
           "IsNSFW": false,
           "ModID": 58326,
           "Name": "Vanargand Animations - One Handed Normal Attacks",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -11541,7 +11914,7 @@
           "IsNSFW": false,
           "ModID": 58997,
           "Name": "Vanargand Animations - One Handed Power Attacks",
-          "Version": "1.2.0.0"
+          "Version": "1.2"
         }
       }
     },
@@ -11562,7 +11935,7 @@
           "IsNSFW": false,
           "ModID": 38480,
           "Name": "BeastHHBB - Khajiit and Argonian content - player character and NPC replacer",
-          "Version": "1.0.0.0"
+          "Version": "3.2"
         }
       }
     },
@@ -11583,7 +11956,7 @@
           "IsNSFW": false,
           "ModID": 31165,
           "Name": "First Person Sneak Strafe-Walk Stutter Fix",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -11604,7 +11977,7 @@
           "IsNSFW": false,
           "ModID": 41863,
           "Name": "High Poly Vanilla Hair",
-          "Version": "3.0.0.0f"
+          "Version": "3.0"
         }
       }
     },
@@ -11625,7 +11998,7 @@
           "IsNSFW": false,
           "ModID": 54304,
           "Name": "Pull Chain Fix for Animations SE",
-          "Version": "0.5.0.0"
+          "Version": "0.5"
         }
       }
     },
@@ -11646,7 +12019,7 @@
           "IsNSFW": false,
           "ModID": 60012,
           "Name": "Spiders of Solstheim - Transparency Fix",
-          "Version": "0.1.0.0"
+          "Version": "0.1"
         }
       }
     },
@@ -11667,7 +12040,7 @@
           "IsNSFW": false,
           "ModID": 56788,
           "Name": "Vanargand Animations - Sneak Archery",
-          "Version": "1.4.0.0"
+          "Version": "1.4"
         }
       }
     },
@@ -11688,7 +12061,7 @@
           "IsNSFW": false,
           "ModID": 48297,
           "Name": "The Kids Are Alright Renewal",
-          "Version": "Ultimate"
+          "Version": "UltimateRenewal"
         }
       }
     },
@@ -11709,7 +12082,7 @@
           "IsNSFW": false,
           "ModID": 41823,
           "Name": "Children won\u0027t use sexy animations",
-          "Version": "1.2.0.0"
+          "Version": "1.2"
         }
       }
     },
@@ -11730,7 +12103,7 @@
           "IsNSFW": false,
           "ModID": 41830,
           "Name": "DAR - Animated Fear (SE Port)",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -11751,7 +12124,7 @@
           "IsNSFW": false,
           "ModID": 34853,
           "Name": "DAR - Dynamic Swimming",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -11772,7 +12145,7 @@
           "IsNSFW": false,
           "ModID": 34853,
           "Name": "DAR - Dynamic Swimming",
-          "Version": "1.1.0.0-Optional"
+          "Version": "1.0"
         }
       }
     },
@@ -11793,7 +12166,7 @@
           "IsNSFW": false,
           "ModID": 38534,
           "Name": "EVG Animation Variance",
-          "Version": "1.1.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -11814,7 +12187,7 @@
           "IsNSFW": false,
           "ModID": 48325,
           "Name": "Faster Mining Animation (DAR)",
-          "Version": "1.2.0.0"
+          "Version": "1.2"
         }
       }
     },
@@ -11835,7 +12208,7 @@
           "IsNSFW": false,
           "ModID": 50927,
           "Name": "Faster Woodcutting Animation (DAR)",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -11856,7 +12229,7 @@
           "IsNSFW": false,
           "ModID": 34552,
           "Name": "Feral - Claw Unarmed Attacks for Beast Races - Vampires - Werewolves",
-          "Version": "2.0.0.0"
+          "Version": "v2.1"
         }
       }
     },
@@ -11877,7 +12250,7 @@
           "IsNSFW": false,
           "ModID": 34663,
           "Name": "Injured Animations Dynamic Replacer SE",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -11898,7 +12271,7 @@
           "IsNSFW": false,
           "ModID": 62491,
           "Name": "non-combat sneak idle",
-          "Version": "1.2.0.0"
+          "Version": "1.2"
         }
       }
     },
@@ -11919,7 +12292,7 @@
           "IsNSFW": false,
           "ModID": 54466,
           "Name": "",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -11940,7 +12313,7 @@
           "IsNSFW": false,
           "ModID": 45799,
           "Name": "Smooth Magic Casting Animation",
-          "Version": "4.2.0.0"
+          "Version": "4.2"
         }
       }
     },
@@ -11961,7 +12334,7 @@
           "IsNSFW": false,
           "ModID": 49853,
           "Name": "Smooth Random Magic idle Animation",
-          "Version": "2.0.0.0"
+          "Version": "2.0"
         }
       }
     },
@@ -11982,7 +12355,7 @@
           "IsNSFW": false,
           "ModID": 54883,
           "Name": "Smooth Staff Animation",
-          "Version": "1.3.0.0"
+          "Version": "1.3"
         }
       }
     },
@@ -12003,7 +12376,7 @@
           "IsNSFW": false,
           "ModID": 46714,
           "Name": "Super Fast Get Up Animation",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -12024,7 +12397,7 @@
           "IsNSFW": false,
           "ModID": 54193,
           "Name": "Take a Seat - New DAR Sitting Animations",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -12045,7 +12418,7 @@
           "IsNSFW": false,
           "ModID": 66286,
           "Name": "Vanargand Animations - Crossbows",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -12066,7 +12439,7 @@
           "IsNSFW": false,
           "ModID": 64216,
           "Name": "Vanargand Animations - Dual Wield Sneak Strikes",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -12087,7 +12460,7 @@
           "IsNSFW": false,
           "ModID": 64577,
           "Name": "Vanargand Animations - Dual Wield Sneak Thrusts",
-          "Version": "1.0.0.0"
+          "Version": "1.0"
         }
       }
     },
@@ -12108,7 +12481,7 @@
           "IsNSFW": false,
           "ModID": 55420,
           "Name": "Vanargand Animations - Sneak Strike Attacks",
-          "Version": "1.1.0.0"
+          "Version": "1.1"
         }
       }
     },
@@ -12129,7 +12502,7 @@
           "IsNSFW": false,
           "ModID": 55031,
           "Name": "Vanargand Animations - Sneak Thrust Attacks",
-          "Version": "1.1.0.0b"
+          "Version": "1.1b"
         }
       }
     },
@@ -12150,7 +12523,7 @@
           "IsNSFW": false,
           "ModID": 56956,
           "Name": "TK Dodge RE - Script Free",
-          "Version": "1.0.0.0"
+          "Version": "v0.48a"
         }
       }
     }
