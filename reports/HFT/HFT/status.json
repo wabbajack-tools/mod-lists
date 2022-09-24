@@ -1,8 +1,8 @@
 {
   "MachineURL": "HFT/HFT",
   "Name": "Happy Fun Times",
-  "Version": "0.6.0",
-  "ModListHash": "+TtteYRCjKQ=",
+  "Version": "0.6.1",
+  "ModListHash": "hmvbkyWzyw0=",
   "Archives": [
     {
       "Status": "Valid",
@@ -56,21 +56,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "menYUTfbRu8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=47076\nfileID=243436",
-        "Name": "1_Horse Stamina HUD SE-47076-1-0-3-1637582472.zip",
-        "Size": 0,
+        "Hash": "2tSuAtVKC5M=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=244154",
+        "Name": "(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z",
+        "Size": 269290,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Parapets",
-          "Description": "Displays your horse\u0027s stamina in the HUD when riding a horse.",
-          "FileID": 243436,
+          "Author": "aers - Nukem - Ryan",
+          "Description": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.",
+          "FileID": 244154,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47076/47076-1615889600-1255922230.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17230/17230-1526195370-298143229.png",
           "IsNSFW": false,
-          "ModID": 47076,
-          "Name": "Horse Stamina HUD - Script-Free",
-          "Version": "1.0.3.0"
+          "ModID": 17230,
+          "Name": "SSE Engine Fixes (skse64 plugin)",
+          "Version": "5.8.3.0"
         }
       }
     },
@@ -25298,27 +25298,6 @@
           "ModID": 34705,
           "Name": "SSE Display Tweaks",
           "Version": "0.5.11.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2tSuAtVKC5M=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=244154",
-        "Name": "(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z",
-        "Size": 269290,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "aers - Nukem - Ryan",
-          "Description": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.",
-          "FileID": 244154,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17230/17230-1526195370-298143229.png",
-          "IsNSFW": false,
-          "ModID": 17230,
-          "Name": "SSE Engine Fixes (skse64 plugin)",
-          "Version": "5.8.3.0"
         }
       }
     },
