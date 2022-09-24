@@ -1,10 +1,11 @@
 ## Validation Report - The Witcher 3 - My Way (tw3mw/tw3mw)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [FerociousReshade1.02.7z](https://cdn.discordapp.com/attachments/966003567720800266/985164195374972998/FerociousReshade1.02.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1004)
+### Valid (1003)
 *  [-Immersive Wildlife Project--3527-1-1563313441.zip](https://www.nexusmods.com/witcher3/mods/3527/?tab=files&file_id=24973)
 *  [1.1- Yennefer of Vengerberg 4K - Curvy Version-4018-4-6-1626788002.7z](https://www.nexusmods.com/witcher3/mods/4018/?tab=files&file_id=36423)
 *  [2- Triss Merigold 4K - Blue Eyes Version-4018-4-7-1626769336.7z](https://www.nexusmods.com/witcher3/mods/4018/?tab=files&file_id=36420)
@@ -852,7 +853,6 @@
 *  [Fatter Fatties-3985-0-9-1588450185.zip](https://www.nexusmods.com/witcher3/mods/3985/?tab=files&file_id=29956)
 *  [FCR3 main file-2788-0-34a.7z](https://www.nexusmods.com/witcher3/mods/2788/?tab=files&file_id=21412)
 *  [FCR3 Projectile Damage Nerf-5627-1-1617036397.zip](https://www.nexusmods.com/witcher3/mods/5627/?tab=files&file_id=34881)
-*  [FerociousReshade1.02.7z](https://cdn.discordapp.com/attachments/966003567720800266/985164195374972998/FerociousReshade1.02.7z)
 *  [Fix Stuck Quest Items-5951-1-00-1628613780.zip](https://www.nexusmods.com/witcher3/mods/5951/?tab=files&file_id=36757)
 *  [Friendly HUD Preset-2658-2-0-1568035613.7z](https://www.nexusmods.com/witcher3/mods/2658/?tab=files&file_id=25763)
 *  [Geralt HW white Beard_mixed-1.0-602-1-0.zip](https://www.nexusmods.com/witcher3/mods/602/?tab=files&file_id=3461)
