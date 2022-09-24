@@ -1056,7 +1056,7 @@
 *  [Staff of Sheogorath SSE-16873-1-1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/16873/?tab=files&file_id=53169)
 *  [StaffEnchanting.7z](https://www.patreon.com/file?h=65969282&i=10668144)
 *  [Stamina of Steeds-58742-1-0-1637372154.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58742/?tab=files&file_id=242776)
-*  [Static Skill Leveling 3.0-30410-3-0-1652922641.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30410/?tab=files&file_id=284817)
+*  [Static Skill Leveling 2.1-30410-2-1-1628442823.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30410/?tab=files&file_id=219743)
 *  [Stay At System Page-19832-1-5-0-1583022131.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19832/?tab=files&file_id=126538)
 *  steam_api64.dll
 *  [Still - ESP Version-19401-1-01-1548115357.rar](https://www.nexusmods.com/skyrimspecialedition/mods/19401/?tab=files&file_id=79225)
