@@ -1,7 +1,0 @@
-## Validation Report - Total Skyrim Overhaul (tso)
-
-
-### Invalid (0)
-### Updated (0)
-### Mirrored (0)
-### Valid (0)
