@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (570)
+### Valid (568)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [ HD Stone Quarry and Clay Deposit 2K-38479-1-0.7z](https://www.nexusmods.com/skyrim/mods/38479/?tab=files&file_id=1000039564)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
@@ -23,7 +23,7 @@
 *  [Alternate Conversation Camera-21220-2-4-4-1573216889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21220/?tab=files&file_id=112829)
 *  [Alternate Silent Voice Files-15109-1-1-1581167160.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15109/?tab=files&file_id=123167)
 *  [AMatterOfTime_v3_0_0_alpha_4-12937-v3-0-0a4.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12937/?tab=files&file_id=43572)
-*  [aMidianBorn Book of Silence SE -- COMPLETE-35382-1-9-1-1593501570.zip](https://www.nexusmods.com/skyrimspecialedition/mods/35382/?tab=files&file_id=148088)
+*  [aMidianBorn Book of Silence SE -- CCOR CONTENT ADDON-35382-1-9-1-1593527032.zip](https://www.nexusmods.com/skyrimspecialedition/mods/35382/?tab=files&file_id=148138)
 *  [aMidianBorn Buildings and Landscapes -- BSA - 2K-38019-1-0-1596037678.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38019/?tab=files&file_id=152755)
 *  [aMidianBorn Content Addon SE-35390-2-3-1626153553.zip](https://www.nexusmods.com/skyrimspecialedition/mods/35390/?tab=files&file_id=214334)
 *  [Ancient Pottery-24039-1-1-0-1552347215.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24039/?tab=files&file_id=84629)
@@ -103,8 +103,8 @@
 *  [Cyb's Remix Skin UUNP-12467-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12467/?tab=files&file_id=34597)
 *  [D13 Faster Get Up Stand Up SSE-5890-2-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5890/?tab=files&file_id=67821)
 *  [Dark Brotherhood Reborn - Dawnstar Sanctuary-22070-1-0-7-1545521259.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22070/?tab=files&file_id=75937)
-*  Data_ccBGSSSE001-Fish.bsa
-*  Data_ccBGSSSE001-Fish.esm
+*  Data_ccbgssse001-fish.bsa
+*  Data_ccbgssse001-fish.esm
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
@@ -119,9 +119,7 @@
 *  Data_Skyrim - Textures1.bsa
 *  Data_Skyrim - Textures2.bsa
 *  Data_Skyrim - Textures3.bsa
-*  Data_Skyrim - Textures4.bsa
 *  Data_Skyrim - Textures5.bsa
-*  Data_Skyrim - Textures7.bsa
 *  Data_Skyrim - Textures8.bsa
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
