@@ -1,11 +1,10 @@
 ## Validation Report - The Witcher 3 - My Way (tw3mw/tw3mw)
 
 
-### Invalid (1)
-*  [Elysium.7z](https://cdn.discordapp.com/attachments/486202559951011870/894253594231054456/Elysium.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1003)
+### Valid (1004)
 *  [-Immersive Wildlife Project--3527-1-1563313441.zip](https://www.nexusmods.com/witcher3/mods/3527/?tab=files&file_id=24973)
 *  [1.1- Yennefer of Vengerberg 4K - Curvy Version-4018-4-6-1626788002.7z](https://www.nexusmods.com/witcher3/mods/4018/?tab=files&file_id=36423)
 *  [2- Triss Merigold 4K - Blue Eyes Version-4018-4-7-1626769336.7z](https://www.nexusmods.com/witcher3/mods/4018/?tab=files&file_id=36420)
@@ -840,6 +839,7 @@
 *  [E3 Improved Combat Animations.zip](https://mega.nz/file/JfpW0bSJ#LubttJclKTMpgM5WZA6YMTjBsI50PUtY1y0BbY66zbE)
 *  [E3Quen 2.1-2366-2-1.rar](https://www.nexusmods.com/witcher3/mods/2366/?tab=files&file_id=17396)
 *  [EE Wolf Medallion HUD.zip](https://mega.nz/file/QGQQ0CgQ#1Wn-M2oE7q-TUTW9Akry_ReBsusm0A_0Ijw9sP6Mbds)
+*  [Elysium.7z](https://cdn.discordapp.com/attachments/486202559951011870/894253594231054456/Elysium.7z)
 *  [Emiel Regis Rohellec Terzieff-Godefroy-3239-1.zip](https://www.nexusmods.com/witcher3/mods/3239/?tab=files&file_id=21928)
 *  [Enemy HUD.zip](https://mega.nz/file/FfI3TADB#40fAgMqZ50MR9f4LDAVXGJy_lx-66qmucG4_udcgGHM)
 *  [Eredin VGX Mask - Original-2077-0-4a.rar](https://www.nexusmods.com/witcher3/mods/2077/?tab=files&file_id=14889)
