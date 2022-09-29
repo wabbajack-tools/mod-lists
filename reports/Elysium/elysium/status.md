@@ -153,7 +153,7 @@
 *  [Animated Forge Water-52322-0-5-1639536098.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52322/?tab=files&file_id=249209)
 *  [Animated HD Thalmor Banners-4413-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4413/?tab=files&file_id=8538)
 *  [Animated Static Reload Fix - NG-69331-1-0-1654695803.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69331/?tab=files&file_id=289715)
-*  [Animation Motion Revolution-50258-1-5-2-1664314223.rar](https://www.nexusmods.com/skyrimspecialedition/mods/50258/?tab=files&file_id=319866)
+*  [Animation Motion Revolution-50258-1-5-3-1664395662.rar](https://www.nexusmods.com/skyrimspecialedition/mods/50258/?tab=files&file_id=320113)
 *  [AnimObject Swapper-75167-1-0-1663096658.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75167/?tab=files&file_id=315868)
 *  [Anniversary Update BSA files extracted and loose.-46850-1-0a-1637125040.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46850/?tab=files&file_id=242185)
 *  [Apocalypse restoration dmg spells-58017-1-0-1636288443.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58017/?tab=files&file_id=239627)
