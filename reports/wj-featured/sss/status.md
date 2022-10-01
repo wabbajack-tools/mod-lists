@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (975)
+### Valid (972)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [02 - High Poly Hands Only-37485-1-0-1592622007.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37485/?tab=files&file_id=146550)
@@ -181,7 +181,6 @@
 *  [Dark Elf Voices For Bandits-63733-1-04-1655488875.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63733/?tab=files&file_id=291842)
 *  Data_ccbgssse001-fish.bsa
 *  Data_ccbgssse001-fish.esm
-*  Data_ccbgssse025-advdsgs.bsa
 *  Data_ccbgssse037-curios.bsa
 *  Data_ccbgssse037-curios.esl
 *  Data_ccqdrsse001-survivalmode.bsa
@@ -220,7 +219,6 @@
 *  [Deiform Alduin Particle Lights-44329-1-1-1610655111.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44329/?tab=files&file_id=179501)
 *  [Deiform Aludin Eye textures 2K-44329-1-2-1641218296.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44329/?tab=files&file_id=253639)
 *  [Delphine's Map Reveals Dragon Mounds SE-26301-1-1-1654018711.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26301/?tab=files&file_id=287906)
-*  [deorder_plugins-1.1.zip](https://github.com/deorder/mo2-plugins/releases/download/1.1/deorder_plugins-1.1.zip)
 *  [Desaturated Glorious Dummies-20865-1-3-1540826816.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20865/?tab=files&file_id=70692)
 *  [Dialogue Interface ReShaped-46546-1-03-1616150370.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46546/?tab=files&file_id=192279)
 *  [Dirt and Blood HD Retexture-44162-1-2-1610768237.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44162/?tab=files&file_id=179808)
@@ -869,7 +867,6 @@
 *  [Survival Mode Improved-56374-1-3-5-1661622893.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56374/?tab=files&file_id=310847)
 *  [Sweet Roll Boiled Creme Treat and Pie-9034-.zip](https://www.nexusmods.com/skyrimspecialedition/mods/9034/?tab=files&file_id=22836)
 *  [Sword of Dragonsreach - Custom Textures-28006-1-1-1597737738.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28006/?tab=files&file_id=156293)
-*  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.23-pr004/Synthesis.zip)
 *  [Tamrielic Textures SE 1 Landscapes 2K-4K-32973-1-4-0-1612539194.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32973/?tab=files&file_id=184156)
 *  [TavernAIFix-se-23107-1-2-1646241760.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23107/?tab=files&file_id=267651)
 *  [TB's Improved Smoke - 4K (Patched)-37541-2-1592996280.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37541/?tab=files&file_id=147194)
