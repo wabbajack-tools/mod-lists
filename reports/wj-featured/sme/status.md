@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (203)
+### Valid (202)
 *  [(Part 1) SSE Engine Fixes for 1.6.xxx-17230-6-0-2-1637784396.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [Actor Limit Fix (Anniversary Edition)-32349-6-1648396498.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=273041)
@@ -51,7 +51,6 @@
 *  Data_ccbgssse025-advdsgs.esm
 *  Data_ccbgssse037-curios.bsa
 *  Data_ccbgssse037-curios.esl
-*  Data_ccbgssse067-daedinv.bsa
 *  Data_ccqdrsse001-survivalmode.bsa
 *  Data_ccqdrsse001-survivalmode.esl
 *  Data_Dawnguard.esm

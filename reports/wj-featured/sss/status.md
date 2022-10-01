@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (981)
+### Valid (975)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [02 - High Poly Hands Only-37485-1-0-1592622007.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37485/?tab=files&file_id=146550)
@@ -179,17 +179,11 @@
 *  [Creation Club - Misc Patches-30622-2-0-0-1639760752.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30622/?tab=files&file_id=249870)
 *  [D13 Faster Get Up Stand Up SSE-5890-2-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5890/?tab=files&file_id=67821)
 *  [Dark Elf Voices For Bandits-63733-1-04-1655488875.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63733/?tab=files&file_id=291842)
-*  Data_ccasvsse001-almsivi.bsa
 *  Data_ccbgssse001-fish.bsa
 *  Data_ccbgssse001-fish.esm
-*  Data_ccbgssse005-goldbrand.bsa
 *  Data_ccbgssse025-advdsgs.bsa
-*  Data_ccbgssse031-advcyrus.bsa
 *  Data_ccbgssse037-curios.bsa
 *  Data_ccbgssse037-curios.esl
-*  Data_ccbgssse067-daedinv.bsa
-*  Data_ccffbsse001-imperialdragon.bsa
-*  Data_ccmtysse001-knightsofthenine.bsa
 *  Data_ccqdrsse001-survivalmode.bsa
 *  Data_ccqdrsse001-survivalmode.esl
 *  Data_Dawnguard.esm

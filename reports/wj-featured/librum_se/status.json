@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/librum_se",
   "Name": "Librum SE",
-  "Version": "3.0.4.5",
-  "ModListHash": "WqedsV+ZtqE=",
+  "Version": "3.0.5",
+  "ModListHash": "yctE/cq/4BQ=",
   "Archives": [
     {
       "Status": "Valid",
@@ -21,6 +21,20 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "LqKnmSUrXac=",
+        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z",
+        "Name": "Mod.Organizer-2.4.4.7z",
+        "Size": 90051560,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "6C1xiiFBE1M=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/splash.png_147d121c-6d4b-4546-802e-2e29dc1cdd4f",
         "Name": "splash.png",
@@ -28,6 +42,20 @@
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
           "Url": "https://authored-files.wabbajack.org/splash.png_147d121c-6d4b-4546-802e-2e29dc1cdd4f"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "P38+dC6vgsw=",
+        "Meta": "[General]\ndirectURL=https://github.com/LostDragonist/MO2-Plugins/releases/download/2022.01.25/LostDragonist-MO2-Plugins.zip",
+        "Name": "LostDragonist-MO2-Plugins.zip",
+        "Size": 7386,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/LostDragonist/MO2-Plugins/releases/download/2022.01.25/LostDragonist-MO2-Plugins.zip"
         }
       }
     },
@@ -65,11 +93,11 @@
           "Description": "Root Builder is a Mod Organizer 2 plugin that allows you to manage files in the base game folder through Mod Organizer, leaving your game folder in pristine, vanilla condition!",
           "FileID": 237332,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31720/31720-1621958348-396480772.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31720/31720-1640621042-2144679620.png",
           "IsNSFW": false,
           "ModID": 31720,
           "Name": "Kezyma\u0027s Root Builder for Mod Organizer",
-          "Version": "4.1.4.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -352,10 +380,10 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "winedave",
-          "Description": "A new take on Alduin with completely remade textures using high poly - low poly workflow. Optional Particle Lit Eyes. Comes in 4,8 \u0026amp; 16K resolution",
+          "Description": "A new take on Alduin with completely remade textures using high poly - low poly workflow. Optional Particle Lit Eyes. Comes in 2,4,8 \u0026amp; 16K resolution. Eyes in 1 or 2K.",
           "FileID": 179500,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44329/44329-1621188493-187901026.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44329/44329-1641217836-1016773760.png",
           "IsNSFW": false,
           "ModID": 44329,
           "Name": "Deiform Alduin - 16K - ENB Light Particle Effects",
@@ -477,14 +505,14 @@
         "Size": 690,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SkylineR390",
-          "Description": "New SE version by HM\u0027s original author. Blacksmiths \u002B Enchanters will be able to craft/temper/enchant your equipment for you. Compatible with mod-armor/weapons, as well as many perk mods (Ordinator, etc). The quality and price depends on their skill as blacksmiths/enchanters, as well as your barter skill. Fully customizable through an MCM menu.",
+          "Author": "Grimolfr",
+          "Description": "This mod (Additional Materials) adds some common \u0026amp; rare materials from Dawnguard, Dragonborn, and Hearthfire, in addition to some unusual materials that many armor \u0026amp; weapon mods require for crafting that aren\u0027t used for typical vanilla crafting, such as alchemy plants and gemstones.",
           "FileID": 211250,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51254/51254-1623844815-1812585528.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51254/51254-1641112929-1244486030.png",
           "IsNSFW": false,
           "ModID": 51254,
-          "Name": "Honed Metal SSE Updated",
+          "Name": "Honed Metal Additional Materials UPDATED",
           "Version": "1.0.0.0"
         }
       }
@@ -519,14 +547,14 @@
         "Size": 700256,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SkylineR390",
-          "Description": "New SE version by HM\u0027s original author. Blacksmiths \u002B Enchanters will be able to craft/temper/enchant your equipment for you. Compatible with mod-armor/weapons, as well as many perk mods (Ordinator, etc). The quality and price depends on their skill as blacksmiths/enchanters, as well as your barter skill. Fully customizable through an MCM menu.",
+          "Author": "Grimolfr",
+          "Description": "This mod (Additional Materials) adds some common \u0026amp; rare materials from Dawnguard, Dragonborn, and Hearthfire, in addition to some unusual materials that many armor \u0026amp; weapon mods require for crafting that aren\u0027t used for typical vanilla crafting, such as alchemy plants and gemstones.",
           "FileID": 214219,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51254/51254-1623844815-1812585528.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51254/51254-1641112929-1244486030.png",
           "IsNSFW": false,
           "ModID": 51254,
-          "Name": "Honed Metal SSE Updated",
+          "Name": "Honed Metal Additional Materials UPDATED",
           "Version": "1.21.0.0"
         }
       }
@@ -4459,7 +4487,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/8586-2-1488216044.png",
           "IsNSFW": false,
           "ModID": 8586,
-          "Name": "Relighting Skyrim - SSE",
+          "Name": "Relighting Skyrim SE",
           "Version": "1.2.0.0"
         }
       }
@@ -4973,7 +5001,7 @@
           "Description": "Sounds of Skyrim Complete is a merged version of the three individual mods, Sounds of Skyrim - Civilization, Sounds of Skyrim - The Wilds, and Sounds of Skyrim - The Dungeons.",
           "FileID": 115326,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/8286/8286-1574180655-772879905.jpeg",
+          "ImageURL": null,
           "IsNSFW": false,
           "ModID": 8286,
           "Name": "Sounds of Skyrim Complete SE",
@@ -4994,7 +5022,7 @@
           "Description": "My take on making excess dragon souls useful, ported from LE to SE. Stockpiled souls improve power attacks, shout duration and power. Lose souls on death to revive, or convert souls into perk points. More features in the works.",
           "FileID": 220457,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33518/33518-1628161581-995393008.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33518/33518-1644514532-1895783991.jpeg",
           "IsNSFW": false,
           "ModID": 33518,
           "Name": "Souls Do Things 2 SE - A Dragon Soul Utilities Mod",
@@ -5015,7 +5043,7 @@
           "Description": "Sounds of Skyrim Complete is a merged version of the three individual mods, Sounds of Skyrim - Civilization, Sounds of Skyrim - The Wilds, and Sounds of Skyrim - The Dungeons.",
           "FileID": 100769,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/8286/8286-1574180655-772879905.jpeg",
+          "ImageURL": null,
           "IsNSFW": false,
           "ModID": 8286,
           "Name": "Sounds of Skyrim Complete SE",
@@ -6657,37 +6685,30 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "d+fMLBcSgpk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=10546\nfileID=28074",
-        "Name": "DLL Plugin Loader v1-10546-1.zip",
-        "Size": 101092,
+        "Hash": "wwYDXqpkrNE=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=bink2w64.dll",
+        "Name": "bink2w64.dll",
+        "Size": 391360,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "meh321",
-          "Description": "Simple DLL plugins loader.",
-          "FileID": 28074,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 10546,
-          "Name": "DLL Plugin Loader",
-          "Version": "0.0.0.0"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "bink2w64.dll",
+          "GameVersion": "1.6.342.0",
+          "Hash": "wwYDXqpkrNE="
         }
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
-        "Hash": "MGGeI/R+kRc=",
-        "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimvr_v0457.zip\ndirectURLHeaders=Referer:http://enbdev.com/download_mod_tesskyrimvr.html",
-        "Name": "enbseries_skyrimvr_v0457.zip",
-        "Size": 2551767,
+        "Hash": "+SHtofCyYtY=",
+        "Meta": "[General]\ndirectURL=https://build.wabbajack.org/authored_files/direct_link/enbseries_skyrimse_v0475.zip_058f18f4-b83d-427e-941c-019fb7e9cacf",
+        "Name": "enbseries_skyrimse_v0475.zip",
+        "Size": 4318678,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [
-            "Referer:http://enbdev.com/download_mod_tesskyrimvr.html"
-          ],
-          "Url": "http://enbdev.com/enbseries_skyrimvr_v0457.zip"
+          "Headers": [],
+          "Url": "https://build.wabbajack.org/authored_files/direct_link/enbseries_skyrimse_v0475.zip_058f18f4-b83d-427e-941c-019fb7e9cacf"
         }
       }
     },
@@ -7398,15 +7419,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "vD9gI+5+QiM=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/AllGUD Output.7z_a988918b-870a-4503-bc9f-3de7e6a04e27",
+        "Meta": "[General]\ndirectURL=https://build.wabbajack.org/authored_files/direct_link/AllGUD%20Output.7z_5165fa42-d207-4e2f-b4e7-e769ff7550eb",
         "Name": "AllGUD Output.7z",
         "Size": 74729591,
         "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/AllGUD%20Output.7z_a988918b-870a-4503-bc9f-3de7e6a04e27"
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://build.wabbajack.org/authored_files/direct_link/AllGUD%20Output.7z_5165fa42-d207-4e2f-b4e7-e769ff7550eb"
         }
       }
     },
@@ -11536,7 +11558,7 @@
         "Size": 7100514,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Teabag86 Janquel",
+          "Author": "Teabag86 Czasior Janquel",
           "Description": "Collection of small compatibility patches with Palaces and Castles Enhanced for load order flexibility, floating object/missing idle cases",
           "FileID": 219766,
           "GameName": "SkyrimSpecialEdition",
@@ -12818,7 +12840,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Crithion",
-          "Description": "Spell Research patches for lesser known spell mods (Overlord) and expanded content (3NPC, Wildcat, etc). Includes a highly recommended altered spell tomes patch.\n\nAlso added my own version of the spell research semi-automatic patch generator for anyone who wants to make more patches.",
+          "Description": "Spell Research patches for lesser known spell mods (Overlord) and expanded content (3NPC, Wildcat, etc).",
           "FileID": 201342,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/48898/48898-1619050651-1380216239.png",
@@ -14387,12 +14409,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "vJV22EnIzPI=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/golden saint sse-30974-1-1576265475.rar_644e1299-81f9-4419-95a7-a497de9b2c58",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=30974\nfileID=116083",
         "Name": "golden saint sse-30974-1-1576265475.rar",
         "Size": 83180794,
         "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/golden%20saint%20sse-30974-1-1576265475.rar_644e1299-81f9-4419-95a7-a497de9b2c58"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mihail and Blad3Zer0",
+          "Description": "",
+          "FileID": 116083,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 30974,
+          "Name": "",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -14456,22 +14486,6 @@
           "ModID": 19944,
           "Name": "(SJG) Complete Alchemy and Cooking Overhaul Patches - CACO",
           "Version": "1.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3z2xGhZIbY4=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Interface.bsa",
-        "Name": "Data_Skyrim - Interface.bsa",
-        "Size": 78541040,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Interface.bsa",
-          "GameVersion": "1.6.342.0",
-          "Hash": "3z2xGhZIbY4="
         }
       }
     },
@@ -14957,6 +14971,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "z/hwNqhLnxE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62796\nfileID=260978",
+        "Name": "ENB Input Disabler-62796-1-0-2-1643723189.zip",
+        "Size": 777746,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "doodlez",
+          "Description": "SKSE plugin which disables mouse and keyboard input for everything but the console, when the ENB editor is active. Gamepads function as normal.",
+          "FileID": 260978,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62796/62796-1643547068-114865313.gif",
+          "IsNSFW": false,
+          "ModID": 62796,
+          "Name": "ENB Input Disabler",
+          "Version": "1.0.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "iNkHMxpQm1E=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=22574\nfileID=109252",
         "Name": "ENB Light 0.96 WIP 01 - Magic Staff lights-22574-0-96WIP01-1570151118.7z",
@@ -14999,6 +15034,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "ZVZ/Si/EXHw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42441\nfileID=221193",
+        "Name": "Face Discoloration Fix SE-42441-1-0-1-1628974769.zip",
+        "Size": 253887,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Parapets",
+          "Description": "Eliminates the dreaded \u0022dark face\u0022 issue that occurs when the game encounters FaceGen errors.",
+          "FileID": 221193,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42441/42441-1605535279-972207446.png",
+          "IsNSFW": false,
+          "ModID": 42441,
+          "Name": "Face Discoloration Fix",
+          "Version": "1.0.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "QwWsQ5Y1oiQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=42750\nfileID=190638",
         "Name": "Favorite Misc Items SSE-42750-3-5-1615393928.7z",
@@ -15026,14 +15082,14 @@
         "Size": 75822,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SkylineR390",
-          "Description": "New SE version by HM\u0027s original author. Blacksmiths \u002B Enchanters will be able to craft/temper/enchant your equipment for you. Compatible with mod-armor/weapons, as well as many perk mods (Ordinator, etc). The quality and price depends on their skill as blacksmiths/enchanters, as well as your barter skill. Fully customizable through an MCM menu.",
+          "Author": "Grimolfr",
+          "Description": "This mod (Additional Materials) adds some common \u0026amp; rare materials from Dawnguard, Dragonborn, and Hearthfire, in addition to some unusual materials that many armor \u0026amp; weapon mods require for crafting that aren\u0027t used for typical vanilla crafting, such as alchemy plants and gemstones.",
           "FileID": 215737,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51254/51254-1623844815-1812585528.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51254/51254-1641112929-1244486030.png",
           "IsNSFW": false,
           "ModID": 51254,
-          "Name": "Honed Metal SSE Updated",
+          "Name": "Honed Metal Additional Materials UPDATED",
           "Version": "1.21.0.0"
         }
       }
@@ -15216,6 +15272,27 @@
           "ModID": 40261,
           "Name": "NPC AI Process Position  Fix - SSE",
           "Version": "f4.05c"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4wI91rOTPN0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=65720\nfileID=318770",
+        "Name": "Particle Patch for ENB-65720-1-1-0-1663950310.zip",
+        "Size": 103727049,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mindflux",
+          "Description": "The classic particle patch, now on Nexus.",
+          "FileID": 318770,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65720/65720-1648653582-1509088395.jpeg",
+          "IsNSFW": false,
+          "ModID": 65720,
+          "Name": "Particle Patch for ENB",
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -15407,38 +15484,6 @@
           "Version": "0.0.1.0"
         }
       }
-    },
-    {
-      "Status": "Updated",
-      "Original": {
-        "Hash": "2MrbjqTtwtg=",
-        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=12tL3_kpm_KXlQvQqEnK3zOAl-sm_H3Fw\u0026export=download",
-        "Name": "Skyrim_Particle_Patch_for_ENB-SSE.zip",
-        "Size": 38399950,
-        "State": {
-          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
-          "Id": "12tL3_kpm_KXlQvQqEnK3zOAl-sm_H3Fw"
-        }
-      },
-      "PatchedFrom": {
-        "Hash": "IWebISWfpDA=",
-        "Meta": "",
-        "Name": "Particle Patch for ENB-65720-1-0-1648653747.zip",
-        "Size": 38693606,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mindflux",
-          "Description": "The classic particle patch, now on Nexus.",
-          "FileID": 273694,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65720/65720-1648653582-1509088395.jpeg",
-          "IsNSFW": false,
-          "ModID": 65720,
-          "Name": "Particle Patch for ENB",
-          "Version": "1.0.2"
-        }
-      },
-      "PatchUrl": "https://patches.wabbajack.org/d8cadb8ea4edc2d8_21679b21259fa430"
     },
     {
       "Status": "Valid",
@@ -15891,7 +15936,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Jonas",
-          "Description": "Mesh replacer for 85 of Skyrim\u0027s original axes, maces, swords and warhammers. Opts for a slimmer and cleaner design, while keeping the original style.",
+          "Description": "Mesh replacer for 105 of Skyrim\u0027s original axes, maces, swords and warhammers. Opts for a slimmer and cleaner design, while keeping the original style.",
           "FileID": 148339,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37737/37737-1593283303-1926078149.jpeg",
@@ -17761,6 +17806,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "SCT2bjGVYwA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=3532\nfileID=282674",
+        "Name": "Frozen Electrocuted Combustion-3532-5-0-5-1652183044.7z",
+        "Size": 87803941,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects.",
+          "FileID": 282674,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/78709-0-1473783976.png",
+          "IsNSFW": false,
+          "ModID": 3532,
+          "Name": "Frozen Electrocuted Combustion",
+          "Version": "5.0.5.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Xjx2wz0Y8RU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=41616\nfileID=169448",
         "Name": "Word Walls Randomizer (zEdit Patcher)-41616-1-0-1-1605000499.zip",
@@ -17999,6 +18065,27 @@
           "ModID": 44174,
           "Name": "Wood and Paper - SkyUI - Dear Diary Skin",
           "Version": "1.0.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "J8SEmUAaqfo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=47695\nfileID=196102",
+        "Name": "Medieval True Armor Preset - Alternate-47695-2-01-1617607041.zip",
+        "Size": 6682,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "JoshuaBlue",
+          "Description": "Want more realistic armor behavior?  This is my personal \u0027realistic\u0027 armor behavior preset for a great mod by Anubis22  - True Armor. The focus is on realism but also on balance, so protection vs speed/stamina, and importantly also protection vs price (which reflects rarity).",
+          "FileID": 196102,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47695/47695-1616958028-1363378792.jpeg",
+          "IsNSFW": false,
+          "ModID": 47695,
+          "Name": "Medieval True Armor Preset",
+          "Version": "f2.01"
         }
       }
     },
@@ -18342,12 +18429,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "nUBZfb1+SNE=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/corprus victims sse 2.1-29208-2-1-1584246608.rar_e9ec4916-1db6-4275-b657-061507e4038b",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=29208\nfileID=128648",
         "Name": "corprus victims sse 2.1-29208-2-1-1584246608.rar",
         "Size": 174576913,
         "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/corprus%20victims%20sse%202.1-29208-2-1-1584246608.rar_e9ec4916-1db6-4275-b657-061507e4038b"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mihail",
+          "Description": "",
+          "FileID": 128648,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 29208,
+          "Name": "",
+          "Version": "2.1.0.0"
         }
       }
     },
@@ -18361,10 +18456,10 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "winedave",
-          "Description": "A new take on Alduin with completely remade textures using high poly - low poly workflow. Optional Particle Lit Eyes. Comes in 4,8 \u0026amp; 16K resolution",
+          "Description": "A new take on Alduin with completely remade textures using high poly - low poly workflow. Optional Particle Lit Eyes. Comes in 2,4,8 \u0026amp; 16K resolution. Eyes in 1 or 2K.",
           "FileID": 203882,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44329/44329-1621188493-187901026.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44329/44329-1641217836-1016773760.png",
           "IsNSFW": false,
           "ModID": 44329,
           "Name": "Deiform Alduin - 16K - ENB Light Particle Effects",
@@ -18382,10 +18477,10 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "winedave",
-          "Description": "A new take on Alduin with completely remade textures using high poly - low poly workflow. Optional Particle Lit Eyes. Comes in 4,8 \u0026amp; 16K resolution",
+          "Description": "A new take on Alduin with completely remade textures using high poly - low poly workflow. Optional Particle Lit Eyes. Comes in 2,4,8 \u0026amp; 16K resolution. Eyes in 1 or 2K.",
           "FileID": 203883,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44329/44329-1621188493-187901026.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44329/44329-1641217836-1016773760.png",
           "IsNSFW": false,
           "ModID": 44329,
           "Name": "Deiform Alduin - 16K - ENB Light Particle Effects",
@@ -18900,27 +18995,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "J8SEmUAaqfo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=47695\nfileID=196102",
-        "Name": "Medieval True Armor Preset - Alternate-47695-2-01-1617607041.zip",
-        "Size": 6682,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "JoshuaBlue",
-          "Description": "Want more realistic armor behavior?  This is my personal \u0027realistic\u0027 armor behavior preset for a great mod by Anubis22  - True Armor. The focus is on realism but also on balance, so protection vs speed/stamina, and importantly also protection vs price (which reflects rarity).",
-          "FileID": 196102,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47695/47695-1616958028-1363378792.jpeg",
-          "IsNSFW": false,
-          "ModID": 47695,
-          "Name": "Medieval True Armor Preset",
-          "Version": "f2.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "60AokfJ0PVo=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=44600\nfileID=183540",
         "Name": "Morekvior Main-44600-1-2-1612269871.7z",
@@ -19144,7 +19218,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/3144-5-1478436451.jpg",
           "IsNSFW": false,
           "ModID": 3144,
-          "Name": "Real Bows (by DecimusMaximus for SSE)",
+          "Name": "Real Bows for SSE (originally made by DecimusMaximus)",
           "Version": "f1.05"
         }
       }
@@ -19165,7 +19239,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/3144-5-1478436451.jpg",
           "IsNSFW": false,
           "ModID": 3144,
-          "Name": "Real Bows (by DecimusMaximus for SSE)",
+          "Name": "Real Bows for SSE (originally made by DecimusMaximus)",
           "Version": "f1.05"
         }
       }
@@ -19978,19 +20052,6 @@
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
           "Url": "https://wabbajack.b-cdn.net/Librum_xLODGen.7z_84c16023-a9a7-4a16-b12c-ac3a2e33ad1b"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tGdghg6+XEs=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/flesh golems (sse) 1.2-27242-1-2-1599964334.rar_8e3e8609-a6d7-454d-a2d2-d3591d773356",
-        "Name": "flesh golems (sse) 1.2-27242-1-2-1599964334.rar",
-        "Size": 52455945,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/flesh%20golems%20(sse)%201.2-27242-1-2-1599964334.rar_8e3e8609-a6d7-454d-a2d2-d3591d773356"
         }
       }
     },
@@ -20963,6 +21024,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "uutAUjvgpvg=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Textures2.bsa",
+        "Name": "Data_Skyrim - Textures2.bsa",
+        "Size": 1346030841,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures2.bsa",
+          "GameVersion": "1.6.342.0",
+          "Hash": "uutAUjvgpvg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "LI9OugvBY8I=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=20375\nfileID=69081",
         "Name": "First Person Magic Animation for SSE-20375-7-0-1539393515.rar",
@@ -21199,7 +21276,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43048/43048-1607066051-1658381104.png",
           "IsNSFW": false,
           "ModID": 43048,
-          "Name": "Feline Movement Animations for Khajits Only (FMAK) SSE",
+          "Name": "Feline Movement Animations for Khajiits Only (FMAK) SSE",
           "Version": "1.4.0.0"
         }
       }
@@ -21245,10 +21322,26 @@
           "Version": "f2.01"
         }
       }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3z2xGhZIbY4=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Data\\Skyrim - Interface.bsa",
+        "Name": "Data_Skyrim - Interface.bsa",
+        "Size": 78541040,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Interface.bsa",
+          "GameVersion": "1.6.342.0",
+          "Hash": "3z2xGhZIbY4="
+        }
+      }
     }
   ],
-  "Status": "Failed",
-  "Failures": 2,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/fba9430724b4c9be_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/fba9430724b4c9be_large.webp"
 }

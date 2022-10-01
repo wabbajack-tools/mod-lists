@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/librum_vr",
   "Name": "Librum VR",
-  "Version": "3.0.4.5",
-  "ModListHash": "fsCBT2CPirY=",
+  "Version": "3.0.5",
+  "ModListHash": "QEuUqdLGVvE=",
   "Archives": [
     {
       "Status": "Valid",
@@ -21,6 +21,20 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "LqKnmSUrXac=",
+        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z",
+        "Name": "Mod.Organizer-2.4.4.7z",
+        "Size": 90051560,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "6C1xiiFBE1M=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/splash.png_147d121c-6d4b-4546-802e-2e29dc1cdd4f",
         "Name": "splash.png",
@@ -32,18 +46,43 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
-        "Hash": "MGGeI/R+kRc=",
-        "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_skyrimvr_v0457.zip\ndirectURLHeaders=Referer:http://enbdev.com/download_mod_tesskyrimvr.html",
+        "Hash": "yLZsRuTXhaw=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimvr_v0457.zip_44c21415-c1a0-445d-a7ad-5a5e6157f5ad",
         "Name": "enbseries_skyrimvr_v0457.zip",
-        "Size": 2551767,
+        "Size": 2551683,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimvr_v0457.zip_44c21415-c1a0-445d-a7ad-5a5e6157f5ad"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+SHtofCyYtY=",
+        "Meta": "[General]\ndirectURL=https://build.wabbajack.org/authored_files/direct_link/enbseries_skyrimse_v0475.zip_058f18f4-b83d-427e-941c-019fb7e9cacf",
+        "Name": "enbseries_skyrimse_v0475.zip",
+        "Size": 4318678,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [
-            "Referer:http://enbdev.com/download_mod_tesskyrimvr.html"
-          ],
-          "Url": "http://enbdev.com/enbseries_skyrimvr_v0457.zip"
+          "Headers": [],
+          "Url": "https://build.wabbajack.org/authored_files/direct_link/enbseries_skyrimse_v0475.zip_058f18f4-b83d-427e-941c-019fb7e9cacf"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "P38+dC6vgsw=",
+        "Meta": "[General]\ndirectURL=https://github.com/LostDragonist/MO2-Plugins/releases/download/2022.01.25/LostDragonist-MO2-Plugins.zip",
+        "Name": "LostDragonist-MO2-Plugins.zip",
+        "Size": 7386,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/LostDragonist/MO2-Plugins/releases/download/2022.01.25/LostDragonist-MO2-Plugins.zip"
         }
       }
     },
@@ -60,11 +99,11 @@
           "Description": "Root Builder is a Mod Organizer 2 plugin that allows you to manage files in the base game folder through Mod Organizer, leaving your game folder in pristine, vanilla condition!",
           "FileID": 237332,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31720/31720-1621958348-396480772.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31720/31720-1640621042-2144679620.png",
           "IsNSFW": false,
           "ModID": 31720,
           "Name": "Kezyma\u0027s Root Builder for Mod Organizer",
-          "Version": "4.1.4.0"
+          "Version": "0.0.0.0"
         }
       }
     },
@@ -239,21 +278,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ONFEw/3fKOU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43930\nfileID=223132",
-        "Name": "HIGGS-43930-1-4-2-1629701543.zip",
-        "Size": 448697,
+        "Hash": "KLJAYntdjPU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43930\nfileID=307582",
+        "Name": "HIGGS 1.5.8-43930-1-5-8-1660513802.zip",
+        "Size": 5298837,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "FlyingParticle",
           "Description": "Hand/weapon collision, weapon two-handing, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR",
-          "FileID": 223132,
+          "FileID": 307582,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43930/43930-1609640985-1855858433.jpeg",
           "IsNSFW": false,
           "ModID": 43930,
-          "Name": "HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR",
-          "Version": "1.4.2.0"
+          "Name": "HIGGS - Enhanced VR Interaction",
+          "Version": "1.5.8.0"
         }
       }
     },
@@ -266,14 +305,14 @@
         "Size": 677173,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SkylineR390",
-          "Description": "New SE version by HM\u0027s original author. Blacksmiths \u002B Enchanters will be able to craft/temper/enchant your equipment for you. Compatible with mod-armor/weapons, as well as many perk mods (Ordinator, etc). The quality and price depends on their skill as blacksmiths/enchanters, as well as your barter skill. Fully customizable through an MCM menu.",
+          "Author": "Grimolfr",
+          "Description": "This mod (Additional Materials) adds some common \u0026amp; rare materials from Dawnguard, Dragonborn, and Hearthfire, in addition to some unusual materials that many armor \u0026amp; weapon mods require for crafting that aren\u0027t used for typical vanilla crafting, such as alchemy plants and gemstones.",
           "FileID": 212718,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51254/51254-1623844815-1812585528.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51254/51254-1641112929-1244486030.png",
           "IsNSFW": false,
           "ModID": 51254,
-          "Name": "Honed Metal SSE Updated",
+          "Name": "Honed Metal Additional Materials UPDATED",
           "Version": "1.1.0.0"
         }
       }
@@ -686,12 +725,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "fnfd4HcCEm0=",
-        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=1aTAMxZXejb-GMJlV2UaThDvq_Iz_FOPz\u0026export=download",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=23416\nfileID=211578",
         "Name": "VRIK V0.8.1 In-Dev Build 28.7z",
         "Size": 442721,
         "State": {
-          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
-          "Id": "1aTAMxZXejb-GMJlV2UaThDvq_Iz_FOPz"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "prog",
+          "Description": "VRIK will display the player character\u0027s body in SkyrimVR and animate it to match your movements.  Weapons can be kept, drawn, and sheathed in up to 14 visible holsters on your body.  An input gesture system allows users to bind actions to gestures on each hand, reducing the need to open menus.  An MCM menu allows full configuration of everything.",
+          "FileID": 211578,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23416/23416-1550100888-1590315308.jpeg",
+          "IsNSFW": false,
+          "ModID": 23416,
+          "Name": "VRIK Player Avatar",
+          "Version": "0.8.1.0-Test-Build-28"
         }
       }
     },
@@ -2769,6 +2816,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "SCT2bjGVYwA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=3532\nfileID=282674",
+        "Name": "Frozen Electrocuted Combustion-3532-5-0-5-1652183044.7z",
+        "Size": 87803941,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects.",
+          "FileID": 282674,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/78709-0-1473783976.png",
+          "IsNSFW": false,
+          "ModID": 3532,
+          "Name": "Frozen Electrocuted Combustion",
+          "Version": "5.0.5.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Md70VtAriTk=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=23825\nfileID=107868",
         "Name": "Fulcimentum - More staves and wands of Skyrim-23825-3-5-1569204255.7z",
@@ -4231,7 +4299,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/8586-2-1488216044.png",
           "IsNSFW": false,
           "ModID": 8586,
-          "Name": "Relighting Skyrim - SSE",
+          "Name": "Relighting Skyrim SE",
           "Version": "1.2.0.0"
         }
       }
@@ -4745,7 +4813,7 @@
           "Description": "Sounds of Skyrim Complete is a merged version of the three individual mods, Sounds of Skyrim - Civilization, Sounds of Skyrim - The Wilds, and Sounds of Skyrim - The Dungeons.",
           "FileID": 115326,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/8286/8286-1574180655-772879905.jpeg",
+          "ImageURL": null,
           "IsNSFW": false,
           "ModID": 8286,
           "Name": "Sounds of Skyrim Complete SE",
@@ -4766,7 +4834,7 @@
           "Description": "My take on making excess dragon souls useful, ported from LE to SE. Stockpiled souls improve power attacks, shout duration and power. Lose souls on death to revive, or convert souls into perk points. More features in the works.",
           "FileID": 220457,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33518/33518-1628161581-995393008.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33518/33518-1644514532-1895783991.jpeg",
           "IsNSFW": false,
           "ModID": 33518,
           "Name": "Souls Do Things 2 SE - A Dragon Soul Utilities Mod",
@@ -4787,7 +4855,7 @@
           "Description": "Sounds of Skyrim Complete is a merged version of the three individual mods, Sounds of Skyrim - Civilization, Sounds of Skyrim - The Wilds, and Sounds of Skyrim - The Dungeons.",
           "FileID": 100769,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/8286/8286-1574180655-772879905.jpeg",
+          "ImageURL": null,
           "IsNSFW": false,
           "ModID": 8286,
           "Name": "Sounds of Skyrim Complete SE",
@@ -6440,6 +6508,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "i+cmBrDIQjU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=61434\nfileID=311233",
+        "Name": "Glamur Reshade v2.4-61434-2-4-1661722297.zip",
+        "Size": 1685994,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "rhellct - see Acknowledgments",
+          "Description": "Performance-friendly Ambient Occlusion for SkyrimVR. Also includes subtle Global Illumination and bounce lighting effects. And sharpening to fix the game\u0027s blurriness, of course.\n\n\n\nCan be run on top of any weather mod, interior lighting mod, and/or ENB that you\u0027re currently using.",
+          "FileID": 311233,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61434/61434-1641526710-1912474592.png",
+          "IsNSFW": false,
+          "ModID": 61434,
+          "Name": "Glamur Reshade VR",
+          "Version": "2.4.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "rQiGSRx2WrY=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=181171",
         "Name": "(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z",
@@ -6482,21 +6571,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "vlfRfscOsCs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=46999\nfileID=191435",
-        "Name": "The Sharper Eye-46999-1-0-1615729372.7z",
-        "Size": 1142341,
+        "Hash": "czJ1Ppg8s7g=",
+        "Meta": "[General]\ndirectURL=https://github.com/fholger/vrperfkit/releases/download/v0.3/vrperfkit_v0.3.zip",
+        "Name": "vrperfkit_v0.3.zip",
+        "Size": 406397,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "fholger",
-          "Description": "Get rid of the blur and grey mist in your headset which are clouding your vision. This VR-enabled ReShade build and preset provide the most performance-friendly sharpening filter for Skyrim VR bundled with a subtle touch of contrast, brightness and saturation. All configurable to your liking.",
-          "FileID": 191435,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46999/46999-1615727755-1418054014.jpeg",
-          "IsNSFW": false,
-          "ModID": 46999,
-          "Name": "The Sharper Eye - a lightweight VR ReShade preset",
-          "Version": "1.0.0.0"
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/fholger/vrperfkit/releases/download/v0.3/vrperfkit_v0.3.zip"
         }
       }
     },
@@ -6646,13 +6728,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "XxHdJqmG/zI=",
-        "Meta": "[General]\ndirectURL=https://github.com/rollingrock/EngineFixesVR/releases/download/v1.20/EngineFixesVR_part2.zip",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62089\nfileID=257389",
         "Name": "EngineFixesVR_part2.zip",
         "Size": 195198,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/rollingrock/EngineFixesVR/releases/download/v1.20/EngineFixesVR_part2.zip"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "rollingrock",
+          "Description": "Port of the popular SSE Engine Fixes to the VR version of the game.",
+          "FileID": 257389,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62089/62089-1642382124-1014904395.png",
+          "IsNSFW": false,
+          "ModID": 62089,
+          "Name": "Engine Fixes VR",
+          "Version": "1.22.0.0"
         }
       }
     },
@@ -7183,6 +7272,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "3RlO+WLGZ04=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59142\nfileID=285008",
+        "Name": "moreHUD Inventory Edition VR-59142-1-0-18-1652997855.7z",
+        "Size": 208774,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ahzaab",
+          "Description": "This mod brings some features from moreHUD into the inventory menu. From your inventory you can now see if enchantments are known by the player and other features. Also increases the Item Card size for mods that have long effect descriptions",
+          "FileID": 285008,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59142/59142-1638023064-564321669.png",
+          "IsNSFW": false,
+          "ModID": 59142,
+          "Name": "moreHUD Inventory Edition VR",
+          "Version": "1.0.18.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UXGnWDdLm+c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=18619\nfileID=155749",
+        "Name": "moreHUD Inventory Edition Loose Version-18619-1-0-18-1597503401.7z",
+        "Size": 205485,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ahzaab",
+          "Description": "This mod brings some features from moreHUD into the inventory menu.  From your inventory you can now see if enchantments are known by the player and other features.  Also increases the Item Card size for mods that have long effect descriptions",
+          "FileID": 155749,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18619/18619-1531625604-468083957.png",
+          "IsNSFW": false,
+          "ModID": 18619,
+          "Name": "moreHUD Inventory Edition",
+          "Version": "1.0.18.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "vnUWfll9eak=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=27503\nfileID=100523",
         "Name": "Natural Colored Map Markers 2K VR-27503-1-1-1564012359.7z",
@@ -7240,6 +7371,27 @@
           "ModID": 13048,
           "Name": "PapyrusUtil SE - Modders Scripting Utility Functions",
           "Version": "3.9.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/sXoz792E6c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=66025\nfileID=316792",
+        "Name": "PLANCK 0.4.3-66025-0-4-3-1663397878.zip",
+        "Size": 4277877,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FlyingParticle",
+          "Description": "Physically-driven animation in Skyrim. Characters interact with physics and can be grabbed, melee hit detection is physically accurate, and much more.",
+          "FileID": 316792,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/66025/66025-1649132253-1750711249.png",
+          "IsNSFW": false,
+          "ModID": 66025,
+          "Name": "PLANCK - Physical Animation and Character Kinetics",
+          "Version": "0.4.3.0"
         }
       }
     },
@@ -9066,20 +9218,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "OkkLVVakit8=",
-        "Meta": "[General]\ndirectURL=https://github.com/angrmgmt/skyui-vr/releases/download/v1.0F-beta.1/SkyUIVR.and.Frostfall.Patch.v1.0F-beta.1.7z",
-        "Name": "SkyUIVR.and.Frostfall.Patch.v1.0F-beta.1.7z",
-        "Size": 393258,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/angrmgmt/skyui-vr/releases/download/v1.0F-beta.1/SkyUIVR.and.Frostfall.Patch.v1.0F-beta.1.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "oooews94lps=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=33518\nfileID=218826",
         "Name": "Souls Do Things 2 VR Compatibility Scripts-33518-2-5-1628102715.7z",
@@ -9090,7 +9228,7 @@
           "Description": "My take on making excess dragon souls useful, ported from LE to SE. Stockpiled souls improve power attacks, shout duration and power. Lose souls on death to revive, or convert souls into perk points. More features in the works.",
           "FileID": 218826,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33518/33518-1628161581-995393008.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33518/33518-1644514532-1895783991.jpeg",
           "IsNSFW": false,
           "ModID": 33518,
           "Name": "Souls Do Things 2 SE - A Dragon Soul Utilities Mod",
@@ -9192,14 +9330,14 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Crithion",
-          "Description": "A reshade preset based on The Sharper Eye that increases the amount of detail and sharpness even more",
+          "Description": "A reshade preset based on The Sharper Eye that increases the amount of detail and sharpness even more. Best with Azurite Weathers.",
           "FileID": 208587,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47989/47989-1617399128-1475410618.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47989/47989-1640044719-530885918.png",
           "IsNSFW": false,
           "ModID": 47989,
           "Name": "VrVision - Performance-friendly sharpening for VR",
-          "Version": "0.0.0.0"
+          "Version": "3.0.0.0"
         }
       }
     },
@@ -9221,6 +9359,22 @@
           "ModID": 31374,
           "Name": "Weapon Throw VR",
           "Version": "1.2.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kWhgT9J4g18=",
+        "Meta": "[General]\ngameName=Skyrim VR\ngameFile=Data\\Interface\\Translate_ENGLISH.txt",
+        "Name": "Data_Interface_Translate_ENGLISH.txt",
+        "Size": 37316,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "Data\\Interface\\Translate_ENGLISH.txt",
+          "GameVersion": "1.4.15.0",
+          "Hash": "kWhgT9J4g18="
         }
       }
     },
@@ -13289,7 +13443,7 @@
         "Size": 7100514,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Teabag86 Janquel",
+          "Author": "Teabag86 Czasior Janquel",
           "Description": "Collection of small compatibility patches with Palaces and Castles Enhanced for load order flexibility, floating object/missing idle cases",
           "FileID": 219766,
           "GameName": "SkyrimSpecialEdition",
@@ -14571,7 +14725,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Crithion",
-          "Description": "Spell Research patches for lesser known spell mods (Overlord) and expanded content (3NPC, Wildcat, etc). Includes a highly recommended altered spell tomes patch.\n\nAlso added my own version of the spell research semi-automatic patch generator for anyone who wants to make more patches.",
+          "Description": "Spell Research patches for lesser known spell mods (Overlord) and expanded content (3NPC, Wildcat, etc).",
           "FileID": 201342,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/48898/48898-1619050651-1380216239.png",
@@ -16140,12 +16294,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "vJV22EnIzPI=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/golden saint sse-30974-1-1576265475.rar_644e1299-81f9-4419-95a7-a497de9b2c58",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=30974\nfileID=116083",
         "Name": "golden saint sse-30974-1-1576265475.rar",
         "Size": 83180794,
         "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/golden%20saint%20sse-30974-1-1576265475.rar_644e1299-81f9-4419-95a7-a497de9b2c58"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mihail and Blad3Zer0",
+          "Description": "",
+          "FileID": 116083,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 30974,
+          "Name": "",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -16624,15 +16786,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "vD9gI+5+QiM=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/AllGUD Output.7z_a988918b-870a-4503-bc9f-3de7e6a04e27",
+        "Meta": "[General]\ndirectURL=https://build.wabbajack.org/authored_files/direct_link/AllGUD%20Output.7z_5165fa42-d207-4e2f-b4e7-e769ff7550eb",
         "Name": "AllGUD Output.7z",
         "Size": 74729591,
         "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/AllGUD%20Output.7z_a988918b-870a-4503-bc9f-3de7e6a04e27"
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://build.wabbajack.org/authored_files/direct_link/AllGUD%20Output.7z_5165fa42-d207-4e2f-b4e7-e769ff7550eb"
         }
       }
     },
@@ -16694,6 +16857,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "N9r0nfh4LFY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=49657\nfileID=202388",
+        "Name": "Clear HUD VR-49657-1-0-0-1620507127.7z",
+        "Size": 759459,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mihaifm",
+          "Description": "Provides an installer that lets you hide certain HUD elements for Skyrim VR based on your personal preference.",
+          "FileID": 202388,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49657/49657-1620505985-2063614098.png",
+          "IsNSFW": false,
+          "ModID": 49657,
+          "Name": "Clear HUD VR",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "sib0aGOJgXI=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=19924\nfileID=69056",
         "Name": "CACO SKSE VR 2.0.10 DLL Patch-19924-1-0-1539371937.7z",
@@ -16730,6 +16914,27 @@
           "ModID": 47189,
           "Name": "ConsoleUtilVR",
           "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jao1Jt8g10U=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59818\nfileID=286092",
+        "Name": "CrashLogger-59818-1-0-0-4-1653384565.7z",
+        "Size": 8404014,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "alandtse",
+          "Description": "Generates crash logs when the game Just Works\u2122. This is a VR port using fudgyduff\u0027s MIT source.",
+          "FileID": 286092,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59818/59818-1639111702-221034218.png",
+          "IsNSFW": false,
+          "ModID": 59818,
+          "Name": "Crash Logger VR",
+          "Version": "1.0.0.4"
         }
       }
     },
@@ -16820,14 +17025,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "YaIn+4POiRw=",
-        "Meta": "[General]\ndirectURL=https://github.com/rollingrock/EngineFixesVR/releases/download/v1.20/EngineFixesVR_part1.zip",
-        "Name": "EngineFixesVR_part1.zip",
-        "Size": 327853,
+        "Hash": "WmWFLxFndKo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62089\nfileID=257472",
+        "Name": "Engine Fixes VR v1.22a-62089-v1-22a-1642433292.zip",
+        "Size": 343775,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/rollingrock/EngineFixesVR/releases/download/v1.20/EngineFixesVR_part1.zip"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "rollingrock",
+          "Description": "Port of the popular SSE Engine Fixes to the VR version of the game.",
+          "FileID": 257472,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62089/62089-1642382124-1014904395.png",
+          "IsNSFW": false,
+          "ModID": 62089,
+          "Name": "Engine Fixes VR",
+          "Version": "1.22.0.0a"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ug22STGuOI8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42441\nfileID=319048",
+        "Name": "Face Discoloration Fix VR-42441-1-0-3-1664040662.7z",
+        "Size": 2231415,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Parapets",
+          "Description": "Eliminates the dreaded \u0022dark face\u0022 issue that occurs when the game encounters FaceGen errors.",
+          "FileID": 319048,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42441/42441-1605535279-972207446.png",
+          "IsNSFW": false,
+          "ModID": 42441,
+          "Name": "Face Discoloration Fix",
+          "Version": "1.0.3.0"
         }
       }
     },
@@ -16870,6 +17103,27 @@
           "ModID": 13956,
           "Name": "FileAccess Interface for Skyrim SE Scripts - FISSES",
           "Version": "1.3.5.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jS/6g3h8hH8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59118\nfileID=283894",
+        "Name": "FEC VR-59118-5-0-5-1652603899.7z",
+        "Size": 4462350,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "alandtse",
+          "Description": "Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects. VR version that requires original FEC to run.",
+          "FileID": 283894,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59118/59118-1637980244-625547496.png",
+          "IsNSFW": false,
+          "ModID": 59118,
+          "Name": "Frozen Electrocuted Combustion VR",
+          "Version": "5.0.5.0"
         }
       }
     },
@@ -17086,6 +17340,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "9W5+Tf0ISd8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58296\nfileID=306523",
+        "Name": "Papyrus Extender VR-58296-5-2-0-1660203265.7z",
+        "Size": 6483695,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "alandtse",
+          "Description": "SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3\u0027s source.",
+          "FileID": 306523,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58296/58296-1636705803-963961914.png",
+          "IsNSFW": false,
+          "ModID": 58296,
+          "Name": "Papyrus Extender VR",
+          "Version": "5.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "fH91N+MDOws=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=19080\nfileID=154909",
         "Name": "RaceMenu VR 0.4.14-19080-0-4-14-1597081369.7z",
@@ -17226,6 +17501,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "OMRDqfDHQzg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59121\nfileID=313610",
+        "Name": "Spell Perk Item Distributor VR-59121-5-2-0-5-1662409987.7z",
+        "Size": 4498527,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "alandtse",
+          "Description": "SKSEVR plugin that can be used to add spells/perks/items/shouts/packages/outfits/keywords/factions to every NPC in the game, using config files.\n\n\n\nThis is the VR version built from po3\u0027s source.",
+          "FileID": 313610,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59121/59121-1637985046-303281334.png",
+          "IsNSFW": false,
+          "ModID": 59121,
+          "Name": "Spell Perk Item Distributor (SPID) VR",
+          "Version": "5.2.0.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "woTcShM0uGo=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=47710\nfileID=222909",
         "Name": "Splashes of Skyrim - 1.3-47710-1-3-1629635300.7z",
@@ -17352,6 +17648,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "0KLUJ/5VKVg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58101\nfileID=318428",
+        "Name": "VR Address Library-58101-v0-51-0-1663817426.7z",
+        "Size": 24839,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "alandtse",
+          "Description": "VR Address Library database for end users. This is intended as a VR replacement for Address Library for SKSE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha.\n\n\n\nThis is not for SSE. This is different from Address Library for SKSE.",
+          "FileID": 318428,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58101/58101-1636346500-1172135015.png",
+          "IsNSFW": false,
+          "ModID": 58101,
+          "Name": "VR Address Library for SKSEVR",
+          "Version": "0.51.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "A1+NKdGvNgU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=33414\nfileID=210239",
         "Name": "Menu Mouse Fix-33414-1-3-0-1624205511.rar",
@@ -17388,6 +17705,27 @@
           "ModID": 26447,
           "Name": "Locational Damage SKSE VR",
           "Version": "0.7.1.0-BETA"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mcU0n3cynIQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=46932\nfileID=191250",
+        "Name": "Locational Damage(SKSE Plugin) 1.0.0 for SkyrimSE-46932-1-0-0-1615646284.7z",
+        "Size": 197986,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Felisky",
+          "Description": "This mod makes it possible to do extra damage and stagger etc. effect depending on the body part when the attack hits the actor. No ESP file.",
+          "FileID": 191250,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46932/46932-1615645943-970202543.jpeg",
+          "IsNSFW": false,
+          "ModID": 46932,
+          "Name": "Locational Damage(SKSE Plugin)",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -17506,7 +17844,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Jonas",
-          "Description": "Mesh replacer for 85 of Skyrim\u0027s original axes, maces, swords and warhammers. Opts for a slimmer and cleaner design, while keeping the original style.",
+          "Description": "Mesh replacer for 105 of Skyrim\u0027s original axes, maces, swords and warhammers. Opts for a slimmer and cleaner design, while keeping the original style.",
           "FileID": 148339,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37737/37737-1593283303-1926078149.jpeg",
@@ -19376,22 +19714,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kWhgT9J4g18=",
-        "Meta": "[General]\ngameName=Skyrim VR\ngameFile=Data\\Interface\\Translate_ENGLISH.txt",
-        "Name": "Data_Interface_Translate_ENGLISH.txt",
-        "Size": 37316,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "Data\\Interface\\Translate_ENGLISH.txt",
-          "GameVersion": "1.4.15.0",
-          "Hash": "kWhgT9J4g18="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "icYDDMfqnhU=",
         "Meta": "[General]\ngameName=Skyrim VR\ngameFile=Data\\Interface\\Translate_FRENCH.txt",
         "Name": "Data_Interface_Translate_FRENCH.txt",
@@ -19554,6 +19876,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "f6ZQZY85hjk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43593\nfileID=175783",
+        "Name": "moreHUDInventoryPatch_AdventureTheme-43593-1-0-1608715889.zip",
+        "Size": 259247,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Leooow",
+          "Description": "Patches the dark ImageCard of MoreHUD Inventory with the  paper style from SkyUI The Adventurer Theme Mod SE",
+          "FileID": 175783,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43593/43593-1608676168-1334066701.png",
+          "IsNSFW": false,
+          "ModID": 43593,
+          "Name": "MoreHUD Inventory Patch for SkyUI The Adventurer Theme Mod SE",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "kylqKA5vN8U=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=35687\nfileID=138542",
         "Name": "VR Bound Bow FX Restored-35687-1-0-1588852179.7z",
@@ -19569,19 +19912,6 @@
           "ModID": 35687,
           "Name": "VR Bound Bow FX Restored",
           "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "zw7DRlJx0o8=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Librum ENB Selector 1.0.7z_5bc457a4-3e44-460e-9ceb-7bda4d79d792",
-        "Name": "Librum ENB Selector 1.0.7z",
-        "Size": 266751034,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Librum%20ENB%20Selector%201.0.7z_5bc457a4-3e44-460e-9ceb-7bda4d79d792"
         }
       }
     },
@@ -19925,12 +20255,20 @@
       "Status": "Valid",
       "Original": {
         "Hash": "nUBZfb1+SNE=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/corprus victims sse 2.1-29208-2-1-1584246608.rar_e9ec4916-1db6-4275-b657-061507e4038b",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=29208\nfileID=128648",
         "Name": "corprus victims sse 2.1-29208-2-1-1584246608.rar",
         "Size": 174576913,
         "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/corprus%20victims%20sse%202.1-29208-2-1-1584246608.rar_e9ec4916-1db6-4275-b657-061507e4038b"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mihail",
+          "Description": "",
+          "FileID": 128648,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 29208,
+          "Name": "",
+          "Version": "2.1.0.0"
         }
       }
     },
@@ -19944,10 +20282,10 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "winedave",
-          "Description": "A new take on Alduin with completely remade textures using high poly - low poly workflow. Optional Particle Lit Eyes. Comes in 4,8 \u0026amp; 16K resolution",
+          "Description": "A new take on Alduin with completely remade textures using high poly - low poly workflow. Optional Particle Lit Eyes. Comes in 2,4,8 \u0026amp; 16K resolution. Eyes in 1 or 2K.",
           "FileID": 203882,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44329/44329-1621188493-187901026.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44329/44329-1641217836-1016773760.png",
           "IsNSFW": false,
           "ModID": 44329,
           "Name": "Deiform Alduin - 16K - ENB Light Particle Effects",
@@ -19965,10 +20303,10 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "winedave",
-          "Description": "A new take on Alduin with completely remade textures using high poly - low poly workflow. Optional Particle Lit Eyes. Comes in 4,8 \u0026amp; 16K resolution",
+          "Description": "A new take on Alduin with completely remade textures using high poly - low poly workflow. Optional Particle Lit Eyes. Comes in 2,4,8 \u0026amp; 16K resolution. Eyes in 1 or 2K.",
           "FileID": 203883,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44329/44329-1621188493-187901026.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44329/44329-1641217836-1016773760.png",
           "IsNSFW": false,
           "ModID": 44329,
           "Name": "Deiform Alduin - 16K - ENB Light Particle Effects",
@@ -20748,7 +21086,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/3144-5-1478436451.jpg",
           "IsNSFW": false,
           "ModID": 3144,
-          "Name": "Real Bows (by DecimusMaximus for SSE)",
+          "Name": "Real Bows for SSE (originally made by DecimusMaximus)",
           "Version": "f1.05"
         }
       }
@@ -20769,7 +21107,7 @@
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/3144-5-1478436451.jpg",
           "IsNSFW": false,
           "ModID": 3144,
-          "Name": "Real Bows (by DecimusMaximus for SSE)",
+          "Name": "Real Bows for SSE (originally made by DecimusMaximus)",
           "Version": "f1.05"
         }
       }
@@ -21582,19 +21920,6 @@
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
           "Url": "https://wabbajack.b-cdn.net/Librum_xLODGen.7z_84c16023-a9a7-4a16-b12c-ac3a2e33ad1b"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tGdghg6+XEs=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/flesh golems (sse) 1.2-27242-1-2-1599964334.rar_8e3e8609-a6d7-454d-a2d2-d3591d773356",
-        "Name": "flesh golems (sse) 1.2-27242-1-2-1599964334.rar",
-        "Size": 52455945,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/flesh%20golems%20(sse)%201.2-27242-1-2-1599964334.rar_8e3e8609-a6d7-454d-a2d2-d3591d773356"
         }
       }
     },
@@ -22788,8 +23113,8 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 2,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/8647463d536aa589_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/8647463d536aa589_large.webp"
 }
