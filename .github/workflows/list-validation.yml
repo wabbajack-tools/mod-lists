@@ -50,7 +50,7 @@ jobs:
         run: dotnet restore Wabbajack.CLI/Wabbajack.CLI.csproj
 
       - name: Run List Validation
-        run: dotnet run --project Wabbajack.CLI/Wabbajack.CLI.csproj -- validate-lists -r ${{ github.workspace }}/mod-lists/reports --other-archives /other_archives
+        run: dotnet run --project Wabbajack.CLI/Wabbajack.CLI.csproj -- validate-lists -r ${{ github.workspace }}/mod-lists/reports
         
       - name: Upload Reports
         uses: stefanzweifel/git-auto-commit-action@v4
