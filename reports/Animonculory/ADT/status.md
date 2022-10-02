@@ -27,14 +27,14 @@
 *  [CrashLogger-59818-1-0-0-4-1653384565.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=286092)
 *  CreationKit.exe
 *  CreationKit.ini
-*  Data_ccBGSSSE001-Fish.bsa
-*  Data_ccBGSSSE001-Fish.esm
-*  Data_ccBGSSSE025-AdvDSGS.bsa
-*  Data_ccBGSSSE025-AdvDSGS.esm
-*  Data_ccBGSSSE037-Curios.bsa
-*  Data_ccBGSSSE037-Curios.esl
-*  Data_ccQDRSSE001-SurvivalMode.bsa
-*  Data_ccQDRSSE001-SurvivalMode.esl
+*  Data_ccbgssse001-fish.bsa
+*  Data_ccbgssse001-fish.esm
+*  Data_ccbgssse025-advdsgs.bsa
+*  Data_ccbgssse025-advdsgs.esm
+*  Data_ccbgssse037-curios.bsa
+*  Data_ccbgssse037-curios.esl
+*  Data_ccqdrsse001-survivalmode.bsa
+*  Data_ccqdrsse001-survivalmode.esl
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
@@ -137,7 +137,7 @@
 *  [Unofficial Creation Kit Patch AE-41195-6-1-1655914180.rar](https://www.nexusmods.com/skyrimspecialedition/mods/41195/?tab=files&file_id=293128)
 *  [Unofficial Skyrim Modder's Patch - USMP SE 2.5.6 Hotfix-49616-2-5-6-1659017825.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49616/?tab=files&file_id=302854)
 *  [Unofficial Skyrim Modder's Patch - USMP SE 2.5.6-49616-2-5-6-1658972154.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49616/?tab=files&file_id=302734)
-*  [Unofficial Skyrim Special Edition Patch-266-4-2-7-1655599279.7z](https://www.nexusmods.com/skyrimspecialedition/mods/266/?tab=files&file_id=292193)
+*  [Unofficial Skyrim Special Edition Patch-266-4-2-8-1663527575.7z](https://www.nexusmods.com/skyrimspecialedition/mods/266/?tab=files&file_id=317360)
 *  [upot anniversary edition-21166-v10-1636943358.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21166/?tab=files&file_id=241623)
 *  [VSCode-win32-x64-1.70.0.zip](https://az764295.vo.msecnd.net/stable/da76f93349a72022ca4670c1b84860304616aaa2/VSCode-win32-x64-1.70.0.zip)
 *  [xLODGen.94.7z](https://authored-files.wabbajack.org/xLODGen.94.7z_f3881fe6-a5d9-4a88-b85d-b2a2d7a88d03/)
