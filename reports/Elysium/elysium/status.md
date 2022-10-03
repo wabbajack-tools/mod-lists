@@ -869,7 +869,7 @@
 *  [Fuz Ro D'oh-15109-1-7-1574514494.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15109/?tab=files&file_id=114169)
 *  [FVAR - CBBE Patch 2k Compressed-43389-0-3-1619067003.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43389/?tab=files&file_id=199550)
 *  [FVAR - Main 2k Compressed-43389-0-3-1619066397.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43389/?tab=files&file_id=199546)
-*  [FYX - 3D Coal in the Shovel-76422-1-0-1-1664788303.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76422/?tab=files&file_id=321262)
+*  [FYX - 3D Coal in the ElSopa Shovel-76422-1-0-1-1664814194.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76422/?tab=files&file_id=321335)
 *  [FYX - 3D Dock Ramp - Parallax-64529-1-0-2-1658382530.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64529/?tab=files&file_id=300796)
 *  [FYX - 3D Farmhouse Walkway - Parallax-64809-1-0-2-1647274189.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64809/?tab=files&file_id=270129)
 *  [FYX - 3D Shack Kit Roofs-67488-1-0-2-1652087913.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67488/?tab=files&file_id=282468)
