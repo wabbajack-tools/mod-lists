@@ -5,7 +5,7 @@
 *  [Markarth HD Retexture.7z](https://authored-files.wabbajack.org/Markarth HD Retexture.7z_9098232b-4285-4989-bb7f-8115ef4e58da)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1067)
+### Valid (1064)
 *  [- Meshes - important-58370-1-0-1637050362.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=241886)
 *  [(Khajiit) Lioness Look SSE CBBE-48041-1-1-1620268829.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48041/?tab=files&file_id=201933)
 *  [(Part 1) SSE Engine Fixes for 1.6.xxx-17230-6-0-2-1637784396.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
@@ -222,8 +222,6 @@
 *  [Creation Club Open Helmets-70992-0-1-7a-1658033298.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70992/?tab=files&file_id=299644)
 *  [Creation Club Open Helmets-70992-0-2-2-1658262088.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70992/?tab=files&file_id=300390)
 *  [Creation Club Open Helmets-70992-0-3-1659151256.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70992/?tab=files&file_id=303257)
-*  CreationKit.exe
-*  CreationKit.ini
 *  [Critter Spawn Congestion Fix 1.2-67276-1-2-1651865683.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67276/?tab=files&file_id=281943)
 *  [Curse of the Vampire SSE-10086-V7-1639275412.zip](https://www.nexusmods.com/skyrimspecialedition/mods/10086/?tab=files&file_id=248378)
 *  [Cuyi's Bosmeri Antlers - ESL-26173-1-2-SSE-1619963503.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26173/?tab=files&file_id=201273)
@@ -1003,7 +1001,6 @@
 *  [Unique Barbas_SSE_1.0-17540-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17540/?tab=files&file_id=55560)
 *  [Unique Map Weather Framework-59919-1-02-1644148372.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59919/?tab=files&file_id=262162)
 *  [Unique Skulls HD - SE 1K-52073-1-1-1626611858.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52073/?tab=files&file_id=215294)
-*  [Unofficial Creation Kit Patch AE-41195-6-1-1655914180.rar](https://www.nexusmods.com/skyrimspecialedition/mods/41195/?tab=files&file_id=293128)
 *  [Unofficial Material Fix - Assorted Mesh Fixes Patch-45597-1-11-1615330821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45597/?tab=files&file_id=190529)
 *  [Unofficial Material Fix Patch-44553-1-0-1611088335.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44553/?tab=files&file_id=180581)
 *  [Unofficial Material Fix-21027-1-17-0-1573377063.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21027/?tab=files&file_id=113020)
