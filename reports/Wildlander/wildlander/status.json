@@ -2,7 +2,7 @@
   "MachineURL": "Wildlander/wildlander",
   "Name": "Wildlander",
   "Version": "1.1.10",
-  "ModListHash": "vH2PLIOjWgs=",
+  "ModListHash": "ZdvF1Ep7+aA=",
   "Archives": [
     {
       "Status": "Valid",
@@ -7105,6 +7105,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "fiMS7vbbpNE=",
+        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Skyrim\\SkyrimPrefs.ini",
+        "Name": "Skyrim_SkyrimPrefs.ini",
+        "Size": 3498,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Skyrim\\SkyrimPrefs.ini",
+          "GameVersion": "1.6.640.0",
+          "Hash": "fiMS7vbbpNE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "V5kpx1pH7mg=",
         "Meta": "[General]\ngameName=skyrim\nmodID=58555\nfileID=1000128912",
         "Name": "Bard Instrumentals Only - Sing Upon Request USKP-58555-1-0.rar",
@@ -11527,22 +11543,6 @@
           "ModID": 62332,
           "Name": "FAL Skin Shaved Version for Female SE",
           "Version": "2.2.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fiMS7vbbpNE=",
-        "Meta": "[General]\ngameName=Skyrim Special Edition\ngameFile=Skyrim\\SkyrimPrefs.ini",
-        "Name": "Skyrim_SkyrimPrefs.ini",
-        "Size": 3498,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Skyrim\\SkyrimPrefs.ini",
-          "GameVersion": "1.6.640.0",
-          "Hash": "fiMS7vbbpNE="
         }
       }
     },

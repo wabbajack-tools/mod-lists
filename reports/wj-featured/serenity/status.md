@@ -1,12 +1,10 @@
 ## Validation Report - Serenity 2 (wj-featured/serenity)
 
 
-### Invalid (2)
-*  [Smooth Combat Non Combat Animation.7z](https://blog.kakaocdn.net/dn/9Tn0e/btq6pI8JGgq/RMxvJoTOF071qWFu9pc04k/Smooth Combat Non Combat Animation.7z?attach=1&knm=tfile.7z)
-*  [Smooth Magic Casting Animation 3.2.7z](https://blog.kakaocdn.net/dn/cyDuii/btq74ntfh9i/FwXmgAkFKizXGmtyVpscZK/Smooth Magic Casting Animation 3.2.7z?attach=1&knm=tfile.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (989)
+### Valid (991)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [000EquanimityLoader.7z](https://wabbajack.b-cdn.net/000EquanimityLoader.7z_21c9caf3-f5b4-4589-bc0e-fde0af7d00e3)
@@ -855,6 +853,8 @@
 *  [Smim - Quality Addon-44388-1-3-1610838572.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44388/?tab=files&file_id=179941)
 *  [SMIM SE 2-08-659-2-08.7z](https://www.nexusmods.com/skyrimspecialedition/mods/659/?tab=files&file_id=59069)
 *  [Smoking Torches and Candles-8607-1-76-1616249774.zip](https://www.nexusmods.com/skyrimspecialedition/mods/8607/?tab=files&file_id=192512)
+*  [Smooth Combat Non Combat Animation.7z](https://blog.kakaocdn.net/dn/9Tn0e/btq6pI8JGgq/RMxvJoTOF071qWFu9pc04k/Smooth Combat Non Combat Animation.7z?attach=1&knm=tfile.7z)
+*  [Smooth Magic Casting Animation 3.2.7z](https://blog.kakaocdn.net/dn/cyDuii/btq74ntfh9i/FwXmgAkFKizXGmtyVpscZK/Smooth Magic Casting Animation 3.2.7z?attach=1&knm=tfile.7z)
 *  [Smooth Random Blocking Animation.7z](https://mega.nz/file/4LxGTALK#7I8XPLnIW0PxR_r_nXMP-9ZUnZ16MlFVMdFdgGy-gF0)
 *  [Smooth Random Magic idle Animation.7z](https://mega.nz/file/IS4EjJhC#inP4yfb3i-UO_sx790OpoFDk81x-WIRf9WcBeKxnmYo)
 *  [Smooth Random Sprint Animation.7z](https://mega.nz/file/8T4ixLCB#YKQw5EDFdL1_e-5G_JB8WgmUkJ8N0kNtpzeOwUHZcZY)
