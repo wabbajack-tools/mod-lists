@@ -330,7 +330,7 @@
 *  Enderal Launcher.exe
 *  [Enderal NPC Overhaul-150-2-3-1-1623079003.zip](https://www.nexusmods.com/enderalspecialedition/mods/150/?tab=files&file_id=676)
 *  [Enderal race patch script-18-1-0-1551535538.7z](https://www.nexusmods.com/enderal/mods/18/?tab=files&file_id=25)
-*  enderal readme.txt
+*  [enderal readme.zip](https://authored-files.wabbajack.org/enderal readme.zip_7c262e4e-d9dd-4283-8deb-90ede954a6dc)
 *  [Enderal SE - Behaviors Pack-1-2-0-9-1634951163.7z](https://www.nexusmods.com/enderalspecialedition/mods/1/?tab=files&file_id=1217)
 *  [Enderal SE - Boneripper Replacer-22-1-00-1615910057.rar](https://www.nexusmods.com/enderalspecialedition/mods/22/?tab=files&file_id=88)
 *  [Enderal SE - Bug Fixes-2-1-32-1646989730.rar](https://www.nexusmods.com/enderalspecialedition/mods/2/?tab=files&file_id=1726)

@@ -2,7 +2,7 @@
   "MachineURL": "wj-featured/somnium",
   "Name": "Somnium",
   "Version": "1.1",
-  "ModListHash": "2nw0G1FmV60=",
+  "ModListHash": "tsHtepFar2I=",
   "Archives": [
     {
       "Status": "Valid",
@@ -4413,16 +4413,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dk/a7XDfnc0=",
-        "Meta": "[General]\ngameName=Enderal Special Edition\ngameFile=enderal readme.txt",
-        "Name": "enderal readme.txt",
-        "Size": 43796,
+        "Hash": "XGLslQzkZks=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enderal readme.zip_7c262e4e-d9dd-4283-8deb-90ede954a6dc",
+        "Name": "enderal readme.zip",
+        "Size": 18463,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "EnderalSpecialEdition",
-          "GameFile": "enderal readme.txt",
-          "GameVersion": "1.5.97.0",
-          "Hash": "dk/a7XDfnc0="
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/enderal%20readme.zip_7c262e4e-d9dd-4283-8deb-90ede954a6dc"
         }
       }
     },
