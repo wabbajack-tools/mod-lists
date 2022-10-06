@@ -52,6 +52,7 @@
 - [Fallout 4 VR](#fallout-4-vr)
   - [Fallout 4 VR Essentials Overhaul](#fallout-4-vr-essentials-overhaul)
 - [Fallout New Vegas](#fallout-new-vegas)
+  - [Capital Punishment](#capital-punishment)
   - [Viva New Vegas](#viva-new-vegas)
 - [Tale Of Two Wastelands](#tale-of-two-wastelands)
   - [The Vault Courier](#the-vault-courier)
@@ -691,6 +692,12 @@ A lite, small modlist for first time FNV players. While not a lot of content, th
 [Simple DLC Delay](https://www.nexusmods.com/newvegas/mods/62779)  
 [GRA Unique Weapons Relocated](https://www.nexusmods.com/newvegas/mods/68153)  
 [JSawyer Ultimate Edition](https://www.nexusmods.com/newvegas/mods/61592)  
+
+***
+
+### [Capital Punishment](https://github.com/TheMrNewVegas/TTWTrueVegas/wiki)
+
+A revamped and realistic take on the Tale of Two Wastelands modification. This modlist includes new animations, textures, gameplay mechanics, and hundreds of other content adding mods. In addition, multiple profiles are available for the player to choose the playstyle they desire. 
 
 ***
 
