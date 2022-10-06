@@ -1,8 +1,8 @@
 {
   "MachineURL": "FO4ME/FO4ME",
   "Name": "Fallout 4 Modding Essentials",
-  "Version": "1.0.16",
-  "ModListHash": "vemj7CcpI08=",
+  "Version": "1.0.17",
+  "ModListHash": "P59zembHNAs=",
   "Archives": [
     {
       "Status": "Valid",
@@ -21,77 +21,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "21h4TOKduN0=",
-        "Meta": "[General]\ndirectURL=https://f4se.silverlock.org/beta/f4se_0_06_23.7z",
-        "Name": "f4se_0_06_23.7z",
-        "Size": 650275,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://f4se.silverlock.org/beta/f4se_0_06_23.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3jExxsJmaT0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=42520\nfileID=221847",
-        "Name": "DavesMods ESP-ESL Explorer-42520-1-13-0620b-1637424621.7z",
-        "Size": 224007,
+        "Hash": "5lnqwWvOd70=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=33946\nfileID=221778",
+        "Name": "xSE PluginPreloader F4 0.2.5.1-33946-0-2-5-1-1637347868.zip",
+        "Size": 2253885,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "a1a3a6a9",
-          "Description": "Get items from ESPs anad ESLs in-game, no more console, FormID and ALT\u002BTAB. Mostly Maintenance builds.",
-          "FileID": 221847,
+          "Author": "Karandra",
+          "Description": "This mod allows preload F4SE plugins before the game initializes.",
+          "FileID": 221778,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/42520/42520-1576108464-850654360.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33946/33946-1637514329-1439127529.png",
           "IsNSFW": false,
-          "ModID": 42520,
-          "Name": "DavesMods - In Game ESP Explorer Maintenance",
-          "Version": "1.13.0621"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "exLxAqh0mXM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=40513\nfileID=163908",
-        "Name": "MTM - Nuka Town East Archway Fix - ESL-40513-1-0-1565157755.7z",
-        "Size": 4727,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MrTroubleMaker",
-          "Description": "Fixes the East Entrance to Nuka-Town USA near Fizztop Mountain\n\n\n\nBonus! \n\n\n\nFixes the ceiling by the broken monorail at Garden terrace",
-          "FileID": 163908,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/40513/40513-1565156975-653421594.jpeg",
-          "IsNSFW": false,
-          "ModID": 40513,
-          "Name": "Nuka-World  - Fixes the East Entrance to Nuka-Town USA near Fizztop Mountain",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kSNeVANR5SQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=31028\nfileID=142837",
-        "Name": "Rusty Face Fix-31028-1-2-1a.zip",
-        "Size": 42057,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Seb263",
-          "Description": "This mod fixes this annoying bug that makes the player\u0027s and NPCs faces turn brown when reloading a savegame. It is completely transparent, autonomous, has no impact on performance and is compatible with any mods.",
-          "FileID": 142837,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/31028/31028-1538773728-194826155.jpeg",
-          "IsNSFW": false,
-          "ModID": 31028,
-          "Name": "Rusty Face Fix",
-          "Version": "1.2.1"
+          "ModID": 33946,
+          "Name": "xSE PluginPreloader F4",
+          "Version": "0.2.5.1"
         }
       }
     },
@@ -119,21 +63,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "h4v4/8ht5u8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=48958\nfileID=237728",
-        "Name": "FallUI - Confirm Boxes-48958-2-2-1-1652616637.rar",
-        "Size": 1465506,
+        "Hash": "NBTHQZMmCYU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=49271\nfileID=198405",
+        "Name": "Deirdre Bugfix-49271-1-0-1609922658.zip",
+        "Size": 1400,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "Overhaul of all confirm box interfaces. Including different designs and styles for many box types (configurable). You can also choose to disable confirms, so it automatically accept without confirmation (like \u0022Yes Im Sure\u0022). Interface covers all languages.",
-          "FileID": 237728,
+          "Author": "LucidLady - robotized",
+          "Description": "Just a few very simple edits that fix Deirdre.",
+          "FileID": 198405,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48958/48958-1619017899-322981148.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49271/49271-1609922467-1605405416.png",
           "IsNSFW": false,
-          "ModID": 48958,
-          "Name": "FallUI - Confirm Boxes (incl. Yes Im Sure)",
-          "Version": "2.1"
+          "ModID": 49271,
+          "Name": "Deirdre Bugfix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "AycGdAGsK7o=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=46036\nfileID=190684",
+        "Name": "Update 1.1-46036-1-1-1599287520.rar",
+        "Size": 24642,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "octodecoy",
+          "Description": "Allows the power armor HUD to be switched based on equipped helmet, or lack of helmet. Currently supports the 5 base game power armor helmets and 37 mod added power armor helmets.",
+          "FileID": 190684,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46036/46036-1596826680-436121568.jpeg",
+          "IsNSFW": false,
+          "ModID": 46036,
+          "Name": "Power Armor HUD Switcher",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4L3TPGaXcOw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=12226\nfileID=142445",
+        "Name": "Settlement Keywords Expanded v1.60-12226-v1-60.zip",
+        "Size": 5204666,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sharlikran",
+          "Description": "Settlement Keywords expands on the current Settlement Menu system offering mod authors even more categories to use for their mods.",
+          "FileID": 142445,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/12226-0-1463024162.jpg",
+          "IsNSFW": false,
+          "ModID": 12226,
+          "Name": "Settlement Keywords Expanded",
+          "Version": "v1.60"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nuohiA/seIQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=41832\nfileID=242781",
+        "Name": "Standalone Workbenches-41832-8-1657266090.7z",
+        "Size": 3123468,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Whisper",
+          "Description": "Adds 13 standalone custom workbenches to the Settlement build-menu. Designed as a modder\u0027s resource, used by my Craft Power Armor, Crafting Rearranged and Shipments Expanded mods.",
+          "FileID": 242781,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41832/41832-1572425650-43362004.jpeg",
+          "IsNSFW": false,
+          "ModID": 41832,
+          "Name": "Standalone Workbenches",
+          "Version": "1.6"
         }
       }
     },
@@ -155,6 +162,62 @@
           "ModID": 35004,
           "Name": "Workshop Framework",
           "Version": "2.0.18a"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3jExxsJmaT0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=42520\nfileID=221847",
+        "Name": "DavesMods ESP-ESL Explorer-42520-1-13-0620b-1637424621.7z",
+        "Size": 224007,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "a1a3a6a9",
+          "Description": "Get items from ESPs anad ESLs in-game, no more console, FormID and ALT\u002BTAB. Mostly Maintenance builds.",
+          "FileID": 221847,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/42520/42520-1576108464-850654360.jpeg",
+          "IsNSFW": false,
+          "ModID": 42520,
+          "Name": "DavesMods - In Game ESP Explorer Maintenance",
+          "Version": "1.13.0621"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "21h4TOKduN0=",
+        "Meta": "[General]\ndirectURL=https://f4se.silverlock.org/beta/f4se_0_06_23.7z",
+        "Name": "f4se_0_06_23.7z",
+        "Size": 650275,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://f4se.silverlock.org/beta/f4se_0_06_23.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Bu4hFha6R78=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51813\nfileID=239593",
+        "Name": "FallUI - HUD-51813-1-6b-1654360309.rar",
+        "Size": 2374183,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "m8r98a4f2",
+          "Description": "A highly configurable HUD. Every widget can be positioned and configured. Configure your design in the in-game layout manager in MCM. Layouts can be shared and imported too.",
+          "FileID": 239593,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51813/51813-1619914903-70759095.png",
+          "IsNSFW": false,
+          "ModID": 51813,
+          "Name": "FallUI - HUD",
+          "Version": "1.4"
         }
       }
     },
@@ -203,42 +266,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "eRaBcpxid4Y=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=41178\nfileID=209407",
-        "Name": "Bullet Counted Reload - v.2.00-41178-2-00-1622713974.zip",
-        "Size": 240029,
+        "Hash": "GYsKX2pVbuE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=47328\nfileID=210053",
+        "Name": "Console Commands Extender-47328-1-2-0-1623433336.zip",
+        "Size": 155958,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "shavkacagarikia",
-          "Description": "Finally, a proper engine-level system for bullet counted reloads with most of the features such a system should have.",
-          "FileID": 209407,
+          "Author": "Ryan",
+          "Description": "This mod adds new commands and overhauls existing commands within the console.",
+          "FileID": 210053,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41178/41178-1568917895-1877786549.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47328/47328-1599730497-1544020672.png",
           "IsNSFW": false,
-          "ModID": 41178,
-          "Name": "Bullet Counted Reload System (BCR)",
-          "Version": "2.00"
+          "ModID": 47328,
+          "Name": "Console Commands Extender",
+          "Version": "1.2.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Bu4hFha6R78=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=51813\nfileID=239593",
-        "Name": "FallUI - HUD-51813-1-6b-1654360309.rar",
-        "Size": 2374183,
+        "Hash": "pxHR5mZYiSg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=49070\nfileID=208446",
+        "Name": "FallUI - Sleep And Wait-49070-1-3-1621691397.rar",
+        "Size": 287385,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "m8r98a4f2",
-          "Description": "A highly configurable HUD. Every widget can be positioned and configured. Configure your design in the in-game layout manager in MCM. Layouts can be shared and imported too.",
-          "FileID": 239593,
+          "Description": "Overhaul of the sleeping and waiting menu for Fallout 4. \n\nDirectly click on your desired wake-up time with target time buttons. See the daylight level at target time in the daytime graph and more. Interface available in all languages.",
+          "FileID": 208446,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51813/51813-1619914903-70759095.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49070/49070-1621691660-2041324943.png",
           "IsNSFW": false,
-          "ModID": 51813,
-          "Name": "FallUI - HUD",
-          "Version": "1.4"
+          "ModID": 49070,
+          "Name": "FallUI - Sleep and Wait",
+          "Version": "1.3"
         }
       }
     },
@@ -287,42 +350,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "aMn8kuFb3ww=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=33947\nfileID=225830",
-        "Name": "PrivateProfileRedirector F4 0.5.3 (Runime 1.10.163)-33947-0-5-3-1641590435.zip",
-        "Size": 160404,
+        "Hash": "Rf5xhr8WAE0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=32735\nfileID=242275",
+        "Name": "ActiveEffects.zip-32735-1-2-6-1656801902.zip",
+        "Size": 416473,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Karandra",
-          "Description": "Speeds up game start by storing INI files in memory instead of opening, parsing and closing the file each time some value from it is needed.",
-          "FileID": 225830,
+          "Author": "Wolfmark",
+          "Description": "Shows on HUD widgets for active effects.\n\nAlso modifies Pip-Boy Stat page to add two new tabs, one for the active effects and one for player\u0027s actor values.\n\nProvides few additional HUD widgets: Clock, Counters, Inventory Weight and Explosives.\n\n\n\nSee the screenshots for details.",
+          "FileID": 242275,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33947/33947-1569070420-1702363259.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/32735/32735-1537623030-1596334804.png",
           "IsNSFW": false,
-          "ModID": 33947,
-          "Name": "PrivateProfileRedirector F4 - Faster game start (INI file cacher)",
-          "Version": "0.5.3"
+          "ModID": 32735,
+          "Name": "Active Effects on HUD",
+          "Version": "1.2.5"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "4PVMiIFzbe8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=9342\nfileID=36765",
-        "Name": "Conduit Connection Fix-9342-1-1.zip",
-        "Size": 65820,
+        "Hash": "6Wql/l6hLVI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27479\nfileID=172411",
+        "Name": "Crafting Highlight Fix 1.8.8-27479-1-8-8-1576067808.zip",
+        "Size": 145150,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TWFH1",
-          "Description": "Fixes wire attach points on power conduits.",
-          "FileID": 36765,
+          "Author": "registrator2000",
+          "Description": "A F4SE plugin that allows you to disable the hardcoded, vision-obscuring shader effect at various workbenches so you can actually see what you\u0027re crafting.\n\n\n\nAlso allows you to change the shader effect for the Power Armor station and robot workbenches to a outline-only shader instead of a full shader.",
+          "FileID": 172411,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/9342-2-1454335861.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27479-0-1508689568.gif",
           "IsNSFW": false,
-          "ModID": 9342,
-          "Name": "Conduit Connection Fix",
-          "Version": "1.1"
+          "ModID": 27479,
+          "Name": "Crafting Highlight Fix",
+          "Version": "1.8.8"
         }
       }
     },
@@ -371,27 +434,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "pxHR5mZYiSg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=49070\nfileID=208446",
-        "Name": "FallUI - Sleep And Wait-49070-1-3-1621691397.rar",
-        "Size": 287385,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "Overhaul of the sleeping and waiting menu for Fallout 4. \n\nDirectly click on your desired wake-up time with target time buttons. See the daylight level at target time in the daytime graph and more. Interface available in all languages.",
-          "FileID": 208446,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49070/49070-1621691660-2041324943.png",
-          "IsNSFW": false,
-          "ModID": 49070,
-          "Name": "FallUI - Sleep and Wait",
-          "Version": "1.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "8Q2+i2H8L4M=",
         "Meta": "[General]\ngameName=fallout4\nmodID=49300\nfileID=239586",
         "Name": "FallUI - Workbench-49300-1-4-1654351293.rar",
@@ -413,21 +455,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "T272hbv5IwY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=46036\nfileID=189791",
-        "Name": "Everything invisible in 3rd Person-46036-1-0-1598216156.rar",
-        "Size": 2289896,
+        "Hash": "yMySLAEZUx4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=1215\nfileID=23537",
+        "Name": "Improved Map with Visible Roads 2.0-1215-2-0.zip",
+        "Size": 7037449,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "octodecoy",
-          "Description": "Allows the power armor HUD to be switched based on equipped helmet, or lack of helmet. Currently supports the 5 base game power armor helmets and 37 mod added power armor helmets.",
-          "FileID": 189791,
+          "Author": "mm137",
+          "Description": "A much better high contrast world map with roads, topography, and waterline all clearly visible.  Optional number grid and regions.",
+          "FileID": 23537,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46036/46036-1596826680-436121568.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/1215-2-1450164932.jpg",
           "IsNSFW": false,
-          "ModID": 46036,
-          "Name": "Power Armor HUD Switcher",
-          "Version": "1.0"
+          "ModID": 1215,
+          "Name": "Improved Map with Visible Roads",
+          "Version": "2.0"
         }
       }
     },
@@ -518,48 +560,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "AycGdAGsK7o=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=46036\nfileID=190684",
-        "Name": "Update 1.1-46036-1-1-1599287520.rar",
-        "Size": 24642,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "octodecoy",
-          "Description": "Allows the power armor HUD to be switched based on equipped helmet, or lack of helmet. Currently supports the 5 base game power armor helmets and 37 mod added power armor helmets.",
-          "FileID": 190684,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46036/46036-1596826680-436121568.jpeg",
-          "IsNSFW": false,
-          "ModID": 46036,
-          "Name": "Power Armor HUD Switcher",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Xr08nO0XNAU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=61437\nfileID=241089",
-        "Name": "LKR and WSW Weapon Patches-61437-1-2-1655760195.7z",
-        "Size": 2537846,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Gozer",
-          "Description": "Patches for weapons to be used with \u0022Lively\u0027s Keyword Resource\u0022 by Livelynightmare AKA Lively, and \u0022Standalone Workbenches\u0022 by bionicyardiff AKA Whisper.",
-          "FileID": 241089,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/61437/61437-1655591700-1371535766.png",
-          "IsNSFW": false,
-          "ModID": 61437,
-          "Name": "LKR and WSW Weapon Patches",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "AUlpZyKLVF0=",
         "Meta": "[General]\ngameName=fallout4\nmodID=40513\nfileID=164322",
         "Name": "MTM - Garden Terrace Ceiling Fixed By Monorail - ESL-40513-1-0-1565774992.7z",
@@ -575,363 +575,6 @@
           "ModID": 40513,
           "Name": "Nuka-World  - Fixes the East Entrance to Nuka-Town USA near Fizztop Mountain",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "qYlLSlIPMq0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=4408\nfileID=113408",
-        "Name": "Power Armor Animation Changes-v1.rar-4408-1-0.rar",
-        "Size": 505,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SomberX",
-          "Description": "Changes the enter and exit animations to be much quicker and an optional \u0022Heroic\u0022 empty idle stance.",
-          "FileID": 113408,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/4408-1-1449208632.jpg",
-          "IsNSFW": false,
-          "ModID": 4408,
-          "Name": "Power Armor Animation Changes",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "y6pMmjgCJyk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=26592\nfileID=172072",
-        "Name": "CCCleaner 1.10.163.0-26592-1-10-163-0-1575573978.zip",
-        "Size": 152122,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Neanka",
-          "Description": "clean all about CC from ur game interface",
-          "FileID": 172072,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26592-0-1504695553.jpg",
-          "IsNSFW": false,
-          "ModID": 26592,
-          "Name": "CCCleaner",
-          "Version": "1.10.163.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "J/ID33GORgg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=60579\nfileID=238079",
-        "Name": "FallUI - Icon Library-60579-1-0-1652975967.rar",
-        "Size": 437318,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "A whole new icon library with many fancy icons for usage in the FallUI mods. Including many customization settings.",
-          "FileID": 238079,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60579/60579-1652974271-226033406.png",
-          "IsNSFW": false,
-          "ModID": 60579,
-          "Name": "FallUI - Icon Library",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "o6oWTouG2sA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=48078\nfileID=194684",
-        "Name": "Weapon Debris Crash Fix-48078-1-2-1605028967.zip",
-        "Size": 48488,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Antonix35",
-          "Description": "Fixed crashes caused by Weapon Debris setting\n\n\n\n\u0418\u0441\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0432\u044B\u043B\u0435\u0442\u043E\u0432 \u043F\u0440\u0438 \u0432\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u043E\u0439 \u043D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0435 \u0022\u041E\u0441\u043A\u043E\u043B\u043A\u0438 \u043E\u0442 \u0432\u044B\u0441\u0442\u0440\u0435\u043B\u043E\u0432\u0022",
-          "FileID": 194684,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48078/48078-1604258720-935354418.jpeg",
-          "IsNSFW": false,
-          "ModID": 48078,
-          "Name": "Weapon Debris Crash Fix",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "dNyNZvgLKLY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53980\nfileID=215300",
-        "Name": "NPC Drinking Fix-53980-1-0-0-1629653826.7z",
-        "Size": 129974,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Elzee",
-          "Description": "Vanilla NPC drinking animations are missing sounds and facial animations. This MOD fix this. For a little immersion.",
-          "FileID": 215300,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53980/53980-1629653474-1100547015.png",
-          "IsNSFW": false,
-          "ModID": 53980,
-          "Name": "NPC Drinking Fix",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "5lnqwWvOd70=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=33946\nfileID=221778",
-        "Name": "xSE PluginPreloader F4 0.2.5.1-33946-0-2-5-1-1637347868.zip",
-        "Size": 2253885,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Karandra",
-          "Description": "This mod allows preload F4SE plugins before the game initializes.",
-          "FileID": 221778,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33946/33946-1637514329-1439127529.png",
-          "IsNSFW": false,
-          "ModID": 33946,
-          "Name": "xSE PluginPreloader F4",
-          "Version": "0.2.5.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "NBTHQZMmCYU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=49271\nfileID=198405",
-        "Name": "Deirdre Bugfix-49271-1-0-1609922658.zip",
-        "Size": 1400,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LucidLady - robotized",
-          "Description": "Just a few very simple edits that fix Deirdre.",
-          "FileID": 198405,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49271/49271-1609922467-1605405416.png",
-          "IsNSFW": false,
-          "ModID": 49271,
-          "Name": "Deirdre Bugfix",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "nuohiA/seIQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=41832\nfileID=242781",
-        "Name": "Standalone Workbenches-41832-8-1657266090.7z",
-        "Size": 3123468,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Whisper",
-          "Description": "Adds 13 standalone custom workbenches to the Settlement build-menu. Designed as a modder\u0027s resource, used by my Craft Power Armor, Crafting Rearranged and Shipments Expanded mods.",
-          "FileID": 242781,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41832/41832-1572425650-43362004.jpeg",
-          "IsNSFW": false,
-          "ModID": 41832,
-          "Name": "Standalone Workbenches",
-          "Version": "1.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Rf5xhr8WAE0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=32735\nfileID=242275",
-        "Name": "ActiveEffects.zip-32735-1-2-6-1656801902.zip",
-        "Size": 416473,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Wolfmark",
-          "Description": "Shows on HUD widgets for active effects.\n\nAlso modifies Pip-Boy Stat page to add two new tabs, one for the active effects and one for player\u0027s actor values.\n\nProvides few additional HUD widgets: Clock, Counters, Inventory Weight and Explosives.\n\n\n\nSee the screenshots for details.",
-          "FileID": 242275,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/32735/32735-1537623030-1596334804.png",
-          "IsNSFW": false,
-          "ModID": 32735,
-          "Name": "Active Effects on HUD",
-          "Version": "1.2.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6Wql/l6hLVI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=27479\nfileID=172411",
-        "Name": "Crafting Highlight Fix 1.8.8-27479-1-8-8-1576067808.zip",
-        "Size": 145150,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "registrator2000",
-          "Description": "A F4SE plugin that allows you to disable the hardcoded, vision-obscuring shader effect at various workbenches so you can actually see what you\u0027re crafting.\n\n\n\nAlso allows you to change the shader effect for the Power Armor station and robot workbenches to a outline-only shader instead of a full shader.",
-          "FileID": 172411,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27479-0-1508689568.gif",
-          "IsNSFW": false,
-          "ModID": 27479,
-          "Name": "Crafting Highlight Fix",
-          "Version": "1.8.8"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "9Ne1z/6GRjg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=43059\nfileID=174483",
-        "Name": "Glowing Glass Fix-43059-1-0-1579223432.rar",
-        "Size": 1255224,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kouta554",
-          "Description": "A really small fix for the glowing glass window that bothered me since i started playing this game. \n\nFor now i just edited one file, so maybe there is still more to fix.\n\nIf i find more, i\u0027ll try to work on it and fix it.",
-          "FileID": 174483,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/43059/43059-1579222897-333175368.png",
-          "IsNSFW": false,
-          "ModID": 43059,
-          "Name": "Glowing Glass Fix",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4L3TPGaXcOw=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=12226\nfileID=142445",
-        "Name": "Settlement Keywords Expanded v1.60-12226-v1-60.zip",
-        "Size": 5204666,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Sharlikran",
-          "Description": "Settlement Keywords expands on the current Settlement Menu system offering mod authors even more categories to use for their mods.",
-          "FileID": 142445,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/12226-0-1463024162.jpg",
-          "IsNSFW": false,
-          "ModID": 12226,
-          "Name": "Settlement Keywords Expanded",
-          "Version": "v1.60"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "GYsKX2pVbuE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=47328\nfileID=210053",
-        "Name": "Console Commands Extender-47328-1-2-0-1623433336.zip",
-        "Size": 155958,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ryan",
-          "Description": "This mod adds new commands and overhauls existing commands within the console.",
-          "FileID": 210053,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47328/47328-1599730497-1544020672.png",
-          "IsNSFW": false,
-          "ModID": 47328,
-          "Name": "Console Commands Extender",
-          "Version": "1.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "yMySLAEZUx4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=1215\nfileID=23537",
-        "Name": "Improved Map with Visible Roads 2.0-1215-2-0.zip",
-        "Size": 7037449,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mm137",
-          "Description": "A much better high contrast world map with roads, topography, and waterline all clearly visible.  Optional number grid and regions.",
-          "FileID": 23537,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/1215-2-1450164932.jpg",
-          "IsNSFW": false,
-          "ModID": 1215,
-          "Name": "Improved Map with Visible Roads",
-          "Version": "2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "CtIk1Lcv/DM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=42985\nfileID=174235",
-        "Name": "Valentine Jaw Sync-42985-1-0-1578874429.7z",
-        "Size": 28646,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "radbeetle",
-          "Description": "a liberal application of wd-40 and a wrench finally got Nick\u0027s jaw unstuck. check out the gifs in the mod description.",
-          "FileID": 174235,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/42985/42985-1578861954-1751475242.png",
-          "IsNSFW": false,
-          "ModID": 42985,
-          "Name": "Valentine Jaw Sync",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PK0TsJNp+kg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=20309\nfileID=93183",
-        "Name": "HUDFramework 1.0f-20309-1-0f.zip",
-        "Size": 287655,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "registrator2000",
-          "Description": "HUDFramework is a UI framework that makes it possible for mods to add new UI elements to the HUD.",
-          "FileID": 93183,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20309-0-1495318464.png",
-          "IsNSFW": false,
-          "ModID": 20309,
-          "Name": "HUDFramework",
-          "Version": "1.0f"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Onp5nCfrItk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=56195\nfileID=236578",
-        "Name": "MCM Settings Manager-56195-1-1-1651532592.rar",
-        "Size": 136804,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "Save, load, transfer, import and export all your MCM settings at once. Transfer settings between savegames, backup your favorite settings, or send your settings to another user!",
-          "FileID": 236578,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56195/56195-1638374233-408174017.png",
-          "IsNSFW": false,
-          "ModID": 56195,
-          "Name": "MCM Settings Manager",
-          "Version": "1.0.3"
         }
       }
     },
@@ -959,20 +602,83 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "U78H3QhDNPQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=17083\nfileID=68401",
-        "Name": "Vault-Tec Lights Mesh Fix-17083-1-0.7z",
-        "Size": 46424,
+        "Hash": "Onp5nCfrItk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56195\nfileID=236578",
+        "Name": "MCM Settings Manager-56195-1-1-1651532592.rar",
+        "Size": 136804,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Anime_Otaku102",
-          "Description": "Fixes the direction of workshop lights in the Vault-Tec Workshop DLC.",
-          "FileID": 68401,
+          "Author": "m8r98a4f2",
+          "Description": "Save, load, transfer, import and export all your MCM settings at once. Transfer settings between savegames, backup your favorite settings, or send your settings to another user!",
+          "FileID": 236578,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/17083-0-1470208444.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56195/56195-1638374233-408174017.png",
           "IsNSFW": false,
-          "ModID": 17083,
-          "Name": "Vault-Tec Lights Mesh Fix",
+          "ModID": 56195,
+          "Name": "MCM Settings Manager",
+          "Version": "1.0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dNyNZvgLKLY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53980\nfileID=215300",
+        "Name": "NPC Drinking Fix-53980-1-0-0-1629653826.7z",
+        "Size": 129974,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Elzee",
+          "Description": "Vanilla NPC drinking animations are missing sounds and facial animations. This MOD fix this. For a little immersion.",
+          "FileID": 215300,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53980/53980-1629653474-1100547015.png",
+          "IsNSFW": false,
+          "ModID": 53980,
+          "Name": "NPC Drinking Fix",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PK0TsJNp+kg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=20309\nfileID=93183",
+        "Name": "HUDFramework 1.0f-20309-1-0f.zip",
+        "Size": 287655,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "registrator2000",
+          "Description": "HUDFramework is a UI framework that makes it possible for mods to add new UI elements to the HUD.",
+          "FileID": 93183,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20309-0-1495318464.png",
+          "IsNSFW": false,
+          "ModID": 20309,
+          "Name": "HUDFramework",
+          "Version": "1.0f"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "J/ID33GORgg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=60579\nfileID=238079",
+        "Name": "FallUI - Icon Library-60579-1-0-1652975967.rar",
+        "Size": 437318,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "m8r98a4f2",
+          "Description": "A whole new icon library with many fancy icons for usage in the FallUI mods. Including many customization settings.",
+          "FileID": 238079,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60579/60579-1652974271-226033406.png",
+          "IsNSFW": false,
+          "ModID": 60579,
+          "Name": "FallUI - Icon Library",
           "Version": "1.0"
         }
       }
@@ -1010,106 +716,6 @@
           "IsNSFW": false,
           "ModID": 40230,
           "Name": "Far Harbor - Cliffs Edge Hotel Wall Rest Ring Lower Fixed",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ipCMN3BS3Xc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=1215\nfileID=54249",
-        "Name": "IMVM - Far Harbor (Darker)-1215-2-0.zip",
-        "Size": 625987,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mm137",
-          "Description": "A much better high contrast world map with roads, topography, and waterline all clearly visible.  Optional number grid and regions.",
-          "FileID": 54249,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/1215-2-1450164932.jpg",
-          "IsNSFW": false,
-          "ModID": 1215,
-          "Name": "Improved Map with Visible Roads",
-          "Version": "2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vSJ86DGuiNU=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld.esm",
-        "Name": "Data_DLCNukaWorld.esm",
-        "Size": 64313805,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\DLCNukaWorld.esm",
-          "GameVersion": "1.10.163.0",
-          "Hash": "vSJ86DGuiNU="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "epKo0NAOlhA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=27216\nfileID=172181",
-        "Name": "Extended Dialogue Interface 1.3.6-27216-1-3-6-1575706721.zip",
-        "Size": 266498,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "reg2k and Neanka",
-          "Description": "The Extended Dialogue Interface removes the hardcoded 4-option limit on dialogue and adds full engine support for any number of player dialogue options.",
-          "FileID": 172181,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27216-0-1507513151.png",
-          "IsNSFW": false,
-          "ModID": 27216,
-          "Name": "Extended Dialogue Interface",
-          "Version": "1.3.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "mpR0sh4GCew=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=44870\nfileID=181124",
-        "Name": "MIRVfix_v1-44870-1-0-1588635572.zip",
-        "Size": 985,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Bradster",
-          "Description": "The MIRV seemed broken, so I made some adjustments that I believe make it better.",
-          "FileID": 181124,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44870/44870-1588634962-1724342680.png",
-          "IsNSFW": false,
-          "ModID": 44870,
-          "Name": "MIRV fix",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "L8B8DSksKP0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=59508\nfileID=234302",
-        "Name": "Chemist Fix-59508-1-0-1649438590.7z",
-        "Size": 364,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Sniper_Giova",
-          "Description": "A patch, compatible with UOF4, in which Nuka-Cola derivatives from Nuka World and Far Harbor work as intended with perks, math corrections and minor fixes.\n\nOptionals: Chemist Radiation Damage fix and Ice Cold Drinks Quenches Thirst.",
-          "FileID": 234302,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/59508/59508-1649438412-472418151.jpeg",
-          "IsNSFW": false,
-          "ModID": 59508,
-          "Name": "NukaCola and Beverages Fix",
           "Version": "1.0"
         }
       }
@@ -1201,37 +807,100 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "mELqCS1kesE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=1215\nfileID=73042",
-        "Name": "IMVR - Nuka World (Darker)-1215-1.zip",
-        "Size": 572846,
+        "Hash": "CtIk1Lcv/DM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=42985\nfileID=174235",
+        "Name": "Valentine Jaw Sync-42985-1-0-1578874429.7z",
+        "Size": 28646,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mm137",
-          "Description": "A much better high contrast world map with roads, topography, and waterline all clearly visible.  Optional number grid and regions.",
-          "FileID": 73042,
+          "Author": "radbeetle",
+          "Description": "a liberal application of wd-40 and a wrench finally got Nick\u0027s jaw unstuck. check out the gifs in the mod description.",
+          "FileID": 174235,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/1215-2-1450164932.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/42985/42985-1578861954-1751475242.png",
           "IsNSFW": false,
-          "ModID": 1215,
-          "Name": "Improved Map with Visible Roads",
-          "Version": "2.0"
+          "ModID": 42985,
+          "Name": "Valentine Jaw Sync",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "teoU9OialzM=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot.esm",
-        "Name": "Data_DLCRobot.esm",
-        "Size": 8012051,
+        "Hash": "vSJ86DGuiNU=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld.esm",
+        "Name": "Data_DLCNukaWorld.esm",
+        "Size": 64313805,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCRobot.esm",
+          "GameFile": "Data\\DLCNukaWorld.esm",
           "GameVersion": "1.10.163.0",
-          "Hash": "teoU9OialzM="
+          "Hash": "vSJ86DGuiNU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "epKo0NAOlhA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27216\nfileID=172181",
+        "Name": "Extended Dialogue Interface 1.3.6-27216-1-3-6-1575706721.zip",
+        "Size": 266498,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "reg2k and Neanka",
+          "Description": "The Extended Dialogue Interface removes the hardcoded 4-option limit on dialogue and adds full engine support for any number of player dialogue options.",
+          "FileID": 172181,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27216-0-1507513151.png",
+          "IsNSFW": false,
+          "ModID": 27216,
+          "Name": "Extended Dialogue Interface",
+          "Version": "1.3.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mpR0sh4GCew=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=44870\nfileID=181124",
+        "Name": "MIRVfix_v1-44870-1-0-1588635572.zip",
+        "Size": 985,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Bradster",
+          "Description": "The MIRV seemed broken, so I made some adjustments that I believe make it better.",
+          "FileID": 181124,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44870/44870-1588634962-1724342680.png",
+          "IsNSFW": false,
+          "ModID": 44870,
+          "Name": "MIRV fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "L8B8DSksKP0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=59508\nfileID=234302",
+        "Name": "Chemist Fix-59508-1-0-1649438590.7z",
+        "Size": 364,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sniper_Giova",
+          "Description": "A patch, compatible with UOF4, in which Nuka-Cola derivatives from Nuka World and Far Harbor work as intended with perks, math corrections and minor fixes.\n\nOptionals: Chemist Radiation Damage fix and Ice Cold Drinks Quenches Thirst.",
+          "FileID": 234302,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/59508/59508-1649438412-472418151.jpeg",
+          "IsNSFW": false,
+          "ModID": 59508,
+          "Name": "NukaCola and Beverages Fix",
+          "Version": "1.0"
         }
       }
     },
@@ -1259,37 +928,37 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KVXMqAjE06s=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=58416\nfileID=230756",
-        "Name": "Persistent Volume Sliders-58416-1-1-1645852559.7z",
-        "Size": 8014,
+        "Hash": "U78H3QhDNPQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=17083\nfileID=68401",
+        "Name": "Vault-Tec Lights Mesh Fix-17083-1-0.7z",
+        "Size": 46424,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "spacefiddle",
-          "Description": "Uses MCM to get around the Bethesda 8-slider limit, lets your mods save their volume slider positions between sessions. Also adds a Mute function for Vanilla sound channels, and Hotkeys built-in!",
-          "FileID": 230756,
+          "Author": "Anime_Otaku102",
+          "Description": "Fixes the direction of workshop lights in the Vault-Tec Workshop DLC.",
+          "FileID": 68401,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/58416/58416-1645796923-362600167.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/17083-0-1470208444.jpg",
           "IsNSFW": false,
-          "ModID": 58416,
-          "Name": "Persistent Volume Sliders",
-          "Version": "1.1"
+          "ModID": 17083,
+          "Name": "Vault-Tec Lights Mesh Fix",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "JacRtCQOixw=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop01.esm",
-        "Name": "Data_DLCworkshop01.esm",
-        "Size": 633592,
+        "Hash": "teoU9OialzM=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot.esm",
+        "Name": "Data_DLCRobot.esm",
+        "Size": 8012051,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCworkshop01.esm",
+          "GameFile": "Data\\DLCRobot.esm",
           "GameVersion": "1.10.163.0",
-          "Hash": "JacRtCQOixw="
+          "Hash": "teoU9OialzM="
         }
       }
     },
@@ -1380,21 +1049,121 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "jwPodmbgFGE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=18714\nfileID=75939",
-        "Name": "Novatron Torso Fix-18714-1-0.rar",
-        "Size": 588,
+        "Hash": "ipCMN3BS3Xc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=1215\nfileID=54249",
+        "Name": "IMVM - Far Harbor (Darker)-1215-2-0.zip",
+        "Size": 625987,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Thanatos001",
-          "Description": "Material fix for Novatron Torso",
-          "FileID": 75939,
+          "Author": "mm137",
+          "Description": "A much better high contrast world map with roads, topography, and waterline all clearly visible.  Optional number grid and regions.",
+          "FileID": 54249,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/18714-0-1474682947.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/1215-2-1450164932.jpg",
           "IsNSFW": false,
-          "ModID": 18714,
-          "Name": "Nuka World Novatron Assaultron Torso Fix",
+          "ModID": 1215,
+          "Name": "Improved Map with Visible Roads",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JacRtCQOixw=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop01.esm",
+        "Name": "Data_DLCworkshop01.esm",
+        "Size": 633592,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCworkshop01.esm",
+          "GameVersion": "1.10.163.0",
+          "Hash": "JacRtCQOixw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "k81sTVkABr8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=40553\nfileID=164068",
+        "Name": "MTM - Slocum Joe Corporate HQ Reception Ceiling Fixed - ESL-40553-1-0-1565336678.7z",
+        "Size": 18876,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MrTroubleMaker",
+          "Description": "Fixes the receptionist ceiling at Slocum Joe Corporate HQ\n\n\n\nBonus!\n\n\n\nFixes the Fens Parkview Apartment Wall",
+          "FileID": 164068,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/40553/40553-1565335463-1756404765.jpeg",
+          "IsNSFW": false,
+          "ModID": 40553,
+          "Name": "Slocum Joe Corporate HQ Reception Ceiling Fixed",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oLVE7pRGbnc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=52515\nfileID=210692",
+        "Name": "Fallout Priority 3.0.0-52515-3-0-0-1624187291.zip",
+        "Size": 59401,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "boring3",
+          "Description": "Make Fallout 4 always take most of CPU usage\n\nIncrease FPS and Prevent suddenly lag caused by other processes",
+          "FileID": 210692,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52515/52515-1623153863-1059849445.png",
+          "IsNSFW": false,
+          "ModID": 52515,
+          "Name": "Fallout Priority - f4se plugin",
+          "Version": "3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "y6pMmjgCJyk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=26592\nfileID=172072",
+        "Name": "CCCleaner 1.10.163.0-26592-1-10-163-0-1575573978.zip",
+        "Size": 152122,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Neanka",
+          "Description": "clean all about CC from ur game interface",
+          "FileID": 172072,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26592-0-1504695553.jpg",
+          "IsNSFW": false,
+          "ModID": 26592,
+          "Name": "CCCleaner",
+          "Version": "1.10.163.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mELqCS1kesE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=1215\nfileID=73042",
+        "Name": "IMVR - Nuka World (Darker)-1215-1.zip",
+        "Size": 572846,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mm137",
+          "Description": "A much better high contrast world map with roads, topography, and waterline all clearly visible.  Optional number grid and regions.",
+          "FileID": 73042,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/1215-2-1450164932.jpg",
+          "IsNSFW": false,
+          "ModID": 1215,
+          "Name": "Improved Map with Visible Roads",
+          "Version": "2.0"
         }
       }
     },
@@ -1459,42 +1228,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "k81sTVkABr8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=40553\nfileID=164068",
-        "Name": "MTM - Slocum Joe Corporate HQ Reception Ceiling Fixed - ESL-40553-1-0-1565336678.7z",
-        "Size": 18876,
+        "Hash": "Ba8gpxkxUjE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=26582\nfileID=120757",
+        "Name": "Better Console-26582-v1-4-0.7z",
+        "Size": 196118,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MrTroubleMaker",
-          "Description": "Fixes the receptionist ceiling at Slocum Joe Corporate HQ\n\n\n\nBonus!\n\n\n\nFixes the Fens Parkview Apartment Wall",
-          "FileID": 164068,
+          "Author": "Kassent",
+          "Description": "This is a F4SE plugin which makes console menu show extra useful infomation about selected target,for example, target\u0027s name, ID, baseID, mod name and so on.This plugin also add some extra info lists to console to show selected actor\u0027s all kinds of info like factions, perks, active effects, actor values, equipments and so on.",
+          "FileID": 120757,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/40553/40553-1565335463-1756404765.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26582-0-1504651363.jpg",
           "IsNSFW": false,
-          "ModID": 40553,
-          "Name": "Slocum Joe Corporate HQ Reception Ceiling Fixed",
-          "Version": "1.0"
+          "ModID": 26582,
+          "Name": "Better Console - F4SE",
+          "Version": "v1.4.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "oLVE7pRGbnc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=52515\nfileID=210692",
-        "Name": "Fallout Priority 3.0.0-52515-3-0-0-1624187291.zip",
-        "Size": 59401,
+        "Hash": "KVXMqAjE06s=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=58416\nfileID=230756",
+        "Name": "Persistent Volume Sliders-58416-1-1-1645852559.7z",
+        "Size": 8014,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "boring3",
-          "Description": "Make Fallout 4 always take most of CPU usage\n\nIncrease FPS and Prevent suddenly lag caused by other processes",
-          "FileID": 210692,
+          "Author": "spacefiddle",
+          "Description": "Uses MCM to get around the Bethesda 8-slider limit, lets your mods save their volume slider positions between sessions. Also adds a Mute function for Vanilla sound channels, and Hotkeys built-in!",
+          "FileID": 230756,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52515/52515-1623153863-1059849445.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/58416/58416-1645796923-362600167.png",
           "IsNSFW": false,
-          "ModID": 52515,
-          "Name": "Fallout Priority - f4se plugin",
-          "Version": "3.0.0"
+          "ModID": 58416,
+          "Name": "Persistent Volume Sliders",
+          "Version": "1.1"
         }
       }
     },
@@ -1559,48 +1328,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Ba8gpxkxUjE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=26582\nfileID=120757",
-        "Name": "Better Console-26582-v1-4-0.7z",
-        "Size": 196118,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kassent",
-          "Description": "This is a F4SE plugin which makes console menu show extra useful infomation about selected target,for example, target\u0027s name, ID, baseID, mod name and so on.This plugin also add some extra info lists to console to show selected actor\u0027s all kinds of info like factions, perks, active effects, actor values, equipments and so on.",
-          "FileID": 120757,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26582-0-1504651363.jpg",
-          "IsNSFW": false,
-          "ModID": 26582,
-          "Name": "Better Console - F4SE",
-          "Version": "v1.4.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "OqWsN/hX2DI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=19967\nfileID=87095",
-        "Name": "No DLC vanilla radiants-19967-1-11.zip",
-        "Size": 27904,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "rylasasin",
-          "Description": "No more \u0022cleansing the Commonwealth\u0022 in Maine. No more courser hunts in Nuka-Galaxy. No more sending squires to the kiddie park.",
-          "FileID": 87095,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/19967-0-1479110877.jpg",
-          "IsNSFW": false,
-          "ModID": 19967,
-          "Name": "Keep Commonwealth Radiant quests within the Commonwealth",
-          "Version": "1.11"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Vj0mBnWYYDs=",
         "Meta": "[General]\ngameName=fallout4\nmodID=51487\nfileID=223642",
         "Name": "Patches for LKR and WSW-51487-2-0-1639283012.7z",
@@ -1637,6 +1364,90 @@
           "ModID": 27019,
           "Name": "RAW INPUT - The Ultimate Mouse Sensitivity Fix",
           "Version": "2.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "h4v4/8ht5u8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=48958\nfileID=237728",
+        "Name": "FallUI - Confirm Boxes-48958-2-2-1-1652616637.rar",
+        "Size": 1465506,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "m8r98a4f2",
+          "Description": "Overhaul of all confirm box interfaces. Including different designs and styles for many box types (configurable). You can also choose to disable confirms, so it automatically accept without confirmation (like \u0022Yes Im Sure\u0022). Interface covers all languages.",
+          "FileID": 237728,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48958/48958-1619017899-322981148.png",
+          "IsNSFW": false,
+          "ModID": 48958,
+          "Name": "FallUI - Confirm Boxes (incl. Yes Im Sure)",
+          "Version": "2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jwPodmbgFGE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=18714\nfileID=75939",
+        "Name": "Novatron Torso Fix-18714-1-0.rar",
+        "Size": 588,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Thanatos001",
+          "Description": "Material fix for Novatron Torso",
+          "FileID": 75939,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/18714-0-1474682947.jpg",
+          "IsNSFW": false,
+          "ModID": 18714,
+          "Name": "Nuka World Novatron Assaultron Torso Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OqWsN/hX2DI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=19967\nfileID=87095",
+        "Name": "No DLC vanilla radiants-19967-1-11.zip",
+        "Size": 27904,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "rylasasin",
+          "Description": "No more \u0022cleansing the Commonwealth\u0022 in Maine. No more courser hunts in Nuka-Galaxy. No more sending squires to the kiddie park.",
+          "FileID": 87095,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/19967-0-1479110877.jpg",
+          "IsNSFW": false,
+          "ModID": 19967,
+          "Name": "Keep Commonwealth Radiant quests within the Commonwealth",
+          "Version": "1.11"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4PVMiIFzbe8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=9342\nfileID=36765",
+        "Name": "Conduit Connection Fix-9342-1-1.zip",
+        "Size": 65820,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TWFH1",
+          "Description": "Fixes wire attach points on power conduits.",
+          "FileID": 36765,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/9342-2-1454335861.jpg",
+          "IsNSFW": false,
+          "ModID": 9342,
+          "Name": "Conduit Connection Fix",
+          "Version": "1.1"
         }
       }
     },
@@ -1727,27 +1538,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "e9tuXW5wKIU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=21488\nfileID=110715",
-        "Name": "Reload Fix-21488-1-1.rar",
-        "Size": 25968,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Peasly Wellbott",
-          "Description": "Fixes a horrible bug which can cause inappropriate reloading when transitioning from 1st person to 3rd person. Shoot and scoot in relative safety!",
-          "FileID": 110715,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/21488-0-1485065060.png",
-          "IsNSFW": false,
-          "ModID": 21488,
-          "Name": "1st to 3rd Person Forced Reload Fix",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "hpV4WMZxDvA=",
         "Meta": "[General]\ngameName=fallout4\nmodID=36762\nfileID=149499",
         "Name": "RiverFixESL_1.1-36762-1-1-1546798268.7z",
@@ -1769,21 +1559,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "4EGffrJZI/4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=27582\nfileID=139005",
-        "Name": "Alex\u0027s Male First Person Camera Height Fix-27582-2-0.zip",
-        "Size": 8498,
+        "Hash": "aMn8kuFb3ww=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=33947\nfileID=225830",
+        "Name": "PrivateProfileRedirector F4 0.5.3 (Runime 1.10.163)-33947-0-5-3-1641590435.zip",
+        "Size": 160404,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Alex me lol",
-          "Description": "Adjust the eyeheight in first person if you play as a male character.",
-          "FileID": 139005,
+          "Author": "Karandra",
+          "Description": "Speeds up game start by storing INI files in memory instead of opening, parsing and closing the file each time some value from it is needed.",
+          "FileID": 225830,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27582/27582-1529561717-633053722.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33947/33947-1569070420-1702363259.png",
           "IsNSFW": false,
-          "ModID": 27582,
-          "Name": "Alex\u0027s Male First Person Camera Height Fix",
-          "Version": "1.0"
+          "ModID": 33947,
+          "Name": "PrivateProfileRedirector F4 - Faster game start (INI file cacher)",
+          "Version": "0.5.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8KmlVewTXi4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=44683\nfileID=180417",
+        "Name": "Vault 81 GOAT Sequence Patch 1.1-44683-1-1-1587946326.7z",
+        "Size": 1048,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CreatyChameleon",
+          "Description": "This mod simply restores the mildly completely broken GOAT sequence within Vault 81\u0027s class.",
+          "FileID": 180417,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44683/44683-1587893576-1393745504.jpeg",
+          "IsNSFW": false,
+          "ModID": 44683,
+          "Name": "Vault 81 - GOAT Sequence Patch",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eRaBcpxid4Y=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=41178\nfileID=209407",
+        "Name": "Bullet Counted Reload - v.2.00-41178-2-00-1622713974.zip",
+        "Size": 240029,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "shavkacagarikia",
+          "Description": "Finally, a proper engine-level system for bullet counted reloads with most of the features such a system should have.",
+          "FileID": 209407,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41178/41178-1568917895-1877786549.png",
+          "IsNSFW": false,
+          "ModID": 41178,
+          "Name": "Bullet Counted Reload System (BCR)",
+          "Version": "2.00"
         }
       }
     },
@@ -1811,21 +1643,168 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8KmlVewTXi4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=44683\nfileID=180417",
-        "Name": "Vault 81 GOAT Sequence Patch 1.1-44683-1-1-1587946326.7z",
-        "Size": 1048,
+        "Hash": "exLxAqh0mXM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=40513\nfileID=163908",
+        "Name": "MTM - Nuka Town East Archway Fix - ESL-40513-1-0-1565157755.7z",
+        "Size": 4727,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CreatyChameleon",
-          "Description": "This mod simply restores the mildly completely broken GOAT sequence within Vault 81\u0027s class.",
-          "FileID": 180417,
+          "Author": "MrTroubleMaker",
+          "Description": "Fixes the East Entrance to Nuka-Town USA near Fizztop Mountain\n\n\n\nBonus! \n\n\n\nFixes the ceiling by the broken monorail at Garden terrace",
+          "FileID": 163908,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44683/44683-1587893576-1393745504.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/40513/40513-1565156975-653421594.jpeg",
           "IsNSFW": false,
-          "ModID": 44683,
-          "Name": "Vault 81 - GOAT Sequence Patch",
+          "ModID": 40513,
+          "Name": "Nuka-World  - Fixes the East Entrance to Nuka-Town USA near Fizztop Mountain",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kSNeVANR5SQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=31028\nfileID=142837",
+        "Name": "Rusty Face Fix-31028-1-2-1a.zip",
+        "Size": 42057,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Seb263",
+          "Description": "This mod fixes this annoying bug that makes the player\u0027s and NPCs faces turn brown when reloading a savegame. It is completely transparent, autonomous, has no impact on performance and is compatible with any mods.",
+          "FileID": 142837,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/31028/31028-1538773728-194826155.jpeg",
+          "IsNSFW": false,
+          "ModID": 31028,
+          "Name": "Rusty Face Fix",
+          "Version": "1.2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "e9tuXW5wKIU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=21488\nfileID=110715",
+        "Name": "Reload Fix-21488-1-1.rar",
+        "Size": 25968,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Peasly Wellbott",
+          "Description": "Fixes a horrible bug which can cause inappropriate reloading when transitioning from 1st person to 3rd person. Shoot and scoot in relative safety!",
+          "FileID": 110715,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/21488-0-1485065060.png",
+          "IsNSFW": false,
+          "ModID": 21488,
+          "Name": "1st to 3rd Person Forced Reload Fix",
           "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qYlLSlIPMq0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=4408\nfileID=113408",
+        "Name": "Power Armor Animation Changes-v1.rar-4408-1-0.rar",
+        "Size": 505,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SomberX",
+          "Description": "Changes the enter and exit animations to be much quicker and an optional \u0022Heroic\u0022 empty idle stance.",
+          "FileID": 113408,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/4408-1-1449208632.jpg",
+          "IsNSFW": false,
+          "ModID": 4408,
+          "Name": "Power Armor Animation Changes",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "o6oWTouG2sA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=48078\nfileID=194684",
+        "Name": "Weapon Debris Crash Fix-48078-1-2-1605028967.zip",
+        "Size": 48488,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Antonix35",
+          "Description": "Fixed crashes caused by Weapon Debris setting\n\n\n\n\u0418\u0441\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0432\u044B\u043B\u0435\u0442\u043E\u0432 \u043F\u0440\u0438 \u0432\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u043E\u0439 \u043D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0435 \u0022\u041E\u0441\u043A\u043E\u043B\u043A\u0438 \u043E\u0442 \u0432\u044B\u0441\u0442\u0440\u0435\u043B\u043E\u0432\u0022",
+          "FileID": 194684,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48078/48078-1604258720-935354418.jpeg",
+          "IsNSFW": false,
+          "ModID": 48078,
+          "Name": "Weapon Debris Crash Fix",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4EGffrJZI/4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27582\nfileID=139005",
+        "Name": "Alex\u0027s Male First Person Camera Height Fix-27582-2-0.zip",
+        "Size": 8498,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Alex me lol",
+          "Description": "Adjust the eyeheight in first person if you play as a male character.",
+          "FileID": 139005,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27582/27582-1529561717-633053722.png",
+          "IsNSFW": false,
+          "ModID": 27582,
+          "Name": "Alex\u0027s Male First Person Camera Height Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Xr08nO0XNAU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=61437\nfileID=241089",
+        "Name": "LKR and WSW Weapon Patches-61437-1-2-1655760195.7z",
+        "Size": 2537846,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Gozer",
+          "Description": "Patches for weapons to be used with \u0022Lively\u0027s Keyword Resource\u0022 by Livelynightmare AKA Lively, and \u0022Standalone Workbenches\u0022 by bionicyardiff AKA Whisper.",
+          "FileID": 241089,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/61437/61437-1655591700-1371535766.png",
+          "IsNSFW": false,
+          "ModID": 61437,
+          "Name": "LKR and WSW Weapon Patches",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9Ne1z/6GRjg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=43059\nfileID=174483",
+        "Name": "Glowing Glass Fix-43059-1-0-1579223432.rar",
+        "Size": 1255224,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kouta554",
+          "Description": "A really small fix for the glowing glass window that bothered me since i started playing this game. \n\nFor now i just edited one file, so maybe there is still more to fix.\n\nIf i find more, i\u0027ll try to work on it and fix it.",
+          "FileID": 174483,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/43059/43059-1579222897-333175368.png",
+          "IsNSFW": false,
+          "ModID": 43059,
+          "Name": "Glowing Glass Fix",
+          "Version": "1.0"
         }
       }
     }
