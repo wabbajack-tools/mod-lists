@@ -11,6 +11,7 @@
   - [Animonculory Dev Tools (ADT)](#animonculory-dev-tools)
   - [Animonculory Visual Overhaul (AVO)](#animonculory-visual-overhaul)
   - [Arkay's Commandment](#arkays-commandment)
+  - [Do Not Go Gentle](#do-not-go-gentle)
   - [Elysium](#elysium-remastered)
   - [Journey](#journey)
   - [Keizaal](#keizaal)
@@ -121,6 +122,24 @@ My personal mod list that I play with, utilizing Requiem and 3Tweaks, focused on
 
 ***
 
+### [Do Not Go Gentle](https://github.com/Arkay-1248/Do-Not-Go-Gentle)
+
+Do Not Go Gentle started off as a personal list that was built off of AVO-AE with Requiem. Eventually, I liked what I had built enough to share with others. You'll see a different choice of followers than the usual, quest additions, vanilla quest tweaks/enhancements, a full combat overhaul, a religion overhaul, along with npc replacers, a full visual overhaul based on AVO-AE, and lots of character customization options.
+
+This list is designed as Requiem modlist with [Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [VIGILANT](https://www.nexusmods.com/skyrimspecialedition/mods/11849), and lots of other additions to extend the life of your character playthrough. I did not build this to be a painful list to play, but Requiem does make you plan out your actions more than vanilla Skyrim. I find my build to be a reasonable balance between difficulty and enjoyment, and maybe you will too. 
+
+**_Mods to get familiar with:_**
+
+- [Requiem](https://www.nexusmods.com/skyrim/mods/19281)
+- [Requiem - Noxcrab's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42591)
+- [Requiem - Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/59302)
+- [Requiem - Scions of the Night](https://www.nexusmods.com/skyrimspecialedition/mods/61487)
+- [Horizon Zero Dawn Fast Travel](https://www.nexusmods.com/skyrimspecialedition/mods/35793)
+- [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099)
+- [Modern Combat Overhaul - ADXP | MCO](https://www.skyrim-guild.com/distar/mods/attack) and [SCAR](https://www.nexusmods.com/skyrimspecialedition/mods/72014)
+- [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/30410)
+
+***
 ### [Elysium Remastered](https://github.com/TitansBane/Elysium-Remastered)
 
 From TitansBane, the author of [Reliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612), comes Elysium: what started as a simple off-shoot of The Phoenix Flavour has grown into its own massive undertaking. Elysium has taken its predecessor and packed it full of more content, including mods like [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802), [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194), a full suite of [EnaiSiaion](https://www.nexusmods.com/skyrimspecialedition/users/3959191)’s mods, and an optional MO2 profile that supports all of your Creation Club content - all without sacrificing the stability that TPF is known for.
