@@ -1,12 +1,13 @@
 ## Validation Report - Arisen (Arisen/arisen)
 
 
-### Invalid (2)
+### Invalid (3)
+*  [【Weapon】Elden Ring - Royal Greatsword.7z](https://www.patreon.com/file?h=68668550&i=11200681)
 *  [【Weapon】Elden Ring - Spear.7z](https://drive.google.com/uc?id=1ZEB7-JAPY5OuLESb8jbKLgl57tru5RbX&export=download)
 *  [【Weapon】EldenRing_Black Knife and Godslayer's Greatsword.7z](https://drive.google.com/uc?id=19nDoNyeK0KBt8HcoxkOa8YHbgnecPdgP&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2369)
+### Valid (2368)
 *  [(1) SBP SE - Simple Belly Paints - 2K-22811-1-1-1548197078.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79308)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -21,7 +22,6 @@
 *  [[Christine] Forsworn Retribution.7z](http://www.mediafire.com/file/pki7oc0ybjovifw/%255BChristine%255D_Forsworn_Retribution.7z/file)
 *  [[Dint999] BDOR Hairs SSE 0.4.7z](https://authored-files.wabbajack.org/[Dint999] BDOR Hairs SSE 0.4.7z_c312844b-2aba-49fe-ba33-9a298a42328c)
 *  [【Weapon】Elden Ring - Halberd.7z](https://www.patreon.com/file?h=68559197&i=11129178)
-*  [【Weapon】Elden Ring - Royal Greatsword.7z](https://www.patreon.com/file?h=68668550&i=11200681)
 *  [【Weapon】Elden Ring-Hand of Malenia.7z](https://www.patreon.com/file?h=72630858&i=11888214)
 *  [【Weapon】EldenRing_twinblade.7z](https://www.patreon.com/file?h=69418463&i=11393448)
 *  [0) Missile's IED Presets AIO-67770-1-1-1652306024.zip](https://www.nexusmods.com/skyrimspecialedition/mods/67770/?tab=files&file_id=283001)
