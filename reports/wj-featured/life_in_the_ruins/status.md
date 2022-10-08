@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (813)
+### Valid (812)
 *  [1-handed Version-11142-1-2.7z](https://www.nexusmods.com/fallout4/mods/11142/?tab=files&file_id=50631)
 *  [2k - bottles label overhaul v0.9.1-1500-0-9-1.7z](https://www.nexusmods.com/fallout4/mods/1500/?tab=files&file_id=25000)
 *  [2k esl-48567-1-1606107463.rar](https://www.nexusmods.com/fallout4/mods/48567/?tab=files&file_id=195516)
@@ -488,7 +488,6 @@
 *  [Makeshift Nailgun-59089-2-0-1648451550.zip](https://www.nexusmods.com/fallout4/mods/59089/?tab=files&file_id=233206)
 *  [Makeshift SMG Patch-51233-1-1648974397.7z](https://www.nexusmods.com/fallout4/mods/51233/?tab=files&file_id=233763)
 *  [Makeshift Textures - 2K-54933-1-2-1633781097.7z](https://www.nexusmods.com/fallout4/mods/54933/?tab=files&file_id=218855)
-*  [Mannequin Cult-44195-1-01-1586024841.zip](https://www.nexusmods.com/fallout4/mods/44195/?tab=files&file_id=178775)
 *  [McMillan CS5 All in One Pack v2.0-27739-2-0.7z](https://www.nexusmods.com/fallout4/mods/27739/?tab=files&file_id=118895)
 *  Medium.ini
 *  [Meleebangs-18843-0-4.rar](https://www.nexusmods.com/fallout4/mods/18843/?tab=files&file_id=82007)
