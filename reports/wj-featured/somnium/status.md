@@ -340,7 +340,6 @@
 *  [Enderal SE - Seagulls of Skyrim-204-1-00-1626534585.rar](https://www.nexusmods.com/enderalspecialedition/mods/204/?tab=files&file_id=876)
 *  [Enderal Texture Workshop-275-1-5-1633690563.7z](https://www.nexusmods.com/enderal/mods/275/?tab=files&file_id=1200)
 *  [Enderal Vatyr (complete 4k overhaul)-41-5-0-1657631331.7z](https://www.nexusmods.com/enderalspecialedition/mods/41/?tab=files&file_id=1924)
-*  Enderal_default.ini
 *  EnderalPrefs_default.ini
 *  [Engarde - True Directional Movement Patch-53740-1-0-1628794214.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53740/?tab=files&file_id=220693)
 *  [Engarde Main Files-32-4-2-2-1621788829.rar](https://www.nexusmods.com/enderalspecialedition/mods/32/?tab=files&file_id=624)
@@ -580,6 +579,7 @@
 *  [Quality Cubemaps-38231-1-02-1595731872.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38231/?tab=files&file_id=152190)
 *  [Quick Light SE-12633-2-2-1575553166.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12633/?tab=files&file_id=115255)
 *  [Quick Loot RE-21085-2-12-0-1656718592.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21085/?tab=files&file_id=295512)
+*  [QuickLootRE-21085-2-8-6-1609752312.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21085/?tab=files&file_id=177675)
 *  [Quiet Dog - Complete Silence-6066-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/6066/?tab=files&file_id=13930)
 *  [RaceMenu 0.4.16 Memory Leak Hotfix (SE)-70161-1-0-0-1656002259.zip](https://www.nexusmods.com/skyrimspecialedition/mods/70161/?tab=files&file_id=293455)
 *  [RaceMenu Special Edition v0-4-16-19080-0-4-16-1601805673.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19080/?tab=files&file_id=163861)

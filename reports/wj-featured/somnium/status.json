@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/somnium",
   "Name": "Somnium",
-  "Version": "1.1",
-  "ModListHash": "tsHtepFar2I=",
+  "Version": "1.1.1",
+  "ModListHash": "uECBX+MQip4=",
   "Archives": [
     {
       "Status": "Valid",
@@ -4397,16 +4397,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "JePwytLpUgc=",
+        "Hash": "RGpHit78Ujo=",
         "Meta": "[General]\ngameName=Enderal Special Edition\ngameFile=Enderal Launcher.exe",
         "Name": "Enderal Launcher.exe",
-        "Size": 3420672,
+        "Size": 3421184,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "EnderalSpecialEdition",
           "GameFile": "Enderal Launcher.exe",
           "GameVersion": "1.5.97.0",
-          "Hash": "JePwytLpUgc="
+          "Hash": "RGpHit78Ujo="
         }
       }
     },
@@ -4436,22 +4436,6 @@
           "GameFile": "EnderalPrefs_default.ini",
           "GameVersion": "1.5.97.0",
           "Hash": "KLr9lmrSMqc="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "KXB7ci2qWAI=",
-        "Meta": "[General]\ngameName=Enderal Special Edition\ngameFile=Enderal_default.ini",
-        "Name": "Enderal_default.ini",
-        "Size": 2825,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "EnderalSpecialEdition",
-          "GameFile": "Enderal_default.ini",
-          "GameVersion": "1.5.97.0",
-          "Hash": "KXB7ci2qWAI="
         }
       }
     },
@@ -6371,21 +6355,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "RPqqbEhjn0o=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=21085\nfileID=295512",
-        "Name": "Quick Loot RE-21085-2-12-0-1656718592.zip",
-        "Size": 559166,
+        "Hash": "c3A1SMUZMVA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=21085\nfileID=177675",
+        "Name": "QuickLootRE-21085-2-8-6-1609752312.zip",
+        "Size": 317899,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ryan",
           "Description": "This mod adds a looting menu akin to the one present in FO4.",
-          "FileID": 295512,
+          "FileID": 177675,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21085/21085-1541663066-2058527066.png",
           "IsNSFW": false,
           "ModID": 21085,
           "Name": "Quick Loot RE",
-          "Version": "2.12.0.0"
+          "Version": "2.8.6.0"
         }
       }
     },
@@ -11176,6 +11160,27 @@
           "ModID": 38464,
           "Name": "Retro Skyrim",
           "Version": "0.4.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RPqqbEhjn0o=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=21085\nfileID=295512",
+        "Name": "Quick Loot RE-21085-2-12-0-1656718592.zip",
+        "Size": 559166,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ryan",
+          "Description": "This mod adds a looting menu akin to the one present in FO4.",
+          "FileID": 295512,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21085/21085-1541663066-2058527066.png",
+          "IsNSFW": false,
+          "ModID": 21085,
+          "Name": "Quick Loot RE",
+          "Version": "2.12.0.0"
         }
       }
     },
