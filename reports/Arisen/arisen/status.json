@@ -1,8 +1,8 @@
 {
   "MachineURL": "Arisen/arisen",
   "Name": "Arisen",
-  "Version": "1.4.0",
-  "ModListHash": "3YdrYztPvtE=",
+  "Version": "1.4.1",
+  "ModListHash": "F0VrtKLDJK8=",
   "Archives": [
     {
       "Status": "Valid",
@@ -35,21 +35,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "2tSuAtVKC5M=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=244154",
-        "Name": "(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z",
-        "Size": 269290,
+        "Hash": "LjuseKN3E7c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=321816",
+        "Name": "(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-9-1-1664974289.7z",
+        "Size": 272225,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "aers - Nukem - Ryan",
           "Description": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.",
-          "FileID": 244154,
+          "FileID": 321816,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17230/17230-1526195370-298143229.png",
           "IsNSFW": false,
           "ModID": 17230,
           "Name": "SSE Engine Fixes (skse64 plugin)",
-          "Version": "0.0.0.0"
+          "Version": "5.9.1.0"
         }
       }
     },
@@ -407,6 +407,20 @@
           "ModID": 71449,
           "Name": "Fluency Themes for Mod Organizer 2",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ErSLiZ/T9PY=",
+        "Meta": "[General]\nmanualURL=https://www.skyrim-guild.com/s/Distar-Projectiles-v1.zip\nprompt=",
+        "Name": "Arena\u002BMovement.zip",
+        "Size": 198933,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "",
+          "Url": "https://www.skyrim-guild.com/s/Distar-Projectiles-v1.zip"
         }
       }
     },
@@ -8477,15 +8491,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "QQgZFXEd8GA=",
-        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=19nDoNyeK0KBt8HcoxkOa8YHbgnecPdgP\u0026export=download",
+        "Meta": "[General]\nmanualURL=https://drive.google.com/file/d/19nDoNyeK0KBt8HcoxkOa8YHbgnecPdgP\nprompt=",
         "Name": "\u3010Weapon\u3011EldenRing_Black Knife and Godslayer\u0027s Greatsword.7z",
         "Size": 172257588,
         "State": {
-          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
-          "Id": "19nDoNyeK0KBt8HcoxkOa8YHbgnecPdgP"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "",
+          "Url": "https://drive.google.com/file/d/19nDoNyeK0KBt8HcoxkOa8YHbgnecPdgP"
         }
       }
     },
@@ -8532,15 +8547,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "UzT+QmX5krM=",
-        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=1ZEB7-JAPY5OuLESb8jbKLgl57tru5RbX\u0026export=download",
+        "Meta": "[General]\nmanualURL=https://drive.google.com/file/d/1ZEB7-JAPY5OuLESb8jbKLgl57tru5RbX\nprompt=",
         "Name": "\u3010Weapon\u3011Elden Ring - Spear.7z",
         "Size": 789556777,
         "State": {
-          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
-          "Id": "1ZEB7-JAPY5OuLESb8jbKLgl57tru5RbX"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "",
+          "Url": "https://drive.google.com/file/d/1ZEB7-JAPY5OuLESb8jbKLgl57tru5RbX"
         }
       }
     },
@@ -11535,21 +11551,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "OEEmHVP5IWM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=66784\nfileID=314025",
-        "Name": "Inconvenient Dungeons-66784-2-0-1662571131.7z",
-        "Size": 774017,
+        "Hash": "cjmhKA8/IXM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=66784\nfileID=321803",
+        "Name": "Inconvenient Dungeons-66784-2-1-1664971542.7z",
+        "Size": 780848,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "AndrealphusVIII",
           "Description": "This mod removes or otherwise alters many backexits from Vanilla dungeons.",
-          "FileID": 314025,
+          "FileID": 321803,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/66784/66784-1650397315-913624408.png",
           "IsNSFW": false,
           "ModID": 66784,
           "Name": "Inconvenient Dungeons",
-          "Version": "2.0.0.0"
+          "Version": "2.1.0.0"
         }
       }
     },
@@ -16449,21 +16465,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "rwsw6ow9ly8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44371\nfileID=307532",
-        "Name": "Phylogeny - Races of Tamriel-44371-2-3-1-1660503944.7z",
-        "Size": 118605,
+        "Hash": "MBAxYrOcXYw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44371\nfileID=321187",
+        "Name": "Phylogeny - Races of Tamriel-44371-2-3-2-1664748736.7z",
+        "Size": 118657,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Alt",
           "Description": "Lore-friendly races. Removes most racial powers in favor of new passives. Passives apply to npcs as well as the player.",
-          "FileID": 307532,
+          "FileID": 321187,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44371/44371-1614308916-1409093141.png",
           "IsNSFW": false,
           "ModID": 44371,
           "Name": "Phylogeny - Races of Tamriel",
-          "Version": "2.3.1.0"
+          "Version": "2.3.2.0"
         }
       }
     },
@@ -19186,6 +19202,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "pKxCieONE/I=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=17283\nfileID=54635",
+        "Name": "SimpleBedrollV1-17283-1-0.7z",
+        "Size": 2494,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CDCooley",
+          "Description": "A basic craftable, portable bedroll just for the player.\n\n\n\nUse Basic Camp Gear if you want bedrolls for your followers or are using the VR version of the game.",
+          "FileID": 54635,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17283/17283-1526356299-733036443.jpeg",
+          "IsNSFW": false,
+          "ModID": 17283,
+          "Name": "Simple Bedroll",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "NTyYj75ZI2s=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=22811\nfileID=79308",
         "Name": "(1) SBP SE - Simple Belly Paints - 2K-22811-1-1-1548197078.7z",
@@ -19243,6 +19280,27 @@
           "ModID": 50250,
           "Name": "Assorted Mods and Patches",
           "Version": "1.3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5TxnOR27kjw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=41774\nfileID=167301",
+        "Name": "Simple Offence Suppression MCM - Block Friendly Fire-41774-0-4-1603817696.rar",
+        "Size": 4657,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wankingSkeever - po3",
+          "Description": "Blocks friendly fire. Toggleable in MCM. Requires po3\u0027s Simple Offence Suppression",
+          "FileID": 167301,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41774/41774-1603789302-1733778500.png",
+          "IsNSFW": false,
+          "ModID": 41774,
+          "Name": "Simple Offence Suppression MCM - Block Friendly Fire",
+          "Version": "0.4.0.0"
         }
       }
     },
@@ -19936,27 +19994,6 @@
           "ModID": 4412,
           "Name": "Snazzy Quill of Gemination",
           "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "NixLuKf931w=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43618\nfileID=178021",
-        "Name": "SNIFF Simple No Internal Friendly Fire-43618-1-2-1609958416.7z",
-        "Size": 4681,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "KeiZero",
-          "Description": "This Mod nullify Damage and Spell Magnitude from weapon and offensive spells between the Player and Followers,Summons,Undead and Allies, also Between Followers and the player,Summons,Undead and Allies. This mod should be compatible with almost everything with no conflicts, but in any case there is an extensive MCM that you can fine tune everything",
-          "FileID": 178021,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43618/43618-1608764331-1950401789.png",
-          "IsNSFW": false,
-          "ModID": 43618,
-          "Name": "SNIFF - Simple No Internal Friendly Fire",
-          "Version": "1.2.0.0"
         }
       }
     },
@@ -21238,27 +21275,6 @@
           "ModID": 42069,
           "Name": "Thieves\u0027 Night On the Town -- Tnott",
           "Version": "1.0.4.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "yaZt3SEt3Ms=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=50559\nfileID=206103",
-        "Name": "Thu\u0027um - Animated Shouts-50559-1-0-0-1622239298.rar",
-        "Size": 419727,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BOTuser999",
-          "Description": "Adds a toggleable shout behavior which provides unique shout animations for each shout in game",
-          "FileID": 206103,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/50559/50559-1622238327-324482493.png",
-          "IsNSFW": false,
-          "ModID": 50559,
-          "Name": "Thu\u0027um - Fully Animated Shouts",
-          "Version": "1.0.0.0"
         }
       }
     },
@@ -24349,6 +24365,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Bi22hjjDU2Y=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=65625\nfileID=320743",
+        "Name": "Elden Rim - Weapon Arts-65625-1-9-9-83-1664631265.rar",
+        "Size": 94625722,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "black",
+          "Description": "Skills will be acquired automatically when you enter the game, in your power column\n\nYou need to equip both skills and runes to use these war ashes. Runes can be obtained through the console or addItem",
+          "FileID": 320743,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65625/65625-1648437893-1183128923.png",
+          "IsNSFW": false,
+          "ModID": 65625,
+          "Name": "Elden Rim - Weapon Arts",
+          "Version": "1.9.9.83"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "7CHyx5HyQS4=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=55365\nfileID=288374",
         "Name": "A Matter Of Time - Settings Loader-55365-2-1-1-1654200707.7z",
@@ -24853,6 +24890,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "9GdZhQlsk28=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=64639\nfileID=268597",
+        "Name": "Divine Crusader - No Murder-64639-1-0-0-1646634689.7z",
+        "Size": 650,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AldrenMods",
+          "Description": "Modifies a script for the Divine Crusader DLC. Crimes no longer trigger detrimental status effects or The Pilgrim\u0027s Path quest. Option provided to still trigger off of murders only.",
+          "FileID": 268597,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64639/64639-1646633706-1341735763.png",
+          "IsNSFW": false,
+          "ModID": 64639,
+          "Name": "Divine Crusader - Crime is Justified",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "8gO/QE2ejI0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=21775\nfileID=216947",
         "Name": "D.U.I. SE v2.4-21775-2-4-1627325308.7z",
@@ -25210,21 +25268,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "K46Sym+xQ+E=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=62001\nfileID=273745",
-        "Name": "Immersive Equipment Displays-62001-1-5-0-1648670905.zip",
-        "Size": 1591419,
+        "Hash": "rPDleoPJn9o=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62001\nfileID=322235",
+        "Name": "Immersive Equipment Displays for 1.5.39 - 1.6.353-62001-1-6-1-1665153475.zip",
+        "Size": 1739917,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SlavicPotato",
           "Description": "Display unequipped gear and custom items on the player or NPCs. Works with any item with no additional meshes required. Does not use body slots. SKSE64 plugin. Custom in-game user interface for configuring everything in real-time while you\u0027re playing. Includes a flexible positioning system for both equipped and unequipped gear.",
-          "FileID": 273745,
+          "FileID": 322235,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62001/62001-1642274191-1583063063.png",
           "IsNSFW": false,
           "ModID": 62001,
           "Name": "Immersive Equipment Displays",
-          "Version": "0.0.0.0"
+          "Version": "1.6.1.0"
         }
       }
     },
@@ -26732,27 +26790,6 @@
           "ModID": 36042,
           "Name": "lilebonymace\u0027s patches xEdit scripts and stuff",
           "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Bi22hjjDU2Y=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=65625\nfileID=320743",
-        "Name": "Elden Rim - Weapon Arts-65625-1-9-9-83-1664631265.rar",
-        "Size": 94625722,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "black",
-          "Description": "Skills will be acquired automatically when you enter the game, in your power column\n\nYou need to equip both skills and runes to use these war ashes. Runes can be obtained through the console or addItem",
-          "FileID": 320743,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65625/65625-1648437893-1183128923.png",
-          "IsNSFW": false,
-          "ModID": 65625,
-          "Name": "Elden Rim - Weapon Arts",
-          "Version": "1.9.9.83"
         }
       }
     },
@@ -32526,6 +32563,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "SC61jJy0OHs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=41764\nfileID=244473",
+        "Name": "Simple Offence Suppression SE-41764-2-1-0-1637919353.7z",
+        "Size": 223502,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "SKSE plugin that prevents neutral NPCs from turning hostile when you accidentally hit them.",
+          "FileID": 244473,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41764/41764-1603758770-490429309.png",
+          "IsNSFW": false,
+          "ModID": 41764,
+          "Name": "Simple Offence Suppression",
+          "Version": "2.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "HxKcozLHMy0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=32057\nfileID=121175",
         "Name": "Skygazer Moons SSE 2K - No Glow-32057-1-2-1579996351.rar",
@@ -36369,6 +36427,19 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "qhVGJpDkGYM=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Fixed Fashions of the Huntsmen Files.7z_47ec29b9-f889-4cf6-bf7e-33d30c6b64f5",
+        "Name": "Fixed Fashions of the Huntsmen Files.7z",
+        "Size": 425028512,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/Fixed%20Fashions%20of%20the%20Huntsmen%20Files.7z_47ec29b9-f889-4cf6-bf7e-33d30c6b64f5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "NRKHecHCogo=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=52256\nfileID=214011",
         "Name": "CBBE Body SMP (3BBB) Bodyslide Files-52256-1-0-1626012900.7z",
@@ -37566,21 +37637,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+lL6niydlmI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=76196\nfileID=320448",
-        "Name": "Hype\u0027s Farmhouse Door SE 2K (No Ornaments Version)-76196-1-2-1664538259.7z",
-        "Size": 6833234,
+        "Hash": "x9j0XAfRr/Q=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=76196\nfileID=320970",
+        "Name": "Hype\u0027s Farmhouse Door SE 2K (No Ornaments Version)-76196-1-2-1-1664693586.7z",
+        "Size": 6833603,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "hype1",
           "Description": "New detailed 3D mesh and high resolution textures for the infamous farmhouse door",
-          "FileID": 320448,
+          "FileID": 320970,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/76196/76196-1664304430-484138155.jpeg",
           "IsNSFW": false,
           "ModID": 76196,
           "Name": "Hype\u0027s Farmhouse Door SE",
-          "Version": "1.2.0.0"
+          "Version": "1.2.1.0"
         }
       }
     },
@@ -41997,6 +42068,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "dwioK5AVUIs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=70204\nfileID=294546",
+        "Name": "Goetia Animations - Magic Spell Casting-70204-1-4-1656370500.7z",
+        "Size": 555513,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Verolevi",
+          "Description": "At 110 animation files made from scratch (v1.0), I\u0027m glad to finally bring you this 3rd person spell casting animation overhaul, works for all spell categories and for spellsword/hybrid playstyles, requires DAR.",
+          "FileID": 294546,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/70204/112311-1656024006-233917820.png",
+          "IsNSFW": false,
+          "ModID": 70204,
+          "Name": "Goetia Animations - Magic Spell Casting",
+          "Version": "1.4.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5rREdBIHrgY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=71110\nfileID=298623",
+        "Name": "Goetia Animations - Enchanted Staves-71110-1-51-1657727300.7z",
+        "Size": 255415,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Verolevi",
+          "Description": "Hand made animations that completely overhaul Skyrim\u0027s 3rd person enchanted staff playstyles, designed to work with hybrid playstyles as well (staff\u002Bmelee or staff\u002Bspell), requires DAR.",
+          "FileID": 298623,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/71110/112495-1657457209-873925596.png",
+          "IsNSFW": false,
+          "ModID": 71110,
+          "Name": "Goetia Animations - Enchanted Staves",
+          "Version": "1.51.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "56d+a9CYqic=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=32164\nfileID=121667",
         "Name": "2K SMIM Whiterun Bench-32164-1-1-1580311736.7z",
@@ -43333,42 +43446,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5rREdBIHrgY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=71110\nfileID=298623",
-        "Name": "Goetia Animations - Enchanted Staves-71110-1-51-1657727300.7z",
-        "Size": 255415,
+        "Hash": "j9s2nBsVIfY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=76388\nfileID=320841",
+        "Name": "Goetia Animations - Conditional Shouts-76388-1-2-1664660844.7z",
+        "Size": 360707,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Verolevi",
-          "Description": "Hand made animations that completely overhaul Skyrim\u0027s 3rd person enchanted staff playstyles, designed to work with hybrid playstyles as well (staff\u002Bmelee or staff\u002Bspell), requires DAR.",
-          "FileID": 298623,
+          "Description": "Adds a variety of new Shout animations to completely replace vanilla\u0027s, and dynamically switches between them depending on the equipped Shout\u0027s effect. Requires DAR.",
+          "FileID": 320841,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/71110/112495-1657457209-873925596.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/76388/76388-1664660636-560731737.png",
           "IsNSFW": false,
-          "ModID": 71110,
-          "Name": "Goetia Animations - Enchanted Staves",
-          "Version": "1.51.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "dwioK5AVUIs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=70204\nfileID=294546",
-        "Name": "Goetia Animations - Magic Spell Casting-70204-1-4-1656370500.7z",
-        "Size": 555513,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Verolevi",
-          "Description": "At 110 animation files made from scratch (v1.0), I\u0027m glad to finally bring you this 3rd person spell casting animation overhaul, works for all spell categories and for spellsword/hybrid playstyles, requires DAR.",
-          "FileID": 294546,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/70204/112311-1656024006-233917820.png",
-          "IsNSFW": false,
-          "ModID": 70204,
-          "Name": "Goetia Animations - Magic Spell Casting",
-          "Version": "1.4.0.0"
+          "ModID": 76388,
+          "Name": "Goetia Animations - Conditional Shouts",
+          "Version": "1.2.0.0"
         }
       }
     },
@@ -43998,6 +44090,27 @@
           "IsNSFW": false,
           "ModID": 66156,
           "Name": "ORCODONTIST - Orsimer Mouth and Teeth Fix",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nyNAb3wlL5o=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=67065\nfileID=282677",
+        "Name": "Elevated NPCs-67065-1-3-1652186327.7z",
+        "Size": 650052050,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "eeekie",
+          "Description": "Unique, realistic NPC replacers created with a lot of time, care, and consideration.",
+          "FileID": 282677,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67065/67065-1650911769-1124487205.png",
+          "IsNSFW": false,
+          "ModID": 67065,
+          "Name": "Elevated NPCs",
           "Version": "0.0.0.0"
         }
       }
@@ -45909,6 +46022,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "amI3M7Gz1u4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=76388\nfileID=320842",
+        "Name": "Goetia Animations - Momentum Whirlwind Sprint-76388-1-0-1664660895.7z",
+        "Size": 19408,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Verolevi",
+          "Description": "Adds a variety of new Shout animations to completely replace vanilla\u0027s, and dynamically switches between them depending on the equipped Shout\u0027s effect. Requires DAR.",
+          "FileID": 320842,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/76388/76388-1664660636-560731737.png",
+          "IsNSFW": false,
+          "ModID": 76388,
+          "Name": "Goetia Animations - Conditional Shouts",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "nOtn4aIeO1s=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=75482\nfileID=318148",
         "Name": "Goetia Animations - Sneak Magic-75482-1-1-1663713147.7z",
@@ -46154,27 +46288,6 @@
           "IsNSFW": false,
           "ModID": 55877,
           "Name": "Pandorable\u0027s Heroes of Sovngarde",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "nyNAb3wlL5o=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=67065\nfileID=282677",
-        "Name": "Elevated NPCs-67065-1-3-1652186327.7z",
-        "Size": 650052050,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "eeekie",
-          "Description": "Unique, realistic NPC replacers created with a lot of time, care, and consideration.",
-          "FileID": 282677,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67065/67065-1650911769-1124487205.png",
-          "IsNSFW": false,
-          "ModID": 67065,
-          "Name": "Elevated NPCs",
           "Version": "0.0.0.0"
         }
       }
@@ -46441,6 +46554,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "07etkV4LdDg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=73838\nfileID=309552",
+        "Name": "ER Greatsword (MCO SCAR)-73838-1-0-1661186478.rar",
+        "Size": 3508401,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "black",
+          "Description": "and before elden rim is not the same set of animation, elden rim is actually COLOSSAL SWORDS, and this is the real Greatsword animation",
+          "FileID": 309552,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/73838/73838-1661186294-645551022.png",
+          "IsNSFW": false,
+          "ModID": 73838,
+          "Name": "ADXP I MCO ER Greatsword (SCAR)",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UkbQvbK0lV8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=71783\nfileID=317603",
+        "Name": "use this-71783-1-2-1663586787.zip",
+        "Size": 420852,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TXD",
+          "Description": "Inspired by DS3 Mod \n\nIt replaces the action of the one handed sword",
+          "FileID": 317603,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/71783/71783-1663585861-1168449402.png",
+          "IsNSFW": false,
+          "ModID": 71783,
+          "Name": "chikage  (MCO)",
+          "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "0Gv/mX09TaQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=68696\nfileID=287807",
         "Name": "DAR Stagger NPC and Player-68696-1-2-1653964714.7z",
@@ -46602,6 +46757,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "sv8W5IJXyeY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=76600\nfileID=321826",
+        "Name": "Saw Cleaver-76600-1-0-1664976056.zip",
+        "Size": 90931,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TXD",
+          "Description": "Saw Cleaver inspired by DS3 Mod",
+          "FileID": 321826,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/76600/76600-1664976423-1162775624.png",
+          "IsNSFW": false,
+          "ModID": 76600,
+          "Name": "Saw Cleaver (MCO)",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "ljgvVpp3+LQ=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=71937\nfileID=301301",
         "Name": "Elder Creed - Axe Moveset AIO-71937-v1-1658537478.7z",
@@ -46616,27 +46792,6 @@
           "IsNSFW": false,
           "ModID": 71937,
           "Name": "Elder Creed - Axe Moveset AIO",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "07etkV4LdDg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=73838\nfileID=309552",
-        "Name": "ER Greatsword (MCO SCAR)-73838-1-0-1661186478.rar",
-        "Size": 3508401,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "black",
-          "Description": "and before elden rim is not the same set of animation, elden rim is actually COLOSSAL SWORDS, and this is the real Greatsword animation",
-          "FileID": 309552,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/73838/73838-1661186294-645551022.png",
-          "IsNSFW": false,
-          "ModID": 73838,
-          "Name": "ADXP I MCO ER Greatsword (SCAR)",
           "Version": "1.0.0.0"
         }
       }
@@ -46742,6 +46897,27 @@
           "IsNSFW": false,
           "ModID": 66115,
           "Name": "Viking BattleAxe Moveset",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kvXtwjWJ8sA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=76475\nfileID=321253",
+        "Name": "Scythe Normal and Power For MCO-76475-1-0-1664781905.7z",
+        "Size": 87300,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Eskyrim",
+          "Description": "Battleaxe animation replacer for scythe-style weapons.",
+          "FileID": 321253,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/76475/76475-1664781763-1557962733.jpeg",
+          "IsNSFW": false,
+          "ModID": 76475,
+          "Name": "Scythe Moveset for MCO.",
           "Version": "1.0.0.0"
         }
       }
@@ -46910,27 +47086,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "rIDFD7FICu8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=72966\nfileID=305856",
-        "Name": "AC Valhalla Inspired Animation Movement Animations for All Races-72966-1-0-0-1660003909.7z",
-        "Size": 339665,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Very Mingming",
-          "Description": "Dualwield Animation\n\nSCAR patched\n\nPrecision Patched\n\nCombat/NonCombat Movement Animation for Vanilla style",
-          "FileID": 305856,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/72966/72966-1660002867-1060910430.jpeg",
-          "IsNSFW": false,
-          "ModID": 72966,
-          "Name": "ADXP l MCO  Nordic Animation Complete Pack",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "wVhUI9Y+PRc=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=70094\nfileID=293092",
         "Name": "Onikiri and Ubadachi (MCO)-70094-1-0-1655901131.rar",
@@ -46945,6 +47100,27 @@
           "IsNSFW": false,
           "ModID": 70094,
           "Name": "Onikiri and Ubadachi (SKYSA MCO)",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "v2piI5NINWA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=76480\nfileID=321280",
+        "Name": "Mixed Scythe(SCAR)-76480-1-0-1664795381.rar",
+        "Size": 4057519,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "black",
+          "Description": "Combined with Bloodborne and Ninja Gaiden production out of the scythe animation, support SCAR, can be used for NPC",
+          "FileID": 321280,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/76480/76480-1664795283-407289216.jpeg",
+          "IsNSFW": false,
+          "ModID": 76480,
+          "Name": "ADXP I MCO   ER Mixed Scythe (SCAR)",
           "Version": "1.0.0.0"
         }
       }
@@ -47030,6 +47206,27 @@
           "ModID": 70531,
           "Name": "Smooth Moveset",
           "Version": "1.8.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rIDFD7FICu8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=72966\nfileID=305856",
+        "Name": "AC Valhalla Inspired Animation Movement Animations for All Races-72966-1-0-0-1660003909.7z",
+        "Size": 339665,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Very Mingming",
+          "Description": "Dualwield Animation\n\nSCAR patched\n\nPrecision Patched\n\nCombat/NonCombat Movement Animation for Vanilla style",
+          "FileID": 305856,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/72966/72966-1660002867-1060910430.jpeg",
+          "IsNSFW": false,
+          "ModID": 72966,
+          "Name": "ADXP l MCO  Nordic Animation Complete Pack",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -47330,21 +47527,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qiBZljE5dOM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=74685\nfileID=313400",
-        "Name": "Draugr One-handed Animation-74685-1-0-1662349678.rar",
-        "Size": 90328,
+        "Hash": "9CqwWfLo2B4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=74685\nfileID=322180",
+        "Name": "Draugr One-handed Animation-74685-1-1-1665136594.rar",
+        "Size": 158931,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Karunado",
           "Description": "3 Attack,2 Stagger",
-          "FileID": 313400,
+          "FileID": 322180,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/74685/74685-1662349541-1529321269.jpeg",
           "IsNSFW": false,
           "ModID": 74685,
           "Name": "Draugr One-handed Animation (DAR)",
-          "Version": "1.0.0.0"
+          "Version": "1.1.0.0"
         }
       }
     },
@@ -47471,27 +47668,6 @@
           "ModID": 44201,
           "Name": "Simple Pistol Shooting Animation by Loop(Include standalone pistol and crossbow) - SSE",
           "Version": "3.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QQSfETz8xBo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=49853\nfileID=246228",
-        "Name": "Smooth Random Magic idle Animation 2.0-49853-2-0-1638508381.zip",
-        "Size": 1108044,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Smooth",
-          "Description": "Various magic idle animations",
-          "FileID": 246228,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49853/49853-1638506634-266146139.gif",
-          "IsNSFW": false,
-          "ModID": 49853,
-          "Name": "Smooth Random Magic idle Animation",
-          "Version": "2.0.0.0"
         }
       }
     },
@@ -47813,69 +47989,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zniCvvjD1D8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42975\nfileID=172664",
-        "Name": "LOTDCT_BC7-42975-1-1606887427.7z",
-        "Size": 1788481040,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kartoffel",
-          "Description": "Mostly as a resource, these are the textures of LOTD cleaned of compression artifacts and some bad overwrites.",
-          "FileID": 172664,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42975/42975-1606884290-242268815.png",
-          "IsNSFW": false,
-          "ModID": 42975,
-          "Name": "Legacy of the Dragonborn Cleaned Textures",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "0qpWF2bL56U=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42975\nfileID=173108",
-        "Name": "Blue Fabric Fix-42975-1-0-1-1607135750.7z",
-        "Size": 503373,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kartoffel",
-          "Description": "Mostly as a resource, these are the textures of LOTD cleaned of compression artifacts and some bad overwrites.",
-          "FileID": 173108,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42975/42975-1606884290-242268815.png",
-          "IsNSFW": false,
-          "ModID": 42975,
-          "Name": "Legacy of the Dragonborn Cleaned Textures",
-          "Version": "1.0.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "sB+WJNJLZzk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=64057\nfileID=266435",
-        "Name": "Dapper Deliveries - A Courier Overhaul-64057-1-0-1645677635.zip",
-        "Size": 8909252,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Tragedian",
-          "Description": "A makeover mod for Skyrim\u0027s favorite delivery boy.",
-          "FileID": 266435,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64057/64057-1645660298-1577275411.jpeg",
-          "IsNSFW": false,
-          "ModID": 64057,
-          "Name": "Dapper Deliveries - A Courier Overhaul",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "pTYARduufe4=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=43430\nfileID=200583",
         "Name": "Valerica-43430-na1-1619582163.7z",
@@ -48107,21 +48220,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "7iYFwvha3P4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=57284\nfileID=265418",
-        "Name": "Fabulous Followers SE-57284-1-05-1645299017.zip",
-        "Size": 255001148,
+        "Hash": "hgutbu/a2MQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58196\nfileID=240234",
+        "Name": "Modpocalypse NPCs (v3) Moon and Star-58196-1-0-1636505364.7z",
+        "Size": 2943555,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Tragedian",
-          "Description": "A makeover mod for Skyrim\u0027s followers featuring unique, lore-friendly looks \u0026amp; improved combat skills.",
-          "FileID": 265418,
+          "Author": "ModpocalypseGaming",
+          "Description": "This is an appearance overhaul for the new NPCs added by the mod \u0022Moon and Star\u0022.",
+          "FileID": 240234,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57284/57284-1640479597-1876347314.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58196/58196-1636505231-1903309191.jpeg",
           "IsNSFW": false,
-          "ModID": 57284,
-          "Name": "Tragedian\u0027s Fabulous Followers SSE",
-          "Version": "f1.05"
+          "ModID": 58196,
+          "Name": "Modpocalypse NPCs - Moon and Star",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JGNh9VJj+Ns=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=63619\nfileID=299271",
+        "Name": "The Practical Dwemechanic-63619-1-2-1-1657926725.zip",
+        "Size": 5550457,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Lizzie aka TieflingGrimoire",
+          "Description": "An appearance replacer for Maplespice\u0027s \u0022Remiel-Custom Voiced Dwemer Specialist and Companion\u0022. Changes her face and adds a Dwemer-themed necklace to her ensemble.",
+          "FileID": 299271,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/63619/63619-1644940420-481415720.png",
+          "IsNSFW": false,
+          "ModID": 63619,
+          "Name": "The Practical Dwemechanic - A Remiel Replacer",
+          "Version": "1.2.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QWLxLE4u1pM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58142\nfileID=239984",
+        "Name": "Modpocalypse NPCs (v3) Heritage Enemies 2-58142-1-0-1636424117.7z",
+        "Size": 1214028754,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ModpocalypseGaming",
+          "Description": "This is an appearance overhaul for the new NPCs added by the mod \u0022Heritage Enemies 2\u0022.",
+          "FileID": 239984,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58142/58142-1636418847-495617163.jpeg",
+          "IsNSFW": false,
+          "ModID": 58142,
+          "Name": "Modpocalypse NPCs - Heritage Enemies 2",
+          "Version": "1.0.0.0"
         }
       }
     },
@@ -48143,6 +48298,90 @@
           "ModID": 43413,
           "Name": "Northbourne NPCs of Winterhold",
           "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yy/THbwAbIA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42043\nfileID=248825",
+        "Name": "PAN_NPCs - Males SE-42043-1-1-1639414959.rar",
+        "Size": 159007127,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Pandorable",
+          "Description": "A visual overhaul of 60 male NPCs.",
+          "FileID": 248825,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42043/104280-1604269076-392698532.png",
+          "IsNSFW": false,
+          "ModID": 42043,
+          "Name": "Pandorable\u0027s NPCs - males",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TO8dl0PXlz4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=35404\nfileID=211849",
+        "Name": "Northbourne NPCs of Whiterun Hold  -  Full Version-35404-1-2-1625034267.7z",
+        "Size": 345991045,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Southpawe and zxamonxz",
+          "Description": "This is a high poly face replacer/redesign for all 102 named male and female NPCs in Whiterun Hold (except children and beast races). Comes in two versions, Full version and a Males Only version.",
+          "FileID": 211849,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35404/35404-1608509110-247189781.jpeg",
+          "IsNSFW": false,
+          "ModID": 35404,
+          "Name": "Northbourne NPCs of Whiterun Hold",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2kUFy19UgZ8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=19012\nfileID=229960",
+        "Name": "PAN_NPCs-19012-1-4-1632324450.rar",
+        "Size": 189443994,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Pandorable",
+          "Description": "A visual overhaul of 85 female NPCs.",
+          "FileID": 229960,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19012/19012-1582678867-798894430.png",
+          "IsNSFW": false,
+          "ModID": 19012,
+          "Name": "Pandorable\u0027s NPCs",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7iYFwvha3P4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=57284\nfileID=265418",
+        "Name": "Fabulous Followers SE-57284-1-05-1645299017.zip",
+        "Size": 255001148,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tragedian",
+          "Description": "A makeover mod for Skyrim\u0027s followers featuring unique, lore-friendly looks \u0026amp; improved combat skills.",
+          "FileID": 265418,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57284/57284-1640479597-1876347314.png",
+          "IsNSFW": false,
+          "ModID": 57284,
+          "Name": "Tragedian\u0027s Fabulous Followers SSE",
+          "Version": "f1.05"
         }
       }
     },
@@ -48191,83 +48430,62 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "EteyOFXg37I=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=46994\nfileID=191420",
-        "Name": "Kalilies Serana-46994-1-0-1615721477.7z",
-        "Size": 55940780,
+        "Hash": "wO9Nvb+ixKw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=70949\nfileID=303731",
+        "Name": "DBW - Hotfix 1.3.-70949-1-3-1659307497.rar",
+        "Size": 270411,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kalilies",
-          "Description": "Vampire? I hardly know\u0027er!",
-          "FileID": 191420,
+          "Author": "lilson",
+          "Description": "Replacer of 16 female npcs from Windhelm.",
+          "FileID": 303731,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46994/46994-1615719604-634154928.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/70949/70949-1657266218-1964746839.png",
           "IsNSFW": false,
-          "ModID": 46994,
-          "Name": "Kalilies Serana",
-          "Version": "1.0.0.0"
+          "ModID": 70949,
+          "Name": "DIbella\u0027s Blessing - Windhelm",
+          "Version": "1.3.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "r9UnXdjPXf4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=30680\nfileID=114755",
-        "Name": "Pandorable\u0027s NPCs - Dragonborn SE-30680-1-1-1575120229.rar",
-        "Size": 74837097,
+        "Hash": "TC0qAol6mtA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=71173\nfileID=310450",
+        "Name": "DBR - Hotfix 1.2-71173-1-2-1661501948.rar",
+        "Size": 1174891,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lilson",
+          "Description": "Replacer of 27 female npcs from Riften.",
+          "FileID": 310450,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/71173/71173-1657562873-1427517347.png",
+          "IsNSFW": false,
+          "ModID": 71173,
+          "Name": "DIbella\u0027s Blessing - Riften",
+          "Version": "1.2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "L8BmQAlIxeY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=24135\nfileID=84822",
+        "Name": "Pandorable\u0027s NPCs - Dawnguard SE - grey face fix-24135-1-1-1552519919.rar",
+        "Size": 6325764,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Pandorable",
-          "Description": "Hold on to your hats, we\u0027re going to Solstheim.",
-          "FileID": 114755,
+          "Description": "Time to make Dawnguard NPCs less ugly.",
+          "FileID": 84822,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/30680/30680-1575046095-2105344229.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/24135/24135-1552437324-1046539374.png",
           "IsNSFW": false,
-          "ModID": 30680,
-          "Name": "Pandorable\u0027s NPCs - Dragonborn",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "JGNh9VJj+Ns=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=63619\nfileID=299271",
-        "Name": "The Practical Dwemechanic-63619-1-2-1-1657926725.zip",
-        "Size": 5550457,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Lizzie aka TieflingGrimoire",
-          "Description": "An appearance replacer for Maplespice\u0027s \u0022Remiel-Custom Voiced Dwemer Specialist and Companion\u0022. Changes her face and adds a Dwemer-themed necklace to her ensemble.",
-          "FileID": 299271,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/63619/63619-1644940420-481415720.png",
-          "IsNSFW": false,
-          "ModID": 63619,
-          "Name": "The Practical Dwemechanic - A Remiel Replacer",
-          "Version": "1.2.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "TO8dl0PXlz4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=35404\nfileID=211849",
-        "Name": "Northbourne NPCs of Whiterun Hold  -  Full Version-35404-1-2-1625034267.7z",
-        "Size": 345991045,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Southpawe and zxamonxz",
-          "Description": "This is a high poly face replacer/redesign for all 102 named male and female NPCs in Whiterun Hold (except children and beast races). Comes in two versions, Full version and a Males Only version.",
-          "FileID": 211849,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35404/35404-1608509110-247189781.jpeg",
-          "IsNSFW": false,
-          "ModID": 35404,
-          "Name": "Northbourne NPCs of Whiterun Hold",
+          "ModID": 24135,
+          "Name": "Pandorable\u0027s NPCs - Dawnguard",
           "Version": "0.0.0.0"
         }
       }
@@ -48296,90 +48514,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yy/THbwAbIA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42043\nfileID=248825",
-        "Name": "PAN_NPCs - Males SE-42043-1-1-1639414959.rar",
-        "Size": 159007127,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pandorable",
-          "Description": "A visual overhaul of 60 male NPCs.",
-          "FileID": 248825,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42043/104280-1604269076-392698532.png",
-          "IsNSFW": false,
-          "ModID": 42043,
-          "Name": "Pandorable\u0027s NPCs - males",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2kUFy19UgZ8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=19012\nfileID=229960",
-        "Name": "PAN_NPCs-19012-1-4-1632324450.rar",
-        "Size": 189443994,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pandorable",
-          "Description": "A visual overhaul of 85 female NPCs.",
-          "FileID": 229960,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19012/19012-1582678867-798894430.png",
-          "IsNSFW": false,
-          "ModID": 19012,
-          "Name": "Pandorable\u0027s NPCs",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ew1K+iTdTwg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54590\nfileID=224017",
-        "Name": "Modpocalypse NPCs (v3) Citizens of Tamriel-54590-1-0-1630028328.7z",
-        "Size": 9786511,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ModpocalypseGaming",
-          "Description": "This mod improves the visual appearance of the new NPCs added by Citizens of Tamriel SE.",
-          "FileID": 224017,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54590/54590-1630028036-896631085.jpeg",
-          "IsNSFW": false,
-          "ModID": 54590,
-          "Name": "Modpocalypse NPCs - Citizens of Tamriel",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "TC0qAol6mtA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=71173\nfileID=310450",
-        "Name": "DBR - Hotfix 1.2-71173-1-2-1661501948.rar",
-        "Size": 1174891,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lilson",
-          "Description": "Replacer of 27 female npcs from Riften.",
-          "FileID": 310450,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/71173/71173-1657562873-1427517347.png",
-          "IsNSFW": false,
-          "ModID": 71173,
-          "Name": "DIbella\u0027s Blessing - Riften",
-          "Version": "1.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "23buDO9pSLA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=56635\nfileID=232913",
         "Name": "Modpocalypse NPCs (v3) Legacy of the Dragonborn-56635-1-0-1633479465.7z",
@@ -48401,20 +48535,41 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hgutbu/a2MQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58196\nfileID=240234",
-        "Name": "Modpocalypse NPCs (v3) Moon and Star-58196-1-0-1636505364.7z",
-        "Size": 2943555,
+        "Hash": "r9UnXdjPXf4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=30680\nfileID=114755",
+        "Name": "Pandorable\u0027s NPCs - Dragonborn SE-30680-1-1-1575120229.rar",
+        "Size": 74837097,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ModpocalypseGaming",
-          "Description": "This is an appearance overhaul for the new NPCs added by the mod \u0022Moon and Star\u0022.",
-          "FileID": 240234,
+          "Author": "Pandorable",
+          "Description": "Hold on to your hats, we\u0027re going to Solstheim.",
+          "FileID": 114755,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58196/58196-1636505231-1903309191.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/30680/30680-1575046095-2105344229.png",
           "IsNSFW": false,
-          "ModID": 58196,
-          "Name": "Modpocalypse NPCs - Moon and Star",
+          "ModID": 30680,
+          "Name": "Pandorable\u0027s NPCs - Dragonborn",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "abKA+IEs6tc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=29345\nfileID=110713",
+        "Name": "CRB Auri Lenka Replacer - Sharp Teeth Patch-29345-1-0-1571412186.zip",
+        "Size": 619092,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Corbaine and sorca97",
+          "Description": "Changes the appearance of Auri from Song of the Green to that of Lenka.",
+          "FileID": 110713,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29345/29345-1569741612-1407879170.jpeg",
+          "IsNSFW": false,
+          "ModID": 29345,
+          "Name": "Song of the Green - Auri Lenka Replacer SE - Optional Sharp Teeth",
           "Version": "1.0.0.0"
         }
       }
@@ -48422,20 +48577,62 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QWLxLE4u1pM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58142\nfileID=239984",
-        "Name": "Modpocalypse NPCs (v3) Heritage Enemies 2-58142-1-0-1636424117.7z",
-        "Size": 1214028754,
+        "Hash": "/0PM0fvr08Y=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56694\nfileID=233121",
+        "Name": "Modpocalypse NPCs (v3) The Great Town of Ivarstead-56694-1-0-1633569054.7z",
+        "Size": 1879095,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ModpocalypseGaming",
-          "Description": "This is an appearance overhaul for the new NPCs added by the mod \u0022Heritage Enemies 2\u0022.",
-          "FileID": 239984,
+          "Description": "This is an appearance overhaul for the new NPCs added by the mod \u0022The Great Town of Ivarstead\u0022.",
+          "FileID": 233121,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58142/58142-1636418847-495617163.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56694/56694-1633568886-1911711488.jpeg",
           "IsNSFW": false,
-          "ModID": 58142,
-          "Name": "Modpocalypse NPCs - Heritage Enemies 2",
+          "ModID": 56694,
+          "Name": "Modpocalypse NPCs - The Great Town of Ivarstead",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "R/9+ViriMlM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=56701\nfileID=233141",
+        "Name": "Modpocalypse NPCs (v3) The Great Town of Shor\u0027s Stone-56701-1-0-1633571018.7z",
+        "Size": 2427988,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ModpocalypseGaming",
+          "Description": "This is an appearance overhaul for the new NPCs added by the mod \u0022The Great Town of Shor\u0027s Stone SSE\u0022.",
+          "FileID": 233141,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56701/56701-1633570875-1635481359.jpeg",
+          "IsNSFW": false,
+          "ModID": 56701,
+          "Name": "Modpocalypse NPCs - The Great Town of Shor\u0027s Stone",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zniCvvjD1D8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42975\nfileID=172664",
+        "Name": "LOTDCT_BC7-42975-1-1606887427.7z",
+        "Size": 1788481040,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kartoffel",
+          "Description": "Mostly as a resource, these are the textures of LOTD cleaned of compression artifacts and some bad overwrites.",
+          "FileID": 172664,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42975/42975-1606884290-242268815.png",
+          "IsNSFW": false,
+          "ModID": 42975,
+          "Name": "Legacy of the Dragonborn Cleaned Textures",
           "Version": "1.0.0.0"
         }
       }
@@ -48485,20 +48682,62 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "R/9+ViriMlM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=56701\nfileID=233141",
-        "Name": "Modpocalypse NPCs (v3) The Great Town of Shor\u0027s Stone-56701-1-0-1633571018.7z",
-        "Size": 2427988,
+        "Hash": "fAChCXnalAg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43430\nfileID=200844",
+        "Name": "Valerica Hair Fix-43430-na2-1619735843.7z",
+        "Size": 324669,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Froztee",
+          "Description": "A visual overhaul of our favorite vampire princess.\n\nNow with a fancy FOMOD!",
+          "FileID": 200844,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43430/43430-1608233369-1789630651.jpeg",
+          "IsNSFW": false,
+          "ModID": 43430,
+          "Name": "Serana Re-Imagined SE",
+          "Version": "0.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EteyOFXg37I=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=46994\nfileID=191420",
+        "Name": "Kalilies Serana-46994-1-0-1615721477.7z",
+        "Size": 55940780,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kalilies",
+          "Description": "Vampire? I hardly know\u0027er!",
+          "FileID": 191420,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46994/46994-1615719604-634154928.png",
+          "IsNSFW": false,
+          "ModID": 46994,
+          "Name": "Kalilies Serana",
+          "Version": "1.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ew1K+iTdTwg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54590\nfileID=224017",
+        "Name": "Modpocalypse NPCs (v3) Citizens of Tamriel-54590-1-0-1630028328.7z",
+        "Size": 9786511,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ModpocalypseGaming",
-          "Description": "This is an appearance overhaul for the new NPCs added by the mod \u0022The Great Town of Shor\u0027s Stone SSE\u0022.",
-          "FileID": 233141,
+          "Description": "This mod improves the visual appearance of the new NPCs added by Citizens of Tamriel SE.",
+          "FileID": 224017,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56701/56701-1633570875-1635481359.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54590/54590-1630028036-896631085.jpeg",
           "IsNSFW": false,
-          "ModID": 56701,
-          "Name": "Modpocalypse NPCs - The Great Town of Shor\u0027s Stone",
+          "ModID": 54590,
+          "Name": "Modpocalypse NPCs - Citizens of Tamriel",
           "Version": "1.0.0.0"
         }
       }
@@ -48506,83 +48745,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/0PM0fvr08Y=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=56694\nfileID=233121",
-        "Name": "Modpocalypse NPCs (v3) The Great Town of Ivarstead-56694-1-0-1633569054.7z",
-        "Size": 1879095,
+        "Hash": "sB+WJNJLZzk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=64057\nfileID=266435",
+        "Name": "Dapper Deliveries - A Courier Overhaul-64057-1-0-1645677635.zip",
+        "Size": 8909252,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ModpocalypseGaming",
-          "Description": "This is an appearance overhaul for the new NPCs added by the mod \u0022The Great Town of Ivarstead\u0022.",
-          "FileID": 233121,
+          "Author": "Tragedian",
+          "Description": "A makeover mod for Skyrim\u0027s favorite delivery boy.",
+          "FileID": 266435,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/56694/56694-1633568886-1911711488.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64057/64057-1645660298-1577275411.jpeg",
           "IsNSFW": false,
-          "ModID": 56694,
-          "Name": "Modpocalypse NPCs - The Great Town of Ivarstead",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "abKA+IEs6tc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=29345\nfileID=110713",
-        "Name": "CRB Auri Lenka Replacer - Sharp Teeth Patch-29345-1-0-1571412186.zip",
-        "Size": 619092,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Corbaine and sorca97",
-          "Description": "Changes the appearance of Auri from Song of the Green to that of Lenka.",
-          "FileID": 110713,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29345/29345-1569741612-1407879170.jpeg",
-          "IsNSFW": false,
-          "ModID": 29345,
-          "Name": "Song of the Green - Auri Lenka Replacer SE - Optional Sharp Teeth",
-          "Version": "1.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "wO9Nvb+ixKw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=70949\nfileID=303731",
-        "Name": "DBW - Hotfix 1.3.-70949-1-3-1659307497.rar",
-        "Size": 270411,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lilson",
-          "Description": "Replacer of 16 female npcs from Windhelm.",
-          "FileID": 303731,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/70949/70949-1657266218-1964746839.png",
-          "IsNSFW": false,
-          "ModID": 70949,
-          "Name": "DIbella\u0027s Blessing - Windhelm",
-          "Version": "1.3.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "L8BmQAlIxeY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=24135\nfileID=84822",
-        "Name": "Pandorable\u0027s NPCs - Dawnguard SE - grey face fix-24135-1-1-1552519919.rar",
-        "Size": 6325764,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pandorable",
-          "Description": "Time to make Dawnguard NPCs less ugly.",
-          "FileID": 84822,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/24135/24135-1552437324-1046539374.png",
-          "IsNSFW": false,
-          "ModID": 24135,
-          "Name": "Pandorable\u0027s NPCs - Dawnguard",
+          "ModID": 64057,
+          "Name": "Dapper Deliveries - A Courier Overhaul",
           "Version": "0.0.0.0"
         }
       }
@@ -48606,27 +48782,27 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "fAChCXnalAg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43430\nfileID=200844",
-        "Name": "Valerica Hair Fix-43430-na2-1619735843.7z",
-        "Size": 324669,
+        "Hash": "0qpWF2bL56U=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42975\nfileID=173108",
+        "Name": "Blue Fabric Fix-42975-1-0-1-1607135750.7z",
+        "Size": 503373,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Froztee",
-          "Description": "A visual overhaul of our favorite vampire princess.\n\nNow with a fancy FOMOD!",
-          "FileID": 200844,
+          "Author": "kartoffel",
+          "Description": "Mostly as a resource, these are the textures of LOTD cleaned of compression artifacts and some bad overwrites.",
+          "FileID": 173108,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43430/43430-1608233369-1789630651.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42975/42975-1606884290-242268815.png",
           "IsNSFW": false,
-          "ModID": 43430,
-          "Name": "Serana Re-Imagined SE",
-          "Version": "0.0.0.0"
+          "ModID": 42975,
+          "Name": "Legacy of the Dragonborn Cleaned Textures",
+          "Version": "1.0.1.0"
         }
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 2,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Arisen/369f7d0fe0e0c0f2_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Arisen/369f7d0fe0e0c0f2_large.webp"
 }
