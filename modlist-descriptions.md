@@ -10,6 +10,7 @@
   - [Aldrnari](#aldrnari)
   - [Animonculory Dev Tools (ADT)](#animonculory-dev-tools)
   - [Animonculory Visual Overhaul (AVO)](#animonculory-visual-overhaul)
+  - [Arisen](#arisen)
   - [Arkay's Commandment](#arkays-commandment)
   - [Do Not Go Gentle](#do-not-go-gentle)
   - [Elysium](#elysium-remastered)
@@ -107,6 +108,20 @@ Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. F
 - [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004)
 - [Synthesis](https://github.com/Mutagen-Modding/Synthesis)
 - [Full Modlist](https://loadorderlibrary.com/lists/animonculory-visual-overhaul)
+
+***
+
+### [Arisen](https://github.com/aljoxo/Arisen)
+
+A list primarily focused on creating fluid, gratifying, and engaging combat, featuring a significant amount of hand picked and custom tweaked animations, as well as several unique mods created in-house, including but not limited to a Special Attacks system similar to Elden Ring's Ashes of War or Dark Souls' Weapon Arts system. With a strong, stunning graphics baseline, many hand-placed items, a refreshing perk and progression system, custom skill trees, and more, Arisen seeks to provide a new, captivating experience for those seeking a more mechanically focused list. You can find an expansive Gameplay Guide [here](https://github.com/aljoxo/Arisen/blob/main/Documentation/Gameplay%20Guide.md).
+
+**_Mods to get familiar with:_**
+
+ - [ADXP | MCO](https://www.skyrim-guild.com/distar/mods/attack) and [SCAR](https://www.nexusmods.com/skyrimspecialedition/mods/72014)
+ - [Know Your Enemy](https://www.nexusmods.com/skyrimspecialedition/mods/13807)
+ - [Inconvenient Dungeons](https://www.nexusmods.com/skyrimspecialedition/mods/66784)
+ - [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) and [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/30410?tab=description)
+ - [Phylogeny](https://www.nexusmods.com/skyrimspecialedition/mods/44371)
 
 ***
 
