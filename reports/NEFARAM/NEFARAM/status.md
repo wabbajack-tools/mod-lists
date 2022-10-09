@@ -1,10 +1,11 @@
 ## Validation Report - NEFARAM (NEFARAM/NEFARAM)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [FreeFlyCamSKSE64_v12.1 (1.5.73-97).zip](http://www.enbseries.enbdev.com/forum/download/file.php?id=1661&sid=712a3f3a0200c048109c12c1e724c57f)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1464)
+### Valid (1463)
 *  [- Meshes - important-58370-1-0-1637050362.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=241886)
 *  [(2) Community Overlays 2 - Main - CBBE-26224-1-0-1559371694.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94367)
 *  [(2) Community Overlays 3 - Main - CBBE-35339-1-0-1588116779.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136886)
@@ -667,7 +668,6 @@
 *  [FormList Manipulator - FLM-74037-1-5-1-1663684877.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74037/?tab=files&file_id=317946)
 *  [FPCAO2 - SIZE MATTERS SE ALL-IN-ONE 2.01-45177-2-01-1612846122.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45177/?tab=files&file_id=184857)
 *  [Frankly HD Dragonbones 4k-2k-25099-1-0-1555458166.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25099/?tab=files&file_id=88687)
-*  [FreeFlyCamSKSE64_v12.1 (1.5.73-97).zip](http://www.enbseries.enbdev.com/forum/download/file.php?id=1661&sid=712a3f3a0200c048109c12c1e724c57f)
 *  [Frozen Electrocuted Combustion-3532-5-0-5-1652183044.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3532/?tab=files&file_id=282674)
 *  [FurnAnim v0_14.zip](https://www.loverslab.com/files/file/13464-furniture-sex-framework/)
 *  [FurnitureMarkerSex v0_14_3 SE.zip](https://www.loverslab.com/files/file/13464-furniture-sex-framework/)
