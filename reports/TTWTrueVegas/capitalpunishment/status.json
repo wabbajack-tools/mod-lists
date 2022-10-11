@@ -1,8 +1,8 @@
 {
   "MachineURL": "TTWTrueVegas/capitalpunishment",
   "Name": "Capital Punishment",
-  "Version": "0.9",
-  "ModListHash": "6sOkt51wmM0=",
+  "Version": "0.91",
+  "ModListHash": "/iBfkJckAGM=",
   "Archives": [
     {
       "Status": "Valid",
@@ -4916,16 +4916,15 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "iZBFukvQLDs=",
-        "Meta": "[General]\nmanualURL=https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv\nprompt=",
+        "Meta": "[General]\ndirectURL=https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fvivanewvegas.github.io%2F",
         "Name": "Vanilla_UI_Plus_New_Vegas_944.2.7z",
         "Size": 761468,
         "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "",
-          "Url": "https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv"
+          "$type": "ModDBDownloader, Wabbajack.Lib",
+          "Url": "https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fvivanewvegas.github.io%2F"
         }
       }
     },
@@ -16030,8 +16029,8 @@
       }
     }
   ],
-  "Status": "Available",
-  "Failures": 0,
+  "Status": "Failed",
+  "Failures": 1,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/TTWTrueVegas/7dcb8ebbb987e100_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/TTWTrueVegas/7dcb8ebbb987e100_large.webp"
 }

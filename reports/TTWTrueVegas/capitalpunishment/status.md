@@ -1,10 +1,11 @@
 ## Validation Report - Capital Punishment (TTWTrueVegas/capitalpunishment)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Vanilla_UI_Plus_New_Vegas_944.2.7z](https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fvivanewvegas.github.io%2F)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (876)
+### Valid (875)
 *  [_TTW Interiors Combo v6.5-66449-v6-5-1554528986.7z](https://www.nexusmods.com/newvegas/mods/66449/?tab=files&file_id=1000053074)
 *  [00 - Alcohol Bottles - Overhaul-73919-1-0-2-1644020370.7z](https://www.nexusmods.com/newvegas/mods/73919/?tab=files&file_id=1000087139)
 *  [00 - Better Books-74333-1-0-1636330917.7z](https://www.nexusmods.com/newvegas/mods/74333/?tab=files&file_id=1000083742)
@@ -856,7 +857,6 @@
 *  [update Collision Meshes FNV 1.6.3 to 1.6.4-59149-1-6-4-1592854853.7z](https://www.nexusmods.com/newvegas/mods/59149/?tab=files&file_id=1000063058)
 *  [Update from 3.7 to 4.6-56312-4-6-1597120326.rar](https://www.nexusmods.com/newvegas/mods/56312/?tab=files&file_id=1000064597)
 *  [Vanilla Body Version-77406-2-0-1658361905.rar](https://www.nexusmods.com/newvegas/mods/77406/?tab=files&file_id=1000096257)
-*  [Vanilla_UI_Plus_New_Vegas_944.2.7z](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)
 *  [Varmint Rifle 22 Setter-74423-1fix2-1640929249.rar](https://www.nexusmods.com/newvegas/mods/74423/?tab=files&file_id=1000085750)
 *  [Vault_Suits_Retextured_v1_2_2048-44875-1-2.zip](https://www.nexusmods.com/newvegas/mods/44875/?tab=files&file_id=101366)
 *  VeryHigh.ini
