@@ -1,4 +1,4 @@
-## Validation Report - Atomic Warfare (Modding-Lounge/Atomic_Warfare)
+## Validation Report - Atomic Warfare (Modding-Lounge/Atomic-Warfare)
 
 
 ### Invalid (0)

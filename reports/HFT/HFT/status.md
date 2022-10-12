@@ -1,11 +1,10 @@
 ## Validation Report - Happy Fun Times (HFT/HFT)
 
 
-### Invalid (1)
-*  [High_Poly_Head_v1.4_(SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1767)
+### Valid (1768)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
@@ -855,6 +854,7 @@
 *  [High Res Female Face Makeup for SKSE -Softer Varient--31665-v2-0.rar](https://www.nexusmods.com/skyrim/mods/31665/?tab=files&file_id=1000011299)
 *  [High Res Female Face Makeup for SKSE-31665-v1-0.rar](https://www.nexusmods.com/skyrim/mods/31665/?tab=files&file_id=1000010637)
 *  [High Res Male Face Makeup for SKSE-31665-v1-0.rar](https://www.nexusmods.com/skyrim/mods/31665/?tab=files&file_id=1000009857)
+*  [High_Poly_Head_v1.4_(SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 *  High.ini
 *  [Highlandcow HD-20758-1-0-1548091865.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20758/?tab=files&file_id=79177)
 *  [HIMBO NordwarUA - Guards Armor Replacer-53294-1-1-1633491742.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53294/?tab=files&file_id=232947)

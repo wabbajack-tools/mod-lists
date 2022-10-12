@@ -1,11 +1,10 @@
 ## Validation Report - Path of the Dovahkiin (wj-featured/potd)
 
 
-### Invalid (1)
-*  [High Poly Head v1.4 (SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (520)
+### Valid (521)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -234,6 +233,7 @@
 *  [Heritage-30017-1-9-1581349742.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30017/?tab=files&file_id=123516)
 *  [Heritage-30017-1-98-1585990136.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30017/?tab=files&file_id=132335)
 *  [High Poly Gleamblossoms - ENB Light-40278-1-2-1626461597.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40278/?tab=files&file_id=214944)
+*  [High Poly Head v1.4 (SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 *  [High Poly Project-12029-v4-95-1614673394.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=188917)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
 *  High.ini
