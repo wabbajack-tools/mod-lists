@@ -1,4 +1,4 @@
-## Validation Report - Fable Lore (Fable-Lore/Fable-Lore)
+## Validation Report - Fable Lore (Modding-Lounge/Fable-Lore)
 
 
 ### Invalid (0)
