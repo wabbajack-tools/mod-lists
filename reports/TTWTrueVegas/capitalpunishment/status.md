@@ -1,10 +1,11 @@
 ## Validation Report - Capital Punishment (TTWTrueVegas/capitalpunishment)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Capital Punishment - CDN Resources.7z](https://authored-files.wabbajack.org/Capital Punishment - CDN Resources.7z_d0a996ed-481f-4012-b95b-113361af4569)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (865)
+### Valid (864)
 *  [_TTW Interiors Combo v6.5-66449-v6-5-1554528986.7z](https://www.nexusmods.com/newvegas/mods/66449/?tab=files&file_id=1000053074)
 *  [00 - Alcohol Bottles - Overhaul-73919-1-0-2-1644020370.7z](https://www.nexusmods.com/newvegas/mods/73919/?tab=files&file_id=1000087139)
 *  [00 - Better Books-74333-1-0-1636330917.7z](https://www.nexusmods.com/newvegas/mods/74333/?tab=files&file_id=1000083742)
@@ -90,7 +91,6 @@
 *  [Butcher Pete - A Melee Animation Overhaul (Part 1) - Cleaver and Hatchet Only-76055-1-01-1649623187.rar](https://www.nexusmods.com/newvegas/mods/76055/?tab=files&file_id=1000090788)
 *  [Butcher Pete - A Melee Animation Overhaul (Part 2)-77177-1-0-1656015868.rar](https://www.nexusmods.com/newvegas/mods/77177/?tab=files&file_id=1000094707)
 *  [Capital Punishment - Casual Resources-77738-1-7-1665862538.7z](https://www.nexusmods.com/newvegas/mods/77738/?tab=files&file_id=1000099896)
-*  [Capital Punishment - CDN Resources.7z](https://authored-files.wabbajack.org/Capital Punishment - CDN Resources.7z_d0a996ed-481f-4012-b95b-113361af4569)
 *  [Capital Punishment - Deathwish Resources-77738-1-7-1665862506.7z](https://www.nexusmods.com/newvegas/mods/77738/?tab=files&file_id=1000099895)
 *  [Capital Punishment - Default Resources-77738-1-7-1665862484.7z](https://www.nexusmods.com/newvegas/mods/77738/?tab=files&file_id=1000099894)
 *  [Capital Punishment - General Resources-77738-1-62-1665791648.7z](https://www.nexusmods.com/newvegas/mods/77738/?tab=files&file_id=1000099873)
