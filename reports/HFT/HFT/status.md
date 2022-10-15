@@ -1,11 +1,10 @@
 ## Validation Report - Happy Fun Times (HFT/HFT)
 
 
-### Invalid (1)
-*  [04 [Christine] Bandit Summoner.7z](https://www.mediafire.com/file/m6vcqryvl2yarb2/04_%255BChristine%255D_Bandit_Summoner.7z/file)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1767)
+### Valid (1768)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
@@ -37,6 +36,7 @@
 *  [[Tullius] Blue Plate Armor.7z](https://www.mediafire.com/file/7ui6ladw7pk830t/[Tullius]+Blue+Plate+Armor.7z/file)
 *  [01 Paragon Aurora Glacier Empress.7z](https://www.mediafire.com/file/rsdw21ogf433uve/Paragon+Aurora+Glacier+Empress.7z/file)
 *  [02 - High Poly Hands Only-37485-1-0-1592622007.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37485/?tab=files&file_id=146550)
+*  [04 [Christine] Bandit Summoner.7z](https://www.mediafire.com/file/m6vcqryvl2yarb2/04_%255BChristine%255D_Bandit_Summoner.7z/file)
 *  [1_Frankly HD Miraak 1.0-19699-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19699/?tab=files&file_id=64768)
 *  [1-Unique Solstheim Grass-34581-1-1586584855.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34581/?tab=files&file_id=133550)
 *  [1) Enhanced Vanilla Trees SE - Lush Trees v2.1.0-11008-2-1-0-1607409193.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11008/?tab=files&file_id=173754)
