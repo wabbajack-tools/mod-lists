@@ -1,8 +1,8 @@
 {
   "MachineURL": "TTWTrueVegas/capitalpunishment",
   "Name": "Capital Punishment",
-  "Version": "0.94",
-  "ModListHash": "D1wOo1zsTDw=",
+  "Version": "0.95",
+  "ModListHash": "YUthgoiwxoY=",
   "Archives": [
     {
       "Status": "Valid",
@@ -66,6 +66,19 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Na5rL0VqUWI=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Capital Punishment Reshade Files.7z_e2b1dbe5-834c-4143-9390-b279231a4ad6",
+        "Name": "Capital Punishment Reshade Files.7z",
+        "Size": 37007504,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/Capital%20Punishment%20Reshade%20Files.7z_e2b1dbe5-834c-4143-9390-b279231a4ad6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "M8q6fWkLPxI=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=69779\nfileID=1000076606",
         "Name": "NVHR-69779-3-2-1622060833.zip",
@@ -81,19 +94,6 @@
           "ModID": 69779,
           "Name": "New Vegas Heap Replacer",
           "Version": "3.2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "zb4D8/2DgCU=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Capital Punishment Reshade Files.7z_eb504467-42e9-42a1-ba0f-dd6679571f3c",
-        "Name": "Capital Punishment Reshade Files.7z",
-        "Size": 37002645,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Capital%20Punishment%20Reshade%20Files.7z_eb504467-42e9-42a1-ba0f-dd6679571f3c"
         }
       }
     },
@@ -1623,27 +1623,6 @@
           "ModID": 34917,
           "Name": "Enhanced Blood Textures for NV v2_22c",
           "Version": "2.22.0.0c"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "33C3mWZO4BM=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=60534\nfileID=1000052617",
-        "Name": "Enhanced Item Info 1-4-3-60534-1-4-3-1552619438.7z",
-        "Size": 37346,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "pintocat",
-          "Description": "Adds extra info to HUD, including Value/Weight ratio, Recipe list, Companion weight, Ammo Comparison vs Target, Recipe input vs output comparison, etc",
-          "FileID": 1000052617,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/60534-0-1442943634.jpg",
-          "IsNSFW": false,
-          "ModID": 60534,
-          "Name": "Enhanced Item Info - Extra UI HUD",
-          "Version": "1.4.3.0"
         }
       }
     },
@@ -5773,15 +5752,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "IYZiw4/q9tc=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=77738\nfileID=1000099827",
-        "Name": "Capital Punishment - Deathwish Resources-77738-1-6-1665681157.7z",
-        "Size": 36153,
+        "Hash": "XeJjLlisWHM=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=77738\nfileID=1000099867",
+        "Name": "Capital Punishment - Deathwish Resources-77738-1-6-1665778982.7z",
+        "Size": 36758,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "The True Vegas Team",
           "Description": "These are the resources for TTW True Vegas: Capital Punishment, an upcoming modpack. Do not download this unless you are doing so with the collection",
-          "FileID": 1000099827,
+          "FileID": 1000099867,
           "GameName": "FalloutNewVegas",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77738/77738-1659296211-937016255.png",
           "IsNSFW": false,
@@ -5809,6 +5788,27 @@
           "ModID": 77738,
           "Name": "TTW True Vegas Resources",
           "Version": "1.6.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YuV7eJLEVvQ=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=77738\nfileID=1000099873",
+        "Name": "Capital Punishment - General Resources-77738-1-62-1665791648.7z",
+        "Size": 883021,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The True Vegas Team",
+          "Description": "These are the resources for TTW True Vegas: Capital Punishment, an upcoming modpack. Do not download this unless you are doing so with the collection",
+          "FileID": 1000099873,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77738/77738-1659296211-937016255.png",
+          "IsNSFW": false,
+          "ModID": 77738,
+          "Name": "TTW True Vegas Resources",
+          "Version": "1.62.0.0"
         }
       }
     },
@@ -8709,27 +8709,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XYKobikKQPM=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=77738\nfileID=1000099829",
-        "Name": "Capital Punishment - General Resources-77738-1-6-1665681216.7z",
-        "Size": 880860,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "The True Vegas Team",
-          "Description": "These are the resources for TTW True Vegas: Capital Punishment, an upcoming modpack. Do not download this unless you are doing so with the collection",
-          "FileID": 1000099829,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77738/77738-1659296211-937016255.png",
-          "IsNSFW": false,
-          "ModID": 77738,
-          "Name": "TTW True Vegas Resources",
-          "Version": "1.6.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "7Kwr5H0cXm8=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=71310\nfileID=1000093509",
         "Name": "CHR Tweaks-71310-0-4b-1654079194.zip",
@@ -11103,27 +11082,6 @@
           "ModID": 74232,
           "Name": "NV Securitrons Lip Sync",
           "Version": "f2.02"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6YVSy1dfa6Y=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=63934\nfileID=1000043819",
-        "Name": "Pause Menu HD 2048-63934-1-0.7z",
-        "Size": 1553232,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "pilamin",
-          "Description": "Faithful HD retexture of the pause menu background. Compatible with Fallout 3.",
-          "FileID": 1000043819,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/63934-3-1506304258.jpg",
-          "IsNSFW": false,
-          "ModID": 63934,
-          "Name": "Pause Menu HD",
-          "Version": "1.0.0.0"
         }
       }
     },
