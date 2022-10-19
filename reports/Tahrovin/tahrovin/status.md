@@ -1,10 +1,11 @@
 ## Validation Report - Tahrovin (Tahrovin/tahrovin)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Elegant Beauty Stunning Eyes Remastered v2.7z](https://drive.google.com/uc?id=1sBiw9U05mFboGH5pcGKaA_aliM9bPzaS&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (673)
+### Valid (672)
 *  [.Deadly Spell Impacts 4K-74526-1-0-1662133724.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74526/?tab=files&file_id=312550)
 *  [(2) Sharkish Piercings - 3BA - Base-57131-1-01-1634464044.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235340)
 *  [(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77989)
@@ -268,7 +269,6 @@
 *  [EBD SSE - EveryBodys Different for SSE - Skyproc Patcher-15257-3-45-1614199936.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15257/?tab=files&file_id=187830)
 *  [ED Horns SSE.7z](https://mega.nz/file/o6o1wIhC#dX4vfLGvsYjzUmGxH7ECyyB0KuN3ELB0KFXybH8-Yyk)
 *  [EFM SE - Racemenu plugin-35785-1-0-1595174244.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35785/?tab=files&file_id=151142)
-*  [Elegant Beauty Stunning Eyes Remastered v2.7z](https://drive.google.com/uc?id=1sBiw9U05mFboGH5pcGKaA_aliM9bPzaS&export=download)
 *  [Elena Preset High-Poly-40868-1-0-1601153216.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40868/?tab=files&file_id=162716)
 *  [ElSopa - HD Keys Redone 2k-48209-1-0-1617725975.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48209/?tab=files&file_id=196463)
 *  [Embers XD-37085-2-6-1-1654091705.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37085/?tab=files&file_id=288082)
