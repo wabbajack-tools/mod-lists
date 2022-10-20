@@ -1,11 +1,12 @@
 ## Validation Report - Capital Punishment (TTWTrueVegas/capitalpunishment)
 
 
-### Invalid (1)
+### Invalid (2)
+*  [Unofficial_DarNified_UI_Update_-_FNV.1 (1).zip](https://www.moddb.com/downloads/start/236022)
 *  [Vanilla_UI_Plus_New_Vegas_944.2.7z](https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fvivanewvegas.github.io%2F)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (874)
+### Valid (873)
 *  [_TTW Interiors Combo v6.5-66449-v6-5-1554528986.7z](https://www.nexusmods.com/newvegas/mods/66449/?tab=files&file_id=1000053074)
 *  [00 - Alcohol Bottles - Overhaul-73919-1-0-2-1644020370.7z](https://www.nexusmods.com/newvegas/mods/73919/?tab=files&file_id=1000087139)
 *  [00 - Better Books-74333-1-0-1636330917.7z](https://www.nexusmods.com/newvegas/mods/74333/?tab=files&file_id=1000083742)
@@ -852,7 +853,6 @@
 *  [Uncut Wasteland plus NPCs.-56625-0-91b.zip](https://www.nexusmods.com/newvegas/mods/56625/?tab=files&file_id=1000035158)
 *  [UniquesPFXolerysknvse-76251-1-1650684876.rar](https://www.nexusmods.com/newvegas/mods/76251/?tab=files&file_id=1000091449)
 *  [Unnecessary Physics-63475-1-0.7z](https://www.nexusmods.com/newvegas/mods/63475/?tab=files&file_id=1000042368)
-*  [Unofficial_DarNified_UI_Update_-_FNV.1 (1).zip](https://www.moddb.com/downloads/start/236022)
 *  [update Collision Meshes FNV 1.6.3 to 1.6.4-59149-1-6-4-1592854853.7z](https://www.nexusmods.com/newvegas/mods/59149/?tab=files&file_id=1000063058)
 *  [Update from 3.7 to 4.6-56312-4-6-1597120326.rar](https://www.nexusmods.com/newvegas/mods/56312/?tab=files&file_id=1000064597)
 *  [Varmint Rifle 22 Setter-74423-1fix2-1640929249.rar](https://www.nexusmods.com/newvegas/mods/74423/?tab=files&file_id=1000085750)
