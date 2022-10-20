@@ -683,7 +683,7 @@
 *  [Legacy Safehouse Plus-39278-3-2-1637643267.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39278/?tab=files&file_id=243625)
 *  [Legacy-Breezehome Patch (ESL)-31650-1-1-1589309928.zip](https://www.nexusmods.com/skyrimspecialedition/mods/31650/?tab=files&file_id=139580)
 *  [Less Tedious Thieves Guild-6581-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6581/?tab=files&file_id=30124)
-*  [Lively's Patches-70833-2-2-0-1666201960.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70833/?tab=files&file_id=325226)
+*  [Lively's Patches-70833-2-2-2-1666226713.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70833/?tab=files&file_id=325280)
 *  [LOD Mesh Fixes for DynDOLOD-69851-1-0-1655555459.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69851/?tab=files&file_id=292022)
 *  [LOD Unloading Bug Fix-61251-0-1-1642048241.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61251/?tab=files&file_id=256294)
 *  [loot_0.18.3-win64.7z](https://github.com/loot/loot/releases/download/0.18.3/loot_0.18.3-win64.7z)
