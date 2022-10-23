@@ -717,7 +717,7 @@
 *  [Moonpath to Elsweyr SSE-4341-1-16-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4341/?tab=files&file_id=19300)
 *  [More Adventures For OStim-66313-0-2-1-1650909389.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66313/?tab=files&file_id=279608)
 *  [More Informative Console 0.43-19250-0-43-1624831495.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=211462)
-*  [More Informative Console 1.1.0 SE-19250-1-1-0-1658684842.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=301855)
+*  [More Informative Console 1.0.1 SE-19250-1-0-1-1653434078.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=286245)
 *  [More lights for ENB SE - Mania tileset-41834-1-0-1604004148.rar](https://www.nexusmods.com/skyrimspecialedition/mods/41834/?tab=files&file_id=167613)
 *  [moreHUD Inventory Edition - Pre AE-18619-1-0-19-1643677289.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18619/?tab=files&file_id=260838)
 *  [moreHUD Inventory Edition Loose Version - Pre AE-18619-1-0-19-1643677334.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18619/?tab=files&file_id=260839)
