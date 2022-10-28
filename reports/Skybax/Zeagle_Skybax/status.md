@@ -1,13 +1,12 @@
 ## Validation Report - Skybax (Skybax/Zeagle_Skybax)
 
 
-### Invalid (2)
+### Invalid (1)
 *  High_Poly_Head_v1.4_(SE).zip
-*  [skse64_2_00_20.7z](https://skse.silverlock.org/beta/skse64_2_00_20.7z)
 ### Updated (1)
 *  [OSex-17209-2-02SE-Alpha.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17209/?tab=files&file_id=54347)
 ### Mirrored (0)
-### Valid (1597)
+### Valid (1598)
 *  [- Skyrim 2020 8.4.2 - 3 of 3 - Other - 4K to 2K-2347-8-4-2-1624479907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=210840)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [-Skyrim 2020 Update 8.45 to 8.8 - 8K-2347-8-8-1646827889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=269047)
@@ -1278,6 +1277,7 @@
 *  [SkeletonReplacer - PatchCollection-52845-1-1-1630233459.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52845/?tab=files&file_id=224556)
 *  [Skinchangers v1-34900-1-0-1587221211.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34900/?tab=files&file_id=134917)
 *  [SKSE64 INI PRE DOWNLOAD v1.2-1651-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1651/?tab=files&file_id=33902)
+*  [skse64_2_00_20.7z](https://skse.silverlock.org/beta/skse64_2_00_20.7z)
 *  [Sky Haven Temple Redone-42490-1-1605662214.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42490/?tab=files&file_id=170521)
 *  [Sky Idles alternative version-45794-2-0-1638347475.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45794/?tab=files&file_id=245767)
 *  [Skybax-files-2.zip](https://github.com/Zeagl3/Skybax/raw/main/files/Skybax-files-2.zip)
