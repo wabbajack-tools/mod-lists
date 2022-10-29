@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (181)
+### Valid (182)
 *  [Addres Library-47327-1-10-163-0-1599728753.zip](https://www.nexusmods.com/fallout4/mods/47327/?tab=files&file_id=191018)
 *  [Barstool Games - Main-30222-v1-1-1-1545946011.zip](https://www.nexusmods.com/fallout4/mods/30222/?tab=files&file_id=148797)
 *  [Barstool games Sim Settlments 2 Plots-50780-1-0-1615785291.zip](https://www.nexusmods.com/fallout4/mods/50780/?tab=files&file_id=203707)
@@ -113,6 +113,7 @@
 *  [HUDFramework 1.0f-20309-1-0f.zip](https://www.nexusmods.com/fallout4/mods/20309/?tab=files&file_id=93183)
 *  [IDEK's Logistics Station 2-48389-2-1-3-1633667475.7z](https://www.nexusmods.com/fallout4/mods/48389/?tab=files&file_id=218736)
 *  [ImmersiveTeleportation-35109-2-3-0-1666481369.7z](https://www.nexusmods.com/fallout4/mods/35109/?tab=files&file_id=254291)
+*  [Industrial Revolution of the Wasteland - Main File-65545-V1-0-1667015500.zip](https://www.nexusmods.com/fallout4/mods/65545/?tab=files&file_id=254962)
 *  installscript.vdf
 *  [IT_SS2-65273-1-0-0-1666481319.7z](https://www.nexusmods.com/fallout4/mods/65273/?tab=files&file_id=254290)
 *  [Jampads 2 - a Sim Settlements 2 Add On-48618-2-0-1-1665193812.zip](https://www.nexusmods.com/fallout4/mods/48618/?tab=files&file_id=252728)
