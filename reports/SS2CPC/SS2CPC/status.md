@@ -153,7 +153,7 @@
 *  [Sim Settlements 2 Addon Pack - The Alley Cabaret-51722-1-0-1619589398.7z](https://www.nexusmods.com/fallout4/mods/51722/?tab=files&file_id=206812)
 *  [Sim Settlements 2 Addon Pack CaravanSnatex 1.2-63578-1-2-1662452417.7z](https://www.nexusmods.com/fallout4/mods/63578/?tab=files&file_id=249709)
 *  [Sim Settlements 2 Settlement Management Terminal-64135-1-3-1665552107.rar](https://www.nexusmods.com/fallout4/mods/64135/?tab=files&file_id=253194)
-*  [Sim Settlements 2-47976-2-2-4-1666973945.7z](https://www.nexusmods.com/fallout4/mods/47976/?tab=files&file_id=254900)
+*  [Sim Settlements 2-47976-2-2-4a-1667097058.7z](https://www.nexusmods.com/fallout4/mods/47976/?tab=files&file_id=255058)
 *  [SimHomestead-50172-5-0beta-1613542141.zip](https://www.nexusmods.com/fallout4/mods/50172/?tab=files&file_id=201689)
 *  [SimSettlements2 AddOnPack Apocalyptic Additions SirLach-48659-1-0-1-1607344231.7z](https://www.nexusmods.com/fallout4/mods/48659/?tab=files&file_id=196526)
 *  [Snappy Half Walls-61248-1-0-1655024715.7z](https://www.nexusmods.com/fallout4/mods/61248/?tab=files&file_id=240391)
