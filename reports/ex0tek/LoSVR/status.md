@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (719)
+### Valid (718)
 *  [1) Skyrim Immersive Creatures v7.0.2 (includes 1K Textures)-12680-v7-0-2-1631188254.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12680/?tab=files&file_id=227169)
 *  [1k Textures-75377-1-1.rar](https://www.nexusmods.com/skyrim/mods/75377/?tab=files&file_id=1000205296)
 *  [3.18 to 3.20 Update-20199-3-20-1657117561.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20199/?tab=files&file_id=296677)
@@ -129,9 +129,6 @@
 *  Data_Skyrim - Textures2.bsa
 *  Data_Skyrim - Textures3.bsa
 *  Data_Skyrim - Textures4.bsa
-*  Data_Skyrim - Textures5.bsa
-*  Data_Skyrim - Textures6.bsa
-*  Data_Skyrim - Textures7.bsa
 *  Data_Skyrim.esm
 *  Data_SkyrimVR.esm
 *  Data_Strings_Dawnguard_ENGLISH.DLSTRINGS
@@ -422,6 +419,7 @@
 *  [Leviathan Animations Female Idle walk and run - No clenched fists-42204-1-5-1616156293.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42204/?tab=files&file_id=192294)
 *  [Lively Children Animations - Main file (no looped idles) - DAR-67557-1-0-0-1657374337.zip](https://www.nexusmods.com/skyrimspecialedition/mods/67557/?tab=files&file_id=297441)
 *  [Lore Weapon Expansion-9660-1-4c.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9660/?tab=files&file_id=25118)
+*  [LoSVR 2.0 LOD Output.zip](https://authored-files.wabbajack.org/LoSVR 2.0 LOD Output.zip_ef1b8f29-6add-4a8c-bd42-2c7f4f36c561)
 *  [Lucidity Sound FX v2u-1841-v2u-1548946589.rar](https://www.nexusmods.com/skyrimspecialedition/mods/1841/?tab=files&file_id=80244)
 *  [Lucien-20035-1-6-3-1636656096.rar](https://www.nexusmods.com/skyrimspecialedition/mods/20035/?tab=files&file_id=240595)
 *  [MageArmorScriptFix-58862-1-0-1637563565.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58862/?tab=files&file_id=243411)
@@ -541,6 +539,7 @@
 *  [Remove Ambient Rumble Loops-73181-0-1.7z](https://www.nexusmods.com/skyrim/mods/73181/?tab=files&file_id=1000198021)
 *  [Remove Arrow Impact Smoke-8736-1-1-1647404722.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8736/?tab=files&file_id=270456)
 *  [Remove Dust Fog Smoke Mist Glow-38196-1-2-1633905705.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38196/?tab=files&file_id=234056)
+*  [Remove Dust Fog Smoke Mist Glow-38196-1-3-1659034966.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38196/?tab=files&file_id=302939)
 *  [Remove Useless Plants - High Compatibility-18437-1-0-1598405755.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18437/?tab=files&file_id=157671)
 *  [Return to Pelagius' mind-31344-0-2-1581153203.rar](https://www.nexusmods.com/skyrimspecialedition/mods/31344/?tab=files&file_id=123153)
 *  [Rich Skyrim Merchants-1772-2-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/1772/?tab=files&file_id=29328)
