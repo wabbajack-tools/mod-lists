@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (399)
+### Valid (401)
 *  [1 Oblivion Upscaled Textures Default-49351-2-1560951173.7z](https://www.nexusmods.com/oblivion/mods/49351/?tab=files&file_id=1000022409)
 *  [1kart_SIUT_default-49645-1-1571272428.7z](https://www.nexusmods.com/oblivion/mods/49645/?tab=files&file_id=1000023128)
 *  [2020 Retexture Project - Landscape and Rocks-49933-2-0-1615432788.7z](https://www.nexusmods.com/oblivion/mods/49933/?tab=files&file_id=1000027190)
@@ -44,6 +44,7 @@
 *  [Caves retexture 2k-45895-1-0.rar](https://www.nexusmods.com/oblivion/mods/45895/?tab=files&file_id=1000009177)
 *  [Cheydinhal Retexture-44685-1-0.rar](https://www.nexusmods.com/oblivion/mods/44685/?tab=files&file_id=1000005395)
 *  [Clean-up 0p56-24606-0-56.7z](https://www.nexusmods.com/oblivion/mods/24606/?tab=files&file_id=72685)
+*  [Coffee UI v1.0-52449-1-0-1666993964.7z](https://www.nexusmods.com/oblivion/mods/52449/?tab=files&file_id=1000032681)
 *  [Completely Ruined Ruins v03 skirting-44697-v03.7z](https://www.nexusmods.com/oblivion/mods/44697/?tab=files&file_id=1000007421)
 *  [Completely Ruined Ruins v03-44697-03.7z](https://www.nexusmods.com/oblivion/mods/44697/?tab=files&file_id=1000007248)
 *  [Crash Logger-48503-3-0-0-1620585731.zip](https://www.nexusmods.com/oblivion/mods/48503/?tab=files&file_id=1000027713)
@@ -239,6 +240,7 @@
 *  directx_OCT2006_XACT_x64.cab
 *  directx_OCT2006_XACT_x86.cab
 *  [Disable Quest Marker-30259-2022-02-20-1645395396.7z](https://www.nexusmods.com/oblivion/mods/30259/?tab=files&file_id=1000030372)
+*  [Display Stats 2_0_1-31855-2-0-1.rar](https://www.nexusmods.com/oblivion/mods/31855/?tab=files&file_id=75079)
 *  [Doors-50943-1-0-1616642948.7z](https://www.nexusmods.com/oblivion/mods/50943/?tab=files&file_id=1000027340)
 *  [DOWNPOUR-45520-02.7z](https://www.nexusmods.com/oblivion/mods/45520/?tab=files&file_id=1000007926)
 *  [Elven Map For Shivering Isles-16640.zip](https://www.nexusmods.com/oblivion/mods/16640/?tab=files&file_id=23361)
