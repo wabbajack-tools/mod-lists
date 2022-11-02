@@ -116,7 +116,7 @@
 *  [Industrial Revolution of the Wasteland - Main File-65545-V1-0-1667015500.zip](https://www.nexusmods.com/fallout4/mods/65545/?tab=files&file_id=254962)
 *  installscript.vdf
 *  [IT_SS2-65273-1-0-0-1666481319.7z](https://www.nexusmods.com/fallout4/mods/65273/?tab=files&file_id=254290)
-*  [Jampads 2 - a Sim Settlements 2 Add On-48618-2-0-1-1665193812.zip](https://www.nexusmods.com/fallout4/mods/48618/?tab=files&file_id=252728)
+*  [Jampads 2 - a Sim Settlements 2 Add On-48618-2-0-2-1667356425.zip](https://www.nexusmods.com/fallout4/mods/48618/?tab=files&file_id=255453)
 *  [Junk Town 2-48271-2-2-1614731829.rar](https://www.nexusmods.com/fallout4/mods/48271/?tab=files&file_id=202715)
 *  [JunkTown - EXTREME2-48399-1-1-1606179168.rar](https://www.nexusmods.com/fallout4/mods/48399/?tab=files&file_id=195569)
 *  [JunkTown - FENCES2-48525-1-2-1607039818.rar](https://www.nexusmods.com/fallout4/mods/48525/?tab=files&file_id=196201)

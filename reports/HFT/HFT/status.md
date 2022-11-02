@@ -1,10 +1,11 @@
 ## Validation Report - Happy Fun Times (HFT/HFT)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [[Christine] Dragon Guard.7z](https://www.mediafire.com/file/xxc1nqrinwoashv/[Christine]+Dragon+Guard.7z/file)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1768)
+### Valid (1767)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
@@ -19,7 +20,6 @@
 *  [[Christine] College Warrior.7z](https://www.mediafire.com/file/hsaj1v2hghpwst3/[Christine]+College+Warrior.7z/file)
 *  [[Christine] Companion Moon.7z](https://www.mediafire.com/file/fgoyj3pxkh9r9ui/%255BChristine%255D_Companion_Moon.7z/file)
 *  [[Christine] Dragon Fighter v2.7z](https://www.mediafire.com/file/a829yjv6ikonqpq/[Christine]+Dragon+Fighter+v2.7z/file)
-*  [[Christine] Dragon Guard.7z](https://www.mediafire.com/file/xxc1nqrinwoashv/[Christine]+Dragon+Guard.7z/file)
 *  [[Christine] Dragon Viking.7z](https://www.mediafire.com/file/h2ekbsae68fs7x6/[Christine]+Dragon+Viking.7z/file)
 *  [[Christine] Earth Warden CBBE (Physics - CBBE SMP - 3BA) fomod.7z](https://www.mediafire.com/file/ksom6obgomn6bmx/%255BChristine%255D_Earth_Warden_CBBE_%2528Physics_-_CBBE_SMP_-_3BA%2529_fomod.7z)
 *  [[Christine] Eastern Ronin CBBE (Physics - CBBE SMP - 3BA) fomod.7z](https://www.mediafire.com/file/q6zsxkfzns30ivy/%255BChristine%255D_Eastern_Ronin_CBBE_%2528Physics_-_CBBE_SMP_-_3BA%2529_fomod.7z)
