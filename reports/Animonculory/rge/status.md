@@ -1,11 +1,10 @@
 ## Validation Report - Relics of Hyrule - GAT Edition (Animonculory/rge)
 
 
-### Invalid (1)
-*  [Skyrim_Realistic_Overhaul_1.8._Update.rar](https://www.moddb.com/downloads/start/139489?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (948)
+### Valid (949)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(2K) Skygazer Moons - Masser and Secunda HD Moons by fadingsignal-54349-1-0.rar](https://www.nexusmods.com/skyrim/mods/54349/?tab=files&file_id=1000110438)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
@@ -791,6 +790,7 @@
 *  [Skyrim Unbound Reborn-27962-1-8-0-1651681797.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27962/?tab=files&file_id=281524)
 *  [Skyrim Weapons Expansion - BSA Packed - 2k-32500-1-1-1581451003.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32500/?tab=files&file_id=123680)
 *  Skyrim_Default.ini
+*  [Skyrim_Realistic_Overhaul_1.8._Update.rar](https://www.moddb.com/downloads/start/139489?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
 *  [Skyrim_Realistic_Overhaul_Part_1.7z](https://www.moddb.com/downloads/start/116891?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
 *  [Skyrim_Realistic_Overhaul_Part_2.7z](https://www.moddb.com/downloads/start/116927?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
 *  [Skyrim_Realistic_Overhaul_Part_3.7z](https://www.moddb.com/downloads/start/116934?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
