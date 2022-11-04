@@ -63,6 +63,8 @@
   - [Through The Valleys](#through-the-valleys)
 - [The Witcher 3](#the-witcher-3)
   - [The Witcher 3 My Way](#the-witcher-3-my-way)
+- [Cyberpunk 2077](#cyberpunk-2077)
+  - [Cyberpunk THING](#cyberpunk-thing)
 ***
 
 ## Skyrim Special Edition
@@ -777,3 +779,26 @@ Through the Valleys is a lightweight but comprehensive overhaul of Oblivion tail
 This is a "Vanilla Plus" style modlist for The Witcher 3 with gameplay enhancements based on FCR3 + nearly everything from Partoutatix.
 
 The game should still feel like TW3 but a much more refined and visually improved experience.
+
+## Cyberpunk 2077
+
+### [Cyberpunk THING](https://www.wabbajack.org/modlist/CDPR_Modlists/CyberpunkTHING)
+
+Cyberpunk 2077 is not a hard game. We decided to change that.
+
+The aim is to make Cyberpunk the game it was always intended to be. More immersive, more realistic. A bullet's a bullet, and Night City is full of hardened gangoons with hair triggers and bad attitudes. But they've never run into anything like you.
+
+More than just a collection of other modders' amazing work, we are actively developing new mods to add gameplay elements that support our vision. We provide a fully preconfigured and easy to use modded experience; it just works, plug n' play.
+
+**_Mods to get familiar with:_**
+
+- [AI Netrunners Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/2468)
+- [Cyber Vehicle Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3016)
+- [SDO - Scissors Difficulty Options](https://www.nexusmods.com/cyberpunk2077/mods/4408)
+- [Vehicle Combat](https://www.nexusmods.com/cyberpunk2077/mods/3815)
+- [WE3D - Drugs of Night City](https://www.nexusmods.com/cyberpunk2077/mods/4407)
+- [Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931)
+- [Night City Interactions](https://www.nexusmods.com/cyberpunk2077/mods/5519)
+- [Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/2302)
+
+***
