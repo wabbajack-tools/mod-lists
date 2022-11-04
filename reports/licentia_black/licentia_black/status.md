@@ -446,7 +446,7 @@
 *  [ENB Helper SE 1.5 for SSE 1.5.97-23174-1-5-1574569443.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23174/?tab=files&file_id=114237)
 *  [ENB Input Disabler-62796-1-0-2-1643723189.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62796/?tab=files&file_id=260978)
 *  [ENB Light 0.98 Alpha 2-22574-0-98Alpha2-1577144667.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=117211)
-*  [enbseries_skyrimse_v0477.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0477.zip_9e1fd069-4138-459e-aa56-deb6bfd0f0bd)
+*  [enbseries_skyrimse_v0477.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0477.zip_314c07d7-a282-40ad-a621-e012d5cbfaf9)
 *  [Encounter Zones Unlocked SE-19608-1-4-1583906933.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19608/?tab=files&file_id=128125)
 *  [Enderal Music for Skyrim Forgotten Stories With Vanilla Music - Recommended-16243-2-1-1570389468.zip](https://www.nexusmods.com/skyrimspecialedition/mods/16243/?tab=files&file_id=109482)
 *  [Enhanced Blood Textures-2357-4-0-1639547261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=249235)
