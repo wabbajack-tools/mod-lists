@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (614)
+### Valid (592)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [1_Enhanced Blood Textures-2357-4-0-1639547261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=249235)
@@ -90,7 +90,6 @@
 *  [CGO Stripped-60258-2-1639870375.zip](https://www.nexusmods.com/skyrimspecialedition/mods/60258/?tab=files&file_id=250165)
 *  [Chain Pull Animation-54304-0-5-1629612514.rar](https://www.nexusmods.com/skyrimspecialedition/mods/54304/?tab=files&file_id=222842)
 *  [Chill Out Aela-31949-1-0-1579568285.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31949/?tab=files&file_id=120640)
-*  [CK Custom ini-19817-4-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19817/?tab=files&file_id=65800)
 *  [CK64Fixes Release 3.2-20061-3-2-1616560054.zip](https://www.nexusmods.com/skyrimspecialedition/mods/20061/?tab=files&file_id=193264)
 *  [Classic Paralysis SE-45931-3-2-1-1637989053.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45931/?tab=files&file_id=244713)
 *  [Classic Sprinting Redone-20166-2-2-1626015365.zip](https://www.nexusmods.com/skyrimspecialedition/mods/20166/?tab=files&file_id=214018)
@@ -104,8 +103,6 @@
 *  [Contextual Crosshair-63980-1-2-0-1651442241.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63980/?tab=files&file_id=280897)
 *  [Copy and Paste in Console v1.0.1 for Skyrim SE-30928-1-0-1-1615644554.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30928/?tab=files&file_id=191247)
 *  [Crafting Recipe Distributor-52276-2-0-1652458998.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52276/?tab=files&file_id=283401)
-*  CreationKit.exe
-*  CreationKit.ini
 *  [Critters Aint Snitches v1.0 SSE-15134-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/15134/?tab=files&file_id=45421)
 *  [Curated Bosses for True HUD-53406-1-1-1643814226.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53406/?tab=files&file_id=261260)
 *  [Custom Skill Menu Basic Icon Pack-62423-1-0-1642939412.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62423/?tab=files&file_id=258865)
@@ -212,7 +209,6 @@
 *  [Flickering Sunlight Shadows Fix-53441-1-4-1628625258.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53441/?tab=files&file_id=220241)
 *  [Floating Ash Pile Fix-63434-0-2-1644944776.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63434/?tab=files&file_id=264466)
 *  [FloatingDamageV2 v2.0.1 for SkyrimSE-14332-2-0-1-1600165690.7z](https://www.nexusmods.com/skyrimspecialedition/mods/14332/?tab=files&file_id=160837)
-*  flowchartx64.dll
 *  [FonixData File Mod Manager Install-40971-1-0-1601510699.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40971/?tab=files&file_id=163332)
 *  [Forceful Tongue - Audio Overhaul for Skyrim Patch-36276-1-0-1-1636319169.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36276/?tab=files&file_id=239717)
 *  [Forceful Tongue - Shouts Overhaul-36276-3-0-3-1630337762.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36276/?tab=files&file_id=224948)
@@ -306,15 +302,6 @@
 *  [Leviathan Animations - Two-Handed High Stance SE-47092-1-4-1622760836.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47092/?tab=files&file_id=207135)
 *  [Leviathan Animations - Two-Handed Normal Attacks For High Stance-48550-1-2-1622761129.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48550/?tab=files&file_id=207136)
 *  [Leviathan Animations - Two-Handed Power Attacks For High Stance-50545-1-3-1622761240.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50545/?tab=files&file_id=207137)
-*  lex_accent.tlx
-*  lex_ssceam.tlx
-*  lex_ssceam2.clx
-*  lex_sscebr.tlx
-*  lex_sscebr2.clx
-*  lex_ssceca2.clx
-*  lex_tech.tlx
-*  lex_User_correct.tlx
-*  lex_User_userdic.tlx
 *  [Light Version-7296-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/7296/?tab=files&file_id=17327)
 *  [Lightning During Storm Sse V3 (Minty Lightning)-8778-V-3-1568654495.rar](https://www.nexusmods.com/skyrimspecialedition/mods/8778/?tab=files&file_id=107049)
 *  [Locational Damage(SKSE Plugin) 1.0.0 for SkyrimSE-46932-1-0-0-1615646284.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46932/?tab=files&file_id=191250)
@@ -384,11 +371,8 @@
 *  [Opt. 1 - Modified Vanilla Favorites-27177-1-0-1562408259.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27177/?tab=files&file_id=98327)
 *  [Opt. 2 - Even Wider Rescaled MCM Menu for SkyUI-22825-1-2-1572528179.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22825/?tab=files&file_id=112005)
 *  [Oxygen Meter - SSE-57452-1-2-0-1637264927.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57452/?tab=files&file_id=242515)
-*  p4com64.dll
 *  [Paarthurnax Quest Expansion-51711-1-02-1624963113.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51711/?tab=files&file_id=211709)
 *  [Paper UI Sounds-38944-6-1-1599820078.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38944/?tab=files&file_id=160166)
-*  Papyrus Compiler_PapyrusCompiler.exe
-*  Papyrus Compiler_ScriptCompile.bat
 *  [Papyrus Extender-22854-5-0-3-1649837626.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=276783)
 *  [PapyrusUtil SE - Scripting Utility Functions-13048-3-9-1580810594.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=122686)
 *  [Passive Enchanting Experience-59310-1-0-1639477584.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59310/?tab=files&file_id=249010)
@@ -549,12 +533,6 @@
 *  [TK Dodge SE-15309-3-18-1574502132.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15309/?tab=files&file_id=114159)
 *  [TKAA AI PATCH-49415-1-2-1639224021.rar](https://www.nexusmods.com/skyrimspecialedition/mods/49415/?tab=files&file_id=248193)
 *  [To Your Face Redux - SSE-49047-1-1-1619535944.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49047/?tab=files&file_id=200480)
-*  Tools_Archive_Archive.exe
-*  Tools_Audio_xwmaencode.exe
-*  Tools_Elric_xg.dll
-*  Tools_Elric_xtexconv.exe
-*  Tools_HavokBehaviorPostProcess_HavokBehaviorPostProcess.exe
-*  Tools_HavokBehaviorPostProcess_UpgradeHavokBehavior.bat
 *  [Torch Remover-33381-1-1-1637937876.zip](https://www.nexusmods.com/skyrimspecialedition/mods/33381/?tab=files&file_id=244536)
 *  [True Directional Movement (SE)-51614-2-2-1-1648078883.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51614/?tab=files&file_id=272082)
 *  [TrueHUD (SE)-62775-1-1-4-1648214854.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62775/?tab=files&file_id=272398)
