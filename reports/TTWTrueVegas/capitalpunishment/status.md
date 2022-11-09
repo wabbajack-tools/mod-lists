@@ -2,7 +2,7 @@
 
 
 ### Invalid (2)
-*  [TTW_3.3.2_Hotfix.zip](https://cdn.discordapp.com/attachments/267355049666019329/1003041304252534814/TTW_3.3.2_Hotfix.zip)
+*  [Enhanced Vision 1.3.1 [eddoursul.win].7z](https://eddoursul.win/download/247)
 *  [Vanilla_UI_Plus_New_Vegas_944.2.7z](https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fvivanewvegas.github.io%2F)
 ### Updated (0)
 ### Mirrored (0)
@@ -445,7 +445,6 @@
 *  [Enhanced Blood Textures-34917-2-22c.rar](https://www.nexusmods.com/newvegas/mods/34917/?tab=files&file_id=1000017433)
 *  [Enhanced Bullet Impacts-61804-1-0.7z](https://www.nexusmods.com/newvegas/mods/61804/?tab=files&file_id=1000036972)
 *  [Enhanced Landscapes-69406-1-4-9-1648411013.7z](https://www.nexusmods.com/newvegas/mods/69406/?tab=files&file_id=1000089984)
-*  [Enhanced Vision 1.3.1 [eddoursul.win].7z](https://eddoursul.win/download/247)
 *  [EXE FULL RES V2  -LATEST--62989-v2.7z](https://www.nexusmods.com/newvegas/mods/62989/?tab=files&file_id=1000041486)
 *  [F4NV Combat Ranger-70319-1-3-1621289117.rar](https://www.nexusmods.com/newvegas/mods/70319/?tab=files&file_id=1000076195)
 *  [Fallout 76 Crafting-67015-1-12-1608129749.7z](https://www.nexusmods.com/newvegas/mods/67015/?tab=files&file_id=1000068625)
@@ -841,6 +840,7 @@
 *  [TTW Reputations-68604-1-4-1657361262.7z](https://www.nexusmods.com/newvegas/mods/68604/?tab=files&file_id=1000095629)
 *  [TTW Transportalponder Extended-76128-3-0-1-1652678556.zip](https://www.nexusmods.com/newvegas/mods/76128/?tab=files&file_id=1000092598)
 *  [TTW Wasteland Sounds-67912-0-8-1574489852.zip](https://www.nexusmods.com/newvegas/mods/67912/?tab=files&file_id=1000057688)
+*  [TTW_3.3.2_Hotfix.zip](https://cdn.discordapp.com/attachments/267355049666019329/1003041304252534814/TTW_3.3.2_Hotfix.zip)
 *  [TTW's Hunting Rifle and .32 Rifle Textures-69837-1-0-1599238845.rar](https://www.nexusmods.com/newvegas/mods/69837/?tab=files&file_id=1000065332)
 *  [TTWQuickStart-65937-1-4-1649387995.7z](https://www.nexusmods.com/newvegas/mods/65937/?tab=files&file_id=1000090652)
 *  [TTWSawyerBatty-75598-1-13-1651800319.7z](https://www.nexusmods.com/newvegas/mods/75598/?tab=files&file_id=1000092095)
