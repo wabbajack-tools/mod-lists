@@ -1,12 +1,11 @@
 ## Validation Report - Capital Punishment (TTWTrueVegas/capitalpunishment)
 
 
-### Invalid (2)
-*  [Enhanced Vision 1.3.1 [eddoursul.win].7z](https://eddoursul.win/download/247)
+### Invalid (1)
 *  [Vanilla_UI_Plus_New_Vegas_944.2.7z](https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fvivanewvegas.github.io%2F)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (877)
+### Valid (878)
 *  [00 - Alcohol Bottles - Overhaul-73919-1-0-2-1644020370.7z](https://www.nexusmods.com/newvegas/mods/73919/?tab=files&file_id=1000087139)
 *  [00 - Better Books-74333-1-0-1636330917.7z](https://www.nexusmods.com/newvegas/mods/74333/?tab=files&file_id=1000083742)
 *  [01 - Improved Male Body - FOMOD Installer-70160-1-4-1644720615.7z](https://www.nexusmods.com/newvegas/mods/70160/?tab=files&file_id=1000087623)
@@ -445,6 +444,7 @@
 *  [Enhanced Blood Textures-34917-2-22c.rar](https://www.nexusmods.com/newvegas/mods/34917/?tab=files&file_id=1000017433)
 *  [Enhanced Bullet Impacts-61804-1-0.7z](https://www.nexusmods.com/newvegas/mods/61804/?tab=files&file_id=1000036972)
 *  [Enhanced Landscapes-69406-1-4-9-1648411013.7z](https://www.nexusmods.com/newvegas/mods/69406/?tab=files&file_id=1000089984)
+*  [Enhanced Vision 1.3.1 [eddoursul.win].7z](https://eddoursul.win/download/247)
 *  [EXE FULL RES V2  -LATEST--62989-v2.7z](https://www.nexusmods.com/newvegas/mods/62989/?tab=files&file_id=1000041486)
 *  [F4NV Combat Ranger-70319-1-3-1621289117.rar](https://www.nexusmods.com/newvegas/mods/70319/?tab=files&file_id=1000076195)
 *  [Fallout 76 Crafting-67015-1-12-1608129749.7z](https://www.nexusmods.com/newvegas/mods/67015/?tab=files&file_id=1000068625)
