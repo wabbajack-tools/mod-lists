@@ -1,11 +1,10 @@
 ## Validation Report - Serenity 2 (wj-featured/serenity)
 
 
-### Invalid (1)
-*  [Serenity - Facegen Override.7z](https://wabbajack.b-cdn.net/Serenity - Facegen Override.7z_e827241b-5886-49ca-aaf2-49548fbf9ef9)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (990)
+### Valid (991)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [000EquanimityLoader.7z](https://wabbajack.b-cdn.net/000EquanimityLoader.7z_21c9caf3-f5b4-4589-bc0e-fde0af7d00e3)
@@ -793,6 +792,7 @@
 *  [Septentrional Landscapes 2K-29842-1-3-2-1588173223.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29842/?tab=files&file_id=136963)
 *  [Serana's Hood Fix-20243-3-0-1-1614025884.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20243/?tab=files&file_id=187457)
 *  [SeranasTombBloodCurse SE v1.1-26852-1-1-1561201783.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26852/?tab=files&file_id=96871)
+*  [Serenity - Facegen Override.7z](https://wabbajack.b-cdn.net/Serenity - Facegen Override.7z_e827241b-5886-49ca-aaf2-49548fbf9ef9)
 *  [Serenity 3DNPC BSA Proper.7z](https://wabbajack.b-cdn.net/Serenity 3DNPC BSA Proper.7z_fdc6bf82-2a9c-4ed1-bd1d-1408cb02ef49)
 *  [Serenity-DynDOLOD-Output-v1-6.7z](https://authored-files.wabbajack.org/Serenity-DynDOLOD-Output-v1-6.7z_f35d9217-4cd8-4fc6-ae6f-2dddae9a2edf)
 *  [Serenity-Finishing-Line-v1-6.7z](https://authored-files.wabbajack.org/Serenity-Finishing-Line-v1-6.7z_56c95b25-5686-4aca-ba7e-640d1587b934)

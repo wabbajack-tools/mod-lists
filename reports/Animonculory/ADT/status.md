@@ -4,17 +4,16 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (201)
+### Valid (94)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [Actor Limit Fix (Anniversary Edition)-32349-6-1648396498.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=273041)
 *  [All in one (Anniversary Edition)-32444-8-1664465359.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32444/?tab=files&file_id=320262)
 *  [AnimObject Swapper-75167-1-1-0-1666410165.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75167/?tab=files&file_id=325663)
 *  [Barter Limit Fix-77173-1-0-1665868879.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77173/?tab=files&file_id=324312)
-*  [Base Object Swapper-60805-2-0-0-1666954790.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60805/?tab=files&file_id=327057)
+*  [Base Object Swapper-60805-2-5-0-1667758321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60805/?tab=files&file_id=329638)
 *  [BethINI Standalone Version-4875-3-6-1-1651358897.zip](https://www.nexusmods.com/skyrimspecialedition/mods/4875/?tab=files&file_id=280690)
 *  [Better Jumping AE-18967-1-8-6-1663530469.zip](https://www.nexusmods.com/skyrimspecialedition/mods/18967/?tab=files&file_id=317398)
-*  bink2w64.dll
 *  [BodySlide and Outfit Studio - v5.6.0-201-5-6-0-1654342850.7z](https://www.nexusmods.com/skyrimspecialedition/mods/201/?tab=files&file_id=288728)
 *  [Bug Fixes SSE (Anniversary Edition)-33261-7-1648396889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33261/?tab=files&file_id=273044)
 *  [Cathedral Assets Optimizer - Basic Profiles Pack-26092-1-6-1620556030.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26092/?tab=files&file_id=202500)
@@ -25,85 +24,7 @@
 *  [ConsoleUtilSSE NG-76649-1-4-0-1665069096.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76649/?tab=files&file_id=322047)
 *  [Crafting Recipe Distributor-52276-2-1-0-1665595840.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52276/?tab=files&file_id=323522)
 *  [Crash Log Tools-66743-1-0-1-1650374513.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66743/?tab=files&file_id=278241)
-*  [CrashLogger-59818-1-1-0-1667204032.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=327865)
-*  CreationKit.exe
-*  CreationKit.ini
-*  Creations_4036197-4.manifest
-*  Creations_4036198-3.manifest
-*  Creations_4036199-7.manifest
-*  Creations_4036200-5.manifest
-*  Creations_4036201-3.manifest
-*  Creations_4036203-4.manifest
-*  Creations_4036204-3.manifest
-*  Creations_4036205-6.manifest
-*  Creations_4036206-6.manifest
-*  Creations_4042546-5.manifest
-*  Creations_4042550-3.manifest
-*  Creations_4059051-3.manifest
-*  Creations_4059054-4.manifest
-*  Creations_4059057-3.manifest
-*  Creations_4059060-3.manifest
-*  Creations_4059064-4.manifest
-*  Creations_4078130-4.manifest
-*  Creations_4078134-3.manifest
-*  Creations_4078138-4.manifest
-*  Creations_4078141-3.manifest
-*  Creations_4078144-4.manifest
-*  Creations_4081273-7.manifest
-*  Creations_4081276-7.manifest
-*  Creations_4087487-6.manifest
-*  Creations_4087490-4.manifest
-*  Creations_4087493-5.manifest
-*  Creations_4087496-5.manifest
-*  Creations_4087499-3.manifest
-*  Creations_4087502-4.manifest
-*  Creations_4098870-4.manifest
-*  Creations_4098879-3.manifest
-*  Creations_4098882-3.manifest
-*  Creations_4098885-4.manifest
-*  Creations_4110977-4.manifest
-*  Creations_4110980-7.manifest
-*  Creations_4110983-3.manifest
-*  Creations_4110986-4.manifest
-*  Creations_4110989-4.manifest
-*  Creations_4110993-4.manifest
-*  Creations_4110999-4.manifest
-*  Creations_4111002-4.manifest
-*  Creations_4135463-3.manifest
-*  Creations_4135479-3.manifest
-*  Creations_4135483-4.manifest
-*  Creations_4135487-3.manifest
-*  Creations_4135493-3.manifest
-*  Creations_4135496-3.manifest
-*  Creations_4135499-3.manifest
-*  Creations_4183063-3.manifest
-*  Creations_4202964-3.manifest
-*  Creations_4202967-3.manifest
-*  Creations_4202970-3.manifest
-*  Creations_4202976-3.manifest
-*  Creations_4202980-3.manifest
-*  Creations_4202984-3.manifest
-*  Creations_4233855-3.manifest
-*  Creations_4233858-3.manifest
-*  Creations_4233861-3.manifest
-*  Creations_4233865-3.manifest
-*  Creations_4233868-3.manifest
-*  Creations_4233871-3.manifest
-*  Creations_4233874-3.manifest
-*  Creations_4233877-3.manifest
-*  Creations_4233881-3.manifest
-*  Creations_4233884-7.manifest
-*  Creations_4233887-4.manifest
-*  Creations_4233890-3.manifest
-*  Creations_4233893-3.manifest
-*  Creations_4233896-3.manifest
-*  Creations_4233899-3.manifest
-*  Creations_4233904-3.manifest
-*  Creations_4233908-4.manifest
-*  Creations_4233911-4.manifest
-*  Creations_4233914-3.manifest
-*  Data_Scripts.zip
-*  Data_Skyrim - Animations.bsa
+*  [CrashLogger-59818-1-3-0-1667804325.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=329852)
 *  [DbMiscFunctions-65410-4-3-1662651522.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65410/?tab=files&file_id=314338)
 *  [DynDOLOD 3.00-68518-Alpha-105-1667338820.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68518/?tab=files&file_id=328293)
 *  [DynDOLOD DLL SE - Scripts-57264-2-82-3-1652179274.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57264/?tab=files&file_id=282666)
@@ -123,39 +44,24 @@
 *  [FaceFXWrapper 0.4-20061-0-4-1631087053.zip](https://www.nexusmods.com/skyrimspecialedition/mods/20061/?tab=files&file_id=226894)
 *  [FallrimTools 2022-05-12-2-5031-6-0-481-1652380594.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5031/?tab=files&file_id=283202)
 *  [Favorite Misc Items-42750-3-7-1-1665247156.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42750/?tab=files&file_id=322497)
-*  flowchartx64.dll
 *  [FonixData File Mod Manager Install-40971-1-0-1601510699.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40971/?tab=files&file_id=163332)
 *  [Fuz Ro D'oh-15109-2-3-1667138294.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15109/?tab=files&file_id=327645)
-*  High.ini
 *  [Immersive Equipment Displays for 1.6.629 and newer-62001-1-6-3-1667133961.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62001/?tab=files&file_id=327624)
 *  [INI file-51073-1-5-0-1642682975.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=258051)
-*  installscript.vdf
 *  [JContainers SE-16495-4-2-3-1665168582.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16495/?tab=files&file_id=322290)
-*  [Keyword Item Distributor-55728-2-1-1-1666400208.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55728/?tab=files&file_id=325642)
-*  lex_accent.tlx
-*  lex_ssceam.tlx
-*  lex_ssceam2.clx
-*  lex_sscebr.tlx
-*  lex_sscebr2.clx
-*  lex_ssceca2.clx
-*  lex_tech.tlx
-*  lex_User_correct.tlx
-*  lex_User_userdic.tlx
-*  Low.ini
+*  [Keyword Item Distributor-55728-2-2-0-1668235645.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55728/?tab=files&file_id=331027)
 *  [MCM Helper SE-53000-1-4-0-1665228890.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53000/?tab=files&file_id=322444)
 *  [MCM SDK-53000-1-3-0-1629918647.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53000/?tab=files&file_id=223749)
-*  Medium.ini
 *  [Mod.Organizer-2.4.4.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z)
 *  [More Informative Console 1.1.0 AE (1.6.640 plus )-19250-1-1-0-1664127904.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=319359)
 *  [Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar](https://www.nexusmods.com/skyrimspecialedition/mods/60033/?tab=files&file_id=248867)
 *  [NIF Preview-69813-0-1-18-1b-1656068039.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69813/?tab=files&file_id=293627)
 *  [No Lockpck Activate-26790-3-2-1666610491.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26790/?tab=files&file_id=326262)
 *  [OSD Font for SSE Display Tweaks-48364-1-1-0-1618649420.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48364/?tab=files&file_id=198638)
-*  p4com64.dll
-*  Papyrus Compiler_PapyrusCompiler.exe
-*  Papyrus Compiler_ScriptCompile.bat
 *  [Papyrus Extender-22854-5-3-0-1665783709.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=324071)
+*  [Papyrus Tweaks NG-77779-1-0-1667869642.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77779/?tab=files&file_id=330077)
 *  [PapyrusUtil AE SE - Scripting Utility Functions-13048-4-4-1664236996.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=319680)
+*  [PapyrusUtil GOG - Scripting Utility Functions-13048-4-4-1667962205.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=330277)
 *  [powerofthree's Tweaks-51073-1-7-5-1665690142.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=323793)
 *  [RaceMenu Anniversary Edition v0-4-19-13 GOG-19080-0-4-19-13-1666999676.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19080/?tab=files&file_id=327228)
 *  [RaceMenu Anniversary Edition v0-4-19-14-19080-0-4-19-14-1667000011.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19080/?tab=files&file_id=327229)
@@ -171,31 +77,18 @@
 *  [Skyrim Script Extender (SKSE64)-30379-2-2-3-1665515370.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30379/?tab=files&file_id=323365)
 *  [Skyrim Script Extender (SKSE64)-30379-2-2-3-1665515406.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30379/?tab=files&file_id=323366)
 *  [Skyrim Special Edition GOG and Epic Games Support - Mod Organizer 2.4.x-6194-1-7-0-1665206954.zip](https://www.nexusmods.com/skyrimspecialedition/mods/6194/?tab=files&file_id=322391)
-*  Skyrim_Default.ini
-*  Skyrim_SkyrimPrefs.ini
-*  Skyrim.ccc
-*  SkyrimSE.exe
-*  SkyrimSELauncher.exe
 *  [SkyUI_5_2_SE-12604-5-2SE.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12604/?tab=files&file_id=35407)
 *  [SkyUI_SE.esp Plugin with Skyrim.esm Master ESPFE-67166-5-2a-1651085623.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67166/?tab=files&file_id=280020)
 *  [Sniff-67829-1-0-1641212343.zip](https://www.nexusmods.com/newvegas/mods/67829/?tab=files&file_id=1000085880)
-*  [Sound Record Distributor-77815-1-1-0-1667151061.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77815/?tab=files&file_id=327694)
+*  [Sound Record Distributor-77815-1-1-2-1667836789.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77815/?tab=files&file_id=329952)
 *  [Spell Perk Item Distributor-36869-6-0-3-1665860082.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36869/?tab=files&file_id=324266)
 *  [SSE Creation Kit Fixes Update-71371-33-1658698845.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71371/?tab=files&file_id=301918)
 *  [SSE Display Tweaks-34705-0-5-12-1664893623.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34705/?tab=files&file_id=321590)
 *  [SSE Terrain Tamriel Full Extend-54680-1-0-1630150059.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54680/?tab=files&file_id=224361)
 *  [SSEEdit 4.0.4-164-4-0-4-1636548642.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164/?tab=files&file_id=240322)
-*  steam_api64.dll
 *  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.25-pr002/Synthesis.zip)
 *  [To Your Face AE GOG-24720-1-0sg-1665944802.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24720/?tab=files&file_id=324534)
 *  [To Your Face AE-24720-1-0s-1665944678.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24720/?tab=files&file_id=324533)
-*  Tools_Archive_Archive.exe
-*  Tools_Audio_xwmaencode.exe
-*  Tools_Elric_xg.dll
-*  Tools_Elric_xtexconv.exe
-*  Tools_HavokBehaviorPostProcess_HavokBehaviorPostProcess.exe
-*  Tools_HavokBehaviorPostProcess_UpgradeHavokBehavior.bat
-*  Ultra.ini
 *  [Unofficial Creation Kit Patch AE-41195-6-3-1663412474.zip](https://www.nexusmods.com/skyrimspecialedition/mods/41195/?tab=files&file_id=316831)
 *  [Unofficial Skyrim Modder's Patch - USMP SE-49616-2-5-7-1664728822.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49616/?tab=files&file_id=321102)
 *  [Unofficial Skyrim Modders Patch-49616-2-5-7a-1664971630.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49616/?tab=files&file_id=321804)
