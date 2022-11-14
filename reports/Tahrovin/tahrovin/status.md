@@ -418,7 +418,7 @@
 *  [Moons and Stars - Sky Overhaul SKSEVR-73667-2-0-0-1660965855.7z](https://www.nexusmods.com/skyrimspecialedition/mods/73667/?tab=files&file_id=308823)
 *  [More Informative Console 1.0.1 VR-19250-1-0-1-1653433878.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=286244)
 *  [moreHUD VR-33215-1-1-0-1652988637.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33215/?tab=files&file_id=284988)
-*  [MoreNastyCritters_v12_6SE.7z](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/)
+*  [MoreNastyCrittersSE_v12_8A.7z](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/)
 *  [Mountain Z Fight Patch Compressed ESL-37891-1-2-1627789802.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37891/?tab=files&file_id=218003)
 *  [MVC Mana Vault 3BA Bodyslide Preset-65484-1-0-1648217161.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65484/?tab=files&file_id=272407)
 *  [Mysticism - A Magic Overhaul-27839-2-0-10-1656618160.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27839/?tab=files&file_id=295251)
