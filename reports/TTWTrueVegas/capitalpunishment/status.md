@@ -816,7 +816,7 @@
 *  [The Quantum Trigger V 2.05-63172-2-05-1578863744.zip](https://www.nexusmods.com/newvegas/mods/63172/?tab=files&file_id=1000058743)
 *  [The Regulators-66266-1-6-1652570710.7z](https://www.nexusmods.com/newvegas/mods/66266/?tab=files&file_id=1000092537)
 *  [Throwing melee weapon retexture-63000-1.rar](https://www.nexusmods.com/newvegas/mods/63000/?tab=files&file_id=1000040955)
-*  [TiddieShade-78664-3-0-1668096637.rar](https://www.nexusmods.com/newvegas/mods/78664/?tab=files&file_id=1000100951)
+*  [Tiddie Shade 3.0-78664-3-0-1668568014.rar](https://www.nexusmods.com/newvegas/mods/78664/?tab=files&file_id=1000101160)
 *  [Titans of The New West-78688-2-0-40-1668277381.7z](https://www.nexusmods.com/newvegas/mods/78688/?tab=files&file_id=1000101042)
 *  [Tranquility Lane Fix-77018-1-1655003792.rar](https://www.nexusmods.com/newvegas/mods/77018/?tab=files&file_id=1000094179)
 *  [ttw - mojave raiders patch-74589-1-1-1648232759.7z](https://www.nexusmods.com/newvegas/mods/74589/?tab=files&file_id=1000089830)
