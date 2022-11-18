@@ -1,12 +1,11 @@
 ## Validation Report - Fahdon - A Skyrim Together Experience (Animonculory/fahdon)
 
 
-### Invalid (2)
+### Invalid (1)
 *  [Markarth HD Retexture.7z](https://authored-files.wabbajack.org/Markarth HD Retexture.7z_9098232b-4285-4989-bb7f-8115ef4e58da)
-*  [textures - Horses.7z](https://www.patreon.com/file?h=65018177&i=10497594)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1184)
+### Valid (1185)
 *  [- Meshes - important-58370-1-0-1637050362.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=241886)
 *  [(Khajiit) Lioness Look SSE CBBE-48041-1-1-1620268829.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48041/?tab=files&file_id=201933)
 *  [(Part 1) SSE Engine Fixes for 1.6.xxx-17230-6-0-2-1637784396.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
@@ -1079,6 +1078,7 @@
 *  [TB's Candle Flames Imrpover 1K-39900-1-1598636243.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39900/?tab=files&file_id=158060)
 *  [Telekinesis - XP Exploit Fix-46753-1-0-1633533329.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46753/?tab=files&file_id=233029)
 *  [TESL - Loading Screens-37929-1-2-0-1594155483.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37929/?tab=files&file_id=149299)
+*  [textures - Horses.7z](https://www.patreon.com/file?h=65018177&i=10497594)
 *  [Textures Medium-30468-1-0-1574193036.7z](https://www.nexusmods.com/skyrim/mods/100264/?tab=files&file_id=1000309021)
 *  [That Spell Looks Fine-50240-1-1621645483.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50240/?tab=files&file_id=204850)
 *  [Thaumaturgy - An Enchanting Overhaul-57138-1-2-1-1655506185.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57138/?tab=files&file_id=291896)
