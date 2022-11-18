@@ -110,7 +110,7 @@
 *  [Better Combat Escape - SSE V0.83-43936-v0-83-1609760346.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43936/?tab=files&file_id=177684)
 *  [Better Dialogue Controls v1_2-1429-1-2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1429/?tab=files&file_id=11022)
 *  [Better Jumping SE-18967-1-7-1-1586802920.zip](https://www.nexusmods.com/skyrimspecialedition/mods/18967/?tab=files&file_id=134075)
-*  [Better Third Person Selection (AE - SE)-64339-0-5-7-1668197809.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64339/?tab=files&file_id=330926)
+*  [Better Third Person Selection (SE)-64339-0-5-5-1656977754.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64339/?tab=files&file_id=296246)
 *  [BetterStealing v2-32295-2-1580801928.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32295/?tab=files&file_id=122672)
 *  [Bikini Robe Replacer and Standalone (3BA)-41285-2-0-0-1632506599.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41285/?tab=files&file_id=230362)
 *  bink2w64.dll
