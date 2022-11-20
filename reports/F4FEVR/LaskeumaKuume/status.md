@@ -52,7 +52,7 @@
 *  [VR Address Library-64879-1-2-0-1666765141.7z](https://www.nexusmods.com/fallout4/mods/64879/?tab=files&file_id=254669)
 *  [VR LOD Workaround-42870-1-0-1578179809.7z](https://www.nexusmods.com/fallout4/mods/42870/?tab=files&file_id=173744)
 *  [VR Neutral Vats-47850-1-1-1666748579.7z](https://www.nexusmods.com/fallout4/mods/47850/?tab=files&file_id=254660)
-*  [VR Weapon Overhaul Fixes.7z](https://github.com/ajantaju/F4FEVR/blob/main/Files/VR Weapon Overhaul Fixes.7z)
+*  [VR Weapon Overhaul Recon Fixes.7z](https://authored-files.wabbajack.org/VR Weapon Overhaul Recon Fixes.7z_822c87e0-e60f-43ca-8af8-a146bdee5a6e)
 *  [VR Weapon Overhaul-64610-3-1a-1668890501.rar](https://www.nexusmods.com/fallout4/mods/64610/?tab=files&file_id=257489)
 *  [VRCP_NAC-58830-1-0-1647872677.zip](https://www.nexusmods.com/fallout4/mods/58830/?tab=files&file_id=232577)
 *  [VRCP_SS2-58829-1-0-1647872732.zip](https://www.nexusmods.com/fallout4/mods/58829/?tab=files&file_id=232578)
