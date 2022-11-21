@@ -1,10 +1,11 @@
 ## Validation Report - Fallout 4 Enhanced Edition (wj-featured/fallout_4_enhanced_edition)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [TFTC v3.01 plus DLC.7z](https://drive.google.com/uc?id=1Mw2JO0iPca3Yto8bOYARzfgKQpfyZ2Ud&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (279)
+### Valid (278)
 *  [(AB) Horizon Weapon Patches - Pistols and SMGs FOMOD-39320-v180b7-1584141169.7z](https://www.nexusmods.com/fallout4/mods/39320/?tab=files&file_id=177456)
 *  [(CD) Horizon Weapon Patches - Rifles FOMOD-39320-v180b7-1584141259.7z](https://www.nexusmods.com/fallout4/mods/39320/?tab=files&file_id=177459)
 *  [(EFG) Horizon Weapon Patches - Shotguns Energy and Melee Weapons FOMOD-39320-v180b7-1584141212.7z](https://www.nexusmods.com/fallout4/mods/39320/?tab=files&file_id=177458)
@@ -246,7 +247,6 @@
 *  [Tales from the Commonwealth Patch-20097-1-0.zip](https://www.nexusmods.com/fallout4/mods/20097/?tab=files&file_id=82392)
 *  [TBB Redistributables-47359-2020-3-1601257681.zip](https://www.nexusmods.com/fallout4/mods/47359/?tab=files&file_id=192106)
 *  [Terrifyer - Ghouls-30610-2-0.7z](https://www.nexusmods.com/fallout4/mods/30610/?tab=files&file_id=125210)
-*  [TFTC v3.01 plus DLC.7z](https://drive.google.com/uc?id=1Mw2JO0iPca3Yto8bOYARzfgKQpfyZ2Ud&export=download)
 *  [The Beantown interiors Project-4612-v9-3-2.7z](https://www.nexusmods.com/fallout4/mods/4612/?tab=files&file_id=117839)
 *  [The Eyes of Beauty Fallout Kaleidoscope Edition - All-in-One-133-3-2.7z](https://www.nexusmods.com/fallout4/mods/133/?tab=files&file_id=127418)
 *  [TheKite_Caitset_90b-20424--90b.7z](https://www.nexusmods.com/fallout4/mods/20424/?tab=files&file_id=84417)
