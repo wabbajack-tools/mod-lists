@@ -165,11 +165,13 @@
 *  Data_Skyrim - Meshes1.bsa
 *  Data_Skyrim - Misc.bsa
 *  Data_Skyrim - Patch.bsa
+*  Data_Skyrim - Sounds.bsa
 *  Data_Skyrim - Textures0.bsa
 *  Data_Skyrim - Textures1.bsa
 *  Data_Skyrim - Textures2.bsa
 *  Data_Skyrim - Textures3.bsa
 *  Data_Skyrim - Textures4.bsa
+*  Data_Skyrim - Textures7.bsa
 *  Data_Skyrim.esm
 *  Data_SkyrimVR.esm
 *  Data_Strings_Dawnguard_ENGLISH.DLSTRINGS
@@ -614,7 +616,6 @@
 *  [Orcish Marauder Armor-64629-2-0-1646786831.rar](https://www.nexusmods.com/skyrimspecialedition/mods/64629/?tab=files&file_id=268970)
 *  [Paarthurnax - Quest Expansion -Enigma Patch--33084-1-2-1624840238.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33084/?tab=files&file_id=211484)
 *  [Paarthurnax Quest Expansion-51711-1-02-1624963113.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51711/?tab=files&file_id=211709)
-*  [Pahmar_mercenaries_v3_SSE.7z](https://www.nexusmods.com/skyrimspecialedition/mods/7/?tab=files&file_id=0)
 *  [PAPAHHH-70416-1-1656440474.rar](https://www.nexusmods.com/skyrimspecialedition/mods/70416/?tab=files&file_id=294757)
 *  [Papyrus Extender VR-58296-5-3-0-1666248762.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58296/?tab=files&file_id=325334)
 *  [Papyrus Extender-22854-5-4-0-1668583113.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=332249)
@@ -838,7 +839,6 @@
 *  [Varied Chests SE-44447-0-91-1611001333.rar](https://www.nexusmods.com/skyrimspecialedition/mods/44447/?tab=files&file_id=180316)
 *  [Velexia's Animals are not Monsters SE-32133-1-3-1-1580666104.rar](https://www.nexusmods.com/skyrimspecialedition/mods/32133/?tab=files&file_id=122336)
 *  [Venoms Alternate Vanilla Bindings-61016-1-0-1640932291.rar](https://www.nexusmods.com/skyrimspecialedition/mods/61016/?tab=files&file_id=252802)
-*  [verminous fabricants sse 3-29235-3-1602538369.rar](https://www.nexusmods.com/skyrimspecialedition/mods/29235/?tab=files&file_id=0)
 *  [VHR - Vanilla Hair Replacer - Females Only Version-25574-2-0-1590894213.rar](https://www.nexusmods.com/skyrimspecialedition/mods/25574/?tab=files&file_id=142970)
 *  [Vibrant Weapons Lite-56556-1-2-1634052573.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56556/?tab=files&file_id=234381)
 *  [Visual Animated Enchants-7037-V-2.rar](https://www.nexusmods.com/skyrimspecialedition/mods/7037/?tab=files&file_id=22536)
