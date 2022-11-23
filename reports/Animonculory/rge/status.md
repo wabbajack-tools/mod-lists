@@ -1,10 +1,11 @@
 ## Validation Report - Relics of Hyrule - GAT Edition (Animonculory/rge)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Reshade DLL and License.rar](https://authored-files.wabbajack.org/Reshade_DLL_and_License.rar_7ddfa602-eca8-4b5e-b81d-de247173f2c6)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (949)
+### Valid (948)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(2K) Skygazer Moons - Masser and Secunda HD Moons by fadingsignal-54349-1-0.rar](https://www.nexusmods.com/skyrim/mods/54349/?tab=files&file_id=1000110438)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
@@ -650,7 +651,6 @@
 *  [Remove Sneak Attack Sound - Loose-17496-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17496/?tab=files&file_id=55416)
 *  [Renthal Nettle SSE 3.0-33749-3-0-1584973383.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33749/?tab=files&file_id=130118)
 *  [Reproccer Reborn-17913-0-18-1628847944.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17913/?tab=files&file_id=220836)
-*  [Reshade DLL and License.rar](https://authored-files.wabbajack.org/Reshade_DLL_and_License.rar_7ddfa602-eca8-4b5e-b81d-de247173f2c6)
 *  [reshade-shaders-master.zip](https://github.com/crosire/reshade-shaders/archive/master.zip)
 *  [ReskinCities-Solitude-33370-1-2.7z](https://www.nexusmods.com/skyrim/mods/33370/?tab=files&file_id=1000021104)
 *  [Retex of Revamped Alchemy Lab HD - 2K-62328-1-0.zip](https://www.nexusmods.com/skyrim/mods/62328/?tab=files&file_id=1000168197)
