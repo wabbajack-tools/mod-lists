@@ -1,11 +1,10 @@
 ## Validation Report - NEFARAM (NEFARAM/NEFARAM)
 
 
-### Invalid (1)
-*  [1391894994_SLAL_Billyy_Animationsv6.0SE.7z](https://build.wabbajack.org/authored_files/direct_link/1391894994_SLAL_Billyy_Animationsv6.0SE.7z_79ab7894-1bd0-429d-866c-c46b11a75da6)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1463)
+### Valid (1464)
 *  [- Meshes - important-58370-1-0-1637050362.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=241886)
 *  [(2) Community Overlays 2 - Main - CBBE-26224-1-0-1559371694.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94367)
 *  [(2) Community Overlays 3 - Main - CBBE-35339-1-0-1588116779.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136886)
@@ -32,6 +31,7 @@
 *  [1_SmoothCam-41252-1-6-1-1637953179.zip](https://www.nexusmods.com/skyrimspecialedition/mods/41252/?tab=files&file_id=244599)
 *  [1_YASTM (FOMOD)-56144-1-9-1-1640429506.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56144/?tab=files&file_id=251638)
 *  [1160258757_DiaryOfMine2_12.2_SEandLE_fomod.7z](https://www.loverslab.com/files/file/16941-paradise-halls-diary-of-mine-wip/)
+*  [1391894994_SLAL_Billyy_Animationsv6.0SE.7z](https://build.wabbajack.org/authored_files/direct_link/1391894994_SLAL_Billyy_Animationsv6.0SE.7z_79ab7894-1bd0-429d-866c-c46b11a75da6)
 *  [1k Burned Potato-103520-1-0-1592854080.7z](https://www.nexusmods.com/skyrim/mods/103520/?tab=files&file_id=1000321328)
 *  [1K Dragonborn Skull Variant-21917-1-0-1544983374.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21917/?tab=files&file_id=75328)
 *  [1K ElSopa HD - Bristleback-22294-1-0-1546380172.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22294/?tab=files&file_id=76944)
