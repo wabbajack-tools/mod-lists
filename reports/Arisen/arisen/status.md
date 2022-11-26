@@ -1,10 +1,11 @@
 ## Validation Report - Arisen (Arisen/arisen)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Fixed Fashions of the Huntsmen Files.7z](https://authored-files.wabbajack.org/Fixed Fashions of the Huntsmen Files.7z_47ec29b9-f889-4cf6-bf7e-33d30c6b64f5)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2362)
+### Valid (2361)
 *  [(1) SBP SE - Simple Belly Paints - 2K-22811-1-1-1548197078.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79308)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -902,7 +903,6 @@
 *  [FISSES ESLified Patch-27260-1-3-6-1562709983.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27260/?tab=files&file_id=98743)
 *  [Fixed and Optimized Valdr USSEP Quest-69346-1-0-1654718901.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69346/?tab=files&file_id=289771)
 *  [Fixed crossed arms animation-56242-1-0-1633224652.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56242/?tab=files&file_id=232214)
-*  [Fixed Fashions of the Huntsmen Files.7z](https://authored-files.wabbajack.org/Fixed Fashions of the Huntsmen Files.7z_47ec29b9-f889-4cf6-bf7e-33d30c6b64f5)
 *  [Fixed Fixed Dragon Stalking Fix-55518-1-0-1631499484.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55518/?tab=files&file_id=228030)
 *  [Fixed Mesh Lighting-53653-1-7-6-1652100551.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53653/?tab=files&file_id=282492)
 *  [Fixes by Xtudo-50435-2-1622098190.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50435/?tab=files&file_id=205795)
