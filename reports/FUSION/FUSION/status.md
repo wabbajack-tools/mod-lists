@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (204)
+### Valid (205)
 *  [1 Rad Fix - v2.0-15977-2-0.zip](https://www.nexusmods.com/fallout4/mods/15977/?tab=files&file_id=64936)
 *  [1950s Feminine Outfits (VANILLA - EVB)-20105-2-1-1546278538.zip](https://www.nexusmods.com/fallout4/mods/20105/?tab=files&file_id=149068)
 *  [4estGimp - AI Edits-60417--95-1655366537.7z](https://www.nexusmods.com/fallout4/mods/60417/?tab=files&file_id=240708)
@@ -52,6 +52,7 @@
 *  Data_Fallout4 - Textures4.ba2
 *  Data_Video_Intro.bk2
 *  [DC Guard Variations-65005-1-1665452628.7z](https://www.nexusmods.com/fallout4/mods/65005/?tab=files&file_id=253085)
+*  [Default UI Size-65677-1-7-1669045510.7z](https://www.nexusmods.com/fallout4/mods/65677/?tab=files&file_id=257696)
 *  [Docile Radstags-3208-1-0.zip](https://www.nexusmods.com/fallout4/mods/3208/?tab=files&file_id=9783)
 *  [Duffle Bag Sound FIx-44855-1-1-1588634925.rar](https://www.nexusmods.com/fallout4/mods/44855/?tab=files&file_id=181123)
 *  [Encounter Zone Recalculation-45674-1-0-1592086483.zip](https://www.nexusmods.com/fallout4/mods/45674/?tab=files&file_id=184238)
