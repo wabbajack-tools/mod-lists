@@ -1,10 +1,11 @@
 ## Validation Report - Aldrnari (wj-featured/aldrnari)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [[full_inu] Medieval Knight Armor SSE.7z](https://drive.google.com/uc?id=1nSs9FP1G-su2P_kOHBs2s0cVuR2WSKhJ&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2635)
+### Valid (2634)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0.0) SELUA - Solitude Exterior LOD Unlocker Advocate II-36116-1-1-1605036920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169508)
 *  [(1.1) The Great City of Solitude PATCH - Solitude Skyway SE - Drengin's Blue Palace Terrace (STD)-36116-1-1-1604648419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=168848)
@@ -30,7 +31,6 @@
 *  [[full_inu] Galahad Renegade Coat SSE.7z](https://drive.google.com/uc?id=1pRRSPyfHG71V3RyL3K1Z7cCuXnnHVfi8&export=download)
 *  [[full_inu] Lord Nicholas Armor SSE.7z](https://drive.google.com/uc?id=1cL7BC2Nrvi2HTVv-ppZzyOkcszD5g7gA&export=download)
 *  [[full_inu] Maria Outfit SSE.7z](https://drive.google.com/uc?id=1IWOtJbxiI0Gq6gMB43c5hL8O13toDDTN&export=download)
-*  [[full_inu] Medieval Knight Armor SSE.7z](https://drive.google.com/uc?id=1nSs9FP1G-su2P_kOHBs2s0cVuR2WSKhJ&export=download)
 *  [[full_inu] Sebastian Castellanos Outfit SSE.7z](https://drive.google.com/uc?id=1WjNvb9lJkpiGwpbDOzJKM63T8HNLdxEs&export=download)
 *  [[SunJeong] Ninirim Collection - 3BBB bodyslide v0.2.7z](https://mega.nz/file/S0gjECST#TvdX1Mh33lZqqT1vCbRJnDDTKnQ5E1-FI8hVRDi9Kps)
 *  [[SunJeong] Ninirim Collection 6.0 FOMOD.7z](http://www.mediafire.com/file/h40zast0ozolmwx/%255BSunJeong%255D_Ninirim_Collection_6.0_FOMOD.7z)
