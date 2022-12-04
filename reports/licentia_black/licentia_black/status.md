@@ -460,7 +460,7 @@
 *  [Destination Weddings-78127-1-0-1668234225.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78127/?tab=files&file_id=331025)
 *  [Destination Weddings-78127-1-1-1-1668548505.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78127/?tab=files&file_id=332166)
 *  [Detection Meter-v0.16-SE-63057-v0-16-1645012958.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63057/?tab=files&file_id=264597)
-*  [Devious Cidhna v1_10_FOMOD.7Z](https://www.loverslab.com/files/file/1052-devious-cidhna-may-5-2018/)
+*  [Devious Cidhna v1_10_SE.7z](https://www.loverslab.com/files/file/1052-devious-cidhna-may-5-2018/)
 *  [Devious Devices [SE][AE][VR]  5.2 Beta 7.7z](https://mega.nz/file/oDxVjTDT#nDkSIwWLZxYFLMlUBKWAEaVCWpEb4U8yg_7dRwNAlK4)
 *  [Devious Lore SE v2.3.1.7z](https://www.loverslab.com/files/file/16231-devious-lore-se/)
 *  [Deviously Helpless SE v1.17a.001 (converted by Roggvir).zip](https://www.loverslab.com/files/file/6561-deviously-helpless-se/)
