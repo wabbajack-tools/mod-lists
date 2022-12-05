@@ -1,12 +1,10 @@
 ## Validation Report - Arisen (Arisen/arisen)
 
 
-### Invalid (2)
-*  [SC_HorseReplacer (1).7z](https://www.patreon.com/file?h=35289631&i=5312963)
-*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2360)
+### Valid (2362)
 *  [(1) SBP SE - Simple Belly Paints - 2K-22811-1-1-1548197078.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79308)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -1864,6 +1862,8 @@
 *  [Saw dust-26577-1-0-1560610919.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26577/?tab=files&file_id=96114)
 *  [SB Waify Bodyslide - Kaisel 3BA - Low to High-72778-1-1659745225.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72778/?tab=files&file_id=304917)
 *  [SC - Cubemaps - 512-38760-1-0-1595965618.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38760/?tab=files&file_id=152628)
+*  [SC_HorseReplacer (1).7z](https://www.patreon.com/file?h=35289631&i=5312963)
+*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
 *  [ScaleformTranslationPP-22603-1-4-1-1586306055.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22603/?tab=files&file_id=132968)
 *  [SCAR - Skyrim Combos AI Revolution-72014-v1-05-1663940276.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72014/?tab=files&file_id=318723)
 *  [SCAR Stamina Limitation-72451-v1-2-1662349606.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72451/?tab=files&file_id=313399)
