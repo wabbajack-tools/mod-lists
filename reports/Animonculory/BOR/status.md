@@ -1,12 +1,11 @@
 ## Validation Report - Box of Rockets (Animonculory/BOR)
 
 
-### Invalid (2)
-*  [HyperEdit-1.5.8_for-KSP-1.4.4.zip](https://wabbajack.b-cdn.net/HyperEdit-1.5.8_for-KSP-1.4.4.zip_b2beaf2c-f77b-4a4b-b527-1f8643301715)
+### Invalid (1)
 *  [MechJeb2-2.12.3.0.zip](https://ksp.sarbian.com/jenkins/job/MechJeb2-Release/32/artifact/MechJeb2-2.12.3.0.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (59)
+### Valid (60)
 *  [BetterTimeWarp-1.8.0-2.3.12.6-180.zip](https://github.com/linuxgurugamer/BetterTimeWarpContinued/releases/download/2.3.12.6/BetterTimeWarp-1.8.0-2.3.12.6-180.zip)
 *  [Blueshift.zip](https://github.com/Angel-125/Blueshift/releases/download/v1.3.5/Blueshift.zip)
 *  [ClickThroughBlocker-1.10.1-0.1.10.15.zip](https://github.com/linuxgurugamer/ClickThroughBlocker/releases/download/0.1.10.15/ClickThroughBlocker-1.10.1-0.1.10.15.zip)
@@ -22,6 +21,7 @@
 *  [GU_Core.zip](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/download/1.1/GU_Core.zip)
 *  [HeatControl_0_6_0.zip](https://github.com/post-kerbin-mining-corporation/HeatControl/releases/download/0.6.0/HeatControl_0_6_0.zip)
 *  [HideEmptyTechTreeNodes-1.3.0.zip](https://github.com/Orthethac/HideEmptyTechTreeNodes/releases/download/v1.3.0/HideEmptyTechTreeNodes-1.3.0.zip)
+*  [HyperEdit-1.5.8_for-KSP-1.4.4.zip](https://wabbajack.b-cdn.net/HyperEdit-1.5.8_for-KSP-1.4.4.zip_b2beaf2c-f77b-4a4b-b527-1f8643301715)
 *  [INSTANTIATOR-V1.0.zip](https://spacedock.info/mod/1624/INSTANTIATOR/download/V1.0)
 *  [JanitorsCloset-1.10.1-0.3.7.6.zip](https://github.com/linuxgurugamer/JanitorsCloset/releases/download/0.3.7.6/JanitorsCloset-1.10.1-0.3.7.6.zip)
 *  [KerbalAtomics_1_2_1.zip](https://github.com/post-kerbin-mining-corporation/KerbalAtomics/releases/download/1.2.1/KerbalAtomics_1_2_1.zip)
