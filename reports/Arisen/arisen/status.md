@@ -2,7 +2,7 @@
 
 
 ### Invalid (1)
-*  [【Weapon】Elden Ring - Royal Greatsword.7z](https://www.patreon.com/file?h=68668550&i=11200681)
+*  [SC_HorseReplacer (1).7z](https://www.patreon.com/file?h=35289631&i=5312963)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (2361)
@@ -19,6 +19,7 @@
 *  [[Christine] Forsworn Retribution.7z](http://www.mediafire.com/file/pki7oc0ybjovifw/%255BChristine%255D_Forsworn_Retribution.7z/file)
 *  [[Dint999] BDOR Hairs SSE 0.4.7z](https://authored-files.wabbajack.org/[Dint999] BDOR Hairs SSE 0.4.7z_c312844b-2aba-49fe-ba33-9a298a42328c)
 *  [【Weapon】Elden Ring - Halberd.7z](https://www.patreon.com/file?h=68559197&i=11129178)
+*  [【Weapon】Elden Ring - Royal Greatsword.7z](https://www.patreon.com/file?h=68668550&i=11200681)
 *  [【Weapon】Elden Ring - Spear.7z](https://drive.google.com/file/d/1ZEB7-JAPY5OuLESb8jbKLgl57tru5RbX)
 *  [【Weapon】Elden Ring-Hand of Malenia.7z](https://www.patreon.com/file?h=72630858&i=12246897)
 *  [【Weapon】EldenRing_Black Knife and Godslayer's Greatsword.7z](https://drive.google.com/file/d/19nDoNyeK0KBt8HcoxkOa8YHbgnecPdgP)
@@ -1862,7 +1863,6 @@
 *  [Saw dust-26577-1-0-1560610919.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26577/?tab=files&file_id=96114)
 *  [SB Waify Bodyslide - Kaisel 3BA - Low to High-72778-1-1659745225.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72778/?tab=files&file_id=304917)
 *  [SC - Cubemaps - 512-38760-1-0-1595965618.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38760/?tab=files&file_id=152628)
-*  [SC_HorseReplacer (1).7z](https://www.patreon.com/file?h=35289631&i=5312963)
 *  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
 *  [ScaleformTranslationPP-22603-1-4-1-1586306055.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22603/?tab=files&file_id=132968)
 *  [SCAR - Skyrim Combos AI Revolution-72014-v1-05-1663940276.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72014/?tab=files&file_id=318723)
