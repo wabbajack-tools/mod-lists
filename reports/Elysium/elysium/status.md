@@ -1504,7 +1504,7 @@
 *  [NPCs Wear Amulets of Mara-66125-2-01-1666732135.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66125/?tab=files&file_id=326580)
 *  [NPCsUsePotions SE-67489-1-1-1-1651999623.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67489/?tab=files&file_id=282285)
 *  [NSM - SMIM Patch-21423-5-5-0-1543033398.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21423/?tab=files&file_id=73170)
-*  [NVIDIA Reflex Support-74498-1-1-1-1668985600.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74498/?tab=files&file_id=333395)
+*  [NVIDIA Reflex Support-74498-1-1-0-1662241811.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74498/?tab=files&file_id=312952)
 *  [OAE - Tablecloths-24493-1-0-1-1553758936.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24493/?tab=files&file_id=86593)
 *  [OBIS SE - Missives - Headhunter - Addon - EN 1.06-52520-1-06-1654689855.zip](https://www.nexusmods.com/skyrimspecialedition/mods/52520/?tab=files&file_id=289688)
 *  [OBIS SE - Organized Bandits In Skyrim Special Edition - Settings Loader-56732-1-0-1633639385.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56732/?tab=files&file_id=233305)
