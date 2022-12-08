@@ -215,7 +215,7 @@
 *  [ENB Input Disabler-62796-1-0-3-1665895548.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62796/?tab=files&file_id=324425)
 *  [ENB Light 0.98 Alpha 2-22574-0-98Alpha2-1577144667.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=117211)
 *  [ENB Lights For Aetherium Shards Patch-44553-1-1-1630558790.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44553/?tab=files&file_id=225518)
-*  [enbseries_skyrimse_v0483.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0483.zip_457e1acf-032f-4566-9bbe-d25864292815/)
+*  [enbseries_skyrimse_v0483.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0483.zip_dfd1ac3b-f2b0-4908-8ecc-d8ae161edeb3/)
 *  [Encounter Zones Unlocked AE-19608-1-5-4-1663528547.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19608/?tab=files&file_id=317381)
 *  [Enhanced Blood Textures-2357-4-0-1639547261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=249235)
 *  [Enhanced Invisibility-61950-1-3-0-1665511169.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61950/?tab=files&file_id=323345)
