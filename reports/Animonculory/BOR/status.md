@@ -1,11 +1,12 @@
 ## Validation Report - Box of Rockets (Animonculory/BOR)
 
 
-### Invalid (1)
+### Invalid (2)
 *  [MechJeb2-2.12.3.0.zip](https://ksp.sarbian.com/jenkins/job/MechJeb2-Release/32/artifact/MechJeb2-2.12.3.0.zip)
+*  [TweakScale-2.4.5.0.zip](https://spacedock.info/mod/127/TweakScale/download/2.4.5.0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (60)
+### Valid (59)
 *  [BetterTimeWarp-1.8.0-2.3.12.6-180.zip](https://github.com/linuxgurugamer/BetterTimeWarpContinued/releases/download/2.3.12.6/BetterTimeWarp-1.8.0-2.3.12.6-180.zip)
 *  [Blueshift.zip](https://github.com/Angel-125/Blueshift/releases/download/v1.3.5/Blueshift.zip)
 *  [ClickThroughBlocker-1.10.1-0.1.10.15.zip](https://github.com/linuxgurugamer/ClickThroughBlocker/releases/download/0.1.10.15/ClickThroughBlocker-1.10.1-0.1.10.15.zip)
@@ -61,7 +62,6 @@
 *  [System_TauCeti.zip](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/download/1.1/System_TauCeti.zip)
 *  [System_Trappist-1.zip](https://github.com/StarCrusher96/Galaxies-Unbound-A-Stellar-Odyssey/releases/download/1.1/System_Trappist-1.zip)
 *  [ToolbarControl-1.10.1-0.1.9.4.zip](https://github.com/linuxgurugamer/ToolbarControl/releases/download/0.1.9.4/ToolbarControl-1.10.1-0.1.9.4.zip)
-*  [TweakScale-2.4.5.0.zip](https://spacedock.info/mod/127/TweakScale/download/2.4.5.0)
 *  [TweakScale-2.4.5.8.zip](https://spacedock.info/mod/127/TweakScale/download/2.4.5.8)
 *  [USITools_1.4.0.0.zip](https://github.com/UmbraSpaceIndustries/USITools/releases/download/1.4.0/USITools_1.4.0.0.zip)
 *  [WarpDrive-112.0.0.zip](https://github.com/BobPalmer/WarpDrive/archive/refs/tags/v112.0.0.zip)
