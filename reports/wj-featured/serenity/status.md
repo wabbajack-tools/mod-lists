@@ -1,10 +1,11 @@
 ## Validation Report - Serenity 2 (wj-featured/serenity)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Serenity-XLODGEN-Output-v1-6.7z](https://authored-files.wabbajack.org/Serenity-XLODGEN-Output-v1-6.7z_d631cd61-a569-404e-9e47-e29e79a35ab5)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (991)
+### Valid (990)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [000EquanimityLoader.7z](https://wabbajack.b-cdn.net/000EquanimityLoader.7z_21c9caf3-f5b4-4589-bc0e-fde0af7d00e3)
@@ -796,7 +797,6 @@
 *  [Serenity 3DNPC BSA Proper.7z](https://wabbajack.b-cdn.net/Serenity 3DNPC BSA Proper.7z_fdc6bf82-2a9c-4ed1-bd1d-1408cb02ef49)
 *  [Serenity-DynDOLOD-Output-v1-6.7z](https://authored-files.wabbajack.org/Serenity-DynDOLOD-Output-v1-6.7z_f35d9217-4cd8-4fc6-ae6f-2dddae9a2edf)
 *  [Serenity-Finishing-Line-v1-6.7z](https://authored-files.wabbajack.org/Serenity-Finishing-Line-v1-6.7z_56c95b25-5686-4aca-ba7e-640d1587b934)
-*  [Serenity-XLODGEN-Output-v1-6.7z](https://authored-files.wabbajack.org/Serenity-XLODGEN-Output-v1-6.7z_d631cd61-a569-404e-9e47-e29e79a35ab5)
 *  [Shrine of Azura HD 4K-44698-1-01-1611453517.rar](https://www.nexusmods.com/skyrimspecialedition/mods/44698/?tab=files&file_id=181393)
 *  [Sickening Skeevers-24428-1-0-1553431731.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24428/?tab=files&file_id=86048)
 *  [SIDT - Words Only-5515-2-0-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5515/?tab=files&file_id=17314)

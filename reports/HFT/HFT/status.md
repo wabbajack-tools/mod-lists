@@ -1,10 +1,11 @@
 ## Validation Report - Happy Fun Times (HFT/HFT)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [BDOR Eclipse by Team TAL fomod.7z](https://www.mediafire.com/file/ogobg4v6b7lsfmy/BDOR_Eclipse_by_Team_TAL_fomod.7z/file)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1906)
+### Valid (1905)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
@@ -206,7 +207,6 @@
 *  [Base-29559-1-1-1571507150.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29559/?tab=files&file_id=110800)
 *  [Battle Fighter Armor HDT SMP CBBE BodySlide SE v1.1-61663-v1-1-1642881618.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61663/?tab=files&file_id=258706)
 *  [BDO Ahon Kirus [SE] - CBBE - BHUNP.7z](https://www.mediafire.com/file/re7godkupogdqdb/BDO_Ahon_Kirus_%255BSE%255D_-_CBBE_-_BHUNP.7z/file)
-*  [BDOR Eclipse by Team TAL fomod.7z](https://www.mediafire.com/file/ogobg4v6b7lsfmy/BDOR_Eclipse_by_Team_TAL_fomod.7z/file)
 *  [Beard stubbles light-42809-1-0-1606500659.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42809/?tab=files&file_id=171855)
 *  [Beards of Power - Sons of Skyrim-43293-3-3-7-1660502340.zip](https://www.nexusmods.com/skyrimspecialedition/mods/43293/?tab=files&file_id=307521)
 *  [Beast Race Vampire Fang Removal-20400-1-00.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20400/?tab=files&file_id=68423)
