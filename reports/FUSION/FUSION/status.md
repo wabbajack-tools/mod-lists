@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (205)
+### Valid (209)
 *  [1 Rad Fix - v2.0-15977-2-0.zip](https://www.nexusmods.com/fallout4/mods/15977/?tab=files&file_id=64936)
 *  [1950s Feminine Outfits (VANILLA - EVB)-20105-2-1-1546278538.zip](https://www.nexusmods.com/fallout4/mods/20105/?tab=files&file_id=149068)
 *  [4estGimp - AI Edits-60417--95-1655366537.7z](https://www.nexusmods.com/fallout4/mods/60417/?tab=files&file_id=240708)
@@ -51,8 +51,9 @@
 *  Data_Fallout4 - Textures1.ba2
 *  Data_Fallout4 - Textures4.ba2
 *  Data_Video_Intro.bk2
+*  Data_Video_MainMenuLoop.bk2
 *  [DC Guard Variations-65005-1-1665452628.7z](https://www.nexusmods.com/fallout4/mods/65005/?tab=files&file_id=253085)
-*  [Default UI Size-65677-1-7-1669045510.7z](https://www.nexusmods.com/fallout4/mods/65677/?tab=files&file_id=257696)
+*  [Default UI Size-65677-1-7a-1669971594.7z](https://www.nexusmods.com/fallout4/mods/65677/?tab=files&file_id=258931)
 *  [Docile Radstags-3208-1-0.zip](https://www.nexusmods.com/fallout4/mods/3208/?tab=files&file_id=9783)
 *  [Duffle Bag Sound FIx-44855-1-1-1588634925.rar](https://www.nexusmods.com/fallout4/mods/44855/?tab=files&file_id=181123)
 *  [Encounter Zone Recalculation-45674-1-0-1592086483.zip](https://www.nexusmods.com/fallout4/mods/45674/?tab=files&file_id=184238)
@@ -111,6 +112,7 @@
 *  [Legendary Mutation Messages Fix - Cut Content Restored-63929-1-1-1662876171.zip](https://www.nexusmods.com/fallout4/mods/63929/?tab=files&file_id=250281)
 *  [Less Annoying Berry Mentats-11838-1-0.zip](https://www.nexusmods.com/fallout4/mods/11838/?tab=files&file_id=47037)
 *  [Less intrusive tutorial-66180-1-0-1668690120.zip](https://www.nexusmods.com/fallout4/mods/66180/?tab=files&file_id=257280)
+*  [Lights In Load Elevators-66527-1-01-1669749782.zip](https://www.nexusmods.com/fallout4/mods/66527/?tab=files&file_id=258595)
 *  [Lightweight Lighting-57680-3-0-1669485481.7z](https://www.nexusmods.com/fallout4/mods/57680/?tab=files&file_id=258223)
 *  [Live Action Handy - With Iris and GlowMap - Repack-9571-1-1b.zip](https://www.nexusmods.com/fallout4/mods/9571/?tab=files&file_id=92150)
 *  [LOD Fixes and Additions-56138-1-0-1652730587.7z](https://www.nexusmods.com/fallout4/mods/56138/?tab=files&file_id=237865)
@@ -119,8 +121,8 @@
 *  [LooksMenu v1-6-20-12631-1-6-20-1604483725.7z](https://www.nexusmods.com/fallout4/mods/12631/?tab=files&file_id=194291)
 *  [LooksmenuPlayerRotation-62872-1-6-1660154243.zip](https://www.nexusmods.com/fallout4/mods/62872/?tab=files&file_id=246345)
 *  [Loose File Version-35768-1-1541543489.7z](https://www.nexusmods.com/fallout4/mods/35768/?tab=files&file_id=145352)
-*  [LOST Audio Tweaks - No RAO Replacer-38448-3-2-1665396257.zip](https://www.nexusmods.com/fallout4/mods/38448/?tab=files&file_id=252970)
-*  [LOST Audio Tweaks-38448-3-1657044879.zip](https://www.nexusmods.com/fallout4/mods/38448/?tab=files&file_id=242556)
+*  [LOST Audio Tweaks - No RAO Replacer-38448-NoRAO4-1670787905.zip](https://www.nexusmods.com/fallout4/mods/38448/?tab=files&file_id=260031)
+*  [LOST Audio Tweaks-38448-4-1670787863.zip](https://www.nexusmods.com/fallout4/mods/38448/?tab=files&file_id=260030)
 *  [Louder Project Reality Footsteps FO4-61176-1-0-1654870689.7z](https://www.nexusmods.com/fallout4/mods/61176/?tab=files&file_id=240179)
 *  Low.ini
 *  [Machine Gun Remesh (Remesh Only)-64725-1-0-0-1664493882.zip](https://www.nexusmods.com/fallout4/mods/64725/?tab=files&file_id=252029)
@@ -147,6 +149,7 @@
 *  [Non-repeating player comments in Vault 111-28169-2-0-1574758409.7z](https://www.nexusmods.com/fallout4/mods/28169/?tab=files&file_id=171565)
 *  [NPC Drinking Fix-53980-1-0-0-1629653826.7z](https://www.nexusmods.com/fallout4/mods/53980/?tab=files&file_id=215300)
 *  [NQAS - BoS Fire Support-31563-1-0.7z](https://www.nexusmods.com/fallout4/mods/31563/?tab=files&file_id=128737)
+*  [Nuka World Bottle Fix-66764-1-01-1670513798.zip](https://www.nexusmods.com/fallout4/mods/66764/?tab=files&file_id=259665)
 *  nvdebris.txt
 *  [NVIDIA Reflex Support-64459-1-0-1-1663600815.zip](https://www.nexusmods.com/fallout4/mods/64459/?tab=files&file_id=251123)
 *  nvToolsExt64_1.dll
@@ -209,4 +212,5 @@
 *  [Whose Quest Is It Anyway-51979-1-0-0-1620621492.zip](https://www.nexusmods.com/fallout4/mods/51979/?tab=files&file_id=207575)
 *  [Workshop Framework-35004-2-3-2-1668791428.7z](https://www.nexusmods.com/fallout4/mods/35004/?tab=files&file_id=257389)
 *  [Workshop Spotlight Fix with DLC - All in One Installer-11090-v1-0DLC.rar](https://www.nexusmods.com/fallout4/mods/11090/?tab=files&file_id=45919)
+*  [WSFWLayouts - space2jump-66509-1-0-1669624268.7z](https://www.nexusmods.com/fallout4/mods/66509/?tab=files&file_id=258420)
 *  [xSE PluginPreloader F4 0.2.5.1-33946-0-2-5-1-1637347868.zip](https://www.nexusmods.com/fallout4/mods/33946/?tab=files&file_id=221778)
