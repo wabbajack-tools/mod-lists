@@ -1,13 +1,12 @@
 ## Validation Report - Do Not Go Gentle (Animonculory/dngg)
 
 
-### Invalid (3)
+### Invalid (2)
 *  [Attack+MCODXP+v1.5.0.2.zip](https://www.skyrim-guild.com/s/Attack-MCODXP-v1502.zip)
 *  [DMCO_0.9.6.zip](https://www.skyrim-guild.com/s/DMCO_096.zip)
-*  [Reshade5_4_2.7z](https://build.wabbajack.org/authored_files/direct_link/Reshade5_4_2.7z_9ee25a28-8f9f-46c6-9e48-2f2254fcc00e)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1492)
+### Valid (1493)
 *  [_Fuse00_ArmorRogue.rar](https://www.patreon.com/file?h=67007517&i=10861552)
 *  [_Fuse00HairPackBraided03.rar](https://www.patreon.com/file?h=64262256&i=10354948)
 *  [_Fuse00TaurielHair.rar](https://www.patreon.com/file?h=62190804&i=11074106)
@@ -1090,6 +1089,7 @@
 *  [Requiem_Knockdown_tweak-42633-0-1b-1632099713.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42633/?tab=files&file_id=229524)
 *  [Requiem_VampireCollection-42633-1-3-1662821847.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42633/?tab=files&file_id=314976)
 *  [Requiem-Missives_extended_patch-62742-1-0-1647790140.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62742/?tab=files&file_id=271420)
+*  [Reshade5_4_2.7z](https://build.wabbajack.org/authored_files/direct_link/Reshade5_4_2.7z_9ee25a28-8f9f-46c6-9e48-2f2254fcc00e)
 *  [Revamped Assets Skyrim - High-75380-0-31.7z](https://www.nexusmods.com/skyrim/mods/75380/?tab=files&file_id=1000205331)
 *  [Revamped Assets Skyrim - Weapon Racks Patch-26092-1-1-1614011801.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26092/?tab=files&file_id=187421)
 *  [Revenants-35752-1-00-1588972728.zip](https://www.nexusmods.com/skyrimspecialedition/mods/35752/?tab=files&file_id=138851)
