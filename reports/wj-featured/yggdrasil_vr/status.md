@@ -1,11 +1,10 @@
 ## Validation Report - Yggdrasil VR (wj-featured/yggdrasil_vr)
 
 
-### Invalid (1)
-*  [SkySAv2.8.zip](https://www.skyrim-guild.com/s/SkySAv28.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1235)
+### Valid (1236)
 *  [01 My Road Signs are Beautiful - English Version-46564-1-5EN-1656853597.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46564/?tab=files&file_id=295840)
 *  [1.0-19893-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19893/?tab=files&file_id=65775)
 *  [1.6-28221-1-6-1645551137.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28221/?tab=files&file_id=266123)
@@ -988,6 +987,7 @@
 *  [SkyrimVR Strange Runes - Spellcasting Enhanced VR Palm Edition Update-30558-2-5-1638459910.rar](https://www.nexusmods.com/skyrimspecialedition/mods/30558/?tab=files&file_id=246076)
 *  [SkyrimVRTools-27782-2-3-BETA-1590789255.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27782/?tab=files&file_id=142773)
 *  [Skysan_ELFX_SMIM_Fix.7z-5520-3-06-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5520/?tab=files&file_id=39424)
+*  [SkySAv2.8.zip](https://www.skyrim-guild.com/s/SkySAv28.zip)
 *  [SkySight Skins HD with Real Feet Meshes  (HIGH - Recommended)-6580-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/6580/?tab=files&file_id=20387)
 *  [SkySight Skins version - True Faces Diffuse-34636-1-2-1586974143.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34636/?tab=files&file_id=134487)
 *  [SkyUI-VR.v1.0-beta.4.7z](https://github.com/Odie/skyui-vr/releases/download/v1.0-beta.4/SkyUI-VR.v1.0-beta.4.7z)
