@@ -20,7 +20,7 @@
   - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr)
   - [Living Skyrim](#living-skyrim)
   - [RGE - Relics of Hyrule - Grand Admiral Thrawn Edition](#rge---relics-of-hyrule---grand-admiral-thrawn-edition)
-  - [Ruvaak](#Ruvaak)
+  - [Ruvaak](#ruvaak)
   - [Septimus](#septimus)
   - [Serenity 2](#serenity-2)
   - [Skyrim Modding Essentials](#skyrim-modding-essentials)
@@ -91,22 +91,24 @@ It has a plethora of quests, hundreds of handplaced new armors and weapons, new 
 
 ### [Animonculory Dev Tools](https://github.com/The-Animonculory/ADT/blob/main/README.md)
 
-Animonuclory Dev Tools (ADT) is designed as a mod-authors toolkit and, should you wish, a base for a modlist. Featuring dll level fixes and minimal other bug fixes, it comes with all the tools you need to test and develop mods. ADT uses the 1.6.xx version of SSE and all mods inlcuded are fully compatible with it.
+Designed as the mod author's tool kit, Animonculory Dev Tools (ADT) comes with all the tools you need to create and test your mods. Featuring mandatory DLL level fixes & libraries to build your own with, **native GOG and Steam compatability** and a few tweaks, it's the ideal playground to both work and build on.
 
 **_Tools/Mods to get familiar with:_**
 
 - [NifSkope](http://niftools.sourceforge.net/wiki/NifSkope)
 - [Octagon](https://www.nexusmods.com/skyrimspecialedition/mods/28773)
+- [Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720)
 - [Synthesis](https://github.com/Mutagen-Modding/Synthesis)
 
 ***
 
 ### [Animonculory Visual Overhaul](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul)
 
-Animonculory Visual Overhaul (AVO) is designed as a base for your own modlist. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect graphical base to build upon. AVO is made for Skyrim Special Edition Version 1.6.353 (also known as Anniversary Edition) and uses the .exe of that version as well. Full Anniversary Edition support is provided via [AVO-AE](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul/blob/main/AEReadme.md)
+Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, Animonculory Visual Overhaul (AVO) is the perfect base to build your modlist on. AVO is made for Skyrim Special Edition **Version 1.6.640/659** (also known as Anniversary Edition) and uses the .exe of that version as well. It uses [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004) by default; however, it can support whichever weather mod you wish to use.
 
 **_Mods to get familiar with:_**
 
+- [Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720)
 - [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004)
 - [Synthesis](https://github.com/Mutagen-Modding/Synthesis)
 - [Full Modlist](https://loadorderlibrary.com/lists/animonculory-visual-overhaul)
