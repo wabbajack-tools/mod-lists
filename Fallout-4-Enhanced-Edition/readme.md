@@ -1,6 +1,6 @@
 ## What this modlist is:
 
-This is a modlist, without the effort of the many modders who make the 200+ mods of this modlist, this list is nothing. I would like to highlight some of the most important mods that you will notice throughout your time with this Modlist. At a later date, I will also post a full link to every single mod and its author here.
+This is a modlist, without the effort of the many modders who make the 200+ mods of this modlist, this list is nothing. I would like to highlight some of the most important mods that you will notice throughout your time with this Modlist.
 
 * [Horizon](https://www.nexusmods.com/fallout4/mods/17374) by [Zawinul](https://www.nexusmods.com/fallout4/users/6015119) (This mod is the backbone of the list, if a system is different from vanilla, it's likely Zaw's work)
 * [HD Textures](https://www.nexusmods.com/fallout4/mods/40159) by [SavrenX](https://www.nexusmods.com/fallout4/users/55611457) (A Majority of the game textures have been overhauled by these textures, kindly re-packaged by [BiRaitBec](https://www.nexusmods.com/fallout4/users/43913757?tab=about+me))
