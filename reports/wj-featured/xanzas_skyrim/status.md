@@ -1,11 +1,10 @@
 ## Validation Report - Xanza's Modded Skyrim (wj-featured/xanzas_skyrim)
 
 
-### Invalid (1)
-*  [Alternate_Start_-_Live_Another_Life.2.7z](https://www.moddb.com/downloads/start/219215/all?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Falternate-start-live-another-life%2Fdownloads)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1056)
+### Valid (1057)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [(Part 1) SSE Engine Fixes for 1.6.xxx-17230-6-0-2-1637784396.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
 *  [01 My Road Signs are Beautiful - English Version-46564-1-5EN-1656853597.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46564/?tab=files&file_id=295840)
@@ -47,6 +46,7 @@
 *  [All in one (Anniversary Edition)-32444-5-1641492622.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32444/?tab=files&file_id=254423)
 *  [Allow Dialogue Progress Bugfix-67433-1-0-1651482549.zip](https://www.nexusmods.com/skyrimspecialedition/mods/67433/?tab=files&file_id=281032)
 *  [Alternate Summoning Visuals NO ESP-44782-.7z](https://www.nexusmods.com/skyrim/mods/44782/?tab=files&file_id=1000067632)
+*  [Alternate_Start_-_Live_Another_Life.2.7z](https://www.moddb.com/downloads/start/219215/all?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Falternate-start-live-another-life%2Fdownloads)
 *  [AMatterOfTime_v3_0_0_alpha_4-12937-v3-0-0a4.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12937/?tab=files&file_id=43572)
 *  [AMB Matching Glass Armory - Female Glass Armor Fix-26092-1-0-1632838926.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26092/?tab=files&file_id=231233)
 *  [aMidianborn Armor Upscaled Textures-37641-1-0-1593038771.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37641/?tab=files&file_id=147302)
