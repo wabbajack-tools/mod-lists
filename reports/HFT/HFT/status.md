@@ -1,10 +1,11 @@
 ## Validation Report - Happy Fun Times (HFT/HFT)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [01 Paragon Aurora Glacier Empress.7z](https://www.mediafire.com/file/rsdw21ogf433uve/Paragon+Aurora+Glacier+Empress.7z/file)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1912)
+### Valid (1911)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
@@ -55,7 +56,6 @@
 *  [[Rektas] Taranis [SE] - 3BA.7z](https://www.mediafire.com/file/vltyeln24cwg7eu/%255BRektas%255D_Taranis_%255BSE%255D_-_3BA.7z/file)
 *  [[Rektas] Temptress [SE] - 3BA.7z](https://www.mediafire.com/file/e7xpd2poxwokqvp/%255BRektas%255D_Temptress_%255BSE%255D_-_3BA.7z/file)
 *  [[Tullius] Blue Plate Armor.7z](https://www.mediafire.com/file/7ui6ladw7pk830t/[Tullius]+Blue+Plate+Armor.7z/file)
-*  [01 Paragon Aurora Glacier Empress.7z](https://www.mediafire.com/file/rsdw21ogf433uve/Paragon+Aurora+Glacier+Empress.7z/file)
 *  [02 Elven Princess SE CBBE - 3BA v2.7z](https://drive.google.com/uc?id=1t8eN6-Sx4lAxXO8KCUs6S9rJDsCScWG6&export=download)
 *  [04 [Christine] Bandit Summoner.7z](https://www.mediafire.com/file/m6vcqryvl2yarb2/04_%255BChristine%255D_Bandit_Summoner.7z/file)
 *  [1_Frankly HD Miraak 1.0-19699-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19699/?tab=files&file_id=64768)
