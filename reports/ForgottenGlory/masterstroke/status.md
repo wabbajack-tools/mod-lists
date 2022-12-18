@@ -666,7 +666,7 @@
 *  [Pretty Gems-15415-2-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/15415/?tab=files&file_id=46598)
 *  [Pride of Valhalla CBBE - Midgard-682-v1-3.rar](https://www.nexusmods.com/skyrimspecialedition/mods/682/?tab=files&file_id=673)
 *  [PrivateProfileRedirector SE 0.5.3 (Runtime 1.5.97)-18860-0-5-3-1641586415.zip](https://www.nexusmods.com/skyrimspecialedition/mods/18860/?tab=files&file_id=254807)
-*  [Public Whore v1.2.2 SE.zip](https://www.loverslab.com/files/file/17026-public-whore/)
+*  [Public Whore v1.2.1 SE.zip](https://www.loverslab.com/files/file/17026-public-whore/)
 *  [Quick inventory - ESL-47165-1-1-1616711733.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47165/?tab=files&file_id=193606)
 *  [Quick Light SE-12633-2-2-1575553166.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12633/?tab=files&file_id=115255)
 *  [Quick Mass Follower Commands-51362-0-1-1624065676.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51362/?tab=files&file_id=209845)
