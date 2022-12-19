@@ -1,35 +1,14 @@
 {
   "MachineURL": "wj-featured/dishonoredplus",
   "Name": "Dishonored Plus",
-  "Version": "1.0",
-  "ModListHash": "qovRQKn45Gs=",
+  "Version": "1.2",
+  "ModListHash": "3NiGnA3zXRI=",
   "Archives": [
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HHLRDAviOYM=",
-        "Meta": "[General]\ngameName=\nmodID=17\nfileID=58",
-        "Name": "Mission Stats-17-1-1-1576540559.zip",
-        "Size": 68607,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "AdM244",
-          "Description": "A native mod for Dishonored that adds \u0022Statistics\u0022 button in pause menu, so it is possible to check statistics mid-mission.",
-          "FileID": 58,
-          "GameName": "Dishonored",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/802/images/17/17-1575764585-1536986851.png",
-          "IsNSFW": false,
-          "ModID": 17,
-          "Name": "Mission Stats",
-          "Version": "0.0.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "jRCW4rUAVbk=",
-        "Meta": "[General]\ngameName=\nmodID=35\nfileID=91",
+        "Meta": "[General]\ngameName=dishonored\nmodID=35\nfileID=91",
         "Name": "Upscaled Loading Screens Ver.2-35-2-1627694367.zip",
         "Size": 3769655540,
         "State": {
@@ -42,7 +21,49 @@
           "IsNSFW": false,
           "ModID": 35,
           "Name": "Upscaled Loading Screens",
-          "Version": "0.0.0.0"
+          "Version": "2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iiiFWJ3w8gs=",
+        "Meta": "[General]\ngameName=dishonored\nmodID=17\nfileID=140",
+        "Name": "Mission Stats (Update13 Hotfix)-17-1-1-hotfix-1671206505.zip",
+        "Size": 72796,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AdM244",
+          "Description": "A native mod for Dishonored that adds \u0022Statistics\u0022 button in pause menu, so it is possible to check statistics mid-mission.",
+          "FileID": 140,
+          "GameName": "Dishonored",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/802/images/17/17-1575764585-1536986851.png",
+          "IsNSFW": false,
+          "ModID": 17,
+          "Name": "Mission Stats",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "f8/I+5DydRY=",
+        "Meta": "[General]\ngameName=dishonored\nmodID=12\nfileID=73",
+        "Name": "Disappearing Bodies Fixer-12-v0-1-1594930932.zip",
+        "Size": 1373,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ryan Paul Fialcowitz",
+          "Description": "Bodies should no longer disappear when there are too many of them.",
+          "FileID": 73,
+          "GameName": "Dishonored",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/802/images/12/12-1515773725-22207077.jpeg",
+          "IsNSFW": false,
+          "ModID": 12,
+          "Name": "Disappearing Bodies Fixer",
+          "Version": "v0.1"
         }
       }
     },
@@ -50,7 +71,7 @@
       "Status": "Valid",
       "Original": {
         "Hash": "nSr0EkKDpxs=",
-        "Meta": "[General]\ngameName=\nmodID=13\nfileID=42",
+        "Meta": "[General]\ngameName=dishonored\nmodID=13\nfileID=42",
         "Name": "replacements-13-1-0-0.zip",
         "Size": 2934,
         "State": {
@@ -63,7 +84,28 @@
           "IsNSFW": false,
           "ModID": 13,
           "Name": "Pre-main-menu-intro disabler",
-          "Version": "0.0.0.0"
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YA5QNFnWPmg=",
+        "Meta": "[General]\ngameName=dishonored\nmodID=31\nfileID=82",
+        "Name": "Nonlethal Drop Takedown-31-1-0-1620493989.zip",
+        "Size": 2512,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "K_Constantine",
+          "Description": "Simply allows you to knock enemies out nonlethally by dropping on their heads from a sufficient height.",
+          "FileID": 82,
+          "GameName": "Dishonored",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/802/images/31/31-1620494040-1922500788.jpeg",
+          "IsNSFW": false,
+          "ModID": 31,
+          "Name": "Nonlethal Drop Takedown",
+          "Version": "1.0"
         }
       }
     }
