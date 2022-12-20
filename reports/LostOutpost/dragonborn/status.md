@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (711)
+### Valid (712)
 *  [(Part 1) SSE Engine Fixes for 1.6.xxx-17230-6-0-2-1637784396.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [1-Unique Solstheim Grass-34581-1-1-1640294188.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34581/?tab=files&file_id=251270)
@@ -646,6 +646,7 @@
 *  [STAYDOWN - LIGHT-41228-3-0-0-1634245087.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41228/?tab=files&file_id=234836)
 *  steam_api64.dll
 *  [Streamlined Fishing-80683-1-0-0-1671109604.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80683/?tab=files&file_id=340764)
+*  [Stupidly Simple Blood Potion Recipes-80995-1-0-1671496660.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80995/?tab=files&file_id=342023)
 *  [Subtypes of Snowberries-77639-0-2-1666989631.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77639/?tab=files&file_id=327172)
 *  [SUEMR v3.0 Simple Vampire Fixes SSE-18147-v3-0-1577160259.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18147/?tab=files&file_id=117238)
 *  [Summerset Shadow Armor-64934-1-0-1-1647211740.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64934/?tab=files&file_id=270002)

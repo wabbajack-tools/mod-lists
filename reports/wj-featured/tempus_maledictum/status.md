@@ -1,11 +1,10 @@
 ## Validation Report - Tempus Maledictum (wj-featured/tempus_maledictum)
 
 
-### Invalid (1)
-*  [Tempus Maledictum - Super Duper Facegen.7z](https://authored-files.wabbajack.org/Tempus Maledictum - Super Duper Facegen.7z_bdadf28d-9a64-4801-923a-64fa4d9460fb)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1208)
+### Valid (1206)
 *  [(Part 1) SSE Engine Fixes for 1.6.xxx-17230-6-0-2-1637784396.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [2K Ash Pile-31983-1-0-1579710192.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31983/?tab=files&file_id=120828)
@@ -1098,8 +1097,6 @@
 *  [Thugs Not Assassins - Timing Is Everything-34028-1-1-0-1585564458.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34028/?tab=files&file_id=131423)
 *  [Thugs Not Assassins-34028-1-1-1-1585564478.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34028/?tab=files&file_id=131424)
 *  [Thunderchild v411-1460-4-11SSE.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1460/?tab=files&file_id=40320)
-*  [Time-Based Scaling 7-27203-7-1643823393.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27203/?tab=files&file_id=261299)
-*  [Time-Based Set of Skills-79100-1-0-1668953097.7z](https://www.nexusmods.com/skyrimspecialedition/mods/79100/?tab=files&file_id=333228)
 *  [Timing Is Everything - Bruma Patch-42226-1-0-1605472250.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42226/?tab=files&file_id=170230)
 *  [Timing is Everything SE-25464-2-2-1566270281.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25464/?tab=files&file_id=103670)
 *  [To Your Face AE-24720-1-0p-1649817461.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24720/?tab=files&file_id=276755)
