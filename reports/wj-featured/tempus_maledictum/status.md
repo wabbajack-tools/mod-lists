@@ -1,11 +1,10 @@
 ## Validation Report - Tempus Maledictum (wj-featured/tempus_maledictum)
 
 
-### Invalid (1)
-*  [Tempus Maledictum - Super Duper Facegen.7z](https://authored-files.wabbajack.org/Tempus Maledictum - Super Duper Facegen.7z_bdadf28d-9a64-4801-923a-64fa4d9460fb)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1208)
+### Valid (1209)
 *  [(Part 1) SSE Engine Fixes for 1.6.xxx-17230-6-0-2-1637784396.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [2K Ash Pile-31983-1-0-1579710192.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31983/?tab=files&file_id=120828)
@@ -1054,6 +1053,7 @@
 *  [Tempus Maledictum - Lodgen Output - ACMOS Road Generator.7z](https://authored-files.wabbajack.org/Tempus Maledictum - Lodgen Output - ACMOS Road Generator.7z_c20cdba4-9aa4-4cc2-9646-da0cf81cd412)
 *  [Tempus Maledictum - Lodgen Output.7z](https://authored-files.wabbajack.org/Tempus Maledictum - Lodgen Output.7z_6ec25020-cc2e-4eea-867a-a5f595617ef4)
 *  [Tempus Maledictum - Nemesis Output.7z](https://authored-files.wabbajack.org/Tempus Maledictum - Nemesis Output.7z_498c16b6-dcb9-41a5-94dc-ddd6dac0f4df)
+*  [Tempus Maledictum - Super Duper Facegen.7z](https://authored-files.wabbajack.org/Tempus Maledictum - Super Duper Facegen.7z_bdadf28d-9a64-4801-923a-64fa4d9460fb)
 *  [Tempus Maledictum - Texgen Output.7z](https://authored-files.wabbajack.org/Tempus Maledictum - Texgen Output.7z_a25cbb88-076e-4070-91a0-5bc3bdcc1a96)
 *  [The Brotherhood of Old - Version 1.1.2-15322-1-1-2-1662418872.zip](https://www.nexusmods.com/skyrimspecialedition/mods/15322/?tab=files&file_id=313646)
 *  [The Distinct Cities of the North Interiors-46359-2-1-1634134119.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46359/?tab=files&file_id=234591)
