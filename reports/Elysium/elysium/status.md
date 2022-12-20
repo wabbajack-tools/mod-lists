@@ -249,7 +249,7 @@
 *  [Better PowerAttack Control-SSE-49648-v0-31-1628337415.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49648/?tab=files&file_id=219449)
 *  [Better Shaped Weapons Patch - No Refraction-26188-4-0-1636248240.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26188/?tab=files&file_id=239528)
 *  [Better than Nando's-1046-1-9.rar](https://www.nexusmods.com/skyrimspecialedition/mods/1046/?tab=files&file_id=49713)
-*  [Better Third Person Selection (AE - SE)-64339-0-5-8-1671483227.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64339/?tab=files&file_id=341977)
+*  [Better Third Person Selection (SE)-64339-0-5-5-1656977754.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64339/?tab=files&file_id=296246)
 *  [Better Windhelm Ground Meshes - Icy Windhelm-42746-1-3-5-1649340833.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42746/?tab=files&file_id=275464)
 *  [Better Windhelm Ground Meshes - Parallaxed-42746-1-3-5-1649337888.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42746/?tab=files&file_id=275447)
 *  [BetterStealing v2-32295-2-1580801928.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32295/?tab=files&file_id=122672)
