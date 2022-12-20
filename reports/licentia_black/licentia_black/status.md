@@ -251,7 +251,7 @@
 *  [Comprehensive Falskaar Fixes-62819-1-3-0-1648860633.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62819/?tab=files&file_id=274230)
 *  [Conner's Survival Mode 2-19152-22-2-1660240191.rar](https://www.nexusmods.com/skyrimspecialedition/mods/19152/?tab=files&file_id=306617)
 *  [Console Commands Extender-28210-1-8-0-1596771552.zip](https://www.nexusmods.com/skyrimspecialedition/mods/28210/?tab=files&file_id=154169)
-*  [ConsoleUtilSSE-24858-1-2-0-1583021370.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24858/?tab=files&file_id=126531)
+*  [ConsoleUtilSSE NG-76649-1-4-0-1665069096.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76649/?tab=files&file_id=322047)
 *  [Contextual Crosshair-63980-1-3-0-1668437056.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63980/?tab=files&file_id=331800)
 *  [Convenient Horses - Apocalypse Patch-21249-1-0-0-1542249276.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21249/?tab=files&file_id=72405)
 *  [Convenient Horses - SIC Patch-21249-1-0-0-1542249526.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21249/?tab=files&file_id=72407)
