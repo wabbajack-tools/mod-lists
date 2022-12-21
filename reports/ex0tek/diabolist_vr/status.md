@@ -309,7 +309,7 @@
 *  [DungeonMaps.zip-13313-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13313/?tab=files&file_id=37972)
 *  [durzogs (se-ae) v2-45470-2-1663286399.rar](https://www.nexusmods.com/skyrimspecialedition/mods/45470/?tab=files&file_id=316443)
 *  [Durzogs SE-37995-tjbf3g-1594021368.rar](https://www.nexusmods.com/skyrimspecialedition/mods/37995/?tab=files&file_id=149017)
-*  [DVR 4.0 rev1.0 Custom Files.zip](https://authored-files.wabbajack.org/DVR 4.0 rev1.0 Custom Files.zip_49a5f1fb-32b3-4397-8127-2f8ccf71b678)
+*  [DVR 4.0 rev2.0 Custom Files.zip](https://authored-files.wabbajack.org/DVR 4.0 rev2.0 Custom Files.zip_5827fdac-b10b-4548-a450-eb8cc5d7762b)
 *  [Dwarven Automatons Pack (SE-AE) 1.2-49589-1-2-1665367207.rar](https://www.nexusmods.com/skyrimspecialedition/mods/49589/?tab=files&file_id=322919)
 *  [Dwarven Shield - SE-AE - My version 2K-59369-1-1638386667.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59369/?tab=files&file_id=245866)
 *  [Dwemer Armor-63074-1-1-1657652013.rar](https://www.nexusmods.com/skyrimspecialedition/mods/63074/?tab=files&file_id=298442)
