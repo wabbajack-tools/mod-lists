@@ -1,11 +1,10 @@
 ## Validation Report - Capital Punishment (TTWTrueVegas/capitalpunishment)
 
 
-### Invalid (1)
-*  [Enhanced Vision 1.3.1 [eddoursul.win].7z](https://eddoursul.win/download/247)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (883)
+### Valid (884)
 *  [00 - Alcohol Bottles - Overhaul-73919-1-0-2-1644020370.7z](https://www.nexusmods.com/newvegas/mods/73919/?tab=files&file_id=1000087139)
 *  [00 - Better Books-74333-1-0-1636330917.7z](https://www.nexusmods.com/newvegas/mods/74333/?tab=files&file_id=1000083742)
 *  [01 - NUKA WORLD IMPORTS Version-72985-1-1-1-1633029826.7z](https://www.nexusmods.com/newvegas/mods/72985/?tab=files&file_id=1000081833)
@@ -441,6 +440,7 @@
 *  [Enhanced Blood Textures-34917-2-22c.rar](https://www.nexusmods.com/newvegas/mods/34917/?tab=files&file_id=1000017433)
 *  [Enhanced Bullet Impacts-61804-1-0.7z](https://www.nexusmods.com/newvegas/mods/61804/?tab=files&file_id=1000036972)
 *  [Enhanced Landscapes-69406-1-5-1666885059.7z](https://www.nexusmods.com/newvegas/mods/69406/?tab=files&file_id=1000100407)
+*  [Enhanced Vision 1.3.1 [eddoursul.win].7z](https://eddoursul.win/download/247)
 *  [Essential Caravan Merchants-79005-1-1668469773.rar](https://www.nexusmods.com/newvegas/mods/79005/?tab=files&file_id=1000101119)
 *  [Essential DLC Enhancements-73803-1-3-1-1669664832.7z](https://www.nexusmods.com/newvegas/mods/73803/?tab=files&file_id=1000101612)
 *  [EXE FULL RES V2  -LATEST--62989-v2.7z](https://www.nexusmods.com/newvegas/mods/62989/?tab=files&file_id=1000041486)
