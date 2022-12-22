@@ -1,11 +1,10 @@
 ## Validation Report - Licentia BLACK (licentia_black/licentia_black)
 
 
-### Invalid (1)
-*  [Hans-Kaidan-Immersive-Features-Kaidans-Tent-Lux-Patch.7z](https://kaidanmod.com/wp-content/uploads/2022/10/Hans-Kaidan-Immersive-Features-Kaidans-Tent-Lux-Patch.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1372)
+### Valid (1373)
 *  [(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77989)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
 *  [(4) Community Overlays 3 - Main - CBBE and Male-35339-1-0-1588129970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136903)
@@ -594,6 +593,7 @@
 *  [Hagraven.2k-7679-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/7679/?tab=files&file_id=18580)
 *  [Hammerfell Armory SE-8336-1-4-1-1545268910.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8336/?tab=files&file_id=75712)
 *  [HangEmHigh BodySlide Preset-58917-1-1-1637645272.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58917/?tab=files&file_id=243634)
+*  [Hans-Kaidan-Immersive-Features-Kaidans-Tent-Lux-Patch.7z](https://kaidanmod.com/wp-content/uploads/2022/10/Hans-Kaidan-Immersive-Features-Kaidans-Tent-Lux-Patch.7z)
 *  [HanShotFirst01 - Kai and Inigo Banter Patch-63348-5-1656632659.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63348/?tab=files&file_id=295280)
 *  [HAPPY HORKER - 2K-77243-1-0.7z](https://www.nexusmods.com/skyrim/mods/77243/?tab=files&file_id=1000213886)
 *  [Happy Little Shrubs-71992-1-15-1659807976.rar](https://www.nexusmods.com/skyrimspecialedition/mods/71992/?tab=files&file_id=305128)
