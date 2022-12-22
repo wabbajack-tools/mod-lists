@@ -1,10 +1,11 @@
 ## Validation Report - Tales from the Northern Lands (wj-featured/TalesFromTheNorthernLands)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [High Poly Head v1.4 (SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (591)
+### Valid (590)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [1_Enhanced Blood Textures-2357-4-0-1639547261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=249235)
@@ -240,7 +241,6 @@
 *  [HelsCels.ini-41978-2-0-1-1613726568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/41978/?tab=files&file_id=186737)
 *  [Hide Quest Items in Container Menu-51243-0-8-1647622538.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51243/?tab=files&file_id=270959)
 *  [High Gate Ruins Puzzle Reset Fix-53643-0-2-1628676419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53643/?tab=files&file_id=220379)
-*  [High Poly Head v1.4 (SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 *  [High Poly NPC Overhaul - Resources 2.06-42768-2-06-1613264959.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42768/?tab=files&file_id=185780)
 *  [High Poly NPC Overhaul - Skyrim Special Edition 2.04-44155-2-04-1610760955.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44155/?tab=files&file_id=179803)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
