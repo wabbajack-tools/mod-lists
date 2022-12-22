@@ -4966,7 +4966,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Updated",
       "Original": {
         "Hash": "bYaUZFM4wzU=",
         "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/\nprompt=\u0022download MoreNastyCrittersSE_v12_8A.7z\u0022",
@@ -4977,7 +4977,19 @@
           "Prompt": "\u0022download MoreNastyCrittersSE_v12_8A.7z\u0022",
           "Url": "https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/"
         }
-      }
+      },
+      "PatchedFrom": {
+        "Hash": "J0JDPMPirlw=",
+        "Meta": "",
+        "Name": "MoreNastyCrittersSE_v12_8B.7z",
+        "Size": 169109865,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "download MoreNastyCrittersSE_v12_8B.7z",
+          "Url": "https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/"
+        }
+      },
+      "PatchUrl": "https://patches.wabbajack.org/6d8694645338c335_2742433cc3e2ae5c"
     },
     {
       "Status": "Valid",
@@ -27471,8 +27483,8 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/5d4a27bb86d3f99b_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/5d4a27bb86d3f99b_large.webp"
 }
