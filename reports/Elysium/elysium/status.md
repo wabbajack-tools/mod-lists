@@ -1881,7 +1881,7 @@
 *  [Simple Weapon Swing Parry - NG-74326-1-0-4-1668865256.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74326/?tab=files&file_id=332948)
 *  [Simple Werewolf Favourite Howls Menu-35736-1-5-1-1603226502.zip](https://www.nexusmods.com/skyrimspecialedition/mods/35736/?tab=files&file_id=166340)
 *  [Simplicity of Snow - Cities of The North-58559-0-1-1637068034.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58559/?tab=files&file_id=241931)
-*  [Simplicity of Snow - Parallax Meshes-56235-0-8-1661651271.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56235/?tab=files&file_id=310950)
+*  [Simplicity of Snow - Parallax Meshes-56235-0-10-1-1671939921.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56235/?tab=files&file_id=343434)
 *  [Simplicity of Snow-56235-0-10-1668872297.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56235/?tab=files&file_id=332966)
 *  [Simply Bigger Wolves-10935-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/10935/?tab=files&file_id=29459)
 *  [Simply Knock SE 1.0.3 Release-14098-1-0-3.zip](https://www.nexusmods.com/skyrimspecialedition/mods/14098/?tab=files&file_id=50365)
