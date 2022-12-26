@@ -1,11 +1,10 @@
 ## Validation Report - Magnum Opus (wj-featured/magnum_opus)
 
 
-### Invalid (1)
-*  [Methodology.7z](https://authored-files.wabbajack.org/Methodology.7z_0cda0ce4-d162-444d-ac7e-026a0888b248)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (774)
+### Valid (775)
 *  [.44 Magnum Modification Pack-58358-1-0-0-1645580996.7z](https://www.nexusmods.com/fallout4/mods/58358/?tab=files&file_id=230466)
 *  [(2K Perf. - BSA) Fallout 4 Ultimate Window Overhaul-43458-3-2-1650552300.rar](https://www.nexusmods.com/fallout4/mods/43458/?tab=files&file_id=235534)
 *  [0001. Weapon QuickSwap 3-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108861)
@@ -436,6 +435,7 @@
 *  [MCM Settings Manager-56195-1-1-1651532592.rar](https://www.nexusmods.com/fallout4/mods/56195/?tab=files&file_id=236578)
 *  [MeanMachine Eyes-7339-1.zip](https://www.nexusmods.com/fallout4/mods/7339/?tab=files&file_id=26345)
 *  [Melee Finishers Rebalance-22489-1-0.zip](https://www.nexusmods.com/fallout4/mods/22489/?tab=files&file_id=92107)
+*  [Methodology.7z](https://authored-files.wabbajack.org/Methodology.7z_0cda0ce4-d162-444d-ac7e-026a0888b248)
 *  [Mighty Maxson with Beard-18084-1-0.zip](https://www.nexusmods.com/fallout4/mods/18084/?tab=files&file_id=72909)
 *  [Miniguns Rebirth v1.1b Main File ESL version-49721-v1-1b-1627466610.zip](https://www.nexusmods.com/fallout4/mods/49721/?tab=files&file_id=213495)
 *  [Minuteman Watchtowers-30363-0-1.7z](https://www.nexusmods.com/fallout4/mods/30363/?tab=files&file_id=124053)
