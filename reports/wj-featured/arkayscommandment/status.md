@@ -1,10 +1,12 @@
 ## Validation Report - Arkay's Commandment (wj-featured/arkayscommandment)
 
 
-### Invalid (0)
+### Invalid (2)
+*  [Improved_Camera-1.0_Beta4.7z](https://drive.google.com/uc?id=12hqOZbfeFK0zXJxpzsEXsyQyDclDQaZk&export=download)
+*  [Pi-CHO ENB N6.75 for Azurite Weathers.7z](https://drive.google.com/uc?id=1x7Biesz0kcNnFh27kVWx_CUpnWUg3mI8&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (761)
+### Valid (759)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [1-40615-1-1600478507.rar](https://www.nexusmods.com/skyrimspecialedition/mods/40615/?tab=files&file_id=161461)
@@ -352,7 +354,6 @@
 *  [Improved Loading Screen Colors-61712-1-0-1641844293.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61712/?tab=files&file_id=255727)
 *  [improved magic anomalies sse-55621-1-1631677728.rar](https://www.nexusmods.com/skyrimspecialedition/mods/55621/?tab=files&file_id=228498)
 *  [Improved Traps-17592-2-4-1609354636.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17592/?tab=files&file_id=176927)
-*  [Improved_Camera-1.0_Beta4.7z](https://drive.google.com/uc?id=12hqOZbfeFK0zXJxpzsEXsyQyDclDQaZk&export=download)
 *  [INI file-51073-1-3-0-1635979712.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=238875)
 *  [INI file-56767-1-3-1-1650573402.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56767/?tab=files&file_id=278757)
 *  installscript.vdf
@@ -488,7 +489,6 @@
 *  [Party Combat Parameters SE-57127-2-1-3-1645742822.rar](https://www.nexusmods.com/skyrimspecialedition/mods/57127/?tab=files&file_id=266580)
 *  [Patch - SkyHUD v090B-463-0-90-1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=65410)
 *  [PELTAPALOOZA Special Edition - FULL-5442-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5442/?tab=files&file_id=11948)
-*  [Pi-CHO ENB N6.75 for Azurite Weathers.7z](https://drive.google.com/uc?id=1x7Biesz0kcNnFh27kVWx_CUpnWUg3mI8&export=download)
 *  [Pick Up Radius-69750-1-7-1656412974.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69750/?tab=files&file_id=294642)
 *  [Pickaxe Redone-22589-2-1555947594.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22589/?tab=files&file_id=89268)
 *  [PlaceAtMe-64357-1-0-1-1646101036.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64357/?tab=files&file_id=267437)

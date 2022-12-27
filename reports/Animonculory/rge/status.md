@@ -1,13 +1,15 @@
 ## Validation Report - Relics of Hyrule - GAT Edition (Animonculory/rge)
 
 
-### Invalid (3)
+### Invalid (5)
+*  [High_Poly_Head_v1.4_(SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
+*  [Skyrim_Realistic_Overhaul_1.8._Update.rar](https://www.moddb.com/downloads/start/139489?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
 *  [Skyrim_Realistic_Overhaul_Part_1.7z](https://www.moddb.com/downloads/start/116891?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
 *  [Skyrim_Realistic_Overhaul_Part_2.7z](https://www.moddb.com/downloads/start/116927?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
 *  [Skyrim_Realistic_Overhaul_Part_3.7z](https://www.moddb.com/downloads/start/116934?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (946)
+### Valid (944)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(2K) Skygazer Moons - Masser and Secunda HD Moons by fadingsignal-54349-1-0.rar](https://www.nexusmods.com/skyrim/mods/54349/?tab=files&file_id=1000110438)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
@@ -393,7 +395,6 @@
 *  [High Quality Tintmasks for Vanilla NPCs - BSA 1K-18360-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18360/?tab=files&file_id=68440)
 *  [High Resolution Books - Menu v1_5-1628.zip](https://www.nexusmods.com/skyrim/mods/1628/?tab=files&file_id=4899)
 *  [High Resolution Books - Objects v1_5-1628.zip](https://www.nexusmods.com/skyrim/mods/1628/?tab=files&file_id=4874)
-*  [High_Poly_Head_v1.4_(SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 *  [High-Res Texture Pack-24273-1-1.zip](https://www.nexusmods.com/skyrim/mods/24273/?tab=files&file_id=105173)
 *  High.ini
 *  [Highlandcow HD-20758-1-0-1548091865.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20758/?tab=files&file_id=79177)
@@ -793,7 +794,6 @@
 *  [Skyrim Unbound Reborn-27962-1-8-0-1651681797.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27962/?tab=files&file_id=281524)
 *  [Skyrim Weapons Expansion - BSA Packed - 2k-32500-1-1-1581451003.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32500/?tab=files&file_id=123680)
 *  Skyrim_Default.ini
-*  [Skyrim_Realistic_Overhaul_1.8._Update.rar](https://www.moddb.com/downloads/start/139489?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
 *  Skyrim.ccc
 *  [Skyrim3DTrees and Plants 3dLOD Resources-12371-5-0-1-1592182291.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12371/?tab=files&file_id=145752)
 *  [skyrimindiemusicscene_la-20953-1-4.7z](https://www.nexusmods.com/skyrim/mods/20953/?tab=files&file_id=77342)
