@@ -1,10 +1,11 @@
 ## Validation Report - Ruvaak (Animonculory/ruvaak)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [ADXP+Beta+1.4.2.zip](https://www.skyrim-guild.com/s/ADXP-Beta-142.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1510)
+### Valid (1509)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
@@ -42,7 +43,6 @@
 *  [Active Effects Menu Declutter-74594-1-2-5-1663555257.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74594/?tab=files&file_id=317520)
 *  [Actor Limit Fix (Anniversary Edition)-32349-6-1648396498.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=273041)
 *  [Additional Clockwork-47087-3-0-4-1665222016.zip](https://www.nexusmods.com/skyrimspecialedition/mods/47087/?tab=files&file_id=322413)
-*  [ADXP+Beta+1.4.2.zip](https://www.skyrim-guild.com/s/ADXP-Beta-142.zip)
 *  [AE CC-65696-1-3-1652654138.rar](https://www.nexusmods.com/skyrimspecialedition/mods/65696/?tab=files&file_id=284078)
 *  [Aequinoctium - 1.70-15884-1-70-1550431707.zip](https://www.nexusmods.com/skyrimspecialedition/mods/15884/?tab=files&file_id=82109)
 *  [Aequinoctium - Patch Box 1.70-15884-PatchBox1-70-1550431812.zip](https://www.nexusmods.com/skyrimspecialedition/mods/15884/?tab=files&file_id=82110)
