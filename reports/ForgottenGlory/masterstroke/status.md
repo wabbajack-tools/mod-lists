@@ -1,13 +1,12 @@
 ## Validation Report - Masterstroke (ForgottenGlory/masterstroke)
 
 
-### Invalid (3)
-*  [Community Overlays 1 - CBBE Male and Female Repackage.zip](https://drive.google.com/uc?id=1jHzXv8VC6fF9pGHbKlkitCE8UK-p-vX9&export=download)
+### Invalid (2)
 *  [MoreNastyCrittersSE_v12_8B.7z](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/)
 *  [TAWOBA REMASTERED 6.1 CBBE SE.7z](https://www.mediafire.com/file/vglmfgdbaubm2ti/TAWOBA+REMASTERED+6.1+CBBE+SE.7z/file)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1061)
+### Valid (1062)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -181,6 +180,7 @@
 *  [Coldharbour Paper map for FWMF-59967-1-0-1639327671.rar](https://www.nexusmods.com/skyrimspecialedition/mods/59967/?tab=files&file_id=248556)
 *  [Colovian Leather Armor and Outfit SE - CBBE - V2-50331-2-1623186556.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50331/?tab=files&file_id=208192)
 *  [Colovian Leather Armors and Outfits 3BA-50683-2-0-1624243364.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50683/?tab=files&file_id=210369)
+*  [Community Overlays 1 - CBBE Male and Female Repackage.zip](https://drive.google.com/uc?id=1jHzXv8VC6fF9pGHbKlkitCE8UK-p-vX9&export=download)
 *  [Compas Navgation Overhaul - Nordic UI Skin-74484-1-2-1662592734.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74484/?tab=files&file_id=314149)
 *  [Compass Navigation Overhaul-74484-1-2-2-1664383770.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74484/?tab=files&file_id=320068)
 *  [Conditional Armor Type Animations - CATA-51507-1-0-1624340464.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51507/?tab=files&file_id=210549)

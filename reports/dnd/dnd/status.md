@@ -1,11 +1,10 @@
 ## Validation Report - Dungeons & Daedra (dnd/dnd)
 
 
-### Invalid (1)
-*  [TD_Alternative_Books_Covers.7z](http://www.mediafire.com/file/zdm8rceqe70sgla/TD_Alternative_Books_Covers.7z/file)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (400)
+### Valid (401)
 *  [1 Oblivion Upscaled Textures Default-49351-2-1560951173.7z](https://www.nexusmods.com/oblivion/mods/49351/?tab=files&file_id=1000022409)
 *  [1kart_SIUT_default-49645-1-1571272428.7z](https://www.nexusmods.com/oblivion/mods/49645/?tab=files&file_id=1000023128)
 *  [2020 Retexture Project - Landscape and Rocks-49933-2-0-1615432788.7z](https://www.nexusmods.com/oblivion/mods/49933/?tab=files&file_id=1000027190)
@@ -384,6 +383,7 @@
 *  [Staffs version 1_1-38438-1-1.7z](https://www.nexusmods.com/oblivion/mods/38438/?tab=files&file_id=87653)
 *  [Static Alchemy and Ingredient Storage-49612-1-1-0-1656005069.7z](https://www.nexusmods.com/oblivion/mods/49612/?tab=files&file_id=1000031630)
 *  [Strada Citta Imperiale-25123.rar](https://www.nexusmods.com/oblivion/mods/25123/?tab=files&file_id=43231)
+*  [TD_Alternative_Books_Covers.7z](http://www.mediafire.com/file/zdm8rceqe70sgla/TD_Alternative_Books_Covers.7z/file)
 *  [Teleportation Services-50141-1-0-3-1645864444.7z](https://www.nexusmods.com/oblivion/mods/50141/?tab=files&file_id=1000030474)
 *  [Travelling Equipment-50205-1-0-1-1655646100.7z](https://www.nexusmods.com/oblivion/mods/50205/?tab=files&file_id=1000031591)
 *  [tweaked ORC.ini for ORC 1.5-49560-1-1659177451.7z](https://www.nexusmods.com/oblivion/mods/49560/?tab=files&file_id=1000031955)
