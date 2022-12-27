@@ -1,10 +1,11 @@
 ## Validation Report - Magnum Opus (wj-featured/magnum_opus)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [MoreHairstyles-Beards.rar](http://www.mediafire.com/file/iztz7iidy6djz1e/MoreHairstyles-Beards.rar/file)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (775)
+### Valid (774)
 *  [.44 Magnum Modification Pack-58358-1-0-0-1645580996.7z](https://www.nexusmods.com/fallout4/mods/58358/?tab=files&file_id=230466)
 *  [(2K Perf. - BSA) Fallout 4 Ultimate Window Overhaul-43458-3-2-1650552300.rar](https://www.nexusmods.com/fallout4/mods/43458/?tab=files&file_id=235534)
 *  [0001. Weapon QuickSwap 3-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108861)
@@ -451,7 +452,6 @@
 *  [More Deathclaw Variety - Nuka World Version-19067-1-10.zip](https://www.nexusmods.com/fallout4/mods/19067/?tab=files&file_id=84249)
 *  [More Feral Ghouls. A Zombie Mod-43441-0-9-1581441117.rar](https://www.nexusmods.com/fallout4/mods/43441/?tab=files&file_id=175793)
 *  [More Obvious Low Health - Grey-scale Version-13377-1-0.rar](https://www.nexusmods.com/fallout4/mods/13377/?tab=files&file_id=52886)
-*  [MoreHairstyles-Beards.rar](http://www.mediafire.com/file/iztz7iidy6djz1e/MoreHairstyles-Beards.rar/file)
 *  [MS SS2 Unlock Vanilla Recruitable Vendors-59904-1-0-1-1651416319.zip](https://www.nexusmods.com/fallout4/mods/59904/?tab=files&file_id=236429)
 *  [MTM - Fens Parkview Apartment Wall Fixed - ESL-40553-1-0-1567578166.7z](https://www.nexusmods.com/fallout4/mods/40553/?tab=files&file_id=165852)
 *  [MTM - FH Cliffs Edge Hotel Wall Fix - ESL-40230-1-0-1564041140.7z](https://www.nexusmods.com/fallout4/mods/40230/?tab=files&file_id=162796)
