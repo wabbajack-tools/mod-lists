@@ -1,12 +1,14 @@
 ## Validation Report - Tahrovin (Tahrovin/tahrovin)
 
 
-### Invalid (2)
+### Invalid (4)
+*  [Elegant Beauty Stunning Eyes Remastered v2.7z](https://drive.google.com/uc?id=1sBiw9U05mFboGH5pcGKaA_aliM9bPzaS&export=download)
+*  [High_Poly_Head_v1.4_(SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 *  [MoreNastyCrittersSE_v12_8B.7z](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/)
 *  [TAWOBA REMASTERED 6.1 CBBE SE.7z](https://drive.google.com/uc?id=1c6Q4AivQcnXN_rio_hNXySf-4x6y5qA1&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (625)
+### Valid (623)
 *  [.Deadly Spell Impacts 4K-74526-1-0-1662133724.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74526/?tab=files&file_id=312550)
 *  [(2) Sharkish Piercings - 3BA - Base-57131-1-01-1634464044.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235340)
 *  [(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77989)
@@ -167,7 +169,6 @@
 *  [EBD SSE - EveryBodys Different for SSE - Skyproc Patcher-15257-3-45-1614199936.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15257/?tab=files&file_id=187830)
 *  [ED Horns SSE.7z](https://mega.nz/file/o6o1wIhC#dX4vfLGvsYjzUmGxH7ECyyB0KuN3ELB0KFXybH8-Yyk)
 *  [EFM SE - Racemenu plugin-35785-1-0-1595174244.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35785/?tab=files&file_id=151142)
-*  [Elegant Beauty Stunning Eyes Remastered v2.7z](https://drive.google.com/uc?id=1sBiw9U05mFboGH5pcGKaA_aliM9bPzaS&export=download)
 *  [Elena Preset High-Poly-40868-1-0-1601153216.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40868/?tab=files&file_id=162716)
 *  [ElSopa - HD Keys Redone 2k-48209-1-0-1617725975.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48209/?tab=files&file_id=196463)
 *  [ElSopa - Potions Redone  - No ENB Light Meshes-80832-1-0-1671324798.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80832/?tab=files&file_id=341444)
@@ -252,7 +253,6 @@
 *  [helen(breton)-74989-1-0-1662767541.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74989/?tab=files&file_id=314752)
 *  [HIGGS 1.5.11-43930-1-5-11-1668276346.zip](https://www.nexusmods.com/skyrimspecialedition/mods/43930/?tab=files&file_id=331173)
 *  [HIgh Poly Female Presets vol.2-48292-1-1-1617909105.zip](https://www.nexusmods.com/skyrimspecialedition/mods/48292/?tab=files&file_id=196928)
-*  [High_Poly_Head_v1.4_(SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 *  [High-Res VR Map Markers - Outline-35627-1-0-1588685969.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35627/?tab=files&file_id=138211)
 *  High.ini
 *  [Highlandcow HD-20758-1-0-1548091865.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20758/?tab=files&file_id=79177)

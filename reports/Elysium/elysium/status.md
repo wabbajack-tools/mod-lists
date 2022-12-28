@@ -1,10 +1,11 @@
 ## Validation Report - Elysium Remastered (Elysium/elysium)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [CC's Enhanced Ore Veins SSE - Fixed Iron Ore Cubemap.rar](https://drive.google.com/uc?id=14VxEEE08WmlO4fjPzwuUH68K0pmAfYU8&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2380)
+### Valid (2379)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(beta) Wade In Water Animations-34006-1-42-1649385492.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34006/?tab=files&file_id=275559)
 *  [(ESL) Immersive World Encounters AddOn - High Poly Uniques-50999-V1-2-1633524791.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50999/?tab=files&file_id=233002)
@@ -345,7 +346,6 @@
 *  [CC Necromantic Grimoire hooded skull patch-52845-1-0-1637454791.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52845/?tab=files&file_id=243097)
 *  [CC_Content_Anniversary_Cleaned_and_Upscaled_Update-58801-1-1-1638787787.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58801/?tab=files&file_id=247015)
 *  [CC_Content_Anniversary_Cleaned_and_Upscaled-58801-1-1638440452.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58801/?tab=files&file_id=246028)
-*  [CC's Enhanced Ore Veins SSE - Fixed Iron Ore Cubemap.rar](https://drive.google.com/uc?id=14VxEEE08WmlO4fjPzwuUH68K0pmAfYU8&export=download)
 *  [CC's HD Dwemer Weapons and Armor - 2K - 1.0-32384-1-0-1580933357.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32384/?tab=files&file_id=122824)
 *  [ccbgsse025 Saints and Seducers patch-67973-2-1-1663432061.zip](https://www.nexusmods.com/skyrimspecialedition/mods/67973/?tab=files&file_id=316947)
 *  [ccbgsSSE003-zombies patch-67973-2-0-1652614066.zip](https://www.nexusmods.com/skyrimspecialedition/mods/67973/?tab=files&file_id=283934)
