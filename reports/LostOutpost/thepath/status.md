@@ -2,7 +2,7 @@
 
 
 ### Invalid (1)
-*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
+*  [Labrador.7z](https://www.mediafire.com/file/avxnxf3k37gtvy6/Labrador.7z/file)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (507)
@@ -256,7 +256,6 @@
 *  [Kolapon's Various Creatures Replacers-64-1-5v-1618614712.zip](https://www.nexusmods.com/enderalspecialedition/mods/64/?tab=files&file_id=354)
 *  [KuPu_CookingPlaces_Eng-151-1-1590959356.7z](https://www.nexusmods.com/enderal/mods/151/?tab=files&file_id=532)
 *  [KuPu_MM_RestingPlace-151-1-1590959266.7z](https://www.nexusmods.com/enderal/mods/151/?tab=files&file_id=531)
-*  [Labrador.7z](https://www.mediafire.com/file/avxnxf3k37gtvy6/Labrador.7z/file)
 *  [LeanWolf's Better-Shaped Talos with Greatsword SSE-4752-1-3b.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4752/?tab=files&file_id=9860)
 *  [Less Distracting Blowing Snow Effects 1.0-36198-1-0-1589943324.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36198/?tab=files&file_id=140954)
 *  [Less Ugly Tundragrass-26740-1-0-1560901980.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26740/?tab=files&file_id=96525)
@@ -387,6 +386,7 @@
 *  [Sales Overflow Solved-41625-1-0-1603382023.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41625/?tab=files&file_id=166582)
 *  [Sanguis - An Oblivion Font V1.0-37001-1-0-1591577211.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37001/?tab=files&file_id=144386)
 *  [SC - KS Hairdos Retextured - Grayscale-38820-1-9-1646753176.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38820/?tab=files&file_id=268856)
+*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
 *  [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
 *  [ScaleformTranslationPP-22603-1-4-1-1586306055.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22603/?tab=files&file_id=132968)
 *  [Scrambled Bugs (Special Edition)-43532-16-1646318086.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=267824)

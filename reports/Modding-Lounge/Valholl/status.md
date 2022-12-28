@@ -1,12 +1,12 @@
 ## Validation Report - VALHÖLL (Modding-Lounge/Valholl)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Azumatt-ImFRIENDLY_DAMMIT-1.0.1.zip](https://valheim.thunderstore.io/package/download/Azumatt/ImFRIENDLY_DAMMIT/1.0.1/)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (29)
+### Valid (28)
 *  [0.9.9.11 ValheimPlus Vortex-4-0-9-9-11-1670441473.zip](https://www.nexusmods.com/valheim/mods/4/?tab=files&file_id=9800)
-*  [Azumatt-ImFRIENDLY_DAMMIT-1.0.1.zip](https://valheim.thunderstore.io/package/download/Azumatt/ImFRIENDLY_DAMMIT/1.0.1/)
 *  [Better Archery-348-1-8-1-1670947785.zip](https://www.nexusmods.com/valheim/mods/348/?tab=files&file_id=10030)
 *  [CameraMod v0.0.8g-44-0-0-87-1632174832.zip](https://www.nexusmods.com/valheim/mods/44/?tab=files&file_id=6649)
 *  [Clutter 0.1.2-1350-0-1-2-1648774740.zip](https://www.nexusmods.com/valheim/mods/1350/?tab=files&file_id=8421)
