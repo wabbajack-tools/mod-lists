@@ -1,11 +1,10 @@
 ## Validation Report - Do Not Go Gentle (Animonculory/dngg)
 
 
-### Invalid (1)
-*  [Slow Sprint Equip Bug Fix.zip](https://drive.google.com/uc?id=1kG_pRhKGyl1uESaj60fsXD9dWmaXz-Z2&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1494)
+### Valid (1495)
 *  [_Fuse00_ArmorRogue.rar](https://www.patreon.com/file?h=67007517&i=10861552)
 *  [_Fuse00HairPackBraided03.rar](https://www.patreon.com/file?h=64262256&i=10354948)
 *  [_Fuse00TaurielHair.rar](https://www.patreon.com/file?h=62190804&i=11074106)
@@ -1249,6 +1248,7 @@
 *  [SkySight Skins HD with Real Feet Meshes  (PERFORMANCE)-6580-1-0-1626571246.rar](https://www.nexusmods.com/skyrimspecialedition/mods/6580/?tab=files&file_id=215198)
 *  [SkyUI_5_2_SE-12604-5-2SE.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12604/?tab=files&file_id=35407)
 *  [Sleeping Expanded-59250-1-22-1670752210.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59250/?tab=files&file_id=339580)
+*  [Slow Sprint Equip Bug Fix.zip](https://drive.google.com/uc?id=1kG_pRhKGyl1uESaj60fsXD9dWmaXz-Z2&export=download)
 *  [SMIM - Assorted Mesh Fixes Patch-45597-1-01-1613099926.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45597/?tab=files&file_id=185402)
 *  [SMIM - Quality Addon - Unofficial Material Fix Patch-45597-1-12a-1615475679.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45597/?tab=files&file_id=190815)
 *  [Smim - Quality Addon-44388-1-3-1610838572.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44388/?tab=files&file_id=179941)
