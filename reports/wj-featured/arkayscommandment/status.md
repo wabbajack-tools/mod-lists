@@ -1,10 +1,11 @@
 ## Validation Report - Arkay's Commandment (wj-featured/arkayscommandment)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Improved_Camera-1.0_Beta4.7z](https://drive.google.com/uc?id=12hqOZbfeFK0zXJxpzsEXsyQyDclDQaZk&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (761)
+### Valid (760)
 *  [(Part 1) Engine Fixes-17230-5-6-0-1611442568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [1-40615-1-1600478507.rar](https://www.nexusmods.com/skyrimspecialedition/mods/40615/?tab=files&file_id=161461)
@@ -352,7 +353,6 @@
 *  [Improved Loading Screen Colors-61712-1-0-1641844293.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61712/?tab=files&file_id=255727)
 *  [improved magic anomalies sse-55621-1-1631677728.rar](https://www.nexusmods.com/skyrimspecialedition/mods/55621/?tab=files&file_id=228498)
 *  [Improved Traps-17592-2-4-1609354636.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17592/?tab=files&file_id=176927)
-*  [Improved_Camera-1.0_Beta4.7z](https://drive.google.com/uc?id=12hqOZbfeFK0zXJxpzsEXsyQyDclDQaZk&export=download)
 *  [INI file-51073-1-3-0-1635979712.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=238875)
 *  [INI file-56767-1-3-1-1650573402.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56767/?tab=files&file_id=278757)
 *  installscript.vdf
