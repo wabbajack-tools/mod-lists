@@ -1,11 +1,10 @@
 ## Validation Report - Capital Punishment (TTWTrueVegas/capitalpunishment)
 
 
-### Invalid (1)
-*  [Tammer's NIF-Bashed Armor Mega-Pack v4.2.rar](https://drive.google.com/uc?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (892)
+### Valid (893)
 *  [00 - Alcohol Bottles - Overhaul-73919-1-0-2-1644020370.7z](https://www.nexusmods.com/newvegas/mods/73919/?tab=files&file_id=1000087139)
 *  [00 - Better Books-74333-1-0-1636330917.7z](https://www.nexusmods.com/newvegas/mods/74333/?tab=files&file_id=1000083742)
 *  [01 - NUKA WORLD IMPORTS Version-72985-1-1-1-1633029826.7z](https://www.nexusmods.com/newvegas/mods/72985/?tab=files&file_id=1000081833)
@@ -817,6 +816,7 @@
 *  [Sweet 6 Shooter Perk Pack TTW Version-73438-15-11-1659304525.rar](https://www.nexusmods.com/newvegas/mods/73438/?tab=files&file_id=1000096814)
 *  [Tale of Two Wastelands Patch-65449-3-0-0-1667704543.7z](https://www.nexusmods.com/newvegas/mods/65449/?tab=files&file_id=1000100773)
 *  [Taller DC TTW-76595-1-1-1652807327.7z](https://www.nexusmods.com/newvegas/mods/76595/?tab=files&file_id=1000092661)
+*  [Tammer's NIF-Bashed Armor Mega-Pack v4.2.rar](https://drive.google.com/uc?id=1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu&export=download)
 *  [TCM's LOD Overhaul-70155-1-1-1627771074.zip](https://www.nexusmods.com/newvegas/mods/70155/?tab=files&file_id=1000079255)
 *  [The Living Desert - Main File 2.3-64623-2-3-1646084858.zip](https://www.nexusmods.com/newvegas/mods/64623/?tab=files&file_id=1000088491)
 *  [The Mod Configuration Menu-42507-1-5.7z](https://www.nexusmods.com/newvegas/mods/42507/?tab=files&file_id=105803)
