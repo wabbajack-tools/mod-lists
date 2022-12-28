@@ -1,12 +1,11 @@
 ## Validation Report - Do Not Go Gentle (Animonculory/dngg)
 
 
-### Invalid (2)
-*  [[full_inu] Lord Nicholas Armor SSE.7z](https://drive.google.com/uc?id=1cL7BC2Nrvi2HTVv-ppZzyOkcszD5g7gA&export=download)
+### Invalid (1)
 *  [Slow Sprint Equip Bug Fix.zip](https://drive.google.com/uc?id=1kG_pRhKGyl1uESaj60fsXD9dWmaXz-Z2&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1493)
+### Valid (1494)
 *  [_Fuse00_ArmorRogue.rar](https://www.patreon.com/file?h=67007517&i=10861552)
 *  [_Fuse00HairPackBraided03.rar](https://www.patreon.com/file?h=64262256&i=10354948)
 *  [_Fuse00TaurielHair.rar](https://www.patreon.com/file?h=62190804&i=11074106)
@@ -15,6 +14,7 @@
 *  [(Part 1) SSE Engine Fixes for 1.6.xxx-17230-6-0-2-1637784396.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [(SJG) Dual Wield Parrying Reimplementation for SSE - Settings Loader-59046-1-1-1638549418.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59046/?tab=files&file_id=246293)
+*  [[full_inu] Lord Nicholas Armor SSE.7z](https://drive.google.com/uc?id=1cL7BC2Nrvi2HTVv-ppZzyOkcszD5g7gA&export=download)
 *  [$R0F1DEF.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50961/?tab=files&file_id=265799)
 *  [0. PI-CHO ENB N7.6 - Hyper Edition for Vanilla Weather - Build 3-35082-N7-6-1667122120.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35082/?tab=files&file_id=327598)
 *  [0. PI-CHO ENB N7.8 - Hyper Edition for Vanilla Weather - Build 1-35082-N7-8-1669539835.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35082/?tab=files&file_id=335167)
