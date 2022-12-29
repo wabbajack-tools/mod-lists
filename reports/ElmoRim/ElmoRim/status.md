@@ -1,11 +1,10 @@
 ## Validation Report - ElmoRim (ElmoRim/ElmoRim)
 
 
-### Invalid (1)
-*  [nvngx_dlss_2.5.1.zip](https://uk1-dl.techpowerup.com/files/lRuEltm1PqDCk7udQVzhCQ/1672204919/nvngx_dlss_2.5.1.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (712)
+### Valid (713)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-9-1-1664974289.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321816)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -178,6 +177,7 @@
 *  [Dlizzio's Mesh Fixes - Assorted Mesh Fixes Patch-45597-1-03-1613690417.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45597/?tab=files&file_id=186667)
 *  [Dlizzio's Mesh Fixes - Skyrim Landscape and Water Fixes Patch-45597-1-01-1613149450.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45597/?tab=files&file_id=185506)
 *  [Dlizzio's Mesh Fixes-39260-2-3-1625555228.zip](https://www.nexusmods.com/skyrimspecialedition/mods/39260/?tab=files&file_id=212983)
+*  [DLSS-b3559040f968d26b2edbe37e8e3ceda4b8d1275a.zip](https://github.com/NVIDIA/DLSS/archive/b3559040f968d26b2edbe37e8e3ceda4b8d1275a.zip)
 *  [Don't Talk With Your Mouth Full-17715-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17715/?tab=files&file_id=56529)
 *  [Dragon Claws Auto-Unlock (Instant)-47329-1-1-1616381971.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47329/?tab=files&file_id=192837)
 *  [Dragon Mound Dirt FIX-69119-2-0-1654472822.rar](https://www.nexusmods.com/skyrimspecialedition/mods/69119/?tab=files&file_id=289058)
