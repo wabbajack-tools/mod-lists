@@ -743,7 +743,7 @@
 *  [KS Hairdos 1.7 - Salt and Wind-44975-1-1-1612082685.zip](https://www.nexusmods.com/skyrimspecialedition/mods/44975/?tab=files&file_id=183040)
 *  [KS Hairdos SMP-31300-1-4-3-1596895272.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31300/?tab=files&file_id=154433)
 *  [Kthonia's Dragonborn Weapons SE-15050-1-2-1631365013.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15050/?tab=files&file_id=227622)
-*  [Laura's Bondage Shop v3.32 SSE version - by tznvlw.7z](https://www.loverslab.com/files/file/6949-devious-devices-lauras-bondage-shop-7-oct-2021-v332/)
+*  [Laura's Bondage Shop v3.40 SE version - By aurreth.7z](https://www.loverslab.com/files/file/6949-devious-devices-lauras-bondage-shop-30-dec-2022-v340/)
 *  [Leap of Faith - Legacy of the Dragonborn Patch-53074-1-02-1636970842.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53074/?tab=files&file_id=241668)
 *  [Leaps of Faith-53074-1-02-1636970781.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53074/?tab=files&file_id=241667)
 *  [Legacy of the Dragonborn - Alternate Perspective-58764-V1-0-1640388447.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58764/?tab=files&file_id=251542)
