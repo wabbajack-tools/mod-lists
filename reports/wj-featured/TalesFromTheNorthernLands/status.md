@@ -240,7 +240,7 @@
 *  [HelsCels.ini-41978-2-0-1-1613726568.zip](https://www.nexusmods.com/skyrimspecialedition/mods/41978/?tab=files&file_id=186737)
 *  [Hide Quest Items in Container Menu-51243-0-8-1647622538.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51243/?tab=files&file_id=270959)
 *  [High Gate Ruins Puzzle Reset Fix-53643-0-2-1628676419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53643/?tab=files&file_id=220379)
-*  [High Poly Head v1.4 (SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
+*  [High Poly Head v1.4 (SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  [High Poly NPC Overhaul - Resources 2.06-42768-2-06-1613264959.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42768/?tab=files&file_id=185780)
 *  [High Poly NPC Overhaul - Skyrim Special Edition 2.04-44155-2-04-1610760955.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44155/?tab=files&file_id=179803)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
