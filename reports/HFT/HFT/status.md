@@ -1,11 +1,10 @@
 ## Validation Report - Happy Fun Times (HFT/HFT)
 
 
-### Invalid (1)
-*  [[Christine] Airisu CBBE (Physics - CBBE SMP - 3BA) fomod.7z](https://www.mediafire.com/file/3lf9k6ml57ua5o0/%255BChristine%255D_Airisu_CBBE_%2528Physics_-_CBBE_SMP_-_3BA%2529_fomod.7z/file)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1911)
+### Valid (1912)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
@@ -16,6 +15,7 @@
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [(SJG) Quick Light Patch-19879-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19879/?tab=files&file_id=65715)
+*  [[Christine] Airisu CBBE (Physics - CBBE SMP - 3BA) fomod.7z](https://www.mediafire.com/file/3lf9k6ml57ua5o0/%255BChristine%255D_Airisu_CBBE_%2528Physics_-_CBBE_SMP_-_3BA%2529_fomod.7z/file)
 *  [[Christine] College Warrior.7z](https://www.mediafire.com/file/hsaj1v2hghpwst3/[Christine]+College+Warrior.7z/file)
 *  [[Christine] Companion Moon.7z](https://www.mediafire.com/file/fgoyj3pxkh9r9ui/%255BChristine%255D_Companion_Moon.7z/file)
 *  [[Christine] Dragon Berserkr v4.7z](https://www.mediafire.com/file/t2jjzedv5ptphmn/[Christine]+Dragon+Berserkr+v4.7z/file)
