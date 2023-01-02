@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1312)
+### Valid (1309)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -262,9 +262,6 @@
 *  [COTN Winterhold Patch Collection-40181-2-14-1666154916.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40181/?tab=files&file_id=325116)
 *  [Courier Shows Delivery-79522-1-0-1.zip](https://www.nexusmods.com/skyrim/mods/79522/?tab=files&file_id=1000253997)
 *  [Crafting Categories for SkyUI-81409-1-0-1-1672573694.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81409/?tab=files&file_id=345505)
-*  [Creation Kit Multiple Masters Fix 1.2-2786-1-2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/2786/?tab=files&file_id=4208)
-*  CreationKit.exe
-*  CreationKit.ini
 *  [Critter Spawn Congestion Fix 1.2-67276-1-2-1651865683.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67276/?tab=files&file_id=281943)
 *  [Critters Aint Snitches v1.0 SSE-15134-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/15134/?tab=files&file_id=45421)
 *  [Crowbar Director's Cut-30142-1-4-1572690252.rar](https://www.nexusmods.com/skyrimspecialedition/mods/30142/?tab=files&file_id=112179)
