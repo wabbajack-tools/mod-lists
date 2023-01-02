@@ -1,8 +1,8 @@
 {
   "MachineURL": "Modding-Lounge/Valholl",
   "Name": "VALH\u00D6LL",
-  "Version": null,
-  "ModListHash": "JOo8xvNkJC8=",
+  "Version": "1.1.1",
+  "ModListHash": "l0koeMtfFTY=",
   "Archives": [
     {
       "Status": "Valid",
@@ -19,29 +19,100 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "Uwpyg1X2Z/o=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/denikson-BepInExPack_Valheim-5.4.1901.zip_c3d89022-ff3e-4855-a88a-bca7d15fd499",
+        "Meta": "[General]\ndirectURL=https://valheim.thunderstore.io/package/download/denikson/BepInExPack_Valheim/5.4.1901/",
         "Name": "denikson-BepInExPack_Valheim-5.4.1901.zip",
         "Size": 7533093,
         "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/denikson-BepInExPack_Valheim-5.4.1901.zip_c3d89022-ff3e-4855-a88a-bca7d15fd499"
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://valheim.thunderstore.io/package/download/denikson/BepInExPack_Valheim/5.4.1901/"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Qy9xGNFU4+M=",
-        "Meta": "[General]\ndirectURL=https://valheim.thunderstore.io/package/download/Azumatt/ImFRIENDLY_DAMMIT/1.0.1/",
-        "Name": "Azumatt-ImFRIENDLY_DAMMIT-1.0.1.zip",
-        "Size": 55585,
+        "Hash": "bDZU3E5ud6g=",
+        "Meta": "[General]\ngameName=valheim\nmodID=302\nfileID=10353",
+        "Name": "HD Valheim 0.212.9 for Steam version-302-0-212-9-1671654980.7z",
+        "Size": 947195521,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://valheim.thunderstore.io/package/download/Azumatt/ImFRIENDLY_DAMMIT/1.0.1/"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DJAurelius and zJIoDeI",
+          "Description": "Time for Valheim to look AAA! Sk\u00E5l!",
+          "FileID": 10353,
+          "GameName": "Valheim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/302/302-1614989052-1407175661.jpeg",
+          "IsNSFW": false,
+          "ModID": 302,
+          "Name": "HD Valheim",
+          "Version": "0.212.7"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SfJcP3DCkQw=",
+        "Meta": "[General]\ngameName=valheim\nmodID=281\nfileID=10147",
+        "Name": "Extended Item Data Framework-281-1-0-10-1671133982.zip",
+        "Size": 170034,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RandyKnapp",
+          "Description": "Extends ItemData for modders. Adds Unique ID to items.",
+          "FileID": 10147,
+          "GameName": "Valheim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/281/281-1614896348-744157853.png",
+          "IsNSFW": false,
+          "ModID": 281,
+          "Name": "Extended Item Data Framework",
+          "Version": "1.0.10"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xr3k3n0Tn80=",
+        "Meta": "[General]\ngameName=valheim\nmodID=2087\nfileID=10287",
+        "Name": "OCDheim-2087-v0-1-2-1671449041.zip",
+        "Size": 92899,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "deviousJoke",
+          "Description": "OCDheim is an opinionated collection of tools hoping to bring 22nd-century-level space laser precision, in full force, from an artificial Moon directly to... your merry Viking settlement \u0027Stokh\u00F6lm\u0027 ?\u2764\uFE0F",
+          "FileID": 10287,
+          "GameName": "Valheim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/2087/2087-1671268013-225260897.png",
+          "IsNSFW": false,
+          "ModID": 2087,
+          "Name": "OCDheim - DEATH TO EYEBALLING",
+          "Version": "v0.1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sXNcj/3HtLY=",
+        "Meta": "[General]\ngameName=valheim\nmodID=387\nfileID=10606",
+        "Name": "Epic Loot-387-0-9-3-1672506127.zip",
+        "Size": 42566288,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RandyKnapp",
+          "Description": "Adds loot drops, magic items, and enchanting to Valheim.",
+          "FileID": 10606,
+          "GameName": "Valheim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/387/387-1670813590-1342092271.png",
+          "IsNSFW": false,
+          "ModID": 387,
+          "Name": "Epic Loot",
+          "Version": "0.9.1"
         }
       }
     },
@@ -69,6 +140,104 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "9Hn7Jm2kS2k=",
+        "Meta": "[General]\ngameName=valheim\nmodID=1125\nfileID=10352",
+        "Name": "PlanBuild-1125-0-13-1-1671654642.zip",
+        "Size": 306298,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MarcoPogo and Jules",
+          "Description": "PlanBuild enables you to plan, copy and share your building creations in Valheim with ease. Including tools for terrain modification and immersion items.",
+          "FileID": 10352,
+          "GameName": "Valheim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1125/1125-1622068118-1627082848.png",
+          "IsNSFW": false,
+          "ModID": 1125,
+          "Name": "PlanBuild",
+          "Version": "0.13.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WFNnT3HB4R0=",
+        "Meta": "[General]\ngameName=valheim\nmodID=44\nfileID=6649",
+        "Name": "CameraMod v0.0.8g-44-0-0-87-1632174832.zip",
+        "Size": 8521,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kailen_",
+          "Description": "First person mode. Enables you to zoom in all the way to enter a first person mode. With other changes to make the experience playable.",
+          "FileID": 6649,
+          "GameName": "Valheim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/44/44-1613814387-1103737295.jpeg",
+          "IsNSFW": false,
+          "ModID": 44,
+          "Name": "First person view",
+          "Version": "0.0.8g"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "l3Ly3Et1e78=",
+        "Meta": "[General]\ndirectURL=https://valheim.thunderstore.io/package/download/OdinPlus/OdinsHorsePen/1.0.4/",
+        "Name": "OdinPlus-OdinsHorsePen-1.0.4.zip",
+        "Size": 838028,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://valheim.thunderstore.io/package/download/OdinPlus/OdinsHorsePen/1.0.4/"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FlKP1HNf1Js=",
+        "Meta": "[General]\ngameName=valheim\nmodID=1874\nfileID=10345",
+        "Name": "The Farmer-1874-0-1-1-1671637790.zip",
+        "Size": 26902054,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Marlthon",
+          "Description": "The Farmer has arrived in Valheim, he is in the meadow, near the spawn area. He\u0027s selling pets that you can\u0027t find anywhere.",
+          "FileID": 10345,
+          "GameName": "Valheim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1874/1874-1652830906-1681266210.png",
+          "IsNSFW": false,
+          "ModID": 1874,
+          "Name": "TheFarmer",
+          "Version": "0.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0ONQpFB7jwI=",
+        "Meta": "[General]\ngameName=valheim\nmodID=1921\nfileID=9967",
+        "Name": "Gungnir-1921-1-6-0-1670828612.zip",
+        "Size": 31829,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "zamboni",
+          "Description": "An in-game console enhancement mod. Gungnir aims to provide a cleaner, more enjoyable console experience for Valheim players.",
+          "FileID": 9967,
+          "GameName": "Valheim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1921/1921-1655691986-1498103591.png",
+          "IsNSFW": false,
+          "ModID": 1921,
+          "Name": "Gungnir Console Enhancement Suite",
+          "Version": "1.6.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Cy06fDRg7ok=",
         "Meta": "[General]\ngameName=valheim\nmodID=505\nfileID=6688",
         "Name": "HookGenPatcher-505-0-0-3-1632339616.zip",
@@ -90,21 +259,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "H+TouAam9gI=",
-        "Meta": "[General]\ngameName=valheim\nmodID=1416\nfileID=6600",
-        "Name": "JotunnBackpacks-1416-2-0-0-1632060788.zip",
-        "Size": 310427,
+        "Hash": "ZqNH4yFLgdI=",
+        "Meta": "[General]\ndirectURL=https://valheim.thunderstore.io/package/download/OdinPlus/OdinsSteelworks/0.0.17/",
+        "Name": "OdinPlus-OdinsSteelworks-0.0.17.zip",
+        "Size": 11620264,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://valheim.thunderstore.io/package/download/OdinPlus/OdinsSteelworks/0.0.17/"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EXs78r+Uv1I=",
+        "Meta": "[General]\ngameName=valheim\nmodID=1350\nfileID=8421",
+        "Name": "Clutter 0.1.2-1350-0-1-2-1648774740.zip",
+        "Size": 85627977,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Emrik North and Aedenthorn and Cinnabunn",
-          "Description": "Adds two new craftable backpacks to the game.",
-          "FileID": 6600,
+          "Author": "OdinPlus Team",
+          "Description": "Adds a bunch of clutter and decor items. Use the custom item called \u0022Clutter Bucket\u0022 to place them.",
+          "FileID": 8421,
           "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1416/1416-1627938566-1088717291.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1350/1350-1625002370-889928077.png",
           "IsNSFW": false,
-          "ModID": 1416,
-          "Name": "JotunnBackpacks",
-          "Version": "2.0.0"
+          "ModID": 1350,
+          "Name": "Clutter",
+          "Version": "0.1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PsUyc4JqD80=",
+        "Meta": "[General]\ndirectURL=https://valheim.thunderstore.io/package/download/AeehyehssReeper/IAmClanka/0.0.12/",
+        "Name": "AeehyehssReeper-IAmClanka-0.0.12.zip",
+        "Size": 150721,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://valheim.thunderstore.io/package/download/AeehyehssReeper/IAmClanka/0.0.12/"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Qy9xGNFU4+M=",
+        "Meta": "[General]\ndirectURL=https://valheim.thunderstore.io/package/download/Azumatt/ImFRIENDLY_DAMMIT/1.0.1/",
+        "Name": "Azumatt-ImFRIENDLY_DAMMIT-1.0.1.zip",
+        "Size": 55585,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://valheim.thunderstore.io/package/download/Azumatt/ImFRIENDLY_DAMMIT/1.0.1/"
         }
       }
     },
@@ -153,6 +364,69 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "H+TouAam9gI=",
+        "Meta": "[General]\ngameName=valheim\nmodID=1416\nfileID=6600",
+        "Name": "JotunnBackpacks-1416-2-0-0-1632060788.zip",
+        "Size": 310427,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Emrik North and Aedenthorn and Cinnabunn",
+          "Description": "Adds two new craftable backpacks to the game.",
+          "FileID": 6600,
+          "GameName": "Valheim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1416/1416-1627938566-1088717291.jpeg",
+          "IsNSFW": false,
+          "ModID": 1416,
+          "Name": "JotunnBackpacks",
+          "Version": "2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GKm6xikFI9k=",
+        "Meta": "[General]\ngameName=valheim\nmodID=1413\nfileID=10455",
+        "Name": "Project Auga-1413-1-1-2-1671745328.zip",
+        "Size": 24987384,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RandyKnapp",
+          "Description": "A fully reimagined user interface mod for Valheim",
+          "FileID": 10455,
+          "GameName": "Valheim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1413/1413-1627704683-188123683.png",
+          "IsNSFW": false,
+          "ModID": 1413,
+          "Name": "Project Auga",
+          "Version": "1.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wEf8QkF8m3Q=",
+        "Meta": "[General]\ngameName=valheim\nmodID=2056\nfileID=10024",
+        "Name": "Recycle Plus-2056-1-1-0-1670901356.zip",
+        "Size": 31217,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TastyChickenLegs",
+          "Description": "Recycle or Delete items from inventory.  rebuilt for Mistlands",
+          "FileID": 10024,
+          "GameName": "Valheim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/2056/2056-1670698479-1764678633.png",
+          "IsNSFW": false,
+          "ModID": 2056,
+          "Name": "RecyclePlus",
+          "Version": "1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "nwqQclVMJY0=",
         "Meta": "[General]\ngameName=valheim\nmodID=348\nfileID=10030",
         "Name": "Better Archery-348-1-8-1-1670947785.zip",
@@ -195,21 +469,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wEf8QkF8m3Q=",
-        "Meta": "[General]\ngameName=valheim\nmodID=2056\nfileID=10024",
-        "Name": "Recycle Plus-2056-1-1-0-1670901356.zip",
-        "Size": 31217,
+        "Hash": "57A7XWj8RjM=",
+        "Meta": "[General]\ngameName=valheim\nmodID=42\nfileID=1074",
+        "Name": "MapSyncMod-Bepinex-42-1-3-0-1614976429.rar",
+        "Size": 9606,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TastyChickenLegs",
-          "Description": "Recycle or Delete items from inventory.  rebuilt for Mistlands",
-          "FileID": 10024,
+          "Author": "Nashy",
+          "Description": "Map Sync mod lets you share your whole exploration history/map data with your friends via pressing F10 while standing close to other players.\n\nContains a different version for both BepInEx mod loader and InSlimVML.",
+          "FileID": 1074,
           "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/2056/2056-1670698479-1764678633.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/42/42-1613783939-219663667.png",
           "IsNSFW": false,
-          "ModID": 2056,
-          "Name": "RecyclePlus",
-          "Version": "1.1.0"
+          "ModID": 42,
+          "Name": "Map Sync",
+          "Version": "1.3.0"
         }
       }
     },
@@ -237,84 +511,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bDZU3E5ud6g=",
-        "Meta": "[General]\ngameName=valheim\nmodID=302\nfileID=10353",
-        "Name": "HD Valheim 0.212.9 for Steam version-302-0-212-9-1671654980.7z",
-        "Size": 947195521,
+        "Hash": "xy5rIk7upRw=",
+        "Meta": "[General]\ngameName=valheim\nmodID=2123\nfileID=10476",
+        "Name": "TheBeesDecree_Valkea_2.1.4_MIST-2123-2-1-4-1671832381.zip",
+        "Size": 132854704,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DJAurelius and zJIoDeI",
-          "Description": "Time for Valheim to look AAA! Sk\u00E5l!",
-          "FileID": 10353,
+          "Author": "The Bees Decree Server",
+          "Description": "300\u002B Brand Spanking New Build Pieces for a more upbeat homestead.  MISTLANDS COMPATIBLE",
+          "FileID": 10476,
           "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/302/302-1614989052-1407175661.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/2123/2123-1671831158-1102584227.png",
           "IsNSFW": false,
-          "ModID": 302,
-          "Name": "HD Valheim",
-          "Version": "0.212.7"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "EXs78r+Uv1I=",
-        "Meta": "[General]\ngameName=valheim\nmodID=1350\nfileID=8421",
-        "Name": "Clutter 0.1.2-1350-0-1-2-1648774740.zip",
-        "Size": 85627977,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 8421,
-          "GameName": "Valheim",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 1350,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "57A7XWj8RjM=",
-        "Meta": "[General]\ngameName=valheim\nmodID=42\nfileID=1074",
-        "Name": "MapSyncMod-Bepinex-42-1-3-0-1614976429.rar",
-        "Size": 9606,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Nashy",
-          "Description": "Map Sync mod lets you share your whole exploration history/map data with your friends via pressing F10 while standing close to other players.\n\nContains a different version for both BepInEx mod loader and InSlimVML.",
-          "FileID": 1074,
-          "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/42/42-1613783939-219663667.png",
-          "IsNSFW": false,
-          "ModID": 42,
-          "Name": "Map Sync",
-          "Version": "1.3.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "R/QG574M1z4=",
-        "Meta": "[General]\ngameName=valheim\nmodID=387\nfileID=10148",
-        "Name": "Epic Loot-387-0-9-1-1671134090.zip",
-        "Size": 11998000,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RandyKnapp",
-          "Description": "Adds loot drops, magic items, and enchanting to Valheim.",
-          "FileID": 10148,
-          "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/387/387-1670813590-1342092271.png",
-          "IsNSFW": false,
-          "ModID": 387,
-          "Name": "Epic Loot",
-          "Version": "0.9.1"
+          "ModID": 2123,
+          "Name": "VALKEA",
+          "Version": "2.1.4"
         }
       }
     },
@@ -342,84 +553,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "xr3k3n0Tn80=",
-        "Meta": "[General]\ngameName=valheim\nmodID=2087\nfileID=10287",
-        "Name": "OCDheim-2087-v0-1-2-1671449041.zip",
-        "Size": 92899,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "deviousJoke",
-          "Description": "OCDheim is an opinionated collection of tools hoping to bring 22nd-century-level space laser precision, in full force, from an artificial Moon directly to... your merry Viking settlement \u0027Stokh\u00F6lm\u0027 ?\u2764\uFE0F",
-          "FileID": 10287,
-          "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/2087/2087-1671268013-225260897.png",
-          "IsNSFW": false,
-          "ModID": 2087,
-          "Name": "OCDheim - DEATH TO EYEBALLING",
-          "Version": "v0.1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Bea7DxwsDdI=",
-        "Meta": "[General]\ngameName=valheim\nmodID=1741\nfileID=10303",
-        "Name": "OdinShip-1741-0-2-0-1671511238.zip",
-        "Size": 42679848,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Marlthon",
-          "Description": "New boats, oil press, fish extract, crane and more to help you explore this giant world.",
-          "FileID": 10303,
-          "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1741/1741-1663640167-867847882.png",
-          "IsNSFW": false,
-          "ModID": 1741,
-          "Name": "OdinShip",
-          "Version": "0.1.9"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ybo83h/1T0U=",
-        "Meta": "[General]\ngameName=valheim\nmodID=1708\nfileID=10146",
-        "Name": "Odin Training Place 1.4.0-1708-1-4-0-1671131845.zip",
-        "Size": 18595794,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "OdinPlusTeam-Raelaziel",
-          "Description": "Training Place is just simple mod for additional pieces (dummies and structures) thanks to which you can level up Your skills faster or just use them as decoration of your village. If you\u0027re building lover this is definitely another mod for you.",
-          "FileID": 10146,
-          "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1708/1708-1642719144-1688611212.png",
-          "IsNSFW": false,
-          "ModID": 1708,
-          "Name": "Odin Training Place",
-          "Version": "1.4.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "sUR9Bl6E/z8=",
         "Meta": "[General]\ngameName=valheim\nmodID=740\nfileID=4347",
         "Name": "Configuration Manager-740-0-5-0-1619459811.zip",
         "Size": 28704,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
+          "Author": "aedenthorn",
+          "Description": "An updated, expanded, customizable version of the BepInEx Configuration Manager, tweaked specifically for Valheim.",
           "FileID": 4347,
           "GameName": "Valheim",
-          "ImageURL": null,
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/740/740-1616768530-276004691.png",
           "IsNSFW": false,
           "ModID": 740,
-          "Name": null,
-          "Version": null
+          "Name": "Configuration Manager",
+          "Version": "0.5.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OhEySP/ukmg=",
+        "Meta": "[General]\ngameName=valheim\nmodID=1741\nfileID=10599",
+        "Name": "OdinShip-1741-0-2-1-1672468624.zip",
+        "Size": 46153512,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Marlthon",
+          "Description": "New boats, oil press, fish extract, crane and more to help you explore this giant world.",
+          "FileID": 10599,
+          "GameName": "Valheim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1741/1741-1663640167-867847882.png",
+          "IsNSFW": false,
+          "ModID": 1741,
+          "Name": "OdinShip",
+          "Version": "0.1.9"
         }
       }
     },
@@ -447,21 +616,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "9Hn7Jm2kS2k=",
-        "Meta": "[General]\ngameName=valheim\nmodID=1125\nfileID=10352",
-        "Name": "PlanBuild-1125-0-13-1-1671654642.zip",
-        "Size": 306298,
+        "Hash": "ybo83h/1T0U=",
+        "Meta": "[General]\ngameName=valheim\nmodID=1708\nfileID=10146",
+        "Name": "Odin Training Place 1.4.0-1708-1-4-0-1671131845.zip",
+        "Size": 18595794,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MarcoPogo and Jules",
-          "Description": "PlanBuild enables you to plan, copy and share your building creations in Valheim with ease. Including tools for terrain modification and immersion items.",
-          "FileID": 10352,
+          "Author": "OdinPlusTeam-Raelaziel",
+          "Description": "Training Place is just simple mod for additional pieces (dummies and structures) thanks to which you can level up Your skills faster or just use them as decoration of your village. If you\u0027re building lover this is definitely another mod for you.",
+          "FileID": 10146,
           "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1125/1125-1622068118-1627082848.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1708/1708-1642719144-1688611212.png",
           "IsNSFW": false,
-          "ModID": 1125,
-          "Name": "PlanBuild",
-          "Version": "0.13.0"
+          "ModID": 1708,
+          "Name": "Odin Training Place",
+          "Version": "1.4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Vw1ghS4r3lA=",
+        "Meta": "[General]\ngameName=valheim\nmodID=446\nfileID=10164",
+        "Name": "Better Continents-446-0-7-5-1671185062.zip",
+        "Size": 1381573,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "billw",
+          "Description": "This mod provides the tools to both improve the standard terrain generation of the game, and override aspects of it with image maps, allowing precise control over height, biomes, location placement, and forest coverage.",
+          "FileID": 10164,
+          "GameName": "Valheim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/446/446-1615554903-1795548657.png",
+          "IsNSFW": false,
+          "ModID": 446,
+          "Name": "Better Continents",
+          "Version": "0.7.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ZuMFCIQCGp4=",
+        "Meta": "[General]\ngameName=valheim\nmodID=1385\nfileID=9198",
+        "Name": "BuildIt-1385-1-6-3-1660266525.zip",
+        "Size": 74671793,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RockerKitten",
+          "Description": "Adds a huge amount of new build pieces including Glass, darker wood, and an outhouse as well as a bunch of Furniture and snappable fences.",
+          "FileID": 9198,
+          "GameName": "Valheim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1385/1385-1626400536-1951372389.png",
+          "IsNSFW": false,
+          "ModID": 1385,
+          "Name": "Build It",
+          "Version": "1.6.3"
         }
       }
     },
@@ -485,108 +696,10 @@
           "Version": "2.1.1"
         }
       }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "SfJcP3DCkQw=",
-        "Meta": "[General]\ngameName=valheim\nmodID=281\nfileID=10147",
-        "Name": "Extended Item Data Framework-281-1-0-10-1671133982.zip",
-        "Size": 170034,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 10147,
-          "GameName": "Valheim",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 281,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vEBT6JSaj1k=",
-        "Meta": "[General]\ngameName=valheim\nmodID=1413\nfileID=10149",
-        "Name": "Project Auga-1413-1-1-1-1671134174.zip",
-        "Size": 17633097,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 10149,
-          "GameName": "Valheim",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 1413,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "WFNnT3HB4R0=",
-        "Meta": "[General]\ngameName=valheim\nmodID=44\nfileID=6649",
-        "Name": "CameraMod v0.0.8g-44-0-0-87-1632174832.zip",
-        "Size": 8521,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kailen_",
-          "Description": "First person mode. Enables you to zoom in all the way to enter a first person mode. With other changes to make the experience playable.",
-          "FileID": 6649,
-          "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/44/44-1613814387-1103737295.jpeg",
-          "IsNSFW": false,
-          "ModID": 44,
-          "Name": "First person view",
-          "Version": "0.0.8g"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "0ONQpFB7jwI=",
-        "Meta": "[General]\ngameName=valheim\nmodID=1921\nfileID=9967",
-        "Name": "Gungnir-1921-1-6-0-1670828612.zip",
-        "Size": 31829,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 9967,
-          "GameName": "Valheim",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 1921,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ZqNH4yFLgdI=",
-        "Meta": "[General]\ndirectURL=https://valheim.thunderstore.io/package/download/OdinPlus/OdinsSteelworks/0.0.17/",
-        "Name": "OdinPlus-OdinsSteelworks-0.0.17.zip",
-        "Size": 11620264,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://valheim.thunderstore.io/package/download/OdinPlus/OdinsSteelworks/0.0.17/"
-        }
-      }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Modding-Lounge/b038119919a4cd09_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Modding-Lounge/b038119919a4cd09_large.webp"
 }

@@ -1,8 +1,8 @@
 {
   "MachineURL": "Modding-Lounge/VMT",
   "Name": "Valheim Modding Tools",
-  "Version": null,
-  "ModListHash": "njs93ULSjDo=",
+  "Version": "1.0.1",
+  "ModListHash": "OzpUVJ576Kc=",
   "Archives": [
     {
       "Status": "Valid",
@@ -19,15 +19,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "Uwpyg1X2Z/o=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/denikson-BepInExPack_Valheim-5.4.1901.zip_c3d89022-ff3e-4855-a88a-bca7d15fd499",
+        "Meta": "[General]\ndirectURL=https://valheim.thunderstore.io/package/download/denikson/BepInExPack_Valheim/5.4.1901/",
         "Name": "denikson-BepInExPack_Valheim-5.4.1901.zip",
         "Size": 7533093,
         "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/denikson-BepInExPack_Valheim-5.4.1901.zip_c3d89022-ff3e-4855-a88a-bca7d15fd499"
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://valheim.thunderstore.io/package/download/denikson/BepInExPack_Valheim/5.4.1901/"
         }
       }
     },
@@ -40,15 +41,15 @@
         "Size": 17633097,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
+          "Author": "RandyKnapp",
+          "Description": "A fully reimagined user interface mod for Valheim",
           "FileID": 10149,
           "GameName": "Valheim",
-          "ImageURL": null,
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1413/1413-1627704683-188123683.png",
           "IsNSFW": false,
           "ModID": 1413,
-          "Name": null,
-          "Version": null
+          "Name": "Project Auga",
+          "Version": "1.1.1"
         }
       }
     },
@@ -124,21 +125,21 @@
         "Size": 558610,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
+          "Author": "Valheim Modding",
+          "Description": "J\u00F6tunn (/\u02C8j\u0254\u02D0t\u028An/, \u0022giant\u0022), the Valheim Library was created with the goal of making the lives of mod developers easier. It enables you to create mods for Valheim using an abstracted API so you can focus on the actual content creation.",
           "FileID": 9677,
           "GameName": "Valheim",
-          "ImageURL": null,
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1138/1138-1619817736-1994493562.png",
           "IsNSFW": false,
           "ModID": 1138,
-          "Name": null,
-          "Version": null
+          "Name": "Jotunn the Valheim Library",
+          "Version": "2.10.0"
         }
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Modding-Lounge/1fc82bb1bb2abc03_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Modding-Lounge/1fc82bb1bb2abc03_large.webp"
 }
