@@ -1,10 +1,11 @@
 ## Validation Report - Licentia BLACK (licentia_black/licentia_black)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [enbseries_skyrimse_v0484.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0484.zip_e626a754-bf66-4cf8-9a8d-b9da8dad42a6)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1379)
+### Valid (1378)
 *  [(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77989)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
 *  [(4) Community Overlays 3 - Main - CBBE and Male-35339-1-0-1588129970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136903)
@@ -514,7 +515,6 @@
 *  [ENB Helper SE 1.5 for SSE 1.5.97-23174-1-5-1574569443.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23174/?tab=files&file_id=114237)
 *  [ENB Input Disabler-62796-1-0-2-1643723189.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62796/?tab=files&file_id=260978)
 *  [ENB Light 0.98 Alpha 2-22574-0-98Alpha2-1577144667.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=117211)
-*  [enbseries_skyrimse_v0484.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0484.zip_e626a754-bf66-4cf8-9a8d-b9da8dad42a6)
 *  [Encounter Zones Unlocked SE-19608-1-4-1583906933.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19608/?tab=files&file_id=128125)
 *  [Enderal Music for Skyrim Forgotten Stories With Vanilla Music - Recommended-16243-2-1-1570389468.zip](https://www.nexusmods.com/skyrimspecialedition/mods/16243/?tab=files&file_id=109482)
 *  [Enhanced Blood Textures-2357-4-0-1639547261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=249235)
