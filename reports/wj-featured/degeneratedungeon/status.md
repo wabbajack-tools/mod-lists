@@ -4,11 +4,15 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (342)
+### Valid (327)
 *  _windows_errors.txt
+*  _windows_glew32.dll
+*  _windows_steam_api.dll
+*  _windowsnosteam_fmod.dll
+*  _windowsnosteam_fmodstudio.dll
+*  _windowsnosteam_SDL2.dll
 *  [1_stagecoach_GS_A-966-1-1587388552.zip](https://www.nexusmods.com/darkestdungeon/mods/966/?tab=files&file_id=3711)
 *  [1_stagecoach_GS_C-966-1-1587388728.zip](https://www.nexusmods.com/darkestdungeon/mods/966/?tab=files&file_id=3713)
-*  [2B-702-1-1-FV.7z](https://www.nexusmods.com/darkestdungeon/mods/702/?tab=files&file_id=3022)
 *  [abbey_OD_A-917-1-1576156639.zip](https://www.nexusmods.com/darkestdungeon/mods/917/?tab=files&file_id=3532)
 *  [abbey_OD_B-917-1-1576156664.zip](https://www.nexusmods.com/darkestdungeon/mods/917/?tab=files&file_id=3533)
 *  [abbey_OD_C-917-1-1576156689.zip](https://www.nexusmods.com/darkestdungeon/mods/917/?tab=files&file_id=3534)
@@ -44,7 +48,6 @@
 *  [All 8 Variants-993-1-1590397042.rar](https://www.nexusmods.com/darkestdungeon/mods/993/?tab=files&file_id=3786)
 *  [All 8 Variants-995-1-1-1590570700.rar](https://www.nexusmods.com/darkestdungeon/mods/995/?tab=files&file_id=3812)
 *  [All 8 Variants-998-1-1590695964.rar](https://www.nexusmods.com/darkestdungeon/mods/998/?tab=files&file_id=3828)
-*  [antiquarian_N-880-1-1566833491.zip](https://www.nexusmods.com/darkestdungeon/mods/880/?tab=files&file_id=3436)
 *  [antiquarian_O-880-1-1566833582.zip](https://www.nexusmods.com/darkestdungeon/mods/880/?tab=files&file_id=3437)
 *  [arbalest_N-876-1-1564758063.zip](https://www.nexusmods.com/darkestdungeon/mods/876/?tab=files&file_id=3419)
 *  audio_base.dungeon.load_order.json
@@ -56,12 +59,14 @@
 *  [Butcher_A-1011-1-1591798411.zip](https://www.nexusmods.com/darkestdungeon/mods/1011/?tab=files&file_id=3905)
 *  [ButcherCircus_SKIN_B-1022-1-1592676995.zip](https://www.nexusmods.com/darkestdungeon/mods/1022/?tab=files&file_id=3948)
 *  [ButcherCircus_SKIN_C-1028-1-1593608035.zip](https://www.nexusmods.com/darkestdungeon/mods/1028/?tab=files&file_id=3997)
+*  [Clair's Journal Compatibility Fix 1.1-985-1-1-1590814532.rar](https://www.nexusmods.com/darkestdungeon/mods/985/?tab=files&file_id=3841)
 *  colours_default_colour_grade.png
 *  [comet_trinket_OD_A-956-1-1584636589.zip](https://www.nexusmods.com/darkestdungeon/mods/956/?tab=files&file_id=3670)
 *  [comet_trinket_OD_B-956-1-1584636620.zip](https://www.nexusmods.com/darkestdungeon/mods/956/?tab=files&file_id=3671)
 *  [comet_trinket_OD_C-956-1-1584636642.zip](https://www.nexusmods.com/darkestdungeon/mods/956/?tab=files&file_id=3672)
 *  [Cove background replacement NSFW 1.0-1087-1-0-1601185084.7z](https://www.nexusmods.com/darkestdungeon/mods/1087/?tab=files&file_id=4355)
 *  [crusader_N-834-1-1558734256.zip](https://www.nexusmods.com/darkestdungeon/mods/834/?tab=files&file_id=3331)
+*  [crusader_Q-919-1-1577212495.zip](https://www.nexusmods.com/darkestdungeon/mods/919/?tab=files&file_id=3544)
 *  [Crypts background replacement NSFW 1.1-1085-1-1-1600935928.7z](https://www.nexusmods.com/darkestdungeon/mods/1085/?tab=files&file_id=4329)
 *  [Crystalline (apprentice) (futa version)-1010-1-1-1591564860.rar](https://www.nexusmods.com/darkestdungeon/mods/1010/?tab=files&file_id=3893)
 *  [Crystalline (apprentice)-1010-1-0-1591559954.rar](https://www.nexusmods.com/darkestdungeon/mods/1010/?tab=files&file_id=3892)
@@ -72,30 +77,20 @@
 *  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.endure.atlas
 *  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.endure.png
 *  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.endure.skel
-*  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.exsanguinate_target.atlas
 *  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.exsanguinate_target.png
-*  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.exsanguinate_target.skel
 *  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.exsanguinate.atlas
 *  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.exsanguinate.png
 *  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.exsanguinate.skel
-*  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.punish_target.atlas
-*  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.punish_target.png
-*  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.punish_target.skel
 *  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.punish.atlas
 *  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.punish.png
 *  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.punish.skel
-*  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.rain_of_sorrows_target.atlas
 *  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.rain_of_sorrows_target.png
-*  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.rain_of_sorrows_target.skel
 *  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.rain_of_sorrows.atlas
 *  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.rain_of_sorrows.png
 *  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.rain_of_sorrows.skel
 *  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.reclaim.atlas
 *  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.reclaim.png
 *  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.reclaim.skel
-*  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.redeem_target.atlas
-*  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.redeem_target.png
-*  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.redeem_target.skel
 *  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.redeem.atlas
 *  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.redeem.png
 *  dlc_1117860_arena_mp_heroes_flagellant_fx_flagellant.sprite.redeem.skel
@@ -132,37 +127,24 @@
 *  dlc_1117860_arena_mp_heroes_musketeer_anim_musketeer.sprite.investigate.skel
 *  dlc_1117860_arena_mp_heroes_musketeer_anim_musketeer.sprite.walk.atlas
 *  dlc_1117860_arena_mp_heroes_musketeer_anim_musketeer.sprite.walk.skel
-*  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.aimed_shot_target.atlas
-*  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.aimed_shot_target.png
-*  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.aimed_shot_target.skel
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.aimed_shot.atlas
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.aimed_shot.png
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.aimed_shot.skel
-*  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.buckshot_target.atlas
-*  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.buckshot_target.skel
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.buckshot.atlas
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.buckshot.png
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.buckshot.skel
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.call_the_shot.atlas
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.call_the_shot.png
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.call_the_shot.skel
-*  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.patch_up_target.atlas
-*  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.patch_up_target.skel
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.patch_up.atlas
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.patch_up.png
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.patch_up.skel
-*  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.sidearm_target.atlas
-*  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.sidearm_target.png
-*  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.sidearm_target.skel
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.sidearm.atlas
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.sidearm.png
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.sidearm.skel
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.skeet_shot.atlas
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.skeet_shot.png
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.skeet_shot.skel
-*  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.smokescreen_target.atlas
-*  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.smokescreen_target.png
-*  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.smokescreen_target.skel
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.smokescreen.atlas
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.smokescreen.png
 *  dlc_1117860_arena_mp_heroes_musketeer_fx_musketeer.sprite.smokescreen.skel
@@ -171,11 +153,6 @@
 *  dlc_1117860_arena_mp_heroes_musketeer_icons_equip_eqp_armour_2.png
 *  dlc_1117860_arena_mp_heroes_musketeer_icons_equip_eqp_armour_3.png
 *  dlc_1117860_arena_mp_heroes_musketeer_icons_equip_eqp_armour_4.png
-*  dlc_1117860_arena_mp_heroes_musketeer_icons_equip_eqp_weapon_0.png
-*  dlc_1117860_arena_mp_heroes_musketeer_icons_equip_eqp_weapon_1.png
-*  dlc_1117860_arena_mp_heroes_musketeer_icons_equip_eqp_weapon_2.png
-*  dlc_1117860_arena_mp_heroes_musketeer_icons_equip_eqp_weapon_3.png
-*  dlc_1117860_arena_mp_heroes_musketeer_icons_equip_eqp_weapon_4.png
 *  dlc_1117860_arena_mp_heroes_musketeer_musketeer_A_anim_musketeer.sprite.afflicted.png
 *  dlc_1117860_arena_mp_heroes_musketeer_musketeer_A_anim_musketeer.sprite.attack_artillery.png
 *  dlc_1117860_arena_mp_heroes_musketeer_musketeer_A_anim_musketeer.sprite.investigate.png
@@ -220,16 +197,20 @@
 *  dlc_1117860_arena_mp_heroes_shieldbreaker_shieldbreaker_D_shieldbreaker_portrait_roster.png
 *  dlc_1117860_arena_mp_heroes_shieldbreaker_shieldbreaker_guild_header.png
 *  dlc_580100_crimson_court_features_crimson_court_panels_icons_equip_trinket_rarity_crimson_court.png
+*  dlc_580100_crimson_court_features_crimson_court_trinkets_crimson_court.rarities.trinkets.json
 *  dlc_702540_shieldbreaker_campaign_roster_shieldbreaker.roster.additional_variables.json
+*  dlc_702540_shieldbreaker_campaign_town_town_event_town_event.image_first_shieldbreaker.png
 *  dlc_702540_shieldbreaker_heroes_shieldbreaker_fx_shieldbreaker.sprite.break_guard.png
 *  dlc_702540_shieldbreaker_heroes_shieldbreaker_fx_shieldbreaker.sprite.expose.png
 *  dlc_702540_shieldbreaker_heroes_shieldbreaker_fx_shieldbreaker.sprite.serpents_sway.png
 *  dlc_702540_shieldbreaker_heroes_shieldbreaker_fx_shieldbreaker.sprite.single_out.png
 *  dlc_702540_shieldbreaker_heroes_shieldbreaker_shieldbreaker.ability.four.png
 *  dlc_702540_shieldbreaker_heroes_shieldbreaker_shieldbreaker.ability.seven.png
+*  dlc_702540_shieldbreaker_heroes_shieldbreaker_shieldbreaker.art.darkest
+*  dlc_702540_shieldbreaker_heroes_shieldbreaker_shieldbreaker.info.darkest
 *  dlc_735730_color_of_madness_monsters_farmer_anim_farmer.sprite.dead.skel
 *  dlc_735730_color_of_madness_monsters_thing_fx_thing.sprite.phase_gnaw_target.png
-*  [Dragon Mistress 1.5.0-961-1-5-0-1602390984.rar](https://www.nexusmods.com/darkestdungeon/mods/961/?tab=files&file_id=4400)
+*  dlc_735730_color_of_madness_trinkets_com.rarities.trinkets.json
 *  [event_OD_A-1012-1-1591800134.zip](https://www.nexusmods.com/darkestdungeon/mods/1012/?tab=files&file_id=3906)
 *  [event_OD_B.zip](https://www.nexusmods.com/darkestdungeon/mods/1012/?tab=files&file_id=3907)
 *  [event_OD_C-1012-1-1591800171.zip](https://www.nexusmods.com/darkestdungeon/mods/1012/?tab=files&file_id=3908)
@@ -248,7 +229,6 @@
 *  [Guild_MH_C-943-1-1582609711.zip](https://www.nexusmods.com/darkestdungeon/mods/943/?tab=files&file_id=3630)
 *  [H Version-1265-1-1-1624103246.rar](https://www.nexusmods.com/darkestdungeon/mods/1265/?tab=files&file_id=5042)
 *  heroes_abomination_icons_equip_eqp_weapon_2.png
-*  heroes_arbalest_fx_arbalest.sprite.battlefield_bandage_target.png
 *  heroes_bounty_hunter_anim_bounty_hunter.sprite.afflicted.skel
 *  heroes_bounty_hunter_anim_bounty_hunter.sprite.heroic.skel
 *  heroes_bounty_hunter_fx_bounty_hunter.sprite.finish_him.png
@@ -262,35 +242,36 @@
 *  heroes_occultist_icons_equip_eqp_armour_3.png
 *  heroes_vestal_icons_equip_eqp_weapon_0.png
 *  [leper_P-891-1-1569780073.zip](https://www.nexusmods.com/darkestdungeon/mods/891/?tab=files&file_id=3478)
-*  [LilithClass-1063-1-13-1599387286.zip](https://www.nexusmods.com/darkestdungeon/mods/1063/?tab=files&file_id=4262)
 *  [Lustiest Lair - Flagellant Patch-931-2-0-1628002061.zip](https://www.nexusmods.com/darkestdungeon/mods/931/?tab=files&file_id=5107)
 *  [Lustiest Lair - Main - 7.2-931-7-2-1640130948.zip](https://www.nexusmods.com/darkestdungeon/mods/931/?tab=files&file_id=5270)
-*  [Lustiest Lair - Shieldbreaker Patch-931-6-2-1628002268.zip](https://www.nexusmods.com/darkestdungeon/mods/931/?tab=files&file_id=5109)
+*  [Lustiest Lair - Main 0.3-931-9-3-1664425932.zip](https://www.nexusmods.com/darkestdungeon/mods/931/?tab=files&file_id=5587)
 *  [LW- blacksmith build add details-892-0-6-1569856882.rar](https://www.nexusmods.com/darkestdungeon/mods/892/?tab=files&file_id=3480)
 *  [LW- courtyard Landscaping-1074-0-8-1599567234.rar](https://www.nexusmods.com/darkestdungeon/mods/1074/?tab=files&file_id=4263)
+*  [LW- crusader sexy skin-549-.rar](https://www.nexusmods.com/darkestdungeon/mods/549/?tab=files&file_id=2382)
 *  [LW- Cute Slime Girl 0.91-901-0-91-1572886235.rar](https://www.nexusmods.com/darkestdungeon/mods/901/?tab=files&file_id=3503)
 *  [LW- hellion sexy skin-561-0-8.rar](https://www.nexusmods.com/darkestdungeon/mods/561/?tab=files&file_id=2417)
 *  [LW- open logo 2-643-0-8.rar](https://www.nexusmods.com/darkestdungeon/mods/643/?tab=files&file_id=2722)
 *  [LW- open logo-624-0-9.rar](https://www.nexusmods.com/darkestdungeon/mods/624/?tab=files&file_id=2669)
-*  [LW- Tifa's eye skin-908-0-8-1574235046.rar](https://www.nexusmods.com/darkestdungeon/mods/908/?tab=files&file_id=3512)
 *  [LW- Town Event beautify part 1-1294-0-85-1627728721.rar](https://www.nexusmods.com/darkestdungeon/mods/1294/?tab=files&file_id=5097)
 *  [LW- Town Event beautify part 2-1336-0-9-1635603790.rar](https://www.nexusmods.com/darkestdungeon/mods/1336/?tab=files&file_id=5207)
 *  [Maid_3skin-977-1-1589025535.zip](https://www.nexusmods.com/darkestdungeon/mods/977/?tab=files&file_id=3752)
+*  [man_at_arms-1080-1-1600609464.zip](https://www.nexusmods.com/darkestdungeon/mods/1080/?tab=files&file_id=4296)
 *  [Mod Organizer 2 (Archive)-6194-2-3-0-1595984227.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6194/?tab=files&file_id=152689)
 *  [Mod.Organizer-2.4.1.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.1/Mod.Organizer-2.4.1.7z)
 *  monsters_brigand_sapper_fx_brigand_sapper.sprite.detonate_target.png
 *  monsters_cultist_brawler_fx_cultist_brawler.sprite.brawler_claw.png
 *  monsters_cultist_brawler_fx_cultist_brawler.sprite.brawler_claw.skel
-*  [Mycondae-992-1-0-1590346719.rar](https://www.nexusmods.com/darkestdungeon/mods/992/?tab=files&file_id=3785)
 *  [Myconidae plus all mod versions-1093-1-1-1604379258.rar](https://www.nexusmods.com/darkestdungeon/mods/1093/?tab=files&file_id=4480)
 *  [nsfw eyes-1242-1-0-1621800332.rar](https://www.nexusmods.com/darkestdungeon/mods/1242/?tab=files&file_id=4958)
+*  [occultist_O-862-1-1562683252.zip](https://www.nexusmods.com/darkestdungeon/mods/862/?tab=files&file_id=3384)
 *  [Omen Seeker class mod-600-v1-2.rar](https://www.nexusmods.com/darkestdungeon/mods/600/?tab=files&file_id=2553)
 *  [patch 1.3.1-562-1-3-1.rar](https://www.nexusmods.com/darkestdungeon/mods/562/?tab=files&file_id=2801)
 *  [patch 1.5.1-482-1-5-1.rar](https://www.nexusmods.com/darkestdungeon/mods/482/?tab=files&file_id=2802)
-*  [patch 1.7.1-475-1-7-1.rar](https://www.nexusmods.com/darkestdungeon/mods/475/?tab=files&file_id=2803)
 *  [patch 2.6.1-222-2-6-1.rar](https://www.nexusmods.com/darkestdungeon/mods/222/?tab=files&file_id=2805)
 *  [Pelagic Gang-986-1-1-1589738765.rar](https://www.nexusmods.com/darkestdungeon/mods/986/?tab=files&file_id=3772)
 *  [Pink frames and icons-1055-1-1-1596531321.rar](https://www.nexusmods.com/darkestdungeon/mods/1055/?tab=files&file_id=4126)
+*  [Plague doctor_O-819-1-1556275109.zip](https://www.nexusmods.com/darkestdungeon/mods/819/?tab=files&file_id=3301)
+*  [Plague doctor_P-819-1-1556275142.zip](https://www.nexusmods.com/darkestdungeon/mods/819/?tab=files&file_id=3302)
 *  [Ruins Mod-1075-1-0-1599593650.zip](https://www.nexusmods.com/darkestdungeon/mods/1075/?tab=files&file_id=4265)
 *  [sanitarium_OD_Porn-894-1-1571609383.zip](https://www.nexusmods.com/darkestdungeon/mods/894/?tab=files&file_id=3487)
 *  [sanitarium_OD_SFW-894-1-1571609364.zip](https://www.nexusmods.com/darkestdungeon/mods/894/?tab=files&file_id=3486)
@@ -314,6 +295,7 @@
 *  [The Fawn - Remastered 1.8.2-466-1-8-2-1578255900.rar](https://www.nexusmods.com/darkestdungeon/mods/466/?tab=files&file_id=3552)
 *  [The Hollow - CC trinket set-475-1-0.rar](https://www.nexusmods.com/darkestdungeon/mods/475/?tab=files&file_id=2022)
 *  [The Hollow - Class Mod-475-1-7.rar](https://www.nexusmods.com/darkestdungeon/mods/475/?tab=files&file_id=2718)
+*  [The Hollow - SFW-475-1-0.rar](https://www.nexusmods.com/darkestdungeon/mods/475/?tab=files&file_id=2434)
 *  [The Hood - CC trinket set-519-1-0.rar](https://www.nexusmods.com/darkestdungeon/mods/519/?tab=files&file_id=2241)
 *  [The Hood - Class Mod-519-1-3.rar](https://www.nexusmods.com/darkestdungeon/mods/519/?tab=files&file_id=2715)
 *  [The Offering - Class Mod-222-2-6.rar](https://www.nexusmods.com/darkestdungeon/mods/222/?tab=files&file_id=2720)
@@ -333,8 +315,10 @@
 *  [Weald background replacement NSFW 1.5-1081-1-5-1600772540.7z](https://www.nexusmods.com/darkestdungeon/mods/1081/?tab=files&file_id=4311)
 *  [Weald background replacement NSFW 1.5.3-1081-1-5-3-1600980632.7z](https://www.nexusmods.com/darkestdungeon/mods/1081/?tab=files&file_id=4335)
 *  [Xelsword Abomination - Replacer-1077-1-0-1600002493.zip](https://www.nexusmods.com/darkestdungeon/mods/1077/?tab=files&file_id=4269)
+*  [Xelsword Antiquarian - Replacer-1426-1-0-1654953976.7z](https://www.nexusmods.com/darkestdungeon/mods/1426/?tab=files&file_id=5453)
 *  [Xelsword Bounty Hunter - Replacer-1354-1-0-1639664540.zip](https://www.nexusmods.com/darkestdungeon/mods/1354/?tab=files&file_id=5259)
 *  [Xelsword Crusader Replacer-927-1-3-1584890825.zip](https://www.nexusmods.com/darkestdungeon/mods/927/?tab=files&file_id=3679)
+*  [Xelsword Flagellant - Replacer-1382-1-0-1647707473.7z](https://www.nexusmods.com/darkestdungeon/mods/1382/?tab=files&file_id=5351)
 *  [Xelsword Grave Robber - Replacer-1120-1-0-1605468036.zip](https://www.nexusmods.com/darkestdungeon/mods/1120/?tab=files&file_id=4537)
 *  [Xelsword Hellion - Replacer-1098-1-0-1603271691.zip](https://www.nexusmods.com/darkestdungeon/mods/1098/?tab=files&file_id=4429)
 *  [Xelsword Highwayman Replacer-959-1-0-1584890489.zip](https://www.nexusmods.com/darkestdungeon/mods/959/?tab=files&file_id=3677)
@@ -343,6 +327,7 @@
 *  [Xelsword Jester - Replacer-1234-1-0-1619259930.zip](https://www.nexusmods.com/darkestdungeon/mods/1234/?tab=files&file_id=4929)
 *  [Xelsword Leper - Replacer-1202-1-0-1614504399.zip](https://www.nexusmods.com/darkestdungeon/mods/1202/?tab=files&file_id=4835)
 *  [Xelsword Man-at-Arms - Replacer-1318-1-0-1632515620.zip](https://www.nexusmods.com/darkestdungeon/mods/1318/?tab=files&file_id=5164)
+*  [Xelsword Musketeer - Replacer-1514-1-0-1671800956.7z](https://www.nexusmods.com/darkestdungeon/mods/1514/?tab=files&file_id=5693)
 *  [Xelsword Occultist - Replacer-1017-1-1-1593036296.zip](https://www.nexusmods.com/darkestdungeon/mods/1017/?tab=files&file_id=3964)
 *  [Xelsword Plague Doctor - Replacer-994-1-0-1590407886.zip](https://www.nexusmods.com/darkestdungeon/mods/994/?tab=files&file_id=3796)
 *  [Xelsword Shieldbreaker - Replacer-1143-1-0-1609504909.zip](https://www.nexusmods.com/darkestdungeon/mods/1143/?tab=files&file_id=4648)
