@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (726)
+### Valid (710)
 *  [- Meshes - important-58370-1-0-1637050362.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=241886)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -191,7 +191,6 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
-*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -403,15 +402,6 @@
 *  [Leviathan Animations - Two-Handed Power Attacks For High Stance-50545-1-4b-1672579149.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50545/?tab=files&file_id=345522)
 *  [Leviathan Animations II - Female Idle Walk And Run-80760-2-2-1671210127.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80760/?tab=files&file_id=341089)
 *  [Leviathan Animations II - Male Idle Walk And Run-81463-2-2-1672156931.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81463/?tab=files&file_id=344018)
-*  lex_accent.tlx
-*  lex_ssceam.tlx
-*  lex_ssceam2.clx
-*  lex_sscebr.tlx
-*  lex_sscebr2.clx
-*  lex_ssceca2.clx
-*  lex_tech.tlx
-*  lex_User_correct.tlx
-*  lex_User_userdic.tlx
 *  [Lind's Black Robes Revamp - Medium-9167-3-0-0b.rar](https://www.nexusmods.com/skyrimspecialedition/mods/9167/?tab=files&file_id=23374)
 *  [Lind's Monk Robes Revamp - Texture Replacer-36817-2-2a.rar](https://www.nexusmods.com/skyrim/mods/36817/?tab=files&file_id=1000199734)
 *  [Lind's Moth Priest Robes Replacer (Requires Dawnguard)-36173-1-0b.rar](https://www.nexusmods.com/skyrim/mods/36173/?tab=files&file_id=1000184196)
@@ -669,12 +659,6 @@
 *  [Thrones of Skyrim SE-41198-1-0-1602101281.zip](https://www.nexusmods.com/skyrimspecialedition/mods/41198/?tab=files&file_id=164399)
 *  [TK Children SE-5916-2-02-1599982490.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5916/?tab=files&file_id=160463)
 *  [To Your Face AE-24720-1-0s-1665944678.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24720/?tab=files&file_id=324533)
-*  Tools_Archive_Archive.exe
-*  Tools_Audio_xwmaencode.exe
-*  Tools_Elric_xg.dll
-*  Tools_Elric_xtexconv.exe
-*  Tools_HavokBehaviorPostProcess_HavokBehaviorPostProcess.exe
-*  Tools_HavokBehaviorPostProcess_UpgradeHavokBehavior.bat
 *  [Troll.4k-2k-4682-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4682/?tab=files&file_id=9408)
 *  [True Directional Movement-51614-2-2-3-1664411938.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51614/?tab=files&file_id=320160)
 *  [True Nordic Farmhouses - Standard-38150-0-2-1596636087.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38150/?tab=files&file_id=153900)
