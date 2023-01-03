@@ -1,11 +1,10 @@
 ## Validation Report - Journey (LostOutpost/journey)
 
 
-### Invalid (1)
-*  [enbseries_skyrimse_v0475.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_540deb04-1201-4d25-9be7-6cfb9ffbc682)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (716)
+### Valid (717)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
@@ -228,6 +227,7 @@
 *  [ENB Helper SE 1.5 for SSE 1.5.97-23174-1-5-1574569443.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23174/?tab=files&file_id=114237)
 *  [ENB Input Disabler-62796-1-0-2-1643723189.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62796/?tab=files&file_id=260978)
 *  [ENB Organizer-67077-v2-1-1.zip](https://www.nexusmods.com/skyrim/mods/67077/?tab=files&file_id=1000214338)
+*  [enbseries_skyrimse_v0475.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_540deb04-1201-4d25-9be7-6cfb9ffbc682)
 *  [Encounter Zones Unlocked SE-19608-1-4-1583906933.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19608/?tab=files&file_id=128125)
 *  [Enhanced Invisibility SE-61950-1-2-0-1642780878.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61950/?tab=files&file_id=258409)
 *  [Enhanced Lights and FX-2424-3-06.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2424/?tab=files&file_id=35608)
