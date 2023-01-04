@@ -1,10 +1,11 @@
 ## Validation Report - Do Not Go Gentle (Animonculory/dngg)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Markarth_HD_Retexture_2k_1k.zip](https://authored-files.wabbajack.org/Markarth HD Retexture. 2K_1K.zip_287c9d0a-d966-4402-aadf-d75d8c22c220/)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1495)
+### Valid (1494)
 *  [_Fuse00_ArmorRogue.rar](https://www.patreon.com/file?h=67007517&i=10861552)
 *  [_Fuse00HairPackBraided03.rar](https://www.patreon.com/file?h=64262256&i=10354948)
 *  [_Fuse00TaurielHair.rar](https://www.patreon.com/file?h=62190804&i=11074106)
@@ -841,7 +842,6 @@
 *  [Mannequin Slapper System-38221-3-1-1600241019.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38221/?tab=files&file_id=161013)
 *  [Mari's flora - Medium-45952-1-2-1618220800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45952/?tab=files&file_id=197655)
 *  [Markarth Braziers Improved-67386-0-2-2-1654668052.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67386/?tab=files&file_id=289634)
-*  [Markarth_HD_Retexture_2k_1k.zip](https://authored-files.wabbajack.org/Markarth HD Retexture. 2K_1K.zip_287c9d0a-d966-4402-aadf-d75d8c22c220/)
 *  [Married NPCs Wear Wedding Bands (1.0.2)-69048-1-0-2-1666380106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69048/?tab=files&file_id=325598)
 *  [Masculine Chameleon and Lizard (Vanilla) 2K-185-2-1-1658172765.7z](https://www.nexusmods.com/skyrimspecialedition/mods/185/?tab=files&file_id=300105)
 *  [Masculine Grey Cat and Leopard (Vanilla) 2K-186-2-1-1658102262.7z](https://www.nexusmods.com/skyrimspecialedition/mods/186/?tab=files&file_id=299861)
