@@ -1,11 +1,12 @@
 ## Validation Report - Tsukiro (wj-featured/tsukiro)
 
 
-### Invalid (1)
+### Invalid (2)
 *  [MoreNastyCrittersSE_v12_8B.7z](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/)
+*  [Serenity 3DNPC BSA Proper.7z](https://authored-files.wabbajack.org/Serenity 3DNPC BSA Proper.7z_fdc6bf82-2a9c-4ed1-bd1d-1408cb02ef49)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1357)
+### Valid (1356)
 *  [---Lucien Replacer SE Younger Face version-38116-1-2-1604513810.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38116/?tab=files&file_id=168611)
 *  [-with COtR 3D teeth-Lucien Replacer 2 Younger face version-61263-2-1-1672064794.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=343771)
 *  [(1) Sharkish Piercings - BHUNP - Base-57131-1-01-1634463636.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235337)
@@ -1026,7 +1027,6 @@
 *  [Serana Re-Imagined ESL Version-43430-2-0-1611543588.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43430/?tab=files&file_id=181654)
 *  [Serana Replacer-65446-1-1-1648757648.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65446/?tab=files&file_id=273923)
 *  [SeranaDialogEdit v 102-16222-1-02.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16222/?tab=files&file_id=59083)
-*  [Serenity 3DNPC BSA Proper.7z](https://authored-files.wabbajack.org/Serenity 3DNPC BSA Proper.7z_fdc6bf82-2a9c-4ed1-bd1d-1408cb02ef49)
 *  [Serenity of Sleep-57768-1-0-1635742940.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57768/?tab=files&file_id=238371)
 *  [Serio's Cycle Hotkeys-27184-1-02-1566958021.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27184/?tab=files&file_id=104568)
 *  [Sexlab - Cum Overlays v2.8 (20-Oct-2020).7z](https://www.loverslab.com/files/file/14676-sexlab-cum-overlays/)

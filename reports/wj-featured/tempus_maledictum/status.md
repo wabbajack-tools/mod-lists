@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1218)
+### Valid (1215)
 *  [(Part 1) SSE Engine Fixes for 1.6.xxx-17230-6-0-2-1637784396.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [1 SMIM UpFurnSmooth4K-74113-1-1661529250.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74113/?tab=files&file_id=310547)
@@ -250,8 +250,6 @@
 *  [Creation Club - Rare Curios Patch-73959-1-0-1661334029.rar](https://www.nexusmods.com/skyrimspecialedition/mods/73959/?tab=files&file_id=310003)
 *  [Creation Club - Staves Addon-73959-1-0-1661334243.rar](https://www.nexusmods.com/skyrimspecialedition/mods/73959/?tab=files&file_id=310004)
 *  [Creation Club Open Helmets-70992-0-3-1659151256.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70992/?tab=files&file_id=303257)
-*  CreationKit.exe
-*  CreationKit.ini
 *  [Critter Spawn Congestion Fix 1.2-67276-1-2-1651865683.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67276/?tab=files&file_id=281943)
 *  [Curated Bosses for True HUD-53406-1-1-1643814226.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53406/?tab=files&file_id=261260)
 *  [Custom Doors Add-on-56731-1-0-1-1633975942.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56731/?tab=files&file_id=234182)
@@ -411,7 +409,6 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
-*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa

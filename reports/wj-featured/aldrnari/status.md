@@ -1,10 +1,11 @@
 ## Validation Report - Aldrnari (wj-featured/aldrnari)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Serenity 3DNPC BSA Proper.7z](https://authored-files.wabbajack.org/Serenity 3DNPC BSA Proper.7z_fdc6bf82-2a9c-4ed1-bd1d-1408cb02ef49/)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2635)
+### Valid (2634)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0.0) SELUA - Solitude Exterior LOD Unlocker Advocate II-36116-1-1-1605036920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169508)
 *  [(1.1) The Great City of Solitude PATCH - Solitude Skyway SE - Drengin's Blue Palace Terrace (STD)-36116-1-1-1604648419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=168848)
@@ -2022,7 +2023,6 @@
 *  [Septentrional Landscapes 4K SE-29842-1-3-2-1584615630.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29842/?tab=files&file_id=129365)
 *  [Serana Dialogue Add-On SE-32161-3-1-0-7-1662016882.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32161/?tab=files&file_id=312229)
 *  [Serana Re-Imagined ESL Version-43430-2-0-1611543588.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43430/?tab=files&file_id=181654)
-*  [Serenity 3DNPC BSA Proper.7z](https://authored-files.wabbajack.org/Serenity 3DNPC BSA Proper.7z_fdc6bf82-2a9c-4ed1-bd1d-1408cb02ef49/)
 *  [Serenity of Sleep-57768-1-0-1635742940.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57768/?tab=files&file_id=238371)
 *  [Serious HD Retexture RIFTEN 2048px-2146.rar](https://www.nexusmods.com/skyrim/mods/2146/?tab=files&file_id=45726)
 *  [SG Eyebrows - For High Poly Head-38493-1-0-1595280733.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38493/?tab=files&file_id=151337)
