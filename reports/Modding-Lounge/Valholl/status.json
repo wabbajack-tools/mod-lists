@@ -1,11 +1,11 @@
 {
   "MachineURL": "Modding-Lounge/Valholl",
   "Name": "VALH\u00D6LL",
-  "Version": "1.1.1",
-  "ModListHash": "l0koeMtfFTY=",
+  "Version": "1.2.0",
+  "ModListHash": "kyg8h+WJd+c=",
   "Archives": [
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "Qdh9ru4N458=",
         "Meta": "[General]\ndirectURL=https://www.dropbox.com/s/oqdjgtzj69a2udm/Mod.Organizer-2.5.0-category-alpha6.7z?dl=1",
@@ -56,21 +56,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SfJcP3DCkQw=",
-        "Meta": "[General]\ngameName=valheim\nmodID=281\nfileID=10147",
-        "Name": "Extended Item Data Framework-281-1-0-10-1671133982.zip",
-        "Size": 170034,
+        "Hash": "Vw1ghS4r3lA=",
+        "Meta": "[General]\ngameName=valheim\nmodID=446\nfileID=10164",
+        "Name": "Better Continents-446-0-7-5-1671185062.zip",
+        "Size": 1381573,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RandyKnapp",
-          "Description": "Extends ItemData for modders. Adds Unique ID to items.",
-          "FileID": 10147,
+          "Author": "billw",
+          "Description": "This mod provides the tools to both improve the standard terrain generation of the game, and override aspects of it with image maps, allowing precise control over height, biomes, location placement, and forest coverage.",
+          "FileID": 10164,
           "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/281/281-1614896348-744157853.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/446/446-1615554903-1795548657.png",
           "IsNSFW": false,
-          "ModID": 281,
-          "Name": "Extended Item Data Framework",
-          "Version": "1.0.10"
+          "ModID": 446,
+          "Name": "Better Continents",
+          "Version": "0.7.5"
         }
       }
     },
@@ -119,6 +119,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "9Hn7Jm2kS2k=",
+        "Meta": "[General]\ngameName=valheim\nmodID=1125\nfileID=10352",
+        "Name": "PlanBuild-1125-0-13-1-1671654642.zip",
+        "Size": 306298,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MarcoPogo and Jules",
+          "Description": "PlanBuild enables you to plan, copy and share your building creations in Valheim with ease. Including tools for terrain modification and immersion items.",
+          "FileID": 10352,
+          "GameName": "Valheim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1125/1125-1622068118-1627082848.png",
+          "IsNSFW": false,
+          "ModID": 1125,
+          "Name": "PlanBuild",
+          "Version": "0.13.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "qen+OYrldIY=",
         "Meta": "[General]\ngameName=valheim\nmodID=302\nfileID=5764",
         "Name": "Player Voices-302-1-0-1623975472.zip",
@@ -140,21 +161,105 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "9Hn7Jm2kS2k=",
-        "Meta": "[General]\ngameName=valheim\nmodID=1125\nfileID=10352",
-        "Name": "PlanBuild-1125-0-13-1-1671654642.zip",
-        "Size": 306298,
+        "Hash": "nwqQclVMJY0=",
+        "Meta": "[General]\ngameName=valheim\nmodID=348\nfileID=10030",
+        "Name": "Better Archery-348-1-8-1-1670947785.zip",
+        "Size": 1313779,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MarcoPogo and Jules",
-          "Description": "PlanBuild enables you to plan, copy and share your building creations in Valheim with ease. Including tools for terrain modification and immersion items.",
-          "FileID": 10352,
+          "Author": "Ishid4",
+          "Description": "Adds many features and changes to bow gameplay. Includes a new quiver system, retrievable arrows, better aim, and realistic arrow physics.",
+          "FileID": 10030,
           "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1125/1125-1622068118-1627082848.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/348/348-1615154127-879511635.png",
           "IsNSFW": false,
-          "ModID": 1125,
-          "Name": "PlanBuild",
-          "Version": "0.13.0"
+          "ModID": 348,
+          "Name": "Better Archery",
+          "Version": "1.8.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ZuMFCIQCGp4=",
+        "Meta": "[General]\ngameName=valheim\nmodID=1385\nfileID=9198",
+        "Name": "BuildIt-1385-1-6-3-1660266525.zip",
+        "Size": 74671793,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RockerKitten",
+          "Description": "Adds a huge amount of new build pieces including Glass, darker wood, and an outhouse as well as a bunch of Furniture and snappable fences.",
+          "FileID": 9198,
+          "GameName": "Valheim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1385/1385-1626400536-1951372389.png",
+          "IsNSFW": false,
+          "ModID": 1385,
+          "Name": "Build It",
+          "Version": "1.6.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "u3mCD2s9Uv0=",
+        "Meta": "[General]\ngameName=valheim\nmodID=92\nfileID=9860",
+        "Name": "Equipment and Quick Slots-92-2-1-1-1670526198.zip",
+        "Size": 671699,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RandyKnapp",
+          "Description": "Give equipped items their own dedicated inventory slots, plus three more hotkeyable quick slots.",
+          "FileID": 9860,
+          "GameName": "Valheim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/92/92-1670526234-1511370933.png",
+          "IsNSFW": false,
+          "ModID": 92,
+          "Name": "Equipment and Quick Slots",
+          "Version": "2.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FlKP1HNf1Js=",
+        "Meta": "[General]\ngameName=valheim\nmodID=1874\nfileID=10345",
+        "Name": "The Farmer-1874-0-1-1-1671637790.zip",
+        "Size": 26902054,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Marlthon",
+          "Description": "The Farmer has arrived in Valheim, he is in the meadow, near the spawn area. He\u0027s selling pets that you can\u0027t find anywhere.",
+          "FileID": 10345,
+          "GameName": "Valheim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1874/1874-1652830906-1681266210.png",
+          "IsNSFW": false,
+          "ModID": 1874,
+          "Name": "TheFarmer",
+          "Version": "0.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SfJcP3DCkQw=",
+        "Meta": "[General]\ngameName=valheim\nmodID=281\nfileID=10147",
+        "Name": "Extended Item Data Framework-281-1-0-10-1671133982.zip",
+        "Size": 170034,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RandyKnapp",
+          "Description": "Extends ItemData for modders. Adds Unique ID to items.",
+          "FileID": 10147,
+          "GameName": "Valheim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/281/281-1614896348-744157853.png",
+          "IsNSFW": false,
+          "ModID": 281,
+          "Name": "Extended Item Data Framework",
+          "Version": "1.0.10"
         }
       }
     },
@@ -196,21 +301,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "FlKP1HNf1Js=",
-        "Meta": "[General]\ngameName=valheim\nmodID=1874\nfileID=10345",
-        "Name": "The Farmer-1874-0-1-1-1671637790.zip",
-        "Size": 26902054,
+        "Hash": "Cy06fDRg7ok=",
+        "Meta": "[General]\ngameName=valheim\nmodID=505\nfileID=6688",
+        "Name": "HookGenPatcher-505-0-0-3-1632339616.zip",
+        "Size": 48602,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Marlthon",
-          "Description": "The Farmer has arrived in Valheim, he is in the meadow, near the spawn area. He\u0027s selling pets that you can\u0027t find anywhere.",
-          "FileID": 10345,
+          "Author": "ValheimModding",
+          "Description": "Generates MonoMod.RuntimeDetour.HookGen\u0027s MMHOOK file during the BepInEx preloader phase.",
+          "FileID": 6688,
           "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1874/1874-1652830906-1681266210.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/505/505-1615758945-1384815746.png",
           "IsNSFW": false,
-          "ModID": 1874,
-          "Name": "TheFarmer",
-          "Version": "0.1.1"
+          "ModID": 505,
+          "Name": "HookGenPatcher",
+          "Version": "0.0.3"
         }
       }
     },
@@ -238,27 +343,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Cy06fDRg7ok=",
-        "Meta": "[General]\ngameName=valheim\nmodID=505\nfileID=6688",
-        "Name": "HookGenPatcher-505-0-0-3-1632339616.zip",
-        "Size": 48602,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ValheimModding",
-          "Description": "Generates MonoMod.RuntimeDetour.HookGen\u0027s MMHOOK file during the BepInEx preloader phase.",
-          "FileID": 6688,
-          "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/505/505-1615758945-1384815746.png",
-          "IsNSFW": false,
-          "ModID": 505,
-          "Name": "HookGenPatcher",
-          "Version": "0.0.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "ZqNH4yFLgdI=",
         "Meta": "[General]\ndirectURL=https://valheim.thunderstore.io/package/download/OdinPlus/OdinsSteelworks/0.0.17/",
         "Name": "OdinPlus-OdinsSteelworks-0.0.17.zip",
@@ -267,6 +351,41 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://valheim.thunderstore.io/package/download/OdinPlus/OdinsSteelworks/0.0.17/"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PsUyc4JqD80=",
+        "Meta": "[General]\ndirectURL=https://valheim.thunderstore.io/package/download/AeehyehssReeper/IAmClanka/0.0.12/",
+        "Name": "AeehyehssReeper-IAmClanka-0.0.12.zip",
+        "Size": 150721,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://valheim.thunderstore.io/package/download/AeehyehssReeper/IAmClanka/0.0.12/"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fnP6gDxLVhg=",
+        "Meta": "[General]\ngameName=valheim\nmodID=1765\nfileID=10144",
+        "Name": "Odin Campsite 1.4.0-1765-1-4-0-1671131073.zip",
+        "Size": 15066594,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OdinPlusTeam-Raelaziel",
+          "Description": "Campsite is just simple mod for additional pieces thanks to which you can travel safe and save time to build temporary bases. Become the real adventurer!",
+          "FileID": 10144,
+          "GameName": "Valheim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1765/1765-1644962760-959576889.png",
+          "IsNSFW": false,
+          "ModID": 1765,
+          "Name": "Odin Campsite",
+          "Version": "1.4.0"
         }
       }
     },
@@ -294,20 +413,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PsUyc4JqD80=",
-        "Meta": "[General]\ndirectURL=https://valheim.thunderstore.io/package/download/AeehyehssReeper/IAmClanka/0.0.12/",
-        "Name": "AeehyehssReeper-IAmClanka-0.0.12.zip",
-        "Size": 150721,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://valheim.thunderstore.io/package/download/AeehyehssReeper/IAmClanka/0.0.12/"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Qy9xGNFU4+M=",
         "Meta": "[General]\ndirectURL=https://valheim.thunderstore.io/package/download/Azumatt/ImFRIENDLY_DAMMIT/1.0.1/",
         "Name": "Azumatt-ImFRIENDLY_DAMMIT-1.0.1.zip",
@@ -316,6 +421,27 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://valheim.thunderstore.io/package/download/Azumatt/ImFRIENDLY_DAMMIT/1.0.1/"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "793grwcFuZg=",
+        "Meta": "[General]\ngameName=valheim\nmodID=1174\nfileID=10689",
+        "Name": "OdinArchitect 1.1.0-1174-1-1-0-1672881303.zip",
+        "Size": 38330060,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Raelaziel",
+          "Description": "Odin Architect is a mod that will allow you to build more, with more structures and on a larger scale. You will find here not only larger counterparts of basic buildings, but also completely new ones. Currently the elements or structures. Your village will gain an unique look, better access and tough walls.",
+          "FileID": 10689,
+          "GameName": "Valheim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1174/1174-1672881370-20507251.png",
+          "IsNSFW": false,
+          "ModID": 1174,
+          "Name": "OdinArchitect - Custom buildings",
+          "Version": "1.1.0"
         }
       }
     },
@@ -406,6 +532,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "+6cxRrgGcwc=",
+        "Meta": "[General]\ngameName=valheim\nmodID=1724\nfileID=10145",
+        "Name": "OdinHorse 1.0.0-1724-1-0-0-1671131735.zip",
+        "Size": 16780546,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OdinPlusTeam-Raelaziel",
+          "Description": "Horse is just simple custom creature mod. You can tame it, You can ride it, You can attach the cart!",
+          "FileID": 10145,
+          "GameName": "Valheim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1724/1724-1643321217-1971681695.png",
+          "IsNSFW": false,
+          "ModID": 1724,
+          "Name": "Odin Horse",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "wEf8QkF8m3Q=",
         "Meta": "[General]\ngameName=valheim\nmodID=2056\nfileID=10024",
         "Name": "Recycle Plus-2056-1-1-0-1670901356.zip",
@@ -421,48 +568,6 @@
           "ModID": 2056,
           "Name": "RecyclePlus",
           "Version": "1.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "nwqQclVMJY0=",
-        "Meta": "[General]\ngameName=valheim\nmodID=348\nfileID=10030",
-        "Name": "Better Archery-348-1-8-1-1670947785.zip",
-        "Size": 1313779,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ishid4",
-          "Description": "Adds many features and changes to bow gameplay. Includes a new quiver system, retrievable arrows, better aim, and realistic arrow physics.",
-          "FileID": 10030,
-          "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/348/348-1615154127-879511635.png",
-          "IsNSFW": false,
-          "ModID": 348,
-          "Name": "Better Archery",
-          "Version": "1.8.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fnP6gDxLVhg=",
-        "Meta": "[General]\ngameName=valheim\nmodID=1765\nfileID=10144",
-        "Name": "Odin Campsite 1.4.0-1765-1-4-0-1671131073.zip",
-        "Size": 15066594,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "OdinPlusTeam-Raelaziel",
-          "Description": "Campsite is just simple mod for additional pieces thanks to which you can travel safe and save time to build temporary bases. Become the real adventurer!",
-          "FileID": 10144,
-          "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1765/1765-1644962760-959576889.png",
-          "IsNSFW": false,
-          "ModID": 1765,
-          "Name": "Odin Campsite",
-          "Version": "1.4.0"
         }
       }
     },
@@ -511,69 +616,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "xy5rIk7upRw=",
-        "Meta": "[General]\ngameName=valheim\nmodID=2123\nfileID=10476",
-        "Name": "TheBeesDecree_Valkea_2.1.4_MIST-2123-2-1-4-1671832381.zip",
-        "Size": 132854704,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "The Bees Decree Server",
-          "Description": "300\u002B Brand Spanking New Build Pieces for a more upbeat homestead.  MISTLANDS COMPATIBLE",
-          "FileID": 10476,
-          "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/2123/2123-1671831158-1102584227.png",
-          "IsNSFW": false,
-          "ModID": 2123,
-          "Name": "VALKEA",
-          "Version": "2.1.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+6cxRrgGcwc=",
-        "Meta": "[General]\ngameName=valheim\nmodID=1724\nfileID=10145",
-        "Name": "OdinHorse 1.0.0-1724-1-0-0-1671131735.zip",
-        "Size": 16780546,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "OdinPlusTeam-Raelaziel",
-          "Description": "Horse is just simple custom creature mod. You can tame it, You can ride it, You can attach the cart!",
-          "FileID": 10145,
-          "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1724/1724-1643321217-1971681695.png",
-          "IsNSFW": false,
-          "ModID": 1724,
-          "Name": "Odin Horse",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "sUR9Bl6E/z8=",
-        "Meta": "[General]\ngameName=valheim\nmodID=740\nfileID=4347",
-        "Name": "Configuration Manager-740-0-5-0-1619459811.zip",
-        "Size": 28704,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "aedenthorn",
-          "Description": "An updated, expanded, customizable version of the BepInEx Configuration Manager, tweaked specifically for Valheim.",
-          "FileID": 4347,
-          "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/740/740-1616768530-276004691.png",
-          "IsNSFW": false,
-          "ModID": 740,
-          "Name": "Configuration Manager",
-          "Version": "0.5.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "OhEySP/ukmg=",
         "Meta": "[General]\ngameName=valheim\nmodID=1741\nfileID=10599",
         "Name": "OdinShip-1741-0-2-1-1672468624.zip",
@@ -595,21 +637,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PX1xm9ov0s8=",
-        "Meta": "[General]\ngameName=valheim\nmodID=90\nfileID=7196",
-        "Name": "Custom Audio-90-1-4-4-1634914094.zip",
-        "Size": 8912,
+        "Hash": "xy5rIk7upRw=",
+        "Meta": "[General]\ngameName=valheim\nmodID=2123\nfileID=10476",
+        "Name": "TheBeesDecree_Valkea_2.1.4_MIST-2123-2-1-4-1671832381.zip",
+        "Size": 132854704,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "aedenthorn",
-          "Description": "Allows you to swap music, ambient sounds, and sound effects with your own audio files.",
-          "FileID": 7196,
+          "Author": "The Bees Decree Server",
+          "Description": "300\u002B Brand Spanking New Build Pieces for a more upbeat homestead.  MISTLANDS COMPATIBLE",
+          "FileID": 10476,
           "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/90/90-1614045990-1852937259.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/2123/2123-1671831158-1102584227.png",
           "IsNSFW": false,
-          "ModID": 90,
-          "Name": "Custom Audio",
-          "Version": "1.4.4"
+          "ModID": 2123,
+          "Name": "VALKEA",
+          "Version": "2.1.4"
         }
       }
     },
@@ -637,69 +679,48 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Vw1ghS4r3lA=",
-        "Meta": "[General]\ngameName=valheim\nmodID=446\nfileID=10164",
-        "Name": "Better Continents-446-0-7-5-1671185062.zip",
-        "Size": 1381573,
+        "Hash": "sUR9Bl6E/z8=",
+        "Meta": "[General]\ngameName=valheim\nmodID=740\nfileID=4347",
+        "Name": "Configuration Manager-740-0-5-0-1619459811.zip",
+        "Size": 28704,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "billw",
-          "Description": "This mod provides the tools to both improve the standard terrain generation of the game, and override aspects of it with image maps, allowing precise control over height, biomes, location placement, and forest coverage.",
-          "FileID": 10164,
+          "Author": "aedenthorn",
+          "Description": "An updated, expanded, customizable version of the BepInEx Configuration Manager, tweaked specifically for Valheim.",
+          "FileID": 4347,
           "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/446/446-1615554903-1795548657.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/740/740-1616768530-276004691.png",
           "IsNSFW": false,
-          "ModID": 446,
-          "Name": "Better Continents",
-          "Version": "0.7.5"
+          "ModID": 740,
+          "Name": "Configuration Manager",
+          "Version": "0.5.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ZuMFCIQCGp4=",
-        "Meta": "[General]\ngameName=valheim\nmodID=1385\nfileID=9198",
-        "Name": "BuildIt-1385-1-6-3-1660266525.zip",
-        "Size": 74671793,
+        "Hash": "PX1xm9ov0s8=",
+        "Meta": "[General]\ngameName=valheim\nmodID=90\nfileID=7196",
+        "Name": "Custom Audio-90-1-4-4-1634914094.zip",
+        "Size": 8912,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RockerKitten",
-          "Description": "Adds a huge amount of new build pieces including Glass, darker wood, and an outhouse as well as a bunch of Furniture and snappable fences.",
-          "FileID": 9198,
+          "Author": "aedenthorn",
+          "Description": "Allows you to swap music, ambient sounds, and sound effects with your own audio files.",
+          "FileID": 7196,
           "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1385/1385-1626400536-1951372389.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/90/90-1614045990-1852937259.png",
           "IsNSFW": false,
-          "ModID": 1385,
-          "Name": "Build It",
-          "Version": "1.6.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "u3mCD2s9Uv0=",
-        "Meta": "[General]\ngameName=valheim\nmodID=92\nfileID=9860",
-        "Name": "Equipment and Quick Slots-92-2-1-1-1670526198.zip",
-        "Size": 671699,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RandyKnapp",
-          "Description": "Give equipped items their own dedicated inventory slots, plus three more hotkeyable quick slots.",
-          "FileID": 9860,
-          "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/92/92-1670526234-1511370933.png",
-          "IsNSFW": false,
-          "ModID": 92,
-          "Name": "Equipment and Quick Slots",
-          "Version": "2.1.1"
+          "ModID": 90,
+          "Name": "Custom Audio",
+          "Version": "1.4.4"
         }
       }
     }
   ],
   "Status": "Failed",
-  "Failures": 2,
+  "Failures": 1,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Modding-Lounge/b038119919a4cd09_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Modding-Lounge/b038119919a4cd09_large.webp"
 }
