@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (711)
+### Valid (714)
 *  [- Meshes - important-58370-1-0-1637050362.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=241886)
 *  [(Part 1) SSE Engine Fixes for 1.6.xxx-17230-6-0-2-1637784396.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -154,6 +154,7 @@
 *  [CDAA - Ferry Patch-51260-1-1-1643190895.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51260/?tab=files&file_id=259641)
 *  [chicken replacer (se-ae)-76452-1-1664741992.rar](https://www.nexusmods.com/skyrimspecialedition/mods/76452/?tab=files&file_id=321165)
 *  [Children of the Pariah-69769-1-01-1668982645.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69769/?tab=files&file_id=333373)
+*  [CK64Fixes Release 3.2-20061-3-2-1616560054.zip](https://www.nexusmods.com/skyrimspecialedition/mods/20061/?tab=files&file_id=193264)
 *  [Classic Enhanced-65521-1-0-1648288428.rar](https://www.nexusmods.com/skyrimspecialedition/mods/65521/?tab=files&file_id=272645)
 *  [Classic Paralysis-45931-3-3-1-1665609270.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45931/?tab=files&file_id=323577)
 *  [Compass Navigation Overhaul-74484-1-2-2-1664383770.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74484/?tab=files&file_id=320068)
@@ -180,12 +181,14 @@
 *  [Daedric Shrines 2 k-78772-1-01-1668535036.zip](https://www.nexusmods.com/skyrimspecialedition/mods/78772/?tab=files&file_id=332114)
 *  [Dark Brown Texture-33789-1-0-1584710983.rar](https://www.nexusmods.com/skyrimspecialedition/mods/33789/?tab=files&file_id=129507)
 *  [Data Files-42057-1-1604616002.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42057/?tab=files&file_id=168776)
+*  Data_ccasvsse001-almsivi.bsa
 *  Data_ccbgssse001-fish.bsa
 *  Data_ccbgssse001-fish.esm
 *  Data_ccbgssse025-advdsgs.bsa
 *  Data_ccbgssse025-advdsgs.esm
 *  Data_ccbgssse037-curios.bsa
 *  Data_ccbgssse037-curios.esl
+*  Data_ccbgssse067-daedinv.bsa
 *  Data_ccqdrsse001-survivalmode.bsa
 *  Data_ccqdrsse001-survivalmode.esl
 *  Data_Dawnguard.esm
@@ -458,6 +461,7 @@
 *  [OH GOD BEES - HD Textures-2932-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2932/?tab=files&file_id=18148)
 *  [Optional Quick Start - SE-63953-1-1-4-1652007908.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63953/?tab=files&file_id=282311)
 *  [Orc Settlements Enhanced 2K-28566-1-1-1567006989.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28566/?tab=files&file_id=104642)
+*  [OSD Font for SSE Display Tweaks-48364-1-1-0-1618649420.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48364/?tab=files&file_id=198638)
 *  [Oxygen Meter 2 AE-64532-1-0-5-1650292064.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64532/?tab=files&file_id=278061)
 *  [Paper Themes for Mod Organizer 2-64439-7-1-1624721245.7z](https://www.nexusmods.com/skyrim/mods/64439/?tab=files&file_id=1000338549)
 *  [Paper V2-3819-2.rar](https://www.nexusmods.com/skyrim/mods/3819/?tab=files&file_id=11289)
@@ -484,7 +488,6 @@
 *  [Praedy's College of Winterhold 2K-46334-2-0-1666449245.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46334/?tab=files&file_id=325764)
 *  [Praedy's Soul Cairn 2K-66261-2-0-1666904012.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66261/?tab=files&file_id=326959)
 *  [Pristine Vanilla Movement-66635-1-1-1650775951.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66635/?tab=files&file_id=279306)
-*  [prod80-ReShade-Repository-master.zip](https://github.com/prod80/prod80-ReShade-Repository/archive/refs/heads/master.zip)
 *  [PUDDLES - My HD version by Xtudo SE - SIP version 1K-79278-1-1669209053.7z](https://www.nexusmods.com/skyrimspecialedition/mods/79278/?tab=files&file_id=333894)
 *  [qUINT-master.zip](https://github.com/martymcmodding/qUINT/archive/refs/heads/master.zip)
 *  [Qwafee Keys (WiZkiD Edit) .3.-34719-3-0-0-0-1602465325.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34719/?tab=files&file_id=165130)
