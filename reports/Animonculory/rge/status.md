@@ -1,14 +1,11 @@
 ## Validation Report - Relics of Hyrule - GAT Edition (Animonculory/rge)
 
 
-### Invalid (4)
-*  [ECTV Merged.rar](https://authored-files.wabbajack.org/ECTV Merged.rar_ad3cbe23-e2b7-44b7-ae98-4f95cc1a3407)
-*  [RGE - DynDOLOD Output 2.5.rar](https://authored-files.wabbajack.org/RGE - DynDOLOD Output 2.5.rar_26aea991-e133-471b-bcf1-7e4adf18b397)
-*  [RGE - TexGen Output 2.5.rar](https://authored-files.wabbajack.org/RGE - TexGen Output 2.5.rar_24a533dc-d619-42fc-9d8f-86d2105cf615)
-*  [RGE - xLODGen Output 2.5.rar](https://authored-files.wabbajack.org/RGE - xLODGen Output 2.5.rar_37365df8-b0a0-472c-8154-4ee636aa8197)
+### Invalid (1)
+*  [ECTV Merged.rar](https://authored-files.wabbajack.org/ECTV Merged.rar_a82464b3-813a-4217-9010-2057cf4c6fe5)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (945)
+### Valid (950)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(2K) Skygazer Moons - Masser and Secunda HD Moons by fadingsignal-54349-1-0.rar](https://www.nexusmods.com/skyrim/mods/54349/?tab=files&file_id=1000110438)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
@@ -177,6 +174,7 @@
 *  [Copy and Paste in Console v1.0.1 for Skyrim SE-30928-1-0-1-1615644554.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30928/?tab=files&file_id=191247)
 *  [coverkhajiits female version-5941-1-0.rar](https://www.nexusmods.com/skyrim/mods/5941/?tab=files&file_id=18933)
 *  [coverkhajiits male version-5941-1-0.rar](https://www.nexusmods.com/skyrim/mods/5941/?tab=files&file_id=18932)
+*  CreationKit.ini
 *  [Cross section of Mammoth snout-79400-0-21.7z](https://www.nexusmods.com/skyrim/mods/79400/?tab=files&file_id=1000224180)
 *  [Cute Eyes-13076-1-2.7z](https://www.nexusmods.com/skyrim/mods/13076/?tab=files&file_id=72556)
 *  [Daanik the Returned-21728-V3-1559776063.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21728/?tab=files&file_id=94913)
@@ -192,6 +190,7 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
+*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -660,11 +659,14 @@
 *  [Retex-16737-0-12.7z](https://www.nexusmods.com/skyrim/mods/16737/?tab=files&file_id=1000009168)
 *  [Retexture for Bread - Hearthfire-64980-0-55.7z](https://www.nexusmods.com/skyrim/mods/64980/?tab=files&file_id=1000156757)
 *  [Revamped Assets Skyrim - High-75380-0-31.7z](https://www.nexusmods.com/skyrim/mods/75380/?tab=files&file_id=1000205331)
-*  [RGE - Facegen.rar](https://authored-files.wabbajack.org/RGE - Facegen.rar_7c9561e7-74ad-4cdb-afe4-fbb344a8a226)
-*  [RGE - Nemesis Output v2.3.7z](https://authored-files.wabbajack.org/RGE - Nemesis Output v2.3.7z_5ac32d47-bb3e-47a9-a60f-d37648d46040)
-*  [RGE - Patches.rar](https://authored-files.wabbajack.org/RGE - Patches.rar_49f3b057-d914-4f57-b0ca-7f683814410f)
+*  [RGE - DynDOLOD Output 2.5.rar](https://authored-files.wabbajack.org/RGE - DynDOLOD Output 2.5.rar_f119dc4c-4252-4cf3-aa42-60d2ff654365)
+*  [RGE - Facegen.rar](https://authored-files.wabbajack.org/RGE - Facegen.rar_7ebca735-9ead-495b-8bb1-d6bc89514fa1)
+*  [RGE - Nemesis Output v2.3.7z](https://authored-files.wabbajack.org/RGE - Nemesis Output v2.3.7z_d165c805-f4b6-4999-aad0-cb75ff6abddb)
+*  [RGE - Patches.rar](https://authored-files.wabbajack.org/RGE - Patches.rar_c4fb829e-fab9-4bef-899e-ecbc62dbf0d0)
+*  [RGE - TexGen Output 2.5.rar](https://authored-files.wabbajack.org/RGE - TexGen Output 2.5.rar_f6efe8b3-ed95-4b86-9bc1-03244648b68e)
+*  [RGE - xLODGen Output 2.5.rar](https://authored-files.wabbajack.org/RGE - xLODGen Output 2.5.rar_c748564f-e82b-404a-bba6-8352e8263922)
 *  [RGE main Menu No Fog-34114-1-6-1587169685.rar](https://www.nexusmods.com/skyrimspecialedition/mods/34114/?tab=files&file_id=134831)
-*  [RGE Random xEdit Scripts.zip](https://wabbajack.b-cdn.net/RGE Random xEdit Scripts.zip_1b1ade52-a25e-40e0-865c-07663e11f706)
+*  [RGE Random xEdit Scripts.zip](https://authored-files.wabbajack.org/RGE Random xEdit Scripts.zip_dd8a556e-17ce-4328-9639-286d915ac7cc)
 *  [Riekling Reavers-22948-1-1-1589936323.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22948/?tab=files&file_id=140942)
 *  [Riekling Roughriders-22765-1-1-1590025736.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22765/?tab=files&file_id=141154)
 *  [Riekling Spears Brown Leather 2K-18181-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18181/?tab=files&file_id=58484)
