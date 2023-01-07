@@ -1,10 +1,11 @@
 ## Validation Report - Auriels Dream (wj-featured/auriels_dream)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [nvngx_dlss_2.5.1.zip](https://us5-dl.techpowerup.com/files/KWmJy3rhxJfOGHWQg04lHQ/1673053816/nvngx_dlss_2.5.1.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (914)
+### Valid (913)
 *  [1_Sensorium-52442-1-4-1633041146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52442/?tab=files&file_id=231767)
 *  [2K Caveworm-41956-1-0-1604317541.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41956/?tab=files&file_id=168277)
 *  [2K ElSopa HD - Grindstone-22647-1-0-1547611945.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22647/?tab=files&file_id=78482)
@@ -609,7 +610,6 @@
 *  [NotSoFast-MainQuestV14-62894-1-4.7z](https://www.nexusmods.com/skyrim/mods/62894/?tab=files&file_id=1000215238)
 *  [NPC Animation Remix (DAR) - main download-63471-1-1-0-1650110350.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63471/?tab=files&file_id=277481)
 *  [NPC Animation Remix (DAR) - Vanilla shield position patch-63471-1-1-0-1650110559.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63471/?tab=files&file_id=277483)
-*  [nvngx_dlss_2.5.1.zip](https://us5-dl.techpowerup.com/files/KWmJy3rhxJfOGHWQg04lHQ/1673053816/nvngx_dlss_2.5.1.zip)
 *  [Oblivion Black Soul Gem Creation-48529-V1-0.7z](https://www.nexusmods.com/skyrim/mods/48529/?tab=files&file_id=1000085420)
 *  [Oblivion Music in Skyrim-32462-1-1581113723.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32462/?tab=files&file_id=123102)
 *  [Oblivioneseque Category Icons For SkyUI-29773-1-0-1571342924.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29773/?tab=files&file_id=110675)
