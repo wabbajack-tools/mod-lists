@@ -1,8 +1,8 @@
 {
   "MachineURL": "Modding-Lounge/Valholl",
   "Name": "VALH\u00D6LL",
-  "Version": "1.2.0",
-  "ModListHash": "kyg8h+WJd+c=",
+  "Version": "1.2.1",
+  "ModListHash": "4TuYeNGMXSk=",
   "Archives": [
     {
       "Status": "Valid",
@@ -19,7 +19,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "Uwpyg1X2Z/o=",
         "Meta": "[General]\ndirectURL=https://valheim.thunderstore.io/package/download/denikson/BepInExPack_Valheim/5.4.1901/",
@@ -56,21 +56,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Vw1ghS4r3lA=",
-        "Meta": "[General]\ngameName=valheim\nmodID=446\nfileID=10164",
-        "Name": "Better Continents-446-0-7-5-1671185062.zip",
-        "Size": 1381573,
+        "Hash": "PX1xm9ov0s8=",
+        "Meta": "[General]\ngameName=valheim\nmodID=90\nfileID=7196",
+        "Name": "Custom Audio-90-1-4-4-1634914094.zip",
+        "Size": 8912,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "billw",
-          "Description": "This mod provides the tools to both improve the standard terrain generation of the game, and override aspects of it with image maps, allowing precise control over height, biomes, location placement, and forest coverage.",
-          "FileID": 10164,
+          "Author": "aedenthorn",
+          "Description": "Allows you to swap music, ambient sounds, and sound effects with your own audio files.",
+          "FileID": 7196,
           "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/446/446-1615554903-1795548657.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/90/90-1614045990-1852937259.png",
           "IsNSFW": false,
-          "ModID": 446,
-          "Name": "Better Continents",
-          "Version": "0.7.5"
+          "ModID": 90,
+          "Name": "Custom Audio",
+          "Version": "1.4.4"
         }
       }
     },
@@ -161,21 +161,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "nwqQclVMJY0=",
-        "Meta": "[General]\ngameName=valheim\nmodID=348\nfileID=10030",
-        "Name": "Better Archery-348-1-8-1-1670947785.zip",
-        "Size": 1313779,
+        "Hash": "bMR7RsYIMqQ=",
+        "Meta": "[General]\ngameName=valheim\nmodID=348\nfileID=10472",
+        "Name": "Better Archery-348-1-8-3-1671828324.zip",
+        "Size": 1313885,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ishid4",
           "Description": "Adds many features and changes to bow gameplay. Includes a new quiver system, retrievable arrows, better aim, and realistic arrow physics.",
-          "FileID": 10030,
+          "FileID": 10472,
           "GameName": "Valheim",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/348/348-1615154127-879511635.png",
           "IsNSFW": false,
           "ModID": 348,
           "Name": "Better Archery",
           "Version": "1.8.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Vw1ghS4r3lA=",
+        "Meta": "[General]\ngameName=valheim\nmodID=446\nfileID=10164",
+        "Name": "Better Continents-446-0-7-5-1671185062.zip",
+        "Size": 1381573,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "billw",
+          "Description": "This mod provides the tools to both improve the standard terrain generation of the game, and override aspects of it with image maps, allowing precise control over height, biomes, location placement, and forest coverage.",
+          "FileID": 10164,
+          "GameName": "Valheim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/446/446-1615554903-1795548657.png",
+          "IsNSFW": false,
+          "ModID": 446,
+          "Name": "Better Continents",
+          "Version": "0.7.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FlKP1HNf1Js=",
+        "Meta": "[General]\ngameName=valheim\nmodID=1874\nfileID=10345",
+        "Name": "The Farmer-1874-0-1-1-1671637790.zip",
+        "Size": 26902054,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Marlthon",
+          "Description": "The Farmer has arrived in Valheim, he is in the meadow, near the spawn area. He\u0027s selling pets that you can\u0027t find anywhere.",
+          "FileID": 10345,
+          "GameName": "Valheim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1874/1874-1652830906-1681266210.png",
+          "IsNSFW": false,
+          "ModID": 1874,
+          "Name": "TheFarmer",
+          "Version": "0.1.1"
         }
       }
     },
@@ -218,27 +260,6 @@
           "ModID": 92,
           "Name": "Equipment and Quick Slots",
           "Version": "2.1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "FlKP1HNf1Js=",
-        "Meta": "[General]\ngameName=valheim\nmodID=1874\nfileID=10345",
-        "Name": "The Farmer-1874-0-1-1-1671637790.zip",
-        "Size": 26902054,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Marlthon",
-          "Description": "The Farmer has arrived in Valheim, he is in the meadow, near the spawn area. He\u0027s selling pets that you can\u0027t find anywhere.",
-          "FileID": 10345,
-          "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1874/1874-1652830906-1681266210.png",
-          "IsNSFW": false,
-          "ModID": 1874,
-          "Name": "TheFarmer",
-          "Version": "0.1.1"
         }
       }
     },
@@ -322,15 +343,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0ONQpFB7jwI=",
-        "Meta": "[General]\ngameName=valheim\nmodID=1921\nfileID=9967",
-        "Name": "Gungnir-1921-1-6-0-1670828612.zip",
-        "Size": 31829,
+        "Hash": "tPxT0SmTDYE=",
+        "Meta": "[General]\ngameName=valheim\nmodID=1921\nfileID=10700",
+        "Name": "Gungnir-1921-1-7-0-1672953749.zip",
+        "Size": 33959,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "zamboni",
           "Description": "An in-game console enhancement mod. Gungnir aims to provide a cleaner, more enjoyable console experience for Valheim players.",
-          "FileID": 9967,
+          "FileID": 10700,
           "GameName": "Valheim",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1921/1921-1655691986-1498103591.png",
           "IsNSFW": false,
@@ -448,15 +469,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "pvEQTdEL+ow=",
-        "Meta": "[General]\ngameName=valheim\nmodID=1138\nfileID=10306",
-        "Name": "Jotunn-1138-2-10-1-1671535026.zip",
-        "Size": 559310,
+        "Hash": "m/+74qdVHy4=",
+        "Meta": "[General]\ngameName=valheim\nmodID=1138\nfileID=10604",
+        "Name": "Jotunn-1138-2-10-2-1672495918.zip",
+        "Size": 560067,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Valheim Modding",
           "Description": "J\u00F6tunn (/\u02C8j\u0254\u02D0t\u028An/, \u0022giant\u0022), the Valheim Library was created with the goal of making the lives of mod developers easier. It enables you to create mods for Valheim using an abstracted API so you can focus on the actual content creation.",
-          "FileID": 10306,
+          "FileID": 10604,
           "GameName": "Valheim",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1138/1138-1619817736-1994493562.png",
           "IsNSFW": false,
@@ -532,15 +553,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+6cxRrgGcwc=",
-        "Meta": "[General]\ngameName=valheim\nmodID=1724\nfileID=10145",
-        "Name": "OdinHorse 1.0.0-1724-1-0-0-1671131735.zip",
-        "Size": 16780546,
+        "Hash": "riaKl74HbOk=",
+        "Meta": "[General]\ngameName=valheim\nmodID=1724\nfileID=10573",
+        "Name": "OdinHorse 1.1.0-1724-1-1-0-1672275536.zip",
+        "Size": 14896361,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "OdinPlusTeam-Raelaziel",
           "Description": "Horse is just simple custom creature mod. You can tame it, You can ride it, You can attach the cart!",
-          "FileID": 10145,
+          "FileID": 10573,
           "GameName": "Valheim",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1724/1724-1643321217-1971681695.png",
           "IsNSFW": false,
@@ -616,15 +637,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "OhEySP/ukmg=",
-        "Meta": "[General]\ngameName=valheim\nmodID=1741\nfileID=10599",
-        "Name": "OdinShip-1741-0-2-1-1672468624.zip",
-        "Size": 46153512,
+        "Hash": "XzlKjx6vEyg=",
+        "Meta": "[General]\ngameName=valheim\nmodID=1741\nfileID=10630",
+        "Name": "OdinShip-1741-0-2-2-1672671594.rar",
+        "Size": 46304104,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Marlthon",
           "Description": "New boats, oil press, fish extract, crane and more to help you explore this giant world.",
-          "FileID": 10599,
+          "FileID": 10630,
           "GameName": "Valheim",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/1741/1741-1663640167-867847882.png",
           "IsNSFW": false,
@@ -696,31 +717,10 @@
           "Version": "0.5.0"
         }
       }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PX1xm9ov0s8=",
-        "Meta": "[General]\ngameName=valheim\nmodID=90\nfileID=7196",
-        "Name": "Custom Audio-90-1-4-4-1634914094.zip",
-        "Size": 8912,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "aedenthorn",
-          "Description": "Allows you to swap music, ambient sounds, and sound effects with your own audio files.",
-          "FileID": 7196,
-          "GameName": "Valheim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3667/images/90/90-1614045990-1852937259.png",
-          "IsNSFW": false,
-          "ModID": 90,
-          "Name": "Custom Audio",
-          "Version": "1.4.4"
-        }
-      }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Modding-Lounge/b038119919a4cd09_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Modding-Lounge/b038119919a4cd09_large.webp"
 }
