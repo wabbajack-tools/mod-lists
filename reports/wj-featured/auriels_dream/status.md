@@ -1,8 +1,7 @@
 ## Validation Report - Auriels Dream (wj-featured/auriels_dream)
 
 
-### Invalid (1)
-*  [nvngx_dlss_2.5.1.zip](https://us5-dl.techpowerup.com/files/KWmJy3rhxJfOGHWQg04lHQ/1673053816/nvngx_dlss_2.5.1.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (913)
