@@ -2,7 +2,7 @@
   "MachineURL": "Animonculory/AVOAE",
   "Name": "Animonculory Visual Overhaul - Anniversary Edition",
   "Version": "3.1.1",
-  "ModListHash": "J1Dd+t0nzfQ=",
+  "ModListHash": "PUdzp+kIJOc=",
   "Archives": [
     {
       "Status": "Valid",
@@ -117,15 +117,15 @@
         "Size": 3232702180,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "The Animonculory",
-          "Description": "Landing page for resources related to The Animonculory.",
+          "Author": null,
+          "Description": null,
           "FileID": 346954,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62561/62561-1643136347-1986850217.png",
+          "ImageURL": null,
           "IsNSFW": false,
           "ModID": 62561,
-          "Name": "Animonculory Resources",
-          "Version": "2.1.1"
+          "Name": null,
+          "Version": null
         }
       }
     },
@@ -17187,22 +17187,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SdaNZjorvPE=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Misc.bsa",
-        "Name": "Data_Skyrim - Misc.bsa",
-        "Size": 204987429,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Misc.bsa",
-          "GameVersion": "1.6.640.0",
-          "Hash": "SdaNZjorvPE="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "w/lNdVKZu0o=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccqdrsse001-survivalmode.bsa",
         "Name": "Data_ccqdrsse001-survivalmode.bsa",
@@ -17229,6 +17213,22 @@
           "GameFile": "Data\\ccbgssse001-fish.bsa",
           "GameVersion": "1.6.640.0",
           "Hash": "5zpvMtfRLbY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SdaNZjorvPE=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Misc.bsa",
+        "Name": "Data_Skyrim - Misc.bsa",
+        "Size": 204987429,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Misc.bsa",
+          "GameVersion": "1.6.640.0",
+          "Hash": "SdaNZjorvPE="
         }
       }
     },
