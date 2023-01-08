@@ -1,12 +1,11 @@
 ## Validation Report - Aldrnari (wj-featured/aldrnari)
 
 
-### Invalid (2)
-*  [ADXP+Beta+1.4.3.zip](https://www.skyrim-guild.com/s/ADXP-Beta-143.zip)
+### Invalid (1)
 *  [Serenity 3DNPC BSA Proper.7z](https://authored-files.wabbajack.org/Serenity 3DNPC BSA Proper.7z_fdc6bf82-2a9c-4ed1-bd1d-1408cb02ef49/)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2633)
+### Valid (2634)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0.0) SELUA - Solitude Exterior LOD Unlocker Advocate II-36116-1-1-1605036920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169508)
 *  [(1.1) The Great City of Solitude PATCH - Solitude Skyway SE - Drengin's Blue Palace Terrace (STD)-36116-1-1-1604648419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=168848)
@@ -120,6 +119,7 @@
 *  [Actually Useful Butter Churns - Base Object Swapper-67776-0-1-1-1652095277.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67776/?tab=files&file_id=282482)
 *  [Address Library for SKSE Plugins.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32444/?tab=files&file_id=125647)
 *  [Adjusted Visual Animated Enchants (ENB Complex Particle Lights)-50382-1-1-0-1623476382.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50382/?tab=files&file_id=208694)
+*  [ADXP+Beta+1.4.3.zip](https://www.skyrim-guild.com/s/ADXP-Beta-143.zip)
 *  [Aetherial Crown SE-4309-Final.rar](https://www.nexusmods.com/skyrimspecialedition/mods/4309/?tab=files&file_id=8087)
 *  [Afterlife SE-55051-1-2-1-1649204749.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55051/?tab=files&file_id=275123)
 *  [Ahzidal's Armor Set - My version SE - v2-51309-2-2-1655838628.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51309/?tab=files&file_id=292944)

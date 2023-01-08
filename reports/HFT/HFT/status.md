@@ -1,11 +1,10 @@
 ## Validation Report - Happy Fun Times (HFT/HFT)
 
 
-### Invalid (1)
-*  [ADXP+Beta+1.4.3.zip](https://www.skyrim-guild.com/s/ADXP-Beta-143.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1911)
+### Valid (1912)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
@@ -123,6 +122,7 @@
 *  [Adamant Patch-61559-1-5-1668207985.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61559/?tab=files&file_id=330960)
 *  [Adrielle Preset No Elf Ears Version-41124-1-0-1601850104.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41124/?tab=files&file_id=163942)
 *  [Advent [SE] - CBBE.7z](https://www.mediafire.com/file/5792jgwlgbe20a9/Advent_%255BSE%255D_-_CBBE.7z/file)
+*  [ADXP+Beta+1.4.3.zip](https://www.skyrim-guild.com/s/ADXP-Beta-143.zip)
 *  [Aetherium Falmer Ceiling 2K-43434-1-0-1608255189.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43434/?tab=files&file_id=174918)
 *  [AetheriumArmornWeaponsSSE with BSA-2687-1-1-0-1614217512.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2687/?tab=files&file_id=187865)
 *  [Alchemy Ingredients ENB Light-65509-0-3-1-1649146884.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65509/?tab=files&file_id=274977)
