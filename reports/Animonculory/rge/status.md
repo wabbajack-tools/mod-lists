@@ -1,13 +1,10 @@
 ## Validation Report - Relics of Hyrule - GAT Edition (Animonculory/rge)
 
 
-### Invalid (3)
-*  [ECTV Merged.rar](https://authored-files.wabbajack.org/ECTV Merged.rar_a82464b3-813a-4217-9010-2057cf4c6fe5)
-*  [Skyrim_Realistic_Overhaul_Part_2.7z](https://www.moddb.com/downloads/start/116927?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
-*  [Skyrim_Realistic_Overhaul_Part_3.7z](https://www.moddb.com/downloads/start/116934?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (948)
+### Valid (951)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(2K) Skygazer Moons - Masser and Secunda HD Moons by fadingsignal-54349-1-0.rar](https://www.nexusmods.com/skyrim/mods/54349/?tab=files&file_id=1000110438)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
@@ -248,6 +245,7 @@
 *  [Ebongrove-17355-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17355/?tab=files&file_id=54896)
 *  [EbonyBladeRetexture2k-66744-1.7z](https://www.nexusmods.com/skyrim/mods/66744/?tab=files&file_id=1000163489)
 *  [ECTV Consistency Patch.rar](https://authored-files.wabbajack.org/ECTV Consistency Patch.rar_7263379b-4243-440f-88ac-b65819702622)
+*  [ECTV Merged.rar](https://authored-files.wabbajack.org/ECTV Merged.rar_8a1dbb1d-4a65-4bdf-b7cd-1e320cd868da)
 *  [Edwarr's Enchanting Workbench - 2k-71802-1-0.rar](https://www.nexusmods.com/skyrim/mods/71802/?tab=files&file_id=1000187113)
 *  [Edwarrs Spell Tome Books-58187-Final.rar](https://www.nexusmods.com/skyrim/mods/58187/?tab=files&file_id=1000127113)
 *  [ELDERSCROLL SSE - FX - 2K-17757-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17757/?tab=files&file_id=56379)
@@ -796,6 +794,8 @@
 *  Skyrim_Default.ini
 *  [Skyrim_Realistic_Overhaul_1.8._Update.rar](https://www.moddb.com/downloads/start/139489?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
 *  [Skyrim_Realistic_Overhaul_Part_1.7z](https://www.moddb.com/downloads/start/116891?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
+*  [Skyrim_Realistic_Overhaul_Part_2.7z](https://www.moddb.com/downloads/start/116927?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
+*  [Skyrim_Realistic_Overhaul_Part_3.7z](https://www.moddb.com/downloads/start/116934?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
 *  Skyrim.ccc
 *  [Skyrim3DTrees and Plants 3dLOD Resources-12371-5-0-1-1592182291.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12371/?tab=files&file_id=145752)
 *  [skyrimindiemusicscene_la-20953-1-4.7z](https://www.nexusmods.com/skyrim/mods/20953/?tab=files&file_id=77342)
