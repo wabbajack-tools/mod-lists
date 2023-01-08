@@ -1,0 +1,4323 @@
+{
+  "MachineURL": "BtHz/BtHz",
+  "Name": "Beyond the Horizon",
+  "Version": "0.9",
+  "ModListHash": "ZKUiixcA1JE=",
+  "Archives": [
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LqKnmSUrXac=",
+        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z",
+        "Name": "Mod.Organizer-2.4.4.7z",
+        "Size": 90051560,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GLgTbVBqsxQ=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Fallout4.exe",
+        "Name": "Fallout4.exe",
+        "Size": 65503104,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Fallout4.exe",
+          "GameVersion": "1.10.163.0",
+          "Hash": "GLgTbVBqsxQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3QGscRUP3fo=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=msvcr110.dll",
+        "Name": "msvcr110.dll",
+        "Size": 849360,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "msvcr110.dll",
+          "GameVersion": "1.10.163.0",
+          "Hash": "3QGscRUP3fo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "A+asrsaipsM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=26076\nfileID=109632",
+        "Name": "A Bundle of Tape-26076-1-3.rar",
+        "Size": 188157940,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 109632,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 26076,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zf6Ln25Tay8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=17374\nfileID=257950",
+        "Name": "Architect Weather Addon v1.5-17374-1-5-1669244867.zip",
+        "Size": 3106812,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 257950,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 17374,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tqK3ISI1nCg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=45120\nfileID=182063",
+        "Name": "BCR-Horizon Lever-Action Shotgun-45120-1-0-1589733940.zip",
+        "Size": 564,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 182063,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 45120,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lx8wP++c5r4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=41008\nfileID=168163",
+        "Name": "Commonwealth Overhaul V. 1.01-41008-1-01-1570370679.7z",
+        "Size": 310489,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 168163,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 41008,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cTlZI+OgQuE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=41884\nfileID=171809",
+        "Name": "Excavator Power Armor-41884-Alpha-v3-3-1575138377.7z",
+        "Size": 463352520,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 171809,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 41884,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wnSTXhPGevw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=48074\nfileID=193628",
+        "Name": "Horizon-Facials-Patch-48074-1-0-1603536487.1.7z",
+        "Size": 1540,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 193628,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 48074,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GxH7CsisWx4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=46958\nfileID=262024",
+        "Name": "Far West Minutemen - Horizon Patch-46958-1-0-1672592042.zip",
+        "Size": 1610820,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 262024,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 46958,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "F4OiU8zWWCo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=49997\nfileID=201941",
+        "Name": "Photo Mode 1.0.3-49997-1-0-3-1613821040.zip",
+        "Size": 230429,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 201941,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 49997,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QaQ0cj5JNhw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=62833\nfileID=246551",
+        "Name": "LtApollo Collection Standalone-62833-1-0-2-1660369688.7z",
+        "Size": 35246135,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 246551,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 62833,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "aR5o7A/SBqM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=31657\nfileID=239763",
+        "Name": "Horizon - Power Armor Patches-31657-0-6-18-1654518973.zip",
+        "Size": 6635901,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 239763,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 31657,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1MNuo7wSnsI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=17374\nfileID=173748",
+        "Name": "Horizon 1.8.0 BETA-7-17374-1-8-0-1578191234.zip",
+        "Size": 401461568,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 173748,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 17374,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sgZxuRJCLac=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=66707\nfileID=259328",
+        "Name": "Horizon Crop Replacer-66707-001-1670266114.zip",
+        "Size": 78963,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 259328,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 66707,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HWLE23vc+d0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=39320\nfileID=228201",
+        "Name": "v1.88a Horizon Weapon Patches-39320-v1-88a-1643568129.7z",
+        "Size": 38048675,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 228201,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 39320,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0edxVQmGK7Y=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=32128\nfileID=142479",
+        "Name": "Lee Enfield No. 4 Mk. 1 1.5-32128-1-5.rar",
+        "Size": 44915191,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 142479,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 32128,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rzXWXhRm6qo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=41272\nfileID=167396",
+        "Name": "Mercenary Outfits Initial Release-41272-1-0-1569346116.zip",
+        "Size": 137545680,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 167396,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 41272,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Va38fNyqnWE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=46958\nfileID=231327",
+        "Name": "NCR Outfit Pack - Horizon Patch-46958-1-0-1646495968.zip",
+        "Size": 4143,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 231327,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 46958,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OfvamEiNQWA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=64405\nfileID=250927",
+        "Name": "PRPFX Boston Commons-64405-1-1663433256.7z",
+        "Size": 25901624,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 250927,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 64405,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HMViK3ojo2c=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=64405\nfileID=250930",
+        "Name": "PRPFX Financial District-64405-1-1663433584.7z",
+        "Size": 29287461,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 250930,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 64405,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kSNeVANR5SQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=31028\nfileID=142837",
+        "Name": "Rusty Face Fix-31028-1-2-1a.zip",
+        "Size": 42057,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 142837,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 31028,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9lX9XdfXoZs=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=47549\nfileID=197824",
+        "Name": "True Invisibility 3.2 FOMOD-47549-3-2-1609275488.7z",
+        "Size": 105907,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 197824,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 47549,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0upCAG2MlIg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=26386\nfileID=110924",
+        "Name": "Wattz Laser Gun-26386-1-3-1.zip",
+        "Size": 124892005,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 110924,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 26386,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Tdl5KESb3ZQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=23389\nfileID=255516",
+        "Name": "Wetness Shader Fix-23389-3-6-2-1667405114.7z",
+        "Size": 148762541,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 255516,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 23389,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wJd3Hdgz1ak=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4006-PipBoy(Chrome) - Textures.ba2",
+        "Name": "Data_ccBGSFO4006-PipBoy(Chrome) - Textures.ba2",
+        "Size": 3563635,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4006-PipBoy(Chrome) - Textures.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "wJd3Hdgz1ak="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MPp6qxH4cRI=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4044-HellfirePowerArmor - Textures.ba2",
+        "Name": "Data_ccBGSFO4044-HellfirePowerArmor - Textures.ba2",
+        "Size": 76970780,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4044-HellfirePowerArmor - Textures.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "MPp6qxH4cRI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iH91kpboDws=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCCoast.esm",
+        "Name": "Data_DLCCoast.esm",
+        "Size": 74565260,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCCoast.esm",
+          "GameVersion": "1.10.163.0",
+          "Hash": "iH91kpboDws="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "teoU9OialzM=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot.esm",
+        "Name": "Data_DLCRobot.esm",
+        "Size": 8012051,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCRobot.esm",
+          "GameVersion": "1.10.163.0",
+          "Hash": "teoU9OialzM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LYGu6RJiDsU=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop03 - Voices_en.ba2",
+        "Name": "Data_DLCworkshop03 - Voices_en.ba2",
+        "Size": 51750623,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCworkshop03 - Voices_en.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "LYGu6RJiDsU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "afrjCm9u0gE=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Sounds.ba2",
+        "Name": "Data_Fallout4 - Sounds.ba2",
+        "Size": 1579741414,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Sounds.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "afrjCm9u0gE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8VSxfWLwaQI=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4.cdx",
+        "Name": "Data_Fallout4.cdx",
+        "Size": 23360440,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4.cdx",
+          "GameVersion": "1.10.163.0",
+          "Hash": "8VSxfWLwaQI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "21h4TOKduN0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=42147\nfileID=253313",
+        "Name": "Fallout 4 Script Extender (F4SE)-42147-0-6-23-1665656782.7z",
+        "Size": 650275,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 253313,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 42147,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "T0TEuUkhdT8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=48958\nfileID=255391",
+        "Name": "FallUI - Confirm Boxes-48958-2-2-3-1667318727.rar",
+        "Size": 1470559,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 255391,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 48958,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zo201+fxdIE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=36768\nfileID=178116",
+        "Name": "FOV Slider and Player Height - ESL version-36768-1-3-1585132456.zip",
+        "Size": 4394,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 178116,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 36768,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QMIHQScpX7E=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56997\nfileID=225311",
+        "Name": "MCM Booster-56997-1-0-1641058633.rar",
+        "Size": 649135,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 225311,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 56997,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VapF64VPYtk=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\CHARISMA.bk2",
+        "Name": "Data_Video_CHARISMA.bk2",
+        "Size": 400271092,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Video\\CHARISMA.bk2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "VapF64VPYtk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TTUAjzyJV0w=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\STRENGTH.bk2",
+        "Name": "Data_Video_STRENGTH.bk2",
+        "Size": 346788624,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Video\\STRENGTH.bk2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "TTUAjzyJV0w="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uHy09/6RMcE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=46958\nfileID=202545",
+        "Name": "Capital Wasteland Outfit Pack - Horizon Patch-46958-1-0-1614522464.zip",
+        "Size": 25641,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 202545,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 46958,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "V7vLB6+D+MI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51813\nfileID=257220",
+        "Name": "FallUI - HUD-51813-1-7-1-1668637124.rar",
+        "Size": 2375261,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 257220,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 51813,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "E9Q5O3eCpjw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27972\nfileID=117057",
+        "Name": "Far West Minutemen - Vanilla - EVB - v.2.1-27972-2-1.rar",
+        "Size": 482047575,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 117057,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 27972,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0giElXrDAI8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=46958\nfileID=202546",
+        "Name": "Merc Outfit Pack - Horizon Patch-46958-1-0-1614522527.zip",
+        "Size": 4959,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 202546,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 46958,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "z/meV7U+lvI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=15539\nfileID=172192",
+        "Name": "Stumble Upon Interiors-15539-4-2-1575722606.7z",
+        "Size": 363707,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 172192,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 15539,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1sZrn5/5Idk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=34545\nfileID=150305",
+        "Name": "AARP Addon Versions-34545-1-21-1547804185.7z",
+        "Size": 26948086,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 150305,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 34545,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eIF7EDsVW/w=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=48758\nfileID=254844",
+        "Name": "FallUI - Inventory-48758-2-2-1-1666954336.rar",
+        "Size": 2818705,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 254844,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 48758,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1lTRdku6xkM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=49920\nfileID=238011",
+        "Name": "FallUI - Map-49920-2-1-1652891829.rar",
+        "Size": 995847,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 238011,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 49920,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rpVzLYvkluo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=49070\nfileID=256778",
+        "Name": "FallUI - Sleep And Wait-49070-1-4-1668288607.rar",
+        "Size": 798024,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 256778,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 49070,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Wq9MDHJma3Q=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=49300\nfileID=255499",
+        "Name": "FallUI - Workbench-49300-1-4-1-r2-1667395902.rar",
+        "Size": 962776,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 255499,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 49300,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9pow/a79Q9w=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=29969\nfileID=153467",
+        "Name": "PA HoloHUD-29969-1-1-1551627811.7z",
+        "Size": 167819,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 153467,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 29969,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8FL8QdERw7s=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56195\nfileID=257096",
+        "Name": "MCM Settings Manager-56195-1-2-1668562769.rar",
+        "Size": 138229,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 257096,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 56195,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MGAfEhwEKRE=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Fallout4Launcher.exe",
+        "Name": "Fallout4Launcher.exe",
+        "Size": 4522496,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Fallout4Launcher.exe",
+          "GameVersion": "1.10.163.0",
+          "Hash": "MGAfEhwEKRE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "89OO9/7jaFM=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=nvdebris.txt",
+        "Name": "nvdebris.txt",
+        "Size": 6559,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "nvdebris.txt",
+          "GameVersion": "1.10.163.0",
+          "Hash": "89OO9/7jaFM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "der03NqEFqM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=46958\nfileID=245075",
+        "Name": "Capital Wasteland Outfit Pack Part II - Horizon Patch-46958-1-0-1659200128.zip",
+        "Size": 10656,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 245075,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 46958,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FHLUqmYMPBI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56173\nfileID=222747",
+        "Name": "Horizon Hangman\u0027s Alley FPS FIx-56173-0-2-1638352037.7z",
+        "Size": 9900469,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 222747,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 56173,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6lxxU4c2Rgc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=37535\nfileID=152816",
+        "Name": "Hunting Revolver and Ranger Sequoia (Far Harbor version)-37535-1-02hotfix-1550944726.rar",
+        "Size": 55588188,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 152816,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 37535,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "70vjaYX/ZLs=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=46958\nfileID=262021",
+        "Name": "M1911 - WARS - Horizon Patch-46958-1-0-1672591533.zip",
+        "Size": 12814,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 262021,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 46958,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qKNu12KreaY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=46589\nfileID=188004",
+        "Name": "Red Shift PA-46589-1-0-1596125349.7z",
+        "Size": 174566374,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 188004,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 46589,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Dqb0VCwKsQs=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=32361\nfileID=134052",
+        "Name": "Service Rifle-32361-0-96.zip",
+        "Size": 260609606,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 134052,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 32361,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dn+3rcPGxBc=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4016-Prey - Main.ba2",
+        "Name": "Data_ccBGSFO4016-Prey - Main.ba2",
+        "Size": 3756456,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4016-Prey - Main.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "dn+3rcPGxBc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "f+yGNLn7jN0=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccFRSFO4001-HandmadeShotgun - Main.ba2",
+        "Name": "Data_ccFRSFO4001-HandmadeShotgun - Main.ba2",
+        "Size": 2598316,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccFRSFO4001-HandmadeShotgun - Main.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "f+yGNLn7jN0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "enQfKf4uPUM=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld - Geometry.csg",
+        "Name": "Data_DLCNukaWorld - Geometry.csg",
+        "Size": 104296054,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCNukaWorld - Geometry.csg",
+          "GameVersion": "1.10.163.0",
+          "Hash": "enQfKf4uPUM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5PK+9Mh4jhQ=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop01 - Geometry.csg",
+        "Name": "Data_DLCworkshop01 - Geometry.csg",
+        "Size": 5824,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCworkshop01 - Geometry.csg",
+          "GameVersion": "1.10.163.0",
+          "Hash": "5PK+9Mh4jhQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6kSvV9UAFjA=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop03.cdx",
+        "Name": "Data_DLCworkshop03.cdx",
+        "Size": 696408,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCworkshop03.cdx",
+          "GameVersion": "1.10.163.0",
+          "Hash": "6kSvV9UAFjA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4V/K/sLdEXo=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Startup.ba2",
+        "Name": "Data_Fallout4 - Startup.ba2",
+        "Size": 56024998,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Startup.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "4V/K/sLdEXo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "z0MibPYzG6g=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4.esm",
+        "Name": "Data_Fallout4.esm",
+        "Size": 330745373,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4.esm",
+          "GameVersion": "1.10.163.0",
+          "Hash": "z0MibPYzG6g="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Ba8gpxkxUjE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=26582\nfileID=120757",
+        "Name": "Better Console-26582-v1-4-0.7z",
+        "Size": 196118,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 120757,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 26582,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "I+Tg+bKVsRM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=21497\nfileID=172180",
+        "Name": "Mod Configuration Menu 1.39-21497-1-39-1575706632.zip",
+        "Size": 371675,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 172180,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 21497,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LoodhtJofQg=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\Endgame_FEMALE_A.bk2",
+        "Name": "Data_Video_Endgame_FEMALE_A.bk2",
+        "Size": 221085404,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Video\\Endgame_FEMALE_A.bk2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "LoodhtJofQg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hX0eAq03RcY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=46101\nfileID=242541",
+        "Name": "Classic Holstered Weapons - v1.06b-46101-1-06b-1657039902.zip",
+        "Size": 253082,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 242541,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 46101,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bxERKoM90KA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=44798\nfileID=242328",
+        "Name": "High FPS Physics Fix-44798-0-8-6-1656849140.zip",
+        "Size": 168212,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 242328,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 44798,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "H7rw0InMdbQ=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Fallout4_Default.ini",
+        "Name": "Fallout4_Default.ini",
+        "Size": 2465,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Fallout4_Default.ini",
+          "GameVersion": "1.10.163.0",
+          "Hash": "H7rw0InMdbQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "n2WNb9PJnMg=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=nvToolsExt64_1.dll",
+        "Name": "nvToolsExt64_1.dll",
+        "Size": 42496,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "nvToolsExt64_1.dll",
+          "GameVersion": "1.10.163.0",
+          "Hash": "n2WNb9PJnMg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0B3PP/6ec9s=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=54859\nfileID=226222",
+        "Name": "Keep Radiants in the Commonwealth-54859-1-0-1641942066.zip",
+        "Size": 6834,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 226222,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 54859,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iNtLfmyy08w=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53998\nfileID=217146",
+        "Name": "Zap Gun-53998-1-4-1631891092.7z",
+        "Size": 246267802,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 217146,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 53998,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "30dm93nAr5k=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=59019\nfileID=233175",
+        "Name": "Who\u0027s The General - Minutemen Quest Cleanup-59019-1-04-1648414402.zip",
+        "Size": 674723,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 233175,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 59019,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "aJ/+FbS8l8I=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4016-Prey - Textures.ba2",
+        "Name": "Data_ccBGSFO4016-Prey - Textures.ba2",
+        "Size": 30169697,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4016-Prey - Textures.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "aJ/+FbS8l8I="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "B8lpq2xfp5M=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccFRSFO4001-HandmadeShotgun - Textures.ba2",
+        "Name": "Data_ccFRSFO4001-HandmadeShotgun - Textures.ba2",
+        "Size": 31347740,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccFRSFO4001-HandmadeShotgun - Textures.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "B8lpq2xfp5M="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yeYGRk7MRfk=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld - Main.ba2",
+        "Name": "Data_DLCNukaWorld - Main.ba2",
+        "Size": 1488519533,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCNukaWorld - Main.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "yeYGRk7MRfk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "NSbXTb5XeJw=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop01 - Main.ba2",
+        "Name": "Data_DLCworkshop01 - Main.ba2",
+        "Size": 55469349,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCworkshop01 - Main.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "NSbXTb5XeJw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tSG9pGxASuw=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop03.esm",
+        "Name": "Data_DLCworkshop03.esm",
+        "Size": 2971385,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCworkshop03.esm",
+          "GameVersion": "1.10.163.0",
+          "Hash": "tSG9pGxASuw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eSJIc0P2BFo=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures1.ba2",
+        "Name": "Data_Fallout4 - Textures1.ba2",
+        "Size": 2703605715,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures1.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "eSJIc0P2BFo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bVJrF0HZaBk=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\Endgame_FEMALE_B.bk2",
+        "Name": "Data_Video_Endgame_FEMALE_B.bk2",
+        "Size": 191813488,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Video\\Endgame_FEMALE_B.bk2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "bVJrF0HZaBk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "b3IMlDOoVr0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=26163\nfileID=114124",
+        "Name": "Unlimited Survival Mode - F4SE-26163-v1-4-0.7z",
+        "Size": 111275,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 114124,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 26163,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JQu+WUn5VMk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=52315\nfileID=208918",
+        "Name": "PA Ownership Fix (with No PA Battery Pathing)-52315-1-0-1622200319.rar",
+        "Size": 3405,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 208918,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 52315,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3hkCspad584=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=flexExtRelease_x64.dll",
+        "Name": "flexExtRelease_x64.dll",
+        "Size": 353280,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "flexExtRelease_x64.dll",
+          "GameVersion": "1.10.163.0",
+          "Hash": "3hkCspad584="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XEqXAcAgOQ8=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=steam_api64.dll",
+        "Name": "steam_api64.dll",
+        "Size": 206760,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "steam_api64.dll",
+          "GameVersion": "1.10.163.0",
+          "Hash": "XEqXAcAgOQ8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pWPHtfE2f1o=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=28399\nfileID=116215",
+        "Name": "Caravan Shotgun-28399-1-0.zip",
+        "Size": 85782045,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 116215,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 28399,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5MeIuGZTobk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=60773\nfileID=238854",
+        "Name": "Horizon-Commonwealth_Overhaul_Patch_v001_Patch_v001-60773-001-1653751491.zip",
+        "Size": 28193,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 238854,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 60773,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oc1hv/bMcbE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=44107\nfileID=223662",
+        "Name": "Exit Terminals Ready For Combat-44107-1-5-1639295428.7z",
+        "Size": 8770,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 223662,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 44107,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "epKo0NAOlhA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27216\nfileID=172181",
+        "Name": "Extended Dialogue Interface 1.3.6-27216-1-3-6-1575706721.zip",
+        "Size": 266498,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 172181,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 27216,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xASjFL64Wbo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=57101\nfileID=261169",
+        "Name": "Fast Start - Skip Prewar Sanctuary-57101-1-2-6-1671648926.zip",
+        "Size": 342451,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 261169,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 57101,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KdEYURIYna4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=43740\nfileID=176993",
+        "Name": "Fortune Finder 4 Fix - Basic Bottlecap Mine-43740-1-1-1583316002.7z",
+        "Size": 2994,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 176993,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 43740,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "B8EAIXZaAIc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=32036\nfileID=156706",
+        "Name": "Handmade Anti-Materiel Rifle (REDUX) -2K-32036-2-0-1556115954.zip",
+        "Size": 57137551,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 156706,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 32036,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "j3T6PP8JcUM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=17374\nfileID=185877",
+        "Name": "Horizon v1.8 Fixes ESP-17374-1-8-0-1593821467.zip",
+        "Size": 3265,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 185877,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 17374,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bV/elbAZHdQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=30868\nfileID=150134",
+        "Name": "LAER 1.24 hotfix 1-30868-1-24hotfix1-1547570375.rar",
+        "Size": 140629197,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 150134,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 30868,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FdM5Yl1TGsE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=38448\nfileID=261840",
+        "Name": "LOST Audio Tweaks-38448-4-1-1672415719.zip",
+        "Size": 151466244,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 261840,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 38448,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "n8Z4CRw8380=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51449\nfileID=216317",
+        "Name": "Makeshift shotgun-51449-1-21-1630938575.7z",
+        "Size": 38522582,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 216317,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 51449,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KrqaJ6NHbWU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56885\nfileID=227064",
+        "Name": "Ownership Fixes-56885-1-3-1-1642555495.7z",
+        "Size": 81278,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 227064,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 56885,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XV8HJJzR99U=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=46958\nfileID=249203",
+        "Name": "True Invisibility Redux - Horizon Patch-46958-1-0-1662141484.zip",
+        "Size": 3840,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 249203,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 46958,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xjsOyp0Lc0w=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4018-GaussRiflePrototype - Main.ba2",
+        "Name": "Data_ccBGSFO4018-GaussRiflePrototype - Main.ba2",
+        "Size": 15960669,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4018-GaussRiflePrototype - Main.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "xjsOyp0Lc0w="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cuH4jqgTmsw=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccFSVFO4001-ModularMilitaryBackpack - Main.ba2",
+        "Name": "Data_ccFSVFO4001-ModularMilitaryBackpack - Main.ba2",
+        "Size": 15287090,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccFSVFO4001-ModularMilitaryBackpack - Main.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "cuH4jqgTmsw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tyLRjoIIfxU=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld - Textures.ba2",
+        "Name": "Data_DLCNukaWorld - Textures.ba2",
+        "Size": 2348553100,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCNukaWorld - Textures.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "tyLRjoIIfxU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9j6x2tylIXw=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop01 - Textures.ba2",
+        "Name": "Data_DLCworkshop01 - Textures.ba2",
+        "Size": 23234600,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCworkshop01 - Textures.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "9j6x2tylIXw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cOE0AgYtiZk=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Animations.ba2",
+        "Name": "Data_Fallout4 - Animations.ba2",
+        "Size": 359787743,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Animations.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "cOE0AgYtiZk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9hQSwQke0ic=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures2.ba2",
+        "Name": "Data_Fallout4 - Textures2.ba2",
+        "Size": 2410629991,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures2.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "9hQSwQke0ic="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eRaBcpxid4Y=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=41178\nfileID=209407",
+        "Name": "Bullet Counted Reload - v.2.00-41178-2-00-1622713974.zip",
+        "Size": 240029,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 209407,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 41178,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fBym78ppD2w=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=9424\nfileID=172081",
+        "Name": "Place (Fallout4 1.10.163 - latest release)-9424-1-18-0-1163-1575581603.7z",
+        "Size": 627762,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 172081,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 9424,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hXxGyQgKDmA=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\Endgame_MALE_A.bk2",
+        "Name": "Data_Video_Endgame_MALE_A.bk2",
+        "Size": 221373680,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Video\\Endgame_MALE_A.bk2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "hXxGyQgKDmA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wvfNBePIyHY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=47327\nfileID=191018",
+        "Name": "Addres Library-47327-1-10-163-0-1599728753.zip",
+        "Size": 9554761,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 191018,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 47327,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6Wql/l6hLVI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27479\nfileID=172411",
+        "Name": "Crafting Highlight Fix 1.8.8-27479-1-8-8-1576067808.zip",
+        "Size": 145150,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 172411,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 27479,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uBVLXYt/5ps=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=46958\nfileID=241201",
+        "Name": "Raider Overhaul (4estGimp) - Horizon Patch-46958-1-0-1655830346.zip",
+        "Size": 94975,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 241201,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 46958,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YUPgMom+RCg=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=flexRelease_x64.dll",
+        "Name": "flexRelease_x64.dll",
+        "Size": 1299968,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "flexRelease_x64.dll",
+          "GameVersion": "1.10.163.0",
+          "Hash": "YUPgMom+RCg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CrCm93klFsA=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Ultra.ini",
+        "Name": "Ultra.ini",
+        "Size": 1231,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Ultra.ini",
+          "GameVersion": "1.10.163.0",
+          "Hash": "CrCm93klFsA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bx7u4aX/QEA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=41380\nfileID=168094",
+        "Name": "CW Misc Outfit Pack-41380-2-0-1570257743.zip",
+        "Size": 161320830,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 168094,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 41380,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XtCsF/xGw0A=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=36374\nfileID=158355",
+        "Name": "RobCo Recon Scope Replacer - Main File-36374-1-03-1558554685.7z",
+        "Size": 33487893,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 158355,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 36374,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hTIC7vC6tVc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=60773\nfileID=238869",
+        "Name": "Horizon-Stumble_Upon_Interiors_Patch_v001-60773-001-1653752429.zip",
+        "Size": 33479,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 238869,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 60773,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rcK9qjmc88s=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4018-GaussRiflePrototype - Textures.ba2",
+        "Name": "Data_ccBGSFO4018-GaussRiflePrototype - Textures.ba2",
+        "Size": 14041713,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4018-GaussRiflePrototype - Textures.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "rcK9qjmc88s="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qvltobwiDWQ=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccFSVFO4001-ModularMilitaryBackpack - Textures.ba2",
+        "Name": "Data_ccFSVFO4001-ModularMilitaryBackpack - Textures.ba2",
+        "Size": 52674155,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccFSVFO4001-ModularMilitaryBackpack - Textures.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "qvltobwiDWQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bwxtIyv3HCE=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld - Voices_en.ba2",
+        "Name": "Data_DLCNukaWorld - Voices_en.ba2",
+        "Size": 310189745,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCNukaWorld - Voices_en.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "bwxtIyv3HCE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kpd3a0YL76g=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop01.cdx",
+        "Name": "Data_DLCworkshop01.cdx",
+        "Size": 2168,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCworkshop01.cdx",
+          "GameVersion": "1.10.163.0",
+          "Hash": "kpd3a0YL76g="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WPVCET93lo0=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Geometry.csg",
+        "Name": "Data_Fallout4 - Geometry.csg",
+        "Size": 240043177,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Geometry.csg",
+          "GameVersion": "1.10.163.0",
+          "Hash": "WPVCET93lo0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2tsTjIrBltY=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures3.ba2",
+        "Name": "Data_Fallout4 - Textures3.ba2",
+        "Size": 2101083744,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures3.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "2tsTjIrBltY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DA70ALt6XyI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=41178\nfileID=167402",
+        "Name": "BCR- Lever Action Rifle v1.02-41178-1-02-1569349299.zip",
+        "Size": 58173,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 167402,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 41178,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "El+gvjk5f30=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\Endgame_MALE_B.bk2",
+        "Name": "Data_Video_Endgame_MALE_B.bk2",
+        "Size": 194541812,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Video\\Endgame_MALE_B.bk2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "El+gvjk5f30="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1jIAmnWhn44=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=23136\nfileID=172413",
+        "Name": "Autoswitch 1.5.10-23136-1-5-10-1576067876.zip",
+        "Size": 149778,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 172413,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 23136,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "o6oWTouG2sA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=48078\nfileID=194684",
+        "Name": "Weapon Debris Crash Fix-48078-1-2-1605028967.1.zip",
+        "Size": 48488,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 194684,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 48078,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rCo6DIZ1mqg=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=bink2w64.dll",
+        "Name": "bink2w64.dll",
+        "Size": 427520,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "bink2w64.dll",
+          "GameVersion": "1.10.163.0",
+          "Hash": "rCo6DIZ1mqg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iOWMAmSK+S4=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=GFSDK_GodraysLib.x64.dll",
+        "Name": "GFSDK_GodraysLib.x64.dll",
+        "Size": 348160,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "GFSDK_GodraysLib.x64.dll",
+          "GameVersion": "1.10.163.0",
+          "Hash": "iOWMAmSK+S4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xc6E1X9RmCM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=46958\nfileID=204633",
+        "Name": "AARP (Alternative Assault Rifle Properties) - Horizon Patch-46958-1-0-1616945869.zip",
+        "Size": 2430,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 204633,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 46958,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Rj5BH3tBcf8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53545\nfileID=235104",
+        "Name": "Enclave X-02 Power Armor-53545-1-3-1650144886.7z",
+        "Size": 96849361,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 235104,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 53545,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Wz41Huy6m4o=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=65911\nfileID=262447",
+        "Name": "Horizon 1.8 Hotfixes-65911-007-1672869263.zip",
+        "Size": 12227,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 262447,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 65911,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uiH0EJxgBKg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27320\nfileID=225622",
+        "Name": "Inside Jobs-27320-4-01-1641323841.zip",
+        "Size": 29955912,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 225622,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 27320,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CEV1Hgaazjw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=46958\nfileID=249202",
+        "Name": "Ownership Fixes - Horizon Patch-46958-1-0-1662141450.zip",
+        "Size": 64847,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 249202,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 46958,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mcVPAZt64C0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=64405\nfileID=250928",
+        "Name": "PRPFX Corvega-64405-1-1663433400.7z",
+        "Size": 26742272,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 250928,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 64405,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wV8olD2YO+U=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=59019\nfileID=232741",
+        "Name": "Keep Radiants in the Commonwealth Patch-59019-1-00-1648046534.zip",
+        "Size": 14425,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 232741,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 59019,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bjYdgyAwG7M=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4001-PipBoy(Black) - Main.ba2",
+        "Name": "Data_ccBGSFO4001-PipBoy(Black) - Main.ba2",
+        "Size": 5961,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4001-PipBoy(Black) - Main.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "bjYdgyAwG7M="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HPcRGvbRBrk=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4019-ChineseStealthArmor - Main.ba2",
+        "Name": "Data_ccBGSFO4019-ChineseStealthArmor - Main.ba2",
+        "Size": 1782122,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4019-ChineseStealthArmor - Main.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "HPcRGvbRBrk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wdz/mlci+Q0=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccFSVFO4002-MidCenturyModern - Main.ba2",
+        "Name": "Data_ccFSVFO4002-MidCenturyModern - Main.ba2",
+        "Size": 1067454,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccFSVFO4002-MidCenturyModern - Main.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "wdz/mlci+Q0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WvYNLjRFMnI=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld.cdx",
+        "Name": "Data_DLCNukaWorld.cdx",
+        "Size": 5133432,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCNukaWorld.cdx",
+          "GameVersion": "1.10.163.0",
+          "Hash": "WvYNLjRFMnI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JacRtCQOixw=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop01.esm",
+        "Name": "Data_DLCworkshop01.esm",
+        "Size": 633592,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCworkshop01.esm",
+          "GameVersion": "1.10.163.0",
+          "Hash": "JacRtCQOixw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Iyw/CFakwxY=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Interface.ba2",
+        "Name": "Data_Fallout4 - Interface.ba2",
+        "Size": 472617933,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Interface.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "Iyw/CFakwxY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "US7beXF4oY4=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures4.ba2",
+        "Name": "Data_Fallout4 - Textures4.ba2",
+        "Size": 1999988681,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures4.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "US7beXF4oY4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ume9hjtjdTg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=29922\nfileID=122365",
+        "Name": "Sniper Scope Overlay And Reticle Replacement-29922-1-0.zip",
+        "Size": 60340,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 122365,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 29922,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MaMuXs7RoUk=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\ENDURANCE.bk2",
+        "Name": "Data_Video_ENDURANCE.bk2",
+        "Size": 371586760,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Video\\ENDURANCE.bk2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "MaMuXs7RoUk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+uE7AJpXH/4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=50837\nfileID=250407",
+        "Name": "Terrain Undersides-50837-5-0-1662977532.7z",
+        "Size": 242717252,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 250407,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 50837,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9paFl7BG300=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=cudart64_75.dll",
+        "Name": "cudart64_75.dll",
+        "Size": 360736,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "cudart64_75.dll",
+          "GameVersion": "1.10.163.0",
+          "Hash": "9paFl7BG300="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9Tl44n/Hycc=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=GFSDK_SSAO_D3D11.win64.dll",
+        "Name": "GFSDK_SSAO_D3D11.win64.dll",
+        "Size": 550400,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "GFSDK_SSAO_D3D11.win64.dll",
+          "GameVersion": "1.10.163.0",
+          "Hash": "9Tl44n/Hycc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VBAzy6gR5rY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=20093\nfileID=105840",
+        "Name": "Automatically Lowered Weapons-20093-1-4.rar",
+        "Size": 3911,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 105840,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 20093,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "N6vvSSTPoZY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=13459\nfileID=88106",
+        "Name": "Everyone\u0027s Best Friend v3.0.0-13459-3-0-0.rar",
+        "Size": 81039,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 88106,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 13459,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qOKSOOkGK5Q=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=37180\nfileID=227413",
+        "Name": "Facials ESP-37180-1-7-1642833852.7z",
+        "Size": 669649,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 227413,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 37180,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JP1Z6S20DSg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=11664\nfileID=63892",
+        "Name": "FO4 Hotkeys - Option 1 - Full - v1.2-11664-1-2.zip",
+        "Size": 11579,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 63892,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 11664,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hEpszvO8FPI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=38448\nfileID=261841",
+        "Name": "LOST Audio Tweaks - No RAO Replacer-38448-NoRAO4-1-1672415747.zip",
+        "Size": 83519,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 261841,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 38448,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VHsIokZXP6E=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=62958\nfileID=246721",
+        "Name": "Targeted Textures-62958-1-2-1660474275.7z",
+        "Size": 496754195,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 246721,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 62958,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QkS9ceTLbOo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=46958\nfileID=218767",
+        "Name": "The Zap Gun - Horizon-46958-1-0-1633711668.zip",
+        "Size": 36762,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 218767,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 46958,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QYpjXWpF1Vc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=4598\nfileID=244732",
+        "Name": "Unofficial Fallout 4 Patch-4598-2-1-4-1658972157.7z",
+        "Size": 28453436,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 244732,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 4598,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "y0RiG4yW3oY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=20775\nfileID=217851",
+        "Name": "WET - Water Enhancement Textures-20775-2-0-4-1632721677.7z",
+        "Size": 56885004,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 217851,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 20775,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "A6B/St/KNNk=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4001-PipBoy(Black) - Textures.ba2",
+        "Name": "Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2",
+        "Size": 1480206,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4001-PipBoy(Black) - Textures.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "A6B/St/KNNk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jnKmGxduIvg=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4019-ChineseStealthArmor - Textures.ba2",
+        "Name": "Data_ccBGSFO4019-ChineseStealthArmor - Textures.ba2",
+        "Size": 21812857,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4019-ChineseStealthArmor - Textures.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "jnKmGxduIvg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vnWEF+tBw2U=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccFSVFO4002-MidCenturyModern - Textures.ba2",
+        "Name": "Data_ccFSVFO4002-MidCenturyModern - Textures.ba2",
+        "Size": 124400219,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccFSVFO4002-MidCenturyModern - Textures.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "vnWEF+tBw2U="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vSJ86DGuiNU=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld.esm",
+        "Name": "Data_DLCNukaWorld.esm",
+        "Size": 64313805,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCNukaWorld.esm",
+          "GameVersion": "1.10.163.0",
+          "Hash": "vSJ86DGuiNU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ddakhPbOSKk=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop02 - Main.ba2",
+        "Name": "Data_DLCworkshop02 - Main.ba2",
+        "Size": 95186371,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCworkshop02 - Main.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "ddakhPbOSKk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1rpEjroQWgI=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Materials.ba2",
+        "Name": "Data_Fallout4 - Materials.ba2",
+        "Size": 1770500,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Materials.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "1rpEjroQWgI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "C02YyoI9G1U=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures5.ba2",
+        "Name": "Data_Fallout4 - Textures5.ba2",
+        "Size": 1963767149,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures5.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "C02YyoI9G1U="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "g4fzJkOFuEA=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\GameIntro_V3_B.bk2",
+        "Name": "Data_Video_GameIntro_V3_B.bk2",
+        "Size": 27330800,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Video\\GameIntro_V3_B.bk2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "g4fzJkOFuEA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "AkonBSPQylo=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=High.ini",
+        "Name": "High.ini",
+        "Size": 1220,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "High.ini",
+          "GameVersion": "1.10.163.0",
+          "Hash": "AkonBSPQylo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TqFwFE1j1+g=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=23102\nfileID=234845",
+        "Name": "Institute and standard lasers-23102-1-5-2-1649963564.7z",
+        "Size": 6090907,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 234845,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 23102,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ByPA6mHEcP8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=29922\nfileID=122471",
+        "Name": "Depth of Field Effect ESP-29922-1-0.zip",
+        "Size": 877,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 122471,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 29922,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "N+lKFWywhHE=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4003-PipBoy(Camo01) - Main.ba2",
+        "Name": "Data_ccBGSFO4003-PipBoy(Camo01) - Main.ba2",
+        "Size": 6409,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4003-PipBoy(Camo01) - Main.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "N+lKFWywhHE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XmBEuJXPI9I=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4020-PowerArmorSkin(Black) - Main.ba2",
+        "Name": "Data_ccBGSFO4020-PowerArmorSkin(Black) - Main.ba2",
+        "Size": 13222,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4020-PowerArmorSkin(Black) - Main.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "XmBEuJXPI9I="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "q2pgd0fAwBs=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCCoast - Geometry.csg",
+        "Name": "Data_DLCCoast - Geometry.csg",
+        "Size": 100938421,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCCoast - Geometry.csg",
+          "GameVersion": "1.10.163.0",
+          "Hash": "q2pgd0fAwBs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "owh6rCKibPs=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Geometry.csg",
+        "Name": "Data_DLCRobot - Geometry.csg",
+        "Size": 32496988,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCRobot - Geometry.csg",
+          "GameVersion": "1.10.163.0",
+          "Hash": "owh6rCKibPs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+wSzOyMqqpU=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop02 - Textures.ba2",
+        "Name": "Data_DLCworkshop02 - Textures.ba2",
+        "Size": 169146799,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCworkshop02 - Textures.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "+wSzOyMqqpU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "L1RdvbPgIk8=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Meshes.ba2",
+        "Name": "Data_Fallout4 - Meshes.ba2",
+        "Size": 1493340537,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Meshes.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "L1RdvbPgIk8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uLoMqo2Gyf0=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures6.ba2",
+        "Name": "Data_Fallout4 - Textures6.ba2",
+        "Size": 1382855876,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures6.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "uLoMqo2Gyf0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BzRLuv5/0Ss=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\INTELLIGENCE.bk2",
+        "Name": "Data_Video_INTELLIGENCE.bk2",
+        "Size": 386805116,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Video\\INTELLIGENCE.bk2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "BzRLuv5/0Ss="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HDfCs1J0an0=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=installscript.vdf",
+        "Name": "installscript.vdf",
+        "Size": 606,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "installscript.vdf",
+          "GameVersion": "1.10.163.0",
+          "Hash": "HDfCs1J0an0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LPSyewW2M4A=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51658\nfileID=252853",
+        "Name": "4estGimp - Raider Overhaul ONE - All Files No AWKCR-51658-1-6-1665314359.7z",
+        "Size": 534123936,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 252853,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 51658,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3xRf5BiQK5U=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=17374\nfileID=254805",
+        "Name": "Architect Texture Pack v1.3-17374-1-3-1666916367.zip",
+        "Size": 2863806838,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 254805,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 17374,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "H/DVMWxeppE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=37180\nfileID=227370",
+        "Name": "BETA Facials V1.6 Face Gen Data-37180-BETA-1642794899.7z",
+        "Size": 2281564400,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 227370,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 37180,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xv5vfUsbEjc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=49038\nfileID=198951",
+        "Name": "M1911 - WARS Standalone Weapon v1_0_1-49038-1-0-1-1610516330.7z",
+        "Size": 254155894,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 198951,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 49038,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yNksznv2JYo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=58182\nfileID=229954",
+        "Name": "NCR Outfit Pack-58182-1-1645207765.rar",
+        "Size": 138906332,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 229954,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 58182,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HcZRIP8ylLY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27019\nfileID=139155",
+        "Name": "RAW INPUT - NMM Installer-27019-2-4.zip",
+        "Size": 120396,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 139155,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 27019,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zDEa8gQHgqA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=41999\nfileID=174381",
+        "Name": "Springfield Armory M1A - 2K-41999-1-0-1579092298.rar",
+        "Size": 88362505,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 174381,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 41999,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8i5SrZ/vpZ8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=32713\nfileID=133153",
+        "Name": "Tomacuzi-9 1.1-32713-1-1.zip",
+        "Size": 42954420,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 133153,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 32713,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Y19mZm6r6GM=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4003-PipBoy(Camo01) - Textures.ba2",
+        "Name": "Data_ccBGSFO4003-PipBoy(Camo01) - Textures.ba2",
+        "Size": 2269631,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4003-PipBoy(Camo01) - Textures.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "Y19mZm6r6GM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "D7cCituNZBg=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4020-PowerArmorSkin(Black) - Textures.ba2",
+        "Name": "Data_ccBGSFO4020-PowerArmorSkin(Black) - Textures.ba2",
+        "Size": 31274358,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4020-PowerArmorSkin(Black) - Textures.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "D7cCituNZBg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wz05dMRLI2w=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCCoast - Main.ba2",
+        "Name": "Data_DLCCoast - Main.ba2",
+        "Size": 1446541131,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCCoast - Main.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "wz05dMRLI2w="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JoVk8DvAfxI=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Main.ba2",
+        "Name": "Data_DLCRobot - Main.ba2",
+        "Size": 363294448,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCRobot - Main.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "JoVk8DvAfxI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "olnGlKr39e0=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop02.esm",
+        "Name": "Data_DLCworkshop02.esm",
+        "Size": 677786,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCworkshop02.esm",
+          "GameVersion": "1.10.163.0",
+          "Hash": "olnGlKr39e0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "obsNEwoApkY=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - MeshesExtra.ba2",
+        "Name": "Data_Fallout4 - MeshesExtra.ba2",
+        "Size": 1377740102,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - MeshesExtra.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "obsNEwoApkY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OOFYBpaqgGs=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures7.ba2",
+        "Name": "Data_Fallout4 - Textures7.ba2",
+        "Size": 545959220,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures7.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "OOFYBpaqgGs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RHpv+ziXYaQ=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\Intro.bk2",
+        "Name": "Data_Video_Intro.bk2",
+        "Size": 380362384,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Video\\Intro.bk2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "RHpv+ziXYaQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dhdNwhlGqtI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=47359\nfileID=240199",
+        "Name": "Buffout 4-47359-1-26-2-1654893805.zip",
+        "Size": 856627,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 240199,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 47359,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7AQCyTzsXME=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Low.ini",
+        "Name": "Low.ini",
+        "Size": 1207,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Low.ini",
+          "GameVersion": "1.10.163.0",
+          "Hash": "7AQCyTzsXME="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mv/oT2M0pn4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=59105\nfileID=232973",
+        "Name": "Capital Wasteland Outfit Pack II-59105-1-1648246865.rar",
+        "Size": 476342047,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 232973,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 59105,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mHTbn1UXmGA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=40607\nfileID=164261",
+        "Name": "Classic Underwear Replacer-40607-v1-0-1565642410.rar",
+        "Size": 33120144,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 164261,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 40607,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QquEnwiQWug=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=46958\nfileID=255224",
+        "Name": "Gunners Revisited - Horizon Patch-46958-1-0-1667214512.zip",
+        "Size": 2701,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 255224,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 46958,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lbPl5rgVdo8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=31657\nfileID=239764",
+        "Name": "Horizon - Comprehensive Power Armor Merge-31657-0-6-18-1654518978.zip",
+        "Size": 249626523,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 239764,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 31657,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qbpbEunHYlM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=28891\nfileID=118341",
+        "Name": "Rust Devil Redux-28891--1.rar",
+        "Size": 8556,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 118341,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 28891,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hPC9Ro/3qwY=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4004-PipBoy(Camo02) - Main.ba2",
+        "Name": "Data_ccBGSFO4004-PipBoy(Camo02) - Main.ba2",
+        "Size": 6399,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4004-PipBoy(Camo02) - Main.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "hPC9Ro/3qwY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7qS/lE7k+l0=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4038-HorseArmor - Main.ba2",
+        "Name": "Data_ccBGSFO4038-HorseArmor - Main.ba2",
+        "Size": 2038963,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4038-HorseArmor - Main.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "7qS/lE7k+l0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zYaZD421JpI=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCCoast - Textures.ba2",
+        "Name": "Data_DLCCoast - Textures.ba2",
+        "Size": 1335731328,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCCoast - Textures.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "zYaZD421JpI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VIHeKR5zAPA=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Textures.ba2",
+        "Name": "Data_DLCRobot - Textures.ba2",
+        "Size": 218569835,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCRobot - Textures.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "VIHeKR5zAPA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RNcHKDphAvw=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop03 - Geometry.csg",
+        "Name": "Data_DLCworkshop03 - Geometry.csg",
+        "Size": 22562982,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCworkshop03 - Geometry.csg",
+          "GameVersion": "1.10.163.0",
+          "Hash": "RNcHKDphAvw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RDE6albE4iI=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Misc.ba2",
+        "Name": "Data_Fallout4 - Misc.ba2",
+        "Size": 17399872,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Misc.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "RDE6albE4iI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "roBzLkkqCg4=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures8.ba2",
+        "Name": "Data_Fallout4 - Textures8.ba2",
+        "Size": 602176127,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures8.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "roBzLkkqCg4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kC7mdjZtlec=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\LUCK.bk2",
+        "Name": "Data_Video_LUCK.bk2",
+        "Size": 405196056,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Video\\LUCK.bk2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "kC7mdjZtlec="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yJaWGsnQywI=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Medium.ini",
+        "Name": "Medium.ini",
+        "Size": 1215,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Medium.ini",
+          "GameVersion": "1.10.163.0",
+          "Hash": "yJaWGsnQywI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BSdgKefdjkY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56172\nfileID=222693",
+        "Name": "Bunker Hill FPS Fix-56172-0-1-1638297811.7z",
+        "Size": 9873074,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 222693,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 56172,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PK0TsJNp+kg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=20309\nfileID=93183",
+        "Name": "HUDFramework 1.0f-20309-1-0f.zip",
+        "Size": 287655,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 93183,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 20309,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CNnHV0T2u2A=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=60773\nfileID=238913",
+        "Name": "Horizon-Inside_Jobs_Patch_v002-60773-002-1653780499.zip",
+        "Size": 103385,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 238913,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 60773,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "d51waLflsq0=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4004-PipBoy(Camo02) - Textures.ba2",
+        "Name": "Data_ccBGSFO4004-PipBoy(Camo02) - Textures.ba2",
+        "Size": 2095532,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4004-PipBoy(Camo02) - Textures.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "d51waLflsq0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vYP2IRQ3Tt8=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4038-HorseArmor - Textures.ba2",
+        "Name": "Data_ccBGSFO4038-HorseArmor - Textures.ba2",
+        "Size": 126295340,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4038-HorseArmor - Textures.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "vYP2IRQ3Tt8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nDqoezG/9ao=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCCoast - Voices_en.ba2",
+        "Name": "Data_DLCCoast - Voices_en.ba2",
+        "Size": 525025586,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCCoast - Voices_en.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "nDqoezG/9ao="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6tgSrW663Kg=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Voices_en.ba2",
+        "Name": "Data_DLCRobot - Voices_en.ba2",
+        "Size": 122977015,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCRobot - Voices_en.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "6tgSrW663Kg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UFFP1Os/Ss8=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop03 - Main.ba2",
+        "Name": "Data_DLCworkshop03 - Main.ba2",
+        "Size": 200696646,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCworkshop03 - Main.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "UFFP1Os/Ss8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fWvOFU0VFzs=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Nvflex.ba2",
+        "Name": "Data_Fallout4 - Nvflex.ba2",
+        "Size": 6385127,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Nvflex.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "fWvOFU0VFzs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ch5Qu6kqeYQ=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures9.ba2",
+        "Name": "Data_Fallout4 - Textures9.ba2",
+        "Size": 864524837,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures9.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "ch5Qu6kqeYQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/YoBMfMWEho=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\MainMenuLoop.bk2",
+        "Name": "Data_Video_MainMenuLoop.bk2",
+        "Size": 322255456,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Video\\MainMenuLoop.bk2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "/YoBMfMWEho="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uLptKtBaDoY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=47760\nfileID=196371",
+        "Name": "Sprint Stuttering Fix-47760-1-2-1607200820.zip",
+        "Size": 48554,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 196371,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 47760,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0oJb3KcroLE=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Fallout4.ccc",
+        "Name": "Fallout4.ccc",
+        "Size": 4618,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Fallout4.ccc",
+          "GameVersion": "1.10.163.0",
+          "Hash": "0oJb3KcroLE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LyHvzStuzDg=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=msvcp110.dll",
+        "Name": "msvcp110.dll",
+        "Size": 661456,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "msvcp110.dll",
+          "GameVersion": "1.10.163.0",
+          "Hash": "LyHvzStuzDg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kJQAU1NS0OM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56089\nfileID=260019",
+        "Name": "Keep Radiants in the Commonwealth UFO4P Version-56089-1-2-1670779314.7z",
+        "Size": 31097,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 260019,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 56089,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mauLFDCA6nk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=46958\nfileID=249204",
+        "Name": "RAW INPUT - Horizon Patch-46958-1-0-1662141507.zip",
+        "Size": 1394,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 249204,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 46958,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SmFQu9aNnGc=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4006-PipBoy(Chrome) - Main.ba2",
+        "Name": "Data_ccBGSFO4006-PipBoy(Chrome) - Main.ba2",
+        "Size": 6108,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4006-PipBoy(Chrome) - Main.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "SmFQu9aNnGc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FDsf1mlD8a4=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4044-HellfirePowerArmor - Main.ba2",
+        "Name": "Data_ccBGSFO4044-HellfirePowerArmor - Main.ba2",
+        "Size": 2214255,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4044-HellfirePowerArmor - Main.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "FDsf1mlD8a4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fu2acy/EUb0=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCCoast.cdx",
+        "Name": "Data_DLCCoast.cdx",
+        "Size": 6847144,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCCoast.cdx",
+          "GameVersion": "1.10.163.0",
+          "Hash": "fu2acy/EUb0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QZRKByF5INg=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot.cdx",
+        "Name": "Data_DLCRobot.cdx",
+        "Size": 1224328,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCRobot.cdx",
+          "GameVersion": "1.10.163.0",
+          "Hash": "QZRKByF5INg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mFo6JqLF9Do=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop03 - Textures.ba2",
+        "Name": "Data_DLCworkshop03 - Textures.ba2",
+        "Size": 208483596,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCworkshop03 - Textures.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "mFo6JqLF9Do="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PpzODXW9j2M=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Shaders.ba2",
+        "Name": "Data_Fallout4 - Shaders.ba2",
+        "Size": 12795022,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Shaders.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "PpzODXW9j2M="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7XLpm2HYyGc=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Voices.ba2",
+        "Name": "Data_Fallout4 - Voices.ba2",
+        "Size": 2606358161,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Voices.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "7XLpm2HYyGc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+ZhbHNdji0g=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\AGILITY.bk2",
+        "Name": "Data_Video_AGILITY.bk2",
+        "Size": 381902820,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Video\\AGILITY.bk2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "+ZhbHNdji0g="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vyFK63ZIsZ0=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\PERCEPTION.bk2",
+        "Name": "Data_Video_PERCEPTION.bk2",
+        "Size": 378189860,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Video\\PERCEPTION.bk2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "vyFK63ZIsZ0="
+        }
+      }
+    }
+  ],
+  "Status": "Available",
+  "Failures": 0,
+  "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/BtHz/7c89b9b25be83341_small.webp",
+  "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/BtHz/7c89b9b25be83341_large.webp"
+}

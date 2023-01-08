@@ -356,7 +356,6 @@
 *  [Simple Fast VATS-73761-1-0-1632356832.7z](https://www.nexusmods.com/newvegas/mods/73761/?tab=files&file_id=1000081467)
 *  [Simple Open Strip Zone Trigger Fix-79483-1-0-1672405574.zip](https://www.nexusmods.com/newvegas/mods/79483/?tab=files&file_id=1000103003)
 *  [Simple Open Strip-73127-1-6-1636154189.7z](https://www.nexusmods.com/newvegas/mods/73127/?tab=files&file_id=1000083658)
-*  [Simplified FO4 HUD-75634-2-4-1656119002.rar](https://www.nexusmods.com/newvegas/mods/75634/?tab=files&file_id=1000094776)
 *  [Some UI Sounds (SUS) - Vanilla Blend-77842-1-2-1660101413.rar](https://www.nexusmods.com/newvegas/mods/77842/?tab=files&file_id=1000097306)
 *  [Someguy Series 2 dot 0-48925-2-0.rar](https://www.nexusmods.com/newvegas/mods/48925/?tab=files&file_id=1000019870)
 *  steam_api.dll
@@ -370,6 +369,7 @@
 *  [Tale of Bi Wastelands-72721-1-0-1623841475.7z](https://www.nexusmods.com/newvegas/mods/72721/?tab=files&file_id=1000077657)
 *  [Tale of Two Wastelands Patch-65449-3-0-0-1667704543.7z](https://www.nexusmods.com/newvegas/mods/65449/?tab=files&file_id=1000100773)
 *  [TCM's LOD Overhaul-70155-1-1-1627771074.zip](https://www.nexusmods.com/newvegas/mods/70155/?tab=files&file_id=1000079255)
+*  [The HUD Editor (v2.5.6)-67470-2-5-6-1661899463.7z](https://www.nexusmods.com/newvegas/mods/67470/?tab=files&file_id=1000098377)
 *  [The Living Desert - Main File 2.3-64623-2-3-1646084858.zip](https://www.nexusmods.com/newvegas/mods/64623/?tab=files&file_id=1000088491)
 *  [The Living Desert - TTW Patch-77945-1-0-1668175714.7z](https://www.nexusmods.com/newvegas/mods/77945/?tab=files&file_id=1000100995)
 *  [The Mod Configuration Menu-42507-1-5.7z](https://www.nexusmods.com/newvegas/mods/42507/?tab=files&file_id=105803)
