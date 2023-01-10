@@ -120,6 +120,7 @@
 *  [Animated Forge Water-52322-0-5-1639536098.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52322/?tab=files&file_id=249209)
 *  [Animated Whistling FNIS Nemesis-76733-1-1-1665583395.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76733/?tab=files&file_id=323485)
 *  [Animation Motion Revolution-50258-1-5-1-1663149979.rar](https://www.nexusmods.com/skyrimspecialedition/mods/50258/?tab=files&file_id=316000)
+*  [Animation Queue Fix-82395-1-0-0-1673285495.7z](https://www.nexusmods.com/skyrimspecialedition/mods/82395/?tab=files&file_id=348114)
 *  [AnnaNord-70570-1-1656700196.rar](https://www.nexusmods.com/skyrimspecialedition/mods/70570/?tab=files&file_id=295450)
 *  [Apothecary - An Alchemy Overhaul-52130-1-2-4-1654695612.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=289713)
 *  [Apothecary - An Alchemy Overhaul-52130-1-3-2-1655508900.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=291901)
@@ -1084,7 +1085,7 @@
 *  [Paper Themes for Mod Organizer 2-64439-7-1-1624721245.7z](https://www.nexusmods.com/skyrim/mods/64439/?tab=files&file_id=1000338549)
 *  [Paper V2-3819-2.rar](https://www.nexusmods.com/skyrim/mods/3819/?tab=files&file_id=11289)
 *  [Papyrus Extender AE-22854-4-5-7-1641973449.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=256076)
-*  [Papyrus Extender-22854-5-4-0-1668583113.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=332249)
+*  [Papyrus Extender-22854-5-4-1-1672700757.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=346049)
 *  [Papyrus Tweaks NG 3.3-77779-3-3-1672800944.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77779/?tab=files&file_id=346509)
 *  [PapyrusUtil AE - Scripting Utility Functions-13048-4-3-1641608820.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=254897)
 *  [PapyrusUtil SE - Scripting Utility Functions-13048-3-9-1580810594.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=122686)
@@ -1330,7 +1331,6 @@
 *  [Skyrim Vanilla Remix Signs-45002-1-0-1611958395.rar](https://www.nexusmods.com/skyrimspecialedition/mods/45002/?tab=files&file_id=182656)
 *  Skyrim_Default.ini
 *  Skyrim_SkyrimPrefs.ini
-*  [skyrim-search-se-v0.1.zip-45689-0-1-1613257126.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45689/?tab=files&file_id=185752)
 *  Skyrim.ccc
 *  [Skyrim's Got Talent-50357-1-60-1665994937.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50357/?tab=files&file_id=324731)
 *  [Skyrim's Paraglider - Stamina Drain - 5 stamina  per second-57931-1-1-1636449055.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57931/?tab=files&file_id=240054)
