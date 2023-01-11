@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (458)
+### Valid (461)
 *  [3D Casting FX-50197-1-0-1621612410.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50197/?tab=files&file_id=204758)
 *  [A Better Magelight - Enhanced-5954-2-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/5954/?tab=files&file_id=16406)
 *  [a better magelight patch-53186-1-0-1627894519.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53186/?tab=files&file_id=218284)
@@ -25,6 +25,7 @@
 *  [Be Seated 4.2.5-16613-4-2-5-1655673281_477b5dda24a2658aaf43f8a055d8b5553e7c73e73d9ec2f3885280f1dd32cd84_.zip](https://www.nexusmods.com/skyrimspecialedition/mods/16613/?tab=files&file_id=292398)
 *  [Believable weapons SE-37737-1-0-2-1593641428.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37737/?tab=files&file_id=148339)
 *  [Believable weapons-37737-1-5-1643576065_dbe4ac7aba249fdbbce04c8071f196dc1fed074aea2af59efecaa14b7228ddde_.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37737/?tab=files&file_id=260562)
+*  [beta_program_1-20210923T201648Z-001.zip](https://developer.download.nvidia.com/assets/gameworks/downloads/regular/dlss/beta_program_1-20210923T201648Z-001.zip)
 *  [Better Dynamic Ash SE v2.1.1-54754-2-1-1-1630276704.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54754/?tab=files&file_id=224790)
 *  [Better Dynamic Snow SE v3.3-9121-3-3-1610497942.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9121/?tab=files&file_id=179210)
 *  [Better Resource Warnings-26751-2-2-1609018535.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26751/?tab=files&file_id=176284)
@@ -360,6 +361,7 @@
 *  [Sensorium-52442-1-3-3-1627674743.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52442/?tab=files&file_id=217730)
 *  [Septentrional Landscapes 2K-29842-1-3-2-1588173223.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29842/?tab=files&file_id=136963)
 *  [Simple Realistic Archery VR-28524-1-26-1617578073.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28524/?tab=files&file_id=196057)
+*  [Simplicity ENB - Rain speculars add-on-81678-1-0-1673214348.rar](https://www.nexusmods.com/skyrimspecialedition/mods/81678/?tab=files&file_id=347972)
 *  [Simplicity ENB VR-81678-1-0-1673026154.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81678/?tab=files&file_id=347275)
 *  [Simply Balanced - 1.4.5-15541-1-4-5-1567316322.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15541/?tab=files&file_id=105089)
 *  [Simply Balanced - 1.4.6-15541-1-4-6-1631273416.zip](https://www.nexusmods.com/skyrimspecialedition/mods/15541/?tab=files&file_id=227380)
@@ -378,6 +380,7 @@
 *  [Skyrim VR USSEP 4.2.1 and SSE 1.5.97 Compatibility Patch-31673-1-2-1578696926.zip](https://www.nexusmods.com/skyrimspecialedition/mods/31673/?tab=files&file_id=119359)
 *  Skyrim.ini
 *  [SkyrimUpscalerVR-82179-1-0-1-1673023812.zip](https://www.nexusmods.com/skyrimspecialedition/mods/82179/?tab=files&file_id=347262)
+*  [SkyrimUpscalerVR-82179-1-0-3-1673294859.zip](https://www.nexusmods.com/skyrimspecialedition/mods/82179/?tab=files&file_id=348148)
 *  [SkyrimVR and Fallout4VR Configuration Tool-16242-1-3-0-20687.zip](https://www.nexusmods.com/skyrimspecialedition/mods/16242/?tab=files&file_id=55888)
 *  SkyrimVR.exe
 *  [SkyrimVRTools-27782-2-3-BETA-1590789255.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27782/?tab=files&file_id=142773)
