@@ -1,10 +1,11 @@
 ## Validation Report - Happy Fun Times (HFT/HFT)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Demonic Seduction [SE] - CBBE - BHUNP.7z](https://www.mediafire.com/file/2r6c1q3nvz97228/Demonic_Seduction_%255BSE%255D_-_CBBE_-_BHUNP.7z/file)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1912)
+### Valid (1911)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
@@ -635,7 +636,6 @@
 *  [Deiform Alduin Particle Lights-44329-1-1-1610655111.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44329/?tab=files&file_id=179501)
 *  [Delphine's Map Reveals Dragon Mounds SE v1.0-26301-1-0-1559680861.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26301/?tab=files&file_id=94792)
 *  [Demon Armor UNP-26269-1-0-1559664932.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26269/?tab=files&file_id=94775)
-*  [Demonic Seduction [SE] - CBBE - BHUNP.7z](https://www.mediafire.com/file/2r6c1q3nvz97228/Demonic_Seduction_%255BSE%255D_-_CBBE_-_BHUNP.7z/file)
 *  [deorder_plugins-1.1.zip](https://github.com/deorder/mo2-plugins/releases/download/1.1/deorder_plugins-1.1.zip)
 *  [Desaturated Glorious Dummies-20865-1-3-1540826816.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20865/?tab=files&file_id=70692)
 *  [Detection Meter-v0.16-SE-63057-v0-16-1645012958.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63057/?tab=files&file_id=264597)
