@@ -1,10 +1,11 @@
 ## Validation Report - Diabolist VR (ex0tek/diabolist_vr)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [DVR 4.0 rev3.0 Custom Files.zip](https://authored-files.wabbajack.org/DVR 4.0 rev3.0 Custom Files.zip_38262517-475b-4717-9674-786c1fa40fc8)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (892)
+### Valid (891)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [1) Skyrim Immersive Creatures v7.0.2 (includes 1K Textures)-12680-v7-0-2-1631188254.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12680/?tab=files&file_id=227169)
 *  [1CernunnosSE-52318-1-1626086372.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52318/?tab=files&file_id=214165)
@@ -307,7 +308,6 @@
 *  [DungeonMaps.zip-13313-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13313/?tab=files&file_id=37972)
 *  [durzogs (se-ae) v2-45470-2-1663286399.rar](https://www.nexusmods.com/skyrimspecialedition/mods/45470/?tab=files&file_id=316443)
 *  [Durzogs SE-37995-tjbf3g-1594021368.rar](https://www.nexusmods.com/skyrimspecialedition/mods/37995/?tab=files&file_id=149017)
-*  [DVR 4.0 rev3.0 Custom Files.zip](https://authored-files.wabbajack.org/DVR 4.0 rev3.0 Custom Files.zip_38262517-475b-4717-9674-786c1fa40fc8)
 *  [Dwarven Automatons Pack (SE-AE) 1.2-49589-1-2-1665367207.rar](https://www.nexusmods.com/skyrimspecialedition/mods/49589/?tab=files&file_id=322919)
 *  [Dwarven Shield - SE-AE - My version 2K-59369-1-1638386667.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59369/?tab=files&file_id=245866)
 *  [Dwemer Armor-63074-1-1-1657652013.rar](https://www.nexusmods.com/skyrimspecialedition/mods/63074/?tab=files&file_id=298442)
