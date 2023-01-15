@@ -243,6 +243,7 @@
 *  Data_Strings_Update_SPANISH.ILSTRINGS
 *  Data_Strings_Update_SPANISH.STRINGS
 *  Data_Update.esm
+*  [Dead Body Remover bsa version-10614-4-81-1647741935.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10614/?tab=files&file_id=271314)
 *  [Deadly Dragons SE Patches-23723-6-5-6-1639507938.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23723/?tab=files&file_id=249137)
 *  [Deadly Dragons SE-23723-6-5-7-1655531443.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23723/?tab=files&file_id=291966)
 *  [Deku Tree abandoned-9729-0-1-1580381257.rar](https://www.nexusmods.com/skyrimspecialedition/mods/9729/?tab=files&file_id=121781)
@@ -654,7 +655,6 @@
 *  [SSEEdit 4_0_3-164-4-0-3-1575326827.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164/?tab=files&file_id=115017)
 *  [Stagger Direction Fix - NG-69291-1-0-1-1657593977.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69291/?tab=files&file_id=298265)
 *  [Stamina of Steeds-58742-1-0-1637372154.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58742/?tab=files&file_id=242776)
-*  [storm golem (se-ae) v2.1-24794-2-1-1653746771.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24794/?tab=files&file_id=287090)
 *  [Storm Lightning for SSE and VR - Fomod Installer-29243-1-4-12-1637766908.rar](https://www.nexusmods.com/skyrimspecialedition/mods/29243/?tab=files&file_id=244068)
 *  [Strike Obstruction Systems - Combat Blocking Overhaul-53050-1-05-1643664052.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53050/?tab=files&file_id=260790)
 *  [Stupid Dog 3.0-2317-3-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2317/?tab=files&file_id=15326)
