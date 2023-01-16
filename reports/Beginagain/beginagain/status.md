@@ -1,11 +1,10 @@
 ## Validation Report - Begin Again (Beginagain/beginagain)
 
 
-### Invalid (1)
-*  [TTW_3.3.2_Hotfix.zip](https://cdn.discordapp.com/attachments/267355049666019329/1003041304252534814/TTW_3.3.2_Hotfix.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (429)
+### Valid (428)
 *  [0spacepope0 Combat Armor Retexture TTW-78882-V1-01-1667588873.7z](https://www.nexusmods.com/newvegas/mods/78882/?tab=files&file_id=1000100710)
 *  [1_AnniAnimPack_BugFix 1.3-72320-1-3-1621469381.7z](https://www.nexusmods.com/newvegas/mods/72320/?tab=files&file_id=1000076296)
 *  [1_Power Armor Visual Enhancement  2K-74786-2-1-1658070932.rar](https://www.nexusmods.com/newvegas/mods/74786/?tab=files&file_id=1000096097)
@@ -44,10 +43,8 @@
 *  [Animated vault 22 Foliage-72403-V2-1670103966.7z](https://www.nexusmods.com/newvegas/mods/72403/?tab=files&file_id=1000101853)
 *  [Animated Wasteland Trees (recommended)-72597-V3-1623371080.rar](https://www.nexusmods.com/newvegas/mods/72597/?tab=files&file_id=1000077376)
 *  [AnimatedGomorrah(Ashens2014)-73333-V2-1629406956.rar](https://www.nexusmods.com/newvegas/mods/73333/?tab=files&file_id=1000079995)
-*  [Armed to the Teeth - Redux-74936-2-3-1642677124.7z](https://www.nexusmods.com/newvegas/mods/74936/?tab=files&file_id=1000086504)
 *  atimgpud.dll
 *  [Atmospheric Lighting Tweaks - TTW-79378-1-2-1-1673672110.7z](https://www.nexusmods.com/newvegas/mods/79378/?tab=files&file_id=1000103558)
-*  [ATTT Redux (Cowboy Holsters) 1.0-79067-1-0-1669026225.rar](https://www.nexusmods.com/newvegas/mods/79067/?tab=files&file_id=1000101370)
 *  [Audleys Misc Textures - Fear and Loathing-58318-1-0.7z](https://www.nexusmods.com/newvegas/mods/58318/?tab=files&file_id=1000026829)
 *  [B42 Descriptions-68049-0-3-1645173927.7z](https://www.nexusmods.com/newvegas/mods/68049/?tab=files&file_id=1000087881)
 *  [B42 Inertia V1.2-64335-1-2-1615691254.zip](https://www.nexusmods.com/newvegas/mods/64335/?tab=files&file_id=1000073430)
@@ -132,6 +129,7 @@
 *  [High Resolution Water Fog-78400-1-0a-1663426682.zip](https://www.nexusmods.com/newvegas/mods/78400/?tab=files&file_id=1000099083)
 *  high.ini
 *  [Higher Poly Rocks-75878-1-1-1648376708.zip](https://www.nexusmods.com/newvegas/mods/75878/?tab=files&file_id=1000089961)
+*  [IKnowIInstalledSaywerBatty-75684-1-1647231649.rar](https://www.nexusmods.com/newvegas/mods/75684/?tab=files&file_id=1000089153)
 *  [Immersive Pickup Sounds Patched-70552-1-0-1607145298.7z](https://www.nexusmods.com/newvegas/mods/70552/?tab=files&file_id=1000068315)
 *  [Immersive Recoil 2.4.1-61973-2-4-1-1663113917.zip](https://www.nexusmods.com/newvegas/mods/61973/?tab=files&file_id=1000098960)
 *  [Immersive Recoil NPC 1.3-69971-1-3-1659297542.rar](https://www.nexusmods.com/newvegas/mods/69971/?tab=files&file_id=1000096798)
@@ -413,9 +411,9 @@
 *  [TTW Steel Ingot Quest-75774-1-0-1647734206.7z](https://www.nexusmods.com/newvegas/mods/75774/?tab=files&file_id=1000089510)
 *  [TTW Wasteland Sounds-67912-0-8-1574489852.zip](https://www.nexusmods.com/newvegas/mods/67912/?tab=files&file_id=1000057688)
 *  [TTW WMIM - Minimalist Energy Weapons Sights-76382-1-0-1651401640.zip](https://www.nexusmods.com/newvegas/mods/76382/?tab=files&file_id=1000091863)
+*  [TTW_3.3.2_Hotfix.zip](https://cdn.discordapp.com/attachments/267355049666019329/1003041304252534814/TTW_3.3.2_Hotfix.zip)
 *  [TTW's Hunting Rifle and .32 Rifle Textures-69837-1-0-1599238845.rar](https://www.nexusmods.com/newvegas/mods/69837/?tab=files&file_id=1000065332)
 *  [TTWSawyerBatty-75598-1-13-1651800319.7z](https://www.nexusmods.com/newvegas/mods/75598/?tab=files&file_id=1000092095)
-*  [Tutorial Killer-47746-2-0-1623461482.7z](https://www.nexusmods.com/newvegas/mods/47746/?tab=files&file_id=1000077460)
 *  [Tweaks for TTW-77934-1-2-1663704725.zip](https://www.nexusmods.com/newvegas/mods/77934/?tab=files&file_id=1000099160)
 *  [UIO - User Interface Organizer-57174-2-30-1629600625.7z](https://www.nexusmods.com/newvegas/mods/57174/?tab=files&file_id=1000080073)
 *  [Unladylike Hair Tweak-67328-1-0-1563703813.rar](https://www.nexusmods.com/newvegas/mods/67328/?tab=files&file_id=1000055171)

@@ -1,11 +1,10 @@
 ## Validation Report - Diabolist VR (ex0tek/diabolist_vr)
 
 
-### Invalid (1)
-*  [DVR 4.0 rev3.0 Custom Files.zip](https://authored-files.wabbajack.org/DVR 4.0 rev3.0 Custom Files.zip_38262517-475b-4717-9674-786c1fa40fc8)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (891)
+### Valid (893)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [1) Skyrim Immersive Creatures v7.0.2 (includes 1K Textures)-12680-v7-0-2-1631188254.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12680/?tab=files&file_id=227169)
 *  [1CernunnosSE-52318-1-1626086372.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52318/?tab=files&file_id=214165)
@@ -57,6 +56,7 @@
 *  [Arctals VRIK Tweaks - Merged-63663-1-5-1670008290.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63663/?tab=files&file_id=336849)
 *  [Arctic - Frost Effects Redux-29817-2-1-1591025469.zip](https://www.nexusmods.com/skyrimspecialedition/mods/29817/?tab=files&file_id=143265)
 *  [Artifacts of Ultima SE 2.6-4981-2-6-1602383639.zip](https://www.nexusmods.com/skyrimspecialedition/mods/4981/?tab=files&file_id=164909)
+*  [ash golem (se-ae) v5-29365-5-1659224708.rar](https://www.nexusmods.com/skyrimspecialedition/mods/29365/?tab=files&file_id=303460)
 *  [Assorted mesh fixes-32117-0-77-1669043499.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=333499)
 *  [Aureil's Sunlight-44903-1-1611762741.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44903/?tab=files&file_id=182178)
 *  [Auto Consume Potions SE-22810-1-15SE-1548108101.rar](https://www.nexusmods.com/skyrimspecialedition/mods/22810/?tab=files&file_id=79204)
@@ -281,6 +281,7 @@
 *  Data_Strings_Update_SPANISH.ILSTRINGS
 *  Data_Strings_Update_SPANISH.STRINGS
 *  Data_Update.esm
+*  [Dead Body Remover bsa version-10614-4-81-1647741935.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10614/?tab=files&file_id=271314)
 *  [Deadly Dragons SE-23723-6-5-7-1655531443.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23723/?tab=files&file_id=291966)
 *  [Deadly Spell Impacts v1_70-12939-1-70.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12939/?tab=files&file_id=36481)
 *  [Diablo 2 Cursor-86421-1.rar](https://www.nexusmods.com/skyrim/mods/86421/?tab=files&file_id=1000253557)
@@ -308,6 +309,7 @@
 *  [DungeonMaps.zip-13313-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13313/?tab=files&file_id=37972)
 *  [durzogs (se-ae) v2-45470-2-1663286399.rar](https://www.nexusmods.com/skyrimspecialedition/mods/45470/?tab=files&file_id=316443)
 *  [Durzogs SE-37995-tjbf3g-1594021368.rar](https://www.nexusmods.com/skyrimspecialedition/mods/37995/?tab=files&file_id=149017)
+*  [DVR 4.0 rev4.0 Custom Files.zip](https://authored-files.wabbajack.org/DVR 4.0 rev4.0 Custom Files.zip_4ecb5511-e444-4236-8630-2110a361534d)
 *  [Dwarven Automatons Pack (SE-AE) 1.2-49589-1-2-1665367207.rar](https://www.nexusmods.com/skyrimspecialedition/mods/49589/?tab=files&file_id=322919)
 *  [Dwarven Shield - SE-AE - My version 2K-59369-1-1638386667.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59369/?tab=files&file_id=245866)
 *  [Dwemer Armor-63074-1-1-1657652013.rar](https://www.nexusmods.com/skyrimspecialedition/mods/63074/?tab=files&file_id=298442)
@@ -768,7 +770,6 @@
 *  [Stagger Direction Fix - NG-69291-1-0-1-1657593977.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69291/?tab=files&file_id=298265)
 *  [Stagger Direction Fix-SSE V2.02a-43339-V2-02a-1616322838.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43339/?tab=files&file_id=192672)
 *  [Steel Armor Fix-39704-1-1-1598141551.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39704/?tab=files&file_id=157176)
-*  [storm golem (se-ae) v2.1-24794-2-1-1653746771.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24794/?tab=files&file_id=287090)
 *  [Storm Lightning for SSE and VR - Fomod Installer-29243-1-4-12-1637766908.rar](https://www.nexusmods.com/skyrimspecialedition/mods/29243/?tab=files&file_id=244068)
 *  [Storm skin .bsa file-39878-1-3-1638591359.rar](https://www.nexusmods.com/skyrimspecialedition/mods/39878/?tab=files&file_id=246471)
 *  [Stormcloak Nordic Carved Armor Replacer 1.0-51532-1-0-1624405080.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51532/?tab=files&file_id=210667)
