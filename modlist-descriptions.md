@@ -22,14 +22,12 @@
   - [Living Skyrim](#living-skyrim)
   - [RGE - Relics of Hyrule - Grand Admiral Thrawn Edition](#rge---relics-of-hyrule---grand-admiral-thrawn-edition)
   - [Ruvaak](#ruvaak)
-  - [Serenity 2](#serenity-2)
   - [Skyrim Modding Essentials](#skyrim-modding-essentials)
   - [TSO - Total Skyrim Overhaul](#tso---total-skyrim-overhaul)
   - [Tales From the Northern Lands](#tales-from-the-northern-lands)
   - [The Phoenix Flavour - Dragon's Edition](#the-phoenix-flavour---dragons-edition)
   - [The Phoenix Flavour](#the-phoenix-flavour)
   - [Tempus Maledictum](#tempus-maledictum)
-  - [Tranquility](#tranquility)
   - [Wildlander](#wildlander)
   - [(NSFW)Licentia(NSFW)](#nsfwlicentiansfw)
   - [(NSFW)Tsukiro(NSFW)](#nsfwtsukironsfw)
@@ -55,14 +53,11 @@
   - [Fallout 4 VR Essentials Overhaul](#fallout-4-vr-essentials-overhaul)
 - [Fallout New Vegas](#fallout-new-vegas)
   - [Capital Punishment](#capital-punishment)
-  - [Viva New Vegas](#viva-new-vegas)
 - [Tale Of Two Wastelands](#tale-of-two-wastelands)
   - [The Vault Courier](#the-vault-courier)
 - [Oblivion](#oblivion)
   - [Heartland](#heartland)
   - [Through The Valleys](#through-the-valleys)
-- [The Witcher 3](#the-witcher-3)
-  - [The Witcher 3 My Way](#the-witcher-3-my-way)
 - [Cyberpunk 2077](#cyberpunk-2077)
   - [Cyberpunk THING](#cyberpunk-thing)
 ***
@@ -347,21 +342,6 @@ Tempus Maledictum is a LotD-and-quest-focused modlist, complete with the old sch
 - [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614)  
 - [Wait Your Turn - Enemy Circling Behavior](https://www.nexusmods.com/skyrimspecialedition/mods/65091)  
 - [Dragon Aptitude - Dragon Souls Mod](https://www.nexusmods.com/skyrimspecialedition/mods/71134)  
-
-***
-
-### [Tranquility](https://www.wabbajack.org/#/modlists/info?machineURL=tranquility)
-
-A complete overhaul of Skyrim, Tranquility is a modlist aimed at people wanting an easy to learn but hard to master playthrough. It features the full Simonrim suite of mods, no nudity, complete Creation Club support ($20 for Anniversary Upgrade is required), body and armor physics.
-
-**_Mods to get familiar with:_**
-
-- [Alternate Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/50307)
-- [Simonrim suite](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files)
-- [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310)
-- [King Priest](https://www.nexusmods.com/skyrimspecialedition/mods/59652)
-- [Sunhelm Survival and Needs](https://www.nexusmods.com/skyrimspecialedition/mods/39414) 
-- [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
 
 ***
 
@@ -680,20 +660,6 @@ There is also a [handy dandy installation video](https://www.youtube.com/watch?v
 
 ## Fallout New Vegas
 
-### [Viva New Vegas](https://github.com/TDarkShadow/vivanewvegas-wabbajack)
-
-A lite, small modlist for first time FNV players. While not a lot of content, this provides a stable playthrough with the use of stability mods, some bugfixes, and a handful of quality of life feature mods.
-
-**_Mods to get familiar with:_**
-
-[Unofficial Patch NVSE Plus](https://www.nexusmods.com/newvegas/mods/71239)  
-[lStewieAl's Tweaks](https://www.nexusmods.com/newvegas/mods/66347)  
-[Simple DLC Delay](https://www.nexusmods.com/newvegas/mods/62779)  
-[GRA Unique Weapons Relocated](https://www.nexusmods.com/newvegas/mods/68153)  
-[JSawyer Ultimate Edition](https://www.nexusmods.com/newvegas/mods/61592)  
-
-***
-
 ### [Capital Punishment](https://github.com/TheMrNewVegas/TTWTrueVegas/wiki)
 
 A revamped and realistic take on the Tale of Two Wastelands modification. This modlist includes new animations, textures, gameplay mechanics, and hundreds of other content adding mods. In addition, multiple profiles are available for the player to choose the playstyle they desire. 
@@ -734,14 +700,6 @@ Through the Valleys is a lightweight but comprehensive overhaul of Oblivion tail
 [Balanced Unlevelled Rewards](https://www.nexusmods.com/oblivion/mods/51050/)  
 [Teleportation Services](https://www.nexusmods.com/oblivion/mods/50141)  
 [Simple Saves Plus](https://www.nexusmods.com/oblivion/mods/51122)
-
-## The Witcher 3
-
-### [The Witcher 3 My Way](https://github.com/jdsmith2816/tw3mw)
-
-This is a "Vanilla Plus" style modlist for The Witcher 3 with gameplay enhancements based on FCR3 + nearly everything from Partoutatix.
-
-The game should still feel like TW3 but a much more refined and visually improved experience.
 
 ## Cyberpunk 2077
 
