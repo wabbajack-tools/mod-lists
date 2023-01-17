@@ -4,6 +4,8 @@
 
 #### Looking for a specific mod? Check the [Archive Search](https://www.wabbajack.org/#/modlists/search/all)! Check the box next to “Name” and click the Cloud, give it a few seconds to load, then search for whatever mod you want!
 
+#### The list below only covers official modlists. Unofficial modlists can be viewed by ticking the checkbox in the Wabbajack application.
+
 ***
 
 - [Skyrim Special Edition](#skyrim-special-edition)
@@ -14,14 +16,12 @@
   - [Arkay's Commandment](#arkays-commandment)
   - [Do Not Go Gentle](#do-not-go-gentle)
   - [Elysium](#elysium-remastered)
-  - [Journey](#journey)
   - [Keizaal](#keizaal)
   - [Legends of the Frost](#legends-of-the-frost)
   - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr)
   - [Living Skyrim](#living-skyrim)
   - [RGE - Relics of Hyrule - Grand Admiral Thrawn Edition](#rge---relics-of-hyrule---grand-admiral-thrawn-edition)
   - [Ruvaak](#ruvaak)
-  - [Septimus](#septimus)
   - [Serenity 2](#serenity-2)
   - [Skyrim Modding Essentials](#skyrim-modding-essentials)
   - [TSO - Total Skyrim Overhaul](#tso---total-skyrim-overhaul)
@@ -104,13 +104,10 @@ Designed as the mod author's tool kit, Animonculory Dev Tools (ADT) comes with a
 
 ### [Animonculory Visual Overhaul](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul)
 
-Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, Animonculory Visual Overhaul (AVO) is the perfect base to build your modlist on. AVO is made for Skyrim Special Edition **Version 1.6.640/659** (also known as Anniversary Edition) and uses the .exe of that version as well. It uses [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004) by default; however, it can support whichever weather mod you wish to use.
+Animonculory Visual Overhaul (AVO) is designed as a list to bring the vanilla game up to modern standards without changing the core vanilla feel and gameplay. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon.
 
 **_Mods to get familiar with:_**
 
-- [Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720)
-- [Solas Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/49004)
-- [Synthesis](https://github.com/Mutagen-Modding/Synthesis)
 - [Full Modlist](https://loadorderlibrary.com/lists/animonculory-visual-overhaul)
 
 ***
@@ -170,16 +167,6 @@ From TitansBane, the author of [Reliquary of Myth](https://www.nexusmods.com/sky
 [Enemy (R)Evolution of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/37228)  
 [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155)  
 [Immersive World Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/18330)  
-
-***
-
-### [Journey](https://github.com/Lost-Outpost/journey)
-
-Journey is a lightweight modlist designed to give an enhanced graphical presentation that keeps the spirit of Skyrim's aesthetic and provide a cohesive lightweight gameplay overhaul with an optional survival component using Survival Mode and optional full Creation Club integration. Play an enhanced Skyrim experience with a few carefully selected additional quests, new lands, and companions included. Journey is designed to look and run beautifully, even on lower end systems.
-
-**_Mods to get familiar with_**
-
-[Gameplay Guide Here](https://github.com/Lost-Outpost/journey/blob/main/GAMEPLAY.md)
 
 ***
 
@@ -278,32 +265,6 @@ Ruvaak is a list focused on making Skyrim: Anniversary Edition (AE) into a dark 
 - [Breakable Equipment System](https://www.nexusmods.com/skyrimspecialedition/mods/23686)  
 - [Synergy - Skills and Perks Reimagined](https://www.nexusmods.com/skyrimspecialedition/mods/72352)  
 - [Forgotten Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/12711)  
-
-***
-
-### [Septimus](https://www.wabbajack.org/#/modlists/info?machineURL=septimus)
-
-Septimus is an extensive performance-friendly modlist full of carefully chosen new gear, spells, quests, optional survival gameplay as well as full anniversary edition creation club support.
-
-**_Mods to get familiar with:_**
-
-[Mod Guide Here](https://github.com/Guitarninja2/septimus/blob/main/GAMEPLAY.md)
-
-***
-
-### [Serenity 2](https://www.wabbajack.org/#/modlists/info?machineURL=serenity)
-
-Serenity 2 is a Skyrim SE modlist that aims to bring a fresh Requiem Experience to the table. It uses Requiem 4.0.1 converted to Skyrim Special Edition and has minor and some major tweaks to the core Requiem experience that aims to enhance longevity and replayability while keeping the game fair, balanced and looking great. Serenity is targeted at new and veteran Requiem players and can offer new experiences to both sides of the playerbase. The list should run well on 1440p by utilizing 2K textures everywhere.
-
-**_Mods to get familiar with:_**
-
-[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
-[Requiem](https://www.nexusmods.com/skyrim/mods/19281)  
-[Requiem - Small Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42633)  
-[Requiem - Immersive Divine Blessings](https://www.nexusmods.com/skyrim/mods/90691) 
-[Requiem - Expanded Grimoire](https://www.nexusmods.com/skyrimspecialedition/mods/39214)
-[Requiem - Special Feats](https://www.nexusmods.com/skyrimspecialedition/mods/42588)
-[Requiem - Unarmed Combat Enhancer](https://www.nexusmods.com/skyrimspecialedition/mods/42541)
 
 ***
 
