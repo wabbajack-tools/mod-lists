@@ -20,6 +20,7 @@
   - [Legends of the Frost](#legends-of-the-frost)
   - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr)
   - [Living Skyrim](#living-skyrim)
+  - [Lost Legacy](#lost-legacy)
   - [RGE - Relics of Hyrule - Grand Admiral Thrawn Edition](#rge---relics-of-hyrule---grand-admiral-thrawn-edition)
   - [Ruvaak](#ruvaak)
   - [Skyrim Modding Essentials](#skyrim-modding-essentials)
@@ -232,6 +233,20 @@ Living Skyrim aims to breathe life to the familiar emptiness of Skyrim, bringing
 [Inconsequential NPCs](https://www.nexusmods.com/skyrim/mods/36334)  
 [Organic Factions](https://www.nexusmods.com/skyrimspecialedition/mods/10289)  
 [Alternate Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/50307)
+
+***
+
+### [Lost Legacy](https://www.wabbajack.org/#/modlists/info?machineURL=lostlegacy)
+
+Lost Legacy is a full on power fantasy modlist (Vokriinator + EnaiRim) with a massive amount of new quest mods, 5000+ LotD Museum displays, vibrant high fantasy visuals, and optional survival mechanics!
+
+**_Mods to get familiar with:_**
+
+[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
+[Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)  
+[Shadow of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/65136)  
+[Alternate Perspective - Alternate Start](https://www.nexusmods.com/skyrimspecialedition/mods/50307)  
+[Vokriinator - Ordinator + Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/26702)
 
 ***
 
