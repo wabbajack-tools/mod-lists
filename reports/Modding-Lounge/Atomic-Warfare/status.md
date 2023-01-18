@@ -1,10 +1,11 @@
 ## Validation Report - Atomic Warfare (Modding-Lounge/Atomic-Warfare)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [enbseries_fallout4_v0468.zip](https://authored-files.wabbajack.org/enbseries_fallout4_v0468.zip_beaa5574-58f1-48eb-aa67-2116a3163216)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (488)
+### Valid (487)
 *  [_Sound Zero_-45659-2-1605358427.7z](https://www.nexusmods.com/fallout4/mods/45659/?tab=files&file_id=194937)
 *  [_Wasteland Medic-51497-1-1618675581.7z](https://www.nexusmods.com/fallout4/mods/51497/?tab=files&file_id=206113)
 *  [1 - Enhanced Lights and FX Patch-59993-1-02-1673559958.zip](https://www.nexusmods.com/fallout4/mods/59993/?tab=files&file_id=263288)
@@ -176,7 +177,6 @@
 *  [ELFX - PreVis PreCombine Patch-64990-1-0-0-1665398213.7z](https://www.nexusmods.com/fallout4/mods/64990/?tab=files&file_id=252971)
 *  [ELFX - Tales from the Commonwealth-64990-1-0-0-1667295486.7z](https://www.nexusmods.com/fallout4/mods/64990/?tab=files&file_id=255355)
 *  [enbhelperf4-56566-1-1-1641666492.zip](https://www.nexusmods.com/fallout4/mods/56566/?tab=files&file_id=225947)
-*  [enbseries_fallout4_v0468.zip](https://authored-files.wabbajack.org/enbseries_fallout4_v0468.zip_beaa5574-58f1-48eb-aa67-2116a3163216)
 *  [Encounter Zone Recalculation-45674-1-0-1592086483.zip](https://www.nexusmods.com/fallout4/mods/45674/?tab=files&file_id=184238)
 *  [Enhanced Lights and FX-13596-1-0.7z](https://www.nexusmods.com/fallout4/mods/13596/?tab=files&file_id=126232)
 *  [Enjoy the Darkness 1.02-67336-1-02-1672687298.zip](https://www.nexusmods.com/fallout4/mods/67336/?tab=files&file_id=262181)
