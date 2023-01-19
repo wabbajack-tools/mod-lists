@@ -1266,7 +1266,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "J0JDPMPirlw=",
         "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/\nprompt=download MoreNastyCrittersSE_v12_8B.7z",
@@ -1560,7 +1560,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Mirrored",
       "Original": {
         "Hash": "t9h488AZ0Cw=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Serenity 3DNPC BSA Proper.7z_fdc6bf82-2a9c-4ed1-bd1d-1408cb02ef49",
@@ -1569,6 +1569,16 @@
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
           "Url": "https://authored-files.wabbajack.org/Serenity%203DNPC%20BSA%20Proper.7z_fdc6bf82-2a9c-4ed1-bd1d-1408cb02ef49"
+        }
+      },
+      "PatchedFrom": {
+        "Hash": "t9h488AZ0Cw=",
+        "Meta": "",
+        "Name": "Serenity 3DNPC BSA Proper.7z",
+        "Size": 2213970317,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://mirror.wabbajack.org/b7d878f3c019d02c"
         }
       }
     },
@@ -27903,8 +27913,8 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 2,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/5d4a27bb86d3f99b_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/5d4a27bb86d3f99b_large.webp"
 }
