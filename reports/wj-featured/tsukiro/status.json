@@ -13846,7 +13846,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "Updated",
       "Original": {
         "Hash": "+IBFssRc+fE=",
         "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/9655-lewdmarks/\nprompt=Download LewdMarks 1.7 racemenu.7z",
@@ -13857,7 +13857,19 @@
           "Prompt": "Download LewdMarks 1.7 racemenu.7z",
           "Url": "https://www.loverslab.com/files/file/9655-lewdmarks/"
         }
-      }
+      },
+      "PatchedFrom": {
+        "Hash": "BxKi7WY/rgo=",
+        "Meta": "",
+        "Name": "LewdMarks 1.71 racemenu.7z",
+        "Size": 18362763,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "download LewdMarks 1.71 racemenu.7z",
+          "Url": "https://www.loverslab.com/files/file/9655-lewdmarks/"
+        }
+      },
+      "PatchUrl": "https://patches.wabbajack.org/f88045b2c45cf9f1_0712a2ed663fae0a"
     },
     {
       "Status": "Valid",
