@@ -378,7 +378,7 @@
 *  [Patch - True Storms 1.02-12125-TS1-02.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12125/?tab=files&file_id=42504)
 *  [PELTAPALOOZA  Special Edition - FULL-5442-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5442/?tab=files&file_id=11948)
 *  [Pheasant Encounters-72194-1-0-0-1658880463.zip](https://www.nexusmods.com/skyrimspecialedition/mods/72194/?tab=files&file_id=302492)
-*  [Pilgrim - A Religion Overhaul-54099-1-1-0-1-1655655956.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54099/?tab=files&file_id=292326)
+*  [Pilgrim - A Religion Overhaul-54099-1-1-1-1674095885.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54099/?tab=files&file_id=350908)
 *  [Pirates Wield Cutlasses-31753-3-1-1-1658723777.zip](https://www.nexusmods.com/skyrimspecialedition/mods/31753/?tab=files&file_id=302012)
 *  [Planters for Hendraheim-30806-1-0-1575559723.rar](https://www.nexusmods.com/skyrimspecialedition/mods/30806/?tab=files&file_id=115264)
 *  [Plugin for FaceGen Setup-40658-2-0-1601809483.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40658/?tab=files&file_id=163869)
