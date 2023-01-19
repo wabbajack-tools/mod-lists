@@ -16,6 +16,7 @@
   - [Arkay's Commandment](#arkays-commandment)
   - [Do Not Go Gentle](#do-not-go-gentle)
   - [Elysium](#elysium-remastered)
+  - [Fable Lore](#fable-lore)
   - [Keizaal](#keizaal)
   - [Legends of the Frost](#legends-of-the-frost)
   - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr)
@@ -163,6 +164,27 @@ From TitansBane, the author of [Reliquary of Myth](https://www.nexusmods.com/sky
 [Enemy (R)Evolution of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/37228)  
 [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155)  
 [Immersive World Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/18330)  
+
+***
+
+### [Fable Lore](https://moddinglounge.com/fable-lore/)
+
+Fable Lore is a Deleveled, modernized combat, survival focus approach modlist built with every aspect of modding. With stunning graphics, hundreds of gauranteed hours of playtime, new lands and entire storylines, you're bound to have an endless adventure in a better Skyrim modded experience. Built for every type of playstyle, from mages to warriors, every RPG aspect has been touched in some way to offer a more in-depth experience for any playstyle.
+
+**_Mods to get familiar with:_**
+
+- [Skyrim Unbound Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/27962)
+- [Shadows of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/65136)
+- [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614)
+- [Vitrium](https://www.nexusmods.com/skyrimspecialedition/mods/57242)
+- [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741)
+- [Combat Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33767)
+- [Archery Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/24296)
+- [Complete Crafting Overhaul Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/28608)
+- [Complete Alchemy and Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/19924)
+- [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347)
+
+Fable Lore _also_ comes with a custom add-on required for the Modlist, that delevels the entire world to a static level with various stats differentiating from each character you come across. Much of the world will be difficult, regardless of your level. If an enemy seems like they're going to be powerful, they likely are.
 
 ***
 
@@ -421,21 +443,22 @@ Atomic Warfare is an overhaul immersive, hardcore Tarkov/S.T.A.L.K.E.R.-like exp
 
 **_Noticeable Features_**
 
-- Gunplay and projecticles have been vaslty overhauled, giving a more realistic and challenging scenario to each gunfight you come across.
+- Gunplay and projecticles have been vastly overhauled, giving a more realistic and challenging scenario to each gunfight you come across.
 - Along with the above, locational damage and healing now have a substantial effect if not taken care of which can be done in various ways now.
-  - See [MAIN Lite](https://www.nexusmods.com/fallout4/articles/3799) for more details on this
 - Hours of new content to explore throughout the wasteland, meeting new faces and new locations.
 - Surival mode integration with added benefits, for a more immersive experience.
 - Overhauled visuals without the need of an ENB, for those juicy picturesque screenshots and FPS.
 
 **_Mods to get familiar with:_**
 
-- [MAIM](https://www.nexusmods.com/fallout4/mods/58964)
+- [Start Me Up Redux](https://www.nexusmods.com/fallout4/mods/56984)
 - [Be Exceptional](https://www.nexusmods.com/fallout4/mods/28222)
 - [Damn Apocalypse](https://www.nexusmods.com/fallout4/mods/33812)
 - [SCOURGE](https://www.nexusmods.com/fallout4/mods/60917)
-- [Advanced Needs 76](https://www.nexusmods.com/fallout4/mods/58440)
+- [True Damage](https://www.nexusmods.com/fallout4/mods/66071)
+- [Workshop Plus](https://www.nexusmods.com/fallout4/mods/35005)
 - [Crime and Punishment](https://www.nexusmods.com/fallout4/mods/58429)
+- [Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/47976)
 
 ***
 
