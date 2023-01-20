@@ -512,7 +512,6 @@
 *  [High Poly Blackreach Mushrooms-40418-1-1-1617711701.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40418/?tab=files&file_id=196429)
 *  [High Poly Canticle Tree-51433-0-1-1624205654.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51433/?tab=files&file_id=210242)
 *  [High Poly Gleamblossoms - ENB Light-40278-1-2-1626461597.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40278/?tab=files&file_id=214944)
-*  [High Poly Head - Floating Vanilla Hairs Fix-68407-1-0-1653122616.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68407/?tab=files&file_id=285390)
 *  [High Poly Head v1.4 (SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
 *  High.ini
@@ -1251,6 +1250,7 @@
 *  [Vanargand Animations - Sneak Thrust Attacks 1.1b-55031-1-1b-1630961280.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55031/?tab=files&file_id=226584)
 *  [Vanargand Animations - Sword Dual Wield Moveset-65899-1-0-1648939194.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65899/?tab=files&file_id=274444)
 *  [Vanilla Armor Expansion - NordWarUA Improved Upscaled Textures-37079-1-0-1591732149.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37079/?tab=files&file_id=144746)
+*  [Vanilla hair - Salt and Wind-45147-1-0-1612188024.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45147/?tab=files&file_id=183349)
 *  [Vanilla Script microOptimizations-54061-1-16a-1654031453.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54061/?tab=files&file_id=287938)
 *  [Vanilla Table Replacers 2k 1k-33041-1-0-1582624434.zip](https://www.nexusmods.com/skyrimspecialedition/mods/33041/?tab=files&file_id=125783)
 *  [Vanilla Warpaints Absolution - FOMOD Installer - All Inclusive-20751-1-4-1540581882.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20751/?tab=files&file_id=70357)
