@@ -1,10 +1,11 @@
 ## Validation Report - Legends of the Frost (wj-featured/lotf)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Legends of the Frost - Nemesis Output 2.0.7z](https://authored-files.wabbajack.org/Legends of the Frost - Nemesis Output 2.0.7z_125adc36-b54c-4bb7-bf4a-3b40e0f58d7a)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (394)
+### Valid (393)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [(Part 1) Engine Fixes-17230-5-8-0-1637340889.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=242713)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -165,7 +166,6 @@
 *  [Legends of the Frost - Facegen (Snow Elves) 2.4.7z](https://authored-files.wabbajack.org/Legends of the Frost - Facegen (Snow Elves) 2.4.7z_54879af0-ac8d-498d-8921-c70080fc3001)
 *  [Legends of the Frost - Facegen 2.0.7z](https://authored-files.wabbajack.org/Legends of the Frost - Facegen 2.0.7z_88f29f1b-58ed-4bd1-908e-e8a57527cbd5)
 *  [Legends of the Frost - Facegen CC 2.4.7z](https://authored-files.wabbajack.org/Legends of the Frost - Facegen CC 2.4.7z_e7c989b3-4a88-4b2b-9c74-f744d3a74548)
-*  [Legends of the Frost - Nemesis Output 2.0.7z](https://authored-files.wabbajack.org/Legends of the Frost - Nemesis Output 2.0.7z_125adc36-b54c-4bb7-bf4a-3b40e0f58d7a)
 *  [Legends of the Frost - Terrain LOD 2.3a.7z](https://authored-files.wabbajack.org/Legends of the Frost - Terrain LOD 2.3a.7z_36aaee81-51b8-48b7-ba9d-9104ba2e8ada)
 *  [Legends of the Frost - TexGen 2.3.7z](https://authored-files.wabbajack.org/Legends of the Frost - TexGen 2.3.7z_581358f0-e5d3-4ee7-b40d-c9c1ccc696d2)
 *  [Less Distracting Blowing Snow Effects 1.0 - 50 Percent-36198-1-0-1589964020.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36198/?tab=files&file_id=140987)
