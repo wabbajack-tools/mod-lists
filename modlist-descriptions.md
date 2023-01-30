@@ -17,6 +17,7 @@
   - [Do Not Go Gentle](#do-not-go-gentle)
   - [Elysium](#elysium-remastered)
   - [Fable Lore](#fable-lore)
+  - [Fahdon](#fahdon)
   - [Keizaal](#keizaal)
   - [Legends of the Frost](#legends-of-the-frost)
   - [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr)
@@ -185,6 +186,25 @@ Fable Lore is a Deleveled, modernized combat, survival focus approach modlist bu
 - [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347)
 
 Fable Lore _also_ comes with a custom add-on required for the Modlist, that delevels the entire world to a static level with various stats differentiating from each character you come across. Much of the world will be difficult, regardless of your level. If an enemy seems like they're going to be powerful, they likely are.
+
+***
+
+### [Fahdon](https://github.com/Para0x/Fahdon-A-Skyrim-Together-Experience/)
+
+Designed specifically with Skyrim Together Reborn in mind, each mod has been personally playtested and checked for desync issues and other general inconsistencies in multiplay. If you are looking for an experience inspired by systems found in Tabletop RPGs (i.e. D&D) then this is the list for you and your friends.
+
+**_Mods to get familiar with:_**
+
+- [Alternate Start LAL](https://www.nexusmods.com/skyrimspecialedition/mods/272)
+- [Sets of Skills](https://www.nexusmods.com/skyrimspecialedition/mods/55535)
+- [Starting in Classes](https://www.nexusmods.com/skyrimspecialedition/mods/72410)
+- [Curse of the Vampire](https://www.nexusmods.com/skyrimspecialedition/mods/10086)
+- [Curse of the Firmament](https://www.nexusmods.com/skyrimspecialedition/mods/28419)
+- [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741)
+- [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347)
+- [Auto-Lockpicking](https://www.nexusmods.com/skyrimspecialedition/mods/59027)
+
+There are numerous other changes to the standard Skyrim experience, so please visit my [Changes To Gameplay](https://github.com/Para0x/Fahdon-A-Skyrim-Together-Experience/blob/main/Changes%20To%20Gameplay.md) section of the readme for more information on each notable mod.
 
 ***
 
