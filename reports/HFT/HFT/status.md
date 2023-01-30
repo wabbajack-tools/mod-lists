@@ -1,11 +1,10 @@
 ## Validation Report - Happy Fun Times (HFT/HFT)
 
 
-### Invalid (1)
-*  [TAWOBA REMASTERED 6.1 CBBE SE.7z](https://www.mediafire.com/file/vglmfgdbaubm2ti/TAWOBA+REMASTERED+6.1+CBBE+SE.7z/file)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1987)
+### Valid (1988)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [-BO- One Body Alpha-82943-1-03-1674079833.rar](https://www.nexusmods.com/skyrimspecialedition/mods/82943/?tab=files&file_id=350859)
 *  [-BO- One Body Soft-82943-1-01-1674079878.rar](https://www.nexusmods.com/skyrimspecialedition/mods/82943/?tab=files&file_id=350860)
@@ -1733,6 +1732,7 @@
 *  [Tactical Valtheim Installer-9101-1-12-1642963460.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9101/?tab=files&file_id=258975)
 *  [Tara - a High Poly Female Preset (Wood Elf)-45398-1-0-1612659453.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45398/?tab=files&file_id=184484)
 *  [TavernAIFix-se-23107-1-1d-1592428108.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23107/?tab=files&file_id=146207)
+*  [TAWOBA REMASTERED 6.1 CBBE SE.7z](https://www.mediafire.com/file/vglmfgdbaubm2ti/TAWOBA+REMASTERED+6.1+CBBE+SE.7z/file)
 *  [TB's Improved Smoke - 4K (Patched)-37541-2-1592996280.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37541/?tab=files&file_id=147194)
 *  [TBD - Kinnari Armor-71999-1-0-1658631085.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71999/?tab=files&file_id=301659)
 *  [Tel Mithryn LODs 512-35437-1-0-1588290419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35437/?tab=files&file_id=137255)
