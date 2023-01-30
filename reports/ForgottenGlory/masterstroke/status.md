@@ -1,10 +1,11 @@
 ## Validation Report - Masterstroke (ForgottenGlory/masterstroke)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [TAWOBA REMASTERED 6.1 CBBE SE.7z](https://www.mediafire.com/file/vglmfgdbaubm2ti/TAWOBA+REMASTERED+6.1+CBBE+SE.7z/file)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1094)
+### Valid (1093)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -960,7 +961,6 @@
 *  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.21.4/Synthesis.zip)
 *  [Take Notes - Journal of the Dragonborn SSE (alpha)-13570-1-0a.7z](https://www.nexusmods.com/skyrimspecialedition/mods/13570/?tab=files&file_id=39125)
 *  [TAP Interiors 1.4.rar](https://www.loverslab.com/files/file/22844-the-ancient-profession-interiors-project/)
-*  [TAWOBA REMASTERED 6.1 CBBE SE.7z](https://www.mediafire.com/file/vglmfgdbaubm2ti/TAWOBA+REMASTERED+6.1+CBBE+SE.7z/file)
 *  [TBoD_MainMenuReplacerPositionFixSE-59133-1-0-1638299124.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59133/?tab=files&file_id=245610)
 *  [Tembtra Thief-4292-2-01-1556250882.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4292/?tab=files&file_id=89726)
 *  [Tempered Skins for Males - SOS Full version-7902-2-06-1601375163.7z](https://www.nexusmods.com/skyrimspecialedition/mods/7902/?tab=files&file_id=163103)
