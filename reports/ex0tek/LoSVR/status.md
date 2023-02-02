@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (754)
+### Valid (752)
 *  [1) Skyrim Immersive Creatures v7.0.2 (includes 1K Textures)-12680-v7-0-2-1631188254.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12680/?tab=files&file_id=227169)
 *  [1k Textures-75377-1-1.rar](https://www.nexusmods.com/skyrim/mods/75377/?tab=files&file_id=1000205296)
 *  [3.18 to 3.20 Update-20199-3-20-1657117561.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20199/?tab=files&file_id=296677)
@@ -80,7 +80,6 @@
 *  [BSA Version-68139-2-0-1653521494.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68139/?tab=files&file_id=286548)
 *  [Bthalft Stairs-26331-1-0-1-1572877699.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26331/?tab=files&file_id=112429)
 *  [Caliente's Beautiful Bodies Enhancer - v1.7.1-198-1-7-1-1655467297.7z](https://www.nexusmods.com/skyrimspecialedition/mods/198/?tab=files&file_id=291767)
-*  [Cathedral - Armory Integration-54930-3-16-1633385315.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54930/?tab=files&file_id=232642)
 *  [Cathedral Armory-20199-3-17-1639703737.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20199/?tab=files&file_id=249718)
 *  [Cathedral Armory-20199-3-19-1656862976.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20199/?tab=files&file_id=295873)
 *  [CBBE Vanilla Armors - No Rim Lighting-59268-1-1-1656431529.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59268/?tab=files&file_id=294719)
@@ -134,7 +133,7 @@
 *  Data_Skyrim - Textures0.bsa
 *  Data_Skyrim - Textures1.bsa
 *  Data_Skyrim - Textures3.bsa
-*  Data_Skyrim - Textures4.bsa
+*  Data_Skyrim - Textures7.bsa
 *  Data_Skyrim.esm
 *  Data_SkyrimVR.esm
 *  Data_Strings_Dawnguard_ENGLISH.DLSTRINGS
@@ -754,7 +753,6 @@
 *  [Zelda - Twilight Princess - Sevenbase Bombshell-37080-1-0-1591893354.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37080/?tab=files&file_id=145098)
 *  [Zelda Hyrule Castle Player House Followers-34617-1-0.rar](https://www.nexusmods.com/skyrim/mods/34617/?tab=files&file_id=1000023739)
 *  [Zelda Hyrule Warriors-38423-1-0-1595038391.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38423/?tab=files&file_id=150917)
-*  [Zelda Twilight Princess UI Sounds Replacer-98768-1-0-1564421958.zip](https://www.nexusmods.com/skyrim/mods/98768/?tab=files&file_id=1000302011)
 *  [Zim's Dremora Improvements V2.2-12128-V2-2-1654026445.rar](https://www.nexusmods.com/skyrimspecialedition/mods/12128/?tab=files&file_id=287922)
 *  [Zim's Immersive Artifacts V1.6.2-9138-V1-6-2-1592990585.rar](https://www.nexusmods.com/skyrimspecialedition/mods/9138/?tab=files&file_id=147184)
 *  [Zim's Immersive Artifacts V1.7.4-9138-V1-7-4-1660487328.rar](https://www.nexusmods.com/skyrimspecialedition/mods/9138/?tab=files&file_id=307456)
