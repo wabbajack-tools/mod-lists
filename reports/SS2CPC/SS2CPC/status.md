@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (190)
+### Valid (193)
 *  [Add-on Maker's Toolkit for Sim Settlements 2-48521-2-2-5-1669696073.zip](https://www.nexusmods.com/fallout4/mods/48521/?tab=files&file_id=258540)
 *  [Addres Library-47327-1-10-163-0-1599728753.zip](https://www.nexusmods.com/fallout4/mods/47327/?tab=files&file_id=191018)
 *  [Barstool Games - Main-30222-v1-1-1-1545946011.zip](https://www.nexusmods.com/fallout4/mods/30222/?tab=files&file_id=148797)
@@ -17,7 +17,6 @@
 *  [Captain Cosmos Construct v2.0-48233-2-0-1674384940.zip](https://www.nexusmods.com/fallout4/mods/48233/?tab=files&file_id=264431)
 *  [Choochoo1's Noen Bar Plot ESL V2-64561-2-0-1664379881.zip](https://www.nexusmods.com/fallout4/mods/64561/?tab=files&file_id=251914)
 *  [Choochoo1's Nuka World Sim Settlements 2 patch-59619-1-0-1649765369.zip](https://www.nexusmods.com/fallout4/mods/59619/?tab=files&file_id=234641)
-*  [City Plan Contest Assistant-50366-2-2-4-1666975378.zip](https://www.nexusmods.com/fallout4/mods/50366/?tab=files&file_id=254906)
 *  [City Plan Contest Assistant-50366-2-3-1-1674959415.zip](https://www.nexusmods.com/fallout4/mods/50366/?tab=files&file_id=265368)
 *  [Corner Wall Snappy-60955-1-0-1-1655440961.7z](https://www.nexusmods.com/fallout4/mods/60955/?tab=files&file_id=240801)
 *  [Corridor Snappy-61770-1-0-1656602842.7z](https://www.nexusmods.com/fallout4/mods/61770/?tab=files&file_id=242013)
@@ -126,16 +125,19 @@
 *  [Junk Town 2-48271-2-2-1614731829.rar](https://www.nexusmods.com/fallout4/mods/48271/?tab=files&file_id=202715)
 *  [JunkTown - EXTREME2-48399-1-1-1606179168.rar](https://www.nexusmods.com/fallout4/mods/48399/?tab=files&file_id=195569)
 *  [JunkTown - FENCES2-48525-1-2-1607039818.rar](https://www.nexusmods.com/fallout4/mods/48525/?tab=files&file_id=196201)
+*  [Kingsport Lighthouse Vanilla Navmesh Update by Vilance-68324-1-0-1675063929.7z](https://www.nexusmods.com/fallout4/mods/68324/?tab=files&file_id=265539)
 *  [loot_0.19.1-win64.7z](https://github.com/loot/loot/releases/download/0.19.1/loot_0.19.1-win64.7z)
 *  Low.ini
 *  [Mator Smash Updated-39378-2-0-0-beta-5-1633294626.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39378/?tab=files&file_id=232389)
 *  [MCM Booster-56997-1-0-1641058633.rar](https://www.nexusmods.com/fallout4/mods/56997/?tab=files&file_id=225311)
 *  [MCM Settings Manager-56195-1-2-1668562769.rar](https://www.nexusmods.com/fallout4/mods/56195/?tab=files&file_id=257096)
+*  [Mechanist's Lair Pathfinding Fix-68417-1-00-1675273176.zip](https://www.nexusmods.com/fallout4/mods/68417/?tab=files&file_id=265844)
 *  Medium.ini
 *  [Mod Configuration Menu 1.39-21497-1-39-1575706632.zip](https://www.nexusmods.com/fallout4/mods/21497/?tab=files&file_id=172180)
 *  [Mod.Organizer-2.4.4.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z)
 *  msvcp110.dll
 *  msvcr110.dll
+*  [Murkwater Construction Vanilla Navmesh Update by Vilance-68405-1-1-1675249691.7z](https://www.nexusmods.com/fallout4/mods/68405/?tab=files&file_id=265815)
 *  [NSO - Base Pack 5.0-13959-5-0.7z](https://www.nexusmods.com/fallout4/mods/13959/?tab=files&file_id=71471)
 *  nvdebris.txt
 *  nvToolsExt64_1.dll
@@ -146,6 +148,7 @@
 *  [Rags and Riches 2.0-58189-2-0-1651334909.zip](https://www.nexusmods.com/fallout4/mods/58189/?tab=files&file_id=236350)
 *  [Random Settlers - Level Up-55466-2-0-1-1639171023.7z](https://www.nexusmods.com/fallout4/mods/55466/?tab=files&file_id=223543)
 *  [Random Settlers-55466-2-0-1-1639170965.7z](https://www.nexusmods.com/fallout4/mods/55466/?tab=files&file_id=223542)
+*  [Red Rocket Updated Navmesh by Vilance-68494-1-0-1675501163.7z](https://www.nexusmods.com/fallout4/mods/68494/?tab=files&file_id=266191)
 *  [ReSaver 6.0.310-22633-6-0-310-1596094205.7z](https://www.nexusmods.com/fallout4/mods/22633/?tab=files&file_id=187966)
 *  [Rusty Face Fix-31028-1-2-1a.zip](https://www.nexusmods.com/fallout4/mods/31028/?tab=files&file_id=142837)
 *  [Scaffolding Snapping 1.1-61017-1-1-1654857804.7z](https://www.nexusmods.com/fallout4/mods/61017/?tab=files&file_id=240171)
