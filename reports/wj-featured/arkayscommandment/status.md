@@ -305,7 +305,7 @@
 *  [ENB Input Disabler-62796-1-0-2-1643723189.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62796/?tab=files&file_id=260978)
 *  [ENB Light 0.98 Alpha 2-22574-0-98Alpha2-1577144667.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=117211)
 *  [ENB Lights for Effect Shaders SE-56362-2-0-1641571441.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56362/?tab=files&file_id=254729)
-*  [enbseries_skyrimse_v0484.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0484.zip_532f8634-b0b1-4e9c-84b9-ec1766f6bb85/)
+*  [enbseries_skyrimse_v0484.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0484.zip_97513989-5b73-4c32-bcd7-e8907f419c7a/)
 *  [Enderal Font For Skyrim SE-2004-1-2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/2004/?tab=files&file_id=4356)
 *  [Enhanced Invisibility SE-61950-1-2-0-1642780878.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61950/?tab=files&file_id=258409)
 *  [Enhanced Lights and FX-2424-3-06.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2424/?tab=files&file_id=35608)

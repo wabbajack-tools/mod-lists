@@ -1029,7 +1029,7 @@
 *  [HD Vigilant Project - Jyggalag-51753-V1-1624924570.rar](https://www.nexusmods.com/skyrimspecialedition/mods/51753/?tab=files&file_id=211621)
 *  [HD Vigilant Project - Pelinal-51866-V1-1625177642.rar](https://www.nexusmods.com/skyrimspecialedition/mods/51866/?tab=files&file_id=212164)
 *  [HD Vigilant Project - Umaril-55654-V1-1631755857.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55654/?tab=files&file_id=228653)
-*  [Headhunter - Bounties Redone-51847-1-41-1670863300.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51847/?tab=files&file_id=340050)
+*  [Headhunter - Bounties Redone-51847-1-42-1675686878.rar](https://www.nexusmods.com/skyrimspecialedition/mods/51847/?tab=files&file_id=357082)
 *  [Headhunter's Backpacks FOMOD-52232-4-1630527572.zip](https://www.nexusmods.com/skyrimspecialedition/mods/52232/?tab=files&file_id=225450)
 *  [Hearthfire BYOH Mesh Fixes-56794-1-1-1634514236.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56794/?tab=files&file_id=235482)
 *  [Hearthfire Multiple Adoptions and Custom Home Support SE-3862-3-0-4-1656871468.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3862/?tab=files&file_id=295913)
