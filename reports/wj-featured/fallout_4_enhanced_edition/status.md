@@ -1,10 +1,11 @@
 ## Validation Report - Horizon Roleplay Overhaul (wj-featured/fallout_4_enhanced_edition)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [f4se_0_06_21.7z](https://f4se.silverlock.org/beta/f4se_0_06_21.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (287)
+### Valid (286)
 *  [(Main Version) Ultimate Window Overhaul Redone-43458-4-0-1655918840.rar](https://www.nexusmods.com/fallout4/mods/43458/?tab=files&file_id=241300)
 *  [1 Tales from the Commonwealth FOMOD patch for Horizon-27087-1-6-4-1543078639.7z](https://www.nexusmods.com/fallout4/mods/27087/?tab=files&file_id=146600)
 *  [1-handed Version-11142-1-2.7z](https://www.nexusmods.com/fallout4/mods/11142/?tab=files&file_id=50631)
@@ -89,7 +90,6 @@
 *  [F4EE 1.2.1 Hotfix 1-39996-1-2-1-1626563819.7z](https://www.nexusmods.com/fallout4/mods/39996/?tab=files&file_id=212769)
 *  [F4EE HUD-39996-1-2-1607716568.7z](https://www.nexusmods.com/fallout4/mods/39996/?tab=files&file_id=196816)
 *  [F4EEArt-39996-1-2-1596578097.7z](https://www.nexusmods.com/fallout4/mods/39996/?tab=files&file_id=188386)
-*  [f4se_0_06_21.7z](https://f4se.silverlock.org/beta/f4se_0_06_21.7z)
 *  [FaceMaxsonV2_9-21923-2-9.7z](https://www.nexusmods.com/fallout4/mods/21923/?tab=files&file_id=97510)
 *  [Faded Glory - A Post-Apocalyptic Soundscape-26014-5-1-1596838402.7z](https://www.nexusmods.com/fallout4/mods/26014/?tab=files&file_id=188642)
 *  [Fallout 4 Script Extender (F4SE)-42147-0-6-23-1665656782.7z](https://www.nexusmods.com/fallout4/mods/42147/?tab=files&file_id=253313)
