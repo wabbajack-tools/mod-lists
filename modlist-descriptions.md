@@ -549,9 +549,13 @@ View the entire [list of mods.](https://loadorderlibrary.com/lists/fo4me)
 
 ## Enderal Special Edition
 
-### [Somnium](https://www.scenicroute.games/projects/somnium)
+### [Somnium: In Every Shadow](https://www.scenicroute.games/projects/somnium)
 
 From the same team that brought you Librum SE and Librum VR, Somnium is a total conversion of Enderal's mechanics, graphics, and atmosphere, designed to bring the gameplay and visuals up to par with Enderal's first-rate stories and setting. Specifically, Somnium casts the game into an Age of Sail setting, complete with all-new, custom third-person shooter mechanics; new and remastered assets and locations; and a complete re-imagining of all game mechanics. Moreover, the game is built upon a new horror framework in the form of _Apoapse's Anomalies_, turning Enderal's fantasy elements into something more reminiscient of Lovecraftian horror.
+
+**_Mods to get familiar with:_**
+
+There are none. Somnium is primarily in-house work, and all included mods are heavily edited to fit with our own content. For more information about the game, please consult our [website](https://www.scenicroute.games/projects/somnium).
 
 ***
 
