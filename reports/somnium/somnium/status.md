@@ -1,4 +1,4 @@
-## Validation Report - Somnium (wj-featured/somnium)
+## Validation Report - Somnium (somnium/somnium)
 
 
 ### Invalid (0)

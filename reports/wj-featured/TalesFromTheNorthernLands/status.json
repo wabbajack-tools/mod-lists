@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/TalesFromTheNorthernLands",
   "Name": "Tales from the Northern Lands",
-  "Version": "2.10.2",
-  "ModListHash": "FHhzNX0sO5I=",
+  "Version": "2.10.3",
+  "ModListHash": "477QE+fkwUc=",
   "Archives": [
     {
       "Status": "Valid",
@@ -3687,20 +3687,6 @@
           "ModID": 62001,
           "Name": "Immersive Equipment Displays",
           "Version": "1.1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "sgtnPxrs0xA=",
-        "Meta": "[General]\ndirectURL=https://github.com/ArranzCNL/ImprovedCameraSE/releases/download/v1.0.0/ImprovedCameraSE-1.0.0.PR5.7z",
-        "Name": "ImprovedCameraSE-1.0.0.PR5.7z",
-        "Size": 4310361,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/ArranzCNL/ImprovedCameraSE/releases/download/v1.0.0/ImprovedCameraSE-1.0.0.PR5.7z"
         }
       }
     },
@@ -9629,6 +9615,27 @@
           "ModID": 44155,
           "Name": "High Poly NPC Overhaul - Skyrim Special Edition 2.0 (All Vanilla NPCs)",
           "Version": "2.04"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sPdWaPaCOkY=",
+        "Meta": "[General]\ngameName=skyrim\nmodID=90987\nfileID=1000272456",
+        "Name": "Mator Smash Hotfix 2-90987-1-0-2.zip",
+        "Size": 3540332,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mator",
+          "Description": "Mator Smash is a tool that generates conflict resolution patches, similar to Wrye Bash\u0027s Bashed Patch. \n\nSmash is capable of handling conflicts in all record types.",
+          "FileID": 1000272456,
+          "GameName": "Skyrim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/110/images/90987/90987-1525374913-1220679519.png",
+          "IsNSFW": false,
+          "ModID": 90987,
+          "Name": "Mator Smash",
+          "Version": "1.0.2"
         }
       }
     },

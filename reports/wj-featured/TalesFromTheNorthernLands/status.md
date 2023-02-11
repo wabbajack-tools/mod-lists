@@ -260,7 +260,6 @@
 *  [Immersive Sounds Compendium 3.0-523-3-0-1629219996.zip](https://www.nexusmods.com/skyrimspecialedition/mods/523/?tab=files&file_id=221873)
 *  [Improved College Entry-22184-2-8-1602614138.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22184/?tab=files&file_id=165417)
 *  [Improved_Camera-1.0_Beta4.7z](https://drive.google.com/uc?id=12hqOZbfeFK0zXJxpzsEXsyQyDclDQaZk&export=download)
-*  [ImprovedCameraSE-1.0.0.PR5.7z](https://github.com/ArranzCNL/ImprovedCameraSE/releases/download/v1.0.0/ImprovedCameraSE-1.0.0.PR5.7z)
 *  [Inferno - Fire Effects Redux-29316-4-1-1591025449.zip](https://www.nexusmods.com/skyrimspecialedition/mods/29316/?tab=files&file_id=143264)
 *  [INI file-51073-1-5-0-1642682975.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=258051)
 *  [Injured Animations Dynamic Replacer SE-34663-1-1-1615302930.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34663/?tab=files&file_id=190437)
@@ -316,6 +315,7 @@
 *  [Manbeast - A Werewolf Overhaul-44746-2-0-1673647364.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44746/?tab=files&file_id=349267)
 *  [Masculine Chameleon and Lizard (Vanilla) 1K-185-2-0-1635645233.7z](https://www.nexusmods.com/skyrimspecialedition/mods/185/?tab=files&file_id=238057)
 *  [Masculine Grey Cat and Leopard (Vanilla) 1K-186-2-0-1637430203.7z](https://www.nexusmods.com/skyrimspecialedition/mods/186/?tab=files&file_id=242969)
+*  [Mator Smash Hotfix 2-90987-1-0-2.zip](https://www.nexusmods.com/skyrim/mods/90987/?tab=files&file_id=1000272456)
 *  [MCM Helper SE-53000-1-3-0-1629918598.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53000/?tab=files&file_id=223746)
 *  [MCM SDK-53000-1-3-0-1629918647.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53000/?tab=files&file_id=223749)
 *  Medium.ini
