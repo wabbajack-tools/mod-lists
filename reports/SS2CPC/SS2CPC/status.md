@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (193)
+### Valid (195)
 *  [Add-on Maker's Toolkit for Sim Settlements 2-48521-2-2-5-1669696073.zip](https://www.nexusmods.com/fallout4/mods/48521/?tab=files&file_id=258540)
 *  [Addres Library-47327-1-10-163-0-1599728753.zip](https://www.nexusmods.com/fallout4/mods/47327/?tab=files&file_id=191018)
 *  [Barstool Games - Main-30222-v1-1-1-1545946011.zip](https://www.nexusmods.com/fallout4/mods/30222/?tab=files&file_id=148797)
@@ -17,7 +17,7 @@
 *  [Captain Cosmos Construct v2.0-48233-2-0-1674384940.zip](https://www.nexusmods.com/fallout4/mods/48233/?tab=files&file_id=264431)
 *  [Choochoo1's Noen Bar Plot ESL V2-64561-2-0-1664379881.zip](https://www.nexusmods.com/fallout4/mods/64561/?tab=files&file_id=251914)
 *  [Choochoo1's Nuka World Sim Settlements 2 patch-59619-1-0-1649765369.zip](https://www.nexusmods.com/fallout4/mods/59619/?tab=files&file_id=234641)
-*  [City Plan Contest Assistant-50366-2-3-1-1674959415.zip](https://www.nexusmods.com/fallout4/mods/50366/?tab=files&file_id=265368)
+*  [City Plan Contest Assistant-50366-2-3-1a-1676153841.zip](https://www.nexusmods.com/fallout4/mods/50366/?tab=files&file_id=267041)
 *  [Corner Wall Snappy-60955-1-0-1-1655440961.7z](https://www.nexusmods.com/fallout4/mods/60955/?tab=files&file_id=240801)
 *  [Corridor Snappy-61770-1-0-1656602842.7z](https://www.nexusmods.com/fallout4/mods/61770/?tab=files&file_id=242013)
 *  [County Crossing Vanilla Navmesh Update by Vilance-68074-1-1b-1674435749.7z](https://www.nexusmods.com/fallout4/mods/68074/?tab=files&file_id=264514)
@@ -110,6 +110,7 @@
 *  [From Sanctuary to Concord - Building Plans Module-62210-1-0-1665924343.zip](https://www.nexusmods.com/fallout4/mods/62210/?tab=files&file_id=253580)
 *  [Full Release v1.8-67406-1-8-1673771527.7z](https://www.nexusmods.com/fallout4/mods/67406/?tab=files&file_id=263609)
 *  [Garden Plot for teh fixed snap-61193-1-1-1654943202.7z](https://www.nexusmods.com/fallout4/mods/61193/?tab=files&file_id=240276)
+*  [GCBugFix Release 0.1-68681-0-1-1675995705.zip](https://www.nexusmods.com/fallout4/mods/68681/?tab=files&file_id=266866)
 *  GFSDK_GodraysLib.x64.dll
 *  GFSDK_SSAO_D3D11.win64.dll
 *  [High FPS Physics Fix-44798-0-8-6-1656849140.zip](https://www.nexusmods.com/fallout4/mods/44798/?tab=files&file_id=242328)
@@ -189,6 +190,7 @@
 *  Ultra.ini
 *  [Unofficial Fallout 4 Patch-4598-2-1-4-1658972157.7z](https://www.nexusmods.com/fallout4/mods/4598/?tab=files&file_id=244732)
 *  [Useful Posts for Behemoth's-61294-1-1-1656823588.7z](https://www.nexusmods.com/fallout4/mods/61294/?tab=files&file_id=242302)
+*  [Vanilla Navmesh Update by Vilance-68587-1-0-1675719618.7z](https://www.nexusmods.com/fallout4/mods/68587/?tab=files&file_id=266499)
 *  [Vault-Tec Tools-48700-1-0-5a-1650723760.zip](https://www.nexusmods.com/fallout4/mods/48700/?tab=files&file_id=235731)
 *  [Visible Idle Markers-46453-3a-1637546943.7z](https://www.nexusmods.com/fallout4/mods/46453/?tab=files&file_id=221937)
 *  [Wasteland Reconstruction Kit-48960-0-2-1666975217.7z](https://www.nexusmods.com/fallout4/mods/48960/?tab=files&file_id=254905)
