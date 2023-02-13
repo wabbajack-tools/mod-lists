@@ -1,11 +1,10 @@
 ## Validation Report - Tahrovin (Tahrovin/tahrovin)
 
 
-### Invalid (1)
-*  [enbseries_skyrimvr_v0485.zip](https://authored-files.wabbajack.org/enbseries_skyrimvr_v0485.zip_a2f445c2-abb9-457d-b265-6be40bf61f2e)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (634)
+### Valid (635)
 *  [.Deadly Spell Impacts 4K-74526-1-0-1662133724.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74526/?tab=files&file_id=312550)
 *  [(2) Sharkish Piercings - 3BA - Base-57131-1-01-1634464044.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235340)
 *  [(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77989)
@@ -180,6 +179,7 @@
 *  [Embers XD-37085-2-6-8-1671124198.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37085/?tab=files&file_id=340813)
 *  [ENB Helper VR-25142-1-0-0-1555617161.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25142/?tab=files&file_id=88880)
 *  [ENB Organizer-67077-v2-1-1.zip](https://www.nexusmods.com/skyrim/mods/67077/?tab=files&file_id=1000214338)
+*  [enbseries_skyrimvr_v0485.zip](https://authored-files.wabbajack.org/enbseries_skyrimvr_v0485.zip_a2f445c2-abb9-457d-b265-6be40bf61f2e)
 *  [Enchanted Weapon Charge Fix-62314-1-1-1642917800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62314/?tab=files&file_id=258817)
 *  [Engine Fixes VR v1.22a-62089-v1-22a-1642433292.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62089/?tab=files&file_id=257472)
 *  [Enhanced Enemies-35133-1-0-1609936918.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35133/?tab=files&file_id=177983)
