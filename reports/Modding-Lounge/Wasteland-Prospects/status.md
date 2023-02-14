@@ -1,10 +1,11 @@
 ## Validation Report - Wasteland Prospects (Modding-Lounge/Wasteland-Prospects)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Vanilla_UI_Plus_New_Vegas_947.7z](https://www.moddb.com/downloads/mirror/128019/123/216f6e8096d63d3cd28974dee5bcc761/?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fvanilla-ui-plus%2Fdownloads)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (367)
+### Valid (366)
 *  [1. Consistent Pip-boy Icons-65046-4-4-1659349331.7z](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000096843)
 *  [2. Consistent Addon Icons-65046-4-2-1652355224.zip](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000092397)
 *  [3. CPI - Mod Patches-65046-4-01-1659422736.7z](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000096876)
@@ -360,7 +361,6 @@
 *  [Vanilla Enhancements Merged-78877-1-3-0-1671362141.7z](https://www.nexusmods.com/newvegas/mods/78877/?tab=files&file_id=1000102504)
 *  [Vanilla Iron Sights Realligned-77672-1-1-1658954471.7z](https://www.nexusmods.com/newvegas/mods/77672/?tab=files&file_id=1000096609)
 *  [Vanilla UI Plus Patch-65046-4-1630588242.zip](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000080535)
-*  [Vanilla_UI_Plus_New_Vegas_947.7z](https://www.moddb.com/downloads/mirror/128019/123/216f6e8096d63d3cd28974dee5bcc761/?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fvanilla-ui-plus%2Fdownloads)
 *  VeryHigh.ini
 *  [VICE - Visuals Improved Content Enhanced-79686-1-0-1674264569.rar](https://www.nexusmods.com/newvegas/mods/79686/?tab=files&file_id=1000103847)
 *  [Wasteland Flora and Terrain Overhaul-39856-3-6b-1606828085.7z](https://www.nexusmods.com/newvegas/mods/39856/?tab=files&file_id=1000068193)
