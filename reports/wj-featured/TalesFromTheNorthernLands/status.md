@@ -1,10 +1,11 @@
 ## Validation Report - Tales from the Northern Lands (wj-featured/TalesFromTheNorthernLands)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Tales Output.7z](https://authored-files.wabbajack.org/Tales Output.7z_8468c0a7-f0fd-4862-93aa-89d60d74da07)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (589)
+### Valid (588)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [1_Enhanced Blood Textures-2357-4-0-1639547261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=249235)
@@ -504,7 +505,6 @@
 *  [Sweeping Organizes Stuff - Use Broom to Clean Mess-51645-0-4-1631276902.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51645/?tab=files&file_id=227392)
 *  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.25.3/Synthesis.zip)
 *  [Take a Seat - DAR Animations-54193-1-0-1630519272.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54193/?tab=files&file_id=225430)
-*  [Tales Output.7z](https://authored-files.wabbajack.org/Tales Output.7z_8468c0a7-f0fd-4862-93aa-89d60d74da07)
 *  [tales_2_11_0_generated.7z](https://authored-files.wabbajack.org/tales_2_11_0_generated.7z_9a8ca088-a461-4383-ae25-d7f25c8042d1)
 *  [Tales-from-the-Northern-Lands-9298169d51fb1848c93d40ca60fc6695a01c0cbc.zip](https://github.com/EzioTheDeadPoet/Tales-from-the-Northern-Lands/archive/9298169d51fb1848c93d40ca60fc6695a01c0cbc.zip)
 *  [TDM - Tail Behavior Fix-53757-1-0-1628824407.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53757/?tab=files&file_id=220772)
