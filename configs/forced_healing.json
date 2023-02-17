@@ -581,5 +581,31 @@
       }
     },
     "PatchUrl": "https://patches.wabbajack.org/f88045b2c45cf9f1_0712a2ed663fae0a"
+  },
+  {
+    "Status": "Updated",
+    "Original": {
+      "Hash": "msuqqxQb9fE=",
+      "Meta": "",
+      "Name": "ImprovedCameraSE-1.0.0.7z",
+      "Size": 729208,
+      "State": {
+        "$type": "HttpDownloader, Wabbajack.Lib",
+        "Headers": [],
+        "Url": "https://github.com/ArranzCNL/ImprovedCameraSE/releases/download/v1.0.0/ImprovedCameraSE-1.0.0.7z"
+      }
+    },
+    "PatchedFrom": {
+      "Hash": "gJ1r0Rqh+FU=",
+      "Meta": "",
+      "Name": "ImprovedCameraSE-1.0.0.PR5.7z",
+      "Size": 5899449,
+      "State": {
+        "$type": "HttpDownloader, Wabbajack.Lib",
+        "Headers": [],
+        "Url": "https://github.com/ArranzCNL/ImprovedCameraSE/releases/download/v1.0.0/ImprovedCameraSE-1.0.0.PR5.7z"
+      }
+    },
+    "PatchUrl": "https://patches.wabbajack.org/9acbaaab141bf5f1_809d6bd11aa1f855"
   }
 ]
