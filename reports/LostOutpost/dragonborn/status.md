@@ -410,7 +410,7 @@
 *  [Ruins Clutter Improved SE Mod Manager-5870-3-2b-1641550746.rar](https://www.nexusmods.com/skyrimspecialedition/mods/5870/?tab=files&file_id=254650)
 *  [Run For Your Lives-2272-4-0-3-1586907257.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2272/?tab=files&file_id=134389)
 *  [RUSTIC ANIMATED POTIONS and POISONS 2K-2276-1-1.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2276/?tab=files&file_id=2981)
-*  [RUSTIC CLOTHING - Special Edition - 2K-4703-3-0-1597023412.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4703/?tab=files&file_id=154781)
+*  [RUSTIC CLOTHING - Special Edition - 2K-1K-4703-3-0-1597023786.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4703/?tab=files&file_id=154782)
 *  [RUSTIC CLUTTER COLLECTION - Special Edition - 2K-5795-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5795/?tab=files&file_id=12967)
 *  [RUSTIC COOKING - Special Edition - 2K-6142-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6142/?tab=files&file_id=14122)
 *  [RUSTIC FURNITURE - SE - SMIM - 2K-17228-3-0-1598395453.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17228/?tab=files&file_id=157641)
