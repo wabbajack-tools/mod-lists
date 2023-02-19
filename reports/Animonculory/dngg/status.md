@@ -1,15 +1,15 @@
 ## Validation Report - Do Not Go Gentle (Animonculory/dngg)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [_Fuse00_ArmorSonaVanillaMale_V1.1.rar](https://www.patreon.com/file?h=68902488&i=12781381)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1597)
+### Valid (1596)
 *  [_Fuse00_ArmorMelonyCBBE.rar](https://www.patreon.com/file?h=67711235&i=10980531)
 *  [_Fuse00_ArmorRagnar_Vanilla.rar](https://www.patreon.com/file?h=70803544&i=11554150)
 *  [_Fuse00_ArmorRogue.rar](https://www.patreon.com/file?h=67007517&i=10861552)
 *  [_Fuse00_ArmorSonaCBBE_V1.1.rar](https://www.patreon.com/file?h=68902488&i=12781379)
-*  [_Fuse00_ArmorSonaVanillaMale_V1.1.rar](https://www.patreon.com/file?h=68902488&i=12781381)
 *  [_Fuse00AmberHair.rar](https://www.patreon.com/file?h=76570894&i=12673922)
 *  [_Fuse00HairPackBraided03.rar](https://www.patreon.com/file?h=64262256&i=10354948)
 *  [_Fuse00SirenHair.rar](https://www.patreon.com/file?h=75589695&i=12484434)
