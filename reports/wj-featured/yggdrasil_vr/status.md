@@ -1,11 +1,10 @@
 ## Validation Report - Yggdrasil VR (wj-featured/yggdrasil_vr)
 
 
-### Invalid (1)
-*  [sforzinda_fashions.7z](https://authored-files.wabbajack.org/sforzinda_fashions.7z_8b027e83-feaf-4a69-bbd2-0ce8abff26cf)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1235)
+### Valid (1236)
 *  [01 My Road Signs are Beautiful - English Version-46564-1-5EN-1656853597.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46564/?tab=files&file_id=295840)
 *  [1.0-19893-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19893/?tab=files&file_id=65775)
 *  [1.6-28221-1-6-1645551137.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28221/?tab=files&file_id=266123)
@@ -923,6 +922,7 @@
 *  [Septentrional Landscapes 4K SE-29842-1-3-2-1584615630.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29842/?tab=files&file_id=129365)
 *  [Serana Dialogue Add-On SE-32161-3-0-1-0-1654094844.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32161/?tab=files&file_id=288095)
 *  [Severin Manor Has A Price-62165-1-0-1642516196.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62165/?tab=files&file_id=257685)
+*  [sforzinda_fashions.7z](https://authored-files.wabbajack.org/sforzinda_fashions.7z_8b027e83-feaf-4a69-bbd2-0ce8abff26cf)
 *  [Shadow Spell Package-13299-5-02.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13299/?tab=files&file_id=45335)
 *  [Shadow Spells for Witches and Hagravens - 50 Percent-57611-0-1-1635456729.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57611/?tab=files&file_id=237608)
 *  [Sheogorath HD-61204-1-1-0-1641231267.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61204/?tab=files&file_id=253665)
