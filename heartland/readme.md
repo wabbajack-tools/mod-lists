@@ -74,7 +74,7 @@ Only applicable for use with a monitor that has greater than a 16:9 aspect ratio
     * **Tweak Settings -> Arrow Speed is x2.0** for more responsive archery (right click box to change)
     * **Tweak Actors -> Irresponsible Creatures** ticked
     * **Tweak Settings -> Crime: Alarm Distance at 2000** to reduce guard crime intuition range (right click to change)
-    * **Tweak Settings -> Greeting Distance at 100** for less NPC chatter (right click to change)
+    * **Tweak Settings -> Actor: Greeting Distance at 100** for less NPC chatter (right click to change)
     * **Tweak Settings -> Warning: Exterior Distance to Hostiles at 2000** for reduced combat distance outdoors (right click to change)
 4. When asked about mods to be de-activated and incorporated into the patch, simply **press OK**.
 5. Hit **Build Patch**. This will take a few minutes, and produce a popup log when complete. Close Wrye Bash.
