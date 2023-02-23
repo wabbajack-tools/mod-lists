@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (229)
+### Valid (230)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [Actor Limit Fix - Anniversary Edition (1.6.629.0 and later)-32349-8-1671377549.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=341583)
@@ -34,6 +34,7 @@
 *  [BodySlide and Outfit Studio - v5.6.0-201-5-6-0-1654342850.7z](https://www.nexusmods.com/skyrimspecialedition/mods/201/?tab=files&file_id=288728)
 *  [Bug Fixes SSE - Anniversary Edition (1.6.629.0 and later)-33261-9-1671376843.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33261/?tab=files&file_id=341581)
 *  [Cathedral Assets Optimizer 64-23316-5-3-14-1665584229.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23316/?tab=files&file_id=323488)
+*  [CC Horse Armor Stays Token-26092-1-0-1677165963.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26092/?tab=files&file_id=362612)
 *  [Chillwind Depths CTD Fix-44249-1-0-1-1623084432.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44249/?tab=files&file_id=207969)
 *  [CK Custom ini-19817-4-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19817/?tab=files&file_id=65800)
 *  [CK64Fixes Update 3.4-71371-3-4-1671914722.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71371/?tab=files&file_id=343364)
@@ -116,7 +117,6 @@
 *  [HelpExtender-74376-1-2-1-1664274136.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74376/?tab=files&file_id=319742)
 *  [High Gate Ruins Puzzle Reset Fix-53643-0-2-1628676419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53643/?tab=files&file_id=220379)
 *  High.ini
-*  [Horse_armor_no_longer_disappears-59728-1-0-1638987754.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59728/?tab=files&file_id=247557)
 *  [INI file-51073-1-5-0-1642682975.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=258051)
 *  installscript.vdf
 *  [JContainers SE-16495-4-2-3-1665168582.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16495/?tab=files&file_id=322290)
@@ -210,6 +210,7 @@
 *  [SSEEdit 4.0.4-164-4-0-4-1636548642.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164/?tab=files&file_id=240322)
 *  [SSS-CT - Slaughterfish Stay Submerged - Collision Tweak-69570-1-0-1655053005.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69570/?tab=files&file_id=290660)
 *  [Stamina of Steeds-58742-1-0-1637372154.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58742/?tab=files&file_id=242776)
+*  [Staves (Creation) - Minor Fixes-77880-1-0-1667112080.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77880/?tab=files&file_id=327550)
 *  steam_api64.dll
 *  [SUEMR v3.0 Simple Vampire Fixes SSE-18147-v3-0-1577160259.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18147/?tab=files&file_id=117238)
 *  [Sunder and Wraithguard - Vault Fix-59083-1-0-1637936330.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59083/?tab=files&file_id=244533)
