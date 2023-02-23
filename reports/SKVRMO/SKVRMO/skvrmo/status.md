@@ -1,4 +1,4 @@
-## Validation Report - Skyrim VR Minimalistic Overhaul (SKVRMO/skvrmo)
+## Validation Report - Skyrim VR Minimalistic Overhaul (SKVRMO/SKVRMO/skvrmo)
 
 
 ### Invalid (0)
