@@ -790,7 +790,7 @@
 *  [Thaumaturgy - WACCF Patch-57138-1-1-3-1636328231.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57138/?tab=files&file_id=239752)
 *  [Thaumaturgy - Weapon Enchantment XP Tweak-57138-1-0-0-1655486482.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57138/?tab=files&file_id=291833)
 *  [The Choice is Yours-3850-2-4-1644706529.zip](https://www.nexusmods.com/skyrimspecialedition/mods/3850/?tab=files&file_id=263702)
-*  [The Dragon Cult - A Draugr Overhaul-81422-1-1-1674170590.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81422/?tab=files&file_id=351144)
+*  [The Dragon Cult - A Draugr Overhaul-81422-1-2-1-1676988104.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81422/?tab=files&file_id=362017)
 *  [The Last Dragonborn Perk-40225-1-0-1612306414.rar](https://www.nexusmods.com/skyrimspecialedition/mods/40225/?tab=files&file_id=183623)
 *  [The Northerner Diaries - Skyrim and Solstheim-28108-1-2-1573943146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28108/?tab=files&file_id=113553)
 *  [The Paarthurnax Resolution-43766-1-1609224380.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43766/?tab=files&file_id=176615)
