@@ -45,6 +45,7 @@
   - [Lost World](#lost-world---a-fallout-4-experience)
   - [Stay FROSTy](#stay-frosty---a-fallout-4-experience)
   - [Ground Zero](#ground-zero---a-fallout-4-experience)
+  - [FUSION](#FUSION)
 - [Enderal Special Edition](#enderal-special-edition)
   - [Somnium](#somnium-in-every-shadow)
   - [The Path](#the-path)
@@ -62,6 +63,7 @@
   - [Capital Punishment](#capital-punishment)
 - [Tale Of Two Wastelands](#tale-of-two-wastelands)
   - [The Vault Courier](#the-vault-courier)
+  - [Begin Again](#begin-again)
 - [Oblivion](#oblivion)
   - [Heartland](#heartland)
   - [Through The Valleys](#through-the-valleys)
@@ -615,6 +617,33 @@ View the entire [list of mods.](https://www.wabbajack.org/search/groundzero/grou
 
 ***
 
+### [FUSION](https://www.nexusmods.com/fallout4/mods/62880)
+
+FUSION Features:
+
+* Improved ambiance an visuals with [Lightweight Lighting](https://www.nexusmods.com/fallout4/mods/57680).
+* [Previsibines Repair pack](https://www.nexusmods.com/fallout4/mods/46403?tab=files) for improved performance. Especially on lower end systems.
+* A modern Interface thanks to [FallUI](https://www.nexusmods.com/fallout4/mods/51813).
+* Full complement of various fixes.
+* Integration of DLC weapons and armour into the wasteland.
+* Fully featured LOD objects thanks to [FOLIP](https://www.nexusmods.com/fallout4/mods/61884).
+* Mods custom made for the list such as [Perk Up](https://www.nexusmods.com/fallout4/mods/62843) and [Capped Out](https://www.nexusmods.com/fallout4/mods/62868).
+* A small hand selected set of textures that compliment the vanilla game without standing out
+
+Look elsewhere if you want:
+
+* Ultrawide support. FUSION only supports 16:9 aspect ratio
+* Creation club integration.
+* Large texture packs
+* Extra weapons or armour
+* Fancy ENBs
+* A survival simulator
+* A horror simulator
+
+Please see [here](https://loadorderlibrary.com/lists/fusion-1) for a complete up to date list of all the mods FUSION has.
+
+This mod list is for you if you have never played Fallout 4 before and want the best vanilla experience you can get on PC. Or maybe you are a seasoned player looking to go back to basics? FUSION has you covered.
+
 ## Enderal Special Edition
 
 ### [Somnium: In Every Shadow](https://www.scenicroute.games/projects/somnium)
@@ -798,6 +827,45 @@ A revamped and realistic take on the Tale of Two Wastelands modification. This m
 
 ## Tale Of Two Wastelands
 
+### [Begin Again](https://www.nexusmods.com/newvegas/mods/79547)
+
+Begin Again is a mod list that focuses on bringing the gameplay feel of later Fallout titles into Fallout 3 and New vegas. Whilst being careful to preserve what made those games unique. Built on top of the fantastic [Tale Of Two Wastelands](https://taleoftwowastelands.com/download_ttw) this modlist serves to expand on what they have achieved by modernising certain aspects of the game that have not aged well and slightly rebalancing things where needed. 
+If you have never played Fallout 3 or even New Vegas before then this is designed to be the definitive experience for a player used to some of the features of more modern games.
+
+Why the name? Well Begin Again is a [song](https://youtu.be/NCkwAgTcDBw) featured in the new vegas DLC "Dead Money". It has long been one of my favourite songs from the series and I feel the title is also a nod to the user about beginning the game again!
+
+Begin Again Features:
+
+* Full Ultrawide support
+* Thanks to [Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720) all root mods are installed through MO2. Removing the need for the stock game folders as an added bonus!
+* A modern Interface thanks to [Vanilla UI +](https://www.moddb.com/mods/vanilla-ui-plus) and customised [HUD Editor](https://www.nexusmods.com/newvegas/mods/67470) preset.
+* Full complement of various fixes.
+* Custom mods and patches exclusive to the list.
+* Integration of DLC weapons and armour into the wasteland.
+* Fully featured LOD.
+* A hand selected set of textures that compliment the vanilla game without standing out.
+* Full Xbox controller support.
+* Actually able to sprint like later Fallout titles thanks to [JAM](https://www.nexusmods.com/newvegas/mods/66666)
+* Quick bash mechanic similar to later Fallout titles thanks to [B42Bash](https://www.nexusmods.com/newvegas/mods/68055)
+* Various tweaks to make the game more fluid thanks to [Stewies Tweaks](https://www.nexusmods.com/newvegas/mods/66347)
+* The smallest possible size. Begin Again is 51gb fully Installed including downloads and TTW.
+
+Look elsewhere if you want:
+
+* Lots of extra weapons or armour
+* Fancy ENBs
+* A survival simulator
+* A horror simulator
+* Hardcore damage mods
+* A radically different experience to the vanilla game.
+* Extra lands and mod added questlines
+* Mod added companions
+* NSFW content
+
+Please see [here](https://loadorderlibrary.com/lists/begin-again) for a complete up to date list of all the mods Begin Again has.
+
+***
+
 ### [The Vault Courier](https://docs.google.com/document/d/1TXoa4XNsFzt5TNzqznh0dRNwatizjJ0fkjOvpjGv8a0/edit)
 
 This modlist will update the graphics and mechanics of Fallout New Vegas to bring it closer to modern standards of FPS shooters. In fact many of the gameplay elements here are better than even Fallout 4.
@@ -809,8 +877,6 @@ This modlist will update the graphics and mechanics of Fallout New Vegas to brin
 [Solid Project](https://www.nexusmods.com/newvegas/mods/63239)  
 [Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726)  
 [Quickhacking NV](https://www.nexusmods.com/newvegas/mods/72224)  
-
-***
 
 ## Oblivion
 
