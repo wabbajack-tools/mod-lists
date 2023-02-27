@@ -1,10 +1,11 @@
 ## Validation Report - Begin Again (Beginagain/beginagain)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [TTW_3.3.2_Hotfix.zip](https://cdn.discordapp.com/attachments/267355049666019329/1003041304252534814/TTW_3.3.2_Hotfix.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (528)
+### Valid (527)
 *  [00 - Better Books-74333-1-0-1636330917.7z](https://www.nexusmods.com/newvegas/mods/74333/?tab=files&file_id=1000083742)
 *  [0spacepope0 Combat Armor Retexture TTW-78882-V1-01-1667588873.7z](https://www.nexusmods.com/newvegas/mods/78882/?tab=files&file_id=1000100710)
 *  [1_AnniAnimPack_BugFix 1.3-72320-1-3-1621469381.7z](https://www.nexusmods.com/newvegas/mods/72320/?tab=files&file_id=1000076296)
@@ -498,7 +499,6 @@
 *  [TTW Steel Ingot Quest-75774-1-0-1647734206.7z](https://www.nexusmods.com/newvegas/mods/75774/?tab=files&file_id=1000089510)
 *  [TTW Wasteland Sounds-67912-0-8-1574489852.zip](https://www.nexusmods.com/newvegas/mods/67912/?tab=files&file_id=1000057688)
 *  [TTW WMIM - Minimalist Energy Weapons Sights-76382-1-0-1651401640.zip](https://www.nexusmods.com/newvegas/mods/76382/?tab=files&file_id=1000091863)
-*  [TTW_3.3.2_Hotfix.zip](https://cdn.discordapp.com/attachments/267355049666019329/1003041304252534814/TTW_3.3.2_Hotfix.zip)
 *  [TTW's Hunting Rifle and .32 Rifle Textures-69837-1-0-1599238845.rar](https://www.nexusmods.com/newvegas/mods/69837/?tab=files&file_id=1000065332)
 *  [TTWQuickStart-65937-1-4-1649387995.7z](https://www.nexusmods.com/newvegas/mods/65937/?tab=files&file_id=1000090652)
 *  [TTWSawyerBatty-75598-1-14-1674069028.7z](https://www.nexusmods.com/newvegas/mods/75598/?tab=files&file_id=1000103751)
