@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1603)
+### Valid (1602)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
@@ -564,7 +564,6 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
-*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
