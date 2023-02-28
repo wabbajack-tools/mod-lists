@@ -601,7 +601,7 @@
 *  [Vicious Wastes-56671-4-29-2-1674942953.zip](https://www.nexusmods.com/newvegas/mods/56671/?tab=files&file_id=1000104200)
 *  [Vikki and Vance Improvements-71531-1-5-1669846735.7z](https://www.nexusmods.com/newvegas/mods/71531/?tab=files&file_id=1000101678)
 *  [Water Overhaul-62635-4-1-3-1671353148.7z](https://www.nexusmods.com/newvegas/mods/62635/?tab=files&file_id=1000102500)
-*  [Wayfarer - xLODGen Output-80133-1-1-0-1677511973.7z](https://www.nexusmods.com/newvegas/mods/80133/?tab=files&file_id=1000105642)
+*  [Wayfarer - xLODGen Output-80133-1-1-3-1677544970.7z](https://www.nexusmods.com/newvegas/mods/80133/?tab=files&file_id=1000105652)
 *  [Windows To The Soul-79906-1-0-1675534844.7z](https://www.nexusmods.com/newvegas/mods/79906/?tab=files&file_id=1000104540)
 *  [Your Buddy Is Dead 2.0-79635-2-0-1675282226.7z](https://www.nexusmods.com/newvegas/mods/79635/?tab=files&file_id=1000104393)
 *  [ySI - Sorting Icons-74358-1-4b-1648916180.7z](https://www.nexusmods.com/newvegas/mods/74358/?tab=files&file_id=1000090359)
