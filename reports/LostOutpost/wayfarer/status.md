@@ -5,7 +5,7 @@
 *  [Vanilla_UI_Plus_New_Vegas_947.7z](https://www.moddb.com/downloads/mirror/128019/122/457892861b5891d4cbbb0ef58c91e27e)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (601)
+### Valid (600)
 *  [1. Consistent Pip-boy Icons-65046-4-4-1659349331.7z](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000096843)
 *  [2. Butcher Pete Complete - A Melee Animation Overhaul (No Locomotion)-79146-1-0-1669917143.rar](https://www.nexusmods.com/newvegas/mods/79146/?tab=files&file_id=1000101718)
 *  [2. Consistent Addon Icons-65046-4-2-1652355224.zip](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000092397)
@@ -378,7 +378,6 @@
 *  [Improved Lighting Shaders-69833-1-5beta4a-1668774269.zip](https://www.nexusmods.com/newvegas/mods/69833/?tab=files&file_id=1000101260)
 *  [Improved LOD noise Texture-46451-V1-00.rar](https://www.nexusmods.com/newvegas/mods/46451/?tab=files&file_id=105739)
 *  [INI Config - Gun Runners' Arsenal Merged-62941-3-0-3-1666977884.7z](https://www.nexusmods.com/newvegas/mods/62941/?tab=files&file_id=1000100455)
-*  InstallScript.vdf
 *  [ISControl ESPless FULL-75417-1-4-1659839349.7z](https://www.nexusmods.com/newvegas/mods/75417/?tab=files&file_id=1000097157)
 *  [JBT Improved 1.01-78324-1-01-1663184638.zip](https://www.nexusmods.com/newvegas/mods/78324/?tab=files&file_id=1000098986)
 *  [JG NVSE-66927-4-93-1670006465.zip](https://www.nexusmods.com/newvegas/mods/66927/?tab=files&file_id=1000101760)
