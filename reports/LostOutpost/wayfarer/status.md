@@ -2,7 +2,7 @@
 
 
 ### Invalid (1)
-*  [Vanilla_UI_Plus_New_Vegas_947.7z](https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fvivanewvegas.github.io%2F)
+*  [Vanilla_UI_Plus_New_Vegas_947.7z](https://www.moddb.com/downloads/mirror/128019/122/457892861b5891d4cbbb0ef58c91e27e)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (601)
