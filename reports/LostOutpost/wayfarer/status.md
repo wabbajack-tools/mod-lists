@@ -1,10 +1,11 @@
 ## Validation Report - Wayfarer (LostOutpost/wayfarer)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Vanilla_UI_Plus_New_Vegas_947.7z](https://www.moddb.com/downloads/mirror/128019/122/457892861b5891d4cbbb0ef58c91e27e)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (601)
+### Valid (600)
 *  [1. Consistent Pip-boy Icons-65046-4-4-1659349331.7z](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000096843)
 *  [2. Butcher Pete Complete - A Melee Animation Overhaul (No Locomotion)-79146-1-0-1669917143.rar](https://www.nexusmods.com/newvegas/mods/79146/?tab=files&file_id=1000101718)
 *  [2. Consistent Addon Icons-65046-4-2-1652355224.zip](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000092397)
@@ -595,7 +596,6 @@
 *  [Vanilla Enhancements Merged-78877-1-3-0-1676720992.7z](https://www.nexusmods.com/newvegas/mods/78877/?tab=files&file_id=1000105178)
 *  [Vanilla Enhancements Merged-78877-1-3-1-1677180121.7z](https://www.nexusmods.com/newvegas/mods/78877/?tab=files&file_id=1000105435)
 *  [Vanilla Iron Sights Realligned-77672-1-1-1658954471.7z](https://www.nexusmods.com/newvegas/mods/77672/?tab=files&file_id=1000096609)
-*  [Vanilla_UI_Plus_New_Vegas_947.7z](https://www.moddb.com/downloads/mirror/128019/122/457892861b5891d4cbbb0ef58c91e27e)
 *  VeryHigh.ini
 *  [Vicious Wastes-56671-4-29-2-1674942953.zip](https://www.nexusmods.com/newvegas/mods/56671/?tab=files&file_id=1000104200)
 *  [Vikki and Vance Improvements-71531-1-5-1669846735.7z](https://www.nexusmods.com/newvegas/mods/71531/?tab=files&file_id=1000101678)
