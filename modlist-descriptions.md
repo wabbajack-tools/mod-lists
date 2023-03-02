@@ -403,7 +403,6 @@ Tempus Maledictum is a LotD-and-quest-focused modlist, complete with the old sch
 - [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)  
 - [Ordinator - Perks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1137)  
 - [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614)  
-- [Wait Your Turn - Enemy Circling Behavior](https://www.nexusmods.com/skyrimspecialedition/mods/65091)  
 - [Dragon Aptitude - Dragon Souls Mod](https://www.nexusmods.com/skyrimspecialedition/mods/71134)  
 
 ***
