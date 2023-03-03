@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (528)
+### Valid (533)
 *  [00 - Better Books-74333-1-0-1636330917.7z](https://www.nexusmods.com/newvegas/mods/74333/?tab=files&file_id=1000083742)
 *  [0spacepope0 Combat Armor Retexture TTW-78882-V1-01-1667588873.7z](https://www.nexusmods.com/newvegas/mods/78882/?tab=files&file_id=1000100710)
 *  [1_AnniAnimPack_BugFix 1.3-72320-1-3-1621469381.7z](https://www.nexusmods.com/newvegas/mods/72320/?tab=files&file_id=1000076296)
@@ -53,6 +53,7 @@
 *  [B42 Descriptions-68049-0-3-1645173927.7z](https://www.nexusmods.com/newvegas/mods/68049/?tab=files&file_id=1000087881)
 *  [B42 Inertia V1.2-64335-1-2-1615691254.zip](https://www.nexusmods.com/newvegas/mods/64335/?tab=files&file_id=1000073430)
 *  [B42 Melee Bash 0.5b-68055-0-5b-1590272395.7z](https://www.nexusmods.com/newvegas/mods/68055/?tab=files&file_id=1000062158)
+*  [B42 Notify-80085-0-2b-1677765370.7z](https://www.nexusmods.com/newvegas/mods/80085/?tab=files&file_id=1000105778)
 *  [Baked Lighting for Queen Palm Trees-77239-1-0-1656303856.zip](https://www.nexusmods.com/newvegas/mods/77239/?tab=files&file_id=1000094904)
 *  [Begin Again LOD-79547-1-4-2-1676492454.7z](https://www.nexusmods.com/newvegas/mods/79547/?tab=files&file_id=1000105033)
 *  [Benny Humbles You and Steals Your Stuff - TTW Patch-77945-1-0-1660661581.7z](https://www.nexusmods.com/newvegas/mods/77945/?tab=files&file_id=1000097706)
@@ -95,6 +96,7 @@
 *  Data_Fallout - Textures2.bsa
 *  [Delay DLC Redux TTW-75851-1-5-1658971764.rar](https://www.nexusmods.com/newvegas/mods/75851/?tab=files&file_id=1000096622)
 *  [Desert Natural Weathers TTW-75437-6-2-5-1674932438.7z](https://www.nexusmods.com/newvegas/mods/75437/?tab=files&file_id=1000104190)
+*  [Desert Style Weathers-80235-1-0-1677823501.7z](https://www.nexusmods.com/newvegas/mods/80235/?tab=files&file_id=1000105798)
 *  [Dexterized Lucky 38 - TTW Patch-79263-TTW-1671053359.zip](https://www.nexusmods.com/newvegas/mods/79263/?tab=files&file_id=1000102383)
 *  [Dexterized Lucky 38-79263-1-3-1674843326.zip](https://www.nexusmods.com/newvegas/mods/79263/?tab=files&file_id=1000104122)
 *  [Diagonal Movement 0.6b-64333-0-6b-1655024628.zip](https://www.nexusmods.com/newvegas/mods/64333/?tab=files&file_id=1000094190)
@@ -198,6 +200,7 @@
 *  [Main File-54986-1-1.rar](https://www.nexusmods.com/newvegas/mods/54986/?tab=files&file_id=1000020098)
 *  [Main File-72314-1-0-1620990050.zip](https://www.nexusmods.com/newvegas/mods/72314/?tab=files&file_id=1000076030)
 *  MainTitle.wav
+*  [MAPMO Patch-80085-1-0-1677765452.7z](https://www.nexusmods.com/newvegas/mods/80085/?tab=files&file_id=1000105779)
 *  [MCM BugFix 2-42507-.7z](https://www.nexusmods.com/newvegas/mods/42507/?tab=files&file_id=1000001534)
 *  medium.ini
 *  [Melee VATS Animation Restoration-73480-1-1630088894.zip](https://www.nexusmods.com/newvegas/mods/73480/?tab=files&file_id=1000080316)
@@ -448,6 +451,7 @@
 *  [Simple Reach-74921-1-02-1670524919.rar](https://www.nexusmods.com/newvegas/mods/74921/?tab=files&file_id=1000102145)
 *  [Skill Book Rebalance for TTW-79374-1-0-1671532649.7z](https://www.nexusmods.com/newvegas/mods/79374/?tab=files&file_id=1000102605)
 *  [Slightly Less crusty LMG-78387-1-0-1663243535.7z](https://www.nexusmods.com/newvegas/mods/78387/?tab=files&file_id=1000099005)
+*  [Smooth Balls - 1.5x Size (Reccomended)-80182-0-2-1677479265.zip](https://www.nexusmods.com/newvegas/mods/80182/?tab=files&file_id=1000105614)
 *  [Some UI Sounds (SUS) - Vanilla Blend-77842-1-2-1660101413.rar](https://www.nexusmods.com/newvegas/mods/77842/?tab=files&file_id=1000097306)
 *  [Spacewalk Gravity-80066-1-0-0-1676592182.7z](https://www.nexusmods.com/newvegas/mods/80066/?tab=files&file_id=1000105089)
 *  steam_api.dll
@@ -458,9 +462,10 @@
 *  [Strip Lights Region Fix-73596-1-3-1644119016.7z](https://www.nexusmods.com/newvegas/mods/73596/?tab=files&file_id=1000087211)
 *  [Strip Performance Fix-78617-1-0-1665515579.7z](https://www.nexusmods.com/newvegas/mods/78617/?tab=files&file_id=1000099760)
 *  [Strip Wall Billboards-56257-1-01-1661092926.zip](https://www.nexusmods.com/newvegas/mods/56257/?tab=files&file_id=1000097956)
-*  [SUP NVSE Plugin-73160-8-30-1671737080.rar](https://www.nexusmods.com/newvegas/mods/73160/?tab=files&file_id=1000102675)
+*  [SUP NVSE Plugin-73160-8-35-1677425215.rar](https://www.nexusmods.com/newvegas/mods/73160/?tab=files&file_id=1000105567)
 *  [Supplemental Ammo Crafting-76175-1-1-1659158681.7z](https://www.nexusmods.com/newvegas/mods/76175/?tab=files&file_id=1000096722)
 *  [Sweet 6 Shooter Perk Pack TTW Version-73438-15-12-1672435707.rar](https://www.nexusmods.com/newvegas/mods/73438/?tab=files&file_id=1000103018)
+*  [Sweet 6 Shooter Perk Pack TTW Version-73438-15-13-1677445288.rar](https://www.nexusmods.com/newvegas/mods/73438/?tab=files&file_id=1000105591)
 *  [Tale of Bi Wastelands - TTW New Vegas Speech Checks-76206-1-0-1650363409.7z](https://www.nexusmods.com/newvegas/mods/76206/?tab=files&file_id=1000091255)
 *  [Tale of Bi Wastelands - TTW Reputations patch-76206-1-0-1650363344.7z](https://www.nexusmods.com/newvegas/mods/76206/?tab=files&file_id=1000091254)
 *  [Tale of Bi Wastelands-72721-1-0-1623841475.7z](https://www.nexusmods.com/newvegas/mods/72721/?tab=files&file_id=1000077657)
