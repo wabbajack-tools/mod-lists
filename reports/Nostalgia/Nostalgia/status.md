@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (848)
+### Valid (902)
 *  [00 - Better Books-74333-1-0-1636330917.7z](https://www.nexusmods.com/newvegas/mods/74333/?tab=files&file_id=1000083742)
 *  [01 - Improved Male Body - FOMOD Installer-70160-1-4-1644720615.7z](https://www.nexusmods.com/newvegas/mods/70160/?tab=files&file_id=1000087623)
 *  [1 - DiDisaan's Patch Emporium-64981-1-92-4-1654873891.rar](https://www.nexusmods.com/newvegas/mods/64981/?tab=files&file_id=1000094042)
@@ -376,6 +376,54 @@
 *  Data_OldWorldBlues - Sounds.bsa
 *  Data_OldWorldBlues.esm
 *  Data_OLDWORLDBLUES.NAM
+*  Data_Sound_songs_radionv_MUS_Aint_That_A_Kick_In_the_Head.mp3
+*  Data_Sound_songs_radionv_MUS_American_Swing.mp3
+*  Data_Sound_songs_radionv_MUS_Big_Iron.mp3
+*  Data_Sound_songs_radionv_MUS_Blue_Moon.mp3
+*  Data_Sound_songs_radionv_MUS_Blues_For_You.mp3
+*  Data_Sound_songs_radionv_MUS_Cobwebs_and_Rainbows.mp3
+*  Data_Sound_songs_radionv_MUS_Concerto_For_2_Vl_Str_In_D_Minor.mp3
+*  Data_Sound_songs_radionv_MUS_Concerto_Grosso_In_B_Minor_Allegro_01.mp3
+*  Data_Sound_songs_radionv_MUS_Concerto_Grosso_In_B_Minor_Allegro_02.mp3
+*  Data_Sound_songs_radionv_MUS_EddyArnold_Rca_ItsASin.mp3
+*  Data_Sound_songs_radionv_MUS_Flower_Duet_Lakm_KPM.mp3
+*  Data_Sound_songs_radionv_MUS_Four_Seasons_No_4_The_Winter.mp3
+*  Data_Sound_songs_radionv_MUS_Goin_Under.mp3
+*  Data_Sound_songs_radionv_MUS_Hallo_Mister_X.mp3
+*  Data_Sound_songs_radionv_MUS_Happy_Times.mp3
+*  Data_Sound_songs_radionv_MUS_Heartaches_by_the_Number.mp3
+*  Data_Sound_songs_radionv_MUS_HomeOnTheWastes.mp3
+*  Data_Sound_songs_radionv_MUS_I_m_Movin_Out.mp3
+*  Data_Sound_songs_radionv_MUS_I_m_So_Blue.mp3
+*  Data_Sound_songs_radionv_MUS_In_The_Shadow_Of_The_Valley.mp3
+*  Data_Sound_songs_radionv_MUS_Its_A_Sin_To_Tell_A_Lie.mp3
+*  Data_Sound_songs_radionv_MUS_Jazz_Blues_GT.mp3
+*  Data_Sound_songs_radionv_MUS_Jazz_Club_Blues_CAS.mp3
+*  Data_Sound_songs_radionv_MUS_Jingle_Jangle_Jingle.mp3
+*  Data_Sound_songs_radionv_MUS_Joe_Cool_CAS.mp3
+*  Data_Sound_songs_radionv_MUS_Johnny_Guitar.mp3
+*  Data_Sound_songs_radionv_MUS_Lazy_Day_Blues.mp3
+*  Data_Sound_songs_radionv_MUS_Let_s_Ride_Into_The_Sunset_Together.mp3
+*  Data_Sound_songs_radionv_MUS_Lone_Star.mp3
+*  Data_Sound_songs_radionv_MUS_Love_Me_As_Though_No_Tomorrow.mp3
+*  Data_Sound_songs_radionv_MUS_Mad_About_The_Boy.mp3
+*  Data_Sound_songs_radionv_MUS_Manhattan.mp3
+*  Data_Sound_songs_radionv_MUS_NewVegasValley.mp3
+*  Data_Sound_songs_radionv_MUS_Piano_Concerto_No_21__Elvira_Madigan.mp3
+*  Data_Sound_songs_radionv_MUS_Ride_Of_The_Valkyries_01.mp3
+*  Data_Sound_songs_radionv_MUS_Roundhouse_Rock.mp3
+*  Data_Sound_songs_radionv_MUS_Sit_And_Dream.mp3
+*  Data_Sound_songs_radionv_MUS_Sleepy_Town_Blues_CAS.mp3
+*  Data_Sound_songs_radionv_MUS_Slow_Bounce.mp3
+*  Data_Sound_songs_radionv_MUS_Slow_Sax_KOS.mp3
+*  Data_Sound_songs_radionv_MUS_Somethings_Gotta_Give.mp3
+*  Data_Sound_songs_radionv_MUS_Spring_Song_KPMC.mp3
+*  Data_Sound_songs_radionv_MUS_Stars_Of_The_Midnight_Range.mp3
+*  Data_Sound_songs_radionv_MUS_Strahlende_Trompete.mp3
+*  Data_Sound_songs_radionv_MUS_StreetsOfNewReno.mp3
+*  Data_Sound_songs_radionv_MUS_Von_Spanien_Nach_S_damerika.mp3
+*  Data_Sound_songs_radionv_MUS_Where_Have_You_Been_All_My_Life.mp3
+*  Data_Sound_songs_radionv_MUS_Why_Dont_You_Do_Right.mp3
 *  Data_TribalPack - Main.bsa
 *  Data_TribalPack.esm
 *  Data_TribalPack.nam
@@ -439,11 +487,16 @@
 *  [Freeside Overhaul - Freeside Clinic-79886-V2-0-1676665616.rar](https://www.nexusmods.com/newvegas/mods/79886/?tab=files&file_id=1000105128)
 *  [Freeside Overhaul - Golden Gate Club-79037-V3-0-1676665801.rar](https://www.nexusmods.com/newvegas/mods/79037/?tab=files&file_id=1000105129)
 *  [Freeside Overhaul - Golden Nugget Junk-79843-V3-0-1676666023.rar](https://www.nexusmods.com/newvegas/mods/79843/?tab=files&file_id=1000105131)
+*  [Freeside Overhaul - Grub-N-Go V3.0-78512-V3-0-1676412454.rar](https://www.nexusmods.com/newvegas/mods/78512/?tab=files&file_id=1000105006)
 *  [Freeside Overhaul - Gunslinger Saloon v3.0-78241-V3-0-1676417497.rar](https://www.nexusmods.com/newvegas/mods/78241/?tab=files&file_id=1000105008)
 *  [Freeside Overhaul - Mamas Store V3.0-78117-V3-0-1664648537.rar](https://www.nexusmods.com/newvegas/mods/78117/?tab=files&file_id=1000099438)
 *  [Freeside Overhaul - Meat Kings Palace V5.0-78082-V5-0-1676411310.rar](https://www.nexusmods.com/newvegas/mods/78082/?tab=files&file_id=1000105005)
+*  [Freeside Overhaul - NCR Jailhouse-79435-V2-0-1676666181.rar](https://www.nexusmods.com/newvegas/mods/79435/?tab=files&file_id=1000105132)
+*  [Freeside Overhaul - Pioneer Cafe V3.0-78135-V3-0-1676410029.rar](https://www.nexusmods.com/newvegas/mods/78135/?tab=files&file_id=1000105004)
 *  [Freeside Overhaul - Reillys Power Armor-79409-V2-0-1676666277.rar](https://www.nexusmods.com/newvegas/mods/79409/?tab=files&file_id=1000105134)
+*  [Freeside Overhaul - Retro Robotics-79130-V2-0-1676666349.rar](https://www.nexusmods.com/newvegas/mods/79130/?tab=files&file_id=1000105135)
 *  [Freeside Overhaul - The Museum Of Days Past-79848-V2-0-1676666455.rar](https://www.nexusmods.com/newvegas/mods/79848/?tab=files&file_id=1000105136)
+*  [Freeside Overhaul - The Nevada Hotel-80098-V1-0-1676768289.rar](https://www.nexusmods.com/newvegas/mods/80098/?tab=files&file_id=1000105211)
 *  [FriedTurkey's Mantis Add On-70204-1-0-1605881199.rar](https://www.nexusmods.com/newvegas/mods/70204/?tab=files&file_id=1000067849)
 *  [Frozen 3rd Person Feminine Movement-77098-1-02-1665157561.7z](https://www.nexusmods.com/newvegas/mods/77098/?tab=files&file_id=1000099593)
 *  [Frozen 3rd Person Masculine Movement-77334-1-02-1665611456.7z](https://www.nexusmods.com/newvegas/mods/77334/?tab=files&file_id=1000099793)
@@ -457,8 +510,8 @@
 *  [GlobalImposterRegion-78835-beta-1667412029.7z](https://www.nexusmods.com/newvegas/mods/78835/?tab=files&file_id=1000100654)
 *  [Glowing eyes-37261.rar](https://www.nexusmods.com/newvegas/mods/37261/?tab=files&file_id=84640)
 *  [Goodsprings Scrap Trader Voiced-79958-1-0-4-1675933472.rar](https://www.nexusmods.com/newvegas/mods/79958/?tab=files&file_id=1000104776)
-*  [Grenade Launcher retex-46956-1-0.7z](https://www.nexusmods.com/newvegas/mods/46956/?tab=files&file_id=107103)
 *  [Gutted New Vegas Ruins - Fixed Navmesh and ESM-79407-1-1674520434.zip](https://www.nexusmods.com/newvegas/mods/79407/?tab=files&file_id=1000104005)
+*  [Harder New Vegas Strip Access-71643-2-0-1644585554.7z](https://www.nexusmods.com/newvegas/mods/71643/?tab=files&file_id=1000087524)
 *  [Heat Haze-76286-1-1-0-1656186271.zip](https://www.nexusmods.com/newvegas/mods/76286/?tab=files&file_id=1000094801)
 *  [Heaviin's Desperado Cowboyhat Retextured-79092-1-0-1669312885.zip](https://www.nexusmods.com/newvegas/mods/79092/?tab=files&file_id=1000101462)
 *  [Helmet Overlay-67870-1-10-1671325200.7z](https://www.nexusmods.com/newvegas/mods/67870/?tab=files&file_id=1000102494)
@@ -471,7 +524,6 @@
 *  [Hit's Anims - Season 2-75208-1-2-1649761884.7z](https://www.nexusmods.com/newvegas/mods/75208/?tab=files&file_id=1000090863)
 *  [Hit's Anims - Season 3-76843-1-0b-1654786985.7z](https://www.nexusmods.com/newvegas/mods/76843/?tab=files&file_id=1000093989)
 *  [Hitman's Sneak Animation Pack-57561-1.7z](https://www.nexusmods.com/newvegas/mods/57561/?tab=files&file_id=1000024312)
-*  [Holorifle Redux-69607-2-0-1598272300.zip](https://www.nexusmods.com/newvegas/mods/69607/?tab=files&file_id=1000065005)
 *  [Hope Lies CCC Avatar-80050-1-0-1676473894.rar](https://www.nexusmods.com/newvegas/mods/80050/?tab=files&file_id=1000105022)
 *  [Hope Lies v005-57141-0-05.zip](https://www.nexusmods.com/newvegas/mods/57141/?tab=files&file_id=1000038369)
 *  [Horrors of The New West-68717-1-1-0-1662440038.7z](https://www.nexusmods.com/newvegas/mods/68717/?tab=files&file_id=1000098634)
@@ -763,6 +815,7 @@
 *  Redists_directx_OCT2006_XACT_x86.cab
 *  Redists_vcredist_x86.exe
 *  [Rename Your Fiends-69119-FrenchConnection-1592140295.zip](https://www.nexusmods.com/newvegas/mods/69119/?tab=files&file_id=1000062816)
+*  [Retextured FALLOUT Ordnance-44429-0-2.rar](https://www.nexusmods.com/newvegas/mods/44429/?tab=files&file_id=100351)
 *  [Retrievable Throwables Reforged 2.2-66461-2-2-1675084694.7z](https://www.nexusmods.com/newvegas/mods/66461/?tab=files&file_id=1000104279)
 *  [Robbable Caravans - Living Desert Patch-69863-1-1-1599508384.zip](https://www.nexusmods.com/newvegas/mods/69863/?tab=files&file_id=1000065433)
 *  [Robbable Caravans-69863-1-3-1599748714.zip](https://www.nexusmods.com/newvegas/mods/69863/?tab=files&file_id=1000065523)
@@ -850,6 +903,7 @@
 *  [Wild Wasteland UFOs-79065-V3-1671939701.7z](https://www.nexusmods.com/newvegas/mods/79065/?tab=files&file_id=1000102768)
 *  [Wild wasteland v2 all fixed-72573-V2-1627410904.rar](https://www.nexusmods.com/newvegas/mods/72573/?tab=files&file_id=1000079074)
 *  [Windows To The Soul-79906-1-0-1675534844.7z](https://www.nexusmods.com/newvegas/mods/79906/?tab=files&file_id=1000104540)
+*  [Your Buddy Is Dead 2.0-79635-2-0-1675282226.7z](https://www.nexusmods.com/newvegas/mods/79635/?tab=files&file_id=1000104393)
 *  [YUP - Base Game and All DLC-51664-12-6-1672072862.7z](https://www.nexusmods.com/newvegas/mods/51664/?tab=files&file_id=1000102824)
 *  [YUP patch-74028-1-1-1634180204.zip](https://www.nexusmods.com/newvegas/mods/74028/?tab=files&file_id=1000082484)
 *  [zEdit_v0.6.5_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.5/zEdit_v0.6.5_-_Portable_x64.7z)
