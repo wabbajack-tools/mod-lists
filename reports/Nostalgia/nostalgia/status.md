@@ -1,4 +1,4 @@
-## Validation Report - Nostalgia (Nostalgia/Nostalgia)
+## Validation Report - Nostalgia (Nostalgia/nostalgia)
 
 
 ### Invalid (0)
@@ -8,15 +8,13 @@
 *  [00 - Better Books-74333-1-0-1636330917.7z](https://www.nexusmods.com/newvegas/mods/74333/?tab=files&file_id=1000083742)
 *  [01 - Improved Male Body - FOMOD Installer-70160-1-4-1644720615.7z](https://www.nexusmods.com/newvegas/mods/70160/?tab=files&file_id=1000087623)
 *  [1 - DiDisaan's Patch Emporium-64981-1-92-4-1654873891.rar](https://www.nexusmods.com/newvegas/mods/64981/?tab=files&file_id=1000094042)
+*  [1_3. CPI - Mod Patches-65046-4-01-1659422736.7z](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000096876)
 *  [1_Afterschool Special Version 2O1-43757-2-01.7z](https://www.nexusmods.com/newvegas/mods/43757/?tab=files&file_id=1000016076)
 *  [1_PM's HD Legion Overhaul - 2K-67595-1-1-1568383847.zip](https://www.nexusmods.com/newvegas/mods/67595/?tab=files&file_id=1000056381)
 *  [1_WAP 44 Revolver - Hitman anim patch-78140-1-1662104198.7z](https://www.nexusmods.com/newvegas/mods/78140/?tab=files&file_id=1000098482)
 *  [1. Butcher Pete Complete - A Melee Animation Overhaul (Hitman Locomotion)-79146-1-0-1669917098.rar](https://www.nexusmods.com/newvegas/mods/79146/?tab=files&file_id=1000101717)
-*  [1. Consistent Pip-boy Icons-65046-4-4-1659349331.7z](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000096843)
 *  [1c. PSRO Peripheral Depth Blur - No ESP-71781-1-2-31-1634087804.7z](https://www.nexusmods.com/newvegas/mods/71781/?tab=files&file_id=1000082432)
 *  [2_S6S Base Game Perks Redux-73946-12-2-1671434806.rar](https://www.nexusmods.com/newvegas/mods/73946/?tab=files&file_id=1000102551)
-*  [2. Consistent Addon Icons-65046-4-2-1652355224.zip](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000092397)
-*  [3. CPI - Mod Patches-65046-4-01-1659422736.7z](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000096876)
 *  [360 Movement-71940-1-2-1619527056.zip](https://www.nexusmods.com/newvegas/mods/71940/?tab=files&file_id=1000075421)
 *  [3D Rain 1.4-79652-1-4-1674015834.zip](https://www.nexusmods.com/newvegas/mods/79652/?tab=files&file_id=1000103716)
 *  [3rd Person Camera Overhaul-79883-2-3-1676826727.7z](https://www.nexusmods.com/newvegas/mods/79883/?tab=files&file_id=1000105237)
@@ -574,6 +572,8 @@
 *  libvorbisfile.dll
 *  [Limitless Stats 1.21-64471-1-21.zip](https://www.nexusmods.com/newvegas/mods/64471/?tab=files&file_id=1000045734)
 *  [Lively 13th Floor Ultimate (english)-80023-1-1-1676381765.zip](https://www.nexusmods.com/newvegas/mods/80023/?tab=files&file_id=1000104989)
+*  [Lively Joe and Friends - Patchs-80285-patch-1-1678057766.zip](https://www.nexusmods.com/newvegas/mods/80285/?tab=files&file_id=1000105969)
+*  [Lively Joe and Friends (english)-80285-1-1678057587.zip](https://www.nexusmods.com/newvegas/mods/80285/?tab=files&file_id=1000105967)
 *  [LODadditions-61206-1-07-1604265497.7z](https://www.nexusmods.com/newvegas/mods/61206/?tab=files&file_id=1000067094)
 *  low.ini
 *  [MadAce's Ragdoll compatibility patch-66686-1-0-1554174525.7z](https://www.nexusmods.com/newvegas/mods/66686/?tab=files&file_id=1000052988)
