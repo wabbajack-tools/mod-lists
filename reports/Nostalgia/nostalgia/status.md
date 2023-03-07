@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (902)
+### Valid (901)
 *  [00 - Better Books-74333-1-0-1636330917.7z](https://www.nexusmods.com/newvegas/mods/74333/?tab=files&file_id=1000083742)
 *  [01 - Improved Male Body - FOMOD Installer-70160-1-4-1644720615.7z](https://www.nexusmods.com/newvegas/mods/70160/?tab=files&file_id=1000087623)
 *  [1 - DiDisaan's Patch Emporium-64981-1-92-4-1654873891.rar](https://www.nexusmods.com/newvegas/mods/64981/?tab=files&file_id=1000094042)
@@ -884,7 +884,6 @@
 *  [Varmint Rifle 22 Setter-74423-1fix2-1640929249.rar](https://www.nexusmods.com/newvegas/mods/74423/?tab=files&file_id=1000085750)
 *  [Vegas Tunnels-78066-V1-0-1661126261.rar](https://www.nexusmods.com/newvegas/mods/78066/?tab=files&file_id=1000097982)
 *  VeryHigh.ini
-*  [Vulpes Inculta Companion MAIN-56596-1-6.rar](https://www.nexusmods.com/newvegas/mods/56596/?tab=files&file_id=1000043254)
 *  [Walther MPK - 1.1-80131-1-1-1677050781.7z](https://www.nexusmods.com/newvegas/mods/80131/?tab=files&file_id=1000105380)
 *  [Walther MPK - Main-80131-1-1677019441.7z](https://www.nexusmods.com/newvegas/mods/80131/?tab=files&file_id=1000105365)
 *  [WAP Bozar and LMG - Hit's Anim Patch-78498-1-1664475604.7z](https://www.nexusmods.com/newvegas/mods/78498/?tab=files&file_id=1000099394)
