@@ -1,11 +1,10 @@
 ## Validation Report - Do Not Go Gentle (Animonculory/dngg)
 
 
-### Invalid (1)
-*  [[full_inu] Lord Nicholas Armor SSE.7z](https://drive.google.com/uc?id=1cL7BC2Nrvi2HTVv-ppZzyOkcszD5g7gA&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1611)
+### Valid (1612)
 *  [_Fuse00_ArmorMelonyCBBE.rar](https://www.patreon.com/file?h=67711235&i=10980531)
 *  [_Fuse00_ArmorRagnar_Vanilla.rar](https://www.patreon.com/file?h=70803544&i=11554150)
 *  [_Fuse00_ArmorRogue.rar](https://www.patreon.com/file?h=67007517&i=10861552)
@@ -21,6 +20,7 @@
 *  [(Part 1) SSE Engine Fixes for 1.6.xxx-17230-6-0-2-1637784396.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [(SJG) Dual Wield Parrying Reimplementation for SSE - Settings Loader-59046-1-1-1638549418.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59046/?tab=files&file_id=246293)
+*  [[full_inu] Lord Nicholas Armor SSE.7z](https://drive.google.com/uc?id=1cL7BC2Nrvi2HTVv-ppZzyOkcszD5g7gA&export=download)
 *  [$R0F1DEF.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50961/?tab=files&file_id=265799)
 *  [01 - Saint and Seducers - Patch-37302-1-0-1-1654394928.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37302/?tab=files&file_id=288859)
 *  [1-52310-1-1626061982.zip](https://www.nexusmods.com/skyrimspecialedition/mods/52310/?tab=files&file_id=214134)
