@@ -638,6 +638,7 @@
 *  Data_Skyrim - Misc.bsa
 *  Data_Skyrim - Shaders.bsa
 *  Data_Skyrim - Sounds.bsa
+*  Data_Skyrim - Textures0.bsa
 *  Data_Skyrim - Textures5.bsa
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
@@ -813,8 +814,7 @@
 *  [ENB Lights For Aetherium Shards Patch-44553-1-1-1630558790.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44553/?tab=files&file_id=225518)
 *  [ENB Organizer-67077-v2-1-1.zip](https://www.nexusmods.com/skyrim/mods/67077/?tab=files&file_id=1000214338)
 *  [ENB-ParticleLights-DwemerLanterns-1-02-24108-1-02-1552437026.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24108/?tab=files&file_id=84731)
-*  [enbseries_skyrimse_v0484.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0484.zip_a723489c-f6d8-470d-bfa2-f8a127593f76)
-*  [Enchantments and Potions Work for NPCs - EPW4NPCs-37607-1-0-1-1616449562.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37607/?tab=files&file_id=193001)
+*  [enbseries_skyrimse_v0488_March7.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0488_March7.zip_22f4d1b2-291c-4efd-888e-1e750d936637)
 *  [Encounter Zones Unlocked SE-19608-1-4-1583906933.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19608/?tab=files&file_id=128125)
 *  [Enemy Magelock-49378-1-0-0-1619990342.rar](https://www.nexusmods.com/skyrimspecialedition/mods/49378/?tab=files&file_id=201348)
 *  [English ESP by Xtudo-44505-1-1611808539.rar](https://www.nexusmods.com/skyrimspecialedition/mods/44505/?tab=files&file_id=182316)
