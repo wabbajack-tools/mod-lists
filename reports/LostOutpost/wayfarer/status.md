@@ -5,7 +5,7 @@
 *  [Vanilla_UI_Plus_New_Vegas_947.7z](https://www.moddb.com/downloads/mirror/128019/122/457892861b5891d4cbbb0ef58c91e27e)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (609)
+### Valid (613)
 *  [1. Consistent Pip-boy Icons-65046-4-4-1659349331.7z](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000096843)
 *  [2. Consistent Addon Icons-65046-4-2-1652355224.zip](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000092397)
 *  [360 Movement-71940-1-2-1619527056.zip](https://www.nexusmods.com/newvegas/mods/71940/?tab=files&file_id=1000075421)
@@ -14,6 +14,7 @@
 *  [4GB Patcher-62552-1-5-1618787921.7z](https://www.nexusmods.com/newvegas/mods/62552/?tab=files&file_id=1000075100)
 *  [A Little More Lamplight-69226-1-2-1594706760.zip](https://www.nexusmods.com/newvegas/mods/69226/?tab=files&file_id=1000063736)
 *  [AidUI-77782-2-1-1661161743.7z](https://www.nexusmods.com/newvegas/mods/77782/?tab=files&file_id=1000098005)
+*  [AnhNVSE v1.2.3-74012-v1-2-3-1659146402.rar](https://www.nexusmods.com/newvegas/mods/74012/?tab=files&file_id=1000096720)
 *  [AnniAnimPack_BugFix 1.3-72320-1-3-1621469381.7z](https://www.nexusmods.com/newvegas/mods/72320/?tab=files&file_id=1000076296)
 *  [Anniversary Anim Pack-70158-1-9d-1658961335.7z](https://www.nexusmods.com/newvegas/mods/70158/?tab=files&file_id=1000096618)
 *  atimgpud.dll
@@ -383,6 +384,7 @@
 *  [Inaccurate NPCs-79619-1-1673493776.7z](https://www.nexusmods.com/newvegas/mods/79619/?tab=files&file_id=1000103475)
 *  [INI Config - Gun Runners' Arsenal Merged-62941-3-0-3-1666977884.7z](https://www.nexusmods.com/newvegas/mods/62941/?tab=files&file_id=1000100455)
 *  [ISControl ESPless FULL-75417-1-4-1659839349.7z](https://www.nexusmods.com/newvegas/mods/75417/?tab=files&file_id=1000097157)
+*  [Item Explorer-79466-1-0a-1672346666.7z](https://www.nexusmods.com/newvegas/mods/79466/?tab=files&file_id=1000102980)
 *  [JBT Improved 1.01-78324-1-01-1663184638.zip](https://www.nexusmods.com/newvegas/mods/78324/?tab=files&file_id=1000098986)
 *  [JG NVSE-66927-4-93-1670006465.zip](https://www.nexusmods.com/newvegas/mods/66927/?tab=files&file_id=1000101760)
 *  [JIP LN NVSE Plugin-58277-56-81-1676041807.7z](https://www.nexusmods.com/newvegas/mods/58277/?tab=files&file_id=1000104829)
@@ -421,7 +423,6 @@
 *  [Patch - Better Strip View-73273-Patch-1670442971.7z](https://www.nexusmods.com/newvegas/mods/73273/?tab=files&file_id=1000102082)
 *  [Pip Boy Shading Fix-77957-1-0a-1660501387.7z](https://www.nexusmods.com/newvegas/mods/77957/?tab=files&file_id=1000097622)
 *  [Player Combat Priority-71699-1-0-2-1644146759.7z](https://www.nexusmods.com/newvegas/mods/71699/?tab=files&file_id=1000087236)
-*  [Progressive Sneak Attack Damage-77571-1-3-1660597008.7z](https://www.nexusmods.com/newvegas/mods/77571/?tab=files&file_id=1000097669)
 *  [RAD - Overhaul-71541-2-1-0-1647663847.zip](https://www.nexusmods.com/newvegas/mods/71541/?tab=files&file_id=1000089456)
 *  Readme.txt
 *  [Real Recoil Tweaks-79358-1-0-1671399193.7z](https://www.nexusmods.com/newvegas/mods/79358/?tab=files&file_id=1000102532)
@@ -568,6 +569,7 @@
 *  Redists_directx_OCT2006_XACT_x86.cab
 *  Redists_vcredist_x86.exe
 *  [Reinforced Armors Renamed-79685-0-1-1674197487.zip](https://www.nexusmods.com/newvegas/mods/79685/?tab=files&file_id=1000103795)
+*  [Reload Reloaded-62266-1-5-1-1632776589.zip](https://www.nexusmods.com/newvegas/mods/62266/?tab=files&file_id=1000081706)
 *  [Repair Requires Material-75145-2-3-1677876598.zip](https://www.nexusmods.com/newvegas/mods/75145/?tab=files&file_id=1000105841)
 *  [Securitrons Lip Sync-74232-2-02-1636608441.rar](https://www.nexusmods.com/newvegas/mods/74232/?tab=files&file_id=1000083881)
 *  [Securitrons On Alert-69245-4-5-1-1650568563.7z](https://www.nexusmods.com/newvegas/mods/69245/?tab=files&file_id=1000091366)
@@ -601,10 +603,12 @@
 *  [Ultrawide Scopes-65982-1-0-1542495508.rar](https://www.nexusmods.com/newvegas/mods/65982/?tab=files&file_id=1000050284)
 *  [Uncut Wasteland-79358-1-0-1671399205.7z](https://www.nexusmods.com/newvegas/mods/79358/?tab=files&file_id=1000102533)
 *  [Unofficial Patch NVSE Plus-71239-1-4-2-1670695598.zip](https://www.nexusmods.com/newvegas/mods/71239/?tab=files&file_id=1000102207)
+*  [UX Toolkit-79456-1-3-1673004690.7z](https://www.nexusmods.com/newvegas/mods/79456/?tab=files&file_id=1000103298)
 *  [Vanilla Enhancements Merged-78877-1-3-0-1676720992.7z](https://www.nexusmods.com/newvegas/mods/78877/?tab=files&file_id=1000105178)
 *  [Vanilla Enhancements Merged-78877-1-3-1-1677180121.7z](https://www.nexusmods.com/newvegas/mods/78877/?tab=files&file_id=1000105435)
 *  [Vanilla Iron Sights Realligned-77672-1-1-1658954471.7z](https://www.nexusmods.com/newvegas/mods/77672/?tab=files&file_id=1000096609)
 *  VeryHigh.ini
+*  [Viewmodel Recoil 0.308-71852-0-308-1621847906.zip](https://www.nexusmods.com/newvegas/mods/71852/?tab=files&file_id=1000076459)
 *  [Vikki and Vance Improvements-71531-1-5-1669846735.7z](https://www.nexusmods.com/newvegas/mods/71531/?tab=files&file_id=1000101678)
 *  [Water Overhaul Patch-73627-1-0-1631626349.7z](https://www.nexusmods.com/newvegas/mods/73627/?tab=files&file_id=1000081088)
 *  [Water Overhaul-62635-4-1-3-1671353148.7z](https://www.nexusmods.com/newvegas/mods/62635/?tab=files&file_id=1000102500)
