@@ -1,10 +1,11 @@
 ## Validation Report - Fable Lore (Modding-Lounge/Fable-Lore)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [skse64_2_01_05.7z](https://skse.silverlock.org/beta/skse64_2_01_05.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (788)
+### Valid (787)
 *  [(beta) Wade In Water Animations-34006-1-42-1649385492.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34006/?tab=files&file_id=275559)
 *  [(Part 1) SSE Engine Fixes for 1.6.xxx-17230-6-0-2-1637784396.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -638,7 +639,6 @@
 *  [Simplicity of Snow-56235-0-10-1668872297.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56235/?tab=files&file_id=332966)
 *  [Sit on Stuff-74446-1-0-1662027577.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74446/?tab=files&file_id=312248)
 *  [Skills of the Wild-37693-1-02-1642359281.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37693/?tab=files&file_id=257295)
-*  [skse64_2_01_05.7z](https://skse.silverlock.org/beta/skse64_2_01_05.7z)
 *  [SkyHud - High Resolution Widescreen Fix-1778-2-0-1601140724.rar](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?tab=files&file_id=162696)
 *  [SkyHUD v090B v4-463-0-90B.zip](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=61422)
 *  [Skyland AIO-34179-4-06-1668569830.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34179/?tab=files&file_id=332217)
