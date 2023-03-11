@@ -5,7 +5,7 @@
 *  [Vanilla_UI_Plus_New_Vegas_947.7z](https://www.moddb.com/downloads/mirror/128019/122/457892861b5891d4cbbb0ef58c91e27e)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (610)
+### Valid (613)
 *  [1. Consistent Pip-boy Icons-65046-4-4-1659349331.7z](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000096843)
 *  [2. Consistent Addon Icons-65046-4-2-1652355224.zip](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000092397)
 *  [360 Movement-71940-1-2-1619527056.zip](https://www.nexusmods.com/newvegas/mods/71940/?tab=files&file_id=1000075421)
@@ -348,12 +348,15 @@
 *  [Desert Style Weathers-80235-1-1-1677888132.7z](https://www.nexusmods.com/newvegas/mods/80235/?tab=files&file_id=1000105854)
 *  [Diagonal Movement 0.6b-64333-0-6b-1655024628.zip](https://www.nexusmods.com/newvegas/mods/64333/?tab=files&file_id=1000094190)
 *  [Dynamic Weapon Spread-74321-1-5-1-1664249020.7z](https://www.nexusmods.com/newvegas/mods/74321/?tab=files&file_id=1000099352)
+*  [Economy Overhaul - FO3E INI-62899-3-0-0-1615483961.zip](https://www.nexusmods.com/newvegas/mods/62899/?tab=files&file_id=1000073251)
+*  [Economy Overhaul-62899-3-0-4-1642274672.7z](https://www.nexusmods.com/newvegas/mods/62899/?tab=files&file_id=1000086294)
 *  [Elijah Voice Files Fix-73526-0-1-1630530027.7z](https://www.nexusmods.com/newvegas/mods/73526/?tab=files&file_id=1000080507)
 *  [Enhanced Landscapes-69406-1-5-1666885059.7z](https://www.nexusmods.com/newvegas/mods/69406/?tab=files&file_id=1000100407)
 *  [Enhanced Vegas Ruins-79399-3-2-1675628381.rar](https://www.nexusmods.com/newvegas/mods/79399/?tab=files&file_id=1000104610)
 *  [Essential DLC Enhancements-73803-1-3-2-1670870253.7z](https://www.nexusmods.com/newvegas/mods/73803/?tab=files&file_id=1000102289)
 *  [Essential Vanilla Enhancements Merged - JSUE Patch-77945-1-0-1668369054.7z](https://www.nexusmods.com/newvegas/mods/77945/?tab=files&file_id=1000101084)
 *  [Essential Vanilla Enhancements Merged - Mojave Arsenal Patch-77945-1-0-1668369069.7z](https://www.nexusmods.com/newvegas/mods/77945/?tab=files&file_id=1000101085)
+*  [Fallout Alpha Rendering Tweaks-80316-1-0-1678272827.7z](https://www.nexusmods.com/newvegas/mods/80316/?tab=files&file_id=1000106094)
 *  Fallout_default.ini
 *  FalloutNV.exe
 *  FalloutNV.ico
@@ -581,7 +584,7 @@
 *  [Simply Upscaled Grass-79716-1-0-1674358716.7z](https://www.nexusmods.com/newvegas/mods/79716/?tab=files&file_id=1000103916)
 *  [Smooth Balls - 1.5x Size (Reccomended)-80182-0-2-1677479265.zip](https://www.nexusmods.com/newvegas/mods/80182/?tab=files&file_id=1000105614)
 *  steam_api.dll
-*  [Stewie Tweaks Essentials INI-76522-1-03-1670571686.zip](https://www.nexusmods.com/newvegas/mods/76522/?tab=files&file_id=1000102161)
+*  [Stewie Tweaks Essentials INI-76522-1-04-1678279053.7z](https://www.nexusmods.com/newvegas/mods/76522/?tab=files&file_id=1000106099)
 *  [Stewie Tweaks-66347-8-60-1676207838.zip](https://www.nexusmods.com/newvegas/mods/66347/?tab=files&file_id=1000104903)
 *  [Strip Lights Region Fix - The Living Desert-73596-Patch-1644119113.7z](https://www.nexusmods.com/newvegas/mods/73596/?tab=files&file_id=1000087213)
 *  [Strip Lights Region Fix - Uncut Wasteland-73596-Patch-1644119144.7z](https://www.nexusmods.com/newvegas/mods/73596/?tab=files&file_id=1000087214)
@@ -600,7 +603,7 @@
 *  [UIO - User Interface Organizer-57174-2-30-1629600625.7z](https://www.nexusmods.com/newvegas/mods/57174/?tab=files&file_id=1000080073)
 *  [Ultrawide Scopes-65982-1-0-1542495508.rar](https://www.nexusmods.com/newvegas/mods/65982/?tab=files&file_id=1000050284)
 *  [Uncut Wasteland-79358-1-0-1671399205.7z](https://www.nexusmods.com/newvegas/mods/79358/?tab=files&file_id=1000102533)
-*  [Unofficial Patch NVSE Plus-71239-1-4-2-1670695598.zip](https://www.nexusmods.com/newvegas/mods/71239/?tab=files&file_id=1000102207)
+*  [Unofficial Patch NVSE Plus-71239-1-4-3-1678139991.zip](https://www.nexusmods.com/newvegas/mods/71239/?tab=files&file_id=1000106019)
 *  [Vanilla Enhancements Merged-78877-1-3-0-1676720992.7z](https://www.nexusmods.com/newvegas/mods/78877/?tab=files&file_id=1000105178)
 *  [Vanilla Enhancements Merged-78877-1-3-1-1677180121.7z](https://www.nexusmods.com/newvegas/mods/78877/?tab=files&file_id=1000105435)
 *  [Vanilla Iron Sights Realligned-77672-1-1-1658954471.7z](https://www.nexusmods.com/newvegas/mods/77672/?tab=files&file_id=1000096609)
