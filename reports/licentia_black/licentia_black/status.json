@@ -1,8 +1,8 @@
 {
   "MachineURL": "licentia_black/licentia_black",
   "Name": "Licentia BLACK",
-  "Version": "5.6.4",
-  "ModListHash": "9IYdAZ/2ZVo=",
+  "Version": "5.6.4.2",
+  "ModListHash": "knoRbJfqE/g=",
   "Archives": [
     {
       "Status": "Valid",
@@ -2113,10 +2113,10 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "jascsug9b88=",
+        "Hash": "Q3fGp8vV81o=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0488.zip_c0e56b1d-381b-4da5-9ad8-7e5fd98a1467",
         "Name": "enbseries_skyrimse_v0488.zip",
-        "Size": 4480192,
+        "Size": 4481541,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
           "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0488.zip_c0e56b1d-381b-4da5-9ad8-7e5fd98a1467"
@@ -24819,15 +24819,57 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "a3vxht7o9QI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=65596\nfileID=308580",
-        "Name": "Riften of Reverie - Parallax Meshes-65596-0-95-1660883717.7z",
-        "Size": 8344571,
+        "Hash": "QsViGUNqr4I=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=28950\nfileID=217114",
+        "Name": "Illustrious Whiterun 4K Update-28950-1-4-1627406480.7z",
+        "Size": 582084754,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "winedave",
+          "Description": "My idea of what Whiterun should look like. Still A work in progress but getting there with every update. 8,4 \u0026amp; 2K versions.",
+          "FileID": 217114,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28950/28950-1620245589-72992561.png",
+          "IsNSFW": false,
+          "ModID": 28950,
+          "Name": "Illustrious Whiterun SE - 8K - Parallax",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UhYoXiG9Ev0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=29842\nfileID=136963",
+        "Name": "Septentrional Landscapes 2K-29842-1-3-2-1588173223.7z",
+        "Size": 321988475,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "winedave",
+          "Description": "Landscape textures made with 3D Scans. 8, 4 \u0026amp; 2K versions available",
+          "FileID": 136963,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29842/29842-1581630636-1748116040.png",
+          "IsNSFW": false,
+          "ModID": 29842,
+          "Name": "Septentrional Landscapes SE - 8K",
+          "Version": "1.3.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "d+ikl0S0lyQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=65596\nfileID=308586",
+        "Name": "Riften of Reverie - 2K-65596-0-95-1660885454.7z",
+        "Size": 176636694,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "winedave",
           "Description": "What I think Rifton should look like. 8K Parallax. BETA release",
-          "FileID": 308580,
+          "FileID": 308586,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65596/65596-1648405328-1438602263.png",
           "IsNSFW": false,
@@ -24882,63 +24924,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "d+ikl0S0lyQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=65596\nfileID=308586",
-        "Name": "Riften of Reverie - 2K-65596-0-95-1660885454.7z",
-        "Size": 176636694,
+        "Hash": "a3vxht7o9QI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=65596\nfileID=308580",
+        "Name": "Riften of Reverie - Parallax Meshes-65596-0-95-1660883717.7z",
+        "Size": 8344571,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "winedave",
           "Description": "What I think Rifton should look like. 8K Parallax. BETA release",
-          "FileID": 308586,
+          "FileID": 308580,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65596/65596-1648405328-1438602263.png",
           "IsNSFW": false,
           "ModID": 65596,
           "Name": "Riften of Reverie SE - 8K - Parallax",
           "Version": "0.9"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QsViGUNqr4I=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=28950\nfileID=217114",
-        "Name": "Illustrious Whiterun 4K Update-28950-1-4-1627406480.7z",
-        "Size": 582084754,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "winedave",
-          "Description": "My idea of what Whiterun should look like. Still A work in progress but getting there with every update. 8,4 \u0026amp; 2K versions.",
-          "FileID": 217114,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28950/28950-1620245589-72992561.png",
-          "IsNSFW": false,
-          "ModID": 28950,
-          "Name": "Illustrious Whiterun SE - 8K - Parallax",
-          "Version": "1.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "UhYoXiG9Ev0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=29842\nfileID=136963",
-        "Name": "Septentrional Landscapes 2K-29842-1-3-2-1588173223.7z",
-        "Size": 321988475,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "winedave",
-          "Description": "Landscape textures made with 3D Scans. 8, 4 \u0026amp; 2K versions available",
-          "FileID": 136963,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29842/29842-1581630636-1748116040.png",
-          "IsNSFW": false,
-          "ModID": 29842,
-          "Name": "Septentrional Landscapes SE - 8K",
-          "Version": "1.3.2"
         }
       }
     }
