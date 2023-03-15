@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (752)
+### Valid (751)
 *  [1) Skyrim Immersive Creatures v7.0.2 (includes 1K Textures)-12680-v7-0-2-1631188254.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12680/?tab=files&file_id=227169)
 *  [1k Textures-75377-1-1.rar](https://www.nexusmods.com/skyrim/mods/75377/?tab=files&file_id=1000205296)
 *  [3.18 to 3.20 Update-20199-3-20-1657117561.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20199/?tab=files&file_id=296677)
@@ -514,7 +514,6 @@
 *  [ogrim (se-ae) 3.1-27243-3-1-1658342058.rar](https://www.nexusmods.com/skyrimspecialedition/mods/27243/?tab=files&file_id=300659)
 *  [OnHit Animations Framework - NG-69298-1-0-1654647410.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69298/?tab=files&file_id=289591)
 *  [Onyx VR Weathers-36227-0-71-1590446674.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36227/?tab=files&file_id=142065)
-*  openvr_api.dll
 *  [Paarthurnax - Quest Expansion -Enigma Patch--33084-1-2-1624840238.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33084/?tab=files&file_id=211484)
 *  [Paarthurnax - Quest Expansion-51711-1-11-1652313141.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51711/?tab=files&file_id=283040)
 *  [Pandorable's Lucien SE-22598-1-0-1547460773.rar](https://www.nexusmods.com/skyrimspecialedition/mods/22598/?tab=files&file_id=78296)
