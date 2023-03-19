@@ -1,12 +1,10 @@
 ## Validation Report - Licentia BLACK (licentia_black/licentia_black)
 
 
-### Invalid (2)
-*  [Kaidan-2-and-Inigo-Banter-Patch-v6.3.7z](https://kaidanmod.com/wp-content/uploads/2022/10/Kaidan-2-and-Inigo-Banter-Patch-v6.3.7z)
-*  [Kaidan-3DNPC-Patch.7z](https://kaidanmod.com/wp-content/uploads/2022/10/Kaidan-3DNPC-Patch.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1236)
+### Valid (1238)
 *  [(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77989)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
 *  [(4) Community Overlays 3 - Main - CBBE and Male-35339-1-0-1588129970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136903)
@@ -629,6 +627,8 @@
 *  [Kaidan 2 - HD Armor Retexture-59736-1-0-1639002415.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59736/?tab=files&file_id=247598)
 *  [Kaidan 2.1.1-19075-2-1-1-1571995302.rar](https://www.nexusmods.com/skyrimspecialedition/mods/19075/?tab=files&file_id=111369)
 *  [Kaidan Banter Patch-11278-0-1-1648894948.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11278/?tab=files&file_id=274286)
+*  [Kaidan-2-and-Inigo-Banter-Patch-v6.3.7z](https://kaidanmod.com/wp-content/uploads/2022/10/Kaidan-2-and-Inigo-Banter-Patch-v6.3.7z)
+*  [Kaidan-3DNPC-Patch.7z](https://kaidanmod.com/wp-content/uploads/2022/10/Kaidan-3DNPC-Patch.7z)
 *  [Kaidan-Cheesemod.7z](https://kaidanmod.com/wp-content/uploads/2022/10/Kaidan-Cheesemod.7z)
 *  [Kaidan-Fertility-Mode-Integration-v2.0.7z](https://kaidanmod.com/wp-content/uploads/2022/10/Kaidan-Fertility-Mode-Integration-v2.0.7z)
 *  [Kaidan-Immersive-Features-V9.3.4.7z](https://kaidanmod.com/wp-content/uploads/2023/01/Kaidan-Immersive-Features-V9.3.4.7z)
