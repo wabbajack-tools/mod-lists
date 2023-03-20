@@ -46,6 +46,7 @@
   - [Stay FROSTy](#stay-frosty---a-fallout-4-experience)
   - [Ground Zero](#ground-zero---a-fallout-4-experience)
   - [FUSION](#FUSION)
+  - [(NSFW)Wasteland of Depravity(NSFW)](#nsfwwasteland-of-depravitynsfw)
 - [Enderal Special Edition](#enderal-special-edition)
   - [Somnium](#somnium-in-every-shadow)
   - [The Path](#the-path)
@@ -642,6 +643,17 @@ Look elsewhere if you want:
 Please see [here](https://loadorderlibrary.com/lists/fusion-1) for a complete up to date list of all the mods FUSION has.
 
 This mod list is for you if you have never played Fallout 4 before and want the best vanilla experience you can get on PC. Or maybe you are a seasoned player looking to go back to basics? FUSION has you covered.
+
+### (NSFW)Wasteland of Depravity(NSFW)
+
+Fallout 4 but with modern guns, immersive animations, new quests, loads of new outfits and NSFW content. WoD also features a vibrant weather mod + ENB pair and plenty of greenery to move away from the more traditional "wasteland" theme and give back Boston some nature!
+
+**_Mods to get familiar with:_**
+
+* [Loot Detector](https://www.nexusmods.com/fallout4/mods/4380)
+* [Modern Weapon Replacers - AIO](https://www.nexusmods.com/fallout4/mods/33523)
+* [Workshop Framework](https://www.nexusmods.com/fallout4/mods/35004)
+* [Beast Master](https://www.nexusmods.com/fallout4/mods/14265)
 
 ## Enderal Special Edition
 
