@@ -1,10 +1,11 @@
 ## Validation Report - Nordic Souls (Geborgen/nordic-souls)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [xLODGen.98.7z](https://authored-files.wabbajack.org/xLODGen.98.7z_58542e69-2899-4ea1-a542-ea4c237e5bd6)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1637)
+### Valid (1636)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
@@ -1631,7 +1632,6 @@
 *  [Xelzaz No Horn Meshes-62893-1-4-1-1655917602.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62893/?tab=files&file_id=293141)
 *  [Xenius Character Enhancement Complete-36985-v1-2-1591608608.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36985/?tab=files&file_id=144454)
 *  [Xenius Character Expansion Complete-65865-1-0-1659290085.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65865/?tab=files&file_id=303662)
-*  [xLODGen.98.7z](https://authored-files.wabbajack.org/xLODGen.98.7z_58542e69-2899-4ea1-a542-ea4c237e5bd6)
 *  [XP32 Maximum Skeleton Special Extended-1988-4-81-1660739371.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=308218)
 *  [XPMSSE - Nemesis - Script Fix - SE-60363-4-8-4-1645765745.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60363/?tab=files&file_id=266615)
 *  [XPMSSE Left Hand Skeleton Rotation Fix-50049-4-80-1621290459.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=204058)
