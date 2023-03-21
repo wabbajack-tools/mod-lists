@@ -285,7 +285,7 @@
 *  [Crash Log Tools-66743-1-0-1-1650374513.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66743/?tab=files&file_id=278241)
 *  [CrashLogger-59818-1-8-0-1675415183.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=355778)
 *  [Creation Club - Adjustments Rebalancing and Variants All in One-59370-1-0-1668895260.rar](https://www.nexusmods.com/skyrimspecialedition/mods/59370/?tab=files&file_id=333052)
-*  [Creation Club - Reintegrated-87413-1-0-1679284629.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87413/?tab=files&file_id=370207)
+*  [Creation Club - Reintegrated-87413-1-01-1679352202.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87413/?tab=files&file_id=370474)
 *  [Creation Club Patches-85739-1-0-1677289373.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85739/?tab=files&file_id=363058)
 *  [CreepClusterFIX-35207-1-0-1587872723.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35207/?tab=files&file_id=136360)
 *  [Critter Spawn Congestion Fix 1.3-67276-1-3-1673705873.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67276/?tab=files&file_id=349417)
