@@ -2,7 +2,7 @@
   "MachineURL": "LostOutpost/dragonborn",
   "Name": "Dragonborn",
   "Version": "1.0.16",
-  "ModListHash": "QI0RkWyC+94=",
+  "ModListHash": "YlMgckCJKtA=",
   "Archives": [
     {
       "Status": "Valid",
@@ -1246,16 +1246,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "1bf78U78VJc=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Scripts.zip",
-        "Name": "Data_Scripts.zip",
-        "Size": 13364473,
+        "Hash": "6NM4cCmhztM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=63953\nfileID=282311",
+        "Name": "Optional Quick Start - SE-63953-1-1-4-1652007908.7z",
+        "Size": 39118,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Scripts.zip",
-          "GameVersion": "1.6.640.0",
-          "Hash": "1bf78U78VJc="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Arvyn",
+          "Description": "Adds an option to skip the introduction.",
+          "FileID": 282311,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/63953/111029-1645259855-805032508.png",
+          "IsNSFW": false,
+          "ModID": 63953,
+          "Name": "Optional Quick Start - SE",
+          "Version": "1.0.3"
         }
       }
     },
@@ -2663,27 +2668,6 @@
           "ModID": 84131,
           "Name": "ENB IMOD Separator",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6NM4cCmhztM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=63953\nfileID=282311",
-        "Name": "Optional Quick Start - SE-63953-1-1-4-1652007908.7z",
-        "Size": 39118,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Arvyn",
-          "Description": "Adds an option to skip the introduction.",
-          "FileID": 282311,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/63953/111029-1645259855-805032508.png",
-          "IsNSFW": false,
-          "ModID": 63953,
-          "Name": "Optional Quick Start - SE",
-          "Version": "1.0.3"
         }
       }
     },

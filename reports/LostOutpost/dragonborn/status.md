@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (281)
+### Valid (280)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [Adamant - A Perk Overhaul-30191-5-7-4-1674102482.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=350925)
@@ -86,7 +86,6 @@
 *  [Creation Club - Adjustments Rebalancing and Variants All in One-59370-1-0-1668895260.rar](https://www.nexusmods.com/skyrimspecialedition/mods/59370/?tab=files&file_id=333052)
 *  [Creation Club - Widescreen Fix-1778-2-0-1592665361.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?tab=files&file_id=146621)
 *  [Critter Spawn Congestion Fix 1.2-67276-1-2-1651865683.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67276/?tab=files&file_id=281943)
-*  Data_Scripts.zip
 *  [DaVinci ReShade-40530-1-0-1600275114.zip](https://www.nexusmods.com/skyrimspecialedition/mods/40530/?tab=files&file_id=161082)
 *  [Dawnguard Arsenal SSE v1_0-25094-1-0-1555858493.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25094/?tab=files&file_id=89159)
 *  [deorder_plugins-1.1.zip](https://github.com/deorder/mo2-plugins/releases/download/1.1/deorder_plugins-1.1.zip)
