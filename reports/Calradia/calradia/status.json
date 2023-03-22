@@ -1,11 +1,3078 @@
 {
   "MachineURL": "Calradia/calradia",
   "Name": "Calradia Under Fire",
-  "Version": "1.2",
-  "ModListHash": "ktoaoEY5JeM=",
-  "Archives": [],
-  "Status": "ForcedDown",
+  "Version": "1.5",
+  "ModListHash": "Ys7TjYYlXMY=",
+  "Archives": [
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LqKnmSUrXac=",
+        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z",
+        "Name": "Mod.Organizer-2.4.4.7z",
+        "Size": 90051560,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3JA7Ljf8QC8=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4535\nfileID=33411",
+        "Name": "Agriculture Estate Updated 1.1.0-4535-1-1-0-1-1677778881.7z",
+        "Size": 177493,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kz14365",
+          "Description": "Buy land in villages to collect rent for passive income or used captured bandits as slave labor to produce goods either to keep or sell",
+          "FileID": 33411,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4535/4535-1665360609-576410025.png",
+          "IsNSFW": false,
+          "ModID": 4535,
+          "Name": "Agriculture Estate Updated",
+          "Version": "1.1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Z0qVI4elATA=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2637\nfileID=33822",
+        "Name": "BannerColorPersistence v1.4.5 with BannerPaste-2637-1-4-5-1678970842.7z",
+        "Size": 213630,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "quakank",
+          "Description": "Fixes the many problems associated with custom banners, such as malformed banners on load, CTD in inventory and trade screens, banners being ruined by kingdom color updates, armor color mismatch caused by kingdom color updates. Latest versions now include integrated BannerPaste functionality!",
+          "FileID": 33822,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2637/2637-1611263414-1699430717.png",
+          "IsNSFW": false,
+          "ModID": 2637,
+          "Name": "Banner Color Persistence (now with BannerPaste)",
+          "Version": "1.4.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wfM++LqSPyk=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=404\nfileID=33394",
+        "Name": "BetterExceptionWindowv6.5-404-v6-5-1677735972.7z",
+        "Size": 811646,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "admiralnelson",
+          "Description": "This mods will report a detailed error.\n\nNew feature: Attempt to continue, screenshot and save game attachments, memory dumper.",
+          "FileID": 33394,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/404/404-1589607033-635387554.png",
+          "IsNSFW": false,
+          "ModID": 404,
+          "Name": "Better Exception Window (With Emergency Save and More)",
+          "Version": "v6.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ozCgwgugt8A=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2018\nfileID=32856",
+        "Name": "ButterLib-2018-v2-6-3-1675240952.7z",
+        "Size": 941578,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BUTR",
+          "Description": "Extension library for Mount \u0026amp; Blade II: Bannerlord containing common functions for modification development.",
+          "FileID": 32856,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2018/2018-1597004711-1924995195.png",
+          "IsNSFW": false,
+          "ModID": 2018,
+          "Name": "ButterLib",
+          "Version": "v2.6.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8aM0AtOkEoQ=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=1101\nfileID=31105",
+        "Name": "Distinguished Service-1101-5-2-1-1669497086.zip",
+        "Size": 71344,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Catalyst",
+          "Description": "This mod allows basic soldiers, who meet certain criteria, to ascend to companion-dom following battle. Now the troops you\u0027ve had by your side since their peasant days can be rewarded with cushy governor jobs.\n\nVersion for 1.0.0 available!\n\nSee it on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=2891413076",
+          "FileID": 31105,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/1101/1101-1589302795-254980148.png",
+          "IsNSFW": false,
+          "ModID": 1101,
+          "Name": "Distinguished Service",
+          "Version": "5.2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "faAURMyrHTA=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4276\nfileID=33432",
+        "Name": "Hot Butter Uncensored-4276-2-0-3-1677802504.zip",
+        "Size": 37226793,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Bloc and Errayn",
+          "Description": "It\u0027s hot. It\u0027s BUTTer. It\u0027s Hot Butter mod.\n\nWith this mod, you can have sex with your wife or husband, tavern maids etc.",
+          "FileID": 33432,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4276/4276-1659559372-1138026703.png",
+          "IsNSFW": true,
+          "ModID": 4276,
+          "Name": "Hot Butter",
+          "Version": "2.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "n8h1rYKz064=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4970\nfileID=33658",
+        "Name": "Kingdom Politics Expanded-4970-1-1-0-3-1678455004.zip",
+        "Size": 393483,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "motes",
+          "Description": "A complete overhaul of AI for voting on Kingdom Policies.",
+          "FileID": 33658,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4970/4970-1674142140-2032862542.png",
+          "IsNSFW": false,
+          "ModID": 4970,
+          "Name": "Kingdom Politics Expanded",
+          "Version": "1.1.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FMAYu8hPSOI=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4324\nfileID=33402",
+        "Name": "No Bandits No Cry (1.1.0)-4324-1-1-0-1-1677763250.7z",
+        "Size": 43187,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Psycho_Actives",
+          "Description": "-Change Bandit Party Sizes\n\n-Option To Remove All Bandits\n\n-Change Bandit Population Settings\n\n\n\nChanges made in the mod options menu before starting a new save are applied instantly; whereas changes made during a save game only occur as new entities spawn (or don\u0027t, if you use the turn off bandits option)",
+          "FileID": 33402,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4324/4324-1660659014-37585341.png",
+          "IsNSFW": false,
+          "ModID": 4324,
+          "Name": "No Bandits No Cry (1.1.0) UPDATED",
+          "Version": "1.1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8YP2aaDXbFc=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3826\nfileID=33901",
+        "Name": "POC Configuration-3826-1-1-1679256889.zip",
+        "Size": 109499,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Basileus TheUnknown Sval Carrasco",
+          "Description": "Banner Kings is a suite of features to deepen non-combat gameplay. Populations, feudal titles, village projects, settlement management overhaul \u0026amp; more.",
+          "FileID": 33901,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3826/3826-1662485001-140192736.jpeg",
+          "IsNSFW": false,
+          "ModID": 3826,
+          "Name": "Banner Kings",
+          "Version": "1.2.6.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "62TB3d6kwpQ=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4919\nfileID=33442",
+        "Name": "RighteousExcecutions for 1.1.0-4919-1-1-0-0-1677858000.7z",
+        "Size": 382001,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Rewstyr",
+          "Description": "Removes Honor/Relation penalty (configurable) from executions",
+          "FileID": 33442,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4919/4919-1671842510-697543897.png",
+          "IsNSFW": false,
+          "ModID": 4919,
+          "Name": "Righteous Executions Updated",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4R9KPXfFKis=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=1976\nfileID=33796",
+        "Name": "Transmog - Cosmetic Equipment-1976-2-0-7-1678897507.zip",
+        "Size": 51416,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Maegfaer",
+          "Description": "Allows you to copy the visual aspect of an item to another individual item without affecting the statistics of the second item, also known as \u0022Transmogrification\u0022. Transmog data is copied to the clipboard so you can save and share good looking equipment outfits, similar to character presets. Also supports copy-pasting entire outfits at once!",
+          "FileID": 33796,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/1976/1976-1595452227-1418737481.png",
+          "IsNSFW": false,
+          "ModID": 1976,
+          "Name": "Transmog - Cosmetic Equipment",
+          "Version": "2.0.7"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EqHRoToMd0Y=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=1578\nfileID=33275",
+        "Name": "Women in Calradia-1578-V5-1-1677330838.7z",
+        "Size": 5511792,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ShutUpMalfoy",
+          "Description": "Female character preset for each culture.",
+          "FileID": 33275,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/1578/1578-1672531795-1492146818.png",
+          "IsNSFW": false,
+          "ModID": 1578,
+          "Name": "Women in Calradia",
+          "Version": "V5.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hDwt0GG/JAM=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3418\nfileID=29432",
+        "Name": "Amazon Body-3418-1-0-0-1667051273.7z",
+        "Size": 129189775,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "zeroas136977",
+          "Description": "New armor for a male and female character",
+          "FileID": 29432,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3418/3418-1636721390-1514846612.jpeg",
+          "IsNSFW": false,
+          "ModID": 3418,
+          "Name": "New Armor",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+GpfBfvUNfs=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=5236\nfileID=33749",
+        "Name": "AnoritKingdom-5236-v1-1-0-3-1678739726.rar",
+        "Size": 13937551,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TraestKF",
+          "Description": "Cute new kingdom with igniting weapons",
+          "FileID": 33749,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/5236/5236-1678295354-689655160.jpeg",
+          "IsNSFW": false,
+          "ModID": 5236,
+          "Name": "Anorit Kingdom",
+          "Version": "v1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/rp3q260kEQ=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=286\nfileID=33350",
+        "Name": "Adonnay\u0027s Troop Changer-286-1-9-0-1677678153.7z",
+        "Size": 302002,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Adonnay",
+          "Description": "Enables modders to have their troop trees added to the game without replacing existing troop trees.\n\n\n\nAutomatically merges multiple troop trees and allows for indepth customization to form the Calradia of your imagination.",
+          "FileID": 33350,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/286/286-1610656256-1453869654.png",
+          "IsNSFW": false,
+          "ModID": 286,
+          "Name": "ATC - Adonnay\u0027s Troop Changer",
+          "Version": "1.8.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WQPINqLV7LE=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4512\nfileID=32859",
+        "Name": "Bahamut\u0027s Armory 1.0.3 v3-4512-5-0-1675244594.rar",
+        "Size": 688928870,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nemerius",
+          "Description": "Adds 3 new plate armors and 3 new helmets! 16 armors in total. Compatible with 1.8.x version",
+          "FileID": 32859,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4512/4512-1664715902-1491151139.png",
+          "IsNSFW": false,
+          "ModID": 4512,
+          "Name": "Bahamut\u0027s Armory",
+          "Version": "4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9GPph8LLWY8=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3104\nfileID=19550",
+        "Name": "Bandit Armors-3104-1-13-1625686097.zip",
+        "Size": 416273620,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "rahman530",
+          "Description": "Custom armors for Bannerlord. This mod will eventually become a compilation of custom armors, that are more towards the rag-tag bandit/raider look, but for now theres only 2 sets.",
+          "FileID": 19550,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3104/3104-1625685655-1755287315.jpeg",
+          "IsNSFW": true,
+          "ModID": 3104,
+          "Name": "Bandit Armors",
+          "Version": "1.13"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nIhUQIP5ijA=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4944\nfileID=33325",
+        "Name": "Banner Editor-4944-1-0-5-1677666540.zip",
+        "Size": 616161,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Bloc",
+          "Description": "Implementation of a Better Banner Editor. Editor that we all deserve since the beginning of EA. This implementation is almost identical to website bannerlord.party and pre-release version that most of you didn\u0027t have a chance to see. Supports Copy-paste banner codes and color persistence for player banners out of the box.",
+          "FileID": 33325,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4944/4944-1672420657-1205785778.png",
+          "IsNSFW": false,
+          "ModID": 4944,
+          "Name": "Banner Editor",
+          "Version": "1.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GNnmk7/a3X0=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4600\nfileID=32631",
+        "Name": "Banner Fix-4600-V1-3-1674362121.7z",
+        "Size": 3814245,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ShutUpMalfoy",
+          "Description": "This mod fix the unnatural banner.",
+          "FileID": 32631,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4600/4600-1674363523-1520638419.png",
+          "IsNSFW": false,
+          "ModID": 4600,
+          "Name": "Banner Fix",
+          "Version": "V1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qX2V4LGPSMQ=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3826\nfileID=28548",
+        "Name": "Banner Kings Assets-3826-1-0-1664134342.7z",
+        "Size": 60087717,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Basileus TheUnknown Sval Carrasco",
+          "Description": "Banner Kings is a suite of features to deepen non-combat gameplay. Populations, feudal titles, village projects, settlement management overhaul \u0026amp; more.",
+          "FileID": 28548,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3826/3826-1662485001-140192736.jpeg",
+          "IsNSFW": false,
+          "ModID": 3826,
+          "Name": "Banner Kings",
+          "Version": "1.2.6.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qhcQksZ58nw=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3826\nfileID=33686",
+        "Name": "Banner Kings-3826-1-2-7-1678567796.7z",
+        "Size": 1881011,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Basileus TheUnknown Sval Carrasco",
+          "Description": "Banner Kings is a suite of features to deepen non-combat gameplay. Populations, feudal titles, village projects, settlement management overhaul \u0026amp; more.",
+          "FileID": 33686,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3826/3826-1662485001-140192736.jpeg",
+          "IsNSFW": false,
+          "ModID": 3826,
+          "Name": "Banner Kings",
+          "Version": "1.2.6.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gG6wyevcA9I=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=5150\nfileID=33850",
+        "Name": "Better Pikes-5150-1-0-2-1679065090.7z",
+        "Size": 49450,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OrderWOPower",
+          "Description": "Gives pikes realistic lengths, fixes the pike bracing animation so that the longer pikes can hit enemy cavalry, and makes pikemen use pike formations that are as functional as the game allows",
+          "FileID": 33850,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/5150/5150-1676648904-1826096525.png",
+          "IsNSFW": false,
+          "ModID": 5150,
+          "Name": "Better Pikes",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SS+X+2Tf9wg=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=1226\nfileID=33726",
+        "Name": "Captivity Events - 1.1.1-1226-1039-1678672906.zip",
+        "Size": 10846169,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BadListener",
+          "Description": "The mod is community made from the various people in the forum of LoversLab , it adds various custom events to the captivity system for both captor and captives, fully customizable with various new features and adult themed things. You can write your own events if you choose to. Prostitution enabled as well.",
+          "FileID": 33726,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/1226/1226-1672976789-116386200.png",
+          "IsNSFW": true,
+          "ModID": 1226,
+          "Name": "Captivity Events",
+          "Version": "1038.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0QHf6sOi2a0=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2482\nfileID=32763",
+        "Name": "CustomTroop - v1.1.0-2482-1-7-7-1674719908.zip",
+        "Size": 382333,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "helokero13",
+          "Description": "Created on e1.5.4 - Allow customize the equipment of a custom troop tree",
+          "FileID": 32763,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2482/2482-1607421098-797842163.jpeg",
+          "IsNSFW": false,
+          "ModID": 2482,
+          "Name": "Custom Troop",
+          "Version": "1.7.7"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pk+xyz8Rwi8=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2188\nfileID=33010",
+        "Name": "Enhanced Battle Test for v1.1.0-2188-1-1-0-0-1675982371.7z",
+        "Size": 319432,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "will",
+          "Description": "A simple mod improves vanilla battle experience. Changes damage calculating formulas. Zero configuration.",
+          "FileID": 33010,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2188/2188-1600750079-359636174.png",
+          "IsNSFW": false,
+          "ModID": 2188,
+          "Name": "Drastic Battle",
+          "Version": "1.1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "D449vmnL7WI=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4670\nfileID=30347",
+        "Name": "Face Texture Overhaul MC-4670-1-0-1-1668314471.rar",
+        "Size": 279160382,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tachyon313",
+          "Description": "This mod only changes face and body texture for all females.\n\nConsider this mod as an alternative version of GT_Megabodybb, I made this for personal use and to make Calradian female look better; for other info see the detail below.",
+          "FileID": 30347,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4670/4670-1667977947-462560573.jpeg",
+          "IsNSFW": false,
+          "ModID": 4670,
+          "Name": "Face texture overhaul (Based on GT_MegaBodybb. MC Amazon body Compatible.)",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FT6BmPnsaDc=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2813\nfileID=33562",
+        "Name": "Family Control-2813-1-0-3-1678161580.7z",
+        "Size": 3039869,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nachomastero",
+          "Description": "Interact with your spouse or other ladies and control when to have a child and with who. Fully configurable, you can adopt your bastard children,  Abortion features, Pregnancy chance and limits, Select the culture of your children. Lesbian Pregnancy, Interaction effects with sounds.",
+          "FileID": 33562,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2813/2813-1625626726-1757810340.jpeg",
+          "IsNSFW": false,
+          "ModID": 2813,
+          "Name": "Family Control (Pregnancy)",
+          "Version": "1.0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JT7B9d97fdo=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3444\nfileID=22415",
+        "Name": "Godherja Agionist Order helmet-3444-1-1637193046.rar",
+        "Size": 135128279,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ADamnSexyName",
+          "Description": "a helmet i made for the Godherja mod for ck3 https://steamcommunity.com/sharedfiles/filedetails/?id=2326030123 i got premmision to add it to bannerlord\n\nCulture Vlandia, 5 variants hope you enjoy versions might be wrong but it will work trust me!",
+          "FileID": 22415,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3444/3444-1637193111-1598532646.png",
+          "IsNSFW": false,
+          "ModID": 3444,
+          "Name": "Godherja Agionist Order helmet",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rNF1gN3ZgJI=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4938\nfileID=33567",
+        "Name": "High Middle Ages Calradia v1.4 (for Bannerlord 1.1)-4938-1-4-1678173827.zip",
+        "Size": 263866,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Maty743",
+          "Description": "This mod completely recreates all the unit trees from scratch and converts Bannerlord from the Dark Ages setting to the High Middle Ages period (1000-1300ad). \n\n- Strong focus on gear variety within each unit while maintaining an immersive visual style.\n\n- A rock paper scissors style balance between units.",
+          "FileID": 33567,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4938/4938-1672298309-1977489566.jpeg",
+          "IsNSFW": false,
+          "ModID": 4938,
+          "Name": "High Middle Ages - Calradia",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FyAPMMQNBF0=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4276\nfileID=28062",
+        "Name": "Hot Butter Scenes for Captivity Events mod.-4276-0-69-1661849457.rar",
+        "Size": 29860517,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Bloc and Errayn",
+          "Description": "It\u0027s hot. It\u0027s BUTTer. It\u0027s Hot Butter mod.\n\nWith this mod, you can have sex with your wife or husband, tavern maids etc.",
+          "FileID": 28062,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4276/4276-1659559372-1138026703.png",
+          "IsNSFW": true,
+          "ModID": 4276,
+          "Name": "Hot Butter",
+          "Version": "2.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ZFM4Nq4Om5M=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3775\nfileID=30229",
+        "Name": "madTelchar weapon pack e1.0.0-1.0.1-3775-1-0-0-1668182529.zip",
+        "Size": 140806929,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Happybara - madTelchar",
+          "Description": "MadTelchar\u0027s \u0022Anduril - Flame of the West\u0022 updated for e1.7.1 and 1.7.2. Includes his two Arakh designs from Game of Thrones and his Double-headed Axes! Now includes 1.8.0!",
+          "FileID": 30229,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3775/3775-1645989661-28566206.png",
+          "IsNSFW": false,
+          "ModID": 3775,
+          "Name": "MadTelchar\u0027s weapon pack Reforged",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "y2ipEJJGaT8=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4892\nfileID=33708",
+        "Name": "Merchandise-4892-1-0-3-1678629362.zip",
+        "Size": 19705367,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Bloc",
+          "Description": "A small mod that introduces 25 culture-specific food and merchandise items along with their 2D icons and 3D modes. It also introduces a distance based supply/demand trading system on top of existing economic systems in the game. Expanding Trader Playthroughs by allowing you to explore Calradian geographic trade routes with culture specific items.",
+          "FileID": 33708,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4892/4892-1671206600-2131497098.jpeg",
+          "IsNSFW": false,
+          "ModID": 4892,
+          "Name": "Merchandise",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kiCF89KrhmY=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=612\nfileID=32446",
+        "Name": "Mod Configuration Menu-612-v5-5-5-1673696692.7z",
+        "Size": 567300,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Aragas",
+          "Description": "MCM is a Mod Options screen library designed to let modders use its API for defining the options.",
+          "FileID": 32446,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/612/612-1592411203-984146448.jpeg",
+          "IsNSFW": false,
+          "ModID": 612,
+          "Name": "Mod Configuration Menu",
+          "Version": "v5.5.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ZwnheoVv7xI=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3164\nfileID=20098",
+        "Name": "Tier 6 basic and Tier 7 elite troops-3164-any-1628673208.zip",
+        "Size": 4081,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LL Muse",
+          "Description": "A day 1 fully customizable player unique troop tree",
+          "FileID": 20098,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3164/3164-1669279004-461282356.jpeg",
+          "IsNSFW": false,
+          "ModID": 3164,
+          "Name": "My Little Warband",
+          "Version": "1.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/i9Q+V0EKJg=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2829\nfileID=33470",
+        "Name": "Open Source Armory FOR v1.1.0 RELEASE-2829-1-14-0-1677926999.zip",
+        "Size": 6887040747,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Open Source Armory Team",
+          "Description": "The #1 stop for all your custom armor needs!\n\nCombines existing popular armor mods.\n\nAdds 1,500\u002B new custom armors!\n\nAdds 63 new shields and 104 weapons!\n\nCompatible with 1.0.1 and later versions.\n\nLargest custom armor pack so far!",
+          "FileID": 33470,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2829/2829-1617496275-1802058535.png",
+          "IsNSFW": false,
+          "ModID": 2829,
+          "Name": "Open Source Armory",
+          "Version": "1.13.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bP3/yLRNfxA=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2829\nfileID=33473",
+        "Name": "Open Source Weaponry FOR v1.0.2 RELEASE-2829-1-3-0-1677929511.zip",
+        "Size": 290149405,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Open Source Armory Team",
+          "Description": "The #1 stop for all your custom armor needs!\n\nCombines existing popular armor mods.\n\nAdds 1,500\u002B new custom armors!\n\nAdds 63 new shields and 104 weapons!\n\nCompatible with 1.0.1 and later versions.\n\nLargest custom armor pack so far!",
+          "FileID": 33473,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2829/2829-1617496275-1802058535.png",
+          "IsNSFW": false,
+          "ModID": 2829,
+          "Name": "Open Source Armory",
+          "Version": "1.13.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nR/kCWgjiXY=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2829\nfileID=33474",
+        "Name": "Open Source Armory - Realistic Battle Mod Compatibility Patch FOR v1.1.0 RELEASE-2829-1-14-0-1677929614.zip",
+        "Size": 72125,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Open Source Armory Team",
+          "Description": "The #1 stop for all your custom armor needs!\n\nCombines existing popular armor mods.\n\nAdds 1,500\u002B new custom armors!\n\nAdds 63 new shields and 104 weapons!\n\nCompatible with 1.0.1 and later versions.\n\nLargest custom armor pack so far!",
+          "FileID": 33474,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2829/2829-1617496275-1802058535.png",
+          "IsNSFW": false,
+          "ModID": 2829,
+          "Name": "Open Source Armory",
+          "Version": "1.13.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "B71i2shu/H4=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3253\nfileID=32658",
+        "Name": "3. Raise your Banner V8.2 - RTS Style-3253-V8-2-1674394463.7z",
+        "Size": 186354,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ShutUpMalfoy",
+          "Description": "Banners for the troops in battle. Replaces the banner function of vanilla. \n\nThe number of banners increases. It\u0027s more visible.",
+          "FileID": 32658,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3253/3253-1655056162-430343690.png",
+          "IsNSFW": false,
+          "ModID": 3253,
+          "Name": "Raise your Banner",
+          "Version": "V8.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rEzrgPb527w=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3289\nfileID=32473",
+        "Name": "Raise your Torch - If used with Perfect Fire Arrows mod-3289-V5-1-1673739644.7z",
+        "Size": 11371,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ShutUpMalfoy",
+          "Description": "Torches for night battles. Don\u0027t fight in the dark anymore.",
+          "FileID": 32473,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3289/3289-1631268308-84261217.png",
+          "IsNSFW": false,
+          "ModID": 3289,
+          "Name": "Raise your Torch",
+          "Version": "V5.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SpqMSM1JgOo=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=791\nfileID=33557",
+        "Name": "Realistic Battle mod for 1.1.0-791-3-5-7-1678141566.zip",
+        "Size": 1198108,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Marnah93 and Philozoraptor",
+          "Description": "This mod makes combat more realistic. Armor and damage is reworked according to experimental data. Weapons attack faster. Units parry and block more. Projectile damage is based on kinetic energy, ranged weapons use draw and projectile weight based simulation. AI tactics improved. Units climb ladders during siege. Optional unit overhaul included.",
+          "FileID": 33557,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/791/791-1587411786-1216365526.jpeg",
+          "IsNSFW": false,
+          "ModID": 791,
+          "Name": "Realistic Battle Mod",
+          "Version": "3.5.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GKbB7siftUQ=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2221\nfileID=29089",
+        "Name": "Reign of Sword-2221-1-5-1666554104.zip",
+        "Size": 1139136,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Daedalus",
+          "Description": "This mod adds some new sharp tools of mass destruction.",
+          "FileID": 29089,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2221/2221-1601804075-1962194451.png",
+          "IsNSFW": false,
+          "ModID": 2221,
+          "Name": "Reign of Sword - new weapons pack",
+          "Version": "1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "NsLD/BeRd08=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2349\nfileID=32855",
+        "Name": "swadian armoury-2349-1-0-3-1675201247.rar",
+        "Size": 3208856224,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ADamnSexyName",
+          "Description": "adds a lot of random armor pieces\n\nthis is not ment to be historicaly accurate or somthing but more of a collection of all my armors that i make for practice and fun.",
+          "FileID": 32855,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2349/2349-1654560828-205045316.png",
+          "IsNSFW": false,
+          "ModID": 2349,
+          "Name": "Swadian armoury",
+          "Version": "1.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sxN07VRO1Lk=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=5197\nfileID=33559",
+        "Name": "Unlanded Clans-5197-1-5-0-1678147912.7z",
+        "Size": 37326,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "conleyc86",
+          "Description": "Do you like Death for All? Do you love succession and civil war mods? Would you like the world to feel less empty when clans are booted or extinguised? I created 21 unlanded clans, 3 for each non empire faction and 2 for each empire faction - lovingly crafted for your enjoyment.",
+          "FileID": 33559,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/5197/5197-1678148522-1013636813.jpeg",
+          "IsNSFW": false,
+          "ModID": 5197,
+          "Name": "Unlanded Clans",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VirgCZIom3Q=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2698\nfileID=26341",
+        "Name": "Vaegir Armoury 1.8-2698-1-8-1654900172.rar",
+        "Size": 249350831,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ADamnSexyName",
+          "Description": "adds a few helmets and a chest piece for now.\n\nmore will follow\n\n\n\nFor the RBm patch \n\n\n\nhttps://www.nexusmods.com/mountandblade2bannerlord/mods/4116?tab=description\n\n\n\nthanks to MaGiC48x !",
+          "FileID": 26341,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2698/2698-1654900200-1238628856.png",
+          "IsNSFW": false,
+          "ModID": 2698,
+          "Name": "Vaegir Armoury",
+          "Version": "1.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "td/0qLsFowg=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2522\nfileID=32818",
+        "Name": "2- Vlandian Steel Items V1.0.0 for V1.0.0 to V1.1.0-2522-1-0-0-1674952513.rar",
+        "Size": 1101557644,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Snipass",
+          "Description": "Complete rework of the Vlandian Troop Trees",
+          "FileID": 32818,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2522/2522-1622326806-1998837269.jpeg",
+          "IsNSFW": false,
+          "ModID": 2522,
+          "Name": "Vlandian Steel - Troops Replacer - EN-FR",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xHzvp2OxCgY=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4277\nfileID=33245",
+        "Name": "Warlords Battlefield RBM-4277-1-0-9-1677225604.rar",
+        "Size": 214189661,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "bossraphael",
+          "Description": "Overhaul of all Calradia factions!!! Includes new clans, 700 new units, 250 new weapons, and extended branch trees for major, minor, and outlaw factions. Version with and without RBM available. Working on 1.0.0-1.1.0",
+          "FileID": 33245,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4277/4277-1659623953-713362761.png",
+          "IsNSFW": false,
+          "ModID": 4277,
+          "Name": "Warlords Battlefield - Bannerlord Branches Overhaul (1.0.0-1.1.0)",
+          "Version": "1.0.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2hBOqIdDmRI=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3418\nfileID=30285",
+        "Name": "New Female Armor-3418-1-0-1-1668261594.7z",
+        "Size": 1201858270,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "zeroas136977",
+          "Description": "New armor for a male and female character",
+          "FileID": 30285,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3418/3418-1636721390-1514846612.jpeg",
+          "IsNSFW": false,
+          "ModID": 3418,
+          "Name": "New Armor",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "r6IZN07LAno=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3418\nfileID=33241",
+        "Name": "New Male Armor-3418-1-0-2-1677220035.7z",
+        "Size": 438394953,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "zeroas136977",
+          "Description": "New armor for a male and female character",
+          "FileID": 33241,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3418/3418-1636721390-1514846612.jpeg",
+          "IsNSFW": false,
+          "ModID": 3418,
+          "Name": "New Armor",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mkufYIb9TBU=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=1750\nfileID=33222",
+        "Name": "Allegiance Overhaul-1750-v2-3-5-1677015921.7z",
+        "Size": 592712,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "artifixer",
+          "Description": "This mod overhauls different aspects of the game, related to kingdom management.\n\nThere are improvements to the the rules that NPC clans use to leave, join and evaluate kingdoms, election system and more - see the description. \n\nEverything is configurable!",
+          "FileID": 33222,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/1750/1750-1590957278-1664366914.png",
+          "IsNSFW": false,
+          "ModID": 1750,
+          "Name": "Allegiance Overhaul",
+          "Version": "v2.3.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5+x37T7eNI4=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4587\nfileID=33337",
+        "Name": "Achievement Unblocker-4587-1-0-4-1677668348.zip",
+        "Size": 385076,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Bloc",
+          "Description": "Don\u0027t want your hard-earned achievements to be locked because you are using mods? This mod can fix that. This is a \u0022mod\u0022 that blocks Bannerlord blocking you to get achievements because you use mods. A mod that unblocks mod-blocks. Also, with this mod, you don\u0027t need to use Story Mode to earn achievements. You can earn it with Sandbox version too.",
+          "FileID": 33337,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4587/4587-1666738541-162595713.jpeg",
+          "IsNSFW": false,
+          "ModID": 4587,
+          "Name": "Achievement Un(bloc)ker",
+          "Version": "1.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UZAmfnlQA1I=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3386\nfileID=33479",
+        "Name": "Bannerboard-3386-0-4-2-1677940542.zip",
+        "Size": 626094,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Edgars Sults",
+          "Description": "Bannerboard is an external dashboard that displays real-time statistics about your campaign in a browser.",
+          "FileID": 33479,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3386/3386-1653839000-902610054.png",
+          "IsNSFW": false,
+          "ModID": 3386,
+          "Name": "Bannerboard",
+          "Version": "0.4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gzJcbG1Zjco=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3434\nfileID=33941",
+        "Name": "BetterAttributes v2.6 (1.1.1)-3434-2-6-1679433774.zip",
+        "Size": 557382,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Shadow32055",
+          "Description": "Better Attributes aims to improve attributes by giving them bonuses that scale with their level. You can pick which bonuses are tied to what attribute as well as what you\u0027d like the bonus to be.",
+          "FileID": 33941,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3434/3434-1656623785-764080633.png",
+          "IsNSFW": false,
+          "ModID": 3434,
+          "Name": "Better Attributes",
+          "Version": "2.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Iy9CoWuQZq4=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=5285\nfileID=33885",
+        "Name": "Breakable Polearms-5285-1-0-1-1679213301.7z",
+        "Size": 8563,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OrderWOPower",
+          "Description": "Makes polearms breakable",
+          "FileID": 33885,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/5285/5285-1679064360-1354534377.png",
+          "IsNSFW": false,
+          "ModID": 5285,
+          "Name": "Breakable Polearms",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sEP5HG4BAB4=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=5089\nfileID=33312",
+        "Name": "CustomCompanion_v0.3.1 for Bannerlord v1.1.0 beta-5089-0-3-1-1677574318.7z",
+        "Size": 111718,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kyo77012",
+          "Description": "Provide a way to do below things:\n\n1. Modify companion limit.\n\n2. Custom and modify your companion attributes/skills/perks/traits/culture/gender/age/name/level.\n\n3. Export/Import character/template settings.",
+          "FileID": 33312,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/5089/5089-1677500834-158029669.png",
+          "IsNSFW": false,
+          "ModID": 5089,
+          "Name": "Custom Companion",
+          "Version": "0.3.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "t1JEPTZK124=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=1068\nfileID=33436",
+        "Name": "Designer225\u0027s Miscellaneous Patches-1068-1-1-17-90-1677830840.zip",
+        "Size": 547766,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Designer225",
+          "Description": "Miscellaneous, mostly personal, quality-of-life improvements and patches to the game.",
+          "FileID": 33436,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/1068/1068-1587971450-1936268068.png",
+          "IsNSFW": false,
+          "ModID": 1068,
+          "Name": "Designer225\u0027s Miscellaneous Patches",
+          "Version": "1.1.17.90"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MysTpjpevik=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=832\nfileID=33292",
+        "Name": "Diplomacy-832-v1-2-5-1677439089.7z",
+        "Size": 824292,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Diplomacy Team",
+          "Description": "A vanilla-friendly mod for the campaign and sandbox modes of Bannerlord. Diplomacy\u0027s goal is to provide balanced, fun, and creative options for characters to have an impact on the world, including both the player and NPCs. Diplomacy creates more believable world behaviors while giving the player the agency to shape their world.",
+          "FileID": 33292,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/832/832-1589613059-1727577122.png",
+          "IsNSFW": false,
+          "ModID": 832,
+          "Name": "Diplomacy",
+          "Version": "v1.2.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nUvip8xigZE=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2190\nfileID=33857",
+        "Name": "DismembermentPlus v2.0.6.2 for v1.1.1 Release-2190-2-0-6-2-1679094622.zip",
+        "Size": 705092210,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TheSchwarz1",
+          "Description": "This mod adds full dismemberment/decapitation to Mount \u0026amp; Blade II: Bannerlord. \n\nIf you have the skill you can remove the enemy\u0027s head, arm, hand, leg or foot. All options are on the table or rather at the edge of your axe, sword or glaive. \n\n\n\nEnjoy, and let the enemies bloodied stumps fall at your feet.",
+          "FileID": 33857,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2190/2190-1626649918-293232214.png",
+          "IsNSFW": false,
+          "ModID": 2190,
+          "Name": "DismembermentPlus",
+          "Version": "2.0.6.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ZuOuU2ZdPps=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2969\nfileID=33854",
+        "Name": "Fourberie (Cunning) 1.1.1-2969-v11-0-4-0-1679092367.zip",
+        "Size": 4569538,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Spinozart1",
+          "Description": "\u0022Fourberie\u0022 is a French word that can be translated in many ways, but the one that would fit the best (for this mod) is \u0022cunning\u0022.\n\nHere you will get access to a large panel of features allowing you to experience new playstyles.\n\nDevelop a rogue character or simply use dirty tactics and schemes to dominate the world of Calradia...",
+          "FileID": 33854,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2969/2969-1665604931-2109545297.jpeg",
+          "IsNSFW": false,
+          "ModID": 2969,
+          "Name": "Fourberie (Cunning)",
+          "Version": "v9.2.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WI7t8LTQ9WE=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2006\nfileID=33791",
+        "Name": "HarmonyX-2006-v2-10-1-150-1678893875.7z",
+        "Size": 726171,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "pardeike",
+          "Description": "A library for patching, replacing and decorating .NET and Mono methods during runtime.\n\n\n\nIntended to ensure that all mods in a player\u0027s modlist are using the latest version of Harmony to minimize conflicts.\n\nWe also added a Debug UI! Available via CTRL\u002BALT\u002BH.",
+          "FileID": 33791,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2006/2006-1596293405-2111806166.png",
+          "IsNSFW": false,
+          "ModID": 2006,
+          "Name": "Harmony",
+          "Version": "v2.2.2.140"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HQem7wKCtfo=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4994\nfileID=32886",
+        "Name": "Kaoses Common-4994-1-1-2-1675381231.7z",
+        "Size": 749960,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Lazeras",
+          "Description": "The mod holds the common code and helpers used in other Kaoses mods",
+          "FileID": 32886,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4994/4994-1673458683-1535515937.png",
+          "IsNSFW": false,
+          "ModID": 4994,
+          "Name": "Kaoses Common",
+          "Version": "1.0.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5VYGP6bawIc=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3769\nfileID=27480",
+        "Name": "More Arenas - No Flooded Arena-3769-4-2-1659388258.rar",
+        "Size": 3652551,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FoozleMcDoozle",
+          "Description": "Adds 10 new arena maps into the game, currently:\n\n3 Empire\n\n1 Sturgia\n\n2 Aserai\n\n1 Battania \n\n2 Vlandia\n\n1 Khuzait\n\nAnd distributes them throughout the map",
+          "FileID": 27480,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3769/3769-1645670898-1578525388.png",
+          "IsNSFW": false,
+          "ModID": 3769,
+          "Name": "More Arenas",
+          "Version": "4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "d/w9TYbYhwc=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4530\nfileID=33673",
+        "Name": "MoreSpouses pro-For v(1.1.0)-4530-e1-1-0-1-1678521524.zip",
+        "Size": 941907,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "suetree _ Ko4evnik",
+          "Description": "Spouse more and more, children more and more",
+          "FileID": 33673,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4530/4530-1665261718-120785973.png",
+          "IsNSFW": false,
+          "ModID": 4530,
+          "Name": "MoreSpouses Pro Fix for e(1.8.0 - 1.9.0) v(1.0.X - 1.1.0)",
+          "Version": "e1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WUIFTcoVFvk=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=792\nfileID=33917",
+        "Name": "PocColor-1.1.4.zip-792-1-1-4-1679336561.zip",
+        "Size": 636115,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Purple",
+          "Description": "This mod allows to set freely the colors, banners and shields of each kingdom, clan or units:  specifically or randomized. You can have the units to wear their very own colors and banners (each of your companions or unit type for instance).",
+          "FileID": 33917,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/792/792-1592418762-1980204918.jpeg",
+          "IsNSFW": false,
+          "ModID": 792,
+          "Name": "POC color randomizer mod",
+          "Version": "1.1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qkFpOi1bzXU=",
+        "Meta": "[General]\ndirectURL=https://github.com/Norbivar/RTSCamera/releases/download/unofficial-release-v4.1.23-for-bannerlord-v1.1.0/RTSCamera.zip",
+        "Name": "RTSCamera.zip",
+        "Size": 465161,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Norbivar/RTSCamera/releases/download/unofficial-release-v4.1.23-for-bannerlord-v1.1.0/RTSCamera.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "f/WRLvxm8vU=",
+        "Meta": "[General]\ndirectURL=https://github.com/Norbivar/RTSCamera/releases/download/unofficial-release-v4.1.23-for-bannerlord-v1.1.0/RTSCamera.CommandSystem.zip",
+        "Name": "RTSCamera.CommandSystem.zip",
+        "Size": 405101,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Norbivar/RTSCamera/releases/download/unofficial-release-v4.1.23-for-bannerlord-v1.1.0/RTSCamera.CommandSystem.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jG9wIPeWH2s=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2102\nfileID=32445",
+        "Name": "UIExtenderEx-2102-v2-6-0-1673693249.7z",
+        "Size": 426426,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BUTR",
+          "Description": "Rewritten fork of UIExtenderLib with the similar goal of enabling multiple mods to alter standard game interface.",
+          "FileID": 32445,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2102/2102-1598280544-51673647.png",
+          "IsNSFW": false,
+          "ModID": 2102,
+          "Name": "UIExtenderEx",
+          "Version": "v2.6.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fdruYRhQRwU=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4277\nfileID=33246",
+        "Name": "Warlords Battlefield-4277-1-0-9-1677225606.rar",
+        "Size": 214188552,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "bossraphael",
+          "Description": "Overhaul of all Calradia factions!!! Includes new clans, 700 new units, 250 new weapons, and extended branch trees for major, minor, and outlaw factions. Version with and without RBM available. Working on 1.0.0-1.1.0",
+          "FileID": 33246,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4277/4277-1659623953-713362761.png",
+          "IsNSFW": false,
+          "ModID": 4277,
+          "Name": "Warlords Battlefield - Bannerlord Branches Overhaul (1.0.0-1.1.0)",
+          "Version": "1.0.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "09ii3z9H+8U=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4630\nfileID=33372",
+        "Name": "Bannerlord.XPTweaks_2.1.0-4630-2-1-0-1677696272.rar",
+        "Size": 53751,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Glewlwyd",
+          "Description": "Adds the ability to tweak experience values, set learning rate and add some more trading xp, as well as increase smithing parts acquisition rate",
+          "FileID": 33372,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4630/4630-1667443450-1593329017.png",
+          "IsNSFW": false,
+          "ModID": 4630,
+          "Name": "XP Tweaks",
+          "Version": "2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "V29iVojyVTs=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3304\nfileID=33587",
+        "Name": "Aggregated Income-3304-v4-2-0-1678208988.zip",
+        "Size": 26711,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "pointfeev",
+          "Description": "Aggregates multiple forms of income on nearly every \u0022Expected Change\u0022 tooltip (Denars, Influence, Militia, Food Stocks, Loyalty, Security, Prosperity, Settlement Tax) with easy support for translation into other languages.",
+          "FileID": 33587,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3304/3304-1667863527-1289770785.png",
+          "IsNSFW": false,
+          "ModID": 3304,
+          "Name": "Aggregated Income",
+          "Version": "v4.1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zH83/CoGefM=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4318\nfileID=33348",
+        "Name": "Better Smithing Continued-4318-1-1-0-8-1677676625.rar",
+        "Size": 149672,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SkaLoLaz",
+          "Description": "A port of the Better Smithing mod to the latest game version. Better Smithing attempts to fix everything wrong with the smithing menus, and also offers configurable quality of life improvements when Forging, including batch Smelting/Refining/Crafting, Automatically adding Tier prefixes to crafted weapons, Saveable weapon design and more.",
+          "FileID": 33348,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4318/4318-1660549253-751274494.jpeg",
+          "IsNSFW": false,
+          "ModID": 4318,
+          "Name": "Better Smithing Continued",
+          "Version": "1.1.0.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DEs2iS0XKd4=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4526\nfileID=33077",
+        "Name": "Governors Handle Issues-4526-1-1-0-1-1676290942.zip",
+        "Size": 574362,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "newpaladinx333",
+          "Description": "Governors of towns and castles will resolve all issues with towns and attached villages.",
+          "FileID": 33077,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4526/4526-1668947493-481538881.png",
+          "IsNSFW": false,
+          "ModID": 4526,
+          "Name": "Governors Handle Issues (Reloaded)",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qk2pclrQ9fo=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2006\nfileID=33214",
+        "Name": "Harmony-2006-2-2-2-145-1676978654.7z",
+        "Size": 540620,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "pardeike",
+          "Description": "A library for patching, replacing and decorating .NET and Mono methods during runtime.\n\n\n\nIntended to ensure that all mods in a player\u0027s modlist are using the latest version of Harmony to minimize conflicts.\n\nWe also added a Debug UI! Available via CTRL\u002BALT\u002BH.",
+          "FileID": 33214,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2006/2006-1596293405-2111806166.png",
+          "IsNSFW": false,
+          "ModID": 2006,
+          "Name": "Harmony",
+          "Version": "v2.2.2.140"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TdMJOiiHoPI=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4633\nfileID=32728",
+        "Name": "Immersive Sergeant-4633-V1-8-1674576819.7z",
+        "Size": 22864,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ShutUpMalfoy",
+          "Description": "This mod that highlights Sergeant\u0027s role for the atmosphere of the battlefield.\n\nThe sergeant of each formation repeat and pass commands. And soldiers yell out when issue a charge order.",
+          "FileID": 32728,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4633/4633-1667499267-1530152011.png",
+          "IsNSFW": false,
+          "ModID": 4633,
+          "Name": "Immersive Sergeant",
+          "Version": "V1.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xJFao/8y51A=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=688\nfileID=33938",
+        "Name": "Improved Garrisons-688-4-1-2-7-1679421889.zip",
+        "Size": 206178,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sidies",
+          "Description": "Customize your fief management with recruiters, advanced troop training with templates, automatic garrison recruitment, a standalone UI, custom parties with orders and more!",
+          "FileID": 33938,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/688/688-1614265902-1304215460.png",
+          "IsNSFW": false,
+          "ModID": 688,
+          "Name": "Improved Garrisons",
+          "Version": "4.1.1.9"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gyvrCSFCdII=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2797\nfileID=33846",
+        "Name": "Surrender Tweaks-2797-1-5-5-1679060476.7z",
+        "Size": 27052,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OrderWOPower",
+          "Description": "Enables surrender for lord parties and settlements, as well as displaying an enemy party/settlement\u0027s chance of surrender",
+          "FileID": 33846,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2797/2797-1617992374-1404121054.png",
+          "IsNSFW": false,
+          "ModID": 2797,
+          "Name": "Surrender Tweaks",
+          "Version": "1.5.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jFxK4JJ9G4s=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=1033\nfileID=33740",
+        "Name": "Useful Companions stable-1033-0-5-1-1678703685.zip",
+        "Size": 65498,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Reasontech",
+          "Description": "Extends usefulness of companions allowing them to earn skill XP and affect various aspect of the game. Caravan leaders, governors and party roles get rewards!",
+          "FileID": 33740,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/1033/1033-1596977819-888537418.jpeg",
+          "IsNSFW": false,
+          "ModID": 1033,
+          "Name": "Useful companions",
+          "Version": "0.4.7"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "V+1q4FWzu5w=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3462\nfileID=33856",
+        "Name": "XorberaxLegacy v1.0.5.2 for v1.1.1Release-3462-1-0-5-2-1679094056.zip",
+        "Size": 938787,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TheSchwarz1",
+          "Description": "This collection provides a working update to some of the great mods originally developed by Xorberax all compiled into a single module.\n\n\n\nThis pack incorporates MCM integration. Granting the abilily to adjust settings while in game. You can also disable any mod in the pack you don\u0027t want to use in the same MCM menu.",
+          "FileID": 33856,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3462/3462-1639154869-316250204.png",
+          "IsNSFW": false,
+          "ModID": 3462,
+          "Name": "Xorberax\u0027s Legacy",
+          "Version": "1.0.5.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Q8AH3chgvJc=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4565\nfileID=31521",
+        "Name": "Pretty Female Companions Presets-4565-1-0-2-1670390315.rar",
+        "Size": 957,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tachyon313",
+          "Description": "Character presets made by myself, will add more. (Use with GT_MegaBodyBB)",
+          "FileID": 31521,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4565/4565-1666220889-820626685.jpeg",
+          "IsNSFW": false,
+          "ModID": 4565,
+          "Name": "Pretty Female Companions Presets",
+          "Version": "1.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gw05d2bXWl8=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4563\nfileID=33819",
+        "Name": "Calradian Banners Improved-4563-1-1-1678969489.rar",
+        "Size": 33729,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Laertex",
+          "Description": "Config.json realized for the \u0022MOD POC COLORS\u0022, Every clan in game keeps his own colors and banner, for add game variety.",
+          "FileID": 33819,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4563/4563-1666207599-1705440175.jpeg",
+          "IsNSFW": false,
+          "ModID": 4563,
+          "Name": "Calradian Banners Improved for Poc Color Randomizer",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OolmeI+FSYA=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4735\nfileID=31101",
+        "Name": "No Safe Mode Prompt-4735-v1-0-2-1669491236.7z",
+        "Size": 3948,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "bm01",
+          "Description": "Disables the safe mode prompt when launching the game, which occurs after the game hasn\u0027t exited normally.",
+          "FileID": 31101,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4735/4735-1668708334-1704627862.png",
+          "IsNSFW": false,
+          "ModID": 4735,
+          "Name": "No Safe Mode Prompt",
+          "Version": "v1.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "O7oyIjHPLW8=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2875\nfileID=33364",
+        "Name": "RoyalArmouryFix for 1.1.0-2875-3-8-0-1677689658.7z",
+        "Size": 144254,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "sebiga",
+          "Description": "The Royal Armoury Mod adds Royal Armouries to each Town\u0027s Keep, offering a selection of culture specific expensive and/or rare items for purchase.",
+          "FileID": 33364,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2875/2875-1618658487-1127344840.jpeg",
+          "IsNSFW": false,
+          "ModID": 2875,
+          "Name": "Royal Armoury FIX",
+          "Version": "3.8.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zfxkSRFYsZk=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4901\nfileID=32597",
+        "Name": "Troop Designer Continued - 1.1.0-4901-1-0-2-1674181807.zip",
+        "Size": 36900,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cawe321",
+          "Description": "The purpose of Troop Designer is to allow modders to design and create troop xmls thanks to a new screen in the main menu.\n\nIt also allows to quickly test troops without having to integrate them in the campaign and recruit them. This version is a rewrite of the original Troop Designer.",
+          "FileID": 32597,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4901/4901-1671372263-718158077.png",
+          "IsNSFW": false,
+          "ModID": 4901,
+          "Name": "Troop Designer Continued",
+          "Version": "1.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UKsTXHS+oZo=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4673\nfileID=33869",
+        "Name": "B.A.R.D. - Bannerlord Armies ReDone - AIO-4673-1-0-1-1-1679139055.rar",
+        "Size": 28353,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FaLKReN",
+          "Description": "This is the All-in-One mod of my popular B.A.R.D. series of troop overhauls. It contains all the 6 major factions in the game.",
+          "FileID": 33869,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4673/4673-1668026537-1232857481.jpeg",
+          "IsNSFW": false,
+          "ModID": 4673,
+          "Name": "B.A.R.D. - Bannerlord Armies ReDone - All-in-One",
+          "Version": "1.0.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pTvldxPx9a8=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=5248\nfileID=33666",
+        "Name": "New Armor - RBM Patch-5248-1-1-1678499584.rar",
+        "Size": 11109,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Maelstrom",
+          "Description": "I liked some of the armors in the \u0022New Armor\u0022 pack by zeroas136977, so I made an attempt to make them flow well alongside Realistic Battle Mod. Details below.",
+          "FileID": 33666,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/5248/5248-1678499107-1851053078.png",
+          "IsNSFW": true,
+          "ModID": 5248,
+          "Name": "New Armor - RBM Patch",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7DKGCUo8hdg=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3303\nfileID=32472",
+        "Name": "Perfect Fire Arrows-3303-V6-0-1673739601.7z",
+        "Size": 14989,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ShutUpMalfoy",
+          "Description": "Fire arrows for night battles. With better visuals.",
+          "FileID": 32472,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3303/3303-1631804111-1707974555.png",
+          "IsNSFW": false,
+          "ModID": 3303,
+          "Name": "Perfect Fire Arrows",
+          "Version": "V6.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jK0OdyajjBA=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3961\nfileID=33475",
+        "Name": "Warbandlord 1.1.0-3961-1-1-0-1-1677929631.zip",
+        "Size": 438970,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "whiteivory",
+          "Description": "A combat mod with a lot configs. Designed with compatibility in mind. Default configs aim to mimic warband combat style.",
+          "FileID": 33475,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3961/3961-1650541823-1412142153.jpeg",
+          "IsNSFW": false,
+          "ModID": 3961,
+          "Name": "Warbandlord",
+          "Version": "1.0.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KQxyXybgC5s=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4713\nfileID=33056",
+        "Name": "Butter Equipped-4713-1-4-0-1676148066.zip",
+        "Size": 44115,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "scorpion",
+          "Description": "Butter Equipped is an equipment manager which automatically compares and upgrades equipment in your inventory, selecting the best option for each slot of equipment. Butter Equipped can also upgrade your entire party, saving time on equipping each companion individually.",
+          "FileID": 33056,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4713/4713-1668418680-1574560612.png",
+          "IsNSFW": false,
+          "ModID": 4713,
+          "Name": "Butter Equipped",
+          "Version": "1.4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9KY/UqQ6pxs=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=5191\nfileID=33663",
+        "Name": "Female Troops Simplified-5191-1-1-0-1678470415.zip",
+        "Size": 59741,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "woodbyte",
+          "Description": "Troops can be of any gender, configurable globally or by culture.",
+          "FileID": 33663,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/5191/5191-1677461755-1288720223.jpeg",
+          "IsNSFW": false,
+          "ModID": 5191,
+          "Name": "Female Troops Simplified",
+          "Version": "1.0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/QdRQ+Wsw8A=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3164\nfileID=33595",
+        "Name": "My Little Warband-3164-1-1-0-1678227261.zip",
+        "Size": 104857,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LL Muse",
+          "Description": "A day 1 fully customizable player unique troop tree",
+          "FileID": 33595,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3164/3164-1669279004-461282356.jpeg",
+          "IsNSFW": false,
+          "ModID": 3164,
+          "Name": "My Little Warband",
+          "Version": "1.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EZ3a60sWSUA=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=968\nfileID=33517",
+        "Name": "Separatism Mod 1.1.0-968-1-1-0-1678028039.zip",
+        "Size": 177576,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SK",
+          "Description": "Makes expansion for everyone a bit harder because clans, national minorities and settlements show their disloyalty in very obvious way raising rebel kingdoms.",
+          "FileID": 33517,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/968/968-1588868312-1394496561.png",
+          "IsNSFW": false,
+          "ModID": 968,
+          "Name": "Separatism",
+          "Version": "1.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Sx7K0Avr1eo=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4838\nfileID=32573",
+        "Name": "YKWYK_1018b.7z-4838-v1-0-18b-1674135936.7z",
+        "Size": 327102,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BrandonM",
+          "Description": "You Keep What You Kill on the battlefield.  Lightweight mod.",
+          "FileID": 32573,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4838/4838-1670263243-621794140.jpeg",
+          "IsNSFW": false,
+          "ModID": 4838,
+          "Name": "You Keep What You Kill",
+          "Version": "v1.0.18b"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ADG+Hi/140o=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2645\nfileID=32647",
+        "Name": "High Sell Price Alert-2645-1-0-8-1674371479.7z",
+        "Size": 8915,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OrderWOPower",
+          "Description": "Alerts the player when in range of a city if they have trade goods with high selling prices",
+          "FileID": 32647,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2645/2645-1611411108-67327903.png",
+          "IsNSFW": false,
+          "ModID": 2645,
+          "Name": "Alert on High Selling Price",
+          "Version": "1.0.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OOzjLaRVtGE=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2188\nfileID=33009",
+        "Name": "Drastic Battle v1.1.0.2-2188-1-1-0-2-1675981999.7z",
+        "Size": 278599,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "will",
+          "Description": "A simple mod improves vanilla battle experience. Changes damage calculating formulas. Zero configuration.",
+          "FileID": 33009,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2188/2188-1600750079-359636174.png",
+          "IsNSFW": false,
+          "ModID": 2188,
+          "Name": "Drastic Battle",
+          "Version": "1.1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mdul+Krn0I8=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2175\nfileID=33374",
+        "Name": "I Dont Care - Campaign Log Filter-2175-2-5-3-1677699290.zip",
+        "Size": 21256,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PajTajster",
+          "Description": "Filter out useless information in Campaign Log.",
+          "FileID": 33374,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2175/2175-1600511794-746727979.png",
+          "IsNSFW": false,
+          "ModID": 2175,
+          "Name": "I Dont Care - Campaign Log Filter",
+          "Version": "2.5.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "p5uadrGKGbg=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3890\nfileID=33403",
+        "Name": "Manhunters Reputation (1.1.0)-3890-1-1-0-1-1677763733.7z",
+        "Size": 41560,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Psycho_Actives",
+          "Description": "Dynamic relational gains with notables! \n\nNew logic \n\nNow with MCMV5",
+          "FileID": 33403,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3890/3890-1677418481-1549073983.jpeg",
+          "IsNSFW": false,
+          "ModID": 3890,
+          "Name": "Manhunters Reputation (1.1.0) UPDATED",
+          "Version": "1.1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YdVJPV/HXQo=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3657\nfileID=33671",
+        "Name": "Olto_Craft (v1.1.0)-3657-1-5-5-1678518357.7z",
+        "Size": 57093,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Oltopeteeh",
+          "Description": "Craft and smelt armor, ranged, shield, banner through menu with well balanced formula. Craft/buy goods.",
+          "FileID": 33671,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3657/3657-1676413638-786847806.png",
+          "IsNSFW": false,
+          "ModID": 3657,
+          "Name": "Olto Craft",
+          "Version": "1.5.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+new9PG5wBE=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2903\nfileID=33360",
+        "Name": "ConfigurableTownGold for 1.1.0-2903-1-4-0-1677688729.7z",
+        "Size": 135062,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "sebiga",
+          "Description": "Configure how much the prosperity rate influences the town\u0027s gold or set a fixed amount to be the target.",
+          "FileID": 33360,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2903/2903-1619345358-88196135.png",
+          "IsNSFW": false,
+          "ModID": 2903,
+          "Name": "Configurable Town Gold",
+          "Version": "1.4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1tqI/JM+l2c=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=684\nfileID=32386",
+        "Name": "Kaoses Party Sizes for game version 1.0.3-684-1-0-0-1673460698.7z",
+        "Size": 782534,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Lazeras",
+          "Description": "Completely rebuild the mod, new methods to affect party sizes and party spawning.  \n\nNew Features\n\nAll new Dynamic bandit multiplier based on elapsed days\n\noptional player caravan size modified by clan size or static, clan parties, AI lords of Player created kingdom and the player\u0027sd party\n\nCalradia Expanded: Kingdoms,\n\nTavern m",
+          "FileID": 32386,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/684/684-1587219298-1904002912.png",
+          "IsNSFW": false,
+          "ModID": 684,
+          "Name": "Kaoses Parties Sizes",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Jtuv/+vDrxA=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4862\nfileID=33871",
+        "Name": "More Companions For My Tavern - 1.1.x-4862-1-1-0-1679144548.zip",
+        "Size": 9030,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cawe321",
+          "Description": "Adds customizable options for more companions to appear in taverns!",
+          "FileID": 33871,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4862/4862-1670665102-2107909827.png",
+          "IsNSFW": false,
+          "ModID": 4862,
+          "Name": "More Companions For My Tavern",
+          "Version": "1.0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ANDj7/BJEZE=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=5192\nfileID=33309",
+        "Name": "CareerExperience-5192-1-1-1677539405.zip",
+        "Size": 3625,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mujadaddy",
+          "Description": "Continue earning XP your whole career! No more red skills!",
+          "FileID": 33309,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/5192/5192-1677538281-577495435.jpeg",
+          "IsNSFW": false,
+          "ModID": 5192,
+          "Name": "Career Experience (XP plus plus)",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Zskj+Up0UHw=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3354\nfileID=33450",
+        "Name": "Carrier-3354-1-5-2-1677871800.zip",
+        "Size": 22940,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Bloc",
+          "Description": "Yet another Banner mod for Bannerlord. It adds banner and torch carriers not by converting your troops into one but by adding separate soldiers. It\u0027s also adding some functionality to banners rather than just leaving them as cosmetic - such as morale impact. Also adding responsive soldier-order relay system.",
+          "FileID": 33450,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3354/3354-1634143333-1180066947.jpeg",
+          "IsNSFW": false,
+          "ModID": 3354,
+          "Name": "Carrier - Banners and Torches",
+          "Version": "1.5.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+L+tP9hZDu0=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=118\nfileID=33809",
+        "Name": "Detailed Character Creation Beta-118-1-5-0-48-1678947198.zip",
+        "Size": 37896039,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PoPoWanObi - Maintained by Designer225",
+          "Description": "Enables detailed character customization options, such as weight, build, and age and the ability to modify NPC appearances!",
+          "FileID": 33809,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/118/118-1586445380-2140132497.jpeg",
+          "IsNSFW": false,
+          "ModID": 118,
+          "Name": "Detailed Character Creation",
+          "Version": "1.4.7.148"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kd7YlLiQiU4=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=1869\nfileID=33916",
+        "Name": "Interesting Companions Standalone for 1.1.0 and up-1869-1-0-3-1679334358.zip",
+        "Size": 42878,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Hero",
+          "Description": "This mod adds 52 unique Wanderers with unique backstories to your M\u0026amp;B Bannerlord.",
+          "FileID": 33916,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/1869/1869-1596540061-279163364.png",
+          "IsNSFW": false,
+          "ModID": 1869,
+          "Name": "Interesting Companions",
+          "Version": "1.0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GyEaRvX8hs0=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3205\nfileID=33898",
+        "Name": "BetterHorses v1.6 (1.1.1)-3205-1-6-1679237531.zip",
+        "Size": 540287,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Shadow32055",
+          "Description": "Make horses better!",
+          "FileID": 33898,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3205/3205-1629473849-1680595573.jpeg",
+          "IsNSFW": false,
+          "ModID": 3205,
+          "Name": "Better Horses",
+          "Version": "1.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "p+BDsSjZCm8=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4861\nfileID=32464",
+        "Name": "More Mercs For My Tavern-4861-1-0-4-1673709220.zip",
+        "Size": 12381,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cawe321",
+          "Description": "Adds an additional option in taverns to hire mercenaries (customizable).",
+          "FileID": 32464,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4861/4861-1670645184-616955215.png",
+          "IsNSFW": false,
+          "ModID": 4861,
+          "Name": "More Mercenaries For My Tavern",
+          "Version": "1.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eq6XyZMAS8Y=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4618\nfileID=33825",
+        "Name": "Pacemaker Updated-4618-1-1-0-0-1678981803.7z",
+        "Size": 749150,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "zijistark",
+          "Description": "Pacemaker can speed (or slow) the progression of campaign time through multiple powerful methods which may be freely mixed to your tastes. It was designed to help promote dynastic simulation mechanics (aging, dying, succession, etc.). It also auto-calibrates a number of mechanics to your settings to maintain vanilla gameplay pacing.",
+          "FileID": 33825,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4618/4618-1667263403-1142947687.png",
+          "IsNSFW": false,
+          "ModID": 4618,
+          "Name": "Pacemaker Updated",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "NosAvHkVkOc=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4367\nfileID=33847",
+        "Name": "Realistic Weather-4367-1-2-4-1679060958.7z",
+        "Size": 26926121,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OrderWOPower",
+          "Description": "Adds rain/snow, fog and dust storms which affect movement speed, projectile speed, projectile accuracy and morale",
+          "FileID": 33847,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4367/4367-1661532722-652270775.png",
+          "IsNSFW": false,
+          "ModID": 4367,
+          "Name": "Realistic Weather",
+          "Version": "1.2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mfIG7TkVcmE=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=5261\nfileID=33743",
+        "Name": "Battle Mini Map - 1.1.x-5261-1-2-0-1678715786.zip",
+        "Size": 80393,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LiZhenhuan1019 and Lkoinw - Updated by AxelCawe",
+          "Description": "(Updated to v1.1.1) Another minimap mod. Show units position and display terrain heights in different color.\n\nPress M or hold alt key to toggle the map.",
+          "FileID": 33743,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/5261/5261-1678715645-1917809239.png",
+          "IsNSFW": false,
+          "ModID": 5261,
+          "Name": "Battle Mini Map 1.1.x",
+          "Version": "1.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LwETc3yJrdM=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4684\nfileID=30655",
+        "Name": "Prepare For Glory 3.0-4684-3-0-1668711595.zip",
+        "Size": 189838326,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nexus Lex",
+          "Description": "This a tweak to Spartan20010928\u0027s mod \u0022Spartan weapon and Armor\u0022 that to follow Bannerlord\u0027s equipments\u0027 nomenclature and it presents a troop tree partly inspired by the Total War series.",
+          "FileID": 30655,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4684/4684-1668140685-1449624522.jpeg",
+          "IsNSFW": false,
+          "ModID": 4684,
+          "Name": "Prepare For Glory",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8+vnvxn6HSI=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=1591\nfileID=32876",
+        "Name": "Blood Mod 2.1-1591-2-1-1675334609.zip",
+        "Size": 8007,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "thenewking1",
+          "Description": "Blood Mod more blood and gore, blood stays for ever.",
+          "FileID": 32876,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/1591/1591-1590486108-957516366.jpeg",
+          "IsNSFW": false,
+          "ModID": 1591,
+          "Name": "BloodMod - More Blood and Gore",
+          "Version": "2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3/DcGMXfT+M=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=1410\nfileID=33692",
+        "Name": "Random Events-1410-1-1-1-1678600149.zip",
+        "Size": 300677,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Phill544",
+          "Description": "Introduce random events to your campaign! These may help or hinder your hero with many different scenarios and will occur periodically throughout the game. Hope you\u2019re feeling lucky!",
+          "FileID": 33692,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/1410/1410-1670795432-1219733554.jpeg",
+          "IsNSFW": false,
+          "ModID": 1410,
+          "Name": "Random Events",
+          "Version": "1.0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RE6Uyg3fWBs=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=1839\nfileID=33714",
+        "Name": "BannerlordCheats v3.0.1 (for Release v1.1.1 and MCM v5)-1839-3-0-1-1678644200.zip",
+        "Size": 67579,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NicoWaves",
+          "Description": "This mod adds 50\u002B cheats to the game - all configurable in an in-game menu - allowing you to modify the game difficulty to your liking and skipping grindy parts of the game.",
+          "FileID": 33714,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/1839/1839-1666961654-770881648.png",
+          "IsNSFW": false,
+          "ModID": 1839,
+          "Name": "Bannerlord Cheats",
+          "Version": "3.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "92Z1cOIIXZg=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3188\nfileID=33873",
+        "Name": "BetterCombat v2.8 (1.1.1)-3188-2-8-1679150898.zip",
+        "Size": 551184,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Shadow32055",
+          "Description": "Various ways to improve combat, all customizable!",
+          "FileID": 33873,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3188/3188-1633700774-986675190.jpeg",
+          "IsNSFW": false,
+          "ModID": 3188,
+          "Name": "Better Combat",
+          "Version": "2.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hYNyWU8a+Rk=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=5076\nfileID=33682",
+        "Name": "BETA_More Prisoner Interactions - v1.1.x-5076-1-1-1-1678552580.zip",
+        "Size": 27288,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cawe321",
+          "Description": "Adds multiple interactions with prisoner heroes to spice up your play-through and improve immersion.",
+          "FileID": 33682,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/5076/5076-1675318237-2111894219.jpeg",
+          "IsNSFW": true,
+          "ModID": 5076,
+          "Name": "More Prisoner Interactions",
+          "Version": "1.0.0c"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0LAZAuJgyk8=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=1203\nfileID=33518",
+        "Name": "Telepathy Mod 1.1.0-1203-1-1-0-1678028162.zip",
+        "Size": 284043,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SK",
+          "Description": "Talk to any hero from encyclopedia.",
+          "FileID": 33518,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/1203/1203-1588362209-1458255174.png",
+          "IsNSFW": false,
+          "ModID": 1203,
+          "Name": "Telepathy",
+          "Version": "1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zIfH+xKFTIc=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3234\nfileID=33937",
+        "Name": "BetterHUD v1.8 (1.1.1)-3234-1-8-1679411786.zip",
+        "Size": 541223,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Shadow32055",
+          "Description": "Improves the vanilla HUD.",
+          "FileID": 33937,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3234/3234-1636153829-82850047.png",
+          "IsNSFW": false,
+          "ModID": 3234,
+          "Name": "Better HUD",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Kz02DalMfFM=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2829\nfileID=33471",
+        "Name": "Open Source Saddlery FOR v.1.0.2 RELEASE-2829-1-3-0-1677928961.zip",
+        "Size": 384415287,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Open Source Armory Team",
+          "Description": "The #1 stop for all your custom armor needs!\n\nCombines existing popular armor mods.\n\nAdds 1,500\u002B new custom armors!\n\nAdds 63 new shields and 104 weapons!\n\nCompatible with 1.0.1 and later versions.\n\nLargest custom armor pack so far!",
+          "FileID": 33471,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2829/2829-1617496275-1802058535.png",
+          "IsNSFW": false,
+          "ModID": 2829,
+          "Name": "Open Source Armory",
+          "Version": "1.13.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VDlgvrT9yT4=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2620\nfileID=33398",
+        "Name": "Adonnay\u0027s Exotic Weaponry-2620-2-3-5-1677742994.7z",
+        "Size": 124893877,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Adonnay",
+          "Description": "Adds a couple of unique weapons to the game. \n\n\n\nThe weapons can either be crafted or won at tournaments.",
+          "FileID": 33398,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2620/2620-1610742618-1597168489.png",
+          "IsNSFW": false,
+          "ModID": 2620,
+          "Name": "AEW - Adonnay\u0027s Exotic Weaponry",
+          "Version": "2.3.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RTlXZMDMqxc=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4670\nfileID=30083",
+        "Name": "Remove underware-4670-1-0-0-1667976230.rar",
+        "Size": 13793,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tachyon313",
+          "Description": "This mod only changes face and body texture for all females.\n\nConsider this mod as an alternative version of GT_Megabodybb, I made this for personal use and to make Calradian female look better; for other info see the detail below.",
+          "FileID": 30083,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4670/4670-1667977947-462560573.jpeg",
+          "IsNSFW": false,
+          "ModID": 4670,
+          "Name": "Face texture overhaul (Based on GT_MegaBodybb. MC Amazon body Compatible.)",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yzIQ5OLiNkc=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4512\nfileID=32885",
+        "Name": "RBM Patch for 1.0.3 v3-4512-1-0-1675363564.rar",
+        "Size": 1809,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nemerius",
+          "Description": "Adds 3 new plate armors and 3 new helmets! 16 armors in total. Compatible with 1.8.x version",
+          "FileID": 32885,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4512/4512-1664715902-1491151139.png",
+          "IsNSFW": false,
+          "ModID": 4512,
+          "Name": "Bahamut\u0027s Armory",
+          "Version": "4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qmwlg2GBzi8=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=411\nfileID=33530",
+        "Name": "CustomSpawns - For Bannerlord v1.1.0-411-1-9-4-1678052369.7z",
+        "Size": 359635,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CustomSpawns Development Team",
+          "Description": "One of the largest vanilla expansion mods and tools. 21\u002B new factions, custom C# systems such as spawning, AI, dialogue, rewards, diplomacy, and more! Hundreds of new units, campaign spawns, troop trees, campaign events, etc. Modular enough to act as an API for other mods, allowing for easy XML modding that is not possible with the base game.",
+          "FileID": 33530,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/411/411-1603870477-739125117.png",
+          "IsNSFW": false,
+          "ModID": 411,
+          "Name": "Calradia at War (Custom Spawns)",
+          "Version": "1.9.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KrWvuRqZCdI=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2221\nfileID=23812",
+        "Name": "Reign of Sword - Realistic Battle Mod patch-2221-1-3-1642792343.zip",
+        "Size": 2691,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Daedalus",
+          "Description": "This mod adds some new sharp tools of mass destruction.",
+          "FileID": 23812,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2221/2221-1601804075-1962194451.png",
+          "IsNSFW": false,
+          "ModID": 2221,
+          "Name": "Reign of Sword - new weapons pack",
+          "Version": "1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "aqHG8W8zakI=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2911\nfileID=32823",
+        "Name": "Kaoses Tweaks Beta-2911-1-0-7-1674967175.7z",
+        "Size": 165983,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kaoses",
+          "Description": "A collection of tweaks that aims to allow the player to configure Bannerlords to their own liking, options are configured via MCM menu. Most of the tweaks can be enabled or disabled individually.",
+          "FileID": 32823,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2911/2911-1619596220-673549728.jpeg",
+          "IsNSFW": false,
+          "ModID": 2911,
+          "Name": "Kaoses tweaks",
+          "Version": "1.0.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "befy1lX86BQ=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=5059\nfileID=32951",
+        "Name": "Artems Lively Animations 1.1.1-5059-1-1-1-1675680281.rar",
+        "Size": 51295,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Artem",
+          "Description": "This mod replaces a variety of player animations.",
+          "FileID": 32951,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/5059/5059-1674746352-1717385943.jpeg",
+          "IsNSFW": false,
+          "ModID": 5059,
+          "Name": "Artems Lively Animations",
+          "Version": "1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "k/xOdhpNUp8=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4953\nfileID=33547",
+        "Name": "Companion Spawn Error Patch - v1.1.0-4953-1-1-0-1678104423.zip",
+        "Size": 3178,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cawe321",
+          "Description": "This mod is a patch for my companion spawning mods. Does nothing on its own.",
+          "FileID": 33547,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4953/4953-1672656727-1863674958.png",
+          "IsNSFW": false,
+          "ModID": 4953,
+          "Name": "Companion Spawn Error Patch",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HFTymXGkr88=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2717\nfileID=33451",
+        "Name": "Settlement Icons - Redesign-2717-1-1-0-1677877564.zip",
+        "Size": 385738,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Bloc",
+          "Description": "A simple mod that changes the look of the settlement names. Adds relationship indicator as well as unique color to each faction.",
+          "FileID": 33451,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2717/2717-1613095498-1540736661.jpeg",
+          "IsNSFW": false,
+          "ModID": 2717,
+          "Name": "Settlement Icons - Redesign",
+          "Version": "1.0.7"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "d7J9OHyWK/Y=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=5112\nfileID=32985",
+        "Name": "Realistic Battle Mod (RBM) Damage Value Tweaks-5112-1-0-3--1675871329.7z",
+        "Size": 1075,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SlaveToTheGames",
+          "Description": "Damage value changes for all the weapon types for use with Realistic Battle Mod (RBM). I didn\u0027t like how in vanilla armor didn\u0027t matter, and in RBM you (Or AI) were a walking tank. I loved everything else about their mod. Even the concept of armor mattering more.I just feel base RBM damage values were not fun but instead tedious personally.",
+          "FileID": 32985,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/5112/5112-1675871457-1899417608.jpeg",
+          "IsNSFW": false,
+          "ModID": 5112,
+          "Name": "Realistic Battle Mod (RBM) Damage Value Tweaks",
+          "Version": "1.0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YkpuF10E9bw=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3128\nfileID=33037",
+        "Name": "Better Save and Load-3128-1-1-5-1676092162.7z",
+        "Size": 12938,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OrderWOPower",
+          "Description": "Adds functionality for quick loading and incremental quick saving, as well as auto saving before and after battles",
+          "FileID": 33037,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3128/3128-1628438747-1427051683.png",
+          "IsNSFW": false,
+          "ModID": 3128,
+          "Name": "Better Save and Load",
+          "Version": "1.1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "z6Y0/b/2TPs=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4896\nfileID=33507",
+        "Name": "Useful Skips-4896-1-0-2-1678008887.7z",
+        "Size": 8719,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OrderWOPower",
+          "Description": "Adds options to skip the splash screen, campaign intro, character creation and tutorial",
+          "FileID": 33507,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4896/4896-1671290122-1119623842.png",
+          "IsNSFW": false,
+          "ModID": 4896,
+          "Name": "Useful Skips",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "y7sY3qdXiQo=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3674\nfileID=30964",
+        "Name": "Bastard Children - Hot Butter-3674-HotButterCompatibility-1669216041.zip",
+        "Size": 4251,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Windwhistle",
+          "Description": "Allows the player (AND NOW OTHER AI!) to have bastard children with ANY other hero (YES! Wanderers and notables in towns/villages as well!) in the game through dialog choice!",
+          "FileID": 30964,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3674/3674-1643305806-326747221.png",
+          "IsNSFW": true,
+          "ModID": 3674,
+          "Name": "Bastard Children",
+          "Version": "V6.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fn1RSTi2bS8=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=5081\nfileID=32887",
+        "Name": "KaosesTweaks-BannerKings-5081-1-0-0-1675381781.7z",
+        "Size": 171087,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lazeras",
+          "Description": "Kaoses Tweaks mod coded for use with Bannerkings",
+          "FileID": 32887,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/5081/5081-1675381616-1656940911.jpeg",
+          "IsNSFW": false,
+          "ModID": 5081,
+          "Name": "Kaoses Tweaks for BannerKings",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fmcJQ/b7wks=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4516\nfileID=33593",
+        "Name": "NeatedsNPCsUpgradeEquipment-For v(1.1.0)-4516-e1-1-0-0-1678218080.zip",
+        "Size": 13382,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Neated _ irulannaba _ Ko4evnik",
+          "Description": "An updated version of the awesome mod Neated\u0027s NPC upgrade equipment that has outdated MCM. NPC lords and companions leading their own party will now automatically look for and purchase/equip better versions of gear when they enter a city.",
+          "FileID": 33593,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4516/4516-1664913791-878245502.png",
+          "IsNSFW": false,
+          "ModID": 4516,
+          "Name": "Neated\u0027s NPC Upgrade Equipment Fix for e(1.8.0 - 1.9.0) v(1.0.X)",
+          "Version": "e1.0.0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KgfMIwcQto0=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4205\nfileID=28890",
+        "Name": "T7TroopUnlocker for 1.9.0-4205-1-0-1-1665759616.zip",
+        "Size": 3940,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zoloc",
+          "Description": "A mod that unlock Tier 7 Troops options, visuals and information. THIS MOD DOES NOT IMPLEMENT NEW TIER 7 TROOPS.\n\nIf you don\u0027t have mod that add T7 troops, this mod alone is useless. \n\n14/10/2022 : 1.9.0 release is out, choose the version that meet your game version!",
+          "FileID": 28890,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4205/4205-1657639958-735883423.png",
+          "IsNSFW": false,
+          "ModID": 4205,
+          "Name": "Tier 7 Troop Unlocker",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xE7Drt2XV9Q=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=135\nfileID=33469",
+        "Name": "AutoTrader_1.1.0-135-1-1-0-1677922006.zip",
+        "Size": 32885,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Eskalior",
+          "Description": "This mod allows you to buy and sell items automatically. It is highly configurable to meet your playstyle. You decide if it manages the trades for you or just sells your loot.",
+          "FileID": 33469,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/135/135-1606753859-1888625315.gif",
+          "IsNSFW": false,
+          "ModID": 135,
+          "Name": "Bannerlord AutoTrader",
+          "Version": "1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "87/7Qkkhxik=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3433\nfileID=33861",
+        "Name": "BetterSkills v1.1 (1.1.1)-3433-1-1-1679115270.zip",
+        "Size": 562981,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Shadow32055",
+          "Description": "Customize all bonuses from skills.",
+          "FileID": 33861,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3433/3433-1636599871-1315438607.png",
+          "IsNSFW": false,
+          "ModID": 3433,
+          "Name": "Better Skills",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yHhHGbT0kd4=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=5116\nfileID=32999",
+        "Name": "Godherja Agionist Order helmet RBM Patch-5116-1-1675958909.7z",
+        "Size": 959,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Essence",
+          "Description": "Another RBM patch i made for the Godherja helmets made by ADamnSexyName",
+          "FileID": 32999,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/5116/5116-1675958491-388749172.jpeg",
+          "IsNSFW": false,
+          "ModID": 5116,
+          "Name": "Godherja Agionist Order helmet (RBM Patch)",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PSbpqVWA5vg=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=5249\nfileID=33778",
+        "Name": "Small Talk-5249-1-0-1-1678865251.7z",
+        "Size": 36423,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "conleyc86",
+          "Description": "Like roleplaying? Wish there was a way to boast to your friends, compliment strangers and flirt with the lasses? Now you can! Develop relationships by making... small talk!",
+          "FileID": 33778,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/5249/5249-1678528371-1971409673.jpeg",
+          "IsNSFW": false,
+          "ModID": 5249,
+          "Name": "Small Talk",
+          "Version": "beta"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "J9XQL5tSzOw=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3574\nfileID=33284",
+        "Name": "Swadian Armoury RBM Patch (Balanced)-3574-5-0-1677397457.zip",
+        "Size": 4069,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaGiC48x",
+          "Description": "This is a Realistic Battle Mod patch for the current version of Swadian Armoury. (Version 1.0.3)\n\n\n\nWorking on game version 1.0.3. Should also work for any previous versions supported by Swadian Armoury.\n\n\n\nTHIS IS A FILE REPLACEMENT. You MUST download and install Swadian Armoury before this patch.",
+          "FileID": 33284,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3574/3574-1641356397-1688622196.png",
+          "IsNSFW": false,
+          "ModID": 3574,
+          "Name": "Swadian Armoury Realistic Battle Mod Patch",
+          "Version": "5.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dWPrsplTblQ=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4539\nfileID=33443",
+        "Name": "Today we Feast Updated 1.1.0-4539-1-1-0-0-1677858392.7z",
+        "Size": 37280,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jtlane16",
+          "Description": "This mod adds feast to the game where lords will gather and gain relation. Something else to do besides war!",
+          "FileID": 33443,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4539/4539-1665518171-546948388.png",
+          "IsNSFW": false,
+          "ModID": 4539,
+          "Name": "Today we Feast Updated",
+          "Version": "1.1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tWfGrcvN1z8=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4109\nfileID=33844",
+        "Name": "KingdomDestruction V1.6 (v1.1.1) (try 2)-4109-V1-6-1679050515.zip",
+        "Size": 9372,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Windwhistle",
+          "Description": "Adds a feature that destroys kingdoms without vassals (vassals check can be turned off) and fiefs. The ruler clan can then be asked to join YOUR kingdom after theirs is destroyed.",
+          "FileID": 33844,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4109/4109-1655463554-1242796641.png",
+          "IsNSFW": false,
+          "ModID": 4109,
+          "Name": "Kingdom Destruction",
+          "Version": "V1.5-1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "y+bSlGnRj1E=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2849\nfileID=32644",
+        "Name": "Better Time-2849-1-2-8-1674370827.7z",
+        "Size": 13877,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Shemiroth",
+          "Description": "Better Time updated to be compatible with the UI code in Bannerlord 1.5.9 and newer",
+          "FileID": 32644,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2849/2849-1617988968-527256298.png",
+          "IsNSFW": false,
+          "ModID": 2849,
+          "Name": "Better Time (latest build)",
+          "Version": "1.2.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CEyELRcsAKM=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3260\nfileID=33551",
+        "Name": "PerfectExecutioner 1.1.0.12734-3260-1-1-0-12734-1678114147.zip",
+        "Size": 12919,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kor_Wind",
+          "Description": "This mod allows AI to execute each other.",
+          "FileID": 33551,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3260/3260-1642681271-724312926.png",
+          "IsNSFW": false,
+          "ModID": 3260,
+          "Name": "Perfect Executioner (1.0.0 official Support)",
+          "Version": "1.0.2.8368"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WHeEIRjmcIc=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=2620\nfileID=30888",
+        "Name": "Adonnay\u0027s Exotic Weaponry - RBM Patch-2620-1-0-1-1669051128.7z",
+        "Size": 1878,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Adonnay",
+          "Description": "Adds a couple of unique weapons to the game. \n\n\n\nThe weapons can either be crafted or won at tournaments.",
+          "FileID": 30888,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/2620/2620-1610742618-1597168489.png",
+          "IsNSFW": false,
+          "ModID": 2620,
+          "Name": "AEW - Adonnay\u0027s Exotic Weaponry",
+          "Version": "2.3.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ktZ7Od9qE6o=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4779\nfileID=30960",
+        "Name": "Bandit Armor Edit for RBM-4779-1-0-1-1669194863.7z",
+        "Size": 978,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Syndri_107",
+          "Description": "A simple patch to make rahman530\u0027s Bandit Armors functional with Realistic Battle Mod, for those who enjoy bare skin armor bonuses without the downsides of bare skin armor :p",
+          "FileID": 30960,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4779/4779-1669194469-1709785403.png",
+          "IsNSFW": true,
+          "ModID": 4779,
+          "Name": "Bandit Armors - RBM Compatibility Patch",
+          "Version": "1.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "q0Bd0eBh5wc=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=3041\nfileID=33308",
+        "Name": "Bandit Variety Version 1.0.3-3041-1-10-1677535445.rar",
+        "Size": 21732,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SwordCoast247",
+          "Description": "Tired of fighting only looters? Wanting to try to make a decent bandit army? This mod might be just for you. This mod adds in 12 new troop trees; one male and one female for each bandit type. Each new troop tree upgrades into tier 6 units of my own creation. Is it balanced? Who knows! I\u0027m still testing it out myself!",
+          "FileID": 33308,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/3041/3041-1623614226-2115078289.jpeg",
+          "IsNSFW": false,
+          "ModID": 3041,
+          "Name": "Bandit Variety",
+          "Version": "1.10"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "L9b11lgtUsQ=",
+        "Meta": "[General]\ngameName=mountandblade2bannerlord\nmodID=4116\nfileID=33285",
+        "Name": "Vaegir Armoury RBM Patch-4116-2-0-1677398413.zip",
+        "Size": 1383,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaGiC48x",
+          "Description": "This is a Realistic Battle Mod patch for the current version of Vaegir Armoury. (v1.8)\n\n\n\nShould work for any game versions supported by Vaegir Armoury.\n\n\n\nNo Assets contained in this file. You must download Vaegir Armoury before installing this patch.",
+          "FileID": 33285,
+          "GameName": "MountAndBlade2Bannerlord",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3174/images/4116/4116-1655594434-441409798.png",
+          "IsNSFW": false,
+          "ModID": 4116,
+          "Name": "Vaegir Armoury RBM Patch",
+          "Version": "2.0"
+        }
+      }
+    }
+  ],
+  "Status": "Available",
   "Failures": 0,
-  "SmallImage": null,
-  "LargeImage": null
+  "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Calradia/78145f9d145292cb_small.webp",
+  "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Calradia/78145f9d145292cb_large.webp"
 }
