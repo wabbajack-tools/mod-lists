@@ -1,10 +1,11 @@
 ## Validation Report - The Badlands (Modding-Lounge/The-Badlands)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [TTW_3.3.2_Hotfix.zip](https://cdn.discordapp.com/attachments/267355049666019329/1003041304252534814/TTW_3.3.2_Hotfix.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (341)
+### Valid (340)
 *  [00 - ESP fix-62744-2-1-1593996256.7z](https://www.nexusmods.com/newvegas/mods/62744/?tab=files&file_id=1000063475)
 *  [00 - Natural Eyes - Shadow-62811-1-2-1607109333.7z](https://www.nexusmods.com/newvegas/mods/62811/?tab=files&file_id=1000068292)
 *  [01 - Improved Male Body - FOMOD Installer-70160-1-4-1644720615.7z](https://www.nexusmods.com/newvegas/mods/70160/?tab=files&file_id=1000087623)
@@ -318,7 +319,6 @@
 *  [TTW DC Flora Overhaul Dead Edition-71839-1-7-1670181211.zip](https://www.nexusmods.com/newvegas/mods/71839/?tab=files&file_id=1000101911)
 *  [TTW Hardcore Zeta - TTW Patch-77945-1-0-1660654089.7z](https://www.nexusmods.com/newvegas/mods/77945/?tab=files&file_id=1000097693)
 *  [TTW Reputations-68604-1-4-1657361262.7z](https://www.nexusmods.com/newvegas/mods/68604/?tab=files&file_id=1000095629)
-*  [TTW_3.3.2_Hotfix.zip](https://cdn.discordapp.com/attachments/267355049666019329/1003041304252534814/TTW_3.3.2_Hotfix.zip)
 *  [TTW's Hunting Rifle and .32 Rifle Textures-69837-1-0-1599238845.rar](https://www.nexusmods.com/newvegas/mods/69837/?tab=files&file_id=1000065332)
 *  [TTWQuickStart-65937-1-4-1649387995.7z](https://www.nexusmods.com/newvegas/mods/65937/?tab=files&file_id=1000090652)
 *  [TTWSawyerBatty-75598-1-14-1674069028.7z](https://www.nexusmods.com/newvegas/mods/75598/?tab=files&file_id=1000103751)
