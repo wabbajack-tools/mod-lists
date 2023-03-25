@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (941)
+### Valid (940)
 *  [.45 Auto Pistol Ha_ru anims-21142-1-2-1.zip](https://www.nexusmods.com/fallout4/mods/21142/?tab=files&file_id=87199)
 *  [(Main Version) Ultimate Window Overhaul Redone-43458-4-0-1655918840.rar](https://www.nexusmods.com/fallout4/mods/43458/?tab=files&file_id=241300)
 *  [0004. Helmet Toggle-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108856)
@@ -332,7 +332,6 @@
 *  [Factory Add On - Main File-42731-1-5-1587151072.zip](https://www.nexusmods.com/fallout4/mods/42731/?tab=files&file_id=179624)
 *  [Fallout 4 Ataralyxius' Companion Face Revamp V4.0a-6555-V4-0a.rar](https://www.nexusmods.com/fallout4/mods/6555/?tab=files&file_id=85137)
 *  [Fallout 4 HD Reworked Project Revised - Loose Files-15945-1-0.rar](https://www.nexusmods.com/fallout4/mods/15945/?tab=files&file_id=63707)
-*  [Fallout 4 Main Menu Theme Music Replacer- Violin cover-7522-.rar](https://www.nexusmods.com/fallout4/mods/7522/?tab=files&file_id=27161)
 *  [Fallout 4 Particle Patch-68599-1-1-1677394454.rar](https://www.nexusmods.com/fallout4/mods/68599/?tab=files&file_id=268624)
 *  Fallout4_Default.ini
 *  Fallout4_Fallout4Prefs.ini
