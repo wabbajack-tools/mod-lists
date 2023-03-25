@@ -54,7 +54,7 @@
 *  [ENB Helper Plus-62743-1-0-4-1667140855.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62743/?tab=files&file_id=327653)
 *  [ENB Helper SE 2.2 for 1.6.629 and up-23174-2-2-0-1665131787.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23174/?tab=files&file_id=322175)
 *  [ENB Input Disabler-62796-1-0-3-1665895548.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62796/?tab=files&file_id=324425)
-*  [ENB SSE v0488 - 25Feb23.zip](https://authored-files.wabbajack.org/ENB SSE v0488 - 25Feb23.zip_e8468454-e178-47d4-a52e-c3aef0b4adae/)
+*  [ENB_SSE_V0488_220323.zip](https://authored-files.wabbajack.org/ENB_SSE_V0488_220323.zip_d3a334b8-fe2e-4d3b-90e0-2dd09f96fd88/)
 *  [Encounter Zones Unlocked AE-19608-1-5-4-1663528547.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19608/?tab=files&file_id=317381)
 *  [Equip Enchantment Fix for 1.6.629 and newer-42839-1-3-6-1664893446.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42839/?tab=files&file_id=321588)
 *  [Essential Favorites-42997-2-3-0-1665514521.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42997/?tab=files&file_id=323363)
