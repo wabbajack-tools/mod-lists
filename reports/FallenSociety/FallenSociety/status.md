@@ -115,7 +115,7 @@
 *  [CaptiveTattoos3.1.7z](https://www.loverslab.com/files/file/10004-captive-tattoos-looksmenu-overlays-facial-tattoos-males-females/)
 *  [Cattle troughs-11998-2.7z](https://www.nexusmods.com/fallout4/mods/11998/?tab=files&file_id=52269)
 *  [CBBE 3D Labia-69335-1-0-1677896411.rar](https://www.nexusmods.com/fallout4/mods/69335/?tab=files&file_id=269233)
-*  [CBBE Bodygen Files.zip](https://authored-files.wabbajack.org/CBBE Bodygen Files.zip_fbd6c1c3-8ffc-42ce-9da7-ca0ce98464e9)
+*  [CBBE Bodygen Files.zip](https://authored-files.wabbajack.org/CBBE Bodygen Files.zip_423cd995-0794-45dd-bf6e-b637e5975aaf)
 *  [CBBE for Lola's Dress by Oussebon-8704-1.zip](https://www.nexusmods.com/fallout4/mods/8704/?tab=files&file_id=69935)
 *  [Cheat Terminal v1.69-13285-1-69-1621205500.rar](https://www.nexusmods.com/fallout4/mods/13285/?tab=files&file_id=208078)
 *  [Cinematic Sounds - Explosions - 1.01-6647-1-01.zip](https://www.nexusmods.com/fallout4/mods/6647/?tab=files&file_id=28040)
