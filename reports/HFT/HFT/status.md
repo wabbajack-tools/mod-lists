@@ -1,11 +1,10 @@
 ## Validation Report - Happy Fun Times (HFT/HFT)
 
 
-### Invalid (1)
-*  [Temple Guardian [SE] - CBBE.7z](https://www.mediafire.com/file/e65mat3hb6f6s5l/Temple_Guardian_%255BSE%255D_-_CBBE_%2528P%2529.7z/file)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1983)
+### Valid (1984)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [-BO- One Body Alpha-82943-1-03-1674079833.rar](https://www.nexusmods.com/skyrimspecialedition/mods/82943/?tab=files&file_id=350859)
 *  [-BO- One Body Soft-82943-1-01-1674079878.rar](https://www.nexusmods.com/skyrimspecialedition/mods/82943/?tab=files&file_id=350860)
@@ -1735,6 +1734,7 @@
 *  [Tel Mithryn LODs 512-35437-1-0-1588290419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35437/?tab=files&file_id=137255)
 *  [Tembtra Thief-4292-2-01-1556250882.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4292/?tab=files&file_id=89726)
 *  [Tempered Skins for Females CBBE-8505-1-32-1604152171.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8505/?tab=files&file_id=167956)
+*  [Temple Guardian [SE] - CBBE.7z](https://www.mediafire.com/file/e65mat3hb6f6s5l/Temple_Guardian_%255BSE%255D_-_CBBE_%2528P%2529.7z/file)
 *  [Temple Of Agmer -AE-43621-1-01-1641713885.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43621/?tab=files&file_id=255249)
 *  [Temple of Kyne - Roots of Madness 1 1 1-57275-1-1-1-1672776888.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57275/?tab=files&file_id=346404)
 *  [Terrain Parallax 1.5 - 4K2K-54860-1-5-1670317926.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54860/?tab=files&file_id=338096)
