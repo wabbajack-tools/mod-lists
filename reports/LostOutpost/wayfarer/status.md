@@ -1,15 +1,14 @@
 ## Validation Report - Wayfarer (LostOutpost/wayfarer)
 
 
-### Invalid (1)
-*  [Vanilla_UI_Plus_New_Vegas_947.7z](https://www.moddb.com/downloads/mirror/128019/122/457892861b5891d4cbbb0ef58c91e27e)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (613)
+### Valid (614)
 *  [1. Consistent Pip-boy Icons-65046-4-4-1659349331.7z](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000096843)
 *  [2. Consistent Addon Icons-65046-4-2-1652355224.zip](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000092397)
 *  [360 Movement-71940-1-2-1619527056.zip](https://www.nexusmods.com/newvegas/mods/71940/?tab=files&file_id=1000075421)
-*  [3D Rain 1.4-79652-1-4-1674015834.zip](https://www.nexusmods.com/newvegas/mods/79652/?tab=files&file_id=1000103716)
+*  [3D Rain-79652-2-0-1678679955.zip](https://www.nexusmods.com/newvegas/mods/79652/?tab=files&file_id=1000106367)
 *  [3rd Person Camera Overhaul-79883-2-3-1676826727.7z](https://www.nexusmods.com/newvegas/mods/79883/?tab=files&file_id=1000105237)
 *  [4GB Patcher-62552-1-5-1618787921.7z](https://www.nexusmods.com/newvegas/mods/62552/?tab=files&file_id=1000075100)
 *  [A Little More Lamplight-69226-1-2-1594706760.zip](https://www.nexusmods.com/newvegas/mods/69226/?tab=files&file_id=1000063736)
@@ -345,7 +344,7 @@
 *  Data_Video_FNVIntro.bik
 *  [Delay DLC Redux-75851-1-5-1658971738.rar](https://www.nexusmods.com/newvegas/mods/75851/?tab=files&file_id=1000096621)
 *  [Desert Natural Weathers NV-75437-6-2-5-1674932222.7z](https://www.nexusmods.com/newvegas/mods/75437/?tab=files&file_id=1000104188)
-*  [Desert Style Weathers-80235-1-1-1677888132.7z](https://www.nexusmods.com/newvegas/mods/80235/?tab=files&file_id=1000105854)
+*  [Desert Style Weathers-80235-1-2-1679175145.7z](https://www.nexusmods.com/newvegas/mods/80235/?tab=files&file_id=1000106594)
 *  [Diagonal Movement 0.6b-64333-0-6b-1655024628.zip](https://www.nexusmods.com/newvegas/mods/64333/?tab=files&file_id=1000094190)
 *  [Dynamic Weapon Spread-74321-1-5-1-1664249020.7z](https://www.nexusmods.com/newvegas/mods/74321/?tab=files&file_id=1000099352)
 *  [Economy Overhaul - FO3E INI-62899-3-0-0-1615483961.zip](https://www.nexusmods.com/newvegas/mods/62899/?tab=files&file_id=1000073251)
@@ -356,7 +355,7 @@
 *  [Essential DLC Enhancements-73803-1-3-2-1670870253.7z](https://www.nexusmods.com/newvegas/mods/73803/?tab=files&file_id=1000102289)
 *  [Essential Vanilla Enhancements Merged - JSUE Patch-77945-1-0-1668369054.7z](https://www.nexusmods.com/newvegas/mods/77945/?tab=files&file_id=1000101084)
 *  [Essential Vanilla Enhancements Merged - Mojave Arsenal Patch-77945-1-0-1668369069.7z](https://www.nexusmods.com/newvegas/mods/77945/?tab=files&file_id=1000101085)
-*  [Fallout Alpha Rendering Tweaks-80316-1-0-1678272827.7z](https://www.nexusmods.com/newvegas/mods/80316/?tab=files&file_id=1000106094)
+*  [Fallout Alpha Rendering Tweaks-80316-2-4-1-1679897666.7z](https://www.nexusmods.com/newvegas/mods/80316/?tab=files&file_id=1000106930)
 *  Fallout_default.ini
 *  FalloutNV.exe
 *  FalloutNV.ico
@@ -605,8 +604,9 @@
 *  [Uncut Wasteland-79358-1-0-1671399205.7z](https://www.nexusmods.com/newvegas/mods/79358/?tab=files&file_id=1000102533)
 *  [Unofficial Patch NVSE Plus-71239-1-4-3-1678139991.zip](https://www.nexusmods.com/newvegas/mods/71239/?tab=files&file_id=1000106019)
 *  [Vanilla Enhancements Merged-78877-1-3-0-1676720992.7z](https://www.nexusmods.com/newvegas/mods/78877/?tab=files&file_id=1000105178)
-*  [Vanilla Enhancements Merged-78877-1-3-1-1677180121.7z](https://www.nexusmods.com/newvegas/mods/78877/?tab=files&file_id=1000105435)
+*  [Vanilla Enhancements Merged-78877-1-3-2-1678732288.7z](https://www.nexusmods.com/newvegas/mods/78877/?tab=files&file_id=1000106400)
 *  [Vanilla Iron Sights Realligned-77672-1-1-1658954471.7z](https://www.nexusmods.com/newvegas/mods/77672/?tab=files&file_id=1000096609)
+*  [Vanilla_UI_Plus_New_Vegas_948.1.7z](https://www.moddb.com/downloads/mirror/128019/121/4071462681b7327775c0f0a42ba3748f)
 *  VeryHigh.ini
 *  [Viewmodel Recoil 0.308-71852-0-308-1621847906.zip](https://www.nexusmods.com/newvegas/mods/71852/?tab=files&file_id=1000076459)
 *  [Vikki and Vance Improvements-71531-1-5-1669846735.7z](https://www.nexusmods.com/newvegas/mods/71531/?tab=files&file_id=1000101678)

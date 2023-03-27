@@ -799,7 +799,7 @@
 *  [True Perks - Survival Addon Module-66822-7-1677884054.7z](https://www.nexusmods.com/fallout4/mods/66822/?tab=files&file_id=269208)
 *  [True Perks - Ultimate Hacking-66824-1-1670942346.7z](https://www.nexusmods.com/fallout4/mods/66824/?tab=files&file_id=260232)
 *  [True Perks-49400-7-9-3-1679746732.7z](https://www.nexusmods.com/fallout4/mods/49400/?tab=files&file_id=271802)
-*  [True Perks-49400-7-9-4-1679818033.7z](https://www.nexusmods.com/fallout4/mods/49400/?tab=files&file_id=271911)
+*  [True Perks-49400-7-9-5-1679903624.7z](https://www.nexusmods.com/fallout4/mods/49400/?tab=files&file_id=272025)
 *  [True Storms - MCM Settings Menu-65541-1-4-1-r4-1669872660.rar](https://www.nexusmods.com/fallout4/mods/65541/?tab=files&file_id=258791)
 *  [True Storms 1.4.2-4472-1-4-2-1674962307.rar](https://www.nexusmods.com/fallout4/mods/4472/?tab=files&file_id=265374)
 *  [TrueAmmoRemover v1.0.5-64426-1-0-5-1664930475.rar](https://www.nexusmods.com/fallout4/mods/64426/?tab=files&file_id=252500)
