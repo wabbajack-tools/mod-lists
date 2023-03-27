@@ -1,10 +1,11 @@
 ## Validation Report - Wayfarer (LostOutpost/wayfarer)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Vanilla_UI_Plus_New_Vegas_948.1.7z](https://www.moddb.com/downloads/mirror/128019/121/4071462681b7327775c0f0a42ba3748f)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (614)
+### Valid (613)
 *  [1. Consistent Pip-boy Icons-65046-4-4-1659349331.7z](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000096843)
 *  [2. Consistent Addon Icons-65046-4-2-1652355224.zip](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000092397)
 *  [360 Movement-71940-1-2-1619527056.zip](https://www.nexusmods.com/newvegas/mods/71940/?tab=files&file_id=1000075421)
@@ -606,7 +607,6 @@
 *  [Vanilla Enhancements Merged-78877-1-3-0-1676720992.7z](https://www.nexusmods.com/newvegas/mods/78877/?tab=files&file_id=1000105178)
 *  [Vanilla Enhancements Merged-78877-1-3-2-1678732288.7z](https://www.nexusmods.com/newvegas/mods/78877/?tab=files&file_id=1000106400)
 *  [Vanilla Iron Sights Realligned-77672-1-1-1658954471.7z](https://www.nexusmods.com/newvegas/mods/77672/?tab=files&file_id=1000096609)
-*  [Vanilla_UI_Plus_New_Vegas_948.1.7z](https://www.moddb.com/downloads/mirror/128019/121/4071462681b7327775c0f0a42ba3748f)
 *  VeryHigh.ini
 *  [Viewmodel Recoil 0.308-71852-0-308-1621847906.zip](https://www.nexusmods.com/newvegas/mods/71852/?tab=files&file_id=1000076459)
 *  [Vikki and Vance Improvements-71531-1-5-1669846735.7z](https://www.nexusmods.com/newvegas/mods/71531/?tab=files&file_id=1000101678)
