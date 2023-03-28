@@ -1,10 +1,11 @@
 ## Validation Report - Capital Punishment (TTWTrueVegas/capitalpunishment)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [GECK_NVE_v1.4.zip](https://cdn.bethsoft.com/fallout/nv/geck/GECK_NVE_v1.4.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (934)
+### Valid (933)
 *  [00 - Alcohol Bottles - Overhaul-73919-1-0-2-1644020370.7z](https://www.nexusmods.com/newvegas/mods/73919/?tab=files&file_id=1000087139)
 *  [00 - Better Books-74333-1-0-1636330917.7z](https://www.nexusmods.com/newvegas/mods/74333/?tab=files&file_id=1000083742)
 *  [01 - NUKA WORLD IMPORTS Version-72985-1-1-2-1671804961.7z](https://www.nexusmods.com/newvegas/mods/72985/?tab=files&file_id=1000102719)
@@ -502,7 +503,6 @@
 *  [Gas Masks of Life-78951-1-0-1668113512.zip](https://www.nexusmods.com/newvegas/mods/78951/?tab=files&file_id=1000100967)
 *  GDFFalloutNV.dll
 *  [Geck Extender-64888-0-38-1649695252.zip](https://www.nexusmods.com/newvegas/mods/64888/?tab=files&file_id=1000090830)
-*  [GECK_NVE_v1.4.zip](https://cdn.bethsoft.com/fallout/nv/geck/GECK_NVE_v1.4.zip)
 *  [GECK-64888-0-36-2-1616972176.7z](https://www.nexusmods.com/newvegas/mods/64888/?tab=files&file_id=1000074232)
 *  [Glowing Cazadors and Retexture-78123-0-01-1661403649.7z](https://www.nexusmods.com/newvegas/mods/78123/?tab=files&file_id=1000098146)
 *  [Gun Runners Kiosk Glass Fix-70293-1-0-1604558721.7z](https://www.nexusmods.com/newvegas/mods/70293/?tab=files&file_id=1000067223)
