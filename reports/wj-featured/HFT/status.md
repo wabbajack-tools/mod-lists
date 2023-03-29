@@ -1,4 +1,4 @@
-## Validation Report - Happy Fun Times (HFT/HFT)
+## Validation Report - Happy Fun Times (wj-featured/HFT)
 
 
 ### Invalid (0)
