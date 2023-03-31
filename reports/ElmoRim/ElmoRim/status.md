@@ -1,11 +1,10 @@
 ## Validation Report - ElmoRim (ElmoRim/ElmoRim)
 
 
-### Invalid (1)
-*  [Vanguard+2_2.rar](https://www.skyrim-guild.com/s/Vanguard-2_2.rar)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (697)
+### Valid (698)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-9-1-1664974289.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321816)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -679,6 +678,7 @@
 *  [Vanargand Animations - Sneak Archery-56788-1-4-1634237551.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56788/?tab=files&file_id=234830)
 *  [Vanargand Animations - Sneak Crossbows-67282-1-0b-1656114642.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67282/?tab=files&file_id=293842)
 *  [Vanargand Animations - Sneak Idle Walk and Run-54351-1-1-1630433273.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54351/?tab=files&file_id=225228)
+*  [Vanguard+2_2.rar](https://www.skyrim-guild.com/s/Vanguard-2_2.rar)
 *  [Vanilla HDR-76521-1-1-1-1665265181.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76521/?tab=files&file_id=322573)
 *  [Vibrant weapons-40087-1-0-1602087849.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40087/?tab=files&file_id=164365)
 *  [Voices EN  - Part 2-18115-0-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18115/?tab=files&file_id=57857)
