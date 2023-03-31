@@ -1,11 +1,10 @@
 ## Validation Report - Tahrovin (Tahrovin/tahrovin)
 
 
-### Invalid (1)
-*  [Tahrovin v1.0.4.1 LODs.7z](https://authored-files.wabbajack.org/Tahrovin v1.0.4.1 LODs.7z_90e2b72f-440d-46fb-b2fa-c44bbf84bd3a)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (634)
+### Valid (635)
 *  [.Deadly Spell Impacts 4K-74526-1-0-1662133724.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74526/?tab=files&file_id=312550)
 *  [(2) Sharkish Piercings - 3BA - Base-57131-1-01-1634464044.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235340)
 *  [(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77989)
@@ -570,6 +569,7 @@
 *  [Tahrovin v1.0 Nemesis & Synth Outputs.7z](https://authored-files.wabbajack.org/Tahrovin v1.0 Nemesis & Synth Outputs.7z_4da2790b-ffc3-45a4-854a-91ee3a6a48d8)
 *  [Tahrovin v1.0 xLODGen Output.7z](https://authored-files.wabbajack.org/Tahrovin v1.0 xLODGen Output.7z_bcec0c93-a2ab-48b3-a13c-95f1fdffad48)
 *  [Tahrovin v1.0.4 TexGen Output.7z](https://authored-files.wabbajack.org/Tahrovin v1.0.4 TexGen Output.7z_0cd79b4e-d64a-4c1d-aefa-8c5d1a0767fb)
+*  [Tahrovin v1.0.4.1 LODs.7z](https://authored-files.wabbajack.org/Tahrovin v1.0.4.1 LODs.7z_90e2b72f-440d-46fb-b2fa-c44bbf84bd3a)
 *  [TAWOBA REMASTERED 6.1 CBBE SE.7z](https://drive.google.com/uc?id=1c6Q4AivQcnXN_rio_hNXySf-4x6y5qA1&export=download)
 *  [Tempered Skins for Males - SOS Full version-7902-2-06-1601375163.7z](https://www.nexusmods.com/skyrimspecialedition/mods/7902/?tab=files&file_id=163103)
 *  [Teru Apex V2 CBBE 3BA 3BBB 2.0-50232-2-0-1623704887.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50232/?tab=files&file_id=209118)
