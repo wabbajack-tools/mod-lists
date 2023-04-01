@@ -1,10 +1,11 @@
 ## Validation Report - Just a Humble Warden (HumbleWarden/humble_warden)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Promotional Items.zip](https://drive.google.com/uc?id=1RDTzByiX1sXzhTJUt-zkrv8HYVC7oIqW&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (176)
+### Valid (175)
 *  [50 Tactic Slots-4096-1-1.7z](https://www.nexusmods.com/dragonage/mods/4096/?tab=files&file_id=1000001832)
 *  [A Priest - Not A Mage-5207-1-0-1585180130.7z](https://www.nexusmods.com/dragonage/mods/5207/?tab=files&file_id=1000006844)
 *  [Addins.7z-5950-0-0-1-1672646116.7z](https://www.nexusmods.com/dragonage/mods/5950/?tab=files&file_id=1000009609)
@@ -135,7 +136,6 @@
 *  [Ogre HD-4226-1-0.zip](https://www.nexusmods.com/dragonage/mods/4226/?tab=files&file_id=1000002342)
 *  [Old Gods-5800-1-0-1659162756.zip](https://www.nexusmods.com/dragonage/mods/5800/?tab=files&file_id=1000009129)
 *  [Optional Drake and Dragonling-5826-1-1661233774.rar](https://www.nexusmods.com/dragonage/mods/5826/?tab=files&file_id=1000009240)
-*  [Promotional Items.zip](https://drive.google.com/uc?id=1RDTzByiX1sXzhTJUt-zkrv8HYVC7oIqW&export=download)
 *  [PTs Vibrant Colors 1_31-153.zip](https://www.nexusmods.com/dragonage/mods/153/?tab=files&file_id=1347)
 *  [Purple Lightning-6017-1-0-1677605308.rar](https://www.nexusmods.com/dragonage/mods/6017/?tab=files&file_id=1000009868)
 *  [QUDAO Fixpack v3.5-4689-3-5-1550475932.zip](https://www.nexusmods.com/dragonage/mods/4689/?tab=files&file_id=1000006176)
