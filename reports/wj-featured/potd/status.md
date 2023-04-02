@@ -1,12 +1,10 @@
 ## Validation Report - Path of the Dovahkiin (wj-featured/potd)
 
 
-### Invalid (2)
-*  [High Poly Head v1.4 (SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
-*  [POTD DynDOLOD Output 1.3.0.7z](https://authored-files.wabbajack.org/POTD DynDOLOD Output 1.3.0.7z_4721edd8-de7b-41fc-b5c7-e6f3e06678eb)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (518)
+### Valid (520)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -235,6 +233,7 @@
 *  [Heritage-30017-1-9-1581349742.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30017/?tab=files&file_id=123516)
 *  [Heritage-30017-1-98-1585990136.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30017/?tab=files&file_id=132335)
 *  [High Poly Gleamblossoms - ENB Light-40278-1-2-1626461597.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40278/?tab=files&file_id=214944)
+*  [High Poly Head v1.4 (SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 *  [High Poly Project-12029-v4-95-1614673394.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=188917)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
 *  High.ini
@@ -351,6 +350,7 @@
 *  [Perk Point Awards Redux 1.1b-40461-1-1b-1601793476.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40461/?tab=files&file_id=163843)
 *  [Perks for Questing SE v1.2-29402-1-2-1589225687.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29402/?tab=files&file_id=139352)
 *  [Player Rotation in ShowRaceMenu v1.0.0 for SkyrimSE-36095-1-0-0-1589710499.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36095/?tab=files&file_id=140440)
+*  [POTD DynDOLOD Output 1.3.0.7z](https://authored-files.wabbajack.org/POTD DynDOLOD Output 1.3.0.7z_4721edd8-de7b-41fc-b5c7-e6f3e06678eb)
 *  [POTD xLODGen Output 1.0.0.7z](https://authored-files.wabbajack.org/POTD xLODGen Output 1.0.0.7z_29899a7b-b310-45f2-b9f2-6b51a9141613)
 *  [powerofthree's Tweaks - 1.2-51073-1-2-1626933492.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=215915)
 *  [Pretty Gems-15415-2-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/15415/?tab=files&file_id=46598)
