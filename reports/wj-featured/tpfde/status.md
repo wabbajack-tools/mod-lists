@@ -1,10 +1,11 @@
 ## Validation Report - The Phoenix Flavour - Dragon's Edition (wj-featured/tpfde)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [High Poly Head v1.4 (SE).zip](https://build.wabbajack.org/authored_files/direct_link/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1605)
+### Valid (1604)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [.tri Expression Morphs-71235-2-7-1659254744.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71235/?tab=files&file_id=303531)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
@@ -631,7 +632,6 @@
 *  [High Poly Gleamblossoms - ENB light-40278-1-1-1599743294.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40278/?tab=files&file_id=160017)
 *  [High Poly Green Grass Update-42032-1-1-1613378589.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42032/?tab=files&file_id=186069)
 *  [High Poly Head ENB Brow Fix-63991-1-0-1645387936.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63991/?tab=files&file_id=265711)
-*  [High Poly Head v1.4 (SE).zip](https://build.wabbajack.org/authored_files/direct_link/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  [High Poly Kaidan - Main File-59975-3-1-1652363625.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59975/?tab=files&file_id=283140)
 *  [High Poly Kaidan - Old Version-59975-3-5-1657572543.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59975/?tab=files&file_id=298192)
 *  [High Poly Project-12029-v5-3-1634909383.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=236420)
