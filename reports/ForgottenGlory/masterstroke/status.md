@@ -1,10 +1,11 @@
 ## Validation Report - Masterstroke (ForgottenGlory/masterstroke)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [High Poly Head v1.4 (SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1133)
+### Valid (1132)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -456,7 +457,6 @@
 *  [High Hrothgar Pilgrim Chest-33052-1-1-1-1633424138.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33052/?tab=files&file_id=232736)
 *  [High Poly Blackreach Mushrooms-40418-1-1-1617711701.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40418/?tab=files&file_id=196429)
 *  [High Poly Gleamblossoms - ENB Light-40278-1-2-1626461597.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40278/?tab=files&file_id=214944)
-*  [High Poly Head v1.4 (SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 *  [High Poly Project-12029-v5-3-1634909383.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=236420)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
 *  High.ini
