@@ -1,12 +1,11 @@
 ## Validation Report - Aldrnari (wj-featured/aldrnari)
 
 
-### Invalid (1)
-*  [Nethers_Follower_Framework_UNI_2_7_7.zip](https://www.patreon.com/file?h=53262094&i=8377963)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (1)
 *  [Serenity 3DNPC BSA Proper.7z](https://authored-files.wabbajack.org/Serenity 3DNPC BSA Proper.7z_fdc6bf82-2a9c-4ed1-bd1d-1408cb02ef49/)
-### Valid (2633)
+### Valid (2634)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0.0) SELUA - Solitude Exterior LOD Unlocker Advocate II-36116-1-1-1605036920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169508)
 *  [(1.1) The Great City of Solitude PATCH - Solitude Skyway SE - Drengin's Blue Palace Terrace (STD)-36116-1-1-1604648419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=168848)
@@ -1571,6 +1570,7 @@
 *  [Neloth's Experimental Subject Quest (DLC2TTR4a) Fix-64016-0-1-1645437312.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64016/?tab=files&file_id=265836)
 *  [Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar](https://www.nexusmods.com/skyrimspecialedition/mods/60033/?tab=files&file_id=248867)
 *  [Nether's Follower Framework - Settings Loader-57022-1-0-1634145115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57022/?tab=files&file_id=234609)
+*  [Nethers_Follower_Framework_UNI_2_7_7.zip](https://www.patreon.com/file?h=53262094&i=8377963)
 *  [NetScriptFramework SkyrimSE v18-21294-18-1635489335.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21294/?tab=files&file_id=237679)
 *  [New Beginnings - Dragon Start-57818-V1-3-1-1636238380.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57818/?tab=files&file_id=239472)
 *  [New Glazed Pots-69273-1-0-1-1654617313.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69273/?tab=files&file_id=289507)
