@@ -2,7 +2,7 @@
   "MachineURL": "ForgottenGlory/sseessentials",
   "Name": "SSEE",
   "Version": "1.0.0",
-  "ModListHash": "d6JU0T1VBdQ=",
+  "ModListHash": "VKs9SXXn1gM=",
   "Archives": [
     {
       "Status": "Valid",
@@ -242,21 +242,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "nWETHr9TRro=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=13048\nfileID=122686",
-        "Name": "PapyrusUtil SE - Scripting Utility Functions-13048-3-9-1580810594.zip",
-        "Size": 563031,
+        "Hash": "auefmA1Rd4Q=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=13838\nfileID=198406",
+        "Name": "Pickpocket Reset-13838-1-1-1-1618526480.7z",
+        "Size": 1771,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "exiledviper meh321",
-          "Description": "An SKSE plugin adding several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.",
-          "FileID": 122686,
+          "Author": "TheRegisteredOne",
+          "Description": "This mod resets NPC\u0027s inventory a few days after you pickpocket them.",
+          "FileID": 198406,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/13048/13048-1512389090-2109546993.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/13838/13838-1618058638-535645166.png",
           "IsNSFW": false,
-          "ModID": 13048,
-          "Name": "PapyrusUtil SE - Modders Scripting Utility Functions",
-          "Version": "4.3"
+          "ModID": 13838,
+          "Name": "Pickpocket Reset",
+          "Version": "1.1.1"
         }
       }
     },
@@ -361,27 +361,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "sc7GdGZrthA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=6837\nfileID=301775",
-        "Name": "Wrye Bash 310 - Standalone Executable-6837-310-1658670545.7z",
-        "Size": 34873528,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Wrye Bash Team",
-          "Description": "Wrye Bash is a multipurpose mod management and mod installation utility.",
-          "FileID": 301775,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/6837-0-1483359848.png",
-          "IsNSFW": false,
-          "ModID": 6837,
-          "Name": "Wrye Bash",
-          "Version": "309.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "tv20UpywciM=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/xLODGen.90.7z_301311bd-5912-4bc3-b9b6-955fce14cd71",
         "Name": "xLODGen.90.7z",
@@ -458,21 +437,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+qizJ8m9UHU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=67015\nfileID=279302",
-        "Name": "Combat Music Fix SKSE - SSE-67015-1-0-1650775442.7z",
-        "Size": 224568,
+        "Hash": "DAtlBDwlI0M=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=28210\nfileID=154169",
+        "Name": "Console Commands Extender-28210-1-8-0-1596771552.zip",
+        "Size": 194054,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "dTry",
-          "Description": "Simple SKSE plugin to fix the never-ending combat music bug.",
-          "FileID": 279302,
+          "Author": "Ryan",
+          "Description": "Extends and adds console commands",
+          "FileID": 154169,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67015/67015-1650772664-364532617.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28210/28210-1565673816-177697224.png",
           "IsNSFW": false,
-          "ModID": 67015,
-          "Name": "Combat Music Fix SKSE",
-          "Version": "1.0"
+          "ModID": 28210,
+          "Name": "Console Commands Extender",
+          "Version": "1.8.0"
         }
       }
     },
@@ -521,21 +500,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "2g9U9p2xwx8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=77394\nfileID=325348",
-        "Name": "I\u0027m walkin\u0027 here-77394-1-7-1666268388.zip",
-        "Size": 154522,
+        "Hash": "lJcnujE8v9U=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=16495\nfileID=165534",
+        "Name": "JContainers SE-16495-4-1-13-1602690897.7z",
+        "Size": 907213,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VersuchDrei",
-          "Description": "Conversion of I\u0027m walkin\u0027 here to CLib-NG to create one .dll file that works in all Skyrim SE versions, including AE 1.6.629\u002B.\n\nPrevents NPCs from pushing you while YOU\u0027RE WALKIN\u0027 \u0027ERE and having a chat with your friends :)",
-          "FileID": 325348,
+          "Author": "silvericed",
+          "Description": "Extends Skyrim SE Papyrus scripts (or SKSE/C\u002B\u002B plugins) with JSON based serializable data structures like arrays and maps. Embedded Lua interpreter.",
+          "FileID": 165534,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/77394/77394-1666268237-755725018.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/16495/16495-1523706323-318662486.png",
           "IsNSFW": false,
-          "ModID": 77394,
-          "Name": "I\u0027m walkin\u0027 here NG",
-          "Version": "1.7"
+          "ModID": 16495,
+          "Name": "JContainers SE",
+          "Version": "4.2.2"
         }
       }
     },
@@ -668,6 +647,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "sc7GdGZrthA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=6837\nfileID=301775",
+        "Name": "Wrye Bash 310 - Standalone Executable-6837-310-1658670545.7z",
+        "Size": 34873528,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Wrye Bash Team",
+          "Description": "Wrye Bash is a multipurpose mod management and mod installation utility.",
+          "FileID": 301775,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/6837-0-1483359848.png",
+          "IsNSFW": false,
+          "ModID": 6837,
+          "Name": "Wrye Bash",
+          "Version": "309.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "pIjcu2Bok3A=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=354153",
         "Name": "Assorted mesh fixes-32117-0-78-1674975964.7z",
@@ -683,6 +683,27 @@
           "ModID": 32117,
           "Name": "Assorted mesh fixes",
           "Version": "0.44"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8L5xGNjGlHg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=64524\nfileID=268221",
+        "Name": "Bright Falling Leaves Fix-64524-0-2-1646479989.7z",
+        "Size": 149757,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wankingSkeever",
+          "Description": "Fixes bright falling leaves at night",
+          "FileID": 268221,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64524/64524-1646384034-533867999.png",
+          "IsNSFW": false,
+          "ModID": 64524,
+          "Name": "Bright Falling Leaves Fix",
+          "Version": "0.1"
         }
       }
     },
@@ -810,6 +831,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "nWETHr9TRro=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=13048\nfileID=122686",
+        "Name": "PapyrusUtil SE - Scripting Utility Functions-13048-3-9-1580810594.zip",
+        "Size": 563031,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "exiledviper meh321",
+          "Description": "An SKSE plugin adding several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.",
+          "FileID": 122686,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/13048/13048-1512389090-2109546993.png",
+          "IsNSFW": false,
+          "ModID": 13048,
+          "Name": "PapyrusUtil SE - Modders Scripting Utility Functions",
+          "Version": "4.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "zyuYqsI+I0A=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=14075\nfileID=307445",
         "Name": "Raven Rock - Fix Exit on Horseback-14075-1-1-1660483408.7z",
@@ -847,83 +889,62 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "auefmA1Rd4Q=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=13838\nfileID=198406",
-        "Name": "Pickpocket Reset-13838-1-1-1-1618526480.7z",
-        "Size": 1771,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TheRegisteredOne",
-          "Description": "This mod resets NPC\u0027s inventory a few days after you pickpocket them.",
-          "FileID": 198406,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/13838/13838-1618058638-535645166.png",
-          "IsNSFW": false,
-          "ModID": 13838,
-          "Name": "Pickpocket Reset",
-          "Version": "1.1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "DAtlBDwlI0M=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=28210\nfileID=154169",
-        "Name": "Console Commands Extender-28210-1-8-0-1596771552.zip",
-        "Size": 194054,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ryan",
-          "Description": "Extends and adds console commands",
-          "FileID": 154169,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28210/28210-1565673816-177697224.png",
-          "IsNSFW": false,
-          "ModID": 28210,
-          "Name": "Console Commands Extender",
-          "Version": "1.8.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "lJcnujE8v9U=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=16495\nfileID=165534",
-        "Name": "JContainers SE-16495-4-1-13-1602690897.7z",
-        "Size": 907213,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "silvericed",
-          "Description": "Extends Skyrim SE Papyrus scripts (or SKSE/C\u002B\u002B plugins) with JSON based serializable data structures like arrays and maps. Embedded Lua interpreter.",
-          "FileID": 165534,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/16495/16495-1523706323-318662486.png",
-          "IsNSFW": false,
-          "ModID": 16495,
-          "Name": "JContainers SE",
-          "Version": "4.2.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8L5xGNjGlHg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=64524\nfileID=268221",
-        "Name": "Bright Falling Leaves Fix-64524-0-2-1646479989.7z",
-        "Size": 149757,
+        "Hash": "dQoFyDSNaj0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53643\nfileID=220379",
+        "Name": "High Gate Ruins Puzzle Reset Fix-53643-0-2-1628676419.7z",
+        "Size": 1835,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "wankingSkeever",
-          "Description": "Fixes bright falling leaves at night",
-          "FileID": 268221,
+          "Description": "Fixes High Gate Ruins Puzzle not resetting properly, blocking off half the dungeon on subsequent visits.",
+          "FileID": 220379,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64524/64524-1646384034-533867999.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53643/53643-1628750113-2048732170.png",
           "IsNSFW": false,
-          "ModID": 64524,
-          "Name": "Bright Falling Leaves Fix",
+          "ModID": 53643,
+          "Name": "High Gate Ruins Puzzle Reset Fix",
+          "Version": "0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Eq2Cq6sNPdw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=69326\nfileID=324089",
+        "Name": "NPC AI Process Position Fix - NG-69326-1-1-1-1665790814.zip",
+        "Size": 5497524,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Maxsu",
+          "Description": "Updated NPC AI Process Position Fix adding support for SSE, AE, and VR in one DLL.",
+          "FileID": 324089,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69326/69326-1654692591-651616921.png",
+          "IsNSFW": false,
+          "ModID": 69326,
+          "Name": "NPC AI Process Position Fix  - NG",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "O1nKTSeu0j8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=76169\nfileID=319699",
+        "Name": "Riften Temple Sconce Fix-76169-0-1-1664252110.7z",
+        "Size": 151684,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wankingSkeever",
+          "Description": "Fixes the floating sconces in front of the Riften Temple of Mara (and some other small issues)",
+          "FileID": 319699,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/76169/76169-1664251768-541384512.png",
+          "IsNSFW": false,
+          "ModID": 76169,
+          "Name": "Riften Temple Sconce Fix",
           "Version": "0.1"
         }
       }
@@ -1021,119 +1042,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dQoFyDSNaj0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53643\nfileID=220379",
-        "Name": "High Gate Ruins Puzzle Reset Fix-53643-0-2-1628676419.7z",
-        "Size": 1835,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "wankingSkeever",
-          "Description": "Fixes High Gate Ruins Puzzle not resetting properly, blocking off half the dungeon on subsequent visits.",
-          "FileID": 220379,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53643/53643-1628750113-2048732170.png",
-          "IsNSFW": false,
-          "ModID": 53643,
-          "Name": "High Gate Ruins Puzzle Reset Fix",
-          "Version": "0.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Eq2Cq6sNPdw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=69326\nfileID=324089",
-        "Name": "NPC AI Process Position Fix - NG-69326-1-1-1-1665790814.zip",
-        "Size": 5497524,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Maxsu",
-          "Description": "Updated NPC AI Process Position Fix adding support for SSE, AE, and VR in one DLL.",
-          "FileID": 324089,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69326/69326-1654692591-651616921.png",
-          "IsNSFW": false,
-          "ModID": 69326,
-          "Name": "NPC AI Process Position Fix  - NG",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "O1nKTSeu0j8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=76169\nfileID=319699",
-        "Name": "Riften Temple Sconce Fix-76169-0-1-1664252110.7z",
-        "Size": 151684,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "wankingSkeever",
-          "Description": "Fixes the floating sconces in front of the Riften Temple of Mara (and some other small issues)",
-          "FileID": 319699,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/76169/76169-1664251768-541384512.png",
-          "IsNSFW": false,
-          "ModID": 76169,
-          "Name": "Riften Temple Sconce Fix",
-          "Version": "0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Py9BpFFp8yo=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_dad12ed0-b6bc-4ac2-b1a3-ec7f9647a0c6",
-        "Name": "enbseries_skyrimse_v0475.zip",
-        "Size": 4318388,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_dad12ed0-b6bc-4ac2-b1a3-ec7f9647a0c6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "rQiGSRx2WrY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=181171",
-        "Name": "(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z",
-        "Size": 206648,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "aers - Nukem - Ryan",
-          "Description": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.",
-          "FileID": 181171,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17230/17230-1526195370-298143229.png",
-          "IsNSFW": false,
-          "ModID": 17230,
-          "Name": "SSE Engine Fixes (skse64 plugin)",
-          "Version": "6.0.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "C1eOmY0OAqc=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Update.esm",
-        "Name": "Data_Update.esm",
-        "Size": 18857707,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Update.esm",
-          "GameVersion": "1.6.640.0",
-          "Hash": "C1eOmY0OAqc="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "iySYDH17v08=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=67975\nfileID=370406",
         "Name": "Advanced Notification Log NG-67975-2-2-0-1679340604.zip",
@@ -1218,42 +1126,50 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "AEMFjlzEW4I=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=4524\nfileID=8856",
-        "Name": "Multiple Floors Sandboxing-4524-.zip",
-        "Size": 303,
+        "Hash": "Py9BpFFp8yo=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_dad12ed0-b6bc-4ac2-b1a3-ec7f9647a0c6",
+        "Name": "enbseries_skyrimse_v0475.zip",
+        "Size": 4318388,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dovahklon CollinMacleod",
-          "Description": "Have you ever wonder why the NPCs mostly just stay at the same floor, even though the cell has multiple floors?\r\n\n\r\n\nThis little tweak will encourage NPCs to climb stairs around them and explore their surroundings more.",
-          "FileID": 8856,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57376-1-1408812506.png",
-          "IsNSFW": false,
-          "ModID": 4524,
-          "Name": "Multiple Floors Sandboxing",
-          "Version": "1.0"
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_dad12ed0-b6bc-4ac2-b1a3-ec7f9647a0c6"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "pDr2q+rwyMs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=11978\nfileID=33107",
-        "Name": "Vampire Lords Can Activate-11978-1-0.rar",
-        "Size": 607,
+        "Hash": "rQiGSRx2WrY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=181171",
+        "Name": "(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z",
+        "Size": 206648,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ColdTyrant",
-          "Description": "Enables Vampire Lords to talk to NPCs, open doors, pick locks, loot bodies, pick up items, etc.",
-          "FileID": 33107,
+          "Author": "aers - Nukem - Ryan",
+          "Description": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.",
+          "FileID": 181171,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/86463-0-1504508274.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17230/17230-1526195370-298143229.png",
           "IsNSFW": false,
-          "ModID": 11978,
-          "Name": "Vampire Lords Can Activate",
-          "Version": "1.0"
+          "ModID": 17230,
+          "Name": "SSE Engine Fixes (skse64 plugin)",
+          "Version": "6.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "C1eOmY0OAqc=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Update.esm",
+        "Name": "Data_Update.esm",
+        "Size": 18857707,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Update.esm",
+          "GameVersion": "1.6.640.0",
+          "Hash": "C1eOmY0OAqc="
         }
       }
     },
@@ -1323,36 +1239,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "joAkOFfS7Wc=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Ultra.ini",
-        "Name": "Ultra.ini",
-        "Size": 911,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Ultra.ini",
-          "GameVersion": "1.6.640.0",
-          "Hash": "joAkOFfS7Wc="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "zZypW+i+wEM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58742\nfileID=242776",
-        "Name": "Stamina of Steeds-58742-1-0-1637372154.zip",
-        "Size": 1688,
+        "Hash": "AEMFjlzEW4I=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=4524\nfileID=8856",
+        "Name": "Multiple Floors Sandboxing-4524-.zip",
+        "Size": 303,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "doodlez",
-          "Description": "A simple fix for an annoying horse sprint bug. For SSE, AE, VR and Enderal. ESP-FE",
-          "FileID": 242776,
+          "Author": "Dovahklon CollinMacleod",
+          "Description": "Have you ever wonder why the NPCs mostly just stay at the same floor, even though the cell has multiple floors?\r\n\n\r\n\nThis little tweak will encourage NPCs to climb stairs around them and explore their surroundings more.",
+          "FileID": 8856,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58742/58742-1637373519-150129820.gif",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57376-1-1408812506.png",
           "IsNSFW": false,
-          "ModID": 58742,
-          "Name": "Stamina of Steeds",
+          "ModID": 4524,
+          "Name": "Multiple Floors Sandboxing",
           "Version": "1.0"
         }
       }
@@ -1360,16 +1260,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "AqyqekpxEXM=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Dawnguard.esm",
-        "Name": "Data_Dawnguard.esm",
-        "Size": 25884627,
+        "Hash": "pDr2q+rwyMs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=11978\nfileID=33107",
+        "Name": "Vampire Lords Can Activate-11978-1-0.rar",
+        "Size": 607,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Dawnguard.esm",
-          "GameVersion": "1.6.640.0",
-          "Hash": "AqyqekpxEXM="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ColdTyrant",
+          "Description": "Enables Vampire Lords to talk to NPCs, open doors, pick locks, loot bodies, pick up items, etc.",
+          "FileID": 33107,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/86463-0-1504508274.jpg",
+          "IsNSFW": false,
+          "ModID": 11978,
+          "Name": "Vampire Lords Can Activate",
+          "Version": "1.0"
         }
       }
     },
@@ -1439,58 +1344,53 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "i1AUDmVq/hQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=26331\nfileID=352860",
-        "Name": "Dwemer Gates Don\u0027t Reset-26331-1-3-7-1674639928.7z",
-        "Size": 124336,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "tarlazo",
-          "Description": "Prevents the mysterious, pesky Dwemer Gatekeepers from re-closing what you left opened. Gates, passages, portcullises, bridges, barred doors and whatnots no longer reset when the cell does. \n\nSkyrim and DLCs. ---- \u0022Dwemer-only\u0022 and \u0022complete\u0022 versions. The \u0022complete\u0022 version requires USSEP. ---- .esl - ESM - ESP-FE - ESP",
-          "FileID": 352860,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26331/26331-1559775293-144262363.jpeg",
-          "IsNSFW": false,
-          "ModID": 26331,
-          "Name": "Dwemer Gates Don\u0027t Reset",
-          "Version": "1.3.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6P9vLxgdsj4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54061\nfileID=287938",
-        "Name": "Vanilla Script microOptimizations-54061-1-16a-1654031453.zip",
-        "Size": 798837,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Subhuman0100",
-          "Description": "Rewriting many of the vanilla game scripts with the goal of increasing efficiency.  Replacing slower \u0022convenience functions\u0022 with their faster native counterparts.    Re-ordering condition checks to implement \u0022fail fast fail early\u0022 approach.  Cacheing of often-used values.",
-          "FileID": 287938,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54061/54061-1629273233-1433404228.png",
-          "IsNSFW": false,
-          "ModID": 54061,
-          "Name": "Vanilla Script (micro)Optimizations",
-          "Version": "1.14"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "aKpCDVU04sU=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Dragonborn.esm",
-        "Name": "Data_Dragonborn.esm",
-        "Size": 64663944,
+        "Hash": "joAkOFfS7Wc=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Ultra.ini",
+        "Name": "Ultra.ini",
+        "Size": 911,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Dragonborn.esm",
+          "GameFile": "Ultra.ini",
           "GameVersion": "1.6.640.0",
-          "Hash": "aKpCDVU04sU="
+          "Hash": "joAkOFfS7Wc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zZypW+i+wEM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58742\nfileID=242776",
+        "Name": "Stamina of Steeds-58742-1-0-1637372154.zip",
+        "Size": 1688,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "doodlez",
+          "Description": "A simple fix for an annoying horse sprint bug. For SSE, AE, VR and Enderal. ESP-FE",
+          "FileID": 242776,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58742/58742-1637373519-150129820.gif",
+          "IsNSFW": false,
+          "ModID": 58742,
+          "Name": "Stamina of Steeds",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "AqyqekpxEXM=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Dawnguard.esm",
+        "Name": "Data_Dawnguard.esm",
+        "Size": 25884627,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Dawnguard.esm",
+          "GameVersion": "1.6.640.0",
+          "Hash": "AqyqekpxEXM="
         }
       }
     },
@@ -1560,37 +1460,58 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uA4rspV2n8U=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=22028\nfileID=75783",
-        "Name": "Intro Scenes Only Once-22028-1-0-1545346180.7z",
-        "Size": 919,
+        "Hash": "i1AUDmVq/hQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=26331\nfileID=352860",
+        "Name": "Dwemer Gates Don\u0027t Reset-26331-1-3-7-1674639928.7z",
+        "Size": 124336,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Whitefang37",
-          "Description": "Makes the scene with Ulfric and Galmar, and the scene with Tullius and Rikke, discussing Whiterun play only once.",
-          "FileID": 75783,
+          "Author": "tarlazo",
+          "Description": "Prevents the mysterious, pesky Dwemer Gatekeepers from re-closing what you left opened. Gates, passages, portcullises, bridges, barred doors and whatnots no longer reset when the cell does. \n\nSkyrim and DLCs. ---- \u0022Dwemer-only\u0022 and \u0022complete\u0022 versions. The \u0022complete\u0022 version requires USSEP. ---- .esl - ESM - ESP-FE - ESP",
+          "FileID": 352860,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22028/22028-1545345931-1274126476.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26331/26331-1559775293-144262363.jpeg",
           "IsNSFW": false,
-          "ModID": 22028,
-          "Name": "Civil War intro scenes run only once",
-          "Version": "1.0"
+          "ModID": 26331,
+          "Name": "Dwemer Gates Don\u0027t Reset",
+          "Version": "1.3.3"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "F0clUSPO+WE=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\HearthFires.esm",
-        "Name": "Data_HearthFires.esm",
-        "Size": 3977660,
+        "Hash": "6P9vLxgdsj4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54061\nfileID=287938",
+        "Name": "Vanilla Script microOptimizations-54061-1-16a-1654031453.zip",
+        "Size": 798837,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Subhuman0100",
+          "Description": "Rewriting many of the vanilla game scripts with the goal of increasing efficiency.  Replacing slower \u0022convenience functions\u0022 with their faster native counterparts.    Re-ordering condition checks to implement \u0022fail fast fail early\u0022 approach.  Cacheing of often-used values.",
+          "FileID": 287938,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54061/54061-1629273233-1433404228.png",
+          "IsNSFW": false,
+          "ModID": 54061,
+          "Name": "Vanilla Script (micro)Optimizations",
+          "Version": "1.14"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "aKpCDVU04sU=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Dragonborn.esm",
+        "Name": "Data_Dragonborn.esm",
+        "Size": 64663944,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\HearthFires.esm",
+          "GameFile": "Data\\Dragonborn.esm",
           "GameVersion": "1.6.640.0",
-          "Hash": "F0clUSPO+WE="
+          "Hash": "aKpCDVU04sU="
         }
       }
     },
@@ -1702,16 +1623,37 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5xD6UEtvt3M=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Animations.bsa",
-        "Name": "Data_Skyrim - Animations.bsa",
-        "Size": 65101236,
+        "Hash": "uA4rspV2n8U=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=22028\nfileID=75783",
+        "Name": "Intro Scenes Only Once-22028-1-0-1545346180.7z",
+        "Size": 919,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Whitefang37",
+          "Description": "Makes the scene with Ulfric and Galmar, and the scene with Tullius and Rikke, discussing Whiterun play only once.",
+          "FileID": 75783,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22028/22028-1545345931-1274126476.jpeg",
+          "IsNSFW": false,
+          "ModID": 22028,
+          "Name": "Civil War intro scenes run only once",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "F0clUSPO+WE=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\HearthFires.esm",
+        "Name": "Data_HearthFires.esm",
+        "Size": 3977660,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Animations.bsa",
+          "GameFile": "Data\\HearthFires.esm",
           "GameVersion": "1.6.640.0",
-          "Hash": "5xD6UEtvt3M="
+          "Hash": "F0clUSPO+WE="
         }
       }
     },
@@ -1781,95 +1723,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Cj/ZRKUw9rk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=684\nfileID=9748",
-        "Name": "BarenziahQuestMarkers SSE v1-3-1-684-1-3-1.rar",
-        "Size": 2726,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "toaDime",
-          "Description": "Adds quest markers to all 24 of the Stones of Barenziah (Unusual Gems) that you need to find/collect for the \u0026#34;No Stone Unturned\u0026#34; quest. For those like me who want to complete the quest, but don\u0027t like looking up all those locations",
-          "FileID": 9748,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/9385-1-1330165154.jpg",
-          "IsNSFW": false,
-          "ModID": 684,
-          "Name": "Stones of Barenziah Quest Markers",
-          "Version": "1.3.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "qkGE6REAiY0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=68139\nfileID=286548",
-        "Name": "BSA Version-68139-2-0-1653521494.rar",
-        "Size": 16552,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Nightfallstorm and JR",
-          "Description": "Optimize certain vanilla scripts with PO3 Extender to reduce script lag when using lots of mods.",
-          "FileID": 286548,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68139/68139-1653490196-1459286095.jpeg",
-          "IsNSFW": false,
-          "ModID": 68139,
-          "Name": "Vanilla Scripting Enhancements",
-          "Version": "2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7y9UDeVB50s=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Interface.bsa",
-        "Name": "Data_Skyrim - Interface.bsa",
-        "Size": 105751175,
+        "Hash": "5xD6UEtvt3M=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Animations.bsa",
+        "Name": "Data_Skyrim - Animations.bsa",
+        "Size": 65101236,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Interface.bsa",
+          "GameFile": "Data\\Skyrim - Animations.bsa",
           "GameVersion": "1.6.640.0",
-          "Hash": "7y9UDeVB50s="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fiMS7vbbpNE=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Skyrim\\SkyrimPrefs.ini",
-        "Name": "Skyrim_SkyrimPrefs.ini",
-        "Size": 3498,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Skyrim\\SkyrimPrefs.ini",
-          "GameVersion": "1.6.640.0",
-          "Hash": "fiMS7vbbpNE="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "MiW/01hFoaE=",
-        "Meta": "[General]\ngameName=skyrim\nmodID=67077\nfileID=1000214338",
-        "Name": "ENB Organizer-67077-v2-1-1.zip",
-        "Size": 2745841,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Breems",
-          "Description": "ENB Organizer helps you manage and install your ENB/SweetFX/FXAA presets/binaries for any game. It is continuously being expanded to act as a comprehensive ENB tool suite.",
-          "FileID": 1000214338,
-          "GameName": "Skyrim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/110/images/67077-3-1469393623.png",
-          "IsNSFW": false,
-          "ModID": 67077,
-          "Name": "ENB Organizer",
-          "Version": "v2.1.1"
+          "Hash": "5xD6UEtvt3M="
         }
       }
     },
@@ -1981,37 +1844,95 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hXsbDbFwuGY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=17056\nfileID=53746",
-        "Name": "Jiub\u0027s Opus-17056-1-0.7z",
-        "Size": 1230,
+        "Hash": "Cj/ZRKUw9rk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=684\nfileID=9748",
+        "Name": "BarenziahQuestMarkers SSE v1-3-1-684-1-3-1.rar",
+        "Size": 2726,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Huntermjiolnir",
-          "Description": "Simple mod that adds quest markers for the Side quest Impatience of a Saint.",
-          "FileID": 53746,
+          "Author": "toaDime",
+          "Description": "Adds quest markers to all 24 of the Stones of Barenziah (Unusual Gems) that you need to find/collect for the \u0026#34;No Stone Unturned\u0026#34; quest. For those like me who want to complete the quest, but don\u0027t like looking up all those locations",
+          "FileID": 9748,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17056/17056-1525711845-1054747332.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/9385-1-1330165154.jpg",
           "IsNSFW": false,
-          "ModID": 17056,
-          "Name": "Jiub\u0027s Opus",
-          "Version": "1.0"
+          "ModID": 684,
+          "Name": "Stones of Barenziah Quest Markers",
+          "Version": "1.3.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "oIYZPu4jH2g=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Meshes0.bsa",
-        "Name": "Data_Skyrim - Meshes0.bsa",
-        "Size": 1153090124,
+        "Hash": "qkGE6REAiY0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68139\nfileID=286548",
+        "Name": "BSA Version-68139-2-0-1653521494.rar",
+        "Size": 16552,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nightfallstorm and JR",
+          "Description": "Optimize certain vanilla scripts with PO3 Extender to reduce script lag when using lots of mods.",
+          "FileID": 286548,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68139/68139-1653490196-1459286095.jpeg",
+          "IsNSFW": false,
+          "ModID": 68139,
+          "Name": "Vanilla Scripting Enhancements",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7y9UDeVB50s=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Interface.bsa",
+        "Name": "Data_Skyrim - Interface.bsa",
+        "Size": 105751175,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Meshes0.bsa",
+          "GameFile": "Data\\Skyrim - Interface.bsa",
           "GameVersion": "1.6.640.0",
-          "Hash": "oIYZPu4jH2g="
+          "Hash": "7y9UDeVB50s="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fiMS7vbbpNE=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Skyrim\\SkyrimPrefs.ini",
+        "Name": "Skyrim_SkyrimPrefs.ini",
+        "Size": 3498,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Skyrim\\SkyrimPrefs.ini",
+          "GameVersion": "1.6.640.0",
+          "Hash": "fiMS7vbbpNE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MiW/01hFoaE=",
+        "Meta": "[General]\ngameName=skyrim\nmodID=67077\nfileID=1000214338",
+        "Name": "ENB Organizer-67077-v2-1-1.zip",
+        "Size": 2745841,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Breems",
+          "Description": "ENB Organizer helps you manage and install your ENB/SweetFX/FXAA presets/binaries for any game. It is continuously being expanded to act as a comprehensive ENB tool suite.",
+          "FileID": 1000214338,
+          "GameName": "Skyrim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/110/images/67077-3-1469393623.png",
+          "IsNSFW": false,
+          "ModID": 67077,
+          "Name": "ENB Organizer",
+          "Version": "v2.1.1"
         }
       }
     },
@@ -2060,37 +1981,37 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "NJMZUEBbMjg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=66128\nfileID=275418",
-        "Name": "Proving Honor Companions Quest Progression Fix-66128-1-0-0-1649323357.7z",
-        "Size": 2404,
+        "Hash": "hXsbDbFwuGY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=17056\nfileID=53746",
+        "Name": "Jiub\u0027s Opus-17056-1-0.7z",
+        "Size": 1230,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "celadoneiron",
-          "Description": "Makes sure that Vilkas will greet you when you return with the Fragment of Wuuthrad, even if you didn\u0027t enter Whiterun through the main gate, and allows you to continue the Companions questline normally.",
-          "FileID": 275418,
+          "Author": "Huntermjiolnir",
+          "Description": "Simple mod that adds quest markers for the Side quest Impatience of a Saint.",
+          "FileID": 53746,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/66128/66128-1649323094-158471801.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17056/17056-1525711845-1054747332.png",
           "IsNSFW": false,
-          "ModID": 66128,
-          "Name": "Proving Honor Companions Quest Progression Fix",
-          "Version": "1.0.0"
+          "ModID": 17056,
+          "Name": "Jiub\u0027s Opus",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "TvzBPkbzJjI=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Meshes1.bsa",
-        "Name": "Data_Skyrim - Meshes1.bsa",
-        "Size": 378853391,
+        "Hash": "oIYZPu4jH2g=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Meshes0.bsa",
+        "Name": "Data_Skyrim - Meshes0.bsa",
+        "Size": 1153090124,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Meshes1.bsa",
+          "GameFile": "Data\\Skyrim - Meshes0.bsa",
           "GameVersion": "1.6.640.0",
-          "Hash": "TvzBPkbzJjI="
+          "Hash": "oIYZPu4jH2g="
         }
       }
     },
@@ -2155,58 +2076,37 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "juWRxqIcF2Y=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=2802\nfileID=4160",
-        "Name": "Believable Crime Report Radius-2802-1.7z",
-        "Size": 404,
+        "Hash": "NJMZUEBbMjg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=66128\nfileID=275418",
+        "Name": "Proving Honor Companions Quest Progression Fix-66128-1-0-0-1649323357.7z",
+        "Size": 2404,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Burnout6010",
-          "Description": "Reduces the crime report radius to 1000.",
-          "FileID": 4160,
+          "Author": "celadoneiron",
+          "Description": "Makes sure that Vilkas will greet you when you return with the Fragment of Wuuthrad, even if you didn\u0027t enter Whiterun through the main gate, and allows you to continue the Companions questline normally.",
+          "FileID": 275418,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/79974-0-1478284614.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/66128/66128-1649323094-158471801.png",
           "IsNSFW": false,
-          "ModID": 2802,
-          "Name": "Believable Crime Report Radius",
-          "Version": "1"
+          "ModID": 66128,
+          "Name": "Proving Honor Companions Quest Progression Fix",
+          "Version": "1.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BHZ3E0ymfDw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=4784\nfileID=9722",
-        "Name": "No More Standing Too Close SSE-4784-1-0.rar",
-        "Size": 317,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "azzendix",
-          "Description": "Simple mod that make NPCs never say \u0026#34;Huh?\u0026#34; and step back from you again.",
-          "FileID": 9722,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4784-0-1479685311.jpg",
-          "IsNSFW": false,
-          "ModID": 4784,
-          "Name": "No More Standing Too Close SSE",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "SdaNZjorvPE=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Misc.bsa",
-        "Name": "Data_Skyrim - Misc.bsa",
-        "Size": 204987429,
+        "Hash": "TvzBPkbzJjI=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Meshes1.bsa",
+        "Name": "Data_Skyrim - Meshes1.bsa",
+        "Size": 378853391,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Misc.bsa",
+          "GameFile": "Data\\Skyrim - Meshes1.bsa",
           "GameVersion": "1.6.640.0",
-          "Hash": "SdaNZjorvPE="
+          "Hash": "TvzBPkbzJjI="
         }
       }
     },
@@ -2360,16 +2260,58 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ia6Y2mEquMg=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=High.ini",
-        "Name": "High.ini",
-        "Size": 906,
+        "Hash": "juWRxqIcF2Y=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=2802\nfileID=4160",
+        "Name": "Believable Crime Report Radius-2802-1.7z",
+        "Size": 404,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Burnout6010",
+          "Description": "Reduces the crime report radius to 1000.",
+          "FileID": 4160,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/79974-0-1478284614.png",
+          "IsNSFW": false,
+          "ModID": 2802,
+          "Name": "Believable Crime Report Radius",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BHZ3E0ymfDw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=4784\nfileID=9722",
+        "Name": "No More Standing Too Close SSE-4784-1-0.rar",
+        "Size": 317,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "azzendix",
+          "Description": "Simple mod that make NPCs never say \u0026#34;Huh?\u0026#34; and step back from you again.",
+          "FileID": 9722,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/4784-0-1479685311.jpg",
+          "IsNSFW": false,
+          "ModID": 4784,
+          "Name": "No More Standing Too Close SSE",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SdaNZjorvPE=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Misc.bsa",
+        "Name": "Data_Skyrim - Misc.bsa",
+        "Size": 204987429,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "High.ini",
+          "GameFile": "Data\\Skyrim - Misc.bsa",
           "GameVersion": "1.6.640.0",
-          "Hash": "ia6Y2mEquMg="
+          "Hash": "SdaNZjorvPE="
         }
       }
     },
@@ -2418,53 +2360,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "M9LtyeAVtQE=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=installscript.vdf",
-        "Name": "installscript.vdf",
-        "Size": 648,
+        "Hash": "ia6Y2mEquMg=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=High.ini",
+        "Name": "High.ini",
+        "Size": 906,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "installscript.vdf",
+          "GameFile": "High.ini",
           "GameVersion": "1.6.640.0",
-          "Hash": "M9LtyeAVtQE="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "h/AyfnmxISA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=36132\nfileID=140657",
-        "Name": "No Silly Physics Damage (esl)-36132-2-1589820691.7z",
-        "Size": 368,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Corsafire",
-          "Description": "You will no longer lose HP when walking on dynamic objects such as bones or when walking towards a cart.",
-          "FileID": 140657,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/36132/36132-1589778682-796787749.png",
-          "IsNSFW": false,
-          "ModID": 36132,
-          "Name": "No Silly Physics Damage - Carts Pots Bones etc",
-          "Version": "2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "SwnAPr6pbzg=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Shaders.bsa",
-        "Name": "Data_Skyrim - Shaders.bsa",
-        "Size": 67308970,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Shaders.bsa",
-          "GameVersion": "1.6.640.0",
-          "Hash": "SwnAPr6pbzg="
+          "Hash": "ia6Y2mEquMg="
         }
       }
     },
@@ -2528,6 +2433,143 @@
           "ModID": 3620,
           "Name": "Keyboard Shortcuts Fix",
           "Version": "1.0.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "M9LtyeAVtQE=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=installscript.vdf",
+        "Name": "installscript.vdf",
+        "Size": 648,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "installscript.vdf",
+          "GameVersion": "1.6.640.0",
+          "Hash": "M9LtyeAVtQE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "h/AyfnmxISA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=36132\nfileID=140657",
+        "Name": "No Silly Physics Damage (esl)-36132-2-1589820691.7z",
+        "Size": 368,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Corsafire",
+          "Description": "You will no longer lose HP when walking on dynamic objects such as bones or when walking towards a cart.",
+          "FileID": 140657,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/36132/36132-1589778682-796787749.png",
+          "IsNSFW": false,
+          "ModID": 36132,
+          "Name": "No Silly Physics Damage - Carts Pots Bones etc",
+          "Version": "2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SwnAPr6pbzg=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Shaders.bsa",
+        "Name": "Data_Skyrim - Shaders.bsa",
+        "Size": 67308970,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Shaders.bsa",
+          "GameVersion": "1.6.640.0",
+          "Hash": "SwnAPr6pbzg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VQZGzGy0pCA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=65849\nfileID=274311",
+        "Name": "King Olaf\u0027s Fire Festival Not Ending Fix-65849-0-1-1648899684.7z",
+        "Size": 1635,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wankingSkeever",
+          "Description": "Retroactively fixes The Burning of King Olaf Fire Festival being stuck",
+          "FileID": 274311,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65849/65849-1648899295-1665963620.png",
+          "IsNSFW": false,
+          "ModID": 65849,
+          "Name": "King Olaf\u0027s Fire Festival Not Ending Fix",
+          "Version": "0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PEKf1krhnRA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=11669\nfileID=147181",
+        "Name": "MfgFix-11669-1-5-4-1592988142.7z",
+        "Size": 262533,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Andrelo",
+          "Description": "Fixes \u0026lt;mfg\u0026gt; console command and adds some other fixes.",
+          "FileID": 147181,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/11669-0-1503081803.jpg",
+          "IsNSFW": false,
+          "ModID": 11669,
+          "Name": "Mfg Fix",
+          "Version": "1.6.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ie+y7pwxDBM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=60805\nfileID=345752",
+        "Name": "Base Object Swapper-60805-2-5-1-1672623681.7z",
+        "Size": 5379524,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "SKSE plugin and framework for swapping base objects and references, using config files.",
+          "FileID": 345752,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60805/60805-1640547264-263882935.png",
+          "IsNSFW": false,
+          "ModID": 60805,
+          "Name": "Base Object Swapper",
+          "Version": "1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SUMwy3vxpE8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=77360\nfileID=325255",
+        "Name": "Whose Quest Is It Anyway-77360-1-5-1666211350.zip",
+        "Size": 215604,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "VersuchDrei",
+          "Description": "Conversion of Whose Quest is it Anyway to CLib-NG to create one .dll file that works in all Skyrim SE versions, including AE 1.6.629\u002B.\n\nSwaps the \u0022Quest items cannot be removed...\u0022 message for a more descriptive message informing you which quest the item belongs to.",
+          "FileID": 325255,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/77360/77360-1666210778-938935204.png",
+          "IsNSFW": false,
+          "ModID": 77360,
+          "Name": "Whose Quest is it Anyway NG",
+          "Version": "1.5"
         }
       }
     },
@@ -2629,106 +2671,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VQZGzGy0pCA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=65849\nfileID=274311",
-        "Name": "King Olaf\u0027s Fire Festival Not Ending Fix-65849-0-1-1648899684.7z",
-        "Size": 1635,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "wankingSkeever",
-          "Description": "Retroactively fixes The Burning of King Olaf Fire Festival being stuck",
-          "FileID": 274311,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65849/65849-1648899295-1665963620.png",
-          "IsNSFW": false,
-          "ModID": 65849,
-          "Name": "King Olaf\u0027s Fire Festival Not Ending Fix",
-          "Version": "0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PEKf1krhnRA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=11669\nfileID=147181",
-        "Name": "MfgFix-11669-1-5-4-1592988142.7z",
-        "Size": 262533,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Andrelo",
-          "Description": "Fixes \u0026lt;mfg\u0026gt; console command and adds some other fixes.",
-          "FileID": 147181,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/11669-0-1503081803.jpg",
-          "IsNSFW": false,
-          "ModID": 11669,
-          "Name": "Mfg Fix",
-          "Version": "1.6.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ie+y7pwxDBM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=60805\nfileID=345752",
-        "Name": "Base Object Swapper-60805-2-5-1-1672623681.7z",
-        "Size": 5379524,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "powerofthree",
-          "Description": "SKSE plugin and framework for swapping base objects and references, using config files.",
-          "FileID": 345752,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/60805/60805-1640547264-263882935.png",
-          "IsNSFW": false,
-          "ModID": 60805,
-          "Name": "Base Object Swapper",
-          "Version": "1.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "SUMwy3vxpE8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=77360\nfileID=325255",
-        "Name": "Whose Quest Is It Anyway-77360-1-5-1666211350.zip",
-        "Size": 215604,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VersuchDrei",
-          "Description": "Conversion of Whose Quest is it Anyway to CLib-NG to create one .dll file that works in all Skyrim SE versions, including AE 1.6.629\u002B.\n\nSwaps the \u0022Quest items cannot be removed...\u0022 message for a more descriptive message informing you which quest the item belongs to.",
-          "FileID": 325255,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/77360/77360-1666210778-938935204.png",
-          "IsNSFW": false,
-          "ModID": 77360,
-          "Name": "Whose Quest is it Anyway NG",
-          "Version": "1.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tBVeSwhhyNk=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Medium.ini",
-        "Name": "Medium.ini",
-        "Size": 898,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Medium.ini",
-          "GameVersion": "1.6.640.0",
-          "Hash": "tBVeSwhhyNk="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "3ZTKOygWIkE=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=52239\nfileID=214147",
         "Name": "Labyrinthian Shalidor\u0027s Maze Fixes-52239-0-3-1626070810.7z",
@@ -2744,22 +2686,6 @@
           "ModID": 52239,
           "Name": "Labyrinthian Shalidor\u0027s Maze Fixes",
           "Version": "0.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "VX7KHQ0qSXM=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures0.bsa",
-        "Name": "Data_Skyrim - Textures0.bsa",
-        "Size": 652401558,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures0.bsa",
-          "GameVersion": "1.6.640.0",
-          "Hash": "VX7KHQ0qSXM="
         }
       }
     },
@@ -2808,16 +2734,32 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0DYAzX1tsf8=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures1.bsa",
-        "Name": "Data_Skyrim - Textures1.bsa",
-        "Size": 1511504224,
+        "Hash": "tBVeSwhhyNk=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Medium.ini",
+        "Name": "Medium.ini",
+        "Size": 898,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures1.bsa",
+          "GameFile": "Medium.ini",
           "GameVersion": "1.6.640.0",
-          "Hash": "0DYAzX1tsf8="
+          "Hash": "tBVeSwhhyNk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VX7KHQ0qSXM=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures0.bsa",
+        "Name": "Data_Skyrim - Textures0.bsa",
+        "Size": 652401558,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures0.bsa",
+          "GameVersion": "1.6.640.0",
+          "Hash": "VX7KHQ0qSXM="
         }
       }
     },
@@ -2887,16 +2829,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uutAUjvgpvg=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures2.bsa",
-        "Name": "Data_Skyrim - Textures2.bsa",
-        "Size": 1346030841,
+        "Hash": "0DYAzX1tsf8=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures1.bsa",
+        "Name": "Data_Skyrim - Textures1.bsa",
+        "Size": 1511504224,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures2.bsa",
+          "GameFile": "Data\\Skyrim - Textures1.bsa",
           "GameVersion": "1.6.640.0",
-          "Hash": "uutAUjvgpvg="
+          "Hash": "0DYAzX1tsf8="
         }
       }
     },
@@ -2924,37 +2866,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WehYle6/1vw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=17561\nfileID=55628",
-        "Name": "UIExtensions v1-2-0-17561-1-2-0.7z",
-        "Size": 459887,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Expired",
-          "Description": "Adds various custom menus to Skyrim for modder use.",
-          "FileID": 55628,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17561/57046-1527360500-1073676609.jpeg",
-          "IsNSFW": false,
-          "ModID": 17561,
-          "Name": "UIExtensions",
-          "Version": "1.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "miIWAsh+4As=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures3.bsa",
-        "Name": "Data_Skyrim - Textures3.bsa",
-        "Size": 1401677791,
+        "Hash": "uutAUjvgpvg=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures2.bsa",
+        "Name": "Data_Skyrim - Textures2.bsa",
+        "Size": 1346030841,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures3.bsa",
+          "GameFile": "Data\\Skyrim - Textures2.bsa",
           "GameVersion": "1.6.640.0",
-          "Hash": "miIWAsh+4As="
+          "Hash": "uutAUjvgpvg="
         }
       }
     },
@@ -3024,37 +2945,37 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "JDm2TkniWbc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=1473\nfileID=1552",
-        "Name": "Modern Brawl Bug Fix v104-1473-1-04.zip",
-        "Size": 5445,
+        "Hash": "WehYle6/1vw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=17561\nfileID=55628",
+        "Name": "UIExtensions v1-2-0-17561-1-2-0.7z",
+        "Size": 459887,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Enai Siaion",
-          "Description": "The Modern Brawl Bug Fix is the ultimate solution to brawls that break instantly or turn into real fights. Compatible with any mod.",
-          "FileID": 1552,
+          "Author": "Expired",
+          "Description": "Adds various custom menus to Skyrim for modder use.",
+          "FileID": 55628,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/77465-0-1469738982.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17561/57046-1527360500-1073676609.jpeg",
           "IsNSFW": false,
-          "ModID": 1473,
-          "Name": "Modern Brawl Bug Fix",
-          "Version": "1.0.4"
+          "ModID": 17561,
+          "Name": "UIExtensions",
+          "Version": "1.2.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8nHuDbnzCw0=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures4.bsa",
-        "Name": "Data_Skyrim - Textures4.bsa",
-        "Size": 1265325033,
+        "Hash": "miIWAsh+4As=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures3.bsa",
+        "Name": "Data_Skyrim - Textures3.bsa",
+        "Size": 1401677791,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures4.bsa",
+          "GameFile": "Data\\Skyrim - Textures3.bsa",
           "GameVersion": "1.6.640.0",
-          "Hash": "8nHuDbnzCw0="
+          "Hash": "miIWAsh+4As="
         }
       }
     },
@@ -3124,32 +3045,37 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Wsq6jhOx4YM=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Skyrim.ccc",
-        "Name": "Skyrim.ccc",
-        "Size": 2018,
+        "Hash": "JDm2TkniWbc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=1473\nfileID=1552",
+        "Name": "Modern Brawl Bug Fix v104-1473-1-04.zip",
+        "Size": 5445,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Skyrim.ccc",
-          "GameVersion": "1.6.640.0",
-          "Hash": "Wsq6jhOx4YM="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Enai Siaion",
+          "Description": "The Modern Brawl Bug Fix is the ultimate solution to brawls that break instantly or turn into real fights. Compatible with any mod.",
+          "FileID": 1552,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/77465-0-1469738982.jpg",
+          "IsNSFW": false,
+          "ModID": 1473,
+          "Name": "Modern Brawl Bug Fix",
+          "Version": "1.0.4"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "gGA1UynjlR8=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures5.bsa",
-        "Name": "Data_Skyrim - Textures5.bsa",
-        "Size": 809121183,
+        "Hash": "8nHuDbnzCw0=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures4.bsa",
+        "Name": "Data_Skyrim - Textures4.bsa",
+        "Size": 1265325033,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures5.bsa",
+          "GameFile": "Data\\Skyrim - Textures4.bsa",
           "GameVersion": "1.6.640.0",
-          "Hash": "gGA1UynjlR8="
+          "Hash": "8nHuDbnzCw0="
         }
       }
     },
@@ -3240,16 +3166,32 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "7YxJe07jHiI=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures6.bsa",
-        "Name": "Data_Skyrim - Textures6.bsa",
-        "Size": 107211187,
+        "Hash": "Wsq6jhOx4YM=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Skyrim.ccc",
+        "Name": "Skyrim.ccc",
+        "Size": 2018,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures6.bsa",
+          "GameFile": "Skyrim.ccc",
           "GameVersion": "1.6.640.0",
-          "Hash": "7YxJe07jHiI="
+          "Hash": "Wsq6jhOx4YM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gGA1UynjlR8=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures5.bsa",
+        "Name": "Data_Skyrim - Textures5.bsa",
+        "Size": 809121183,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures5.bsa",
+          "GameVersion": "1.6.640.0",
+          "Hash": "gGA1UynjlR8="
         }
       }
     },
@@ -3277,32 +3219,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6arNJLzjd8U=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=SkyrimSE.exe",
-        "Name": "SkyrimSE.exe",
-        "Size": 35369752,
+        "Hash": "7YxJe07jHiI=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures6.bsa",
+        "Name": "Data_Skyrim - Textures6.bsa",
+        "Size": 107211187,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "SkyrimSE.exe",
+          "GameFile": "Data\\Skyrim - Textures6.bsa",
           "GameVersion": "1.6.640.0",
-          "Hash": "6arNJLzjd8U="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "M2lXyN1Vo8A=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures7.bsa",
-        "Name": "Data_Skyrim - Textures7.bsa",
-        "Size": 700733354,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures7.bsa",
-          "GameVersion": "1.6.640.0",
-          "Hash": "M2lXyN1Vo8A="
+          "Hash": "7YxJe07jHiI="
         }
       }
     },
@@ -3345,6 +3271,80 @@
           "ModID": 31146,
           "Name": "Animation Limit Crash Fix SSE",
           "Version": "0.3-Beta"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2g9U9p2xwx8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=77394\nfileID=325348",
+        "Name": "I\u0027m walkin\u0027 here-77394-1-7-1666268388.zip",
+        "Size": 154522,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "VersuchDrei",
+          "Description": "Conversion of I\u0027m walkin\u0027 here to CLib-NG to create one .dll file that works in all Skyrim SE versions, including AE 1.6.629\u002B.\n\nPrevents NPCs from pushing you while YOU\u0027RE WALKIN\u0027 \u0027ERE and having a chat with your friends :)",
+          "FileID": 325348,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/77394/77394-1666268237-755725018.png",
+          "IsNSFW": false,
+          "ModID": 77394,
+          "Name": "I\u0027m walkin\u0027 here NG",
+          "Version": "1.7"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6arNJLzjd8U=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=SkyrimSE.exe",
+        "Name": "SkyrimSE.exe",
+        "Size": 35369752,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "SkyrimSE.exe",
+          "GameVersion": "1.6.640.0",
+          "Hash": "6arNJLzjd8U="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "M2lXyN1Vo8A=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures7.bsa",
+        "Name": "Data_Skyrim - Textures7.bsa",
+        "Size": 700733354,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures7.bsa",
+          "GameVersion": "1.6.640.0",
+          "Hash": "M2lXyN1Vo8A="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+qizJ8m9UHU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=67015\nfileID=279302",
+        "Name": "Combat Music Fix SKSE - SSE-67015-1-0-1650775442.7z",
+        "Size": 224568,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "dTry",
+          "Description": "Simple SKSE plugin to fix the never-ending combat music bug.",
+          "FileID": 279302,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67015/67015-1650772664-364532617.png",
+          "IsNSFW": false,
+          "ModID": 67015,
+          "Name": "Combat Music Fix SKSE",
+          "Version": "1.0"
         }
       }
     }
