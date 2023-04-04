@@ -1,12 +1,10 @@
 ## Validation Report - Do Not Go Gentle (Animonculory/dngg)
 
 
-### Invalid (2)
-*  [_Fuse00SirenHair.rar](https://www.patreon.com/file?h=75589695&i=12484434)
-*  [_Fuse00TaurielHair.rar](https://www.patreon.com/file?h=62190804&i=11074106)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1636)
+### Valid (1638)
 *  [_Fuse00_ArmorMelonyCBBE.rar](https://www.patreon.com/file?h=67711235&i=10980531)
 *  [_Fuse00_ArmorRagnar_Vanilla.rar](https://www.patreon.com/file?h=70803544&i=11554150)
 *  [_Fuse00_ArmorRogue.rar](https://www.patreon.com/file?h=67007517&i=10861552)
@@ -14,6 +12,8 @@
 *  [_Fuse00_ArmorSonaVanillaMale_V1.2.rar](https://www.patreon.com/file?h=68902488&i=13158956)
 *  [_Fuse00AmberHair.rar](https://www.patreon.com/file?h=76570894&i=12673922)
 *  [_Fuse00HairPackBraided03.rar](https://www.patreon.com/file?h=64262256&i=10354948)
+*  [_Fuse00SirenHair.rar](https://www.patreon.com/file?h=75589695&i=12484434)
+*  [_Fuse00TaurielHair.rar](https://www.patreon.com/file?h=62190804&i=11074106)
 *  [_Fuse00YenHair_1.2.rar](https://www.patreon.com/file?h=71131410&i=11736475)
 *  [- Meshes - important-58370-1-0-1637050362.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=241886)
 *  [(FOMOD) Battlestaves replacer - main-70104-1-1-1656092694.zip](https://www.nexusmods.com/skyrimspecialedition/mods/70104/?tab=files&file_id=293724)

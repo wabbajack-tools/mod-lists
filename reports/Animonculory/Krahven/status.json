@@ -15133,7 +15133,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "Mirrored",
       "Original": {
         "Hash": "t9h488AZ0Cw=",
         "Meta": "[General]\ndirectURL=https://build.wabbajack.org/authored_files/direct_link/Serenity 3DNPC BSA Proper.7z_5f4f4e64-4c67-42ee-b249-de8277cc67a5",
@@ -15143,6 +15143,16 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://build.wabbajack.org/authored_files/direct_link/Serenity 3DNPC BSA Proper.7z_5f4f4e64-4c67-42ee-b249-de8277cc67a5"
+        }
+      },
+      "PatchedFrom": {
+        "Hash": "t9h488AZ0Cw=",
+        "Meta": "",
+        "Name": "Serenity 3DNPC BSA Proper.7z",
+        "Size": 2213970317,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://mirror.wabbajack.org/b7d878f3c019d02c"
         }
       }
     },
