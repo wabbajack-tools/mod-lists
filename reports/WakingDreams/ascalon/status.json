@@ -2,7 +2,7 @@
   "MachineURL": "WakingDreams/ascalon",
   "Name": "Ascalon",
   "Version": "1.5.1",
-  "ModListHash": "SX5o2c1J2rE=",
+  "ModListHash": "CG6b5/mBgmU=",
   "Archives": [
     {
       "Status": "Valid",
@@ -21,21 +21,79 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "74Zht7RqzE8=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=803\nfileID=3692",
-        "Name": "Carry Weight Tweaks-803-2-1680330531.7z",
-        "Size": 1487,
+        "Hash": "74h9hFiOIoU=",
+        "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_dragonsdogma_v0476.zip\ndirectURLHeaders=Referer:http://enbdev.com/download_mod_dragonsdogma.htm",
+        "Name": "enbseries_dragonsdogma_v0476.zip",
+        "Size": 1910496,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [
+            "Referer:http://enbdev.com/download_mod_dragonsdogma.htm"
+          ],
+          "Url": "http://enbdev.com/enbseries_dragonsdogma_v0476.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "otU1vlLnTII=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=227\nfileID=1623",
+        "Name": "With Fire -ReShade- v2.0-227-2-0.rar",
+        "Size": 22242076,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Hariwulf",
+          "Description": "An adaptive, immersive and atmospheric ReShade preset that will enhance the look and feel of this game.\r\n\nIt also happen to be Performance-Friendly.\r\n\n\r\n\nTAKE MY FIRE!",
+          "FileID": 1623,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/227-3-1455978178.jpg",
+          "IsNSFW": false,
+          "ModID": 227,
+          "Name": "With Fire -ReShade-",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jg2cT23d4rg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=31720\nfileID=359947",
+        "Name": "Root Builder 4.4.2-31720-4-4-2-1676456105.zip",
+        "Size": 823695,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kezyma",
+          "Description": "Root Builder is a Mod Organizer 2 plugin that allows you to manage files in the base game folder through Mod Organizer, leaving your game folder in pristine, vanilla condition!",
+          "FileID": 359947,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31720/31720-1640621042-2144679620.png",
+          "IsNSFW": false,
+          "ModID": 31720,
+          "Name": "Kezyma\u0027s Root Builder for Mod Organizer",
+          "Version": "4.3.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tuzoSYVJYPs=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=802\nfileID=3691",
+        "Name": "Sprinting Tweaks-802-2-1680330269.7z",
+        "Size": 1098,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Maelstrom",
-          "Description": "Multiple stage project of mine that involves taking common \u0027tweaks\u0027 in DD:DA, recreating them while also providing streamlined installation instructions and merge-friendly structures in an effort to make modding easier.\n\n\n\nThis will cover Carry Weight. See Description.",
-          "FileID": 3692,
+          "Description": "Multiple stage project of mine that involves taking common \u0027tweaks\u0027 in DD:DA, recreating them while also providing streamlined installation instructions and merge-friendly structures in an effort to make modding easier.\n\n\n\nThis will cover Stamina Drain while Sprinting. See Description.",
+          "FileID": 3691,
           "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/803/803-1668760909-807118635.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/802/802-1668760974-535541697.jpeg",
           "IsNSFW": false,
-          "ModID": 803,
-          "Name": "Maelstrom\u0027s MME Series 2 - Carry Weight",
-          "Version": "2"
+          "ModID": 802,
+          "Name": "Maelstrom\u0027s MME Series 1 - Sprinting Stamina Drain",
+          "Version": "1.1"
         }
       }
     },
@@ -84,21 +142,1820 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "jg2cT23d4rg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=31720\nfileID=359947",
-        "Name": "Root Builder 4.4.2-31720-4-4-2-1676456105.zip",
-        "Size": 823695,
+        "Hash": "XWjbenbAw54=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=77\nfileID=1220",
+        "Name": "Rudy ENB for DDDA 1.5 ( v0300 )-77-1-5.rar",
+        "Size": 89144,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kezyma",
-          "Description": "Root Builder is a Mod Organizer 2 plugin that allows you to manage files in the base game folder through Mod Organizer, leaving your game folder in pristine, vanilla condition!",
-          "FileID": 359947,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31720/31720-1640621042-2144679620.png",
+          "Author": "Rudy102",
+          "Description": "Preset for the latest ENB libraries, providing good performance and, of course, stunning visuals :)",
+          "FileID": 1220,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/77-2-1454458067.jpg",
           "IsNSFW": false,
-          "ModID": 31720,
-          "Name": "Kezyma\u0027s Root Builder for Mod Organizer",
-          "Version": "4.3.3"
+          "ModID": 77,
+          "Name": "Rudy ENB for DDDA",
+          "Version": "1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vYo7rF48wvc=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage200\\stage200_nav.arc",
+        "Name": "nativePC_rom_stage_stage200_stage200_nav.arc",
+        "Size": 261264,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage200\\stage200_nav.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "vYo7rF48wvc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "aYFa14n1fR4=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage200\\stage250_om.arc",
+        "Name": "nativePC_rom_stage_stage200_stage250_om.arc",
+        "Size": 4171676,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage200\\stage250_om.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "aYFa14n1fR4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DjlBG8prcAk=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage300\\stage370_om.arc",
+        "Name": "nativePC_rom_stage_stage300_stage370_om.arc",
+        "Size": 29787402,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage300\\stage370_om.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "DjlBG8prcAk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hSztfgyu/eI=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage400\\stage406.arc",
+        "Name": "nativePC_rom_stage_stage400_stage406.arc",
+        "Size": 34228608,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage400\\stage406.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "hSztfgyu/eI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4wh+ctlUIxE=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage400\\stage420_nav.arc",
+        "Name": "nativePC_rom_stage_stage400_stage420_nav.arc",
+        "Size": 181505,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage400\\stage420_nav.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "4wh+ctlUIxE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Z2B+GjT+o3k=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage400\\stage431_om.arc",
+        "Name": "nativePC_rom_stage_stage400_stage431_om.arc",
+        "Size": 32484971,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage400\\stage431_om.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "Z2B+GjT+o3k="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "flDlKv39DB4=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage400\\stage445.arc",
+        "Name": "nativePC_rom_stage_stage400_stage445.arc",
+        "Size": 95039600,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage400\\stage445.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "flDlKv39DB4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EOm3KNFAjrg=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage500\\stage502.arc",
+        "Name": "nativePC_rom_stage_stage500_stage502.arc",
+        "Size": 36632398,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage500\\stage502.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "EOm3KNFAjrg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mHOFqWI2DpY=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage600\\stage604_nav.arc",
+        "Name": "nativePC_rom_stage_stage600_stage604_nav.arc",
+        "Size": 109776,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage600\\stage604_nav.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "mHOFqWI2DpY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nh05FRCvLiQ=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage600\\stage615_nav.arc",
+        "Name": "nativePC_rom_stage_stage600_stage615_nav.arc",
+        "Size": 119799,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage600\\stage615_nav.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "nh05FRCvLiQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "S0CvjXiYUPs=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage700\\stage705.arc",
+        "Name": "nativePC_rom_stage_stage700_stage705.arc",
+        "Size": 77170120,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage700\\stage705.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "S0CvjXiYUPs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4gN8e96K9GQ=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=5\nfileID=1444",
+        "Name": "Full Compilation for Male and Female NMM-5-1-41.rar",
+        "Size": 48864331,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Akalor",
+          "Description": "Makes some Items blacker so Assassin Characters have actually some Dark Clothes/Armor....\r\n\nMale and Female Variations available!\r\n\nAlso: Turns some Pieces Invisible",
+          "FileID": 1444,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/5-0-1452896023.png",
+          "IsNSFW": false,
+          "ModID": 5,
+          "Name": "Black ReTextures and more",
+          "Version": "1.41"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "v+/ISeEvMUM=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=721\nfileID=3425",
+        "Name": "LDK\u0027s Armory-721-1-0-1662365632.zip",
+        "Size": 311345491,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LDKSuperDante",
+          "Description": "400\u002B pieces of equipment that I ported over better normal maps for. Many enemies and NPCs have better normal maps for their equipment that they share with the player. In short, the player will usually have a squished texture such as 512x256, where an enemy will have 512x512 or higher. I hope this little mod helps out with your Fashion\u0027s Dogma!",
+          "FileID": 3425,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/721/721-1662368547-1643242076.jpeg",
+          "IsNSFW": false,
+          "ModID": 721,
+          "Name": "LDK\u0027s Armory",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+gZT5PyhwiU=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=467\nfileID=2427",
+        "Name": "DDDA - MEGAHAIR AND BEARDS 2K-467-1-01-1569634617.rar",
+        "Size": 240877138,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Lukasborn13",
+          "Description": "Mod that changes the textures of the hair in game, the original files have 512x512 pixels, this one have 2048x2048 pixels.\n\ni used a little upscaling and some edition that make them looks better.",
+          "FileID": 2427,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/467/467-1549045564-775969089.jpeg",
+          "IsNSFW": false,
+          "ModID": 467,
+          "Name": "DDDA - MEGAHAIR AND BEARDS 2K",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qLgnWp1nWsw=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=494\nfileID=2430",
+        "Name": "Real Steel Greatsword-494-1-0-1571383295.zip",
+        "Size": 23855951,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LDKSuperDante",
+          "Description": "The first of many weapons to be made in my first attempt at making my own textures rather than just upscaling. Read the Description for more info! Update: Added more weapons, and I\u0027ve also added screenshots of projects not yet released!",
+          "FileID": 2430,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/494/494-1564535493-292538279.jpeg",
+          "IsNSFW": false,
+          "ModID": 494,
+          "Name": "Real Steel",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3IA8jK0yJlw=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\area\\area_index05_high.arc",
+        "Name": "nativePC_rom_stage_stage100_area_area_index05_high.arc",
+        "Size": 13698720,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\area\\area_index05_high.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "3IA8jK0yJlw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eRXIAHKXwow=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\fm\\fm_index07_high.arc",
+        "Name": "nativePC_rom_stage_stage100_fm_fm_index07_high.arc",
+        "Size": 4482778,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\fm\\fm_index07_high.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "eRXIAHKXwow="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ro0w7zI9WcY=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\splitfmfore\\f00_fore.arc",
+        "Name": "nativePC_rom_stage_stage100_splitfmfore_f00_fore.arc",
+        "Size": 390203,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\splitfmfore\\f00_fore.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "ro0w7zI9WcY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Sh/vmug3d6o=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=733\nfileID=3282",
+        "Name": "1.3 Update-733-1-3-1656306474.zip",
+        "Size": 49325011,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Acetaris",
+          "Description": "Replace 3DA battle theme / boss theme with their DDO counter part. \n\nI don\u0027t plan to replace the whole 3DA ost, but mostly battle theme.",
+          "FileID": 3282,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/733/733-1656142842-1563217932.jpeg",
+          "IsNSFW": false,
+          "ModID": 733,
+          "Name": "Dragon\u0027s Dogma online combat music project",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "js4zDWlsAM0=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=94\nfileID=1025",
+        "Name": "Dragon\u0027s Dogma Thematic Mod Coils of Light Version-94-3.zip",
+        "Size": 69086531,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ransom Seraph - BladEye",
+          "Description": "Replaces the Main Menu Theme Song with awesome combined Dragon\u0027s Dogma tracks and more!\n\nThe songs have been intertwined to make a seamless high quality Dragon\u0027s Dogma theme song!",
+          "FileID": 1025,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/94-0-1453836129.jpg",
+          "IsNSFW": false,
+          "ModID": 94,
+          "Name": "Dragon\u0027s Dogma Thematic Title Music Mod",
+          "Version": "2018-Final"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tTCZaxHqKDs=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=479\nfileID=2945",
+        "Name": "4k Hellfire Armor-479-1-0-1616130134.zip",
+        "Size": 119122021,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LDKSuperDante",
+          "Description": "July 15th, 2022 Update: Per a few user requests, I\u0027ve done my best to recreate the Easy Clothing ID mod with my HD Icons. These files are also available on my Cleaner Female Body Texture page, since I merged the HD icons into my latest skin texture release.",
+          "FileID": 2945,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/479/479-1575704498-1987086333.jpeg",
+          "IsNSFW": false,
+          "ModID": 479,
+          "Name": "Remastering Dragon\u0027s Dogma Sneak Peek",
+          "Version": "0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yN3sz0E6GMo=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=489\nfileID=2843",
+        "Name": "4k Structures (fm files)-489-1-0-1606867947.zip",
+        "Size": 1625692685,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LDKSuperDante",
+          "Description": "August 4th 2020: Added a much more performance friendly version of the Gransys Environment textures, set to 4k instead of 6k, so it now uses less than half the resources",
+          "FileID": 2843,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/489/489-1559428904-1319574705.jpeg",
+          "IsNSFW": false,
+          "ModID": 489,
+          "Name": "Remastering Dragon\u0027s Dogma Sneak Peek 2 - Gransys",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+u160b6p+BQ=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=steam_api.dll",
+        "Name": "steam_api.dll",
+        "Size": 191168,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "steam_api.dll",
+          "GameVersion": "1,0,0,0",
+          "Hash": "+u160b6p+BQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "r9do2a9aLb0=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m40\\st100_44m55n_lot.arc",
+        "Name": "nativePC_rom_stage_stage100_lot_m40_st100_44m55n_lot.arc",
+        "Size": 32971,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m40\\st100_44m55n_lot.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "r9do2a9aLb0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Pc2tqmqE6jg=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m40\\st100_47m54n_lot.arc",
+        "Name": "nativePC_rom_stage_stage100_lot_m40_st100_47m54n_lot.arc",
+        "Size": 33368,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m40\\st100_47m54n_lot.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "Pc2tqmqE6jg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bwKMwch1r6Q=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m40\\st100_49m52n_lot.arc",
+        "Name": "nativePC_rom_stage_stage100_lot_m40_st100_49m52n_lot.arc",
+        "Size": 33445,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m40\\st100_49m52n_lot.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "bwKMwch1r6Q="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gX/xSGhhVZc=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m50\\st100_50m50n_lot.arc",
+        "Name": "nativePC_rom_stage_stage100_lot_m50_st100_50m50n_lot.arc",
+        "Size": 33901,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m50\\st100_50m50n_lot.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "gX/xSGhhVZc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FWNlseRI/2A=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m50\\st100_51m51n_lot.arc",
+        "Name": "nativePC_rom_stage_stage100_lot_m50_st100_51m51n_lot.arc",
+        "Size": 34571,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m50\\st100_51m51n_lot.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "FWNlseRI/2A="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "X49+pL8IPaw=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m50\\st100_52m52n_lot.arc",
+        "Name": "nativePC_rom_stage_stage100_lot_m50_st100_52m52n_lot.arc",
+        "Size": 32923,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m50\\st100_52m52n_lot.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "X49+pL8IPaw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EbPPRRWHLNw=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m50\\st100_54m48n_lot.arc",
+        "Name": "nativePC_rom_stage_stage100_lot_m50_st100_54m48n_lot.arc",
+        "Size": 34007,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m50\\st100_54m48n_lot.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "EbPPRRWHLNw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MfeWQESRrXg=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m50\\st100_56m50n_lot.arc",
+        "Name": "nativePC_rom_stage_stage100_lot_m50_st100_56m50n_lot.arc",
+        "Size": 33373,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m50\\st100_56m50n_lot.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "MfeWQESRrXg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FUYLfXF6psA=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m60\\st100_60m49n_lot.arc",
+        "Name": "nativePC_rom_stage_stage100_lot_m60_st100_60m49n_lot.arc",
+        "Size": 33291,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m60\\st100_60m49n_lot.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "FUYLfXF6psA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Jb45FPqkig4=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m60\\st100_62m50n_lot.arc",
+        "Name": "nativePC_rom_stage_stage100_lot_m60_st100_62m50n_lot.arc",
+        "Size": 33320,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m60\\st100_62m50n_lot.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "Jb45FPqkig4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gBvwXtd5aUo=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m60\\st100_64m46n_lot.arc",
+        "Name": "nativePC_rom_stage_stage100_lot_m60_st100_64m46n_lot.arc",
+        "Size": 32866,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m60\\st100_64m46n_lot.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "gBvwXtd5aUo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nWxz9WNAe18=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m60\\st100_65m50n_lot.arc",
+        "Name": "nativePC_rom_stage_stage100_lot_m60_st100_65m50n_lot.arc",
+        "Size": 33187,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m60\\st100_65m50n_lot.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "nWxz9WNAe18="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fpcRKeBGHeU=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m60\\st100_67m47n_lot.arc",
+        "Name": "nativePC_rom_stage_stage100_lot_m60_st100_67m47n_lot.arc",
+        "Size": 32948,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m60\\st100_67m47n_lot.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "fpcRKeBGHeU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QL84/t8dYUc=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m40\\n30\\st100_47m39n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m40_n30_st100_47m39n.arc",
+        "Size": 35688,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m40\\n30\\st100_47m39n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "QL84/t8dYUc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GW3B9pUS4J0=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m40\\n40\\st100_49m40n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m40_n40_st100_49m40n.arc",
+        "Size": 61623,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m40\\n40\\st100_49m40n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "GW3B9pUS4J0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wX97fzASrDQ=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m40\\n50\\st100_43m54n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m40_n50_st100_43m54n.arc",
+        "Size": 3017579,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m40\\n50\\st100_43m54n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "wX97fzASrDQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4GXVTMourNg=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m40\\n50\\st100_45m56n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m40_n50_st100_45m56n.arc",
+        "Size": 3113687,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m40\\n50\\st100_45m56n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "4GXVTMourNg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8p8aHghvPr0=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m40\\n50\\st100_47m54n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m40_n50_st100_47m54n.arc",
+        "Size": 2038063,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m40\\n50\\st100_47m54n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "8p8aHghvPr0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KOjBDHAnsbI=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m40\\n50\\st100_49m53n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m40_n50_st100_49m53n.arc",
+        "Size": 4028633,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m40\\n50\\st100_49m53n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "KOjBDHAnsbI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9i+ZBUMMi90=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m50\\n30\\st100_51m38n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m50_n30_st100_51m38n.arc",
+        "Size": 1853906,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m50\\n30\\st100_51m38n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "9i+ZBUMMi90="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qZVWfr8w0Ls=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m50\\n30\\st100_56m39n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m50_n30_st100_56m39n.arc",
+        "Size": 34650,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m50\\n30\\st100_56m39n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "qZVWfr8w0Ls="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6p13Sgf4fqs=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m50\\n40\\st100_51m45n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m50_n40_st100_51m45n.arc",
+        "Size": 2797924,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m50\\n40\\st100_51m45n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "6p13Sgf4fqs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "G0FAoXzl6/g=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m50\\n40\\st100_53m41n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m50_n40_st100_53m41n.arc",
+        "Size": 1467951,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m50\\n40\\st100_53m41n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "G0FAoXzl6/g="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2yDlQH7eVLM=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m50\\n40\\st100_54m47n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m50_n40_st100_54m47n.arc",
+        "Size": 2641902,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m50\\n40\\st100_54m47n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "2yDlQH7eVLM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DP4kNAv7AIw=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m50\\n40\\st100_56m44n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m50_n40_st100_56m44n.arc",
+        "Size": 797530,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m50\\n40\\st100_56m44n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "DP4kNAv7AIw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yYjA41gp2KM=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m50\\n50\\st100_50m54n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m50_n50_st100_50m54n.arc",
+        "Size": 1754893,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m50\\n50\\st100_50m54n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "yYjA41gp2KM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TLLr3ZydqRQ=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m50\\n50\\st100_53m54n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m50_n50_st100_53m54n.arc",
+        "Size": 825165,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m50\\n50\\st100_53m54n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "TLLr3ZydqRQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eISVJAR+CcQ=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m50\\n50\\st100_56m52n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m50_n50_st100_56m52n.arc",
+        "Size": 3356538,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m50\\n50\\st100_56m52n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "eISVJAR+CcQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yAFJzoTm93c=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m50\\n50\\st100_59m53n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m50_n50_st100_59m53n.arc",
+        "Size": 689174,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m50\\n50\\st100_59m53n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "yAFJzoTm93c="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Xb10iGYn6M4=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_60m41n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m60_n40_st100_60m41n.arc",
+        "Size": 1276174,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_60m41n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "Xb10iGYn6M4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "S35huSZj70s=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_61m49n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m60_n40_st100_61m49n.arc",
+        "Size": 3912504,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_61m49n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "S35huSZj70s="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TSRE6BGIi/M=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_63m45n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m60_n40_st100_63m45n.arc",
+        "Size": 9435479,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_63m45n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "TSRE6BGIi/M="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7u4XhCjnQfs=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_65m41n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m60_n40_st100_65m41n.arc",
+        "Size": 4321893,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_65m41n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "7u4XhCjnQfs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LiQe1Fzciws=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_66m47n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m60_n40_st100_66m47n.arc",
+        "Size": 5307598,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_66m47n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "LiQe1Fzciws="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BCzU36b90/Q=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_68m43n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m60_n40_st100_68m43n.arc",
+        "Size": 6105863,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_68m43n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "BCzU36b90/Q="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GWkOCmjWAUc=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_69m49n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m60_n40_st100_69m49n.arc",
+        "Size": 633545,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_69m49n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "GWkOCmjWAUc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "w6a4wKnnzss=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m60\\n50\\st100_62m54n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m60_n50_st100_62m54n.arc",
+        "Size": 2329141,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m60\\n50\\st100_62m54n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "w6a4wKnnzss="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "I/XmGyxNtWg=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m60\\n50\\st100_65m52n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m60_n50_st100_65m52n.arc",
+        "Size": 559690,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m60\\n50\\st100_65m52n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "I/XmGyxNtWg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oTXZnye9Wtc=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m70\\n40\\st100_70m42n.arc",
+        "Name": "nativePC_rom_stage_stage100_split_m70_n40_st100_70m42n.arc",
+        "Size": 2045807,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m70\\n40\\st100_70m42n.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "oTXZnye9Wtc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2ozxkRzpqVI=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m40\\n30\\st100_47m39n_sub.arc",
+        "Name": "nativePC_rom_stage_stage100_split_sub_m40_n30_st100_47m39n_sub.arc",
+        "Size": 196611,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m40\\n30\\st100_47m39n_sub.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "2ozxkRzpqVI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fzQHDjzGUXI=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m40\\n50\\st100_42m54n_sub.arc",
+        "Name": "nativePC_rom_stage_stage100_split_sub_m40_n50_st100_42m54n_sub.arc",
+        "Size": 189434,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m40\\n50\\st100_42m54n_sub.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "fzQHDjzGUXI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CpI02oi77Ac=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m40\\n50\\st100_45m54n_sub.arc",
+        "Name": "nativePC_rom_stage_stage100_split_sub_m40_n50_st100_45m54n_sub.arc",
+        "Size": 7540073,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m40\\n50\\st100_45m54n_sub.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "CpI02oi77Ac="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "amfT73WtDVc=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m40\\n50\\st100_47m53n_sub.arc",
+        "Name": "nativePC_rom_stage_stage100_split_sub_m40_n50_st100_47m53n_sub.arc",
+        "Size": 21032709,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m40\\n50\\st100_47m53n_sub.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "amfT73WtDVc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "s1u9WMjpD9o=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m40\\n50\\st100_49m52n_sub.arc",
+        "Name": "nativePC_rom_stage_stage100_split_sub_m40_n50_st100_49m52n_sub.arc",
+        "Size": 21109066,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m40\\n50\\st100_49m52n_sub.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "s1u9WMjpD9o="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iWsp0+Zwejs=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n30\\st100_52m37n_sub.arc",
+        "Name": "nativePC_rom_stage_stage100_split_sub_m50_n30_st100_52m37n_sub.arc",
+        "Size": 196618,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n30\\st100_52m37n_sub.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "iWsp0+Zwejs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eWXrqNgaUR8=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n40\\st100_51m41n_sub.arc",
+        "Name": "nativePC_rom_stage_stage100_split_sub_m50_n40_st100_51m41n_sub.arc",
+        "Size": 196727,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n40\\st100_51m41n_sub.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "eWXrqNgaUR8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tiflRz8KbWk=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n40\\st100_52m47n_sub.arc",
+        "Name": "nativePC_rom_stage_stage100_split_sub_m50_n40_st100_52m47n_sub.arc",
+        "Size": 19534112,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n40\\st100_52m47n_sub.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "tiflRz8KbWk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mOODZb9YhfU=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n40\\st100_54m45n_sub.arc",
+        "Name": "nativePC_rom_stage_stage100_split_sub_m50_n40_st100_54m45n_sub.arc",
+        "Size": 18847089,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n40\\st100_54m45n_sub.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "mOODZb9YhfU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1OlkgtbXFlM=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n40\\st100_56m48n_sub.arc",
+        "Name": "nativePC_rom_stage_stage100_split_sub_m50_n40_st100_56m48n_sub.arc",
+        "Size": 7525013,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n40\\st100_56m48n_sub.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "1OlkgtbXFlM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KAXIVnBkbMI=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n50\\st100_51m52n_sub.arc",
+        "Name": "nativePC_rom_stage_stage100_split_sub_m50_n50_st100_51m52n_sub.arc",
+        "Size": 21306326,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n50\\st100_51m52n_sub.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "KAXIVnBkbMI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2SaH7ocS1Zg=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n50\\st100_54m53n_sub.arc",
+        "Name": "nativePC_rom_stage_stage100_split_sub_m50_n50_st100_54m53n_sub.arc",
+        "Size": 307194,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n50\\st100_54m53n_sub.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "2SaH7ocS1Zg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cRRkXeQWr8Y=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n50\\st100_58m50n_sub.arc",
+        "Name": "nativePC_rom_stage_stage100_split_sub_m50_n50_st100_58m50n_sub.arc",
+        "Size": 23225143,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n50\\st100_58m50n_sub.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "cRRkXeQWr8Y="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KFT8Yjq79lM=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n40\\st100_60m43n_sub.arc",
+        "Name": "nativePC_rom_stage_stage100_split_sub_m60_n40_st100_60m43n_sub.arc",
+        "Size": 196861,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n40\\st100_60m43n_sub.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "KFT8Yjq79lM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mmSgGfhxJDQ=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n40\\st100_62m41n_sub.arc",
+        "Name": "nativePC_rom_stage_stage100_split_sub_m60_n40_st100_62m41n_sub.arc",
+        "Size": 7267582,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n40\\st100_62m41n_sub.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "mmSgGfhxJDQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TmabSiXn8sw=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n40\\st100_63m47n_sub.arc",
+        "Name": "nativePC_rom_stage_stage100_split_sub_m60_n40_st100_63m47n_sub.arc",
+        "Size": 170443,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n40\\st100_63m47n_sub.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "TmabSiXn8sw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EsGKHWc+tFQ=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n40\\st100_65m43n_sub.arc",
+        "Name": "nativePC_rom_stage_stage100_split_sub_m60_n40_st100_65m43n_sub.arc",
+        "Size": 9985464,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n40\\st100_65m43n_sub.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "EsGKHWc+tFQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DJS1reac5wY=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n40\\st100_66m49n_sub.arc",
+        "Name": "nativePC_rom_stage_stage100_split_sub_m60_n40_st100_66m49n_sub.arc",
+        "Size": 15606982,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n40\\st100_66m49n_sub.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "DJS1reac5wY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WabypeqAWfo=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n40\\st100_68m45n_sub.arc",
+        "Name": "nativePC_rom_stage_stage100_split_sub_m60_n40_st100_68m45n_sub.arc",
+        "Size": 190478,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n40\\st100_68m45n_sub.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "WabypeqAWfo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "towLvLUHeCY=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n50\\st100_62m54n_sub.arc",
+        "Name": "nativePC_rom_stage_stage100_split_sub_m60_n50_st100_62m54n_sub.arc",
+        "Size": 128388,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n50\\st100_62m54n_sub.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "towLvLUHeCY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yResmVkW2Vo=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n50\\st100_65m53n_sub.arc",
+        "Name": "nativePC_rom_stage_stage100_split_sub_m60_n50_st100_65m53n_sub.arc",
+        "Size": 424925,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n50\\st100_65m53n_sub.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "yResmVkW2Vo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sgIYFn9Oqwo=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m40\\n40\\st100_49m46n_way.arc",
+        "Name": "nativePC_rom_stage_stage100_split_way_m40_n40_st100_49m46n_way.arc",
+        "Size": 34566,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m40\\n40\\st100_49m46n_way.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "sgIYFn9Oqwo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vAImm+6mlzE=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m40\\n50\\st100_45m54n_way.arc",
+        "Name": "nativePC_rom_stage_stage100_split_way_m40_n50_st100_45m54n_way.arc",
+        "Size": 38710,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m40\\n50\\st100_45m54n_way.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "vAImm+6mlzE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cchwRtQmmaM=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m40\\n50\\st100_47m53n_way.arc",
+        "Name": "nativePC_rom_stage_stage100_split_way_m40_n50_st100_47m53n_way.arc",
+        "Size": 61443,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m40\\n50\\st100_47m53n_way.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "cchwRtQmmaM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LfWVaK/IHLA=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m40\\n50\\st100_49m50n_way.arc",
+        "Name": "nativePC_rom_stage_stage100_split_way_m40_n50_st100_49m50n_way.arc",
+        "Size": 44915,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m40\\n50\\st100_49m50n_way.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "LfWVaK/IHLA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vui2CSmsZLw=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m50\\n30\\st100_51m38n_way.arc",
+        "Name": "nativePC_rom_stage_stage100_split_way_m50_n30_st100_51m38n_way.arc",
+        "Size": 51919,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m50\\n30\\st100_51m38n_way.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "vui2CSmsZLw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Kf5awacpFhc=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m50\\n40\\st100_51m40n_way.arc",
+        "Name": "nativePC_rom_stage_stage100_split_way_m50_n40_st100_51m40n_way.arc",
+        "Size": 44043,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m50\\n40\\st100_51m40n_way.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "Kf5awacpFhc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "E2JXthd9M+0=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m50\\n40\\st100_52m46n_way.arc",
+        "Name": "nativePC_rom_stage_stage100_split_way_m50_n40_st100_52m46n_way.arc",
+        "Size": 62262,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m50\\n40\\st100_52m46n_way.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "E2JXthd9M+0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XxrIy6kdgdU=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m50\\n40\\st100_54m43n_way.arc",
+        "Name": "nativePC_rom_stage_stage100_split_way_m50_n40_st100_54m43n_way.arc",
+        "Size": 33127,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m50\\n40\\st100_54m43n_way.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "XxrIy6kdgdU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SzCMr38f7cc=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m50\\n40\\st100_56m45n_way.arc",
+        "Name": "nativePC_rom_stage_stage100_split_way_m50_n40_st100_56m45n_way.arc",
+        "Size": 32918,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m50\\n40\\st100_56m45n_way.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "SzCMr38f7cc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LQNalr1XN7g=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m50\\n50\\st100_50m53n_way.arc",
+        "Name": "nativePC_rom_stage_stage100_split_way_m50_n50_st100_50m53n_way.arc",
+        "Size": 64644,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m50\\n50\\st100_50m53n_way.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "LQNalr1XN7g="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hLM/3VXwbC4=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m50\\n50\\st100_52m54n_way.arc",
+        "Name": "nativePC_rom_stage_stage100_split_way_m50_n50_st100_52m54n_way.arc",
+        "Size": 32811,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m50\\n50\\st100_52m54n_way.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "hLM/3VXwbC4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ELpH0kKtOWY=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m50\\n50\\st100_55m50n_way.arc",
+        "Name": "nativePC_rom_stage_stage100_split_way_m50_n50_st100_55m50n_way.arc",
+        "Size": 67396,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m50\\n50\\st100_55m50n_way.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "ELpH0kKtOWY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "I1tR/sByE90=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m50\\n50\\st100_57m54n_way.arc",
+        "Name": "nativePC_rom_stage_stage100_split_way_m50_n50_st100_57m54n_way.arc",
+        "Size": 34691,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m50\\n50\\st100_57m54n_way.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "I1tR/sByE90="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PY0VAtZYF/Q=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m50\\n60\\st100_51m63n_way.arc",
+        "Name": "nativePC_rom_stage_stage100_split_way_m50_n60_st100_51m63n_way.arc",
+        "Size": 42155,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m50\\n60\\st100_51m63n_way.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "PY0VAtZYF/Q="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XluF90APGRs=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m60\\n40\\st100_61m46n_way.arc",
+        "Name": "nativePC_rom_stage_stage100_split_way_m60_n40_st100_61m46n_way.arc",
+        "Size": 32841,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m60\\n40\\st100_61m46n_way.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "XluF90APGRs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ZOVbkZaVrE8=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m60\\n40\\st100_63m44n_way.arc",
+        "Name": "nativePC_rom_stage_stage100_split_way_m60_n40_st100_63m44n_way.arc",
+        "Size": 52064,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m60\\n40\\st100_63m44n_way.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "ZOVbkZaVrE8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LI/2qgM+vGY=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m60\\n40\\st100_65m41n_way.arc",
+        "Name": "nativePC_rom_stage_stage100_split_way_m60_n40_st100_65m41n_way.arc",
+        "Size": 34944,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m60\\n40\\st100_65m41n_way.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "LI/2qgM+vGY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GtaGMccu3JA=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m60\\n40\\st100_66m47n_way.arc",
+        "Name": "nativePC_rom_stage_stage100_split_way_m60_n40_st100_66m47n_way.arc",
+        "Size": 69748,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m60\\n40\\st100_66m47n_way.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "GtaGMccu3JA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "f6B/2jfsLDw=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m60\\n40\\st100_68m43n_way.arc",
+        "Name": "nativePC_rom_stage_stage100_split_way_m60_n40_st100_68m43n_way.arc",
+        "Size": 67260,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m60\\n40\\st100_68m43n_way.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "f6B/2jfsLDw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zV04JqH9GA4=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m60\\n50\\st100_60m51n_way.arc",
+        "Name": "nativePC_rom_stage_stage100_split_way_m60_n50_st100_60m51n_way.arc",
+        "Size": 48903,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m60\\n50\\st100_60m51n_way.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "zV04JqH9GA4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "t3zki/TOFyg=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m60\\n50\\st100_63m54n_way.arc",
+        "Name": "nativePC_rom_stage_stage100_split_way_m60_n50_st100_63m54n_way.arc",
+        "Size": 38938,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m60\\n50\\st100_63m54n_way.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "t3zki/TOFyg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xINqJ0shpIA=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m60\\n50\\st100_65m54n_way.arc",
+        "Name": "nativePC_rom_stage_stage100_split_way_m60_n50_st100_65m54n_way.arc",
+        "Size": 47368,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m60\\n50\\st100_65m54n_way.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "xINqJ0shpIA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5Kqb2XKt4I0=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m70\\n40\\st100_70m40n_way.arc",
+        "Name": "nativePC_rom_stage_stage100_split_way_m70_n40_st100_70m40n_way.arc",
+        "Size": 36200,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m70\\n40\\st100_70m40n_way.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "5Kqb2XKt4I0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "56CVKQTWE0M=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=479\nfileID=3329",
+        "Name": "Easy Clothing ID with HD Icons-479-1-0-1657868300.zip",
+        "Size": 6164818,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LDKSuperDante",
+          "Description": "July 15th, 2022 Update: Per a few user requests, I\u0027ve done my best to recreate the Easy Clothing ID mod with my HD Icons. These files are also available on my Cleaner Female Body Texture page, since I merged the HD icons into my latest skin texture release.",
+          "FileID": 3329,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/479/479-1575704498-1987086333.jpeg",
+          "IsNSFW": false,
+          "ModID": 479,
+          "Name": "Remastering Dragon\u0027s Dogma Sneak Peek",
+          "Version": "0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "74Zht7RqzE8=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=803\nfileID=3692",
+        "Name": "Carry Weight Tweaks-803-2-1680330531.7z",
+        "Size": 1487,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Maelstrom",
+          "Description": "Multiple stage project of mine that involves taking common \u0027tweaks\u0027 in DD:DA, recreating them while also providing streamlined installation instructions and merge-friendly structures in an effort to make modding easier.\n\n\n\nThis will cover Carry Weight. See Description.",
+          "FileID": 3692,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/803/803-1668760909-807118635.jpeg",
+          "IsNSFW": false,
+          "ModID": 803,
+          "Name": "Maelstrom\u0027s MME Series 2 - Carry Weight",
+          "Version": "2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0NpPsiCs0mE=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=805\nfileID=3690",
+        "Name": "Jump Height Tweaks-805-2-1680330069.7z",
+        "Size": 1630,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Maelstrom",
+          "Description": "Multiple stage project of mine that involves taking common \u0027tweaks\u0027 in DD:DA, recreating them while also providing streamlined installation instructions and merge-friendly structures in an effort to make modding easier.\n\n\n\nThis will cover Jump Height. See Description.",
+          "FileID": 3690,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/805/805-1668912791-686730197.png",
+          "IsNSFW": false,
+          "ModID": 805,
+          "Name": "Maelstrom\u0027s MME Series 4 - Jump Height",
+          "Version": "1.0"
         }
       }
     },
@@ -281,69 +2138,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "4gN8e96K9GQ=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=5\nfileID=1444",
-        "Name": "Full Compilation for Male and Female NMM-5-1-41.rar",
-        "Size": 48864331,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Akalor",
-          "Description": "Makes some Items blacker so Assassin Characters have actually some Dark Clothes/Armor....\r\n\nMale and Female Variations available!\r\n\nAlso: Turns some Pieces Invisible",
-          "FileID": 1444,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/5-0-1452896023.png",
-          "IsNSFW": false,
-          "ModID": 5,
-          "Name": "Black ReTextures and more",
-          "Version": "1.41"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "v+/ISeEvMUM=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=721\nfileID=3425",
-        "Name": "LDK\u0027s Armory-721-1-0-1662365632.zip",
-        "Size": 311345491,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LDKSuperDante",
-          "Description": "400\u002B pieces of equipment that I ported over better normal maps for. Many enemies and NPCs have better normal maps for their equipment that they share with the player. In short, the player will usually have a squished texture such as 512x256, where an enemy will have 512x512 or higher. I hope this little mod helps out with your Fashion\u0027s Dogma!",
-          "FileID": 3425,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/721/721-1662368547-1643242076.jpeg",
-          "IsNSFW": false,
-          "ModID": 721,
-          "Name": "LDK\u0027s Armory",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+gZT5PyhwiU=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=467\nfileID=2427",
-        "Name": "DDDA - MEGAHAIR AND BEARDS 2K-467-1-01-1569634617.rar",
-        "Size": 240877138,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Lukasborn13",
-          "Description": "Mod that changes the textures of the hair in game, the original files have 512x512 pixels, this one have 2048x2048 pixels.\n\ni used a little upscaling and some edition that make them looks better.",
-          "FileID": 2427,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/467/467-1549045564-775969089.jpeg",
-          "IsNSFW": false,
-          "ModID": 467,
-          "Name": "DDDA - MEGAHAIR AND BEARDS 2K",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "mmXEdqff29o=",
         "Meta": "[General]\ngameName=dragonsdogma\nmodID=494\nfileID=2419",
         "Name": "Real Steel Iron Sword (Fixed Lighting)-494-1-0-1565747288.zip",
@@ -443,48 +2237,6 @@
           "Author": "LDKSuperDante",
           "Description": "August 4th 2020: Added a much more performance friendly version of the Gransys Environment textures, set to 4k instead of 6k, so it now uses less than half the resources",
           "FileID": 2732,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/489/489-1559428904-1319574705.jpeg",
-          "IsNSFW": false,
-          "ModID": 489,
-          "Name": "Remastering Dragon\u0027s Dogma Sneak Peek 2 - Gransys",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tTCZaxHqKDs=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=479\nfileID=2945",
-        "Name": "4k Hellfire Armor-479-1-0-1616130134.zip",
-        "Size": 119122021,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LDKSuperDante",
-          "Description": "July 15th, 2022 Update: Per a few user requests, I\u0027ve done my best to recreate the Easy Clothing ID mod with my HD Icons. These files are also available on my Cleaner Female Body Texture page, since I merged the HD icons into my latest skin texture release.",
-          "FileID": 2945,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/479/479-1575704498-1987086333.jpeg",
-          "IsNSFW": false,
-          "ModID": 479,
-          "Name": "Remastering Dragon\u0027s Dogma Sneak Peek",
-          "Version": "0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "yN3sz0E6GMo=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=489\nfileID=2843",
-        "Name": "4k Structures (fm files)-489-1-0-1606867947.zip",
-        "Size": 1625692685,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LDKSuperDante",
-          "Description": "August 4th 2020: Added a much more performance friendly version of the Gransys Environment textures, set to 4k instead of 6k, so it now uses less than half the resources",
-          "FileID": 2843,
           "GameName": "DragonsDogma",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/489/489-1559428904-1319574705.jpeg",
           "IsNSFW": false,
@@ -1819,27 +3571,6 @@
           "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m70\\n40\\st100_70m41n_way.arc",
           "GameVersion": "1,0,0,0",
           "Hash": "5jFcP4jV9CQ="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "0NpPsiCs0mE=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=805\nfileID=3690",
-        "Name": "Jump Height Tweaks-805-2-1680330069.7z",
-        "Size": 1630,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Maelstrom",
-          "Description": "Multiple stage project of mine that involves taking common \u0027tweaks\u0027 in DD:DA, recreating them while also providing streamlined installation instructions and merge-friendly structures in an effort to make modding easier.\n\n\n\nThis will cover Jump Height. See Description.",
-          "FileID": 3690,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/805/805-1668912791-686730197.png",
-          "IsNSFW": false,
-          "ModID": 805,
-          "Name": "Maelstrom\u0027s MME Series 4 - Jump Height",
-          "Version": "1.0"
         }
       }
     },
@@ -3419,27 +5150,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "tuzoSYVJYPs=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=802\nfileID=3691",
-        "Name": "Sprinting Tweaks-802-2-1680330269.7z",
-        "Size": 1098,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Maelstrom",
-          "Description": "Multiple stage project of mine that involves taking common \u0027tweaks\u0027 in DD:DA, recreating them while also providing streamlined installation instructions and merge-friendly structures in an effort to make modding easier.\n\n\n\nThis will cover Stamina Drain while Sprinting. See Description.",
-          "FileID": 3691,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/802/802-1668760974-535541697.jpeg",
-          "IsNSFW": false,
-          "ModID": 802,
-          "Name": "Maelstrom\u0027s MME Series 1 - Sprinting Stamina Drain",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "QK3pfjK6GYU=",
         "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage200\\stage210_nav.arc",
         "Name": "nativePC_rom_stage_stage200_stage210_nav.arc",
@@ -3498,22 +5208,6 @@
           "GameFile": "nativePC\\rom\\stage\\stage400\\stage410.arc",
           "GameVersion": "1,0,0,0",
           "Hash": "B8jwS6xmpxI="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4wh+ctlUIxE=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage400\\stage420_nav.arc",
-        "Name": "nativePC_rom_stage_stage400_stage420_nav.arc",
-        "Size": 181505,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage400\\stage420_nav.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "4wh+ctlUIxE="
         }
       }
     },
@@ -10005,27 +11699,6 @@
           "GameFile": "nativePC\\rom\\stage\\stage100\\fm\\fm_index10_low.arc",
           "GameVersion": "1,0,0,0",
           "Hash": "u6ROXUeileY="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Sh/vmug3d6o=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=733\nfileID=3282",
-        "Name": "1.3 Update-733-1-3-1656306474.zip",
-        "Size": 49325011,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Acetaris",
-          "Description": "Replace 3DA battle theme / boss theme with their DDO counter part. \n\nI don\u0027t plan to replace the whole 3DA ost, but mostly battle theme.",
-          "FileID": 3282,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/733/733-1656142842-1563217932.jpeg",
-          "IsNSFW": false,
-          "ModID": 733,
-          "Name": "Dragon\u0027s Dogma online combat music project",
-          "Version": "1.4"
         }
       }
     },
@@ -19201,27 +20874,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "otU1vlLnTII=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=227\nfileID=1623",
-        "Name": "With Fire -ReShade- v2.0-227-2-0.rar",
-        "Size": 22242076,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Hariwulf",
-          "Description": "An adaptive, immersive and atmospheric ReShade preset that will enhance the look and feel of this game.\r\n\nIt also happen to be Performance-Friendly.\r\n\n\r\n\nTAKE MY FIRE!",
-          "FileID": 1623,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/227-3-1455978178.jpg",
-          "IsNSFW": false,
-          "ModID": 227,
-          "Name": "With Fire -ReShade-",
-          "Version": "2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "zaZhMkNKn+A=",
         "Meta": "[General]\ngameName=dragonsdogma\nmodID=96\nfileID=2193",
         "Name": "ddda-dinput8 3.5.0-96-3-5-0.zip",
@@ -24034,1621 +25686,6 @@
           "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m60\\n50\\st100_69m51n_way.arc",
           "GameVersion": "1,0,0,0",
           "Hash": "rio/CUcN9aU="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vYo7rF48wvc=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage200\\stage200_nav.arc",
-        "Name": "nativePC_rom_stage_stage200_stage200_nav.arc",
-        "Size": 261264,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage200\\stage200_nav.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "vYo7rF48wvc="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "aYFa14n1fR4=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage200\\stage250_om.arc",
-        "Name": "nativePC_rom_stage_stage200_stage250_om.arc",
-        "Size": 4171676,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage200\\stage250_om.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "aYFa14n1fR4="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "DjlBG8prcAk=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage300\\stage370_om.arc",
-        "Name": "nativePC_rom_stage_stage300_stage370_om.arc",
-        "Size": 29787402,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage300\\stage370_om.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "DjlBG8prcAk="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "hSztfgyu/eI=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage400\\stage406.arc",
-        "Name": "nativePC_rom_stage_stage400_stage406.arc",
-        "Size": 34228608,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage400\\stage406.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "hSztfgyu/eI="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Z2B+GjT+o3k=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage400\\stage431_om.arc",
-        "Name": "nativePC_rom_stage_stage400_stage431_om.arc",
-        "Size": 32484971,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage400\\stage431_om.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "Z2B+GjT+o3k="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "flDlKv39DB4=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage400\\stage445.arc",
-        "Name": "nativePC_rom_stage_stage400_stage445.arc",
-        "Size": 95039600,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage400\\stage445.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "flDlKv39DB4="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "EOm3KNFAjrg=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage500\\stage502.arc",
-        "Name": "nativePC_rom_stage_stage500_stage502.arc",
-        "Size": 36632398,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage500\\stage502.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "EOm3KNFAjrg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "mHOFqWI2DpY=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage600\\stage604_nav.arc",
-        "Name": "nativePC_rom_stage_stage600_stage604_nav.arc",
-        "Size": 109776,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage600\\stage604_nav.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "mHOFqWI2DpY="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "nh05FRCvLiQ=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage600\\stage615_nav.arc",
-        "Name": "nativePC_rom_stage_stage600_stage615_nav.arc",
-        "Size": 119799,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage600\\stage615_nav.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "nh05FRCvLiQ="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "S0CvjXiYUPs=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage700\\stage705.arc",
-        "Name": "nativePC_rom_stage_stage700_stage705.arc",
-        "Size": 77170120,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage700\\stage705.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "S0CvjXiYUPs="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "qLgnWp1nWsw=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=494\nfileID=2430",
-        "Name": "Real Steel Greatsword-494-1-0-1571383295.zip",
-        "Size": 23855951,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LDKSuperDante",
-          "Description": "The first of many weapons to be made in my first attempt at making my own textures rather than just upscaling. Read the Description for more info! Update: Added more weapons, and I\u0027ve also added screenshots of projects not yet released!",
-          "FileID": 2430,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/494/494-1564535493-292538279.jpeg",
-          "IsNSFW": false,
-          "ModID": 494,
-          "Name": "Real Steel",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3IA8jK0yJlw=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\area\\area_index05_high.arc",
-        "Name": "nativePC_rom_stage_stage100_area_area_index05_high.arc",
-        "Size": 13698720,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\area\\area_index05_high.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "3IA8jK0yJlw="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "eRXIAHKXwow=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\fm\\fm_index07_high.arc",
-        "Name": "nativePC_rom_stage_stage100_fm_fm_index07_high.arc",
-        "Size": 4482778,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\fm\\fm_index07_high.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "eRXIAHKXwow="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ro0w7zI9WcY=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\splitfmfore\\f00_fore.arc",
-        "Name": "nativePC_rom_stage_stage100_splitfmfore_f00_fore.arc",
-        "Size": 390203,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\splitfmfore\\f00_fore.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "ro0w7zI9WcY="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "js4zDWlsAM0=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=94\nfileID=1025",
-        "Name": "Dragon\u0027s Dogma Thematic Mod Coils of Light Version-94-3.zip",
-        "Size": 69086531,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ransom Seraph - BladEye",
-          "Description": "Replaces the Main Menu Theme Song with awesome combined Dragon\u0027s Dogma tracks and more!\n\nThe songs have been intertwined to make a seamless high quality Dragon\u0027s Dogma theme song!",
-          "FileID": 1025,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/94-0-1453836129.jpg",
-          "IsNSFW": false,
-          "ModID": 94,
-          "Name": "Dragon\u0027s Dogma Thematic Title Music Mod",
-          "Version": "2018-Final"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+u160b6p+BQ=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=steam_api.dll",
-        "Name": "steam_api.dll",
-        "Size": 191168,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "steam_api.dll",
-          "GameVersion": "1,0,0,0",
-          "Hash": "+u160b6p+BQ="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "r9do2a9aLb0=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m40\\st100_44m55n_lot.arc",
-        "Name": "nativePC_rom_stage_stage100_lot_m40_st100_44m55n_lot.arc",
-        "Size": 32971,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m40\\st100_44m55n_lot.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "r9do2a9aLb0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Pc2tqmqE6jg=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m40\\st100_47m54n_lot.arc",
-        "Name": "nativePC_rom_stage_stage100_lot_m40_st100_47m54n_lot.arc",
-        "Size": 33368,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m40\\st100_47m54n_lot.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "Pc2tqmqE6jg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "bwKMwch1r6Q=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m40\\st100_49m52n_lot.arc",
-        "Name": "nativePC_rom_stage_stage100_lot_m40_st100_49m52n_lot.arc",
-        "Size": 33445,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m40\\st100_49m52n_lot.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "bwKMwch1r6Q="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "gX/xSGhhVZc=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m50\\st100_50m50n_lot.arc",
-        "Name": "nativePC_rom_stage_stage100_lot_m50_st100_50m50n_lot.arc",
-        "Size": 33901,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m50\\st100_50m50n_lot.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "gX/xSGhhVZc="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "FWNlseRI/2A=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m50\\st100_51m51n_lot.arc",
-        "Name": "nativePC_rom_stage_stage100_lot_m50_st100_51m51n_lot.arc",
-        "Size": 34571,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m50\\st100_51m51n_lot.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "FWNlseRI/2A="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "X49+pL8IPaw=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m50\\st100_52m52n_lot.arc",
-        "Name": "nativePC_rom_stage_stage100_lot_m50_st100_52m52n_lot.arc",
-        "Size": 32923,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m50\\st100_52m52n_lot.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "X49+pL8IPaw="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "EbPPRRWHLNw=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m50\\st100_54m48n_lot.arc",
-        "Name": "nativePC_rom_stage_stage100_lot_m50_st100_54m48n_lot.arc",
-        "Size": 34007,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m50\\st100_54m48n_lot.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "EbPPRRWHLNw="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "MfeWQESRrXg=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m50\\st100_56m50n_lot.arc",
-        "Name": "nativePC_rom_stage_stage100_lot_m50_st100_56m50n_lot.arc",
-        "Size": 33373,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m50\\st100_56m50n_lot.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "MfeWQESRrXg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "FUYLfXF6psA=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m60\\st100_60m49n_lot.arc",
-        "Name": "nativePC_rom_stage_stage100_lot_m60_st100_60m49n_lot.arc",
-        "Size": 33291,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m60\\st100_60m49n_lot.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "FUYLfXF6psA="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Jb45FPqkig4=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m60\\st100_62m50n_lot.arc",
-        "Name": "nativePC_rom_stage_stage100_lot_m60_st100_62m50n_lot.arc",
-        "Size": 33320,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m60\\st100_62m50n_lot.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "Jb45FPqkig4="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "gBvwXtd5aUo=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m60\\st100_64m46n_lot.arc",
-        "Name": "nativePC_rom_stage_stage100_lot_m60_st100_64m46n_lot.arc",
-        "Size": 32866,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m60\\st100_64m46n_lot.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "gBvwXtd5aUo="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "nWxz9WNAe18=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m60\\st100_65m50n_lot.arc",
-        "Name": "nativePC_rom_stage_stage100_lot_m60_st100_65m50n_lot.arc",
-        "Size": 33187,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m60\\st100_65m50n_lot.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "nWxz9WNAe18="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fpcRKeBGHeU=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\lot\\m60\\st100_67m47n_lot.arc",
-        "Name": "nativePC_rom_stage_stage100_lot_m60_st100_67m47n_lot.arc",
-        "Size": 32948,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\lot\\m60\\st100_67m47n_lot.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "fpcRKeBGHeU="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QL84/t8dYUc=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m40\\n30\\st100_47m39n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m40_n30_st100_47m39n.arc",
-        "Size": 35688,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m40\\n30\\st100_47m39n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "QL84/t8dYUc="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "GW3B9pUS4J0=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m40\\n40\\st100_49m40n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m40_n40_st100_49m40n.arc",
-        "Size": 61623,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m40\\n40\\st100_49m40n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "GW3B9pUS4J0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "wX97fzASrDQ=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m40\\n50\\st100_43m54n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m40_n50_st100_43m54n.arc",
-        "Size": 3017579,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m40\\n50\\st100_43m54n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "wX97fzASrDQ="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4GXVTMourNg=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m40\\n50\\st100_45m56n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m40_n50_st100_45m56n.arc",
-        "Size": 3113687,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m40\\n50\\st100_45m56n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "4GXVTMourNg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8p8aHghvPr0=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m40\\n50\\st100_47m54n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m40_n50_st100_47m54n.arc",
-        "Size": 2038063,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m40\\n50\\st100_47m54n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "8p8aHghvPr0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "KOjBDHAnsbI=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m40\\n50\\st100_49m53n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m40_n50_st100_49m53n.arc",
-        "Size": 4028633,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m40\\n50\\st100_49m53n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "KOjBDHAnsbI="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "9i+ZBUMMi90=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m50\\n30\\st100_51m38n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m50_n30_st100_51m38n.arc",
-        "Size": 1853906,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m50\\n30\\st100_51m38n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "9i+ZBUMMi90="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "qZVWfr8w0Ls=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m50\\n30\\st100_56m39n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m50_n30_st100_56m39n.arc",
-        "Size": 34650,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m50\\n30\\st100_56m39n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "qZVWfr8w0Ls="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6p13Sgf4fqs=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m50\\n40\\st100_51m45n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m50_n40_st100_51m45n.arc",
-        "Size": 2797924,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m50\\n40\\st100_51m45n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "6p13Sgf4fqs="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "G0FAoXzl6/g=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m50\\n40\\st100_53m41n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m50_n40_st100_53m41n.arc",
-        "Size": 1467951,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m50\\n40\\st100_53m41n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "G0FAoXzl6/g="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2yDlQH7eVLM=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m50\\n40\\st100_54m47n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m50_n40_st100_54m47n.arc",
-        "Size": 2641902,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m50\\n40\\st100_54m47n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "2yDlQH7eVLM="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "DP4kNAv7AIw=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m50\\n40\\st100_56m44n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m50_n40_st100_56m44n.arc",
-        "Size": 797530,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m50\\n40\\st100_56m44n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "DP4kNAv7AIw="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "yYjA41gp2KM=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m50\\n50\\st100_50m54n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m50_n50_st100_50m54n.arc",
-        "Size": 1754893,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m50\\n50\\st100_50m54n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "yYjA41gp2KM="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "TLLr3ZydqRQ=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m50\\n50\\st100_53m54n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m50_n50_st100_53m54n.arc",
-        "Size": 825165,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m50\\n50\\st100_53m54n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "TLLr3ZydqRQ="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "eISVJAR+CcQ=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m50\\n50\\st100_56m52n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m50_n50_st100_56m52n.arc",
-        "Size": 3356538,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m50\\n50\\st100_56m52n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "eISVJAR+CcQ="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "yAFJzoTm93c=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m50\\n50\\st100_59m53n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m50_n50_st100_59m53n.arc",
-        "Size": 689174,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m50\\n50\\st100_59m53n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "yAFJzoTm93c="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Xb10iGYn6M4=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_60m41n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m60_n40_st100_60m41n.arc",
-        "Size": 1276174,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_60m41n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "Xb10iGYn6M4="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "S35huSZj70s=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_61m49n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m60_n40_st100_61m49n.arc",
-        "Size": 3912504,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_61m49n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "S35huSZj70s="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "TSRE6BGIi/M=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_63m45n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m60_n40_st100_63m45n.arc",
-        "Size": 9435479,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_63m45n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "TSRE6BGIi/M="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7u4XhCjnQfs=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_65m41n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m60_n40_st100_65m41n.arc",
-        "Size": 4321893,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_65m41n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "7u4XhCjnQfs="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "LiQe1Fzciws=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_66m47n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m60_n40_st100_66m47n.arc",
-        "Size": 5307598,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_66m47n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "LiQe1Fzciws="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "BCzU36b90/Q=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_68m43n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m60_n40_st100_68m43n.arc",
-        "Size": 6105863,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_68m43n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "BCzU36b90/Q="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "GWkOCmjWAUc=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_69m49n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m60_n40_st100_69m49n.arc",
-        "Size": 633545,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m60\\n40\\st100_69m49n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "GWkOCmjWAUc="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "w6a4wKnnzss=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m60\\n50\\st100_62m54n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m60_n50_st100_62m54n.arc",
-        "Size": 2329141,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m60\\n50\\st100_62m54n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "w6a4wKnnzss="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "I/XmGyxNtWg=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m60\\n50\\st100_65m52n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m60_n50_st100_65m52n.arc",
-        "Size": 559690,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m60\\n50\\st100_65m52n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "I/XmGyxNtWg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "oTXZnye9Wtc=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split\\m70\\n40\\st100_70m42n.arc",
-        "Name": "nativePC_rom_stage_stage100_split_m70_n40_st100_70m42n.arc",
-        "Size": 2045807,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split\\m70\\n40\\st100_70m42n.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "oTXZnye9Wtc="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2ozxkRzpqVI=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m40\\n30\\st100_47m39n_sub.arc",
-        "Name": "nativePC_rom_stage_stage100_split_sub_m40_n30_st100_47m39n_sub.arc",
-        "Size": 196611,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m40\\n30\\st100_47m39n_sub.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "2ozxkRzpqVI="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fzQHDjzGUXI=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m40\\n50\\st100_42m54n_sub.arc",
-        "Name": "nativePC_rom_stage_stage100_split_sub_m40_n50_st100_42m54n_sub.arc",
-        "Size": 189434,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m40\\n50\\st100_42m54n_sub.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "fzQHDjzGUXI="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "CpI02oi77Ac=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m40\\n50\\st100_45m54n_sub.arc",
-        "Name": "nativePC_rom_stage_stage100_split_sub_m40_n50_st100_45m54n_sub.arc",
-        "Size": 7540073,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m40\\n50\\st100_45m54n_sub.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "CpI02oi77Ac="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "amfT73WtDVc=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m40\\n50\\st100_47m53n_sub.arc",
-        "Name": "nativePC_rom_stage_stage100_split_sub_m40_n50_st100_47m53n_sub.arc",
-        "Size": 21032709,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m40\\n50\\st100_47m53n_sub.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "amfT73WtDVc="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "s1u9WMjpD9o=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m40\\n50\\st100_49m52n_sub.arc",
-        "Name": "nativePC_rom_stage_stage100_split_sub_m40_n50_st100_49m52n_sub.arc",
-        "Size": 21109066,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m40\\n50\\st100_49m52n_sub.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "s1u9WMjpD9o="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "iWsp0+Zwejs=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n30\\st100_52m37n_sub.arc",
-        "Name": "nativePC_rom_stage_stage100_split_sub_m50_n30_st100_52m37n_sub.arc",
-        "Size": 196618,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n30\\st100_52m37n_sub.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "iWsp0+Zwejs="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "eWXrqNgaUR8=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n40\\st100_51m41n_sub.arc",
-        "Name": "nativePC_rom_stage_stage100_split_sub_m50_n40_st100_51m41n_sub.arc",
-        "Size": 196727,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n40\\st100_51m41n_sub.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "eWXrqNgaUR8="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tiflRz8KbWk=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n40\\st100_52m47n_sub.arc",
-        "Name": "nativePC_rom_stage_stage100_split_sub_m50_n40_st100_52m47n_sub.arc",
-        "Size": 19534112,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n40\\st100_52m47n_sub.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "tiflRz8KbWk="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "mOODZb9YhfU=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n40\\st100_54m45n_sub.arc",
-        "Name": "nativePC_rom_stage_stage100_split_sub_m50_n40_st100_54m45n_sub.arc",
-        "Size": 18847089,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n40\\st100_54m45n_sub.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "mOODZb9YhfU="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "1OlkgtbXFlM=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n40\\st100_56m48n_sub.arc",
-        "Name": "nativePC_rom_stage_stage100_split_sub_m50_n40_st100_56m48n_sub.arc",
-        "Size": 7525013,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n40\\st100_56m48n_sub.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "1OlkgtbXFlM="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "KAXIVnBkbMI=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n50\\st100_51m52n_sub.arc",
-        "Name": "nativePC_rom_stage_stage100_split_sub_m50_n50_st100_51m52n_sub.arc",
-        "Size": 21306326,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n50\\st100_51m52n_sub.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "KAXIVnBkbMI="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2SaH7ocS1Zg=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n50\\st100_54m53n_sub.arc",
-        "Name": "nativePC_rom_stage_stage100_split_sub_m50_n50_st100_54m53n_sub.arc",
-        "Size": 307194,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n50\\st100_54m53n_sub.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "2SaH7ocS1Zg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cRRkXeQWr8Y=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n50\\st100_58m50n_sub.arc",
-        "Name": "nativePC_rom_stage_stage100_split_sub_m50_n50_st100_58m50n_sub.arc",
-        "Size": 23225143,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m50\\n50\\st100_58m50n_sub.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "cRRkXeQWr8Y="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "KFT8Yjq79lM=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n40\\st100_60m43n_sub.arc",
-        "Name": "nativePC_rom_stage_stage100_split_sub_m60_n40_st100_60m43n_sub.arc",
-        "Size": 196861,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n40\\st100_60m43n_sub.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "KFT8Yjq79lM="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "mmSgGfhxJDQ=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n40\\st100_62m41n_sub.arc",
-        "Name": "nativePC_rom_stage_stage100_split_sub_m60_n40_st100_62m41n_sub.arc",
-        "Size": 7267582,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n40\\st100_62m41n_sub.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "mmSgGfhxJDQ="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "TmabSiXn8sw=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n40\\st100_63m47n_sub.arc",
-        "Name": "nativePC_rom_stage_stage100_split_sub_m60_n40_st100_63m47n_sub.arc",
-        "Size": 170443,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n40\\st100_63m47n_sub.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "TmabSiXn8sw="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "EsGKHWc+tFQ=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n40\\st100_65m43n_sub.arc",
-        "Name": "nativePC_rom_stage_stage100_split_sub_m60_n40_st100_65m43n_sub.arc",
-        "Size": 9985464,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n40\\st100_65m43n_sub.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "EsGKHWc+tFQ="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "DJS1reac5wY=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n40\\st100_66m49n_sub.arc",
-        "Name": "nativePC_rom_stage_stage100_split_sub_m60_n40_st100_66m49n_sub.arc",
-        "Size": 15606982,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n40\\st100_66m49n_sub.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "DJS1reac5wY="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "WabypeqAWfo=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n40\\st100_68m45n_sub.arc",
-        "Name": "nativePC_rom_stage_stage100_split_sub_m60_n40_st100_68m45n_sub.arc",
-        "Size": 190478,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n40\\st100_68m45n_sub.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "WabypeqAWfo="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "towLvLUHeCY=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n50\\st100_62m54n_sub.arc",
-        "Name": "nativePC_rom_stage_stage100_split_sub_m60_n50_st100_62m54n_sub.arc",
-        "Size": 128388,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n50\\st100_62m54n_sub.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "towLvLUHeCY="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "yResmVkW2Vo=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n50\\st100_65m53n_sub.arc",
-        "Name": "nativePC_rom_stage_stage100_split_sub_m60_n50_st100_65m53n_sub.arc",
-        "Size": 424925,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_sub\\m60\\n50\\st100_65m53n_sub.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "yResmVkW2Vo="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "sgIYFn9Oqwo=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m40\\n40\\st100_49m46n_way.arc",
-        "Name": "nativePC_rom_stage_stage100_split_way_m40_n40_st100_49m46n_way.arc",
-        "Size": 34566,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m40\\n40\\st100_49m46n_way.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "sgIYFn9Oqwo="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vAImm+6mlzE=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m40\\n50\\st100_45m54n_way.arc",
-        "Name": "nativePC_rom_stage_stage100_split_way_m40_n50_st100_45m54n_way.arc",
-        "Size": 38710,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m40\\n50\\st100_45m54n_way.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "vAImm+6mlzE="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cchwRtQmmaM=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m40\\n50\\st100_47m53n_way.arc",
-        "Name": "nativePC_rom_stage_stage100_split_way_m40_n50_st100_47m53n_way.arc",
-        "Size": 61443,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m40\\n50\\st100_47m53n_way.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "cchwRtQmmaM="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "LfWVaK/IHLA=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m40\\n50\\st100_49m50n_way.arc",
-        "Name": "nativePC_rom_stage_stage100_split_way_m40_n50_st100_49m50n_way.arc",
-        "Size": 44915,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m40\\n50\\st100_49m50n_way.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "LfWVaK/IHLA="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vui2CSmsZLw=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m50\\n30\\st100_51m38n_way.arc",
-        "Name": "nativePC_rom_stage_stage100_split_way_m50_n30_st100_51m38n_way.arc",
-        "Size": 51919,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m50\\n30\\st100_51m38n_way.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "vui2CSmsZLw="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Kf5awacpFhc=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m50\\n40\\st100_51m40n_way.arc",
-        "Name": "nativePC_rom_stage_stage100_split_way_m50_n40_st100_51m40n_way.arc",
-        "Size": 44043,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m50\\n40\\st100_51m40n_way.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "Kf5awacpFhc="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "E2JXthd9M+0=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m50\\n40\\st100_52m46n_way.arc",
-        "Name": "nativePC_rom_stage_stage100_split_way_m50_n40_st100_52m46n_way.arc",
-        "Size": 62262,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m50\\n40\\st100_52m46n_way.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "E2JXthd9M+0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "XxrIy6kdgdU=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m50\\n40\\st100_54m43n_way.arc",
-        "Name": "nativePC_rom_stage_stage100_split_way_m50_n40_st100_54m43n_way.arc",
-        "Size": 33127,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m50\\n40\\st100_54m43n_way.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "XxrIy6kdgdU="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "SzCMr38f7cc=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m50\\n40\\st100_56m45n_way.arc",
-        "Name": "nativePC_rom_stage_stage100_split_way_m50_n40_st100_56m45n_way.arc",
-        "Size": 32918,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m50\\n40\\st100_56m45n_way.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "SzCMr38f7cc="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "LQNalr1XN7g=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m50\\n50\\st100_50m53n_way.arc",
-        "Name": "nativePC_rom_stage_stage100_split_way_m50_n50_st100_50m53n_way.arc",
-        "Size": 64644,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m50\\n50\\st100_50m53n_way.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "LQNalr1XN7g="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "hLM/3VXwbC4=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m50\\n50\\st100_52m54n_way.arc",
-        "Name": "nativePC_rom_stage_stage100_split_way_m50_n50_st100_52m54n_way.arc",
-        "Size": 32811,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m50\\n50\\st100_52m54n_way.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "hLM/3VXwbC4="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ELpH0kKtOWY=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m50\\n50\\st100_55m50n_way.arc",
-        "Name": "nativePC_rom_stage_stage100_split_way_m50_n50_st100_55m50n_way.arc",
-        "Size": 67396,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m50\\n50\\st100_55m50n_way.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "ELpH0kKtOWY="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "I1tR/sByE90=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m50\\n50\\st100_57m54n_way.arc",
-        "Name": "nativePC_rom_stage_stage100_split_way_m50_n50_st100_57m54n_way.arc",
-        "Size": 34691,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m50\\n50\\st100_57m54n_way.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "I1tR/sByE90="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PY0VAtZYF/Q=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m50\\n60\\st100_51m63n_way.arc",
-        "Name": "nativePC_rom_stage_stage100_split_way_m50_n60_st100_51m63n_way.arc",
-        "Size": 42155,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m50\\n60\\st100_51m63n_way.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "PY0VAtZYF/Q="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "XluF90APGRs=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m60\\n40\\st100_61m46n_way.arc",
-        "Name": "nativePC_rom_stage_stage100_split_way_m60_n40_st100_61m46n_way.arc",
-        "Size": 32841,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m60\\n40\\st100_61m46n_way.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "XluF90APGRs="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ZOVbkZaVrE8=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m60\\n40\\st100_63m44n_way.arc",
-        "Name": "nativePC_rom_stage_stage100_split_way_m60_n40_st100_63m44n_way.arc",
-        "Size": 52064,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m60\\n40\\st100_63m44n_way.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "ZOVbkZaVrE8="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "LI/2qgM+vGY=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m60\\n40\\st100_65m41n_way.arc",
-        "Name": "nativePC_rom_stage_stage100_split_way_m60_n40_st100_65m41n_way.arc",
-        "Size": 34944,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m60\\n40\\st100_65m41n_way.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "LI/2qgM+vGY="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "GtaGMccu3JA=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m60\\n40\\st100_66m47n_way.arc",
-        "Name": "nativePC_rom_stage_stage100_split_way_m60_n40_st100_66m47n_way.arc",
-        "Size": 69748,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m60\\n40\\st100_66m47n_way.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "GtaGMccu3JA="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "f6B/2jfsLDw=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m60\\n40\\st100_68m43n_way.arc",
-        "Name": "nativePC_rom_stage_stage100_split_way_m60_n40_st100_68m43n_way.arc",
-        "Size": 67260,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m60\\n40\\st100_68m43n_way.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "f6B/2jfsLDw="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "zV04JqH9GA4=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m60\\n50\\st100_60m51n_way.arc",
-        "Name": "nativePC_rom_stage_stage100_split_way_m60_n50_st100_60m51n_way.arc",
-        "Size": 48903,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m60\\n50\\st100_60m51n_way.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "zV04JqH9GA4="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "t3zki/TOFyg=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m60\\n50\\st100_63m54n_way.arc",
-        "Name": "nativePC_rom_stage_stage100_split_way_m60_n50_st100_63m54n_way.arc",
-        "Size": 38938,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m60\\n50\\st100_63m54n_way.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "t3zki/TOFyg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "xINqJ0shpIA=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m60\\n50\\st100_65m54n_way.arc",
-        "Name": "nativePC_rom_stage_stage100_split_way_m60_n50_st100_65m54n_way.arc",
-        "Size": 47368,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m60\\n50\\st100_65m54n_way.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "xINqJ0shpIA="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "5Kqb2XKt4I0=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage100\\split_way\\m70\\n40\\st100_70m40n_way.arc",
-        "Name": "nativePC_rom_stage_stage100_split_way_m70_n40_st100_70m40n_way.arc",
-        "Size": 36200,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m70\\n40\\st100_70m40n_way.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "5Kqb2XKt4I0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "56CVKQTWE0M=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=479\nfileID=3329",
-        "Name": "Easy Clothing ID with HD Icons-479-1-0-1657868300.zip",
-        "Size": 6164818,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LDKSuperDante",
-          "Description": "July 15th, 2022 Update: Per a few user requests, I\u0027ve done my best to recreate the Easy Clothing ID mod with my HD Icons. These files are also available on my Cleaner Female Body Texture page, since I merged the HD icons into my latest skin texture release.",
-          "FileID": 3329,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/479/479-1575704498-1987086333.jpeg",
-          "IsNSFW": false,
-          "ModID": 479,
-          "Name": "Remastering Dragon\u0027s Dogma Sneak Peek",
-          "Version": "0.1"
         }
       }
     }
