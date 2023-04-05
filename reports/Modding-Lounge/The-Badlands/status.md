@@ -1,11 +1,10 @@
 ## Validation Report - The Badlands (Modding-Lounge/The-Badlands)
 
 
-### Invalid (1)
-*  [TTW_3.3.2_Hotfix.zip](https://cdn.discordapp.com/attachments/267355049666019329/1003041304252534814/TTW_3.3.2_Hotfix.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (526)
+### Valid (527)
 *  [00 - Natural Eyes - Shadow-62811-1-2-1607109333.7z](https://www.nexusmods.com/newvegas/mods/62811/?tab=files&file_id=1000068292)
 *  [01 - Improved Male Body - FOMOD Installer-70160-1-4-1644720615.7z](https://www.nexusmods.com/newvegas/mods/70160/?tab=files&file_id=1000087623)
 *  [01 - NUKA WORLD IMPORTS Version-72985-1-1-2-1671804961.7z](https://www.nexusmods.com/newvegas/mods/72985/?tab=files&file_id=1000102719)
@@ -473,6 +472,7 @@
 *  [TTW - Springvale Garage-76503-1-6-1678488222.7z](https://www.nexusmods.com/newvegas/mods/76503/?tab=files&file_id=1000106238)
 *  [TTW 3.3 - Mobile Truck Base SFX Enhancer-77110-1-0-1655606184.zip](https://www.nexusmods.com/newvegas/mods/77110/?tab=files&file_id=1000094529)
 *  [TTW Reputations-68604-1-4-1657361262.7z](https://www.nexusmods.com/newvegas/mods/68604/?tab=files&file_id=1000095629)
+*  [TTW_3.3.2_Hotfix.zip](https://cdn.discordapp.com/attachments/267355049666019329/1003041304252534814/TTW_3.3.2_Hotfix.zip)
 *  [TTWQuickStart-65937-1-4-1649387995.7z](https://www.nexusmods.com/newvegas/mods/65937/?tab=files&file_id=1000090652)
 *  [TTWSawyerBatty-75598-1-14-1674069028.7z](https://www.nexusmods.com/newvegas/mods/75598/?tab=files&file_id=1000103751)
 *  [TwinRocksAbode SORTOMATIC 1.1-75561-1-1-1647286487.7z](https://www.nexusmods.com/newvegas/mods/75561/?tab=files&file_id=1000089178)
