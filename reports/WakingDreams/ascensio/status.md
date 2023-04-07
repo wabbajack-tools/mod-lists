@@ -1,13 +1,12 @@
 ## Validation Report - Ascensio (WakingDreams/ascensio)
 
 
-### Invalid (3)
-*  [Ascensio - DynDOLOD Output.7z](https://authored-files.wabbajack.org/Ascensio - DynDOLOD Output.7z_3ad78cbd-7dc8-4b90-9039-914b24f761c4)
+### Invalid (2)
 *  [Ascensio - TexGen Output.7z](https://authored-files.wabbajack.org/Ascensio - TexGen Output.7z_748ab9ab-f70e-4c4b-b706-e41c94bfed31)
 *  [Ascensio - XLODGen Output.7z](https://authored-files.wabbajack.org/Ascensio - XLODGen Output.7z_4bd2b883-cf87-4497-9ac6-1b4bd2968f09)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1052)
+### Valid (1053)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Meshes - important-58370-9-4-1675864649.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=357717)
 *  [(1) Community Overlays 1 - Main - UNP  2K-22487-1-0-1-1547247749.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77985)
@@ -100,6 +99,7 @@
 *  [Archery Target Retexture-21726-1-0-1544401542.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21726/?tab=files&file_id=74666)
 *  [Arctic - Frost Effects Redux-29817-3-1-1663347430.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29817/?tab=files&file_id=316576)
 *  [Armor Mesh Fixes-39704-1-0-1598119433.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39704/?tab=files&file_id=157117)
+*  [Ascensio - DynDOLOD Output.7z](https://authored-files.wabbajack.org/Ascensio - DynDOLOD Output.7z_3ad78cbd-7dc8-4b90-9039-914b24f761c4)
 *  [Assorted mesh fixes-32117-0-77-1669043499.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=333499)
 *  [Atmoran Snow Bear Addon-76794-1-1-0-1665334796.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76794/?tab=files&file_id=322809)
 *  [Aurora Fix--77834-1-0-1-1667140513.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77834/?tab=files&file_id=327652)
