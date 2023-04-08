@@ -607,5 +607,31 @@
       }
     },
     "PatchUrl": "https://patches.wabbajack.org/9acbaaab141bf5f1_809d6bd11aa1f855"
+  },
+  {
+    "Status": "Updated",
+    "Original": {
+      "Hash": "JS5vbUFTAEM=",
+      "Meta": "",
+      "Name": "FSR2.2.zip",
+      "Size": 1017356,
+      "State": {
+        "$type": "HttpDownloader, Wabbajack.Lib",
+        "Headers": [],
+        "Url": "https://github.com/PureDark/FidelityFX-FSR2/releases/download/2.2/FSR2.2.zip"
+      }
+    },
+    "PatchedFrom": {
+      "Hash": "E2u2ERT5TDM=",
+      "Meta": "",
+      "Name": "FSR2.2.zip",
+      "Size": 967714,
+      "State": {
+        "$type": "HttpDownloader, Wabbajack.Lib",
+        "Headers": [],
+        "Url": "https://github.com/PureDark/FidelityFX-FSR2/releases/download/2.2/FSR2.2.zip"
+      }
+    },
+    "PatchUrl": "https://patches.wabbajack.org/252e6f6d41530043_136bb61114f94c33"
   }
 ]
