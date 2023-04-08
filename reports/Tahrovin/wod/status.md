@@ -174,7 +174,7 @@
 *  [Combined Arms Expansion Pack - 1.0 - MAIN-53000-1-0-1638290915.7z](https://www.nexusmods.com/fallout4/mods/53000/?tab=files&file_id=222667)
 *  [Combined Arms Expansion Pack - 1.0.2 - PATCH ONLY-53000-1-0-2-1642602647.7z](https://www.nexusmods.com/fallout4/mods/53000/?tab=files&file_id=227099)
 *  [Combined Arms Real Time Cover Penetration-56829-0-1-1640351565.rar](https://www.nexusmods.com/fallout4/mods/56829/?tab=files&file_id=224670)
-*  [Commonwealth Captives v0.99.7z](https://www.loverslab.com/files/file/14493-commonwealth-captives/)
+*  [Commonwealth Captives v1.00.7z](https://www.loverslab.com/files/file/14493-commonwealth-captives/)
 *  [Commonwealth Cuts 2.5.1-11402-2-5-1-1547056792.rar](https://www.nexusmods.com/fallout4/mods/11402/?tab=files&file_id=149695)
 *  [companion_Skadi_FHSM-25307-1-4-9.rar](https://www.nexusmods.com/fallout4/mods/25307/?tab=files&file_id=122304)
 *  [Conduit Connection Fix-9342-1-1.zip](https://www.nexusmods.com/fallout4/mods/9342/?tab=files&file_id=36765)
