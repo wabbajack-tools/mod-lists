@@ -1,10 +1,11 @@
 ## Validation Report - Wasteland of Depravity (Tahrovin/wod)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [WoD v0.3 Dev Custom Previs.7z](https://authored-files.wabbajack.org/WoD v0.3 Dev Custom Previs.7z_864eec7d-c327-41b1-848d-84ac634f59ff)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (943)
+### Valid (942)
 *  [.45 Auto Pistol Ha_ru anims-21142-1-2-1.zip](https://www.nexusmods.com/fallout4/mods/21142/?tab=files&file_id=87199)
 *  [(Main Version) Ultimate Window Overhaul Redone-43458-4-0-1655918840.rar](https://www.nexusmods.com/fallout4/mods/43458/?tab=files&file_id=241300)
 *  [0004. Helmet Toggle-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108856)
@@ -932,7 +933,6 @@
 *  [win1897_v2.0_Scripted-33313-v2-0-1554668400.rar](https://www.nexusmods.com/fallout4/mods/33313/?tab=files&file_id=155799)
 *  [Winchester P94 Balanced (Senki01)-35676-1-3-1576770544.rar](https://www.nexusmods.com/fallout4/mods/35676/?tab=files&file_id=172840)
 *  [WIP-64441-1-0-0-1663532568.7z](https://www.nexusmods.com/fallout4/mods/64441/?tab=files&file_id=251069)
-*  [WoD v0.3 Dev Custom Previs.7z](https://authored-files.wabbajack.org/WoD v0.3 Dev Custom Previs.7z_864eec7d-c327-41b1-848d-84ac634f59ff)
 *  [WoD v0.3 Dev xLODGen Output.7z](https://authored-files.wabbajack.org/WoD v0.3 Dev xLODGen Output.7z_7c385a20-3fe1-46b0-8024-2ce9bc72ff17)
 *  [WoD v0.3.1 Output Files.7z](https://authored-files.wabbajack.org/WoD v0.3.1 Output Files.7z_00436881-cba6-4690-b1ee-e0ea4565bf65)
 *  [WoodysWasteland Stuff-24951-4.7z](https://www.nexusmods.com/fallout4/mods/24951/?tab=files&file_id=127391)
