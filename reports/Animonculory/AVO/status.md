@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1176)
+### Valid (1178)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(ESL) Heimskr only preaches on weekends-13865-1-4-1677908626.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13865/?tab=files&file_id=365292)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
@@ -1021,6 +1021,7 @@
 *  Skyrim.ccc
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
+*  [SkyrimUpscaler-80343-1-1-3-1677758646.zip](https://www.nexusmods.com/skyrimspecialedition/mods/80343/?tab=files&file_id=364840)
 *  [SkyUI_5_2_SE-12604-5-2SE.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12604/?tab=files&file_id=35407)
 *  [SkyUI_SE.esp Plugin with Skyrim.esm Master ESPFE-67166-5-2a-1651085623.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67166/?tab=files&file_id=280020)
 *  [Sleek Wolf Armor - Replacer-44812-1-3-1621865266.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44812/?tab=files&file_id=205328)
@@ -1085,6 +1086,7 @@
 *  [Strongbox Replacer SE 2K-29759-1-1-1571423094.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29759/?tab=files&file_id=110723)
 *  [Stros M'Kai Rum Replacer 1K-43830-1-2-1609421380.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43830/?tab=files&file_id=177052)
 *  [Subtypes of Snowberries-77639-0-2-1666989631.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77639/?tab=files&file_id=327172)
+*  [SUEMR SSE v3.0 Meshes-18147-v3-0-1577160190.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18147/?tab=files&file_id=117237)
 *  [Sunder and Wraithguard - Vault Fix-59083-1-0-1637936330.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59083/?tab=files&file_id=244533)
 *  [Super Fast Get Up Animation-46714-1-0-1615242774.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46714/?tab=files&file_id=190327)
 *  [Supreme Chaurus Hunters-22263-1-0-1546253177.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22263/?tab=files&file_id=76800)
