@@ -1,11 +1,10 @@
 ## Validation Report - Nordic Souls (Geborgen/nordic-souls)
 
 
-### Invalid (1)
-*  [BWB-Kaidan-2-Skyrims-Got-Talent-Patch.7z](https://kaidanmod.com/wp-content/uploads/2022/10/BWB-Kaidan-2-Skyrims-Got-Talent-Patch.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1643)
+### Valid (1644)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
@@ -221,6 +220,7 @@
 *  [BWB_-_Kaidan_2_Fart_Patch_V2.7z](https://kaidanmod.com/wp-content/uploads/2022/10/BWB_-_Kaidan_2_Fart_Patch_V2.7z)
 *  [BWB-HSF-Kaidan-2-Extended-Edition-8.3.0.7z](https://kaidanmod.com/wp-content/uploads/2022/12/BWB-HSF-Kaidan-2-Extended-Edition-8.3.0.7z)
 *  [BWB-Kaidan-2-Armor-Revamped-Wolf-75089-1-0-1663029519.7z](https://kaidanmod.com/wp-content/uploads/2022/10/BWB-Kaidan-2-Armor-Revamped-Wolf-75089-1-0-1663029519.7z)
+*  [BWB-Kaidan-2-Skyrims-Got-Talent-Patch.7z](https://kaidanmod.com/wp-content/uploads/2022/10/BWB-Kaidan-2-Skyrims-Got-Talent-Patch.7z)
 *  [Bye Bye Deerface-82688-1-0-0-1673719704.7z](https://www.nexusmods.com/skyrimspecialedition/mods/82688/?tab=files&file_id=349468)
 *  [C.O.C.K.S. SE-81723-2-0-1678527660.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81723/?tab=files&file_id=367416)
 *  [Caliente's Beautiful Bodies Enhancer - v1.7.1-198-1-7-1-1655467297.7z](https://www.nexusmods.com/skyrimspecialedition/mods/198/?tab=files&file_id=291767)
