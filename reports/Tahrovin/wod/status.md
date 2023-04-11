@@ -1,11 +1,10 @@
 ## Validation Report - Wasteland of Depravity (Tahrovin/wod)
 
 
-### Invalid (1)
-*  [FusionGirl-0223.7z](https://drive.google.com/uc?id=17risPk85w0kQcdNicacpE8krW8tKF3sM&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (973)
+### Valid (974)
 *  [.45 Auto Pistol Ha_ru anims-21142-1-2-1.zip](https://www.nexusmods.com/fallout4/mods/21142/?tab=files&file_id=87199)
 *  [(Main Version) Ultimate Window Overhaul Redone-43458-4-1-1678235764.rar](https://www.nexusmods.com/fallout4/mods/43458/?tab=files&file_id=269723)
 *  [0004. Helmet Toggle-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108856)
@@ -415,6 +414,7 @@
 *  [FTO Moons Masser And Secunda 4K-160-1-0.rar](https://www.nexusmods.com/fallout4/mods/160/?tab=files&file_id=287)
 *  [Fusion City Rising v.1.0-16423-1-0.rar](https://www.nexusmods.com/fallout4/mods/16423/?tab=files&file_id=86749)
 *  [FusionGirl - Nude - More - Curvy-64756-0-1-1664583494.zip](https://www.nexusmods.com/fallout4/mods/64756/?tab=files&file_id=252141)
+*  [FusionGirl-0223.7z](https://drive.google.com/uc?id=17risPk85w0kQcdNicacpE8krW8tKF3sM&export=download)
 *  [G36 Complex - v2.0-28443-2-0-1583263068.7z](https://www.nexusmods.com/fallout4/mods/28443/?tab=files&file_id=176941)
 *  [Gatling Rifle Audio Overhaul-16729-.zip](https://www.nexusmods.com/fallout4/mods/16729/?tab=files&file_id=67397)
 *  [GAU-8 Minigun SFX Replacer-18196-1-0.rar](https://www.nexusmods.com/fallout4/mods/18196/?tab=files&file_id=73381)
