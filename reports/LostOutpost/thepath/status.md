@@ -1,11 +1,10 @@
 ## Validation Report - The Path (LostOutpost/thepath)
 
 
-### Invalid (1)
-*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (379)
+### Valid (380)
 *  [(1) Pine Branches Redone 8K-45294-3-0-1637522602.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45294/?tab=files&file_id=243288)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474_cee172be8b892e21849f407c48156302e7ca7bde7b849494fcf36ef979dc1e20_.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181373)
@@ -302,6 +301,7 @@
 *  [RUSTIC WINDOWS - Special Edition - 2K-1937-2-0-1586569415.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1937/?tab=files&file_id=133495)
 *  [Sales Overflow Solved-41625-1-0-1603382023.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41625/?tab=files&file_id=166582)
 *  [Sanguis - An Oblivion Font V1.0-37001-1-0-1591577211.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37001/?tab=files&file_id=144386)
+*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
 *  [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
 *  [ScaleformTranslationPP-22603-1-4-1-1586306055.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22603/?tab=files&file_id=132968)
 *  [Scrambled Bugs (Special Edition)-43532-16-1646318086.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=267824)
