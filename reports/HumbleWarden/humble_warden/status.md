@@ -1,11 +1,10 @@
 ## Validation Report - Just a Humble Warden (HumbleWarden/humble_warden)
 
 
-### Invalid (1)
-*  [tuckedhair.7z](https://www.moddb.com/downloads/start/110403)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (175)
+### Valid (176)
 *  [50 Tactic Slots-4096-1-1.7z](https://www.nexusmods.com/dragonage/mods/4096/?tab=files&file_id=1000001832)
 *  [A Priest - Not A Mage-5207-1-0-1585180130.7z](https://www.nexusmods.com/dragonage/mods/5207/?tab=files&file_id=1000006844)
 *  [Addins.7z-5950-0-0-1-1672646116.7z](https://www.nexusmods.com/dragonage/mods/5950/?tab=files&file_id=1000009609)
@@ -170,6 +169,7 @@
 *  [TSM GWOF Rebalanced-5439-1-1-1628129900.7z](https://www.nexusmods.com/dragonage/mods/5439/?tab=files&file_id=1000008286)
 *  [tsm_better_tower_guard-5142-1-0-1575524198.7z](https://www.nexusmods.com/dragonage/mods/5142/?tab=files&file_id=1000006596)
 *  [TSM_Werewolf_Fix-5229-1-0-1587224673.7z](https://www.nexusmods.com/dragonage/mods/5229/?tab=files&file_id=1000006919)
+*  [tuckedhair.7z](https://www.moddb.com/downloads/start/110403)
 *  [Two Moons Circle-5995-v1-0-1675929882.rar](https://www.nexusmods.com/dragonage/mods/5995/?tab=files&file_id=1000009776)
 *  [Unencrypted daorigins.exe - AlexFaithman-5989-1-0-0-1675337344.zip](https://www.nexusmods.com/dragonage/mods/5989/?tab=files&file_id=1000009742)
 *  [Unique High Dragon-5826-1-1661233725.rar](https://www.nexusmods.com/dragonage/mods/5826/?tab=files&file_id=1000009239)
