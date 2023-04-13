@@ -2385,7 +2385,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "U659DN1scQM=",
         "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=0B2VgBVA9jE6RTjJiYnRTTE9qRUE\u0026export=download",
@@ -15133,7 +15133,7 @@
       }
     },
     {
-      "Status": "Mirrored",
+      "Status": "Valid",
       "Original": {
         "Hash": "t9h488AZ0Cw=",
         "Meta": "[General]\ndirectURL=https://build.wabbajack.org/authored_files/direct_link/Serenity 3DNPC BSA Proper.7z_5f4f4e64-4c67-42ee-b249-de8277cc67a5",
@@ -15143,16 +15143,6 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://build.wabbajack.org/authored_files/direct_link/Serenity 3DNPC BSA Proper.7z_5f4f4e64-4c67-42ee-b249-de8277cc67a5"
-        }
-      },
-      "PatchedFrom": {
-        "Hash": "t9h488AZ0Cw=",
-        "Meta": "",
-        "Name": "Serenity 3DNPC BSA Proper.7z",
-        "Size": 2213970317,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://mirror.wabbajack.org/b7d878f3c019d02c"
         }
       }
     },
@@ -19917,7 +19907,7 @@
     }
   ],
   "Status": "Failed",
-  "Failures": 2,
+  "Failures": 1,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Animonculory/c009c2f2c3961688_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Animonculory/c009c2f2c3961688_large.webp"
 }
