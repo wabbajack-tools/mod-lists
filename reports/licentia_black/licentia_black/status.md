@@ -1,10 +1,11 @@
 ## Validation Report - Licentia BLACK (licentia_black/licentia_black)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Patch - AE Staff Enchanting.7z](https://www.patreon.com/file?h=65969282&i=10668147)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1238)
+### Valid (1237)
 *  [(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77989)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
 *  [(4) Community Overlays 3 - Main - CBBE and Male-35339-1-0-1588129970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136903)
@@ -896,7 +897,6 @@
 *  [Paraglider Auto-Equip Tarhiel's Gale-53436-1-11-1628413680.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53436/?tab=files&file_id=219652)
 *  [Particle Lights For ENB SE - Ingredients-44022-1-2-1610127565.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44022/?tab=files&file_id=178377)
 *  [Particle Patch for ENB-65720-1-1-1-1666959081.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65720/?tab=files&file_id=327067)
-*  [Patch - AE Staff Enchanting.7z](https://www.patreon.com/file?h=65969282&i=10668147)
 *  [Patch - SkyHUD v090B-463-0-90-1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=65410)
 *  [Path of Sorcery - Apocalypse Patch-6702-2-1-1591817596.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6702/?tab=files&file_id=144929)
 *  [Path of Sorcery - Arcane Accessories (CC) Patch-6702-2-1-1638322391.zip](https://www.nexusmods.com/skyrimspecialedition/mods/6702/?tab=files&file_id=245666)
