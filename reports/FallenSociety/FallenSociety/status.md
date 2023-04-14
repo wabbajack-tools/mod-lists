@@ -1,13 +1,12 @@
 ## Validation Report - Fallen Society (FallenSociety/FallenSociety)
 
 
-### Invalid (3)
+### Invalid (2)
 *  [AAF_V166-0_beta.7z](https://www.moddingham.com/download/file.php?id=34&sid=51f46a1d4360af02f67ddd681d22fa18)
-*  [MoreHairstyles-Beards.rar](http://www.mediafire.com/file/iztz7iidy6djz1e/MoreHairstyles-Beards.rar/file)
 *  [ProblemsofSurvivor1.5.2.rar](https://mega.nz/folder/R6BkiaYC#ApuvRJWeE2wWpMPneVdS2Q)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (676)
+### Valid (677)
 *  [1 - Cridowskin Installer-52016-3-0-1-1673299918.7z](https://www.nexusmods.com/fallout4/mods/52016/?tab=files&file_id=262981)
 *  [1.5.11b - TruBy9 UltraWide Fallout 4 Public BETA Release-24630-1-5-11b-1565654842.7z](https://www.nexusmods.com/fallout4/mods/24630/?tab=files&file_id=164269)
 *  [1387286231_UAPv2.6.64-1.7z](https://www.loverslab.com/files/file/11033-uap-ultimate-aaf-patch/)
@@ -427,6 +426,7 @@
 *  [ModernHouseLOD-62975-1-0-1659782210.zip](https://www.nexusmods.com/fallout4/mods/62975/?tab=files&file_id=245809)
 *  [More Rust - Rusty Rockets-42576-1-0-1576442701.7z](https://www.nexusmods.com/fallout4/mods/42576/?tab=files&file_id=172636)
 *  [More Rust - Washed Out Colours - v2.0-42388-2-0-1576190594.7z](https://www.nexusmods.com/fallout4/mods/42388/?tab=files&file_id=172454)
+*  [MoreHairstyles-Beards.rar](http://www.mediafire.com/file/iztz7iidy6djz1e/MoreHairstyles-Beards.rar/file)
 *  [MP-412 v3.0-21827-3-0.rar](https://www.nexusmods.com/fallout4/mods/21827/?tab=files&file_id=103085)
 *  [MP-412 v3.1-21827-3-1.rar](https://www.nexusmods.com/fallout4/mods/21827/?tab=files&file_id=103125)
 *  msvcp110.dll
