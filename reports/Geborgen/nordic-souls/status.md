@@ -2,7 +2,7 @@
 
 
 ### Invalid (1)
-*  [Kaidan-2-and-Inigo-Banter-Patch-v6.3.7z](https://kaidanmod.com/wp-content/uploads/2022/10/Kaidan-2-and-Inigo-Banter-Patch-v6.3.7z)
+*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (1643)
@@ -917,6 +917,7 @@
 *  [Kachunk - RCBE Patch-71081-1-0-0-1657470626.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71081/?tab=files&file_id=297844)
 *  [Kaidan 2.1.1-19075-2-1-1-1571995302.rar](https://www.nexusmods.com/skyrimspecialedition/mods/19075/?tab=files&file_id=111369)
 *  [Kaidan Banter Patch-11278-0-1-1648894948.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11278/?tab=files&file_id=274286)
+*  [Kaidan-2-and-Inigo-Banter-Patch-v6.3.7z](https://kaidanmod.com/wp-content/uploads/2022/10/Kaidan-2-and-Inigo-Banter-Patch-v6.3.7z)
 *  [Kaidan-3DNPC-Patch.7z](https://kaidanmod.com/wp-content/uploads/2022/10/Kaidan-3DNPC-Patch.7z)
 *  [Kaidan-LOTD-Commentary.7z](https://kaidanmod.com/wp-content/uploads/2022/10/Kaidan-LOTD-Commentary.7z)
 *  [Kalilies Brows - High Poly Head-57115-1-0-1634355490.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57115/?tab=files&file_id=235053)
@@ -1291,7 +1292,6 @@
 *  [SC - KS Hairdos Retextured-38820-1-9-1646752917.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38820/?tab=files&file_id=268855)
 *  [SC Horses - Wild Horses CC Patch-68588-2-0-1669451370.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68588/?tab=files&file_id=334822)
 *  [SC Horses Mane Fix-68588-1-0-1-1669451309.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68588/?tab=files&file_id=334821)
-*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
 *  [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
 *  [ScaleformTranslationPP-22603-1-4-1-1586306055.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22603/?tab=files&file_id=132968)
 *  [Scare my Enemy Bug Fix-44685-1-0-1611374649.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44685/?tab=files&file_id=181189)
