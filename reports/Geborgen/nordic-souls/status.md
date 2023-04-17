@@ -1,10 +1,11 @@
 ## Validation Report - Nordic Souls (Geborgen/nordic-souls)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Kaidan-LOTD-Commentary.7z](https://kaidanmod.com/wp-content/uploads/2022/10/Kaidan-LOTD-Commentary.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1644)
+### Valid (1643)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
@@ -918,7 +919,6 @@
 *  [Kaidan Banter Patch-11278-0-1-1648894948.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11278/?tab=files&file_id=274286)
 *  [Kaidan-2-and-Inigo-Banter-Patch-v6.3.7z](https://kaidanmod.com/wp-content/uploads/2022/10/Kaidan-2-and-Inigo-Banter-Patch-v6.3.7z)
 *  [Kaidan-3DNPC-Patch.7z](https://kaidanmod.com/wp-content/uploads/2022/10/Kaidan-3DNPC-Patch.7z)
-*  [Kaidan-LOTD-Commentary.7z](https://kaidanmod.com/wp-content/uploads/2022/10/Kaidan-LOTD-Commentary.7z)
 *  [Kalilies Brows - High Poly Head-57115-1-0-1634355490.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57115/?tab=files&file_id=235053)
 *  [Kalilies Brows-40595-1-1-1600706357.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40595/?tab=files&file_id=161884)
 *  [Karstaag - The Frost King Reborn-14328-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/14328/?tab=files&file_id=42262)
