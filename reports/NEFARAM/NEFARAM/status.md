@@ -1,11 +1,10 @@
 ## Validation Report - NEFARAM (NEFARAM/NEFARAM)
 
 
-### Invalid (1)
-*  [TsunTsun Armor Remastered 2.0.7z](https://drive.google.com/uc?id=1znoxaEdK7D0W8AFQMfbre6suNoJEG4Dv&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1638)
+### Valid (1639)
 *  [- Meshes - important-58370-1-0-1637050362.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=241886)
 *  [(2) Community Overlays 2 - Main - CBBE-26224-1-0-1559371694.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94367)
 *  [(2) Community Overlays 3 - Main - CBBE-35339-1-0-1588116779.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136886)
@@ -1532,6 +1531,7 @@
 *  [True Nordic Farmhouses - Standard-38150-0-2-1596636087.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38150/?tab=files&file_id=153900)
 *  [TrueHUD-62775-1-1-6-1659579296.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62775/?tab=files&file_id=304461)
 *  [Truly Neutral Prisoners-73873-0-1-1-1661227870.rar](https://www.nexusmods.com/skyrimspecialedition/mods/73873/?tab=files&file_id=309698)
+*  [TsunTsun Armor Remastered 2.0.7z](https://drive.google.com/uc?id=1znoxaEdK7D0W8AFQMfbre6suNoJEG4Dv&export=download)
 *  [Tundra Homestead-67444-1-0-0-1655329015.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67444/?tab=files&file_id=291444)
 *  [Turn of the Seasons-63623-1-0-7-1650250499.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63623/?tab=files&file_id=277949)
 *  [Twilight Princess Armor 3BA Version-71182-2-1-1658526877.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71182/?tab=files&file_id=301256)
