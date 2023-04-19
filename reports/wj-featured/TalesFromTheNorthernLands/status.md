@@ -292,7 +292,7 @@
 *  [KS Hairdos SSE-6817-1-8-1621841731.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6817/?tab=files&file_id=205269)
 *  [Lanterns Of Skyrim II - FOMOD-30817-v4-0-1636165236.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30817/?tab=files&file_id=239296)
 *  [Lanterns Of Skyrim II - FOMOD-30817-v4-1-1649371319.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30817/?tab=files&file_id=275523)
-*  [Leadership - Custom Skill Framework Extention-51764-1-5-1681571982.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51764/?tab=files&file_id=378502)
+*  [Leadership - Custom Skill Framework Extension-51764-1-7-1681912301.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51764/?tab=files&file_id=379899)
 *  [Leadership-47134-1-2-1620088739.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47134/?tab=files&file_id=201588)
 *  [Leaps of Faith-53074-1-02-1636970781.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53074/?tab=files&file_id=241667)
 *  [Leviathan Animations - Two-Handed High Stance SE-47092-1-4-1622760836.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47092/?tab=files&file_id=207135)

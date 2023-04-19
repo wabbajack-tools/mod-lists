@@ -2,7 +2,7 @@
 
 
 ### Invalid (1)
-*  [Companion_Heal_Thyself_v1.5.7z](https://cdn.discordapp.com/attachments/408380736941588481/1059902935955427348/Companion_Heal_Thyself_v1.5.7z)
+*  [MCM_VR.zip](https://cdn.discordapp.com/attachments/354663002433388545/876390467351232532/MCM_VR.zip)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (263)
@@ -50,6 +50,7 @@
 *  [Cinematic Sounds - Leveling V3 (1.1)-6445-1-1.zip](https://www.nexusmods.com/fallout4/mods/6445/?tab=files&file_id=22670)
 *  [Classic Feral Ghouls-39290-v1-0-1559599409.zip](https://www.nexusmods.com/fallout4/mods/39290/?tab=files&file_id=159097)
 *  [Companion Whistle-13499-1-0-3.zip](https://www.nexusmods.com/fallout4/mods/13499/?tab=files&file_id=53531)
+*  [Companion_Heal_Thyself_v1.5.7z](https://cdn.discordapp.com/attachments/408380736941588481/1059902935955427348/Companion_Heal_Thyself_v1.5.7z)
 *  [Copyright Free Diamond City Radio Replacer for Let's Plays-23560-1-5.7z](https://www.nexusmods.com/fallout4/mods/23560/?tab=files&file_id=142495)
 *  [Create Your Own Difficulty Rebalance-222-3-1.rar](https://www.nexusmods.com/fallout4/mods/222/?tab=files&file_id=52469)
 *  [CriticalHitsOutsideofVATS.rar-12653-1-1-3.rar](https://www.nexusmods.com/fallout4/mods/12653/?tab=files&file_id=54056)
@@ -144,7 +145,6 @@
 *  [MAIN-21565-1a.7z](https://www.nexusmods.com/fallout4/mods/21565/?tab=files&file_id=88359)
 *  [Make Kids Killable-16289-1-3.rar](https://www.nexusmods.com/fallout4/mods/16289/?tab=files&file_id=67054)
 *  [Mama Murphy Edit-10980-0-1.zip](https://www.nexusmods.com/fallout4/mods/10980/?tab=files&file_id=43150)
-*  [MCM_VR.zip](https://cdn.discordapp.com/attachments/354663002433388545/876390467351232532/MCM_VR.zip)
 *  [MO2 For VR Essentials-45429-1-1591490859.zip](https://www.nexusmods.com/fallout4/mods/45429/?tab=files&file_id=183707)
 *  [Mod.Organizer-2.4.4.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z)
 *  [Monkey Trap HD-6202-1.zip](https://www.nexusmods.com/fallout4/mods/6202/?tab=files&file_id=21246)
