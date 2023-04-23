@@ -1,10 +1,11 @@
 ## Validation Report - Do Not Go Gentle (Animonculory/dngg)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [DMCO_0.9.6.zip](https://www.skyrim-guild.com/s/DMCO_096.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1638)
+### Valid (1637)
 *  [_Fuse00_ArmorMelonyCBBE.rar](https://www.patreon.com/file?h=67711235&i=10980531)
 *  [_Fuse00_ArmorRagnar_Vanilla.rar](https://www.patreon.com/file?h=70803544&i=11554150)
 *  [_Fuse00_ArmorRogue.rar](https://www.patreon.com/file?h=67007517&i=10861552)
@@ -531,7 +532,6 @@
 *  [Displayer Real Time in Loading Menu-71029-1-0-1657374742.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71029/?tab=files&file_id=297447)
 *  [Dlizzio's Mesh Fixes - Assorted Mesh Fixes Patch-45597-1-03-1613690417.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45597/?tab=files&file_id=186667)
 *  [Dlizzio's Mesh Fixes-39260-2-3-1625555228.zip](https://www.nexusmods.com/skyrimspecialedition/mods/39260/?tab=files&file_id=212983)
-*  [DMCO_0.9.6.zip](https://www.skyrim-guild.com/s/DMCO_096.zip)
 *  [DNGG - Bodyslide Output-76247-2-5-0-1676926140.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76247/?tab=files&file_id=361787)
 *  [DNGG - DynDOLOD Output-76247-2-5-0-1676920614.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76247/?tab=files&file_id=361748)
 *  [DNGG - TexGen Output-76247-2-5-0-1676920700.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76247/?tab=files&file_id=361750)
