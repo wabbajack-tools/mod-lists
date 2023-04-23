@@ -5,7 +5,7 @@
 ### Updated (0)
 ### Mirrored (1)
 *  [Serenity 3DNPC BSA Proper.7z](https://authored-files.wabbajack.org/Serenity 3DNPC BSA Proper.7z_fdc6bf82-2a9c-4ed1-bd1d-1408cb02ef49/)
-### Valid (2640)
+### Valid (2641)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0.0) SELUA - Solitude Exterior LOD Unlocker Advocate II-36116-1-1-1605036920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169508)
 *  [(1.1) The Great City of Solitude PATCH - Solitude Skyway SE - Drengin's Blue Palace Terrace (STD)-36116-1-1-1604648419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=168848)
@@ -1134,6 +1134,7 @@
 *  High.ini
 *  [Highlandcow HD-20758-1-0-1548091865.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20758/?tab=files&file_id=79177)
 *  [Hircine 2k-63155-1-02-1644173090.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63155/?tab=files&file_id=262260)
+*  [HLE - OBIS Consistency-89885-1-0-1682272545.zip](https://www.nexusmods.com/skyrimspecialedition/mods/89885/?tab=files&file_id=381316)
 *  [HMM - Custom Door Patch-64360-1-1646112983.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64360/?tab=files&file_id=267451)
 *  [HN66s Long Eye Lashes SE-50966-1-3-1623152387.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50966/?tab=files&file_id=208120)
 *  [Hold Border Banners - No Text Version-1737-1-1.rar](https://www.nexusmods.com/skyrimspecialedition/mods/1737/?tab=files&file_id=12305)
