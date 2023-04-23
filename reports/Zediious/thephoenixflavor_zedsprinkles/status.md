@@ -1,11 +1,10 @@
 ## Validation Report - The Phoenix Flavor - Zediious Sprinkles (Zediious/thephoenixflavor_zedsprinkles)
 
 
-### Invalid (1)
-*  [DMCO_0.9.6.zip](https://www.skyrim-guild.com/s/DMCO_096.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1799)
+### Valid (1800)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-9-1-1664974289.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321816)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [(SJG) Quick Light Patch-19879-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19879/?tab=files&file_id=65715)
@@ -405,6 +404,7 @@
 *  [DLC2TribalWerebearScript Fix-88208-1-0-1-1680680988.7z](https://www.nexusmods.com/skyrimspecialedition/mods/88208/?tab=files&file_id=375247)
 *  [Dlizzio's Mesh Fixes - Assorted Mesh Fixes Patch-45597-1-03-1613690417.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45597/?tab=files&file_id=186667)
 *  [Dlizzio's Mesh Fixes-39260-2-3-1625555228.zip](https://www.nexusmods.com/skyrimspecialedition/mods/39260/?tab=files&file_id=212983)
+*  [DMCO_0.9.6.zip](https://www.skyrim-guild.com/s/DMCO_096.zip)
 *  [Dog Commands I Old Dogs - New Tricks-76405-1-1-1666980599.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76405/?tab=files&file_id=327129)
 *  [Don't sheat bound weapons-70354-1-3-1656659233.rar](https://www.nexusmods.com/skyrimspecialedition/mods/70354/?tab=files&file_id=295335)
 *  [Don't Talk With Your Mouth Full-17715-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17715/?tab=files&file_id=56529)
