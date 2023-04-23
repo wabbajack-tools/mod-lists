@@ -5,7 +5,7 @@
 ### Updated (0)
 ### Mirrored (1)
 *  [Serenity 3DNPC BSA Proper.7z](https://authored-files.wabbajack.org/Serenity 3DNPC BSA Proper.7z_fdc6bf82-2a9c-4ed1-bd1d-1408cb02ef49/)
-### Valid (2634)
+### Valid (2640)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0.0) SELUA - Solitude Exterior LOD Unlocker Advocate II-36116-1-1-1605036920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169508)
 *  [(1.1) The Great City of Solitude PATCH - Solitude Skyway SE - Drengin's Blue Palace Terrace (STD)-36116-1-1-1604648419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=168848)
@@ -194,6 +194,7 @@
 *  [Animated Static Reload Fix - SSE-53761-v1-01-1629257292.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53761/?tab=files&file_id=221989)
 *  [Animation Fix for SkyrimSE Mute Wolves-1104-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1104/?tab=files&file_id=5904)
 *  [Animation Motion Revolution 1.4-50258-1-4-1638047104.rar](https://www.nexusmods.com/skyrimspecialedition/mods/50258/?tab=files&file_id=244886)
+*  [Animation Queue Fix-82395-1-0-1-1673338766.7z](https://www.nexusmods.com/skyrimspecialedition/mods/82395/?tab=files&file_id=348271)
 *  [AnimObject Swapper-75167-1-0-1663096658.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75167/?tab=files&file_id=315868)
 *  [Another Vampire Leather Armor - CBBE SSE BodySlide-18914-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18914/?tab=files&file_id=61318)
 *  [Antique Statues HD - 2k-57276-1-0-1634748885.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57276/?tab=files&file_id=236028)
@@ -610,6 +611,7 @@
 *  [Data Files-42057-1-1604616002.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42057/?tab=files&file_id=168776)
 *  Data_ccbgssse025-advdsgs.bsa
 *  Data_ccbgssse025-advdsgs.esm
+*  Data_ccbgssse067-daedinv.bsa
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
@@ -1718,6 +1720,7 @@
 *  [Pandorable's Warrior Women-34464-1-3-1586480248.rar](https://www.nexusmods.com/skyrimspecialedition/mods/34464/?tab=files&file_id=133305)
 *  [Paper V2-3819-2.rar](https://www.nexusmods.com/skyrim/mods/3819/?tab=files&file_id=11289)
 *  [Papyrus Extender-22854-5-1-0-1652182311.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=282672)
+*  [Papyrus Tweaks 4.1.0-77779-4-1-0-1677126184.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77779/?tab=files&file_id=362490)
 *  [PapyrusUtil SE - Scripting Utility Functions-13048-3-9-1580810594.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=122686)
 *  [Parallax Enabled High Hrothgar Meshes - T4 Included-36597-1-00-1590687577.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36597/?tab=files&file_id=142569)
 *  [Parallax Enabled Mine Meshes - SMIM Included-35693-1-00-1588869175.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35693/?tab=files&file_id=138583)
@@ -2626,6 +2629,9 @@
 *  [Yue Qingshu - CBBE 3BA-48379-1-0-1618303185.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48379/?tab=files&file_id=197862)
 *  [yurica chevaleresse II Armor SMP SE V1.3-27281-V1-3-1562847195.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27281/?tab=files&file_id=98884)
 *  [zEdit_v0.6.6.1_-_Portable_x64.7z](https://github.com/z-edit/zedit/releases/download/0.6.6.1/zEdit_v0.6.6.1_-_Portable_x64.7z)
+*  [Zelie's Enchanted Spheres - HLE - SRCEO  Consistency-89891-1-0-1682274058.zip](https://www.nexusmods.com/skyrimspecialedition/mods/89891/?tab=files&file_id=381327)
+*  [Zelie's Enchanted Spheres-89889-1-0-1682273889.zip](https://www.nexusmods.com/skyrimspecialedition/mods/89889/?tab=files&file_id=381324)
+*  [Zelie's Handplaced Dwemer Fairies-89893-1-0-1682274403.zip](https://www.nexusmods.com/skyrimspecialedition/mods/89893/?tab=files&file_id=381328)
 *  [Zephyr Redone-13816-2-0-1605255651.7z](https://www.nexusmods.com/skyrimspecialedition/mods/13816/?tab=files&file_id=169866)
 *  [Zephyr-32487-1-0-1581184416.rar](https://www.nexusmods.com/skyrimspecialedition/mods/32487/?tab=files&file_id=123206)
 *  [Zerofrost Valkyrie Armor CBBE SE Bodyslide files-48472-1-0-1618268592.zip](https://www.nexusmods.com/skyrimspecialedition/mods/48472/?tab=files&file_id=197792)
