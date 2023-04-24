@@ -103,6 +103,7 @@
 *  bink2w64.dll
 *  [Blackreach Tentacle Mesh Fix-43083-0-1-1607186501.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43083/?tab=files&file_id=173163)
 *  [Blade and Blunt - A Combat Overhaul-34549-2-1-1-1676058906.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34549/?tab=files&file_id=358496)
+*  [Blade and Blunt - Health Regeneration Addon-34549-1-0-0-1674275887.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34549/?tab=files&file_id=351565)
 *  [Blade and Blunt - Sneak Addon-34549-2-1-1673990752.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34549/?tab=files&file_id=350547)
 *  [Blades Armors and Weapons Retexture SE - Half res-86568-1-0-1678283666.rar](https://www.nexusmods.com/skyrimspecialedition/mods/86568/?tab=files&file_id=366555)
 *  [Bleak Falls Barrow - No Ice Meshes in Troll Pit-64703-1-0-1646772172.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64703/?tab=files&file_id=268926)
@@ -207,6 +208,7 @@
 *  [Dark Elf Voices For Bandits-63733-1-04-1655488875.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63733/?tab=files&file_id=291842)
 *  Data_ccbgssse001-fish.esm
 *  Data_ccbgssse043-crosselv.esl
+*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  [Dawnguard Dont Hunt Cured Vampires 1_0-5471-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5471/?tab=files&file_id=12034)
 *  [Dawnstar - Fixed fences by Xtudo SE - Vanilla-80195-1-1670420370.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80195/?tab=files&file_id=338410)
@@ -628,8 +630,6 @@
 *  [Skyrim Landscape and Water Fixes - FOMOD-26138-v7-7-1680099880.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26138/?tab=files&file_id=373090)
 *  [Skyrim Landscape and Water Fixes CC Farming Patch-65375-1-1647998546.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65375/?tab=files&file_id=271893)
 *  [Skyrim Remastered - Glacier and Ice IMR Edition-71452-1-20-1678981122.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71452/?tab=files&file_id=369118)
-*  [Skyrim Souls RE - Updated (Anniversary Edition)-27859-2-3-2-1667836222.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27859/?tab=files&file_id=329949)
-*  [Skyrim Souls Tweaks-68490-1-01-1653243971.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68490/?tab=files&file_id=285770)
 *  Skyrim_Default.ini
 *  Skyrim_SkyrimPrefs.ini
 *  Skyrim.ccc
@@ -677,7 +677,7 @@
 *  [Summerset Shadow Armor-64934-1-0-1-1647211740.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64934/?tab=files&file_id=270002)
 *  [Supreme Vampire Lords XP32 SE-19706-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19706/?tab=files&file_id=66277)
 *  [Survival Control Panel-41891-1-1-2-1664687771.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41891/?tab=files&file_id=320950)
-*  [Survival Mode Improved - SKSE-78244-1-1-1-1681153466.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78244/?tab=files&file_id=377112)
+*  [Survival Mode Improved - SKSE-78244-1-1-2-1682273239.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78244/?tab=files&file_id=381322)
 *  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.25.4/Synthesis.zip)
 *  [Tamrielic Distribution-71372-1-3-3-1679930819.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71372/?tab=files&file_id=372568)
 *  [TavernAIFix-se-23107-1-2-1646241760.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23107/?tab=files&file_id=267651)
