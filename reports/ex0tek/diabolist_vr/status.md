@@ -1,11 +1,10 @@
 ## Validation Report - Diabolist VR (ex0tek/diabolist_vr)
 
 
-### Invalid (1)
-*  [sksevr_2_00_12.7z](http://skse.silverlock.org/beta/sksevr_2_00_12.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (892)
+### Valid (893)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [1) Skyrim Immersive Creatures v7.0.2 (includes 1K Textures)-12680-v7-0-2-1631188254.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12680/?tab=files&file_id=227169)
 *  [1CernunnosSE-52318-1-1626086372.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52318/?tab=files&file_id=214165)
@@ -720,6 +719,7 @@
 *  [Simply Order Summons-66919-0-8-1666979888.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66919/?tab=files&file_id=327127)
 *  [skeletal vampires sse-55035-1-1630692904.rar](https://www.nexusmods.com/skyrimspecialedition/mods/55035/?tab=files&file_id=225889)
 *  [SKSEVR Perk Extender-16330-2-0-1577426728.zip](https://www.nexusmods.com/skyrimspecialedition/mods/16330/?tab=files&file_id=117562)
+*  [sksevr_2_00_12.7z](http://skse.silverlock.org/beta/sksevr_2_00_12.7z)
 *  [Sky Idles FOMOD-45794-4-4-3-1659619543.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45794/?tab=files&file_id=304527)
 *  [Skyland AIO 1K-34179-3-12-1653447799.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34179/?tab=files&file_id=286290)
 *  [Skyland Coffee-25817-2-1569643898.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25817/?tab=files&file_id=108548)
