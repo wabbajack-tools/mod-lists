@@ -132,7 +132,7 @@
 *  [Aldrnari - Bodyslide Output-72998-2-2-1663490018.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72998/?tab=files&file_id=317186)
 *  [Aldrnari - Grass Output-72998-2-0-1660058541.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72998/?tab=files&file_id=306066)
 *  [Aldrnari - Lods Output-72998-2-2-1663489878.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72998/?tab=files&file_id=317185)
-*  [Aldrnari - Misc Generated Files and Patches-72998-2-2-1663490132.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72998/?tab=files&file_id=317187)
+*  [Aldrnari - Misc Generated Files-72998-2-2-1682331745.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72998/?tab=files&file_id=381530)
 *  [Aldrnari - Open Perms Files.7z](https://authored-files.wabbajack.org/Aldrnari - Open Perms Files.7z_bc5b3ecc-477d-4dbb-84e7-11aaecddeae3)
 *  [All in one FOMOD-60176-0-3-1639769564.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60176/?tab=files&file_id=249903)
 *  [All-In-One-6130-1-82.zip](https://www.nexusmods.com/skyrimspecialedition/mods/6130/?tab=files&file_id=60132)
@@ -611,7 +611,6 @@
 *  [Data Files-42057-1-1604616002.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42057/?tab=files&file_id=168776)
 *  Data_ccbgssse025-advdsgs.bsa
 *  Data_ccbgssse025-advdsgs.esm
-*  Data_ccbgssse067-daedinv.bsa
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
@@ -1135,6 +1134,7 @@
 *  [Highlandcow HD-20758-1-0-1548091865.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20758/?tab=files&file_id=79177)
 *  [Hircine 2k-63155-1-02-1644173090.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63155/?tab=files&file_id=262260)
 *  [HLE - OBIS Consistency-89885-1-0-1682272545.zip](https://www.nexusmods.com/skyrimspecialedition/mods/89885/?tab=files&file_id=381316)
+*  [HLE - SRCEO Consistency-89886-1-0-1682272787.zip](https://www.nexusmods.com/skyrimspecialedition/mods/89886/?tab=files&file_id=381317)
 *  [HMM - Custom Door Patch-64360-1-1646112983.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64360/?tab=files&file_id=267451)
 *  [HN66s Long Eye Lashes SE-50966-1-3-1623152387.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50966/?tab=files&file_id=208120)
 *  [Hold Border Banners - No Text Version-1737-1-1.rar](https://www.nexusmods.com/skyrimspecialedition/mods/1737/?tab=files&file_id=12305)
