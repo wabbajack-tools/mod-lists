@@ -1,10 +1,11 @@
 ## Validation Report - Fallout VR Essentials Overhaul (wj-featured/fo4vre)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [MCM_VR.zip](https://cdn.discordapp.com/attachments/354663002433388545/876390467351232532/MCM_VR.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (264)
+### Valid (260)
 *  [_25 damage reduction -4743-1-1.zip](https://www.nexusmods.com/fallout4/mods/4743/?tab=files&file_id=16525)
 *  [_50 damage reduction-4743-1-1.zip](https://www.nexusmods.com/fallout4/mods/4743/?tab=files&file_id=16526)
 *  [(Experimental) FallUI VR-Patch-48758-1-12-1-vr-exp3-1618625274.rar](https://www.nexusmods.com/fallout4/mods/48758/?tab=files&file_id=206079)
@@ -33,6 +34,7 @@
 *  [Barefoot Footstep 1.2-14790-1-2.7z](https://www.nexusmods.com/fallout4/mods/14790/?tab=files&file_id=59668)
 *  [Be Seated v2.0.1-36061-2-0-1-1588440684.zip](https://www.nexusmods.com/fallout4/mods/36061/?tab=files&file_id=180914)
 *  [Better Companions - No Conflicts v.1.3-24233-1-3.rar](https://www.nexusmods.com/fallout4/mods/24233/?tab=files&file_id=101169)
+*  [Better Cooking Stations.7z](https://mega.nz/file/V3JxxIbA#Enjhc9QpzX5XwtFp0n6TbuXM_LqYgKVHy_YWtthtv7M)
 *  [Better Settlers v2.0 Master FOMOD-4772-2-0.7z](https://www.nexusmods.com/fallout4/mods/4772/?tab=files&file_id=96347)
 *  [Better The Third Rail-15388-1-00.rar](https://www.nexusmods.com/fallout4/mods/15388/?tab=files&file_id=61488)
 *  [Bird Fix-45429-1-1617449227.7z](https://www.nexusmods.com/fallout4/mods/45429/?tab=files&file_id=204999)
@@ -61,12 +63,8 @@
 *  [Cut Weapon Mods Restored-3082-3-0-3-1548478798.zip](https://www.nexusmods.com/fallout4/mods/3082/?tab=files&file_id=150872)
 *  [Dark Nights-True Storms and Vivid Weather Custom Settings ESPs-45429-1-1591337093.zip](https://www.nexusmods.com/fallout4/mods/45429/?tab=files&file_id=183544)
 *  [Dark Sci Fi Vault Retexture-44251-1-1-1586054813.rar](https://www.nexusmods.com/fallout4/mods/44251/?tab=files&file_id=178803)
-*  Data_Fallout4 - Animations.ba2
 *  Data_Fallout4 - Meshes.ba2
 *  Data_Fallout4 - Sounds.ba2
-*  Data_Fallout4 - Textures2.ba2
-*  Data_Fallout4 - Textures3.ba2
-*  Data_Fallout4 - Textures4.ba2
 *  Data_Video_MainMenuLoop.bk2
 *  [DEF_UI Iconlibs Rescaled and Fixed - Colored-31088-1-6-1575705975.7z](https://www.nexusmods.com/fallout4/mods/31088/?tab=files&file_id=172178)
 *  [deLuxe Mask-4398-0-1.zip](https://www.nexusmods.com/fallout4/mods/4398/?tab=files&file_id=13959)
@@ -144,7 +142,6 @@
 *  [MAIN-21565-1a.7z](https://www.nexusmods.com/fallout4/mods/21565/?tab=files&file_id=88359)
 *  [Make Kids Killable-16289-1-3.rar](https://www.nexusmods.com/fallout4/mods/16289/?tab=files&file_id=67054)
 *  [Mama Murphy Edit-10980-0-1.zip](https://www.nexusmods.com/fallout4/mods/10980/?tab=files&file_id=43150)
-*  [MCM_VR.zip](https://cdn.discordapp.com/attachments/354663002433388545/876390467351232532/MCM_VR.zip)
 *  [MO2 For VR Essentials-45429-1-1591490859.zip](https://www.nexusmods.com/fallout4/mods/45429/?tab=files&file_id=183707)
 *  [Mod.Organizer-2.4.4.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z)
 *  [Monkey Trap HD-6202-1.zip](https://www.nexusmods.com/fallout4/mods/6202/?tab=files&file_id=21246)
@@ -248,7 +245,7 @@
 *  [Visible Companion Affinity v4.141 EN-10660-4-141.rar](https://www.nexusmods.com/fallout4/mods/10660/?tab=files&file_id=71942)
 *  [Vivid Fallout - All in One - 1k-25714-1-3.7z](https://www.nexusmods.com/fallout4/mods/25714/?tab=files&file_id=134910)
 *  [Vivid WEathers Fallout 4 - Definitive Edition-15466-2-1-1570350624.7z](https://www.nexusmods.com/fallout4/mods/15466/?tab=files&file_id=168156)
-*  [VR Address Library-64879-1-3-0-1676954590.7z](https://www.nexusmods.com/fallout4/mods/64879/?tab=files&file_id=268034)
+*  [VR Address Library-64879-1-5-0-1680898319.7z](https://www.nexusmods.com/fallout4/mods/64879/?tab=files&file_id=273293)
 *  [VR FPS Stabilizer for Fallout VR-65961-v1-0-1a-1671305025.zip](https://www.nexusmods.com/fallout4/mods/65961/?tab=files&file_id=260811)
 *  [VR Neutral Vats-47850-1-0-1602301053.7z](https://www.nexusmods.com/fallout4/mods/47850/?tab=files&file_id=192853)
 *  [VR Neutral Vats-47850-1-1-1666748579.7z](https://www.nexusmods.com/fallout4/mods/47850/?tab=files&file_id=254660)
