@@ -872,6 +872,7 @@ More than just a collection of other modders' amazing work, we are actively deve
 **_Mods to get familiar with:_**
 
 -   [AI Netrunners Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/2468)
+-   [Stealthrunner](https://www.nexusmods.com/cyberpunk2077/mods/7616)
 -   [Cyber Vehicle Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3016)
 -   [SDO - Scissors Difficulty Options](https://www.nexusmods.com/cyberpunk2077/mods/4408)
 -   [Vehicle Combat](https://www.nexusmods.com/cyberpunk2077/mods/3815)
