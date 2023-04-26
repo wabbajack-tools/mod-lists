@@ -1,10 +1,11 @@
 ## Validation Report - Ascensio (WakingDreams/ascensio)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [SC_HorseReplacer (1).7z](https://www.patreon.com/file?h=35289631&i=5312963)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1104)
+### Valid (1103)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Meshes - important-58370-9-4-1675864649.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=357717)
 *  [(1) Community Overlays 1 - Main - UNP  2K-22487-1-0-1-1547247749.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77985)
@@ -908,7 +909,6 @@
 *  [SC - Cubemaps - 512-38760-1-0-1595965618.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38760/?tab=files&file_id=152628)
 *  [SC - Khajiit Improvement Normal Maps-45654-1-0-1616829377.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45654/?tab=files&file_id=193841)
 *  [SC Horses - Wild Horses CC Patch-68588-2-0-1669451370.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68588/?tab=files&file_id=334822)
-*  [SC_HorseReplacer (1).7z](https://www.patreon.com/file?h=35289631&i=5312963)
 *  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
 *  [ScaleformTranslationPP-77359-1-6-1666209863.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77359/?tab=files&file_id=325251)
 *  [Scrambled Bugs - Anniversary Edition (1.6.629.0 and later)-43532-21-1678779028.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=368378)
