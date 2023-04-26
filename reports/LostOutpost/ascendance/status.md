@@ -512,7 +512,6 @@
 *  [QuickLoot EE-69980-1-2-1-1677436384.rar](https://www.nexusmods.com/skyrimspecialedition/mods/69980/?tab=files&file_id=363596)
 *  [QW Grass 1 for ENB Complex Grass-67304-1-01-1657452321.zip](https://www.nexusmods.com/skyrimspecialedition/mods/67304/?tab=files&file_id=297769)
 *  [QW's Grass Patch (no DoS)-48689-2-1-1656611104.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48689/?tab=files&file_id=295232)
-*  [Race Menu SE - WIdescreen Fix-1778-0-2-7.rar](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?tab=files&file_id=68724)
 *  [RaceMenu Anniversary Edition v0-4-19-14-19080-0-4-19-14-1667000011.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19080/?tab=files&file_id=327229)
 *  [Radiant - Candles v2.2.0-55856-2-2-0-1636686882.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55856/?tab=files&file_id=240709)
 *  [RAEQuestRequirements - ECSS Patch-86008-1-0-0-1677618507.zip](https://www.nexusmods.com/skyrimspecialedition/mods/86008/?tab=files&file_id=364278)
@@ -599,6 +598,7 @@
 *  [Skyrim Landscape and Water Fixes CC Farming Patch-65375-1-1647998546.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65375/?tab=files&file_id=271893)
 *  [Skyrim Remastered - Glacier and Ice IMR Edition-71452-1-20-1678981122.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71452/?tab=files&file_id=369118)
 *  Skyrim_Default.ini
+*  Skyrim_SkyrimPrefs.ini
 *  Skyrim.ccc
 *  [SkyrimCharacterSheet-56069-1-0-3-1671676478.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56069/?tab=files&file_id=342675)
 *  [SkyrimSE HD Reworked Horses-28249-1-0-1565810425.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28249/?tab=files&file_id=103005)
