@@ -1,11 +1,10 @@
 ## Validation Report - Do Not Go Gentle (Animonculory/dngg)
 
 
-### Invalid (1)
-*  [MCO Unarmed Normal and power Update.7z](https://www.patreon.com/file?h=71562739&i=12132854)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1637)
+### Valid (1638)
 *  [_Fuse00_ArmorMelonyCBBE.rar](https://www.patreon.com/file?h=67711235&i=10980531)
 *  [_Fuse00_ArmorRagnar_Vanilla.rar](https://www.patreon.com/file?h=70803544&i=11554150)
 *  [_Fuse00_ArmorRogue.rar](https://www.patreon.com/file?h=67007517&i=10861552)
@@ -942,6 +941,7 @@
 *  [Master Of Beasts-74015-1-00-1661396824.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74015/?tab=files&file_id=310184)
 *  [MCM Helper SE-53000-1-3-2-1637570704.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53000/?tab=files&file_id=243418)
 *  [MCM Recorder-61719-1-0-7-1642847171.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61719/?tab=files&file_id=258619)
+*  [MCO Unarmed Normal and power Update.7z](https://www.patreon.com/file?h=71562739&i=12132854)
 *  [Medieval Bridges-8834-1-31.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8834/?tab=files&file_id=52732)
 *  [Medieval Candlehorns and Sconces-24324-2-0-0-1561629898.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24324/?tab=files&file_id=97446)
 *  [Medieval Silverworks-23938-1-0-0-1551836270.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23938/?tab=files&file_id=83990)
