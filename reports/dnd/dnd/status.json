@@ -1,8 +1,8 @@
 {
   "MachineURL": "dnd/dnd",
   "Name": "Dungeons \u0026 Daedra",
-  "Version": "0.35",
-  "ModListHash": "msodFM48IuI=",
+  "Version": "0.36",
+  "ModListHash": "Q9giLh45DS8=",
   "Archives": [
     {
       "Status": "Valid",
@@ -21,21 +21,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bFoQPxsVNSs=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=50342\nfileID=1000025527",
-        "Name": "Alex\u0027s Oblivion ENB Preset - Redone-50342-1-0-0-1597174042.rar",
-        "Size": 56831,
+        "Hash": "Remr0UHbW+E=",
+        "Meta": "[General]\ndirectURL=https://github.com/llde/xOBSE/releases/download/22.8/xOBSE-22.8.zip",
+        "Name": "xOBSE-22.8.zip",
+        "Size": 5037287,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000025527,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 50342,
-          "Name": null,
-          "Version": null
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/llde/xOBSE/releases/download/22.8/xOBSE-22.8.zip"
         }
       }
     },
@@ -63,19 +56,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "X3gdDgPWP/g=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=16513\nfileID=1000032319",
-        "Name": "Better Cities v6.2.3 Update-16513-6-2-3-1663439706.7z",
-        "Size": 14878435,
+        "Hash": "4WUpsYTL7bY=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=40392\nfileID=1000007121",
+        "Name": "Better Dungeons-40392-v13.7z",
+        "Size": 1429144,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000032319,
+          "FileID": 1000007121,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 16513,
+          "ModID": 40392,
           "Name": null,
           "Version": null
         }
@@ -84,19 +77,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "pL9UFGlNYXQ=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=27521\nfileID=49497",
-        "Name": "Book_Jackets_KOTN_v10-27521.zip",
-        "Size": 2366353,
+        "Hash": "TVwOFDU6xnE=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=48554\nfileID=1000024692",
+        "Name": "Devastation of Kvatch Redux-48554-1-4-1-1589040407.7z",
+        "Size": 1334281,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 49497,
+          "FileID": 1000024692,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 27521,
+          "ModID": 48554,
           "Name": null,
           "Version": null
         }
@@ -105,166 +98,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "N5kJ8hscHbg=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=26196\nfileID=63116",
-        "Name": "Custom Spell Icons v3_1-26196.zip",
-        "Size": 1546815,
+        "Hash": "dLW5cAh2gUg=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=36152\nfileID=72568",
+        "Name": "Dungeons of Blackwood 1_0-36152-1-0.7z",
+        "Size": 406805,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 63116,
+          "FileID": 72568,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 26196,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "IGtho/BYp3w=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=52799\nfileID=1000034210",
-        "Name": "Dark Brotherhood Revised V1_1.7z-52799-1-1-1680119597.7z",
-        "Size": 53087,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000034210,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 52799,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2yIZFKLgU24=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=47535\nfileID=1000015982",
-        "Name": "Enhanced Vegetation SI-47535-1.zip",
-        "Size": 2090,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000015982,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 47535,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "UNIk/lbpO/c=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=2037\nfileID=21250",
-        "Name": "Harvest Flora v3_0_1-2037.zip",
-        "Size": 5628614,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 21250,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 2037,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "pFiS2/TuypY=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=47039\nfileID=1000015706",
-        "Name": "Immersive Interiors - Imperial City 1.5-47039-1-5.7z",
-        "Size": 37833961,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000015706,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 47039,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "EC/UFFUVoSU=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=50333\nfileID=1000025491",
-        "Name": "JJ\u0027s Birthsigns-50333-v1-0-1596602594.7z",
-        "Size": 5137,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000025491,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 50333,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8C9RS7VXA4w=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=16020\nfileID=21970",
-        "Name": "LoadingScreensThemedAddOn-16020.7z",
-        "Size": 21379614,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 21970,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 16020,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4b0AZM/uTGU=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=48027\nfileID=1000022708",
-        "Name": "Loot Menu-48027-2-1-1564843942.7z",
-        "Size": 694243,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000022708,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 48027,
+          "ModID": 36152,
           "Name": null,
           "Version": null
         }
@@ -294,19 +140,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "2hVHPhtyZkk=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=44079\nfileID=1000030448",
-        "Name": "Better Mining-44079-2022-02-21-1645494971.7z",
-        "Size": 16318,
+        "Hash": "z92j6cG3E7s=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=4135\nfileID=3342",
+        "Name": "Original Color Darker Nights-4135.zip",
+        "Size": 308585,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000030448,
+          "FileID": 3342,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 44079,
+          "ModID": 4135,
           "Name": null,
           "Version": null
         }
@@ -315,19 +161,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uKYEmaY0+d0=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=48557\nfileID=1000021639",
-        "Name": "OCOv2 - DLC Faces-48557-1-2-1553765900.7z",
-        "Size": 17694,
+        "Hash": "PKohDLZp9Nk=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45859\nfileID=1000027820",
+        "Name": "SR- OCOv2 44676-45859-1-5a-1621134647.7z",
+        "Size": 112244755,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000021639,
+          "FileID": 1000027820,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 48557,
+          "ModID": 45859,
           "Name": null,
           "Version": null
         }
@@ -336,19 +182,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "EsahQzFjXlc=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=12909\nfileID=14511",
-        "Name": "Silent Tracks Expanded v1.0-12909.zip",
-        "Size": 118462,
+        "Hash": "M1bWVL+JH78=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=9969\nfileID=1000014688",
+        "Name": "Unofficial Oblivion DLC Patches-9969-24.7z",
+        "Size": 4669234,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 14511,
+          "FileID": 1000014688,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 12909,
+          "ModID": 9969,
           "Name": null,
           "Version": null
         }
@@ -357,19 +203,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "P7L2SpKB9EI=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=49134\nfileID=1000024936",
-        "Name": "Ultimate Leveling 1_9_5_2-49134-1-1591294792.7z",
-        "Size": 4330994,
+        "Hash": "TUxwIixgX+8=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=10739\nfileID=1000024711",
+        "Name": "Unofficial Shivering Isles Patch-10739-1-5-9a-1589152090.7z",
+        "Size": 38750097,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000024936,
+          "FileID": 1000024711,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 49134,
+          "ModID": 10739,
           "Name": null,
           "Version": null
         }
@@ -378,19 +224,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Vo6mgaxQoBI=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=5296\nfileID=1000024710",
-        "Name": "Unofficial Oblivion Patch-5296-3-5-6b-1589151835.7z",
-        "Size": 156033577,
+        "Hash": "ih5YL5WPVgM=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49652\nfileID=1000023042",
+        "Name": "Oblivion BSA Decompressor-49652-1-0-1570025005.7z",
+        "Size": 1240839,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000024710,
+          "FileID": 1000023042,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 5296,
+          "ModID": 49652,
           "Name": null,
           "Version": null
         }
@@ -399,19 +245,40 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "FYrjlLq8JEc=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=11536\nfileID=1000021751",
-        "Name": "TES4Edit 4_0_2-11536-4-0-2-1555040710.7z",
-        "Size": 27261149,
+        "Hash": "PbWyr4Mzi+0=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=22368\nfileID=1000028064",
+        "Name": "Wrye Bash 309.1 - Standalone Executable-22368-309-1-1623232823.7z",
+        "Size": 24895612,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000021751,
+          "FileID": 1000028064,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 11536,
+          "ModID": 22368,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/ptvjYnWy9U=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52830\nfileID=1000034097",
+        "Name": "Daedric Quests Revised V1_0.7z-52830-1-0-1679332923.7z",
+        "Size": 366985,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000034097,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 52830,
           "Name": null,
           "Version": null
         }
@@ -504,27 +371,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "S6XjSUHiPuo=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=49555\nfileID=1000028353",
-        "Name": "Maskar\u0027s Unarmored Skill 1_2-49555-1-1625830301.7z",
-        "Size": 112885,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000028353,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 49555,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "ibrlk3RxXO0=",
         "Meta": "[General]\ngameName=oblivion\nmodID=48577\nfileID=1000026865",
         "Name": "NorthernUI-48577-2-0-3-1612716365.zip",
@@ -546,15 +392,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "C/GcEUN8npk=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=49933\nfileID=1000027191",
-        "Name": "2020 Retexture Project - Trees-49933-1-5-1615434367.7z",
-        "Size": 46394783,
+        "Hash": "bglwhPRlFDI=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49933\nfileID=1000033682",
+        "Name": "2020 Retexture Project - Trees and Shrubs-49933-2-1-1675790253.7z",
+        "Size": 17242963,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000027191,
+          "FileID": 1000033682,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
@@ -609,19 +455,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "pxLoXx8vsQQ=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=32266\nfileID=71265",
-        "Name": "Quest Log Manager 1_3_2b-32266-1-3-2b.rar",
-        "Size": 65334,
+        "Hash": "P7L2SpKB9EI=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49134\nfileID=1000024936",
+        "Name": "Ultimate Leveling 1_9_5_2-49134-1-1591294792.7z",
+        "Size": 4330994,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 71265,
+          "FileID": 1000024936,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 32266,
+          "ModID": 49134,
           "Name": null,
           "Version": null
         }
@@ -630,21 +476,35 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "OXF7wfwxobk=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=50255\nfileID=1000025247",
-        "Name": "VKVII Oblivion Imperial City-50255-1-1594313735.7z",
-        "Size": 475521166,
+        "Hash": "LbJE4yT4bgg=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=35560\nfileID=1000029514",
+        "Name": "WEPON Base Install Oblivion and SI-35560-1-12-1636218984.zip",
+        "Size": 27537307,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000025247,
+          "FileID": 1000029514,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 50255,
+          "ModID": 35560,
           "Name": null,
           "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pUhKYCSgoz4=",
+        "Meta": "[General]\ndirectURL=https://github.com/boss-developers/boss/releases/download/v2.3.2/boss.zip",
+        "Name": "boss.zip",
+        "Size": 28573854,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/boss-developers/boss/releases/download/v2.3.2/boss.zip"
         }
       }
     },
@@ -672,19 +532,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "b0FnesPEbIw=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=33248\nfileID=88252",
-        "Name": "AddActorValues-33248.rar",
-        "Size": 446972,
+        "Hash": "FYrjlLq8JEc=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=11536\nfileID=1000021751",
+        "Name": "TES4Edit 4_0_2-11536-4-0-2-1555040710.7z",
+        "Size": 27261149,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 88252,
+          "FileID": 1000021751,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 33248,
+          "ModID": 11536,
           "Name": null,
           "Version": null
         }
@@ -735,19 +595,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ck+vUk5vlg8=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=49260\nfileID=1000023864",
-        "Name": "Book Jackets DLC Misc-49260-1-2-1580642171.7z",
-        "Size": 5062413,
+        "Hash": "X3gdDgPWP/g=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=16513\nfileID=1000032319",
+        "Name": "Better Cities v6.2.3 Update-16513-6-2-3-1663439706.7z",
+        "Size": 14878435,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000023864,
+          "FileID": 1000032319,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 49260,
+          "ModID": 16513,
           "Name": null,
           "Version": null
         }
@@ -756,19 +616,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HGpDdtfWYbA=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=44677\nfileID=1000021298",
-        "Name": "Bruma Retexture 1.5 - 2K-44677-1-5-1549564314.rar",
-        "Size": 166966551,
+        "Hash": "N5kJ8hscHbg=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=26196\nfileID=63116",
+        "Name": "Custom Spell Icons v3_1-26196.zip",
+        "Size": 1546815,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000021298,
+          "FileID": 63116,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 44677,
+          "ModID": 26196,
           "Name": null,
           "Version": null
         }
@@ -798,19 +658,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "rZnrBl4HUfM=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=47085\nfileID=1000022995",
-        "Name": "EngineBugFixes v2.22-47085-2-22-1569169531.7z",
-        "Size": 186817,
+        "Hash": "HxhVxOXGfg0=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=43728\nfileID=1000002070",
+        "Name": "Hi-Res Soul Gems-43728-1-0.zip",
+        "Size": 1977605,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000022995,
+          "FileID": 1000002070,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 47085,
+          "ModID": 43728,
           "Name": null,
           "Version": null
         }
@@ -819,19 +679,40 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "MopvZ8GGihI=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=43072\nfileID=93514",
-        "Name": "ImmersiveInteriorsLandscapeAddOn_1_10-43072-1-10.7z",
-        "Size": 11869759,
+        "Hash": "pFiS2/TuypY=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=47039\nfileID=1000015706",
+        "Name": "Immersive Interiors - Imperial City 1.5-47039-1-5.7z",
+        "Size": 37833961,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 93514,
+          "FileID": 1000015706,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 43072,
+          "ModID": 47039,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Yr+TjGz+hwo=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=8298\nfileID=30899",
+        "Name": "IDFUpdate-8298.7z",
+        "Size": 13642893,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 30899,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 8298,
           "Name": null,
           "Version": null
         }
@@ -903,27 +784,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "aJ8rd5BrtWk=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=8500\nfileID=6993",
-        "Name": "Improved Trees and Flora-8500.7z",
-        "Size": 19786400,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 6993,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 8500,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "9+SdBLzBmTk=",
         "Meta": "[General]\ngameName=oblivion\nmodID=11891\nfileID=12150",
         "Name": "Improved Trees and Flora 2-11891.7z",
@@ -967,11 +827,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "SuHiwVH2F9I=",
-        "Meta": "[General]\ndirectURL=https://mega.nz/#!HlxQGIjK!n6rJOhznkuBwVVey7ApxOW8QHjkMx0P6wHiZlqCisgE",
+        "Meta": "[General]\nmanualURL=https://mega.nz/#!HlxQGIjK!n6rJOhznkuBwVVey7ApxOW8QHjkMx0P6wHiZlqCisgE\nprompt=",
         "Name": "Insanity\u0027s Improved Armoury Compilation v1.21.7z",
         "Size": 993111387,
         "State": {
-          "$type": "MegaDownloader, Wabbajack.Lib",
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "",
           "Url": "https://mega.nz/#!HlxQGIjK!n6rJOhznkuBwVVey7ApxOW8QHjkMx0P6wHiZlqCisgE"
         }
       }
@@ -979,19 +840,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "e8ZoEFpWNHk=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=11891\nfileID=88426",
-        "Name": "ITFBark2012-11891-1.7z",
-        "Size": 18488175,
+        "Hash": "a/OOfe30UfI=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=46962\nfileID=1000013832",
+        "Name": "Kaizits Animated Ingredients-46962-1-0.zip",
+        "Size": 10843980,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 88426,
+          "FileID": 1000013832,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 11891,
+          "ModID": 46962,
           "Name": null,
           "Version": null
         }
@@ -1000,19 +861,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5gHEbKojNns=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=46628\nfileID=1000012427",
-        "Name": "Leyawiin Woodland 2k-46628-1-1.rar",
-        "Size": 141286662,
+        "Hash": "4b0AZM/uTGU=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=48027\nfileID=1000022708",
+        "Name": "Loot Menu-48027-2-1-1564843942.7z",
+        "Size": 694243,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000012427,
+          "FileID": 1000022708,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 46628,
+          "ModID": 48027,
           "Name": null,
           "Version": null
         }
@@ -1042,19 +903,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "NR2at8Y1Qgk=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=45018\nfileID=1000006482",
-        "Name": "Nirnroot retexture-45018-1-0.rar",
-        "Size": 8602559,
+        "Hash": "i+mSF/NOuUo=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50066\nfileID=1000024557",
+        "Name": "OBLModLimitFix-50066-1-0-1587582618.zip",
+        "Size": 70725,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000006482,
+          "FileID": 1000024557,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 45018,
+          "ModID": 50066,
           "Name": null,
           "Version": null
         }
@@ -1084,19 +945,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "xW1k/PxMfJg=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=43100\nfileID=93430",
-        "Name": "Oblivion Realm HD-43100-1-0.7z",
-        "Size": 391246931,
+        "Hash": "H6pOU2oHIeA=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49933\nfileID=1000033622",
+        "Name": "2020 Retexture Project - Landscapes and Rocks-49933-3-0-1675498718.7z",
+        "Size": 382034206,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 93430,
+          "FileID": 1000033622,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 43100,
+          "ModID": 49933,
           "Name": null,
           "Version": null
         }
@@ -1210,27 +1071,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "DKR11dGAtr4=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=52718\nfileID=1000033677",
-        "Name": "Quick Item Transfer-52718-1-0-1675773205.zip",
-        "Size": 45559,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000033677,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 52718,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "/ebEaxqtCWo=",
         "Meta": "[General]\ngameName=oblivion\nmodID=50088\nfileID=1000024630",
         "Name": "Really Textured Normal Maps - Updated-50088-1-0-1588502179.7z",
@@ -1252,6 +1092,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "ZUb4gYFuQmY=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49068\nfileID=1000021048",
+        "Name": "Potions-49068-1-1-1546355116.7z",
+        "Size": 9177125,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000021048,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 49068,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "ZqQCkCwup/M=",
         "Meta": "[General]\ngameName=oblivion\nmodID=47223\nfileID=1000027320",
         "Name": "Reworked Post - Carved Letters-47223-1-6-1616519667.7z",
@@ -1265,6 +1126,27 @@
           "ImageURL": null,
           "IsNSFW": false,
           "ModID": 47223,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EsahQzFjXlc=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=12909\nfileID=14511",
+        "Name": "Silent Tracks Expanded v1.0-12909.zip",
+        "Size": 118462,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 14511,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 12909,
           "Name": null,
           "Version": null
         }
@@ -1336,61 +1218,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BOmNkmNkcxI=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=43504\nfileID=1000001155",
-        "Name": "Tree Bark HD Reduced-43504-1-0.7z",
-        "Size": 80434147,
+        "Hash": "Vo6mgaxQoBI=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=5296\nfileID=1000024710",
+        "Name": "Unofficial Oblivion Patch-5296-3-5-6b-1589151835.7z",
+        "Size": 156033577,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000001155,
+          "FileID": 1000024710,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 43504,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "M1bWVL+JH78=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=9969\nfileID=1000014688",
-        "Name": "Unofficial Oblivion DLC Patches-9969-24.7z",
-        "Size": 4669234,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000014688,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 9969,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "TUxwIixgX+8=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=10739\nfileID=1000024711",
-        "Name": "Unofficial Shivering Isles Patch-10739-1-5-9a-1589152090.7z",
-        "Size": 38750097,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000024711,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 10739,
+          "ModID": 5296,
           "Name": null,
           "Version": null
         }
@@ -1412,41 +1252,6 @@
           "ImageURL": null,
           "IsNSFW": false,
           "ModID": 43852,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "pUhKYCSgoz4=",
-        "Meta": "[General]\ndirectURL=https://github.com/boss-developers/boss/releases/download/v2.3.2/boss.zip",
-        "Name": "boss.zip",
-        "Size": 28573854,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/boss-developers/boss/releases/download/v2.3.2/boss.zip"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PbWyr4Mzi+0=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=22368\nfileID=1000028064",
-        "Name": "Wrye Bash 309.1 - Standalone Executable-22368-309-1-1623232823.7z",
-        "Size": 24895612,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000028064,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 22368,
           "Name": null,
           "Version": null
         }
@@ -1497,19 +1302,40 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "y7SSBLRzkqQ=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=43285\nfileID=1000000630",
-        "Name": "Spriggan-43285-1-1.7z",
-        "Size": 245720,
+        "Hash": "yesXyL8AbAU=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=43297\nfileID=1000000569",
+        "Name": "Spider Daedra Replacer-43297-1-2.rar",
+        "Size": 958963,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000000630,
+          "FileID": 1000000569,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 43285,
+          "ModID": 43297,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "R3UBmozvPiA=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45056\nfileID=1000006596",
+        "Name": "better ropes-45056-1-1.zip",
+        "Size": 525039,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000006596,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 45056,
           "Name": null,
           "Version": null
         }
@@ -1560,6 +1386,69 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "0FaOMTqd8Qg=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49260\nfileID=1000034080",
+        "Name": "Book Jackets for Misc DLC-49260-1-4-1679283776.7z",
+        "Size": 3914883,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000034080,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 49260,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ck+vUk5vlg8=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49260\nfileID=1000023864",
+        "Name": "Book Jackets DLC Misc-49260-1-2-1580642171.7z",
+        "Size": 5062413,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000023864,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 49260,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pL9UFGlNYXQ=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=27521\nfileID=49497",
+        "Name": "Book_Jackets_KOTN_v10-27521.zip",
+        "Size": 2366353,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 49497,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 27521,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "0Q1PwO0ENGs=",
         "Meta": "[General]\ngameName=oblivion\nmodID=49307\nfileID=1000021786",
         "Name": "KOTN Book Jackets HD remake-49307-1-0-1555223544.7z",
@@ -1594,6 +1483,27 @@
           "ImageURL": null,
           "IsNSFW": false,
           "ModID": 5570,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HGpDdtfWYbA=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=44677\nfileID=1000021298",
+        "Name": "Bruma Retexture 1.5 - 2K-44677-1-5-1549564314.rar",
+        "Size": 166966551,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000021298,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 44677,
           "Name": null,
           "Version": null
         }
@@ -1644,19 +1554,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "3gVHqqdxzUU=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=27945\nfileID=50991",
-        "Name": "Skeletons-27945.7z",
-        "Size": 17391,
+        "Hash": "zqq+FfUnZbM=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=14634\nfileID=18720",
+        "Name": "Dalls_Horse_Armor-14634.7z",
+        "Size": 4985235,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 50991,
+          "FileID": 18720,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 27945,
+          "ModID": 14634,
           "Name": null,
           "Version": null
         }
@@ -1770,6 +1680,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "DneTYHrCExM=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45996\nfileID=1000009808",
+        "Name": "Gecko\u0027s Fort Interior Textures (2K Version)-45996-1.zip",
+        "Size": 190029868,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000009808,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 45996,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "pa9W+1vHJYU=",
         "Meta": "[General]\ngameName=oblivion\nmodID=46864\nfileID=1000013451",
         "Name": "Geckos Imperial Dungeon Textures 2K Parallax-46864-1-0.zip",
@@ -1833,15 +1764,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "NGLULtre5cQ=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=16247\nfileID=25065",
-        "Name": "Shivering Book Jackets-16247.7z",
-        "Size": 10243185,
+        "Hash": "3UZVxDAWr9I=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=16247\nfileID=25066",
+        "Name": "Grimbots Spell Tomes-16247.7z",
+        "Size": 27895007,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 25065,
+          "FileID": 25066,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
@@ -1854,19 +1785,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "xbks9R8l250=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=36814\nfileID=1000010831",
-        "Name": "High-Res Varla and Welkynd Texture Replacer-36814-2-0.7z",
-        "Size": 1666589,
+        "Hash": "hQexQD8vWD4=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=38546\nfileID=79717",
+        "Name": "HiRes Silver Clutter-38546-1.zip",
+        "Size": 2214076,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000010831,
+          "FileID": 79717,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 36814,
+          "ModID": 38546,
           "Name": null,
           "Version": null
         }
@@ -1947,27 +1878,6 @@
           "Author": null,
           "Description": null,
           "FileID": 9152,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 10383,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "DGkvPXOPDrk=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=10383\nfileID=15404",
-        "Name": "BravilUpdate-10383.7z",
-        "Size": 11267510,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 15404,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
@@ -2064,40 +1974,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Yr+TjGz+hwo=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=8298\nfileID=30899",
-        "Name": "IDFUpdate-8298.7z",
-        "Size": 13642893,
+        "Hash": "5Xm9sfUGA/w=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49520\nfileID=1000022613",
+        "Name": "Improved Frost Atronachs-49520-1-1-1563149803.7z",
+        "Size": 3841266,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 30899,
+          "FileID": 1000022613,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 8298,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "T0p9Plc2zJE=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=45356\nfileID=1000007445",
-        "Name": "Improved Flame Atronachs-45356-1-1.7z",
-        "Size": 4272192,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000007445,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 45356,
+          "ModID": 49520,
           "Name": null,
           "Version": null
         }
@@ -2127,6 +2016,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "aJ8rd5BrtWk=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=8500\nfileID=6993",
+        "Name": "Improved Trees and Flora-8500.7z",
+        "Size": 19786400,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 6993,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 8500,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "e8ZoEFpWNHk=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=11891\nfileID=88426",
+        "Name": "ITFBark2012-11891-1.7z",
+        "Size": 18488175,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 88426,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 11891,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "/xBj/Pfeack=",
         "Meta": "[General]\ngameName=oblivion\nmodID=46992\nfileID=1000013994",
         "Name": "Kaizits Animated Daedric Ingredients-46992-1-0.rar",
@@ -2148,19 +2079,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "a/OOfe30UfI=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=46962\nfileID=1000013832",
-        "Name": "Kaizits Animated Ingredients-46962-1-0.zip",
-        "Size": 10843980,
+        "Hash": "vbM1SKeAhQY=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=46992\nfileID=1000013998",
+        "Name": "Kaizits Animated Daedric Ingredients fix-46992-.rar",
+        "Size": 4195843,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000013832,
+          "FileID": 1000013998,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 46962,
+          "ModID": 46992,
           "Name": null,
           "Version": null
         }
@@ -2182,6 +2113,27 @@
           "ImageURL": null,
           "IsNSFW": false,
           "ModID": 46962,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5gHEbKojNns=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=46628\nfileID=1000012427",
+        "Name": "Leyawiin Woodland 2k-46628-1-1.rar",
+        "Size": 141286662,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000012427,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 46628,
           "Name": null,
           "Version": null
         }
@@ -2224,27 +2176,6 @@
           "ImageURL": null,
           "IsNSFW": false,
           "ModID": 49043,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "mIeGb3RrHt8=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=50923\nfileID=1000027251",
-        "Name": "NAO - Natural and Atmospheric Oblivion-50923-1-0-1616065545.zip",
-        "Size": 6862198,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000027251,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 50923,
           "Name": null,
           "Version": null
         }
@@ -2316,27 +2247,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SBiKZVfbYkY=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=46995\nfileID=1000019560",
-        "Name": "Human Eyes - Optional-46995-1-5.7z",
-        "Size": 82805,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000019560,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 46995,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "OayeAoYis/E=",
         "Meta": "[General]\ngameName=oblivion\nmodID=49933\nfileID=1000027192",
         "Name": "2020 Retexture Project - Snowy Roofs in Bruma (AWLS)-49933-1-1-1615434855.7z",
@@ -2379,27 +2289,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Tne4JS+OBuU=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=49406\nfileID=1000022211",
-        "Name": "kart ocov2 heads manual-49406-1-1559303775.7z",
-        "Size": 464579,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000022211,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 49406,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "ECp/FdiILYs=",
         "Meta": "[General]\ngameName=oblivion\nmodID=44676\nfileID=1000007063",
         "Name": "Oblivion Character Overhaul v203-44676-2-03.zip",
@@ -2413,6 +2302,27 @@
           "ImageURL": null,
           "IsNSFW": false,
           "ModID": 44676,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xW1k/PxMfJg=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=43100\nfileID=93430",
+        "Name": "Oblivion Realm HD-43100-1-0.7z",
+        "Size": 391246931,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 93430,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 43100,
           "Name": null,
           "Version": null
         }
@@ -2694,6 +2604,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "KC7g0/AMKQ4=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50943\nfileID=1000027340",
+        "Name": "Doors-50943-1-0-1616642948.7z",
+        "Size": 11466087,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000027340,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 50943,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "YDRDLqepS5E=",
         "Meta": "[General]\ngameName=oblivion\nmodID=48576\nfileID=1000019627",
         "Name": "Retextured Inn Signs-48576-1-0.7z",
@@ -2791,27 +2722,6 @@
           "ImageURL": null,
           "IsNSFW": false,
           "ModID": 46578,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PKohDLZp9Nk=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=45859\nfileID=1000027820",
-        "Name": "SR- OCOv2 44676-45859-1-5a-1621134647.7z",
-        "Size": 112244755,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000027820,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 45859,
           "Name": null,
           "Version": null
         }
@@ -2967,6 +2877,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "BOmNkmNkcxI=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=43504\nfileID=1000001155",
+        "Name": "Tree Bark HD Reduced-43504-1-0.7z",
+        "Size": 80434147,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000001155,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 43504,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "YrX0aKbk088=",
         "Meta": "[General]\ngameName=oblivion\nmodID=25314\nfileID=44544",
         "Name": "Unique Signs-25314.zip",
@@ -2980,6 +2911,27 @@
           "ImageURL": null,
           "IsNSFW": false,
           "ModID": 25314,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OXF7wfwxobk=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50255\nfileID=1000025247",
+        "Name": "VKVII Oblivion Imperial City-50255-1-1594313735.7z",
+        "Size": 475521166,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000025247,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 50255,
           "Name": null,
           "Version": null
         }
@@ -3051,19 +3003,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QzT1paYNUvc=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=50566\nfileID=1000026230",
-        "Name": "Fur Armor Replacer - Clipping Mask Fix-50566-1-0-1606607650.7z",
-        "Size": 514013,
+        "Hash": "UnDywBOAXhw=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=47917\nfileID=1000017355",
+        "Name": "HGEC version-47917-1-0.7z",
+        "Size": 560796,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000026230,
+          "FileID": 1000017355,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 50566,
+          "ModID": 47917,
           "Name": null,
           "Version": null
         }
@@ -3072,19 +3024,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "DneTYHrCExM=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=45996\nfileID=1000009808",
-        "Name": "Gecko\u0027s Fort Interior Textures (2K Version)-45996-1.zip",
-        "Size": 190029868,
+        "Hash": "oR1rJbgDzNU=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=47949\nfileID=1000017442",
+        "Name": "Fur armor replacer-47949-.7z",
+        "Size": 835187,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000009808,
+          "FileID": 1000017442,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 45996,
+          "ModID": 47949,
           "Name": null,
           "Version": null
         }
@@ -3093,15 +3045,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "3UZVxDAWr9I=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=16247\nfileID=25066",
-        "Name": "Grimbots Spell Tomes-16247.7z",
-        "Size": 27895007,
+        "Hash": "NGLULtre5cQ=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=16247\nfileID=25065",
+        "Name": "Shivering Book Jackets-16247.7z",
+        "Size": 10243185,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 25066,
+          "FileID": 25065,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
@@ -3114,19 +3066,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XAM8UWcAjjY=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=38546\nfileID=79814",
-        "Name": "HiRes Gold Clutter-38546-1.zip",
-        "Size": 2273622,
+        "Hash": "xbks9R8l250=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=36814\nfileID=1000010831",
+        "Name": "High-Res Varla and Welkynd Texture Replacer-36814-2-0.7z",
+        "Size": 1666589,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 79814,
+          "FileID": 1000010831,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 38546,
+          "ModID": 36814,
           "Name": null,
           "Version": null
         }
@@ -3135,19 +3087,40 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dE9oKxuF2Ak=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=45685\nfileID=1000008421",
-        "Name": "Improved LightBeam-45685-1-0.rar",
-        "Size": 952995,
+        "Hash": "G7aPoOg1B6M=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=48001\nfileID=1000017605",
+        "Name": "King of worms robe replacer-48001-1-0.7z",
+        "Size": 450109,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000008421,
+          "FileID": 1000017605,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 45685,
+          "ModID": 48001,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gnaExaD5u1E=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=48759\nfileID=1000020198",
+        "Name": "Leyawiin Woodland floor fix -All Natural compatible-48759-1-0.7z",
+        "Size": 2635861,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000020198,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 48759,
           "Name": null,
           "Version": null
         }
@@ -3177,27 +3150,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QufFsFYN+1k=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=48779\nfileID=1000020248",
-        "Name": "Local Guards Features - Kvatch Addon-48779-1-0.7z",
-        "Size": 1674456,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000020248,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 48779,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "3fv4kX5zGfI=",
         "Meta": "[General]\ngameName=oblivion\nmodID=48199\nfileID=1000018239",
         "Name": "New Brows for OCO v2-48199-1-0.7z",
@@ -3219,19 +3171,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ZUb4gYFuQmY=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=49068\nfileID=1000021048",
-        "Name": "Potions-49068-1-1-1546355116.7z",
-        "Size": 9177125,
+        "Hash": "XIUCAji/eck=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=48588\nfileID=1000021113",
+        "Name": "Lore-Friendly Replacer for Default Hair v0.265-48588-265-1547164494.zip",
+        "Size": 69160532,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000021048,
+          "FileID": 1000021113,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 49068,
+          "ModID": 48588,
           "Name": null,
           "Version": null
         }
@@ -3324,469 +3276,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "rxahPc2Ih30=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=13012\nfileID=14711",
-        "Name": "LoadingScreens-13012.7z",
-        "Size": 22063749,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 14711,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 13012,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "oCEzJMN13Gc=",
-        "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_oblivion_v0181.zip\ndirectURLHeaders=Referer:http://enbdev.com/download_mod_tesoblivion.htm",
-        "Name": "enbseries_oblivion_v0181.zip",
-        "Size": 1508958,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [
-            "Referer:http://enbdev.com/download_mod_tesoblivion.htm"
-          ],
-          "Url": "http://enbdev.com/enbseries_oblivion_v0181.zip"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "LAMcUjiLu6M=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=49096\nfileID=1000030456",
-        "Name": "Av Latta Magicka-49096-1-21-1645573288.7z",
-        "Size": 7942828,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000030456,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 49096,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "LqQzpeKg4G4=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=49318\nfileID=1000021890",
-        "Name": "My Grey Prince-49318-1-3-1556129705.7z",
-        "Size": 1153,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000021890,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 49318,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ij2ynMYVTKo=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=26216\nfileID=1000000846",
-        "Name": "TRAP-26216-1-1.zip",
-        "Size": 32851,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000000846,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 26216,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "LbJE4yT4bgg=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=35560\nfileID=1000029514",
-        "Name": "WEPON Base Install Oblivion and SI-35560-1-12-1636218984.zip",
-        "Size": 27537307,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000029514,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 35560,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "DSaz7ySWXrA=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=49495\nfileID=1000022536",
-        "Name": "Jump While Blocking-49495-1-0-1562280616.zip",
-        "Size": 44225,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000022536,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 49495,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "chtVqsO393o=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=46917\nfileID=1000013653",
-        "Name": "Aurora in motion Update1-46917-.zip",
-        "Size": 106826,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000013653,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 46917,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "/vCsGehTBpY=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=46801\nfileID=1000013169",
-        "Name": "Oblivion Chapel Altar Replacer-46801-1-0.zip",
-        "Size": 519275,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000013169,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 46801,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vbM1SKeAhQY=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=46992\nfileID=1000013998",
-        "Name": "Kaizits Animated Daedric Ingredients fix-46992-.rar",
-        "Size": 4195843,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000013998,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 46992,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "oR1rJbgDzNU=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=47949\nfileID=1000017442",
-        "Name": "Fur armor replacer-47949-.7z",
-        "Size": 835187,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000017442,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 47949,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "i1HrkBKrRro=",
-        "Meta": "[General]\ndirectURL=https://www.moddb.com/downloads/start/218291?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fvkvii-oblivion-cyrodiil-map%2Fdownloads",
-        "Name": "VKVII_Oblivion_Cyrodiil_Map.7z",
-        "Size": 2204904,
-        "State": {
-          "$type": "ModDBDownloader, Wabbajack.Lib",
-          "Url": "https://www.moddb.com/downloads/start/218291?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fvkvii-oblivion-cyrodiil-map%2Fdownloads"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "wcEn3Ez1lOo=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=49861\nfileID=1000025319",
-        "Name": "NPC Hair Matches Beard - Updated-49861-1-2-1-1595061182.7z",
-        "Size": 782326,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000025319,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 49861,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Remr0UHbW+E=",
-        "Meta": "[General]\ndirectURL=https://github.com/llde/xOBSE/releases/download/22.8/xOBSE-22.8.zip",
-        "Name": "xOBSE-22.8.zip",
-        "Size": 5037287,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/llde/xOBSE/releases/download/22.8/xOBSE-22.8.zip"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8Sw0f4scpuI=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=16513\nfileID=1000033393",
-        "Name": "Better Cities Leyawiin v6.2.4 Quickfix-16513-6-2-4-1673095378.7z",
-        "Size": 705,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000033393,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 16513,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "dx6h49+Z43I=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=47979\nfileID=1000017542",
-        "Name": "OCOv2 Character Tweaks-47979-.zip",
-        "Size": 1046861,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000017542,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 47979,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "MTs7Coo5NAg=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=52721\nfileID=1000033705",
-        "Name": "Console Ignores Player-52721-1-0-1675993058.zip",
-        "Size": 45624,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000033705,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 52721,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "uaF82lsQJb0=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=35593\nfileID=70882",
-        "Name": "Falling Stars-35593-1.7z",
-        "Size": 6560,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 70882,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 35593,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "1OM/fGhxmyk=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=52716\nfileID=1000033673",
-        "Name": "No Inventory On Alt-Tab-52716-1-0-1675771581.zip",
-        "Size": 45545,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000033673,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 52716,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "hpO5uC66124=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=51844\nfileID=1000030650",
-        "Name": "Wraith Ragdoll - Optional File-51844-1-0-1647893556.7z",
-        "Size": 59232,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000030650,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 51844,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "TgdoSNSzzqI=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=23733\nfileID=40569",
-        "Name": "Shiny Septims - Oblivion-23733.rar",
-        "Size": 774392,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 40569,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 23733,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vjIn4oEUy4Y=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=47949\nfileID=1000017513",
-        "Name": "HGEC version-47949-1-0.7z",
-        "Size": 854192,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000017513,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 47949,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "gnaExaD5u1E=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=48759\nfileID=1000020198",
-        "Name": "Leyawiin Woodland floor fix -All Natural compatible-48759-1-0.7z",
-        "Size": 2635861,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000020198,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 48759,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "ByLw2RsoBsI=",
         "Meta": "[General]\ngameName=oblivion\nmodID=44257\nfileID=1000003945",
         "Name": "Falling Leaves V1_0 BAIN-44257-1-0 (1).rar",
@@ -3808,19 +3297,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dLW5cAh2gUg=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=36152\nfileID=72568",
-        "Name": "Dungeons of Blackwood 1_0-36152-1-0.7z",
-        "Size": 406805,
+        "Hash": "rxahPc2Ih30=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=13012\nfileID=14711",
+        "Name": "LoadingScreens-13012.7z",
+        "Size": 22063749,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 72568,
+          "FileID": 14711,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 36152,
+          "ModID": 13012,
           "Name": null,
           "Version": null
         }
@@ -3829,641 +3318,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "TQZIPzbsybs=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=47184\nfileID=1000015243",
-        "Name": "Enhanced Economy-47184-5-4-3r5.rar",
-        "Size": 94894,
+        "Hash": "8C9RS7VXA4w=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=16020\nfileID=21970",
+        "Name": "LoadingScreensThemedAddOn-16020.7z",
+        "Size": 21379614,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000015243,
+          "FileID": 21970,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 47184,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ih5YL5WPVgM=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=49652\nfileID=1000023042",
-        "Name": "Oblivion BSA Decompressor-49652-1-0-1570025005.7z",
-        "Size": 1240839,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000023042,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 49652,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "/ptvjYnWy9U=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=52830\nfileID=1000034097",
-        "Name": "Daedric Quests Revised V1_0.7z-52830-1-0-1679332923.7z",
-        "Size": 366985,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000034097,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 52830,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "lDvJOhT8438=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=49490\nfileID=1000022513",
-        "Name": "Console Numpad Support-49490-1-0-1562019580.zip",
-        "Size": 44398,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000022513,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 49490,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "9R+KSMS/6Ag=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=52719\nfileID=1000033679",
-        "Name": "No Lockpick Activate-52719-1-0-1675773786.zip",
-        "Size": 45553,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000033679,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 52719,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "KaFEluuTX04=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=25367\nfileID=44088",
-        "Name": "ArenaPoster-25367.rar",
-        "Size": 855766,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 44088,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 25367,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "sqOQGI903Bk=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=46801\nfileID=1000013177",
-        "Name": "Better Chapel Altars - Richer Normal Map-46801-1-0.zip",
-        "Size": 267255,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000013177,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 46801,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "zqq+FfUnZbM=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=14634\nfileID=18720",
-        "Name": "Dalls_Horse_Armor-14634.7z",
-        "Size": 4985235,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 18720,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 14634,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "hQexQD8vWD4=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=38546\nfileID=79717",
-        "Name": "HiRes Silver Clutter-38546-1.zip",
-        "Size": 2214076,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 79717,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 38546,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "5Xm9sfUGA/w=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=49520\nfileID=1000022613",
-        "Name": "Improved Frost Atronachs-49520-1-1-1563149803.7z",
-        "Size": 3841266,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000022613,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 49520,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "StGAhlr0+UQ=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=47917\nfileID=1000017351",
-        "Name": "Elven armor replacer-47917-1-0.7z",
-        "Size": 541066,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000017351,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 47917,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "GQlMdxIOQtM=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=44069\nfileID=1000003373",
-        "Name": "Alive Waters No Fish-44069-1-0.7z",
-        "Size": 39988,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000003373,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 44069,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4WUpsYTL7bY=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=40392\nfileID=1000007121",
-        "Name": "Better Dungeons-40392-v13.7z",
-        "Size": 1429144,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000007121,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 40392,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "lRg5pfIegoA=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=48145\nfileID=1000018053",
-        "Name": "file-48145-1.7z",
-        "Size": 1403,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000018053,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 48145,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "sM5l7V167UM=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=35560\nfileID=1000033309",
-        "Name": "WEPON Base Install Oblivion and SI Update-35560-1-13-1672262901.zip",
-        "Size": 202434,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000033309,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 35560,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "AffVmqe5U5c=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=49104\nfileID=1000021160",
-        "Name": "Console Paste-49104-1-1-1547856822.zip",
-        "Size": 62984,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000021160,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 49104,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "HxhVxOXGfg0=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=43728\nfileID=1000002070",
-        "Name": "Hi-Res Soul Gems-43728-1-0.zip",
-        "Size": 1977605,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000002070,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 43728,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6mVbk1CssMQ=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=46131\nfileID=1000017913",
-        "Name": "Lights of Oblivion - Imperial Mesh-46131-1-5.7z",
-        "Size": 22347,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000017913,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 46131,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "yN3qPuROYRs=",
-        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=1koW6d7doH3gZzio2Xgy38LH8Et97oSNu\u0026export=download",
-        "Name": "HackdirtAliveFix.zip",
-        "Size": 69057,
-        "State": {
-          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
-          "Id": "1koW6d7doH3gZzio2Xgy38LH8Et97oSNu"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "M84P8M8+wgM=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=46968\nfileID=1000013863",
-        "Name": "Archmage Robe remodel-46968-1-0.7z",
-        "Size": 496758,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000013863,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 46968,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "UnDywBOAXhw=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=47917\nfileID=1000017355",
-        "Name": "HGEC version-47917-1-0.7z",
-        "Size": 560796,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000017355,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 47917,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "TVwOFDU6xnE=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=48554\nfileID=1000024692",
-        "Name": "Devastation of Kvatch Redux-48554-1-4-1-1589040407.7z",
-        "Size": 1334281,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000024692,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 48554,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "z92j6cG3E7s=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=4135\nfileID=3342",
-        "Name": "Original Color Darker Nights-4135.zip",
-        "Size": 308585,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 3342,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 4135,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "R3UBmozvPiA=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=45056\nfileID=1000006596",
-        "Name": "better ropes-45056-1-1.zip",
-        "Size": 525039,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000006596,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 45056,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vJFVLdqUj4Y=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=50125\nfileID=1000024775",
-        "Name": "CAMERA-50125-1-1589695736.7z",
-        "Size": 82742,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000024775,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 50125,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "it3w8r65p6E=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=52717\nfileID=1000033675",
-        "Name": "List Missing Mods On Load-52717-1-0-1675772636.zip",
-        "Size": 46273,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000033675,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 52717,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4kOWxMqIxbc=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=32200\nfileID=1000004991",
-        "Name": "MenuQue v16b-32200-v16b.zip",
-        "Size": 1126124,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000004991,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 32200,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "KC7g0/AMKQ4=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=50943\nfileID=1000027340",
-        "Name": "Doors-50943-1-0-1616642948.7z",
-        "Size": 11466087,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000027340,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 50943,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "sbyn0bAV1E0=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=11954\nfileID=12268",
-        "Name": "Vanilla Hair Replacer-11954.7z",
-        "Size": 743420,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 12268,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 11954,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "G7aPoOg1B6M=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=48001\nfileID=1000017605",
-        "Name": "King of worms robe replacer-48001-1-0.7z",
-        "Size": 450109,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000017605,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 48001,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "XIUCAji/eck=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=48588\nfileID=1000021113",
-        "Name": "Lore-Friendly Replacer for Default Hair v0.265-48588-265-1547164494.zip",
-        "Size": 69160532,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000021113,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 48588,
+          "ModID": 16020,
           "Name": null,
           "Version": null
         }
@@ -4556,6 +3423,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "IGtho/BYp3w=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52799\nfileID=1000034210",
+        "Name": "Dark Brotherhood Revised V1_1.7z-52799-1-1-1680119597.7z",
+        "Size": 53087,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000034210,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 52799,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "mjPng1ryehc=",
         "Meta": "[General]\ngameName=oblivion\nmodID=18305\nfileID=1000021226",
         "Name": "Weather - All Natural-18305-1-38-1548910107.7z",
@@ -4569,229 +3457,6 @@
           "ImageURL": null,
           "IsNSFW": false,
           "ModID": 18305,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4SrYsq1W/sk=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=45536\nfileID=1000007936",
-        "Name": "Improved Storm Atronachs-45536-1-0.7z",
-        "Size": 9277544,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000007936,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 45536,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Cd66B2KNoMw=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=44697\nfileID=1000007421",
-        "Name": "Completely Ruined Ruins v03 skirting-44697-v03.7z",
-        "Size": 3364294,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000007421,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 44697,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "gsGjMOgS/QU=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=19847\nfileID=58809",
-        "Name": "PiiiP - Enhanced Grabbing v05-19847.7z",
-        "Size": 17332605,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 58809,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 19847,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "LpGcanJJ180=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=46774\nfileID=1000013055",
-        "Name": "Oblivion Window Reflection Replacer-46774-.zip",
-        "Size": 507246,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000013055,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 46774,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "HTVX0jaMoP8=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=46264\nfileID=1000010882",
-        "Name": "Double Sided Cobwebs-46264-1-0.7z",
-        "Size": 1029051,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000010882,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 46264,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "h1JuMMsKz9o=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=51324\nfileID=1000028737",
-        "Name": "Oblivion Character Overhaul Cleaned - Vanilla Hair-51324-1-0-0-1629621931.7z",
-        "Size": 25790,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000028737,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 51324,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "i+mSF/NOuUo=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=50066\nfileID=1000024557",
-        "Name": "OBLModLimitFix-50066-1-0-1587582618.zip",
-        "Size": 70725,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000024557,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 50066,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "qZnw+uK5HM4=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=49511\nfileID=1000022595",
-        "Name": "DEI OBSE Patch-49511-1-0-1563036466.zip",
-        "Size": 445752,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000022595,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 49511,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Z6u6p9pCe9Q=",
-        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=1ATSHg2SYWj8k9bttjbvYSxu47ULHySF2\u0026export=download",
-        "Name": "KvGuardFeaturesDevastationReduxPatch.7z",
-        "Size": 7815,
-        "State": {
-          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
-          "Id": "1ATSHg2SYWj8k9bttjbvYSxu47ULHySF2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7ZxL/yvhCqQ=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=52829\nfileID=1000034117",
-        "Name": "Sewers and Dungeons linked in every city v1.2-52829-1-2-1-1679434587.zip",
-        "Size": 72764,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000034117,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 52829,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "jZzmxjE3qwU=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=43752\nfileID=1000020300",
-        "Name": "Blockhead 11.0-43752-11-0.7z",
-        "Size": 170333,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000020300,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 43752,
           "Name": null,
           "Version": null
         }
@@ -4821,19 +3486,32 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "xmVIa2oIVxA=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=23484\nfileID=1000005658",
-        "Name": "GMArcheryRebalance-23484-1-0.zip",
-        "Size": 4697,
+        "Hash": "yN3qPuROYRs=",
+        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=1koW6d7doH3gZzio2Xgy38LH8Et97oSNu\u0026export=download",
+        "Name": "HackdirtAliveFix.zip",
+        "Size": 69057,
+        "State": {
+          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
+          "Id": "1koW6d7doH3gZzio2Xgy38LH8Et97oSNu"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "StGAhlr0+UQ=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=47917\nfileID=1000017351",
+        "Name": "Elven armor replacer-47917-1-0.7z",
+        "Size": 541066,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000005658,
+          "FileID": 1000017351,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 23484,
+          "ModID": 47917,
           "Name": null,
           "Version": null
         }
@@ -4842,19 +3520,40 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8IM5g1E7R8M=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=42948\nfileID=92936",
-        "Name": "Hackdirt Alive-42948-.7z",
-        "Size": 32428354,
+        "Hash": "Tne4JS+OBuU=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49406\nfileID=1000022211",
+        "Name": "kart ocov2 heads manual-49406-1-1559303775.7z",
+        "Size": 464579,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 92936,
+          "FileID": 1000022211,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 42948,
+          "ModID": 49406,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gsGjMOgS/QU=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=19847\nfileID=58809",
+        "Name": "PiiiP - Enhanced Grabbing v05-19847.7z",
+        "Size": 17332605,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 58809,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 19847,
           "Name": null,
           "Version": null
         }
@@ -4884,19 +3583,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yesXyL8AbAU=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=43297\nfileID=1000000569",
-        "Name": "Spider Daedra Replacer-43297-1-2.rar",
-        "Size": 958963,
+        "Hash": "y7SSBLRzkqQ=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=43285\nfileID=1000000630",
+        "Name": "Spriggan-43285-1-1.7z",
+        "Size": 245720,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000000569,
+          "FileID": 1000000630,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 43297,
+          "ModID": 43285,
           "Name": null,
           "Version": null
         }
@@ -4905,19 +3604,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SklotM0CaQQ=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=52796\nfileID=1000034094",
-        "Name": "Fighters Guild Revised V1_0.7z-52796-1-0-1679332427.7z",
-        "Size": 50158,
+        "Hash": "DGkvPXOPDrk=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=10383\nfileID=15404",
+        "Name": "BravilUpdate-10383.7z",
+        "Size": 11267510,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000034094,
+          "FileID": 15404,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 52796,
+          "ModID": 10383,
           "Name": null,
           "Version": null
         }
@@ -4926,19 +3625,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "pNYjbGT8GDY=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=44087\nfileID=1000031663",
-        "Name": "Jobs-44087-2022-06-28-1656442912.7z",
-        "Size": 946451,
+        "Hash": "4kOWxMqIxbc=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=32200\nfileID=1000004991",
+        "Name": "MenuQue v16b-32200-v16b.zip",
+        "Size": 1126124,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000031663,
+          "FileID": 1000004991,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 44087,
+          "ModID": 32200,
           "Name": null,
           "Version": null
         }
@@ -4947,19 +3646,35 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/fskBUFhoA4=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=52693\nfileID=1000033565",
-        "Name": "Sewers For Every City-52693-1-0-1674926970.zip",
-        "Size": 181315,
+        "Hash": "tUpkEvyQ42k=",
+        "Meta": "[General]\ngameName=Oblivion\ngameFile=Readme.txt",
+        "Name": "Readme.txt",
+        "Size": 22450,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Oblivion",
+          "GameFile": "Readme.txt",
+          "GameVersion": "1.2.0416",
+          "Hash": "tUpkEvyQ42k="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xmVIa2oIVxA=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=23484\nfileID=1000005658",
+        "Name": "GMArcheryRebalance-23484-1-0.zip",
+        "Size": 4697,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000033565,
+          "FileID": 1000005658,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 52693,
+          "ModID": 23484,
           "Name": null,
           "Version": null
         }
@@ -4968,40 +3683,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BaJS/JuXuD4=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=43724\nfileID=1000002066",
-        "Name": "Snowy Road To Bruma-43724-.zip",
-        "Size": 2220527,
+        "Hash": "h1JuMMsKz9o=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=51324\nfileID=1000028737",
+        "Name": "Oblivion Character Overhaul Cleaned - Vanilla Hair-51324-1-0-0-1629621931.7z",
+        "Size": 25790,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000002066,
+          "FileID": 1000028737,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 43724,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "b3rMsP6GKnY=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=49105\nfileID=1000022866",
-        "Name": "Better Autowalk-49105-2-0-1567094636.zip",
-        "Size": 44414,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1000022866,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 49105,
+          "ModID": 51324,
           "Name": null,
           "Version": null
         }
@@ -5031,19 +3725,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "g3Khy5uWmso=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=16640\nfileID=23361",
-        "Name": "Elven Map For Shivering Isles-16640.zip",
-        "Size": 695119,
+        "Hash": "9ua7btaa9d0=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=19628\nfileID=1000033694",
+        "Name": "AWLS Animated Window Lighting System-19628-5-6-2-1675880630.7z",
+        "Size": 182222791,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 23361,
+          "FileID": 1000033694,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 16640,
+          "ModID": 19628,
           "Name": null,
           "Version": null
         }
@@ -5052,19 +3746,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cxnaZGlQEuQ=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=47245\nfileID=1000015081",
-        "Name": "Particled Ayleid Stones 1.0-47245-1-0.7z",
-        "Size": 32654,
+        "Hash": "4SrYsq1W/sk=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45536\nfileID=1000007936",
+        "Name": "Improved Storm Atronachs-45536-1-0.7z",
+        "Size": 9277544,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000015081,
+          "FileID": 1000007936,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 47245,
+          "ModID": 45536,
           "Name": null,
           "Version": null
         }
@@ -5073,19 +3767,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "eDzQD0P1krA=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=49335\nfileID=1000021952",
-        "Name": "Shimmer\u0027s Interior Draw Distance Fix-49335-1-0-1556817660.zip",
-        "Size": 258870,
+        "Hash": "mIeGb3RrHt8=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50923\nfileID=1000027251",
+        "Name": "NAO - Natural and Atmospheric Oblivion-50923-1-0-1616065545.zip",
+        "Size": 6862198,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000021952,
+          "FileID": 1000027251,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 49335,
+          "ModID": 50923,
           "Name": null,
           "Version": null
         }
@@ -5094,19 +3788,384 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PH/YufviR/Y=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=45336\nfileID=1000019541",
-        "Name": "Snowy Road to Bruma Patches-45336-1-2.7z",
-        "Size": 2300423,
+        "Hash": "pxLoXx8vsQQ=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=32266\nfileID=71265",
+        "Name": "Quest Log Manager 1_3_2b-32266-1-3-2b.rar",
+        "Size": 65334,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000019541,
+          "FileID": 71265,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 45336,
+          "ModID": 32266,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oCEzJMN13Gc=",
+        "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_oblivion_v0181.zip\ndirectURLHeaders=Referer:http://enbdev.com/download_mod_tesoblivion.htm",
+        "Name": "enbseries_oblivion_v0181.zip",
+        "Size": 1508958,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [
+            "Referer:http://enbdev.com/download_mod_tesoblivion.htm"
+          ],
+          "Url": "http://enbdev.com/enbseries_oblivion_v0181.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qZnw+uK5HM4=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49511\nfileID=1000022595",
+        "Name": "DEI OBSE Patch-49511-1-0-1563036466.zip",
+        "Size": 445752,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000022595,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 49511,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uaF82lsQJb0=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=35593\nfileID=70882",
+        "Name": "Falling Stars-35593-1.7z",
+        "Size": 6560,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 70882,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 35593,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Z6u6p9pCe9Q=",
+        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=1ATSHg2SYWj8k9bttjbvYSxu47ULHySF2\u0026export=download",
+        "Name": "KvGuardFeaturesDevastationReduxPatch.7z",
+        "Size": 7815,
+        "State": {
+          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
+          "Id": "1ATSHg2SYWj8k9bttjbvYSxu47ULHySF2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QufFsFYN+1k=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=48779\nfileID=1000020248",
+        "Name": "Local Guards Features - Kvatch Addon-48779-1-0.7z",
+        "Size": 1674456,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000020248,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 48779,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wcEn3Ez1lOo=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49861\nfileID=1000025319",
+        "Name": "NPC Hair Matches Beard - Updated-49861-1-2-1-1595061182.7z",
+        "Size": 782326,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000025319,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 49861,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7ZxL/yvhCqQ=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52829\nfileID=1000034117",
+        "Name": "Sewers and Dungeons linked in every city v1.2-52829-1-2-1-1679434587.zip",
+        "Size": 72764,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000034117,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 52829,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MopvZ8GGihI=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=43072\nfileID=93514",
+        "Name": "ImmersiveInteriorsLandscapeAddOn_1_10-43072-1-10.7z",
+        "Size": 11869759,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 93514,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 43072,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "NR2at8Y1Qgk=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45018\nfileID=1000006482",
+        "Name": "Nirnroot retexture-45018-1-0.rar",
+        "Size": 8602559,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000006482,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 45018,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BaJS/JuXuD4=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=43724\nfileID=1000002066",
+        "Name": "Snowy Road To Bruma-43724-.zip",
+        "Size": 2220527,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000002066,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 43724,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/vCsGehTBpY=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=46801\nfileID=1000013169",
+        "Name": "Oblivion Chapel Altar Replacer-46801-1-0.zip",
+        "Size": 519275,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000013169,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 46801,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HTVX0jaMoP8=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=46264\nfileID=1000010882",
+        "Name": "Double Sided Cobwebs-46264-1-0.7z",
+        "Size": 1029051,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000010882,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 46264,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XAM8UWcAjjY=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=38546\nfileID=79814",
+        "Name": "HiRes Gold Clutter-38546-1.zip",
+        "Size": 2273622,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 79814,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 38546,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bFoQPxsVNSs=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50342\nfileID=1000025527",
+        "Name": "Alex\u0027s Oblivion ENB Preset - Redone-50342-1-0-0-1597174042.rar",
+        "Size": 56831,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000025527,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 50342,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8IM5g1E7R8M=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=42948\nfileID=92936",
+        "Name": "Hackdirt Alive-42948-.7z",
+        "Size": 32428354,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 92936,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 42948,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "S6XjSUHiPuo=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49555\nfileID=1000028353",
+        "Name": "Maskar\u0027s Unarmored Skill 1_2-49555-1-1625830301.7z",
+        "Size": 112885,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000028353,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 49555,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LAMcUjiLu6M=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49096\nfileID=1000030456",
+        "Name": "Av Latta Magicka-49096-1-21-1645573288.7z",
+        "Size": 7942828,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000030456,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 49096,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LpGcanJJ180=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=46774\nfileID=1000013055",
+        "Name": "Oblivion Window Reflection Replacer-46774-.zip",
+        "Size": 507246,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000013055,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 46774,
           "Name": null,
           "Version": null
         }
@@ -5220,19 +4279,19 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hvSnN6KUpCo=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=52893\nfileID=1000034341",
-        "Name": "Enhanced Grabbing - AI Voices-52893-1-01-1680747437.zip",
-        "Size": 33121242,
+        "Hash": "g3Khy5uWmso=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=16640\nfileID=23361",
+        "Name": "Elven Map For Shivering Isles-16640.zip",
+        "Size": 695119,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000034341,
+          "FileID": 23361,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 52893,
+          "ModID": 16640,
           "Name": null,
           "Version": null
         }
@@ -5241,19 +4300,82 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Zvp9uDBHqB8=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=49988\nfileID=1000024319",
-        "Name": "OCOv2 - Bashed Patch Eyes Fix-49988-1-1-1585242856.7z",
-        "Size": 889,
+        "Hash": "cxnaZGlQEuQ=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=47245\nfileID=1000015081",
+        "Name": "Particled Ayleid Stones 1.0-47245-1-0.7z",
+        "Size": 32654,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": null,
           "Description": null,
-          "FileID": 1000024319,
+          "FileID": 1000015081,
           "GameName": "Oblivion",
           "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 49988,
+          "ModID": 47245,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SklotM0CaQQ=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52796\nfileID=1000034094",
+        "Name": "Fighters Guild Revised V1_0.7z-52796-1-0-1679332427.7z",
+        "Size": 50158,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000034094,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 52796,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pNYjbGT8GDY=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=44087\nfileID=1000031663",
+        "Name": "Jobs-44087-2022-06-28-1656442912.7z",
+        "Size": 946451,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000031663,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 44087,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/fskBUFhoA4=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52693\nfileID=1000033565",
+        "Name": "Sewers For Every City-52693-1-0-1674926970.zip",
+        "Size": 181315,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000033565,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 52693,
           "Name": null,
           "Version": null
         }
@@ -5283,6 +4405,439 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "KaFEluuTX04=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=25367\nfileID=44088",
+        "Name": "ArenaPoster-25367.rar",
+        "Size": 855766,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 44088,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 25367,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sqOQGI903Bk=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=46801\nfileID=1000013177",
+        "Name": "Better Chapel Altars - Richer Normal Map-46801-1-0.zip",
+        "Size": 267255,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000013177,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 46801,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hvSnN6KUpCo=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52893\nfileID=1000034341",
+        "Name": "Enhanced Grabbing - AI Voices-52893-1-01-1680747437.zip",
+        "Size": 33121242,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000034341,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 52893,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jZzmxjE3qwU=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=43752\nfileID=1000020300",
+        "Name": "Blockhead 11.0-43752-11-0.7z",
+        "Size": 170333,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000020300,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 43752,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eDzQD0P1krA=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49335\nfileID=1000021952",
+        "Name": "Shimmer\u0027s Interior Draw Distance Fix-49335-1-0-1556817660.zip",
+        "Size": 258870,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000021952,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 49335,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TgdoSNSzzqI=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=23733\nfileID=40569",
+        "Name": "Shiny Septims - Oblivion-23733.rar",
+        "Size": 774392,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 40569,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 23733,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PH/YufviR/Y=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45336\nfileID=1000019541",
+        "Name": "Snowy Road to Bruma Patches-45336-1-2.7z",
+        "Size": 2300423,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000019541,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 45336,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "i1HrkBKrRro=",
+        "Meta": "[General]\ndirectURL=https://www.moddb.com/downloads/start/218291?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fvkvii-oblivion-cyrodiil-map%2Fdownloads",
+        "Name": "VKVII_Oblivion_Cyrodiil_Map.7z",
+        "Size": 2204904,
+        "State": {
+          "$type": "ModDBDownloader, Wabbajack.Lib",
+          "Url": "https://www.moddb.com/downloads/start/218291?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fvkvii-oblivion-cyrodiil-map%2Fdownloads"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rZnrBl4HUfM=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=47085\nfileID=1000022995",
+        "Name": "EngineBugFixes v2.22-47085-2-22-1569169531.7z",
+        "Size": 186817,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000022995,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 47085,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DKR11dGAtr4=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52718\nfileID=1000033677",
+        "Name": "Quick Item Transfer-52718-1-0-1675773205.zip",
+        "Size": 45559,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000033677,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 52718,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hpO5uC66124=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=51844\nfileID=1000030650",
+        "Name": "Wraith Ragdoll - Optional File-51844-1-0-1647893556.7z",
+        "Size": 59232,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000030650,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 51844,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "M84P8M8+wgM=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=46968\nfileID=1000013863",
+        "Name": "Archmage Robe remodel-46968-1-0.7z",
+        "Size": 496758,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000013863,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 46968,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6mVbk1CssMQ=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=46131\nfileID=1000017913",
+        "Name": "Lights of Oblivion - Imperial Mesh-46131-1-5.7z",
+        "Size": 22347,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000017913,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 46131,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Zvp9uDBHqB8=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49988\nfileID=1000024319",
+        "Name": "OCOv2 - Bashed Patch Eyes Fix-49988-1-1-1585242856.7z",
+        "Size": 889,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000024319,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 49988,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "b3rMsP6GKnY=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49105\nfileID=1000022866",
+        "Name": "Better Autowalk-49105-2-0-1567094636.zip",
+        "Size": 44414,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000022866,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 49105,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DSaz7ySWXrA=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49495\nfileID=1000022536",
+        "Name": "Jump While Blocking-49495-1-0-1562280616.zip",
+        "Size": 44225,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000022536,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 49495,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "chtVqsO393o=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=46917\nfileID=1000013653",
+        "Name": "Aurora in motion Update1-46917-.zip",
+        "Size": 106826,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000013653,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 46917,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dE9oKxuF2Ak=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45685\nfileID=1000008421",
+        "Name": "Improved LightBeam-45685-1-0.rar",
+        "Size": 952995,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000008421,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 45685,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SBiKZVfbYkY=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=46995\nfileID=1000019560",
+        "Name": "Human Eyes - Optional-46995-1-5.7z",
+        "Size": 82805,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000019560,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 46995,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QzT1paYNUvc=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50566\nfileID=1000026230",
+        "Name": "Fur Armor Replacer - Clipping Mask Fix-50566-1-0-1606607650.7z",
+        "Size": 514013,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000026230,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 50566,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "b0FnesPEbIw=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=33248\nfileID=88252",
+        "Name": "AddActorValues-33248.rar",
+        "Size": 446972,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 88252,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 33248,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "epo1T31fq1w=",
         "Meta": "[General]\ngameName=oblivion\nmodID=46674\nfileID=1000016516",
         "Name": "Enemies keep weapons in inventory-46674-.7z",
@@ -5296,6 +4851,48 @@
           "ImageURL": null,
           "IsNSFW": false,
           "ModID": 46674,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UNIk/lbpO/c=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=2037\nfileID=21250",
+        "Name": "Harvest Flora v3_0_1-2037.zip",
+        "Size": 5628614,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 21250,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 2037,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EC/UFFUVoSU=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50333\nfileID=1000025491",
+        "Name": "JJ\u0027s Birthsigns-50333-v1-0-1596602594.7z",
+        "Size": 5137,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000025491,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 50333,
           "Name": null,
           "Version": null
         }
@@ -5338,6 +4935,510 @@
           "ImageURL": null,
           "IsNSFW": false,
           "ModID": 49347,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MTs7Coo5NAg=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52721\nfileID=1000033705",
+        "Name": "Console Ignores Player-52721-1-0-1675993058.zip",
+        "Size": 45624,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000033705,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 52721,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1OM/fGhxmyk=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52716\nfileID=1000033673",
+        "Name": "No Inventory On Alt-Tab-52716-1-0-1675771581.zip",
+        "Size": 45545,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000033673,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 52716,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "T0p9Plc2zJE=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45356\nfileID=1000007445",
+        "Name": "Improved Flame Atronachs-45356-1-1.7z",
+        "Size": 4272192,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000007445,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 45356,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2yIZFKLgU24=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=47535\nfileID=1000015982",
+        "Name": "Enhanced Vegetation SI-47535-1.zip",
+        "Size": 2090,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000015982,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 47535,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2hVHPhtyZkk=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=44079\nfileID=1000030448",
+        "Name": "Better Mining-44079-2022-02-21-1645494971.7z",
+        "Size": 16318,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000030448,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 44079,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uKYEmaY0+d0=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=48557\nfileID=1000021639",
+        "Name": "OCOv2 - DLC Faces-48557-1-2-1553765900.7z",
+        "Size": 17694,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000021639,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 48557,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lDvJOhT8438=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49490\nfileID=1000022513",
+        "Name": "Console Numpad Support-49490-1-0-1562019580.zip",
+        "Size": 44398,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000022513,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 49490,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9R+KSMS/6Ag=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52719\nfileID=1000033679",
+        "Name": "No Lockpick Activate-52719-1-0-1675773786.zip",
+        "Size": 45553,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000033679,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 52719,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3gVHqqdxzUU=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=27945\nfileID=50991",
+        "Name": "Skeletons-27945.7z",
+        "Size": 17391,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 50991,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 27945,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sbyn0bAV1E0=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=11954\nfileID=12268",
+        "Name": "Vanilla Hair Replacer-11954.7z",
+        "Size": 743420,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 12268,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 11954,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LqQzpeKg4G4=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49318\nfileID=1000021890",
+        "Name": "My Grey Prince-49318-1-3-1556129705.7z",
+        "Size": 1153,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000021890,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 49318,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ij2ynMYVTKo=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=26216\nfileID=1000000846",
+        "Name": "TRAP-26216-1-1.zip",
+        "Size": 32851,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000000846,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 26216,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "AffVmqe5U5c=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49104\nfileID=1000021160",
+        "Name": "Console Paste-49104-1-1-1547856822.zip",
+        "Size": 62984,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000021160,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 49104,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CD6vv80nYE4=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49933\nfileID=1000033623",
+        "Name": "2020 Retexture Project - Snowy Roofs in Bruma for AWLS-49933-1-5-1675499097.7z",
+        "Size": 8126254,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000033623,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 49933,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Cd66B2KNoMw=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=44697\nfileID=1000007421",
+        "Name": "Completely Ruined Ruins v03 skirting-44697-v03.7z",
+        "Size": 3364294,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000007421,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 44697,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vjIn4oEUy4Y=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=47949\nfileID=1000017513",
+        "Name": "HGEC version-47949-1-0.7z",
+        "Size": 854192,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000017513,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 47949,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GQlMdxIOQtM=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=44069\nfileID=1000003373",
+        "Name": "Alive Waters No Fish-44069-1-0.7z",
+        "Size": 39988,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000003373,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 44069,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8Sw0f4scpuI=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=16513\nfileID=1000033393",
+        "Name": "Better Cities Leyawiin v6.2.4 Quickfix-16513-6-2-4-1673095378.7z",
+        "Size": 705,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000033393,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 16513,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dx6h49+Z43I=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=47979\nfileID=1000017542",
+        "Name": "OCOv2 Character Tweaks-47979-.zip",
+        "Size": 1046861,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000017542,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 47979,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vJFVLdqUj4Y=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50125\nfileID=1000024775",
+        "Name": "CAMERA-50125-1-1589695736.7z",
+        "Size": 82742,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000024775,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 50125,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "it3w8r65p6E=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52717\nfileID=1000033675",
+        "Name": "List Missing Mods On Load-52717-1-0-1675772636.zip",
+        "Size": 46273,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000033675,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 52717,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TQZIPzbsybs=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=47184\nfileID=1000015243",
+        "Name": "Enhanced Economy-47184-5-4-3r5.rar",
+        "Size": 94894,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000015243,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 47184,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lRg5pfIegoA=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=48145\nfileID=1000018053",
+        "Name": "file-48145-1.7z",
+        "Size": 1403,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000018053,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 48145,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sM5l7V167UM=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=35560\nfileID=1000033309",
+        "Name": "WEPON Base Install Oblivion and SI Update-35560-1-13-1672262901.zip",
+        "Size": 202434,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000033309,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 35560,
           "Name": null,
           "Version": null
         }
