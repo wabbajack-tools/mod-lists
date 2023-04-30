@@ -29,6 +29,10 @@
           <CopyToOutputDirectory>Always</CopyToOutputDirectory>
           <Link>files\modlists.json</Link>
         </Content>
+        <Content Include="..\..\repositories.json">
+          <Link>files\repositories.json</Link>
+          <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+        </Content>
         <Content Include="..\..\utility_modlists.json">
           <CopyToOutputDirectory>Always</CopyToOutputDirectory>
           <Link>files\utility_modlists.json</Link>

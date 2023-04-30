@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Net.Http;
 using System.Text.RegularExpressions;
 using Microsoft.Extensions.DependencyInjection;
+using Newtonsoft.Json;
 using Wabbajack.DTOs;
 using Wabbajack.DTOs.JsonConverters;
 using Xunit;
@@ -13,6 +15,7 @@ namespace ModlistValidation
     public class TestModlists
     {
         private readonly DTOSerializer _dtoSerializer;
+        private static readonly HttpClient Client = new();
 
         public TestModlists()
         {
@@ -22,6 +25,50 @@ namespace ModlistValidation
 
             var serviceProvider = services.BuildServiceProvider();
             _dtoSerializer = serviceProvider.GetRequiredService<DTOSerializer>();
+        }
+
+        [Theory]
+        [InlineData("files/repositories.json")]
+        public async void TestRepositories(string file)
+        {
+            Assert.True(File.Exists(file), $"The file at \"{file}\" does not exist!");
+            Dictionary<string, Uri> repositories;
+            try
+            {
+                var text = File.ReadAllText(file);
+                repositories = JsonConvert.DeserializeObject<Dictionary<string, Uri>>(text);
+            }
+            catch (Exception e)
+            {
+                Assert.True(e == null, $"Unable to deserialize file \"{file}\"");
+                throw;
+            }
+
+            foreach (var entry in repositories)
+            {
+                try
+                {
+                    string responseBody = await Client.GetStringAsync(entry.Value);
+
+                    try
+                    {
+                        var modlists = _dtoSerializer.Deserialize<List<ModlistMetadata>>(responseBody);
+                        ValidateIndividualModlists(modlists);
+                    }
+                    catch (Exception e)
+                    {
+                        //Using Assert.True(false) is not ideal, but it it should help make errors in the JSONs easier to find.
+                        Assert.True(false, $"Unable to Validate \"{entry.Value}\". Due to the following Error:\n{e}");
+                    }
+                }
+                catch (Exception e)
+                {
+                    //Using Assert.True(false) is not ideal, but it it should help make errors in the JSONs easier to find.
+                    Assert.True(false, $"Unable to find valid \"{entry.Key}\" repository. Due to the following Error:\n{e}");
+                    throw;
+                }
+            }
+
         }
 
         [Theory]
@@ -44,6 +91,12 @@ namespace ModlistValidation
                 throw;
             }
 
+            ValidateIndividualModlists(modlists);
+
+        }
+
+        private static void ValidateIndividualModlists(List<ModlistMetadata> modlists)
+        {
             Assert.NotNull(modlists);
 
             foreach (var modlist in modlists)
@@ -61,6 +114,7 @@ namespace ModlistValidation
                 Assert.True(Enum.IsDefined(modlist.Game), $"Game \"{modlist.Game}\" is not a valid game! (\"{modlist.Title}\")");
 
                 Assert.True(Uri.TryCreate(modlist.Links.Download, UriKind.Absolute, out _), $"Modlist has no valid Download Url (Unable to create Uri)! (\"{modlist.Title}\")");
+                // ReSharper disable once UnusedVariable | Unused because Testing the link is not ideal since any website is allowed to be used since ~WJ 3.0.
                 Assert.True(Uri.TryCreate(modlist.Links.Readme, UriKind.Absolute, out var readmeUri), $"Modlist has no valid Readme Url (Unable to create Uri)! (\"{modlist.Title}\")");
                 Assert.True(Uri.TryCreate(modlist.Links.ImageUri, UriKind.Absolute, out var imageUri), $"Modlist has no valid Image Url (Unable to create Uri)! (\"{modlist.Title}\")");
 
@@ -100,6 +154,11 @@ namespace ModlistValidation
             }
         }
 
+        /**
+         * Removed due to WJ now allowing custom website readmes
+         */
+        // ReSharper disable once UnusedMember.Local
+        // ReSharper disable once UnusedParameter.Local
         private static void ValidateGitHubReadme(Uri uri, string name)
         {
             if (!uri.Host.Equals("raw.githubusercontent.com", StringComparison.OrdinalIgnoreCase)) return;
