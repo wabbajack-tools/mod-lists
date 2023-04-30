@@ -1,10 +1,11 @@
 ## Validation Report - Nordic Souls (Geborgen/nordic-souls)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Vanguard+2_2.rar](https://www.skyrim-guild.com/s/Vanguard-2_2.rar)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1644)
+### Valid (1643)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
@@ -1550,7 +1551,6 @@
 *  [Vanargand Animations - Sneak Idle Walk and Run-54351-1-1-1630433273.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54351/?tab=files&file_id=225228)
 *  [Vanargand Animations - Sneak Strike Attacks-55420-1-1-1631370169.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55420/?tab=files&file_id=227635)
 *  [Vanargand Animations - Sneak Thrust Attacks 1.1b-55031-1-1b-1630961280.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55031/?tab=files&file_id=226584)
-*  [Vanguard+2_2.rar](https://www.skyrim-guild.com/s/Vanguard-2_2.rar)
 *  [Vanilla Script microOptimizations-54061-1-16a-1654031453.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54061/?tab=files&file_id=287938)
 *  [Versatile Item and Group Re-Assignment-85419-1-0-1-1677208576.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85419/?tab=files&file_id=362785)
 *  [Veydosebrom Regions - A Skyrim Grass Overhaul-26293-1-2-1-1652026427.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26293/?tab=files&file_id=282352)
