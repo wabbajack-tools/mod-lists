@@ -107,7 +107,7 @@ Designed as the mod author's tool kit, Animonculory Dev Tools (ADT) comes with a
 
 ---
 
-### [Animonculory Visual Overhaul](https://github.com/The-Animonculory/Animonculory-Visual-Overhaul)
+### [Animonculory Visual Overhaul](https://github.com/The-Animonculory/AVO-NG)
 
 Animonculory Visual Overhaul (AVO) is designed as a list to bring the vanilla game up to modern standards without changing the core vanilla feel and gameplay. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon.
 
