@@ -1,11 +1,10 @@
 ## Validation Report - Do Not Go Gentle (Animonculory/dngg)
 
 
-### Invalid (1)
-*  [skse64_2_01_05.7z](https://skse.silverlock.org/beta/skse64_2_01_05.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1637)
+### Valid (1638)
 *  [_Fuse00_ArmorMelonyCBBE.rar](https://www.patreon.com/file?h=67711235&i=10980531)
 *  [_Fuse00_ArmorRagnar_Vanilla.rar](https://www.patreon.com/file?h=70803544&i=11554150)
 *  [_Fuse00_ArmorRogue.rar](https://www.patreon.com/file?h=67007517&i=10861552)
@@ -1329,6 +1328,7 @@
 *  [skin patch-35752-1-00-1589224874.zip](https://www.nexusmods.com/skyrimspecialedition/mods/35752/?tab=files&file_id=139339)
 *  [SKSE Tintmask Config - 4K-30255-1-0-1573205653.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30255/?tab=files&file_id=112818)
 *  [SKSE64 INI PRE DOWNLOAD v1.2-1651-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1651/?tab=files&file_id=33902)
+*  [skse64_2_01_05.7z](https://skse.silverlock.org/beta/skse64_2_01_05.7z)
 *  [Skuldafn - Skip Dragon Priest Exploit Fix-46753-1-0-1636675426.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46753/?tab=files&file_id=240668)
 *  [Skuldafn Map for FWMF-73489-1-1-1660670724.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73489/?tab=files&file_id=308046)
 *  [Skullbreaker - Blunt Weapon SFX Overhaul-79219-0-3-1669095999.zip](https://www.nexusmods.com/skyrimspecialedition/mods/79219/?tab=files&file_id=333674)

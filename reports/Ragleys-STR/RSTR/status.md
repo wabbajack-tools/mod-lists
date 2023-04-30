@@ -1,11 +1,10 @@
 ## Validation Report - Ragley's Skyrim Together Reborn (Ragleys-STR/RSTR)
 
 
-### Invalid (1)
-*  [skse64_2_01_05.7z](https://skse.silverlock.org/beta/skse64_2_01_05.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (372)
+### Valid (373)
 *  [- Skyrim 2020 8.4.2 - 3 of 3 - Other - 4K to 2K-2347-8-4-2-1624479907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=210840)
 *  [1. Majestic Mountains Main File-11052-3-2-1604048751.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=167707)
 *  [2k - The Eyes of Beauty - Ai Remastered - Standalone Textures-70263-1-1-1657832250.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70263/?tab=files&file_id=298977)
@@ -304,6 +303,7 @@
 *  [Simple Dual Sheath-50049-1-5-3-1653505363.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=286465)
 *  [Simplicity of Snow - Blended Roads Patch-59282-1-0-1638262673.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59282/?tab=files&file_id=245498)
 *  [Simplicity of Snow-56235-0-7-1659329066.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56235/?tab=files&file_id=303789)
+*  [skse64_2_01_05.7z](https://skse.silverlock.org/beta/skse64_2_01_05.7z)
 *  [SkyHUD v090B v4-463-0-90B.zip](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=61422)
 *  [Skyrim 2018-20146-1-5-1579560286.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20146/?tab=files&file_id=120630)
 *  [Skyrim 2020 8.4.2 - 1 of 3 Landscape - 4K-2347-8-4-2-1623768657.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=209246)
