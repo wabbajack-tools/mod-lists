@@ -1,11 +1,10 @@
 ## Validation Report - Dungeons & Daedra (dnd/dnd)
 
 
-### Invalid (1)
-*  [KvGuardFeaturesDevastationReduxPatch.7z](https://drive.google.com/uc?id=1ATSHg2SYWj8k9bttjbvYSxu47ULHySF2&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (261)
+### Valid (262)
 *  [1.A Tropical Gold Coast-51187-1-A-1625614921.zip](https://www.nexusmods.com/oblivion/mods/51187/?tab=files&file_id=1000028325)
 *  [2020 Retexture Project - Landscape and Rocks-49933-2-0-1615432788.7z](https://www.nexusmods.com/oblivion/mods/49933/?tab=files&file_id=1000027190)
 *  [2020 Retexture Project - Landscapes and Rocks-49933-3-0-1675498718.7z](https://www.nexusmods.com/oblivion/mods/49933/?tab=files&file_id=1000033622)
@@ -162,6 +161,7 @@
 *  [Khajiit Optional - Cat-46995-1-2.7z](https://www.nexusmods.com/oblivion/mods/46995/?tab=files&file_id=1000015318)
 *  [King of worms robe replacer-48001-1-0.7z](https://www.nexusmods.com/oblivion/mods/48001/?tab=files&file_id=1000017605)
 *  [KOTN Book Jackets HD remake-49307-1-0-1555223544.7z](https://www.nexusmods.com/oblivion/mods/49307/?tab=files&file_id=1000021786)
+*  [KvGuardFeaturesDevastationReduxPatch.7z](https://drive.google.com/uc?id=1ATSHg2SYWj8k9bttjbvYSxu47ULHySF2&export=download)
 *  [Leyawiin Woodland 2k-46628-1-1.rar](https://www.nexusmods.com/oblivion/mods/46628/?tab=files&file_id=1000012427)
 *  [Leyawiin Woodland floor fix -All Natural compatible-48759-1-0.7z](https://www.nexusmods.com/oblivion/mods/48759/?tab=files&file_id=1000020198)
 *  [Lights of Oblivion - Imperial Mesh-46131-1-5.7z](https://www.nexusmods.com/oblivion/mods/46131/?tab=files&file_id=1000017913)
