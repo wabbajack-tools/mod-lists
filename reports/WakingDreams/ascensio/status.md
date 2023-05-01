@@ -1,11 +1,10 @@
 ## Validation Report - Ascensio (WakingDreams/ascensio)
 
 
-### Invalid (1)
-*  [xLODGen.94.7z](https://authored-files.wabbajack.org/xLODGen.94.7z_f3881fe6-a5d9-4a88-b85d-b2a2d7a88d03)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1274)
+### Valid (1275)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Meshes - important-58370-9-4-1675864649.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=357717)
 *  [(1) Community Overlays 1 - Main - UNP  2K-22487-1-0-1-1547247749.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77985)
@@ -1276,6 +1275,7 @@
 *  [Worldspaces with Grass SSEEdit Script-55152-1-1-1634759935.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55152/?tab=files&file_id=236063)
 *  [Wounds Overlays For RaceMenu-38547-1-0-1595408884.rar](https://www.nexusmods.com/skyrimspecialedition/mods/38547/?tab=files&file_id=151599)
 *  [Xenius Character Enhancement - Dirt Masks-46437-1-0-1614696658.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46437/?tab=files&file_id=188967)
+*  [xLODGen.98.7z](https://authored-files.wabbajack.org/xLODGen.98.7z_af8fe5b1-de27-4d04-b5d2-e863983d80bf)
 *  [XP32 Maximum Skeleton Special Extended-1988-4-80-1610196777.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=178559)
 *  [XPMSSE Spazzing Skeleton Fix-75830-1-0-1663695956.zip](https://www.nexusmods.com/skyrimspecialedition/mods/75830/?tab=files&file_id=318002)
 *  [Yellow Shrub Remover-66508-1-0-1649942225.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66508/?tab=files&file_id=277044)
