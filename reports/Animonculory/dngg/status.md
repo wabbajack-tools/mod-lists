@@ -1,11 +1,10 @@
 ## Validation Report - Do Not Go Gentle (Animonculory/dngg)
 
 
-### Invalid (1)
-*  [Upscaler Bases.zip](https://authored-files.wabbajack.org/Upscaler Bases.zip_bf348f43-30fa-459c-9606-cd37a8d8a590)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1637)
+### Valid (1638)
 *  [_Fuse00_ArmorMelonyCBBE.rar](https://www.patreon.com/file?h=67711235&i=10980531)
 *  [_Fuse00_ArmorRagnar_Vanilla.rar](https://www.patreon.com/file?h=70803544&i=11554150)
 *  [_Fuse00_ArmorRogue.rar](https://www.patreon.com/file?h=67007517&i=10861552)
@@ -1528,6 +1527,7 @@
 *  [Unofficial Skyrim Modder's Patch - USMP SE-49616-2-5-5-1649705590.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49616/?tab=files&file_id=276476)
 *  [Unofficial Skyrim Special Edition Patch-266-4-2-6a-1636838663.7z](https://www.nexusmods.com/skyrimspecialedition/mods/266/?tab=files&file_id=241103)
 *  [Upgraded Moondial-45875-1-0-1613680293.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45875/?tab=files&file_id=186639)
+*  [Upscaler Bases.zip](https://authored-files.wabbajack.org/Upscaler Bases.zip_bf348f43-30fa-459c-9606-cd37a8d8a590)
 *  [UpscalerBasePlugin-502-1-0-7-1-1673064593.zip](https://www.nexusmods.com/site/mods/502/?tab=files&file_id=1897)
 *  [Usable Vanilla Lanterns-78565-1-01-1668635459.rar](https://www.nexusmods.com/skyrimspecialedition/mods/78565/?tab=files&file_id=332409)
 *  [Use Those Blankets-75481-2-0-1670753930.zip](https://www.nexusmods.com/skyrimspecialedition/mods/75481/?tab=files&file_id=339591)
