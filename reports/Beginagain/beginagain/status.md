@@ -1,10 +1,12 @@
 ## Validation Report - Begin Again (Beginagain/beginagain)
 
 
-### Invalid (0)
+### Invalid (2)
+*  [Cyberware 2281 1.3.3 [eddoursul.win].7z](https://eddoursul.win/download/224)
+*  [Vanilla_UI_Plus_New_Vegas_947.7z](https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fvanilla-ui-plus%2Fdownloads)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (518)
+### Valid (516)
 *  [00 - Better Books-74333-1-0-1636330917.7z](https://www.nexusmods.com/newvegas/mods/74333/?tab=files&file_id=1000083742)
 *  [03 Remove Faction Armor Paint TTW-79947-1-01-1676614512.zip](https://www.nexusmods.com/newvegas/mods/79947/?tab=files&file_id=1000105106)
 *  [0spacepope0 Combat Armor Retexture TTW-78882-V1-01-1667588873.7z](https://www.nexusmods.com/newvegas/mods/78882/?tab=files&file_id=1000100710)
@@ -95,7 +97,6 @@
 *  [Controller Support NVSE-71894-11-1629503385.7z](https://www.nexusmods.com/newvegas/mods/71894/?tab=files&file_id=1000080019)
 *  [Crash Logger-72317-3-0-0-1621016750.zip](https://www.nexusmods.com/newvegas/mods/72317/?tab=files&file_id=1000076041)
 *  [CyberJAM-74655-1-01-1639346120.7z](https://www.nexusmods.com/newvegas/mods/74655/?tab=files&file_id=1000085074)
-*  [Cyberware 2281 1.3.3 [eddoursul.win].7z](https://eddoursul.win/download/224)
 *  [Cyberware 2281 TTW Patch 1.3.3 [eddoursul.win].7z](https://eddoursul.win/download/816)
 *  Data_DeadMoney - Main.bsa
 *  Data_Fallout - Textures2.bsa
@@ -507,7 +508,6 @@
 *  [Urban Food Re-tex-43919.zip](https://www.nexusmods.com/newvegas/mods/43919/?tab=files&file_id=97851)
 *  [Useful Megaton Water Purifier (TTW)-80007-1-1-1676989803.zip](https://www.nexusmods.com/newvegas/mods/80007/?tab=files&file_id=1000105344)
 *  [UWB - Extra bottles-79950-1-1675869200.zip](https://www.nexusmods.com/newvegas/mods/79950/?tab=files&file_id=1000104736)
-*  [Vanilla_UI_Plus_New_Vegas_947.7z](https://www.moddb.com/downloads/start/128019?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fvanilla-ui-plus%2Fdownloads)
 *  [Vault22AnimatedSign-73741-V1-1632191869.rar](https://www.nexusmods.com/newvegas/mods/73741/?tab=files&file_id=1000081380)
 *  VeryHigh.ini
 *  [VintageGlobe-69393-1-0-1594468005.rar](https://www.nexusmods.com/newvegas/mods/69393/?tab=files&file_id=1000063646)
