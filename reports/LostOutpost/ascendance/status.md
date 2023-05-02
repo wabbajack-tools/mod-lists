@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (763)
+### Valid (765)
 *  [( For Vanilla) Natural and Skinnier hands for female-41827-v-1-1604015023.zip](https://www.nexusmods.com/skyrimspecialedition/mods/41827/?tab=files&file_id=167640)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -610,6 +610,7 @@
 *  [Skyrim Landscape and Water Fixes CC Farming Patch-65375-1-1647998546.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65375/?tab=files&file_id=271893)
 *  [Skyrim Remastered - Caves 2K Non Parallax-38220-1-00-1594583676.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38220/?tab=files&file_id=150069)
 *  [Skyrim Remastered - Unreal Ice-71452-2-01-1680738320.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71452/?tab=files&file_id=375494)
+*  [Skyrim Textures Redone- Enhanced Night Sky-5561-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5561/?tab=files&file_id=12316)
 *  Skyrim_Default.ini
 *  Skyrim_SkyrimPrefs.ini
 *  Skyrim.ccc
@@ -647,6 +648,7 @@
 *  [Static Mesh Improvement Mod - SMIM Patch-30517-1-0-0-1574437892.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30517/?tab=files&file_id=114091)
 *  [Static Mesh Improvement Mod Improvement Mod-55543-1-7-1-1680886570.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55543/?tab=files&file_id=376063)
 *  [Statue of Sithis 4k-73735-1-0-1661047806.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73735/?tab=files&file_id=309062)
+*  [STAYDOWN - LIGHT-41228-3-0-0-1634245087.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41228/?tab=files&file_id=234836)
 *  steam_api64.dll
 *  [Steel Armor Fix-39704-1-1-1598141551.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39704/?tab=files&file_id=157176)
 *  [Steel Armors and Weapons Retexture SE - Half res-85445-1-1-1679678121.rar](https://www.nexusmods.com/skyrimspecialedition/mods/85445/?tab=files&file_id=371691)
