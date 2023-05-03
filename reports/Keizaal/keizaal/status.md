@@ -2,7 +2,7 @@
 
 
 ### Invalid (1)
-*  [Jelidity's Mixtape - Additional Music Patch.7z](https://drive.google.com/uc?id=1QaRvlCy0o95Rt3KBCpmowIX7R99txk4K&export=download)
+*  [Jelidity's Oblivion Style Dwarven Mail Shield for Crimson.Trail-68997-1-0-0-1654175331.7z](https://drive.google.com/uc?id=1ZRRNpk8weDIsPeUpEXXiAuw6bSrCdd6C&export=download)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (594)
@@ -286,8 +286,8 @@
 *  [Inventory Interface Information Injector (SE)-85702-1-0-2-1677719496.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85702/?tab=files&file_id=364683)
 *  [JContainers SE-16495-4-2-3-1665168582.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16495/?tab=files&file_id=322290)
 *  [Jelidity's Civil War Commanders.7z](https://drive.google.com/uc?id=1E7XeaMSFaHt9yirSqGI4xSobZB-vUTMp&export=download)
+*  [Jelidity's Mixtape - Additional Music Patch.7z](https://drive.google.com/uc?id=1QaRvlCy0o95Rt3KBCpmowIX7R99txk4K&export=download)
 *  [Jelidity's Mixtape V3.7z](https://drive.google.com/uc?id=1YLlVUvCswkxqGjOcclNFPZBi7fmb3_gD&export=download)
-*  [Jelidity's Oblivion Style Dwarven Mail Shield for Crimson.Trail-68997-1-0-0-1654175331.7z](https://drive.google.com/uc?id=1ZRRNpk8weDIsPeUpEXXiAuw6bSrCdd6C&export=download)
 *  [JelidLoot - NordWar's Sons of Skyrim Addon.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68997/?tab=files&file_id=300767)
 *  [Jewels of the Nords-81500-1-0-1-1678920788.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81500/?tab=files&file_id=368880)
 *  [Just Blood-46501-1-1-1625637239.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46501/?tab=files&file_id=213167)
