@@ -1,11 +1,12 @@
 ## Validation Report - Wasteland of Depravity (Tahrovin/wod)
 
 
-### Invalid (1)
+### Invalid (2)
 *  [xLODGen.94.7z](https://authored-files.wabbajack.org/xLODGen.94.7z_f3881fe6-a5d9-4a88-b85d-b2a2d7a88d03)
+*  [ZeX-ExtendedSkeletonV5.zip](https://drive.google.com/uc?id=1eAUcQ79tgXzDhRCvnpH6WhNfaKFsjh3a&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (977)
+### Valid (976)
 *  [.45 Auto Pistol Ha_ru anims-21142-1-2-1.zip](https://www.nexusmods.com/fallout4/mods/21142/?tab=files&file_id=87199)
 *  [(Main Version) Ultimate Window Overhaul Redone-43458-4-1-1678235764.rar](https://www.nexusmods.com/fallout4/mods/43458/?tab=files&file_id=269723)
 *  [0004. Helmet Toggle-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108856)
@@ -980,6 +981,5 @@
 *  [X6-88 Synthetic Facelift-58408-1-1-1666106497.7z](https://www.nexusmods.com/fallout4/mods/58408/?tab=files&file_id=253789)
 *  [xSE PluginPreloader F4 0.2.5.1-33946-0-2-5-1-1637347868.zip](https://www.nexusmods.com/fallout4/mods/33946/?tab=files&file_id=221778)
 *  [ZaZOut4 V0.0.3.3.7z](https://www.loverslab.com/files/file/18697-zazout4-repack/)
-*  [ZeX-ExtendedSkeletonV5.zip](https://drive.google.com/uc?id=1eAUcQ79tgXzDhRCvnpH6WhNfaKFsjh3a&export=download)
 *  [ZeX-ZBG-0223.zip](https://www.mediafire.com/file/xoyhhu6hhs5cg6c/ZeX-ZBG-0223.zip)
 *  [Zipsuit v2.0-16704-2-0.rar](https://www.nexusmods.com/fallout4/mods/16704/?tab=files&file_id=81924)

@@ -1,7 +1,8 @@
 ## Validation Report - Dungeons & Daedra (dnd/dnd)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [KvGuardFeaturesDevastationReduxPatch.7z](https://drive.google.com/uc?id=1ATSHg2SYWj8k9bttjbvYSxu47ULHySF2&export=download)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (284)
@@ -90,6 +91,7 @@
 *  [Dynamic Map 2_1_1-35969.7z](https://www.nexusmods.com/oblivion/mods/35969/?tab=files&file_id=85640)
 *  [East Empire Company mod (Better Cities Version)-51177-2-1627371606.rar](https://www.nexusmods.com/oblivion/mods/51177/?tab=files&file_id=1000028510)
 *  [ef's Fishing Mod-52101-1-1-1-1655768221.zip](https://www.nexusmods.com/oblivion/mods/52101/?tab=files&file_id=1000031607)
+*  [Elsweyr Anequina - Khajiit Compatibility-50273-0-1-1594822081.7z](https://www.nexusmods.com/oblivion/mods/50273/?tab=files&file_id=1000025301)
 *  [Elsweyr Anequina-25023-March-2014-1561735850.rar](https://www.nexusmods.com/oblivion/mods/25023/?tab=files&file_id=1000022469)
 *  [Elven armor replacer-47917-1-0.7z](https://www.nexusmods.com/oblivion/mods/47917/?tab=files&file_id=1000017351)
 *  [Elven Map For Shivering Isles-16640.zip](https://www.nexusmods.com/oblivion/mods/16640/?tab=files&file_id=23361)
@@ -172,7 +174,6 @@
 *  [King of worms robe replacer-48001-1-0.7z](https://www.nexusmods.com/oblivion/mods/48001/?tab=files&file_id=1000017605)
 *  [KOTN Book Jackets HD remake-49307-1-0-1555223544.7z](https://www.nexusmods.com/oblivion/mods/49307/?tab=files&file_id=1000021786)
 *  [Kvatch Rebuilt 3.0 RC3-15412-3-0RC3-1565022556.zip](https://www.nexusmods.com/oblivion/mods/15412/?tab=files&file_id=1000022722)
-*  [KvGuardFeaturesDevastationReduxPatch.7z](https://drive.google.com/uc?id=1ATSHg2SYWj8k9bttjbvYSxu47ULHySF2&export=download)
 *  [Leyawiin Woodland 2k-46628-1-1.rar](https://www.nexusmods.com/oblivion/mods/46628/?tab=files&file_id=1000012427)
 *  [Leyawiin Woodland floor fix -All Natural compatible-48759-1-0.7z](https://www.nexusmods.com/oblivion/mods/48759/?tab=files&file_id=1000020198)
 *  [Lights of Oblivion - Imperial Mesh-46131-1-5.7z](https://www.nexusmods.com/oblivion/mods/46131/?tab=files&file_id=1000017913)
