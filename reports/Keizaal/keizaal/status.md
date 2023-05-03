@@ -1,11 +1,10 @@
 ## Validation Report - Keizaal (Keizaal/keizaal)
 
 
-### Invalid (1)
-*  [Jelidity's Oblivion Style Dwarven Mail Shield for Crimson.Trail-68997-1-0-0-1654175331.7z](https://drive.google.com/uc?id=1ZRRNpk8weDIsPeUpEXXiAuw6bSrCdd6C&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (594)
+### Valid (595)
 *  [(beta) Wade In Water Animations-34006-1-42-1649385492.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34006/?tab=files&file_id=275559)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -288,6 +287,7 @@
 *  [Jelidity's Civil War Commanders.7z](https://drive.google.com/uc?id=1E7XeaMSFaHt9yirSqGI4xSobZB-vUTMp&export=download)
 *  [Jelidity's Mixtape - Additional Music Patch.7z](https://drive.google.com/uc?id=1QaRvlCy0o95Rt3KBCpmowIX7R99txk4K&export=download)
 *  [Jelidity's Mixtape V3.7z](https://drive.google.com/uc?id=1YLlVUvCswkxqGjOcclNFPZBi7fmb3_gD&export=download)
+*  [Jelidity's Oblivion Style Dwarven Mail Shield for Crimson.Trail-68997-1-0-0-1654175331.7z](https://drive.google.com/uc?id=1ZRRNpk8weDIsPeUpEXXiAuw6bSrCdd6C&export=download)
 *  [JelidLoot - NordWar's Sons of Skyrim Addon.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68997/?tab=files&file_id=300767)
 *  [Jewels of the Nords-81500-1-0-1-1678920788.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81500/?tab=files&file_id=368880)
 *  [Just Blood-46501-1-1-1625637239.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46501/?tab=files&file_id=213167)
