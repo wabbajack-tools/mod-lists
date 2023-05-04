@@ -150,15 +150,16 @@ This list is designed as Requiem modlist with [Bruma](https://www.nexusmods.com/
 
 ### [Elysium Remastered](https://github.com/TitansBane/Elysium-Remastered)
 
-From TitansBane, the author of [Reliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612), comes Elysium: what started as a simple off-shoot of The Phoenix Flavour has grown into its own massive undertaking. Elysium has taken its predecessor and packed it full of more content, including mods like [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802), [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194), a full suite of [EnaiSiaion](https://www.nexusmods.com/skyrimspecialedition/users/3959191)’s mods, and an optional MO2 profile that supports all of your Creation Club content - all without sacrificing the stability that TPF is known for.
+From TitansBane, the author of [Reliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612) and The Tools of Kagrenac(https://www.nexusmods.com/skyrimspecialedition/mods/14168), comes Elysium Remastered, a complete rebuild of the original Elysium modlist. Like the original, it focuses primarily on visuals and is fully featured with hundreds of new additions and full Creation Club support—extending the base setup with [EnaiSiaion](https://www.nexusmods.com/skyrimspecialedition/users/3959191)’s full suite of gameplay overhauls and various new quests and encounters.
 
 **_Mods to get familiar with:_**
 
-[Vokrii - Minimalistic Perks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/26176)
-[Triumvirate - Mage Archetypes](https://www.nexusmods.com/skyrimspecialedition/mods/39170)
-[Enemy (R)Evolution of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/37228)
-[Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155)
-[Immersive World Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/18330)
+-   [Vokrii - Minimalistic Perks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/26176)
+-   [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614)
+-   [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741)
+-   [NPCs Learn Skills and Spells](https://www.nexusmods.com/skyrimspecialedition/mods/77342)
+-   [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)
+-   [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917)
 
 ---
 
