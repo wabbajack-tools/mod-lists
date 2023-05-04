@@ -150,7 +150,7 @@ This list is designed as Requiem modlist with [Bruma](https://www.nexusmods.com/
 
 ### [Elysium Remastered](https://github.com/TitansBane/Elysium-Remastered)
 
-From TitansBane, the author of [Reliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612) and The Tools of Kagrenac(https://www.nexusmods.com/skyrimspecialedition/mods/14168), comes Elysium Remastered, a complete rebuild of the original Elysium modlist. Like the original, it focuses primarily on visuals and is fully featured with hundreds of new additions and full Creation Club support—extending the base setup with [EnaiSiaion](https://www.nexusmods.com/skyrimspecialedition/users/3959191)’s full suite of gameplay overhauls and various new quests and encounters.
+From TitansBane, the author of [Reliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612) and [Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168), comes Elysium Remastered, a complete rebuild of the original Elysium modlist. Like the original, it focuses primarily on visuals and is fully featured with hundreds of new additions and full Creation Club support—extending the base setup with [EnaiSiaion](https://www.nexusmods.com/skyrimspecialedition/users/3959191)’s full suite of gameplay overhauls and various new quests and encounters.
 
 **_Mods to get familiar with:_**
 
