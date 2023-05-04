@@ -348,7 +348,7 @@
 *  [Cathedral Assets Optimizer 64-23316-5-3-14-1665584229.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23316/?tab=files&file_id=323488)
 *  [Cathedral Landscapes for ENB Complex Grass-67304-1-04-1658916914.zip](https://www.nexusmods.com/skyrimspecialedition/mods/67304/?tab=files&file_id=302591)
 *  [Cathedral Snowberries - Inventory - Wreath - Hearthfires Planter-69933-0-1-1-1655754390.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69933/?tab=files&file_id=292614)
-*  [Caught Red Handed - Quest Expansion-65708-1-03-1683195743.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65708/?tab=files&file_id=384544)
+*  [Caught Red Handed - Quest Expansion-65708-1-04-1683222533.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65708/?tab=files&file_id=384648)
 *  [Cave Parallax 2k-83106-1-0-1674193195.7z](https://www.nexusmods.com/skyrimspecialedition/mods/83106/?tab=files&file_id=351247)
 *  [CBBE AE-CC Outfits-198-1-7-1-1655467379.7z](https://www.nexusmods.com/skyrimspecialedition/mods/198/?tab=files&file_id=291768)
 *  [CC Artifacts - 2K-83855-1-2-1-1679860706.7z](https://www.nexusmods.com/skyrimspecialedition/mods/83855/?tab=files&file_id=372348)
@@ -358,6 +358,7 @@
 *  [CC Necromantic Grimoire hooded skull patch-52845-1-0-1637454791.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52845/?tab=files&file_id=243097)
 *  [CC_Content_Anniversary_Cleaned_and_Upscaled_Update-58801-1-1-1638787787.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58801/?tab=files&file_id=247015)
 *  [CC_Content_Anniversary_Cleaned_and_Upscaled-58801-1-1638440452.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58801/?tab=files&file_id=246028)
+*  [CC's Enhanced Ore Veins SSE - Fixed Iron Ore Cubemap.rar](https://drive.google.com/uc?id=14VxEEE08WmlO4fjPzwuUH68K0pmAfYU8&export=download)
 *  [CC's HD Dwemer Weapons and Armor - 2K - 1.0-32384-1-0-1580933357.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32384/?tab=files&file_id=122824)
 *  [CCUT_1x-35377-1-1588470764.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35377/?tab=files&file_id=137701)
 *  [CFTO - Fixes and Winterhold-40651-3-0-1632941181.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40651/?tab=files&file_id=231504)
@@ -624,7 +625,6 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
-*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
