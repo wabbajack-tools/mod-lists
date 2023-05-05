@@ -1592,7 +1592,7 @@
 *  [NPC AI Process Position Fix - NG-69326-1-1-1-1665790814.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69326/?tab=files&file_id=324089)
 *  [NPC Animation Remix (DAR) - main archive (no looped idles)-63471-1-4-0-1681561019.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63471/?tab=files&file_id=378443)
 *  [NPC Regen Nerfed-79665-1-2-1671266062.7z](https://www.nexusmods.com/skyrimspecialedition/mods/79665/?tab=files&file_id=341257)
-*  [NPC Water AI Fix for SkyrimSE-52164-5-0-1679065354.zip](https://www.nexusmods.com/skyrimspecialedition/mods/52164/?tab=files&file_id=369389)
+*  [NPC Water AI Fix for SkyrimSE-52164-5-1-1683279754.zip](https://www.nexusmods.com/skyrimspecialedition/mods/52164/?tab=files&file_id=384868)
 *  [NPCs Ain't Hachikos-81618-1-0-1672392042.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81618/?tab=files&file_id=344849)
 *  [NPCs Learn Skills and Spells-77342-1-2-0-1669885482.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77342/?tab=files&file_id=336312)
 *  [NPCs React to Necromancy-70428-1-02-1662368574.zip](https://www.nexusmods.com/skyrimspecialedition/mods/70428/?tab=files&file_id=313495)

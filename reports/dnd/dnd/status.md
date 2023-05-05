@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (285)
+### Valid (284)
 *  [1.A Tropical Gold Coast-51187-1-A-1625614921.zip](https://www.nexusmods.com/oblivion/mods/51187/?tab=files&file_id=1000028325)
 *  [2020 Retexture Project - Landscape and Rocks-49933-2-0-1615432788.7z](https://www.nexusmods.com/oblivion/mods/49933/?tab=files&file_id=1000027190)
 *  [2020 Retexture Project - Landscapes and Rocks-49933-3-0-1675498718.7z](https://www.nexusmods.com/oblivion/mods/49933/?tab=files&file_id=1000033622)
@@ -234,7 +234,6 @@
 *  [Quest Log Manager 1_3_2b-32266-1-3-2b.rar](https://www.nexusmods.com/oblivion/mods/32266/?tab=files&file_id=71265)
 *  [Quick Item Transfer-52718-1-0-1675773205.zip](https://www.nexusmods.com/oblivion/mods/52718/?tab=files&file_id=1000033677)
 *  [Ragdolls - Main File-51844-1-1-1648036849.7z](https://www.nexusmods.com/oblivion/mods/51844/?tab=files&file_id=1000030664)
-*  Readme.txt
 *  [Realistic Mouth OCOv2-47463-1-2.rar](https://www.nexusmods.com/oblivion/mods/47463/?tab=files&file_id=1000015727)
 *  [Really Textured Normal Maps - Updated-50088-1-0-1588502179.7z](https://www.nexusmods.com/oblivion/mods/50088/?tab=files&file_id=1000024630)
 *  [Retextured Amulet-47734-1-0.zip](https://www.nexusmods.com/oblivion/mods/47734/?tab=files&file_id=1000016739)
