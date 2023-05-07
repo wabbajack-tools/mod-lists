@@ -1,11 +1,10 @@
 ## Validation Report - Licentia BLACK (licentia_black/licentia_black)
 
 
-### Invalid (1)
-*  [Peeno-A-Mushroom-Follower-1.5.7z](https://kaidanmod.com/wp-content/uploads/2022/10/Peeno-A-Mushroom-Follower-1.5.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1237)
+### Valid (1238)
 *  [(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77989)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
 *  [(4) Community Overlays 3 - Main - CBBE and Male-35339-1-0-1588129970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136903)
@@ -911,6 +910,7 @@
 *  [Path of Sorcery v2.6-6660-2-6-1639346547.zip](https://www.nexusmods.com/skyrimspecialedition/mods/6660/?tab=files&file_id=248651)
 *  [Pause Menu After Loading - Auto Unpause-62031-v5-1643863331.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62031/?tab=files&file_id=261430)
 *  [PCA 5.7.0-23852-5-7-0-1629208102.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23852/?tab=files&file_id=221838)
+*  [Peeno-A-Mushroom-Follower-1.5.7z](https://kaidanmod.com/wp-content/uploads/2022/10/Peeno-A-Mushroom-Follower-1.5.7z)
 *  [PELTAPALOOZA  Special Edition - FULL-5442-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5442/?tab=files&file_id=11948)
 *  [Pirate's Life for Me-35163-2-1-1-1-1647223801.zip](https://www.nexusmods.com/skyrimspecialedition/mods/35163/?tab=files&file_id=270036)
 *  [Plague of the Dead - BS Bruma Patch-28630-2-0-0-1639794918.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28630/?tab=files&file_id=249972)
