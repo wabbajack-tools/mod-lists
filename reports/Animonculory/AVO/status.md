@@ -1,4 +1,4 @@
-## Validation Report - AVO - NG (Animonculory/AVO)
+## Validation Report - AVO (Animonculory/AVO)
 
 
 ### Invalid (0)

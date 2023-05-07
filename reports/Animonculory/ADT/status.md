@@ -1,4 +1,4 @@
-## Validation Report - ADT-NG (Animonculory/ADT)
+## Validation Report - ADT (Animonculory/ADT)
 
 
 ### Invalid (0)
