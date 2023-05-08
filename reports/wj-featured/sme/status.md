@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (248)
+### Valid (261)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [ACMOS Road Generator-79205-4-0-1669261046.zip](https://www.nexusmods.com/skyrimspecialedition/mods/79205/?tab=files&file_id=334063)
@@ -24,6 +24,7 @@
 *  [Ballistacrashfix-73859-1-0-1661258993.7z](https://www.nexusmods.com/skyrimspecialedition/mods/73859/?tab=files&file_id=309757)
 *  [Barter Limit Fix-77173-1-0-1665868879.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77173/?tab=files&file_id=324312)
 *  [Base Object Swapper-60805-2-5-1-1672623681.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60805/?tab=files&file_id=345752)
+*  [Beneath Bronze Waters Start Fix-87760-1-0-0-1679759813.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87760/?tab=files&file_id=371929)
 *  [BethINI Standalone Version-4875-3-6-1-1651358897.zip](https://www.nexusmods.com/skyrimspecialedition/mods/4875/?tab=files&file_id=280690)
 *  [Better Dialogue Control Widescreen Fix-1778-1-6.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?tab=files&file_id=11606)
 *  [Better Dialogue Controls v1_2-1429-1-2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1429/?tab=files&file_id=11022)
@@ -32,6 +33,7 @@
 *  bink2w64.dll
 *  [Blackreach Tentacle Mesh Fix-43083-0-1-1607186501.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43083/?tab=files&file_id=173163)
 *  [BodySlide and Outfit Studio - v5.6.0-201-5-6-0-1654342850.7z](https://www.nexusmods.com/skyrimspecialedition/mods/201/?tab=files&file_id=288728)
+*  [Bone Wolf Shutdown Fix-87339-1-0-0-1679222195.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87339/?tab=files&file_id=369942)
 *  [Bug Fixes SSE - Anniversary Edition (1.6.629.0 and later)-33261-10-1678780224.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33261/?tab=files&file_id=368384)
 *  [Cathedral Assets Optimizer 64-23316-5-3-14-1665584229.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23316/?tab=files&file_id=323488)
 *  [CC Horse Armor Stays Token-26092-1-0-1677165963.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26092/?tab=files&file_id=362612)
@@ -86,15 +88,21 @@
 *  Data_Update.esm
 *  Data_Video_BGS_Logo.bik
 *  [deorder_plugins-1.1.zip](https://github.com/deorder/mo2-plugins/releases/download/1.1/deorder_plugins-1.1.zip)
+*  [DLC2dunFrostmoonTriggerScript Optimization-90585-1-0-0-1683097955.7z](https://www.nexusmods.com/skyrimspecialedition/mods/90585/?tab=files&file_id=384303)
+*  [DLC2dunNchardakDoorSeal Script Infinite Loop Fix-88843-1-2-0-1681750070.7z](https://www.nexusmods.com/skyrimspecialedition/mods/88843/?tab=files&file_id=379179)
+*  [DLC2dunSeekerInvisScript Fix-89708-1-1-0-1682544408.7z](https://www.nexusmods.com/skyrimspecialedition/mods/89708/?tab=files&file_id=382257)
+*  [DLC2MiraakScript-89890-1-0-0-1682276775.7z](https://www.nexusmods.com/skyrimspecialedition/mods/89890/?tab=files&file_id=381339)
+*  [DLC2TribalWerebearScript Fix-88208-1-0-1-1680680988.7z](https://www.nexusmods.com/skyrimspecialedition/mods/88208/?tab=files&file_id=375247)
 *  [Dragonactorscript Infinite Loop Fix  - FOMOD-87940-1-3-1-1680470957.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87940/?tab=files&file_id=374555)
+*  [dunFolgunthurBossBattle Script Fix-84595-1-2-0-1676388290.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84595/?tab=files&file_id=359731)
 *  [dunPOISoldiersRaidOnStart Script Tweak-62925-1-0-0-1643724953.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62925/?tab=files&file_id=260981)
 *  [Dynamic Animation Casting NG Plus-73293-3-2-3-1672974126.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73293/?tab=files&file_id=347107)
 *  [DynamicAnimationReplacerAE v1.1.3 for Skyrim 16629-33746-1-1-3-1673269905.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33746/?tab=files&file_id=348057)
-*  [DynDOLOD 3.00-68518-Alpha-125-1682678741.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68518/?tab=files&file_id=382621)
+*  [DynDOLOD 3.00-68518-Alpha-127-1683492671.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68518/?tab=files&file_id=385817)
 *  [DynDOLOD DLL NG and Scripts 3.00-57264-Alpha-6-1682601283.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57264/?tab=files&file_id=382388)
 *  [DynDOLOD DLL SE - Scripts-57264-2-82-5-1682590376.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57264/?tab=files&file_id=382365)
 *  [DynDOLOD DLL SE - SKSE64 Plugin - Skyrim Special Edition 1.6.40-57264-2-45-1663743997.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57264/?tab=files&file_id=318227)
-*  [DynDOLOD Resources SE 3.00-52897-Alpha-35-1682610033.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=382424)
+*  [DynDOLOD Resources SE 3.00-52897-Alpha-36-1682874686.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=383378)
 *  [EasyNPC-52313-0-9-5-1634521270.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52313/?tab=files&file_id=235518)
 *  [ENB Helper Plus-62743-1-0-4-1667140855.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62743/?tab=files&file_id=327653)
 *  [ENB Helper SE 2.2 for 1.6.629 and up-23174-2-2-0-1665131787.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23174/?tab=files&file_id=322175)
@@ -143,6 +151,7 @@
 *  lex_tech.tlx
 *  lex_User_correct.tlx
 *  lex_User_userdic.tlx
+*  [lilebonymace patches-36042-2-30-1678645020.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36042/?tab=files&file_id=367958)
 *  [LOOT Config Loader-60864-1-0-0-1640664306.zip](https://www.nexusmods.com/skyrimspecialedition/mods/60864/?tab=files&file_id=252180)
 *  [LOOT Warning Checker-323-v1-2-2-beta-1657367956.zip](https://github.com/JonathanFeenstra/modorganizer-loot-warning-checker/releases/download/v1.2.2-beta/LOOT-Warning-Checker-v1.2.2-beta.zip)
 *  [loot_0.17.0-0-g36fedfe_0.17.0.7z](https://github.com/loot/loot/releases/download/0.17.0/loot_0.17.0-0-g36fedfe_0.17.0.7z)
@@ -151,6 +160,7 @@
 *  Low.ini
 *  [MageArmorScriptFix-58862-1-0-1637563565.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58862/?tab=files&file_id=243411)
 *  [Magic Student (WIChangeLocation04) Quest Fix-80676-0-1-1671093954.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80676/?tab=files&file_id=340731)
+*  [Mannequin Management-38221-4-0-1681965874.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38221/?tab=files&file_id=380131)
 *  [MCM Helper SE-53000-1-4-0-1665228890.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53000/?tab=files&file_id=322444)
 *  Medium.ini
 *  [MergeMapper-74689-v1-4-0-1669363622.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74689/?tab=files&file_id=334439)
@@ -198,6 +208,7 @@
 *  [Script Effect Archetype Crash Fix-43532-1-1678779345.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=368379)
 *  [Serana's Hood Fix-20243-3-1-0-1627660653.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20243/?tab=files&file_id=217670)
 *  [Shadow Boost-73133-1-3-0-1674058869.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73133/?tab=files&file_id=350765)
+*  [Shroud Hearth Barrow Script Fix-84817-1-0-0-1676220644.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84817/?tab=files&file_id=359117)
 *  [skse64_2_02_03.7z](https://skse.silverlock.org/beta/skse64_2_02_03.7z)
 *  [Skyrim Special Edition GOG and Epic Games Support - Mod Organizer 2.4.x-6194-1-7-0-1665206954.zip](https://www.nexusmods.com/skyrimspecialedition/mods/6194/?tab=files&file_id=322391)
 *  Skyrim_Default.ini
@@ -212,6 +223,7 @@
 *  [SkyUI SE - Flashing Savegames Fix-20406-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/20406/?tab=files&file_id=68447)
 *  [SkyUI_5_2_SE-12604-5-2SE.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12604/?tab=files&file_id=35407)
 *  [Solitude Lighthouse Fix-34976-1-0-0-1587375081.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34976/?tab=files&file_id=135246)
+*  [Soul Cairn Script Tweaks-86367-1-0-1-1678307088.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86367/?tab=files&file_id=366645)
 *  [Sound Fix for Large Sector Drives-71567-4-1665362859.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71567/?tab=files&file_id=322907)
 *  [Sound Hammering Sounds-5592-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/5592/?tab=files&file_id=12403)
 *  [Sound Record Distributor-77815-1-3-0-1668540882.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77815/?tab=files&file_id=332142)
@@ -232,6 +244,7 @@
 *  [Sunder and Wraithguard - Vault Fix-59083-1-0-1637936330.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59083/?tab=files&file_id=244533)
 *  [Survival Mode - Disable By Default-59049-1-0-0-1637864324.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59049/?tab=files&file_id=244329)
 *  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.25.4/Synthesis.zip)
+*  [The Taste of Death Improved Shutdown-86910-1-0-0-1678661547.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86910/?tab=files&file_id=368030)
 *  Tools_Archive_Archive.exe
 *  Tools_Audio_xwmaencode.exe
 *  Tools_Elric_xg.dll
@@ -241,14 +254,14 @@
 *  [UIExtensions v1-2-0-17561-1-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17561/?tab=files&file_id=55628)
 *  Ultra.ini
 *  [Unique Map Weather-59919-1-1-1-1676049076.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59919/?tab=files&file_id=358458)
-*  [Universal Cured Serana Eye Fix-74759-0-1-1662463810.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74759/?tab=files&file_id=313749)
+*  [Universal Cured Serana Eye Fix-74759-0-2-1683370167.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74759/?tab=files&file_id=385241)
 *  [Unofficial Skyrim Creation Club Content Patch-18975-7-2-1666561973.zip](https://www.nexusmods.com/skyrimspecialedition/mods/18975/?tab=files&file_id=326174)
 *  [Unofficial Skyrim Special Edition Patch-266-4-2-7-1655599279.7z](https://www.nexusmods.com/skyrimspecialedition/mods/266/?tab=files&file_id=292193)
 *  [USCCCP Patch-59083-1-0-1678561884.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59083/?tab=files&file_id=367548)
+*  [Vanilla Script microOptimizations-54061-1-16a-1654031453.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54061/?tab=files&file_id=287938)
 *  [WE05 Script Fix-49851-1-0-1-1620879756.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49851/?tab=files&file_id=203176)
 *  [Where in Special Edition am I-30907-2-1-1628129495.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30907/?tab=files&file_id=218913)
 *  [Whiterun Fence Base Seam Fix-79337-1-0-1669303637.zip](https://www.nexusmods.com/skyrimspecialedition/mods/79337/?tab=files&file_id=334169)
-*  [WIDeadBodyCleanupScript Crash Fix-62413-0-3-1643044583.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62413/?tab=files&file_id=259270)
 *  [WM's Flora Fixes - Revamped (No Scripts)-28197-3-2-1617147694.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28197/?tab=files&file_id=194797)
 *  [Word Wall Transparency Fix for ENB-41463-0-2-1602937156.rar](https://www.nexusmods.com/skyrimspecialedition/mods/41463/?tab=files&file_id=165839)
 *  [Wrye Bash 310 - Standalone Executable-6837-310-1658670545.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6837/?tab=files&file_id=301775)
