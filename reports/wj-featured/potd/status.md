@@ -1,10 +1,11 @@
 ## Validation Report - Path of the Dovahkiin (wj-featured/potd)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [skse64_2_00_19.7z](https://skse.silverlock.org/beta/skse64_2_00_19.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (520)
+### Valid (519)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -393,7 +394,6 @@
 *  [SimpleAddItems-32319-2-0-1580701739.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32319/?tab=files&file_id=122474)
 *  [Skeleton.and.Human.Bones.2k-17282-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17282/?tab=files&file_id=54630)
 *  [SKSE64 INI PRE DOWNLOAD v1.2-1651-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1651/?tab=files&file_id=33902)
-*  [skse64_2_00_19.7z](https://skse.silverlock.org/beta/skse64_2_00_19.7z)
 *  [SkyHUD v090B v4-463-0-90B.zip](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=61422)
 *  [Skyrim 3D Blacksmith-22892-1-0-1-1548490334.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22892/?tab=files&file_id=79666)
 *  [Skyrim 3D Cooking-23007-1-3-0-1554627535.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23007/?tab=files&file_id=87631)
