@@ -1,11 +1,10 @@
 ## Validation Report - Do Not Go Gentle (Animonculory/dngg)
 
 
-### Invalid (1)
-*  [A0D789patch_v1_1.zip](https://www.patreon.com/file?h=69951525&i=11395543)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1629)
+### Valid (1630)
 *  [_Fuse00_ArmorMelonyCBBE.rar](https://www.patreon.com/file?h=67711235&i=10980531)
 *  [_Fuse00_ArmorRagnar_Vanilla.rar](https://www.patreon.com/file?h=70803544&i=11554150)
 *  [_Fuse00_ArmorRogue.rar](https://www.patreon.com/file?h=67007517&i=10861552)
@@ -73,6 +72,7 @@
 *  [A Matter Of Time Settings PapyrusUtil-55376-1-1-1631655982.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55376/?tab=files&file_id=228441)
 *  [A Nirnroot - Particle Light Patch-80304-1-0-1670535242.rar](https://www.nexusmods.com/skyrimspecialedition/mods/80304/?tab=files&file_id=338848)
 *  [A Nirnroot-80281-1-0-1670515451.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80281/?tab=files&file_id=338755)
+*  [A0D789patch_v1_1.zip](https://www.patreon.com/file?h=69951525&i=11395543)
 *  [AC DW Dagger Moveset MCO-70232-v1-1656196074.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70232/?tab=files&file_id=294074)
 *  [AC DW Sword Moveset MCO-70232-v1-1656196197.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70232/?tab=files&file_id=294077)
 *  [AC Valhalla Inspired Animations For Player Only No Locomotions-72966-1-2-0-1676865207.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72966/?tab=files&file_id=361528)
