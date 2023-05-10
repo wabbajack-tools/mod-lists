@@ -1,17 +1,15 @@
 ## Validation Report - The Sands (Moonshadow/thesands)
 
 
-### Invalid (1)
-*  [Spice of Life Vanilla v1-5 Release Candidate.7z](https://www.mediafire.com/file/ln1a2l2th1if8es/Spice_of_Life_Vanilla_v1-5_Release_Candidate.7z/file)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (211)
+### Valid (204)
 *  [1. Consistent Pip-boy Icons-65046-4-4-1659349331.7z](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000096843)
 *  [1k Performance Textures DXT5-75437-6-4-1-1683305837.7z](https://www.nexusmods.com/newvegas/mods/75437/?tab=files&file_id=1000108791)
 *  [2. Butcher Pete Complete - A Melee Animation Overhaul (No Locomotion)-79146-1-0-1669917143.rar](https://www.nexusmods.com/newvegas/mods/79146/?tab=files&file_id=1000101718)
 *  [2. Consistent Addon Icons-65046-4-2-1652355224.zip](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000092397)
 *  [2. Wasteland Warrior - A Melee Animation Overhaul (No Locomotion)-80277-1-0-1678034975.rar](https://www.nexusmods.com/newvegas/mods/80277/?tab=files&file_id=1000105956)
-*  [4GB Patcher-62552-1-5-1618787921.7z](https://www.nexusmods.com/newvegas/mods/62552/?tab=files&file_id=1000075100)
 *  [A Murder of Crows-80940-1-0-1682699593.zip](https://www.nexusmods.com/newvegas/mods/80940/?tab=files&file_id=1000108385)
 *  [ActorCause Save Bloat Fix-80666-1-0-1680643208.zip](https://www.nexusmods.com/newvegas/mods/80666/?tab=files&file_id=1000107287)
 *  [Aim Transition Patch (NVSE)-70974-0-1-1611611073.zip](https://www.nexusmods.com/newvegas/mods/70974/?tab=files&file_id=1000070187)
@@ -48,12 +46,7 @@
 *  [Contextual HUD-77631-1-9-1681174545.7z](https://www.nexusmods.com/newvegas/mods/77631/?tab=files&file_id=1000107519)
 *  [Cowboy Victor-76586-1-0-1652630172.7z](https://www.nexusmods.com/newvegas/mods/76586/?tab=files&file_id=1000092576)
 *  [Crash Logger-72317-3-0-0-1621016750.zip](https://www.nexusmods.com/newvegas/mods/72317/?tab=files&file_id=1000076041)
-*  Data_DeadMoney - Main.bsa
 *  Data_DeadMoney.esm
-*  Data_Fallout - Meshes.bsa
-*  Data_Fallout - Misc.bsa
-*  Data_Fallout - Textures.bsa
-*  Data_Fallout - Textures2.bsa
 *  Data_FalloutNV.esm
 *  Data_HonestHearts.esm
 *  Data_LonesomeRoad.esm
@@ -62,6 +55,7 @@
 *  [Desert Natural Weathers NV-75437-6-4-1683017467.7z](https://www.nexusmods.com/newvegas/mods/75437/?tab=files&file_id=1000108638)
 *  [DiaMoveNVSE Patched-78534-1-0-1-1664963575.7z](https://www.nexusmods.com/newvegas/mods/78534/?tab=files&file_id=1000099530)
 *  [DN Weathers NV Hotfix-75437-6-4-1-1683180059.7z](https://www.nexusmods.com/newvegas/mods/75437/?tab=files&file_id=1000108717)
+*  [DXVK 1.10.3-79299-1-10-3-1672125190.7z](https://www.nexusmods.com/newvegas/mods/79299/?tab=files&file_id=1000102854)
 *  [DXVK 2.1 - Async-79299-2-1-4-1683158703.7z](https://www.nexusmods.com/newvegas/mods/79299/?tab=files&file_id=1000108710)
 *  [Elijah Voice Files Fix-73526-0-1-1630530027.7z](https://www.nexusmods.com/newvegas/mods/73526/?tab=files&file_id=1000080507)
 *  [Enhanced Camera 1.4c-55334-1-4c-1544995335.zip](https://www.nexusmods.com/newvegas/mods/55334/?tab=files&file_id=1000050990)
@@ -70,7 +64,6 @@
 *  [Extra Freeside Gates-70821-1-1610311855.zip](https://www.nexusmods.com/newvegas/mods/70821/?tab=files&file_id=1000069447)
 *  [Extra Trees and Lights-79712-1-1-1674592611.rar](https://www.nexusmods.com/newvegas/mods/79712/?tab=files&file_id=1000104049)
 *  [Faction Wasteland Presence-73524-2-0-1658421851.7z](https://www.nexusmods.com/newvegas/mods/73524/?tab=files&file_id=1000096299)
-*  FalloutNV.exe
 *  [Fast Travel Costs-79076-1-0-0-1669124510.7z](https://www.nexusmods.com/newvegas/mods/79076/?tab=files&file_id=1000101402)
 *  [Fast Weapon Lag Fix-71973-1-0-1617537597.zip](https://www.nexusmods.com/newvegas/mods/71973/?tab=files&file_id=1000074493)
 *  [Faster Pip-Boy Animation (2x)-67761-1-0-1571797210.zip](https://www.nexusmods.com/newvegas/mods/67761/?tab=files&file_id=1000057020)
@@ -113,8 +106,6 @@
 *  [Less Fertile Flora Overhaul-71422-2-1-1639614033.rar](https://www.nexusmods.com/newvegas/mods/71422/?tab=files&file_id=1000085165)
 *  [Less Flickery City of New Vegas-72061-0-01-1618409500.zip](https://www.nexusmods.com/newvegas/mods/72061/?tab=files&file_id=1000074936)
 *  [Less Horrendous Vikki and Vance Casino LOD-63956-0-2-1601553328.zip](https://www.nexusmods.com/newvegas/mods/63956/?tab=files&file_id=1000066029)
-*  libvorbis.dll
-*  libvorbisfile.dll
 *  [Lightweight Strip Overhaul - No Walls-65665-1-5-1-1585006656.7z](https://www.nexusmods.com/newvegas/mods/65665/?tab=files&file_id=1000060287)
 *  [Lightweight Strip Overhaul - Uncut Wasteland Patch-65665-1-5-1572355229.7z](https://www.nexusmods.com/newvegas/mods/65665/?tab=files&file_id=1000057209)
 *  [Lively 13th Floor (english)-74704-1-1639578171.zip](https://www.nexusmods.com/newvegas/mods/74704/?tab=files&file_id=1000085156)
@@ -182,6 +173,7 @@
 *  [Simple DLC Delay-62779-2-1-1550435734.zip](https://www.nexusmods.com/newvegas/mods/62779/?tab=files&file_id=1000052154)
 *  [Simple Populated Freeside-78445-1-3-1681938183.rar](https://www.nexusmods.com/newvegas/mods/78445/?tab=files&file_id=1000107930)
 *  [Smoke For Smokers-74798-smoke-1-1657358876.zip](https://www.nexusmods.com/newvegas/mods/74798/?tab=files&file_id=1000095628)
+*  [Spice of Life Vanilla v1-5 Release Candidate.7z](https://www.mediafire.com/file/ln1a2l2th1if8es/Spice_of_Life_Vanilla_v1-5_Release_Candidate.7z/file)
 *  [Stewie Tweaks Essentials INI-76522-1-04-1678279053.7z](https://www.nexusmods.com/newvegas/mods/76522/?tab=files&file_id=1000106099)
 *  [Stewie Tweaks-66347-8-65-1680382499.zip](https://www.nexusmods.com/newvegas/mods/66347/?tab=files&file_id=1000107141)
 *  [Strip Lights Region Fix - Hoover Dam Jets Restored and Distant-73596-Patch-1644119080.7z](https://www.nexusmods.com/newvegas/mods/73596/?tab=files&file_id=1000087212)
@@ -208,7 +200,7 @@
 *  [Vanilla Enhancements Merged-78877-1-3-2-1678732288.7z](https://www.nexusmods.com/newvegas/mods/78877/?tab=files&file_id=1000106400)
 *  [Vanilla Iron Sights Realligned-77672-1-1-1658954471.7z](https://www.nexusmods.com/newvegas/mods/77672/?tab=files&file_id=1000096609)
 *  [Vanilla UI Plus - Max Carry Weight Patch-74798-VUIMaxCWPatch-1-1678550864.zip](https://www.nexusmods.com/newvegas/mods/74798/?tab=files&file_id=1000106290)
-*  [Vanilla_UI_Plus_New_Vegas_948.1.7z](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)
+*  [Vanilla.UI.Plus.9.48.7z](https://github.com/Qolore7/the-sands/releases/download/vanilla-ui-plus/Vanilla.UI.Plus.9.48.7z)
 *  [Vault 19 Red Suits-74699-1-0-1639536561.zip](https://www.nexusmods.com/newvegas/mods/74699/?tab=files&file_id=1000085146)
 *  [Vault 22 Flora Overhaul Remastered-71521-1-3-1622825860.7z](https://www.nexusmods.com/newvegas/mods/71521/?tab=files&file_id=1000076986)
 *  [Vault22AnimatedSign-73741-V1-1632191869.rar](https://www.nexusmods.com/newvegas/mods/73741/?tab=files&file_id=1000081380)

@@ -1,7 +1,8 @@
 ## Validation Report - Tahrovin (Tahrovin/tahrovin)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [TAWOBA REMASTERED 6.1 CBBE SE.7z](https://drive.google.com/uc?id=1c6Q4AivQcnXN_rio_hNXySf-4x6y5qA1&export=download)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (636)
@@ -217,6 +218,7 @@
 *  [For VR users-24135-1-2-1565804263.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24135/?tab=files&file_id=102992)
 *  [Frozen Electrocuted Combustion-3532-5-1-0-1668639002.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3532/?tab=files&file_id=332417)
 *  [Frozen in Time - Definitely Not Another Snow Elf Waifu Mod-39732-0-26-1675340544.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39732/?tab=files&file_id=355529)
+*  [FSR2.2.zip](https://github.com/PureDark/FidelityFX-FSR2/releases/download/2.2-unofficial/FSR2.2.zip)
 *  [Fur Tent Retexture 4k-3621-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3621/?tab=files&file_id=6147)
 *  [Fuz.Ro.D.oh.VR.-.Alpha.3.zip](https://github.com/shadeMe/Fuz-Ro-D-oh-64/files/4674275/Fuz.Ro.D.oh.VR.-.Alpha.3.zip)
 *  [FVAR - CBBE Patch 4k Compressed-43389-0-3-1619066817.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43389/?tab=files&file_id=199549)
@@ -572,7 +574,6 @@
 *  [Tahrovin v1.0 xLODGen Output.7z](https://authored-files.wabbajack.org/Tahrovin v1.0 xLODGen Output.7z_bcec0c93-a2ab-48b3-a13c-95f1fdffad48)
 *  [Tahrovin v1.0.4 TexGen Output.7z](https://authored-files.wabbajack.org/Tahrovin v1.0.4 TexGen Output.7z_0cd79b4e-d64a-4c1d-aefa-8c5d1a0767fb)
 *  [Tahrovin v1.0.4.1 LODs.7z](https://authored-files.wabbajack.org/Tahrovin v1.0.4.1 LODs.7z_90e2b72f-440d-46fb-b2fa-c44bbf84bd3a)
-*  [TAWOBA REMASTERED 6.1 CBBE SE.7z](https://drive.google.com/uc?id=1c6Q4AivQcnXN_rio_hNXySf-4x6y5qA1&export=download)
 *  [Tempered Skins for Males - SOS Full version-7902-2-06-1601375163.7z](https://www.nexusmods.com/skyrimspecialedition/mods/7902/?tab=files&file_id=163103)
 *  [Teru Apex V2 CBBE 3BA 3BBB 2.0-50232-2-0-1623704887.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50232/?tab=files&file_id=209118)
 *  [Teru Bulky Woman 2.0 3BA-56278-2-0-1635187207.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56278/?tab=files&file_id=237016)
