@@ -1,11 +1,12 @@
 ## Validation Report - Aldrnari (wj-featured/aldrnari)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
 ### Updated (0)
 ### Mirrored (1)
 *  [Serenity 3DNPC BSA Proper.7z](https://authored-files.wabbajack.org/Serenity 3DNPC BSA Proper.7z_fdc6bf82-2a9c-4ed1-bd1d-1408cb02ef49/)
-### Valid (2642)
+### Valid (2641)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0.0) SELUA - Solitude Exterior LOD Unlocker Advocate II-36116-1-1-1605036920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169508)
 *  [(1.1) The Great City of Solitude PATCH - Solitude Skyway SE - Drengin's Blue Palace Terrace (STD)-36116-1-1-1604648419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=168848)
@@ -1994,7 +1995,6 @@
 *  [SC - KS Hairdos Retextured-38820-1-8-1621881743.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38820/?tab=files&file_id=205362)
 *  [SC - Unsainted - ESP-FE-67128-1-0-1651423448.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67128/?tab=files&file_id=280834)
 *  [SC - Unsainted-67128-1-0-1650987445.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67128/?tab=files&file_id=279757)
-*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
 *  [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
 *  [ScaleformTranslationPP-22603-1-4-1-1586306055.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22603/?tab=files&file_id=132968)
 *  [SCAR - Skyrim Combos AI Revolution-72014-v0-93-1660740665.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72014/?tab=files&file_id=308222)
