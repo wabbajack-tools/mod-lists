@@ -1,11 +1,10 @@
 ## Validation Report - NEFARAM (NEFARAM/NEFARAM)
 
 
-### Invalid (1)
-*  [BaboDialogue Voice Pack.zip](https://build.wabbajack.org/authored_files/direct_link/BaboDialogue Voice Pack.zip_85450c15-3b4c-4289-a662-9911c8ac85f8)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1656)
+### Valid (1657)
 *  [- Meshes - important-58370-1-0-1637050362.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=241886)
 *  [(2) Community Overlays 2 - Main - CBBE-26224-1-0-1559371694.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94367)
 *  [(2) Community Overlays 3 - Main - CBBE-35339-1-0-1588116779.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136886)
@@ -163,6 +162,7 @@
 *  [Ayleid Stone Piercings-76204-1-4-1681934496.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76204/?tab=files&file_id=380029)
 *  [B. Dragon Weapons and Armors Retexture SE 2K-1K-83222-1-2-1677116288.rar](https://www.nexusmods.com/skyrimspecialedition/mods/83222/?tab=files&file_id=362433)
 *  [BA_BardSongs_FOMOD-47202-1-3-1625966592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47202/?tab=files&file_id=213912)
+*  [BaboDialogue Voice Pack.zip](https://build.wabbajack.org/authored_files/direct_link/BaboDialogue Voice Pack.zip_85450c15-3b4c-4289-a662-9911c8ac85f8)
 *  [BaboDialogue.7z](https://www.loverslab.com/files/file/17496-babodialogue/)
 *  [Baka Motion Data Pack.7z](https://www.loverslab.com/files/file/26992-baka-motion-data-pack/)
 *  [BakaFactory ABC LE SE.7z](https://drive.google.com/uc?id=17Ox4I4P0rJUIHCPltum-iq8JTBx-vA9j&export=download)
