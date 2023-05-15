@@ -1,8 +1,8 @@
 {
   "MachineURL": "HumbleWarden/humble_warden",
   "Name": "Just a Humble Warden",
-  "Version": "0.2.0",
-  "ModListHash": "APiX1ZUDvH8=",
+  "Version": "0.2.1",
+  "ModListHash": "YF4CM0c+Jbo=",
   "Archives": [
     {
       "Status": "Valid",
@@ -97,20 +97,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "OhNzTV6uS6I=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5872\nfileID=1000009449",
-        "Name": "Alistair Appearance Overhaul light hairs-5872-1-0-1667996282.zip",
-        "Size": 6534789,
+        "Hash": "kVFM49gUL1A=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=4450\nfileID=1000005323",
+        "Name": "Alistair morph DAI colors Without Realistic teeth-4450-1-0.rar",
+        "Size": 10136643,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VagranDreamer",
-          "Description": "A new face for Alistair with 2 hair options.",
-          "FileID": 1000009449,
+          "Author": "Jenya66",
+          "Description": "",
+          "FileID": 1000005323,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5872/5872-1667999841-1917457173.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4450-0-1497326803.jpg",
           "IsNSFW": false,
-          "ModID": 5872,
-          "Name": "Alistair Appearance Overhaul",
+          "ModID": 4450,
+          "Name": "Inquisition inspired morphs",
           "Version": "1.0"
         }
       }
@@ -118,21 +118,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QZ1rt8kiu4M=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=3481\nfileID=17990",
-        "Name": "Alistairs Oath - GWoF Compatibility-3481-1-0.rar",
-        "Size": 5385,
+        "Hash": "rd03/3BqrNc=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=928\nfileID=8845",
+        "Name": "Alternate_EF_Kiss_2-928.rar",
+        "Size": 8167,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kuro_Neko",
-          "Description": "Ever wonder why Alistair doesn\u0027t have his own Warden\u0027s Oath amulet?  Now he can.",
-          "FileID": 17990,
+          "Author": "ejoslin",
+          "Description": "Fixes many dialog issues (not only Zevran), including Zevran giving the wrong dialog at the city gates, Alistair referring to himself as king when he\u0027s not, glitches in the Alienage as a city elf, and more",
+          "FileID": 8845,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": null,
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/928-1-1269628881.jpg",
           "IsNSFW": false,
-          "ModID": 3481,
-          "Name": "Alistairs Oath",
-          "Version": "1.0"
+          "ModID": 928,
+          "Name": "ZDF Dialog Fix",
+          "Version": "2.1"
         }
       }
     },
@@ -175,27 +175,6 @@
           "ModID": 954,
           "Name": "Armor Rune Drop Fixes",
           "Version": "1.02"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "dOAkYD+HvG0=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5137\nfileID=1000006591",
-        "Name": "Default Version - No IA required-5137-1-0-1574726630.rar",
-        "Size": 16241,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mrc136k",
-          "Description": "Sentinels/Suits of armor do not bleed or leave a blood pool.",
-          "FileID": 1000006591,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5137/5137-1574644492-979816424.jpeg",
-          "IsNSFW": false,
-          "ModID": 5137,
-          "Name": "Armors Do Not Bleed",
-          "Version": "1.0"
         }
       }
     },
@@ -280,6 +259,27 @@
           "ModID": 473,
           "Name": "Bidelles Cosmetics",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wvGa5GKlFpA=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=4835\nfileID=1000005744",
+        "Name": "BombsAwayFix-4835-1-1.7z",
+        "Size": 36094,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SpecMechanic",
+          "Description": "Bugfixes for the quest \u0022Bombs Away!\u0022 for Awakening.",
+          "FileID": 1000005744,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4835/4835-1628591539-2088464781.png",
+          "IsNSFW": false,
+          "ModID": 4835,
+          "Name": "Bombs Away Quest Fix",
+          "Version": "1.1"
         }
       }
     },
@@ -538,15 +538,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "vKUD3kKtclc=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=1607\nfileID=9026",
-        "Name": "Dalls_Rescaled_Weapons_v15_Update_Only-1607.7z",
-        "Size": 78371,
+        "Hash": "buagY1jQrbo=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=1607\nfileID=8660",
+        "Name": "Dalls_Rescaled_Weapons_v14_Upd-1607.7z",
+        "Size": 152360,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Dall",
           "Description": "Rescaled Weapons are original game weapons rescaled (resized) to fit game actors / their type and purpose better. ",
-          "FileID": 9026,
+          "FileID": 8660,
           "GameName": "DragonAgeOrigins",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/1607-1-1283844965.jpg",
           "IsNSFW": false,
@@ -580,21 +580,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "n6wbhDARFS0=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5180\nfileID=1000006748",
-        "Name": "Daveth and Jory Ability Tweaks-5180-1-0-0-1581295786.7z",
-        "Size": 3402,
+        "Hash": "yryiy+JQyp8=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=2110\nfileID=19137",
+        "Name": "Deathblow-2110-0-01.zip",
+        "Size": 137965771,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "darthbdaman",
-          "Description": "Adjusts Daveth\u0027s skills so they match his supposed abilities, and fixes a bug which gives Jory various archery talents.",
-          "FileID": 1000006748,
+          "Author": "Alexander Molodchy",
+          "Description": "This mod adds 44 new finishing moves(Deathblows),ability to cut heads by an axe and more...",
+          "FileID": 19137,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5180/5180-1581294801-2084223146.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/2110-1-1298265416.jpg",
           "IsNSFW": false,
-          "ModID": 5180,
-          "Name": "Daveth and Jory Ability Tweaks",
-          "Version": "1.0.0"
+          "ModID": 2110,
+          "Name": "Deathblow",
+          "Version": "0.01"
         }
       }
     },
@@ -664,21 +664,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hO4/KlbSVlo=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5381\nfileID=1000007558",
-        "Name": "Dwarves Are Not Mages - Armour-5381-1-0-1607074666.7z",
-        "Size": 809055,
+        "Hash": "axcD7n9sziE=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5509\nfileID=1000008231",
+        "Name": "Bloom off-5509-1-0-1624809467.zip",
+        "Size": 997,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TheSapphireQueen",
-          "Description": "Fixes Bioware\u0027s silly mistake of putting dwarves in mage robes.",
-          "FileID": 1000007558,
+          "Author": "Ashhawk",
+          "Description": "Fixes a bug in the mod Pixelated Shaders Begone that stops the bloom shader working. (Alternatively, turns the bloom off more efficiently.)",
+          "FileID": 1000008231,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5381/5381-1607074307-2060325052.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5509/5509-1624815950-1761244281.png",
           "IsNSFW": false,
-          "ModID": 5381,
-          "Name": "Dwarves Are Not Mages",
+          "ModID": 5509,
+          "Name": "Bugfix for Pixelated Shaders Begone",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sis1UrfxWL4=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5382\nfileID=1000007577",
+        "Name": "More Hairs for Kids-5382-1-1-1607669535.7z",
+        "Size": 1919867,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Shanamah",
+          "Description": "A collection of vanilla hair conversions for kids, and a bunch of morphs that use them.",
+          "FileID": 1000007577,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5382/5382-1607157084-805468054.png",
+          "IsNSFW": false,
+          "ModID": 5382,
+          "Name": "More Hairs for Kids and Diversified Children",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/j16uNTsKLU=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5019\nfileID=1000006185",
+        "Name": "Revised Tattoos - Complete Pack-5019-V1-1550694987.zip",
+        "Size": 3733978,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "dalishious",
+          "Description": "Unique, human, dwarf and Dalish tattoos (vallaslin) redrawn by hand with a higher resolution, stronger colour, sharper designs and a few other small tweaks. All together in one download now.",
+          "FileID": 1000006185,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5019/5019-1550694530-787600770.png",
+          "IsNSFW": false,
+          "ModID": 5019,
+          "Name": "Revised Tattoos (Complete Pack)",
+          "Version": "V1"
         }
       }
     },
@@ -782,21 +824,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uM93ACadCYY=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5840\nfileID=1000009408",
-        "Name": "Forgotten Fixes-5840-1-1-1666970676.7z",
-        "Size": 8285,
+        "Hash": "vPrA91WdzOE=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=4434\nfileID=1000003391",
+        "Name": "Ghost Elves-4434-1.zip",
+        "Size": 61320,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Max",
-          "Description": "Provides fixes for abilities which weren\u0027t covered in Dain\u0027s fixes. Shield Block, Stunning Blows, Combat Magic and Bear Shape(Shapeshifter spell).",
-          "FileID": 1000009408,
+          "Author": "mintflavoredwindows",
+          "Description": "Changes the models of two ghosts in the Brecilian Ruins from humans to elves.",
+          "FileID": 1000003391,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5840/5840-1662745793-1667654167.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4434-1-1456352225.png",
           "IsNSFW": false,
-          "ModID": 5840,
-          "Name": "Forgotten Fixes",
-          "Version": "1.1"
+          "ModID": 4434,
+          "Name": "Ghost Elves",
+          "Version": "1"
         }
       }
     },
@@ -818,27 +860,6 @@
           "ModID": 5864,
           "Name": "Goblet De-Gobbler - a Joining chalice fix and more",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "YDun0rJXtoY=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=928\nfileID=10546",
-        "Name": "Gorim Quiet-928-1.rar",
-        "Size": 90618,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ejoslin",
-          "Description": "Fixes many dialog issues (not only Zevran), including Zevran giving the wrong dialog at the city gates, Alistair referring to himself as king when he\u0027s not, glitches in the Alienage as a city elf, and more",
-          "FileID": 10546,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/928-1-1269628881.jpg",
-          "IsNSFW": false,
-          "ModID": 928,
-          "Name": "ZDF Dialog Fix",
-          "Version": "2.1"
         }
       }
     },
@@ -1034,6 +1055,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "mHob70/c8ik=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=1619\nfileID=8208",
+        "Name": "IWO version 2-1619.rar",
+        "Size": 1158,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "danscott84",
+          "Description": "Improved Stats for the Warden\\\u0027s Oath amulet ",
+          "FileID": 8208,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/1619-1-1282787981.jpg",
+          "IsNSFW": false,
+          "ModID": 1619,
+          "Name": "Improved Warden Oath",
+          "Version": "2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "R14JuccNnFU=",
         "Meta": "[General]\ngameName=dragonage\nmodID=4795\nfileID=1000005221",
         "Name": "Random hairstyles-4795-.rar",
@@ -1181,21 +1223,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "K0q/+AF8DwU=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=4187\nfileID=1000002173",
-        "Name": "Make your companions very noisy and talkatives-4187-1-0.rar",
-        "Size": 1761,
+        "Hash": "d9LuyTQk78U=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=6000\nfileID=1000009795",
+        "Name": "marjolaine archer - noble clothing-6000-1-1676222877.rar",
+        "Size": 3970,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "JiaJia",
-          "Description": "Make your companions very noisy and talkative N always respond",
-          "FileID": 1000002173,
+          "Author": "kayla",
+          "Description": "Equips marjolaine with the marjolaine\u0027s recurve bow, as she fights empty handed which doesn\u0027t look right",
+          "FileID": 1000009795,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4187-1-1408188204.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/6000/6000-1676222079-969831319.jpeg",
           "IsNSFW": false,
-          "ModID": 4187,
-          "Name": "Make your companions very noisy and talkative",
-          "Version": "1.0"
+          "ModID": 6000,
+          "Name": "Marjolaine - with weapons",
+          "Version": "1"
         }
       }
     },
@@ -1328,6 +1370,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "HnOX+mmTllc=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=3801\nfileID=1000000763",
+        "Name": "better shaders-3801-1-0.7z",
+        "Size": 3455,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "blaidd",
+          "Description": "This is a tiny Mod which removes pixelation when Bloom, Depth of Field are applied. No more ugly pixels in front of your face!",
+          "FileID": 1000000763,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/3801-1-1372116486.jpg",
+          "IsNSFW": false,
+          "ModID": 3801,
+          "Name": "Pixelated Shaders begone",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "o8j2m0Ynox0=",
         "Meta": "[General]\ngameName=dragonage\nmodID=6017\nfileID=1000009868",
         "Name": "Purple Lightning-6017-1-0-1677605308.rar",
@@ -1433,27 +1496,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/j16uNTsKLU=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5019\nfileID=1000006185",
-        "Name": "Revised Tattoos - Complete Pack-5019-V1-1550694987.zip",
-        "Size": 3733978,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "dalishious",
-          "Description": "Unique, human, dwarf and Dalish tattoos (vallaslin) redrawn by hand with a higher resolution, stronger colour, sharper designs and a few other small tweaks. All together in one download now.",
-          "FileID": 1000006185,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5019/5019-1550694530-787600770.png",
-          "IsNSFW": false,
-          "ModID": 5019,
-          "Name": "Revised Tattoos (Complete Pack)",
-          "Version": "V1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Sd2owny9lDE=",
         "Meta": "[General]\ngameName=dragonage\nmodID=3361\nfileID=17480",
         "Name": "Schwarzalbenheim-3361-0-0.7z",
@@ -1475,21 +1517,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hUO3K2db7C0=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5818\nfileID=1000009262",
-        "Name": "Shale\u0027s Fixes-5818-2-2-1662022771.zip",
-        "Size": 18921,
+        "Hash": "ILeRTUzPjhg=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=4597\nfileID=1000004271",
+        "Name": "SJC\u0027s Skins-4597-.zip",
+        "Size": 203240538,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Max",
-          "Description": "This mod fixes and implements mechanics (inc. Threat) in the Shale Talent tree that were originally intended but do not exist or are bugged due to coding errors.",
-          "FileID": 1000009262,
+          "Author": "SammyJC",
+          "Description": "12 additional skins for character creation.",
+          "FileID": 1000004271,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5818/5818-1660657547-2041538275.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4597-0-1482263821.png",
           "IsNSFW": false,
-          "ModID": 5818,
-          "Name": "Shale\u0027s Talents - Fixes Only",
-          "Version": "2.2"
+          "ModID": 4597,
+          "Name": "SJC\u0027s Skins",
+          "Version": ""
         }
       }
     },
@@ -1538,21 +1580,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GHXvJQOri8E=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=1838\nfileID=9354",
-        "Name": "Skip Ostagar v085-1838.rar",
-        "Size": 66002,
+        "Hash": "S+0QaHMY1i8=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=4853\nfileID=1000005489",
+        "Name": "SJCs Tints And Textures-4853-1.zip",
+        "Size": 111058172,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Reav3r",
-          "Description": "Finally, a reasonable mod to skip the intro to Ostagar.",
-          "FileID": 9354,
+          "Author": "SammyJC",
+          "Description": "A collection of textures and tints for use in the Dragon Age Toolset and in-game character creator.",
+          "FileID": 1000005489,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": null,
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4853/4853-1517735337-711408471.png",
           "IsNSFW": false,
-          "ModID": 1838,
-          "Name": "Skip Ostagar",
-          "Version": "0.85"
+          "ModID": 4853,
+          "Name": "SJCs Tints And Textures",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XHsBSvoEgUk=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=816\nfileID=4471",
+        "Name": "Skip the Fade Manual-816.zip",
+        "Size": 7407,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "hdhd",
+          "Description": "This mod gives you the option to skip the Fade.",
+          "FileID": 4471,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/816-1-1267720244.jpg",
+          "IsNSFW": false,
+          "ModID": 816,
+          "Name": "Skip the Fade",
+          "Version": "1.5"
         }
       }
     },
@@ -1601,6 +1664,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "sjiW3ULA0BU=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=4505\nfileID=1000005564",
+        "Name": "Tranquil Brand-4505-V2.zip",
+        "Size": 3919486,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dalishious",
+          "Description": "Gives Tranquil NPCs the familiar brand from later games (specifically the DA:I design)",
+          "FileID": 1000005564,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4505/4505-1519498770-995414108.jpeg",
+          "IsNSFW": false,
+          "ModID": 4505,
+          "Name": "Tranquil Brand 2.0",
+          "Version": "V2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "nfZxJbZBYso=",
         "Meta": "[General]\ngameName=dragonage\nmodID=3643\nfileID=19101",
         "Name": "Tranquil Tattoos and Head Morphs - Shaved - DAO-Style Elves-3643-1-0.zip",
@@ -1643,13 +1727,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "IuvzC84YOMQ=",
-        "Meta": "[General]\ndirectURL=https://www.moddb.com/downloads/start/110403",
-        "Name": "tuckedhair.7z",
-        "Size": 11175911,
+        "Hash": "oiea5v2Mk5g=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5995\nfileID=1000009776",
+        "Name": "Two Moons Circle-5995-v1-0-1675929882.rar",
+        "Size": 341471,
         "State": {
-          "$type": "ModDBDownloader, Wabbajack.Lib",
-          "Url": "https://www.moddb.com/downloads/start/110403"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Adrius",
+          "Description": "A lore-friendly mod that adds the second moon, Satina to the night sky.",
+          "FileID": 1000009776,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5995/5995-1675955135-363819958.png",
+          "IsNSFW": false,
+          "ModID": 5995,
+          "Name": "Two Moons Circle",
+          "Version": "1.1"
         }
       }
     },
@@ -1698,6 +1790,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "5qjqNAwxXTA=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5826\nfileID=1000009239",
+        "Name": "Unique High Dragon-5826-1-1661233725.rar",
+        "Size": 21980557,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zyki",
+          "Description": "retexture of the high dragon at the mountain top",
+          "FileID": 1000009239,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5826/5826-1661233560-556797488.jpeg",
+          "IsNSFW": false,
+          "ModID": 5826,
+          "Name": "Unique High Dragon",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "we5ekVfjN6s=",
         "Meta": "[General]\ngameName=dragonage\nmodID=4236\nfileID=1000006014",
         "Name": "jewelryiconsrings20-4236-2-0.zip",
@@ -1713,6 +1826,27 @@
           "ModID": 4236,
           "Name": "Unique Jewelry Icons - Rings",
           "Version": "v2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QO5sWlHe4Lw=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5852\nfileID=1000009323",
+        "Name": "Updated Halla-5852-1-0-1664359996.rar",
+        "Size": 12621265,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lilhunnykt",
+          "Description": "Updates all Halla in game to higher quality Inquisition assets.",
+          "FileID": 1000009323,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5852/5852-1664359616-1473254095.gif",
+          "IsNSFW": false,
+          "ModID": 5852,
+          "Name": "Updated Halla",
+          "Version": "1.0"
         }
       }
     },
@@ -1740,21 +1874,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hfZXK27+D9I=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5900\nfileID=1000009496",
-        "Name": "Zevran Appearance Overhaul original colors-5900-1-0-1668915453.zip",
-        "Size": 7712137,
+        "Hash": "gYvWpq1v8VU=",
+        "Meta": "[General]\ndirectURL=https://www.mediafire.com/file/dw4o21zasz10nik/Nexus\u002BMod\u002BVersion.rar/file#",
+        "Name": "Nexus Mod Version.rar",
+        "Size": 225205784,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VagranDreamer",
-          "Description": "A new face for Antivan assassin. Available in several versions of skin tones, including the original.",
-          "FileID": 1000009496,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5900/5900-1668924818-1635570064.jpeg",
-          "IsNSFW": false,
-          "ModID": 5900,
-          "Name": "Zevran Appearance Overhaul",
-          "Version": "1.0"
+          "$type": "MediaFireDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://www.mediafire.com/file/dw4o21zasz10nik/Nexus\u002BMod\u002BVersion.rar/file#"
         }
       }
     },
@@ -1791,27 +1917,6 @@
           "Author": "SnazzyAI",
           "Description": "This mod replaces the pre-rendered cutscenes the game uses to progress the story. These were 720P resolution and 30FPS. I used AI to upgrade them to 4K and 60FPS. I\u0027ve also uploaded 1080P and 1440P versions, as well. It\u0027s a simple drop in replacement to upgrade your latest playthrough!",
           "FileID": 1000008149,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5497/5497-1621795804-1968416984.png",
-          "IsNSFW": false,
-          "ModID": 5497,
-          "Name": "Dragon Age Origins 4K 60FPS Cinematics Mod",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "wDe8tC129OU=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5497\nfileID=1000008152",
-        "Name": "New Game Intro and Logos 4K-5497-1-0-1621867997.rar",
-        "Size": 2377538934,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SnazzyAI",
-          "Description": "This mod replaces the pre-rendered cutscenes the game uses to progress the story. These were 720P resolution and 30FPS. I used AI to upgrade them to 4K and 60FPS. I\u0027ve also uploaded 1080P and 1440P versions, as well. It\u0027s a simple drop in replacement to upgrade your latest playthrough!",
-          "FileID": 1000008152,
           "GameName": "DragonAgeOrigins",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5497/5497-1621795804-1968416984.png",
           "IsNSFW": false,
@@ -1866,126 +1971,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kVFM49gUL1A=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=4450\nfileID=1000005323",
-        "Name": "Alistair morph DAI colors Without Realistic teeth-4450-1-0.rar",
-        "Size": 10136643,
+        "Hash": "dOAkYD+HvG0=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5137\nfileID=1000006591",
+        "Name": "Default Version - No IA required-5137-1-0-1574726630.rar",
+        "Size": 16241,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Jenya66",
-          "Description": "",
-          "FileID": 1000005323,
+          "Author": "mrc136k",
+          "Description": "Sentinels/Suits of armor do not bleed or leave a blood pool.",
+          "FileID": 1000006591,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4450-0-1497326803.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5137/5137-1574644492-979816424.jpeg",
           "IsNSFW": false,
-          "ModID": 4450,
-          "Name": "Inquisition inspired morphs",
+          "ModID": 5137,
+          "Name": "Armors Do Not Bleed",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "buagY1jQrbo=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=1607\nfileID=8660",
-        "Name": "Dalls_Rescaled_Weapons_v14_Upd-1607.7z",
-        "Size": 152360,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dall",
-          "Description": "Rescaled Weapons are original game weapons rescaled (resized) to fit game actors / their type and purpose better. ",
-          "FileID": 8660,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/1607-1-1283844965.jpg",
-          "IsNSFW": false,
-          "ModID": 1607,
-          "Name": "Dalls_Rescaled Weapons",
-          "Version": "1.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fhSF83uUpbI=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5952\nfileID=1000009612",
-        "Name": "No Slow Casting-5952-1-00-1672792354.zip",
-        "Size": 612,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TheGreenTaurus",
-          "Description": "Has it ever bothered you that spells like Chain Lightning, the elemental Storms and Shapeshifting all take a bit too much time preparing?\n\nWell, it did bother me, and I did something about it!",
-          "FileID": 1000009612,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5952/5952-1672792518-186166806.jpeg",
-          "IsNSFW": false,
-          "ModID": 5952,
-          "Name": "Faster Spellcasting",
-          "Version": "1.00"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ZPxHpXFyIQ8=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=130\nfileID=403",
-        "Name": "Version 2 - no more snarling-130.7z",
-        "Size": 22331,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Luchaire",
-          "Description": "Changes one of Dog\\\u0027s idle animations so he won\\\u0027t bark incessantly in camp all the time. ",
-          "FileID": 403,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 130,
-          "Name": "Less barking dog",
-          "Version": "2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "HnOX+mmTllc=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=3801\nfileID=1000000763",
-        "Name": "better shaders-3801-1-0.7z",
-        "Size": 3455,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "blaidd",
-          "Description": "This is a tiny Mod which removes pixelation when Bloom, Depth of Field are applied. No more ugly pixels in front of your face!",
-          "FileID": 1000000763,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/3801-1-1372116486.jpg",
-          "IsNSFW": false,
-          "ModID": 3801,
-          "Name": "Pixelated Shaders begone",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "XHsBSvoEgUk=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=816\nfileID=4471",
-        "Name": "Skip the Fade Manual-816.zip",
-        "Size": 7407,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "hdhd",
-          "Description": "This mod gives you the option to skip the Fade.",
-          "FileID": 4471,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/816-1-1267720244.jpg",
-          "IsNSFW": false,
-          "ModID": 816,
-          "Name": "Skip the Fade",
-          "Version": "1.5"
         }
       }
     },
@@ -2013,105 +2013,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/09JPKX+eAs=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=73\nfileID=7837",
-        "Name": "FtG UI Mod - v2-1-73.zip",
-        "Size": 6876443,
+        "Hash": "fmhU1Oi4ScU=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=3295\nfileID=19030",
+        "Name": "Face and Eye Textures-3295-.rar",
+        "Size": 22007781,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "FollowTheGourd",
-          "Description": "Readability improvements for cutscenes, the quest journal, the codex, conversation history, tooltips, the inventory, and other various menus. There\\\u0027s still lots more to go and more versions to come.",
-          "FileID": 7837,
+          "Author": "mochen",
+          "Description": "A collection of character designs as compiled morphs and character creator presets",
+          "FileID": 19030,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/73-1-1263453338.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/3295-1-1388701036.png",
           "IsNSFW": false,
-          "ModID": 73,
-          "Name": "FtG UI Mod - More Readable Fonts and UI",
-          "Version": "v2.1"
+          "ModID": 3295,
+          "Name": "Ferelden Models",
+          "Version": "Final"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "rd03/3BqrNc=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=928\nfileID=8845",
-        "Name": "Alternate_EF_Kiss_2-928.rar",
-        "Size": 8167,
+        "Hash": "ZPxHpXFyIQ8=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=130\nfileID=403",
+        "Name": "Version 2 - no more snarling-130.7z",
+        "Size": 22331,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ejoslin",
-          "Description": "Fixes many dialog issues (not only Zevran), including Zevran giving the wrong dialog at the city gates, Alistair referring to himself as king when he\u0027s not, glitches in the Alienage as a city elf, and more",
-          "FileID": 8845,
+          "Author": "Luchaire",
+          "Description": "Changes one of Dog\\\u0027s idle animations so he won\\\u0027t bark incessantly in camp all the time. ",
+          "FileID": 403,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/928-1-1269628881.jpg",
+          "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 928,
-          "Name": "ZDF Dialog Fix",
-          "Version": "2.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "wvGa5GKlFpA=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=4835\nfileID=1000005744",
-        "Name": "BombsAwayFix-4835-1-1.7z",
-        "Size": 36094,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SpecMechanic",
-          "Description": "Bugfixes for the quest \u0022Bombs Away!\u0022 for Awakening.",
-          "FileID": 1000005744,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4835/4835-1628591539-2088464781.png",
-          "IsNSFW": false,
-          "ModID": 4835,
-          "Name": "Bombs Away Quest Fix",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "yryiy+JQyp8=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=2110\nfileID=19137",
-        "Name": "Deathblow-2110-0-01.zip",
-        "Size": 137965771,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Alexander Molodchy",
-          "Description": "This mod adds 44 new finishing moves(Deathblows),ability to cut heads by an axe and more...",
-          "FileID": 19137,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/2110-1-1298265416.jpg",
-          "IsNSFW": false,
-          "ModID": 2110,
-          "Name": "Deathblow",
-          "Version": "0.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "axcD7n9sziE=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5509\nfileID=1000008231",
-        "Name": "Bloom off-5509-1-0-1624809467.zip",
-        "Size": 997,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ashhawk",
-          "Description": "Fixes a bug in the mod Pixelated Shaders Begone that stops the bloom shader working. (Alternatively, turns the bloom off more efficiently.)",
-          "FileID": 1000008231,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5509/5509-1624815950-1761244281.png",
-          "IsNSFW": false,
-          "ModID": 5509,
-          "Name": "Bugfix for Pixelated Shaders Begone",
-          "Version": "1.0"
+          "ModID": 130,
+          "Name": "Less barking dog",
+          "Version": "2.0"
         }
       }
     },
@@ -2160,181 +2097,55 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "a9qUcPJZLdk=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5973\nfileID=1000009694",
-        "Name": "Wardens\u0027 Joining-5973-1-0-1674017317.zip",
-        "Size": 28092,
+        "Hash": "hUO3K2db7C0=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5818\nfileID=1000009262",
+        "Name": "Shale\u0027s Fixes-5818-2-2-1662022771.zip",
+        "Size": 18921,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Shanamah",
-          "Description": "Warden stuff for your companions when they complete the Joining, from Grey Wardens of Ferelden or Thedosian Grey Wardens.",
-          "FileID": 1000009694,
+          "Author": "Max",
+          "Description": "This mod fixes and implements mechanics (inc. Threat) in the Shale Talent tree that were originally intended but do not exist or are bugged due to coding errors.",
+          "FileID": 1000009262,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5973/5973-1673941449-363916190.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5818/5818-1660657547-2041538275.png",
           "IsNSFW": false,
-          "ModID": 5973,
-          "Name": "Wardens\u0027 Joining",
-          "Version": "1.0"
+          "ModID": 5818,
+          "Name": "Shale\u0027s Talents - Fixes Only",
+          "Version": "2.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "X2WUBg6vndo=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=2784\nfileID=13652",
-        "Name": "FtG_Quickbar-2784.zip",
-        "Size": 314160,
+        "Hash": "IuvzC84YOMQ=",
+        "Meta": "[General]\ndirectURL=https://www.moddb.com/downloads/start/110403",
+        "Name": "tuckedhair.7z",
+        "Size": 11175911,
+        "State": {
+          "$type": "ModDBDownloader, Wabbajack.Lib",
+          "Url": "https://www.moddb.com/downloads/start/110403"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/09JPKX+eAs=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=73\nfileID=7837",
+        "Name": "FtG UI Mod - v2-1-73.zip",
+        "Size": 6876443,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "FollowTheGourd",
-          "Description": "Use up to all fifty quickslots regardless of display resolution. Multiple rows. Row centering options.",
-          "FileID": 13652,
+          "Description": "Readability improvements for cutscenes, the quest journal, the codex, conversation history, tooltips, the inventory, and other various menus. There\\\u0027s still lots more to go and more versions to come.",
+          "FileID": 7837,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/2784-1-1304835137.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/73-1-1263453338.jpg",
           "IsNSFW": false,
-          "ModID": 2784,
-          "Name": "FtG Quickbar - Center and Multi Rows",
-          "Version": "v1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fCRhdxVl2CU=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=2997\nfileID=15130",
-        "Name": "Joining ritual fix-2997-1-2.zip",
-        "Size": 331254,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "i9h",
-          "Description": "Sigrun or Velanna can now undergo the Joining ritual if they are recruited as part of the third (and last) main quest.",
-          "FileID": 15130,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 2997,
-          "Name": "Joining ritual fix for Awakening companions",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "XaJNoxZ6Lqw=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5781\nfileID=1000009079",
-        "Name": "Main-5781-1-0-1657532136.rar",
-        "Size": 13226946,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lilhunnykt",
-          "Description": "Replaces the world map with a new map.",
-          "FileID": 1000009079,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5781/5781-1657531865-877280638.png",
-          "IsNSFW": false,
-          "ModID": 5781,
-          "Name": "World Map Replacer",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "DmG2L8vKubw=",
-        "Meta": "[General]\ndirectURL=https://www.moddb.com/downloads/start/110404",
-        "Name": "neutral_teeth.zip",
-        "Size": 2125095,
-        "State": {
-          "$type": "ModDBDownloader, Wabbajack.Lib",
-          "Url": "https://www.moddb.com/downloads/start/110404"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+cH9kDvgnfU=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=4829\nfileID=1000005390",
-        "Name": "All In One-4829-0-1.zip",
-        "Size": 5373913,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Eden",
-          "Description": "I wanted my Warden to give off a more serious vibe while still retaining the usual intensity of the Violent preset, and this soundset is what came of it. Now expanded to all races and genders.",
-          "FileID": 1000005390,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 4829,
-          "Name": "Serious Violence",
-          "Version": "0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "X6P0owcjFXQ=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=4050\nfileID=1000004909",
-        "Name": "Aldous isn\u0027t a Tranquil - Chantry Robes version-4050-1-0.7z",
-        "Size": 27079,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "theskymoves",
-          "Description": "Brother Aldous, the querulous codger scholar in the Human Noble origin, wears the robes of a Tranquil. This mod changes his gear to either the generic non-magical robes or Chantry robes.",
-          "FileID": 1000004909,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4050-2-1499535145.jpg",
-          "IsNSFW": false,
-          "ModID": 4050,
-          "Name": "TSM Aldous isn\u0027t a Tranquil",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "UC40eOS4YFA=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=664\nfileID=3572",
-        "Name": "dao_extradogslot_1_41-664.dazip",
-        "Size": 55569,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dheuster",
-          "Description": "Allows you to make your pet mabari war dog a permanent 5th travelling companion. ",
-          "FileID": 3572,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/664-1-1264560138.jpg",
-          "IsNSFW": false,
-          "ModID": 664,
-          "Name": "Extra Dog Slot",
-          "Version": "1.41"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "c2yUjKrYWrg=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=1444\nfileID=7492",
-        "Name": "Update v1 1-1444.zip",
-        "Size": 10496805,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Raughnut - Aranox",
-          "Description": "Leliana\u0027s Armor from Sacred Ashes Trailer",
-          "FileID": 7492,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/1444-1-1278894921.jpg",
-          "IsNSFW": false,
-          "ModID": 1444,
-          "Name": "Lelianas True Sacred Ashes Armor",
-          "Version": "v1.1"
+          "ModID": 73,
+          "Name": "FtG UI Mod - More Readable Fonts and UI",
+          "Version": "v2.1"
         }
       }
     },
@@ -2383,34 +2194,76 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0j8AA/KA2GU=",
-        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=1IQ9zfjZeroxbGRL9d5FKSTU2KGZgNshs\u0026export=download",
-        "Name": "DAOrigins Necessary Files.zip",
-        "Size": 1084463195,
+        "Hash": "K0q/+AF8DwU=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=4187\nfileID=1000002173",
+        "Name": "Make your companions very noisy and talkatives-4187-1-0.rar",
+        "Size": 1761,
         "State": {
-          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
-          "Id": "1IQ9zfjZeroxbGRL9d5FKSTU2KGZgNshs"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "JiaJia",
+          "Description": "Make your companions very noisy and talkative N always respond",
+          "FileID": 1000002173,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4187-1-1408188204.jpg",
+          "IsNSFW": false,
+          "ModID": 4187,
+          "Name": "Make your companions very noisy and talkative",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qZ99yrwtjv0=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=202\nfileID=5716",
-        "Name": "No_Helmet_Hack 1_5a Awakenings-202.7z",
-        "Size": 20008,
+        "Hash": "DmG2L8vKubw=",
+        "Meta": "[General]\ndirectURL=https://www.moddb.com/downloads/start/110404",
+        "Name": "neutral_teeth.zip",
+        "Size": 2125095,
+        "State": {
+          "$type": "ModDBDownloader, Wabbajack.Lib",
+          "Url": "https://www.moddb.com/downloads/start/110404"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+cH9kDvgnfU=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=4829\nfileID=1000005390",
+        "Name": "All In One-4829-0-1.zip",
+        "Size": 5373913,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Yonline2",
-          "Description": "This hack removes the helmet graphic from party members by placing helmets in the invisible \\\u0022cloak\\\u0022 equipment slot.  Item Sets fixed.  Awakenings compliant.",
-          "FileID": 5716,
+          "Author": "Eden",
+          "Description": "I wanted my Warden to give off a more serious vibe while still retaining the usual intensity of the Violent preset, and this soundset is what came of it. Now expanded to all races and genders.",
+          "FileID": 1000005390,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/202-1-1260383968.jpg",
+          "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 202,
-          "Name": "No Helmet Hack 1_6",
-          "Version": "1.6"
+          "ModID": 4829,
+          "Name": "Serious Violence",
+          "Version": "0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "X2WUBg6vndo=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=2784\nfileID=13652",
+        "Name": "FtG_Quickbar-2784.zip",
+        "Size": 314160,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FollowTheGourd",
+          "Description": "Use up to all fifty quickslots regardless of display resolution. Multiple rows. Row centering options.",
+          "FileID": 13652,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/2784-1-1304835137.jpg",
+          "IsNSFW": false,
+          "ModID": 2784,
+          "Name": "FtG Quickbar - Center and Multi Rows",
+          "Version": "v1.0"
         }
       }
     },
@@ -2459,83 +2312,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "vPrA91WdzOE=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=4434\nfileID=1000003391",
-        "Name": "Ghost Elves-4434-1.zip",
-        "Size": 61320,
+        "Hash": "Xcg4s6tM92o=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5281\nfileID=1000007103",
+        "Name": "Inquisition Vallaslin Remastered for DAO-5281-1-0-1593306777.zip",
+        "Size": 285060,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mintflavoredwindows",
-          "Description": "Changes the models of two ghosts in the Brecilian Ruins from humans to elves.",
-          "FileID": 1000003391,
+          "Author": "Berry",
+          "Description": "A remaster of the Inquisition vallaslin for Origins, with hand painted fixes that make the tattoos clear and fit on the face properly",
+          "FileID": 1000007103,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4434-1-1456352225.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5281/5281-1593305910-2133616609.png",
           "IsNSFW": false,
-          "ModID": 4434,
-          "Name": "Ghost Elves",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "mHob70/c8ik=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=1619\nfileID=8208",
-        "Name": "IWO version 2-1619.rar",
-        "Size": 1158,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "danscott84",
-          "Description": "Improved Stats for the Warden\\\u0027s Oath amulet ",
-          "FileID": 8208,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/1619-1-1282787981.jpg",
-          "IsNSFW": false,
-          "ModID": 1619,
-          "Name": "Improved Warden Oath",
-          "Version": "2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "MWNoMs9WFs4=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=930\nfileID=4516",
-        "Name": "Level50_For_Awakenings-930.zip",
-        "Size": 2760,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Keldorn",
-          "Description": "Achieve levels up to 50, and get up to 6 specializations!",
-          "FileID": 4516,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/930-1-1269547473.jpg",
-          "IsNSFW": false,
-          "ModID": 930,
-          "Name": "Level50",
-          "Version": "1.0000001"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "voOf4xvPPC8=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5563\nfileID=1000008392",
-        "Name": "Seeker\u0027s Circle Name Fix-5563-1-0-1632090881.7z",
-        "Size": 2316,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "theskymoves",
-          "Description": "Small fix for the bugged display name of Leliana\u0027s Seeker\u0027s Circle amulet.",
-          "FileID": 1000008392,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5563/5563-1632090467-330175098.jpeg",
-          "IsNSFW": false,
-          "ModID": 5563,
-          "Name": "TSM Seeker\u0027s Circle Name Fix",
+          "ModID": 5281,
+          "Name": "Inquisition Dalish Vallaslin Remastered",
           "Version": "1.0"
         }
       }
@@ -2543,21 +2333,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SYtkx6AzMTk=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=202\nfileID=6043",
-        "Name": "No Helmet Hack 1_6 Origins-202.rar",
-        "Size": 27017,
+        "Hash": "fCRhdxVl2CU=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=2997\nfileID=15130",
+        "Name": "Joining ritual fix-2997-1-2.zip",
+        "Size": 331254,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Yonline2",
-          "Description": "This hack removes the helmet graphic from party members by placing helmets in the invisible \\\u0022cloak\\\u0022 equipment slot.  Item Sets fixed.  Awakenings compliant.",
-          "FileID": 6043,
+          "Author": "i9h",
+          "Description": "Sigrun or Velanna can now undergo the Joining ritual if they are recruited as part of the third (and last) main quest.",
+          "FileID": 15130,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/202-1-1260383968.jpg",
+          "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 202,
-          "Name": "No Helmet Hack 1_6",
-          "Version": "1.6"
+          "ModID": 2997,
+          "Name": "Joining ritual fix for Awakening companions",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hfZXK27+D9I=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5900\nfileID=1000009496",
+        "Name": "Zevran Appearance Overhaul original colors-5900-1-0-1668915453.zip",
+        "Size": 7712137,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "VagranDreamer",
+          "Description": "A new face for Antivan assassin. Available in several versions of skin tones, including the original.",
+          "FileID": 1000009496,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5900/5900-1668924818-1635570064.jpeg",
+          "IsNSFW": false,
+          "ModID": 5900,
+          "Name": "Zevran Appearance Overhaul",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UC40eOS4YFA=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=664\nfileID=3572",
+        "Name": "dao_extradogslot_1_41-664.dazip",
+        "Size": 55569,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dheuster",
+          "Description": "Allows you to make your pet mabari war dog a permanent 5th travelling companion. ",
+          "FileID": 3572,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/664-1-1264560138.jpg",
+          "IsNSFW": false,
+          "ModID": 664,
+          "Name": "Extra Dog Slot",
+          "Version": "1.41"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "c2yUjKrYWrg=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=1444\nfileID=7492",
+        "Name": "Update v1 1-1444.zip",
+        "Size": 10496805,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Raughnut - Aranox",
+          "Description": "Leliana\u0027s Armor from Sacred Ashes Trailer",
+          "FileID": 7492,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/1444-1-1278894921.jpg",
+          "IsNSFW": false,
+          "ModID": 1444,
+          "Name": "Lelianas True Sacred Ashes Armor",
+          "Version": "v1.1"
         }
       }
     },
@@ -2627,20 +2480,96 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "w9hj+fQhOAc=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=4227\nfileID=1000002343",
-        "Name": "Lady of the forest HD -4227-1-0.zip",
-        "Size": 21359498,
+        "Hash": "0j8AA/KA2GU=",
+        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=1IQ9zfjZeroxbGRL9d5FKSTU2KGZgNshs\u0026export=download",
+        "Name": "DAOrigins Necessary Files.zip",
+        "Size": 1084463195,
+        "State": {
+          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
+          "Id": "1IQ9zfjZeroxbGRL9d5FKSTU2KGZgNshs"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qZ99yrwtjv0=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=202\nfileID=5716",
+        "Name": "No_Helmet_Hack 1_5a Awakenings-202.7z",
+        "Size": 20008,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Catachrism",
-          "Description": "Lady of The Forest HD Retexture",
-          "FileID": 1000002343,
+          "Author": "Yonline2",
+          "Description": "This hack removes the helmet graphic from party members by placing helmets in the invisible \\\u0022cloak\\\u0022 equipment slot.  Item Sets fixed.  Awakenings compliant.",
+          "FileID": 5716,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4227-1-1414309337.jpg",
-          "IsNSFW": true,
-          "ModID": 4227,
-          "Name": "Lady of The Forest HD Retexture Catachrism",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/202-1-1260383968.jpg",
+          "IsNSFW": false,
+          "ModID": 202,
+          "Name": "No Helmet Hack 1_6",
+          "Version": "1.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Ee0ds0zrJdY=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5993\nfileID=1000009746",
+        "Name": "Clouds retextured-5993-1-0-1675447570.7z",
+        "Size": 450511,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "iimaginary",
+          "Description": "A retexture of clouds for the base game and DLCs.",
+          "FileID": 1000009746,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5993/5993-1675448093-81934254.jpeg",
+          "IsNSFW": false,
+          "ModID": 5993,
+          "Name": "Clouds Retextured",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MWNoMs9WFs4=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=930\nfileID=4516",
+        "Name": "Level50_For_Awakenings-930.zip",
+        "Size": 2760,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Keldorn",
+          "Description": "Achieve levels up to 50, and get up to 6 specializations!",
+          "FileID": 4516,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/930-1-1269547473.jpg",
+          "IsNSFW": false,
+          "ModID": 930,
+          "Name": "Level50",
+          "Version": "1.0000001"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XaJNoxZ6Lqw=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5781\nfileID=1000009079",
+        "Name": "Main-5781-1-0-1657532136.rar",
+        "Size": 13226946,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lilhunnykt",
+          "Description": "Replaces the world map with a new map.",
+          "FileID": 1000009079,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5781/5781-1657531865-877280638.png",
+          "IsNSFW": false,
+          "ModID": 5781,
+          "Name": "World Map Replacer",
           "Version": "1.0"
         }
       }
@@ -2669,20 +2598,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "nYa+mjATWas=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5142\nfileID=1000006596",
-        "Name": "tsm_better_tower_guard-5142-1-0-1575524198.7z",
-        "Size": 3880,
+        "Hash": "wDe8tC129OU=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5497\nfileID=1000008152",
+        "Name": "New Game Intro and Logos 4K-5497-1-0-1621867997.rar",
+        "Size": 2377538934,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "theskymoves",
-          "Description": "Replaces the heavy helmet worn by the Ostagar Tower Guard temporary companion with a medium helmet, to accomodate his insufficient strength to equip the former.",
-          "FileID": 1000006596,
+          "Author": "SnazzyAI",
+          "Description": "This mod replaces the pre-rendered cutscenes the game uses to progress the story. These were 720P resolution and 30FPS. I used AI to upgrade them to 4K and 60FPS. I\u0027ve also uploaded 1080P and 1440P versions, as well. It\u0027s a simple drop in replacement to upgrade your latest playthrough!",
+          "FileID": 1000008152,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5142/5142-1575523943-1843194965.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5497/5497-1621795804-1968416984.png",
           "IsNSFW": false,
-          "ModID": 5142,
-          "Name": "TSM Better Tower Guard",
+          "ModID": 5497,
+          "Name": "Dragon Age Origins 4K 60FPS Cinematics Mod",
           "Version": "1.0"
         }
       }
@@ -2690,139 +2619,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5qjqNAwxXTA=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5826\nfileID=1000009239",
-        "Name": "Unique High Dragon-5826-1-1661233725.rar",
-        "Size": 21980557,
+        "Hash": "SYtkx6AzMTk=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=202\nfileID=6043",
+        "Name": "No Helmet Hack 1_6 Origins-202.rar",
+        "Size": 27017,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Zyki",
-          "Description": "retexture of the high dragon at the mountain top",
-          "FileID": 1000009239,
+          "Author": "Yonline2",
+          "Description": "This hack removes the helmet graphic from party members by placing helmets in the invisible \\\u0022cloak\\\u0022 equipment slot.  Item Sets fixed.  Awakenings compliant.",
+          "FileID": 6043,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5826/5826-1661233560-556797488.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/202-1-1260383968.jpg",
           "IsNSFW": false,
-          "ModID": 5826,
-          "Name": "Unique High Dragon",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ELkfHxn5LyU=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=971\nfileID=1000008431",
-        "Name": "DA_CharGenMorph_Compiler_v126-971-1-2-6-1634087524.zip",
-        "Size": 914161,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Terra_Ex",
-          "Description": "CharGenMorph Compiler automates the process of merging chargenmorphcfg.xml files, searching through all override directories and reconstructing a singular \u0022master\u0022 xml file containing all the values.\n\n\n\nGone are the days of manually editing xml files and painfully having to eyeball the differences between files - CharGenMorph Comp",
-          "FileID": 1000008431,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/971-1-1270066500.png",
-          "IsNSFW": false,
-          "ModID": 971,
-          "Name": "CharGenMorph Compiler",
-          "Version": "1.2.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tf8x6+y5MLc=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=4689\nfileID=1000006176",
-        "Name": "QUDAO Fixpack v3.5-4689-3-5-1550475932.zip",
-        "Size": 131278988,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Qwinn",
-          "Description": "New workaround hotfix for the rare but dreaded Skin Deep/Dereliction of Duty/Scrolls of Banastor bug.  You should install even if it hasn\u0027t affected you yet! This fixpack attempts to address ALL dialogue, quest, scripting, plot, and most item bugs in the base game of Dragon Age: Origins.  It also restores much previously inaccessible content.",
-          "FileID": 1000006176,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4689-0-1497207820.png",
-          "IsNSFW": false,
-          "ModID": 4689,
-          "Name": "Qwinn\u0027s Ultimate DAO Fixpack v3.52",
-          "Version": "3.52"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Ee0ds0zrJdY=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5993\nfileID=1000009746",
-        "Name": "Clouds retextured-5993-1-0-1675447570.7z",
-        "Size": 450511,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "iimaginary",
-          "Description": "A retexture of clouds for the base game and DLCs.",
-          "FileID": 1000009746,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5993/5993-1675448093-81934254.jpeg",
-          "IsNSFW": false,
-          "ModID": 5993,
-          "Name": "Clouds Retextured",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "1uhznP+TQw0=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=6017\nfileID=1000009894",
-        "Name": "Iridescent Healing-6017-1-0-1677813377.rar",
-        "Size": 417283,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "HollownessDevoured",
-          "Description": "A little collection of GUI changes: Icon recolours, and beasts, demons, dragons and golems\u2014no longer will drop normal armor. Also, purple lightning and iridescent healing replacers.",
-          "FileID": 1000009894,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/6017/6017-1677551956-396265059.jpeg",
-          "IsNSFW": false,
-          "ModID": 6017,
-          "Name": "Pet Peeves Fix Patch (GUI Icon and Visual Replacers)",
-          "Version": "1.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "g1s2PdrnunM=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=4797\nfileID=1000005344",
-        "Name": "Retconned Cullen V 2.0 - Hazel Eyes-4797-2-0.zip",
-        "Size": 7775734,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "nocheinmal",
-          "Description": "Small mod designed to give Cullen a more Inquisition-y appearance.",
-          "FileID": 1000005344,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4797/4797-1515354730-23119510.jpeg",
-          "IsNSFW": false,
-          "ModID": 4797,
-          "Name": "Retconned Cullen",
-          "Version": "2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "bE91h/Uu+RE=",
-        "Meta": "[General]\ndirectURL=https://www.moddb.com/downloads/start/173155",
-        "Name": "qunari_update.7z",
-        "Size": 11435946,
-        "State": {
-          "$type": "ModDBDownloader, Wabbajack.Lib",
-          "Url": "https://www.moddb.com/downloads/start/173155"
+          "ModID": 202,
+          "Name": "No Helmet Hack 1_6",
+          "Version": "1.6"
         }
       }
     },
@@ -2913,20 +2724,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "xztidZBGIus=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5910\nfileID=1000009517",
-        "Name": "Loghain Appearance Overhaul-5910-1-0-1670056570.zip",
-        "Size": 14746884,
+        "Hash": "w9hj+fQhOAc=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=4227\nfileID=1000002343",
+        "Name": "Lady of the forest HD -4227-1-0.zip",
+        "Size": 21359498,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VagranDreamer",
-          "Description": "Loghain\u0027s new face with 3 hairstyle options.",
-          "FileID": 1000009517,
+          "Author": "Catachrism",
+          "Description": "Lady of The Forest HD Retexture",
+          "FileID": 1000002343,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5910/5910-1670053269-592737957.jpeg",
-          "IsNSFW": false,
-          "ModID": 5910,
-          "Name": "Loghain Appearance Overhaul",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4227-1-1414309337.jpg",
+          "IsNSFW": true,
+          "ModID": 4227,
+          "Name": "Lady of The Forest HD Retexture Catachrism",
           "Version": "1.0"
         }
       }
@@ -2934,63 +2745,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0L6PSimUbbA=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5158\nfileID=1000006628",
-        "Name": "TSM Ceremonial Gloves Fix-5158-1-0-1577462205.7z",
-        "Size": 3951,
+        "Hash": "g1s2PdrnunM=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=4797\nfileID=1000005344",
+        "Name": "Retconned Cullen V 2.0 - Hazel Eyes-4797-2-0.zip",
+        "Size": 7775734,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "theskymoves",
-          "Description": "Makes the difficult-to-obtain Ceremonial Armored Gloves a guaranteed drop from the Assassin Leader in the Forest Stream random encounter.",
-          "FileID": 1000006628,
+          "Author": "nocheinmal",
+          "Description": "Small mod designed to give Cullen a more Inquisition-y appearance.",
+          "FileID": 1000005344,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5158/5158-1577461987-170351903.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4797/4797-1515354730-23119510.jpeg",
           "IsNSFW": false,
-          "ModID": 5158,
-          "Name": "TSM Unhand Those Gloves",
-          "Version": "1.0"
+          "ModID": 4797,
+          "Name": "Retconned Cullen",
+          "Version": "2.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QO5sWlHe4Lw=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5852\nfileID=1000009323",
-        "Name": "Updated Halla-5852-1-0-1664359996.rar",
-        "Size": 12621265,
+        "Hash": "GHXvJQOri8E=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=1838\nfileID=9354",
+        "Name": "Skip Ostagar v085-1838.rar",
+        "Size": 66002,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lilhunnykt",
-          "Description": "Updates all Halla in game to higher quality Inquisition assets.",
-          "FileID": 1000009323,
+          "Author": "Reav3r",
+          "Description": "Finally, a reasonable mod to skip the intro to Ostagar.",
+          "FileID": 9354,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5852/5852-1664359616-1473254095.gif",
+          "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 5852,
-          "Name": "Updated Halla",
-          "Version": "1.0"
+          "ModID": 1838,
+          "Name": "Skip Ostagar",
+          "Version": "0.85"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "H2uymAiUkhw=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5918\nfileID=1000009532",
-        "Name": "Respecification DAO-5918-1-0-1670525113.7z",
-        "Size": 142065,
+        "Hash": "ELkfHxn5LyU=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=971\nfileID=1000008431",
+        "Name": "DA_CharGenMorph_Compiler_v126-971-1-2-6-1634087524.zip",
+        "Size": 914161,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "amcnow",
-          "Description": "Provides the skills needed to respec the six primary attributes as well as classes and abilities.",
-          "FileID": 1000009532,
+          "Author": "Terra_Ex",
+          "Description": "CharGenMorph Compiler automates the process of merging chargenmorphcfg.xml files, searching through all override directories and reconstructing a singular \u0022master\u0022 xml file containing all the values.\n\n\n\nGone are the days of manually editing xml files and painfully having to eyeball the differences between files - CharGenMorph Comp",
+          "FileID": 1000008431,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5918/5918-1670525382-1087164791.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/971-1-1270066500.png",
           "IsNSFW": false,
-          "ModID": 5918,
-          "Name": "Respecification DAO",
-          "Version": "1.0"
+          "ModID": 971,
+          "Name": "CharGenMorph Compiler",
+          "Version": "1.2.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tf8x6+y5MLc=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=4689\nfileID=1000006176",
+        "Name": "QUDAO Fixpack v3.5-4689-3-5-1550475932.zip",
+        "Size": 131278988,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Qwinn",
+          "Description": "New workaround hotfix for the rare but dreaded Skin Deep/Dereliction of Duty/Scrolls of Banastor bug.  You should install even if it hasn\u0027t affected you yet! This fixpack attempts to address ALL dialogue, quest, scripting, plot, and most item bugs in the base game of Dragon Age: Origins.  It also restores much previously inaccessible content.",
+          "FileID": 1000006176,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4689-0-1497207820.png",
+          "IsNSFW": false,
+          "ModID": 4689,
+          "Name": "Qwinn\u0027s Ultimate DAO Fixpack v3.52",
+          "Version": "3.52"
         }
       }
     },
@@ -3102,41 +2934,62 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zgR2Kn1evug=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=3046\nfileID=15362",
-        "Name": "Law and Order Fixes-3046-1-01.rar",
-        "Size": 21863,
+        "Hash": "43X1qLD9icg=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=220\nfileID=724",
+        "Name": "Deathblow Lieutenants Plus-220.zip",
+        "Size": 613,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Elegant",
-          "Description": "This fix will correct all problems caused by Law \u0026 Order but will only take effect if it is installed before the actual quest is accepted.",
-          "FileID": 15362,
+          "Author": "MachDelta",
+          "Description": "This is a quick and simple mod that changes the chances of melee kills becoming \\\u0022Deathblows\\\u0022, aka those nifty scripted hack-em-up sequences!",
+          "FileID": 724,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": null,
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/220-1-1259692320.jpg",
           "IsNSFW": false,
-          "ModID": 3046,
-          "Name": "Law and Order Fixes",
-          "Version": "1.01"
+          "ModID": 220,
+          "Name": "Forced Deathblows",
+          "Version": "1.0.4"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HxJ1ryd1bDs=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=4226\nfileID=1000002342",
-        "Name": "Ogre HD-4226-1-0.zip",
-        "Size": 27938523,
+        "Hash": "1uhznP+TQw0=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=6017\nfileID=1000009894",
+        "Name": "Iridescent Healing-6017-1-0-1677813377.rar",
+        "Size": 417283,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Catachrism",
-          "Description": "Ogre HD Retexture by Catachrism, Lore friendly more detail than vanilla Ogre",
-          "FileID": 1000002342,
+          "Author": "HollownessDevoured",
+          "Description": "A little collection of GUI changes: Icon recolours, and beasts, demons, dragons and golems\u2014no longer will drop normal armor. Also, purple lightning and iridescent healing replacers.",
+          "FileID": 1000009894,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4226-3-1414307235.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/6017/6017-1677551956-396265059.jpeg",
           "IsNSFW": false,
-          "ModID": 4226,
-          "Name": "Ogre HD Retexture Catachrism",
+          "ModID": 6017,
+          "Name": "Pet Peeves Fix Patch (GUI Icon and Visual Replacers)",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "a9qUcPJZLdk=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5973\nfileID=1000009694",
+        "Name": "Wardens\u0027 Joining-5973-1-0-1674017317.zip",
+        "Size": 28092,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Shanamah",
+          "Description": "Warden stuff for your companions when they complete the Joining, from Grey Wardens of Ferelden or Thedosian Grey Wardens.",
+          "FileID": 1000009694,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5973/5973-1673941449-363916190.jpeg",
+          "IsNSFW": false,
+          "ModID": 5973,
+          "Name": "Wardens\u0027 Joining",
           "Version": "1.0"
         }
       }
@@ -3144,58 +2997,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "lNsrixrU5rw=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5229\nfileID=1000006919",
-        "Name": "TSM_Werewolf_Fix-5229-1-0-1587224673.7z",
-        "Size": 3845,
+        "Hash": "bE91h/Uu+RE=",
+        "Meta": "[General]\ndirectURL=https://www.moddb.com/downloads/start/173155",
+        "Name": "qunari_update.7z",
+        "Size": 11435946,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "theskymoves",
-          "Description": "Cassian, the leader of the werewolf contingent who appear at Redcliffe Castle if the Warden sides with the werewolves during Nature of the Beast, does not have an eye mesh assigned to his model; a second werewolf in the company also suffers from this omission. \n\n\n\nI\u0027ve just added the missing mesh assignment to their character files.",
-          "FileID": 1000006919,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5229/5229-1587223431-262235098.jpeg",
-          "IsNSFW": false,
-          "ModID": 5229,
-          "Name": "TSM Werewolf Fix",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "menYUTfbRu8=",
-        "Meta": "[General]\ngameName=DragonAgeOrigins\ngameFile=docs\\EA Help\\en-us\\Electronic_Arts_Technical_Support.glo",
-        "Name": "docs_EA Help_en-us_Electronic_Arts_Technical_Support.glo",
-        "Size": 0,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonAgeOrigins",
-          "GameFile": "docs\\EA Help\\en-us\\Electronic_Arts_Technical_Support.glo",
-          "GameVersion": "1.05.13263.0",
-          "Hash": "menYUTfbRu8="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "YKabNFsM+w8=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=1512\nfileID=7553",
-        "Name": "Universal Voices-1512.rar",
-        "Size": 3191,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kesaru",
-          "Description": "This mod removes the racial restrictions on player voice sets.",
-          "FileID": 7553,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/1512-1-1280191725.jpg",
-          "IsNSFW": false,
-          "ModID": 1512,
-          "Name": "Universal Voices",
-          "Version": "1.0"
+          "$type": "ModDBDownloader, Wabbajack.Lib",
+          "Url": "https://www.moddb.com/downloads/start/173155"
         }
       }
     },
@@ -3265,20 +3073,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uk4Ch/xFG44=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5094\nfileID=1000006473",
-        "Name": "Mage Origin DT-5094-1-0-1566393735.7z",
-        "Size": 71938,
+        "Hash": "xztidZBGIus=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5910\nfileID=1000009517",
+        "Name": "Loghain Appearance Overhaul-5910-1-0-1670056570.zip",
+        "Size": 14746884,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CaldazarILIX",
-          "Description": "Changes some dialogues during the mage origin.",
-          "FileID": 1000006473,
+          "Author": "VagranDreamer",
+          "Description": "Loghain\u0027s new face with 3 hairstyle options.",
+          "FileID": 1000009517,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5094/5094-1566401789-816344507.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5910/5910-1670053269-592737957.jpeg",
           "IsNSFW": false,
-          "ModID": 5094,
-          "Name": "Mage Origin Dialogue Tweaks",
+          "ModID": 5910,
+          "Name": "Loghain Appearance Overhaul",
           "Version": "1.0"
         }
       }
@@ -3286,42 +3094,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "LGJOUih+0Nw=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=9\nfileID=206",
-        "Name": "NoStartingAbilities_v1_3-9.zip",
-        "Size": 11435,
+        "Hash": "HxJ1ryd1bDs=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=4226\nfileID=1000002342",
+        "Name": "Ogre HD-4226-1-0.zip",
+        "Size": 27938523,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "jwvanderbeck",
-          "Description": "This mod changes new character creation, so that the game will no longer assign certain abilities based on class and background.",
-          "FileID": 206,
+          "Author": "Catachrism",
+          "Description": "Ogre HD Retexture by Catachrism, Lore friendly more detail than vanilla Ogre",
+          "FileID": 1000002342,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": null,
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4226-3-1414307235.jpg",
           "IsNSFW": false,
-          "ModID": 9,
-          "Name": "No Starting Abilities",
-          "Version": "1.3"
+          "ModID": 4226,
+          "Name": "Ogre HD Retexture Catachrism",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dU7uRi/ECbA=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=301\nfileID=7055",
-        "Name": "Lock Bash v7e for Original and Awakening-301.7z",
-        "Size": 14463,
+        "Hash": "X6P0owcjFXQ=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=4050\nfileID=1000004909",
+        "Name": "Aldous isn\u0027t a Tranquil - Chantry Robes version-4050-1-0.7z",
+        "Size": 27079,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "xatmos",
-          "Description": "Works with Awakening! Bash open locked chests and doors. The way the game should have been.",
-          "FileID": 7055,
+          "Author": "theskymoves",
+          "Description": "Brother Aldous, the querulous codger scholar in the Human Noble origin, wears the robes of a Tranquil. This mod changes his gear to either the generic non-magical robes or Chantry robes.",
+          "FileID": 1000004909,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/301-1-1260737774.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4050-2-1499535145.jpg",
           "IsNSFW": false,
-          "ModID": 301,
-          "Name": "Lock Bash",
-          "Version": "7"
+          "ModID": 4050,
+          "Name": "TSM Aldous isn\u0027t a Tranquil",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "H2uymAiUkhw=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5918\nfileID=1000009532",
+        "Name": "Respecification DAO-5918-1-0-1670525113.7z",
+        "Size": 142065,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "amcnow",
+          "Description": "Provides the skills needed to respec the six primary attributes as well as classes and abilities.",
+          "FileID": 1000009532,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5918/5918-1670525382-1087164791.jpeg",
+          "IsNSFW": false,
+          "ModID": 5918,
+          "Name": "Respecification DAO",
+          "Version": "1.0"
         }
       }
     },
@@ -3386,63 +3215,121 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "IEugKyj1jOA=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5184\nfileID=1000006771",
-        "Name": "jean_lashes-5184-v1-1582033367.7z",
-        "Size": 284915,
+        "Hash": "uM93ACadCYY=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5840\nfileID=1000009408",
+        "Name": "Forgotten Fixes-5840-1-1-1666970676.7z",
+        "Size": 8285,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lizardagger",
-          "Description": "Eyes, eyelashes and a complexion for the DA toolset.",
-          "FileID": 1000006771,
+          "Author": "Max",
+          "Description": "Provides fixes for abilities which weren\u0027t covered in Dain\u0027s fixes. Shield Block, Stunning Blows, Combat Magic and Bear Shape(Shapeshifter spell).",
+          "FileID": 1000009408,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5184/5184-1582032884-209779099.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5840/5840-1662745793-1667654167.jpeg",
           "IsNSFW": false,
-          "ModID": 5184,
-          "Name": "Jeane eyes_eyelashes and complexion",
-          "Version": "v1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "N7HG+pxG2+A=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=4494\nfileID=1000003838",
-        "Name": "Sigrun_Law_Order.rar-4494-.rar",
-        "Size": 1966,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Trylane",
-          "Description": "Fixes Mischa disappearing after accepting the Law and Order quest.",
-          "FileID": 1000003838,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4494-0-1471619256.png",
-          "IsNSFW": false,
-          "ModID": 4494,
-          "Name": "Sigrun\u0027s Roguish Past and Law and Order fix",
-          "Version": ""
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "oiea5v2Mk5g=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5995\nfileID=1000009776",
-        "Name": "Two Moons Circle-5995-v1-0-1675929882.rar",
-        "Size": 341471,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Adrius",
-          "Description": "A lore-friendly mod that adds the second moon, Satina to the night sky.",
-          "FileID": 1000009776,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5995/5995-1675955135-363819958.png",
-          "IsNSFW": false,
-          "ModID": 5995,
-          "Name": "Two Moons Circle",
+          "ModID": 5840,
+          "Name": "Forgotten Fixes",
           "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zgR2Kn1evug=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=3046\nfileID=15362",
+        "Name": "Law and Order Fixes-3046-1-01.rar",
+        "Size": 21863,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Elegant",
+          "Description": "This fix will correct all problems caused by Law \u0026 Order but will only take effect if it is installed before the actual quest is accepted.",
+          "FileID": 15362,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 3046,
+          "Name": "Law and Order Fixes",
+          "Version": "1.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LGJOUih+0Nw=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=9\nfileID=206",
+        "Name": "NoStartingAbilities_v1_3-9.zip",
+        "Size": 11435,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "jwvanderbeck",
+          "Description": "This mod changes new character creation, so that the game will no longer assign certain abilities based on class and background.",
+          "FileID": 206,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 9,
+          "Name": "No Starting Abilities",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "menYUTfbRu8=",
+        "Meta": "[General]\ngameName=DragonAgeOrigins\ngameFile=docs\\EA Help\\en-us\\Electronic_Arts_Technical_Support.glo",
+        "Name": "docs_EA Help_en-us_Electronic_Arts_Technical_Support.glo",
+        "Size": 0,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonAgeOrigins",
+          "GameFile": "docs\\EA Help\\en-us\\Electronic_Arts_Technical_Support.glo",
+          "GameVersion": "1.05.13263.0",
+          "Hash": "menYUTfbRu8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YKabNFsM+w8=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=1512\nfileID=7553",
+        "Name": "Universal Voices-1512.rar",
+        "Size": 3191,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kesaru",
+          "Description": "This mod removes the racial restrictions on player voice sets.",
+          "FileID": 7553,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/1512-1-1280191725.jpg",
+          "IsNSFW": false,
+          "ModID": 1512,
+          "Name": "Universal Voices",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QZ1rt8kiu4M=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=3481\nfileID=17990",
+        "Name": "Alistairs Oath - GWoF Compatibility-3481-1-0.rar",
+        "Size": 5385,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kuro_Neko",
+          "Description": "Ever wonder why Alistair doesn\u0027t have his own Warden\u0027s Oath amulet?  Now he can.",
+          "FileID": 17990,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 3481,
+          "Name": "Alistairs Oath",
+          "Version": "1.0"
         }
       }
     },
@@ -3470,84 +3357,105 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "43X1qLD9icg=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=220\nfileID=724",
-        "Name": "Deathblow Lieutenants Plus-220.zip",
-        "Size": 613,
+        "Hash": "YDun0rJXtoY=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=928\nfileID=10546",
+        "Name": "Gorim Quiet-928-1.rar",
+        "Size": 90618,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MachDelta",
-          "Description": "This is a quick and simple mod that changes the chances of melee kills becoming \\\u0022Deathblows\\\u0022, aka those nifty scripted hack-em-up sequences!",
-          "FileID": 724,
+          "Author": "ejoslin",
+          "Description": "Fixes many dialog issues (not only Zevran), including Zevran giving the wrong dialog at the city gates, Alistair referring to himself as king when he\u0027s not, glitches in the Alienage as a city elf, and more",
+          "FileID": 10546,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/220-1-1259692320.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/928-1-1269628881.jpg",
           "IsNSFW": false,
-          "ModID": 220,
-          "Name": "Forced Deathblows",
-          "Version": "1.0.4"
+          "ModID": 928,
+          "Name": "ZDF Dialog Fix",
+          "Version": "2.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "NlpJID7L2S0=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=5906\nfileID=1000009578",
-        "Name": "Leliana SAA Retexture-5906-1-1-1671460223.zip",
-        "Size": 5958861,
+        "Hash": "N7HG+pxG2+A=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=4494\nfileID=1000003838",
+        "Name": "Sigrun_Law_Order.rar-4494-.rar",
+        "Size": 1966,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Trylane",
+          "Description": "Fixes Mischa disappearing after accepting the Law and Order quest.",
+          "FileID": 1000003838,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/4494-0-1471619256.png",
+          "IsNSFW": false,
+          "ModID": 4494,
+          "Name": "Sigrun\u0027s Roguish Past and Law and Order fix",
+          "Version": ""
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "voOf4xvPPC8=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5563\nfileID=1000008392",
+        "Name": "Seeker\u0027s Circle Name Fix-5563-1-0-1632090881.7z",
+        "Size": 2316,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "theskymoves",
+          "Description": "Small fix for the bugged display name of Leliana\u0027s Seeker\u0027s Circle amulet.",
+          "FileID": 1000008392,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5563/5563-1632090467-330175098.jpeg",
+          "IsNSFW": false,
+          "ModID": 5563,
+          "Name": "TSM Seeker\u0027s Circle Name Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dU7uRi/ECbA=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=301\nfileID=7055",
+        "Name": "Lock Bash v7e for Original and Awakening-301.7z",
+        "Size": 14463,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "xatmos",
+          "Description": "Works with Awakening! Bash open locked chests and doors. The way the game should have been.",
+          "FileID": 7055,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/301-1-1260737774.jpg",
+          "IsNSFW": false,
+          "ModID": 301,
+          "Name": "Lock Bash",
+          "Version": "7"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OhNzTV6uS6I=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5872\nfileID=1000009449",
+        "Name": "Alistair Appearance Overhaul light hairs-5872-1-0-1667996282.zip",
+        "Size": 6534789,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "VagranDreamer",
-          "Description": "A retexture that makes armor brighter and more beautiful. In three color options.",
-          "FileID": 1000009578,
+          "Description": "A new face for Alistair with 2 hair options.",
+          "FileID": 1000009449,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5906/5906-1678328146-16993637.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5872/5872-1667999841-1917457173.jpeg",
           "IsNSFW": false,
-          "ModID": 5906,
-          "Name": "Leliana\u0027s Sacred Ashes Armor Retexture",
+          "ModID": 5872,
+          "Name": "Alistair Appearance Overhaul",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "dlRIOXpbudI=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=6074\nfileID=1000010091",
-        "Name": "Perceptible Portraits-6074-1-0-1681201396.7z",
-        "Size": 870806,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Zanzuro",
-          "Description": "Alters the \u0027Health\u0027 and \u0027Stamina/Mana\u0027 gauges of the party and summons to have higher contrast for more visibility.",
-          "FileID": 1000010091,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/6074/6074-1681200445-1327866806.png",
-          "IsNSFW": false,
-          "ModID": 6074,
-          "Name": "Perceptible Portraits",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "JB4qeiWWHMI=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=2097\nfileID=10720",
-        "Name": "Rescaled Witherfang 150-2097-1.rar",
-        "Size": 198364,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kronaras",
-          "Description": "Bigger Witherfang",
-          "FileID": 10720,
-          "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/2097-4-1298055658.jpg",
-          "IsNSFW": false,
-          "ModID": 2097,
-          "Name": "Rescaled Witherfang",
-          "Version": ""
         }
       }
     },
@@ -3596,42 +3504,126 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "d9LuyTQk78U=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=6000\nfileID=1000009795",
-        "Name": "marjolaine archer - noble clothing-6000-1-1676222877.rar",
-        "Size": 3970,
+        "Hash": "IEugKyj1jOA=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5184\nfileID=1000006771",
+        "Name": "jean_lashes-5184-v1-1582033367.7z",
+        "Size": 284915,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kayla",
-          "Description": "Equips marjolaine with the marjolaine\u0027s recurve bow, as she fights empty handed which doesn\u0027t look right",
-          "FileID": 1000009795,
+          "Author": "lizardagger",
+          "Description": "Eyes, eyelashes and a complexion for the DA toolset.",
+          "FileID": 1000006771,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/6000/6000-1676222079-969831319.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5184/5184-1582032884-209779099.png",
           "IsNSFW": false,
-          "ModID": 6000,
-          "Name": "Marjolaine - with weapons",
-          "Version": "1"
+          "ModID": 5184,
+          "Name": "Jeane eyes_eyelashes and complexion",
+          "Version": "v1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KQFS6XNOoJ0=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=793\nfileID=7831",
-        "Name": "Armor of the Black Fox v2_1-793.dazip",
-        "Size": 9438642,
+        "Hash": "dlRIOXpbudI=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=6074\nfileID=1000010091",
+        "Name": "Perceptible Portraits-6074-1-0-1681201396.7z",
+        "Size": 870806,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "nezroy",
-          "Description": "Armor and weapons once owned by the notorious and dashing Orlesian rogue known as the Black Fox. UDK compatible.",
-          "FileID": 7831,
+          "Author": "Zanzuro",
+          "Description": "Alters the \u0027Health\u0027 and \u0027Stamina/Mana\u0027 gauges of the party and summons to have higher contrast for more visibility.",
+          "FileID": 1000010091,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/793-1-1278361539.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/6074/6074-1681200445-1327866806.png",
           "IsNSFW": false,
-          "ModID": 793,
-          "Name": "Armor of the Black Fox",
-          "Version": "2.1"
+          "ModID": 6074,
+          "Name": "Perceptible Portraits",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JB4qeiWWHMI=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=2097\nfileID=10720",
+        "Name": "Rescaled Witherfang 150-2097-1.rar",
+        "Size": 198364,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kronaras",
+          "Description": "Bigger Witherfang",
+          "FileID": 10720,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/2097-4-1298055658.jpg",
+          "IsNSFW": false,
+          "ModID": 2097,
+          "Name": "Rescaled Witherfang",
+          "Version": ""
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nYa+mjATWas=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5142\nfileID=1000006596",
+        "Name": "tsm_better_tower_guard-5142-1-0-1575524198.7z",
+        "Size": 3880,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "theskymoves",
+          "Description": "Replaces the heavy helmet worn by the Ostagar Tower Guard temporary companion with a medium helmet, to accomodate his insufficient strength to equip the former.",
+          "FileID": 1000006596,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5142/5142-1575523943-1843194965.jpeg",
+          "IsNSFW": false,
+          "ModID": 5142,
+          "Name": "TSM Better Tower Guard",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tdf5kKDTeyQ=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=1110\nfileID=5571",
+        "Name": "Angel_console_fix_fonts_er-1110.zip",
+        "Size": 1645,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Angel",
+          "Description": "If you use the console, you have probably found that that what you\\\u0027re typing doesn\\\u0027t show up. This will fix that problem.",
+          "FileID": 5571,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/1110-1-1271862665.jpg",
+          "IsNSFW": false,
+          "ModID": 1110,
+          "Name": "Make CONSOLE commands visible",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vKUD3kKtclc=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=1607\nfileID=9026",
+        "Name": "Dalls_Rescaled_Weapons_v15_Update_Only-1607.7z",
+        "Size": 78371,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dall",
+          "Description": "Rescaled Weapons are original game weapons rescaled (resized) to fit game actors / their type and purpose better. ",
+          "FileID": 9026,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/1607-1-1283844965.jpg",
+          "IsNSFW": false,
+          "ModID": 1607,
+          "Name": "Dalls_Rescaled Weapons",
+          "Version": "1.5"
         }
       }
     },
@@ -3680,20 +3672,146 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "tdf5kKDTeyQ=",
-        "Meta": "[General]\ngameName=dragonage\nmodID=1110\nfileID=5571",
-        "Name": "Angel_console_fix_fonts_er-1110.zip",
-        "Size": 1645,
+        "Hash": "NlpJID7L2S0=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5906\nfileID=1000009578",
+        "Name": "Leliana SAA Retexture-5906-1-1-1671460223.zip",
+        "Size": 5958861,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Angel",
-          "Description": "If you use the console, you have probably found that that what you\\\u0027re typing doesn\\\u0027t show up. This will fix that problem.",
-          "FileID": 5571,
+          "Author": "VagranDreamer",
+          "Description": "A retexture that makes armor brighter and more beautiful. In three color options.",
+          "FileID": 1000009578,
           "GameName": "DragonAgeOrigins",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/1110-1-1271862665.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5906/5906-1678328146-16993637.jpeg",
           "IsNSFW": false,
-          "ModID": 1110,
-          "Name": "Make CONSOLE commands visible",
+          "ModID": 5906,
+          "Name": "Leliana\u0027s Sacred Ashes Armor Retexture",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uk4Ch/xFG44=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5094\nfileID=1000006473",
+        "Name": "Mage Origin DT-5094-1-0-1566393735.7z",
+        "Size": 71938,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CaldazarILIX",
+          "Description": "Changes some dialogues during the mage origin.",
+          "FileID": 1000006473,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5094/5094-1566401789-816344507.png",
+          "IsNSFW": false,
+          "ModID": 5094,
+          "Name": "Mage Origin Dialogue Tweaks",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "n6wbhDARFS0=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5180\nfileID=1000006748",
+        "Name": "Daveth and Jory Ability Tweaks-5180-1-0-0-1581295786.7z",
+        "Size": 3402,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "darthbdaman",
+          "Description": "Adjusts Daveth\u0027s skills so they match his supposed abilities, and fixes a bug which gives Jory various archery talents.",
+          "FileID": 1000006748,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5180/5180-1581294801-2084223146.png",
+          "IsNSFW": false,
+          "ModID": 5180,
+          "Name": "Daveth and Jory Ability Tweaks",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0L6PSimUbbA=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5158\nfileID=1000006628",
+        "Name": "TSM Ceremonial Gloves Fix-5158-1-0-1577462205.7z",
+        "Size": 3951,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "theskymoves",
+          "Description": "Makes the difficult-to-obtain Ceremonial Armored Gloves a guaranteed drop from the Assassin Leader in the Forest Stream random encounter.",
+          "FileID": 1000006628,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5158/5158-1577461987-170351903.jpeg",
+          "IsNSFW": false,
+          "ModID": 5158,
+          "Name": "TSM Unhand Those Gloves",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KQFS6XNOoJ0=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=793\nfileID=7831",
+        "Name": "Armor of the Black Fox v2_1-793.dazip",
+        "Size": 9438642,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "nezroy",
+          "Description": "Armor and weapons once owned by the notorious and dashing Orlesian rogue known as the Black Fox. UDK compatible.",
+          "FileID": 7831,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/793-1-1278361539.jpg",
+          "IsNSFW": false,
+          "ModID": 793,
+          "Name": "Armor of the Black Fox",
+          "Version": "2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hO4/KlbSVlo=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5381\nfileID=1000007558",
+        "Name": "Dwarves Are Not Mages - Armour-5381-1-0-1607074666.7z",
+        "Size": 809055,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TheSapphireQueen",
+          "Description": "Fixes Bioware\u0027s silly mistake of putting dwarves in mage robes.",
+          "FileID": 1000007558,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5381/5381-1607074307-2060325052.jpeg",
+          "IsNSFW": false,
+          "ModID": 5381,
+          "Name": "Dwarves Are Not Mages",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lNsrixrU5rw=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5229\nfileID=1000006919",
+        "Name": "TSM_Werewolf_Fix-5229-1-0-1587224673.7z",
+        "Size": 3845,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "theskymoves",
+          "Description": "Cassian, the leader of the werewolf contingent who appear at Redcliffe Castle if the Warden sides with the werewolves during Nature of the Beast, does not have an eye mesh assigned to his model; a second werewolf in the company also suffers from this omission. \n\n\n\nI\u0027ve just added the missing mesh assignment to their character files.",
+          "FileID": 1000006919,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5229/5229-1587223431-262235098.jpeg",
+          "IsNSFW": false,
+          "ModID": 5229,
+          "Name": "TSM Werewolf Fix",
           "Version": "1.0"
         }
       }
@@ -3716,6 +3834,27 @@
           "ModID": 61,
           "Name": "Beyond Ferelden Base Chest",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fhSF83uUpbI=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5952\nfileID=1000009612",
+        "Name": "No Slow Casting-5952-1-00-1672792354.zip",
+        "Size": 612,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TheGreenTaurus",
+          "Description": "Has it ever bothered you that spells like Chain Lightning, the elemental Storms and Shapeshifting all take a bit too much time preparing?\n\nWell, it did bother me, and I did something about it!",
+          "FileID": 1000009612,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5952/5952-1672792518-186166806.jpeg",
+          "IsNSFW": false,
+          "ModID": 5952,
+          "Name": "Faster Spellcasting",
+          "Version": "1.00"
         }
       }
     }
