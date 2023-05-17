@@ -1,11 +1,10 @@
 ## Validation Report - Happy Fun Times (wj-featured/HFT)
 
 
-### Invalid (1)
-*  [HFT Bodyslide Output.7z](https://authored-files.wabbajack.org/HFT Bodyslide Output.7z_595ec76c-b956-47cf-9963-86b3f7698bb3)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1983)
+### Valid (1984)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [-BO- One Body Alpha-82943-1-03-1674079833.rar](https://www.nexusmods.com/skyrimspecialedition/mods/82943/?tab=files&file_id=350859)
 *  [-BO- One Body Soft-82943-1-01-1674079878.rar](https://www.nexusmods.com/skyrimspecialedition/mods/82943/?tab=files&file_id=350860)
@@ -929,6 +928,7 @@
 *  [Heritage-30017-1-9-1581349742.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30017/?tab=files&file_id=123516)
 *  [Heritage-30017-1-98-1585990136.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30017/?tab=files&file_id=132335)
 *  [Heritage-55210-1-0-0-1630965714.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55210/?tab=files&file_id=226596)
+*  [HFT Bodyslide Output.7z](https://authored-files.wabbajack.org/HFT Bodyslide Output.7z_595ec76c-b956-47cf-9963-86b3f7698bb3)
 *  [HFT Generated Files.7z](https://authored-files.wabbajack.org/HFT Generated Files.7z_d2bfda2a-8470-4b4a-aa86-4c71761000b5)
 *  [Hi-Res Armors Weapons Creatures-11849-1-4-0-1610197197.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11849/?tab=files&file_id=178564)
 *  [High Hrothgar Fixed-55254-1-02-1631218321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55254/?tab=files&file_id=227266)
