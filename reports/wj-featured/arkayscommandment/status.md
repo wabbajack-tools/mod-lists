@@ -1,10 +1,11 @@
 ## Validation Report - Arkay's Commandment (wj-featured/arkayscommandment)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Reshade 4.7.0.zip](https://authored-files.wabbajack.org/Reshade 4.7.0.zip_7800aed1-42dd-4f7f-863c-3e4cad5d099f/)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1008)
+### Valid (1007)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-9-1-1664974289.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321816)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [1-40615-1-1600478507.rar](https://www.nexusmods.com/skyrimspecialedition/mods/40615/?tab=files&file_id=161461)
@@ -725,7 +726,6 @@
 *  [Requiem 5.2.3 - The Gathering Storm Bugfix Pack 3-60888-5-2-3-1661545712.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60888/?tab=files&file_id=310643)
 *  [Requiem_AlduinRedone-42633-2-1-1672841207.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42633/?tab=files&file_id=346644)
 *  [Requiem_VampireCollection-42633-1-3-1662821847.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42633/?tab=files&file_id=314976)
-*  [Reshade 4.7.0.zip](https://authored-files.wabbajack.org/Reshade 4.7.0.zip_7800aed1-42dd-4f7f-863c-3e4cad5d099f/)
 *  [reshade-shaders-master.zip](https://github.com/crosire/reshade-shaders/archive/master.zip)
 *  [Reshaped Db Robes-57583-1-1635383332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57583/?tab=files&file_id=237447)
 *  [Reshaped Dragonbone Armor-57420-1-1635065104.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57420/?tab=files&file_id=236744)

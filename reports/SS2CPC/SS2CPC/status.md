@@ -18,7 +18,7 @@
 *  [Captain Cosmos Creation V2.1-48233-2-1-1675151159.zip](https://www.nexusmods.com/fallout4/mods/48233/?tab=files&file_id=265674)
 *  [Choochoo1's Noen Bar Plot ESL V2-64561-2-0-1664379881.zip](https://www.nexusmods.com/fallout4/mods/64561/?tab=files&file_id=251914)
 *  [Choochoo1's Nuka World Sim Settlements 2 patch-59619-1-0-1649765369.zip](https://www.nexusmods.com/fallout4/mods/59619/?tab=files&file_id=234641)
-*  [City Plan Contest Assistant-50366-2-3-2a-1680287640.zip](https://www.nexusmods.com/fallout4/mods/50366/?tab=files&file_id=272505)
+*  [City Plan Contest Assistant-50366-2-3-2b-1682918012.zip](https://www.nexusmods.com/fallout4/mods/50366/?tab=files&file_id=275763)
 *  [Coastal Cottage Vanilla Navmesh Update by Vilance-69519-1-0-1678416932.7z](https://www.nexusmods.com/fallout4/mods/69519/?tab=files&file_id=269904)
 *  [Corner Wall Snappy-60955-1-0-1-1655440961.7z](https://www.nexusmods.com/fallout4/mods/60955/?tab=files&file_id=240801)
 *  [Corridor Snappy-61770-1-0-1656602842.7z](https://www.nexusmods.com/fallout4/mods/61770/?tab=files&file_id=242013)
