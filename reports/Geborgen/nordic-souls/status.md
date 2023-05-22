@@ -1,10 +1,11 @@
 ## Validation Report - Nordic Souls (Geborgen/nordic-souls)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [BWB_-_Kaidan_2_Fart_Patch_V2.7z](https://kaidanmod.com/wp-content/uploads/2022/10/BWB_-_Kaidan_2_Fart_Patch_V2.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1644)
+### Valid (1643)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
@@ -217,7 +218,6 @@
 *  [BUVARP SE RE - No Valdr-56878-1-0-1633884170.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56878/?tab=files&file_id=233962)
 *  [BUVARP SE RE - The Only Cure Quest Expansion Patch-56878-1-0-1636314298.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56878/?tab=files&file_id=239708)
 *  [Buyable Home Patch for Elysium Estate SSE-38169-1-1594442825.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38169/?tab=files&file_id=149797)
-*  [BWB_-_Kaidan_2_Fart_Patch_V2.7z](https://kaidanmod.com/wp-content/uploads/2022/10/BWB_-_Kaidan_2_Fart_Patch_V2.7z)
 *  [BWB-HSF-Kaidan-2-Extended-Edition-8.3.0.7z](https://kaidanmod.com/wp-content/uploads/2022/12/BWB-HSF-Kaidan-2-Extended-Edition-8.3.0.7z)
 *  [BWB-Kaidan-2-Armor-Revamped-Wolf-75089-1-0-1663029519.7z](https://kaidanmod.com/wp-content/uploads/2022/10/BWB-Kaidan-2-Armor-Revamped-Wolf-75089-1-0-1663029519.7z)
 *  [BWB-Kaidan-2-Skyrims-Got-Talent-Patch.7z](https://kaidanmod.com/wp-content/uploads/2022/10/BWB-Kaidan-2-Skyrims-Got-Talent-Patch.7z)
