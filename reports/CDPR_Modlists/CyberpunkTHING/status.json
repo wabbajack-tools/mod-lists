@@ -1,8 +1,8 @@
 {
   "MachineURL": "CDPR_Modlists/CyberpunkTHING",
   "Name": "Cyberpunk THING",
-  "Version": "4.1",
-  "ModListHash": "ckfu6/1l938=",
+  "Version": "4.2",
+  "ModListHash": "cmhT9HzJaEw=",
   "Archives": [
     {
       "Status": "Valid",
@@ -15,6 +15,20 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "G0HJSrcHWxE=",
+        "Meta": "[General]\ndirectURL=https://github.com/WolvenKit/WolvenKit/releases/download/8.9.0/WolvenKit-8.9.0.zip",
+        "Name": "WolvenKit-8.9.0.zip",
+        "Size": 136540524,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/WolvenKit/WolvenKit/releases/download/8.9.0/WolvenKit-8.9.0.zip"
         }
       }
     },
@@ -42,76 +56,41 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "G0HJSrcHWxE=",
-        "Meta": "[General]\ndirectURL=https://github.com/WolvenKit/WolvenKit/releases/download/8.9.0/WolvenKit-8.9.0.zip",
-        "Name": "WolvenKit-8.9.0.zip",
-        "Size": 136540524,
+        "Hash": "/0KLk53sBXo=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2557\nfileID=39498",
+        "Name": "Always First Equip-2557-1-11-0-1676718951.zip",
+        "Size": 28573,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/WolvenKit/WolvenKit/releases/download/8.9.0/WolvenKit-8.9.0.zip"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DJ_Kovrik",
+          "Description": "Repeats firstEquip animation each time you equip your weapon or press a hotkey. Allows to trigger additional weapon inspection animations: IdleBreak and SafeAction. Highly configurable.",
+          "FileID": 39498,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2557/2557-1620280394-1500347499.jpeg",
+          "IsNSFW": false,
+          "ModID": 2557,
+          "Name": "Always First Equip",
+          "Version": "1.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KDVGYsoUKGM=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3419\nfileID=20360",
-        "Name": "NanoDrone 1.3h-3419-1-3h-1645086123.zip",
-        "Size": 26410,
+        "Hash": "R6FpE48NV0I=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=8076\nfileID=42515",
+        "Name": "Rain Effect-8076-1-0-1681479629.rar",
+        "Size": 12318,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "keanuWheeze",
-          "Description": "This mod adds a purchase, upgrade and useable Nano Drone to the game, that can be used for scouting out areas but also offensively.",
-          "FileID": 20360,
+          "Author": "Sosuinepsixuyu",
+          "Description": "What title says.",
+          "FileID": 42515,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3419/3419-1636670398-1885928917.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/8076/8076-1681479309-181377663.png",
           "IsNSFW": false,
-          "ModID": 3419,
-          "Name": "Nano Drone",
-          "Version": "1.3h"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "rIavhExtjyg=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2913\nfileID=43100",
-        "Name": "Simple Flashlight 2.4-2913-2-4-1682278990.zip",
-        "Size": 93056,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "keanuWheeze",
-          "Description": "Adds a simple toggleable flashlight to the game.",
-          "FileID": 43100,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2913/2913-1626364366-685442978.png",
-          "IsNSFW": false,
-          "ModID": 2913,
-          "Name": "Simple Flashlight",
-          "Version": "2.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "9SW+9U7EJeQ=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=5968\nfileID=31193",
-        "Name": "Better Kyubi Sights-5968-1-0-1666092498.zip",
-        "Size": 13658,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Busy Oscar",
-          "Description": "A simple mod that removes the small red dots on the rear sights to provide better clarity and focus.",
-          "FileID": 31193,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/5968/5968-1666092538-1704794733.png",
-          "IsNSFW": false,
-          "ModID": 5968,
-          "Name": "Better Kyubi Sights",
+          "ModID": 8076,
+          "Name": "Improved (Or Is It) Rain Effect",
           "Version": "1.0"
         }
       }
@@ -119,104 +98,41 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BPvyBTkF3kE=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7203\nfileID=41698",
-        "Name": "Immersive Bartenders-7203-1-1-3-1680045394.zip",
-        "Size": 552484,
+        "Hash": "cT68SzXQfwc=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7834\nfileID=44287",
+        "Name": "One More Light-7834-1-1-0-1684164758.zip",
+        "Size": 32233,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Deceptious",
-          "Description": "Adds a little immersion to all the bartenders you can buy drinks from, you can now actually have animated drinks at their bars",
-          "FileID": 41698,
+          "Description": "Adds a new quest to the game. Requirements: Attended Jackie\u0027s ofrenda",
+          "FileID": 44287,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7203/7203-1674498696-1729077427.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7834/7834-1679361476-934364735.png",
           "IsNSFW": false,
-          "ModID": 7203,
-          "Name": "Immersive Bartenders",
-          "Version": "1.1.0"
+          "ModID": 7834,
+          "Name": "New Quest - One More Light",
+          "Version": "1.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "i0LTa88RH2k=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=1727\nfileID=42639",
-        "Name": "Muted Markers-1727-1-9-1-1681646778.zip",
-        "Size": 18728,
+        "Hash": "DmORl0Njar4=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3365\nfileID=20274",
+        "Name": "Simple Loot Icon (1.5)-3365-1-0-1644996639.rar",
+        "Size": 313528,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DJ_Kovrik",
-          "Description": "Allows to tweak some interaction and loot markers visibility behavior.",
-          "FileID": 42639,
+          "Author": "Filipe Ramos",
+          "Description": "One day while playing I was like \u0022hey, loot icons would be better as small circles instead of those large boxes\u0022, so I changed them.",
+          "FileID": 20274,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/1727/1727-1613765321-788379019.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3365/3365-1635301060-1464268183.png",
           "IsNSFW": false,
-          "ModID": 1727,
-          "Name": "Muted Markers",
-          "Version": "1.8"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "w/gKLF7mGhA=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4870\nfileID=42386",
-        "Name": "River Romanced Enhanced-4870-1-3-3-1681254593.zip",
-        "Size": 502337,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deceptious",
-          "Description": "River now Eats, Drinks, Sleeps and Worksout around Joss\u0027 family trailer; if you have romanced him he also Showers, and V can hug him at any of his activity spots. Joss\u0027 kids are also fixed so they actually sleep now! They also play in their bedroom and in the main hallway area. Also fixes broken audio in River\u0027s holocalls",
-          "FileID": 42386,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4870/4870-1658252551-1544504937.png",
-          "IsNSFW": false,
-          "ModID": 4870,
-          "Name": "River Romanced Enhanced (and general fixes)",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "CIVKfV8yb3U=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4931\nfileID=32633",
-        "Name": "Time Dilation Overhaul-4931-1-8-5-1667581569.zip",
-        "Size": 177507,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "The Cyberpunk THING Team",
-          "Description": "Overhauls Time Dilation in Cyberpunk to provide a more challenging and rewarding experience. Featuring all new abilities such as Katana Reflect, Vehicle Time Dilation, and Teleportation!",
-          "FileID": 32633,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4931/4931-1659362535-636398421.png",
-          "IsNSFW": false,
-          "ModID": 4931,
-          "Name": "Time Dilation Overhaul",
-          "Version": "1.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+nn+jUnxM5A=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=6276\nfileID=42390",
-        "Name": "Apartment Cats - The Glen (Nali)-6276-1-1-2-1681254976.zip",
-        "Size": 144644,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deceptious",
-          "Description": "Adds a new feline companion (Nali) to The Glen apartment. Includes 12 different spots for Nali to use, as well as the option to pet him the same way as in the Pet The Cat mod.",
-          "FileID": 42390,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/6276/6276-1667583751-995319411.png",
-          "IsNSFW": false,
-          "ModID": 6276,
-          "Name": "Apartment Cats - The Glen (Nali)",
+          "ModID": 3365,
+          "Name": "Simple Loot Icons",
           "Version": "1.0"
         }
       }
@@ -224,63 +140,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "i6klZa/hWzc=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2592\nfileID=43650",
-        "Name": "Limited HUD-2592-2-6-0-1682838934.zip",
-        "Size": 81043,
+        "Hash": "2LIxZZjy2/g=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=8162\nfileID=43395",
+        "Name": "TV Anywhere-8162-0-9-5-1682466739.zip",
+        "Size": 26886,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DJ_Kovrik",
-          "Description": "Hides main HUD widgets by default and shows them only on certain events (configurable). Adds in-game widget toggle hotkeys and a bunch of optional files to tweak different HUD elements.",
-          "FileID": 43650,
+          "Author": "Deceptious",
+          "Description": "Unlocks the ability to watch TV anywhere, after completing a tiny collection quest.",
+          "FileID": 43395,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2592/2592-1620640405-942531536.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/8162/8162-1682264247-781850417.png",
           "IsNSFW": false,
-          "ModID": 2592,
-          "Name": "Limited HUD",
-          "Version": "2.4.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "KLjqH7siPcM=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7616\nfileID=43635",
-        "Name": "Stealthrunner-7616-1-1-0-1682800941.zip",
-        "Size": 29474148,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RMK",
-          "Description": "Tracks and rewards Ghost, Pacifist, No-Touch, and more objectives for almost every quest and gig. Adds an all-new stealth-focused perk tree to unlock new abilities such as Pickpocketing. Unlock new items including new variations of Optical Camo. Inspired by games like Deus Ex and Dishonored.",
-          "FileID": 43635,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7616/7616-1678028721-1686254054.png",
-          "IsNSFW": false,
-          "ModID": 7616,
-          "Name": "Stealthrunner - Stealth Gameplay Expansion",
-          "Version": "1.0.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ogp1ChYR2Ic=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2468\nfileID=36626",
-        "Name": "AI Netrunners Enhanced-2468-1-5-0-1672779316.zip",
-        "Size": 21059,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RMK",
-          "Description": "Improves enemy netrunners by adding a bunch of hacks (most are restored cut content) they can use on the player, and fixing some CDPR bugs that stop netrunners from hacking you most of the time.",
-          "FileID": 36626,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2468/2468-1619485867-2092137149.jpeg",
-          "IsNSFW": false,
-          "ModID": 2468,
-          "Name": "AI Netrunners Enhanced",
-          "Version": "1.1.2"
+          "ModID": 8162,
+          "Name": "TV Anywhere",
+          "Version": "0.9.4"
         }
       }
     },
@@ -308,84 +182,231 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "AhTI+wHq+tQ=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=5176\nfileID=42377",
-        "Name": "cybercmd-5176-0-0-10-1681250981.zip",
-        "Size": 387772,
+        "Hash": "rOunKFmAl18=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7833\nfileID=41747",
+        "Name": "Californication-7833-1-0-1-1680114962.zip",
+        "Size": 42215,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "jac3km4",
-          "Description": "Command-line argument loader for Cyberpunk 2077",
-          "FileID": 42377,
+          "Author": "Deceptious",
+          "Description": "Adds a new quest to the game. Requirements: Romanced Judy, Judy stays in NC, had a positive conversation with Judy\u0027s Abuela",
+          "FileID": 41747,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/5176/5176-1662909914-793019639.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7833/7833-1679361454-505973271.png",
           "IsNSFW": false,
-          "ModID": 5176,
-          "Name": "cybercmd",
-          "Version": "0.0.5"
+          "ModID": 7833,
+          "Name": "New Quest - Californication",
+          "Version": "1.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "YeUsSSKsLJM=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4378\nfileID=41085",
-        "Name": "Enhanced Craft-4378-2-2-0-1679075420.zip",
-        "Size": 70160,
+        "Hash": "JS6G06n2MlM=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2282\nfileID=20304",
+        "Name": "Unequip Cyberware-2282-1-5-1645030935.rar",
+        "Size": 1696,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PotatoOfDoom",
+          "Description": "This mod allows you to unequip cyberware.",
+          "FileID": 20304,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2282/2282-1618260172-954888211.png",
+          "IsNSFW": false,
+          "ModID": 2282,
+          "Name": "Unequip Cyberware",
+          "Version": "1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DZb1d5AauFc=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=1512\nfileID=20817",
+        "Name": "skipCallDialogue-1512-15-0-1645650167.zip",
+        "Size": 789,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "WillyJL",
+          "Description": "Fix annoying \u0022features\u0022 of this bloody game. Currently available: disable relic malfunctions, disable mantis blades finishers, skip call dialogue, no landing movement lock, remove fall damage, jump fixes, disable walk / dont walk crosswalks sfx, stand up for dialogue, reasonable police spawn dista",
+          "FileID": 20817,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/1512/1512-1612712000-1891315102.gif",
+          "IsNSFW": false,
+          "ModID": 1512,
+          "Name": "Annoy Me No More",
+          "Version": "14.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OvvphPledVk=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4453\nfileID=36690",
+        "Name": "Crafting Quality of Life-4453-1-2-0-1672835176.zip",
+        "Size": 9001,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RMK",
+          "Description": "1) Allows re-crafting Iconics at the current quality level (only with existing recipes), so you aren\u0027t incentivized to wait before upgrading. 2) Allows crafting mods at lower quality levels so you can equip them on lower quality weapons and clothing. 3) Fixes small bug with crafting discounts not applying to some ingredients of weapon/armor mods.",
+          "FileID": 36690,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4453/4453-1651658807-444949094.png",
+          "IsNSFW": false,
+          "ModID": 4453,
+          "Name": "Crafting Quality of Life",
+          "Version": "1.1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3k7Vjr4Y5NQ=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4648\nfileID=33957",
+        "Name": "Disassemble As Looting Choice-4648-1-3-1-1669407799.zip",
+        "Size": 6145,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "pMarK",
+          "Description": "Adds a disassemble option when looting.",
+          "FileID": 33957,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4648/4648-1655270729-2125039886.png",
+          "IsNSFW": false,
+          "ModID": 4648,
+          "Name": "Disassemble As Looting Choice",
+          "Version": "1.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tZjiOMTYOCM=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=6945\nfileID=44358",
+        "Name": "Equipment-EX-6945-0-9-6-1684270912.zip",
+        "Size": 73220,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "psiberx and DJ_Kovrik",
+          "Description": "Powerful transmog system with 30\u002B clothing slots / Outfit manager",
+          "FileID": 44358,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/6945/6945-1672583521-2028780239.jpeg",
+          "IsNSFW": false,
+          "ModID": 6945,
+          "Name": "Equipment-EX",
+          "Version": "0.8.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Pbi6nMyDZ8A=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7000\nfileID=36978",
+        "Name": "Hacking Bug Fixes-7000-1-1-0-1673208504.zip",
+        "Size": 3276,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RMK",
+          "Description": "Fixes a few small bugs in the Breach/Quickhacking system. Currently fixes 1) Memory Wipe not preventing enemies from entering combat, 2) ICEpick level 1 daemon reducing RAM costs by 2 instead of 1, and 3) Cyberware Malfunction rare and epic don\u0027t spread like they say they do.",
+          "FileID": 36978,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7000/7000-1673017228-169358791.jpeg",
+          "IsNSFW": false,
+          "ModID": 7000,
+          "Name": "Hacking Bug Fixes",
+          "Version": "1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "itenrFKws7s=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4725\nfileID=39079",
+        "Name": "Mark To Sell-4725-1-2-1-1676117912.zip",
+        "Size": 7642,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DJ_Kovrik",
-          "Description": "Extends default crafting capabilities allowing you to choose clothes and weapons skins, plus weapons damage type and name while crafting.",
-          "FileID": 41085,
+          "Description": "Allows to mark any item in your inventory as a Junk so you will be able to sell all marked items at once using vendors \u0022Sell Junk\u0022 option.",
+          "FileID": 39079,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4378/4378-1650380270-1577618708.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4725/4725-1656261381-2129013481.png",
           "IsNSFW": false,
-          "ModID": 4378,
-          "Name": "Enhanced Craft",
-          "Version": "2.0.1"
+          "ModID": 4725,
+          "Name": "Mark To Sell",
+          "Version": "1.2.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hp/M1zfxXg0=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2729\nfileID=28479",
-        "Name": "flib\u0027s UI Improvements-2729-1-6-0-1663626480.zip",
-        "Size": 15314,
+        "Hash": "28h7UMZ8bEA=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2169\nfileID=22767",
+        "Name": "No Camera Auto Centering - FPP-2169-0-7-1648127540.zip",
+        "Size": 733,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "flib",
-          "Description": "A collection of quality-of-life UI improvements.\n\n Sorting your quests, messages and shards. \n\n Vehicle preview images on ride quests.\n\n Never lose your iconics.",
-          "FileID": 28479,
+          "Author": "DJ_Kovrik",
+          "Description": "Disables camera auto centering while driving in TPP or FPP mode.",
+          "FileID": 22767,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2729/2729-1622924463-1692886879.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2169/2169-1617527195-1128281589.jpeg",
           "IsNSFW": false,
-          "ModID": 2729,
-          "Name": "flib\u0027s UI Improvements",
-          "Version": "1.3.1"
+          "ModID": 2169,
+          "Name": "No Camera Auto Centering",
+          "Version": "0.7"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "RrXpTWA4msk=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4575\nfileID=44190",
-        "Name": "input_loader.zip-4575-0-1-1-1683848529.zip",
-        "Size": 383198,
+        "Hash": "KLjqH7siPcM=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7616\nfileID=43635",
+        "Name": "Stealthrunner-7616-1-1-0-1682800941.zip",
+        "Size": 29474148,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Jack Humbert",
-          "Description": "This plugin looks for all r6/input/*.xml files and merges them with the appropriate input config file from r6/config/ and saves results to r6/cache/. A configuration file is written to engine/config/platform/pc/input_loader.ini, which tells the game to load the merged .xml files.",
-          "FileID": 44190,
+          "Author": "RMK",
+          "Description": "Tracks and rewards Ghost, Pacifist, No-Touch, and more objectives for almost every quest and gig. Adds an all-new stealth-focused perk tree to unlock new abilities such as Pickpocketing. Unlock new items including new variations of Optical Camo. Inspired by games like Deus Ex and Dishonored.",
+          "FileID": 43635,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4575/4575-1653846065-507129799.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7616/7616-1678028721-1686254054.png",
           "IsNSFW": false,
-          "ModID": 4575,
-          "Name": "Input Loader",
-          "Version": "0.0.4"
+          "ModID": 7616,
+          "Name": "Stealthrunner - Stealth Gameplay Expansion",
+          "Version": "1.0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LaR4LHiMfwA=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4197\nfileID=44093",
+        "Name": "TweakXL-4197-1-1-5-1683666645.zip",
+        "Size": 509138,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "psiberx",
+          "Description": "TweakDB modifications loader and script extensions",
+          "FileID": 44093,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4197/4197-1648116989-1847614261.jpeg",
+          "IsNSFW": false,
+          "ModID": 4197,
+          "Name": "TweakXL",
+          "Version": "1.0.4"
         }
       }
     },
@@ -413,84 +434,105 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0nhcmUdczIQ=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4520\nfileID=27240",
-        "Name": "Drone Companions-4520-1-20-1661116650.zip",
-        "Size": 1709523,
+        "Hash": "YeUsSSKsLJM=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4378\nfileID=41085",
+        "Name": "Enhanced Craft-4378-2-2-0-1679075420.zip",
+        "Size": 70160,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Scissors",
-          "Description": "Adds a new type of Operating System to the game which allows for the crafting and control of companion Drones, Androids, and Mechs.",
-          "FileID": 27240,
+          "Author": "DJ_Kovrik",
+          "Description": "Extends default crafting capabilities allowing you to choose clothes and weapons skins, plus weapons damage type and name while crafting.",
+          "FileID": 41085,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4520/4520-1655423206-1064566576.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4378/4378-1650380270-1577618708.png",
           "IsNSFW": false,
-          "ModID": 4520,
-          "Name": "Drone Companions",
-          "Version": "1.1"
+          "ModID": 4378,
+          "Name": "Enhanced Craft",
+          "Version": "2.0.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "fHpiD4NSQEk=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=5533\nfileID=29486",
-        "Name": "ImprovedSlide-5533-1-0-1664624409.rar",
-        "Size": 857,
+        "Hash": "6DfDEXhJhw0=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=5115\nfileID=41277",
+        "Name": "Immersive Timeskip-5115-1-2-3-1679401458.zip",
+        "Size": 11164,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "zouzoulle",
-          "Description": "Enables side sliding. Much more flexibility on the slide\u0027s trajectory. Improves camera control when sliding. Prevents stairs and small obstacles like sidewalks from canceling the slide.",
-          "FileID": 29486,
+          "Author": "DJ_Kovrik",
+          "Description": "Allows to use vanilla timeskip widget in a more immersive way.",
+          "FileID": 41277,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/5533/5533-1664624285-1872768963.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/5115/5115-1661974045-1633804703.png",
           "IsNSFW": false,
-          "ModID": 5533,
-          "Name": "Improved Slide",
-          "Version": "1.0"
+          "ModID": 5115,
+          "Name": "Immersive Timeskip",
+          "Version": "1.2.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HyfK8ofnIEE=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=5434\nfileID=30172",
-        "Name": "Only Smartweapon Crosshairs 1.0h-5434-1-0h-1665159510.zip",
-        "Size": 3436,
+        "Hash": "i6klZa/hWzc=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2592\nfileID=43650",
+        "Name": "Limited HUD-2592-2-6-0-1682838934.zip",
+        "Size": 81043,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "keanuWheeze",
-          "Description": "A simple mod that disables the crosshair for all weapons except for smartweapons. Optionally lets you toggle the crosshair for the Monowire, Gorilla Arms and Projectile Launcher.",
-          "FileID": 30172,
+          "Author": "DJ_Kovrik",
+          "Description": "Hides main HUD widgets by default and shows them only on certain events (configurable). Adds in-game widget toggle hotkeys and a bunch of optional files to tweak different HUD elements.",
+          "FileID": 43650,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/5434/5434-1664287656-1798962771.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2592/2592-1620640405-942531536.jpeg",
           "IsNSFW": false,
-          "ModID": 5434,
-          "Name": "Only Smartweapon Crosshairs",
-          "Version": "1.0h"
+          "ModID": 2592,
+          "Name": "Limited HUD",
+          "Version": "2.4.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "3sNWx3Snkgs=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7299\nfileID=38548",
-        "Name": "Sit Anywhere 1.1-7299-1-1-1675423005.zip",
-        "Size": 249710,
+        "Hash": "khzg4Dk0WG4=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4454\nfileID=42414",
+        "Name": "Virtual Car Dealer-4454-1-6-0-1681295502.zip",
+        "Size": 37253,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "keanuWheeze",
-          "Description": "This mod lets you sit down almost anywhere you want",
-          "FileID": 38548,
+          "Author": "DJ_Kovrik",
+          "Description": "Very basic framework which allows modders to add any vehicle to a simple virtual shop using TweakXL.",
+          "FileID": 42414,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7299/7299-1675284540-215469595.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4454/4454-1651660089-1706296678.png",
           "IsNSFW": false,
-          "ModID": 7299,
-          "Name": "Sit Anywhere",
-          "Version": "1.0"
+          "ModID": 4454,
+          "Name": "Virtual Car Dealer",
+          "Version": "1.3.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VG8zE+gD/ks=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4521\nfileID=42975",
+        "Name": "Named Saves-4521-1-6-0-1682018713.zip",
+        "Size": 42674,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DJ_Kovrik",
+          "Description": "Allows to add custom text notes for your manually created saved games.",
+          "FileID": 42975,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4521/4521-1652776762-1917275630.png",
+          "IsNSFW": false,
+          "ModID": 4521,
+          "Name": "Named Saves",
+          "Version": "1.1.0"
         }
       }
     },
@@ -512,6 +554,69 @@
           "ModID": 5160,
           "Name": "Alternative Midair Movement",
           "Version": "0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "T0f/MWGEqUg=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3850\nfileID=41234",
+        "Name": "ACU - Character Customization-3850-2-2-0-1679320103.rar",
+        "Size": 68301,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PotatoOfDoom",
+          "Description": "This mod unlocks the new 1.5 Appearance Change Mirror to completely change your appearance including your voice, facial features and your body. AND allows you to save your character presets",
+          "FileID": 41234,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3850/3850-1645978776-1620937641.png",
+          "IsNSFW": false,
+          "ModID": 3850,
+          "Name": "Appearance Change Unlocker",
+          "Version": "2.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Zxroc5o3GZ4=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4776\nfileID=27936",
+        "Name": "Inventory Zoom 1.1-4776-1-1-1662897009.zip",
+        "Size": 118114,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "keanuWheeze",
+          "Description": "Lets you zoom onto your character in the inventory screen",
+          "FileID": 27936,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4776/4776-1657223211-1913283619.png",
+          "IsNSFW": false,
+          "ModID": 4776,
+          "Name": "Inventory Zoom",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "31NkO5dlBxs=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=5593\nfileID=29739",
+        "Name": "CameraSnapFix Vehicle FPP Vertical.-5593-Final-1664830575.zip",
+        "Size": 847,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Wind Spirit",
+          "Description": "Disables vertical snap up when wanting to positing the camera down,\n\nin first person driving view. Good for Motorcycles.",
+          "FileID": 29739,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/5593/5593-1664830656-299549257.png",
+          "IsNSFW": false,
+          "ModID": 5593,
+          "Name": "Vertical Camera Snap Fix",
+          "Version": "VFinal"
         }
       }
     },
@@ -560,21 +665,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "TUvnNBbJ2XI=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=5055\nfileID=27268",
-        "Name": "Cyberdeck Tweaks-5055-1-0-1661192112.zip",
-        "Size": 33928,
+        "Hash": "0nhcmUdczIQ=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4520\nfileID=27240",
+        "Name": "Drone Companions-4520-1-20-1661116650.zip",
+        "Size": 1709523,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "The Cyberpunk THING Team",
-          "Description": "This mod provides balancing and configuration options for Cyberdecks.",
-          "FileID": 27268,
+          "Author": "Scissors",
+          "Description": "Adds a new type of Operating System to the game which allows for the crafting and control of companion Drones, Androids, and Mechs.",
+          "FileID": 27240,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/5055/5055-1661191623-954366220.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4520/4520-1655423206-1064566576.png",
           "IsNSFW": false,
-          "ModID": 5055,
-          "Name": "Cyberdeck Tweaks",
-          "Version": "1.0"
+          "ModID": 4520,
+          "Name": "Drone Companions",
+          "Version": "1.1"
         }
       }
     },
@@ -644,20 +749,41 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/vyc8mgyb5Q=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4213\nfileID=42725",
-        "Name": "Playable Arcade Machines 1.2 (Only Native Roach Race)-4213-1-2-1681812372.zip",
-        "Size": 64396,
+        "Hash": "KDVGYsoUKGM=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3419\nfileID=20360",
+        "Name": "NanoDrone 1.3h-3419-1-3h-1645086123.zip",
+        "Size": 26410,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "keanuWheeze",
-          "Description": "This mod lets you play different mini-games on the physical arcade machines",
-          "FileID": 42725,
+          "Description": "This mod adds a purchase, upgrade and useable Nano Drone to the game, that can be used for scouting out areas but also offensively.",
+          "FileID": 20360,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4213/4213-1648331652-1249046364.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3419/3419-1636670398-1885928917.jpeg",
           "IsNSFW": false,
-          "ModID": 4213,
-          "Name": "Playable Arcade Machines",
+          "ModID": 3419,
+          "Name": "Nano Drone",
+          "Version": "1.3h"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3sNWx3Snkgs=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7299\nfileID=38548",
+        "Name": "Sit Anywhere 1.1-7299-1-1-1675423005.zip",
+        "Size": 249710,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "keanuWheeze",
+          "Description": "This mod lets you sit down almost anywhere you want",
+          "FileID": 38548,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7299/7299-1675284540-215469595.png",
+          "IsNSFW": false,
+          "ModID": 7299,
+          "Name": "Sit Anywhere",
           "Version": "1.0"
         }
       }
@@ -707,755 +833,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "T0f/MWGEqUg=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3850\nfileID=41234",
-        "Name": "ACU - Character Customization-3850-2-2-0-1679320103.rar",
-        "Size": 68301,
+        "Hash": "CIVKfV8yb3U=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4931\nfileID=32633",
+        "Name": "Time Dilation Overhaul-4931-1-8-5-1667581569.zip",
+        "Size": 177507,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PotatoOfDoom",
-          "Description": "This mod unlocks the new 1.5 Appearance Change Mirror to completely change your appearance including your voice, facial features and your body. AND allows you to save your character presets",
-          "FileID": 41234,
+          "Author": "The Cyberpunk THING Team",
+          "Description": "Overhauls Time Dilation in Cyberpunk to provide a more challenging and rewarding experience. Featuring all new abilities such as Katana Reflect, Vehicle Time Dilation, and Teleportation!",
+          "FileID": 32633,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3850/3850-1645978776-1620937641.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4931/4931-1659362535-636398421.png",
           "IsNSFW": false,
-          "ModID": 3850,
-          "Name": "Appearance Change Unlocker",
-          "Version": "2.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Uqm//n3w2lc=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4389\nfileID=24304",
-        "Name": "healthbar off (removes just the healthbar)-4389-1-0-1650568033.zip",
-        "Size": 36170,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kratoes",
-          "Description": "removes the healthbar above enemy heads (also removes a lot of other stuff)",
-          "FileID": 24304,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4389/4389-1650567229-1540680518.png",
-          "IsNSFW": false,
-          "ModID": 4389,
-          "Name": "(enemy healthbars) begone",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "KzCzu5yJ8/M=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=6365\nfileID=33233",
-        "Name": "Vanilla menu but smaller items-6365-1-1668350107.zip",
-        "Size": 67527,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ctxrlsec",
-          "Description": "I made this because it bothers me lol. \n\n\n\nScales the menu smaller to work better with mods that adds extra menu items and removes unnecessary things",
-          "FileID": 33233,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/6365/6365-1668341533-1659614347.png",
-          "IsNSFW": false,
-          "ModID": 6365,
-          "Name": "Better Main Menu",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "C5JmMfYwQ7o=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7322\nfileID=38578",
-        "Name": "Immersive Food Vendors-7322-1-0-0-1675449645.zip",
-        "Size": 384784,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deceptious",
-          "Description": "Adds a little immersion to all the food vendors you can buy food from, you can now actually have animated snack when visiting them!",
-          "FileID": 38578,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7322/7322-1675449279-989084394.png",
-          "IsNSFW": false,
-          "ModID": 7322,
-          "Name": "Immersive Food Vendors",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "rOunKFmAl18=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7833\nfileID=41747",
-        "Name": "Californication-7833-1-0-1-1680114962.zip",
-        "Size": 42215,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deceptious",
-          "Description": "Adds a new quest to the game. Requirements: Romanced Judy, Judy stays in NC, had a positive conversation with Judy\u0027s Abuela",
-          "FileID": 41747,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7833/7833-1679361454-505973271.png",
-          "IsNSFW": false,
-          "ModID": 7833,
-          "Name": "New Quest - Californication",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Do+Bmbosakc=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7158\nfileID=44386",
-        "Name": "Quasar and Burya Sights Fix Double-Pack-7158-1-1-1684354403.rar",
-        "Size": 532858,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "NeHooYeY",
-          "Description": "Quick fix for holo sights.",
-          "FileID": 44386,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7158/7158-1674116023-1279750008.png",
-          "IsNSFW": false,
-          "ModID": 7158,
-          "Name": "RT-46 Burya and DR-12 Quasar Sights Fix",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "uq7BdRDL0Lc=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2834\nfileID=36689",
-        "Name": "Armor Fix for All Weapons-2834-1-1-0-1672835034.zip",
-        "Size": 2446,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RMK",
-          "Description": "Makes armor reduce damage from ALL weapon types (instead of only ranged) and fixes some ranged weapons where armor was working too much (shotgun) or not at all (Oda\u0027s gun).",
-          "FileID": 36689,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2834/2834-1624207233-604612481.png",
-          "IsNSFW": false,
-          "ModID": 2834,
-          "Name": "Armor Fix for All Weapons",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "itenrFKws7s=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4725\nfileID=39079",
-        "Name": "Mark To Sell-4725-1-2-1-1676117912.zip",
-        "Size": 7642,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DJ_Kovrik",
-          "Description": "Allows to mark any item in your inventory as a Junk so you will be able to sell all marked items at once using vendors \u0022Sell Junk\u0022 option.",
-          "FileID": 39079,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4725/4725-1656261381-2129013481.png",
-          "IsNSFW": false,
-          "ModID": 4725,
-          "Name": "Mark To Sell",
-          "Version": "1.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "OvvphPledVk=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4453\nfileID=36690",
-        "Name": "Crafting Quality of Life-4453-1-2-0-1672835176.zip",
-        "Size": 9001,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RMK",
-          "Description": "1) Allows re-crafting Iconics at the current quality level (only with existing recipes), so you aren\u0027t incentivized to wait before upgrading. 2) Allows crafting mods at lower quality levels so you can equip them on lower quality weapons and clothing. 3) Fixes small bug with crafting discounts not applying to some ingredients of weapon/armor mods.",
-          "FileID": 36690,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4453/4453-1651658807-444949094.png",
-          "IsNSFW": false,
-          "ModID": 4453,
-          "Name": "Crafting Quality of Life",
-          "Version": "1.1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7CPe8U7Ih04=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=5620\nfileID=31178",
-        "Name": "Smart Auto Switching-5620-v1-0-1666053089.zip",
-        "Size": 1294,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Raumfliege",
-          "Description": "Disables auo switching for thrown knifes.",
-          "FileID": 31178,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/5620/5620-1664904867-372797556.png",
-          "IsNSFW": false,
-          "ModID": 5620,
-          "Name": "Disable Auto Switching for Throwing Knives",
-          "Version": "v1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "VG8zE+gD/ks=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4521\nfileID=42975",
-        "Name": "Named Saves-4521-1-6-0-1682018713.zip",
-        "Size": 42674,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DJ_Kovrik",
-          "Description": "Allows to add custom text notes for your manually created saved games.",
-          "FileID": 42975,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4521/4521-1652776762-1917275630.png",
-          "IsNSFW": false,
-          "ModID": 4521,
-          "Name": "Named Saves",
-          "Version": "1.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "gTEFdM2IBws=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3158\nfileID=30044",
-        "Name": "SystemEx-3158-1-0-5-1665053547.zip",
-        "Size": 12215,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "psiberx",
-          "Description": "Install Cyberdeck and Operating System (Sandevistan / Berserk) at the same time",
-          "FileID": 30044,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3158/3158-1631354400-815036405.jpeg",
-          "IsNSFW": false,
-          "ModID": 3158,
-          "Name": "System-EX",
-          "Version": "1.0.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ipdZN+dBBEQ=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=1712\nfileID=34291",
-        "Name": "Damage Scaling-1712-3-4-0-1669585625.zip",
-        "Size": 16474,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RMK",
-          "Description": "Separate files to \n\n1) add NPC level scaling (multiple options), \n\n2) give NPCs damage reduction (like armor) - configurable in game",
-          "FileID": 34291,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/1712/1712-1613701053-1403782252.jpeg",
-          "IsNSFW": false,
-          "ModID": 1712,
-          "Name": "Level Scaling and Balance",
-          "Version": "3.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Zxroc5o3GZ4=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4776\nfileID=27936",
-        "Name": "Inventory Zoom 1.1-4776-1-1-1662897009.zip",
-        "Size": 118114,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "keanuWheeze",
-          "Description": "Lets you zoom onto your character in the inventory screen",
-          "FileID": 27936,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4776/4776-1657223211-1913283619.png",
-          "IsNSFW": false,
-          "ModID": 4776,
-          "Name": "Inventory Zoom",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "31NkO5dlBxs=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=5593\nfileID=29739",
-        "Name": "CameraSnapFix Vehicle FPP Vertical.-5593-Final-1664830575.zip",
-        "Size": 847,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Wind Spirit",
-          "Description": "Disables vertical snap up when wanting to positing the camera down,\n\nin first person driving view. Good for Motorcycles.",
-          "FileID": 29739,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/5593/5593-1664830656-299549257.png",
-          "IsNSFW": false,
-          "ModID": 5593,
-          "Name": "Vertical Camera Snap Fix",
-          "Version": "VFinal"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "e4DktqrQuXc=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4361\nfileID=24157",
-        "Name": "Annoy me no more-4361-1-0-1650125463.zip",
-        "Size": 94273,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kratoes",
-          "Description": "removes the \u0022entering new area\u0022 notification every time you enter a location new or not",
-          "FileID": 24157,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4361/4361-1650119283-863916878.png",
-          "IsNSFW": false,
-          "ModID": 4361,
-          "Name": "(entering new area) be gone",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tHZqVvWZcAA=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7064\nfileID=42384",
-        "Name": "Immersive Rippers-7064-1-1-2-1681254469.zip",
-        "Size": 1768236,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deceptious",
-          "Description": "Adds a little immersion to all the rippers such that you now sit in their chairs to get work done. Fingers can be paid as an apology and regain access to his services.",
-          "FileID": 42384,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7064/7064-1673471906-844026640.png",
-          "IsNSFW": false,
-          "ModID": 7064,
-          "Name": "Immersive Rippers",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ZPzfWuctXYo=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4317\nfileID=36782",
-        "Name": "Toxicity-4317-1-1-1-1672960081.zip",
-        "Size": 26772,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RMK",
-          "Description": "Using healing items builds up your \u0022Toxicity\u0022 until you \u0022Overdose\u0022, requiring you to wait for the effect to wear off before using more inhalers/injectors.",
-          "FileID": 36782,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4317/4317-1649513831-1846638902.jpeg",
-          "IsNSFW": false,
-          "ModID": 4317,
-          "Name": "Toxicity",
-          "Version": "1.0.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "xuhFc72e/DI=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3661\nfileID=36683",
-        "Name": "Challenging Breach Minigame-3661-1-2-0-1672834414.zip",
-        "Size": 14098,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RMK",
-          "Description": "Make the Breach minigame more challenging by having the timer start immediately and shortening the timer length. Completely configurable in-game! (Previously released as part of Level Scaling \u0026amp; Balance)",
-          "FileID": 36683,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3661/3661-1640979999-1529634478.png",
-          "IsNSFW": false,
-          "ModID": 3661,
-          "Name": "Challenging Breach Minigame",
-          "Version": "1.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "10c5YkA8X0k=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=6879\nfileID=36075",
-        "Name": "More Inventory Filters-6879-1-0-0-1671927927.zip",
-        "Size": 3277,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Darkelf44",
-          "Description": "Adds more filters to your inventory, your stash\u0027s inventory, and to most vendors inventory.",
-          "FileID": 36075,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/6879/6879-1671927643-142794498.png",
-          "IsNSFW": false,
-          "ModID": 6879,
-          "Name": "More Inventory Filters",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "H58D7gASHUs=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3314\nfileID=17573",
-        "Name": "Disable Highlighting Through Walls-3314-1-0-1634365196.zip",
-        "Size": 2197,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Scissors123454321",
-          "Description": "Disables the red highlight effect on enemies from showing up through walls.",
-          "FileID": 17573,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3314/3314-1634365064-1690125371.png",
-          "IsNSFW": false,
-          "ModID": 3314,
-          "Name": "Disable Highlighting Through Walls",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PzBZcZ0S77A=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4289\nfileID=27827",
-        "Name": "OverwatchFix-4289-1-1-1662723595.7z",
-        "Size": 407,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "suckerold",
-          "Description": "Restores Panam\u0027s Overwatch sniper rifle wall penetration ability.",
-          "FileID": 27827,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4289/4289-1649095141-1265653821.png",
-          "IsNSFW": false,
-          "ModID": 4289,
-          "Name": "Overwatch wall penetration fix (CET) 1.6",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fKsdN1ITU4E=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4395\nfileID=24356",
-        "Name": "removes safe area only-4395-1-0-1650663130.zip",
-        "Size": 42143,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kratoes",
-          "Description": "removes the (safe area) notification everytime you enter a safe area",
-          "FileID": 24356,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4395/4395-1650663049-549039516.png",
-          "IsNSFW": false,
-          "ModID": 4395,
-          "Name": "(safe area) be gone",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "G9TZC0Hk60k=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=535\nfileID=31106",
-        "Name": "Crouch vignette effect remover-535-2-1665998718.zip",
-        "Size": 2024,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "OREZXX",
-          "Description": "Removes the  useless Crouch vignette effect",
-          "FileID": 31106,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/535/535-1609011926-1879926929.jpeg",
-          "IsNSFW": false,
-          "ModID": 535,
-          "Name": "Crouch vignette effect remover",
-          "Version": "1.0.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "FQro4HEr6y0=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=6794\nfileID=41696",
-        "Name": "Immersive Vik-6794-1-2-0-1680042195.zip",
-        "Size": 42030,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deceptious",
-          "Description": "Adds some immersion when visiting your favourite Ripperdoc. V now actually uses the ripper\u0027s chair when getting chrome/appearance work done. Vik is animated for it.",
-          "FileID": 41696,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/6794/6794-1671207161-1910542157.png",
-          "IsNSFW": false,
-          "ModID": 6794,
-          "Name": "Immersive Vik",
-          "Version": "1.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cT68SzXQfwc=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7834\nfileID=44287",
-        "Name": "One More Light-7834-1-1-0-1684164758.zip",
-        "Size": 32233,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deceptious",
-          "Description": "Adds a new quest to the game. Requirements: Attended Jackie\u0027s ofrenda",
-          "FileID": 44287,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7834/7834-1679361476-934364735.png",
-          "IsNSFW": false,
-          "ModID": 7834,
-          "Name": "New Quest - One More Light",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "w+dq0eXMAV0=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=8067\nfileID=42495",
-        "Name": "Iron-8067-1-1681444333.zip",
-        "Size": 40619,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Me",
-          "Description": "If you wish to have 3 less bugs in Cyberpunk, I have fixed 3 bugs on this weapon: silencer position, iron sights ghosting, iron sights texture glitch.",
-          "FileID": 42495,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/8067/8067-1681415296-1750291279.png",
-          "IsNSFW": false,
-          "ModID": 8067,
-          "Name": "Shigure Weapon Bugs Fix",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Cw6mixzjFSE=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2805\nfileID=36692",
-        "Name": "Clear Skill Checks-2805-1-1-0-1672835349.zip",
-        "Size": 1755,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RMK",
-          "Description": "A small mod that shows you what attribute level you needed for conversation skill checks that you pass (normally the game just shows your current attribute level).",
-          "FileID": 36692,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2805/2805-1623448359-1404834243.jpeg",
-          "IsNSFW": false,
-          "ModID": 2805,
-          "Name": "Clear Skill Checks",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2LIxZZjy2/g=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=8162\nfileID=43395",
-        "Name": "TV Anywhere-8162-0-9-5-1682466739.zip",
-        "Size": 26886,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Deceptious",
-          "Description": "Unlocks the ability to watch TV anywhere, after completing a tiny collection quest.",
-          "FileID": 43395,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/8162/8162-1682264247-781850417.png",
-          "IsNSFW": false,
-          "ModID": 8162,
-          "Name": "TV Anywhere",
-          "Version": "0.9.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3k7Vjr4Y5NQ=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4648\nfileID=33957",
-        "Name": "Disassemble As Looting Choice-4648-1-3-1-1669407799.zip",
-        "Size": 6145,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "pMarK",
-          "Description": "Adds a disassemble option when looting.",
-          "FileID": 33957,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4648/4648-1655270729-2125039886.png",
-          "IsNSFW": false,
-          "ModID": 4648,
-          "Name": "Disassemble As Looting Choice",
-          "Version": "1.1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "khzg4Dk0WG4=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4454\nfileID=42414",
-        "Name": "Virtual Car Dealer-4454-1-6-0-1681295502.zip",
-        "Size": 37253,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DJ_Kovrik",
-          "Description": "Very basic framework which allows modders to add any vehicle to a simple virtual shop using TweakXL.",
-          "FileID": 42414,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4454/4454-1651660089-1706296678.png",
-          "IsNSFW": false,
-          "ModID": 4454,
-          "Name": "Virtual Car Dealer",
-          "Version": "1.3.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "KDZ9afkG1xw=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4336\nfileID=24820",
-        "Name": "Leg Cyberware Tweaks-4336-2-0-1652028173.zip",
-        "Size": 14234,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TeslaCoiled",
-          "Description": "This mod provides options to balance/tweak leg cyberware. Native UI compatible.",
-          "FileID": 24820,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4336/4336-1649793900-1114423545.png",
-          "IsNSFW": false,
-          "ModID": 4336,
-          "Name": "Leg Cyberware Tweaks",
-          "Version": "2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "/0KLk53sBXo=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2557\nfileID=39498",
-        "Name": "Always First Equip-2557-1-11-0-1676718951.zip",
-        "Size": 28573,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DJ_Kovrik",
-          "Description": "Repeats firstEquip animation each time you equip your weapon or press a hotkey. Allows to trigger additional weapon inspection animations: IdleBreak and SafeAction. Highly configurable.",
-          "FileID": 39498,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2557/2557-1620280394-1500347499.jpeg",
-          "IsNSFW": false,
-          "ModID": 2557,
-          "Name": "Always First Equip",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "R6FpE48NV0I=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=8076\nfileID=42515",
-        "Name": "Rain Effect-8076-1-0-1681479629.rar",
-        "Size": 12318,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Sosuinepsixuyu",
-          "Description": "What title says.",
-          "FileID": 42515,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/8076/8076-1681479309-181377663.png",
-          "IsNSFW": false,
-          "ModID": 8076,
-          "Name": "Improved (Or Is It) Rain Effect",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "DmORl0Njar4=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3365\nfileID=20274",
-        "Name": "Simple Loot Icon (1.5)-3365-1-0-1644996639.rar",
-        "Size": 313528,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Filipe Ramos",
-          "Description": "One day while playing I was like \u0022hey, loot icons would be better as small circles instead of those large boxes\u0022, so I changed them.",
-          "FileID": 20274,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3365/3365-1635301060-1464268183.png",
-          "IsNSFW": false,
-          "ModID": 3365,
-          "Name": "Simple Loot Icons",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "JS6G06n2MlM=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2282\nfileID=20304",
-        "Name": "Unequip Cyberware-2282-1-5-1645030935.rar",
-        "Size": 1696,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PotatoOfDoom",
-          "Description": "This mod allows you to unequip cyberware.",
-          "FileID": 20304,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2282/2282-1618260172-954888211.png",
-          "IsNSFW": false,
-          "ModID": 2282,
-          "Name": "Unequip Cyberware",
+          "ModID": 4931,
+          "Name": "Time Dilation Overhaul",
           "Version": "1.5"
         }
       }
@@ -1463,105 +854,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "DZb1d5AauFc=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=1512\nfileID=20817",
-        "Name": "skipCallDialogue-1512-15-0-1645650167.zip",
-        "Size": 789,
+        "Hash": "/vyc8mgyb5Q=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4213\nfileID=42725",
+        "Name": "Playable Arcade Machines 1.2 (Only Native Roach Race)-4213-1-2-1681812372.zip",
+        "Size": 64396,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "WillyJL",
-          "Description": "Fix annoying \u0022features\u0022 of this bloody game. Currently available: disable relic malfunctions, disable mantis blades finishers, skip call dialogue, no landing movement lock, remove fall damage, jump fixes, disable walk / dont walk crosswalks sfx, stand up for dialogue, reasonable police spawn dista",
-          "FileID": 20817,
+          "Author": "keanuWheeze",
+          "Description": "This mod lets you play different mini-games on the physical arcade machines",
+          "FileID": 42725,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/1512/1512-1612712000-1891315102.gif",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4213/4213-1648331652-1249046364.png",
           "IsNSFW": false,
-          "ModID": 1512,
-          "Name": "Annoy Me No More",
-          "Version": "14.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Pbi6nMyDZ8A=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7000\nfileID=36978",
-        "Name": "Hacking Bug Fixes-7000-1-1-0-1673208504.zip",
-        "Size": 3276,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RMK",
-          "Description": "Fixes a few small bugs in the Breach/Quickhacking system. Currently fixes 1) Memory Wipe not preventing enemies from entering combat, 2) ICEpick level 1 daemon reducing RAM costs by 2 instead of 1, and 3) Cyberware Malfunction rare and epic don\u0027t spread like they say they do.",
-          "FileID": 36978,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7000/7000-1673017228-169358791.jpeg",
-          "IsNSFW": false,
-          "ModID": 7000,
-          "Name": "Hacking Bug Fixes",
-          "Version": "1.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "LaR4LHiMfwA=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4197\nfileID=44093",
-        "Name": "TweakXL-4197-1-1-5-1683666645.zip",
-        "Size": 509138,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "psiberx",
-          "Description": "TweakDB modifications loader and script extensions",
-          "FileID": 44093,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4197/4197-1648116989-1847614261.jpeg",
-          "IsNSFW": false,
-          "ModID": 4197,
-          "Name": "TweakXL",
-          "Version": "1.0.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6DfDEXhJhw0=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=5115\nfileID=41277",
-        "Name": "Immersive Timeskip-5115-1-2-3-1679401458.zip",
-        "Size": 11164,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DJ_Kovrik",
-          "Description": "Allows to use vanilla timeskip widget in a more immersive way.",
-          "FileID": 41277,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/5115/5115-1661974045-1633804703.png",
-          "IsNSFW": false,
-          "ModID": 5115,
-          "Name": "Immersive Timeskip",
-          "Version": "1.2.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "iG01fWrPPlg=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4479\nfileID=24803",
-        "Name": "Lynx Paws Reimagined-4479-1-0-1-1652004746.zip",
-        "Size": 13270,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RMK",
-          "Description": "This mod\u0027s goal is to make Lynx Paws a viable alternative to the other leg cyberware by offering things you want that are not double/hover jump.",
-          "FileID": 24803,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4479/4479-1652001931-149275966.png",
-          "IsNSFW": false,
-          "ModID": 4479,
-          "Name": "Lynx Paws Reimagined",
-          "Version": "1.0.1"
+          "ModID": 4213,
+          "Name": "Playable Arcade Machines",
+          "Version": "1.0"
         }
       }
     },
@@ -1631,36 +938,57 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "tZjiOMTYOCM=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=6945\nfileID=44358",
-        "Name": "Equipment-EX-6945-0-9-6-1684270912.zip",
-        "Size": 73220,
+        "Hash": "S2AUbVH64Uw=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4216\nfileID=35738",
+        "Name": "Iconic Sasquatch\u0027s Hammer-4216-2-0-1671367121.7z",
+        "Size": 1060,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "psiberx and DJ_Kovrik",
-          "Description": "Powerful transmog system with 30\u002B clothing slots / Outfit manager",
-          "FileID": 44358,
+          "Author": "apart",
+          "Description": "Turns the Sasquatch\u0027s Hammer into an Iconic weapon with a unique modifier and allows you to upgrade it  to Epic and Legendary quality.",
+          "FileID": 35738,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/6945/6945-1672583521-2028780239.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4216/4216-1648715195-779925936.png",
           "IsNSFW": false,
-          "ModID": 6945,
-          "Name": "Equipment-EX",
-          "Version": "0.8.4"
+          "ModID": 4216,
+          "Name": "Iconic Sasquatch\u0027s Hammer",
+          "Version": "1.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "28h7UMZ8bEA=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2169\nfileID=22767",
-        "Name": "No Camera Auto Centering - FPP-2169-0-7-1648127540.zip",
-        "Size": 733,
+        "Hash": "RrXpTWA4msk=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4575\nfileID=44190",
+        "Name": "input_loader.zip-4575-0-1-1-1683848529.zip",
+        "Size": 383198,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jack Humbert",
+          "Description": "This plugin looks for all r6/input/*.xml files and merges them with the appropriate input config file from r6/config/ and saves results to r6/cache/. A configuration file is written to engine/config/platform/pc/input_loader.ini, which tells the game to load the merged .xml files.",
+          "FileID": 44190,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4575/4575-1653846065-507129799.png",
+          "IsNSFW": false,
+          "ModID": 4575,
+          "Name": "Input Loader",
+          "Version": "0.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6seP3GMqMe0=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2169\nfileID=22768",
+        "Name": "No Camera Auto Centering - TPP-2169-0-7-1648127554.zip",
+        "Size": 805,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "DJ_Kovrik",
           "Description": "Disables camera auto centering while driving in TPP or FPP mode.",
-          "FileID": 22767,
+          "FileID": 22768,
           "GameName": "Cyberpunk2077",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2169/2169-1617527195-1128281589.jpeg",
           "IsNSFW": false,
@@ -1673,41 +1001,41 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8qm/Lk9Bn40=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4039\nfileID=32714",
-        "Name": "MoreFluidParkour-4039-1-11-1667691500.rar",
-        "Size": 1090,
+        "Hash": "8d/6EkQlquY=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=107\nfileID=42979",
+        "Name": "Game version 1.62 hotfix-107-1-24-1-1682026212.zip",
+        "Size": 31655261,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SOSUINEPXISUYU",
-          "Description": "Brief overview(doesn\u0027t exist)",
-          "FileID": 32714,
+          "Author": "yamashi",
+          "Description": "Scripting framework for modders and quality of life fixes.",
+          "FileID": 42979,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4039/4039-1646577926-1729439406.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/107/107-1613641770-185635979.png",
           "IsNSFW": false,
-          "ModID": 4039,
-          "Name": "More Fluid Parkour",
-          "Version": "1.0"
+          "ModID": 107,
+          "Name": "Cyber Engine Tweaks",
+          "Version": "1.18.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ZBO/Zs+iQkM=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=6925\nfileID=36427",
-        "Name": "Projectile Launcher Rework-6925-1-1-1672536181.zip",
-        "Size": 8760,
+        "Hash": "PzBZcZ0S77A=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4289\nfileID=27827",
+        "Name": "OverwatchFix-4289-1-1-1662723595.7z",
+        "Size": 407,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Riv",
-          "Description": "This mod is a combination of my previous mod cyberware AoE rework and dillingspam\u0027s Launcher Rebalance mod. It has menus to allow for player customization of values. Projectile launcher really needs a buff.",
-          "FileID": 36427,
+          "Author": "suckerold",
+          "Description": "Restores Panam\u0027s Overwatch sniper rifle wall penetration ability.",
+          "FileID": 27827,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/6925/6925-1672395072-1598078984.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4289/4289-1649095141-1265653821.png",
           "IsNSFW": false,
-          "ModID": 6925,
-          "Name": "Projectile Launcher Rework",
+          "ModID": 4289,
+          "Name": "Overwatch wall penetration fix (CET) 1.6",
           "Version": "1.1"
         }
       }
@@ -1715,21 +1043,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "T8lbfpnU8HE=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4921\nfileID=26697",
-        "Name": "Sticky Mines-4921-1-0-1659133067.zip",
-        "Size": 3108,
+        "Hash": "ogp1ChYR2Ic=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2468\nfileID=36626",
+        "Name": "AI Netrunners Enhanced-2468-1-5-0-1672779316.zip",
+        "Size": 21059,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Scissors",
-          "Description": "Overhauls Sticky Grenades, converting them into throwable proximity mines, as well as adding several new grenades.",
-          "FileID": 26697,
+          "Author": "RMK",
+          "Description": "Improves enemy netrunners by adding a bunch of hacks (most are restored cut content) they can use on the player, and fixing some CDPR bugs that stop netrunners from hacking you most of the time.",
+          "FileID": 36626,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4921/4921-1659135695-1860456629.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2468/2468-1619485867-2092137149.jpeg",
           "IsNSFW": false,
-          "ModID": 4921,
-          "Name": "Sticky Mines",
-          "Version": "1.0"
+          "ModID": 2468,
+          "Name": "AI Netrunners Enhanced",
+          "Version": "1.1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gTEFdM2IBws=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3158\nfileID=30044",
+        "Name": "SystemEx-3158-1-0-5-1665053547.zip",
+        "Size": 12215,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "psiberx",
+          "Description": "Install Cyberdeck and Operating System (Sandevistan / Berserk) at the same time",
+          "FileID": 30044,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3158/3158-1631354400-815036405.jpeg",
+          "IsNSFW": false,
+          "ModID": 3158,
+          "Name": "System-EX",
+          "Version": "1.0.2"
         }
       }
     },
@@ -1862,20 +1211,83 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "S2AUbVH64Uw=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4216\nfileID=35738",
-        "Name": "Iconic Sasquatch\u0027s Hammer-4216-2-0-1671367121.7z",
-        "Size": 1060,
+        "Hash": "S2H0WRZNGPE=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=5171\nfileID=27934",
+        "Name": "DLC and Iconic Modifiers-5171-1-0-1662893419.7z",
+        "Size": 1311,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "apart",
-          "Description": "Turns the Sasquatch\u0027s Hammer into an Iconic weapon with a unique modifier and allows you to upgrade it  to Epic and Legendary quality.",
-          "FileID": 35738,
+          "Description": "Adds iconic rarity to more unique items and allows some quest specific clothing to be upgraded like the 1.5 DLC items.",
+          "FileID": 27934,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4216/4216-1648715195-779925936.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/5171/5171-1662892873-2049427381.png",
           "IsNSFW": false,
-          "ModID": 4216,
-          "Name": "Iconic Sasquatch\u0027s Hammer",
+          "ModID": 5171,
+          "Name": "DLC and Iconic Modifiers",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gExS6y80qKg=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4885\nfileID=44195",
+        "Name": "mod_settings.zip-4885-0-1-2-1683853680.zip",
+        "Size": 251291,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jack Humbert",
+          "Description": "Adds a redscript-configurable \u0022Mod Settings\u0022 page to the main menu that any mod can add a page to.",
+          "FileID": 44195,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4885/4885-1658548659-1491857712.jpeg",
+          "IsNSFW": false,
+          "ModID": 4885,
+          "Name": "Mod Settings",
+          "Version": "0.0.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fqk+bhVmKLU=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=1511\nfileID=44186",
+        "Name": "redscript-1511-0-5-14-1683839817.zip",
+        "Size": 943133,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "jac3km4",
+          "Description": "Compiler for Cyberpunk2077 scripts",
+          "FileID": 44186,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/1511/1511-1612727913-1059595445.png",
+          "IsNSFW": false,
+          "ModID": 1511,
+          "Name": "redscript",
+          "Version": "0.3.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5av66Zakz9A=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4407\nfileID=25358",
+        "Name": "WE3D - Drugs of Night City-4407-1-1-1654141748.zip",
+        "Size": 20617,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Scissors",
+          "Description": "Adds 23 drugs to the game, a healing cooldown, and customization for all consumables.",
+          "FileID": 25358,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4407/4407-1650868142-1239389193.png",
+          "IsNSFW": false,
+          "ModID": 4407,
+          "Name": "WE3D - Drugs of Night City",
           "Version": "1.1"
         }
       }
@@ -1883,42 +1295,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6seP3GMqMe0=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2169\nfileID=22768",
-        "Name": "No Camera Auto Centering - TPP-2169-0-7-1648127554.zip",
-        "Size": 805,
+        "Hash": "KDZ9afkG1xw=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4336\nfileID=24820",
+        "Name": "Leg Cyberware Tweaks-4336-2-0-1652028173.zip",
+        "Size": 14234,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DJ_Kovrik",
-          "Description": "Disables camera auto centering while driving in TPP or FPP mode.",
-          "FileID": 22768,
+          "Author": "TeslaCoiled",
+          "Description": "This mod provides options to balance/tweak leg cyberware. Native UI compatible.",
+          "FileID": 24820,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2169/2169-1617527195-1128281589.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4336/4336-1649793900-1114423545.png",
           "IsNSFW": false,
-          "ModID": 2169,
-          "Name": "No Camera Auto Centering",
-          "Version": "0.7"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8d/6EkQlquY=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=107\nfileID=42979",
-        "Name": "Game version 1.62 hotfix-107-1-24-1-1682026212.zip",
-        "Size": 31655261,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "yamashi",
-          "Description": "Scripting framework for modders and quality of life fixes.",
-          "FileID": 42979,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/107/107-1613641770-185635979.png",
-          "IsNSFW": false,
-          "ModID": 107,
-          "Name": "Cyber Engine Tweaks",
-          "Version": "1.18.1"
+          "ModID": 4336,
+          "Name": "Leg Cyberware Tweaks",
+          "Version": "2.0"
         }
       }
     },
@@ -2009,20 +1400,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "S2H0WRZNGPE=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=5171\nfileID=27934",
-        "Name": "DLC and Iconic Modifiers-5171-1-0-1662893419.7z",
-        "Size": 1311,
+        "Hash": "xcmx1jhgNLo=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4880\nfileID=26484",
+        "Name": "Average Hackers-4880-1-0-1658427255.zip",
+        "Size": 2457,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "apart",
-          "Description": "Adds iconic rarity to more unique items and allows some quest specific clothing to be upgraded like the 1.5 DLC items.",
-          "FileID": 27934,
+          "Author": "Scissors",
+          "Description": "Allows many more enemies in Night City to quickhack the player.",
+          "FileID": 26484,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/5171/5171-1662892873-2049427381.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4880/4880-1658426907-49581561.png",
           "IsNSFW": false,
-          "ModID": 5171,
-          "Name": "DLC and Iconic Modifiers",
+          "ModID": 4880,
+          "Name": "Amateur Hackers",
           "Version": "1.0"
         }
       }
@@ -2030,105 +1421,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "gExS6y80qKg=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4885\nfileID=44195",
-        "Name": "mod_settings.zip-4885-0-1-2-1683853680.zip",
-        "Size": 251291,
+        "Hash": "iG01fWrPPlg=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4479\nfileID=24803",
+        "Name": "Lynx Paws Reimagined-4479-1-0-1-1652004746.zip",
+        "Size": 13270,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Jack Humbert",
-          "Description": "Adds a redscript-configurable \u0022Mod Settings\u0022 page to the main menu that any mod can add a page to.",
-          "FileID": 44195,
+          "Author": "RMK",
+          "Description": "This mod\u0027s goal is to make Lynx Paws a viable alternative to the other leg cyberware by offering things you want that are not double/hover jump.",
+          "FileID": 24803,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4885/4885-1658548659-1491857712.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4479/4479-1652001931-149275966.png",
           "IsNSFW": false,
-          "ModID": 4885,
-          "Name": "Mod Settings",
-          "Version": "0.0.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fqk+bhVmKLU=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=1511\nfileID=44186",
-        "Name": "redscript-1511-0-5-14-1683839817.zip",
-        "Size": 943133,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "jac3km4",
-          "Description": "Compiler for Cyberpunk2077 scripts",
-          "FileID": 44186,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/1511/1511-1612727913-1059595445.png",
-          "IsNSFW": false,
-          "ModID": 1511,
-          "Name": "redscript",
-          "Version": "0.3.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "5av66Zakz9A=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4407\nfileID=25358",
-        "Name": "WE3D - Drugs of Night City-4407-1-1-1654141748.zip",
-        "Size": 20617,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Scissors",
-          "Description": "Adds 23 drugs to the game, a healing cooldown, and customization for all consumables.",
-          "FileID": 25358,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4407/4407-1650868142-1239389193.png",
-          "IsNSFW": false,
-          "ModID": 4407,
-          "Name": "WE3D - Drugs of Night City",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3vlFvDmRTz8=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4997\nfileID=28042",
-        "Name": "Ranged Attack Speed Damage Fix-4997-2-0-1663093096.zip",
-        "Size": 1641,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "The Cyberpunk THING Team",
-          "Description": "Fixes ranged damage decreasing when attacks per second increases.",
-          "FileID": 28042,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4997/4997-1660521113-269297091.png",
-          "IsNSFW": false,
-          "ModID": 4997,
-          "Name": "Ranged Attack Speed Damage Fix",
-          "Version": "2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QEogDMKsi48=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3801\nfileID=38595",
-        "Name": "Stop spam v1.1.1-3801-1-1-1-1675470507.zip",
-        "Size": 1680,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "anygoodname",
-          "Description": "Stop the car and apartment deals spam!",
-          "FileID": 38595,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3801/3801-1643922630-47687920.png",
-          "IsNSFW": false,
-          "ModID": 3801,
-          "Name": "Stop spammers",
-          "Version": "1.1.0"
+          "ModID": 4479,
+          "Name": "Lynx Paws Reimagined",
+          "Version": "1.0.1"
         }
       }
     },
@@ -2240,20 +1547,125 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "xcmx1jhgNLo=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4880\nfileID=26484",
-        "Name": "Average Hackers-4880-1-0-1658427255.zip",
-        "Size": 2457,
+        "Hash": "uq7BdRDL0Lc=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2834\nfileID=36689",
+        "Name": "Armor Fix for All Weapons-2834-1-1-0-1672835034.zip",
+        "Size": 2446,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RMK",
+          "Description": "Makes armor reduce damage from ALL weapon types (instead of only ranged) and fixes some ranged weapons where armor was working too much (shotgun) or not at all (Oda\u0027s gun).",
+          "FileID": 36689,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2834/2834-1624207233-604612481.png",
+          "IsNSFW": false,
+          "ModID": 2834,
+          "Name": "Armor Fix for All Weapons",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "D0ZWxjwbTkw=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3400\nfileID=36691",
+        "Name": "Filter Saves by Lifepath and Type-3400-1-2-0-1672835293.zip",
+        "Size": 3352,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RMK",
+          "Description": "Adds buttons in Save and Load menus to filter saves by Lifepath and type (manual/auto/quick/point of no return, etc.). Works with controller too!",
+          "FileID": 36691,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3400/3400-1636062486-291408096.png",
+          "IsNSFW": false,
+          "ModID": 3400,
+          "Name": "Filter Saves by Lifepath and Type",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TVa8+PE9oPA=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4250\nfileID=28970",
+        "Name": "Restored Crafting Specs-4250-1-6-1-1664110113.zip",
+        "Size": 2751,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "apart",
+          "Description": "Restores some Crafting Specs.",
+          "FileID": 28970,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4250/4250-1648715907-1625061823.png",
+          "IsNSFW": false,
+          "ModID": 4250,
+          "Name": "Restored Crafting Specs",
+          "Version": "1.6.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8qm/Lk9Bn40=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4039\nfileID=32714",
+        "Name": "MoreFluidParkour-4039-1-11-1667691500.rar",
+        "Size": 1090,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SOSUINEPXISUYU",
+          "Description": "Brief overview(doesn\u0027t exist)",
+          "FileID": 32714,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4039/4039-1646577926-1729439406.jpeg",
+          "IsNSFW": false,
+          "ModID": 4039,
+          "Name": "More Fluid Parkour",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ZBO/Zs+iQkM=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=6925\nfileID=36427",
+        "Name": "Projectile Launcher Rework-6925-1-1-1672536181.zip",
+        "Size": 8760,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Riv",
+          "Description": "This mod is a combination of my previous mod cyberware AoE rework and dillingspam\u0027s Launcher Rebalance mod. It has menus to allow for player customization of values. Projectile launcher really needs a buff.",
+          "FileID": 36427,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/6925/6925-1672395072-1598078984.png",
+          "IsNSFW": false,
+          "ModID": 6925,
+          "Name": "Projectile Launcher Rework",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "T8lbfpnU8HE=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4921\nfileID=26697",
+        "Name": "Sticky Mines-4921-1-0-1659133067.zip",
+        "Size": 3108,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Scissors",
-          "Description": "Allows many more enemies in Night City to quickhack the player.",
-          "FileID": 26484,
+          "Description": "Overhauls Sticky Grenades, converting them into throwable proximity mines, as well as adding several new grenades.",
+          "FileID": 26697,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4880/4880-1658426907-49581561.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4921/4921-1659135695-1860456629.png",
           "IsNSFW": false,
-          "ModID": 4880,
-          "Name": "Amateur Hackers",
+          "ModID": 4921,
+          "Name": "Sticky Mines",
           "Version": "1.0"
         }
       }
@@ -2324,20 +1736,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "D0ZWxjwbTkw=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3400\nfileID=36691",
-        "Name": "Filter Saves by Lifepath and Type-3400-1-2-0-1672835293.zip",
-        "Size": 3352,
+        "Hash": "VAAxhdIb6A8=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=8340\nfileID=44357",
+        "Name": "Find-EX-8340-1-0-0-1684270100.zip",
+        "Size": 6117,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RMK",
-          "Description": "Adds buttons in Save and Load menus to filter saves by Lifepath and type (manual/auto/quick/point of no return, etc.). Works with controller too!",
-          "FileID": 36691,
+          "Author": "psiberx",
+          "Description": "Search codex / shards / quests / messages",
+          "FileID": 44357,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3400/3400-1636062486-291408096.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/8340/8340-1684269882-418357170.jpeg",
           "IsNSFW": false,
-          "ModID": 3400,
-          "Name": "Filter Saves by Lifepath and Type",
+          "ModID": 8340,
+          "Name": "Find-EX",
           "Version": "1.0.0"
         }
       }
@@ -2345,21 +1757,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "TVa8+PE9oPA=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4250\nfileID=28970",
-        "Name": "Restored Crafting Specs-4250-1-6-1-1664110113.zip",
-        "Size": 2751,
+        "Hash": "IFZ3Vn1+llE=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2861\nfileID=36680",
+        "Name": "Sensible Stamina and Athletics-2861-1-7-0-1672834105.zip",
+        "Size": 7790,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "apart",
-          "Description": "Restores some Crafting Specs.",
-          "FileID": 28970,
+          "Author": "RMK",
+          "Description": "Increases stamina costs for all actions so that you have to think about stamina, which makes stamina-related perks useful. Also awards Athletics XP based on stamina use (much more than base game), giving more XP for longer \u0022workouts\u0022.",
+          "FileID": 36680,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4250/4250-1648715907-1625061823.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2861/2861-1624821833-1121763156.jpeg",
           "IsNSFW": false,
-          "ModID": 4250,
-          "Name": "Restored Crafting Specs",
-          "Version": "1.6.1"
+          "ModID": 2861,
+          "Name": "Sensible Stamina and Athletics",
+          "Version": "1.4.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Kgq11GTBOG0=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4310\nfileID=27735",
+        "Name": "Berserk Fix-4310-1-2-1662583731.zip",
+        "Size": 3031,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TeslaCoiled",
+          "Description": "The purpose of this mod is to fix the armor, melee damage, and resistance values for the Berserk Cyberware.",
+          "FileID": 27735,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4310/4310-1649473542-1877620943.png",
+          "IsNSFW": false,
+          "ModID": 4310,
+          "Name": "Berserk Fix",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rIavhExtjyg=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2913\nfileID=43100",
+        "Name": "Simple Flashlight 2.4-2913-2-4-1682278990.zip",
+        "Size": 93056,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "keanuWheeze",
+          "Description": "Adds a simple toggleable flashlight to the game.",
+          "FileID": 43100,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2913/2913-1626364366-685442978.png",
+          "IsNSFW": false,
+          "ModID": 2913,
+          "Name": "Simple Flashlight",
+          "Version": "2.2"
         }
       }
     },
@@ -2408,63 +1862,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "IFZ3Vn1+llE=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2861\nfileID=36680",
-        "Name": "Sensible Stamina and Athletics-2861-1-7-0-1672834105.zip",
-        "Size": 7790,
+        "Hash": "d+0nibsTISs=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4378\nfileID=44623",
+        "Name": "Enhanced Craft-4378-2-2-2-1684676560.zip",
+        "Size": 70106,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DJ_Kovrik",
+          "Description": "Extends default crafting capabilities allowing you to choose clothes and weapons skins, plus weapons damage type and name while crafting.",
+          "FileID": 44623,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4378/4378-1650380270-1577618708.png",
+          "IsNSFW": false,
+          "ModID": 4378,
+          "Name": "Enhanced Craft",
+          "Version": "2.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2ivuzQ02iSA=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3096\nfileID=36753",
+        "Name": "Custom Quickslots-3096-3-7-3-1672944905.zip",
+        "Size": 37946,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "RMK",
-          "Description": "Increases stamina costs for all actions so that you have to think about stamina, which makes stamina-related perks useful. Also awards Athletics XP based on stamina use (much more than base game), giving more XP for longer \u0022workouts\u0022.",
-          "FileID": 36680,
+          "Description": "Adds custom quickslots/hotkeys to the bottom of the screen for consumables, grenades, and cyberware abilities. Fully configurable with in-game menu. Supports controllers and keyboard/mouse.",
+          "FileID": 36753,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2861/2861-1624821833-1121763156.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3096/3096-1630159068-2104850503.png",
           "IsNSFW": false,
-          "ModID": 2861,
-          "Name": "Sensible Stamina and Athletics",
-          "Version": "1.4.1"
+          "ModID": 3096,
+          "Name": "Custom Quickslots for Consumables Grenades and Cyberware Abilities",
+          "Version": "3.3.4"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VAAxhdIb6A8=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=8340\nfileID=44357",
-        "Name": "Find-EX-8340-1-0-0-1684270100.zip",
-        "Size": 6117,
+        "Hash": "3vlFvDmRTz8=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4997\nfileID=28042",
+        "Name": "Ranged Attack Speed Damage Fix-4997-2-0-1663093096.zip",
+        "Size": 1641,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "psiberx",
-          "Description": "Search codex / shards / quests / messages",
-          "FileID": 44357,
+          "Author": "The Cyberpunk THING Team",
+          "Description": "Fixes ranged damage decreasing when attacks per second increases.",
+          "FileID": 28042,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/8340/8340-1684269882-418357170.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4997/4997-1660521113-269297091.png",
           "IsNSFW": false,
-          "ModID": 8340,
-          "Name": "Find-EX",
-          "Version": "1.0.0"
+          "ModID": 4997,
+          "Name": "Ranged Attack Speed Damage Fix",
+          "Version": "2.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Kgq11GTBOG0=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4310\nfileID=27735",
-        "Name": "Berserk Fix-4310-1-2-1662583731.zip",
-        "Size": 3031,
+        "Hash": "QEogDMKsi48=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3801\nfileID=38595",
+        "Name": "Stop spam v1.1.1-3801-1-1-1-1675470507.zip",
+        "Size": 1680,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TeslaCoiled",
-          "Description": "The purpose of this mod is to fix the armor, melee damage, and resistance values for the Berserk Cyberware.",
-          "FileID": 27735,
+          "Author": "anygoodname",
+          "Description": "Stop the car and apartment deals spam!",
+          "FileID": 38595,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4310/4310-1649473542-1877620943.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3801/3801-1643922630-47687920.png",
           "IsNSFW": false,
-          "ModID": 4310,
-          "Name": "Berserk Fix",
-          "Version": "1.2"
+          "ModID": 3801,
+          "Name": "Stop spammers",
+          "Version": "1.1.0"
         }
       }
     },
@@ -2513,84 +1988,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "2ivuzQ02iSA=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3096\nfileID=36753",
-        "Name": "Custom Quickslots-3096-3-7-3-1672944905.zip",
-        "Size": 37946,
+        "Hash": "xuhFc72e/DI=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3661\nfileID=36683",
+        "Name": "Challenging Breach Minigame-3661-1-2-0-1672834414.zip",
+        "Size": 14098,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "RMK",
-          "Description": "Adds custom quickslots/hotkeys to the bottom of the screen for consumables, grenades, and cyberware abilities. Fully configurable with in-game menu. Supports controllers and keyboard/mouse.",
-          "FileID": 36753,
+          "Description": "Make the Breach minigame more challenging by having the timer start immediately and shortening the timer length. Completely configurable in-game! (Previously released as part of Level Scaling \u0026amp; Balance)",
+          "FileID": 36683,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3096/3096-1630159068-2104850503.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3661/3661-1640979999-1529634478.png",
           "IsNSFW": false,
-          "ModID": 3096,
-          "Name": "Custom Quickslots for Consumables Grenades and Cyberware Abilities",
-          "Version": "3.3.4"
+          "ModID": 3661,
+          "Name": "Challenging Breach Minigame",
+          "Version": "1.1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "F99VShTOwTs=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4408\nfileID=25359",
-        "Name": "SDO - Scissors Difficulty Options-4408-1-1-1654146164.zip",
-        "Size": 14133,
+        "Hash": "cVaHIGGE86Y=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4658\nfileID=25673",
+        "Name": "Vehicle Summon Tweaks - Repair Cost-4658-1-0-0-1655396716.zip",
+        "Size": 715,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Scissors",
-          "Description": "Adds various options for increasing the difficulty of the game.",
-          "FileID": 25359,
+          "Author": "DJ_Kovrik",
+          "Description": "A few minor tweaks to vehicle summon system: increased repair cost, decreased summon distances, paid vehicle calls and dismissing.",
+          "FileID": 25673,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4408/4408-1650995192-85998069.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4658/4658-1655396615-742367094.png",
           "IsNSFW": false,
-          "ModID": 4408,
-          "Name": "SDO - Scissors Difficulty Options",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "bRzvwhSOG3M=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3543\nfileID=33279",
-        "Name": "Zoomable Scopes 1.3-3543-1-3-1668426536.zip",
-        "Size": 10113,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "keanuWheeze",
-          "Description": "Adds configurable zoom levels to scoped weapons, that can be cycled through.",
-          "FileID": 33279,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3543/3543-1638658565-1692665035.png",
-          "IsNSFW": false,
-          "ModID": 3543,
-          "Name": "Zoomable Scopes",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "U7RC0MEh5zA=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2675\nfileID=32756",
-        "Name": "ifp-1.3.0-2675-1-3-0-1667749142.zip",
-        "Size": 20559,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Bonaniki",
-          "Description": "Improved body presence and free look.",
-          "FileID": 32756,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2675/2675-1625341587-429628205.jpeg",
-          "IsNSFW": false,
-          "ModID": 2675,
-          "Name": "Immersive First Person",
-          "Version": "1.2.1"
+          "ModID": 4658,
+          "Name": "Vehicle Summon Tweaks",
+          "Version": "1.2.0"
         }
       }
     },
@@ -2681,42 +2114,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cVaHIGGE86Y=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4658\nfileID=25673",
-        "Name": "Vehicle Summon Tweaks - Repair Cost-4658-1-0-0-1655396716.zip",
-        "Size": 715,
+        "Hash": "Cw6mixzjFSE=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2805\nfileID=36692",
+        "Name": "Clear Skill Checks-2805-1-1-0-1672835349.zip",
+        "Size": 1755,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DJ_Kovrik",
-          "Description": "A few minor tweaks to vehicle summon system: increased repair cost, decreased summon distances, paid vehicle calls and dismissing.",
-          "FileID": 25673,
+          "Author": "RMK",
+          "Description": "A small mod that shows you what attribute level you needed for conversation skill checks that you pass (normally the game just shows your current attribute level).",
+          "FileID": 36692,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4658/4658-1655396615-742367094.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2805/2805-1623448359-1404834243.jpeg",
           "IsNSFW": false,
-          "ModID": 4658,
-          "Name": "Vehicle Summon Tweaks",
-          "Version": "1.2.0"
+          "ModID": 2805,
+          "Name": "Clear Skill Checks",
+          "Version": "1.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XXRe6yW0PyM=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3225\nfileID=27140",
-        "Name": "Extra Vehicle Controls 2.0 Hotfix-3225-2-0h-1660752972.zip",
-        "Size": 14552,
+        "Hash": "i0LTa88RH2k=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=1727\nfileID=42639",
+        "Name": "Muted Markers-1727-1-9-1-1681646778.zip",
+        "Size": 18728,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "keanuWheeze",
-          "Description": "Small mod that adds Controls for Headlights On/Off, Headlights Brightness and Vehicle Windows Opened/Closed.",
-          "FileID": 27140,
+          "Author": "DJ_Kovrik",
+          "Description": "Allows to tweak some interaction and loot markers visibility behavior.",
+          "FileID": 42639,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3225/3225-1632605727-725276434.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/1727/1727-1613765321-788379019.jpeg",
           "IsNSFW": false,
-          "ModID": 3225,
-          "Name": "Extra Vehicle Controls",
-          "Version": "2.0h"
+          "ModID": 1727,
+          "Name": "Muted Markers",
+          "Version": "1.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6wKLi9pkc7I=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4070\nfileID=36682",
+        "Name": "Silent Silencers and Throwing Knives-4070-1-4-0-1672834335.zip",
+        "Size": 17367,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RMK",
+          "Description": "Stops combat from auto-triggering when you use a silenced gun or throwing knife. Lets you use those weapons from stealth even when you don\u0027t one-shot kill enemies.",
+          "FileID": 36682,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4070/4070-1646782673-771956312.jpeg",
+          "IsNSFW": false,
+          "ModID": 4070,
+          "Name": "Silent Silencers and Throwing Knives",
+          "Version": "1.1.1"
         }
       }
     },
@@ -2807,21 +2261,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6wKLi9pkc7I=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4070\nfileID=36682",
-        "Name": "Silent Silencers and Throwing Knives-4070-1-4-0-1672834335.zip",
-        "Size": 17367,
+        "Hash": "u/cy64InxK4=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=5013\nfileID=27207",
+        "Name": "Extended and Improved Headlights 1.1-5013-1-1-1661016001.zip",
+        "Size": 11727,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RMK",
-          "Description": "Stops combat from auto-triggering when you use a silenced gun or throwing knife. Lets you use those weapons from stealth even when you don\u0027t one-shot kill enemies.",
-          "FileID": 36682,
+          "Author": "keanuWheeze",
+          "Description": "This mod lets you tweak the range, brightness and durability of vehicle headlights",
+          "FileID": 27207,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4070/4070-1646782673-771956312.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/5013/5013-1660754666-56746469.png",
           "IsNSFW": false,
-          "ModID": 4070,
-          "Name": "Silent Silencers and Throwing Knives",
-          "Version": "1.1.1"
+          "ModID": 5013,
+          "Name": "Extended and Improved Headlights",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TUvnNBbJ2XI=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=5055\nfileID=27268",
+        "Name": "Cyberdeck Tweaks-5055-1-0-1661192112.zip",
+        "Size": 33928,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Cyberpunk THING Team",
+          "Description": "This mod provides balancing and configuration options for Cyberdecks.",
+          "FileID": 27268,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/5055/5055-1661191623-954366220.png",
+          "IsNSFW": false,
+          "ModID": 5055,
+          "Name": "Cyberdeck Tweaks",
+          "Version": "1.0"
         }
       }
     },
@@ -2870,20 +2345,62 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "u/cy64InxK4=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=5013\nfileID=27207",
-        "Name": "Extended and Improved Headlights 1.1-5013-1-1-1661016001.zip",
-        "Size": 11727,
+        "Hash": "Ke/cEfGnKSU=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4519\nfileID=25360",
+        "Name": "Simple Gameplay Bug Fixes-4519-1-0-1654146957.zip",
+        "Size": 10348,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Scissors",
+          "Description": "Collection of simple bug fixes for Cyberpunk\u0027s gameplay.",
+          "FileID": 25360,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4519/4519-1654146711-984225078.jpeg",
+          "IsNSFW": false,
+          "ModID": 4519,
+          "Name": "Simple Gameplay Bug Fixes",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XXRe6yW0PyM=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3225\nfileID=27140",
+        "Name": "Extra Vehicle Controls 2.0 Hotfix-3225-2-0h-1660752972.zip",
+        "Size": 14552,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "keanuWheeze",
-          "Description": "This mod lets you tweak the range, brightness and durability of vehicle headlights",
-          "FileID": 27207,
+          "Description": "Small mod that adds Controls for Headlights On/Off, Headlights Brightness and Vehicle Windows Opened/Closed.",
+          "FileID": 27140,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/5013/5013-1660754666-56746469.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3225/3225-1632605727-725276434.png",
           "IsNSFW": false,
-          "ModID": 5013,
-          "Name": "Extended and Improved Headlights",
+          "ModID": 3225,
+          "Name": "Extra Vehicle Controls",
+          "Version": "2.0h"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "F99VShTOwTs=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4408\nfileID=25359",
+        "Name": "SDO - Scissors Difficulty Options-4408-1-1-1654146164.zip",
+        "Size": 14133,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Scissors",
+          "Description": "Adds various options for increasing the difficulty of the game.",
+          "FileID": 25359,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4408/4408-1650995192-85998069.png",
+          "IsNSFW": false,
+          "ModID": 4408,
+          "Name": "SDO - Scissors Difficulty Options",
           "Version": "1.1"
         }
       }
@@ -2891,21 +2408,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "htzzXN7jQ5M=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3518\nfileID=44257",
-        "Name": "Native Settings UI 1.93-3518-1-93-1684086753.zip",
-        "Size": 14887,
+        "Hash": "bRzvwhSOG3M=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3543\nfileID=33279",
+        "Name": "Zoomable Scopes 1.3-3543-1-3-1668426536.zip",
+        "Size": 10113,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "keanuWheeze",
-          "Description": "This mod allows other mods to easily add settings menus using only native UI, thus looking like the games settings menu",
-          "FileID": 44257,
+          "Description": "Adds configurable zoom levels to scoped weapons, that can be cycled through.",
+          "FileID": 33279,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3518/3518-1638213207-1484439585.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3543/3543-1638658565-1692665035.png",
           "IsNSFW": false,
-          "ModID": 3518,
-          "Name": "Native Settings UI",
-          "Version": "1.3"
+          "ModID": 3543,
+          "Name": "Zoomable Scopes",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "U7RC0MEh5zA=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2675\nfileID=32756",
+        "Name": "ifp-1.3.0-2675-1-3-0-1667749142.zip",
+        "Size": 20559,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Bonaniki",
+          "Description": "Improved body presence and free look.",
+          "FileID": 32756,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2675/2675-1625341587-429628205.jpeg",
+          "IsNSFW": false,
+          "ModID": 2675,
+          "Name": "Immersive First Person",
+          "Version": "1.2.1"
         }
       }
     },
@@ -2996,21 +2534,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Ke/cEfGnKSU=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4519\nfileID=25360",
-        "Name": "Simple Gameplay Bug Fixes-4519-1-0-1654146957.zip",
-        "Size": 10348,
+        "Hash": "hp/M1zfxXg0=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2729\nfileID=28479",
+        "Name": "flib\u0027s UI Improvements-2729-1-6-0-1663626480.zip",
+        "Size": 15314,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Scissors",
-          "Description": "Collection of simple bug fixes for Cyberpunk\u0027s gameplay.",
-          "FileID": 25360,
+          "Author": "flib",
+          "Description": "A collection of quality-of-life UI improvements.\n\n Sorting your quests, messages and shards. \n\n Vehicle preview images on ride quests.\n\n Never lose your iconics.",
+          "FileID": 28479,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4519/4519-1654146711-984225078.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2729/2729-1622924463-1692886879.png",
           "IsNSFW": false,
-          "ModID": 4519,
-          "Name": "Simple Gameplay Bug Fixes",
-          "Version": "1.0"
+          "ModID": 2729,
+          "Name": "flib\u0027s UI Improvements",
+          "Version": "1.3.1"
         }
       }
     },
@@ -3038,21 +2576,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "OfF/KCxVTiQ=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=6328\nfileID=33397",
-        "Name": "Untrack Quest Ultimate 2.1.2-6328-2-1-2-1668631708.zip",
-        "Size": 7404,
+        "Hash": "C5JmMfYwQ7o=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7322\nfileID=38578",
+        "Name": "Immersive Food Vendors-7322-1-0-0-1675449645.zip",
+        "Size": 384784,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "anygoodname",
-          "Description": "Simple and easy instant quest untrack.\n\nTrack back if needed.",
-          "FileID": 33397,
+          "Author": "Deceptious",
+          "Description": "Adds a little immersion to all the food vendors you can buy food from, you can now actually have animated snack when visiting them!",
+          "FileID": 38578,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/6328/6328-1667932996-1343955430.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7322/7322-1675449279-989084394.png",
           "IsNSFW": false,
-          "ModID": 6328,
-          "Name": "Untrack Quest Ultimate - No leftovers",
-          "Version": "2.1.1"
+          "ModID": 7322,
+          "Name": "Immersive Food Vendors",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+nn+jUnxM5A=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=6276\nfileID=42390",
+        "Name": "Apartment Cats - The Glen (Nali)-6276-1-1-2-1681254976.zip",
+        "Size": 144644,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deceptious",
+          "Description": "Adds a new feline companion (Nali) to The Glen apartment. Includes 12 different spots for Nali to use, as well as the option to pet him the same way as in the Pet The Cat mod.",
+          "FileID": 42390,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/6276/6276-1667583751-995319411.png",
+          "IsNSFW": false,
+          "ModID": 6276,
+          "Name": "Apartment Cats - The Glen (Nali)",
+          "Version": "1.0"
         }
       }
     },
@@ -3095,48 +2654,6 @@
           "ModID": 5298,
           "Name": "Stash Filters",
           "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Mjhz9dHG8l0=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7043\nfileID=44118",
-        "Name": "More Climbable Objects-7043-1-01-1683736302.rar",
-        "Size": 3200,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SOSUINEPSIXUYU",
-          "Description": "Basically allows you to climb more objects. \n\n      ***Fully compatible with any mod***",
-          "FileID": 44118,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7043/7043-1673283298-209384307.png",
-          "IsNSFW": false,
-          "ModID": 7043,
-          "Name": "More Climbable Objects",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cpvH/CRrlDY=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=5075\nfileID=27755",
-        "Name": "adaptiveSliders20220907-5075-2022-09-07-1662609369.7z",
-        "Size": 1412,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DeepBlueFrog",
-          "Description": "Sets items sliders to max by default for Drop, Stash and Sell actions.",
-          "FileID": 27755,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/5075/5075-1661526566-524916597.png",
-          "IsNSFW": false,
-          "ModID": 5075,
-          "Name": "Adaptive Sliders",
-          "Version": "2022-08-26"
         }
       }
     },
@@ -3206,21 +2723,126 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "pV2b7CJVLgs=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4899\nfileID=26581",
-        "Name": "No Deflect Slomo-4899-1-0-1658787065.zip",
-        "Size": 1055,
+        "Hash": "TeUX0zwrIeI=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7353\nfileID=39456",
+        "Name": "No Crowd panic from devices CET 1.2.0-7353-1-2-0-1676631159.zip",
+        "Size": 1912,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Scissors",
-          "Description": "Removes the slowdown when deflecting attacks.",
-          "FileID": 26581,
+          "Author": "anygoodname",
+          "Description": "No more crowd panic form using computers, doors, access points, etc.",
+          "FileID": 39456,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4899/4899-1658786951-486658550.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7353/7353-1675713996-1953738798.png",
           "IsNSFW": false,
-          "ModID": 4899,
-          "Name": "No Deflect Slomo",
+          "ModID": 7353,
+          "Name": "Immersion patch - No crowd panic form using devices.",
+          "Version": "1.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "htzzXN7jQ5M=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3518\nfileID=44257",
+        "Name": "Native Settings UI 1.93-3518-1-93-1684086753.zip",
+        "Size": 14887,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "keanuWheeze",
+          "Description": "This mod allows other mods to easily add settings menus using only native UI, thus looking like the games settings menu",
+          "FileID": 44257,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3518/3518-1638213207-1484439585.png",
+          "IsNSFW": false,
+          "ModID": 3518,
+          "Name": "Native Settings UI",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Mjhz9dHG8l0=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7043\nfileID=44118",
+        "Name": "More Climbable Objects-7043-1-01-1683736302.rar",
+        "Size": 3200,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SOSUINEPSIXUYU",
+          "Description": "Basically allows you to climb more objects. \n\n      ***Fully compatible with any mod***",
+          "FileID": 44118,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7043/7043-1673283298-209384307.png",
+          "IsNSFW": false,
+          "ModID": 7043,
+          "Name": "More Climbable Objects",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cpvH/CRrlDY=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=5075\nfileID=27755",
+        "Name": "adaptiveSliders20220907-5075-2022-09-07-1662609369.7z",
+        "Size": 1412,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DeepBlueFrog",
+          "Description": "Sets items sliders to max by default for Drop, Stash and Sell actions.",
+          "FileID": 27755,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/5075/5075-1661526566-524916597.png",
+          "IsNSFW": false,
+          "ModID": 5075,
+          "Name": "Adaptive Sliders",
+          "Version": "2022-08-26"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8uAj+zqLHQQ=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7360\nfileID=38867",
+        "Name": "No Crowd panic from stealth activity CET 1.0.0-7360-1-0-0--1675797226.zip",
+        "Size": 2316,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "anygoodname",
+          "Description": "No more crowd panic caused by stealth grab takedowns or body pickups.",
+          "FileID": 38867,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7360/7360-1675795723-2079132115.png",
+          "IsNSFW": false,
+          "ModID": 7360,
+          "Name": "Immersion patch - No crowd panic from stealth activity",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ZPzfWuctXYo=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4317\nfileID=36782",
+        "Name": "Toxicity-4317-1-1-1-1672960081.zip",
+        "Size": 26772,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RMK",
+          "Description": "Using healing items builds up your \u0022Toxicity\u0022 until you \u0022Overdose\u0022, requiring you to wait for the effect to wear off before using more inhalers/injectors.",
+          "FileID": 36782,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4317/4317-1649513831-1846638902.jpeg",
+          "IsNSFW": false,
+          "ModID": 4317,
+          "Name": "Toxicity",
+          "Version": "1.0.2"
         }
       }
     },
@@ -3269,6 +2891,363 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "KfK9VOp4EXo=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7428\nfileID=39314",
+        "Name": "mq007_skippy_scenes_patch CET 1.0.0-7428-1-0-0-1676391123.zip",
+        "Size": 2102,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "anygoodname",
+          "Description": "This mod restores missing animations in the Skippy quest episodes.",
+          "FileID": 39314,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7428/7428-1676421145-1963309327.png",
+          "IsNSFW": false,
+          "ModID": 7428,
+          "Name": "Immersion patch - Skippy animations restore",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OfF/KCxVTiQ=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=6328\nfileID=33397",
+        "Name": "Untrack Quest Ultimate 2.1.2-6328-2-1-2-1668631708.zip",
+        "Size": 7404,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "anygoodname",
+          "Description": "Simple and easy instant quest untrack.\n\nTrack back if needed.",
+          "FileID": 33397,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/6328/6328-1667932996-1343955430.png",
+          "IsNSFW": false,
+          "ModID": 6328,
+          "Name": "Untrack Quest Ultimate - No leftovers",
+          "Version": "2.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9SW+9U7EJeQ=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=5968\nfileID=31193",
+        "Name": "Better Kyubi Sights-5968-1-0-1666092498.zip",
+        "Size": 13658,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Busy Oscar",
+          "Description": "A simple mod that removes the small red dots on the rear sights to provide better clarity and focus.",
+          "FileID": 31193,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/5968/5968-1666092538-1704794733.png",
+          "IsNSFW": false,
+          "ModID": 5968,
+          "Name": "Better Kyubi Sights",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BPvyBTkF3kE=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7203\nfileID=41698",
+        "Name": "Immersive Bartenders-7203-1-1-3-1680045394.zip",
+        "Size": 552484,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deceptious",
+          "Description": "Adds a little immersion to all the bartenders you can buy drinks from, you can now actually have animated drinks at their bars",
+          "FileID": 41698,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7203/7203-1674498696-1729077427.png",
+          "IsNSFW": false,
+          "ModID": 7203,
+          "Name": "Immersive Bartenders",
+          "Version": "1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "w/gKLF7mGhA=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4870\nfileID=42386",
+        "Name": "River Romanced Enhanced-4870-1-3-3-1681254593.zip",
+        "Size": 502337,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deceptious",
+          "Description": "River now Eats, Drinks, Sleeps and Worksout around Joss\u0027 family trailer; if you have romanced him he also Showers, and V can hug him at any of his activity spots. Joss\u0027 kids are also fixed so they actually sleep now! They also play in their bedroom and in the main hallway area. Also fixes broken audio in River\u0027s holocalls",
+          "FileID": 42386,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4870/4870-1658252551-1544504937.png",
+          "IsNSFW": false,
+          "ModID": 4870,
+          "Name": "River Romanced Enhanced (and general fixes)",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7CPe8U7Ih04=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=5620\nfileID=31178",
+        "Name": "Smart Auto Switching-5620-v1-0-1666053089.zip",
+        "Size": 1294,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Raumfliege",
+          "Description": "Disables auo switching for thrown knifes.",
+          "FileID": 31178,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/5620/5620-1664904867-372797556.png",
+          "IsNSFW": false,
+          "ModID": 5620,
+          "Name": "Disable Auto Switching for Throwing Knives",
+          "Version": "v1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ipdZN+dBBEQ=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=1712\nfileID=34291",
+        "Name": "Damage Scaling-1712-3-4-0-1669585625.zip",
+        "Size": 16474,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RMK",
+          "Description": "Separate files to \n\n1) add NPC level scaling (multiple options), \n\n2) give NPCs damage reduction (like armor) - configurable in game",
+          "FileID": 34291,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/1712/1712-1613701053-1403782252.jpeg",
+          "IsNSFW": false,
+          "ModID": 1712,
+          "Name": "Level Scaling and Balance",
+          "Version": "3.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QgtQe3NXPAg=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7413\nfileID=39215",
+        "Name": "sq021_randy_pc_scene_patch CET 1.0.0-7413-1-0-0-1676235273.zip",
+        "Size": 2694,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "anygoodname",
+          "Description": "This mod restores missing crucial clue audio playback in The Hunt quest",
+          "FileID": 39215,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7413/7413-1676236580-560839341.png",
+          "IsNSFW": false,
+          "ModID": 7413,
+          "Name": "Immersion patch - The Hunt quest missing audio restore",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Uqm//n3w2lc=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4389\nfileID=24304",
+        "Name": "healthbar off (removes just the healthbar)-4389-1-0-1650568033.zip",
+        "Size": 36170,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kratoes",
+          "Description": "removes the healthbar above enemy heads (also removes a lot of other stuff)",
+          "FileID": 24304,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4389/4389-1650567229-1540680518.png",
+          "IsNSFW": false,
+          "ModID": 4389,
+          "Name": "(enemy healthbars) begone",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KzCzu5yJ8/M=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=6365\nfileID=33233",
+        "Name": "Vanilla menu but smaller items-6365-1-1668350107.zip",
+        "Size": 67527,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ctxrlsec",
+          "Description": "I made this because it bothers me lol. \n\n\n\nScales the menu smaller to work better with mods that adds extra menu items and removes unnecessary things",
+          "FileID": 33233,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/6365/6365-1668341533-1659614347.png",
+          "IsNSFW": false,
+          "ModID": 6365,
+          "Name": "Better Main Menu",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Do+Bmbosakc=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7158\nfileID=44386",
+        "Name": "Quasar and Burya Sights Fix Double-Pack-7158-1-1-1684354403.rar",
+        "Size": 532858,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NeHooYeY",
+          "Description": "Quick fix for holo sights.",
+          "FileID": 44386,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7158/7158-1674116023-1279750008.png",
+          "IsNSFW": false,
+          "ModID": 7158,
+          "Name": "RT-46 Burya and DR-12 Quasar Sights Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "H58D7gASHUs=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3314\nfileID=17573",
+        "Name": "Disable Highlighting Through Walls-3314-1-0-1634365196.zip",
+        "Size": 2197,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Scissors123454321",
+          "Description": "Disables the red highlight effect on enemies from showing up through walls.",
+          "FileID": 17573,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3314/3314-1634365064-1690125371.png",
+          "IsNSFW": false,
+          "ModID": 3314,
+          "Name": "Disable Highlighting Through Walls",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pV2b7CJVLgs=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4899\nfileID=26581",
+        "Name": "No Deflect Slomo-4899-1-0-1658787065.zip",
+        "Size": 1055,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Scissors",
+          "Description": "Removes the slowdown when deflecting attacks.",
+          "FileID": 26581,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4899/4899-1658786951-486658550.png",
+          "IsNSFW": false,
+          "ModID": 4899,
+          "Name": "No Deflect Slomo",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "e4DktqrQuXc=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4361\nfileID=24157",
+        "Name": "Annoy me no more-4361-1-0-1650125463.zip",
+        "Size": 94273,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kratoes",
+          "Description": "removes the \u0022entering new area\u0022 notification every time you enter a location new or not",
+          "FileID": 24157,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4361/4361-1650119283-863916878.png",
+          "IsNSFW": false,
+          "ModID": 4361,
+          "Name": "(entering new area) be gone",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tHZqVvWZcAA=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7064\nfileID=42384",
+        "Name": "Immersive Rippers-7064-1-1-2-1681254469.zip",
+        "Size": 1768236,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deceptious",
+          "Description": "Adds a little immersion to all the rippers such that you now sit in their chairs to get work done. Fingers can be paid as an apology and regain access to his services.",
+          "FileID": 42384,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7064/7064-1673471906-844026640.png",
+          "IsNSFW": false,
+          "ModID": 7064,
+          "Name": "Immersive Rippers",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "10c5YkA8X0k=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=6879\nfileID=36075",
+        "Name": "More Inventory Filters-6879-1-0-0-1671927927.zip",
+        "Size": 3277,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Darkelf44",
+          "Description": "Adds more filters to your inventory, your stash\u0027s inventory, and to most vendors inventory.",
+          "FileID": 36075,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/6879/6879-1671927643-142794498.png",
+          "IsNSFW": false,
+          "ModID": 6879,
+          "Name": "More Inventory Filters",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HyfK8ofnIEE=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=5434\nfileID=30172",
+        "Name": "Only Smartweapon Crosshairs 1.0h-5434-1-0h-1665159510.zip",
+        "Size": 3436,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "keanuWheeze",
+          "Description": "A simple mod that disables the crosshair for all weapons except for smartweapons. Optionally lets you toggle the crosshair for the Monowire, Gorilla Arms and Projectile Launcher.",
+          "FileID": 30172,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/5434/5434-1664287656-1798962771.png",
+          "IsNSFW": false,
+          "ModID": 5434,
+          "Name": "Only Smartweapon Crosshairs",
+          "Version": "1.0h"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "zYD/o5dejOk=",
         "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3136\nfileID=20336",
         "Name": "Simple XP Multiplier-3136-2-2-1645050676.zip",
@@ -3284,6 +3263,111 @@
           "ModID": 3136,
           "Name": "Simple XP Multiplier",
           "Version": "2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fKsdN1ITU4E=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4395\nfileID=24356",
+        "Name": "removes safe area only-4395-1-0-1650663130.zip",
+        "Size": 42143,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kratoes",
+          "Description": "removes the (safe area) notification everytime you enter a safe area",
+          "FileID": 24356,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4395/4395-1650663049-549039516.png",
+          "IsNSFW": false,
+          "ModID": 4395,
+          "Name": "(safe area) be gone",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "G9TZC0Hk60k=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=535\nfileID=31106",
+        "Name": "Crouch vignette effect remover-535-2-1665998718.zip",
+        "Size": 2024,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OREZXX",
+          "Description": "Removes the  useless Crouch vignette effect",
+          "FileID": 31106,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/535/535-1609011926-1879926929.jpeg",
+          "IsNSFW": false,
+          "ModID": 535,
+          "Name": "Crouch vignette effect remover",
+          "Version": "1.0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FQro4HEr6y0=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=6794\nfileID=41696",
+        "Name": "Immersive Vik-6794-1-2-0-1680042195.zip",
+        "Size": 42030,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Deceptious",
+          "Description": "Adds some immersion when visiting your favourite Ripperdoc. V now actually uses the ripper\u0027s chair when getting chrome/appearance work done. Vik is animated for it.",
+          "FileID": 41696,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/6794/6794-1671207161-1910542157.png",
+          "IsNSFW": false,
+          "ModID": 6794,
+          "Name": "Immersive Vik",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "w+dq0eXMAV0=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=8067\nfileID=42495",
+        "Name": "Iron-8067-1-1681444333.zip",
+        "Size": 40619,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Me",
+          "Description": "If you wish to have 3 less bugs in Cyberpunk, I have fixed 3 bugs on this weapon: silencer position, iron sights ghosting, iron sights texture glitch.",
+          "FileID": 42495,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/8067/8067-1681415296-1750291279.png",
+          "IsNSFW": false,
+          "ModID": 8067,
+          "Name": "Shigure Weapon Bugs Fix",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fHpiD4NSQEk=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=5533\nfileID=29486",
+        "Name": "ImprovedSlide-5533-1-0-1664624409.rar",
+        "Size": 857,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "zouzoulle",
+          "Description": "Enables side sliding. Much more flexibility on the slide\u0027s trajectory. Improves camera control when sliding. Prevents stairs and small obstacles like sidewalks from canceling the slide.",
+          "FileID": 29486,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/5533/5533-1664624285-1872768963.png",
+          "IsNSFW": false,
+          "ModID": 5533,
+          "Name": "Improved Slide",
+          "Version": "1.0"
         }
       }
     }
