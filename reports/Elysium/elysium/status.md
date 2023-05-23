@@ -1317,7 +1317,7 @@
 *  [Kabu's Fire Salts - BS Bruma Patch 1k-79455-1-4-1680941478.rar](https://www.nexusmods.com/skyrimspecialedition/mods/79455/?tab=files&file_id=376279)
 *  [Kabu's Fire Salts 1k-79455-1-4-1680940199.rar](https://www.nexusmods.com/skyrimspecialedition/mods/79455/?tab=files&file_id=376273)
 *  [Kabu's Fire Salts 2k - Default - Orange Glow-79455-1-4-1680940084.rar](https://www.nexusmods.com/skyrimspecialedition/mods/79455/?tab=files&file_id=376271)
-*  [Kabu's Really Gourd Plant Replacer 2k-1k-90824-1-4-1684794412.rar](https://www.nexusmods.com/skyrimspecialedition/mods/90824/?tab=files&file_id=391023)
+*  [Kabu's Really Gourd Plant Replacer 2k-1k-90824-1-4a-1684805689.rar](https://www.nexusmods.com/skyrimspecialedition/mods/90824/?tab=files&file_id=391079)
 *  [kagrumez gems 1K-46531-1-2-1616070717.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46531/?tab=files&file_id=192113)
 *  [Kalilies Brows - High Poly Head-57115-1-0-1634355490.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57115/?tab=files&file_id=235053)
 *  [Kalilies Brows-40595-1-1-1600706357.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40595/?tab=files&file_id=161884)
