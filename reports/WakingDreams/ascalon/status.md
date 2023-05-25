@@ -33,7 +33,7 @@
 *  [Don't Blind Me - Unpacked (All versions)-39-1-2.7z](https://www.nexusmods.com/dragonsdogma/mods/39/?tab=files&file_id=825)
 *  [Dragon's Dogma Thematic Mod Coils of Light Version-94-3.zip](https://www.nexusmods.com/dragonsdogma/mods/94/?tab=files&file_id=1025)
 *  [Easy Clothing ID with HD Icons-479-1-0-1657868300.zip](https://www.nexusmods.com/dragonsdogma/mods/479/?tab=files&file_id=3329)
-*  [enbseries_dragonsdogma_v0476.zip](http://enbdev.com/enbseries_dragonsdogma_v0476.zip)
+*  [enbseries_dragonsdogma_v0476.zip](https://authored-files.wabbajack.org/enbseries_dragonsdogma_v0476.zip_b953921c-7076-480b-a301-060e103e371f)
 *  [End_Game_Elemental_Swords_1H_Dark_Devilsbane-857-1-0-1680021434.7z](https://www.nexusmods.com/dragonsdogma/mods/857/?tab=files&file_id=3682)
 *  [Full Compilation for Male and Female NMM-5-1-41.rar](https://www.nexusmods.com/dragonsdogma/mods/5/?tab=files&file_id=1444)
 *  [Greatsword MAX-474-v6-1-1677077612.rar](https://www.nexusmods.com/dragonsdogma/mods/474/?tab=files&file_id=3628)

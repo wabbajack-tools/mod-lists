@@ -1,8 +1,8 @@
 {
   "MachineURL": "WakingDreams/ascalon",
   "Name": "Ascalon",
-  "Version": "1.5.1",
-  "ModListHash": "CG6b5/mBgmU=",
+  "Version": "1.5.2",
+  "ModListHash": "Td4V+v3QA9k=",
   "Archives": [
     {
       "Status": "Valid",
@@ -22,15 +22,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "74h9hFiOIoU=",
-        "Meta": "[General]\ndirectURL=http://enbdev.com/enbseries_dragonsdogma_v0476.zip\ndirectURLHeaders=Referer:http://enbdev.com/download_mod_dragonsdogma.htm",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_dragonsdogma_v0476.zip_b953921c-7076-480b-a301-060e103e371f",
         "Name": "enbseries_dragonsdogma_v0476.zip",
         "Size": 1910496,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [
-            "Referer:http://enbdev.com/download_mod_dragonsdogma.htm"
-          ],
-          "Url": "http://enbdev.com/enbseries_dragonsdogma_v0476.zip"
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/enbseries_dragonsdogma_v0476.zip_b953921c-7076-480b-a301-060e103e371f"
         }
       }
     },
@@ -73,27 +70,6 @@
           "ModID": 31720,
           "Name": "Kezyma\u0027s Root Builder for Mod Organizer",
           "Version": "4.3.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tuzoSYVJYPs=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=802\nfileID=3691",
-        "Name": "Sprinting Tweaks-802-2-1680330269.7z",
-        "Size": 1098,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Maelstrom",
-          "Description": "Multiple stage project of mine that involves taking common \u0027tweaks\u0027 in DD:DA, recreating them while also providing streamlined installation instructions and merge-friendly structures in an effort to make modding easier.\n\n\n\nThis will cover Stamina Drain while Sprinting. See Description.",
-          "FileID": 3691,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/802/802-1668760974-535541697.jpeg",
-          "IsNSFW": false,
-          "ModID": 802,
-          "Name": "Maelstrom\u0027s MME Series 1 - Sprinting Stamina Drain",
-          "Version": "1.1"
         }
       }
     },
@@ -5150,6 +5126,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "tuzoSYVJYPs=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=802\nfileID=3691",
+        "Name": "Sprinting Tweaks-802-2-1680330269.7z",
+        "Size": 1098,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Maelstrom",
+          "Description": "Multiple stage project of mine that involves taking common \u0027tweaks\u0027 in DD:DA, recreating them while also providing streamlined installation instructions and merge-friendly structures in an effort to make modding easier.\n\n\n\nThis will cover Stamina Drain while Sprinting. See Description.",
+          "FileID": 3691,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/802/802-1668760974-535541697.jpeg",
+          "IsNSFW": false,
+          "ModID": 802,
+          "Name": "Maelstrom\u0027s MME Series 1 - Sprinting Stamina Drain",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "QK3pfjK6GYU=",
         "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\stage\\stage200\\stage210_nav.arc",
         "Name": "nativePC_rom_stage_stage200_stage210_nav.arc",
@@ -9850,27 +9847,6 @@
           "GameFile": "nativePC\\rom\\bbsrpg_core.arc",
           "GameVersion": "1,0,0,0",
           "Hash": "fqpqnbEbh/4="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "d/dqdOensKw=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=804\nfileID=3693",
-        "Name": "Quest Reward Tweaks-804-2-1680331278.7z",
-        "Size": 3206,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Maelstrom",
-          "Description": "Multiple stage project of mine that involves taking common \u0027tweaks\u0027 in DD:DA, recreating them while also providing streamlined installation instructions and merge-friendly structures in an effort to make modding easier.\n\n\n\nThis will cover Quest Rewards. See Description. WIP.",
-          "FileID": 3693,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/804/804-1668760843-334254256.jpeg",
-          "IsNSFW": false,
-          "ModID": 804,
-          "Name": "Maelstrom\u0027s MME Series 3 - Quest Rewards",
-          "Version": "2"
         }
       }
     },
@@ -19306,6 +19282,27 @@
           "GameFile": "nativePC\\rom\\stage\\stage100\\split_way\\m60\\n50\\st100_67m52n_way.arc",
           "GameVersion": "1,0,0,0",
           "Hash": "vqp0xxqQH5o="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "d/dqdOensKw=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=804\nfileID=3693",
+        "Name": "Quest Reward Tweaks-804-2-1680331278.7z",
+        "Size": 3206,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Maelstrom",
+          "Description": "Multiple stage project of mine that involves taking common \u0027tweaks\u0027 in DD:DA, recreating them while also providing streamlined installation instructions and merge-friendly structures in an effort to make modding easier.\n\n\n\nThis will cover Quest Rewards. See Description. WIP.",
+          "FileID": 3693,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/804/804-1668760843-334254256.jpeg",
+          "IsNSFW": false,
+          "ModID": 804,
+          "Name": "Maelstrom\u0027s MME Series 3 - Quest Rewards",
+          "Version": "2"
         }
       }
     },
