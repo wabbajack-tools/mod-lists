@@ -1,12 +1,11 @@
 ## Validation Report - Aldrnari (wj-featured/aldrnari)
 
 
-### Invalid (1)
-*  [Mordhau Pack by Team TAL v1.1.7z](https://drive.google.com/uc?id=1k6i0-iqZf8ErqoCV1dX4DnwmjBKwQ5pL&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (1)
 *  [Serenity 3DNPC BSA Proper.7z](https://authored-files.wabbajack.org/Serenity 3DNPC BSA Proper.7z_fdc6bf82-2a9c-4ed1-bd1d-1408cb02ef49/)
-### Valid (2641)
+### Valid (2642)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0.0) SELUA - Solitude Exterior LOD Unlocker Advocate II-36116-1-1-1605036920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169508)
 *  [(1.1) The Great City of Solitude PATCH - Solitude Skyway SE - Drengin's Blue Palace Terrace (STD)-36116-1-1-1604648419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=168848)
@@ -1527,6 +1526,7 @@
 *  [Modpocalypse NPCs (v3) Wyrmstooth-57897-1-01-1636071342.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57897/?tab=files&file_id=239073)
 *  [Moon Crest Retexture-45788-1-2-1613859281.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45788/?tab=files&file_id=187079)
 *  [Moons and Stars - Sky Overhaul SKSE-73336-2-0-1660615613.7z](https://www.nexusmods.com/skyrimspecialedition/mods/73336/?tab=files&file_id=307873)
+*  [Mordhau Pack by Team TAL v1.1.7z](https://drive.google.com/uc?id=1k6i0-iqZf8ErqoCV1dX4DnwmjBKwQ5pL&export=download)
 *  [Mordhau Weapon Pack by Team TAL.zip](https://drive.google.com/uc?id=1BsgFAq7t1aDEjl2i8h4OHLgcYU8g_4gv&export=download)
 *  [More Dialogue Options-28905-1-3-1-1591604879.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28905/?tab=files&file_id=144440)
 *  [More Informative Console 1.0.1 SE-19250-1-0-1-1653434078.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=286245)

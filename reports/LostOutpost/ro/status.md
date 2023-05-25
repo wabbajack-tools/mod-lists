@@ -1,11 +1,10 @@
 ## Validation Report - Ro (LostOutpost/ro)
 
 
-### Invalid (1)
-*  [sforzinda_destinations.7z](https://authored-files.wabbajack.org/sforzinda_destinations.7z_f367b67c-8180-4ffc-bc65-e30eb3474117)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2186)
+### Valid (2187)
 *  [(ESL) Heimskr only preaches on weekends-13865-1-4-1677908626.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13865/?tab=files&file_id=365292)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -1700,6 +1699,7 @@
 *  [Sensible Sleepwalking - ESL-flagged-64680-1-0-0-1646749910.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64680/?tab=files&file_id=268853)
 *  [SeranaDialogEdit v 102-16222-1-02.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16222/?tab=files&file_id=59083)
 *  [Serene Shores 4k-85036-1-0-1676750985.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85036/?tab=files&file_id=361061)
+*  [sforzinda_destinations.7z](https://authored-files.wabbajack.org/sforzinda_destinations.7z_f367b67c-8180-4ffc-bc65-e30eb3474117)
 *  [sforzinda_fashions.7z](https://authored-files.wabbajack.org/sforzinda_fashions.7z_a16457da-a5e6-4cb0-b432-44d098e86a1b)
 *  [sforzinda_imitations.7z](https://authored-files.wabbajack.org/sforzinda_imitations.7z_227a8356-5859-4983-a3aa-7f889189e16b)
 *  [sforzinda_stripped_down-84416-v0-5-1677432416.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84416/?tab=files&file_id=363581)
