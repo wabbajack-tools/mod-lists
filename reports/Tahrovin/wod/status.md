@@ -1,10 +1,11 @@
 ## Validation Report - Wasteland of Depravity (Tahrovin/wod)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [BT3-Jan2023-R1.zip](https://drive.google.com/uc?id=1MF-RxZgrO0GFf3-_zUxB-0gAR2H1oFoW&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1001)
+### Valid (1000)
 *  [.45 Auto Pistol Ha_ru anims-21142-1-2-1.zip](https://www.nexusmods.com/fallout4/mods/21142/?tab=files&file_id=87199)
 *  [0004. Helmet Toggle-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108856)
 *  [1 - Cridowskin Installer-52016-3-0-1-1673299918.7z](https://www.nexusmods.com/fallout4/mods/52016/?tab=files&file_id=262981)
@@ -146,7 +147,6 @@
 *  [BRAVOHUD-62932-1-5-1664180405.zip](https://www.nexusmods.com/fallout4/mods/62932/?tab=files&file_id=251753)
 *  [Brown Face bug fix script update.-58950-1-22-1651276109.7z](https://www.nexusmods.com/fallout4/mods/58950/?tab=files&file_id=236280)
 *  [BS Defence V3.2-63998-3-2-1662995616.7z](https://www.nexusmods.com/fallout4/mods/63998/?tab=files&file_id=250433)
-*  [BT3-Jan2023-R1.zip](https://drive.google.com/uc?id=1MF-RxZgrO0GFf3-_zUxB-0gAR2H1oFoW&export=download)
 *  [Buffout 4 - Crash Log Scanner GUI Archive-63346-1-2-1661147065.rar](https://www.nexusmods.com/fallout4/mods/63346/?tab=files&file_id=247760)
 *  [Buffout4 NG-64880-1-31-1-1677574192.7z](https://www.nexusmods.com/fallout4/mods/64880/?tab=files&file_id=268840)
 *  [Buildable Burning Campfires and Fireplaces (no NPC burns)-8122-3-1-1603800234.7z](https://www.nexusmods.com/fallout4/mods/8122/?tab=files&file_id=193801)
