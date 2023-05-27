@@ -1,8 +1,8 @@
 {
   "MachineURL": "VivaNewVegas/VivaNewVegas",
   "Name": "Viva New Vegas",
-  "Version": "1.0",
-  "ModListHash": "a6x+BKinrXo=",
+  "Version": "1.1",
+  "ModListHash": "AuNHIA7eDuo=",
   "Archives": [
     {
       "Status": "Valid",
@@ -78,21 +78,35 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Z+8YjB0VB/Q=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=79358\nfileID=1000109251",
-        "Name": "Uncut Wasteland-79358-1-0-1684077623.7z",
-        "Size": 407771,
+        "Hash": "Nrhio53T7l8=",
+        "Meta": "[General]\ndirectURL=https://github.com/Qolore7/the-sands/releases/download/vanilla-ui-plus/Vanilla.UI.Plus.9.48.7z",
+        "Name": "Vanilla.UI.Plus.9.48.7z",
+        "Size": 760435,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Qolore7/the-sands/releases/download/vanilla-ui-plus/Vanilla.UI.Plus.9.48.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "I0rCrym/HvM=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=79299\nfileID=1000109175",
+        "Name": "DXVK 2.2 - Async-79299-2-2-1683991305.7z",
+        "Size": 929933,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VishVadeva50 - Wall_SoGB - Qolore7",
-          "Description": "Files needed while following the \u0022Viva New Vegas\u0022 guide.",
-          "FileID": 1000109251,
+          "Author": "doitsujin - Joshua Ashton - Sporif - Ph42oN",
+          "Description": "Latest release of DXVK.",
+          "FileID": 1000109175,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79358/79358-1671398909-34717809.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79299/79299-1670968798-420710205.png",
           "IsNSFW": false,
-          "ModID": 79358,
-          "Name": "Viva New Vegas Resources",
-          "Version": "1.0"
+          "ModID": 79299,
+          "Name": "DXVK",
+          "Version": "2.1.4"
         }
       }
     },
@@ -114,20 +128,6 @@
           "ModID": 67883,
           "Name": "New Vegas Script Extender (NVSE xNVSE)",
           "Version": "6.2.9"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Nrhio53T7l8=",
-        "Meta": "[General]\ndirectURL=https://github.com/Qolore7/the-sands/releases/download/vanilla-ui-plus/Vanilla.UI.Plus.9.48.7z",
-        "Name": "Vanilla.UI.Plus.9.48.7z",
-        "Size": 760435,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Qolore7/the-sands/releases/download/vanilla-ui-plus/Vanilla.UI.Plus.9.48.7z"
         }
       }
     },
@@ -176,63 +176,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KHjl8qQiwlk=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=69226\nfileID=1000063736",
-        "Name": "A Little More Lamplight-69226-1-2-1594706760.zip",
-        "Size": 623913,
+        "Hash": "E5xZZIzuaws=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=71973\nfileID=1000074493",
+        "Name": "Fast Weapon Lag Fix-71973-1-0-1617537597.zip",
+        "Size": 5027,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "zedas",
-          "Description": "An enhancement to the shoddy work on the vanilla functional streetlamps \u0026amp; lights of Outer Vegas, Camp McCarran, Camp Golf, and NCRCF.",
-          "FileID": 1000063736,
+          "Author": "lStewieAl",
+          "Description": "Improves framerate in combat by fixing an engine bug that lowered framerate while attacking an enemy with a health-bar visible.",
+          "FileID": 1000074493,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/69226/69226-1594705276-1976294109.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71973/71973-1617922595-907583889.png",
           "IsNSFW": false,
-          "ModID": 69226,
-          "Name": "A Little More Lamplight",
-          "Version": "1.2"
+          "ModID": 71973,
+          "Name": "Combat Lag Fix (NVSE)",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "F/gdO//smP8=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=65046\nfileID=1000092397",
-        "Name": "2. Consistent Addon Icons-65046-4-2-1652355224.zip",
-        "Size": 4166210,
+        "Hash": "GUoX9p9rIXU=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=75437\nfileID=1000109946",
+        "Name": "Desert Natural Weathers NV-75437-6-5-1-1685144981.7z",
+        "Size": 406759944,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ItsMeJesusHChrist also known as LOC or The Icon Guy",
-          "Description": "This is a lore-friendly, mostly hand-drawn, total overhaul mod that tweaks around 3600 icons which made them immersively more consistent in terms of coloring and transparency. There are other bug fixes too, and many new details! Okay, just write that in the brief overview, it\u0027s not that hard.",
-          "FileID": 1000092397,
+          "Author": "Scott Clam",
+          "Description": "An overhaul of the weathers in New Vegas with 360 panoramic cloud textures, DLC support, and optional presets for Reshade and ENB.",
+          "FileID": 1000109946,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/65046/65046-1630588346-522611745.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/75437/75437-1645667370-247719151.png",
           "IsNSFW": false,
-          "ModID": 65046,
-          "Name": "Consistent Pip-Boy Icons",
-          "Version": "4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "S/epgjiKRc0=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=68714\nfileID=1000092775",
-        "Name": "MLF-68714-3-0-1652987496.zip",
-        "Size": 4720,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "iranrmrf",
-          "Description": "This plugin fixes the Fallout New Vegas mod limit bug. It allows a maximum of 255 plugins to be loaded. It can also cause an increase in fps, remove game stutter and allow for faster loading times especially when using a large number of mods.",
-          "FileID": 1000092775,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/68714/68714-1587582723-491728536.png",
-          "IsNSFW": false,
-          "ModID": 68714,
-          "Name": "FNV Mod Limit Fix",
-          "Version": "2.5"
+          "ModID": 75437,
+          "Name": "Desert Natural Weathers",
+          "Version": "2.3"
         }
       }
     },
@@ -260,21 +239,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "sbZqtZ0oY30=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=66666\nfileID=1000090357",
-        "Name": "Just Assorted Mods-66666-4-4-1648916021.7z",
-        "Size": 4345517,
+        "Hash": "LGGIi1tEeck=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=66927\nfileID=1000101760",
+        "Name": "JG NVSE-66927-4-93-1670006465.zip",
+        "Size": 1769862,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "yvileapsis and others",
-          "Description": "A collection of my mods, merged for convenience. \n\nRequires JIP LN NVSE and JohnnyGuitar NVSE.",
-          "FileID": 1000090357,
+          "Author": "carxt - lStewieAl - c6",
+          "Description": "PLAY THE GUITAR, PLAY IT AGAIN, MY JOHNNYYYYYYYYYYYY.",
+          "FileID": 1000101760,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/66666/66666-1605545881-1902299479.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/66927/66927-1557249061-172190903.jpeg",
           "IsNSFW": false,
-          "ModID": 66666,
-          "Name": "JAM - Just Assorted Mods",
-          "Version": "4.3c"
+          "ModID": 66927,
+          "Name": "JohnnyGuitar NVSE",
+          "Version": "4.45"
         }
       }
     },
@@ -302,27 +281,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "R0p/1A6yCSw=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=62941\nfileID=1000101805",
-        "Name": "Mojave Arsenal-62941-3-0-8-1670066854.7z",
-        "Size": 49269,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PushTheWinButton",
-          "Description": "Adds ammo variants, reloading parts, and weapon mods as loot; fixes item naming conventions; improves recipes; and adds options for configuring GRA. Compatible with mods which add new weapons and weapon mods, without the need for a patch.",
-          "FileID": 1000101805,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/62941-0-1488712092.png",
-          "IsNSFW": false,
-          "ModID": 62941,
-          "Name": "Mojave Arsenal",
-          "Version": "2.70"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Jxm9MCitThM=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=74295\nfileID=1000103667",
         "Name": "New Vegas Mesh Improvement Mod-74295-1-10-1673911628.7z",
@@ -344,21 +302,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kxdKPwLJb0Y=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=72541\nfileID=1000109003",
-        "Name": "ShowOff NVSE-72541-1-60-1683687114.7z",
-        "Size": 3372925,
+        "Hash": "LHik3CgrEwk=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=42507\nfileID=105803",
+        "Name": "The Mod Configuration Menu-42507-1-5.7z",
+        "Size": 358061,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "The Dormies - Demorome and Trooper",
-          "Description": "An NVSE plugin which adds new functions and engine-level tweaks.\n\nFor heathens who have forsaken the Vanilla-Style way.",
-          "FileID": 1000109003,
+          "Author": "Pelinor",
+          "Description": "Allows any number of mods to be configured from a single menu.",
+          "FileID": 105803,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/72541/72541-1622853912-1516312744.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/42507-1-1337306058.png",
           "IsNSFW": false,
-          "ModID": 72541,
-          "Name": "ShowOff NVSE Plugin",
-          "Version": "1.20"
+          "ModID": 42507,
+          "Name": "The Mod Configuration Menu",
+          "Version": "1.5"
         }
       }
     },
@@ -470,21 +428,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "LHik3CgrEwk=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=42507\nfileID=105803",
-        "Name": "The Mod Configuration Menu-42507-1-5.7z",
-        "Size": 358061,
+        "Hash": "sbZqtZ0oY30=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=66666\nfileID=1000090357",
+        "Name": "Just Assorted Mods-66666-4-4-1648916021.7z",
+        "Size": 4345517,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pelinor",
-          "Description": "Allows any number of mods to be configured from a single menu.",
-          "FileID": 105803,
+          "Author": "yvileapsis and others",
+          "Description": "A collection of my mods, merged for convenience. \n\nRequires JIP LN NVSE and JohnnyGuitar NVSE.",
+          "FileID": 1000090357,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/42507-1-1337306058.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/66666/66666-1605545881-1902299479.png",
           "IsNSFW": false,
-          "ModID": 42507,
-          "Name": "The Mod Configuration Menu",
-          "Version": "1.5"
+          "ModID": 66666,
+          "Name": "JAM - Just Assorted Mods",
+          "Version": "4.3c"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+jhQKRgtn1U=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=68776\nfileID=1000104283",
+        "Name": "NVCS Vanilla Weights-68776-13-1675087221.7z",
+        "Size": 17612,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Various",
+          "Description": "A skeleton with compatibility for the latest mods",
+          "FileID": 1000104283,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/68776/68776-1588193623-909988060.jpeg",
+          "IsNSFW": false,
+          "ModID": 68776,
+          "Name": "NV Compatibility Skeleton",
+          "Version": "12"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KHjl8qQiwlk=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=69226\nfileID=1000063736",
+        "Name": "A Little More Lamplight-69226-1-2-1594706760.zip",
+        "Size": 623913,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "zedas",
+          "Description": "An enhancement to the shoddy work on the vanilla functional streetlamps \u0026amp; lights of Outer Vegas, Camp McCarran, Camp Golf, and NCRCF.",
+          "FileID": 1000063736,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/69226/69226-1594705276-1976294109.png",
+          "IsNSFW": false,
+          "ModID": 69226,
+          "Name": "A Little More Lamplight",
+          "Version": "1.2"
         }
       }
     },
@@ -506,6 +506,27 @@
           "ModID": 78617,
           "Name": "Aqua Performa - Strip Performance Fix",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DBAs38bZE4o=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=75031\nfileID=1000109936",
+        "Name": "Better Brotherhood-75031-2-1b-1685131912.7z",
+        "Size": 772528,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PlatinumShad0w",
+          "Description": "Small tweaks to improve the Mojave Brotherhood of Steel as a faction like more ways to gain fame, fixing their ending to account for certain overlooked endgame conditions, the ability to have the Knights repair your equipment, a small quest to return holotags, diversified leveled lists and a new weapon.",
+          "FileID": 1000109936,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/75031/75031-1642318266-560570170.jpeg",
+          "IsNSFW": false,
+          "ModID": 75031,
+          "Name": "Better Brotherhood",
+          "Version": "1.5b"
         }
       }
     },
@@ -569,6 +590,187 @@
           "ModID": 61592,
           "Name": "JSawyer Ultimate Edition",
           "Version": "5.3.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bmhHRlbNP+o=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=atimgpud.dll",
+        "Name": "atimgpud.dll",
+        "Size": 165304,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "atimgpud.dll",
+          "GameVersion": "1.4.0.525",
+          "Hash": "bmhHRlbNP+o="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zohi+Fsduiw=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=VeryHigh.ini",
+        "Name": "VeryHigh.ini",
+        "Size": 1134,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "VeryHigh.ini",
+          "GameVersion": "1.4.0.525",
+          "Hash": "zohi+Fsduiw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "F/gdO//smP8=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=65046\nfileID=1000092397",
+        "Name": "2. Consistent Addon Icons-65046-4-2-1652355224.zip",
+        "Size": 4166210,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ItsMeJesusHChrist also known as LOC or The Icon Guy",
+          "Description": "This is a lore-friendly, mostly hand-drawn, total overhaul mod that tweaks around 3600 icons which made them immersively more consistent in terms of coloring and transparency. There are other bug fixes too, and many new details! Okay, just write that in the brief overview, it\u0027s not that hard.",
+          "FileID": 1000092397,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/65046/65046-1630588346-522611745.png",
+          "IsNSFW": false,
+          "ModID": 65046,
+          "Name": "Consistent Pip-Boy Icons",
+          "Version": "4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6bwbR1/FlKk=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\APR2007_XACT_x64.cab",
+        "Name": "Redists_directx_APR2007_XACT_x64.cab",
+        "Size": 195758,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\APR2007_XACT_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "6bwbR1/FlKk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "deVzcdDqtCM=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Aug2008_d3dx10_39_x64.cab",
+        "Name": "Redists_directx_Aug2008_d3dx10_39_x64.cab",
+        "Size": 867604,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Aug2008_d3dx10_39_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "deVzcdDqtCM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "V17YP7Kt46Y=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Aug2009_d3dx9_42_x64.cab",
+        "Name": "Redists_directx_Aug2009_d3dx9_42_x64.cab",
+        "Size": 930108,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Aug2009_d3dx9_42_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "V17YP7Kt46Y="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0GYDxp8pZA8=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\DSETUP.dll",
+        "Name": "Redists_directx_DSETUP.dll",
+        "Size": 94024,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\DSETUP.dll",
+          "GameVersion": "1.4.0.525",
+          "Hash": "0GYDxp8pZA8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "twRGhogwgLo=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\JUN2006_XACT_x64.cab",
+        "Name": "Redists_directx_JUN2006_XACT_x64.cab",
+        "Size": 180777,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\JUN2006_XACT_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "twRGhogwgLo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FdJWYPyOu3o=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\JUN2008_XAudio_x64.cab",
+        "Name": "Redists_directx_JUN2008_XAudio_x64.cab",
+        "Size": 269620,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\JUN2008_XAudio_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "FdJWYPyOu3o="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PoEGCLv3mFg=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Mar2009_X3DAudio_x64.cab",
+        "Name": "Redists_directx_Mar2009_X3DAudio_x64.cab",
+        "Size": 54600,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Mar2009_X3DAudio_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "PoEGCLv3mFg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qVsWpswVb3U=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Nov2008_d3dx9_40_x64.cab",
+        "Name": "Redists_directx_Nov2008_d3dx9_40_x64.cab",
+        "Size": 1906870,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Nov2008_d3dx9_40_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "qVsWpswVb3U="
         }
       }
     },
@@ -654,6 +856,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "A7zdekPT4bY=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=42507\nfileID=1000001534",
+        "Name": "MCM BugFix 2-42507-.7z",
+        "Size": 18141,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Pelinor",
+          "Description": "Allows any number of mods to be configured from a single menu.",
+          "FileID": 1000001534,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/42507-1-1337306058.png",
+          "IsNSFW": false,
+          "ModID": 42507,
+          "Name": "The Mod Configuration Menu",
+          "Version": "1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Xr3mG5W3j+c=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=71699\nfileID=1000087236",
         "Name": "Player Combat Priority-71699-1-0-2-1644146759.7z",
@@ -675,63 +898,207 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BOeJZE3JwfI=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=79516\nfileID=1000103531",
-        "Name": "Fog-based Object Culling-79516-2-1673628097.7z",
-        "Size": 39646,
+        "Hash": "qJ5hAVMHWtA=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=77781\nfileID=1000096960",
+        "Name": "No Muzzle Flash Lights-77781-2-0-1659534450.7z",
+        "Size": 738,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Wall_SoGB",
-          "Description": "Dynamically adjusts draw distance in accordance with the fog to improve performance with little to no visual difference.",
-          "FileID": 1000103531,
+          "Author": "c6",
+          "Description": "Improves game performance in combat by disabling lights produced by muzzle flashes.",
+          "FileID": 1000096960,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79516/79516-1672686840-1587444604.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77781/77781-1659534301-1297496060.png",
           "IsNSFW": false,
-          "ModID": 79516,
-          "Name": "Fog-based Object Culling",
-          "Version": "1.0"
+          "ModID": 77781,
+          "Name": "No Muzzle Flash Lights",
+          "Version": "2.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cnCqy4m8z3U=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=79656\nfileID=1000103643",
-        "Name": "Interior Rain-79656-1-0-1673893794.zip",
-        "Size": 6609179,
+        "Hash": "WyHPL3nOWI0=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=76522\nfileID=1000108762",
+        "Name": "Stewie Tweaks Essentials INI-76522-1-05-1683267928.7z",
+        "Size": 30122,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "doodlez FadingSignal",
-          "Description": "Interior rain sounds powered by Climate Control NVSE.",
-          "FileID": 1000103643,
+          "Author": "lStewieAl",
+          "Description": "A Tweaks .ini with just the essential bugfix and quality-of-life settings enabled, hand-picked by the GOAT himself",
+          "FileID": 1000108762,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79656/79656-1673893767-502207385.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/76522/76522-1652302112-227812537.png",
           "IsNSFW": false,
-          "ModID": 79656,
-          "Name": "Interior Rain",
-          "Version": "1.0"
+          "ModID": 76522,
+          "Name": "Stewie Tweaks Essentials INI",
+          "Version": "1.01"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "JcXXFjGe1L4=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=75437\nfileID=1000109456",
-        "Name": "Desert Natural Weathers NV-75437-6-5-1684448207.7z",
-        "Size": 406759796,
+        "Hash": "EHVqe5JmdU8=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=binkw32.dll",
+        "Name": "binkw32.dll",
+        "Size": 338944,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "binkw32.dll",
+          "GameVersion": "1.4.0.525",
+          "Hash": "EHVqe5JmdU8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dPMLIfGeCgA=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\APR2007_XACT_x86.cab",
+        "Name": "Redists_directx_APR2007_XACT_x86.cab",
+        "Size": 151225,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\APR2007_XACT_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "dPMLIfGeCgA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TgXmwr/JrNY=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Aug2008_d3dx10_39_x86.cab",
+        "Name": "Redists_directx_Aug2008_d3dx10_39_x86.cab",
+        "Size": 849167,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Aug2008_d3dx10_39_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "TgXmwr/JrNY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nPc3Jd9GfNg=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Aug2009_d3dx9_42_x86.cab",
+        "Name": "Redists_directx_Aug2009_d3dx9_42_x86.cab",
+        "Size": 728456,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Aug2009_d3dx9_42_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "nPc3Jd9GfNg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kqN74nsUoF4=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\dsetup32.dll",
+        "Name": "Redists_directx_dsetup32.dll",
+        "Size": 1691464,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\dsetup32.dll",
+          "GameVersion": "1.4.0.525",
+          "Hash": "kqN74nsUoF4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yCQ7r7TdiP4=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\JUN2006_XACT_x86.cab",
+        "Name": "Redists_directx_JUN2006_XACT_x86.cab",
+        "Size": 133663,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\JUN2006_XACT_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "yCQ7r7TdiP4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HaUgsR6ulmo=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\JUN2008_XAudio_x86.cab",
+        "Name": "Redists_directx_JUN2008_XAudio_x86.cab",
+        "Size": 269016,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\JUN2008_XAudio_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "HaUgsR6ulmo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fp98w3vyrB4=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Mar2009_X3DAudio_x86.cab",
+        "Name": "Redists_directx_Mar2009_X3DAudio_x86.cab",
+        "Size": 21298,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Mar2009_X3DAudio_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "fp98w3vyrB4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0Oxs74PN9r8=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Nov2008_d3dx9_40_x86.cab",
+        "Name": "Redists_directx_Nov2008_d3dx9_40_x86.cab",
+        "Size": 1550796,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Nov2008_d3dx9_40_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "0Oxs74PN9r8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lcnm9gTTJ3M=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=79378\nfileID=1000103557",
+        "Name": "Atmospheric Lighting Tweaks - FNV-79378-1-2-1-1673672087.7z",
+        "Size": 11384,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Scott Clam",
-          "Description": "An overhaul of the weathers in New Vegas with 360 panoramic cloud textures, DLC support, and optional presets for Reshade and ENB.",
-          "FileID": 1000109456,
+          "Author": "Roni",
+          "Description": "Atmospheric Lighting Tweaks makes changes to Image Spaces and Lighting Templates to give interiors a more dynamic and atmospheric look.",
+          "FileID": 1000103557,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/75437/75437-1645667370-247719151.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79378/79378-1671733375-1549189896.jpeg",
           "IsNSFW": false,
-          "ModID": 75437,
-          "Name": "Desert Natural Weathers",
-          "Version": "2.3"
+          "ModID": 79378,
+          "Name": "Atmospheric Lighting Tweaks (FNV and TTW)",
+          "Version": "1.1.1"
         }
       }
     },
@@ -775,27 +1142,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dW9hYpDP0Gg=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=71239\nfileID=1000106428",
-        "Name": "Unofficial Patch NVSE Plus-71239-1-4-4-1678801170.zip",
-        "Size": 37980,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "The UPNVSE Pals",
-          "Description": "An updated and refined selection of bugfixes (mostly) requiring NVSE.",
-          "FileID": 1000106428,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71239/71239-1613150758-1586974762.png",
-          "IsNSFW": false,
-          "ModID": 71239,
-          "Name": "Unofficial Patch NVSE Plus",
-          "Version": "1.3.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "HrSgBu7oQsM=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=80339\nfileID=1000106180",
         "Name": "PCP Doggo Patch-80339-1-1678403950.rar",
@@ -817,63 +1163,202 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "I6mtWehbAlQ=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=77963\nfileID=1000098329",
-        "Name": "High Res Local Maps-77963-1-2-1661794525.7z",
-        "Size": 33682,
+        "Hash": "Titic7JWu1M=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=46451\nfileID=105739",
+        "Name": "Improved LOD noise Texture-46451-V1-00.rar",
+        "Size": 2096053,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VishVadeva50 - WallSoGB",
-          "Description": "Increases the resolution of local maps from 128 to 512 and optionally 1024.",
-          "FileID": 1000098329,
+          "Author": "Cyberlazy",
+          "Description": "Vastly improves the LOD noise texture used on all distant land. Uses only minimal video memory and greatly improves quality.",
+          "FileID": 105739,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77963/77963-1660516906-845756921.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/46451-1-1339205187.jpg",
           "IsNSFW": false,
-          "ModID": 77963,
-          "Name": "High Res Local Maps",
-          "Version": "1.1"
+          "ModID": 46451,
+          "Name": "Improved LOD Noise Texture",
+          "Version": "1.00"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WyHPL3nOWI0=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=76522\nfileID=1000108762",
-        "Name": "Stewie Tweaks Essentials INI-76522-1-05-1683267928.7z",
-        "Size": 30122,
+        "Hash": "8VzJo47ZT/E=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=71336\nfileID=1000081372",
+        "Name": "kNVSE-71336-20-1632181674.7z",
+        "Size": 178231,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lStewieAl",
-          "Description": "A Tweaks .ini with just the essential bugfix and quality-of-life settings enabled, hand-picked by the GOAT himself",
-          "FileID": 1000108762,
+          "Author": "Kormakur",
+          "Description": "xNVSE plugin that enables having custom animations for weapons and actors. Fixes the engine-bound anim group limit problem.",
+          "FileID": 1000081372,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/76522/76522-1652302112-227812537.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71336/71336-1615597563-1106205004.png",
           "IsNSFW": false,
-          "ModID": 76522,
-          "Name": "Stewie Tweaks Essentials INI",
-          "Version": "1.01"
+          "ModID": 71336,
+          "Name": "kNVSE Animation Plugin",
+          "Version": "20"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cd4A7OvEW3g=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=80360\nfileID=1000106294",
-        "Name": "Harder Barter Faster Stronger-80360-1-01-1678556512.rar",
-        "Size": 405,
+        "Hash": "1wIRIm59JQM=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=FalloutNV.exe",
+        "Name": "FalloutNV.exe",
+        "Size": 16549704,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "S6S",
-          "Description": "This small GameSetting tweak makes the economy harsher for characters with low barter, makes barter affect prices more, and slightly narrows the difference between max sell and min buy prices.",
-          "FileID": 1000106294,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/80360/80360-1678479030-1595403157.png",
-          "IsNSFW": false,
-          "ModID": 80360,
-          "Name": "Harder Barter Faster Stronger",
-          "Version": "1.01"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "FalloutNV.exe",
+          "GameVersion": "1.4.0.525",
+          "Hash": "1wIRIm59JQM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hV5Z3KRaUks=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Apr2005_d3dx9_25_x64.cab",
+        "Name": "Redists_directx_Apr2005_d3dx9_25_x64.cab",
+        "Size": 1347354,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Apr2005_d3dx9_25_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "hV5Z3KRaUks="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JRc+HLO8Jng=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\APR2007_xinput_x64.cab",
+        "Name": "Redists_directx_APR2007_xinput_x64.cab",
+        "Size": 96817,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\APR2007_xinput_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "JRc+HLO8Jng="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DGK3lDai64A=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Aug2008_d3dx9_39_x64.cab",
+        "Name": "Redists_directx_Aug2008_d3dx9_39_x64.cab",
+        "Size": 1794076,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Aug2008_d3dx9_39_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "DGK3lDai64A="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1xv8WA4lsF8=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Aug2009_XACT_x64.cab",
+        "Name": "Redists_directx_Aug2009_XACT_x64.cab",
+        "Size": 122408,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Aug2009_XACT_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "1xv8WA4lsF8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pNqkjpuH8h0=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\dxdllreg_x86.cab",
+        "Name": "Redists_directx_dxdllreg_x86.cab",
+        "Size": 44440,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\dxdllreg_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "pNqkjpuH8h0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "m5Mjen7AfZk=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\JUN2007_d3dx10_34_x64.cab",
+        "Name": "Redists_directx_JUN2007_d3dx10_34_x64.cab",
+        "Size": 699044,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\JUN2007_d3dx10_34_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "m5Mjen7AfZk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JyLKIm1C/8Q=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Mar2008_d3dx10_37_x64.cab",
+        "Name": "Redists_directx_Mar2008_d3dx10_37_x64.cab",
+        "Size": 844884,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Mar2008_d3dx10_37_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "JyLKIm1C/8Q="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "aHNogn9G/8w=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Mar2009_XACT_x64.cab",
+        "Name": "Redists_directx_Mar2009_XACT_x64.cab",
+        "Size": 121506,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Mar2009_XACT_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "aHNogn9G/8w="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7TxYURbsN3s=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Nov2008_X3DAudio_x64.cab",
+        "Name": "Redists_directx_Nov2008_X3DAudio_x64.cab",
+        "Size": 54522,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Nov2008_X3DAudio_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "7TxYURbsN3s="
         }
       }
     },
@@ -895,6 +1380,48 @@
           "ModID": 77945,
           "Name": "Vish\u0027s Patch Hub (TTW)",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XsrUvaW5Fj0=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=73596\nfileID=1000087211",
+        "Name": "Strip Lights Region Fix-73596-1-3-1644119016.7z",
+        "Size": 50474,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nehred",
+          "Description": "Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.",
+          "FileID": 1000087211,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/73596/73596-1631161376-983215270.jpeg",
+          "IsNSFW": false,
+          "ModID": 73596,
+          "Name": "Strip Lights Region Fix",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dh+xUCYZfH4=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=62552\nfileID=1000075100",
+        "Name": "4GB Patcher-62552-1-5-1618787921.7z",
+        "Size": 104303,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Roy Batty - LuthienAnarion",
+          "Description": "Simple patcher to make Fallout New Vegas 4GB Aware. Supports all known Steam and GoG versions. The Bethesda.net and XBOX Game pass versions are NOT supported since NVSE will not support them either.",
+          "FileID": 1000075100,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/62552-0-1479507758.png",
+          "IsNSFW": false,
+          "ModID": 62552,
+          "Name": "FNV 4GB Patcher",
+          "Version": "1.5"
         }
       }
     },
@@ -943,20 +1470,41 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "k8IY6nIjp+Q=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=80666\nfileID=1000107287",
-        "Name": "ActorCause Save Bloat Fix-80666-1-0-1680643208.zip",
-        "Size": 44180,
+        "Hash": "pPpxzlE7DX8=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=81231\nfileID=1000109726",
+        "Name": "Viva Default Preset-81231-10-2-2-1-1684772043.7z",
+        "Size": 1422,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lStewieAl",
-          "Description": "Fixes a save bloating issue related to actors detecting the player, improving save/load speed and decreasing save size 10-30% depending on playthrough length.",
-          "FileID": 1000107287,
+          "Author": "VishVadeva - WallSoGB - carxt",
+          "Description": "Configurations for \u0022New Vegas Tick Fix\u0022 to solve issues and improve performance based on your setup.",
+          "FileID": 1000109726,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/80666/80666-1680642398-193203938.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81231/81231-1684768140-761894133.png",
           "IsNSFW": false,
-          "ModID": 80666,
-          "Name": "ActorCause Save Bloat Fix",
+          "ModID": 81231,
+          "Name": "NVTF - INI Presets",
+          "Version": "10.2.2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cnCqy4m8z3U=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=79656\nfileID=1000103643",
+        "Name": "Interior Rain-79656-1-0-1673893794.zip",
+        "Size": 6609179,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "doodlez FadingSignal",
+          "Description": "Interior rain sounds powered by Climate Control NVSE.",
+          "FileID": 1000103643,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79656/79656-1673893767-502207385.png",
+          "IsNSFW": false,
+          "ModID": 79656,
+          "Name": "Interior Rain",
           "Version": "1.0"
         }
       }
@@ -964,42 +1512,202 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uUOlXqLDWHc=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=75417\nfileID=1000097157",
-        "Name": "ISControl ESPless FULL-75417-1-4-1659839349.7z",
-        "Size": 2141,
+        "Hash": "QiGJU/u+zxk=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=FalloutNV.ico",
+        "Name": "FalloutNV.ico",
+        "Size": 168879,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "B42",
-          "Description": "Dynamically adds ISControl node system animation support \u002B easy per-weapon sights adjustment",
-          "FileID": 1000097157,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/75417/75417-1645453972-1109763279.png",
-          "IsNSFW": false,
-          "ModID": 75417,
-          "Name": "ISControl Enabler",
-          "Version": "1.1"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "FalloutNV.ico",
+          "GameVersion": "1.4.0.525",
+          "Hash": "QiGJU/u+zxk="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "lcnm9gTTJ3M=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=79378\nfileID=1000103557",
-        "Name": "Atmospheric Lighting Tweaks - FNV-79378-1-2-1-1673672087.7z",
-        "Size": 11384,
+        "Hash": "uQirqmcN9g8=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=67761\nfileID=1000057020",
+        "Name": "Faster Pip-Boy Animation (2x)-67761-1-0-1571797210.zip",
+        "Size": 7021,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Roni",
-          "Description": "Atmospheric Lighting Tweaks makes changes to Image Spaces and Lighting Templates to give interiors a more dynamic and atmospheric look.",
-          "FileID": 1000103557,
+          "Author": "ceski",
+          "Description": "Modifies the Pip-Boy animation to be 2x or 3x faster than default. Works with most Pip-Boy mods.",
+          "FileID": 1000057020,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79378/79378-1671733375-1549189896.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/67761/67761-1571799036-1230930965.jpeg",
           "IsNSFW": false,
-          "ModID": 79378,
-          "Name": "Atmospheric Lighting Tweaks (FNV and TTW)",
-          "Version": "1.1.1"
+          "ModID": 67761,
+          "Name": "Faster Pip-Boy Animation",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JZww8cRyJYk=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Apr2005_d3dx9_25_x86.cab",
+        "Name": "Redists_directx_Apr2005_d3dx9_25_x86.cab",
+        "Size": 1078954,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Apr2005_d3dx9_25_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "JZww8cRyJYk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XTne7qRQbgc=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\APR2007_xinput_x86.cab",
+        "Name": "Redists_directx_APR2007_xinput_x86.cab",
+        "Size": 53294,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\APR2007_xinput_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "XTne7qRQbgc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DFIXjDtdHdk=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Aug2008_d3dx9_39_x86.cab",
+        "Name": "Redists_directx_Aug2008_d3dx9_39_x86.cab",
+        "Size": 1464664,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Aug2008_d3dx9_39_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "DFIXjDtdHdk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xEXnUAjlmas=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Aug2009_XACT_x86.cab",
+        "Name": "Redists_directx_Aug2009_XACT_x86.cab",
+        "Size": 93098,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Aug2009_XACT_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "xEXnUAjlmas="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nEtpPpQ7xXk=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\dxnt.cab",
+        "Name": "Redists_directx_dxnt.cab",
+        "Size": 13264168,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\dxnt.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "nEtpPpQ7xXk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ZhYyidYBy+k=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\JUN2007_d3dx10_34_x86.cab",
+        "Name": "Redists_directx_JUN2007_d3dx10_34_x86.cab",
+        "Size": 698464,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\JUN2007_d3dx10_34_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "ZhYyidYBy+k="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yM6SkY1mgzg=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Mar2008_d3dx10_37_x86.cab",
+        "Name": "Redists_directx_Mar2008_d3dx10_37_x86.cab",
+        "Size": 818260,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Mar2008_d3dx10_37_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "yM6SkY1mgzg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SLSl/rmEOng=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Mar2009_XACT_x86.cab",
+        "Name": "Redists_directx_Mar2009_XACT_x86.cab",
+        "Size": 92732,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Mar2009_XACT_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "SLSl/rmEOng="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FEzV06IVIFY=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Nov2008_X3DAudio_x86.cab",
+        "Name": "Redists_directx_Nov2008_X3DAudio_x86.cab",
+        "Size": 21843,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Nov2008_X3DAudio_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "FEzV06IVIFY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qrbslhctvk4=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=64335\nfileID=1000073430",
+        "Name": "B42 Inertia V1.2-64335-1-2-1615691254.zip",
+        "Size": 3977,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xilandro - master JazzIsParis - DarianStephens",
+          "Description": "This mod adds weapon inertia. Part of Project B42. Thanks to JazzIsMagic... I mean Paris. ;)",
+          "FileID": 1000073430,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/64335/64335-1514890525-144217316.jpeg",
+          "IsNSFW": false,
+          "ModID": 64335,
+          "Name": "B42 Weapon Inertia",
+          "Version": "1.2"
         }
       }
     },
@@ -1064,21 +1772,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XsrUvaW5Fj0=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=73596\nfileID=1000087211",
-        "Name": "Strip Lights Region Fix-73596-1-3-1644119016.7z",
-        "Size": 50474,
+        "Hash": "Z+8YjB0VB/Q=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=79358\nfileID=1000109251",
+        "Name": "Uncut Wasteland-79358-1-0-1684077623.7z",
+        "Size": 407771,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Nehred",
-          "Description": "Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.",
-          "FileID": 1000087211,
+          "Author": "VishVadeva50 - Wall_SoGB - Qolore7",
+          "Description": "Files needed while following the \u0022Viva New Vegas\u0022 guide.",
+          "FileID": 1000109251,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/73596/73596-1631161376-983215270.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79358/79358-1671398909-34717809.png",
           "IsNSFW": false,
-          "ModID": 73596,
-          "Name": "Strip Lights Region Fix",
-          "Version": "1.3"
+          "ModID": 79358,
+          "Name": "Viva New Vegas Resources",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vXIF0q2SSlo=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=65854\nfileID=1000107054",
+        "Name": "FNV BSA Decompressor-65854-1-1-1680187862.7z",
+        "Size": 4932078,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "zilav",
+          "Description": "Decompresses the Fallout New Vegas BSAs and repacks them without zlib compression for performance, Also transcodes the .ogg sounds effects to .wav so they work. It also extracts any mp3 files to loose files because they will not play when in a BSA.",
+          "FileID": 1000107054,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/65854/65854-1540922562-1965899483.png",
+          "IsNSFW": false,
+          "ModID": 65854,
+          "Name": "FNV BSA Decompressor",
+          "Version": "1.0"
         }
       }
     },
@@ -1127,84 +1856,181 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5PXgSEF7wQU=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=81002\nfileID=1000108691",
-        "Name": "Better Caravan-81002-1-0-1683114195.zip",
-        "Size": 1762360,
+        "Hash": "R95phrYm0rg=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=66537\nfileID=1000109878",
+        "Name": "NVTF-66537-10-2-2-3-1685050240.zip",
+        "Size": 93396,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lStewieAl",
-          "Description": "Engine plugin significantly improving the usability of the Caravan minigame. Optionally fixes AI bugs to make them a little smarter.",
-          "FileID": 1000108691,
+          "Author": "Carxt - Tgspy - lStewieAl",
+          "Description": "The newest generation in performance enhancement and stutter fixing. Windows 10 compatible. Featuring fixes to the dreaded micro stutter, and a high FPS Havok fix.",
+          "FileID": 1000109878,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81002/81002-1683112921-1482139329.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/66537/66537-1551173585-1817828269.png",
           "IsNSFW": false,
-          "ModID": 81002,
-          "Name": "Better Caravan",
-          "Version": "1.0"
+          "ModID": 66537,
+          "Name": "NVTF - New Vegas Tick Fix",
+          "Version": "9.9.1i"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "reWegi3xBJk=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=77933\nfileID=1000106830",
-        "Name": "High Resolution Bloom-77933-5-1679647221.7z",
-        "Size": 38910,
+        "Hash": "iyZX8PTQVGo=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=FalloutNVLauncher.exe",
+        "Name": "FalloutNVLauncher.exe",
+        "Size": 2074440,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Wall_SoGB",
-          "Description": "Allows for customizable bloom resolution, making it possible to use resolutions other than vanilla\u0027s quarter one.",
-          "FileID": 1000106830,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77933/77933-1660393538-1081059383.png",
-          "IsNSFW": false,
-          "ModID": 77933,
-          "Name": "High Resolution Bloom NVSE",
-          "Version": "1.1"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "FalloutNVLauncher.exe",
+          "GameVersion": "1.4.0.525",
+          "Hash": "iyZX8PTQVGo="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KSF6iHFyQAQ=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=58277\nfileID=1000109203",
-        "Name": "JIP LN NVSE Plugin-58277-57-01-1684021534.7z",
-        "Size": 1365562,
+        "Hash": "CtgKxI9M9Rg=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Apr2006_d3dx9_30_x64.cab",
+        "Name": "Redists_directx_Apr2006_d3dx9_30_x64.cab",
+        "Size": 1397822,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "jazzisparis and LuthienAnarion",
-          "Description": "This plugin is an extension of the New Vegas Script Extender (NVSE). It adds 1000\u002B new functions, which can be used in GECK scripting and (in some cases) as conditions.\n\nAdditionally, this mod includes numerous engine bug fixes/tweaks, and restores several broken game features.",
-          "FileID": 1000109203,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/58277-1-1424895949.jpg",
-          "IsNSFW": false,
-          "ModID": 58277,
-          "Name": "JIP LN NVSE Plugin",
-          "Version": "56.44"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Apr2006_d3dx9_30_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "CtgKxI9M9Rg="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "B71JV9Sxl0Q=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=77683\nfileID=1000103994",
-        "Name": "MoonlightNVSE-77683-1-5-1-1674501706.7z",
-        "Size": 63119,
+        "Hash": "oPBla2KxpVQ=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Aug2005_d3dx9_27_x64.cab",
+        "Name": "Redists_directx_Aug2005_d3dx9_27_x64.cab",
+        "Size": 1350534,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Wall_SoGB",
-          "Description": "Fixes moonlight, making the moon the light caster instead of the sun.",
-          "FileID": 1000103994,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77683/77683-1659029839-698389419.png",
-          "IsNSFW": false,
-          "ModID": 77683,
-          "Name": "MoonlightNVSE",
-          "Version": "1.2.1"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Aug2005_d3dx9_27_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "oPBla2KxpVQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WwZhjVVlZ0M=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Aug2008_XACT_x64.cab",
+        "Name": "Redists_directx_Aug2008_XACT_x64.cab",
+        "Size": 121764,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Aug2008_XACT_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "WwZhjVVlZ0M="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Kgmq3XpAj50=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Aug2009_XAudio_x64.cab",
+        "Name": "Redists_directx_Aug2009_XAudio_x64.cab",
+        "Size": 273264,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Aug2009_XAudio_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "Kgmq3XpAj50="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fi53VCz6my0=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\DXSETUP.exe",
+        "Name": "Redists_directx_DXSETUP.exe",
+        "Size": 525656,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\DXSETUP.exe",
+          "GameVersion": "1.4.0.525",
+          "Hash": "fi53VCz6my0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oPmyzYAoj+E=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\JUN2007_d3dx9_34_x64.cab",
+        "Name": "Redists_directx_JUN2007_d3dx9_34_x64.cab",
+        "Size": 1607766,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\JUN2007_d3dx9_34_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "oPmyzYAoj+E="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XnvfnLCdS5s=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Mar2008_d3dx9_37_x64.cab",
+        "Name": "Redists_directx_Mar2008_d3dx9_37_x64.cab",
+        "Size": 1769862,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Mar2008_d3dx9_37_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "XnvfnLCdS5s="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ZaV05AcXxWc=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Mar2009_XAudio_x64.cab",
+        "Name": "Redists_directx_Mar2009_XAudio_x64.cab",
+        "Size": 275036,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Mar2009_XAudio_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "ZaV05AcXxWc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OLNkMVS2o8g=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Nov2008_XACT_x64.cab",
+        "Name": "Redists_directx_Nov2008_XACT_x64.cab",
+        "Size": 121786,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Nov2008_XACT_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "OLNkMVS2o8g="
         }
       }
     },
@@ -1253,111 +2079,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dh+xUCYZfH4=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=62552\nfileID=1000075100",
-        "Name": "4GB Patcher-62552-1-5-1618787921.7z",
-        "Size": 104303,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Roy Batty - LuthienAnarion",
-          "Description": "Simple patcher to make Fallout New Vegas 4GB Aware. Supports all known Steam and GoG versions. The Bethesda.net and XBOX Game pass versions are NOT supported since NVSE will not support them either.",
-          "FileID": 1000075100,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/62552-0-1479507758.png",
-          "IsNSFW": false,
-          "ModID": 62552,
-          "Name": "FNV 4GB Patcher",
-          "Version": "1.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "lWDYRrCsxSQ=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=77205\nfileID=1000094799",
-        "Name": "Climate Control NVSE-77205-1-0-1656185991.zip",
-        "Size": 48285,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "doodlez Demorome",
-          "Description": "NVSE plugin which adds utilities and bug fixes for weather mods.",
-          "FileID": 1000094799,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77205/77205-1656184473-585639839.png",
-          "IsNSFW": false,
-          "ModID": 77205,
-          "Name": "Climate Control NVSE",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3QxrUwinitg=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=65906\nfileID=1000051301",
-        "Name": "Console Paste-65906-1-0-1546350722.zip",
-        "Size": 49088,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lStewieAl",
-          "Description": "Plugin to add clipboard paste support, as well as ctrl left/right and backspace/delete to aid typing in console.",
-          "FileID": 1000051301,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/65906/65906-1541598167-77550329.png",
-          "IsNSFW": false,
-          "ModID": 65906,
-          "Name": "Console Paste Support",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "qrbslhctvk4=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=64335\nfileID=1000073430",
-        "Name": "B42 Inertia V1.2-64335-1-2-1615691254.zip",
-        "Size": 3977,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xilandro - master JazzIsParis - DarianStephens",
-          "Description": "This mod adds weapon inertia. Part of Project B42. Thanks to JazzIsMagic... I mean Paris. ;)",
-          "FileID": 1000073430,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/64335/64335-1514890525-144217316.jpeg",
-          "IsNSFW": false,
-          "ModID": 64335,
-          "Name": "B42 Weapon Inertia",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2XTk4bV7uB4=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=81003\nfileID=1000109219",
-        "Name": "Navmesh Overhaul-81003-2-0-1684046474.zip",
-        "Size": 15410657,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Inthegrave",
-          "Description": "This mod fixes and improves vanilla game pathfinding errors and will provide a better and more challenging experience with the AI. This will be an ongoing project and will be supported with updates through the years. So look forward to many more updates to come.",
-          "FileID": 1000109219,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81003/81003-1683122504-906467206.jpeg",
-          "IsNSFW": false,
-          "ModID": 81003,
-          "Name": "Improved AI (Navmesh Overhaul Mod)",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "xR4zvvJxaNU=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=73596\nfileID=1000087214",
         "Name": "Strip Lights Region Fix - Uncut Wasteland-73596-Patch-1644119144.7z",
@@ -1379,41 +2100,222 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zC+0Gr0fIis=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=78877\nfileID=1000105178",
-        "Name": "Vanilla Enhancements Merged-78877-1-3-0-1676720992.7z",
-        "Size": 966,
+        "Hash": "dOiM8yRuEJ4=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=80443\nfileID=1000106514",
+        "Name": "Exterior Emittance Fix-80443-1-1-0-1679005223.7z",
+        "Size": 751758,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PushTheWinButton",
-          "Description": "A collection of small vanilla-friendly gameplay improvements that have been fully merged, updated, and cleaned.",
-          "FileID": 1000105178,
+          "Author": "Wall_SoGB",
+          "Description": "Mod fixes incorrect exterior emittance handling which leads to particles being black.",
+          "FileID": 1000106514,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/78877/78877-1667749891-1814061636.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/80443/80443-1678994473-359516554.png",
           "IsNSFW": false,
-          "ModID": 78877,
-          "Name": "Essential Vanilla Enhancements Merged",
-          "Version": "1.0.1"
+          "ModID": 80443,
+          "Name": "Exterior Emittance Fix - NVSE",
+          "Version": "1.1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "vXIF0q2SSlo=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=65854\nfileID=1000107054",
-        "Name": "FNV BSA Decompressor-65854-1-1-1680187862.7z",
-        "Size": 4932078,
+        "Hash": "uUOlXqLDWHc=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=75417\nfileID=1000097157",
+        "Name": "ISControl ESPless FULL-75417-1-4-1659839349.7z",
+        "Size": 2141,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "zilav",
-          "Description": "Decompresses the Fallout New Vegas BSAs and repacks them without zlib compression for performance, Also transcodes the .ogg sounds effects to .wav so they work. It also extracts any mp3 files to loose files because they will not play when in a BSA.",
-          "FileID": 1000107054,
+          "Author": "B42",
+          "Description": "Dynamically adds ISControl node system animation support \u002B easy per-weapon sights adjustment",
+          "FileID": 1000097157,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/65854/65854-1540922562-1965899483.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/75417/75417-1645453972-1109763279.png",
           "IsNSFW": false,
-          "ModID": 65854,
-          "Name": "FNV BSA Decompressor",
+          "ModID": 75417,
+          "Name": "ISControl Enabler",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dkYihA+FpBE=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Fallout_default.ini",
+        "Name": "Fallout_default.ini",
+        "Size": 19959,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Fallout_default.ini",
+          "GameVersion": "1.4.0.525",
+          "Hash": "dkYihA+FpBE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BZkQGW8Hvao=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Apr2006_d3dx9_30_x86.cab",
+        "Name": "Redists_directx_Apr2006_d3dx9_30_x86.cab",
+        "Size": 1115221,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Apr2006_d3dx9_30_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "BZkQGW8Hvao="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5XM5M6WZp6s=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Aug2005_d3dx9_27_x86.cab",
+        "Name": "Redists_directx_Aug2005_d3dx9_27_x86.cab",
+        "Size": 1077644,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Aug2005_d3dx9_27_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "5XM5M6WZp6s="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dgs1UYfgqJo=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Aug2008_XACT_x86.cab",
+        "Name": "Redists_directx_Aug2008_XACT_x86.cab",
+        "Size": 92996,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Aug2008_XACT_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "dgs1UYfgqJo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iJc1w+iQlio=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Aug2009_XAudio_x86.cab",
+        "Name": "Redists_directx_Aug2009_XAudio_x86.cab",
+        "Size": 272634,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Aug2009_XAudio_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "iJc1w+iQlio="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2IY/tyMtrbM=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\dxupdate.cab",
+        "Name": "Redists_directx_dxupdate.cab",
+        "Size": 95637,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\dxupdate.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "2IY/tyMtrbM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "S5QfuAmI+qw=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\JUN2007_d3dx9_34_x86.cab",
+        "Name": "Redists_directx_JUN2007_d3dx9_34_x86.cab",
+        "Size": 1607278,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\JUN2007_d3dx9_34_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "S5QfuAmI+qw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8u5U3yCJG6s=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Mar2008_d3dx9_37_x86.cab",
+        "Name": "Redists_directx_Mar2008_d3dx9_37_x86.cab",
+        "Size": 1443274,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Mar2008_d3dx9_37_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "8u5U3yCJG6s="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "imXV9IIuKSc=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Mar2009_XAudio_x86.cab",
+        "Name": "Redists_directx_Mar2009_XAudio_x86.cab",
+        "Size": 273010,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Mar2009_XAudio_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "imXV9IIuKSc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UKw2ERGqHuM=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Nov2008_XACT_x86.cab",
+        "Name": "Redists_directx_Nov2008_XACT_x86.cab",
+        "Size": 92676,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Nov2008_XACT_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "UKw2ERGqHuM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2XTk4bV7uB4=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=81003\nfileID=1000109219",
+        "Name": "Navmesh Overhaul-81003-2-0-1684046474.zip",
+        "Size": 15410657,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Inthegrave",
+          "Description": "This mod fixes and improves vanilla game pathfinding errors and will provide a better and more challenging experience with the AI. This will be an ongoing project and will be supported with updates through the years. So look forward to many more updates to come.",
+          "FileID": 1000109219,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81003/81003-1683122504-906467206.jpeg",
+          "IsNSFW": false,
+          "ModID": 81003,
+          "Name": "Improved AI (Navmesh Overhaul Mod)",
           "Version": "1.0"
         }
       }
@@ -1442,63 +2344,218 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GAbe6FCK2CU=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=79612\nfileID=1000103465",
-        "Name": "Cloud Upgrade-79612-1-0-1673472163.zip",
-        "Size": 60742,
+        "Hash": "lR9ep+Npfw0=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=77957\nfileID=1000097622",
+        "Name": "Pip Boy Shading Fix-77957-1-0a-1660501387.7z",
+        "Size": 37493,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "doodlez Wall_SoGB lStewieAl",
-          "Description": "NVSE plugin which adds pseudo-animated clouds for horizons and panoramic cloud systems.",
-          "FileID": 1000103465,
+          "Author": "Wall_SoGB",
+          "Description": "Fixes Pip-Boy\u0027s shading, making it not ignore lights around it",
+          "FileID": 1000097622,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79612/79612-1673471966-2018588465.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77957/77957-1660499414-161322604.png",
           "IsNSFW": false,
-          "ModID": 79612,
-          "Name": "Cloud Upgrade NVSE",
-          "Version": "1.0"
+          "ModID": 77957,
+          "Name": "Pip-Boy Shading Fix NVSE",
+          "Version": "1.0a"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "M/NtB6rGCq0=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=72317\nfileID=1000076041",
-        "Name": "Crash Logger-72317-3-0-0-1621016750.zip",
-        "Size": 10893,
+        "Hash": "kU+FQv0+2kQ=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=72320\nfileID=1000077351",
+        "Name": "Bonus Patch-72320-1-3a-1623348069.7z",
+        "Size": 176790,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DavidJCobb and llde",
-          "Description": "A DLL that logs raw crash data -- the instruction pointer, x86 register values, and an attempt at identifying the source DLL (and instruction pointer relative to its module base).",
-          "FileID": 1000076041,
+          "Author": "Hitman47101 and Uploader",
+          "Description": "Fixed camera jumps, animation snapping, movement lock, broken aim in 3rd person.",
+          "FileID": 1000077351,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/72317/72317-1621016898-1404992206.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/72320/72320-1621471275-159956781.jpeg",
           "IsNSFW": false,
-          "ModID": 72317,
-          "Name": "Crash Logger",
-          "Version": "3.0.0"
+          "ModID": 72320,
+          "Name": "Anniversary Anim Pack - General Bugfix",
+          "Version": "1.3a"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "oQgeiflO5dI=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=77989\nfileID=1000097728",
-        "Name": "High Resolution Screens-77989-1-1-1660681437.zip",
-        "Size": 38772,
+        "Hash": "jEW5uSualYQ=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=GDFFalloutNV.dll",
+        "Name": "GDFFalloutNV.dll",
+        "Size": 1963176,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lStewieAl - Wall_SoGB",
-          "Description": "Increases the render resolution of in-game screens (Pipboy, terminals, character creation menu) to match game\u0027s screen resolution.",
-          "FileID": 1000097728,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77989/77989-1660680689-691142270.png",
-          "IsNSFW": false,
-          "ModID": 77989,
-          "Name": "High Resolution Screens",
-          "Version": "1.1"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "GDFFalloutNV.dll",
+          "GameVersion": "1.4.0.525",
+          "Hash": "jEW5uSualYQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hTwpwm4DqE0=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\vcredist_x86.exe",
+        "Name": "Redists_vcredist_x86.exe",
+        "Size": 4216840,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\vcredist_x86.exe",
+          "GameVersion": "1.4.0.525",
+          "Hash": "hTwpwm4DqE0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xS940dNuEug=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Apr2006_MDX1_x86.cab",
+        "Name": "Redists_directx_Apr2006_MDX1_x86.cab",
+        "Size": 916430,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Apr2006_MDX1_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "xS940dNuEug="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iPY7JgKa7nk=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\AUG2006_XACT_x64.cab",
+        "Name": "Redists_directx_AUG2006_XACT_x64.cab",
+        "Size": 182903,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\AUG2006_XACT_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "iPY7JgKa7nk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QMOpQ+m6Cak=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Aug2008_XAudio_x64.cab",
+        "Name": "Redists_directx_Aug2008_XAudio_x64.cab",
+        "Size": 271404,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Aug2008_XAudio_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "QMOpQ+m6Cak="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3vujzIl3f18=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\BDANT.cab",
+        "Name": "Redists_directx_BDANT.cab",
+        "Size": 1155483,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\BDANT.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "3vujzIl3f18="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8yV2XN7ZZVA=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Feb2005_d3dx9_24_x64.cab",
+        "Name": "Redists_directx_Feb2005_d3dx9_24_x64.cab",
+        "Size": 1247499,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Feb2005_d3dx9_24_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "8yV2XN7ZZVA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VIKOdsRxABo=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\JUN2007_XACT_x64.cab",
+        "Name": "Redists_directx_JUN2007_XACT_x64.cab",
+        "Size": 197114,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\JUN2007_XACT_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "VIKOdsRxABo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lX6h8dvW4GY=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Mar2008_X3DAudio_x64.cab",
+        "Name": "Redists_directx_Mar2008_X3DAudio_x64.cab",
+        "Size": 55050,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Mar2008_X3DAudio_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "lX6h8dvW4GY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3X9x4nqPqz4=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Nov2007_d3dx10_36_x64.cab",
+        "Name": "Redists_directx_Nov2007_d3dx10_36_x64.cab",
+        "Size": 864600,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Nov2007_d3dx10_36_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "3X9x4nqPqz4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "j/f4d3fvr14=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Nov2008_XAudio_x64.cab",
+        "Name": "Redists_directx_Nov2008_XAudio_x64.cab",
+        "Size": 273960,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Nov2008_XAudio_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "j/f4d3fvr14="
         }
       }
     },
@@ -1589,48 +2646,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "LGGIi1tEeck=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=66927\nfileID=1000101760",
-        "Name": "JG NVSE-66927-4-93-1670006465.zip",
-        "Size": 1769862,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "carxt - lStewieAl - c6",
-          "Description": "PLAY THE GUITAR, PLAY IT AGAIN, MY JOHNNYYYYYYYYYYYY.",
-          "FileID": 1000101760,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/66927/66927-1557249061-172190903.jpeg",
-          "IsNSFW": false,
-          "ModID": 66927,
-          "Name": "JohnnyGuitar NVSE",
-          "Version": "4.45"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Titic7JWu1M=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=46451\nfileID=105739",
-        "Name": "Improved LOD noise Texture-46451-V1-00.rar",
-        "Size": 2096053,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Cyberlazy",
-          "Description": "Vastly improves the LOD noise texture used on all distant land. Uses only minimal video memory and greatly improves quality.",
-          "FileID": 105739,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/46451-1-1339205187.jpg",
-          "IsNSFW": false,
-          "ModID": 46451,
-          "Name": "Improved LOD Noise Texture",
-          "Version": "1.00"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "EIG/LNF/TwE=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=78906\nfileID=1000100776",
         "Name": "Strip Street Light Corrections-78906-1-0-0-1667713869.7z",
@@ -1646,6 +2661,208 @@
           "ModID": 78906,
           "Name": "Strip Street Light Corrections",
           "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kxdKPwLJb0Y=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=72541\nfileID=1000109003",
+        "Name": "ShowOff NVSE-72541-1-60-1683687114.7z",
+        "Size": 3372925,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Dormies - Demorome and Trooper",
+          "Description": "An NVSE plugin which adds new functions and engine-level tweaks.\n\nFor heathens who have forsaken the Vanilla-Style way.",
+          "FileID": 1000109003,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/72541/72541-1622853912-1516312744.png",
+          "IsNSFW": false,
+          "ModID": 72541,
+          "Name": "ShowOff NVSE Plugin",
+          "Version": "1.20"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5PXgSEF7wQU=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=81002\nfileID=1000108691",
+        "Name": "Better Caravan-81002-1-0-1683114195.zip",
+        "Size": 1762360,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lStewieAl",
+          "Description": "Engine plugin significantly improving the usability of the Caravan minigame. Optionally fixes AI bugs to make them a little smarter.",
+          "FileID": 1000108691,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81002/81002-1683112921-1482139329.jpeg",
+          "IsNSFW": false,
+          "ModID": 81002,
+          "Name": "Better Caravan",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HGzxeu91GTQ=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=high.ini",
+        "Name": "high.ini",
+        "Size": 1116,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "high.ini",
+          "GameVersion": "1.4.0.525",
+          "Hash": "HGzxeu91GTQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MzptX1cC5RM=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Apr2006_MDX1_x86_Archive.cab",
+        "Name": "Redists_directx_Apr2006_MDX1_x86_Archive.cab",
+        "Size": 4162630,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Apr2006_MDX1_x86_Archive.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "MzptX1cC5RM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uGIUU7C7zMk=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\AUG2006_XACT_x86.cab",
+        "Name": "Redists_directx_AUG2006_XACT_x86.cab",
+        "Size": 137235,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\AUG2006_XACT_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "uGIUU7C7zMk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1Y6t/zMJczg=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Aug2008_XAudio_x86.cab",
+        "Name": "Redists_directx_Aug2008_XAudio_x86.cab",
+        "Size": 271038,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Aug2008_XAudio_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "1Y6t/zMJczg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4xeR4g+F5AE=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\BDAXP.cab",
+        "Name": "Redists_directx_BDAXP.cab",
+        "Size": 975148,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\BDAXP.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "4xeR4g+F5AE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LX9DzFM5uWU=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Feb2005_d3dx9_24_x86.cab",
+        "Name": "Redists_directx_Feb2005_d3dx9_24_x86.cab",
+        "Size": 1013225,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Feb2005_d3dx9_24_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "LX9DzFM5uWU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Zz3AE5ChiBw=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\JUN2007_XACT_x86.cab",
+        "Name": "Redists_directx_JUN2007_XACT_x86.cab",
+        "Size": 152901,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\JUN2007_XACT_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "Zz3AE5ChiBw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cnjBZ+5tXao=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Mar2008_X3DAudio_x86.cab",
+        "Name": "Redists_directx_Mar2008_X3DAudio_x86.cab",
+        "Size": 21867,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Mar2008_X3DAudio_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "cnjBZ+5tXao="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EpuJddH1dI8=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Nov2007_d3dx10_36_x86.cab",
+        "Name": "Redists_directx_Nov2007_d3dx10_36_x86.cab",
+        "Size": 803876,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Nov2007_d3dx10_36_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "EpuJddH1dI8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mp8Gof/LjZw=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Nov2008_XAudio_x86.cab",
+        "Name": "Redists_directx_Nov2008_XAudio_x86.cab",
+        "Size": 272603,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Nov2008_XAudio_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "mp8Gof/LjZw="
         }
       }
     },
@@ -1673,21 +2890,223 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "E5xZZIzuaws=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=71973\nfileID=1000074493",
-        "Name": "Fast Weapon Lag Fix-71973-1-0-1617537597.zip",
-        "Size": 5027,
+        "Hash": "dW9hYpDP0Gg=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=71239\nfileID=1000106428",
+        "Name": "Unofficial Patch NVSE Plus-71239-1-4-4-1678801170.zip",
+        "Size": 37980,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lStewieAl",
-          "Description": "Improves framerate in combat by fixing an engine bug that lowered framerate while attacking an enemy with a health-bar visible.",
-          "FileID": 1000074493,
+          "Author": "The UPNVSE Pals",
+          "Description": "An updated and refined selection of bugfixes (mostly) requiring NVSE.",
+          "FileID": 1000106428,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71973/71973-1617922595-907583889.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71239/71239-1613150758-1586974762.png",
           "IsNSFW": false,
-          "ModID": 71973,
-          "Name": "Combat Lag Fix (NVSE)",
-          "Version": "1.0"
+          "ModID": 71239,
+          "Name": "Unofficial Patch NVSE Plus",
+          "Version": "1.3.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "S/epgjiKRc0=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=68714\nfileID=1000092775",
+        "Name": "MLF-68714-3-0-1652987496.zip",
+        "Size": 4720,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "iranrmrf",
+          "Description": "This plugin fixes the Fallout New Vegas mod limit bug. It allows a maximum of 255 plugins to be loaded. It can also cause an increase in fps, remove game stutter and allow for faster loading times especially when using a large number of mods.",
+          "FileID": 1000092775,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/68714/68714-1587582723-491728536.png",
+          "IsNSFW": false,
+          "ModID": 68714,
+          "Name": "FNV Mod Limit Fix",
+          "Version": "2.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "R0p/1A6yCSw=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=62941\nfileID=1000101805",
+        "Name": "Mojave Arsenal-62941-3-0-8-1670066854.7z",
+        "Size": 49269,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "Adds ammo variants, reloading parts, and weapon mods as loot; fixes item naming conventions; improves recipes; and adds options for configuring GRA. Compatible with mods which add new weapons and weapon mods, without the need for a patch.",
+          "FileID": 1000101805,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/62941-0-1488712092.png",
+          "IsNSFW": false,
+          "ModID": 62941,
+          "Name": "Mojave Arsenal",
+          "Version": "2.70"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/csqhiVHaFo=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=InstallScript.vdf",
+        "Name": "InstallScript.vdf",
+        "Size": 889,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "InstallScript.vdf",
+          "GameVersion": "1.4.0.525",
+          "Hash": "7I7vGi4/3vU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YksawrVuX4A=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Apr2006_XACT_x64.cab",
+        "Name": "Redists_directx_Apr2006_XACT_x64.cab",
+        "Size": 179125,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Apr2006_XACT_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "YksawrVuX4A="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VJ2zssOv7Fw=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\AUG2006_xinput_x64.cab",
+        "Name": "Redists_directx_AUG2006_xinput_x64.cab",
+        "Size": 87142,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\AUG2006_xinput_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "VJ2zssOv7Fw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "L4LiX/0CLT4=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Aug2009_D3DCompiler_42_x64.cab",
+        "Name": "Redists_directx_Aug2009_D3DCompiler_42_x64.cab",
+        "Size": 919036,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Aug2009_D3DCompiler_42_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "L4LiX/0CLT4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lxjom5/8LZY=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Dec2005_d3dx9_28_x64.cab",
+        "Name": "Redists_directx_Dec2005_d3dx9_28_x64.cab",
+        "Size": 1357968,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Dec2005_d3dx9_28_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "lxjom5/8LZY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wgfdku+Wu/0=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Feb2006_d3dx9_29_x64.cab",
+        "Name": "Redists_directx_Feb2006_d3dx9_29_x64.cab",
+        "Size": 1362796,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Feb2006_d3dx9_29_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "wgfdku+Wu/0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BhVKAegwppk=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\JUN2008_d3dx10_38_x64.cab",
+        "Name": "Redists_directx_JUN2008_d3dx10_38_x64.cab",
+        "Size": 867828,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\JUN2008_d3dx10_38_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "BhVKAegwppk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WCYAqfkcAh8=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Mar2008_XACT_x64.cab",
+        "Name": "Redists_directx_Mar2008_XACT_x64.cab",
+        "Size": 122336,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Mar2008_XACT_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "WCYAqfkcAh8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UVZ+lZX+e8c=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Nov2007_d3dx9_36_x64.cab",
+        "Name": "Redists_directx_Nov2007_d3dx9_36_x64.cab",
+        "Size": 1802058,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Nov2007_d3dx9_36_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "UVZ+lZX+e8c="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cesOKNk7q7c=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Oct2005_xinput_x64.cab",
+        "Name": "Redists_directx_Oct2005_xinput_x64.cab",
+        "Size": 86029,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Oct2005_xinput_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "cesOKNk7q7c="
         }
       }
     },
@@ -1757,21 +3176,202 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qJ5hAVMHWtA=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=77781\nfileID=1000096960",
-        "Name": "No Muzzle Flash Lights-77781-2-0-1659534450.7z",
-        "Size": 738,
+        "Hash": "BOeJZE3JwfI=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=79516\nfileID=1000103531",
+        "Name": "Fog-based Object Culling-79516-2-1673628097.7z",
+        "Size": 39646,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "c6",
-          "Description": "Improves game performance in combat by disabling lights produced by muzzle flashes.",
-          "FileID": 1000096960,
+          "Author": "Wall_SoGB",
+          "Description": "Dynamically adjusts draw distance in accordance with the fog to improve performance with little to no visual difference.",
+          "FileID": 1000103531,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77781/77781-1659534301-1297496060.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79516/79516-1672686840-1587444604.png",
           "IsNSFW": false,
-          "ModID": 77781,
-          "Name": "No Muzzle Flash Lights",
-          "Version": "2.0"
+          "ModID": 79516,
+          "Name": "Fog-based Object Culling",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cd4A7OvEW3g=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=80360\nfileID=1000106294",
+        "Name": "Harder Barter Faster Stronger-80360-1-01-1678556512.rar",
+        "Size": 405,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "S6S",
+          "Description": "This small GameSetting tweak makes the economy harsher for characters with low barter, makes barter affect prices more, and slightly narrows the difference between max sell and min buy prices.",
+          "FileID": 1000106294,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/80360/80360-1678479030-1595403157.png",
+          "IsNSFW": false,
+          "ModID": 80360,
+          "Name": "Harder Barter Faster Stronger",
+          "Version": "1.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hH9CoPGKkJk=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=libvorbis.dll",
+        "Name": "libvorbis.dll",
+        "Size": 1241528,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "libvorbis.dll",
+          "GameVersion": "1.4.0.525",
+          "Hash": "hH9CoPGKkJk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2Hmndv/Wpso=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Apr2006_XACT_x86.cab",
+        "Name": "Redists_directx_Apr2006_XACT_x86.cab",
+        "Size": 133095,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Apr2006_XACT_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "2Hmndv/Wpso="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lhoeYSKK2SA=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\AUG2006_xinput_x86.cab",
+        "Name": "Redists_directx_AUG2006_xinput_x86.cab",
+        "Size": 46058,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\AUG2006_xinput_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "lhoeYSKK2SA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mtr8Lhs6h0A=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Aug2009_D3DCompiler_42_x86.cab",
+        "Name": "Redists_directx_Aug2009_D3DCompiler_42_x86.cab",
+        "Size": 900598,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Aug2009_D3DCompiler_42_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "mtr8Lhs6h0A="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ldGQ7/2IuOg=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Dec2005_d3dx9_28_x86.cab",
+        "Name": "Redists_directx_Dec2005_d3dx9_28_x86.cab",
+        "Size": 1079448,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Dec2005_d3dx9_28_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "ldGQ7/2IuOg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PNv6Oy3Bcnk=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Feb2006_d3dx9_29_x86.cab",
+        "Name": "Redists_directx_Feb2006_d3dx9_29_x86.cab",
+        "Size": 1084712,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Feb2006_d3dx9_29_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "PNv6Oy3Bcnk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6WgIzohGwiI=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\JUN2008_d3dx10_38_x86.cab",
+        "Name": "Redists_directx_JUN2008_d3dx10_38_x86.cab",
+        "Size": 849919,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\JUN2008_d3dx10_38_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "6WgIzohGwiI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "z3+krdUz8Hg=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Mar2008_XACT_x86.cab",
+        "Name": "Redists_directx_Mar2008_XACT_x86.cab",
+        "Size": 93726,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Mar2008_XACT_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "z3+krdUz8Hg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OaVN4wQjdxA=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Nov2007_d3dx9_36_x86.cab",
+        "Name": "Redists_directx_Nov2007_d3dx9_36_x86.cab",
+        "Size": 1709360,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Nov2007_d3dx9_36_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "OaVN4wQjdxA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4nMnob9xx9s=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Oct2005_xinput_x86.cab",
+        "Name": "Redists_directx_Oct2005_xinput_x86.cab",
+        "Size": 45351,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Oct2005_xinput_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "4nMnob9xx9s="
         }
       }
     },
@@ -1799,21 +3399,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "A7zdekPT4bY=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=42507\nfileID=1000001534",
-        "Name": "MCM BugFix 2-42507-.7z",
-        "Size": 18141,
+        "Hash": "ZFpg3S8zZsU=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=64623\nfileID=1000109953",
+        "Name": "The Living Desert - Main File 2.5-64623-2-5-1685184232.zip",
+        "Size": 13064337,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pelinor",
-          "Description": "Allows any number of mods to be configured from a single menu.",
-          "FileID": 1000001534,
+          "Author": "Made by ElPascal - v1 61 kindly provided by Kazopert",
+          "Description": "This mod adds hundreds of npcs and several scripted events to the world of Fallout: New Vegas; people patrolling the roads, traveling between towns, occupying locations, exploring the desert and reacting dynamically to your choices throughout the game. The Mojave will never feel empty again.",
+          "FileID": 1000109953,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/42507-1-1337306058.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/64623/64623-1565664093-2136303680.jpeg",
           "IsNSFW": false,
-          "ModID": 42507,
-          "Name": "The Mod Configuration Menu",
-          "Version": "1.5"
+          "ModID": 64623,
+          "Name": "The Living Desert - Travelers Patrols Consequences Increased Population and more",
+          "Version": "2.2"
         }
       }
     },
@@ -1841,42 +3441,181 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8VzJo47ZT/E=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=71336\nfileID=1000081372",
-        "Name": "kNVSE-71336-20-1632181674.7z",
-        "Size": 178231,
+        "Hash": "I6mtWehbAlQ=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=77963\nfileID=1000098329",
+        "Name": "High Res Local Maps-77963-1-2-1661794525.7z",
+        "Size": 33682,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kormakur",
-          "Description": "xNVSE plugin that enables having custom animations for weapons and actors. Fixes the engine-bound anim group limit problem.",
-          "FileID": 1000081372,
+          "Author": "VishVadeva50 - WallSoGB",
+          "Description": "Increases the resolution of local maps from 128 to 512 and optionally 1024.",
+          "FileID": 1000098329,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71336/71336-1615597563-1106205004.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77963/77963-1660516906-845756921.png",
           "IsNSFW": false,
-          "ModID": 71336,
-          "Name": "kNVSE Animation Plugin",
-          "Version": "20"
+          "ModID": 77963,
+          "Name": "High Res Local Maps",
+          "Version": "1.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kU+FQv0+2kQ=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=72320\nfileID=1000077351",
-        "Name": "Bonus Patch-72320-1-3a-1623348069.7z",
-        "Size": 176790,
+        "Hash": "7i03JvYf6jI=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=libvorbisfile.dll",
+        "Name": "libvorbisfile.dll",
+        "Size": 120248,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Hitman47101 and Uploader",
-          "Description": "Fixed camera jumps, animation snapping, movement lock, broken aim in 3rd person.",
-          "FileID": 1000077351,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/72320/72320-1621471275-159956781.jpeg",
-          "IsNSFW": false,
-          "ModID": 72320,
-          "Name": "Anniversary Anim Pack - General Bugfix",
-          "Version": "1.3a"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "libvorbisfile.dll",
+          "GameVersion": "1.4.0.525",
+          "Hash": "7i03JvYf6jI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "J52EL9o/jaU=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Apr2006_xinput_x64.cab",
+        "Name": "Redists_directx_Apr2006_xinput_x64.cab",
+        "Size": 87101,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Apr2006_xinput_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "J52EL9o/jaU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LbmzbPe3TMU=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\AUG2007_d3dx10_35_x64.cab",
+        "Name": "Redists_directx_AUG2007_d3dx10_35_x64.cab",
+        "Size": 852286,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\AUG2007_d3dx10_35_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "LbmzbPe3TMU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4hYh7Vpylfk=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Aug2009_d3dcsx_42_x64.cab",
+        "Name": "Redists_directx_Aug2009_d3dcsx_42_x64.cab",
+        "Size": 3112103,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Aug2009_d3dcsx_42_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "4hYh7Vpylfk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3Jad9j51yfg=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\DEC2006_d3dx10_00_x64.cab",
+        "Name": "Redists_directx_DEC2006_d3dx10_00_x64.cab",
+        "Size": 212799,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\DEC2006_d3dx10_00_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "3Jad9j51yfg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4P+CHuEjnSI=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Feb2006_XACT_x64.cab",
+        "Name": "Redists_directx_Feb2006_XACT_x64.cab",
+        "Size": 178359,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Feb2006_XACT_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "4P+CHuEjnSI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "I+BMoUiZTxE=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\JUN2008_d3dx9_38_x64.cab",
+        "Name": "Redists_directx_JUN2008_d3dx9_38_x64.cab",
+        "Size": 1792600,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\JUN2008_d3dx9_38_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "I+BMoUiZTxE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Jq3pR7Ihjz4=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Mar2008_XAudio_x64.cab",
+        "Name": "Redists_directx_Mar2008_XAudio_x64.cab",
+        "Size": 251186,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Mar2008_XAudio_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "Jq3pR7Ihjz4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wqH4Pz2cYZE=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\NOV2007_X3DAudio_x64.cab",
+        "Name": "Redists_directx_NOV2007_X3DAudio_x64.cab",
+        "Size": 46144,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\NOV2007_X3DAudio_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "wqH4Pz2cYZE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Z4vK5PnMggc=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\OCT2006_d3dx9_31_x64.cab",
+        "Name": "Redists_directx_OCT2006_d3dx9_31_x64.cab",
+        "Size": 1412894,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\OCT2006_d3dx9_31_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "Z4vK5PnMggc="
         }
       }
     },
@@ -1904,21 +3643,181 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uQirqmcN9g8=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=67761\nfileID=1000057020",
-        "Name": "Faster Pip-Boy Animation (2x)-67761-1-0-1571797210.zip",
-        "Size": 7021,
+        "Hash": "k8IY6nIjp+Q=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=80666\nfileID=1000107287",
+        "Name": "ActorCause Save Bloat Fix-80666-1-0-1680643208.zip",
+        "Size": 44180,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ceski",
-          "Description": "Modifies the Pip-Boy animation to be 2x or 3x faster than default. Works with most Pip-Boy mods.",
-          "FileID": 1000057020,
+          "Author": "lStewieAl",
+          "Description": "Fixes a save bloating issue related to actors detecting the player, improving save/load speed and decreasing save size 10-30% depending on playthrough length.",
+          "FileID": 1000107287,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/67761/67761-1571799036-1230930965.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/80666/80666-1680642398-193203938.png",
           "IsNSFW": false,
-          "ModID": 67761,
-          "Name": "Faster Pip-Boy Animation",
+          "ModID": 80666,
+          "Name": "ActorCause Save Bloat Fix",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9tsoVUDNMoQ=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=low.ini",
+        "Name": "low.ini",
+        "Size": 1107,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "low.ini",
+          "GameVersion": "1.4.0.525",
+          "Hash": "9tsoVUDNMoQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QVJ4attEoPs=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Apr2006_xinput_x86.cab",
+        "Name": "Redists_directx_Apr2006_xinput_x86.cab",
+        "Size": 46002,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Apr2006_xinput_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "QVJ4attEoPs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/vI5Z0K04Bc=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\AUG2007_d3dx10_35_x86.cab",
+        "Name": "Redists_directx_AUG2007_d3dx10_35_x86.cab",
+        "Size": 796859,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\AUG2007_d3dx10_35_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "/vI5Z0K04Bc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "aLSEwFa+Jl4=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Aug2009_d3dcsx_42_x86.cab",
+        "Name": "Redists_directx_Aug2009_d3dcsx_42_x86.cab",
+        "Size": 3319732,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Aug2009_d3dcsx_42_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "aLSEwFa+Jl4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TbuwFCihf0U=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\DEC2006_d3dx10_00_x86.cab",
+        "Name": "Redists_directx_DEC2006_d3dx10_00_x86.cab",
+        "Size": 191712,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\DEC2006_d3dx10_00_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "TbuwFCihf0U="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5MKldqTorOk=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Feb2006_XACT_x86.cab",
+        "Name": "Redists_directx_Feb2006_XACT_x86.cab",
+        "Size": 132409,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Feb2006_XACT_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "5MKldqTorOk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zatSXsozZE0=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\JUN2008_d3dx9_38_x86.cab",
+        "Name": "Redists_directx_JUN2008_d3dx9_38_x86.cab",
+        "Size": 1463878,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\JUN2008_d3dx9_38_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "zatSXsozZE0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LUWA2VsT79Q=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Mar2008_XAudio_x86.cab",
+        "Name": "Redists_directx_Mar2008_XAudio_x86.cab",
+        "Size": 226242,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Mar2008_XAudio_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "LUWA2VsT79Q="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KDDux156odU=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\NOV2007_X3DAudio_x86.cab",
+        "Name": "Redists_directx_NOV2007_X3DAudio_x86.cab",
+        "Size": 18496,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\NOV2007_X3DAudio_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "KDDux156odU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wOyej03OG5M=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\OCT2006_d3dx9_31_x86.cab",
+        "Name": "Redists_directx_OCT2006_d3dx9_31_x86.cab",
+        "Size": 1127209,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\OCT2006_d3dx9_31_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "wOyej03OG5M="
         }
       }
     },
@@ -1946,21 +3845,223 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "18hxHtJjkW0=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=66537\nfileID=1000108541",
-        "Name": "NVTF-66537-10-2-2b-1682919335.zip",
-        "Size": 87687,
+        "Hash": "reWegi3xBJk=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=77933\nfileID=1000106830",
+        "Name": "High Resolution Bloom-77933-5-1679647221.7z",
+        "Size": 38910,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Carxt - Tgspy - lStewieAl",
-          "Description": "The newest generation in performance enhancement and stutter fixing. Windows 10 compatible. Featuring fixes to the dreaded micro stutter, and a high FPS Havok fix.",
-          "FileID": 1000108541,
+          "Author": "Wall_SoGB",
+          "Description": "Allows for customizable bloom resolution, making it possible to use resolutions other than vanilla\u0027s quarter one.",
+          "FileID": 1000106830,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/66537/66537-1551173585-1817828269.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77933/77933-1660393538-1081059383.png",
           "IsNSFW": false,
-          "ModID": 66537,
-          "Name": "NVTF - New Vegas Tick Fix",
-          "Version": "9.9.1i"
+          "ModID": 77933,
+          "Name": "High Resolution Bloom NVSE",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KSF6iHFyQAQ=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=58277\nfileID=1000109203",
+        "Name": "JIP LN NVSE Plugin-58277-57-01-1684021534.7z",
+        "Size": 1365562,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "jazzisparis and LuthienAnarion",
+          "Description": "This plugin is an extension of the New Vegas Script Extender (NVSE). It adds 1000\u002B new functions, which can be used in GECK scripting and (in some cases) as conditions.\n\nAdditionally, this mod includes numerous engine bug fixes/tweaks, and restores several broken game features.",
+          "FileID": 1000109203,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/58277-1-1424895949.jpg",
+          "IsNSFW": false,
+          "ModID": 58277,
+          "Name": "JIP LN NVSE Plugin",
+          "Version": "56.44"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "B71JV9Sxl0Q=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=77683\nfileID=1000103994",
+        "Name": "MoonlightNVSE-77683-1-5-1-1674501706.7z",
+        "Size": 63119,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Wall_SoGB",
+          "Description": "Fixes moonlight, making the moon the light caster instead of the sun.",
+          "FileID": 1000103994,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77683/77683-1659029839-698389419.png",
+          "IsNSFW": false,
+          "ModID": 77683,
+          "Name": "MoonlightNVSE",
+          "Version": "1.2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5B2hMaC4YOs=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=MainTitle.wav",
+        "Name": "MainTitle.wav",
+        "Size": 6158306,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "MainTitle.wav",
+          "GameVersion": "1.4.0.525",
+          "Hash": "5B2hMaC4YOs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VAy/lQFPTUw=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\APR2007_d3dx10_33_x64.cab",
+        "Name": "Redists_directx_APR2007_d3dx10_33_x64.cab",
+        "Size": 698612,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\APR2007_d3dx10_33_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "VAy/lQFPTUw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "phg4qplLEzs=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\AUG2007_d3dx9_35_x64.cab",
+        "Name": "Redists_directx_AUG2007_d3dx9_35_x64.cab",
+        "Size": 1800152,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\AUG2007_d3dx9_35_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "phg4qplLEzs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2uMXYCN+Ilc=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Aug2009_d3dx10_42_x64.cab",
+        "Name": "Redists_directx_Aug2009_d3dx10_42_x64.cab",
+        "Size": 232635,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Aug2009_d3dx10_42_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "2uMXYCN+Ilc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "suIvMNrx+R4=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\DEC2006_d3dx9_32_x64.cab",
+        "Name": "Redists_directx_DEC2006_d3dx9_32_x64.cab",
+        "Size": 1571154,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\DEC2006_d3dx9_32_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "suIvMNrx+R4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4RbaAKE44Os=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\FEB2007_XACT_x64.cab",
+        "Name": "Redists_directx_FEB2007_XACT_x64.cab",
+        "Size": 194667,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\FEB2007_XACT_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "4RbaAKE44Os="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vVbyJQdyu0s=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\JUN2008_X3DAudio_x64.cab",
+        "Name": "Redists_directx_JUN2008_X3DAudio_x64.cab",
+        "Size": 55154,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\JUN2008_X3DAudio_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "vVbyJQdyu0s="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FBBthK9RRZ0=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Mar2009_d3dx10_41_x64.cab",
+        "Name": "Redists_directx_Mar2009_d3dx10_41_x64.cab",
+        "Size": 1067160,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Mar2009_d3dx10_41_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "FBBthK9RRZ0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "29NggDnxFgs=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\NOV2007_XACT_x64.cab",
+        "Name": "Redists_directx_NOV2007_XACT_x64.cab",
+        "Size": 196754,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\NOV2007_XACT_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "29NggDnxFgs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RzK25eok8H4=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\OCT2006_XACT_x64.cab",
+        "Name": "Redists_directx_OCT2006_XACT_x64.cab",
+        "Size": 182361,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\OCT2006_XACT_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "RzK25eok8H4="
         }
       }
     },
@@ -1988,42 +4089,244 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dOiM8yRuEJ4=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=80443\nfileID=1000106514",
-        "Name": "Exterior Emittance Fix-80443-1-1-0-1679005223.7z",
-        "Size": 751758,
+        "Hash": "OMtnf7Kktmg=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=77945\nfileID=1000109958",
+        "Name": "The Living Desert - EVEM Patch-77945-1-0-1685198572.7z",
+        "Size": 531,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Wall_SoGB",
-          "Description": "Mod fixes incorrect exterior emittance handling which leads to particles being black.",
-          "FileID": 1000106514,
+          "Author": "VishVadeva50",
+          "Description": "Patches for TTW and more.",
+          "FileID": 1000109958,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/80443/80443-1678994473-359516554.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77945/77945-1660521676-2143016755.png",
           "IsNSFW": false,
-          "ModID": 80443,
-          "Name": "Exterior Emittance Fix - NVSE",
-          "Version": "1.1.0"
+          "ModID": 77945,
+          "Name": "Vish\u0027s Patch Hub (TTW)",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+jhQKRgtn1U=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=68776\nfileID=1000104283",
-        "Name": "NVCS Vanilla Weights-68776-13-1675087221.7z",
-        "Size": 17612,
+        "Hash": "zC+0Gr0fIis=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=78877\nfileID=1000105178",
+        "Name": "Vanilla Enhancements Merged-78877-1-3-0-1676720992.7z",
+        "Size": 966,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Various",
-          "Description": "A skeleton with compatibility for the latest mods",
-          "FileID": 1000104283,
+          "Author": "PushTheWinButton",
+          "Description": "A collection of small vanilla-friendly gameplay improvements that have been fully merged, updated, and cleaned.",
+          "FileID": 1000105178,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/68776/68776-1588193623-909988060.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/78877/78877-1667749891-1814061636.png",
           "IsNSFW": false,
-          "ModID": 68776,
-          "Name": "NV Compatibility Skeleton",
-          "Version": "12"
+          "ModID": 78877,
+          "Name": "Essential Vanilla Enhancements Merged",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lWDYRrCsxSQ=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=77205\nfileID=1000094799",
+        "Name": "Climate Control NVSE-77205-1-0-1656185991.zip",
+        "Size": 48285,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "doodlez Demorome",
+          "Description": "NVSE plugin which adds utilities and bug fixes for weather mods.",
+          "FileID": 1000094799,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77205/77205-1656184473-585639839.png",
+          "IsNSFW": false,
+          "ModID": 77205,
+          "Name": "Climate Control NVSE",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3QxrUwinitg=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=65906\nfileID=1000051301",
+        "Name": "Console Paste-65906-1-0-1546350722.zip",
+        "Size": 49088,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lStewieAl",
+          "Description": "Plugin to add clipboard paste support, as well as ctrl left/right and backspace/delete to aid typing in console.",
+          "FileID": 1000051301,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/65906/65906-1541598167-77550329.png",
+          "IsNSFW": false,
+          "ModID": 65906,
+          "Name": "Console Paste Support",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "okzM76KVs5c=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=medium.ini",
+        "Name": "medium.ini",
+        "Size": 1115,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "medium.ini",
+          "GameVersion": "1.4.0.525",
+          "Hash": "okzM76KVs5c="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GwzxBLmdki8=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\APR2007_d3dx10_33_x86.cab",
+        "Name": "Redists_directx_APR2007_d3dx10_33_x86.cab",
+        "Size": 695857,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\APR2007_d3dx10_33_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "GwzxBLmdki8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yCL07mfcolU=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\AUG2007_d3dx9_35_x86.cab",
+        "Name": "Redists_directx_AUG2007_d3dx9_35_x86.cab",
+        "Size": 1708144,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\AUG2007_d3dx9_35_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "yCL07mfcolU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "r/gbWbsl1DY=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Aug2009_d3dx10_42_x86.cab",
+        "Name": "Redists_directx_Aug2009_d3dx10_42_x86.cab",
+        "Size": 192131,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Aug2009_d3dx10_42_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "r/gbWbsl1DY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lz0XGDkdblE=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\DEC2006_d3dx9_32_x86.cab",
+        "Name": "Redists_directx_DEC2006_d3dx9_32_x86.cab",
+        "Size": 1574376,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\DEC2006_d3dx9_32_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "lz0XGDkdblE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xHsqwiiAfxY=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\FEB2007_XACT_x86.cab",
+        "Name": "Redists_directx_FEB2007_XACT_x86.cab",
+        "Size": 147983,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\FEB2007_XACT_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "xHsqwiiAfxY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uF7/KuPAQMg=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\JUN2008_X3DAudio_x86.cab",
+        "Name": "Redists_directx_JUN2008_X3DAudio_x86.cab",
+        "Size": 21905,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\JUN2008_X3DAudio_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "uF7/KuPAQMg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Mrw5gZwuEPc=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Mar2009_d3dx10_41_x86.cab",
+        "Name": "Redists_directx_Mar2009_d3dx10_41_x86.cab",
+        "Size": 1040737,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Mar2009_d3dx10_41_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "Mrw5gZwuEPc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ZzaLcYfIDUg=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\NOV2007_XACT_x86.cab",
+        "Name": "Redists_directx_NOV2007_XACT_x86.cab",
+        "Size": 148264,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\NOV2007_XACT_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "ZzaLcYfIDUg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "h25CA4X7nWo=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\OCT2006_XACT_x86.cab",
+        "Name": "Redists_directx_OCT2006_XACT_x86.cab",
+        "Size": 138009,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\OCT2006_XACT_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "h25CA4X7nWo="
         }
       }
     },
@@ -2051,21 +4354,207 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "lR9ep+Npfw0=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=77957\nfileID=1000097622",
-        "Name": "Pip Boy Shading Fix-77957-1-0a-1660501387.7z",
-        "Size": 37493,
+        "Hash": "GAbe6FCK2CU=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=79612\nfileID=1000103465",
+        "Name": "Cloud Upgrade-79612-1-0-1673472163.zip",
+        "Size": 60742,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Wall_SoGB",
-          "Description": "Fixes Pip-Boy\u0027s shading, making it not ignore lights around it",
-          "FileID": 1000097622,
+          "Author": "doodlez Wall_SoGB lStewieAl",
+          "Description": "NVSE plugin which adds pseudo-animated clouds for horizons and panoramic cloud systems.",
+          "FileID": 1000103465,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77957/77957-1660499414-161322604.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79612/79612-1673471966-2018588465.png",
           "IsNSFW": false,
-          "ModID": 77957,
-          "Name": "Pip-Boy Shading Fix NVSE",
-          "Version": "1.0a"
+          "ModID": 79612,
+          "Name": "Cloud Upgrade NVSE",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "M/NtB6rGCq0=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=72317\nfileID=1000076041",
+        "Name": "Crash Logger-72317-3-0-0-1621016750.zip",
+        "Size": 10893,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DavidJCobb and llde",
+          "Description": "A DLL that logs raw crash data -- the instruction pointer, x86 register values, and an attempt at identifying the source DLL (and instruction pointer relative to its module base).",
+          "FileID": 1000076041,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/72317/72317-1621016898-1404992206.png",
+          "IsNSFW": false,
+          "ModID": 72317,
+          "Name": "Crash Logger",
+          "Version": "3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oQgeiflO5dI=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=77989\nfileID=1000097728",
+        "Name": "High Resolution Screens-77989-1-1-1660681437.zip",
+        "Size": 38772,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lStewieAl - Wall_SoGB",
+          "Description": "Increases the render resolution of in-game screens (Pipboy, terminals, character creation menu) to match game\u0027s screen resolution.",
+          "FileID": 1000097728,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77989/77989-1660680689-691142270.png",
+          "IsNSFW": false,
+          "ModID": 77989,
+          "Name": "High Resolution Screens",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "AaDvGQ4DQgk=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Readme.txt",
+        "Name": "Readme.txt",
+        "Size": 4086,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Readme.txt",
+          "GameVersion": "1.4.0.525",
+          "Hash": "AaDvGQ4DQgk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CvPhUfhFjyQ=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\APR2007_d3dx9_33_x64.cab",
+        "Name": "Redists_directx_APR2007_d3dx9_33_x64.cab",
+        "Size": 1607358,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\APR2007_d3dx9_33_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "CvPhUfhFjyQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wjosO/K9Pk8=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\AUG2007_XACT_x64.cab",
+        "Name": "Redists_directx_AUG2007_XACT_x64.cab",
+        "Size": 198088,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\AUG2007_XACT_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "wjosO/K9Pk8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2JqjI7QJvi4=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Aug2009_d3dx11_42_x64.cab",
+        "Name": "Redists_directx_Aug2009_d3dx11_42_x64.cab",
+        "Size": 136301,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Aug2009_d3dx11_42_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "2JqjI7QJvi4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mOehm/r0BD8=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\DEC2006_XACT_x64.cab",
+        "Name": "Redists_directx_DEC2006_XACT_x64.cab",
+        "Size": 192467,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\DEC2006_XACT_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "mOehm/r0BD8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "J4ZfyntB+Gc=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Jun2005_d3dx9_26_x64.cab",
+        "Name": "Redists_directx_Jun2005_d3dx9_26_x64.cab",
+        "Size": 1336002,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Jun2005_d3dx9_26_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "J4ZfyntB+Gc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Ci+B0XIgMsU=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\JUN2008_XACT_x64.cab",
+        "Name": "Redists_directx_JUN2008_XACT_x64.cab",
+        "Size": 121054,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\JUN2008_XACT_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "Ci+B0XIgMsU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ti4VVc8Hq0o=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Mar2009_d3dx9_41_x64.cab",
+        "Name": "Redists_directx_Mar2009_d3dx9_41_x64.cab",
+        "Size": 1973702,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Mar2009_d3dx9_41_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "ti4VVc8Hq0o="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HudP9sc0hhU=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Nov2008_d3dx10_40_x64.cab",
+        "Name": "Redists_directx_Nov2008_d3dx10_40_x64.cab",
+        "Size": 994154,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Nov2008_d3dx10_40_x64.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "HudP9sc0hhU="
         }
       }
     },
@@ -2109,21 +4598,165 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0fncxPgKWJs=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=72541\nfileID=1000091565",
-        "Name": "ShowOff INI-72541-1-1650847630.7z",
-        "Size": 381,
+        "Hash": "Zi84FvdUPrA=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=77945\nfileID=1000109246",
+        "Name": "The Living Desert - Strip Lights Region Fix Patch-77945-1-0-1684074697.7z",
+        "Size": 612,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "The Dormies - Demorome and Trooper",
-          "Description": "An NVSE plugin which adds new functions and engine-level tweaks.\n\nFor heathens who have forsaken the Vanilla-Style way.",
-          "FileID": 1000091565,
+          "Author": "VishVadeva50",
+          "Description": "Patches for TTW and more.",
+          "FileID": 1000109246,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/72541/72541-1622853912-1516312744.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77945/77945-1660521676-2143016755.png",
           "IsNSFW": false,
-          "ModID": 72541,
-          "Name": "ShowOff NVSE Plugin",
-          "Version": "1.20"
+          "ModID": 77945,
+          "Name": "Vish\u0027s Patch Hub (TTW)",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9C8A5TXNVFM=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=steam_api.dll",
+        "Name": "steam_api.dll",
+        "Size": 121984,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "steam_api.dll",
+          "GameVersion": "1.4.0.525",
+          "Hash": "9C8A5TXNVFM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hpfu2OnLjkI=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\APR2007_d3dx9_33_x86.cab",
+        "Name": "Redists_directx_APR2007_d3dx9_33_x86.cab",
+        "Size": 1606031,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\APR2007_d3dx9_33_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "hpfu2OnLjkI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QcflmlDSaas=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\AUG2007_XACT_x86.cab",
+        "Name": "Redists_directx_AUG2007_XACT_x86.cab",
+        "Size": 153004,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\AUG2007_XACT_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "QcflmlDSaas="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4Ekjo7td0aM=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Aug2009_d3dx11_42_x86.cab",
+        "Name": "Redists_directx_Aug2009_d3dx11_42_x86.cab",
+        "Size": 105036,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Aug2009_d3dx11_42_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "4Ekjo7td0aM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RZtk3OLdFhw=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\DEC2006_XACT_x86.cab",
+        "Name": "Redists_directx_DEC2006_XACT_x86.cab",
+        "Size": 145591,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\DEC2006_XACT_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "RZtk3OLdFhw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ll+ycXpWLEM=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Jun2005_d3dx9_26_x86.cab",
+        "Name": "Redists_directx_Jun2005_d3dx9_26_x86.cab",
+        "Size": 1064925,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Jun2005_d3dx9_26_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "ll+ycXpWLEM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jUxBJsdL6Ko=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\JUN2008_XACT_x86.cab",
+        "Name": "Redists_directx_JUN2008_XACT_x86.cab",
+        "Size": 93128,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\JUN2008_XACT_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "jUxBJsdL6Ko="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rB/1K8/aFiQ=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Mar2009_d3dx9_41_x86.cab",
+        "Name": "Redists_directx_Mar2009_d3dx9_41_x86.cab",
+        "Size": 1612446,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Mar2009_d3dx9_41_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "rB/1K8/aFiQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hos/3xVzZ90=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Redists\\directx\\Nov2008_d3dx10_40_x86.cab",
+        "Name": "Redists_directx_Nov2008_d3dx10_40_x86.cab",
+        "Size": 965421,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Redists\\directx\\Nov2008_d3dx10_40_x86.cab",
+          "GameVersion": "1.4.0.525",
+          "Hash": "hos/3xVzZ90="
         }
       }
     }

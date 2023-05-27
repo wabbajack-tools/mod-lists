@@ -1,11 +1,10 @@
 ## Validation Report - Lost Liberty (Moonshadow/lostliberty)
 
 
-### Invalid (1)
-*  [Vanilla_UI_Plus_Fallout_3_948.1.7z](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-fo3)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (92)
+### Valid (93)
 *  [1. Consistent Pip-boy Icons-65046-4-4-1659349331.7z](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000096843)
 *  [3. CPI - Mod Patches-65046-4-01-1659422736.7z](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000096876)
 *  [A Decent Metro Map_DML-22852-1-0.7z](https://www.nexusmods.com/fallout3/mods/22852/?tab=files&file_id=1000014276)
@@ -93,6 +92,7 @@
 *  [True Hero Fix-23979-1-1-1-1583089561.7z](https://www.nexusmods.com/fallout3/mods/23979/?tab=files&file_id=1000018324)
 *  [Updated Unofficial Fallout 3 Patch-19122-3-3-2-1664930596.7z](https://www.nexusmods.com/fallout3/mods/19122/?tab=files&file_id=1000023580)
 *  [Updated Unofficial Fallout 3 Patch-19122-3-3-3-1684208818.7z](https://www.nexusmods.com/fallout3/mods/19122/?tab=files&file_id=1000024389)
+*  [Vanilla_UI_Plus_Fallout_3_948.1.7z](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-fo3)
 *  [Vicious Wastes-22318-2-5-2-1662669729.zip](https://www.nexusmods.com/fallout3/mods/22318/?tab=files&file_id=1000023466)
 *  [Voiced responses addon-24972-1-1684848967.7z](https://www.nexusmods.com/fallout3/mods/24972/?tab=files&file_id=1000024490)
 *  [Wall Terminals Snimated Screen Savers-23490-1-05-update-1578542841.rar](https://www.nexusmods.com/fallout3/mods/23490/?tab=files&file_id=1000017969)
