@@ -95,7 +95,7 @@
 *  [Beyond Skyrim - Wares of Tamriel-31519-1-4-1636666120.zip](https://www.nexusmods.com/skyrimspecialedition/mods/31519/?tab=files&file_id=240652)
 *  bink2w64.dll
 *  [Blackreach Tentacle Mesh Fix-43083-0-1-1607186501.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43083/?tab=files&file_id=173163)
-*  [Blade and Blunt - A Combat Overhaul-34549-3-0-0-1685117512.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34549/?tab=files&file_id=392104)
+*  [Blade and Blunt - A Combat Overhaul-34549-3-0-1-1685135238.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34549/?tab=files&file_id=392166)
 *  [Blade and Blunt - Harsher Health Regen Addon-34549-1-1-0-1685118042.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34549/?tab=files&file_id=392113)
 *  [Blades Armors and Weapons Retexture SE - Half res-86568-1-0-1678283666.rar](https://www.nexusmods.com/skyrimspecialedition/mods/86568/?tab=files&file_id=366555)
 *  [Bleak Falls Barrow - No Ice Meshes in Troll Pit-64703-1-0-1646772172.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64703/?tab=files&file_id=268926)
