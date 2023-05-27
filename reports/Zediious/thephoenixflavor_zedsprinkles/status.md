@@ -1,11 +1,10 @@
 ## Validation Report - The Phoenix Flavor - Zediious Sprinkles (Zediious/thephoenixflavor_zedsprinkles)
 
 
-### Invalid (1)
-*  [High Poly Head v1.4 (SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1818)
+### Valid (1819)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -701,6 +700,7 @@
 *  [HIgh Poly Female Presets vol.2-48292-1-1-1617909105.zip](https://www.nexusmods.com/skyrimspecialedition/mods/48292/?tab=files&file_id=196928)
 *  [High Poly Gleamblossoms - ENB Light-40278-1-2-1626461597.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40278/?tab=files&file_id=214944)
 *  [High Poly Green Grass Update-42032-1-1-1613378589.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42032/?tab=files&file_id=186069)
+*  [High Poly Head v1.4 (SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 *  [High Poly Project-12029-v4-95-1614673394.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=188917)
 *  [High Poly Smelter - Embers HD Patch-9951-1-0-1566430133.rar](https://www.nexusmods.com/skyrimspecialedition/mods/9951/?tab=files&file_id=103897)
 *  [High Poly Soul Husks for cunny1975's textures-47891-0-2-1617301553.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47891/?tab=files&file_id=195241)

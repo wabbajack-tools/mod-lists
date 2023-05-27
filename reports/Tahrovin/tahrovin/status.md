@@ -1,11 +1,10 @@
 ## Validation Report - Tahrovin (Tahrovin/tahrovin)
 
 
-### Invalid (1)
-*  [High_Poly_Head_v1.4_(SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (636)
+### Valid (637)
 *  [.Deadly Spell Impacts 4K-74526-1-0-1662133724.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74526/?tab=files&file_id=312550)
 *  [(2) Sharkish Piercings - 3BA - Base-57131-1-01-1634464044.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235340)
 *  [(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77989)
@@ -260,6 +259,7 @@
 *  [HIGGS 1.6.1-43930-1-6-1-1680396533.zip](https://www.nexusmods.com/skyrimspecialedition/mods/43930/?tab=files&file_id=374193)
 *  [HIgh Poly Female Presets vol.2-48292-1-1-1617909105.zip](https://www.nexusmods.com/skyrimspecialedition/mods/48292/?tab=files&file_id=196928)
 *  [High Poly Green Grass Update-42032-1-1-1613378589.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42032/?tab=files&file_id=186069)
+*  [High_Poly_Head_v1.4_(SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 *  [High-Res VR Map Markers - Outline-35627-1-0-1588685969.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35627/?tab=files&file_id=138211)
 *  High.ini
 *  [Highlandcow HD-20758-1-0-1548091865.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20758/?tab=files&file_id=79177)
