@@ -93,7 +93,7 @@
 *  [Mojave Raiders Tweaks-79358-1-0-1671399167.7z](https://www.nexusmods.com/newvegas/mods/79358/?tab=files&file_id=1000102530)
 *  [Mojave Raiders-64660-1-2-3-1668801949.7z](https://www.nexusmods.com/newvegas/mods/64660/?tab=files&file_id=1000101278)
 *  [MoonlightNVSE-77683-1-5-1-1674501706.7z](https://www.nexusmods.com/newvegas/mods/77683/?tab=files&file_id=1000103994)
-*  [Navmesh Overhaul VNV Patch-79358-1-0-1684233389.7z](https://www.nexusmods.com/newvegas/mods/79358/?tab=files&file_id=1000109338)
+*  [Navmesh Overhaul VNV Patch-79358-1-0-1685216513.7z](https://www.nexusmods.com/newvegas/mods/79358/?tab=files&file_id=1000109966)
 *  [Navmesh Overhaul-81003-2-0-1684046474.zip](https://www.nexusmods.com/newvegas/mods/81003/?tab=files&file_id=1000109219)
 *  [New Vegas Mesh Improvement Mod-74295-1-10-1673911628.7z](https://www.nexusmods.com/newvegas/mods/74295/?tab=files&file_id=1000103667)
 *  [New Vegas Script Extender (NVSE)-67883-6-3-0-1678929881.7z](https://www.nexusmods.com/newvegas/mods/67883/?tab=files&file_id=1000106485)
