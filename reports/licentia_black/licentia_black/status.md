@@ -1,10 +1,11 @@
 ## Validation Report - Licentia BLACK (licentia_black/licentia_black)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1357)
+### Valid (1356)
 *  [(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77989)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
 *  [(4) Community Overlays 3 - Main - CBBE and Male-35339-1-0-1588129970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136903)
@@ -597,7 +598,6 @@
 *  [Hendraheim (CC) __ TCIY-19518-1-0-1638062159.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19518/?tab=files&file_id=244971)
 *  [Heritage-30017-1-98-1585990136.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30017/?tab=files&file_id=132335)
 *  [Hi-Res Armors Weapons Creatures-11849-1-4-0-1610197197.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11849/?tab=files&file_id=178564)
-*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  [High-Poly Inigo Replacer - FOMOD installer-38860-3-0-1596500717.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38860/?tab=files&file_id=153610)
 *  High.ini
 *  [HIMBO Creation Club Refits - Slider Group Fix-58697-1-1-1638554132.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58697/?tab=files&file_id=246325)
