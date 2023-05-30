@@ -2,7 +2,7 @@
 
 
 ### Invalid (1)
-*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
+*  [[full_inu] Armor Pack 01 SSE.7z](https://drive.google.com/uc?id=1sWA6ufBaLZuJm3qWQMaXEfbNHHDnimCk&export=download)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (2677)
@@ -25,7 +25,6 @@
 *  [[Christine] Dragon Slaughter.7z](https://www.mediafire.com/file/zc5p0x3lrhc5kz2/%5BChristine%5D+Dragon+Slaughter.7z/file)
 *  [[Dint999] HairPack02 SSE (v0.09).7z](https://drive.google.com/uc?id=1WOviY3mC7Zc9Nx408BTAMXK9DIdiwzeK&export=download)
 *  [[full_inu] Ada Wong Coat SSE.7z](https://drive.google.com/uc?id=1tNy4_FW4U73b3HyukOU9dB_bkJAmJUY_&export=download)
-*  [[full_inu] Armor Pack 01 SSE.7z](https://drive.google.com/uc?id=1sWA6ufBaLZuJm3qWQMaXEfbNHHDnimCk&export=download)
 *  [[full_inu] Elise's Evening Dress SSE.7z](https://drive.google.com/uc?id=1KWOAiCCxjbjFwk5ffcCM_0yx8gaPJWCN&export=download)
 *  [[full_inu] Eredrim, the Venerable SSE.7z](https://drive.google.com/uc?id=1KJnotWmn525OugyJOxAdHgtrQ-hDHPMM&export=download)
 *  [[full_inu] Galahad Renegade Coat SSE.7z](https://drive.google.com/uc?id=1pRRSPyfHG71V3RyL3K1Z7cCuXnnHVfi8&export=download)
@@ -2014,6 +2013,7 @@
 *  [SC - KS Hairdos Retextured-38820-1-8-1621881743.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38820/?tab=files&file_id=205362)
 *  [SC - Unsainted - ESP-FE-67128-1-0-1651423448.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67128/?tab=files&file_id=280834)
 *  [SC - Unsainted-67128-1-0-1650987445.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67128/?tab=files&file_id=279757)
+*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
 *  [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
 *  [ScaleformTranslationPP-22603-1-4-1-1586306055.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22603/?tab=files&file_id=132968)
 *  [SCAR - Skyrim Combos AI Revolution-72014-v0-93-1660740665.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72014/?tab=files&file_id=308222)
