@@ -1,11 +1,10 @@
 ## Validation Report - Licentia BLACK (licentia_black/licentia_black)
 
 
-### Invalid (1)
-*  [StaffEnchanting.7z](https://www.patreon.com/file?h=65969282&i=10668144)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1356)
+### Valid (1357)
 *  [(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77989)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
 *  [(4) Community Overlays 3 - Main - CBBE and Male-35339-1-0-1588129970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136903)
@@ -1167,6 +1166,7 @@
 *  [Sswaye's Mom NG - HPH Nordic Preset-77548-1-1b-1668784926.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77548/?tab=files&file_id=332756)
 *  [Stackable Stones of Barenziah with Optional Quest Markers-22395-2-0-0-1642285736.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22395/?tab=files&file_id=257036)
 *  [Staff of Sheogorath SSE-16873-1-1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/16873/?tab=files&file_id=53169)
+*  [StaffEnchanting.7z](https://www.patreon.com/file?h=65969282&i=10668144)
 *  [Stamina of Steeds-58742-1-0-1637372154.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58742/?tab=files&file_id=242776)
 *  [Static Skill Leveling - Conner's Survival Mode XP FIX-88912-1-0-1681101374.rar](https://www.nexusmods.com/skyrimspecialedition/mods/88912/?tab=files&file_id=376888)
 *  [Static Skill Leveling 2.1-30410-2-1-1628442823.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30410/?tab=files&file_id=219743)
