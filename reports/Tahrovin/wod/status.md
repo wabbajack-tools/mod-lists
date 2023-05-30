@@ -1,11 +1,10 @@
 ## Validation Report - Wasteland of Depravity (Tahrovin/wod)
 
 
-### Invalid (1)
-*  [Immersive_Wastelanders_1.8.zip](https://cdn.discordapp.com/attachments/861766770062000128/875108471933108294/Immersive_Wastelanders_1.8.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1000)
+### Valid (1001)
 *  [.45 Auto Pistol Ha_ru anims-21142-1-2-1.zip](https://www.nexusmods.com/fallout4/mods/21142/?tab=files&file_id=87199)
 *  [0004. Helmet Toggle-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108856)
 *  [1 - Cridowskin Installer-52016-3-0-1-1673299918.7z](https://www.nexusmods.com/fallout4/mods/52016/?tab=files&file_id=262981)
@@ -486,6 +485,7 @@
 *  [Immersive Cube Maps-35133-1-1-1540945625.rar](https://drive.google.com/uc?id=1VTi8QCFq7GUfoUGUeDkEiwPSJtsRw_88&export=download)
 *  [Immersive HUD - iHUD-20830-3-0.rar](https://www.nexusmods.com/fallout4/mods/20830/?tab=files&file_id=112759)
 *  [Immersive Pick-Up Sounds Fallout 4 IPUS-35917-1-00-1543957895.rar](https://www.nexusmods.com/fallout4/mods/35917/?tab=files&file_id=147298)
+*  [Immersive_Wastelanders_1.8.zip](https://cdn.discordapp.com/attachments/861766770062000128/875108471933108294/Immersive_Wastelanders_1.8.zip)
 *  [ImmersiveCandles-58396--91-1662118866.7z](https://www.nexusmods.com/fallout4/mods/58396/?tab=files&file_id=249148)
 *  [ImmersiveVendors300-EN-10039-3-0.7z](https://www.nexusmods.com/fallout4/mods/10039/?tab=files&file_id=103016)
 *  [Improved Map with Visible Roads 2.0-1215-2-0.zip](https://www.nexusmods.com/fallout4/mods/1215/?tab=files&file_id=23537)
