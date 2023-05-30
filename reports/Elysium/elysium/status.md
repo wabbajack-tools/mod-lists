@@ -1,11 +1,10 @@
 ## Validation Report - Elysium Remastered (Elysium/elysium)
 
 
-### Invalid (1)
-*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2539)
+### Valid (2540)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(beta) Wade In Water Animations-34006-1-42-1649385492.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34006/?tab=files&file_id=275559)
 *  [(DAR)Draugr Magic Loop Casting Animation-73876-1-1-1673588520.rar](https://www.nexusmods.com/skyrimspecialedition/mods/73876/?tab=files&file_id=349080)
@@ -1114,6 +1113,7 @@
 *  [High Quality Food And Ingredients SE-10897-1-9.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10897/?tab=files&file_id=30487)
 *  [High Quality Tintmasks for Relationship Dialogue Overhaul-18702-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18702/?tab=files&file_id=66561)
 *  [High Quality Tintmasks for Vanilla NPCs - BSA 1K-18360-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18360/?tab=files&file_id=68440)
+*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  [High-Poly Inigo Replacer - FOMOD installer-38860-3-0-1596500717.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38860/?tab=files&file_id=153610)
 *  High.ini
 *  [Higher Poly Vanilla Wolfskull Altar-91182-1-0-1683896467.rar](https://www.nexusmods.com/skyrimspecialedition/mods/91182/?tab=files&file_id=387327)

@@ -2,7 +2,7 @@
 
 
 ### Invalid (1)
-*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
+*  [StaffEnchanting.7z](https://www.patreon.com/file?h=65969282&i=10668144)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (1356)
@@ -598,6 +598,7 @@
 *  [Hendraheim (CC) __ TCIY-19518-1-0-1638062159.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19518/?tab=files&file_id=244971)
 *  [Heritage-30017-1-98-1585990136.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30017/?tab=files&file_id=132335)
 *  [Hi-Res Armors Weapons Creatures-11849-1-4-0-1610197197.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11849/?tab=files&file_id=178564)
+*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  [High-Poly Inigo Replacer - FOMOD installer-38860-3-0-1596500717.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38860/?tab=files&file_id=153610)
 *  High.ini
 *  [HIMBO Creation Club Refits - Slider Group Fix-58697-1-1-1638554132.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58697/?tab=files&file_id=246325)
@@ -1166,7 +1167,6 @@
 *  [Sswaye's Mom NG - HPH Nordic Preset-77548-1-1b-1668784926.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77548/?tab=files&file_id=332756)
 *  [Stackable Stones of Barenziah with Optional Quest Markers-22395-2-0-0-1642285736.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22395/?tab=files&file_id=257036)
 *  [Staff of Sheogorath SSE-16873-1-1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/16873/?tab=files&file_id=53169)
-*  [StaffEnchanting.7z](https://www.patreon.com/file?h=65969282&i=10668144)
 *  [Stamina of Steeds-58742-1-0-1637372154.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58742/?tab=files&file_id=242776)
 *  [Static Skill Leveling - Conner's Survival Mode XP FIX-88912-1-0-1681101374.rar](https://www.nexusmods.com/skyrimspecialedition/mods/88912/?tab=files&file_id=376888)
 *  [Static Skill Leveling 2.1-30410-2-1-1628442823.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30410/?tab=files&file_id=219743)

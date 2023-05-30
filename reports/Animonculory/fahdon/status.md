@@ -1,13 +1,12 @@
 ## Validation Report - Fahdon - A Skyrim Together Experience (Animonculory/fahdon)
 
 
-### Invalid (3)
+### Invalid (2)
 *  [enbseries_skyrimse_v0475.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_1898e8aa-827b-4242-9a29-3094a8bbb98e/)
-*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  [Markarth HD Retexture.7z](https://authored-files.wabbajack.org/Markarth HD Retexture.7z_9098232b-4285-4989-bb7f-8115ef4e58da)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1183)
+### Valid (1184)
 *  [- Meshes - important-58370-1-0-1637050362.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=241886)
 *  [(Khajiit) Lioness Look SSE CBBE-48041-1-1-1620268829.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48041/?tab=files&file_id=201933)
 *  [(Part 1) SSE Engine Fixes for 1.6.xxx-17230-6-0-2-1637784396.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
@@ -593,6 +592,7 @@
 *  [High Poly Project-12029-v5-3-1634909383.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=236420)
 *  [High Poly Soul Husks for cunny1975's textures-47891-0-2-1617301553.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47891/?tab=files&file_id=195241)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
+*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  High.ini
 *  [Highlandcow HD-20758-1-0-1548091865.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20758/?tab=files&file_id=79177)
 *  [HIMBO - Default - 2K-43779-2-1-1615551482.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43779/?tab=files&file_id=190976)

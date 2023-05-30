@@ -1,11 +1,10 @@
 ## Validation Report - Happy Fun Times (wj-featured/HFT)
 
 
-### Invalid (1)
-*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1983)
+### Valid (1984)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [-BO- One Body Alpha-82943-1-03-1674079833.rar](https://www.nexusmods.com/skyrimspecialedition/mods/82943/?tab=files&file_id=350859)
 *  [-BO- One Body Soft-82943-1-01-1674079878.rar](https://www.nexusmods.com/skyrimspecialedition/mods/82943/?tab=files&file_id=350860)
@@ -948,6 +947,7 @@
 *  [High Res Female Face Makeup for SKSE -Softer Varient--31665-v2-0.rar](https://www.nexusmods.com/skyrim/mods/31665/?tab=files&file_id=1000011299)
 *  [High Res Female Face Makeup for SKSE-31665-v1-0.rar](https://www.nexusmods.com/skyrim/mods/31665/?tab=files&file_id=1000010637)
 *  [High Res Male Face Makeup for SKSE-31665-v1-0.rar](https://www.nexusmods.com/skyrim/mods/31665/?tab=files&file_id=1000009857)
+*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  High.ini
 *  [Highlandcow HD-20758-1-0-1548091865.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20758/?tab=files&file_id=79177)
 *  [Hilda-66302-1-0-1649599645.rar](https://www.nexusmods.com/skyrimspecialedition/mods/66302/?tab=files&file_id=276182)

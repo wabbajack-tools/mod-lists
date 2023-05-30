@@ -1,11 +1,10 @@
 ## Validation Report - CharGrinn - MCO (CharGrinn/CharGrinnMCO)
 
 
-### Invalid (1)
-*  [High Poly Head v1.4 (SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1874)
+### Valid (1875)
 *  [-Skyrim 202X 9.0 to 9.4 - Update Ravenrock-2347-9-4-1673171618.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=347819)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -827,6 +826,7 @@
 *  [High Level Enemies - Scaled-3231-1-71.zip](https://www.nexusmods.com/skyrimspecialedition/mods/3231/?tab=files&file_id=5269)
 *  [High Poly Head - RaceMenu Patcher-71332-1-1-1657753264.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71332/?tab=files&file_id=298711)
 *  [High Poly Head - UV Fixed Femalehead.nif-90082-1-00-1682509030.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90082/?tab=files&file_id=382131)
+*  [High Poly Head v1.4 (SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  [High Poly Orcs with Orc Armor and Weapons-72886-1-1659904080.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72886/?tab=files&file_id=305502)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
 *  High.ini

@@ -1,11 +1,10 @@
 ## Validation Report - Tempus Maledictum (wj-featured/tempus_maledictum)
 
 
-### Invalid (1)
-*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1472)
+### Valid (1473)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [01 - Saint and Seducers - Patch-37302-1-0-1-1654394928.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37302/?tab=files&file_id=288859)
@@ -748,6 +747,7 @@
 *  [High Poly Head - RaceMenu Patcher-71332-1-1-1657753264.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71332/?tab=files&file_id=298711)
 *  [High Poly Head Fishing and SaS Hvergelmir Brows Version-71774-2-1-1658796841.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71774/?tab=files&file_id=302254)
 *  [High Poly Project-12029-v5-3-1634909383.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=236420)
+*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  High.ini
 *  [Higher Poly Vanilla Cave Lamps SE-86397-1-0-1678044624.rar](https://www.nexusmods.com/skyrimspecialedition/mods/86397/?tab=files&file_id=365815)
 *  [Hold Border Banners - No Text Version-1737-1-1.rar](https://www.nexusmods.com/skyrimspecialedition/mods/1737/?tab=files&file_id=12305)
