@@ -1,11 +1,10 @@
 ## Validation Report - Do Not Go Gentle (Animonculory/dngg)
 
 
-### Invalid (1)
-*  [Slow Sprint Equip Bug Fix.zip](https://drive.google.com/uc?id=1kG_pRhKGyl1uESaj60fsXD9dWmaXz-Z2&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1629)
+### Valid (1630)
 *  [_Fuse00_ArmorMelonyCBBE.rar](https://www.patreon.com/file?h=67711235&i=10980531)
 *  [_Fuse00_ArmorRagnar_Vanilla.rar](https://www.patreon.com/file?h=70803544&i=11554150)
 *  [_Fuse00_ArmorRogue.rar](https://www.patreon.com/file?h=67007517&i=10861552)
@@ -1370,6 +1369,7 @@
 *  [Sleek Wolf Armor - Replacer - HIMBO V4-44812-1-3-1-1630231033.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44812/?tab=files&file_id=224550)
 *  [Sleek Wolf Armor - Replacer-44812-1-3-1621865266.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44812/?tab=files&file_id=205328)
 *  [Sleeping Expanded-59250-1-22-1670752210.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59250/?tab=files&file_id=339580)
+*  [Slow Sprint Equip Bug Fix.zip](https://drive.google.com/uc?id=1kG_pRhKGyl1uESaj60fsXD9dWmaXz-Z2&export=download)
 *  [SMIM - Assorted Mesh Fixes Patch-45597-1-01-1613099926.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45597/?tab=files&file_id=185402)
 *  [SMIM - Quality Addon - Unofficial Material Fix Patch-45597-1-12a-1615475679.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45597/?tab=files&file_id=190815)
 *  [Smim - Quality Addon-44388-1-3-1610838572.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44388/?tab=files&file_id=179941)

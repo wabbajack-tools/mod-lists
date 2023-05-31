@@ -1,11 +1,10 @@
 ## Validation Report - Ro (LostOutpost/ro)
 
 
-### Invalid (1)
-*  [Survival - Resist Frost Gives Warmth V2.7z](https://drive.google.com/uc?id=1xGaQXaWVBWuOVxXuMmXhUPJA9--Yzsu8&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2129)
+### Valid (2130)
 *  [(ESL) Heimskr only preaches on weekends-13865-1-4-1677908626.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13865/?tab=files&file_id=365292)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -1900,6 +1899,7 @@
 *  [Sun Affects NPC Vampires-47277-2-0-1676560474.zip](https://www.nexusmods.com/skyrimspecialedition/mods/47277/?tab=files&file_id=360302)
 *  [Sunder and Wraithguard - Vault Fix-59083-1-0-1637936330.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59083/?tab=files&file_id=244533)
 *  [Super Hi-Res Music Pack-19782-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19782/?tab=files&file_id=65213)
+*  [Survival - Resist Frost Gives Warmth V2.7z](https://drive.google.com/uc?id=1xGaQXaWVBWuOVxXuMmXhUPJA9--Yzsu8&export=download)
 *  [Survival Control Panel-41891-1-1-2-1664687771.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41891/?tab=files&file_id=320950)
 *  [Survival Mode Improved - SKSE-78244-1-1-3-1683520037.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78244/?tab=files&file_id=385879)
 *  [Swearing Mudcrabs Mod-1951-0-2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1951/?tab=files&file_id=2287)
