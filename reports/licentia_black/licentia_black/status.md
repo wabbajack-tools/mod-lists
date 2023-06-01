@@ -1,10 +1,11 @@
 ## Validation Report - Licentia BLACK (licentia_black/licentia_black)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [BWB-HSF-Kaidan-2-Extended-Edition-V8.3.2.7z](https://kaidanmod.com/wp-content/uploads/2022/12/BWB-HSF-Kaidan-2-Extended-Edition-V8.3.2.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1357)
+### Valid (1356)
 *  [(4) Community Overlays 1 - Main - CBBE 4K-22487-1-0-1-1547248552.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77989)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
 *  [(4) Community Overlays 3 - Main - CBBE and Male-35339-1-0-1588129970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136903)
@@ -155,7 +156,6 @@
 *  [BWB - Kaidan 2 Dragon Bow-79210-1-0-1669089224.7z](https://www.nexusmods.com/skyrimspecialedition/mods/79210/?tab=files&file_id=333658)
 *  [BWB - Kaidan 2 Extended Edition ADDON Voice fixes and additional dialogue plus DLC-63348-0-0-1664810847.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63348/?tab=files&file_id=321311)
 *  [BWB Kaidan 2 OStim OpenSex Sex Only Patch-78180-1-1-1670093043.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78180/?tab=files&file_id=337194)
-*  [BWB-HSF-Kaidan-2-Extended-Edition-V8.3.2.7z](https://kaidanmod.com/wp-content/uploads/2022/12/BWB-HSF-Kaidan-2-Extended-Edition-V8.3.2.7z)
 *  [BWB-Kaidan-2-Armor-Revamped-Wolf-75089-1-0-1663029519.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75089/?tab=files&file_id=315695)
 *  [BWB-Kaidan-2-Im-Glad-Youre-Here-Patch.7z](https://kaidanmod.com/wp-content/uploads/2022/10/BWB-Kaidan-2-Im-Glad-Youre-Here-Patch.7z)
 *  [BWB-Kaidan-2-Lux-Patch.7z](https://kaidanmod.com/wp-content/uploads/2022/10/BWB-Kaidan-2-Lux-Patch.7z)
