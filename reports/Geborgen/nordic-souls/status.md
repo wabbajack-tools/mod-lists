@@ -1,12 +1,10 @@
 ## Validation Report - Nordic Souls (Geborgen/nordic-souls)
 
 
-### Invalid (2)
-*  [BWB-HSF-Kaidan-2-Extended-Edition-V8.3.2.7z](https://kaidanmod.com/wp-content/uploads/2022/12/BWB-HSF-Kaidan-2-Extended-Edition-V8.3.2.7z)
-*  [BWB-Kaidan-2-Armor-Revamped-Dragon-75089-1-0-1663028606.7z](https://kaidanmod.com/wp-content/uploads/2022/10/BWB-Kaidan-2-Armor-Revamped-Dragon-75089-1-0-1663028606.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1556)
+### Valid (1558)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -210,6 +208,8 @@
 *  [Buyable Homes - The Tiniest Shack-91769-1-0-1684601070.7z](https://www.nexusmods.com/skyrimspecialedition/mods/91769/?tab=files&file_id=390191)
 *  [BWB - Kaidan 2 Dragon Bow-79210-1-0-1669089224.7z](https://www.nexusmods.com/skyrimspecialedition/mods/79210/?tab=files&file_id=333658)
 *  [BWB - Kaidan 2 Dragon Katana Sheathed-79210-1-0-1669089190.7z](https://www.nexusmods.com/skyrimspecialedition/mods/79210/?tab=files&file_id=333657)
+*  [BWB-HSF-Kaidan-2-Extended-Edition-V8.3.2.7z](https://kaidanmod.com/wp-content/uploads/2022/12/BWB-HSF-Kaidan-2-Extended-Edition-V8.3.2.7z)
+*  [BWB-Kaidan-2-Armor-Revamped-Dragon-75089-1-0-1663028606.7z](https://kaidanmod.com/wp-content/uploads/2022/10/BWB-Kaidan-2-Armor-Revamped-Dragon-75089-1-0-1663028606.7z)
 *  [BWB-Kaidan-2-Skyrims-Got-Talent-Patch-1.1.7z](https://kaidanmod.com/wp-content/uploads/2022/11/BWB-Kaidan-2-Skyrims-Got-Talent-Patch-1.1.7z)
 *  [Bye Bye Deerface-82688-1-1-0-1673916376.7z](https://www.nexusmods.com/skyrimspecialedition/mods/82688/?tab=files&file_id=350271)
 *  [Caliente's Beautiful Bodies Enhancer - v1.7.1-198-1-7-1-1655467297.7z](https://www.nexusmods.com/skyrimspecialedition/mods/198/?tab=files&file_id=291767)
