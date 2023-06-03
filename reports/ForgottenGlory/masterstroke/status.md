@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1189)
+### Valid (1183)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -148,7 +148,7 @@
 *  [BetterStealing v2-32295-2-1580801928.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32295/?tab=files&file_id=122672)
 *  [Bifrost-88152-1-1-1680307451.rar](https://www.nexusmods.com/skyrimspecialedition/mods/88152/?tab=files&file_id=373855)
 *  [Bikini Robe Replacer and Standalone (3BA)-41285-2-0-0-1632506599.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41285/?tab=files&file_id=230362)
-*  binkw64.dll
+*  bink2w64.dll
 *  [BiR Remiel Replacer-85734-1-1-0-1677706544.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85734/?tab=files&file_id=364610)
 *  [Bjorn - A Racemenu Preset - High Poly Head-49659-1-0-1620501429.zip](https://www.nexusmods.com/skyrimspecialedition/mods/49659/?tab=files&file_id=202377)
 *  [Blackreach Paper Map for FWMF-53878-1-7-1643368462.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53878/?tab=files&file_id=260068)
@@ -252,7 +252,6 @@
 *  Data_Skyrim - Meshes0.bsa
 *  Data_Skyrim - Meshes1.bsa
 *  Data_Skyrim - Misc.bsa
-*  Data_Skyrim - Patch.bsa
 *  Data_Skyrim - Shaders.bsa
 *  Data_Skyrim - Sounds.bsa
 *  Data_Skyrim - Textures0.bsa
@@ -483,7 +482,7 @@
 *  [High Poly Head v1.4 (SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 *  [High Poly Project-12029-v5-3-1634909383.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=236420)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
-*  high.ini
+*  High.ini
 *  [HIMBO - 4thUnknown's Dark Brotherhood Armor-57687-1-1-1635618371.rar](https://www.nexusmods.com/skyrimspecialedition/mods/57687/?tab=files&file_id=237982)
 *  [HIMBO Bodyhair Overlays-49373-1-1-1620072544.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49373/?tab=files&file_id=201552)
 *  [HIMBO KSO-61351-1-1-1641432310.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61351/?tab=files&file_id=254257)
@@ -499,7 +498,6 @@
 *  [Honed Metal SSE-61015-1-23-1646437217.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61015/?tab=files&file_id=268138)
 *  [Horns Aplenty - FOMOD Package-41022-1-4-1603820761.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41022/?tab=files&file_id=167304)
 *  [HORNY SE 1.1-34322-1-1-1585961211.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34322/?tab=files&file_id=132293)
-*  [HornyCreaturesofSkyrimSE_V2_0.7z](https://www.loverslab.com/files/file/5465-horny-creatures-of-skyrim-special-edition/)
 *  [HornyCreaturesofSkyrimSE_V2_0A.7z](https://www.loverslab.com/files/file/5465-horny-creatures-of-skyrim-special-edition/?do=download&r=1620671&confirm=1)
 *  [HQ Alduins Wall - 1.0-2638-1-01.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2638/?tab=files&file_id=3816)
 *  [HQ Solitude - 2K-23937-1-0-1552088561.rar](https://www.nexusmods.com/skyrimspecialedition/mods/23937/?tab=files&file_id=84292)
@@ -648,7 +646,7 @@
 *  [loot_0.15.1-0-g82c756e_master.7z](https://github.com/loot/loot/releases/download/0.15.1/loot_0.15.1-0-g82c756e_master.7z)
 *  [LostDragonist-MO2-Plugins.zip](https://github.com/LostDragonist/MO2-Plugins/releases/download/2021.02.07/LostDragonist-MO2-Plugins.zip)
 *  [Lovely Lady v3-81827-3-1673320054.zip](https://www.nexusmods.com/skyrimspecialedition/mods/81827/?tab=files&file_id=348235)
-*  low.ini
+*  Low.ini
 *  [Lux-43158-5-3-1-1671883013.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=343268)
 *  [Lyru's Tattoo pack collection 2-79741-1-05-1669915981.rar](https://www.nexusmods.com/skyrimspecialedition/mods/79741/?tab=files&file_id=336431)
 *  [Lyru's Tattoo pack collection-75222-1-10-1669247669.rar](https://www.nexusmods.com/skyrimspecialedition/mods/75222/?tab=files&file_id=334028)
@@ -685,7 +683,7 @@
 *  [Medieval Candlehorns and Sconces-24324-2-0-0-1561629898.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24324/?tab=files&file_id=97446)
 *  [Medieval Silverworks-23938-1-0-0-1551836270.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23938/?tab=files&file_id=83990)
 *  [Medieval Spirits-24243-1-0-2-1553889655.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24243/?tab=files&file_id=86769)
-*  medium.ini
+*  Medium.ini
 *  [Mela Rocking Physique-19263-1-1569722967.rar](https://www.nexusmods.com/skyrimspecialedition/mods/19263/?tab=files&file_id=108688)
 *  [Melodies of Civilization 1.01-30014-1-01-1572356289.rar](https://www.nexusmods.com/skyrimspecialedition/mods/30014/?tab=files&file_id=111784)
 *  [MergeMapper-74689-v1-4-0-1669363622.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74689/?tab=files&file_id=334439)
@@ -912,7 +910,6 @@
 *  [Security Overhaul SKSE - Add-ons-59529-0-1-2-1639384195.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59529/?tab=files&file_id=248739)
 *  [Security Overhaul SKSE - Lock Variations-58224-2-0-1-1638940333.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58224/?tab=files&file_id=247455)
 *  [Serana Dialogue Add-On - Pilgrim Patch-73135-1-0-1660236798.rar](https://www.nexusmods.com/skyrimspecialedition/mods/73135/?tab=files&file_id=306601)
-*  [Serana Dialogue Add-On (Open Beta)-32161-4-0-2-0-1683446627.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32161/?tab=files&file_id=385582)
 *  [Serana Dialogue Add-On SE-32161-4-0-2-2-1685514458.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32161/?tab=files&file_id=393571)
 *  [Set of Skills - A Skyrim Class Mod-55535-2-0-3-1677096053.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55535/?tab=files&file_id=362364)
 *  [Sex Lab - Sexual Fame 0.99.rar](https://www.loverslab.com/files/file/2455-sex-lab-sexual-fame-framework/?do=download)
@@ -936,7 +933,6 @@
 *  [Simple Dual Sheath for 1.5.39 - 1.6.353-50049-1-5-4-1669987767.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=336713)
 *  [Simple Offence Suppression-41764-2-2-1-1665496323.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41764/?tab=files&file_id=323291)
 *  [Simple Outfit System-48974-0-2-3-1622825158.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48974/?tab=files&file_id=207223)
-*  [Simple Slavery Plus Plus 6.3.18 [SE].zip](https://www.loverslab.com/files/file/13531-simple-slavery-plus-plus/?do=download&r=1556549&confirm=1)
 *  [Simple Slavery Plus Plus 6.3.19 [SE].zip](https://www.loverslab.com/files/file/13531-simple-slavery-plus-plus/?do=download&r=1632418&confirm=1)
 *  [Simple Werewolf Favourite Howls Menu-35736-1-5-1-1603226502.zip](https://www.nexusmods.com/skyrimspecialedition/mods/35736/?tab=files&file_id=166340)
 *  [SimpleAddItems-32319-2-0-1580701739.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32319/?tab=files&file_id=122474)
@@ -986,7 +982,6 @@
 *  [SlaveTats CumTextures Remake v1.2.5.7z](https://www.loverslab.com/files/file/2968-sexlab-cum-textures-remake-slavetats/?do=download&r=486041&confirm=1)
 *  [SLDrunkRedux v1.3.7z](https://www.loverslab.com/files/file/11310-sexlab-drunk-redux/?do=download&r=852063&confirm=1)
 *  [SLSW Addicted 3.65 SE.7z](https://www.loverslab.com/files/file/2229-skooma-whore-addicted/?do=download&r=1243793&confirm=1)
-*  [SLWidgets 2.0.7 (SE).zip](https://www.loverslab.com/files/file/19148-sl-widgets/?do=download&r=1603115&confirm=1)
 *  [SLWidgets 2.0.8 (SE).zip](https://www.loverslab.com/files/file/19148-sl-widgets/?do=download&r=1630889&confirm=1)
 *  [Smart Cast SSE Patch-32847-1-0-1582183378.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32847/?tab=files&file_id=124845)
 *  [Smart Cast-43123-1-0.7z](https://www.nexusmods.com/skyrim/mods/43123/?tab=files&file_id=1000061017)
@@ -1034,7 +1029,6 @@
 *  [Stormcloak Warmaiden Armor HIMBO bodyslides-60530-final-1647724821.rar](https://www.nexusmods.com/skyrimspecialedition/mods/60530/?tab=files&file_id=271243)
 *  [Stormcloak Warmaiden Armor-60530-Final-1647724620.rar](https://www.nexusmods.com/skyrimspecialedition/mods/60530/?tab=files&file_id=271240)
 *  [Studded Elven Armor-59174-1-0-1638087846.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59174/?tab=files&file_id=245032)
-*  [SubmissiveLolaResubmission 2.0.63.7z](https://www.loverslab.com/files/file/15346-submissive-lola-the-resubmission-lese/?do=download&r=1603895&confirm=1)
 *  [SubmissiveLolaResubmission 2.0.64.7z](https://www.loverslab.com/files/file/15346-submissive-lola-the-resubmission-lese/?do=download&r=1620666&confirm=1)
 *  [Sunhelm - Experience Patch-55682-1-0-1-1631832100.rar](https://www.nexusmods.com/skyrimspecialedition/mods/55682/?tab=files&file_id=228827)
 *  [SunHelm Survival - Compatibility Patches-41335-1-1-1604559189.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41335/?tab=files&file_id=168682)
@@ -1109,7 +1103,7 @@
 *  [TRX SOS Addon Male_2_0_2.7z](https://www.loverslab.com/files/file/20871-trx-sos-addon-male/)
 *  [Twisted's Command Binders - MCM Helper-57752-1-1-0-1638504405.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57752/?tab=files&file_id=246221)
 *  [UIExtensions v1-2-0-17561-1-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17561/?tab=files&file_id=55628)
-*  ultra.ini
+*  Ultra.ini
 *  [Underground FOMOD-14365-1-2-1564302022.7z](https://www.nexusmods.com/skyrimspecialedition/mods/14365/?tab=files&file_id=100954)
 *  [Unmarked Map by CKW25-54710-1-1-1630327735.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54710/?tab=files&file_id=224919)
 *  [Unofficial Skyrim Special Edition Patch-266-4-2-5b-1623727189.7z](https://www.nexusmods.com/skyrimspecialedition/mods/266/?tab=files&file_id=209150)
