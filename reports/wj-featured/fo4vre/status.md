@@ -1,12 +1,11 @@
 ## Validation Report - Fallout VR Essentials Overhaul (wj-featured/fo4vre)
 
 
-### Invalid (2)
-*  [Companion_Heal_Thyself_v1.5.7z](https://cdn.discordapp.com/attachments/408380736941588481/1059902935955427348/Companion_Heal_Thyself_v1.5.7z)
+### Invalid (1)
 *  [MCM_VR.zip](https://cdn.discordapp.com/attachments/354663002433388545/876390467351232532/MCM_VR.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (259)
+### Valid (260)
 *  [_25 damage reduction -4743-1-1.zip](https://www.nexusmods.com/fallout4/mods/4743/?tab=files&file_id=16525)
 *  [_50 damage reduction-4743-1-1.zip](https://www.nexusmods.com/fallout4/mods/4743/?tab=files&file_id=16526)
 *  [(Experimental) FallUI VR-Patch-48758-1-12-1-vr-exp3-1618625274.rar](https://www.nexusmods.com/fallout4/mods/48758/?tab=files&file_id=206079)
@@ -52,6 +51,7 @@
 *  [Cinematic Sounds - Leveling V3 (1.1)-6445-1-1.zip](https://www.nexusmods.com/fallout4/mods/6445/?tab=files&file_id=22670)
 *  [Classic Feral Ghouls-39290-v1-0-1559599409.zip](https://www.nexusmods.com/fallout4/mods/39290/?tab=files&file_id=159097)
 *  [Companion Whistle-13499-1-0-3.zip](https://www.nexusmods.com/fallout4/mods/13499/?tab=files&file_id=53531)
+*  [Companion_Heal_Thyself_v1.5.7z](https://cdn.discordapp.com/attachments/408380736941588481/1059902935955427348/Companion_Heal_Thyself_v1.5.7z)
 *  [Copyright Free Diamond City Radio Replacer for Let's Plays-23560-1-5.7z](https://www.nexusmods.com/fallout4/mods/23560/?tab=files&file_id=142495)
 *  [Create Your Own Difficulty Rebalance-222-3-1.rar](https://www.nexusmods.com/fallout4/mods/222/?tab=files&file_id=52469)
 *  [CriticalHitsOutsideofVATS.rar-12653-1-1-3.rar](https://www.nexusmods.com/fallout4/mods/12653/?tab=files&file_id=54056)
