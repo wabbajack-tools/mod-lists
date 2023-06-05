@@ -784,7 +784,7 @@
 *  [Obsidian Weathers - 1.07a-12125-1-07a-1620568126.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12125/?tab=files&file_id=202527)
 *  [Ominous ENB for Obsidian (ENB Weathers Supported)  V3.0-27333-3-0-1632683560.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27333/?tab=files&file_id=230841)
 *  [Ominous ENB for Obsidian (ENB Weathers Supported) V2.5-27333-2-5-1621104726.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27333/?tab=files&file_id=203649)
-*  [Open Animation Replacer-92109-1-0-0-1685625096.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92109/?tab=files&file_id=393913)
+*  [Open Animation Replacer-92109-1-0-2-1685890261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92109/?tab=files&file_id=394973)
 *  [Open World Loot - AVL Iron and Steel Addon-51141-1-4-3-1639321079.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51141/?tab=files&file_id=248527)
 *  [Open World Loot - AVL Morrowind Glass Addon-51141-1-4-1635698452.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51141/?tab=files&file_id=238215)
 *  [Open World Loot - AVL Nordic Addon-51141-1-2-1-1636488156.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51141/?tab=files&file_id=240188)
