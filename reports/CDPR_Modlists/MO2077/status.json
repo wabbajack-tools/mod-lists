@@ -1,8 +1,8 @@
 {
   "MachineURL": "CDPR_Modlists/MO2077",
   "Name": "MO2077",
-  "Version": "1.0.5",
-  "ModListHash": "u0p7QS9BSFE=",
+  "Version": "1.0.6",
+  "ModListHash": "zTzLTPhMu9w=",
   "Archives": [
     {
       "Status": "Valid",
@@ -77,42 +77,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "S0t+67FM8mY=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=5266\nfileID=28345",
-        "Name": "Material and Texture Override-5266-1-1-1663492843.7z",
-        "Size": 2482,
+        "Hash": "QSN6JgDq7ts=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3741\nfileID=38485",
+        "Name": "CP77 External Radio-3741-2-1-5-1675326740.zip",
+        "Size": 85867,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Nim",
-          "Description": "Enables the game to load new materials. But it\u0027s REDmod compatible now. Please read the description.",
-          "FileID": 28345,
+          "Author": "Jackie Bright",
+          "Description": "Triggers external media player (such as Spotify or VLC) when entering and exiting cars",
+          "FileID": 38485,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/5266/5266-1663479835-149434627.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3741/3741-1650817233-1563770399.png",
           "IsNSFW": false,
-          "ModID": 5266,
-          "Name": "Material and Texture Override",
-          "Version": "1.1"
+          "ModID": 3741,
+          "Name": "External Radio",
+          "Version": "2.1.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5SBd4trMi38=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7780\nfileID=40926",
-        "Name": "Codeware-7780-1-0-0-1678888573.zip",
-        "Size": 193597,
+        "Hash": "fV8b/bl6iEk=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7780\nfileID=44356",
+        "Name": "Codeware-7780-1-1-4-1684267792.zip",
+        "Size": 343723,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "psiberx",
           "Description": "Script extensions",
-          "FileID": 40926,
+          "FileID": 44356,
           "GameName": "Cyberpunk2077",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7780/7780-1678888364-446201648.jpeg",
           "IsNSFW": false,
           "ModID": 7780,
           "Name": "Codeware",
           "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gExS6y80qKg=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4885\nfileID=44195",
+        "Name": "mod_settings.zip-4885-0-1-2-1683853680.zip",
+        "Size": 251291,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jack Humbert",
+          "Description": "Adds a redscript-configurable \u0022Mod Settings\u0022 page to the main menu that any mod can add a page to.",
+          "FileID": 44195,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4885/4885-1658548659-1491857712.jpeg",
+          "IsNSFW": false,
+          "ModID": 4885,
+          "Name": "Mod Settings",
+          "Version": "0.0.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "i6klZa/hWzc=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2592\nfileID=43650",
+        "Name": "Limited HUD-2592-2-6-0-1682838934.zip",
+        "Size": 81043,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DJ_Kovrik",
+          "Description": "Hides main HUD widgets by default and shows them only on certain events (configurable). Adds in-game widget toggle hotkeys and a bunch of optional files to tweak different HUD elements.",
+          "FileID": 43650,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2592/2592-1620640405-942531536.jpeg",
+          "IsNSFW": false,
+          "ModID": 2592,
+          "Name": "Limited HUD",
+          "Version": "2.4.2"
         }
       }
     },
@@ -140,36 +182,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WpYvFmaNYO0=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4885\nfileID=40412",
-        "Name": "mod_settings.zip-4885-0-0-12-1678206634.zip",
-        "Size": 196473,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Jack Humbert",
-          "Description": "Adds a redscript-configurable \u0022Mod Settings\u0022 page to the main menu that any mod can add a page to.",
-          "FileID": 40412,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4885/4885-1658548659-1491857712.jpeg",
-          "IsNSFW": false,
-          "ModID": 4885,
-          "Name": "Mod Settings",
-          "Version": "0.0.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "HHf4m175UiY=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=107\nfileID=39639",
-        "Name": "CET 1.23.0-107-1-23-0-1677016352.zip",
-        "Size": 31643891,
+        "Hash": "8d/6EkQlquY=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=107\nfileID=42979",
+        "Name": "Game version 1.62 hotfix-107-1-24-1-1682026212.zip",
+        "Size": 31655261,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "yamashi",
           "Description": "Scripting framework for modders and quality of life fixes.",
-          "FileID": 39639,
+          "FileID": 42979,
           "GameName": "Cyberpunk2077",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/107/107-1613641770-185635979.png",
           "IsNSFW": false,
@@ -182,42 +203,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6eORuNyKPrg=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2380\nfileID=38426",
-        "Name": "RED4ext-2380-1-10-1-1675276725.zip",
-        "Size": 560948,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "WopsS",
-          "Description": "A script extender for REDengine 4.",
-          "FileID": 38426,
-          "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2380/2380-1618829826-1376548256.png",
-          "IsNSFW": false,
-          "ModID": 2380,
-          "Name": "RED4ext",
-          "Version": "1.2.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Q4WdkMoV74s=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=1511\nfileID=36622",
-        "Name": "redscript-1511-0-5-10-1672778958.zip",
-        "Size": 757014,
+        "Hash": "Adger6P6SQI=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=1511\nfileID=42376",
+        "Name": "redscript-1511-0-5-11-1681249622.zip",
+        "Size": 758120,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "jac3km4",
           "Description": "Compiler for Cyberpunk2077 scripts",
-          "FileID": 36622,
+          "FileID": 42376,
           "GameName": "Cyberpunk2077",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/1511/1511-1612727913-1059595445.png",
           "IsNSFW": false,
           "ModID": 1511,
           "Name": "redscript",
           "Version": "0.3.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0MG1ApCX7zQ=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3741\nfileID=43189",
+        "Name": "CP77 External Radio-3741-2-1-7-1682393273.zip",
+        "Size": 85573,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jackie Bright",
+          "Description": "Triggers external media player (such as Spotify or VLC) when entering and exiting cars",
+          "FileID": 43189,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3741/3741-1650817233-1563770399.png",
+          "IsNSFW": false,
+          "ModID": 3741,
+          "Name": "External Radio",
+          "Version": "2.1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "AhTI+wHq+tQ=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=5176\nfileID=42377",
+        "Name": "cybercmd-5176-0-0-10-1681250981.zip",
+        "Size": 387772,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "jac3km4",
+          "Description": "Command-line argument loader for Cyberpunk 2077",
+          "FileID": 42377,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/5176/5176-1662909914-793019639.png",
+          "IsNSFW": false,
+          "ModID": 5176,
+          "Name": "cybercmd",
+          "Version": "0.0.5"
         }
       }
     },
@@ -245,15 +287,36 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "iY8B9yIw+JA=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4197\nfileID=38396",
-        "Name": "TweakXL-4197-1-1-2-1675243028.zip",
-        "Size": 500939,
+        "Hash": "RrXpTWA4msk=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4575\nfileID=44190",
+        "Name": "input_loader.zip-4575-0-1-1-1683848529.zip",
+        "Size": 383198,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jack Humbert",
+          "Description": "This plugin looks for all r6/input/*.xml files and merges them with the appropriate input config file from r6/config/ and saves results to r6/cache/. A configuration file is written to engine/config/platform/pc/input_loader.ini, which tells the game to load the merged .xml files.",
+          "FileID": 44190,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4575/4575-1653846065-507129799.png",
+          "IsNSFW": false,
+          "ModID": 4575,
+          "Name": "Input Loader",
+          "Version": "0.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lNnxT8JIdCY=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4197\nfileID=42973",
+        "Name": "TweakXL-4197-1-1-4-1682018373.zip",
+        "Size": 505828,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "psiberx",
           "Description": "TweakDB modifications loader and script extensions",
-          "FileID": 38396,
+          "FileID": 42973,
           "GameName": "Cyberpunk2077",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4197/4197-1648116989-1847614261.jpeg",
           "IsNSFW": false,
@@ -287,15 +350,57 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "1X2lprYvgmc=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3518\nfileID=36890",
-        "Name": "Native Settings UI 1.92-3518-1-92-1673118948.zip",
-        "Size": 14334,
+        "Hash": "nIEtEn8dRgs=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4198\nfileID=42972",
+        "Name": "ArchiveXL-4198-1-4-3-1682018270.zip",
+        "Size": 383940,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "psiberx",
+          "Description": "Archive extension loader",
+          "FileID": 42972,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4198/4198-1648116857-72076015.jpeg",
+          "IsNSFW": false,
+          "ModID": 4198,
+          "Name": "ArchiveXL",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LaR4LHiMfwA=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4197\nfileID=44093",
+        "Name": "TweakXL-4197-1-1-5-1683666645.zip",
+        "Size": 509138,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "psiberx",
+          "Description": "TweakDB modifications loader and script extensions",
+          "FileID": 44093,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4197/4197-1648116989-1847614261.jpeg",
+          "IsNSFW": false,
+          "ModID": 4197,
+          "Name": "TweakXL",
+          "Version": "1.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "htzzXN7jQ5M=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3518\nfileID=44257",
+        "Name": "Native Settings UI 1.93-3518-1-93-1684086753.zip",
+        "Size": 14887,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "keanuWheeze",
           "Description": "This mod allows other mods to easily add settings menus using only native UI, thus looking like the games settings menu",
-          "FileID": 36890,
+          "FileID": 44257,
           "GameName": "Cyberpunk2077",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3518/3518-1638213207-1484439585.png",
           "IsNSFW": false,
@@ -308,41 +413,62 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QSN6JgDq7ts=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=3741\nfileID=38485",
-        "Name": "CP77 External Radio-3741-2-1-5-1675326740.zip",
-        "Size": 85867,
+        "Hash": "ml/mmHSPT4E=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4198\nfileID=44092",
+        "Name": "ArchiveXL-4198-1-4-5-1683666627.zip",
+        "Size": 402669,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Jackie Bright",
-          "Description": "Triggers external media player (such as Spotify or VLC) when entering and exiting cars",
-          "FileID": 38485,
+          "Author": "psiberx",
+          "Description": "Archive extension loader",
+          "FileID": 44092,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/3741/3741-1650817233-1563770399.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4198/4198-1648116857-72076015.jpeg",
           "IsNSFW": false,
-          "ModID": 3741,
-          "Name": "External Radio",
-          "Version": "2.1.2"
+          "ModID": 4198,
+          "Name": "ArchiveXL",
+          "Version": "1.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "URqrUO7LDis=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=5176\nfileID=39752",
-        "Name": "cybercmd-5176-0-0-7-1677186046.zip",
-        "Size": 353182,
+        "Hash": "S0t+67FM8mY=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=5266\nfileID=28345",
+        "Name": "Material and Texture Override-5266-1-1-1663492843.7z",
+        "Size": 2482,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "jac3km4",
-          "Description": "Command-line argument loader for Cyberpunk 2077",
-          "FileID": 39752,
+          "Author": "Nim",
+          "Description": "Enables the game to load new materials. But it\u0027s REDmod compatible now. Please read the description.",
+          "FileID": 28345,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/5176/5176-1662909914-793019639.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/5266/5266-1663479835-149434627.png",
           "IsNSFW": false,
-          "ModID": 5176,
-          "Name": "cybercmd",
+          "ModID": 5266,
+          "Name": "Material and Texture Override",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2ainSH2whjE=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4885\nfileID=43023",
+        "Name": "mod_settings.zip-4885-0-0-14-1682087333.zip",
+        "Size": 198589,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jack Humbert",
+          "Description": "Adds a redscript-configurable \u0022Mod Settings\u0022 page to the main menu that any mod can add a page to.",
+          "FileID": 43023,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4885/4885-1658548659-1491857712.jpeg",
+          "IsNSFW": false,
+          "ModID": 4885,
+          "Name": "Mod Settings",
           "Version": "0.0.5"
         }
       }
@@ -350,21 +476,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yjDL049Y4qs=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4575\nfileID=38507",
-        "Name": "input_loader.zip-4575-0-0-9-1675372599.zip",
-        "Size": 127799,
+        "Hash": "o4fRyjlKG78=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=2380\nfileID=44175",
+        "Name": "RED4ext-2380-1-13-1-1683827537.zip",
+        "Size": 575775,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Jack Humbert",
-          "Description": "This plugin looks for all r6/input/*.xml files and merges them with the appropriate input config file from r6/config/ and saves results to r6/cache/. A configuration file is written to engine/config/platform/pc/input_loader.ini, which tells the game to load the merged .xml files.",
-          "FileID": 38507,
+          "Author": "WopsS",
+          "Description": "A script extender for REDengine 4.",
+          "FileID": 44175,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4575/4575-1653846065-507129799.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/2380/2380-1618829826-1376548256.png",
           "IsNSFW": false,
-          "ModID": 4575,
-          "Name": "Input Loader",
-          "Version": "0.0.4"
+          "ModID": 2380,
+          "Name": "RED4ext",
+          "Version": "1.2.1"
         }
       }
     },
@@ -392,20 +518,41 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "g9Z8FTq7mAw=",
-        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=4198\nfileID=41280",
-        "Name": "ArchiveXL-4198-1-4-1-1679411446.zip",
-        "Size": 362467,
+        "Hash": "fqk+bhVmKLU=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=1511\nfileID=44186",
+        "Name": "redscript-1511-0-5-14-1683839817.zip",
+        "Size": 943133,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "jac3km4",
+          "Description": "Compiler for Cyberpunk2077 scripts",
+          "FileID": 44186,
+          "GameName": "Cyberpunk2077",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/1511/1511-1612727913-1059595445.png",
+          "IsNSFW": false,
+          "ModID": 1511,
+          "Name": "redscript",
+          "Version": "0.3.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sq834UjfMhA=",
+        "Meta": "[General]\ngameName=cyberpunk2077\nmodID=7780\nfileID=42974",
+        "Name": "Codeware-7780-1-1-3-1682018473.zip",
+        "Size": 342345,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "psiberx",
-          "Description": "Archive extension loader",
-          "FileID": 41280,
+          "Description": "Script extensions",
+          "FileID": 42974,
           "GameName": "Cyberpunk2077",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/4198/4198-1648116857-72076015.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3333/images/7780/7780-1678888364-446201648.jpeg",
           "IsNSFW": false,
-          "ModID": 4198,
-          "Name": "ArchiveXL",
+          "ModID": 7780,
+          "Name": "Codeware",
           "Version": "1.0.0"
         }
       }
