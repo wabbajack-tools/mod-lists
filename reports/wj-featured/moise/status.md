@@ -1,11 +1,10 @@
 ## Validation Report - MOISE (wj-featured/moise)
 
 
-### Invalid (1)
-*  [lgnpc_gnaar_mok_1.20.zip](http://lgnpc.org/mods/lgnpc_gnaar_mok_1.20.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (205)
+### Valid (206)
 *  [-Pluginless Khajiit Head Pack--43110-1-0.7z](https://www.nexusmods.com/morrowind/mods/43110/?tab=files&file_id=1000002478)
 *  [16x9 Version-39329-v1-0.zip](https://www.nexusmods.com/morrowind/mods/39329/?tab=files&file_id=81971)
 *  [4x3 Version-39329-v1-0.zip](https://www.nexusmods.com/morrowind/mods/39329/?tab=files&file_id=81984)
@@ -99,6 +98,7 @@
 *  [LFGT 1-0-29206.7z](https://www.nexusmods.com/morrowind/mods/29206/?tab=files&file_id=53800)
 *  [lgnpc_ald_velothi_1.20.zip](http://lgnpc.org/mods/lgnpc_ald_velothi_1.20.zip)
 *  [lgnpc_aldruhn_1.30.zip](http://lgnpc.org/mods/lgnpc_aldruhn_1.30.zip)
+*  [lgnpc_gnaar_mok_1.20.zip](http://lgnpc.org/mods/lgnpc_gnaar_mok_1.20.zip)
 *  [lgnpc_hla_oad_1.40.zip](http://lgnpc.org/mods/lgnpc_hla_oad_1.40.zip)
 *  [lgnpc_indarys_1.60.zip](http://lgnpc.org/mods/lgnpc_indarys_1.60.zip)
 *  [lgnpc_khuul_2.30.zip](http://lgnpc.org/mods/lgnpc_khuul_2.30.zip)
