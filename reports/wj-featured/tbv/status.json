@@ -2,7 +2,7 @@
   "MachineURL": "wj-featured/tbv",
   "Name": "The Bustling Valley",
   "Version": "0.6.0",
-  "ModListHash": "BJ/9IJ1G3BA=",
+  "ModListHash": "qiF+zs+vXeM=",
   "Archives": [
     {
       "Status": "Valid",
@@ -117,15 +117,23 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
-        "Hash": "v9/WLnKucxc=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Always Raining in the Valley Discord.zip_e0a00453-4260-4b4b-89b3-8231420a353",
-        "Name": "Always Raining in the Valley Discord.zip",
-        "Size": 65851876,
+        "Hash": "BFoSpmg1fHs=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=9999\nfileID=47711",
+        "Name": "Always Raining in the Valley-9999-1-0-3-1638473652.zip",
+        "Size": 61339450,
         "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Always Raining in the Valley Discord.zip_e0a00453-4260-4b4b-89b3-8231420a353"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Himetarts",
+          "Description": "A heart-warming Custom NPC mini expanson that adds Sterling, Mia and Henry, 13 new recipes, events and over 1000\u002B lines of dialogue. Does not add more rain to the valley.For East Scarp!",
+          "FileID": 47711,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/9999/9999-1636335286-953032134.png",
+          "IsNSFW": false,
+          "ModID": 9999,
+          "Name": "Always Raining in the Valley - Custom NPCs for ES",
+          "Version": "1.0.3"
         }
       }
     },
@@ -2002,6 +2010,19 @@
           "ModID": 14849,
           "Name": "Alternate Portraits for Boarding House Gregory and Sheila",
           "Version": "1.2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "v9/WLnKucxc=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Always_Raining_in_the_Valley_Discord.zip_6e8b4a33-19be-44a5-b590-fd3af84e471b",
+        "Name": "Always_Raining_in_the_Valley_Discord.zip",
+        "Size": 65851876,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/Always_Raining_in_the_Valley_Discord.zip_6e8b4a33-19be-44a5-b590-fd3af84e471b"
         }
       }
     },
@@ -3947,27 +3968,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BFoSpmg1fHs=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=9999\nfileID=47711",
-        "Name": "Always Raining in the Valley-9999-1-0-3-1638473652.zip",
-        "Size": 61339450,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Himetarts",
-          "Description": "A heart-warming Custom NPC mini expanson that adds Sterling, Mia and Henry, 13 new recipes, events and over 1000\u002B lines of dialogue. Does not add more rain to the valley.For East Scarp!",
-          "FileID": 47711,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/9999/9999-1636335286-953032134.png",
-          "IsNSFW": false,
-          "ModID": 9999,
-          "Name": "Always Raining in the Valley - Custom NPCs for ES",
-          "Version": "1.0.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "C4nTWwlXtYY=",
         "Meta": "[General]\ngameName=stardewvalley\nmodID=10287\nfileID=49454",
         "Name": "BetterFriendship-10287-1-0-6-1642296773.zip",
@@ -5079,8 +5079,8 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/179bf667dcfbb70d_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/179bf667dcfbb70d_large.webp"
 }

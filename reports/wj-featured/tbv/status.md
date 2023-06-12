@@ -1,11 +1,10 @@
 ## Validation Report - The Bustling Valley (wj-featured/tbv)
 
 
-### Invalid (1)
-*  [Always Raining in the Valley Discord.zip](https://authored-files.wabbajack.org/Always Raining in the Valley Discord.zip_e0a00453-4260-4b4b-89b3-8231420a353)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (246)
+### Valid (247)
 *  [(CP) More Bar Transmutations-5996-1-2-0-1611676707.zip](https://www.nexusmods.com/stardewvalley/mods/5996/?tab=files&file_id=36703)
 *  [Advanced Social Interactions 1.0.0-14451-1-0-0-1668224513.zip](https://www.nexusmods.com/stardewvalley/mods/14451/?tab=files&file_id=62663)
 *  [Alec Revisited 2.1.0-10697-2-1-0-1658805315.zip](https://www.nexusmods.com/stardewvalley/mods/10697/?tab=files&file_id=58021)
@@ -14,6 +13,7 @@
 *  [Alternate Portraits for Boarding House Gregory and Sheila-14849-1-2-1-1672047455.zip](https://www.nexusmods.com/stardewvalley/mods/14849/?tab=files&file_id=64327)
 *  [Alternative Textures 6.9.1-9246-6-9-1-1682135737.zip](https://www.nexusmods.com/stardewvalley/mods/9246/?tab=files&file_id=70038)
 *  [Always Raining in the Valley-9999-1-0-3-1638473652.zip](https://www.nexusmods.com/stardewvalley/mods/9999/?tab=files&file_id=47711)
+*  [Always_Raining_in_the_Valley_Discord.zip](https://authored-files.wabbajack.org/Always_Raining_in_the_Valley_Discord.zip_6e8b4a33-19be-44a5-b590-fd3af84e471b)
 *  [Anniversary on Calendar (1.2.4)-8351-1-2-4-1657465528.zip](https://www.nexusmods.com/stardewvalley/mods/8351/?tab=files&file_id=57225)
 *  [AntiSocialNPCs-5371-1-0-6-1656691163.zip](https://www.nexusmods.com/stardewvalley/mods/5371/?tab=files&file_id=56774)
 *  [Art Vanilla Dads-5436-1-0-0-1660376134.zip](https://www.nexusmods.com/stardewvalley/mods/5436/?tab=files&file_id=58849)
