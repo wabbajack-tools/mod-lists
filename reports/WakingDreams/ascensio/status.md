@@ -1,11 +1,10 @@
 ## Validation Report - Ascensio (WakingDreams/ascensio)
 
 
-### Invalid (1)
-*  [Iron Armors and Weapons Retexture SE - 2K.7z](https://authored-files.wabbajack.org/Iron Armors and Weapons Retexture SE - 2K.7z_f0a62feb-6283-465a-8cb9-a42d23a5fa05)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1288)
+### Valid (1289)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [- Meshes - important-58370-9-4-1675864649.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=357717)
 *  [(1) Community Overlays 1 - Main - UNP  2K-22487-1-0-1-1547247749.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77985)
@@ -721,6 +720,7 @@
 *  [Interaction Icons Rework-52743-1-5-5-1666239945.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52743/?tab=files&file_id=325304)
 *  [Inventory Interface Information Injector (SE)-85702-1-0-2-1677719496.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85702/?tab=files&file_id=364683)
 *  [Inventory mesh Glowmapped with ENB Particle Light Addon-76473-1-1-1664794407.rar](https://www.nexusmods.com/skyrimspecialedition/mods/76473/?tab=files&file_id=321277)
+*  [Iron Armors and Weapons Retexture SE - 2K.7z](https://authored-files.wabbajack.org/Iron Armors and Weapons Retexture SE - 2K.7z_f0a62feb-6283-465a-8cb9-a42d23a5fa05)
 *  [Iron Talos-36601-1-0-1590758858.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36601/?tab=files&file_id=142702)
 *  [JContainers SE-16495-4-2-3-1665168582.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16495/?tab=files&file_id=322290)
 *  [Jeannetta182 FIX for Simplicity of Snow PATCH - LOWEST INTENSITY-65770-1-3-1683086923.rar](https://www.nexusmods.com/skyrimspecialedition/mods/65770/?tab=files&file_id=384286)

@@ -1,11 +1,10 @@
 ## Validation Report - AVO (Animonculory/AVO)
 
 
-### Invalid (1)
-*  [Iron Armors and Weapons Retexture SE - 2K.7z](https://authored-files.wabbajack.org/Iron Armors and Weapons Retexture SE - 2K.7z_f0a62feb-6283-465a-8cb9-a42d23a5fa05)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1177)
+### Valid (1178)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(ESL) Heimskr only preaches on weekends-13865-1-4-1677908626.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13865/?tab=files&file_id=365292)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
@@ -670,6 +669,7 @@
 *  installscript.vdf
 *  [Inventory Interface Information Injector (SE)-85702-1-0-2-1677719496.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85702/?tab=files&file_id=364683)
 *  [Irkngthand's Possible Bugs Fix-62841-2-0-0-1675522281.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62841/?tab=files&file_id=356251)
+*  [Iron Armors and Weapons Retexture SE - 2K.7z](https://authored-files.wabbajack.org/Iron Armors and Weapons Retexture SE - 2K.7z_f0a62feb-6283-465a-8cb9-a42d23a5fa05)
 *  [JContainers SE-16495-4-2-3-1665168582.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16495/?tab=files&file_id=322290)
 *  [Jebbalon's Lava Column Correction-22050-1-0-1545459422.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22050/?tab=files&file_id=75871)
 *  [JS Attunement Sphere and Lexicons SE - 1k Textures-69073-1-01-1654312839.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69073/?tab=files&file_id=288669)
