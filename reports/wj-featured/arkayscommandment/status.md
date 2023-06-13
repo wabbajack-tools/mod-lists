@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1184)
+### Valid (1179)
 *  [(3) Alchemy Station Variants - Persistent Swap-92768-1-2-1685974800.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=395293)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-9-1-1664974289.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321816)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -219,8 +219,6 @@
 *  [CoverKhajiits 2K-71067-1-1-1657471278.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71067/?tab=files&file_id=297850)
 *  [CPS Legends Icons-57114-1-6-0-1643741408.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57114/?tab=files&file_id=261036)
 *  [Creation Collision Fix-68402-1-0-3-1672826382.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68402/?tab=files&file_id=346590)
-*  CreationKit.exe
-*  CreationKit.ini
 *  [Critter Spawn Congestion Fix 1.3-67276-1-3-1673705873.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67276/?tab=files&file_id=349417)
 *  [Crosshair-aligned Crossbow-42267-1-0-1-1605175958.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42267/?tab=files&file_id=169735)
 *  [Cult of the World Eater (SPID) 1.3-83274-1-3-1674852111.zip](https://www.nexusmods.com/skyrimspecialedition/mods/83274/?tab=files&file_id=353643)
@@ -419,7 +417,6 @@
 *  [Flies around corpses (SE-AE)-88367-1-1680462054.rar](https://www.nexusmods.com/skyrimspecialedition/mods/88367/?tab=files&file_id=374516)
 *  [Floating Ash Pile Fix-63434-0-2-1644944776.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63434/?tab=files&file_id=264466)
 *  [FloatingDamageV2 v2.0.1 for SkyrimSE-14332-2-0-1-1600165690.7z](https://www.nexusmods.com/skyrimspecialedition/mods/14332/?tab=files&file_id=160837)
-*  flowchartx64.dll
 *  [Fluffy Vale Deer-92212-1-0-1685114610.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92212/?tab=files&file_id=392085)
 *  [Follower Combat Priority-60865-1-1-1640726311.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60865/?tab=files&file_id=252318)
 *  [Follower Death Chance - Vanilla-38043-2-51-1668291115.rar](https://www.nexusmods.com/skyrimspecialedition/mods/38043/?tab=files&file_id=331259)
@@ -738,7 +735,6 @@
 *  [Outlandish Stalhrim SSE - Better Shaped Swords Patch-19562-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19562/?tab=files&file_id=64174)
 *  [Outlandish Stalhrim SSE-19562-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19562/?tab=files&file_id=64173)
 *  [Oxygen Meter 2 SE-64532-1-0-5-1650292086.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64532/?tab=files&file_id=278062)
-*  p4com64.dll
 *  [Pants for Savior's Hide-25131-0-1-1555593056.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25131/?tab=files&file_id=88853)
 *  [Paper UI Sounds-38944-6-1-1599820078.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38944/?tab=files&file_id=160166)
 *  [Paper World Map SSE-10836-1-4.rar](https://www.nexusmods.com/skyrimspecialedition/mods/10836/?tab=files&file_id=29197)
@@ -1028,7 +1024,6 @@
 *  [Super Night Eye-77354-1-1-1666351985.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77354/?tab=files&file_id=325512)
 *  [Supreme Dwemer Spheres-35769-1-3-1589024524.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35769/?tab=files&file_id=138935)
 *  [SweetFX-7894c84f46baac10a51937579de912bbbc4e0191.zip](https://github.com/CeeJayDK/SweetFX/archive/7894c84f46baac10a51937579de912bbbc4e0191.zip)
-*  [Swift Potion NG-78272-1-3-1673913706.zip](https://www.nexusmods.com/skyrimspecialedition/mods/78272/?tab=files&file_id=350265)
 *  [Swiftly Order Squad - Simply Order Summons integration-63259-1-7-1682342204.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63259/?tab=files&file_id=381559)
 *  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.19.2/Synthesis.zip)
 *  [Taarengrav Barrow-84371-1-2-1676401894.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84371/?tab=files&file_id=359775)
