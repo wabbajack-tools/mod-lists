@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1011)
+### Valid (1010)
 *  [.45 Auto Pistol Ha_ru anims-21142-1-2-1.zip](https://www.nexusmods.com/fallout4/mods/21142/?tab=files&file_id=87199)
 *  [0004. Helmet Toggle-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108856)
 *  [1. Quantum Horizons ENB N2.2 - Hyper edition for NAC-X_Build 1-45086-N2-2-1681582378.7z](https://www.nexusmods.com/fallout4/mods/45086/?tab=files&file_id=274147)
@@ -354,7 +354,6 @@
 *  [Fallout 4 Particle Patch-68599-1-1-1677394454.rar](https://www.nexusmods.com/fallout4/mods/68599/?tab=files&file_id=268624)
 *  [Fallout Priority 3.4.0 (Preview)-52515-3-4-0-1675421049.zip](https://www.nexusmods.com/fallout4/mods/52515/?tab=files&file_id=266097)
 *  Fallout4_Default.ini
-*  Fallout4_Fallout4Prefs.ini
 *  Fallout4.ccc
 *  Fallout4.exe
 *  Fallout4Launcher.exe
