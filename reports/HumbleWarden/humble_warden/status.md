@@ -1,11 +1,10 @@
 ## Validation Report - Just a Humble Warden (HumbleWarden/humble_warden)
 
 
-### Invalid (1)
-*  [Promotional Items.zip](https://drive.google.com/uc?id=1RDTzByiX1sXzhTJUt-zkrv8HYVC7oIqW&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (239)
+### Valid (240)
 *  [(0.5) Adria and Her Dog-5944-0-5-1684028054.zip](https://www.nexusmods.com/dragonage/mods/5944/?tab=files&file_id=1000010239)
 *  [(0.6) Riot Scene Tweaks and GW Justice-5944-0-6-1685130699.zip](https://www.nexusmods.com/dragonage/mods/5944/?tab=files&file_id=1000010315)
 *  [50 Tactic Slots-4096-1-1.7z](https://www.nexusmods.com/dragonage/mods/4096/?tab=files&file_id=1000001832)
@@ -182,6 +181,7 @@
 *  [Optional Drake and Dragonling-5826-1-1661233774.rar](https://www.nexusmods.com/dragonage/mods/5826/?tab=files&file_id=1000009240)
 *  [Perceptible Portraits-6074-1-0-1681201396.7z](https://www.nexusmods.com/dragonage/mods/6074/?tab=files&file_id=1000010091)
 *  [PPFP Miscellaneous-6017-1-1-1685411920.rar](https://www.nexusmods.com/dragonage/mods/6017/?tab=files&file_id=1000010342)
+*  [Promotional Items.zip](https://drive.google.com/uc?id=1RDTzByiX1sXzhTJUt-zkrv8HYVC7oIqW&export=download)
 *  [PTs Vibrant Colors 1_31-153.zip](https://www.nexusmods.com/dragonage/mods/153/?tab=files&file_id=1347)
 *  [Purple Lightning-6017-1-0-1677605308.rar](https://www.nexusmods.com/dragonage/mods/6017/?tab=files&file_id=1000009868)
 *  [QUDAO Fixpack v3.5-4689-3-5-1550475932.zip](https://www.nexusmods.com/dragonage/mods/4689/?tab=files&file_id=1000006176)
