@@ -1,11 +1,10 @@
 ## Validation Report - Aldrnari (wj-featured/aldrnari)
 
 
-### Invalid (1)
-*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2667)
+### Valid (2671)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0.0) SELUA - Solitude Exterior LOD Unlocker Advocate II-36116-1-1-1605036920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169508)
 *  [(1.1) The Great City of Solitude PATCH - Solitude Skyway SE - Drengin's Blue Palace Terrace (STD)-36116-1-1-1604648419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=168848)
@@ -101,6 +100,7 @@
 *  [A Lovely Letter Alternate Routes-21916-1-0-1544983389.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21916/?tab=files&file_id=75329)
 *  [A Matter Of Time - Settings Loader-55365-2-1-1632020790.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55365/?tab=files&file_id=229283)
 *  [A Matter of Time - Simple preset-54159-1-01-1629728382.rar](https://www.nexusmods.com/skyrimspecialedition/mods/54159/?tab=files&file_id=223194)
+*  [A0D789patch_v1_1.zip](https://www.patreon.com/file?h=69951525&i=11395543)
 *  [AAR - Wabbajack-34197-0-9-1585599636.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34197/?tab=files&file_id=131539)
 *  [Abyssal Gaoler-36240-v1-3-1592606827.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36240/?tab=files&file_id=146520)
 *  [Action Based Projectiles - Odin Patch-54611-1-0-1630417776.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54611/?tab=files&file_id=225184)
@@ -609,6 +609,7 @@
 *  [Data Files-42057-1-1604616002.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42057/?tab=files&file_id=168776)
 *  Data_ccbgssse025-advdsgs.bsa
 *  Data_ccbgssse025-advdsgs.esm
+*  Data_ccbgssse067-daedinv.bsa
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
@@ -1703,6 +1704,7 @@
 *  [Oxygen Meter 2 SE-64532-1-0-5-1650292086.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64532/?tab=files&file_id=278062)
 *  [Paarthurnax - Quest Expansion-51711-1-11-1652313141.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51711/?tab=files&file_id=283040)
 *  [PaladinArtifactsAndArmor_V3.1-16199-3-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16199/?tab=files&file_id=58272)
+*  [Palladium Racials - Dunmer Scarification Patch-93590-1-0-1686855617.zip](https://www.nexusmods.com/skyrimspecialedition/mods/93590/?tab=files&file_id=398114)
 *  [Palladium Racials-43890-2-2-3-1660259080.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43890/?tab=files&file_id=306677)
 *  [PAN_Brelyna-45128-1-0-1612143281.rar](https://www.nexusmods.com/skyrimspecialedition/mods/45128/?tab=files&file_id=183264)
 *  [PAN_DevotedDames SE-59531-1-0-1638658274.rar](https://www.nexusmods.com/skyrimspecialedition/mods/59531/?tab=files&file_id=246662)
@@ -2004,6 +2006,7 @@
 *  [SC - KS Hairdos Retextured-38820-1-8-1621881743.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38820/?tab=files&file_id=205362)
 *  [SC - Unsainted - ESP-FE-67128-1-0-1651423448.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67128/?tab=files&file_id=280834)
 *  [SC - Unsainted-67128-1-0-1650987445.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67128/?tab=files&file_id=279757)
+*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
 *  [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
 *  [ScaleformTranslationPP-22603-1-4-1-1586306055.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22603/?tab=files&file_id=132968)
 *  [SCAR - Skyrim Combos AI Revolution-72014-v0-93-1660740665.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72014/?tab=files&file_id=308222)
