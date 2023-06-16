@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (780)
+### Valid (763)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -72,6 +72,7 @@
 *  [Better Jumping AE-18967-1-8-6-1663530469.zip](https://www.nexusmods.com/skyrimspecialedition/mods/18967/?tab=files&file_id=317398)
 *  [Better Third Person Selection (AE - SE)-64339-0-5-8-1671483227.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64339/?tab=files&file_id=341977)
 *  [Beyond Skyrim - Wares of Tamriel-31519-1-4-1636666120.zip](https://www.nexusmods.com/skyrimspecialedition/mods/31519/?tab=files&file_id=240652)
+*  bink2w64.dll
 *  [Blackreach Tentacle Mesh Fix-43083-0-1-1607186501.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43083/?tab=files&file_id=173163)
 *  [Blade and Blunt - A Combat Overhaul-34549-3-0-5-1686584794.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34549/?tab=files&file_id=397240)
 *  [Blade and Blunt - Harsher Health Regen Addon-34549-1-1-0-1685118042.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34549/?tab=files&file_id=392113)
@@ -354,7 +355,6 @@
 *  [Extended Cut Saints and Seducers - Mysticism Rebalance-81950-2-2-1678333663.zip](https://www.nexusmods.com/skyrimspecialedition/mods/81950/?tab=files&file_id=366717)
 *  [Eyes AO Clipping Fix - Ruhmastered-25753-1-3-1577066722.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25753/?tab=files&file_id=117092)
 *  [Face Discoloration Fix SE-42441-1-0-3-1664040600.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42441/?tab=files&file_id=319047)
-*  [FaceFXWrapper 0.4-20061-0-4-1631087053.zip](https://www.nexusmods.com/skyrimspecialedition/mods/20061/?tab=files&file_id=226894)
 *  [Far Object LOD Improvement Project SSE-79197-1-1-1673145921.zip](https://www.nexusmods.com/skyrimspecialedition/mods/79197/?tab=files&file_id=347734)
 *  [Farm Hat 01 Clipping Fix-72213-1-1-1672045134.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72213/?tab=files&file_id=343719)
 *  [Farmhouse Chimneys SE - USSEP Patch-8766-4-1-1-1637503578.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8766/?tab=files&file_id=243226)
@@ -440,15 +440,6 @@
 *  [Lawless Simonrim-88080-2-0-1684030855.rar](https://www.nexusmods.com/skyrimspecialedition/mods/88080/?tab=files&file_id=387910)
 *  [LeanWolfs Better-Shaped Weapons Installer v2.1.03 SE-2017-2-1-03-1585765834.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2017/?tab=files&file_id=131901)
 *  [Leaps of Faith-53074-1-03-1681138702.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53074/?tab=files&file_id=377041)
-*  lex_accent.tlx
-*  lex_ssceam.tlx
-*  lex_ssceam2.clx
-*  lex_sscebr.tlx
-*  lex_sscebr2.clx
-*  lex_ssceca2.clx
-*  lex_tech.tlx
-*  lex_User_correct.tlx
-*  lex_User_userdic.tlx
 *  [lilebonymace patches-36042-2-30-1678645020.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36042/?tab=files&file_id=367958)
 *  [Locational Encounter Zones-85212-1-0-2-1676905795.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85212/?tab=files&file_id=361658)
 *  [LOD Model Library - FOMOD-87521-1-2-2-1684623142.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87521/?tab=files&file_id=390317)
@@ -543,8 +534,6 @@
 *  [Oxygen Meter 2 AE-64532-1-0-5-1672628270.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64532/?tab=files&file_id=345763)
 *  [P.E.N.I.S. for B.O.O.B.I.E.S.-90526-1-0-0-1683263556.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90526/?tab=files&file_id=384806)
 *  [Paarthurnax - Quest Expansion-51711-1-12-1682859219.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51711/?tab=files&file_id=383290)
-*  Papyrus Compiler_PapyrusCompiler.exe
-*  Papyrus Compiler_ScriptCompile.bat
 *  [Papyrus Extender-22854-5-5-0-1675781101.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=357449)
 *  [Papyrus Tweaks 4.1.0-77779-4-1-0-1677126184.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77779/?tab=files&file_id=362490)
 *  [PapyrusUtil AE SE - Scripting Utility Functions-13048-4-4-1664236996.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=319680)
@@ -723,12 +712,6 @@
 *  [Timing is Everything SE - Settings Loader-57754-1-0-1-1680803770.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57754/?tab=files&file_id=375711)
 *  [Timing is Everything SE-25464-2-2-1566270281.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25464/?tab=files&file_id=103670)
 *  [To Your Face AE-24720-1-0s-1665944678.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24720/?tab=files&file_id=324533)
-*  Tools_Archive_Archive.exe
-*  Tools_Audio_xwmaencode.exe
-*  Tools_Elric_xg.dll
-*  Tools_Elric_xtexconv.exe
-*  Tools_HavokBehaviorPostProcess_HavokBehaviorPostProcess.exe
-*  Tools_HavokBehaviorPostProcess_UpgradeHavokBehavior.bat
 *  [Tree LOD Lighting-86617-1-0-1-1686405087.zip](https://www.nexusmods.com/skyrimspecialedition/mods/86617/?tab=files&file_id=396569)
 *  [Troll Idle Animation Removed-65802-1-00-1648811890.rar](https://www.nexusmods.com/skyrimspecialedition/mods/65802/?tab=files&file_id=274059)
 *  [True Directional Movement-51614-2-2-3-1664411938.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51614/?tab=files&file_id=320160)
