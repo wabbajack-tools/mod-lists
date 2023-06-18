@@ -1,12 +1,11 @@
 ## Validation Report - Nostalgia (Nostalgia/nostalgia)
 
 
-### Invalid (2)
-*  [Enhanced Vision 1.3.1 [eddoursul.win].7z](https://eddoursul.win/download/247)
+### Invalid (1)
 *  [Vanilla_UI_Plus_New_Vegas_948.1 (1).7z](https://www.moddb.com/downloads/mirror/128019/131/a4cc8c675b85c6c7bf5c64c19966663e)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (916)
+### Valid (917)
 *  [00 - Better Books-74333-1-0-1636330917.7z](https://www.nexusmods.com/newvegas/mods/74333/?tab=files&file_id=1000083742)
 *  [01 - Improved Male Body - FOMOD Installer-70160-1-4-1644720615.7z](https://www.nexusmods.com/newvegas/mods/70160/?tab=files&file_id=1000087623)
 *  [1 - DiDisaan's Patch Emporium-64981-1-92-4-1654873891.rar](https://www.nexusmods.com/newvegas/mods/64981/?tab=files&file_id=1000094042)
@@ -456,6 +455,7 @@
 *  [Enclave - Vertibird Crash Sites_V2-56863-V2.rar](https://www.nexusmods.com/newvegas/mods/56863/?tab=files&file_id=1000022007)
 *  [Enhanced Blood Textures-34917-2-22c.rar](https://www.nexusmods.com/newvegas/mods/34917/?tab=files&file_id=1000017433)
 *  [Enhanced Landscapes-69406-1-5-1666885059.7z](https://www.nexusmods.com/newvegas/mods/69406/?tab=files&file_id=1000100407)
+*  [Enhanced Vision 1.3.1 [eddoursul.win].7z](https://eddoursul.win/download/247)
 *  [Essential DLC Enhancements-73803-1-3-2-1670870253.7z](https://www.nexusmods.com/newvegas/mods/73803/?tab=files&file_id=1000102289)
 *  [Expanded Mojave - Highway 95 Viper's Encampment-80461-1-0-1679093247.rar](https://www.nexusmods.com/newvegas/mods/80461/?tab=files&file_id=1000106554)
 *  [Exterior Emittance Fix-80443-1-1-0-1679005223.7z](https://www.nexusmods.com/newvegas/mods/80443/?tab=files&file_id=1000106514)
