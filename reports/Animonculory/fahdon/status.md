@@ -1,13 +1,12 @@
 ## Validation Report - Fahdon - A Skyrim Together Experience (Animonculory/fahdon)
 
 
-### Invalid (3)
+### Invalid (2)
 *  [enbseries_skyrimse_v0475.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_1898e8aa-827b-4242-9a29-3094a8bbb98e/)
 *  [Markarth HD Retexture.7z](https://authored-files.wabbajack.org/Markarth HD Retexture.7z_9098232b-4285-4989-bb7f-8115ef4e58da)
-*  [zz_lore friendly Hairs v1_SE.7z](https://www.patreon.com/file?h=64683742&i=10436348)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1183)
+### Valid (1184)
 *  [- Meshes - important-58370-1-0-1637050362.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=241886)
 *  [(Khajiit) Lioness Look SSE CBBE-48041-1-1-1620268829.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48041/?tab=files&file_id=201933)
 *  [(Part 1) SSE Engine Fixes for 1.6.xxx-17230-6-0-2-1637784396.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
@@ -1191,3 +1190,4 @@
 *  [YesImSure-24898-1-6-0-1641440796.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24898/?tab=files&file_id=254275)
 *  [You Are Not Special (YANS)-65378-6-0-1656749454.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65378/?tab=files&file_id=295564)
 *  [z Vanilla Military Camps-9005-1-1558843128.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9005/?tab=files&file_id=93654)
+*  [zz_lore friendly Hairs v1_SE.7z](https://www.patreon.com/file?h=64683742&i=10436348)
