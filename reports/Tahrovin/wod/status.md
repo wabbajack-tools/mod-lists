@@ -1,11 +1,10 @@
 ## Validation Report - Wasteland of Depravity (Tahrovin/wod)
 
 
-### Invalid (1)
-*  [ZeX-ExtendedSkeletonV5.zip](https://drive.google.com/uc?id=1eAUcQ79tgXzDhRCvnpH6WhNfaKFsjh3a&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1011)
+### Valid (1012)
 *  [.45 Auto Pistol Ha_ru anims-21142-1-2-1.zip](https://www.nexusmods.com/fallout4/mods/21142/?tab=files&file_id=87199)
 *  [0004. Helmet Toggle-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108856)
 *  [1. Quantum Horizons ENB N2.2 - Hyper edition for NAC-X_Build 1-45086-N2-2-1681582378.7z](https://www.nexusmods.com/fallout4/mods/45086/?tab=files&file_id=274147)
@@ -1015,5 +1014,6 @@
 *  [xLODGen.98.7z](https://authored-files.wabbajack.org/xLODGen.98.7z_af8fe5b1-de27-4d04-b5d2-e863983d80bf)
 *  [xSE PluginPreloader F4 0.2.5.1-33946-0-2-5-1-1637347868.zip](https://www.nexusmods.com/fallout4/mods/33946/?tab=files&file_id=221778)
 *  [ZaZOut4 V0.0.3.3.7z](https://www.loverslab.com/files/file/18697-zazout4-repack/)
+*  [ZeX-ExtendedSkeletonV5.zip](https://drive.google.com/uc?id=1eAUcQ79tgXzDhRCvnpH6WhNfaKFsjh3a&export=download)
 *  [ZeX-ZBG-0223.zip](https://www.mediafire.com/file/xoyhhu6hhs5cg6c/ZeX-ZBG-0223.zip)
 *  [Zipsuit v2.0-16704-2-0.rar](https://www.nexusmods.com/fallout4/mods/16704/?tab=files&file_id=81924)
