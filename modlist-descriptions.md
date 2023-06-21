@@ -26,6 +26,7 @@
     -   [Ruvaak](#ruvaak)
     -   [Skyrim Modding Essentials](#skyrim-modding-essentials)
     -   [Tales From the Northern Lands](#tales-from-the-northern-lands)
+    -   [The Northern Experience](#the-northern-experience)
     -   [The Phoenix Flavour](#the-phoenix-flavour)
     -   [The Phoenix Flavour - Dragon's Edition](#the-phoenix-flavour---dragons-edition)
         -   [Additional Features](#additional-features)
@@ -335,6 +336,16 @@ _Please note that Luca (the modlist author) does not support changes to the list
 [All the SimonRim Mods (Except the Race, Religion and Stadingstone mods)](https://www.nexusmods.com/skyrimspecialedition/mods/43763)
 
 [Full List on LoadorderLibrary](https://loadorderlibrary.com/lists/tales-from-the-northern-lands)
+
+---
+
+### [The Northern Experience](https://github.com/mnikjom/The-Northern-Experience)
+
+Official wabbajack version of The Northern Experience - Skyrim Modding Guide. This is a list that focuses on improving visuals, adding new content that still fits the original game design, and enhancing gameplay mechanics.
+
+**_Mods to get familiar with:_**
+
+[Full List](https://www.nexusmods.com/skyrimspecialedition/mods/23894)
 
 ---
 
