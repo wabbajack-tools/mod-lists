@@ -1,10 +1,11 @@
 ## Validation Report - Nordic Souls (Geborgen/nordic-souls)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [High Poly Head v1.4 (SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1565)
+### Valid (1564)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -791,7 +792,6 @@
 *  [High Poly Blackreach Mushrooms-40418-1-1-1617711701.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40418/?tab=files&file_id=196429)
 *  [High Poly Canticle Tree-51433-0-1-1624205654.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51433/?tab=files&file_id=210242)
 *  [High Poly Gleamblossoms - vanilla glow-40278-1-1-1599743321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40278/?tab=files&file_id=160018)
-*  [High Poly Head v1.4 (SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 *  [High Poly Project-12029-v5-3-1634909383.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=236420)
 *  [High Poly Soul Husks-47891-0-2-1617274845.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47891/?tab=files&file_id=195157)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)

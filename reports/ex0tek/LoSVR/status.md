@@ -1,11 +1,10 @@
 ## Validation Report - Legend of SkyrimVR (ex0tek/LoSVR)
 
 
-### Invalid (1)
-*  [sksevr_2_00_12.7z](http://skse.silverlock.org/beta/sksevr_2_00_12.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (750)
+### Valid (751)
 *  [1) Skyrim Immersive Creatures v7.0.2 (includes 1K Textures)-12680-v7-0-2-1631188254.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12680/?tab=files&file_id=227169)
 *  [1k Textures-75377-1-1.rar](https://www.nexusmods.com/skyrim/mods/75377/?tab=files&file_id=1000205296)
 *  [3.18 to 3.20 Update-20199-3-20-1657117561.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20199/?tab=files&file_id=296677)
@@ -606,6 +605,7 @@
 *  [Simply Order Summons-66919-0-8-1666979888.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66919/?tab=files&file_id=327127)
 *  [skeletal vampires sse-55035-1-1630692904.rar](https://www.nexusmods.com/skyrimspecialedition/mods/55035/?tab=files&file_id=225889)
 *  [SKSEVR Perk Extender-16330-2-0-1577426728.zip](https://www.nexusmods.com/skyrimspecialedition/mods/16330/?tab=files&file_id=117562)
+*  [sksevr_2_00_12.7z](http://skse.silverlock.org/beta/sksevr_2_00_12.7z)
 *  [Sky Idles FOMOD-45794-4-4-3-1659619543.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45794/?tab=files&file_id=304527)
 *  [Skyrim Objects SMIMed - Glazed and Nordic Pottery-69487-0-2-1654941151.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69487/?tab=files&file_id=290371)
 *  [Skyrim Save System Overhaul-19399-1-02.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19399/?tab=files&file_id=63579)
