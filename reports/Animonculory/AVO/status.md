@@ -1,11 +1,10 @@
 ## Validation Report - AVO (Animonculory/AVO)
 
 
-### Invalid (1)
-*  [textures - Horses.7z](https://www.patreon.com/file?h=65018177&i=10497594)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1177)
+### Valid (1178)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(ESL) Heimskr only preaches on weekends-13865-1-4-1677908626.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13865/?tab=files&file_id=365292)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
@@ -1102,6 +1101,7 @@
 *  [Tamrielic Distribution-71372-1-3-3-1679930819.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71372/?tab=files&file_id=372568)
 *  [Tel Mithryn LODs 256-35437-1-0-1588290397.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35437/?tab=files&file_id=137254)
 *  [TESL - Loading Screens - ESP and Meshes-37929-2-1-0-1669308429.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37929/?tab=files&file_id=334213)
+*  [textures - Horses.7z](https://www.patreon.com/file?h=65018177&i=10497594)
 *  [Thalmor Don't Report To Stormcloaks-73890-1-0-1661267271.7z](https://www.nexusmods.com/skyrimspecialedition/mods/73890/?tab=files&file_id=309774)
 *  [The Eyes of Beauty Ai - Vanilla Replacer 1k-70263-v1-Final-1668262043.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70263/?tab=files&file_id=331120)
 *  [The Gray Cowl Returns - Voiced Narrative-67439-1-2-1653588300.rar](https://www.nexusmods.com/skyrimspecialedition/mods/67439/?tab=files&file_id=286678)
