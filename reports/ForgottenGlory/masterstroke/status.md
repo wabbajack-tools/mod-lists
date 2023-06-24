@@ -498,7 +498,7 @@
 *  [Honed Metal SSE-61015-1-23-1646437217.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61015/?tab=files&file_id=268138)
 *  [Horns Aplenty - FOMOD Package-41022-1-4-1603820761.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41022/?tab=files&file_id=167304)
 *  [HORNY SE 1.1-34322-1-1-1585961211.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34322/?tab=files&file_id=132293)
-*  [HornyCreaturesofSkyrimSE_V2_0A.7z](https://www.loverslab.com/files/file/5465-horny-creatures-of-skyrim-special-edition/?do=download&r=1620671&confirm=1)
+*  [HornyCreaturesofSkyrimSE_V2_1a.7z](https://www.loverslab.com/files/file/5465-horny-creatures-of-skyrim-special-edition/?do=download&r=1642731&confirm=1)
 *  [HQ Alduins Wall - 1.0-2638-1-01.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2638/?tab=files&file_id=3816)
 *  [HQ Solitude - 2K-23937-1-0-1552088561.rar](https://www.nexusmods.com/skyrimspecialedition/mods/23937/?tab=files&file_id=84292)
 *  [Hun - Lovaas - ESP flagged as ESL-16123-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/16123/?tab=files&file_id=66015)
