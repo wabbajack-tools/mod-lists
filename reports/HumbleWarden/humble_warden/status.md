@@ -1,11 +1,10 @@
 ## Validation Report - Just a Humble Warden (HumbleWarden/humble_warden)
 
 
-### Invalid (1)
-*  [tuckedhair.7z](https://www.moddb.com/downloads/start/110403)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (237)
+### Valid (238)
 *  [(0.5) Adria and Her Dog-5944-0-5-1684028054.zip](https://www.nexusmods.com/dragonage/mods/5944/?tab=files&file_id=1000010239)
 *  [(0.6) Riot Scene Tweaks and GW Justice-5944-0-6-1685130699.zip](https://www.nexusmods.com/dragonage/mods/5944/?tab=files&file_id=1000010315)
 *  [A Fallen Templar Quest Fix-3858-1-0.rar](https://www.nexusmods.com/dragonage/mods/3858/?tab=files&file_id=1000000970)
@@ -222,6 +221,7 @@
 *  [TSM GWOF Rebalanced-5439-1-1-1628129900.7z](https://www.nexusmods.com/dragonage/mods/5439/?tab=files&file_id=1000008286)
 *  [tsm_better_tower_guard-5142-1-0-1575524198.7z](https://www.nexusmods.com/dragonage/mods/5142/?tab=files&file_id=1000006596)
 *  [TSM_Werewolf_Fix-5229-1-0-1587224673.7z](https://www.nexusmods.com/dragonage/mods/5229/?tab=files&file_id=1000006919)
+*  [tuckedhair.7z](https://www.moddb.com/downloads/start/110403)
 *  [TW3 hairstyles-4526-.rar](https://www.nexusmods.com/dragonage/mods/4526/?tab=files&file_id=1000003977)
 *  [Tweaked ghoul Tamlen morph-6112-1-0-1684531549.zip](https://www.nexusmods.com/dragonage/mods/6112/?tab=files&file_id=1000010274)
 *  [Two Moons Circle-5995-v1-0-1675929882.rar](https://www.nexusmods.com/dragonage/mods/5995/?tab=files&file_id=1000009776)
