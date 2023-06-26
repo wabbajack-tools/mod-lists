@@ -1,10 +1,11 @@
 ## Validation Report - The Phoenix Flavour (wj-featured/tpf)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [The Phoenix Flavour - Terrain LOD v4.14.2.7z](https://authored-files.wabbajack.org/The Phoenix Flavour - Terrain LOD v4.14.2.7z_022fd5e1-f89a-4be0-a4cd-e8feefcc352f)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (888)
+### Valid (887)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -799,7 +800,6 @@
 *  [The Phoenix Flavour - FaceGen v4.14.2.7z](https://authored-files.wabbajack.org/The Phoenix Flavour - FaceGen v4.14.2.7z_85e20dea-390c-4fd2-a736-e13e70354e6f)
 *  [The Phoenix Flavour - Nemesis Output v4.15.1.7z](https://authored-files.wabbajack.org/The Phoenix Flavour - Nemesis Output v4.15.1.7z_abf3bb56-2443-461f-b24d-56fc0b174c86)
 *  [The Phoenix Flavour - Rare Curios Patch-45830-1-3-1628777074.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45830/?tab=files&file_id=220620)
-*  [The Phoenix Flavour - Terrain LOD v4.14.2.7z](https://authored-files.wabbajack.org/The Phoenix Flavour - Terrain LOD v4.14.2.7z_022fd5e1-f89a-4be0-a4cd-e8feefcc352f)
 *  [The Phoenix Flavour - TexGen Output v4.16.0.zip](https://authored-files.wabbajack.org/The Phoenix Flavour - TexGen Output v4.16.0.zip_de35c6d2-2243-45e4-8110-5426a191df5a)
 *  [Thrones of Skyrim SE-41198-1-0-1602101281.zip](https://www.nexusmods.com/skyrimspecialedition/mods/41198/?tab=files&file_id=164399)
 *  [Thugs Not Assassins - Timing Is Everything-34028-1-1-0-1585564458.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34028/?tab=files&file_id=131423)

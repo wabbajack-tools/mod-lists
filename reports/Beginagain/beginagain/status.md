@@ -1,11 +1,12 @@
 ## Validation Report - Begin Again (Beginagain/beginagain)
 
 
-### Invalid (1)
+### Invalid (2)
 *  [bsp_textures2.zip](https://www.moddb.com/downloads/mirror/252227/123/bfff2813ceb4f7ef00c0de02a55bbeb0/?referer=https%3A%2F%2Fwww.google.com%2F)
+*  [Cyberware 2281 1.3.3 [eddoursul.win].7z](https://eddoursul.win/download/224)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (519)
+### Valid (518)
 *  [00 - Better Books-74333-1-0-1636330917.7z](https://www.nexusmods.com/newvegas/mods/74333/?tab=files&file_id=1000083742)
 *  [03 Remove Faction Armor Paint TTW-79947-1-01-1676614512.zip](https://www.nexusmods.com/newvegas/mods/79947/?tab=files&file_id=1000105106)
 *  [0spacepope0 Combat Armor Retexture TTW-78882-V1-01-1667588873.7z](https://www.nexusmods.com/newvegas/mods/78882/?tab=files&file_id=1000100710)
@@ -92,7 +93,6 @@
 *  [Controller Support NVSE-71894-11-1629503385.7z](https://www.nexusmods.com/newvegas/mods/71894/?tab=files&file_id=1000080019)
 *  [Crash Logger-72317-3-0-0-1621016750.zip](https://www.nexusmods.com/newvegas/mods/72317/?tab=files&file_id=1000076041)
 *  [CyberJAM-74655-1-01-1639346120.7z](https://www.nexusmods.com/newvegas/mods/74655/?tab=files&file_id=1000085074)
-*  [Cyberware 2281 1.3.3 [eddoursul.win].7z](https://eddoursul.win/download/224)
 *  [Cyberware 2281 TTW Patch 1.3.3 [eddoursul.win].7z](https://eddoursul.win/download/816)
 *  Data_DeadMoney - Main.bsa
 *  Data_Fallout - Textures2.bsa
