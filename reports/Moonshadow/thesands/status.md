@@ -1,10 +1,11 @@
 ## Validation Report - The Sands (Moonshadow/thesands)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Spice of Life Vanilla v1-5 Release Candidate.7z](https://www.mediafire.com/file/ln1a2l2th1if8es/Spice_of_Life_Vanilla_v1-5_Release_Candidate.7z/file)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (215)
+### Valid (214)
 *  [1. Consistent Pip-boy Icons-65046-4-4-1659349331.7z](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000096843)
 *  [1k Performance Textures-75437-6-5-1684463221.7z](https://www.nexusmods.com/newvegas/mods/75437/?tab=files&file_id=1000109482)
 *  [2. Butcher Pete Complete - A Melee Animation Overhaul (No Locomotion)-79146-1-0-1669917143.rar](https://www.nexusmods.com/newvegas/mods/79146/?tab=files&file_id=1000101718)
@@ -184,7 +185,6 @@
 *  [Simple DLC Delay-62779-2-1-1550435734.zip](https://www.nexusmods.com/newvegas/mods/62779/?tab=files&file_id=1000052154)
 *  [Simple Populated Freeside-78445-1-3-1681938183.rar](https://www.nexusmods.com/newvegas/mods/78445/?tab=files&file_id=1000107930)
 *  [Smoke For Smokers-74798-smoke-1-1657358876.zip](https://www.nexusmods.com/newvegas/mods/74798/?tab=files&file_id=1000095628)
-*  [Spice of Life Vanilla v1-5 Release Candidate.7z](https://www.mediafire.com/file/ln1a2l2th1if8es/Spice_of_Life_Vanilla_v1-5_Release_Candidate.7z/file)
 *  [Stewie Tweaks Essentials INI-76522-1-04-1678279053.7z](https://www.nexusmods.com/newvegas/mods/76522/?tab=files&file_id=1000106099)
 *  [Stewie Tweaks-66347-8-65-1680382499.zip](https://www.nexusmods.com/newvegas/mods/66347/?tab=files&file_id=1000107141)
 *  [Strip Lights Region Fix - Hoover Dam Jets Restored and Distant-73596-Patch-1644119080.7z](https://www.nexusmods.com/newvegas/mods/73596/?tab=files&file_id=1000087212)
