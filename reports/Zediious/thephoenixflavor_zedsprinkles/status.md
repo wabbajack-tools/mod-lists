@@ -1,11 +1,10 @@
 ## Validation Report - The Phoenix Flavor - Zediious Sprinkles (Zediious/thephoenixflavor_zedsprinkles)
 
 
-### Invalid (1)
-*  [SG+Creatures+Preview+v0.2.2.zip](https://www.skyrim-guild.com/s/SG-Creatures-Preview-v022.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1818)
+### Valid (1819)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -1379,6 +1378,7 @@
 *  [SFO (No Grass)-2154-2-72H-1618716771.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2154/?tab=files&file_id=198778)
 *  [sforzinda Imitations CBBE Conversion-54346-1-0-1629670845.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54346/?tab=files&file_id=223042)
 *  [sforzinda_imitations.7z](https://authored-files.wabbajack.org/sforzinda_imitations.7z_94733a04-d5be-4d18-8bcf-702abd8ca202/)
+*  [SG+Creatures+Preview+v0.2.2.zip](https://www.skyrim-guild.com/s/SG-Creatures-Preview-v022.zip)
 *  [Shadow Diffusion-74632-1-0-1662280437.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74632/?tab=files&file_id=313095)
 *  [Shadow of Skyrim - Trembling Hands Unequips-65136-1-3-3-1673397029.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65136/?tab=files&file_id=348467)
 *  [Shadow of Skyrim-65136-1-3-4-1677950671.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65136/?tab=files&file_id=365445)
