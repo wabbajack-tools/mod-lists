@@ -1,11 +1,10 @@
 ## Validation Report - Happy Fun Times (wj-featured/HFT)
 
 
-### Invalid (1)
-*  [[Christine] Forsworn Retribution.7z](https://www.mediafire.com/file/pki7oc0ybjovifw/%255BChristine%255D_Forsworn_Retribution.7z/file)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1983)
+### Valid (1984)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [-BO- One Body Alpha-82943-1-03-1674079833.rar](https://www.nexusmods.com/skyrimspecialedition/mods/82943/?tab=files&file_id=350859)
 *  [-BO- One Body Soft-82943-1-01-1674079878.rar](https://www.nexusmods.com/skyrimspecialedition/mods/82943/?tab=files&file_id=350860)
@@ -32,6 +31,7 @@
 *  [[Christine] Exnem Demonic.7z](https://www.mediafire.com/file/7x52vaws8aizs7x/%255BChristine%255D_Exnem_Demonic.7z/file)
 *  [[Christine] Exnem Witch.7z](https://www.mediafire.com/file/jhjb2pajwwi0out/%255BChristine%255D_Exnem_Witch.7z/file)
 *  [[Christine] Fire Princess.7z](https://www.mediafire.com/file/asw9flhctxa8rq2/[Christine]+Fire+Princess.7z/file)
+*  [[Christine] Forsworn Retribution.7z](https://www.mediafire.com/file/pki7oc0ybjovifw/%255BChristine%255D_Forsworn_Retribution.7z/file)
 *  [[Christine] Grecian Armor 2_0.7z](https://www.mediafire.com/file/0c8zize0c7gipa6/%255BChristine%255D_Grecian_Armor_2_0.7z/file)
 *  [[Christine] Nocturnals Embrace CBBE (Physics - CBBE SMP - 3BA) fomod.7z](https://www.mediafire.com/file/497egeshx0jjtjr/%255BChristine%255D_Nocturnal%2527s_Embrace_CBBE_%2528Physics_-_CBBE_SMP_-_3BA%2529_fomod.7z)
 *  [[Christine] Nomadic Huntress.7z](https://www.mediafire.com/file/1adglyhf23wc0xe/[Christine]+Nomadic+Huntress.7z/file)
