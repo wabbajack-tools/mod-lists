@@ -1,10 +1,11 @@
 ## Validation Report - Ragley's Skyrim Together Reborn (Ragleys-STR/RSTR)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [ADXP+Beta+1.4.2.zip](https://www.skyrim-guild.com/s/ADXP-Beta-142.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (373)
+### Valid (372)
 *  [- Skyrim 2020 8.4.2 - 3 of 3 - Other - 4K to 2K-2347-8-4-2-1624479907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=210840)
 *  [1. Majestic Mountains Main File-11052-3-2-1604048751.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=167707)
 *  [2k - The Eyes of Beauty - Ai Remastered - Standalone Textures-70263-1-1-1657832250.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70263/?tab=files&file_id=298977)
@@ -12,7 +13,6 @@
 *  [3.18 to 3.20 Update-20199-3-20-1657117561.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20199/?tab=files&file_id=296677)
 *  [A Clear Map of Skyrim and Other Worlds FOMOD - PART 1-56367-3-2-1654360939.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56367/?tab=files&file_id=288759)
 *  [ACMOS Road Generator Tool - PART 2-56367-3-2-1654360943.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56367/?tab=files&file_id=288760)
-*  [ADXP+Beta+1.4.2.zip](https://www.skyrim-guild.com/s/ADXP-Beta-142.zip)
 *  [Aequinoctium Addon for Obsidian-16117-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16117/?tab=files&file_id=50272)
 *  [Alchemy Ingredients ENB Light-65509-0-3-1-1649146884.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65509/?tab=files&file_id=274977)
 *  [All in one (Anniversary Edition)-32444-5-1641492622.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32444/?tab=files&file_id=254423)
