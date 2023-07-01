@@ -1,10 +1,11 @@
 ## Validation Report - Do Not Go Gentle (Animonculory/dngg)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [enbseries_skyrimse_v0494(caco).zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0494(caco).zip_1b9fa020-6a7f-4add-82c4-bec1a64e0d90)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1683)
+### Valid (1682)
 *  [_Fuse00_ArmorMelonyCBBE.rar](https://www.patreon.com/file?h=67711235&i=10980531)
 *  [_Fuse00_ArmorRagnar_Vanilla.rar](https://www.patreon.com/file?h=70803544&i=11554150)
 *  [_Fuse00_ArmorRogue.rar](https://www.patreon.com/file?h=67007517&i=10861552)
@@ -629,7 +630,6 @@
 *  [ENB Light 0.98 Alpha 2-22574-0-98Alpha2-1577144667.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=117211)
 *  [ENB Lights For Aetherium Shards Patch-44553-1-1-1630558790.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44553/?tab=files&file_id=225518)
 *  [ENB Organizer-67077-v2-1-1.zip](https://www.nexusmods.com/skyrim/mods/67077/?tab=files&file_id=1000214338)
-*  [enbseries_skyrimse_v0494(caco).zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0494(caco).zip_1b9fa020-6a7f-4add-82c4-bec1a64e0d90)
 *  [Enchantable Special Item Fix-65154-1-0-1-1647683527.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65154/?tab=files&file_id=271112)
 *  [Enemy Friendly Fire-50483-1-2-0-1665427610.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50483/?tab=files&file_id=323125)
 *  [Enhanced Blood Textures-2357-4-0-1639547261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=249235)
