@@ -1,11 +1,10 @@
 ## Validation Report - Ragley's Skyrim Together Reborn (Ragleys-STR/RSTR)
 
 
-### Invalid (1)
-*  [Vanguard+2_2.rar](https://www.skyrim-guild.com/s/Vanguard-2_2.rar)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (372)
+### Valid (373)
 *  [- Skyrim 2020 8.4.2 - 3 of 3 - Other - 4K to 2K-2347-8-4-2-1624479907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=210840)
 *  [1. Majestic Mountains Main File-11052-3-2-1604048751.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=167707)
 *  [2k - The Eyes of Beauty - Ai Remastered - Standalone Textures-70263-1-1-1657832250.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70263/?tab=files&file_id=298977)
@@ -359,6 +358,7 @@
 *  [Vanargand Animations - Sneak Archery-56788-1-4-1634237551.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56788/?tab=files&file_id=234830)
 *  [Vanargand Animations - Sneak Crossbows-67282-1-0b-1656114642.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67282/?tab=files&file_id=293842)
 *  [Vanargand Animations - Sneak Idle Walk and Run-54351-1-1-1630433273.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54351/?tab=files&file_id=225228)
+*  [Vanguard+2_2.rar](https://www.skyrim-guild.com/s/Vanguard-2_2.rar)
 *  [Vokrii 3.8.2-26176-3-8-2-1642771755.zip](https://www.nexusmods.com/skyrimspecialedition/mods/26176/?tab=files&file_id=258362)
 *  [Volumetric Mists-29273-1-4-2-1585565974.zip](https://www.nexusmods.com/skyrimspecialedition/mods/29273/?tab=files&file_id=131426)
 *  [Wade In Water Redone-71418-1-1-1-1657912081.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71418/?tab=files&file_id=299221)
