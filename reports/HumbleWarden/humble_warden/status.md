@@ -1,11 +1,10 @@
 ## Validation Report - Just a Humble Warden (HumbleWarden/humble_warden)
 
 
-### Invalid (1)
-*  [neutral_teeth.zip](https://www.moddb.com/downloads/start/110404)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (237)
+### Valid (238)
 *  [(0.5) Adria and Her Dog-5944-0-5-1684028054.zip](https://www.nexusmods.com/dragonage/mods/5944/?tab=files&file_id=1000010239)
 *  [(0.6) Riot Scene Tweaks and GW Justice-5944-0-6-1685130699.zip](https://www.nexusmods.com/dragonage/mods/5944/?tab=files&file_id=1000010315)
 *  [A Fallen Templar Quest Fix-3858-1-0.rar](https://www.nexusmods.com/dragonage/mods/3858/?tab=files&file_id=1000000970)
@@ -164,6 +163,7 @@
 *  [More Hairstyles 0_51-392.zip](https://www.nexusmods.com/dragonage/mods/392/?tab=files&file_id=2820)
 *  [MRP_V110_Manual-1120-1-1-0.rar](https://www.nexusmods.com/dragonage/mods/1120/?tab=files&file_id=10379)
 *  [natural light for cc-4869-1-0.zip](https://www.nexusmods.com/dragonage/mods/4869/?tab=files&file_id=1000005561)
+*  [neutral_teeth.zip](https://www.moddb.com/downloads/start/110404)
 *  [New Game Intro and Logos 1080P-5497-1-0-1621867416.rar](https://www.nexusmods.com/dragonage/mods/5497/?tab=files&file_id=1000008150)
 *  [Nexus Mod Version.rar](https://www.mediafire.com/file/dw4o21zasz10nik/Nexus+Mod+Version.rar/file#)
 *  [No Helmet Hack 1_6 Origins-202.rar](https://www.nexusmods.com/dragonage/mods/202/?tab=files&file_id=6043)
