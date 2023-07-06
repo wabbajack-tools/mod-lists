@@ -1,10 +1,11 @@
 ## Validation Report - Happy Fun Times (wj-featured/HFT)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Starlight Queen [SE] - CBBE - BHUNP.7z](https://www.mediafire.com/file/63vdrp55polrxb4/Starlight+Queen+[SE]+-+CBBE+-+BHUNP.7z/file)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1984)
+### Valid (1983)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [-BO- One Body Alpha-82943-1-03-1674079833.rar](https://www.nexusmods.com/skyrimspecialedition/mods/82943/?tab=files&file_id=350859)
 *  [-BO- One Body Soft-82943-1-01-1674079878.rar](https://www.nexusmods.com/skyrimspecialedition/mods/82943/?tab=files&file_id=350860)
@@ -1700,7 +1701,6 @@
 *  [Stalhrim Refrozen - Core Package 2k-41348-1-6-0-1625783888.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41348/?tab=files&file_id=213438)
 *  [Stalhrim Refrozen-41348-1-6-0-1622505330.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41348/?tab=files&file_id=206676)
 *  [Stargazer - hdt SMP-71470-1-1-1658416022.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71470/?tab=files&file_id=300849)
-*  [Starlight Queen [SE] - CBBE - BHUNP.7z](https://www.mediafire.com/file/63vdrp55polrxb4/Starlight+Queen+[SE]+-+CBBE+-+BHUNP.7z/file)
 *  [Statue of Shalidor - Fire Frost Version-52483-1-0-1626464131.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52483/?tab=files&file_id=214948)
 *  [Statue of Sithis 4k-73735-1-0-1661047806.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73735/?tab=files&file_id=309062)
 *  [Stay At System Page-19832-1-5-0-1583022131.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19832/?tab=files&file_id=126538)

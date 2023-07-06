@@ -1,11 +1,10 @@
 ## Validation Report - Begin Again (Beginagain/beginagain)
 
 
-### Invalid (1)
-*  [bsp_textures2.zip](https://www.moddb.com/downloads/mirror/252227/123/bfff2813ceb4f7ef00c0de02a55bbeb0/?referer=https%3A%2F%2Fwww.google.com%2F)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (519)
+### Valid (520)
 *  [00 - Better Books-74333-1-0-1636330917.7z](https://www.nexusmods.com/newvegas/mods/74333/?tab=files&file_id=1000083742)
 *  [03 Remove Faction Armor Paint TTW-79947-1-01-1676614512.zip](https://www.nexusmods.com/newvegas/mods/79947/?tab=files&file_id=1000105106)
 *  [0spacepope0 Combat Armor Retexture TTW-78882-V1-01-1667588873.7z](https://www.nexusmods.com/newvegas/mods/78882/?tab=files&file_id=1000100710)
@@ -70,6 +69,7 @@
 *  [BLEEDLESS-75660-1-3-1677679531.7z](https://www.nexusmods.com/newvegas/mods/75660/?tab=files&file_id=1000105720)
 *  [Blended Locomotion-79295-1-0-1670952469.rar](https://www.nexusmods.com/newvegas/mods/79295/?tab=files&file_id=1000102324)
 *  [Bonus Patch-72320-1-3a-1623348069.7z](https://www.nexusmods.com/newvegas/mods/72320/?tab=files&file_id=1000077351)
+*  [bsp_textures2.zip](https://www.moddb.com/downloads/mirror/252227/123/bfff2813ceb4f7ef00c0de02a55bbeb0/?referer=https%3A%2F%2Fwww.google.com%2F)
 *  [Camp McCarran monorail animation stand alone version-70213-2-00-1609887871.rar](https://www.nexusmods.com/newvegas/mods/70213/?tab=files&file_id=1000069244)
 *  [Casino Crowds-71037-1-2-1614893989.rar](https://www.nexusmods.com/newvegas/mods/71037/?tab=files&file_id=1000072810)
 *  [Casino Exchange All 1-5a-35701-1-5.7z](https://www.nexusmods.com/newvegas/mods/35701/?tab=files&file_id=108522)
