@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2714)
+### Valid (2703)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
 *  [(4) Community Overlays 3 - Main - CBBE and Male-35339-1-0-1588129970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136903)
@@ -576,8 +576,6 @@
 *  [Crafting Recipe Distributor-52276-2-1-0-1665595840.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52276/?tab=files&file_id=323522)
 *  [Creation Club Arrows - ENB Light Addon-68571-1-0-1653420032.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68571/?tab=files&file_id=286193)
 *  [Creation Collision Fix-68402-1-0-3-1672826382.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68402/?tab=files&file_id=346590)
-*  CreationKit.exe
-*  CreationKit.ini
 *  [Critter Spawn Congestion Fix 1.3-67276-1-3-1673705873.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67276/?tab=files&file_id=349417)
 *  [crows (se-ae) 1.1-50447-1-1-1671632687.rar](https://www.nexusmods.com/skyrimspecialedition/mods/50447/?tab=files&file_id=342507)
 *  [crystal golem 2.1 sse-24591-2-1-1640105038.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24591/?tab=files&file_id=250791)
@@ -1527,15 +1525,6 @@
 *  [Less Ugly Tundragrass-26740-1-0-1560901980.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26740/?tab=files&file_id=96525)
 *  [Leviathan Animations II - Greatsword Non Combat Locomotion-84201-1-0-1675528954.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84201/?tab=files&file_id=356303)
 *  [Leviathan Axe - Dwemer Artifacts SE-40364-v1-0b-1600309839.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40364/?tab=files&file_id=161194)
-*  lex_accent.tlx
-*  lex_ssceam.tlx
-*  lex_ssceam2.clx
-*  lex_sscebr.tlx
-*  lex_sscebr2.clx
-*  lex_ssceca2.clx
-*  lex_tech.tlx
-*  lex_User_correct.tlx
-*  lex_User_userdic.tlx
 *  [Lightened Skyrim-50755-1-06-1657375075.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50755/?tab=files&file_id=297452)
 *  [Lighting The 7000 Steps (ESL)-78022-1-2-1667341491.zip](https://www.nexusmods.com/skyrimspecialedition/mods/78022/?tab=files&file_id=328306)
 *  [lilebonymace patches-36042-2-30-1678645020.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36042/?tab=files&file_id=367958)
