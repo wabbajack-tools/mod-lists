@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (793)
+### Valid (794)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -322,6 +322,7 @@
 *  Data_Skyrim.esm
 *  Data_Update.esm
 *  Data_Video_BGS_Logo.bik
+*  [Dawnguard - Tweaks and Enhancements SE-53364-0-2-1-1675876869.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53364/?tab=files&file_id=357768)
 *  [Dawnguard Armors and Weapons Retexture SE-Half Res-92161-1-0-1685046171.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92161/?tab=files&file_id=391871)
 *  [Dear Diary Dark Mode (texts - white color)-60837-1-1-1-1667594519.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60837/?tab=files&file_id=328989)
 *  [Delayed Missing in Action-67893-1-0-1652306025.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67893/?tab=files&file_id=283002)
