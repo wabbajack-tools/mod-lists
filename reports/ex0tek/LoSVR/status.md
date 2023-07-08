@@ -1,10 +1,11 @@
 ## Validation Report - Legend of SkyrimVR (ex0tek/LoSVR)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [LoSVR 3.0 LOD Output.zip](https://authored-files.wabbajack.org/LoSVR 3.0 LOD Output.zip_4028e5a0-3f00-447d-8c18-1be6d5b246c7)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (751)
+### Valid (750)
 *  [1) Skyrim Immersive Creatures v7.0.2 (includes 1K Textures)-12680-v7-0-2-1631188254.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12680/?tab=files&file_id=227169)
 *  [1k Textures-75377-1-1.rar](https://www.nexusmods.com/skyrim/mods/75377/?tab=files&file_id=1000205296)
 *  [3.18 to 3.20 Update-20199-3-20-1657117561.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20199/?tab=files&file_id=296677)
@@ -445,7 +446,6 @@
 *  [Lighting The 7000 Steps (ESL)-78022-1-2-1667341491.zip](https://www.nexusmods.com/skyrimspecialedition/mods/78022/?tab=files&file_id=328306)
 *  [Lively Children Animations - Main file (no looped idles) - DAR-67557-1-0-0-1657374337.zip](https://www.nexusmods.com/skyrimspecialedition/mods/67557/?tab=files&file_id=297441)
 *  [Lore Weapon Expansion-9660-1-4c.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9660/?tab=files&file_id=25118)
-*  [LoSVR 3.0 LOD Output.zip](https://authored-files.wabbajack.org/LoSVR 3.0 LOD Output.zip_4028e5a0-3f00-447d-8c18-1be6d5b246c7)
 *  [Lucidity Sound FX v2u-1841-v2u-1548946589.rar](https://www.nexusmods.com/skyrimspecialedition/mods/1841/?tab=files&file_id=80244)
 *  [Lucien-20035-1-6-3-1636656096.rar](https://www.nexusmods.com/skyrimspecialedition/mods/20035/?tab=files&file_id=240595)
 *  [MageArmorScriptFix-58862-1-0-1637563565.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58862/?tab=files&file_id=243411)
