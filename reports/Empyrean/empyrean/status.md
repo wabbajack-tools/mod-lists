@@ -145,6 +145,7 @@
 *  [Cathedral - 3D Tundra Cotton-68068-2-0-1653868046.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68068/?tab=files&file_id=287564)
 *  [Cathedral - Rocky Shores-33474-1-1-1583822605.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33474/?tab=files&file_id=127983)
 *  [Cathedral - Weathers-24791-2-23b-1603246542.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24791/?tab=files&file_id=166374)
+*  [Cathedral 3d Mountain Flowers - CACO Patch-58744-1-0-0-1637375454.rar](https://www.nexusmods.com/skyrimspecialedition/mods/58744/?tab=files&file_id=242782)
 *  [Cathedral Assets Optimizer 64-23316-5-3-14-1665584229.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23316/?tab=files&file_id=323488)
 *  [Cathedral Weathers - Diverse Seasons-28612-1-5-1583036022.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28612/?tab=files&file_id=126567)
 *  [Cathedral Weathers MCM-24940-1-3-1578270480.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24940/?tab=files&file_id=118786)
@@ -183,7 +184,6 @@
 *  [Cuyi's Campfire Backpacks-49532-1-1-1620287034.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49532/?tab=files&file_id=201952)
 *  [Daedric Shrines - LOTD Add-on-62833-14-0-1671840621.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62833/?tab=files&file_id=343133)
 *  [Daedric Shrines 4 k-78772-1-01-1668534736.zip](https://www.nexusmods.com/skyrimspecialedition/mods/78772/?tab=files&file_id=332111)
-*  Data_ccmtysse001-knightsofthenine.bsa
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
@@ -632,7 +632,7 @@
 *  [Odin - Ordinator Compatibility Patch-1137-9-30-0-1617483870.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1137/?tab=files&file_id=195799)
 *  [Odin - WFE - Compatibility Patch-49171-0-1-1619569822.zip](https://www.nexusmods.com/skyrimspecialedition/mods/49171/?tab=files&file_id=200568)
 *  [Odin 2.0.1-46000-2-0-1-1677103120.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46000/?tab=files&file_id=362395)
-*  [One Click Power Attack NG-60878-NG-v1-11-1679176229.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60878/?tab=files&file_id=369760)
+*  [One Click Power Attack NG-60878-NG-v1-1-1679152817.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60878/?tab=files&file_id=369648)
 *  [Open Animation Replacer-92109-1-1-0-1686278126.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92109/?tab=files&file_id=396173)
 *  [Optional-38059-1-0-1636167036.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38059/?tab=files&file_id=239299)
 *  [Ordinator 9.31.0-1137-9-31-0-1635693140.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1137/?tab=files&file_id=238199)
@@ -667,7 +667,6 @@
 *  [practical_pirate_cbbe-45244-1-0-1612381735.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45244/?tab=files&file_id=183811)
 *  [practical_pirate_physics-45244-1-0-1630633439.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45244/?tab=files&file_id=225710)
 *  [practical_pirate-45244-1-2-1631920656.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45244/?tab=files&file_id=229075)
-*  [precision - locational damage-78744-1-1-2-1668562272.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78744/?tab=files&file_id=332196)
 *  [Precision-72347-2-0-4-1674360214.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72347/?tab=files&file_id=351862)
 *  [Prince and the Pauper Refine (2.2.0)-70037-2-2-0-1685965747.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70037/?tab=files&file_id=395277)
 *  [Prince and the Pauper SE - RS Children Patch-8354-1-0-1574351214.rar](https://www.nexusmods.com/skyrimspecialedition/mods/8354/?tab=files&file_id=113975)
@@ -886,6 +885,7 @@
 *  [Whiterun Watchtower Doesn't Start Broken (Duh)-49305-1-02-1655982549.zip](https://www.nexusmods.com/skyrimspecialedition/mods/49305/?tab=files&file_id=293389)
 *  [Whose Quest Is It Anyway-77360-1-5-1666211350.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77360/?tab=files&file_id=325255)
 *  [WIDeadBodyCleanupScript Crash Fix-62413-0-3-1643044583.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62413/?tab=files&file_id=259270)
+*  [Wild Concoctions-50575-1-0-5-1681350164.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50575/?tab=files&file_id=377778)
 *  [Wildcat v700-1368-7-00SSE.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1368/?tab=files&file_id=34066)
 *  [WinkingSkeeverLoft-v1.07-41895-1-07-1608582379.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41895/?tab=files&file_id=175580)
 *  [Wintersun - Follow on your knees-33754-1-0-1584631869.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33754/?tab=files&file_id=129388)
