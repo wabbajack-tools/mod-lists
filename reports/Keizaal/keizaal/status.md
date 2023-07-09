@@ -1,11 +1,10 @@
 ## Validation Report - Keizaal (Keizaal/keizaal)
 
 
-### Invalid (1)
-*  [Jelidity's Civil War Commanders.7z](https://drive.google.com/uc?id=1E7XeaMSFaHt9yirSqGI4xSobZB-vUTMp&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (594)
+### Valid (595)
 *  [(beta) Wade In Water Animations-34006-1-42-1649385492.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34006/?tab=files&file_id=275559)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -285,6 +284,7 @@
 *  installscript.vdf
 *  [Inventory Interface Information Injector (SE)-85702-1-0-2-1677719496.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85702/?tab=files&file_id=364683)
 *  [JContainers SE-16495-4-2-3-1665168582.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16495/?tab=files&file_id=322290)
+*  [Jelidity's Civil War Commanders.7z](https://drive.google.com/uc?id=1E7XeaMSFaHt9yirSqGI4xSobZB-vUTMp&export=download)
 *  [Jelidity's Mixtape - Additional Music Patch.7z](https://drive.google.com/uc?id=1QaRvlCy0o95Rt3KBCpmowIX7R99txk4K&export=download)
 *  [Jelidity's Mixtape V3.7z](https://drive.google.com/uc?id=1YLlVUvCswkxqGjOcclNFPZBi7fmb3_gD&export=download)
 *  [Jelidity's Oblivion Style Dwarven Mail Shield for Crimson.Trail-68997-1-0-0-1654175331.7z](https://drive.google.com/uc?id=1ZRRNpk8weDIsPeUpEXXiAuw6bSrCdd6C&export=download)
