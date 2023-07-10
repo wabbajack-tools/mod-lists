@@ -13,6 +13,7 @@
     -   [Animonculory Dev Tools](#animonculory-dev-tools)
     -   [Animonculory Visual Overhaul](#animonculory-visual-overhaul)
     -   [Arkay's Commandment](#arkays-commandment)
+    -   [Ascensio](#ascensio)
     -   [Do Not Go Gentle](#do-not-go-gentle)
     -   [Elysium Remastered](#elysium-remastered)
     -   [Fahdon](#fahdon)
@@ -127,6 +128,22 @@ My personal mod list that I play with, utilizing Requiem and 3Tweaks, focused on
 -   [Requiem](https://www.nexusmods.com/skyrim/mods/19281)
 -   [3Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44044)
 -   [Skyrim Souls](https://www.nexusmods.com/skyrimspecialedition/mods/27859)
+
+---
+
+### [Ascensio](https://github.com/Oghma-Infinium/Ascensio)
+
+A comprehensive visual overhaul for Skyrim Anniversary Edition. Ascensio is a labor of love from three Skyrim modders who care a little bit *too* much about visuals. The list provides an expansive graphical package that offers...
+
+ - Two ENB profiles to choose from (Zangdar's Rudy ENB for Cathedral Weathers and NAT.ENB III).
+ - Several high-quality, handpicked assets for every aspect of the game.
+ - Custom recolors, mesh work, and other unique edits to ensure visual consistency across the board.
+ - An optional performance mode for those on weaker systems.
+
+
+**_Mods to get familiar with:_**
+
+-   [Full Modlist](https://loadorderlibrary.com/lists/ascensio-1)
 
 ---
 
