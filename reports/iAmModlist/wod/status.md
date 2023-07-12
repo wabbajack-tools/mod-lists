@@ -1,4 +1,4 @@
-## Validation Report - Wasteland of Depravity (Tahrovin/wod)
+## Validation Report - Wasteland of Depravity (iAmModlist/wod)
 
 
 ### Invalid (0)

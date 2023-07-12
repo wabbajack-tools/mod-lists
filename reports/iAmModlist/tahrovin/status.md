@@ -1,4 +1,4 @@
-## Validation Report - Tahrovin (Tahrovin/tahrovin)
+## Validation Report - Tahrovin (iAmModlist/tahrovin)
 
 
 ### Invalid (0)
