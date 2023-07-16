@@ -1,12 +1,10 @@
 ## Validation Report - Capital Punishment (TTWTrueVegas/capitalpunishment)
 
 
-### Invalid (2)
-*  [Stash Organizer 2.1 [eddoursul.win].7z](https://eddoursul.win/download/271)
-*  [TTW_3.3.2_Hotfix.zip](https://cdn.discordapp.com/attachments/267355049666019329/1003041304252534814/TTW_3.3.2_Hotfix.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (965)
+### Valid (967)
 *  [00 - Alcohol Bottles - Overhaul-73919-1-0-2-1644020370.7z](https://www.nexusmods.com/newvegas/mods/73919/?tab=files&file_id=1000087139)
 *  [00 - Better Books-74333-1-0-1636330917.7z](https://www.nexusmods.com/newvegas/mods/74333/?tab=files&file_id=1000083742)
 *  [01 - NUKA WORLD IMPORTS Version-72985-1-1-2-1671804961.7z](https://www.nexusmods.com/newvegas/mods/72985/?tab=files&file_id=1000102719)
@@ -878,6 +876,7 @@
 *  [SSB WAP Assault Carbine Patch-79556-1-1676269081.rar](https://www.nexusmods.com/newvegas/mods/79556/?tab=files&file_id=1000104946)
 *  [SSB-79556-1-03-1678243431.rar](https://www.nexusmods.com/newvegas/mods/79556/?tab=files&file_id=1000106084)
 *  [SSS-75846-1fix-1648685278.rar](https://www.nexusmods.com/newvegas/mods/75846/?tab=files&file_id=1000090227)
+*  [Stash Organizer 2.1 [eddoursul.win].7z](https://eddoursul.win/download/271)
 *  steam_api.dll
 *  [Stewie Tweaks-66347-8-65-1680382499.zip](https://www.nexusmods.com/newvegas/mods/66347/?tab=files&file_id=1000107141)
 *  [Strip Performance Fix-78617-1-0-1665515579.7z](https://www.nexusmods.com/newvegas/mods/78617/?tab=files&file_id=1000099760)
@@ -918,6 +917,7 @@
 *  [TTW Reputations-68604-1-4-1657361262.7z](https://www.nexusmods.com/newvegas/mods/68604/?tab=files&file_id=1000095629)
 *  [TTW Transportalponder Extended-76128-3-0-2-1670472703.zip](https://www.nexusmods.com/newvegas/mods/76128/?tab=files&file_id=1000102107)
 *  [TTW Wasteland Sounds-67912-0-8-1574489852.zip](https://www.nexusmods.com/newvegas/mods/67912/?tab=files&file_id=1000057688)
+*  [TTW_3.3.2_Hotfix.zip](https://cdn.discordapp.com/attachments/267355049666019329/1003041304252534814/TTW_3.3.2_Hotfix.zip)
 *  [TTW's Hunting Rifle and .32 Rifle Textures-69837-1-0-1599238845.rar](https://www.nexusmods.com/newvegas/mods/69837/?tab=files&file_id=1000065332)
 *  [TTWQuickStart-65937-1-4-1649387995.7z](https://www.nexusmods.com/newvegas/mods/65937/?tab=files&file_id=1000090652)
 *  [TTWSawyerBatty-75598-1-14-1674069028.7z](https://www.nexusmods.com/newvegas/mods/75598/?tab=files&file_id=1000103751)
