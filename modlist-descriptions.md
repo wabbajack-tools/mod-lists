@@ -13,6 +13,7 @@
     -   [Animonculory Dev Tools](#animonculory-dev-tools)
     -   [Animonculory Visual Overhaul](#animonculory-visual-overhaul)
     -   [Arkay's Commandment](#arkays-commandment)
+    -   [Ascensio](#ascensio)
     -   [Do Not Go Gentle](#do-not-go-gentle)
     -   [Elysium Remastered](#elysium-remastered)
     -   [Fahdon](#fahdon)
@@ -26,6 +27,7 @@
     -   [Ruvaak](#ruvaak)
     -   [Skyrim Modding Essentials](#skyrim-modding-essentials)
     -   [Tales From the Northern Lands](#tales-from-the-northern-lands)
+    -   [The Northern Experience](#the-northern-experience)
     -   [The Phoenix Flavour](#the-phoenix-flavour)
     -   [The Phoenix Flavour - Dragon's Edition](#the-phoenix-flavour---dragons-edition)
         -   [Additional Features](#additional-features)
@@ -126,6 +128,22 @@ My personal mod list that I play with, utilizing Requiem and 3Tweaks, focused on
 -   [Requiem](https://www.nexusmods.com/skyrim/mods/19281)
 -   [3Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44044)
 -   [Skyrim Souls](https://www.nexusmods.com/skyrimspecialedition/mods/27859)
+
+---
+
+### [Ascensio](https://github.com/Oghma-Infinium/Ascensio)
+
+A comprehensive visual overhaul for Skyrim Anniversary Edition. Ascensio is a labor of love from three Skyrim modders who care a little bit *too* much about visuals. The list provides an expansive graphical package that offers...
+
+ - Two ENB profiles to choose from (Zangdar's Rudy ENB for Cathedral Weathers and NAT.ENB III).
+ - Several high-quality, handpicked assets for every aspect of the game.
+ - Custom recolors, mesh work, and other unique edits to ensure visual consistency across the board.
+ - An optional performance mode for those on weaker systems.
+
+
+**_Mods to get familiar with:_**
+
+-   [Full Modlist](https://loadorderlibrary.com/lists/ascensio-1)
 
 ---
 
@@ -335,6 +353,16 @@ _Please note that Luca (the modlist author) does not support changes to the list
 [All the SimonRim Mods (Except the Race, Religion and Stadingstone mods)](https://www.nexusmods.com/skyrimspecialedition/mods/43763)
 
 [Full List on LoadorderLibrary](https://loadorderlibrary.com/lists/tales-from-the-northern-lands)
+
+---
+
+### [The Northern Experience](https://github.com/mnikjom/The-Northern-Experience)
+
+Official wabbajack version of The Northern Experience - Skyrim Modding Guide. This is a list that focuses on improving visuals, adding new content that still fits the original game design, and enhancing gameplay mechanics.
+
+**_Mods to get familiar with:_**
+
+[Full List](https://www.nexusmods.com/skyrimspecialedition/mods/23894)
 
 ---
 
