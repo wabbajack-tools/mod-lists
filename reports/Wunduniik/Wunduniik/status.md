@@ -1,11 +1,10 @@
 ## Validation Report - Wunduniik (Wunduniik/Wunduniik)
 
 
-### Invalid (1)
-*  [Vanguard+2_2.rar](https://www.skyrim-guild.com/s/Vanguard-2_2.rar)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2709)
+### Valid (2710)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
 *  [(4) Community Overlays 3 - Main - CBBE and Male-35339-1-0-1588129970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136903)
@@ -2572,6 +2571,7 @@
 *  [Vanargand Animations - Sneak Idle Walk and Run-54351-1-1-1630433273.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54351/?tab=files&file_id=225228)
 *  [Vanargand Animations - Sneak Strike Attacks-55420-1-1-1631370169.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55420/?tab=files&file_id=227635)
 *  [Vanargand Animations - Sneak Thrust Attacks 1.1b-55031-1-1b-1630961280.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55031/?tab=files&file_id=226584)
+*  [Vanguard+2_2.rar](https://www.skyrim-guild.com/s/Vanguard-2_2.rar)
 *  [Vanilla hair - Salt and Wind-45147-1-0-1612188024.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45147/?tab=files&file_id=183349)
 *  [Vanilla hair remake SMP NPCs-63979-0-7-1658536112.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63979/?tab=files&file_id=301293)
 *  [Vanilla hair remake SMP-63979-0-7-1658534797.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63979/?tab=files&file_id=301289)

@@ -1,11 +1,10 @@
 ## Validation Report - Do Not Go Gentle (Animonculory/dngg)
 
 
-### Invalid (1)
-*  [xLODGen.97.7z](https://authored-files.wabbajack.org/xLODGen.97.7z_8dc354dc-40d5-40e0-bd91-c0a02e029730)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1682)
+### Valid (1683)
 *  [_Fuse00_ArmorMelonyCBBE.rar](https://www.patreon.com/file?h=67711235&i=10980531)
 *  [_Fuse00_ArmorRagnar_Vanilla.rar](https://www.patreon.com/file?h=70803544&i=11554150)
 *  [_Fuse00_ArmorRogue.rar](https://www.patreon.com/file?h=67007517&i=10861552)
@@ -1673,6 +1672,7 @@
 *  [Xelzaz Follower Core 1.7.2-62893-1-7-2-1669021516.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62893/?tab=files&file_id=333457)
 *  [Xelzaz Follower Core 1.9.0-62893-1-9-0-1684095277.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62893/?tab=files&file_id=388177)
 *  [Xenius Character Expansion-37525-v1-0-1630757573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37525/?tab=files&file_id=226064)
+*  [xLODGen.97.7z](https://authored-files.wabbajack.org/xLODGen.97.7z_8dc354dc-40d5-40e0-bd91-c0a02e029730)
 *  [XP32 Maximum Skeleton Special Extended - Fixed Scripts-44252-1-0-1610402131.rar](https://www.nexusmods.com/skyrimspecialedition/mods/44252/?tab=files&file_id=179016)
 *  [XP32 Maximum Skeleton Special Extended-1988-4-81-1660739371.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=308218)
 *  [XPMSSE Left Hand Skeleton Rotation Fix-50049-4-80-1621290459.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=204058)
