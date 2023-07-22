@@ -1,12 +1,10 @@
 ## Validation Report - Fahdon - A Skyrim Together Experience (Animonculory/fahdon)
 
 
-### Invalid (2)
-*  [ADXP+Beta+1.3.2.zip](https://www.skyrim-guild.com/s/ADXP-Beta-132.zip)
-*  [zz_lore friendly Hairs v1_SE.7z](https://www.patreon.com/file?h=64683742&i=10436348)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1569)
+### Valid (1571)
 *  [- Meshes - important-58370-1-0-1637050362.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=241886)
 *  [(Khajiit) Lioness Look SSE CBBE-48041-1-1-1620268829.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48041/?tab=files&file_id=201933)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
@@ -78,6 +76,7 @@
 *  [Adamant - Smithing Addon-30191-5-4-6-1654728794.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=289816)
 *  [Adamantium Addon-71740-1-0-0-1658303257.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71740/?tab=files&file_id=300514)
 *  [Additional and fixed meshes-43158-3-9-1643126764.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=259493)
+*  [ADXP+Beta+1.3.2.zip](https://www.skyrim-guild.com/s/ADXP-Beta-132.zip)
 *  [AE - CC-70095-1-0-1655903253.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70095/?tab=files&file_id=293097)
 *  [Aetherial Crown SE-4309-Final.rar](https://www.nexusmods.com/skyrimspecialedition/mods/4309/?tab=files&file_id=8087)
 *  [Akaviri Hats Pack - 2K-83975-1-0-1675912403.zip](https://www.nexusmods.com/skyrimspecialedition/mods/83975/?tab=files&file_id=357909)
@@ -1576,3 +1575,4 @@
 *  [YesImSure-24898-1-7-0-1666563689.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24898/?tab=files&file_id=326183)
 *  [You Are Not Special (YANS)-65378-6-0-1656749454.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65378/?tab=files&file_id=295564)
 *  [z Vanilla Military Camps-9005-1-1558843128.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9005/?tab=files&file_id=93654)
+*  [zz_lore friendly Hairs v1_SE.7z](https://www.patreon.com/file?h=64683742&i=10436348)

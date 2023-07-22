@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (137)
+### Valid (132)
 *  [1. Consistent Pip-boy Icons-65046-4-4-1659349331.7z](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000096843)
 *  [2. Consistent Addon Icons-65046-4-2-1652355224.zip](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000092397)
 *  [4GB Patcher-62552-1-5-1618787921.7z](https://www.nexusmods.com/newvegas/mods/62552/?tab=files&file_id=1000075100)
@@ -30,21 +30,15 @@
 *  [Climate Control NVSE-77205-1-0-1656185991.zip](https://www.nexusmods.com/newvegas/mods/77205/?tab=files&file_id=1000094799)
 *  [Cloud Shadows-79147-1-0-1-1673903801.zip](https://www.nexusmods.com/newvegas/mods/79147/?tab=files&file_id=1000103658)
 *  [Cloud Upgrade-79612-1-0-1673472163.zip](https://www.nexusmods.com/newvegas/mods/79612/?tab=files&file_id=1000103465)
+*  [Consistent Pip-Boy Icons v5 - Items (Recommended)-82074-5-0-1689870524.7z](https://www.nexusmods.com/newvegas/mods/82074/?tab=files&file_id=1000113378)
 *  [Console Paste-65906-2-0-1689194657.zip](https://www.nexusmods.com/newvegas/mods/65906/?tab=files&file_id=1000112940)
 *  [Crafting Consistency Fix-81130-1-1-1-1684022606.zip](https://www.nexusmods.com/newvegas/mods/81130/?tab=files&file_id=1000109205)
 *  [CrashLogger.zip](https://github.com/yvileapsis/yUI-NVSE/releases/download/CrashLogger/CrashLogger.zip)
-*  Data_DeadMoney - Main.bsa
 *  Data_DeadMoney.esm
-*  Data_Fallout - Meshes.bsa
-*  Data_Fallout - Textures2.bsa
 *  Data_FalloutNV.esm
-*  Data_HonestHearts - Main.bsa
 *  Data_HonestHearts.esm
-*  Data_LonesomeRoad - Main.bsa
 *  Data_LonesomeRoad.esm
-*  Data_OldWorldBlues - Main.bsa
 *  Data_OldWorldBlues.esm
-*  Data_Update.bsa
 *  [Delay DLC Redux-75851-1-6-1688953565.rar](https://www.nexusmods.com/newvegas/mods/75851/?tab=files&file_id=1000112782)
 *  [Depth of Field Fix-81200-1-0-1684509397.7z](https://www.nexusmods.com/newvegas/mods/81200/?tab=files&file_id=1000109523)
 *  [Desert Natural Weathers - YUP Patch-77945-1-0-1689625057.7z](https://www.nexusmods.com/newvegas/mods/77945/?tab=files&file_id=1000113222)
@@ -102,7 +96,7 @@
 *  [Mojave Raiders - JSUE Patch-77945-1-0-1684073969.7z](https://www.nexusmods.com/newvegas/mods/77945/?tab=files&file_id=1000109244)
 *  [Mojave Raiders - Uncut Wasteland (VNV) Patch-77945-1-0-1689623767.7z](https://www.nexusmods.com/newvegas/mods/77945/?tab=files&file_id=1000113220)
 *  [Mojave Raiders Tweaks-79358-1-0-1689623731.7z](https://www.nexusmods.com/newvegas/mods/79358/?tab=files&file_id=1000113219)
-*  [Mojave Raiders-64660-1-2-4-1685998305.7z](https://www.nexusmods.com/newvegas/mods/64660/?tab=files&file_id=1000110517)
+*  [Mojave Raiders-64660-1-2-5-1690026904.7z](https://www.nexusmods.com/newvegas/mods/64660/?tab=files&file_id=1000113459)
 *  [MoonlightNVSE-77683-1-5-1-1674501706.7z](https://www.nexusmods.com/newvegas/mods/77683/?tab=files&file_id=1000103994)
 *  [More LODs Additions and fixes-81751-0-7-1689798766.zip](https://www.nexusmods.com/newvegas/mods/81751/?tab=files&file_id=1000113331)
 *  [Muzzle Flash Light Fix-81201-1-0-1684516610.7z](https://www.nexusmods.com/newvegas/mods/81201/?tab=files&file_id=1000109533)
@@ -132,13 +126,14 @@
 *  [The Living Desert - Main File 2.5-64623-2-5-1686689413.zip](https://www.nexusmods.com/newvegas/mods/64623/?tab=files&file_id=1000111064)
 *  [The Living Desert - Strip Lights Region Fix Patch-77945-1-0-1684074697.7z](https://www.nexusmods.com/newvegas/mods/77945/?tab=files&file_id=1000109246)
 *  [The Mod Configuration Menu-42507-1-5.7z](https://www.nexusmods.com/newvegas/mods/42507/?tab=files&file_id=105803)
+*  [Trap Tweaks NV-78916-1-02-1689989249.rar](https://www.nexusmods.com/newvegas/mods/78916/?tab=files&file_id=1000113434)
 *  [UIO - User Interface Organizer-57174-2-30-1629600625.7z](https://www.nexusmods.com/newvegas/mods/57174/?tab=files&file_id=1000080073)
 *  [Uncut Wasteland-79358-1-0-1689342496.7z](https://www.nexusmods.com/newvegas/mods/79358/?tab=files&file_id=1000113038)
-*  [Unofficial Patch NVSE Plus-71239-1-4-6-1689411116.7z](https://www.nexusmods.com/newvegas/mods/71239/?tab=files&file_id=1000113078)
+*  [Unofficial Patch NVSE Plus-71239-1-4-7-1690025974.7z](https://www.nexusmods.com/newvegas/mods/71239/?tab=files&file_id=1000113458)
 *  [Vanilla Enhancements Merged-78877-1-3-0-1676720992.7z](https://www.nexusmods.com/newvegas/mods/78877/?tab=files&file_id=1000105178)
 *  [Vanilla Enhancements Merged-78877-1-3-2-1678732288.7z](https://www.nexusmods.com/newvegas/mods/78877/?tab=files&file_id=1000106400)
 *  [Vanilla.UI.Plus.9.48.7z](https://github.com/Qolore7/the-sands/releases/download/vanilla-ui-plus/Vanilla.UI.Plus.9.48.7z)
-*  [Viva Default Preset-81231-10-2-2-1-1684772043.7z](https://www.nexusmods.com/newvegas/mods/81231/?tab=files&file_id=1000109726)
+*  [Viva Default Preset-81231-10-2-2-3-1689861180.7z](https://www.nexusmods.com/newvegas/mods/81231/?tab=files&file_id=1000113366)
 *  [X3D And Texture Modding and High Res Preset-81231-10-2-2-1-1684772086.7z](https://www.nexusmods.com/newvegas/mods/81231/?tab=files&file_id=1000109728)
-*  [X3D Preset-81231-10-2-2-1-1684772103.7z](https://www.nexusmods.com/newvegas/mods/81231/?tab=files&file_id=1000109729)
+*  [X3D Preset-81231-10-2-2-3-1689861196.7z](https://www.nexusmods.com/newvegas/mods/81231/?tab=files&file_id=1000113367)
 *  [YUP - Base Game and All DLC-51664-12-7-1688731014.7z](https://www.nexusmods.com/newvegas/mods/51664/?tab=files&file_id=1000112619)
