@@ -1,8 +1,8 @@
 {
   "MachineURL": "TheMidnightRide/TheMidnightRide",
   "Name": "The Midnight Ride",
-  "Version": "1.1",
-  "ModListHash": "y2IwhvcjQpY=",
+  "Version": "1.2",
+  "ModListHash": "pv+SxkK1QpU=",
   "Archives": [
     {
       "Status": "Valid",
@@ -20,21 +20,105 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "eIF7EDsVW/w=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=48758\nfileID=254844",
-        "Name": "FallUI - Inventory-48758-2-2-1-1666954336.rar",
-        "Size": 2818705,
+        "Hash": "KEpEDRA4WXs=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=72546\nfileID=283675",
+        "Name": "Enhanced Vanilla Armor and Clothing 2k-72546-1-1-1689636345.zip",
+        "Size": 2144230567,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DoubleYou",
+          "Description": "Enhanced Vanilla Clothing and Armor (EVAC) is a complete overhaul of the appearance of armor and clothing.",
+          "FileID": 283675,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/72546/72546-1689178953-79671479.png",
+          "IsNSFW": false,
+          "ModID": 72546,
+          "Name": "Enhanced Vanilla Armor and Clothing - EVAC",
+          "Version": "1.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Av8Dk++97gE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27445\nfileID=255106",
+        "Name": "Fixed Gobo Effects-27445-2-1-2-1667131938.zip",
+        "Size": 25514842,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ablaze666",
+          "Description": "This mod fixes artefacts, pixelation and color banding in textures that are used for special light effects. Zero performance loss, little to nothing strain for your VRAM, no esp needed, no reason to not use it.",
+          "FileID": 255106,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27445-0-1508564064.jpg",
+          "IsNSFW": false,
+          "ModID": 27445,
+          "Name": "Fixed Gobo Effects",
+          "Version": "2.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TqFwFE1j1+g=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=23102\nfileID=234845",
+        "Name": "Institute and standard lasers-23102-1-5-2-1649963564.7z",
+        "Size": 6090907,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "akir4 and Wardaddy",
+          "Description": "Makes the institute and standard laser weapons smaller in the 1st person.",
+          "FileID": 234845,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23102-1-1490701493.jpg",
+          "IsNSFW": false,
+          "ModID": 23102,
+          "Name": "Laser weapons 1st person reposition",
+          "Version": "1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XViLCGZpJto=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=66311\nfileID=257841",
+        "Name": "MCM Categorizer-66311-1-0-1-1669165362.rar",
+        "Size": 65019,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "m8r98a4f2",
-          "Description": "This is FallUI - Inventory. A optimized Fallout 4 inventory interface for PC.",
-          "FileID": 254844,
+          "Description": "Categorize and sort your MCM Menu by Drag-and-Drop! Allows you to add your own categories into MCM. You can put any mod where you like to have it, in any order! Also comes with fancy icons and a compressed list view! Also various more Quality-of-Life features for navigating MCM.",
+          "FileID": 257841,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48758/48758-1608059361-298835205.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/66311/66311-1669138393-578034332.png",
           "IsNSFW": false,
-          "ModID": 48758,
-          "Name": "FallUI - Inventory",
-          "Version": "1.13.3"
+          "ModID": 66311,
+          "Name": "MCM Categorizer - Sorter Folder Categories",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lMBvzOh1hC0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=46403\nfileID=277340",
+        "Name": "PRP Updates-46403-69-3-1684168412.7z",
+        "Size": 66215674,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BenRierimanu",
+          "Description": "Previsibines performance upgrade package for Fallout 4, covering the entire game. Depending on location, could give from 2 FPS to 30\u002B FPS increase, also includes any relevant bug fixes I can find and fix not already covered by UF4OP. Requires Season Pass / All main DLC.",
+          "FileID": 277340,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46403/46403-1633275924-24527580.jpeg",
+          "IsNSFW": false,
+          "ModID": 46403,
+          "Name": "Previsibines Repair Pack",
+          "Version": "0.55.1"
         }
       }
     },
@@ -62,27 +146,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "JvhZQ+QJ7oA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=61146\nfileID=246140",
-        "Name": "Better Power Armor - Redux-61146-1-2-2-1659984929.zip",
-        "Size": 157768,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Zzyxzz",
-          "Description": "Your Power Armor will now fully absorb the damage of ballistic and laser weapon types.\n\nEach armor part will work individually and absorb the damage of the body part it covers.\n\nWhen one power armor part breaks, only this body part that was covered will take damage.\n\nKeep your power armor in a good state and it will protect you.",
-          "FileID": 246140,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/61146/61146-1654797149-2143244078.jpeg",
-          "IsNSFW": false,
-          "ModID": 61146,
-          "Name": "Better Power Armor - Redux",
-          "Version": "1.2.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "21h4TOKduN0=",
         "Meta": "[General]\ngameName=fallout4\nmodID=42147\nfileID=253313",
         "Name": "Fallout 4 Script Extender (F4SE)-42147-0-6-23-1665656782.7z",
@@ -104,21 +167,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "1lTRdku6xkM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=49920\nfileID=238011",
-        "Name": "FallUI - Map-49920-2-1-1652891829.rar",
-        "Size": 995847,
+        "Hash": "PK0TsJNp+kg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=20309\nfileID=93183",
+        "Name": "HUDFramework 1.0f-20309-1-0f.zip",
+        "Size": 287655,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "Overhaul of the Fallout 4 map. Added list of locations and workshops including text search. Add favorite locations to fast travel with one click. Many Quality-Of-Life features like disabling the popup on empty map space click, better map zoom steps, travel and arrival time. Colored marker support. Including high-res map texture support.",
-          "FileID": 238011,
+          "Author": "registrator2000",
+          "Description": "HUDFramework is a UI framework that makes it possible for mods to add new UI elements to the HUD.",
+          "FileID": 93183,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49920/49920-1612647012-1670663081.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20309-0-1495318464.png",
           "IsNSFW": false,
-          "ModID": 49920,
-          "Name": "FallUI - Map",
-          "Version": "1.0.3"
+          "ModID": 20309,
+          "Name": "HUDFramework",
+          "Version": "1.0f"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DhYAq4JP1Ig=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=47359\nfileID=283602",
+        "Name": "Buffout 4-47359-1-28-6-1689574368.zip",
+        "Size": 1238574,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ryan",
+          "Description": "It\u0027s like buffout but for the engine",
+          "FileID": 283602,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47359/47359-1599900935-173191707.png",
+          "IsNSFW": false,
+          "ModID": 47359,
+          "Name": "Buffout 4",
+          "Version": "1.24.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bxERKoM90KA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=44798\nfileID=242328",
+        "Name": "High FPS Physics Fix-44798-0-8-6-1656849140.zip",
+        "Size": 168212,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Antonix35",
+          "Description": "Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time.\n\nNow there is a separate version for VR.",
+          "FileID": 242328,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44798/44798-1588329807-748092555.png",
+          "IsNSFW": false,
+          "ModID": 44798,
+          "Name": "High FPS Physics Fix",
+          "Version": "0.8.4-5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/vE+yZsPKUw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68931\nfileID=277076",
+        "Name": "Reload Fix-68931-v1-2-4-1683957422.7z",
+        "Size": 92613,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "VG",
+          "Description": "A mod that fixes some reloading issues.",
+          "FileID": 277076,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68931/68931-1676735984-1337251279.png",
+          "IsNSFW": false,
+          "ModID": 68931,
+          "Name": "Reload Fix",
+          "Version": "v1.2.3"
         }
       }
     },
@@ -146,84 +272,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wvfNBePIyHY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=47327\nfileID=191018",
-        "Name": "Addres Library-47327-1-10-163-0-1599728753.zip",
-        "Size": 9554761,
+        "Hash": "6Wql/l6hLVI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27479\nfileID=172411",
+        "Name": "Crafting Highlight Fix 1.8.8-27479-1-8-8-1576067808.zip",
+        "Size": 145150,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ryan",
-          "Description": "Provides version independent IDs used for dynamically relocating offsets at runtime.",
-          "FileID": 191018,
+          "Author": "registrator2000",
+          "Description": "A F4SE plugin that allows you to disable the hardcoded, vision-obscuring shader effect at various workbenches so you can actually see what you\u0027re crafting.\n\n\n\nAlso allows you to change the shader effect for the Power Armor station and robot workbenches to a outline-only shader instead of a full shader.",
+          "FileID": 172411,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47327/47327-1599728447-276378518.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27479-0-1508689568.gif",
           "IsNSFW": false,
-          "ModID": 47327,
-          "Name": "Address Library for F4SE Plugins",
-          "Version": "1.10.163.0"
+          "ModID": 27479,
+          "Name": "Crafting Highlight Fix",
+          "Version": "1.8.8"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "V7vLB6+D+MI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=51813\nfileID=257220",
-        "Name": "FallUI - HUD-51813-1-7-1-1668637124.rar",
-        "Size": 2375261,
+        "Hash": "eIF7EDsVW/w=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=48758\nfileID=254844",
+        "Name": "FallUI - Inventory-48758-2-2-1-1666954336.rar",
+        "Size": 2818705,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "m8r98a4f2",
-          "Description": "A highly configurable HUD. Every widget can be positioned and configured. Configure your design in the in-game layout manager in MCM. Layouts can be shared and imported too.",
-          "FileID": 257220,
+          "Description": "This is FallUI - Inventory. A optimized Fallout 4 inventory interface for PC.",
+          "FileID": 254844,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51813/51813-1619914903-70759095.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48758/48758-1608059361-298835205.png",
           "IsNSFW": false,
-          "ModID": 51813,
-          "Name": "FallUI - HUD",
-          "Version": "1.4"
+          "ModID": 48758,
+          "Name": "FallUI - Inventory",
+          "Version": "1.13.3"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "I+Tg+bKVsRM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=21497\nfileID=172180",
-        "Name": "Mod Configuration Menu 1.39-21497-1-39-1575706632.zip",
-        "Size": 371675,
+        "Hash": "1lTRdku6xkM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=49920\nfileID=238011",
+        "Name": "FallUI - Map-49920-2-1-1652891829.rar",
+        "Size": 995847,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "reg2k - Neanka - shadowslasher410",
-          "Description": "The Mod Configuration Menu is a settings page for mods! It provides a central location for mod configuration, accessible via the Pause menu.",
-          "FileID": 172180,
+          "Author": "m8r98a4f2",
+          "Description": "Overhaul of the Fallout 4 map. Added list of locations and workshops including text search. Add favorite locations to fast travel with one click. Many Quality-Of-Life features like disabling the popup on empty map space click, better map zoom steps, travel and arrival time. Colored marker support. Including high-res map texture support.",
+          "FileID": 238011,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/21497-0-1504319702.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49920/49920-1612647012-1670663081.png",
           "IsNSFW": false,
-          "ModID": 21497,
-          "Name": "Mod Configuration Menu",
-          "Version": "1.39"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "epKo0NAOlhA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=27216\nfileID=172181",
-        "Name": "Extended Dialogue Interface 1.3.6-27216-1-3-6-1575706721.zip",
-        "Size": 266498,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "reg2k and Neanka",
-          "Description": "The Extended Dialogue Interface removes the hardcoded 4-option limit on dialogue and adds full engine support for any number of player dialogue options.",
-          "FileID": 172181,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27216-0-1507513151.png",
-          "IsNSFW": false,
-          "ModID": 27216,
-          "Name": "Extended Dialogue Interface",
-          "Version": "1.3.6"
+          "ModID": 49920,
+          "Name": "FallUI - Map",
+          "Version": "1.0.3"
         }
       }
     },
@@ -314,62 +419,62 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Av8Dk++97gE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=27445\nfileID=255106",
-        "Name": "Fixed Gobo Effects-27445-2-1-2-1667131938.zip",
-        "Size": 25514842,
+        "Hash": "L6rnOnEXg8A=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=19681\nfileID=80736",
+        "Name": "Far Harbor Boots-19681-0-4.7z",
+        "Size": 130265,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ablaze666",
-          "Description": "This mod fixes artefacts, pixelation and color banding in textures that are used for special light effects. Zero performance loss, little to nothing strain for your VRAM, no esp needed, no reason to not use it.",
-          "FileID": 255106,
+          "Author": "Neagoe",
+          "Description": "Adds the original feet to the Far Harbor marine boots.",
+          "FileID": 80736,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27445-0-1508564064.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/19681-5-1477942802.jpg",
           "IsNSFW": false,
-          "ModID": 27445,
-          "Name": "Fixed Gobo Effects",
-          "Version": "2.0.2"
+          "ModID": 19681,
+          "Name": "Far Harbor Marine Armor Boots Fix",
+          "Version": "0.4"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wV8olD2YO+U=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=59019\nfileID=232741",
-        "Name": "Keep Radiants in the Commonwealth Patch-59019-1-00-1648046534.zip",
-        "Size": 14425,
+        "Hash": "bhPslXcV54Q=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=69798\nfileID=284067",
+        "Name": "RobCo Patcher-69798-3-2-4-1689958340.zip",
+        "Size": 360469,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Glitchfinder",
-          "Description": "A mod for players who dislike being asked to report back to Preston Garvey.",
-          "FileID": 232741,
+          "Author": "Zzyxzz",
+          "Description": "RobCo Patcher, is a patcher based on F4SE and CommonLibF4, which allows mod authors and users to modify game data without the use of plugins.\n\nYou can modify ammos, npcs, races, weapons and more.",
+          "FileID": 284067,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/59019/59019-1647924177-2137393547.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69798/69798-1679152528-1530192852.jpeg",
           "IsNSFW": false,
-          "ModID": 59019,
-          "Name": "Who\u0027s The General - Minutemen Quest Cleanup",
-          "Version": "1.04"
+          "ModID": 69798,
+          "Name": "RobCo Patcher",
+          "Version": "2.8.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QMIHQScpX7E=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=56997\nfileID=225311",
-        "Name": "MCM Booster-56997-1-0-1641058633.rar",
-        "Size": 649135,
+        "Hash": "smEk1lR2k1A=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=61199\nfileID=240268",
+        "Name": "Legendary Drop Bugfix-61199-1-0-1654941239.zip",
+        "Size": 4476,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "Reduces MCM loading time to nearly instant loading",
-          "FileID": 225311,
+          "Author": "Zzyxzz",
+          "Description": "Fixes a bug, which causes legendary enemies not to generate and drop a legendary item.",
+          "FileID": 240268,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56997/56997-1641059008-1632666704.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/61199/61199-1654941127-195031942.jpeg",
           "IsNSFW": false,
-          "ModID": 56997,
-          "Name": "MCM Booster",
+          "ModID": 61199,
+          "Name": "Legendary Drop Bug Fix",
           "Version": "1.0"
         }
       }
@@ -398,189 +503,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Ba8gpxkxUjE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=26582\nfileID=120757",
-        "Name": "Better Console-26582-v1-4-0.7z",
-        "Size": 196118,
+        "Hash": "epKo0NAOlhA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27216\nfileID=172181",
+        "Name": "Extended Dialogue Interface 1.3.6-27216-1-3-6-1575706721.zip",
+        "Size": 266498,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kassent",
-          "Description": "This is a F4SE plugin which makes console menu show extra useful infomation about selected target,for example, target\u0027s name, ID, baseID, mod name and so on.This plugin also add some extra info lists to console to show selected actor\u0027s all kinds of info like factions, perks, active effects, actor values, equipments and so on.",
-          "FileID": 120757,
+          "Author": "reg2k and Neanka",
+          "Description": "The Extended Dialogue Interface removes the hardcoded 4-option limit on dialogue and adds full engine support for any number of player dialogue options.",
+          "FileID": 172181,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26582-0-1504651363.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27216-0-1507513151.png",
           "IsNSFW": false,
-          "ModID": 26582,
-          "Name": "Better Console - F4SE",
-          "Version": "v1.4.0"
+          "ModID": 27216,
+          "Name": "Extended Dialogue Interface",
+          "Version": "1.3.6"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "T0TEuUkhdT8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=48958\nfileID=255391",
-        "Name": "FallUI - Confirm Boxes-48958-2-2-3-1667318727.rar",
-        "Size": 1470559,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "Overhaul of all confirm box interfaces. Including different designs and styles for many box types (configurable). You can also choose to disable confirms, so it automatically accept without confirmation (like \u0022Yes Im Sure\u0022). Interface covers all languages.",
-          "FileID": 255391,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48958/48958-1619017899-322981148.png",
-          "IsNSFW": false,
-          "ModID": 48958,
-          "Name": "FallUI - Confirm Boxes (incl. Yes Im Sure)",
-          "Version": "2.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "9PVpvVtAW2A=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=47364\nfileID=256947",
-        "Name": "Complex Vendors-47364-0-9-3-1668457169.zip",
-        "Size": 8606,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Zzyxzz",
-          "Description": "Known from Skyrim and other games, many vendors are restricted. You can\u0027t sell everything to anyone. This also prevents the player from piling up currency. This mod applies several restrictions to several NPCs. For example, a doctor can only buy and sell chem related items. But there are still some stores, where you can dump everything.",
-          "FileID": 256947,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47364/47364-1599921232-256315605.jpeg",
-          "IsNSFW": false,
-          "ModID": 47364,
-          "Name": "Complex Vendors",
-          "Version": "0.9.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kJQAU1NS0OM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=56089\nfileID=260019",
-        "Name": "Keep Radiants in the Commonwealth UFO4P Version-56089-1-2-1670779314.7z",
-        "Size": 31097,
+        "Hash": "535hYZ0peoA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=69715\nfileID=270832",
+        "Name": "Clothing Scrapping Redone-69715-1-3-1678996956.7z",
+        "Size": 3748,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "VishVadeva50",
-          "Description": "Keep Radiants in the Commonwealth but made for users who use the unofficial patch.",
-          "FileID": 260019,
+          "Description": "Makes clothing scrapping return a wider range of materials based on what they are actually made of and with balanced amounts.",
+          "FileID": 270832,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56089/56089-1640449475-1526467936.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69715/69715-1678881936-1176656117.png",
           "IsNSFW": false,
-          "ModID": 56089,
-          "Name": "Keep Radiants in the Commonwealth UFO4P Version",
-          "Version": "1.0"
+          "ModID": 69715,
+          "Name": "Clothing Scrapping Redone",
+          "Version": "1.3"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8D/ulMJ3KhE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=46403\nfileID=277337",
-        "Name": "PRP Main-46403-69-1684167489.7z",
-        "Size": 2285889472,
+        "Hash": "EIW16aEq3Fs=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=72679\nfileID=283989",
+        "Name": "FATE Installer-72679-1-6-0-1689885638.zip",
+        "Size": 101275819,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Poet",
+          "Description": "FATE Patch merges \u0026gt;220 bug fixing and gameplay enhancing mods and addresses bugs which are not yet fixed by the Unofficial Patch (UFO4P).\n\nThe main focus of this mod is to fix bugs, make changes that make sense and introduce subtle improvements for more satisfying gameplay.",
+          "FileID": 283989,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/72679/72679-1688576210-737952991.png",
+          "IsNSFW": false,
+          "ModID": 72679,
+          "Name": "FO4 Fixes And Technical Enhancements (FATE Patch)",
+          "Version": "1.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XKbJbQwvm1A=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=46403\nfileID=283080",
+        "Name": "PRP Updates Hotfix-46403-69-4-1689123949.7z",
+        "Size": 11734576,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "BenRierimanu",
           "Description": "Previsibines performance upgrade package for Fallout 4, covering the entire game. Depending on location, could give from 2 FPS to 30\u002B FPS increase, also includes any relevant bug fixes I can find and fix not already covered by UF4OP. Requires Season Pass / All main DLC.",
-          "FileID": 277337,
+          "FileID": 283080,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46403/46403-1633275924-24527580.jpeg",
           "IsNSFW": false,
           "ModID": 46403,
           "Name": "Previsibines Repair Pack",
           "Version": "0.55.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QecNTVClZHM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=4598\nfileID=270951",
-        "Name": "Unofficial Fallout 4 Patch-4598-2-1-5-1679096028.7z",
-        "Size": 28463240,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Unofficial Patch Project Team",
-          "Description": "A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.",
-          "FileID": 270951,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/4598-0-1456989707.png",
-          "IsNSFW": false,
-          "ModID": 4598,
-          "Name": "Unofficial Fallout 4 Patch",
-          "Version": "2.1.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "I74zqlVNBaE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=59019\nfileID=265020",
-        "Name": "Who\u0027s The General - Minutemen Quest Cleanup-59019-1-05-1674786975.zip",
-        "Size": 675413,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Glitchfinder",
-          "Description": "A mod for players who dislike being asked to report back to Preston Garvey.",
-          "FileID": 265020,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/59019/59019-1647924177-2137393547.png",
-          "IsNSFW": false,
-          "ModID": 59019,
-          "Name": "Who\u0027s The General - Minutemen Quest Cleanup",
-          "Version": "1.04"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "/mSP6C5pFzQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=72657\nfileID=282361",
-        "Name": "Outfit ReDress Fix-72657-1-0-0-1688509648.zip",
-        "Size": 111508,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Snapdragon and GELUXRUM",
-          "Description": "Engine bug fix to prevent NPCs from defaulting their outfits.",
-          "FileID": 282361,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/72657/72657-1688684285-94326562.png",
-          "IsNSFW": false,
-          "ModID": 72657,
-          "Name": "F4SE Outfit ReDress Fix",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "XViLCGZpJto=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=66311\nfileID=257841",
-        "Name": "MCM Categorizer-66311-1-0-1-1669165362.rar",
-        "Size": 65019,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "Categorize and sort your MCM Menu by Drag-and-Drop! Allows you to add your own categories into MCM. You can put any mod where you like to have it, in any order! Also comes with fancy icons and a compressed list view! Also various more Quality-of-Life features for navigating MCM.",
-          "FileID": 257841,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/66311/66311-1669138393-578034332.png",
-          "IsNSFW": false,
-          "ModID": 66311,
-          "Name": "MCM Categorizer - Sorter Folder Categories",
-          "Version": "1.0.1"
         }
       }
     },
@@ -608,357 +608,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8CiCmm5sTes=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=66690\nfileID=279421",
-        "Name": "FavoritesMenuEx-66690-1-0-8-1685951385.zip",
-        "Size": 265700,
+        "Hash": "QecNTVClZHM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=4598\nfileID=270951",
+        "Name": "Unofficial Fallout 4 Patch-4598-2-1-5-1679096028.7z",
+        "Size": 28463240,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Neanka",
-          "Description": "Favorites Menu rework in New Vegas companion wheel style.",
-          "FileID": 279421,
+          "Author": "Unofficial Patch Project Team",
+          "Description": "A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.",
+          "FileID": 270951,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/66690/66690-1670188973-1884003310.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/4598-0-1456989707.png",
           "IsNSFW": false,
-          "ModID": 66690,
-          "Name": "Favorites Menu Ex",
-          "Version": "1.0.3"
+          "ModID": 4598,
+          "Name": "Unofficial Fallout 4 Patch",
+          "Version": "2.1.3"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "9pow/a79Q9w=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=29969\nfileID=153467",
-        "Name": "PA HoloHUD-29969-1-1-1551627811.7z",
-        "Size": 167819,
+        "Hash": "QMIHQScpX7E=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56997\nfileID=225311",
+        "Name": "MCM Booster-56997-1-0-1641058633.rar",
+        "Size": 649135,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mluppov",
-          "Description": "This will replace ridiculous half transparent... whatever it is with something much nicer.",
-          "FileID": 153467,
+          "Author": "m8r98a4f2",
+          "Description": "Reduces MCM loading time to nearly instant loading",
+          "FileID": 225311,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/29969/29969-1519068282-1096690881.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56997/56997-1641059008-1632666704.png",
           "IsNSFW": false,
-          "ModID": 29969,
-          "Name": "Power Armor HoloHUD",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "TqFwFE1j1+g=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=23102\nfileID=234845",
-        "Name": "Institute and standard lasers-23102-1-5-2-1649963564.7z",
-        "Size": 6090907,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "akir4 and Wardaddy",
-          "Description": "Makes the institute and standard laser weapons smaller in the 1st person.",
-          "FileID": 234845,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23102-1-1490701493.jpg",
-          "IsNSFW": false,
-          "ModID": 23102,
-          "Name": "Laser weapons 1st person reposition",
-          "Version": "1.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PK0TsJNp+kg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=20309\nfileID=93183",
-        "Name": "HUDFramework 1.0f-20309-1-0f.zip",
-        "Size": 287655,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "registrator2000",
-          "Description": "HUDFramework is a UI framework that makes it possible for mods to add new UI elements to the HUD.",
-          "FileID": 93183,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20309-0-1495318464.png",
-          "IsNSFW": false,
-          "ModID": 20309,
-          "Name": "HUDFramework",
-          "Version": "1.0f"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "JQu+WUn5VMk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=52315\nfileID=208918",
-        "Name": "PA Ownership Fix (with No PA Battery Pathing)-52315-1-0-1622200319.rar",
-        "Size": 3405,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Selenarious",
-          "Description": "When you take over a Power Armor that belonged to someone else and insert a fusion core, it will no longer be considered stolen! No .esp required.",
-          "FileID": 208918,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52315/52315-1622194842-1551871705.png",
-          "IsNSFW": false,
-          "ModID": 52315,
-          "Name": "Power Armor Ownership Fix (no more stealing)",
+          "ModID": 56997,
+          "Name": "MCM Booster",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "XdtaFOjxXzo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=63391\nfileID=283476",
-        "Name": "Complex Vendors - FATE Fixes Patch-63391-1-0-1689498615.7z",
-        "Size": 547,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VishVadeva50",
-          "Description": "Patches for UFO4P and more.",
-          "FileID": 283476,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63391/63391-1660850021-114383590.png",
-          "IsNSFW": false,
-          "ModID": 63391,
-          "Name": "Vish\u0027s Patch Hub (UFO4P)",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "smEk1lR2k1A=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=61199\nfileID=240268",
-        "Name": "Legendary Drop Bugfix-61199-1-0-1654941239.zip",
-        "Size": 4476,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Zzyxzz",
-          "Description": "Fixes a bug, which causes legendary enemies not to generate and drop a legendary item.",
-          "FileID": 240268,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/61199/61199-1654941127-195031942.jpeg",
-          "IsNSFW": false,
-          "ModID": 61199,
-          "Name": "Legendary Drop Bug Fix",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "aUXpw7F7byA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=47359\nfileID=283327",
-        "Name": "Buffout 4-47359-1-28-3-1689367995.zip",
-        "Size": 1244576,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ryan",
-          "Description": "It\u0027s like buffout but for the engine",
-          "FileID": 283327,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47359/47359-1599900935-173191707.png",
-          "IsNSFW": false,
-          "ModID": 47359,
-          "Name": "Buffout 4",
-          "Version": "1.24.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "lMBvzOh1hC0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=46403\nfileID=277340",
-        "Name": "PRP Updates-46403-69-3-1684168412.7z",
-        "Size": 66215674,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BenRierimanu",
-          "Description": "Previsibines performance upgrade package for Fallout 4, covering the entire game. Depending on location, could give from 2 FPS to 30\u002B FPS increase, also includes any relevant bug fixes I can find and fix not already covered by UF4OP. Requires Season Pass / All main DLC.",
-          "FileID": 277340,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46403/46403-1633275924-24527580.jpeg",
-          "IsNSFW": false,
-          "ModID": 46403,
-          "Name": "Previsibines Repair Pack",
-          "Version": "0.55.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "bxERKoM90KA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=44798\nfileID=242328",
-        "Name": "High FPS Physics Fix-44798-0-8-6-1656849140.zip",
-        "Size": 168212,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Antonix35",
-          "Description": "Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time.\n\nNow there is a separate version for VR.",
-          "FileID": 242328,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44798/44798-1588329807-748092555.png",
-          "IsNSFW": false,
-          "ModID": 44798,
-          "Name": "High FPS Physics Fix",
-          "Version": "0.8.4-5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "/vE+yZsPKUw=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=68931\nfileID=277076",
-        "Name": "Reload Fix-68931-v1-2-4-1683957422.7z",
-        "Size": 92613,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VG",
-          "Description": "A mod that fixes some reloading issues.",
-          "FileID": 277076,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68931/68931-1676735984-1337251279.png",
-          "IsNSFW": false,
-          "ModID": 68931,
-          "Name": "Reload Fix",
-          "Version": "v1.2.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "DA70ALt6XyI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=41178\nfileID=167402",
-        "Name": "BCR- Lever Action Rifle v1.02-41178-1-02-1569349299.zip",
-        "Size": 58173,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "shavkacagarikia",
-          "Description": "Finally, a proper engine-level system for bullet counted reloads with most of the features such a system should have.",
-          "FileID": 167402,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41178/41178-1568917895-1877786549.png",
-          "IsNSFW": false,
-          "ModID": 41178,
-          "Name": "Bullet Counted Reload System (BCR)",
-          "Version": "2.00"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "RMZT0rdd0eI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=63391\nfileID=247283",
-        "Name": "Complex Vendors - UFO4P Patch-63391-1-0-1660850468.7z",
-        "Size": 580,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VishVadeva50",
-          "Description": "Patches for UFO4P and more.",
-          "FileID": 247283,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63391/63391-1660850021-114383590.png",
-          "IsNSFW": false,
-          "ModID": 63391,
-          "Name": "Vish\u0027s Patch Hub (UFO4P)",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+uE7AJpXH/4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=50837\nfileID=250407",
-        "Name": "Terrain Undersides-50837-5-0-1662977532.7z",
-        "Size": 242717252,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Sheson",
-          "Description": "Block sun rays shining through the ground with terrain underside meshes for Commonwealth, Far Harbor and Nuka World.",
-          "FileID": 250407,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50837/50837-1615997484-386096780.jpeg",
-          "IsNSFW": false,
-          "ModID": 50837,
-          "Name": "Terrain Undersides - 2 Million Sunblock",
-          "Version": "3.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "zkSXzas/zhY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=62240\nfileID=244132",
-        "Name": "Running Hands Loose Files 1.1-62240-1-1-1658520530.zip",
-        "Size": 12180,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "neeher",
-          "Description": "Simply adds arms to the first person running animations, open and closed hand styles available. Includes Power Armor. Archive, loose files, or empty ESL versions.",
-          "FileID": 244132,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/62240/62240-1657951233-332819416.jpeg",
-          "IsNSFW": false,
-          "ModID": 62240,
-          "Name": "First-Person Running with Hands Animations",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ikYv6FfuILo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=63391\nfileID=283467",
-        "Name": "Better Power Armor - Redux - FATE Fixes Patch-63391-1-0-1689494205.7z",
-        "Size": 441,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VishVadeva50",
-          "Description": "Patches for UFO4P and more.",
-          "FileID": 283467,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63391/63391-1660850021-114383590.png",
-          "IsNSFW": false,
-          "ModID": 63391,
-          "Name": "Vish\u0027s Patch Hub (UFO4P)",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "DxTfLXDJg2c=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=72679\nfileID=283150",
-        "Name": "FATE Installer-72679-1-4-0-1689202208.zip",
-        "Size": 101933540,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Poet",
-          "Description": "FATE Patch merges \u0026gt;220 bug fixing and gameplay enhancing mods and addresses bugs which are not yet fixed by the Unofficial Patch (UFO4P).\n\nThe main focus of this mod is to fix bugs, make changes that make sense and introduce subtle improvements for more satisfying gameplay.",
-          "FileID": 283150,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/72679/72679-1688576210-737952991.png",
-          "IsNSFW": false,
-          "ModID": 72679,
-          "Name": "FO4 Fixes And Technical Enhancements (FATE Patch)",
-          "Version": "1.2.0"
         }
       }
     },
@@ -986,15 +671,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "9ZRtUwhnReg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=72904\nfileID=283226",
-        "Name": "Interior NavCut Fix-72904-1-0-1-1689267760.zip",
-        "Size": 3084113,
+        "Hash": "SibpcXg1MQk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=72904\nfileID=283994",
+        "Name": "Interior NavCut Fix-72904-1-0-3-1689890239.zip",
+        "Size": 3190161,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Snapdragon",
           "Description": "Fixes the engine bug that causes workshop navmesh cuts to persist throughout all interior cells.",
-          "FileID": 283226,
+          "FileID": 283994,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/72904/72904-1689267366-1074876324.png",
           "IsNSFW": false,
@@ -1028,126 +713,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "9lX9XdfXoZs=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=47549\nfileID=197824",
-        "Name": "True Invisibility 3.2 FOMOD-47549-3-2-1609275488.7z",
-        "Size": 105907,
+        "Hash": "T0TEuUkhdT8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=48958\nfileID=255391",
+        "Name": "FallUI - Confirm Boxes-48958-2-2-3-1667318727.rar",
+        "Size": 1470559,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Sensei Shisha",
-          "Description": "Completely overhauls the stealth fields in Fallout 4. Now you can switch it on and off on the fly, see the remaining duration on a HUD widget, and most importantly, the enemies finally won\u0027t see you from miles away. Requires MCM and HUDFramework.",
-          "FileID": 197824,
+          "Author": "m8r98a4f2",
+          "Description": "Overhaul of all confirm box interfaces. Including different designs and styles for many box types (configurable). You can also choose to disable confirms, so it automatically accept without confirmation (like \u0022Yes Im Sure\u0022). Interface covers all languages.",
+          "FileID": 255391,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47549/47549-1601837091-73384583.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48958/48958-1619017899-322981148.png",
           "IsNSFW": false,
-          "ModID": 47549,
-          "Name": "True Invisibility Redux",
-          "Version": "3.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6Wql/l6hLVI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=27479\nfileID=172411",
-        "Name": "Crafting Highlight Fix 1.8.8-27479-1-8-8-1576067808.zip",
-        "Size": 145150,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "registrator2000",
-          "Description": "A F4SE plugin that allows you to disable the hardcoded, vision-obscuring shader effect at various workbenches so you can actually see what you\u0027re crafting.\n\n\n\nAlso allows you to change the shader effect for the Power Armor station and robot workbenches to a outline-only shader instead of a full shader.",
-          "FileID": 172411,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27479-0-1508689568.gif",
-          "IsNSFW": false,
-          "ModID": 27479,
-          "Name": "Crafting Highlight Fix",
-          "Version": "1.8.8"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QIWEReBd+24=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=63482\nfileID=251460",
-        "Name": "ShadowBoostFO4-63482-1-7-1663948952.zip",
-        "Size": 355878,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PK0",
-          "Description": "Sets the distance of the shadows dynamically (F4SE)",
-          "FileID": 251460,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63482/63482-1661129510-1518982057.png",
-          "IsNSFW": false,
-          "ModID": 63482,
-          "Name": "Shadow Boost FO4",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "lPbCl6UXN4k=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=62123\nfileID=243154",
-        "Name": "Swimming Loose Files 1.0 Redo-62123-1-0-1657604770.zip",
-        "Size": 27000,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "neeher",
-          "Description": "Simply adds arms to the first person swimming animations. Archive, loose files, or empty ESL available.",
-          "FileID": 243154,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/62123/62123-1657572013-2084628689.jpeg",
-          "IsNSFW": false,
-          "ModID": 62123,
-          "Name": "First-Person Swimming Animations",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "XOGXiwI0Pf4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=66180\nfileID=257280",
-        "Name": "Less intrusive tutorial-66180-1-0-1668690120.zip",
-        "Size": 671,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Zzyxzz",
-          "Description": "You are in the middle of a fire fight, you are near death. You take all the courage you got left and run to the next cover. But then, you get hit. A message box appears. \n\n\u0022Your health is low! Use a Stimpak, eat some food, or drink some water.\u0022\n\nYou click ok, then you are dead. You just got killed by the message box.\n\nLet\u0027s fix that!",
-          "FileID": 257280,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/66180/66180-1668688492-2065003194.jpeg",
-          "IsNSFW": false,
-          "ModID": 66180,
-          "Name": "Less intrusive tutorial",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "LrjbVcovwM0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=56277\nfileID=283471",
-        "Name": "Thrive Redone-56277-3-2-1689497799.7z",
-        "Size": 48893,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VishVadeva50",
-          "Description": "Balance overhaul inspired by the mod \u0022Thrive\u0022 and \u0022Fallout 4 Balance Patch\u0022 both made by BourneMcReady. Fixes balance issues with the original game and makes the survival aspect of it more challenging, removing shortcuts and silly mechanics. \n\nChoose your patches in the FOMOD.",
-          "FileID": 283471,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56277/56277-1640326661-974047198.png",
-          "IsNSFW": false,
-          "ModID": 56277,
-          "Name": "Thrive Redone",
+          "ModID": 48958,
+          "Name": "FallUI - Confirm Boxes (incl. Yes Im Sure)",
           "Version": "2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "IJC6abeiE+g=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=72546\nfileID=283841",
+        "Name": "Hotfix-72546-1-1-1-1689800403.7z",
+        "Size": 1624348,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DoubleYou",
+          "Description": "Enhanced Vanilla Clothing and Armor (EVAC) is a complete overhaul of the appearance of armor and clothing.",
+          "FileID": 283841,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/72546/72546-1689178953-79671479.png",
+          "IsNSFW": false,
+          "ModID": 72546,
+          "Name": "Enhanced Vanilla Armor and Clothing - EVAC",
+          "Version": "1.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "I+Tg+bKVsRM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=21497\nfileID=172180",
+        "Name": "Mod Configuration Menu 1.39-21497-1-39-1575706632.zip",
+        "Size": 371675,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "reg2k - Neanka - shadowslasher410",
+          "Description": "The Mod Configuration Menu is a settings page for mods! It provides a central location for mod configuration, accessible via the Pause menu.",
+          "FileID": 172180,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/21497-0-1504319702.png",
+          "IsNSFW": false,
+          "ModID": 21497,
+          "Name": "Mod Configuration Menu",
+          "Version": "1.39"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DA70ALt6XyI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=41178\nfileID=167402",
+        "Name": "BCR- Lever Action Rifle v1.02-41178-1-02-1569349299.zip",
+        "Size": 58173,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "shavkacagarikia",
+          "Description": "Finally, a proper engine-level system for bullet counted reloads with most of the features such a system should have.",
+          "FileID": 167402,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41178/41178-1568917895-1877786549.png",
+          "IsNSFW": false,
+          "ModID": 41178,
+          "Name": "Bullet Counted Reload System (BCR)",
+          "Version": "2.00"
         }
       }
     },
@@ -1196,20 +839,83 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VUm2oc4qjFU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=67185\nfileID=261268",
-        "Name": "Shadow Boost INI-67185-1-0-1671761877.7z",
-        "Size": 1074,
+        "Hash": "4r6NqedjbM8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=19854\nfileID=81154",
+        "Name": "PBR-19854-.rar",
+        "Size": 507956,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VishVadeva50 - Wall_SoGB - Qolore7",
-          "Description": "Files needed while following The Midnight Ride.",
-          "FileID": 261268,
+          "Author": "dpillari",
+          "Description": "added correct PBR data to the Marine Combat Armor, as it lacked it before. ",
+          "FileID": 81154,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/67185/67185-1671761290-1927182522.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/19854-0-1478626672.jpg",
           "IsNSFW": false,
-          "ModID": 67185,
-          "Name": "The Midnight Ride Resources",
+          "ModID": 19854,
+          "Name": "Marine Combat Armor Material Fix",
+          "Version": ""
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zkSXzas/zhY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=62240\nfileID=244132",
+        "Name": "Running Hands Loose Files 1.1-62240-1-1-1658520530.zip",
+        "Size": 12180,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "neeher",
+          "Description": "Simply adds arms to the first person running animations, open and closed hand styles available. Includes Power Armor. Archive, loose files, or empty ESL versions.",
+          "FileID": 244132,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/62240/62240-1657951233-332819416.jpeg",
+          "IsNSFW": false,
+          "ModID": 62240,
+          "Name": "First-Person Running with Hands Animations",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hPRM6TUddTc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=47364\nfileID=283481",
+        "Name": "Complex Vendors-47364-1-0-0-1689500109.zip",
+        "Size": 8786,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zzyxzz",
+          "Description": "Known from Skyrim and other games, many vendors are restricted. You can\u0027t sell everything to anyone. This also prevents the player from piling up currency. This mod applies several restrictions to several NPCs. For example, a doctor can only buy and sell chem related items. But there are still some stores, where you can dump everything.",
+          "FileID": 283481,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47364/47364-1599921232-256315605.jpeg",
+          "IsNSFW": false,
+          "ModID": 47364,
+          "Name": "Complex Vendors",
+          "Version": "0.9.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XOGXiwI0Pf4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=66180\nfileID=257280",
+        "Name": "Less intrusive tutorial-66180-1-0-1668690120.zip",
+        "Size": 671,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zzyxzz",
+          "Description": "You are in the middle of a fire fight, you are near death. You take all the courage you got left and run to the next cover. But then, you get hit. A message box appears. \n\n\u0022Your health is low! Use a Stimpak, eat some food, or drink some water.\u0022\n\nYou click ok, then you are dead. You just got killed by the message box.\n\nLet\u0027s fix that!",
+          "FileID": 257280,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/66180/66180-1668688492-2065003194.jpeg",
+          "IsNSFW": false,
+          "ModID": 66180,
+          "Name": "Less intrusive tutorial",
           "Version": "1.0"
         }
       }
@@ -1217,42 +923,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "eTzjli2wlPk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=63220\nfileID=272290",
-        "Name": "Perennial Power Armor-63220-1-2-1680114097.7z",
-        "Size": 2817,
+        "Hash": "JQu+WUn5VMk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=52315\nfileID=208918",
+        "Name": "PA Ownership Fix (with No PA Battery Pathing)-52315-1-0-1622200319.rar",
+        "Size": 3405,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SpringHeelJon",
-          "Description": "A lightweight vanilla friendly rebalance and QOL tweak for all base game and DLC Power armor.",
-          "FileID": 272290,
+          "Author": "Selenarious",
+          "Description": "When you take over a Power Armor that belonged to someone else and insert a fusion core, it will no longer be considered stolen! No .esp required.",
+          "FileID": 208918,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63220/63220-1660418089-2126050367.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52315/52315-1622194842-1551871705.png",
           "IsNSFW": false,
-          "ModID": 63220,
-          "Name": "Perennial Power Armor - Lightweight Power Armor Rebalance",
+          "ModID": 52315,
+          "Name": "Power Armor Ownership Fix (no more stealing)",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7Rx6x3PvTY4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=56895\nfileID=270723",
-        "Name": "Weapon Scrapping Redone-56895-1-4-3-1678908157.7z",
-        "Size": 3444,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VishVadeva50 - Audixas",
-          "Description": "Makes weapon scrapping return a bigger range of materials based on what they are actually made of and with balanced amounts.",
-          "FileID": 270723,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56895/56895-1640604282-690330556.png",
-          "IsNSFW": false,
-          "ModID": 56895,
-          "Name": "Weapon Scrapping Redone",
-          "Version": "1.3.1"
         }
       }
     },
@@ -1280,20 +965,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uLptKtBaDoY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=47760\nfileID=196371",
-        "Name": "Sprint Stuttering Fix-47760-1-2-1607200820.zip",
-        "Size": 48554,
+        "Hash": "QIWEReBd+24=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=63482\nfileID=251460",
+        "Name": "ShadowBoostFO4-63482-1-7-1663948952.zip",
+        "Size": 355878,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "AntoniX",
-          "Description": "Fixed twitching/stuttering when sprinting in first person.\n\n\n\n\u0418\u0441\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0434\u0440\u043E\u0436\u0430\u043D\u0438\u044F \u043A\u0430\u043C\u0435\u0440\u044B \u043E\u0442 \u043F\u0435\u0440\u0432\u043E\u0433\u043E \u043B\u0438\u0446\u0430 \u043F\u0440\u0438 \u0441\u043F\u0440\u0438\u043D\u0442\u0435.",
-          "FileID": 196371,
+          "Author": "PK0",
+          "Description": "Sets the distance of the shadows dynamically (F4SE)",
+          "FileID": 251460,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47760/47760-1601984314-35274659.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63482/63482-1661129510-1518982057.png",
           "IsNSFW": false,
-          "ModID": 47760,
-          "Name": "Sprint Stuttering Fix",
+          "ModID": 63482,
+          "Name": "Shadow Boost FO4",
           "Version": "1.2"
         }
       }
@@ -1301,42 +986,168 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "b3IMlDOoVr0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=26163\nfileID=114124",
-        "Name": "Unlimited Survival Mode - F4SE-26163-v1-4-0.7z",
-        "Size": 111275,
+        "Hash": "V7vLB6+D+MI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51813\nfileID=257220",
+        "Name": "FallUI - HUD-51813-1-7-1-1668637124.rar",
+        "Size": 2375261,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kassent",
-          "Description": "This is a F4SE plugin which restores some hard-coded features disabled by game in survival mode,for example,unlock console,enable TGM,enable fast travel,restore vanilla compass settings,enalbe quick save and auto save,etc .",
-          "FileID": 114124,
+          "Author": "m8r98a4f2",
+          "Description": "A highly configurable HUD. Every widget can be positioned and configured. Configure your design in the in-game layout manager in MCM. Layouts can be shared and imported too.",
+          "FileID": 257220,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26163-0-1502835626.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51813/51813-1619914903-70759095.png",
           "IsNSFW": false,
-          "ModID": 26163,
-          "Name": "Unlimited Survival Mode - F4SE",
-          "Version": "v1.4.0"
+          "ModID": 51813,
+          "Name": "FallUI - HUD",
+          "Version": "1.4"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "24eGCZGB3BU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53558\nfileID=277518",
-        "Name": "Kat\u0027s Power Armor Repair Kits-53558-1-6-1684364761.7z",
-        "Size": 2300258,
+        "Hash": "8CiCmm5sTes=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=66690\nfileID=279421",
+        "Name": "FavoritesMenuEx-66690-1-0-8-1685951385.zip",
+        "Size": 265700,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kaethela",
-          "Description": "Originally designed to make perk requirements from Some Assembly Required visible, this mod lets you repair power armor using repair kits. Includes optional support for Creation Club and mod-added power armor. All ESL-flagged ESP files.",
-          "FileID": 277518,
+          "Author": "Neanka",
+          "Description": "Favorites Menu rework in New Vegas companion wheel style.",
+          "FileID": 279421,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53558/53558-1627689578-352489049.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/66690/66690-1670188973-1884003310.png",
           "IsNSFW": false,
-          "ModID": 53558,
-          "Name": "Kat\u0027s Power Armor Repair Kits",
-          "Version": "1.3"
+          "ModID": 66690,
+          "Name": "Favorites Menu Ex",
+          "Version": "1.0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+uE7AJpXH/4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=50837\nfileID=250407",
+        "Name": "Terrain Undersides-50837-5-0-1662977532.7z",
+        "Size": 242717252,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sheson",
+          "Description": "Block sun rays shining through the ground with terrain underside meshes for Commonwealth, Far Harbor and Nuka World.",
+          "FileID": 250407,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50837/50837-1615997484-386096780.jpeg",
+          "IsNSFW": false,
+          "ModID": 50837,
+          "Name": "Terrain Undersides - 2 Million Sunblock",
+          "Version": "3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9lX9XdfXoZs=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=47549\nfileID=197824",
+        "Name": "True Invisibility 3.2 FOMOD-47549-3-2-1609275488.7z",
+        "Size": 105907,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sensei Shisha",
+          "Description": "Completely overhauls the stealth fields in Fallout 4. Now you can switch it on and off on the fly, see the remaining duration on a HUD widget, and most importantly, the enemies finally won\u0027t see you from miles away. Requires MCM and HUDFramework.",
+          "FileID": 197824,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47549/47549-1601837091-73384583.png",
+          "IsNSFW": false,
+          "ModID": 47549,
+          "Name": "True Invisibility Redux",
+          "Version": "3.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VUm2oc4qjFU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=67185\nfileID=261268",
+        "Name": "Shadow Boost INI-67185-1-0-1671761877.7z",
+        "Size": 1074,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "VishVadeva50 - Wall_SoGB - Qolore7",
+          "Description": "Files needed while following The Midnight Ride.",
+          "FileID": 261268,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/67185/67185-1671761290-1927182522.png",
+          "IsNSFW": false,
+          "ModID": 67185,
+          "Name": "The Midnight Ride Resources",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JvhZQ+QJ7oA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=61146\nfileID=246140",
+        "Name": "Better Power Armor - Redux-61146-1-2-2-1659984929.zip",
+        "Size": 157768,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zzyxzz",
+          "Description": "Your Power Armor will now fully absorb the damage of ballistic and laser weapon types.\n\nEach armor part will work individually and absorb the damage of the body part it covers.\n\nWhen one power armor part breaks, only this body part that was covered will take damage.\n\nKeep your power armor in a good state and it will protect you.",
+          "FileID": 246140,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/61146/61146-1654797149-2143244078.jpeg",
+          "IsNSFW": false,
+          "ModID": 61146,
+          "Name": "Better Power Armor - Redux",
+          "Version": "1.2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9pow/a79Q9w=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=29969\nfileID=153467",
+        "Name": "PA HoloHUD-29969-1-1-1551627811.7z",
+        "Size": 167819,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mluppov",
+          "Description": "This will replace ridiculous half transparent... whatever it is with something much nicer.",
+          "FileID": 153467,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/29969/29969-1519068282-1096690881.jpeg",
+          "IsNSFW": false,
+          "ModID": 29969,
+          "Name": "Power Armor HoloHUD",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lPbCl6UXN4k=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=62123\nfileID=243154",
+        "Name": "Swimming Loose Files 1.0 Redo-62123-1-0-1657604770.zip",
+        "Size": 27000,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "neeher",
+          "Description": "Simply adds arms to the first person swimming animations. Archive, loose files, or empty ESL available.",
+          "FileID": 243154,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/62123/62123-1657572013-2084628689.jpeg",
+          "IsNSFW": false,
+          "ModID": 62123,
+          "Name": "First-Person Swimming Animations",
+          "Version": "1.0"
         }
       }
     },
@@ -1364,84 +1175,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XproDXfDFkQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=62868\nfileID=276522",
-        "Name": "Capped Out - A loot and levelled list rebalance-62868-1-2-1-1683556491.7z",
-        "Size": 13279,
+        "Hash": "uLptKtBaDoY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=47760\nfileID=196371",
+        "Name": "Sprint Stuttering Fix-47760-1-2-1607200820.zip",
+        "Size": 48554,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SpringHeelJon",
-          "Description": "Brings a logical and measured approach to container and NPC levelled lists.",
-          "FileID": 276522,
+          "Author": "AntoniX",
+          "Description": "Fixed twitching/stuttering when sprinting in first person.\n\n\n\n\u0418\u0441\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0434\u0440\u043E\u0436\u0430\u043D\u0438\u044F \u043A\u0430\u043C\u0435\u0440\u044B \u043E\u0442 \u043F\u0435\u0440\u0432\u043E\u0433\u043E \u043B\u0438\u0446\u0430 \u043F\u0440\u0438 \u0441\u043F\u0440\u0438\u043D\u0442\u0435.",
+          "FileID": 196371,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/62868/62868-1659532782-125869927.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47760/47760-1601984314-35274659.jpeg",
           "IsNSFW": false,
-          "ModID": 62868,
-          "Name": "Capped Out - A loot and levelled list rebalance",
-          "Version": "1.1"
+          "ModID": 47760,
+          "Name": "Sprint Stuttering Fix",
+          "Version": "1.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wK2r5Npq9lc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=62843\nfileID=272100",
-        "Name": "Perk Up-62843-1-4-1679946766.7z",
-        "Size": 15898,
+        "Hash": "XdtaFOjxXzo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=63391\nfileID=283476",
+        "Name": "Complex Vendors - FATE Fixes Patch-63391-1-0-1689498615.7z",
+        "Size": 547,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SpringHeelJon",
-          "Description": "Makes Fallout less annoying to play by fixing bugged perks, making underused perks viable and automating low skill actions.",
-          "FileID": 272100,
+          "Author": "VishVadeva50",
+          "Description": "Patches for UFO4P and more.",
+          "FileID": 283476,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/62843/62843-1659531328-97607560.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63391/63391-1660850021-114383590.png",
           "IsNSFW": false,
-          "ModID": 62843,
-          "Name": "Perk Up - Full Vanilla Plus perk Overhaul",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "n90iJOsSTvw=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=2304\nfileID=6839",
-        "Name": "RemoveBlur-2304-Final.zip",
-        "Size": 242,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "david88m",
-          "Description": "Small change that removes the blurring effect in weapons sight.",
-          "FileID": 6839,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/2304-1-1448289160.jpg",
-          "IsNSFW": false,
-          "ModID": 2304,
-          "Name": "Remove Ironsight Blur",
-          "Version": "Final"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "5lnqwWvOd70=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=33946\nfileID=221778",
-        "Name": "xSE PluginPreloader F4 0.2.5.1-33946-0-2-5-1-1637347868.zip",
-        "Size": 2253885,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Karandra",
-          "Description": "This mod allows preload F4SE plugins before the game initializes.",
-          "FileID": 221778,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33946/33946-1637514329-1439127529.png",
-          "IsNSFW": false,
-          "ModID": 33946,
-          "Name": "xSE PluginPreloader F4",
-          "Version": "0.2.5.1"
+          "ModID": 63391,
+          "Name": "Vish\u0027s Patch Hub (UFO4P)",
+          "Version": "1.0"
         }
       }
     },
@@ -1469,6 +1238,279 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "b3IMlDOoVr0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=26163\nfileID=114124",
+        "Name": "Unlimited Survival Mode - F4SE-26163-v1-4-0.7z",
+        "Size": 111275,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kassent",
+          "Description": "This is a F4SE plugin which restores some hard-coded features disabled by game in survival mode,for example,unlock console,enable TGM,enable fast travel,restore vanilla compass settings,enalbe quick save and auto save,etc .",
+          "FileID": 114124,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26163-0-1502835626.jpg",
+          "IsNSFW": false,
+          "ModID": 26163,
+          "Name": "Unlimited Survival Mode - F4SE",
+          "Version": "v1.4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sz127Q2IV88=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=19843\nfileID=81120",
+        "Name": "PBR-19843-1.rar",
+        "Size": 544134,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "dpillari",
+          "Description": "the wetsuit provided with Far harbor lacks any environmental mask(reflective data) in its material file. so i rewrote it to have the correct PBR data. ",
+          "FileID": 81120,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/19843-1-1478579737.jpg",
+          "IsNSFW": false,
+          "ModID": 19843,
+          "Name": "Marine Wet suit Material Fix",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8D/ulMJ3KhE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=46403\nfileID=277337",
+        "Name": "PRP Main-46403-69-1684167489.7z",
+        "Size": 2285889472,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BenRierimanu",
+          "Description": "Previsibines performance upgrade package for Fallout 4, covering the entire game. Depending on location, could give from 2 FPS to 30\u002B FPS increase, also includes any relevant bug fixes I can find and fix not already covered by UF4OP. Requires Season Pass / All main DLC.",
+          "FileID": 277337,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46403/46403-1633275924-24527580.jpeg",
+          "IsNSFW": false,
+          "ModID": 46403,
+          "Name": "Previsibines Repair Pack",
+          "Version": "0.55.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+SDYCwzzW1E=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56277\nfileID=284161",
+        "Name": "Thrive Redone-56277-3-3-1690052918.7z",
+        "Size": 27122,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "VishVadeva50",
+          "Description": "Balance overhaul inspired by the mod \u0022Thrive\u0022 and \u0022Fallout 4 Balance Patch\u0022 both made by BourneMcReady. Fixes balance issues with the original game and makes the survival aspect of it more challenging, removing shortcuts and silly mechanics. \n\nChoose your patches in the FOMOD.",
+          "FileID": 284161,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56277/56277-1640326661-974047198.png",
+          "IsNSFW": false,
+          "ModID": 56277,
+          "Name": "Thrive Redone",
+          "Version": "2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5lnqwWvOd70=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=33946\nfileID=221778",
+        "Name": "xSE PluginPreloader F4 0.2.5.1-33946-0-2-5-1-1637347868.zip",
+        "Size": 2253885,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Karandra",
+          "Description": "This mod allows preload F4SE plugins before the game initializes.",
+          "FileID": 221778,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33946/33946-1637514329-1439127529.png",
+          "IsNSFW": false,
+          "ModID": 33946,
+          "Name": "xSE PluginPreloader F4",
+          "Version": "0.2.5.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RMZT0rdd0eI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=63391\nfileID=247283",
+        "Name": "Complex Vendors - UFO4P Patch-63391-1-0-1660850468.7z",
+        "Size": 580,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "VishVadeva50",
+          "Description": "Patches for UFO4P and more.",
+          "FileID": 247283,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63391/63391-1660850021-114383590.png",
+          "IsNSFW": false,
+          "ModID": 63391,
+          "Name": "Vish\u0027s Patch Hub (UFO4P)",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Ba8gpxkxUjE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=26582\nfileID=120757",
+        "Name": "Better Console-26582-v1-4-0.7z",
+        "Size": 196118,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kassent",
+          "Description": "This is a F4SE plugin which makes console menu show extra useful infomation about selected target,for example, target\u0027s name, ID, baseID, mod name and so on.This plugin also add some extra info lists to console to show selected actor\u0027s all kinds of info like factions, perks, active effects, actor values, equipments and so on.",
+          "FileID": 120757,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26582-0-1504651363.jpg",
+          "IsNSFW": false,
+          "ModID": 26582,
+          "Name": "Better Console - F4SE",
+          "Version": "v1.4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wvfNBePIyHY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=47327\nfileID=191018",
+        "Name": "Addres Library-47327-1-10-163-0-1599728753.zip",
+        "Size": 9554761,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ryan",
+          "Description": "Provides version independent IDs used for dynamically relocating offsets at runtime.",
+          "FileID": 191018,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47327/47327-1599728447-276378518.png",
+          "IsNSFW": false,
+          "ModID": 47327,
+          "Name": "Address Library for F4SE Plugins",
+          "Version": "1.10.163.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gUmrI/LqsRE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=67185\nfileID=284146",
+        "Name": "Unlimited Survival Mode TMR Configuration-67185-1-0-1690044930.7z",
+        "Size": 678,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "VishVadeva50 - Wall_SoGB - Qolore7",
+          "Description": "Files needed while following The Midnight Ride.",
+          "FileID": 284146,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/67185/67185-1671761290-1927182522.png",
+          "IsNSFW": false,
+          "ModID": 67185,
+          "Name": "The Midnight Ride Resources",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "g5ifiXlK5w0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=73041\nfileID=283779",
+        "Name": "Clean And Simple Weapon Collision Box Fix-73041-1-00-1689740065.zip",
+        "Size": 3038,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Glitchfinder",
+          "Description": "Fixes the overly large collision boxes that leave some weapons floating or colliding over too large of an area.",
+          "FileID": 283779,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/73041/73041-1689954375-1168301691.png",
+          "IsNSFW": false,
+          "ModID": 73041,
+          "Name": "Clean And Simple Weapon Collision Box Fix",
+          "Version": "1.00"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "24eGCZGB3BU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53558\nfileID=277518",
+        "Name": "Kat\u0027s Power Armor Repair Kits-53558-1-6-1684364761.7z",
+        "Size": 2300258,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kaethela",
+          "Description": "Originally designed to make perk requirements from Some Assembly Required visible, this mod lets you repair power armor using repair kits. Includes optional support for Creation Club and mod-added power armor. All ESL-flagged ESP files.",
+          "FileID": 277518,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53558/53558-1627689578-352489049.jpeg",
+          "IsNSFW": false,
+          "ModID": 53558,
+          "Name": "Kat\u0027s Power Armor Repair Kits",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "n90iJOsSTvw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=2304\nfileID=6839",
+        "Name": "RemoveBlur-2304-Final.zip",
+        "Size": 242,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "david88m",
+          "Description": "Small change that removes the blurring effect in weapons sight.",
+          "FileID": 6839,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/2304-1-1448289160.jpg",
+          "IsNSFW": false,
+          "ModID": 2304,
+          "Name": "Remove Ironsight Blur",
+          "Version": "Final"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7Rx6x3PvTY4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56895\nfileID=270723",
+        "Name": "Weapon Scrapping Redone-56895-1-4-3-1678908157.7z",
+        "Size": 3444,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "VishVadeva50 - Audixas",
+          "Description": "Makes weapon scrapping return a bigger range of materials based on what they are actually made of and with balanced amounts.",
+          "FileID": 270723,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56895/56895-1640604282-690330556.png",
+          "IsNSFW": false,
+          "ModID": 56895,
+          "Name": "Weapon Scrapping Redone",
+          "Version": "1.3.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "o6oWTouG2sA=",
         "Meta": "[General]\ngameName=fallout4\nmodID=48078\nfileID=194684",
         "Name": "Weapon Debris Crash Fix-48078-1-2-1605028967.zip",
@@ -1490,21 +1532,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "535hYZ0peoA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=69715\nfileID=270832",
-        "Name": "Clothing Scrapping Redone-69715-1-3-1678996956.7z",
-        "Size": 3748,
+        "Hash": "ikYv6FfuILo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=63391\nfileID=283467",
+        "Name": "Better Power Armor - Redux - FATE Fixes Patch-63391-1-0-1689494205.7z",
+        "Size": 441,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "VishVadeva50",
-          "Description": "Makes clothing scrapping return a wider range of materials based on what they are actually made of and with balanced amounts.",
-          "FileID": 270832,
+          "Description": "Patches for UFO4P and more.",
+          "FileID": 283467,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69715/69715-1678881936-1176656117.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63391/63391-1660850021-114383590.png",
           "IsNSFW": false,
-          "ModID": 69715,
-          "Name": "Clothing Scrapping Redone",
-          "Version": "1.3"
+          "ModID": 63391,
+          "Name": "Vish\u0027s Patch Hub (UFO4P)",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/mSP6C5pFzQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=72657\nfileID=282361",
+        "Name": "Outfit ReDress Fix-72657-1-0-0-1688509648.zip",
+        "Size": 111508,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Snapdragon and GELUXRUM",
+          "Description": "Engine bug fix to prevent NPCs from defaulting their outfits.",
+          "FileID": 282361,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/72657/72657-1688684285-94326562.png",
+          "IsNSFW": false,
+          "ModID": 72657,
+          "Name": "F4SE Outfit ReDress Fix",
+          "Version": "1.0.0"
         }
       }
     },
