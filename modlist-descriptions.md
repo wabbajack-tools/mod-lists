@@ -22,6 +22,7 @@
     -   [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr)
     -   [Living Skyrim](#living-skyrim)
     -   [Lost Legacy](#lost-legacy)
+    -   [Nordic Souls](#nordic-souls)
     -   [RGE - Relics of Hyrule - Grand Admiral Thrawn Edition](#rge---relics-of-hyrule---grand-admiral-thrawn-edition)
     -   [Ro](#ro)
     -   [Ruvaak](#ruvaak)
@@ -281,6 +282,20 @@ Lost Legacy is a full on power fantasy modlist (Vokriinator + EnaiRim) with a ma
 [Shadow of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/65136)
 [Alternate Perspective - Alternate Start](https://www.nexusmods.com/skyrimspecialedition/mods/50307)
 [Vokriinator - Ordinator + Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/26702)
+
+---
+
+### [Nordic Souls](https://github.com/Geborgen/nordic-souls)
+
+Nordic Souls is a comprehensive visual and gameplay overhaul for Skyrim SE/AE designed to 'freshen up' and streamline the game while staying true to Skyrim's Nordic theme. It provides a perfect balance between a lot of lore-friendly content in the form of new quests and loot, a complete SimonRim gameplay overhaul, and beautiful yet performance-friendly visuals.
+
+**_Mods to get familiar with:_**
+
+[Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191)
+[Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839)
+[Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549)
+[Sil Gahrot - Improved Shouts Learning](https://www.nexusmods.com/skyrimspecialedition/mods/52007)
+[Cult of the World Eater - Dragon Priests Buff Alduin](https://www.nexusmods.com/skyrimspecialedition/mods/83274)
 
 ---
 
