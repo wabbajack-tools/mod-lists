@@ -1,11 +1,10 @@
 ## Validation Report - Aldrnari (wj-featured/aldrnari)
 
 
-### Invalid (1)
-*  [A0D789patch_v1_1.zip](https://www.patreon.com/file?h=69951525&i=11395543)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2673)
+### Valid (2674)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0.0) SELUA - Solitude Exterior LOD Unlocker Advocate II-36116-1-1-1605036920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169508)
 *  [(1.1) The Great City of Solitude PATCH - Solitude Skyway SE - Drengin's Blue Palace Terrace (STD)-36116-1-1-1604648419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=168848)
@@ -101,6 +100,7 @@
 *  [A Lovely Letter Alternate Routes-21916-1-0-1544983389.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21916/?tab=files&file_id=75329)
 *  [A Matter Of Time - Settings Loader-55365-2-1-1632020790.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55365/?tab=files&file_id=229283)
 *  [A Matter of Time - Simple preset-54159-1-01-1629728382.rar](https://www.nexusmods.com/skyrimspecialedition/mods/54159/?tab=files&file_id=223194)
+*  [A0D789patch_v1_1.zip](https://www.patreon.com/file?h=69951525&i=11395543)
 *  [AAR - Wabbajack-34197-0-9-1585599636.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34197/?tab=files&file_id=131539)
 *  [Abyssal Gaoler-36240-v1-3-1592606827.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36240/?tab=files&file_id=146520)
 *  [Action Based Projectiles - Odin Patch-54611-1-0-1630417776.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54611/?tab=files&file_id=225184)
