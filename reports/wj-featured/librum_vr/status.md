@@ -1,10 +1,11 @@
 ## Validation Report - Librum VR (wj-featured/librum_vr)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Librum_localization.7z](https://authored-files.wabbajack.org/Librum_localization.7z_8b186c9d-0e65-4e12-9e3a-6406686f48bd)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1196)
+### Valid (1195)
 *  [(1) Community Overlays 1 - Main - UNP  2K-22487-1-0-1-1547247749.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77985)
 *  [(1K) Skygazer Moons - Masser and Secunda HD Moons by fadingsignal-54349-1-0.rar](https://www.nexusmods.com/skyrim/mods/54349/?tab=files&file_id=1000110439)
 *  [(3) Community Overlays 2 - Main - UUNP and Male-26224-1-0-1559372410.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94369)
@@ -629,7 +630,6 @@
 *  [Librum_DynDOLOD.7z](https://authored-files.wabbajack.org/Librum_DynDOLOD.7z_a4cf0a2c-6912-401c-ae3e-fd484b3843c6)
 *  [Librum_facegen.7z](https://authored-files.wabbajack.org/Librum_facegen.7z_316a7cb9-9233-40ac-b345-9b5656f97ecb)
 *  [Librum_Grass.7z](https://authored-files.wabbajack.org/Librum_Grass.7z_4f991e53-47da-4d39-b096-52c07de48ac0)
-*  [Librum_localization.7z](https://authored-files.wabbajack.org/Librum_localization.7z_8b186c9d-0e65-4e12-9e3a-6406686f48bd)
 *  [Librum_xLODGen.7z](https://wabbajack.b-cdn.net/Librum_xLODGen.7z_84c16023-a9a7-4a16-b12c-ac3a2e33ad1b)
 *  [Lizards Don't Wear Shoes-44986-v1-0-1611904049.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44986/?tab=files&file_id=182555)
 *  [Locational Damage(SKSE Plugin) 1.0.0 for SkyrimSE-46932-1-0-0-1615646284.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46932/?tab=files&file_id=191250)
