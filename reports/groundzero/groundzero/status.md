@@ -1,11 +1,10 @@
 ## Validation Report - Ground Zero (groundzero/groundzero)
 
 
-### Invalid (1)
-*  [enbseries_fallout4_v0489.zip](https://authored-files.wabbajack.org/enbseries_fallout4_v0489.zip_4495643b-5408-4267-8a4f-ba2e8f45b0c6)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (350)
+### Valid (351)
 *  [_Sound Zero_-45659-2-1605358427.7z](https://www.nexusmods.com/fallout4/mods/45659/?tab=files&file_id=194937)
 *  [.44 Magnum Standard Resolution-4383-v1-1.rar](https://www.nexusmods.com/fallout4/mods/4383/?tab=files&file_id=14191)
 *  [(.BA2 Version) Ultimate Window Overhaul Redone-43458-4-1-1678236310.rar](https://www.nexusmods.com/fallout4/mods/43458/?tab=files&file_id=269724)
@@ -103,6 +102,7 @@
 *  [ECO-55503-3-5-3-1669298132.7z](https://www.nexusmods.com/fallout4/mods/55503/?tab=files&file_id=258000)
 *  [ENB HQ Raindrops 2-61891-1-0-1656971009.rar](https://www.nexusmods.com/fallout4/mods/61891/?tab=files&file_id=242456)
 *  [enbseries_fallout4_v0478.zip](https://authored-files.wabbajack.org/enbseries_fallout4_v0478.zip_30119acb-3de8-46d3-8622-fc86064e9e19)
+*  [enbseries_fallout4_v0489.zip](https://authored-files.wabbajack.org/enbseries_fallout4_v0489.zip_4495643b-5408-4267-8a4f-ba2e8f45b0c6)
 *  [ESP fix-56031-1-1-1638422518.7z](https://www.nexusmods.com/fallout4/mods/56031/?tab=files&file_id=222802)
 *  [Existence 2.0-2626-0-03.zip](https://www.nexusmods.com/fallout4/mods/2626/?tab=files&file_id=34020)
 *  [Extended Dialogue Interface 1.3.6-27216-1-3-6-1575706721.zip](https://www.nexusmods.com/fallout4/mods/27216/?tab=files&file_id=172181)
