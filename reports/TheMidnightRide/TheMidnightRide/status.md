@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (76)
+### Valid (97)
 *  [3rd Person Behavior Fixes-69243-v1-3-1678132954.7z](https://www.nexusmods.com/fallout4/mods/69243/?tab=files&file_id=269545)
 *  [Addres Library-47327-1-10-163-0-1599728753.zip](https://www.nexusmods.com/fallout4/mods/47327/?tab=files&file_id=191018)
 *  [AmmoRemover v1.0.5-64426-1-0-5-1664930424.rar](https://www.nexusmods.com/fallout4/mods/64426/?tab=files&file_id=252499)
@@ -12,19 +12,25 @@
 *  [Better Console-26582-v1-4-0.7z](https://www.nexusmods.com/fallout4/mods/26582/?tab=files&file_id=120757)
 *  [Better Power Armor - Redux - FATE Fixes Patch-63391-1-0-1689494205.7z](https://www.nexusmods.com/fallout4/mods/63391/?tab=files&file_id=283467)
 *  [Better Power Armor - Redux-61146-1-2-2-1659984929.zip](https://www.nexusmods.com/fallout4/mods/61146/?tab=files&file_id=246140)
+*  bink2w64.dll
 *  [Buffout 4-47359-1-28-6-1689574368.zip](https://www.nexusmods.com/fallout4/mods/47359/?tab=files&file_id=283602)
 *  [Bullet Counted Reload - v.2.00-41178-2-00-1622713974.zip](https://www.nexusmods.com/fallout4/mods/41178/?tab=files&file_id=209407)
-*  [Clean And Simple Weapon Collision Box Fix-73041-1-00-1689740065.zip](https://www.nexusmods.com/fallout4/mods/73041/?tab=files&file_id=283779)
 *  [Clothing Scrapping Redone-69715-1-3-1678996956.7z](https://www.nexusmods.com/fallout4/mods/69715/?tab=files&file_id=270832)
-*  [Complex Vendors - FATE Fixes Patch-63391-1-0-1689498615.7z](https://www.nexusmods.com/fallout4/mods/63391/?tab=files&file_id=283476)
+*  [Complex Vendors - FATE Fixes Patch-63391-1-0-1690754308.7z](https://www.nexusmods.com/fallout4/mods/63391/?tab=files&file_id=284918)
 *  [Complex Vendors - UFO4P Patch-63391-1-0-1660850468.7z](https://www.nexusmods.com/fallout4/mods/63391/?tab=files&file_id=247283)
 *  [Complex Vendors-47364-1-0-0-1689500109.zip](https://www.nexusmods.com/fallout4/mods/47364/?tab=files&file_id=283481)
 *  [Console Commands Extender-47328-1-2-0-1623433336.zip](https://www.nexusmods.com/fallout4/mods/47328/?tab=files&file_id=210053)
 *  [Crafting Highlight Fix 1.8.8-27479-1-8-8-1576067808.zip](https://www.nexusmods.com/fallout4/mods/27479/?tab=files&file_id=172411)
+*  cudart64_75.dll
 *  [Encounter Zone Recalculation-45674-1-0-1592086483.zip](https://www.nexusmods.com/fallout4/mods/45674/?tab=files&file_id=184238)
 *  [Enhanced Vanilla Armor and Clothing 2k-72546-1-1-1689636345.zip](https://www.nexusmods.com/fallout4/mods/72546/?tab=files&file_id=283675)
 *  [Extended Dialogue Interface 1.3.6-27216-1-3-6-1575706721.zip](https://www.nexusmods.com/fallout4/mods/27216/?tab=files&file_id=172181)
 *  [Fallout 4 Script Extender (F4SE)-42147-0-6-23-1665656782.7z](https://www.nexusmods.com/fallout4/mods/42147/?tab=files&file_id=253313)
+*  Fallout4_Default.ini
+*  Fallout4_Fallout4Prefs.ini
+*  Fallout4.ccc
+*  Fallout4.exe
+*  Fallout4Launcher.exe
 *  [FallUI - Confirm Boxes-48958-2-2-3-1667318727.rar](https://www.nexusmods.com/fallout4/mods/48958/?tab=files&file_id=255391)
 *  [FallUI - HUD-51813-1-7-1-1668637124.rar](https://www.nexusmods.com/fallout4/mods/51813/?tab=files&file_id=257220)
 *  [FallUI - Inventory-48758-2-2-1-1666954336.rar](https://www.nexusmods.com/fallout4/mods/48758/?tab=files&file_id=254844)
@@ -32,13 +38,19 @@
 *  [FallUI - Sleep And Wait-49070-1-4-1668288607.rar](https://www.nexusmods.com/fallout4/mods/49070/?tab=files&file_id=256778)
 *  [FallUI - Workbench-49300-1-4-1-r2-1667395902.rar](https://www.nexusmods.com/fallout4/mods/49300/?tab=files&file_id=255499)
 *  [Far Harbor Boots-19681-0-4.7z](https://www.nexusmods.com/fallout4/mods/19681/?tab=files&file_id=80736)
-*  [FATE Installer-72679-1-6-0-1689885638.zip](https://www.nexusmods.com/fallout4/mods/72679/?tab=files&file_id=283989)
+*  [FATE Installer-72679-1-7-0-1690746668.zip](https://www.nexusmods.com/fallout4/mods/72679/?tab=files&file_id=284911)
 *  [FavoritesMenuEx-66690-1-0-8-1685951385.zip](https://www.nexusmods.com/fallout4/mods/66690/?tab=files&file_id=279421)
 *  [Fixed Gobo Effects-27445-2-1-2-1667131938.zip](https://www.nexusmods.com/fallout4/mods/27445/?tab=files&file_id=255106)
+*  flexExtRelease_x64.dll
+*  flexRelease_x64.dll
 *  [GCBugFix Release 0.1-68681-0-1-1675995705.zip](https://www.nexusmods.com/fallout4/mods/68681/?tab=files&file_id=266866)
+*  GFSDK_GodraysLib.x64.dll
+*  GFSDK_SSAO_D3D11.win64.dll
 *  [High FPS Physics Fix-44798-0-8-6-1656849140.zip](https://www.nexusmods.com/fallout4/mods/44798/?tab=files&file_id=242328)
+*  High.ini
 *  [Hotfix-72546-1-1-1-1689800403.7z](https://www.nexusmods.com/fallout4/mods/72546/?tab=files&file_id=283841)
 *  [HUDFramework 1.0f-20309-1-0f.zip](https://www.nexusmods.com/fallout4/mods/20309/?tab=files&file_id=93183)
+*  installscript.vdf
 *  [Institute and standard lasers-23102-1-5-2-1649963564.7z](https://www.nexusmods.com/fallout4/mods/23102/?tab=files&file_id=234845)
 *  [Interior NavCut Fix-72904-1-0-3-1689890239.zip](https://www.nexusmods.com/fallout4/mods/72904/?tab=files&file_id=283994)
 *  [Jet Script Bugfix-48770-1-1-1607160392.zip](https://www.nexusmods.com/fallout4/mods/48770/?tab=files&file_id=196281)
@@ -46,33 +58,42 @@
 *  [Legendary Drop Bugfix-61199-1-0-1654941239.zip](https://www.nexusmods.com/fallout4/mods/61199/?tab=files&file_id=240268)
 *  [Less intrusive tutorial-66180-1-0-1668690120.zip](https://www.nexusmods.com/fallout4/mods/66180/?tab=files&file_id=257280)
 *  [Lightweight Lighting-57680-3-2-1-1680115340.7z](https://www.nexusmods.com/fallout4/mods/57680/?tab=files&file_id=272297)
+*  Low.ini
 *  [MCM Booster-56997-1-0-1641058633.rar](https://www.nexusmods.com/fallout4/mods/56997/?tab=files&file_id=225311)
 *  [MCM Categorizer-66311-1-0-1-1669165362.rar](https://www.nexusmods.com/fallout4/mods/66311/?tab=files&file_id=257841)
 *  [MCM Settings Manager-56195-1-2-1668562769.rar](https://www.nexusmods.com/fallout4/mods/56195/?tab=files&file_id=257096)
+*  Medium.ini
 *  [MGEF Condition Bug Fix-69096-v1-0-1677299138.7z](https://www.nexusmods.com/fallout4/mods/69096/?tab=files&file_id=268485)
 *  [Mod Configuration Menu 1.39-21497-1-39-1575706632.zip](https://www.nexusmods.com/fallout4/mods/21497/?tab=files&file_id=172180)
 *  [Mod.Organizer-2.4.5alpha3.7z](https://mega.nz/file/EmxzyLLb#0y6vxJ6iy0QRWNn2wTXV56CMkhyfAF8MunZ_w1RfeKE)
+*  msvcp110.dll
+*  msvcr110.dll
+*  nvdebris.txt
+*  nvToolsExt64_1.dll
 *  [Outfit ReDress Fix-72657-1-0-0-1688509648.zip](https://www.nexusmods.com/fallout4/mods/72657/?tab=files&file_id=282361)
 *  [PA HoloHUD-29969-1-1-1551627811.7z](https://www.nexusmods.com/fallout4/mods/29969/?tab=files&file_id=153467)
 *  [PA Ownership Fix (with No PA Battery Pathing)-52315-1-0-1622200319.rar](https://www.nexusmods.com/fallout4/mods/52315/?tab=files&file_id=208918)
 *  [PBR-19843-1.rar](https://www.nexusmods.com/fallout4/mods/19843/?tab=files&file_id=81120)
 *  [PBR-19854-.rar](https://www.nexusmods.com/fallout4/mods/19854/?tab=files&file_id=81154)
+*  [Perennial Power Armor-63220-1-3-1690115176.7z](https://www.nexusmods.com/fallout4/mods/63220/?tab=files&file_id=284247)
 *  [PRP Main-46403-69-1684167489.7z](https://www.nexusmods.com/fallout4/mods/46403/?tab=files&file_id=277337)
 *  [PRP Updates Hotfix-46403-69-4-1689123949.7z](https://www.nexusmods.com/fallout4/mods/46403/?tab=files&file_id=283080)
 *  [PRP Updates-46403-69-3-1684168412.7z](https://www.nexusmods.com/fallout4/mods/46403/?tab=files&file_id=277340)
 *  [Reload Fix-68931-v1-2-4-1683957422.7z](https://www.nexusmods.com/fallout4/mods/68931/?tab=files&file_id=277076)
 *  [RemoveBlur-2304-Final.zip](https://www.nexusmods.com/fallout4/mods/2304/?tab=files&file_id=6839)
-*  [RobCo Patcher-69798-3-2-4-1689958340.zip](https://www.nexusmods.com/fallout4/mods/69798/?tab=files&file_id=284067)
+*  [RobCo Patcher-69798-3-2-5-1690128606.zip](https://www.nexusmods.com/fallout4/mods/69798/?tab=files&file_id=284269)
 *  [Root Builder 4.4.2-31720-4-4-2-1676456105.zip](https://www.nexusmods.com/skyrimspecialedition/mods/31720/?tab=files&file_id=359947)
 *  [Running Hands Loose Files 1.1-62240-1-1-1658520530.zip](https://www.nexusmods.com/fallout4/mods/62240/?tab=files&file_id=244132)
 *  [Shadow Boost INI-67185-1-0-1671761877.7z](https://www.nexusmods.com/fallout4/mods/67185/?tab=files&file_id=261268)
 *  [ShadowBoostFO4-63482-1-7-1663948952.zip](https://www.nexusmods.com/fallout4/mods/63482/?tab=files&file_id=251460)
 *  [Sprint Stuttering Fix-47760-1-2-1607200820.zip](https://www.nexusmods.com/fallout4/mods/47760/?tab=files&file_id=196371)
+*  steam_api64.dll
 *  [Swimming Loose Files 1.0 Redo-62123-1-0-1657604770.zip](https://www.nexusmods.com/fallout4/mods/62123/?tab=files&file_id=243154)
 *  [Targeted Textures-62958-2-2-1683982900.7z](https://www.nexusmods.com/fallout4/mods/62958/?tab=files&file_id=277109)
 *  [Terrain Undersides-50837-5-0-1662977532.7z](https://www.nexusmods.com/fallout4/mods/50837/?tab=files&file_id=250407)
-*  [Thrive Redone-56277-3-3-1690052918.7z](https://www.nexusmods.com/fallout4/mods/56277/?tab=files&file_id=284161)
+*  [Thrive Redone-56277-3-3-2-1690754272.7z](https://www.nexusmods.com/fallout4/mods/56277/?tab=files&file_id=284917)
 *  [True Invisibility 3.2 FOMOD-47549-3-2-1609275488.7z](https://www.nexusmods.com/fallout4/mods/47549/?tab=files&file_id=197824)
+*  Ultra.ini
 *  [Unlimited Survival Mode - F4SE-26163-v1-4-0.7z](https://www.nexusmods.com/fallout4/mods/26163/?tab=files&file_id=114124)
 *  [Unlimited Survival Mode TMR Configuration-67185-1-0-1690044930.7z](https://www.nexusmods.com/fallout4/mods/67185/?tab=files&file_id=284146)
 *  [Unofficial Fallout 4 Patch-4598-2-1-5-1679096028.7z](https://www.nexusmods.com/fallout4/mods/4598/?tab=files&file_id=270951)
