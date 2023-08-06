@@ -1,10 +1,11 @@
 ## Validation Report - Ascensio (WakingDreams/ascensio)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Dave Polar Peaks Stonewalls for SLO - Stone Walls.7z](https://authored-files.wabbajack.org/Dave Polar Peaks Stonewalls for SLO - Stone Walls.7z_4aded51e-df84-4d0f-90aa-66eac732c232)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1129)
+### Valid (1128)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(1) Community Overlays 1 - Main - UNP  2K-22487-1-0-1-1547247749.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77985)
 *  [(4) Alchemy Station Variants - Persistent Swap ENB-92768-1-2-1685974888.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=395295)
@@ -315,7 +316,6 @@
 *  Data_Skyrim.esm
 *  Data_Update.esm
 *  Data_Video_BGS_Logo.bik
-*  [Dave Polar Peaks Stonewalls for SLO - Stone Walls.7z](https://authored-files.wabbajack.org/Dave Polar Peaks Stonewalls for SLO - Stone Walls.7z_4aded51e-df84-4d0f-90aa-66eac732c232)
 *  [Dave's Lilypads 2K-26747-1-1-1565804498.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26747/?tab=files&file_id=102993)
 *  [Dawnguard Armors and Weapons Retexture SE-92161-1-0-1685045655.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92161/?tab=files&file_id=391867)
 *  [DDS Workshop - Books and Paper Retexture.7z](https://authored-files.wabbajack.org/DDS Workshop - Books and Paper Retexture.7z_4e17f485-5671-4b2b-af62-9aa2e0c772b6)
