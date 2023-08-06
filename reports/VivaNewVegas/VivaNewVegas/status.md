@@ -47,7 +47,7 @@
 *  Data_OldWorldBlues - Main.bsa
 *  Data_OldWorldBlues.esm
 *  Data_Update.bsa
-*  [Delay DLC Redux-75851-2-0-1690680907.rar](https://www.nexusmods.com/newvegas/mods/75851/?tab=files&file_id=1000113877)
+*  [Delay DLC Redux-75851-2-1-1691048078.rar](https://www.nexusmods.com/newvegas/mods/75851/?tab=files&file_id=1000114202)
 *  [Depth of Field Fix-81200-1-0-1684509397.7z](https://www.nexusmods.com/newvegas/mods/81200/?tab=files&file_id=1000109523)
 *  [Desert Natural Weathers - YUP Patch-77945-1-0-1689625057.7z](https://www.nexusmods.com/newvegas/mods/77945/?tab=files&file_id=1000113222)
 *  [Desert Natural Weathers NV-75437-6-8-1690656828.7z](https://www.nexusmods.com/newvegas/mods/75437/?tab=files&file_id=1000113853)
@@ -105,7 +105,7 @@
 *  [Mojave Raiders Tweaks-79358-1-0-1689623731.7z](https://www.nexusmods.com/newvegas/mods/79358/?tab=files&file_id=1000113219)
 *  [Mojave Raiders-64660-1-2-5-1690026904.7z](https://www.nexusmods.com/newvegas/mods/64660/?tab=files&file_id=1000113459)
 *  [MoonlightNVSE-77683-1-5-1-1674501706.7z](https://www.nexusmods.com/newvegas/mods/77683/?tab=files&file_id=1000103994)
-*  [More LODs Additions and fixes-81751-0-7-1689798766.zip](https://www.nexusmods.com/newvegas/mods/81751/?tab=files&file_id=1000113331)
+*  [More LODs Additions and fixes-81751-0-8-1691059622.zip](https://www.nexusmods.com/newvegas/mods/81751/?tab=files&file_id=1000114210)
 *  [Muzzle Flash Light Fix-81201-1-0-1684516610.7z](https://www.nexusmods.com/newvegas/mods/81201/?tab=files&file_id=1000109533)
 *  [Navmesh Overhaul VNV Patch-79358-1-0-1689449858.7z](https://www.nexusmods.com/newvegas/mods/79358/?tab=files&file_id=1000113120)
 *  [Navmesh Overhaul-81003-4-0-1688996971.zip](https://www.nexusmods.com/newvegas/mods/81003/?tab=files&file_id=1000112821)

@@ -1,8 +1,8 @@
 {
   "MachineURL": "VivaNewVegas/VivaNewVegas",
   "Name": "Viva New Vegas",
-  "Version": "26.7.23",
-  "ModListHash": "hGAL96xmpn4=",
+  "Version": "3.8.23",
+  "ModListHash": "c0k5lH4mXqc=",
   "Archives": [
     {
       "Status": "Valid",
@@ -328,15 +328,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hZanr+7Qty0=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=81751\nfileID=1000113331",
-        "Name": "More LODs Additions and fixes-81751-0-7-1689798766.zip",
-        "Size": 891930,
+        "Hash": "48G7n/WpXEE=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=81751\nfileID=1000114210",
+        "Name": "More LODs Additions and fixes-81751-0-8-1691059622.zip",
+        "Size": 1051032,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Osip",
           "Description": "This mod add LOD for a few objects and fixes some vanilla LOD meshes.",
-          "FileID": 1000113331,
+          "FileID": 1000114210,
           "GameName": "FalloutNewVegas",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81751/81751-1687463780-454868802.png",
           "IsNSFW": false,
@@ -601,27 +601,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qJ5hAVMHWtA=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=77781\nfileID=1000096960",
-        "Name": "No Muzzle Flash Lights-77781-2-0-1659534450.7z",
-        "Size": 738,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "c6",
-          "Description": "Improves game performance in combat by disabling lights produced by muzzle flashes.",
-          "FileID": 1000096960,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77781/77781-1659534301-1297496060.png",
-          "IsNSFW": false,
-          "ModID": 77781,
-          "Name": "No Muzzle Flash Lights",
-          "Version": "2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "+t7i+JuMqIk=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=51664\nfileID=1000113779",
         "Name": "YUP - Base Game and All DLC-51664-12-8-1690541884.7z",
@@ -742,6 +721,27 @@
           "ModID": 61592,
           "Name": "JSawyer Ultimate Edition",
           "Version": "5.3.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DDjTy1bH6mw=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=81775\nfileID=1000112053",
+        "Name": "PipBoyOn Node Fixes NV-81775-1-2-1687938199.7z",
+        "Size": 1987271,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kiwi",
+          "Description": "Fixes multiple pipboy:on nodes in the vanilla game armor meshes and TTW. As well as any other mods I decide to fix.",
+          "FileID": 1000112053,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81775/81775-1687576252-1592102725.png",
+          "IsNSFW": false,
+          "ModID": 81775,
+          "Name": "PipBoyOn Node Fixes",
+          "Version": "1.1"
         }
       }
     },
@@ -1054,21 +1054,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+jhQKRgtn1U=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=68776\nfileID=1000104283",
-        "Name": "NVCS Vanilla Weights-68776-13-1675087221.7z",
-        "Size": 17612,
+        "Hash": "uQirqmcN9g8=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=67761\nfileID=1000057020",
+        "Name": "Faster Pip-Boy Animation (2x)-67761-1-0-1571797210.zip",
+        "Size": 7021,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Various",
-          "Description": "A skeleton with compatibility for the latest mods",
-          "FileID": 1000104283,
+          "Author": "ceski",
+          "Description": "Modifies the Pip-Boy animation to be 2x or 3x faster than default. Works with most Pip-Boy mods.",
+          "FileID": 1000057020,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/68776/68776-1588193623-909988060.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/67761/67761-1571799036-1230930965.jpeg",
           "IsNSFW": false,
-          "ModID": 68776,
-          "Name": "NV Compatibility Skeleton",
-          "Version": "12"
+          "ModID": 67761,
+          "Name": "Faster Pip-Boy Animation",
+          "Version": "1.0"
         }
       }
     },
@@ -1243,22 +1243,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/0RwKlSTaUI=",
-        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Data\\Update.bsa",
-        "Name": "Data_Update.bsa",
-        "Size": 17250402,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "FalloutNewVegas",
-          "GameFile": "Data\\Update.bsa",
-          "GameVersion": "1.4.0.525",
-          "Hash": "/0RwKlSTaUI="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "K3wDmNdcFbQ=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=79378\nfileID=1000113067",
         "Name": "Atmospheric Lighting Tweaks - FNV-79378-1-3-1689383101.zip",
@@ -1385,42 +1369,37 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "DDjTy1bH6mw=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=81775\nfileID=1000112053",
-        "Name": "PipBoyOn Node Fixes NV-81775-1-2-1687938199.7z",
-        "Size": 1987271,
+        "Hash": "qJ5hAVMHWtA=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=77781\nfileID=1000096960",
+        "Name": "No Muzzle Flash Lights-77781-2-0-1659534450.7z",
+        "Size": 738,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kiwi",
-          "Description": "Fixes multiple pipboy:on nodes in the vanilla game armor meshes and TTW. As well as any other mods I decide to fix.",
-          "FileID": 1000112053,
+          "Author": "c6",
+          "Description": "Improves game performance in combat by disabling lights produced by muzzle flashes.",
+          "FileID": 1000096960,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81775/81775-1687576252-1592102725.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77781/77781-1659534301-1297496060.png",
           "IsNSFW": false,
-          "ModID": 81775,
-          "Name": "PipBoyOn Node Fixes",
-          "Version": "1.1"
+          "ModID": 77781,
+          "Name": "No Muzzle Flash Lights",
+          "Version": "2.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "UFYEsUl1dao=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=69779\nfileID=1000099781",
-        "Name": "NVHR-69779-4-2-1665589730.7z",
-        "Size": 116756,
+        "Hash": "/0RwKlSTaUI=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Data\\Update.bsa",
+        "Name": "Data_Update.bsa",
+        "Size": 17250402,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "iranrmrf",
-          "Description": "This library will replace the in-game heap with a faster, more optimized version. It should decrease load times, remove some stutter and slightly improve frame rate.",
-          "FileID": 1000099781,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/69779/69779-1598478840-261539760.png",
-          "IsNSFW": false,
-          "ModID": 69779,
-          "Name": "New Vegas Heap Replacer",
-          "Version": "3.2"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Data\\Update.bsa",
+          "GameVersion": "1.4.0.525",
+          "Hash": "/0RwKlSTaUI="
         }
       }
     },
@@ -1526,6 +1505,27 @@
           "ModID": 80443,
           "Name": "Exterior Emittance Fix - NVSE",
           "Version": "1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UFYEsUl1dao=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=69779\nfileID=1000099781",
+        "Name": "NVHR-69779-4-2-1665589730.7z",
+        "Size": 116756,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "iranrmrf",
+          "Description": "This library will replace the in-game heap with a faster, more optimized version. It should decrease load times, remove some stutter and slightly improve frame rate.",
+          "FileID": 1000099781,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/69779/69779-1598478840-261539760.png",
+          "IsNSFW": false,
+          "ModID": 69779,
+          "Name": "New Vegas Heap Replacer",
+          "Version": "3.2"
         }
       }
     },
@@ -1652,6 +1652,27 @@
           "ModID": 75417,
           "Name": "ISControl Enabler",
           "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+jhQKRgtn1U=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=68776\nfileID=1000104283",
+        "Name": "NVCS Vanilla Weights-68776-13-1675087221.7z",
+        "Size": 17612,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Various",
+          "Description": "A skeleton with compatibility for the latest mods",
+          "FileID": 1000104283,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/68776/68776-1588193623-909988060.jpeg",
+          "IsNSFW": false,
+          "ModID": 68776,
+          "Name": "NV Compatibility Skeleton",
+          "Version": "12"
         }
       }
     },
@@ -2021,48 +2042,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WyHPL3nOWI0=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=76522\nfileID=1000108762",
-        "Name": "Stewie Tweaks Essentials INI-76522-1-05-1683267928.7z",
-        "Size": 30122,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lStewieAl",
-          "Description": "A Tweaks .ini with just the essential bugfix and quality-of-life settings enabled, hand-picked by the GOAT himself",
-          "FileID": 1000108762,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/76522/76522-1652302112-227812537.png",
-          "IsNSFW": false,
-          "ModID": 76522,
-          "Name": "Stewie Tweaks Essentials INI",
-          "Version": "1.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cd4A7OvEW3g=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=80360\nfileID=1000106294",
-        "Name": "Harder Barter Faster Stronger-80360-1-01-1678556512.rar",
-        "Size": 405,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "S6S",
-          "Description": "This small GameSetting tweak makes the economy harsher for characters with low barter, makes barter affect prices more, and slightly narrows the difference between max sell and min buy prices.",
-          "FileID": 1000106294,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/80360/80360-1678479030-1595403157.png",
-          "IsNSFW": false,
-          "ModID": 80360,
-          "Name": "Harder Barter Faster Stronger",
-          "Version": "1.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "NGPHwPmByXI=",
         "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Data\\LonesomeRoad.esm",
         "Name": "Data_LonesomeRoad.esm",
@@ -2247,36 +2226,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uQirqmcN9g8=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=67761\nfileID=1000057020",
-        "Name": "Faster Pip-Boy Animation (2x)-67761-1-0-1571797210.zip",
-        "Size": 7021,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ceski",
-          "Description": "Modifies the Pip-Boy animation to be 2x or 3x faster than default. Works with most Pip-Boy mods.",
-          "FileID": 1000057020,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/67761/67761-1571799036-1230930965.jpeg",
-          "IsNSFW": false,
-          "ModID": 67761,
-          "Name": "Faster Pip-Boy Animation",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6H2ByW9ZAm4=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=75851\nfileID=1000113877",
-        "Name": "Delay DLC Redux-75851-2-0-1690680907.rar",
-        "Size": 17508,
+        "Hash": "LBGBFJAEHRc=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=75851\nfileID=1000114202",
+        "Name": "Delay DLC Redux-75851-2-1-1691048078.rar",
+        "Size": 17493,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "shad0wshayd3",
           "Description": "Delay DLC for FNV and TTW 3.3, remade from the ground up",
-          "FileID": 1000113877,
+          "FileID": 1000114202,
           "GameName": "FalloutNewVegas",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/75851/75851-1648189025-1904470742.png",
           "IsNSFW": false,
@@ -2586,6 +2544,48 @@
           "ModID": 77957,
           "Name": "Pip-Boy Shading Fix NVSE",
           "Version": "1.0a"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WyHPL3nOWI0=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=76522\nfileID=1000108762",
+        "Name": "Stewie Tweaks Essentials INI-76522-1-05-1683267928.7z",
+        "Size": 30122,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lStewieAl",
+          "Description": "A Tweaks .ini with just the essential bugfix and quality-of-life settings enabled, hand-picked by the GOAT himself",
+          "FileID": 1000108762,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/76522/76522-1652302112-227812537.png",
+          "IsNSFW": false,
+          "ModID": 76522,
+          "Name": "Stewie Tweaks Essentials INI",
+          "Version": "1.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cd4A7OvEW3g=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=80360\nfileID=1000106294",
+        "Name": "Harder Barter Faster Stronger-80360-1-01-1678556512.rar",
+        "Size": 405,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "S6S",
+          "Description": "This small GameSetting tweak makes the economy harsher for characters with low barter, makes barter affect prices more, and slightly narrows the difference between max sell and min buy prices.",
+          "FileID": 1000106294,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/80360/80360-1678479030-1595403157.png",
+          "IsNSFW": false,
+          "ModID": 80360,
+          "Name": "Harder Barter Faster Stronger",
+          "Version": "1.01"
         }
       }
     },

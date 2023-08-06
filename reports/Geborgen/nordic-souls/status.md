@@ -1,10 +1,11 @@
 ## Validation Report - Nordic Souls (Geborgen/nordic-souls)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Vanguard+2_2.rar](https://www.skyrim-guild.com/s/Vanguard-2_2.rar)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1594)
+### Valid (1593)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -1497,7 +1498,6 @@
 *  [Vanargand Animations - Sneak Idle Walk and Run-54351-1-1-1630433273.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54351/?tab=files&file_id=225228)
 *  [Vanargand Animations - Sneak Strike Attacks-55420-1-1-1631370169.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55420/?tab=files&file_id=227635)
 *  [Vanargand Animations - Sneak Thrust Attacks 1.1b-55031-1-1b-1630961280.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55031/?tab=files&file_id=226584)
-*  [Vanguard+2_2.rar](https://www.skyrim-guild.com/s/Vanguard-2_2.rar)
 *  [Vanilla Table Replacers 2k 1k-33041-1-0-1582624434.zip](https://www.nexusmods.com/skyrimspecialedition/mods/33041/?tab=files&file_id=125783)
 *  [Versatile Item and Group Re-Assignment-85419-1-0-1-1-1687909324.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85419/?tab=files&file_id=401696)
 *  [Vestige - An Artifact Overhaul-85301-2-2-1687107310.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85301/?tab=files&file_id=398981)
