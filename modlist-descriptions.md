@@ -215,7 +215,7 @@ Fahluaan (fa·lu·an) is a comprehensive modlist for Skyrim Anniversary Edition 
  - New, high quality quest mods to provide tens to hundreds of hours of additional content.
  - Hundreds of custom patches and mods to provide a unique experience found nowhere else.
 
-**_Mods to get familiar with:_**
+**_Learn More:_**
 
 -   [Full Modlist](https://loadorderlibrary.com/lists/fahluaan)
 -   [Gameplay Guide](https://github.com/Oghma-Infinium/Fahluaan/blob/main/GAMEPLAY.md)
