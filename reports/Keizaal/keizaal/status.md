@@ -1,11 +1,10 @@
 ## Validation Report - Keizaal (Keizaal/keizaal)
 
 
-### Invalid (1)
-*  [BolarTheWatcher.zip](https://drive.google.com/uc?id=1TpHJaos3j-wfG80TOQWsfqnzrzTh3QT2&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (594)
+### Valid (595)
 *  [(beta) Wade In Water Animations-34006-1-42-1649385492.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34006/?tab=files&file_id=275559)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -86,6 +85,7 @@
 *  [Blended Roads-8834-1-7-1586448385.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8834/?tab=files&file_id=133231)
 *  [Blood Horker-13938-1-1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13938/?tab=files&file_id=61794)
 *  [BOGMORT-22447-2-0-1640831885.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22447/?tab=files&file_id=252590)
+*  [BolarTheWatcher.zip](https://drive.google.com/uc?id=1TpHJaos3j-wfG80TOQWsfqnzrzTh3QT2&export=download)
 *  [Bone Wolf and Plague of the dead Patch-55201-1-0-1630955478.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55201/?tab=files&file_id=226568)
 *  [Book Covers Skyrim SE - Desaturated.7z-901-4-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/901/?tab=files&file_id=40355)
 *  [Bounty Preview-33877-2-0-0-1585402339.zip](https://www.nexusmods.com/skyrimspecialedition/mods/33877/?tab=files&file_id=130987)
