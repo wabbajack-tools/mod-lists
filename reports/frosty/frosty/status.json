@@ -1,8 +1,8 @@
 {
   "MachineURL": "frosty/frosty",
   "Name": "Stay FROSTy",
-  "Version": "1.2.2",
-  "ModListHash": "kgVC1rql6k8=",
+  "Version": "1.3",
+  "ModListHash": "tBYJXjVMgN0=",
   "Archives": [
     {
       "Status": "Valid",
@@ -15,20 +15,6 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "21h4TOKduN0=",
-        "Meta": "[General]\ndirectURL=https://f4se.silverlock.org/beta/f4se_0_06_23.7z",
-        "Name": "f4se_0_06_23.7z",
-        "Size": 650275,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://f4se.silverlock.org/beta/f4se_0_06_23.7z"
         }
       }
     },
@@ -56,84 +42,105 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "V2GEpdWVqf0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=31855\nfileID=130010",
-        "Name": "9x39Project Addon Replacer-31855-1-1a.zip",
-        "Size": 284199958,
+        "Hash": "MGGXgy1mAWo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=21142\nfileID=87199",
+        "Name": ".45 Auto Pistol Ha_ru anims-21142-1-2-1.zip",
+        "Size": 42546702,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "The Shiny Haxorus",
-          "Description": "A reanimation of the AS VAL/VSS 9x39 Project. Various nif/plugin/material changes/additions. Love this mod but a bit bored of it? This is for you!",
-          "FileID": 130010,
+          "Author": "DeadPool2099 Ha_ru and hitman47101",
+          "Description": "This mod adds .45 Auto Pistol from Fallout New Vegas Honest Hearts DLC with unique A Light Shining In Darkness",
+          "FileID": 87199,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/31855/31855-1526810298-1455674518.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/21142-0-1483915058.png",
           "IsNSFW": false,
-          "ModID": 31855,
-          "Name": "9x39 Project Addon and Replacer",
-          "Version": "1.1a"
+          "ModID": 21142,
+          "Name": ".45 Auto Pistol (Colt M1911)",
+          "Version": "1.2.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VBAzy6gR5rY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=20093\nfileID=105840",
-        "Name": "Automatically Lowered Weapons-20093-1-4.rar",
-        "Size": 3911,
+        "Hash": "MobZySnYY74=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=21466\nfileID=130671",
+        "Name": "AK74M - Assault Rifle v3.5-21466-3-5.rar",
+        "Size": 339453784,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "pauderek",
-          "Description": "Lowers your weapon automatically when not in combat",
-          "FileID": 105840,
+          "Author": "FX0x01 - Ha_ru - Navaro -  Vadim Spiridonov",
+          "Description": "This mod adds a AK74M into Fallout 4. It features Custom animations and Sounds.",
+          "FileID": 130671,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20093-1-1479656943.gif",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/21466/21466-1527624826-1677295907.png",
           "IsNSFW": false,
-          "ModID": 20093,
-          "Name": "Automatically Lowered Weapons",
-          "Version": "1.4"
+          "ModID": 21466,
+          "Name": "AK74M - Assault Rifle",
+          "Version": "3.5"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "UFxBB4kQ6pY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=64891\nfileID=262673",
-        "Name": "Bullet Impact Overhaul 1.6-64891-1-6-1673044088.zip",
-        "Size": 183732,
+        "Hash": "wnJFQqsn7oo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=28478\nfileID=133276",
+        "Name": "Bozar-28478-1-2.zip",
+        "Size": 167249686,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Thumblesteen and me",
-          "Description": "Increases the volume of the impact sound of bullets on all surfaces, their soundcracks and tails, the result is a crunchy, dangerous soundscape that will make you duck in cover in every gunfight",
-          "FileID": 262673,
+          "Author": "DeadPool2099 - Hitman47101",
+          "Description": "This mod will add Bozar - a legendary sniper LMG from Fallout 2 and Fallout New Vegas GRA DLC, with new bullpup design, custom assets and animations",
+          "FileID": 133276,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/64891/64891-1665079348-2112207250.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/28478/28478-1513098501-379259093.jpeg",
           "IsNSFW": false,
-          "ModID": 64891,
-          "Name": "Bullet Impact Overhaul",
-          "Version": "1.5"
+          "ModID": 28478,
+          "Name": "Bullpup Bozar",
+          "Version": "1.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "7yL00qOvVu4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=49244\nfileID=198349",
-        "Name": "Fallout London - Bren gun-49244-1-1-1609850109.zip",
-        "Size": 42842519,
+        "Hash": "pWPHtfE2f1o=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=28399\nfileID=116215",
+        "Name": "Caravan Shotgun-28399-1-0.zip",
+        "Size": 85782045,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Team FOLON",
-          "Description": "This is a standalone weapon mod is that will also be featured in the upcoming Fallout: London mod.\n\nIt contains a Bren Gun with various workbench attachments to make different versions to better suit the users need.\n\nCustom animations which are different for both 1st/3rd Person and Power Armour.",
-          "FileID": 198349,
+          "Author": "DeadPool2099 - The Shiny Haxorus",
+          "Description": "Remake of Classic over-under shotgun, known as Caravan Shotgun from FNV, made for Fallout 4 New Vegas Project",
+          "FileID": 116215,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49244/49244-1609797108-329192660.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/28399/28399-1512769041-928009745.png",
           "IsNSFW": false,
-          "ModID": 49244,
-          "Name": "Fallout London - Bren Gun",
-          "Version": "Mk1"
+          "ModID": 28399,
+          "Name": "Caravan Shotgun",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qSRCUN7Vh6s=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=43458\nfileID=283433",
+        "Name": "Ultimate Window Overhaul (.BA2 Version)-43458-1-4-4-1689465514.7z",
+        "Size": 639571376,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SickStyle",
+          "Description": "You won\u0027t know you really need this mod, until you install it. This mod overhauls all windows across the Commonwealth. RTX-ish next-gen reflections!",
+          "FileID": 283433,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/43458/43458-1619463475-1957245561.png",
+          "IsNSFW": false,
+          "ModID": 43458,
+          "Name": "Fallout 4 Ultimate Window Overhaul",
+          "Version": "3.1"
         }
       }
     },
@@ -161,27 +168,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "V6FLQadVKsI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53923\nfileID=215119",
-        "Name": "FROST - Accessible ArcJet-53923-1-0-1629472128.7z",
-        "Size": 62509,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Gourmetrix",
-          "Description": "Opens ArcJet for full exploration and aims to fit into the 2082 FROSTian hellscape.",
-          "FileID": 215119,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53923/53923-1632706806-221484390.jpeg",
-          "IsNSFW": false,
-          "ModID": 53923,
-          "Name": "FROST - Accessible ArcJet",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "/1zKuc9QFRY=",
         "Meta": "[General]\ngameName=fallout4\nmodID=54564\nfileID=217198",
         "Name": "FROST - Accessible Med-Tek Research-54564-1-0-1631996617.7z",
@@ -197,69 +183,6 @@
           "ModID": 54564,
           "Name": "FROST - Accessible Med-Tek Research",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8GSHlcMzVqc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53308\nfileID=262850",
-        "Name": "FROST - Bullpup Bozar Patch and Replacer-53308-2-1-1673161847.7z",
-        "Size": 38599,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kjg92",
-          "Description": "Alters Deadpool2099\u0027s Bullpup Bozar to adhere to FROST\u0027s balance changes and fixes some bugs from the base mod with options to replace the vanilla Combat Rifle.",
-          "FileID": 262850,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53308/53308-1626511290-1689352890.jpeg",
-          "IsNSFW": false,
-          "ModID": 53308,
-          "Name": "FROST - Bullpup Bozar",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "dj2j8JCQJ8c=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53473\nfileID=213361",
-        "Name": "FROST - Fire Axe-53473-1-0-1627273801.7z",
-        "Size": 1215,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kjg92",
-          "Description": "Integrates FO Miami\u0027s Fire Axe into FROST",
-          "FileID": 213361,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53473/53473-1627273182-573930431.jpeg",
-          "IsNSFW": false,
-          "ModID": 53473,
-          "Name": "FROST - Fire Axe Patch",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3z4cXJ/Ssi4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=50008\nfileID=201219",
-        "Name": "FROST - Hunkered Down - settlements-50008-1-0-1612990010.7z",
-        "Size": 41697,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "undernier",
-          "Description": "Updates 30\u002B locations so they look like humans could actually survive in them.",
-          "FileID": 201219,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50008/50008-1612989766-389483747.png",
-          "IsNSFW": false,
-          "ModID": 50008,
-          "Name": "FROST - Hunkered Down - Commonwealth Overhaul",
-          "Version": "v1.0"
         }
       }
     },
@@ -287,21 +210,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "RX73actiw/o=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53495\nfileID=262099",
-        "Name": "FROST - Mosin Nagant-53495-1-2-1672642153.7z",
-        "Size": 6063,
+        "Hash": "WpE7zJZwzPw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=67474\nfileID=262789",
+        "Name": "Minuteman Watchtowers FROSTified-67474-1-2-1673122302.7z",
+        "Size": 347049,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kjg92 and RedMetalShield",
-          "Description": "Alters FX0x01\u0027s Mosin Nagant to adhere to FROST\u0027s various changes.",
-          "FileID": 262099,
+          "Author": "krrptd",
+          "Description": "Minuteman Watchtowers now FROSTified! Including optional versions patched for Another Pine Forest Mod (Winter version) and Winter Commonwealth Pines.",
+          "FileID": 262789,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53495/53495-1627365638-1104956016.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/67474/67474-1672831397-274393969.jpeg",
           "IsNSFW": false,
-          "ModID": 53495,
-          "Name": "FROST - Mosin Nagant",
-          "Version": "1.1"
+          "ModID": 67474,
+          "Name": "FROST - Minuteman Watchtowers (incl. various pine mods)",
+          "Version": "1.2"
         }
       }
     },
@@ -329,36 +252,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "EYF/gPXsjik=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=57372\nfileID=260834",
-        "Name": "FROST - UFO4P Patch-57372-1-7-1671319330.7z",
-        "Size": 1414334,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Unofficial Patch Project Team",
-          "Description": "A patch to forward the relevant fixes from Unofficial Fallout 4 Patch to the Unholy Trinity of FROST | FROST Unofficial Updates | FROST\u002B",
-          "FileID": 260834,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/57372/57372-1642288703-2110693485.jpeg",
-          "IsNSFW": false,
-          "ModID": 57372,
-          "Name": "FROST - UFO4P Compatibility Patch",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "nDBVN4eMWTQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=59652\nfileID=258429",
-        "Name": "FROST Cell Fixes (FCF) - Main-59652-2-0-1669631174.7z",
-        "Size": 2525718858,
+        "Hash": "iYPdV077P1I=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=59652\nfileID=280231",
+        "Name": "FROST Cell Fixes (FCF) - Main-59652-2-5-1686568553.7z",
+        "Size": 2579467687,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "krrptd",
           "Description": "FROST Cell Fixes (FCF) is the AIO successor of my previously released FROST Interior and Exterior Cell Fixes.  A rebuild of the previsibines for the whole game with FROST in mind, and adding a ton of bug fixes both for vanilla and FROST.",
-          "FileID": 258429,
+          "FileID": 280231,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/59652/59652-1649851922-1874826542.jpeg",
           "IsNSFW": false,
@@ -371,21 +273,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hbasrpqUp3k=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=18898\nfileID=261064",
-        "Name": "FROST (BA2 Version)-18898-0-55-1671567078.zip",
-        "Size": 713786134,
+        "Hash": "xSKuBeLpjKE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=65485\nfileID=287920",
+        "Name": "Frost Official Updates (Redux)-65485-2-2-1-1692965406.zip",
+        "Size": 1084216642,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "naugrim04",
-          "Description": "FROST is a hardcore total conversion mod set in the years following the Great War of 2077 that aims to eliminate all vanilla quests and NPCs to create a freeform survival experience.",
-          "FileID": 261064,
+          "Author": "Red",
+          "Description": "A new version of the FROST Official Updates which continues the development of the FROST Survival Simulator mod.\n\nFROST is a total overhaul of Fallout 4 set in the year 2082, over 200 years before the events of vanilla Fallout 4.\n\nExperience a dark and atmospheric world and  try to survive the Nuclear Winter....if you can.",
+          "FileID": 287920,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/18898-0-1475212708.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/65485/65485-1667409132-1497221932.png",
           "IsNSFW": false,
-          "ModID": 18898,
-          "Name": "FROST Survival Simulator",
-          "Version": "v0.55"
+          "ModID": 65485,
+          "Name": "Frost Official Updates (Redux)",
+          "Version": "2.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nphnG58wwAc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=48847\nfileID=233441",
+        "Name": "FROST PLUS - Main-48847-0-5-2-1648764698.7z",
+        "Size": 260725863,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ResGestaeIV",
+          "Description": "The mod is designed exclusively for FROST in order give it a second chance for it to be played with less bugs, more content and more immersion.",
+          "FileID": 233441,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48847/48847-1629764840-2138526863.png",
+          "IsNSFW": false,
+          "ModID": 48847,
+          "Name": "FROST Plus v0.4.9 (WIP)",
+          "Version": "0.4.9"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yRkUl8+j2a0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=62518\nfileID=244979",
+        "Name": "Gloomy Glass-62518-1-1-1659125904.7z",
+        "Size": 14837,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SpringHeelJon",
+          "Description": "Balances the environmental effects on all base game and DLC transparent material files.",
+          "FileID": 244979,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/62518/62518-1658608213-344933450.jpeg",
+          "IsNSFW": false,
+          "ModID": 62518,
+          "Name": "Gloomy Glass - All transparent materials revised",
+          "Version": "1.1"
         }
       }
     },
@@ -455,63 +399,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "NrTZE9uLh4w=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53702\nfileID=263190",
-        "Name": "Patch - FROST and IAF-53702-2-5-1673491743.7z",
-        "Size": 3602,
+        "Hash": "XKRrc+y2zZk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=20687\nfileID=107588",
+        "Name": "M1 Garand-20687-1-6-5.rar",
+        "Size": 30953489,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kjg92",
-          "Description": "Patches the new items added by FROST, FROST Plus, and FROST Official Updates to use animations introduced by IAF.",
-          "FileID": 263190,
+          "Author": "asXas",
+          "Description": "Adds a standalone M1 Garand to Fallout 4.\n\n\n\n**PING**",
+          "FileID": 107588,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53702/53702-1628372833-941903655.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20687-0-1482087367.jpg",
           "IsNSFW": false,
-          "ModID": 53702,
-          "Name": "Patches - Immersive Animation Framework (IAF) and FROST",
-          "Version": "2.0"
+          "ModID": 20687,
+          "Name": "M1 Garand - A WWII Classic",
+          "Version": "1.6.5"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "sKZM8su0HfQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=35083\nfileID=142816",
-        "Name": "Polluted Climate - Winter Edition 1.02-35083-1-02.zip",
-        "Size": 45161,
+        "Hash": "wvsUo5KKBs8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=65093\nfileID=255254",
+        "Name": "Melee Impact Overhaul 1.2.1-65093-1-2-1-1667228538.zip",
+        "Size": 4680,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Mandragorasprouts",
-          "Description": "Polluted Climate - Winter Edition",
-          "FileID": 142816,
+          "Author": "Giammotto",
+          "Description": "Modifies and increases the volume of all melee impact sounds, weapon handling foley, swings, punches, power armour impacts, both given and received, the result is a more satisfying melee experience with hits that feel much more physical and brutal, getting gashed by a machete will be a noticeable hit",
+          "FileID": 255254,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35083/35083-1538513107-708260181.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/65093/65093-1665756665-1886146154.png",
           "IsNSFW": false,
-          "ModID": 35083,
-          "Name": "Polluted Climate - Winter Edition",
-          "Version": "1.02"
+          "ModID": 65093,
+          "Name": "Melee Impact Overhaul",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "10Hmwc2jbuk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=35268\nfileID=143320",
-        "Name": "RiotShotgun_Anims_v1.1-35268-V1-1.rar",
-        "Size": 7346199,
+        "Hash": "OXmVyST+w2I=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=65489\nfileID=262671",
+        "Name": "Test file-65489-1-2-3-1673043024.zip",
+        "Size": 5011,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Hitman and Wardaddy",
-          "Description": "Adds custom animations to the riot shotgun.",
-          "FileID": 143320,
+          "Author": "Giammotto",
+          "Description": "Increases the volume of all physical objects (including grenades) when they bounce, hit walls and materials, if you bump on them or push/manipulate them including bullet casings on all surfaces, for the audiophiles of Fallout 4",
+          "FileID": 262671,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35268/35268-1539283543-1862106494.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/65489/65489-1666805255-230132395.png",
           "IsNSFW": false,
-          "ModID": 35268,
-          "Name": "Riot Shotgun Animations",
-          "Version": "V1.1"
+          "ModID": 65489,
+          "Name": "Physics Impact Overhaul and Bullet Casing Sounds",
+          "Version": "1.2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5Kw1lNNmQHc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=54741\nfileID=248649",
+        "Name": "Recoil Shake and Low Ammo Sounds-54741-2-2-0-1661760291.7z",
+        "Size": 16310,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Elzee",
+          "Description": "Simulate shooting features in \u0022Titanfall\u0022\n\nCamera shake based on various conditions when firing. Which\u0027s not supported by the vanilla game\n\nLow ammo hint sounds.",
+          "FileID": 248649,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/54741/54741-1632757483-643713953.png",
+          "IsNSFW": false,
+          "ModID": 54741,
+          "Name": "Recoil Shake and Low Ammo Sounds",
+          "Version": "1.4.0"
         }
       }
     },
@@ -560,15 +525,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QYpjXWpF1Vc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=4598\nfileID=244732",
-        "Name": "Unofficial Fallout 4 Patch-4598-2-1-4-1658972157.7z",
-        "Size": 28453436,
+        "Hash": "QecNTVClZHM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=4598\nfileID=270951",
+        "Name": "Unofficial Fallout 4 Patch-4598-2-1-5-1679096028.7z",
+        "Size": 28463240,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Unofficial Patch Project Team",
           "Description": "A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.",
-          "FileID": 244732,
+          "FileID": 270951,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/4598-0-1456989707.png",
           "IsNSFW": false,
@@ -581,21 +546,161 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "c8Q9M9xn0aU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=41099\nfileID=201585",
-        "Name": "Winter Commonwealth Pines-41099-1-8-1613437221.7z",
-        "Size": 1191026323,
+        "Hash": "Tdl5KESb3ZQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=23389\nfileID=255516",
+        "Name": "Wetness Shader Fix-23389-3-6-2-1667405114.7z",
+        "Size": 148762541,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "flecked",
-          "Description": "Winter pine trees are all around the Commonwealth",
-          "FileID": 201585,
+          "Author": "Ablaze666",
+          "Description": "This small mod fixes the exaggerated shine of specific objects while it\u0027s raining.",
+          "FileID": 255516,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41099/41099-1608656293-1234157517.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23389-0-1492422847.jpg",
           "IsNSFW": false,
-          "ModID": 41099,
-          "Name": "Winter Commonwealth Pines",
-          "Version": "1.8"
+          "ModID": 23389,
+          "Name": "Wetness Shader Fix",
+          "Version": "3.41"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dgy3YdKsww4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=69611\nfileID=270320",
+        "Name": "WoodCrate 2k - It has been a long time-69611-0-1-1678650225.7z",
+        "Size": 24865358,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "HappoMatka",
+          "Description": "A once over for a container.",
+          "FileID": 270320,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69611/69611-1678650716-1711020985.png",
+          "IsNSFW": false,
+          "ModID": 69611,
+          "Name": "WoodCrate - It has been a long time",
+          "Version": "0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eRaBcpxid4Y=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=41178\nfileID=209407",
+        "Name": "Bullet Counted Reload - v.2.00-41178-2-00-1622713974.zip",
+        "Size": 240029,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "shavkacagarikia",
+          "Description": "Finally, a proper engine-level system for bullet counted reloads with most of the features such a system should have.",
+          "FileID": 209407,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41178/41178-1568917895-1877786549.png",
+          "IsNSFW": false,
+          "ModID": 41178,
+          "Name": "Bullet Counted Reload System (BCR)",
+          "Version": "2.00"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rhsNaz4r+eU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=65834\nfileID=282782",
+        "Name": "Bullet in the Chamber-65834-1-4-1688858466.zip",
+        "Size": 1433852,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "eclix and GELUXRUM",
+          "Description": "Adds new weapon mechanics: extra bullet on partial reload, immersive ammo checking, fire mode switch, ammo drop on reload and more.",
+          "FileID": 282782,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/65834/65834-1667745088-621846811.jpeg",
+          "IsNSFW": false,
+          "ModID": 65834,
+          "Name": "Bullet in the Chamber - Expanded Weapon Mechanics",
+          "Version": "1.1beta"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "y9bOsGgSM84=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=35442\nfileID=153818",
+        "Name": "COTC - Menu and Vanilla musics replacement V1.1-35442-1-1-1552137482.rar",
+        "Size": 552397890,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Titaa",
+          "Description": "A Dark \u0026amp; eerie music, menu cinematic, and UI FX overhaul.\n\nLots of samples showcases in the video tabs\n\nBest played with Frost/Horizon and any weather \u002B enb that\u0027ll make the game depressing",
+          "FileID": 153818,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35442/35442-1539977729-1186885470.jpeg",
+          "IsNSFW": false,
+          "ModID": 35442,
+          "Name": "COTC - A Dark and Eerie Menu Cinematic and Music Soundtrack Overhaul",
+          "Version": "1.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "21h4TOKduN0=",
+        "Meta": "[General]\ndirectURL=https://f4se.silverlock.org/beta/f4se_0_06_23.7z",
+        "Name": "f4se_0_06_23.7z",
+        "Size": 650275,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://f4se.silverlock.org/beta/f4se_0_06_23.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eIF7EDsVW/w=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=48758\nfileID=254844",
+        "Name": "FallUI - Inventory-48758-2-2-1-1666954336.rar",
+        "Size": 2818705,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "m8r98a4f2",
+          "Description": "This is FallUI - Inventory. A optimized Fallout 4 inventory interface for PC.",
+          "FileID": 254844,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48758/48758-1608059361-298835205.png",
+          "IsNSFW": false,
+          "ModID": 48758,
+          "Name": "FallUI - Inventory",
+          "Version": "1.13.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "I+Tg+bKVsRM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=21497\nfileID=172180",
+        "Name": "Mod Configuration Menu 1.39-21497-1-39-1575706632.zip",
+        "Size": 371675,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "reg2k - Neanka - shadowslasher410",
+          "Description": "The Mod Configuration Menu is a settings page for mods! It provides a central location for mod configuration, accessible via the Pause menu.",
+          "FileID": 172180,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/21497-0-1504319702.png",
+          "IsNSFW": false,
+          "ModID": 21497,
+          "Name": "Mod Configuration Menu",
+          "Version": "1.39"
         }
       }
     },
@@ -644,48 +749,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "9VLFo2qb2Tc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=65834\nfileID=259758",
-        "Name": "Bullet in the Chamber - Expanded Weapon Mechanics-65834-1-22-1670542179.7z",
-        "Size": 1155615,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "eclix and GELUXRUM",
-          "Description": "Adds new weapon mechanics: extra bullet on partial reload, immersive ammo checking, fire mode switch, ammo drop on reload and more.",
-          "FileID": 259758,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/65834/65834-1667745088-621846811.jpeg",
-          "IsNSFW": false,
-          "ModID": 65834,
-          "Name": "Bullet in the Chamber - Expanded Weapon Mechanics",
-          "Version": "1.1beta"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "y9bOsGgSM84=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=35442\nfileID=153818",
-        "Name": "COTC - Menu and Vanilla musics replacement V1.1-35442-1-1-1552137482.rar",
-        "Size": 552397890,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Titaa",
-          "Description": "A Dark \u0026amp; eerie music, menu cinematic, and UI FX overhaul.\n\nLots of samples showcases in the video tabs\n\nBest played with Frost/Horizon and any weather \u002B enb that\u0027ll make the game depressing",
-          "FileID": 153818,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35442/35442-1539977729-1186885470.jpeg",
-          "IsNSFW": false,
-          "ModID": 35442,
-          "Name": "COTC - A Dark and Eerie Menu Cinematic and Music Soundtrack Overhaul",
-          "Version": "1.1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "V7vLB6+D+MI=",
         "Meta": "[General]\ngameName=fallout4\nmodID=51813\nfileID=257220",
         "Name": "FallUI - HUD-51813-1-7-1-1668637124.rar",
@@ -701,174 +764,6 @@
           "ModID": 51813,
           "Name": "FallUI - HUD",
           "Version": "1.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "rfN+XRGKOH0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=66591\nfileID=258784",
-        "Name": "FROST - Main Menu - Replacer-66591-1-0-1669862310.rar",
-        "Size": 417148101,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Elise-Aeon",
-          "Description": "This mod replaces the main menu with my own custom videos that I edited together.",
-          "FileID": 258784,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/66591/66591-1669863517-407469580.png",
-          "IsNSFW": false,
-          "ModID": 66591,
-          "Name": "FROST Main Menu Replacer",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QAfGqmKKv5w=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=65485\nfileID=260813",
-        "Name": "Frost Official Updates (Redux)-65485-2-1-1671305265.zip",
-        "Size": 545818244,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Red",
-          "Description": "A new version of the FROST Official Updates which continues the development of the FROST Survival Simulator mod.\n\nFROST is a total overhaul of Fallout 4 set in the year 2082, over 200 years before the events of vanilla Fallout 4.\n\nExperience a dark and atmospheric world and  try to survive the Nuclear Winter....if you can.",
-          "FileID": 260813,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/65485/65485-1667409132-1497221932.png",
-          "IsNSFW": false,
-          "ModID": 65485,
-          "Name": "Frost Official Updates (Redux)",
-          "Version": "2.0.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QkNtQcCr+oc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=28822\nfileID=172070",
-        "Name": "prkf 1.10.163.0-28822-1-10-163-0-1575573793.zip",
-        "Size": 291088,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Neanka",
-          "Description": "new LevelUpMenu which also allow to add brand new perks into game, remove any classic perks and even add skills system into game",
-          "FileID": 172070,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/28822-3-1514798435.png",
-          "IsNSFW": false,
-          "ModID": 28822,
-          "Name": "LevelUpMenuEx",
-          "Version": "1.10.163.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "I+Tg+bKVsRM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=21497\nfileID=172180",
-        "Name": "Mod Configuration Menu 1.39-21497-1-39-1575706632.zip",
-        "Size": 371675,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "reg2k - Neanka - shadowslasher410",
-          "Description": "The Mod Configuration Menu is a settings page for mods! It provides a central location for mod configuration, accessible via the Pause menu.",
-          "FileID": 172180,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/21497-0-1504319702.png",
-          "IsNSFW": false,
-          "ModID": 21497,
-          "Name": "Mod Configuration Menu",
-          "Version": "1.39"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4twSKWenjC8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=23932\nfileID=97770",
-        "Name": "Russian Recon Pack v1.2-23932-1-2.rar",
-        "Size": 75259785,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "FX0x01 - Ha_ru - Hitman47101 - Navaro",
-          "Description": "This mod adds a russian sniper rifle SVU and pistol MP443 \u0022Grach\u0022 into Fallout 4. It features Custom animations and Sounds.",
-          "FileID": 97770,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23932-0-1493716646.jpg",
-          "IsNSFW": false,
-          "ModID": 23932,
-          "Name": "Russian Recon Pack - SVU and MP443",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "dhdNwhlGqtI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=47359\nfileID=240199",
-        "Name": "Buffout 4-47359-1-26-2-1654893805.zip",
-        "Size": 856627,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ryan",
-          "Description": "It\u0027s like buffout but for the engine",
-          "FileID": 240199,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47359/47359-1599900935-173191707.png",
-          "IsNSFW": false,
-          "ModID": 47359,
-          "Name": "Buffout 4",
-          "Version": "1.24.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8dX/wJ5um68=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=24472\nfileID=99849",
-        "Name": "Colt Delta Elite Reanimated 10MM Replacer v1.1-24472-1-1.zip",
-        "Size": 19656142,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RapDoug",
-          "Description": "Like the 1911 platform? Want to try yet another variation for your Fallout playthrough? I have you covered!",
-          "FileID": 99849,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/24472-7-1495906385.png",
-          "IsNSFW": false,
-          "ModID": 24472,
-          "Name": "Colt Delta Elite Reanimated (Revival)",
-          "Version": "1.3B"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "eIF7EDsVW/w=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=48758\nfileID=254844",
-        "Name": "FallUI - Inventory-48758-2-2-1-1666954336.rar",
-        "Size": 2818705,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "This is FallUI - Inventory. A optimized Fallout 4 inventory interface for PC.",
-          "FileID": 254844,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48758/48758-1608059361-298835205.png",
-          "IsNSFW": false,
-          "ModID": 48758,
-          "Name": "FallUI - Inventory",
-          "Version": "1.13.3"
         }
       }
     },
@@ -938,6 +833,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "QkNtQcCr+oc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=28822\nfileID=172070",
+        "Name": "prkf 1.10.163.0-28822-1-10-163-0-1575573793.zip",
+        "Size": 291088,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Neanka",
+          "Description": "new LevelUpMenu which also allow to add brand new perks into game, remove any classic perks and even add skills system into game",
+          "FileID": 172070,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/28822-3-1514798435.png",
+          "IsNSFW": false,
+          "ModID": 28822,
+          "Name": "LevelUpMenuEx",
+          "Version": "1.10.163.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "z+vKkHSoHFI=",
         "Meta": "[General]\ngameName=fallout4\nmodID=23556\nfileID=166658",
         "Name": "1. Merged Mods - Fixes - Fomod-23556-1-0-1568478681.7z",
@@ -980,6 +896,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "zI5FVf+qM1M=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=37599\nfileID=273953",
+        "Name": "Survival Configuration Menu-37599-1-0-0-1681413492.zip",
+        "Size": 111869,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zzyxzz",
+          "Description": "Features a brand new eat and drink system, which relies on weight of the item instead of the caps value and allows you to control it.\n\nIn addition to that, you can tweak many aspects of the survival added features. Like tweaking disease chance, disabling Adrenaline. Choose how long you can maximally sleep on the different bet types.\n\nAnd mo",
+          "FileID": 273953,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/37599/37599-1551538674-568822138.png",
+          "IsNSFW": false,
+          "ModID": 37599,
+          "Name": "Survival Configuration Menu",
+          "Version": "0.8.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "517zWFKXpFc=",
         "Meta": "[General]\ngameName=fallout4\nmodID=67\nfileID=236370",
         "Name": "BethINI Standalone Version-67-3-6-1-1651358958.zip",
@@ -995,6 +932,69 @@
           "ModID": 67,
           "Name": "BethINI",
           "Version": "3.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0N+L2vZzDh4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=66713\nfileID=260018",
+        "Name": "Ambient Tunnels of Boston-66713-1-2-1670774447.zip",
+        "Size": 27247112,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "goodbye2007",
+          "Description": "Ambient Tunnels of Boston is a mod that adds 30\u002B new dynamic and ambient sounds to the various Subway Stations and Tunnels of the Commonwealth.",
+          "FileID": 260018,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/66713/66713-1670370133-1579952648.jpeg",
+          "IsNSFW": false,
+          "ModID": 66713,
+          "Name": "Ambient Tunnels of Boston",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8dX/wJ5um68=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=24472\nfileID=99849",
+        "Name": "Colt Delta Elite Reanimated 10MM Replacer v1.1-24472-1-1.zip",
+        "Size": 19656142,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RapDoug",
+          "Description": "Like the 1911 platform? Want to try yet another variation for your Fallout playthrough? I have you covered!",
+          "FileID": 99849,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/24472-7-1495906385.png",
+          "IsNSFW": false,
+          "ModID": 24472,
+          "Name": "Colt Delta Elite Reanimated (Revival)",
+          "Version": "1.3B"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6Wql/l6hLVI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27479\nfileID=172411",
+        "Name": "Crafting Highlight Fix 1.8.8-27479-1-8-8-1576067808.zip",
+        "Size": 145150,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "registrator2000",
+          "Description": "A F4SE plugin that allows you to disable the hardcoded, vision-obscuring shader effect at various workbenches so you can actually see what you\u0027re crafting.\n\n\n\nAlso allows you to change the shader effect for the Power Armor station and robot workbenches to a outline-only shader instead of a full shader.",
+          "FileID": 172411,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27479-0-1508689568.gif",
+          "IsNSFW": false,
+          "ModID": 27479,
+          "Name": "Crafting Highlight Fix",
+          "Version": "1.8.8"
         }
       }
     },
@@ -1022,27 +1022,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ipqv+WRi2OM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=33759\nfileID=188907",
-        "Name": "Game Configuration Menu-33759-0-7-1-1597165382.zip",
-        "Size": 267126,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Zzyxzz",
-          "Description": "GCM allows you easily set many game settings without the need of additional ESPs or console commands.",
-          "FileID": 188907,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33759/33759-1533151164-1011383970.png",
-          "IsNSFW": false,
-          "ModID": 33759,
-          "Name": "Game Configuration Menu",
-          "Version": "0.7.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Pix92Xg9c9Q=",
         "Meta": "[General]\ngameName=fallout4\nmodID=41583\nfileID=169539",
         "Name": "wd_mp5_v1.1-41583-v1-1-1572087034.rar",
@@ -1064,21 +1043,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XKRrc+y2zZk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=20687\nfileID=107588",
-        "Name": "M1 Garand-20687-1-6-5.rar",
-        "Size": 30953489,
+        "Hash": "lJxDRxWZkK0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=20830\nfileID=112759",
+        "Name": "Immersive HUD - iHUD-20830-3-0.rar",
+        "Size": 20716,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "asXas",
-          "Description": "Adds a standalone M1 Garand to Fallout 4.\n\n\n\n**PING**",
-          "FileID": 107588,
+          "Author": "Gopher",
+          "Description": "HUD when you need. Hide when you don\u0027t.",
+          "FileID": 112759,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20687-0-1482087367.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20830-0-1486726099.jpg",
           "IsNSFW": false,
-          "ModID": 20687,
-          "Name": "M1 Garand - A WWII Classic",
-          "Version": "1.6.5"
+          "ModID": 20830,
+          "Name": "Immersive HUD - iHUD",
+          "Version": "3.0"
         }
       }
     },
@@ -1100,6 +1079,27 @@
           "ModID": 44830,
           "Name": "M1928A1 Thompson - Day of Infamy",
           "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8FL8QdERw7s=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56195\nfileID=257096",
+        "Name": "MCM Settings Manager-56195-1-2-1668562769.rar",
+        "Size": 138229,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "m8r98a4f2",
+          "Description": "Save, load, transfer, import and export all your MCM settings at once. Transfer settings between savegames, backup your favorite settings, or send your settings to another user!",
+          "FileID": 257096,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56195/56195-1638374233-408174017.png",
+          "IsNSFW": false,
+          "ModID": 56195,
+          "Name": "MCM Settings Manager",
+          "Version": "1.0.3"
         }
       }
     },
@@ -1148,21 +1148,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qGS6Dn4NJas=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=17850\nfileID=234924",
-        "Name": "No More Fake Puddles-17850-2-1-1650032227.7z",
-        "Size": 1226,
+        "Hash": "KB5RzJMiYu0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=20235\nfileID=82834",
+        "Name": "no heartbeat sound-20235-1-0.zip",
+        "Size": 18592,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "twizz0r",
-          "Description": "A simple texture replacement to remove the persistent fake puddles from the game. No more fake reflections!",
-          "FileID": 234924,
+          "Author": "yabo",
+          "Description": "Removes low-health heartbeat sound",
+          "FileID": 82834,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/17850-7-1472570078.png",
+          "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 17850,
-          "Name": "No More Fake Puddles",
-          "Version": "2.0"
+          "ModID": 20235,
+          "Name": "No heartbeat sound",
+          "Version": "1.0"
         }
       }
     },
@@ -1205,6 +1205,48 @@
           "ModID": 30087,
           "Name": "Riot Shotgun (Fallout 4 Edition)",
           "Version": "0.06"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "10Hmwc2jbuk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=35268\nfileID=143320",
+        "Name": "RiotShotgun_Anims_v1.1-35268-V1-1.rar",
+        "Size": 7346199,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Hitman and Wardaddy",
+          "Description": "Adds custom animations to the riot shotgun.",
+          "FileID": 143320,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35268/35268-1539283543-1862106494.png",
+          "IsNSFW": false,
+          "ModID": 35268,
+          "Name": "Riot Shotgun Animations",
+          "Version": "V1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4twSKWenjC8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=23932\nfileID=97770",
+        "Name": "Russian Recon Pack v1.2-23932-1-2.rar",
+        "Size": 75259785,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FX0x01 - Ha_ru - Hitman47101 - Navaro",
+          "Description": "This mod adds a russian sniper rifle SVU and pistol MP443 \u0022Grach\u0022 into Fallout 4. It features Custom animations and Sounds.",
+          "FileID": 97770,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23932-0-1493716646.jpg",
+          "IsNSFW": false,
+          "ModID": 23932,
+          "Name": "Russian Recon Pack - SVU and MP443",
+          "Version": "1.2"
         }
       }
     },
@@ -1268,6 +1310,27 @@
           "ModID": 52554,
           "Name": "F.E.R.A.L -Feral Ghouls Sounds Rework-",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "p3uAhVgFb8U=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=31801\nfileID=165967",
+        "Name": "Oblivion Drone Robot Audio Replacement 1.3 (NMM test)-31801-1-3-1567722470.zip",
+        "Size": 23748491,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jukesster",
+          "Description": "A simple audio mod that replaces the Sentry, Protectron and Assaultron audio voice files, with audio from the \u0027Drones\u0027 in the 2013 Oblivion film. Compatible with any mods excluding ones that edit the same .fuz files for the Sentry, Protectron and Assaultron audio voice files.\n\n\n\nNow incorporating Autromatron DLC, Swarmbots still WIP",
+          "FileID": 165967,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/31801/31801-1526590273-2069905218.jpeg",
+          "IsNSFW": false,
+          "ModID": 31801,
+          "Name": "Oblivion Drone Robot Audio Replacement",
+          "Version": "1.3"
         }
       }
     },
@@ -1358,15 +1421,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "MQ6LQ20v++U=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=55011\nfileID=219130",
-        "Name": "BCR - Hunting Shotgun Patch-55011-1-1-1634091506.7z",
-        "Size": 941984,
+        "Hash": "MAOnIiq2xiI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=55011\nfileID=284377",
+        "Name": "BCR - Hunting Shotgun Patch 1.1.2-55011-1-1-2-1690218163.zip",
+        "Size": 8053347,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "BrendanoElTaco",
           "Description": "",
-          "FileID": 219130,
+          "FileID": 284377,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/55011/55011-1633988174-1999293101.png",
           "IsNSFW": false,
@@ -1379,57 +1442,204 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wXgxYsnOWcA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=11734\nfileID=238612",
-        "Name": "Campsite - Simple-11734-1-0-4-1653544913.rar",
-        "Size": 82300428,
+        "Hash": "kOyrA/q6Jck=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=49253\nfileID=198326",
+        "Name": "AnotherOne Bren LMG Addon-49253-0-99-1609833360.rar",
+        "Size": 63777673,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AnotherOne aka RetroPaladin",
+          "Description": "Just a little patch which adds several options to Bren Machinegun",
+          "FileID": 198326,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49253/49253-1609833276-1058338664.png",
+          "IsNSFW": false,
+          "ModID": 49253,
+          "Name": "AnotherOne\u0027s Bren LMG Addon",
+          "Version": "0.99"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "i8yuMjN4A6M=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=68599\nfileID=277463",
+        "Name": "FO4 Particle Patch v1-2 Main-68599-1-2-1684309636.rar",
+        "Size": 12647226,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "fadingsignal",
-          "Description": "Campsite is a simple, lightweight camping mod that adds craftable / carryable tents, sleeping bags (new HD textures!), dog beds, fires, lanterns, and cooking pot, each with their own unique dynamics, sounds, interactivity.  Simple enough for light play, detailed enough to make you feel involved. VR-friendly.",
-          "FileID": 238612,
+          "Description": "FO4 Particle Patch is a comprehensive mod that updates hundreds of mesh and material files to make fog, smoke, water, blood, dirt puffs, dust (and much more) glow in the dark less, and better utilize ambient \u0026amp; point lighting. Also improves distance rendering for Far Harbor fog effects.",
+          "FileID": 277463,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/11734-0-1460009964.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/68599/68599-1675756391-991298516.jpeg",
           "IsNSFW": false,
-          "ModID": 11734,
-          "Name": "Campsite - Simple Wasteland Camping (and HD Sleeping Bags)",
-          "Version": "1.0.2"
+          "ModID": 68599,
+          "Name": "Fallout 4 Particle Patch - No More Glowing Objects",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "nphnG58wwAc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=48847\nfileID=233441",
-        "Name": "FROST PLUS - Main-48847-0-5-2-1648764698.7z",
-        "Size": 260725863,
+        "Hash": "V6FLQadVKsI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53923\nfileID=215119",
+        "Name": "FROST - Accessible ArcJet-53923-1-0-1629472128.7z",
+        "Size": 62509,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ResGestaeIV",
-          "Description": "The mod is designed exclusively for FROST in order give it a second chance for it to be played with less bugs, more content and more immersion.",
-          "FileID": 233441,
+          "Author": "Gourmetrix",
+          "Description": "Opens ArcJet for full exploration and aims to fit into the 2082 FROSTian hellscape.",
+          "FileID": 215119,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48847/48847-1629764840-2138526863.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53923/53923-1632706806-221484390.jpeg",
           "IsNSFW": false,
-          "ModID": 48847,
-          "Name": "FROST Plus v0.4.9 (WIP)",
-          "Version": "0.4.9"
+          "ModID": 53923,
+          "Name": "FROST - Accessible ArcJet",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0EtX8VoWW/M=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=33759\nfileID=160697",
-        "Name": "GCM DLC Far Harbor-33759-0-6-1561641689.zip",
-        "Size": 420,
+        "Hash": "8GSHlcMzVqc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53308\nfileID=262850",
+        "Name": "FROST - Bullpup Bozar Patch and Replacer-53308-2-1-1673161847.7z",
+        "Size": 38599,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kjg92",
+          "Description": "Alters Deadpool2099\u0027s Bullpup Bozar to adhere to FROST\u0027s balance changes and fixes some bugs from the base mod with options to replace the vanilla Combat Rifle.",
+          "FileID": 262850,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53308/53308-1626511290-1689352890.jpeg",
+          "IsNSFW": false,
+          "ModID": 53308,
+          "Name": "FROST - Bullpup Bozar",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dj2j8JCQJ8c=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53473\nfileID=213361",
+        "Name": "FROST - Fire Axe-53473-1-0-1627273801.7z",
+        "Size": 1215,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kjg92",
+          "Description": "Integrates FO Miami\u0027s Fire Axe into FROST",
+          "FileID": 213361,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53473/53473-1627273182-573930431.jpeg",
+          "IsNSFW": false,
+          "ModID": 53473,
+          "Name": "FROST - Fire Axe Patch",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3z4cXJ/Ssi4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=50008\nfileID=201219",
+        "Name": "FROST - Hunkered Down - settlements-50008-1-0-1612990010.7z",
+        "Size": 41697,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "undernier",
+          "Description": "Updates 30\u002B locations so they look like humans could actually survive in them.",
+          "FileID": 201219,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50008/50008-1612989766-389483747.png",
+          "IsNSFW": false,
+          "ModID": 50008,
+          "Name": "FROST - Hunkered Down - Commonwealth Overhaul",
+          "Version": "v1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fOn0lQ6sEYU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53495\nfileID=268228",
+        "Name": "FROST - Mosin-53495-1-3-1677135314.7z",
+        "Size": 6406,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kjg92 and RedMetalShield",
+          "Description": "Alters FX0x01\u0027s Mosin Nagant to adhere to FROST\u0027s various changes.",
+          "FileID": 268228,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53495/53495-1627365638-1104956016.jpeg",
+          "IsNSFW": false,
+          "ModID": 53495,
+          "Name": "FROST - Mosin Nagant",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DHIGv/9VTuo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=57372\nfileID=285096",
+        "Name": "FROST - UFO4P Patch-57372-1-9-1-1690901538.7z",
+        "Size": 1639493,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Unofficial Patch Project Team",
+          "Description": "A patch to forward the relevant fixes from Unofficial Fallout 4 Patch to the Unholy Trinity of FROST | FROST Unofficial Updates | FROST\u002B",
+          "FileID": 285096,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/57372/57372-1642288703-2110693485.jpeg",
+          "IsNSFW": false,
+          "ModID": 57372,
+          "Name": "FROST - UFO4P Compatibility Patch",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4QyErsEEwIc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=59652\nfileID=281598",
+        "Name": "FROST Cell Fixes (FCF) - Patches-59652-2-6-1687769207.7z",
+        "Size": 400537077,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "krrptd",
+          "Description": "FROST Cell Fixes (FCF) is the AIO successor of my previously released FROST Interior and Exterior Cell Fixes.  A rebuild of the previsibines for the whole game with FROST in mind, and adding a ton of bug fixes both for vanilla and FROST.",
+          "FileID": 281598,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/59652/59652-1649851922-1874826542.jpeg",
+          "IsNSFW": false,
+          "ModID": 59652,
+          "Name": "FROST Cell Fixes (FCF)",
+          "Version": "1.3.1b"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ipqv+WRi2OM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=33759\nfileID=188907",
+        "Name": "Game Configuration Menu-33759-0-7-1-1597165382.zip",
+        "Size": 267126,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Zzyxzz",
           "Description": "GCM allows you easily set many game settings without the need of additional ESPs or console commands.",
-          "FileID": 160697,
+          "FileID": 188907,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33759/33759-1533151164-1011383970.png",
           "IsNSFW": false,
@@ -1442,15 +1652,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "84vnhc+lZpU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=57553\nfileID=260836",
-        "Name": "krrptd\u0027s FROST Patch Compendium-57553-1-6-5-1671319547.7z",
-        "Size": 2260638,
+        "Hash": "pMa/K6n92qk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=57553\nfileID=285097",
+        "Name": "krrptd\u0027s FROST Patch Compendium-57553-1-8-1-1690901781.7z",
+        "Size": 2406001,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "krrptd",
           "Description": "A collection of several small patches and tweaks for FROST. More to come.",
-          "FileID": 260836,
+          "FileID": 285097,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/57553/57553-1642890580-1590845647.jpeg",
           "IsNSFW": false,
@@ -1463,15 +1673,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "FdM5Yl1TGsE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=38448\nfileID=261840",
-        "Name": "LOST Audio Tweaks-38448-4-1-1672415719.zip",
-        "Size": 151466244,
+        "Hash": "4PcbjUpILKs=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=38448\nfileID=274960",
+        "Name": "LAT Patches FOMOD-38448-LATP1-09-1682147678.zip",
+        "Size": 203405,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mortercotic",
           "Description": "Sound mods pack and other tweaks!\n\nDon\u0027t expect big changes since I want this to be as much compatible as possible and to let users choose their own sound mods. If you want to help and/or advice of better ways, please let me know.",
-          "FileID": 261840,
+          "FileID": 274960,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/38448/38448-1566082368-1695805874.jpeg",
           "IsNSFW": false,
@@ -1484,84 +1694,189 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HcZRIP8ylLY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=27019\nfileID=139155",
-        "Name": "RAW INPUT - NMM Installer-27019-2-4.zip",
-        "Size": 120396,
+        "Hash": "2HQOnhoprdc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=35226\nfileID=143112",
+        "Name": "PollutedClimate-Winter_FROST Patch-35226-1-0.7z",
+        "Size": 2965,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "IceKK",
-          "Description": "Disabled Mouse Acceleration, Horizontal/Vertical Parity, Scalable ADS Multiplier, Normalized Sensitivity",
-          "FileID": 139155,
+          "Author": "tjwoosta",
+          "Description": "Adds FROST\u0027s atmospheric radiation spell to Polluted Climate Winter Edition weathers",
+          "FileID": 143112,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27019-1-1506399199.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35226/35226-1539096672-975471464.png",
           "IsNSFW": false,
-          "ModID": 27019,
-          "Name": "RAW INPUT - The Ultimate Mouse Sensitivity Fix",
-          "Version": "2.4"
+          "ModID": 35226,
+          "Name": "Polluted Climate Winter FROST Patch",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "1DYnFhD3OZs=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=49613\nfileID=199780",
-        "Name": "Sunlight Alignment tweak-49613-1-1611436135.zip",
-        "Size": 3470,
+        "Hash": "dhdNwhlGqtI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=47359\nfileID=240199",
+        "Name": "Buffout 4-47359-1-26-2-1654893805.zip",
+        "Size": 856627,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "falloutkid12",
-          "Description": "Aligns the exterior world lighting with the sun and moon and allows the game to cast shadows at shallower angles. Includes a script that automatically reduces shadow intensity at sunrise and sunset for a more realistic environment.\n\n\n\nCOMPATIBLE WITH ALL WEATHER MODS AND ENBs!\n\nREQUIRES FAR HARBOR AND NUKA WORLD!\n\nVERSION 2 REQUIRES",
-          "FileID": 199780,
+          "Author": "Ryan",
+          "Description": "It\u0027s like buffout but for the engine",
+          "FileID": 240199,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49613/49613-1611427869-1336442003.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47359/47359-1599900935-173191707.png",
           "IsNSFW": false,
-          "ModID": 49613,
-          "Name": "Sunlight Alignment Tweak - Better Dawn and Dusk",
-          "Version": "2.1"
+          "ModID": 47359,
+          "Name": "Buffout 4",
+          "Version": "1.24.5"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "eRaBcpxid4Y=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=41178\nfileID=209407",
-        "Name": "Bullet Counted Reload - v.2.00-41178-2-00-1622713974.zip",
-        "Size": 240029,
+        "Hash": "V2GEpdWVqf0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=31855\nfileID=130010",
+        "Name": "9x39Project Addon Replacer-31855-1-1a.zip",
+        "Size": 284199958,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "shavkacagarikia",
-          "Description": "Finally, a proper engine-level system for bullet counted reloads with most of the features such a system should have.",
-          "FileID": 209407,
+          "Author": "The Shiny Haxorus",
+          "Description": "A reanimation of the AS VAL/VSS 9x39 Project. Various nif/plugin/material changes/additions. Love this mod but a bit bored of it? This is for you!",
+          "FileID": 130010,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41178/41178-1568917895-1877786549.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/31855/31855-1526810298-1455674518.jpeg",
           "IsNSFW": false,
-          "ModID": 41178,
-          "Name": "Bullet Counted Reload System (BCR)",
-          "Version": "2.00"
+          "ModID": 31855,
+          "Name": "9x39 Project Addon and Replacer",
+          "Version": "1.1a"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6Wql/l6hLVI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=27479\nfileID=172411",
-        "Name": "Crafting Highlight Fix 1.8.8-27479-1-8-8-1576067808.zip",
-        "Size": 145150,
+        "Hash": "zaqI3bxoGVs=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=10370\nfileID=44047",
+        "Name": "Dynamic Music Overhaul-10370-1-1.rar",
+        "Size": 61475,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "registrator2000",
-          "Description": "A F4SE plugin that allows you to disable the hardcoded, vision-obscuring shader effect at various workbenches so you can actually see what you\u0027re crafting.\n\n\n\nAlso allows you to change the shader effect for the Power Armor station and robot workbenches to a outline-only shader instead of a full shader.",
-          "FileID": 172411,
+          "Author": "AKcelsior and crazyjackal",
+          "Description": "Sick of molerats and bloatflys triggering epic combat music? So are we.",
+          "FileID": 44047,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27479-0-1508689568.gif",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/10370-0-1458364829.jpg",
           "IsNSFW": false,
-          "ModID": 27479,
-          "Name": "Crafting Highlight Fix",
-          "Version": "1.8.8"
+          "ModID": 10370,
+          "Name": "Dynamic Music Overhaul",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "G1eLXVPixMU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=22516\nfileID=95375",
+        "Name": "Hunting Shotgun 2k-22516-1-2-1.zip",
+        "Size": 50038529,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Hitman47101 and DeadPool2099",
+          "Description": "This mod adds pump Hunting Shotgun, which is based on famous gun from Fallout New Vegas",
+          "FileID": 95375,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/22516-0-1489054976.png",
+          "IsNSFW": false,
+          "ModID": 22516,
+          "Name": "Hunting Shotgun",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Y1Rxbi+Sa6A=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=67115\nfileID=261255",
+        "Name": "Minuteman Watchtowers (ESL)-67115-0-1-1671746977.zip",
+        "Size": 1239399,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Spiffyskytrooper",
+          "Description": "8 new watchtowers scatter the Comonwealth as remains of a bygone faction.",
+          "FileID": 261255,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/67115/67115-1671747655-111461784.png",
+          "IsNSFW": false,
+          "ModID": 67115,
+          "Name": "Minuteman Watchtowers",
+          "Version": "0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qGS6Dn4NJas=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=17850\nfileID=234924",
+        "Name": "No More Fake Puddles-17850-2-1-1650032227.7z",
+        "Size": 1226,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "twizz0r",
+          "Description": "A simple texture replacement to remove the persistent fake puddles from the game. No more fake reflections!",
+          "FileID": 234924,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/17850-7-1472570078.png",
+          "IsNSFW": false,
+          "ModID": 17850,
+          "Name": "No More Fake Puddles",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Dqb0VCwKsQs=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=32361\nfileID=134052",
+        "Name": "Service Rifle-32361-0-96.zip",
+        "Size": 260609606,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DeadPool2099 - The Shiny Haxorus and friends",
+          "Description": "This mod will add Service Rifle from Fallout New Vegas, based on legendary M16 platform, with completely scratch-made assets and animations",
+          "FileID": 134052,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/32361/32361-1528756323-651319149.jpeg",
+          "IsNSFW": false,
+          "ModID": 32361,
+          "Name": "Service Rifle",
+          "Version": "0.96"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yDJ1lZUrbD4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=45659\nfileID=194937",
+        "Name": "_Sound Zero_-45659-2-1605358427.7z",
+        "Size": 6279472,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Hedied",
+          "Description": "Adds actual gun shot reverbs which makes a big difference when shooting in interior.",
+          "FileID": 194937,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/45659/45659-1592030251-210757681.png",
+          "IsNSFW": false,
+          "ModID": 45659,
+          "Name": "_Sound Zero_",
+          "Version": "0"
         }
       }
     },
@@ -1589,63 +1904,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "oXj3n5Etc8A=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=37599\nfileID=249602",
-        "Name": "Survival Configuration Menu-37599-0-9-5-1662383740.zip",
-        "Size": 110784,
+        "Hash": "VRMsaM3ueVk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=64891\nfileID=276798",
+        "Name": "Bullet Impact Overhaul Lowered Sound 1.7-64891-1-7-1683762482.zip",
+        "Size": 183787,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Zzyxzz",
-          "Description": "Features a brand new eat and drink system, which relies on weight of the item instead of the caps value and allows you to control it.\n\nIn addition to that, you can tweak many aspects of the survival added features. Like tweaking disease chance, disabling Adrenaline. Choose how long you can maximally sleep on the different bet types.\n\nAnd mo",
-          "FileID": 249602,
+          "Author": "Thumblesteen and me",
+          "Description": "Increases the volume of the impact sound of bullets on all surfaces, their soundcracks and tails, the result is a crunchy, dangerous soundscape that will make you duck in cover in every gunfight",
+          "FileID": 276798,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/37599/37599-1551538674-568822138.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/64891/64891-1665079348-2112207250.png",
           "IsNSFW": false,
-          "ModID": 37599,
-          "Name": "Survival Configuration Menu",
-          "Version": "0.8.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4EGffrJZI/4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=27582\nfileID=139005",
-        "Name": "Alex\u0027s Male First Person Camera Height Fix-27582-2-0.zip",
-        "Size": 8498,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Alex me lol",
-          "Description": "Adjust the eyeheight in first person if you play as a male character.",
-          "FileID": 139005,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27582/27582-1529561717-633053722.png",
-          "IsNSFW": false,
-          "ModID": 27582,
-          "Name": "Alex\u0027s Male First Person Camera Height Fix",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kOyrA/q6Jck=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=49253\nfileID=198326",
-        "Name": "AnotherOne Bren LMG Addon-49253-0-99-1609833360.rar",
-        "Size": 63777673,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "AnotherOne aka RetroPaladin",
-          "Description": "Just a little patch which adds several options to Bren Machinegun",
-          "FileID": 198326,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49253/49253-1609833276-1058338664.png",
-          "IsNSFW": false,
-          "ModID": 49253,
-          "Name": "AnotherOne\u0027s Bren LMG Addon",
-          "Version": "0.99"
+          "ModID": 64891,
+          "Name": "Bullet Impact Overhaul",
+          "Version": "1.5"
         }
       }
     },
@@ -1694,15 +1967,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "2RJ9NumE43A=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=54297\nfileID=262084",
-        "Name": "FROST - AK74M-54297-1-2-1672638065.7z",
-        "Size": 9479,
+        "Hash": "j4LVcQ4yT/Q=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=54297\nfileID=268277",
+        "Name": "FROST - AK74M-54297-1-3-1677186745.7z",
+        "Size": 10224,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kjg92 and RedMetalShield",
           "Description": "Alters the AK74M to adhere to FROST Survival Simulator\u0027s various changes.",
-          "FileID": 262084,
+          "FileID": 268277,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/54297/54297-1630955041-473265468.png",
           "IsNSFW": false,
@@ -1715,15 +1988,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+Q9shcxE9c8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53263\nfileID=260807",
-        "Name": "FROST - Caravan Shotgun Patch and Replacer-53263-1-1-1671302129.7z",
-        "Size": 2359,
+        "Hash": "JjO38ouklpI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53263\nfileID=268216",
+        "Name": "FROST - Caravan Shotgun Patch and Replacer-53263-1-2-1677129516.7z",
+        "Size": 2461,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kjg92",
           "Description": "Patches Deadpool2099\u0027s Caravan Shotgun to adhere to FROST\u0027s various changes and fixes bugs from the base mod with an option to replace the vanilla Double Barrel Shotgun.",
-          "FileID": 260807,
+          "FileID": 268216,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53263/53263-1626325896-1535121966.png",
           "IsNSFW": false,
@@ -1736,15 +2009,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "fuRkOl7mjBo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53326\nfileID=262847",
-        "Name": "FROST - Grease Gun SMG Patch and Replacer-53326-1-1-1673159756.7z",
-        "Size": 3407,
+        "Hash": "yNudPxIK6zY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53326\nfileID=268219",
+        "Name": "FROST - Grease Gun SMG Patch and Replacer-53326-1-2-1677131351.7z",
+        "Size": 3818,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kjg92 and RedMetalShield",
           "Description": "Alters Deadpool2099\u0027s Grease Gun SMG to adhere to FROST\u0027s various changes and provides options for replacing the vanilla Pipe Gun.",
-          "FileID": 262847,
+          "FileID": 268219,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53326/53326-1626591250-1118570267.png",
           "IsNSFW": false,
@@ -1778,15 +2051,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "CQPOlYn39A0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53347\nfileID=262095",
-        "Name": "FROST - M1 Garand Patch and Replacer-53347-1-3-1672640666.7z",
-        "Size": 12577,
+        "Hash": "xMZJpwN+SCE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53347\nfileID=268227",
+        "Name": "FROST - M1 Garand Patch and Replacer-53347-1-4-1677134703.7z",
+        "Size": 12736,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kjg92 and RedMetalShield",
           "Description": "Alters asXas\u0027s M1 Garand to adhere to FROST\u0027s balance changes with an option to replace the vanilla Pipe Bolt Action",
-          "FileID": 262095,
+          "FileID": 268227,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53347/53347-1626660615-2142555421.jpeg",
           "IsNSFW": false,
@@ -1799,15 +2072,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "xtJgg59k5cc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53072\nfileID=260762",
-        "Name": "FROST - DP Service Rifle Patch and Replacer-53072-2-0-1671266652.7z",
-        "Size": 32040,
+        "Hash": "7ioX1RLRkeQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53072\nfileID=268267",
+        "Name": "FROST - DP Service Rifle Patch and Replacer-53072-2-1-1677181372.7z",
+        "Size": 32749,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kjg92 and RedMetalShield",
           "Description": "A patch to make Deadpool2099\u0027s Service Rifle consistent with FROST in terms of balance and lore with an option to replace the vanilla Assault Rifle.",
-          "FileID": 260762,
+          "FileID": 268267,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53072/53072-1626240642-2067449177.jpeg",
           "IsNSFW": false,
@@ -1820,41 +2093,83 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Kf2VYMLA4p0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=59652\nfileID=258509",
-        "Name": "FROST Cell Fixes (FCF) - Patches-59652-2-0-1-1669666383.7z",
-        "Size": 38710149,
+        "Hash": "hbasrpqUp3k=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=18898\nfileID=261064",
+        "Name": "FROST (BA2 Version)-18898-0-55-1671567078.zip",
+        "Size": 713786134,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "krrptd",
-          "Description": "FROST Cell Fixes (FCF) is the AIO successor of my previously released FROST Interior and Exterior Cell Fixes.  A rebuild of the previsibines for the whole game with FROST in mind, and adding a ton of bug fixes both for vanilla and FROST.",
-          "FileID": 258509,
+          "Author": "naugrim04",
+          "Description": "FROST is a hardcore total conversion mod set in the years following the Great War of 2077 that aims to eliminate all vanilla quests and NPCs to create a freeform survival experience.",
+          "FileID": 261064,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/59652/59652-1649851922-1874826542.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/18898-0-1475212708.png",
           "IsNSFW": false,
-          "ModID": 59652,
-          "Name": "FROST Cell Fixes (FCF)",
-          "Version": "1.3.1b"
+          "ModID": 18898,
+          "Name": "FROST Survival Simulator",
+          "Version": "v0.55"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "G1eLXVPixMU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=22516\nfileID=95375",
-        "Name": "Hunting Shotgun 2k-22516-1-2-1.zip",
-        "Size": 50038529,
+        "Hash": "F+e2Q4GL6JQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=21921\nfileID=90736",
+        "Name": "Grease Gun SMG-21921-1-0-4-1.zip",
+        "Size": 29940287,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Hitman47101 and DeadPool2099",
-          "Description": "This mod adds pump Hunting Shotgun, which is based on famous gun from Fallout New Vegas",
-          "FileID": 95375,
+          "Description": "This mod adds a Grease Gun a.k.a. 9mm Submachine Gun, seen in FO2 and FNV",
+          "FileID": 90736,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/22516-0-1489054976.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/21921-0-1486661921.png",
           "IsNSFW": false,
-          "ModID": 22516,
-          "Name": "Hunting Shotgun",
+          "ModID": 21921,
+          "Name": "Grease Gun SMG",
+          "Version": "1.0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HHAIhwPH8iA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=35904\nfileID=147945",
+        "Name": "Project Reality Footsteps FO4 (Snow Edition) 1.6 BA2-35904-1-6-1544721150.zip",
+        "Size": 3588575,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "HULKHOD3N x PR BF2 DevTeam",
+          "Description": "Changes almost all footstep sounds into more realistic ones. Including subtle gear and backpack rattle. *Snow Edition* available.",
+          "FileID": 147945,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35904/35904-1579241797-1924239260.jpeg",
+          "IsNSFW": false,
+          "ModID": 35904,
+          "Name": "Project Reality Footsteps FO4",
+          "Version": "1.7"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "G0RR7roNo68=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=63555\nfileID=247997",
+        "Name": "Reverb and Ambiance Overhaul - Tweaked 1.0-63555-1-0-1661316287.rar",
+        "Size": 49916,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Rantanplan",
+          "Description": "Tweaked version of the \u0022Reverb and Ambiance Overhaul\u0022 Mod by mm137",
+          "FileID": 247997,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63555/63555-1661315899-1676592268.jpeg",
+          "IsNSFW": false,
+          "ModID": 63555,
+          "Name": "Reverb and Ambiance Overhaul - Tweaked",
           "Version": "1.0"
         }
       }
@@ -1862,63 +2177,105 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wvfNBePIyHY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=47327\nfileID=191018",
-        "Name": "Addres Library-47327-1-10-163-0-1599728753.zip",
-        "Size": 9554761,
+        "Hash": "ZS4PzeGo4d0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=70629\nfileID=278470",
+        "Name": "Simple Attack Reactions-70629-2b-1685201318.7z",
+        "Size": 1284,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ryan",
-          "Description": "Provides version independent IDs used for dynamically relocating offsets at runtime.",
-          "FileID": 191018,
+          "Author": "i3ncore",
+          "Description": "Hate that generic stagger as much as I do? Try this.",
+          "FileID": 278470,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47327/47327-1599728447-276378518.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/70629/70629-1681974074-112570748.png",
           "IsNSFW": false,
-          "ModID": 47327,
-          "Name": "Address Library for F4SE Plugins",
-          "Version": "1.10.163.0"
+          "ModID": 70629,
+          "Name": "Simple Attack Reactions - Limb-Specific Animations",
+          "Version": "1c"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uLptKtBaDoY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=47760\nfileID=196371",
-        "Name": "Sprint Stuttering Fix-47760-1-2-1607200820.zip",
-        "Size": 48554,
+        "Hash": "1DYnFhD3OZs=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=49613\nfileID=199780",
+        "Name": "Sunlight Alignment tweak-49613-1-1611436135.zip",
+        "Size": 3470,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "AntoniX",
-          "Description": "Fixed twitching/stuttering when sprinting in first person.\n\n\n\n\u0418\u0441\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0434\u0440\u043E\u0436\u0430\u043D\u0438\u044F \u043A\u0430\u043C\u0435\u0440\u044B \u043E\u0442 \u043F\u0435\u0440\u0432\u043E\u0433\u043E \u043B\u0438\u0446\u0430 \u043F\u0440\u0438 \u0441\u043F\u0440\u0438\u043D\u0442\u0435.",
-          "FileID": 196371,
+          "Author": "falloutkid12",
+          "Description": "Aligns the exterior world lighting with the sun and moon and allows the game to cast shadows at shallower angles. Includes a script that automatically reduces shadow intensity at sunrise and sunset for a more realistic environment.\n\n\n\nCOMPATIBLE WITH ALL WEATHER MODS AND ENBs!\n\nREQUIRES FAR HARBOR AND NUKA WORLD!\n\nVERSION 2 REQUIRES",
+          "FileID": 199780,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47760/47760-1601984314-35274659.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49613/49613-1611427869-1336442003.png",
           "IsNSFW": false,
-          "ModID": 47760,
-          "Name": "Sprint Stuttering Fix",
-          "Version": "1.2"
+          "ModID": 49613,
+          "Name": "Sunlight Alignment Tweak - Better Dawn and Dusk",
+          "Version": "2.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5t3wJ4KAFF0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=61553\nfileID=242295",
-        "Name": "SF Preloader-61553-0-9-1656816814.zip",
-        "Size": 401,
+        "Hash": "c8Q9M9xn0aU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=41099\nfileID=201585",
+        "Name": "Winter Commonwealth Pines-41099-1-8-1613437221.7z",
+        "Size": 1191026323,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Fallout 4 Experiences Team",
-          "Description": "",
-          "FileID": 242295,
+          "Author": "flecked",
+          "Description": "Winter pine trees are all around the Commonwealth",
+          "FileID": 201585,
           "GameName": "Fallout4",
-          "ImageURL": null,
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41099/41099-1608656293-1234157517.png",
           "IsNSFW": false,
-          "ModID": 61553,
-          "Name": "",
-          "Version": "3.5.5"
+          "ModID": 41099,
+          "Name": "Winter Commonwealth Pines",
+          "Version": "1.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "b3IMlDOoVr0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=26163\nfileID=114124",
+        "Name": "Unlimited Survival Mode - F4SE-26163-v1-4-0.7z",
+        "Size": 111275,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kassent",
+          "Description": "This is a F4SE plugin which restores some hard-coded features disabled by game in survival mode,for example,unlock console,enable TGM,enable fast travel,restore vanilla compass settings,enalbe quick save and auto save,etc .",
+          "FileID": 114124,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26163-0-1502835626.jpg",
+          "IsNSFW": false,
+          "ModID": 26163,
+          "Name": "Unlimited Survival Mode - F4SE",
+          "Version": "v1.4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wXgxYsnOWcA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=11734\nfileID=238612",
+        "Name": "Campsite - Simple-11734-1-0-4-1653544913.rar",
+        "Size": 82300428,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "fadingsignal",
+          "Description": "Campsite is a simple, lightweight camping mod that adds craftable / carryable tents, sleeping bags (new HD textures!), dog beds, fires, lanterns, and cooking pot, each with their own unique dynamics, sounds, interactivity.  Simple enough for light play, detailed enough to make you feel involved. VR-friendly.",
+          "FileID": 238612,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/11734-0-1460009964.jpg",
+          "IsNSFW": false,
+          "ModID": 11734,
+          "Name": "Campsite - Simple Wasteland Camping (and HD Sleeping Bags)",
+          "Version": "1.0.2"
         }
       }
     },
@@ -1967,181 +2324,126 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "F+e2Q4GL6JQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=21921\nfileID=90736",
-        "Name": "Grease Gun SMG-21921-1-0-4-1.zip",
-        "Size": 29940287,
+        "Hash": "WCTUI11csrA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=59652\nfileID=280516",
+        "Name": "FROST Cell Fixes (FCF) - Hotfix-59652-2-5-2-1686822882.7z",
+        "Size": 413264157,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Hitman47101 and DeadPool2099",
-          "Description": "This mod adds a Grease Gun a.k.a. 9mm Submachine Gun, seen in FO2 and FNV",
-          "FileID": 90736,
+          "Author": "krrptd",
+          "Description": "FROST Cell Fixes (FCF) is the AIO successor of my previously released FROST Interior and Exterior Cell Fixes.  A rebuild of the previsibines for the whole game with FROST in mind, and adding a ton of bug fixes both for vanilla and FROST.",
+          "FileID": 280516,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/21921-0-1486661921.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/59652/59652-1649851922-1874826542.jpeg",
           "IsNSFW": false,
-          "ModID": 21921,
-          "Name": "Grease Gun SMG",
-          "Version": "1.0.3"
+          "ModID": 59652,
+          "Name": "FROST Cell Fixes (FCF)",
+          "Version": "1.3.1b"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "lJxDRxWZkK0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=20830\nfileID=112759",
-        "Name": "Immersive HUD - iHUD-20830-3-0.rar",
-        "Size": 20716,
+        "Hash": "1isbGTiHwN4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=65485\nfileID=257487",
+        "Name": "Frost Nuka-World Snow Textures-65485-2-0-1668889110.zip",
+        "Size": 26057090,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Gopher",
-          "Description": "HUD when you need. Hide when you don\u0027t.",
-          "FileID": 112759,
+          "Author": "Red",
+          "Description": "A new version of the FROST Official Updates which continues the development of the FROST Survival Simulator mod.\n\nFROST is a total overhaul of Fallout 4 set in the year 2082, over 200 years before the events of vanilla Fallout 4.\n\nExperience a dark and atmospheric world and  try to survive the Nuclear Winter....if you can.",
+          "FileID": 257487,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20830-0-1486726099.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/65485/65485-1667409132-1497221932.png",
           "IsNSFW": false,
-          "ModID": 20830,
-          "Name": "Immersive HUD - iHUD",
-          "Version": "3.0"
+          "ModID": 65485,
+          "Name": "Frost Official Updates (Redux)",
+          "Version": "2.0.4"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "OXmVyST+w2I=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=65489\nfileID=262671",
-        "Name": "Test file-65489-1-2-3-1673043024.zip",
-        "Size": 5011,
+        "Hash": "D0ZA2PcX6LA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=33759\nfileID=137688",
+        "Name": "GCM DLC Automatron-33759-4-0.zip",
+        "Size": 534,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Giammotto",
-          "Description": "Increases the volume of all physical objects (including grenades) when they bounce, hit walls and materials, if you bump on them or push/manipulate them including bullet casings on all surfaces, for the audiophiles of Fallout 4",
-          "FileID": 262671,
+          "Author": "Zzyxzz",
+          "Description": "GCM allows you easily set many game settings without the need of additional ESPs or console commands.",
+          "FileID": 137688,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/65489/65489-1666805255-230132395.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33759/33759-1533151164-1011383970.png",
           "IsNSFW": false,
-          "ModID": 65489,
-          "Name": "Physics Impact Overhaul and Bullet Casing Sounds",
-          "Version": "1.2.1"
+          "ModID": 33759,
+          "Name": "Game Configuration Menu",
+          "Version": "0.7.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Dqb0VCwKsQs=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=32361\nfileID=134052",
-        "Name": "Service Rifle-32361-0-96.zip",
-        "Size": 260609606,
+        "Hash": "q2bz78UVyEk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=70754\nfileID=275771",
+        "Name": "Simple Attack Reaction Speed - Balanced-70754-1-1682925761.7z",
+        "Size": 2171,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DeadPool2099 - The Shiny Haxorus and friends",
-          "Description": "This mod will add Service Rifle from Fallout New Vegas, based on legendary M16 platform, with completely scratch-made assets and animations",
-          "FileID": 134052,
+          "Author": "i3ncore",
+          "Description": "Did you know hit react animations were sped up by 50%?",
+          "FileID": 275771,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/32361/32361-1528756323-651319149.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/70754/70754-1682251483-476138403.png",
           "IsNSFW": false,
-          "ModID": 32361,
-          "Name": "Service Rifle",
-          "Version": "0.96"
+          "ModID": 70754,
+          "Name": "Simple Attack Reaction Speed (Fix)",
+          "Version": "1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "9V+MfFuB9Iw=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=56650\nfileID=224561",
-        "Name": "Combined Combat XP (F4SE)-56650-1-00-1640220421.zip",
-        "Size": 70456,
+        "Hash": "5t3wJ4KAFF0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=61553\nfileID=242295",
+        "Name": "SF Preloader-61553-0-9-1656816814.zip",
+        "Size": 401,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lStewieAl",
-          "Description": "Simple F4SE plugin (dll) to delay XP popups till after combat.",
-          "FileID": 224561,
+          "Author": "Fallout 4 Experiences Team",
+          "Description": "",
+          "FileID": 242295,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56650/56650-1639701399-1167911108.png",
+          "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 56650,
-          "Name": "Combined Combat XP (F4SE)",
-          "Version": "1.00"
+          "ModID": 61553,
+          "Name": "",
+          "Version": "3.5.5"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qDTPWfVUpL0=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_fallout4_v0478.zip_30119acb-3de8-46d3-8622-fc86064e9e19",
-        "Name": "enbseries_fallout4_v0478.zip",
-        "Size": 2913106,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/enbseries_fallout4_v0478.zip_30119acb-3de8-46d3-8622-fc86064e9e19"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "5lnqwWvOd70=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=33946\nfileID=221778",
-        "Name": "xSE PluginPreloader F4 0.2.5.1-33946-0-2-5-1-1637347868.zip",
-        "Size": 2253885,
+        "Hash": "7yL00qOvVu4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=49244\nfileID=198349",
+        "Name": "Fallout London - Bren gun-49244-1-1-1609850109.zip",
+        "Size": 42842519,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Karandra",
-          "Description": "This mod allows preload F4SE plugins before the game initializes.",
-          "FileID": 221778,
+          "Author": "Team FOLON",
+          "Description": "This is a standalone weapon mod is that will also be featured in the upcoming Fallout: London mod.\n\nIt contains a Bren Gun with various workbench attachments to make different versions to better suit the users need.\n\nCustom animations which are different for both 1st/3rd Person and Power Armour.",
+          "FileID": 198349,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33946/33946-1637514329-1439127529.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49244/49244-1609797108-329192660.png",
           "IsNSFW": false,
-          "ModID": 33946,
-          "Name": "xSE PluginPreloader F4",
-          "Version": "0.2.5.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "MGGXgy1mAWo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=21142\nfileID=87199",
-        "Name": ".45 Auto Pistol Ha_ru anims-21142-1-2-1.zip",
-        "Size": 42546702,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DeadPool2099 Ha_ru and hitman47101",
-          "Description": "This mod adds .45 Auto Pistol from Fallout New Vegas Honest Hearts DLC with unique A Light Shining In Darkness",
-          "FileID": 87199,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/21142-0-1483915058.png",
-          "IsNSFW": false,
-          "ModID": 21142,
-          "Name": ".45 Auto Pistol (Colt M1911)",
-          "Version": "1.2.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "siQbj9kHwj4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=35442\nfileID=157476",
-        "Name": "COTC 1.1.1-35442-1-1-1-1557177741.rar",
-        "Size": 3024,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Titaa",
-          "Description": "A Dark \u0026amp; eerie music, menu cinematic, and UI FX overhaul.\n\nLots of samples showcases in the video tabs\n\nBest played with Frost/Horizon and any weather \u002B enb that\u0027ll make the game depressing",
-          "FileID": 157476,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35442/35442-1539977729-1186885470.jpeg",
-          "IsNSFW": false,
-          "ModID": 35442,
-          "Name": "COTC - A Dark and Eerie Menu Cinematic and Music Soundtrack Overhaul",
-          "Version": "1.1.1"
+          "ModID": 49244,
+          "Name": "Fallout London - Bren Gun",
+          "Version": "Mk1"
         }
       }
     },
@@ -2190,15 +2492,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HXpceuSQxK8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53880\nfileID=262098",
-        "Name": "FROST - M1928A1 Replacer-53880-1-1-1672641792.7z",
-        "Size": 4015,
+        "Hash": "YNw/9ZDBlVM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53880\nfileID=268229",
+        "Name": "FROST - M1928A1 Replacer-53880-1-2-1677136309.7z",
+        "Size": 4131,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kjg92",
           "Description": "Alter\u0027s noniac\u0027s M1928A1 Thompson to adhere to FROST\u0027s various changes and replaces the vanilla submachine gun.",
-          "FileID": 262098,
+          "FileID": 268229,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53880/53880-1629262386-856410025.png",
           "IsNSFW": false,
@@ -2232,15 +2534,36 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WTi+Uo6qpME=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=38448\nfileID=262385",
-        "Name": "LAT Patches FOMOD-38448-LATP1-06-1672829740.zip",
-        "Size": 194535,
+        "Hash": "Nf+bs0uXkL8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=46749\nfileID=188550",
+        "Name": "Less Intense Speculars - TrueBlood-46749-1-1-1596739832.rar",
+        "Size": 4259179,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ossumpossum",
+          "Description": "Decent workaround to this horrendous issue",
+          "FileID": 188550,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46749/46749-1596686424-125494797.png",
+          "IsNSFW": false,
+          "ModID": 46749,
+          "Name": "Flickering Blood and Flickering Puddles - The Solution",
+          "Version": "Bugthesda"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mETHv6Hfxxg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=38448\nfileID=264354",
+        "Name": "LOST Audio Tweaks-38448-4-1-2hotfix-1674313983.zip",
+        "Size": 126778363,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Mortercotic",
           "Description": "Sound mods pack and other tweaks!\n\nDon\u0027t expect big changes since I want this to be as much compatible as possible and to let users choose their own sound mods. If you want to help and/or advice of better ways, please let me know.",
-          "FileID": 262385,
+          "FileID": 264354,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/38448/38448-1566082368-1695805874.jpeg",
           "IsNSFW": false,
@@ -2253,146 +2576,104 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "2HQOnhoprdc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=35226\nfileID=143112",
-        "Name": "PollutedClimate-Winter_FROST Patch-35226-1-0.7z",
-        "Size": 2965,
+        "Hash": "WL3WGDrmqvo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53702\nfileID=287083",
+        "Name": "Patch - FROST and IAF-53702-2-6-1692319802.7z",
+        "Size": 3692,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "tjwoosta",
-          "Description": "Adds FROST\u0027s atmospheric radiation spell to Polluted Climate Winter Edition weathers",
-          "FileID": 143112,
+          "Author": "kjg92",
+          "Description": "Patches the new items added by FROST, FROST Plus, and FROST Official Updates to use animations introduced by IAF.",
+          "FileID": 287083,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35226/35226-1539096672-975471464.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53702/53702-1628372833-941903655.png",
           "IsNSFW": false,
-          "ModID": 35226,
-          "Name": "Polluted Climate Winter FROST Patch",
-          "Version": "1.0"
+          "ModID": 53702,
+          "Name": "Patches - Immersive Animation Framework (IAF) and FROST",
+          "Version": "2.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "G0RR7roNo68=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=63555\nfileID=247997",
-        "Name": "Reverb and Ambiance Overhaul - Tweaked 1.0-63555-1-0-1661316287.rar",
-        "Size": 49916,
+        "Hash": "sKZM8su0HfQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=35083\nfileID=142816",
+        "Name": "Polluted Climate - Winter Edition 1.02-35083-1-02.zip",
+        "Size": 45161,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Rantanplan",
-          "Description": "Tweaked version of the \u0022Reverb and Ambiance Overhaul\u0022 Mod by mm137",
-          "FileID": 247997,
+          "Author": "Mandragorasprouts",
+          "Description": "Polluted Climate - Winter Edition",
+          "FileID": 142816,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/63555/63555-1661315899-1676592268.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35083/35083-1538513107-708260181.png",
           "IsNSFW": false,
-          "ModID": 63555,
-          "Name": "Reverb and Ambiance Overhaul - Tweaked",
-          "Version": "1.0"
+          "ModID": 35083,
+          "Name": "Polluted Climate - Winter Edition",
+          "Version": "1.02"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Tdl5KESb3ZQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=23389\nfileID=255516",
-        "Name": "Wetness Shader Fix-23389-3-6-2-1667405114.7z",
-        "Size": 148762541,
+        "Hash": "wvfNBePIyHY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=47327\nfileID=191018",
+        "Name": "Addres Library-47327-1-10-163-0-1599728753.zip",
+        "Size": 9554761,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ablaze666",
-          "Description": "This small mod fixes the exaggerated shine of specific objects while it\u0027s raining.",
-          "FileID": 255516,
+          "Author": "Ryan",
+          "Description": "Provides version independent IDs used for dynamically relocating offsets at runtime.",
+          "FileID": 191018,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23389-0-1492422847.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47327/47327-1599728447-276378518.png",
           "IsNSFW": false,
-          "ModID": 23389,
-          "Name": "Wetness Shader Fix",
-          "Version": "3.41"
+          "ModID": 47327,
+          "Name": "Address Library for F4SE Plugins",
+          "Version": "1.10.163.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yDJ1lZUrbD4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=45659\nfileID=194937",
-        "Name": "_Sound Zero_-45659-2-1605358427.7z",
-        "Size": 6279472,
+        "Hash": "9V+MfFuB9Iw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56650\nfileID=224561",
+        "Name": "Combined Combat XP (F4SE)-56650-1-00-1640220421.zip",
+        "Size": 70456,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Hedied",
-          "Description": "Adds actual gun shot reverbs which makes a big difference when shooting in interior.",
-          "FileID": 194937,
+          "Author": "lStewieAl",
+          "Description": "Simple F4SE plugin (dll) to delay XP popups till after combat.",
+          "FileID": 224561,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/45659/45659-1592030251-210757681.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56650/56650-1639701399-1167911108.png",
           "IsNSFW": false,
-          "ModID": 45659,
-          "Name": "_Sound Zero_",
-          "Version": "0"
+          "ModID": 56650,
+          "Name": "Combined Combat XP (F4SE)",
+          "Version": "1.00"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8FL8QdERw7s=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=56195\nfileID=257096",
-        "Name": "MCM Settings Manager-56195-1-2-1668562769.rar",
-        "Size": 138229,
+        "Hash": "o6oWTouG2sA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=48078\nfileID=194684",
+        "Name": "Weapon Debris Crash Fix-48078-1-2-1605028967.zip",
+        "Size": 48488,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "Save, load, transfer, import and export all your MCM settings at once. Transfer settings between savegames, backup your favorite settings, or send your settings to another user!",
-          "FileID": 257096,
+          "Author": "Antonix35",
+          "Description": "Fixed crashes caused by Weapon Debris setting\n\n\n\n\u0418\u0441\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0432\u044B\u043B\u0435\u0442\u043E\u0432 \u043F\u0440\u0438 \u0432\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u043E\u0439 \u043D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0435 \u0022\u041E\u0441\u043A\u043E\u043B\u043A\u0438 \u043E\u0442 \u0432\u044B\u0441\u0442\u0440\u0435\u043B\u043E\u0432\u0022",
+          "FileID": 194684,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56195/56195-1638374233-408174017.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48078/48078-1604258720-935354418.jpeg",
           "IsNSFW": false,
-          "ModID": 56195,
-          "Name": "MCM Settings Manager",
-          "Version": "1.0.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "MobZySnYY74=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=21466\nfileID=130671",
-        "Name": "AK74M - Assault Rifle v3.5-21466-3-5.rar",
-        "Size": 339453784,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "FX0x01 - Ha_ru - Navaro -  Vadim Spiridonov",
-          "Description": "This mod adds a AK74M into Fallout 4. It features Custom animations and Sounds.",
-          "FileID": 130671,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/21466/21466-1527624826-1677295907.png",
-          "IsNSFW": false,
-          "ModID": 21466,
-          "Name": "AK74M - Assault Rifle",
-          "Version": "3.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "wnJFQqsn7oo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=28478\nfileID=133276",
-        "Name": "Bozar-28478-1-2.zip",
-        "Size": 167249686,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DeadPool2099 - Hitman47101",
-          "Description": "This mod will add Bozar - a legendary sniper LMG from Fallout 2 and Fallout New Vegas GRA DLC, with new bullpup design, custom assets and animations",
-          "FileID": 133276,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/28478/28478-1513098501-379259093.jpeg",
-          "IsNSFW": false,
-          "ModID": 28478,
-          "Name": "Bullpup Bozar",
+          "ModID": 48078,
+          "Name": "Weapon Debris Crash Fix",
           "Version": "1.2"
         }
       }
@@ -2400,20 +2681,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "pWPHtfE2f1o=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=28399\nfileID=116215",
-        "Name": "Caravan Shotgun-28399-1-0.zip",
-        "Size": 85782045,
+        "Hash": "4EGffrJZI/4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27582\nfileID=139005",
+        "Name": "Alex\u0027s Male First Person Camera Height Fix-27582-2-0.zip",
+        "Size": 8498,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DeadPool2099 - The Shiny Haxorus",
-          "Description": "Remake of Classic over-under shotgun, known as Caravan Shotgun from FNV, made for Fallout 4 New Vegas Project",
-          "FileID": 116215,
+          "Author": "Alex me lol",
+          "Description": "Adjust the eyeheight in first person if you play as a male character.",
+          "FileID": 139005,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/28399/28399-1512769041-928009745.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27582/27582-1529561717-633053722.png",
           "IsNSFW": false,
-          "ModID": 28399,
-          "Name": "Caravan Shotgun",
+          "ModID": 27582,
+          "Name": "Alex\u0027s Male First Person Camera Height Fix",
           "Version": "1.0"
         }
       }
@@ -2421,36 +2702,70 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "YbsVsv5fDPY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=43458\nfileID=241301",
-        "Name": "(Archived Version) Ultimate Window Overhaul Redone-43458-4-0-1655919356.rar",
-        "Size": 406799766,
+        "Hash": "qDTPWfVUpL0=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_fallout4_v0478.zip_30119acb-3de8-46d3-8622-fc86064e9e19",
+        "Name": "enbseries_fallout4_v0478.zip",
+        "Size": 2913106,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SickStyle",
-          "Description": "You won\u0027t know you really need this mod, until you install it. This mod overhauls all windows across the Commonwealth. RTX-ish next-gen reflections!",
-          "FileID": 241301,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/43458/43458-1619463475-1957245561.png",
-          "IsNSFW": false,
-          "ModID": 43458,
-          "Name": "Fallout 4 Ultimate Window Overhaul",
-          "Version": "3.1"
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/enbseries_fallout4_v0478.zip_30119acb-3de8-46d3-8622-fc86064e9e19"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "7aFiqMVoO28=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53467\nfileID=262080",
-        "Name": "FROST - 9x39 Project-53467-1-3-1672636666.7z",
-        "Size": 7729,
+        "Hash": "5lnqwWvOd70=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=33946\nfileID=221778",
+        "Name": "xSE PluginPreloader F4 0.2.5.1-33946-0-2-5-1-1637347868.zip",
+        "Size": 2253885,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Karandra",
+          "Description": "This mod allows preload F4SE plugins before the game initializes.",
+          "FileID": 221778,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33946/33946-1637514329-1439127529.png",
+          "IsNSFW": false,
+          "ModID": 33946,
+          "Name": "xSE PluginPreloader F4",
+          "Version": "0.2.5.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8UBu5XrcLFU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=69658\nfileID=270442",
+        "Name": "Crate 2k Retexture - It has been a long time-69658-0-1-1678743224.7z",
+        "Size": 27690989,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "HappoMatka",
+          "Description": "Another box bites the damp/time.",
+          "FileID": 270442,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69658/69658-1678742883-2077276353.png",
+          "IsNSFW": false,
+          "ModID": 69658,
+          "Name": "Another Crate Retexture - It has been a long time",
+          "Version": "0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fc4ZU6QtXYg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53467\nfileID=268486",
+        "Name": "FROST - 9X39 Project-53467-1-4-1677299942.7z",
+        "Size": 7756,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kjg92 and RedMetalShield",
           "Description": "Alters 9x39 Project to adhere to FROST\u0027s various changes.",
-          "FileID": 262080,
+          "FileID": 268486,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53467/53467-1627249072-1864563675.png",
           "IsNSFW": false,
@@ -2484,15 +2799,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "MOODWGGh03s=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53488\nfileID=262087",
-        "Name": "FROST - Bren Gun-53488-1-1-1672639126.7z",
-        "Size": 6252,
+        "Hash": "HiaWLjs8+L0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53488\nfileID=268214",
+        "Name": "FROST - Bren Gun-53488-1-2-1677128617.7z",
+        "Size": 6270,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "kjg92 and RedMetalShield",
           "Description": "Alters the Fallout London Bren Gun to adhere to FROST\u0027s various changes.",
-          "FileID": 262087,
+          "FileID": 268214,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53488/53488-1627348911-56449895.jpeg",
           "IsNSFW": false,
@@ -2526,84 +2841,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Nf+bs0uXkL8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=46749\nfileID=188550",
-        "Name": "Less Intense Speculars - TrueBlood-46749-1-1-1596739832.rar",
-        "Size": 4259179,
+        "Hash": "0EtX8VoWW/M=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=33759\nfileID=160697",
+        "Name": "GCM DLC Far Harbor-33759-0-6-1561641689.zip",
+        "Size": 420,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ossumpossum",
-          "Description": "Decent workaround to this horrendous issue",
-          "FileID": 188550,
+          "Author": "Zzyxzz",
+          "Description": "GCM allows you easily set many game settings without the need of additional ESPs or console commands.",
+          "FileID": 160697,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46749/46749-1596686424-125494797.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33759/33759-1533151164-1011383970.png",
           "IsNSFW": false,
-          "ModID": 46749,
-          "Name": "Flickering Blood and Flickering Puddles - The Solution",
-          "Version": "Bugthesda"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4wo+tgAxzjA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=46343\nfileID=199139",
-        "Name": "Sinister Ambient Sound Night Version-46343-1-0-1610791712.7z",
-        "Size": 1999,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "zorak912",
-          "Description": "This mod adds new creepy and not-so-creepy sounds to the commonwealth atmosphere",
-          "FileID": 199139,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46343/46343-1594968141-806680629.jpeg",
-          "IsNSFW": false,
-          "ModID": 46343,
-          "Name": "Sinister Ambient Sound",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "YwyYh7SebB0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=50618\nfileID=203153",
-        "Name": "FROST - Supermutant Locations-50618-1-0-1615162195.7z",
-        "Size": 854717,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "undernier",
-          "Description": "Overhaul locations originally occupied by supermutants. Modifications range from just removing fires to completely new encounters.",
-          "FileID": 203153,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50618/50618-1615161643-938878300.jpeg",
-          "IsNSFW": true,
-          "ModID": 50618,
-          "Name": "FROST - Dark Calling - Supermutant Locations Overhaul",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "1isbGTiHwN4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=65485\nfileID=257487",
-        "Name": "Frost Nuka-World Snow Textures-65485-2-0-1668889110.zip",
-        "Size": 26057090,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Red",
-          "Description": "A new version of the FROST Official Updates which continues the development of the FROST Survival Simulator mod.\n\nFROST is a total overhaul of Fallout 4 set in the year 2082, over 200 years before the events of vanilla Fallout 4.\n\nExperience a dark and atmospheric world and  try to survive the Nuclear Winter....if you can.",
-          "FileID": 257487,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/65485/65485-1667409132-1497221932.png",
-          "IsNSFW": false,
-          "ModID": 65485,
-          "Name": "Frost Official Updates (Redux)",
-          "Version": "2.0.4"
+          "ModID": 33759,
+          "Name": "Game Configuration Menu",
+          "Version": "0.7.1"
         }
       }
     },
@@ -2631,20 +2883,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Y1Rxbi+Sa6A=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=67115\nfileID=261255",
-        "Name": "Minuteman Watchtowers (ESL)-67115-0-1-1671746977.zip",
-        "Size": 1239399,
+        "Hash": "Rc06LqmCVqI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=69531\nfileID=269991",
+        "Name": "It has been a long time - 2k-69531-0-1-1678471014.7z",
+        "Size": 29086483,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Spiffyskytrooper",
-          "Description": "8 new watchtowers scatter the Comonwealth as remains of a bygone faction.",
-          "FileID": 261255,
+          "Author": "HappoMatka",
+          "Description": "Retexture of a box.",
+          "FileID": 269991,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/67115/67115-1671747655-111461784.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69531/69531-1678466803-1962505307.png",
           "IsNSFW": false,
-          "ModID": 67115,
-          "Name": "Minuteman Watchtowers",
+          "ModID": 69531,
+          "Name": "MetalBox retexture - It has been a long time",
           "Version": "0.1"
         }
       }
@@ -2652,62 +2904,62 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HHAIhwPH8iA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=35904\nfileID=147945",
-        "Name": "Project Reality Footsteps FO4 (Snow Edition) 1.6 BA2-35904-1-6-1544721150.zip",
-        "Size": 3588575,
+        "Hash": "HcZRIP8ylLY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27019\nfileID=139155",
+        "Name": "RAW INPUT - NMM Installer-27019-2-4.zip",
+        "Size": 120396,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "HULKHOD3N x PR BF2 DevTeam",
-          "Description": "Changes almost all footstep sounds into more realistic ones. Including subtle gear and backpack rattle. *Snow Edition* available.",
-          "FileID": 147945,
+          "Author": "IceKK",
+          "Description": "Disabled Mouse Acceleration, Horizontal/Vertical Parity, Scalable ADS Multiplier, Normalized Sensitivity",
+          "FileID": 139155,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35904/35904-1579241797-1924239260.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27019-1-1506399199.jpg",
           "IsNSFW": false,
-          "ModID": 35904,
-          "Name": "Project Reality Footsteps FO4",
-          "Version": "1.7"
+          "ModID": 27019,
+          "Name": "RAW INPUT - The Ultimate Mouse Sensitivity Fix",
+          "Version": "2.4"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "b3IMlDOoVr0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=26163\nfileID=114124",
-        "Name": "Unlimited Survival Mode - F4SE-26163-v1-4-0.7z",
-        "Size": 111275,
+        "Hash": "siQbj9kHwj4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=35442\nfileID=157476",
+        "Name": "COTC 1.1.1-35442-1-1-1-1557177741.rar",
+        "Size": 3024,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kassent",
-          "Description": "This is a F4SE plugin which restores some hard-coded features disabled by game in survival mode,for example,unlock console,enable TGM,enable fast travel,restore vanilla compass settings,enalbe quick save and auto save,etc .",
-          "FileID": 114124,
+          "Author": "Titaa",
+          "Description": "A Dark \u0026amp; eerie music, menu cinematic, and UI FX overhaul.\n\nLots of samples showcases in the video tabs\n\nBest played with Frost/Horizon and any weather \u002B enb that\u0027ll make the game depressing",
+          "FileID": 157476,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26163-0-1502835626.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/35442/35442-1539977729-1186885470.jpeg",
           "IsNSFW": false,
-          "ModID": 26163,
-          "Name": "Unlimited Survival Mode - F4SE",
-          "Version": "v1.4.0"
+          "ModID": 35442,
+          "Name": "COTC - A Dark and Eerie Menu Cinematic and Music Soundtrack Overhaul",
+          "Version": "1.1.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KB5RzJMiYu0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=20235\nfileID=82834",
-        "Name": "no heartbeat sound-20235-1-0.zip",
-        "Size": 18592,
+        "Hash": "YwyYh7SebB0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=50618\nfileID=203153",
+        "Name": "FROST - Supermutant Locations-50618-1-0-1615162195.7z",
+        "Size": 854717,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "yabo",
-          "Description": "Removes low-health heartbeat sound",
-          "FileID": 82834,
+          "Author": "undernier",
+          "Description": "Overhaul locations originally occupied by supermutants. Modifications range from just removing fires to completely new encounters.",
+          "FileID": 203153,
           "GameName": "Fallout4",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 20235,
-          "Name": "No heartbeat sound",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50618/50618-1615161643-938878300.jpeg",
+          "IsNSFW": true,
+          "ModID": 50618,
+          "Name": "FROST - Dark Calling - Supermutant Locations Overhaul",
           "Version": "1.0"
         }
       }
@@ -2715,20 +2967,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zaqI3bxoGVs=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=10370\nfileID=44047",
-        "Name": "Dynamic Music Overhaul-10370-1-1.rar",
-        "Size": 61475,
+        "Hash": "4wo+tgAxzjA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=46343\nfileID=199139",
+        "Name": "Sinister Ambient Sound Night Version-46343-1-0-1610791712.7z",
+        "Size": 1999,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "AKcelsior and crazyjackal",
-          "Description": "Sick of molerats and bloatflys triggering epic combat music? So are we.",
-          "FileID": 44047,
+          "Author": "zorak912",
+          "Description": "This mod adds new creepy and not-so-creepy sounds to the commonwealth atmosphere",
+          "FileID": 199139,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/10370-0-1458364829.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/46343/46343-1594968141-806680629.jpeg",
           "IsNSFW": false,
-          "ModID": 10370,
-          "Name": "Dynamic Music Overhaul",
+          "ModID": 46343,
+          "Name": "Sinister Ambient Sound",
           "Version": "1.1"
         }
       }
@@ -2736,63 +2988,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WpE7zJZwzPw=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=67474\nfileID=262789",
-        "Name": "Minuteman Watchtowers FROSTified-67474-1-2-1673122302.7z",
-        "Size": 347049,
+        "Hash": "uLptKtBaDoY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=47760\nfileID=196371",
+        "Name": "Sprint Stuttering Fix-47760-1-2-1607200820.zip",
+        "Size": 48554,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "krrptd",
-          "Description": "Minuteman Watchtowers now FROSTified! Including optional versions patched for Another Pine Forest Mod (Winter version) and Winter Commonwealth Pines.",
-          "FileID": 262789,
+          "Author": "AntoniX",
+          "Description": "Fixed twitching/stuttering when sprinting in first person.\n\n\n\n\u0418\u0441\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0434\u0440\u043E\u0436\u0430\u043D\u0438\u044F \u043A\u0430\u043C\u0435\u0440\u044B \u043E\u0442 \u043F\u0435\u0440\u0432\u043E\u0433\u043E \u043B\u0438\u0446\u0430 \u043F\u0440\u0438 \u0441\u043F\u0440\u0438\u043D\u0442\u0435.",
+          "FileID": 196371,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/67474/67474-1672831397-274393969.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47760/47760-1601984314-35274659.jpeg",
           "IsNSFW": false,
-          "ModID": 67474,
-          "Name": "FROST - Minuteman Watchtowers (incl. various pine mods)",
+          "ModID": 47760,
+          "Name": "Sprint Stuttering Fix",
           "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "D0ZA2PcX6LA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=33759\nfileID=137688",
-        "Name": "GCM DLC Automatron-33759-4-0.zip",
-        "Size": 534,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Zzyxzz",
-          "Description": "GCM allows you easily set many game settings without the need of additional ESPs or console commands.",
-          "FileID": 137688,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/33759/33759-1533151164-1011383970.png",
-          "IsNSFW": false,
-          "ModID": 33759,
-          "Name": "Game Configuration Menu",
-          "Version": "0.7.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "wvsUo5KKBs8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=65093\nfileID=255254",
-        "Name": "Melee Impact Overhaul 1.2.1-65093-1-2-1-1667228538.zip",
-        "Size": 4680,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Giammotto",
-          "Description": "Modifies and increases the volume of all melee impact sounds, weapon handling foley, swings, punches, power armour impacts, both given and received, the result is a more satisfying melee experience with hits that feel much more physical and brutal, getting gashed by a machete will be a noticeable hit",
-          "FileID": 255254,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/65093/65093-1665756665-1886146154.png",
-          "IsNSFW": false,
-          "ModID": 65093,
-          "Name": "Melee Impact Overhaul",
-          "Version": "1.0"
         }
       }
     }
