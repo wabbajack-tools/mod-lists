@@ -1,8 +1,7 @@
 ## Validation Report - Tempus Maledictum (wj-featured/tempus_maledictum)
 
 
-### Invalid (1)
-*  [BWB-HSF-Kaidan-2-Extended-Edition-V8.3.2.7z](https://kaidanmod.com/wp-content/uploads/2022/12/BWB-HSF-Kaidan-2-Extended-Edition-V8.3.2.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (1656)
