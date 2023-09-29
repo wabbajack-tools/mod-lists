@@ -31,8 +31,6 @@
     -   [Tales From the Northern Lands](#tales-from-the-northern-lands)
     -   [The Northern Experience](#the-northern-experience)
     -   [The Phoenix Flavour](#the-phoenix-flavour)
-    -   [The Phoenix Flavour - Dragon's Edition](#the-phoenix-flavour---dragons-edition)
-        -   [Additional Features](#additional-features)
     -   [Tempus Maledictum](#tempus-maledictum)
     -   [TSO - Total Skyrim Overhaul](#tso---total-skyrim-overhaul)
     -   [Wildlander](#wildlander)
@@ -411,26 +409,6 @@ Automated installer for [The Phoenix Flavour](https://thephoenixflavour.com/), t
 [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191)
 [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549)
 [Arena](https://www.nexusmods.com/skyrimspecialedition/mods/33487)
-
----
-
-### [The Phoenix Flavour - Dragon's Edition](https://thephoenixflavour.com/skyrim-se/tpf-de/introduction/)
-
-A fork of The Phoenix Flavour, which expands Skyrim's world and possibilities extensively by adding adventuristic content for many tastes and beautiful sceneries surrounding it.
-
-#### Additional Features
-
--   Carefully integrated Creation Content from Anniversary Upgrade;
--   Different quests and places to explore, people to meet;
--   Picturesque additions to Skyrim's landscape and interiors;
--   Seasonal changes in Skyrim's flora and fauna;
--   Not intrusive, interesting new mechanics;
--   Many useful tools and quality of life additions;
--   Unique looks for all races of Skyrim;
--   Fresh, hand-picked animations for player character;
--   ...
-
-[_Click here to learn more_](https://thephoenixflavour.com/skyrim-se/tpf-de/introduction/)
 
 ---
 
