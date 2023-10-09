@@ -79,7 +79,7 @@
 *  [FROST Cell Fixes (FCF) - Main-59652-2-5-1686568553.7z](https://www.nexusmods.com/fallout4/mods/59652/?tab=files&file_id=280231)
 *  [FROST Cell Fixes (FCF) - Patches-59652-2-6-1687769207.7z](https://www.nexusmods.com/fallout4/mods/59652/?tab=files&file_id=281598)
 *  [Frost Nuka-World Snow Textures-65485-2-0-1668889110.zip](https://www.nexusmods.com/fallout4/mods/65485/?tab=files&file_id=257487)
-*  [Frost Official Updates (Redux)-65485-2-2-1-1692965406.zip](https://www.nexusmods.com/fallout4/mods/65485/?tab=files&file_id=287920)
+*  [FROST Official Updates (Redux)-65485-2-2-2-1693481088.zip](https://www.nexusmods.com/fallout4/mods/65485/?tab=files&file_id=288509)
 *  [FROST PLUS - Main-48847-0-5-2-1648764698.7z](https://www.nexusmods.com/fallout4/mods/48847/?tab=files&file_id=233441)
 *  [Game Configuration Menu-33759-0-7-1-1597165382.zip](https://www.nexusmods.com/fallout4/mods/33759/?tab=files&file_id=188907)
 *  [GCM DLC Automatron-33759-4-0.zip](https://www.nexusmods.com/fallout4/mods/33759/?tab=files&file_id=137688)
