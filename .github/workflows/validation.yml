@@ -1,8 +1,6 @@
 name: Validation
 
 on:
-  schedule:
-    - cron: 30 */5 * * *
   push:
     branches: [ master ]
   pull_request:
