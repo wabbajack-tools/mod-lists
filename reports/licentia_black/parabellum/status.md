@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (278)
+### Valid (277)
 *  [1387286231_UAPv2.6.64-1.7z](https://www.loverslab.com/files/file/11033-uap-ultimate-aaf-patch/?do=download)
 *  [2a. Main Repack - Part One-23556-1-0-1565616028.7z](https://www.nexusmods.com/fallout4/mods/23556/?tab=files&file_id=164245)
 *  [2a. Quality Addon - Part One-23556-1-0-1565546826.7z](https://www.nexusmods.com/fallout4/mods/23556/?tab=files&file_id=164210)
@@ -145,7 +145,6 @@
 *  [Fallout 4 Script Extender (F4SE)-42147-0-6-23-1665656782.7z](https://www.nexusmods.com/fallout4/mods/42147/?tab=files&file_id=253313)
 *  [Fallout Priority 3.4.0 (Preview)-52515-3-4-0-1675421049.zip](https://www.nexusmods.com/fallout4/mods/52515/?tab=files&file_id=266097)
 *  Fallout4_Default.ini
-*  Fallout4_Fallout4Prefs.ini
 *  Fallout4.ccc
 *  Fallout4.exe
 *  Fallout4Launcher.exe
