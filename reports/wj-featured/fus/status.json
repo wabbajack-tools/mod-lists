@@ -1222,6 +1222,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "kYVBvzzlhfE=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=openvr_api.dll",
+        "Name": "openvr_api.dll",
+        "Size": 598816,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "openvr_api.dll",
+          "GameVersion": "1.4.15.0",
+          "Hash": "kYVBvzzlhfE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "8Zk3uNHd4L0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=22854\nfileID=357449",
         "Name": "1_Papyrus Extender-22854-5-5-0-1675781101.7z",
@@ -5028,22 +5044,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kYVBvzzlhfE=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=openvr_api.dll",
-        "Name": "openvr_api.dll",
-        "Size": 598816,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "openvr_api.dll",
-          "GameVersion": "1.4.15.0",
-          "Hash": "kYVBvzzlhfE="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "ESZVnG09V+I=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=59118\nfileID=361889",
         "Name": "1_FEC VR-59118-5-1-0-3-1676947489.7z",
@@ -5539,6 +5539,19 @@
           "GameFile": "Data\\Strings\\Update_ITALIAN.ILSTRINGS",
           "GameVersion": "1.4.15.0",
           "Hash": "uXGBYacWm5Q="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "E2u2ERT5TDM=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/FSR2.2.zip_55115dc0-7629-4484-b320-71845cec6c2a",
+        "Name": "FSR2.2.zip",
+        "Size": 967714,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/FSR2.2.zip_55115dc0-7629-4484-b320-71845cec6c2a"
         }
       }
     },
@@ -6202,6 +6215,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "c4h+iJB99eU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=82179\nfileID=348148",
+        "Name": "SkyrimUpscalerVR-82179-1-0-3-1673294859.zip",
+        "Size": 5501141,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PureDark",
+          "Description": "SKSE Plugin to use DLSS/FSR2/XeSS in SkyrimVR.",
+          "FileID": 348148,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/82179/82179-1673026175-1088059400.jpeg",
+          "IsNSFW": false,
+          "ModID": 82179,
+          "Name": "Skyrim Upscaler VR - DLSS FSR2 XeSS",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "P3QYM4s4m3c=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=39433\nfileID=182281",
         "Name": "ImWalkinHereVR-39433-v0-2-BETA-1611795109.zip",
@@ -6698,6 +6732,20 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "3b6G70QVjsU=",
+        "Meta": "[General]\ndirectURL=https://developer.download.nvidia.com/assets/gameworks/downloads/regular/dlss/beta_program_1-20210923T201648Z-001.zip",
+        "Name": "beta_program_1-20210923T201648Z-001.zip",
+        "Size": 9821339,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://developer.download.nvidia.com/assets/gameworks/downloads/regular/dlss/beta_program_1-20210923T201648Z-001.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "xWQ8Tz+rYCw=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=72298\nfileID=339944",
         "Name": "Immersive Smithing 1.0.4-72298-1-0-4-1670837748.zip",
@@ -6734,6 +6782,27 @@
           "ModID": 68793,
           "Name": "Cathedral - 3D Clovers",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pydnRpGAqA4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=82179\nfileID=347262",
+        "Name": "SkyrimUpscalerVR-82179-1-0-1-1673023812.zip",
+        "Size": 5510123,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PureDark",
+          "Description": "SKSE Plugin to use DLSS/FSR2/XeSS in SkyrimVR.",
+          "FileID": 347262,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/82179/82179-1673026175-1088059400.jpeg",
+          "IsNSFW": false,
+          "ModID": 82179,
+          "Name": "Skyrim Upscaler VR - DLSS FSR2 XeSS",
+          "Version": "1.0.1"
         }
       }
     },

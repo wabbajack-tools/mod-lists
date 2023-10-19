@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (505)
+### Valid (509)
 *  [1_Base Object Swapper VR-61734-2-5-1-1673860159.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61734/?tab=files&file_id=350018)
 *  [1_Cathedral - 3D Deathbell-76460-1-1-1664789773.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76460/?tab=files&file_id=321269)
 *  [1_Cathedral - 3D Dragons Tongue - Dark Orange-85694-1-2-1677328513.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85694/?tab=files&file_id=363180)
@@ -45,6 +45,7 @@
 *  [Behavior Data Injector-78146-v0-13-1667564855.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78146/?tab=files&file_id=328879)
 *  [Believable weapons SE-37737-1-0-2-1593641428.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37737/?tab=files&file_id=148339)
 *  [Believable weapons-37737-1-5-1643576065_dbe4ac7aba249fdbbce04c8071f196dc1fed074aea2af59efecaa14b7228ddde_.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37737/?tab=files&file_id=260562)
+*  [beta_program_1-20210923T201648Z-001.zip](https://developer.download.nvidia.com/assets/gameworks/downloads/regular/dlss/beta_program_1-20210923T201648Z-001.zip)
 *  [Better Dynamic Ash SE v2.1.1-54754-2-1-1-1630276704.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54754/?tab=files&file_id=224790)
 *  [Better Dynamic Snow SE v3.3-9121-3-3-1610497942.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9121/?tab=files&file_id=179210)
 *  [Better Resource Warnings-26751-2-2-1609018535.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26751/?tab=files&file_id=176284)
@@ -259,6 +260,7 @@
 *  [FileAccess Interface for Skyrim SE Scripts - FISSES-13956-1-3-7-1574615841.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13956/?tab=files&file_id=114287)
 *  [FISSES DLL for VR-13956-1-3-5-1545666459.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13956/?tab=files&file_id=76109)
 *  [Forgiving Friends-26879-1-0-1609936829.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26879/?tab=files&file_id=177982)
+*  [FSR2.2.zip](https://authored-files.wabbajack.org/FSR2.2.zip_55115dc0-7629-4484-b320-71845cec6c2a)
 *  [Generic Grass Limiter-9005-0-01-1564878661.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9005/?tab=files&file_id=101784)
 *  [Gesture Animation Remix (DAR) - main archive-64420-1-1-0-1650110947.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64420/?tab=files&file_id=277485)
 *  [Gesture Animation Remix (DAR) - shield patch-64420-1-1-0-1650111007.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64420/?tab=files&file_id=277486)
@@ -421,6 +423,8 @@
 *  [Skyrim SE 3D Sound (X3DAudio HRTF)-1897-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1897/?tab=files&file_id=2179)
 *  [Skyrim VR USSEP 4.2.1 and SSE 1.5.97 Compatibility Patch-31673-1-2-1578696926.zip](https://www.nexusmods.com/skyrimspecialedition/mods/31673/?tab=files&file_id=119359)
 *  Skyrim.ini
+*  [SkyrimUpscalerVR-82179-1-0-1-1673023812.zip](https://www.nexusmods.com/skyrimspecialedition/mods/82179/?tab=files&file_id=347262)
+*  [SkyrimUpscalerVR-82179-1-0-3-1673294859.zip](https://www.nexusmods.com/skyrimspecialedition/mods/82179/?tab=files&file_id=348148)
 *  [SkyrimVR and Fallout4VR Configuration Tool-16242-1-3-0-20687.zip](https://www.nexusmods.com/skyrimspecialedition/mods/16242/?tab=files&file_id=55888)
 *  [SkyrimVR PDB-59818-2023-2-10-1676016626.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=358353)
 *  SkyrimVR.exe
