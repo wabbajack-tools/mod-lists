@@ -24,6 +24,12 @@ jobs:
       DISCORD_ENDPOINTS: ${{ secrets.DISCORD_ENDPOINTS }}
     
     steps:
+      - name: Setup .NET Core SDK 8.0.x
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: '8.0.x'
+          include-prerelease: true
+          
       - name: Setup .NET Core SDK 7.0.x
         uses: actions/setup-dotnet@v1
         with:
