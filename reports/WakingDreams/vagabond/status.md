@@ -1,12 +1,10 @@
 ## Validation Report - Vagabond (WakingDreams/vagabond)
 
 
-### Invalid (2)
-*  [【Weapon】Elden Ring - Great Spear.7z](https://drive.google.com/uc?id=19muJYVcS_CwVOsQ9bQL_wWsYRz5W7BZI&export=download)
-*  [【Weapon】EldenRing_LegendaryWeapons.7z](https://drive.google.com/uc?id=11T5k_CAlFMoN9uwWuyRhdRprV7pGHb7n&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4248)
+### Valid (4250)
 *  [- Parallax Meshes-58370-9-5-1685567054.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=393763)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -23,6 +21,8 @@
 *  [[full_inu] Armor Pack 02 SSE.7z](https://drive.google.com/uc?id=12Siwo7JsLw03mJBqXrhHkKOcqPmGPX9k&export=download)
 *  [【Weapon】 Miquellan Knight's Sword.7z](https://www.patreon.com/file?h=68558518&i=11200671)
 *  [【Weapon】Elden ring - Commander's Standard.7z](https://www.patreon.com/file?h=73960863&i=12153333)
+*  [【Weapon】Elden Ring - Great Spear.7z](https://drive.google.com/uc?id=19muJYVcS_CwVOsQ9bQL_wWsYRz5W7BZI&export=download)
+*  [【Weapon】EldenRing_LegendaryWeapons.7z](https://drive.google.com/uc?id=11T5k_CAlFMoN9uwWuyRhdRprV7pGHb7n&export=download)
 *  [【Weapon】Nagakiba.7z](https://www.patreon.com/file?h=68764133&i=11164539)
 *  [【Weapon】Wo Long - Azure Dragon Crescent Glaive.7z](https://www.patreon.com/file?h=80323534&i=13464512)
 *  [00 - Detailmap seamfix - SE-83545-1-0-1-1674783218.7z](https://www.nexusmods.com/skyrimspecialedition/mods/83545/?tab=files&file_id=353402)
