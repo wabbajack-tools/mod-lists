@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (276)
+### Valid (275)
 *  [1387286231_UAPv2.6.64-1.7z](https://www.loverslab.com/files/file/11033-uap-ultimate-aaf-patch/?do=download)
 *  [2a. Main Repack - Part One-23556-1-0-1565616028.7z](https://www.nexusmods.com/fallout4/mods/23556/?tab=files&file_id=164245)
 *  [2a. Quality Addon - Part One-23556-1-0-1565546826.7z](https://www.nexusmods.com/fallout4/mods/23556/?tab=files&file_id=164210)
@@ -29,7 +29,6 @@
 *  [Atom Cats Drag Race Start Fix-60137-1-0-1651412553.zip](https://www.nexusmods.com/fallout4/mods/60137/?tab=files&file_id=236418)
 *  [Atomic Lust-31853-2-7b-1675045989.zip](https://www.nexusmods.com/fallout4/mods/31853/?tab=files&file_id=265514)
 *  [Autoswitch 1.5.10-23136-1-5-10-1576067876.zip](https://www.nexusmods.com/fallout4/mods/23136/?tab=files&file_id=172413)
-*  [Baka MaxPapyrusOps-73774-1-1-0-1691714351.rar](https://www.nexusmods.com/fallout4/mods/73774/?tab=files&file_id=286164)
 *  [Baka ScrapHeap-46340-1-3-1603929984.7z](https://www.nexusmods.com/fallout4/mods/46340/?tab=files&file_id=193899)
 *  [Better Console-26582-v1-4-0.7z](https://www.nexusmods.com/fallout4/mods/26582/?tab=files&file_id=120757)
 *  bink2w64.dll
