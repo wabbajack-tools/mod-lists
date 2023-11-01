@@ -528,7 +528,6 @@
 *  [High Poly Gleamblossoms - ENB Light-40278-1-2-1626461597.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40278/?tab=files&file_id=214944)
 *  [High Poly Head - RaceMenu Patcher-71332-1-1-1657753264.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71332/?tab=files&file_id=298711)
 *  [High Poly Head ENB Brow Fix-63991-1-0-1645387936.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63991/?tab=files&file_id=265711)
-*  [High Poly Head v1.4 (SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 *  [High Poly Milk Jug - HD Textures-69466-1-0-1654889980.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69466/?tab=files&file_id=290262)
 *  [High Poly Milk Jug-69466-1-0-1654889947.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69466/?tab=files&file_id=290260)
 *  [High Poly Project-12029-v5-3-1634909383.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=236420)
@@ -536,6 +535,7 @@
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
 *  [High Quality Food And Ingredients SE-10897-1-9.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10897/?tab=files&file_id=30487)
 *  [High Quality Tintmasks for Vanilla NPCs - BSA 1K-18360-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18360/?tab=files&file_id=68440)
+*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  High.ini
 *  [Horker-28452-2-0-1566470384.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28452/?tab=files&file_id=103926)
 *  [Horse Hide Retexture-42547-1-0-1605794087.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42547/?tab=files&file_id=170736)
