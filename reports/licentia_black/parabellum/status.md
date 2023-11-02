@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (275)
+### Valid (277)
 *  [1387286231_UAPv2.6.64-1.7z](https://www.loverslab.com/files/file/11033-uap-ultimate-aaf-patch/?do=download)
 *  [2a. Main Repack - Part One-23556-1-0-1565616028.7z](https://www.nexusmods.com/fallout4/mods/23556/?tab=files&file_id=164245)
 *  [2a. Quality Addon - Part One-23556-1-0-1565546826.7z](https://www.nexusmods.com/fallout4/mods/23556/?tab=files&file_id=164210)
@@ -133,6 +133,7 @@
 *  [David Hunter - Part 2-16808-2-5-1624627174.zip](https://www.nexusmods.com/fallout4/mods/16808/?tab=files&file_id=211100)
 *  [Deirdre Bugfix-49271-1-0-1609922658.zip](https://www.nexusmods.com/fallout4/mods/49271/?tab=files&file_id=198405)
 *  [deLuxe Mask-4398-0-1.zip](https://www.nexusmods.com/fallout4/mods/4398/?tab=files&file_id=13959)
+*  [DisableExitSave-73462-1-3-1692922225.zip](https://www.nexusmods.com/fallout4/mods/73462/?tab=files&file_id=287871)
 *  [ENB Helper for Fallout 4-56566-1-0-2-1677522163.zip](https://www.nexusmods.com/fallout4/mods/56566/?tab=files&file_id=268795)
 *  [Encounter Zone Recalculation-45674-1-0-1592086483.zip](https://www.nexusmods.com/fallout4/mods/45674/?tab=files&file_id=184238)
 *  [Epilogue Restored-12183-1-0.7z](https://www.nexusmods.com/fallout4/mods/12183/?tab=files&file_id=48438)
@@ -197,6 +198,7 @@
 *  [Loving Curie 1.0.3b-6782-1-0-3b (1).7z](https://www.nexusmods.com/fallout4/mods/6782/?tab=files&file_id=44778)
 *  Low.ini
 *  [M8r98a4f2's Complex Item Sorter-48826-1-11-3-1653545036.rar](https://www.nexusmods.com/fallout4/mods/48826/?tab=files&file_id=238613)
+*  [Maxwell's World - Extended Dialogue Interface Patch-57010-0-1-1641076142.7z](https://www.nexusmods.com/fallout4/mods/57010/?tab=files&file_id=225344)
 *  [Maxwells World-18949-2-1-3a-1695749368.7z](https://www.nexusmods.com/fallout4/mods/18949/?tab=files&file_id=290502)
 *  [MCM Settings Manager-56195-1-2-1668562769.rar](https://www.nexusmods.com/fallout4/mods/56195/?tab=files&file_id=257096)
 *  Medium.ini
