@@ -2,7 +2,7 @@
 
 ### Documentation and Instructions for Installer Version 2.2.6, Wabbajack 2.5.2.2+
 
-**NOTE**: Welcome! Before we get started, a note: if you encounter issues with your installation, the Heartland support channel can be found on (Drazden and Dark's Modding Hub)[https://discord.gg/xQmzNASbz5]. Please direct any and all support queries there.
+**NOTE**: Welcome! Before we get started, a note: if you encounter issues with your installation, the Heartland support channel can be found on (Heartland Modlist Support)[https://discord.gg/xQmzNASbz5]. Please direct any and all support queries there.
 
 ## Mandatory Instructions
 
@@ -198,3 +198,5 @@ _BSA Decompressor recreates BSA archives without zlib compression so the game is
 * **Aerialvas**, **Peria**, and **Mr.Vanato** for their useful optimisation tips and troubleshooting assistance in the heartland-support channel
 * **jdsmith2816** for their help integrating the OUT and SIUT mods in to the installer, and their optimisation of vanilla meshes and textures
 * All the testers and users who have taken time to provide feedback: **Seear**, **Aronax**, **epixxor**, **Duriel**, **Foxman**, **Aerialvas**, **Peria**, **ShadowFyre**, **Mr.Vanato**, **Nazo**, **Stormline**, **MrG**, **carl**, **KatieLW19**,  **KarmasLives22**, **ELDYLO**, **Severance**, **Zierry**, **Gatonegro**, **Bartun**, **b e e g y o s h i**, **Epic**, **NaterOfTheWired** and more!
+
+[Heartland Modlist Support]: https://discord.gg/xQmzNASbz5
