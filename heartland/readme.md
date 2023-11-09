@@ -2,25 +2,28 @@
 
 ### Documentation and Instructions for Installer Version 2.2.6, Wabbajack 2.5.2.2+
 
-**NOTE**: Welcome! Before we get started, a note: if you encounter issues with your installation, the Heartland support channel can be found on (Drazden and Dark's Modding Hub)[https://discord.gg/xQmzNASbz5]. Please direct any and all support queries there.
+**NOTE**: Welcome! Before we get started, a note: if you encounter issues with your installation, the Heartland support channel can be found on (Heartland Modlist Support)[https://discord.gg/xQmzNASbz5]. Please direct any and all support queries there.
 
 ## Mandatory Instructions
 
 #### Prerequisites:
-*   A **vanilla copy of Oblivion** in the **English language** with at least the Knights of the Nine and Shivering Isles DLCs, **obtained from Steam or GOG**, and **installed outside of C:\Program Files.** 
+*   A **vanilla copy of Oblivion** in the **English language** with at least the Knights of the Nine and Shivering Isles DLCs, **obtained from Steam or GOG**, and **installed outside of C:\Program Files.**
 *   **Default Oblivion configuration files**. To generate them, first ensure that the Documents/MyGames/Oblivion folder has been wiped, then **launch the game once in vanilla**.
 *   **50GB of hard drive space** (not including Oblivion).
 *   A Nexus Premium account, or a lot of time to download the mods manually!
 
 ### Using the Wabbajack Autoinstaller
 
-1. **Download** the latest version of Wabbajack from the [Wabbajack Github](https://github.com/wabbajack-tools/wabbajack/releases/), and **extract the Wabbajack.exe** file to a new directory called **Wabbajack**, as close to the root of your drive as possible (e.g. C:\Wabbajack).
-2. **Create a new folder** for the new installation, and call it **Heartland**, placing it close to the root of your drive once again, but not within the Wabbajack folder. Ensure you have at least 50GB of hard drive space.
+1. **Download** the latest version of Wabbajack from the [Wabbajack Github](https://github.com/wabbajack-tools/wabbajack/releases/latest), and **place the Wabbajack.exe** file to a new directory called **Wabbajack**, as close to the root of your drive as possible (e.g. `C:\Wabbajack` or `C:\Modding\Wabbajack`).
+2. **Create a new folder** for the modlist installation, and call it **Heartland**, placing it close to the root of your drive once again, but not within the Wabbajack folder (e.g. `C:\Heartland` or `C:\Modding\Heartland`).
+Ensure you have at least 50GB of hard drive space.
 3. **Launch Wabbajack.exe** from within the Wabbajack folder. Select the **Heartland** modlist, and then hit **Download and Install** to download the modlist file. Alternatively, the modlist can be downloaded manually from this page. If installing manually, place the modlist file in the Wabbajack directory, and select **Install from Disk**.
-4. Under Installation Location, **select the Heartland folder** you created in step 2. Set the Download Location to Heartland\downloads. Click **Begin**.
-5. Wabbajack will open a browser and ask for Nexus authorisation. Log in and then hit **Authorise.** (_If you get an error on authorisation, download and install [.Net Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48) and run the installer again_)
-6. Wabbajack will now download and install the mods specified in the installer. The download size is approximately 18GB so this may take a little while. The installer should keep you informed of progress.
-7. After the **installation complete** message appears, close the installer.
+4. Under Installation Location, **select the Heartland folder** you created in step 2.
+If Wabbajack hasn't done so already, set the Download Location to Heartland\downloads (e.g. `C:\Heartland\download` or `C:\Modding\Heartland\downloads`).
+5. Click **Begin**.
+6. Wabbajack will open a browser and ask for Nexus authorisation. Log in and then hit **Authorise.** (_If you get an error on authorisation, download and install [.Net Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48) and run the installer again_)
+7. Wabbajack will now download and install the mods specified in the installer. The download size is approximately 18GB so this may take a little while. The installer should keep you informed of progress.
+8. After the **installation complete** message appears, close the installer.
 
 ### Game Folder Files
 
@@ -109,7 +112,7 @@ Please note that there are minor issues with foggy weather and nights being brig
 
 This optional configuration disables NorthernUI in favour of DarNified UI.
 
-DarNified UI is a more traditional take on a UI overhaul for Oblivion. All manner of menus have been improved, including the journal, inventory, map, wait/sleep screens, level up screens and more. Unlike NorthernUI though, these changes preserve the vanilla style - perfect for players who want a lighter brush stroke to improve the user interface. 
+DarNified UI is a more traditional take on a UI overhaul for Oblivion. All manner of menus have been improved, including the journal, inventory, map, wait/sleep screens, level up screens and more. Unlike NorthernUI though, these changes preserve the vanilla style - perfect for players who want a lighter brush stroke to improve the user interface.
 
 Also included in this configuration is a compatible loading screens replacer, but instructions are available to switch to vanilla loading screens for those that prefer them.
 
@@ -132,8 +135,8 @@ The base Heartland modlist overhauls visuals and stability, leaving the gameplay
 3. Select **BOSS** from the executable dropdown in MO2 and hit **Run**. The BOSS GUI will appear over the top of MO2. Hit **Run BOSS**. It will sort your plugins and output an HTML log when completed. Close BOSS. Back in MO2, the ESPs from your new mod(s) will now be in their correct load order positions in the plugins pane.
 4. In the mods pane, find the **Bashed Patch** mod for your currently enabled profile and **remove it**.
 5. Ensure that there are **no files in your MO2/overwrite folder** (move any OBSE logs that may be there to the OBSE Logs mod).
-6. Select **Wrye Bash** from the in MO2 and hit **Run**. If prompted for a game choice, select **Oblivion**. 
-7. Within the Wrye Bash interface, right click the plugin right at the bottom (**Bashed Patch 0.esp**) and click **Rebuild Patch**. 
+6. Select **Wrye Bash** from the in MO2 and hit **Run**. If prompted for a game choice, select **Oblivion**.
+7. Within the Wrye Bash interface, right click the plugin right at the bottom (**Bashed Patch 0.esp**) and click **Rebuild Patch**.
 8. In the following interface, make sure that the following options are ticked (they should have carried over from before):
     * **Tweak Assorted -> DarNify Books** ticked so books look as intended
     * **Tweak Settings -> Arrow Speed is x2.0** for more responsive archery (right click box to change)
@@ -169,7 +172,7 @@ _BSA Decompressor recreates BSA archives without zlib compression so the game is
 1. In MO2, find the **Unofficial Shivering Isles Patch** in the mods pane, and right click **Open in Explorer**. Cut **DLCShiveringIsles - Faces.bsa** to the Data folder in your Oblivion game directory.
 2. Close MO2 and go to Heartland/tools/Oblivion BSA Decompressor. **Run Oblivion BSA Decompressor.exe**.
 3. Select **Decompress**, then close the tool once it has finished. Your vanilla BSA files will now be decompressed.
-4. Cut **DLCShiveringIsles - Faces.bsa** back to Heartland/mods/Unofficial Shivering Isles Patch. 
+4. Cut **DLCShiveringIsles - Faces.bsa** back to Heartland/mods/Unofficial Shivering Isles Patch.
 
 ![](https://i.imgur.com/Nhfq9jN.png)
 
@@ -179,16 +182,22 @@ _BSA Decompressor recreates BSA archives without zlib compression so the game is
 
 ## Troubleshooting
 
-1. _I receive a blank / black screen on start up._
+1. _Wabbajack says download X failed, what now?_
+   - Depending on the files, download them from the following instructions and place the downloaded files in Heartland\downloads.
+   - _Unable to download **HackdirtAliveFix.zip**_
+     - Download the file from https://drive.google.com/file/d/1koW6d7doH3gZzio2Xgy38LH8Et97oSNu/view.
+   - _Unable to download **VKVII_Oblivion_Cyrodiil_Map.7z**_
+     - Download the file from https://www.moddb.com/downloads/start/218291.
+   - Any other files, restart Wabbajack (or your PC) and try installing the modlist again.
+   - If it still fails, check in with the [Heartland Modlist Support] server.
+2. _I receive a blank / black screen on start up._
     * Replace the Oblivion.ini file in Documents/MyGames/Oblivion and [MO2 Install]/profiles/Heartland with [this version](https://drive.google.com/file/d/1nby-4x-eFlEC4nvIlERilWVstzHztRck/view?usp=sharing).
-2. _I am unable to download [X] mod during the Wabbajack install process, and from the Nexus page I can see that it was updated within the past week._
-    * The mod in question has been updated and the mod author has not kept the previous version accessible on the Nexus. As such, the current modlist cannot be installed and must be updated. If you encounter this and it has not been mentioned in the support channel on [Drazden and Dark's Modding Hub Discord](https://discord.gg/xQmzNASbz5), please ping me (@Sam) so that I am aware of the issue and can update the modlist as soon as possible. 
 3. _I can’t run the Oblivion executable from MO2 - I get an application error._
     * If you bought the game through Steam, it needs to be running in the background for you to play the game. Boot up Steam and give it another try.
 4. _When I run Oblivion, a new window opens and I can hear the main menu audio, but all I get is a blank/black screen._
    * MO2 is failing to load the OBSE libraries when running Oblivion leading to issues with the mods installed. To correct, click the executable dropdown in MO2, select Edit, and then check the Oblivion.exe entry. Ensure that Force Load Libraries is ticked, and click Configure Libraries. Ensure that Oblivion.exe is set to load the library obse_1_2_416.dll in your Oblivion game directory.
 5. _Following the above instructions, there is no obse_1_2_416.dll._
-   * Make sure you have copied the contents of Game Folder Files to your Oblivion game directory. The OBSE files should be present in this folder. 
+   * Make sure you have copied the contents of Game Folder Files to your Oblivion game directory. The OBSE files should be present in this folder.
 
 ## Credits
 
@@ -198,3 +207,5 @@ _BSA Decompressor recreates BSA archives without zlib compression so the game is
 * **Aerialvas**, **Peria**, and **Mr.Vanato** for their useful optimisation tips and troubleshooting assistance in the heartland-support channel
 * **jdsmith2816** for their help integrating the OUT and SIUT mods in to the installer, and their optimisation of vanilla meshes and textures
 * All the testers and users who have taken time to provide feedback: **Seear**, **Aronax**, **epixxor**, **Duriel**, **Foxman**, **Aerialvas**, **Peria**, **ShadowFyre**, **Mr.Vanato**, **Nazo**, **Stormline**, **MrG**, **carl**, **KatieLW19**,  **KarmasLives22**, **ELDYLO**, **Severance**, **Zierry**, **Gatonegro**, **Bartun**, **b e e g y o s h i**, **Epic**, **NaterOfTheWired** and more!
+
+[Heartland Modlist Support]: https://discord.gg/xQmzNASbz5
