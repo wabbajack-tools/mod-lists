@@ -14,13 +14,16 @@
 
 ### Using the Wabbajack Autoinstaller
 
-1. **Download** the latest version of Wabbajack from the [Wabbajack Github](https://github.com/wabbajack-tools/wabbajack/releases/), and **extract the Wabbajack.exe** file to a new directory called **Wabbajack**, as close to the root of your drive as possible (e.g. C:\Wabbajack).
-2. **Create a new folder** for the new installation, and call it **Heartland**, placing it close to the root of your drive once again, but not within the Wabbajack folder. Ensure you have at least 50GB of hard drive space.
+1. **Download** the latest version of Wabbajack from the [Wabbajack Github](https://github.com/wabbajack-tools/wabbajack/releases/latest), and **place the Wabbajack.exe** file to a new directory called **Wabbajack**, as close to the root of your drive as possible (e.g. `C:\Wabbajack` or `C:\Modding\Wabbajack`).
+2. **Create a new folder** for the modlist installation, and call it **Heartland**, placing it close to the root of your drive once again, but not within the Wabbajack folder (e.g. `C:\Heartland` or `C:\Modding\Heartland`).
+Ensure you have at least 50GB of hard drive space.
 3. **Launch Wabbajack.exe** from within the Wabbajack folder. Select the **Heartland** modlist, and then hit **Download and Install** to download the modlist file. Alternatively, the modlist can be downloaded manually from this page. If installing manually, place the modlist file in the Wabbajack directory, and select **Install from Disk**.
-4. Under Installation Location, **select the Heartland folder** you created in step 2. Set the Download Location to Heartland\downloads. Click **Begin**.
-5. Wabbajack will open a browser and ask for Nexus authorisation. Log in and then hit **Authorise.** (_If you get an error on authorisation, download and install [.Net Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48) and run the installer again_)
-6. Wabbajack will now download and install the mods specified in the installer. The download size is approximately 18GB so this may take a little while. The installer should keep you informed of progress.
-7. After the **installation complete** message appears, close the installer.
+4. Under Installation Location, **select the Heartland folder** you created in step 2.
+If Wabbajack hasn't done so already, set the Download Location to Heartland\downloads (e.g. `C:\Heartland\download` or `C:\Modding\Heartland\downloads`).
+5. Click **Begin**.
+6. Wabbajack will open a browser and ask for Nexus authorisation. Log in and then hit **Authorise.** (_If you get an error on authorisation, download and install [.Net Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48) and run the installer again_)
+7. Wabbajack will now download and install the mods specified in the installer. The download size is approximately 18GB so this may take a little while. The installer should keep you informed of progress.
+8. After the **installation complete** message appears, close the installer.
 
 ### Game Folder Files
 
