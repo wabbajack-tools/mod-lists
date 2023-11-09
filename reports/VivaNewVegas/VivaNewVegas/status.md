@@ -43,8 +43,7 @@
 *  Data_Update.bsa
 *  [Delay DLC Redux-75851-2-1-1691048078.rar](https://www.nexusmods.com/newvegas/mods/75851/?tab=files&file_id=1000114202)
 *  [Depth of Field Fix-81200-1-1-1693094738.zip](https://www.nexusmods.com/newvegas/mods/81200/?tab=files&file_id=1000115438)
-*  [Desert Natural Weathers - YUP Patch-77945-1-0-1689625057.7z](https://www.nexusmods.com/newvegas/mods/77945/?tab=files&file_id=1000113222)
-*  [Desert Natural Weathers NV-75437-6-9-1-1697742338.7z](https://www.nexusmods.com/newvegas/mods/75437/?tab=files&file_id=1000117904)
+*  [Desert Natural Weathers NV-75437-7-0-1699505994.7z](https://www.nexusmods.com/newvegas/mods/75437/?tab=files&file_id=1000118825)
 *  [DXVK 1.10.1-79299-1-10-1-1672125216.7z](https://www.nexusmods.com/newvegas/mods/79299/?tab=files&file_id=1000102855)
 *  [DXVK 1.10.3-79299-1-10-3-1672125190.7z](https://www.nexusmods.com/newvegas/mods/79299/?tab=files&file_id=1000102854)
 *  [DXVK 2.2 - Aysnc - HDR-79299-2-2-1694210738.zip](https://www.nexusmods.com/newvegas/mods/79299/?tab=files&file_id=1000116151)
@@ -99,6 +98,7 @@
 *  [MoonlightNVSE-77683-1-5-1-1674501706.7z](https://www.nexusmods.com/newvegas/mods/77683/?tab=files&file_id=1000103994)
 *  [More LODs Additions and fixes-81751-1-11-1693428801.zip](https://www.nexusmods.com/newvegas/mods/81751/?tab=files&file_id=1000115677)
 *  [Muzzle Flash Light Fix-81201-1-0-1684516610.7z](https://www.nexusmods.com/newvegas/mods/81201/?tab=files&file_id=1000109533)
+*  [Navmesh Overhaul YUP Patch-81003-3-0-1687388510.7z](https://www.nexusmods.com/newvegas/mods/81003/?tab=files&file_id=1000111661)
 *  [Navmesh Overhaul-81003-5-0-1697329787.zip](https://www.nexusmods.com/newvegas/mods/81003/?tab=files&file_id=1000117700)
 *  [New Vegas Mesh Improvement Mod-74295-1-10-1673911628.7z](https://www.nexusmods.com/newvegas/mods/74295/?tab=files&file_id=1000103667)
 *  [New Vegas Script Extender (xNVSE)-67883-6-3-4-1696621396.7z](https://www.nexusmods.com/newvegas/mods/67883/?tab=files&file_id=1000117373)
