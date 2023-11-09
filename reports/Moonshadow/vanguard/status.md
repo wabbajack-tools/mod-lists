@@ -1,10 +1,11 @@
 ## Validation Report - Vanguard (Moonshadow/vanguard)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Attack+MCO-DXP+v1.6.0.6.zip](https://www.skyrim-guild.com/s/Attack-MCO-DXP-v1606.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (519)
+### Valid (518)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [(Skyrim Special Edition) SSE Fixes v3 for SSE 1.5.97-10547-3-1-5-97-1574573136.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10547/?tab=files&file_id=114241)
@@ -37,7 +38,6 @@
 *  [ArteFakes-41254-2-0-1617966810.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41254/?tab=files&file_id=197058)
 *  [Artifacts of the Ancestors-92389-2-2-1696370119.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92389/?tab=files&file_id=431003)
 *  [Assorted Mesh Fixes-32117-0-90-1691828167.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=416295)
-*  [Attack+MCO-DXP+v1.6.0.6.zip](https://www.skyrim-guild.com/s/Attack-MCO-DXP-v1606.zip)
 *  [Audio Overhaul for Skyrim (4.1.3)-12466-4-1-3-1683940246.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12466/?tab=files&file_id=387525)
 *  [Bandit Lines Expansion-63733-1-08-1689365641.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63733/?tab=files&file_id=407006)
 *  [BardsGoTheFToSleep-71291-1-2-1-1661730958.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71291/?tab=files&file_id=311290)
