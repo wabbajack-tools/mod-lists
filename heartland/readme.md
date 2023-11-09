@@ -179,10 +179,16 @@ _BSA Decompressor recreates BSA archives without zlib compression so the game is
 
 ## Troubleshooting
 
-1. _I receive a blank / black screen on start up._
+1. _Wabbajack says download X failed, what now?_
+   - Depending on the files, download them from the following instructions and place the downloaded files in Heartland\downloads.
+   - _Unable to download **HackdirtAliveFix.zip**_
+     - Download the file from https://drive.google.com/file/d/1koW6d7doH3gZzio2Xgy38LH8Et97oSNu/view.
+   - _Unable to download **VKVII_Oblivion_Cyrodiil_Map.7z**_
+     - Download the file from https://www.moddb.com/downloads/start/218291.
+   - Any other files, restart Wabbajack (or your PC) and try installing the modlist again.
+   - If it still fails, check in with the [Heartland Modlist Support] server.
+2. _I receive a blank / black screen on start up._
     * Replace the Oblivion.ini file in Documents/MyGames/Oblivion and [MO2 Install]/profiles/Heartland with [this version](https://drive.google.com/file/d/1nby-4x-eFlEC4nvIlERilWVstzHztRck/view?usp=sharing).
-2. _I am unable to download [X] mod during the Wabbajack install process, and from the Nexus page I can see that it was updated within the past week._
-    * The mod in question has been updated and the mod author has not kept the previous version accessible on the Nexus. As such, the current modlist cannot be installed and must be updated. If you encounter this and it has not been mentioned in the support channel on [Drazden and Dark's Modding Hub Discord](https://discord.gg/xQmzNASbz5), please ping me (@Sam) so that I am aware of the issue and can update the modlist as soon as possible. 
 3. _I can’t run the Oblivion executable from MO2 - I get an application error._
     * If you bought the game through Steam, it needs to be running in the background for you to play the game. Boot up Steam and give it another try.
 4. _When I run Oblivion, a new window opens and I can hear the main menu audio, but all I get is a blank/black screen._
