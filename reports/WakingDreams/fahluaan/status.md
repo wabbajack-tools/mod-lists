@@ -1,11 +1,10 @@
 ## Validation Report - Fahluaan (WakingDreams/fahluaan)
 
 
-### Invalid (1)
-*  [SC_HorseReplacer (1).7z](https://www.patreon.com/file?h=35289631&i=5312963)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2853)
+### Valid (2854)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(1) Community Overlays 1 - Main - UNP  2K-22487-1-0-1-1547247749.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77985)
 *  [(2) Community Overlays 3 - Main - CBBE-35339-1-0-1588116779.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136886)
@@ -2190,6 +2189,7 @@
 *  [SC Horse - Beyond Bruma patch-70693-1-0-1658633194.zip](https://www.nexusmods.com/skyrimspecialedition/mods/70693/?tab=files&file_id=301669)
 *  [SC Horses - Wild Horses CC Patch-68588-2-0-1669451370.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68588/?tab=files&file_id=334822)
 *  [SC Horses Mane Fix-68588-1-0-1-1669451309.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68588/?tab=files&file_id=334821)
+*  [SC_HorseReplacer (1).7z](https://www.patreon.com/file?h=35289631&i=5312963)
 *  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
 *  [Scaffolding Over Sovngarde - High Poly-97909-1-2-1691669896.rar](https://www.nexusmods.com/skyrimspecialedition/mods/97909/?tab=files&file_id=415755)
 *  [ScaleformTranslationPP-77359-1-6-1666209863.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77359/?tab=files&file_id=325251)
