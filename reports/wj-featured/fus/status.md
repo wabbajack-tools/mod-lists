@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (524)
+### Valid (525)
 *  [1_Base Object Swapper VR-61734-2-5-1-1673860159.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61734/?tab=files&file_id=350018)
 *  [1_Cathedral - 3D Deathbell-76460-1-1-1664789773.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76460/?tab=files&file_id=321269)
 *  [1_Cathedral - 3D Dragons Tongue - Dark Orange-85694-1-2-1677328513.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85694/?tab=files&file_id=363180)
@@ -380,6 +380,7 @@
 *  [NPC Animation Remix (DAR) - Vanilla shield position patch-63471-1-1-0-1650110559.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63471/?tab=files&file_id=277483)
 *  [Obsidian Mountain Fogs Tweaked - Reduced 20 Percent-71189-1-01-1657643008.rar](https://www.nexusmods.com/skyrimspecialedition/mods/71189/?tab=files&file_id=298412)
 *  [opencomposite_skyrim_vr_fixes-85389-1-8-1699643048.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85389/?tab=files&file_id=441488)
+*  openvr_api.dll
 *  [PapyrusUtil VR - Scripting Utility Functions-13048-3-6b-1545409528.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=75826)
 *  [Particle Lights for ENB SE - Undead Creatures-48424-1-1-1619288317.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48424/?tab=files&file_id=199985)
 *  [patch - general fixes and conflict resolution-53186-1-1-0-1631640509.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53186/?tab=files&file_id=228397)
