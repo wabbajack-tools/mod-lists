@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (134)
+### Valid (130)
 *  [1 - ultimate edition plugin-82042-2-1694424205.7z](https://www.nexusmods.com/newvegas/mods/82042/?tab=files&file_id=1000116246)
 *  [2 - assets-82042-5-1698263500.7z](https://www.nexusmods.com/newvegas/mods/82042/?tab=files&file_id=1000118159)
 *  [4GB Patcher-62552-1-5-1618787921.7z](https://www.nexusmods.com/newvegas/mods/62552/?tab=files&file_id=1000075100)
@@ -29,18 +29,11 @@
 *  [Console Paste-65906-2-2-1697320945.zip](https://www.nexusmods.com/newvegas/mods/65906/?tab=files&file_id=1000117694)
 *  [Crafting Consistency Fix-81130-1-1-1-1684022606.zip](https://www.nexusmods.com/newvegas/mods/81130/?tab=files&file_id=1000109205)
 *  [Crash Logger-82540-4-5-1697884112.zip](https://www.nexusmods.com/newvegas/mods/82540/?tab=files&file_id=1000117990)
-*  Data_DeadMoney - Main.bsa
 *  Data_DeadMoney.esm
-*  Data_Fallout - Meshes.bsa
-*  Data_Fallout - Textures2.bsa
 *  Data_FalloutNV.esm
-*  Data_HonestHearts - Main.bsa
 *  Data_HonestHearts.esm
-*  Data_LonesomeRoad - Main.bsa
 *  Data_LonesomeRoad.esm
-*  Data_OldWorldBlues - Main.bsa
 *  Data_OldWorldBlues.esm
-*  Data_Update.bsa
 *  [Delay DLC Redux-75851-2-1-1691048078.rar](https://www.nexusmods.com/newvegas/mods/75851/?tab=files&file_id=1000114202)
 *  [Depth of Field Fix-81200-1-1-1693094738.zip](https://www.nexusmods.com/newvegas/mods/81200/?tab=files&file_id=1000115438)
 *  [Desert Natural Weathers NV-75437-7-0-1699505994.7z](https://www.nexusmods.com/newvegas/mods/75437/?tab=files&file_id=1000118825)
@@ -72,6 +65,7 @@
 *  [High Res Local Maps-77963-1-2-1661794525.7z](https://www.nexusmods.com/newvegas/mods/77963/?tab=files&file_id=1000098329)
 *  [High Resolution Bloom-77933-5-1679647221.7z](https://www.nexusmods.com/newvegas/mods/77933/?tab=files&file_id=1000106830)
 *  [High Resolution Screens-77989-1-1-1660681437.zip](https://www.nexusmods.com/newvegas/mods/77989/?tab=files&file_id=1000097728)
+*  [High Resolution Water Fog-78400-1-0a-1663426682.zip](https://www.nexusmods.com/newvegas/mods/78400/?tab=files&file_id=1000099083)
 *  [Immersive Recoil 2.4.1-61973-2-4-1-1663113917.zip](https://www.nexusmods.com/newvegas/mods/61973/?tab=files&file_id=1000098960)
 *  [Impostors and LOD Flicker Fix-83691-1-0-1699216940.7z](https://www.nexusmods.com/newvegas/mods/83691/?tab=files&file_id=1000118662)
 *  [Improved Console-70801-1-6-1632234096.7z](https://www.nexusmods.com/newvegas/mods/70801/?tab=files&file_id=1000081407)
@@ -124,6 +118,7 @@
 *  [The Living Desert - EVEM Patch-77945-1-0-1685198572.7z](https://www.nexusmods.com/newvegas/mods/77945/?tab=files&file_id=1000109958)
 *  [The Living Desert - Main File 2.5-64623-2-5-1686689413.zip](https://www.nexusmods.com/newvegas/mods/64623/?tab=files&file_id=1000111064)
 *  [The Living Desert - Strip Lights Region Fix Patch-77945-1-0-1684074697.7z](https://www.nexusmods.com/newvegas/mods/77945/?tab=files&file_id=1000109246)
+*  [The Living Desert FaceGen Tint Fix-83732-1-0-1699562614.zip](https://www.nexusmods.com/newvegas/mods/83732/?tab=files&file_id=1000118839)
 *  [The Mod Configuration Menu-42507-1-5.7z](https://www.nexusmods.com/newvegas/mods/42507/?tab=files&file_id=105803)
 *  [Trap Tweaks NV-78916-1-02-1689989249.rar](https://www.nexusmods.com/newvegas/mods/78916/?tab=files&file_id=1000113434)
 *  [UIO - User Interface Organizer-57174-2-30-1629600625.7z](https://www.nexusmods.com/newvegas/mods/57174/?tab=files&file_id=1000080073)
@@ -138,4 +133,5 @@
 *  [Vigor-83576-1-2-1699208587.zip](https://www.nexusmods.com/newvegas/mods/83576/?tab=files&file_id=1000118651)
 *  [Viva Default Preset-81231-10-2-2-3-1689861180.7z](https://www.nexusmods.com/newvegas/mods/81231/?tab=files&file_id=1000113366)
 *  [VNV Extended Navmesh Patch-79358-1-0-1697371621.7z](https://www.nexusmods.com/newvegas/mods/79358/?tab=files&file_id=1000117724)
+*  [VNV FNVLODGen Output-79358-1-0-1699804359.7z](https://www.nexusmods.com/newvegas/mods/79358/?tab=files&file_id=1000118941)
 *  [YUP - Base Game and All DLC-51664-12-8-1690541884.7z](https://www.nexusmods.com/newvegas/mods/51664/?tab=files&file_id=1000113779)
