@@ -11,7 +11,6 @@
 *  [1_3. CPI - Mod Patches-65046-4-01-1659422736.7z](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000096876)
 *  [1_Additional Indicators - Orange-81557-1-0-1686672003.zip](https://www.nexusmods.com/newvegas/mods/81557/?tab=files&file_id=1000111047)
 *  [1_Animated Ingestibles (english)-70139-4-1672837104.zip](https://www.nexusmods.com/newvegas/mods/70139/?tab=files&file_id=1000103226)
-*  [1_ATTT Compatibility Files-78688-1-0-1667017782.7z](https://www.nexusmods.com/newvegas/mods/78688/?tab=files&file_id=1000100473)
 *  [1_Authentic Burned Man - Fixed and Updated-81560-1-2-1686761041.7z](https://www.nexusmods.com/newvegas/mods/81560/?tab=files&file_id=1000111111)
 *  [1_Classic Fallout 2 combat armor High resolution-76878-1-01-1655015090.rar](https://www.nexusmods.com/newvegas/mods/76878/?tab=files&file_id=1000094184)
 *  [1_Desert Natural Creatures-81493-1-1-1686963962.rar](https://www.nexusmods.com/newvegas/mods/81493/?tab=files&file_id=1000111292)
@@ -73,6 +72,7 @@
 *  atimgpud.dll
 *  [Atmospheres - Weather and Lighting-79976-0-2-1676774162.zip](https://www.nexusmods.com/newvegas/mods/79976/?tab=files&file_id=1000105213)
 *  [Atmospheric Lighting Tweaks - FNV-79378-1-2-1-1673672087.7z](https://www.nexusmods.com/newvegas/mods/79378/?tab=files&file_id=1000103557)
+*  [ATTT Compatibility Files-78688-1-0-1667017782.7z](https://www.nexusmods.com/newvegas/mods/78688/?tab=files&file_id=1000100473)
 *  [aubri's pre-war money 1k-79351-1-0-1671362646.zip](https://www.nexusmods.com/newvegas/mods/79351/?tab=files&file_id=1000102506)
 *  [aubri's sandbags - 2k-75757-5-0-1648167952.zip](https://www.nexusmods.com/newvegas/mods/75757/?tab=files&file_id=1000089791)
 *  [Autumn Leaves-50146-1-030.zip](https://www.nexusmods.com/newvegas/mods/50146/?tab=files&file_id=1000033668)
