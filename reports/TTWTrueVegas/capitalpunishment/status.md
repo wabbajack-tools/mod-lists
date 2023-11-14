@@ -598,7 +598,7 @@
 *  [MLF-68714-3-1-1691312308.zip](https://www.nexusmods.com/newvegas/mods/68714/?tab=files&file_id=1000114377)
 *  [Mobile Truck Base TTW - Benny Steals Your Truck-80106-1-1-1676934062.7z](https://www.nexusmods.com/newvegas/mods/80106/?tab=files&file_id=1000105317)
 *  [Mobile Truck Base TTW 3.3 Community Preview Edition-79005-1-1668469455.rar](https://www.nexusmods.com/newvegas/mods/79005/?tab=files&file_id=1000101114)
-*  [Mod.Organizer-2.4.4.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z)
+*  [Mod.Organizer-2.5.0rc1.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.0rc1/Mod.Organizer-2.5.0rc1.7z)
 *  [Modern stagger-80456-1-2-1679524814.7z](https://www.nexusmods.com/newvegas/mods/80456/?tab=files&file_id=1000106756)
 *  [Mojave Bighorners-75324-1-0-1644533070.rar](https://www.nexusmods.com/newvegas/mods/75324/?tab=files&file_id=1000087498)
 *  [Mojave Cliffs - Low-77960-0-1-1660554708.zip](https://www.nexusmods.com/newvegas/mods/77960/?tab=files&file_id=1000097650)
