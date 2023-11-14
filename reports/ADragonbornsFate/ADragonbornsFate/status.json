@@ -1,8 +1,8 @@
 {
   "MachineURL": "ADragonbornsFate/ADragonbornsFate",
   "Name": "A Dragonborn\u0027s Fate",
-  "Version": "12.11.23",
-  "ModListHash": "q2lilg5D7B4=",
+  "Version": "13.11.23",
+  "ModListHash": "2MPyA9n0M0w=",
   "Archives": [
     {
       "Status": "Valid",
@@ -230,15 +230,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "JTsPQTrzfcA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=86492\nfileID=440841",
-        "Name": "Community Shaders-86492-0-6-7-1699386058.7z",
-        "Size": 5680848,
+        "Hash": "PGjsSYdv0D0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=86492\nfileID=442397",
+        "Name": "Community Shaders-86492-0-7-0-1699913284.zip",
+        "Size": 9361585,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Community Shaders Team",
           "Description": "Open-source SKSE core plugin for community-driven advanced graphics modifications for AE, SE and VR. Also fixes bugs.",
-          "FileID": 440841,
+          "FileID": 442397,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/86492/86492-1681779969-310459089.png",
           "IsNSFW": false,
@@ -419,126 +419,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zm+bucUlFiQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=18967\nfileID=317398",
-        "Name": "Better Jumping AE-18967-1-8-6-1663530469.zip",
-        "Size": 167638,
+        "Hash": "xzd21LJNNTk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=89042\nfileID=440836",
+        "Name": "CASP Main File-89042-1-1-2-6-1699383760.7z",
+        "Size": 5856412,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "meh321 and z65536",
-          "Description": "Allows to jump while sprinting. Also you can configure jump height multiplier, how many times you can jump (double jump like in action games) . No ESP!",
-          "FileID": 317398,
+          "Author": "NoahBoddie",
+          "Description": "The weapon speed fix to put an end to them all.",
+          "FileID": 440836,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18967/18967-1533041476-1512034262.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/89042/89042-1697657041-1406836044.png",
           "IsNSFW": false,
-          "ModID": 18967,
-          "Name": "Better Jumping SE",
-          "Version": "1.8.6"
+          "ModID": 89042,
+          "Name": "Comprehensive Attack Rate Patch - SKSE",
+          "Version": "1.1.2.5"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "eH2+0fLpGJE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59818\nfileID=423446",
-        "Name": "CrashLogger-59818-1-10-0-1693905622.7z",
-        "Size": 6474738,
+        "Hash": "n7TL/YWifTs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=34705\nfileID=321590",
+        "Name": "SSE Display Tweaks-34705-0-5-12-1664893623.zip",
+        "Size": 196802,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "alandtse",
-          "Description": "Generates crash logs when the game Just Works\u2122. This is a SSE/AE/VR port using fudgyduff\u0027s MIT source. This can read PDB files that mod authors may distribute.",
-          "FileID": 423446,
+          "Author": "SlavicPotato",
+          "Description": "All-in-one solution for smooth FPS-unlocked gameplay. Includes a physics fix, borderless fullscreen performance boost, refresh rate control, highly configurable frame rate limiting, various bugfixes and more.",
+          "FileID": 321590,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59818/59818-1653385406-1503960741.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34705/34705-1586796582-2125322633.png",
           "IsNSFW": false,
-          "ModID": 59818,
-          "Name": "Crash Logger SSE AE VR - PDB support",
-          "Version": "1.10.0"
+          "ModID": 34705,
+          "Name": "SSE Display Tweaks",
+          "Version": "0.5.12"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cKGq+i4bfLI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=61950\nfileID=323345",
-        "Name": "Enhanced Invisibility-61950-1-3-0-1665511169.7z",
-        "Size": 4760772,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "powerofthree",
-          "Description": "SKSE plugin that improves and fixes bugs with Invisibility effects",
-          "FileID": 323345,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61950/61950-1642218696-1263312632.gif",
-          "IsNSFW": false,
-          "ModID": 61950,
-          "Name": "Enhanced Invisibility",
-          "Version": "1.3.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4rIO3c4Kmas=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=74722\nfileID=335018",
-        "Name": "HD Local Map-74722-1-0-2-1669499939.zip",
-        "Size": 4319248,
+        "Hash": "n9Cyk8+NNmg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=74064\nfileID=353911",
+        "Name": "Fire Hurts NG-74064-1-0-3-1674928822.zip",
+        "Size": 5838451,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "doodlum",
-          "Description": "SKSE plugin which makes local maps use the full screen resolution. Compatible with SE and AE.",
-          "FileID": 335018,
+          "Description": "SKSE plugin which makes fire a hazard for the player and more, updated with support for SE and AE in one DLL.",
+          "FileID": 353911,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/74722/74722-1662405497-251485248.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/74064/74064-1661469795-1801290361.png",
           "IsNSFW": false,
-          "ModID": 74722,
-          "Name": "HD Local Map",
-          "Version": "1.0.2"
+          "ModID": 74064,
+          "Name": "Fire Hurts NG",
+          "Version": "1.0.3"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "jIEoicfHkQI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=99548\nfileID=422503",
-        "Name": "Light Limit Fix-99548-1-0-1-1693575378.7z",
-        "Size": 4560,
+        "Hash": "qvvmFJ2uIOU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=89163\nfileID=422013",
+        "Name": "Instantly Skip Dialogue NG-89163-1-1-1-1693399775.zip",
+        "Size": 300639,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "doodlez alandtse",
-          "Description": "Community Shaders feature which makes dynamic lights unlimited, adds particle lights, contact shadows, shadows for first-person torches and light spells, and more. Supports SE, AE, and VR.",
-          "FileID": 422503,
+          "Author": "Osmosis-Wrench and Jonathan Feenstra",
+          "Description": "This SKSE plugin allows the player to skip dialogue instantly, bypassing the 750 millisecond delay. This includes dialogue that\u0027s normally unskippable (Hermaeus Mora, Molag Bal, Augur of Dunlain, etc.).",
+          "FileID": 422013,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/99548/99548-1693530223-479667847.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/89163/89163-1681395486-1726139576.png",
           "IsNSFW": false,
-          "ModID": 99548,
-          "Name": "Light Limit Fix",
-          "Version": "1.0.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "1rK822Cyj8M=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=77779\nfileID=362490",
-        "Name": "Papyrus Tweaks 4.1.0-77779-4-1-0-1677126184.rar",
-        "Size": 4352698,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Nightfallstorm",
-          "Description": "Collection of fixes, tweaks and performance improvements for Skyrim\u0027s script engine. 100% configurable. Install/Uninstall anytime.",
-          "FileID": 362490,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/77779/77779-1667845399-964914238.png",
-          "IsNSFW": false,
-          "ModID": 77779,
-          "Name": "Papyrus Tweaks NG",
-          "Version": "4.1.0"
+          "ModID": 89163,
+          "Name": "Instantly Skip Dialogue NG",
+          "Version": "1.1.1"
         }
       }
     },
@@ -566,21 +524,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/aF8qFpxh/4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=93209\nfileID=422443",
-        "Name": "Screen-Space Shadows-93209-1-1-0-1693532233.zip",
-        "Size": 4882,
+        "Hash": "U/XYuux/BAw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=90734\nfileID=408042",
+        "Name": "RemoveAllItems Freeze Fix-90734-1-1-0-1689633901.zip",
+        "Size": 5479943,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "doodlez and Mathieu C",
-          "Description": "Community Shaders feature which adds screen-space shadows, enabling grass, map, distant and self-shadows.",
-          "FileID": 422443,
+          "Author": "wskeever po3 doodlez",
+          "Description": "SKSE plugin which attempts to address an issue with corrupted game state which results in random freezes. Important for jail, the quests Diplomatic Immunity and Mind of Madness, and more.",
+          "FileID": 408042,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/93209/93209-1686701388-2097349754.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/90734/90734-1683391867-52118396.png",
           "IsNSFW": false,
-          "ModID": 93209,
-          "Name": "Screen-Space Shadows",
+          "ModID": 90734,
+          "Name": "RemoveAllItems Freeze Fix",
           "Version": "1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LkDWoTIiMJk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=58224\nfileID=319179",
+        "Name": "Security Overhaul SKSE - Lock Variations-58224-3-2-0-1664066945.7z",
+        "Size": 174128628,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kreiste-wSkeever-powerofthree",
+          "Description": "SKSE based framework for replacing overused lock model with unique lock variants.",
+          "FileID": 319179,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58224/58224-1646367643-2022704935.png",
+          "IsNSFW": false,
+          "ModID": 58224,
+          "Name": "Security Overhaul SKSE - Lock Variations",
+          "Version": "3.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6kutT698JRA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=41764\nfileID=323291",
+        "Name": "Simple Offence Suppression-41764-2-2-1-1665496323.7z",
+        "Size": 4066253,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "SKSE plugin that prevents neutral NPCs from turning hostile when you accidentally hit them.",
+          "FileID": 323291,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41764/41764-1603758770-490429309.png",
+          "IsNSFW": false,
+          "ModID": 41764,
+          "Name": "Simple Offence Suppression",
+          "Version": "2.2.1"
         }
       }
     },
@@ -608,41 +608,62 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "gUEnOI0mDd0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=86631\nfileID=373947",
-        "Name": "Sprint Sneak Movement Speed Fix-86631-1-1-1-1680335581.zip",
-        "Size": 196720,
+        "Hash": "wqjQcOZlbKg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=74632\nfileID=413118",
+        "Name": "Soft Shadows-74632-2-0-1690909038.zip",
+        "Size": 5301050,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SlavicPotato",
-          "Description": "Fixes the game applying wrong movement speed if the character draws, sheathes or shouts while sprinting or sneaking. SKSE64 plugin.",
-          "FileID": 373947,
+          "Author": "doodlum",
+          "Description": "SKSE plugin which dynamically adjusts the look of shadows depending on lighting conditions. Supports SE, AE and VR. Simplified and reworked!",
+          "FileID": 413118,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/86631/86631-1678347310-194997115.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/74632/74632-1668473631-1676985407.png",
           "IsNSFW": false,
-          "ModID": 86631,
-          "Name": "Sprint Sneak Movement Speed Fix",
-          "Version": "1.1.1"
+          "ModID": 74632,
+          "Name": "Soft Shadows",
+          "Version": "2.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XqdcxH5KLuE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=81286\nfileID=412336",
-        "Name": "Timing is Everything DBF Configuration-81286-1-0-1690732108.7z",
-        "Size": 500,
+        "Hash": "ycYOFpsVzEE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=78244\nfileID=415030",
+        "Name": "Survival Mode Improved - SKSE-78244-1-3-1-1691433520.7z",
+        "Size": 4360508,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VishVadeva",
-          "Description": "Files needed while following A Dragonborn\u0027s Fate.",
-          "FileID": 412336,
+          "Author": "colinswrath and CordialCupid",
+          "Description": "Survival Mode Improved - SKSE is an SKSE plugin implementation of Skyrim\u0027s Survival Mode, more specifically, Survival Mode Improved. Survival Mode has been rebuilt from the ground up utilizing C\u002B\u002B (CommonLibSSE-NG) rather than Papyrus. No more straining the Papyrus VM with Survival Mode\u0027s polling and hit events, etc.",
+          "FileID": 415030,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/81286/81286-1691769064-1138051893.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/78244/78244-1667837631-1178020274.png",
           "IsNSFW": false,
-          "ModID": 81286,
-          "Name": "A Dragonborn\u0027s Fate Resources",
+          "ModID": 78244,
+          "Name": "Survival Mode Improved - SKSE",
+          "Version": "1.3.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5JekvWIo33Q=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=95145\nfileID=442365",
+        "Name": "Water Blending-95145-1-1-0-1699907425.7z",
+        "Size": 492,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "doodlez",
+          "Description": "Community Shaders feature which blends water and the terrain together, including a fix for reflections.",
+          "FileID": 442365,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/95145/95145-1688599419-1574708527.png",
+          "IsNSFW": false,
+          "ModID": 95145,
+          "Name": "Water Blending",
           "Version": "1.0"
         }
       }
@@ -650,126 +671,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Z0ih/texIiA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=91403\nfileID=391675",
-        "Name": "World Encounter Hostility Fix-91403-0-3-1684986573.7z",
-        "Size": 7690,
+        "Hash": "Rok+HSHC7p8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=64339\nfileID=424474",
+        "Name": "Better Third Person Selection (AE - SE)-64339-0-5-9-1694262315.7z",
+        "Size": 623365,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "wankingSkeever",
-          "Description": "Prevent vanilla world encounter NPCs from turning hostile when you cast non-hostile spells",
-          "FileID": 391675,
+          "Author": "Shrimperator",
+          "Description": "SKSE DLL to overhaul 3rd person object selection. \n\n\n\nRewrites Skyrim\u0027s crosshair selection to work more like true 3rd person RPGs - no more spending 5 minutes picking up tiny gold coins from the ground!",
+          "FileID": 424474,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/91403/91403-1684147998-410955562.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64339/64339-1647231323-1680510304.png",
           "IsNSFW": false,
-          "ModID": 91403,
-          "Name": "World Encounter Hostility Fix",
-          "Version": "0.4"
+          "ModID": 64339,
+          "Name": "Better Third Person Selection - BTPS",
+          "Version": "0.5.9"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wzg9I2wix7g=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=81409\nfileID=345505",
-        "Name": "Crafting Categories for SkyUI-81409-1-0-1-1672573694.7z",
-        "Size": 2584328,
+        "Hash": "BlzRoOjH6GA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=96876\nfileID=415015",
+        "Name": "Gourmet - A Cooking Overhaul-96876-1-1-4-1691430464.7z",
+        "Size": 14123207,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Parapets",
-          "Description": "Improves the usability of the Constructible Object Menu with SkyUI with an extensible keyword-based category system.",
-          "FileID": 345505,
+          "Author": "SimonMagus",
+          "Description": "Gourmet is a complete overhaul of Skyrim\u2019s cooking system that distributes food, ingredients, and crafting tables throughout the game.",
+          "FileID": 415015,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/81409/81409-1672143309-1522266016.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/96876/96876-1690669371-2134085921.png",
           "IsNSFW": false,
-          "ModID": 81409,
-          "Name": "Constructible Object Custom Keyword System",
-          "Version": "1.0.1"
+          "ModID": 96876,
+          "Name": "Gourmet - A Cooking Overhaul",
+          "Version": "1.1.4"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "LL9x7WdSr5I=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=85702\nfileID=364683",
-        "Name": "Inventory Interface Information Injector (SE)-85702-1-0-2-1677719496.7z",
-        "Size": 3020205,
+        "Hash": "0wqSqxj/ox8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62775\nfileID=322615",
+        "Name": "TrueHUD-62775-1-1-8-1665279999.7z",
+        "Size": 296458,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Parapets and Jelidity",
-          "Description": "Inserts interesting information, including item icons, into inventory interface. Importantly, its innocuous injection implementation intrinsically ignores independently installed interface improvements.",
-          "FileID": 364683,
+          "Author": "Ersh",
+          "Description": "HUD additions formerly included in True Directional Movement, completely reworked and improved! Very customizable actor info bars, boss bars, player widget, recent loot log and an API for other plugins to use. Modular and customizable through MCM.",
+          "FileID": 322615,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/85702/85702-1677666015-1825426947.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62775/62775-1643737629-1125862080.png",
           "IsNSFW": false,
-          "ModID": 85702,
-          "Name": "Inventory Interface Information Injector",
-          "Version": "1.0.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "09maC6uxwWk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=21085\nfileID=392538",
-        "Name": "QuickLootRE-21085-2-15-0-1685228732.zip",
-        "Size": 563907,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ryan",
-          "Description": "This mod adds a looting menu akin to the one present in FO4.",
-          "FileID": 392538,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21085/21085-1541663066-2058527066.png",
-          "IsNSFW": false,
-          "ModID": 21085,
-          "Name": "Quick Loot RE",
-          "Version": "2.15.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "gZdDU2OoFaY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=23581\nfileID=381700",
-        "Name": "Whose Quest Is It Anyway-23581-1-5-0-1682374361.zip",
-        "Size": 384927,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ryan",
-          "Description": "Swaps the \u0022Quest items cannot be removed...\u0022 message for a more descriptive message informing you which quest the item belongs to.",
-          "FileID": 381700,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23581/23581-1550631592-340836315.png",
-          "IsNSFW": false,
-          "ModID": 23581,
-          "Name": "Whose Quest Is It Anyway",
-          "Version": "1.5.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "CcvL42Y1rms=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=62781\nfileID=260861",
-        "Name": "Security Overhaul SKSE - Regional Locks-62781-1-0-1-1643681140.7z",
-        "Size": 358199384,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "powerofthree - Kreiste - wSkeever",
-          "Description": "Regional variant lock models for Security Overhaul SKSE - Lock Variations",
-          "FileID": 260861,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62781/62781-1646367699-369455140.png",
-          "IsNSFW": false,
-          "ModID": 62781,
-          "Name": "Security Overhaul SKSE - Regional Locks",
-          "Version": "1.0.1"
+          "ModID": 62775,
+          "Name": "TrueHUD - HUD Additions",
+          "Version": "1.1.8"
         }
       }
     },
@@ -797,21 +755,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "LkDWoTIiMJk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=58224\nfileID=319179",
-        "Name": "Security Overhaul SKSE - Lock Variations-58224-3-2-0-1664066945.7z",
-        "Size": 174128628,
+        "Hash": "CcvL42Y1rms=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62781\nfileID=260861",
+        "Name": "Security Overhaul SKSE - Regional Locks-62781-1-0-1-1643681140.7z",
+        "Size": 358199384,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kreiste-wSkeever-powerofthree",
-          "Description": "SKSE based framework for replacing overused lock model with unique lock variants.",
-          "FileID": 319179,
+          "Author": "powerofthree - Kreiste - wSkeever",
+          "Description": "Regional variant lock models for Security Overhaul SKSE - Lock Variations",
+          "FileID": 260861,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/58224/58224-1646367643-2022704935.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62781/62781-1646367699-369455140.png",
           "IsNSFW": false,
-          "ModID": 58224,
-          "Name": "Security Overhaul SKSE - Lock Variations",
-          "Version": "3.2.0"
+          "ModID": 62781,
+          "Name": "Security Overhaul SKSE - Regional Locks",
+          "Version": "1.0.1"
         }
       }
     },
@@ -944,41 +902,83 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qHa2lEzv8ys=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=41780\nfileID=369263",
-        "Name": "Custom Skills Framework-41780-2-0-2-1679016314.7z",
-        "Size": 2662266,
+        "Hash": "FH9+kWBD+Us=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=69331\nfileID=335899",
+        "Name": "Animated Static Reload Fix - NG-69331-1-0-1-1669739630.zip",
+        "Size": 4975755,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "meh321",
-          "Description": "Allows mod authors to create unlimited amount of new custom skills with their own perk trees.",
-          "FileID": 369263,
+          "Author": "doodlum",
+          "Description": "Updated Animated Static Reload Fix with support for SSE, AE, and VR in one DLL.",
+          "FileID": 335899,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41780/41780-1603792308-1528539356.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69331/69331-1654695736-465181578.gif",
           "IsNSFW": false,
-          "ModID": 41780,
-          "Name": "Custom Skills Framework",
-          "Version": "2.0.2"
+          "ModID": 69331,
+          "Name": "Animated Static Reload Fix - NG",
+          "Version": "1.0.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8dgYrcDk75A=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=81286\nfileID=441788",
-        "Name": "PO3 Tweaks DBF Configuration-81286-1-0-1699722651.7z",
-        "Size": 2317,
+        "Hash": "qd1DKpNLJm4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=33261\nfileID=368384",
+        "Name": "Bug Fixes SSE - Anniversary Edition (1.6.629.0 and later)-33261-10-1678780224.7z",
+        "Size": 1862966,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VishVadeva",
-          "Description": "Files needed while following A Dragonborn\u0027s Fate.",
-          "FileID": 441788,
+          "Author": "meh321",
+          "Description": "A collection of engine bug fixes.",
+          "FileID": 368384,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/81286/81286-1691769064-1138051893.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33261/33261-1583174987-1890590249.jpeg",
           "IsNSFW": false,
-          "ModID": 81286,
-          "Name": "A Dragonborn\u0027s Fate Resources",
+          "ModID": 33261,
+          "Name": "Bug Fixes SSE",
+          "Version": "10"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pvkRpmCJq28=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=79975\nfileID=401176",
+        "Name": "ConsolePlusPlus-79975-1-3-0-1687767365.7z",
+        "Size": 5074880,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "SKSE plugin. Adds copy paste into console and caches console commands between game sessions",
+          "FileID": 401176,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/79975/79975-1670130613-1917291750.png",
+          "IsNSFW": false,
+          "ModID": 79975,
+          "Name": "ConsolePlusPlus",
+          "Version": "1.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "T4iwS6sVFO4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=92454\nfileID=393174",
+        "Name": "Dual Casting Fix-92454-1-0-1685396946.7z",
+        "Size": 3983345,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "SKSE plugin that fixes a vanilla bug which causes the game to treat dual cast spells as if they were single cast.",
+          "FileID": 393174,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/92454/92454-1685395804-1029634323.png",
+          "IsNSFW": false,
+          "ModID": 92454,
+          "Name": "Dual Casting Fix",
           "Version": "1.0"
         }
       }
@@ -986,63 +986,126 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wuEWfBaypvs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43532\nfileID=368379",
-        "Name": "Script Effect Archetype Crash Fix-43532-1-1678779345.7z",
-        "Size": 2289689,
+        "Hash": "BlnCH6CEj7A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=67473\nfileID=292386",
+        "Name": "FiresHurtRE-67473-2-1-1655670331.zip",
+        "Size": 393631,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Magicockerel",
-          "Description": "A collection of engine bug fixes and patches.",
-          "FileID": 368379,
+          "Author": "fenix31415",
+          "Description": "Now fires, campfires, embers, steam \u0026amp; magic pillars will cast a spell to you.\n\nAll INSTANT.",
+          "FileID": 292386,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43532/43532-1631663358-1008600046.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67473/67473-1651541915-1787763727.png",
           "IsNSFW": false,
-          "ModID": 43532,
-          "Name": "Scrambled Bugs",
-          "Version": "21"
+          "ModID": 67473,
+          "Name": "Fires Hurt RE",
+          "Version": "2.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "smw44dp3YZA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=24720\nfileID=324533",
-        "Name": "To Your Face AE-24720-1-0s-1665944678.zip",
-        "Size": 102707,
+        "Hash": "LL9x7WdSr5I=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=85702\nfileID=364683",
+        "Name": "Inventory Interface Information Injector (SE)-85702-1-0-2-1677719496.7z",
+        "Size": 3020205,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "underthesky and xILARTH",
-          "Description": "\u0022NPCs will not speak greetings towards the Dragonborn\u0027s back. SKSE plugin.\u0022 --underthesky",
-          "FileID": 324533,
+          "Author": "Parapets and Jelidity",
+          "Description": "Inserts interesting information, including item icons, into inventory interface. Importantly, its innocuous injection implementation intrinsically ignores independently installed interface improvements.",
+          "FileID": 364683,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/24720/24720-1554167161-778729903.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/85702/85702-1677666015-1825426947.png",
           "IsNSFW": false,
-          "ModID": 24720,
-          "Name": "To Your Face SE - AE - VR",
-          "Version": "1.0r"
+          "ModID": 85702,
+          "Name": "Inventory Interface Information Injector",
+          "Version": "1.0.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uGgCgGyineg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=22603\nfileID=338872",
-        "Name": "ScaleformTranslationPP-22603-1-6-0-1670538527.zip",
-        "Size": 431289,
+        "Hash": "h+BolF7yX10=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=92948\nfileID=395444",
+        "Name": "Media Keys Fix-92948-1-0-0-1686013671.7z",
+        "Size": 136233,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "epinter",
+          "Description": "Fixes media keys (volume, play/next/mute, windows key, alt\u002Bf4, etc...) by removing game\u0027s exclusive access to the keyboard. There\u0027s an option to fix deadkeys bug, and to enable Windows key.",
+          "FileID": 395444,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/92948/92948-1686008131-387483107.png",
+          "IsNSFW": false,
+          "ModID": 92948,
+          "Name": "Media Keys Fix SKSE",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eTCrxep8/Fk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=71567\nfileID=322907",
+        "Name": "Sound Fix for Large Sector Drives-71567-4-1665362859.7z",
+        "Size": 5167,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ian Patterson",
+          "Description": "Skyrim\u0027s engine has a bug that causes audio to not play most of the time when the game is installed to a drive with a sector size other than 512 (usually referred to as Advanced Format). This is an SKSE plugin that fixes the bug. Compatible with all versions of SE/AE.",
+          "FileID": 322907,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/71567/71567-1658081909-218386064.png",
+          "IsNSFW": false,
+          "ModID": 71567,
+          "Name": "Sound Fix for Large Sector Drives",
+          "Version": "4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gZdDU2OoFaY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=23581\nfileID=381700",
+        "Name": "Whose Quest Is It Anyway-23581-1-5-0-1682374361.zip",
+        "Size": 384927,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Ryan",
-          "Description": "This plugin enables native translation nesting present within SkyUI, as well as English fallbacks",
-          "FileID": 338872,
+          "Description": "Swaps the \u0022Quest items cannot be removed...\u0022 message for a more descriptive message informing you which quest the item belongs to.",
+          "FileID": 381700,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22603/22603-1547441830-1626204838.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23581/23581-1550631592-340836315.png",
           "IsNSFW": false,
-          "ModID": 22603,
-          "Name": "Scaleform Translation Plus Plus",
-          "Version": "1.6.0"
+          "ModID": 23581,
+          "Name": "Whose Quest Is It Anyway",
+          "Version": "1.5.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Eq2Cq6sNPdw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=69326\nfileID=324089",
+        "Name": "NPC AI Process Position Fix - NG-69326-1-1-1-1665790814.zip",
+        "Size": 5497524,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "doodlum",
+          "Description": "Updated NPC AI Process Position Fix adding support for SE, AE, and VR in one DLL.",
+          "FileID": 324089,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69326/69326-1654692591-651616921.png",
+          "IsNSFW": false,
+          "ModID": 69326,
+          "Name": "NPC AI Process Position Fix  - NG",
+          "Version": "1.1.1"
         }
       }
     },
@@ -1154,126 +1217,147 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Rok+HSHC7p8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=64339\nfileID=424474",
-        "Name": "Better Third Person Selection (AE - SE)-64339-0-5-9-1694262315.7z",
-        "Size": 623365,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Shrimperator",
-          "Description": "SKSE DLL to overhaul 3rd person object selection. \n\n\n\nRewrites Skyrim\u0027s crosshair selection to work more like true 3rd person RPGs - no more spending 5 minutes picking up tiny gold coins from the ground!",
-          "FileID": 424474,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/64339/64339-1647231323-1680510304.png",
-          "IsNSFW": false,
-          "ModID": 64339,
-          "Name": "Better Third Person Selection - BTPS",
-          "Version": "0.5.9"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "IuGPToNilbU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=42839\nfileID=321588",
-        "Name": "Equip Enchantment Fix for 1.6.629 and newer-42839-1-3-6-1664893446.zip",
-        "Size": 207587,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SlavicPotato",
-          "Description": "Fixes engine bugs where item enchantments don\u0027t apply when equipped or stop working while the item is still equipped. SKSE64 plugin.",
-          "FileID": 321588,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42839/42839-1606550112-1092714395.png",
-          "IsNSFW": false,
-          "ModID": 42839,
-          "Name": "Equip Enchantment Fix",
-          "Version": "1.3.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "9oCt+thQ5NU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=59435\nfileID=344198",
-        "Name": "Improvement Names Customized AE-59435-1-5-0-1672234689.7z",
-        "Size": 281066,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "colinswrath and Fudgyduff",
-          "Description": "Replace vanilla customization strings with your own custom strings. Its the same as the older version, just updated for Skyrim Special Edition 1.6.X\u002B (AE) compatibility.",
-          "FileID": 344198,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59435/59435-1638479976-489649964.jpeg",
-          "IsNSFW": false,
-          "ModID": 59435,
-          "Name": "Improvement Names Customized AE",
-          "Version": "1.5.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "i0JC2J0Vgm0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=76867\nfileID=326984",
-        "Name": "Recursion Fix-76867-1-2-1666911818.rar",
-        "Size": 330414,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Nightfallstorm",
-          "Description": "Detects broken papyrus scripts stuck in recursion and prevents huge framerate lag",
-          "FileID": 326984,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/76867/76867-1666672330-1760598085.png",
-          "IsNSFW": false,
-          "ModID": 76867,
-          "Name": "Recursion Monitor",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "l+ahOfEguBM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=97536\nfileID=431381",
-        "Name": "Starfrost - A Survival Overhaul-97536-1-1-2-1696527730.7z",
-        "Size": 29594,
+        "Hash": "XmMaHkrDNl0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=97542\nfileID=415808",
+        "Name": "Candlehearth - Tavern AI Fix Patch-97542-1-1-0-1691680299.7z",
+        "Size": 2567,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SimonMagus",
-          "Description": "Starfrost is a lightweight overhaul of Survival Mode designed to introduce Survival mechanics into the game with the least amount of tedium possible.",
-          "FileID": 431381,
+          "Description": "Candlehearth is an inn overhaul that adds extended inn rentals and safe storage to every inn in Skyrim.",
+          "FileID": 415808,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/97536/97536-1691089007-1361861853.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/97542/97542-1691091176-560706262.png",
           "IsNSFW": false,
-          "ModID": 97536,
-          "Name": "Starfrost - A Survival Overhaul",
-          "Version": "1.1.2"
+          "ModID": 97542,
+          "Name": "Candlehearth - An Inn Overhaul",
+          "Version": "1.1.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/T3vJlCI4JM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=416295",
-        "Name": "Assorted Mesh Fixes-32117-0-90-1691828167.7z",
-        "Size": 16792720,
+        "Hash": "axDCsn171nY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=92220\nfileID=430702",
+        "Name": "Journeyman - A Fast Travel Overhaul-92220-1-1-4-1696274379.7z",
+        "Size": 5349772,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "wankingSkeever",
-          "Description": "Fixes various issues with vanilla Skyrim meshes that causes them to render incorrectly",
-          "FileID": 416295,
+          "Author": "SimonMagus",
+          "Description": "Journeyman is a lightweight, highly compatible fast travel overhaul that restricts the player from fast traveling unless they have prepared a travel pack.",
+          "FileID": 430702,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32117/32117-1688313133-1029298072.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/92220/92220-1685122834-657935923.jpeg",
           "IsNSFW": false,
-          "ModID": 32117,
-          "Name": "Assorted mesh fixes",
-          "Version": "0.90"
+          "ModID": 92220,
+          "Name": "Journeyman - A Fast Travel Overhaul",
+          "Version": "1.1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uGgCgGyineg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=22603\nfileID=338872",
+        "Name": "ScaleformTranslationPP-22603-1-6-0-1670538527.zip",
+        "Size": 431289,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ryan",
+          "Description": "This plugin enables native translation nesting present within SkyUI, as well as English fallbacks",
+          "FileID": 338872,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22603/22603-1547441830-1626204838.png",
+          "IsNSFW": false,
+          "ModID": 22603,
+          "Name": "Scaleform Translation Plus Plus",
+          "Version": "1.6.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KN1VVPEJbW0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=36869\nfileID=429461",
+        "Name": "Spell Perk Item Distributor-36869-6-6-2-1695858910.7z",
+        "Size": 5570042,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree-sasnikol",
+          "Description": "SKSE plugin that can be used to add spells/perks/items/shouts/packages/outfits/keywords/factions to every NPC in the game, using config files.",
+          "FileID": 429461,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/36869/36869-1591389125-628593205.png",
+          "IsNSFW": false,
+          "ModID": 36869,
+          "Name": "Spell Perk Item Distributor (SPID)",
+          "Version": "6.6.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lB7mZC4mVGg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=57754\nfileID=375711",
+        "Name": "Timing is Everything SE - Settings Loader-57754-1-0-1-1680803770.zip",
+        "Size": 18296,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MaskedRPGFan",
+          "Description": "Created from scratch MCM for Timing is Everything SE by kryptopyr to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load so you don\u0027t have to spend time in MCM again with each game. Localization support. No plugin.",
+          "FileID": 375711,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57754/57754-1635723980-1749317126.png",
+          "IsNSFW": false,
+          "ModID": 57754,
+          "Name": "Timing is Everything SE - Settings Loader",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "09maC6uxwWk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=21085\nfileID=392538",
+        "Name": "QuickLootRE-21085-2-15-0-1685228732.zip",
+        "Size": 563907,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ryan",
+          "Description": "This mod adds a looting menu akin to the one present in FO4.",
+          "FileID": 392538,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21085/21085-1541663066-2058527066.png",
+          "IsNSFW": false,
+          "ModID": 21085,
+          "Name": "Quick Loot RE",
+          "Version": "2.15.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "i9jZDlqOFk0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=659\nfileID=59069",
+        "Name": "SMIM SE 2-08-659-2-08.7z",
+        "Size": 1057149277,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Brumbek",
+          "Description": "A massive project to greatly improve the appearance of countless static 3D models in Skyrim. Basically, this is my attempt to make the Skyrim architecture, clutter, furniture, and landscaping much nicer.",
+          "FileID": 59069,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/8655-1-1344844621.jpg",
+          "IsNSFW": false,
+          "ModID": 659,
+          "Name": "Static Mesh Improvement Mod - SMIM",
+          "Version": "2.08"
         }
       }
     },
@@ -1385,6 +1469,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "1rK822Cyj8M=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=77779\nfileID=362490",
+        "Name": "Papyrus Tweaks 4.1.0-77779-4-1-0-1677126184.rar",
+        "Size": 4352698,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nightfallstorm",
+          "Description": "Collection of fixes, tweaks and performance improvements for Skyrim\u0027s script engine. 100% configurable. Install/Uninstall anytime.",
+          "FileID": 362490,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/77779/77779-1667845399-964914238.png",
+          "IsNSFW": false,
+          "ModID": 77779,
+          "Name": "Papyrus Tweaks NG",
+          "Version": "4.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "KpNzZe2PzaU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=51073\nfileID=429459",
         "Name": "powerofthree\u0027s Tweaks-51073-1-8-1-1695858240.7z",
@@ -1406,126 +1511,126 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qd1DKpNLJm4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=33261\nfileID=368384",
-        "Name": "Bug Fixes SSE - Anniversary Edition (1.6.629.0 and later)-33261-10-1678780224.7z",
-        "Size": 1862966,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "meh321",
-          "Description": "A collection of engine bug fixes.",
-          "FileID": 368384,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33261/33261-1583174987-1890590249.jpeg",
-          "IsNSFW": false,
-          "ModID": 33261,
-          "Name": "Bug Fixes SSE",
-          "Version": "10"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "xzd21LJNNTk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=89042\nfileID=440836",
-        "Name": "CASP Main File-89042-1-1-2-6-1699383760.7z",
-        "Size": 5856412,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "NoahBoddie",
-          "Description": "The weapon speed fix to put an end to them all.",
-          "FileID": 440836,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/89042/89042-1697657041-1406836044.png",
-          "IsNSFW": false,
-          "ModID": 89042,
-          "Name": "Comprehensive Attack Rate Patch - SKSE",
-          "Version": "1.1.2.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "d1JaPcjXm+M=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=77779\nfileID=362491",
-        "Name": "INI file for reference-77779-4-1-0-1677126223.rar",
-        "Size": 7854,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Nightfallstorm",
-          "Description": "Collection of fixes, tweaks and performance improvements for Skyrim\u0027s script engine. 100% configurable. Install/Uninstall anytime.",
-          "FileID": 362491,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/77779/77779-1667845399-964914238.png",
-          "IsNSFW": false,
-          "ModID": 77779,
-          "Name": "Papyrus Tweaks NG",
-          "Version": "4.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "N/ZXVmEy7mI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=26838\nfileID=326266",
-        "Name": "Remember Lockpick Angle-26838-4-2-1666611500.7z",
-        "Size": 155936,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "OnlyIWeDo",
-          "Description": "After breaking a lock-pick, the new lock-pick is placed at the same angle where the last one broke.",
-          "FileID": 326266,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26838/26838-1561167376-1388362864.gif",
-          "IsNSFW": false,
-          "ModID": 26838,
-          "Name": "Remember Lockpick Angle - Updated",
-          "Version": "4.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "pXae4D7zl+c=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=76927\nfileID=323246",
-        "Name": "Stay At System Page-76927-1-6-1665472279.zip",
-        "Size": 146130,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ryan---VersuchDrei",
-          "Description": "Conversion of Stay At The System Page - Updated to CLib-NG to create one .dll file that works in all Skyrim SE versions, including AE 1.6.629\u002B.\n\nEnsures the journal menu always opens at the system page tab.",
-          "FileID": 323246,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/76927/76927-1665472079-1041415688.png",
-          "IsNSFW": false,
-          "ModID": 76927,
-          "Name": "Stay At The System Page NG",
-          "Version": "1.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "T/WR6gIQ89Q=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=86617\nfileID=422432",
-        "Name": "Tree LOD Lighting-86617-1-1-0-1693528981.zip",
-        "Size": 2910,
+        "Hash": "MKuvjDPqno4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=77834\nfileID=327652",
+        "Name": "Aurora Fix--77834-1-0-1-1667140513.zip",
+        "Size": 5318489,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "doodlum",
-          "Description": "Community Shaders feature which replaces tree LOD shaders. Includes \u0022complex\u0022 tree LOD from DynDOLOD, directional light fix, and improved lighting.",
-          "FileID": 422432,
+          "Description": "SKSE plugin which fixes auroras getting stuck when transitioning between worldspaces.",
+          "FileID": 327652,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/86617/86617-1678391114-823217977.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/77834/77834-1667009351-1821974839.png",
           "IsNSFW": false,
-          "ModID": 86617,
-          "Name": "Tree LOD Lighting",
+          "ModID": 77834,
+          "Name": "Aurora Fix",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5WF8Z4Mc5DI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=84588\nfileID=358046",
+        "Name": "Combat Music Fix NG-84588-1-0-0-1675959709.zip",
+        "Size": 364494,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "dTry",
+          "Description": "This is the AE-compatible version of Combat Music Fix SKSE.",
+          "FileID": 358046,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/84588/84588-1675959253-145594149.png",
+          "IsNSFW": false,
+          "ModID": 84588,
+          "Name": "Combat Music Fix NG",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PIqKTfhNgp8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=76783\nfileID=324310",
+        "Name": "Dynamic Collision Adjustment-76783-1-1-0-1665867655.7z",
+        "Size": 143232,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ersh",
+          "Description": "Adjusts the character controller collision while sneaking and swimming so you can fit under objects. Fixes some races not being affected by Actor Scale.",
+          "FileID": 324310,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/76783/76783-1665271173-1102901974.png",
+          "IsNSFW": false,
+          "ModID": 76783,
+          "Name": "Dynamic Collision Adjustment",
           "Version": "1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wpN4l3Es9Do=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=87816\nfileID=442368",
+        "Name": "Grass Collision-87816-1-2-0-1699907575.7z",
+        "Size": 936,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Maxsu doodlez",
+          "Description": "Community Shaders feature which adds player collision to grass shaders with minimal performance impact.",
+          "FileID": 442368,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/87816/87816-1679798323-1251218371.png",
+          "IsNSFW": false,
+          "ModID": 87816,
+          "Name": "Grass Collision",
+          "Version": "1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "b0bS2uaNR+0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=73336\nfileID=323576",
+        "Name": "Moons And Stars - Sky Overhaul SKSE-73336-2-0-2-1665609139.7z",
+        "Size": 4271232,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree and wSkeever",
+          "Description": "DLL plugin to fix moons and stars movement and phases.",
+          "FileID": 323576,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/73336/73336-1660454337-854550668.png",
+          "IsNSFW": false,
+          "ModID": 73336,
+          "Name": "Moons and Stars - Sky Overhaul SKSE",
+          "Version": "2.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "29TfURdFbbo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43532\nfileID=368378",
+        "Name": "Scrambled Bugs - Anniversary Edition (1.6.629.0 and later)-43532-21-1678779028.7z",
+        "Size": 2009006,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Magicockerel",
+          "Description": "A collection of engine bug fixes and patches.",
+          "FileID": 368378,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43532/43532-1631663358-1008600046.jpeg",
+          "IsNSFW": false,
+          "ModID": 43532,
+          "Name": "Scrambled Bugs",
+          "Version": "21"
         }
       }
     },
@@ -1616,62 +1721,62 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "n7TL/YWifTs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=34705\nfileID=321590",
-        "Name": "SSE Display Tweaks-34705-0-5-12-1664893623.zip",
-        "Size": 196802,
+        "Hash": "wzg9I2wix7g=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=81409\nfileID=345505",
+        "Name": "Crafting Categories for SkyUI-81409-1-0-1-1672573694.7z",
+        "Size": 2584328,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Parapets",
+          "Description": "Improves the usability of the Constructible Object Menu with SkyUI with an extensible keyword-based category system.",
+          "FileID": 345505,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/81409/81409-1672143309-1522266016.png",
+          "IsNSFW": false,
+          "ModID": 81409,
+          "Name": "Constructible Object Custom Keyword System",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "G8F21SF/L4E=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=19608\nfileID=317381",
+        "Name": "Encounter Zones Unlocked AE-19608-1-5-4-1663528547.zip",
+        "Size": 163166,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "underthesky and z65536",
+          "Description": "Prevents Skyrim from freezing the level of Encounter Zones (like dungeons) when they are first visited.",
+          "FileID": 317381,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19608/19608-1535436486-85642305.jpeg",
+          "IsNSFW": false,
+          "ModID": 19608,
+          "Name": "Encounter Zones Unlocked SE",
+          "Version": "1.5.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gUEnOI0mDd0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=86631\nfileID=373947",
+        "Name": "Sprint Sneak Movement Speed Fix-86631-1-1-1-1680335581.zip",
+        "Size": 196720,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "SlavicPotato",
-          "Description": "All-in-one solution for smooth FPS-unlocked gameplay. Includes a physics fix, borderless fullscreen performance boost, refresh rate control, highly configurable frame rate limiting, various bugfixes and more.",
-          "FileID": 321590,
+          "Description": "Fixes the game applying wrong movement speed if the character draws, sheathes or shouts while sprinting or sneaking. SKSE64 plugin.",
+          "FileID": 373947,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34705/34705-1586796582-2125322633.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/86631/86631-1678347310-194997115.png",
           "IsNSFW": false,
-          "ModID": 34705,
-          "Name": "SSE Display Tweaks",
-          "Version": "0.5.12"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "n9Cyk8+NNmg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=74064\nfileID=353911",
-        "Name": "Fire Hurts NG-74064-1-0-3-1674928822.zip",
-        "Size": 5838451,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "doodlum",
-          "Description": "SKSE plugin which makes fire a hazard for the player and more, updated with support for SE and AE in one DLL.",
-          "FileID": 353911,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/74064/74064-1661469795-1801290361.png",
-          "IsNSFW": false,
-          "ModID": 74064,
-          "Name": "Fire Hurts NG",
-          "Version": "1.0.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "qvvmFJ2uIOU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=89163\nfileID=422013",
-        "Name": "Instantly Skip Dialogue NG-89163-1-1-1-1693399775.zip",
-        "Size": 300639,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Osmosis-Wrench and Jonathan Feenstra",
-          "Description": "This SKSE plugin allows the player to skip dialogue instantly, bypassing the 750 millisecond delay. This includes dialogue that\u0027s normally unskippable (Hermaeus Mora, Molag Bal, Augur of Dunlain, etc.).",
-          "FileID": 422013,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/89163/89163-1681395486-1726139576.png",
-          "IsNSFW": false,
-          "ModID": 89163,
-          "Name": "Instantly Skip Dialogue NG",
+          "ModID": 86631,
+          "Name": "Sprint Sneak Movement Speed Fix",
           "Version": "1.1.1"
         }
       }
@@ -1679,42 +1784,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Oxxv3tYg4o0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=90659\nfileID=412465",
-        "Name": "Stormcrown - A Shout Overhaul-90659-1-1-10-1690750166.7z",
-        "Size": 2626227,
+        "Hash": "XqdcxH5KLuE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=81286\nfileID=412336",
+        "Name": "Timing is Everything DBF Configuration-81286-1-0-1690732108.7z",
+        "Size": 500,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SimonMagus",
-          "Description": "Stormcrown is a complete overhaul of Skyrim\u2019s Shout system designed to balance existing Shouts, add new Shouts, and provide additional progression for the player\u2019s experience as Dragonborn.",
-          "FileID": 412465,
+          "Author": "VishVadeva",
+          "Description": "Files needed while following A Dragonborn\u0027s Fate.",
+          "FileID": 412336,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/90659/90659-1683236809-1552423896.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/81286/81286-1691769064-1138051893.png",
           "IsNSFW": false,
-          "ModID": 90659,
-          "Name": "Stormcrown - A Shout Overhaul",
-          "Version": "1.1.10"
+          "ModID": 81286,
+          "Name": "A Dragonborn\u0027s Fate Resources",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0wqSqxj/ox8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=62775\nfileID=322615",
-        "Name": "TrueHUD-62775-1-1-8-1665279999.7z",
-        "Size": 296458,
+        "Hash": "Z0ih/texIiA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=91403\nfileID=391675",
+        "Name": "World Encounter Hostility Fix-91403-0-3-1684986573.7z",
+        "Size": 7690,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ersh",
-          "Description": "HUD additions formerly included in True Directional Movement, completely reworked and improved! Very customizable actor info bars, boss bars, player widget, recent loot log and an API for other plugins to use. Modular and customizable through MCM.",
-          "FileID": 322615,
+          "Author": "wankingSkeever",
+          "Description": "Prevent vanilla world encounter NPCs from turning hostile when you cast non-hostile spells",
+          "FileID": 391675,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62775/62775-1643737629-1125862080.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/91403/91403-1684147998-410955562.png",
           "IsNSFW": false,
-          "ModID": 62775,
-          "Name": "TrueHUD - HUD Additions",
-          "Version": "1.1.8"
+          "ModID": 91403,
+          "Name": "World Encounter Hostility Fix",
+          "Version": "0.4"
         }
       }
     },
@@ -1763,48 +1868,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "axDCsn171nY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=92220\nfileID=430702",
-        "Name": "Journeyman - A Fast Travel Overhaul-92220-1-1-4-1696274379.7z",
-        "Size": 5349772,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SimonMagus",
-          "Description": "Journeyman is a lightweight, highly compatible fast travel overhaul that restricts the player from fast traveling unless they have prepared a travel pack.",
-          "FileID": 430702,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/92220/92220-1685122834-657935923.jpeg",
-          "IsNSFW": false,
-          "ModID": 92220,
-          "Name": "Journeyman - A Fast Travel Overhaul",
-          "Version": "1.1.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "b0bS2uaNR+0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=73336\nfileID=323576",
-        "Name": "Moons And Stars - Sky Overhaul SKSE-73336-2-0-2-1665609139.7z",
-        "Size": 4271232,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "powerofthree and wSkeever",
-          "Description": "DLL plugin to fix moons and stars movement and phases.",
-          "FileID": 323576,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/73336/73336-1660454337-854550668.png",
-          "IsNSFW": false,
-          "ModID": 73336,
-          "Name": "Moons and Stars - Sky Overhaul SKSE",
-          "Version": "2.0.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "x/Av+4hrHeA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=95196\nfileID=404739",
         "Name": "Sorcerer - A Staff and Scroll Overhaul-95196-1-0-0-1688744197.7z",
@@ -1847,105 +1910,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "lB7mZC4mVGg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=57754\nfileID=375711",
-        "Name": "Timing is Everything SE - Settings Loader-57754-1-0-1-1680803770.zip",
-        "Size": 18296,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MaskedRPGFan",
-          "Description": "Created from scratch MCM for Timing is Everything SE by kryptopyr to support MCM Helper. Saves settings as you change them, automatically loads settings on startup or game load so you don\u0027t have to spend time in MCM again with each game. Localization support. No plugin.",
-          "FileID": 375711,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/57754/57754-1635723980-1749317126.png",
-          "IsNSFW": false,
-          "ModID": 57754,
-          "Name": "Timing is Everything SE - Settings Loader",
-          "Version": "1.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "U/XYuux/BAw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=90734\nfileID=408042",
-        "Name": "RemoveAllItems Freeze Fix-90734-1-1-0-1689633901.zip",
-        "Size": 5479943,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "wskeever po3 doodlez",
-          "Description": "SKSE plugin which attempts to address an issue with corrupted game state which results in random freezes. Important for jail, the quests Diplomatic Immunity and Mind of Madness, and more.",
-          "FileID": 408042,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/90734/90734-1683391867-52118396.png",
-          "IsNSFW": false,
-          "ModID": 90734,
-          "Name": "RemoveAllItems Freeze Fix",
-          "Version": "1.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ZVL74jpkW5I=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=82665\nfileID=350167",
-        "Name": "Twilight-82665-1-2-0-1673895832.zip",
-        "Size": 5040971,
+        "Hash": "zlxtV5ufMhU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=86502\nfileID=442369",
+        "Name": "Grass Lighting-86502-1-3-3-1699907619.7z",
+        "Size": 5123,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "doodlum",
-          "Description": "SKSE plugin which simulates twilight (dawn and dusk) for any weather.",
-          "FileID": 350167,
+          "Description": "Community Shaders feature which replaces grass shaders. Includes a directional light fix, point lights, improved lighting and emulated complex grass.",
+          "FileID": 442369,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/82665/82665-1674075366-1339744766.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/86502/86502-1678165298-976510482.png",
           "IsNSFW": false,
-          "ModID": 82665,
-          "Name": "Twilight",
-          "Version": "1.2.0"
+          "ModID": 86502,
+          "Name": "Grass Lighting",
+          "Version": "1.3.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PIqKTfhNgp8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=76783\nfileID=324310",
-        "Name": "Dynamic Collision Adjustment-76783-1-1-0-1665867655.7z",
-        "Size": 143232,
+        "Hash": "YMOICOV1Al4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55728\nfileID=421701",
+        "Name": "Keyword Item Distributor-55728-3-0-4-1693294098.7z",
+        "Size": 7840636,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ersh",
-          "Description": "Adjusts the character controller collision while sneaking and swimming so you can fit under objects. Fixes some races not being affected by Actor Scale.",
-          "FileID": 324310,
+          "Author": "powerofthree",
+          "Description": "SKSE plugin that distributes keywords to weapons/armor/magic effects/ingestibles and other items, using config files.",
+          "FileID": 421701,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/76783/76783-1665271173-1102901974.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55728/55728-1631907555-1384673801.png",
           "IsNSFW": false,
-          "ModID": 76783,
-          "Name": "Dynamic Collision Adjustment",
-          "Version": "1.1.0"
+          "ModID": 55728,
+          "Name": "Keyword Item Distributor (KID)",
+          "Version": "3.0.4"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BlnCH6CEj7A=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=67473\nfileID=292386",
-        "Name": "FiresHurtRE-67473-2-1-1655670331.zip",
-        "Size": 393631,
+        "Hash": "smw44dp3YZA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=24720\nfileID=324533",
+        "Name": "To Your Face AE-24720-1-0s-1665944678.zip",
+        "Size": 102707,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "fenix31415",
-          "Description": "Now fires, campfires, embers, steam \u0026amp; magic pillars will cast a spell to you.\n\nAll INSTANT.",
-          "FileID": 292386,
+          "Author": "underthesky and xILARTH",
+          "Description": "\u0022NPCs will not speak greetings towards the Dragonborn\u0027s back. SKSE plugin.\u0022 --underthesky",
+          "FileID": 324533,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67473/67473-1651541915-1787763727.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/24720/24720-1554167161-778729903.png",
           "IsNSFW": false,
-          "ModID": 67473,
-          "Name": "Fires Hurt RE",
-          "Version": "2.1"
+          "ModID": 24720,
+          "Name": "To Your Face SE - AE - VR",
+          "Version": "1.0r"
         }
       }
     },
@@ -1973,62 +1994,41 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "FH9+kWBD+Us=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=69331\nfileID=335899",
-        "Name": "Animated Static Reload Fix - NG-69331-1-0-1-1669739630.zip",
-        "Size": 4975755,
+        "Hash": "INLfdjw6dws=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=86617\nfileID=442370",
+        "Name": "Tree LOD Lighting-86617-1-2-0-1699907640.7z",
+        "Size": 2749,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "doodlum",
-          "Description": "Updated Animated Static Reload Fix with support for SSE, AE, and VR in one DLL.",
-          "FileID": 335899,
+          "Description": "Community Shaders feature which replaces tree LOD shaders. Includes \u0022complex\u0022 tree LOD from DynDOLOD, directional light fix, and improved lighting.",
+          "FileID": 442370,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69331/69331-1654695736-465181578.gif",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/86617/86617-1678391114-823217977.png",
           "IsNSFW": false,
-          "ModID": 69331,
-          "Name": "Animated Static Reload Fix - NG",
-          "Version": "1.0.1"
+          "ModID": 86617,
+          "Name": "Tree LOD Lighting",
+          "Version": "1.1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "pvkRpmCJq28=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=79975\nfileID=401176",
-        "Name": "ConsolePlusPlus-79975-1-3-0-1687767365.7z",
-        "Size": 5074880,
+        "Hash": "BW9Qs2KOLZg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=77173\nfileID=324312",
+        "Name": "Barter Limit Fix-77173-1-0-1665868879.7z",
+        "Size": 801227,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "powerofthree",
-          "Description": "SKSE plugin. Adds copy paste into console and caches console commands between game sessions",
-          "FileID": 401176,
+          "Author": "powerofthree and KernalsEgg",
+          "Description": "SKSE plugin that fixes trading with merchants with more than 32,767 gold.",
+          "FileID": 324312,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/79975/79975-1670130613-1917291750.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/77173/77173-1665868790-1170723280.png",
           "IsNSFW": false,
-          "ModID": 79975,
-          "Name": "ConsolePlusPlus",
-          "Version": "1.3.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "T4iwS6sVFO4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=92454\nfileID=393174",
-        "Name": "Dual Casting Fix-92454-1-0-1685396946.7z",
-        "Size": 3983345,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "powerofthree",
-          "Description": "SKSE plugin that fixes a vanilla bug which causes the game to treat dual cast spells as if they were single cast.",
-          "FileID": 393174,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/92454/92454-1685395804-1029634323.png",
-          "IsNSFW": false,
-          "ModID": 92454,
-          "Name": "Dual Casting Fix",
+          "ModID": 77173,
+          "Name": "Barter Limit Fix",
           "Version": "1.0"
         }
       }
@@ -2036,21 +2036,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "h+BolF7yX10=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=92948\nfileID=395444",
-        "Name": "Media Keys Fix-92948-1-0-0-1686013671.7z",
-        "Size": 136233,
+        "Hash": "OznTXgHrHKQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=321815",
+        "Name": "(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z",
+        "Size": 291389,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "epinter",
-          "Description": "Fixes media keys (volume, play/next/mute, windows key, alt\u002Bf4, etc...) by removing game\u0027s exclusive access to the keyboard. There\u0027s an option to fix deadkeys bug, and to enable Windows key.",
-          "FileID": 395444,
+          "Author": "aers - Nukem - Ryan",
+          "Description": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.",
+          "FileID": 321815,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/92948/92948-1686008131-387483107.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17230/17230-1526195370-298143229.png",
           "IsNSFW": false,
-          "ModID": 92948,
-          "Name": "Media Keys Fix SKSE",
-          "Version": "1.0.0"
+          "ModID": 17230,
+          "Name": "SSE Engine Fixes (skse64 plugin)",
+          "Version": "6.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HAt3TVGpK2g=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=91285\nfileID=391641",
+        "Name": "Grass Sampler Fix-91285-1-0-1-1684975377.zip",
+        "Size": 4415790,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "doodlez",
+          "Description": "SKSE plugin which makes grass fields look sharper and more lush. Also improves Skyrim Upscaler.",
+          "FileID": 391641,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/91285/91285-1684009509-232377694.png",
+          "IsNSFW": false,
+          "ModID": 91285,
+          "Name": "Grass Sampler Fix",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "l+ahOfEguBM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=97536\nfileID=431381",
+        "Name": "Starfrost - A Survival Overhaul-97536-1-1-2-1696527730.7z",
+        "Size": 29594,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SimonMagus",
+          "Description": "Starfrost is a lightweight overhaul of Survival Mode designed to introduce Survival mechanics into the game with the least amount of tedium possible.",
+          "FileID": 431381,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/97536/97536-1691089007-1361861853.png",
+          "IsNSFW": false,
+          "ModID": 97536,
+          "Name": "Starfrost - A Survival Overhaul",
+          "Version": "1.1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/T3vJlCI4JM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32117\nfileID=416295",
+        "Name": "Assorted Mesh Fixes-32117-0-90-1691828167.7z",
+        "Size": 16792720,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "wankingSkeever",
+          "Description": "Fixes various issues with vanilla Skyrim meshes that causes them to render incorrectly",
+          "FileID": 416295,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32117/32117-1688313133-1029298072.png",
+          "IsNSFW": false,
+          "ModID": 32117,
+          "Name": "Assorted mesh fixes",
+          "Version": "0.90"
         }
       }
     },
@@ -2078,42 +2141,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ycYOFpsVzEE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=78244\nfileID=415030",
-        "Name": "Survival Mode Improved - SKSE-78244-1-3-1-1691433520.7z",
-        "Size": 4360508,
+        "Hash": "bXsYEAvbNVA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=99548\nfileID=442364",
+        "Name": "Light Limit Fix-99548-1-2-0-1699907395.7z",
+        "Size": 4607,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "colinswrath and CordialCupid",
-          "Description": "Survival Mode Improved - SKSE is an SKSE plugin implementation of Skyrim\u0027s Survival Mode, more specifically, Survival Mode Improved. Survival Mode has been rebuilt from the ground up utilizing C\u002B\u002B (CommonLibSSE-NG) rather than Papyrus. No more straining the Papyrus VM with Survival Mode\u0027s polling and hit events, etc.",
-          "FileID": 415030,
+          "Author": "doodlez alandtse",
+          "Description": "Community Shaders feature which makes dynamic lights unlimited, adds particle lights, contact shadows, shadows for first-person torches and light spells, and more. Supports SE, AE, and VR.",
+          "FileID": 442364,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/78244/78244-1667837631-1178020274.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/99548/99548-1693530223-479667847.png",
           "IsNSFW": false,
-          "ModID": 78244,
-          "Name": "Survival Mode Improved - SKSE",
-          "Version": "1.3.1"
+          "ModID": 99548,
+          "Name": "Light Limit Fix",
+          "Version": "1.0.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XmMaHkrDNl0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=97542\nfileID=415808",
-        "Name": "Candlehearth - Tavern AI Fix Patch-97542-1-1-0-1691680299.7z",
-        "Size": 2567,
+        "Hash": "Opq7OWehR4w=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=81286\nfileID=411421",
+        "Name": "Scrambled Bugs DBF Configuration-81286-1-0-1690538178.7z",
+        "Size": 2017,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SimonMagus",
-          "Description": "Candlehearth is an inn overhaul that adds extended inn rentals and safe storage to every inn in Skyrim.",
-          "FileID": 415808,
+          "Author": "VishVadeva",
+          "Description": "Files needed while following A Dragonborn\u0027s Fate.",
+          "FileID": 411421,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/97542/97542-1691091176-560706262.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/81286/81286-1691769064-1138051893.png",
           "IsNSFW": false,
-          "ModID": 97542,
-          "Name": "Candlehearth - An Inn Overhaul",
-          "Version": "1.1.1"
+          "ModID": 81286,
+          "Name": "A Dragonborn\u0027s Fate Resources",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pXae4D7zl+c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=76927\nfileID=323246",
+        "Name": "Stay At System Page-76927-1-6-1665472279.zip",
+        "Size": 146130,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ryan---VersuchDrei",
+          "Description": "Conversion of Stay At The System Page - Updated to CLib-NG to create one .dll file that works in all Skyrim SE versions, including AE 1.6.629\u002B.\n\nEnsures the journal menu always opens at the system page tab.",
+          "FileID": 323246,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/76927/76927-1665472079-1041415688.png",
+          "IsNSFW": false,
+          "ModID": 76927,
+          "Name": "Stay At The System Page NG",
+          "Version": "1.6"
         }
       }
     },
@@ -2225,62 +2309,62 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "MKuvjDPqno4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=77834\nfileID=327652",
-        "Name": "Aurora Fix--77834-1-0-1-1667140513.zip",
-        "Size": 5318489,
+        "Hash": "qHa2lEzv8ys=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=41780\nfileID=369263",
+        "Name": "Custom Skills Framework-41780-2-0-2-1679016314.7z",
+        "Size": 2662266,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "doodlum",
-          "Description": "SKSE plugin which fixes auroras getting stuck when transitioning between worldspaces.",
-          "FileID": 327652,
+          "Author": "meh321",
+          "Description": "Allows mod authors to create unlimited amount of new custom skills with their own perk trees.",
+          "FileID": 369263,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/77834/77834-1667009351-1821974839.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41780/41780-1603792308-1528539356.png",
           "IsNSFW": false,
-          "ModID": 77834,
-          "Name": "Aurora Fix",
-          "Version": "1.0.1"
+          "ModID": 41780,
+          "Name": "Custom Skills Framework",
+          "Version": "2.0.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5WF8Z4Mc5DI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=84588\nfileID=358046",
-        "Name": "Combat Music Fix NG-84588-1-0-0-1675959709.zip",
-        "Size": 364494,
+        "Hash": "eH2+0fLpGJE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59818\nfileID=423446",
+        "Name": "CrashLogger-59818-1-10-0-1693905622.7z",
+        "Size": 6474738,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "dTry",
-          "Description": "This is the AE-compatible version of Combat Music Fix SKSE.",
-          "FileID": 358046,
+          "Author": "alandtse",
+          "Description": "Generates crash logs when the game Just Works\u2122. This is a SSE/AE/VR port using fudgyduff\u0027s MIT source. This can read PDB files that mod authors may distribute.",
+          "FileID": 423446,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/84588/84588-1675959253-145594149.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59818/59818-1653385406-1503960741.png",
           "IsNSFW": false,
-          "ModID": 84588,
-          "Name": "Combat Music Fix NG",
-          "Version": "1.0.0"
+          "ModID": 59818,
+          "Name": "Crash Logger SSE AE VR - PDB support",
+          "Version": "1.10.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "3eZ9zR4vJHM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=87816\nfileID=422434",
-        "Name": "Grass Collision-87816-1-1-0-1693529079.zip",
-        "Size": 1149,
+        "Hash": "o8KA8JklHmI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=93209\nfileID=442367",
+        "Name": "Screen-Space Shadows-93209-1-1-2-1699907483.7z",
+        "Size": 3522,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Maxsu doodlez",
-          "Description": "Community Shaders feature which adds player collision to grass shaders with minimal performance impact.",
-          "FileID": 422434,
+          "Author": "doodlez and Mathieu C",
+          "Description": "Community Shaders feature which adds screen-space shadows, enabling grass, map, distant and self-shadows.",
+          "FileID": 442367,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/87816/87816-1679798323-1251218371.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/93209/93209-1686701388-2097349754.png",
           "IsNSFW": false,
-          "ModID": 87816,
-          "Name": "Grass Collision",
+          "ModID": 93209,
+          "Name": "Screen-Space Shadows",
           "Version": "1.1.0"
         }
       }
@@ -2288,63 +2372,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "29TfURdFbbo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43532\nfileID=368378",
-        "Name": "Scrambled Bugs - Anniversary Edition (1.6.629.0 and later)-43532-21-1678779028.7z",
-        "Size": 2009006,
+        "Hash": "Oxxv3tYg4o0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=90659\nfileID=412465",
+        "Name": "Stormcrown - A Shout Overhaul-90659-1-1-10-1690750166.7z",
+        "Size": 2626227,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Magicockerel",
-          "Description": "A collection of engine bug fixes and patches.",
-          "FileID": 368378,
+          "Author": "SimonMagus",
+          "Description": "Stormcrown is a complete overhaul of Skyrim\u2019s Shout system designed to balance existing Shouts, add new Shouts, and provide additional progression for the player\u2019s experience as Dragonborn.",
+          "FileID": 412465,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43532/43532-1631663358-1008600046.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/90659/90659-1683236809-1552423896.png",
           "IsNSFW": false,
-          "ModID": 43532,
-          "Name": "Scrambled Bugs",
-          "Version": "21"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Wb7eBY4d4H8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=22825\nfileID=112006",
-        "Name": "Opt. 3 - Larger MCM Menu for SkyUI-22825-1-2-1572528248.zip",
-        "Size": 59555,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "uranreactor",
-          "Description": "This mod improves your MCM configuring expirience.",
-          "FileID": 112006,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22825/22825-1562001616-1439084220.jpeg",
-          "IsNSFW": false,
-          "ModID": 22825,
-          "Name": "Wider MCM Menu for SkyUI",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3T9Jo/xDXlM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43532\nfileID=368380",
-        "Name": "Vendor Respawn Fix-43532-1-1678779507.7z",
-        "Size": 2315018,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Magicockerel",
-          "Description": "A collection of engine bug fixes and patches.",
-          "FileID": 368380,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43532/43532-1631663358-1008600046.jpeg",
-          "IsNSFW": false,
-          "ModID": 43532,
-          "Name": "Scrambled Bugs",
-          "Version": "21"
+          "ModID": 90659,
+          "Name": "Stormcrown - A Shout Overhaul",
+          "Version": "1.1.10"
         }
       }
     },
@@ -2393,48 +2435,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BlzRoOjH6GA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=96876\nfileID=415015",
-        "Name": "Gourmet - A Cooking Overhaul-96876-1-1-4-1691430464.7z",
-        "Size": 14123207,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SimonMagus",
-          "Description": "Gourmet is a complete overhaul of Skyrim\u2019s cooking system that distributes food, ingredients, and crafting tables throughout the game.",
-          "FileID": 415015,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/96876/96876-1690669371-2134085921.png",
-          "IsNSFW": false,
-          "ModID": 96876,
-          "Name": "Gourmet - A Cooking Overhaul",
-          "Version": "1.1.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "i9jZDlqOFk0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=659\nfileID=59069",
-        "Name": "SMIM SE 2-08-659-2-08.7z",
-        "Size": 1057149277,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Brumbek",
-          "Description": "A massive project to greatly improve the appearance of countless static 3D models in Skyrim. Basically, this is my attempt to make the Skyrim architecture, clutter, furniture, and landscaping much nicer.",
-          "FileID": 59069,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/8655-1-1344844621.jpg",
-          "IsNSFW": false,
-          "ModID": 659,
-          "Name": "Static Mesh Improvement Mod - SMIM",
-          "Version": "2.08"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "oG0Tgfy1Vmg=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=31963\nfileID=120677",
         "Name": "d3dcompiler_47-31963-1-0-1579609721.7z",
@@ -2456,42 +2456,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "G8F21SF/L4E=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=19608\nfileID=317381",
-        "Name": "Encounter Zones Unlocked AE-19608-1-5-4-1663528547.zip",
-        "Size": 163166,
+        "Hash": "dTJPH+QYFg0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=83581\nfileID=363399",
+        "Name": "Bash Bug Fix-83581-3-0-0-1677373489.zip",
+        "Size": 15458991,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "underthesky and z65536",
-          "Description": "Prevents Skyrim from freezing the level of Encounter Zones (like dungeons) when they are first visited.",
-          "FileID": 317381,
+          "Author": "digitalApple",
+          "Description": "This mod attempts to fix the infamous bash bug, where a bash attack causes the current weapon\u0027s damage.",
+          "FileID": 363399,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19608/19608-1535436486-85642305.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/83581/83581-1674811168-1391649339.png",
           "IsNSFW": false,
-          "ModID": 19608,
-          "Name": "Encounter Zones Unlocked SE",
-          "Version": "1.5.4"
+          "ModID": 83581,
+          "Name": "Bash Bug Fix",
+          "Version": "3.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "UuiF5Lueykw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32561\nfileID=318422",
-        "Name": "FixNotesForSkyUI Skyrim AE-32561-1-2-6-1663815583.zip",
-        "Size": 135060,
+        "Hash": "ZVL74jpkW5I=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=82665\nfileID=350167",
+        "Name": "Twilight-82665-1-2-0-1673895832.zip",
+        "Size": 5040971,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "0xC0000005",
-          "Description": "A SKSE64 plugin that fixes the Letter/Note icon and type for SkyUI.",
-          "FileID": 318422,
+          "Author": "doodlum",
+          "Description": "SKSE plugin which simulates twilight (dawn and dusk) for any weather.",
+          "FileID": 350167,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32561/32561-1581395290-1148314672.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/82665/82665-1674075366-1339744766.png",
           "IsNSFW": false,
-          "ModID": 32561,
-          "Name": "Fix Note icon for SkyUI (SKSE64 plugin)",
-          "Version": "1.2.6"
+          "ModID": 82665,
+          "Name": "Twilight",
+          "Version": "1.2.0"
         }
       }
     },
@@ -2540,63 +2540,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "NCDWj+vsgGs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=86502\nfileID=422630",
-        "Name": "Grass Lighting-86502-1-3-2-1693611470.7z",
-        "Size": 5322,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "doodlum",
-          "Description": "Community Shaders feature which replaces grass shaders. Includes a directional light fix, point lights, improved lighting and emulated complex grass.",
-          "FileID": 422630,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/86502/86502-1678165298-976510482.png",
-          "IsNSFW": false,
-          "ModID": 86502,
-          "Name": "Grass Lighting",
-          "Version": "1.3.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "YMOICOV1Al4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=55728\nfileID=421701",
-        "Name": "Keyword Item Distributor-55728-3-0-4-1693294098.7z",
-        "Size": 7840636,
+        "Hash": "cKGq+i4bfLI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=61950\nfileID=323345",
+        "Name": "Enhanced Invisibility-61950-1-3-0-1665511169.7z",
+        "Size": 4760772,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "powerofthree",
-          "Description": "SKSE plugin that distributes keywords to weapons/armor/magic effects/ingestibles and other items, using config files.",
-          "FileID": 421701,
+          "Description": "SKSE plugin that improves and fixes bugs with Invisibility effects",
+          "FileID": 323345,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55728/55728-1631907555-1384673801.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61950/61950-1642218696-1263312632.gif",
           "IsNSFW": false,
-          "ModID": 55728,
-          "Name": "Keyword Item Distributor (KID)",
-          "Version": "3.0.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "wqjQcOZlbKg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=74632\nfileID=413118",
-        "Name": "Soft Shadows-74632-2-0-1690909038.zip",
-        "Size": 5301050,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "doodlum",
-          "Description": "SKSE plugin which dynamically adjusts the look of shadows depending on lighting conditions. Supports SE, AE and VR. Simplified and reworked!",
-          "FileID": 413118,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/74632/74632-1668473631-1676985407.png",
-          "IsNSFW": false,
-          "ModID": 74632,
-          "Name": "Soft Shadows",
-          "Version": "2.0"
+          "ModID": 61950,
+          "Name": "Enhanced Invisibility",
+          "Version": "1.3.0"
         }
       }
     },
@@ -2687,105 +2645,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BW9Qs2KOLZg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=77173\nfileID=324312",
-        "Name": "Barter Limit Fix-77173-1-0-1665868879.7z",
-        "Size": 801227,
+        "Hash": "zm+bucUlFiQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=18967\nfileID=317398",
+        "Name": "Better Jumping AE-18967-1-8-6-1663530469.zip",
+        "Size": 167638,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "powerofthree and KernalsEgg",
-          "Description": "SKSE plugin that fixes trading with merchants with more than 32,767 gold.",
-          "FileID": 324312,
+          "Author": "meh321 and z65536",
+          "Description": "Allows to jump while sprinting. Also you can configure jump height multiplier, how many times you can jump (double jump like in action games) . No ESP!",
+          "FileID": 317398,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/77173/77173-1665868790-1170723280.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18967/18967-1533041476-1512034262.jpeg",
           "IsNSFW": false,
-          "ModID": 77173,
-          "Name": "Barter Limit Fix",
-          "Version": "1.0"
+          "ModID": 18967,
+          "Name": "Better Jumping SE",
+          "Version": "1.8.6"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "OznTXgHrHKQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=17230\nfileID=321815",
-        "Name": "(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z",
-        "Size": 291389,
+        "Hash": "4rIO3c4Kmas=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=74722\nfileID=335018",
+        "Name": "HD Local Map-74722-1-0-2-1669499939.zip",
+        "Size": 4319248,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "aers - Nukem - Ryan",
-          "Description": "skse64 plugin to fix various issues with the Skyrim Special Edition engine.",
-          "FileID": 321815,
+          "Author": "doodlum",
+          "Description": "SKSE plugin which makes local maps use the full screen resolution. Compatible with SE and AE.",
+          "FileID": 335018,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17230/17230-1526195370-298143229.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/74722/74722-1662405497-251485248.png",
           "IsNSFW": false,
-          "ModID": 17230,
-          "Name": "SSE Engine Fixes (skse64 plugin)",
-          "Version": "6.1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "HAt3TVGpK2g=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=91285\nfileID=391641",
-        "Name": "Grass Sampler Fix-91285-1-0-1-1684975377.zip",
-        "Size": 4415790,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "doodlez",
-          "Description": "SKSE plugin which makes grass fields look sharper and more lush. Also improves Skyrim Upscaler.",
-          "FileID": 391641,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/91285/91285-1684009509-232377694.png",
-          "IsNSFW": false,
-          "ModID": 91285,
-          "Name": "Grass Sampler Fix",
-          "Version": "1.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6kutT698JRA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=41764\nfileID=323291",
-        "Name": "Simple Offence Suppression-41764-2-2-1-1665496323.7z",
-        "Size": 4066253,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "powerofthree",
-          "Description": "SKSE plugin that prevents neutral NPCs from turning hostile when you accidentally hit them.",
-          "FileID": 323291,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/41764/41764-1603758770-490429309.png",
-          "IsNSFW": false,
-          "ModID": 41764,
-          "Name": "Simple Offence Suppression",
-          "Version": "2.2.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "g/zdMNMfeEE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=95145\nfileID=404165",
-        "Name": "Water Blending-95145-1-0-1688600076.zip",
-        "Size": 768,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "doodlez",
-          "Description": "Community Shaders feature which blends water and the terrain together, including a fix for reflections.",
-          "FileID": 404165,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/95145/95145-1688599419-1574708527.png",
-          "IsNSFW": false,
-          "ModID": 95145,
-          "Name": "Water Blending",
-          "Version": "1.0"
+          "ModID": 74722,
+          "Name": "HD Local Map",
+          "Version": "1.0.2"
         }
       }
     },
@@ -2834,21 +2729,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Opq7OWehR4w=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=81286\nfileID=411421",
-        "Name": "Scrambled Bugs DBF Configuration-81286-1-0-1690538178.7z",
-        "Size": 2017,
+        "Hash": "8dgYrcDk75A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=81286\nfileID=441788",
+        "Name": "PO3 Tweaks DBF Configuration-81286-1-0-1699722651.7z",
+        "Size": 2317,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "VishVadeva",
           "Description": "Files needed while following A Dragonborn\u0027s Fate.",
-          "FileID": 411421,
+          "FileID": 441788,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/81286/81286-1691769064-1138051893.png",
           "IsNSFW": false,
           "ModID": 81286,
           "Name": "A Dragonborn\u0027s Fate Resources",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wuEWfBaypvs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43532\nfileID=368379",
+        "Name": "Script Effect Archetype Crash Fix-43532-1-1678779345.7z",
+        "Size": 2289689,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Magicockerel",
+          "Description": "A collection of engine bug fixes and patches.",
+          "FileID": 368379,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43532/43532-1631663358-1008600046.jpeg",
+          "IsNSFW": false,
+          "ModID": 43532,
+          "Name": "Scrambled Bugs",
+          "Version": "21"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Wb7eBY4d4H8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=22825\nfileID=112006",
+        "Name": "Opt. 3 - Larger MCM Menu for SkyUI-22825-1-2-1572528248.zip",
+        "Size": 59555,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "uranreactor",
+          "Description": "This mod improves your MCM configuring expirience.",
+          "FileID": 112006,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22825/22825-1562001616-1439084220.jpeg",
+          "IsNSFW": false,
+          "ModID": 22825,
+          "Name": "Wider MCM Menu for SkyUI",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3T9Jo/xDXlM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43532\nfileID=368380",
+        "Name": "Vendor Respawn Fix-43532-1-1678779507.7z",
+        "Size": 2315018,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Magicockerel",
+          "Description": "A collection of engine bug fixes and patches.",
+          "FileID": 368380,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43532/43532-1631663358-1008600046.jpeg",
+          "IsNSFW": false,
+          "ModID": 43532,
+          "Name": "Scrambled Bugs",
+          "Version": "21"
         }
       }
     },
@@ -2981,42 +2939,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "eTCrxep8/Fk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=71567\nfileID=322907",
-        "Name": "Sound Fix for Large Sector Drives-71567-4-1665362859.7z",
-        "Size": 5167,
+        "Hash": "IuGPToNilbU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=42839\nfileID=321588",
+        "Name": "Equip Enchantment Fix for 1.6.629 and newer-42839-1-3-6-1664893446.zip",
+        "Size": 207587,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ian Patterson",
-          "Description": "Skyrim\u0027s engine has a bug that causes audio to not play most of the time when the game is installed to a drive with a sector size other than 512 (usually referred to as Advanced Format). This is an SKSE plugin that fixes the bug. Compatible with all versions of SE/AE.",
-          "FileID": 322907,
+          "Author": "SlavicPotato",
+          "Description": "Fixes engine bugs where item enchantments don\u0027t apply when equipped or stop working while the item is still equipped. SKSE64 plugin.",
+          "FileID": 321588,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/71567/71567-1658081909-218386064.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/42839/42839-1606550112-1092714395.png",
           "IsNSFW": false,
-          "ModID": 71567,
-          "Name": "Sound Fix for Large Sector Drives",
-          "Version": "4"
+          "ModID": 42839,
+          "Name": "Equip Enchantment Fix",
+          "Version": "1.3.6"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Eq2Cq6sNPdw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=69326\nfileID=324089",
-        "Name": "NPC AI Process Position Fix - NG-69326-1-1-1-1665790814.zip",
-        "Size": 5497524,
+        "Hash": "9oCt+thQ5NU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=59435\nfileID=344198",
+        "Name": "Improvement Names Customized AE-59435-1-5-0-1672234689.7z",
+        "Size": 281066,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "doodlum",
-          "Description": "Updated NPC AI Process Position Fix adding support for SE, AE, and VR in one DLL.",
-          "FileID": 324089,
+          "Author": "colinswrath and Fudgyduff",
+          "Description": "Replace vanilla customization strings with your own custom strings. Its the same as the older version, just updated for Skyrim Special Edition 1.6.X\u002B (AE) compatibility.",
+          "FileID": 344198,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69326/69326-1654692591-651616921.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/59435/59435-1638479976-489649964.jpeg",
           "IsNSFW": false,
-          "ModID": 69326,
-          "Name": "NPC AI Process Position Fix  - NG",
-          "Version": "1.1.1"
+          "ModID": 59435,
+          "Name": "Improvement Names Customized AE",
+          "Version": "1.5.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "i0JC2J0Vgm0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=76867\nfileID=326984",
+        "Name": "Recursion Fix-76867-1-2-1666911818.rar",
+        "Size": 330414,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nightfallstorm",
+          "Description": "Detects broken papyrus scripts stuck in recursion and prevents huge framerate lag",
+          "FileID": 326984,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/76867/76867-1666672330-1760598085.png",
+          "IsNSFW": false,
+          "ModID": 76867,
+          "Name": "Recursion Monitor",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UuiF5Lueykw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32561\nfileID=318422",
+        "Name": "FixNotesForSkyUI Skyrim AE-32561-1-2-6-1663815583.zip",
+        "Size": 135060,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "0xC0000005",
+          "Description": "A SKSE64 plugin that fixes the Letter/Note icon and type for SkyUI.",
+          "FileID": 318422,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32561/32561-1581395290-1148314672.png",
+          "IsNSFW": false,
+          "ModID": 32561,
+          "Name": "Fix Note icon for SkyUI (SKSE64 plugin)",
+          "Version": "1.2.6"
         }
       }
     },
@@ -3086,42 +3086,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dTJPH+QYFg0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=83581\nfileID=363399",
-        "Name": "Bash Bug Fix-83581-3-0-0-1677373489.zip",
-        "Size": 15458991,
+        "Hash": "d1JaPcjXm+M=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=77779\nfileID=362491",
+        "Name": "INI file for reference-77779-4-1-0-1677126223.rar",
+        "Size": 7854,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "digitalApple",
-          "Description": "This mod attempts to fix the infamous bash bug, where a bash attack causes the current weapon\u0027s damage.",
-          "FileID": 363399,
+          "Author": "Nightfallstorm",
+          "Description": "Collection of fixes, tweaks and performance improvements for Skyrim\u0027s script engine. 100% configurable. Install/Uninstall anytime.",
+          "FileID": 362491,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/83581/83581-1674811168-1391649339.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/77779/77779-1667845399-964914238.png",
           "IsNSFW": false,
-          "ModID": 83581,
-          "Name": "Bash Bug Fix",
-          "Version": "3.0.0"
+          "ModID": 77779,
+          "Name": "Papyrus Tweaks NG",
+          "Version": "4.1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KN1VVPEJbW0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=36869\nfileID=429461",
-        "Name": "Spell Perk Item Distributor-36869-6-6-2-1695858910.7z",
-        "Size": 5570042,
+        "Hash": "N/ZXVmEy7mI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=26838\nfileID=326266",
+        "Name": "Remember Lockpick Angle-26838-4-2-1666611500.7z",
+        "Size": 155936,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "powerofthree-sasnikol",
-          "Description": "SKSE plugin that can be used to add spells/perks/items/shouts/packages/outfits/keywords/factions to every NPC in the game, using config files.",
-          "FileID": 429461,
+          "Author": "OnlyIWeDo",
+          "Description": "After breaking a lock-pick, the new lock-pick is placed at the same angle where the last one broke.",
+          "FileID": 326266,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/36869/36869-1591389125-628593205.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/26838/26838-1561167376-1388362864.gif",
           "IsNSFW": false,
-          "ModID": 36869,
-          "Name": "Spell Perk Item Distributor (SPID)",
-          "Version": "6.6.2"
+          "ModID": 26838,
+          "Name": "Remember Lockpick Angle - Updated",
+          "Version": "4.2"
         }
       }
     },
@@ -3170,15 +3170,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "u1KB2B/gwtM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=21423\nfileID=73170",
-        "Name": "NSM - SMIM Patch-21423-5-5-0-1543033398.7z",
-        "Size": 140311636,
+        "Hash": "6GPQDpRUbdA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=21423\nfileID=73168",
+        "Name": "A. Noble Skyrim - FULL PACK_2K-21423-5-5-0-1543032385.7z",
+        "Size": 2548679962,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Shutt3r",
           "Description": "The aim of this mod is to give all of Skyrim\u0027s architecture a complete new look by changing its textures to custom ones. Beside the architecture, several other things, such as landscape, dungeons (ruins, mines, caves etc.), clutter stuff etc. have been re-textured as well, to match the rest of the mod.  Try it out !",
-          "FileID": 73170,
+          "FileID": 73168,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21423/94829-1543030207-357111888.jpeg",
           "IsNSFW": false,
@@ -3191,15 +3191,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6GPQDpRUbdA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=21423\nfileID=73168",
-        "Name": "A. Noble Skyrim - FULL PACK_2K-21423-5-5-0-1543032385.7z",
-        "Size": 2548679962,
+        "Hash": "u1KB2B/gwtM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=21423\nfileID=73170",
+        "Name": "NSM - SMIM Patch-21423-5-5-0-1543033398.7z",
+        "Size": 140311636,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Shutt3r",
           "Description": "The aim of this mod is to give all of Skyrim\u0027s architecture a complete new look by changing its textures to custom ones. Beside the architecture, several other things, such as landscape, dungeons (ruins, mines, caves etc.), clutter stuff etc. have been re-textured as well, to match the rest of the mod.  Try it out !",
-          "FileID": 73168,
+          "FileID": 73170,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/21423/94829-1543030207-357111888.jpeg",
           "IsNSFW": false,
