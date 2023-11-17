@@ -1,10 +1,11 @@
 ## Validation Report - Vagabond (WakingDreams/vagabond)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4585)
+### Valid (4584)
 *  [_Fuse00_ArmorAemond_V1.1.rar](https://www.patreon.com/file?h=78472619&i=13158944)
 *  [_Fuse00_ArmorHighlander_CBBE.rar](https://www.patreon.com/file?h=79874952&i=13365775)
 *  [_Fuse00_ArmorHighlander_VanillaMale.rar](https://www.patreon.com/file?h=79874952&i=13365782)
@@ -3509,7 +3510,6 @@
 *  [SC Horses - Wild Horses CC Patch-68588-2-0-1669451370.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68588/?tab=files&file_id=334822)
 *  [SC Horses Mane Fix-68588-1-0-1-1669451309.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68588/?tab=files&file_id=334821)
 *  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
-*  [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
 *  [Scaffolding Over Sovngarde - High Poly-97909-1-2-1691669896.rar](https://www.nexusmods.com/skyrimspecialedition/mods/97909/?tab=files&file_id=415755)
 *  [ScaleformTranslationPP-77359-1-6-1666209863.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77359/?tab=files&file_id=325251)
 *  [SCAR - Skyrim Combos AI Revolution-72014-v1-06b-1674447816.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72014/?tab=files&file_id=352198)
