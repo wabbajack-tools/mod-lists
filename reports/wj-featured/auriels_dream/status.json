@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/auriels_dream",
   "Name": "Auriels Dream",
-  "Version": "12.0.1",
-  "ModListHash": "WAeOg7ZFPlQ=",
+  "Version": "12.0.2",
+  "ModListHash": "mMJlesCHF94=",
   "Archives": [
     {
       "Status": "Valid",
@@ -748,6 +748,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "JcpeF7zIcj4=",
+        "Meta": "[General]\ngameName=skyrim\nmodID=111991\nfileID=1000368562",
+        "Name": "DynDOLOD 3.00-68518-Alpha-156-1699465297.7z",
+        "Size": 29041988,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sheson",
+          "Description": "Dynamic Distant Objects LOD (DynDOLOD) is the advanced and easier version of xLODGen to generate a comprehensive LOD mod for the entire load order for drastically enhanced and better matching tree LOD and object LOD plus optional dynamic LOD, glow LOD, grass LOD, occlusion data and terrain underside in a few simple steps",
+          "FileID": 1000368562,
+          "GameName": "Skyrim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/110/images/111991/111991-1653300346-888103608.jpeg",
+          "IsNSFW": false,
+          "ModID": 111991,
+          "Name": "DynDOLOD 3 Alpha",
+          "Version": "Alpha-155"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "JpYh6Gk7Bl0=",
         "Meta": "[General]\ndirectURL=https://github.com/loot/loot/releases/download/0.16.1/loot_0.16.1-0-g18e28e9_0.16.1.7z",
         "Name": "loot_0.16.1-0-g18e28e9_0.16.1.7z",
@@ -756,6 +777,27 @@
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
           "Url": "https://github.com/loot/loot/releases/download/0.16.1/loot_0.16.1-0-g18e28e9_0.16.1.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rY5QRw8OO8s=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=5804\nfileID=13556",
+        "Name": "A Quality World Map - Clear Map Skies-5804-9-0-1CMS.zip",
+        "Size": 2477434,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "IcePenguin",
+          "Description": "Provides a new set of highly-detailed 3D or paper world map textures, complete with roads! Also adds a detailed Solsteim map.",
+          "FileID": 13556,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/5804-1-1481088259.jpg",
+          "IsNSFW": false,
+          "ModID": 5804,
+          "Name": "A Quality World Map",
+          "Version": "9.0.1"
         }
       }
     },
@@ -867,21 +909,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "UR/j6E5/Q1s=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=24486\nfileID=376035",
-        "Name": "Tactsuit SkyrimVR-24486-2-1-0-1680883260.rar",
-        "Size": 3466194,
+        "Hash": "j1YuHyPxZ7w=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=10917\nfileID=378830",
+        "Name": "Beyond Skyrim - Assets 1.6.3-10917-1-6-3-1681654070.7z",
+        "Size": 662630704,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Shizof",
-          "Description": "SKSE plugin to integrate bHaptics Tactsuit with SkyrimVR. Many different haptic effects on Vest, Arms and Face including feedback from enemy melee, magic, ranged, shout hits, player melee attack, spell casting, shouting, word of power and dragon soul absorption, rain, swimming, heartbeat, healing effects. \n\nFeel Skyrim VR with bHaptics Tactsuit",
-          "FileID": 376035,
+          "Author": "The Beyond Skyrim - Cyrodiil Development Team",
+          "Description": "Travel beyond the borders of Skyrim and explore Bruma, the northernmost county in Cyrodiil. Delve into Ayleid ruins, meddle in local affairs or explore the wilds - the journey begins now.",
+          "FileID": 378830,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/24486/24486-1553598051-737587285.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/84946-0-1498689983.jpg",
           "IsNSFW": false,
-          "ModID": 24486,
-          "Name": "bHaptics Tactsuit - SkyrimVR Integration",
-          "Version": "2.1.0"
+          "ModID": 10917,
+          "Name": "Beyond Skyrim - Bruma SE",
+          "Version": "1.6.3"
         }
       }
     },
@@ -909,144 +951,144 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "naxwRk67rnA=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_GERMAN.STRINGS",
-        "Name": "Data_Strings_Dawnguard_GERMAN.STRINGS",
-        "Size": 111259,
+        "Hash": "hZlGkCX6skk=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_GERMAN.ILSTRINGS",
+        "Name": "Data_Strings_Dawnguard_GERMAN.ILSTRINGS",
+        "Size": 347705,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dawnguard_GERMAN.STRINGS",
+          "GameFile": "Data\\Strings\\Dawnguard_GERMAN.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "naxwRk67rnA="
+          "Hash": "hZlGkCX6skk="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "fQdTd5EuUQo=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_SPANISH.STRINGS",
-        "Name": "Data_Strings_Dawnguard_SPANISH.STRINGS",
-        "Size": 112385,
+        "Hash": "feTKd/wRPxM=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_SPANISH.ILSTRINGS",
+        "Name": "Data_Strings_Dawnguard_SPANISH.ILSTRINGS",
+        "Size": 313302,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dawnguard_SPANISH.STRINGS",
+          "GameFile": "Data\\Strings\\Dawnguard_SPANISH.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "fQdTd5EuUQo="
+          "Hash": "feTKd/wRPxM="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "1ih0xtmw734=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_ITALIAN.STRINGS",
-        "Name": "Data_Strings_Dragonborn_ITALIAN.STRINGS",
-        "Size": 163602,
+        "Hash": "QgUj5kX3hOk=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_ITALIAN.ILSTRINGS",
+        "Name": "Data_Strings_Dragonborn_ITALIAN.ILSTRINGS",
+        "Size": 382999,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dragonborn_ITALIAN.STRINGS",
+          "GameFile": "Data\\Strings\\Dragonborn_ITALIAN.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "1ih0xtmw734="
+          "Hash": "QgUj5kX3hOk="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "RSiwymqojXg=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_ENGLISH.STRINGS",
-        "Name": "Data_Strings_HearthFires_ENGLISH.STRINGS",
-        "Size": 34768,
+        "Hash": "1oHRxyEIY0M=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_ENGLISH.ILSTRINGS",
+        "Name": "Data_Strings_HearthFires_ENGLISH.ILSTRINGS",
+        "Size": 47550,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\HearthFires_ENGLISH.STRINGS",
+          "GameFile": "Data\\Strings\\HearthFires_ENGLISH.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "RSiwymqojXg="
+          "Hash": "1oHRxyEIY0M="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XM8EnaHPbpM=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_Polish.STRINGS",
-        "Name": "Data_Strings_HearthFires_Polish.STRINGS",
-        "Size": 37821,
+        "Hash": "o+0x7Rt+L8U=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_Polish.ILSTRINGS",
+        "Name": "Data_Strings_HearthFires_Polish.ILSTRINGS",
+        "Size": 50726,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\HearthFires_Polish.STRINGS",
+          "GameFile": "Data\\Strings\\HearthFires_Polish.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "XM8EnaHPbpM="
+          "Hash": "o+0x7Rt+L8U="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0bbhgmeEvaM=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_FRENCH.STRINGS",
-        "Name": "Data_Strings_Skyrim_FRENCH.STRINGS",
-        "Size": 929862,
+        "Hash": "P61qmcu2fKc=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_FRENCH.ILSTRINGS",
+        "Name": "Data_Strings_Skyrim_FRENCH.ILSTRINGS",
+        "Size": 3085000,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Skyrim_FRENCH.STRINGS",
+          "GameFile": "Data\\Strings\\Skyrim_FRENCH.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "0bbhgmeEvaM="
+          "Hash": "P61qmcu2fKc="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "MBLFNfzIL8U=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_Russian.STRINGS",
-        "Name": "Data_Strings_Skyrim_Russian.STRINGS",
-        "Size": 1297313,
+        "Hash": "bK0B4aIpZOQ=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_Russian.ILSTRINGS",
+        "Name": "Data_Strings_Skyrim_Russian.ILSTRINGS",
+        "Size": 4250834,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Skyrim_Russian.STRINGS",
+          "GameFile": "Data\\Strings\\Skyrim_Russian.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "MBLFNfzIL8U="
+          "Hash": "bK0B4aIpZOQ="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qlqA/y0mXfQ=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_GERMAN.STRINGS",
-        "Name": "Data_Strings_Update_GERMAN.STRINGS",
-        "Size": 25852,
+        "Hash": "5LkhM3gnNCc=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_GERMAN.ILSTRINGS",
+        "Name": "Data_Strings_Update_GERMAN.ILSTRINGS",
+        "Size": 15068,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Update_GERMAN.STRINGS",
+          "GameFile": "Data\\Strings\\Update_GERMAN.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "qlqA/y0mXfQ="
+          "Hash": "5LkhM3gnNCc="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "e3yNvdr5/tI=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_SPANISH.STRINGS",
-        "Name": "Data_Strings_Update_SPANISH.STRINGS",
-        "Size": 25305,
+        "Hash": "/Z00DrOOhms=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_SPANISH.ILSTRINGS",
+        "Name": "Data_Strings_Update_SPANISH.ILSTRINGS",
+        "Size": 13775,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Update_SPANISH.STRINGS",
+          "GameFile": "Data\\Strings\\Update_SPANISH.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "e3yNvdr5/tI="
+          "Hash": "/Z00DrOOhms="
         }
       }
     },
@@ -1116,21 +1158,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qyIFCTKyN84=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=14060\nfileID=41641",
-        "Name": "Dragon Stalking Fix-14060-1-3.7z",
-        "Size": 1412231,
+        "Hash": "eHUpSNFZaiM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=932\nfileID=4073",
+        "Name": "Dragon Remains-932-2.7z",
+        "Size": 5970,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "sevencardz",
-          "Description": "Dragon corpses will no longer follow you or fall out of the sky.",
-          "FileID": 41641,
+          "Author": "Strazytski",
+          "Description": "Prevents the dragons experiencing evaporation upon soul theft, Dragons will not become bones anymore and skin remain intact.",
+          "FileID": 4073,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54274-1-1400808766.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/932-0-1477663486.jpg",
           "IsNSFW": false,
-          "ModID": 14060,
-          "Name": "Dragon Stalking Fix",
-          "Version": "1.3"
+          "ModID": 932,
+          "Name": "Dragon Remains SSE",
+          "Version": "2"
         }
       }
     },
@@ -1158,20 +1200,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wE32N0Cwhfo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=32707\nfileID=124283",
-        "Name": "ElSopa - HD Keys 1K-32707-1-0-1581878692.7z",
-        "Size": 3021853,
+        "Hash": "m/ASxfE5kG4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=48209\nfileID=196463",
+        "Name": "ElSopa - HD Keys Redone 2k-48209-1-0-1617725975.7z",
+        "Size": 18241495,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ElSopa",
-          "Description": "No More Blurry Keys.",
-          "FileID": 124283,
+          "Description": "New High Quality Models And Textures For The Keys. All Resolutions. No ESP",
+          "FileID": 196463,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32707/32707-1581878311-860694777.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/48209/107278-1617725210-668699901.png",
           "IsNSFW": false,
-          "ModID": 32707,
-          "Name": "ElSopa - HD Keys SE",
+          "ModID": 48209,
+          "Name": "ElSopa - HD Keys Redone SE",
           "Version": "1.0"
         }
       }
@@ -1200,63 +1242,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Uj6b6Yky3Ok=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=1897\nfileID=2179",
-        "Name": "Skyrim SE 3D Sound (X3DAudio HRTF)-1897-1-0.zip",
-        "Size": 547690,
+        "Hash": "KXnnR9wubc8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=55779\nfileID=238588",
+        "Name": "Ethereal Tools-55779-0-9077b-1635852345.7z",
+        "Size": 180378,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kosumosu",
-          "Description": "This enables 3D sound positioning in-game. You\u0027ll hear exactly from which direction a sound is coming from.",
-          "FileID": 2179,
+          "Author": "Cecell",
+          "Description": "Ethereal Tools is a mod designed to record a wide variety of player data and then restore this data on a character (doesn\u2019t have to be a different character!)  Because the mod was designed by the author for the author it has included a cloud deposit system to allow the player to deposit items from any location.",
+          "FileID": 238588,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1897-0-1477930338.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55779/55779-1633527917-873856029.png",
           "IsNSFW": false,
-          "ModID": 1897,
-          "Name": "True 3D Sound for Headphones",
-          "Version": "1.0"
+          "ModID": 55779,
+          "Name": "Ethereal Tools Backup-Restore-Cloud Deposit",
+          "Version": "0.9077b"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zY0voltnV8Y=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=34006\nfileID=275554",
-        "Name": "EVG Conditional Idles-34006-1-42-1649384249.zip",
-        "Size": 4854825,
+        "Hash": "v5jgvs4DTyQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=19454\nfileID=104526",
+        "Name": "Falskaar - Addons and Patches 1.6-19454-1-6-1566919395.rar",
+        "Size": 345080,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Everglaid",
-          "Description": "Handmade animations that only play in specific conditions. Unintrusive, no gameplay changes.",
-          "FileID": 275554,
+          "Author": "mnikjom",
+          "Description": "A collection of tweaks, enhancements and patches for Falskaar.",
+          "FileID": 104526,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34006/34006-1585220655-920962131.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19454/19454-1534951632-2143199630.png",
           "IsNSFW": false,
-          "ModID": 34006,
-          "Name": "EVG Conditional Idles",
-          "Version": "1.42"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "GIn/vYd3LWA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=13186\nfileID=37491",
-        "Name": "Flora Respawn Fix SSE - 2.1.3.zip-13186-2-1-3.zip",
-        "Size": 13004,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "bluedanieru",
-          "Description": "Fixes broken respawning for flora (and fauna).",
-          "FileID": 37491,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/13186/13186-1509236019-1257576432.jpeg",
-          "IsNSFW": false,
-          "ModID": 13186,
-          "Name": "Flora Respawn Fix",
-          "Version": "2.1.3"
+          "ModID": 19454,
+          "Name": "Falskaar - Addons and Patches",
+          "Version": "1.6"
         }
       }
     },
@@ -1326,21 +1347,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BMwQhv48ALY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=43930\nfileID=374193",
-        "Name": "HIGGS 1.6.1-43930-1-6-1-1680396533.zip",
-        "Size": 6200250,
+        "Hash": "1pBwTVbS9CE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=35627\nfileID=138987",
+        "Name": "High Res VR Map Markers - Standard-35627-1-1-1589051239.7z",
+        "Size": 1273922,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "FlyingParticle",
-          "Description": "Hand/weapon collision, weapon two-handing, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR",
-          "FileID": 374193,
+          "Author": "vampiredirt",
+          "Description": "Replaces the low-res VR map markers with hi-res ones.",
+          "FileID": 138987,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43930/43930-1609640985-1855858433.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35627/35627-1588873616-1026739663.jpeg",
           "IsNSFW": false,
-          "ModID": 43930,
-          "Name": "HIGGS - Enhanced VR Interaction",
-          "Version": "1.7.1"
+          "ModID": 35627,
+          "Name": "Hi-Res VR Map Markers",
+          "Version": "1.0"
         }
       }
     },
@@ -1362,27 +1383,6 @@
           "ModID": 72298,
           "Name": "Immersive Smithing",
           "Version": "1.0.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "mbVz8aBWJRk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=17609\nfileID=55864",
-        "Name": "Improved Shadowmarks (512)-17609-2-0.7z",
-        "Size": 2071058,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kryptopyr",
-          "Description": "This mod improves the placement and appearance of the Thieves Guild shadowmarks and adds dynamic shadowmarks to player homes and other quest-related locations.",
-          "FileID": 55864,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17609/17609-1529769826-867542090.jpeg",
-          "IsNSFW": false,
-          "ModID": 17609,
-          "Name": "Improved Shadowmarks",
-          "Version": "2.0"
         }
       }
     },
@@ -1615,15 +1615,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "YiPGlEYlZ/A=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=13048\nfileID=75826",
-        "Name": "PapyrusUtil VR - Scripting Utility Functions-13048-3-6b-1545409528.zip",
-        "Size": 562532,
+        "Hash": "nWETHr9TRro=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=13048\nfileID=122686",
+        "Name": "PapyrusUtil SE - Scripting Utility Functions-13048-3-9-1580810594.zip",
+        "Size": 563031,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "exiledviper meh321",
           "Description": "An SKSE plugin adding several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.",
-          "FileID": 75826,
+          "FileID": 122686,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/13048/13048-1512389090-2109546993.png",
           "IsNSFW": false,
@@ -1832,42 +1832,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "3oRDF/MsO4g=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=34014\nfileID=130604",
-        "Name": "StaffXpSSE-34014-1-0-1585240595.7z",
-        "Size": 21956,
+        "Hash": "wAj4B/rra1M=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=47630\nfileID=442046",
+        "Name": "Spell Wheel VR-47630-1-4-7-1699802220.rar",
+        "Size": 34043382,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "funkydiscogod",
-          "Description": "Staffs give Experience now, Perk Points also affect Staffs and many more.\n\nPort of the Oldrim Staff Mod - Overhaulish, for Special Edition.",
-          "FileID": 130604,
+          "Author": "Shizof",
+          "Description": "Selection wheel mod for Skyrim VR. It allows you to select spells, weapons, shields, arrows, potions, poisons, food, torch, armors and more without going into a menu very quickly by press of a button or button combinations to spawn the wheel and hold your hand over the item and letting go of the button. It\u0027s equipped automatically.",
+          "FileID": 442046,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34014/34014-1585239661-879447839.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47630/47630-1616868475-1174791384.png",
           "IsNSFW": false,
-          "ModID": 34014,
-          "Name": "Staff Mod - Overhaulish SSE",
-          "Version": "1.0"
+          "ModID": 47630,
+          "Name": "Spell Wheel VR",
+          "Version": "1.4.6"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "V+4UKZIp05c=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=46428\nfileID=188962",
-        "Name": "Surprise Small Critters-46428-1-1-1614695729.7z",
-        "Size": 4867,
+        "Hash": "Quk6aJKWOqI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=29243\nfileID=192060",
+        "Name": "Storm Lightning for SSE and VR - Fomod Installer-29243-1-4-9-1616039576.rar",
+        "Size": 34407402,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "KeiZero",
-          "Description": "Small Critters now will Hunt your nightmares, Spider Eggs, Webbed Corpses, Chaurus Eggs, Chaurus Cocoons and Albino Spider Eggs now have a chance to spawn a bunch of Small Critters when looted or hit. ESL flagged.",
-          "FileID": 188962,
+          "Author": "Shizof",
+          "Description": "This is a remake of Minty\u0027s Lightning mod as an SKSE plugin. The purpose of this mod is stability and scalability. It can summon up to 50 sheet lightnings and 50 fork lightnings per second and up to 31 cells distance. This results in a more natural and enjoyable storm experience.",
+          "FileID": 192060,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46428/46428-1614711889-1238125779.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29243/29243-1571516238-1082461180.png",
           "IsNSFW": false,
-          "ModID": 46428,
-          "Name": "Surprise Small Critters",
-          "Version": "1.1"
+          "ModID": 29243,
+          "Name": "Storm Lightning for SSE and VR (Minty Lightning 2019)",
+          "Version": "1.4.17"
         }
       }
     },
@@ -1916,42 +1916,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "fnfd4HcCEm0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=23416\nfileID=211578",
-        "Name": "VRIK V0.8.1 Test Build 28-23416-V0-8-1-Test-Build-28-1624911793.7z",
-        "Size": 442721,
+        "Hash": "0TJPJ6wt7no=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=49205\nfileID=273783",
+        "Name": "VR Refit - Mine Chop and Drop-49205-1-0-4-1648691454.zip",
+        "Size": 37454,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "prog",
-          "Description": "VRIK will display the player character\u0027s body in SkyrimVR and animate it to match your movements.  Weapons can be kept, drawn, and sheathed in up to 14 visible holsters on your body.  An input gesture system allows users to bind actions to gestures on each hand, reducing the need to open menus.  An MCM menu allows full configuration of everything.",
-          "FileID": 211578,
+          "Author": "blunderblast",
+          "Description": "A Realistic Mining VR patch and extension.  Added quarry, clay, and stahlrim ore support. Ore drops to the ground. Added wood chopping.",
+          "FileID": 273783,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23416/23416-1550100888-1590315308.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49205/49205-1625975854-1856524379.jpeg",
           "IsNSFW": false,
-          "ModID": 23416,
-          "Name": "VRIK Player Avatar",
-          "Version": "V0.8.1-Test-Build-28"
+          "ModID": 49205,
+          "Name": "VR Refit - Mine Chop and Drop",
+          "Version": "1.0.4"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wAj4B/rra1M=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=47630\nfileID=442046",
-        "Name": "Spell Wheel VR-47630-1-4-7-1699802220.rar",
-        "Size": 34043382,
+        "Hash": "755gLZEHY/s=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=18664\nfileID=100995",
+        "Name": "Wards Functionalities Extended V1.1.2-18664-1-1-2-1564331864.7z",
+        "Size": 178064,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Shizof",
-          "Description": "Selection wheel mod for Skyrim VR. It allows you to select spells, weapons, shields, arrows, potions, poisons, food, torch, armors and more without going into a menu very quickly by press of a button or button combinations to spawn the wheel and hold your hand over the item and letting go of the button. It\u0027s equipped automatically.",
-          "FileID": 442046,
+          "Author": "Skepmanmods",
+          "Description": "A magic ward overhaul. Customize magnitude, cost, charge rate and absorption rate. Block melee weapons with your ward. Break your enemy\u0027s ward with your weapons. Protect yourself from arrows. Make shouts pass through wards. Play with new expert and master level wards.",
+          "FileID": 100995,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47630/47630-1616868475-1174791384.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18664/18664-1531941378-1864613871.png",
           "IsNSFW": false,
-          "ModID": 47630,
-          "Name": "Spell Wheel VR",
-          "Version": "1.4.6"
+          "ModID": 18664,
+          "Name": "Wards Functionalities Extended",
+          "Version": "1.1.2"
         }
       }
     },
@@ -2036,27 +2036,6 @@
           "ModID": 45565,
           "Name": "Wyrmstooth",
           "Version": "1.20"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4V3dbkWFFIY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=46511\nfileID=196997",
-        "Name": "Wyrmstooth VR Patch-46511-1-02-1617930480.7z",
-        "Size": 179973,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TheRetroCarrot",
-          "Description": "This is a complete overhaul of the one quest scene that didn\u0027t work in VR.",
-          "FileID": 196997,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46511/46511-1614817148-2010502305.jpeg",
-          "IsNSFW": false,
-          "ModID": 46511,
-          "Name": "Wyrmstooth VR Patch",
-          "Version": "1.2"
         }
       }
     },
@@ -2183,27 +2162,6 @@
           "ModID": 30055,
           "Name": "Basic Dining Set Replacer",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "j1YuHyPxZ7w=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=10917\nfileID=378830",
-        "Name": "Beyond Skyrim - Assets 1.6.3-10917-1-6-3-1681654070.7z",
-        "Size": 662630704,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "The Beyond Skyrim - Cyrodiil Development Team",
-          "Description": "Travel beyond the borders of Skyrim and explore Bruma, the northernmost county in Cyrodiil. Delve into Ayleid ruins, meddle in local affairs or explore the wilds - the journey begins now.",
-          "FileID": 378830,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/84946-0-1498689983.jpg",
-          "IsNSFW": false,
-          "ModID": 10917,
-          "Name": "Beyond Skyrim - Bruma SE",
-          "Version": "1.6.3"
         }
       }
     },
@@ -2645,27 +2603,6 @@
           "ModID": 2393,
           "Name": "ETHEREAL CLOUDS - Special Edition",
           "Version": "3.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "KXnnR9wubc8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=55779\nfileID=238588",
-        "Name": "Ethereal Tools-55779-0-9077b-1635852345.7z",
-        "Size": 180378,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Cecell",
-          "Description": "Ethereal Tools is a mod designed to record a wide variety of player data and then restore this data on a character (doesn\u2019t have to be a different character!)  Because the mod was designed by the author for the author it has included a cloud deposit system to allow the player to deposit items from any location.",
-          "FileID": 238588,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/55779/55779-1633527917-873856029.png",
-          "IsNSFW": false,
-          "ModID": 55779,
-          "Name": "Ethereal Tools Backup-Restore-Cloud Deposit",
-          "Version": "0.9077b"
         }
       }
     },
@@ -3134,27 +3071,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "nWETHr9TRro=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=13048\nfileID=122686",
-        "Name": "PapyrusUtil SE - Scripting Utility Functions-13048-3-9-1580810594.zip",
-        "Size": 563031,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "exiledviper meh321",
-          "Description": "An SKSE plugin adding several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.",
-          "FileID": 122686,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/13048/13048-1512389090-2109546993.png",
-          "IsNSFW": false,
-          "ModID": 13048,
-          "Name": "PapyrusUtil SE - Modders Scripting Utility Functions",
-          "Version": "4.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "c4GSQ0SdlqE=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=9965\nfileID=26247",
         "Name": "Pottery Recolor-The Third Set Installer-9965-1-1.7z",
@@ -3575,6 +3491,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "3oRDF/MsO4g=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=34014\nfileID=130604",
+        "Name": "StaffXpSSE-34014-1-0-1585240595.7z",
+        "Size": 21956,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "funkydiscogod",
+          "Description": "Staffs give Experience now, Perk Points also affect Staffs and many more.\n\nPort of the Oldrim Staff Mod - Overhaulish, for Special Edition.",
+          "FileID": 130604,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34014/34014-1585239661-879447839.jpeg",
+          "IsNSFW": false,
+          "ModID": 34014,
+          "Name": "Staff Mod - Overhaulish SSE",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "B024/zXAl4w=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=28701\nfileID=105303",
         "Name": "Skyrim Skill Uncapper for VR Edition v1.01-28701-1-01-1567436190.zip",
@@ -3590,27 +3527,6 @@
           "ModID": 28701,
           "Name": "Skyrim Skill Uncapper for VR Edition",
           "Version": "v1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Quk6aJKWOqI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=29243\nfileID=192060",
-        "Name": "Storm Lightning for SSE and VR - Fomod Installer-29243-1-4-9-1616039576.rar",
-        "Size": 34407402,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Shizof",
-          "Description": "This is a remake of Minty\u0027s Lightning mod as an SKSE plugin. The purpose of this mod is stability and scalability. It can summon up to 50 sheet lightnings and 50 fork lightnings per second and up to 31 cells distance. This results in a more natural and enjoyable storm experience.",
-          "FileID": 192060,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29243/29243-1571516238-1082461180.png",
-          "IsNSFW": false,
-          "ModID": 29243,
-          "Name": "Storm Lightning for SSE and VR (Minty Lightning 2019)",
-          "Version": "1.4.17"
         }
       }
     },
@@ -3785,27 +3701,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "755gLZEHY/s=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=18664\nfileID=100995",
-        "Name": "Wards Functionalities Extended V1.1.2-18664-1-1-2-1564331864.7z",
-        "Size": 178064,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Skepmanmods",
-          "Description": "A magic ward overhaul. Customize magnitude, cost, charge rate and absorption rate. Block melee weapons with your ward. Break your enemy\u0027s ward with your weapons. Protect yourself from arrows. Make shouts pass through wards. Play with new expert and master level wards.",
-          "FileID": 100995,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18664/18664-1531941378-1864613871.png",
-          "IsNSFW": false,
-          "ModID": 18664,
-          "Name": "Wards Functionalities Extended",
-          "Version": "1.1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "7iQsz0EMwbM=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=57268\nfileID=246804",
         "Name": "Water in Wells - mesh-only animated wells-57268-0-6-1638715916.7z",
@@ -3926,6 +3821,27 @@
           "ModID": 39185,
           "Name": "WiZkiD Parallax Farmhouses",
           "Version": "1.5.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4V3dbkWFFIY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=46511\nfileID=196997",
+        "Name": "Wyrmstooth VR Patch-46511-1-02-1617930480.7z",
+        "Size": 179973,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TheRetroCarrot",
+          "Description": "This is a complete overhaul of the one quest scene that didn\u0027t work in VR.",
+          "FileID": 196997,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46511/46511-1614817148-2010502305.jpeg",
+          "IsNSFW": false,
+          "ModID": 46511,
+          "Name": "Wyrmstooth VR Patch",
+          "Version": "1.2"
         }
       }
     },
@@ -4157,6 +4073,27 @@
           "ModID": 34739,
           "Name": "Better Volkihar Secret Entrance",
           "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UR/j6E5/Q1s=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=24486\nfileID=376035",
+        "Name": "Tactsuit SkyrimVR-24486-2-1-0-1680883260.rar",
+        "Size": 3466194,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Shizof",
+          "Description": "SKSE plugin to integrate bHaptics Tactsuit with SkyrimVR. Many different haptic effects on Vest, Arms and Face including feedback from enemy melee, magic, ranged, shout hits, player melee attack, spell casting, shouting, word of power and dragon soul absorption, rain, swimming, heartbeat, healing effects. \n\nFeel Skyrim VR with bHaptics Tactsuit",
+          "FileID": 376035,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/24486/24486-1553598051-737587285.jpeg",
+          "IsNSFW": false,
+          "ModID": 24486,
+          "Name": "bHaptics Tactsuit - SkyrimVR Integration",
+          "Version": "2.1.0"
         }
       }
     },
@@ -5291,6 +5228,27 @@
           "ModID": 46864,
           "Name": "Iconic\u0027s Ysgramor Shield Retexture",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mbVz8aBWJRk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=17609\nfileID=55864",
+        "Name": "Improved Shadowmarks (512)-17609-2-0.7z",
+        "Size": 2071058,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kryptopyr",
+          "Description": "This mod improves the placement and appearance of the Thieves Guild shadowmarks and adds dynamic shadowmarks to player homes and other quest-related locations.",
+          "FileID": 55864,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/17609/17609-1529769826-867542090.jpeg",
+          "IsNSFW": false,
+          "ModID": 17609,
+          "Name": "Improved Shadowmarks",
+          "Version": "2.0"
         }
       }
     },
@@ -8421,6 +8379,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "zY0voltnV8Y=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=34006\nfileID=275554",
+        "Name": "EVG Conditional Idles-34006-1-42-1649384249.zip",
+        "Size": 4854825,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Everglaid",
+          "Description": "Handmade animations that only play in specific conditions. Unintrusive, no gameplay changes.",
+          "FileID": 275554,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/34006/34006-1585220655-920962131.png",
+          "IsNSFW": false,
+          "ModID": 34006,
+          "Name": "EVG Conditional Idles",
+          "Version": "1.42"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "dghWDElmct8=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=62849\nfileID=277479",
         "Name": "Immersive folded hands (DAR) - Main download-62849-1-2-0-1650110048.zip",
@@ -8604,6 +8583,27 @@
           "ModID": 17715,
           "Name": "Don\u0027t Talk With Your Mouth Full",
           "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qyIFCTKyN84=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=14060\nfileID=41641",
+        "Name": "Dragon Stalking Fix-14060-1-3.7z",
+        "Size": 1412231,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "sevencardz",
+          "Description": "Dragon corpses will no longer follow you or fall out of the sky.",
+          "FileID": 41641,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54274-1-1400808766.jpg",
+          "IsNSFW": false,
+          "ModID": 14060,
+          "Name": "Dragon Stalking Fix",
+          "Version": "1.3"
         }
       }
     },
@@ -8946,190 +8946,164 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "lOwnL9fPngE=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_ITALIAN.DLSTRINGS",
-        "Name": "Data_Strings_Dawnguard_ITALIAN.DLSTRINGS",
-        "Size": 123710,
+        "Hash": "naxwRk67rnA=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_GERMAN.STRINGS",
+        "Name": "Data_Strings_Dawnguard_GERMAN.STRINGS",
+        "Size": 111259,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dawnguard_ITALIAN.DLSTRINGS",
+          "GameFile": "Data\\Strings\\Dawnguard_GERMAN.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "lOwnL9fPngE="
+          "Hash": "naxwRk67rnA="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "h8NghsMYgiQ=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_ENGLISH.DLSTRINGS",
-        "Name": "Data_Strings_Dragonborn_ENGLISH.DLSTRINGS",
-        "Size": 314844,
+        "Hash": "fQdTd5EuUQo=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_SPANISH.STRINGS",
+        "Name": "Data_Strings_Dawnguard_SPANISH.STRINGS",
+        "Size": 112385,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dragonborn_ENGLISH.DLSTRINGS",
+          "GameFile": "Data\\Strings\\Dawnguard_SPANISH.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "h8NghsMYgiQ="
+          "Hash": "fQdTd5EuUQo="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0QUaV9vlIzo=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\dragonborn_polish.dlstrings",
-        "Name": "Data_Strings_dragonborn_polish.dlstrings",
-        "Size": 326135,
+        "Hash": "1ih0xtmw734=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_ITALIAN.STRINGS",
+        "Name": "Data_Strings_Dragonborn_ITALIAN.STRINGS",
+        "Size": 163602,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\dragonborn_polish.dlstrings",
+          "GameFile": "Data\\Strings\\Dragonborn_ITALIAN.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "0QUaV9vlIzo="
+          "Hash": "1ih0xtmw734="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "K3hsIBlPeMU=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_FRENCH.DLSTRINGS",
-        "Name": "Data_Strings_HearthFires_FRENCH.DLSTRINGS",
-        "Size": 23393,
+        "Hash": "RSiwymqojXg=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_ENGLISH.STRINGS",
+        "Name": "Data_Strings_HearthFires_ENGLISH.STRINGS",
+        "Size": 34768,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\HearthFires_FRENCH.DLSTRINGS",
+          "GameFile": "Data\\Strings\\HearthFires_ENGLISH.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "K3hsIBlPeMU="
+          "Hash": "RSiwymqojXg="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "jI5245SGmiQ=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Hearthfires_Russian.DLSTRINGS",
-        "Name": "Data_Strings_Hearthfires_Russian.DLSTRINGS",
-        "Size": 36454,
+        "Hash": "XM8EnaHPbpM=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_Polish.STRINGS",
+        "Name": "Data_Strings_HearthFires_Polish.STRINGS",
+        "Size": 37821,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Hearthfires_Russian.DLSTRINGS",
+          "GameFile": "Data\\Strings\\HearthFires_Polish.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "jI5245SGmiQ="
+          "Hash": "XM8EnaHPbpM="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "IS8tvTB7Vuw=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_GERMAN.DLSTRINGS",
-        "Name": "Data_Strings_Skyrim_GERMAN.DLSTRINGS",
-        "Size": 2850417,
+        "Hash": "0bbhgmeEvaM=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_FRENCH.STRINGS",
+        "Name": "Data_Strings_Skyrim_FRENCH.STRINGS",
+        "Size": 929862,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Skyrim_GERMAN.DLSTRINGS",
+          "GameFile": "Data\\Strings\\Skyrim_FRENCH.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "IS8tvTB7Vuw="
+          "Hash": "0bbhgmeEvaM="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+dnfMZt5JQA=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_SPANISH.DLSTRINGS",
-        "Name": "Data_Strings_Skyrim_SPANISH.DLSTRINGS",
-        "Size": 2701199,
+        "Hash": "MBLFNfzIL8U=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_Russian.STRINGS",
+        "Name": "Data_Strings_Skyrim_Russian.STRINGS",
+        "Size": 1297313,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Skyrim_SPANISH.DLSTRINGS",
+          "GameFile": "Data\\Strings\\Skyrim_Russian.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "+dnfMZt5JQA="
+          "Hash": "MBLFNfzIL8U="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6686Pw6giKA=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_ITALIAN.DLSTRINGS",
-        "Name": "Data_Strings_Update_ITALIAN.DLSTRINGS",
-        "Size": 47984,
+        "Hash": "qlqA/y0mXfQ=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_GERMAN.STRINGS",
+        "Name": "Data_Strings_Update_GERMAN.STRINGS",
+        "Size": 25852,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Update_ITALIAN.DLSTRINGS",
+          "GameFile": "Data\\Strings\\Update_GERMAN.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "6686Pw6giKA="
+          "Hash": "qlqA/y0mXfQ="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KhVp9PBPuBc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=99548\nfileID=442377",
-        "Name": "Light Limit Fix - Candle Glow-99548-1-0-3-1699908140.7z",
-        "Size": 303,
+        "Hash": "e3yNvdr5/tI=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_SPANISH.STRINGS",
+        "Name": "Data_Strings_Update_SPANISH.STRINGS",
+        "Size": 25305,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "doodlez alandtse",
-          "Description": "Community Shaders feature which makes dynamic lights unlimited, adds particle lights, contact shadows, shadows for first-person torches and light spells, and more. Supports SE, AE, and VR.",
-          "FileID": 442377,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/99548/99548-1693530223-479667847.png",
-          "IsNSFW": false,
-          "ModID": 99548,
-          "Name": "Light Limit Fix",
-          "Version": "1.0.2"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "Data\\Strings\\Update_SPANISH.STRINGS",
+          "GameVersion": "1.4.15.0",
+          "Hash": "e3yNvdr5/tI="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "96q4DzLw0UE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=16514\nfileID=118835",
-        "Name": "DragonbornSpeaksNaturally - Beta-16514-0-20-3-beta-1578282304.zip",
-        "Size": 1143241,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Cuebit and SwimmingTiger and Odie",
-          "Description": "Adds speech recognition to Skyrim VR or Skyrim SE so you can recite your dialogue lines to select them.",
-          "FileID": 118835,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/16514/16514-1523755037-794185457.png",
-          "IsNSFW": false,
-          "ModID": 16514,
-          "Name": "Dragonborn Speaks Naturally",
-          "Version": "0.18.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "m/ASxfE5kG4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=48209\nfileID=196463",
-        "Name": "ElSopa - HD Keys Redone 2k-48209-1-0-1617725975.7z",
-        "Size": 18241495,
+        "Hash": "wE32N0Cwhfo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=32707\nfileID=124283",
+        "Name": "ElSopa - HD Keys 1K-32707-1-0-1581878692.7z",
+        "Size": 3021853,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ElSopa",
-          "Description": "New High Quality Models And Textures For The Keys. All Resolutions. No ESP",
-          "FileID": 196463,
+          "Description": "No More Blurry Keys.",
+          "FileID": 124283,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/48209/107278-1617725210-668699901.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/32707/32707-1581878311-860694777.jpeg",
           "IsNSFW": false,
-          "ModID": 48209,
-          "Name": "ElSopa - HD Keys Redone SE",
+          "ModID": 32707,
+          "Name": "ElSopa - HD Keys SE",
           "Version": "1.0"
         }
       }
@@ -9137,84 +9111,126 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "L1mWa5JfzYc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=3619\nfileID=35843",
-        "Name": "DllLoader-3619-1-0-0-4.zip",
-        "Size": 144915,
+        "Hash": "Uj6b6Yky3Ok=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=1897\nfileID=2179",
+        "Name": "Skyrim SE 3D Sound (X3DAudio HRTF)-1897-1-0.zip",
+        "Size": 547690,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "xSHADOWMANx or Sumwunn at github",
-          "Description": "The Dll Loader I use for Skyrim SE.\r\n\nRequired for all my Dll Mods.",
-          "FileID": 35843,
+          "Author": "kosumosu",
+          "Description": "This enables 3D sound positioning in-game. You\u0027ll hear exactly from which direction a sound is coming from.",
+          "FileID": 2179,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/3619-0-1507480716.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/1897-0-1477930338.png",
           "IsNSFW": false,
-          "ModID": 3619,
-          "Name": "xSHADOWMANx\u0027s Dll Loader",
-          "Version": "1.0.0.4"
+          "ModID": 1897,
+          "Name": "True 3D Sound for Headphones",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "guSTLM8mH0M=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=61434\nfileID=265533",
-        "Name": "Glamur Reshade v2.0-61434-2-0-1645325253.zip",
-        "Size": 1681650,
+        "Hash": "GIn/vYd3LWA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=13186\nfileID=37491",
+        "Name": "Flora Respawn Fix SSE - 2.1.3.zip-13186-2-1-3.zip",
+        "Size": 13004,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "rhellct - see Acknowledgments",
-          "Description": "Performance-friendly Ambient Occlusion for SkyrimVR. Also includes subtle Global Illumination and bounce lighting effects. And sharpening to fix the game\u0027s blurriness, of course.\n\n\n\nCan be run on top of any weather mod, interior lighting mod, and/or ENB that you\u0027re currently using.",
-          "FileID": 265533,
+          "Author": "bluedanieru",
+          "Description": "Fixes broken respawning for flora (and fauna).",
+          "FileID": 37491,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61434/61434-1641526710-1912474592.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/13186/13186-1509236019-1257576432.jpeg",
           "IsNSFW": false,
-          "ModID": 61434,
-          "Name": "Glamur Reshade VR",
-          "Version": "2.5"
+          "ModID": 13186,
+          "Name": "Flora Respawn Fix",
+          "Version": "2.1.3"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "AP5GeIzpipw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=49425\nfileID=201581",
-        "Name": "Swap Drop and Hold-49425-0-0-1-1620085763.zip",
-        "Size": 2624,
+        "Hash": "BMwQhv48ALY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=43930\nfileID=374193",
+        "Name": "HIGGS 1.6.1-43930-1-6-1-1680396533.zip",
+        "Size": 6200250,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Manmoths",
-          "Description": "Add some extra VR interactivity by equipping weapons you\u0027re holding using HIGGs, dropping weapons you have equipped, or swapping weapons between your left and right hands using spells assigned to VRIK gestures",
-          "FileID": 201581,
+          "Author": "FlyingParticle",
+          "Description": "Hand/weapon collision, weapon two-handing, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR",
+          "FileID": 374193,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49425/49425-1620085212-1675052329.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/43930/43930-1609640985-1855858433.jpeg",
           "IsNSFW": false,
-          "ModID": 49425,
-          "Name": "Swap Drop and Hold",
-          "Version": "0.0.1"
+          "ModID": 43930,
+          "Name": "HIGGS - Enhanced VR Interaction",
+          "Version": "1.7.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "9wJfE/vcUBQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=33783\nfileID=129474",
-        "Name": "JK\u0027s The Drunken Huntsman-33783-1-0-0-1584680688.rar",
-        "Size": 256213,
+        "Hash": "YiPGlEYlZ/A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=13048\nfileID=75826",
+        "Name": "PapyrusUtil VR - Scripting Utility Functions-13048-3-6b-1545409528.zip",
+        "Size": 562532,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Jkrojmal",
-          "Description": "A lore friendly shop overhaul of The Drunken Huntsman.",
-          "FileID": 129474,
+          "Author": "exiledviper meh321",
+          "Description": "An SKSE plugin adding several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.",
+          "FileID": 75826,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33783/33783-1584679747-43272042.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/13048/13048-1512389090-2109546993.png",
           "IsNSFW": false,
-          "ModID": 33783,
-          "Name": "JK\u0027s The Drunken Huntsman.",
-          "Version": "1.0.0"
+          "ModID": 13048,
+          "Name": "PapyrusUtil SE - Modders Scripting Utility Functions",
+          "Version": "4.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "V+4UKZIp05c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=46428\nfileID=188962",
+        "Name": "Surprise Small Critters-46428-1-1-1614695729.7z",
+        "Size": 4867,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KeiZero",
+          "Description": "Small Critters now will Hunt your nightmares, Spider Eggs, Webbed Corpses, Chaurus Eggs, Chaurus Cocoons and Albino Spider Eggs now have a chance to spawn a bunch of Small Critters when looted or hit. ESL flagged.",
+          "FileID": 188962,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/46428/46428-1614711889-1238125779.png",
+          "IsNSFW": false,
+          "ModID": 46428,
+          "Name": "Surprise Small Critters",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fnfd4HcCEm0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=23416\nfileID=211578",
+        "Name": "VRIK V0.8.1 Test Build 28-23416-V0-8-1-Test-Build-28-1624911793.7z",
+        "Size": 442721,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "prog",
+          "Description": "VRIK will display the player character\u0027s body in SkyrimVR and animate it to match your movements.  Weapons can be kept, drawn, and sheathed in up to 14 visible holsters on your body.  An input gesture system allows users to bind actions to gestures on each hand, reducing the need to open menus.  An MCM menu allows full configuration of everything.",
+          "FileID": 211578,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/23416/23416-1550100888-1590315308.jpeg",
+          "IsNSFW": false,
+          "ModID": 23416,
+          "Name": "VRIK Player Avatar",
+          "Version": "V0.8.1-Test-Build-28"
         }
       }
     },
@@ -9410,27 +9426,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0TJPJ6wt7no=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=49205\nfileID=273783",
-        "Name": "VR Refit - Mine Chop and Drop-49205-1-0-4-1648691454.zip",
-        "Size": 37454,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "blunderblast",
-          "Description": "A Realistic Mining VR patch and extension.  Added quarry, clay, and stahlrim ore support. Ore drops to the ground. Added wood chopping.",
-          "FileID": 273783,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49205/49205-1625975854-1856524379.jpeg",
-          "IsNSFW": false,
-          "ModID": 49205,
-          "Name": "VR Refit - Mine Chop and Drop",
-          "Version": "1.0.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "nVTrcMhyenY=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=46189\nfileID=189139",
         "Name": "WiZkiD Pinewatch-46189-1-1-1614777227.7z",
@@ -9467,27 +9462,6 @@
           "ModID": 41020,
           "Name": "Auriel\u0027s Dream - A Skyrim VR overhaul guide",
           "Version": "11.1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "eHUpSNFZaiM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=932\nfileID=4073",
-        "Name": "Dragon Remains-932-2.7z",
-        "Size": 5970,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Strazytski",
-          "Description": "Prevents the dragons experiencing evaporation upon soul theft, Dragons will not become bones anymore and skin remain intact.",
-          "FileID": 4073,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/932-0-1477663486.jpg",
-          "IsNSFW": false,
-          "ModID": 932,
-          "Name": "Dragon Remains SSE",
-          "Version": "2"
         }
       }
     },
@@ -9551,6 +9525,27 @@
           "ModID": 80828,
           "Name": "Rally\u0027s Handcarts",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "guSTLM8mH0M=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=61434\nfileID=265533",
+        "Name": "Glamur Reshade v2.0-61434-2-0-1645325253.zip",
+        "Size": 1681650,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "rhellct - see Acknowledgments",
+          "Description": "Performance-friendly Ambient Occlusion for SkyrimVR. Also includes subtle Global Illumination and bounce lighting effects. And sharpening to fix the game\u0027s blurriness, of course.\n\n\n\nCan be run on top of any weather mod, interior lighting mod, and/or ENB that you\u0027re currently using.",
+          "FileID": 265533,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61434/61434-1641526710-1912474592.png",
+          "IsNSFW": false,
+          "ModID": 61434,
+          "Name": "Glamur Reshade VR",
+          "Version": "2.5"
         }
       }
     },
@@ -10151,283 +10146,233 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "y7Q9Miw8xd8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=35409\nfileID=137165",
-        "Name": "Bloodskal Blade - Enchantment Scaling-35409-1-0-1588259252.7z",
-        "Size": 1869,
+        "Hash": "lOwnL9fPngE=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_ITALIAN.DLSTRINGS",
+        "Name": "Data_Strings_Dawnguard_ITALIAN.DLSTRINGS",
+        "Size": 123710,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "Data\\Strings\\Dawnguard_ITALIAN.DLSTRINGS",
+          "GameVersion": "1.4.15.0",
+          "Hash": "lOwnL9fPngE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "h8NghsMYgiQ=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_ENGLISH.DLSTRINGS",
+        "Name": "Data_Strings_Dragonborn_ENGLISH.DLSTRINGS",
+        "Size": 314844,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "Data\\Strings\\Dragonborn_ENGLISH.DLSTRINGS",
+          "GameVersion": "1.4.15.0",
+          "Hash": "h8NghsMYgiQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0QUaV9vlIzo=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\dragonborn_polish.dlstrings",
+        "Name": "Data_Strings_dragonborn_polish.dlstrings",
+        "Size": 326135,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "Data\\Strings\\dragonborn_polish.dlstrings",
+          "GameVersion": "1.4.15.0",
+          "Hash": "0QUaV9vlIzo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "K3hsIBlPeMU=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_FRENCH.DLSTRINGS",
+        "Name": "Data_Strings_HearthFires_FRENCH.DLSTRINGS",
+        "Size": 23393,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "Data\\Strings\\HearthFires_FRENCH.DLSTRINGS",
+          "GameVersion": "1.4.15.0",
+          "Hash": "K3hsIBlPeMU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jI5245SGmiQ=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Hearthfires_Russian.DLSTRINGS",
+        "Name": "Data_Strings_Hearthfires_Russian.DLSTRINGS",
+        "Size": 36454,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "Data\\Strings\\Hearthfires_Russian.DLSTRINGS",
+          "GameVersion": "1.4.15.0",
+          "Hash": "jI5245SGmiQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "IS8tvTB7Vuw=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_GERMAN.DLSTRINGS",
+        "Name": "Data_Strings_Skyrim_GERMAN.DLSTRINGS",
+        "Size": 2850417,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "Data\\Strings\\Skyrim_GERMAN.DLSTRINGS",
+          "GameVersion": "1.4.15.0",
+          "Hash": "IS8tvTB7Vuw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+dnfMZt5JQA=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_SPANISH.DLSTRINGS",
+        "Name": "Data_Strings_Skyrim_SPANISH.DLSTRINGS",
+        "Size": 2701199,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "Data\\Strings\\Skyrim_SPANISH.DLSTRINGS",
+          "GameVersion": "1.4.15.0",
+          "Hash": "+dnfMZt5JQA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6686Pw6giKA=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_ITALIAN.DLSTRINGS",
+        "Name": "Data_Strings_Update_ITALIAN.DLSTRINGS",
+        "Size": 47984,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "Data\\Strings\\Update_ITALIAN.DLSTRINGS",
+          "GameVersion": "1.4.15.0",
+          "Hash": "6686Pw6giKA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KhVp9PBPuBc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=99548\nfileID=442377",
+        "Name": "Light Limit Fix - Candle Glow-99548-1-0-3-1699908140.7z",
+        "Size": 303,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "GVier",
-          "Description": "Makes the Bloodskal Blade enchantment scale off your Two-Handed skill.",
-          "FileID": 137165,
+          "Author": "doodlez alandtse",
+          "Description": "Community Shaders feature which makes dynamic lights unlimited, adds particle lights, contact shadows, shadows for first-person torches and light spells, and more. Supports SE, AE, and VR.",
+          "FileID": 442377,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35409/35409-1588257627-792583099.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/99548/99548-1693530223-479667847.png",
           "IsNSFW": false,
-          "ModID": 35409,
-          "Name": "Bloodskal Blade - Enchantment Scaling",
-          "Version": "1.0"
+          "ModID": 99548,
+          "Name": "Light Limit Fix",
+          "Version": "1.0.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "4KsabM3ckYw=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_ITALIAN.ILSTRINGS",
-        "Name": "Data_Strings_Dawnguard_ITALIAN.ILSTRINGS",
-        "Size": 295878,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dawnguard_ITALIAN.ILSTRINGS",
-          "GameVersion": "1.4.15.0",
-          "Hash": "4KsabM3ckYw="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "NepjPbeW0Nk=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_ENGLISH.ILSTRINGS",
-        "Name": "Data_Strings_Dragonborn_ENGLISH.ILSTRINGS",
-        "Size": 375388,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dragonborn_ENGLISH.ILSTRINGS",
-          "GameVersion": "1.4.15.0",
-          "Hash": "NepjPbeW0Nk="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3qnWWk7WTjw=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\dragonborn_polish.ilstrings",
-        "Name": "Data_Strings_dragonborn_polish.ilstrings",
-        "Size": 385523,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\dragonborn_polish.ilstrings",
-          "GameVersion": "1.4.15.0",
-          "Hash": "3qnWWk7WTjw="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+9IELBGTa24=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_FRENCH.ILSTRINGS",
-        "Name": "Data_Strings_HearthFires_FRENCH.ILSTRINGS",
-        "Size": 53421,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\HearthFires_FRENCH.ILSTRINGS",
-          "GameVersion": "1.4.15.0",
-          "Hash": "+9IELBGTa24="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "5MCjYWjDPjw=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Hearthfires_Russian.ILSTRINGS",
-        "Name": "Data_Strings_Hearthfires_Russian.ILSTRINGS",
-        "Size": 75794,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Hearthfires_Russian.ILSTRINGS",
-          "GameVersion": "1.4.15.0",
-          "Hash": "5MCjYWjDPjw="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "rCUdzsVgy1A=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_GERMAN.ILSTRINGS",
-        "Name": "Data_Strings_Skyrim_GERMAN.ILSTRINGS",
-        "Size": 3167666,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Skyrim_GERMAN.ILSTRINGS",
-          "GameVersion": "1.4.15.0",
-          "Hash": "rCUdzsVgy1A="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "u4kRRenb+Cc=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_SPANISH.ILSTRINGS",
-        "Name": "Data_Strings_Skyrim_SPANISH.ILSTRINGS",
-        "Size": 2911629,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Skyrim_SPANISH.ILSTRINGS",
-          "GameVersion": "1.4.15.0",
-          "Hash": "u4kRRenb+Cc="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "uXGBYacWm5Q=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_ITALIAN.ILSTRINGS",
-        "Name": "Data_Strings_Update_ITALIAN.ILSTRINGS",
-        "Size": 13458,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Update_ITALIAN.ILSTRINGS",
-          "GameVersion": "1.4.15.0",
-          "Hash": "uXGBYacWm5Q="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "iMMJCC3BYFA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=10614\nfileID=193401",
-        "Name": "Dead Body Remover-10614-3-3-1616621220.7z",
-        "Size": 11591,
+        "Hash": "96q4DzLw0UE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=16514\nfileID=118835",
+        "Name": "DragonbornSpeaksNaturally - Beta-16514-0-20-3-beta-1578282304.zip",
+        "Size": 1143241,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SOT Team",
-          "Description": "Allows for dead bodies and ash piles to be automatically removed from the game when player leaves area, or to be burned away using flame/fire spells or a torch.",
-          "FileID": 193401,
+          "Author": "Cuebit and SwimmingTiger and Odie",
+          "Description": "Adds speech recognition to Skyrim VR or Skyrim SE so you can recite your dialogue lines to select them.",
+          "FileID": 118835,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/10614-0-1498456609.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/16514/16514-1523755037-794185457.png",
           "IsNSFW": false,
-          "ModID": 10614,
-          "Name": "Dead NPC  Body Cleaner Remover",
-          "Version": "4.81"
+          "ModID": 16514,
+          "Name": "Dragonborn Speaks Naturally",
+          "Version": "0.18.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "E2u2ERT5TDM=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/FSR2.2.zip_55115dc0-7629-4484-b320-71845cec6c2a",
-        "Name": "FSR2.2.zip",
-        "Size": 967714,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/FSR2.2.zip_55115dc0-7629-4484-b320-71845cec6c2a"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cDu1RZh5Izw=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=High.ini",
-        "Name": "High.ini",
-        "Size": 606,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "High.ini",
-          "GameVersion": "1.4.15.0",
-          "Hash": "cDu1RZh5Izw="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Rh1VZ3ORLdc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=19250\nfileID=286244",
-        "Name": "More Informative Console 1.0.1 VR-19250-1-0-1-1653433878.zip",
-        "Size": 422083,
+        "Hash": "L1mWa5JfzYc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=3619\nfileID=35843",
+        "Name": "DllLoader-3619-1-0-0-4.zip",
+        "Size": 144915,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Linthar",
-          "Description": "This mod edits the UI to show a great deal of additional information on npcs, items, and other objects when the console is opened, similar to the way MFG console worked for Oldrim",
-          "FileID": 286244,
+          "Author": "xSHADOWMANx or Sumwunn at github",
+          "Description": "The Dll Loader I use for Skyrim SE.\r\n\nRequired for all my Dll Mods.",
+          "FileID": 35843,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19250/19250-1554167901-1170138616.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/3619-0-1507480716.jpg",
           "IsNSFW": false,
-          "ModID": 19250,
-          "Name": "More Informative Console",
-          "Version": "1.1.0"
+          "ModID": 3619,
+          "Name": "xSHADOWMANx\u0027s Dll Loader",
+          "Version": "1.0.0.4"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "xUpVnZm1q/Y=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=19052\nfileID=209519",
-        "Name": "Ordinator VR Patch-19052-0-63-1623892139.7z",
-        "Size": 17900,
+        "Hash": "AP5GeIzpipw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=49425\nfileID=201581",
+        "Name": "Swap Drop and Hold-49425-0-0-1-1620085763.zip",
+        "Size": 2624,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pritine",
-          "Description": "WIP, and requires SKSE. Currently fixes nearly all of the crafting perk bugs, such as advanced lab, advanced workshop, gem dust/arcane nexus, and Spellscribe/Power Echoes; as well as the archery tree.",
-          "FileID": 209519,
+          "Author": "Manmoths",
+          "Description": "Add some extra VR interactivity by equipping weapons you\u0027re holding using HIGGs, dropping weapons you have equipped, or swapping weapons between your left and right hands using spells assigned to VRIK gestures",
+          "FileID": 201581,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19052/19052-1533436123-1536179371.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49425/49425-1620085212-1675052329.png",
           "IsNSFW": false,
-          "ModID": 19052,
-          "Name": "Ordinator VR Patch",
-          "Version": "0.63"
+          "ModID": 49425,
+          "Name": "Swap Drop and Hold",
+          "Version": "0.0.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "jV1CErW7tV0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=2743\nfileID=3952",
-        "Name": "Perk Points and More Gold for Bounty Quests-2743-1-0.rar",
-        "Size": 7096,
+        "Hash": "9wJfE/vcUBQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=33783\nfileID=129474",
+        "Name": "JK\u0027s The Drunken Huntsman-33783-1-0-0-1584680688.rar",
+        "Size": 256213,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "HCHS63rdWilson",
-          "Description": "Looking for a way to gain perk points and more gold to spend?\r\n\nGive this mod a shot.",
-          "FileID": 3952,
+          "Author": "Jkrojmal",
+          "Description": "A lore friendly shop overhaul of The Drunken Huntsman.",
+          "FileID": 129474,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/2743-0-1478241053.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33783/33783-1584679747-43272042.jpeg",
           "IsNSFW": false,
-          "ModID": 2743,
-          "Name": "Perk Points and More Gold for Bounty Quests",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "HnR1uFzTLUk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=386\nfileID=115926",
-        "Name": "Sovngarde - Mist\u0027s Font Replacer Bold V8.9-386-8-9-1576107205.7z",
-        "Size": 335682,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Koveich",
-          "Description": "Sovngarde is a lore-friendly font replacer I designed by hand based on Skyrim\u0027s title. Supports 8 languages and 2 weights!",
-          "FileID": 115926,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/386/386-1598818175-28512544.jpeg",
-          "IsNSFW": false,
-          "ModID": 386,
-          "Name": "Sovngarde - A Nordic Font",
-          "Version": "8.9"
+          "ModID": 33783,
+          "Name": "JK\u0027s The Drunken Huntsman.",
+          "Version": "1.0.0"
         }
       }
     },
@@ -11043,6 +10988,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "y7Q9Miw8xd8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=35409\nfileID=137165",
+        "Name": "Bloodskal Blade - Enchantment Scaling-35409-1-0-1588259252.7z",
+        "Size": 1869,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GVier",
+          "Description": "Makes the Bloodskal Blade enchantment scale off your Two-Handed skill.",
+          "FileID": 137165,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35409/35409-1588257627-792583099.png",
+          "IsNSFW": false,
+          "ModID": 35409,
+          "Name": "Bloodskal Blade - Enchantment Scaling",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "50fqpDyxWks=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=45191\nfileID=224667",
         "Name": "Bound Dagger CTD Fix-45191-2-1630253612.zip",
@@ -11269,165 +11235,262 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VLyeBl3jkfU=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_ITALIAN.STRINGS",
-        "Name": "Data_Strings_Dawnguard_ITALIAN.STRINGS",
-        "Size": 106608,
+        "Hash": "4KsabM3ckYw=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_ITALIAN.ILSTRINGS",
+        "Name": "Data_Strings_Dawnguard_ITALIAN.ILSTRINGS",
+        "Size": 295878,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dawnguard_ITALIAN.STRINGS",
+          "GameFile": "Data\\Strings\\Dawnguard_ITALIAN.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "VLyeBl3jkfU="
+          "Hash": "4KsabM3ckYw="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "V4lT2H8tnYE=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_ENGLISH.STRINGS",
-        "Name": "Data_Strings_Dragonborn_ENGLISH.STRINGS",
-        "Size": 153021,
+        "Hash": "NepjPbeW0Nk=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_ENGLISH.ILSTRINGS",
+        "Name": "Data_Strings_Dragonborn_ENGLISH.ILSTRINGS",
+        "Size": 375388,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dragonborn_ENGLISH.STRINGS",
+          "GameFile": "Data\\Strings\\Dragonborn_ENGLISH.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "V4lT2H8tnYE="
+          "Hash": "NepjPbeW0Nk="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Brca2m2Egrs=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\dragonborn_polish.strings",
-        "Name": "Data_Strings_dragonborn_polish.strings",
-        "Size": 167040,
+        "Hash": "3qnWWk7WTjw=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\dragonborn_polish.ilstrings",
+        "Name": "Data_Strings_dragonborn_polish.ilstrings",
+        "Size": 385523,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\dragonborn_polish.strings",
+          "GameFile": "Data\\Strings\\dragonborn_polish.ilstrings",
           "GameVersion": "1.4.15.0",
-          "Hash": "Brca2m2Egrs="
+          "Hash": "3qnWWk7WTjw="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BFqP1CBFRN0=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_FRENCH.STRINGS",
-        "Name": "Data_Strings_HearthFires_FRENCH.STRINGS",
-        "Size": 38436,
+        "Hash": "+9IELBGTa24=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_FRENCH.ILSTRINGS",
+        "Name": "Data_Strings_HearthFires_FRENCH.ILSTRINGS",
+        "Size": 53421,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\HearthFires_FRENCH.STRINGS",
+          "GameFile": "Data\\Strings\\HearthFires_FRENCH.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "BFqP1CBFRN0="
+          "Hash": "+9IELBGTa24="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0quoP2fCME8=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Hearthfires_Russian.STRINGS",
-        "Name": "Data_Strings_Hearthfires_Russian.STRINGS",
-        "Size": 53289,
+        "Hash": "5MCjYWjDPjw=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Hearthfires_Russian.ILSTRINGS",
+        "Name": "Data_Strings_Hearthfires_Russian.ILSTRINGS",
+        "Size": 75794,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Hearthfires_Russian.STRINGS",
+          "GameFile": "Data\\Strings\\Hearthfires_Russian.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "0quoP2fCME8="
+          "Hash": "5MCjYWjDPjw="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "35yqVpJzivQ=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_GERMAN.STRINGS",
-        "Name": "Data_Strings_Skyrim_GERMAN.STRINGS",
-        "Size": 935732,
+        "Hash": "rCUdzsVgy1A=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_GERMAN.ILSTRINGS",
+        "Name": "Data_Strings_Skyrim_GERMAN.ILSTRINGS",
+        "Size": 3167666,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Skyrim_GERMAN.STRINGS",
+          "GameFile": "Data\\Strings\\Skyrim_GERMAN.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "35yqVpJzivQ="
+          "Hash": "rCUdzsVgy1A="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5Ez++9D5uy0=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_SPANISH.STRINGS",
-        "Name": "Data_Strings_Skyrim_SPANISH.STRINGS",
-        "Size": 918950,
+        "Hash": "u4kRRenb+Cc=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_SPANISH.ILSTRINGS",
+        "Name": "Data_Strings_Skyrim_SPANISH.ILSTRINGS",
+        "Size": 2911629,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Skyrim_SPANISH.STRINGS",
+          "GameFile": "Data\\Strings\\Skyrim_SPANISH.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "5Ez++9D5uy0="
+          "Hash": "u4kRRenb+Cc="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8v/lMnFP7Bs=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_ITALIAN.STRINGS",
-        "Name": "Data_Strings_Update_ITALIAN.STRINGS",
-        "Size": 24492,
+        "Hash": "uXGBYacWm5Q=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_ITALIAN.ILSTRINGS",
+        "Name": "Data_Strings_Update_ITALIAN.ILSTRINGS",
+        "Size": 13458,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Update_ITALIAN.STRINGS",
+          "GameFile": "Data\\Strings\\Update_ITALIAN.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "8v/lMnFP7Bs="
+          "Hash": "uXGBYacWm5Q="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GjA0UKu7U3Q=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Low.ini",
-        "Name": "Low.ini",
-        "Size": 598,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "Low.ini",
-          "GameVersion": "1.4.15.0",
-          "Hash": "GjA0UKu7U3Q="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "1+99WZrMDWU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=66025\nfileID=422866",
-        "Name": "PLANCK 0.6.2-66025-0-6-2-1693693881.zip",
-        "Size": 5447961,
+        "Hash": "iMMJCC3BYFA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=10614\nfileID=193401",
+        "Name": "Dead Body Remover-10614-3-3-1616621220.7z",
+        "Size": 11591,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "FlyingParticle",
-          "Description": "Physically-driven animation in Skyrim. Characters interact with physics and can be grabbed, melee hit detection is physically accurate, and much more.",
-          "FileID": 422866,
+          "Author": "SOT Team",
+          "Description": "Allows for dead bodies and ash piles to be automatically removed from the game when player leaves area, or to be burned away using flame/fire spells or a torch.",
+          "FileID": 193401,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/66025/66025-1649132253-1750711249.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/10614-0-1498456609.jpg",
           "IsNSFW": false,
-          "ModID": 66025,
-          "Name": "PLANCK - Physical Animation and Character Kinetics",
-          "Version": "0.6.2"
+          "ModID": 10614,
+          "Name": "Dead NPC  Body Cleaner Remover",
+          "Version": "4.81"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "E2u2ERT5TDM=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/FSR2.2.zip_55115dc0-7629-4484-b320-71845cec6c2a",
+        "Name": "FSR2.2.zip",
+        "Size": 967714,
+        "State": {
+          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
+          "Url": "https://authored-files.wabbajack.org/FSR2.2.zip_55115dc0-7629-4484-b320-71845cec6c2a"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cDu1RZh5Izw=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=High.ini",
+        "Name": "High.ini",
+        "Size": 606,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "High.ini",
+          "GameVersion": "1.4.15.0",
+          "Hash": "cDu1RZh5Izw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Rh1VZ3ORLdc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=19250\nfileID=286244",
+        "Name": "More Informative Console 1.0.1 VR-19250-1-0-1-1653433878.zip",
+        "Size": 422083,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Linthar",
+          "Description": "This mod edits the UI to show a great deal of additional information on npcs, items, and other objects when the console is opened, similar to the way MFG console worked for Oldrim",
+          "FileID": 286244,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19250/19250-1554167901-1170138616.png",
+          "IsNSFW": false,
+          "ModID": 19250,
+          "Name": "More Informative Console",
+          "Version": "1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xUpVnZm1q/Y=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=19052\nfileID=209519",
+        "Name": "Ordinator VR Patch-19052-0-63-1623892139.7z",
+        "Size": 17900,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Pritine",
+          "Description": "WIP, and requires SKSE. Currently fixes nearly all of the crafting perk bugs, such as advanced lab, advanced workshop, gem dust/arcane nexus, and Spellscribe/Power Echoes; as well as the archery tree.",
+          "FileID": 209519,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19052/19052-1533436123-1536179371.png",
+          "IsNSFW": false,
+          "ModID": 19052,
+          "Name": "Ordinator VR Patch",
+          "Version": "0.63"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jV1CErW7tV0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=2743\nfileID=3952",
+        "Name": "Perk Points and More Gold for Bounty Quests-2743-1-0.rar",
+        "Size": 7096,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "HCHS63rdWilson",
+          "Description": "Looking for a way to gain perk points and more gold to spend?\r\n\nGive this mod a shot.",
+          "FileID": 3952,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/2743-0-1478241053.jpg",
+          "IsNSFW": false,
+          "ModID": 2743,
+          "Name": "Perk Points and More Gold for Bounty Quests",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HnR1uFzTLUk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=386\nfileID=115926",
+        "Name": "Sovngarde - Mist\u0027s Font Replacer Bold V8.9-386-8-9-1576107205.7z",
+        "Size": 335682,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Koveich",
+          "Description": "Sovngarde is a lore-friendly font replacer I designed by hand based on Skyrim\u0027s title. Supports 8 languages and 2 weights!",
+          "FileID": 115926,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/386/386-1598818175-28512544.jpeg",
+          "IsNSFW": false,
+          "ModID": 386,
+          "Name": "Sovngarde - A Nordic Font",
+          "Version": "8.9"
         }
       }
     },
@@ -12206,223 +12269,165 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Sp3fAgLRihs=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_ENGLISH.DLSTRINGS",
-        "Name": "Data_Strings_Dawnguard_ENGLISH.DLSTRINGS",
-        "Size": 116999,
+        "Hash": "VLyeBl3jkfU=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_ITALIAN.STRINGS",
+        "Name": "Data_Strings_Dawnguard_ITALIAN.STRINGS",
+        "Size": 106608,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dawnguard_ENGLISH.DLSTRINGS",
+          "GameFile": "Data\\Strings\\Dawnguard_ITALIAN.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "Sp3fAgLRihs="
+          "Hash": "VLyeBl3jkfU="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/wudg7UlOnA=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_Polish.DLSTRINGS",
-        "Name": "Data_Strings_Dawnguard_Polish.DLSTRINGS",
-        "Size": 124616,
+        "Hash": "V4lT2H8tnYE=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_ENGLISH.STRINGS",
+        "Name": "Data_Strings_Dragonborn_ENGLISH.STRINGS",
+        "Size": 153021,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dawnguard_Polish.DLSTRINGS",
+          "GameFile": "Data\\Strings\\Dragonborn_ENGLISH.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "/wudg7UlOnA="
+          "Hash": "V4lT2H8tnYE="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hPO5n8hPo48=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_FRENCH.DLSTRINGS",
-        "Name": "Data_Strings_Dragonborn_FRENCH.DLSTRINGS",
-        "Size": 359751,
+        "Hash": "Brca2m2Egrs=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\dragonborn_polish.strings",
+        "Name": "Data_Strings_dragonborn_polish.strings",
+        "Size": 167040,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dragonborn_FRENCH.DLSTRINGS",
+          "GameFile": "Data\\Strings\\dragonborn_polish.strings",
           "GameVersion": "1.4.15.0",
-          "Hash": "hPO5n8hPo48="
+          "Hash": "Brca2m2Egrs="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "nX4hKTNyAtw=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_Russian.DLSTRINGS",
-        "Name": "Data_Strings_Dragonborn_Russian.DLSTRINGS",
-        "Size": 542881,
+        "Hash": "BFqP1CBFRN0=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_FRENCH.STRINGS",
+        "Name": "Data_Strings_HearthFires_FRENCH.STRINGS",
+        "Size": 38436,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dragonborn_Russian.DLSTRINGS",
+          "GameFile": "Data\\Strings\\HearthFires_FRENCH.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "nX4hKTNyAtw="
+          "Hash": "BFqP1CBFRN0="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "fWlPyWgYl+Y=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_GERMAN.DLSTRINGS",
-        "Name": "Data_Strings_HearthFires_GERMAN.DLSTRINGS",
-        "Size": 23687,
+        "Hash": "0quoP2fCME8=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Hearthfires_Russian.STRINGS",
+        "Name": "Data_Strings_Hearthfires_Russian.STRINGS",
+        "Size": 53289,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\HearthFires_GERMAN.DLSTRINGS",
+          "GameFile": "Data\\Strings\\Hearthfires_Russian.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "fWlPyWgYl+Y="
+          "Hash": "0quoP2fCME8="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Ve7hAYI2n1A=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_SPANISH.DLSTRINGS",
-        "Name": "Data_Strings_HearthFires_SPANISH.DLSTRINGS",
-        "Size": 22082,
+        "Hash": "35yqVpJzivQ=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_GERMAN.STRINGS",
+        "Name": "Data_Strings_Skyrim_GERMAN.STRINGS",
+        "Size": 935732,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\HearthFires_SPANISH.DLSTRINGS",
+          "GameFile": "Data\\Strings\\Skyrim_GERMAN.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "Ve7hAYI2n1A="
+          "Hash": "35yqVpJzivQ="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "frUF0VM39YI=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_ITALIAN.DLSTRINGS",
-        "Name": "Data_Strings_Skyrim_ITALIAN.DLSTRINGS",
-        "Size": 2692091,
+        "Hash": "5Ez++9D5uy0=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_SPANISH.STRINGS",
+        "Name": "Data_Strings_Skyrim_SPANISH.STRINGS",
+        "Size": 918950,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Skyrim_ITALIAN.DLSTRINGS",
+          "GameFile": "Data\\Strings\\Skyrim_SPANISH.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "frUF0VM39YI="
+          "Hash": "5Ez++9D5uy0="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yX5V+KmzjXg=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_ENGLISH.DLSTRINGS",
-        "Name": "Data_Strings_Update_ENGLISH.DLSTRINGS",
-        "Size": 46218,
+        "Hash": "8v/lMnFP7Bs=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_ITALIAN.STRINGS",
+        "Name": "Data_Strings_Update_ITALIAN.STRINGS",
+        "Size": 24492,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Update_ENGLISH.DLSTRINGS",
+          "GameFile": "Data\\Strings\\Update_ITALIAN.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "yX5V+KmzjXg="
+          "Hash": "8v/lMnFP7Bs="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SGBUoYr/sMs=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_Polish.DLSTRINGS",
-        "Name": "Data_Strings_Update_Polish.DLSTRINGS",
-        "Size": 52179,
+        "Hash": "GjA0UKu7U3Q=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Low.ini",
+        "Name": "Low.ini",
+        "Size": 598,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Update_Polish.DLSTRINGS",
+          "GameFile": "Low.ini",
           "GameVersion": "1.4.15.0",
-          "Hash": "SGBUoYr/sMs="
+          "Hash": "GjA0UKu7U3Q="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "iNbAX78Je9A=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=65530\nfileID=282271",
-        "Name": "Dynamic Bloodskal blade-65530-1-1-1651991435.7z",
-        "Size": 1375,
+        "Hash": "1+99WZrMDWU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=66025\nfileID=422866",
+        "Name": "PLANCK 0.6.2-66025-0-6-2-1693693881.zip",
+        "Size": 5447961,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "igotnousername",
-          "Description": "Moves the effect handler of Bloodskal Blade to Dynamic Animation Casting",
-          "FileID": 282271,
+          "Author": "FlyingParticle",
+          "Description": "Physically-driven animation in Skyrim. Characters interact with physics and can be grabbed, melee hit detection is physically accurate, and much more.",
+          "FileID": 422866,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65530/65530-1648296060-182271115.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/66025/66025-1649132253-1750711249.png",
           "IsNSFW": false,
-          "ModID": 65530,
-          "Name": "Dynamic Bloodskal Blade - Lag Fix",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "dEuYEnK3xbo=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Medium.ini",
-        "Name": "Medium.ini",
-        "Size": 606,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "Medium.ini",
-          "GameVersion": "1.4.15.0",
-          "Hash": "dEuYEnK3xbo="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Zefec7A6mkY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=13109\nfileID=37475",
-        "Name": "No Crime Teleport-13109-1-1.zip",
-        "Size": 3448,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Vermunds",
-          "Description": "Disables the teleportation when paying off bounty.",
-          "FileID": 37475,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/87490-0-1508793799.png",
-          "IsNSFW": false,
-          "ModID": 13109,
-          "Name": "No Crime Teleport",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "JcpeF7zIcj4=",
-        "Meta": "[General]\ngameName=skyrim\nmodID=111991\nfileID=1000368562",
-        "Name": "DynDOLOD 3.00-68518-Alpha-156-1699465297.7z",
-        "Size": 29041988,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Sheson",
-          "Description": "Dynamic Distant Objects LOD (DynDOLOD) is the advanced and easier version of xLODGen to generate a comprehensive LOD mod for the entire load order for drastically enhanced and better matching tree LOD and object LOD plus optional dynamic LOD, glow LOD, grass LOD, occlusion data and terrain underside in a few simple steps",
-          "FileID": 1000368562,
-          "GameName": "Skyrim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/110/images/111991/111991-1653300346-888103608.jpeg",
-          "IsNSFW": false,
-          "ModID": 111991,
-          "Name": "DynDOLOD 3 Alpha",
-          "Version": "Alpha-155"
+          "ModID": 66025,
+          "Name": "PLANCK - Physical Animation and Character Kinetics",
+          "Version": "0.6.2"
         }
       }
     },
@@ -12528,27 +12533,6 @@
           "ModID": 22106,
           "Name": "ElSopa HD - Remade Better Dust Piles SE",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "v5jgvs4DTyQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=19454\nfileID=104526",
-        "Name": "Falskaar - Addons and Patches 1.6-19454-1-6-1566919395.rar",
-        "Size": 345080,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mnikjom",
-          "Description": "A collection of tweaks, enhancements and patches for Falskaar.",
-          "FileID": 104526,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/19454/19454-1534951632-2143199630.png",
-          "IsNSFW": false,
-          "ModID": 19454,
-          "Name": "Falskaar - Addons and Patches",
-          "Version": "1.6"
         }
       }
     },
@@ -13201,186 +13185,202 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "jnTmEpQ7QOk=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_ENGLISH.ILSTRINGS",
-        "Name": "Data_Strings_Dawnguard_ENGLISH.ILSTRINGS",
-        "Size": 297708,
+        "Hash": "Sp3fAgLRihs=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_ENGLISH.DLSTRINGS",
+        "Name": "Data_Strings_Dawnguard_ENGLISH.DLSTRINGS",
+        "Size": 116999,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dawnguard_ENGLISH.ILSTRINGS",
+          "GameFile": "Data\\Strings\\Dawnguard_ENGLISH.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "jnTmEpQ7QOk="
+          "Hash": "Sp3fAgLRihs="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Mh4T0JpGbtM=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_Polish.ILSTRINGS",
-        "Name": "Data_Strings_Dawnguard_Polish.ILSTRINGS",
-        "Size": 313361,
+        "Hash": "/wudg7UlOnA=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_Polish.DLSTRINGS",
+        "Name": "Data_Strings_Dawnguard_Polish.DLSTRINGS",
+        "Size": 124616,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dawnguard_Polish.ILSTRINGS",
+          "GameFile": "Data\\Strings\\Dawnguard_Polish.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "Mh4T0JpGbtM="
+          "Hash": "/wudg7UlOnA="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "lu7uL74PWII=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_FRENCH.ILSTRINGS",
-        "Name": "Data_Strings_Dragonborn_FRENCH.ILSTRINGS",
-        "Size": 425509,
+        "Hash": "hPO5n8hPo48=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_FRENCH.DLSTRINGS",
+        "Name": "Data_Strings_Dragonborn_FRENCH.DLSTRINGS",
+        "Size": 359751,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dragonborn_FRENCH.ILSTRINGS",
+          "GameFile": "Data\\Strings\\Dragonborn_FRENCH.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "lu7uL74PWII="
+          "Hash": "hPO5n8hPo48="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "A+M6X0QLumw=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_Russian.ILSTRINGS",
-        "Name": "Data_Strings_Dragonborn_Russian.ILSTRINGS",
-        "Size": 600496,
+        "Hash": "nX4hKTNyAtw=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_Russian.DLSTRINGS",
+        "Name": "Data_Strings_Dragonborn_Russian.DLSTRINGS",
+        "Size": 542881,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dragonborn_Russian.ILSTRINGS",
+          "GameFile": "Data\\Strings\\Dragonborn_Russian.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "A+M6X0QLumw="
+          "Hash": "nX4hKTNyAtw="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cpOc6KA/EXM=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_GERMAN.ILSTRINGS",
-        "Name": "Data_Strings_HearthFires_GERMAN.ILSTRINGS",
-        "Size": 55404,
+        "Hash": "fWlPyWgYl+Y=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_GERMAN.DLSTRINGS",
+        "Name": "Data_Strings_HearthFires_GERMAN.DLSTRINGS",
+        "Size": 23687,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\HearthFires_GERMAN.ILSTRINGS",
+          "GameFile": "Data\\Strings\\HearthFires_GERMAN.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "cpOc6KA/EXM="
+          "Hash": "fWlPyWgYl+Y="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "fWI9+PDSGQk=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_SPANISH.ILSTRINGS",
-        "Name": "Data_Strings_HearthFires_SPANISH.ILSTRINGS",
-        "Size": 50605,
+        "Hash": "Ve7hAYI2n1A=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_SPANISH.DLSTRINGS",
+        "Name": "Data_Strings_HearthFires_SPANISH.DLSTRINGS",
+        "Size": 22082,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\HearthFires_SPANISH.ILSTRINGS",
+          "GameFile": "Data\\Strings\\HearthFires_SPANISH.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "fWI9+PDSGQk="
+          "Hash": "Ve7hAYI2n1A="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "gu5OdF0WkYc=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_ITALIAN.ILSTRINGS",
-        "Name": "Data_Strings_Skyrim_ITALIAN.ILSTRINGS",
-        "Size": 2855491,
+        "Hash": "frUF0VM39YI=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_ITALIAN.DLSTRINGS",
+        "Name": "Data_Strings_Skyrim_ITALIAN.DLSTRINGS",
+        "Size": 2692091,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Skyrim_ITALIAN.ILSTRINGS",
+          "GameFile": "Data\\Strings\\Skyrim_ITALIAN.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "gu5OdF0WkYc="
+          "Hash": "frUF0VM39YI="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ct1uK6ahO60=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_ENGLISH.ILSTRINGS",
-        "Name": "Data_Strings_Update_ENGLISH.ILSTRINGS",
-        "Size": 13055,
+        "Hash": "yX5V+KmzjXg=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_ENGLISH.DLSTRINGS",
+        "Name": "Data_Strings_Update_ENGLISH.DLSTRINGS",
+        "Size": 46218,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Update_ENGLISH.ILSTRINGS",
+          "GameFile": "Data\\Strings\\Update_ENGLISH.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "ct1uK6ahO60="
+          "Hash": "yX5V+KmzjXg="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "D0miqVl0Z0U=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_Polish.ILSTRINGS",
-        "Name": "Data_Strings_Update_Polish.ILSTRINGS",
-        "Size": 13341,
+        "Hash": "SGBUoYr/sMs=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_Polish.DLSTRINGS",
+        "Name": "Data_Strings_Update_Polish.DLSTRINGS",
+        "Size": 52179,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Update_Polish.ILSTRINGS",
+          "GameFile": "Data\\Strings\\Update_Polish.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "D0miqVl0Z0U="
+          "Hash": "SGBUoYr/sMs="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "m5eqRf6ZHow=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=931\nfileID=95393",
-        "Name": "Update ESL Patch - Created by Erstam-931-2-0-3-1560095816.zip",
-        "Size": 7541,
+        "Hash": "iNbAX78Je9A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=65530\nfileID=282271",
+        "Name": "Dynamic Bloodskal blade-65530-1-1-1651991435.7z",
+        "Size": 1375,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Sokkvabekk",
-          "Description": "A lavish, gaudy overhaul of the Thieves Guild HQ and the Ragged Flagon. Occurs gradually, attached to the four stages of upgrades existing in vanilla Skyrim.",
-          "FileID": 95393,
+          "Author": "igotnousername",
+          "Description": "Moves the effect handler of Bloodskal Blade to Dynamic Animation Casting",
+          "FileID": 282271,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/77078-7-1468457724.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65530/65530-1648296060-182271115.png",
           "IsNSFW": false,
-          "ModID": 931,
-          "Name": "Opulent Thieves Guild",
-          "Version": "2.0.3"
+          "ModID": 65530,
+          "Name": "Dynamic Bloodskal Blade - Lag Fix",
+          "Version": "1.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "rY5QRw8OO8s=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=5804\nfileID=13556",
-        "Name": "A Quality World Map - Clear Map Skies-5804-9-0-1CMS.zip",
-        "Size": 2477434,
+        "Hash": "dEuYEnK3xbo=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Medium.ini",
+        "Name": "Medium.ini",
+        "Size": 606,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "Medium.ini",
+          "GameVersion": "1.4.15.0",
+          "Hash": "dEuYEnK3xbo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Zefec7A6mkY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=13109\nfileID=37475",
+        "Name": "No Crime Teleport-13109-1-1.zip",
+        "Size": 3448,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "IcePenguin",
-          "Description": "Provides a new set of highly-detailed 3D or paper world map textures, complete with roads! Also adds a detailed Solsteim map.",
-          "FileID": 13556,
+          "Author": "Vermunds",
+          "Description": "Disables the teleportation when paying off bounty.",
+          "FileID": 37475,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/5804-1-1481088259.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/87490-0-1508793799.png",
           "IsNSFW": false,
-          "ModID": 5804,
-          "Name": "A Quality World Map",
-          "Version": "9.0.1"
+          "ModID": 13109,
+          "Name": "No Crime Teleport",
+          "Version": "1.1"
         }
       }
     },
@@ -13465,6 +13465,27 @@
           "ModID": 42961,
           "Name": "Main Theme - Auriel\u0027s Accension",
           "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "m5eqRf6ZHow=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=931\nfileID=95393",
+        "Name": "Update ESL Patch - Created by Erstam-931-2-0-3-1560095816.zip",
+        "Size": 7541,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sokkvabekk",
+          "Description": "A lavish, gaudy overhaul of the Thieves Guild HQ and the Ragged Flagon. Occurs gradually, attached to the four stages of upgrades existing in vanilla Skyrim.",
+          "FileID": 95393,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/77078-7-1468457724.jpg",
+          "IsNSFW": false,
+          "ModID": 931,
+          "Name": "Opulent Thieves Guild",
+          "Version": "2.0.3"
         }
       }
     },
@@ -13928,223 +13949,144 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GSkcjrmW48g=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_ENGLISH.STRINGS",
-        "Name": "Data_Strings_Dawnguard_ENGLISH.STRINGS",
-        "Size": 100234,
+        "Hash": "jnTmEpQ7QOk=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_ENGLISH.ILSTRINGS",
+        "Name": "Data_Strings_Dawnguard_ENGLISH.ILSTRINGS",
+        "Size": 297708,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dawnguard_ENGLISH.STRINGS",
+          "GameFile": "Data\\Strings\\Dawnguard_ENGLISH.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "GSkcjrmW48g="
+          "Hash": "jnTmEpQ7QOk="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VI4o0T4r13M=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_Polish.STRINGS",
-        "Name": "Data_Strings_Dawnguard_Polish.STRINGS",
-        "Size": 111583,
+        "Hash": "Mh4T0JpGbtM=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_Polish.ILSTRINGS",
+        "Name": "Data_Strings_Dawnguard_Polish.ILSTRINGS",
+        "Size": 313361,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dawnguard_Polish.STRINGS",
+          "GameFile": "Data\\Strings\\Dawnguard_Polish.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "VI4o0T4r13M="
+          "Hash": "Mh4T0JpGbtM="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "YWHjTTIK6bw=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_FRENCH.STRINGS",
-        "Name": "Data_Strings_Dragonborn_FRENCH.STRINGS",
-        "Size": 171479,
+        "Hash": "lu7uL74PWII=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_FRENCH.ILSTRINGS",
+        "Name": "Data_Strings_Dragonborn_FRENCH.ILSTRINGS",
+        "Size": 425509,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dragonborn_FRENCH.STRINGS",
+          "GameFile": "Data\\Strings\\Dragonborn_FRENCH.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "YWHjTTIK6bw="
+          "Hash": "lu7uL74PWII="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yc9vzUOS/4A=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_Russian.STRINGS",
-        "Name": "Data_Strings_Dragonborn_Russian.STRINGS",
-        "Size": 250939,
+        "Hash": "A+M6X0QLumw=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_Russian.ILSTRINGS",
+        "Name": "Data_Strings_Dragonborn_Russian.ILSTRINGS",
+        "Size": 600496,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dragonborn_Russian.STRINGS",
+          "GameFile": "Data\\Strings\\Dragonborn_Russian.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "yc9vzUOS/4A="
+          "Hash": "A+M6X0QLumw="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6lyzR32C0BA=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_GERMAN.STRINGS",
-        "Name": "Data_Strings_HearthFires_GERMAN.STRINGS",
-        "Size": 37554,
+        "Hash": "cpOc6KA/EXM=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_GERMAN.ILSTRINGS",
+        "Name": "Data_Strings_HearthFires_GERMAN.ILSTRINGS",
+        "Size": 55404,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\HearthFires_GERMAN.STRINGS",
+          "GameFile": "Data\\Strings\\HearthFires_GERMAN.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "6lyzR32C0BA="
+          "Hash": "cpOc6KA/EXM="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8Cgn2RaVQS0=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_SPANISH.STRINGS",
-        "Name": "Data_Strings_HearthFires_SPANISH.STRINGS",
-        "Size": 38999,
+        "Hash": "fWI9+PDSGQk=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_SPANISH.ILSTRINGS",
+        "Name": "Data_Strings_HearthFires_SPANISH.ILSTRINGS",
+        "Size": 50605,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\HearthFires_SPANISH.STRINGS",
+          "GameFile": "Data\\Strings\\HearthFires_SPANISH.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "8Cgn2RaVQS0="
+          "Hash": "fWI9+PDSGQk="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "z5EhgfMHP1s=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_ITALIAN.STRINGS",
-        "Name": "Data_Strings_Skyrim_ITALIAN.STRINGS",
-        "Size": 889088,
+        "Hash": "gu5OdF0WkYc=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_ITALIAN.ILSTRINGS",
+        "Name": "Data_Strings_Skyrim_ITALIAN.ILSTRINGS",
+        "Size": 2855491,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Skyrim_ITALIAN.STRINGS",
+          "GameFile": "Data\\Strings\\Skyrim_ITALIAN.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "z5EhgfMHP1s="
+          "Hash": "gu5OdF0WkYc="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Q5+H5dAD3Jg=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_ENGLISH.STRINGS",
-        "Name": "Data_Strings_Update_ENGLISH.STRINGS",
-        "Size": 22817,
+        "Hash": "ct1uK6ahO60=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_ENGLISH.ILSTRINGS",
+        "Name": "Data_Strings_Update_ENGLISH.ILSTRINGS",
+        "Size": 13055,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Update_ENGLISH.STRINGS",
+          "GameFile": "Data\\Strings\\Update_ENGLISH.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "Q5+H5dAD3Jg="
+          "Hash": "ct1uK6ahO60="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bOT8kEK4h08=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_Polish.STRINGS",
-        "Name": "Data_Strings_Update_Polish.STRINGS",
-        "Size": 25303,
+        "Hash": "D0miqVl0Z0U=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_Polish.ILSTRINGS",
+        "Name": "Data_Strings_Update_Polish.ILSTRINGS",
+        "Size": 13341,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Update_Polish.STRINGS",
+          "GameFile": "Data\\Strings\\Update_Polish.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "bOT8kEK4h08="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "qrCpjbvR9U0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=89890\nfileID=381339",
-        "Name": "DLC2MiraakScript-89890-1-0-0-1682276775.7z",
-        "Size": 2738,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ferrari365",
-          "Description": "Fixes the DLC2MiraakScript to not take up all of the game\u0027s scripting resources and wrecking the scripting engine in the process, by reworking a very inefficient while loop. No ESP.",
-          "FileID": 381339,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/89890/89890-1682273618-1909525012.png",
-          "IsNSFW": false,
-          "ModID": 89890,
-          "Name": "DLC2MiraakScript Fix",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Rcbvxp38XsA=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Textures3.bsa",
-        "Name": "Data_Skyrim - Textures3.bsa",
-        "Size": 1318023565,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "Data\\Skyrim - Textures3.bsa",
-          "GameVersion": "1.4.15.0",
-          "Hash": "Rcbvxp38XsA="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "u5F/Ay5qn2Q=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=40021\nfileID=206959",
-        "Name": "Riften Docks Overhaul 2.0-40021-2-0-1622650162.zip",
-        "Size": 35519877,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "marxercise flintone zebra0 Urtho AgentW robertgk2017",
-          "Description": "Docks overhaul for Riften created by combining and tweaking several high-quality mods.",
-          "FileID": 206959,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/40021/40021-1678467069-796910316.jpeg",
-          "IsNSFW": false,
-          "ModID": 40021,
-          "Name": "Riften Docks Overhaul",
-          "Version": "2.5.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "sYSmn2CQkd8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=77677\nfileID=326611",
-        "Name": "Small VR Fixes-77677-1-0-1666748458.zip",
-        "Size": 292616,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "doodlum",
-          "Description": "Some small VR fixes.",
-          "FileID": 326611,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/77677/77677-1666749027-2038927704.png",
-          "IsNSFW": false,
-          "ModID": 77677,
-          "Name": "Small VR Fixes",
-          "Version": "1.0"
+          "Hash": "D0miqVl0Z0U="
         }
       }
     },
@@ -14860,202 +14802,223 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "f/BDcdlsg6w=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_FRENCH.DLSTRINGS",
-        "Name": "Data_Strings_Dawnguard_FRENCH.DLSTRINGS",
-        "Size": 129919,
+        "Hash": "GSkcjrmW48g=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_ENGLISH.STRINGS",
+        "Name": "Data_Strings_Dawnguard_ENGLISH.STRINGS",
+        "Size": 100234,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dawnguard_FRENCH.DLSTRINGS",
+          "GameFile": "Data\\Strings\\Dawnguard_ENGLISH.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "f/BDcdlsg6w="
+          "Hash": "GSkcjrmW48g="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Ag68qQPm8bI=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_Russian.DLSTRINGS",
-        "Name": "Data_Strings_Dawnguard_Russian.DLSTRINGS",
-        "Size": 193762,
+        "Hash": "VI4o0T4r13M=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_Polish.STRINGS",
+        "Name": "Data_Strings_Dawnguard_Polish.STRINGS",
+        "Size": 111583,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dawnguard_Russian.DLSTRINGS",
+          "GameFile": "Data\\Strings\\Dawnguard_Polish.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "Ag68qQPm8bI="
+          "Hash": "VI4o0T4r13M="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qoCp7k8TvSQ=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_GERMAN.DLSTRINGS",
-        "Name": "Data_Strings_Dragonborn_GERMAN.DLSTRINGS",
-        "Size": 372651,
+        "Hash": "YWHjTTIK6bw=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_FRENCH.STRINGS",
+        "Name": "Data_Strings_Dragonborn_FRENCH.STRINGS",
+        "Size": 171479,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dragonborn_GERMAN.DLSTRINGS",
+          "GameFile": "Data\\Strings\\Dragonborn_FRENCH.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "qoCp7k8TvSQ="
+          "Hash": "YWHjTTIK6bw="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Nyk0PFq7sS0=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_SPANISH.DLSTRINGS",
-        "Name": "Data_Strings_Dragonborn_SPANISH.DLSTRINGS",
-        "Size": 346687,
+        "Hash": "yc9vzUOS/4A=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_Russian.STRINGS",
+        "Name": "Data_Strings_Dragonborn_Russian.STRINGS",
+        "Size": 250939,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dragonborn_SPANISH.DLSTRINGS",
+          "GameFile": "Data\\Strings\\Dragonborn_Russian.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "Nyk0PFq7sS0="
+          "Hash": "yc9vzUOS/4A="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yQzEiGUWx9U=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_ITALIAN.DLSTRINGS",
-        "Name": "Data_Strings_HearthFires_ITALIAN.DLSTRINGS",
-        "Size": 21237,
+        "Hash": "6lyzR32C0BA=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_GERMAN.STRINGS",
+        "Name": "Data_Strings_HearthFires_GERMAN.STRINGS",
+        "Size": 37554,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\HearthFires_ITALIAN.DLSTRINGS",
+          "GameFile": "Data\\Strings\\HearthFires_GERMAN.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "yQzEiGUWx9U="
+          "Hash": "6lyzR32C0BA="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0o68UzsrzeM=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_ENGLISH.DLSTRINGS",
-        "Name": "Data_Strings_Skyrim_ENGLISH.DLSTRINGS",
-        "Size": 2443149,
+        "Hash": "8Cgn2RaVQS0=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_SPANISH.STRINGS",
+        "Name": "Data_Strings_HearthFires_SPANISH.STRINGS",
+        "Size": 38999,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Skyrim_ENGLISH.DLSTRINGS",
+          "GameFile": "Data\\Strings\\HearthFires_SPANISH.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "0o68UzsrzeM="
+          "Hash": "8Cgn2RaVQS0="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VXHiZQfh7u0=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_Polish.DLSTRINGS",
-        "Name": "Data_Strings_Skyrim_Polish.DLSTRINGS",
-        "Size": 2599602,
+        "Hash": "z5EhgfMHP1s=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_ITALIAN.STRINGS",
+        "Name": "Data_Strings_Skyrim_ITALIAN.STRINGS",
+        "Size": 889088,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Skyrim_Polish.DLSTRINGS",
+          "GameFile": "Data\\Strings\\Skyrim_ITALIAN.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "VXHiZQfh7u0="
+          "Hash": "z5EhgfMHP1s="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KwCWPoIiLr8=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_FRENCH.DLSTRINGS",
-        "Name": "Data_Strings_Update_FRENCH.DLSTRINGS",
-        "Size": 51395,
+        "Hash": "Q5+H5dAD3Jg=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_ENGLISH.STRINGS",
+        "Name": "Data_Strings_Update_ENGLISH.STRINGS",
+        "Size": 22817,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Update_FRENCH.DLSTRINGS",
+          "GameFile": "Data\\Strings\\Update_ENGLISH.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "KwCWPoIiLr8="
+          "Hash": "Q5+H5dAD3Jg="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "l4/AV1S+gJw=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_Russian.DLSTRINGS",
-        "Name": "Data_Strings_Update_Russian.DLSTRINGS",
-        "Size": 75572,
+        "Hash": "bOT8kEK4h08=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_Polish.STRINGS",
+        "Name": "Data_Strings_Update_Polish.STRINGS",
+        "Size": 25303,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Update_Russian.DLSTRINGS",
+          "GameFile": "Data\\Strings\\Update_Polish.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "l4/AV1S+gJw="
+          "Hash": "bOT8kEK4h08="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VVWI289ccZU=",
-        "Meta": "[General]\ngameName=skyrim\nmodID=62894\nfileID=1000215238",
-        "Name": "NotSoFast-MainQuestV14-62894-1-4.7z",
-        "Size": 49249,
+        "Hash": "qrCpjbvR9U0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=89890\nfileID=381339",
+        "Name": "DLC2MiraakScript-89890-1-0-0-1682276775.7z",
+        "Size": 2738,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CDCooley",
-          "Description": "Introduces pauses in the otherwise hectic pace of the main quest and alters a few other plot points along the way. The actual time delays and whether the Season Unending negotiations are skipped can be configured with MCM or the console.",
-          "FileID": 1000215238,
-          "GameName": "Skyrim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/110/images/62894-1-1424421306.jpg",
-          "IsNSFW": false,
-          "ModID": 62894,
-          "Name": "Not So Fast - Main Quest",
-          "Version": "1.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kYVBvzzlhfE=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=openvr_api.dll",
-        "Name": "openvr_api.dll",
-        "Size": 598816,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "openvr_api.dll",
-          "GameVersion": "1.4.15.0",
-          "Hash": "kYVBvzzlhfE="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "jxT+eKwkCj8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=27782\nfileID=142773",
-        "Name": "SkyrimVRTools-27782-2-3-BETA-1590789255.zip",
-        "Size": 229135,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SkyrimAlternativeDevelopers",
-          "Description": "Providing OpenVR input information and control as a service to other Skyrim VR mods.",
-          "FileID": 142773,
+          "Author": "ferrari365",
+          "Description": "Fixes the DLC2MiraakScript to not take up all of the game\u0027s scripting resources and wrecking the scripting engine in the process, by reworking a very inefficient while loop. No ESP.",
+          "FileID": 381339,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27782/27782-1564366114-1205993652.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/89890/89890-1682273618-1909525012.png",
           "IsNSFW": false,
-          "ModID": 27782,
-          "Name": "Skyrim VR Tools",
-          "Version": "2.3-BETA"
+          "ModID": 89890,
+          "Name": "DLC2MiraakScript Fix",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Rcbvxp38XsA=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Textures3.bsa",
+        "Name": "Data_Skyrim - Textures3.bsa",
+        "Size": 1318023565,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "Data\\Skyrim - Textures3.bsa",
+          "GameVersion": "1.4.15.0",
+          "Hash": "Rcbvxp38XsA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "u5F/Ay5qn2Q=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=40021\nfileID=206959",
+        "Name": "Riften Docks Overhaul 2.0-40021-2-0-1622650162.zip",
+        "Size": 35519877,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "marxercise flintone zebra0 Urtho AgentW robertgk2017",
+          "Description": "Docks overhaul for Riften created by combining and tweaking several high-quality mods.",
+          "FileID": 206959,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/40021/40021-1678467069-796910316.jpeg",
+          "IsNSFW": false,
+          "ModID": 40021,
+          "Name": "Riften Docks Overhaul",
+          "Version": "2.5.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sYSmn2CQkd8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=77677\nfileID=326611",
+        "Name": "Small VR Fixes-77677-1-0-1666748458.zip",
+        "Size": 292616,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "doodlum",
+          "Description": "Some small VR fixes.",
+          "FileID": 326611,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/77677/77677-1666749027-2038927704.png",
+          "IsNSFW": false,
+          "ModID": 77677,
+          "Name": "Small VR Fixes",
+          "Version": "1.0"
         }
       }
     },
@@ -15472,165 +15435,202 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ozRojGAo/eE=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_FRENCH.ILSTRINGS",
-        "Name": "Data_Strings_Dawnguard_FRENCH.ILSTRINGS",
-        "Size": 333347,
+        "Hash": "f/BDcdlsg6w=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_FRENCH.DLSTRINGS",
+        "Name": "Data_Strings_Dawnguard_FRENCH.DLSTRINGS",
+        "Size": 129919,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dawnguard_FRENCH.ILSTRINGS",
+          "GameFile": "Data\\Strings\\Dawnguard_FRENCH.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "ozRojGAo/eE="
+          "Hash": "f/BDcdlsg6w="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/I73Xd6lkic=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_Russian.ILSTRINGS",
-        "Name": "Data_Strings_Dawnguard_Russian.ILSTRINGS",
-        "Size": 472487,
+        "Hash": "Ag68qQPm8bI=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_Russian.DLSTRINGS",
+        "Name": "Data_Strings_Dawnguard_Russian.DLSTRINGS",
+        "Size": 193762,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dawnguard_Russian.ILSTRINGS",
+          "GameFile": "Data\\Strings\\Dawnguard_Russian.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "/I73Xd6lkic="
+          "Hash": "Ag68qQPm8bI="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wOLOEAwJ29o=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_GERMAN.ILSTRINGS",
-        "Name": "Data_Strings_Dragonborn_GERMAN.ILSTRINGS",
-        "Size": 426864,
+        "Hash": "qoCp7k8TvSQ=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_GERMAN.DLSTRINGS",
+        "Name": "Data_Strings_Dragonborn_GERMAN.DLSTRINGS",
+        "Size": 372651,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dragonborn_GERMAN.ILSTRINGS",
+          "GameFile": "Data\\Strings\\Dragonborn_GERMAN.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "wOLOEAwJ29o="
+          "Hash": "qoCp7k8TvSQ="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "fMbn4ijigQ8=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_SPANISH.ILSTRINGS",
-        "Name": "Data_Strings_Dragonborn_SPANISH.ILSTRINGS",
-        "Size": 397141,
+        "Hash": "Nyk0PFq7sS0=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_SPANISH.DLSTRINGS",
+        "Name": "Data_Strings_Dragonborn_SPANISH.DLSTRINGS",
+        "Size": 346687,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dragonborn_SPANISH.ILSTRINGS",
+          "GameFile": "Data\\Strings\\Dragonborn_SPANISH.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "fMbn4ijigQ8="
+          "Hash": "Nyk0PFq7sS0="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ukHiiEcQ7vo=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_ITALIAN.ILSTRINGS",
-        "Name": "Data_Strings_HearthFires_ITALIAN.ILSTRINGS",
-        "Size": 48156,
+        "Hash": "yQzEiGUWx9U=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_ITALIAN.DLSTRINGS",
+        "Name": "Data_Strings_HearthFires_ITALIAN.DLSTRINGS",
+        "Size": 21237,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\HearthFires_ITALIAN.ILSTRINGS",
+          "GameFile": "Data\\Strings\\HearthFires_ITALIAN.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "ukHiiEcQ7vo="
+          "Hash": "yQzEiGUWx9U="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ook78YBOTfo=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_ENGLISH.ILSTRINGS",
-        "Name": "Data_Strings_Skyrim_ENGLISH.ILSTRINGS",
-        "Size": 2711850,
+        "Hash": "0o68UzsrzeM=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_ENGLISH.DLSTRINGS",
+        "Name": "Data_Strings_Skyrim_ENGLISH.DLSTRINGS",
+        "Size": 2443149,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Skyrim_ENGLISH.ILSTRINGS",
+          "GameFile": "Data\\Strings\\Skyrim_ENGLISH.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "ook78YBOTfo="
+          "Hash": "0o68UzsrzeM="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5zMuprmIgqM=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_Polish.ILSTRINGS",
-        "Name": "Data_Strings_Skyrim_Polish.ILSTRINGS",
-        "Size": 2834080,
+        "Hash": "VXHiZQfh7u0=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_Polish.DLSTRINGS",
+        "Name": "Data_Strings_Skyrim_Polish.DLSTRINGS",
+        "Size": 2599602,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Skyrim_Polish.ILSTRINGS",
+          "GameFile": "Data\\Strings\\Skyrim_Polish.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "5zMuprmIgqM="
+          "Hash": "VXHiZQfh7u0="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+HQ6Xunf0ho=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_FRENCH.ILSTRINGS",
-        "Name": "Data_Strings_Update_FRENCH.ILSTRINGS",
-        "Size": 14667,
+        "Hash": "KwCWPoIiLr8=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_FRENCH.DLSTRINGS",
+        "Name": "Data_Strings_Update_FRENCH.DLSTRINGS",
+        "Size": 51395,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Update_FRENCH.ILSTRINGS",
+          "GameFile": "Data\\Strings\\Update_FRENCH.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "+HQ6Xunf0ho="
+          "Hash": "KwCWPoIiLr8="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Kbz5bL6fLBM=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_Russian.ILSTRINGS",
-        "Name": "Data_Strings_Update_Russian.ILSTRINGS",
-        "Size": 20953,
+        "Hash": "l4/AV1S+gJw=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_Russian.DLSTRINGS",
+        "Name": "Data_Strings_Update_Russian.DLSTRINGS",
+        "Size": 75572,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Update_Russian.ILSTRINGS",
+          "GameFile": "Data\\Strings\\Update_Russian.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "Kbz5bL6fLBM="
+          "Hash": "l4/AV1S+gJw="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "sgdcAiyMx5g=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=85389\nfileID=441488",
-        "Name": "opencomposite_skyrim_vr_fixes-85389-1-8-1699643048.zip",
-        "Size": 662168,
+        "Hash": "VVWI289ccZU=",
+        "Meta": "[General]\ngameName=skyrim\nmodID=62894\nfileID=1000215238",
+        "Name": "NotSoFast-MainQuestV14-62894-1-4.7z",
+        "Size": 49249,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ColdBomb1",
-          "Description": "A custom openvr_api.dll build of the openxr branch of OpenComposite that I have been working on to fix various bugs with Skyrim VR.",
-          "FileID": 441488,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/85389/85389-1676879325-240181477.jpeg",
+          "Author": "CDCooley",
+          "Description": "Introduces pauses in the otherwise hectic pace of the main quest and alters a few other plot points along the way. The actual time delays and whether the Season Unending negotiations are skipped can be configured with MCM or the console.",
+          "FileID": 1000215238,
+          "GameName": "Skyrim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/110/images/62894-1-1424421306.jpg",
           "IsNSFW": false,
-          "ModID": 85389,
-          "Name": "Skyrim VR OpenComposite Fixes Custom Build",
-          "Version": "1.6.1"
+          "ModID": 62894,
+          "Name": "Not So Fast - Main Quest",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kYVBvzzlhfE=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=openvr_api.dll",
+        "Name": "openvr_api.dll",
+        "Size": 598816,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "openvr_api.dll",
+          "GameVersion": "1.4.15.0",
+          "Hash": "kYVBvzzlhfE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jxT+eKwkCj8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=27782\nfileID=142773",
+        "Name": "SkyrimVRTools-27782-2-3-BETA-1590789255.zip",
+        "Size": 229135,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SkyrimAlternativeDevelopers",
+          "Description": "Providing OpenVR input information and control as a service to other Skyrim VR mods.",
+          "FileID": 142773,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27782/27782-1564366114-1205993652.png",
+          "IsNSFW": false,
+          "ModID": 27782,
+          "Name": "Skyrim VR Tools",
+          "Version": "2.3-BETA"
         }
       }
     },
@@ -16094,6 +16094,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "sgdcAiyMx5g=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=85389\nfileID=441488",
+        "Name": "opencomposite_skyrim_vr_fixes-85389-1-8-1699643048.zip",
+        "Size": 662168,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ColdBomb1",
+          "Description": "A custom openvr_api.dll build of the openxr branch of OpenComposite that I have been working on to fix various bugs with Skyrim VR.",
+          "FileID": 441488,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/85389/85389-1676879325-240181477.jpeg",
+          "IsNSFW": false,
+          "ModID": 85389,
+          "Name": "Skyrim VR OpenComposite Fixes Custom Build",
+          "Version": "1.6.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "NHPsR+aV5mI=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=1094\nfileID=1119",
         "Name": "Well-Stocked Alchemists_v1.0.0_MAIN-1094-1-0-0.7z",
@@ -16157,202 +16178,144 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SZmbZRhZQFE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=16242\nfileID=55888",
-        "Name": "SkyrimVR and Fallout4VR Configuration Tool-16242-1-3-0-20687.zip",
-        "Size": 1024639,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Bilago",
-          "Description": "This allows you to tweak the VR Version of Skyrim from within a single easy to use application, instead of searching and adding to configuration files.",
-          "FileID": 55888,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/16242/16242-1522715008-1702140150.png",
-          "IsNSFW": false,
-          "ModID": 16242,
-          "Name": "Skyrim VR Configuration Tool",
-          "Version": "1.3.0.20687"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "GlDManhyIqg=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_FRENCH.STRINGS",
-        "Name": "Data_Strings_Dawnguard_FRENCH.STRINGS",
-        "Size": 115456,
+        "Hash": "ozRojGAo/eE=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_FRENCH.ILSTRINGS",
+        "Name": "Data_Strings_Dawnguard_FRENCH.ILSTRINGS",
+        "Size": 333347,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dawnguard_FRENCH.STRINGS",
+          "GameFile": "Data\\Strings\\Dawnguard_FRENCH.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "GlDManhyIqg="
+          "Hash": "ozRojGAo/eE="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WvZhW7Cn76I=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_Russian.STRINGS",
-        "Name": "Data_Strings_Dawnguard_Russian.STRINGS",
-        "Size": 157751,
+        "Hash": "/I73Xd6lkic=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_Russian.ILSTRINGS",
+        "Name": "Data_Strings_Dawnguard_Russian.ILSTRINGS",
+        "Size": 472487,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dawnguard_Russian.STRINGS",
+          "GameFile": "Data\\Strings\\Dawnguard_Russian.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "WvZhW7Cn76I="
+          "Hash": "/I73Xd6lkic="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "02i2lY27mos=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_GERMAN.STRINGS",
-        "Name": "Data_Strings_Dragonborn_GERMAN.STRINGS",
-        "Size": 169849,
+        "Hash": "wOLOEAwJ29o=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_GERMAN.ILSTRINGS",
+        "Name": "Data_Strings_Dragonborn_GERMAN.ILSTRINGS",
+        "Size": 426864,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dragonborn_GERMAN.STRINGS",
+          "GameFile": "Data\\Strings\\Dragonborn_GERMAN.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "02i2lY27mos="
+          "Hash": "wOLOEAwJ29o="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "aO54Vg9OmtA=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_SPANISH.STRINGS",
-        "Name": "Data_Strings_Dragonborn_SPANISH.STRINGS",
-        "Size": 174094,
+        "Hash": "fMbn4ijigQ8=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_SPANISH.ILSTRINGS",
+        "Name": "Data_Strings_Dragonborn_SPANISH.ILSTRINGS",
+        "Size": 397141,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dragonborn_SPANISH.STRINGS",
+          "GameFile": "Data\\Strings\\Dragonborn_SPANISH.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "aO54Vg9OmtA="
+          "Hash": "fMbn4ijigQ8="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "omVY1jGjy0g=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_ITALIAN.STRINGS",
-        "Name": "Data_Strings_HearthFires_ITALIAN.STRINGS",
-        "Size": 37246,
+        "Hash": "ukHiiEcQ7vo=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_ITALIAN.ILSTRINGS",
+        "Name": "Data_Strings_HearthFires_ITALIAN.ILSTRINGS",
+        "Size": 48156,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\HearthFires_ITALIAN.STRINGS",
+          "GameFile": "Data\\Strings\\HearthFires_ITALIAN.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "omVY1jGjy0g="
+          "Hash": "ukHiiEcQ7vo="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PWvps2LC6zI=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_ENGLISH.STRINGS",
-        "Name": "Data_Strings_Skyrim_ENGLISH.STRINGS",
-        "Size": 833808,
+        "Hash": "ook78YBOTfo=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_ENGLISH.ILSTRINGS",
+        "Name": "Data_Strings_Skyrim_ENGLISH.ILSTRINGS",
+        "Size": 2711850,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Skyrim_ENGLISH.STRINGS",
+          "GameFile": "Data\\Strings\\Skyrim_ENGLISH.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "PWvps2LC6zI="
+          "Hash": "ook78YBOTfo="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hy6cZpJuRgY=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_Polish.STRINGS",
-        "Name": "Data_Strings_Skyrim_Polish.STRINGS",
-        "Size": 902655,
+        "Hash": "5zMuprmIgqM=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_Polish.ILSTRINGS",
+        "Name": "Data_Strings_Skyrim_Polish.ILSTRINGS",
+        "Size": 2834080,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Skyrim_Polish.STRINGS",
+          "GameFile": "Data\\Strings\\Skyrim_Polish.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "hy6cZpJuRgY="
+          "Hash": "5zMuprmIgqM="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "OACk/fA4yVw=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_FRENCH.STRINGS",
-        "Name": "Data_Strings_Update_FRENCH.STRINGS",
-        "Size": 25914,
+        "Hash": "+HQ6Xunf0ho=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_FRENCH.ILSTRINGS",
+        "Name": "Data_Strings_Update_FRENCH.ILSTRINGS",
+        "Size": 14667,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Update_FRENCH.STRINGS",
+          "GameFile": "Data\\Strings\\Update_FRENCH.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "OACk/fA4yVw="
+          "Hash": "+HQ6Xunf0ho="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "UTCiMPlG8U4=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_Russian.STRINGS",
-        "Name": "Data_Strings_Update_Russian.STRINGS",
-        "Size": 37228,
+        "Hash": "Kbz5bL6fLBM=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_Russian.ILSTRINGS",
+        "Name": "Data_Strings_Update_Russian.ILSTRINGS",
+        "Size": 20953,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Update_Russian.STRINGS",
+          "GameFile": "Data\\Strings\\Update_Russian.ILSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "UTCiMPlG8U4="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "JbYP1w8FSfY=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Skyrim.ini",
-        "Name": "Skyrim.ini",
-        "Size": 1859,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "Skyrim.ini",
-          "GameVersion": "1.4.15.0",
-          "Hash": "JbYP1w8FSfY="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "LchLhBSkRq4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=2340\nfileID=5402",
-        "Name": "Yada Yada Whatever-2340-1-1.zip",
-        "Size": 65448,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Fhaarkas",
-          "Description": "This is a start menu without Bethesda logo because screw Bethesda logo. It looks slightly different. It is compatible with all 10 million main menu replacer mods.",
-          "FileID": 5402,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/2340-0-1478095291.jpg",
-          "IsNSFW": false,
-          "ModID": 2340,
-          "Name": "Remove Bethesda Logo Among Other Things",
-          "Version": "1.1"
+          "Hash": "Kbz5bL6fLBM="
         }
       }
     },
@@ -16779,144 +16742,202 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "g9V0wQHu0Bo=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_GERMAN.DLSTRINGS",
-        "Name": "Data_Strings_Dawnguard_GERMAN.DLSTRINGS",
-        "Size": 138392,
+        "Hash": "SZmbZRhZQFE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=16242\nfileID=55888",
+        "Name": "SkyrimVR and Fallout4VR Configuration Tool-16242-1-3-0-20687.zip",
+        "Size": 1024639,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dawnguard_GERMAN.DLSTRINGS",
-          "GameVersion": "1.4.15.0",
-          "Hash": "g9V0wQHu0Bo="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Bilago",
+          "Description": "This allows you to tweak the VR Version of Skyrim from within a single easy to use application, instead of searching and adding to configuration files.",
+          "FileID": 55888,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/16242/16242-1522715008-1702140150.png",
+          "IsNSFW": false,
+          "ModID": 16242,
+          "Name": "Skyrim VR Configuration Tool",
+          "Version": "1.3.0.20687"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uRZ0+zevb90=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_SPANISH.DLSTRINGS",
-        "Name": "Data_Strings_Dawnguard_SPANISH.DLSTRINGS",
-        "Size": 128924,
+        "Hash": "GlDManhyIqg=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_FRENCH.STRINGS",
+        "Name": "Data_Strings_Dawnguard_FRENCH.STRINGS",
+        "Size": 115456,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dawnguard_SPANISH.DLSTRINGS",
+          "GameFile": "Data\\Strings\\Dawnguard_FRENCH.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "uRZ0+zevb90="
+          "Hash": "GlDManhyIqg="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "rJosM/02UIg=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_ITALIAN.DLSTRINGS",
-        "Name": "Data_Strings_Dragonborn_ITALIAN.DLSTRINGS",
-        "Size": 338695,
+        "Hash": "WvZhW7Cn76I=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_Russian.STRINGS",
+        "Name": "Data_Strings_Dawnguard_Russian.STRINGS",
+        "Size": 157751,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dragonborn_ITALIAN.DLSTRINGS",
+          "GameFile": "Data\\Strings\\Dawnguard_Russian.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "rJosM/02UIg="
+          "Hash": "WvZhW7Cn76I="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "F+WZ/nCLdgo=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_ENGLISH.DLSTRINGS",
-        "Name": "Data_Strings_HearthFires_ENGLISH.DLSTRINGS",
-        "Size": 22504,
+        "Hash": "02i2lY27mos=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_GERMAN.STRINGS",
+        "Name": "Data_Strings_Dragonborn_GERMAN.STRINGS",
+        "Size": 169849,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\HearthFires_ENGLISH.DLSTRINGS",
+          "GameFile": "Data\\Strings\\Dragonborn_GERMAN.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "F+WZ/nCLdgo="
+          "Hash": "02i2lY27mos="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SdvGJDBMJyE=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_Polish.DLSTRINGS",
-        "Name": "Data_Strings_HearthFires_Polish.DLSTRINGS",
-        "Size": 23077,
+        "Hash": "aO54Vg9OmtA=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_SPANISH.STRINGS",
+        "Name": "Data_Strings_Dragonborn_SPANISH.STRINGS",
+        "Size": 174094,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\HearthFires_Polish.DLSTRINGS",
+          "GameFile": "Data\\Strings\\Dragonborn_SPANISH.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "SdvGJDBMJyE="
+          "Hash": "aO54Vg9OmtA="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8P4Qj0SHh4w=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_FRENCH.DLSTRINGS",
-        "Name": "Data_Strings_Skyrim_FRENCH.DLSTRINGS",
-        "Size": 2795759,
+        "Hash": "omVY1jGjy0g=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_ITALIAN.STRINGS",
+        "Name": "Data_Strings_HearthFires_ITALIAN.STRINGS",
+        "Size": 37246,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Skyrim_FRENCH.DLSTRINGS",
+          "GameFile": "Data\\Strings\\HearthFires_ITALIAN.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "8P4Qj0SHh4w="
+          "Hash": "omVY1jGjy0g="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "f/jCpO/JuUQ=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_Russian.DLSTRINGS",
-        "Name": "Data_Strings_Skyrim_Russian.DLSTRINGS",
-        "Size": 4152655,
+        "Hash": "PWvps2LC6zI=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_ENGLISH.STRINGS",
+        "Name": "Data_Strings_Skyrim_ENGLISH.STRINGS",
+        "Size": 833808,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Skyrim_Russian.DLSTRINGS",
+          "GameFile": "Data\\Strings\\Skyrim_ENGLISH.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "f/jCpO/JuUQ="
+          "Hash": "PWvps2LC6zI="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "fbKLxwFeISA=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_GERMAN.DLSTRINGS",
-        "Name": "Data_Strings_Update_GERMAN.DLSTRINGS",
-        "Size": 54180,
+        "Hash": "hy6cZpJuRgY=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_Polish.STRINGS",
+        "Name": "Data_Strings_Skyrim_Polish.STRINGS",
+        "Size": 902655,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Update_GERMAN.DLSTRINGS",
+          "GameFile": "Data\\Strings\\Skyrim_Polish.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "fbKLxwFeISA="
+          "Hash": "hy6cZpJuRgY="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qGNnrn53R6c=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_SPANISH.DLSTRINGS",
-        "Name": "Data_Strings_Update_SPANISH.DLSTRINGS",
-        "Size": 50010,
+        "Hash": "OACk/fA4yVw=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_FRENCH.STRINGS",
+        "Name": "Data_Strings_Update_FRENCH.STRINGS",
+        "Size": 25914,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Update_SPANISH.DLSTRINGS",
+          "GameFile": "Data\\Strings\\Update_FRENCH.STRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "qGNnrn53R6c="
+          "Hash": "OACk/fA4yVw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UTCiMPlG8U4=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_Russian.STRINGS",
+        "Name": "Data_Strings_Update_Russian.STRINGS",
+        "Size": 37228,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "Data\\Strings\\Update_Russian.STRINGS",
+          "GameVersion": "1.4.15.0",
+          "Hash": "UTCiMPlG8U4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JbYP1w8FSfY=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Skyrim.ini",
+        "Name": "Skyrim.ini",
+        "Size": 1859,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "Skyrim.ini",
+          "GameVersion": "1.4.15.0",
+          "Hash": "JbYP1w8FSfY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LchLhBSkRq4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=2340\nfileID=5402",
+        "Name": "Yada Yada Whatever-2340-1-1.zip",
+        "Size": 65448,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Fhaarkas",
+          "Description": "This is a start menu without Bethesda logo because screw Bethesda logo. It looks slightly different. It is compatible with all 10 million main menu replacer mods.",
+          "FileID": 5402,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/2340-0-1478095291.jpg",
+          "IsNSFW": false,
+          "ModID": 2340,
+          "Name": "Remove Bethesda Logo Among Other Things",
+          "Version": "1.1"
         }
       }
     },
@@ -17280,165 +17301,144 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hZlGkCX6skk=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_GERMAN.ILSTRINGS",
-        "Name": "Data_Strings_Dawnguard_GERMAN.ILSTRINGS",
-        "Size": 347705,
+        "Hash": "g9V0wQHu0Bo=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_GERMAN.DLSTRINGS",
+        "Name": "Data_Strings_Dawnguard_GERMAN.DLSTRINGS",
+        "Size": 138392,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dawnguard_GERMAN.ILSTRINGS",
+          "GameFile": "Data\\Strings\\Dawnguard_GERMAN.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "hZlGkCX6skk="
+          "Hash": "g9V0wQHu0Bo="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "feTKd/wRPxM=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_SPANISH.ILSTRINGS",
-        "Name": "Data_Strings_Dawnguard_SPANISH.ILSTRINGS",
-        "Size": 313302,
+        "Hash": "uRZ0+zevb90=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dawnguard_SPANISH.DLSTRINGS",
+        "Name": "Data_Strings_Dawnguard_SPANISH.DLSTRINGS",
+        "Size": 128924,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dawnguard_SPANISH.ILSTRINGS",
+          "GameFile": "Data\\Strings\\Dawnguard_SPANISH.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "feTKd/wRPxM="
+          "Hash": "uRZ0+zevb90="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QgUj5kX3hOk=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_ITALIAN.ILSTRINGS",
-        "Name": "Data_Strings_Dragonborn_ITALIAN.ILSTRINGS",
-        "Size": 382999,
+        "Hash": "rJosM/02UIg=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Dragonborn_ITALIAN.DLSTRINGS",
+        "Name": "Data_Strings_Dragonborn_ITALIAN.DLSTRINGS",
+        "Size": 338695,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Dragonborn_ITALIAN.ILSTRINGS",
+          "GameFile": "Data\\Strings\\Dragonborn_ITALIAN.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "QgUj5kX3hOk="
+          "Hash": "rJosM/02UIg="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "1oHRxyEIY0M=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_ENGLISH.ILSTRINGS",
-        "Name": "Data_Strings_HearthFires_ENGLISH.ILSTRINGS",
-        "Size": 47550,
+        "Hash": "F+WZ/nCLdgo=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_ENGLISH.DLSTRINGS",
+        "Name": "Data_Strings_HearthFires_ENGLISH.DLSTRINGS",
+        "Size": 22504,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\HearthFires_ENGLISH.ILSTRINGS",
+          "GameFile": "Data\\Strings\\HearthFires_ENGLISH.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "1oHRxyEIY0M="
+          "Hash": "F+WZ/nCLdgo="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "o+0x7Rt+L8U=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_Polish.ILSTRINGS",
-        "Name": "Data_Strings_HearthFires_Polish.ILSTRINGS",
-        "Size": 50726,
+        "Hash": "SdvGJDBMJyE=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\HearthFires_Polish.DLSTRINGS",
+        "Name": "Data_Strings_HearthFires_Polish.DLSTRINGS",
+        "Size": 23077,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\HearthFires_Polish.ILSTRINGS",
+          "GameFile": "Data\\Strings\\HearthFires_Polish.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "o+0x7Rt+L8U="
+          "Hash": "SdvGJDBMJyE="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "P61qmcu2fKc=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_FRENCH.ILSTRINGS",
-        "Name": "Data_Strings_Skyrim_FRENCH.ILSTRINGS",
-        "Size": 3085000,
+        "Hash": "8P4Qj0SHh4w=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_FRENCH.DLSTRINGS",
+        "Name": "Data_Strings_Skyrim_FRENCH.DLSTRINGS",
+        "Size": 2795759,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Skyrim_FRENCH.ILSTRINGS",
+          "GameFile": "Data\\Strings\\Skyrim_FRENCH.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "P61qmcu2fKc="
+          "Hash": "8P4Qj0SHh4w="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bK0B4aIpZOQ=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_Russian.ILSTRINGS",
-        "Name": "Data_Strings_Skyrim_Russian.ILSTRINGS",
-        "Size": 4250834,
+        "Hash": "f/jCpO/JuUQ=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Skyrim_Russian.DLSTRINGS",
+        "Name": "Data_Strings_Skyrim_Russian.DLSTRINGS",
+        "Size": 4152655,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Skyrim_Russian.ILSTRINGS",
+          "GameFile": "Data\\Strings\\Skyrim_Russian.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "bK0B4aIpZOQ="
+          "Hash": "f/jCpO/JuUQ="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5LkhM3gnNCc=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_GERMAN.ILSTRINGS",
-        "Name": "Data_Strings_Update_GERMAN.ILSTRINGS",
-        "Size": 15068,
+        "Hash": "fbKLxwFeISA=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_GERMAN.DLSTRINGS",
+        "Name": "Data_Strings_Update_GERMAN.DLSTRINGS",
+        "Size": 54180,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Update_GERMAN.ILSTRINGS",
+          "GameFile": "Data\\Strings\\Update_GERMAN.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "5LkhM3gnNCc="
+          "Hash": "fbKLxwFeISA="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/Z00DrOOhms=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_SPANISH.ILSTRINGS",
-        "Name": "Data_Strings_Update_SPANISH.ILSTRINGS",
-        "Size": 13775,
+        "Hash": "qGNnrn53R6c=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Strings\\Update_SPANISH.DLSTRINGS",
+        "Name": "Data_Strings_Update_SPANISH.DLSTRINGS",
+        "Size": 50010,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Strings\\Update_SPANISH.ILSTRINGS",
+          "GameFile": "Data\\Strings\\Update_SPANISH.DLSTRINGS",
           "GameVersion": "1.4.15.0",
-          "Hash": "/Z00DrOOhms="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "1pBwTVbS9CE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=35627\nfileID=138987",
-        "Name": "High Res VR Map Markers - Standard-35627-1-1-1589051239.7z",
-        "Size": 1273922,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "vampiredirt",
-          "Description": "Replaces the low-res VR map markers with hi-res ones.",
-          "FileID": 138987,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35627/35627-1588873616-1026739663.jpeg",
-          "IsNSFW": false,
-          "ModID": 35627,
-          "Name": "Hi-Res VR Map Markers",
-          "Version": "1.0"
+          "Hash": "qGNnrn53R6c="
         }
       }
     },
@@ -17550,6 +17550,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "45524Jr3Xu8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=3858\nfileID=6780",
+        "Name": "Optimized Texture for SSE-3858-1-0.zip",
+        "Size": 679637887,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Abendaron",
+          "Description": "Optimized Texture For Skyrim Special Edition.\n\nReduce the filesize of unoptimized vanilla texture",
+          "FileID": 6780,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/3858-0-1478903585.jpg",
+          "IsNSFW": false,
+          "ModID": 3858,
+          "Name": "Simply Optimized Textures for SSE",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Mj8+6rxW6Es=",
         "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Interface.bsa",
         "Name": "Data_Skyrim - Interface.bsa",
@@ -17592,27 +17613,6 @@
           "GameFile": "Data\\Skyrim - Meshes0.bsa",
           "GameVersion": "1.4.15.0",
           "Hash": "MLw2ZGIzsg0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "45524Jr3Xu8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=3858\nfileID=6780",
-        "Name": "Optimized Texture for SSE-3858-1-0.zip",
-        "Size": 679637887,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Abendaron",
-          "Description": "Optimized Texture For Skyrim Special Edition.\n\nReduce the filesize of unoptimized vanilla texture",
-          "FileID": 6780,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/3858-0-1478903585.jpg",
-          "IsNSFW": false,
-          "ModID": 3858,
-          "Name": "Simply Optimized Textures for SSE",
-          "Version": "1.0"
         }
       }
     },
