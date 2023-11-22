@@ -2,7 +2,7 @@
 
 ### Documentation and Instructions for Installer Version 2.2.6, Wabbajack 2.5.2.2+
 
-**NOTE**: Welcome! Before we get started, a note: if you encounter issues with your installation, the Heartland support channel can be found on (Heartland Modlist Support)[https://discord.gg/xQmzNASbz5]. Please direct any and all support queries there.
+**NOTE**: Welcome! Before we get started, a note: if you encounter issues with your installation, checkout [the Troubleshooting section](https://github.com/wabbajack-tools/mod-lists/blob/master/heartland/readme.md#troubleshooting).
 
 ## Mandatory Instructions
 
