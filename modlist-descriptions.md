@@ -33,6 +33,7 @@
     -   [The Phoenix Flavour](#the-phoenix-flavour)
     -   [Tempus Maledictum](#tempus-maledictum)
     -   [TSO - Total Skyrim Overhaul](#tso---total-skyrim-overhaul)
+    -   [Vagabond](#vagabond)
     -   [Wildlander](#wildlander)
     -   [(NSFW)Licentia(NSFW)](#nsfwlicentiansfw)
     -   [(NSFW)Tsukiro(NSFW)](#nsfwtsukironsfw)
@@ -430,6 +431,22 @@ Tempus Maledictum is a LotD-and-quest-focused modlist, complete with the old sch
 TSO is a finely-tuned modlist based on Requiem v1.9.4 and AZ Tweaks. Almost everything has been modified by hand, and is meant to be a challenging experience unlike any you’ve had before. This is very much a game you are meant to experience for yourself without asking for a walkthrough, so be prepared to die a lot while you learn how best to handle the new mechanics.
 
 [TSO Gameplay Guide](https://github.com/NotTotal/Total-Skyrim-Overhaul/blob/master/README.md#gameplay-guide)
+
+---
+
+### [Vagabond](https://github.com/Oghma-Infinium/Vagabond/tree/main)
+
+Vagabond is a Skyrim modlist for Anniversary Edition with a focus on visuals, modern combat, and Legacy of the Dragonborn. Enairim suite is chosen for most gameplay overhauls, including Vokriinator Black for perks. A wide variety of new HDT armors, weapons, spells, monsters, and location overhauls are included for you to uncover. Many new quest mods are picked, all with Legacy of the Dragonborn support in mind. Visually the list has High Fantasy direction, with parallax textures fully integrated, and dense animated forests with full seasons support.
+
+**_Mods to get familiar with:_**
+
+- Perk overhaul for the list is [Vokriinator Black](https://www.nexusmods.com/skyrimspecialedition/mods/26702) which combines perks from [Ordinator](https://www.nexusmods.com/skyrimspecialedition/mods/1137), [Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/26176), [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191), [SPERG](https://www.nexusmods.com/skyrimspecialedition/mods/14180) and [Path of Sorcery](https://www.nexusmods.com/skyrimspecialedition/mods/6660)
+- [Mannaz](https://www.nexusmods.com/skyrimspecialedition/mods/87219) and [Freyr](https://www.nexusmods.com/skyrimspecialedition/mods/88043) overhaul races and standing stones. Each standing stone has unique effect for every race, so make sure to read the modpages for these!
+- [Sacrosanct](https://www.nexusmods.com/skyrimspecialedition/mods/3928) and [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) overhaul vampires and werewolves.
+- [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506) introduces a religion mechanic.
+- [MCO - Modern Combat Overhaul](https://modding-guild.com/mod/attack-mcodxp/) is the core mod for melee combat. It overhauls melee attacks to use attack commitment and combo chaining, similar to other modern action games like Elden Ring and Assassin's Creed Valhalla.
+- [Sets of Skills - Custom Skill Framework](https://www.nexusmods.com/skyrimspecialedition/mods/97855) adds a class based progression. You gain one point every five levels to spend on class skills.
+- [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) is the core content mod of the list. It adds a museum in Solitude where you can display most of the items from Vanilla game as well as many mod-added items. The museum also involves its own questline.
 
 ---
 
