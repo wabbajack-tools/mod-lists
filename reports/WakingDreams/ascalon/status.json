@@ -1,8 +1,8 @@
 {
   "MachineURL": "WakingDreams/ascalon",
   "Name": "Ascalon",
-  "Version": "1.6.2",
-  "ModListHash": "ym0huYW9CN8=",
+  "Version": "1.8.0",
+  "ModListHash": "8+TLE+uFp98=",
   "Archives": [
     {
       "Status": "Valid",
@@ -21,16 +21,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "DAP5vYCZzKA=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\game_main.arc",
-        "Name": "nativePC_rom_game_main.arc",
-        "Size": 23775211,
+        "Hash": "E7RYPUN2q7k=",
+        "Meta": "[General]\ndirectURL=https://github.com/Kaldaien/AgDrag/releases/download/agdrag_011/AgDrag.zip",
+        "Name": "AgDrag.zip",
+        "Size": 568820,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\game_main.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "DAP5vYCZzKA="
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Kaldaien/AgDrag/releases/download/agdrag_011/AgDrag.zip"
         }
       }
     },
@@ -50,21 +48,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "jg2cT23d4rg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=31720\nfileID=359947",
-        "Name": "Root Builder 4.4.2-31720-4-4-2-1676456105.zip",
-        "Size": 823695,
+        "Hash": "74Zht7RqzE8=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=803\nfileID=3692",
+        "Name": "Carry Weight Tweaks-803-2-1680330531.7z",
+        "Size": 1487,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kezyma",
-          "Description": "Root Builder is a Mod Organizer 2 plugin that allows you to manage files in the base game folder through Mod Organizer, leaving your game folder in pristine, vanilla condition!",
-          "FileID": 359947,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31720/31720-1640621042-2144679620.png",
+          "Author": "Maelstrom",
+          "Description": "Multiple stage project of mine that involves taking common \u0027tweaks\u0027 in DD:DA, recreating them while also providing streamlined installation instructions and merge-friendly structures in an effort to make modding easier.\n\n\n\nThis will cover Carry Weight. See Description.",
+          "FileID": 3692,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/803/803-1668760909-807118635.jpeg",
           "IsNSFW": false,
-          "ModID": 31720,
-          "Name": "Kezyma\u0027s Root Builder for Mod Organizer",
-          "Version": "4.3.3"
+          "ModID": 803,
+          "Name": "Maelstrom\u0027s MME Series 2 - Carry Weight",
+          "Version": "2"
         }
       }
     },
@@ -113,21 +111,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cOWKIEHExxo=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=479\nfileID=2742",
-        "Name": "4k Adventurer\u0027s Cloak (Male)-479-0-5-1597627576.zip",
-        "Size": 6914709,
+        "Hash": "jg2cT23d4rg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=31720\nfileID=359947",
+        "Name": "Root Builder 4.4.2-31720-4-4-2-1676456105.zip",
+        "Size": 823695,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LDKSuperDante",
-          "Description": "July 15th, 2022 Update: Per a few user requests, I\u0027ve done my best to recreate the Easy Clothing ID mod with my HD Icons. These files are also available on my Cleaner Female Body Texture page, since I merged the HD icons into my latest skin texture release.",
-          "FileID": 2742,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/479/479-1575704498-1987086333.jpeg",
+          "Author": "Kezyma",
+          "Description": "Root Builder is a Mod Organizer 2 plugin that allows you to manage files in the base game folder through Mod Organizer, leaving your game folder in pristine, vanilla condition!",
+          "FileID": 359947,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31720/31720-1640621042-2144679620.png",
           "IsNSFW": false,
-          "ModID": 479,
-          "Name": "Remastering Dragon\u0027s Dogma Sneak Peek",
-          "Version": "0.1"
+          "ModID": 31720,
+          "Name": "Kezyma\u0027s Root Builder for Mod Organizer",
+          "Version": "4.5.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "p0fHSfQq/Sg=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=140\nfileID=1119",
+        "Name": "NCC-AlchemicalCloak-Male-140-.zip",
+        "Size": 297677,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BonusJZ",
+          "Description": "No Cliping Cloaks project",
+          "FileID": 1119,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/140-0-1454901877.png",
+          "IsNSFW": false,
+          "ModID": 140,
+          "Name": "No Cliping Cloaks",
+          "Version": "0.3"
         }
       }
     },
@@ -197,148 +216,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kPG5v7xmdKk=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=379\nfileID=2005",
-        "Name": "Spell Mod Pack-379-1-0.7z",
-        "Size": 6205075,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Signette",
-          "Description": "Ultimate version of all spell mods I have created.",
-          "FileID": 2005,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/379-0-1495758557.jpg",
-          "IsNSFW": false,
-          "ModID": 379,
-          "Name": "Spell Mod Pack",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kbTKzohOWiM=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=733\nfileID=3287",
-        "Name": "1.4 update-733-1-4-1656388863.zip",
-        "Size": 74804163,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Acetaris",
-          "Description": "Replace 3DA battle theme / boss theme with their DDO counter part. \n\nI don\u0027t plan to replace the whole 3DA ost, but mostly battle theme.",
-          "FileID": 3287,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/733/733-1656142842-1563217932.jpeg",
-          "IsNSFW": false,
-          "ModID": 733,
-          "Name": "Dragon\u0027s Dogma online combat music project",
-          "Version": "1.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "rIOKkdxJzTc=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=97\nfileID=1014",
-        "Name": "HD-HP with HD BARS and CUSTOM ICONS-97-0-4.rar",
-        "Size": 27458598,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "vj88",
-          "Description": "This mod increases HP (exp and gold too) numbers, bars,various icons and mini map markers textures quality !!!",
-          "FileID": 1014,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/97-0-1453996342.jpg",
-          "IsNSFW": false,
-          "ModID": 97,
-          "Name": "HD HP - Custom GUI textures and icons Overhaul",
-          "Version": "0.46tmf"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "74Zht7RqzE8=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=803\nfileID=3692",
-        "Name": "Carry Weight Tweaks-803-2-1680330531.7z",
-        "Size": 1487,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Maelstrom",
-          "Description": "Multiple stage project of mine that involves taking common \u0027tweaks\u0027 in DD:DA, recreating them while also providing streamlined installation instructions and merge-friendly structures in an effort to make modding easier.\n\n\n\nThis will cover Carry Weight. See Description.",
-          "FileID": 3692,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/803/803-1668760909-807118635.jpeg",
-          "IsNSFW": false,
-          "ModID": 803,
-          "Name": "Maelstrom\u0027s MME Series 2 - Carry Weight",
-          "Version": "2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tuzoSYVJYPs=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=802\nfileID=3691",
-        "Name": "Sprinting Tweaks-802-2-1680330269.7z",
-        "Size": 1098,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Maelstrom",
-          "Description": "Multiple stage project of mine that involves taking common \u0027tweaks\u0027 in DD:DA, recreating them while also providing streamlined installation instructions and merge-friendly structures in an effort to make modding easier.\n\n\n\nThis will cover Stamina Drain while Sprinting. See Description.",
-          "FileID": 3691,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/802/802-1668760974-535541697.jpeg",
-          "IsNSFW": false,
-          "ModID": 802,
-          "Name": "Maelstrom\u0027s MME Series 1 - Sprinting Stamina Drain",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "jN2c81CUuIg=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\title.arc",
-        "Name": "nativePC_rom_title.arc",
-        "Size": 13500807,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\title.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "jN2c81CUuIg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "mbE/Q6S0bBI=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=140\nfileID=1120",
-        "Name": "NCC Alchemical Cloak female-140-.zip",
-        "Size": 298507,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BonusJZ",
-          "Description": "No Cliping Cloaks project",
-          "FileID": 1120,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/140-0-1454901877.png",
-          "IsNSFW": false,
-          "ModID": 140,
-          "Name": "No Cliping Cloaks",
-          "Version": "0.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "otU1vlLnTII=",
         "Meta": "[General]\ngameName=dragonsdogma\nmodID=227\nfileID=1623",
         "Name": "With Fire -ReShade- v2.0-227-2-0.rar",
@@ -360,15 +237,36 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "4Ytz6NTIDoE=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=733\nfileID=3273",
-        "Name": "1.2 Update-733-1-2-1656224044.zip",
-        "Size": 35743232,
+        "Hash": "yN3sz0E6GMo=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=489\nfileID=2843",
+        "Name": "4k Structures (fm files)-489-1-0-1606867947.zip",
+        "Size": 1625692685,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LDKSuperDante",
+          "Description": "August 4th 2020: Added a much more performance friendly version of the Gransys Environment textures, set to 4k instead of 6k, so it now uses less than half the resources",
+          "FileID": 2843,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/489/489-1559428904-1319574705.jpeg",
+          "IsNSFW": false,
+          "ModID": 489,
+          "Name": "Remastering Dragon\u0027s Dogma Sneak Peek 2 - Gransys",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Sh/vmug3d6o=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=733\nfileID=3282",
+        "Name": "1.3 Update-733-1-3-1656306474.zip",
+        "Size": 49325011,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Acetaris",
           "Description": "Replace 3DA battle theme / boss theme with their DDO counter part. \n\nI don\u0027t plan to replace the whole 3DA ost, but mostly battle theme.",
-          "FileID": 3273,
+          "FileID": 3282,
           "GameName": "DragonsDogma",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/733/733-1656142842-1563217932.jpeg",
           "IsNSFW": false,
@@ -402,105 +300,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yN3sz0E6GMo=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=489\nfileID=2843",
-        "Name": "4k Structures (fm files)-489-1-0-1606867947.zip",
-        "Size": 1625692685,
+        "Hash": "U2stt2ijv0M=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=39\nfileID=825",
+        "Name": "Don\u0027t Blind Me - Unpacked (All versions)-39-1-2.7z",
+        "Size": 977587,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LDKSuperDante",
-          "Description": "August 4th 2020: Added a much more performance friendly version of the Gransys Environment textures, set to 4k instead of 6k, so it now uses less than half the resources",
-          "FileID": 2843,
+          "Author": "offline2007",
+          "Description": "- Updated: Now also changes the glow of many Spells \u0026amp; Skills! -\n\nDims the glow of your lantern and weapon enchants!",
+          "FileID": 825,
           "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/489/489-1559428904-1319574705.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/39-0-1453160764.png",
           "IsNSFW": false,
-          "ModID": 489,
-          "Name": "Remastering Dragon\u0027s Dogma Sneak Peek 2 - Gransys",
-          "Version": "1.0"
+          "ModID": 39,
+          "Name": "Don\u0027t Blind Me",
+          "Version": "1.2.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zaZhMkNKn+A=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=96\nfileID=2193",
-        "Name": "ddda-dinput8 3.5.0-96-3-5-0.zip",
-        "Size": 318206,
+        "Hash": "tuzoSYVJYPs=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=802\nfileID=3691",
+        "Name": "Sprinting Tweaks-802-2-1680330269.7z",
+        "Size": 1098,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Jaryn123",
-          "Description": "save backups, hotkeys, ingame overlay (clock, item/stats editor, equipping/learning skills, ...), camera fixes, day length, char customization, augment mods, various cheats (ignore vocation for weapon skills and equip, town running animation, upgrading 2nd lvl skills to 3rd lvl)",
-          "FileID": 2193,
+          "Author": "Maelstrom",
+          "Description": "Multiple stage project of mine that involves taking common \u0027tweaks\u0027 in DD:DA, recreating them while also providing streamlined installation instructions and merge-friendly structures in an effort to make modding easier.\n\n\n\nThis will cover Stamina Drain while Sprinting. See Description.",
+          "FileID": 3691,
           "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/96-0-1456167849.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/802/802-1668760974-535541697.jpeg",
           "IsNSFW": false,
-          "ModID": 96,
-          "Name": "dinput8.dll hooks",
-          "Version": "3.5.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "p0fHSfQq/Sg=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=140\nfileID=1119",
-        "Name": "NCC-AlchemicalCloak-Male-140-.zip",
-        "Size": 297677,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BonusJZ",
-          "Description": "No Cliping Cloaks project",
-          "FileID": 1119,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/140-0-1454901877.png",
-          "IsNSFW": false,
-          "ModID": 140,
-          "Name": "No Cliping Cloaks",
-          "Version": "0.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Sh/vmug3d6o=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=733\nfileID=3282",
-        "Name": "1.3 Update-733-1-3-1656306474.zip",
-        "Size": 49325011,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Acetaris",
-          "Description": "Replace 3DA battle theme / boss theme with their DDO counter part. \n\nI don\u0027t plan to replace the whole 3DA ost, but mostly battle theme.",
-          "FileID": 3282,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/733/733-1656142842-1563217932.jpeg",
-          "IsNSFW": false,
-          "ModID": 733,
-          "Name": "Dragon\u0027s Dogma online combat music project",
-          "Version": "1.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tTCZaxHqKDs=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=479\nfileID=2945",
-        "Name": "4k Hellfire Armor-479-1-0-1616130134.zip",
-        "Size": 119122021,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LDKSuperDante",
-          "Description": "July 15th, 2022 Update: Per a few user requests, I\u0027ve done my best to recreate the Easy Clothing ID mod with my HD Icons. These files are also available on my Cleaner Female Body Texture page, since I merged the HD icons into my latest skin texture release.",
-          "FileID": 2945,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/479/479-1575704498-1987086333.jpeg",
-          "IsNSFW": false,
-          "ModID": 479,
-          "Name": "Remastering Dragon\u0027s Dogma Sneak Peek",
-          "Version": "0.1"
+          "ModID": 802,
+          "Name": "Maelstrom\u0027s MME Series 1 - Sprinting Stamina Drain",
+          "Version": "1.1"
         }
       }
     },
@@ -549,21 +384,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "js4zDWlsAM0=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=94\nfileID=1025",
-        "Name": "Dragon\u0027s Dogma Thematic Mod Coils of Light Version-94-3.zip",
-        "Size": 69086531,
+        "Hash": "FYNZiTsEkfY=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=733\nfileID=3272",
+        "Name": "1.1 update-733-1-1-1656216988.zip",
+        "Size": 71894137,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ransom Seraph - BladEye",
-          "Description": "Replaces the Main Menu Theme Song with awesome combined Dragon\u0027s Dogma tracks and more!\n\nThe songs have been intertwined to make a seamless high quality Dragon\u0027s Dogma theme song!",
-          "FileID": 1025,
+          "Author": "Acetaris",
+          "Description": "Replace 3DA battle theme / boss theme with their DDO counter part. \n\nI don\u0027t plan to replace the whole 3DA ost, but mostly battle theme.",
+          "FileID": 3272,
           "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/94-0-1453836129.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/733/733-1656142842-1563217932.jpeg",
           "IsNSFW": false,
-          "ModID": 94,
-          "Name": "Dragon\u0027s Dogma Thematic Title Music Mod",
-          "Version": "2018-Final"
+          "ModID": 733,
+          "Name": "Dragon\u0027s Dogma online combat music project",
+          "Version": "1.4"
         }
       }
     },
@@ -591,42 +426,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "FYNZiTsEkfY=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=733\nfileID=3272",
-        "Name": "1.1 update-733-1-1-1656216988.zip",
-        "Size": 71894137,
+        "Hash": "ewe0F6V2j3M=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=479\nfileID=2745",
+        "Name": "6k Chainmail (Female)-479-1-0-1597628182.zip",
+        "Size": 23094943,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Acetaris",
-          "Description": "Replace 3DA battle theme / boss theme with their DDO counter part. \n\nI don\u0027t plan to replace the whole 3DA ost, but mostly battle theme.",
-          "FileID": 3272,
+          "Author": "LDKSuperDante",
+          "Description": "July 15th, 2022 Update: Per a few user requests, I\u0027ve done my best to recreate the Easy Clothing ID mod with my HD Icons. These files are also available on my Cleaner Female Body Texture page, since I merged the HD icons into my latest skin texture release.",
+          "FileID": 2745,
           "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/733/733-1656142842-1563217932.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/479/479-1575704498-1987086333.jpeg",
           "IsNSFW": false,
-          "ModID": 733,
-          "Name": "Dragon\u0027s Dogma online combat music project",
-          "Version": "1.4"
+          "ModID": 479,
+          "Name": "Remastering Dragon\u0027s Dogma Sneak Peek",
+          "Version": "0.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "4CjVwUPqRa4=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=489\nfileID=2732",
-        "Name": "4k Gransys Environment Textures-489-1-0-1596531682.zip",
-        "Size": 849709094,
+        "Hash": "rIOKkdxJzTc=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=97\nfileID=1014",
+        "Name": "HD-HP with HD BARS and CUSTOM ICONS-97-0-4.rar",
+        "Size": 27458598,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LDKSuperDante",
-          "Description": "August 4th 2020: Added a much more performance friendly version of the Gransys Environment textures, set to 4k instead of 6k, so it now uses less than half the resources",
-          "FileID": 2732,
+          "Author": "vj88",
+          "Description": "This mod increases HP (exp and gold too) numbers, bars,various icons and mini map markers textures quality !!!",
+          "FileID": 1014,
           "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/489/489-1559428904-1319574705.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/97-0-1453996342.jpg",
           "IsNSFW": false,
-          "ModID": 489,
-          "Name": "Remastering Dragon\u0027s Dogma Sneak Peek 2 - Gransys",
-          "Version": "1.0"
+          "ModID": 97,
+          "Name": "HD HP - Custom GUI textures and icons Overhaul",
+          "Version": "0.46tmf"
         }
       }
     },
@@ -661,7 +496,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "LDKSuperDante",
-          "Description": "May 2nd 2022 update: Textures have been updated, please read the description for more info :)",
+          "Description": "July 14th 2022 update: Added 2 new options with 2 different styles of hair down there for the v2.5 release as per user requests. Files are available for Steam and GoG. July 15th: Added my version of the Easy Clothing ID mod with HD Icons.",
           "FileID": 3236,
           "GameName": "DragonsDogma",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/472/472-1554251114-2068162782.jpeg",
@@ -669,6 +504,43 @@
           "ModID": 472,
           "Name": "Cleaner Female Body Texture",
           "Version": "2.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Z68wApNerJQ=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=479\nfileID=2746",
+        "Name": "6k Chainmail (Male)-479-1-0-1597628281.zip",
+        "Size": 23737523,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LDKSuperDante",
+          "Description": "July 15th, 2022 Update: Per a few user requests, I\u0027ve done my best to recreate the Easy Clothing ID mod with my HD Icons. These files are also available on my Cleaner Female Body Texture page, since I merged the HD icons into my latest skin texture release.",
+          "FileID": 2746,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/479/479-1575704498-1987086333.jpeg",
+          "IsNSFW": false,
+          "ModID": 479,
+          "Name": "Remastering Dragon\u0027s Dogma Sneak Peek",
+          "Version": "0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fqpqnbEbh/4=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\bbsrpg_core.arc",
+        "Name": "nativePC_rom_bbsrpg_core.arc",
+        "Size": 4590287,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\bbsrpg_core.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "fqpqnbEbh/4="
         }
       }
     },
@@ -738,21 +610,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "d/dqdOensKw=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=804\nfileID=3693",
-        "Name": "Quest Reward Tweaks-804-2-1680331278.7z",
-        "Size": 3206,
+        "Hash": "kbTKzohOWiM=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=733\nfileID=3287",
+        "Name": "1.4 update-733-1-4-1656388863.zip",
+        "Size": 74804163,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Maelstrom",
-          "Description": "Multiple stage project of mine that involves taking common \u0027tweaks\u0027 in DD:DA, recreating them while also providing streamlined installation instructions and merge-friendly structures in an effort to make modding easier.\n\n\n\nThis will cover Quest Rewards. See Description. WIP.",
-          "FileID": 3693,
+          "Author": "Acetaris",
+          "Description": "Replace 3DA battle theme / boss theme with their DDO counter part. \n\nI don\u0027t plan to replace the whole 3DA ost, but mostly battle theme.",
+          "FileID": 3287,
           "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/804/804-1668760843-334254256.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/733/733-1656142842-1563217932.jpeg",
           "IsNSFW": false,
-          "ModID": 804,
-          "Name": "Maelstrom\u0027s MME Series 3 - Quest Rewards",
-          "Version": "2"
+          "ModID": 733,
+          "Name": "Dragon\u0027s Dogma online combat music project",
+          "Version": "1.4"
         }
       }
     },
@@ -766,7 +638,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "LDKSuperDante",
-          "Description": "An unfinished Version of Gran Soren in HD. Please read the description for more info! Edit: I forgot to mention, If you don\u0027t already have it, you will need the 4GB patch, found here: https://ntcore.com/?page_id=371",
+          "Description": "August 13th 2022 Update: Fixed an issue with the main 4k Gran Soren files, I had forgotten the \u0022stage\u0022 folder in the folder tree. It now has the correct installation path. Sorry about that!",
           "FileID": 3384,
           "GameName": "DragonsDogma",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/492/492-1561603106-1590818630.jpeg",
@@ -843,6 +715,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "jN2c81CUuIg=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\title.arc",
+        "Name": "nativePC_rom_title.arc",
+        "Size": 13500807,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\title.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "jN2c81CUuIg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "P/u2aGxRGjw=",
         "Meta": "[General]\ngameName=dragonsdogma\nmodID=472\nfileID=3205",
         "Name": "Cleaner Female Body Textures (and male) v2.5-472-2-5-1651487426.zip",
@@ -850,7 +738,7 @@
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "LDKSuperDante",
-          "Description": "May 2nd 2022 update: Textures have been updated, please read the description for more info :)",
+          "Description": "July 14th 2022 update: Added 2 new options with 2 different styles of hair down there for the v2.5 release as per user requests. Files are available for Steam and GoG. July 15th: Added my version of the Easy Clothing ID mod with HD Icons.",
           "FileID": 3205,
           "GameName": "DragonsDogma",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/472/472-1554251114-2068162782.jpeg",
@@ -885,14 +773,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "E7RYPUN2q7k=",
-        "Meta": "[General]\ndirectURL=https://github.com/Kaldaien/AgDrag/releases/download/agdrag_011/AgDrag.zip",
-        "Name": "AgDrag.zip",
-        "Size": 568820,
+        "Hash": "4Ytz6NTIDoE=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=733\nfileID=3273",
+        "Name": "1.2 Update-733-1-2-1656224044.zip",
+        "Size": 35743232,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Kaldaien/AgDrag/releases/download/agdrag_011/AgDrag.zip"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Acetaris",
+          "Description": "Replace 3DA battle theme / boss theme with their DDO counter part. \n\nI don\u0027t plan to replace the whole 3DA ost, but mostly battle theme.",
+          "FileID": 3273,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/733/733-1656142842-1563217932.jpeg",
+          "IsNSFW": false,
+          "ModID": 733,
+          "Name": "Dragon\u0027s Dogma online combat music project",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zaZhMkNKn+A=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=96\nfileID=2193",
+        "Name": "ddda-dinput8 3.5.0-96-3-5-0.zip",
+        "Size": 318206,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jaryn123",
+          "Description": "save backups, hotkeys, ingame overlay (clock, item/stats editor, equipping/learning skills, ...), camera fixes, day length, char customization, augment mods, various cheats (ignore vocation for weapon skills and equip, town running animation, upgrading 2nd lvl skills to 3rd lvl)",
+          "FileID": 2193,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/96-0-1456167849.png",
+          "IsNSFW": false,
+          "ModID": 96,
+          "Name": "dinput8.dll hooks",
+          "Version": "3.5.0"
         }
       }
     },
@@ -920,37 +836,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0NpPsiCs0mE=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=805\nfileID=3690",
-        "Name": "Jump Height Tweaks-805-2-1680330069.7z",
-        "Size": 1630,
+        "Hash": "tTCZaxHqKDs=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=479\nfileID=2945",
+        "Name": "4k Hellfire Armor-479-1-0-1616130134.zip",
+        "Size": 119122021,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Maelstrom",
-          "Description": "Multiple stage project of mine that involves taking common \u0027tweaks\u0027 in DD:DA, recreating them while also providing streamlined installation instructions and merge-friendly structures in an effort to make modding easier.\n\n\n\nThis will cover Jump Height. See Description.",
-          "FileID": 3690,
+          "Author": "LDKSuperDante",
+          "Description": "July 15th, 2022 Update: Per a few user requests, I\u0027ve done my best to recreate the Easy Clothing ID mod with my HD Icons. These files are also available on my Cleaner Female Body Texture page, since I merged the HD icons into my latest skin texture release.",
+          "FileID": 2945,
           "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/805/805-1668912791-686730197.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/479/479-1575704498-1987086333.jpeg",
           "IsNSFW": false,
-          "ModID": 805,
-          "Name": "Maelstrom\u0027s MME Series 4 - Jump Height",
-          "Version": "1.0"
+          "ModID": 479,
+          "Name": "Remastering Dragon\u0027s Dogma Sneak Peek",
+          "Version": "0.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "fqpqnbEbh/4=",
-        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\bbsrpg_core.arc",
-        "Name": "nativePC_rom_bbsrpg_core.arc",
-        "Size": 4590287,
+        "Hash": "d/dqdOensKw=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=804\nfileID=3693",
+        "Name": "Quest Reward Tweaks-804-2-1680331278.7z",
+        "Size": 3206,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonsDogma",
-          "GameFile": "nativePC\\rom\\bbsrpg_core.arc",
-          "GameVersion": "1,0,0,0",
-          "Hash": "fqpqnbEbh/4="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Maelstrom",
+          "Description": "Multiple stage project of mine that involves taking common \u0027tweaks\u0027 in DD:DA, recreating them while also providing streamlined installation instructions and merge-friendly structures in an effort to make modding easier.\n\n\n\nThis will cover Quest Rewards. See Description. WIP.",
+          "FileID": 3693,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/804/804-1668760843-334254256.jpeg",
+          "IsNSFW": false,
+          "ModID": 804,
+          "Name": "Maelstrom\u0027s MME Series 3 - Quest Rewards",
+          "Version": "2"
         }
       }
     },
@@ -978,42 +899,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "9G8xkeXRCq4=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=719\nfileID=3219",
-        "Name": "10th Anniversary Loading Screen Loose file (Blended)-719-1-0-1653714134.zip",
-        "Size": 767671,
+        "Hash": "js4zDWlsAM0=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=94\nfileID=1025",
+        "Name": "Dragon\u0027s Dogma Thematic Mod Coils of Light Version-94-3.zip",
+        "Size": 69086531,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LDKSuperDante",
-          "Description": "A quick little mod that changes the loading screens to the 10th Anniversary Art. Now has full art or a blended into background option, and a Black and White version of that. Hope everyone likes it! I\u0027ve had other ideas for loading screens that I never got around to, so maybe I\u0027ll use this page to do so in the near future...",
-          "FileID": 3219,
+          "Author": "Ransom Seraph - BladEye",
+          "Description": "Replaces the Main Menu Theme Song with awesome combined Dragon\u0027s Dogma tracks and more!\n\nThe songs have been intertwined to make a seamless high quality Dragon\u0027s Dogma theme song!",
+          "FileID": 1025,
           "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/719/719-1653461003-1815380802.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/94-0-1453836129.jpg",
           "IsNSFW": false,
-          "ModID": 719,
-          "Name": "Dragon\u0027s Dogma 10th Anniversary Art Loading Screen",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "56CVKQTWE0M=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=479\nfileID=3329",
-        "Name": "Easy Clothing ID with HD Icons-479-1-0-1657868300.zip",
-        "Size": 6164818,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LDKSuperDante",
-          "Description": "July 15th, 2022 Update: Per a few user requests, I\u0027ve done my best to recreate the Easy Clothing ID mod with my HD Icons. These files are also available on my Cleaner Female Body Texture page, since I merged the HD icons into my latest skin texture release.",
-          "FileID": 3329,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/479/479-1575704498-1987086333.jpeg",
-          "IsNSFW": false,
-          "ModID": 479,
-          "Name": "Remastering Dragon\u0027s Dogma Sneak Peek",
-          "Version": "0.1"
+          "ModID": 94,
+          "Name": "Dragon\u0027s Dogma Thematic Title Music Mod",
+          "Version": "2018-Final"
         }
       }
     },
@@ -1036,21 +936,37 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ewe0F6V2j3M=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=479\nfileID=2745",
-        "Name": "6k Chainmail (Female)-479-1-0-1597628182.zip",
-        "Size": 23094943,
+        "Hash": "4CjVwUPqRa4=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=489\nfileID=2732",
+        "Name": "4k Gransys Environment Textures-489-1-0-1596531682.zip",
+        "Size": 849709094,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "LDKSuperDante",
-          "Description": "July 15th, 2022 Update: Per a few user requests, I\u0027ve done my best to recreate the Easy Clothing ID mod with my HD Icons. These files are also available on my Cleaner Female Body Texture page, since I merged the HD icons into my latest skin texture release.",
-          "FileID": 2745,
+          "Description": "August 4th 2020: Added a much more performance friendly version of the Gransys Environment textures, set to 4k instead of 6k, so it now uses less than half the resources",
+          "FileID": 2732,
           "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/479/479-1575704498-1987086333.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/489/489-1559428904-1319574705.jpeg",
           "IsNSFW": false,
-          "ModID": 479,
-          "Name": "Remastering Dragon\u0027s Dogma Sneak Peek",
-          "Version": "0.1"
+          "ModID": 489,
+          "Name": "Remastering Dragon\u0027s Dogma Sneak Peek 2 - Gransys",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DAP5vYCZzKA=",
+        "Meta": "[General]\ngameName=DragonsDogma\ngameFile=nativePC\\rom\\game_main.arc",
+        "Name": "nativePC_rom_game_main.arc",
+        "Size": 23775211,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "DragonsDogma",
+          "GameFile": "nativePC\\rom\\game_main.arc",
+          "GameVersion": "1,0,0,0",
+          "Hash": "DAP5vYCZzKA="
         }
       }
     },
@@ -1093,27 +1009,6 @@
           "ModID": 140,
           "Name": "No Cliping Cloaks",
           "Version": "0.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Z68wApNerJQ=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=479\nfileID=2746",
-        "Name": "6k Chainmail (Male)-479-1-0-1597628281.zip",
-        "Size": 23737523,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LDKSuperDante",
-          "Description": "July 15th, 2022 Update: Per a few user requests, I\u0027ve done my best to recreate the Easy Clothing ID mod with my HD Icons. These files are also available on my Cleaner Female Body Texture page, since I merged the HD icons into my latest skin texture release.",
-          "FileID": 2746,
-          "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/479/479-1575704498-1987086333.jpeg",
-          "IsNSFW": false,
-          "ModID": 479,
-          "Name": "Remastering Dragon\u0027s Dogma Sneak Peek",
-          "Version": "0.1"
         }
       }
     },
@@ -1183,21 +1078,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "U2stt2ijv0M=",
-        "Meta": "[General]\ngameName=dragonsdogma\nmodID=39\nfileID=825",
-        "Name": "Don\u0027t Blind Me - Unpacked (All versions)-39-1-2.7z",
-        "Size": 977587,
+        "Hash": "0NpPsiCs0mE=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=805\nfileID=3690",
+        "Name": "Jump Height Tweaks-805-2-1680330069.7z",
+        "Size": 1630,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "offline2007",
-          "Description": "- Updated: Now also changes the glow of many Spells \u0026 Skills! -\r\n\nDims the glow of your lantern and weapon enchants!",
-          "FileID": 825,
+          "Author": "Maelstrom",
+          "Description": "Multiple stage project of mine that involves taking common \u0027tweaks\u0027 in DD:DA, recreating them while also providing streamlined installation instructions and merge-friendly structures in an effort to make modding easier.\n\n\n\nThis will cover Jump Height. See Description.",
+          "FileID": 3690,
           "GameName": "DragonsDogma",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/39-0-1453160764.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/805/805-1668912791-686730197.png",
           "IsNSFW": false,
-          "ModID": 39,
-          "Name": "Don\u0027t Blind Me",
-          "Version": "1.2"
+          "ModID": 805,
+          "Name": "Maelstrom\u0027s MME Series 4 - Jump Height",
+          "Version": "1.0"
         }
       }
     },
@@ -1219,6 +1114,111 @@
           "ModID": 479,
           "Name": "Remastering Dragon\u0027s Dogma Sneak Peek",
           "Version": "0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kPG5v7xmdKk=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=379\nfileID=2005",
+        "Name": "Spell Mod Pack-379-1-0.7z",
+        "Size": 6205075,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Signette",
+          "Description": "Ultimate version of all spell mods I have created.",
+          "FileID": 2005,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/379-0-1495758557.jpg",
+          "IsNSFW": false,
+          "ModID": 379,
+          "Name": "Spell Mod Pack",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9G8xkeXRCq4=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=719\nfileID=3219",
+        "Name": "10th Anniversary Loading Screen Loose file (Blended)-719-1-0-1653714134.zip",
+        "Size": 767671,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LDKSuperDante",
+          "Description": "A quick little mod that changes the loading screens to the 10th Anniversary Art. Now has full art or a blended into background option, and a Black and White version of that. Hope everyone likes it! I\u0027ve had other ideas for loading screens that I never got around to, so maybe I\u0027ll use this page to do so in the near future...",
+          "FileID": 3219,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/719/719-1653461003-1815380802.jpeg",
+          "IsNSFW": false,
+          "ModID": 719,
+          "Name": "Dragon\u0027s Dogma 10th Anniversary Art Loading Screen",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "56CVKQTWE0M=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=479\nfileID=3329",
+        "Name": "Easy Clothing ID with HD Icons-479-1-0-1657868300.zip",
+        "Size": 6164818,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LDKSuperDante",
+          "Description": "July 15th, 2022 Update: Per a few user requests, I\u0027ve done my best to recreate the Easy Clothing ID mod with my HD Icons. These files are also available on my Cleaner Female Body Texture page, since I merged the HD icons into my latest skin texture release.",
+          "FileID": 3329,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/479/479-1575704498-1987086333.jpeg",
+          "IsNSFW": false,
+          "ModID": 479,
+          "Name": "Remastering Dragon\u0027s Dogma Sneak Peek",
+          "Version": "0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cOWKIEHExxo=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=479\nfileID=2742",
+        "Name": "4k Adventurer\u0027s Cloak (Male)-479-0-5-1597627576.zip",
+        "Size": 6914709,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LDKSuperDante",
+          "Description": "July 15th, 2022 Update: Per a few user requests, I\u0027ve done my best to recreate the Easy Clothing ID mod with my HD Icons. These files are also available on my Cleaner Female Body Texture page, since I merged the HD icons into my latest skin texture release.",
+          "FileID": 2742,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/479/479-1575704498-1987086333.jpeg",
+          "IsNSFW": false,
+          "ModID": 479,
+          "Name": "Remastering Dragon\u0027s Dogma Sneak Peek",
+          "Version": "0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mbE/Q6S0bBI=",
+        "Meta": "[General]\ngameName=dragonsdogma\nmodID=140\nfileID=1120",
+        "Name": "NCC Alchemical Cloak female-140-.zip",
+        "Size": 298507,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BonusJZ",
+          "Description": "No Cliping Cloaks project",
+          "FileID": 1120,
+          "GameName": "DragonsDogma",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1249/images/140-0-1454901877.png",
+          "IsNSFW": false,
+          "ModID": 140,
+          "Name": "No Cliping Cloaks",
+          "Version": "0.3"
         }
       }
     }
