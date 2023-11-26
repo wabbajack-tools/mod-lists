@@ -5,7 +5,7 @@
 *  [High_Poly_Head_v1.4_SE.zip](https://vectorplexis.com/files/file/283-high-poly-head/?do=download&r=10136&confirm=1&t=1&csrfKey=8c488450faef9de7fdaac6296dfb3313)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3303)
+### Valid (3292)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
@@ -764,6 +764,7 @@
 *  [Dirt and Blood - Dynamic Visual Effects - Legacy Settings Loader-56550-1-1-2-1680385893.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56550/?tab=files&file_id=374141)
 *  [Dirt and Blood Inventory Injector (I4) Icons-97490-1-0-1691830832.rar](https://www.nexusmods.com/skyrimspecialedition/mods/97490/?tab=files&file_id=416314)
 *  [Dirt and Blood-38886-2-30-1690788532.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38886/?tab=files&file_id=412639)
+*  [Dirt and Blood-38886-2-31-1700959725.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38886/?tab=files&file_id=446141)
 *  [Dirt Terrain 2k Parallax V2-82739-2-0-1676941219.7z](https://www.nexusmods.com/skyrimspecialedition/mods/82739/?tab=files&file_id=361866)
 *  [Disable Turn Animation SE I AE-78106-1-0-1667484020.zip](https://www.nexusmods.com/skyrimspecialedition/mods/78106/?tab=files&file_id=328647)
 *  [Disable USSEP Book-26092-1-1-1631717109.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26092/?tab=files&file_id=228551)
@@ -1768,15 +1769,6 @@
 *  [Leviathan animations II - Greatsword Sneak-99073-1-0-1692886637.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99073/?tab=files&file_id=420060)
 *  [Leviathan Animations II - Greatsword Sprint Attack-94715-1-1-1688154108.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94715/?tab=files&file_id=402568)
 *  [Leviathan Axe - Dwemer Artifacts SE-40364-v1-0b-1600309839.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40364/?tab=files&file_id=161194)
-*  lex_accent.tlx
-*  lex_ssceam.tlx
-*  lex_ssceam2.clx
-*  lex_sscebr.tlx
-*  lex_sscebr2.clx
-*  lex_ssceca2.clx
-*  lex_tech.tlx
-*  lex_User_correct.tlx
-*  lex_User_userdic.tlx
 *  [Lightened Skyrim-50755-1-06-1657375075.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50755/?tab=files&file_id=297452)
 *  [Lighting The 7000 Steps (ESL)-78022-1-2-1667341491.zip](https://www.nexusmods.com/skyrimspecialedition/mods/78022/?tab=files&file_id=328306)
 *  [lilebonymace patches-36042-2-36-1699766573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36042/?tab=files&file_id=441920)
@@ -2186,7 +2178,6 @@
 *  [Oxygen Meter 2 AE-64532-1-0-5-1672628270.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64532/?tab=files&file_id=345763)
 *  [Oxygen Meter 2 Nordic like Skin-69567-1-1-1655097318.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69567/?tab=files&file_id=290777)
 *  [P.E.N.I.S. for B.O.O.B.I.E.S.-90526-1--1694807732.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90526/?tab=files&file_id=426089)
-*  p4com64.dll
 *  [Paarthurnax - Quest Expansion 1.12-33084-1-12-1696313989.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33084/?tab=files&file_id=430830)
 *  [Paarthurnax - Quest Expansion-51711-1-12-1682859219.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51711/?tab=files&file_id=383290)
 *  [Paintings - The rest-78239-1-1-1684389926.zip](https://www.nexusmods.com/skyrimspecialedition/mods/78239/?tab=files&file_id=389267)
@@ -2201,8 +2192,6 @@
 *  [PAN_NPCs - Sovngarde-55877-1-0-1632163033.rar](https://www.nexusmods.com/skyrimspecialedition/mods/55877/?tab=files&file_id=229684)
 *  [Pandorable's NPCs - Dragonborn SE-30680-1-1-1575120229.rar](https://www.nexusmods.com/skyrimspecialedition/mods/30680/?tab=files&file_id=114755)
 *  [PAPER-73849-2-2-4-1689759531.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73849/?tab=files&file_id=408512)
-*  Papyrus Compiler_PapyrusCompiler.exe
-*  Papyrus Compiler_ScriptCompile.bat
 *  [Papyrus Extender-22854-5-6-1-1690313666.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=410639)
 *  [Papyrus Ini Manipulator-65634-1-9-3-1690059077.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65634/?tab=files&file_id=409589)
 *  [Papyrus Tweaks 4.1.0-77779-4-1-0-1677126184.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77779/?tab=files&file_id=362490)
