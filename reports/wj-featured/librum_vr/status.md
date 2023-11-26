@@ -1,10 +1,11 @@
 ## Validation Report - Librum VR (wj-featured/librum_vr)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [enbseries_skyrimvr_v0457.zip](https://authored-files.wabbajack.org/enbseries_skyrimvr_v0457.zip_44c21415-c1a0-445d-a7ad-5a5e6157f5ad)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1196)
+### Valid (1195)
 *  [(1) Community Overlays 1 - Main - UNP  2K-22487-1-0-1-1547247749.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77985)
 *  [(1K) Skygazer Moons - Masser and Secunda HD Moons by fadingsignal-54349-1-0.rar](https://www.nexusmods.com/skyrim/mods/54349/?tab=files&file_id=1000110439)
 *  [(3) Community Overlays 2 - Main - UUNP and Male-26224-1-0-1559372410.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94369)
@@ -409,7 +410,6 @@
 *  [ENB Brow Fix SE 1.2-18783-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18783/?tab=files&file_id=65782)
 *  [ENB Helper VR-25142-1-0-0-1555617161.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25142/?tab=files&file_id=88880)
 *  [enbseries_skyrimse_v0475.zip](https://build.wabbajack.org/authored_files/direct_link/enbseries_skyrimse_v0475.zip_058f18f4-b83d-427e-941c-019fb7e9cacf)
-*  [enbseries_skyrimvr_v0457.zip](https://authored-files.wabbajack.org/enbseries_skyrimvr_v0457.zip_44c21415-c1a0-445d-a7ad-5a5e6157f5ad)
 *  [Enchanting Awakened SSE 1.0.1-18558-1-0-1.rar](https://www.nexusmods.com/skyrimspecialedition/mods/18558/?tab=files&file_id=59841)
 *  [Enchantments and Potions Work for NPCs - EPW4NPCs-37607-1-0-1-1616451353.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37607/?tab=files&file_id=193008)
 *  [EnchFXReplacerSE1.0-27709-1-0-1564185373.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27709/?tab=files&file_id=100803)
