@@ -578,7 +578,7 @@
 *  [Sound Hammering Sounds-5592-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/5592/?tab=files&file_id=12403)
 *  [Sounds of Skyrim Complete SE-8286-2-1-1661179219.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8286/?tab=files&file_id=309524)
 *  [Spell Perk Item Distributor VR-59121-6-6-1-1682657895.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59121/?tab=files&file_id=382575)
-*  [Spell Wheel VR-47630-1-4-6-1689205710.rar](https://www.nexusmods.com/skyrimspecialedition/mods/47630/?tab=files&file_id=406539)
+*  [Spell Wheel VR-47630-1-4-8-1700939574.rar](https://www.nexusmods.com/skyrimspecialedition/mods/47630/?tab=files&file_id=446049)
 *  [Spellforge-46482-2-3-1681048930.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46482/?tab=files&file_id=376672)
 *  [Spellsiphon - Complete Edition-26627-5-27-1681055226.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26627/?tab=files&file_id=376703)
 *  [spellsprinkler051.7z-75212-0-51-1663004034.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75212/?tab=files&file_id=315617)
