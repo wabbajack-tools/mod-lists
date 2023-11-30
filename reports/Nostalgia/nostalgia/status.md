@@ -4,11 +4,12 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (977)
+### Valid (976)
 *  [00 - Better Books-74333-1-0-1636330917.7z](https://www.nexusmods.com/newvegas/mods/74333/?tab=files&file_id=1000083742)
 *  [01 - Improved Male Body - FOMOD Installer-70160-1-4-1644720615.7z](https://www.nexusmods.com/newvegas/mods/70160/?tab=files&file_id=1000087623)
 *  [1 - DiDisaan's Patch Emporium-64981-1-92-4-1654873891.rar](https://www.nexusmods.com/newvegas/mods/64981/?tab=files&file_id=1000094042)
 *  [1_1. Consistent Pip-boy Icons-65046-4-4-1659349331.7z](https://www.nexusmods.com/newvegas/mods/65046/?tab=files&file_id=1000096843)
+*  [1_36- patch - alternative run-80812-Final-1681997395.7z](https://www.nexusmods.com/newvegas/mods/80812/?tab=files&file_id=1000107961)
 *  [1_Additional Indicators - Orange-81557-1-0-1686672003.zip](https://www.nexusmods.com/newvegas/mods/81557/?tab=files&file_id=1000111047)
 *  [1_Afterglow -- Neon Illumination-83736-1-0-1699663621.zip](https://www.nexusmods.com/newvegas/mods/83736/?tab=files&file_id=1000118879)
 *  [1_Animated Ingestibles (english)-70139-4-1672837104.zip](https://www.nexusmods.com/newvegas/mods/70139/?tab=files&file_id=1000103226)
@@ -29,9 +30,7 @@
 *  [1. Radiant Infinium-83610-1-10-1700631817.zip](https://www.nexusmods.com/newvegas/mods/83610/?tab=files&file_id=1000119351)
 *  [2. Wasteland Warrior - A Melee Animation Overhaul (No Locomotion)-80277-1-0-1678034975.rar](https://www.nexusmods.com/newvegas/mods/80277/?tab=files&file_id=1000105956)
 *  [3. No TTW-81648-1-1-1687380457.rar](https://www.nexusmods.com/newvegas/mods/81648/?tab=files&file_id=1000111645)
-*  [36- patch - alternative run-80812-Final-1681997395.7z](https://www.nexusmods.com/newvegas/mods/80812/?tab=files&file_id=1000107961)
 *  [360 Movement-71940-1-2-1619527056.zip](https://www.nexusmods.com/newvegas/mods/71940/?tab=files&file_id=1000075421)
-*  [360 patch-80812-Final-1681997360.7z](https://www.nexusmods.com/newvegas/mods/80812/?tab=files&file_id=1000107960)
 *  [3D Rain 1.4-79652-1-4-1674015834.zip](https://www.nexusmods.com/newvegas/mods/79652/?tab=files&file_id=1000103716)
 *  [3rd Person Camera Overhaul-79883-2-3-1676826727.7z](https://www.nexusmods.com/newvegas/mods/79883/?tab=files&file_id=1000105237)
 *  [4GB Patcher-62552-1-5-1618787921.7z](https://www.nexusmods.com/newvegas/mods/62552/?tab=files&file_id=1000075100)
@@ -169,6 +168,7 @@
 *  [Consistent Pip-Boy Icons v5 - Weapons-82740-5-02-1697460982.7z](https://www.nexusmods.com/newvegas/mods/82740/?tab=files&file_id=1000117767)
 *  [Console Paste-65906-2-0-1689194657.zip](https://www.nexusmods.com/newvegas/mods/65906/?tab=files&file_id=1000112940)
 *  [Controller Support NVSE-71894-11-1629503385.7z](https://www.nexusmods.com/newvegas/mods/71894/?tab=files&file_id=1000080019)
+*  [Crash Logger-82540-4-5-2-1700134109.zip](https://www.nexusmods.com/newvegas/mods/82540/?tab=files&file_id=1000119137)
 *  Data_CaravanPack - Main.bsa
 *  Data_CaravanPack.esm
 *  Data_CaravanPack.nam
@@ -531,7 +531,6 @@
 *  [Frozen 3rd Person Masculine Movement-77334-1-02-1665611456.7z](https://www.nexusmods.com/newvegas/mods/77334/?tab=files&file_id=1000099793)
 *  [Functional Post Game Ending Lite-73668-5-2-1658012560.zip](https://www.nexusmods.com/newvegas/mods/73668/?tab=files&file_id=1000096057)
 *  GDFFalloutNV.dll
-*  [Geck Extender-64888-0-38-1649695252.zip](https://www.nexusmods.com/newvegas/mods/64888/?tab=files&file_id=1000090830)
 *  [GECK_NVE_v1.4.zip](https://cdn.bethsoft.com/fallout/nv/geck/GECK_NVE_v1.4.zip)
 *  [get lit fnv-73157-1-8-1666590795.7z](https://www.nexusmods.com/newvegas/mods/73157/?tab=files&file_id=1000100251)
 *  [GlobalImposterRegion-78835-beta-1667412029.7z](https://www.nexusmods.com/newvegas/mods/78835/?tab=files&file_id=1000100654)
