@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (967)
+### Valid (977)
 *  [00 - Better Books-74333-1-0-1636330917.7z](https://www.nexusmods.com/newvegas/mods/74333/?tab=files&file_id=1000083742)
 *  [01 - Improved Male Body - FOMOD Installer-70160-1-4-1644720615.7z](https://www.nexusmods.com/newvegas/mods/70160/?tab=files&file_id=1000087623)
 *  [1 - DiDisaan's Patch Emporium-64981-1-92-4-1654873891.rar](https://www.nexusmods.com/newvegas/mods/64981/?tab=files&file_id=1000094042)
@@ -31,6 +31,7 @@
 *  [3. No TTW-81648-1-1-1687380457.rar](https://www.nexusmods.com/newvegas/mods/81648/?tab=files&file_id=1000111645)
 *  [36- patch - alternative run-80812-Final-1681997395.7z](https://www.nexusmods.com/newvegas/mods/80812/?tab=files&file_id=1000107961)
 *  [360 Movement-71940-1-2-1619527056.zip](https://www.nexusmods.com/newvegas/mods/71940/?tab=files&file_id=1000075421)
+*  [360 patch-80812-Final-1681997360.7z](https://www.nexusmods.com/newvegas/mods/80812/?tab=files&file_id=1000107960)
 *  [3D Rain 1.4-79652-1-4-1674015834.zip](https://www.nexusmods.com/newvegas/mods/79652/?tab=files&file_id=1000103716)
 *  [3rd Person Camera Overhaul-79883-2-3-1676826727.7z](https://www.nexusmods.com/newvegas/mods/79883/?tab=files&file_id=1000105237)
 *  [4GB Patcher-62552-1-5-1618787921.7z](https://www.nexusmods.com/newvegas/mods/62552/?tab=files&file_id=1000075100)
@@ -127,7 +128,6 @@
 *  [Boom to the Moon v2.3 - BSA-58488-2-3.rar](https://www.nexusmods.com/newvegas/mods/58488/?tab=files&file_id=1000035319)
 *  [Boomers - T-57c v1 0-38333-1-0.rar](https://www.nexusmods.com/newvegas/mods/38333/?tab=files&file_id=79358)
 *  [Boomers T-57c TOTNW Patch-74174-1-1-1666230562.zip](https://www.nexusmods.com/newvegas/mods/74174/?tab=files&file_id=1000100046)
-*  [Bottle The Water-83913-1-0-0-1701239399.zip](https://www.nexusmods.com/newvegas/mods/83913/?tab=files&file_id=1000119641)
 *  [Cannibal Reborn-64789-2-3-1600912987.7z](https://www.nexusmods.com/newvegas/mods/64789/?tab=files&file_id=1000065840)
 *  [Caravan Guard Remastered-83590-1-0-1698523589.rar](https://www.nexusmods.com/newvegas/mods/83590/?tab=files&file_id=1000118325)
 *  [Casino Crowds-71037-1-2-1614893989.rar](https://www.nexusmods.com/newvegas/mods/71037/?tab=files&file_id=1000072810)
@@ -169,7 +169,6 @@
 *  [Consistent Pip-Boy Icons v5 - Weapons-82740-5-02-1697460982.7z](https://www.nexusmods.com/newvegas/mods/82740/?tab=files&file_id=1000117767)
 *  [Console Paste-65906-2-0-1689194657.zip](https://www.nexusmods.com/newvegas/mods/65906/?tab=files&file_id=1000112940)
 *  [Controller Support NVSE-71894-11-1629503385.7z](https://www.nexusmods.com/newvegas/mods/71894/?tab=files&file_id=1000080019)
-*  [Crash Logger-72317-3-0-0-1621016750.zip](https://www.nexusmods.com/newvegas/mods/72317/?tab=files&file_id=1000076041)
 *  Data_CaravanPack - Main.bsa
 *  Data_CaravanPack.esm
 *  Data_CaravanPack.nam
@@ -406,6 +405,17 @@
 *  Data_OldWorldBlues - Sounds.bsa
 *  Data_OldWorldBlues.esm
 *  Data_OLDWORLDBLUES.NAM
+*  Data_Shaders_shaderpackage002.sdp
+*  Data_Shaders_shaderpackage003.sdp
+*  Data_Shaders_shaderpackage004.sdp
+*  Data_Shaders_shaderpackage006.sdp
+*  Data_Shaders_shaderpackage007.sdp
+*  Data_Shaders_shaderpackage009.sdp
+*  Data_Shaders_shaderpackage010.sdp
+*  Data_Shaders_shaderpackage012.sdp
+*  Data_Shaders_shaderpackage014.sdp
+*  Data_Shaders_shaderpackage016.sdp
+*  Data_Shaders_shaderpackage018.sdp
 *  Data_Sound_songs_radionv_MUS_Aint_That_A_Kick_In_the_Head.mp3
 *  Data_Sound_songs_radionv_MUS_American_Swing.mp3
 *  Data_Sound_songs_radionv_MUS_Big_Iron.mp3
