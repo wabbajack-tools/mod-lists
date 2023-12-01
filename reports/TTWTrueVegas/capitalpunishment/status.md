@@ -110,7 +110,7 @@
 *  [Bullet Trails-75122-1-3-1648652585.7z](https://www.nexusmods.com/newvegas/mods/75122/?tab=files&file_id=1000090188)
 *  [Callen's Hardcore Fix-79005-1-1674320195.rar](https://www.nexusmods.com/newvegas/mods/79005/?tab=files&file_id=1000103871)
 *  [Capital Punishment - Other Resources.zip](https://www.nexusmods.com/newvegas/mods/80042/?tab=files&file_id=1000119686)
-*  [Capital Punishment LOD Output.zip](https://www.nexusmods.com/newvegas/mods/80042/?tab=files&file_id=1000118916)
+*  [Capital Punishment LOD Output.zip](https://www.nexusmods.com/newvegas/mods/80042/?tab=files&file_id=1000119702)
 *  [Capital Wasteland Paper Map-76919-1-2-1663730632.7z](https://www.nexusmods.com/newvegas/mods/76919/?tab=files&file_id=1000099172)
 *  [Caravan Fast Travel TTW-80203-1-1677514243.zip](https://www.nexusmods.com/newvegas/mods/80203/?tab=files&file_id=1000105644)
 *  [Caravan Guard Remastered-83590-1-0-1698523589.rar](https://www.nexusmods.com/newvegas/mods/83590/?tab=files&file_id=1000118325)
