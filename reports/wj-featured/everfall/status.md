@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1558)
+### Valid (1554)
 *  [A Fortress Besieged Improved Boss Fight-683-1-0-1634258511.zip](https://www.nexusmods.com/dragonsdogma/mods/683/?tab=files&file_id=3124)
 *  [AgDrag.zip](https://github.com/Kaldaien/AgDrag/releases/download/agdrag_011/AgDrag.zip)
 *  [Alternate Exp Table-334-1-0 (1).rar](https://www.nexusmods.com/dragonsdogma/mods/334/?tab=files&file_id=1804)
@@ -14,8 +14,8 @@
 *  [Delta Guard removes Leg Bands-526-1-0-1585454744.zip](https://www.nexusmods.com/dragonsdogma/mods/526/?tab=files&file_id=2545)
 *  [Don't Blind Me - Unpacked (All versions)-39-1-2.7z](https://www.nexusmods.com/dragonsdogma/mods/39/?tab=files&file_id=825)
 *  [Easy_clothing_ID-merge-79-1-0.zip](https://www.nexusmods.com/dragonsdogma/mods/79/?tab=files&file_id=650)
-*  [enbseries_dragonsdogma_v0416.zip](https://authored-files.wabbajack.org/enbseries_dragonsdogma_v0416.zip_a99e80e2-91fa-4968-aa27-d340a8d65d21)
 *  [End of the Struggle - DDO Version-423-1.zip](https://www.nexusmods.com/dragonsdogma/mods/423/?tab=files&file_id=2206)
+*  [End Of The Struggle Dragon's Dogma Online version-878-1-0-1685370226.rar](https://www.nexusmods.com/dragonsdogma/mods/878/?tab=files&file_id=3764)
 *  [Full Compilation for Male and Female NMM-5-1-41.rar](https://www.nexusmods.com/dragonsdogma/mods/5/?tab=files&file_id=1444)
 *  [HD-HP with HD BARS and CUSTOM ICONS-97-0-4.rar](https://www.nexusmods.com/dragonsdogma/mods/97/?tab=files&file_id=1014)
 *  [Into Free Title Screen-609-1-1611819360 (1).7z](https://www.nexusmods.com/dragonsdogma/mods/609/?tab=files&file_id=2901)
@@ -23,7 +23,7 @@
 *  [Loose Male Files-473-1-0-1628445358.zip](https://www.nexusmods.com/dragonsdogma/mods/473/?tab=files&file_id=3075)
 *  [MK MA Alternate Stat Growth Att Bal-95-1-0.rar](https://www.nexusmods.com/dragonsdogma/mods/95/?tab=files&file_id=755)
 *  [Mod.Organizer-2.4.4.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.4/Mod.Organizer-2.4.4.7z)
-*  [MY DDDA SWEETFX-FINAL-49-FINAL.rar](https://www.nexusmods.com/dragonsdogma/mods/49/?tab=files&file_id=369)
+*  [Modern and Clean Dragon's Dogma Reshade-687-1-0-1635405530.zip](https://www.nexusmods.com/dragonsdogma/mods/687/?tab=files&file_id=3133)
 *  nativePC_rom_bbsrpg_core.arc
 *  nativePC_rom_stage_stage100_area_area_index00_high.arc
 *  nativePC_rom_stage_stage100_area_area_index00_low.arc
@@ -1548,10 +1548,7 @@
 *  nativePC_rom_stage_stage800_stage802.arc
 *  nativePC_rom_stage_stage800_stage803.arc
 *  nativePC_rom_stage_stage800_stage804.arc
-*  [Optional Less Yellow Colour-49-.rar](https://www.nexusmods.com/dragonsdogma/mods/49/?tab=files&file_id=436)
 *  [PlAbilityParam.ablparam.xml-195-0-1.7z](https://www.nexusmods.com/dragonsdogma/mods/195/?tab=files&file_id=1317)
-*  [Reforged 2 Lite-437-1-021.zip](https://www.nexusmods.com/dragonsdogma/mods/437/?tab=files&file_id=2268)
-*  [Reforged 2-437-1-021.zip](https://www.nexusmods.com/dragonsdogma/mods/437/?tab=files&file_id=2267)
 *  [Remove Screenshot Watermark 1-7-.zip](https://www.nexusmods.com/dragonsdogma/mods/7/?tab=files&file_id=1350)
 *  [Replacer-30-1-0.zip](https://www.nexusmods.com/dragonsdogma/mods/30/?tab=files&file_id=292)
 *  [Root Builder 4.3.3-31720-4-3-3-1641136699.zip](https://www.nexusmods.com/skyrimspecialedition/mods/31720/?tab=files&file_id=253362)
@@ -1562,4 +1559,3 @@
 *  [Spell Mod Pack-379-1-0.7z](https://www.nexusmods.com/dragonsdogma/mods/379/?tab=files&file_id=2005)
 *  [Unlocked Manse-696-1-0-1640625430.zip](https://www.nexusmods.com/dragonsdogma/mods/696/?tab=files&file_id=3162)
 *  [Vignette Remover v1-99-1.zip](https://www.nexusmods.com/dragonsdogma/mods/99/?tab=files&file_id=847)
-*  [With Fire -ReShade- v2.0-227-2-0 (1).rar](https://www.nexusmods.com/dragonsdogma/mods/227/?tab=files&file_id=1623)
