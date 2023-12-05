@@ -75,7 +75,7 @@
 *  [Random Settlers-55466-2-0-1-1639170965.7z](https://www.nexusmods.com/fallout4/mods/55466/?tab=files&file_id=223542)
 *  [Red Rocket Updated Navmesh by Vilance-68494-1-0-1675501163.7z](https://www.nexusmods.com/fallout4/mods/68494/?tab=files&file_id=266191)
 *  [ReSaver 6.0.310-22633-6-0-310-1596094205.7z](https://www.nexusmods.com/fallout4/mods/22633/?tab=files&file_id=187966)
-*  [rootbuilder.5.0.1.zip](https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.5.0.1.zip)
+*  [rootbuilder.5.0.2.zip](https://github.com/Yagisan/SS2-City-Plan-Contest-Helper/releases/download/rootbuilder-5.0.2/rootbuilder.5.0.2.zip)
 *  [Rusty Face Fix - Latest Version-31028-2-0-1-1680097918.zip](https://www.nexusmods.com/fallout4/mods/31028/?tab=files&file_id=272272)
 *  [Sanctuary Vanilla Navmesh Update by Vilance-69059-1-0-1677184217.7z](https://www.nexusmods.com/fallout4/mods/69059/?tab=files&file_id=268272)
 *  [Scaffolding Snapping 1.1-61017-1-1-1654857804.7z](https://www.nexusmods.com/fallout4/mods/61017/?tab=files&file_id=240171)
