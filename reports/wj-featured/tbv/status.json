@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/tbv",
   "Name": "The Bustling Valley",
-  "Version": "0.6.7",
-  "ModListHash": "AYw+VChWuMs=",
+  "Version": "0.6.8",
+  "ModListHash": "7nVzqfRv2O4=",
   "Archives": [
     {
       "Status": "Valid",
@@ -1995,14 +1995,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wrWRYk9Pio8=",
-        "Meta": "[General]\ndirectURL=https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.5.0.1.zip",
-        "Name": "rootbuilder.5.0.1.zip",
-        "Size": 947448,
+        "Hash": "VYT9xafKeqs=",
+        "Meta": "[General]\ndirectURL=https://github.com/Yagisan/SS2-City-Plan-Contest-Helper/releases/download/rootbuilder-5.0.2/rootbuilder.5.0.2.zip",
+        "Name": "rootbuilder.5.0.2.zip",
+        "Size": 947524,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.5.0.1.zip"
+          "Url": "https://github.com/Yagisan/SS2-City-Plan-Contest-Helper/releases/download/rootbuilder-5.0.2/rootbuilder.5.0.2.zip"
         }
       }
     },
@@ -3689,6 +3689,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "DhABa5N2g84=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=7660\nfileID=35710",
+        "Name": "Golden and Ostrich Mayos-7660-1-1-1610764665.zip",
+        "Size": 5226,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ughitsmegan",
+          "Description": "Golden eggs will now produce golden mayonnaise, and ostrich eggs will make ostrich mayonnaise.",
+          "FileID": 35710,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/7660/7660-1610755192-1374976248.png",
+          "IsNSFW": false,
+          "ModID": 7660,
+          "Name": "Ostrich Mayo and Golden Mayo",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "RthEMiNcBqU=",
         "Meta": "[General]\ngameName=stardewvalley\nmodID=5436\nfileID=72061",
         "Name": "Art-5436-2-0-3-1686381244.zip",
@@ -4536,27 +4557,6 @@
           "ModID": 13802,
           "Name": "Marsh Meadows Farm",
           "Version": "1.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "DhABa5N2g84=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=7660\nfileID=35710",
-        "Name": "Golden and Ostrich Mayos-7660-1-1-1610764665.zip",
-        "Size": 5226,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ughitsmegan",
-          "Description": "Golden eggs will now produce golden mayonnaise, and ostrich eggs will make ostrich mayonnaise.",
-          "FileID": 35710,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/7660/7660-1610755192-1374976248.png",
-          "IsNSFW": false,
-          "ModID": 7660,
-          "Name": "Ostrich Mayo and Golden Mayo",
-          "Version": "1.1"
         }
       }
     },

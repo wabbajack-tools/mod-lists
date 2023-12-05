@@ -200,7 +200,7 @@
 *  [Ridgeside Village-7286-2-5-3-1694614250.zip](https://www.nexusmods.com/stardewvalley/mods/7286/?tab=files&file_id=75879)
 *  [Riverbend Farm-13530-1-0-2-1661725480.zip](https://www.nexusmods.com/stardewvalley/mods/13530/?tab=files&file_id=59506)
 *  [Robin Work Hours-11244-0-1-4-1647029276.zip](https://www.nexusmods.com/stardewvalley/mods/11244/?tab=files&file_id=51758)
-*  [rootbuilder.5.0.1.zip](https://github.com/Kezyma/ModOrganizer-Plugins/releases/download/rootbuilder/rootbuilder.5.0.1.zip)
+*  [rootbuilder.5.0.2.zip](https://github.com/Yagisan/SS2-City-Plan-Contest-Helper/releases/download/rootbuilder-5.0.2/rootbuilder.5.0.2.zip)
 *  [SAAT 1.1.2-10747-1-1-2-1643684073.zip](https://www.nexusmods.com/stardewvalley/mods/10747/?tab=files&file_id=50147)
 *  [SafeLightning-11857-1-0-0-1651278829.zip](https://www.nexusmods.com/stardewvalley/mods/11857/?tab=files&file_id=53812)
 *  [Seasonal Japanese Buildings for Alternative Textures-13720-1-0-0-1662742562.zip](https://www.nexusmods.com/stardewvalley/mods/13720/?tab=files&file_id=60047)
