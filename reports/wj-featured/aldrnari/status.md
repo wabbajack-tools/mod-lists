@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2675)
+### Valid (2678)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0.0) SELUA - Solitude Exterior LOD Unlocker Advocate II-36116-1-1-1605036920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169508)
 *  [(1.1) The Great City of Solitude PATCH - Solitude Skyway SE - Drengin's Blue Palace Terrace (STD)-36116-1-1-1604648419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=168848)
@@ -555,7 +555,6 @@
 *  [Crime Overhaul-19647-2-05a.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19647/?tab=files&file_id=64509)
 *  [Crimson Blood Armor Warlock Theme-29451-1-0-1570427852.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29451/?tab=files&file_id=109523)
 *  [Crimson Blood Armor-29451-1-0-1570426302.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29451/?tab=files&file_id=109516)
-*  [Critter Spawn Congestion Fix 1.2-67276-1-2-1651865683.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67276/?tab=files&file_id=281943)
 *  [Crosshair-aligned Crossbow-42267-1-0-1-1605175958.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42267/?tab=files&file_id=169735)
 *  [Crow - COTN Morthal - Patch-61682-1-0-1641773533.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61682/?tab=files&file_id=255536)
 *  [crows sse-50447-1-1622051319.rar](https://www.nexusmods.com/skyrimspecialedition/mods/50447/?tab=files&file_id=205686)
@@ -607,8 +606,12 @@
 *  [Darkwater Crossing - A Great Towns and Villages of Eastmarch - LUX PATCH-64393-1-0-1-1646234188.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64393/?tab=files&file_id=267630)
 *  [Darkwater Crossing - TGV Addon Patch Collection-64382-1-0-1-1646171614.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64382/?tab=files&file_id=267541)
 *  [Data Files-42057-1-1604616002.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42057/?tab=files&file_id=168776)
-*  Data_ccbgssse025-advdsgs.bsa
-*  Data_ccbgssse025-advdsgs.esm
+*  Data__ResourcePack.bsa
+*  Data_ccasvsse001-almsivi.bsa
+*  Data_ccbgssse013-dawnfang.bsa
+*  Data_ccBGSSSE025-AdvDSGS.bsa
+*  Data_ccBGSSSE025-AdvDSGS.esm
+*  Data_ccbgssse037-curios.bsa
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
@@ -1105,6 +1108,7 @@
 *  [Hearthfilre Mountain Flower Patch-60651-1-0-1640326168.zip](https://www.nexusmods.com/skyrimspecialedition/mods/60651/?tab=files&file_id=251361)
 *  [Hearthfire Multiple Adoptions and Custom Home Support SE-3862-3-0-3.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3862/?tab=files&file_id=41330)
 *  [Heartwood Mill - TGC Riften Lumbermill-64451-1-1646292044.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64451/?tab=files&file_id=267782)
+*  [HeavyArmor Count 3 pieces-51284-1-0-1623919726.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51284/?tab=files&file_id=209552)
 *  [HeimskrOnlyPreachesWeekends2.zip-13865-1-3.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13865/?tab=files&file_id=40292)
 *  [Helegel Straight Sword SSE-28795-v1-0-1567690203.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28795/?tab=files&file_id=105691)
 *  [Hellblade - Senua's Warpaints for Racemenu-22411-1-0-1546779840.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22411/?tab=files&file_id=77477)
@@ -2626,7 +2630,6 @@
 *  [Wintersun Skillrate Alternative-60409-1-2-1640358330.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60409/?tab=files&file_id=251447)
 *  [Witch Hunter Armor UNP SE-32318-1-2-1581731897.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32318/?tab=files&file_id=124085)
 *  [Witcher Armor UNP SE-33034-1-0-1583130420.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33034/?tab=files&file_id=126795)
-*  [Witcher Horse Expansion 4x2k-72490-1-1660518210.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72490/?tab=files&file_id=307596)
 *  [WiZkiD - Hall of the Dead Stained Glass Windows-30066-v1-4-1588414001.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30066/?tab=files&file_id=137558)
 *  [WiZkiD Hagraven Clutter ad Bones-49277-1-1-1619891432.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49277/?tab=files&file_id=201115)
 *  [WiZkiD Pinewatch-46189-1-1-1614777227.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46189/?tab=files&file_id=189139)

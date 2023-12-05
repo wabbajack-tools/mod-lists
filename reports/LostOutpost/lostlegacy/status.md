@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1420)
+### Valid (1421)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [(ESL) Camels and New Animals in Alik'r Desert of the Gray Cowl of Nocturnal SE-40921-8-2-1656146600.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40921/?tab=files&file_id=293892)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-8-3-1637799413.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244154)
@@ -272,8 +272,8 @@
 *  [DarkenD 1.4 SSE-10423-1-4.rar](https://www.nexusmods.com/skyrimspecialedition/mods/10423/?tab=files&file_id=44256)
 *  Data_ccbgssse001-fish.bsa
 *  Data_ccbgssse001-fish.esm
-*  Data_ccbgssse025-advdsgs.bsa
-*  Data_ccbgssse025-advdsgs.esm
+*  Data_ccBGSSSE025-AdvDSGS.bsa
+*  Data_ccBGSSSE025-AdvDSGS.esm
 *  Data_ccbgssse037-curios.bsa
 *  Data_ccbgssse037-curios.esl
 *  Data_Dawnguard.esm
@@ -286,6 +286,7 @@
 *  Data_Skyrim - Misc.bsa
 *  Data_Skyrim - Shaders.bsa
 *  Data_Skyrim - Sounds.bsa
+*  Data_Skyrim - Textures0.bsa
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
 *  Data_Update.esm
