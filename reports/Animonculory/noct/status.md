@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (720)
+### Valid (726)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [1st Person Interact Animation Teleport Bug Fix-92795-1-0-0-1685907012.zip](https://www.nexusmods.com/skyrimspecialedition/mods/92795/?tab=files&file_id=395075)
@@ -110,10 +110,11 @@
 *  [Combat Music Fix NG-84588-1-0-0-1675959709.zip](https://www.nexusmods.com/skyrimspecialedition/mods/84588/?tab=files&file_id=358046)
 *  [Combat Music Fix SKSE - AE-67015-1-0-1650775498.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67015/?tab=files&file_id=279304)
 *  [Community Shaders-86492-0-6-7-1699386058.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86492/?tab=files&file_id=440841)
+*  [Community Shaders-86492-0-7-0-1699907795.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86492/?tab=files&file_id=442373)
 *  [Companions Questline Tweaks - Beta-22300-1-1-1546471344.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22300/?tab=files&file_id=77033)
 *  [Compass Navigation Overhaul-74484-2-1-1-1687123795.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74484/?tab=files&file_id=399055)
 *  [Complete Widescreen Fix for SkyUI 5.2 SE Alpha - 2560x1080-1778-2-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?tab=files&file_id=35568)
-*  [Complex Parallax Materials-95134-1-0-1688600117.zip](https://www.nexusmods.com/skyrimspecialedition/mods/95134/?tab=files&file_id=404166)
+*  [Complex Parallax Materials-95134-1-0-2-1699907452.7z](https://www.nexusmods.com/skyrimspecialedition/mods/95134/?tab=files&file_id=442366)
 *  [Comprehensive First Person Animation Overhaul - CFPAO-87169-1-0-3-1680386372.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87169/?tab=files&file_id=374146)
 *  [Console Commands Extender - Anniversary Edition Update-74390-1-11-0-1667108020.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74390/?tab=files&file_id=327537)
 *  [ConsolePlusPlus-79975-1-3-0-1687767365.7z](https://www.nexusmods.com/skyrimspecialedition/mods/79975/?tab=files&file_id=401176)
@@ -134,12 +135,15 @@
 *  [d3dcompiler_47-31963-1-0-1579609721.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31963/?tab=files&file_id=120677)
 *  [Daedric Aspect-72229-1-0-1658938815.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72229/?tab=files&file_id=302635)
 *  [Dark Elf Voices For Bandits-63733-1-04-1655488875.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63733/?tab=files&file_id=291842)
+*  Data_ccasvsse001-almsivi.bsa
 *  Data_ccbgssse001-fish.bsa
 *  Data_ccbgssse001-fish.esm
-*  Data_ccbgssse025-advdsgs.bsa
-*  Data_ccbgssse025-advdsgs.esm
+*  Data_ccbgssse013-dawnfang.bsa
+*  Data_ccBGSSSE025-AdvDSGS.bsa
+*  Data_ccBGSSSE025-AdvDSGS.esm
 *  Data_ccbgssse037-curios.bsa
 *  Data_ccbgssse037-curios.esl
+*  Data_ccbgssse067-daedinv.bsa
 *  Data_ccqdrsse001-survivalmode.bsa
 *  Data_ccqdrsse001-survivalmode.esl
 *  Data_Dawnguard.esm
@@ -263,8 +267,9 @@
 *  [Goetia Animations - Enchanted Staves-71110-1-51-1657727300.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71110/?tab=files&file_id=298623)
 *  [Goetia Animations - Sneak Magic-75482-1-1-1663713147.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75482/?tab=files&file_id=318148)
 *  [Gonz - Little Locations - Stony Creek Cave Ext-91567-1-0-1688244758.rar](https://www.nexusmods.com/skyrimspecialedition/mods/91567/?tab=files&file_id=402895)
-*  [Grass Collision-87816-1-1-0-1693529079.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87816/?tab=files&file_id=422434)
-*  [Grass Lighting-86502-1-3-2-1693611470.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86502/?tab=files&file_id=422630)
+*  [Grabbing Mode Exploits Fixes-46753-1-0a-1637524472.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46753/?tab=files&file_id=243297)
+*  [Grass Collision-87816-1-2-0-1699907575.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87816/?tab=files&file_id=442368)
+*  [Grass Lighting-86502-1-3-3-1699907619.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86502/?tab=files&file_id=442369)
 *  [Guild Master's Armor First Person Texture Fix-75321-1-0-0-1663160400.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75321/?tab=files&file_id=316031)
 *  [HAH NPC Overhaul-31890-1-0-1580133441.zip](https://www.nexusmods.com/skyrimspecialedition/mods/31890/?tab=files&file_id=121423)
 *  [Hallgarth's Additional (Vanilla) Hair SE V3-7992-3.7z](https://www.nexusmods.com/skyrimspecialedition/mods/7992/?tab=files&file_id=28594)
@@ -334,6 +339,7 @@
 *  [Leviathan Animations II - Sprint-82603-2-4-1673973245.7z](https://www.nexusmods.com/skyrimspecialedition/mods/82603/?tab=files&file_id=350466)
 *  [Leviathan Animations II Greatsword Sprint Attacks-92266-1-0-1685181174.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92266/?tab=files&file_id=392323)
 *  [Light Limit Fix-99548-1-0-1-1693575378.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99548/?tab=files&file_id=422503)
+*  [Light Limit Fix-99548-1-2-0-1699907395.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99548/?tab=files&file_id=442364)
 *  [lilebonymace patches-36042-2-30-1678645020.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36042/?tab=files&file_id=367958)
 *  [Little Locations - Clearpine Enhanced-91567-1-02-1684850266.rar](https://www.nexusmods.com/skyrimspecialedition/mods/91567/?tab=files&file_id=391195)
 *  [Little Locations - Deekus Cabin-91567-1-0-1684500339.rar](https://www.nexusmods.com/skyrimspecialedition/mods/91567/?tab=files&file_id=389696)
@@ -527,7 +533,7 @@
 *  [ScaleformTranslationPP-22603-1-6-0-1670538527.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22603/?tab=files&file_id=338872)
 *  [Scare my Enemy Bug Fix-44685-1-0-1611374649.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44685/?tab=files&file_id=181189)
 *  [Scrambled Bugs - Anniversary Edition (1.6.629.0 and later)-43532-21-1678779028.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=368378)
-*  [Screen-Space Shadows-93209-1-1-0-1693532233.zip](https://www.nexusmods.com/skyrimspecialedition/mods/93209/?tab=files&file_id=422443)
+*  [Screen-Space Shadows-93209-1-1-2-1699907483.7z](https://www.nexusmods.com/skyrimspecialedition/mods/93209/?tab=files&file_id=442367)
 *  [Script Effect Archetype Crash Fix-43532-1-1678779345.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=368379)
 *  [SCROTE Loose Files Version-97155-1-0-1-1693742866.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97155/?tab=files&file_id=423010)
 *  [Serana's Hood Fix-20243-3-1-0-1627660653.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20243/?tab=files&file_id=217670)
@@ -647,7 +653,7 @@
 *  [Timed Lockpicking-99677-1-0-0-1693506742.zip](https://www.nexusmods.com/skyrimspecialedition/mods/99677/?tab=files&file_id=422340)
 *  [To Your Face AE-24720-1-0s-1665944678.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24720/?tab=files&file_id=324533)
 *  [Trad - Requiem - Saints Seducers - Rare Curios patch - Loose-62981-1-9-1670335751.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62981/?tab=files&file_id=338142)
-*  [Tree LOD Lighting-86617-1-1-0-1693528981.zip](https://www.nexusmods.com/skyrimspecialedition/mods/86617/?tab=files&file_id=422432)
+*  [Tree LOD Lighting-86617-1-2-0-1699907640.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86617/?tab=files&file_id=442370)
 *  [True Directional Movement-51614-2-2-3-1664411938.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51614/?tab=files&file_id=320160)
 *  [TrueHUD - More Unique Enemies (PLUS) Boss Bars-74739-3-0-1688689059.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74739/?tab=files&file_id=404483)
 *  [TrueHUD skins collection - New Horizons UI-87770-1-1-1679999076.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87770/?tab=files&file_id=372773)
@@ -704,7 +710,7 @@
 *  [VIGILANT Voiced - English Addon SE-11894-1-7-2-1679662192.zip](https://www.nexusmods.com/skyrimspecialedition/mods/11894/?tab=files&file_id=371641)
 *  [voriplasms (se-ae) 1.1-79064-1-1-1683383723.rar](https://www.nexusmods.com/skyrimspecialedition/mods/79064/?tab=files&file_id=385272)
 *  [Warmonger Armory - Unofficial Fixed SSE Port 1.1-17809-1-1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17809/?tab=files&file_id=56561)
-*  [Water Blending-95145-1-0-1688600076.zip](https://www.nexusmods.com/skyrimspecialedition/mods/95145/?tab=files&file_id=404165)
+*  [Water Blending-95145-1-1-0-1699907425.7z](https://www.nexusmods.com/skyrimspecialedition/mods/95145/?tab=files&file_id=442365)
 *  [Water Mod-56520-0-6-1689401808.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56520/?tab=files&file_id=407170)
 *  [WE05 Script Fix-49851-1-0-1-1620879756.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49851/?tab=files&file_id=203176)
 *  [Weapon Styles-77017-2-3-1691773403.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77017/?tab=files&file_id=416128)

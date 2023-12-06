@@ -487,8 +487,8 @@
 *  Data_ccbgssse020-graycowl.esl
 *  Data_ccbgssse021-lordsmail.bsa
 *  Data_ccbgssse021-lordsmail.esl
-*  Data_ccbgssse025-advdsgs.bsa
-*  Data_ccbgssse025-advdsgs.esm
+*  Data_ccBGSSSE025-AdvDSGS.bsa
+*  Data_ccBGSSSE025-AdvDSGS.esm
 *  Data_ccbgssse031-advcyrus.bsa
 *  Data_ccbgssse031-advcyrus.esm
 *  Data_ccbgssse034-mntuni.bsa
