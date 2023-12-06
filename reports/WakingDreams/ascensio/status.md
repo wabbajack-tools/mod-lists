@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1203)
+### Valid (1206)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(1) Community Overlays 1 - Main - UNP  2K-22487-1-0-1-1547247749.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77985)
 *  [(4) Alchemy Station Variants - Persistent Swap ENB-92768-1-2-1685974888.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=395295)
@@ -301,12 +301,15 @@
 *  [Dark Brotherhood Armor Replacer-56903-f-1638629337.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56903/?tab=files&file_id=246582)
 *  [Dark Brown Texture-33789-1-0-1584710983.rar](https://www.nexusmods.com/skyrimspecialedition/mods/33789/?tab=files&file_id=129507)
 *  [DarkFaceIssueReporter-42133-2-8-1605654107.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42133/?tab=files&file_id=170508)
+*  Data_ccasvsse001-almsivi.bsa
 *  Data_ccbgssse001-fish.bsa
 *  Data_ccbgssse001-fish.esm
-*  Data_ccbgssse025-advdsgs.bsa
-*  Data_ccbgssse025-advdsgs.esm
+*  Data_ccbgssse013-dawnfang.bsa
+*  Data_ccBGSSSE025-AdvDSGS.bsa
+*  Data_ccBGSSSE025-AdvDSGS.esm
 *  Data_ccbgssse037-curios.bsa
 *  Data_ccbgssse037-curios.esl
+*  Data_ccbgssse067-daedinv.bsa
 *  Data_ccqdrsse001-survivalmode.bsa
 *  Data_ccqdrsse001-survivalmode.esl
 *  Data_Dawnguard.esm
