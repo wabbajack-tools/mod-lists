@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1003)
+### Valid (1006)
 *  [- Vivid Eyes - Abyss Pack BSA-74410-1-0-2-1661983242.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74410/?tab=files&file_id=312092)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -200,6 +200,8 @@
 *  [Daedric Shrines - LOTD Add-on-62833-14-0-1671840621.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62833/?tab=files&file_id=343133)
 *  [Daedric Shrines 4 k-78772-1-01-1668534736.zip](https://www.nexusmods.com/skyrimspecialedition/mods/78772/?tab=files&file_id=332111)
 *  [DarkDukla Eye v16-68347-16-0-1685202044 (1).rar](https://www.nexusmods.com/skyrimspecialedition/mods/68347/?tab=files&file_id=392406)
+*  Data_ccbgssse001-fish.bsa
+*  Data_ccbgssse037-curios.bsa
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
@@ -288,6 +290,7 @@
 *  [EmbersXD - Campfire Patch-50883-1-3-1638287753.rar](https://www.nexusmods.com/skyrimspecialedition/mods/50883/?tab=files&file_id=245557)
 *  [ENB Helper SE 1.5 for SSE 1.5.97-23174-1-5-1574569443.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23174/?tab=files&file_id=114237)
 *  [ENB Input Disabler-62796-1-0-2-1643723189.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62796/?tab=files&file_id=260978)
+*  [ENB Light 0.95 Release Candidate 2-22574-0-95-1555278577.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=88473)
 *  [ENB Organizer-67077-v2-1-1.zip](https://www.nexusmods.com/skyrim/mods/67077/?tab=files&file_id=1000214338)
 *  [enbseries_skyrimse_v0475.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0475.zip_dad12ed0-b6bc-4ac2-b1a3-ec7f9647a0c6)
 *  [Encounter Zones Unlocked SE-19608-1-4-1583906933.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19608/?tab=files&file_id=128125)
