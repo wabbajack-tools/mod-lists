@@ -524,8 +524,8 @@
 *  Data_ccbgssse020-graycowl.esl
 *  Data_ccbgssse021-lordsmail.bsa
 *  Data_ccbgssse021-lordsmail.esl
-*  Data_ccbgssse025-advdsgs.bsa
-*  Data_ccbgssse025-advdsgs.esm
+*  Data_ccBGSSSE025-AdvDSGS.bsa
+*  Data_ccBGSSSE025-AdvDSGS.esm
 *  Data_ccbgssse031-advcyrus.bsa
 *  Data_ccbgssse031-advcyrus.esm
 *  Data_ccbgssse034-mntuni.bsa
@@ -635,6 +635,7 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
+*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -781,7 +782,6 @@
 *  [Elysium Remastered - Core Files.7z](https://mega.nz/file/8AUEwABS#2QWJ3ZoH_udwzn9Nj5EzuVSjU_8aK8-nMPGMS7bwQTY)
 *  [Elysium Remastered - DynDOLOD Output - Performance-65080-3-3-0-1684732897.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65080/?tab=files&file_id=390747)
 *  [Elysium Remastered - DynDOLOD Output - Performance-65080-3-3-0-1684953921.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65080/?tab=files&file_id=391585)
-*  [Elysium Remastered - DynDOLOD Output-65080-3-3-0-1684732179.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65080/?tab=files&file_id=390745)
 *  [Elysium Remastered - DynDOLOD Output-65080-3-3-0-1684952731.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65080/?tab=files&file_id=391580)
 *  [Elysium Remastered - Terrain LOD Output-65080-3-0-0-1682702665.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65080/?tab=files&file_id=382735)
 *  [Elysium Remastered - TexGen Output - Performance-65080-3-3-0-1684733225.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65080/?tab=files&file_id=390749)

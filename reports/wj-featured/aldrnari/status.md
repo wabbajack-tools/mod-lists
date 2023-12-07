@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2678)
+### Valid (2675)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0.0) SELUA - Solitude Exterior LOD Unlocker Advocate II-36116-1-1-1605036920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169508)
 *  [(1.1) The Great City of Solitude PATCH - Solitude Skyway SE - Drengin's Blue Palace Terrace (STD)-36116-1-1-1604648419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=168848)
@@ -607,11 +607,8 @@
 *  [Darkwater Crossing - TGV Addon Patch Collection-64382-1-0-1-1646171614.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64382/?tab=files&file_id=267541)
 *  [Data Files-42057-1-1604616002.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42057/?tab=files&file_id=168776)
 *  Data__ResourcePack.bsa
-*  Data_ccasvsse001-almsivi.bsa
-*  Data_ccbgssse013-dawnfang.bsa
 *  Data_ccBGSSSE025-AdvDSGS.bsa
 *  Data_ccBGSSSE025-AdvDSGS.esm
-*  Data_ccbgssse037-curios.bsa
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
