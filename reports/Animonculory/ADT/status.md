@@ -53,16 +53,16 @@
 *  [Creature Behavior Generator-81895-1-0-1-1672926046.zip](https://www.nexusmods.com/skyrimspecialedition/mods/81895/?tab=files&file_id=346906)
 *  [d3dcompiler_47-31963-1-0-1579609721.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31963/?tab=files&file_id=120677)
 *  Data_ccasvsse001-almsivi.bsa
-*  Data_ccbgssse001-fish.bsa
-*  Data_ccbgssse001-fish.esm
+*  Data_ccBGSSSE001-Fish.bsa
+*  Data_ccBGSSSE001-Fish.esm
 *  Data_ccbgssse013-dawnfang.bsa
 *  Data_ccBGSSSE025-AdvDSGS.bsa
 *  Data_ccBGSSSE025-AdvDSGS.esm
-*  Data_ccbgssse037-curios.bsa
-*  Data_ccbgssse037-curios.esl
+*  Data_ccBGSSSE037-Curios.bsa
+*  Data_ccBGSSSE037-Curios.esl
 *  Data_ccbgssse067-daedinv.bsa
-*  Data_ccqdrsse001-survivalmode.bsa
-*  Data_ccqdrsse001-survivalmode.esl
+*  Data_ccQDRSSE001-SurvivalMode.bsa
+*  Data_ccQDRSSE001-SurvivalMode.esl
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
