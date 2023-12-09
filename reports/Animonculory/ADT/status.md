@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (211)
+### Valid (210)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [Actor Limit Fix - Anniversary Edition (1.6.629.0 and later)-32349-9-1678780488.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=368385)
@@ -55,7 +55,6 @@
 *  Data_ccasvsse001-almsivi.bsa
 *  Data_ccBGSSSE001-Fish.bsa
 *  Data_ccBGSSSE001-Fish.esm
-*  Data_ccbgssse013-dawnfang.bsa
 *  Data_ccBGSSSE025-AdvDSGS.bsa
 *  Data_ccBGSSSE025-AdvDSGS.esm
 *  Data_ccBGSSSE037-Curios.bsa
