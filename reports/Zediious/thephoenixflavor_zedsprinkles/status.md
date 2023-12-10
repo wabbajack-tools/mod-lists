@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2044)
+### Valid (2067)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -430,12 +430,34 @@
 *  [Darkend Balance Patch-29213-1-1-1569350578.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29213/?tab=files&file_id=108097)
 *  [Darkstorm-77718-1-82-1691781876.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77718/?tab=files&file_id=416174)
 *  [Dastan PoP Preset-65224-1-0-1647710497.rar](https://www.nexusmods.com/skyrimspecialedition/mods/65224/?tab=files&file_id=271189)
+*  Data_ccBGSSSE001-Fish.bsa
+*  Data_ccBGSSSE001-Fish.esm
+*  Data_ccBGSSSE025-AdvDSGS.bsa
+*  Data_ccBGSSSE025-AdvDSGS.esm
+*  Data_ccBGSSSE037-Curios.bsa
+*  Data_ccBGSSSE037-Curios.esl
+*  Data_ccQDRSSE001-SurvivalMode.bsa
+*  Data_ccQDRSSE001-SurvivalMode.esl
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
+*  Data_Skyrim - Animations.bsa
+*  Data_Skyrim - Interface.bsa
+*  Data_Skyrim - Meshes0.bsa
 *  Data_Skyrim - Meshes1.bsa
+*  Data_Skyrim - Shaders.bsa
+*  Data_Skyrim - Sounds.bsa
+*  Data_Skyrim - Textures0.bsa
+*  Data_Skyrim - Textures1.bsa
+*  Data_Skyrim - Textures2.bsa
 *  Data_Skyrim - Textures3.bsa
 *  Data_Skyrim - Textures4.bsa
+*  Data_Skyrim - Textures5.bsa
+*  Data_Skyrim - Textures6.bsa
+*  Data_Skyrim - Textures7.bsa
+*  Data_Skyrim - Textures8.bsa
+*  Data_Skyrim - Voices_en0.bsa
+*  Data_Skyrim.esm
 *  Data_Update.esm
 *  [Dawnguard Dont Hunt Cured Vampires 1_0-5471-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5471/?tab=files&file_id=12034)
 *  [Dawnguard Fortress Improved SE v1.0-9221-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/9221/?tab=files&file_id=23499)
@@ -1746,6 +1768,7 @@
 *  [Staves AIO 2K-65481-1-3-1648722741.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65481/?tab=files&file_id=273841)
 *  [Stay At System Page-19832-1-5-0-1583022131.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19832/?tab=files&file_id=126538)
 *  [Steam Driven Automotons-40225-1-0-1612306311.rar](https://www.nexusmods.com/skyrimspecialedition/mods/40225/?tab=files&file_id=183619)
+*  steam_api64.dll
 *  [Steaming Hot Soups and Stews SE-63580-v1-0-1644799388.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63580/?tab=files&file_id=263969)
 *  [Steel Fashions- HIMBO Bodyslide files-81531-1-0-1672502790.rar](https://www.nexusmods.com/skyrimspecialedition/mods/81531/?tab=files&file_id=345263)
 *  [Steel Fashions- Static CBBE Bodyslide files-81531-1-0-1672525565.rar](https://www.nexusmods.com/skyrimspecialedition/mods/81531/?tab=files&file_id=345374)
