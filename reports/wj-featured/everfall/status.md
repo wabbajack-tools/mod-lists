@@ -6,7 +6,7 @@
 ### Mirrored (0)
 ### Valid (1553)
 *  [A Fortress Besieged Improved Boss Fight-683-1-0-1634258511.zip](https://www.nexusmods.com/dragonsdogma/mods/683/?tab=files&file_id=3124)
-*  [AgDrag.zip](https://github.com/Kaldaien/AgDrag/releases/download/agdrag_011/AgDrag.zip)
+*  [AgDrag.zip](https://www.nexusmods.com/dragonsdogma/mods/529/?tab=files&file_id=2574)
 *  [Alternate Exp Table-334-1-0 (1).rar](https://www.nexusmods.com/dragonsdogma/mods/334/?tab=files&file_id=1804)
 *  [Chainmail_Long_Sleeves_1_00-454-1-00-1541427907.rar](https://www.nexusmods.com/dragonsdogma/mods/454/?tab=files&file_id=2317)
 *  [Dark Arisen Title Screen Revival-713-1-0-1649672284.7z](https://www.nexusmods.com/dragonsdogma/mods/713/?tab=files&file_id=3196)
