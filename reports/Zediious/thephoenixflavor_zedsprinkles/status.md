@@ -246,7 +246,7 @@
 *  [Blackreach Tentacle Mesh Fix-43083-0-1-1607186501.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43083/?tab=files&file_id=173163)
 *  [Blade(s) of Chaos - ESL-89815-1-0-2B-1683154284.zip](https://www.nexusmods.com/skyrimspecialedition/mods/89815/?tab=files&file_id=384438)
 *  [BlademastersKatana2K-64778-1-0-1646941359.rar](https://www.nexusmods.com/skyrimspecialedition/mods/64778/?tab=files&file_id=269277)
-*  [Blank CC Plugins-87783-0-9-2-1680804040.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87783/?tab=files&file_id=375713)
+*  [Blank CC Plugins-87783-0-9-5-4-1702250662.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87783/?tab=files&file_id=450625)
 *  [Blended Roads-8834-1-7-1586448385.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8834/?tab=files&file_id=133231)
 *  [Blood Horker-13938-1-1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13938/?tab=files&file_id=61794)
 *  [Blood Operative 2k Diffuse 1k Normal-30611-1-1-1574893822.zip](https://www.nexusmods.com/skyrimspecialedition/mods/30611/?tab=files&file_id=114539)
