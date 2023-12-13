@@ -134,7 +134,7 @@ My personal mod list that I play with, utilizing Requiem and 3Tweaks, focused on
 
 ### [Ascensio](https://github.com/Oghma-Infinium/Ascensio)
 
-A comprehensive visual overhaul modlist for Skyrim Special Edition (v1.6.640) that aims to upgrade just about every visual aspect of Skyrim, from the vanilla animations to the various points of interest around the game. This list provides an expansive graphical package that offers...
+A comprehensive visual overhaul modlist for Skyrim Special Edition (v1.5.97) that aims to upgrade just about every visual aspect of Skyrim, from the vanilla animations to the various points of interest around the game. This list does not ship with **any** Creation Club Content, but this list does provide an expansive graphical package that offers:
 
  - Two ENB profiles to choose from (Zangdar's Rudy ENB for Cathedral Weathers and NAT.ENB III).
  - Several high-quality, handpicked assets
