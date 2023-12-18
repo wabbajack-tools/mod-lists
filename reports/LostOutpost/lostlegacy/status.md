@@ -270,12 +270,12 @@
 *  [Darkend - Enemy Rebalance 1.6-57463-1-6-1635426681.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57463/?tab=files&file_id=237513)
 *  [Darkend - Weapon Nerf-57463-1-0-1635426801.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57463/?tab=files&file_id=237514)
 *  [DarkenD 1.4 SSE-10423-1-4.rar](https://www.nexusmods.com/skyrimspecialedition/mods/10423/?tab=files&file_id=44256)
-*  Data_ccbgssse001-fish.bsa
-*  Data_ccbgssse001-fish.esm
+*  Data_ccBGSSSE001-Fish.bsa
+*  Data_ccBGSSSE001-Fish.esm
 *  Data_ccBGSSSE025-AdvDSGS.bsa
 *  Data_ccBGSSSE025-AdvDSGS.esm
-*  Data_ccbgssse037-curios.bsa
-*  Data_ccbgssse037-curios.esl
+*  Data_ccBGSSSE037-Curios.bsa
+*  Data_ccBGSSSE037-Curios.esl
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
