@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (282)
+### Valid (279)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [1st Person Interact Animation Teleport Bug Fix-92795-1-0-0-1685907012.zip](https://www.nexusmods.com/skyrimspecialedition/mods/92795/?tab=files&file_id=395075)
@@ -59,15 +59,12 @@
 *  [Creep Cluster Collision Fixes-93260-1-1-0-1690423711.7z](https://www.nexusmods.com/skyrimspecialedition/mods/93260/?tab=files&file_id=411022)
 *  [Critter Spawn Congestion Fix 1.3-67276-1-3-1673705873.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67276/?tab=files&file_id=349417)
 *  [Curation Club 1.1.0-60552-1-1-0-1673870936.zip](https://www.nexusmods.com/skyrimspecialedition/mods/60552/?tab=files&file_id=350066)
-*  Data_ccasvsse001-almsivi.bsa
 *  Data_ccBGSSSE001-Fish.bsa
 *  Data_ccBGSSSE001-Fish.esm
-*  Data_ccbgssse013-dawnfang.bsa
 *  Data_ccBGSSSE025-AdvDSGS.bsa
 *  Data_ccBGSSSE025-AdvDSGS.esm
 *  Data_ccBGSSSE037-Curios.bsa
 *  Data_ccBGSSSE037-Curios.esl
-*  Data_ccbgssse067-daedinv.bsa
 *  Data_ccQDRSSE001-SurvivalMode.bsa
 *  Data_ccQDRSSE001-SurvivalMode.esl
 *  Data_Dawnguard.esm
