@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (337)
+### Valid (336)
 *  [(0.5) Adria and Her Dog-5944-0-5-1684028054.zip](https://www.nexusmods.com/dragonage/mods/5944/?tab=files&file_id=1000010239)
 *  [(0.6) Riot Scene Tweaks and GW Justice-5944-0-6-1685130699.zip](https://www.nexusmods.com/dragonage/mods/5944/?tab=files&file_id=1000010315)
 *  [(0.8) Conspiracy Fixes and Dragonbrand-5944-0-8-1697607532.zip](https://www.nexusmods.com/dragonage/mods/5944/?tab=files&file_id=1000010771)
@@ -58,7 +58,6 @@
 *  [Better Bannhammer-4100-1-0.7z](https://www.nexusmods.com/dragonage/mods/4100/?tab=files&file_id=1000001815)
 *  [better shaders-3801-1-0.7z](https://www.nexusmods.com/dragonage/mods/3801/?tab=files&file_id=1000000763)
 *  [Bidelles Cosmetics-473.zip](https://www.nexusmods.com/dragonage/mods/473/?tab=files&file_id=8801)
-*  bin_ship_DAOrigins.exe
 *  [Biteback Axe Version 2-6132-2-1689008613.zip](https://www.nexusmods.com/dragonage/mods/6132/?tab=files&file_id=1000010519)
 *  [Blackblade Drop Fix-1112.7z](https://www.nexusmods.com/dragonage/mods/1112/?tab=files&file_id=5574)
 *  [Blighted Armor of Sentinel-5833-1-0-1661887989.rar](https://www.nexusmods.com/dragonage/mods/5833/?tab=files&file_id=1000009259)
@@ -116,7 +115,6 @@
 *  [Default Version - No IA required-5137-1-0-1574726630.rar](https://www.nexusmods.com/dragonage/mods/5137/?tab=files&file_id=1000006591)
 *  [DLC Item Integration-5190-1-2-0-1607051878.7z](https://www.nexusmods.com/dragonage/mods/5190/?tab=files&file_id=1000007556)
 *  [DLC Tweaks and Cameos-5504-2-0-1679707574.zip](https://www.nexusmods.com/dragonage/mods/5504/?tab=files&file_id=1000009999)
-*  docs_EA Help_en-us_Electronic_Arts_Technical_Support.glo
 *  [Dragon Age Reborn-5173-1-1-2-1624202435.zip](https://www.nexusmods.com/dragonage/mods/5173/?tab=files&file_id=1000008225)
 *  [Duncan Appearance Overhaul darker skin-5885-1-0-1667664574.zip](https://www.nexusmods.com/dragonage/mods/5885/?tab=files&file_id=1000009440)
 *  [Duncan's armor retexture v1.2-4602-1-2.rar](https://www.nexusmods.com/dragonage/mods/4602/?tab=files&file_id=1000004451)
@@ -301,6 +299,7 @@
 *  [TW3 hairstyles-4526-.rar](https://www.nexusmods.com/dragonage/mods/4526/?tab=files&file_id=1000003977)
 *  [Tweaked ghoul Tamlen morph-6112-1-0-1684531549.zip](https://www.nexusmods.com/dragonage/mods/6112/?tab=files&file_id=1000010274)
 *  [Two Moons Circle-5995-v1-0-1675929882.rar](https://www.nexusmods.com/dragonage/mods/5995/?tab=files&file_id=1000009776)
+*  [Unencrypted daorigins.exe - AlexFaithman-5989-1-0-0-1675337344.zip](https://www.nexusmods.com/dragonage/mods/5989/?tab=files&file_id=1000009742)
 *  [Unique High Dragon-5826-1-1661233725.rar](https://www.nexusmods.com/dragonage/mods/5826/?tab=files&file_id=1000009239)
 *  [Universal Voices-1512.rar](https://www.nexusmods.com/dragonage/mods/1512/?tab=files&file_id=7553)
 *  [Unofficial Remaster-5728-V1-3-1661705603.zip](https://www.nexusmods.com/dragonage/mods/5728/?tab=files&file_id=1000009246)

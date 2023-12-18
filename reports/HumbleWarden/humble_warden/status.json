@@ -2,7 +2,7 @@
   "MachineURL": "HumbleWarden/humble_warden",
   "Name": "Just a Humble Warden",
   "Version": "0.6.0",
-  "ModListHash": "73VJa2Hx+as=",
+  "ModListHash": "D4+bx6UPSbQ=",
   "Archives": [
     {
       "Status": "Valid",
@@ -5572,22 +5572,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "menYUTfbRu8=",
-        "Meta": "[General]\ngameName=DragonAgeOrigins\ngameFile=docs\\EA Help\\en-us\\Electronic_Arts_Technical_Support.glo",
-        "Name": "docs_EA Help_en-us_Electronic_Arts_Technical_Support.glo",
-        "Size": 0,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonAgeOrigins",
-          "GameFile": "docs\\EA Help\\en-us\\Electronic_Arts_Technical_Support.glo",
-          "GameVersion": "1.05.13263.0",
-          "Hash": "menYUTfbRu8="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "+RcDduk01tc=",
         "Meta": "[General]\ngameName=dragonage\nmodID=3914\nfileID=1000001521",
         "Name": "Lioncloth Fashion-3914-1-1.zip",
@@ -5609,16 +5593,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VYvJEVoyt+Y=",
-        "Meta": "[General]\ngameName=DragonAgeOrigins\ngameFile=bin_ship\\DAOrigins.exe",
-        "Name": "bin_ship_DAOrigins.exe",
-        "Size": 9674752,
+        "Hash": "sU5VefuimOQ=",
+        "Meta": "[General]\ngameName=dragonage\nmodID=5989\nfileID=1000009742",
+        "Name": "Unencrypted daorigins.exe - AlexFaithman-5989-1-0-0-1675337344.zip",
+        "Size": 4482702,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "DragonAgeOrigins",
-          "GameFile": "bin_ship\\DAOrigins.exe",
-          "GameVersion": "1.05.13263.0",
-          "Hash": "O2mLuCDVado="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Warralek",
+          "Description": "Unencrypted daorigins.exe for Steam users. Ready for use with Large Address Aware (4GB LAA patch) from Techpowerup.",
+          "FileID": 1000009742,
+          "GameName": "DragonAgeOrigins",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/140/images/5989/5989-1680045033-305620841.png",
+          "IsNSFW": false,
+          "ModID": 5989,
+          "Name": "4GB LAA patch compatible DAorigins.exe",
+          "Version": "1.0.0"
         }
       }
     },
