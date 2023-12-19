@@ -1,11 +1,10 @@
 ## Validation Report - Aldrnari (wj-featured/aldrnari)
 
 
-### Invalid (1)
-*  [Attack_MCO-DXP_v1.6.0.6.zip](https://modding-guild.com/archive/Attack_MCO-DXP_v1.6.0.6.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2674)
+### Valid (2675)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0.0) SELUA - Solitude Exterior LOD Unlocker Advocate II-36116-1-1-1605036920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169508)
 *  [(1.1) The Great City of Solitude PATCH - Solitude Skyway SE - Drengin's Blue Palace Terrace (STD)-36116-1-1-1604648419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=168848)
@@ -247,6 +246,7 @@
 *  [Atmoran Axe-94921-v1-1-1544784708.7z](https://www.nexusmods.com/skyrim/mods/94921/?tab=files&file_id=1000287624)
 *  [Attack Speed Fix-10741-2-2-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10741/?tab=files&file_id=28731)
 *  [Attack speed to damage-73220-1-2-1660315261.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73220/?tab=files&file_id=306873)
+*  [Attack_MCO-DXP_v1.6.0.6.zip](https://modding-guild.com/archive/Attack_MCO-DXP_v1.6.0.6.zip)
 *  [Attunement Sphere and Lexicon Distributor-61786-1-1641947870.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61786/?tab=files&file_id=256024)
 *  [Audio Overhaul Skyrim - Immersive Sounds Compendium Integration (1.0.2)-36761-1-0-2-1630753418.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36761/?tab=files&file_id=226050)
 *  [Audio Overhaul Skyrim - Immersive Sounds Compendium Integration (1.1.0)-36761-1-1-0-1651282424.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36761/?tab=files&file_id=280412)

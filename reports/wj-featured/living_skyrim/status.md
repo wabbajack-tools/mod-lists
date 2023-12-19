@@ -1,11 +1,10 @@
 ## Validation Report - Living Skyrim (wj-featured/living_skyrim)
 
 
-### Invalid (1)
-*  [Attack_MCO-DXP_v1.6.0.6.zip](https://modding-guild.com/archive/Attack_MCO-DXP_v1.6.0.6.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1386)
+### Valid (1387)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -101,6 +100,7 @@
 *  [AtCW - Siege Damage Repairs-20668-2-5-2-1604647668.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20668/?tab=files&file_id=168840)
 *  [Atlas Map Markers-24104-2-5-1659372602.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24104/?tab=files&file_id=303910)
 *  [Attack Speed Fix-10741-2-2-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10741/?tab=files&file_id=28731)
+*  [Attack_MCO-DXP_v1.6.0.6.zip](https://modding-guild.com/archive/Attack_MCO-DXP_v1.6.0.6.zip)
 *  [Audio Overhaul Skyrim - Immersive Sounds Compendium Integration (1.0.2)-36761-1-0-2-1630753418.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36761/?tab=files&file_id=226050)
 *  [Audio Overhaul Skyrim (3.3.2)-12466-3-3-2-1591114339.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12466/?tab=files&file_id=143509)
 *  [Auriel's Bow HD - Worn-10608-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10608/?tab=files&file_id=28272)
