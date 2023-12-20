@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1495)
+### Valid (1496)
 *  [(1) SBP SE - Simple Belly Paints - 2K-22811-1-1-1548197078.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79308)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
 *  [(3) SBP  - CBBE Adjustments-22811-1-1CBBE-1583706479.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=127862)
@@ -214,7 +214,7 @@
 *  [CBBE 3BA Physics Config Reinstaller-30174-1-33-1672171213.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30174/?tab=files&file_id=344057)
 *  [CBBE and UNP Hotfix - V1.0 to v1.1-29345-1-1-1571435309.zip](https://www.nexusmods.com/skyrimspecialedition/mods/29345/?tab=files&file_id=110736)
 *  [CBPC - Fomod installer - MAIN FILE-21224-1-5-9-1693513353.rar](https://www.nexusmods.com/skyrimspecialedition/mods/21224/?tab=files&file_id=422359)
-*  [CBPC 3-Bone Breast Body Breast-Butt Bounce Configs for 3BA-BHUNP-COCO-21224-1-5-2-1654550666.rar](https://www.nexusmods.com/skyrimspecialedition/mods/21224/?tab=files&file_id=289367)
+*  [CBPC - Fomod installer - MAIN FILE-21224-1-6-0-1701807710 (1).rar](https://www.nexusmods.com/skyrimspecialedition/mods/21224/?tab=files&file_id=449081)
 *  [CC Camping - Missile's Cut-58840-1-1637528741.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58840/?tab=files&file_id=243312)
 *  [CC's Fort Dawnguard Reborn - 4K - 6.0-9776-6-0-1622836636.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9776/?tab=files&file_id=207244)
 *  [CC's HQ Carts - 2K - 1.0-4878-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4878/?tab=files&file_id=10216)
@@ -301,8 +301,8 @@
 *  Data_ccafdsse001-dwesanctuary.esm
 *  Data_ccasvsse001-almsivi.bsa
 *  Data_ccasvsse001-almsivi.esm
-*  Data_ccbgssse001-fish.bsa
-*  Data_ccbgssse001-fish.esm
+*  Data_ccBGSSSE001-Fish.bsa
+*  Data_ccBGSSSE001-Fish.esm
 *  Data_ccbgssse002-exoticarrows.bsa
 *  Data_ccbgssse002-exoticarrows.esl
 *  Data_ccbgssse003-zombies.bsa
@@ -347,8 +347,8 @@
 *  Data_ccbgssse035-petnhound.esl
 *  Data_ccbgssse036-petbwolf.bsa
 *  Data_ccbgssse036-petbwolf.esl
-*  Data_ccbgssse037-curios.bsa
-*  Data_ccbgssse037-curios.esl
+*  Data_ccBGSSSE037-Curios.bsa
+*  Data_ccBGSSSE037-Curios.esl
 *  Data_ccbgssse038-bowofshadows.bsa
 *  Data_ccbgssse038-bowofshadows.esl
 *  Data_ccbgssse040-advobgobs.bsa
@@ -429,8 +429,8 @@
 *  Data_ccmtysse002-ve.esl
 *  Data_ccpewsse002-armsofchaos.bsa
 *  Data_ccpewsse002-armsofchaos.esl
-*  Data_ccqdrsse001-survivalmode.bsa
-*  Data_ccqdrsse001-survivalmode.esl
+*  Data_ccQDRSSE001-SurvivalMode.bsa
+*  Data_ccQDRSSE001-SurvivalMode.esl
 *  Data_ccqdrsse002-firewood.bsa
 *  Data_ccqdrsse002-firewood.esl
 *  Data_ccrmssse001-necrohouse.bsa
@@ -1211,6 +1211,7 @@
 *  [Simplest Horses - Main File-54225-0-9-5-1670202262.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54225/?tab=files&file_id=337706)
 *  [Simplicity of Snow-56235-0-15-1692525333.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56235/?tab=files&file_id=418895)
 *  [Simplicity of Snow-56235-0-18-1701341956.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56235/?tab=files&file_id=447376)
+*  [skee64.ini tweak-99047-1-0-1692832115.zip](https://www.nexusmods.com/skyrimspecialedition/mods/99047/?tab=files&file_id=419918)
 *  [Skeleton Replacer HD 2K SE-52845-1-1-1627666084.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52845/?tab=files&file_id=217702)
 *  [Skeleton.and.Human.Bones.1k-17282-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17282/?tab=files&file_id=54632)
 *  [SkFO SE - Skin Feature Overlays- 2K-20183-1-6-1562446371.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20183/?tab=files&file_id=98405)
@@ -1244,11 +1245,11 @@
 *  [Skyrim Sewers 4.14 Undeath Patch ESPFE-17456-4-14-1548033065.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17456/?tab=files&file_id=79078)
 *  [Skyrim Sewers 415-9320-4-15-1549828167.rar](https://www.nexusmods.com/skyrimspecialedition/mods/9320/?tab=files&file_id=81323)
 *  [Skyrim Skill Uncapper for SE and AE-82558-2-2-3-1695703184.zip](https://www.nexusmods.com/skyrimspecialedition/mods/82558/?tab=files&file_id=429047)
-*  [Skyrim Spear Mechanic SE 3.0 DAR-25146-3-0-1592152122.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25146/?tab=files&file_id=145670)
 *  [Skyrim Underground - esm-131-4-6-1-1579955800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/131/?tab=files&file_id=121096)
 *  [Skyrim Underground SSE - ESM-40565-1-0-1602600857.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69604/?tab=files&file_id=290974)
 *  Skyrim_Default.ini
 *  Skyrim_SkyrimPrefs.ini
+*  Skyrim.ccc
 *  [Skyrim's Paraglider Anniversary Edition-71123-1-10-0-1663665637.rar](https://www.nexusmods.com/skyrimspecialedition/mods/71123/?tab=files&file_id=317883)
 *  [Skyrims Unique Treasures SE-5261-4-6-1664550862.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5261/?tab=files&file_id=320495)
 *  SkyrimSE.exe
