@@ -67,7 +67,7 @@
 *  [MCM Settings Manager-56195-1-2-1668562769.rar](https://www.nexusmods.com/fallout4/mods/56195/?tab=files&file_id=257096)
 *  [MO2 Fix Game Registry Plugin-105997-1-0-0-1-1701466082.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105997/?tab=files&file_id=447908)
 *  [Mod Configuration Menu 1.39-21497-1-39-1575706632.zip](https://www.nexusmods.com/fallout4/mods/21497/?tab=files&file_id=172180)
-*  [Mod.Organizer-2.5.0.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.0/Mod.Organizer-2.5.0.7z)
+*  [Mod.Organizer-2.5.1rc1.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.1rc1/Mod.Organizer-2.5.1rc1.7z)
 *  [ModernHouseLOD-62975-1-0-1659782210.zip](https://www.nexusmods.com/fallout4/mods/62975/?tab=files&file_id=245809)
 *  [New Swimming Anims  -  Standard-64795-1-0-1664804369.rar](https://www.nexusmods.com/fallout4/mods/64795/?tab=files&file_id=252346)
 *  [NF_Rocks_Fix_Packed-70237-1-0-1680567449.rar](https://www.nexusmods.com/fallout4/mods/70237/?tab=files&file_id=272918)
