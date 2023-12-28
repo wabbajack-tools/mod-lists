@@ -308,14 +308,14 @@
 *  [Dark Dreams-54567-1-3-1631220893.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54567/?tab=files&file_id=227271)
 *  [Dark Grey Texture-33789-1-0-1584711043.rar](https://www.nexusmods.com/skyrimspecialedition/mods/33789/?tab=files&file_id=129508)
 *  [Dark Knight Armor 4K-40775-1-1-1602262257.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40775/?tab=files&file_id=164652)
-*  Data_ccbgssse001-fish.bsa
-*  Data_ccbgssse001-fish.esm
+*  Data_ccBGSSSE001-Fish.bsa
+*  Data_ccBGSSSE001-Fish.esm
 *  Data_ccBGSSSE025-AdvDSGS.bsa
 *  Data_ccBGSSSE025-AdvDSGS.esm
-*  Data_ccbgssse037-curios.bsa
-*  Data_ccbgssse037-curios.esl
-*  Data_ccqdrsse001-survivalmode.bsa
-*  Data_ccqdrsse001-survivalmode.esl
+*  Data_ccBGSSSE037-Curios.bsa
+*  Data_ccBGSSSE037-Curios.esl
+*  Data_ccQDRSSE001-SurvivalMode.bsa
+*  Data_ccQDRSSE001-SurvivalMode.esl
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
@@ -504,7 +504,6 @@
 *  [Hvergelmir Brows - For High Poly Head-38493-1-0-1595280707.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38493/?tab=files&file_id=151336)
 *  [Hvergelmir's Aesthetics - Brows 4.1-1062-4-1-1553175906.rar](https://www.nexusmods.com/skyrimspecialedition/mods/1062/?tab=files&file_id=85706)
 *  [I'm Walkin' Here-27742-1-5-0-1592641657.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27742/?tab=files&file_id=146585)
-*  [Ice Cave Parallax Improved 1.4.1-24987-1-4-1-1556073704.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24987/?tab=files&file_id=89489)
 *  [Ice Wraiths 2K-29254-1-0-1569416227.zip](https://www.nexusmods.com/skyrimspecialedition/mods/29254/?tab=files&file_id=108180)
 *  [iiNBW preset-29953-10-1-1609811941.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29953/?tab=files&file_id=177780)
 *  [Illustrious Whiterun - Parallax Meshes-28950-1-3-1-1585049152.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28950/?tab=files&file_id=130276)
@@ -764,7 +763,7 @@
 *  [RaceMenu Animated Overlays SE-37275-1-2-1592273120.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37275/?tab=files&file_id=145936)
 *  [RaceMenu High Heels Fixes-18045-1-3-1552859840.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18045/?tab=files&file_id=85313)
 *  [RaceMenu Special Edition v0-4-16-19080-0-4-16-1601805673.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19080/?tab=files&file_id=163861)
-*  [Racial Skin Variance - SPID 4K Version-81668-2-3-0-1699791962.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81668/?tab=files&file_id=442016)
+*  [Racial Skin Variance - SPID 4K Version-81668-2-3-2-1703153459.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81668/?tab=files&file_id=453788)
 *  [Radiance - 3BAv2-61813-1-16-22-1642356980.rar](https://www.nexusmods.com/skyrimspecialedition/mods/61813/?tab=files&file_id=257282)
 *  [Rally's Raven Rock 2K-34292-1-0-1585865828.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34292/?tab=files&file_id=132127)
 *  [Rally's Solstheim Plants 2K-35081-1-0-1587585011.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35081/?tab=files&file_id=135744)
@@ -853,7 +852,7 @@
 *  [SC - KS Hairdos Retextured-38820-1-8-1621881743.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38820/?tab=files&file_id=205362)
 *  [ScaleformTranslationPP-22603-1-4-1-1586306055.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22603/?tab=files&file_id=132968)
 *  [Scrambled Bugs (Special Edition)-43532-17-1646905605.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=269169)
-*  [Security Overhaul SKSE - Add-ons-59529-0-1-4-1644495504.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59529/?tab=files&file_id=263075)
+*  [Security Overhaul SKSE - Add-ons-59529-0-1-9-1-1699596506.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59529/?tab=files&file_id=441363)
 *  [Security Overhaul SKSE - Lock Variations-58224-3-2-0-1664066945.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58224/?tab=files&file_id=319179)
 *  [Serana Re-Imagined SE-43430-2-0-1611543100.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43430/?tab=files&file_id=181651)
 *  [SeranaDialogEdit v 102-16222-1-02.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16222/?tab=files&file_id=59083)
@@ -885,6 +884,7 @@
 *  [Skyrim 3D Trees and Plants-12371-5-0-1-1591527547.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12371/?tab=files&file_id=144298)
 *  [Skyrim Outfit System v0.6.0-42162-0-6-0-1670042962.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42162/?tab=files&file_id=336961)
 *  [Skyrim Remastered - Azura and Blackreach Crystals 2K-38371-1-00-1594922133.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38371/?tab=files&file_id=150713)
+*  [Skyrim Remastered - Caves 4K Parallax-38220-1-00-1594581521.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38220/?tab=files&file_id=150062)
 *  [Skyrim Weapons Expansion - BSA-32500-1-3-1603260368.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32500/?tab=files&file_id=166390)
 *  Skyrim_Default.ini
 *  Skyrim_SkyrimPrefs.ini
