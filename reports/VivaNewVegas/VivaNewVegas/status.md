@@ -39,7 +39,7 @@
 *  Data_OldWorldBlues.esm
 *  [Delay DLC Redux-75851-2-1-1691048078.rar](https://www.nexusmods.com/newvegas/mods/75851/?tab=files&file_id=1000114202)
 *  [Depth of Field Fix-81200-1-1-1693094738.zip](https://www.nexusmods.com/newvegas/mods/81200/?tab=files&file_id=1000115438)
-*  [Desert Natural Weathers NV-75437-7-2-1703141586.7z](https://www.nexusmods.com/newvegas/mods/75437/?tab=files&file_id=1000120679)
+*  [Desert Natural Weathers NV-75437-7-2-5-1703577785.7z](https://www.nexusmods.com/newvegas/mods/75437/?tab=files&file_id=1000120961)
 *  [DXVK 1.10.1-79299-1-10-1-1672125216.7z](https://www.nexusmods.com/newvegas/mods/79299/?tab=files&file_id=1000102855)
 *  [DXVK 1.10.3-79299-1-10-3-1672125190.7z](https://www.nexusmods.com/newvegas/mods/79299/?tab=files&file_id=1000102854)
 *  [DXVK 2.2 - Async-79299-2-2-1683991305.7z](https://www.nexusmods.com/newvegas/mods/79299/?tab=files&file_id=1000109175)
@@ -149,5 +149,5 @@
 *  [Vigor-83576-1-2-1699208587.zip](https://www.nexusmods.com/newvegas/mods/83576/?tab=files&file_id=1000118651)
 *  [Viva Default Preset-81231-10-2-2-3-1689861180.7z](https://www.nexusmods.com/newvegas/mods/81231/?tab=files&file_id=1000113366)
 *  [VNV Extended Navmesh Patch-79358-1-0-1700002356.7z](https://www.nexusmods.com/newvegas/mods/79358/?tab=files&file_id=1000119064)
-*  [VNV Pre-Generated LOD-79358-1-0-1703284680.7z](https://www.nexusmods.com/newvegas/mods/79358/?tab=files&file_id=1000120762)
+*  [VNV Pre-Generated LOD-79358-1-0-1703812118.7z](https://www.nexusmods.com/newvegas/mods/79358/?tab=files&file_id=1000121053)
 *  [YUP - Base Game and All DLC-51664-12-9-1701436279.7z](https://www.nexusmods.com/newvegas/mods/51664/?tab=files&file_id=1000119719)
