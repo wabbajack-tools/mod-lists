@@ -1,20 +1,20 @@
 {
   "MachineURL": "TheMidnightRide/TheMidnightRide",
   "Name": "The Midnight Ride",
-  "Version": "22.12.23",
-  "ModListHash": "1ASn9fYA42Q=",
+  "Version": "29.12.23",
+  "ModListHash": "1KCvmN3Ib9w=",
   "Archives": [
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "vYYN1/hznUE=",
-        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.1rc1/Mod.Organizer-2.5.1rc1.7z",
-        "Name": "Mod.Organizer-2.5.1rc1.7z",
-        "Size": 138549583,
+        "Hash": "pIrIjXoSWLE=",
+        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.1rc2/Mod.Organizer-2.5.1rc2.7z",
+        "Name": "Mod.Organizer-2.5.1rc2.7z",
+        "Size": 138543956,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.1rc1/Mod.Organizer-2.5.1rc1.7z"
+          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.1rc2/Mod.Organizer-2.5.1rc2.7z"
         }
       }
     },
@@ -370,15 +370,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/P73ph2Tefw=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=69798\nfileID=291798",
-        "Name": "RobCo Patcher-69798-3-5-4-1697377498.zip",
-        "Size": 391580,
+        "Hash": "VylXU04tagc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=69798\nfileID=297919",
+        "Name": "RobCo Patcher-69798-3-6-0-1703774242.zip",
+        "Size": 409526,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Zzyxzz",
           "Description": "RobCo Patcher, is a patcher based on F4SE and CommonLibF4, which allows mod authors and users to modify game data without the use of plugins.\n\nYou can modify ammos, npcs, races, weapons and more.",
-          "FileID": 291798,
+          "FileID": 297919,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69798/69798-1679152528-1530192852.jpeg",
           "IsNSFW": false,
@@ -1294,6 +1294,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "fQFvO5u/wOs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=69813\nfileID=446636",
+        "Name": "NIF Preview-69813-0-2-0-1701106925.7z",
+        "Size": 240110,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Parapets",
+          "Description": "Mod Organizer plugin to support previewing NIF files (3D models).",
+          "FileID": 446636,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69813/69813-1655498149-175023022.png",
+          "IsNSFW": false,
+          "ModID": 69813,
+          "Name": "NIF Preview (3D Model Viewer) for Mod Organizer",
+          "Version": "0.1.8b"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "i8yuMjN4A6M=",
         "Meta": "[General]\ngameName=fallout4\nmodID=68599\nfileID=277463",
         "Name": "FO4 Particle Patch v1-2 Main-68599-1-2-1684309636.rar",
@@ -1330,27 +1351,6 @@
           "ModID": 69363,
           "Name": "Outline Workshop Highlight Only",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fQFvO5u/wOs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=69813\nfileID=446636",
-        "Name": "NIF Preview-69813-0-2-0-1701106925.7z",
-        "Size": 240110,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Parapets",
-          "Description": "Mod Organizer plugin to support previewing NIF files (3D models).",
-          "FileID": 446636,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/69813/69813-1655498149-175023022.png",
-          "IsNSFW": false,
-          "ModID": 69813,
-          "Name": "NIF Preview (3D Model Viewer) for Mod Organizer",
-          "Version": "0.1.8b"
         }
       }
     },
