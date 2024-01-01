@@ -49,7 +49,7 @@
     -   [Ground Zero - A Fallout 4 Experience](#ground-zero---a-fallout-4-experience)
     -   [FUSION](#fusion)
     -   [(NSFW)Wasteland of Depravity(NSFW)](#nsfwwasteland-of-depravitynsfw)
-    -   [(NSFW)Parabellum(NSFW)](#nsfwparabllumnsfw)
+    -   [(NSFW)Parabellum(NSFW)](#nsfwparabellumnsfw)
 -   [Enderal Special Edition](#enderal-special-edition)
     -   [Somnium: In Every Shadow](#somnium-in-every-shadow)
     -   [The Path](#the-path)
