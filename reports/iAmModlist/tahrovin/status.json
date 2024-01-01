@@ -1,8 +1,8 @@
 {
   "MachineURL": "iAmModlist/tahrovin",
   "Name": "Tahrovin",
-  "Version": "2.0.2",
-  "ModListHash": "/HR+taTaluE=",
+  "Version": "2.0.3",
+  "ModListHash": "0vsBk1rObk0=",
   "Archives": [
     {
       "Status": "Valid",
@@ -1316,48 +1316,48 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Mj8+6rxW6Es=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Interface.bsa",
-        "Name": "Data_Skyrim - Interface.bsa",
-        "Size": 65726644,
+        "Hash": "kX9UFltG4+s=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Animations.bsa",
+        "Name": "Data_Skyrim - Animations.bsa",
+        "Size": 116177491,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Skyrim - Interface.bsa",
+          "GameFile": "Data\\Skyrim - Animations.bsa",
           "GameVersion": "1.4.15.0",
-          "Hash": "Mj8+6rxW6Es="
+          "Hash": "kX9UFltG4+s="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "x6lgChdDLtA=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Textures1.bsa",
-        "Name": "Data_Skyrim - Textures1.bsa",
-        "Size": 1509673333,
+        "Hash": "briiqqWUug0=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Textures0.bsa",
+        "Name": "Data_Skyrim - Textures0.bsa",
+        "Size": 655189115,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Skyrim - Textures1.bsa",
+          "GameFile": "Data\\Skyrim - Textures0.bsa",
           "GameVersion": "1.4.15.0",
-          "Hash": "x6lgChdDLtA="
+          "Hash": "briiqqWUug0="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "2Tmfw2AG/MM=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Voices_en0.bsa",
-        "Name": "Data_Skyrim - Voices_en0.bsa",
-        "Size": 1807969854,
+        "Hash": "6by7EhPzAOQ=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Textures8.bsa",
+        "Name": "Data_Skyrim - Textures8.bsa",
+        "Size": 25248518,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Skyrim - Voices_en0.bsa",
+          "GameFile": "Data\\Skyrim - Textures8.bsa",
           "GameVersion": "1.4.15.0",
-          "Hash": "2Tmfw2AG/MM="
+          "Hash": "6by7EhPzAOQ="
         }
       }
     },
@@ -1454,6 +1454,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "4+F6wQO0cRg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=164\nfileID=240322",
+        "Name": "SSEEdit 4.0.4-164-4-0-4-1636548642.7z",
+        "Size": 14361762,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ElminsterAU and the xEdit team",
+          "Description": "SSEEdit is the Skyrim: Special Edition version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.",
+          "FileID": 240322,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/164/164-1544500149-1688528806.png",
+          "IsNSFW": false,
+          "ModID": 164,
+          "Name": "SSEEdit",
+          "Version": "4.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "8Va9AZ2zHAg=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/xLODGen.98.7z_af8fe5b1-de27-4d04-b5d2-e863983d80bf",
         "Name": "xLODGen.98.7z",
@@ -1523,6 +1544,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "RuCXFcIHABQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=10926\nfileID=55877",
+        "Name": "Archery 2.5-10926-2-5.7z",
+        "Size": 6191756,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Vactrol",
+          "Description": "Fastest arrows/bolts and real gravity, for sensations closer to a real bow, craftable Warbow - a longbow with more damage on par with the imperial bow.",
+          "FileID": 55877,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/10926-0-1500207571.jpg",
+          "IsNSFW": false,
+          "ModID": 10926,
+          "Name": "Archery",
+          "Version": "2.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "wRbuWQ5xJoc=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=63663\nfileID=433902",
         "Name": "Arctals VRIK Tweaks - Merged-63663-1-7-1697301549.7z",
@@ -1559,27 +1601,6 @@
           "ModID": 61321,
           "Name": "AutoBody AE - Configurable Randomized Bodies",
           "Version": "1.5.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "qxDal33oA3c=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=103990\nfileID=439626",
-        "Name": "Blocking and Flash VR - Brawl Fix-103990-1-0-1699060625.zip",
-        "Size": 1915017,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "AP05 hitmante and Aelover",
-          "Description": "An edit of the Blocking and Flash VR mod that fixes brawls and adds the effect to blocking NPCs",
-          "FileID": 439626,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/103990/103990-1699060114-423577118.jpeg",
-          "IsNSFW": false,
-          "ModID": 103990,
-          "Name": "Blocking and Flash VR - Redux",
-          "Version": "1.0"
         }
       }
     },
@@ -1628,21 +1649,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ubO6Itxhk4U=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=22487\nfileID=79615",
-        "Name": "(Q) Community Overlays 1 - Bugfix Patch-22487-1-0-2-1548457861.7z",
-        "Size": 4175,
+        "Hash": "9r/x4HzZcZQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=53524\nfileID=219953",
+        "Name": "Clean Menu-53524-1-0-1628516880.zip",
+        "Size": 59765,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DomainWolf",
-          "Description": "A set of 30\u002B overlays made from the ideas of members of the community! This mod took over a month to make and is the highest quality work I have put out so far. Contains many different kinds of overlays from warpaints, bodypaints, tattoos, dragon scales, blood stains, and much more! In total there are around 110 Individual Overlays!",
-          "FileID": 79615,
+          "Author": "Crithion",
+          "Description": "Removes the bethesda logo from the main menu in VR (you only get this bug if you disable the VR Playroom) and many distracting HUD elements.",
+          "FileID": 219953,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22487/95587-1547075780-1799571872.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53524/53524-1641323670-276411984.png",
           "IsNSFW": false,
-          "ModID": 22487,
-          "Name": "Community Overlays 1 (0-30) Bodypaints Warpaints Tattoos and more made for the Community (Special Edition)",
-          "Version": "1.0.1"
+          "ModID": 53524,
+          "Name": "Unobtrusive UI for VR",
+          "Version": "1.0"
         }
       }
     },
@@ -1734,27 +1755,6 @@
           "ModID": 98883,
           "Name": "Drop On Death - VR",
           "Version": "0.8"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "OzhV7eLqbIo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=63725\nfileID=276658",
-        "Name": "DVLaSS Papyrus Edition-63725-Final-1649775310.7z",
-        "Size": 3511,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kitsuune",
-          "Description": "SKSE plugin that improves volumetric lighting and shadows by synchronizing them with Skyrim\u0027s sun and moon(s)",
-          "FileID": 276658,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/63725/63725-1646091469-1831971340.png",
-          "IsNSFW": false,
-          "ModID": 63725,
-          "Name": "Enhanced Volumetric Lighting and Shadows (EVLaS)",
-          "Version": "1.3.1"
         }
       }
     },
@@ -1950,6 +1950,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "h+DIH/SlIhA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=61434\nfileID=436263",
+        "Name": "Glamur Reshade v2.5.1-61434-2-5-1-1698019595.zip",
+        "Size": 1685536,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "rhellct - see Acknowledgments",
+          "Description": "Performance-friendly Ambient Occlusion for SkyrimVR. Also includes subtle Global Illumination and bounce lighting effects. And sharpening to fix the game\u0027s blurriness, of course.\n\n\n\nCan be run on top of any weather mod, interior lighting mod, and/or ENB that you\u0027re currently using.",
+          "FileID": 436263,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61434/61434-1641526710-1912474592.png",
+          "IsNSFW": false,
+          "ModID": 61434,
+          "Name": "Glamur Reshade VR",
+          "Version": "2.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "4LERu+oO0AY=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=64442\nfileID=378976",
         "Name": "HeelsFix-64442-1-6-2-1681684803.7z",
@@ -2006,21 +2027,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "TcbdAWOVBvE=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=11802\nfileID=347896",
-        "Name": "Legacy of the Dragonborn-11802-5-6-5-1673196977.7z",
-        "Size": 2002797561,
+        "Hash": "Ue6dA4GZ4Sc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=49845\nfileID=203300",
+        "Name": "Lamenthia\u0027s Marks of Beauty 4k-49845-1-0-1620935756.7z",
+        "Size": 22341611,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "icecreamassassin",
-          "Description": "Legacy of the Dragonborn will forever change how you play Skyrim. Not just a display mod, not just a quest mod, not just a new guild mod, but a complete foundational flagship mod to build an entire load order around. This DLC expansion sized mod adds hundreds of new items, dozens of new quests and hundreds of extra hours of play.",
-          "FileID": 347896,
+          "Author": "Lamenthia",
+          "Description": "50\u002B face overlays for freckles, moles, age spots, birthmarks and more. They are for female characters, but some of them look good on men as well.",
+          "FileID": 203300,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/11802-0-1505492063.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49845/49845-1620937851-1230812406.png",
           "IsNSFW": false,
-          "ModID": 11802,
-          "Name": "Legacy of the Dragonborn SSE",
-          "Version": "5.6.5"
+          "ModID": 49845,
+          "Name": "Lamenthia\u0027s Marks of Beauty",
+          "Version": "1.0"
         }
       }
     },
@@ -2222,6 +2243,20 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "GN8voulRV40=",
+        "Meta": "[General]\nmanualURL=https://www.mediafire.com/file/bnqmaf6r5odxnd1/%255BNINI%255D_Operator_%255BSE%255D_-_CBBE.7z/file\nprompt=",
+        "Name": "[NINI] Operator [SE] - CBBE.7z",
+        "Size": 63898011,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "",
+          "Url": "https://www.mediafire.com/file/bnqmaf6r5odxnd1/%255BNINI%255D_Operator_%255BSE%255D_-_CBBE.7z/file"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "sc4Ohmn2N0U=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=19052\nfileID=264748",
         "Name": "Ordinator VR Patch-19052-0-64-1645069120.7z",
@@ -2243,13 +2278,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "P73sHnfCED4=",
-        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=1_sYhna-VKSKFOG8mNA8dWpByvNba42ZG\u0026export=download",
-        "Name": "Pubic Hair Overlays SE.zip",
-        "Size": 1187330,
+        "Hash": "aVDwT1D1azY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=33883\nfileID=149367",
+        "Name": "Flawn\u0027s Argonian Overlays-33883-1-0-1594187862.7z",
+        "Size": 54382062,
         "State": {
-          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
-          "Id": "1_sYhna-VKSKFOG8mNA8dWpByvNba42ZG"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lordflawn",
+          "Description": "Some neck and torso overlays you can apply to your argonians.",
+          "FileID": 149367,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33883/33883-1584915825-488382245.png",
+          "IsNSFW": true,
+          "ModID": 33883,
+          "Name": "Flawn\u0027s Argonian Overlays",
+          "Version": "1.0"
         }
       }
     },
@@ -2298,6 +2341,41 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "VTRKVIn21ZE=",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/10660-sexlab-tools-for-se-patched/\nprompt=Patched SE SL TOOLS Updated.zip",
+        "Name": "Patched SE SL TOOLS Updated.zip",
+        "Size": 173345,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Patched SE SL TOOLS Updated.zip",
+          "Url": "https://www.loverslab.com/files/file/10660-sexlab-tools-for-se-patched/"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "u+IGPgbcAnk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=51073\nfileID=360534",
+        "Name": "powerofthree\u0027s Tweaks-51073-1-8-0-1676613107.7z",
+        "Size": 5088204,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "Collection of engine bug fixes and tweaks. SKSE plugin.",
+          "FileID": 360534,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51073/51073-1623688700-1006153578.png",
+          "IsNSFW": false,
+          "ModID": 51073,
+          "Name": "powerofthree\u0027s Tweaks",
+          "Version": "1.8.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "UxkPLwbx3XM=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=72693\nfileID=315765",
         "Name": "Rayek\u0027s End Revisited - English-72693-1-1e-1663065197.zip",
@@ -2319,21 +2397,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "EqC7iu4WiC8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=16692\nfileID=52354",
-        "Name": "Realistic Mining and Chopping for VR - USSEP-16692-1-1-0.zip",
-        "Size": 22050,
+        "Hash": "dJBFLT/F7eQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=18223\nfileID=319703",
+        "Name": "Realm of Lorkhan-18223-4-1-1664256705.7z",
+        "Size": 17695637,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xider",
-          "Description": "Implements a manual mining method aimed at VR users. Now you will need to actually swing your pickaxe at ore nodes.",
-          "FileID": 52354,
+          "Author": "Twin Crows",
+          "Description": "Starts the player in an alternate realm, rather than the default execution scene opening.\n\n\n\nHere, you can create your character, choose Classes and Curses, and start playing from a large selection of places! \n\n\n\nGorgeous visuals, and limitless possibilities for adventure and exploration.",
+          "FileID": 319703,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/16692/16692-1524360751-31606774.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18223/18223-1530123820-89041246.png",
           "IsNSFW": false,
-          "ModID": 16692,
-          "Name": "Realistic Mining for VR",
-          "Version": "1.1.0"
+          "ModID": 18223,
+          "Name": "Realm of Lorkhan - Freeform Alternate Start",
+          "Version": "4.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Q49SUA38Zi4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=37001\nfileID=144386",
+        "Name": "Sanguis - An Oblivion Font V1.0-37001-1-0-1591577211.7z",
+        "Size": 156059,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Koveich",
+          "Description": "Sanguis is a lore-friendly font built on the title of The Elder Scrolls: Oblivion, with an inky aesthetic and 2006-era nostalgia.",
+          "FileID": 144386,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37001/37001-1591570959-1088240447.jpeg",
+          "IsNSFW": false,
+          "ModID": 37001,
+          "Name": "Sanguis - An Oblivion Font",
+          "Version": "1.0"
         }
       }
     },
@@ -2424,21 +2523,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "jxT+eKwkCj8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=27782\nfileID=142773",
-        "Name": "SkyrimVRTools-27782-2-3-BETA-1590789255.zip",
-        "Size": 229135,
+        "Hash": "Z0ndwjpLlgY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=106712\nfileID=452887",
+        "Name": "Skyrim VR ESL-106712-1-0-3-1702885473.rar",
+        "Size": 4629230,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SkyrimAlternativeDevelopers",
-          "Description": "Providing OpenVR input information and control as a service to other Skyrim VR mods.",
-          "FileID": 142773,
+          "Author": "Nightfallstorm and Alandtse",
+          "Description": "SKSEVR plugin to add full ESL support to Skyrim VR. No more merging mods!\n\n\n\nESLs from AE 1.6.1130 are also supported. This means support for Extended ESLs",
+          "FileID": 452887,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27782/27782-1564366114-1205993652.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/106712/106712-1702400177-1978588677.png",
           "IsNSFW": false,
-          "ModID": 27782,
-          "Name": "Skyrim VR Tools",
-          "Version": "2.3-BETA"
+          "ModID": 106712,
+          "Name": "Skyrim VR ESL Support",
+          "Version": "1.0.2"
         }
       }
     },
@@ -2551,27 +2650,6 @@
           "ModID": 13956,
           "Name": "FileAccess Interface for Skyrim SE Scripts - FISSES",
           "Version": "1.4.1-beta"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "aBC7ornHoGY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=29243\nfileID=324781",
-        "Name": "Storm Lightning for SSE and VR - Fomod Installer-29243-1-4-17-1666014878.rar",
-        "Size": 20260193,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Shizof",
-          "Description": "This is a remake of Minty\u0027s Lightning mod as an SKSE plugin. The purpose of this mod is stability and scalability. It can summon up to 50 sheet lightnings and 50 fork lightnings per second and up to 31 cells distance. This results in a more natural and enjoyable storm experience.",
-          "FileID": 324781,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29243/29243-1571516238-1082461180.png",
-          "IsNSFW": false,
-          "ModID": 29243,
-          "Name": "Storm Lightning for SSE and VR (Minty Lightning 2019)",
-          "Version": "1.4.17"
         }
       }
     },
@@ -2824,27 +2902,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "4+F6wQO0cRg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=164\nfileID=240322",
-        "Name": "SSEEdit 4.0.4-164-4-0-4-1636548642.7z",
-        "Size": 14361762,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ElminsterAU and the xEdit team",
-          "Description": "SSEEdit is the Skyrim: Special Edition version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.",
-          "FileID": 240322,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/164/164-1544500149-1688528806.png",
-          "IsNSFW": false,
-          "ModID": 164,
-          "Name": "SSEEdit",
-          "Version": "4.0.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "WRYVgcoZ7zc=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=50197\nfileID=204758",
         "Name": "3D Casting FX-50197-1-0-1621612410.7z",
@@ -2979,6 +3036,27 @@
           "ModID": 26270,
           "Name": "Blended Roads Redone SE - 8K",
           "Version": "1.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qxDal33oA3c=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=103990\nfileID=439626",
+        "Name": "Blocking and Flash VR - Brawl Fix-103990-1-0-1699060625.zip",
+        "Size": 1915017,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AP05 hitmante and Aelover",
+          "Description": "An edit of the Blocking and Flash VR mod that fixes brawls and adds the effect to blocking NPCs",
+          "FileID": 439626,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/103990/103990-1699060114-423577118.jpeg",
+          "IsNSFW": false,
+          "ModID": 103990,
+          "Name": "Blocking and Flash VR - Redux",
+          "Version": "1.0"
         }
       }
     },
@@ -4158,20 +4236,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VTRKVIn21ZE=",
-        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/10660-sexlab-tools-for-se-patched/\nprompt=Patched SE SL TOOLS Updated.zip",
-        "Name": "Patched SE SL TOOLS Updated.zip",
-        "Size": 173345,
-        "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "Patched SE SL TOOLS Updated.zip",
-          "Url": "https://www.loverslab.com/files/file/10660-sexlab-tools-for-se-patched/"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "1+99WZrMDWU=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=66025\nfileID=422866",
         "Name": "PLANCK 0.6.2-66025-0-6-2-1693693881.zip",
@@ -4858,6 +4922,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "aBC7ornHoGY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=29243\nfileID=324781",
+        "Name": "Storm Lightning for SSE and VR - Fomod Installer-29243-1-4-17-1666014878.rar",
+        "Size": 20260193,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Shizof",
+          "Description": "This is a remake of Minty\u0027s Lightning mod as an SKSE plugin. The purpose of this mod is stability and scalability. It can summon up to 50 sheet lightnings and 50 fork lightnings per second and up to 31 cells distance. This results in a more natural and enjoyable storm experience.",
+          "FileID": 324781,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29243/29243-1571516238-1082461180.png",
+          "IsNSFW": false,
+          "ModID": 29243,
+          "Name": "Storm Lightning for SSE and VR (Minty Lightning 2019)",
+          "Version": "1.4.17"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "htZ/bgIc6eA=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Tahrovin Images for MMC Christmas.7z_d8ff7cf2-ac7b-4f63-a30c-4b73a0b2643b",
         "Name": "Tahrovin Images for MMC Christmas.7z",
@@ -5325,27 +5410,6 @@
           "ModID": 38845,
           "Name": "Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn",
           "Version": "AE-v3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "RuCXFcIHABQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=10926\nfileID=55877",
-        "Name": "Archery 2.5-10926-2-5.7z",
-        "Size": 6191756,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Vactrol",
-          "Description": "Fastest arrows/bolts and real gravity, for sensations closer to a real bow, craftable Warbow - a longbow with more damage on par with the imperial bow.",
-          "FileID": 55877,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/10926-0-1500207571.jpg",
-          "IsNSFW": false,
-          "ModID": 10926,
-          "Name": "Archery",
-          "Version": "2.5"
         }
       }
     },
@@ -5891,27 +5955,6 @@
           "IsNSFW": true,
           "ModID": 78467,
           "Name": "FitGirl Preset",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "aVDwT1D1azY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=33883\nfileID=149367",
-        "Name": "Flawn\u0027s Argonian Overlays-33883-1-0-1594187862.7z",
-        "Size": 54382062,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lordflawn",
-          "Description": "Some neck and torso overlays you can apply to your argonians.",
-          "FileID": 149367,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/33883/33883-1584915825-488382245.png",
-          "IsNSFW": true,
-          "ModID": 33883,
-          "Name": "Flawn\u0027s Argonian Overlays",
           "Version": "1.0"
         }
       }
@@ -6675,20 +6718,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GN8voulRV40=",
-        "Meta": "[General]\nmanualURL=https://www.mediafire.com/file/bnqmaf6r5odxnd1/%255BNINI%255D_Operator_%255BSE%255D_-_CBBE.7z/file\nprompt=",
-        "Name": "[NINI] Operator [SE] - CBBE.7z",
-        "Size": 63898011,
-        "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "",
-          "Url": "https://www.mediafire.com/file/bnqmaf6r5odxnd1/%255BNINI%255D_Operator_%255BSE%255D_-_CBBE.7z/file"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "h3L8TEffWHA=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=5442\nfileID=11948",
         "Name": "PELTAPALOOZA  Special Edition - FULL-5442-1-0.7z",
@@ -6746,27 +6775,6 @@
           "ModID": 36893,
           "Name": "Rally\u0027s Solstheim AIO",
           "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "dJBFLT/F7eQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=18223\nfileID=319703",
-        "Name": "Realm of Lorkhan-18223-4-1-1664256705.7z",
-        "Size": 17695637,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Twin Crows",
-          "Description": "Starts the player in an alternate realm, rather than the default execution scene opening.\n\n\n\nHere, you can create your character, choose Classes and Curses, and start playing from a large selection of places! \n\n\n\nGorgeous visuals, and limitless possibilities for adventure and exploration.",
-          "FileID": 319703,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18223/18223-1530123820-89041246.png",
-          "IsNSFW": false,
-          "ModID": 18223,
-          "Name": "Realm of Lorkhan - Freeform Alternate Start",
-          "Version": "4.1"
         }
       }
     },
@@ -8611,27 +8619,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Ue6dA4GZ4Sc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=49845\nfileID=203300",
-        "Name": "Lamenthia\u0027s Marks of Beauty 4k-49845-1-0-1620935756.7z",
-        "Size": 22341611,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Lamenthia",
-          "Description": "50\u002B face overlays for freckles, moles, age spots, birthmarks and more. They are for female characters, but some of them look good on men as well.",
-          "FileID": 203300,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/49845/49845-1620937851-1230812406.png",
-          "IsNSFW": false,
-          "ModID": 49845,
-          "Name": "Lamenthia\u0027s Marks of Beauty",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "s22hF4O5cfI=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=54422\nfileID=223358",
         "Name": "Modpocalypse NPCs - All Vanilla NPCs v3-54422-1-0-1629769843.7z",
@@ -8710,6 +8697,19 @@
           "ModID": 25204,
           "Name": "Ziovdendian Bodypaint - Designs of the Lupine - RaceMenu Overlays - Special Edition",
           "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "P73sHnfCED4=",
+        "Meta": "[General]\ndirectURL=https://drive.google.com/uc?id=1_sYhna-VKSKFOG8mNA8dWpByvNba42ZG\u0026export=download",
+        "Name": "Pubic Hair Overlays SE.zip",
+        "Size": 1187330,
+        "State": {
+          "$type": "GoogleDriveDownloader, Wabbajack.Lib",
+          "Id": "1_sYhna-VKSKFOG8mNA8dWpByvNba42ZG"
         }
       }
     },
@@ -8997,6 +8997,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "TcbdAWOVBvE=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=11802\nfileID=347896",
+        "Name": "Legacy of the Dragonborn-11802-5-6-5-1673196977.7z",
+        "Size": 2002797561,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "icecreamassassin",
+          "Description": "Legacy of the Dragonborn will forever change how you play Skyrim. Not just a display mod, not just a quest mod, not just a new guild mod, but a complete foundational flagship mod to build an entire load order around. This DLC expansion sized mod adds hundreds of new items, dozens of new quests and hundreds of extra hours of play.",
+          "FileID": 347896,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/11802-0-1505492063.jpg",
+          "IsNSFW": false,
+          "ModID": 11802,
+          "Name": "Legacy of the Dragonborn SSE",
+          "Version": "5.6.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "MSsRUBkoHY0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=33215\nfileID=284988",
         "Name": "moreHUD VR-33215-1-1-0-1652988637.7z",
@@ -9181,53 +9202,132 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "MLw2ZGIzsg0=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Meshes0.bsa",
-        "Name": "Data_Skyrim - Meshes0.bsa",
-        "Size": 2097850113,
+        "Hash": "Mj8+6rxW6Es=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Interface.bsa",
+        "Name": "Data_Skyrim - Interface.bsa",
+        "Size": 65726644,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Skyrim - Meshes0.bsa",
+          "GameFile": "Data\\Skyrim - Interface.bsa",
           "GameVersion": "1.4.15.0",
-          "Hash": "MLw2ZGIzsg0="
+          "Hash": "Mj8+6rxW6Es="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cO23yqAxYaM=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Textures2.bsa",
-        "Name": "Data_Skyrim - Textures2.bsa",
-        "Size": 1344319627,
+        "Hash": "x6lgChdDLtA=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Textures1.bsa",
+        "Name": "Data_Skyrim - Textures1.bsa",
+        "Size": 1509673333,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Skyrim - Textures2.bsa",
+          "GameFile": "Data\\Skyrim - Textures1.bsa",
           "GameVersion": "1.4.15.0",
-          "Hash": "cO23yqAxYaM="
+          "Hash": "x6lgChdDLtA="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "F+WNFQRvJSA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=31673\nfileID=119359",
-        "Name": "Skyrim VR USSEP 4.2.1 and SSE 1.5.97 Compatibility Patch-31673-1-2-1578696926.zip",
-        "Size": 13063158,
+        "Hash": "2Tmfw2AG/MM=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Voices_en0.bsa",
+        "Name": "Data_Skyrim - Voices_en0.bsa",
+        "Size": 1807969854,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "Data\\Skyrim - Voices_en0.bsa",
+          "GameVersion": "1.4.15.0",
+          "Hash": "2Tmfw2AG/MM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ubO6Itxhk4U=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=22487\nfileID=79615",
+        "Name": "(Q) Community Overlays 1 - Bugfix Patch-22487-1-0-2-1548457861.7z",
+        "Size": 4175,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Lysinine",
-          "Description": "This patch provides compatibility for the current Unofficial Skyrim Special Edition Patch and integrates updates made to Skyrim Special Edition up to the current version 1.5.97 into Skyrim VR. The many fixes and changes that were added to the USSEP and SSE since early 2018 can be enjoyed in VR with this patch.",
-          "FileID": 119359,
+          "Author": "DomainWolf",
+          "Description": "A set of 30\u002B overlays made from the ideas of members of the community! This mod took over a month to make and is the highest quality work I have put out so far. Contains many different kinds of overlays from warpaints, bodypaints, tattoos, dragon scales, blood stains, and much more! In total there are around 110 Individual Overlays!",
+          "FileID": 79615,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31673/31673-1578607878-479446470.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/22487/95587-1547075780-1799571872.png",
           "IsNSFW": false,
-          "ModID": 31673,
-          "Name": "Skyrim VR - USSEP 4.2.2 and SSE 1.5.97 Compatibility Patch",
-          "Version": "1.2"
+          "ModID": 22487,
+          "Name": "Community Overlays 1 (0-30) Bodypaints Warpaints Tattoos and more made for the Community (Special Edition)",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OzhV7eLqbIo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=63725\nfileID=276658",
+        "Name": "DVLaSS Papyrus Edition-63725-Final-1649775310.7z",
+        "Size": 3511,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kitsuune",
+          "Description": "SKSE plugin that improves volumetric lighting and shadows by synchronizing them with Skyrim\u0027s sun and moon(s)",
+          "FileID": 276658,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/63725/63725-1646091469-1831971340.png",
+          "IsNSFW": false,
+          "ModID": 63725,
+          "Name": "Enhanced Volumetric Lighting and Shadows (EVLaS)",
+          "Version": "1.3.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EqC7iu4WiC8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=16692\nfileID=52354",
+        "Name": "Realistic Mining and Chopping for VR - USSEP-16692-1-1-0.zip",
+        "Size": 22050,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xider",
+          "Description": "Implements a manual mining method aimed at VR users. Now you will need to actually swing your pickaxe at ore nodes.",
+          "FileID": 52354,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/16692/16692-1524360751-31606774.png",
+          "IsNSFW": false,
+          "ModID": 16692,
+          "Name": "Realistic Mining for VR",
+          "Version": "1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jxT+eKwkCj8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=27782\nfileID=142773",
+        "Name": "SkyrimVRTools-27782-2-3-BETA-1590789255.zip",
+        "Size": 229135,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SkyrimAlternativeDevelopers",
+          "Description": "Providing OpenVR input information and control as a service to other Skyrim VR mods.",
+          "FileID": 142773,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/27782/27782-1564366114-1205993652.png",
+          "IsNSFW": false,
+          "ModID": 27782,
+          "Name": "Skyrim VR Tools",
+          "Version": "2.3-BETA"
         }
       }
     },
@@ -9438,27 +9538,6 @@
           "ModID": 36594,
           "Name": "Rally\u0027s Candlelight and Magelight Fix SE - VR",
           "Version": "1.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Z0ndwjpLlgY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=106712\nfileID=452887",
-        "Name": "Skyrim VR ESL-106712-1-0-3-1702885473.rar",
-        "Size": 4629230,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Nightfallstorm and Alandtse",
-          "Description": "SKSEVR plugin to add full ESL support to Skyrim VR. No more merging mods!\n\n\n\nESLs from AE 1.6.1130 are also supported. This means support for Extended ESLs",
-          "FileID": 452887,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/106712/106712-1702400177-1978588677.png",
-          "IsNSFW": false,
-          "ModID": 106712,
-          "Name": "Skyrim VR ESL Support",
-          "Version": "1.0.2"
         }
       }
     },
@@ -10169,69 +10248,53 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Fjhy4N7rlEc=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Meshes1.bsa",
-        "Name": "Data_Skyrim - Meshes1.bsa",
-        "Size": 519339629,
+        "Hash": "MLw2ZGIzsg0=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Meshes0.bsa",
+        "Name": "Data_Skyrim - Meshes0.bsa",
+        "Size": 2097850113,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Skyrim - Meshes1.bsa",
+          "GameFile": "Data\\Skyrim - Meshes0.bsa",
           "GameVersion": "1.4.15.0",
-          "Hash": "Fjhy4N7rlEc="
+          "Hash": "MLw2ZGIzsg0="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Rcbvxp38XsA=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Textures3.bsa",
-        "Name": "Data_Skyrim - Textures3.bsa",
-        "Size": 1318023565,
+        "Hash": "cO23yqAxYaM=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Textures2.bsa",
+        "Name": "Data_Skyrim - Textures2.bsa",
+        "Size": 1344319627,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Skyrim - Textures3.bsa",
+          "GameFile": "Data\\Skyrim - Textures2.bsa",
           "GameVersion": "1.4.15.0",
-          "Hash": "Rcbvxp38XsA="
+          "Hash": "cO23yqAxYaM="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "y2lKRnbO7NI=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim.esm",
-        "Name": "Data_Skyrim.esm",
-        "Size": 249753240,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "Data\\Skyrim.esm",
-          "GameVersion": "1.4.15.0",
-          "Hash": "y2lKRnbO7NI="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "9Q8CFq7IrzA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=35627\nfileID=138211",
-        "Name": "High-Res VR Map Markers - Outline-35627-1-0-1588685969.7z",
-        "Size": 1530726,
+        "Hash": "F+WNFQRvJSA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=31673\nfileID=119359",
+        "Name": "Skyrim VR USSEP 4.2.1 and SSE 1.5.97 Compatibility Patch-31673-1-2-1578696926.zip",
+        "Size": 13063158,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "vampiredirt",
-          "Description": "Replaces the low-res VR map markers with hi-res ones.",
-          "FileID": 138211,
+          "Author": "Lysinine",
+          "Description": "This patch provides compatibility for the current Unofficial Skyrim Special Edition Patch and integrates updates made to Skyrim Special Edition up to the current version 1.5.97 into Skyrim VR. The many fixes and changes that were added to the USSEP and SSE since early 2018 can be enjoyed in VR with this patch.",
+          "FileID": 119359,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35627/35627-1588873616-1026739663.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31673/31673-1578607878-479446470.png",
           "IsNSFW": false,
-          "ModID": 35627,
-          "Name": "Hi-Res VR Map Markers",
-          "Version": "1.0"
+          "ModID": 31673,
+          "Name": "Skyrim VR - USSEP 4.2.2 and SSE 1.5.97 Compatibility Patch",
+          "Version": "1.2"
         }
       }
     },
@@ -10808,83 +10871,69 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/Sglpr+ZffA=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Misc.bsa",
-        "Name": "Data_Skyrim - Misc.bsa",
-        "Size": 204313675,
+        "Hash": "Fjhy4N7rlEc=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Meshes1.bsa",
+        "Name": "Data_Skyrim - Meshes1.bsa",
+        "Size": 519339629,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Skyrim - Misc.bsa",
+          "GameFile": "Data\\Skyrim - Meshes1.bsa",
           "GameVersion": "1.4.15.0",
-          "Hash": "/Sglpr+ZffA="
+          "Hash": "Fjhy4N7rlEc="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yg9nTkWSL+M=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Textures4.bsa",
-        "Name": "Data_Skyrim - Textures4.bsa",
-        "Size": 1355383619,
+        "Hash": "Rcbvxp38XsA=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Textures3.bsa",
+        "Name": "Data_Skyrim - Textures3.bsa",
+        "Size": 1318023565,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Skyrim - Textures4.bsa",
+          "GameFile": "Data\\Skyrim - Textures3.bsa",
           "GameVersion": "1.4.15.0",
-          "Hash": "yg9nTkWSL+M="
+          "Hash": "Rcbvxp38XsA="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/nUMgskn2LI=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\SkyrimVR.esm",
-        "Name": "Data_SkyrimVR.esm",
-        "Size": 332403,
+        "Hash": "y2lKRnbO7NI=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim.esm",
+        "Name": "Data_Skyrim.esm",
+        "Size": 249753240,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\SkyrimVR.esm",
+          "GameFile": "Data\\Skyrim.esm",
           "GameVersion": "1.4.15.0",
-          "Hash": "/nUMgskn2LI="
+          "Hash": "y2lKRnbO7NI="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XxHdJqmG/zI=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=62089\nfileID=452531",
-        "Name": "Part 2 Engine Fixes VR v1.24-62089-v1-24-1702766894.zip",
-        "Size": 195198,
+        "Hash": "9Q8CFq7IrzA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=35627\nfileID=138211",
+        "Name": "High-Res VR Map Markers - Outline-35627-1-0-1588685969.7z",
+        "Size": 1530726,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "rollingrock",
-          "Description": "Port of the popular SSE Engine Fixes to the VR version of the game.",
-          "FileID": 452531,
+          "Author": "vampiredirt",
+          "Description": "Replaces the low-res VR map markers with hi-res ones.",
+          "FileID": 138211,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62089/62089-1642382124-1014904395.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35627/35627-1588873616-1026739663.jpeg",
           "IsNSFW": false,
-          "ModID": 62089,
-          "Name": "Engine Fixes VR",
-          "Version": "v1.23a"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "JpVlZKCHXc8=",
-        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/163-sexlab-matchmaker-updated-09172014/\nprompt=\u0022SexLabMatchMaker.Rev7.zip\u0022",
-        "Name": "SexLabMatchMaker.Rev7.zip",
-        "Size": 8351,
-        "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "\u0022SexLabMatchMaker.Rev7.zip\u0022",
-          "Url": "https://www.loverslab.com/files/file/163-sexlab-matchmaker-updated-09172014/"
+          "ModID": 35627,
+          "Name": "Hi-Res VR Map Markers",
+          "Version": "1.0"
         }
       }
     },
@@ -11032,27 +11081,6 @@
           "ModID": 58296,
           "Name": "Papyrus Extender VR",
           "Version": "5.6.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "u+IGPgbcAnk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=51073\nfileID=360534",
-        "Name": "powerofthree\u0027s Tweaks-51073-1-8-0-1676613107.7z",
-        "Size": 5088204,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "powerofthree",
-          "Description": "Collection of engine bug fixes and tweaks. SKSE plugin.",
-          "FileID": 360534,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/51073/51073-1623688700-1006153578.png",
-          "IsNSFW": false,
-          "ModID": 51073,
-          "Name": "powerofthree\u0027s Tweaks",
-          "Version": "1.8.1"
         }
       }
     },
@@ -11718,120 +11746,83 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "2MLtqrl4oQY=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Dawnguard.esm",
-        "Name": "Data_Dawnguard.esm",
-        "Size": 25191567,
+        "Hash": "/Sglpr+ZffA=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Misc.bsa",
+        "Name": "Data_Skyrim - Misc.bsa",
+        "Size": 204313675,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Dawnguard.esm",
+          "GameFile": "Data\\Skyrim - Misc.bsa",
           "GameVersion": "1.4.15.0",
-          "Hash": "2MLtqrl4oQY="
+          "Hash": "/Sglpr+ZffA="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "mwREtRFyhvs=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Patch.bsa",
-        "Name": "Data_Skyrim - Patch.bsa",
-        "Size": 66322373,
+        "Hash": "yg9nTkWSL+M=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Textures4.bsa",
+        "Name": "Data_Skyrim - Textures4.bsa",
+        "Size": 1355383619,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Skyrim - Patch.bsa",
+          "GameFile": "Data\\Skyrim - Textures4.bsa",
           "GameVersion": "1.4.15.0",
-          "Hash": "mwREtRFyhvs="
+          "Hash": "yg9nTkWSL+M="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "tuZR7VgHONY=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Textures5.bsa",
-        "Name": "Data_Skyrim - Textures5.bsa",
-        "Size": 523065091,
+        "Hash": "/nUMgskn2LI=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\SkyrimVR.esm",
+        "Name": "Data_SkyrimVR.esm",
+        "Size": 332403,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Skyrim - Textures5.bsa",
+          "GameFile": "Data\\SkyrimVR.esm",
           "GameVersion": "1.4.15.0",
-          "Hash": "tuZR7VgHONY="
+          "Hash": "/nUMgskn2LI="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "w+0VpSYgTlA=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim_VR - Main.bsa",
-        "Name": "Data_Skyrim_VR - Main.bsa",
-        "Size": 438390440,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "Data\\Skyrim_VR - Main.bsa",
-          "GameVersion": "1.4.15.0",
-          "Hash": "w+0VpSYgTlA="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "MiW/01hFoaE=",
-        "Meta": "[General]\ngameName=skyrim\nmodID=67077\nfileID=1000214338",
-        "Name": "ENB Organizer-67077-v2-1-1.zip",
-        "Size": 2745841,
+        "Hash": "XxHdJqmG/zI=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=62089\nfileID=452531",
+        "Name": "Part 2 Engine Fixes VR v1.24-62089-v1-24-1702766894.zip",
+        "Size": 195198,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Breems",
-          "Description": "ENB Organizer helps you manage and install your ENB/SweetFX/FXAA presets/binaries for any game. It is continuously being expanded to act as a comprehensive ENB tool suite.",
-          "FileID": 1000214338,
-          "GameName": "Skyrim",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/110/images/67077-3-1469393623.png",
-          "IsNSFW": false,
-          "ModID": 67077,
-          "Name": "ENB Organizer",
-          "Version": "v2.1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "nZCUokJmKD0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=47189\nfileID=228656",
-        "Name": "ConsoleUtilVR-47189-1-3-1631757413.zip",
-        "Size": 175334,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "frazaman",
-          "Description": "This mod enables papyrus scripts to execute console commands  (in Skyrim VR)",
-          "FileID": 228656,
+          "Author": "rollingrock",
+          "Description": "Port of the popular SSE Engine Fixes to the VR version of the game.",
+          "FileID": 452531,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47189/47189-1616108544-1957633496.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/62089/62089-1642382124-1014904395.png",
           "IsNSFW": false,
-          "ModID": 47189,
-          "Name": "ConsoleUtilVR",
-          "Version": "1.3"
+          "ModID": 62089,
+          "Name": "Engine Fixes VR",
+          "Version": "v1.23a"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+A/8R7wz0fc=",
-        "Meta": "[General]\ndirectURL=https://github.com/NVIDIA/DLSS/archive/b3559040f968d26b2edbe37e8e3ceda4b8d1275a.zip",
-        "Name": "DLSS-b3559040f968d26b2edbe37e8e3ceda4b8d1275a.zip",
-        "Size": 67856449,
+        "Hash": "JpVlZKCHXc8=",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/163-sexlab-matchmaker-updated-09172014/\nprompt=\u0022SexLabMatchMaker.Rev7.zip\u0022",
+        "Name": "SexLabMatchMaker.Rev7.zip",
+        "Size": 8351,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/NVIDIA/DLSS/archive/b3559040f968d26b2edbe37e8e3ceda4b8d1275a.zip"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "\u0022SexLabMatchMaker.Rev7.zip\u0022",
+          "Url": "https://www.loverslab.com/files/file/163-sexlab-matchmaker-updated-09172014/"
         }
       }
     },
@@ -12339,125 +12330,120 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "xAzagm0Oscc=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Shaders.bsa",
-        "Name": "Data_Skyrim - Shaders.bsa",
-        "Size": 67350034,
+        "Hash": "2MLtqrl4oQY=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Dawnguard.esm",
+        "Name": "Data_Dawnguard.esm",
+        "Size": 25191567,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Skyrim - Shaders.bsa",
+          "GameFile": "Data\\Dawnguard.esm",
           "GameVersion": "1.4.15.0",
-          "Hash": "xAzagm0Oscc="
+          "Hash": "2MLtqrl4oQY="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ulEZTUdiIcs=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Textures6.bsa",
-        "Name": "Data_Skyrim - Textures6.bsa",
-        "Size": 168591797,
+        "Hash": "mwREtRFyhvs=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Patch.bsa",
+        "Name": "Data_Skyrim - Patch.bsa",
+        "Size": 66322373,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Skyrim - Textures6.bsa",
+          "GameFile": "Data\\Skyrim - Patch.bsa",
           "GameVersion": "1.4.15.0",
-          "Hash": "ulEZTUdiIcs="
+          "Hash": "mwREtRFyhvs="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Ja2F29pEhTs=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Update.esm",
-        "Name": "Data_Update.esm",
-        "Size": 17656985,
+        "Hash": "tuZR7VgHONY=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Textures5.bsa",
+        "Name": "Data_Skyrim - Textures5.bsa",
+        "Size": 523065091,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Update.esm",
+          "GameFile": "Data\\Skyrim - Textures5.bsa",
           "GameVersion": "1.4.15.0",
-          "Hash": "Ja2F29pEhTs="
+          "Hash": "tuZR7VgHONY="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "J/YnhgpK0b4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=85389\nfileID=388093",
-        "Name": "opencomposite_Default_Config-85389-1-0-1684075714.zip",
-        "Size": 282,
+        "Hash": "w+0VpSYgTlA=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim_VR - Main.bsa",
+        "Name": "Data_Skyrim_VR - Main.bsa",
+        "Size": 438390440,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "Data\\Skyrim_VR - Main.bsa",
+          "GameVersion": "1.4.15.0",
+          "Hash": "w+0VpSYgTlA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MiW/01hFoaE=",
+        "Meta": "[General]\ngameName=skyrim\nmodID=67077\nfileID=1000214338",
+        "Name": "ENB Organizer-67077-v2-1-1.zip",
+        "Size": 2745841,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ColdBomb1",
-          "Description": "A custom openvr_api.dll build of the openxr branch of OpenComposite that I have been working on to fix various bugs with Skyrim VR.",
-          "FileID": 388093,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/85389/85389-1676879325-240181477.jpeg",
+          "Author": "Breems",
+          "Description": "ENB Organizer helps you manage and install your ENB/SweetFX/FXAA presets/binaries for any game. It is continuously being expanded to act as a comprehensive ENB tool suite.",
+          "FileID": 1000214338,
+          "GameName": "Skyrim",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/110/images/67077-3-1469393623.png",
           "IsNSFW": false,
-          "ModID": 85389,
-          "Name": "Skyrim VR OpenComposite Fixes Custom Build",
-          "Version": "1.6.1"
+          "ModID": 67077,
+          "Name": "ENB Organizer",
+          "Version": "v2.1.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ts1ukdtxJu0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=37001\nfileID=158441",
-        "Name": "Sanguis and Font Overhaul Patch by PukinDumpling-37001-1-0-1598808446.7z",
-        "Size": 675,
+        "Hash": "nZCUokJmKD0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=47189\nfileID=228656",
+        "Name": "ConsoleUtilVR-47189-1-3-1631757413.zip",
+        "Size": 175334,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Koveich",
-          "Description": "Sanguis is a lore-friendly font built on the title of The Elder Scrolls: Oblivion, with an inky aesthetic and 2006-era nostalgia.",
-          "FileID": 158441,
+          "Author": "frazaman",
+          "Description": "This mod enables papyrus scripts to execute console commands  (in Skyrim VR)",
+          "FileID": 228656,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37001/37001-1591570959-1088240447.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47189/47189-1616108544-1957633496.png",
           "IsNSFW": false,
-          "ModID": 37001,
-          "Name": "Sanguis - An Oblivion Font",
-          "Version": "1.0"
+          "ModID": 47189,
+          "Name": "ConsoleUtilVR",
+          "Version": "1.3"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "JS5vbUFTAEM=",
-        "Meta": "[General]\ndirectURL=https://github.com/PureDark/FidelityFX-FSR2/releases/download/2.2-unofficial/FSR2.2.zip",
-        "Name": "FSR2.2.zip",
-        "Size": 1017356,
+        "Hash": "+A/8R7wz0fc=",
+        "Meta": "[General]\ndirectURL=https://github.com/NVIDIA/DLSS/archive/b3559040f968d26b2edbe37e8e3ceda4b8d1275a.zip",
+        "Name": "DLSS-b3559040f968d26b2edbe37e8e3ceda4b8d1275a.zip",
+        "Size": 67856449,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/PureDark/FidelityFX-FSR2/releases/download/2.2-unofficial/FSR2.2.zip"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "gxK9YcOrmKk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=47639\nfileID=194134",
-        "Name": "Trattatello - Calligraphic Book Font-47639-1-1-1616934665.7z",
-        "Size": 265536,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Crithion",
-          "Description": "A beautiful calligraphic font for books",
-          "FileID": 194134,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47639/47639-1616882923-1078419827.jpeg",
-          "IsNSFW": false,
-          "ModID": 47639,
-          "Name": "Trattatello - Calligraphic Book Font",
-          "Version": "1.1"
+          "Url": "https://github.com/NVIDIA/DLSS/archive/b3559040f968d26b2edbe37e8e3ceda4b8d1275a.zip"
         }
       }
     },
@@ -13145,6 +13131,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Ja2F29pEhTs=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Update.esm",
+        "Name": "Data_Update.esm",
+        "Size": 17656985,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "Data\\Update.esm",
+          "GameVersion": "1.4.15.0",
+          "Hash": "Ja2F29pEhTs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "AP5GeIzpipw=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=49425\nfileID=201581",
         "Name": "Swap Drop and Hold-49425-0-0-1-1620085763.zip",
@@ -13242,52 +13244,68 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HDpMLdQaPj4=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Textures7.bsa",
-        "Name": "Data_Skyrim - Textures7.bsa",
-        "Size": 824377007,
+        "Hash": "xAzagm0Oscc=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Shaders.bsa",
+        "Name": "Data_Skyrim - Shaders.bsa",
+        "Size": 67350034,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Skyrim - Textures7.bsa",
+          "GameFile": "Data\\Skyrim - Shaders.bsa",
           "GameVersion": "1.4.15.0",
-          "Hash": "HDpMLdQaPj4="
+          "Hash": "xAzagm0Oscc="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KhVp9PBPuBc=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=99548\nfileID=442377",
-        "Name": "Light Limit Fix - Candle Glow-99548-1-0-3-1699908140.7z",
-        "Size": 303,
+        "Hash": "ulEZTUdiIcs=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Textures6.bsa",
+        "Name": "Data_Skyrim - Textures6.bsa",
+        "Size": 168591797,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimVR",
+          "GameFile": "Data\\Skyrim - Textures6.bsa",
+          "GameVersion": "1.4.15.0",
+          "Hash": "ulEZTUdiIcs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "J/YnhgpK0b4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=85389\nfileID=388093",
+        "Name": "opencomposite_Default_Config-85389-1-0-1684075714.zip",
+        "Size": 282,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "doodlez alandtse",
-          "Description": "Community Shaders feature which makes dynamic lights unlimited, adds particle lights, contact shadows, shadows for first-person torches and light spells, and more. Supports SE, AE, and VR.",
-          "FileID": 442377,
+          "Author": "ColdBomb1",
+          "Description": "A custom openvr_api.dll build of the openxr branch of OpenComposite that I have been working on to fix various bugs with Skyrim VR.",
+          "FileID": 388093,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/99548/99548-1693530223-479667847.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/85389/85389-1676879325-240181477.jpeg",
           "IsNSFW": false,
-          "ModID": 99548,
-          "Name": "Light Limit Fix",
-          "Version": "1.0.2"
+          "ModID": 85389,
+          "Name": "Skyrim VR OpenComposite Fixes Custom Build",
+          "Version": "1.6.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Q49SUA38Zi4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=37001\nfileID=144386",
-        "Name": "Sanguis - An Oblivion Font V1.0-37001-1-0-1591577211.7z",
-        "Size": 156059,
+        "Hash": "ts1ukdtxJu0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=37001\nfileID=158441",
+        "Name": "Sanguis and Font Overhaul Patch by PukinDumpling-37001-1-0-1598808446.7z",
+        "Size": 675,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Koveich",
           "Description": "Sanguis is a lore-friendly font built on the title of The Elder Scrolls: Oblivion, with an inky aesthetic and 2006-era nostalgia.",
-          "FileID": 144386,
+          "FileID": 158441,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/37001/37001-1591570959-1088240447.jpeg",
           "IsNSFW": false,
@@ -13300,35 +13318,35 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "vYjXiYShkKM=",
-        "Meta": "[General]\ngameName=site\nmodID=502\nfileID=2293",
-        "Name": "UpscalerBasePlugin-502-1-1-2-1693443305.zip",
-        "Size": 73302,
+        "Hash": "JS5vbUFTAEM=",
+        "Meta": "[General]\ndirectURL=https://github.com/PureDark/FidelityFX-FSR2/releases/download/2.2-unofficial/FSR2.2.zip",
+        "Name": "FSR2.2.zip",
+        "Size": 1017356,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PureDark",
-          "Description": "My plugin for bridging DLSS/FSR2/XeSS.",
-          "FileID": 2293,
-          "GameName": "ModdingTools",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2295/images/502/502-1672090358-1967705145.png",
-          "IsNSFW": false,
-          "ModID": 502,
-          "Name": "UpscalerBasePlugin",
-          "Version": "1.1.2"
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/PureDark/FidelityFX-FSR2/releases/download/2.2-unofficial/FSR2.2.zip"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "pbIDVn+i8PA=",
-        "Meta": "[General]\nmanualURL=https://www.loverslab.com/topic/132489-skyrim-sexlab-and-vr/\nprompt=\u0022SL VRpatch Beta8 38 - test.7z the first time you see this window SL VRpatch hotfix for v38 the second time.\u0022",
-        "Name": "SL VRpatch hotfix for v38.7z",
-        "Size": 16107,
+        "Hash": "gxK9YcOrmKk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=47639\nfileID=194134",
+        "Name": "Trattatello - Calligraphic Book Font-47639-1-1-1616934665.7z",
+        "Size": 265536,
         "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "\u0022SL VRpatch Beta8 38 - test.7z the first time you see this window SL VRpatch hotfix for v38 the second time.\u0022",
-          "Url": "https://www.loverslab.com/topic/132489-skyrim-sexlab-and-vr/"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Crithion",
+          "Description": "A beautiful calligraphic font for books",
+          "FileID": 194134,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/47639/47639-1616882923-1078419827.jpeg",
+          "IsNSFW": false,
+          "ModID": 47639,
+          "Name": "Trattatello - Calligraphic Book Font",
+          "Version": "1.1"
         }
       }
     },
@@ -13434,27 +13452,6 @@
           "ModID": 74986,
           "Name": "A super incredible enticing title - 3BA BodySlide Preset",
           "Version": "1.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "h+DIH/SlIhA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=61434\nfileID=436263",
-        "Name": "Glamur Reshade v2.5.1-61434-2-5-1-1698019595.zip",
-        "Size": 1685536,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "rhellct - see Acknowledgments",
-          "Description": "Performance-friendly Ambient Occlusion for SkyrimVR. Also includes subtle Global Illumination and bounce lighting effects. And sharpening to fix the game\u0027s blurriness, of course.\n\n\n\nCan be run on top of any weather mod, interior lighting mod, and/or ENB that you\u0027re currently using.",
-          "FileID": 436263,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/61434/61434-1641526710-1912474592.png",
-          "IsNSFW": false,
-          "ModID": 61434,
-          "Name": "Glamur Reshade VR",
-          "Version": "2.5"
         }
       }
     },
@@ -13624,69 +13621,72 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kX9UFltG4+s=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Animations.bsa",
-        "Name": "Data_Skyrim - Animations.bsa",
-        "Size": 116177491,
+        "Hash": "HDpMLdQaPj4=",
+        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Textures7.bsa",
+        "Name": "Data_Skyrim - Textures7.bsa",
+        "Size": 824377007,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
-          "GameFile": "Data\\Skyrim - Animations.bsa",
+          "GameFile": "Data\\Skyrim - Textures7.bsa",
           "GameVersion": "1.4.15.0",
-          "Hash": "kX9UFltG4+s="
+          "Hash": "HDpMLdQaPj4="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "briiqqWUug0=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Textures0.bsa",
-        "Name": "Data_Skyrim - Textures0.bsa",
-        "Size": 655189115,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "Data\\Skyrim - Textures0.bsa",
-          "GameVersion": "1.4.15.0",
-          "Hash": "briiqqWUug0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6by7EhPzAOQ=",
-        "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Textures8.bsa",
-        "Name": "Data_Skyrim - Textures8.bsa",
-        "Size": 25248518,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimVR",
-          "GameFile": "Data\\Skyrim - Textures8.bsa",
-          "GameVersion": "1.4.15.0",
-          "Hash": "6by7EhPzAOQ="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "9r/x4HzZcZQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=53524\nfileID=219953",
-        "Name": "Clean Menu-53524-1-0-1628516880.zip",
-        "Size": 59765,
+        "Hash": "KhVp9PBPuBc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=99548\nfileID=442377",
+        "Name": "Light Limit Fix - Candle Glow-99548-1-0-3-1699908140.7z",
+        "Size": 303,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Crithion",
-          "Description": "Removes the bethesda logo from the main menu in VR (you only get this bug if you disable the VR Playroom) and many distracting HUD elements.",
-          "FileID": 219953,
+          "Author": "doodlez alandtse",
+          "Description": "Community Shaders feature which makes dynamic lights unlimited, adds particle lights, contact shadows, shadows for first-person torches and light spells, and more. Supports SE, AE, and VR.",
+          "FileID": 442377,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/53524/53524-1641323670-276411984.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/99548/99548-1693530223-479667847.png",
           "IsNSFW": false,
-          "ModID": 53524,
-          "Name": "Unobtrusive UI for VR",
-          "Version": "1.0"
+          "ModID": 99548,
+          "Name": "Light Limit Fix",
+          "Version": "1.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vYjXiYShkKM=",
+        "Meta": "[General]\ngameName=site\nmodID=502\nfileID=2293",
+        "Name": "UpscalerBasePlugin-502-1-1-2-1693443305.zip",
+        "Size": 73302,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PureDark",
+          "Description": "My plugin for bridging DLSS/FSR2/XeSS.",
+          "FileID": 2293,
+          "GameName": "ModdingTools",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2295/images/502/502-1672090358-1967705145.png",
+          "IsNSFW": false,
+          "ModID": 502,
+          "Name": "UpscalerBasePlugin",
+          "Version": "1.1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pbIDVn+i8PA=",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/topic/132489-skyrim-sexlab-and-vr/\nprompt=\u0022SL VRpatch Beta8 38 - test.7z the first time you see this window SL VRpatch hotfix for v38 the second time.\u0022",
+        "Name": "SL VRpatch hotfix for v38.7z",
+        "Size": 16107,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "\u0022SL VRpatch Beta8 38 - test.7z the first time you see this window SL VRpatch hotfix for v38 the second time.\u0022",
+          "Url": "https://www.loverslab.com/topic/132489-skyrim-sexlab-and-vr/"
         }
       }
     },
