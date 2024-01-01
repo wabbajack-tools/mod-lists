@@ -49,6 +49,7 @@
     -   [Ground Zero - A Fallout 4 Experience](#ground-zero---a-fallout-4-experience)
     -   [FUSION](#fusion)
     -   [(NSFW)Wasteland of Depravity(NSFW)](#nsfwwasteland-of-depravitynsfw)
+    -   [(NSFW)Parabellum(NSFW)](#nsfwparabllumnsfw)
 -   [Enderal Special Edition](#enderal-special-edition)
     -   [Somnium: In Every Shadow](#somnium-in-every-shadow)
     -   [The Path](#the-path)
@@ -666,6 +667,17 @@ Fallout 4 but with modern guns, immersive animations, new quests, loads of new o
 -   [Workshop Framework](https://www.nexusmods.com/fallout4/mods/35004)
 -   [Beast Master](https://www.nexusmods.com/fallout4/mods/14265)
 
+### (NSFW)Parabellum(NSFW)
+
+Parabellum features the complete Sim Settlements 2 suite (all three chapters), Vanilla+ gameplay and weaponry, a few outfits, more quests than you can likely ever play, and the ability to optionally add any amount of Creation Club content. Although technically flagged NSFW, the only real gameplay options for that are a hotkey to experience intimacy between couples and the highly detailed character appearance options one might expect from an NSFW list.
+
+**_Mods to get familiar with:_**
+
+-   [Fallout 4 Creation Club Content]
+-   [Workshop Framework](https://www.nexusmods.com/fallout4/mods/35004)
+-   [Sim Settlements 2 Complete](https://www.nexusmods.com/fallout4/mods/73394)
+-   [Caliente's Beautiful Bodies Enhancer](https://www.nexusmods.com/fallout4/mods/15)
+  
 ## Enderal Special Edition
 
 ### [Somnium: In Every Shadow](https://www.scenicroute.games/projects/somnium)
