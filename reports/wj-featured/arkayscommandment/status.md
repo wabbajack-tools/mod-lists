@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1840)
+### Valid (1834)
 *  [(3) Alchemy Station Variants - Persistent Swap-92768-1-4-1695065738.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=427071)
 *  [(ENGLISH) Akaviri Portals-101515-1-0-1695934392.rar](https://www.nexusmods.com/skyrimspecialedition/mods/101515/?tab=files&file_id=429677)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-9-1-1664974289.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321816)
@@ -21,7 +21,6 @@
 *  [1K Version-51582-1-1-1624699195.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51582/?tab=files&file_id=211200)
 *  [1st Person Interact Animation Teleport Bug Fix-92795-1-0-0-1685836034.zip](https://www.nexusmods.com/skyrimspecialedition/mods/92795/?tab=files&file_id=394779)
 *  [1st-person-friendly fire-40087-1-1661980970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40087/?tab=files&file_id=312084)
-*  [2. Majestic Mountains Darkside-11052-3-2-1604049795.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=167716)
 *  [2.5 UPDATE-13578-2-5-1599753814.7z](https://www.nexusmods.com/skyrimspecialedition/mods/13578/?tab=files&file_id=160054)
 *  [2K Falmer Overhaul-19290-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19290/?tab=files&file_id=65994)
 *  [2K Imperial Saddle-42577-1-0-1605857677.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42577/?tab=files&file_id=170859)
@@ -125,7 +124,6 @@
 *  [Atronach Friendly Fire-52255-2-0-0-1672277067.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52255/?tab=files&file_id=344350)
 *  [Audio Overhaul for Skyrim (4.1.3)-12466-4-1-3-1683940246.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12466/?tab=files&file_id=387525)
 *  [Audio Overhaul Skyrim - Immersive Sounds Compendium Integration (1.1.0)-36761-1-1-0-1651282424.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36761/?tab=files&file_id=280412)
-*  [Aura's Inventory Tweaks-68557-2-1-1-1681120120.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68557/?tab=files&file_id=376954)
 *  [Auriel's Chantry 2K-47204-1-0-1616123689.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47204/?tab=files&file_id=192235)
 *  [Aurora Fix--77834-1-0-1-1667140513.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77834/?tab=files&file_id=327652)
 *  [Authentic Eyes v1.1-36063-1-1-1590639642.zip](https://www.nexusmods.com/skyrimspecialedition/mods/36063/?tab=files&file_id=142471)
@@ -361,7 +359,6 @@
 *  Data_Skyrim - Misc.bsa
 *  Data_Skyrim - Shaders.bsa
 *  Data_Skyrim - Sounds.bsa
-*  Data_Skyrim - Textures0.bsa
 *  Data_Skyrim - Textures5.bsa
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
@@ -810,7 +807,6 @@
 *  [Ice Wraith Teeth Collision Fixes-71599-1-1-0-1661777576.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71599/?tab=files&file_id=311425)
 *  [ICFur's Grass Patch-87774-1-0-1679769027.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87774/?tab=files&file_id=371990)
 *  [IconsForSkyrimCharacterSheet-71282-1-0-1-1657807484.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71282/?tab=files&file_id=298875)
-*  [Icy Mesh Remaster-73381-1-90-1673815307.rar](https://www.nexusmods.com/skyrimspecialedition/mods/73381/?tab=files&file_id=349857)
 *  [Ill Met Bolar's Oathblade-60994-1-2-1672320779.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60994/?tab=files&file_id=344541)
 *  [Immersive Armory Retextures-46996-1-0-1615731598.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46996/?tab=files&file_id=191441)
 *  [Immersive Bookreading-4541-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4541/?tab=files&file_id=8883)
@@ -1313,7 +1309,6 @@
 *  [Riften Ragged Flagon Flickering Fix-80678-1-04-1671578207.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80678/?tab=files&file_id=342311)
 *  [Riften Temple Sconce Fix-76169-0-1-1664252110.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76169/?tab=files&file_id=319699)
 *  [RIS - Blended Roads Patch-1484-2-5-1-1670678645.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1484/?tab=files&file_id=339326)
-*  [RIS - Real Ice and Snow-1484-2-5-1-1613578398.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1484/?tab=files&file_id=186431)
 *  [Rise in the East CTDfix-104395-final-1700601900.zip](https://www.nexusmods.com/skyrimspecialedition/mods/104395/?tab=files&file_id=444817)
 *  [Riverwood Trader Is A Mess-63631-1-2-1646696178.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63631/?tab=files&file_id=268738)
 *  [Riverwood Trader Is A Mess-63631-1-4-1693950000.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63631/?tab=files&file_id=423607)
@@ -1355,7 +1350,6 @@
 *  [Say No To Calcelmo-69991-0-1-1655756231.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69991/?tab=files&file_id=292626)
 *  [SB - Fixed Windhelm Entrance Patch-75146-1-2-1667646909.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75146/?tab=files&file_id=329117)
 *  [SB - Fixed Windhelm Entrance-73058-1-1-1663240263.7z](https://www.nexusmods.com/skyrimspecialedition/mods/73058/?tab=files&file_id=316257)
-*  [SBDA - Sneaking Module-99842-1-0-1693754219.rar](https://www.nexusmods.com/skyrimspecialedition/mods/99842/?tab=files&file_id=423045)
 *  [ScaleformTranslationPP-22603-1-4-1-1586306055.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22603/?tab=files&file_id=132968)
 *  [Scare my Enemy Bug Fix-44685-1-0-1611374649.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44685/?tab=files&file_id=181189)
 *  [Scared of Shootings - NPCs react to aiming bows-105622-0-2-1-1701052322.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105622/?tab=files&file_id=446536)
