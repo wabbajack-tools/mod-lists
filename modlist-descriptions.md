@@ -24,7 +24,6 @@
     -   [Living Skyrim](#living-skyrim)
     -   [Lost Legacy](#lost-legacy)
     -   [Nordic Souls](#nordic-souls)
-    -   [RGE - Relics of Hyrule - Grand Admiral Thrawn Edition](#rge---relics-of-hyrule---grand-admiral-thrawn-edition)
     -   [Ro](#ro)
     -   [Ruvaak](#ruvaak)
     -   [Skyrim Modding Essentials](#skyrim-modding-essentials)
@@ -42,7 +41,6 @@
     -   [Life in the Ruins](#life-in-the-ruins)
     -   [Magnum Opus](#magnum-opus)
     -   [Welcome to Paradise](#welcome-to-paradise)
-    -   [Fallout 4 Modding Essentials](#fallout-4-modding-essentials)
     -   [Whispering Chills - A Fallout 4 Experience](#whispering-chills---a-fallout-4-experience)
     -   [Lost World - A Fallout 4 Experience](#lost-world---a-fallout-4-experience)
     -   [Stay FROSTy - A Fallout 4 Experience](#stay-frosty---a-fallout-4-experience)
@@ -52,13 +50,11 @@
     -   [(NSFW)Parabellum(NSFW)](#nsfwparabellumnsfw)
 -   [Enderal Special Edition](#enderal-special-edition)
     -   [Somnium: In Every Shadow](#somnium-in-every-shadow)
-    -   [The Path](#the-path)
 -   [Skyrim Special Edition - VR](#skyrim-special-edition---vr)
     -   [Auriels Dream](#auriels-dream)
     -   [Diabolist VR](#diabolist-vr)
     -   [FUS](#fus)
     -   [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr-1)
-    -   [Ultimate VR Essentials](#ultimate-vr-essentials)
     -   [Yggdrasil](#yggdrasil)
     -   [(NSFW)Tahrovin(NSFW)](#nsfwtahrovinnsfw)
 -   [Fallout 4 VR](#fallout-4-vr)
@@ -67,10 +63,8 @@
     -   [Capital Punishment](#capital-punishment)
 -   [Tale Of Two Wastelands](#tale-of-two-wastelands)
     -   [Begin Again](#begin-again)
-    -   [The Vault Courier](#the-vault-courier)
 -   [Oblivion](#oblivion)
     -   [Heartland](#heartland)
-    -   [Through The Valleys](#through-the-valleys)
 -   [Cyberpunk 2077](#cyberpunk-2077)
     -   [Cyberpunk THING](#cyberpunk-thing)
 
@@ -320,20 +314,6 @@ Nordic Souls is a comprehensive visual and gameplay overhaul for Skyrim SE/AE de
 
 ---
 
-### [RGE - Relics of Hyrule - Grand Admiral Thrawn Edition](https://www.wabbajack.org/#/modlists/info?machineURL=rge)
-
-For those that have had enough of the “lore-friendly” lists and want something different, RGE boasts a massive 900+ mods, featuring items, characters, and references from both The Legend of Zelda and Star Wars universes.
-
-**_Mods to get familiar with:_**
-
-[Relics of Hyrule](https://www.nexusmods.com/skyrimspecialedition/mods/12244)
-[Invasion of Skyrim - The Force Awakens - Grand Admiral Thrawn](https://www.nexusmods.com/skyrimspecialedition/mods/24)
-[Rogue-like Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/23872)
-[Spellsiphon](https://www.nexusmods.com/skyrimspecialedition/mods/26627)
-[Skyrim Redone](https://www.nexusmods.com/skyrimspecialedition/mods/17915)
-
----
-
 ### [Ro](https://github.com/ThirdEyeSqueegee/Ro)
 
 Ro is an attempt to bring together the latest and greatest graphics mods and focused, true-to-vanilla gameplay overhauls including the full SimonRim suite. It's intended to look good and feel good without straying too far from the game we all know and love. Ro features extensive rebalancing, redistribution, and reduced cuts to make Anniversary Edition feel less clunky, the best graphical overhauls including Lux (+ Via and Orbis), Skyland AIO, full widescreen/ultrawide and controller support, tons of beautiful new complex parallax textures, and Rudy's ENB for Obsidian Weathers.
@@ -551,20 +531,6 @@ Check out the [full modlist](https://loadorderlibrary.com/lists/welcome-to-parad
 
 ---
 
-### [Fallout 4 Modding Essentials](https://github.com/GozerBlackCat/FO4ME/blob/main/README.md)
-
-Fallout 4 Modding Essentials (FO4ME) was made to act as a strong baseline for a larger load order. It includes fixes, mod prerequisites, and a simple to understand keywords and sorting system. It also includes some various weapons and armor patches, made by Lively, creator of [Magnum Opus](https://www.wabbajack.org/#/modlists/info?machineURL=magnum_opus), or by myself. FO4ME should act as a gateway into Fallout 4 modding, and hopefully will be a good learning tool for those interested in modding.
-
-**_Mods to get familiar with:_**
-
-[Buffout 4](https://www.nexusmods.com/fallout4/mods/47359)
-
-[Unofficial Fallout 4 Patch](https://www.nexusmods.com/fallout4/mods/4598)
-
-View the entire [list of mods.](https://loadorderlibrary.com/lists/fo4me)
-
----
-
 ### [Whispering Chills - A Fallout 4 Experience](https://www.fallout4experiences.com/whispering-chills)
 
 Whispering Chills is a horror experience unlike any other. It is intended to be entirely standalone in that you don't need to enjoy or know very well how to play Fallout 4 to be able to enjoy it as a horror fan in general. Perfect for anyone experiencing burnout in their other modded setups. It is about as "lore-unfriendly" as you can get purely using the engine as a vessel to craft an entirely new experience through a unique combination of mods that enhance/rework its core mechanics and add new content that entirely change its core focus. All vanilla quests and NPC's have been replaced with more thematically fitting horror variants.
@@ -690,16 +656,6 @@ There are none. Somnium is primarily in-house work, and all included mods are he
 
 ---
 
-### [The Path](https://github.com/Lost-Outpost/thepath)
-
-The Path is a lightweight Enderal modlist meant to enhance visuals, provide quality of life improvements and introduce some small content additions while keeping close to the game's original vision.
-
-**_Mods to get familiar with:_**
-
-[Mod Guide Here](https://github.com/Lost-Outpost/thepath/blob/main/GAMEPLAY.md)
-
----
-
 ## Skyrim Special Edition - VR
 
 ### [Auriels Dream](https://github.com/Kvitekvist/Auriel-s-Dream/blob/master/README.md)
@@ -777,26 +733,6 @@ A gritty, low-magic, hardcore survival-adventure experience with an uncompromisi
 [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)
 
 Really, though, please check out our [website](https://librum-modpack.com/).
-
----
-
-### [Ultimate VR Essentials](https://docs.google.com/document/d/19PhkPbhh0d8_ZoKj5mGBpmUIMU10c_7P94X9FpIuyak/edit)
-
-The first official Skyrim VR list built for Wabbajack, UVRE’s primary goal is to provide users with a full visual overhaul tailored for Skyrim VR with all the adjustments and frameworks in place to serve as a base for further expansions and customizations, while also offering instant access to VR-centric mods like Spellsiphon and Weapon Throw VR.
-
-**_Mods to get familiar with:_**
-
-[VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)
-[Spellsiphon - Immersive Combat](https://www.nexusmods.com/skyrimspecialedition/mods/26627)
-[Muken's Arcane Archery](https://www.nexusmods.com/skyrimspecialedition/mods/30404)
-[HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)
-[VR Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/38539)
-[Weapon Throw VR](https://www.nexusmods.com/skyrimspecialedition/mods/31374)
-[Be Seated](https://www.nexusmods.com/skyrimspecialedition/mods/16613)
-[MageVR](https://www.nexusmods.com/skyrimspecialedition/mods/21297)
-[Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)
-
-There is also a [handy dandy installation video](https://youtu.be/_Y4h4U-MWhA)!
 
 ---
 
@@ -900,36 +836,11 @@ Please see [here](https://loadorderlibrary.com/lists/begin-again) for a comple
 
 ---
 
-### [The Vault Courier](https://docs.google.com/document/d/1TXoa4XNsFzt5TNzqznh0dRNwatizjJ0fkjOvpjGv8a0/edit)
-
-This modlist will update the graphics and mechanics of Fallout New Vegas to bring it closer to modern standards of FPS shooters. In fact many of the gameplay elements here are better than even Fallout 4.
-
-**_Mods to get familiar with:_**
-
-[Delay DLC TTW](https://www.nexusmods.com/newvegas/mods/66690)
-[SawyerBatty](https://fallout.fandom.com/wiki/JSawyer)
-[Solid Project](https://www.nexusmods.com/newvegas/mods/63239)
-[Functional Post Game Ending](https://www.nexusmods.com/newvegas/mods/66726)
-[Quickhacking NV](https://www.nexusmods.com/newvegas/mods/72224)
-
 ## Oblivion
 
 ### [Heartland](https://github.com/wabbajack-tools/mod-lists/blob/master/heartland/readme.md)
 
 Heartland is a beautiful, comprehensive graphical overhaul for Oblivion. Enjoy it as a new way to experience Cyrodiil or a solid base for your modding adventures. Heartland is forked from the Bevilex's graphics guide for Oblivion and is one of the oldest continually supported lists on Wabbajack.
-
----
-
-### [Through The Valleys](https://drazden.github.io/ThroughTheValleys/)
-
-Through the Valleys is a lightweight but comprehensive overhaul of Oblivion tailored to provide a stable, high performing, and most importantly fun, vanilla+ experience. The original guide was created by PushTheWinButton, and the Wabbajack version is created and maintained by Drazden.
-
-**_Mods to get familiar with:_**
-
-[Ascension](https://www.nexusmods.com/oblivion/mods/50237)
-[Balanced Unlevelled Rewards](https://www.nexusmods.com/oblivion/mods/51050/)
-[Teleportation Services](https://www.nexusmods.com/oblivion/mods/50141)
-[Simple Saves Plus](https://www.nexusmods.com/oblivion/mods/51122)
 
 ## Cyberpunk 2077
 
