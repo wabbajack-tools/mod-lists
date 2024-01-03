@@ -495,11 +495,18 @@ F4EE is a hardcore experience built around Horizon. Survival difficulty is a mai
 
 ### [Life in the Ruins](https://www.wabbajack.org/#/modlists/info?machineURL=life_in_the_ruins)
 
-From the author of Creative Perks Plus, a Fallout 4 modlist for a survival playthrough without the grind, based on Lunar Fallout Overhaul and Sim Settlements 2. Designed to deepen and enhance the game, without straying too far from the vanilla asthetic.
+A massively overhauled and finely tuned Fallout 4 experience. Designed to rebalance the game so that the challenge comes primarily from scarcity of resources, while staying true to the vanilla asthetic. With options for a more vanilla+ style playthrough, as well as an even more challenging survival experience.
 
 **_Mods to get familiar with:_**
 
 [Lunar Fallout Overhaul](https://www.nexusmods.com/fallout4/mods/34769)
+[True Perks](https://www.nexusmods.com/fallout4/mods/49400)
+[Lore Based Power Armor Changes](https://www.nexusmods.com/fallout4/mods/70262)
+[Feast and Famine - a survival food mod](https://www.nexusmods.com/fallout4/mods/68528)
+[Stimpacked - a health overhaul mod](https://www.nexusmods.com/fallout4/mods/72818)
+[Barter Vendor Restrictions](https://www.nexusmods.com/fallout4/mods/72654)
+[Degrade And Salvage - New Weapon Mechanics](https://www.nexusmods.com/fallout4/mods/71211)
+[Sim Settlements 2 - Chpts 1, 2 and 3](https://www.nexusmods.com/fallout4/mods/47976)
 
 ---
 
