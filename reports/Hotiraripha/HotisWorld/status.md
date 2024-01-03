@@ -295,7 +295,7 @@
 *  [HK G3 - Update V2-51754-1-1b-1659903354.rar](https://www.nexusmods.com/fallout4/mods/51754/?tab=files&file_id=246011)
 *  [Homemade SMG 2.1-58763-2-1-1647740312.zip](https://www.nexusmods.com/fallout4/mods/58763/?tab=files&file_id=232430)
 *  [Hotfix 4-70693-1-4-0-1683835353.zip](https://www.nexusmods.com/fallout4/mods/70693/?tab=files&file_id=276934)
-*  [Hotisworld complex sorter-76977-0-3-1704252359.7z](https://www.nexusmods.com/fallout4/mods/76977/?tab=files&file_id=298444)
+*  [Hotisworld complex sorter-76977-0-3b-1704260086.7z](https://www.nexusmods.com/fallout4/mods/76977/?tab=files&file_id=298451)
 *  [HUDFramework 1.0f-20309-1-0f.zip](https://www.nexusmods.com/fallout4/mods/20309/?tab=files&file_id=93183)
 *  [I-01 Institute Power Armor Patch-26052-1-4-1656646566.7z](https://www.nexusmods.com/fallout4/mods/26052/?tab=files&file_id=242063)
 *  [Im Talking to You-60363-3-0-1704234568.zip](https://www.nexusmods.com/fallout4/mods/60363/?tab=files&file_id=298421)
