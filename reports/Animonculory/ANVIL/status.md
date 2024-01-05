@@ -329,7 +329,6 @@
 *  [powerofthree's Tweaks-51073-1-8-1-1695858240.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=429459)
 *  [Pristine Vanilla Movement-66635-1-1-1650775951.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66635/?tab=files&file_id=279306)
 *  [Quality Cubemaps-38231-1-02-1595731872.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38231/?tab=files&file_id=152190)
-*  [QUI-65343-0-3-2-1667957461.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65343/?tab=files&file_id=330266)
 *  [RaceMenu Anniversary Edition v0-4-19-15-19080-0-4-19-15-1702148175.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19080/?tab=files&file_id=450234)
 *  [Raven Rock - Fix Exit on Horseback-14075-1-1-1660483408.7z](https://www.nexusmods.com/skyrimspecialedition/mods/14075/?tab=files&file_id=307445)
 *  [Real Dwemer Pipes-86055-1-2-1680298448.rar](https://www.nexusmods.com/skyrimspecialedition/mods/86055/?tab=files&file_id=373817)
@@ -418,6 +417,7 @@
 *  [SSEEdit 4.1.5 EXPERIMENTAL-164-4-1-5-1699085854.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164/?tab=files&file_id=439686)
 *  [Standing Ambusher Fix-74492-1-2-0-1676845418.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74492/?tab=files&file_id=361422)
 *  [Static Mesh Improvement Mod Improvement Mod-55543-1-7-1-1680886570.7z](https://www.nexusmods.com/skyrimspecialedition/mods/55543/?tab=files&file_id=376063)
+*  [Stay At System Page-76927-1-6-1665472279.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76927/?tab=files&file_id=323246)
 *  steam_api64.dll
 *  [Steel Armor Fix-39704-1-1-1598141551.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39704/?tab=files&file_id=157176)
 *  [Stockades of Skyrim 3D-43227-0-5-1607866649.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43227/?tab=files&file_id=174357)
