@@ -2,7 +2,7 @@ name: Validation
 
 on:
   schedule:
-    - cron: 30 */4 * * *
+    - cron: 0 12 * * sun
   push:
     branches: [ master ]
   pull_request:
