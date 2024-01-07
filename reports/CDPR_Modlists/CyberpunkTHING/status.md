@@ -1,4 +1,4 @@
-## Validation Report - Cyberpunk THING (CDPR_Modlists/CyberpunkTHING)
+## Validation Report - Welcome to Night City (CDPR_Modlists/CyberpunkTHING)
 
 
 ### Invalid (0)
