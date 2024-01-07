@@ -851,24 +851,12 @@ Heartland is a beautiful, comprehensive graphical overhaul for Oblivion. Enjoy i
 
 ## Cyberpunk 2077
 
-### [Cyberpunk THING](https://www.wabbajack.org/modlist/CDPR_Modlists/CyberpunkTHING)
+### [Welcome to Night City](https://www.wabbajack.org/modlist/CDPR_Modlists/CyberpunkTHING)
 
-Cyberpunk 2077 is not a hard game. We decided to change that.
+Night City is full of hardened gangoons with hair triggers and bad attitudes. But they've never run into anything like you.
 
-The aim is to make Cyberpunk the game it was always intended to be. More immersive, more realistic. A bullet's a bullet, and Night City is full of hardened gangoons with hair triggers and bad attitudes. But they've never run into anything like you.
+The future of modding is here. You shouldn't need a degree from Arasaka Academy just to be able to enjoy Cyberpunk 2077 with mods. We provide not one, but two fully tailored and preconfigured modded experiences crafted from the best mods our team and the community at large have to offer.
 
-More than just a collection of other modders' amazing work, we are actively developing new mods to add gameplay elements that support our vision. We provide a fully preconfigured and easy to use modded experience; it just works, plug n' play.
-
-**_Mods to get familiar with:_**
-
--   [AI Netrunners Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/2468)
--   [Stealthrunner](https://www.nexusmods.com/cyberpunk2077/mods/7616)
--   [Cyber Vehicle Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3016)
--   [SDO - Scissors Difficulty Options](https://www.nexusmods.com/cyberpunk2077/mods/4408)
--   [Vehicle Combat](https://www.nexusmods.com/cyberpunk2077/mods/3815)
--   [WE3D - Drugs of Night City](https://www.nexusmods.com/cyberpunk2077/mods/4407)
--   [Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931)
--   [Night City Interactions](https://www.nexusmods.com/cyberpunk2077/mods/5519)
--   [Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/2302)
+The **Welcome to Night City** profile brings the vanilla balance you know and love with all the best mods. The **Cyberpunk THING** profile provides a more challening and immersive approach with a focus on realism. Switch between them at any time, for any reason, all remaining save safe.
 
 ---
