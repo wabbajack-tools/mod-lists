@@ -562,7 +562,7 @@
 *  [Dynamic Weather and Time Based Detection-62546-2-1-4-1649009467.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62546/?tab=files&file_id=274637)
 *  [DynDOLOD 3.00-68518-Alpha-165-1704026813.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68518/?tab=files&file_id=456699)
 *  [DynDOLOD DLL NG and Scripts 3.00-97720-Alpha-13-1699460930.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97720/?tab=files&file_id=441000)
-*  [DynDOLOD Output - High-87783-0-9-5-7-1704399661.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87783/?tab=files&file_id=457876)
+*  [DynDOLOD Output - High-87783-0-9-5-8-1704676282.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87783/?tab=files&file_id=459019)
 *  [DynDOLOD Output - Low-87783-0-9-5-7-1704424421.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87783/?tab=files&file_id=457994)
 *  [DynDOLOD Output - Medium-87783-0-9-5-7-1704424190.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87783/?tab=files&file_id=457991)
 *  [DynDOLOD Resources SE 3.00-52897-Alpha-47-1702746822.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=452435)
