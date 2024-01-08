@@ -1,10 +1,11 @@
 ## Validation Report - Fallout VR Essentials Overhaul (wj-featured/fo4vre)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [PANPC_2.0.12-stable.7z](https://cdn.discordapp.com/attachments/929147656469626950/1086481190615265290/PANPC_2.0.12-stable.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (261)
+### Valid (260)
 *  [_25 damage reduction -4743-1-1.zip](https://www.nexusmods.com/fallout4/mods/4743/?tab=files&file_id=16525)
 *  [_50 damage reduction-4743-1-1.zip](https://www.nexusmods.com/fallout4/mods/4743/?tab=files&file_id=16526)
 *  [(Experimental) FallUI VR-Patch-48758-1-12-1-vr-exp3-1618625274.rar](https://www.nexusmods.com/fallout4/mods/48758/?tab=files&file_id=206079)
@@ -174,7 +175,6 @@
 *  [Nuka-World Satellite Map 2K-32456-1-0.zip](https://www.nexusmods.com/fallout4/mods/32456/?tab=files&file_id=132298)
 *  [Optimized Vanilla Textures 1-10 Archive-1204-1-10.7z](https://www.nexusmods.com/fallout4/mods/1204/?tab=files&file_id=58800)
 *  [P. G. Overhaul (Original)-7881-v1-0-0.zip](https://www.nexusmods.com/fallout4/mods/7881/?tab=files&file_id=28960)
-*  [PANPC_2.0.12-stable.7z](https://cdn.discordapp.com/attachments/929147656469626950/1086481190615265290/PANPC_2.0.12-stable.7z)
 *  [Perk Magazine Material Fix-6906-1-0.zip](https://www.nexusmods.com/fallout4/mods/6906/?tab=files&file_id=24473)
 *  [Personal Jetpack 1.20 - Slot 58 - Chem Lab-7668-1-2.rar](https://www.nexusmods.com/fallout4/mods/7668/?tab=files&file_id=30375)
 *  [PhyDark (164) (Requires all DLC)-25740-1-1.7z](https://www.nexusmods.com/fallout4/mods/25740/?tab=files&file_id=106425)
