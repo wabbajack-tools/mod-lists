@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1387)
+### Valid (1388)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -300,6 +300,7 @@
 *  [DAR Explorer-73930-0-5A-1662126365.rar](https://www.nexusmods.com/skyrimspecialedition/mods/73930/?tab=files&file_id=312515)
 *  [DARinSE_1_0_StandingBreathOption-2163-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2163/?tab=files&file_id=2717)
 *  [Dark Brown Texture-33789-1-0-1584710983.rar](https://www.nexusmods.com/skyrimspecialedition/mods/33789/?tab=files&file_id=129507)
+*  Data_ccBGSSSE001-Fish.bsa
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
