@@ -1,8 +1,7 @@
-## Validation Report - Heartland (wj-featured/heartland)
+## Validation Report - Heartland (Heartland/heartland)
 
 
-### Invalid (2)
-*  [HackdirtAliveFix.zip](https://drive.google.com/uc?id=1koW6d7doH3gZzio2Xgy38LH8Et97oSNu&export=download)
+### Invalid (1)
 *  [KvGuardFeaturesDevastationReduxPatch.7z](https://drive.google.com/uc?id=1ATSHg2SYWj8k9bttjbvYSxu47ULHySF2&export=download)
 ### Updated (0)
 ### Mirrored (0)
@@ -87,6 +86,7 @@
 *  [GOSH v2-1-45214-2-1.zip](https://www.nexusmods.com/oblivion/mods/45214/?tab=files&file_id=1000009969)
 *  [Grimbots Spell Tomes-16247.7z](https://www.nexusmods.com/oblivion/mods/16247/?tab=files&file_id=25066)
 *  [Hackdirt Alive-42948-.7z](https://www.nexusmods.com/oblivion/mods/42948/?tab=files&file_id=92936)
+*  [HackdirtAliveFix.zip](https://drive.google.com/uc?id=1koW6d7doH3gZzio2Xgy38LH8Et97oSNu&export=download)
 *  [Harvest Flora v3_0_1-2037.zip](https://www.nexusmods.com/oblivion/mods/2037/?tab=files&file_id=21250)
 *  [HGEC version-47917-1-0.7z](https://www.nexusmods.com/oblivion/mods/47917/?tab=files&file_id=1000017355)
 *  [HGEC version-47949-1-0.7z](https://www.nexusmods.com/oblivion/mods/47949/?tab=files&file_id=1000017513)
@@ -184,7 +184,6 @@
 *  [Pluggy Dev v132-23979.7z](https://www.nexusmods.com/oblivion/mods/23979/?tab=files&file_id=50826)
 *  [Potions-49068-1-1-1546355116.7z](https://www.nexusmods.com/oblivion/mods/49068/?tab=files&file_id=1000021048)
 *  [Quest Log Manager 1_3_2b-32266-1-3-2b.rar](https://www.nexusmods.com/oblivion/mods/32266/?tab=files&file_id=71265)
-*  Readme.txt
 *  [Realistic Mouth OCOv2-47463-1-2.rar](https://www.nexusmods.com/oblivion/mods/47463/?tab=files&file_id=1000015727)
 *  [Really Textured Normal Maps - Updated-50088-1-0-1588502179.7z](https://www.nexusmods.com/oblivion/mods/50088/?tab=files&file_id=1000024630)
 *  [Retextured Amulet-47734-1-0.zip](https://www.nexusmods.com/oblivion/mods/47734/?tab=files&file_id=1000016739)
