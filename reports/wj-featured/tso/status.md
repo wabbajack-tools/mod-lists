@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1033)
+### Valid (1032)
 *  [- Skyrim 2020 8.4.2 - 3 of 3 - Other - 4K to 2K-2347-8-4-2-1624479907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=210840)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -308,7 +308,6 @@
 *  [Dark Dreams-54567-1-3-1631220893.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54567/?tab=files&file_id=227271)
 *  [Dark Grey Texture-33789-1-0-1584711043.rar](https://www.nexusmods.com/skyrimspecialedition/mods/33789/?tab=files&file_id=129508)
 *  [Dark Knight Armor 4K-40775-1-1-1602262257.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40775/?tab=files&file_id=164652)
-*  Data_ccasvsse001-almsivi.bsa
 *  Data_ccBGSSSE001-Fish.bsa
 *  Data_ccBGSSSE001-Fish.esm
 *  Data_ccBGSSSE025-AdvDSGS.bsa
