@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (637)
+### Valid (616)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -96,8 +96,6 @@
 *  [CrashLogger-59818-1-8-0-1675415183.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=355778)
 *  [Creation Club - Widescreen Fix-1778-2-0-1592665361.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?tab=files&file_id=146621)
 *  [Creation Club Asset Patch-65084-1-2-1653848936.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65084/?tab=files&file_id=287478)
-*  CreationKit.exe
-*  CreationKit.ini
 *  [Critter Spawn Congestion Fix 1.3-67276-1-3-1673705873.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67276/?tab=files&file_id=349417)
 *  [Curated Bosses for True HUD-53406-1-2-1668354774.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53406/?tab=files&file_id=331500)
 *  [Curation Club 1.1.0-60552-1-1-0-1673870936.zip](https://www.nexusmods.com/skyrimspecialedition/mods/60552/?tab=files&file_id=350066)
@@ -256,7 +254,6 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
-*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -320,7 +317,6 @@
 *  [Fixed Mesh Lighting-53653-1-9-0-1687884871.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53653/?tab=files&file_id=401571)
 *  [FixNotesForSkyUI Skyrim AE-32561-1-2-6-1663815583.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32561/?tab=files&file_id=318422)
 *  [Floating Ash Pile Fix-63434-0-2-1644944776.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63434/?tab=files&file_id=264466)
-*  flowchartx64.dll
 *  [Follower Safety Patch-17592-2-3.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17592/?tab=files&file_id=55747)
 *  [Follower Trap Safety-2755-1-4-1638111386.zip](https://www.nexusmods.com/skyrimspecialedition/mods/2755/?tab=files&file_id=245105)
 *  [Followers Don't Draw Weapons v1.0.1-3870-1-0-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3870/?tab=files&file_id=15241)
@@ -329,6 +325,7 @@
 *  [Freed Prisoner Uses Items-22152-1-0-1545863442.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22152/?tab=files&file_id=76286)
 *  [Ghost Pile Fix-67841-1-0-1652201688.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67841/?tab=files&file_id=282707)
 *  [Glowing Mushroom Collision Fixes - FOMOD Installer-69558-1-2-0-1662166636.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69558/?tab=files&file_id=312667)
+*  [Grass Cache.7z](https://authored-files.wabbajack.org/Grass Cache.7z_ae5c0e8d-5730-464f-9f95-138a9aa98574)
 *  [Grass Collision-87816-1-0-1-1679939387.zip](https://www.nexusmods.com/skyrimspecialedition/mods/87816/?tab=files&file_id=372594)
 *  [Grass Fixes for Creation Club Mods-61777-1-2-1658752919.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61777/?tab=files&file_id=302084)
 *  [Grass Lighting-86502-1-1-1-1686395360.zip](https://www.nexusmods.com/skyrimspecialedition/mods/86502/?tab=files&file_id=396541)
@@ -376,15 +373,6 @@
 *  [Legends of the Frost - TexGen Output-85018-3-3-1693378818.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85018/?tab=files&file_id=421954)
 *  [Less Distracting Blowing Snow Effects 1.0-36198-1-0-1589943324.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36198/?tab=files&file_id=140954)
 *  [Less Tedious Thieves Guild-6581-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6581/?tab=files&file_id=30124)
-*  lex_accent.tlx
-*  lex_ssceam.tlx
-*  lex_ssceam2.clx
-*  lex_sscebr.tlx
-*  lex_sscebr2.clx
-*  lex_ssceca2.clx
-*  lex_tech.tlx
-*  lex_User_correct.tlx
-*  lex_User_userdic.tlx
 *  [lilebonymace patches-36042-2-27-1672935738.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36042/?tab=files&file_id=346952)
 *  [LOD Model Library - FOMOD-87521-1-3-2-1693359816.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87521/?tab=files&file_id=421919)
 *  [LOOT Warning Checker-323-1-2-4-beta-1682794034.zip](https://www.nexusmods.com/site/mods/323/?tab=files&file_id=2062)
@@ -448,9 +436,6 @@
 *  [Ore Vein Cube Map and Shader Fixes-85641-1-0-1677189832.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85641/?tab=files&file_id=362736)
 *  [Ore Vein Texture Fix-72638-1-0-1659572217.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72638/?tab=files&file_id=304450)
 *  [Oxygen Meter 2 AE-64532-1-0-5-1672628270.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64532/?tab=files&file_id=345763)
-*  p4com64.dll
-*  Papyrus Compiler_PapyrusCompiler.exe
-*  Papyrus Compiler_ScriptCompile.bat
 *  [Papyrus Extender-22854-5-6-1-1690313666.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=410639)
 *  [Papyrus Tweaks 4.1.0-77779-4-1-0-1677126184.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77779/?tab=files&file_id=362490)
 *  [PapyrusUtil AE SE - Scripting Utility Functions-13048-4-4-1664236996.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=319680)
@@ -590,12 +575,6 @@
 *  [The Paarthurnax Resolution-43766-1-1609224380.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43766/?tab=files&file_id=176615)
 *  [Thieves Guild Dialogue Fix - USSEP Compatible-73807-1-0-1-1680468566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/73807/?tab=files&file_id=374549)
 *  [Time Format Changer (Anniversary Edition)-28921-1-2-0-1666290435.zip](https://www.nexusmods.com/skyrimspecialedition/mods/28921/?tab=files&file_id=325395)
-*  Tools_Archive_Archive.exe
-*  Tools_Audio_xwmaencode.exe
-*  Tools_Elric_xg.dll
-*  Tools_Elric_xtexconv.exe
-*  Tools_HavokBehaviorPostProcess_HavokBehaviorPostProcess.exe
-*  Tools_HavokBehaviorPostProcess_UpgradeHavokBehavior.bat
 *  [Tree LOD Lighting-86617-1-0-1-1686405087.zip](https://www.nexusmods.com/skyrimspecialedition/mods/86617/?tab=files&file_id=396569)
 *  [True Directional Movement-51614-2-2-3-1664411938.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51614/?tab=files&file_id=320160)
 *  [True Nordic Farmhouses - Standard-38150-0-2-1596636087.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38150/?tab=files&file_id=153900)

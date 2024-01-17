@@ -9,7 +9,7 @@
 *  [xPATCHx - Hel Rising - Path of Sorcery.7z](https://www.loverslab.com/files/file/18745-hel-rising-norse-dungeon-quest-and-follower-mod-se/?do=download&r=1111227&confirm=1)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1717)
+### Valid (1716)
 *  [(1) SBP SE - Simple Belly Paints - 2K-22811-1-1-1548197078.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79308)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
 *  [(3) SBP  - CBBE Adjustments-22811-1-1CBBE-1583706479.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=127862)
@@ -511,7 +511,6 @@
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
 *  Data_Update.esm
-*  Data_Video_BGS_Logo.bik
 *  [Daughter of the Sea - CBBE-34595-1-0-1587111209.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34595/?tab=files&file_id=134720)
 *  [Dave's UFHD Majestic Mountains 8K 1.4 Hotfix-26662-1-4-1566318217.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26662/?tab=files&file_id=103733)
 *  [Dave's UFHD Majestic Mountains 8K-26662-1-4-1566305438.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26662/?tab=files&file_id=103716)
