@@ -493,7 +493,7 @@
 *  [Recursion Fix-76867-1-2-1666911818.rar](https://www.nexusmods.com/skyrimspecialedition/mods/76867/?tab=files&file_id=326984)
 *  [Relationship Dialogue Overhaul - RDO Final-1187-Final.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1187/?tab=files&file_id=1171)
 *  [Reshade 5.9.2 Binaries.7z](https://authored-files.wabbajack.org/Reshade 5.9.2 Binaries.7z_946a2bb1-80b1-478b-9b71-c7feb4b32a9d)
-*  [ReShade Toggler-98879-3-0-0-1697913047.7z](https://www.nexusmods.com/skyrimspecialedition/mods/98879/?tab=files&file_id=435794)
+*  [ReShade Effect Toggler-98879-3-0-1-1704315114.7z](https://www.nexusmods.com/skyrimspecialedition/mods/98879/?tab=files&file_id=457558)
 *  [Reverb and Ambiance Overhaul-701-1-5.7z](https://www.nexusmods.com/skyrimspecialedition/mods/701/?tab=files&file_id=14481)
 *  [Riften Temple Sconce Fix-76169-0-1-1664252110.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76169/?tab=files&file_id=319699)
 *  [Ro Bodyslide Preset 3BA-58290-1-1636720651.rar](https://www.nexusmods.com/skyrimspecialedition/mods/58290/?tab=files&file_id=240787)
