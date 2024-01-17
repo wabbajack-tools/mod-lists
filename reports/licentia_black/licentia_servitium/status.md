@@ -9,7 +9,7 @@
 *  [xPATCHx - Hel Rising - Path of Sorcery.7z](https://www.loverslab.com/files/file/18745-hel-rising-norse-dungeon-quest-and-follower-mod-se/?do=download&r=1111227&confirm=1)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1716)
+### Valid (1718)
 *  [(1) SBP SE - Simple Belly Paints - 2K-22811-1-1-1548197078.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79308)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
 *  [(3) SBP  - CBBE Adjustments-22811-1-1CBBE-1583706479.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=127862)
@@ -345,8 +345,8 @@
 *  Data_ccafdsse001-dwesanctuary.esm
 *  Data_ccasvsse001-almsivi.bsa
 *  Data_ccasvsse001-almsivi.esm
-*  Data_ccBGSSSE001-Fish.bsa
-*  Data_ccBGSSSE001-Fish.esm
+*  Data_ccbgssse001-fish.bsa
+*  Data_ccbgssse001-fish.esm
 *  Data_ccbgssse002-exoticarrows.bsa
 *  Data_ccbgssse002-exoticarrows.esl
 *  Data_ccbgssse003-zombies.bsa
@@ -381,8 +381,8 @@
 *  Data_ccbgssse020-graycowl.esl
 *  Data_ccbgssse021-lordsmail.bsa
 *  Data_ccbgssse021-lordsmail.esl
-*  Data_ccBGSSSE025-AdvDSGS.bsa
-*  Data_ccBGSSSE025-AdvDSGS.esm
+*  Data_ccbgssse025-advdsgs.bsa
+*  Data_ccbgssse025-advdsgs.esm
 *  Data_ccbgssse031-advcyrus.bsa
 *  Data_ccbgssse031-advcyrus.esm
 *  Data_ccbgssse034-mntuni.bsa
@@ -391,8 +391,8 @@
 *  Data_ccbgssse035-petnhound.esl
 *  Data_ccbgssse036-petbwolf.bsa
 *  Data_ccbgssse036-petbwolf.esl
-*  Data_ccBGSSSE037-Curios.bsa
-*  Data_ccBGSSSE037-Curios.esl
+*  Data_ccbgssse037-curios.bsa
+*  Data_ccbgssse037-curios.esl
 *  Data_ccbgssse038-bowofshadows.bsa
 *  Data_ccbgssse038-bowofshadows.esl
 *  Data_ccbgssse040-advobgobs.bsa
@@ -473,8 +473,8 @@
 *  Data_ccmtysse002-ve.esl
 *  Data_ccpewsse002-armsofchaos.bsa
 *  Data_ccpewsse002-armsofchaos.esl
-*  Data_ccQDRSSE001-SurvivalMode.bsa
-*  Data_ccQDRSSE001-SurvivalMode.esl
+*  Data_ccqdrsse001-survivalmode.bsa
+*  Data_ccqdrsse001-survivalmode.esl
 *  Data_ccqdrsse002-firewood.bsa
 *  Data_ccqdrsse002-firewood.esl
 *  Data_ccrmssse001-necrohouse.bsa
@@ -511,6 +511,7 @@
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
 *  Data_Update.esm
+*  Data_Video_BGS_Logo.bik
 *  [Daughter of the Sea - CBBE-34595-1-0-1587111209.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34595/?tab=files&file_id=134720)
 *  [Dave's UFHD Majestic Mountains 8K 1.4 Hotfix-26662-1-4-1566318217.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26662/?tab=files&file_id=103733)
 *  [Dave's UFHD Majestic Mountains 8K-26662-1-4-1566305438.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26662/?tab=files&file_id=103716)
@@ -606,7 +607,7 @@
 *  [ENB Light 0.98 Alpha 2-22574-0-98Alpha2-1577144667.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=117211)
 *  [ENB Light for Apocrypha-64463-0-1-1646291981.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64463/?tab=files&file_id=267781)
 *  [ENB Particle Lights for Gemstones-57672-1-3-1658432693.rar](https://www.nexusmods.com/skyrimspecialedition/mods/57672/?tab=files&file_id=300935)
-*  [enbseries_skyrimse_v0499(caco)2.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0499(caco)2.zip_334271f4-5796-4b18-be7c-b8750c92f820)
+*  [enbseries_skyrimse_v0499(caco)4.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0499(caco)4.zip_c6a42301-39e5-447c-b76d-71b073204bfb)
 *  [Encounter Zones Unlocked AE-19608-1-5-4-1663528547.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19608/?tab=files&file_id=317381)
 *  [Enderal Music for Skyrim Forgotten Stories With Vanilla Music - Recommended-16243-2-1-1570389468.zip](https://www.nexusmods.com/skyrimspecialedition/mods/16243/?tab=files&file_id=109482)
 *  [Enhanced Blood Textures-2357-4-0-1639547261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=249235)
@@ -1402,6 +1403,7 @@
 *  [Skyrim Sewers 4.14 Undeath Patch ESPFE-17456-4-14-1548033065.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17456/?tab=files&file_id=79078)
 *  [Skyrim Sewers 415-9320-4-15-1549828167.rar](https://www.nexusmods.com/skyrimspecialedition/mods/9320/?tab=files&file_id=81323)
 *  [Skyrim Skill Uncapper for SE and AE-82558-2-2-3-1695703184.zip](https://www.nexusmods.com/skyrimspecialedition/mods/82558/?tab=files&file_id=429047)
+*  [Skyrim Spear Mechanic SE 3.0 DAR-25146-3-0-1592152122.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25146/?tab=files&file_id=145670)
 *  [Skyrim Underground - esm-131-4-6-1-1579955800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/131/?tab=files&file_id=121096)
 *  [Skyrim Underground SSE - ESM-40565-1-0-1602600857.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69604/?tab=files&file_id=290974)
 *  Skyrim_Default.ini
