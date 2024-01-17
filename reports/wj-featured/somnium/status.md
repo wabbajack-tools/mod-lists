@@ -1,4 +1,4 @@
-## Validation Report - SSEE (ForgottenGlory/sseessentials)
+## Validation Report - Somnium (wj-featured/somnium)
 
 
 ### Invalid (0)
