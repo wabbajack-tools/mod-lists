@@ -5,7 +5,7 @@
 *  [REALORE SKIN ULTIMA - ERF patch.rar](https://www.loverslab.com/files/file/28632-futanari-textures-for-realore-skin-ultima/?do=download&r=1708149&confirm=1)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1295)
+### Valid (1294)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [(Recommended) REPLACER - Nyghtfall-39011-1-92-1634147177.zip](https://www.nexusmods.com/skyrimspecialedition/mods/39011/?tab=files&file_id=234610)
@@ -424,7 +424,6 @@
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
 *  Data_Update.esm
-*  Data_Video_BGS_Logo.bik
 *  [Dawnguard Arsenal SSE v1_0-25094-1-0-1555858493.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25094/?tab=files&file_id=89159)
 *  [Dawnguard Music Overhaul - Combat Module-48613-1-0-1618519206.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48613/?tab=files&file_id=198379)
 *  [Dawnguard Music Overhaul - Epilogue Module-48613-1-0-1618519309.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48613/?tab=files&file_id=198380)

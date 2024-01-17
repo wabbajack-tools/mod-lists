@@ -1616,7 +1616,7 @@
 *  [Sowables of Skyrim - Pototoes FOMOD-80377-2-01-1698498359.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80377/?tab=files&file_id=437716)
 *  [Sowables of Skyrim - Scrumptious Cabbages-80723-2-0-1698198148.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80723/?tab=files&file_id=436855)
 *  [Sparkles-8936-1-3.zip](https://www.nexusmods.com/skyrimspecialedition/mods/8936/?tab=files&file_id=22636)
-*  [Spell Perk Item Distributor-36869-6-8-1-1705407315.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36869/?tab=files&file_id=461887)
+*  [Spell Perk Item Distributor-36869-6-8-2-1705467141.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36869/?tab=files&file_id=462158)
 *  [Spellbreaker Replace V2-33922-2.7z](https://www.nexusmods.com/skyrim/mods/33922/?tab=files&file_id=1000034686)
 *  [Spice of Life - FYX 3D Patches-66044-1-5-1659321739.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66044/?tab=files&file_id=303769)
 *  [Spice of Life - Orc Longhouses-22178-1-2-1546231363.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22178/?tab=files&file_id=76774)
