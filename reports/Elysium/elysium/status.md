@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2530)
+### Valid (2531)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(beta) Wade In Water Animations-34006-1-42-1649385492.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34006/?tab=files&file_id=275559)
 *  [(DAR)Draugr Magic Loop Casting Animation-73876-1-1-1673588520.rar](https://www.nexusmods.com/skyrimspecialedition/mods/73876/?tab=files&file_id=349080)
@@ -70,6 +70,7 @@
 *  [A Quality World Map - Classic with All Roads-5804-8-4CA.zip](https://www.nexusmods.com/skyrimspecialedition/mods/5804/?tab=files&file_id=13017)
 *  [A. Noble Skyrim - FULL PACK_2K-21423-5-5-0-1543032385.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21423/?tab=files&file_id=73168)
 *  [A) FYX - Black-Briar and Riftweald Manors - Parallax-80515-1-0-4-1-1672381335.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80515/?tab=files&file_id=344822)
+*  [A0D789patch_v1_1.zip](https://www.patreon.com/file?h=69951525&i=11395543)
 *  [Actor Limit Fix (Special Edition)-32349-5-1646905082.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32349/?tab=files&file_id=269167)
 *  [Actually Flat Flat Snow Drifts-71437-1-1657925121.rar](https://www.nexusmods.com/skyrimspecialedition/mods/71437/?tab=files&file_id=299259)
 *  [Actually Useful Butter Churns - Base Object Swapper-67776-0-1-1-1652095277.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67776/?tab=files&file_id=282482)
@@ -479,8 +480,8 @@
 *  Data_ccafdsse001-dwesanctuary.esm
 *  Data_ccasvsse001-almsivi.bsa
 *  Data_ccasvsse001-almsivi.esm
-*  Data_ccBGSSSE001-Fish.bsa
-*  Data_ccBGSSSE001-Fish.esm
+*  Data_ccbgssse001-fish.bsa
+*  Data_ccbgssse001-fish.esm
 *  Data_ccbgssse002-exoticarrows.bsa
 *  Data_ccbgssse002-exoticarrows.esl
 *  Data_ccbgssse003-zombies.bsa
@@ -515,8 +516,8 @@
 *  Data_ccbgssse020-graycowl.esl
 *  Data_ccbgssse021-lordsmail.bsa
 *  Data_ccbgssse021-lordsmail.esl
-*  Data_ccBGSSSE025-AdvDSGS.bsa
-*  Data_ccBGSSSE025-AdvDSGS.esm
+*  Data_ccbgssse025-advdsgs.bsa
+*  Data_ccbgssse025-advdsgs.esm
 *  Data_ccbgssse031-advcyrus.bsa
 *  Data_ccbgssse031-advcyrus.esm
 *  Data_ccbgssse034-mntuni.bsa
@@ -525,8 +526,8 @@
 *  Data_ccbgssse035-petnhound.esl
 *  Data_ccbgssse036-petbwolf.bsa
 *  Data_ccbgssse036-petbwolf.esl
-*  Data_ccBGSSSE037-Curios.bsa
-*  Data_ccBGSSSE037-Curios.esl
+*  Data_ccbgssse037-curios.bsa
+*  Data_ccbgssse037-curios.esl
 *  Data_ccbgssse038-bowofshadows.bsa
 *  Data_ccbgssse038-bowofshadows.esl
 *  Data_ccbgssse040-advobgobs.bsa
@@ -607,8 +608,8 @@
 *  Data_ccmtysse002-ve.esl
 *  Data_ccpewsse002-armsofchaos.bsa
 *  Data_ccpewsse002-armsofchaos.esl
-*  Data_ccQDRSSE001-SurvivalMode.bsa
-*  Data_ccQDRSSE001-SurvivalMode.esl
+*  Data_ccqdrsse001-survivalmode.bsa
+*  Data_ccqdrsse001-survivalmode.esl
 *  Data_ccqdrsse002-firewood.bsa
 *  Data_ccqdrsse002-firewood.esl
 *  Data_ccrmssse001-necrohouse.bsa
