@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1942)
+### Valid (1944)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [-BO- One Body Alpha-82943-1-03-1674079833.rar](https://www.nexusmods.com/skyrimspecialedition/mods/82943/?tab=files&file_id=350859)
 *  [-BO- One Body Soft-82943-1-01-1674079878.rar](https://www.nexusmods.com/skyrimspecialedition/mods/82943/?tab=files&file_id=350860)
@@ -417,6 +417,8 @@
 *  [Dark Elf Lantern ENB Light-63176-0-2-1644165968.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63176/?tab=files&file_id=262221)
 *  [Dark Knight Armor 4K-40775-1-1-1602262257.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40775/?tab=files&file_id=164652)
 *  [DarkenD 1.4 SSE-10423-1-4.rar](https://www.nexusmods.com/skyrimspecialedition/mods/10423/?tab=files&file_id=44256)
+*  Data__ResourcePack.bsa
+*  Data__ResourcePack.esl
 *  Data_ccafdsse001-dwesanctuary.bsa
 *  Data_ccafdsse001-dwesanctuary.esm
 *  Data_ccasvsse001-almsivi.bsa
