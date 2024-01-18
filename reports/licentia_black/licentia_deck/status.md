@@ -5,7 +5,7 @@
 *  [REALORE SKIN ULTIMA - ERF patch.rar](https://www.loverslab.com/files/file/28632-futanari-textures-for-realore-skin-ultima/?do=download&r=1708149&confirm=1)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1294)
+### Valid (1296)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [(Recommended) REPLACER - Nyghtfall-39011-1-92-1634147177.zip](https://www.nexusmods.com/skyrimspecialedition/mods/39011/?tab=files&file_id=234610)
@@ -258,8 +258,8 @@
 *  Data_ccafdsse001-dwesanctuary.esm
 *  Data_ccasvsse001-almsivi.bsa
 *  Data_ccasvsse001-almsivi.esm
-*  Data_ccBGSSSE001-Fish.bsa
-*  Data_ccBGSSSE001-Fish.esm
+*  Data_ccbgssse001-fish.bsa
+*  Data_ccbgssse001-fish.esm
 *  Data_ccbgssse002-exoticarrows.bsa
 *  Data_ccbgssse002-exoticarrows.esl
 *  Data_ccbgssse003-zombies.bsa
@@ -294,8 +294,8 @@
 *  Data_ccbgssse020-graycowl.esl
 *  Data_ccbgssse021-lordsmail.bsa
 *  Data_ccbgssse021-lordsmail.esl
-*  Data_ccBGSSSE025-AdvDSGS.bsa
-*  Data_ccBGSSSE025-AdvDSGS.esm
+*  Data_ccbgssse025-advdsgs.bsa
+*  Data_ccbgssse025-advdsgs.esm
 *  Data_ccbgssse031-advcyrus.bsa
 *  Data_ccbgssse031-advcyrus.esm
 *  Data_ccbgssse034-mntuni.bsa
@@ -304,8 +304,8 @@
 *  Data_ccbgssse035-petnhound.esl
 *  Data_ccbgssse036-petbwolf.bsa
 *  Data_ccbgssse036-petbwolf.esl
-*  Data_ccBGSSSE037-Curios.bsa
-*  Data_ccBGSSSE037-Curios.esl
+*  Data_ccbgssse037-curios.bsa
+*  Data_ccbgssse037-curios.esl
 *  Data_ccbgssse038-bowofshadows.bsa
 *  Data_ccbgssse038-bowofshadows.esl
 *  Data_ccbgssse040-advobgobs.bsa
@@ -386,8 +386,8 @@
 *  Data_ccmtysse002-ve.esl
 *  Data_ccpewsse002-armsofchaos.bsa
 *  Data_ccpewsse002-armsofchaos.esl
-*  Data_ccQDRSSE001-SurvivalMode.bsa
-*  Data_ccQDRSSE001-SurvivalMode.esl
+*  Data_ccqdrsse001-survivalmode.bsa
+*  Data_ccqdrsse001-survivalmode.esl
 *  Data_ccqdrsse002-firewood.bsa
 *  Data_ccqdrsse002-firewood.esl
 *  Data_ccrmssse001-necrohouse.bsa
@@ -424,6 +424,7 @@
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
 *  Data_Update.esm
+*  Data_Video_BGS_Logo.bik
 *  [Dawnguard Arsenal SSE v1_0-25094-1-0-1555858493.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25094/?tab=files&file_id=89159)
 *  [Dawnguard Music Overhaul - Combat Module-48613-1-0-1618519206.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48613/?tab=files&file_id=198379)
 *  [Dawnguard Music Overhaul - Epilogue Module-48613-1-0-1618519309.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48613/?tab=files&file_id=198380)
@@ -1080,6 +1081,7 @@
 *  [Skyrim Sewers 4.14 Undeath Patch ESPFE-17456-4-14-1548033065.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17456/?tab=files&file_id=79078)
 *  [Skyrim Sewers 415-9320-4-15-1549828167.rar](https://www.nexusmods.com/skyrimspecialedition/mods/9320/?tab=files&file_id=81323)
 *  [Skyrim Skill Uncapper for SE and AE-82558-2-2-3-1695703184.zip](https://www.nexusmods.com/skyrimspecialedition/mods/82558/?tab=files&file_id=429047)
+*  [Skyrim Spear Mechanic SE 3.0 DAR-25146-3-0-1592152122.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25146/?tab=files&file_id=145670)
 *  [Skyrim Special Edition GOG and Epic Games Support - Mod Organizer 2.4.x-6194-1-7-0-1665206954.zip](https://www.nexusmods.com/skyrimspecialedition/mods/6194/?tab=files&file_id=322391)
 *  [Skyrim Underground - esm-131-4-6-1-1579955800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/131/?tab=files&file_id=121096)
 *  [Skyrim Underground SSE - ESM-40565-1-0-1602600857.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69604/?tab=files&file_id=290974)

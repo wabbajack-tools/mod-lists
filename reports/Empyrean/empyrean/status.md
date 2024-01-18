@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1016)
+### Valid (1017)
 *  [- Vivid Eyes - Abyss Pack BSA-74410-1-0-2-1661983242.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74410/?tab=files&file_id=312092)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -203,8 +203,8 @@
 *  [Daedric Shrines - LOTD Add-on-62833-14-0-1671840621.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62833/?tab=files&file_id=343133)
 *  [Daedric Shrines 4 k-78772-1-01-1668534736.zip](https://www.nexusmods.com/skyrimspecialedition/mods/78772/?tab=files&file_id=332111)
 *  [DarkDukla Eye v16-68347-16-0-1685202044 (1).rar](https://www.nexusmods.com/skyrimspecialedition/mods/68347/?tab=files&file_id=392406)
-*  Data_ccBGSSSE001-Fish.bsa
-*  Data_ccBGSSSE037-Curios.bsa
+*  Data_ccbgssse001-fish.bsa
+*  Data_ccbgssse037-curios.bsa
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
@@ -695,7 +695,7 @@
 *  [Odin - Ordinator Compatibility Patch-1137-9-30-0-1617483870.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1137/?tab=files&file_id=195799)
 *  [Odin - WFE - Compatibility Patch-49171-0-1-1619569822.zip](https://www.nexusmods.com/skyrimspecialedition/mods/49171/?tab=files&file_id=200568)
 *  [Odin 2.0.1-46000-2-0-1-1677103120.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46000/?tab=files&file_id=362395)
-*  [Open Animation Replacer-92109-1-3-0-1688513623.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92109/?tab=files&file_id=403823)
+*  [Open Animation Replacer-92109-2-0-2-1693689287.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92109/?tab=files&file_id=422854)
 *  [Optional-38059-1-0-1636167036.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38059/?tab=files&file_id=239299)
 *  [Ordinator - Scrambled Bugs Compatibilty-51965-1-0-1-1625408497.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51965/?tab=files&file_id=212678)
 *  [Ordinator 9.31.0-1137-9-31-0-1635693140.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1137/?tab=files&file_id=238199)
@@ -703,6 +703,7 @@
 *  [P.E.N.I.S. for B.O.O.B.I.E.S.-90526-1-0-0-1683263556.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90526/?tab=files&file_id=384806)
 *  [Paarthurnax - Quest Expansion-51711-1-12-1682859219.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51711/?tab=files&file_id=383290)
 *  [Paintings Remade - Legacy of The Dragonborn-76823-0-2-1668877081.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76823/?tab=files&file_id=332991)
+*  [Paired Animation Improvements-99621-1-0-1-1693685769.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99621/?tab=files&file_id=422833)
 *  [PAN_Heroines SE-16625-1-1-1632405717.rar](https://www.nexusmods.com/skyrimspecialedition/mods/16625/?tab=files&file_id=230133)
 *  [PAN_NPCs - Dawnguard - USSEP-24135-1-3-1668084119.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24135/?tab=files&file_id=330570)
 *  [PAN_NPCs - Males 2 SE-50617-1-1-1639409710.rar](https://www.nexusmods.com/skyrimspecialedition/mods/50617/?tab=files&file_id=248800)
