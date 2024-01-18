@@ -432,14 +432,14 @@
 *  [Darkend Balance Patch-29213-1-1-1569350578.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29213/?tab=files&file_id=108097)
 *  [Darkstorm-77718-1-82-1691781876.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77718/?tab=files&file_id=416174)
 *  [Dastan PoP Preset-65224-1-0-1647710497.rar](https://www.nexusmods.com/skyrimspecialedition/mods/65224/?tab=files&file_id=271189)
-*  Data_ccBGSSSE001-Fish.bsa
-*  Data_ccBGSSSE001-Fish.esm
-*  Data_ccBGSSSE025-AdvDSGS.bsa
-*  Data_ccBGSSSE025-AdvDSGS.esm
-*  Data_ccBGSSSE037-Curios.bsa
-*  Data_ccBGSSSE037-Curios.esl
-*  Data_ccQDRSSE001-SurvivalMode.bsa
-*  Data_ccQDRSSE001-SurvivalMode.esl
+*  Data_ccbgssse001-fish.bsa
+*  Data_ccbgssse001-fish.esm
+*  Data_ccbgssse025-advdsgs.bsa
+*  Data_ccbgssse025-advdsgs.esm
+*  Data_ccbgssse037-curios.bsa
+*  Data_ccbgssse037-curios.esl
+*  Data_ccqdrsse001-survivalmode.bsa
+*  Data_ccqdrsse001-survivalmode.esl
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm

@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1894)
+### Valid (1895)
 *  [(ESL) Heimskr only preaches on weekends-13865-1-4-1677908626.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13865/?tab=files&file_id=365292)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -111,7 +111,8 @@
 *  [Animated Coffins - Rudy Silverware Patch-63564-1-1-1697684503.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63564/?tab=files&file_id=435104)
 *  [Animated Coffins-63564-1-1-1697684456.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63564/?tab=files&file_id=435103)
 *  [Animated Forge Water-52322-0-8-1692600726.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52322/?tab=files&file_id=419248)
-*  [Animated Ice Floes-90634-3-8-1704745937.7z](https://www.nexusmods.com/skyrimspecialedition/mods/90634/?tab=files&file_id=459292)
+*  [Animated Ice Floes - LOD textures Patch-102227-1-0-1696906093.zip](https://www.nexusmods.com/skyrimspecialedition/mods/102227/?tab=files&file_id=432792)
+*  [Animated Ice Floes-90634-4-0-1705497951.7z](https://www.nexusmods.com/skyrimspecialedition/mods/90634/?tab=files&file_id=462259)
 *  [Animated Static Reload Fix - NG-69331-1-0-1-1669739630.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69331/?tab=files&file_id=335899)
 *  [Animated Whistling FNIS Nemesis-76733-1-11-1681012990.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76733/?tab=files&file_id=376540)
 *  [Animation Addon-81282-1-2-1697628537.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81282/?tab=files&file_id=434934)
@@ -385,8 +386,8 @@
 *  [Dark Elf Lantern ENB Light-63176-0-2-1644165968.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63176/?tab=files&file_id=262221)
 *  [Darker and Desaturated Rope Texture-100397-1-0-1694524053.rar](https://www.nexusmods.com/skyrimspecialedition/mods/100397/?tab=files&file_id=425179)
 *  Data_ccasvsse001-almsivi.bsa
-*  Data_ccBGSSSE001-Fish.bsa
-*  Data_ccBGSSSE001-Fish.esm
+*  Data_ccbgssse001-fish.bsa
+*  Data_ccbgssse001-fish.esm
 *  Data_ccbgssse006-stendarshammer.bsa
 *  Data_ccbgssse006-stendarshammer.esl
 *  Data_ccbgssse007-chrysamere.bsa
@@ -400,12 +401,12 @@
 *  Data_ccbgssse020-graycowl.esl
 *  Data_ccbgssse021-lordsmail.bsa
 *  Data_ccbgssse021-lordsmail.esl
-*  Data_ccBGSSSE025-AdvDSGS.bsa
-*  Data_ccBGSSSE025-AdvDSGS.esm
+*  Data_ccbgssse025-advdsgs.bsa
+*  Data_ccbgssse025-advdsgs.esm
 *  Data_ccbgssse034-mntuni.bsa
 *  Data_ccbgssse034-mntuni.esl
-*  Data_ccBGSSSE037-Curios.bsa
-*  Data_ccBGSSSE037-Curios.esl
+*  Data_ccbgssse037-curios.bsa
+*  Data_ccbgssse037-curios.esl
 *  Data_ccbgssse041-netchleather.bsa
 *  Data_ccbgssse041-netchleather.esl
 *  Data_ccbgssse043-crosselv.bsa
@@ -465,8 +466,8 @@
 *  Data_ccmtysse002-ve.esl
 *  Data_ccpewsse002-armsofchaos.bsa
 *  Data_ccpewsse002-armsofchaos.esl
-*  Data_ccQDRSSE001-SurvivalMode.bsa
-*  Data_ccQDRSSE001-SurvivalMode.esl
+*  Data_ccqdrsse001-survivalmode.bsa
+*  Data_ccqdrsse001-survivalmode.esl
 *  Data_ccqdrsse002-firewood.bsa
 *  Data_ccqdrsse002-firewood.esl
 *  Data_ccvsvsse003-necroarts.bsa
@@ -577,7 +578,7 @@
 *  [DynDOLOD DLL NG and Scripts 3.00-97720-Alpha-13-1699460930.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97720/?tab=files&file_id=441000)
 *  [DynDOLOD Resources SE 3.00-52897-Alpha-47-1702746822.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=452435)
 *  [DynDoLod V 3.0 Lod pack (all versions)-11052-4-01-1665301976.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=322680)
-*  [DynDOLOD-107696-1-4-0-1705447022.zip](https://www.nexusmods.com/skyrimspecialedition/mods/107696/?tab=files&file_id=462089)
+*  [DynDOLOD-107696-1-4-2-1705509963.zip](https://www.nexusmods.com/skyrimspecialedition/mods/107696/?tab=files&file_id=462318)
 *  [East Empire Strongbox Logo - Rustic Retexture by Gamwich (2k)-70396-2-1-1656426644.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70396/?tab=files&file_id=294681)
 *  [EASY MODE - Show Direct Quest Markers-66666-1-05-1658619915.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66666/?tab=files&file_id=301627)
 *  [EasyNPC-107696-1-2-0-1704377298.7z](https://www.nexusmods.com/skyrimspecialedition/mods/107696/?tab=files&file_id=457721)
@@ -1682,7 +1683,7 @@
 *  [Sweeping Organizes Stuff - Use Broom to Clean Mess-51645-0-5-2-1701477128.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51645/?tab=files&file_id=447965)
 *  [Sweet Mother HD-4947-2-0.7z](https://www.nexusmods.com/skyrim/mods/4947/?tab=files&file_id=28326)
 *  [Sweet Roll Boiled Creme Treat and Pie-9034-.zip](https://www.nexusmods.com/skyrimspecialedition/mods/9034/?tab=files&file_id=22836)
-*  [Synthesis-107696-1-4-0-1705447340.7z](https://www.nexusmods.com/skyrimspecialedition/mods/107696/?tab=files&file_id=462094)
+*  [Synthesis-107696-1-4-2-1705509983.7z](https://www.nexusmods.com/skyrimspecialedition/mods/107696/?tab=files&file_id=462320)
 *  [TAA Flicker Fixer-76436-1-2-0-1665317246.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76436/?tab=files&file_id=322732)
 *  [TAA Sharpen-91281-1-0-1-1685573120.zip](https://www.nexusmods.com/skyrimspecialedition/mods/91281/?tab=files&file_id=393789)
 *  [Take a Seat - OAR Animations-54193-1-01-1685814645.zip](https://www.nexusmods.com/skyrimspecialedition/mods/54193/?tab=files&file_id=394681)
