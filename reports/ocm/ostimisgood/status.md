@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1218)
+### Valid (1214)
 *  [--Lucien Replacer 2 Younger face version-61263-2-0-1641307566.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61263/?tab=files&file_id=253879)
 *  [(1) Sharkish Piercings - BHUNP - Base-57131-1-01-1634463636.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235337)
 *  [(Part 1) Picturesque - Weathers mod - 1.6a-32364-1-6a-1673977642.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32364/?tab=files&file_id=350474)
@@ -262,7 +262,6 @@
 *  [Cuyi's Bosmeri Antlers - ESL-26173-1-2-SSE-1619963503.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26173/?tab=files&file_id=201273)
 *  [D-sney Mommy NG 1.0-77629-1-0-1666685421.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77629/?tab=files&file_id=326415)
 *  [Daedric Armors and Weapons Retexture SE - Half Resolution-84151-1-1-1677117598.rar](https://www.nexusmods.com/skyrimspecialedition/mods/84151/?tab=files&file_id=362441)
-*  [Daedric Voices - Hircine-32090-0-5-1581494877.rar](https://www.nexusmods.com/skyrimspecialedition/mods/32090/?tab=files&file_id=123761)
 *  [Daedroth Titans (se-ae)-78776-1-1668448206.rar](https://www.nexusmods.com/skyrimspecialedition/mods/78776/?tab=files&file_id=331850)
 *  [DAR - Dynamic Swimming-34853-1-0-1587114447.rar](https://www.nexusmods.com/skyrimspecialedition/mods/34853/?tab=files&file_id=134723)
 *  [Dark Brotherhood Armor SE - BHUNP Conversion-84829-1-0-1676230562.zip](https://www.nexusmods.com/skyrimspecialedition/mods/84829/?tab=files&file_id=359186)
@@ -573,7 +572,6 @@
 *  [Ingredients-40777-6-0-1601558843.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40777/?tab=files&file_id=163390)
 *  [Inigo Banter patch - sfts and Talwin fix-11278-0-1-1600098079.zip](https://www.nexusmods.com/skyrimspecialedition/mods/11278/?tab=files&file_id=160694)
 *  [INIGO_V2.4C SE-1461-2-4C.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1461/?tab=files&file_id=10496)
-*  [Innocence Lost - Quest Expansion-80974-1-01-1673945197.zip](https://www.nexusmods.com/skyrimspecialedition/mods/80974/?tab=files&file_id=350345)
 *  [Insectoid - Chaurus Sounds Rework --90772-1-0-1683380649.7z](https://www.nexusmods.com/skyrimspecialedition/mods/90772/?tab=files&file_id=385263)
 *  installscript.vdf
 *  [Inventory Interface Information Injector (SE)-85702-1-0-2-1677719496.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85702/?tab=files&file_id=364683)
@@ -984,7 +982,6 @@
 *  [Skyrim Paper Map by Caro Tuts for FWMF FOMOD (BETA)-62705-1-72-1675272262.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62705/?tab=files&file_id=355301)
 *  [Skyrim Priority SE AE-50129-3-4-0-1675213326.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50129/?tab=files&file_id=355110)
 *  [Skyrim Script Extender (SKSE64)-30379-2-0-20-1633684151.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30379/?tab=files&file_id=233411)
-*  [Skyrim Souls RE - Updated (Anniversary Edition)-27859-2-3-1-1657826236.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27859/?tab=files&file_id=298956)
 *  Skyrim_Default.ini
 *  Skyrim_SkyrimPrefs.ini
 *  SkyrimSE.exe
@@ -1108,7 +1105,6 @@
 *  [The Rift's Rest (Ostim)-75649-7-0-1-1692007346.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75649/?tab=files&file_id=416972)
 *  [The Unsatisfied Ghost - Ostim addons-87286-2-0-1-1692007135.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87286/?tab=files&file_id=416970)
 *  [The Unsatisfied Ghost (Rift's Rest)-87286-2-0-1689577367.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87286/?tab=files&file_id=407840)
-*  [The Whispering Door - Quest Expansion-76606-1-10-1673013119.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76606/?tab=files&file_id=347217)
 *  [The Witcher Signs-90645-1-18-1683740275.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90645/?tab=files&file_id=386679)
 *  [TheNewGentleman-104215-2-0-0-1704965168.7z](https://www.nexusmods.com/skyrimspecialedition/mods/104215/?tab=files&file_id=460170)
 *  [Thicc and Strong - A HIMBO Bodyslide Preset-89271-1-0-0-1681561178.7z](https://www.nexusmods.com/skyrimspecialedition/mods/89271/?tab=files&file_id=378444)
