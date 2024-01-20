@@ -186,6 +186,7 @@
 *  [Beards of Power - Polymorph Version-42635-03cbeard-1611369735.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42635/?tab=files&file_id=181178)
 *  [Beards of Power HDT-SMP-55576-1-1-1633103967.rar](https://www.nexusmods.com/skyrimspecialedition/mods/55576/?tab=files&file_id=231877)
 *  [Beauty Body Preset-59589-1-1-1641860485.rar](https://www.nexusmods.com/skyrimspecialedition/mods/59589/?tab=files&file_id=255773)
+*  [BEES-1_2-106441-1-2-1702155399.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106441/?tab=files&file_id=450251)
 *  [Bellyaches Animal and Creature Pack SSE-6839-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6839/?tab=files&file_id=36649)
 *  [Better Bears 2k-33788-1-0-1585033344.rar](https://www.nexusmods.com/skyrimspecialedition/mods/33788/?tab=files&file_id=130251)
 *  [Better Dwemer Spider Textures by Naitrii - 2048-3049-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3049/?tab=files&file_id=11820)
@@ -319,7 +320,6 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
-*  Data_MarketplaceTextures.bsa
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
