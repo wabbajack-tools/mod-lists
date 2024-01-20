@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (280)
+### Valid (260)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [1st Person Interact Animation Teleport Bug Fix-92795-1-0-0-1685907012.zip](https://www.nexusmods.com/skyrimspecialedition/mods/92795/?tab=files&file_id=395075)
@@ -54,23 +54,23 @@
 *  [Crash Log Tools-66743-1-0-1-1650374513.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66743/?tab=files&file_id=278241)
 *  [CrashLogger-59818-1-8-0-1675415183.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=355778)
 *  [Creation Club - Widescreen Fix-1778-2-0-1592665361.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?tab=files&file_id=146621)
-*  CreationKit.exe
-*  CreationKit.ini
 *  [Creep Cluster Collision Fixes-93260-1-1-0-1690423711.7z](https://www.nexusmods.com/skyrimspecialedition/mods/93260/?tab=files&file_id=411022)
 *  [Critter Spawn Congestion Fix 1.3-67276-1-3-1673705873.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67276/?tab=files&file_id=349417)
 *  [Curation Club 1.1.0-60552-1-1-0-1673870936.zip](https://www.nexusmods.com/skyrimspecialedition/mods/60552/?tab=files&file_id=350066)
-*  Data_ccBGSSSE001-Fish.bsa
-*  Data_ccBGSSSE001-Fish.esm
-*  Data_ccBGSSSE025-AdvDSGS.bsa
-*  Data_ccBGSSSE025-AdvDSGS.esm
-*  Data_ccBGSSSE037-Curios.bsa
-*  Data_ccBGSSSE037-Curios.esl
-*  Data_ccQDRSSE001-SurvivalMode.bsa
-*  Data_ccQDRSSE001-SurvivalMode.esl
+*  Data_ccasvsse001-almsivi.bsa
+*  Data_ccbgssse001-fish.bsa
+*  Data_ccbgssse001-fish.esm
+*  Data_ccbgssse013-dawnfang.bsa
+*  Data_ccbgssse025-advdsgs.bsa
+*  Data_ccbgssse025-advdsgs.esm
+*  Data_ccbgssse037-curios.bsa
+*  Data_ccbgssse037-curios.esl
+*  Data_ccbgssse067-daedinv.bsa
+*  Data_ccqdrsse001-survivalmode.bsa
+*  Data_ccqdrsse001-survivalmode.esl
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
-*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -114,14 +114,12 @@
 *  [EVE - No More Swimming In Air - Fixed SwimIdle Floating-73421-1-0-1660577633.7z](https://www.nexusmods.com/skyrimspecialedition/mods/73421/?tab=files&file_id=307745)
 *  [Eyes AO Clipping Fix - Ruhmastered-25753-1-3-1577066722.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25753/?tab=files&file_id=117092)
 *  [Face Discoloration Fix SE-42441-1-0-3-1664040600.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42441/?tab=files&file_id=319047)
-*  [FaceFXWrapper 0.4-20061-0-4-1631087053.zip](https://www.nexusmods.com/skyrimspecialedition/mods/20061/?tab=files&file_id=226894)
 *  [Farm Hat 01 Clipping Fix-72213-1-1-1672045134.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72213/?tab=files&file_id=343719)
 *  [First Person Sneak Strafe-Walk Stutter Fix-31165-1-0-1577054070.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31165/?tab=files&file_id=117079)
 *  [Fish Plaque Fixes and Improvements-93868-0-2-1687852884.7z](https://www.nexusmods.com/skyrimspecialedition/mods/93868/?tab=files&file_id=401477)
 *  [Fixed Skeever Dinner Meshes-68481-1-1-1656722574.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68481/?tab=files&file_id=295519)
 *  [FixNotesForSkyUI Skyrim AE-32561-1-2-6-1663815583.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32561/?tab=files&file_id=318422)
 *  [Floating Ash Pile Fix-63434-0-2-1644944776.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63434/?tab=files&file_id=264466)
-*  flowchartx64.dll
 *  [FonixData File Mod Manager Install-40971-1-0-1601510699.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40971/?tab=files&file_id=163332)
 *  [FormList Manipulator - FLM-74037-1-7-1-1690989877.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74037/?tab=files&file_id=413452)
 *  [Freed Prisoner Uses Items-22152-1-0-1545863442.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22152/?tab=files&file_id=76286)
@@ -146,15 +144,6 @@
 *  [KiLoader for Skyrim-99404-1-0-3-1693450383.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99404/?tab=files&file_id=422186)
 *  [King Olaf's Fire Festival Not Ending Fix-65849-0-1-1648899684.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65849/?tab=files&file_id=274311)
 *  [Labyrinthian Shalidor's Maze Fixes-52239-0-3-1626070810.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52239/?tab=files&file_id=214147)
-*  lex_accent.tlx
-*  lex_ssceam.tlx
-*  lex_ssceam2.clx
-*  lex_sscebr.tlx
-*  lex_sscebr2.clx
-*  lex_ssceca2.clx
-*  lex_tech.tlx
-*  lex_User_correct.tlx
-*  lex_User_userdic.tlx
 *  [Load Screen Shading Fix-98647-0-1-1692446753.7z](https://www.nexusmods.com/skyrimspecialedition/mods/98647/?tab=files&file_id=418517)
 *  [LOOT Config Loader-60864-1-0-0-1640664306.zip](https://www.nexusmods.com/skyrimspecialedition/mods/60864/?tab=files&file_id=252180)
 *  [LOOT Warning Checker-323-1-2-4-beta-1682794034.zip](https://www.nexusmods.com/site/mods/323/?tab=files&file_id=2062)
@@ -194,10 +183,7 @@
 *  [Optional Quick Start - SE-63953-1-1-4-1652007908.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63953/?tab=files&file_id=282311)
 *  [Ore Vein Cube Map and Shader Fixes-85641-1-0-1677189832.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85641/?tab=files&file_id=362736)
 *  [Ore Vein Texture Fix-72638-1-0-1659572217.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72638/?tab=files&file_id=304450)
-*  p4com64.dll
 *  [Paired Animation Improvements-99621-1-0-1-1693685769.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99621/?tab=files&file_id=422833)
-*  Papyrus Compiler_PapyrusCompiler.exe
-*  Papyrus Compiler_ScriptCompile.bat
 *  [Papyrus Extender-22854-5-6-1-1690313666.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=410639)
 *  [Papyrus Tweaks 4.1.0-77779-4-1-0-1677126184.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77779/?tab=files&file_id=362490)
 *  [PapyrusUtil AE SE - Scripting Utility Functions-13048-4-4-1664236996.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13048/?tab=files&file_id=319680)
@@ -260,12 +246,6 @@
 *  [Survival Mode - Disable By Default-59049-1-0-0-1637864324.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59049/?tab=files&file_id=244329)
 *  [Switch Camera During Dialogue-95269-1-0-1690012114.zip](https://www.nexusmods.com/skyrimspecialedition/mods/95269/?tab=files&file_id=409386)
 *  [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.26/Synthesis.zip)
-*  Tools_Archive_Archive.exe
-*  Tools_Audio_xwmaencode.exe
-*  Tools_Elric_xg.dll
-*  Tools_Elric_xtexconv.exe
-*  Tools_HavokBehaviorPostProcess_HavokBehaviorPostProcess.exe
-*  Tools_HavokBehaviorPostProcess_UpgradeHavokBehavior.bat
 *  [UIExtensions v1-2-0-17561-1-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17561/?tab=files&file_id=55628)
 *  Ultra.ini
 *  [Unique Map Weather-59919-1-1-1-1676049076.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59919/?tab=files&file_id=358458)
