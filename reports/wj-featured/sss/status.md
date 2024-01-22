@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1642)
+### Valid (1636)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [00 - AE - Anniversary Edition Patch-63640-1-5-3-1697376793.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63640/?tab=files&file_id=434195)
@@ -370,23 +370,17 @@
 *  [Dark Elf Lantern ENB Light - Particle Patch for ENB-76417-1-0-1664690974.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76417/?tab=files&file_id=320956)
 *  [Dark Elf Lantern ENB Light-63176-0-2-1644165968.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63176/?tab=files&file_id=262221)
 *  [Dark Elf Voices For Bandits-63733-1-04-1655488875.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63733/?tab=files&file_id=291842)
-*  Data__ResourcePack.bsa
-*  Data__ResourcePack.esl
-*  Data_ccasvsse001-almsivi.bsa
 *  Data_ccbgssse001-fish.bsa
 *  Data_ccbgssse001-fish.esm
-*  Data_ccbgssse013-dawnfang.bsa
 *  Data_ccbgssse025-advdsgs.bsa
 *  Data_ccbgssse025-advdsgs.esm
 *  Data_ccbgssse037-curios.bsa
 *  Data_ccbgssse037-curios.esl
-*  Data_ccbgssse067-daedinv.bsa
 *  Data_ccqdrsse001-survivalmode.bsa
 *  Data_ccqdrsse001-survivalmode.esl
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
-*  Data_MarketplaceTextures.bsa
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -503,11 +497,11 @@
 *  [ENB Lights For Effect Shaders-56362-2-1-0-1665397992.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56362/?tab=files&file_id=322991)
 *  [ENB lights for Volendrung SE Medium-60349-0-1-1639919879.zip](https://www.nexusmods.com/skyrimspecialedition/mods/60349/?tab=files&file_id=250279)
 *  [ENB-ParticleLights-DwemerLanterns-1-02-24108-1-02-1552437026.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24108/?tab=files&file_id=84731)
-*  [enbseries_skyrimse_v0499.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0499.zip_d41d99b5-535f-4123-9dd5-4a1b932a8fd5)
+*  [enbseries_skyrimse_v0499.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0499.zip_db669a82-5032-4aac-90ef-665cb9b5982f)
 *  [Enchantable Special Item Fix-65154-1-0-2-1664574060.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65154/?tab=files&file_id=320587)
 *  [Enchantments and Potions Work for NPCs - EPW4NPCs-37607-1-0-2-1669579454.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37607/?tab=files&file_id=335385)
 *  [Encounter Zones Unlocked AE-19608-1-5-4-1663528547.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19608/?tab=files&file_id=317381)
-*  [Enemies Respect Encounter Zones-78847-14-1-1691398202.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78847/?tab=files&file_id=414920)
+*  [Enemies Respect Encounter Zones-78847-1-4-2-1705826847.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78847/?tab=files&file_id=463438)
 *  [Enemy Resistance Tweaks-59394-1-4-1681481166.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59394/?tab=files&file_id=378195)
 *  [Enhanced Blood Textures-2357-4-0-1639547261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=249235)
 *  [Enhanced Invisibility-61950-1-3-0-1665511169.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61950/?tab=files&file_id=323345)
@@ -1350,14 +1344,14 @@
 *  [Sleeves for Guards - FOMOD-18077-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18077/?tab=files&file_id=57729)
 *  [Slidikins' Strenuous Skyrim - Configuration-53939-4-19-0-2-1705786281.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53939/?tab=files&file_id=463274)
 *  [Slidikins' Strenuous Skyrim - Conflict Resolution-53939-4-19-0-2-1705709678.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53939/?tab=files&file_id=463029)
-*  [Slidikins' Strenuous Skyrim - DynDOLOD Output (P)-53939-4-19-0-2-1705675462.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53939/?tab=files&file_id=462874)
-*  [Slidikins' Strenuous Skyrim - DynDOLOD Output-53939-4-19-0-2-1705702743.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53939/?tab=files&file_id=463000)
+*  [Slidikins' Strenuous Skyrim - DynDOLOD Output (P)-53939-4-19-0-3-1705891895.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53939/?tab=files&file_id=463664)
+*  [Slidikins' Strenuous Skyrim - DynDOLOD Output-53939-4-19-0-3-1705926730.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53939/?tab=files&file_id=463759)
 *  [Slidikins' Strenuous Skyrim - FaceGen-53939-4-19-0-2-1705709551.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53939/?tab=files&file_id=463025)
 *  [Slidikins' Strenuous Skyrim - Nemesis Output-53939-4-19-0-1699555832.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53939/?tab=files&file_id=441233)
 *  [Slidikins' Strenuous Skyrim - SRD Patch-53939-4-17-1-1687625345.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53939/?tab=files&file_id=400605)
-*  [Slidikins' Strenuous Skyrim - Synthesis Patches-53939-4-19-0-2-1705709583.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53939/?tab=files&file_id=463027)
-*  [Slidikins' Strenuous Skyrim - Terrain LOD-53939-4-19-0-2-1705708987.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53939/?tab=files&file_id=463023)
-*  [Slidikins' Strenuous Skyrim - TexGen Output-53939-4-19-0-2-1705709611.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53939/?tab=files&file_id=463028)
+*  [Slidikins' Strenuous Skyrim - Synthesis Patches-53939-4-19-0-3-1705891939.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53939/?tab=files&file_id=463665)
+*  [Slidikins' Strenuous Skyrim - Terrain LOD-53939-4-19-0-3-1705892900.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53939/?tab=files&file_id=463669)
+*  [Slidikins' Strenuous Skyrim - TexGen Output-53939-4-19-0-3-1705891978.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53939/?tab=files&file_id=463666)
 *  [Slof's Trotting Horse SSE-38788-1-0-1596032023.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38788/?tab=files&file_id=152742)
 *  [Smaller Vanilla Cursors-20617-0-000001-1539731683.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20617/?tab=files&file_id=69462)
 *  [SMIM SE 2-08-659-2-08.7z](https://www.nexusmods.com/skyrimspecialedition/mods/659/?tab=files&file_id=59069)
@@ -1537,7 +1531,7 @@
 *  [Universal Cured Serana Eye Fix-74759-0-4-1683717794.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74759/?tab=files&file_id=386576)
 *  [Universal Unwanted Effects Clearer-93977-0-3-1-1690091871.7z](https://www.nexusmods.com/skyrimspecialedition/mods/93977/?tab=files&file_id=409740)
 *  [Unofficial Material Fix-21027-1-17-0-1573377063.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21027/?tab=files&file_id=113020)
-*  [Unofficial Skyrim Special Edition Patch-266-4-3-0a-1702019266.7z](https://www.nexusmods.com/skyrimspecialedition/mods/266/?tab=files&file_id=449719)
+*  [Unofficial Skyrim Special Edition Patch-266-4-2-9a-1685216241.7z](https://www.nexusmods.com/skyrimspecialedition/mods/266/?tab=files&file_id=392477)
 *  [Unreal 4K Mammoth Skeleton ReTexture-39356-1-0-1597342395.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39356/?tab=files&file_id=155401)
 *  [Upgraded Moondial - Material Fix-9951-1-0-1641394899.rar](https://www.nexusmods.com/skyrimspecialedition/mods/9951/?tab=files&file_id=254145)
 *  [Upgraded Moondial PATCH-63878-1-1-1648443113.rar](https://www.nexusmods.com/skyrimspecialedition/mods/63878/?tab=files&file_id=273195)
