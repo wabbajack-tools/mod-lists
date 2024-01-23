@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (500)
+### Valid (499)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-9-1-1664974289.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321816)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -104,7 +104,6 @@
 *  [CrashLogger-59818-1-12-1-1703242110.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=454142)
 *  CreationKit.exe
 *  CreationKit.ini
-*  CreationKitPrefs.ini
 *  [CritterSpawn Congestion Fix-67276-1-52-1696806334.zip](https://www.nexusmods.com/skyrimspecialedition/mods/67276/?tab=files&file_id=432442)
 *  [d3dcompiler_47-31963-1-0-1579609721.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31963/?tab=files&file_id=120677)
 *  [Darker 2k - Bark Texture with improved normal-85891-1-03-1691632537.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85891/?tab=files&file_id=415636)
