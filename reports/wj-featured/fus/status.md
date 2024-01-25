@@ -426,8 +426,8 @@
 *  [SkyrimVR PDB-59818-2023-2-10-1676016626.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=358353)
 *  SkyrimVR.exe
 *  [SkyrimVRTools-27782-2-3-BETA-1590789255.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27782/?tab=files&file_id=142773)
+*  [SkyUI VR-91535-1-2-2-1684306071.7z](https://www.nexusmods.com/skyrimspecialedition/mods/91535/?tab=files&file_id=388903)
 *  [SkyUI-FUS-53186-1-1641823190.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53186/?tab=files&file_id=255642)
-*  [SkyUI.v1.2.1.7z](https://github.com/Odie/skyui-vr/releases/download/v1.2.1/SkyUI.v1.2.1.7z)
 *  [SkyVRaan 1.0.1-30571-1-0-1-1614546430.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30571/?tab=files&file_id=188632)
 *  [SkyVRaan 1.5.1-30571-1-5-1-1662493695.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30571/?tab=files&file_id=313846)
 *  [Sleeping Expanded-59250-1-20-1640092468.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59250/?tab=files&file_id=250747)
