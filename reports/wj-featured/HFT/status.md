@@ -265,7 +265,7 @@
 *  [Bladedancer's Edge CBBE-3BA-62751-1-2-1646520908.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62751/?tab=files&file_id=268310)
 *  [Blended Roads-8834-1-7-1586448385.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8834/?tab=files&file_id=133231)
 *  [Blood Raven SE v2_0.7z](https://drive.google.com/uc?id=1EbMYbkRsvxu_sbqzYuxKYxMbj7WL6hoE&export=download)
-*  [BM Licenses - Enhanced - 1.9.2.zip](https://www.loverslab.com/files/file/29357-bm-licenses-enhanced/?do=download&r=1814416)
+*  [BM Licenses - Enhanced - 1.11.7z](https://www.loverslab.com/files/file/29357-bm-licenses-enhanced/?do=download&csrf)
 *  [BnP - Teeth Overhaul 2k-84288-2-0-1698683287.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84288/?tab=files&file_id=438395)
 *  [BnP female RSV (CBBE) 4k-102667-1-0-1697382132.7z](https://www.nexusmods.com/skyrimspecialedition/mods/102667/?tab=files&file_id=434228)
 *  [BnP female skin 4k (CBBE Player and Replacer)-65274-2-0-1688931352.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65274/?tab=files&file_id=405621)
