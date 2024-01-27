@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (503)
+### Valid (509)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-9-1-1664974289.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321816)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -63,6 +63,7 @@
 *  [Barter Limit Fix-77173-1-0-1665868879.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77173/?tab=files&file_id=324312)
 *  [Base Object Swapper-60805-2-6-1-1693305757.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60805/?tab=files&file_id=421727)
 *  [Based Boar 2K-1K-55073-1-0-1630755213.rar](https://www.nexusmods.com/skyrimspecialedition/mods/55073/?tab=files&file_id=226058)
+*  [Bash Bug Fix-83581-3-0-0-1677373489.zip](https://www.nexusmods.com/skyrimspecialedition/mods/83581/?tab=files&file_id=363399)
 *  [bc036's Tweaks-58408-1-1-1637009353.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58408/?tab=files&file_id=241787)
 *  [Beard Mask Fix SE-81756-2-0-1678601543.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81756/?tab=files&file_id=367762)
 *  [Beard Mask Fix-80232-1-0-1-1671192147.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80232/?tab=files&file_id=341007)
@@ -188,7 +189,6 @@
 *  [First Person Sneak Strafe-Walk Stutter Fix-31165-1-0-1577054070.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31165/?tab=files&file_id=117079)
 *  [Fixed Fixed Dragon Stalking Fix-55518-1-0-1631499484.zip](https://www.nexusmods.com/skyrimspecialedition/mods/55518/?tab=files&file_id=228030)
 *  [FixNotesForSkyUI SKSE64 2.0.17-32561-1-2-1-1583205405.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32561/?tab=files&file_id=126933)
-*  flowchartx64.dll
 *  [Forgotten Vale Map Markers-74537-1-0-1662140724.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74537/?tab=files&file_id=312587)
 *  [FormList Manipulator - FLM-74037-1-7-1-1690989877.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74037/?tab=files&file_id=413452)
 *  [Frost - Flame - Storm Atronach Retexture 2K-88344-1-0-1-1680455311.7z](https://www.nexusmods.com/skyrimspecialedition/mods/88344/?tab=files&file_id=374470)
@@ -313,7 +313,7 @@
 *  [Music - HQ-18115-0-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18115/?tab=files&file_id=57834)
 *  [Native EditorID Fix (Skyrim 1.5)-85260-1-2-0-1703190969.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85260/?tab=files&file_id=453936)
 *  [Natural Waterfalls-87261-2-0-1701254026.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87261/?tab=files&file_id=447064)
-*  [Navigator - Navmesh Fixes-52641-1-5-5-1706114811.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52641/?tab=files&file_id=464471)
+*  [Navigator - Navmesh Fixes-52641-1-5-6-1706233116.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52641/?tab=files&file_id=464862)
 *  [Neloth's Experimental Subject Quest (DLC2TTR4a) Fix-64016-0-1-1645437312.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64016/?tab=files&file_id=265836)
 *  [Nemesis Creature Behaivour - WereWolf Addon-45966-1-4-1679764789.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45966/?tab=files&file_id=371954)
 *  [Nemesis Creature Behaivour Compatiblity-45966-1-4-1679764715.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45966/?tab=files&file_id=371953)
@@ -426,6 +426,7 @@
 *  Skyrim_Default.ini
 *  Skyrim_SkyrimPrefs.ini
 *  Skyrim.ccc
+*  SkyrimReservedAddOnIndexes.txt
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
 *  [SkyrimSSE 1.5.97.0-59818-2023-11-18-1700369302.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=443855)
@@ -472,6 +473,11 @@
 *  Tools_HavokBehaviorPostProcess_HavokBehaviorPostProcess.exe
 *  Tools_HavokBehaviorPostProcess_readme.txt
 *  Tools_HavokBehaviorPostProcess_UpgradeHavokBehavior.bat
+*  Tools_LipGen_LipFuzer_LIPFuzer.exe
+*  Tools_LipGen_LipFuzer_LIPFuzer.txt
+*  Tools_LipGen_LipGenerator_FonixData.cdf
+*  Tools_LipGen_LipGenerator_LipGenerator.exe
+*  Tools_RoboVoicer.exe
 *  [Tree LOD Lighting-86617-1-2-0-1699907640.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86617/?tab=files&file_id=442370)
 *  [True Directional Movement-51614-2-2-5-1698369428.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51614/?tab=files&file_id=437371)
 *  [TrueHUD-62775-1-1-9-1703382929.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62775/?tab=files&file_id=454617)
