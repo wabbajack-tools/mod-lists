@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (501)
+### Valid (502)
 *  [1_Base Object Swapper VR-61734-2-5-1-1673860159.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61734/?tab=files&file_id=350018)
 *  [1_Cathedral - 3D Deathbell-76460-1-1-1664789773.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76460/?tab=files&file_id=321269)
 *  [1_Cathedral - 3D Dragons Tongue - Dark Orange-85694-1-2-1677328513.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85694/?tab=files&file_id=363180)
@@ -285,6 +285,7 @@
 *  [HD Remastered Landscapes - 2k-94835-1-0-1688277731.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94835/?tab=files&file_id=403002)
 *  [HD Skyrim Overhaul - Mid Quality Pack-19421-2-4-1580419368.rar](https://www.nexusmods.com/skyrimspecialedition/mods/19421/?tab=files&file_id=121861)
 *  [HIGGS 1.8.0-43930-1-8-0-1704330974.zip](https://www.nexusmods.com/skyrimspecialedition/mods/43930/?tab=files&file_id=457608)
+*  [HIGGS 1.8.1-43930-1-8-1-1706250311.zip](https://www.nexusmods.com/skyrimspecialedition/mods/43930/?tab=files&file_id=464906)
 *  High.ini
 *  [Immersive Draw Sheathe Sounds VR-44992-1-0-1612043842.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44992/?tab=files&file_id=182941)
 *  [Immersive Draw Sheathe Sounds VR-44992-1-0-1614102900.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44992/?tab=files&file_id=187606)
