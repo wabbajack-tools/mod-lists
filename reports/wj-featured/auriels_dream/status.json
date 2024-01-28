@@ -2,7 +2,7 @@
   "MachineURL": "wj-featured/auriels_dream",
   "Name": "Auriels Dream",
   "Version": "12.0.6",
-  "ModListHash": "rqC+nLClm4s=",
+  "ModListHash": "qS0hg1VWjVI=",
   "Archives": [
     {
       "Status": "Valid",
@@ -7849,10 +7849,10 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XS4gWSWk0bM=",
+        "Hash": "GjA0UKu7U3Q=",
         "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Low.ini",
         "Name": "Low.ini",
-        "Size": 4722,
+        "Size": 598,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
@@ -8993,10 +8993,10 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "I7WMh1CnELk=",
+        "Hash": "cDu1RZh5Izw=",
         "Meta": "[General]\ngameName=SkyrimVR\ngameFile=High.ini",
         "Name": "High.ini",
-        "Size": 4718,
+        "Size": 606,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
@@ -9492,10 +9492,10 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "b8Ajp9RGAuM=",
+        "Hash": "dEuYEnK3xbo=",
         "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Medium.ini",
         "Name": "Medium.ini",
-        "Size": 4722,
+        "Size": 606,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
@@ -11386,10 +11386,10 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dMnrfydGj8U=",
+        "Hash": "JbYP1w8FSfY=",
         "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Skyrim.ini",
         "Name": "Skyrim.ini",
-        "Size": 1965,
+        "Size": 1859,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimVR",
@@ -17418,6 +17418,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "45524Jr3Xu8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=3858\nfileID=6780",
+        "Name": "Optimized Texture for SSE-3858-1-0.zip",
+        "Size": 679637887,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Abendaron",
+          "Description": "Optimized Texture For Skyrim Special Edition.\n\nReduce the filesize of unoptimized vanilla texture",
+          "FileID": 6780,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/3858-0-1478903585.jpg",
+          "IsNSFW": false,
+          "ModID": 3858,
+          "Name": "Simply Optimized Textures for SSE",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "O2FC3xeCFKQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44016\nfileID=209716",
+        "Name": "Auriel\u0027s Dream - Core Texture Pack - BSA-44016-2-1624016649.7z",
+        "Size": 2793689727,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kvitekvist",
+          "Description": "This is a light version of Project Clarity optimized for Auriel\u0027s Dream modlist. All credits to  Project Clarity",
+          "FileID": 209716,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44016/44016-1609859295-1573649788.png",
+          "IsNSFW": false,
+          "ModID": 44016,
+          "Name": "Auriel\u0027s Dream - Core Texture Pack",
+          "Version": "7.0.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Mj8+6rxW6Es=",
         "Meta": "[General]\ngameName=SkyrimVR\ngameFile=Data\\Skyrim - Interface.bsa",
         "Name": "Data_Skyrim - Interface.bsa",
@@ -17460,48 +17502,6 @@
           "GameFile": "Data\\Skyrim - Meshes0.bsa",
           "GameVersion": "1.4.15.0",
           "Hash": "MLw2ZGIzsg0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "45524Jr3Xu8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=3858\nfileID=6780",
-        "Name": "Optimized Texture for SSE-3858-1-0.zip",
-        "Size": 679637887,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Abendaron",
-          "Description": "Optimized Texture For Skyrim Special Edition.\n\nReduce the filesize of unoptimized vanilla texture",
-          "FileID": 6780,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/3858-0-1478903585.jpg",
-          "IsNSFW": false,
-          "ModID": 3858,
-          "Name": "Simply Optimized Textures for SSE",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "O2FC3xeCFKQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44016\nfileID=209716",
-        "Name": "Auriel\u0027s Dream - Core Texture Pack - BSA-44016-2-1624016649.7z",
-        "Size": 2793689727,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kvitekvist",
-          "Description": "This is a light version of Project Clarity optimized for Auriel\u0027s Dream modlist. All credits to  Project Clarity",
-          "FileID": 209716,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44016/44016-1609859295-1573649788.png",
-          "IsNSFW": false,
-          "ModID": 44016,
-          "Name": "Auriel\u0027s Dream - Core Texture Pack",
-          "Version": "7.0.5"
         }
       }
     },
