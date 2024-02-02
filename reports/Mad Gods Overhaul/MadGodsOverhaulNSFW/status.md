@@ -1072,7 +1072,7 @@
 *  [The Forgotten City-1179-1-8.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1179/?tab=files&file_id=32847)
 *  [The Handy Icon Collection Collective-90508-1-5-0-1701578826.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90508/?tab=files&file_id=448358)
 *  [The Kids Are Alright Renewal-48297-UltimateRenewal-1621790048.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48297/?tab=files&file_id=205168)
-*  [TheNewGentleman-104215-2-1-0-1706531682.7z](https://www.nexusmods.com/skyrimspecialedition/mods/104215/?tab=files&file_id=465952)
+*  [TheNewGentleman-104215-2-1-1-1706869003.7z](https://www.nexusmods.com/skyrimspecialedition/mods/104215/?tab=files&file_id=466951)
 *  [Thieves Guild Armors Retexture SE - Half Res-98561-1-0-1692363044.rar](https://www.nexusmods.com/skyrimspecialedition/mods/98561/?tab=files&file_id=418221)
 *  [Thunderbolt HD Lightning-46024-2-0-1697434374.zip](https://www.nexusmods.com/skyrimspecialedition/mods/46024/?tab=files&file_id=434441)
 *  [Tiny Patch Hub-62050-2-1-1706474645.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62050/?tab=files&file_id=465789)
