@@ -1,10 +1,10 @@
-## Validation Report - Mad Gods Overhaul NSFW (Mad Gods Overhaul/MadGodsOverhaulNSFW)
+## Validation Report - Mad Gods Overhaul (Mad_Gods_Overhaul/MadGodsOverhaul)
 
 
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1181)
+### Valid (1173)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
 *  [(4) Community Overlays 3 - Main - CBBE and Male-35339-1-0-1588129970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136903)
@@ -14,8 +14,6 @@
 *  [01 - CBBE Patch-73144-1-0-2-1662838184.7z](https://www.nexusmods.com/skyrimspecialedition/mods/73144/?tab=files&file_id=315084)
 *  [01 - zzSkyrim Attire - CBBE - SE-92105-1-1-2-1696794410.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92105/?tab=files&file_id=432368)
 *  [01_Farodadestin's follower assets CBBE-71228-1-3-1706626244.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71228/?tab=files&file_id=466269)
-*  [02 - Missing Texture Fix-92105-1-2-1699988103.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92105/?tab=files&file_id=442622)
-*  [1 Pubic hairstyles all in one CBBE-19990-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19990/?tab=files&file_id=66223)
 *  [1. Majestic Mountains Main File-87547-1-31-1698504553.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87547/?tab=files&file_id=437735)
 *  [16_Vera Irileth Replacer-67920-1-0-1652350414.rar](https://www.nexusmods.com/skyrimspecialedition/mods/67920/?tab=files&file_id=283118)
 *  [1DustAdeptArmorSE-53257-new-1628092406.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53257/?tab=files&file_id=218752)
@@ -63,9 +61,7 @@
 *  [Aetherius - A Race Overhaul-26686-2-11-8-1690733721.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26686/?tab=files&file_id=412343)
 *  [AI Overhaul for SE Only 1.8.5-21654-1-8-5-1702260796.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21654/?tab=files&file_id=450659)
 *  [Akaviri Katana - Blades Sword Replacer-70653-1-1656826225.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70653/?tab=files&file_id=295803)
-*  [Alternate Start - Live Another Life Patch-40088-1-0-1599190104.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40088/?tab=files&file_id=159018)
 *  [Alternate Start - Live Another Life-272-4-1-4-1608766947.7z](https://www.nexusmods.com/skyrimspecialedition/mods/272/?tab=files&file_id=175926)
-*  [Amorous Adventures Revoiced-103308--81-1700174116.7z](https://www.nexusmods.com/skyrimspecialedition/mods/103308/?tab=files&file_id=443147)
 *  [Ancient Falmer Armors and Weapons Retexture-Half-95292-1-0-1688757188.rar](https://www.nexusmods.com/skyrimspecialedition/mods/95292/?tab=files&file_id=404843)
 *  [Ancient Nord Armors and Weapons Retexture-Half res-91136-1-0-1683836045.rar](https://www.nexusmods.com/skyrimspecialedition/mods/91136/?tab=files&file_id=387112)
 *  [Ancient Winterhold Wall for JK and COTN-71022-1-1657363815.rar](https://www.nexusmods.com/skyrimspecialedition/mods/71022/?tab=files&file_id=297416)
@@ -250,7 +246,6 @@
 *  Data_Skyrim - Patch.bsa
 *  Data_Skyrim - Textures0.bsa
 *  Data_Skyrim - Textures5.bsa
-*  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
 *  Data_SkyrimVR.esm
 *  Data_Strings_Dawnguard_ENGLISH.DLSTRINGS
@@ -451,7 +446,6 @@
 *  [Expressive Facegen Morphs SE-35785-1-0-1595174141.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35785/?tab=files&file_id=151138)
 *  [Expressive Facial Animation - Female Edition-19181-1-7-1575746557.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19181/?tab=files&file_id=115524)
 *  [Expressive Facial Animation - Male Edition-19532-1-21-1575813430.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19532/?tab=files&file_id=115593)
-*  [Extra Options 2k CBBE-65274-2-0-1688942779.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65274/?tab=files&file_id=405689)
 *  [Fabled Forests - Floating trees fix-101277-1-0-1695578674.zip](https://www.nexusmods.com/skyrimspecialedition/mods/101277/?tab=files&file_id=428751)
 *  [Fabled Forests-94462-2-1-1692847531.zip](https://www.nexusmods.com/skyrimspecialedition/mods/94462/?tab=files&file_id=419959)
 *  [Fallen Souls Original-50707-1-00-1622587802.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50707/?tab=files&file_id=206837)
@@ -769,7 +763,6 @@
 *  [Nemesis Armor Set - HIMBO Refit-61838-1-0-1642038104.rar](https://www.nexusmods.com/skyrimspecialedition/mods/61838/?tab=files&file_id=256272)
 *  [Nemesis Armor Set-50385-v1-5-2-1685806719.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50385/?tab=files&file_id=394633)
 *  [Nemesis Unlimited Behavior Engine-60033-v0-84-beta-1639426722.rar](https://www.nexusmods.com/skyrimspecialedition/mods/60033/?tab=files&file_id=248867)
-*  [Nether's Elana - Intimacy-97120-1-0-1690678808.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97120/?tab=files&file_id=412097)
 *  [Nether's Elana-96707-1-0-2-1697514983.7z](https://www.nexusmods.com/skyrimspecialedition/mods/96707/?tab=files&file_id=434700)
 *  [Nether's Elana-96707-1-0-3-1705881181.7z](https://www.nexusmods.com/skyrimspecialedition/mods/96707/?tab=files&file_id=463638)
 *  [Nether's Eola FOMOD Installer-57250-1-0-2-1637602282.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57250/?tab=files&file_id=243506)
@@ -805,7 +798,6 @@
 *  [Optimized Meshes - chickens and chicks (se-ae)-95363-1-0-1689241656.zip](https://www.nexusmods.com/skyrimspecialedition/mods/95363/?tab=files&file_id=406600)
 *  [Option A-NPC Underwear Distribution Engine (NUDE)-94018-2-0-2-1697391971.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94018/?tab=files&file_id=434287)
 *  [Optional patch for VR - No Washing Animation-38886-1-66-1612390710.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38886/?tab=files&file_id=183844)
-*  [OPubes NG-99935-2-1-0-1701486467.zip](https://www.nexusmods.com/skyrimspecialedition/mods/99935/?tab=files&file_id=447992)
 *  [Orcish Armors and Weapons Retexture SE - Half Res-84607-1-1-1686690490.rar](https://www.nexusmods.com/skyrimspecialedition/mods/84607/?tab=files&file_id=397581)
 *  [Ores Veins and Ingots - ENB Complex Material 2K-63148-4-0-1672206372.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63148/?tab=files&file_id=344128)
 *  [Origins Of Forest - 3D Forest Grass - tweaked highlights-45719-1-4-8-1666599452.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45719/?tab=files&file_id=326244)
@@ -860,12 +852,10 @@
 *  [Picta Series - Improved Sky Meshes-58263-1-0-2-1636718744.zip](https://www.nexusmods.com/skyrimspecialedition/mods/58263/?tab=files&file_id=240782)
 *  [Pilgrim - A Religion Overhaul-54099-1-2-1-1702325096.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54099/?tab=files&file_id=450979)
 *  [PLANCK 0.6.3-66025-0-6-3-1704331315.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66025/?tab=files&file_id=457613)
-*  [Pornstar Fashion SE 3BA-64591-1-0-1647389596.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64591/?tab=files&file_id=270417)
 *  [powerofthree's Tweaks VR-59510-1-8-1-2-1702711524.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59510/?tab=files&file_id=452296)
 *  [powerofthree's Tweaks-51073-1-8-1-1695858240.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=429459)
 *  [Pre-generated Grass Cache for QW's Grass Patch-91848-1-0-1684691018.7z](https://www.nexusmods.com/skyrimspecialedition/mods/91848/?tab=files&file_id=390588)
 *  [Pseudo Physical Weapon Collision and Parry VR-100781-1-0-2-1706163658.zip](https://www.nexusmods.com/skyrimspecialedition/mods/100781/?tab=files&file_id=464619)
-*  [PubesForever for Males-100289-1-0-1694285993.rar](https://www.nexusmods.com/skyrimspecialedition/mods/100289/?tab=files&file_id=424541)
 *  [QND SPID 4th Unknown Pack-94649-1-21-1690081029.zip](https://www.nexusmods.com/skyrimspecialedition/mods/94649/?tab=files&file_id=409718)
 *  [QND SPID ChakraSSE Pack-95646-1-01-1689176224.zip](https://www.nexusmods.com/skyrimspecialedition/mods/95646/?tab=files&file_id=406443)
 *  [QND SPID Mage Pack-95050-1-1-1689017101.zip](https://www.nexusmods.com/skyrimspecialedition/mods/95050/?tab=files&file_id=405977)
@@ -1092,6 +1082,9 @@
 *  [True Storms - Main File 1.0.2-2472-1-0-2-1569804173.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2472/?tab=files&file_id=108837)
 *  [Turning animation won't affect upper body-54803-1-1630320332.rar](https://www.nexusmods.com/skyrimspecialedition/mods/54803/?tab=files&file_id=224879)
 *  [UIExtensions v1-2-0-17561-1-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17561/?tab=files&file_id=55628)
+*  [Underwear.dll 3BA Conversion-99563-1-0-3BA-1693368140.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99563/?tab=files&file_id=421938)
+*  [Underwear.dll HIMBO Conversion-99563-1-0-HIMBO-1693368178.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99563/?tab=files&file_id=421939)
+*  [Underwear.dll-99021-1-0-6-1695948865.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99021/?tab=files&file_id=429722)
 *  [Unique Armors and Weapons Retexture SE - Half Res-105771-1-0-1-1701992497.rar](https://www.nexusmods.com/skyrimspecialedition/mods/105771/?tab=files&file_id=449678)
 *  [Unique Armors and Weapons Retexture SE-105771-1-0-1-1701992096.rar](https://www.nexusmods.com/skyrimspecialedition/mods/105771/?tab=files&file_id=449677)
 *  [Unique Flowers and Plants - No Landscape Edits-83623-1-0-1674849338.rar](https://www.nexusmods.com/skyrimspecialedition/mods/83623/?tab=files&file_id=353623)
@@ -1185,4 +1178,3 @@
 *  [XPMSSE - Nemesis - Script Fix - SE-60363-4-8-4-1645765745.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60363/?tab=files&file_id=266615)
 *  [Yada Yada Whatever-2340-1-1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/2340/?tab=files&file_id=5402)
 *  [Zaki Dirt and Blood Overlays for Racemenu-106332-1-0-1701891773.7z](https://www.nexusmods.com/skyrimspecialedition/mods/106332/?tab=files&file_id=449363)
-*  [ZSA 3BA Complete-105728-2-1701225719.rar](https://www.nexusmods.com/skyrimspecialedition/mods/105728/?tab=files&file_id=446995)

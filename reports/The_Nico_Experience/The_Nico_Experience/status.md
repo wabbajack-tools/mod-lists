@@ -1,4 +1,4 @@
-## Validation Report - The Nico Experience (The Nico Experience/The_Nico_Experience)
+## Validation Report - The Nico Experience (The_Nico_Experience/The_Nico_Experience)
 
 
 ### Invalid (0)
