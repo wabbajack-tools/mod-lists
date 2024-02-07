@@ -1,11 +1,10 @@
 ## Validation Report - Arkay's Commandment (wj-featured/arkayscommandment)
 
 
-### Invalid (1)
-*  [xLODGen.106.7z](https://authored-files.wabbajack.org/xLODGen.106.7z_28f23c94-3c7c-4742-8a6d-f2aa61ca6756)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1871)
+### Valid (1872)
 *  [(3) Alchemy Station Variants - Persistent Swap-92768-1-4-1695065738.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=427071)
 *  [(ENGLISH) Akaviri Portals-101515-1-0-1695934392.rar](https://www.nexusmods.com/skyrimspecialedition/mods/101515/?tab=files&file_id=429677)
 *  [(Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97-17230-5-9-1-1664974289.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321816)
@@ -1869,6 +1868,7 @@
 *  [Worldspace Transition Tweaks - Skyrim To Solstheim-48889-0-2f-1694020143.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48889/?tab=files&file_id=423805)
 *  [Wounds Overlays For RaceMenu-38547-1-0-1595408884.rar](https://www.nexusmods.com/skyrimspecialedition/mods/38547/?tab=files&file_id=151599)
 *  [WTT - No Plume-48889-0-2c-1672416348.7z](https://www.nexusmods.com/skyrimspecialedition/mods/48889/?tab=files&file_id=344940)
+*  [xLODGen.106.7z](https://authored-files.wabbajack.org/xLODGen.106.7z_28f23c94-3c7c-4742-8a6d-f2aa61ca6756)
 *  [xrayy SSE surface clouds thinner white-58379-2022-11-1667411190.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58379/?tab=files&file_id=328435)
 *  [YAR - Yuril's Additional Resources-89416-1-0-3-1684126273.7z](https://www.nexusmods.com/skyrimspecialedition/mods/89416/?tab=files&file_id=388258)
 *  [YASTM (FOMOD)-56144-1-10-3-1667315092.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56144/?tab=files&file_id=328209)
