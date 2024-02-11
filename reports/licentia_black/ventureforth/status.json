@@ -1,8 +1,8 @@
 {
   "MachineURL": "licentia_black/ventureforth",
   "Name": "Venture Forth",
-  "Version": "0.2",
-  "ModListHash": "MRxTigCHebg=",
+  "Version": "1.0",
+  "ModListHash": "haxiTiLRLdQ=",
   "Archives": [
     {
       "Status": "Valid",
@@ -21,15 +21,29 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wgFhRT0oX50=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=4789\nfileID=36894",
-        "Name": "Larger Penis With Flopping Physics-4789-2-0-2-1703835523.zip",
-        "Size": 1964322,
+        "Hash": "Vm1NOriKFA4=",
+        "Meta": "[General]\ndirectURL=https://github.com/LaughingLeader/BG3ModManager/releases/download/1.0.10.0/BG3ModManager_Latest.zip",
+        "Name": "BG3ModManager_Latest.zip",
+        "Size": 5405175,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/LaughingLeader/BG3ModManager/releases/download/1.0.10.0/BG3ModManager_Latest.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sAK0fPN9SdY=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=4789\nfileID=43742",
+        "Name": "Larger Penis With Flopping Physics-4789-2-1-3-1707394185.zip",
+        "Size": 11278386,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "VinTheMan",
           "Description": "This mod enlarges the size of a male body-type\u0027s penis.\n\nCompatible with Patch #5 and newer.\n\nAlSO INCLUDES THE PENIS PHYSICS !\n\nI\u0027m not the best so the topology and UVs might be a little weird.",
-          "FileID": 36894,
+          "FileID": 43742,
           "GameName": "BaldursGate3",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/4789/4789-1702823068-1648935637.png",
           "IsNSFW": true,
@@ -63,20 +77,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Vm1NOriKFA4=",
-        "Meta": "[General]\ndirectURL=https://github.com/LaughingLeader/BG3ModManager/releases/download/1.0.10.0/BG3ModManager_Latest.zip",
-        "Name": "BG3ModManager_Latest.zip",
-        "Size": 5405175,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/LaughingLeader/BG3ModManager/releases/download/1.0.10.0/BG3ModManager_Latest.zip"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "/3JuIKwAPFs=",
         "Meta": "[General]\ngameName=baldursgate3\nmodID=1037\nfileID=32655",
         "Name": "Easier Text (combined)-1037-4-1701745909.zip",
@@ -98,15 +98,36 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "nn7OJBU5q0E=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=5040\nfileID=34068",
-        "Name": "SBBF(L) Vanilla Outfits Patch Main-5040-0-2-1702337871.zip",
-        "Size": 38632045,
+        "Hash": "YfvmDwfCd0A=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=6045\nfileID=41378",
+        "Name": "BG3 Sex Framework LOOSE files-6045-v0-2-1706019248.zip",
+        "Size": 7644119,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LuneMods",
+          "Description": "Custom sex animations \u0026amp; Framework for BG3",
+          "FileID": 41378,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/6045/6045-1705731039-124739019.png",
+          "IsNSFW": true,
+          "ModID": 6045,
+          "Name": "BG3 Sex Framework",
+          "Version": "v0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8YlUoNAK530=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=5040\nfileID=42786",
+        "Name": "SBBF(L) Vanilla Outfits Patch Main-5040-1-1-1706848826.zip",
+        "Size": 196123725,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Fred_Karrera",
           "Description": "A patch for the BG3 vanilla outfits to use it with my Stylized Beautiful Body for Female mod.",
-          "FileID": 34068,
+          "FileID": 42786,
           "GameName": "BaldursGate3",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5040/5040-1702270555-1710165532.png",
           "IsNSFW": true,
@@ -119,105 +140,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "pVDQZrdzIJg=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=366\nfileID=36567",
-        "Name": "ImprovedUI-366-3-16-1-1703680334.zip",
-        "Size": 264261,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "AlanaSP ShinyHobo Djmr and Zee",
-          "Description": "Changes existing UI to enhance the current modding scene by removing intrusive in-game warning and enhancing character creation options. Also provides optional files that replace UI elements based on player feedback",
-          "FileID": 36567,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/366/366-1696670339-2002892487.jpeg",
-          "IsNSFW": false,
-          "ModID": 366,
-          "Name": "ImprovedUI ReleaseReady",
-          "Version": "3.15.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cLXbSUR8EbI=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=4867\nfileID=34952",
-        "Name": "SBBF(L) TAWOBA (Bikini Armors) Main-4867-1-14-1702848062.zip",
-        "Size": 4717227,
+        "Hash": "xh/0Or02Tz8=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=4864\nfileID=42785",
+        "Name": "Stylized Beautiful Body for Female (L)-4864-1-3-1706847331.zip",
+        "Size": 1548417,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Fred_Karrera",
-          "Description": "Skyrim TAWOBA Armors to BG3, you don\u0027t ask for it, but I know that you\u0027re waiting for it. (WIP)- NOW with STATS \u0026amp; SPELLS!!!!",
-          "FileID": 34952,
+          "Description": "A better body mesh for Elf, Half-elf, human, drow \u0026amp; Tiefling female (body type 1) with my personal touch.\n\nLoose file, please refer to the Mod description for installation and outfits compatibility.",
+          "FileID": 42785,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/4867/4867-1701755104-1660236351.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/4864/4864-1702509211-1317461731.png",
           "IsNSFW": true,
-          "ModID": 4867,
-          "Name": "SBBF Bikini Armors (TAWOBA port)",
-          "Version": "1.13"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kXwPK/Wu834=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=1275\nfileID=11139",
-        "Name": "Beautiful Nipples Textures v1.1-1275-1-1-1693225099.zip",
-        "Size": 55849159,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "FLame",
-          "Description": "\u8FD9\u662F\u4E00\u4E2A\u4FEE\u6539 \u4EBA\u7C7B/\u7CBE\u7075/\u534A\u7CBE\u7075/\u5353\u5C14 \u7684\u8EAB\u4F53\u4E73\u5934\u6750\u8D28\u7684\u6A21\u7EC4\u3002\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\nThis mod that modifies the nipple textures of the female human/elf/half-elf/drow.",
-          "FileID": 11139,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1275/1275-1693229191-100534254.jpeg",
-          "IsNSFW": true,
-          "ModID": 1275,
-          "Name": "Beautiful Nipples Textures (body skin)",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Qt1hjT3coCA=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=213\nfileID=32756",
-        "Name": "Tav\u0027s Hairpack-213-V-1-8-1701797585.zip",
-        "Size": 282944113,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Toarie",
-          "Description": "Collection of hairstyles. Mostly for elf/half-elf/drow/human/tiefling bodytypes 1\u0026amp;2",
-          "FileID": 32756,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/213/213-1650381429-290216436.png",
-          "IsNSFW": false,
-          "ModID": 213,
-          "Name": "Tav\u0027s Hair Salon",
-          "Version": "V.1.8"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "SiPs+M4xSXE=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=2617\nfileID=37139",
-        "Name": "Scantily Camp Outfit - Manager-2617-2-0-10-0-1703948119.zip",
-        "Size": 55806571,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Crosscrusade",
-          "Description": "Add a collection of scantily clad look full equipment as single camp body outfit slot so it works just as visual while you can still use other equipment with juicy effects without hurting your eye. Adding new outfit regularly.",
-          "FileID": 37139,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2617/2617-1703376489-1923255703.png",
-          "IsNSFW": true,
-          "ModID": 2617,
-          "Name": "Scantily Camp Outfit",
-          "Version": "2.0.8.1"
+          "ModID": 4864,
+          "Name": "SBBF Stylized Beautiful Body for Female",
+          "Version": "1.12"
         }
       }
     },
@@ -245,63 +182,105 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "iSv1ybiOsjE=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=944\nfileID=8910",
-        "Name": "NativeModLoader-944-1-1692533783.zip",
-        "Size": 325905,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kassent",
-          "Description": "This is NativeModLoader, used to load any native dll plugins within bin\u0026#92;NativeMods\u0026#92; folder.",
-          "FileID": 8910,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/944/944-1692046259-904663716.png",
-          "IsNSFW": false,
-          "ModID": 944,
-          "Name": "Native Mod Loader",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "zG5BhVRd+9g=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=668\nfileID=32355",
-        "Name": "BG3AE-668-1-2-1701646527.zip",
-        "Size": 158480,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DK",
-          "Description": "Enables steam \u0026amp; GOG achievement for Baldur\u0027s Gate 3 with mods.\n\n\u542F\u7528\u5E26\u6709\u6A21\u7EC4\u7684\u300A\u535A\u5FB7\u4E4B\u95E83\u300B\u7684Steam\u548CGOG\u6210\u5C31\u3002",
-          "FileID": 32355,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/668/668-1691494519-1774948008.png",
-          "IsNSFW": false,
-          "ModID": 668,
-          "Name": "Achievement Enabler",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+/O4LzljaUM=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=4864\nfileID=34956",
-        "Name": "Stylized Beautiful Body for Female (L) main-4864-1-12-1702849443.zip",
-        "Size": 625561,
+        "Hash": "JEaReaFaiyA=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=4867\nfileID=40632",
+        "Name": "SBBF(L) TAWOBA (Bikini Armors) Main-4867-1-2-1705626352.zip",
+        "Size": 4918966,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Fred_Karrera",
-          "Description": "A better body mesh for Elf, Half-elf, human, drow \u0026amp; Tiefling female (body type 1) with my personal touch.\n\nLoose file, please refer to the Mod description for installation and outfits compatibility.",
-          "FileID": 34956,
+          "Description": "Skyrim TAWOBA Armors to BG3, you don\u0027t ask for it, but I know that you\u0027re waiting for it. (WIP)- NOW with STATS \u0026amp; SPELLS!!!!",
+          "FileID": 40632,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/4864/4864-1702509211-1317461731.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/4867/4867-1701755104-1660236351.png",
           "IsNSFW": true,
-          "ModID": 4864,
-          "Name": "SBBF Stylized Beautiful Body for Female",
-          "Version": "1.12"
+          "ModID": 4867,
+          "Name": "SBBF Bikini Armors (TAWOBA port)",
+          "Version": "1.13"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SiPs+M4xSXE=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=2617\nfileID=37139",
+        "Name": "Scantily Camp Outfit - Manager-2617-2-0-10-0-1703948119.zip",
+        "Size": 55806571,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Crosscrusade",
+          "Description": "Add a collection of scantily clad look full equipment as single camp body outfit slot so it works just as visual while you can still use other equipment with juicy effects without hurting your eye. Adding new outfit regularly.",
+          "FileID": 37139,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2617/2617-1703376489-1923255703.png",
+          "IsNSFW": true,
+          "ModID": 2617,
+          "Name": "Scantily Camp Outfit",
+          "Version": "2.0.8.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Qt1hjT3coCA=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=213\nfileID=32756",
+        "Name": "Tav\u0027s Hairpack-213-V-1-8-1701797585.zip",
+        "Size": 282944113,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Toarie",
+          "Description": "Collection of hairstyles. Mostly for elf/half-elf/drow/human/tiefling bodytypes 1\u0026amp;2",
+          "FileID": 32756,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/213/213-1650381429-290216436.png",
+          "IsNSFW": false,
+          "ModID": 213,
+          "Name": "Tav\u0027s Hair Salon",
+          "Version": "V.1.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VRPV1hFidjE=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=5886\nfileID=39695",
+        "Name": "Hairless Body - Human and HalfElf - T2 and T4 both-5886-1-0-1705163729.zip",
+        "Size": 1595726,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Lyniara",
+          "Description": "Removes body hair for T2 and T4 (male and male strong) Humans and Half-Elves.",
+          "FileID": 39695,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5886/5886-1705163012-288947378.png",
+          "IsNSFW": false,
+          "ModID": 5886,
+          "Name": "Hairless Body - for T2 and T4 Human and Half-Elf",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kXwPK/Wu834=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=1275\nfileID=11139",
+        "Name": "Beautiful Nipples Textures v1.1-1275-1-1-1693225099.zip",
+        "Size": 55849159,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FLame",
+          "Description": "\u8FD9\u662F\u4E00\u4E2A\u4FEE\u6539 \u4EBA\u7C7B/\u7CBE\u7075/\u534A\u7CBE\u7075/\u5353\u5C14 \u7684\u8EAB\u4F53\u4E73\u5934\u6750\u8D28\u7684\u6A21\u7EC4\u3002\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\nThis mod that modifies the nipple textures of the female human/elf/half-elf/drow.",
+          "FileID": 11139,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1275/1275-1693229191-100534254.jpeg",
+          "IsNSFW": true,
+          "ModID": 1275,
+          "Name": "Beautiful Nipples Textures (body skin)",
+          "Version": "1.0"
         }
       }
     },
@@ -329,21 +308,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "aGZ4heTaHSQ=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=945\nfileID=33240",
-        "Name": "Native Camera Tweaks-945-2-4-0-1701992470.zip",
-        "Size": 308728,
+        "Hash": "Oe8oLPTEHyI=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=366\nfileID=39005",
+        "Name": "ImprovedUI-366-3-17-1704833332.zip",
+        "Size": 264455,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ersh",
-          "Description": "Native open source plugin providing several camera tweaks. Unlocked camera pitch, zoom, controller stick deadzone. No separate executables. Configurable.",
-          "FileID": 33240,
+          "Author": "AlanaSP ShinyHobo Djmr and Zee",
+          "Description": "Changes existing UI to enhance the current modding scene by removing intrusive in-game warning and enhancing character creation options. Also provides optional files that replace UI elements based on player feedback",
+          "FileID": 39005,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/945/945-1692048859-248582030.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/366/366-1696670339-2002892487.jpeg",
           "IsNSFW": false,
-          "ModID": 945,
-          "Name": "Native Camera Tweaks",
-          "Version": "2.4.0"
+          "ModID": 366,
+          "Name": "ImprovedUI ReleaseReady",
+          "Version": "3.15.1"
         }
       }
     },
@@ -365,6 +344,104 @@
           "ModID": 141,
           "Name": "Baldur\u0027s Gate 3 Mod Fixer",
           "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TQlPqy5Kkic=",
+        "Meta": "[General]\ndirectURL=https://github.com/Norbyte/bg3se/releases/download/updater-20231028/BG3SE-Updater-20231028.zip",
+        "Name": "BG3SE-Updater-20231028.zip",
+        "Size": 538038,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Norbyte/bg3se/releases/download/updater-20231028/BG3SE-Updater-20231028.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zG5BhVRd+9g=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=668\nfileID=32355",
+        "Name": "BG3AE-668-1-2-1701646527.zip",
+        "Size": 158480,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DK",
+          "Description": "Enables steam \u0026amp; GOG achievement for Baldur\u0027s Gate 3 with mods.\n\n\u542F\u7528\u5E26\u6709\u6A21\u7EC4\u7684\u300A\u535A\u5FB7\u4E4B\u95E83\u300B\u7684Steam\u548CGOG\u6210\u5C31\u3002",
+          "FileID": 32355,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/668/668-1691494519-1774948008.png",
+          "IsNSFW": false,
+          "ModID": 668,
+          "Name": "Achievement Enabler",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iSv1ybiOsjE=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=944\nfileID=8910",
+        "Name": "NativeModLoader-944-1-1692533783.zip",
+        "Size": 325905,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "kassent",
+          "Description": "This is NativeModLoader, used to load any native dll plugins within bin\u0026#92;NativeMods\u0026#92; folder.",
+          "FileID": 8910,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/944/944-1692046259-904663716.png",
+          "IsNSFW": false,
+          "ModID": 944,
+          "Name": "Native Mod Loader",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "aGZ4heTaHSQ=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=945\nfileID=33240",
+        "Name": "Native Camera Tweaks-945-2-4-0-1701992470.zip",
+        "Size": 308728,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ersh",
+          "Description": "Native open source plugin providing several camera tweaks. Unlocked camera pitch, zoom, controller stick deadzone. No separate executables. Configurable.",
+          "FileID": 33240,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/945/945-1692048859-248582030.png",
+          "IsNSFW": false,
+          "ModID": 945,
+          "Name": "Native Camera Tweaks",
+          "Version": "2.4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5724QmiPY5E=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=6045\nfileID=41379",
+        "Name": "BG3 Sex Framework PAK-6045-v0-2-1706019381.zip",
+        "Size": 13278,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LuneMods",
+          "Description": "Custom sex animations \u0026amp; Framework for BG3",
+          "FileID": 41379,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/6045/6045-1705731039-124739019.png",
+          "IsNSFW": true,
+          "ModID": 6045,
+          "Name": "BG3 Sex Framework",
+          "Version": "v0.1"
         }
       }
     },
