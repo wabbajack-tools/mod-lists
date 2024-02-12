@@ -10,8 +10,7 @@
 
 -   [Skyrim Special Edition](#skyrim-special-edition)
     -   [Aldrnari](#aldrnari)
-    -   [Animonculory Dev Tools](#animonculory-dev-tools)
-    -   [Animonculory Visual Overhaul](#animonculory-visual-overhaul)
+    -   [Anvil](#anvil)
     -   [Arkay's Commandment](#arkays-commandment)
     -   [Ascensio](#ascensio)
     -   [Do Not Go Gentle](#do-not-go-gentle)
@@ -63,8 +62,6 @@
     -   [Capital Punishment](#capital-punishment)
 -   [Tale Of Two Wastelands](#tale-of-two-wastelands)
     -   [Begin Again](#begin-again)
--   [Oblivion](#oblivion)
-    -   [Heartland](#heartland)
 -   [Cyberpunk 2077](#cyberpunk-2077)
     -   [Cyberpunk THING](#cyberpunk-thing)
 
@@ -92,26 +89,19 @@ It has a plethora of quests, hundreds of handplaced new armors and weapons, new 
 
 ---
 
-### [Animonculory Dev Tools](https://github.com/The-Animonculory/ADT/blob/main/README.md)
+### [Anvil](https://github.com/Althro/Anvil)
 
-Designed as the mod author's tool kit, Animonculory Dev Tools (ADT) comes with all the tools you need to create and test your mods. Featuring mandatory DLL level fixes & libraries to build your own with, **native GOG and Steam compatability** and a few tweaks, it's the ideal playground to both work and build on.
+Anvil is designed as a forge for creating on. It can be used to build your own list, create mods, and also be played as is. It is fully documented with all changes and tweaks to mods being detailed in the `notes` part of Mod Organizer 2, and aims to be light in its footprint.
 
-**_Tools/Mods to get familiar with:_**
+There are `Three` profiles in Anvil, each serving a distinct purpose.
 
--   [NifSkope](http://niftools.sourceforge.net/wiki/NifSkope)
--   [Octagon](https://www.nexusmods.com/skyrimspecialedition/mods/28773)
--   [Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720)
--   [Synthesis](https://github.com/Mutagen-Modding/Synthesis)
+`Anvil - Forge` is the most basic of profiles. It is designed as a mod development base with the Creation Kit and Plugin Development libraries being availiable. It can also serve as a "non-graphical" base for building a list off. It serves as the consolidated replacement of [Althro's Dev Tools](https://github.com/Althro/ADT).
 
----
-
-### [Animonculory Visual Overhaul](https://github.com/The-Animonculory/AVO-NG)
-
-Animonculory Visual Overhaul (AVO) is designed as a list to bring the vanilla game up to modern standards without changing the core vanilla feel and gameplay. Featuring graphical enhancements, mandatory bug fixes and tweaks and method patching, it is the perfect base to build upon.
+`Anvil - Core` & `Anvil - Core CS` are the visual profiles, being for [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) and [ENB](http://enbdev.com/news.html) respectively. Anvil's visual overhaul has an emphasis on "less is more" and improving what is already there. It serves as the replacement for [Althro's/Animonculory Visual Overhaul](https://github.com/Althro/Anvil).
 
 **_Mods to get familiar with:_**
 
--   [Full Modlist](https://loadorderlibrary.com/lists/animonculory-visual-overhaul)
+-   [Full Modlist](https://loadorderlibrary.com/lists/anvil)
 
 ---
 
@@ -842,12 +832,6 @@ Look elsewhere if you want:
 Please see [here](https://loadorderlibrary.com/lists/begin-again) for a complete up to date list of all the mods Begin Again has.
 
 ---
-
-## Oblivion
-
-### [Heartland](https://github.com/wabbajack-tools/mod-lists/blob/master/heartland/readme.md)
-
-Heartland is a beautiful, comprehensive graphical overhaul for Oblivion. Enjoy it as a new way to experience Cyrodiil or a solid base for your modding adventures. Heartland is forked from the Bevilex's graphics guide for Oblivion and is one of the oldest continually supported lists on Wabbajack.
 
 ## Cyberpunk 2077
 
