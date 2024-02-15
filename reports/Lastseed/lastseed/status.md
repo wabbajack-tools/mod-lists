@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (283)
+### Valid (412)
 *  [2020 Retexture Project - Alternate Farmhouse Door-49933-1-0-1680182335.7z](https://www.nexusmods.com/oblivion/mods/49933/?tab=files&file_id=1000034224)
 *  [2020 Retexture Project - Caves-49933-1-1-1677358379.7z](https://www.nexusmods.com/oblivion/mods/49933/?tab=files&file_id=1000033817)
 *  [2020 Retexture Project - Farmhouses (AWLS)-49933-1-0-1680131482.7z](https://www.nexusmods.com/oblivion/mods/49933/?tab=files&file_id=1000034217)
@@ -21,6 +21,7 @@
 *  [Argonians patch for Seamless mod-51511-1-0-1635777320.rar](https://www.nexusmods.com/oblivion/mods/51511/?tab=files&file_id=1000029446)
 *  [Ascension - Better Clutter Icons-52127-1-2-1697743506.zip](https://www.nexusmods.com/oblivion/mods/52127/?tab=files&file_id=1000036582)
 *  [Ascension-50237-1-3-5-1698524487.7z](https://www.nexusmods.com/oblivion/mods/50237/?tab=files&file_id=1000036684)
+*  atimgpud.dll
 *  [Attribute Progression Redesign v1.2-49385-1-2-1562378719.zip](https://www.nexusmods.com/oblivion/mods/49385/?tab=files&file_id=1000022544)
 *  [AutoHaggle-52532-1-1-1673010319.rar](https://www.nexusmods.com/oblivion/mods/52532/?tab=files&file_id=1000033385)
 *  [AWLS Animated Window Lighting System-19628-5-6-2-1675880630.7z](https://www.nexusmods.com/oblivion/mods/19628/?tab=files&file_id=1000033694)
@@ -33,6 +34,8 @@
 *  [Balanced NPC Level Cap - DLC Patches-50094-2-00-1592501328.zip](https://www.nexusmods.com/oblivion/mods/50094/?tab=files&file_id=1000025061)
 *  [Balanced NPC Level Cap-50094-2-00-1592501185.zip](https://www.nexusmods.com/oblivion/mods/50094/?tab=files&file_id=1000025060)
 *  [Balanced Unleveled Rewards - All-in-One-51050-1-0-6-1699820124.7z](https://www.nexusmods.com/oblivion/mods/51050/?tab=files&file_id=1000036876)
+*  [Bethesda Plugin Manager-111236-0-1-4-1707933610.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111236/?tab=files&file_id=470815)
+*  Bethesda.TXT
 *  [Better Autowalk-49105-2-0-1567094636.zip](https://www.nexusmods.com/oblivion/mods/49105/?tab=files&file_id=1000022866)
 *  [Better Baurus for OCOv2 (Younger Version)-51971-Latest-1676523757.7z](https://www.nexusmods.com/oblivion/mods/51971/?tab=files&file_id=1000033754)
 *  [Better daedra worshippers for Last seed-52403-3-1707260921.zip](https://www.nexusmods.com/oblivion/mods/52403/?tab=files&file_id=1000037649)
@@ -43,6 +46,7 @@
 *  [Better Static Water-53022-1-0-1685677081.7z](https://www.nexusmods.com/oblivion/mods/53022/?tab=files&file_id=1000034836)
 *  [Better Unique Merchant Items-53000-1-0-1685044650.7z](https://www.nexusmods.com/oblivion/mods/53000/?tab=files&file_id=1000034768)
 *  [Better Uriel Septim for OCOv2 (Vanilla Hair Version) 1.6-51971-1-6-1653424818.7z](https://www.nexusmods.com/oblivion/mods/51971/?tab=files&file_id=1000031307)
+*  binkw32.dll
 *  [Blockhead-43752-11-1-1640043918.7z](https://www.nexusmods.com/oblivion/mods/43752/?tab=files&file_id=1000029844)
 *  [Bomret's Texture Pack for Shivering Isles with meshes from USIP-46162-1-0.7z](https://www.nexusmods.com/oblivion/mods/46162/?tab=files&file_id=1000010426)
 *  [Book Jackets for Misc DLC-49260-1-4-1679283776.7z](https://www.nexusmods.com/oblivion/mods/49260/?tab=files&file_id=1000034080)
@@ -78,6 +82,122 @@
 *  Data_DLCShiveringIsles - Textures.bsa
 *  Data_Oblivion - Meshes.bsa
 *  Data_Oblivion - Textures - Compressed.bsa
+*  directx_Apr2005_d3dx9_25_x64.cab
+*  directx_Apr2005_d3dx9_25_x86.cab
+*  directx_Apr2006_d3dx9_30_x64.cab
+*  directx_Apr2006_d3dx9_30_x86.cab
+*  directx_Apr2006_MDX1_x86_Archive.cab
+*  directx_Apr2006_MDX1_x86.cab
+*  directx_Apr2006_XACT_x64.cab
+*  directx_Apr2006_XACT_x86.cab
+*  directx_Apr2006_xinput_x64.cab
+*  directx_Apr2006_xinput_x86.cab
+*  directx_APR2007_d3dx10_33_x64.cab
+*  directx_APR2007_d3dx10_33_x86.cab
+*  directx_APR2007_d3dx9_33_x64.cab
+*  directx_APR2007_d3dx9_33_x86.cab
+*  directx_APR2007_XACT_x64.cab
+*  directx_APR2007_XACT_x86.cab
+*  directx_APR2007_xinput_x64.cab
+*  directx_APR2007_xinput_x86.cab
+*  directx_Aug2005_d3dx9_27_x64.cab
+*  directx_Aug2005_d3dx9_27_x86.cab
+*  directx_AUG2006_XACT_x64.cab
+*  directx_AUG2006_XACT_x86.cab
+*  directx_AUG2006_xinput_x64.cab
+*  directx_AUG2006_xinput_x86.cab
+*  directx_AUG2007_d3dx10_35_x64.cab
+*  directx_AUG2007_d3dx10_35_x86.cab
+*  directx_AUG2007_d3dx9_35_x64.cab
+*  directx_AUG2007_d3dx9_35_x86.cab
+*  directx_AUG2007_XACT_x64.cab
+*  directx_AUG2007_XACT_x86.cab
+*  directx_Aug2008_d3dx10_39_x64.cab
+*  directx_Aug2008_d3dx10_39_x86.cab
+*  directx_Aug2008_d3dx9_39_x64.cab
+*  directx_Aug2008_d3dx9_39_x86.cab
+*  directx_Aug2008_XACT_x64.cab
+*  directx_Aug2008_XACT_x86.cab
+*  directx_Aug2008_XAudio_x64.cab
+*  directx_Aug2008_XAudio_x86.cab
+*  directx_BDANT.cab
+*  directx_BDAXP.cab
+*  directx_Dec2005_d3dx9_28_x64.cab
+*  directx_Dec2005_d3dx9_28_x86.cab
+*  directx_DEC2006_d3dx10_00_x64.cab
+*  directx_DEC2006_d3dx10_00_x86.cab
+*  directx_DEC2006_d3dx9_32_x64.cab
+*  directx_DEC2006_d3dx9_32_x86.cab
+*  directx_DEC2006_XACT_x64.cab
+*  directx_DEC2006_XACT_x86.cab
+*  directx_DSETUP.dll
+*  directx_dsetup32.dll
+*  directx_dxdllreg_x86.cab
+*  directx_dxnt.cab
+*  directx_DXSETUP.exe
+*  directx_dxupdate.cab
+*  directx_Feb2005_d3dx9_24_x64.cab
+*  directx_Feb2005_d3dx9_24_x86.cab
+*  directx_Feb2006_d3dx9_29_x64.cab
+*  directx_Feb2006_d3dx9_29_x86.cab
+*  directx_Feb2006_XACT_x64.cab
+*  directx_Feb2006_XACT_x86.cab
+*  directx_FEB2007_XACT_x64.cab
+*  directx_FEB2007_XACT_x86.cab
+*  directx_Jun2005_d3dx9_26_x64.cab
+*  directx_Jun2005_d3dx9_26_x86.cab
+*  directx_JUN2006_XACT_x64.cab
+*  directx_JUN2006_XACT_x86.cab
+*  directx_JUN2007_d3dx10_34_x64.cab
+*  directx_JUN2007_d3dx10_34_x86.cab
+*  directx_JUN2007_d3dx9_34_x64.cab
+*  directx_JUN2007_d3dx9_34_x86.cab
+*  directx_JUN2007_XACT_x64.cab
+*  directx_JUN2007_XACT_x86.cab
+*  directx_JUN2008_d3dx10_38_x64.cab
+*  directx_JUN2008_d3dx10_38_x86.cab
+*  directx_JUN2008_d3dx9_38_x64.cab
+*  directx_JUN2008_d3dx9_38_x86.cab
+*  directx_JUN2008_X3DAudio_x64.cab
+*  directx_JUN2008_X3DAudio_x86.cab
+*  directx_JUN2008_XACT_x64.cab
+*  directx_JUN2008_XACT_x86.cab
+*  directx_JUN2008_XAudio_x64.cab
+*  directx_JUN2008_XAudio_x86.cab
+*  directx_Mar2008_d3dx10_37_x64.cab
+*  directx_Mar2008_d3dx10_37_x86.cab
+*  directx_Mar2008_d3dx9_37_x64.cab
+*  directx_Mar2008_d3dx9_37_x86.cab
+*  directx_Mar2008_X3DAudio_x64.cab
+*  directx_Mar2008_X3DAudio_x86.cab
+*  directx_Mar2008_XACT_x64.cab
+*  directx_Mar2008_XACT_x86.cab
+*  directx_Mar2008_XAudio_x64.cab
+*  directx_Mar2008_XAudio_x86.cab
+*  directx_Nov2007_d3dx10_36_x64.cab
+*  directx_Nov2007_d3dx10_36_x86.cab
+*  directx_Nov2007_d3dx9_36_x64.cab
+*  directx_Nov2007_d3dx9_36_x86.cab
+*  directx_NOV2007_X3DAudio_x64.cab
+*  directx_NOV2007_X3DAudio_x86.cab
+*  directx_NOV2007_XACT_x64.cab
+*  directx_NOV2007_XACT_x86.cab
+*  directx_Nov2008_d3dx10_40_x64.cab
+*  directx_Nov2008_d3dx10_40_x86.cab
+*  directx_Nov2008_d3dx9_40_x64.cab
+*  directx_Nov2008_d3dx9_40_x86.cab
+*  directx_Nov2008_X3DAudio_x64.cab
+*  directx_Nov2008_X3DAudio_x86.cab
+*  directx_Nov2008_XACT_x64.cab
+*  directx_Nov2008_XACT_x86.cab
+*  directx_Nov2008_XAudio_x64.cab
+*  directx_Nov2008_XAudio_x86.cab
+*  directx_Oct2005_xinput_x64.cab
+*  directx_Oct2005_xinput_x86.cab
+*  directx_OCT2006_d3dx9_31_x64.cab
+*  directx_OCT2006_d3dx9_31_x86.cab
+*  directx_OCT2006_XACT_x64.cab
+*  directx_OCT2006_XACT_x86.cab
 *  [DisableVampRace0_4b-15697.7z](https://www.nexusmods.com/oblivion/mods/15697/?tab=files&file_id=21874)
 *  [Diverse Chapels Vanilla-48732-1-0.7z](https://www.nexusmods.com/oblivion/mods/48732/?tab=files&file_id=1000020110)
 *  [DLCSpellTomes-No Attack-47452-1-0.7z](https://www.nexusmods.com/oblivion/mods/47452/?tab=files&file_id=1000015679)
@@ -145,6 +265,8 @@
 *  [ImprovedAmuletsAndRings-17147.7z](https://www.nexusmods.com/oblivion/mods/17147/?tab=files&file_id=24866)
 *  [ImprovedSignsComplete-9498.7z](https://www.nexusmods.com/oblivion/mods/9498/?tab=files&file_id=44081)
 *  [Initial Glow Redux-46961--3.7z](https://www.nexusmods.com/oblivion/mods/46961/?tab=files&file_id=1000013826)
+*  installscript.vdf
+*  installscript.vdf.bak
 *  [ITF2Update-11891.7z](https://www.nexusmods.com/oblivion/mods/11891/?tab=files&file_id=30898)
 *  [ITFBark2012-11891-1.7z](https://www.nexusmods.com/oblivion/mods/11891/?tab=files&file_id=88426)
 *  [J3 Atlassed VWD 2 - Cyrodiil - BAIN installer-51732-1-15-1677615141.7z](https://www.nexusmods.com/oblivion/mods/51732/?tab=files&file_id=1000033848)
@@ -154,6 +276,7 @@
 *  [KoldornsLODnoiseReplacer-9952.rar](https://www.nexusmods.com/oblivion/mods/9952/?tab=files&file_id=8826)
 *  [KOTN Book Jackets HD remake-49307-1-0-1555223544.7z](https://www.nexusmods.com/oblivion/mods/49307/?tab=files&file_id=1000021786)
 *  [Last Seed LOD Gen.7z](https://authored-files.wabbajack.org/Last Seed LOD Gen.7z_b9c789d0-5671-483c-92d8-0b09f9b0572b)
+*  LauncherMusic.wav
 *  [Less Maddening Shivering Isles Fetch Quests-52621-1-0-1672599718.7z](https://www.nexusmods.com/oblivion/mods/52621/?tab=files&file_id=1000033338)
 *  [Let There Be Flowers - Custom Density-51105-1-0-0-1623176638.zip](https://www.nexusmods.com/oblivion/mods/51105/?tab=files&file_id=1000028054)
 *  [Let there be Flowers-49616-1-0-1567346470.7z](https://www.nexusmods.com/oblivion/mods/49616/?tab=files&file_id=1000022895)
@@ -181,6 +304,7 @@
 *  [Modern Load Screens-53026-1-0-1685738274.7z](https://www.nexusmods.com/oblivion/mods/53026/?tab=files&file_id=1000034860)
 *  [Mysticism and Soul Gem Tweaks - Ascension-52152-1-2-1-1690912222.7z](https://www.nexusmods.com/oblivion/mods/52152/?tab=files&file_id=1000035603)
 *  [NAO - Natural and Atmospheric Oblivion-50923-1-0-1616065545.zip](https://www.nexusmods.com/oblivion/mods/50923/?tab=files&file_id=1000027251)
+*  [Nascent - Archery Overhaul-52151-1-0-1662281273.7z](https://www.nexusmods.com/oblivion/mods/52151/?tab=files&file_id=1000032165)
 *  [Nascent - Quick Start-52330-1-2-1694962280.7z](https://www.nexusmods.com/oblivion/mods/52330/?tab=files&file_id=1000036173)
 *  [Natural_Walk_1_3-31240.7z](https://www.nexusmods.com/oblivion/mods/31240/?tab=files&file_id=63834)
 *  [Nerussa Uses Her Actual Bed-53483-1-0-1697512609.7z](https://www.nexusmods.com/oblivion/mods/53483/?tab=files&file_id=1000036525)
@@ -204,6 +328,9 @@
 *  [Oblivion Character Overhaul v203-44676-2-03.zip](https://www.nexusmods.com/oblivion/mods/44676/?tab=files&file_id=1000007063)
 *  [Oblivion Decompressed Records Plugin-53559-1-0-1699330103.7z](https://www.nexusmods.com/oblivion/mods/53559/?tab=files&file_id=1000036801)
 *  [Oblivion Display Tweaks-50348-1-3-1597794116.zip](https://www.nexusmods.com/oblivion/mods/50348/?tab=files&file_id=1000025586)
+*  Oblivion_default.ini
+*  Oblivion.exe
+*  OblivionLauncher.exe
 *  [OBLModLimitFix-50066-1-0-1587582618.zip](https://www.nexusmods.com/oblivion/mods/50066/?tab=files&file_id=1000024557)
 *  [OCO Eye Glow Revised-53033-1-1-1-1686075468.7z](https://www.nexusmods.com/oblivion/mods/53033/?tab=files&file_id=1000034928)
 *  [OCO Face Updater-53005-1-02-1701624417.rar](https://www.nexusmods.com/oblivion/mods/53005/?tab=files&file_id=1000037089)
@@ -221,6 +348,7 @@
 *  [Quest NPCs Run - Reduced-49893-1-7-Reduced-1670756041.7z](https://www.nexusmods.com/oblivion/mods/49893/?tab=files&file_id=1000033099)
 *  [Quick Item Transfer-52718-1-0-1675773205.zip](https://www.nexusmods.com/oblivion/mods/52718/?tab=files&file_id=1000033677)
 *  [Ragdolls - Main File-51844-1-1-1648036849.7z](https://www.nexusmods.com/oblivion/mods/51844/?tab=files&file_id=1000030664)
+*  Readme.txt
 *  [Realistic Player Dialogue Overhaul 2020-46243-2-2-1588543843.rar](https://www.nexusmods.com/oblivion/mods/46243/?tab=files&file_id=1000024642)
 *  [Reb's Average Containers AIO 1k-53591-v9-1704887709.7z](https://www.nexusmods.com/oblivion/mods/53591/?tab=files&file_id=1000037384)
 *  [Rebalanced and Unleveled Quest Gold Rewards-49611-1-4-1582159287.7z](https://www.nexusmods.com/oblivion/mods/49611/?tab=files&file_id=1000023981)
@@ -267,6 +395,7 @@
 *  [Unofficial Shivering Isles Patch-10739-1-6-1-1704317720.7z](https://www.nexusmods.com/oblivion/mods/10739/?tab=files&file_id=1000037332)
 *  [UOP Talos Bridge Collision Fix-53283-1-0-1692141141.zip](https://www.nexusmods.com/oblivion/mods/53283/?tab=files&file_id=1000035773)
 *  [Use WASD in Menus (OBSE)-49491-1-5-1578234108.zip](https://www.nexusmods.com/oblivion/mods/49491/?tab=files&file_id=1000023637)
+*  [Vamped Up Vampires-53802-1-0-1707685561.7z](https://www.nexusmods.com/oblivion/mods/53802/?tab=files&file_id=1000037707)
 *  [Vampire Cure Quest Without Being a Vampire-52792-1-0-1678542401.7z](https://www.nexusmods.com/oblivion/mods/52792/?tab=files&file_id=1000033951)
 *  [Vampire Hunters Sight Toggle-1809.rar](https://www.nexusmods.com/oblivion/mods/1809/?tab=files&file_id=1310)
 *  [Vanilla and Elsweyr 2048 v2-41243-2-00.7z](https://www.nexusmods.com/oblivion/mods/41243/?tab=files&file_id=88572)
