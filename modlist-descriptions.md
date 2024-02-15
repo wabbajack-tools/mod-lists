@@ -416,7 +416,6 @@ Vagabond is a Skyrim modlist for Anniversary Edition with a focus on visuals, mo
 - [Sacrosanct](https://www.nexusmods.com/skyrimspecialedition/mods/3928) and [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) overhaul vampires and werewolves.
 - [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506) introduces a religion mechanic.
 - [MCO - Modern Combat Overhaul](https://modding-guild.com/mod/attack-mcodxp/) is the core mod for melee combat. It overhauls melee attacks to use attack commitment and combo chaining, similar to other modern action games like Elden Ring and Assassin's Creed Valhalla.
-- [Sets of Skills - Custom Skill Framework](https://www.nexusmods.com/skyrimspecialedition/mods/97855) adds a class based progression. You gain one point every five levels to spend on class skills.
 - [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) is the core content mod of the list. It adds a museum in Solitude where you can display most of the items from Vanilla game as well as many mod-added items. The museum also involves its own questline.
 
 ---
