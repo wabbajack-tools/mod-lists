@@ -1,10 +1,11 @@
 ## Validation Report - Vagabond (WakingDreams/vagabond)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Edge_UI_0.55.zip](https://www.patreon.com/file?h=98401985&i=17683237)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4712)
+### Valid (4711)
 *  [_Fuse00_ArmorAemond_V1.1.rar](https://www.patreon.com/file?h=78472619&i=13158944)
 *  [_Fuse00_ArmorHighlander_CBBE.rar](https://www.patreon.com/file?h=79874952&i=13365775)
 *  [_Fuse00_ArmorHighlander_VanillaMale.rar](https://www.patreon.com/file?h=79874952&i=13365782)
@@ -1291,7 +1292,6 @@
 *  [Edgar Bodyslide preset for HIMBO-72630-1-0-1659548910.zip](https://www.nexusmods.com/skyrimspecialedition/mods/72630/?tab=files&file_id=304342)
 *  [Edge UI 0.45.zip](https://www.patreon.com/file?h=86137607&i=14980974)
 *  [Edge UI 0.50 - PreRelease Full.zip](https://www.patreon.com/file?h=89750615&i=15903352)
-*  [Edge_UI_0.55.zip](https://www.patreon.com/file?h=98401985&i=17683237)
 *  [EEKS Renthal  Flora Collection Update v1 - v1.2-13909-1-2.rar](https://www.nexusmods.com/skyrimspecialedition/mods/13909/?tab=files&file_id=42792)
 *  [EEKs Renthal Flora Collection v1-13909-1.rar](https://www.nexusmods.com/skyrimspecialedition/mods/13909/?tab=files&file_id=41785)
 *  [EEOS - Enemy Revolution of Skyrim-37228-2-01-1670610559.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37228/?tab=files&file_id=339080)
