@@ -571,7 +571,7 @@
 *  [Berserker - A God of War Font (FOMOD INSTALLER)-71646-2-0c-1698785893.rar](https://www.nexusmods.com/skyrimspecialedition/mods/71646/?tab=files&file_id=438656)
 *  [Berserker-87230-1-0-1679065803.rar](https://www.nexusmods.com/skyrimspecialedition/mods/87230/?tab=files&file_id=369390)
 *  [beta_program_1-20210923T201648Z-001.zip](https://developer.download.nvidia.com/assets/gameworks/downloads/regular/dlss/beta_program_1-20210923T201648Z-001.zip)
-*  [Better Animals-34459-3-2-0-1705110206.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34459/?tab=files&file_id=460840)
+*  [Better Animals-34459-3-2-2-1708122582.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34459/?tab=files&file_id=471583)
 *  [Better Beast Scars 1K-72458-1-0-1669736706.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72458/?tab=files&file_id=335888)
 *  [Better Blended Mushrooms-67725-1-1-1654410950.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67725/?tab=files&file_id=288885)
 *  [Better Bread 1K Optimised SSE Version-70546-1-1-2-1659867315.zip](https://www.nexusmods.com/skyrimspecialedition/mods/70546/?tab=files&file_id=305331)
