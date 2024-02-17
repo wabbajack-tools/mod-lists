@@ -1,10 +1,11 @@
 ## Validation Report - Ascensio (WakingDreams/ascensio)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [DDS Workshop - Eyes Mod 3 Replacer.7z](https://authored-files.wabbajack.org/DDS Workshop - Eyes Mod 3 Replacer.7z_2171b6c5-3d43-4b2c-a089-7db068276894)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1170)
+### Valid (1169)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(1) Community Overlays 1 - Main - UNP  2K-22487-1-0-1-1547247749.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77985)
 *  [(4) Alchemy Station Variants - Persistent Swap ENB-92768-1-2-1685974888.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=395295)
@@ -311,7 +312,6 @@
 *  [Dawnguard Armors and Weapons Retexture SE-92161-1-0-1685045655.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92161/?tab=files&file_id=391867)
 *  [DDS Workshop - Books and Paper Retexture.7z](https://authored-files.wabbajack.org/DDS Workshop - Books and Paper Retexture.7z_4e17f485-5671-4b2b-af62-9aa2e0c772b6)
 *  [DDS Workshop - Dizona Body Textures for Vanilla.7z](https://authored-files.wabbajack.org/DDS Workshop - Dizona Body Textures for Vanilla.7z_ec0fbb99-9707-4dc0-be6e-46301dcbfdd5)
-*  [DDS Workshop - Eyes Mod 3 Replacer.7z](https://authored-files.wabbajack.org/DDS Workshop - Eyes Mod 3 Replacer.7z_2171b6c5-3d43-4b2c-a089-7db068276894)
 *  [DDS Workshop - Facial Hair Retexture.7z](https://authored-files.wabbajack.org/DDS Workshop - Facial Hair Retexture.7z_6949140e-581c-408c-b62d-866ce4a67b32)
 *  [DDS Workshop - Scars Retexture.7z](https://authored-files.wabbajack.org/DDS Workshop - Scars Retexture.7z_a1cd40e9-aadc-4a1b-97ae-ed1c2d139a47)
 *  [Deadly Spell Impacts v1_70-12939-1-70.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12939/?tab=files&file_id=36481)
