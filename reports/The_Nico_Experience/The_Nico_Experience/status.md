@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1584)
+### Valid (1591)
 *  [- Skyrim 202X 9.0 to 9.7 Update-2347-9-7-1697703573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=435157)
 *  [-Skyrim 202X 9.0 - Architecture-2347-9-0-1664994366.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=321878)
 *  [-Skyrim 202X 9.0.1 - Other-2347-9-0-1-1665147913.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=322212)
@@ -584,7 +584,7 @@
 *  [ENB Light SMIM Textures-22574-1-1576968419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=116967)
 *  [ENB Lights for Effect Shaders SE-56362-2-0-1641571441.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56362/?tab=files&file_id=254729)
 *  [ENB Refract Icicle Patch-2458-0-488-1680909826.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2458/?tab=files&file_id=376187)
-*  [enbseries_skyrimse_v0499.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0499.zip_70d4937c-d5e9-4815-b609-1ac2e386653f)
+*  [enbseries_skyrimse_v0499.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0499.zip_30acc51e-ebb5-4509-bec8-ca421955010e)
 *  [Enchanted Arsenal For 1.5.97-37318-2-23b-1592566788.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37318/?tab=files&file_id=146419)
 *  [Enchanting Stations Candles 2.0-30140-2-0-1577115863.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30140/?tab=files&file_id=117149)
 *  [Enderal Font For Skyrim SE-2004-1-2.zip](https://www.nexusmods.com/skyrimspecialedition/mods/2004/?tab=files&file_id=4356)
@@ -615,6 +615,7 @@
 *  [FaceGenData 1.4 Meshes and Textures.-10423-1-4.rar](https://www.nexusmods.com/skyrimspecialedition/mods/10423/?tab=files&file_id=44739)
 *  [Fair Skin Complexion for CBBE v11.1-798-11-1-1663442107.7z](https://www.nexusmods.com/skyrimspecialedition/mods/798/?tab=files&file_id=317012)
 *  [Falkreath clean up - Nico-105031-1-0-1700336146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=443706)
+*  [Falling Leaf Particles in Riften - Main-21796-1-0-1544597523.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21796/?tab=files&file_id=74882)
 *  [Falmer Animation Faster-83572-1-0-1674800149.7z](https://www.nexusmods.com/skyrimspecialedition/mods/83572/?tab=files&file_id=353449)
 *  [Falmer Overhaul-88984-1-0-1681179290.7z](https://www.nexusmods.com/skyrimspecialedition/mods/88984/?tab=files&file_id=377204)
 *  [Falmers - with 2k textures-86338-1-01-1678336611.zip](https://www.nexusmods.com/skyrimspecialedition/mods/86338/?tab=files&file_id=366724)
@@ -828,6 +829,7 @@
 *  [JK's White Phial-47713-1-1-1-1617829339.rar](https://www.nexusmods.com/skyrimspecialedition/mods/47713/?tab=files&file_id=196745)
 *  [JKs Guild HQ Interiors Patch Collection-61416-1-14-3-1696964045.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61416/?tab=files&file_id=432955)
 *  [JKs Interiors Patch Collection-35910-5-18-1-1688390047.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35910/?tab=files&file_id=403386)
+*  [JKs_Skyhaven_Temple - Moss_Removal - Nico-105031-1-0-1707951438.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=470917)
 *  [Jormungandr Dragon-8463-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/8463/?tab=files&file_id=21005)
 *  [JS Attunement Sphere and Lexicons SE - 2k Textures-69073-1-01-1654312905.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69073/?tab=files&file_id=288670)
 *  [JS Barenziah SE - 2K Textures-22990-1-3-1626118207.rar](https://www.nexusmods.com/skyrimspecialedition/mods/22990/?tab=files&file_id=214237)
@@ -899,6 +901,7 @@
 *  lex_User_correct.tlx
 *  lex_User_userdic.tlx
 *  [LH Dirt Cliff Textures-105031-1-0-1700336272.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=443708)
+*  [Lightened Skyrim-111475-1-06b-1707857490.zip](https://www.nexusmods.com/skyrimspecialedition/mods/111475/?tab=files&file_id=470524)
 *  [Lighter Color Daedric Dagger 2k-71085-1-0-1672668904.rar](https://www.nexusmods.com/skyrimspecialedition/mods/71085/?tab=files&file_id=345894)
 *  [Lilly - Female Courier Replacer (BSA files)-4595-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4595/?tab=files&file_id=15622)
 *  [Locational Damage(SKSE Plugin) 1.0.0 for SkyrimSE-46932-1-0-0-1615646284.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46932/?tab=files&file_id=191250)
@@ -1105,6 +1108,7 @@
 *  [PELTAPALOOZA  Special Edition - FULL-5442-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5442/?tab=files&file_id=11948)
 *  [Perth House Patch - Nico-105031-1-0-1705038406.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=460511)
 *  [Peryite Shrine 2k-62666-1-0-1643324110.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62666/?tab=files&file_id=259999)
+*  [Pet the cats - SE-50124-2-3-1642954352.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50124/?tab=files&file_id=258924)
 *  [Phats Purple Glass Arrows ENB Complex parallax Fix-40229-1-0-1676351979.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40229/?tab=files&file_id=359624)
 *  [Photo Mode-91701-1-2-0-1692767905.7z](https://www.nexusmods.com/skyrimspecialedition/mods/91701/?tab=files&file_id=419700)
 *  [Pick Up Radius-69750-1-8-1657358424.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69750/?tab=files&file_id=297403)
@@ -1343,6 +1347,7 @@
 *  [Snazzy Strongboxes - Strongbox Replacer - JS Patch-97436-1-1-1691467915.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97436/?tab=files&file_id=415157)
 *  [Snazzy Upper Wardrobes - Base Object Swapper-92752-1-0-1685799479.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92752/?tab=files&file_id=394613)
 *  [Sneak Tools (Minimal)-1863-1-2-1599021932.rar](https://www.nexusmods.com/skyrimspecialedition/mods/1863/?tab=files&file_id=158792)
+*  [Snowy Carts for Snowy Regions-111575-1-1-1707867295.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111575/?tab=files&file_id=470599)
 *  [Soft Shadows-74632-2-0-1690909038.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74632/?tab=files&file_id=413118)
 *  [Solitude Clock Tower-96479-1-2-1696296522.zip](https://www.nexusmods.com/skyrimspecialedition/mods/96479/?tab=files&file_id=430789)
 *  [Solitude Docks Current-13922-1-45.7z](https://www.nexusmods.com/skyrimspecialedition/mods/13922/?tab=files&file_id=46225)
@@ -1454,6 +1459,8 @@
 *  [TK dodge firstperson 8 ways dodge-56956-0-1687622547.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56956/?tab=files&file_id=400582)
 *  [TK Dodge For RE-15309-3-18-1663096096.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15309/?tab=files&file_id=315866)
 *  [TK Dodge RE-v0.55-rc3-56956-v0-55-rc3-1688194322.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56956/?tab=files&file_id=402680)
+*  [TMD The Rift Leaves - Seasons Patch-111461-1-01-1708029379.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111461/?tab=files&file_id=471212)
+*  [TMD The Rift Leaves 2K-111461-1-01-1707859846.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111461/?tab=files&file_id=470540)
 *  Tools_Archive_Archive.exe
 *  Tools_Audio_xwmaencode.exe
 *  Tools_Elric_xg.dll
@@ -1466,7 +1473,7 @@
 *  Tools_LipGen_LipGenerator_LipGenerator.exe
 *  Tools_RoboVoicer.exe
 *  [Torch Cremation SE (esl and bash)-59203-2-0-1639605027.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59203/?tab=files&file_id=249445)
-*  [Tree Optimazation - Nico-105031-1-6-1707931247.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=470792)
+*  [Tree Optimazation - Nico-105031-1-8-1708051111.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=471301)
 *  [Trees Addon Dyndlod Error Fix-22053-1-0-1659202018.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22053/?tab=files&file_id=303374)
 *  [Trees Addon SE-22053-1-2-8-1614116932.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22053/?tab=files&file_id=187650)
 *  [Tribal Sorceress Mashup-30364-1-1-1573839002.zip](https://www.nexusmods.com/skyrimspecialedition/mods/30364/?tab=files&file_id=113473)
