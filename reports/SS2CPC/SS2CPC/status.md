@@ -43,7 +43,7 @@
 *  [Elevator Buttons Fix (Contraptions) - Latest Version 2-20664-1-0-0.zip](https://www.nexusmods.com/fallout4/mods/20664/?tab=files&file_id=84596)
 *  [Fallout 4 Script Extender (F4SE)-42147-0-6-23-1665656782.7z](https://www.nexusmods.com/fallout4/mods/42147/?tab=files&file_id=253313)
 *  Fallout4.ccc
-*  [Fallout4.FormIDs.2023.12.01.7z](https://github.com/evildarkarchon/CLASSIC-Fallout4/releases/download/7.25.1-unofficial/Fallout4.FormIDs.2023.12.01.7z)
+*  [Fallout4.FormIDs.2024.02.18.7z](https://github.com/evildarkarchon/CLASSIC-Fallout4/releases/download/7.25.1-unofficial/Fallout4.FormIDs.2024.02.18.7z)
 *  [Far Harbor Expansion 2.0-61661-2-0-1674151265.zip](https://www.nexusmods.com/fallout4/mods/61661/?tab=files&file_id=264178)
 *  [Favelabulous-50432-1-2-1698585440.7z](https://www.nexusmods.com/fallout4/mods/50432/?tab=files&file_id=292872)
 *  [From Sanctuary to Concord-62210-1-1-1704824676.zip](https://www.nexusmods.com/fallout4/mods/62210/?tab=files&file_id=299090)
