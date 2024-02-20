@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (930)
+### Valid (934)
 *  [- FORTITUDE - Giant Enemies (35)-74465-3-0-1696442700.zip](https://www.nexusmods.com/fallout4/mods/74465/?tab=files&file_id=291011)
 *  [(BLUE) Talisman308URadio Replacer-37171-1-0-1548876607.rar](https://www.nexusmods.com/fallout4/mods/37171/?tab=files&file_id=151192)
 *  [01. InstantHero - Better Drumlin Diner V3.0.1-60367-3-0-1-1663996122.7z](https://www.nexusmods.com/fallout4/mods/60367/?tab=files&file_id=251520)
@@ -72,6 +72,7 @@
 *  [Alex's Male First Person Camera Height Fix-27582-2-0.zip](https://www.nexusmods.com/fallout4/mods/27582/?tab=files&file_id=139005)
 *  [All In-62184-2-0-0-1702702022.7z](https://www.nexusmods.com/fallout4/mods/62184/?tab=files&file_id=296836)
 *  [All-in-One Pack-5013-0-6.zip](https://www.nexusmods.com/fallout4/mods/5013/?tab=files&file_id=28827)
+*  [Alternative Glow-63849-0-1-1699379979.rar](https://www.nexusmods.com/fallout4/mods/63849/?tab=files&file_id=293625)
 *  [Alternative There It Is - Satellite Maps-71937-1-0-1686062546.7z](https://www.nexusmods.com/fallout4/mods/71937/?tab=files&file_id=279555)
 *  [Ambient Tunnels of Boston-66713-1-2-1670774447.zip](https://www.nexusmods.com/fallout4/mods/66713/?tab=files&file_id=260018)
 *  [Ambient Wasteland-25343-0-1.7z](https://www.nexusmods.com/fallout4/mods/25343/?tab=files&file_id=103413)
@@ -345,6 +346,7 @@
 *  [Fallout 4 Scopes Framework-30644-v1-4-1.7z](https://www.nexusmods.com/fallout4/mods/30644/?tab=files&file_id=134584)
 *  [Fallout 4 Script Extender (F4SE)-42147-0-6-23-1665656782.7z](https://www.nexusmods.com/fallout4/mods/42147/?tab=files&file_id=253313)
 *  [Fallout 76 map styles for Fallout 4-66413-1-0-1669375110.rar](https://www.nexusmods.com/fallout4/mods/66413/?tab=files&file_id=258091)
+*  [Fallout Anomaly LOD-74075-1-0-1708451938.7z](https://www.nexusmods.com/fallout4/mods/74075/?tab=files&file_id=304263)
 *  [Fallout Priority 3.4.0 (Preview)-52515-3-4-0-1675421049.zip](https://www.nexusmods.com/fallout4/mods/52515/?tab=files&file_id=266097)
 *  [Fallout4 - Textures1-65720-1-01-1673891808.zip](https://www.nexusmods.com/fallout4/mods/65720/?tab=files&file_id=263795)
 *  [Fallout4 - Textures2-65720-1-01-1673898555.zip](https://www.nexusmods.com/fallout4/mods/65720/?tab=files&file_id=263809)
@@ -359,6 +361,7 @@
 *  Fallout4.ccc
 *  Fallout4.exe
 *  Fallout4Launcher.exe
+*  [Fallsouls - Unpaused Game Menus-29119-v1-0-4.7z](https://www.nexusmods.com/fallout4/mods/29119/?tab=files&file_id=120130)
 *  [FallUI - Confirm Boxes-48958-2-2-3-1667318727.rar](https://www.nexusmods.com/fallout4/mods/48958/?tab=files&file_id=255391)
 *  [FallUI - HUD-51813-1-7-1-1668637124.rar](https://www.nexusmods.com/fallout4/mods/51813/?tab=files&file_id=257220)
 *  [FallUI - Icon Library-60579-1-0-1652975967.rar](https://www.nexusmods.com/fallout4/mods/60579/?tab=files&file_id=238079)
@@ -934,4 +937,5 @@
 *  [World of Thunder - True Storms Addon-23220-1-3.7z](https://www.nexusmods.com/fallout4/mods/23220/?tab=files&file_id=94915)
 *  [Xanders Aid 3.0-17050-3-0-1590215007.zip](https://www.nexusmods.com/fallout4/mods/17050/?tab=files&file_id=182571)
 *  [xSE PluginPreloader F4 0.2.5.1-33946-0-2-5-1-1637347868.zip](https://www.nexusmods.com/fallout4/mods/33946/?tab=files&file_id=221778)
+*  [You Really Need A Backpack - Carry Limit-59538-1-0-1649501543.zip](https://www.nexusmods.com/fallout4/mods/59538/?tab=files&file_id=234377)
 *  [ZoneRadio Redux-64258-1-1-1664325481.zip](https://www.nexusmods.com/fallout4/mods/64258/?tab=files&file_id=251873)
