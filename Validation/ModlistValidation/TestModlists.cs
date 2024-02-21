@@ -46,6 +46,7 @@ namespace ModlistValidation
 
             foreach (var entry in repositories)
             {
+                ValidateMachineUrl(entry.Key, entry.Key);
                 try
                 {
                     string responseBody = await Client.GetStringAsync(entry.Value);
@@ -102,6 +103,7 @@ namespace ModlistValidation
             foreach (var modlist in modlists)
             {
                 Assert.False(string.IsNullOrWhiteSpace(modlist.Title), "Modlist does not have a title!");
+                Assert.False(Regex.IsMatch(modlist.Title,"(\\d+\\.{1})((\\d+\\.?)*)"), "Modlist title contains version number!");
                 Assert.False(string.IsNullOrWhiteSpace(modlist.Author), $"Modlist does not have an author! (\"{modlist.Title}\")");
                 Assert.False(string.IsNullOrWhiteSpace(modlist.Description), $"Modlist does not have a description! (\"{modlist.Title}\")");
 
@@ -135,13 +137,13 @@ namespace ModlistValidation
         {
             // no whitespaces
             Assert.False(machineUrl.Contains(' ', StringComparison.OrdinalIgnoreCase),
-                $"MachineUrl must not contain any whitespace, use underscores instead: \"{machineUrl}\" (\"{name}\")");
+                $"MachineUrl/ModlistRepository must not contain any whitespace, use underscores instead: \"{machineUrl}\" (\"{name}\")");
 
             // only 0-9, A-Z, a-z, _ and -
             // see https://regex101.com/r/cVYtyA/2
 
             Assert.True(MachineUrlRegex.IsMatch(machineUrl),
-                "MachineUrl is not valid! Allowed Characters are: 0-9, A-Z, a-z, _ and - use https://regex101.com/r/cVYtyA/2" +
+                "MachineUrl/ModlistRepository is not valid! Allowed Characters are: 0-9, A-Z, a-z, _ and - use https://regex101.com/r/cVYtyA/2" +
                 $"to test: \"{machineUrl}\" (\"{name}\")");
         }
 
