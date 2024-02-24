@@ -1,10 +1,11 @@
 ## Validation Report - Fallout Anomaly (FAnomaly/Fallout_Anomaly)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Classic Computer Fix.7z](https://build.wabbajack.org/authored_files/direct_link/Classic Computer Fix.7z_f5ded298-8c36-4a73-b2ea-295f6bca2b56)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (928)
+### Valid (927)
 *  [- FORTITUDE - Giant Enemies (35)-74465-3-0-1696442700.zip](https://www.nexusmods.com/fallout4/mods/74465/?tab=files&file_id=291011)
 *  [(BLUE) Talisman308URadio Replacer-37171-1-0-1548876607.rar](https://www.nexusmods.com/fallout4/mods/37171/?tab=files&file_id=151192)
 *  [01. InstantHero - Better Drumlin Diner V3.0.1-60367-3-0-1-1663996122.7z](https://www.nexusmods.com/fallout4/mods/60367/?tab=files&file_id=251520)
@@ -153,7 +154,6 @@
 *  [Chemfluence AI Combat Dynamics-73741-1-2-2-1708256090.zip](https://www.nexusmods.com/fallout4/mods/73741/?tab=files&file_id=303989)
 *  [Chemist Fix-59508-1-0-1649438590.7z](https://www.nexusmods.com/fallout4/mods/59508/?tab=files&file_id=234302)
 *  [Children of Ug-Qualtoth Redux - BA2-43527-2-0-1639895377.zip](https://www.nexusmods.com/fallout4/mods/43527/?tab=files&file_id=224234)
-*  [Classic Computer Fix.7z](https://build.wabbajack.org/authored_files/direct_link/Classic Computer Fix.7z_f5ded298-8c36-4a73-b2ea-295f6bca2b56)
 *  [Classic Feral Ghouls-39290-v1-0-1559599409.zip](https://www.nexusmods.com/fallout4/mods/39290/?tab=files&file_id=159097)
 *  [CLASSIC-7.25.1.Unofficial.7z](https://github.com/evildarkarchon/CLASSIC-Fallout4/releases/download/7.25.1-unofficial/CLASSIC-7.25.1.Unofficial.7z)
 *  [Clean My Settlement REDUX-58757-6-1696470910.7z](https://www.nexusmods.com/fallout4/mods/58757/?tab=files&file_id=291038)
