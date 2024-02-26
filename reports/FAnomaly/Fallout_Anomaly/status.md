@@ -1,11 +1,10 @@
 ## Validation Report - Fallout Anomaly (FAnomaly/Fallout_Anomaly)
 
 
-### Invalid (1)
-*  [MiscHairstyle1.6 by Atherisz.7z](https://www.mediafire.com/file/kfac38dni6d53rp/MiscHairstyle1.6_by_Atherisz.7z/file)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (925)
+### Valid (926)
 *  [- FORTITUDE - Giant Enemies (35)-74465-3-0-1696442700.zip](https://www.nexusmods.com/fallout4/mods/74465/?tab=files&file_id=291011)
 *  [(BLUE) Talisman308URadio Replacer-37171-1-0-1548876607.rar](https://www.nexusmods.com/fallout4/mods/37171/?tab=files&file_id=151192)
 *  [01. InstantHero - Better Drumlin Diner V3.0.1-60367-3-0-1-1663996122.7z](https://www.nexusmods.com/fallout4/mods/60367/?tab=files&file_id=251520)
@@ -555,6 +554,7 @@
 *  [Militia NVG (PMC Night Vision Extended) 1.1-68833-1-1-1676487145.zip](https://www.nexusmods.com/fallout4/mods/68833/?tab=files&file_id=267476)
 *  [Milk Bottle add-on-36763-v1-3-1654980469.7z](https://www.nexusmods.com/fallout4/mods/36763/?tab=files&file_id=240331)
 *  [MIRVfix_v1-44870-1-0-1588635572.zip](https://www.nexusmods.com/fallout4/mods/44870/?tab=files&file_id=181124)
+*  [MiscHairstyle1.6 by Atherisz.7z](https://www.mediafire.com/file/kfac38dni6d53rp/MiscHairstyle1.6_by_Atherisz.7z/file)
 *  [MK18 Armory Project Part Dos - Update-65872-1-0-0-1669231134.7z](https://www.nexusmods.com/fallout4/mods/65872/?tab=files&file_id=257931)
 *  [MK18 Armory Project-52424-0-69420-1623712335.zip](https://www.nexusmods.com/fallout4/mods/52424/?tab=files&file_id=210300)
 *  [MK18 CQBR - 2K-42000-1-0-5-1702644981.7z](https://www.nexusmods.com/fallout4/mods/42000/?tab=files&file_id=296786)
