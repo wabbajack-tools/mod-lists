@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (937)
+### Valid (938)
 *  [0001. Weapon QuickSwap 3-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108861)
 *  [0002. FastPipboy-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=89711)
 *  [1.5 Loosefiles-50213-1-5-1664847287.7z](https://www.nexusmods.com/fallout4/mods/50213/?tab=files&file_id=252419)
@@ -108,6 +108,7 @@
 *  [Better Spotlights-38843-1-0-1557532335.zip](https://www.nexusmods.com/fallout4/mods/38843/?tab=files&file_id=157673)
 *  [Better Vault 494 Navmesh-78319-1-0-0-1707019644.7z](https://www.nexusmods.com/fallout4/mods/78319/?tab=files&file_id=302230)
 *  [Better Workshop Street Oil Lamps.zip-22576-v1-62.zip](https://www.nexusmods.com/fallout4/mods/22576/?tab=files&file_id=113767)
+*  [Better Xander's Aid Navmesh-78456-1-0-0-1708885777.7z](https://www.nexusmods.com/fallout4/mods/78456/?tab=files&file_id=304782)
 *  bink2w64.dll
 *  [Binoculars Fire Support Addon-48809-2-2-1-1684774584.rar](https://www.nexusmods.com/fallout4/mods/48809/?tab=files&file_id=278032)
 *  [Biohazard Suit Redux Non Replacer-40686-2-1-1654431861.zip](https://www.nexusmods.com/fallout4/mods/40686/?tab=files&file_id=239671)
