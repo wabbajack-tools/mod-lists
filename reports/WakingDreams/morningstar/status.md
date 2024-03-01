@@ -1,4 +1,4 @@
-## Validation Report - Morning Star (LostOutpost/ascendance)
+## Validation Report - Morning Star (WakingDreams/morningstar)
 
 
 ### Invalid (0)
