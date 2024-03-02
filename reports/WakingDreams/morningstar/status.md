@@ -211,7 +211,7 @@
 *  [Gemling Queen Jewelry SE USSEP Circlet Fix-35576-1-0-1588574614.zip](https://www.nexusmods.com/skyrimspecialedition/mods/35576/?tab=files&file_id=137946)
 *  [Gemling Queen Jewelry SE-4294-4-1SE.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4294/?tab=files&file_id=9441)
 *  [Giant.4k-6179-.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6179/?tab=files&file_id=14254)
-*  [Glass Armors and Weapons Retexture SE - Half res-87580-1-01-1686697069.rar](https://www.nexusmods.com/skyrimspecialedition/mods/87580/?tab=files&file_id=397628)
+*  [Glass Armors and Weapons Retexture SE - Half res-87580-2-1-0-1709325301.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87580/?tab=files&file_id=476024)
 *  [Glowing Mushroom Collision Fixes - FOMOD Installer-69558-1-2-1-1708251307.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69558/?tab=files&file_id=472102)
 *  [Gourmet - A Cooking Overhaul-96876-1-1-6-1700866822.7z](https://www.nexusmods.com/skyrimspecialedition/mods/96876/?tab=files&file_id=445671)
 *  [Gourmet - Cooking Pots and Baking Ovens-96876-1-0-0-1690736408.7z](https://www.nexusmods.com/skyrimspecialedition/mods/96876/?tab=files&file_id=412359)
