@@ -2,7 +2,7 @@
   "MachineURL": "FAnomaly/Fallout_Anomaly",
   "Name": "Fallout Anomaly",
   "Version": "0.4.9.7",
-  "ModListHash": "fQcubr3lQ34=",
+  "ModListHash": "EwYO/cPLtvI=",
   "Archives": [
     {
       "Status": "Valid",
@@ -20740,6 +20740,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "tyLRjoIIfxU=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld - Textures.ba2",
+        "Name": "Data_DLCNukaWorld - Textures.ba2",
+        "Size": 2348553100,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCNukaWorld - Textures.ba2",
+          "GameVersion": "1.10.163.0",
+          "Hash": "tyLRjoIIfxU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "C02YyoI9G1U=",
         "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures5.ba2",
         "Name": "Data_Fallout4 - Textures5.ba2",
@@ -20766,22 +20782,6 @@
           "GameFile": "Data\\DLCCoast - Textures.ba2",
           "GameVersion": "1.10.163.0",
           "Hash": "zYaZD421JpI="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tyLRjoIIfxU=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld - Textures.ba2",
-        "Name": "Data_DLCNukaWorld - Textures.ba2",
-        "Size": 2348553100,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\DLCNukaWorld - Textures.ba2",
-          "GameVersion": "1.10.163.0",
-          "Hash": "tyLRjoIIfxU="
         }
       }
     }
