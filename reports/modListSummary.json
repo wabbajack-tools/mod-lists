@@ -731,7 +731,7 @@
     "name": "Silent Skyrim",
     "machineURL": "ForgottenGlory/silentskyrim",
     "failed": 0,
-    "passed": 471,
+    "passed": 472,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/ForgottenGlory/silentskyrim/status.json",
@@ -1500,14 +1500,14 @@
   {
     "name": "Heartland",
     "machineURL": "Heartland/heartland",
-    "failed": 0,
-    "passed": 217,
+    "failed": 2,
+    "passed": 215,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Heartland/heartland/status.json",
     "report": "reports/Heartland/heartland/status.md",
     "modlist_missing": false,
-    "has_failures": false,
+    "has_failures": true,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Heartland/7837c6bb073c6e27_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Heartland/7837c6bb073c6e27_large.webp"
   },
@@ -1608,5 +1608,19 @@
     "has_failures": false,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/LoreRim/c37645722dba0470_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/LoreRim/c37645722dba0470_large.webp"
+  },
+  {
+    "name": "Beowulf",
+    "machineURL": "Beowulf/beowulf",
+    "failed": 0,
+    "passed": 1729,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/Beowulf/beowulf/status.json",
+    "report": "reports/Beowulf/beowulf/status.md",
+    "modlist_missing": false,
+    "has_failures": false,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/e7d124ed2f2bbf39_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/e7d124ed2f2bbf39_large.webp"
   }
 ]
