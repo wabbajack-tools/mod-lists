@@ -2,7 +2,7 @@
   "MachineURL": "wj-featured/moise",
   "Name": "MOISE",
   "Version": "1.2.8.1",
-  "ModListHash": "hx6SSJIh0zk=",
+  "ModListHash": "8S7nIfLYx4k=",
   "Archives": [
     {
       "Status": "Valid",
@@ -2226,16 +2226,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "1zaFi6AMHJw=",
-        "Meta": "[General]\ndirectURL=https://www.moddb.com/downloads/mirror/52262/124/afab850d87acc16b26af036aab1c880e/",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/morrowind/addons/vivec-god-replacer\nprompt=Please download Psy_VGRCreatureEdition_1_2.7z",
         "Name": "Psy_VGRCreatureEdition_1_2.7z",
         "Size": 3721076,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://www.moddb.com/downloads/mirror/52262/124/afab850d87acc16b26af036aab1c880e/"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Please download Psy_VGRCreatureEdition_1_2.7z",
+          "Url": "https://www.moddb.com/games/morrowind/addons/vivec-god-replacer"
         }
       }
     },
@@ -3255,16 +3255,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "cvgYvhqGNIE=",
-        "Meta": "[General]\ndirectURL=https://www.moddb.com/downloads/mirror/52259/124/e6aaddfb9a415650f7dd26e188120d6b/",
+        "Meta": "[General]\nmanualURL=https://www.moddb.com/games/morrowind/addons/azura-replacer\nprompt=Please download Psy_Azura_Replacer1.7z",
         "Name": "Psy_Azura_Replacer1.7z",
         "Size": 1087632,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://www.moddb.com/downloads/mirror/52259/124/e6aaddfb9a415650f7dd26e188120d6b/"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Please download Psy_Azura_Replacer1.7z",
+          "Url": "https://www.moddb.com/games/morrowind/addons/azura-replacer"
         }
       }
     },
@@ -4211,8 +4211,8 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 2,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/8ef76d84aeb4f036_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/8ef76d84aeb4f036_large.webp"
 }
