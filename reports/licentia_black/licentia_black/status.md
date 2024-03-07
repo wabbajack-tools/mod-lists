@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1623)
+### Valid (1621)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
 *  [(3) SBP  - CBBE Adjustments-22811-1-1CBBE-1583706479.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=127862)
@@ -322,8 +322,6 @@
 *  [Dark Elf Voices For Bandits-63733-1-04-1655488875.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63733/?tab=files&file_id=291842)
 *  [Dark Era SE-36610-1-1590731617.zip](https://www.nexusmods.com/skyrimspecialedition/mods/36610/?tab=files&file_id=142649)
 *  [Darkbrotherhood door retexture-53059-1-0.rar](https://www.nexusmods.com/skyrim/mods/53059/?tab=files&file_id=1000105201)
-*  Data__ResourcePack.bsa
-*  Data__ResourcePack.esl
 *  Data_ccafdsse001-dwesanctuary.bsa
 *  Data_ccafdsse001-dwesanctuary.esm
 *  Data_ccasvsse001-almsivi.bsa
@@ -1160,7 +1158,7 @@
 *  [PONG Classic Scoreboard-82415-SAE1-1-1673333577.7z](https://www.nexusmods.com/skyrimspecialedition/mods/82415/?tab=files&file_id=348258)
 *  [Positive Undressed Reactions ESL-61647-1-0-1641758520.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61647/?tab=files&file_id=255474)
 *  [powerofthree's Tweaks-51073-1-8-1-1695858240.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=429459)
-*  [powerofthree's Tweaks-51073-1-9-1-1709537874.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=476849)
+*  [powerofthree's Tweaks-51073-1-9-2-1709669231.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=477318)
 *  [Praedy and Willow's elder scroll and amulet 2K-51082-2-1-1684754011.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51082/?tab=files&file_id=390836)
 *  [Pride of Skyrim - AIO FOMOD-48904-1-0-1619066017.zip](https://www.nexusmods.com/skyrimspecialedition/mods/48904/?tab=files&file_id=199544)
 *  [Primitive Nord Armor Male Meshes Fix-75891-1-6-1689632953.rar](https://www.nexusmods.com/skyrimspecialedition/mods/75891/?tab=files&file_id=408036)
