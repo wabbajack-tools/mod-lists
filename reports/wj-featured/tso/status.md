@@ -1,11 +1,10 @@
 ## Validation Report - Total Skyrim Overhaul (wj-featured/tso)
 
 
-### Invalid (1)
-*  [[Christine] Dragon Viking.7z](https://www.mediafire.com/file/h2ekbsae68fs7x6/[Christine]+Dragon+Viking.7z/file)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1032)
+### Valid (1033)
 *  [- Skyrim 2020 8.4.2 - 3 of 3 - Other - 4K to 2K-2347-8-4-2-1624479907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=210840)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -28,6 +27,7 @@
 *  [[Christine] Dragon Guard.7z](https://www.mediafire.com/file/xxc1nqrinwoashv/[Christine]+Dragon+Guard.7z/file)
 *  [[Christine] Dragon Slaughter.7z](https://www.mediafire.com/file/zc5p0x3lrhc5kz2/[Christine]+Dragon+Slaughter.7z/file)
 *  [[Christine] Dragon Veil.7z](https://www.mediafire.com/file/4ke7032jzdo9s2c/%255BChristine%255D_Dragon_Veil.7z)
+*  [[Christine] Dragon Viking.7z](https://www.mediafire.com/file/h2ekbsae68fs7x6/[Christine]+Dragon+Viking.7z/file)
 *  [[Christine] Earth Warden CBBE (Physics - CBBE SMP - 3BA) fomod.7z](https://www.mediafire.com/file/ksom6obgomn6bmx/%255BChristine%255D_Earth_Warden_CBBE_%2528Physics_-_CBBE_SMP_-_3BA%2529_fomod.7z)
 *  [[Christine] Eastern Ronin CBBE (Physics - CBBE SMP - 3BA) fomod.7z](https://www.mediafire.com/file/q6zsxkfzns30ivy/%255BChristine%255D_Eastern_Ronin_CBBE_%2528Physics_-_CBBE_SMP_-_3BA%2529_fomod.7z)
 *  [[Christine] Eldergleam Queen.7z](https://www.mediafire.com/file/ova7hrh4etntg7b/%255BChristine%255D_Eldergleam_Queen.7z/file)
