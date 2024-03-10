@@ -1,8 +1,8 @@
 {
   "MachineURL": "licentia_black/licentia_servitium",
   "Name": "SERVITIUM",
-  "Version": "4.4.2",
-  "ModListHash": "rRJ32qw9AWo=",
+  "Version": "4.4.2.1",
+  "ModListHash": "ZVjO7KdAl14=",
   "Archives": [
     {
       "Status": "Valid",
@@ -32181,6 +32181,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "FQbA20bA5Dw=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse037-curios.bsa",
+        "Name": "Data_ccbgssse037-curios.bsa",
+        "Size": 111740475,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse037-curios.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "FQbA20bA5Dw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "h9JtFczlXnM=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse050-ba_daedric.bsa",
         "Name": "Data_ccbgssse050-ba_daedric.bsa",
@@ -33177,7 +33193,7 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "STK4THfMHzw=",
+        "Hash": "it6+eSu4OCw=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse037-curios.esl",
         "Name": "Data_ccbgssse037-curios.esl",
         "Size": 37476,
@@ -33869,69 +33885,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5l9zV9ugFj8=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=11849\nfileID=179290",
-        "Name": "VIGILANT - HiRes Pack 02-11849-1-6-0-a-1610550878.7z",
-        "Size": 201876578,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Vicn",
-          "Description": "Vigilant of Stendarr Quest",
-          "FileID": 179290,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67103-6-1434853964.jpg",
-          "IsNSFW": true,
-          "ModID": 11849,
-          "Name": "VIGILANT SE",
-          "Version": "1.7.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "9v4JiZN6wnw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=11849\nfileID=179292",
-        "Name": "VIGILANT - HiRes Pack 4K Landscape-11849-1-6-0-a-1610551128.7z",
-        "Size": 854225335,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Vicn",
-          "Description": "Vigilant of Stendarr Quest",
-          "FileID": 179292,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67103-6-1434853964.jpg",
-          "IsNSFW": true,
-          "ModID": 11849,
-          "Name": "VIGILANT SE",
-          "Version": "1.7.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "XsdHtuI+i7U=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=65596\nfileID=308585",
-        "Name": "Riften of Reverie - 4K-65596-0-95-1660885311.7z",
-        "Size": 601595008,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "winedave",
-          "Description": "What I think Rifton should look like. 8K Parallax. BETA release",
-          "FileID": 308585,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65596/65596-1648405328-1438602263.png",
-          "IsNSFW": false,
-          "ModID": 65596,
-          "Name": "Riften of Reverie SE - 8K - Parallax",
-          "Version": "0.95"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "I81444SBZ68=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=45735\nfileID=332186",
         "Name": "Vigilant Armors and Weapons Retexture SE - Mid Res 2k-1k (recommended)-45735-4-0-1668558775.rar",
@@ -34016,6 +33969,69 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "XsdHtuI+i7U=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=65596\nfileID=308585",
+        "Name": "Riften of Reverie - 4K-65596-0-95-1660885311.7z",
+        "Size": 601595008,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "winedave",
+          "Description": "What I think Rifton should look like. 8K Parallax. BETA release",
+          "FileID": 308585,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65596/65596-1648405328-1438602263.png",
+          "IsNSFW": false,
+          "ModID": 65596,
+          "Name": "Riften of Reverie SE - 8K - Parallax",
+          "Version": "0.95"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5l9zV9ugFj8=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=11849\nfileID=179290",
+        "Name": "VIGILANT - HiRes Pack 02-11849-1-6-0-a-1610550878.7z",
+        "Size": 201876578,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Vicn",
+          "Description": "Vigilant of Stendarr Quest",
+          "FileID": 179290,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67103-6-1434853964.jpg",
+          "IsNSFW": true,
+          "ModID": 11849,
+          "Name": "VIGILANT SE",
+          "Version": "1.7.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9v4JiZN6wnw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=11849\nfileID=179292",
+        "Name": "VIGILANT - HiRes Pack 4K Landscape-11849-1-6-0-a-1610551128.7z",
+        "Size": 854225335,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Vicn",
+          "Description": "Vigilant of Stendarr Quest",
+          "FileID": 179292,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/67103-6-1434853964.jpg",
+          "IsNSFW": true,
+          "ModID": 11849,
+          "Name": "VIGILANT SE",
+          "Version": "1.7.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "hRdwfJXVG+w=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=44022\nfileID=178377",
         "Name": "Particle Lights For ENB SE - Ingredients-44022-1-2-1610127565.7z",
@@ -34031,22 +34047,6 @@
           "ModID": 44022,
           "Name": "Particle Lights For ENB SE - Ingredients",
           "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "DG3YZQj7xwk=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse037-curios.bsa",
-        "Name": "Data_ccbgssse037-curios.bsa",
-        "Size": 111740475,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse037-curios.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "FQbA20bA5Dw="
         }
       }
     },

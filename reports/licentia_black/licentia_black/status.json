@@ -1,8 +1,8 @@
 {
   "MachineURL": "licentia_black/licentia_black",
   "Name": "Licentia BLACK",
-  "Version": "12.6.2",
-  "ModListHash": "icgUGceE54I=",
+  "Version": "12.6.2.1",
+  "ModListHash": "N8xmIbi44nI=",
   "Archives": [
     {
       "Status": "Valid",
@@ -626,7 +626,7 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "STK4THfMHzw=",
+        "Hash": "it6+eSu4OCw=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse037-curios.esl",
         "Name": "Data_ccbgssse037-curios.esl",
         "Size": 37476,
@@ -32319,6 +32319,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "FQbA20bA5Dw=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse037-curios.bsa",
+        "Name": "Data_ccbgssse037-curios.bsa",
+        "Size": 111740475,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse037-curios.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "FQbA20bA5Dw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "h9JtFczlXnM=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse050-ba_daedric.bsa",
         "Name": "Data_ccbgssse050-ba_daedric.bsa",
@@ -32967,27 +32983,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hRdwfJXVG+w=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=44022\nfileID=178377",
-        "Name": "Particle Lights For ENB SE - Ingredients-44022-1-2-1610127565.7z",
-        "Size": 29841123,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LossRec and Daralima",
-          "Description": "A simple replacer for handful of ingredients that utilizes the particle lighting effect from ENB (For 0.365 binaries or newer). Only for ENB users.",
-          "FileID": 178377,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44022/44022-1609867439-1456425200.png",
-          "IsNSFW": false,
-          "ModID": 44022,
-          "Name": "Particle Lights For ENB SE - Ingredients",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "I81444SBZ68=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=45735\nfileID=332186",
         "Name": "Vigilant Armors and Weapons Retexture SE - Mid Res 2k-1k (recommended)-45735-4-0-1668558775.rar",
@@ -33009,16 +33004,105 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "DG3YZQj7xwk=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse037-curios.bsa",
-        "Name": "Data_ccbgssse037-curios.bsa",
-        "Size": 111740475,
+        "Hash": "hRdwfJXVG+w=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=44022\nfileID=178377",
+        "Name": "Particle Lights For ENB SE - Ingredients-44022-1-2-1610127565.7z",
+        "Size": 29841123,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse037-curios.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "FQbA20bA5Dw="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LossRec and Daralima",
+          "Description": "A simple replacer for handful of ingredients that utilizes the particle lighting effect from ENB (For 0.365 binaries or newer). Only for ENB users.",
+          "FileID": 178377,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/44022/44022-1609867439-1456425200.png",
+          "IsNSFW": false,
+          "ModID": 44022,
+          "Name": "Particle Lights For ENB SE - Ingredients",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sHXONYiOVDk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=29842\nfileID=129365",
+        "Name": "Septentrional Landscapes 4K SE-29842-1-3-2-1584615630.7z",
+        "Size": 1255510411,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "winedave",
+          "Description": "Landscape textures made with 3D Scans. 8, 4 \u0026amp; 2K versions available",
+          "FileID": 129365,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29842/29842-1581630636-1748116040.png",
+          "IsNSFW": false,
+          "ModID": 29842,
+          "Name": "Septentrional Landscapes SE - 8K",
+          "Version": "1.3.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XsdHtuI+i7U=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=65596\nfileID=308585",
+        "Name": "Riften of Reverie - 4K-65596-0-95-1660885311.7z",
+        "Size": 601595008,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "winedave",
+          "Description": "What I think Rifton should look like. 8K Parallax. BETA release",
+          "FileID": 308585,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65596/65596-1648405328-1438602263.png",
+          "IsNSFW": false,
+          "ModID": 65596,
+          "Name": "Riften of Reverie SE - 8K - Parallax",
+          "Version": "0.95"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lNclTvK40Tw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=28950\nfileID=386434",
+        "Name": "Illustrious Whiterun 4K-28950-2-0-1683659017.7z",
+        "Size": 2066515535,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "winedave",
+          "Description": "My idea of what Whiterun should look like. Still A work in progress but getting there with every update. 8,4 \u0026amp; 2K versions.",
+          "FileID": 386434,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28950/28950-1684871912-808776925.png",
+          "IsNSFW": false,
+          "ModID": 28950,
+          "Name": "Illustrious Whiterun SE - 8K - Parallax",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0mhQRR6ayFw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=18372\nfileID=59082",
+        "Name": "Eldruin Dawnbreaker-18372-1-0.7z",
+        "Size": 4361864,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AshAuryn",
+          "Description": "Mesh and Texture replacer for vanilla Dawnbdreaker sword.  Does not change attributes, just appearance. Reflective steel, light, and translucent effects included.",
+          "FileID": 59082,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18372/18372-1530735882-2085080933.jpeg",
+          "IsNSFW": false,
+          "ModID": 18372,
+          "Name": "ElDruin Dawnbreaker - mesh and texture replacer",
+          "Version": "1.0"
         }
       }
     },
@@ -33061,27 +33145,6 @@
           "ModID": 11849,
           "Name": "VIGILANT SE",
           "Version": "1.7.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "lNclTvK40Tw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=28950\nfileID=386434",
-        "Name": "Illustrious Whiterun 4K-28950-2-0-1683659017.7z",
-        "Size": 2066515535,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "winedave",
-          "Description": "My idea of what Whiterun should look like. Still A work in progress but getting there with every update. 8,4 \u0026amp; 2K versions.",
-          "FileID": 386434,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/28950/28950-1684871912-808776925.png",
-          "IsNSFW": false,
-          "ModID": 28950,
-          "Name": "Illustrious Whiterun SE - 8K - Parallax",
-          "Version": "2.0"
         }
       }
     },
@@ -33145,69 +33208,6 @@
           "ModID": 34413,
           "Name": "Beyond Skyrim - Bruma Upscaled Textures (BSBUT)",
           "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "XsdHtuI+i7U=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=65596\nfileID=308585",
-        "Name": "Riften of Reverie - 4K-65596-0-95-1660885311.7z",
-        "Size": 601595008,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "winedave",
-          "Description": "What I think Rifton should look like. 8K Parallax. BETA release",
-          "FileID": 308585,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/65596/65596-1648405328-1438602263.png",
-          "IsNSFW": false,
-          "ModID": 65596,
-          "Name": "Riften of Reverie SE - 8K - Parallax",
-          "Version": "0.95"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "0mhQRR6ayFw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=18372\nfileID=59082",
-        "Name": "Eldruin Dawnbreaker-18372-1-0.7z",
-        "Size": 4361864,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "AshAuryn",
-          "Description": "Mesh and Texture replacer for vanilla Dawnbdreaker sword.  Does not change attributes, just appearance. Reflective steel, light, and translucent effects included.",
-          "FileID": 59082,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/18372/18372-1530735882-2085080933.jpeg",
-          "IsNSFW": false,
-          "ModID": 18372,
-          "Name": "ElDruin Dawnbreaker - mesh and texture replacer",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "sHXONYiOVDk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=29842\nfileID=129365",
-        "Name": "Septentrional Landscapes 4K SE-29842-1-3-2-1584615630.7z",
-        "Size": 1255510411,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "winedave",
-          "Description": "Landscape textures made with 3D Scans. 8, 4 \u0026amp; 2K versions available",
-          "FileID": 129365,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/29842/29842-1581630636-1748116040.png",
-          "IsNSFW": false,
-          "ModID": 29842,
-          "Name": "Septentrional Landscapes SE - 8K",
-          "Version": "1.3.2"
         }
       }
     }
