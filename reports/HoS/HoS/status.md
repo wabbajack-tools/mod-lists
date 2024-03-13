@@ -1,10 +1,11 @@
 ## Validation Report - Halls of Sovngarde (HoS/HoS)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [sforzinda_imitations.7z](https://drive.google.com/uc?id=1yj9cxN0MAFQVuOpDNg2NJl0BAZHZm7CZ&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1855)
+### Valid (1854)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [1. Majestic Mountains Main File-11052-4-02-1665910537.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=324452)
@@ -1437,7 +1438,6 @@
 *  [SeranaDialogEdit v 102-16222-1-02.7z](https://www.nexusmods.com/skyrimspecialedition/mods/16222/?tab=files&file_id=59083)
 *  [Set CPU Affinity-94636-1-2-0-1688135119.zip](https://www.nexusmods.com/skyrimspecialedition/mods/94636/?tab=files&file_id=402479)
 *  [SeverinHome-47948-1-1617336142.zip](https://www.nexusmods.com/skyrimspecialedition/mods/47948/?tab=files&file_id=195358)
-*  [sforzinda_imitations.7z](https://drive.google.com/uc?id=1yj9cxN0MAFQVuOpDNg2NJl0BAZHZm7CZ&export=download)
 *  [SG Female Eyebrows - High Poly Head-70905-1-0-1657207481.zip](https://www.nexusmods.com/skyrimspecialedition/mods/70905/?tab=files&file_id=296876)
 *  [Shaders of Solstheim - Ash and Moss - Parallax Meshes-60144-0-1-1639987706.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60144/?tab=files&file_id=250468)
 *  [Shaders of Solstheim - Ash and Moss-60144-0-2-1-1639998945.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60144/?tab=files&file_id=250507)
