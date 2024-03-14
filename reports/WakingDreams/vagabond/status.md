@@ -1,11 +1,10 @@
 ## Validation Report - Vagabond (WakingDreams/vagabond)
 
 
-### Invalid (1)
-*  [[SE] DM BDOR Mueburus 1.11 by Team TAL.7z](https://drive.google.com/uc?id=1NL26SeJQClfAoq-4NqrcRAsrV3oi2wNb&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4834)
+### Valid (4835)
 *  [_Fuse00_ArmorAemond_V1.1.rar](https://www.patreon.com/file?h=78472619&i=13158944)
 *  [_Fuse00_ArmorHighlander_CBBE.rar](https://www.patreon.com/file?h=79874952&i=13365775)
 *  [_Fuse00_ArmorHighlander_VanillaMale.rar](https://www.patreon.com/file?h=79874952&i=13365782)
@@ -57,6 +56,7 @@
 *  [[SE] DM BDOR Caroxya by Team TAL.7z](https://drive.google.com/uc?id=11Ix_VTvmZjxMxz0sHpgj1WWtJgH3dozI&export=download)
 *  [[SE] DM BDOR Danharum by Team TAL(converted by em486).7z](https://drive.google.com/uc?id=1wUpZayp2hDMbd4303-SYZLfLUqJdwQsK&export=download)
 *  [[SE] DM BDOR Hamshin by Team TAL.7z](https://drive.google.com/uc?id=1huAumy3LIObVxpDaw2JdA9_KNQICmSiE&export=download)
+*  [[SE] DM BDOR Mueburus 1.11 by Team TAL.7z](https://drive.google.com/uc?id=1NL26SeJQClfAoq-4NqrcRAsrV3oi2wNb&export=download)
 *  [[SE] DM BDOR Nova Taritas by Team TAL(converted by em486, Caenarvon).7z](https://drive.google.com/uc?id=1_OGjX0QK7tgzK7CDRPEY0A7Dswzln1Av&export=download)
 *  [[SE] DM BDOR Sephia by Team TAL, em486.7z.zip](https://drive.google.com/uc?id=1qfS_8ccC_C6Qq88toPffLMrQv0kIpmmh&export=download)
 *  [[SE] Kirax BDO Cavaro SMP 3BA.7z](https://drive.google.com/uc?id=1qDN1OymReXzS52ZidrD4JywEgnpus-D5&export=download)
