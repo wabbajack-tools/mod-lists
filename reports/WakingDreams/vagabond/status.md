@@ -1,10 +1,11 @@
 ## Validation Report - Vagabond (WakingDreams/vagabond)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [【Weapon】EldenRing_LegendaryWeapons.7z](https://drive.google.com/uc?id=11T5k_CAlFMoN9uwWuyRhdRprV7pGHb7n&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4835)
+### Valid (4834)
 *  [_Fuse00_ArmorAemond_V1.1.rar](https://www.patreon.com/file?h=78472619&i=13158944)
 *  [_Fuse00_ArmorHighlander_CBBE.rar](https://www.patreon.com/file?h=79874952&i=13365775)
 *  [_Fuse00_ArmorHighlander_VanillaMale.rar](https://www.patreon.com/file?h=79874952&i=13365782)
@@ -67,7 +68,6 @@
 *  [【Weapon】 Miquellan Knight's Sword.7z](https://www.patreon.com/file?h=68558518&i=11200671)
 *  [【Weapon】Elden ring - Commander's Standard.7z](https://www.patreon.com/file?h=73960863&i=12153333)
 *  [【Weapon】Elden Ring - Great Spear.7z](https://drive.google.com/uc?id=19muJYVcS_CwVOsQ9bQL_wWsYRz5W7BZI&export=download)
-*  [【Weapon】EldenRing_LegendaryWeapons.7z](https://drive.google.com/uc?id=11T5k_CAlFMoN9uwWuyRhdRprV7pGHb7n&export=download)
 *  [【Weapon】Nagakiba.7z](https://www.patreon.com/file?h=68764133&i=11164539)
 *  [【Weapon】Wo Long - Azure Dragon Crescent Glaive.7z](https://www.patreon.com/file?h=80323534&i=13464512)
 *  [@[SE] BDO Herawen Xing CBBE 3BA SMP SE.7z](https://drive.google.com/uc?id=1rXV6ftgxGnvvo6_RfAnpchAezr4s3Y48&export=download)
