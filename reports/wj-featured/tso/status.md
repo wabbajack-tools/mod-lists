@@ -1,10 +1,11 @@
 ## Validation Report - Total Skyrim Overhaul (wj-featured/tso)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [[SE] DM BDOR Deathrone by Team TAL 200826 (converted by em486).7z](https://drive.google.com/uc?id=1v1dc8jZnT4Xq6bB9Tt6XGaM8VnOFOpw8&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1033)
+### Valid (1032)
 *  [- Skyrim 2020 8.4.2 - 3 of 3 - Other - 4K to 2K-2347-8-4-2-1624479907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=210840)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -78,7 +79,6 @@
 *  [[SE] DM BDOR Caroxya by Team TAL.7z](https://www.loverslab.com/files/file/13470-se-team-tals-dm-bdor-caroxya-smp-3ba/)
 *  [[SE] DM BDOR Corbicanus by Team TAL, em486.zip](https://drive.google.com/uc?id=1G5yiU0xbXh_y9XsPDQ6z5Gg6razeb-Nk&export=download)
 *  [[SE] DM BDOR Danharum by Team TAL(converted by em486).7z](https://www.loverslab.com/files/file/16006-se-team-tals-dm-bdor-danharum-smp-3ba/)
-*  [[SE] DM BDOR Deathrone by Team TAL 200826 (converted by em486).7z](https://drive.google.com/uc?id=1v1dc8jZnT4Xq6bB9Tt6XGaM8VnOFOpw8&export=download)
 *  [[SE] DM BDOR Hamshin by Team TAL.7z](https://www.loverslab.com/files/file/11997-team-tals-bdor-hamshin-smp-3ba/)
 *  [[SE] DM BDOR Iron Thorn by Team TAL, em486.7z](https://drive.google.com/uc?id=1g0KQQqCDK_L-or_b0ow1usc0KdDK_WYR&export=download)
 *  [[SE] DM BDOR Karlstein by Team TAL.zip](https://drive.google.com/uc?id=1KpTH4vEk1sf9QwLTG5K3k4Fps9AT3fJ0&export=download)
