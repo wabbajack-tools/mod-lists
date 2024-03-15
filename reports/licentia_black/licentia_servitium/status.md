@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1697)
+### Valid (1691)
 *  [(1) SBP SE - Simple Belly Paints - 2K-22811-1-1-1548197078.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79308)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
 *  [(3) SBP  - CBBE Adjustments-22811-1-1CBBE-1583706479.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=127862)
@@ -526,7 +526,6 @@
 *  [Dear Diary Dark Mode (texts - white color)-60837-1-1-1-1667594519.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60837/?tab=files&file_id=328989)
 *  [Death Animations from Underdog-96603-1-0-1690243236.zip](https://www.nexusmods.com/skyrimspecialedition/mods/96603/?tab=files&file_id=410378)
 *  [Death Expressions DX-77956-1-3-2-1696878944.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77956/?tab=files&file_id=432717)
-*  Debug.log
 *  [Default Uncapper Preset-89940-1-0-0-1684118637.7z](https://www.nexusmods.com/skyrimspecialedition/mods/89940/?tab=files&file_id=388251)
 *  [Dementia Mushroom - ESPFE Version-83727-1-0-1-1677404654.zip](https://www.nexusmods.com/skyrimspecialedition/mods/83727/?tab=files&file_id=363483)
 *  [Demon Armor Dark Textures-26269-1-0-1559665344.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26269/?tab=files&file_id=94776)
@@ -613,8 +612,7 @@
 *  [ENB Helper SE 2.2 for 1.6.629 and up-23174-2-2-0-1665131787.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23174/?tab=files&file_id=322175)
 *  [ENB Light 0.98 Alpha 2-22574-0-98Alpha2-1577144667.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=117211)
 *  [ENB Particle Lights for Gemstones-57672-1-3-1658432693.rar](https://www.nexusmods.com/skyrimspecialedition/mods/57672/?tab=files&file_id=300935)
-*  [enbseries_skyrimse_v0499(caco)6.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0499(caco)6.zip_aa63e12c-9831-47f4-adf3-a2cd928896ab)
-*  [enbseries_skyrimse_v0499(caco6).zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0499(caco6).zip_448d75b4-3186-4222-a92e-18c18ceccb53)
+*  [enbseries_skyrimse_v0499(caco)7.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0499(caco)7.zip_e15b95bb-25a2-41be-875b-5f213d275b1a)
 *  [Encounter Zones Unlocked AE-19608-1-5-4-1663528547.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19608/?tab=files&file_id=317381)
 *  [Enderal Music for Skyrim Forgotten Stories With Vanilla Music - Recommended-16243-2-1-1570389468.zip](https://www.nexusmods.com/skyrimspecialedition/mods/16243/?tab=files&file_id=109482)
 *  [Enhanced Blood Textures-2357-4-0-1639547261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=249235)
@@ -755,7 +753,6 @@
 *  [Hi-Res Armors Weapons Creatures-11849-1-4-0-1610197197.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11849/?tab=files&file_id=178564)
 *  [High Poly Project-12029-v5-3-1634909383.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=236420)
 *  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
-*  High.ini
 *  [HIMBO Creation Club Refits-93675-1-1687027451.rar](https://www.nexusmods.com/skyrimspecialedition/mods/93675/?tab=files&file_id=398719)
 *  [HIMBO-46311-4-4-1-1649255121.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46311/?tab=files&file_id=275257)
 *  [Hishy's Undeath Cleaner Script Improved-40802-1-1-1601050264.rar](https://www.nexusmods.com/skyrimspecialedition/mods/40802/?tab=files&file_id=162483)
@@ -950,7 +947,6 @@
 *  [LoTD Quick Museum Shortcuts-38898-2-0-1599063016.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38898/?tab=files&file_id=158828)
 *  [LotD Textures 2K-84058-1-6-1676667580.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84058/?tab=files&file_id=360733)
 *  [LotD Textures 4k2k-84058-1-6-1676687619.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84058/?tab=files&file_id=360826)
-*  Low.ini
 *  [Lucien - Anniversary Edition - All-In-One Creation Club Patch-20035-1-6-3a-1656001522.rar](https://www.nexusmods.com/skyrimspecialedition/mods/20035/?tab=files&file_id=293450)
 *  [Lucien - Beyond Skyrim - Bruma Patch-20035-1-6-3-1670519503.rar](https://www.nexusmods.com/skyrimspecialedition/mods/20035/?tab=files&file_id=338770)
 *  [Lucien - ESL Flagged-34827-1-1-1633079219.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34827/?tab=files&file_id=231840)
@@ -983,7 +979,6 @@
 *  [Maximum Carnage-43494-8-0-1692924039.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43494/?tab=files&file_id=420209)
 *  [MCM Helper SE-53000-1-4-0-1665228890.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53000/?tab=files&file_id=322444)
 *  [MCM Recorder-61719-1-0-7-1642847171.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61719/?tab=files&file_id=258619)
-*  Medium.ini
 *  [Meeko Reborn SE-17572-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17572/?tab=files&file_id=55703)
 *  [Mega Main Menu - Dragon Attack-106015-1-1609098006.zip](https://www.nexusmods.com/skyrim/mods/106015/?tab=files&file_id=1000330294)
 *  [Megdra - An Orc Racemenu Preset-20067-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20067/?tab=files&file_id=67284)
@@ -1401,7 +1396,6 @@
 *  [Skyrim Skill Uncapper for SE and AE-82558-2-2-3-1695703184.zip](https://www.nexusmods.com/skyrimspecialedition/mods/82558/?tab=files&file_id=429047)
 *  [Skyrim Underground - esm-131-4-6-1-1579955800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/131/?tab=files&file_id=121096)
 *  [Skyrim Underground SSE - ESM-40565-1-0-1602600857.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69604/?tab=files&file_id=290974)
-*  Skyrim_Default.ini
 *  Skyrim_SkyrimPrefs.ini
 *  Skyrim.ccc
 *  [Skyrim's Paraglider Anniversary Edition-71123-1-11-0-1704159999.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71123/?tab=files&file_id=457113)
