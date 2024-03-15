@@ -1,11 +1,12 @@
 ## Validation Report - Total Skyrim Overhaul (wj-featured/tso)
 
 
-### Invalid (1)
+### Invalid (2)
 *  [[SE] DM BDOR Deathrone by Team TAL 200826 (converted by em486).7z](https://drive.google.com/uc?id=1v1dc8jZnT4Xq6bB9Tt6XGaM8VnOFOpw8&export=download)
+*  [Gravechill Killer Armor CBBE BodySlide HDT SMP SE v1.0.7z](https://drive.google.com/uc?id=1RV3qJsi72iFTj4ILDREwpxRbJVI99PQV&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1032)
+### Valid (1031)
 *  [- Skyrim 2020 8.4.2 - 3 of 3 - Other - 4K to 2K-2347-8-4-2-1624479907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=210840)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -477,7 +478,6 @@
 *  [Good Graces-43284-1-3-1608870047.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43284/?tab=files&file_id=176077)
 *  [Grandmaster Wolven Armor - CBBE 3BA SE-56418-1-1-1633610209.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56418/?tab=files&file_id=233233)
 *  [Grass Control v8-42161-8-1631599570.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42161/?tab=files&file_id=228283)
-*  [Gravechill Killer Armor CBBE BodySlide HDT SMP SE v1.0.7z](https://drive.google.com/uc?id=1RV3qJsi72iFTj4ILDREwpxRbJVI99PQV&export=download)
 *  [Greek Goddess - All in One-24201-4-0-1602736952.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24201/?tab=files&file_id=165596)
 *  [Guard Armor Replacer SE CBBE Bodyslide-43473-1-2-1612076774.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43473/?tab=files&file_id=183032)
 *  [Guards Armor Replacer-22671-5-5a-1551221031.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22671/?tab=files&file_id=83024)
