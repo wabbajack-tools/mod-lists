@@ -63,7 +63,8 @@
 -   [Tale Of Two Wastelands](#tale-of-two-wastelands)
     -   [Begin Again](#begin-again)
 -   [Cyberpunk 2077](#cyberpunk-2077)
-    -   [Cyberpunk THING](#cyberpunk-thing)
+    -   [Cyberpunk THING](#welcome-to-night-city)
+    -   [(NSFW) Ultraviolence (NSFW)](#ultraviolence)
 
 ---
 
@@ -841,5 +842,17 @@ Night City is full of hardened gangoons with hair triggers and bad attitudes. Bu
 The future of modding is here. You shouldn't need a degree from Arasaka Academy just to be able to enjoy Cyberpunk 2077 with mods. We provide not one, but two fully tailored and preconfigured modded experiences crafted from the best mods our team and the community at large have to offer.
 
 The **Welcome to Night City** profile brings the vanilla balance you know and love with all the best mods. The **Cyberpunk THING** profile provides a more challening and immersive approach with a focus on realism. Switch between them at any time, for any reason, all remaining save safe.
+
+---
+
+### [Ultraviolence](https://github.com/Gallahorn/Ultraviolence)
+
+Ultraviolence brings you blood, tits and women in a modlist designed to have you slicing and shooting while capturing all of it in amazing screenshots.
+
+- Lots of clothing options available for dressup (female centric)
+- Improved graphics while still performant for midrange systems
+- Multiple screen archery tools
+- Tweaks to gameplay and balance to make mid to endgame more viable
+- NSFW content in the form of sexy clothes, erotic poses, romance options and the ability to use braindances you can't find at Arasaka Mart
 
 ---
