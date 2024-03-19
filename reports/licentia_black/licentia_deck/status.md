@@ -1,11 +1,12 @@
 ## Validation Report - Licentia DECK (licentia_black/licentia_deck)
 
 
-### Invalid (1)
+### Invalid (2)
 *  [REALORE SKIN ULTIMA - ERF patch.rar](https://www.loverslab.com/files/file/28632-futanari-textures-for-realore-skin-ultima/?do=download&r=1708149&confirm=1)
+*  [skse64_2_02_03.7z](https://skse.silverlock.org/beta/skse64_2_02_03.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1294)
+### Valid (1293)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [(Recommended) REPLACER - Nyghtfall-39011-1-92-1634147177.zip](https://www.nexusmods.com/skyrimspecialedition/mods/39011/?tab=files&file_id=234610)
@@ -1055,7 +1056,6 @@
 *  [skee64.ini tweak-99047-1-0-1692832115.zip](https://www.nexusmods.com/skyrimspecialedition/mods/99047/?tab=files&file_id=419918)
 *  [Skeleton Replacer HD 2K SE-52845-1-1-1627666084.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52845/?tab=files&file_id=217702)
 *  [Skeleton.and.Human.Bones.1k-17282-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17282/?tab=files&file_id=54632)
-*  [skse64_2_02_03.7z](https://skse.silverlock.org/beta/skse64_2_02_03.7z)
 *  [Skygazer Moons SSE 2K - No Glow-32057-1-2-1579996351.rar](https://www.nexusmods.com/skyrimspecialedition/mods/32057/?tab=files&file_id=121175)
 *  [SkyHUD v090B - Lite Installer-463-0-90B.zip](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=61304)
 *  [SkyHUD v090B v4-463-0-90B.zip](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=61422)

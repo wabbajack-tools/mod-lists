@@ -1,10 +1,11 @@
 ## Validation Report - Beowulf (Beowulf/beowulf)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [skse64_2_02_06.7z](https://skse.silverlock.org/beta/skse64_2_02_06.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1756)
+### Valid (1755)
 *  [-For those not using KS Hairdo's- hair and textures-39359-4-7-1600167856.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39359/?tab=files&file_id=160843)
 *  [-For those not using KS Hairdo's- hair textures-40231-1-5-1599690359.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40231/?tab=files&file_id=159931)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
@@ -1367,7 +1368,6 @@
 *  [Skeleton.and.Human.Bones.4k-17282-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17282/?tab=files&file_id=54628)
 *  [Skill Based Dynamic Animations AIO-99842-1-1-1693810678.zip](https://www.nexusmods.com/skyrimspecialedition/mods/99842/?tab=files&file_id=423195)
 *  [SKSE64 INI PRE DOWNLOAD v1.2-1651-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1651/?tab=files&file_id=33902)
-*  [skse64_2_02_06.7z](https://skse.silverlock.org/beta/skse64_2_02_06.7z)
 *  [Skuldafn - Skip Dragon Priest Exploit Fix-46753-1-0-1636675426.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46753/?tab=files&file_id=240668)
 *  [Skulls - Replacer-82068-1-0-1672911099.7z](https://www.nexusmods.com/skyrimspecialedition/mods/82068/?tab=files&file_id=346862)
 *  [Sky Reflection Fix-110604-1-0-1-1706805413.zip](https://www.nexusmods.com/skyrimspecialedition/mods/110604/?tab=files&file_id=466782)

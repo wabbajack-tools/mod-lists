@@ -1,10 +1,11 @@
 ## Validation Report - Lost World (LW/LW)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [f4se_0_06_23.7z](https://f4se.silverlock.org/beta/f4se_0_06_23.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (389)
+### Valid (388)
 *  [_Sound Zero_-45659-2-1605358427.7z](https://www.nexusmods.com/fallout4/mods/45659/?tab=files&file_id=194937)
 *  [04. 4estGimp - Valve Handgun Edit Compacted-64452--91-1663995052.7z](https://www.nexusmods.com/fallout4/mods/64452/?tab=files&file_id=251516)
 *  [1_LAT Patches FOMOD-38448-LATP1-07-1673976322.zip](https://www.nexusmods.com/fallout4/mods/38448/?tab=files&file_id=263911)
@@ -123,7 +124,6 @@
 *  [Exoskeletons Replace Power Armor-65098-1-0-1666045829.7z](https://www.nexusmods.com/fallout4/mods/65098/?tab=files&file_id=253738)
 *  [Extended Dialogue Interface 1.3.6-27216-1-3-6-1575706721.zip](https://www.nexusmods.com/fallout4/mods/27216/?tab=files&file_id=172181)
 *  [Eye Normal Map Fix 1b Final-819-1b.zip](https://www.nexusmods.com/fallout4/mods/819/?tab=files&file_id=3599)
-*  [f4se_0_06_23.7z](https://f4se.silverlock.org/beta/f4se_0_06_23.7z)
 *  [FallEvil - Paleheads 1.2-55426-1-2-1642289822.rar](https://www.nexusmods.com/fallout4/mods/55426/?tab=files&file_id=226809)
 *  [FallEvil - Zombie Mega Pack Main File-59293-1-2-1663969670.rar](https://www.nexusmods.com/fallout4/mods/59293/?tab=files&file_id=251482)
 *  [Fallout 2287 - Gas Masks of the Wasteland - BA2-17491-1-0-8-1-1601536280.zip](https://www.nexusmods.com/fallout4/mods/17491/?tab=files&file_id=192310)

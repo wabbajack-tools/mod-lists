@@ -1,11 +1,12 @@
 ## Validation Report - The Nico Experience (The_Nico_Experience/The_Nico_Experience)
 
 
-### Invalid (1)
+### Invalid (2)
 *  [enbseries_skyrimse_v0499.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0499.zip_70d4937c-d5e9-4815-b609-1ac2e386653f)
+*  [skse64_2_00_20.7z](https://skse.silverlock.org/beta/skse64_2_00_20.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1604)
+### Valid (1603)
 *  [- Skyrim 202X 9.0 to 9.7 Update-2347-9-7-1697703573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=435157)
 *  [-Skyrim 202X 9.0 - Architecture-2347-9-0-1664994366.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=321878)
 *  [-Skyrim 202X 9.0.1 - Other-2347-9-0-1-1665147913.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=322212)
@@ -1285,7 +1286,6 @@
 *  [Skill Based Dynamic Animations AIO-99842-1-1-1693810678.zip](https://www.nexusmods.com/skyrimspecialedition/mods/99842/?tab=files&file_id=423195)
 *  [Skogarfjell Expanded SE-85265-1-1-FamExtSE-1676754253.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85265/?tab=files&file_id=361083)
 *  [SKSE64 INI PRE DOWNLOAD v1.2-1651-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1651/?tab=files&file_id=33902)
-*  [skse64_2_00_20.7z](https://skse.silverlock.org/beta/skse64_2_00_20.7z)
 *  [Sky Flip for Beyond Reach-87605-1-0-0-1679584709.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87605/?tab=files&file_id=371380)
 *  [Sky Idles FOMOD-45794-4-4-3-1659619543.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45794/?tab=files&file_id=304527)
 *  [Sky Reflection Fix-110604-1-0-1-1706805413.zip](https://www.nexusmods.com/skyrimspecialedition/mods/110604/?tab=files&file_id=466782)

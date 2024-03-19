@@ -1,10 +1,11 @@
 ## Validation Report - Ground Zero (groundzero/groundzero)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [f4se_0_06_23.7z](https://f4se.silverlock.org/beta/f4se_0_06_23.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (351)
+### Valid (350)
 *  [_Sound Zero_-45659-2-1605358427.7z](https://www.nexusmods.com/fallout4/mods/45659/?tab=files&file_id=194937)
 *  [.44 Magnum Standard Resolution-4383-v1-1.rar](https://www.nexusmods.com/fallout4/mods/4383/?tab=files&file_id=14191)
 *  [(.BA2 Version) Ultimate Window Overhaul Redone-43458-4-1-1678236310.rar](https://www.nexusmods.com/fallout4/mods/43458/?tab=files&file_id=269724)
@@ -108,7 +109,6 @@
 *  [Extended Dialogue Interface 1.3.6-27216-1-3-6-1575706721.zip](https://www.nexusmods.com/fallout4/mods/27216/?tab=files&file_id=172181)
 *  [Eye Normal Map Fix 1b Final-819-1b.zip](https://www.nexusmods.com/fallout4/mods/819/?tab=files&file_id=3599)
 *  [F4 Fonts Replacer - Chalet-37076-1-3-1548354834.7z](https://www.nexusmods.com/fallout4/mods/37076/?tab=files&file_id=150793)
-*  [f4se_0_06_23.7z](https://f4se.silverlock.org/beta/f4se_0_06_23.7z)
 *  [FallEvil - Complete Edition Version 2.1-57881-2-1-1645335622.rar](https://www.nexusmods.com/fallout4/mods/57881/?tab=files&file_id=230151)
 *  [FallEvil - Zombie Mega Pack Main File-59293-1-2-1663969670.rar](https://www.nexusmods.com/fallout4/mods/59293/?tab=files&file_id=251482)
 *  [FallEvil Alt Sounds-64130-0-1-1663121010.rar](https://www.nexusmods.com/fallout4/mods/64130/?tab=files&file_id=250578)

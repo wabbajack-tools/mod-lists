@@ -1,10 +1,12 @@
 ## Validation Report - SERVITIUM (licentia_black/licentia_servitium)
 
 
-### Invalid (0)
+### Invalid (2)
+*  [skse64_2_02_03.7z](https://skse.silverlock.org/beta/skse64_2_02_03.7z)
+*  [skse64_2_02_06.7z](https://skse.silverlock.org/beta/skse64_2_02_06.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1691)
+### Valid (1689)
 *  [(1) SBP SE - Simple Belly Paints - 2K-22811-1-1-1548197078.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79308)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
 *  [(3) SBP  - CBBE Adjustments-22811-1-1CBBE-1583706479.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=127862)
@@ -1364,8 +1366,6 @@
 *  [Skeleton.and.Human.Bones.1k-17282-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17282/?tab=files&file_id=54632)
 *  [SkFO SE - Skin Feature Overlays- 2K-20183-1-6-1562446371.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20183/?tab=files&file_id=98405)
 *  [Skimped - Creation Club AIO-70583-1-2-1681346351.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70583/?tab=files&file_id=377768)
-*  [skse64_2_02_03.7z](https://skse.silverlock.org/beta/skse64_2_02_03.7z)
-*  [skse64_2_02_06.7z](https://skse.silverlock.org/beta/skse64_2_02_06.7z)
 *  [Skygazer Moons SSE 2K - No Glow-32057-1-2-1579996351.rar](https://www.nexusmods.com/skyrimspecialedition/mods/32057/?tab=files&file_id=121175)
 *  [SkyHUD v090B - Lite Installer-463-0-90B.zip](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=61304)
 *  [Skyland AIO-34179-4-32-1700281282.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34179/?tab=files&file_id=443514)

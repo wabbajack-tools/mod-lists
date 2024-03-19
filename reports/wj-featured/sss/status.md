@@ -1,10 +1,11 @@
 ## Validation Report - Slidikins' Strenuous Skyrim (wj-featured/sss)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [skse64_2_02_03.7z](https://skse.silverlock.org/beta/skse64_2_02_03.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1636)
+### Valid (1635)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [00 - AE - Anniversary Edition Patch-63640-1-5-3-1697376793.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63640/?tab=files&file_id=434195)
@@ -1304,7 +1305,6 @@
 *  [skeletons don't breathe SSE loose files version-18542-1.zip](https://www.nexusmods.com/skyrimspecialedition/mods/18542/?tab=files&file_id=60692)
 *  [Skill of Sneaking-94727-1-0-3-1690097689.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94727/?tab=files&file_id=409756)
 *  [SKSE64 INI PRE DOWNLOAD v1.2-1651-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1651/?tab=files&file_id=33902)
-*  [skse64_2_02_03.7z](https://skse.silverlock.org/beta/skse64_2_02_03.7z)
 *  [Skygazer Moons SSE 2K - No Glow-32057-1-2-1579996351.rar](https://www.nexusmods.com/skyrimspecialedition/mods/32057/?tab=files&file_id=121175)
 *  [SkyHUD v090B v4-463-0-90B.zip](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=61422)
 *  [Skyland - Better Imperial Forts-90367-1-0-1682858443.7z](https://www.nexusmods.com/skyrimspecialedition/mods/90367/?tab=files&file_id=383282)

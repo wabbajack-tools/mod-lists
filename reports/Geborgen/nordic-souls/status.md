@@ -1,10 +1,11 @@
 ## Validation Report - Nordic Souls (Geborgen/nordic-souls)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [skse64_2_00_20.7z](https://skse.silverlock.org/beta/skse64_2_00_20.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1680)
+### Valid (1679)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -1335,7 +1336,6 @@
 *  [Skeleton.and.Human.Bones.4k-2k-17282-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17282/?tab=files&file_id=54629)
 *  [SkFO SE - Skin Feature Overlays- 2K-20183-1-6-1562446371.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20183/?tab=files&file_id=98405)
 *  [SKSE64 INI PRE DOWNLOAD v1.2-1651-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1651/?tab=files&file_id=33902)
-*  [skse64_2_00_20.7z](https://skse.silverlock.org/beta/skse64_2_00_20.7z)
 *  [Skullbreaker - Blunt Weapon SFX Overhaul-79219-1-1-1702224895.zip](https://www.nexusmods.com/skyrimspecialedition/mods/79219/?tab=files&file_id=450505)
 *  [SkyHUD v090B v4-463-0-90B.zip](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=61422)
 *  [Skyland - Better Imperial Forts-90367-1-0-1682858443.7z](https://www.nexusmods.com/skyrimspecialedition/mods/90367/?tab=files&file_id=383282)

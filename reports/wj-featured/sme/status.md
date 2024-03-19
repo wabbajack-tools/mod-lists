@@ -1,10 +1,11 @@
 ## Validation Report - Skyrim Modding Essentials (wj-featured/sme)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [skse64_2_02_03.7z](https://skse.silverlock.org/beta/skse64_2_02_03.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (281)
+### Valid (280)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [1st Person Interact Animation Teleport Bug Fix-92795-1-0-0-1685907012.zip](https://www.nexusmods.com/skyrimspecialedition/mods/92795/?tab=files&file_id=395075)
@@ -222,7 +223,6 @@
 *  [Serana's Hood Fix-20243-3-1-0-1627660653.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20243/?tab=files&file_id=217670)
 *  [Shadow Boost-73133-1-3-0-1674058869.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73133/?tab=files&file_id=350765)
 *  [Shoeless Bandit Fix-99465-1-0-1693228240.zip](https://www.nexusmods.com/skyrimspecialedition/mods/99465/?tab=files&file_id=421489)
-*  [skse64_2_02_03.7z](https://skse.silverlock.org/beta/skse64_2_02_03.7z)
 *  [Skyrim Modding Essentials - Nemesis Output-71689-2-6-1-1693904679.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71689/?tab=files&file_id=423444)
 *  [Skyrim Special Edition GOG and Epic Games Support - Mod Organizer 2.4.x-6194-1-7-0-1665206954.zip](https://www.nexusmods.com/skyrimspecialedition/mods/6194/?tab=files&file_id=322391)
 *  Skyrim_Default.ini

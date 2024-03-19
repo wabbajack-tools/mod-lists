@@ -1,10 +1,11 @@
 ## Validation Report - Licentia BLACK (licentia_black/licentia_black)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [skse64_2_02_06.7z](https://skse.silverlock.org/beta/skse64_2_02_06.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1633)
+### Valid (1632)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
 *  [(3) SBP  - CBBE Adjustments-22811-1-1CBBE-1583706479.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=127862)
@@ -1323,7 +1324,6 @@
 *  [Skeleton Replacer HD 2K SE-52845-1-1-1627666084.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52845/?tab=files&file_id=217702)
 *  [Skeleton.and.Human.Bones.1k-17282-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17282/?tab=files&file_id=54632)
 *  [SkFO SE -Skin Feature Overlays- 4K-20183-1-6-1562446832.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20183/?tab=files&file_id=98406)
-*  [skse64_2_02_06.7z](https://skse.silverlock.org/beta/skse64_2_02_06.7z)
 *  [Skygazer Moons SSE 2K - No Glow-32057-1-2-1579996351.rar](https://www.nexusmods.com/skyrimspecialedition/mods/32057/?tab=files&file_id=121175)
 *  [SkyHUD v090B - Lite Installer-463-0-90B.zip](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=61304)
 *  [Skyland AIO-34179-4-32-1700281282.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34179/?tab=files&file_id=443514)

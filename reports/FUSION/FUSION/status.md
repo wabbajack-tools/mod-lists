@@ -1,10 +1,11 @@
 ## Validation Report - FUSION (FUSION/FUSION)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [f4se_0_06_23.7z](https://f4se.silverlock.org/beta/f4se_0_06_23.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (291)
+### Valid (290)
 *  [.BA2 Packed Files-76121-1-0-0-1700174008.7z](https://www.nexusmods.com/fallout4/mods/76121/?tab=files&file_id=294412)
 *  [1950s Feminine Outfits (VANILLA - EVB)-20105-2-1-1546278538.zip](https://www.nexusmods.com/fallout4/mods/20105/?tab=files&file_id=149068)
 *  [3rd Person Behavior Fixes-69243-v1-3-1678132954.7z](https://www.nexusmods.com/fallout4/mods/69243/?tab=files&file_id=269545)
@@ -89,7 +90,6 @@
 *  [Essential Tier 4 Vendors - ESPless-75235-1-0-1696816759.zip](https://www.nexusmods.com/fallout4/mods/75235/?tab=files&file_id=291318)
 *  [EVB with dismemberment - nevernude female-59143-1-1648423211.7z](https://www.nexusmods.com/fallout4/mods/59143/?tab=files&file_id=233186)
 *  [EVB with dismemberment - nevernude male-59143-1-1648423265.7z](https://www.nexusmods.com/fallout4/mods/59143/?tab=files&file_id=233187)
-*  [f4se_0_06_23.7z](https://f4se.silverlock.org/beta/f4se_0_06_23.7z)
 *  [Fallout Priority 3.4.0 (Preview)-52515-3-4-0-1675421049.zip](https://www.nexusmods.com/fallout4/mods/52515/?tab=files&file_id=266097)
 *  Fallout4_Default.ini
 *  Fallout4_Fallout4Prefs.ini
