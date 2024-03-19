@@ -1,11 +1,10 @@
 ## Validation Report - Magnum Opus (wj-featured/magnum_opus)
 
 
-### Invalid (1)
-*  [f4se_0_06_23.7z](https://f4se.silverlock.org/beta/f4se_0_06_23.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (936)
+### Valid (937)
 *  [0001. Weapon QuickSwap 3-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108861)
 *  [0002. FastPipboy-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=89711)
 *  [1.5 Loosefiles-50213-1-5-1664847287.7z](https://www.nexusmods.com/fallout4/mods/50213/?tab=files&file_id=252419)
@@ -335,6 +334,7 @@
 *  [Eye Liner Masks-4398-0-3.zip](https://www.nexusmods.com/fallout4/mods/4398/?tab=files&file_id=31749)
 *  [Eyewear and mask retexture-5021-1-6.7z](https://www.nexusmods.com/fallout4/mods/5021/?tab=files&file_id=91218)
 *  [F4ECC - 1.2-5060-1-2.rar](https://www.nexusmods.com/fallout4/mods/5060/?tab=files&file_id=16830)
+*  [f4se_0_06_23.7z](https://f4se.silverlock.org/beta/f4se_0_06_23.7z)
 *  [FaceGen - TOTC-54872-1-0-1633778051.7z](https://www.nexusmods.com/fallout4/mods/54872/?tab=files&file_id=218851)
 *  [Faction Reinforcements-68166-1-3-1674941901.rar](https://www.nexusmods.com/fallout4/mods/68166/?tab=files&file_id=265323)
 *  [Fallout 4 Combat Shotgun and Rifle retexture - 2048 tex-4046-1-1.7z](https://www.nexusmods.com/fallout4/mods/4046/?tab=files&file_id=14492)

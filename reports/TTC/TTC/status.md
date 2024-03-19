@@ -1,11 +1,10 @@
 ## Validation Report - A Tale of Two Commonwealths (TTC/TTC)
 
 
-### Invalid (1)
-*  [f4se_0_06_23.7z](https://f4se.silverlock.org/beta/f4se_0_06_23.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (379)
+### Valid (380)
 *  [_Sound Zero_-45659-2-1605358427.7z](https://www.nexusmods.com/fallout4/mods/45659/?tab=files&file_id=194937)
 *  [.22 Pistol - Unofficial Update-63404-1-0-1660877444.zip](https://www.nexusmods.com/fallout4/mods/63404/?tab=files&file_id=247340)
 *  [.45 Auto Pistol - Unofficial Update-57363-1-2-1646614695.zip](https://www.nexusmods.com/fallout4/mods/57363/?tab=files&file_id=231442)
@@ -179,6 +178,7 @@
 *  [F.E.R.A.L -Feral Ghouls Sounds Rework--52554-1-0-1623361031.7z](https://www.nexusmods.com/fallout4/mods/52554/?tab=files&file_id=209990)
 *  [F4NV Main Theme Replacer-41760-1-0-1572140469.zip](https://www.nexusmods.com/fallout4/mods/41760/?tab=files&file_id=169581)
 *  [F4NVCrutch-55096-1-0-1634431527.7z](https://www.nexusmods.com/fallout4/mods/55096/?tab=files&file_id=219354)
+*  [f4se_0_06_23.7z](https://f4se.silverlock.org/beta/f4se_0_06_23.7z)
 *  [Fallout 3 Dart Gun-26254-.7z](https://www.nexusmods.com/fallout4/mods/26254/?tab=files&file_id=107185)
 *  [Fallout 3 Holotape Replacer 1.3-29687-1-3-1540773029.zip](https://www.nexusmods.com/fallout4/mods/29687/?tab=files&file_id=144676)
 *  [Fallout 3 layout for FallUI - HUD-52549-1-2-1667187585.rar](https://www.nexusmods.com/fallout4/mods/52549/?tab=files&file_id=255190)
