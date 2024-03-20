@@ -1,10 +1,11 @@
 ## Validation Report - Mad Gods Overhaul (Mad_Gods_Overhaul/MadGodsOverhaul)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Attack_MCO-DXP_v1.6.0.6.zip](https://modding-guild.com/archive/Attack_MCO-DXP_v1.6.0.6.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1214)
+### Valid (1213)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
 *  [(4) Community Overlays 3 - Main - CBBE and Male-35339-1-0-1588129970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35339/?tab=files&file_id=136903)
@@ -124,7 +125,6 @@
 *  [Assorted Mesh Fixes-32117-0-91-1702546745.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=451750)
 *  atimgpud.dll
 *  [Atlantean Landscape -Complete- 2k-89542-1-7-1-1706768294.7z](https://www.nexusmods.com/skyrimspecialedition/mods/89542/?tab=files&file_id=466676)
-*  [Attack_MCO-DXP_v1.6.0.6.zip](https://modding-guild.com/archive/Attack_MCO-DXP_v1.6.0.6.zip)
 *  [Auto Parallax-79473-1-0-27-1669777275.zip](https://www.nexusmods.com/skyrimspecialedition/mods/79473/?tab=files&file_id=336006)
 *  [Auto Sneak and Jump VR-23649-0-5-0-1634485937.rar](https://www.nexusmods.com/skyrimspecialedition/mods/23649/?tab=files&file_id=235404)
 *  [AW Lynea Replacer-76239-1-0-1664386626.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76239/?tab=files&file_id=320086)

@@ -1,10 +1,11 @@
 ## Validation Report - CharGrinn - OSTIM (CharGrinn/CharGrinnOSTIM)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [MCO Attack+MCO-DXP+v1.6.0.6.zip](https://modding-guild.com/archive/Attack_MCO-DXP_v1.6.0.6.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2041)
+### Valid (2040)
 *  [_Fuse00DreadlocksHair.rar](https://www.patreon.com/file?h=62876423&i=10119123)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -1218,7 +1219,6 @@
 *  [MaxsuBlockOverhaul-v0.21a.7z](https://github.com/max-su-2019/MaxuBlockOverhaul/releases/download/v0.21a/MaxsuBlockOverhaul-v0.21a.7z)
 *  [MCM Helper SE-53000-1-3-0-1629918598.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53000/?tab=files&file_id=223746)
 *  [MCM Recorder-61719-1-0-7-1642847171.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61719/?tab=files&file_id=258619)
-*  [MCO Attack+MCO-DXP+v1.6.0.6.zip](https://modding-guild.com/archive/Attack_MCO-DXP_v1.6.0.6.zip)
 *  [MCO Universal Support-85491-1-0-1676987105.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85491/?tab=files&file_id=362012)
 *  [Meats Meals and More - Mihail Pigeons-96718-2-0-1695159683.7z](https://www.nexusmods.com/skyrimspecialedition/mods/96718/?tab=files&file_id=427447)
 *  [Meats Meals and More - SHO Patch-96718-2-0-1695156944.7z](https://www.nexusmods.com/skyrimspecialedition/mods/96718/?tab=files&file_id=427431)
