@@ -1,8 +1,8 @@
 {
   "MachineURL": "Zediious/thephoenixflavor_zedsprinkles",
   "Name": "The Phoenix Flavor - Zediious Sprinkles",
-  "Version": "0.9.6",
-  "ModListHash": "mlGmvQTUyzk=",
+  "Version": "0.9.6.1",
+  "ModListHash": "EB+2LUpVQpA=",
   "Archives": [
     {
       "Status": "Valid",
@@ -6188,16 +6188,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
-        "Hash": "ZN5oAB3lQn0=",
-        "Meta": "[General]\ndirectURL=https://www.modding-guild.com/archive/Dodge_MCO-DXP_v2.1.19.zip",
-        "Name": "Dodge_MCO-DXP_v2.1.19.zip",
-        "Size": 4888745,
+        "Hash": "FU0a38Y3ihM=",
+        "Meta": "[General]\ndirectURL=https://www.distaranimation.com/s/Dodge-MCO-DXP-v2121.zip",
+        "Name": "Dodge\u002BMCO-DXP\u002Bv2.1.21.zip",
+        "Size": 4833280,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://www.modding-guild.com/archive/Dodge_MCO-DXP_v2.1.19.zip"
+          "Url": "https://www.distaranimation.com/s/Dodge-MCO-DXP-v2121.zip"
         }
       }
     },
@@ -21996,16 +21996,16 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "PRqYJxK7c1k=",
-        "Meta": "[General]\ndirectURL=https://www.modding-guild.com/archive/Attack_MCO-DXP_v1.6.0.6.zip",
-        "Name": "Attack_MCO-DXP_v1.6.0.6.zip",
+        "Meta": "[General]\ndirectURL=https://www.distaranimation.com/s/Attack-MCO-DXP-v1606.zip",
+        "Name": "Attack\u002BMCO-DXP\u002Bv1.6.0.6.zip",
         "Size": 3122528,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://www.modding-guild.com/archive/Attack_MCO-DXP_v1.6.0.6.zip"
+          "Url": "https://www.distaranimation.com/s/Attack-MCO-DXP-v1606.zip"
         }
       }
     },
@@ -45386,48 +45386,64 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "z4pU6N/+53E=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures1.bsa",
-        "Name": "Data_Skyrim - Textures1.bsa",
-        "Size": 1511492648,
+        "Hash": "fp4BTncCnmU=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Meshes0.bsa",
+        "Name": "Data_Skyrim - Meshes0.bsa",
+        "Size": 1153126177,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures1.bsa",
+          "GameFile": "Data\\Skyrim - Meshes0.bsa",
           "GameVersion": "1.6.1170.0",
-          "Hash": "z4pU6N/+53E="
+          "Hash": "fp4BTncCnmU="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VTFw7kmYtLs=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse025-advdsgs.bsa",
-        "Name": "Data_ccbgssse025-advdsgs.bsa",
-        "Size": 1092876237,
+        "Hash": "qfqjD1dP9SI=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Animations.bsa",
+        "Name": "Data_Skyrim - Animations.bsa",
+        "Size": 65155583,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse025-advdsgs.bsa",
+          "GameFile": "Data\\Skyrim - Animations.bsa",
           "GameVersion": "1.6.1170.0",
-          "Hash": "VTFw7kmYtLs="
+          "Hash": "qfqjD1dP9SI="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "pS/6jcnFx1I=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures0.bsa",
-        "Name": "Data_Skyrim - Textures0.bsa",
-        "Size": 652490581,
+        "Hash": "C/gkYlWw68k=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures5.bsa",
+        "Name": "Data_Skyrim - Textures5.bsa",
+        "Size": 813639992,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures0.bsa",
+          "GameFile": "Data\\Skyrim - Textures5.bsa",
           "GameVersion": "1.6.1170.0",
-          "Hash": "pS/6jcnFx1I="
+          "Hash": "C/gkYlWw68k="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CZK5rVHMnio=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures6.bsa",
+        "Name": "Data_Skyrim - Textures6.bsa",
+        "Size": 97210200,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures6.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "CZK5rVHMnio="
         }
       }
     },
@@ -45482,6 +45498,54 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "z4pU6N/+53E=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures1.bsa",
+        "Name": "Data_Skyrim - Textures1.bsa",
+        "Size": 1511492648,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures1.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "z4pU6N/+53E="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VTFw7kmYtLs=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse025-advdsgs.bsa",
+        "Name": "Data_ccbgssse025-advdsgs.bsa",
+        "Size": 1092876237,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse025-advdsgs.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "VTFw7kmYtLs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pS/6jcnFx1I=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures0.bsa",
+        "Name": "Data_Skyrim - Textures0.bsa",
+        "Size": 652490581,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures0.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "pS/6jcnFx1I="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "DG3YZQj7xwk=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse037-curios.bsa",
         "Name": "Data_ccbgssse037-curios.bsa",
@@ -45514,64 +45578,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "C/gkYlWw68k=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures5.bsa",
-        "Name": "Data_Skyrim - Textures5.bsa",
-        "Size": 813639992,
+        "Hash": "mjtVnmYOLhw=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccqdrsse001-survivalmode.bsa",
+        "Name": "Data_ccqdrsse001-survivalmode.bsa",
+        "Size": 12835601,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures5.bsa",
+          "GameFile": "Data\\ccqdrsse001-survivalmode.bsa",
           "GameVersion": "1.6.1170.0",
-          "Hash": "C/gkYlWw68k="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "CZK5rVHMnio=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures6.bsa",
-        "Name": "Data_Skyrim - Textures6.bsa",
-        "Size": 97210200,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures6.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "CZK5rVHMnio="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fp4BTncCnmU=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Meshes0.bsa",
-        "Name": "Data_Skyrim - Meshes0.bsa",
-        "Size": 1153126177,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Meshes0.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "fp4BTncCnmU="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "qfqjD1dP9SI=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Animations.bsa",
-        "Name": "Data_Skyrim - Animations.bsa",
-        "Size": 65155583,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Animations.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "qfqjD1dP9SI="
+          "Hash": "mjtVnmYOLhw="
         }
       }
     },
@@ -45590,26 +45606,10 @@
           "Hash": "JmZV55G6Udg="
         }
       }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "mjtVnmYOLhw=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccqdrsse001-survivalmode.bsa",
-        "Name": "Data_ccqdrsse001-survivalmode.bsa",
-        "Size": 12835601,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccqdrsse001-survivalmode.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "mjtVnmYOLhw="
-        }
-      }
     }
   ],
-  "Status": "Failed",
-  "Failures": 2,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Zediious/7343b1ad592a5c13_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Zediious/7343b1ad592a5c13_large.webp"
 }
