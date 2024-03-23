@@ -587,7 +587,7 @@
 *  [ENB Helper SE 2.2 for 1.6.629 and up-23174-2-2-0-1665131787.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23174/?tab=files&file_id=322175)
 *  [ENB Light 0.98 Alpha 2-22574-0-98Alpha2-1577144667.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=117211)
 *  [ENB Particle Lights for Gemstones-57672-1-3-1658432693.rar](https://www.nexusmods.com/skyrimspecialedition/mods/57672/?tab=files&file_id=300935)
-*  [enbseries_skyrimse_v0499(caco6).zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0499(caco6).zip_448d75b4-3186-4222-a92e-18c18ceccb53)
+*  [enbseries_skyrimse_v0499(caco)7.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0499(caco)7.zip_83a00357-4fe6-421c-ae3a-87a96384ae5e)
 *  [Encounter Zones Unlocked AE-19608-1-5-4-1663528547.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19608/?tab=files&file_id=317381)
 *  [Enderal Music for Skyrim Forgotten Stories With Vanilla Music - Recommended-16243-2-1-1570389468.zip](https://www.nexusmods.com/skyrimspecialedition/mods/16243/?tab=files&file_id=109482)
 *  [Enhanced Blood Textures-2357-4-0-1639547261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=249235)
