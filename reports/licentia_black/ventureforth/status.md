@@ -35,7 +35,7 @@
 *  [Root Builder 5.0.3-31720-5-0-3-1702039758.zip](https://www.nexusmods.com/skyrimspecialedition/mods/31720/?tab=files&file_id=449792)
 *  [SBBF(L) TAWOBA (Bikini Armors) Main-4867-1-2-1705626352.zip](https://www.nexusmods.com/baldursgate3/mods/4867/?tab=files&file_id=40632)
 *  [SBBF(L) Vanilla Outfits Patch Main-5040-1-1-1706848826.zip](https://www.nexusmods.com/baldursgate3/mods/5040/?tab=files&file_id=42786)
-*  [Scantily Camp Outfit - Manager-2617-2-0-35-1-1711497819.zip](https://www.nexusmods.com/baldursgate3/mods/2617/?tab=files&file_id=51561)
+*  [Scantily Camp Outfit - Manager-2617-2-0-36-3-1711759932.zip](https://www.nexusmods.com/baldursgate3/mods/2617/?tab=files&file_id=51906)
 *  [Scantily Outfit Separator-6643-1-4-0-1711418365.zip](https://www.nexusmods.com/baldursgate3/mods/6643/?tab=files&file_id=51470)
 *  [Silver's Hair Pack 2-7160-1-3-1711670373.zip](https://www.nexusmods.com/baldursgate3/mods/7160/?tab=files&file_id=51731)
 *  [Simple Erections-6173-v3-14-1710902670.zip](https://www.nexusmods.com/baldursgate3/mods/6173/?tab=files&file_id=50743)
