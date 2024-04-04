@@ -1,11 +1,10 @@
 ## Validation Report - Tahrovin - Grit (TahrovinGrit/tahrovingrit)
 
 
-### Invalid (1)
-*  [Creature Framework 1.1.0-pre2A-SE.7z](https://www.loverslab.com/files/file/5462-creature-framework-se/?do=download&r=678576&confirm=1&t=1)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (854)
+### Valid (855)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [.Deadly Spell Impacts 4K-74526-1-0-1662133724.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74526/?tab=files&file_id=312550)
 *  [(2) Sharkish Piercings - 3BA - Base-57131-1-01-1634464044.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235340)
@@ -169,6 +168,7 @@
 *  [Cozy Taverns and Followers-30118-3-7-5-1614744730.zip](https://www.nexusmods.com/skyrimspecialedition/mods/30118/?tab=files&file_id=189083)
 *  [CrashLogger-59818-1-12-0-1702635902.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59818/?tab=files&file_id=452039)
 *  [CRB Auri Lenka Replacer SE CBBE-29345-1-1-1571434811.zip](https://www.nexusmods.com/skyrimspecialedition/mods/29345/?tab=files&file_id=110733)
+*  [Creature Framework 1.1.0-pre2A-SE.7z](https://www.loverslab.com/files/file/5462-creature-framework-se/)
 *  [Custom Cubemaps by fadingsignal v1.1-58817-1-1-1637746857.rar](https://www.nexusmods.com/skyrimspecialedition/mods/58817/?tab=files&file_id=244024)
 *  [Cuyima Interesting NPCs SE - Custom Hair-27330-1-1-1-1606572302.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27330/?tab=files&file_id=171988)
 *  [Daedric Bitchs SE 1.0 - No Magic-30549-1-0-1574831205.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30549/?tab=files&file_id=114488)
