@@ -1338,7 +1338,7 @@
 *  [Silver Objects SMIMed-70787-0-4-1669391277.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70787/?tab=files&file_id=334527)
 *  [SimonRim - Black Book Companions Patch-86292-1-00-1678630583.7z](https://www.nexusmods.com/skyrimspecialedition/mods/86292/?tab=files&file_id=367875)
 *  [Simonrim Attack Speed Fix-30191-1-0-0-1674102606.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=350926)
-*  [Simple Dual Sheath for 1.5.39 - 1.6.353-50049-1-5-7-1702208576.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=450439)
+*  [Simple Dual Sheath for 1.5.39 - 1.6.353-50049-1-5-6-1678254900.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=366481)
 *  [Simple Fishing Overhaul - FLM Addon-104569-1-1-1699806798.7z](https://www.nexusmods.com/skyrimspecialedition/mods/104569/?tab=files&file_id=442081)
 *  [Simple Fishing Overhaul-103440-1-2-1703162004.rar](https://www.nexusmods.com/skyrimspecialedition/mods/103440/?tab=files&file_id=453831)
 *  [Simple Home Improvements AIO (Proudspire 2 Beds)-37236-2-3-1694346409.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37236/?tab=files&file_id=424658)
