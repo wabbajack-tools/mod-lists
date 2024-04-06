@@ -1,11 +1,10 @@
 ## Validation Report - Path of the Dovahkiin (wj-featured/potd)
 
 
-### Invalid (1)
-*  [xEdit_4.0.3g.7z](https://cdn.discordapp.com/attachments/518048160526893057/832281169717362738/xEdit_4.0.3g.7z)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (523)
+### Valid (519)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
 *  [(3)Barbarian Bodypaints - Male-31826-1-0-1579138821.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119968)
@@ -48,7 +47,6 @@
 *  [Assorted mesh fixes-32117-0-22-1626526295.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=215065)
 *  [Astral Aspect - 4K - 2.0-18098-2-0-1626523748.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18098/?tab=files&file_id=215061)
 *  [Atlas Map Markers-24104-2-0-1552327706.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24104/?tab=files&file_id=84605)
-*  [Automation Tools r6c-49373-1-5c.zip](https://www.nexusmods.com/skyrim/mods/49373/?tab=files&file_id=1000129948)
 *  [Azurite Weathers-42731-1-72-1627777624.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42731/?tab=files&file_id=217991)
 *  [Banners Fix-19400-1-3-1-1553716706.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19400/?tab=files&file_id=86525)
 *  [Bard Instrumentals Mostly - Sing Rarely-10927-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10927/?tab=files&file_id=29425)
@@ -100,8 +98,6 @@
 *  [Critters Aint Snitches v1.0 SSE-15134-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/15134/?tab=files&file_id=45421)
 *  [Culminated ENB for Azurite Weathers V2.1-53167-2-1-1628298105.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53167/?tab=files&file_id=219380)
 *  [d3dcompiler_47-31963-1-0-1579609721.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31963/?tab=files&file_id=120677)
-*  [DarkFaceIssueReporter-42133-2-8-1605654107.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42133/?tab=files&file_id=170508)
-*  [DarkFaceIssueReporterIgnore-42133-2-8-1605654516.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42133/?tab=files&file_id=170509)
 *  Data_ccbgssse001-fish.bsa
 *  Data_ccbgssse037-curios.bsa
 *  Data_Dawnguard.esm
@@ -297,7 +293,6 @@
 *  [Move it Dammit - for Skyrim Special Edition v1.1 (Installation Script)-752-1-1-0b.7z](https://www.nexusmods.com/skyrimspecialedition/mods/752/?tab=files&file_id=10772)
 *  [Mundus - A Standing Stone Overhaul-33411-1-6-2-1629128778.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33411/?tab=files&file_id=221640)
 *  [Music - HQ-18115-0-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18115/?tab=files&file_id=57834)
-*  [MXPF-a-68617-v1-1-0.zip](https://www.nexusmods.com/skyrim/mods/68617/?tab=files&file_id=1000194968)
 *  [Mysticism - A Magic Overhaul-27839-1-2-1-1629349404.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27839/?tab=files&file_id=222189)
 *  [Mysticism - Path of Sorcery Patch-41886-1-2-4-1631691904.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41886/?tab=files&file_id=228513)
 *  [Mysticism - Vokrii Compatibility Patch-26176-3-2-0-1600008718.zip](https://www.nexusmods.com/skyrimspecialedition/mods/26176/?tab=files&file_id=160515)
@@ -448,7 +443,7 @@
 *  [SrtCrashFix_SSE v0.3 Beta-31146-0-3-Beta-1577231754.zip](https://www.nexusmods.com/skyrimspecialedition/mods/31146/?tab=files&file_id=117346)
 *  [SSE Display Tweaks-34705-0-4-15-1-1623522047.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34705/?tab=files&file_id=208797)
 *  [SSE Parallax Shader Fix v1.0 (BETA)-31963-1-0-1579609660.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31963/?tab=files&file_id=120676)
-*  [SSEEdit 4_0_3-164-4-0-3-1575326827.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164/?tab=files&file_id=115017)
+*  [SSEEdit 4.0.4-164-4-0-4-1636548642.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164/?tab=files&file_id=240322)
 *  [Stay At System Page-19832-1-5-0-1583022131.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19832/?tab=files&file_id=126538)
 *  steam_api64.dll
 *  [Stonehills - USSEP Water Remover-21788-1-0-1551368857.rar](https://www.nexusmods.com/skyrimspecialedition/mods/21788/?tab=files&file_id=83271)
