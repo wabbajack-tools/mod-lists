@@ -1,11 +1,10 @@
 ## Validation Report - Licentia DECK (licentia_black/licentia_deck)
 
 
-### Invalid (1)
-*  [REALORE SKIN ULTIMA - ERF patch.rar](https://www.loverslab.com/files/file/28632-futanari-textures-for-realore-skin-ultima/?do=download&r=1708149&confirm=1)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1294)
+### Valid (1293)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [(Recommended) REPLACER - Nyghtfall-39011-1-92-1634147177.zip](https://www.nexusmods.com/skyrimspecialedition/mods/39011/?tab=files&file_id=234610)
@@ -1286,7 +1285,6 @@
 *  [Xelzaz Follower Wyrmstooth Patch-62893-1-0-0-1661198775.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62893/?tab=files&file_id=309601)
 *  [Xenius Character Enhancement Complete-36985-v1-2-1591608608.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36985/?tab=files&file_id=144454)
 *  [Xenius Character Enhancement Update-36985-1-3-1682863838.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36985/?tab=files&file_id=383306)
-*  [xLODGen.101.7z](https://mega.nz/file/JIxhxJ4T#dAE7AfWXZBrmMtXPjO1xgMVexcUcbozVtL-R4v1JS9k)
 *  [Xp32 Maximum Skeleton lite-69583-1-2-1662491144.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69583/?tab=files&file_id=313833)
 *  [XP32 Maximum Skeleton Special Extended-1988-5-04-1692496318.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=418810)
 *  [XP32 Maximum Skeleton Special Extended-1988-5-05-1702078689.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=449968)
