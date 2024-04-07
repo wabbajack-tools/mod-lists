@@ -1,10 +1,10 @@
-## Validation Report - Fantastically Integrated Load-order For You (FILFY/FILFY)
+## Validation Report - FILFY (FILFY/FILFY)
 
 
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2839)
+### Valid (2821)
 *  [(2) Sharkish Piercings - 3BA - Base-57131-1-01-1634464044.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235340)
 *  [(ESL) Immersive World Encounters AddOn - High Poly Uniques-50999-V1-2-1633524791.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50999/?tab=files&file_id=233002)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
@@ -522,9 +522,6 @@
 *  [Creation Club Integration - Armours-29020-4-0-0a-1647327230.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29020/?tab=files&file_id=270275)
 *  [Creation Club Item Descriptions-106048-1-4-1701808715.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106048/?tab=files&file_id=449085)
 *  [Creation Club Open Helmets-70992-1-4-1705370311.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70992/?tab=files&file_id=461773)
-*  CreationKit.exe
-*  CreationKit.ini
-*  CreationKitPrefs.ini
 *  [Creature Size Variants SE-17736-1-07-1658890292.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17736/?tab=files&file_id=302522)
 *  [Crime Bounty Decay SE-25457-1-1-1673525259.rar](https://www.nexusmods.com/skyrimspecialedition/mods/25457/?tab=files&file_id=348839)
 *  [Crimson Ranger Armor SE 1.0-11091-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/11091/?tab=files&file_id=30017)
@@ -1116,7 +1113,6 @@
 *  [Flames of Coldharbour - Custom I4 Icons-104559-1-1-1702199971.zip](https://www.nexusmods.com/skyrimspecialedition/mods/104559/?tab=files&file_id=450390)
 *  [Flames of Coldharbour-85425-1-3-2-1708253765.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85425/?tab=files&file_id=472122)
 *  [FloatingDamageV2AE v2.0.3 for Skyrim 16629-14332-2-0-3-1673270107.7z](https://www.nexusmods.com/skyrimspecialedition/mods/14332/?tab=files&file_id=348061)
-*  flowchartx64.dll
 *  [Flute Animation Fix-69609-1-1-1691766482.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69609/?tab=files&file_id=416102)
 *  [Followers Salute Casually OAR-95093-1-0-1-1694316616.zip](https://www.nexusmods.com/skyrimspecialedition/mods/95093/?tab=files&file_id=424602)
 *  [Food and Drink Have Descriptions-107292-2-6-1708250045.7z](https://www.nexusmods.com/skyrimspecialedition/mods/107292/?tab=files&file_id=472096)
@@ -1877,15 +1873,12 @@
 *  [OWL Main FIle-49681-1-3-5-1657420599.zip](https://www.nexusmods.com/skyrimspecialedition/mods/49681/?tab=files&file_id=297691)
 *  [OWL Randomized Special Loot-49681-1-2-5-1621406024.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49681/?tab=files&file_id=204284)
 *  [OxygenMeter2 FOMOD SSE AE640 AE1170-64532-1-0-7-1708856967.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64532/?tab=files&file_id=474315)
-*  p4com64.dll
 *  [Paarthurnax - Quest Expansion-51711-1-12-1682859219.zip](https://www.nexusmods.com/skyrimspecialedition/mods/51711/?tab=files&file_id=383290)
 *  [Paintings Remade - Legacy of The Dragonborn-76823-0-2-1668877081.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76823/?tab=files&file_id=332991)
 *  [Paired Animation Improvements-99621-1-0-2-1706671876.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99621/?tab=files&file_id=466426)
 *  [PAN_LadyArkay CBBE SE-41438-1-01-1604279455.rar](https://www.nexusmods.com/skyrimspecialedition/mods/41438/?tab=files&file_id=168250)
 *  [PAN_LadyArkay SE-41438-1-0-1602853519.rar](https://www.nexusmods.com/skyrimspecialedition/mods/41438/?tab=files&file_id=165712)
 *  [PAPER-73849-2-2-4-1689759531.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73849/?tab=files&file_id=408512)
-*  Papyrus Compiler_PapyrusCompiler.exe
-*  Papyrus Compiler_ScriptCompile.bat
 *  [Papyrus Extender-22854-5-6-1-1690313666.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=410639)
 *  [Papyrus Ini Manipulator-65634-1-9-6-1708131973.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65634/?tab=files&file_id=471611)
 *  [Papyrus Tweaks 4.1.0-77779-4-1-0-1677126184.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77779/?tab=files&file_id=362490)
@@ -2327,7 +2320,6 @@
 *  [Skyrim's Paraglider - Tarhiel's Gale Requires Magicka-57987-0-0-1-1636165354.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57987/?tab=files&file_id=239297)
 *  [Skyrim's Paraglider Anniversary Edition-71123-1-10-0-1663665637.rar](https://www.nexusmods.com/skyrimspecialedition/mods/71123/?tab=files&file_id=317883)
 *  [SkyrimCharacterSheet-56069-1-1-4-1708629465.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56069/?tab=files&file_id=473589)
-*  SkyrimReservedAddOnIndexes.txt
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
 *  [SkyrimsParaglider-53256-1-5-0-1629830063.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53256/?tab=files&file_id=223502)
@@ -2565,16 +2557,6 @@
 *  [TMD The Rift Leaves 2K-111461-1-01-1707859846.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111461/?tab=files&file_id=470540)
 *  [To Your Face AE-24720-1-0s-1665944678.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24720/?tab=files&file_id=324533)
 *  [Toggle UI v3.6.0-112819-3-6-0-1711453537.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112819/?tab=files&file_id=484284)
-*  Tools_Archive_Archive.exe
-*  Tools_Audio_xwmaencode.exe
-*  Tools_Elric_xg.dll
-*  Tools_Elric_xtexconv.exe
-*  Tools_HavokBehaviorPostProcess_readme.txt
-*  Tools_HavokBehaviorPostProcess_UpgradeHavokBehavior.bat
-*  Tools_LipGen_LipFuzer_LIPFuzer.exe
-*  Tools_LipGen_LipFuzer_LIPFuzer.txt
-*  Tools_LipGen_LipGenerator_LipGenerator.exe
-*  Tools_RoboVoicer.exe
 *  [Torch Sprint Animation Fix-100312-1-0-1694342234.zip](https://www.nexusmods.com/skyrimspecialedition/mods/100312/?tab=files&file_id=424646)
 *  [Town Portal - Mysticism Consistency Patch-66269-1-1-3-1650832478.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66269/?tab=files&file_id=279449)
 *  [Town Portal-66269-1-1-3-1650832414.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66269/?tab=files&file_id=279448)
