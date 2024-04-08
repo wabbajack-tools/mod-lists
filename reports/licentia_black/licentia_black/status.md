@@ -140,7 +140,7 @@
 *  [BeastHHBB - Patches and Addons-38480-2-5-2-1685185626.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38480/?tab=files&file_id=392327)
 *  [BeastHHBB-38480-3-7-5-1685018914.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38480/?tab=files&file_id=391728)
 *  [BeastHHBB-38480-3-8-1707078488.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38480/?tab=files&file_id=467776)
-*  [Bethini Pie-631-4-10-1697490939.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1697490939/?tab=files&file_id=0)
+*  [Bethini Pie-631-4-10-1697490939.zip](https://www.nexusmods.com/site/mods/1697490939/?tab=files&file_id=0)
 *  [BethINI Standalone Version-4875-3-6-1-1651358897.zip](https://www.nexusmods.com/skyrimspecialedition/mods/4875/?tab=files&file_id=280690)
 *  [Better Combat Escape - NG-72901-1-0-1-1677848000.zip](https://www.nexusmods.com/skyrimspecialedition/mods/72901/?tab=files&file_id=365085)
 *  [Better Combat Escape - SSE V0.83-43936-v0-83-1609760346.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43936/?tab=files&file_id=177684)
