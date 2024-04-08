@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2821)
+### Valid (2822)
 *  [(2) Sharkish Piercings - 3BA - Base-57131-1-01-1634464044.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57131/?tab=files&file_id=235340)
 *  [(ESL) Immersive World Encounters AddOn - High Poly Uniques-50999-V1-2-1633524791.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50999/?tab=files&file_id=233002)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
@@ -723,7 +723,6 @@
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
 *  Data_MarketplaceTextures.bsa
-*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -1689,6 +1688,7 @@
 *  [Missives Quests Raise Disposition-61934-1-0-1642189245.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61934/?tab=files&file_id=256689)
 *  [Mitsuriou's Follower Bodies Overhaul-37765-7-0-5-1642951099.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37765/?tab=files&file_id=258911)
 *  [MMX452's Alternate Starts-57554-6-0-1-1711818289.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57554/?tab=files&file_id=485735)
+*  [MO2 Fix Game Registry Plugin-105997-1-0-0-1-1701466082.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105997/?tab=files&file_id=447908)
 *  [Mod.Organizer-2.5.0.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.0/Mod.Organizer-2.5.0.7z)
 *  [Modern Female Sitting Overhaul OAR - Randomized-85599-1-8-1701396962.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85599/?tab=files&file_id=447605)
 *  [Modular SMP Hairstyles-93608-1-02-1708381070.7z](https://www.nexusmods.com/skyrimspecialedition/mods/93608/?tab=files&file_id=472710)
@@ -2310,6 +2310,7 @@
 *  [Skyrim on Skooma-80975-69-5-1695207026.rar](https://www.nexusmods.com/skyrimspecialedition/mods/80975/?tab=files&file_id=427553)
 *  [Skyrim Priority SE AE-50129-3-4-0-1675213326.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50129/?tab=files&file_id=355110)
 *  [Skyrim SafeSave System Overhaul 2-70179-1-15-1658257855.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70179/?tab=files&file_id=300376)
+*  [Skyrim Script Extender (SKSE64)-30379-2-2-3-1665515370.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30379/?tab=files&file_id=323365)
 *  Skyrim_Default.ini
 *  Skyrim_SkyrimPrefs.ini
 *  Skyrim.ccc
