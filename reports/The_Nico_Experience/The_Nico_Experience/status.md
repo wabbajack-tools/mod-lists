@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1699)
+### Valid (1698)
 *  [- Skyrim 202X 9.0 to 9.7 Update-2347-9-7-1697703573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=435157)
 *  [-Skyrim 202X 9.0 - Architecture-2347-9-0-1664994366.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=321878)
 *  [-Skyrim 202X 9.0.1 - Other-2347-9-0-1-1665147913.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=322212)
@@ -700,7 +700,6 @@
 *  [Flaring Fire Salts - SE-66535-v1-0-1649977169.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66535/?tab=files&file_id=277173)
 *  [Floating Damage ver 0.4.5 for Skyrim 1597-14332-0-4-5-1574523917.7z](https://www.nexusmods.com/skyrimspecialedition/mods/14332/?tab=files&file_id=114185)
 *  flowchartx64.dll
-*  [Fluffworks - Animallica Patch-64445-2-0-1676254745.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64445/?tab=files&file_id=359285)
 *  [Fluffworks - CC Wild Horse Patch-64445-1-0-1648104622.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64445/?tab=files&file_id=272133)
 *  [Fluffworks Quality-56361-1-1f-1646241621.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56361/?tab=files&file_id=267650)
 *  [Fluffy Spiders - Fully fluffed version.-107949-1-2-1703910386.rar](https://www.nexusmods.com/skyrimspecialedition/mods/107949/?tab=files&file_id=456267)
