@@ -1,7 +1,8 @@
 ## Validation Report - FILFY (FILFY/FILFY)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Skyrim Upscaler - XeSS DLL.zip](https://raw.githubusercontent.com/intel/xess/main/bin/libxess.dll)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (2814)
@@ -1380,8 +1381,7 @@
 *  [Infinite Shouting Out of Combat-88819-1-0-1681001320.7z](https://www.nexusmods.com/skyrimspecialedition/mods/88819/?tab=files&file_id=376493)
 *  [Infinite Stamina Out of Combat-70134-1-1-1656001507.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70134/?tab=files&file_id=293449)
 *  [Infinity UI-74483-2-0-2-1710711915.rar](https://www.nexusmods.com/skyrimspecialedition/mods/74483/?tab=files&file_id=481661)
-*  [INI Settings-115534-1-0-1-1712613687.zip](https://www.nexusmods.com/skyrimspecialedition/mods/115534/?tab=files&file_id=488828)
-*  [INI Settings-115534-1-0-2-1712725043.zip](https://www.nexusmods.com/skyrimspecialedition/mods/115534/?tab=files&file_id=489185)
+*  [INI Settings-115534-1-1-1-1712760845.zip](https://www.nexusmods.com/skyrimspecialedition/mods/115534/?tab=files&file_id=489268)
 *  [INIGO_V2.4C SE-1461-2-4C.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1461/?tab=files&file_id=10496)
 *  [Inmortui - Undead SFX Replacer-94205-0-4-1696405664.zip](https://www.nexusmods.com/skyrimspecialedition/mods/94205/?tab=files&file_id=431071)
 *  [Innocence Lost - Quest Expansion-80974-1-01-1673945197.zip](https://www.nexusmods.com/skyrimspecialedition/mods/80974/?tab=files&file_id=350345)
@@ -2294,6 +2294,7 @@
 *  [Skyrim Priority SE AE-50129-3-4-0-1675213326.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50129/?tab=files&file_id=355110)
 *  [Skyrim SafeSave System Overhaul 2-70179-1-15-1658257855.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70179/?tab=files&file_id=300376)
 *  [Skyrim Script Extender (SKSE64)-30379-2-2-3-1665515370.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30379/?tab=files&file_id=323365)
+*  [Skyrim Upscaler - FSR DLL.zip](https://github.com/PureDark/FidelityFX-FSR2/releases/download/2.2.1/fsr2.2.1.zip)
 *  Skyrim_Default.ini
 *  Skyrim_SkyrimPrefs.ini
 *  Skyrim.ccc
