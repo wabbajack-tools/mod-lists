@@ -1382,7 +1382,7 @@
 *  [Sexlab Dangerously Nude_SE.7z](https://www.loverslab.com/files/file/13798-dangerously-nude_se/?do=download)
 *  [SexLab EagerNPCSERev2.7z](https://www.loverslab.com/files/file/7309-sexlab-eager-npcs-se-slen/?do=download&r=705476&confirm=1)
 *  [SexLab Solutions v3 - Revisited SE v1.1.5.7z](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/?do=download&r=799506&confirm=1)
-*  [SexLab Utility Plus v20240407.7z](https://www.loverslab.com/files/file/10316-osmelmc-mod-tweaks/?do=download&r=1909123&confirm=1)
+*  [SexLab Utility Plus v20230603.7z](https://www.loverslab.com/files/file/10316-osmelmc-mod-tweaks/?do=download&r=1658724&confirm=1)
 *  [SexLab-Separate-Orgasm 2023-01-16.7z](https://www.loverslab.com/files/file/5929-sexlab-separate-orgasm-se/?do=download&r=1489053&confirm=1)
 *  [SexLabFrameworkAE_v166b.7z](https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framework-v166b-01182024/?do=download&r=1837484&confirm=1)
 *  [Shadow Boost-73133-1-3-0-1674058869.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73133/?tab=files&file_id=350765)
