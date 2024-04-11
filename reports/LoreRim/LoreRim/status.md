@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3390)
+### Valid (3389)
 *  [- Skyrim 202X - 1K-68307-10-0-1-1710639844.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68307/?tab=files&file_id=481353)
 *  [(1) Community Overlays 1 - Main - UNP  2K-22487-1-0-1-1547247749.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77985)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -1934,7 +1934,7 @@
 *  [Mercenary Light Iron Armor-59897-1-0-6-1641199177.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59897/?tab=files&file_id=253574)
 *  [Merchant Guild Note Texture Replacement-491-.zip](https://www.nexusmods.com/skyrimspecialedition/mods/491/?tab=files&file_id=11732)
 *  [Meridia Shrine Dungeon ENB PARTICLE LIGHTS-114270-1-1710643457.zip](https://www.nexusmods.com/skyrimspecialedition/mods/114270/?tab=files&file_id=481357)
-*  [Mesh Patches for Lux and Lux Orbis - FOMOD-67266-1-7-1687699096.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67266/?tab=files&file_id=400886)
+*  [Mesh Patches for Lux and Lux Orbis - FOMOD-67266-1-7-1-1712712525.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67266/?tab=files&file_id=489152)
 *  [Metallurgy - Ingot Collision Fix-113992-1-0-0-1710401627.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113992/?tab=files&file_id=480396)
 *  [Metallurgy - Ingots Ore and Veins HD 2K (LOOSE)-30738-1-3-1595068703.rar](https://www.nexusmods.com/skyrimspecialedition/mods/30738/?tab=files&file_id=150956)
 *  [Metallurgy - Madness-113992-1-0-0-1710401756.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113992/?tab=files&file_id=480397)
@@ -2812,7 +2812,6 @@
 *  [Skyrim's Got Talent-50357-1-70-1706046902.rar](https://www.nexusmods.com/skyrimspecialedition/mods/50357/?tab=files&file_id=464240)
 *  [Skyrim's Paraglider - Tarhiel's Gale Requires Magicka-57987-0-0-1-1636165354.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57987/?tab=files&file_id=239297)
 *  [SkyrimCharacterSheet-56069-1-0-3-1671676478.zip](https://www.nexusmods.com/skyrimspecialedition/mods/56069/?tab=files&file_id=342675)
-*  SkyrimReservedAddOnIndexes.txt
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
 *  [SkyrimsParaglider-53256-1-5-0-1629830063.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53256/?tab=files&file_id=223502)
