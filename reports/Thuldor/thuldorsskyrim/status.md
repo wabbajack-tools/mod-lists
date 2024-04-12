@@ -2,7 +2,7 @@
 
 
 ### Invalid (1)
-*  [enbseries_skyrimse_v0499.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0499.zip_38257de4-178b-4c8c-b4df-8e167255a842)
+*  [enbseries_skyrimse_v0499.zip](https://build.wabbajack.org/authored_files/direct_link/enbseries_skyrimse_v0499.zip_685107dd-a7da-4cc1-ac81-1fc4f355d2d7)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (1569)
