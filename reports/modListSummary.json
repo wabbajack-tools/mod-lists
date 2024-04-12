@@ -240,14 +240,14 @@
   {
     "name": "Degenerate Dungeon",
     "machineURL": "wj-featured/degeneratedungeon",
-    "failed": 1,
-    "passed": 245,
+    "failed": 0,
+    "passed": 246,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/wj-featured/degeneratedungeon/status.json",
     "report": "reports/wj-featured/degeneratedungeon/status.md",
     "modlist_missing": false,
-    "has_failures": true,
+    "has_failures": false,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/1175f75b50753f6d_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/1175f75b50753f6d_large.webp"
   },
@@ -1038,8 +1038,8 @@
   {
     "name": "Just a Humble Warden",
     "machineURL": "HumbleWarden/humble_warden",
-    "failed": 1,
-    "passed": 335,
+    "failed": 3,
+    "passed": 333,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/HumbleWarden/humble_warden/status.json",
@@ -1636,5 +1636,19 @@
     "has_failures": false,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/FILFY/af8bd0f860213e65_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/FILFY/af8bd0f860213e65_large.webp"
+  },
+  {
+    "name": "Thuldor\u0027s Skyrim",
+    "machineURL": "Thuldor/thuldorsskyrim",
+    "failed": 1,
+    "passed": 1569,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/Thuldor/thuldorsskyrim/status.json",
+    "report": "reports/Thuldor/thuldorsskyrim/status.md",
+    "modlist_missing": false,
+    "has_failures": true,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Thuldor/d74c0a83d5e05e12_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Thuldor/d74c0a83d5e05e12_large.webp"
   }
 ]
