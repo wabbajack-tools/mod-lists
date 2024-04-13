@@ -45,6 +45,7 @@
     -   [Stay FROSTy - A Fallout 4 Experience](#stay-frosty---a-fallout-4-experience)
     -   [Ground Zero - A Fallout 4 Experience](#ground-zero---a-fallout-4-experience)
     -   [FUSION](#fusion)
+    -   [Fallout Anomaly](#fallout-anomaly)
     -   [(NSFW)Wasteland of Depravity(NSFW)](#nsfwwasteland-of-depravitynsfw)
     -   [(NSFW)Parabellum(NSFW)](#nsfwparabellumnsfw)
 -   [Enderal Special Edition](#enderal-special-edition)
@@ -618,6 +619,30 @@ Look elsewhere if you want:
 Please see [here](https://loadorderlibrary.com/lists/fusion-1) for a complete up to date list of all the mods FUSION has.
 
 This mod list is for you if you have never played Fallout 4 before and want the best vanilla experience you can get on PC. Or maybe you are a seasoned player looking to go back to basics? FUSION has you covered.
+
+---
+
+### [Fallout Anomaly](https://www.nexusmods.com/fallout4/mods/74075)
+
+Fallout Anomaly is a groundbreaking Fallout 4 modlist, the first of its kind guaranteed, seamlessly merging the Stalker series & Fallout 4 universe. It introduces Stalker-like elements into Fallout 4, such as harsh survival mechanics, dangerous mutants, and a gritty atmosphere, offering players a unique and unparalleled gaming experience.
+
+With our intensified Survival Package, featuring an arsenal of new weapons to collect, an extensive list of captivating quest mods, and a complete texture rework that revitalizes every aspect of your Fallout experience and explore several different ENBs to find the perfect graphical experience for you. All of this has been done without sacrificing any vanilla content or quests.
+
+Anomaly is an ever expanding mod list and will soon be moving into the 2024 0.5 version!
+
+**_Mods to get familiar with:_**
+
+- [Sim Settlement 2](https://www.nexusmods.com/fallout4/mods/47976)
+- [Feral Ghouls Expansion Pack](https://www.nexusmods.com/fallout4/mods/57181)
+- [The Bleachers - A Diamond City Story](https://www.nexusmods.com/fallout4/mods/40267)
+- [MAIM - Tarkov Health System](https://www.nexusmods.com/fallout4/mods/58964)
+- [Enjoy the Darkness](https://www.nexusmods.com/fallout4/mods/67336)
+
+**Find our full mod list [here](https://loadorderlibrary.com/lists/fallout-anomaly-049-50)**
+
+---
+
+
 
 ### (NSFW)Wasteland of Depravity(NSFW)
 
