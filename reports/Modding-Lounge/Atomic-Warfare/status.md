@@ -1,10 +1,11 @@
 ## Validation Report - Atomic Warfare (Modding-Lounge/Atomic-Warfare)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [enbseries_fallout4_v0496.zip](https://authored-files.wabbajack.org/enbseries_fallout4_v0496.zip_c2c3e7ce-8c8f-454f-9e33-07af7bb2f79a)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (414)
+### Valid (413)
 *  [.45 Auto Pistol hitman47101 anims-21142-1-2-1.zip](https://www.nexusmods.com/fallout4/mods/21142/?tab=files&file_id=87196)
 *  [.45 Auto Pistol Power Armor Footsteps Fix-43260-1-0-1580474317.7z](https://www.nexusmods.com/fallout4/mods/43260/?tab=files&file_id=175110)
 *  [1stPerson Fix for Pip-boy users.-63576-1-2-1661422672.rar](https://www.nexusmods.com/fallout4/mods/63576/?tab=files&file_id=248127)
@@ -145,7 +146,6 @@
 *  [Electrical Hobbyist's Club Fast Travel Fix-74716-1-00-1694628507.zip](https://www.nexusmods.com/fallout4/mods/74716/?tab=files&file_id=289573)
 *  [ENB Complex Parallax - Vanilla Landscape and Rubble - Main-69430-1-0-1678219579.zip](https://www.nexusmods.com/fallout4/mods/69430/?tab=files&file_id=269689)
 *  [ENB Complex Parallax - Vanilla Landscape and Rubble - Rocks-69430-1-0-1678217856.zip](https://www.nexusmods.com/fallout4/mods/69430/?tab=files&file_id=269683)
-*  [enbseries_fallout4_v0496.zip](https://authored-files.wabbajack.org/enbseries_fallout4_v0496.zip_c2c3e7ce-8c8f-454f-9e33-07af7bb2f79a)
 *  [Encounter Zone Recalculation-45674-1-0-1592086483.zip](https://www.nexusmods.com/fallout4/mods/45674/?tab=files&file_id=184238)
 *  [Enhanced Vanilla Armor and Clothing 2k-72546-1-2-1691287529.zip](https://www.nexusmods.com/fallout4/mods/72546/?tab=files&file_id=285666)
 *  [Escape Freeze-75216-v1-0-1696726436.7z](https://www.nexusmods.com/fallout4/mods/75216/?tab=files&file_id=291238)
