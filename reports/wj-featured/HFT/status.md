@@ -1,11 +1,10 @@
 ## Validation Report - Happy Fun Times (wj-featured/HFT)
 
 
-### Invalid (1)
-*  [[Melodic] All is Gold - CBBE 3BA.7z](https://drive.google.com/uc?id=1C5Jv4b-9KT-CmQwtgx4KWdnl3or-p4Ym&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1943)
+### Valid (1944)
 *  [  SLF Hair - Rough Hair - Lite 1K-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043824)
 *  [-BO- One Body Alpha-82943-1-03-1674079833.rar](https://www.nexusmods.com/skyrimspecialedition/mods/82943/?tab=files&file_id=350859)
 *  [-BO- One Body Soft-82943-1-01-1674079878.rar](https://www.nexusmods.com/skyrimspecialedition/mods/82943/?tab=files&file_id=350860)
@@ -42,6 +41,7 @@
 *  [[Christine] Street Kunoichi.7z](https://www.mediafire.com/file/qx5iwbokbmx0hrp/[Christine]+Street+Kunoichi.7z/file)
 *  [[Christine] Violet Sorceress Aphrodite CBBE SE fomod.7z](https://www.mediafire.com/file/gju4busg18b872f/%255BChristine%255D_Violet_Sorceress_Aphrodite_CBBE_SE_fomod.7z/)
 *  [[COCO] Accessories [SE] - CBBE - BHUNP.7z](https://www.mediafire.com/file/14kh9nmlj7ic70m/[COCO]+Accessories+[SE]+-+CBBE+-+BHUNP.7z/file)
+*  [[Melodic] All is Gold - CBBE 3BA.7z](https://drive.google.com/uc?id=1C5Jv4b-9KT-CmQwtgx4KWdnl3or-p4Ym&export=download)
 *  [[Melodic] Mistress Lilith CBBE (Physics - CBBE SMP - 3BA) fomod.7z](https://www.mediafire.com/file/ta679dq9dpe9pcz/%255BMelodic%255D_Mistress_Lilith_CBBE_%2528Physics_-_CBBE_SMP_-_3BA%2529_fomod.7z/file)
 *  [[NINI] Ancient Oasis [SE] - CBBE.7z](https://www.mediafire.com/file/zev9e7a04quok1t/%255BNINI%255D_Ancient_Oasis_%255BSE%255D_-_CBBE.7z/file)
 *  [[NINI] Camellia [SE] - CBBE.7z](https://www.mediafire.com/file/zxpc7hiwrhr45xx/%255BNINI%255D_Camellia_%255BSE%255D_-_CBBE.7z/file)
