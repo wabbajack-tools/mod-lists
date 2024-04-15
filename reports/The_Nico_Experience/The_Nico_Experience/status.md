@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1720)
+### Valid (1717)
 *  [- Skyrim 202X 9.0 to 9.7 Update-2347-9-7-1697703573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=435157)
 *  [-Skyrim 202X 9.0 - Architecture-2347-9-0-1664994366.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=321878)
 *  [-Skyrim 202X 9.0.1 - Other-2347-9-0-1-1665147913.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=322212)
@@ -360,7 +360,6 @@
 *  [Creation Kit Custom-23894-1-0-1553184339.rar](https://www.nexusmods.com/skyrimspecialedition/mods/23894/?tab=files&file_id=85718)
 *  CreationKit.exe
 *  CreationKit.ini
-*  CreationKitPrefs.ini
 *  [Crouch Sliding Main-39157-1-1597512428.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39157/?tab=files&file_id=155804)
 *  [Crows and Ravens (SE-AE)-98555-1-1692315713.rar](https://www.nexusmods.com/skyrimspecialedition/mods/98555/?tab=files&file_id=418076)
 *  [cthulhoids v2.1 (se-ae)-44764-2-1-1694965495.rar](https://www.nexusmods.com/skyrimspecialedition/mods/44764/?tab=files&file_id=426677)
@@ -1411,8 +1410,6 @@
 *  [Skyrim Sewers - Radiant Enabled 1.1-56025-1-1-1689106755.rar](https://www.nexusmods.com/skyrimspecialedition/mods/56025/?tab=files&file_id=406262)
 *  [Skyrim Sewers 4 Solitude Manhole Relocation-45181-1-1-1612273040.7z](https://www.nexusmods.com/skyrimspecialedition/mods/45181/?tab=files&file_id=183547)
 *  [Skyrim Sewers 415-9320-4-15-1549828167.rar](https://www.nexusmods.com/skyrimspecialedition/mods/9320/?tab=files&file_id=81323)
-*  [Skyrim Skill Uncapper v1.1 - Ordinator (Mod Managers)-11194-v1-1m.rar](https://www.nexusmods.com/skyrimspecialedition/mods/11194/?tab=files&file_id=59988)
-*  [Skyrim Skill Uncapper-8889-V1-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/8889/?tab=files&file_id=35541)
 *  [Skyrim Souls RE - Updated-27859-2-2-2-1627555490.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27859/?tab=files&file_id=217445)
 *  [Skyrim Underground - esm-131-4-6-1-1579955800.7z](https://www.nexusmods.com/skyrimspecialedition/mods/131/?tab=files&file_id=121096)
 *  [Skyrim Unlimited Rings and Amulets SSE-3057-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3057/?tab=files&file_id=4755)
