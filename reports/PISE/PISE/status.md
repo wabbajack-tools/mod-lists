@@ -1,4 +1,4 @@
-## Validation Report - Panda's Immersive SkyrimVR Experience (PISE/PISE)
+## Validation Report - Panda's Sovngarde (PISE/PISE)
 
 
 ### Invalid (0)
