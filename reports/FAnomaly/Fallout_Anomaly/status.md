@@ -1,11 +1,10 @@
 ## Validation Report - Fallout Anomaly (FAnomaly/Fallout_Anomaly)
 
 
-### Invalid (1)
-*  [MiscHairstyle1.6 by Atherisz.7z](https://www.mediafire.com/file/kfac38dni6d53rp/MiscHairstyle1.6_by_Atherisz.7z/file)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1080)
+### Valid (1081)
 *  [- FORTITUDE - Giant Enemies (35)-74465-3-0-1696442700.zip](https://www.nexusmods.com/fallout4/mods/74465/?tab=files&file_id=291011)
 *  [(BLUE) Talisman308URadio Replacer-37171-1-0-1548876607.rar](https://www.nexusmods.com/fallout4/mods/37171/?tab=files&file_id=151192)
 *  [01. 4estGimp - Caravan Shotgun Edit - Compacted-65022--91-1665544790.7z](https://www.nexusmods.com/fallout4/mods/65022/?tab=files&file_id=253185)
@@ -655,6 +654,7 @@
 *  [Minimal Minimap-78827-1-15-0-0-1712757011.zip](https://www.nexusmods.com/fallout4/mods/78827/?tab=files&file_id=309663)
 *  [Minutemen (Facials and We Are The Minutemen)-63359-1-1-1661200850.7z](https://www.nexusmods.com/fallout4/mods/63359/?tab=files&file_id=247836)
 *  [Minutemen Faces Overhaul-30563-1-0.7z](https://www.nexusmods.com/fallout4/mods/30563/?tab=files&file_id=124774)
+*  [MiscHairstyle1.6 by Atherisz.7z](https://www.mediafire.com/file/kfac38dni6d53rp/MiscHairstyle1.6_by_Atherisz.7z/file)
 *  [MK18 Armory Project Part Dos - Update-65872-1-0-0-1669231134.7z](https://www.nexusmods.com/fallout4/mods/65872/?tab=files&file_id=257931)
 *  [MK18 Armory Project-52424-0-69420-1623712335.zip](https://www.nexusmods.com/fallout4/mods/52424/?tab=files&file_id=210300)
 *  [MK18 CQBR - 2K-42000-1-0-5-1702644981.7z](https://www.nexusmods.com/fallout4/mods/42000/?tab=files&file_id=296786)
