@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (832)
+### Valid (836)
 *  [.22 Pistol Pack Munitions-77337-1-3-1704999830.zip](https://www.nexusmods.com/fallout4/mods/77337/?tab=files&file_id=299326)
 *  [.22 Pistol Pack Munitions-78619-2-0-0-1707769976.zip](https://www.nexusmods.com/fallout4/mods/78619/?tab=files&file_id=303361)
 *  [.30 Carbine Pistol-71955-1-2-1686431370.zip](https://www.nexusmods.com/fallout4/mods/71955/?tab=files&file_id=280069)
@@ -337,6 +337,8 @@
 *  Data_Video_STRENGTH.bk2
 *  [DC and West Coast Supermutants v1-49680-1-1611693200.rar](https://www.nexusmods.com/fallout4/mods/49680/?tab=files&file_id=200006)
 *  [DC Molerats-41671-1-0-1571761906.zip](https://www.nexusmods.com/fallout4/mods/41671/?tab=files&file_id=169275)
+*  [Default UI Size-56363-2-5-1712920137.zip](https://www.nexusmods.com/fallout4/mods/56363/?tab=files&file_id=309863)
+*  [Default UI Size-65677-2-1-1712920212.zip](https://www.nexusmods.com/fallout4/mods/65677/?tab=files&file_id=309866)
 *  [Diamond City Ambience ESL-39267-1-12-1674411777.zip](https://www.nexusmods.com/fallout4/mods/39267/?tab=files&file_id=264475)
 *  [Diamond City Billboards-71990-1-01-1686254002.zip](https://www.nexusmods.com/fallout4/mods/71990/?tab=files&file_id=279796)
 *  [Diamond City Radio Extended-56898-5-0-2-1696306775.7z](https://www.nexusmods.com/fallout4/mods/56898/?tab=files&file_id=290930)
@@ -430,6 +432,8 @@
 *  [Gauss Rifle Animations - Addon-76327-1-0-1701036533.7z](https://www.nexusmods.com/fallout4/mods/76327/?tab=files&file_id=295223)
 *  [Gauss Rifle Anims-76071-1-0-1699994776.7z](https://www.nexusmods.com/fallout4/mods/76071/?tab=files&file_id=294242)
 *  [GCBugFix Release 0.1-68681-0-1-1675995705.zip](https://www.nexusmods.com/fallout4/mods/68681/?tab=files&file_id=266866)
+*  GFSDK_GodraysLib.x64.dll
+*  GFSDK_SSAO_D3D11.win64.dll
 *  [Glock 86 - Plasma Pistol-36358-2-0-1576348033.rar](https://www.nexusmods.com/fallout4/mods/36358/?tab=files&file_id=172569)
 *  [Gloomy Glass-62518-1-1-1659125904.7z](https://www.nexusmods.com/fallout4/mods/62518/?tab=files&file_id=244979)
 *  [Goodneighbor Synthetic Facelift-73992-2-1692355037.7z](https://www.nexusmods.com/fallout4/mods/73992/?tab=files&file_id=287139)
