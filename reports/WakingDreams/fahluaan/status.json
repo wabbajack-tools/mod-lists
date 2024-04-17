@@ -2,7 +2,7 @@
   "MachineURL": "WakingDreams/fahluaan",
   "Name": "Fahluaan",
   "Version": "2.1.5",
-  "ModListHash": "NK5iH+sWo8o=",
+  "ModListHash": "U/Dlqn2F/D0=",
   "Archives": [
     {
       "Status": "Valid",
@@ -11496,16 +11496,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "r5x4QxHL1YM=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Scripts.zip",
-        "Name": "Data_Scripts.zip",
-        "Size": 13634796,
+        "Hash": "SuXOSJnRd3E=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=54061\nfileID=432771",
+        "Name": "Vanilla Script MicroOptimizations-54061-1-17-1696891566.zip",
+        "Size": 777438,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Scripts.zip",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "r5x4QxHL1YM="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Subhuman0100",
+          "Description": "Rewriting many of the vanilla game scripts with the goal of increasing efficiency.  Replacing slower \u0022convenience functions\u0022 with their faster native counterparts.    Re-ordering condition checks to implement \u0022fail fast fail early\u0022 approach.  Cacheing of often-used values.",
+          "FileID": 432771,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54061/54061-1629273233-1433404228.png",
+          "IsNSFW": false,
+          "ModID": 54061,
+          "Name": "Vanilla Script (micro)Optimizations",
+          "Version": "1.17"
         }
       }
     },
@@ -54354,27 +54359,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SuXOSJnRd3E=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=54061\nfileID=432771",
-        "Name": "Vanilla Script MicroOptimizations-54061-1-17-1696891566.zip",
-        "Size": 777438,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Subhuman0100",
-          "Description": "Rewriting many of the vanilla game scripts with the goal of increasing efficiency.  Replacing slower \u0022convenience functions\u0022 with their faster native counterparts.    Re-ordering condition checks to implement \u0022fail fast fail early\u0022 approach.  Cacheing of often-used values.",
-          "FileID": 432771,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/54061/54061-1629273233-1433404228.png",
-          "IsNSFW": false,
-          "ModID": 54061,
-          "Name": "Vanilla Script (micro)Optimizations",
-          "Version": "1.17"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "U0OZOu53as0=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=11849\nfileID=323587",
         "Name": "VIGILANT SE HiRes Pack v170b-11849-1-7-0b-1665612017.7z",
@@ -57777,180 +57761,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ia3REakZzbo=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse067-daedinv.bsa",
-        "Name": "Data_ccbgssse067-daedinv.bsa",
-        "Size": 386611908,
+        "Hash": "f+OVJlWp6cA=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Meshes1.bsa",
+        "Name": "Data_Skyrim - Meshes1.bsa",
+        "Size": 378762772,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse067-daedinv.bsa",
+          "GameFile": "Data\\Skyrim - Meshes1.bsa",
           "GameVersion": "1.6.1170.0",
-          "Hash": "ia3REakZzbo="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "VTFw7kmYtLs=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse025-advdsgs.bsa",
-        "Name": "Data_ccbgssse025-advdsgs.bsa",
-        "Size": 1092876237,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse025-advdsgs.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "VTFw7kmYtLs="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "pS/6jcnFx1I=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures0.bsa",
-        "Name": "Data_Skyrim - Textures0.bsa",
-        "Size": 652490581,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures0.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "pS/6jcnFx1I="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "lHKecWZdnlI=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse055-ba_orcishscaled.bsa",
-        "Name": "Data_ccbgssse055-ba_orcishscaled.bsa",
-        "Size": 43781890,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse055-ba_orcishscaled.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "lHKecWZdnlI="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "zy0DomDts78=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse064-ba_elven.bsa",
-        "Name": "Data_ccbgssse064-ba_elven.bsa",
-        "Size": 45841470,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse064-ba_elven.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "zy0DomDts78="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PG1IwuWeJ9w=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse056-ba_silver.bsa",
-        "Name": "Data_ccbgssse056-ba_silver.bsa",
-        "Size": 48153079,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse056-ba_silver.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "PG1IwuWeJ9w="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fp68gkAiUos=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=87926\nfileID=372571",
-        "Name": "Wolf Armors and Weapons Retexture SE-87926-1-0-1679931567.rar",
-        "Size": 310337036,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xavbio",
-          "Description": "Retextures the Wolf armor, Shield of Ysgramor, Wuuthradd, Amidianborn Book of Silence\u0027s skyforge weapons and Amidian Content addon\u0027s White wolf armor. Contains Cathedral armory patch.\n\nTextures only",
-          "FileID": 372571,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/87926/87926-1679930266-705243975.png",
-          "IsNSFW": false,
-          "ModID": 87926,
-          "Name": "Wolf Armors and Weapons Retexture SE",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7Ws20ZE6Zbw=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=105771\nfileID=449677",
-        "Name": "Unique Armors and Weapons Retexture SE-105771-1-0-1-1701992096.rar",
-        "Size": 869727092,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xavbio",
-          "Description": "This mod Retextures most unique Armors and weapons from Skyrim, including Daedric Artifacts, Staves, Ash Spawns, unique quest rewards, Creation Club content and more. Safe to install and/or remove mid-save.",
-          "FileID": 449677,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/105771/105771-1701185198-1166230209.png",
-          "IsNSFW": false,
-          "ModID": 105771,
-          "Name": "Unique Armors and Weapons Retexture SE",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "H7ZVt4h9w/4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=84607\nfileID=397580",
-        "Name": "Orcish Armors and Weapons Retexture SE-84607-1-1-1686690425.rar",
-        "Size": 466586603,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xavbio",
-          "Description": "This mod retextures the Orcish armor, Shield, weapons, Volendrung, CC Orcish Plate, CC Scaled Orcish, CC Orcish Crossbow, CC Headsman\u0027s Cleaver, cc orcish bolts and includes optional retextures for LOTD\u0027s Forgemaster\u0027s fingers and Oblivion Artifacts\u0027 Helm of Ferocity. Also includes a patch for Cathedral Armory. Based on AmidianBorn\u0027s Textures",
-          "FileID": 397580,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/84607/84607-1675984834-916279324.png",
-          "IsNSFW": false,
-          "ModID": 84607,
-          "Name": "Orcish Armors and Weapons Retexture SE",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "pOU0rMUYSPA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=98115\nfileID=416124",
-        "Name": "Guards and Stormcloaks Armors Retexture SE-98115-1-0-1691772506.rar",
-        "Size": 1093621552,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xavbio",
-          "Description": "Retextures all Guard armors, Guard shields, Stormcloak Officer Armor and CC Civil war Champions\u0027 Stormbear armor, shield and weapons. Optional retextures available for Helgen Reborn, Falskaar, Midwood Isle and Open Face Guard Helmets.\n\n\n\nOptional mesh replacers to add sleeves and pants to the guards and Stormcloak Officer sets.",
-          "FileID": 416124,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/98115/98115-1691771204-1838243877.png",
-          "IsNSFW": false,
-          "ModID": 98115,
-          "Name": "Guards and Stormcloaks Armors Retexture SE",
-          "Version": "1.0"
+          "Hash": "f+OVJlWp6cA="
         }
       }
     },
@@ -58511,32 +58331,58 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ZF2fYvOMjCQ=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse019-staffofsheogorath.bsa",
-        "Name": "Data_ccbgssse019-staffofsheogorath.bsa",
-        "Size": 11887694,
+        "Hash": "pOU0rMUYSPA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=98115\nfileID=416124",
+        "Name": "Guards and Stormcloaks Armors Retexture SE-98115-1-0-1691772506.rar",
+        "Size": 1093621552,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse019-staffofsheogorath.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "ZF2fYvOMjCQ="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xavbio",
+          "Description": "Retextures all Guard armors, Guard shields, Stormcloak Officer Armor and CC Civil war Champions\u0027 Stormbear armor, shield and weapons. Optional retextures available for Helgen Reborn, Falskaar, Midwood Isle and Open Face Guard Helmets.\n\n\n\nOptional mesh replacers to add sleeves and pants to the guards and Stormcloak Officer sets.",
+          "FileID": 416124,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/98115/98115-1691771204-1838243877.png",
+          "IsNSFW": false,
+          "ModID": 98115,
+          "Name": "Guards and Stormcloaks Armors Retexture SE",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "FC+yJIfHEZY=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse001-fish.bsa",
-        "Name": "Data_ccbgssse001-fish.bsa",
-        "Size": 377675522,
+        "Hash": "H5AHLqDr3dk=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=90711\nfileID=384939",
+        "Name": "Falmer Armors and Weapons Retexture SE-90711-1-0-1683300027.rar",
+        "Size": 461314898,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xavbio",
+          "Description": "This mod retextures the Falmer armor and shield, Falmer Heavy armor, Falmer weapons, Shellbug helmet and has optional consistency patches for immersive creatures and Legacy of the dragonborn.\n\nTextures only, safe to install and remove mid-save.",
+          "FileID": 384939,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/90711/90711-1683298888-1741099323.png",
+          "IsNSFW": false,
+          "ModID": 90711,
+          "Name": "Falmer Armors and Weapons Retexture SE",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ia3REakZzbo=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse067-daedinv.bsa",
+        "Name": "Data_ccbgssse067-daedinv.bsa",
+        "Size": 386611908,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse001-fish.bsa",
+          "GameFile": "Data\\ccbgssse067-daedinv.bsa",
           "GameVersion": "1.6.1170.0",
-          "Hash": "FC+yJIfHEZY="
+          "Hash": "ia3REakZzbo="
         }
       }
     },
@@ -58553,6 +58399,106 @@
           "GameFile": "Data\\ccasvsse001-almsivi.bsa",
           "GameVersion": "1.6.1170.0",
           "Hash": "zFjHt8eDapM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "biIvo7vENYs=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=86161\nfileID=367981",
+        "Name": "Kanjs - Atronachs SE Meshes-86161-1-2-1678648497.zip",
+        "Size": 14667224,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kanjs",
+          "Description": "Using RMI (Rigged Mesh Improvement), which is similar to SMIM (Static Mesh Improvement Mod), but for rigged meshes, Kanj\u0027s Atronachs have textures up to 4K; 16K for the flame atronach.",
+          "FileID": 367981,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/86161/86161-1679145346-72708857.png",
+          "IsNSFW": false,
+          "ModID": 86161,
+          "Name": "Kanjs - Atronachs - 1K up to 16K",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fp68gkAiUos=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=87926\nfileID=372571",
+        "Name": "Wolf Armors and Weapons Retexture SE-87926-1-0-1679931567.rar",
+        "Size": 310337036,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xavbio",
+          "Description": "Retextures the Wolf armor, Shield of Ysgramor, Wuuthradd, Amidianborn Book of Silence\u0027s skyforge weapons and Amidian Content addon\u0027s White wolf armor. Contains Cathedral armory patch.\n\nTextures only",
+          "FileID": 372571,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/87926/87926-1679930266-705243975.png",
+          "IsNSFW": false,
+          "ModID": 87926,
+          "Name": "Wolf Armors and Weapons Retexture SE",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7Ws20ZE6Zbw=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=105771\nfileID=449677",
+        "Name": "Unique Armors and Weapons Retexture SE-105771-1-0-1-1701992096.rar",
+        "Size": 869727092,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xavbio",
+          "Description": "This mod Retextures most unique Armors and weapons from Skyrim, including Daedric Artifacts, Staves, Ash Spawns, unique quest rewards, Creation Club content and more. Safe to install and/or remove mid-save.",
+          "FileID": 449677,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/105771/105771-1701185198-1166230209.png",
+          "IsNSFW": false,
+          "ModID": 105771,
+          "Name": "Unique Armors and Weapons Retexture SE",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "H7ZVt4h9w/4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=84607\nfileID=397580",
+        "Name": "Orcish Armors and Weapons Retexture SE-84607-1-1-1686690425.rar",
+        "Size": 466586603,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xavbio",
+          "Description": "This mod retextures the Orcish armor, Shield, weapons, Volendrung, CC Orcish Plate, CC Scaled Orcish, CC Orcish Crossbow, CC Headsman\u0027s Cleaver, cc orcish bolts and includes optional retextures for LOTD\u0027s Forgemaster\u0027s fingers and Oblivion Artifacts\u0027 Helm of Ferocity. Also includes a patch for Cathedral Armory. Based on AmidianBorn\u0027s Textures",
+          "FileID": 397580,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/84607/84607-1675984834-916279324.png",
+          "IsNSFW": false,
+          "ModID": 84607,
+          "Name": "Orcish Armors and Weapons Retexture SE",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FC+yJIfHEZY=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse001-fish.bsa",
+        "Name": "Data_ccbgssse001-fish.bsa",
+        "Size": 377675522,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse001-fish.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "FC+yJIfHEZY="
         }
       }
     },
@@ -58591,20 +58537,68 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Me0sjlSRROY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=96855\nfileID=411265",
-        "Name": "Vampire Armors and Weapons Retexture SE-96855-1-0-1690493003.rar",
-        "Size": 380859730,
+        "Hash": "lHKecWZdnlI=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse055-ba_orcishscaled.bsa",
+        "Name": "Data_ccbgssse055-ba_orcishscaled.bsa",
+        "Size": 43781890,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse055-ba_orcishscaled.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "lHKecWZdnlI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zy0DomDts78=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse064-ba_elven.bsa",
+        "Name": "Data_ccbgssse064-ba_elven.bsa",
+        "Size": 45841470,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse064-ba_elven.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "zy0DomDts78="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PG1IwuWeJ9w=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse056-ba_silver.bsa",
+        "Name": "Data_ccbgssse056-ba_silver.bsa",
+        "Size": 48153079,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse056-ba_silver.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "PG1IwuWeJ9w="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tm2awNMBe2s=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=68526\nfileID=296271",
+        "Name": "Unslaad Weapons and Armors Retexture SE-68526-2-0-1656982354.rar",
+        "Size": 1063736282,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xavbio",
-          "Description": "Retextures the Vampire Royal armor, all 3 color variants of the vampire armor, Valerica\u0027s unique armor and Harkon\u0027s Sword. Also contains an optional retexture for Yamanotaka\u0027s Volkihar Knight - Vampire Armor\u0027s 3 variants of the volkihar armor set.\n\nTextures only, safe to install or uninstall at any time",
-          "FileID": 411265,
+          "Author": "xavbio",
+          "Description": "This mod retextures most armors and weapons from the popular mod \u0022Unslaad\u0022 by Vicn. Most textures are doubled their original size.",
+          "FileID": 296271,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/96855/96855-1690491999-1844121175.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68526/68526-1656981726-1720011128.png",
           "IsNSFW": false,
-          "ModID": 96855,
-          "Name": "Vampire Armors and Weapons Retexture SE",
+          "ModID": 68526,
+          "Name": "Unslaad Weapons and Armors Retexture SE",
           "Version": "1.0"
         }
       }
@@ -58612,20 +58606,41 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "UH+eiwEPHYQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=95292\nfileID=404841",
-        "Name": "Ancient Falmer Armors and Weapons Retexture SE-95292-1-0-1688757038.rar",
-        "Size": 178372851,
+        "Hash": "QzShhrE8n8A=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=96204\nfileID=408876",
+        "Name": "Stalhrim Armors and Weapons Retexture SE-96204-1-1-1689866222.rar",
+        "Size": 914780078,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Xavbio",
-          "Description": "Retextures the Ancient Falmer armor, Auriel\u0027s Shield, bow, quivers and arrows. Also contains optional retextures for LOTD\u0027s ancient falmer weapons and Mihail\u0027s Undead snow elves.\n\nTextures only, can be installed or removed at any time.",
-          "FileID": 404841,
+          "Description": "Retextures all Stalhrim Armors and weapons, including Creation Club Items with support for popular mods such as Refrozen Stalhrim, Resurgence armory, Cathedral Armoury, Legacy of the dragonborn, Elsopa\u0027s Quivers redone SE, Leanwolf\u0027s Better-Shaped weapons, MANHUNTER69\u0027s Deathbrand Replacer, IronDusk33\u0027s Deathbrand Replacer and more.\n\nTextures o",
+          "FileID": 408876,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/95292/95292-1689028915-6038192.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/96204/96204-1689800490-1830415846.png",
           "IsNSFW": false,
-          "ModID": 95292,
-          "Name": "Ancient Falmer Armors and Weapons Retexture SE",
+          "ModID": 96204,
+          "Name": "Stalhrim Armors and Weapons Retexture SE",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YAygQvE8WUQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=91723\nfileID=390004",
+        "Name": "Nightingale Armor and Weapons Retexture SE-91723-1-0-1684545900.rar",
+        "Size": 102257516,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xavbio",
+          "Description": "This mod retextures the nightingale armor, blade and bow. Also contains a consistency path for the scabbard added by Leanwolf\u0027s better-shaped weapons SE and an optional mesh replacer to remove the cape from the nightingale armor",
+          "FileID": 390004,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/91723/91723-1684544368-253035352.png",
+          "IsNSFW": false,
+          "ModID": 91723,
+          "Name": "Nightingale Armor and Weapons Retexture SE",
           "Version": "1.0"
         }
       }
@@ -58654,21 +58669,243 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "H5AHLqDr3dk=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=90711\nfileID=384939",
-        "Name": "Falmer Armors and Weapons Retexture SE-90711-1-0-1683300027.rar",
-        "Size": 461314898,
+        "Hash": "y1bzYve4cOM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=111518\nfileID=471968",
+        "Name": "Spell Knight Armors Retexture SE-111518-1-1-0-1708212715.7z",
+        "Size": 165760829,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Xavbio",
-          "Description": "This mod retextures the Falmer armor and shield, Falmer Heavy armor, Falmer weapons, Shellbug helmet and has optional consistency patches for immersive creatures and Legacy of the dragonborn.\n\nTextures only, safe to install and remove mid-save.",
-          "FileID": 384939,
+          "Description": "Retextures all 3 variants of the Spell Knight sets",
+          "FileID": 471968,
           "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/90711/90711-1683298888-1741099323.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/111518/111518-1708213904-1095744489.png",
           "IsNSFW": false,
-          "ModID": 90711,
-          "Name": "Falmer Armors and Weapons Retexture SE",
+          "ModID": 111518,
+          "Name": "Spell Knight Armors Retexture SE",
+          "Version": "1.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2n/YiQnCRYQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=35382\nfileID=148078",
+        "Name": "aMidianBorn Book of Silence SE -- UNIQUE ITEMS-35382-1-9-1-1593496803.zip",
+        "Size": 144653134,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CaBaL - the AMB team",
+          "Description": "A large collection of high-resolution replacements for Skyrim textures, including many armors, weapons, creatures, and unique items.",
+          "FileID": 148078,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35382/102566-1588192569-84037837.jpeg",
+          "IsNSFW": false,
+          "ModID": 35382,
+          "Name": "aMidianBorn Book of Silence SE",
+          "Version": "1.9.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4Ct8Rrpxdh4=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=90153\nfileID=382414",
+        "Name": "Leather Armors Retexture SE-90153-1-0-1682608111.rar",
+        "Size": 568188714,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xavbio",
+          "Description": "Retextures the Leather armor, Fur armor, Hide armor and shield, Studded armor, Scaled and Scaled horn armor, CC Leather scout, CC Backpacks, CC Hide and fur brawler gloves. Optional mesh replacers to add pants to all these sets. Consistency patches available for multiple items from Legacy of the Dragonborn and Oblivion Artifacts Pack SE.",
+          "FileID": 382414,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/90153/90153-1682604947-2136980100.png",
+          "IsNSFW": false,
+          "ModID": 90153,
+          "Name": "Leather Armors Retexture SE",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QhyeiytCClo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=84978\nfileID=397583",
+        "Name": "Iron Armors and Weapons Retexture SE-84978-1-1-1686691114.rar",
+        "Size": 731091630,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xavbio",
+          "Description": "This mod retextures the Iron armor, shield and weapons, Headman\u0027s Axe, targe of the blooded, CC Iron plate and iron bolts with consistency patches for Amidianborn\u0027s content addon, Oblivion artifacts pack se, Falskaar, LOTD and Leanwolf\u0027s better shaped weapons. Patch for cathedral armory available. Based on Amidianborn\u0027s Textures",
+          "FileID": 397583,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/84978/84978-1676410451-206853334.png",
+          "IsNSFW": false,
+          "ModID": 84978,
+          "Name": "Iron Armors and Weapons Retexture SE",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "J0yLyPu2UUg=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=83654\nfileID=397569",
+        "Name": "Ebony Armors and Weapons Retexture SE-83654-1-21-1686689312.rar",
+        "Size": 915250739,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xavbio",
+          "Description": "This mod retextures the Ebony armor, Ebony Mail, Ebony Weapons , and Ebony Blade. Also contains optional retextures the gilded gold and silvered ebony sets from Amidianborn content addon and the Amelion Brussef armor, Chorrol knight armor and Hands of the atronach from Oblivion Artifacts. Armors based on Amidianborn, Weapons are based on vanilla",
+          "FileID": 397569,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/83654/83654-1677116576-2070991446.png",
+          "IsNSFW": false,
+          "ModID": 83654,
+          "Name": "Ebony Armors and Weapons Retexture SE",
+          "Version": "1.21"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MGj6VyAsJho=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Interface.bsa",
+        "Name": "Data_Skyrim - Interface.bsa",
+        "Size": 105799354,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Interface.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "MGj6VyAsJho="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "I80lCD16KCo=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=98561\nfileID=418220",
+        "Name": "Thieves Guild Armors Retexture SE-98561-1-0-1692362970.rar",
+        "Size": 366351577,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xavbio",
+          "Description": "Retextures the Thieves Guild armor, Guild master\u0027s armor, Linwe\u0027s armor/Blackguard armor, Karliah\u0027s armor, the vampire hood worn by Serana and the brown cowl worn by NPCs in the thieves guild. Also contains optional retextures for Bandolier - Bags and pouches classic and Oblivion Artifacts Pack SE.",
+          "FileID": 418220,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/98561/98561-1692317456-1209829630.png",
+          "IsNSFW": false,
+          "ModID": 98561,
+          "Name": "Thieves Guild Armors Retexture SE",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VTFw7kmYtLs=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse025-advdsgs.bsa",
+        "Name": "Data_ccbgssse025-advdsgs.bsa",
+        "Size": 1092876237,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse025-advdsgs.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "VTFw7kmYtLs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pS/6jcnFx1I=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures0.bsa",
+        "Name": "Data_Skyrim - Textures0.bsa",
+        "Size": 652490581,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures0.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "pS/6jcnFx1I="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dz/1Ir56hdY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=92161\nfileID=391867",
+        "Name": "Dawnguard Armors and Weapons Retexture SE-92161-1-0-1685045655.rar",
+        "Size": 226741775,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xavbio",
+          "Description": "Retextures all variants of the dawnguard armor, Dawnguard Waraxe, Warhammer and shield and Dawnguard Rune shield, Rune Axe and Rune Hammer. Also contains consistency patches for Dawnguard Arsenal SSE. Textures only, no meshes or plugins. Safe to install or uninstall at any time.",
+          "FileID": 391867,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/92161/92161-1685044772-83999143.png",
+          "IsNSFW": false,
+          "ModID": 92161,
+          "Name": "Dawnguard Armors and Weapons Retexture SE",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+i3PaQR2v/A=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse069-contest.bsa",
+        "Name": "Data_ccbgssse069-contest.bsa",
+        "Size": 42851238,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse069-contest.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "+i3PaQR2v/A="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sZvYkCPtHlU=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse058-ba_steel.bsa",
+        "Name": "Data_ccbgssse058-ba_steel.bsa",
+        "Size": 50766738,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse058-ba_steel.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "sZvYkCPtHlU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "G/rXqztUR/c=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse063-ba_ebony.bsa",
+        "Name": "Data_ccbgssse063-ba_ebony.bsa",
+        "Size": 47723055,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse063-ba_ebony.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "G/rXqztUR/c="
         }
       }
     },
@@ -58755,6 +58992,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "IkTxR3/EbsA=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=94859\nfileID=403122",
+        "Name": "Bonemold Armors and Weapons Retexture SE-94859-1-0-1688311557.rar",
+        "Size": 187272363,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xavbio",
+          "Description": "Retextures the Bonemold armor, Reinforced armor, Guard Armor, Shield, CC Curios\u0027 Bonemold bolts and contains an optional retexture for Beyond Skyrim Morrowind - Bonemold Weapon Pack. \n\nTextures only, no meshes or plugins. Safe to install and uninstall at any time. The bonemold armors and shield textures are based on Cabal\u0027s Amidianborn versions",
+          "FileID": 403122,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/94859/94859-1688310658-1171023805.png",
+          "IsNSFW": false,
+          "ModID": 94859,
+          "Name": "Bonemold Armors and Weapons Retexture SE",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jyJIcttL5P0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=86568\nfileID=366553",
+        "Name": "Blades Armors and Weapons Retexture SE-86568-1-0-1678283555.rar",
+        "Size": 252331557,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xavbio",
+          "Description": "This mod retextures the Blades armor set, shield and sword. Also contains optional retextures for LOTD\u0027s Dragonbane, Bolar\u0027s oathblade, Ancient Akaviri katana and 3 Akaviri guardian blades, Oblivion artifacts pack\u0027s Sunderblade, aegis of the apocalypse and Tower of the nine and Immersive creatures\u0027 Ancient Akaviri Armor. Textures only",
+          "FileID": 366553,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/86568/86568-1678247631-1246405119.png",
+          "IsNSFW": false,
+          "ModID": 86568,
+          "Name": "Blades Armors and Weapons Retexture SE",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "6ofM0SXgT9k=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=85445\nfileID=371690",
         "Name": "Steel Armors and Weapons Retexture SE-85445-1-1-1679678065.rar",
@@ -58818,6 +59097,64 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "ZF2fYvOMjCQ=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse019-staffofsheogorath.bsa",
+        "Name": "Data_ccbgssse019-staffofsheogorath.bsa",
+        "Size": 11887694,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse019-staffofsheogorath.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "ZF2fYvOMjCQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Me0sjlSRROY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=96855\nfileID=411265",
+        "Name": "Vampire Armors and Weapons Retexture SE-96855-1-0-1690493003.rar",
+        "Size": 380859730,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xavbio",
+          "Description": "Retextures the Vampire Royal armor, all 3 color variants of the vampire armor, Valerica\u0027s unique armor and Harkon\u0027s Sword. Also contains an optional retexture for Yamanotaka\u0027s Volkihar Knight - Vampire Armor\u0027s 3 variants of the volkihar armor set.\n\nTextures only, safe to install or uninstall at any time",
+          "FileID": 411265,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/96855/96855-1690491999-1844121175.png",
+          "IsNSFW": false,
+          "ModID": 96855,
+          "Name": "Vampire Armors and Weapons Retexture SE",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UH+eiwEPHYQ=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=95292\nfileID=404841",
+        "Name": "Ancient Falmer Armors and Weapons Retexture SE-95292-1-0-1688757038.rar",
+        "Size": 178372851,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Xavbio",
+          "Description": "Retextures the Ancient Falmer armor, Auriel\u0027s Shield, bow, quivers and arrows. Also contains optional retextures for LOTD\u0027s ancient falmer weapons and Mihail\u0027s Undead snow elves.\n\nTextures only, can be installed or removed at any time.",
+          "FileID": 404841,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/95292/95292-1689028915-6038192.png",
+          "IsNSFW": false,
+          "ModID": 95292,
+          "Name": "Ancient Falmer Armors and Weapons Retexture SE",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "WTkhRtcV1kw=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=94529\nfileID=401890",
         "Name": "Chitin Armors Retexture SE-94529-1-0-1687960117.rar",
@@ -58833,359 +59170,6 @@
           "ModID": 94529,
           "Name": "Chitin Armors Retexture SE",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "f+OVJlWp6cA=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Meshes1.bsa",
-        "Name": "Data_Skyrim - Meshes1.bsa",
-        "Size": 378762772,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Meshes1.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "f+OVJlWp6cA="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tm2awNMBe2s=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=68526\nfileID=296271",
-        "Name": "Unslaad Weapons and Armors Retexture SE-68526-2-0-1656982354.rar",
-        "Size": 1063736282,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "xavbio",
-          "Description": "This mod retextures most armors and weapons from the popular mod \u0022Unslaad\u0022 by Vicn. Most textures are doubled their original size.",
-          "FileID": 296271,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/68526/68526-1656981726-1720011128.png",
-          "IsNSFW": false,
-          "ModID": 68526,
-          "Name": "Unslaad Weapons and Armors Retexture SE",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QzShhrE8n8A=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=96204\nfileID=408876",
-        "Name": "Stalhrim Armors and Weapons Retexture SE-96204-1-1-1689866222.rar",
-        "Size": 914780078,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xavbio",
-          "Description": "Retextures all Stalhrim Armors and weapons, including Creation Club Items with support for popular mods such as Refrozen Stalhrim, Resurgence armory, Cathedral Armoury, Legacy of the dragonborn, Elsopa\u0027s Quivers redone SE, Leanwolf\u0027s Better-Shaped weapons, MANHUNTER69\u0027s Deathbrand Replacer, IronDusk33\u0027s Deathbrand Replacer and more.\n\nTextures o",
-          "FileID": 408876,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/96204/96204-1689800490-1830415846.png",
-          "IsNSFW": false,
-          "ModID": 96204,
-          "Name": "Stalhrim Armors and Weapons Retexture SE",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "YAygQvE8WUQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=91723\nfileID=390004",
-        "Name": "Nightingale Armor and Weapons Retexture SE-91723-1-0-1684545900.rar",
-        "Size": 102257516,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xavbio",
-          "Description": "This mod retextures the nightingale armor, blade and bow. Also contains a consistency path for the scabbard added by Leanwolf\u0027s better-shaped weapons SE and an optional mesh replacer to remove the cape from the nightingale armor",
-          "FileID": 390004,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/91723/91723-1684544368-253035352.png",
-          "IsNSFW": false,
-          "ModID": 91723,
-          "Name": "Nightingale Armor and Weapons Retexture SE",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "y1bzYve4cOM=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=111518\nfileID=471968",
-        "Name": "Spell Knight Armors Retexture SE-111518-1-1-0-1708212715.7z",
-        "Size": 165760829,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xavbio",
-          "Description": "Retextures all 3 variants of the Spell Knight sets",
-          "FileID": 471968,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/111518/111518-1708213904-1095744489.png",
-          "IsNSFW": false,
-          "ModID": 111518,
-          "Name": "Spell Knight Armors Retexture SE",
-          "Version": "1.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2n/YiQnCRYQ=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=35382\nfileID=148078",
-        "Name": "aMidianBorn Book of Silence SE -- UNIQUE ITEMS-35382-1-9-1-1593496803.zip",
-        "Size": 144653134,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CaBaL - the AMB team",
-          "Description": "A large collection of high-resolution replacements for Skyrim textures, including many armors, weapons, creatures, and unique items.",
-          "FileID": 148078,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/35382/102566-1588192569-84037837.jpeg",
-          "IsNSFW": false,
-          "ModID": 35382,
-          "Name": "aMidianBorn Book of Silence SE",
-          "Version": "1.9.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "IkTxR3/EbsA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=94859\nfileID=403122",
-        "Name": "Bonemold Armors and Weapons Retexture SE-94859-1-0-1688311557.rar",
-        "Size": 187272363,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xavbio",
-          "Description": "Retextures the Bonemold armor, Reinforced armor, Guard Armor, Shield, CC Curios\u0027 Bonemold bolts and contains an optional retexture for Beyond Skyrim Morrowind - Bonemold Weapon Pack. \n\nTextures only, no meshes or plugins. Safe to install and uninstall at any time. The bonemold armors and shield textures are based on Cabal\u0027s Amidianborn versions",
-          "FileID": 403122,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/94859/94859-1688310658-1171023805.png",
-          "IsNSFW": false,
-          "ModID": 94859,
-          "Name": "Bonemold Armors and Weapons Retexture SE",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "jyJIcttL5P0=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=86568\nfileID=366553",
-        "Name": "Blades Armors and Weapons Retexture SE-86568-1-0-1678283555.rar",
-        "Size": 252331557,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xavbio",
-          "Description": "This mod retextures the Blades armor set, shield and sword. Also contains optional retextures for LOTD\u0027s Dragonbane, Bolar\u0027s oathblade, Ancient Akaviri katana and 3 Akaviri guardian blades, Oblivion artifacts pack\u0027s Sunderblade, aegis of the apocalypse and Tower of the nine and Immersive creatures\u0027 Ancient Akaviri Armor. Textures only",
-          "FileID": 366553,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/86568/86568-1678247631-1246405119.png",
-          "IsNSFW": false,
-          "ModID": 86568,
-          "Name": "Blades Armors and Weapons Retexture SE",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "I80lCD16KCo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=98561\nfileID=418220",
-        "Name": "Thieves Guild Armors Retexture SE-98561-1-0-1692362970.rar",
-        "Size": 366351577,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xavbio",
-          "Description": "Retextures the Thieves Guild armor, Guild master\u0027s armor, Linwe\u0027s armor/Blackguard armor, Karliah\u0027s armor, the vampire hood worn by Serana and the brown cowl worn by NPCs in the thieves guild. Also contains optional retextures for Bandolier - Bags and pouches classic and Oblivion Artifacts Pack SE.",
-          "FileID": 418220,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/98561/98561-1692317456-1209829630.png",
-          "IsNSFW": false,
-          "ModID": 98561,
-          "Name": "Thieves Guild Armors Retexture SE",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4Ct8Rrpxdh4=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=90153\nfileID=382414",
-        "Name": "Leather Armors Retexture SE-90153-1-0-1682608111.rar",
-        "Size": 568188714,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xavbio",
-          "Description": "Retextures the Leather armor, Fur armor, Hide armor and shield, Studded armor, Scaled and Scaled horn armor, CC Leather scout, CC Backpacks, CC Hide and fur brawler gloves. Optional mesh replacers to add pants to all these sets. Consistency patches available for multiple items from Legacy of the Dragonborn and Oblivion Artifacts Pack SE.",
-          "FileID": 382414,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/90153/90153-1682604947-2136980100.png",
-          "IsNSFW": false,
-          "ModID": 90153,
-          "Name": "Leather Armors Retexture SE",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "QhyeiytCClo=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=84978\nfileID=397583",
-        "Name": "Iron Armors and Weapons Retexture SE-84978-1-1-1686691114.rar",
-        "Size": 731091630,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xavbio",
-          "Description": "This mod retextures the Iron armor, shield and weapons, Headman\u0027s Axe, targe of the blooded, CC Iron plate and iron bolts with consistency patches for Amidianborn\u0027s content addon, Oblivion artifacts pack se, Falskaar, LOTD and Leanwolf\u0027s better shaped weapons. Patch for cathedral armory available. Based on Amidianborn\u0027s Textures",
-          "FileID": 397583,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/84978/84978-1676410451-206853334.png",
-          "IsNSFW": false,
-          "ModID": 84978,
-          "Name": "Iron Armors and Weapons Retexture SE",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "J0yLyPu2UUg=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=83654\nfileID=397569",
-        "Name": "Ebony Armors and Weapons Retexture SE-83654-1-21-1686689312.rar",
-        "Size": 915250739,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xavbio",
-          "Description": "This mod retextures the Ebony armor, Ebony Mail, Ebony Weapons , and Ebony Blade. Also contains optional retextures the gilded gold and silvered ebony sets from Amidianborn content addon and the Amelion Brussef armor, Chorrol knight armor and Hands of the atronach from Oblivion Artifacts. Armors based on Amidianborn, Weapons are based on vanilla",
-          "FileID": 397569,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/83654/83654-1677116576-2070991446.png",
-          "IsNSFW": false,
-          "ModID": 83654,
-          "Name": "Ebony Armors and Weapons Retexture SE",
-          "Version": "1.21"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "biIvo7vENYs=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=86161\nfileID=367981",
-        "Name": "Kanjs - Atronachs SE Meshes-86161-1-2-1678648497.zip",
-        "Size": 14667224,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kanjs",
-          "Description": "Using RMI (Rigged Mesh Improvement), which is similar to SMIM (Static Mesh Improvement Mod), but for rigged meshes, Kanj\u0027s Atronachs have textures up to 4K; 16K for the flame atronach.",
-          "FileID": 367981,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/86161/86161-1679145346-72708857.png",
-          "IsNSFW": false,
-          "ModID": 86161,
-          "Name": "Kanjs - Atronachs - 1K up to 16K",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "MGj6VyAsJho=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Interface.bsa",
-        "Name": "Data_Skyrim - Interface.bsa",
-        "Size": 105799354,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Interface.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "MGj6VyAsJho="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "dz/1Ir56hdY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=92161\nfileID=391867",
-        "Name": "Dawnguard Armors and Weapons Retexture SE-92161-1-0-1685045655.rar",
-        "Size": 226741775,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xavbio",
-          "Description": "Retextures all variants of the dawnguard armor, Dawnguard Waraxe, Warhammer and shield and Dawnguard Rune shield, Rune Axe and Rune Hammer. Also contains consistency patches for Dawnguard Arsenal SSE. Textures only, no meshes or plugins. Safe to install or uninstall at any time.",
-          "FileID": 391867,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/92161/92161-1685044772-83999143.png",
-          "IsNSFW": false,
-          "ModID": 92161,
-          "Name": "Dawnguard Armors and Weapons Retexture SE",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+i3PaQR2v/A=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse069-contest.bsa",
-        "Name": "Data_ccbgssse069-contest.bsa",
-        "Size": 42851238,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse069-contest.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "+i3PaQR2v/A="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "sZvYkCPtHlU=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse058-ba_steel.bsa",
-        "Name": "Data_ccbgssse058-ba_steel.bsa",
-        "Size": 50766738,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse058-ba_steel.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "sZvYkCPtHlU="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "G/rXqztUR/c=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse063-ba_ebony.bsa",
-        "Name": "Data_ccbgssse063-ba_ebony.bsa",
-        "Size": 47723055,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse063-ba_ebony.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "G/rXqztUR/c="
         }
       }
     }
