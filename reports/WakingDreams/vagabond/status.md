@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4865)
+### Valid (4866)
 *  [_Fuse00_ArmorAemond_V1.1.rar](https://www.patreon.com/file?h=78472619&i=13158944)
 *  [_Fuse00_ArmorHighlander_CBBE.rar](https://www.patreon.com/file?h=79874952&i=13365775)
 *  [_Fuse00_ArmorHighlander_VanillaMale.rar](https://www.patreon.com/file?h=79874952&i=13365782)
@@ -47,7 +47,7 @@
 *  [(Update) HDT-SMP Einherjr Dress Patch for 3BA-112927-1-1-1709529306.rar](https://www.nexusmods.com/skyrimspecialedition/mods/112927/?tab=files&file_id=476830)
 *  [[Dint999] BDOR Hairs SSE 0.17.7z](https://drive.google.com/uc?id=1tpY3bDs-LR6rptf8oPUfraKs1CkxJJB3&export=download)
 *  [[dint999] BDOr Winter Mountain Guardian Spirit v1.1.7z](https://drive.google.com/uc?id=1siyc644OSI0Lz8PlM9lo3Gxf_VxQLlN5&export=download)
-*  [[Dint999] FacePartMod (SSE) v0.6b.7z](https://drive.google.com/uc?id=1RQl8ki73fgLnzBZn6EWjneuW4Dk8TUO_&export=download)
+*  [[Dint999] FacePartMod (SSE)  v0.6b.7z](https://drive.google.com/uc?id=1RQl8ki73fgLnzBZn6EWjneuW4Dk8TUO_&export=download)
 *  [[Dint999] HairPack02 SSE 1.11 (base).7z](https://drive.google.com/uc?id=1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ&export=download)
 *  [[full_inu] Armor Pack 02 SSE.7z](https://drive.google.com/uc?id=12Siwo7JsLw03mJBqXrhHkKOcqPmGPX9k&export=download)
 *  [[SE] BDOR Checkmate 3BA fix.7z](https://drive.google.com/uc?id=1iy9FT2kf8vq2g0aTOuFtlLNKiyUepfq9&export=download)
@@ -1067,6 +1067,7 @@
 *  [Darkstorm-77718-1-8-1677448861.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77718/?tab=files&file_id=363701)
 *  [Darkwater Crossing - TGV Addon Patch Collection-64382-1-3-1683869859.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64382/?tab=files&file_id=387217)
 *  [DarkWitchArmorOutfitForSpid-112263-1-1-1709163260.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112263/?tab=files&file_id=475526)
+*  Data_ccasvsse001-almsivi.bsa
 *  Data_ccbgssse001-fish.bsa
 *  Data_ccbgssse001-fish.esm
 *  Data_ccbgssse025-advdsgs.bsa
@@ -2040,6 +2041,7 @@
 *  [High Poly Dragonborn Ingredients Retextured 2K-71237-1-01-1657644662.rar](https://www.nexusmods.com/skyrimspecialedition/mods/71237/?tab=files&file_id=298421)
 *  [High Poly Gleamblossoms - ENB Light-40278-1-2-1626461597.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40278/?tab=files&file_id=214944)
 *  [High Poly Head ENB Brow Fix-63991-1-0-1645387936.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63991/?tab=files&file_id=265711)
+*  [High Poly Head v1.4 (SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  [High Poly Milk Jug - HD Textures-69466-1-0-1654889980.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69466/?tab=files&file_id=290262)
 *  [High Poly Milk Jug-69466-1-0-1654889947.7z](https://www.nexusmods.com/skyrimspecialedition/mods/69466/?tab=files&file_id=290260)
 *  [High Poly Project-12029-v5-3-1634909383.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=236420)
@@ -2050,7 +2052,6 @@
 *  [High Poly Wyrmstooth-54015-1-20-1665309697.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54015/?tab=files&file_id=322700)
 *  [High Quality Food And Ingredients SE-10897-1-9.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10897/?tab=files&file_id=30487)
 *  [High Quality Ivy-113578-1-3-1711834371.zip](https://www.nexusmods.com/skyrimspecialedition/mods/113578/?tab=files&file_id=485815)
-*  [High_Poly_Head_v1.4_(SE).zip](https://authored-files.wabbajack.org/High_Poly_Head_v1.4_(SE).zip_8ff93290-e8b8-45ed-979b-6c5f41f31a6b)
 *  High.ini
 *  [HIMBO - 4thUnknown's Dark Brotherhood Armor-57687-1-1-1635618371.rar](https://www.nexusmods.com/skyrimspecialedition/mods/57687/?tab=files&file_id=237982)
 *  [HIMBO - Ysmir Armor-112519-1-0-1708842407.zip](https://www.nexusmods.com/skyrimspecialedition/mods/112519/?tab=files&file_id=474279)
@@ -3132,7 +3133,7 @@
 *  [Old Gods of the Hunt (SE) 1.4.1 version-27520-1-4-1-1651832785.rar](https://www.nexusmods.com/skyrimspecialedition/mods/27520/?tab=files&file_id=281829)
 *  [Old Gods of the Hunt Sound Replacer.zip-27522-1-0-1563614723.zip](https://www.nexusmods.com/skyrimspecialedition/mods/27522/?tab=files&file_id=99910)
 *  [OldPeopleAIO-111436-1-1-1708269056.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111436/?tab=files&file_id=472193)
-*  [Olivier Kenjutsu Great Sword MCO v1.0.zip](https://drive.google.com/uc?id=1Idn2Y-_dTCoRtUrohb0zNS3Nea2CfheY&export=download)
+*  [Olivier Kenjutsu  Great Sword MCO v1.0.zip](https://drive.google.com/uc?id=1Idn2Y-_dTCoRtUrohb0zNS3Nea2CfheY&export=download)
 *  [Olivier Kenjutsu Sword MCO v1.0.zip](https://drive.google.com/uc?id=1DZMKj4B8FUeeAmhv7j3wA6yFQ2kg8w2w&export=download)
 *  [Ominous Shaman Armor 3BBB(3BA) bodyslides 2.0-64629-2-0-1646787134.rar](https://www.nexusmods.com/skyrimspecialedition/mods/64629/?tab=files&file_id=268973)
 *  [One Click Power Attack NG-60878-NG-v1-11-1679176229.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60878/?tab=files&file_id=369760)
