@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4866)
+### Valid (4865)
 *  [_Fuse00_ArmorAemond_V1.1.rar](https://www.patreon.com/file?h=78472619&i=13158944)
 *  [_Fuse00_ArmorHighlander_CBBE.rar](https://www.patreon.com/file?h=79874952&i=13365775)
 *  [_Fuse00_ArmorHighlander_VanillaMale.rar](https://www.patreon.com/file?h=79874952&i=13365782)
@@ -1067,7 +1067,6 @@
 *  [Darkstorm-77718-1-8-1677448861.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77718/?tab=files&file_id=363701)
 *  [Darkwater Crossing - TGV Addon Patch Collection-64382-1-3-1683869859.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64382/?tab=files&file_id=387217)
 *  [DarkWitchArmorOutfitForSpid-112263-1-1-1709163260.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112263/?tab=files&file_id=475526)
-*  Data_ccasvsse001-almsivi.bsa
 *  Data_ccbgssse001-fish.bsa
 *  Data_ccbgssse001-fish.esm
 *  Data_ccbgssse025-advdsgs.bsa
