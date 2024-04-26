@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (856)
+### Valid (831)
 *  [.22 Pistol Pack Munitions-77337-1-3-1704999830.zip](https://www.nexusmods.com/fallout4/mods/77337/?tab=files&file_id=299326)
 *  [.22 Pistol Pack Munitions-78619-2-0-0-1707769976.zip](https://www.nexusmods.com/fallout4/mods/78619/?tab=files&file_id=303361)
 *  [.30 Carbine Pistol-71955-1-2-1686431370.zip](https://www.nexusmods.com/fallout4/mods/71955/?tab=files&file_id=280069)
@@ -247,33 +247,8 @@
 *  [Dak's Assault Rifle Replacer Patch-61012-1-1-1654498349.zip](https://www.nexusmods.com/fallout4/mods/61012/?tab=files&file_id=239733)
 *  [DakGrenadeAPW - 1stP PA Footstep Fix-53679-1-0-1713705322.zip](https://www.nexusmods.com/fallout4/mods/53679/?tab=files&file_id=311278)
 *  [Daks Attachment Pack Patch-78727-1-0-1708031034.7z](https://www.nexusmods.com/fallout4/mods/78727/?tab=files&file_id=303723)
-*  Data_ccBGSFO4001-PipBoy(Black) - Main.ba2
 *  Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2
-*  Data_ccBGSFO4003-PipBoy(Camo01) - Main.ba2
-*  Data_ccBGSFO4003-PipBoy(Camo01) - Textures.ba2
-*  Data_ccBGSFO4004-PipBoy(Camo02) - Main.ba2
-*  Data_ccBGSFO4004-PipBoy(Camo02) - Textures.ba2
-*  Data_ccBGSFO4006-PipBoy(Chrome) - Main.ba2
-*  Data_ccBGSFO4006-PipBoy(Chrome) - Textures.ba2
-*  Data_ccBGSFO4016-Prey - Main.ba2
-*  Data_ccBGSFO4016-Prey - Textures.ba2
-*  Data_ccBGSFO4018-GaussRiflePrototype - Main.ba2
-*  Data_ccBGSFO4018-GaussRiflePrototype - Textures.ba2
-*  Data_ccBGSFO4019-ChineseStealthArmor - Main.ba2
-*  Data_ccBGSFO4019-ChineseStealthArmor - Textures.ba2
-*  Data_ccBGSFO4020-PowerArmorSkin(Black) - Main.ba2
-*  Data_ccBGSFO4020-PowerArmorSkin(Black) - Textures.ba2
-*  Data_ccBGSFO4038-HorseArmor - Main.ba2
-*  Data_ccBGSFO4038-HorseArmor - Textures.ba2
-*  Data_ccBGSFO4044-HellfirePowerArmor - Main.ba2
-*  Data_ccBGSFO4044-HellfirePowerArmor - Textures.ba2
 *  Data_ccBGSFO4046-TesCan - Textures.ba2
-*  Data_ccFRSFO4001-HandmadeShotgun - Main.ba2
-*  Data_ccFRSFO4001-HandmadeShotgun - Textures.ba2
-*  Data_ccFSVFO4001-ModularMilitaryBackpack - Main.ba2
-*  Data_ccFSVFO4001-ModularMilitaryBackpack - Textures.ba2
-*  Data_ccFSVFO4002-MidCenturyModern - Main.ba2
-*  Data_ccFSVFO4002-MidCenturyModern - Textures.ba2
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
 *  Data_DLCCoast - Textures.ba2
@@ -836,7 +811,7 @@
 *  [Vintage Shotgun-72122-1-4-1698870156.zip](https://www.nexusmods.com/fallout4/mods/72122/?tab=files&file_id=293137)
 *  [Wasteland Chaingun-76110-1-3-1701618590.zip](https://www.nexusmods.com/fallout4/mods/76110/?tab=files&file_id=295746)
 *  [Wasteland Legend's Trench Coat-26039-4.zip](https://www.nexusmods.com/fallout4/mods/26039/?tab=files&file_id=107989)
-*  [Wasteland Reborn Master Patch-79923-0-7-32b-1714099190.zip](https://www.nexusmods.com/fallout4/mods/79923/?tab=files&file_id=312280)
+*  [Wasteland Reborn Master Patch-79923-0-7-33b-1714150071.zip](https://www.nexusmods.com/fallout4/mods/79923/?tab=files&file_id=312383)
 *  [Wasteland Shotgun-76123-1-0-1700194434.7z](https://www.nexusmods.com/fallout4/mods/76123/?tab=files&file_id=294445)
 *  [Wattz Laser Gun - Unofficial Update Additions-80091-v1-1-1713238839.zip](https://www.nexusmods.com/fallout4/mods/80091/?tab=files&file_id=310359)
 *  [Wattz Laser Gun - Unofficial Update-58067-2-2-2-1689277166.zip](https://www.nexusmods.com/fallout4/mods/58067/?tab=files&file_id=283232)
