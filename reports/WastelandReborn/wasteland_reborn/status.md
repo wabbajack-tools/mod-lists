@@ -267,6 +267,7 @@
 *  Data_ccBGSFO4038-HorseArmor - Textures.ba2
 *  Data_ccBGSFO4044-HellfirePowerArmor - Main.ba2
 *  Data_ccBGSFO4044-HellfirePowerArmor - Textures.ba2
+*  Data_ccBGSFO4046-TesCan - Textures.ba2
 *  Data_ccFRSFO4001-HandmadeShotgun - Main.ba2
 *  Data_ccFRSFO4001-HandmadeShotgun - Textures.ba2
 *  Data_ccFSVFO4001-ModularMilitaryBackpack - Main.ba2
@@ -400,7 +401,7 @@
 *  Fallout4.exe
 *  Fallout4Launcher.exe
 *  [FallUI - Confirm Boxes-48958-2-2-3-1667318727.rar](https://www.nexusmods.com/fallout4/mods/48958/?tab=files&file_id=255391)
-*  [FallUI - HUD-51813-1-7-1-1668637124.rar](https://www.nexusmods.com/fallout4/mods/51813/?tab=files&file_id=257220)
+*  [FallUI - HUD-51813-1-6b-1654360309.rar](https://www.nexusmods.com/fallout4/mods/51813/?tab=files&file_id=239593)
 *  [FallUI - Icon Library-60579-1-0-1652975967.rar](https://www.nexusmods.com/fallout4/mods/60579/?tab=files&file_id=238079)
 *  [FallUI - Inventory-48758-2-2-1-1666954336.rar](https://www.nexusmods.com/fallout4/mods/48758/?tab=files&file_id=254844)
 *  [FallUI - Map-49920-2-1-1652891829.rar](https://www.nexusmods.com/fallout4/mods/49920/?tab=files&file_id=238011)
@@ -443,7 +444,6 @@
 *  [GCBugFix Release 0.1-68681-0-1-1675995705.zip](https://www.nexusmods.com/fallout4/mods/68681/?tab=files&file_id=266866)
 *  [GCM DLC Automatron-33759-4-0.zip](https://www.nexusmods.com/fallout4/mods/33759/?tab=files&file_id=137688)
 *  [GCM DLC Far Harbor-33759-0-6-1561641689.zip](https://www.nexusmods.com/fallout4/mods/33759/?tab=files&file_id=160697)
-*  GFSDK_GodraysLib.x64.dll
 *  GFSDK_SSAO_D3D11.win64.dll
 *  [Glock 86 - Plasma Pistol-36358-2-0-1576348033.rar](https://www.nexusmods.com/fallout4/mods/36358/?tab=files&file_id=172569)
 *  [Gloomy Glass-62518-1-1-1659125904.7z](https://www.nexusmods.com/fallout4/mods/62518/?tab=files&file_id=244979)
@@ -836,7 +836,7 @@
 *  [Vintage Shotgun-72122-1-4-1698870156.zip](https://www.nexusmods.com/fallout4/mods/72122/?tab=files&file_id=293137)
 *  [Wasteland Chaingun-76110-1-3-1701618590.zip](https://www.nexusmods.com/fallout4/mods/76110/?tab=files&file_id=295746)
 *  [Wasteland Legend's Trench Coat-26039-4.zip](https://www.nexusmods.com/fallout4/mods/26039/?tab=files&file_id=107989)
-*  [Wasteland Reborn Master Patch-79923-0-7-31b-1714005497.zip](https://www.nexusmods.com/fallout4/mods/79923/?tab=files&file_id=312045)
+*  [Wasteland Reborn Master Patch-79923-0-7-32b-1714099190.zip](https://www.nexusmods.com/fallout4/mods/79923/?tab=files&file_id=312280)
 *  [Wasteland Shotgun-76123-1-0-1700194434.7z](https://www.nexusmods.com/fallout4/mods/76123/?tab=files&file_id=294445)
 *  [Wattz Laser Gun - Unofficial Update Additions-80091-v1-1-1713238839.zip](https://www.nexusmods.com/fallout4/mods/80091/?tab=files&file_id=310359)
 *  [Wattz Laser Gun - Unofficial Update-58067-2-2-2-1689277166.zip](https://www.nexusmods.com/fallout4/mods/58067/?tab=files&file_id=283232)
@@ -857,7 +857,7 @@
 *  [YAE Damage Nerf Patch v2k-76739-v2k-1709317780.rar](https://www.nexusmods.com/fallout4/mods/76739/?tab=files&file_id=305351)
 *  [Yet Another Single Shotgun-56018-1-1-2-1684522501.rar](https://www.nexusmods.com/fallout4/mods/56018/?tab=files&file_id=277669)
 *  [YK42B (ESL)-37575-1-0-1551005407.zip](https://www.nexusmods.com/fallout4/mods/37575/?tab=files&file_id=152885)
-*  [You And What Army 2-78925-1-02-1712858208.zip](https://www.nexusmods.com/fallout4/mods/78925/?tab=files&file_id=309791)
+*  [You And What Army 2-78925-1-03-1714007712.zip](https://www.nexusmods.com/fallout4/mods/78925/?tab=files&file_id=312053)
 *  [You Are Exceptional Patch-75680-1-0-0-1708380211.7z](https://www.nexusmods.com/fallout4/mods/75680/?tab=files&file_id=304179)
 *  [You Are Exceptional v1.05k-76739-v1-05k-1712567888.rar](https://www.nexusmods.com/fallout4/mods/76739/?tab=files&file_id=309486)
 *  [Zap Gun-53998-1-4-1631891092.7z](https://www.nexusmods.com/fallout4/mods/53998/?tab=files&file_id=217146)

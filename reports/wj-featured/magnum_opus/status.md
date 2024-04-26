@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (939)
+### Valid (945)
 *  [0001. Weapon QuickSwap 3-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108861)
 *  [0002. FastPipboy-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=89711)
 *  [1.5 Loosefiles-50213-1-5-1664847287.7z](https://www.nexusmods.com/fallout4/mods/50213/?tab=files&file_id=252419)
@@ -120,7 +120,7 @@
 *  [Blocking Overhaul-73333-1-2-0-1690986813.zip](https://www.nexusmods.com/fallout4/mods/73333/?tab=files&file_id=285200)
 *  [BobIguanaDinerMainFile-19133-1-1.rar](https://www.nexusmods.com/fallout4/mods/19133/?tab=files&file_id=122587)
 *  [BodySlide and Outfit Studio - v5.6.3-25-5-6-3-1693153392.7z](https://www.nexusmods.com/fallout4/mods/25/?tab=files&file_id=288150)
-*  [Bodyslide Output.7z](https://authored-files.wabbajack.org/Bodyslide Output.7z_ef806594-506c-4460-8b6b-1ffd6ee7886a)
+*  [Bodyslide Output.7z](https://authored-files.wabbajack.org/Bodyslide Output.7z_cc2d37b7-6910-4ce5-81b2-764264fd8a4c)
 *  [Boston Bandits CBBE-59531-1-0-1692201639.7z](https://www.nexusmods.com/fallout4/mods/59531/?tab=files&file_id=286853)
 *  [Boston Bandits-59531-1-3-1669031778.7z](https://www.nexusmods.com/fallout4/mods/59531/?tab=files&file_id=257664)
 *  [BoxHouseMain-17160-1-1.rar](https://www.nexusmods.com/fallout4/mods/17160/?tab=files&file_id=122588)
@@ -211,6 +211,8 @@
 *  [Dark Sci Fi Vault Retexture 4k - White Squares Fix-44251-2-1-1666904005.rar](https://www.nexusmods.com/fallout4/mods/44251/?tab=files&file_id=254789)
 *  [Dark Sci Fi Vault Retexture 4k BA2-44251-2-0-1655684489.rar](https://www.nexusmods.com/fallout4/mods/44251/?tab=files&file_id=241019)
 *  [Dashless with Invisble 3rd Person-7252-3-0a.7z](https://www.nexusmods.com/fallout4/mods/7252/?tab=files&file_id=29384)
+*  Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2
+*  Data_ccBGSFO4046-TesCan - Textures.ba2
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
 *  Data_DLCCoast - Textures.ba2
@@ -289,6 +291,7 @@
 *  [Deirdre Bugfix - No Trade Check-49271-1-0-1609955753.zip](https://www.nexusmods.com/fallout4/mods/49271/?tab=files&file_id=198419)
 *  [deLuxe Mask-4398-0-1.zip](https://www.nexusmods.com/fallout4/mods/4398/?tab=files&file_id=13959)
 *  [Desert Punks - A Raider Outfit Pack-64822--3-0-1670710827.7z](https://www.nexusmods.com/fallout4/mods/64822/?tab=files&file_id=259938)
+*  [Desert Punks Raider Outfit Pack CBBE Body Slide-65000-2-0-1667618671.7z](https://www.nexusmods.com/fallout4/mods/65000/?tab=files&file_id=255785)
 *  [DiamondCityFaceVariety-15419-.rar](https://www.nexusmods.com/fallout4/mods/15419/?tab=files&file_id=61605)
 *  [DirectHIt-75098-1-2-4-1699348547.zip](https://www.nexusmods.com/fallout4/mods/75098/?tab=files&file_id=293562)
 *  [Disable Companion Collision-76454-v1-0-1-1701573486.7z](https://www.nexusmods.com/fallout4/mods/76454/?tab=files&file_id=295697)
@@ -392,6 +395,7 @@
 *  [Fourville - eXoPatch-61080-1-5-3-1683682379.7z](https://www.nexusmods.com/fallout4/mods/61080/?tab=files&file_id=276664)
 *  [Fourville - The Creators Update-43979-1-13-1609523282.zip](https://www.nexusmods.com/fallout4/mods/43979/?tab=files&file_id=198027)
 *  [Friendly Radstags - RobCo Patcher REDUX-76561-1-0-0-1702004118.zip](https://www.nexusmods.com/fallout4/mods/76561/?tab=files&file_id=296152)
+*  [Friffy_Piper Outfit_v1.5-21114-.7z](https://www.nexusmods.com/fallout4/mods/21114/?tab=files&file_id=86497)
 *  [Full Artillery System Overhaul-70476-0-2-BETA-1682023832.rar](https://www.nexusmods.com/fallout4/mods/70476/?tab=files&file_id=274742)
 *  [GavMan Cozy Covenant-54670-1-0-1632632708.7z](https://www.nexusmods.com/fallout4/mods/54670/?tab=files&file_id=217737)
 *  [GavMan Croup-51051-1-1-1617840490.7z](https://www.nexusmods.com/fallout4/mods/51051/?tab=files&file_id=205382)
@@ -779,6 +783,7 @@
 *  [SS2 - Murkwater Industries-52304-1-0-0-1622172368.7z](https://www.nexusmods.com/fallout4/mods/52304/?tab=files&file_id=208891)
 *  [SS2 - Nobody's Leaders 2-57783-2-0-3-1668572856.zip](https://www.nexusmods.com/fallout4/mods/57783/?tab=files&file_id=257103)
 *  [SS2 Addon Blood Moon Raiders 1.0-59399-1-0-1649794381.7z](https://www.nexusmods.com/fallout4/mods/59399/?tab=files&file_id=234689)
+*  [SS2 Bodyslide-merged-v2-50094-2-1613830650.7z](https://www.nexusmods.com/fallout4/mods/50094/?tab=files&file_id=201947)
 *  [SS2 City Plan Pack - ZJ PerfPlans-52642-1-4-1-1626974157.7z](https://www.nexusmods.com/fallout4/mods/52642/?tab=files&file_id=213117)
 *  [SS2 DLC Settlers Patch-47976-2-2-5-1668794740.7z](https://www.nexusmods.com/fallout4/mods/47976/?tab=files&file_id=257396)
 *  [SS2 Extended Outfit Injection ESL-47976-2-0-2a-1645827845.7z](https://www.nexusmods.com/fallout4/mods/47976/?tab=files&file_id=230718)
@@ -816,6 +821,7 @@
 *  [Surplus Rifle-71816-1-2-1685671457.zip](https://www.nexusmods.com/fallout4/mods/71816/?tab=files&file_id=279040)
 *  [Survival Outfit Collection 1.8-12205-1-8.zip](https://www.nexusmods.com/fallout4/mods/12205/?tab=files&file_id=56006)
 *  [Swimming Loose Files 1.0 Redo-62123-1-0-1657604770.zip](https://www.nexusmods.com/fallout4/mods/62123/?tab=files&file_id=243154)
+*  [Synth Bodysuits 2.5.7z-27550-V1.7z](https://www.nexusmods.com/fallout4/mods/27550/?tab=files&file_id=112793)
 *  [Synth Power Armor (ESPFE-BA2)-67969-1-3-1679460557.rar](https://www.nexusmods.com/fallout4/mods/67969/?tab=files&file_id=271454)
 *  [Synths Spawn Synths - Robco Patcher-74993-1-0-1696272384.zip](https://www.nexusmods.com/fallout4/mods/74993/?tab=files&file_id=290908)
 *  [T-47R Power Armor-71103-1-1-1684744952.zip](https://www.nexusmods.com/fallout4/mods/71103/?tab=files&file_id=277971)
