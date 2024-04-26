@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (327)
+### Valid (333)
 *  [1387286231_UAPv2.6.64-1.7z](https://www.loverslab.com/files/file/11033-uap-ultimate-aaf-patch/?do=download)
 *  [2.1.0 CBBE BODY AND BODYSLIDES-22431-2-1-0-1709115070.7z](https://www.nexusmods.com/fallout4/mods/22431/?tab=files&file_id=305057)
 *  [2a. Main Repack - Part One-23556-1-0-1565616028.7z](https://www.nexusmods.com/fallout4/mods/23556/?tab=files&file_id=164245)
@@ -20,6 +20,7 @@
 *  [A Cannibal In Concord-14320-2-1.rar](https://www.nexusmods.com/fallout4/mods/14320/?tab=files&file_id=60741)
 *  [A Diamond City Story - Main File-40267-1-1-1630937815.7z](https://www.nexusmods.com/fallout4/mods/40267/?tab=files&file_id=216310)
 *  [A Diamond City Story - Smaller Textures-40267--95S-1570845669.7z](https://www.nexusmods.com/fallout4/mods/40267/?tab=files&file_id=168487)
+*  [A Strange Calling-24947-1-2.rar](https://www.nexusmods.com/fallout4/mods/24947/?tab=files&file_id=102202)
 *  [AAF Beta 161.1-31304-161-1b-1610914138.7z](https://www.nexusmods.com/fallout4/mods/31304/?tab=files&file_id=199240)
 *  [AAF_SEU_V1.19.7z](https://www.loverslab.com/files/file/7281-aaf-sex-em-up/?do=download&r=1734077&confirm=1)
 *  [AAF_VanillaKinkyCreatureAnimations_Themes_V210819.0.7z](https://www.loverslab.com/files/file/7720-fo4-aaf-themes-vanillasexanimations-kinkyaggressive-and-creaturesexanimations/?do=download&r=1112624&confirm=1)
@@ -58,6 +59,7 @@
 *  [Children of Ug-Qualtoth Redux - BA2-43527-2-0-1639895377.zip](https://www.nexusmods.com/fallout4/mods/43527/?tab=files&file_id=224234)
 *  [Classy Chassis Outfits - Heather Casdin v2 Replacer (CBBE)-53133-2-0-1673881925.7z](https://www.nexusmods.com/fallout4/mods/53133/?tab=files&file_id=263769)
 *  [Clock Widget-26759-v1-4-0.7z](https://www.nexusmods.com/fallout4/mods/26759/?tab=files&file_id=120758)
+*  [Collection of textures and presets for the girls-30019-3-0.zip](https://www.nexusmods.com/fallout4/mods/30019/?tab=files&file_id=122926)
 *  [Colored - We'll Meet Again-67393-1-0-1672599359.rar](https://www.nexusmods.com/fallout4/mods/67393/?tab=files&file_id=262031)
 *  [ComMoisturizer_v1_05.zip](https://www.loverslab.com/files/file/25514-commonwealth-moisturizer/?do=download&r=1895912&confirm=1)
 *  [Commonwealth Cuts 2.5.1-11402-2-5-1-1547056792.rar](https://www.nexusmods.com/fallout4/mods/11402/?tab=files&file_id=149695)
@@ -71,6 +73,8 @@
 *  [Cryolator Cryo-Cell Fix-15985-1-00.rar](https://www.nexusmods.com/fallout4/mods/15985/?tab=files&file_id=63878)
 *  cudart64_75.dll
 *  [Dark Blood Radio-46639-1-3-1596343168.7z](https://www.nexusmods.com/fallout4/mods/46639/?tab=files&file_id=188179)
+*  Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2
+*  Data_ccBGSFO4046-TesCan - Textures.ba2
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
 *  Data_DLCCoast - Textures.ba2
@@ -153,6 +157,7 @@
 *  [Epilogue Restored-12183-1-0.7z](https://www.nexusmods.com/fallout4/mods/12183/?tab=files&file_id=48438)
 *  [Everyone's Best Friend v3.0.0-13459-3-0-0.rar](https://www.nexusmods.com/fallout4/mods/13459/?tab=files&file_id=88106)
 *  [Extended Dialogue Interface 1.3.6-27216-1-3-6-1575706721.zip](https://www.nexusmods.com/fallout4/mods/27216/?tab=files&file_id=172181)
+*  [F4 Creation Kit Fixes-51165-2-0-1667718181.7z](https://www.nexusmods.com/fallout4/mods/51165/?tab=files&file_id=255934)
 *  [FaceMaxsonV2_9-21923-2-9.7z](https://www.nexusmods.com/fallout4/mods/21923/?tab=files&file_id=97510)
 *  [Faded Glory - A Post-Apocalyptic Soundscape-26014-5-1-1596838402.7z](https://www.nexusmods.com/fallout4/mods/26014/?tab=files&file_id=188642)
 *  [FainthearthManorESP-49552-2-1-1612631057.zip](https://www.nexusmods.com/fallout4/mods/49552/?tab=files&file_id=200857)
@@ -211,6 +216,7 @@
 *  [llamaCompanionHeather v2.6-23273-2-6-1689534179.zip](https://www.nexusmods.com/fallout4/mods/23273/?tab=files&file_id=283541)
 *  [llamaCompanionHeather v2.7-23273-2-7-1708129443.zip](https://www.nexusmods.com/fallout4/mods/23273/?tab=files&file_id=303800)
 *  [LMCC 2k Face Textures-24830-v10.rar](https://www.nexusmods.com/fallout4/mods/24830/?tab=files&file_id=101547)
+*  [Looks Menu Customization Compendium-24830-v10.rar](https://www.nexusmods.com/fallout4/mods/24830/?tab=files&file_id=101255)
 *  [LooksMenu - Pubes Forever (Fallout 4 Edition)-46854-1-0-1597782551.7z](https://www.nexusmods.com/fallout4/mods/46854/?tab=files&file_id=189404)
 *  [LooksMenu BodyGen Presets - Regular-27890-1-1.7z](https://www.nexusmods.com/fallout4/mods/27890/?tab=files&file_id=114285)
 *  [LooksMenu v1-6-20 21-9-12631-1-6-20-1604483759.7z](https://www.nexusmods.com/fallout4/mods/12631/?tab=files&file_id=194292)
