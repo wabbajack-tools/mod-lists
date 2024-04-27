@@ -1,8 +1,8 @@
 {
   "MachineURL": "licentia_black/parabellum",
   "Name": "Parabellum",
-  "Version": "1.8.1.1",
-  "ModListHash": "uEwy8ziT1QY=",
+  "Version": "1.8.2",
+  "ModListHash": "7LzQl/RGQwE=",
   "Archives": [
     {
       "Status": "Valid",
@@ -368,15 +368,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "L3X9BPuaiTY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=32857\nfileID=302680",
-        "Name": "Nuka-World Reborn-32857-2-07b-1707245254.7z",
-        "Size": 577304366,
+        "Hash": "yNzvrXhhVIE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=32857\nfileID=311302",
+        "Name": "Nuka-World Reborn-32857-2-10-1713711423.7z",
+        "Size": 577305040,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "EnvyDeveloper",
           "Description": "Nuka-World Reborn is a quest mod which not only allows you to have multiple options to get rid of the raiders, but it adds new questlines to Nuka-World and allows you to play as a Trader.",
-          "FileID": 302680,
+          "FileID": 311302,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/32857/32857-1530434915-1565431897.jpeg",
           "IsNSFW": false,
@@ -612,69 +612,99 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "nDqoezG/9ao=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCCoast - Voices_en.ba2",
-        "Name": "Data_DLCCoast - Voices_en.ba2",
-        "Size": 525025586,
+        "Hash": "fu2acy/EUb0=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCCoast.cdx",
+        "Name": "Data_DLCCoast.cdx",
+        "Size": 6847144,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCCoast - Voices_en.ba2",
+          "GameFile": "Data\\DLCCoast.cdx",
           "GameVersion": "1.10.980.0",
-          "Hash": "nDqoezG/9ao="
+          "Hash": "fu2acy/EUb0="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "UFFP1Os/Ss8=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop03 - Main.ba2",
-        "Name": "Data_DLCworkshop03 - Main.ba2",
-        "Size": 200696646,
+        "Hash": "QZRKByF5INg=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot.cdx",
+        "Name": "Data_DLCRobot.cdx",
+        "Size": 1224328,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCworkshop03 - Main.ba2",
+          "GameFile": "Data\\DLCRobot.cdx",
           "GameVersion": "1.10.980.0",
-          "Hash": "UFFP1Os/Ss8="
+          "Hash": "QZRKByF5INg="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "fWvOFU0VFzs=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Nvflex.ba2",
-        "Name": "Data_Fallout4 - Nvflex.ba2",
-        "Size": 6385127,
+        "Hash": "mFo6JqLF9Do=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop03 - Textures.ba2",
+        "Name": "Data_DLCworkshop03 - Textures.ba2",
+        "Size": 208483596,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Nvflex.ba2",
+          "GameFile": "Data\\DLCworkshop03 - Textures.ba2",
           "GameVersion": "1.10.980.0",
-          "Hash": "fWvOFU0VFzs="
+          "Hash": "mFo6JqLF9Do="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SJ7vxrQ/VVw=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=2737\nfileID=221103",
-        "Name": "FO4Edit 4.0.4-2737-4-0-4-1636548744.7z",
-        "Size": 14478768,
+        "Hash": "7XLpm2HYyGc=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Voices.ba2",
+        "Name": "Data_Fallout4 - Voices.ba2",
+        "Size": 2606358161,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Voices.ba2",
+          "GameVersion": "1.10.980.0",
+          "Hash": "7XLpm2HYyGc="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SZBHodTdtYg=",
+        "Meta": "[General]\ndirectURL=https://github.com/Orvid/Champollion/releases/download/v1.1.3/Champollion-v1.1.3-x64.zip",
+        "Name": "Champollion-v1.1.3-x64.zip",
+        "Size": 519546,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/Orvid/Champollion/releases/download/v1.1.3/Champollion-v1.1.3-x64.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uaAX9yvRn8E=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=22633\nfileID=286735",
+        "Name": "Resaver 6.0.636-22633-6-0-636-1692134205.7z",
+        "Size": 12151500,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ElminsterAU and the xEdit Team",
-          "Description": "FO4Edit is the Fallout 4 version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.",
-          "FileID": 221103,
+          "Author": "Mark Fairchild",
+          "Description": "FallrimTools includes ReSaver, which is a powerful savegame editor/cleaner for Skyrim Legendary Edition, Skyrim Special Edition, and Fallout 4.",
+          "FileID": 286735,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/2737/2737-1544498623-721482526.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/22633-0-1489354307.png",
           "IsNSFW": false,
-          "ModID": 2737,
-          "Name": "FO4Edit",
-          "Version": "4.0.4"
+          "ModID": 22633,
+          "Name": "FallrimTools -- Script cleaning and more",
+          "Version": "6.0.636"
         }
       }
     },
@@ -779,21 +809,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "y6pMmjgCJyk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=26592\nfileID=172072",
-        "Name": "CCCleaner 1.10.163.0-26592-1-10-163-0-1575573978.zip",
-        "Size": 152122,
+        "Hash": "RERyqD/WvUY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=26759\nfileID=120758",
+        "Name": "Clock Widget-26759-v1-4-0.7z",
+        "Size": 113672,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Neanka",
-          "Description": "clean all about CC from ur game interface",
-          "FileID": 172072,
+          "Author": "Kassent",
+          "Description": "This mod adds a clock widget to loading menu, main menu and fader menu to display current real time while loading.How much time did you spend on loading?",
+          "FileID": 120758,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26592-0-1504695553.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26759-0-1505372059.jpg",
           "IsNSFW": false,
-          "ModID": 26592,
-          "Name": "CCCleaner",
-          "Version": "1.10.163.0"
+          "ModID": 26759,
+          "Name": "Clock Widget - Show Real Time While Loading",
+          "Version": "v1.4.0"
         }
       }
     },
@@ -863,27 +893,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Wq9MDHJma3Q=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=49300\nfileID=255499",
-        "Name": "FallUI - Workbench-49300-1-4-1-r2-1667395902.rar",
-        "Size": 962776,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "Better workbench interface optimized for PC. Bigger display size. Data columns. Comparision columns for mods. Item icon tag support. Icon menu for choosing your icon tag. Item subtitles. Autobuilding modules with zero cost. All languages included.",
-          "FileID": 255499,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49300/49300-1610042654-1439715988.png",
-          "IsNSFW": false,
-          "ModID": 49300,
-          "Name": "FallUI - Workbench",
-          "Version": "1.4.1-r2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "iKTb+4uKmbc=",
         "Meta": "[General]\ngameName=fallout4\nmodID=22128\nfileID=112089",
         "Name": "Hilda Hughes - An Institute Story-22128-1-4.zip",
@@ -926,21 +935,14 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "G9eNSZlqFkM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=65988\nfileID=256616",
-        "Name": "NuclearArmageddonRadio-65988-1-0-1668146438.rar",
-        "Size": 56954924,
+        "Hash": "7nHFZfDjazo=",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/18605-ocbpc-for-fallout-4/?do=download\u0026r=1098033\u0026confirm=1\nprompt=Please download OCBPC-0.3-CBBE.zip",
+        "Name": "OCBPC-0.3-CBBE.zip",
+        "Size": 219745,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Rage",
-          "Description": "A collection of 50 (mostly) era appropriate songs on a custom radio station.",
-          "FileID": 256616,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/65988/65988-1668146170-51787378.png",
-          "IsNSFW": false,
-          "ModID": 65988,
-          "Name": "Nuclear Armageddon 77 Radio",
-          "Version": "1.0"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Please download OCBPC-0.3-CBBE.zip",
+          "Url": "https://www.loverslab.com/files/file/18605-ocbpc-for-fallout-4/?do=download\u0026r=1098033\u0026confirm=1"
         }
       }
     },
@@ -1003,72 +1005,121 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "El+gvjk5f30=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\Endgame_MALE_B.bk2",
-        "Name": "Data_Video_Endgame_MALE_B.bk2",
-        "Size": 194541812,
+        "Hash": "BzRLuv5/0Ss=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\INTELLIGENCE.bk2",
+        "Name": "Data_Video_INTELLIGENCE.bk2",
+        "Size": 386805116,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Video\\Endgame_MALE_B.bk2",
+          "GameFile": "Data\\Video\\INTELLIGENCE.bk2",
           "GameVersion": "1.10.980.0",
-          "Hash": "El+gvjk5f30="
+          "Hash": "BzRLuv5/0Ss="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "uaAX9yvRn8E=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=22633\nfileID=286735",
-        "Name": "Resaver 6.0.636-22633-6-0-636-1692134205.7z",
-        "Size": 12151500,
+        "Hash": "8Bd0PDwv3kA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=102\nfileID=71172",
+        "Name": "Fallout 4 Configuration Tool-102-1-3-5-2024.zip",
+        "Size": 1388287,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Mark Fairchild",
-          "Description": "FallrimTools includes ReSaver, which is a powerful savegame editor/cleaner for Skyrim Legendary Edition, Skyrim Special Edition, and Fallout 4.",
-          "FileID": 286735,
+          "Author": "Bilago",
+          "Description": "Tweaks various INI settings with a few clicks!",
+          "FileID": 71172,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/22633-0-1489354307.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/102-0-1448471489.png",
           "IsNSFW": false,
-          "ModID": 22633,
-          "Name": "FallrimTools -- Script cleaning and more",
-          "Version": "6.0.636"
+          "ModID": 102,
+          "Name": "Fallout 4 Configuration Tool - By Bilago",
+          "Version": "1.3.5.2024"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zrlwByVuRwk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=73774\nfileID=286164",
-        "Name": "Baka MaxPapyrusOps-73774-1-1-0-1691714351.rar",
-        "Size": 261071,
+        "Hash": "SJ7vxrQ/VVw=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=2737\nfileID=221103",
+        "Name": "FO4Edit 4.0.4-2737-4-0-4-1636548744.7z",
+        "Size": 14478768,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "shad0wshayd3",
-          "Description": "Some ports from Papyrus Tweaks NG for Fallout 4.",
-          "FileID": 286164,
+          "Author": "ElminsterAU and the xEdit Team",
+          "Description": "FO4Edit is the Fallout 4 version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.",
+          "FileID": 221103,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/73774/73774-1691695979-385792694.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/2737/2737-1544498623-721482526.png",
           "IsNSFW": false,
-          "ModID": 73774,
-          "Name": "Baka MaxPapyrusOps",
-          "Version": "1.1.0"
+          "ModID": 2737,
+          "Name": "FO4Edit",
+          "Version": "4.0.4"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Xysitt7O/SI=",
-        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/25514-commonwealth-moisturizer/?do=download\u0026r=1895912\u0026confirm=1\nprompt=Please download ComMoisturizer_v1_05.zip",
-        "Name": "ComMoisturizer_v1_05.zip",
-        "Size": 227697536,
+        "Hash": "Ba8gpxkxUjE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=26582\nfileID=120757",
+        "Name": "Better Console-26582-v1-4-0.7z",
+        "Size": 196118,
         "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "Please download ComMoisturizer_v1_05.zip",
-          "Url": "https://www.loverslab.com/files/file/25514-commonwealth-moisturizer/?do=download\u0026r=1895912\u0026confirm=1"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kassent",
+          "Description": "This is a F4SE plugin which makes console menu show extra useful infomation about selected target,for example, target\u0027s name, ID, baseID, mod name and so on.This plugin also add some extra info lists to console to show selected actor\u0027s all kinds of info like factions, perks, active effects, actor values, equipments and so on.",
+          "FileID": 120757,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26582-0-1504651363.jpg",
+          "IsNSFW": false,
+          "ModID": 26582,
+          "Name": "Better Console - F4SE",
+          "Version": "v1.4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BscIXRT+JSM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=25\nfileID=312436",
+        "Name": "BodySlide and Outfit Studio - v5.6.3 - Hotfix-25-5-6-3-1714167473.7z",
+        "Size": 19892856,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ousnius and Caliente",
+          "Description": "An easy to use tool for customizing bodies and outfits, creating new bodies and outfits, and converting outfits between body types.",
+          "FileID": 312436,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/25-0-1450888735.png",
+          "IsNSFW": false,
+          "ModID": 25,
+          "Name": "BodySlide and Outfit Studio",
+          "Version": "5.6.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kxDVAIxOyiM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=47359\nfileID=284106",
+        "Name": "Buffout 4-47359-1-28-6-1690000405.zip",
+        "Size": 1238510,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ryan",
+          "Description": "It\u0027s like buffout but for the engine",
+          "FileID": 284106,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47359/47359-1599900935-173191707.png",
+          "IsNSFW": false,
+          "ModID": 47359,
+          "Name": "Buffout 4",
+          "Version": "1.28.6"
         }
       }
     },
@@ -1117,42 +1168,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "epKo0NAOlhA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=27216\nfileID=172181",
-        "Name": "Extended Dialogue Interface 1.3.6-27216-1-3-6-1575706721.zip",
-        "Size": 266498,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "reg2k and Neanka",
-          "Description": "The Extended Dialogue Interface removes the hardcoded 4-option limit on dialogue and adds full engine support for any number of player dialogue options.",
-          "FileID": 172181,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27216-0-1507513151.png",
-          "IsNSFW": false,
-          "ModID": 27216,
-          "Name": "Extended Dialogue Interface",
-          "Version": "1.3.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "V7vLB6+D+MI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=51813\nfileID=257220",
-        "Name": "FallUI - HUD-51813-1-7-1-1668637124.rar",
-        "Size": 2375261,
+        "Hash": "J/ID33GORgg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=60579\nfileID=238079",
+        "Name": "FallUI - Icon Library-60579-1-0-1652975967.rar",
+        "Size": 437318,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "m8r98a4f2",
-          "Description": "A highly configurable HUD. Every widget can be positioned and configured. Configure your design in the in-game layout manager in MCM. Layouts can be shared and imported too.",
-          "FileID": 257220,
+          "Description": "A whole new icon library with many fancy icons for usage in the FallUI mods. Including many customization settings.",
+          "FileID": 238079,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51813/51813-1619914903-70759095.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60579/60579-1652974271-226033406.png",
           "IsNSFW": false,
-          "ModID": 51813,
-          "Name": "FallUI - HUD",
-          "Version": "1.7.1"
+          "ModID": 60579,
+          "Name": "FallUI - Icon Library",
+          "Version": "1.0"
         }
       }
     },
@@ -1201,27 +1231,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QAFBTKrBiWk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=12631\nfileID=194292",
-        "Name": "LooksMenu v1-6-20 21-9-12631-1-6-20-1604483759.7z",
-        "Size": 465594,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Expired6978",
-          "Description": "Adds engine modifications to improve character creation.",
-          "FileID": 194292,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/12631-0-1461987661.png",
-          "IsNSFW": false,
-          "ModID": 12631,
-          "Name": "LooksMenu",
-          "Version": "1.6.20"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "phaDAWAFyNw=",
         "Meta": "[General]\ngameName=fallout4\nmodID=9790\nfileID=43373",
         "Name": "Mantis\u0027s Apocalypse Outfits Collection 1.2-9790-1-2.7z",
@@ -1243,14 +1252,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "7nHFZfDjazo=",
-        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/18605-ocbpc-for-fallout-4/?do=download\u0026r=1098033\u0026confirm=1\nprompt=Please download OCBPC-0.3-CBBE.zip",
-        "Name": "OCBPC-0.3-CBBE.zip",
-        "Size": 219745,
+        "Hash": "I+Tg+bKVsRM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=21497\nfileID=172180",
+        "Name": "Mod Configuration Menu 1.39-21497-1-39-1575706632.zip",
+        "Size": 371675,
         "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "Please download OCBPC-0.3-CBBE.zip",
-          "Url": "https://www.loverslab.com/files/file/18605-ocbpc-for-fallout-4/?do=download\u0026r=1098033\u0026confirm=1"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "reg2k - Neanka - shadowslasher410",
+          "Description": "The Mod Configuration Menu is a settings page for mods! It provides a central location for mod configuration, accessible via the Pause menu.",
+          "FileID": 172180,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/21497-0-1504319702.png",
+          "IsNSFW": false,
+          "ModID": 21497,
+          "Name": "Mod Configuration Menu",
+          "Version": "1.39"
         }
       }
     },
@@ -1283,21 +1299,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8W+jIcEOPE8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=26668\nfileID=108996",
-        "Name": "Rowan\u0027s Request v1.01-26668-1-01.fomod",
-        "Size": 18489242,
+        "Hash": "wlLVLWtg9Es=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=60954\nfileID=245494",
+        "Name": "Rummage Radio-60954-2-1-1659570838.7z",
+        "Size": 129557111,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "JeffMOD",
-          "Description": "Adds a new, faction-agnostic counterpart to the BoS Quest Getting Technical, allowing players who are not aligned with the Brotherhood to collect and make use of Technical Documents.",
-          "FileID": 108996,
+          "Author": "Desert Island Games",
+          "Description": "Adds a new radio station to the player\u0027s Pip-Boy, featuring 100 lore-friendly tracks and fully-voiced DJ commentary from the station\u0027s robotic host.",
+          "FileID": 245494,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26668-0-1505053557.jpg",
-          "IsNSFW": false,
-          "ModID": 26668,
-          "Name": "Rowan\u0027s Request - Technical Documents",
-          "Version": "1.01"
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60954/60954-1659966422-609902510.png",
+          "IsNSFW": true,
+          "ModID": 60954,
+          "Name": "Rummage Radio",
+          "Version": "2.1"
         }
       }
     },
@@ -1325,27 +1341,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "FZv3UbQv89w=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=55419\nfileID=305956",
-        "Name": "SUP F4SE Plugin-55419-11-70-1709825241.rar",
-        "Size": 662448,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TommInfinite",
-          "Description": "F4SE plugin which adds new engine fixes, new permanent events and many functions for modders.",
-          "FileID": 305956,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/55419/55419-1635702234-2013120660.gif",
-          "IsNSFW": false,
-          "ModID": 55419,
-          "Name": "SUP F4SE",
-          "Version": "11.30"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "yhCARbP1es0=",
         "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/32544-the-bridge-aaf-to-naf/?do=download\nprompt=Please download The Bridge (AAF to NAF) 0.40.7z",
         "Name": "The Bridge (AAF to NAF) 0.40.7z",
@@ -1354,6 +1349,27 @@
           "$type": "ManualDownloader, Wabbajack.Lib",
           "Prompt": "Please download The Bridge (AAF to NAF) 0.40.7z",
           "Url": "https://www.loverslab.com/files/file/32544-the-bridge-aaf-to-naf/?do=download"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RkRFuRSGaZE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=133\nfileID=127418",
+        "Name": "The Eyes of Beauty Fallout Kaleidoscope Edition - All-in-One-133-3-2.7z",
+        "Size": 32070657,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LogRaam aka Gabriel Mailhot",
+          "Description": "Change eyes textures for new high resolution ones.  Will work for both gender.  New textures will be added so keep in touch!",
+          "FileID": 127418,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/133-0-1449908843.jpg",
+          "IsNSFW": false,
+          "ModID": 133,
+          "Name": "The Eyes Of Beauty Fallout Edition",
+          "Version": "3.2"
         }
       }
     },
@@ -1429,27 +1445,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+3Ib47GGUZc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=25\nfileID=286340",
-        "Name": "BodySlide and Outfit Studio - v5.6.2-25-5-6-2-1691875983.7z",
-        "Size": 19837535,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ousnius and Caliente",
-          "Description": "An easy to use tool for customizing bodies and outfits, creating new bodies and outfits, and converting outfits between body types.",
-          "FileID": 286340,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/25-0-1450888735.png",
-          "IsNSFW": false,
-          "ModID": 25,
-          "Name": "BodySlide and Outfit Studio",
-          "Version": "5.6.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "mA5l56W6U0s=",
         "Meta": "[General]\ngameName=fallout4\nmodID=72310\nfileID=281174",
         "Name": "BodyTalk-72310-3-8-1687372211.zip",
@@ -1465,27 +1460,6 @@
           "ModID": 72310,
           "Name": "BodyTalk",
           "Version": "3.8"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kxDVAIxOyiM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=47359\nfileID=284106",
-        "Name": "Buffout 4-47359-1-28-6-1690000405.zip",
-        "Size": 1238510,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ryan",
-          "Description": "It\u0027s like buffout but for the engine",
-          "FileID": 284106,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47359/47359-1599900935-173191707.png",
-          "IsNSFW": false,
-          "ModID": 47359,
-          "Name": "Buffout 4",
-          "Version": "1.28.6"
         }
       }
     },
@@ -1534,21 +1508,56 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "4PVMiIFzbe8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=9342\nfileID=36765",
-        "Name": "Conduit Connection Fix-9342-1-1.zip",
-        "Size": 65820,
+        "Hash": "y6pMmjgCJyk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=26592\nfileID=172072",
+        "Name": "CCCleaner 1.10.163.0-26592-1-10-163-0-1575573978.zip",
+        "Size": 152122,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TWFH1",
-          "Description": "Fixes wire attach points on power conduits.",
-          "FileID": 36765,
+          "Author": "Neanka",
+          "Description": "clean all about CC from ur game interface",
+          "FileID": 172072,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/9342-2-1454335861.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26592-0-1504695553.jpg",
           "IsNSFW": false,
-          "ModID": 9342,
-          "Name": "Conduit Connection Fix",
-          "Version": "1.1"
+          "ModID": 26592,
+          "Name": "CCCleaner",
+          "Version": "1.10.163.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Xysitt7O/SI=",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/25514-commonwealth-moisturizer/?do=download\u0026r=1895912\u0026confirm=1\nprompt=Please download ComMoisturizer_v1_05.zip",
+        "Name": "ComMoisturizer_v1_05.zip",
+        "Size": 227697536,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Please download ComMoisturizer_v1_05.zip",
+          "Url": "https://www.loverslab.com/files/file/25514-commonwealth-moisturizer/?do=download\u0026r=1895912\u0026confirm=1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6Wql/l6hLVI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27479\nfileID=172411",
+        "Name": "Crafting Highlight Fix 1.8.8-27479-1-8-8-1576067808.zip",
+        "Size": 145150,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "registrator2000",
+          "Description": "A F4SE plugin that allows you to disable the hardcoded, vision-obscuring shader effect at various workbenches so you can actually see what you\u0027re crafting.\n\n\n\nAlso allows you to change the shader effect for the Power Armor station and robot workbenches to a outline-only shader instead of a full shader.",
+          "FileID": 172411,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27479-0-1508689568.gif",
+          "IsNSFW": false,
+          "ModID": 27479,
+          "Name": "Crafting Highlight Fix",
+          "Version": "1.8.8"
         }
       }
     },
@@ -1576,42 +1585,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "T0TEuUkhdT8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=48958\nfileID=255391",
-        "Name": "FallUI - Confirm Boxes-48958-2-2-3-1667318727.rar",
-        "Size": 1470559,
+        "Hash": "V7vLB6+D+MI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51813\nfileID=257220",
+        "Name": "FallUI - HUD-51813-1-7-1-1668637124.rar",
+        "Size": 2375261,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "m8r98a4f2",
-          "Description": "Overhaul of all confirm box interfaces. Including different designs and styles for many box types (configurable). You can also choose to disable confirms, so it automatically accept without confirmation (like \u0022Yes Im Sure\u0022). Interface covers all languages.",
-          "FileID": 255391,
+          "Description": "A highly configurable HUD. Every widget can be positioned and configured. Configure your design in the in-game layout manager in MCM. Layouts can be shared and imported too.",
+          "FileID": 257220,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48958/48958-1619017899-322981148.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51813/51813-1619914903-70759095.png",
           "IsNSFW": false,
-          "ModID": 48958,
-          "Name": "FallUI - Confirm Boxes (incl. Yes Im Sure)",
-          "Version": "2.2.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "J/ID33GORgg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=60579\nfileID=238079",
-        "Name": "FallUI - Icon Library-60579-1-0-1652975967.rar",
-        "Size": 437318,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "A whole new icon library with many fancy icons for usage in the FallUI mods. Including many customization settings.",
-          "FileID": 238079,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60579/60579-1652974271-226033406.png",
-          "IsNSFW": false,
-          "ModID": 60579,
-          "Name": "FallUI - Icon Library",
-          "Version": "1.0"
+          "ModID": 51813,
+          "Name": "FallUI - HUD",
+          "Version": "1.7.1"
         }
       }
     },
@@ -1660,21 +1648,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "9Ne1z/6GRjg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=43059\nfileID=174483",
-        "Name": "Glowing Glass Fix-43059-1-0-1579223432.rar",
-        "Size": 1255224,
+        "Hash": "Wq9MDHJma3Q=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=49300\nfileID=255499",
+        "Name": "FallUI - Workbench-49300-1-4-1-r2-1667395902.rar",
+        "Size": 962776,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kouta554",
-          "Description": "",
-          "FileID": 174483,
+          "Author": "m8r98a4f2",
+          "Description": "Better workbench interface optimized for PC. Bigger display size. Data columns. Comparision columns for mods. Item icon tag support. Icon menu for choosing your icon tag. Item subtitles. Autobuilding modules with zero cost. All languages included.",
+          "FileID": 255499,
           "GameName": "Fallout4",
-          "ImageURL": null,
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/49300/49300-1610042654-1439715988.png",
           "IsNSFW": false,
-          "ModID": 43059,
-          "Name": "",
-          "Version": "1.0"
+          "ModID": 49300,
+          "Name": "FallUI - Workbench",
+          "Version": "1.4.1-r2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PJOmh+a0b1A=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=23273\nfileID=235667",
+        "Name": "Heather Clothing Bodyslide Files v2-23273-2-0-1650653455.zip",
+        "Size": 4378216,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "llamaRCA",
+          "Description": "April 2017 #1 File of the Month: Heather is a complex, story-driven character with over 2400 lines of custom, voiced dialogue, quests, etc. that take place in the Commonwealth, Far Harbor and Nuka-World. Heather\u0027s unique implementation is designed to improve on the FO4 companion experience.",
+          "FileID": 235667,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23273/23273-1650690399-875630213.png",
+          "IsNSFW": false,
+          "ModID": 23273,
+          "Name": "Heather Casdin - A Unique Companion Experience by llamaRCA",
+          "Version": "2.6"
         }
       }
     },
@@ -1723,6 +1732,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "G9eNSZlqFkM=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=65988\nfileID=256616",
+        "Name": "NuclearArmageddonRadio-65988-1-0-1668146438.rar",
+        "Size": 56954924,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Rage",
+          "Description": "A collection of 50 (mostly) era appropriate songs on a custom radio station.",
+          "FileID": 256616,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/65988/65988-1668146170-51787378.png",
+          "IsNSFW": false,
+          "ModID": 65988,
+          "Name": "Nuclear Armageddon 77 Radio",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Cj0fJ8MWfWw=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Parabellum BodySlide Output 1.5.7z_f49728ba-6c15-4ed2-a35e-a445f5e89312",
         "Name": "Parabellum BodySlide Output 1.5.7z",
@@ -1736,42 +1766,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KVXMqAjE06s=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=58416\nfileID=230756",
-        "Name": "Persistent Volume Sliders-58416-1-1-1645852559.7z",
-        "Size": 8014,
+        "Hash": "I2oYJEMKiZ8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=42051\nfileID=170845",
+        "Name": "The Whitman Family Fallout Shelter-42051-1-2-1573699791.rar",
+        "Size": 136553,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "spacefiddle",
-          "Description": "Uses MCM to get around the Bethesda 8-slider limit, lets your mods save their volume slider positions between sessions. Also adds a Mute function for Vanilla sound channels, and Hotkeys built-in!",
-          "FileID": 230756,
+          "Author": "culinwino",
+          "Description": "Explore a dilapidated fallout shelter built by the enigmatic businessman Walt Whitman. Discover the sinister truth about what happened to the shelter by exploring several interiors and fighting robotic foes.",
+          "FileID": 170845,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/58416/58416-1645796923-362600167.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/42051/42051-1573499438-267737930.jpeg",
           "IsNSFW": false,
-          "ModID": 58416,
-          "Name": "Persistent Volume Sliders",
-          "Version": "1.1"
+          "ModID": 42051,
+          "Name": "The Whitman Family Fallout Shelter",
+          "Version": "1.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wlLVLWtg9Es=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=60954\nfileID=245494",
-        "Name": "Rummage Radio-60954-2-1-1659570838.7z",
-        "Size": 129557111,
+        "Hash": "FZv3UbQv89w=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=55419\nfileID=305956",
+        "Name": "SUP F4SE Plugin-55419-11-70-1709825241.rar",
+        "Size": 662448,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Desert Island Games",
-          "Description": "Adds a new radio station to the player\u0027s Pip-Boy, featuring 100 lore-friendly tracks and fully-voiced DJ commentary from the station\u0027s robotic host.",
-          "FileID": 245494,
+          "Author": "TommInfinite",
+          "Description": "F4SE plugin which adds new engine fixes, new permanent events and many functions for modders.",
+          "FileID": 305956,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/60954/60954-1659966422-609902510.png",
-          "IsNSFW": true,
-          "ModID": 60954,
-          "Name": "Rummage Radio",
-          "Version": "2.1"
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/55419/55419-1635702234-2013120660.gif",
+          "IsNSFW": false,
+          "ModID": 55419,
+          "Name": "SUP F4SE",
+          "Version": "11.30"
         }
       }
     },
@@ -1862,6 +1892,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "FLaytdaTrj8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=53133\nfileID=263769",
+        "Name": "Classy Chassis Outfits - Heather Casdin v2 Replacer (CBBE)-53133-2-0-1673881925.7z",
+        "Size": 3625969,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GrafPanzer",
+          "Description": "UPDATED FOR HEATHER v2.  A special Classy Chassis Outfitter edition: a minor remodel of the outfit for llamaRCA\u0027s companion Heather Casdin. For CBBE. Includes BodySlide files with zap sliders for maximum customizability. Also adds BodySlide options (normal and physics) for the nude Heather body.",
+          "FileID": 263769,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53133/53133-1673881488-904942679.jpeg",
+          "IsNSFW": true,
+          "ModID": 53133,
+          "Name": "Classy Chassis Outfits - Heather Casdin Replacer",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "7qGD34RajqA=",
         "Meta": "[General]\ngameName=fallout4\nmodID=11402\nfileID=149695",
         "Name": "Commonwealth Cuts 2.5.1-11402-2-5-1-1547056792.rar",
@@ -1946,27 +1997,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PJOmh+a0b1A=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=23273\nfileID=235667",
-        "Name": "Heather Clothing Bodyslide Files v2-23273-2-0-1650653455.zip",
-        "Size": 4378216,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "llamaRCA",
-          "Description": "April 2017 #1 File of the Month: Heather is a complex, story-driven character with over 2400 lines of custom, voiced dialogue, quests, etc. that take place in the Commonwealth, Far Harbor and Nuka-World. Heather\u0027s unique implementation is designed to improve on the FO4 companion experience.",
-          "FileID": 235667,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23273/23273-1650690399-875630213.png",
-          "IsNSFW": false,
-          "ModID": 23273,
-          "Name": "Heather Casdin - A Unique Companion Experience by llamaRCA",
-          "Version": "2.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "ycAcNOw6g0M=",
         "Meta": "[General]\nmanualURL=https://www.mediafire.com/file/kfac38dni6d53rp/MiscHairstyle1.6_by_Atherisz.7z/file\nprompt=Please download MiscHairstyles1.6 by Atherisz.7z",
         "Name": "MiscHairstyle1.6 by Atherisz.7z",
@@ -2023,42 +2053,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SfiBEQ3WwsU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=12029\nfileID=48794",
-        "Name": "Sexy Hancock-12029-1-1.zip",
-        "Size": 36181158,
+        "Hash": "8W+jIcEOPE8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=26668\nfileID=108996",
+        "Name": "Rowan\u0027s Request v1.01-26668-1-01.fomod",
+        "Size": 18489242,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dysthe",
-          "Description": "Hancock is the sexy king of the zombies.",
-          "FileID": 48794,
+          "Author": "JeffMOD",
+          "Description": "Adds a new, faction-agnostic counterpart to the BoS Quest Getting Technical, allowing players who are not aligned with the Brotherhood to collect and make use of Technical Documents.",
+          "FileID": 108996,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/12029-0-1461389234.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26668-0-1505053557.jpg",
           "IsNSFW": false,
-          "ModID": 12029,
-          "Name": "Sexy Hancock",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "RkRFuRSGaZE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=133\nfileID=127418",
-        "Name": "The Eyes of Beauty Fallout Kaleidoscope Edition - All-in-One-133-3-2.7z",
-        "Size": 32070657,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LogRaam aka Gabriel Mailhot",
-          "Description": "Change eyes textures for new high resolution ones.  Will work for both gender.  New textures will be added so keep in touch!",
-          "FileID": 127418,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/133-0-1449908843.jpg",
-          "IsNSFW": false,
-          "ModID": 133,
-          "Name": "The Eyes Of Beauty Fallout Edition",
-          "Version": "3.2"
+          "ModID": 26668,
+          "Name": "Rowan\u0027s Request - Technical Documents",
+          "Version": "1.01"
         }
       }
     },
@@ -2170,21 +2179,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SuZ4a6qOEMU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=41339\nfileID=167679",
-        "Name": "BCR-HuntingShotgun-41339-1-0-2-1569767483.7z",
-        "Size": 1200794,
+        "Hash": "utbf+KfgjCY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=13630\nfileID=98188",
+        "Name": "Motoko Hair-13630-1-1.rar",
+        "Size": 8416023,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "User_1664022",
-          "Description": "Collection of Patches for the Bullet Counted Reload System",
-          "FileID": 167679,
+          "Author": "stefanmb",
+          "Description": "Motoko style haircut from Ghost in the Shell",
+          "FileID": 98188,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41339/41339-1569728521-38533996.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/13630-0-1463466663.jpg",
           "IsNSFW": false,
-          "ModID": 41339,
-          "Name": "Bullet Counted Reload - Patches",
-          "Version": "1.0.1"
+          "ModID": 13630,
+          "Name": "Motoko Hair (GITS)",
+          "Version": "1.1"
         }
       }
     },
@@ -2251,6 +2260,27 @@
         "State": {
           "$type": "MegaDownloader, Wabbajack.Lib",
           "Url": "https://mega.nz/file/TchXzQ4T#HXqaBbbub14sZ2MSfKpGboqoB3ehSdOaU1pRS3suZH4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "epKo0NAOlhA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27216\nfileID=172181",
+        "Name": "Extended Dialogue Interface 1.3.6-27216-1-3-6-1575706721.zip",
+        "Size": 266498,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "reg2k and Neanka",
+          "Description": "The Extended Dialogue Interface removes the hardcoded 4-option limit on dialogue and adds full engine support for any number of player dialogue options.",
+          "FileID": 172181,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27216-0-1507513151.png",
+          "IsNSFW": false,
+          "ModID": 27216,
+          "Name": "Extended Dialogue Interface",
+          "Version": "1.3.6"
         }
       }
     },
@@ -2341,157 +2371,80 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "fu2acy/EUb0=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCCoast.cdx",
-        "Name": "Data_DLCCoast.cdx",
-        "Size": 6847144,
+        "Hash": "iH91kpboDws=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCCoast.esm",
+        "Name": "Data_DLCCoast.esm",
+        "Size": 74565260,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCCoast.cdx",
+          "GameFile": "Data\\DLCCoast.esm",
           "GameVersion": "1.10.980.0",
-          "Hash": "fu2acy/EUb0="
+          "Hash": "iH91kpboDws="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QZRKByF5INg=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot.cdx",
-        "Name": "Data_DLCRobot.cdx",
-        "Size": 1224328,
+        "Hash": "x4xA33pdYfc=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot.esm",
+        "Name": "Data_DLCRobot.esm",
+        "Size": 8011546,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCRobot.cdx",
+          "GameFile": "Data\\DLCRobot.esm",
           "GameVersion": "1.10.980.0",
-          "Hash": "QZRKByF5INg="
+          "Hash": "x4xA33pdYfc="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "mFo6JqLF9Do=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop03 - Textures.ba2",
-        "Name": "Data_DLCworkshop03 - Textures.ba2",
-        "Size": 208483596,
+        "Hash": "LYGu6RJiDsU=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop03 - Voices_en.ba2",
+        "Name": "Data_DLCworkshop03 - Voices_en.ba2",
+        "Size": 51750623,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCworkshop03 - Textures.ba2",
+          "GameFile": "Data\\DLCworkshop03 - Voices_en.ba2",
           "GameVersion": "1.10.980.0",
-          "Hash": "mFo6JqLF9Do="
+          "Hash": "LYGu6RJiDsU="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "7XLpm2HYyGc=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Voices.ba2",
-        "Name": "Data_Fallout4 - Voices.ba2",
-        "Size": 2606358161,
+        "Hash": "afrjCm9u0gE=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Sounds.ba2",
+        "Name": "Data_Fallout4 - Sounds.ba2",
+        "Size": 1579741414,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Voices.ba2",
+          "GameFile": "Data\\Fallout4 - Sounds.ba2",
           "GameVersion": "1.10.980.0",
-          "Hash": "7XLpm2HYyGc="
+          "Hash": "afrjCm9u0gE="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SZBHodTdtYg=",
-        "Meta": "[General]\ndirectURL=https://github.com/Orvid/Champollion/releases/download/v1.1.3/Champollion-v1.1.3-x64.zip",
-        "Name": "Champollion-v1.1.3-x64.zip",
-        "Size": 519546,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Orvid/Champollion/releases/download/v1.1.3/Champollion-v1.1.3-x64.zip"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "RERyqD/WvUY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=26759\nfileID=120758",
-        "Name": "Clock Widget-26759-v1-4-0.7z",
-        "Size": 113672,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kassent",
-          "Description": "This mod adds a clock widget to loading menu, main menu and fader menu to display current real time while loading.How much time did you spend on loading?",
-          "FileID": 120758,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26759-0-1505372059.jpg",
-          "IsNSFW": false,
-          "ModID": 26759,
-          "Name": "Clock Widget - Show Real Time While Loading",
-          "Version": "v1.4.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "MaMuXs7RoUk=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\ENDURANCE.bk2",
-        "Name": "Data_Video_ENDURANCE.bk2",
-        "Size": 371586760,
+        "Hash": "8VSxfWLwaQI=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4.cdx",
+        "Name": "Data_Fallout4.cdx",
+        "Size": 23360440,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Video\\ENDURANCE.bk2",
+          "GameFile": "Data\\Fallout4.cdx",
           "GameVersion": "1.10.980.0",
-          "Hash": "MaMuXs7RoUk="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "wvfNBePIyHY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=47327\nfileID=191018",
-        "Name": "Addres Library-47327-1-10-163-0-1599728753.zip",
-        "Size": 9554761,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ryan",
-          "Description": "Provides version independent IDs used for dynamically relocating offsets at runtime.",
-          "FileID": 191018,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47327/47327-1599728447-276378518.png",
-          "IsNSFW": false,
-          "ModID": 47327,
-          "Name": "Address Library for F4SE Plugins",
-          "Version": "1.10.163.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "GYsKX2pVbuE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=47328\nfileID=210053",
-        "Name": "Console Commands Extender-47328-1-2-0-1623433336.zip",
-        "Size": 155958,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ryan",
-          "Description": "This mod adds new commands and overhauls existing commands within the console.",
-          "FileID": 210053,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47328/47328-1599730497-1544020672.png",
-          "IsNSFW": false,
-          "ModID": 47328,
-          "Name": "Console Commands Extender",
-          "Version": "1.2.0"
+          "Hash": "8VSxfWLwaQI="
         }
       }
     },
@@ -2519,84 +2472,121 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6Wql/l6hLVI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=27479\nfileID=172411",
-        "Name": "Crafting Highlight Fix 1.8.8-27479-1-8-8-1576067808.zip",
-        "Size": 145150,
+        "Hash": "RHpv+ziXYaQ=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\Intro.bk2",
+        "Name": "Data_Video_Intro.bk2",
+        "Size": 380362384,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "registrator2000",
-          "Description": "A F4SE plugin that allows you to disable the hardcoded, vision-obscuring shader effect at various workbenches so you can actually see what you\u0027re crafting.\n\n\n\nAlso allows you to change the shader effect for the Power Armor station and robot workbenches to a outline-only shader instead of a full shader.",
-          "FileID": 172411,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27479-0-1508689568.gif",
-          "IsNSFW": false,
-          "ModID": 27479,
-          "Name": "Crafting Highlight Fix",
-          "Version": "1.8.8"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Video\\Intro.bk2",
+          "GameVersion": "1.10.980.0",
+          "Hash": "RHpv+ziXYaQ="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "I2oYJEMKiZ8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=42051\nfileID=170845",
-        "Name": "The Whitman Family Fallout Shelter-42051-1-2-1573699791.rar",
-        "Size": 136553,
+        "Hash": "llirTAGJ+9U=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=73462\nfileID=287871",
+        "Name": "DisableExitSave-73462-1-3-1692922225.zip",
+        "Size": 128769,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "culinwino",
-          "Description": "Explore a dilapidated fallout shelter built by the enigmatic businessman Walt Whitman. Discover the sinister truth about what happened to the shelter by exploring several interiors and fighting robotic foes.",
-          "FileID": 170845,
+          "Author": "PK0",
+          "Description": "Disable saving when exiting the game. F4SE",
+          "FileID": 287871,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/42051/42051-1573499438-267737930.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/73462/73462-1690897001-113012756.png",
           "IsNSFW": false,
-          "ModID": 42051,
-          "Name": "The Whitman Family Fallout Shelter",
-          "Version": "1.2"
+          "ModID": 73462,
+          "Name": "Disable Exit Save",
+          "Version": "1.3"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "FLaytdaTrj8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=53133\nfileID=263769",
-        "Name": "Classy Chassis Outfits - Heather Casdin v2 Replacer (CBBE)-53133-2-0-1673881925.7z",
-        "Size": 3625969,
+        "Hash": "bxERKoM90KA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=44798\nfileID=242328",
+        "Name": "High FPS Physics Fix-44798-0-8-6-1656849140.zip",
+        "Size": 168212,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "GrafPanzer",
-          "Description": "UPDATED FOR HEATHER v2.  A special Classy Chassis Outfitter edition: a minor remodel of the outfit for llamaRCA\u0027s companion Heather Casdin. For CBBE. Includes BodySlide files with zap sliders for maximum customizability. Also adds BodySlide options (normal and physics) for the nude Heather body.",
-          "FileID": 263769,
+          "Author": "Antonix35",
+          "Description": "Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time.\n\nNow there is a separate version for VR.",
+          "FileID": 242328,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/53133/53133-1673881488-904942679.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44798/44798-1588329807-748092555.png",
+          "IsNSFW": false,
+          "ModID": 44798,
+          "Name": "High FPS Physics Fix",
+          "Version": "0.8.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fV0f9f1RMtA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27657\nfileID=144966",
+        "Name": "Kelly Manor Horror 1.1-27657-1-1-1541023728.zip",
+        "Size": 28091795,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "neeher",
+          "Description": "A spooky horror quest mod. Go inside the Kelly Manor, enter a world of terror and hope you can escape alive.",
+          "FileID": 144966,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27657-0-1509485380.jpg",
           "IsNSFW": true,
-          "ModID": 53133,
-          "Name": "Classy Chassis Outfits - Heather Casdin Replacer",
-          "Version": "2.0"
+          "ModID": 27657,
+          "Name": "The Kelly Manor Horror - Quest",
+          "Version": "1.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "utbf+KfgjCY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=13630\nfileID=98188",
-        "Name": "Motoko Hair-13630-1-1.rar",
-        "Size": 8416023,
+        "Hash": "8graqpOmiMc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=41934\nfileID=199750",
+        "Name": "Survival Tent v1.0.1-41934-1-0-1-1611410792.rar",
+        "Size": 403393,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "stefanmb",
-          "Description": "Motoko style haircut from Ghost in the Shell",
-          "FileID": 98188,
+          "Author": "ScottyDoesKnow",
+          "Description": "Craftable (heavy) tents that allow you to save while out and about. Disposable and recoverable options.",
+          "FileID": 199750,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/13630-0-1463466663.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41934/41934-1572908618-1334436933.jpeg",
           "IsNSFW": false,
-          "ModID": 13630,
-          "Name": "Motoko Hair (GITS)",
-          "Version": "1.1"
+          "ModID": 41934,
+          "Name": "Survival Tent - Balanced Survival Saving",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "U78H3QhDNPQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=17083\nfileID=68401",
+        "Name": "Vault-Tec Lights Mesh Fix-17083-1-0.7z",
+        "Size": 46424,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Anime_Otaku102",
+          "Description": "Fixes the direction of workshop lights in the Vault-Tec Workshop DLC.",
+          "FileID": 68401,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/17083-0-1470208444.jpg",
+          "IsNSFW": false,
+          "ModID": 17083,
+          "Name": "Vault-Tec Lights Mesh Fix",
+          "Version": "1.0"
         }
       }
     },
@@ -2816,158 +2806,219 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "iH91kpboDws=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCCoast.esm",
-        "Name": "Data_DLCCoast.esm",
-        "Size": 74565260,
+        "Hash": "enQfKf4uPUM=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld - Geometry.csg",
+        "Name": "Data_DLCNukaWorld - Geometry.csg",
+        "Size": 104296054,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCCoast.esm",
+          "GameFile": "Data\\DLCNukaWorld - Geometry.csg",
           "GameVersion": "1.10.980.0",
-          "Hash": "iH91kpboDws="
+          "Hash": "enQfKf4uPUM="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "x4xA33pdYfc=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot.esm",
-        "Name": "Data_DLCRobot.esm",
-        "Size": 8011546,
+        "Hash": "5PK+9Mh4jhQ=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop01 - Geometry.csg",
+        "Name": "Data_DLCworkshop01 - Geometry.csg",
+        "Size": 5824,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCRobot.esm",
+          "GameFile": "Data\\DLCworkshop01 - Geometry.csg",
           "GameVersion": "1.10.980.0",
-          "Hash": "x4xA33pdYfc="
+          "Hash": "5PK+9Mh4jhQ="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "LYGu6RJiDsU=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop03 - Voices_en.ba2",
-        "Name": "Data_DLCworkshop03 - Voices_en.ba2",
-        "Size": 51750623,
+        "Hash": "6kSvV9UAFjA=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop03.cdx",
+        "Name": "Data_DLCworkshop03.cdx",
+        "Size": 696408,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCworkshop03 - Voices_en.ba2",
+          "GameFile": "Data\\DLCworkshop03.cdx",
           "GameVersion": "1.10.980.0",
-          "Hash": "LYGu6RJiDsU="
+          "Hash": "6kSvV9UAFjA="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "afrjCm9u0gE=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Sounds.ba2",
-        "Name": "Data_Fallout4 - Sounds.ba2",
-        "Size": 1579741414,
+        "Hash": "np4wH3me9OI=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4.esm",
+        "Name": "Data_Fallout4.esm",
+        "Size": 330777465,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Sounds.ba2",
+          "GameFile": "Data\\Fallout4.esm",
           "GameVersion": "1.10.980.0",
-          "Hash": "afrjCm9u0gE="
+          "Hash": "np4wH3me9OI="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8VSxfWLwaQI=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4.cdx",
-        "Name": "Data_Fallout4.cdx",
-        "Size": 23360440,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4.cdx",
-          "GameVersion": "1.10.980.0",
-          "Hash": "8VSxfWLwaQI="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "g4fzJkOFuEA=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\GameIntro_V3_B.bk2",
-        "Name": "Data_Video_GameIntro_V3_B.bk2",
-        "Size": 27330800,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Video\\GameIntro_V3_B.bk2",
-          "GameVersion": "1.10.980.0",
-          "Hash": "g4fzJkOFuEA="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Ba8gpxkxUjE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=26582\nfileID=120757",
-        "Name": "Better Console-26582-v1-4-0.7z",
-        "Size": 196118,
+        "Hash": "T0TEuUkhdT8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=48958\nfileID=255391",
+        "Name": "FallUI - Confirm Boxes-48958-2-2-3-1667318727.rar",
+        "Size": 1470559,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kassent",
-          "Description": "This is a F4SE plugin which makes console menu show extra useful infomation about selected target,for example, target\u0027s name, ID, baseID, mod name and so on.This plugin also add some extra info lists to console to show selected actor\u0027s all kinds of info like factions, perks, active effects, actor values, equipments and so on.",
-          "FileID": 120757,
+          "Author": "m8r98a4f2",
+          "Description": "Overhaul of all confirm box interfaces. Including different designs and styles for many box types (configurable). You can also choose to disable confirms, so it automatically accept without confirmation (like \u0022Yes Im Sure\u0022). Interface covers all languages.",
+          "FileID": 255391,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/26582-0-1504651363.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48958/48958-1619017899-322981148.png",
           "IsNSFW": false,
-          "ModID": 26582,
-          "Name": "Better Console - F4SE",
-          "Version": "v1.4.0"
+          "ModID": 48958,
+          "Name": "FallUI - Confirm Boxes (incl. Yes Im Sure)",
+          "Version": "2.2.3"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "I+Tg+bKVsRM=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=21497\nfileID=172180",
-        "Name": "Mod Configuration Menu 1.39-21497-1-39-1575706632.zip",
-        "Size": 371675,
+        "Hash": "Aldujd/WeG0=",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/7885-hookers-of-the-commonwealth-lite-aaf-patch/?do=download\u0026r=795340\u0026confirm=1\nprompt=",
+        "Name": "HoTC Lite AAF patch V1.02.7z",
+        "Size": 311062,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "",
+          "Url": "https://www.loverslab.com/files/file/7885-hookers-of-the-commonwealth-lite-aaf-patch/?do=download\u0026r=795340\u0026confirm=1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kC7mdjZtlec=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\LUCK.bk2",
+        "Name": "Data_Video_LUCK.bk2",
+        "Size": 405196056,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Video\\LUCK.bk2",
+          "GameVersion": "1.10.980.0",
+          "Hash": "kC7mdjZtlec="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sXQOGHXX5dE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=6549\nfileID=24991",
+        "Name": "2k Bloody Mess - EBT ADD-ON-6549-v2-6.7z",
+        "Size": 1988042,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "reg2k - Neanka - shadowslasher410",
-          "Description": "The Mod Configuration Menu is a settings page for mods! It provides a central location for mod configuration, accessible via the Pause menu.",
-          "FileID": 172180,
+          "Author": "Nikonthenet",
+          "Description": "4k, 2k or 1k \u0027Kinetic\u0027 looking blood texture(s) that improve atmosphere in this grim post-apoc reality!",
+          "FileID": 24991,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/21497-0-1504319702.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/6549-0-1451230447.jpg",
           "IsNSFW": false,
-          "ModID": 21497,
-          "Name": "Mod Configuration Menu",
-          "Version": "1.39"
+          "ModID": 6549,
+          "Name": "Bloody Mess - Enhanced Blood Textures Mod ADD-ON",
+          "Version": "v2.6"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "fV0f9f1RMtA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=27657\nfileID=144966",
-        "Name": "Kelly Manor Horror 1.1-27657-1-1-1541023728.zip",
-        "Size": 28091795,
+        "Hash": "eRaBcpxid4Y=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=41178\nfileID=209407",
+        "Name": "Bullet Counted Reload - v.2.00-41178-2-00-1622713974.zip",
+        "Size": 240029,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "neeher",
-          "Description": "A spooky horror quest mod. Go inside the Kelly Manor, enter a world of terror and hope you can escape alive.",
-          "FileID": 144966,
+          "Author": "shavkacagarikia",
+          "Description": "Finally, a proper engine-level system for bullet counted reloads with most of the features such a system should have.",
+          "FileID": 209407,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27657-0-1509485380.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41178/41178-1568917895-1877786549.png",
+          "IsNSFW": false,
+          "ModID": 41178,
+          "Name": "Bullet Counted Reload System (BCR)",
+          "Version": "2.00"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VfnogRGPIKE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=39195\nfileID=189991",
+        "Name": "MTM OCBP - OCBPC Physics and Collision Preset.7z",
+        "Size": 291555,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MrTroubleMaker",
+          "Description": "CBP - OCBP - OCBPC Physics Preset - A somewhat more realistic movement.  Breasts have \u0022more\u0022 mass.\n\nFor CBBE, Fusion Girl, Wonder Body, Enhanced Vanilla Bodies,  JaneBod Extended and Vanilla Body\n\nmore ...",
+          "FileID": 189991,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/39195/39195-1559132417-382327120.jpeg",
           "IsNSFW": true,
-          "ModID": 27657,
-          "Name": "The Kelly Manor Horror - Quest",
+          "ModID": 39195,
+          "Name": "MTM 3BBB CBP OCBP OCBPC Physics Preset - CBBE - Fusion Girl - Wonder Body -  Enhanced Vanilla Bodies - JaneBod Extended - Vanilla - More",
+          "Version": "3.0Beta"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JQu+WUn5VMk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=52315\nfileID=208918",
+        "Name": "PA Ownership Fix (with No PA Battery Pathing)-52315-1-0-1622200319.rar",
+        "Size": 3405,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Valour549",
+          "Description": "When you take over a Power Armor that belonged to someone else and insert a fusion core, it will no longer be considered stolen! No .esp required.",
+          "FileID": 208918,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52315/52315-1622194842-1551871705.png",
+          "IsNSFW": false,
+          "ModID": 52315,
+          "Name": "Power Armor Ownership Fix (no more stealing)",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "P499OaG2dO0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=40267\nfileID=216310",
+        "Name": "A Diamond City Story - Main File-40267-1-1-1630937815.7z",
+        "Size": 170216334,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MunkySpunk",
+          "Description": "Mod of the month Oct 2019!! \u0022The Bleachers\u0022 is a new, NPC occupied, Diamond City district below the bleacher seats. Befriend the citizens of the bleachers, hear their stories, earn their trust. 5 new voiced NPCs, a new central player home, many workshop items, new merchants, decorated new locations, and 4 new multi-part quests to get it all.",
+          "FileID": 216310,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/40267/40267-1570454577-736779122.jpeg",
+          "IsNSFW": false,
+          "ModID": 40267,
+          "Name": "The Bleachers - A Diamond City Story",
           "Version": "1.1"
         }
       }
@@ -2975,42 +3026,56 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8graqpOmiMc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=41934\nfileID=199750",
-        "Name": "Survival Tent v1.0.1-41934-1-0-1-1611410792.rar",
-        "Size": 403393,
+        "Hash": "OM/m/aTwWWo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=16048\nfileID=94579",
+        "Name": "Bountiful Boards-16048-0-8-2.7z",
+        "Size": 9396,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ScottyDoesKnow",
-          "Description": "Craftable (heavy) tents that allow you to save while out and about. Disposable and recoverable options.",
-          "FileID": 199750,
+          "Author": "Gilbrilthor",
+          "Description": "Fixes the Diamond City Bounty Board to repeat all quests after a certain time. It also adds new quests to the bounty board rotation.",
+          "FileID": 94579,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41934/41934-1572908618-1334436933.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/16048-0-1467735283.png",
           "IsNSFW": false,
-          "ModID": 41934,
-          "Name": "Survival Tent - Balanced Survival Saving",
-          "Version": "1.0.1"
+          "ModID": 16048,
+          "Name": "Bountiful Boards",
+          "Version": "0.8.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "U78H3QhDNPQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=17083\nfileID=68401",
-        "Name": "Vault-Tec Lights Mesh Fix-17083-1-0.7z",
-        "Size": 46424,
+        "Hash": "l/a6A3K/FNw=",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/17248-sex-education/?do=download\u0026r=1321129\u0026confirm=1\nprompt=Please download Sex Education 1.22.zip",
+        "Name": "Sex Education 1.22.zip",
+        "Size": 355351,
+        "State": {
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Please download Sex Education 1.22.zip",
+          "Url": "https://www.loverslab.com/files/file/17248-sex-education/?do=download\u0026r=1321129\u0026confirm=1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SuZ4a6qOEMU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=41339\nfileID=167679",
+        "Name": "BCR-HuntingShotgun-41339-1-0-2-1569767483.7z",
+        "Size": 1200794,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Anime_Otaku102",
-          "Description": "Fixes the direction of workshop lights in the Vault-Tec Workshop DLC.",
-          "FileID": 68401,
+          "Author": "User_1664022",
+          "Description": "Collection of Patches for the Bullet Counted Reload System",
+          "FileID": 167679,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/17083-0-1470208444.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41339/41339-1569728521-38533996.jpeg",
           "IsNSFW": false,
-          "ModID": 17083,
-          "Name": "Vault-Tec Lights Mesh Fix",
-          "Version": "1.0"
+          "ModID": 41339,
+          "Name": "Bullet Counted Reload - Patches",
+          "Version": "1.0.1"
         }
       }
     },
@@ -3238,192 +3303,148 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "enQfKf4uPUM=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld - Geometry.csg",
-        "Name": "Data_DLCNukaWorld - Geometry.csg",
-        "Size": 104296054,
+        "Hash": "yeYGRk7MRfk=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld - Main.ba2",
+        "Name": "Data_DLCNukaWorld - Main.ba2",
+        "Size": 1488519533,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCNukaWorld - Geometry.csg",
+          "GameFile": "Data\\DLCNukaWorld - Main.ba2",
           "GameVersion": "1.10.980.0",
-          "Hash": "enQfKf4uPUM="
+          "Hash": "yeYGRk7MRfk="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5PK+9Mh4jhQ=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop01 - Geometry.csg",
-        "Name": "Data_DLCworkshop01 - Geometry.csg",
-        "Size": 5824,
+        "Hash": "NSbXTb5XeJw=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop01 - Main.ba2",
+        "Name": "Data_DLCworkshop01 - Main.ba2",
+        "Size": 55469349,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCworkshop01 - Geometry.csg",
+          "GameFile": "Data\\DLCworkshop01 - Main.ba2",
           "GameVersion": "1.10.980.0",
-          "Hash": "5PK+9Mh4jhQ="
+          "Hash": "NSbXTb5XeJw="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6kSvV9UAFjA=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop03.cdx",
-        "Name": "Data_DLCworkshop03.cdx",
-        "Size": 696408,
+        "Hash": "tSG9pGxASuw=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop03.esm",
+        "Name": "Data_DLCworkshop03.esm",
+        "Size": 2971385,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCworkshop03.cdx",
+          "GameFile": "Data\\DLCworkshop03.esm",
           "GameVersion": "1.10.980.0",
-          "Hash": "6kSvV9UAFjA="
+          "Hash": "tSG9pGxASuw="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "np4wH3me9OI=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4.esm",
-        "Name": "Data_Fallout4.esm",
-        "Size": 330777465,
+        "Hash": "/YoBMfMWEho=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\MainMenuLoop.bk2",
+        "Name": "Data_Video_MainMenuLoop.bk2",
+        "Size": 322255456,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4.esm",
+          "GameFile": "Data\\Video\\MainMenuLoop.bk2",
           "GameVersion": "1.10.980.0",
-          "Hash": "np4wH3me9OI="
+          "Hash": "/YoBMfMWEho="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Aldujd/WeG0=",
-        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/7885-hookers-of-the-commonwealth-lite-aaf-patch/?do=download\u0026r=795340\u0026confirm=1\nprompt=",
-        "Name": "HoTC Lite AAF patch V1.02.7z",
-        "Size": 311062,
-        "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "",
-          "Url": "https://www.loverslab.com/files/file/7885-hookers-of-the-commonwealth-lite-aaf-patch/?do=download\u0026r=795340\u0026confirm=1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "BzRLuv5/0Ss=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\INTELLIGENCE.bk2",
-        "Name": "Data_Video_INTELLIGENCE.bk2",
-        "Size": 386805116,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Video\\INTELLIGENCE.bk2",
-          "GameVersion": "1.10.980.0",
-          "Hash": "BzRLuv5/0Ss="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8Bd0PDwv3kA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=102\nfileID=71172",
-        "Name": "Fallout 4 Configuration Tool-102-1-3-5-2024.zip",
-        "Size": 1388287,
+        "Hash": "4aEEAMIjlRU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56566\nfileID=268795",
+        "Name": "ENB Helper for Fallout 4-56566-1-0-2-1677522163.zip",
+        "Size": 2482673,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Bilago",
-          "Description": "Tweaks various INI settings with a few clicks!",
-          "FileID": 71172,
+          "Author": "doodlum",
+          "Description": "Adds necessary functions to support extra features in ENB for Fallout 4.\n\n\n\nAlso fixes ENB wrongly detecting time of day, or interior vs exterior.",
+          "FileID": 268795,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/102-0-1448471489.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56566/56566-1639442857-1600607697.png",
           "IsNSFW": false,
-          "ModID": 102,
-          "Name": "Fallout 4 Configuration Tool - By Bilago",
-          "Version": "1.3.5.2024"
+          "ModID": 56566,
+          "Name": "ENB Helper for Fallout 4",
+          "Version": "1.0.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "JQu+WUn5VMk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=52315\nfileID=208918",
-        "Name": "PA Ownership Fix (with No PA Battery Pathing)-52315-1-0-1622200319.rar",
-        "Size": 3405,
+        "Hash": "auCAtlfIxQY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=52515\nfileID=266097",
+        "Name": "Fallout Priority 3.4.0 (Preview)-52515-3-4-0-1675421049.zip",
+        "Size": 61073,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Valour549",
-          "Description": "When you take over a Power Armor that belonged to someone else and insert a fusion core, it will no longer be considered stolen! No .esp required.",
-          "FileID": 208918,
+          "Author": "boring3",
+          "Description": "Elevate the CPU Priority of the game process.\n\nIncrease FPS and Prevent stutters caused by other processes.",
+          "FileID": 266097,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52315/52315-1622194842-1551871705.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52515/52515-1675774384-593896892.png",
           "IsNSFW": false,
-          "ModID": 52315,
-          "Name": "Power Armor Ownership Fix (no more stealing)",
+          "ModID": 52515,
+          "Name": "Fallout Priority - CPU Performance FPS Optimizer",
+          "Version": "3.4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "o6oWTouG2sA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=48078\nfileID=194684",
+        "Name": "Weapon Debris Crash Fix-48078-1-2-1605028967.zip",
+        "Size": 48488,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Antonix35",
+          "Description": "Fixed crashes caused by Weapon Debris setting\n\n\n\n\u0418\u0441\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0432\u044B\u043B\u0435\u0442\u043E\u0432 \u043F\u0440\u0438 \u0432\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u043E\u0439 \u043D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0435 \u0022\u041E\u0441\u043A\u043E\u043B\u043A\u0438 \u043E\u0442 \u0432\u044B\u0441\u0442\u0440\u0435\u043B\u043E\u0432\u0022",
+          "FileID": 194684,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48078/48078-1604258720-935354418.jpeg",
+          "IsNSFW": false,
+          "ModID": 48078,
+          "Name": "Weapon Debris Crash Fix",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SfiBEQ3WwsU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=12029\nfileID=48794",
+        "Name": "Sexy Hancock-12029-1-1.zip",
+        "Size": 36181158,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dysthe",
+          "Description": "Hancock is the sexy king of the zombies.",
+          "FileID": 48794,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/12029-0-1461389234.png",
+          "IsNSFW": false,
+          "ModID": 12029,
+          "Name": "Sexy Hancock",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "P499OaG2dO0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=40267\nfileID=216310",
-        "Name": "A Diamond City Story - Main File-40267-1-1-1630937815.7z",
-        "Size": 170216334,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MunkySpunk",
-          "Description": "Mod of the month Oct 2019!! \u0022The Bleachers\u0022 is a new, NPC occupied, Diamond City district below the bleacher seats. Befriend the citizens of the bleachers, hear their stories, earn their trust. 5 new voiced NPCs, a new central player home, many workshop items, new merchants, decorated new locations, and 4 new multi-part quests to get it all.",
-          "FileID": 216310,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/40267/40267-1570454577-736779122.jpeg",
-          "IsNSFW": false,
-          "ModID": 40267,
-          "Name": "The Bleachers - A Diamond City Story",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "OM/m/aTwWWo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=16048\nfileID=94579",
-        "Name": "Bountiful Boards-16048-0-8-2.7z",
-        "Size": 9396,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Gilbrilthor",
-          "Description": "Fixes the Diamond City Bounty Board to repeat all quests after a certain time. It also adds new quests to the bounty board rotation.",
-          "FileID": 94579,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/16048-0-1467735283.png",
-          "IsNSFW": false,
-          "ModID": 16048,
-          "Name": "Bountiful Boards",
-          "Version": "0.8.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "l/a6A3K/FNw=",
-        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/17248-sex-education/?do=download\u0026r=1321129\u0026confirm=1\nprompt=Please download Sex Education 1.22.zip",
-        "Name": "Sex Education 1.22.zip",
-        "Size": 355351,
-        "State": {
-          "$type": "ManualDownloader, Wabbajack.Lib",
-          "Prompt": "Please download Sex Education 1.22.zip",
-          "Url": "https://www.loverslab.com/files/file/17248-sex-education/?do=download\u0026r=1321129\u0026confirm=1"
         }
       }
     },
@@ -3688,106 +3709,190 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yeYGRk7MRfk=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld - Main.ba2",
-        "Name": "Data_DLCNukaWorld - Main.ba2",
-        "Size": 1488519533,
+        "Hash": "tyLRjoIIfxU=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld - Textures.ba2",
+        "Name": "Data_DLCNukaWorld - Textures.ba2",
+        "Size": 2348553100,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCNukaWorld - Main.ba2",
+          "GameFile": "Data\\DLCNukaWorld - Textures.ba2",
           "GameVersion": "1.10.980.0",
-          "Hash": "yeYGRk7MRfk="
+          "Hash": "tyLRjoIIfxU="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "NSbXTb5XeJw=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop01 - Main.ba2",
-        "Name": "Data_DLCworkshop01 - Main.ba2",
-        "Size": 55469349,
+        "Hash": "cOE0AgYtiZk=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Animations.ba2",
+        "Name": "Data_Fallout4 - Animations.ba2",
+        "Size": 359787743,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCworkshop01 - Main.ba2",
+          "GameFile": "Data\\Fallout4 - Animations.ba2",
           "GameVersion": "1.10.980.0",
-          "Hash": "NSbXTb5XeJw="
+          "Hash": "cOE0AgYtiZk="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "tSG9pGxASuw=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop03.esm",
-        "Name": "Data_DLCworkshop03.esm",
-        "Size": 2971385,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\DLCworkshop03.esm",
-          "GameVersion": "1.10.980.0",
-          "Hash": "tSG9pGxASuw="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "RHpv+ziXYaQ=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\Intro.bk2",
-        "Name": "Data_Video_Intro.bk2",
-        "Size": 380362384,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Video\\Intro.bk2",
-          "GameVersion": "1.10.980.0",
-          "Hash": "RHpv+ziXYaQ="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "llirTAGJ+9U=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=73462\nfileID=287871",
-        "Name": "DisableExitSave-73462-1-3-1692922225.zip",
-        "Size": 128769,
+        "Hash": "QYpjXWpF1Vc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=4598\nfileID=244732",
+        "Name": "Unofficial Fallout 4 Patch-4598-2-1-4-1658972157.7z",
+        "Size": 28453436,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PK0",
-          "Description": "Disable saving when exiting the game. F4SE",
-          "FileID": 287871,
+          "Author": "The Unofficial Patch Project Team",
+          "Description": "A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.",
+          "FileID": 244732,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/73462/73462-1690897001-113012756.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/4598-0-1456989707.png",
           "IsNSFW": false,
-          "ModID": 73462,
-          "Name": "Disable Exit Save",
-          "Version": "1.3"
+          "ModID": 4598,
+          "Name": "Unofficial Fallout 4 Patch - UFO4P",
+          "Version": "2.1.5"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bxERKoM90KA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=44798\nfileID=242328",
-        "Name": "High FPS Physics Fix-44798-0-8-6-1656849140.zip",
-        "Size": 168212,
+        "Hash": "+ZhbHNdji0g=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\AGILITY.bk2",
+        "Name": "Data_Video_AGILITY.bk2",
+        "Size": 381902820,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Video\\AGILITY.bk2",
+          "GameVersion": "1.10.980.0",
+          "Hash": "+ZhbHNdji0g="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vyFK63ZIsZ0=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\PERCEPTION.bk2",
+        "Name": "Data_Video_PERCEPTION.bk2",
+        "Size": 378189860,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Video\\PERCEPTION.bk2",
+          "GameVersion": "1.10.980.0",
+          "Hash": "vyFK63ZIsZ0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5dhh34UGOPg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=15985\nfileID=63878",
+        "Name": "Cryolator Cryo-Cell Fix-15985-1-00.rar",
+        "Size": 2915117,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Antonix35",
-          "Description": "Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time.\n\nNow there is a separate version for VR.",
-          "FileID": 242328,
+          "Author": "The6thMessenger",
+          "Description": "I FIX YOUR CRYOLATOR",
+          "FileID": 63878,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44798/44798-1588329807-748092555.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/15985-0-1467628293.png",
           "IsNSFW": false,
-          "ModID": 44798,
-          "Name": "High FPS Physics Fix",
-          "Version": "0.8.6"
+          "ModID": 15985,
+          "Name": "Cryolator Cryo-Cell Fix",
+          "Version": "1.00"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dSHft7c2TPg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=32857\nfileID=170668",
+        "Name": "Alternate script - Gage hostility-32857-0-01-1573469800.7z",
+        "Size": 2597,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "EnvyDeveloper",
+          "Description": "Nuka-World Reborn is a quest mod which not only allows you to have multiple options to get rid of the raiders, but it adds new questlines to Nuka-World and allows you to play as a Trader.",
+          "FileID": 170668,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/32857/32857-1530434915-1565431897.jpeg",
+          "IsNSFW": false,
+          "ModID": 32857,
+          "Name": "Nuka-World Reborn",
+          "Version": "2.07"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8FL8QdERw7s=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=56195\nfileID=257096",
+        "Name": "MCM Settings Manager-56195-1-2-1668562769.rar",
+        "Size": 138229,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "m8r98a4f2",
+          "Description": "Save, load, transfer, import and export all your MCM settings at once. Transfer settings between savegames, backup your favorite settings, or send your settings to another user!",
+          "FileID": 257096,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56195/56195-1638374233-408174017.png",
+          "IsNSFW": false,
+          "ModID": 56195,
+          "Name": "MCM Settings Manager",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hoFofOMXPLE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=36702\nfileID=281082",
+        "Name": "ZeX - ZaZ Extended Skeleton-36702-6-0-1687293851.zip",
+        "Size": 1459807,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "ZaZ and The ZeX Team",
+          "Description": "The ZaZ-Extended-Skeleton extends the default Fallout 4 skeleton(3rd Person) by adding new bones to areas of the body allowing Animators to animate them independently when making custom Animations.\n\nThis Includes Breast Bones , Butt Bones , Belly Bones , Tongue Bones and also Both Male and Female Genital Bones.",
+          "FileID": 281082,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/36702/36702-1546263620-151038375.jpeg",
+          "IsNSFW": true,
+          "ModID": 36702,
+          "Name": "ZeX - ZaZ Extended Skeleton",
+          "Version": "6.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zNT8xfi4q18=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=50000\nfileID=249055",
+        "Name": "Sprint Reload-50000-1-0-1662056618.7z",
+        "Size": 52713,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FX0x01",
+          "Description": "Allows you to sprint while reloading and vice versa in the 1st person. Makes the shooter component more dynamic than the vanilla game. Does not include any scripts or plugins. Should work for most vanilla and modded weapons.",
+          "FileID": 249055,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50000/50000-1662057016-1748723678.png",
+          "IsNSFW": false,
+          "ModID": 50000,
+          "Name": "Sprint Reload",
+          "Version": "1.0"
         }
       }
     },
@@ -4010,237 +4115,143 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QYpjXWpF1Vc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=4598\nfileID=244732",
-        "Name": "Unofficial Fallout 4 Patch-4598-2-1-4-1658972157.7z",
-        "Size": 28453436,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "The Unofficial Patch Project Team",
-          "Description": "A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.",
-          "FileID": 244732,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/4598-0-1456989707.png",
-          "IsNSFW": false,
-          "ModID": 4598,
-          "Name": "Unofficial Fallout 4 Patch - UFO4P",
-          "Version": "2.1.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tyLRjoIIfxU=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld - Textures.ba2",
-        "Name": "Data_DLCNukaWorld - Textures.ba2",
-        "Size": 2348553100,
+        "Hash": "bwxtIyv3HCE=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld - Voices_en.ba2",
+        "Name": "Data_DLCNukaWorld - Voices_en.ba2",
+        "Size": 310189745,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCNukaWorld - Textures.ba2",
+          "GameFile": "Data\\DLCNukaWorld - Voices_en.ba2",
           "GameVersion": "1.10.980.0",
-          "Hash": "tyLRjoIIfxU="
+          "Hash": "bwxtIyv3HCE="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cOE0AgYtiZk=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Animations.ba2",
-        "Name": "Data_Fallout4 - Animations.ba2",
-        "Size": 359787743,
+        "Hash": "kpd3a0YL76g=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop01.cdx",
+        "Name": "Data_DLCworkshop01.cdx",
+        "Size": 2168,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Animations.ba2",
+          "GameFile": "Data\\DLCworkshop01.cdx",
           "GameVersion": "1.10.980.0",
-          "Hash": "cOE0AgYtiZk="
+          "Hash": "kpd3a0YL76g="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kC7mdjZtlec=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\LUCK.bk2",
-        "Name": "Data_Video_LUCK.bk2",
-        "Size": 405196056,
+        "Hash": "WPVCET93lo0=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Geometry.csg",
+        "Name": "Data_Fallout4 - Geometry.csg",
+        "Size": 240043177,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Video\\LUCK.bk2",
+          "GameFile": "Data\\Fallout4 - Geometry.csg",
           "GameVersion": "1.10.980.0",
-          "Hash": "kC7mdjZtlec="
+          "Hash": "WPVCET93lo0="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "sXQOGHXX5dE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=6549\nfileID=24991",
-        "Name": "2k Bloody Mess - EBT ADD-ON-6549-v2-6.7z",
-        "Size": 1988042,
+        "Hash": "k+/DTWFGtwU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=73394\nfileID=285230",
+        "Name": "Resurgence Black Screen Fix-73394-3-0-0-1690997420.7z",
+        "Size": 9732690,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Nikonthenet",
-          "Description": "4k, 2k or 1k \u0027Kinetic\u0027 looking blood texture(s) that improve atmosphere in this grim post-apoc reality!",
-          "FileID": 24991,
+          "Author": "Sim Settlements Team",
+          "Description": "Chapter 3 finishes the story of Sim Settlements 2. Take your settlements to war, capture non-settlement territories, and gather allies to help you fight back the Gunner Invasion!",
+          "FileID": 285230,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/6549-0-1451230447.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/73394/73394-1691007678-504016188.jpeg",
           "IsNSFW": false,
-          "ModID": 6549,
-          "Name": "Bloody Mess - Enhanced Blood Textures Mod ADD-ON",
-          "Version": "v2.6"
+          "ModID": 73394,
+          "Name": "Sim Settlements 2 - Chapter 3",
+          "Version": "3.0.3"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "eRaBcpxid4Y=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=41178\nfileID=209407",
-        "Name": "Bullet Counted Reload - v.2.00-41178-2-00-1622713974.zip",
-        "Size": 240029,
+        "Hash": "VapF64VPYtk=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\CHARISMA.bk2",
+        "Name": "Data_Video_CHARISMA.bk2",
+        "Size": 400271092,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Video\\CHARISMA.bk2",
+          "GameVersion": "1.10.980.0",
+          "Hash": "VapF64VPYtk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TTUAjzyJV0w=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\STRENGTH.bk2",
+        "Name": "Data_Video_STRENGTH.bk2",
+        "Size": 346788624,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Video\\STRENGTH.bk2",
+          "GameVersion": "1.10.980.0",
+          "Hash": "TTUAjzyJV0w="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WJFqBuJRGks=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=45674\nfileID=184238",
+        "Name": "Encounter Zone Recalculation-45674-1-0-1592086483.zip",
+        "Size": 61527,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "shavkacagarikia",
-          "Description": "Finally, a proper engine-level system for bullet counted reloads with most of the features such a system should have.",
-          "FileID": 209407,
+          "Author": "Ea6t",
+          "Description": "Allows encounter zone levels to be recalculated after initial entry.",
+          "FileID": 184238,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/41178/41178-1568917895-1877786549.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/45674/45674-1592085691-594991857.png",
           "IsNSFW": false,
-          "ModID": 41178,
-          "Name": "Bullet Counted Reload System (BCR)",
-          "Version": "2.00"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "VfnogRGPIKE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=39195\nfileID=189991",
-        "Name": "MTM OCBP - OCBPC Physics and Collision Preset.7z",
-        "Size": 291555,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MrTroubleMaker",
-          "Description": "CBP - OCBP - OCBPC Physics Preset - A somewhat more realistic movement.  Breasts have \u0022more\u0022 mass.\n\nFor CBBE, Fusion Girl, Wonder Body, Enhanced Vanilla Bodies,  JaneBod Extended and Vanilla Body\n\nmore ...",
-          "FileID": 189991,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/39195/39195-1559132417-382327120.jpeg",
-          "IsNSFW": true,
-          "ModID": 39195,
-          "Name": "MTM 3BBB CBP OCBP OCBPC Physics Preset - CBBE - Fusion Girl - Wonder Body -  Enhanced Vanilla Bodies - JaneBod Extended - Vanilla - More",
-          "Version": "3.0Beta"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "5dhh34UGOPg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=15985\nfileID=63878",
-        "Name": "Cryolator Cryo-Cell Fix-15985-1-00.rar",
-        "Size": 2915117,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "The6thMessenger",
-          "Description": "I FIX YOUR CRYOLATOR",
-          "FileID": 63878,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/15985-0-1467628293.png",
-          "IsNSFW": false,
-          "ModID": 15985,
-          "Name": "Cryolator Cryo-Cell Fix",
-          "Version": "1.00"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "dSHft7c2TPg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=32857\nfileID=170668",
-        "Name": "Alternate script - Gage hostility-32857-0-01-1573469800.7z",
-        "Size": 2597,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "EnvyDeveloper",
-          "Description": "Nuka-World Reborn is a quest mod which not only allows you to have multiple options to get rid of the raiders, but it adds new questlines to Nuka-World and allows you to play as a Trader.",
-          "FileID": 170668,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/32857/32857-1530434915-1565431897.jpeg",
-          "IsNSFW": false,
-          "ModID": 32857,
-          "Name": "Nuka-World Reborn",
-          "Version": "2.07"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8FL8QdERw7s=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=56195\nfileID=257096",
-        "Name": "MCM Settings Manager-56195-1-2-1668562769.rar",
-        "Size": 138229,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "m8r98a4f2",
-          "Description": "Save, load, transfer, import and export all your MCM settings at once. Transfer settings between savegames, backup your favorite settings, or send your settings to another user!",
-          "FileID": 257096,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56195/56195-1638374233-408174017.png",
-          "IsNSFW": false,
-          "ModID": 56195,
-          "Name": "MCM Settings Manager",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "hoFofOMXPLE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=36702\nfileID=281082",
-        "Name": "ZeX - ZaZ Extended Skeleton-36702-6-0-1687293851.zip",
-        "Size": 1459807,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ZaZ and The ZeX Team",
-          "Description": "The ZaZ-Extended-Skeleton extends the default Fallout 4 skeleton(3rd Person) by adding new bones to areas of the body allowing Animators to animate them independently when making custom Animations.\n\nThis Includes Breast Bones , Butt Bones , Belly Bones , Tongue Bones and also Both Male and Female Genital Bones.",
-          "FileID": 281082,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/36702/36702-1546263620-151038375.jpeg",
-          "IsNSFW": true,
-          "ModID": 36702,
-          "Name": "ZeX - ZaZ Extended Skeleton",
-          "Version": "6.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "zNT8xfi4q18=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=50000\nfileID=249055",
-        "Name": "Sprint Reload-50000-1-0-1662056618.7z",
-        "Size": 52713,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "FX0x01",
-          "Description": "Allows you to sprint while reloading and vice versa in the 1st person. Makes the shooter component more dynamic than the vanilla game. Does not include any scripts or plugins. Should work for most vanilla and modded weapons.",
-          "FileID": 249055,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/50000/50000-1662057016-1748723678.png",
-          "IsNSFW": false,
-          "ModID": 50000,
-          "Name": "Sprint Reload",
+          "ModID": 45674,
+          "Name": "Encounter Zone Recalculation (Continuous Level Scaling)",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KGXJPztA6do=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=77912\nfileID=301737",
+        "Name": "No More Muddy Dog - 4k and 2k Textures - 01.7-77912-01-7-1706738968.zip",
+        "Size": 38094993,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "RahCreations",
+          "Description": "Does what is says on the tin. No more muddy and washed out Dogmeat textures. Edited base game Vanilla Textures to give Dogmeat a \u0022new\u0022 look, with a few options for different texture sizes. Dogmeat\u0027s eyes have more detail and now reflect an environment, and his fur casts shadows!",
+          "FileID": 301737,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/77912/77912-1706742604-774331010.jpeg",
+          "IsNSFW": false,
+          "ModID": 77912,
+          "Name": "No More Muddy Dog - A Dogmeat Retexture - 4k and 2k Options",
+          "Version": "v01.7b"
         }
       }
     },
@@ -4521,169 +4532,74 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bwxtIyv3HCE=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld - Voices_en.ba2",
-        "Name": "Data_DLCNukaWorld - Voices_en.ba2",
-        "Size": 310189745,
+        "Hash": "WvYNLjRFMnI=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld.cdx",
+        "Name": "Data_DLCNukaWorld.cdx",
+        "Size": 5133432,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCNukaWorld - Voices_en.ba2",
+          "GameFile": "Data\\DLCNukaWorld.cdx",
           "GameVersion": "1.10.980.0",
-          "Hash": "bwxtIyv3HCE="
+          "Hash": "WvYNLjRFMnI="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kpd3a0YL76g=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop01.cdx",
-        "Name": "Data_DLCworkshop01.cdx",
-        "Size": 2168,
+        "Hash": "LoodhtJofQg=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\Endgame_FEMALE_A.bk2",
+        "Name": "Data_Video_Endgame_FEMALE_A.bk2",
+        "Size": 221085404,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCworkshop01.cdx",
+          "GameFile": "Data\\Video\\Endgame_FEMALE_A.bk2",
           "GameVersion": "1.10.980.0",
-          "Hash": "kpd3a0YL76g="
+          "Hash": "LoodhtJofQg="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WPVCET93lo0=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Geometry.csg",
-        "Name": "Data_Fallout4 - Geometry.csg",
-        "Size": 240043177,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Geometry.csg",
-          "GameVersion": "1.10.980.0",
-          "Hash": "WPVCET93lo0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "k+/DTWFGtwU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=73394\nfileID=285230",
-        "Name": "Resurgence Black Screen Fix-73394-3-0-0-1690997420.7z",
-        "Size": 9732690,
+        "Hash": "4PVMiIFzbe8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=9342\nfileID=36765",
+        "Name": "Conduit Connection Fix-9342-1-1.zip",
+        "Size": 65820,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Sim Settlements Team",
-          "Description": "Chapter 3 finishes the story of Sim Settlements 2. Take your settlements to war, capture non-settlement territories, and gather allies to help you fight back the Gunner Invasion!",
-          "FileID": 285230,
+          "Author": "TWFH1",
+          "Description": "Fixes wire attach points on power conduits.",
+          "FileID": 36765,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/73394/73394-1691007678-504016188.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/9342-2-1454335861.jpg",
           "IsNSFW": false,
-          "ModID": 73394,
-          "Name": "Sim Settlements 2 - Chapter 3",
-          "Version": "3.0.3"
+          "ModID": 9342,
+          "Name": "Conduit Connection Fix",
+          "Version": "1.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/YoBMfMWEho=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\MainMenuLoop.bk2",
-        "Name": "Data_Video_MainMenuLoop.bk2",
-        "Size": 322255456,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Video\\MainMenuLoop.bk2",
-          "GameVersion": "1.10.980.0",
-          "Hash": "/YoBMfMWEho="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4aEEAMIjlRU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=56566\nfileID=268795",
-        "Name": "ENB Helper for Fallout 4-56566-1-0-2-1677522163.zip",
-        "Size": 2482673,
+        "Hash": "yMySLAEZUx4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=1215\nfileID=23537",
+        "Name": "Improved Map with Visible Roads 2.0-1215-2-0.zip",
+        "Size": 7037449,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "doodlum",
-          "Description": "Adds necessary functions to support extra features in ENB for Fallout 4.\n\n\n\nAlso fixes ENB wrongly detecting time of day, or interior vs exterior.",
-          "FileID": 268795,
+          "Author": "mm137",
+          "Description": "A much better high contrast world map with roads, topography, and waterline all clearly visible.  Optional number grid and regions.",
+          "FileID": 23537,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/56566/56566-1639442857-1600607697.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/1215-2-1450164932.jpg",
           "IsNSFW": false,
-          "ModID": 56566,
-          "Name": "ENB Helper for Fallout 4",
-          "Version": "1.0.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "auCAtlfIxQY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=52515\nfileID=266097",
-        "Name": "Fallout Priority 3.4.0 (Preview)-52515-3-4-0-1675421049.zip",
-        "Size": 61073,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "boring3",
-          "Description": "Elevate the CPU Priority of the game process.\n\nIncrease FPS and Prevent stutters caused by other processes.",
-          "FileID": 266097,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/52515/52515-1675774384-593896892.png",
-          "IsNSFW": false,
-          "ModID": 52515,
-          "Name": "Fallout Priority - CPU Performance FPS Optimizer",
-          "Version": "3.4.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "o6oWTouG2sA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=48078\nfileID=194684",
-        "Name": "Weapon Debris Crash Fix-48078-1-2-1605028967.zip",
-        "Size": 48488,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Antonix35",
-          "Description": "Fixed crashes caused by Weapon Debris setting\n\n\n\n\u0418\u0441\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0432\u044B\u043B\u0435\u0442\u043E\u0432 \u043F\u0440\u0438 \u0432\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u043E\u0439 \u043D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0435 \u0022\u041E\u0441\u043A\u043E\u043B\u043A\u0438 \u043E\u0442 \u0432\u044B\u0441\u0442\u0440\u0435\u043B\u043E\u0432\u0022",
-          "FileID": 194684,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48078/48078-1604258720-935354418.jpeg",
-          "IsNSFW": false,
-          "ModID": 48078,
-          "Name": "Weapon Debris Crash Fix",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "KGXJPztA6do=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=77912\nfileID=301737",
-        "Name": "No More Muddy Dog - 4k and 2k Textures - 01.7-77912-01-7-1706738968.zip",
-        "Size": 38094993,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RahCreations",
-          "Description": "Does what is says on the tin. No more muddy and washed out Dogmeat textures. Edited base game Vanilla Textures to give Dogmeat a \u0022new\u0022 look, with a few options for different texture sizes. Dogmeat\u0027s eyes have more detail and now reflect an environment, and his fur casts shadows!",
-          "FileID": 301737,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/77912/77912-1706742604-774331010.jpeg",
-          "IsNSFW": false,
-          "ModID": 77912,
-          "Name": "No More Muddy Dog - A Dogmeat Retexture - 4k and 2k Options",
-          "Version": "v01.7b"
+          "ModID": 1215,
+          "Name": "Improved Map with Visible Roads",
+          "Version": "2.0"
         }
       }
     },
@@ -4827,69 +4743,116 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WvYNLjRFMnI=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCNukaWorld.cdx",
-        "Name": "Data_DLCNukaWorld.cdx",
-        "Size": 5133432,
+        "Hash": "ddakhPbOSKk=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop02 - Main.ba2",
+        "Name": "Data_DLCworkshop02 - Main.ba2",
+        "Size": 95186371,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCNukaWorld.cdx",
+          "GameFile": "Data\\DLCworkshop02 - Main.ba2",
           "GameVersion": "1.10.980.0",
-          "Hash": "WvYNLjRFMnI="
+          "Hash": "ddakhPbOSKk="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+ZhbHNdji0g=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\AGILITY.bk2",
-        "Name": "Data_Video_AGILITY.bk2",
-        "Size": 381902820,
+        "Hash": "bVJrF0HZaBk=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\Endgame_FEMALE_B.bk2",
+        "Name": "Data_Video_Endgame_FEMALE_B.bk2",
+        "Size": 191813488,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Video\\AGILITY.bk2",
+          "GameFile": "Data\\Video\\Endgame_FEMALE_B.bk2",
           "GameVersion": "1.10.980.0",
-          "Hash": "+ZhbHNdji0g="
+          "Hash": "bVJrF0HZaBk="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "vyFK63ZIsZ0=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\PERCEPTION.bk2",
-        "Name": "Data_Video_PERCEPTION.bk2",
-        "Size": 378189860,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Video\\PERCEPTION.bk2",
-          "GameVersion": "1.10.980.0",
-          "Hash": "vyFK63ZIsZ0="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "yMySLAEZUx4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=1215\nfileID=23537",
-        "Name": "Improved Map with Visible Roads 2.0-1215-2-0.zip",
-        "Size": 7037449,
+        "Hash": "QAFBTKrBiWk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=12631\nfileID=194292",
+        "Name": "LooksMenu v1-6-20 21-9-12631-1-6-20-1604483759.7z",
+        "Size": 465594,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mm137",
-          "Description": "A much better high contrast world map with roads, topography, and waterline all clearly visible.  Optional number grid and regions.",
-          "FileID": 23537,
+          "Author": "Expired6978",
+          "Description": "Adds engine modifications to improve character creation.",
+          "FileID": 194292,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/1215-2-1450164932.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/12631-0-1461987661.png",
           "IsNSFW": false,
-          "ModID": 1215,
-          "Name": "Improved Map with Visible Roads",
-          "Version": "2.0"
+          "ModID": 12631,
+          "Name": "LooksMenu",
+          "Version": "1.6.20"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tx/Rc3++Th0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=75292\nfileID=291539",
+        "Name": "Simple Offence Suppression F4SE-75292-1-0-1697083422.7z",
+        "Size": 189834,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "powerofthree",
+          "Description": "F4SE plugin that prevents neutral NPCs from turning hostile when you accidentally hit them.",
+          "FileID": 291539,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/75292/75292-1697083300-1292132501.png",
+          "IsNSFW": false,
+          "ModID": 75292,
+          "Name": "Simple Offence Suppression F4",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jwPodmbgFGE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=18714\nfileID=75939",
+        "Name": "Novatron Torso Fix-18714-1-0.rar",
+        "Size": 588,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Thanatos001",
+          "Description": "Material fix for Novatron Torso",
+          "FileID": 75939,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/18714-0-1474682947.jpg",
+          "IsNSFW": false,
+          "ModID": 18714,
+          "Name": "Nuka World Novatron Assaultron Torso Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "e9tuXW5wKIU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=21488\nfileID=110715",
+        "Name": "Reload Fix-21488-1-1.rar",
+        "Size": 25968,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Peasly Wellbott",
+          "Description": "Fixes a horrible bug which can cause inappropriate reloading when transitioning from 1st person to 3rd person. Shoot and scoot in relative safety!",
+          "FileID": 110715,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/21488-0-1485065060.png",
+          "IsNSFW": false,
+          "ModID": 21488,
+          "Name": "1st to 3rd Person Forced Reload Fix",
+          "Version": "1.1"
         }
       }
     },
@@ -5001,6 +4964,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "KVXMqAjE06s=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=58416\nfileID=230756",
+        "Name": "Persistent Volume Sliders-58416-1-1-1645852559.7z",
+        "Size": 8014,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "spacefiddle",
+          "Description": "Uses MCM to get around the Bethesda 8-slider limit, lets your mods save their volume slider positions between sessions. Also adds a Mute function for Vanilla sound channels, and Hotkeys built-in!",
+          "FileID": 230756,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/58416/58416-1645796923-362600167.png",
+          "IsNSFW": false,
+          "ModID": 58416,
+          "Name": "Persistent Volume Sliders",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "HcZRIP8ylLY=",
         "Meta": "[General]\ngameName=fallout4\nmodID=27019\nfileID=139155",
         "Name": "RAW INPUT - NMM Installer-27019-2-4.zip",
@@ -5064,111 +5048,143 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ddakhPbOSKk=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop02 - Main.ba2",
-        "Name": "Data_DLCworkshop02 - Main.ba2",
-        "Size": 95186371,
+        "Hash": "q2pgd0fAwBs=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCCoast - Geometry.csg",
+        "Name": "Data_DLCCoast - Geometry.csg",
+        "Size": 100938421,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCworkshop02 - Main.ba2",
+          "GameFile": "Data\\DLCCoast - Geometry.csg",
           "GameVersion": "1.10.980.0",
-          "Hash": "ddakhPbOSKk="
+          "Hash": "q2pgd0fAwBs="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VapF64VPYtk=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\CHARISMA.bk2",
-        "Name": "Data_Video_CHARISMA.bk2",
-        "Size": 400271092,
+        "Hash": "owh6rCKibPs=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Geometry.csg",
+        "Name": "Data_DLCRobot - Geometry.csg",
+        "Size": 32496988,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Video\\CHARISMA.bk2",
+          "GameFile": "Data\\DLCRobot - Geometry.csg",
           "GameVersion": "1.10.980.0",
-          "Hash": "VapF64VPYtk="
+          "Hash": "owh6rCKibPs="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "TTUAjzyJV0w=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\STRENGTH.bk2",
-        "Name": "Data_Video_STRENGTH.bk2",
-        "Size": 346788624,
+        "Hash": "+wSzOyMqqpU=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop02 - Textures.ba2",
+        "Name": "Data_DLCworkshop02 - Textures.ba2",
+        "Size": 169146799,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Video\\STRENGTH.bk2",
+          "GameFile": "Data\\DLCworkshop02 - Textures.ba2",
           "GameVersion": "1.10.980.0",
-          "Hash": "TTUAjzyJV0w="
+          "Hash": "+wSzOyMqqpU="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WJFqBuJRGks=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=45674\nfileID=184238",
-        "Name": "Encounter Zone Recalculation-45674-1-0-1592086483.zip",
-        "Size": 61527,
+        "Hash": "L1RdvbPgIk8=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Meshes.ba2",
+        "Name": "Data_Fallout4 - Meshes.ba2",
+        "Size": 1493340537,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Meshes.ba2",
+          "GameVersion": "1.10.980.0",
+          "Hash": "L1RdvbPgIk8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hXxGyQgKDmA=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\Endgame_MALE_A.bk2",
+        "Name": "Data_Video_Endgame_MALE_A.bk2",
+        "Size": 221373680,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Video\\Endgame_MALE_A.bk2",
+          "GameVersion": "1.10.980.0",
+          "Hash": "hXxGyQgKDmA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1jIAmnWhn44=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=23136\nfileID=172413",
+        "Name": "Autoswitch 1.5.10-23136-1-5-10-1576067876.zip",
+        "Size": 149778,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ea6t",
-          "Description": "Allows encounter zone levels to be recalculated after initial entry.",
-          "FileID": 184238,
+          "Author": "registrator2000",
+          "Description": "F4SE plugin that enables on-the-fly switching between KB/M and gamepad based on which device you are actively using, allowing you to use the mouse for menus and interactions, and the gamepad for movement and navigation.",
+          "FileID": 172413,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/45674/45674-1592085691-594991857.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23136-0-1490828473.jpeg",
           "IsNSFW": false,
-          "ModID": 45674,
-          "Name": "Encounter Zone Recalculation (Continuous Level Scaling)",
+          "ModID": 23136,
+          "Name": "Auto Gamepad Switch",
+          "Version": "1.5.10"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ipCMN3BS3Xc=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=1215\nfileID=54249",
+        "Name": "IMVM - Far Harbor (Darker)-1215-2-0.zip",
+        "Size": 625987,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mm137",
+          "Description": "A much better high contrast world map with roads, topography, and waterline all clearly visible.  Optional number grid and regions.",
+          "FileID": 54249,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/1215-2-1450164932.jpg",
+          "IsNSFW": false,
+          "ModID": 1215,
+          "Name": "Improved Map with Visible Roads",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4EGffrJZI/4=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=27582\nfileID=139005",
+        "Name": "Alex\u0027s Male First Person Camera Height Fix-27582-2-0.zip",
+        "Size": 8498,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Alex me lol",
+          "Description": "Adjust the eyeheight in first person if you play as a male character.",
+          "FileID": 139005,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27582/27582-1529561717-633053722.png",
+          "IsNSFW": false,
+          "ModID": 27582,
+          "Name": "Alex\u0027s Male First Person Camera Height Fix",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "jwPodmbgFGE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=18714\nfileID=75939",
-        "Name": "Novatron Torso Fix-18714-1-0.rar",
-        "Size": 588,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Thanatos001",
-          "Description": "Material fix for Novatron Torso",
-          "FileID": 75939,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/18714-0-1474682947.jpg",
-          "IsNSFW": false,
-          "ModID": 18714,
-          "Name": "Nuka World Novatron Assaultron Torso Fix",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "e9tuXW5wKIU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=21488\nfileID=110715",
-        "Name": "Reload Fix-21488-1-1.rar",
-        "Size": 25968,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Peasly Wellbott",
-          "Description": "Fixes a horrible bug which can cause inappropriate reloading when transitioning from 1st person to 3rd person. Shoot and scoot in relative safety!",
-          "FileID": 110715,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/21488-0-1485065060.png",
-          "IsNSFW": false,
-          "ModID": 21488,
-          "Name": "1st to 3rd Person Forced Reload Fix",
-          "Version": "1.1"
         }
       }
     },
@@ -5338,122 +5354,90 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "q2pgd0fAwBs=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCCoast - Geometry.csg",
-        "Name": "Data_DLCCoast - Geometry.csg",
-        "Size": 100938421,
+        "Hash": "wz05dMRLI2w=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCCoast - Main.ba2",
+        "Name": "Data_DLCCoast - Main.ba2",
+        "Size": 1446541131,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCCoast - Geometry.csg",
+          "GameFile": "Data\\DLCCoast - Main.ba2",
           "GameVersion": "1.10.980.0",
-          "Hash": "q2pgd0fAwBs="
+          "Hash": "wz05dMRLI2w="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "owh6rCKibPs=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Geometry.csg",
-        "Name": "Data_DLCRobot - Geometry.csg",
-        "Size": 32496988,
+        "Hash": "obsNEwoApkY=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - MeshesExtra.ba2",
+        "Name": "Data_Fallout4 - MeshesExtra.ba2",
+        "Size": 1377740102,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCRobot - Geometry.csg",
+          "GameFile": "Data\\Fallout4 - MeshesExtra.ba2",
           "GameVersion": "1.10.980.0",
-          "Hash": "owh6rCKibPs="
+          "Hash": "obsNEwoApkY="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+wSzOyMqqpU=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop02 - Textures.ba2",
-        "Name": "Data_DLCworkshop02 - Textures.ba2",
-        "Size": 169146799,
+        "Hash": "El+gvjk5f30=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\Endgame_MALE_B.bk2",
+        "Name": "Data_Video_Endgame_MALE_B.bk2",
+        "Size": 194541812,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCworkshop02 - Textures.ba2",
+          "GameFile": "Data\\Video\\Endgame_MALE_B.bk2",
           "GameVersion": "1.10.980.0",
-          "Hash": "+wSzOyMqqpU="
+          "Hash": "El+gvjk5f30="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "L1RdvbPgIk8=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Meshes.ba2",
-        "Name": "Data_Fallout4 - Meshes.ba2",
-        "Size": 1493340537,
+        "Hash": "zrlwByVuRwk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=73774\nfileID=286164",
+        "Name": "Baka MaxPapyrusOps-73774-1-1-0-1691714351.rar",
+        "Size": 261071,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Meshes.ba2",
-          "GameVersion": "1.10.980.0",
-          "Hash": "L1RdvbPgIk8="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "shad0wshayd3",
+          "Description": "Some ports from Papyrus Tweaks NG for Fallout 4.",
+          "FileID": 286164,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/73774/73774-1691695979-385792694.png",
+          "IsNSFW": false,
+          "ModID": 73774,
+          "Name": "Baka MaxPapyrusOps",
+          "Version": "1.1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "LoodhtJofQg=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\Endgame_FEMALE_A.bk2",
-        "Name": "Data_Video_Endgame_FEMALE_A.bk2",
-        "Size": 221085404,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Video\\Endgame_FEMALE_A.bk2",
-          "GameVersion": "1.10.980.0",
-          "Hash": "LoodhtJofQg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ipCMN3BS3Xc=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=1215\nfileID=54249",
-        "Name": "IMVM - Far Harbor (Darker)-1215-2-0.zip",
-        "Size": 625987,
+        "Hash": "mELqCS1kesE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=1215\nfileID=73042",
+        "Name": "IMVR - Nuka World (Darker)-1215-1.zip",
+        "Size": 572846,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "mm137",
           "Description": "A much better high contrast world map with roads, topography, and waterline all clearly visible.  Optional number grid and regions.",
-          "FileID": 54249,
+          "FileID": 73042,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/1215-2-1450164932.jpg",
           "IsNSFW": false,
           "ModID": 1215,
           "Name": "Improved Map with Visible Roads",
           "Version": "2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4EGffrJZI/4=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=27582\nfileID=139005",
-        "Name": "Alex\u0027s Male First Person Camera Height Fix-27582-2-0.zip",
-        "Size": 8498,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Alex me lol",
-          "Description": "Adjust the eyeheight in first person if you play as a male character.",
-          "FileID": 139005,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/27582/27582-1529561717-633053722.png",
-          "IsNSFW": false,
-          "ModID": 27582,
-          "Name": "Alex\u0027s Male First Person Camera Height Fix",
-          "Version": "1.0"
         }
       }
     },
@@ -5586,90 +5570,111 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wz05dMRLI2w=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCCoast - Main.ba2",
-        "Name": "Data_DLCCoast - Main.ba2",
-        "Size": 1446541131,
+        "Hash": "zYaZD421JpI=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCCoast - Textures.ba2",
+        "Name": "Data_DLCCoast - Textures.ba2",
+        "Size": 1335731328,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCCoast - Main.ba2",
+          "GameFile": "Data\\DLCCoast - Textures.ba2",
           "GameVersion": "1.10.980.0",
-          "Hash": "wz05dMRLI2w="
+          "Hash": "zYaZD421JpI="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "obsNEwoApkY=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - MeshesExtra.ba2",
-        "Name": "Data_Fallout4 - MeshesExtra.ba2",
-        "Size": 1377740102,
+        "Hash": "RNcHKDphAvw=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop03 - Geometry.csg",
+        "Name": "Data_DLCworkshop03 - Geometry.csg",
+        "Size": 22562982,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - MeshesExtra.ba2",
+          "GameFile": "Data\\DLCworkshop03 - Geometry.csg",
           "GameVersion": "1.10.980.0",
-          "Hash": "obsNEwoApkY="
+          "Hash": "RNcHKDphAvw="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bVJrF0HZaBk=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\Endgame_FEMALE_B.bk2",
-        "Name": "Data_Video_Endgame_FEMALE_B.bk2",
-        "Size": 191813488,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Video\\Endgame_FEMALE_B.bk2",
-          "GameVersion": "1.10.980.0",
-          "Hash": "bVJrF0HZaBk="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tx/Rc3++Th0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=75292\nfileID=291539",
-        "Name": "Simple Offence Suppression F4SE-75292-1-0-1697083422.7z",
-        "Size": 189834,
+        "Hash": "cxzJiL4WDtk=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=11979\nfileID=116539",
+        "Name": "No Bethesda Logo-11979-2-0.zip",
+        "Size": 57774,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "powerofthree",
-          "Description": "F4SE plugin that prevents neutral NPCs from turning hostile when you accidentally hit them.",
-          "FileID": 291539,
+          "Author": "TDarkShadowMutant",
+          "Description": "Removes the Bethesda logo in the main menu.",
+          "FileID": 116539,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/75292/75292-1697083300-1292132501.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/11979-2-1460671249.png",
           "IsNSFW": false,
-          "ModID": 75292,
-          "Name": "Simple Offence Suppression F4",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "mELqCS1kesE=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=1215\nfileID=73042",
-        "Name": "IMVR - Nuka World (Darker)-1215-1.zip",
-        "Size": 572846,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mm137",
-          "Description": "A much better high contrast world map with roads, topography, and waterline all clearly visible.  Optional number grid and regions.",
-          "FileID": 73042,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/1215-2-1450164932.jpg",
-          "IsNSFW": false,
-          "ModID": 1215,
-          "Name": "Improved Map with Visible Roads",
+          "ModID": 11979,
+          "Name": "No Bethesda Logo In Main Menu",
           "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MaMuXs7RoUk=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\ENDURANCE.bk2",
+        "Name": "Data_Video_ENDURANCE.bk2",
+        "Size": 371586760,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Video\\ENDURANCE.bk2",
+          "GameVersion": "1.10.980.0",
+          "Hash": "MaMuXs7RoUk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "wvfNBePIyHY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=47327\nfileID=191018",
+        "Name": "Addres Library-47327-1-10-163-0-1599728753.zip",
+        "Size": 9554761,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ryan",
+          "Description": "Provides version independent IDs used for dynamically relocating offsets at runtime.",
+          "FileID": 191018,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47327/47327-1599728447-276378518.png",
+          "IsNSFW": false,
+          "ModID": 47327,
+          "Name": "Address Library for F4SE Plugins",
+          "Version": "1.10.163.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GYsKX2pVbuE=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=47328\nfileID=210053",
+        "Name": "Console Commands Extender-47328-1-2-0-1623433336.zip",
+        "Size": 155958,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ryan",
+          "Description": "This mod adds new commands and overhauls existing commands within the console.",
+          "FileID": 210053,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/47328/47328-1599730497-1544020672.png",
+          "IsNSFW": false,
+          "ModID": 47328,
+          "Name": "Console Commands Extender",
+          "Version": "1.2.0"
         }
       }
     },
@@ -5729,90 +5734,85 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zYaZD421JpI=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCCoast - Textures.ba2",
-        "Name": "Data_DLCCoast - Textures.ba2",
-        "Size": 1335731328,
+        "Hash": "nDqoezG/9ao=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCCoast - Voices_en.ba2",
+        "Name": "Data_DLCCoast - Voices_en.ba2",
+        "Size": 525025586,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCCoast - Textures.ba2",
+          "GameFile": "Data\\DLCCoast - Voices_en.ba2",
           "GameVersion": "1.10.980.0",
-          "Hash": "zYaZD421JpI="
+          "Hash": "nDqoezG/9ao="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "RNcHKDphAvw=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop03 - Geometry.csg",
-        "Name": "Data_DLCworkshop03 - Geometry.csg",
-        "Size": 22562982,
+        "Hash": "UFFP1Os/Ss8=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop03 - Main.ba2",
+        "Name": "Data_DLCworkshop03 - Main.ba2",
+        "Size": 200696646,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCworkshop03 - Geometry.csg",
+          "GameFile": "Data\\DLCworkshop03 - Main.ba2",
           "GameVersion": "1.10.980.0",
-          "Hash": "RNcHKDphAvw="
+          "Hash": "UFFP1Os/Ss8="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "cxzJiL4WDtk=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=11979\nfileID=116539",
-        "Name": "No Bethesda Logo-11979-2-0.zip",
-        "Size": 57774,
+        "Hash": "fWvOFU0VFzs=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Nvflex.ba2",
+        "Name": "Data_Fallout4 - Nvflex.ba2",
+        "Size": 6385127,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Nvflex.ba2",
+          "GameVersion": "1.10.980.0",
+          "Hash": "fWvOFU0VFzs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "g4fzJkOFuEA=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\GameIntro_V3_B.bk2",
+        "Name": "Data_Video_GameIntro_V3_B.bk2",
+        "Size": 27330800,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Video\\GameIntro_V3_B.bk2",
+          "GameVersion": "1.10.980.0",
+          "Hash": "g4fzJkOFuEA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9Ne1z/6GRjg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=43059\nfileID=174483",
+        "Name": "Glowing Glass Fix-43059-1-0-1579223432.rar",
+        "Size": 1255224,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TDarkShadowMutant",
-          "Description": "Removes the Bethesda logo in the main menu.",
-          "FileID": 116539,
+          "Author": "Kouta554",
+          "Description": "",
+          "FileID": 174483,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/11979-2-1460671249.png",
+          "ImageURL": null,
           "IsNSFW": false,
-          "ModID": 11979,
-          "Name": "No Bethesda Logo In Main Menu",
-          "Version": "2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "hXxGyQgKDmA=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Video\\Endgame_MALE_A.bk2",
-        "Name": "Data_Video_Endgame_MALE_A.bk2",
-        "Size": 221373680,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Video\\Endgame_MALE_A.bk2",
-          "GameVersion": "1.10.980.0",
-          "Hash": "hXxGyQgKDmA="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "1jIAmnWhn44=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=23136\nfileID=172413",
-        "Name": "Autoswitch 1.5.10-23136-1-5-10-1576067876.zip",
-        "Size": 149778,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "registrator2000",
-          "Description": "F4SE plugin that enables on-the-fly switching between KB/M and gamepad based on which device you are actively using, allowing you to use the mouse for menus and interactions, and the gamepad for movement and navigation.",
-          "FileID": 172413,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23136-0-1490828473.jpeg",
-          "IsNSFW": false,
-          "ModID": 23136,
-          "Name": "Auto Gamepad Switch",
-          "Version": "1.5.10"
+          "ModID": 43059,
+          "Name": "",
+          "Version": "1.0"
         }
       }
     },
@@ -5856,6 +5856,38 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "HdqULXwG9I0=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures9.ba2",
+        "Name": "Data_Fallout4 - Textures9.ba2",
+        "Size": 866812818,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures9.ba2",
+          "GameVersion": "1.10.980.0",
+          "Hash": "HdqULXwG9I0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GO12EAP3jsM=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures8.ba2",
+        "Name": "Data_Fallout4 - Textures8.ba2",
+        "Size": 603820524,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures8.ba2",
+          "GameVersion": "1.10.980.0",
+          "Hash": "GO12EAP3jsM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "eu5QrDBP6FE=",
         "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Main.ba2",
         "Name": "Data_DLCRobot - Main.ba2",
@@ -5872,74 +5904,32 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "D4p7/Fon2zw=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures2.ba2",
-        "Name": "Data_Fallout4 - Textures2.ba2",
-        "Size": 2420982983,
+        "Hash": "iAVjq3kjwWQ=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures7.ba2",
+        "Name": "Data_Fallout4 - Textures7.ba2",
+        "Size": 547749609,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures2.ba2",
+          "GameFile": "Data\\Fallout4 - Textures7.ba2",
           "GameVersion": "1.10.980.0",
-          "Hash": "D4p7/Fon2zw="
+          "Hash": "iAVjq3kjwWQ="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "LsNhrJ6et0k=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures1.ba2",
-        "Name": "Data_Fallout4 - Textures1.ba2",
-        "Size": 2709070014,
+        "Hash": "mHUbt5Zv0s4=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Voices_en.ba2",
+        "Name": "Data_DLCRobot - Voices_en.ba2",
+        "Size": 122977015,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures1.ba2",
+          "GameFile": "Data\\DLCRobot - Voices_en.ba2",
           "GameVersion": "1.10.980.0",
-          "Hash": "LsNhrJ6et0k="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "CDVoY/wL7Kg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=30019\nfileID=122926",
-        "Name": "Collection of textures and presets for the girls-30019-3-0.zip",
-        "Size": 103798080,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Skarlett",
-          "Description": "A collection of textures for female character creation and Looksmenu presets for every NPC.",
-          "FileID": 122926,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/30019/30019-1519497900-631914110.jpeg",
-          "IsNSFW": false,
-          "ModID": 30019,
-          "Name": "Collection of textures and presets for the girls",
-          "Version": "3.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "XBlly1Btp40=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=23556\nfileID=164487",
-        "Name": "2b. Main Repack - Part Two-23556-1-0-1565980979.7z",
-        "Size": 8090229305,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BiRaitBec",
-          "Description": "Complete Modlist and Load Order Guide for Best Fallout 4 Modding Experience. Extreme Fallout 4 Engine \u0026amp; Textures Mods Optimization.",
-          "FileID": 164487,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23556/23556-1561383176-1822793169.jpeg",
-          "IsNSFW": false,
-          "ModID": 23556,
-          "Name": "Fallout 4 Mod List and Load Order Guide (BiRaitBec Modlist)",
-          "Version": "1.0"
+          "Hash": "mHUbt5Zv0s4="
         }
       }
     },
@@ -5955,6 +5945,43 @@
           "Author": "BiRaitBec",
           "Description": "Complete Modlist and Load Order Guide for Best Fallout 4 Modding Experience. Extreme Fallout 4 Engine \u0026amp; Textures Mods Optimization.",
           "FileID": 164210,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23556/23556-1561383176-1822793169.jpeg",
+          "IsNSFW": false,
+          "ModID": 23556,
+          "Name": "Fallout 4 Mod List and Load Order Guide (BiRaitBec Modlist)",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mWHypI5laIo=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures4.ba2",
+        "Name": "Data_Fallout4 - Textures4.ba2",
+        "Size": 2005844637,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures4.ba2",
+          "GameVersion": "1.10.980.0",
+          "Hash": "mWHypI5laIo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XBlly1Btp40=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=23556\nfileID=164487",
+        "Name": "2b. Main Repack - Part Two-23556-1-0-1565980979.7z",
+        "Size": 8090229305,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BiRaitBec",
+          "Description": "Complete Modlist and Load Order Guide for Best Fallout 4 Modding Experience. Extreme Fallout 4 Engine \u0026amp; Textures Mods Optimization.",
+          "FileID": 164487,
           "GameName": "Fallout4",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23556/23556-1561383176-1822793169.jpeg",
           "IsNSFW": false,
@@ -6003,96 +6030,6 @@
           "ModID": 23556,
           "Name": "Fallout 4 Mod List and Load Order Guide (BiRaitBec Modlist)",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "JO30VXmk58A=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Textures.ba2",
-        "Name": "Data_DLCRobot - Textures.ba2",
-        "Size": 218554028,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\DLCRobot - Textures.ba2",
-          "GameVersion": "1.10.980.0",
-          "Hash": "JO30VXmk58A="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "0zydIZY2RrQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=51165\nfileID=255934",
-        "Name": "F4 Creation Kit Fixes-51165-2-0-1667718181.7z",
-        "Size": 3920221,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "perchik71",
-          "Description": "Various patches and bug fixes for the Creation Kit to make life easier.",
-          "FileID": 255934,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51165/51165-1635577573-1262596012.png",
-          "IsNSFW": false,
-          "ModID": 51165,
-          "Name": "F4 Creation Kit Fixes",
-          "Version": "2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "r9atBo0vdWU=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Startup.ba2",
-        "Name": "Data_Fallout4 - Startup.ba2",
-        "Size": 46451365,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Startup.ba2",
-          "GameVersion": "1.10.980.0",
-          "Hash": "r9atBo0vdWU="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ICb6VkQVY3E=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=31965\nfileID=130903",
-        "Name": "FSM Body Textures 5.0.1 - Base Female - Clean-31965-5-0-1.7z",
-        "Size": 563727373,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "deleted38450090",
-          "Description": "",
-          "FileID": 130903,
-          "GameName": "Fallout4",
-          "ImageURL": null,
-          "IsNSFW": true,
-          "ModID": 31965,
-          "Name": "",
-          "Version": "5.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "mWHypI5laIo=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures4.ba2",
-        "Name": "Data_Fallout4 - Textures4.ba2",
-        "Size": 2005844637,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures4.ba2",
-          "GameVersion": "1.10.980.0",
-          "Hash": "mWHypI5laIo="
         }
       }
     },
@@ -6152,32 +6089,64 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HdqULXwG9I0=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures9.ba2",
-        "Name": "Data_Fallout4 - Textures9.ba2",
-        "Size": 866812818,
+        "Hash": "JO30VXmk58A=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Textures.ba2",
+        "Name": "Data_DLCRobot - Textures.ba2",
+        "Size": 218554028,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures9.ba2",
+          "GameFile": "Data\\DLCRobot - Textures.ba2",
           "GameVersion": "1.10.980.0",
-          "Hash": "HdqULXwG9I0="
+          "Hash": "JO30VXmk58A="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GO12EAP3jsM=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures8.ba2",
-        "Name": "Data_Fallout4 - Textures8.ba2",
-        "Size": 603820524,
+        "Hash": "D4p7/Fon2zw=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures2.ba2",
+        "Name": "Data_Fallout4 - Textures2.ba2",
+        "Size": 2420982983,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures8.ba2",
+          "GameFile": "Data\\Fallout4 - Textures2.ba2",
           "GameVersion": "1.10.980.0",
-          "Hash": "GO12EAP3jsM="
+          "Hash": "D4p7/Fon2zw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SJv4oKpZOko=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4046-TesCan - Textures.ba2",
+        "Name": "Data_ccBGSFO4046-TesCan - Textures.ba2",
+        "Size": 13314205,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4046-TesCan - Textures.ba2",
+          "GameVersion": "1.10.980.0",
+          "Hash": "SJv4oKpZOko="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LsNhrJ6et0k=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures1.ba2",
+        "Name": "Data_Fallout4 - Textures1.ba2",
+        "Size": 2709070014,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures1.ba2",
+          "GameVersion": "1.10.980.0",
+          "Hash": "LsNhrJ6et0k="
         }
       }
     },
@@ -6205,48 +6174,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SJv4oKpZOko=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4046-TesCan - Textures.ba2",
-        "Name": "Data_ccBGSFO4046-TesCan - Textures.ba2",
-        "Size": 13314205,
+        "Hash": "r9atBo0vdWU=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Startup.ba2",
+        "Name": "Data_Fallout4 - Startup.ba2",
+        "Size": 46451365,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\ccBGSFO4046-TesCan - Textures.ba2",
+          "GameFile": "Data\\Fallout4 - Startup.ba2",
           "GameVersion": "1.10.980.0",
-          "Hash": "SJv4oKpZOko="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "SYD2HOxG+z8=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Interface.ba2",
-        "Name": "Data_Fallout4 - Interface.ba2",
-        "Size": 485441781,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Interface.ba2",
-          "GameVersion": "1.10.980.0",
-          "Hash": "SYD2HOxG+z8="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "iAVjq3kjwWQ=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures7.ba2",
-        "Name": "Data_Fallout4 - Textures7.ba2",
-        "Size": 547749609,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures7.ba2",
-          "GameVersion": "1.10.980.0",
-          "Hash": "iAVjq3kjwWQ="
+          "Hash": "r9atBo0vdWU="
         }
       }
     },
@@ -6269,16 +6206,90 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "LCycwIgXDDQ=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop01 - Textures.ba2",
-        "Name": "Data_DLCworkshop01 - Textures.ba2",
-        "Size": 23240011,
+        "Hash": "WZopB77M+oM=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4001-PipBoy(Black) - Textures.ba2",
+        "Name": "Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2",
+        "Size": 1477174,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\DLCworkshop01 - Textures.ba2",
+          "GameFile": "Data\\ccBGSFO4001-PipBoy(Black) - Textures.ba2",
           "GameVersion": "1.10.980.0",
-          "Hash": "LCycwIgXDDQ="
+          "Hash": "WZopB77M+oM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ICb6VkQVY3E=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=31965\nfileID=130903",
+        "Name": "FSM Body Textures 5.0.1 - Base Female - Clean-31965-5-0-1.7z",
+        "Size": 563727373,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "deleted38450090",
+          "Description": "",
+          "FileID": 130903,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": true,
+          "ModID": 31965,
+          "Name": "",
+          "Version": "5.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SYD2HOxG+z8=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Interface.ba2",
+        "Name": "Data_Fallout4 - Interface.ba2",
+        "Size": 485441781,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Interface.ba2",
+          "GameVersion": "1.10.980.0",
+          "Hash": "SYD2HOxG+z8="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CDVoY/wL7Kg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=30019\nfileID=122926",
+        "Name": "Collection of textures and presets for the girls-30019-3-0.zip",
+        "Size": 103798080,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Skarlett",
+          "Description": "A collection of textures for female character creation and Looksmenu presets for every NPC.",
+          "FileID": 122926,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/30019/30019-1519497900-631914110.jpeg",
+          "IsNSFW": false,
+          "ModID": 30019,
+          "Name": "Collection of textures and presets for the girls",
+          "Version": "3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vc0CTLVB0ew=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Materials.ba2",
+        "Name": "Data_Fallout4 - Materials.ba2",
+        "Size": 1770496,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Materials.ba2",
+          "GameVersion": "1.10.980.0",
+          "Hash": "vc0CTLVB0ew="
         }
       }
     },
@@ -6306,38 +6317,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "mHUbt5Zv0s4=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Voices_en.ba2",
-        "Name": "Data_DLCRobot - Voices_en.ba2",
-        "Size": 122977015,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\DLCRobot - Voices_en.ba2",
-          "GameVersion": "1.10.980.0",
-          "Hash": "mHUbt5Zv0s4="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vc0CTLVB0ew=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Materials.ba2",
-        "Name": "Data_Fallout4 - Materials.ba2",
-        "Size": 1770496,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Materials.ba2",
-          "GameVersion": "1.10.980.0",
-          "Hash": "vc0CTLVB0ew="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "4VzJFpoeSyY=",
         "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Shaders.ba2",
         "Name": "Data_Fallout4 - Shaders.ba2",
@@ -6354,16 +6333,37 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WZopB77M+oM=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4001-PipBoy(Black) - Textures.ba2",
-        "Name": "Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2",
-        "Size": 1477174,
+        "Hash": "0zydIZY2RrQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=51165\nfileID=255934",
+        "Name": "F4 Creation Kit Fixes-51165-2-0-1667718181.7z",
+        "Size": 3920221,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "perchik71",
+          "Description": "Various patches and bug fixes for the Creation Kit to make life easier.",
+          "FileID": 255934,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/51165/51165-1635577573-1262596012.png",
+          "IsNSFW": false,
+          "ModID": 51165,
+          "Name": "F4 Creation Kit Fixes",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LCycwIgXDDQ=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop01 - Textures.ba2",
+        "Name": "Data_DLCworkshop01 - Textures.ba2",
+        "Size": 23240011,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\ccBGSFO4001-PipBoy(Black) - Textures.ba2",
+          "GameFile": "Data\\DLCworkshop01 - Textures.ba2",
           "GameVersion": "1.10.980.0",
-          "Hash": "WZopB77M+oM="
+          "Hash": "LCycwIgXDDQ="
         }
       }
     }

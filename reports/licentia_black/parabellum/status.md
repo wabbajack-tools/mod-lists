@@ -40,7 +40,7 @@
 *  [BiRaitBec WorkBase Improved-57782-1-9-1-1683788495.7z](https://www.nexusmods.com/fallout4/mods/57782/?tab=files&file_id=276832)
 *  [Black Desert Online Hairs.7z](https://mega.nz/file/TchXzQ4T#HXqaBbbub14sZ2MSfKpGboqoB3ehSdOaU1pRS3suZH4)
 *  [Blair Residence ESL-55064-1-4-1659635935.zip](https://www.nexusmods.com/fallout4/mods/55064/?tab=files&file_id=245579)
-*  [BodySlide and Outfit Studio - v5.6.2-25-5-6-2-1691875983.7z](https://www.nexusmods.com/fallout4/mods/25/?tab=files&file_id=286340)
+*  [BodySlide and Outfit Studio - v5.6.3 - Hotfix-25-5-6-3-1714167473.7z](https://www.nexusmods.com/fallout4/mods/25/?tab=files&file_id=312436)
 *  [BodyTalk-72310-3-8-1687372211.zip](https://www.nexusmods.com/fallout4/mods/72310/?tab=files&file_id=281174)
 *  [Bountiful Boards-16048-0-8-2.7z](https://www.nexusmods.com/fallout4/mods/16048/?tab=files&file_id=94579)
 *  [Bozar-28478-1-2.zip](https://www.nexusmods.com/fallout4/mods/28478/?tab=files&file_id=133276)
@@ -257,7 +257,7 @@
 *  [NPCScaling.7z-15961-1-9-0.7z](https://www.nexusmods.com/fallout4/mods/15961/?tab=files&file_id=109102)
 *  [NuclearArmageddonRadio-65988-1-0-1668146438.rar](https://www.nexusmods.com/fallout4/mods/65988/?tab=files&file_id=256616)
 *  [Nuka Cola and Beverage Patch-59508-1-0-1649438303.7z](https://www.nexusmods.com/fallout4/mods/59508/?tab=files&file_id=234301)
-*  [Nuka-World Reborn-32857-2-07b-1707245254.7z](https://www.nexusmods.com/fallout4/mods/32857/?tab=files&file_id=302680)
+*  [Nuka-World Reborn-32857-2-10-1713711423.7z](https://www.nexusmods.com/fallout4/mods/32857/?tab=files&file_id=311302)
 *  nvdebris.txt
 *  nvToolsExt64_1.dll
 *  [OCBPC-0.3-CBBE.zip](https://www.loverslab.com/files/file/18605-ocbpc-for-fallout-4/?do=download&r=1098033&confirm=1)
