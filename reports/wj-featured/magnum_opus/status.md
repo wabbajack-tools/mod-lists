@@ -268,6 +268,7 @@
 *  Data_Fallout4 - Voices.ba2
 *  Data_Fallout4.cdx
 *  Data_Fallout4.esm
+*  Data_Scripts_Source_Base_Base.zip
 *  Data_Video_AGILITY.bk2
 *  Data_Video_CHARISMA.bk2
 *  Data_Video_Endgame_FEMALE_A.bk2
@@ -674,7 +675,6 @@
 *  [Radio_Tower_Fix_Loose-70238-1-0-1680568076.rar](https://www.nexusmods.com/fallout4/mods/70238/?tab=files&file_id=272919)
 *  [Rags and Riches 2.0-58189-2-0-1651334909.zip](https://www.nexusmods.com/fallout4/mods/58189/?tab=files&file_id=236350)
 *  [Raider Cockpit  1.00015-22246-1-0015.7z](https://www.nexusmods.com/fallout4/mods/22246/?tab=files&file_id=91581)
-*  [Random Junk Redux BOS-68014-1-04-1675229500.zip](https://www.nexusmods.com/fallout4/mods/68014/?tab=files&file_id=265789)
 *  [Randomized Diamond City Guard Outfits-12100-1-0.7z](https://www.nexusmods.com/fallout4/mods/12100/?tab=files&file_id=48134)
 *  [Ransacked Relays and Shuddersome Subways-12101-2-0-1642400589.7z](https://www.nexusmods.com/fallout4/mods/12101/?tab=files&file_id=226944)
 *  [RAW INPUT - NMM Installer-27019-2-4.zip](https://www.nexusmods.com/fallout4/mods/27019/?tab=files&file_id=139155)
