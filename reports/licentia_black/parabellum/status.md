@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (333)
+### Valid (352)
 *  [1387286231_UAPv2.6.64-1.7z](https://www.loverslab.com/files/file/11033-uap-ultimate-aaf-patch/?do=download)
 *  [2.1.0 CBBE BODY AND BODYSLIDES-22431-2-1-0-1709115070.7z](https://www.nexusmods.com/fallout4/mods/22431/?tab=files&file_id=305057)
 *  [2a. Main Repack - Part One-23556-1-0-1565616028.7z](https://www.nexusmods.com/fallout4/mods/23556/?tab=files&file_id=164245)
@@ -74,7 +74,25 @@
 *  cudart64_75.dll
 *  [Dark Blood Radio-46639-1-3-1596343168.7z](https://www.nexusmods.com/fallout4/mods/46639/?tab=files&file_id=188179)
 *  Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2
+*  Data_ccBGSFO4038-HorseArmor - Main.ba2
+*  Data_ccBGSFO4044-HellfirePowerArmor - Main.ba2
+*  Data_ccBGSFO4044-HellfirePowerArmor - Textures.ba2
+*  Data_ccBGSFO4044-HellfirePowerArmor.esl
+*  Data_ccBGSFO4046-TesCan - Main.ba2
 *  Data_ccBGSFO4046-TesCan - Textures.ba2
+*  Data_ccBGSFO4046-TesCan.esl
+*  Data_ccBGSFO4096-AS_Enclave - Main.ba2
+*  Data_ccBGSFO4096-AS_Enclave - Textures.ba2
+*  Data_ccBGSFO4096-AS_Enclave.esl
+*  Data_ccBGSFO4110-WS_Enclave - Main.ba2
+*  Data_ccBGSFO4110-WS_Enclave - Textures.ba2
+*  Data_ccBGSFO4110-WS_Enclave.esl
+*  Data_ccBGSFO4115-X02 - Main.ba2
+*  Data_ccBGSFO4115-X02 - Textures.ba2
+*  Data_ccBGSFO4115-X02.esl
+*  Data_ccBGSFO4116-HeavyFlamer - Main.ba2
+*  Data_ccBGSFO4116-HeavyFlamer - Textures.ba2
+*  Data_ccBGSFO4116-HeavyFlamer.esl
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
 *  Data_DLCCoast - Textures.ba2
@@ -271,6 +289,7 @@
 *  [PhyOp (Custom) DLC 1.2a-27038-1-2a.7z](https://www.nexusmods.com/fallout4/mods/27038/?tab=files&file_id=112174)
 *  [Picturesque Presets v2.999b-16788-v2-999b-1571298824.zip](https://www.nexusmods.com/fallout4/mods/16788/?tab=files&file_id=168784)
 *  [Ponytail Hairstyles by Azar - BA2-8126-v3-0-1713010119.zip](https://www.nexusmods.com/fallout4/mods/8126/?tab=files&file_id=310001)
+*  [Power Armor Animation Changes-1.1-4408-1-1-1714062877.7z](https://www.nexusmods.com/fallout4/mods/4408/?tab=files&file_id=312180)
 *  [Power Armor Animation Changes-v1.rar-4408-1-0.rar](https://www.nexusmods.com/fallout4/mods/4408/?tab=files&file_id=113408)
 *  [Presto - One Quest at a Time Version-33651-0-2.7z](https://www.nexusmods.com/fallout4/mods/33651/?tab=files&file_id=136973)
 *  [QuickTrade Redux-41101-1-9-2-1571789408.zip](https://www.nexusmods.com/fallout4/mods/41101/?tab=files&file_id=169301)
