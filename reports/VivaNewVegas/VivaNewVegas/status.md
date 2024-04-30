@@ -21,7 +21,7 @@
 *  [Bad Touch NVSE - Minimalist Preset-83782-1-7-1704307290.zip](https://www.nexusmods.com/newvegas/mods/83782/?tab=files&file_id=1000121389)
 *  [Bad Touch NVSE-83782-1-7-1703427385.zip](https://www.nexusmods.com/newvegas/mods/83782/?tab=files&file_id=1000120846)
 *  [Basic Console Autocomplete-82098-1-0-1689194801.zip](https://www.nexusmods.com/newvegas/mods/82098/?tab=files&file_id=1000112941)
-*  [Better Brotherhood-75031-2-4e-1713655830.zip](https://www.nexusmods.com/newvegas/mods/75031/?tab=files&file_id=1000128092)
+*  [Better Brotherhood-75031-2-4g-1714439225.7z](https://www.nexusmods.com/newvegas/mods/75031/?tab=files&file_id=1000129213)
 *  [Better Caravan-81002-1-3-1692635740.zip](https://www.nexusmods.com/newvegas/mods/81002/?tab=files&file_id=1000115126)
 *  [Clean Companion Wheel 256x256 Edition-70486-1-0-1709295718.7z](https://www.nexusmods.com/newvegas/mods/70486/?tab=files&file_id=1000124709)
 *  [Clean Just Assorted Mods-82724-1-0-1692833261.zip](https://www.nexusmods.com/newvegas/mods/82724/?tab=files&file_id=1000115277)
