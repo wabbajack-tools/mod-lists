@@ -972,7 +972,7 @@
 *  [Lux Patch Parallax-52335-1-2-1648442572.rar](https://www.nexusmods.com/skyrimspecialedition/mods/52335/?tab=files&file_id=273187)
 *  [Lux small update-43158-6-3-1689405969.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=407188)
 *  [Lux Via-63588-1-7-1683989767.rar](https://www.nexusmods.com/skyrimspecialedition/mods/63588/?tab=files&file_id=387679)
-*  [Lux_Karthspire Patch - Nico-105031-1-0-1707930881.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=470788)
+*  [Lux_Karthspire_Light_Fix - Nico-105031-1-0-1714453882.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=496264)
 *  [Lux_Via_Sign_Fix - Nico-105031-1-0-1711154794.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=483236)
 *  [Lux-43158-6-3-1689325543_243d8362afff0939316de1e02cf9f6188d09b86a9e79087368c0a545eaf0d46e_.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43158/?tab=files&file_id=406863)
 *  [Magic College Music-1893-2-5.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1893/?tab=files&file_id=2175)
