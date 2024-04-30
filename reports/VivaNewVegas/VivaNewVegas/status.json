@@ -2,7 +2,7 @@
   "MachineURL": "VivaNewVegas/VivaNewVegas",
   "Name": "Viva New Vegas",
   "Version": "30.4.24",
-  "ModListHash": "nuegxAQ+jUQ=",
+  "ModListHash": "t6mrakyfMIU=",
   "Archives": [
     {
       "Status": "Valid",
@@ -42,20 +42,99 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "60Z61IgoCLo=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=79661\nfileID=1000103655",
-        "Name": "Climate Control - 3D Rain-79661-1-0-1673903164.zip",
-        "Size": 2170,
+        "Hash": "nn39p3DHfzg=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=75437\nfileID=1000129062",
+        "Name": "Desert Natural Weathers NV-75437-7-7-1714335770.7z",
+        "Size": 416655927,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "doodlum",
-          "Description": "Rain fixes and improvements powered by Climate Control NVSE. Supports 3D Rain.",
-          "FileID": 1000103655,
+          "Author": "Scott Clam",
+          "Description": "An overhaul of the weathers in New Vegas with 360 panoramic cloud textures, improved lighting and DLC support. TTW version available.",
+          "FileID": 1000129062,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79661/79661-1673903082-226892259.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/75437/75437-1691639507-2028692223.png",
           "IsNSFW": false,
-          "ModID": 79661,
-          "Name": "Climate Control - Rain",
+          "ModID": 75437,
+          "Name": "Desert Natural Weathers - NV - TTW",
+          "Version": "6.9.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "NGPHwPmByXI=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Data\\LonesomeRoad.esm",
+        "Name": "Data_LonesomeRoad.esm",
+        "Size": 25676818,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Data\\LonesomeRoad.esm",
+          "GameVersion": "1.4.0.525",
+          "Hash": "NGPHwPmByXI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "BPI6HIak1HM=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=81003\nfileID=1000128573",
+        "Name": "Navmesh Overhaul-81003-6-0-1714019262.zip",
+        "Size": 15490519,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Inthegrave",
+          "Description": "This mod fixes and improves vanilla game pathfinding errors and will provide a better and more challenging experience with the AI. This will be an ongoing project and will be supported with updates through the years. So look forward to many more updates to come.",
+          "FileID": 1000128573,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81003/81003-1683122504-906467206.jpeg",
+          "IsNSFW": false,
+          "ModID": 81003,
+          "Name": "Improved AI (Navmesh Overhaul Mod)",
+          "Version": "5.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "63xSquCZRxM=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=84165\nfileID=1000121076",
+        "Name": "Tales Of the Wanted Lods-84165-0-8-1703842370.7z",
+        "Size": 1402403,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Black Bubble",
+          "Description": "A high quality lod addition mod made for Tales of Two Wasteland 3.2.x\n\nIt will improve New Vegas too, to a lesser extent.",
+          "FileID": 1000121076,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/84165/84165-1702935954-1498962530.png",
+          "IsNSFW": false,
+          "ModID": 84165,
+          "Name": "LODIFY - Level of detail improvement for your Fallout (TTW And NV Lods)",
+          "Version": "0.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mPSRtKGNPrg=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=79358\nfileID=1000127548",
+        "Name": "VNV - LOD Patches-79358-1-1713099421.7z",
+        "Size": 2550492,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "VishVadeva - Qolore7",
+          "Description": "Files needed while following Viva New Vegas.",
+          "FileID": 1000127548,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79358/79358-1680150474-1306506046.png",
+          "IsNSFW": false,
+          "ModID": 79358,
+          "Name": "Viva New Vegas Resources",
           "Version": "1.0"
         }
       }
@@ -63,100 +142,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "aEq5fjX/gRQ=",
-        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Data\\FalloutNV.esm",
-        "Name": "Data_FalloutNV.esm",
-        "Size": 245650747,
+        "Hash": "Io6xXCuDrYI=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=83782\nfileID=1000120846",
+        "Name": "Bad Touch NVSE-83782-1-7-1703427385.zip",
+        "Size": 642250,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "FalloutNewVegas",
-          "GameFile": "Data\\FalloutNV.esm",
-          "GameVersion": "1.4.0.525",
-          "Hash": "aEq5fjX/gRQ="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DuncanWasHere",
+          "Description": "Fuck around and find out. Fire burns, electricity shocks, cacti poke, and more! A lightweight, compatibility-friendly, scripted implementation.",
+          "FileID": 1000120846,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/83782/83782-1699943761-1018082612.png",
+          "IsNSFW": false,
+          "ModID": 83782,
+          "Name": "Bad Touch NVSE",
+          "Version": "1.2.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "MIsX0Nx8nvk=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=66726\nfileID=1000123789",
-        "Name": "Functional Post Game Ending-66726-6-8-1708095898.zip",
-        "Size": 2144558,
+        "Hash": "Gng24F5u57U=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=66347\nfileID=1000126820",
+        "Name": "Stewie Tweaks-66347-9-11-1712009471.zip",
+        "Size": 5799230,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kazopert",
-          "Description": "Adds a fully functional post-game world to the game, no longer will you be brought to the credits and end your journey there. Instead, you will realise the consequences of what endings you\u0027ve gotten and explore a vastly changed world.",
-          "FileID": 1000123789,
+          "Author": "lStewieAl",
+          "Description": "Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs. \n\nAdds support for Inventory Searching, Cookable Grenades, Manual Reload, Smooth Aiming, WASD Menu Support and more. \n\nFully compatible with TTW and The Frontier.",
+          "FileID": 1000126820,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/66726/66726-1692219211-1316669404.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/66347/66347-1683057776-1599366088.png",
           "IsNSFW": false,
-          "ModID": 66726,
-          "Name": "FPGE - Functional Post Game Ending",
-          "Version": "6.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Jxm9MCitThM=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=74295\nfileID=1000103667",
-        "Name": "New Vegas Mesh Improvement Mod-74295-1-10-1673911628.7z",
-        "Size": 74514731,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "RoyBatty and SciRika",
-          "Description": "Optimizations and fixes for a large selection of meshes in the base game and DLC.",
-          "FileID": 1000103667,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/74295/74295-1636252114-355964858.png",
-          "IsNSFW": false,
-          "ModID": 74295,
-          "Name": "New Vegas Mesh Improvement Mod - NVMIM",
-          "Version": "1.10"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "LHik3CgrEwk=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=42507\nfileID=105803",
-        "Name": "The Mod Configuration Menu-42507-1-5.7z",
-        "Size": 358061,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pelinor",
-          "Description": "Allows any number of mods to be configured from a single menu.",
-          "FileID": 105803,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/42507-1-1337306058.png",
-          "IsNSFW": false,
-          "ModID": 42507,
-          "Name": "The Mod Configuration Menu",
-          "Version": "1.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "MrX54TO6vcg=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=83088\nfileID=1000117046",
-        "Name": "KEYWORDS-83088-1-01-1695964898.7z",
-        "Size": 4975,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "JazzIsParis and Xilandro",
-          "Description": "K\u0335\u0346\u0312\u035D\u0300\u034C\u034A\u033F\u0351\u0302\u0344\u0304\u0352\u034D\u0319\u0325\u0356\u0325\u0321\u031CE\u0334\u030D\u0346\u0302\u033E\u0313\u0313\u034C\u0306\u035D\u0342\u0308\u0303\u0351\u030C\u0346\u0301\u0344\u030F\u0352\u0339\u0316\u0331\u0327\u0329\u0332Y\u0335\u0358\u033D\u0302\u034C\u0352\u033D\u035B\u030D\u0360\u033A\u032F\u0319\u0333\u0331\u032B\u0318\u033A\u0327W\u0337\u033E\u0314\u0311\u035D\u035B\u0317\u0322\u0332\u032A\u0333\u032F\u032C\u0332\u0353\u0345\u031E\u0318\u0318\u035A\u031D\u0320\u0324O\u0336\u0309\u030F\u0330\u033A\u0356\u0339\u032D\u032A\u0354\u031E\u033B\u033C\u0327\u031D\u031F\u031E\u0327\u0324\u0317R\u0335\u0315\u0352\u0300\u0304\u0314\u0300\u030A\u033E\u030E\u035B\u035D\u0300\u0314\u0307\u035A\u0321\u0323\u032F\u0318\u0317\u0324\u031C\u032C\u0326\u0349D\u0338\u0309\u0358\u0360\u0303\u0315\u0305\u0346\u033D\u034A\u034C\u0311\u030F\u0352\u0307\u0351\u0303\u0342\u0344\u0348\u032E\u0331\u0317\u035A\u0349\u0324\u0349\u0328\u0317S\u0334\u0311\u030E\u0342\u0309\u030B\u0308\u030E",
-          "FileID": 1000117046,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/83088/83088-1695144234-1957343286.png",
-          "IsNSFW": false,
-          "ModID": 83088,
-          "Name": "KEYWORDS",
-          "Version": "1.01"
+          "ModID": 66347,
+          "Name": "lStewieAl\u0027s Tweaks and Engine Fixes",
+          "Version": "8.75"
         }
       }
     },
@@ -177,21 +198,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KHjl8qQiwlk=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=69226\nfileID=1000063736",
-        "Name": "A Little More Lamplight-69226-1-2-1594706760.zip",
-        "Size": 623913,
+        "Hash": "UFYEsUl1dao=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=69779\nfileID=1000099781",
+        "Name": "NVHR-69779-4-2-1665589730.7z",
+        "Size": 116756,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "zedas",
-          "Description": "An enhancement to the shoddy work on the vanilla functional streetlamps \u0026amp; lights of Outer Vegas, Camp McCarran, Camp Golf, and NCRCF.",
-          "FileID": 1000063736,
+          "Author": "iranrmrf",
+          "Description": "This library will replace the in-game heap with a faster, more optimized version. It should decrease load times, remove some stutter and slightly improve frame rate.",
+          "FileID": 1000099781,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/69226/69226-1594705276-1976294109.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/69779/69779-1598478840-261539760.png",
           "IsNSFW": false,
-          "ModID": 69226,
-          "Name": "A Little More Lamplight",
-          "Version": "1.2"
+          "ModID": 69779,
+          "Name": "New Vegas Heap Replacer",
+          "Version": "4.2"
         }
       }
     },
@@ -219,42 +240,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "jFUMyXdR3G8=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=81200\nfileID=1000124719",
-        "Name": "Depth of Field Fix-81200-1-1a-1709302843.zip",
-        "Size": 4836,
+        "Hash": "e78jhDq1gME=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=58562\nfileID=1000045407",
+        "Name": "FNVLODGen Resources-58562-1-1.7z",
+        "Size": 2745841,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "WallSoGB lStewieAl",
-          "Description": "Fix for depth of field bleeding over onto player\u0027s viewmodel. Additionally fixes washed out colors caused by low bit depth.",
-          "FileID": 1000124719,
+          "Author": "Ehamloptiran Sheson and FNVEdit Team",
+          "Description": "An almost one click LOD generator for Fallout: New Vegas",
+          "FileID": 1000045407,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81200/81200-1684511070-828022971.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/58562-1-1432921531.jpg",
           "IsNSFW": false,
-          "ModID": 81200,
-          "Name": "Depth of Field Fix - NVSE",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "C9mV07ZYzuQ=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=68714\nfileID=1000114377",
-        "Name": "MLF-68714-3-1-1691312308.zip",
-        "Size": 5025,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "iranrmrf",
-          "Description": "This plugin fixes the Fallout New Vegas mod limit bug. It allows a maximum of 255 plugins to be loaded. It can also cause an increase in fps, remove game stutter and allow for faster loading times especially when using a large number of mods.",
-          "FileID": 1000114377,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/68714/68714-1587582723-491728536.png",
-          "IsNSFW": false,
-          "ModID": 68714,
-          "Name": "FNV Mod Limit Fix",
-          "Version": "3.1"
+          "ModID": 58562,
+          "Name": "FNVLODGen",
+          "Version": "3.2.1"
         }
       }
     },
@@ -276,6 +276,27 @@
           "ModID": 69833,
           "Name": "Improved Lighting Shaders",
           "Version": "1.5beta4a"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Titic7JWu1M=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=46451\nfileID=105739",
+        "Name": "Improved LOD noise Texture-46451-V1-00.rar",
+        "Size": 2096053,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cyberlazy",
+          "Description": "Vastly improves the LOD noise texture used on all distant land. Uses only minimal video memory and greatly improves quality.",
+          "FileID": 105739,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/46451-1-1339205187.jpg",
+          "IsNSFW": false,
+          "ModID": 46451,
+          "Name": "Improved LOD Noise Texture",
+          "Version": "1.00"
         }
       }
     },
@@ -345,27 +366,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Gng24F5u57U=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=66347\nfileID=1000126820",
-        "Name": "Stewie Tweaks-66347-9-11-1712009471.zip",
-        "Size": 5799230,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lStewieAl",
-          "Description": "Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs. \n\nAdds support for Inventory Searching, Cookable Grenades, Manual Reload, Smooth Aiming, WASD Menu Support and more. \n\nFully compatible with TTW and The Frontier.",
-          "FileID": 1000126820,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/66347/66347-1683057776-1599366088.png",
-          "IsNSFW": false,
-          "ModID": 66347,
-          "Name": "lStewieAl\u0027s Tweaks and Engine Fixes",
-          "Version": "8.75"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "bOJqCuTKR2w=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=83815\nfileID=1000126586",
         "Name": "MAC-10-83815-5-0-1711796567.zip",
@@ -429,20 +429,41 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PcGhqx2DhE0=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=66537\nfileID=1000126769",
-        "Name": "NVTF-66537-10-2-2-3b-1711971784.zip",
-        "Size": 906606,
+        "Hash": "Jxm9MCitThM=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=74295\nfileID=1000103667",
+        "Name": "New Vegas Mesh Improvement Mod-74295-1-10-1673911628.7z",
+        "Size": 74514731,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Carxt - Tgspy - lStewieAl",
-          "Description": "The newest generation in performance enhancement and stutter fixing. Windows 10 compatible. Featuring fixes to the dreaded micro stutter, and a high FPS Havok fix.",
-          "FileID": 1000126769,
+          "Author": "RoyBatty and SciRika",
+          "Description": "Optimizations and fixes for a large selection of meshes in the base game and DLC.",
+          "FileID": 1000103667,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/66537/66537-1551173585-1817828269.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/74295/74295-1636252114-355964858.png",
           "IsNSFW": false,
-          "ModID": 66537,
-          "Name": "NVTF - New Vegas Tick Fix",
+          "ModID": 74295,
+          "Name": "New Vegas Mesh Improvement Mod - NVMIM",
+          "Version": "1.10"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "U4wsJMD5jpU=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=81231\nfileID=1000122783",
+        "Name": "Viva Default Preset-81231-10-2-2-3a-1706572235.zip",
+        "Size": 1531,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "VishVadeva - WallSoGB - carxt",
+          "Description": "Configurations for \u0022New Vegas Tick Fix\u0022 to solve issues and improve performance based on your setup.",
+          "FileID": 1000122783,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81231/81231-1684768140-761894133.png",
+          "IsNSFW": false,
+          "ModID": 81231,
+          "Name": "NVTF - INI Presets",
           "Version": "10.2.2.3"
         }
       }
@@ -450,42 +471,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zbwde4gIPEU=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=82042\nfileID=1000127652",
-        "Name": "fo fo fo your mod-82042-18-1713241697.7z",
-        "Size": 187650666,
+        "Hash": "VM/MWGZpue8=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=70155\nfileID=1000079255",
+        "Name": "TCM\u0027s LOD Overhaul-70155-1-1-1627771074.zip",
+        "Size": 8511081,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "team blackout",
-          "Description": "completely arbitrarily changes a lot of perfect meshes for no reason",
-          "FileID": 1000127652,
+          "Author": "Tecium",
+          "Description": "New models and textures to improve the LOD.",
+          "FileID": 1000079255,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/82042/82042-1694116149-931191762.gif",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/70155/70155-1603067248-552513400.jpeg",
           "IsNSFW": false,
-          "ModID": 82042,
-          "Name": "skinned mesh improvement mod - redone redux remake retry revengeance retopology refridgerator",
-          "Version": "5"
+          "ModID": 70155,
+          "Name": "TCM\u0027s LOD Overhaul",
+          "Version": "1.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6hshOcXlfxo=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=51664\nfileID=1000123110",
-        "Name": "YUP - Base Game and All DLC-51664-13-0-1707076107.7z",
-        "Size": 51164339,
+        "Hash": "LHik3CgrEwk=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=42507\nfileID=105803",
+        "Name": "The Mod Configuration Menu-42507-1-5.7z",
+        "Size": 358061,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Yukichigai - Currently maintained by sandbox",
-          "Description": "A compilation of vital bug fixes for Fallout: New Vegas and its DLC, all combined into one ESM.  The only pure bug fix compilation available on the Nexus: no new features, no balance tweaks, no restored content.  Just bug fixes and nothing but bug fixes.  Available in English, French, German, Italian, Spanish, and Russian.",
-          "FileID": 1000123110,
+          "Author": "Pelinor",
+          "Description": "Allows any number of mods to be configured from a single menu.",
+          "FileID": 105803,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/51664-1-1376698198.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/42507-1-1337306058.png",
           "IsNSFW": false,
-          "ModID": 51664,
-          "Name": "Yukichigai Unofficial Patch - YUP",
-          "Version": "12.8"
+          "ModID": 42507,
+          "Name": "The Mod Configuration Menu",
+          "Version": "1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "++45xEwFoxc=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=82540\nfileID=1000123251",
+        "Name": "Crash Logger-82540-4-5-4-1707242884.zip",
+        "Size": 2191726,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "yvileapsis",
+          "Description": "Fork of Cobb\u0027s Crash Logger that implements logging for quite a few game RTTI classes. This is supposed to be a much more readable alternative that doesn\u0027t require reverse-engineering skills to figure out what went wrong.",
+          "FileID": 1000123251,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/82540/82540-1691609036-1959842835.png",
+          "IsNSFW": false,
+          "ModID": 82540,
+          "Name": "Yvile\u0027s Crash Logger",
+          "Version": "4.5"
         }
       }
     },
@@ -555,27 +597,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Io6xXCuDrYI=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=83782\nfileID=1000120846",
-        "Name": "Bad Touch NVSE-83782-1-7-1703427385.zip",
-        "Size": 642250,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DuncanWasHere",
-          "Description": "Fuck around and find out. Fire burns, electricity shocks, cacti poke, and more! A lightweight, compatibility-friendly, scripted implementation.",
-          "FileID": 1000120846,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/83782/83782-1699943761-1018082612.png",
-          "IsNSFW": false,
-          "ModID": 83782,
-          "Name": "Bad Touch NVSE",
-          "Version": "1.2.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "5nTzmI0t0IM=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=70486\nfileID=1000124709",
         "Name": "Clean Companion Wheel 256x256 Edition-70486-1-0-1709295718.7z",
@@ -618,21 +639,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wr5qbIcEenQ=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=79661\nfileID=1000103654",
-        "Name": "Climate Control - Rain-79661-1-0-1673903130.zip",
-        "Size": 3475158,
+        "Hash": "tMumbc00OoI=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=81981\nfileID=1000128263",
+        "Name": "Different LOD mods little tweaks and additions-81981-1-4-1713793775.zip",
+        "Size": 58473,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "doodlum",
-          "Description": "Rain fixes and improvements powered by Climate Control NVSE. Supports 3D Rain.",
-          "FileID": 1000103654,
+          "Author": "Osip",
+          "Description": "This is fix and addition for a few popular LOD mods, all things what this mod do you can see on screenshots. This mod requires three different LOD mod see requirements!!! Without this mods it\u0027s just break your lod.",
+          "FileID": 1000128263,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79661/79661-1673903082-226892259.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81981/81981-1688571392-935523143.png",
           "IsNSFW": false,
-          "ModID": 79661,
-          "Name": "Climate Control - Rain",
-          "Version": "1.0"
+          "ModID": 81981,
+          "Name": "Different LOD mods little tweaks and additions",
+          "Version": "1.2"
         }
       }
     },
@@ -702,27 +723,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "e78jhDq1gME=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=58562\nfileID=1000045407",
-        "Name": "FNVLODGen Resources-58562-1-1.7z",
-        "Size": 2745841,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ehamloptiran Sheson and FNVEdit Team",
-          "Description": "An almost one click LOD generator for Fallout: New Vegas",
-          "FileID": 1000045407,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/58562-1-1432921531.jpg",
-          "IsNSFW": false,
-          "ModID": 58562,
-          "Name": "FNVLODGen",
-          "Version": "3.2.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "lVxb8bQ0hjw=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=85622\nfileID=1000126406",
         "Name": "ITEM-85622-1-3-1711575785.zip",
@@ -738,27 +738,6 @@
           "ModID": 85622,
           "Name": "Items Transformed - Enhanced Meshes (ITEM)",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "63xSquCZRxM=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=84165\nfileID=1000121076",
-        "Name": "Tales Of the Wanted Lods-84165-0-8-1703842370.7z",
-        "Size": 1402403,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Black Bubble",
-          "Description": "A high quality lod addition mod made for Tales of Two Wasteland 3.2.x\n\nIt will improve New Vegas too, to a lesser extent.",
-          "FileID": 1000121076,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/84165/84165-1702935954-1498962530.png",
-          "IsNSFW": false,
-          "ModID": 84165,
-          "Name": "LODIFY - Level of detail improvement for your Fallout (TTW And NV Lods)",
-          "Version": "0.8"
         }
       }
     },
@@ -786,63 +765,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+jhQKRgtn1U=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=68776\nfileID=1000104283",
-        "Name": "NVCS Vanilla Weights-68776-13-1675087221.7z",
-        "Size": 17612,
+        "Hash": "zbwde4gIPEU=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=82042\nfileID=1000127652",
+        "Name": "fo fo fo your mod-82042-18-1713241697.7z",
+        "Size": 187650666,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Various",
-          "Description": "A skeleton with compatibility for the latest mods",
-          "FileID": 1000104283,
+          "Author": "team blackout",
+          "Description": "completely arbitrarily changes a lot of perfect meshes for no reason",
+          "FileID": 1000127652,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/68776/68776-1588193623-909988060.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/82042/82042-1694116149-931191762.gif",
           "IsNSFW": false,
-          "ModID": 68776,
-          "Name": "NV Compatibility Skeleton",
-          "Version": "13"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "VM/MWGZpue8=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=70155\nfileID=1000079255",
-        "Name": "TCM\u0027s LOD Overhaul-70155-1-1-1627771074.zip",
-        "Size": 8511081,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Tecium",
-          "Description": "New models and textures to improve the LOD.",
-          "FileID": 1000079255,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/70155/70155-1603067248-552513400.jpeg",
-          "IsNSFW": false,
-          "ModID": 70155,
-          "Name": "TCM\u0027s LOD Overhaul",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "mPSRtKGNPrg=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=79358\nfileID=1000127548",
-        "Name": "VNV - LOD Patches-79358-1-1713099421.7z",
-        "Size": 2550492,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VishVadeva - Qolore7",
-          "Description": "Files needed while following Viva New Vegas.",
-          "FileID": 1000127548,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79358/79358-1680150474-1306506046.png",
-          "IsNSFW": false,
-          "ModID": 79358,
-          "Name": "Viva New Vegas Resources",
-          "Version": "1.0"
+          "ModID": 82042,
+          "Name": "skinned mesh improvement mod - redone redux remake retry revengeance retopology refridgerator",
+          "Version": "5"
         }
       }
     },
@@ -870,6 +807,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "6hshOcXlfxo=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=51664\nfileID=1000123110",
+        "Name": "YUP - Base Game and All DLC-51664-13-0-1707076107.7z",
+        "Size": 51164339,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Yukichigai - Currently maintained by sandbox",
+          "Description": "A compilation of vital bug fixes for Fallout: New Vegas and its DLC, all combined into one ESM.  The only pure bug fix compilation available on the Nexus: no new features, no balance tweaks, no restored content.  Just bug fixes and nothing but bug fixes.  Available in English, French, German, Italian, Spanish, and Russian.",
+          "FileID": 1000123110,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/51664-1-1376698198.png",
+          "IsNSFW": false,
+          "ModID": 51664,
+          "Name": "Yukichigai Unofficial Patch - YUP",
+          "Version": "12.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "yQeW8/XGTJE=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=78877\nfileID=1000121979",
         "Name": "Vanilla Enhancements Merged-78877-1-3-7-1705347468.7z",
@@ -885,6 +843,27 @@
           "ModID": 78877,
           "Name": "Essential Vanilla Enhancements Merged",
           "Version": "1.3.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zmThCWtwwbg=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=67811\nfileID=1000115498",
+        "Name": "Faster Start Menu-67811-2-0-1693172473.zip",
+        "Size": 1064,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lStewieAl",
+          "Description": "Makes the games main menu load faster.",
+          "FileID": 1000115498,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/67811/67811-1692287010-1877648120.png",
+          "IsNSFW": false,
+          "ModID": 67811,
+          "Name": "Faster Main Menu",
+          "Version": "2.0"
         }
       }
     },
@@ -927,6 +906,27 @@
           "ModID": 77073,
           "Name": "Misc Audio Tweaks and Fixes",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "S01nXHJj/yc=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=81775\nfileID=1000117718",
+        "Name": "PipBoyOn Node Fixes SMIM-81775-1-1697348375.7z",
+        "Size": 1310801,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kiwi",
+          "Description": "Fixes multiple pipboy:on nodes in the vanilla game armor meshes and TTW. As well as any other mods I decide to fix.",
+          "FileID": 1000117718,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81775/81775-1687576252-1592102725.png",
+          "IsNSFW": false,
+          "ModID": 81775,
+          "Name": "PipBoyOn Node Fixes",
+          "Version": "1.2"
         }
       }
     },
@@ -996,353 +996,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HpGetfn/7t8=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=77945\nfileID=1000109235",
-        "Name": "EVEM - Crafting Consistency Fix Patch-77945-1-0-1684071745.7z",
-        "Size": 574,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VishVadeva",
-          "Description": "Patches for TTW and FNV.",
-          "FileID": 1000109235,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77945/77945-1680150465-147867046.png",
-          "IsNSFW": false,
-          "ModID": 77945,
-          "Name": "Vish\u0027s Patch Hub (FNV-TTW)",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Z4pmkfWrg9Q=",
-        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Data\\HonestHearts.esm",
-        "Name": "Data_HonestHearts.esm",
-        "Size": 17308500,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "FalloutNewVegas",
-          "GameFile": "Data\\HonestHearts.esm",
-          "GameVersion": "1.4.0.525",
-          "Hash": "Z4pmkfWrg9Q="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "aQIwL8+VM+A=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=77945\nfileID=1000120752",
-        "Name": "Misc Content Restoration - UW (VNV) Patch-77945-1-0-1703280405.7z",
-        "Size": 441,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VishVadeva",
-          "Description": "Patches for TTW and FNV.",
-          "FileID": 1000120752,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77945/77945-1680150465-147867046.png",
-          "IsNSFW": false,
-          "ModID": 77945,
-          "Name": "Vish\u0027s Patch Hub (FNV-TTW)",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "5s7FPeEOPOk=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=71239\nfileID=1000122027",
-        "Name": "Unofficial Patch NVSE Plus-71239-1-4-9-1705434043.7z",
-        "Size": 31050,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "The UPNVSE Pals",
-          "Description": "An updated and refined selection of bugfixes (mostly) requiring NVSE.",
-          "FileID": 1000122027,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71239/71239-1613150758-1586974762.png",
-          "IsNSFW": false,
-          "ModID": 71239,
-          "Name": "Unofficial Patch NVSE Plus",
-          "Version": "1.4.8"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "UFYEsUl1dao=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=69779\nfileID=1000099781",
-        "Name": "NVHR-69779-4-2-1665589730.7z",
-        "Size": 116756,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "iranrmrf",
-          "Description": "This library will replace the in-game heap with a faster, more optimized version. It should decrease load times, remove some stutter and slightly improve frame rate.",
-          "FileID": 1000099781,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/69779/69779-1598478840-261539760.png",
-          "IsNSFW": false,
-          "ModID": 69779,
-          "Name": "New Vegas Heap Replacer",
-          "Version": "4.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "k8IY6nIjp+Q=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=80666\nfileID=1000107287",
-        "Name": "ActorCause Save Bloat Fix-80666-1-0-1680643208.zip",
-        "Size": 44180,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lStewieAl",
-          "Description": "Fixes a save bloating issue related to actors detecting the player, improving save/load speed and decreasing save size 10-30% depending on playthrough length.",
-          "FileID": 1000107287,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/80666/80666-1680642398-193203938.png",
-          "IsNSFW": false,
-          "ModID": 80666,
-          "Name": "ActorCause Save Bloat Fix",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "nn39p3DHfzg=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=75437\nfileID=1000129062",
-        "Name": "Desert Natural Weathers NV-75437-7-7-1714335770.7z",
-        "Size": 416655927,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Scott Clam",
-          "Description": "An overhaul of the weathers in New Vegas with 360 panoramic cloud textures, improved lighting and DLC support. TTW version available.",
-          "FileID": 1000129062,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/75437/75437-1691639507-2028692223.png",
-          "IsNSFW": false,
-          "ModID": 75437,
-          "Name": "Desert Natural Weathers - NV - TTW",
-          "Version": "6.9.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "NGPHwPmByXI=",
-        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Data\\LonesomeRoad.esm",
-        "Name": "Data_LonesomeRoad.esm",
-        "Size": 25676818,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "FalloutNewVegas",
-          "GameFile": "Data\\LonesomeRoad.esm",
-          "GameVersion": "1.4.0.525",
-          "Hash": "NGPHwPmByXI="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "BPI6HIak1HM=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=81003\nfileID=1000128573",
-        "Name": "Navmesh Overhaul-81003-6-0-1714019262.zip",
-        "Size": 15490519,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Inthegrave",
-          "Description": "This mod fixes and improves vanilla game pathfinding errors and will provide a better and more challenging experience with the AI. This will be an ongoing project and will be supported with updates through the years. So look forward to many more updates to come.",
-          "FileID": 1000128573,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81003/81003-1683122504-906467206.jpeg",
-          "IsNSFW": false,
-          "ModID": 81003,
-          "Name": "Improved AI (Navmesh Overhaul Mod)",
-          "Version": "5.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8//vNYA9QGU=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=83056\nfileID=1000126285",
-        "Name": "vigor patch-83056-1-0-1711426883.7z",
-        "Size": 542,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "team blackout - pushthewinbutton - poke",
-          "Description": "patches some stats on a few outfits and armors",
-          "FileID": 1000126285,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/83056/83056-1694806989-972610319.png",
-          "IsNSFW": false,
-          "ModID": 83056,
-          "Name": "Skinned Mesh Improvement Mod Redux - JSawyer Ultimate Edition Patch",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Pv+jQTy5dzw=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=78916\nfileID=1000113434",
-        "Name": "Trap Tweaks NV-78916-1-02-1689989249.rar",
-        "Size": 13022,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "S6S",
-          "Description": "This mod makes explosive traps use explosives, survival, or science skills instead of repair, which is already super useful.",
-          "FileID": 1000113434,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/78916/78916-1667764183-251784387.png",
-          "IsNSFW": false,
-          "ModID": 78916,
-          "Name": "Traps Tweaks - Traps Use Other Skills",
-          "Version": "1.02"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "qrbslhctvk4=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=64335\nfileID=1000073430",
-        "Name": "B42 Inertia V1.2-64335-1-2-1615691254.zip",
-        "Size": 3977,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Xilandro - master JazzIsParis - DarianStephens",
-          "Description": "This mod adds weapon inertia. Part of Project B42. Thanks to JazzIsMagic... I mean Paris. ;)",
-          "FileID": 1000073430,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/64335/64335-1690613694-1065787556.jpeg",
-          "IsNSFW": false,
-          "ModID": 64335,
-          "Name": "B42 Weapon Inertia",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "m7S4FF26QwI=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=81231\nfileID=1000122784",
-        "Name": "Texture Modding Preset-81231-10-2-2-3a-1706572266.zip",
-        "Size": 1531,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VishVadeva - WallSoGB - carxt",
-          "Description": "Configurations for \u0022New Vegas Tick Fix\u0022 to solve issues and improve performance based on your setup.",
-          "FileID": 1000122784,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81231/81231-1684768140-761894133.png",
-          "IsNSFW": false,
-          "ModID": 81231,
-          "Name": "NVTF - INI Presets",
-          "Version": "10.2.2.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "SJKONndy/Ls=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=76522\nfileID=1000119329",
-        "Name": "Stewie Tweaks Essentials INI-76522-1-07-1700607944.7z",
-        "Size": 33009,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lStewieAl",
-          "Description": "A Stewie Tweaks INI with just the essential fixes and QoL settings enabled, hand-picked by the GOAT himself.",
-          "FileID": 1000119329,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/76522/76522-1678279313-1789897971.png",
-          "IsNSFW": false,
-          "ModID": 76522,
-          "Name": "Stewie Tweaks Essentials INI",
-          "Version": "1.06"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "++45xEwFoxc=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=82540\nfileID=1000123251",
-        "Name": "Crash Logger-82540-4-5-4-1707242884.zip",
-        "Size": 2191726,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "yvileapsis",
-          "Description": "Fork of Cobb\u0027s Crash Logger that implements logging for quite a few game RTTI classes. This is supposed to be a much more readable alternative that doesn\u0027t require reverse-engineering skills to figure out what went wrong.",
-          "FileID": 1000123251,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/82540/82540-1691609036-1959842835.png",
-          "IsNSFW": false,
-          "ModID": 82540,
-          "Name": "Yvile\u0027s Crash Logger",
-          "Version": "4.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tMumbc00OoI=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=81981\nfileID=1000128263",
-        "Name": "Different LOD mods little tweaks and additions-81981-1-4-1713793775.zip",
-        "Size": 58473,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Osip",
-          "Description": "This is fix and addition for a few popular LOD mods, all things what this mod do you can see on screenshots. This mod requires three different LOD mod see requirements!!! Without this mods it\u0027s just break your lod.",
-          "FileID": 1000128263,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81981/81981-1688571392-935523143.png",
-          "IsNSFW": false,
-          "ModID": 81981,
-          "Name": "Different LOD mods little tweaks and additions",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "S01nXHJj/yc=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=81775\nfileID=1000117718",
-        "Name": "PipBoyOn Node Fixes SMIM-81775-1-1697348375.7z",
-        "Size": 1310801,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kiwi",
-          "Description": "Fixes multiple pipboy:on nodes in the vanilla game armor meshes and TTW. As well as any other mods I decide to fix.",
-          "FileID": 1000117718,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81775/81775-1687576252-1592102725.png",
-          "IsNSFW": false,
-          "ModID": 81775,
-          "Name": "PipBoyOn Node Fixes",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "scl6eRAZ2SM=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=75031\nfileID=1000129213",
         "Name": "Better Brotherhood-75031-2-4g-1714439225.7z",
@@ -1364,6 +1017,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "wr5qbIcEenQ=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=79661\nfileID=1000103654",
+        "Name": "Climate Control - Rain-79661-1-0-1673903130.zip",
+        "Size": 3475158,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "doodlum",
+          "Description": "Rain fixes and improvements powered by Climate Control NVSE. Supports 3D Rain.",
+          "FileID": 1000103654,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79661/79661-1673903082-226892259.png",
+          "IsNSFW": false,
+          "ModID": 79661,
+          "Name": "Climate Control - Rain",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "/N6oB7iEHyI=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=77945\nfileID=1000118484",
         "Name": "EVEM - Vigor Patch-77945-1-0-1698857109.7z",
@@ -1379,6 +1053,27 @@
           "ModID": 77945,
           "Name": "Vish\u0027s Patch Hub (FNV-TTW)",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MIsX0Nx8nvk=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=66726\nfileID=1000123789",
+        "Name": "Functional Post Game Ending-66726-6-8-1708095898.zip",
+        "Size": 2144558,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kazopert",
+          "Description": "Adds a fully functional post-game world to the game, no longer will you be brought to the credits and end your journey there. Instead, you will realise the consequences of what endings you\u0027ve gotten and explore a vastly changed world.",
+          "FileID": 1000123789,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/66726/66726-1692219211-1316669404.png",
+          "IsNSFW": false,
+          "ModID": 66726,
+          "Name": "FPGE - Functional Post Game Ending",
+          "Version": "6.4"
         }
       }
     },
@@ -1427,106 +1122,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Titic7JWu1M=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=46451\nfileID=105739",
-        "Name": "Improved LOD noise Texture-46451-V1-00.rar",
-        "Size": 2096053,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Cyberlazy",
-          "Description": "Vastly improves the LOD noise texture used on all distant land. Uses only minimal video memory and greatly improves quality.",
-          "FileID": 105739,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/46451-1-1339205187.jpg",
-          "IsNSFW": false,
-          "ModID": 46451,
-          "Name": "Improved LOD Noise Texture",
-          "Version": "1.00"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "U4wsJMD5jpU=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=81231\nfileID=1000122783",
-        "Name": "Viva Default Preset-81231-10-2-2-3a-1706572235.zip",
-        "Size": 1531,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VishVadeva - WallSoGB - carxt",
-          "Description": "Configurations for \u0022New Vegas Tick Fix\u0022 to solve issues and improve performance based on your setup.",
-          "FileID": 1000122783,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81231/81231-1684768140-761894133.png",
-          "IsNSFW": false,
-          "ModID": 81231,
-          "Name": "NVTF - INI Presets",
-          "Version": "10.2.2.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PMKwnRgvAg8=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=85103\nfileID=1000126600",
-        "Name": "Show Water Source H2O-85103-1-3-1711825346.zip",
-        "Size": 1580,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Stentorious",
-          "Description": "Water sources will show their hydration amount instead of HP when the player is in hardcore mode.",
-          "FileID": 1000126600,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/85103/85103-1708556838-1014829337.png",
-          "IsNSFW": false,
-          "ModID": 85103,
-          "Name": "Show Water Source H2O - ESPless",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "n03w8BZwxJI=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=81678\nfileID=1000114959",
-        "Name": "lStewieAl - Cookable Grenades-81678-1-0-1692310563.zip",
-        "Size": 1311,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lStewieAl",
-          "Description": "Holding a grenade before throwing it decreases its fuse.",
-          "FileID": 1000114959,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81678/81678-1692228202-414293437.png",
-          "IsNSFW": false,
-          "ModID": 81678,
-          "Name": "Cookable Grenades",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "r7offHzw4Fs=",
-        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Data\\OldWorldBlues.esm",
-        "Name": "Data_OldWorldBlues.esm",
-        "Size": 16202800,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "FalloutNewVegas",
-          "GameFile": "Data\\OldWorldBlues.esm",
-          "GameVersion": "1.4.0.525",
-          "Hash": "r7offHzw4Fs="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "8OkfZZNNtig=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=77957\nfileID=1000125366",
         "Name": "Pip-Boy Shading Fix-77957-2-0-1710109777.zip",
@@ -1569,20 +1164,41 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zmThCWtwwbg=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=67811\nfileID=1000115498",
-        "Name": "Faster Start Menu-67811-2-0-1693172473.zip",
-        "Size": 1064,
+        "Hash": "449XOKgFViI=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=84396\nfileID=1000121491",
+        "Name": "Varmint Rifle 22LR-84396-1-0-1704502299.7z",
+        "Size": 2143,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Biggie404",
+          "Description": "Simple configurable gamesetting tweaks designed for use with Vigor powered by lStewieAl\u0027s Tweaks and Engine Fixes.",
+          "FileID": 1000121491,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/84396/84396-1704503322-902174917.png",
+          "IsNSFW": false,
+          "ModID": 84396,
+          "Name": "Simple Vigor Config",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7H2YF1QqNgc=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=66785\nfileID=1000115499",
+        "Name": "Faster Sleep Wait-66785-2-0-1693172568.zip",
+        "Size": 1138,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "lStewieAl",
-          "Description": "Makes the games main menu load faster.",
-          "FileID": 1000115498,
+          "Description": "Decreases the delay between hours while waiting or sleeping.",
+          "FileID": 1000115499,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/67811/67811-1692287010-1877648120.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/66785/66785-1693067804-74149664.png",
           "IsNSFW": false,
-          "ModID": 67811,
-          "Name": "Faster Main Menu",
+          "ModID": 66785,
+          "Name": "Faster Sleep-Wait",
           "Version": "2.0"
         }
       }
@@ -1590,21 +1206,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Ha3XstiOxXY=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=79378\nfileID=1000122174",
-        "Name": "Atmospheric Lighting Tweaks - FNV - YUP-79378-1-4-1705701795.7z",
-        "Size": 12000,
+        "Hash": "r7offHzw4Fs=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Data\\OldWorldBlues.esm",
+        "Name": "Data_OldWorldBlues.esm",
+        "Size": 16202800,
         "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Roni8501",
-          "Description": "Atmospheric Lighting Tweaks makes changes to Image Spaces and Lighting Templates to give interiors a more dynamic and atmospheric look.",
-          "FileID": 1000122174,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79378/79378-1671733375-1549189896.jpeg",
-          "IsNSFW": false,
-          "ModID": 79378,
-          "Name": "Atmospheric Lighting Tweaks (Interior Lighting for FNV and TTW)",
-          "Version": "1.3"
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Data\\OldWorldBlues.esm",
+          "GameVersion": "1.4.0.525",
+          "Hash": "r7offHzw4Fs="
         }
       }
     },
@@ -1695,63 +1306,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "449XOKgFViI=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=84396\nfileID=1000121491",
-        "Name": "Varmint Rifle 22LR-84396-1-0-1704502299.7z",
-        "Size": 2143,
+        "Hash": "Ha3XstiOxXY=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=79378\nfileID=1000122174",
+        "Name": "Atmospheric Lighting Tweaks - FNV - YUP-79378-1-4-1705701795.7z",
+        "Size": 12000,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Biggie404",
-          "Description": "Simple configurable gamesetting tweaks designed for use with Vigor powered by lStewieAl\u0027s Tweaks and Engine Fixes.",
-          "FileID": 1000121491,
+          "Author": "Roni8501",
+          "Description": "Atmospheric Lighting Tweaks makes changes to Image Spaces and Lighting Templates to give interiors a more dynamic and atmospheric look.",
+          "FileID": 1000122174,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/84396/84396-1704503322-902174917.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79378/79378-1671733375-1549189896.jpeg",
           "IsNSFW": false,
-          "ModID": 84396,
-          "Name": "Simple Vigor Config",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7H2YF1QqNgc=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=66785\nfileID=1000115499",
-        "Name": "Faster Sleep Wait-66785-2-0-1693172568.zip",
-        "Size": 1138,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lStewieAl",
-          "Description": "Decreases the delay between hours while waiting or sleeping.",
-          "FileID": 1000115499,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/66785/66785-1693067804-74149664.png",
-          "IsNSFW": false,
-          "ModID": 66785,
-          "Name": "Faster Sleep-Wait",
-          "Version": "2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "0MCq57CSiTA=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=77945\nfileID=1000129149",
-        "Name": "EVEM - YUP Patch-77945-1-0-1714394825.7z",
-        "Size": 2378,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VishVadeva",
-          "Description": "Patches for TTW and FNV.",
-          "FileID": 1000129149,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77945/77945-1680150465-147867046.png",
-          "IsNSFW": false,
-          "ModID": 77945,
-          "Name": "Vish\u0027s Patch Hub (FNV-TTW)",
-          "Version": "1.0"
+          "ModID": 79378,
+          "Name": "Atmospheric Lighting Tweaks (Interior Lighting for FNV and TTW)",
+          "Version": "1.3"
         }
       }
     },
@@ -1842,41 +1411,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dh+xUCYZfH4=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=62552\nfileID=1000075100",
-        "Name": "4GB Patcher-62552-1-5-1618787921.7z",
-        "Size": 104303,
+        "Hash": "M3ov9Y1L6QY=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=81743\nfileID=1000114957",
+        "Name": "lStewieAl - Menu Search-81743-1-0-1692310380.zip",
+        "Size": 1440,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Roy Batty - LuthienAnarion",
-          "Description": "Simple patcher to make Fallout New Vegas 4GB Aware. Supports all known Steam and GoG versions. The EPIC Games, Bethesda.net and XBOX Game pass versions are NOT supported since NVSE will not support them either.",
-          "FileID": 1000075100,
+          "Author": "lStewieAl",
+          "Description": "Add Ctrl-F to search in PipBoy, Container, Barter, Recipe, Levelup Perks and Save/Load menus.",
+          "FileID": 1000114957,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/62552-0-1479507758.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81743/81743-1692228311-20941550.png",
           "IsNSFW": false,
-          "ModID": 62552,
-          "Name": "FNV 4GB Patcher",
-          "Version": "1.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "f4dbkLGIdxw=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=77945\nfileID=1000113221",
-        "Name": "Atmospheric Lighting Tweaks - EVEM Patch-77945-1-0-1689624770.7z",
-        "Size": 445,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VishVadeva",
-          "Description": "Patches for TTW and FNV.",
-          "FileID": 1000113221,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77945/77945-1680150465-147867046.png",
-          "IsNSFW": false,
-          "ModID": 77945,
-          "Name": "Vish\u0027s Patch Hub (FNV-TTW)",
+          "ModID": 81743,
+          "Name": "Menu Search",
           "Version": "1.0"
         }
       }
@@ -1884,21 +1432,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ACdXnaX5Vg4=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=71577\nfileID=1000111518",
-        "Name": "FaceGen Tint Fixes for NV-71577-1-1-1687215678.rar",
-        "Size": 81130775,
+        "Hash": "0MCq57CSiTA=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=77945\nfileID=1000129149",
+        "Name": "EVEM - YUP Patch-77945-1-0-1714394825.7z",
+        "Size": 2378,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MorningSpice",
-          "Description": "Mostly effective fungal treatment for facegen.",
-          "FileID": 1000111518,
+          "Author": "VishVadeva",
+          "Description": "Patches for TTW and FNV.",
+          "FileID": 1000129149,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71577/71577-1615078817-1060249391.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77945/77945-1680150465-147867046.png",
           "IsNSFW": false,
-          "ModID": 71577,
-          "Name": "Mostly Fixed FaceGen Tints (NV or TTW)",
-          "Version": "1.1"
+          "ModID": 77945,
+          "Name": "Vish\u0027s Patch Hub (FNV-TTW)",
+          "Version": "1.0"
         }
       }
     },
@@ -1920,6 +1468,27 @@
           "ModID": 79358,
           "Name": "Viva New Vegas Resources",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5s7FPeEOPOk=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=71239\nfileID=1000122027",
+        "Name": "Unofficial Patch NVSE Plus-71239-1-4-9-1705434043.7z",
+        "Size": 31050,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The UPNVSE Pals",
+          "Description": "An updated and refined selection of bugfixes (mostly) requiring NVSE.",
+          "FileID": 1000122027,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71239/71239-1613150758-1586974762.png",
+          "IsNSFW": false,
+          "ModID": 71239,
+          "Name": "Unofficial Patch NVSE Plus",
+          "Version": "1.4.8"
         }
       }
     },
@@ -2010,90 +1579,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "M3ov9Y1L6QY=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=81743\nfileID=1000114957",
-        "Name": "lStewieAl - Menu Search-81743-1-0-1692310380.zip",
-        "Size": 1440,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lStewieAl",
-          "Description": "Add Ctrl-F to search in PipBoy, Container, Barter, Recipe, Levelup Perks and Save/Load menus.",
-          "FileID": 1000114957,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81743/81743-1692228311-20941550.png",
-          "IsNSFW": false,
-          "ModID": 81743,
-          "Name": "Menu Search",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "DE+VJMw5hTI=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=71501\nfileID=1000118696",
-        "Name": "ExRB-71501-2-1-1699234837.7z",
-        "Size": 43906,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "evilzer2",
-          "Description": "Adds/changes roombounds for some interior cells. Can provide better performance.",
-          "FileID": 1000118696,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71501/71501-1614521360-892044994.png",
-          "IsNSFW": false,
-          "ModID": 71501,
-          "Name": "ExRB - Extended Roombounds",
-          "Version": "2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "eO6jUBv4Bjs=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=84443\nfileID=1000124732",
-        "Name": "Viewmodel Shake Fix - NVSE-84443-1-2-1709322855.zip",
-        "Size": 5516,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "WallSoGB",
-          "Description": "Fix for massive shaking during aiming caused by floating point precision loss.",
-          "FileID": 1000124732,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/84443/84443-1704739236-1536261728.png",
-          "IsNSFW": false,
-          "ModID": 84443,
-          "Name": "Viewmodel Shake Fix - NVSE",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "D0APLHPItvE=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=75417\nfileID=1000112545",
-        "Name": "ISControl-75417-2-3-1688602677.7z",
-        "Size": 19068,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "B42",
-          "Description": "Dynamically adds ISControl node system animation support \u002B easy per-weapon sights adjustment",
-          "FileID": 1000112545,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/75417/75417-1690611243-2079813885.jpeg",
-          "IsNSFW": false,
-          "ModID": 75417,
-          "Name": "ISControl Enabler and Ironsights adjuster (now ESPless)",
-          "Version": "2.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "9TH4X0dPrVc=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=83065\nfileID=1000116407",
         "Name": "First release.-83065-1-0-1694844288.zip",
@@ -2109,6 +1594,27 @@
           "ModID": 83065,
           "Name": "Wasted Rocks Normals",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KHjl8qQiwlk=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=69226\nfileID=1000063736",
+        "Name": "A Little More Lamplight-69226-1-2-1594706760.zip",
+        "Size": 623913,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "zedas",
+          "Description": "An enhancement to the shoddy work on the vanilla functional streetlamps \u0026amp; lights of Outer Vegas, Camp McCarran, Camp Golf, and NCRCF.",
+          "FileID": 1000063736,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/69226/69226-1594705276-1976294109.png",
+          "IsNSFW": false,
+          "ModID": 69226,
+          "Name": "A Little More Lamplight",
+          "Version": "1.2"
         }
       }
     },
@@ -2157,21 +1663,189 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "A7zdekPT4bY=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=42507\nfileID=1000001534",
-        "Name": "MCM BugFix 2-42507-.7z",
-        "Size": 18141,
+        "Hash": "dh+xUCYZfH4=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=62552\nfileID=1000075100",
+        "Name": "4GB Patcher-62552-1-5-1618787921.7z",
+        "Size": 104303,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Pelinor",
-          "Description": "Allows any number of mods to be configured from a single menu.",
-          "FileID": 1000001534,
+          "Author": "Roy Batty - LuthienAnarion",
+          "Description": "Simple patcher to make Fallout New Vegas 4GB Aware. Supports all known Steam and GoG versions. The EPIC Games, Bethesda.net and XBOX Game pass versions are NOT supported since NVSE will not support them either.",
+          "FileID": 1000075100,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/42507-1-1337306058.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/62552-0-1479507758.png",
           "IsNSFW": false,
-          "ModID": 42507,
-          "Name": "The Mod Configuration Menu",
+          "ModID": 62552,
+          "Name": "FNV 4GB Patcher",
           "Version": "1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "f4dbkLGIdxw=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=77945\nfileID=1000113221",
+        "Name": "Atmospheric Lighting Tweaks - EVEM Patch-77945-1-0-1689624770.7z",
+        "Size": 445,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "VishVadeva",
+          "Description": "Patches for TTW and FNV.",
+          "FileID": 1000113221,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77945/77945-1680150465-147867046.png",
+          "IsNSFW": false,
+          "ModID": 77945,
+          "Name": "Vish\u0027s Patch Hub (FNV-TTW)",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ACdXnaX5Vg4=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=71577\nfileID=1000111518",
+        "Name": "FaceGen Tint Fixes for NV-71577-1-1-1687215678.rar",
+        "Size": 81130775,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MorningSpice",
+          "Description": "Mostly effective fungal treatment for facegen.",
+          "FileID": 1000111518,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71577/71577-1615078817-1060249391.png",
+          "IsNSFW": false,
+          "ModID": 71577,
+          "Name": "Mostly Fixed FaceGen Tints (NV or TTW)",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eO6jUBv4Bjs=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=84443\nfileID=1000124732",
+        "Name": "Viewmodel Shake Fix - NVSE-84443-1-2-1709322855.zip",
+        "Size": 5516,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "WallSoGB",
+          "Description": "Fix for massive shaking during aiming caused by floating point precision loss.",
+          "FileID": 1000124732,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/84443/84443-1704739236-1536261728.png",
+          "IsNSFW": false,
+          "ModID": 84443,
+          "Name": "Viewmodel Shake Fix - NVSE",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "D0APLHPItvE=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=75417\nfileID=1000112545",
+        "Name": "ISControl-75417-2-3-1688602677.7z",
+        "Size": 19068,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "B42",
+          "Description": "Dynamically adds ISControl node system animation support \u002B easy per-weapon sights adjustment",
+          "FileID": 1000112545,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/75417/75417-1690611243-2079813885.jpeg",
+          "IsNSFW": false,
+          "ModID": 75417,
+          "Name": "ISControl Enabler and Ironsights adjuster (now ESPless)",
+          "Version": "2.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FGdsdo666Sg=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=77073\nfileID=1000114386",
+        "Name": "Elijah Missing Distortion Fix-77073-1-0-1691326711.zip",
+        "Size": 18251,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "spockthewok",
+          "Description": "A collection of tweaks for certain audio files to fix popping issues and other annoyances (no ESP).",
+          "FileID": 1000114386,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77073/77073-1655406995-1609546184.png",
+          "IsNSFW": false,
+          "ModID": 77073,
+          "Name": "Misc Audio Tweaks and Fixes",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cd4A7OvEW3g=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=80360\nfileID=1000106294",
+        "Name": "Harder Barter Faster Stronger-80360-1-01-1678556512.rar",
+        "Size": 405,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "S6S",
+          "Description": "This small GameSetting tweak makes the economy harsher for characters with low barter, makes barter affect prices more, and slightly narrows the difference between max sell and min buy prices.",
+          "FileID": 1000106294,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/80360/80360-1678479030-1595403157.png",
+          "IsNSFW": false,
+          "ModID": 80360,
+          "Name": "Harder Barter Faster Stronger",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mvtohELLpbQ=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=69074\nfileID=1000115503",
+        "Name": "Smooth True Ironsights-69074-2-0-1693172812.zip",
+        "Size": 1281,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lStewieAl - Hitman47101",
+          "Description": "Aim down sights without the camera snapping to place. Engine plugin, no esps or animation files - compatible with all animation mods.",
+          "FileID": 1000115503,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/69074/69074-1692286958-1726758396.png",
+          "IsNSFW": false,
+          "ModID": 69074,
+          "Name": "Smooth True Iron Sights Camera",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DE+VJMw5hTI=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=71501\nfileID=1000118696",
+        "Name": "ExRB-71501-2-1-1699234837.7z",
+        "Size": 43906,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "evilzer2",
+          "Description": "Adds/changes roombounds for some interior cells. Can provide better performance.",
+          "FileID": 1000118696,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/71501/71501-1614521360-892044994.png",
+          "IsNSFW": false,
+          "ModID": 71501,
+          "Name": "ExRB - Extended Roombounds",
+          "Version": "2.0"
         }
       }
     },
@@ -2304,84 +1978,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "FGdsdo666Sg=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=77073\nfileID=1000114386",
-        "Name": "Elijah Missing Distortion Fix-77073-1-0-1691326711.zip",
-        "Size": 18251,
+        "Hash": "A7zdekPT4bY=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=42507\nfileID=1000001534",
+        "Name": "MCM BugFix 2-42507-.7z",
+        "Size": 18141,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "spockthewok",
-          "Description": "A collection of tweaks for certain audio files to fix popping issues and other annoyances (no ESP).",
-          "FileID": 1000114386,
+          "Author": "Pelinor",
+          "Description": "Allows any number of mods to be configured from a single menu.",
+          "FileID": 1000001534,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77073/77073-1655406995-1609546184.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/42507-1-1337306058.png",
           "IsNSFW": false,
-          "ModID": 77073,
-          "Name": "Misc Audio Tweaks and Fixes",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cd4A7OvEW3g=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=80360\nfileID=1000106294",
-        "Name": "Harder Barter Faster Stronger-80360-1-01-1678556512.rar",
-        "Size": 405,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "S6S",
-          "Description": "This small GameSetting tweak makes the economy harsher for characters with low barter, makes barter affect prices more, and slightly narrows the difference between max sell and min buy prices.",
-          "FileID": 1000106294,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/80360/80360-1678479030-1595403157.png",
-          "IsNSFW": false,
-          "ModID": 80360,
-          "Name": "Harder Barter Faster Stronger",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "mvtohELLpbQ=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=69074\nfileID=1000115503",
-        "Name": "Smooth True Ironsights-69074-2-0-1693172812.zip",
-        "Size": 1281,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lStewieAl - Hitman47101",
-          "Description": "Aim down sights without the camera snapping to place. Engine plugin, no esps or animation files - compatible with all animation mods.",
-          "FileID": 1000115503,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/69074/69074-1692286958-1726758396.png",
-          "IsNSFW": false,
-          "ModID": 69074,
-          "Name": "Smooth True Iron Sights Camera",
-          "Version": "2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "nsUf1zETp/s=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=83425\nfileID=1000121131",
-        "Name": "Landscape Texture Improvements-83425-1-3-1703913033.7z",
-        "Size": 36132883,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Biggie404",
-          "Description": "This mod will help improve many aspects of the landscape, most notably reducing landscape texture seams which are most apparent when using texture packs.",
-          "FileID": 1000121131,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/83425/83425-1697750295-1330593434.png",
-          "IsNSFW": false,
-          "ModID": 83425,
-          "Name": "Landscape Texture Improvements (FNV - TTW)",
-          "Version": "1.2b"
+          "ModID": 42507,
+          "Name": "The Mod Configuration Menu",
+          "Version": "1.5"
         }
       }
     },
@@ -2493,6 +2104,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "nsUf1zETp/s=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=83425\nfileID=1000121131",
+        "Name": "Landscape Texture Improvements-83425-1-3-1703913033.7z",
+        "Size": 36132883,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Biggie404",
+          "Description": "This mod will help improve many aspects of the landscape, most notably reducing landscape texture seams which are most apparent when using texture packs.",
+          "FileID": 1000121131,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/83425/83425-1697750295-1330593434.png",
+          "IsNSFW": false,
+          "ModID": 83425,
+          "Name": "Landscape Texture Improvements (FNV - TTW)",
+          "Version": "1.2b"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MrX54TO6vcg=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=83088\nfileID=1000117046",
+        "Name": "KEYWORDS-83088-1-01-1695964898.7z",
+        "Size": 4975,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "JazzIsParis and Xilandro",
+          "Description": "K\u0335\u0346\u0312\u035D\u0300\u034C\u034A\u033F\u0351\u0302\u0344\u0304\u0352\u034D\u0319\u0325\u0356\u0325\u0321\u031CE\u0334\u030D\u0346\u0302\u033E\u0313\u0313\u034C\u0306\u035D\u0342\u0308\u0303\u0351\u030C\u0346\u0301\u0344\u030F\u0352\u0339\u0316\u0331\u0327\u0329\u0332Y\u0335\u0358\u033D\u0302\u034C\u0352\u033D\u035B\u030D\u0360\u033A\u032F\u0319\u0333\u0331\u032B\u0318\u033A\u0327W\u0337\u033E\u0314\u0311\u035D\u035B\u0317\u0322\u0332\u032A\u0333\u032F\u032C\u0332\u0353\u0345\u031E\u0318\u0318\u035A\u031D\u0320\u0324O\u0336\u0309\u030F\u0330\u033A\u0356\u0339\u032D\u032A\u0354\u031E\u033B\u033C\u0327\u031D\u031F\u031E\u0327\u0324\u0317R\u0335\u0315\u0352\u0300\u0304\u0314\u0300\u030A\u033E\u030E\u035B\u035D\u0300\u0314\u0307\u035A\u0321\u0323\u032F\u0318\u0317\u0324\u031C\u032C\u0326\u0349D\u0338\u0309\u0358\u0360\u0303\u0315\u0305\u0346\u033D\u034A\u034C\u0311\u030F\u0352\u0307\u0351\u0303\u0342\u0344\u0348\u032E\u0331\u0317\u035A\u0349\u0324\u0349\u0328\u0317S\u0334\u0311\u030E\u0342\u0309\u030B\u0308\u030E",
+          "FileID": 1000117046,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/83088/83088-1695144234-1957343286.png",
+          "IsNSFW": false,
+          "ModID": 83088,
+          "Name": "KEYWORDS",
+          "Version": "1.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "lWDYRrCsxSQ=",
         "Meta": "[General]\ngameName=falloutnv\nmodID=77205\nfileID=1000094799",
         "Name": "Climate Control NVSE-77205-1-0-1656185991.zip",
@@ -2556,63 +2209,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "O6C1di5nKts=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=81130\nfileID=1000109205",
-        "Name": "Crafting Consistency Fix-81130-1-1-1-1684022606.zip",
-        "Size": 1734,
+        "Hash": "lT3osI8cE0M=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=85148\nfileID=1000124269",
+        "Name": "Sleep Wait Hardcore Needs-85148-1-1-1708724620.zip",
+        "Size": 2430,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MutfruitSalad",
-          "Description": "I noticed that the workbench menus didn\u0027t capitalize their tab names. This fixes that.",
-          "FileID": 1000109205,
+          "Author": "Stentorious",
+          "Description": "The Sleep/Wait menu will show the amount of H2O, FOD, and SLP to be gained/lost based on the time selected.",
+          "FileID": 1000124269,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81130/81130-1684014995-339455481.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/85148/85148-1708750050-1250837889.png",
           "IsNSFW": false,
-          "ModID": 81130,
-          "Name": "Crafting Consistency Fix",
-          "Version": "1.1.1"
+          "ModID": 85148,
+          "Name": "Sleep Wait Hardcore Needs",
+          "Version": "1.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "3DzjRjHDHzM=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=77945\nfileID=1000114388",
-        "Name": "Essential DLC Enhancements Merged - JSUE Patch-77945-1-0-1691327911.7z",
-        "Size": 1105,
+        "Hash": "yevgH8me8jU=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=72099\nfileID=1000079946",
+        "Name": "FNV LOD Supplementation-72099-Overpass0-01-1629289300.zip",
+        "Size": 200291,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VishVadeva",
-          "Description": "Patches for TTW and FNV.",
-          "FileID": 1000114388,
+          "Author": "FaramH",
+          "Description": "Adds some extra meshes for LOD generation for structures which previously didn\u0027t have them and improves some vanilla ones. Less Horrendous Nellis tower, Urban overpass walkways, rock crushing plants, cranes, barns, 3D retaining walls and some ruined buildings. WIP.",
+          "FileID": 1000079946,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77945/77945-1680150465-147867046.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/72099/72099-1618781091-585013970.png",
           "IsNSFW": false,
-          "ModID": 77945,
-          "Name": "Vish\u0027s Patch Hub (FNV-TTW)",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "n07E81ZAZbY=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=62180\nfileID=1000038128",
-        "Name": "Follower Tweaks-62180-1-0.zip",
-        "Size": 1129,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PushTheWinButton",
-          "Description": "Assorted changes to remove annoying features from some followers. Enhanced Sensors, Spotter and Search and Mark perk effects changed. ED-Es no longer \u0027whir\u0027 whilst moving.",
-          "FileID": 1000038128,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/62180-0-1470146065.jpg",
-          "IsNSFW": false,
-          "ModID": 62180,
-          "Name": "Follower Tweaks",
-          "Version": "1.0"
+          "ModID": 72099,
+          "Name": "FNV LOD Supplementation",
+          "Version": "0.11a"
         }
       }
     },
@@ -2724,63 +2356,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "lT3osI8cE0M=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=85148\nfileID=1000124269",
-        "Name": "Sleep Wait Hardcore Needs-85148-1-1-1708724620.zip",
-        "Size": 2430,
+        "Hash": "qrbslhctvk4=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=64335\nfileID=1000073430",
+        "Name": "B42 Inertia V1.2-64335-1-2-1615691254.zip",
+        "Size": 3977,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Stentorious",
-          "Description": "The Sleep/Wait menu will show the amount of H2O, FOD, and SLP to be gained/lost based on the time selected.",
-          "FileID": 1000124269,
+          "Author": "Xilandro - master JazzIsParis - DarianStephens",
+          "Description": "This mod adds weapon inertia. Part of Project B42. Thanks to JazzIsMagic... I mean Paris. ;)",
+          "FileID": 1000073430,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/85148/85148-1708750050-1250837889.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/64335/64335-1690613694-1065787556.jpeg",
           "IsNSFW": false,
-          "ModID": 85148,
-          "Name": "Sleep Wait Hardcore Needs",
-          "Version": "1.1"
+          "ModID": 64335,
+          "Name": "B42 Weapon Inertia",
+          "Version": "1.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yevgH8me8jU=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=72099\nfileID=1000079946",
-        "Name": "FNV LOD Supplementation-72099-Overpass0-01-1629289300.zip",
-        "Size": 200291,
+        "Hash": "O6C1di5nKts=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=81130\nfileID=1000109205",
+        "Name": "Crafting Consistency Fix-81130-1-1-1-1684022606.zip",
+        "Size": 1734,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "FaramH",
-          "Description": "Adds some extra meshes for LOD generation for structures which previously didn\u0027t have them and improves some vanilla ones. Less Horrendous Nellis tower, Urban overpass walkways, rock crushing plants, cranes, barns, 3D retaining walls and some ruined buildings. WIP.",
-          "FileID": 1000079946,
+          "Author": "MutfruitSalad",
+          "Description": "I noticed that the workbench menus didn\u0027t capitalize their tab names. This fixes that.",
+          "FileID": 1000109205,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/72099/72099-1618781091-585013970.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81130/81130-1684014995-339455481.png",
           "IsNSFW": false,
-          "ModID": 72099,
-          "Name": "FNV LOD Supplementation",
-          "Version": "0.11a"
+          "ModID": 81130,
+          "Name": "Crafting Consistency Fix",
+          "Version": "1.1.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "saHdv5t2/tI=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=61973\nfileID=1000098960",
-        "Name": "Immersive Recoil 2.4.1-61973-2-4-1-1663113917.zip",
-        "Size": 20190,
+        "Hash": "3DzjRjHDHzM=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=77945\nfileID=1000114388",
+        "Name": "Essential DLC Enhancements Merged - JSUE Patch-77945-1-0-1691327911.7z",
+        "Size": 1105,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DrarenThiralas",
-          "Description": "The best recoil mod on the Nexus!",
-          "FileID": 1000098960,
+          "Author": "VishVadeva",
+          "Description": "Patches for TTW and FNV.",
+          "FileID": 1000114388,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/61973/61973-1663186689-307395258.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77945/77945-1680150465-147867046.png",
           "IsNSFW": false,
-          "ModID": 61973,
-          "Name": "Immersive Recoil 2.0",
-          "Version": "2.4.1"
+          "ModID": 77945,
+          "Name": "Vish\u0027s Patch Hub (FNV-TTW)",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "n07E81ZAZbY=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=62180\nfileID=1000038128",
+        "Name": "Follower Tweaks-62180-1-0.zip",
+        "Size": 1129,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PushTheWinButton",
+          "Description": "Assorted changes to remove annoying features from some followers. Enhanced Sensors, Spotter and Search and Mark perk effects changed. ED-Es no longer \u0027whir\u0027 whilst moving.",
+          "FileID": 1000038128,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/62180-0-1470146065.jpg",
+          "IsNSFW": false,
+          "ModID": 62180,
+          "Name": "Follower Tweaks",
+          "Version": "1.0"
         }
       }
     },
@@ -2850,63 +2503,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "z8J08/LccxE=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=75851\nfileID=1000124159",
-        "Name": "Delay DLC Redux-75851-2-2-1708581986.7z",
-        "Size": 16153,
+        "Hash": "OpFz/wqpv8k=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=83094\nfileID=1000116510",
+        "Name": "Swiming Creatures Fix-83094-1-1695045027.zip",
+        "Size": 992,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "shad0wshayd3",
-          "Description": "Delay DLC for FNV and TTW 3.3, remade from the ground up",
-          "FileID": 1000124159,
+          "Author": "Migck",
+          "Description": "Gives the \u0022swim\u0022 movement flag to the few vanilla creatures that have anims for that. Now you can be pursued on water by something else than mirelurks.",
+          "FileID": 1000116510,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/75851/75851-1648189025-1904470742.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/83094/83094-1695044765-801936528.jpeg",
           "IsNSFW": false,
-          "ModID": 75851,
-          "Name": "Delay DLC Redux",
-          "Version": "2.1"
+          "ModID": 83094,
+          "Name": "Swimming Creatures Fix - ESPless",
+          "Version": "1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ikepSlsvoyc=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=77945\nfileID=1000115460",
-        "Name": "FPGE - EVEM Patch-77945-1-0-1693113303.7z",
-        "Size": 634,
+        "Hash": "saHdv5t2/tI=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=61973\nfileID=1000098960",
+        "Name": "Immersive Recoil 2.4.1-61973-2-4-1-1663113917.zip",
+        "Size": 20190,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "VishVadeva",
-          "Description": "Patches for TTW and FNV.",
-          "FileID": 1000115460,
+          "Author": "DrarenThiralas",
+          "Description": "The best recoil mod on the Nexus!",
+          "FileID": 1000098960,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77945/77945-1680150465-147867046.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/61973/61973-1663186689-307395258.png",
           "IsNSFW": false,
-          "ModID": 77945,
-          "Name": "Vish\u0027s Patch Hub (FNV-TTW)",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "eEITZz10gkI=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=81530\nfileID=1000110956",
-        "Name": "Misc Content Restoration - NV-81530-1-0-1686605329.rar",
-        "Size": 8269,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "GeraldMods",
-          "Description": "All In One version of my previous restoration mods. This mod restores a lot of little things that make a big difference.",
-          "FileID": 1000110956,
-          "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81530/81530-1686608349-1943855151.png",
-          "IsNSFW": false,
-          "ModID": 81530,
-          "Name": "Misc Content Restoration",
-          "Version": "1.0"
+          "ModID": 61973,
+          "Name": "Immersive Recoil 2.0",
+          "Version": "2.4.1"
         }
       }
     },
@@ -2997,57 +2629,83 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "OpFz/wqpv8k=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=83094\nfileID=1000116510",
-        "Name": "Swiming Creatures Fix-83094-1-1695045027.zip",
-        "Size": 992,
+        "Hash": "8YM+uiQNmtI=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=67248\nfileID=1000115496",
+        "Name": "Save Manager-67248-1-0-1693172258.zip",
+        "Size": 2089,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Migck",
-          "Description": "Gives the \u0022swim\u0022 movement flag to the few vanilla creatures that have anims for that. Now you can be pursued on water by something else than mirelurks.",
-          "FileID": 1000116510,
+          "Author": "lStewieAl",
+          "Description": "Lightweight mod adding timed autosaves, save slots and incremental/full save hotkeys. \n\nNVSE plugin with no esp or performance impact.",
+          "FileID": 1000115496,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/83094/83094-1695044765-801936528.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/67248/67248-1693069677-708051341.png",
           "IsNSFW": false,
-          "ModID": 83094,
-          "Name": "Swimming Creatures Fix - ESPless",
-          "Version": "1"
+          "ModID": 67248,
+          "Name": "Auto-Save Manager",
+          "Version": "2.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "rY5gPpaw6wQ=",
-        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Data\\DeadMoney.esm",
-        "Name": "Data_DeadMoney.esm",
-        "Size": 6274851,
+        "Hash": "z8J08/LccxE=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=75851\nfileID=1000124159",
+        "Name": "Delay DLC Redux-75851-2-2-1708581986.7z",
+        "Size": 16153,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "FalloutNewVegas",
-          "GameFile": "Data\\DeadMoney.esm",
-          "GameVersion": "1.4.0.525",
-          "Hash": "rY5gPpaw6wQ="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "shad0wshayd3",
+          "Description": "Delay DLC for FNV and TTW 3.3, remade from the ground up",
+          "FileID": 1000124159,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/75851/75851-1648189025-1904470742.png",
+          "IsNSFW": false,
+          "ModID": 75851,
+          "Name": "Delay DLC Redux",
+          "Version": "2.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "lNiJXLMrXAs=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=83691\nfileID=1000118662",
-        "Name": "Impostors and LOD Flicker Fix-83691-1-0-1699216940.7z",
-        "Size": 3754,
+        "Hash": "ikepSlsvoyc=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=77945\nfileID=1000115460",
+        "Name": "FPGE - EVEM Patch-77945-1-0-1693113303.7z",
+        "Size": 634,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "VishVadeva",
-          "Description": "Fixes the Z-flicker between impostor references and LOD meshes in Camp McCarran and the nearby cells by disabling those impostor refs.",
-          "FileID": 1000118662,
+          "Description": "Patches for TTW and FNV.",
+          "FileID": 1000115460,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/83691/83691-1699204856-336194630.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77945/77945-1680150465-147867046.png",
           "IsNSFW": false,
-          "ModID": 83691,
-          "Name": "Impostors and LOD Flicker Fix",
+          "ModID": 77945,
+          "Name": "Vish\u0027s Patch Hub (FNV-TTW)",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eEITZz10gkI=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=81530\nfileID=1000110956",
+        "Name": "Misc Content Restoration - NV-81530-1-0-1686605329.rar",
+        "Size": 8269,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GeraldMods",
+          "Description": "All In One version of my previous restoration mods. This mod restores a lot of little things that make a big difference.",
+          "FileID": 1000110956,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81530/81530-1686608349-1943855151.png",
+          "IsNSFW": false,
+          "ModID": 81530,
+          "Name": "Misc Content Restoration",
           "Version": "1.0"
         }
       }
@@ -3097,21 +2755,342 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "8YM+uiQNmtI=",
-        "Meta": "[General]\ngameName=falloutnv\nmodID=67248\nfileID=1000115496",
-        "Name": "Save Manager-67248-1-0-1693172258.zip",
-        "Size": 2089,
+        "Hash": "PcGhqx2DhE0=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=66537\nfileID=1000126769",
+        "Name": "NVTF-66537-10-2-2-3b-1711971784.zip",
+        "Size": 906606,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Carxt - Tgspy - lStewieAl",
+          "Description": "The newest generation in performance enhancement and stutter fixing. Windows 10 compatible. Featuring fixes to the dreaded micro stutter, and a high FPS Havok fix.",
+          "FileID": 1000126769,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/66537/66537-1551173585-1817828269.png",
+          "IsNSFW": false,
+          "ModID": 66537,
+          "Name": "NVTF - New Vegas Tick Fix",
+          "Version": "10.2.2.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+jhQKRgtn1U=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=68776\nfileID=1000104283",
+        "Name": "NVCS Vanilla Weights-68776-13-1675087221.7z",
+        "Size": 17612,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Various",
+          "Description": "A skeleton with compatibility for the latest mods",
+          "FileID": 1000104283,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/68776/68776-1588193623-909988060.jpeg",
+          "IsNSFW": false,
+          "ModID": 68776,
+          "Name": "NV Compatibility Skeleton",
+          "Version": "13"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rY5gPpaw6wQ=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Data\\DeadMoney.esm",
+        "Name": "Data_DeadMoney.esm",
+        "Size": 6274851,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Data\\DeadMoney.esm",
+          "GameVersion": "1.4.0.525",
+          "Hash": "rY5gPpaw6wQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lNiJXLMrXAs=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=83691\nfileID=1000118662",
+        "Name": "Impostors and LOD Flicker Fix-83691-1-0-1699216940.7z",
+        "Size": 3754,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "VishVadeva",
+          "Description": "Fixes the Z-flicker between impostor references and LOD meshes in Camp McCarran and the nearby cells by disabling those impostor refs.",
+          "FileID": 1000118662,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/83691/83691-1699204856-336194630.png",
+          "IsNSFW": false,
+          "ModID": 83691,
+          "Name": "Impostors and LOD Flicker Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jFUMyXdR3G8=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=81200\nfileID=1000124719",
+        "Name": "Depth of Field Fix-81200-1-1a-1709302843.zip",
+        "Size": 4836,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "WallSoGB lStewieAl",
+          "Description": "Fix for depth of field bleeding over onto player\u0027s viewmodel. Additionally fixes washed out colors caused by low bit depth.",
+          "FileID": 1000124719,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81200/81200-1684511070-828022971.png",
+          "IsNSFW": false,
+          "ModID": 81200,
+          "Name": "Depth of Field Fix - NVSE",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "C9mV07ZYzuQ=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=68714\nfileID=1000114377",
+        "Name": "MLF-68714-3-1-1691312308.zip",
+        "Size": 5025,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "iranrmrf",
+          "Description": "This plugin fixes the Fallout New Vegas mod limit bug. It allows a maximum of 255 plugins to be loaded. It can also cause an increase in fps, remove game stutter and allow for faster loading times especially when using a large number of mods.",
+          "FileID": 1000114377,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/68714/68714-1587582723-491728536.png",
+          "IsNSFW": false,
+          "ModID": 68714,
+          "Name": "FNV Mod Limit Fix",
+          "Version": "3.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "60Z61IgoCLo=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=79661\nfileID=1000103655",
+        "Name": "Climate Control - 3D Rain-79661-1-0-1673903164.zip",
+        "Size": 2170,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "doodlum",
+          "Description": "Rain fixes and improvements powered by Climate Control NVSE. Supports 3D Rain.",
+          "FileID": 1000103655,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/79661/79661-1673903082-226892259.png",
+          "IsNSFW": false,
+          "ModID": 79661,
+          "Name": "Climate Control - Rain",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "aEq5fjX/gRQ=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Data\\FalloutNV.esm",
+        "Name": "Data_FalloutNV.esm",
+        "Size": 245650747,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Data\\FalloutNV.esm",
+          "GameVersion": "1.4.0.525",
+          "Hash": "aEq5fjX/gRQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "k8IY6nIjp+Q=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=80666\nfileID=1000107287",
+        "Name": "ActorCause Save Bloat Fix-80666-1-0-1680643208.zip",
+        "Size": 44180,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "lStewieAl",
-          "Description": "Lightweight mod adding timed autosaves, save slots and incremental/full save hotkeys. \n\nNVSE plugin with no esp or performance impact.",
-          "FileID": 1000115496,
+          "Description": "Fixes a save bloating issue related to actors detecting the player, improving save/load speed and decreasing save size 10-30% depending on playthrough length.",
+          "FileID": 1000107287,
           "GameName": "FalloutNewVegas",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/67248/67248-1693069677-708051341.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/80666/80666-1680642398-193203938.png",
           "IsNSFW": false,
-          "ModID": 67248,
-          "Name": "Auto-Save Manager",
-          "Version": "2.0"
+          "ModID": 80666,
+          "Name": "ActorCause Save Bloat Fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HpGetfn/7t8=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=77945\nfileID=1000109235",
+        "Name": "EVEM - Crafting Consistency Fix Patch-77945-1-0-1684071745.7z",
+        "Size": 574,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "VishVadeva",
+          "Description": "Patches for TTW and FNV.",
+          "FileID": 1000109235,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77945/77945-1680150465-147867046.png",
+          "IsNSFW": false,
+          "ModID": 77945,
+          "Name": "Vish\u0027s Patch Hub (FNV-TTW)",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Z4pmkfWrg9Q=",
+        "Meta": "[General]\ngameName=FalloutNewVegas\ngameFile=Data\\HonestHearts.esm",
+        "Name": "Data_HonestHearts.esm",
+        "Size": 17308500,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "FalloutNewVegas",
+          "GameFile": "Data\\HonestHearts.esm",
+          "GameVersion": "1.4.0.525",
+          "Hash": "Z4pmkfWrg9Q="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "aQIwL8+VM+A=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=77945\nfileID=1000120752",
+        "Name": "Misc Content Restoration - UW (VNV) Patch-77945-1-0-1703280405.7z",
+        "Size": 441,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "VishVadeva",
+          "Description": "Patches for TTW and FNV.",
+          "FileID": 1000120752,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/77945/77945-1680150465-147867046.png",
+          "IsNSFW": false,
+          "ModID": 77945,
+          "Name": "Vish\u0027s Patch Hub (FNV-TTW)",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8//vNYA9QGU=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=83056\nfileID=1000126285",
+        "Name": "vigor patch-83056-1-0-1711426883.7z",
+        "Size": 542,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "team blackout - pushthewinbutton - poke",
+          "Description": "patches some stats on a few outfits and armors",
+          "FileID": 1000126285,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/83056/83056-1694806989-972610319.png",
+          "IsNSFW": false,
+          "ModID": 83056,
+          "Name": "Skinned Mesh Improvement Mod Redux - JSawyer Ultimate Edition Patch",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Pv+jQTy5dzw=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=78916\nfileID=1000113434",
+        "Name": "Trap Tweaks NV-78916-1-02-1689989249.rar",
+        "Size": 13022,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "S6S",
+          "Description": "This mod makes explosive traps use explosives, survival, or science skills instead of repair, which is already super useful.",
+          "FileID": 1000113434,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/78916/78916-1667764183-251784387.png",
+          "IsNSFW": false,
+          "ModID": 78916,
+          "Name": "Traps Tweaks - Traps Use Other Skills",
+          "Version": "1.02"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "m7S4FF26QwI=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=81231\nfileID=1000122784",
+        "Name": "Texture Modding Preset-81231-10-2-2-3a-1706572266.zip",
+        "Size": 1531,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "VishVadeva - WallSoGB - carxt",
+          "Description": "Configurations for \u0022New Vegas Tick Fix\u0022 to solve issues and improve performance based on your setup.",
+          "FileID": 1000122784,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81231/81231-1684768140-761894133.png",
+          "IsNSFW": false,
+          "ModID": 81231,
+          "Name": "NVTF - INI Presets",
+          "Version": "10.2.2.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SJKONndy/Ls=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=76522\nfileID=1000119329",
+        "Name": "Stewie Tweaks Essentials INI-76522-1-07-1700607944.7z",
+        "Size": 33009,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lStewieAl",
+          "Description": "A Stewie Tweaks INI with just the essential fixes and QoL settings enabled, hand-picked by the GOAT himself.",
+          "FileID": 1000119329,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/76522/76522-1678279313-1789897971.png",
+          "IsNSFW": false,
+          "ModID": 76522,
+          "Name": "Stewie Tweaks Essentials INI",
+          "Version": "1.06"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "n03w8BZwxJI=",
+        "Meta": "[General]\ngameName=falloutnv\nmodID=81678\nfileID=1000114959",
+        "Name": "lStewieAl - Cookable Grenades-81678-1-0-1692310563.zip",
+        "Size": 1311,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lStewieAl",
+          "Description": "Holding a grenade before throwing it decreases its fuse.",
+          "FileID": 1000114959,
+          "GameName": "FalloutNewVegas",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/130/images/81678/81678-1692228202-414293437.png",
+          "IsNSFW": false,
+          "ModID": 81678,
+          "Name": "Cookable Grenades",
+          "Version": "1.0"
         }
       }
     }
