@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2842)
+### Valid (2844)
 *  [.1130 _ResourcePack Fixes-117234-1-1-1713954347.rar](https://www.nexusmods.com/skyrimspecialedition/mods/117234/?tab=files&file_id=494280)
 *  [(4) Alchemy Station Variants - Persistent Swap ENB-92768-1-4-1-1705038585.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=460513)
 *  [(ESL) Heimskr only preaches on weekends-13865-1-4-1677908626.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13865/?tab=files&file_id=365292)
@@ -118,7 +118,7 @@
 *  [AFDI - ElSopa - Skeleton Key Redone Patch-114021-1-2-1-1711545414.7z](https://www.nexusmods.com/skyrimspecialedition/mods/114021/?tab=files&file_id=484605)
 *  [AIO Optionals-84735-1-3-1679426200.zip](https://www.nexusmods.com/skyrimspecialedition/mods/84735/?tab=files&file_id=370768)
 *  [AIO Optionals-93733-1-0-1687033977.zip](https://www.nexusmods.com/skyrimspecialedition/mods/93733/?tab=files&file_id=398745)
-*  [AJO - Andrealphus Jobs Overhaul-109363-1-2c-1711542562.7z](https://www.nexusmods.com/skyrimspecialedition/mods/109363/?tab=files&file_id=484590)
+*  [AJO - Andrealphus Jobs Overhaul-109363-1-3-0-1714698285.7z](https://www.nexusmods.com/skyrimspecialedition/mods/109363/?tab=files&file_id=497260)
 *  [AJO x SOS - Patch - MEG-117471-0-1-1713821282.zip](https://www.nexusmods.com/skyrimspecialedition/mods/117471/?tab=files&file_id=493760)
 *  [Akaviri Hats Pack - 2K-83975-1-0-1675912403.zip](https://www.nexusmods.com/skyrimspecialedition/mods/83975/?tab=files&file_id=357909)
 *  [Akaviri Katana - Blades Sword Replacer-70653-1-1656826225.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70653/?tab=files&file_id=295803)
@@ -723,7 +723,6 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
-*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -1078,7 +1077,7 @@
 *  [Flora Additions - Cypress-117459-1-1-1714018963.7z](https://www.nexusmods.com/skyrimspecialedition/mods/117459/?tab=files&file_id=494522)
 *  [Flora Additions - Snow Gum-118161-1-0-1714434056.7z](https://www.nexusmods.com/skyrimspecialedition/mods/118161/?tab=files&file_id=496195)
 *  [Flora Additions - Waterplants-116324-1-2-1713570594.7z](https://www.nexusmods.com/skyrimspecialedition/mods/116324/?tab=files&file_id=492694)
-*  [Flora Additions - Willows-116593-1-3-1713929089.7z](https://www.nexusmods.com/skyrimspecialedition/mods/116593/?tab=files&file_id=494215)
+*  [Flora Additions - Willows-116593-1-4-1714698622.7z](https://www.nexusmods.com/skyrimspecialedition/mods/116593/?tab=files&file_id=497261)
 *  [Fluffworks - ArmoredTrollPatch 2K  - by SkySinclaire-4682-1-0-1649128787.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4682/?tab=files&file_id=274930)
 *  [Fluffworks - Bellyaches Animals and Creatures Patch-64445-2-0-1675900318.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64445/?tab=files&file_id=357871)
 *  [Fluffworks - Bellyaches Horses Standalone-64445-1-0-1675904612.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64445/?tab=files&file_id=357882)
@@ -1943,6 +1942,7 @@
 *  [Pets of Skyrim (CC) Collision Patch-75617-1-0-0-1663456470.zip](https://www.nexusmods.com/skyrimspecialedition/mods/75617/?tab=files&file_id=317095)
 *  [Photo Mode - Untarnished UI Patch-111708-v1-2-1713210910.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111708/?tab=files&file_id=491177)
 *  [Photo Mode-91701-1-4-0-1711172406.7z](https://www.nexusmods.com/skyrimspecialedition/mods/91701/?tab=files&file_id=483284)
+*  [Picta Realis - Water for ENB x Lux Patch-115551-1-0-1711919004.rar](https://www.nexusmods.com/skyrimspecialedition/mods/115551/?tab=files&file_id=486175)
 *  [Pigeon Retex-50821-1-0-1622890277.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50821/?tab=files&file_id=207420)
 *  [pigeons (se-ae) 1.2-27238-1-2-1679326778.rar](https://www.nexusmods.com/skyrimspecialedition/mods/27238/?tab=files&file_id=370357)
 *  [Pilgrim - A Religion Overhaul-54099-1-2-2-1707509859.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54099/?tab=files&file_id=469333)
@@ -2083,6 +2083,7 @@
 *  [Riften Docks Overhaul-40021-2-5-7b-1710430937.zip](https://www.nexusmods.com/skyrimspecialedition/mods/40021/?tab=files&file_id=480501)
 *  [Riften Gate Restored-53901-1-0-2-1677299577.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53901/?tab=files&file_id=363088)
 *  [ring necked pheasants (se-ae)-95121-1-1688574825.rar](https://www.nexusmods.com/skyrimspecialedition/mods/95121/?tab=files&file_id=404052)
+*  [Rip n Tear - Classic Blood-106945-1-1714188293.rar](https://www.nexusmods.com/skyrimspecialedition/mods/106945/?tab=files&file_id=495167)
 *  [RMB SkyPatched - Cloaks of Skyrim-116030-1-2-1-1712515446.zip](https://www.nexusmods.com/skyrimspecialedition/mods/116030/?tab=files&file_id=488427)
 *  [RMB SkyPatched - Stormcloak Guard Shield Fix-115897-1-0-0-1712282153.zip](https://www.nexusmods.com/skyrimspecialedition/mods/115897/?tab=files&file_id=487592)
 *  [RMB SPIDified - Core-63625-5-0-1-1712438483.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63625/?tab=files&file_id=488156)
@@ -2735,6 +2736,7 @@
 *  [Visualize Vanilla-84265-1-2-1675690186.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84265/?tab=files&file_id=357089)
 *  [Vittoria's Alternate Wedding Patches - FOMOD-72240-1-3-1-1705836010.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72240/?tab=files&file_id=463476)
 *  [Vittorias Alternate Wedding-62466-1-3-1-1661608067.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62466/?tab=files&file_id=310791)
+*  [Vivid Weathers - Definitive Edition-2187-2-42-1559391607.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2187/?tab=files&file_id=94387)
 *  [Voam 2K-20932-2-1556390545.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20932/?tab=files&file_id=89946)
 *  [Vocaris - Conjuration SFX Audio-90180-1-0-1682632327.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90180/?tab=files&file_id=382524)
 *  [Voices EN  - Part 2-18115-0-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18115/?tab=files&file_id=57857)
