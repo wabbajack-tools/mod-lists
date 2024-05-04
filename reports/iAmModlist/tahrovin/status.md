@@ -781,7 +781,7 @@
 *  [Unisex Empire-41267-0-1-1602368041.rar](https://www.nexusmods.com/skyrimspecialedition/mods/41267/?tab=files&file_id=164855)
 *  [Unofficial Lux Parallax Patches-62248-1-01-1645574995.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62248/?tab=files&file_id=266210)
 *  [Unofficial Skyrim Special Edition Patch-266-4-2-5b-1623727189.7z](https://www.nexusmods.com/skyrimspecialedition/mods/266/?tab=files&file_id=209150)
-*  [UpscalerBasePlugin 1.1.0-502-1-1-0-1680933817(1).zip](https://www.nexusmods.com/site/mods/502/?tab=files&file_id=2024)
+*  [UpscalerBasePlugin 1.1.0-502-1-1-0-1680933817.zip](https://www.nexusmods.com/site/mods/502/?tab=files&file_id=2042)
 *  [UpscalerBasePlugin-502-1-1-2-1693443305.zip](https://www.nexusmods.com/site/mods/502/?tab=files&file_id=2293)
 *  [Vaeri's Body - A CBBE 3BB 3BA Bodyslide Preset for SE-56920-1-0-1633949677.rar](https://www.nexusmods.com/skyrimspecialedition/mods/56920/?tab=files&file_id=234127)
 *  [Valandor Preset-91147-1-0-1683851037.zip](https://www.nexusmods.com/skyrimspecialedition/mods/91147/?tab=files&file_id=387167)
