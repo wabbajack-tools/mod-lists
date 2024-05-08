@@ -46,6 +46,7 @@
     -   [Ground Zero - A Fallout 4 Experience](#ground-zero---a-fallout-4-experience)
     -   [FUSION](#fusion)
     -   [Fallout Anomaly](#fallout-anomaly)
+    -   [Wasteland Reborn](#wasteland-reborn)
     -   [(NSFW)Wasteland of Depravity(NSFW)](#nsfwwasteland-of-depravitynsfw)
     -   [(NSFW)Parabellum(NSFW)](#nsfwparabellumnsfw)
 -   [Enderal Special Edition](#enderal-special-edition)
@@ -639,6 +640,22 @@ Anomaly is an ever expanding mod list and will soon be moving into the 2024 0.5 
 - [Enjoy the Darkness](https://www.nexusmods.com/fallout4/mods/67336)
 
 **Find our full mod list [here](https://loadorderlibrary.com/lists/fallout-anomaly-049-50)**
+
+---
+
+### [Wasteland Reborn](https://www.nexusmods.com/fallout4/mods/74075)
+
+Wasteland Reborn takes the concepts and gameplay experience of Fallout 4 and runs with it. With over 730 mods and counting, Wasteland Reborn is designed from the ground up to be one of the most fully-featured Fallout 4 lists around. Every aspect of gameplay, whether it's combat, quests, settlement building or dialogue has been revamped to address the shortcomings of the original game. The roster of weapons and armor have been overhauled with hundreds of new additions, keeping every combat encounter fresh to both new and returning players. The addition of dozens of quest mods add hundreds of hours of new content to the game, and a series of graphical overhauls leave the game looking - and performing - better than ever.
+
+**_Mods to get familiar with:_**
+
+- [You are Exceptional](https://www.nexusmods.com/fallout4/mods/76739)
+- [KARMA](https://www.nexusmods.com/fallout4/mods/80425)
+- [SCOURGE](https://www.nexusmods.com/fallout4/mods/60917)
+- [Mutant Menagerie](https://www.nexusmods.com/fallout4/mods/68187)
+- [Roleplayer's Expanded Dialogue](https://www.nexusmods.com/fallout4/mods/69389)
+
+**[Find the full mod list here.](https://loadorderlibrary.com/lists/wasteland-reborn)**
 
 ---
 
