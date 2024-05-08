@@ -17,6 +17,7 @@
     -   [Elysium Remastered](#elysium-remastered)
     -   [Fahdon](#fahdon)
     -   [Fahluaan](#fahluaan)
+    -   [Halls of Sovngarde](#halls-of-sovngarde)
     -   [Keizaal](#keizaal)
     -   [Legends of the Frost](#legends-of-the-frost)
     -   [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr)
@@ -206,6 +207,22 @@ Fahluaan (fa·lu·an) is a comprehensive modlist for Skyrim Anniversary Edition 
 
 -   [Full Modlist](https://loadorderlibrary.com/lists/fahluaan)
 -   [Gameplay Guide](https://github.com/Oghma-Infinium/Fahluaan/blob/main/GAMEPLAY.md)
+
+---
+
+### [Halls of Sovngarde](https://www.modlists.net/docs/4hos/Home)
+
+Halls of Sovngarde is a requiem based list which seeks to fully overhaul most elements of Skyrim entirely. With respects to Vanilla Skyrim, many of the old and beloved features of the game we all enjoy have been kept the same. On the other hand, areas which require updating and modernization have been put under the microscope, each minute detail modified to ensure the most modern and cohesive experience possible. This is not a vanilla list, nor is it a list which seeks to completely remove the original feel Skyrim gave us 12 years ago. This list will pay homage to the things we all grew to love while improving the look and overall feel.
+
+**_Mods to get familiar with:_**
+
+-   [Full Modlist](https://loadorderlibrary.com/lists/halls-of-sovngarde)
+-   [Requiem](https://www.nexusmods.com/skyrimspecialedition/mods/60888)
+-   [Noxcrab's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42591)
+-   [Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/59302)
+-   [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/43185)
+-   [Frostfall](https://www.nexusmods.com/skyrimspecialedition/mods/671)
+-   [Last Seed](https://www.nexusmods.com/skyrimspecialedition/mods/56393)
 
 ---
 
