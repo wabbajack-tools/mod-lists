@@ -1,4 +1,4 @@
-## Validation Report - Ro (LostOutpost/ro)
+## Validation Report - Ro - A Graphics-Focused Modlist (LostOutpost/ro)
 
 
 ### Invalid (0)
