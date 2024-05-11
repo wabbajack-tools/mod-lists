@@ -41,7 +41,7 @@
 *  [Animation Queue Fix-82395-1-0-1-1673338766.7z](https://www.nexusmods.com/skyrimspecialedition/mods/82395/?tab=files&file_id=348271)
 *  [AotDC - Unenchanted Robes Main Version-110727-1-0-2-1707417448.7z](https://www.nexusmods.com/skyrimspecialedition/mods/110727/?tab=files&file_id=469005)
 *  [AotDC - Unenchanted Robes Wyrmstooth-110727-1-0-2-1707417489.7z](https://www.nexusmods.com/skyrimspecialedition/mods/110727/?tab=files&file_id=469006)
-*  [Apothecary - An Alchemy Overhaul-52130-1-4-0-1715110281.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=498863)
+*  [Apothecary - An Alchemy Overhaul-52130-1-3-9-1701447097.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=447818)
 *  [Apothecary - Fishing Patch-52130-1-4-1-1715110570.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=498866)
 *  [Apothecary - Rare Curios Patch-52130-1-4-0-1690741443.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=412398)
 *  [Apothecary - Saints and Seducers-52130-1-4-0-1690741472.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=412399)
