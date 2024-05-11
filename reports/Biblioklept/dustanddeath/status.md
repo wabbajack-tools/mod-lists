@@ -26,8 +26,11 @@
 *  [Console Paste-65906-2-3-1705873242.zip](https://www.nexusmods.com/newvegas/mods/65906/?tab=files&file_id=1000122282)
 *  [Crafting Consistency Fix-81130-1-1-1-1684022606.zip](https://www.nexusmods.com/newvegas/mods/81130/?tab=files&file_id=1000109205)
 *  [Crash Logger-82540-4-5-4-1707242884.zip](https://www.nexusmods.com/newvegas/mods/82540/?tab=files&file_id=1000123251)
-*  Data_DeadMoney - Sounds.bsa
-*  Data_OldWorldBlues - Sounds.bsa
+*  Data_DeadMoney.esm
+*  Data_FalloutNV.esm
+*  Data_HonestHearts.esm
+*  Data_LonesomeRoad.esm
+*  Data_OldWorldBlues.esm
 *  [Delay DLC Redux - Pre-Order Pack Placement-75851-1-2-1648634108.7z](https://www.nexusmods.com/newvegas/mods/75851/?tab=files&file_id=1000090175)
 *  [Delay DLC Redux-75851-2-2-1708581986.7z](https://www.nexusmods.com/newvegas/mods/75851/?tab=files&file_id=1000124159)
 *  [Depth of Field Fix-81200-1-1a-1709302843.zip](https://www.nexusmods.com/newvegas/mods/81200/?tab=files&file_id=1000124719)
@@ -42,7 +45,6 @@
 *  [Exterior Emittance Fix-80443-1-2-1688312414.zip](https://www.nexusmods.com/newvegas/mods/80443/?tab=files&file_id=1000112319)
 *  [FaceGen Tint Fixes for NV-71577-1-1-1687215678.rar](https://www.nexusmods.com/newvegas/mods/71577/?tab=files&file_id=1000111518)
 *  [Fallout Alpha Rendering Tweaks-80316-2-5-2-1710935866.7z](https://www.nexusmods.com/newvegas/mods/80316/?tab=files&file_id=1000125920)
-*  FalloutNV.exe
 *  [Fast Weapon Lag Fix-71973-1-0-1617537597.zip](https://www.nexusmods.com/newvegas/mods/71973/?tab=files&file_id=1000074493)
 *  [Faster Sleep Wait-66785-2-0-1693172568.zip](https://www.nexusmods.com/newvegas/mods/66785/?tab=files&file_id=1000115499)
 *  [Faster Start Menu-67811-2-0-1693172473.zip](https://www.nexusmods.com/newvegas/mods/67811/?tab=files&file_id=1000115498)
@@ -119,7 +121,7 @@
 *  [PerkSawyer - Vigor-80309-1-1u-1700238898.zip](https://www.nexusmods.com/newvegas/mods/80309/?tab=files&file_id=1000119176)
 *  [PerkSawyer Vigor Tweaks-83806-1-0-1702059633.rar](https://www.nexusmods.com/newvegas/mods/83806/?tab=files&file_id=1000120127)
 *  [Pip-Boy Shading Fix-77957-2-0-1710109777.zip](https://www.nexusmods.com/newvegas/mods/77957/?tab=files&file_id=1000125366)
-*  [Pip-Boy UI Tweaks-85343-1-8-1715014059.zip](https://www.nexusmods.com/newvegas/mods/85343/?tab=files&file_id=1000130093)
+*  [Pip-Boy UI Tweaks-85343-1-9-1715367682.zip](https://www.nexusmods.com/newvegas/mods/85343/?tab=files&file_id=1000130582)
 *  [PipBoyOn Node Fixes SMIM-81775-1-1697348375.7z](https://www.nexusmods.com/newvegas/mods/81775/?tab=files&file_id=1000117718)
 *  [Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged-70790-1-1-1642221863.zip](https://www.nexusmods.com/newvegas/mods/70790/?tab=files&file_id=1000086259)
 *  [Precision Collision - Clutter NV V0_80-54455-0-80.7z](https://www.nexusmods.com/newvegas/mods/54455/?tab=files&file_id=1000019023)
@@ -149,7 +151,7 @@
 *  [Unofficial Patch NVSE Plus-71239-1-4-9-1705434043.7z](https://www.nexusmods.com/newvegas/mods/71239/?tab=files&file_id=1000122027)
 *  [update Collision Meshes FNV 1.6.3 to 1.6.4-59149-1-6-4-1592854853.7z](https://www.nexusmods.com/newvegas/mods/59149/?tab=files&file_id=1000063058)
 *  [Vanilla Melee Faster Recoil Animations-83694-1-0-1699217014.7z](https://www.nexusmods.com/newvegas/mods/83694/?tab=files&file_id=1000118663)
-*  [Vanilla_UI_Plus_New_Vegas_948.1.7z](https://www.moddb.com/downloads/start/128019)
+*  [Vanilla_UI_Plus_New_Vegas_948.1.7z](https://authored-files.wabbajack.org/Vanilla_UI_Plus_New_Vegas_948.1.7z_9654c4da-2faa-470a-8120-155ce1820182)
 *  [Varmint Rifle 22LR-84396-1-0-1704502299.7z](https://www.nexusmods.com/newvegas/mods/84396/?tab=files&file_id=1000121491)
 *  [VATS Lag Fix-84823-1-0-1706985218.zip](https://www.nexusmods.com/newvegas/mods/84823/?tab=files&file_id=1000123023)
 *  [Version 1.0-83316-1-0-1696325110.zip](https://www.nexusmods.com/newvegas/mods/83316/?tab=files&file_id=1000117223)
@@ -162,9 +164,7 @@
 *  [VNV - LOD Patches-79358-1-1713099421.7z](https://www.nexusmods.com/newvegas/mods/79358/?tab=files&file_id=1000127548)
 *  [Weapon Jamming Tweaks-82898-2-50-1704981777.zip](https://www.nexusmods.com/newvegas/mods/82898/?tab=files&file_id=1000121747)
 *  [Wild Wasteland Forever-71609-2-0-1647217939.7z](https://www.nexusmods.com/newvegas/mods/71609/?tab=files&file_id=1000089141)
-*  [ySI - Colorful Icons Fix (JLM)-85075-1-0-1708641402.zip](https://www.nexusmods.com/newvegas/mods/85075/?tab=files&file_id=1000124213)
-*  [ySI - Colorful Icons Fix-85075-1-1-1708996826.zip](https://www.nexusmods.com/newvegas/mods/85075/?tab=files&file_id=1000124507)
-*  [ySI - Pick Up Prompts-85117-1-7-1712263587.zip](https://www.nexusmods.com/newvegas/mods/85117/?tab=files&file_id=1000126967)
+*  [ySI - Pick Up Prompts-85117-1-8-1715367637.zip](https://www.nexusmods.com/newvegas/mods/85117/?tab=files&file_id=1000130580)
 *  [ySI - Sorting Icons-74358-1-4b-1648916180.7z](https://www.nexusmods.com/newvegas/mods/74358/?tab=files&file_id=1000090359)
 *  [yUI-74357-1-4d-1646655873.7z](https://www.nexusmods.com/newvegas/mods/74357/?tab=files&file_id=1000088780)
 *  [YUP - Base Game and All DLC-51664-13-0-1707076107.7z](https://www.nexusmods.com/newvegas/mods/51664/?tab=files&file_id=1000123110)

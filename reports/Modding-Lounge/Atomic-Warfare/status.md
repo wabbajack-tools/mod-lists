@@ -90,7 +90,7 @@
 *  [CeftMain-64753-V1-4-1688339613.7z](https://www.nexusmods.com/fallout4/mods/64753/?tab=files&file_id=282160)
 *  [CHALLENGES-76347-2-0-2-1710643462.zip](https://www.nexusmods.com/fallout4/mods/76347/?tab=files&file_id=307050)
 *  [Chemfluence AI Combat Dynamics-73741-1-2-1-1691792702.zip](https://www.nexusmods.com/fallout4/mods/73741/?tab=files&file_id=286225)
-*  [Chinese Assault Rifle - 2K-81231-1-2-1713835282.zip](https://www.nexusmods.com/fallout4/mods/81231/?tab=files&file_id=311657)
+*  [Chinese Assault Rifle - 2K-81231-1-6-1715056480.zip](https://www.nexusmods.com/fallout4/mods/81231/?tab=files&file_id=314828)
 *  [Classic Holstered Weapons - v1.06b-46101-1-06b-1657039902.zip](https://www.nexusmods.com/fallout4/mods/46101/?tab=files&file_id=242541)
 *  [Classic Melee Pack-59245-1-1648742706.rar](https://www.nexusmods.com/fallout4/mods/59245/?tab=files&file_id=233418)
 *  [CLASSIC Portable-56255-7-20-1696022890.zip](https://www.nexusmods.com/fallout4/mods/56255/?tab=files&file_id=290691)
