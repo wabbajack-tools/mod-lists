@@ -1,10 +1,11 @@
 ## Validation Report - Nordic Souls (Geborgen/nordic-souls)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Kaidan-ASLAL-Patch.7z](https://kaidanmod.com/wp-content/uploads/2024/05/Kaidan-ASLAL-Patch.7z)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1711)
+### Valid (1710)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -910,7 +911,6 @@
 *  [Kaidan 2.1.1-19075-2-1-1-1571995302.rar](https://www.nexusmods.com/skyrimspecialedition/mods/19075/?tab=files&file_id=111369)
 *  [Kaidan Banter Patch-11278-0-2-1683300371.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11278/?tab=files&file_id=384945)
 *  [Kaidan-3DNPC-Patch.7z](https://kaidanmod.com/wp-content/uploads/2024/05/Kaidan-3DNPC-Patch.7z)
-*  [Kaidan-ASLAL-Patch.7z](https://kaidanmod.com/wp-content/uploads/2024/05/Kaidan-ASLAL-Patch.7z)
 *  [Kaidan-Inigo-Banter-Patch.7z](https://kaidanmod.com/wp-content/uploads/2024/05/Kaidan-Inigo-Banter-Patch.7z)
 *  [Kalilies Brows - High Poly Head-57115-1-0-1634355490.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57115/?tab=files&file_id=235053)
 *  [Kalilies Brows-40595-1-1-1600706357.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40595/?tab=files&file_id=161884)
