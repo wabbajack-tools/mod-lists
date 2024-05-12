@@ -1,8 +1,8 @@
 {
   "MachineURL": "NYA/nyaskyrim",
   "Name": "N.Y.A-NSFW-Modlist-Skyrim",
-  "Version": "1.8.3",
-  "ModListHash": "dmJkmAwsGDM=",
+  "Version": "1.8.4",
+  "ModListHash": "iNtlyuOEWDI=",
   "Archives": [
     {
       "Status": "Valid",
@@ -19092,19 +19092,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "9O0jsy0+lAs=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/Pandora Output.rar_4980ee92-bb67-4950-8cfd-bd48a098c140",
-        "Name": "Pandora Output.rar",
-        "Size": 1423481,
-        "State": {
-          "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/Pandora%20Output.rar_4980ee92-bb67-4950-8cfd-bd48a098c140"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "/h9eUmoQwrM=",
         "Meta": "[General]\nmanualURL=https://github.com/Monitor144hz/Pandora-Behaviour-Engine-Plus/releases\nprompt=Please download the following:  Scroll down to Pandora Behaviour Engine v1.1.3-alpha and click on the small Arrow called Assets, download Pandora.XPMSE.Patch.v1.1.3.Universal.zip",
         "Name": "Pandora.XPMSE.Patch.v1.1.3.Universal.zip",
@@ -26137,6 +26124,27 @@
           "ModID": 64497,
           "Name": "Koralina\u0027s Eyebrows for High Poly Head",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Ubx6mlShGow=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=25316\nfileID=89592",
+        "Name": "3rd Person Camera Stagger Remover-25316-1-1556164319.zip",
+        "Size": 716,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Inculta",
+          "Description": "Removes the annoying camera shake effect when in 3rd person during combat.",
+          "FileID": 89592,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/25316/25316-1556163968-986115116.png",
+          "IsNSFW": false,
+          "ModID": 25316,
+          "Name": "3rd Person Camera Stagger Remover",
+          "Version": "1"
         }
       }
     },
@@ -45169,27 +45177,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Ubx6mlShGow=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=25316\nfileID=89592",
-        "Name": "3rd Person Camera Stagger Remover-25316-1-1556164319.zip",
-        "Size": 716,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Inculta",
-          "Description": "Removes the annoying camera shake effect when in 3rd person during combat.",
-          "FileID": 89592,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/25316/25316-1556163968-986115116.png",
-          "IsNSFW": false,
-          "ModID": 25316,
-          "Name": "3rd Person Camera Stagger Remover",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "SotZuGKUV1U=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=71202\nfileID=298232",
         "Name": "Creation Club - Gallows Hall Vaermina Statue-71202-1-0-1657581347.7z",
@@ -53905,6 +53892,38 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "f+OVJlWp6cA=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Meshes1.bsa",
+        "Name": "Data_Skyrim - Meshes1.bsa",
+        "Size": 378762772,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Meshes1.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "f+OVJlWp6cA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fp4BTncCnmU=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Meshes0.bsa",
+        "Name": "Data_Skyrim - Meshes0.bsa",
+        "Size": 1153126177,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Meshes0.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "fp4BTncCnmU="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "ia3REakZzbo=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse067-daedinv.bsa",
         "Name": "Data_ccbgssse067-daedinv.bsa",
@@ -54005,22 +54024,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "fp4BTncCnmU=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Meshes0.bsa",
-        "Name": "Data_Skyrim - Meshes0.bsa",
-        "Size": 1153126177,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Meshes0.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "fp4BTncCnmU="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "qfqjD1dP9SI=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Animations.bsa",
         "Name": "Data_Skyrim - Animations.bsa",
@@ -54079,64 +54082,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+i3PaQR2v/A=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse069-contest.bsa",
-        "Name": "Data_ccbgssse069-contest.bsa",
-        "Size": 42851238,
+        "Hash": "FC+yJIfHEZY=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse001-fish.bsa",
+        "Name": "Data_ccbgssse001-fish.bsa",
+        "Size": 377675522,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse069-contest.bsa",
+          "GameFile": "Data\\ccbgssse001-fish.bsa",
           "GameVersion": "1.6.1170.0",
-          "Hash": "+i3PaQR2v/A="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "C/gkYlWw68k=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures5.bsa",
-        "Name": "Data_Skyrim - Textures5.bsa",
-        "Size": 813639992,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures5.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "C/gkYlWw68k="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "CZK5rVHMnio=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures6.bsa",
-        "Name": "Data_Skyrim - Textures6.bsa",
-        "Size": 97210200,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures6.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "CZK5rVHMnio="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "gmtzSRavyZY=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccffbsse001-imperialdragon.bsa",
-        "Name": "Data_ccffbsse001-imperialdragon.bsa",
-        "Size": 177912136,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccffbsse001-imperialdragon.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "gmtzSRavyZY="
+          "Hash": "FC+yJIfHEZY="
         }
       }
     },
@@ -54159,6 +54114,118 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "VTFw7kmYtLs=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse025-advdsgs.bsa",
+        "Name": "Data_ccbgssse025-advdsgs.bsa",
+        "Size": 1092876237,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse025-advdsgs.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "VTFw7kmYtLs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+i3PaQR2v/A=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse069-contest.bsa",
+        "Name": "Data_ccbgssse069-contest.bsa",
+        "Size": 42851238,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse069-contest.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "+i3PaQR2v/A="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PG1IwuWeJ9w=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse056-ba_silver.bsa",
+        "Name": "Data_ccbgssse056-ba_silver.bsa",
+        "Size": 48153079,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse056-ba_silver.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "PG1IwuWeJ9w="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "G/rXqztUR/c=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse063-ba_ebony.bsa",
+        "Name": "Data_ccbgssse063-ba_ebony.bsa",
+        "Size": 47723055,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse063-ba_ebony.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "G/rXqztUR/c="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gmtzSRavyZY=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccffbsse001-imperialdragon.bsa",
+        "Name": "Data_ccffbsse001-imperialdragon.bsa",
+        "Size": 177912136,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccffbsse001-imperialdragon.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "gmtzSRavyZY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MrsudRvMvjw=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\_ResourcePack.bsa",
+        "Name": "Data__ResourcePack.bsa",
+        "Size": 916509890,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\_ResourcePack.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "MrsudRvMvjw="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3BUhwSXraIA=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse008-wraithguard.bsa",
+        "Name": "Data_ccbgssse008-wraithguard.bsa",
+        "Size": 37750811,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse008-wraithguard.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "3BUhwSXraIA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "DPCpvY7Mo7Q=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures3.bsa",
         "Name": "Data_Skyrim - Textures3.bsa",
@@ -54175,16 +54242,32 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kaXJZ5bCqwo=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\cceejsse005-cave.bsa",
-        "Name": "Data_cceejsse005-cave.bsa",
-        "Size": 29777150,
+        "Hash": "+u3SWCvuIp4=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures7.bsa",
+        "Name": "Data_Skyrim - Textures7.bsa",
+        "Size": 677006639,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\cceejsse005-cave.bsa",
+          "GameFile": "Data\\Skyrim - Textures7.bsa",
           "GameVersion": "1.6.1170.0",
-          "Hash": "kaXJZ5bCqwo="
+          "Hash": "+u3SWCvuIp4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "N6/AnjY71gg=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures8.bsa",
+        "Name": "Data_Skyrim - Textures8.bsa",
+        "Size": 255927303,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures8.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "N6/AnjY71gg="
         }
       }
     },
@@ -54223,22 +54306,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "D4PRDdN07t8=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse031-advcyrus.bsa",
-        "Name": "Data_ccbgssse031-advcyrus.bsa",
-        "Size": 145481731,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse031-advcyrus.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "D4PRDdN07t8="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "eLfpLReF12w=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccffbsse002-crossbowpack.bsa",
         "Name": "Data_ccffbsse002-crossbowpack.bsa",
@@ -54271,32 +54338,112 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "f+OVJlWp6cA=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Meshes1.bsa",
-        "Name": "Data_Skyrim - Meshes1.bsa",
-        "Size": 378762772,
+        "Hash": "lZhXJ4LoAtc=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse053-ba_leather.bsa",
+        "Name": "Data_ccbgssse053-ba_leather.bsa",
+        "Size": 35802144,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Meshes1.bsa",
+          "GameFile": "Data\\ccbgssse053-ba_leather.bsa",
           "GameVersion": "1.6.1170.0",
-          "Hash": "f+OVJlWp6cA="
+          "Hash": "lZhXJ4LoAtc="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "FC+yJIfHEZY=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse001-fish.bsa",
-        "Name": "Data_ccbgssse001-fish.bsa",
-        "Size": 377675522,
+        "Hash": "C/gkYlWw68k=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures5.bsa",
+        "Name": "Data_Skyrim - Textures5.bsa",
+        "Size": 813639992,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse001-fish.bsa",
+          "GameFile": "Data\\Skyrim - Textures5.bsa",
           "GameVersion": "1.6.1170.0",
-          "Hash": "FC+yJIfHEZY="
+          "Hash": "C/gkYlWw68k="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CZK5rVHMnio=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures6.bsa",
+        "Name": "Data_Skyrim - Textures6.bsa",
+        "Size": 97210200,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures6.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "CZK5rVHMnio="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kaXJZ5bCqwo=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\cceejsse005-cave.bsa",
+        "Name": "Data_cceejsse005-cave.bsa",
+        "Size": 29777150,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\cceejsse005-cave.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "kaXJZ5bCqwo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6cfO4iV3RJM=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse018-shadowrend.bsa",
+        "Name": "Data_ccbgssse018-shadowrend.bsa",
+        "Size": 73376289,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse018-shadowrend.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "6cfO4iV3RJM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "h0mIieAhiGo=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse036-petbwolf.bsa",
+        "Name": "Data_ccbgssse036-petbwolf.bsa",
+        "Size": 17946631,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse036-petbwolf.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "h0mIieAhiGo="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ulJPbfHx/wM=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse034-mntuni.bsa",
+        "Name": "Data_ccbgssse034-mntuni.bsa",
+        "Size": 76553700,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse034-mntuni.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "ulJPbfHx/wM="
         }
       }
     },
@@ -54340,150 +54487,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "lZhXJ4LoAtc=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse053-ba_leather.bsa",
-        "Name": "Data_ccbgssse053-ba_leather.bsa",
-        "Size": 35802144,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse053-ba_leather.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "lZhXJ4LoAtc="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6cfO4iV3RJM=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse018-shadowrend.bsa",
-        "Name": "Data_ccbgssse018-shadowrend.bsa",
-        "Size": 73376289,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse018-shadowrend.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "6cfO4iV3RJM="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+u3SWCvuIp4=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures7.bsa",
-        "Name": "Data_Skyrim - Textures7.bsa",
-        "Size": 677006639,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures7.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "+u3SWCvuIp4="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "N6/AnjY71gg=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures8.bsa",
-        "Name": "Data_Skyrim - Textures8.bsa",
-        "Size": 255927303,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures8.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "N6/AnjY71gg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "zy0DomDts78=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse064-ba_elven.bsa",
-        "Name": "Data_ccbgssse064-ba_elven.bsa",
-        "Size": 45841470,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse064-ba_elven.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "zy0DomDts78="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PG1IwuWeJ9w=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse056-ba_silver.bsa",
-        "Name": "Data_ccbgssse056-ba_silver.bsa",
-        "Size": 48153079,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse056-ba_silver.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "PG1IwuWeJ9w="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ulJPbfHx/wM=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse034-mntuni.bsa",
-        "Name": "Data_ccbgssse034-mntuni.bsa",
-        "Size": 76553700,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse034-mntuni.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "ulJPbfHx/wM="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "h0mIieAhiGo=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse036-petbwolf.bsa",
-        "Name": "Data_ccbgssse036-petbwolf.bsa",
-        "Size": 17946631,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse036-petbwolf.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "h0mIieAhiGo="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3BUhwSXraIA=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse008-wraithguard.bsa",
-        "Name": "Data_ccbgssse008-wraithguard.bsa",
-        "Size": 37750811,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse008-wraithguard.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "3BUhwSXraIA="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "ZF2fYvOMjCQ=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse019-staffofsheogorath.bsa",
         "Name": "Data_ccbgssse019-staffofsheogorath.bsa",
@@ -54494,54 +54497,6 @@
           "GameFile": "Data\\ccbgssse019-staffofsheogorath.bsa",
           "GameVersion": "1.6.1170.0",
           "Hash": "ZF2fYvOMjCQ="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "lHKecWZdnlI=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse055-ba_orcishscaled.bsa",
-        "Name": "Data_ccbgssse055-ba_orcishscaled.bsa",
-        "Size": 43781890,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse055-ba_orcishscaled.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "lHKecWZdnlI="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "JmZV55G6Udg=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures2.bsa",
-        "Name": "Data_Skyrim - Textures2.bsa",
-        "Size": 1345109830,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures2.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "JmZV55G6Udg="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "MrsudRvMvjw=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\_ResourcePack.bsa",
-        "Name": "Data__ResourcePack.bsa",
-        "Size": 916509890,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\_ResourcePack.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "MrsudRvMvjw="
         }
       }
     },
@@ -54564,32 +54519,80 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "G/rXqztUR/c=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse063-ba_ebony.bsa",
-        "Name": "Data_ccbgssse063-ba_ebony.bsa",
-        "Size": 47723055,
+        "Hash": "D4PRDdN07t8=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse031-advcyrus.bsa",
+        "Name": "Data_ccbgssse031-advcyrus.bsa",
+        "Size": 145481731,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse063-ba_ebony.bsa",
+          "GameFile": "Data\\ccbgssse031-advcyrus.bsa",
           "GameVersion": "1.6.1170.0",
-          "Hash": "G/rXqztUR/c="
+          "Hash": "D4PRDdN07t8="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VTFw7kmYtLs=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse025-advdsgs.bsa",
-        "Name": "Data_ccbgssse025-advdsgs.bsa",
-        "Size": 1092876237,
+        "Hash": "JmZV55G6Udg=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures2.bsa",
+        "Name": "Data_Skyrim - Textures2.bsa",
+        "Size": 1345109830,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\ccbgssse025-advdsgs.bsa",
+          "GameFile": "Data\\Skyrim - Textures2.bsa",
           "GameVersion": "1.6.1170.0",
-          "Hash": "VTFw7kmYtLs="
+          "Hash": "JmZV55G6Udg="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xFu5+sS2XBA=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures4.bsa",
+        "Name": "Data_Skyrim - Textures4.bsa",
+        "Size": 1265325033,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures4.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "xFu5+sS2XBA="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zy0DomDts78=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse064-ba_elven.bsa",
+        "Name": "Data_ccbgssse064-ba_elven.bsa",
+        "Size": 45841470,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse064-ba_elven.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "zy0DomDts78="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lHKecWZdnlI=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\ccbgssse055-ba_orcishscaled.bsa",
+        "Name": "Data_ccbgssse055-ba_orcishscaled.bsa",
+        "Size": 43781890,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\ccbgssse055-ba_orcishscaled.bsa",
+          "GameVersion": "1.6.1170.0",
+          "Hash": "lHKecWZdnlI="
         }
       }
     },
@@ -54632,22 +54635,6 @@
           "ModID": 3038,
           "Name": "Fores New Idles in Skyrim SE - FNIS SE",
           "Version": "7.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "xFu5+sS2XBA=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures4.bsa",
-        "Name": "Data_Skyrim - Textures4.bsa",
-        "Size": 1265325033,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures4.bsa",
-          "GameVersion": "1.6.1170.0",
-          "Hash": "xFu5+sS2XBA="
         }
       }
     }
