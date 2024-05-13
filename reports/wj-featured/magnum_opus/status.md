@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (959)
+### Valid (960)
 *  [0001. Weapon QuickSwap 3-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108861)
 *  [0002. FastPipboy-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=89711)
 *  [1.5 Loosefiles-50213-1-5-1664847287.7z](https://www.nexusmods.com/fallout4/mods/50213/?tab=files&file_id=252419)
@@ -320,6 +320,7 @@
 *  [Echo Lake Lumber - EchoVil-52688-1-0-1624331842.rar](https://www.nexusmods.com/fallout4/mods/52688/?tab=files&file_id=210866)
 *  [Echo-35102-V1-9-2-1546640741.zip](https://www.nexusmods.com/fallout4/mods/35102/?tab=files&file_id=149365)
 *  [Editor's Choice v2-21331-2-0-1560296915.zip](https://www.nexusmods.com/fallout4/mods/21331/?tab=files&file_id=159696)
+*  EditorWarnings.txt
 *  [EferasSandbagsDefenceWall.1.0-8590-1-0.rar](https://www.nexusmods.com/fallout4/mods/8590/?tab=files&file_id=32162)
 *  [Eli's Apocalypse Attire - No AWKCR-40752-1-0-1589846820.zip](https://www.nexusmods.com/fallout4/mods/40752/?tab=files&file_id=182212)
 *  [Eli's Armour Compendium - CBBE and BodySlide 1.5-22431-1-5.7z](https://www.nexusmods.com/fallout4/mods/22431/?tab=files&file_id=96360)
