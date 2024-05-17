@@ -1,4 +1,4 @@
-## Validation Report - Mad Gods Overhaul (Mad_Gods_Overhaul/MadGodsOverhaul)
+## Validation Report - Mad Gods Overhaul SFW (Mad_Gods_Overhaul/MadGodsOverhaul)
 
 
 ### Invalid (0)
