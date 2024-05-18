@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3540)
+### Valid (3541)
 *  [- Skyrim 202X - 1K-68307-10-0-1-1710639844.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68307/?tab=files&file_id=481353)
 *  [(1) Community Overlays 1 - Main - UNP  2K-22487-1-0-1-1547247749.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77985)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -280,6 +280,7 @@
 *  [Armors Of The Velothi Pt.2-69996-1-0-1666705999.rar](https://www.nexusmods.com/skyrimspecialedition/mods/69996/?tab=files&file_id=326472)
 *  [Armory of the Dragon Cult - Half Res-94244-1-1-0-1696688170.rar](https://www.nexusmods.com/skyrimspecialedition/mods/94244/?tab=files&file_id=431938)
 *  [ArteFakes Updated Plugin-41254-2-0-1-1631195398.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41254/?tab=files&file_id=227182)
+*  [Arturius - Racemenu Preset - Lorerim-119701-1-0-1715998861.7z](https://www.nexusmods.com/skyrimspecialedition/mods/119701/?tab=files&file_id=502235)
 *  [Arvak - My version SE by Xtudo-51726-1-1624837147.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51726/?tab=files&file_id=211476)
 *  [Arvak 2K-88283-1-1-1680986883.7z](https://www.nexusmods.com/skyrimspecialedition/mods/88283/?tab=files&file_id=376449)
 *  [Ascensio - Custom Facegen and Facetints-89138-3-0-1686316009.7z](https://www.nexusmods.com/skyrimspecialedition/mods/89138/?tab=files&file_id=396284)
@@ -639,6 +640,7 @@
 *  [Clouds over Morthal Swamp-86927-1-1-1678844377.zip](https://www.nexusmods.com/skyrimspecialedition/mods/86927/?tab=files&file_id=368653)
 *  [Clue Scrolls In Skyrim-80542-1-4-1705607216.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80542/?tab=files&file_id=462667)
 *  [College of Winterhold - Quest Expansion-66666-1-15-1699626604.rar](https://www.nexusmods.com/skyrimspecialedition/mods/66666/?tab=files&file_id=441431)
+*  [College of Winterhold LOD Shimmer Fix-25577-1-0-1557150757.7z](https://www.nexusmods.com/skyrimspecialedition/mods/25577/?tab=files&file_id=91062)
 *  [Colored And Animated Celtic Icons For SkyUI-23054-1-0-1548949225.7z](https://www.nexusmods.com/skyrimspecialedition/mods/23054/?tab=files&file_id=80245)
 *  [Colourful Lutes in Tamriel-84191-1-0-1675517401.7z](https://www.nexusmods.com/skyrimspecialedition/mods/84191/?tab=files&file_id=356227)
 *  [Colovian Fur Armor v1.0.1SE-4465-1-0SE.zip](https://www.nexusmods.com/skyrimspecialedition/mods/4465/?tab=files&file_id=15923)
@@ -889,7 +891,6 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
-*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -1906,13 +1907,12 @@
 *  [Long Robes Meshes Edit-9167-1-0-0M.rar](https://www.nexusmods.com/skyrimspecialedition/mods/9167/?tab=files&file_id=23376)
 *  [Lore Weapon Expansion-9660-1-4c.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9660/?tab=files&file_id=25118)
 *  [LoreRim - BodySlide Output-112590-1-6-1716002608.rar](https://www.nexusmods.com/skyrimspecialedition/mods/112590/?tab=files&file_id=502245)
-*  [LoreRim - DynDOLOD Output-112590-1-6-1715987331.rar](https://www.nexusmods.com/skyrimspecialedition/mods/112590/?tab=files&file_id=502160)
+*  [LoreRim - DynDOLOD Output-112590-1-6-1716012194.rar](https://www.nexusmods.com/skyrimspecialedition/mods/112590/?tab=files&file_id=502273)
 *  [LoreRim - Grass Cache-112590-1-5-1712246746.rar](https://www.nexusmods.com/skyrimspecialedition/mods/112590/?tab=files&file_id=487456)
 *  [LoreRim - Performance DynDOLOD-112590-1-6-1716002753.rar](https://www.nexusmods.com/skyrimspecialedition/mods/112590/?tab=files&file_id=502246)
 *  [LoreRim - Performance TexGen-112590-1-6-1716002786.rar](https://www.nexusmods.com/skyrimspecialedition/mods/112590/?tab=files&file_id=502247)
-*  [LoreRim - TexGen Output-112590-1-6-1715984319.rar](https://www.nexusmods.com/skyrimspecialedition/mods/112590/?tab=files&file_id=502144)
-*  [LoreRim - xLodGen Output-112590-1-5-97-1713645780.rar](https://www.nexusmods.com/skyrimspecialedition/mods/112590/?tab=files&file_id=493041)
-*  [LoreRim - xLodGen Output-112590-1-6-1715984295.rar](https://www.nexusmods.com/skyrimspecialedition/mods/112590/?tab=files&file_id=502143)
+*  [LoreRim - TexGen Output-112590-1-6-1716007619.rar](https://www.nexusmods.com/skyrimspecialedition/mods/112590/?tab=files&file_id=502261)
+*  [LoreRim - xLodGen Output-112590-1-6-1716008090.rar](https://www.nexusmods.com/skyrimspecialedition/mods/112590/?tab=files&file_id=502263)
 *  [LoreRIM Conventional Naming-114999-1-0-1711676300.zip](https://www.nexusmods.com/skyrimspecialedition/mods/114999/?tab=files&file_id=485151)
 *  [LoreRIM Conventional Naming-115305-1-0-1711676380.rar](https://www.nexusmods.com/skyrimspecialedition/mods/115305/?tab=files&file_id=485152)
 *  [LoreRim-Controller-Primary-111887-1-1-1713735820.7z](https://www.nexusmods.com/skyrimspecialedition/mods/111887/?tab=files&file_id=493446)
@@ -3180,6 +3180,7 @@
 *  [Tel Mithryn Overhaul - Parallax Meshes-100397-1-1-1700029293.rar](https://www.nexusmods.com/skyrimspecialedition/mods/100397/?tab=files&file_id=442757)
 *  [Tel Mithryn Overhaul - USSEP Patch-104813-1-0a-1700996409.rar](https://www.nexusmods.com/skyrimspecialedition/mods/104813/?tab=files&file_id=446228)
 *  [Tel Mithryn Overhaul-104813-1-0-1700901760.rar](https://www.nexusmods.com/skyrimspecialedition/mods/104813/?tab=files&file_id=445833)
+*  [Teldrin - Pre evil and evil-119675-1-0-0-1715989956.zip](https://www.nexusmods.com/skyrimspecialedition/mods/119675/?tab=files&file_id=502179)
 *  [Tempered Skins for Females CBBE-8505-1-32-1604152171.7z](https://www.nexusmods.com/skyrimspecialedition/mods/8505/?tab=files&file_id=167956)
 *  [Tempered Skins for Males - Dressed Version-7902-2-05-1601297180.7z](https://www.nexusmods.com/skyrimspecialedition/mods/7902/?tab=files&file_id=162982)
 *  [Terrain Parallax Blending Fix FOMOD-88261-2-0-5-1700883188.7z](https://www.nexusmods.com/skyrimspecialedition/mods/88261/?tab=files&file_id=445771)
