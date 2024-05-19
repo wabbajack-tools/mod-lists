@@ -968,8 +968,8 @@
   {
     "name": "Just a Humble Warden",
     "machineURL": "HumbleWarden/humble_warden",
-    "failed": 2,
-    "passed": 334,
+    "failed": 3,
+    "passed": 333,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/HumbleWarden/humble_warden/status.json",
@@ -1108,14 +1108,14 @@
   {
     "name": "Last Seed",
     "machineURL": "Lastseed/lastseed",
-    "failed": 2,
-    "passed": 407,
+    "failed": 0,
+    "passed": 409,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Lastseed/lastseed/status.json",
     "report": "reports/Lastseed/lastseed/status.md",
     "modlist_missing": false,
-    "has_failures": true,
+    "has_failures": false,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Lastseed/006e1b6ce0a2d280_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Lastseed/006e1b6ce0a2d280_large.webp"
   },
@@ -1473,7 +1473,7 @@
     "name": "LoreRim",
     "machineURL": "LoreRim/LoreRim",
     "failed": 0,
-    "passed": 3540,
+    "passed": 3541,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/LoreRim/LoreRim/status.json",
@@ -1664,5 +1664,33 @@
     "has_failures": false,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Biblioklept/c370e6e81431f247_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Biblioklept/c370e6e81431f247_large.webp"
+  },
+  {
+    "name": "Wild Card FNV",
+    "machineURL": "WildCardFNV/WildCardFNV",
+    "failed": 0,
+    "passed": 793,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/WildCardFNV/WildCardFNV/status.json",
+    "report": "reports/WildCardFNV/WildCardFNV/status.md",
+    "modlist_missing": false,
+    "has_failures": false,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/WildCardFNV/f3cd61ffe7d14864_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/WildCardFNV/f3cd61ffe7d14864_large.webp"
+  },
+  {
+    "name": "Wild Card TTW",
+    "machineURL": "WildCardTTW/WildCardTTW",
+    "failed": 0,
+    "passed": 833,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/WildCardTTW/WildCardTTW/status.json",
+    "report": "reports/WildCardTTW/WildCardTTW/status.md",
+    "modlist_missing": false,
+    "has_failures": false,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/WildCardTTW/c7e464a3c8b4a844_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/WildCardTTW/c7e464a3c8b4a844_large.webp"
   }
 ]

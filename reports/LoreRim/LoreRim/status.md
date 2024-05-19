@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3540)
+### Valid (3541)
 *  [- Skyrim 202X - 1K-68307-10-0-1-1710639844.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68307/?tab=files&file_id=481353)
 *  [(1) Community Overlays 1 - Main - UNP  2K-22487-1-0-1-1547247749.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77985)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -890,6 +890,7 @@
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
+*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
