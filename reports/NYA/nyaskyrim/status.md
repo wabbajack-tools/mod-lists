@@ -1300,7 +1300,7 @@
 *  [Honorhall Orphanage Bugfixes and Expansion-66955-2-03-1696828926.zip](https://www.nexusmods.com/skyrimspecialedition/mods/66955/?tab=files&file_id=432514)
 *  [Horker HD 3.0-28452-3-0-1701008816.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28452/?tab=files&file_id=446283)
 *  [Horns Are Forever SE-1139-1-1.rar](https://www.nexusmods.com/skyrimspecialedition/mods/1139/?tab=files&file_id=2306)
-*  [HornyCreaturesofSkyrimSE_V2_2a.7z](https://www.loverslab.com/files/file/5465-horny-creatures-of-skyrim-special-edition)
+*  [HornyCreaturesofSkyrimSE&AE_V2-3.7z](https://www.loverslab.com/files/file/5465-horny-creatures-of-skyrim-special-edition)
 *  [Horse Hide Retexture-42547-1-0-1605794087.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42547/?tab=files&file_id=170736)
 *  [Horse Stamina HUD-47076-1-0-1-1616008141.zip](https://www.nexusmods.com/skyrimspecialedition/mods/47076/?tab=files&file_id=192003)
 *  [Hot Key Skill-86352-0-8-1688522971.zip](https://www.nexusmods.com/skyrimspecialedition/mods/86352/?tab=files&file_id=403848)
