@@ -1,7 +1,7 @@
 ## Validation Report - SERVITIUM (licentia_black/licentia_servitium)
 
 
-### Invalid (16)
+### Invalid (15)
 *  [548469150_SkyrimVixens-LegacyoftheDragonbornPaintingReplacerV1.1.7z](https://www.loverslab.com/files/file/27064-skyrim-vixens-legacy-of-the-dragonborn-painting-replacer-v11/?do=download)
 *  [BakaFactory SLAL Animation 6.50.7z](https://www.loverslab.com/files/file/6707-bakafactorys-slal-animation-le-sse/?do=download)
 *  [Deviously Enchanted Chests SE-LE 3.20.7z](https://www.loverslab.com/files/file/1405-deviously-enchanted-chests/?do=download)
@@ -9,7 +9,6 @@
 *  [Impact Play v0.1.0.7z](https://www.loverslab.com/files/file/31474-impact-play/?do=download)
 *  [Patched SE SL TOOLS Updated.zip](https://www.loverslab.com/files/file/10660-sexlab-tools-for-se-patched/?do=download)
 *  [Practical Defeat v0.4.5.7z](https://www.loverslab.com/files/file/27489-beta-practical-defeat/?do=download&r=1848011&confirm=1&t=1&csrfKey=df5aa97a036b3d016d2556d803321bbe)
-*  [Public Whore v1.2.4 SE.zip](https://www.loverslab.com/files/file/17026-public-whore/?do=download&r=1481528&confirm=1)
 *  [Rydin Animations SLAL Pack_Complete_SSE v0.5a.7z](https://www.loverslab.com/files/file/9187-rydins-animations-resource-pack/?do=download)
 *  [Schlongs_of_Skyrim_SE - v1.1.4.rar](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/?do=download&r=735229&confirm=1&t=1&csrfKey=df5aa97a036b3d016d2556d803321bbe)
 *  [SexLab-Separate-Orgasm 2023-01-16.7z](https://www.loverslab.com/files/file/5929-sexlab-separate-orgasm-se/?do=download&r=1489053&confirm=1)
@@ -20,7 +19,7 @@
 *  [YouDontNeedABreak.7z](https://www.loverslab.com/files/file/20155-you-dont-need-a-break-fix-an-eager-npcs-annoyance/?do=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1628)
+### Valid (1629)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
 *  [(3) SBP  - CBBE Adjustments-22811-1-1CBBE-1583706479.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=127862)
@@ -1169,6 +1168,7 @@
 *  [ProjectedDiffuse Patch - Cathedral Snow Dark-57643-1-0-1635605229 (1).rar](https://www.nexusmods.com/skyrimspecialedition/mods/57643/?tab=files&file_id=237940)
 *  [ProjectedDiffuse Patch - Cathedral Snow Light-57643-1-0-1635605185.rar](https://www.nexusmods.com/skyrimspecialedition/mods/57643/?tab=files&file_id=237939)
 *  [Pubic Hair Overlays SE.zip](https://drive.google.com/uc?id=1_sYhna-VKSKFOG8mNA8dWpByvNba42ZG&export=download)
+*  [Public Whore v1.2.4 SE.zip](https://www.loverslab.com/files/file/17026-public-whore/?do=download&r=1481528&confirm=1)
 *  [PW SE G9 hotfix F0.3.7z](https://www.loverslab.com/files/file/22435-public-whore-sevr-hotfix/?do=download&r=1447875&confirm=1)
 *  [PWPatchv1.0forPWv1.2.4.7z](https://www.loverslab.com/files/file/17026-public-whore/?do=download&r=1822506&confirm=1)
 *  [Pyramid Utils v0.2.1.7z](https://www.loverslab.com/files/file/31472-pyramid-utils/?do=download&r=1848010&confirm=1)
