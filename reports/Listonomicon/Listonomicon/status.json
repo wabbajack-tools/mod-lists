@@ -1,8 +1,8 @@
 {
   "MachineURL": "Listonomicon/Listonomicon",
   "Name": "Listonomicon",
-  "Version": "0.9.9.2",
-  "ModListHash": "uYIWjiMScu8=",
+  "Version": "0.9.9.3",
+  "ModListHash": "0mDLpZTuQcc=",
   "Archives": [
     {
       "Status": "Valid",
@@ -455,6 +455,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "/2dNeU871Vc=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=473\nfileID=52523",
+        "Name": "Homebrew Spells-473-2-0-0-0-1712204543.zip",
+        "Size": 32539849,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Celes",
+          "Description": "This mod adds a number of homebrew spells.",
+          "FileID": 52523,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/473/473-1683321497-855151042.jpeg",
+          "IsNSFW": false,
+          "ModID": 473,
+          "Name": "Homebrew Spells",
+          "Version": "2.0.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "/C/Fq5XygkY=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=31720\nfileID=460345",
         "Name": "Root Builder 5.0.4-31720-5-0-4-1704999832.zip",
@@ -470,27 +491,6 @@
           "ModID": 31720,
           "Name": "Kezyma\u0027s Root Builder for Mod Organizer",
           "Version": "4.5.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "iSv1ybiOsjE=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=944\nfileID=8910",
-        "Name": "NativeModLoader-944-1-1692533783.zip",
-        "Size": 325905,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kassent",
-          "Description": "This is NativeModLoader, used to load any native dll plugins within bin\u0026#92;NativeMods\u0026#92; folder.",
-          "FileID": 8910,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/944/944-1692046259-904663716.png",
-          "IsNSFW": false,
-          "ModID": 944,
-          "Name": "Native Mod Loader",
-          "Version": "1"
         }
       }
     },
@@ -959,21 +959,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "B8E6J4GPIEE=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=2631\nfileID=53556",
-        "Name": "OIO Standard-2631-6-9-0-Hotfix25-1712941505.7z",
-        "Size": 8159270,
+        "Hash": "iSv1ybiOsjE=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=944\nfileID=8910",
+        "Name": "NativeModLoader-944-1-1692533783.zip",
+        "Size": 325905,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "xmas214",
-          "Description": "Ever unintentionally break a Paladin oath / keep pissing off Karlach / repeatedly pick the hardest skill checks / say something Gale took as a pick-up line?  OIO is here for you.",
-          "FileID": 53556,
+          "Author": "kassent",
+          "Description": "This is NativeModLoader, used to load any native dll plugins within bin\u0026#92;NativeMods\u0026#92; folder.",
+          "FileID": 8910,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2631/2631-1702618385-1726957103.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/944/944-1692046259-904663716.png",
           "IsNSFW": false,
-          "ModID": 2631,
-          "Name": "OIO - Overexplained Interaction Options",
-          "Version": "5.3.0-Hotfix14"
+          "ModID": 944,
+          "Name": "Native Mod Loader",
+          "Version": "1"
         }
       }
     },
@@ -1379,27 +1379,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "oKq5h9RE1Cg=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=781\nfileID=45336",
-        "Name": "WASD-781-1-9-4-1708264098.zip",
-        "Size": 1210493,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ch4nKyy",
-          "Description": "Explore Faer\u00FBn in an immersive Third-Person-View and use WASD to move your Heroes.",
-          "FileID": 45336,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/781/781-1691761313-2064208011.png",
-          "IsNSFW": false,
-          "ModID": 781,
-          "Name": "WASD Character Movement",
-          "Version": "1.9.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "b0d7smlMI88=",
         "Meta": "[General]\ngameName=baldursgate3\nmodID=2473\nfileID=18216",
         "Name": "Add Unarmed to Savage Attacks trait-2473-1-2-1695506544.zip",
@@ -1778,21 +1757,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "zG5BhVRd+9g=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=668\nfileID=32355",
-        "Name": "BG3AE-668-1-2-1701646527.zip",
-        "Size": 158480,
+        "Hash": "B8E6J4GPIEE=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=2631\nfileID=53556",
+        "Name": "OIO Standard-2631-6-9-0-Hotfix25-1712941505.7z",
+        "Size": 8159270,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DK",
-          "Description": "Enables steam \u0026amp; GOG achievement for Baldur\u0027s Gate 3 with mods.\n\n\u542F\u7528\u5E26\u6709\u6A21\u7EC4\u7684\u300A\u535A\u5FB7\u4E4B\u95E83\u300B\u7684Steam\u548CGOG\u6210\u5C31\u3002",
-          "FileID": 32355,
+          "Author": "xmas214",
+          "Description": "Ever unintentionally break a Paladin oath / keep pissing off Karlach / repeatedly pick the hardest skill checks / say something Gale took as a pick-up line?  OIO is here for you.",
+          "FileID": 53556,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/668/668-1691494519-1774948008.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2631/2631-1702618385-1726957103.png",
           "IsNSFW": false,
-          "ModID": 668,
-          "Name": "Achievement Enabler",
-          "Version": "1.1"
+          "ModID": 2631,
+          "Name": "OIO - Overexplained Interaction Options",
+          "Version": "5.3.0-Hotfix14"
         }
       }
     },
@@ -2177,21 +2156,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "JbAHgKg3SGc=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=9310\nfileID=56877",
-        "Name": "Ajax Customized Custom Difficulty-9310-0-9-9-1715542569.zip",
-        "Size": 3923,
+        "Hash": "oKq5h9RE1Cg=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=781\nfileID=45336",
+        "Name": "WASD-781-1-9-4-1708264098.zip",
+        "Size": 1210493,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ajax and LillyBird",
-          "Description": "Changes the default values of \u0022Custom Difficulty\u0022 to a Tactician\u002B",
-          "FileID": 56877,
+          "Author": "Ch4nKyy",
+          "Description": "Explore Faer\u00FBn in an immersive Third-Person-View and use WASD to move your Heroes.",
+          "FileID": 45336,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9310/9310-1715117991-1957903290.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/781/781-1691761313-2064208011.png",
           "IsNSFW": false,
-          "ModID": 9310,
-          "Name": "Ajax\u0027s Customized Custom Difficulty",
-          "Version": "1.0"
+          "ModID": 781,
+          "Name": "WASD Character Movement",
+          "Version": "1.9.3"
         }
       }
     },
@@ -2576,21 +2555,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "CvS+jZO4mMo=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=1326\nfileID=9434",
-        "Name": "Baldur\u0027s Priority 1.0.0-1326-1-0-0-1692716443.zip",
-        "Size": 235364,
+        "Hash": "zG5BhVRd+9g=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=668\nfileID=32355",
+        "Name": "BG3AE-668-1-2-1701646527.zip",
+        "Size": 158480,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "boring3",
-          "Description": "Elevate the CPU Priority of the game process.\n\nImprove overall performance and Prevent stutters caused by other processes.",
-          "FileID": 9434,
+          "Author": "DK",
+          "Description": "Enables steam \u0026amp; GOG achievement for Baldur\u0027s Gate 3 with mods.\n\n\u542F\u7528\u5E26\u6709\u6A21\u7EC4\u7684\u300A\u535A\u5FB7\u4E4B\u95E83\u300B\u7684Steam\u548CGOG\u6210\u5C31\u3002",
+          "FileID": 32355,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1326/1326-1692716065-1496351402.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/668/668-1691494519-1774948008.png",
           "IsNSFW": false,
-          "ModID": 1326,
-          "Name": "Baldur\u0027s Priority - CPU Performance FPS Optimizer",
-          "Version": "1.0.0"
+          "ModID": 668,
+          "Name": "Achievement Enabler",
+          "Version": "1.1"
         }
       }
     },
@@ -2996,6 +2975,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "JbAHgKg3SGc=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=9310\nfileID=56877",
+        "Name": "Ajax Customized Custom Difficulty-9310-0-9-9-1715542569.zip",
+        "Size": 3923,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ajax and LillyBird",
+          "Description": "Changes the default values of \u0022Custom Difficulty\u0022 to a Tactician\u002B",
+          "FileID": 56877,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9310/9310-1715117991-1957903290.png",
+          "IsNSFW": false,
+          "ModID": 9310,
+          "Name": "Ajax\u0027s Customized Custom Difficulty",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Ta712WMgF8c=",
         "Meta": "[General]\ngameName=baldursgate3\nmodID=7740\nfileID=57147",
         "Name": "AdditionalEnemiesExtended-7740-v3-3-7-1-1715726379.zip",
@@ -3374,42 +3374,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "iXYB9CBA1x0=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=945\nfileID=44862",
-        "Name": "Native Camera Tweaks-945-2-4-1-1708094628.zip",
-        "Size": 310282,
+        "Hash": "CvS+jZO4mMo=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=1326\nfileID=9434",
+        "Name": "Baldur\u0027s Priority 1.0.0-1326-1-0-0-1692716443.zip",
+        "Size": 235364,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ersh",
-          "Description": "Native open source plugin providing several camera tweaks. Unlocked camera pitch, zoom, controller stick deadzone. No separate executables. Configurable.",
-          "FileID": 44862,
+          "Author": "boring3",
+          "Description": "Elevate the CPU Priority of the game process.\n\nImprove overall performance and Prevent stutters caused by other processes.",
+          "FileID": 9434,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/945/945-1692048859-248582030.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1326/1326-1692716065-1496351402.png",
           "IsNSFW": false,
-          "ModID": 945,
-          "Name": "Native Camera Tweaks",
-          "Version": "2.4.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "y0M0hJcjlj8=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=1561\nfileID=11379",
-        "Name": "Faster Rolls Quartered-1561-1-1-1693278665.zip",
-        "Size": 41598,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "hoagsie",
-          "Description": "This is an alternative to Faster Dice Menu that\u0027s easier to follow but is still much, much faster.",
-          "FileID": 11379,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1561/1561-1693178179-877956600.png",
-          "IsNSFW": false,
-          "ModID": 1561,
-          "Name": "Faster Rolls Quartered",
-          "Version": "1.1"
+          "ModID": 1326,
+          "Name": "Baldur\u0027s Priority - CPU Performance FPS Optimizer",
+          "Version": "1.0.0"
         }
       }
     },
@@ -4214,21 +4193,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Ltz7xssWjmQ=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=1384\nfileID=52985",
-        "Name": "Alt Masc HE Head 2-1384-2-0-3-1712531820.7z",
-        "Size": 80318733,
+        "Hash": "iXYB9CBA1x0=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=945\nfileID=44862",
+        "Name": "Native Camera Tweaks-945-2-4-1-1708094628.zip",
+        "Size": 310282,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "jerinski",
-          "Description": "Resculpted M Half-elf Head 2; for masc Elves/Drow, Half-elves, Humans, Tieflings, Githyanki, and Half-orcs. Body Types 2 and 4.",
-          "FileID": 52985,
+          "Author": "Ersh",
+          "Description": "Native open source plugin providing several camera tweaks. Unlocked camera pitch, zoom, controller stick deadzone. No separate executables. Configurable.",
+          "FileID": 44862,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1384/1384-1696790590-1076998807.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/945/945-1692048859-248582030.png",
           "IsNSFW": false,
-          "ModID": 1384,
-          "Name": "Alt M Half-elf Head 2 - for other races",
-          "Version": "2.0.3"
+          "ModID": 945,
+          "Name": "Native Camera Tweaks",
+          "Version": "2.4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "y0M0hJcjlj8=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=1561\nfileID=11379",
+        "Name": "Faster Rolls Quartered-1561-1-1-1693278665.zip",
+        "Size": 41598,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "hoagsie",
+          "Description": "This is an alternative to Faster Dice Menu that\u0027s easier to follow but is still much, much faster.",
+          "FileID": 11379,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1561/1561-1693178179-877956600.png",
+          "IsNSFW": false,
+          "ModID": 1561,
+          "Name": "Faster Rolls Quartered",
+          "Version": "1.1"
         }
       }
     },
@@ -5054,14 +5054,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/gGeY9LGPZw=",
-        "Meta": "[General]\ndirectURL=https://github.com/chazwarp923/MO2-BG3-Plugin/releases/download/1.2.0/MO2.-.BG3.Plugin.-.1.2.0.7z",
-        "Name": "MO2.-.BG3.Plugin.-.1.2.0.7z",
-        "Size": 189622,
+        "Hash": "Ltz7xssWjmQ=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=1384\nfileID=52985",
+        "Name": "Alt Masc HE Head 2-1384-2-0-3-1712531820.7z",
+        "Size": 80318733,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/chazwarp923/MO2-BG3-Plugin/releases/download/1.2.0/MO2.-.BG3.Plugin.-.1.2.0.7z"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "jerinski",
+          "Description": "Resculpted M Half-elf Head 2; for masc Elves/Drow, Half-elves, Humans, Tieflings, Githyanki, and Half-orcs. Body Types 2 and 4.",
+          "FileID": 52985,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1384/1384-1696790590-1076998807.png",
+          "IsNSFW": false,
+          "ModID": 1384,
+          "Name": "Alt M Half-elf Head 2 - for other races",
+          "Version": "2.0.3"
         }
       }
     },
@@ -5887,6 +5894,20 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "/gGeY9LGPZw=",
+        "Meta": "[General]\ndirectURL=https://github.com/chazwarp923/MO2-BG3-Plugin/releases/download/1.2.0/MO2.-.BG3.Plugin.-.1.2.0.7z",
+        "Name": "MO2.-.BG3.Plugin.-.1.2.0.7z",
+        "Size": 189622,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/chazwarp923/MO2-BG3-Plugin/releases/download/1.2.0/MO2.-.BG3.Plugin.-.1.2.0.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "KE4C6WobKDQ=",
         "Meta": "[General]\ngameName=baldursgate3\nmodID=125\nfileID=57464",
         "Name": "5e Spells-125-2-0-1-6-1715916719.zip",
@@ -6259,27 +6280,6 @@
           "ModID": 2226,
           "Name": "Vemperen\u0027s Other Heads Repaired",
           "Version": "1.45"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "/2dNeU871Vc=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=473\nfileID=52523",
-        "Name": "Homebrew Spells-473-2-0-0-0-1712204543.zip",
-        "Size": 32539849,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Celes",
-          "Description": "This mod adds a number of homebrew spells.",
-          "FileID": 52523,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/473/473-1683321497-855151042.jpeg",
-          "IsNSFW": false,
-          "ModID": 473,
-          "Name": "Homebrew Spells",
-          "Version": "2.0.0.0"
         }
       }
     },
