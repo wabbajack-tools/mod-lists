@@ -1060,7 +1060,7 @@
 *  [Moonpath To Elsweyr Retexture SE-67295-1-0-1651288866.rar](https://www.nexusmods.com/skyrimspecialedition/mods/67295/?tab=files&file_id=280432)
 *  [Moonpath to Elsweyr SSE-4341-1-16-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4341/?tab=files&file_id=19300)
 *  [Moons And Stars - Sky Overhaul SKSE-73336-2-0-2-1665609139.7z](https://www.nexusmods.com/skyrimspecialedition/mods/73336/?tab=files&file_id=323576)
-*  [More Informative Console 1.1.0 SE-19250-1-1-0-1658684842.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=301855)
+*  [More Informative Console 1.2-19250-1-2-0-1713132987.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=490813)
 *  [More to Say 9.0.2 Patch-86660-1-2-1684505896.rar](https://www.nexusmods.com/skyrimspecialedition/mods/86660/?tab=files&file_id=389731)
 *  [More to Say 9.0.2 Patch-86916-1-2-1684539370.rar](https://www.nexusmods.com/skyrimspecialedition/mods/86916/?tab=files&file_id=389975)
 *  [More to Say-22622-9-0-2-1676332853.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22622/?tab=files&file_id=359558)
