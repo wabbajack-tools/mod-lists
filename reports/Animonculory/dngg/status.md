@@ -1,11 +1,10 @@
 ## Validation Report - Do Not Go Gentle (Animonculory/dngg)
 
 
-### Invalid (1)
-*  [_Fuse00TaurielHair.rar](https://www.patreon.com/file?h=62190804&i=11074106)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2011)
+### Valid (2012)
 *  [_Fuse00_ArmorMelonyCBBE.rar](https://www.patreon.com/file?h=67711235&i=10980531)
 *  [_Fuse00_ArmorRogue.rar](https://www.patreon.com/file?h=67007517&i=10861552)
 *  [_Fuse00_ArmorSonaCBBE_V1.1.rar](https://www.patreon.com/file?h=68902488&i=12781379)
@@ -16,6 +15,7 @@
 *  [_Fuse00AmberHair.rar](https://www.patreon.com/file?h=76570894&i=12673922)
 *  [_Fuse00HairPackBraided03.rar](https://www.patreon.com/file?h=64262256&i=10354948)
 *  [_Fuse00SirenHair.rar](https://www.patreon.com/file?h=75589695&i=12484434)
+*  [_Fuse00TaurielHair.rar](https://www.patreon.com/file?h=62190804&i=11074106)
 *  [_Fuse00YenHair_1.2.rar](https://www.patreon.com/file?h=71131410&i=11736475)
 *  [- Parallax Meshes-58370-9-6-1690921246.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=413181)
 *  [(DAR)Draugr Magic Loop Casting Animation-73876-1-1-1673588520.rar](https://www.nexusmods.com/skyrimspecialedition/mods/73876/?tab=files&file_id=349080)
