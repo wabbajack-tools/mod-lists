@@ -1,7 +1,7 @@
 ## Validation Report - SERVITIUM (licentia_black/licentia_servitium)
 
 
-### Invalid (55)
+### Invalid (56)
 *  [548469150_SkyrimVixens-LegacyoftheDragonbornPaintingReplacerV1.1.7z](https://www.loverslab.com/files/file/27064-skyrim-vixens-legacy-of-the-dragonborn-painting-replacer-v11/?do=download)
 *  [Acheron - Simple Assault-0.9.0.zip](https://www.loverslab.com/files/file/26640-simple-outcomes-for-acheron/?do=download&r=1708233&confirm=1)
 *  [Acheron - Simple Rescue-0.7.0.zip](https://www.loverslab.com/files/file/26640-simple-outcomes-for-acheron/?do=download&r=1708234&confirm=1)
@@ -45,6 +45,7 @@
 *  [SexLab Solutions v3 - Revisited SE v1.1.5.7z](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/?do=download&r=799506&confirm=1)
 *  [SexLab Utility Plus v20231230.7z](https://www.loverslab.com/files/file/10316-osmelmc-mod-tweaks/?do=download&r=1821300&confirm=1)
 *  [SexLab-Separate-Orgasm 2023-01-16.7z](https://www.loverslab.com/files/file/5929-sexlab-separate-orgasm-se/?do=download&r=1489053&confirm=1)
+*  [SexLabFrameworkAE_v166b.7z](https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framework-v166b-01182024/?do=download&r=1837484&confirm=1)
 *  [Sexy Adventures v0.6.6 SE.zip](https://www.loverslab.com/files/file/29071-sexy-adventures/?do=download&r=1921694&confirm=1&t=1&csrfKey=400efd158be7203f9eda4e4e664d299d)
 *  [Simple Slavery Plus Plus 6.3.21 [SE].zip](https://www.loverslab.com/files/file/13531-simple-slavery-plus-plus/?do=download&r=1804995&confirm=1)
 *  [SLAL v1.6 SE.7z](https://www.loverslab.com/files/file/23737-sexlab-animation-loader/?do=download)
@@ -59,7 +60,7 @@
 *  [YouDontNeedABreak.7z](https://www.loverslab.com/files/file/20155-you-dont-need-a-break-fix-an-eager-npcs-annoyance/?do=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1589)
+### Valid (1588)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
 *  [(3) SBP  - CBBE Adjustments-22811-1-1CBBE-1583706479.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=127862)
@@ -1311,7 +1312,6 @@
 *  [Servitium BodySlide Output - Devious-68983-4-0nd-1708667921.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68983/?tab=files&file_id=473684)
 *  [SERVITIUM xLODGen Output 4.14-68983-4-14-1713398026.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68983/?tab=files&file_id=491986)
 *  [SERVITUM TexGen Output 4.14-68983-4-14-1713398102.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68983/?tab=files&file_id=491987)
-*  [SexLabFrameworkAE_v166b.7z](https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framework-v166b-01182024/?do=download&r=1837484&confirm=1)
 *  [Shadow Boost-73133-1-3-0-1674058869.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73133/?tab=files&file_id=350765)
 *  [Shadows Of Sunlight - In Small Exterior World Spaces-41368-0-5-1628816291.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41368/?tab=files&file_id=220750)
 *  [Sheps Tattoo Collection SE-22636-2-0-1547659218.rar](https://www.nexusmods.com/skyrimspecialedition/mods/22636/?tab=files&file_id=78523)
