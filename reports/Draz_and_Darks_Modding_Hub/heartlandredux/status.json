@@ -1,159 +1,61 @@
 {
   "MachineURL": "Draz_and_Darks_Modding_Hub/heartlandredux",
   "Name": "Heartland Redux",
-  "Version": "1.2",
-  "ModListHash": "GrP+zngAjA8=",
+  "Version": "1.2.1",
+  "ModListHash": "kTa7Kmu2k14=",
   "Archives": [
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PfX6zen7m2M=",
-        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z",
-        "Name": "Mod.Organizer-2.4.2.7z",
-        "Size": 89503525,
+        "Hash": "pIrIjXoSWLE=",
+        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.1rc2/Mod.Organizer-2.5.1rc2.7z",
+        "Name": "Mod.Organizer-2.5.1rc2.7z",
+        "Size": 138543956,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.2/Mod.Organizer-2.4.2.7z"
+          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.1rc2/Mod.Organizer-2.5.1rc2.7z"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "2M17PpwlCq0=",
-        "Meta": "[General]\ndirectURL=https://github.com/llde/xOBSE/releases/download/22.10beta/xOBSE-22.10beta.zip",
-        "Name": "xOBSE-22.10beta.zip",
-        "Size": 5339700,
-        "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/llde/xOBSE/releases/download/22.10beta/xOBSE-22.10beta.zip"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "KBgXNax1ye4=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=46789\nfileID=1000029679",
-        "Name": "Alluring Wine Bottles with Real Glass-46789-1-0-1638316724.7z",
-        "Size": 881516,
+        "Hash": "9ua7btaa9d0=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=19628\nfileID=1000033694",
+        "Name": "AWLS Animated Window Lighting System-19628-5-6-2-1675880630.7z",
+        "Size": 182222791,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "jbvw and maczopikczo and Dispensation",
-          "Description": "A little visual treat for your booze cruise.",
-          "FileID": 1000029679,
+          "Author": "XMarksTheSpot-Brumbek-Ismelda",
+          "Description": "A replacement of Texian\u0027s Window Lighting System now with animated meshes with a tool to animate your own building windows. It also comes now with Chimney Smoke.",
+          "FileID": 1000033694,
           "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/46789-0-1457047385.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/19628-1-1234862814.jpg",
           "IsNSFW": false,
-          "ModID": 46789,
-          "Name": "Alluring Wine Bottles with Real Glass",
-          "Version": "1.0"
+          "ModID": 19628,
+          "Name": "Animated Window Lighting System and Chimneys - AWLS",
+          "Version": "5.6.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "mzDoggO2s9c=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=53031\nfileID=1000034902",
-        "Name": "VGR Reasonable Clothes - Tweaks and Fixes-53031-1-0-1685893943.7z",
-        "Size": 25400269,
+        "Hash": "jF3oz40ZKHg=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49483\nfileID=1000028477",
+        "Name": "Distinct Ayleid Boss Chests - Loose Files and Plugin-49483-1-2-1627058318.7z",
+        "Size": 727053,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Lazaro and various mod authors",
-          "Description": "A collection of fixes made by Lazaro\uFEFF for various mods. Lazaro has given me permission to publish these files.",
-          "FileID": 1000034902,
+          "Author": "Mixxa77",
+          "Description": "Gives a unique look to the ayleid boss level loot chests, so that they are easier to distinguish.",
+          "FileID": 1000028477,
           "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/53031/53031-1685892582-501113870.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49483/49483-1561894546-597239983.jpeg",
           "IsNSFW": false,
-          "ModID": 53031,
-          "Name": "Collection of Fixes by Lazaro",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PGmd1GU477M=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=50033\nfileID=1000033735",
-        "Name": "Book Jackets Oblivion High Res BAIN - Cleaned and Bash Tags-50033-1-3-1676245502.7z",
-        "Size": 98002325,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Phoenix Amon",
-          "Description": "Book Jackets Oblivion High Res repackaged to be in a BAIN-friendly archive.",
-          "FileID": 1000033735,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50033/50033-1586679783-1716208096.jpeg",
-          "IsNSFW": false,
-          "ModID": 50033,
-          "Name": "Book Jackets Oblivion High Res BAIN",
-          "Version": "1.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "uaF82lsQJb0=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=35593\nfileID=70882",
-        "Name": "Falling Stars-35593-1.7z",
-        "Size": 6560,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Phitt",
-          "Description": "A tiny mod that adds falling stars to the game. They appear randomly at night when the sky is clear, the amount can be adjusted via console.",
-          "FileID": 70882,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/35593-1-1289339129.jpg",
-          "IsNSFW": false,
-          "ModID": 35593,
-          "Name": "Falling Stars",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "/39p0v1JlI4=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=51084\nfileID=1000030679",
-        "Name": "Anvil Grass Fixed Both Versions-51084-1-5-1648292568.rar",
-        "Size": 857,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ferretmyster  monkeyangie laulajatar Brother123",
-          "Description": "Make Grass Overhaul Compatible with all other mods and much Fps friendly.",
-          "FileID": 1000030679,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51084/51084-1621613953-939944811.jpeg",
-          "IsNSFW": false,
-          "ModID": 51084,
-          "Name": "Grass Overhaul Universal",
-          "Version": "1.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "OVlzzS1iovI=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=51815\nfileID=1000032348",
-        "Name": "Improved Chests-51815-1-13-1663765622.zip",
-        "Size": 31166797,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Palrom",
-          "Description": "Finally someone made a mod, what replaces vanilla chests with more detailed ones! Mod also adds several models and sounds of chests for variety. Enjoy!",
-          "FileID": 1000032348,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51815/51815-1646405045-73953734.png",
-          "IsNSFW": false,
-          "ModID": 51815,
-          "Name": "Improved Chests",
+          "ModID": 49483,
+          "Name": "Distinct Ayleid Boss Chests",
           "Version": "1.2"
         }
       }
@@ -161,20 +63,41 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "M1an40DTRsU=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=51453\nfileID=1000029267",
-        "Name": "Kurdan\u0027s Boat Improved-51453-1-0-1633371671.7z",
-        "Size": 126641,
+        "Hash": "+bGGsfT3LOE=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49898\nfileID=1000033858",
+        "Name": "High Quality Snowflakes by Xelus-49898-1-0-1677675562.7z",
+        "Size": 1188490,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Dispensation",
-          "Description": "Mesh replacer for Kurdan\u0027s Boat in Bravil. Can be merged into the bashed patch.",
-          "FileID": 1000029267,
+          "Description": "This is a list of mods for Oblivion to get you started as well as how to mod the game. Intended for the new player modding for the first time and also those seeking mods to use.",
+          "FileID": 1000033858,
           "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51453/51453-1633371383-2060136974.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49898/49898-1582178433-798804025.jpeg",
           "IsNSFW": false,
-          "ModID": 51453,
-          "Name": "Kurdan\u0027s Boat Improved",
+          "ModID": 49898,
+          "Name": "Oblivion Comprehensive Modding Guide by Dispensation (OCMG)",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "H1MW/Vpgoxw=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49616\nfileID=1000022895",
+        "Name": "Let there be Flowers-49616-1-0-1567346470.7z",
+        "Size": 116244,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Laulajatar",
+          "Description": "This mod adds some flowers to a few ground textures.",
+          "FileID": 1000022895,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49616/49616-1567344743-385176013.png",
+          "IsNSFW": false,
+          "ModID": 49616,
+          "Name": "Let there be Flowers",
           "Version": "1.0"
         }
       }
@@ -182,20 +105,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "beOfl1Nyn/Y=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=53031\nfileID=1000034899",
-        "Name": "Mesh Improvement Project - Tweaks and Fixes-53031-1-0-1685893758.7z",
-        "Size": 383082,
+        "Hash": "pU99hLI77dc=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=53559\nfileID=1000036801",
+        "Name": "Oblivion Decompressed Records Plugin-53559-1-0-1699330103.7z",
+        "Size": 91254000,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Lazaro and various mod authors",
-          "Description": "A collection of fixes made by Lazaro\uFEFF for various mods. Lazaro has given me permission to publish these files.",
-          "FileID": 1000034899,
+          "Author": "DEEJMASTER 333 and JohnathanOstrus",
+          "Description": "Decompresses records in plugins to greatly improve performance.",
+          "FileID": 1000036801,
           "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/53031/53031-1685892582-501113870.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/53559/53559-1698957942-400795057.png",
           "IsNSFW": false,
-          "ModID": 53031,
-          "Name": "Collection of Fixes by Lazaro",
+          "ModID": 53559,
+          "Name": "Oblivion Decompressed Records",
           "Version": "1.0"
         }
       }
@@ -212,27 +135,6 @@
           "Author": "Kartoffels",
           "Description": "Oblivion Upscaled Textures series by Kartoffels packed into uncompressed BSAs for improved performance and faster loading times. This mod will take up one plugin slot to load all of the thirteen BSAs.",
           "FileID": 1000034695,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52977/52977-1684314895-2118510942.png",
-          "IsNSFW": false,
-          "ModID": 52977,
-          "Name": "Oblivion Upscaled Textures BSA",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "nsEVtoh4kYg=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=52977\nfileID=1000035522",
-        "Name": "Bomret\u0027s Texture Pack for Shivering Isles BSA-52977-1-0-1690451920.7z",
-        "Size": 749866074,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kartoffels",
-          "Description": "Oblivion Upscaled Textures series by Kartoffels packed into uncompressed BSAs for improved performance and faster loading times. This mod will take up one plugin slot to load all of the thirteen BSAs.",
-          "FileID": 1000035522,
           "GameName": "Oblivion",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52977/52977-1684314895-2118510942.png",
           "IsNSFW": false,
@@ -266,21 +168,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "FYrjlLq8JEc=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=11536\nfileID=1000021751",
-        "Name": "TES4Edit 4_0_2-11536-4-0-2-1555040710.7z",
-        "Size": 27261149,
+        "Hash": "iOILTyBqhrE=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=5296\nfileID=1000037331",
+        "Name": "Unofficial Oblivion Patch-5296-3-5-8-1704317485.7z",
+        "Size": 157668949,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ElminsterAU and the xEdit Team",
-          "Description": "TES4Edit is the Oblivion version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.",
-          "FileID": 1000021751,
+          "Author": "The Unofficial Patch Project Team",
+          "Description": "An Oblivion mod that fixes over 2,500 bugs (and 70,000 object placement errors.)",
+          "FileID": 1000037331,
           "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/11536/11536-1544500267-132884762.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/5296-1-1212820183.jpg",
           "IsNSFW": false,
-          "ModID": 11536,
-          "Name": "TES4Edit",
-          "Version": "4.1.5"
+          "ModID": 5296,
+          "Name": "Unofficial Oblivion Patch - UOP",
+          "Version": "3.5.7"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qggM8ApQT4c=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=38438\nfileID=87653",
+        "Name": "Staffs version 1_1-38438-1-1.7z",
+        "Size": 7406220,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "qwerty",
+          "Description": "Higher resolution staff texture replacer.",
+          "FileID": 87653,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/38438-1-1305306319.jpg",
+          "IsNSFW": false,
+          "ModID": 38438,
+          "Name": "Visually Improved Staffs",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ih5YL5WPVgM=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49652\nfileID=1000023042",
+        "Name": "Oblivion BSA Decompressor-49652-1-0-1570025005.7z",
+        "Size": 1240839,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "zilav",
+          "Description": "Decompresses Oblivion BSA files to reduce loading times and stuttering.",
+          "FileID": 1000023042,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49652/49652-1680160736-1704445281.png",
+          "IsNSFW": false,
+          "ModID": 49652,
+          "Name": "Oblivion BSA Decompressor",
+          "Version": "1.1"
         }
       }
     },
@@ -308,6 +252,48 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "PGmd1GU477M=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50033\nfileID=1000033735",
+        "Name": "Book Jackets Oblivion High Res BAIN - Cleaned and Bash Tags-50033-1-3-1676245502.7z",
+        "Size": 98002325,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Phoenix Amon",
+          "Description": "Book Jackets Oblivion High Res repackaged to be in a BAIN-friendly archive.",
+          "FileID": 1000033735,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50033/50033-1586679783-1716208096.jpeg",
+          "IsNSFW": false,
+          "ModID": 50033,
+          "Name": "Book Jackets Oblivion High Res BAIN",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WNtWKgUJcT0=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=42400\nfileID=1000017229",
+        "Name": "Grass Overhaul v61-42400-v6-1.zip",
+        "Size": 410573293,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ferretmyster",
+          "Description": "Mod overhauls the grass in oblivion.",
+          "FileID": 1000017229,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/42400-1-1496128359.jpg",
+          "IsNSFW": false,
+          "ModID": 42400,
+          "Name": "Oblivion Grass Overhaul",
+          "Version": "v6.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Y40F8QUtmgw=",
         "Meta": "[General]\ngameName=oblivion\nmodID=51927\nfileID=1000037720",
         "Name": "ORC194-51927-1-9-4-1707749405.7z",
@@ -323,6 +309,27 @@
           "ModID": 51927,
           "Name": "Oblivion Reloaded Combined(ORC)",
           "Version": "1.9.2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PKohDLZp9Nk=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45859\nfileID=1000027820",
+        "Name": "SR- OCOv2 44676-45859-1-5a-1621134647.7z",
+        "Size": 112244755,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "junkacc11",
+          "Description": "Seamless Replacers for OCOv2\u0027s Heads and Textures.",
+          "FileID": 1000027820,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45859/45859-1620953582-927093649.jpeg",
+          "IsNSFW": false,
+          "ModID": 45859,
+          "Name": "Seamless - OCOv2",
+          "Version": "1.5a"
         }
       }
     },
@@ -371,48 +378,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "iOILTyBqhrE=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=5296\nfileID=1000037331",
-        "Name": "Unofficial Oblivion Patch-5296-3-5-8-1704317485.7z",
-        "Size": 157668949,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "The Unofficial Patch Project Team",
-          "Description": "An Oblivion mod that fixes over 2,500 bugs (and 70,000 object placement errors.)",
-          "FileID": 1000037331,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/5296-1-1212820183.jpg",
-          "IsNSFW": false,
-          "ModID": 5296,
-          "Name": "Unofficial Oblivion Patch - UOP",
-          "Version": "3.5.7"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PbWyr4Mzi+0=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=22368\nfileID=1000028064",
-        "Name": "Wrye Bash 309.1 - Standalone Executable-22368-309-1-1623232823.7z",
-        "Size": 24895612,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Wrye Bash Team",
-          "Description": "Wrye Bash is a multipurpose mod management and mod installation utility.",
-          "FileID": 1000028064,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/22368-0-1483362752.png",
-          "IsNSFW": false,
-          "ModID": 22368,
-          "Name": "Wrye Bash",
-          "Version": "311"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "ep5i/XrlAVM=",
         "Meta": "[General]\ngameName=oblivion\nmodID=49933\nfileID=1000033646",
         "Name": "2020 Retexture Project - Grasses-49933-2-0-1675623257.7z",
@@ -455,6 +420,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "KBgXNax1ye4=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=46789\nfileID=1000029679",
+        "Name": "Alluring Wine Bottles with Real Glass-46789-1-0-1638316724.7z",
+        "Size": 881516,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "jbvw and maczopikczo and Dispensation",
+          "Description": "A little visual treat for your booze cruise.",
+          "FileID": 1000029679,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/46789-0-1457047385.jpg",
+          "IsNSFW": false,
+          "ModID": 46789,
+          "Name": "Alluring Wine Bottles with Real Glass",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "61b3D8YUhGw=",
         "Meta": "[General]\ngameName=oblivion\nmodID=49277\nfileID=1000033832",
         "Name": "Artifacts Redone-49277-1-4-1677568539.7z",
@@ -470,6 +456,27 @@
           "ModID": 49277,
           "Name": "Artifacts Redone",
           "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HGpDdtfWYbA=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=44677\nfileID=1000021298",
+        "Name": "Bruma Retexture 1.5 - 2K-44677-1-5-1549564314.rar",
+        "Size": 166966551,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Lougian",
+          "Description": "",
+          "FileID": 1000021298,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/44677/44677-1549565431-389510150.jpeg",
+          "IsNSFW": false,
+          "ModID": 44677,
+          "Name": "Bruma retexture",
+          "Version": "1.5"
         }
       }
     },
@@ -497,42 +504,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "LXwd+dO4v7Y=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=51704\nfileID=1000030083",
-        "Name": "Cutlass Retexture 1.1 hotfix-51704-1-1-1642760611.7z",
-        "Size": 1083889,
+        "Hash": "imckN74gOxo=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52542\nfileID=1000033070",
+        "Name": "Chillrend Replacer-52542-1-1670519157.rar",
+        "Size": 1024556,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "npatall",
-          "Description": "Cutlass retexture using Kartoffels\u0027 upscaled textures",
-          "FileID": 1000030083,
+          "Author": "CKF",
+          "Description": "Replaces Chillrend",
+          "FileID": 1000033070,
           "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51704/51704-1642760693-1960504323.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52542/52542-1670519002-560354187.png",
           "IsNSFW": false,
-          "ModID": 51704,
-          "Name": "Cutlass Retexture",
-          "Version": "1.1"
+          "ModID": 52542,
+          "Name": "Chillrend Replacer",
+          "Version": "1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "OiKy288LYl4=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=45520\nfileID=1000007926",
-        "Name": "DOWNPOUR-45520-02.7z",
-        "Size": 62912,
+        "Hash": "aTdkl6e/+a4=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52992\nfileID=1000034729",
+        "Name": "Dawnfang and Duskfang replacers-52992-1-1684623546.zip",
+        "Size": 3335507,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "textures - Gamwich mesh - maczopikczo",
-          "Description": "Now rain in Cyrodiil is pronounced and heavy at hardly any performance cost.",
-          "FileID": 1000007926,
+          "Author": "CKF",
+          "Description": "Replaces Dawnfang and Duskfang",
+          "FileID": 1000034729,
           "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45520-1-1410184094.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52992/52992-1684623337-1856400395.png",
           "IsNSFW": false,
-          "ModID": 45520,
-          "Name": "DOWNPOUR - rain retexture",
-          "Version": "02"
+          "ModID": 52992,
+          "Name": "Dawnfang and Duskfang Replacers",
+          "Version": "1"
         }
       }
     },
@@ -749,36 +756,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "e8ZoEFpWNHk=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=11891\nfileID=88426",
-        "Name": "ITFBark2012-11891-1.7z",
-        "Size": 18488175,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Mikal33",
-          "Description": " This is a retexture of several trees,flowers,plants and fungus with 1024x1024,1024x512 \u0026 512x512 new textures.This set also includes reworked textures from the first pack and two reworked flora textures from the improved doors and flora pack.This is the next set of textures in the Trees \u0026 Flora  series.You still need the original [url=http://www.t",
-          "FileID": 88426,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/11891-1-1326717983.jpg",
-          "IsNSFW": false,
-          "ModID": 11891,
-          "Name": "Improved Trees and Flora 2",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+8cGCQwsI4g=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=46962\nfileID=1000013935",
-        "Name": "Kaizits Animated ingredients v 1.1 fix-46962-.rar",
-        "Size": 41816,
+        "Hash": "a/OOfe30UfI=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=46962\nfileID=1000013832",
+        "Name": "Kaizits Animated Ingredients-46962-1-0.zip",
+        "Size": 10843980,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Kaizit",
           "Description": "Replaces the vanilla ingredients with new animated meshes and new textures",
-          "FileID": 1000013935,
+          "FileID": 1000013832,
           "GameName": "Oblivion",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/46962-0-1463764789.jpg",
           "IsNSFW": false,
@@ -833,42 +819,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "2QVl60Neqts=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=50348\nfileID=1000025586",
-        "Name": "Oblivion Display Tweaks-50348-1-3-1597794116.zip",
-        "Size": 76168,
+        "Hash": "NR2at8Y1Qgk=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45018\nfileID=1000006482",
+        "Name": "Nirnroot retexture-45018-1-0.rar",
+        "Size": 8602559,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ersh",
-          "Description": "Micro stutter tick fix, high framerate fix, true FOV fix, alt-tab freeze fix in fullscreen and G-Sync/FreeSync working in borderless/windowed mode.",
-          "FileID": 1000025586,
+          "Author": "Lougian",
+          "Description": "New textures in HD",
+          "FileID": 1000006482,
           "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50348/50348-1597384220-354790620.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45018-1-1396019194.jpg",
           "IsNSFW": false,
-          "ModID": 50348,
-          "Name": "Oblivion Display Tweaks",
-          "Version": "1.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "WNtWKgUJcT0=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=42400\nfileID=1000017229",
-        "Name": "Grass Overhaul v61-42400-v6-1.zip",
-        "Size": 410573293,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ferretmyster",
-          "Description": "Mod overhauls the grass in oblivion.",
-          "FileID": 1000017229,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/42400-1-1496128359.jpg",
-          "IsNSFW": false,
-          "ModID": 42400,
-          "Name": "Oblivion Grass Overhaul",
-          "Version": "v6.1"
+          "ModID": 45018,
+          "Name": "Nirnroot retexture",
+          "Version": "1.0"
         }
       }
     },
@@ -959,27 +924,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "gogckhg6urg=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=53617\nfileID=1000037087",
-        "Name": "Reb\u0027s Average Misc Tents Replacer 1k-53617-v1-1701598657.7z",
-        "Size": 2699440,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Reb",
-          "Description": "1k textures (because Oblivion is old and doesn\u0027t need higher than that to look alright) and some meshes for various Oblivion items and clothing that I don\u0027t feel need their own mod pages at this time. (A work in progress more will be added)",
-          "FileID": 1000037087,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/53617/53617-1701422025-242634670.png",
-          "IsNSFW": false,
-          "ModID": 53617,
-          "Name": "Reb\u0027s Average Misc Junkyard",
-          "Version": "v1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "YDRDLqepS5E=",
         "Meta": "[General]\ngameName=oblivion\nmodID=48576\nfileID=1000019627",
         "Name": "Retextured Inn Signs-48576-1-0.7z",
@@ -994,27 +938,6 @@
           "IsNSFW": false,
           "ModID": 48576,
           "Name": "Retextured Inn Signs",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Wr6q8DCzZ4I=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=53065\nfileID=1000035029",
-        "Name": "Tamrielic Tapestries-53065-1-0-1686953109.7z",
-        "Size": 119932693,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SpringHeelJon",
-          "Description": "Light vanilla based visual upgrade for all base game tapestries.",
-          "FileID": 1000035029,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/53065/53065-1686952968-1025382344.jpeg",
-          "IsNSFW": false,
-          "ModID": 53065,
-          "Name": "Tamrielic Tapestries- Retexture",
           "Version": "1.0"
         }
       }
@@ -1037,27 +960,6 @@
           "ModID": 10739,
           "Name": "Unofficial Shivering Isles Patch - USIP",
           "Version": "1.6.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3yE8FHuw7jg=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=45241\nfileID=1000023948",
-        "Name": "Vanilla Gear Redux - Reasonable Flavor (Final)-45241-1-0-1581732494.rar",
-        "Size": 208654996,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Myst",
-          "Description": "Replacer mod for vanilla gear in Oblivion. For Male and Female",
-          "FileID": 1000023948,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45241-0-1490202582.jpg",
-          "IsNSFW": true,
-          "ModID": 45241,
-          "Name": "Vanilla Gear Redux",
-          "Version": "1.0"
         }
       }
     },
@@ -1190,27 +1092,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "9ua7btaa9d0=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=19628\nfileID=1000033694",
-        "Name": "AWLS Animated Window Lighting System-19628-5-6-2-1675880630.7z",
-        "Size": 182222791,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "XMarksTheSpot-Brumbek-Ismelda",
-          "Description": "A replacement of Texian\u0027s Window Lighting System now with animated meshes with a tool to animate your own building windows. It also comes now with Chimney Smoke.",
-          "FileID": 1000033694,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/19628-1-1234862814.jpg",
-          "IsNSFW": false,
-          "ModID": 19628,
-          "Name": "Animated Window Lighting System and Chimneys - AWLS",
-          "Version": "5.6.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "3b/0LPzf/Ic=",
         "Meta": "[General]\ngameName=oblivion\nmodID=38778\nfileID=1000011026",
         "Name": "Anvil Exterior Retex-38778-2-0.7z",
@@ -1253,41 +1134,41 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yesXyL8AbAU=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=43297\nfileID=1000000569",
-        "Name": "Spider Daedra Replacer-43297-1-2.rar",
-        "Size": 958963,
+        "Hash": "3yE8FHuw7jg=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45241\nfileID=1000023948",
+        "Name": "Vanilla Gear Redux - Reasonable Flavor (Final)-45241-1-0-1581732494.rar",
+        "Size": 208654996,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "El Alquimista",
-          "Description": "Another replacer for vanilla Spider Daedra",
-          "FileID": 1000000569,
+          "Author": "Myst",
+          "Description": "Replacer mod for vanilla gear in Oblivion. For Male and Female",
+          "FileID": 1000023948,
           "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/43297-3-1360525834.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45241-0-1490202582.jpg",
           "IsNSFW": true,
-          "ModID": 43297,
-          "Name": "Beautiful Creatures - Spider Daedra",
-          "Version": "1.2"
+          "ModID": 45241,
+          "Name": "Vanilla Gear Redux",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6S1eyxqlwIg=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=47522\nfileID=1000015937",
-        "Name": "better teeth vanilla npc version-47522-1-0.zip",
-        "Size": 95368,
+        "Hash": "/vCsGehTBpY=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=46801\nfileID=1000013169",
+        "Name": "Oblivion Chapel Altar Replacer-46801-1-0.zip",
+        "Size": 519275,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "xrayy",
-          "Description": "balanced realistic teeth replacer for vanilla races and custom races using the merged nif replacer. optimized normal map included",
-          "FileID": 1000015937,
+          "Author": "Superandultra",
+          "Description": "A simple texture replacer for the chapel altars.",
+          "FileID": 1000013169,
           "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/47522-0-1484356268.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/46801-0-1457586388.png",
           "IsNSFW": false,
-          "ModID": 47522,
-          "Name": "better teeth",
+          "ModID": 46801,
+          "Name": "Better Chapel Altars -Now with richer Normal Map-",
           "Version": "1.0"
         }
       }
@@ -1379,27 +1260,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HGpDdtfWYbA=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=44677\nfileID=1000021298",
-        "Name": "Bruma Retexture 1.5 - 2K-44677-1-5-1549564314.rar",
-        "Size": 166966551,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Lougian",
-          "Description": "",
-          "FileID": 1000021298,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/44677/44677-1549565431-389510150.jpeg",
-          "IsNSFW": false,
-          "ModID": 44677,
-          "Name": "Bruma retexture",
-          "Version": "1.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "QiNfExxpvqM=",
         "Meta": "[General]\ngameName=oblivion\nmodID=44001\nfileID=1000002943",
         "Name": "Cathedral HD-44001-1-0.7z",
@@ -1484,42 +1344,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "3gVHqqdxzUU=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=27945\nfileID=50991",
-        "Name": "Skeletons-27945.7z",
-        "Size": 17391,
+        "Hash": "LrxUmw3NRXE=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52559\nfileID=1000033116",
+        "Name": "Daedric Longsword Replacer-52559-1-1670962958.rar",
+        "Size": 63583,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "coronerra",
-          "Description": "Better Animation Skeleton with ALL the bones in every custom skeleton for Oblivion. Better Bouncing Boobs for HGEC. Better lower body for Demons with textures. What more can a person want?",
-          "FileID": 50991,
+          "Author": "CKF",
+          "Description": "Replaces the daedric longsword",
+          "FileID": 1000033116,
           "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/27945-5-1256969182.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52559/52559-1670962827-372735319.png",
           "IsNSFW": false,
-          "ModID": 27945,
-          "Name": "Coronerras Maximum Compatibility Skeletons",
+          "ModID": 52559,
+          "Name": "Daedric Longsword Replacer",
           "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "zqq+FfUnZbM=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=14634\nfileID=18720",
-        "Name": "Dalls_Horse_Armor-14634.7z",
-        "Size": 4985235,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DALL",
-          "Description": "Royal Ayleid and Iron Horse are new Textures for Bethesda Horse Armor plug-in. Note prior to download that this are textures only and not whole Horse Armor Plug-in! Official Horse Armor plug-in is necessary! \r\n",
-          "FileID": 18720,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/14634-4-1199663460.jpg",
-          "IsNSFW": false,
-          "ModID": 14634,
-          "Name": "Dalls_Horse_Armor",
-          "Version": "v1.0"
         }
       }
     },
@@ -1568,27 +1407,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HTVX0jaMoP8=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=46264\nfileID=1000010882",
-        "Name": "Double Sided Cobwebs-46264-1-0.7z",
-        "Size": 1029051,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "sefmonsta",
-          "Description": "Makes all cobwebs visible from both sides.",
-          "FileID": 1000010882,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/46264-2-1435612765.jpg",
-          "IsNSFW": false,
-          "ModID": 46264,
-          "Name": "Double Sided Cobwebs",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "JR+00VeH5MU=",
         "Meta": "[General]\ngameName=oblivion\nmodID=47355\nfileID=1000015403",
         "Name": "Farm Fence-47355-01.7z",
@@ -1604,6 +1422,27 @@
           "ModID": 47355,
           "Name": "Farm fence retexture and UV maps",
           "Version": "01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DneTYHrCExM=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45996\nfileID=1000009808",
+        "Name": "Gecko\u0027s Fort Interior Textures (2K Version)-45996-1.zip",
+        "Size": 190029868,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lazygecko",
+          "Description": "2K high res overhaul of Imperial fort interiors.",
+          "FileID": 1000009808,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45996-1-1426805398.jpg",
+          "IsNSFW": false,
+          "ModID": 45996,
+          "Name": "Gecko\u0027s Fort Interior Textures",
+          "Version": "1"
         }
       }
     },
@@ -1667,27 +1506,6 @@
           "ModID": 53041,
           "Name": "Give Me Some Skingrad - Retexture",
           "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "5RWHnnqd+ls=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=51113\nfileID=1000028019",
-        "Name": "Ho_Clavicusvile Mask Remodel Replacer-51113-V1-0-1622979550.7z",
-        "Size": 4037915,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "GriLka",
-          "Description": "Clavicusvile Mask remodel replacer.\n\nand Clavicusvile Helmet.dds 2048 \u00D7 2048 version.",
-          "FileID": 1000028019,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51113/51113-1622979134-705645660.jpeg",
-          "IsNSFW": false,
-          "ModID": 51113,
-          "Name": "Half-off Clavicusvile Mask remodel replacer",
-          "Version": "V1.0"
         }
       }
     },
@@ -1778,6 +1596,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "OVlzzS1iovI=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=51815\nfileID=1000032348",
+        "Name": "Improved Chests-51815-1-13-1663765622.zip",
+        "Size": 31166797,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Palrom",
+          "Description": "Finally someone made a mod, what replaces vanilla chests with more detailed ones! Mod also adds several models and sounds of chests for variety. Enjoy!",
+          "FileID": 1000032348,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51815/51815-1646405045-73953734.png",
+          "IsNSFW": false,
+          "ModID": 51815,
+          "Name": "Improved Chests",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "EaJU+xSEcjo=",
         "Meta": "[General]\ngameName=oblivion\nmodID=9500\nfileID=7843",
         "Name": "Improved Chorrol-9500.7z",
@@ -1841,20 +1680,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5Xm9sfUGA/w=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=49520\nfileID=1000022613",
-        "Name": "Improved Frost Atronachs-49520-1-1-1563149803.7z",
-        "Size": 3841266,
+        "Hash": "T0p9Plc2zJE=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45356\nfileID=1000007445",
+        "Name": "Improved Flame Atronachs-45356-1-1.7z",
+        "Size": 4272192,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "sefmonsta",
-          "Description": "Updated hi-res textures and altered mesh for a colder icy look.",
-          "FileID": 1000022613,
+          "Description": "Improved Flame Atronachs is a simple replacer mod that aims to improve on the vanilla Atronachs with new hi-res textures and a few mesh tweaks.",
+          "FileID": 1000007445,
           "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49520/49520-1563149056-429482337.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45356-1-1406419559.jpg",
           "IsNSFW": false,
-          "ModID": 49520,
-          "Name": "Improved Frost Atronachs",
+          "ModID": 45356,
+          "Name": "Improved Flame Atronachs",
           "Version": "1.1"
         }
       }
@@ -1862,21 +1701,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "CoE3pNq4fEU=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=36075\nfileID=72380",
-        "Name": "Improved Skulls and Bones and ironwork-36075-1-1.7z",
-        "Size": 6419229,
+        "Hash": "4SrYsq1W/sk=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45536\nfileID=1000007936",
+        "Name": "Improved Storm Atronachs-45536-1-0.7z",
+        "Size": 9277544,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "hlvr",
-          "Description": "This mod retextures the skulls, bones, and ironwork of Oblivion. If you wonder what I mean with ironwork, the images here on TESNexus will explain better.\r\nSince version 1.1, a new texture is also added, focusing on the prison cell doors in Cyrodiil.",
-          "FileID": 72380,
+          "Author": "sefmonsta",
+          "Description": "A high resolution total re-work of the vanilla storm atronachs with added variable glow.",
+          "FileID": 1000007936,
           "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/36075-2-1292601423.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45536-1-1410636396.jpg",
           "IsNSFW": false,
-          "ModID": 36075,
-          "Name": "Improved Skulls and Bones and Ironwork",
-          "Version": "1.1"
+          "ModID": 45536,
+          "Name": "Improved Storm Atronachs",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "e8ZoEFpWNHk=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=11891\nfileID=88426",
+        "Name": "ITFBark2012-11891-1.7z",
+        "Size": 18488175,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Mikal33",
+          "Description": " This is a retexture of several trees,flowers,plants and fungus with 1024x1024,1024x512 \u0026 512x512 new textures.This set also includes reworked textures from the first pack and two reworked flora textures from the improved doors and flora pack.This is the next set of textures in the Trees \u0026 Flora  series.You still need the original [url=http://www.t",
+          "FileID": 88426,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/11891-1-1326717983.jpg",
+          "IsNSFW": false,
+          "ModID": 11891,
+          "Name": "Improved Trees and Flora 2",
+          "Version": "1.2"
         }
       }
     },
@@ -1898,48 +1758,6 @@
           "ModID": 46992,
           "Name": "Kaizits Animated Daedric Ingredients",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vbM1SKeAhQY=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=46992\nfileID=1000013998",
-        "Name": "Kaizits Animated Daedric Ingredients fix-46992-.rar",
-        "Size": 4195843,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kaizit",
-          "Description": "Replaces the vanilla Daedric ingredients with new animated meshes and new textures\r\n\n",
-          "FileID": 1000013998,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/46992-1-1464813350.jpg",
-          "IsNSFW": false,
-          "ModID": 46992,
-          "Name": "Kaizits Animated Daedric Ingredients",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "a/OOfe30UfI=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=46962\nfileID=1000013832",
-        "Name": "Kaizits Animated Ingredients-46962-1-0.zip",
-        "Size": 10843980,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kaizit",
-          "Description": "Replaces the vanilla ingredients with new animated meshes and new textures",
-          "FileID": 1000013832,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/46962-0-1463764789.jpg",
-          "IsNSFW": false,
-          "ModID": 46962,
-          "Name": "Kaizits Animated Ingredients",
-          "Version": "1.1"
         }
       }
     },
@@ -1988,6 +1806,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "beOfl1Nyn/Y=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=53031\nfileID=1000034899",
+        "Name": "Mesh Improvement Project - Tweaks and Fixes-53031-1-0-1685893758.7z",
+        "Size": 383082,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Lazaro and various mod authors",
+          "Description": "A collection of fixes made by Lazaro\uFEFF for various mods. Lazaro has given me permission to publish these files.",
+          "FileID": 1000034899,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/53031/53031-1685892582-501113870.jpeg",
+          "IsNSFW": false,
+          "ModID": 53031,
+          "Name": "Collection of Fixes by Lazaro",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "mIeGb3RrHt8=",
         "Meta": "[General]\ngameName=oblivion\nmodID=50923\nfileID=1000027251",
         "Name": "NAO - Natural and Atmospheric Oblivion-50923-1-0-1616065545.zip",
@@ -2024,27 +1863,6 @@
           "ModID": 46995,
           "Name": "New Eyes for OCO v2",
           "Version": "1.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4SVMSq303kU=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=49816\nfileID=1000023643",
-        "Name": "No more crosshair - Replacer-49816-1-0-1578322991.7z",
-        "Size": 152075,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Laulajatar",
-          "Description": "Removes the crosshair from Rythe Lythandas\u0027 painting. Bethesda, plz.",
-          "FileID": 1000023643,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49816/49816-1578321231-1176985997.png",
-          "IsNSFW": false,
-          "ModID": 49816,
-          "Name": "No more crosshair on Rythe\u0027s painting",
-          "Version": "1.0"
         }
       }
     },
@@ -2198,6 +2016,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "oX9Zv6l3XiQ=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=51851\nfileID=1000038376",
+        "Name": "VGR Reasonable patch-51851-3-4-3-1715725008.7z",
+        "Size": 78079013,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1000038376,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 51851,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "4og4NLXK9Pw=",
         "Meta": "[General]\ngameName=oblivion\nmodID=48479\nfileID=1000024909",
         "Name": "Pick Me - BAIN-48479-1-1590962131.7z",
@@ -2213,6 +2052,27 @@
           "ModID": 48479,
           "Name": "Pick Me - lockpicking interface retexture",
           "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gogckhg6urg=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=53617\nfileID=1000037087",
+        "Name": "Reb\u0027s Average Misc Tents Replacer 1k-53617-v1-1701598657.7z",
+        "Size": 2699440,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Reb",
+          "Description": "1k textures (because Oblivion is old and doesn\u0027t need higher than that to look alright) and some meshes for various Oblivion items and clothing that I don\u0027t feel need their own mod pages at this time. (A work in progress more will be added)",
+          "FileID": 1000037087,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/53617/53617-1701422025-242634670.png",
+          "IsNSFW": false,
+          "ModID": 53617,
+          "Name": "Reb\u0027s Average Misc Junkyard",
+          "Version": "v1"
         }
       }
     },
@@ -2345,27 +2205,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "PKohDLZp9Nk=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=45859\nfileID=1000027820",
-        "Name": "SR- OCOv2 44676-45859-1-5a-1621134647.7z",
-        "Size": 112244755,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "junkacc11",
-          "Description": "Seamless Replacers for OCOv2\u0027s Heads and Textures.",
-          "FileID": 1000027820,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45859/45859-1620953582-927093649.jpeg",
-          "IsNSFW": false,
-          "ModID": 45859,
-          "Name": "Seamless - OCOv2",
-          "Version": "1.5a"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "TWoayo5z0aI=",
         "Meta": "[General]\ngameName=oblivion\nmodID=52185\nfileID=1000031820",
         "Name": "Silver Weapons Replacer-52185-1-1658185160.zip",
@@ -2402,6 +2241,27 @@
           "ModID": 48460,
           "Name": "Strand Magic - A Mage Guild Theme",
           "Version": "1.01"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Wr6q8DCzZ4I=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=53065\nfileID=1000035029",
+        "Name": "Tamrielic Tapestries-53065-1-0-1686953109.7z",
+        "Size": 119932693,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SpringHeelJon",
+          "Description": "Light vanilla based visual upgrade for all base game tapestries.",
+          "FileID": 1000035029,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/53065/53065-1686952968-1025382344.jpeg",
+          "IsNSFW": false,
+          "ModID": 53065,
+          "Name": "Tamrielic Tapestries- Retexture",
+          "Version": "1.0"
         }
       }
     },
@@ -2555,27 +2415,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "DneTYHrCExM=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=45996\nfileID=1000009808",
-        "Name": "Gecko\u0027s Fort Interior Textures (2K Version)-45996-1.zip",
-        "Size": 190029868,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lazygecko",
-          "Description": "2K high res overhaul of Imperial fort interiors.",
-          "FileID": 1000009808,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45996-1-1426805398.jpg",
-          "IsNSFW": false,
-          "ModID": 45996,
-          "Name": "Gecko\u0027s Fort Interior Textures",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "NGLULtre5cQ=",
         "Meta": "[General]\ngameName=oblivion\nmodID=16247\nfileID=25065",
         "Name": "Shivering Book Jackets-16247.7z",
@@ -2639,21 +2478,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "a8OhinnOm08=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=53031\nfileID=1000034895",
-        "Name": "Improved Light Beam - Transparency Fix-53031-1-0-1685893504.7z",
-        "Size": 1163,
+        "Hash": "CoE3pNq4fEU=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=36075\nfileID=72380",
+        "Name": "Improved Skulls and Bones and ironwork-36075-1-1.7z",
+        "Size": 6419229,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Lazaro and various mod authors",
-          "Description": "A collection of fixes made by Lazaro\uFEFF for various mods. Lazaro has given me permission to publish these files.",
-          "FileID": 1000034895,
+          "Author": "hlvr",
+          "Description": "This mod retextures the skulls, bones, and ironwork of Oblivion. If you wonder what I mean with ironwork, the images here on TESNexus will explain better.\r\nSince version 1.1, a new texture is also added, focusing on the prison cell doors in Cyrodiil.",
+          "FileID": 72380,
           "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/53031/53031-1685892582-501113870.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/36075-2-1292601423.jpg",
           "IsNSFW": false,
-          "ModID": 53031,
-          "Name": "Collection of Fixes by Lazaro",
-          "Version": "1.0"
+          "ModID": 36075,
+          "Name": "Improved Skulls and Bones and Ironwork",
+          "Version": "1.1"
         }
       }
     },
@@ -2723,6 +2562,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "A8j4tJr4tGg=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=51853\nfileID=1000032727",
+        "Name": "01 Seamless OCOv2  n HGEC Female clothes fixes-51853-1-1-1667323408.rar",
+        "Size": 811722,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "KClydeBlueSnake",
+          "Description": "Fix 4 female shirts arm sleeves that were invisible in first person view \u0026amp; the Sheogorath Regalia dress that had no hands! And 2 BBB fixes.",
+          "FileID": 1000032727,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51853/51853-1648276722-1655720724.jpeg",
+          "IsNSFW": false,
+          "ModID": 51853,
+          "Name": "Hand and arms fixes for clothes from junkacc11 Seamless mods and wtftesnexus\u0027 BBB for EVE Stock",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "E57PsIa4lxc=",
         "Meta": "[General]\ngameName=oblivion\nmodID=53031\nfileID=1000034900",
         "Name": "Shivering Book Jackets - Icons fix-53031-1-0-1685893783.7z",
@@ -2738,27 +2598,6 @@
           "ModID": 53031,
           "Name": "Collection of Fixes by Lazaro",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "aEQpD91nRMo=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=43752\nfileID=1000029844",
-        "Name": "Blockhead-43752-11-1-1640043918.7z",
-        "Size": 172565,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "shadeMe",
-          "Description": "An OBSE plugin that adds support for gender variant head models and textures for NPCs. And allows free camera movement in the race/sex menu. And enables pain-free inventory idle overriding. And per-NPC/Race/scripted body/head texture/model overriding. And animation overriding. And equipment model overriding.",
-          "FileID": 1000029844,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/43752-1-1373226750.jpg",
-          "IsNSFW": false,
-          "ModID": 43752,
-          "Name": "Blockhead",
-          "Version": "11.1"
         }
       }
     },
@@ -2786,195 +2625,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+bGGsfT3LOE=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=49898\nfileID=1000033858",
-        "Name": "High Quality Snowflakes by Xelus-49898-1-0-1677675562.7z",
-        "Size": 1188490,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dispensation",
-          "Description": "This is a list of mods for Oblivion to get you started as well as how to mod the game. Intended for the new player modding for the first time and also those seeking mods to use.",
-          "FileID": 1000033858,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49898/49898-1582178433-798804025.jpeg",
-          "IsNSFW": false,
-          "ModID": 49898,
-          "Name": "Oblivion Comprehensive Modding Guide by Dispensation (OCMG)",
-          "Version": "1.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "pU99hLI77dc=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=53559\nfileID=1000036801",
-        "Name": "Oblivion Decompressed Records Plugin-53559-1-0-1699330103.7z",
-        "Size": 91254000,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DEEJMASTER 333 and JohnathanOstrus",
-          "Description": "Decompresses records in plugins to greatly improve performance.",
-          "FileID": 1000036801,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/53559/53559-1698957942-400795057.png",
-          "IsNSFW": false,
-          "ModID": 53559,
-          "Name": "Oblivion Decompressed Records",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "LUl2rOqYtYc=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=52010\nfileID=1000034843",
-        "Name": "OCOv2 - Advanced Edition (Vanilla Hairstyles)-52010-1-5-1685711141.7z",
-        "Size": 1085808,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "nuska and Dispensation",
-          "Description": "A replacer ESP for Oblivion Character Overhaul version 2, cleaned of all dirty and wild edits as well as stats changes, and NPC edits are kept in a separate filter ESP to be deactivated and imported into the bashed patch for maximum compatibility with all other mods.",
-          "FileID": 1000034843,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52010/52010-1652778832-877776735.png",
-          "IsNSFW": false,
-          "ModID": 52010,
-          "Name": "Oblivion Character Overhaul - Advanced Edition",
-          "Version": "1.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "aTdkl6e/+a4=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=52992\nfileID=1000034729",
-        "Name": "Dawnfang and Duskfang replacers-52992-1-1684623546.zip",
-        "Size": 3335507,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CKF",
-          "Description": "Replaces Dawnfang and Duskfang",
-          "FileID": 1000034729,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52992/52992-1684623337-1856400395.png",
-          "IsNSFW": false,
-          "ModID": 52992,
-          "Name": "Dawnfang and Duskfang Replacers",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "mw41MmnuJ+8=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=51084\nfileID=1000028204",
-        "Name": "landscape texture fix-51084-1-5-1624440525.zip",
-        "Size": 3627579,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ferretmyster  monkeyangie laulajatar Brother123",
-          "Description": "Make Grass Overhaul Compatible with all other mods and much Fps friendly.",
-          "FileID": 1000028204,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51084/51084-1621613953-939944811.jpeg",
-          "IsNSFW": false,
-          "ModID": 51084,
-          "Name": "Grass Overhaul Universal",
-          "Version": "1.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "H1MW/Vpgoxw=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=49616\nfileID=1000022895",
-        "Name": "Let there be Flowers-49616-1-0-1567346470.7z",
-        "Size": 116244,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Laulajatar",
-          "Description": "This mod adds some flowers to a few ground textures.",
-          "FileID": 1000022895,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49616/49616-1567344743-385176013.png",
-          "IsNSFW": false,
-          "ModID": 49616,
-          "Name": "Let there be Flowers",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "rKn4Tk40FK8=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=52982\nfileID=1000034699",
-        "Name": "Madness Longsword Replacer-52982-1-1684354972.zip",
-        "Size": 218122,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CKF",
-          "Description": "Replaces the Madness Longsword",
-          "FileID": 1000034699,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52982/52982-1684354673-736564351.png",
-          "IsNSFW": false,
-          "ModID": 52982,
-          "Name": "Madness Longsword Replacer",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8NjsRX+SSow=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=47441\nfileID=1000015666",
-        "Name": "Layered solid ice-47441-.zip",
-        "Size": 2452460,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Betty",
-          "Description": "",
-          "FileID": 1000015666,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/47441-0-1482246093.jpg",
-          "IsNSFW": false,
-          "ModID": 47441,
-          "Name": "Ice Layer with Effects",
-          "Version": ""
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "jF3oz40ZKHg=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=49483\nfileID=1000028477",
-        "Name": "Distinct Ayleid Boss Chests - Loose Files and Plugin-49483-1-2-1627058318.7z",
-        "Size": 727053,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Mixxa77",
-          "Description": "Gives a unique look to the ayleid boss level loot chests, so that they are easier to distinguish.",
-          "FileID": 1000028477,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49483/49483-1561894546-597239983.jpeg",
-          "IsNSFW": false,
-          "ModID": 49483,
-          "Name": "Distinct Ayleid Boss Chests",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "pVvyhsKdAhw=",
         "Meta": "[General]\ngameName=oblivion\nmodID=53005\nfileID=1000037089",
         "Name": "OCO Face Updater-53005-1-02-1701624417.rar",
@@ -2990,426 +2640,6 @@
           "ModID": 53005,
           "Name": "OCO Face Updater - Fixes Normal and Age Maps on Load",
           "Version": "1.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "d/+8yzSWTVw=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=52977\nfileID=1000034737",
-        "Name": "Really Textured Normal Maps - Updated BSA-52977-1-0-1684728225.7z",
-        "Size": 557522072,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kartoffels",
-          "Description": "Oblivion Upscaled Textures series by Kartoffels packed into uncompressed BSAs for improved performance and faster loading times. This mod will take up one plugin slot to load all of the thirteen BSAs.",
-          "FileID": 1000034737,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52977/52977-1684314895-2118510942.png",
-          "IsNSFW": false,
-          "ModID": 52977,
-          "Name": "Oblivion Upscaled Textures BSA",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "rZnrBl4HUfM=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=47085\nfileID=1000022995",
-        "Name": "EngineBugFixes v2.22-47085-2-22-1569169531.7z",
-        "Size": 186817,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Tiawar",
-          "Description": "An OBSE plugin containing bug fixes for the Oblivion game engine.",
-          "FileID": 1000022995,
-          "GameName": "Oblivion",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 47085,
-          "Name": "EngineBugFixes",
-          "Version": "2.22"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "y7SSBLRzkqQ=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=43285\nfileID=1000000630",
-        "Name": "Spriggan-43285-1-1.7z",
-        "Size": 245720,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "El Alquimista",
-          "Description": "Some tweakings i made for the spriggan\u0027\u0027s models to look better",
-          "FileID": 1000000630,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/43285-1-1360259318.jpg",
-          "IsNSFW": false,
-          "ModID": 43285,
-          "Name": "Beautiful Creatures - Spriggan",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "imckN74gOxo=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=52542\nfileID=1000033070",
-        "Name": "Chillrend Replacer-52542-1-1670519157.rar",
-        "Size": 1024556,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CKF",
-          "Description": "Replaces Chillrend",
-          "FileID": 1000033070,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52542/52542-1670519002-560354187.png",
-          "IsNSFW": false,
-          "ModID": 52542,
-          "Name": "Chillrend Replacer",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ceYWBx0Mp8c=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=47954\nfileID=1000017462",
-        "Name": "AltTabFix 1.1-47954-1-1.zip",
-        "Size": 6153,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "emoose",
-          "Description": "Fixes a crash caused by alt-tabbing while in a menu, doesn\u0027t seem to be fixed by any other mods yet, so here you go!",
-          "FileID": 1000017462,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/47954-1-1501667891.png",
-          "IsNSFW": false,
-          "ModID": 47954,
-          "Name": "Menu Alt-Tab Crash Fix",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2XK1eCl7Z2A=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=51375\nfileID=1000028986",
-        "Name": "Clickable Magic Gate-51375-1-0-1630857186.zip",
-        "Size": 92800,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Anonymous",
-          "Description": "Fixes the model of the magic gate to let you activate it by clicking on the empty space, instead of only the arches.",
-          "FileID": 1000028986,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51375/51375-1630856922-629274625.png",
-          "IsNSFW": false,
-          "ModID": 51375,
-          "Name": "Clickable Magic Gate",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "gnaExaD5u1E=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=48759\nfileID=1000020198",
-        "Name": "Leyawiin Woodland floor fix -All Natural compatible-48759-1-0.7z",
-        "Size": 2635861,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "1Mac",
-          "Description": "Fix for some issues with interior floor textures from rabilinth\u0027s Leyawiin Woodland retexture mod.",
-          "FileID": 1000020198,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/48759/48759-1535560352-102675531.jpeg",
-          "IsNSFW": false,
-          "ModID": 48759,
-          "Name": "Leyawiin Woodland floor fix",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "cxnaZGlQEuQ=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=47245\nfileID=1000015081",
-        "Name": "Particled Ayleid Stones 1.0-47245-1-0.7z",
-        "Size": 32654,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Sundabar21",
-          "Description": "Tweak for varla and welkynd stones. It add some particle system to them",
-          "FileID": 1000015081,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/47245-0-1474092686.jpg",
-          "IsNSFW": false,
-          "ModID": 47245,
-          "Name": "Particled Ayleid Stones",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "A8j4tJr4tGg=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=51853\nfileID=1000032727",
-        "Name": "01 Seamless OCOv2  n HGEC Female clothes fixes-51853-1-1-1667323408.rar",
-        "Size": 811722,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "KClydeBlueSnake",
-          "Description": "Fix 4 female shirts arm sleeves that were invisible in first person view \u0026amp; the Sheogorath Regalia dress that had no hands! And 2 BBB fixes.",
-          "FileID": 1000032727,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51853/51853-1648276722-1655720724.jpeg",
-          "IsNSFW": false,
-          "ModID": 51853,
-          "Name": "Hand and arms fixes for clothes from junkacc11 Seamless mods and wtftesnexus\u0027 BBB for EVE Stock",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "daZhCv0WunA=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=48763\nfileID=1000020215",
-        "Name": "file-48763-1.7z",
-        "Size": 2596,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "GBRpluss",
-          "Description": "Fixes a bug when Oblivion Reloaded fog shader is enable.",
-          "FileID": 1000020215,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/48763/48763-1535747959-488018413.jpeg",
-          "IsNSFW": false,
-          "ModID": 48763,
-          "Name": "Whiteflame fix",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "I+VJMCh8Oxc=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=52588\nfileID=1000033233",
-        "Name": "Daedric Claymore Replacer-52588-1-1671753494.zip",
-        "Size": 96804,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CKF and ThyNosferatu",
-          "Description": "Daedric Claymore Replacer",
-          "FileID": 1000033233,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52588/52588-1671753351-2106484262.png",
-          "IsNSFW": false,
-          "ModID": 52588,
-          "Name": "Daedric Claymore Replacer",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "nsUejaUwvLw=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=53587\nfileID=1000036890",
-        "Name": "Reb\u0027s Average Oghma Infinium TES4-53587-v1-1699939659.7z",
-        "Size": 1510318,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Reb",
-          "Description": "Lore friendly 1024x2048 res retexture for the Oblivion Oghma Infinium to match my Skyrim (LE/SE) versions",
-          "FileID": 1000036890,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/53587/53587-1699939412-1901516647.png",
-          "IsNSFW": false,
-          "ModID": 53587,
-          "Name": "Reb\u0027s Average Oghma Infinium TES4",
-          "Version": "v1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kS0eiaSscZA=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=46543\nfileID=1000012103",
-        "Name": "Snow Gusts Update1-46543-.zip",
-        "Size": 946358,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Betty",
-          "Description": "Wind blown snow",
-          "FileID": 1000012103,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/46543-0-1447118132.jpg",
-          "IsNSFW": false,
-          "ModID": 46543,
-          "Name": "Snow Gusts",
-          "Version": ""
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6DqnlYEnLWI=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=45056\nfileID=1000017964",
-        "Name": "better ropes worn.zip-45056-1-2.zip",
-        "Size": 466759,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "xrayy",
-          "Description": "you have high defintion textures but your ropes are still looking ugly ?\n\nHere is a simple HD texture replacer for you. \n\njust copy texture folder into the data folder and thats it.\n\n*oct 17 update: darker worn version added*\n\nEnjoy new and more realistic ropes",
-          "FileID": 1000017964,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45056-1-1397408384.jpg",
-          "IsNSFW": false,
-          "ModID": 45056,
-          "Name": "better ropes",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "NR2at8Y1Qgk=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=45018\nfileID=1000006482",
-        "Name": "Nirnroot retexture-45018-1-0.rar",
-        "Size": 8602559,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Lougian",
-          "Description": "New textures in HD",
-          "FileID": 1000006482,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45018-1-1396019194.jpg",
-          "IsNSFW": false,
-          "ModID": 45018,
-          "Name": "Nirnroot retexture",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "/vCsGehTBpY=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=46801\nfileID=1000013169",
-        "Name": "Oblivion Chapel Altar Replacer-46801-1-0.zip",
-        "Size": 519275,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Superandultra",
-          "Description": "A simple texture replacer for the chapel altars.",
-          "FileID": 1000013169,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/46801-0-1457586388.png",
-          "IsNSFW": false,
-          "ModID": 46801,
-          "Name": "Better Chapel Altars -Now with richer Normal Map-",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "x/FktRJb+28=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=52576\nfileID=1000033205",
-        "Name": "Daedric Dagger Replacer-52576-1-1671516259.rar",
-        "Size": 70622,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CKF and Totallynotenemyspy",
-          "Description": "Replaces the daedric dagger",
-          "FileID": 1000033205,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52576/52576-1671516191-1570805571.png",
-          "IsNSFW": false,
-          "ModID": 52576,
-          "Name": "Daedric Dagger Replacer",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "T0p9Plc2zJE=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=45356\nfileID=1000007445",
-        "Name": "Improved Flame Atronachs-45356-1-1.7z",
-        "Size": 4272192,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "sefmonsta",
-          "Description": "Improved Flame Atronachs is a simple replacer mod that aims to improve on the vanilla Atronachs with new hi-res textures and a few mesh tweaks.",
-          "FileID": 1000007445,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45356-1-1406419559.jpg",
-          "IsNSFW": false,
-          "ModID": 45356,
-          "Name": "Improved Flame Atronachs",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "dE9oKxuF2Ak=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=45685\nfileID=1000008421",
-        "Name": "Improved LightBeam-45685-1-0.rar",
-        "Size": 952995,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Monkeyangie",
-          "Description": "Simple mod that retextures the light beams in all the oblivion world, it decreases the greenish look of the original to a more yellowish warmer color.",
-          "FileID": 1000008421,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45685/45685-1581733819-1776498606.jpeg",
-          "IsNSFW": false,
-          "ModID": 45685,
-          "Name": "Improved LightBeam",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "6/9UF0HPBU8=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=50223\nfileID=1000027257",
-        "Name": "SB_WeaponDropFix-50223-1-1-1616105734.7z",
-        "Size": 7395,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SBModding",
-          "Description": "Enemies no longer drop weapons on death, they remain in inventory. This prevents dropped weapons from clipping through the ground.",
-          "FileID": 1000027257,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50223/50223-1593135357-944266548.png",
-          "IsNSFW": false,
-          "ModID": 50223,
-          "Name": "SB Weapon Drop Fix",
-          "Version": "1.1"
         }
       }
     },
@@ -3437,41 +2667,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "LrxUmw3NRXE=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=52559\nfileID=1000033116",
-        "Name": "Daedric Longsword Replacer-52559-1-1670962958.rar",
-        "Size": 63583,
+        "Hash": "i+mSF/NOuUo=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50066\nfileID=1000024557",
+        "Name": "OBLModLimitFix-50066-1-0-1587582618.zip",
+        "Size": 70725,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CKF",
-          "Description": "Replaces the daedric longsword",
-          "FileID": 1000033116,
+          "Author": "iranrmrf",
+          "Description": "This plugin fixes the Oblivion mod limit bug. It allows a maximum of 255 plugins to be loaded.",
+          "FileID": 1000024557,
           "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52559/52559-1670962827-372735319.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50066/50066-1587582470-30531017.png",
           "IsNSFW": false,
-          "ModID": 52559,
-          "Name": "Daedric Longsword Replacer",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4SrYsq1W/sk=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=45536\nfileID=1000007936",
-        "Name": "Improved Storm Atronachs-45536-1-0.7z",
-        "Size": 9277544,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "sefmonsta",
-          "Description": "A high resolution total re-work of the vanilla storm atronachs with added variable glow.",
-          "FileID": 1000007936,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45536-1-1410636396.jpg",
-          "IsNSFW": false,
-          "ModID": 45536,
-          "Name": "Improved Storm Atronachs",
+          "ModID": 50066,
+          "Name": "OBL Mod Limit Fix",
           "Version": "1.0"
         }
       }
@@ -3479,63 +2688,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KC7g0/AMKQ4=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=50943\nfileID=1000027340",
-        "Name": "Doors-50943-1-0-1616642948.7z",
-        "Size": 11466087,
+        "Hash": "TDr/j74rnCI=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49381\nfileID=1000027554",
+        "Name": "Fixed mesh-49381-1-2-1618787884.7z",
+        "Size": 2194,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "monkeyangie",
-          "Description": "retextures the caves and mines doors",
-          "FileID": 1000027340,
+          "Description": "Replaces the grass textures with an Atlas one, for better performance",
+          "FileID": 1000027554,
           "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50943/50943-1618523203-805946312.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49381/49381-1581716905-1539034662.jpeg",
           "IsNSFW": false,
-          "ModID": 50943,
-          "Name": "Retextured Caves and Mines Doors",
-          "Version": "1.0"
+          "ModID": 49381,
+          "Name": "Oblivion Grass Overhaul - Atlas Textures",
+          "Version": "1.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+Sdy2wyFANU=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=52977\nfileID=1000034693",
-        "Name": "Oblivion Upscaled Textures BSA - Part 2-52977-1-0-1684313979.7z",
-        "Size": 3261135489,
+        "Hash": "kS0eiaSscZA=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=46543\nfileID=1000012103",
+        "Name": "Snow Gusts Update1-46543-.zip",
+        "Size": 946358,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kartoffels",
-          "Description": "Oblivion Upscaled Textures series by Kartoffels packed into uncompressed BSAs for improved performance and faster loading times. This mod will take up one plugin slot to load all of the thirteen BSAs.",
-          "FileID": 1000034693,
+          "Author": "Betty",
+          "Description": "Wind blown snow",
+          "FileID": 1000012103,
           "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52977/52977-1684314895-2118510942.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/46543-0-1447118132.jpg",
           "IsNSFW": false,
-          "ModID": 52977,
-          "Name": "Oblivion Upscaled Textures BSA",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "LpGcanJJ180=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=46774\nfileID=1000013055",
-        "Name": "Oblivion Window Reflection Replacer-46774-.zip",
-        "Size": 507246,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Superandultra",
-          "Description": "A window reflection mod that replaces the old texture with a higher-res texture based on gameplay screenshots",
-          "FileID": 1000013055,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/46774-1-1456305959.png",
-          "IsNSFW": false,
-          "ModID": 46774,
-          "Name": "Better Window Reflections",
-          "Version": "1.0"
+          "ModID": 46543,
+          "Name": "Snow Gusts",
+          "Version": ""
         }
       }
     },
@@ -3626,6 +2814,776 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "zqq+FfUnZbM=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=14634\nfileID=18720",
+        "Name": "Dalls_Horse_Armor-14634.7z",
+        "Size": 4985235,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DALL",
+          "Description": "Royal Ayleid and Iron Horse are new Textures for Bethesda Horse Armor plug-in. Note prior to download that this are textures only and not whole Horse Armor Plug-in! Official Horse Armor plug-in is necessary! \r\n",
+          "FileID": 18720,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/14634-4-1199663460.jpg",
+          "IsNSFW": false,
+          "ModID": 14634,
+          "Name": "Dalls_Horse_Armor",
+          "Version": "v1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8NjsRX+SSow=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=47441\nfileID=1000015666",
+        "Name": "Layered solid ice-47441-.zip",
+        "Size": 2452460,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Betty",
+          "Description": "",
+          "FileID": 1000015666,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/47441-0-1482246093.jpg",
+          "IsNSFW": false,
+          "ModID": 47441,
+          "Name": "Ice Layer with Effects",
+          "Version": ""
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nsEVtoh4kYg=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52977\nfileID=1000035522",
+        "Name": "Bomret\u0027s Texture Pack for Shivering Isles BSA-52977-1-0-1690451920.7z",
+        "Size": 749866074,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kartoffels",
+          "Description": "Oblivion Upscaled Textures series by Kartoffels packed into uncompressed BSAs for improved performance and faster loading times. This mod will take up one plugin slot to load all of the thirteen BSAs.",
+          "FileID": 1000035522,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52977/52977-1684314895-2118510942.png",
+          "IsNSFW": false,
+          "ModID": 52977,
+          "Name": "Oblivion Upscaled Textures BSA",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LXwd+dO4v7Y=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=51704\nfileID=1000030083",
+        "Name": "Cutlass Retexture 1.1 hotfix-51704-1-1-1642760611.7z",
+        "Size": 1083889,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "npatall",
+          "Description": "Cutlass retexture using Kartoffels\u0027 upscaled textures",
+          "FileID": 1000030083,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51704/51704-1642760693-1960504323.png",
+          "IsNSFW": false,
+          "ModID": 51704,
+          "Name": "Cutlass Retexture",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4SVMSq303kU=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49816\nfileID=1000023643",
+        "Name": "No more crosshair - Replacer-49816-1-0-1578322991.7z",
+        "Size": 152075,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Laulajatar",
+          "Description": "Removes the crosshair from Rythe Lythandas\u0027 painting. Bethesda, plz.",
+          "FileID": 1000023643,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49816/49816-1578321231-1176985997.png",
+          "IsNSFW": false,
+          "ModID": 49816,
+          "Name": "No more crosshair on Rythe\u0027s painting",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OiKy288LYl4=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45520\nfileID=1000007926",
+        "Name": "DOWNPOUR-45520-02.7z",
+        "Size": 62912,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "textures - Gamwich mesh - maczopikczo",
+          "Description": "Now rain in Cyrodiil is pronounced and heavy at hardly any performance cost.",
+          "FileID": 1000007926,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45520-1-1410184094.jpg",
+          "IsNSFW": false,
+          "ModID": 45520,
+          "Name": "DOWNPOUR - rain retexture",
+          "Version": "02"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KaFEluuTX04=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=25367\nfileID=44088",
+        "Name": "ArenaPoster-25367.rar",
+        "Size": 855766,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Varacolaci",
+          "Description": "This is just another arena poster :)",
+          "FileID": 44088,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/25367-1-1245838956.jpg",
+          "IsNSFW": false,
+          "ModID": 25367,
+          "Name": "Arena Poster",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+Sdy2wyFANU=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52977\nfileID=1000034693",
+        "Name": "Oblivion Upscaled Textures BSA - Part 2-52977-1-0-1684313979.7z",
+        "Size": 3261135489,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kartoffels",
+          "Description": "Oblivion Upscaled Textures series by Kartoffels packed into uncompressed BSAs for improved performance and faster loading times. This mod will take up one plugin slot to load all of the thirteen BSAs.",
+          "FileID": 1000034693,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52977/52977-1684314895-2118510942.png",
+          "IsNSFW": false,
+          "ModID": 52977,
+          "Name": "Oblivion Upscaled Textures BSA",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6DqnlYEnLWI=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45056\nfileID=1000017964",
+        "Name": "better ropes worn.zip-45056-1-2.zip",
+        "Size": 466759,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "xrayy",
+          "Description": "you have high defintion textures but your ropes are still looking ugly ?\n\nHere is a simple HD texture replacer for you. \n\njust copy texture folder into the data folder and thats it.\n\n*oct 17 update: darker worn version added*\n\nEnjoy new and more realistic ropes",
+          "FileID": 1000017964,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45056-1-1397408384.jpg",
+          "IsNSFW": false,
+          "ModID": 45056,
+          "Name": "better ropes",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "dE9oKxuF2Ak=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45685\nfileID=1000008421",
+        "Name": "Improved LightBeam-45685-1-0.rar",
+        "Size": 952995,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Monkeyangie",
+          "Description": "Simple mod that retextures the light beams in all the oblivion world, it decreases the greenish look of the original to a more yellowish warmer color.",
+          "FileID": 1000008421,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/45685/45685-1581733819-1776498606.jpeg",
+          "IsNSFW": false,
+          "ModID": 45685,
+          "Name": "Improved LightBeam",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "a8OhinnOm08=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=53031\nfileID=1000034895",
+        "Name": "Improved Light Beam - Transparency Fix-53031-1-0-1685893504.7z",
+        "Size": 1163,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Lazaro and various mod authors",
+          "Description": "A collection of fixes made by Lazaro\uFEFF for various mods. Lazaro has given me permission to publish these files.",
+          "FileID": 1000034895,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/53031/53031-1685892582-501113870.jpeg",
+          "IsNSFW": false,
+          "ModID": 53031,
+          "Name": "Collection of Fixes by Lazaro",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LUl2rOqYtYc=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52010\nfileID=1000034843",
+        "Name": "OCOv2 - Advanced Edition (Vanilla Hairstyles)-52010-1-5-1685711141.7z",
+        "Size": 1085808,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "nuska and Dispensation",
+          "Description": "A replacer ESP for Oblivion Character Overhaul version 2, cleaned of all dirty and wild edits as well as stats changes, and NPC edits are kept in a separate filter ESP to be deactivated and imported into the bashed patch for maximum compatibility with all other mods.",
+          "FileID": 1000034843,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52010/52010-1652778832-877776735.png",
+          "IsNSFW": false,
+          "ModID": 52010,
+          "Name": "Oblivion Character Overhaul - Advanced Edition",
+          "Version": "1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+8cGCQwsI4g=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=46962\nfileID=1000013935",
+        "Name": "Kaizits Animated ingredients v 1.1 fix-46962-.rar",
+        "Size": 41816,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kaizit",
+          "Description": "Replaces the vanilla ingredients with new animated meshes and new textures",
+          "FileID": 1000013935,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/46962-0-1463764789.jpg",
+          "IsNSFW": false,
+          "ModID": 46962,
+          "Name": "Kaizits Animated Ingredients",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2QVl60Neqts=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50348\nfileID=1000025586",
+        "Name": "Oblivion Display Tweaks-50348-1-3-1597794116.zip",
+        "Size": 76168,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ersh",
+          "Description": "Micro stutter tick fix, high framerate fix, true FOV fix, alt-tab freeze fix in fullscreen and G-Sync/FreeSync working in borderless/windowed mode.",
+          "FileID": 1000025586,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50348/50348-1597384220-354790620.png",
+          "IsNSFW": false,
+          "ModID": 50348,
+          "Name": "Oblivion Display Tweaks",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "d/+8yzSWTVw=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52977\nfileID=1000034737",
+        "Name": "Really Textured Normal Maps - Updated BSA-52977-1-0-1684728225.7z",
+        "Size": 557522072,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kartoffels",
+          "Description": "Oblivion Upscaled Textures series by Kartoffels packed into uncompressed BSAs for improved performance and faster loading times. This mod will take up one plugin slot to load all of the thirteen BSAs.",
+          "FileID": 1000034737,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52977/52977-1684314895-2118510942.png",
+          "IsNSFW": false,
+          "ModID": 52977,
+          "Name": "Oblivion Upscaled Textures BSA",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mw41MmnuJ+8=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=51084\nfileID=1000028204",
+        "Name": "landscape texture fix-51084-1-5-1624440525.zip",
+        "Size": 3627579,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ferretmyster  monkeyangie laulajatar Brother123",
+          "Description": "Make Grass Overhaul Compatible with all other mods and much Fps friendly.",
+          "FileID": 1000028204,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51084/51084-1621613953-939944811.jpeg",
+          "IsNSFW": false,
+          "ModID": 51084,
+          "Name": "Grass Overhaul Universal",
+          "Version": "1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yesXyL8AbAU=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=43297\nfileID=1000000569",
+        "Name": "Spider Daedra Replacer-43297-1-2.rar",
+        "Size": 958963,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "El Alquimista",
+          "Description": "Another replacer for vanilla Spider Daedra",
+          "FileID": 1000000569,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/43297-3-1360525834.jpg",
+          "IsNSFW": true,
+          "ModID": 43297,
+          "Name": "Beautiful Creatures - Spider Daedra",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HTVX0jaMoP8=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=46264\nfileID=1000010882",
+        "Name": "Double Sided Cobwebs-46264-1-0.7z",
+        "Size": 1029051,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "sefmonsta",
+          "Description": "Makes all cobwebs visible from both sides.",
+          "FileID": 1000010882,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/46264-2-1435612765.jpg",
+          "IsNSFW": false,
+          "ModID": 46264,
+          "Name": "Double Sided Cobwebs",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5RWHnnqd+ls=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=51113\nfileID=1000028019",
+        "Name": "Ho_Clavicusvile Mask Remodel Replacer-51113-V1-0-1622979550.7z",
+        "Size": 4037915,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GriLka",
+          "Description": "Clavicusvile Mask remodel replacer.\n\nand Clavicusvile Helmet.dds 2048 \u00D7 2048 version.",
+          "FileID": 1000028019,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51113/51113-1622979134-705645660.jpeg",
+          "IsNSFW": false,
+          "ModID": 51113,
+          "Name": "Half-off Clavicusvile Mask remodel replacer",
+          "Version": "V1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vbM1SKeAhQY=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=46992\nfileID=1000013998",
+        "Name": "Kaizits Animated Daedric Ingredients fix-46992-.rar",
+        "Size": 4195843,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kaizit",
+          "Description": "Replaces the vanilla Daedric ingredients with new animated meshes and new textures\r\n\n",
+          "FileID": 1000013998,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/46992-1-1464813350.jpg",
+          "IsNSFW": false,
+          "ModID": 46992,
+          "Name": "Kaizits Animated Daedric Ingredients",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nsUejaUwvLw=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=53587\nfileID=1000036890",
+        "Name": "Reb\u0027s Average Oghma Infinium TES4-53587-v1-1699939659.7z",
+        "Size": 1510318,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Reb",
+          "Description": "Lore friendly 1024x2048 res retexture for the Oblivion Oghma Infinium to match my Skyrim (LE/SE) versions",
+          "FileID": 1000036890,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/53587/53587-1699939412-1901516647.png",
+          "IsNSFW": false,
+          "ModID": 53587,
+          "Name": "Reb\u0027s Average Oghma Infinium TES4",
+          "Version": "v1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2XK1eCl7Z2A=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=51375\nfileID=1000028986",
+        "Name": "Clickable Magic Gate-51375-1-0-1630857186.zip",
+        "Size": 92800,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Anonymous",
+          "Description": "Fixes the model of the magic gate to let you activate it by clicking on the empty space, instead of only the arches.",
+          "FileID": 1000028986,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51375/51375-1630856922-629274625.png",
+          "IsNSFW": false,
+          "ModID": 51375,
+          "Name": "Clickable Magic Gate",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gnaExaD5u1E=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=48759\nfileID=1000020198",
+        "Name": "Leyawiin Woodland floor fix -All Natural compatible-48759-1-0.7z",
+        "Size": 2635861,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "1Mac",
+          "Description": "Fix for some issues with interior floor textures from rabilinth\u0027s Leyawiin Woodland retexture mod.",
+          "FileID": 1000020198,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/48759/48759-1535560352-102675531.jpeg",
+          "IsNSFW": false,
+          "ModID": 48759,
+          "Name": "Leyawiin Woodland floor fix",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cxnaZGlQEuQ=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=47245\nfileID=1000015081",
+        "Name": "Particled Ayleid Stones 1.0-47245-1-0.7z",
+        "Size": 32654,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sundabar21",
+          "Description": "Tweak for varla and welkynd stones. It add some particle system to them",
+          "FileID": 1000015081,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/47245-0-1474092686.jpg",
+          "IsNSFW": false,
+          "ModID": 47245,
+          "Name": "Particled Ayleid Stones",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GgSxTN+GNCU=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=45576\nfileID=1000008086",
+        "Name": "4gb_Patch_plus_Ram_optimization_readme-45576-1-0-0-1.zip",
+        "Size": 24784,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Daniel Pistelli ",
+          "Description": "Small .exe with sole purpose of applying \u0026gt;2gb patch to .exe and .dll files. Automatically makes backups of original files. Applying this to all .exe and .dll related to Oblivion MAY give some of those with 4gb plus ram a performance boost. Even then extra tweaks and additional utilities are usually necessary to optimize things. ",
+          "FileID": 1000008086,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 45576,
+          "Name": "4gb Ram Patcher",
+          "Version": "1.0.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MWDiNZZRCTw=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=53911\nfileID=1000038102",
+        "Name": "AveSithis Engine Fixes-53911-1-0-1-1711753087.zip",
+        "Size": 37114,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "llde",
+          "Description": "An OBSE plugin the correct some bugs in the game engine.",
+          "FileID": 1000038102,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/53911/53911-1711745193-2035868841.png",
+          "IsNSFW": false,
+          "ModID": 53911,
+          "Name": "AveSithis Engine Fixes",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rZnrBl4HUfM=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=47085\nfileID=1000022995",
+        "Name": "EngineBugFixes v2.22-47085-2-22-1569169531.7z",
+        "Size": 186817,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tiawar",
+          "Description": "An OBSE plugin containing bug fixes for the Oblivion game engine.",
+          "FileID": 1000022995,
+          "GameName": "Oblivion",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 47085,
+          "Name": "EngineBugFixes",
+          "Version": "2.22"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5Xm9sfUGA/w=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=49520\nfileID=1000022613",
+        "Name": "Improved Frost Atronachs-49520-1-1-1563149803.7z",
+        "Size": 3841266,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "sefmonsta",
+          "Description": "Updated hi-res textures and altered mesh for a colder icy look.",
+          "FileID": 1000022613,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49520/49520-1563149056-429482337.jpeg",
+          "IsNSFW": false,
+          "ModID": 49520,
+          "Name": "Improved Frost Atronachs",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2M17PpwlCq0=",
+        "Meta": "[General]\ndirectURL=https://github.com/llde/xOBSE/releases/download/22.10beta/xOBSE-22.10beta.zip",
+        "Name": "xOBSE-22.10beta.zip",
+        "Size": 5339700,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/llde/xOBSE/releases/download/22.10beta/xOBSE-22.10beta.zip"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lih9+pizL5E=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=53298\nfileID=1000035824",
+        "Name": "ILOO - Interior Lighting Oblivion Overhaul-53298-1-0-1-1692525607.zip",
+        "Size": 17064,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SpringHeelJon",
+          "Description": "Simple dynamic interior lighting based on time of day.",
+          "FileID": 1000035824,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/53298/53298-1692475631-1027598019.png",
+          "IsNSFW": false,
+          "ModID": 53298,
+          "Name": "ILOO - Interior Lighting Oblivion Overhaul",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ceYWBx0Mp8c=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=47954\nfileID=1000017462",
+        "Name": "AltTabFix 1.1-47954-1-1.zip",
+        "Size": 6153,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "emoose",
+          "Description": "Fixes a crash caused by alt-tabbing while in a menu, doesn\u0027t seem to be fixed by any other mods yet, so here you go!",
+          "FileID": 1000017462,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/47954-1-1501667891.png",
+          "IsNSFW": false,
+          "ModID": 47954,
+          "Name": "Menu Alt-Tab Crash Fix",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "daZhCv0WunA=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=48763\nfileID=1000020215",
+        "Name": "file-48763-1.7z",
+        "Size": 2596,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "GBRpluss",
+          "Description": "Fixes a bug when Oblivion Reloaded fog shader is enable.",
+          "FileID": 1000020215,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/48763/48763-1535747959-488018413.jpeg",
+          "IsNSFW": false,
+          "ModID": 48763,
+          "Name": "Whiteflame fix",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6S1eyxqlwIg=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=47522\nfileID=1000015937",
+        "Name": "better teeth vanilla npc version-47522-1-0.zip",
+        "Size": 95368,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "xrayy",
+          "Description": "balanced realistic teeth replacer for vanilla races and custom races using the merged nif replacer. optimized normal map included",
+          "FileID": 1000015937,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/47522-0-1484356268.jpg",
+          "IsNSFW": false,
+          "ModID": 47522,
+          "Name": "better teeth",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KC7g0/AMKQ4=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50943\nfileID=1000027340",
+        "Name": "Doors-50943-1-0-1616642948.7z",
+        "Size": 11466087,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "monkeyangie",
+          "Description": "retextures the caves and mines doors",
+          "FileID": 1000027340,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50943/50943-1618523203-805946312.jpeg",
+          "IsNSFW": false,
+          "ModID": 50943,
+          "Name": "Retextured Caves and Mines Doors",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6/9UF0HPBU8=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=50223\nfileID=1000027257",
+        "Name": "SB_WeaponDropFix-50223-1-1-1616105734.7z",
+        "Size": 7395,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "SBModding",
+          "Description": "Enemies no longer drop weapons on death, they remain in inventory. This prevents dropped weapons from clipping through the ground.",
+          "FileID": 1000027257,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50223/50223-1593135357-944266548.png",
+          "IsNSFW": false,
+          "ModID": 50223,
+          "Name": "SB Weapon Drop Fix",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "uaF82lsQJb0=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=35593\nfileID=70882",
+        "Name": "Falling Stars-35593-1.7z",
+        "Size": 6560,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Phitt",
+          "Description": "A tiny mod that adds falling stars to the game. They appear randomly at night when the sky is clear, the amount can be adjusted via console.",
+          "FileID": 70882,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/35593-1-1289339129.jpg",
+          "IsNSFW": false,
+          "ModID": 35593,
+          "Name": "Falling Stars",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3gVHqqdxzUU=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=27945\nfileID=50991",
+        "Name": "Skeletons-27945.7z",
+        "Size": 17391,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "coronerra",
+          "Description": "Better Animation Skeleton with ALL the bones in every custom skeleton for Oblivion. Better Bouncing Boobs for HGEC. Better lower body for Demons with textures. What more can a person want?",
+          "FileID": 50991,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/27945-5-1256969182.jpg",
+          "IsNSFW": false,
+          "ModID": 27945,
+          "Name": "Coronerras Maximum Compatibility Skeletons",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "zEj4wFnqQkQ=",
         "Meta": "[General]\ngameName=oblivion\nmodID=52228\nfileID=1000031979",
         "Name": "Scabbard For Dwarven Longsword-52228-1-1659550396.zip",
@@ -3647,20 +3605,41 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "KaFEluuTX04=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=25367\nfileID=44088",
-        "Name": "ArenaPoster-25367.rar",
-        "Size": 855766,
+        "Hash": "E2BCeIp48wc=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52977\nfileID=1000034694",
+        "Name": "Oblivion Upscaled Textures BSA - Part 3-52977-1-0-1684316050.7z",
+        "Size": 3226814720,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Varacolaci",
-          "Description": "This is just another arena poster :)",
-          "FileID": 44088,
+          "Author": "Kartoffels",
+          "Description": "Oblivion Upscaled Textures series by Kartoffels packed into uncompressed BSAs for improved performance and faster loading times. This mod will take up one plugin slot to load all of the thirteen BSAs.",
+          "FileID": 1000034694,
           "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/25367-1-1245838956.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52977/52977-1684314895-2118510942.png",
           "IsNSFW": false,
-          "ModID": 25367,
-          "Name": "Arena Poster",
+          "ModID": 52977,
+          "Name": "Oblivion Upscaled Textures BSA",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rKn4Tk40FK8=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52982\nfileID=1000034699",
+        "Name": "Madness Longsword Replacer-52982-1-1684354972.zip",
+        "Size": 218122,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CKF",
+          "Description": "Replaces the Madness Longsword",
+          "FileID": 1000034699,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52982/52982-1684354673-736564351.png",
+          "IsNSFW": false,
+          "ModID": 52982,
+          "Name": "Madness Longsword Replacer",
           "Version": "1"
         }
       }
@@ -3689,21 +3668,147 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "lih9+pizL5E=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=53298\nfileID=1000035824",
-        "Name": "ILOO - Interior Lighting Oblivion Overhaul-53298-1-0-1-1692525607.zip",
-        "Size": 17064,
+        "Hash": "S/1dweviDms=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=53031\nfileID=1000034901",
+        "Name": "Weapon Improvement Project - UOPClubStatic.nif Fix-53031-1-0-1685893877.7z",
+        "Size": 103498,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SpringHeelJon",
-          "Description": "Simple dynamic interior lighting based on time of day.",
-          "FileID": 1000035824,
+          "Author": "Lazaro and various mod authors",
+          "Description": "A collection of fixes made by Lazaro\uFEFF for various mods. Lazaro has given me permission to publish these files.",
+          "FileID": 1000034901,
           "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/53298/53298-1692475631-1027598019.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/53031/53031-1685892582-501113870.jpeg",
           "IsNSFW": false,
-          "ModID": 53298,
-          "Name": "ILOO - Interior Lighting Oblivion Overhaul",
-          "Version": "1.0.1"
+          "ModID": 53031,
+          "Name": "Collection of Fixes by Lazaro",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LpGcanJJ180=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=46774\nfileID=1000013055",
+        "Name": "Oblivion Window Reflection Replacer-46774-.zip",
+        "Size": 507246,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Superandultra",
+          "Description": "A window reflection mod that replaces the old texture with a higher-res texture based on gameplay screenshots",
+          "FileID": 1000013055,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/46774-1-1456305959.png",
+          "IsNSFW": false,
+          "ModID": 46774,
+          "Name": "Better Window Reflections",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "y7SSBLRzkqQ=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=43285\nfileID=1000000630",
+        "Name": "Spriggan-43285-1-1.7z",
+        "Size": 245720,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "El Alquimista",
+          "Description": "Some tweakings i made for the spriggan\u0027\u0027s models to look better",
+          "FileID": 1000000630,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/43285-1-1360259318.jpg",
+          "IsNSFW": false,
+          "ModID": 43285,
+          "Name": "Beautiful Creatures - Spriggan",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/39p0v1JlI4=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=51084\nfileID=1000030679",
+        "Name": "Anvil Grass Fixed Both Versions-51084-1-5-1648292568.rar",
+        "Size": 857,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ferretmyster  monkeyangie laulajatar Brother123",
+          "Description": "Make Grass Overhaul Compatible with all other mods and much Fps friendly.",
+          "FileID": 1000030679,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51084/51084-1621613953-939944811.jpeg",
+          "IsNSFW": false,
+          "ModID": 51084,
+          "Name": "Grass Overhaul Universal",
+          "Version": "1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "M1an40DTRsU=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=51453\nfileID=1000029267",
+        "Name": "Kurdan\u0027s Boat Improved-51453-1-0-1633371671.7z",
+        "Size": 126641,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dispensation",
+          "Description": "Mesh replacer for Kurdan\u0027s Boat in Bravil. Can be merged into the bashed patch.",
+          "FileID": 1000029267,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/51453/51453-1633371383-2060136974.jpeg",
+          "IsNSFW": false,
+          "ModID": 51453,
+          "Name": "Kurdan\u0027s Boat Improved",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "aEQpD91nRMo=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=43752\nfileID=1000029844",
+        "Name": "Blockhead-43752-11-1-1640043918.7z",
+        "Size": 172565,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "shadeMe",
+          "Description": "An OBSE plugin that adds support for gender variant head models and textures for NPCs. And allows free camera movement in the race/sex menu. And enables pain-free inventory idle overriding. And per-NPC/Race/scripted body/head texture/model overriding. And animation overriding. And equipment model overriding.",
+          "FileID": 1000029844,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/43752-1-1373226750.jpg",
+          "IsNSFW": false,
+          "ModID": 43752,
+          "Name": "Blockhead",
+          "Version": "11.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "I+VJMCh8Oxc=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52588\nfileID=1000033233",
+        "Name": "Daedric Claymore Replacer-52588-1-1671753494.zip",
+        "Size": 96804,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CKF and ThyNosferatu",
+          "Description": "Daedric Claymore Replacer",
+          "FileID": 1000033233,
+          "GameName": "Oblivion",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52588/52588-1671753351-2106484262.png",
+          "IsNSFW": false,
+          "ModID": 52588,
+          "Name": "Daedric Claymore Replacer",
+          "Version": "1"
         }
       }
     },
@@ -3731,126 +3836,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GgSxTN+GNCU=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=45576\nfileID=1000008086",
-        "Name": "4gb_Patch_plus_Ram_optimization_readme-45576-1-0-0-1.zip",
-        "Size": 24784,
+        "Hash": "x/FktRJb+28=",
+        "Meta": "[General]\ngameName=oblivion\nmodID=52576\nfileID=1000033205",
+        "Name": "Daedric Dagger Replacer-52576-1-1671516259.rar",
+        "Size": 70622,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Daniel Pistelli ",
-          "Description": "Small .exe with sole purpose of applying \u0026gt;2gb patch to .exe and .dll files. Automatically makes backups of original files. Applying this to all .exe and .dll related to Oblivion MAY give some of those with 4gb plus ram a performance boost. Even then extra tweaks and additional utilities are usually necessary to optimize things. ",
-          "FileID": 1000008086,
+          "Author": "CKF and Totallynotenemyspy",
+          "Description": "Replaces the daedric dagger",
+          "FileID": 1000033205,
           "GameName": "Oblivion",
-          "ImageURL": null,
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52576/52576-1671516191-1570805571.png",
           "IsNSFW": false,
-          "ModID": 45576,
-          "Name": "4gb Ram Patcher",
-          "Version": "1.0.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "E2BCeIp48wc=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=52977\nfileID=1000034694",
-        "Name": "Oblivion Upscaled Textures BSA - Part 3-52977-1-0-1684316050.7z",
-        "Size": 3226814720,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kartoffels",
-          "Description": "Oblivion Upscaled Textures series by Kartoffels packed into uncompressed BSAs for improved performance and faster loading times. This mod will take up one plugin slot to load all of the thirteen BSAs.",
-          "FileID": 1000034694,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/52977/52977-1684314895-2118510942.png",
-          "IsNSFW": false,
-          "ModID": 52977,
-          "Name": "Oblivion Upscaled Textures BSA",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "S/1dweviDms=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=53031\nfileID=1000034901",
-        "Name": "Weapon Improvement Project - UOPClubStatic.nif Fix-53031-1-0-1685893877.7z",
-        "Size": 103498,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Lazaro and various mod authors",
-          "Description": "A collection of fixes made by Lazaro\uFEFF for various mods. Lazaro has given me permission to publish these files.",
-          "FileID": 1000034901,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/53031/53031-1685892582-501113870.jpeg",
-          "IsNSFW": false,
-          "ModID": 53031,
-          "Name": "Collection of Fixes by Lazaro",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "i+mSF/NOuUo=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=50066\nfileID=1000024557",
-        "Name": "OBLModLimitFix-50066-1-0-1587582618.zip",
-        "Size": 70725,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "iranrmrf",
-          "Description": "This plugin fixes the Oblivion mod limit bug. It allows a maximum of 255 plugins to be loaded.",
-          "FileID": 1000024557,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/50066/50066-1587582470-30531017.png",
-          "IsNSFW": false,
-          "ModID": 50066,
-          "Name": "OBL Mod Limit Fix",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "TDr/j74rnCI=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=49381\nfileID=1000027554",
-        "Name": "Fixed mesh-49381-1-2-1618787884.7z",
-        "Size": 2194,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "monkeyangie",
-          "Description": "Replaces the grass textures with an Atlas one, for better performance",
-          "FileID": 1000027554,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/49381/49381-1581716905-1539034662.jpeg",
-          "IsNSFW": false,
-          "ModID": 49381,
-          "Name": "Oblivion Grass Overhaul - Atlas Textures",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "qggM8ApQT4c=",
-        "Meta": "[General]\ngameName=oblivion\nmodID=38438\nfileID=87653",
-        "Name": "Staffs version 1_1-38438-1-1.7z",
-        "Size": 7406220,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "qwerty",
-          "Description": "Higher resolution staff texture replacer.",
-          "FileID": 87653,
-          "GameName": "Oblivion",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/101/images/38438-1-1305306319.jpg",
-          "IsNSFW": false,
-          "ModID": 38438,
-          "Name": "Visually Improved Staffs",
-          "Version": "1.1"
+          "ModID": 52576,
+          "Name": "Daedric Dagger Replacer",
+          "Version": "1"
         }
       }
     },
