@@ -1,4 +1,4 @@
-## Validation Report - Untitled Skyrim Modlist (Palette/Palette)
+## Validation Report - Untitled Skyrim Modlist (Palette/Untitled)
 
 
 ### Invalid (0)
