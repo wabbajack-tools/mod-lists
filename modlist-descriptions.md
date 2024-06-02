@@ -62,6 +62,7 @@
     -   [Fallout 4 VR Essentials Overhaul](#fallout-4-vr-essentials-overhaul)
 -   [Fallout New Vegas](#fallout-new-vegas)
     -   [Capital Punishment](#capital-punishment)
+    -   [Viva New Vegas](#viva-new-vegas)
 -   [Tale Of Two Wastelands](#tale-of-two-wastelands)
     -   [Begin Again](#begin-again)
 -   [Cyberpunk 2077](#cyberpunk-2077)
@@ -832,6 +833,17 @@ There is also a [handy dandy installation video](https://www.youtube.com/watch?v
 ### [Capital Punishment](https://github.com/TheMrNewVegas/TTWTrueVegas/wiki)
 
 A revamped and realistic take on the Tale of Two Wastelands modification. This modlist includes new animations, textures, gameplay mechanics, and hundreds of other content adding mods. In addition, multiple profiles are available for the player to choose the playstyle they desire.
+
+---
+
+### [Viva New Vegas](https://vivanewvegas.moddinglinked.com/wabbajack.html)
+
+Viva New Vegas is a modlist for Fallout New Vegas that will give you a perfectly stable, smooth and enjoyable experience. Its main features are:
+
+-  Stability: The list includes all the latest and essential stability enhancements.
+-  Performance: Every tool, setting, and mod in the list has been carefully selected and play-tested to ensure maximum possible performance.
+-  Customizability: The list is split into 2 sections; all the mods required for the game to work and perform better are contained in the first section. The mods that can be considered subjective and that alter or add game content are in the VNV Extended section, which is fully modular.
+-  Better Gameplay: As part of the VNV Extended section, the list includes many mods that greatly improve the gameplay without drastically overhauling the core experience or straying away from the game's original intent. There is also an Overhauls section that will make the game much more difficult and add some new vanilla-friendly content. This section is highlighted by Vigor so it is not recommended for first time players.
 
 ---
 
