@@ -375,7 +375,7 @@
 *  [DungeonMaps.zip-13313-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13313/?tab=files&file_id=37972)
 *  [Durability VR-76830-1-1-2-1708893343.rar](https://www.nexusmods.com/skyrimspecialedition/mods/76830/?tab=files&file_id=474503)
 *  [durzogs (se-ae) v2-45470-2-1663286399.rar](https://www.nexusmods.com/skyrimspecialedition/mods/45470/?tab=files&file_id=316443)
-*  [DVR 6.0 Custom Files.rar](https://authored-files.wabbajack.org/DVR 6.0 Custom Files.rar_d78f0f52-c05b-496c-a312-215451ece56a)
+*  [DVR 6.0 Custom Files.rar](https://authored-files.wabbajack.org/DVR 6.0 Custom Files.rar_9d8618d5-db6c-4d13-bb74-169fde4d3c9e)
 *  [Dwarven Shield - SE-AE - My version 2K-59369-1-1638386667.7z](https://www.nexusmods.com/skyrimspecialedition/mods/59369/?tab=files&file_id=245866)
 *  [Dwemer Armor-63074-1-1-1657652013.rar](https://www.nexusmods.com/skyrimspecialedition/mods/63074/?tab=files&file_id=298442)
 *  [Dwemer Core Sword-95262-1-0-1688728990.7z](https://www.nexusmods.com/skyrimspecialedition/mods/95262/?tab=files&file_id=404653)
