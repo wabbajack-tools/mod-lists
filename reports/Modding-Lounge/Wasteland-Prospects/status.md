@@ -1,11 +1,10 @@
 ## Validation Report - Wasteland Prospects (Modding-Lounge/Wasteland-Prospects)
 
 
-### Invalid (1)
-*  [3.3.0-xLODGen Output.zip](https://files.moddinglounge.com/Rage/Wasteland-Prospects/releases/download/Addons/3.3.0-xLODGen Output.zip)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (642)
+### Valid (643)
 *  [00 - Alcohol Bottles - Overhaul  - AIO Installer-73919-1-1-1700071972.7z](https://www.nexusmods.com/newvegas/mods/73919/?tab=files&file_id=1000119091)
 *  [00 - Improved Male Vanilla Body - FOMOD Installer-70160-2-0-1713710924.zip](https://www.nexusmods.com/newvegas/mods/70160/?tab=files&file_id=1000128135)
 *  [00 - Improved Male Vanilla Body - FOMOD Installer-70160-2-1-1714573847.zip](https://www.nexusmods.com/newvegas/mods/70160/?tab=files&file_id=1000129394)
@@ -15,6 +14,7 @@
 *  [168 Hour Respawn-78231-1-0-1662167689.7z](https://www.nexusmods.com/newvegas/mods/78231/?tab=files&file_id=1000098509)
 *  [2. Butcher Pete Complete - A Melee Animation Overhaul (No Locomotion)-79146-1-0-1669917143.rar](https://www.nexusmods.com/newvegas/mods/79146/?tab=files&file_id=1000101718)
 *  [2. Wasteland Warrior - A Melee Animation Overhaul (No Locomotion)-80277-1-0-1678034975.rar](https://www.nexusmods.com/newvegas/mods/80277/?tab=files&file_id=1000105956)
+*  [3.3.0-xLODGen Output.zip](https://files.moddinglounge.com/Rage/Wasteland-Prospects/releases/download/Addons/3.3.0-xLODGen Output.zip)
 *  [3D Grenade Indicator-86243-1-0-1714076563.zip](https://www.nexusmods.com/newvegas/mods/86243/?tab=files&file_id=1000128647)
 *  [3D Grenade Indicator-86243-1-1-1714245993.zip](https://www.nexusmods.com/newvegas/mods/86243/?tab=files&file_id=1000128892)
 *  [3D Grenade Indicator-86243-1-2-1714340312.zip](https://www.nexusmods.com/newvegas/mods/86243/?tab=files&file_id=1000129079)
