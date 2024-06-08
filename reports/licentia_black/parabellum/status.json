@@ -1,19 +1,19 @@
 {
   "MachineURL": "licentia_black/parabellum",
   "Name": "Parabellum",
-  "Version": "1.10.1",
-  "ModListHash": "TTdnIWjaZxE=",
+  "Version": "1.10.1.2",
+  "ModListHash": "6I81wpwdodE=",
   "Archives": [
     {
       "Status": "Valid",
       "Original": {
         "Hash": "TE+KAlXibfg=",
-        "Meta": "[General]\ndirectURL=https://www.loverslab.com/files/file/11033-uap-ultimate-aaf-patch/?do=download",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/11033-uap-ultimate-aaf-patch/?do=download\nprompt=DO NOT DOWNLOAD! READ README!!",
         "Name": "1387286231_UAPv2.6.64-1.7z",
         "Size": 179179208,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "DO NOT DOWNLOAD! READ README!!",
           "Url": "https://www.loverslab.com/files/file/11033-uap-ultimate-aaf-patch/?do=download"
         }
       }
@@ -129,13 +129,13 @@
       "Status": "Valid",
       "Original": {
         "Hash": "W8s+k7MTO6A=",
-        "Meta": "[General]\ndirectURL=https://www.loverslab.com/files/file/5205-aaf-bp70s-fallout-4-sex-anims-28-20-9-2021/?do=download\u0026r=1136905\u0026confirm=1\u0026t=1",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/5205-aaf-bp70s-fallout-4-sex-anims-28-20-9-2021/?do=download\u0026r=1136905\u0026confirm=1\nprompt=DO NOT DOWNLOAD! READ README!!",
         "Name": "bp70FO4sexanimations_2.8.zip",
         "Size": 146868053,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://www.loverslab.com/files/file/5205-aaf-bp70s-fallout-4-sex-anims-28-20-9-2021/?do=download\u0026r=1136905\u0026confirm=1\u0026t=1"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "DO NOT DOWNLOAD! READ README!!",
+          "Url": "https://www.loverslab.com/files/file/5205-aaf-bp70s-fallout-4-sex-anims-28-20-9-2021/?do=download\u0026r=1136905\u0026confirm=1"
         }
       }
     },
@@ -164,12 +164,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "Xysitt7O/SI=",
-        "Meta": "[General]\ndirectURL=https://www.loverslab.com/files/file/25514-commonwealth-moisturizer/?do=download\u0026r=1895912\u0026confirm=1\u0026t=1",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/25514-commonwealth-moisturizer/?do=download\u0026r=1895912\u0026confirm=1\u0026t=1\nprompt=DO NOT DOWNLOAD! READ README!!",
         "Name": "ComMoisturizer_v1_05.zip",
         "Size": 227697536,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "DO NOT DOWNLOAD! READ README!!",
           "Url": "https://www.loverslab.com/files/file/25514-commonwealth-moisturizer/?do=download\u0026r=1895912\u0026confirm=1\u0026t=1"
         }
       }
@@ -821,13 +821,13 @@
       "Status": "Valid",
       "Original": {
         "Hash": "Oa/99h5Gl08=",
-        "Meta": "[General]\ndirectURL=https://www.loverslab.com/files/file/7720-fo4-aaf-themes-vanillasexanimations-kinkyaggressive-and-creaturesexanimations/?do=download\u0026r=1115225\u0026confirm=1\u0026t=1",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/7720-fo4-aaf-themes-vanillasexanimations-kinkyaggressive-and-creaturesexanimations/?do=download\u0026r=1115225\u0026confirm=1\nprompt=DO NOT DOWNLOAD! READ README!!",
         "Name": "AAF_VanillaKinkyCreatureAnimations_Themes_V210819.0.7z",
         "Size": 2596114,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://www.loverslab.com/files/file/7720-fo4-aaf-themes-vanillasexanimations-kinkyaggressive-and-creaturesexanimations/?do=download\u0026r=1115225\u0026confirm=1\u0026t=1"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "DO NOT DOWNLOAD! READ README!!",
+          "Url": "https://www.loverslab.com/files/file/7720-fo4-aaf-themes-vanillasexanimations-kinkyaggressive-and-creaturesexanimations/?do=download\u0026r=1115225\u0026confirm=1"
         }
       }
     },
@@ -835,12 +835,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "ZIgAKS5fya4=",
-        "Meta": "[General]\ndirectURL=https://www.loverslab.com/files/file/7281-aaf-sex-em-up/?do=download\u0026r=1734077\u0026confirm=1\u0026t=1",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/7281-aaf-sex-em-up/?do=download\u0026r=1734077\u0026confirm=1\u0026t=1\nprompt=Please download AAF_SEU_V1.19.7z",
         "Name": "AAF_SEU_V1.19.7z",
         "Size": 137684,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "Please download AAF_SEU_V1.19.7z",
           "Url": "https://www.loverslab.com/files/file/7281-aaf-sex-em-up/?do=download\u0026r=1734077\u0026confirm=1\u0026t=1"
         }
       }
@@ -954,13 +954,13 @@
       "Status": "Valid",
       "Original": {
         "Hash": "a6QgTSw5720=",
-        "Meta": "[General]\ndirectURL=https://www.loverslab.com/files/file/3937-aaf-fo4-animations-by-leito-210905/?do=download\u0026r=1128115\u0026confirm=1\u0026t=1",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/3937-aaf-fo4-animations-by-leito-210905/?do=download\u0026r=1128115\u0026confirm=1\nprompt=DO NOT DOWNLOAD! READ README!!",
         "Name": "FO4_AnimationsByLeito_v2.1b.7z",
         "Size": 42259797,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://www.loverslab.com/files/file/3937-aaf-fo4-animations-by-leito-210905/?do=download\u0026r=1128115\u0026confirm=1\u0026t=1"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "DO NOT DOWNLOAD! READ README!!",
+          "Url": "https://www.loverslab.com/files/file/3937-aaf-fo4-animations-by-leito-210905/?do=download\u0026r=1128115\u0026confirm=1"
         }
       }
     },
@@ -1010,13 +1010,13 @@
       "Status": "Valid",
       "Original": {
         "Hash": "7nHFZfDjazo=",
-        "Meta": "[General]\ndirectURL=https://www.loverslab.com/files/file/18605-ocbpc-for-fallout-4/?do=download\u0026r=1098033\u0026confirm=1\u0026t=1",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/18605-ocbpc-for-fallout-4/?do=download\u0026r=1098033\u0026confirm=1\nprompt=DO NOT DOWNLOAD! READ README!!",
         "Name": "OCBPC-0.3-CBBE.zip",
         "Size": 219745,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://www.loverslab.com/files/file/18605-ocbpc-for-fallout-4/?do=download\u0026r=1098033\u0026confirm=1\u0026t=1"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "DO NOT DOWNLOAD! READ README!!",
+          "Url": "https://www.loverslab.com/files/file/18605-ocbpc-for-fallout-4/?do=download\u0026r=1098033\u0026confirm=1"
         }
       }
     },
@@ -1045,12 +1045,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "od/2ZvA02Rw=",
-        "Meta": "[General]\ndirectURL=https://www.loverslab.com/files/file/5983-my-animation-pack-updated-150423/?do=download\u0026r=1577928\u0026confirm=1\u0026t=1",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/5983-my-animation-pack-updated-150423/?do=download\u0026r=1577928\u0026confirm=1\u0026t=1\nprompt=DO NOT DOWNLOAD! READ README!!",
         "Name": "849639123_SavageCabbagesAnimationPackV1.3.0.7z",
         "Size": 111745792,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "DO NOT DOWNLOAD! READ README!!",
           "Url": "https://www.loverslab.com/files/file/5983-my-animation-pack-updated-150423/?do=download\u0026r=1577928\u0026confirm=1\u0026t=1"
         }
       }
@@ -1493,12 +1493,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "Hd8AGDylNAI=",
-        "Meta": "[General]\ndirectURL=https://www.loverslab.com/files/file/11729-vioxsis-strap-ons-of-fallout-4/?do=download",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/11729-vioxsis-strap-ons-of-fallout-4/?do=download\nprompt=DO NOT DOWNLOAD! READ README!!",
         "Name": "Vioxsis\u0027 Strap-On\u0027s of Fallout 4.7z",
         "Size": 24233350,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "DO NOT DOWNLOAD! READ README!!",
           "Url": "https://www.loverslab.com/files/file/11729-vioxsis-strap-ons-of-fallout-4/?do=download"
         }
       }
@@ -1856,12 +1856,12 @@
       "Status": "Valid",
       "Original": {
         "Hash": "l/a6A3K/FNw=",
-        "Meta": "[General]\ndirectURL=https://www.loverslab.com/files/file/17248-sex-education/?do=download\u0026r=1321129\u0026confirm=1\u0026t=1",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/17248-sex-education/?do=download\u0026r=1321129\u0026confirm=1\u0026t=1\nprompt=DO NOT DOWNLOAD! READ README!!",
         "Name": "Sex Education 1.22.zip",
         "Size": 355351,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "DO NOT DOWNLOAD! READ README!!",
           "Url": "https://www.loverslab.com/files/file/17248-sex-education/?do=download\u0026r=1321129\u0026confirm=1\u0026t=1"
         }
       }
@@ -3132,13 +3132,13 @@
       "Status": "Valid",
       "Original": {
         "Hash": "Aldujd/WeG0=",
-        "Meta": "[General]\ndirectURL=https://www.loverslab.com/files/file/7885-hookers-of-the-commonwealth-lite-aaf-patch/?do=download\u0026r=795340\u0026confirm=1\u0026t=1",
+        "Meta": "[General]\nmanualURL=https://www.loverslab.com/files/file/7885-hookers-of-the-commonwealth-lite-aaf-patch/?do=download\u0026r=795340\u0026confirm=1\nprompt=DO NOT DOWNLOAD! READ README!!",
         "Name": "HoTC Lite AAF patch V1.02.7z",
         "Size": 311062,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://www.loverslab.com/files/file/7885-hookers-of-the-commonwealth-lite-aaf-patch/?do=download\u0026r=795340\u0026confirm=1\u0026t=1"
+          "$type": "ManualDownloader, Wabbajack.Lib",
+          "Prompt": "DO NOT DOWNLOAD! READ README!!",
+          "Url": "https://www.loverslab.com/files/file/7885-hookers-of-the-commonwealth-lite-aaf-patch/?do=download\u0026r=795340\u0026confirm=1"
         }
       }
     },
@@ -5936,32 +5936,53 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "iAVjq3kjwWQ=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures7.ba2",
-        "Name": "Data_Fallout4 - Textures7.ba2",
-        "Size": 547749609,
+        "Hash": "mWHypI5laIo=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures4.ba2",
+        "Name": "Data_Fallout4 - Textures4.ba2",
+        "Size": 2005844637,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures7.ba2",
+          "GameFile": "Data\\Fallout4 - Textures4.ba2",
           "GameVersion": "1.10.984.0",
-          "Hash": "iAVjq3kjwWQ="
+          "Hash": "mWHypI5laIo="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "z6G0Qe+U11c=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures6.ba2",
-        "Name": "Data_Fallout4 - Textures6.ba2",
-        "Size": 1399972840,
+        "Hash": "CvFvclb54x8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=24830\nfileID=101255",
+        "Name": "Looks Menu Customization Compendium-24830-v10.rar",
+        "Size": 52328134,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AGodComplexPikachu CurioNC EmissaryOFWind JTesmer ANiceOakTree Kirse10 imAarwyn Robberfox RoboAsimov TrophiHunter Wendera ",
+          "Description": "A mod that adds hundreds of new options to customize your character such as face paint, tattoos, scars, makeup, brows, haircolors, etc~!",
+          "FileID": 101255,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/24830-2-1497316639.jpg",
+          "IsNSFW": false,
+          "ModID": 24830,
+          "Name": "Looks Menu Customization Compendium",
+          "Version": "v10"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2GOYPeXGmlU=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures3.ba2",
+        "Name": "Data_Fallout4 - Textures3.ba2",
+        "Size": 2095724697,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures6.ba2",
+          "GameFile": "Data\\Fallout4 - Textures3.ba2",
           "GameVersion": "1.10.984.0",
-          "Hash": "z6G0Qe+U11c="
+          "Hash": "2GOYPeXGmlU="
         }
       }
     },
@@ -5989,59 +6010,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XBlly1Btp40=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=23556\nfileID=164487",
-        "Name": "2b. Main Repack - Part Two-23556-1-0-1565980979.7z",
-        "Size": 8090229305,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BiRaitBec",
-          "Description": "Complete Modlist and Load Order Guide for Best Fallout 4 Modding Experience. Extreme Fallout 4 Engine \u0026amp; Textures Mods Optimization.",
-          "FileID": 164487,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23556/23556-1561383176-1822793169.jpeg",
-          "IsNSFW": false,
-          "ModID": 23556,
-          "Name": "Fallout 4 Mod List and Load Order Guide (BiRaitBec Modlist)",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "mWHypI5laIo=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures4.ba2",
-        "Name": "Data_Fallout4 - Textures4.ba2",
-        "Size": 2005844637,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures4.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "mWHypI5laIo="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2GOYPeXGmlU=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures3.ba2",
-        "Name": "Data_Fallout4 - Textures3.ba2",
-        "Size": 2095724697,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures3.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "2GOYPeXGmlU="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "LsNhrJ6et0k=",
         "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures1.ba2",
         "Name": "Data_Fallout4 - Textures1.ba2",
@@ -6058,16 +6026,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "D4p7/Fon2zw=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures2.ba2",
-        "Name": "Data_Fallout4 - Textures2.ba2",
-        "Size": 2420982983,
+        "Hash": "XBlly1Btp40=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=23556\nfileID=164487",
+        "Name": "2b. Main Repack - Part Two-23556-1-0-1565980979.7z",
+        "Size": 8090229305,
         "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures2.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "D4p7/Fon2zw="
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BiRaitBec",
+          "Description": "Complete Modlist and Load Order Guide for Best Fallout 4 Modding Experience. Extreme Fallout 4 Engine \u0026amp; Textures Mods Optimization.",
+          "FileID": 164487,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23556/23556-1561383176-1822793169.jpeg",
+          "IsNSFW": false,
+          "ModID": 23556,
+          "Name": "Fallout 4 Mod List and Load Order Guide (BiRaitBec Modlist)",
+          "Version": "1.0"
         }
       }
     },
@@ -6095,74 +6068,16 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "eQAdmhUI5qU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=23556\nfileID=164241",
-        "Name": "2c. Main Reapack - Part Three-23556-1-0-1565605113.7z",
-        "Size": 3100799827,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BiRaitBec",
-          "Description": "Complete Modlist and Load Order Guide for Best Fallout 4 Modding Experience. Extreme Fallout 4 Engine \u0026amp; Textures Mods Optimization.",
-          "FileID": 164241,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23556/23556-1561383176-1822793169.jpeg",
-          "IsNSFW": false,
-          "ModID": 23556,
-          "Name": "Fallout 4 Mod List and Load Order Guide (BiRaitBec Modlist)",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "r9atBo0vdWU=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Startup.ba2",
-        "Name": "Data_Fallout4 - Startup.ba2",
-        "Size": 46451365,
+        "Hash": "D4p7/Fon2zw=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures2.ba2",
+        "Name": "Data_Fallout4 - Textures2.ba2",
+        "Size": 2420982983,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Startup.ba2",
+          "GameFile": "Data\\Fallout4 - Textures2.ba2",
           "GameVersion": "1.10.984.0",
-          "Hash": "r9atBo0vdWU="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "eu5QrDBP6FE=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Main.ba2",
-        "Name": "Data_DLCRobot - Main.ba2",
-        "Size": 364112638,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\DLCRobot - Main.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "eu5QrDBP6FE="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "CvFvclb54x8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=24830\nfileID=101255",
-        "Name": "Looks Menu Customization Compendium-24830-v10.rar",
-        "Size": 52328134,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "AGodComplexPikachu CurioNC EmissaryOFWind JTesmer ANiceOakTree Kirse10 imAarwyn Robberfox RoboAsimov TrophiHunter Wendera ",
-          "Description": "A mod that adds hundreds of new options to customize your character such as face paint, tattoos, scars, makeup, brows, haircolors, etc~!",
-          "FileID": 101255,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/24830-2-1497316639.jpg",
-          "IsNSFW": false,
-          "ModID": 24830,
-          "Name": "Looks Menu Customization Compendium",
-          "Version": "v10"
+          "Hash": "D4p7/Fon2zw="
         }
       }
     },
@@ -6206,85 +6121,106 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "xrGg5bEPhsI=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Misc.ba2",
-        "Name": "Data_Fallout4 - Misc.ba2",
-        "Size": 17356927,
+        "Hash": "z6G0Qe+U11c=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures6.ba2",
+        "Name": "Data_Fallout4 - Textures6.ba2",
+        "Size": 1399972840,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Misc.ba2",
+          "GameFile": "Data\\Fallout4 - Textures6.ba2",
           "GameVersion": "1.10.984.0",
-          "Hash": "xrGg5bEPhsI="
+          "Hash": "z6G0Qe+U11c="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "pTLf+5d5EwM=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures5.ba2",
-        "Name": "Data_Fallout4 - Textures5.ba2",
-        "Size": 1965886787,
+        "Hash": "iAVjq3kjwWQ=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures7.ba2",
+        "Name": "Data_Fallout4 - Textures7.ba2",
+        "Size": 547749609,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures5.ba2",
+          "GameFile": "Data\\Fallout4 - Textures7.ba2",
           "GameVersion": "1.10.984.0",
-          "Hash": "pTLf+5d5EwM="
+          "Hash": "iAVjq3kjwWQ="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "CDVoY/wL7Kg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=30019\nfileID=122926",
-        "Name": "Collection of textures and presets for the girls-30019-3-0.zip",
-        "Size": 103798080,
+        "Hash": "eQAdmhUI5qU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=23556\nfileID=164241",
+        "Name": "2c. Main Reapack - Part Three-23556-1-0-1565605113.7z",
+        "Size": 3100799827,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Skarlett",
-          "Description": "A collection of textures for female character creation and Looksmenu presets for every NPC.",
-          "FileID": 122926,
+          "Author": "BiRaitBec",
+          "Description": "Complete Modlist and Load Order Guide for Best Fallout 4 Modding Experience. Extreme Fallout 4 Engine \u0026amp; Textures Mods Optimization.",
+          "FileID": 164241,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/30019/30019-1519497900-631914110.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/23556/23556-1561383176-1822793169.jpeg",
           "IsNSFW": false,
-          "ModID": 30019,
-          "Name": "Collection of textures and presets for the girls",
-          "Version": "3.0"
+          "ModID": 23556,
+          "Name": "Fallout 4 Mod List and Load Order Guide (BiRaitBec Modlist)",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HdqULXwG9I0=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures9.ba2",
-        "Name": "Data_Fallout4 - Textures9.ba2",
-        "Size": 866812818,
+        "Hash": "r9atBo0vdWU=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Startup.ba2",
+        "Name": "Data_Fallout4 - Startup.ba2",
+        "Size": 46451365,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures9.ba2",
+          "GameFile": "Data\\Fallout4 - Startup.ba2",
           "GameVersion": "1.10.984.0",
-          "Hash": "HdqULXwG9I0="
+          "Hash": "r9atBo0vdWU="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GO12EAP3jsM=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures8.ba2",
-        "Name": "Data_Fallout4 - Textures8.ba2",
-        "Size": 603820524,
+        "Hash": "ICb6VkQVY3E=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=31965\nfileID=130903",
+        "Name": "FSM Body Textures 5.0.1 - Base Female - Clean-31965-5-0-1.7z",
+        "Size": 563727373,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "deleted38450090",
+          "Description": "",
+          "FileID": 130903,
+          "GameName": "Fallout4",
+          "ImageURL": null,
+          "IsNSFW": true,
+          "ModID": 31965,
+          "Name": "",
+          "Version": "5.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eu5QrDBP6FE=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Main.ba2",
+        "Name": "Data_DLCRobot - Main.ba2",
+        "Size": 364112638,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Textures8.ba2",
+          "GameFile": "Data\\DLCRobot - Main.ba2",
           "GameVersion": "1.10.984.0",
-          "Hash": "GO12EAP3jsM="
+          "Hash": "eu5QrDBP6FE="
         }
       }
     },
@@ -6306,102 +6242,6 @@
           "ModID": 23556,
           "Name": "Fallout 4 Mod List and Load Order Guide (BiRaitBec Modlist)",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "JO30VXmk58A=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Textures.ba2",
-        "Name": "Data_DLCRobot - Textures.ba2",
-        "Size": 218554028,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\DLCRobot - Textures.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "JO30VXmk58A="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "SJv4oKpZOko=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4046-TesCan - Textures.ba2",
-        "Name": "Data_ccBGSFO4046-TesCan - Textures.ba2",
-        "Size": 13314205,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\ccBGSFO4046-TesCan - Textures.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "SJv4oKpZOko="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vc0CTLVB0ew=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Materials.ba2",
-        "Name": "Data_Fallout4 - Materials.ba2",
-        "Size": 1770496,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Materials.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "vc0CTLVB0ew="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "LCycwIgXDDQ=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop01 - Textures.ba2",
-        "Name": "Data_DLCworkshop01 - Textures.ba2",
-        "Size": 23240011,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\DLCworkshop01 - Textures.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "LCycwIgXDDQ="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4VzJFpoeSyY=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Shaders.ba2",
-        "Name": "Data_Fallout4 - Shaders.ba2",
-        "Size": 12845022,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\Fallout4 - Shaders.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "4VzJFpoeSyY="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "mdF5hLn/wvE=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4046-TesCan - Main.ba2",
-        "Name": "Data_ccBGSFO4046-TesCan - Main.ba2",
-        "Size": 18162265,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\ccBGSFO4046-TesCan - Main.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "mdF5hLn/wvE="
         }
       }
     },
@@ -6461,85 +6301,37 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ICb6VkQVY3E=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=31965\nfileID=130903",
-        "Name": "FSM Body Textures 5.0.1 - Base Female - Clean-31965-5-0-1.7z",
-        "Size": 563727373,
+        "Hash": "pTLf+5d5EwM=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures5.ba2",
+        "Name": "Data_Fallout4 - Textures5.ba2",
+        "Size": 1965886787,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures5.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "pTLf+5d5EwM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CDVoY/wL7Kg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=30019\nfileID=122926",
+        "Name": "Collection of textures and presets for the girls-30019-3-0.zip",
+        "Size": 103798080,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "deleted38450090",
-          "Description": "",
-          "FileID": 130903,
+          "Author": "Skarlett",
+          "Description": "A collection of textures for female character creation and Looksmenu presets for every NPC.",
+          "FileID": 122926,
           "GameName": "Fallout4",
-          "ImageURL": null,
-          "IsNSFW": true,
-          "ModID": 31965,
-          "Name": "",
-          "Version": "5.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "mHUbt5Zv0s4=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Voices_en.ba2",
-        "Name": "Data_DLCRobot - Voices_en.ba2",
-        "Size": 122977015,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\DLCRobot - Voices_en.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "mHUbt5Zv0s4="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Uupt2PEdxvs=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4115-X02 - Main.ba2",
-        "Name": "Data_ccBGSFO4115-X02 - Main.ba2",
-        "Size": 3914892,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\ccBGSFO4115-X02 - Main.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "Uupt2PEdxvs="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8FsAKiCCjJI=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4110-WS_Enclave - Main.ba2",
-        "Name": "Data_ccBGSFO4110-WS_Enclave - Main.ba2",
-        "Size": 39617,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\ccBGSFO4110-WS_Enclave - Main.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "8FsAKiCCjJI="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "VnmyvLSpre0=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4116-HeavyFlamer - Textures.ba2",
-        "Name": "Data_ccBGSFO4116-HeavyFlamer - Textures.ba2",
-        "Size": 16940585,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "Fallout4",
-          "GameFile": "Data\\ccBGSFO4116-HeavyFlamer - Textures.ba2",
-          "GameVersion": "1.10.984.0",
-          "Hash": "VnmyvLSpre0="
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/30019/30019-1519497900-631914110.jpeg",
+          "IsNSFW": false,
+          "ModID": 30019,
+          "Name": "Collection of textures and presets for the girls",
+          "Version": "3.0"
         }
       }
     },
@@ -6562,6 +6354,70 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "mdF5hLn/wvE=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4046-TesCan - Main.ba2",
+        "Name": "Data_ccBGSFO4046-TesCan - Main.ba2",
+        "Size": 18162265,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4046-TesCan - Main.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "mdF5hLn/wvE="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Uupt2PEdxvs=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4115-X02 - Main.ba2",
+        "Name": "Data_ccBGSFO4115-X02 - Main.ba2",
+        "Size": 3914892,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4115-X02 - Main.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "Uupt2PEdxvs="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LCycwIgXDDQ=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCworkshop01 - Textures.ba2",
+        "Name": "Data_DLCworkshop01 - Textures.ba2",
+        "Size": 23240011,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCworkshop01 - Textures.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "LCycwIgXDDQ="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4VzJFpoeSyY=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Shaders.ba2",
+        "Name": "Data_Fallout4 - Shaders.ba2",
+        "Size": 12845022,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Shaders.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "4VzJFpoeSyY="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "KLs6gf18kSc=",
         "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4110-WS_Enclave - Textures.ba2",
         "Name": "Data_ccBGSFO4110-WS_Enclave - Textures.ba2",
@@ -6578,32 +6434,80 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WZopB77M+oM=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4001-PipBoy(Black) - Textures.ba2",
-        "Name": "Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2",
-        "Size": 1477174,
+        "Hash": "VnmyvLSpre0=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4116-HeavyFlamer - Textures.ba2",
+        "Name": "Data_ccBGSFO4116-HeavyFlamer - Textures.ba2",
+        "Size": 16940585,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\ccBGSFO4001-PipBoy(Black) - Textures.ba2",
+          "GameFile": "Data\\ccBGSFO4116-HeavyFlamer - Textures.ba2",
           "GameVersion": "1.10.984.0",
-          "Hash": "WZopB77M+oM="
+          "Hash": "VnmyvLSpre0="
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "R3dZfK0lG/I=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4096-AS_Enclave - Textures.ba2",
-        "Name": "Data_ccBGSFO4096-AS_Enclave - Textures.ba2",
-        "Size": 12768659,
+        "Hash": "SJv4oKpZOko=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4046-TesCan - Textures.ba2",
+        "Name": "Data_ccBGSFO4046-TesCan - Textures.ba2",
+        "Size": 13314205,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\ccBGSFO4096-AS_Enclave - Textures.ba2",
+          "GameFile": "Data\\ccBGSFO4046-TesCan - Textures.ba2",
           "GameVersion": "1.10.984.0",
-          "Hash": "R3dZfK0lG/I="
+          "Hash": "SJv4oKpZOko="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HdqULXwG9I0=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures9.ba2",
+        "Name": "Data_Fallout4 - Textures9.ba2",
+        "Size": 866812818,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures9.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "HdqULXwG9I0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GO12EAP3jsM=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Textures8.ba2",
+        "Name": "Data_Fallout4 - Textures8.ba2",
+        "Size": 603820524,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Textures8.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "GO12EAP3jsM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xrGg5bEPhsI=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Misc.ba2",
+        "Name": "Data_Fallout4 - Misc.ba2",
+        "Size": 17356927,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\Fallout4 - Misc.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "xrGg5bEPhsI="
         }
       }
     },
@@ -6642,16 +6546,96 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "+c4e1xOdlkk=",
-        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4096-AS_Enclave - Main.ba2",
-        "Name": "Data_ccBGSFO4096-AS_Enclave - Main.ba2",
-        "Size": 11881,
+        "Hash": "vc0CTLVB0ew=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\Fallout4 - Materials.ba2",
+        "Name": "Data_Fallout4 - Materials.ba2",
+        "Size": 1770496,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "Fallout4",
-          "GameFile": "Data\\ccBGSFO4096-AS_Enclave - Main.ba2",
+          "GameFile": "Data\\Fallout4 - Materials.ba2",
           "GameVersion": "1.10.984.0",
-          "Hash": "+c4e1xOdlkk="
+          "Hash": "vc0CTLVB0ew="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mHUbt5Zv0s4=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Voices_en.ba2",
+        "Name": "Data_DLCRobot - Voices_en.ba2",
+        "Size": 122977015,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCRobot - Voices_en.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "mHUbt5Zv0s4="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8FsAKiCCjJI=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4110-WS_Enclave - Main.ba2",
+        "Name": "Data_ccBGSFO4110-WS_Enclave - Main.ba2",
+        "Size": 39617,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4110-WS_Enclave - Main.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "8FsAKiCCjJI="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "R3dZfK0lG/I=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4096-AS_Enclave - Textures.ba2",
+        "Name": "Data_ccBGSFO4096-AS_Enclave - Textures.ba2",
+        "Size": 12768659,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4096-AS_Enclave - Textures.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "R3dZfK0lG/I="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WZopB77M+oM=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4001-PipBoy(Black) - Textures.ba2",
+        "Name": "Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2",
+        "Size": 1477174,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4001-PipBoy(Black) - Textures.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "WZopB77M+oM="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "JO30VXmk58A=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\DLCRobot - Textures.ba2",
+        "Name": "Data_DLCRobot - Textures.ba2",
+        "Size": 218554028,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\DLCRobot - Textures.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "JO30VXmk58A="
         }
       }
     },
@@ -6673,6 +6657,22 @@
           "ModID": 51165,
           "Name": "F4 Creation Kit Fixes",
           "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+c4e1xOdlkk=",
+        "Meta": "[General]\ngameName=Fallout4\ngameFile=Data\\ccBGSFO4096-AS_Enclave - Main.ba2",
+        "Name": "Data_ccBGSFO4096-AS_Enclave - Main.ba2",
+        "Size": 11881,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "Fallout4",
+          "GameFile": "Data\\ccBGSFO4096-AS_Enclave - Main.ba2",
+          "GameVersion": "1.10.984.0",
+          "Hash": "+c4e1xOdlkk="
         }
       }
     }
