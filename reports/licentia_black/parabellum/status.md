@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (352)
+### Valid (382)
 *  [1387286231_UAPv2.6.64-1.7z](https://www.loverslab.com/files/file/11033-uap-ultimate-aaf-patch/?do=download)
 *  [2.1.0 CBBE BODY AND BODYSLIDES-22431-2-1-0-1709115070.7z](https://www.nexusmods.com/fallout4/mods/22431/?tab=files&file_id=305057)
 *  [2a. Main Repack - Part One-23556-1-0-1565616028.7z](https://www.nexusmods.com/fallout4/mods/23556/?tab=files&file_id=164245)
@@ -20,7 +20,6 @@
 *  [A Cannibal In Concord-14320-2-1.rar](https://www.nexusmods.com/fallout4/mods/14320/?tab=files&file_id=60741)
 *  [A Diamond City Story - Main File-40267-1-1-1630937815.7z](https://www.nexusmods.com/fallout4/mods/40267/?tab=files&file_id=216310)
 *  [A Diamond City Story - Smaller Textures-40267--95S-1570845669.7z](https://www.nexusmods.com/fallout4/mods/40267/?tab=files&file_id=168487)
-*  [A Strange Calling-24947-1-2.rar](https://www.nexusmods.com/fallout4/mods/24947/?tab=files&file_id=102202)
 *  [AAF Beta 161.1-31304-161-1b-1610914138.7z](https://www.nexusmods.com/fallout4/mods/31304/?tab=files&file_id=199240)
 *  [AAF_SEU_V1.19.7z](https://www.loverslab.com/files/file/7281-aaf-sex-em-up/?do=download&r=1734077&confirm=1&t=1)
 *  [AAF_VanillaKinkyCreatureAnimations_Themes_V210819.0.7z](https://www.loverslab.com/files/file/7720-fo4-aaf-themes-vanillasexanimations-kinkyaggressive-and-creaturesexanimations/?do=download&r=1115225&confirm=1)
@@ -33,6 +32,7 @@
 *  [Automatron Randomized Bots - Main File-39552-1-0-1560856512.zip](https://www.nexusmods.com/fallout4/mods/39552/?tab=files&file_id=160134)
 *  [Automatron Randomized Bots - Nuka World Patch-39552-1-0-1560856927.zip](https://www.nexusmods.com/fallout4/mods/39552/?tab=files&file_id=160139)
 *  [Autoswitch 1.5.10-23136-1-5-10-1576067876.zip](https://www.nexusmods.com/fallout4/mods/23136/?tab=files&file_id=172413)
+*  [BackportedBA2Support-1_0-81859-1-0-1714516128.zip](https://www.nexusmods.com/fallout4/mods/81859/?tab=files&file_id=313321)
 *  [Baka MaxPapyrusOps-73774-1-1-0-1691714351.rar](https://www.nexusmods.com/fallout4/mods/73774/?tab=files&file_id=286164)
 *  [BCR-HuntingShotgun-41339-1-0-2-1569767483.7z](https://www.nexusmods.com/fallout4/mods/41339/?tab=files&file_id=167679)
 *  [Better Console-26582-v1-4-0.7z](https://www.nexusmods.com/fallout4/mods/26582/?tab=files&file_id=120757)
@@ -56,7 +56,7 @@
 *  [Champollion-v1.1.3-x64.zip](https://github.com/Orvid/Champollion/releases/download/v1.1.3/Champollion-v1.1.3-x64.zip)
 *  [Chemist Fix-59508-1-0-1649438590.7z](https://www.nexusmods.com/fallout4/mods/59508/?tab=files&file_id=234302)
 *  [Children of Ug Qualtoth Patch-50089-1-0-1657504336.zip](https://www.nexusmods.com/fallout4/mods/50089/?tab=files&file_id=243044)
-*  [Children of Ug-Qualtoth Redux - BA2-43527-2-0-1639895377.zip](https://www.nexusmods.com/fallout4/mods/43527/?tab=files&file_id=224234)
+*  [Children of Ug-Qualtoth Redux - BA2-43527-2-1-1717527626.zip](https://www.nexusmods.com/fallout4/mods/43527/?tab=files&file_id=321052)
 *  [Classy Chassis Outfits - Heather Casdin v2 Replacer (CBBE)-53133-2-0-1673881925.7z](https://www.nexusmods.com/fallout4/mods/53133/?tab=files&file_id=263769)
 *  [Clock Widget-26759-v1-4-0.7z](https://www.nexusmods.com/fallout4/mods/26759/?tab=files&file_id=120758)
 *  [Collection of textures and presets for the girls-30019-3-0.zip](https://www.nexusmods.com/fallout4/mods/30019/?tab=files&file_id=122926)
@@ -73,8 +73,24 @@
 *  [Cryolator Cryo-Cell Fix-15985-1-00.rar](https://www.nexusmods.com/fallout4/mods/15985/?tab=files&file_id=63878)
 *  cudart64_75.dll
 *  [Dark Blood Radio-46639-1-3-1596343168.7z](https://www.nexusmods.com/fallout4/mods/46639/?tab=files&file_id=188179)
+*  Data_ccBGSFO4001-PipBoy(Black) - Main.ba2
 *  Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2
+*  Data_ccBGSFO4003-PipBoy(Camo01) - Main.ba2
+*  Data_ccBGSFO4003-PipBoy(Camo01) - Textures.ba2
+*  Data_ccBGSFO4004-PipBoy(Camo02) - Main.ba2
+*  Data_ccBGSFO4004-PipBoy(Camo02) - Textures.ba2
+*  Data_ccBGSFO4006-PipBoy(Chrome) - Main.ba2
+*  Data_ccBGSFO4006-PipBoy(Chrome) - Textures.ba2
+*  Data_ccBGSFO4016-Prey - Main.ba2
+*  Data_ccBGSFO4016-Prey - Textures.ba2
+*  Data_ccBGSFO4018-GaussRiflePrototype - Main.ba2
+*  Data_ccBGSFO4018-GaussRiflePrototype - Textures.ba2
+*  Data_ccBGSFO4019-ChineseStealthArmor - Main.ba2
+*  Data_ccBGSFO4019-ChineseStealthArmor - Textures.ba2
+*  Data_ccBGSFO4020-PowerArmorSkin(Black) - Main.ba2
+*  Data_ccBGSFO4020-PowerArmorSkin(Black) - Textures.ba2
 *  Data_ccBGSFO4038-HorseArmor - Main.ba2
+*  Data_ccBGSFO4038-HorseArmor - Textures.ba2
 *  Data_ccBGSFO4044-HellfirePowerArmor - Main.ba2
 *  Data_ccBGSFO4044-HellfirePowerArmor - Textures.ba2
 *  Data_ccBGSFO4044-HellfirePowerArmor.esl
@@ -93,6 +109,21 @@
 *  Data_ccBGSFO4116-HeavyFlamer - Main.ba2
 *  Data_ccBGSFO4116-HeavyFlamer - Textures.ba2
 *  Data_ccBGSFO4116-HeavyFlamer.esl
+*  Data_ccFRSFO4001-HandmadeShotgun - Main.ba2
+*  Data_ccFRSFO4001-HandmadeShotgun - Textures.ba2
+*  Data_ccFSVFO4001-ModularMilitaryBackpack - Main.ba2
+*  Data_ccFSVFO4001-ModularMilitaryBackpack - Textures.ba2
+*  Data_ccFSVFO4002-MidCenturyModern - Main.ba2
+*  Data_ccFSVFO4002-MidCenturyModern - Textures.ba2
+*  Data_ccFSVFO4007-Halloween - Main.ba2
+*  Data_ccFSVFO4007-Halloween - Textures.ba2
+*  Data_ccFSVFO4007-Halloween.esl
+*  Data_ccOTMFO4001-Remnants - Main.ba2
+*  Data_ccOTMFO4001-Remnants - Textures.ba2
+*  Data_ccOTMFO4001-Remnants.esl
+*  Data_ccSBJFO4003-Grenade - Main.ba2
+*  Data_ccSBJFO4003-Grenade - Textures.ba2
+*  Data_ccSBJFO4003-Grenade.esl
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
 *  Data_DLCCoast - Textures.ba2
@@ -175,10 +206,9 @@
 *  [Epilogue Restored-12183-1-0.7z](https://www.nexusmods.com/fallout4/mods/12183/?tab=files&file_id=48438)
 *  [Everyone's Best Friend v3.0.0-13459-3-0-0.rar](https://www.nexusmods.com/fallout4/mods/13459/?tab=files&file_id=88106)
 *  [Extended Dialogue Interface 1.3.6-27216-1-3-6-1575706721.zip](https://www.nexusmods.com/fallout4/mods/27216/?tab=files&file_id=172181)
-*  [F4 Creation Kit Fixes-51165-2-0-1667718181.7z](https://www.nexusmods.com/fallout4/mods/51165/?tab=files&file_id=255934)
 *  [FaceMaxsonV2_9-21923-2-9.7z](https://www.nexusmods.com/fallout4/mods/21923/?tab=files&file_id=97510)
 *  [Faded Glory - A Post-Apocalyptic Soundscape-26014-5-1-1596838402.7z](https://www.nexusmods.com/fallout4/mods/26014/?tab=files&file_id=188642)
-*  [FainthearthManorESP-49552-2-1-1612631057.zip](https://www.nexusmods.com/fallout4/mods/49552/?tab=files&file_id=200857)
+*  [Fainthearth Manor New-79556-1-3-1712170027.zip](https://www.nexusmods.com/fallout4/mods/79556/?tab=files&file_id=308977)
 *  [Fallout 4 - Point Lookout-60330-1-1652278869.rar](https://www.nexusmods.com/fallout4/mods/60330/?tab=files&file_id=237355)
 *  [Fallout 4 Configuration Tool-102-1-3-5-2024.zip](https://www.nexusmods.com/fallout4/mods/102/?tab=files&file_id=71172)
 *  [Fallout 4 Point Lookout - Patch - 1.14-60330-1-14-1656782011.rar](https://www.nexusmods.com/fallout4/mods/60330/?tab=files&file_id=242233)
@@ -337,7 +367,7 @@
 *  [The Whitman Family Fallout Shelter-42051-1-2-1573699791.rar](https://www.nexusmods.com/fallout4/mods/42051/?tab=files&file_id=170845)
 *  Ultra.ini
 *  [Underwater Glass Fix - ESL flagged ESP-58671-1-1-1647366687.7z](https://www.nexusmods.com/fallout4/mods/58671/?tab=files&file_id=232096)
-*  [Unofficial Fallout 4 Patch-4598-2-1-4-1658972157.7z](https://www.nexusmods.com/fallout4/mods/4598/?tab=files&file_id=244732)
+*  [Unofficial Fallout 4 Patch-4598-2-1-6d-1715722851.7z](https://www.nexusmods.com/fallout4/mods/4598/?tab=files&file_id=316548)
 *  [Unused Map Markers - Cut Content Restored-64009-1-0-1662387190.zip](https://www.nexusmods.com/fallout4/mods/64009/?tab=files&file_id=249604)
 *  [Valentine Jaw Sync-42985-1-0-1578874429.7z](https://www.nexusmods.com/fallout4/mods/42985/?tab=files&file_id=174235)
 *  [Valentine REBORN - HD Retexture - V2 - Blue Eyes-9568-2-0.7z](https://www.nexusmods.com/fallout4/mods/9568/?tab=files&file_id=90547)
@@ -352,8 +382,8 @@
 *  [Weapon Debris Crash Fix-48078-1-2-1605028967.zip](https://www.nexusmods.com/fallout4/mods/48078/?tab=files&file_id=194684)
 *  [Whisky's Tunes-62053-2-1-1672604397.7z](https://www.nexusmods.com/fallout4/mods/62053/?tab=files&file_id=262041)
 *  [Widow Shotgun - Fixed Barrel attachments-19619-1-1.rar](https://www.nexusmods.com/fallout4/mods/19619/?tab=files&file_id=80310)
+*  [Workshop Framework Script Override-35004-2-3-19-1710524779.zip](https://www.nexusmods.com/fallout4/mods/35004/?tab=files&file_id=306890)
 *  [Workshop Framework-35004-2-4-0-1717169809.zip](https://www.nexusmods.com/fallout4/mods/35004/?tab=files&file_id=320224)
 *  [Xanders Aid 3.0-17050-3-0-1590215007.zip](https://www.nexusmods.com/fallout4/mods/17050/?tab=files&file_id=182571)
-*  [xEdit.4.1.5c.EXTREMELY.EXPERIMENTAL.7z](https://github.com/TES5Edit/TES5Edit/releases/download/xedit-4.1.5c/xEdit.4.1.5c.EXTREMELY.EXPERIMENTAL.7z)
 *  [xSE PluginPreloader F4 0.2.5.1-33946-0-2-5-1-1637347868.zip](https://www.nexusmods.com/fallout4/mods/33946/?tab=files&file_id=221778)
 *  [ZeX - ZaZ Extended Skeleton-36702-6-0-1687293851.zip](https://www.nexusmods.com/fallout4/mods/36702/?tab=files&file_id=281082)
