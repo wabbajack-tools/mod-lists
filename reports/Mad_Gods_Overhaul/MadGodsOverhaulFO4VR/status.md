@@ -1,4 +1,4 @@
-## Validation Report - Mad God Overhaul Classic (Mad_Gods_Overhaul/MadGodsOverhaulFO4VR)
+## Validation Report - Mad God Overhaul (Mad_Gods_Overhaul/MadGodsOverhaulFO4VR)
 
 
 ### Invalid (0)
