@@ -359,4 +359,4 @@
 *  [Yves Hair Gallery-4239-2-0-1700996766.zip](https://www.nexusmods.com/baldursgate3/mods/4239/?tab=files&file_id=30656)
 *  [Zealot5e.zip-5587-1-4-1-1715309888.zip](https://www.nexusmods.com/baldursgate3/mods/5587/?tab=files&file_id=56547)
 *  [zzz_Listo Mod Order for BG3MM.zip-8976-v0-9-9-6-1717272817.zip](https://www.nexusmods.com/baldursgate3/mods/8976/?tab=files&file_id=59566)
-*  [zzz_Listo Mod Settings-8976-v0-9-9-7-1718146338.zip](https://www.nexusmods.com/baldursgate3/mods/8976/?tab=files&file_id=60689)
+*  [zzz_Listo Mod Order for BG3MM.zip-8976-v0-9-9-7-1718208551.zip](https://www.nexusmods.com/baldursgate3/mods/8976/?tab=files&file_id=60738)
