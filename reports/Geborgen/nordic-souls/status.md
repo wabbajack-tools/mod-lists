@@ -1141,7 +1141,7 @@
 *  [NS - Character Presets-93176-1-10-1716591179.7z](https://www.nexusmods.com/skyrimspecialedition/mods/93176/?tab=files&file_id=504532)
 *  [NS - DynDOLOD Output-77497-2-4-0-1718054610.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77497/?tab=files&file_id=510373)
 *  [NS - Nemesis Output-77497-2-4-0-1718054631.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77497/?tab=files&file_id=510374)
-*  [NS - Synthesis Output-77497-2-4-0-1718054664.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77497/?tab=files&file_id=510375)
+*  [NS - Synthesis Output-77497-2-4-0-1-1718244986.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77497/?tab=files&file_id=511064)
 *  [NS - TexGen Output-77497-2-4-0-1718054699.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77497/?tab=files&file_id=510376)
 *  [NS - xLODGen Output-77497-2-4-0-1718054940.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77497/?tab=files&file_id=510379)
 *  [NVIDIA Reflex Support-74498-1-1-2-1674832681.zip](https://www.nexusmods.com/skyrimspecialedition/mods/74498/?tab=files&file_id=353518)
