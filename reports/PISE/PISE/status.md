@@ -1,10 +1,11 @@
 ## Validation Report - Panda's Sovngarde (PISE/PISE)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [beta_program_1-20210923T201648Z-001.zip](https://developer.download.nvidia.com/assets/gameworks/downloads/regular/dlss/beta_program_1-20210923T201648Z-001.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2008)
+### Valid (2007)
 *  [(2) Alchemy Station Variants - Continuous Swap ENB-92768-1-4-1-1705038504.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=460512)
 *  [(Skyrim VR) SSE Fixes v3 for Skyrim VR 1.4.15-10547-3VR-1-4-15.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10547/?tab=files&file_id=55872)
 *  [1. Majestic Mountains Main File-11052-4-02-1665910537.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=324452)
@@ -162,7 +163,6 @@
 *  [Believable weapons SE-37737-1-0-2-1593641428.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37737/?tab=files&file_id=148339)
 *  [Bells of Skyrim - All-in-one installer-10495-1-2-5.zip](https://www.nexusmods.com/skyrimspecialedition/mods/10495/?tab=files&file_id=54286)
 *  [Bellyaches Animal and Creature Pack SSE-6839-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6839/?tab=files&file_id=36649)
-*  [beta_program_1-20210923T201648Z-001.zip](https://developer.download.nvidia.com/assets/gameworks/downloads/regular/dlss/beta_program_1-20210923T201648Z-001.zip)
 *  [Better Apple 2K SSE Version-70507-1-1-2-1659866604.zip](https://www.nexusmods.com/skyrimspecialedition/mods/70507/?tab=files&file_id=305321)
 *  [Better Argonian Horns-80568-2-1-1-1686527206.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80568/?tab=files&file_id=397099)
 *  [Better Bread 2K SSE Version-70546-1-1-2-1659867244.zip](https://www.nexusmods.com/skyrimspecialedition/mods/70546/?tab=files&file_id=305328)

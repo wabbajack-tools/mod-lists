@@ -1,10 +1,11 @@
 ## Validation Report - FUS (wj-featured/fus)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [beta_program_1-20210923T201648Z-001.zip](https://developer.download.nvidia.com/assets/gameworks/downloads/regular/dlss/beta_program_1-20210923T201648Z-001.zip)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (515)
+### Valid (514)
 *  [1_Cathedral - 3D Deathbell-76460-1-1-1664789773.zip](https://www.nexusmods.com/skyrimspecialedition/mods/76460/?tab=files&file_id=321269)
 *  [1_Cathedral - 3D Dragons Tongue - Dark Orange-85694-1-2-1677328513.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85694/?tab=files&file_id=363180)
 *  [1_Cathedral - 3D Nightshade-81284-2-4-1672997434.zip](https://www.nexusmods.com/skyrimspecialedition/mods/81284/?tab=files&file_id=347159)
@@ -55,7 +56,6 @@
 *  [Behavior Data Injector Universal Support-78159-v0-13-0-1-1679695849.zip](https://www.nexusmods.com/skyrimspecialedition/mods/78159/?tab=files&file_id=371751)
 *  [Behavior Data Injector-78146-v0-13-1667564855.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78146/?tab=files&file_id=328879)
 *  [Believable weapons-37737-1-5-1643576065.7z](https://www.nexusmods.com/skyrimspecialedition/mods/37737/?tab=files&file_id=260562)
-*  [beta_program_1-20210923T201648Z-001.zip](https://developer.download.nvidia.com/assets/gameworks/downloads/regular/dlss/beta_program_1-20210923T201648Z-001.zip)
 *  [Better Dynamic Ash SE v2.1.1-54754-2-1-1-1630276704.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54754/?tab=files&file_id=224790)
 *  [Better Dynamic Snow SE v3.3-9121-3-3-1610497942.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9121/?tab=files&file_id=179210)
 *  [Better Resource Warnings-26751-2-2-1609018535.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26751/?tab=files&file_id=176284)
