@@ -1254,7 +1254,7 @@
 *  [RUSTIC SPRIGGAN - Special Edition - 2K-18107-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18107/?tab=files&file_id=57795)
 *  [Rustic_Noble_UVfix_fix-86539-1-2-1679068278.zip](https://www.nexusmods.com/skyrimspecialedition/mods/86539/?tab=files&file_id=369399)
 *  [Rydin Animations SLAL Pack_Complete_SSE v0.5a.7z](https://www.loverslab.com/files/file/9187-rydins-animations-resource-pack/?do=download)
-*  [RZAZZ_1.00_SE.zip](https://www.loverslab.com/files/file/23031-rohzimas-new-animated-poser-for-skyrim-lese-rzazz/?do=download&r=1609984&confirm=1)
+*  [RZAZZ_1.001_SE.zip](https://www.loverslab.com/files/file/23031-rohzimas-new-animated-poser-for-skyrim-lese-rzazz/?do=download&r=1966853&confirm=1&t=1)
 *  [Sabrecat.2k-5303-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5303/?tab=files&file_id=11599)
 *  [Sacrosanct - Path of Sorcery patch-46993-1-0-1615717032.rar](https://www.nexusmods.com/skyrimspecialedition/mods/46993/?tab=files&file_id=191417)
 *  [Sacrosanct 6.0.0-3928-6-0-0-1689846876.zip](https://www.nexusmods.com/skyrimspecialedition/mods/3928/?tab=files&file_id=408797)
