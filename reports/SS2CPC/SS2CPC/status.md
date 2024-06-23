@@ -288,7 +288,7 @@
 *  [SS2_Addon_TradersParadise.zip-82848-1-0-1-1715923989.zip](https://www.nexusmods.com/fallout4/mods/82848/?tab=files&file_id=317029)
 *  [SS2_AddOnPack_MsB'sPlainPlans V1.1-62383-1-1-1659236702.rar](https://www.nexusmods.com/fallout4/mods/62383/?tab=files&file_id=245126)
 *  [SS2_Nora's Commonwealth Reconstruction Project-76893-1-4-1710191694.7z](https://www.nexusmods.com/fallout4/mods/76893/?tab=files&file_id=306499)
-*  [SS2Addon MS Bare Essentials-50362-1-3-1-1716471261.zip](https://www.nexusmods.com/fallout4/mods/50362/?tab=files&file_id=318473)
+*  [SS2Addon MS Bare Essentials-50362-1-4-0-1718495806.zip](https://www.nexusmods.com/fallout4/mods/50362/?tab=files&file_id=322953)
 *  [SS2RobotMod-50277-1-0-1613942077.7z](https://www.nexusmods.com/fallout4/mods/50277/?tab=files&file_id=202063)
 *  [SSEEdit 4.0.4-164-4-0-4-1636548642.7z](https://www.nexusmods.com/skyrimspecialedition/mods/164/?tab=files&file_id=240322)
 *  [Starlight DriveIn Vanilla Navmesh Update by Vilance - ESL-70086-1-0-1680132308.7z](https://www.nexusmods.com/fallout4/mods/70086/?tab=files&file_id=272332)
