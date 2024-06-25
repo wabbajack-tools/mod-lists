@@ -893,7 +893,7 @@
 *  [Vintage Shotgun-72122-1-4-1698870156.zip](https://www.nexusmods.com/fallout4/mods/72122/?tab=files&file_id=293137)
 *  [Wasteland Chaingun-76110-1-3-1701618590.zip](https://www.nexusmods.com/fallout4/mods/76110/?tab=files&file_id=295746)
 *  [Wasteland Legend's Trench Coat-26039-4.zip](https://www.nexusmods.com/fallout4/mods/26039/?tab=files&file_id=107989)
-*  [Wasteland Reborn Master Patch-79923-0-9-0-1719240315.zip](https://www.nexusmods.com/fallout4/mods/79923/?tab=files&file_id=324229)
+*  [Wasteland Reborn Master Patch-79923-0-9-0-1b-1719263549.zip](https://www.nexusmods.com/fallout4/mods/79923/?tab=files&file_id=324262)
 *  [Wattz Laser Gun - Unofficial Update Additions-80091-v1-2-5-1718753304.zip](https://www.nexusmods.com/fallout4/mods/80091/?tab=files&file_id=323461)
 *  [Wattz Laser Gun - Unofficial Update-58067-2-2-2-1689277166.zip](https://www.nexusmods.com/fallout4/mods/58067/?tab=files&file_id=283232)
 *  [Wattz Laser Gun-26386-1-3-1.zip](https://www.nexusmods.com/fallout4/mods/26386/?tab=files&file_id=110924)
