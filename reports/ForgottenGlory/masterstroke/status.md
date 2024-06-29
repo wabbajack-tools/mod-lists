@@ -1,10 +1,12 @@
 ## Validation Report - Masterstroke (ForgottenGlory/masterstroke)
 
 
-### Invalid (0)
+### Invalid (2)
+*  [[Dint999] FacePartMod (SSE)  v0.6b.7z](https://drive.google.com/uc?id=1RQl8ki73fgLnzBZn6EWjneuW4Dk8TUO_&export=download)
+*  [High Poly Head v1.4 (SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1369)
+### Valid (1367)
 *  [- Miri - Standalone Hybrid Khajiit Follower-25288-1-0-1556046293.zip](https://www.nexusmods.com/skyrimspecialedition/mods/25288/?tab=files&file_id=89429)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -17,7 +19,6 @@
 *  [(SJG) Quick Light Patch-19879-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19879/?tab=files&file_id=65715)
 *  [[BAKU]DOAXVV Reincarnation Rasha 3BA.7z](https://www.patreon.com/file?h=96896557&i=17389866)
 *  [[Cloud] Layered Gowns - 3BA.zip](https://www.mediafire.com/file/kui619aljunjssg/%255BCloud%255D_Layered_Gowns_-_3BA.zip/file)
-*  [[Dint999] FacePartMod (SSE)  v0.6b.7z](https://drive.google.com/uc?id=1RQl8ki73fgLnzBZn6EWjneuW4Dk8TUO_&export=download)
 *  [[SE] Dint999 BDO Sor LumiK SMP 3BA by em486.7z](https://www.loverslab.com/files/file/13922-se-dint999s-bdo-sor-lumik-smp-3ba/?do=download)
 *  [04 - Leyenda Skin 4.0 CBBE 4K SSE-10306-4-0_6d0ce4f46e42840d957822b13b33cd8c1168f22f0a74ed8bf2e5da88130ee909_.7z](https://www.nexusmods.com/skyrimspecialedition/mods/10306/?tab=files&file_id=27370)
 *  [1. Majestic Mountains Main File-11052-3-2-1604048751.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=167707)
@@ -567,7 +568,6 @@
 *  [High Hrothgar Pilgrim Chest-33052-1-1-1-1633424138.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33052/?tab=files&file_id=232736)
 *  [High Poly Blackreach Mushrooms-40418-1-1-1617711701.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40418/?tab=files&file_id=196429)
 *  [High Poly Gleamblossoms - ENB Light-40278-1-2-1626461597.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40278/?tab=files&file_id=214944)
-*  [High Poly Head v1.4 (SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 *  [High Poly Project-12029-v5-3-1634909383.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=236420)
 *  [High Poly Vanilla Hair-41863-3-0f-1612286321.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41863/?tab=files&file_id=183572)
 *  High.ini
