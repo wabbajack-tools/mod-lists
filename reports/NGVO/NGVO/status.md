@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1425)
+### Valid (1424)
 *  [- Skyrim 202X - 1K-68307-10-0-1-1710639844.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68307/?tab=files&file_id=481353)
 *  [(DAR)Draugr Magic Loop Casting Animation-73876-1-1-1673588520.rar](https://www.nexusmods.com/skyrimspecialedition/mods/73876/?tab=files&file_id=349080)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
@@ -367,7 +367,6 @@
 *  [DDS Workshop - Scars Retexture.7z](https://authored-files.wabbajack.org/DDS Workshop - Scars Retexture.7z_a1cd40e9-aadc-4a1b-97ae-ed1c2d139a47)
 *  [Deadly Spell Impacts v1_70-12939-1-70.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12939/?tab=files&file_id=36481)
 *  [Dear Diary Dark Mode (texts - white color)-60837-1-1-1-1667594519.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60837/?tab=files&file_id=328989)
-*  Debug.log
 *  [Default eye retexture-68912-2-1-1683033043.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68912/?tab=files&file_id=384057)
 *  [Deiform Alduin Particle Lights-44329-1-1-1610655111.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44329/?tab=files&file_id=179501)
 *  [Detailed Rugs SE v1-5-9030-1-5.rar](https://www.nexusmods.com/skyrimspecialedition/mods/9030/?tab=files&file_id=52553)

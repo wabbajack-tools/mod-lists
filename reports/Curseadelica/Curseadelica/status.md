@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (983)
+### Valid (984)
 *  [.1130 _ResourcePack Fixes-117234-1-1-1713954347.rar](https://www.nexusmods.com/skyrimspecialedition/mods/117234/?tab=files&file_id=494280)
 *  [(CaS SE) Crimes against Skyrim - 1.0-3441-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/3441/?tab=files&file_id=35192)
 *  [(ESL) Chicks and Chickens SE-110087-2-1-1706197521.7z](https://www.nexusmods.com/skyrimspecialedition/mods/110087/?tab=files&file_id=464709)
@@ -237,6 +237,7 @@
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
 *  Data_MarketplaceTextures.bsa
+*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -357,7 +358,6 @@
 *  [Froggy Chair(s)-41247-1-0-1602300535.rar](https://www.nexusmods.com/skyrimspecialedition/mods/41247/?tab=files&file_id=164711)
 *  [Frogs (se-ae)- 4k textures-120998-1-1717429143.rar](https://www.nexusmods.com/skyrimspecialedition/mods/120998/?tab=files&file_id=507927)
 *  [Frosty the Snowman Follower-6578-1-00.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6578/?tab=files&file_id=15545)
-*  [Furca The Fork Merchant Special Edition-67403-1-0-1651436544.zip](https://www.nexusmods.com/skyrimspecialedition/mods/67403/?tab=files&file_id=280877)
 *  [Fuz Ro D'oh-15109-2-5-1706039953.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15109/?tab=files&file_id=464222)
 *  [Gandalf the Grey 1.02-20170-1-02-1540760139.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20170/?tab=files&file_id=70623)
 *  [Garlic - A Garlic Mod-78848-0-2-1668628715.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78848/?tab=files&file_id=332392)
@@ -768,6 +768,7 @@
 *  Skyrim.ccc
 *  [Skyrim's Got Talent-50357-1-70-1706046902.rar](https://www.nexusmods.com/skyrimspecialedition/mods/50357/?tab=files&file_id=464240)
 *  [skyrimions-71351-2-1657876177.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71351/?tab=files&file_id=299097)
+*  SkyrimReservedAddOnIndexes.txt
 *  [Skyrims Unique Treasures SE-5261-4-7-1703367806.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5261/?tab=files&file_id=454562)
 *  SkyrimSE.exe
 *  SkyrimSELauncher.exe
