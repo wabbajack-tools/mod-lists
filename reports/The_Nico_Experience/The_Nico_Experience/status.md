@@ -1677,7 +1677,7 @@
 *  [Update for both versions-26532-2-0-1566671103.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26532/?tab=files&file_id=104199)
 *  [Upgrades for Nico Weapons-53598-1-0-1628618674.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53598/?tab=files&file_id=220215)
 *  [upot anniversary edition-21166-v10-1636943358.7z](https://www.nexusmods.com/skyrimspecialedition/mods/21166/?tab=files&file_id=241623)
-*  [UpscalerBasePlugin-502-1-1-2-1693443305.zip](https://www.nexusmods.com/skyrimspecialedition/mods/1693443305/?tab=files&file_id=0)
+*  [UpscalerBasePlugin-502-1-1-2-1693443305.zip](https://www.nexusmods.com/site/mods/502/?tab=files&file_id=2293)
 *  [Usable Unlit Campfires - A Campfire Addon-108712-1-0-1704683344.7z](https://www.nexusmods.com/skyrimspecialedition/mods/108712/?tab=files&file_id=459041)
 *  [Use Or Take SKSE-70868-1-2-0-1679518531.7z](https://www.nexusmods.com/skyrimspecialedition/mods/70868/?tab=files&file_id=371142)
 *  [Use Those Blankets Campfire Patch-75481-2-0-1670754421.zip](https://www.nexusmods.com/skyrimspecialedition/mods/75481/?tab=files&file_id=339596)
