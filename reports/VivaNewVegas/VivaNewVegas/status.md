@@ -96,7 +96,7 @@
 *  [LOD Vertex Color Fixes-87661-1-03-1718545628.7z](https://www.nexusmods.com/newvegas/mods/87661/?tab=files&file_id=1000134359)
 *  [LODadditions-61206-1-07-1604265497.7z](https://www.nexusmods.com/newvegas/mods/61206/?tab=files&file_id=1000067094)
 *  [LODIFY FNV Wall_SoGB Editon-84165-0-8-1-1708270337.7z](https://www.nexusmods.com/newvegas/mods/84165/?tab=files&file_id=1000123914)
-*  [Lone Star-87935-1-5-1720063546.7z](https://www.nexusmods.com/newvegas/mods/87935/?tab=files&file_id=1000135564)
+*  [Lone Star-87935-1-8-1720182675.7z](https://www.nexusmods.com/newvegas/mods/87935/?tab=files&file_id=1000135647)
 *  [lStewieAl - Cookable Grenades-81678-1-0-1692310563.zip](https://www.nexusmods.com/newvegas/mods/81678/?tab=files&file_id=1000114959)
 *  [lStewieAl - Menu Search-81743-1-0-1692310380.zip](https://www.nexusmods.com/newvegas/mods/81743/?tab=files&file_id=1000114957)
 *  [MAC-10-83815-6-0-1716388459.zip](https://www.nexusmods.com/newvegas/mods/83815/?tab=files&file_id=1000131933)
