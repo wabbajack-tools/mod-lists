@@ -143,7 +143,7 @@
 *  [Trap Tweaks NV-78916-1-02-1689989249.rar](https://www.nexusmods.com/newvegas/mods/78916/?tab=files&file_id=1000113434)
 *  [Trees LOD Billboards Vanilla-58562-1-1.zip](https://www.nexusmods.com/newvegas/mods/58562/?tab=files&file_id=1000047670)
 *  [UIO - User Interface Organizer-57174-2-30-1629600625.7z](https://www.nexusmods.com/newvegas/mods/57174/?tab=files&file_id=1000080073)
-*  [Uncut Wasteland - VNV Edit-79358-1-0-1720102309.7z](https://www.nexusmods.com/newvegas/mods/79358/?tab=files&file_id=1000135582)
+*  [Uncut Wasteland - VNV Edit-79358-1-0-1720208624.7z](https://www.nexusmods.com/newvegas/mods/79358/?tab=files&file_id=1000135666)
 *  [Unofficial Patch NVSE Plus-71239-1-4-9-1705434043.7z](https://www.nexusmods.com/newvegas/mods/71239/?tab=files&file_id=1000122027)
 *  [Vanilla Enhancements Merged-78877-1-3-8-1716831572.7z](https://www.nexusmods.com/newvegas/mods/78877/?tab=files&file_id=1000132582)
 *  [Vanilla_UI_Plus_New_Vegas_948.1.7z](https://github.com/Qolore7/the-sands/releases/download/vanilla-ui-plus/Vanilla.UI.Plus.9.48.7z)
