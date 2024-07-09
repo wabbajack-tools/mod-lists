@@ -1,10 +1,11 @@
 ## Validation Report - Magnum Opus (wj-featured/magnum_opus)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [MoreHairstyles-Beards.rar](http://www.mediafire.com/file/iztz7iidy6djz1e/MoreHairstyles-Beards.rar/file)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (961)
+### Valid (960)
 *  [0001. Weapon QuickSwap 3-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108861)
 *  [0002. FastPipboy-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=89711)
 *  [1.5 Loosefiles-50213-1-5-1664847287.7z](https://www.nexusmods.com/fallout4/mods/50213/?tab=files&file_id=252419)
@@ -570,7 +571,6 @@
 *  [More Feral Ghouls. A Zombie Mod-43441-3-5-1668501184.rar](https://www.nexusmods.com/fallout4/mods/43441/?tab=files&file_id=257013)
 *  [More Obvious Low Health - Grey-scale Version-13377-1-0.rar](https://www.nexusmods.com/fallout4/mods/13377/?tab=files&file_id=52886)
 *  [More Outfit Variations v1.6 (Vanilla)-27925-1-6-1544362545.zip](https://www.nexusmods.com/fallout4/mods/27925/?tab=files&file_id=147607)
-*  [MoreHairstyles-Beards.rar](http://www.mediafire.com/file/iztz7iidy6djz1e/MoreHairstyles-Beards.rar/file)
 *  [Mossberg 500 - Update-46120-1-0b-1594754318.zip](https://www.nexusmods.com/fallout4/mods/46120/?tab=files&file_id=186822)
 *  [Mossberg 500-46120-1-0-1594223342.zip](https://www.nexusmods.com/fallout4/mods/46120/?tab=files&file_id=186319)
 *  [MS SS2 Unlock Vanilla Recruitable Vendors-59904-1-0-1-1651416319.zip](https://www.nexusmods.com/fallout4/mods/59904/?tab=files&file_id=236429)

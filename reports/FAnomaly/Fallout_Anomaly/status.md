@@ -1,10 +1,11 @@
 ## Validation Report - Fallout Anomaly (FAnomaly/Fallout_Anomaly)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [MoreHairstyles-Beards.rar](http://www.mediafire.com/file/iztz7iidy6djz1e/MoreHairstyles-Beards.rar/file)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1126)
+### Valid (1125)
 *  [  Less Loot and Ammo (Modular Gameplay Rebalance) FOMOD-2593-1-82.rar](https://www.nexusmods.com/fallout4/mods/2593/?tab=files&file_id=24450)
 *  [- FORTITUDE - Giant Enemies (35)-74465-3-0-1696442700.zip](https://www.nexusmods.com/fallout4/mods/74465/?tab=files&file_id=291011)
 *  [.22 Pistol Pack Munitions-77337-1-3-1704999830.zip](https://www.nexusmods.com/fallout4/mods/77337/?tab=files&file_id=299326)
@@ -729,7 +730,6 @@
 *  [More Active AI-38662-2-01-1557626824.7z](https://www.nexusmods.com/fallout4/mods/38662/?tab=files&file_id=157736)
 *  [More Cases for Valentine ESL-58654-1-1646698772.rar](https://www.nexusmods.com/fallout4/mods/58654/?tab=files&file_id=231516)
 *  [More Feral Ghouls. A Zombie Mod-43441-3-5-1668501184.rar](https://www.nexusmods.com/fallout4/mods/43441/?tab=files&file_id=257013)
-*  [MoreHairstyles-Beards.rar](http://www.mediafire.com/file/iztz7iidy6djz1e/MoreHairstyles-Beards.rar/file)
 *  [Morgan and Piper racemenu presets-17950-1-0.rar](https://www.nexusmods.com/fallout4/mods/17950/?tab=files&file_id=72434)
 *  msvcp110.dll
 *  msvcr110.dll
