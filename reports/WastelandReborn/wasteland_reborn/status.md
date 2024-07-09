@@ -1,11 +1,10 @@
 ## Validation Report - Wasteland Reborn (WastelandReborn/wasteland_reborn)
 
 
-### Invalid (1)
-*  [MoreHairstyles-Beards.rar](http://www.mediafire.com/file/iztz7iidy6djz1e/MoreHairstyles-Beards.rar/file)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (923)
+### Valid (924)
 *  [.22 Pistol Pack Munitions-77337-1-3-1704999830.zip](https://www.nexusmods.com/fallout4/mods/77337/?tab=files&file_id=299326)
 *  [.22 Pistol Pack Munitions-78619-2-0-0-1707769976.zip](https://www.nexusmods.com/fallout4/mods/78619/?tab=files&file_id=303361)
 *  [.30 Carbine Pistol-71955-1-2-1686431370.zip](https://www.nexusmods.com/fallout4/mods/71955/?tab=files&file_id=280069)
@@ -625,6 +624,7 @@
 *  [Mojave Geckos v1-50275-1-1613924594.rar](https://www.nexusmods.com/fallout4/mods/50275/?tab=files&file_id=202040)
 *  [Mojave Mantises v1.2-48442-1-2-1605452797.rar](https://www.nexusmods.com/fallout4/mods/48442/?tab=files&file_id=195036)
 *  [Moon Rotation Fix-80005-1-1-0-1714851776.zip](https://www.nexusmods.com/fallout4/mods/80005/?tab=files&file_id=314236)
+*  [MoreHairstyles-Beards.rar](http://www.mediafire.com/file/iztz7iidy6djz1e/MoreHairstyles-Beards.rar/file)
 *  [Movement Speeds Revised - Slightly Adjusted Sneak Walk-57866-1-1-1644148970.7z](https://www.nexusmods.com/fallout4/mods/57866/?tab=files&file_id=228784)
 *  msvcp110.dll
 *  msvcr110.dll
