@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (530)
+### Valid (524)
 *  [00 - Better Books-74333-1-0-1636330917.7z](https://www.nexusmods.com/newvegas/mods/74333/?tab=files&file_id=1000083742)
 *  [00 - Improved Male Vanilla Body - FOMOD Installer-70160-2-3-1718394986.zip](https://www.nexusmods.com/newvegas/mods/70160/?tab=files&file_id=1000134231)
 *  [00 - Pool Items-82577-1-0-1692282849.7z](https://www.nexusmods.com/newvegas/mods/82577/?tab=files&file_id=1000114946)
@@ -157,13 +157,8 @@
 *  [cresonto Bush Smoothness update-72581-V2-1669752479.7z](https://www.nexusmods.com/newvegas/mods/72581/?tab=files&file_id=1000101646)
 *  [Critters 1.01-86131-1-01-1713813022.7z](https://www.nexusmods.com/newvegas/mods/86131/?tab=files&file_id=1000128282)
 *  [Dark Version-70173-1-0-1603240648.rar](https://www.nexusmods.com/newvegas/mods/70173/?tab=files&file_id=1000066660)
-*  Data_DeadMoney.esm
 *  Data_Fallout - Meshes.bsa
 *  Data_Fallout - Textures2.bsa
-*  Data_FalloutNV.esm
-*  Data_HonestHearts.esm
-*  Data_LonesomeRoad.esm
-*  Data_OldWorldBlues.esm
 *  [dead money radio - 2k (uncompressed)-80883-1-0-1682272530.zip](https://www.nexusmods.com/newvegas/mods/80883/?tab=files&file_id=1000108082)
 *  [Decaying Ferals-83726-0-01-1699482598.7z](https://www.nexusmods.com/newvegas/mods/83726/?tab=files&file_id=1000118818)
 *  [Depth of Field Fix-81200-1-1a-1709302843.zip](https://www.nexusmods.com/newvegas/mods/81200/?tab=files&file_id=1000124719)
@@ -255,7 +250,7 @@
 *  [HD Signs Part 3-82778-1-1-1697135326.7z](https://www.nexusmods.com/newvegas/mods/82778/?tab=files&file_id=1000117606)
 *  [Hi Res Posters-64589-0-7-1547670614.7z](https://www.nexusmods.com/newvegas/mods/64589/?tab=files&file_id=1000051593)
 *  [Hidden Valley Overhauled-70859-1-4-1686529965.zip](https://www.nexusmods.com/newvegas/mods/70859/?tab=files&file_id=1000110916)
-*  [High and Dry INI Files-88167-1-0-1720585470.rar](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000135966)
+*  [High and Dry INI Files-88167-1-0-1720674272.rar](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000136045)
 *  [High Quality Picket Fences-79659-0-01-1673900601.7z](https://www.nexusmods.com/newvegas/mods/79659/?tab=files&file_id=1000103652)
 *  [High Res Local Maps-77963-1-2-1661794525.7z](https://www.nexusmods.com/newvegas/mods/77963/?tab=files&file_id=1000098329)
 *  [High Resolution Bloom-77933-5-1-1709298562.7z](https://www.nexusmods.com/newvegas/mods/77933/?tab=files&file_id=1000124716)
@@ -420,7 +415,7 @@
 *  [Radiation Visuals-84917-2-3-1717614042.zip](https://www.nexusmods.com/newvegas/mods/84917/?tab=files&file_id=1000133430)
 *  [Raider Dressings Animated-72311-V2-1621021402.rar](https://www.nexusmods.com/newvegas/mods/72311/?tab=files&file_id=1000076042)
 *  [Random Stuff HD NMC-83095-1-1-1696622937.7z](https://www.nexusmods.com/newvegas/mods/83095/?tab=files&file_id=1000117375)
-*  [Re-Generated LOD.rar](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000135967)
+*  [Re-Generated LOD-88167-1-0-1720680519.rar](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000136049)
 *  [Real Campfires-84714-1-1706410738.rar](https://www.nexusmods.com/newvegas/mods/84714/?tab=files&file_id=1000122668)
 *  [Real Time Reflections-82343-1-3-7-1720303295.7z](https://www.nexusmods.com/newvegas/mods/82343/?tab=files&file_id=1000135737)
 *  [Realistic World Map-58602-.rar](https://www.nexusmods.com/newvegas/mods/58602/?tab=files&file_id=1000027167)
@@ -453,7 +448,7 @@
 *  [SIGMA - Melee animations - Chapter 1-77405-1-2-1657654774.7z](https://www.nexusmods.com/newvegas/mods/77405/?tab=files&file_id=1000095826)
 *  [Simple Main Menu HD - 2K-64931-3-0-0-1642348218.zip](https://www.nexusmods.com/newvegas/mods/64931/?tab=files&file_id=1000086333)
 *  [Simple Night Vision-84991-2-3-1719341888.zip](https://www.nexusmods.com/newvegas/mods/84991/?tab=files&file_id=1000135047)
-*  [Simple Open Freeside and Strip Edits-88167-1-0-1720592879.rar](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000135972)
+*  [Simple Open Freeside and Strip Edits-88167-1-0-1720680406.rar](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000136048)
 *  [Simple Open Freeside-73128-1-7-1681419342.7z](https://www.nexusmods.com/newvegas/mods/73128/?tab=files&file_id=1000107621)
 *  [Simple Open Strip-73127-2-0a-1696190700.7z](https://www.nexusmods.com/newvegas/mods/73127/?tab=files&file_id=1000117169)
 *  [Simply Overhauled Dialogue - Ontologically Metapho-86916-1-1715791403.zip](https://www.nexusmods.com/newvegas/mods/86916/?tab=files&file_id=1000131193)
@@ -501,7 +496,6 @@
 *  [Vanilla Enhancements Merged-78877-1-3-8-1716831572.7z](https://www.nexusmods.com/newvegas/mods/78877/?tab=files&file_id=1000132582)
 *  [Vanilla Graffiti Redone - Grime Version-83226-1-2-1696722892.zip](https://www.nexusmods.com/newvegas/mods/83226/?tab=files&file_id=1000117427)
 *  [Vanilla UI Plus - Max Carry Weight Patch-74798-VUIMaxCWPatch948-1-1683649946.zip](https://www.nexusmods.com/newvegas/mods/74798/?tab=files&file_id=1000108979)
-*  [Vanilla_UI_Extension.7z](https://www.moddb.com/mods/vanilla-ui-extension/downloads/vanilla-ui-extension-10)
 *  [Vanilla_UI_Plus_New_Vegas_948.1.7z](https://github.com/Qolore7/the-sands/releases/download/vanilla-ui-plus/Vanilla.UI.Plus.9.48.7z)
 *  [Various Signs HD-84292-1-1-1703789953.7z](https://www.nexusmods.com/newvegas/mods/84292/?tab=files&file_id=1000121045)
 *  [VATS Lag Fix-84823-1-0-1706985218.zip](https://www.nexusmods.com/newvegas/mods/84823/?tab=files&file_id=1000123023)
@@ -514,7 +508,6 @@
 *  [VICE - New Vegas Landscape Overhaul Re-Remastered-83282-1-1-1716903821.rar](https://www.nexusmods.com/newvegas/mods/83282/?tab=files&file_id=1000132702)
 *  [VICE - The Living Desert-83282-1-03-1715400449.rar](https://www.nexusmods.com/newvegas/mods/83282/?tab=files&file_id=1000130646)
 *  [VICE - Visuals Improved Content Expanded-83282-1-5-1716899244.rar](https://www.nexusmods.com/newvegas/mods/83282/?tab=files&file_id=1000132691)
-*  [Viewmodel Recoil 0.308-71852-0-308-1621847906 (1).rar](https://www.nexusmods.com/newvegas/mods/71852/?tab=files&file_id=1000076459)
 *  [Viewmodel Shading Fix - NVSE-84781-2-0-1710109446.zip](https://www.nexusmods.com/newvegas/mods/84781/?tab=files&file_id=1000125365)
 *  [Viewmodel Shake Fix - NVSE-84443-1-2-1709322855.zip](https://www.nexusmods.com/newvegas/mods/84443/?tab=files&file_id=1000124732)
 *  [Vintage Globe-69393-1-1-1714661390.rar](https://www.nexusmods.com/newvegas/mods/69393/?tab=files&file_id=1000129538)
@@ -532,6 +525,7 @@
 *  [Xander Root HD-84150-1-0-1702813135.7z](https://www.nexusmods.com/newvegas/mods/84150/?tab=files&file_id=1000120528)
 *  [ySI - Pick Up Prompts-85117-1-9-1716934230.zip](https://www.nexusmods.com/newvegas/mods/85117/?tab=files&file_id=1000132762)
 *  [ySI - Sorting Icons-74358-1-4b-1648916180.7z](https://www.nexusmods.com/newvegas/mods/74358/?tab=files&file_id=1000090359)
+*  [ySI VUI plus Patch-88167-1-0-1720671087.rar](https://www.nexusmods.com/newvegas/mods/88167/?tab=files&file_id=1000136042)
 *  [yUI-74357-1-4d-1646655873.7z](https://www.nexusmods.com/newvegas/mods/74357/?tab=files&file_id=1000088780)
 *  [YUP - Base Game and All DLC-51664-13-11-1717947692.7z](https://www.nexusmods.com/newvegas/mods/51664/?tab=files&file_id=1000133792)
 *  [zlib Updated - NVSE-85267-1-1-1711358337.7z](https://www.nexusmods.com/newvegas/mods/85267/?tab=files&file_id=1000126248)

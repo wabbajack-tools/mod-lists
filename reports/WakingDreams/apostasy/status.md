@@ -1733,7 +1733,7 @@
 *  [Nilheim - Quest Expansion-53792-1-13-1705006092.rar](https://www.nexusmods.com/skyrimspecialedition/mods/53792/?tab=files&file_id=460365)
 *  [Nilheim BQ Fix-39498-1-0-2-1624467997.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39498/?tab=files&file_id=210785)
 *  [Niohoggr Warpaints - All in one-64277-2-0-1662503577.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64277/?tab=files&file_id=313871)
-*  [Nirn's Chosen-121427-1-0-5-1720699635.7z](https://www.nexusmods.com/skyrimspecialedition/mods/121427/?tab=files&file_id=519912)
+*  [Nirn's Chosen-121427-1-0-6-1720759301.7z](https://www.nexusmods.com/skyrimspecialedition/mods/121427/?tab=files&file_id=520128)
 *  [Nirnroot Sound Replacer-112114-1-1708435372.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112114/?tab=files&file_id=472897)
 *  [NITHI NPC Enhancement - The Reach - Salt and Wind-75663-1-0-1701448030.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75663/?tab=files&file_id=447825)
 *  [NL_MCM_SSE-49127-1-1-4-1717208748.zip](https://www.nexusmods.com/skyrimspecialedition/mods/49127/?tab=files&file_id=507067)
