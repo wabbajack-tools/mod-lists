@@ -1213,7 +1213,7 @@
 *  [HPP - My Fixes - Chopping Blocks and Firewood - Vanilla SE-AE-63425-1-22-1667164013.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63425/?tab=files&file_id=327739)
 *  [Hulking Horkers-28383-1-2-1569679878.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28383/?tab=files&file_id=108598)
 *  [Humanoid Dragon Priests - Xavbio Unique DP-122320-1-1-1718950384.zip](https://www.nexusmods.com/skyrimspecialedition/mods/122320/?tab=files&file_id=513554)
-*  [Humanoid Dragon Priests-122320-1-11-1719067158.zip](https://www.nexusmods.com/skyrimspecialedition/mods/122320/?tab=files&file_id=513909)
+*  [Humanoid Dragon Priests-122320-1-12-1721103343.zip](https://www.nexusmods.com/skyrimspecialedition/mods/122320/?tab=files&file_id=521709)
 *  [Hunters Loot-119348-1-1-1715647989.zip](https://www.nexusmods.com/skyrimspecialedition/mods/119348/?tab=files&file_id=500825)
 *  [Husky HD Recolor - Fluffworks Version-64445-1-0-1657682219.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64445/?tab=files&file_id=298524)
 *  [Hype's Farmhouse Door -  Shibui Skyrim version by Xtudo - 4K-2K-76225-1-5-1664799953.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76225/?tab=files&file_id=321285)
