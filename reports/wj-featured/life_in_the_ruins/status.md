@@ -4,9 +4,8 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1055)
+### Valid (1053)
 *  [.38 Machine Pistol-80048-1-0-1-1711910426.zip](https://www.nexusmods.com/fallout4/mods/80048/?tab=files&file_id=308587)
-*  [(FIXED) 2K Vault-Tec Security Armor-52308-V2-1622841112.7z](https://www.nexusmods.com/fallout4/mods/52308/?tab=files&file_id=209534)
 *  [0 - Lite Lights-60711-1-01-1674093710.zip](https://www.nexusmods.com/fallout4/mods/60711/?tab=files&file_id=264090)
 *  [0 MAIN File - MWGS 1.2.0 BETA-64395-1-2-0-1666226119.zip](https://www.nexusmods.com/fallout4/mods/64395/?tab=files&file_id=253957)
 *  [01 - Vanilla Weapons MWGS Patch - KSSM Version-64395-1-1-0-1665005128.zip](https://www.nexusmods.com/fallout4/mods/64395/?tab=files&file_id=252573)
@@ -908,7 +907,6 @@
 *  [The Tesla Cannon-66072-1-0-0-1668362774.7z](https://www.nexusmods.com/fallout4/mods/66072/?tab=files&file_id=256834)
 *  [The Wild Key Chase 1.0-67972-1-0-1674665344.rar](https://www.nexusmods.com/fallout4/mods/67972/?tab=files&file_id=264788)
 *  [Tinkerer's Raygun 1.1-58956-1-1-1648011766.zip](https://www.nexusmods.com/fallout4/mods/58956/?tab=files&file_id=232703)
-*  Tools_Elric_README.txt
 *  [Town Line Signs (Nuka-World)-41572-1-0-1571250117.zip](https://www.nexusmods.com/fallout4/mods/41572/?tab=files&file_id=168756)
 *  [Town Line Signs-41572-1-0-1571250046.zip](https://www.nexusmods.com/fallout4/mods/41572/?tab=files&file_id=168755)
 *  [Tribal Power Armour Version 1.0-22437-1-0.zip](https://www.nexusmods.com/fallout4/mods/22437/?tab=files&file_id=91966)
