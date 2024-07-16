@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2898)
+### Valid (2899)
 *  [_Fuse00_ArmorSonaCBBE_V1.1.rar](https://www.patreon.com/file?h=68902488&i=12781379)
 *  [_Fuse00_ArmorSonaVanillaMale_V1.2.rar](https://www.patreon.com/file?h=68902488&i=13158956)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
@@ -573,7 +573,6 @@
 *  Data_Skyrim - Sounds.bsa
 *  Data_Skyrim - Textures0.bsa
 *  Data_Skyrim - Textures2.bsa
-*  Data_Skyrim - Textures4.bsa
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
 *  Data_Update.esm
@@ -904,7 +903,7 @@
 *  [Female Player Animations (OAR)-85073-1-0-2-1718462725.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85073/?tab=files&file_id=511772)
 *  [Female The Black Door Revoiced-91124-1-0-1705107467.zip](https://www.nexusmods.com/skyrimspecialedition/mods/91124/?tab=files&file_id=460833)
 *  [Feminine Grey Cat and Leopard (CBBE) 4K-183-3-2-1649921771.7z](https://www.nexusmods.com/skyrimspecialedition/mods/183/?tab=files&file_id=276958)
-*  [FerisTheFollower-90032-v1-0-16-1717134263.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90032/?tab=files&file_id=506784)
+*  [FerisTheFollowerv1.0.23-90032-v1-0-23-1721078088.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90032/?tab=files&file_id=521627)
 *  [Fewer Exterior Gate Guards for Fortified Whiterun-40094-1-0-1641038512.7z](https://www.nexusmods.com/skyrimspecialedition/mods/40094/?tab=files&file_id=253057)
 *  [Finding Susanna Alive-32512-1-0-1581844989.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32512/?tab=files&file_id=124236)
 *  [Fire Salts Alternative-43247-1-0-1607611939.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43247/?tab=files&file_id=174073)
@@ -1743,7 +1742,7 @@
 *  [Nilheim - Quest Expansion-53792-1-13-1705006092.rar](https://www.nexusmods.com/skyrimspecialedition/mods/53792/?tab=files&file_id=460365)
 *  [Nilheim BQ Fix-39498-1-0-2-1624467997.7z](https://www.nexusmods.com/skyrimspecialedition/mods/39498/?tab=files&file_id=210785)
 *  [Niohoggr Warpaints - All in one-64277-2-0-1662503577.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64277/?tab=files&file_id=313871)
-*  [Nirn's Chosen-121427-1-0-8-1720852274.7z](https://www.nexusmods.com/skyrimspecialedition/mods/121427/?tab=files&file_id=520577)
+*  [Nirn's Chosen-121427-1-0-9-1721091871.7z](https://www.nexusmods.com/skyrimspecialedition/mods/121427/?tab=files&file_id=521684)
 *  [Nirnroot Sound Replacer-112114-1-1708435372.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112114/?tab=files&file_id=472897)
 *  [NITHI NPC Enhancement - The Reach - Salt and Wind-75663-1-0-1701448030.7z](https://www.nexusmods.com/skyrimspecialedition/mods/75663/?tab=files&file_id=447825)
 *  [NL_MCM_SSE-49127-1-1-4-1717208748.zip](https://www.nexusmods.com/skyrimspecialedition/mods/49127/?tab=files&file_id=507067)
@@ -1770,7 +1769,7 @@
 *  [Northbourne NPCs of Whiterun Hold - Full Version-35404-3-9-2-1707279845.7z](https://www.nexusmods.com/skyrimspecialedition/mods/35404/?tab=files&file_id=468525)
 *  [Northbourne NPCs of Winterhold Full Version-43413-1-1-1608230709.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43413/?tab=files&file_id=174870)
 *  [Northbourne NPCs Resources-101466-1-3-1707118543.7z](https://www.nexusmods.com/skyrimspecialedition/mods/101466/?tab=files&file_id=467928)
-*  [Northern Concept - Northern Roads 2K-107975-3-2-1706781623.7z](https://www.nexusmods.com/skyrimspecialedition/mods/107975/?tab=files&file_id=466709)
+*  [Northern Concept - Northern Roads 2K-107975-3-2-2-1721018146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/107975/?tab=files&file_id=521339)
 *  [Northern Concept - Parallax Meshes-112554-1-0-0-0-1711312623.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112554/?tab=files&file_id=483838)
 *  [Northern Marsh Bridges SE-9107-1-3-1555482999.7z](https://www.nexusmods.com/skyrimspecialedition/mods/9107/?tab=files&file_id=88726)
 *  [Northern Roads - Collision and Placement Fix-112554-2-0-0-0-1709018078.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112554/?tab=files&file_id=475000)
@@ -1910,7 +1909,7 @@
 *  [Particle Lights for ENB - Standing Stones - LESS INTENSITY-64359-1-2-1648443825.rar](https://www.nexusmods.com/skyrimspecialedition/mods/64359/?tab=files&file_id=273201)
 *  [Particle Lights for ENB - Wisps - Witchlight-50868-1-2-1648441629.rar](https://www.nexusmods.com/skyrimspecialedition/mods/50868/?tab=files&file_id=273182)
 *  [Particle Patch for ENB-65720-1-2-6-1693111239.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65720/?tab=files&file_id=421028)
-*  [Particle Patch-65720-1-3-1-1720965418.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65720/?tab=files&file_id=521115)
+*  [Particle Patch for ENB-65720-1-3-1-1721062357.zip](https://www.nexusmods.com/skyrimspecialedition/mods/65720/?tab=files&file_id=521558)
 *  [Patch for 'NPC Stuck in Bleedout Fix'-101823-1-0-1697199006.rar](https://www.nexusmods.com/skyrimspecialedition/mods/101823/?tab=files&file_id=433553)
 *  [Patch for Apothecary's Ethereal Potions-91480-1-10-1720703170.zip](https://www.nexusmods.com/skyrimspecialedition/mods/91480/?tab=files&file_id=519935)
 *  [Patch for Fluffworks-22802-2-0-1700556963.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22802/?tab=files&file_id=444629)
@@ -2517,7 +2516,7 @@
 *  steam_api64.dll
 *  [Steel Armors and Weapons Retexture SE - Half res-85445-1-11-1686692078.rar](https://www.nexusmods.com/skyrimspecialedition/mods/85445/?tab=files&file_id=397597)
 *  [Stockades of Skyrim 3D-43227-0-5-1607866649.rar](https://www.nexusmods.com/skyrimspecialedition/mods/43227/?tab=files&file_id=174357)
-*  [Stones of Sacrifice-121629-1-1-2-1720317996.7z](https://www.nexusmods.com/skyrimspecialedition/mods/121629/?tab=files&file_id=518403)
+*  [Stones of Sacrifice-121629-1-1-3-1721064445.7z](https://www.nexusmods.com/skyrimspecialedition/mods/121629/?tab=files&file_id=521568)
 *  [Stones of Solitude - Better Blended Rock Piles-60762-0-2-1645350699.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60762/?tab=files&file_id=265612)
 *  [Stonewall Parallax - Alternate Grey Color - 2K-95610-1-1-1689099588.rar](https://www.nexusmods.com/skyrimspecialedition/mods/95610/?tab=files&file_id=406224)
 *  [Stony AF Markarth and Dwemer Ruins 2K-68815-2-2-1685893053.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68815/?tab=files&file_id=394982)
@@ -2584,7 +2583,7 @@
 *  [Textures Medium-30468-1-0-1574193036.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30468/?tab=files&file_id=113852)
 *  [Textures Only 256-17609-1-0-1583189922.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17609/?tab=files&file_id=126908)
 *  [TGC Dragon Bridge - Northern Farmhouses Patch-95082-1-0-1688552709.7z](https://www.nexusmods.com/skyrimspecialedition/mods/95082/?tab=files&file_id=403923)
-*  [TGC Winterhold - No ForceGreet-123346-1-0-1720106305.7z](https://www.nexusmods.com/skyrimspecialedition/mods/123346/?tab=files&file_id=517647)
+*  [TGC Winterhold - No ForceGreet-123346-1-1-1720855809.7z](https://www.nexusmods.com/skyrimspecialedition/mods/123346/?tab=files&file_id=520604)
 *  [Thalmor Don't Report To Stormcloaks-73890-1-0-1661267271.7z](https://www.nexusmods.com/skyrimspecialedition/mods/73890/?tab=files&file_id=309774)
 *  [Thaumaturgy - An Enchanting Overhaul-57138-1-4-5-1701447165.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57138/?tab=files&file_id=447819)
 *  [The Altar of Mehrunes Dagon With Beautiful Heads-112473-1-2-1708861645.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112473/?tab=files&file_id=474329)
@@ -2754,6 +2753,7 @@
 *  [Vanilla Complex Parallax - Clutter and Furniture-89791-1-1-1710360835.7z](https://www.nexusmods.com/skyrimspecialedition/mods/89791/?tab=files&file_id=480203)
 *  [Vanilla Complex Parallax - Dawnguard-115474-1-0-1711848738.7z](https://www.nexusmods.com/skyrimspecialedition/mods/115474/?tab=files&file_id=485883)
 *  [Vanilla Complex Parallax - Dragonborn-116129-1-1-1714137824.7z](https://www.nexusmods.com/skyrimspecialedition/mods/116129/?tab=files&file_id=494955)
+*  [Vanilla Complex Parallax - Dungeons-88828-1-4-1710812248.7z](https://www.nexusmods.com/skyrimspecialedition/mods/88828/?tab=files&file_id=482058)
 *  [Vanilla Complex Parallax - Farmhouses-88692-1-3-1710811743.7z](https://www.nexusmods.com/skyrimspecialedition/mods/88692/?tab=files&file_id=482055)
 *  [Vanilla Complex Parallax - Landscapes-88295-1-3-1712545574.7z](https://www.nexusmods.com/skyrimspecialedition/mods/88295/?tab=files&file_id=488549)
 *  [Vanilla Complex Parallax - Misc. Architecture-114426-1-0-1710789667.7z](https://www.nexusmods.com/skyrimspecialedition/mods/114426/?tab=files&file_id=481956)
@@ -2769,6 +2769,7 @@
 *  [Vendor Respawn Fix-43532-1-1678779507.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43532/?tab=files&file_id=368380)
 *  [Versatile Item and Group Re-Assignment-85419-1-0-1-1-1687909324.zip](https://www.nexusmods.com/skyrimspecialedition/mods/85419/?tab=files&file_id=401696)
 *  [Vey Alaxon - Thaumaturgy Integration-114662-1-0-1711039935.7z](https://www.nexusmods.com/skyrimspecialedition/mods/114662/?tab=files&file_id=482838)
+*  [Vibrant Animated Armoury-58865-1-0-1637573911.rar](https://www.nexusmods.com/skyrimspecialedition/mods/58865/?tab=files&file_id=243421)
 *  [Vigilant - Alessia - HPH Version-76961-1-0-1690841533.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76961/?tab=files&file_id=412847)
 *  [Vigilant - Alessia Optional Rainments-76961-1-0-1665579315.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76961/?tab=files&file_id=323473)
 *  [VIGILANT - Alessia Replacer - Equipment Addon-97259-1-1690791713.zip](https://www.nexusmods.com/skyrimspecialedition/mods/97259/?tab=files&file_id=412644)
