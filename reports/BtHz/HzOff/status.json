@@ -1,8 +1,8 @@
 {
   "MachineURL": "BtHz/HzOff",
   "Name": "Horizon - Official Modlist",
-  "Version": "1.0",
-  "ModListHash": "yD00bqxkiI8=",
+  "Version": "1.1",
+  "ModListHash": "61aM9HE1HAc=",
   "Archives": [
     {
       "Status": "Valid",
@@ -70,6 +70,69 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Uhrgx1tXZNY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=69033\nfileID=325899",
+        "Name": "CC Enclave Remnants - Horizon Patch-69033-1-0-1720355966.zip",
+        "Size": 79767,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Greb751",
+          "Description": "A bunch of patches for Horizon 1.9.",
+          "FileID": 325899,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69033/69033-1677092749-394477899.jpeg",
+          "IsNSFW": false,
+          "ModID": 69033,
+          "Name": "Greb\u0027s Horizon 1.9 Patches",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EKfGEhQHDiU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=69041\nfileID=323064",
+        "Name": "Heavy Incinerator CC Horizon patch-69041-1-0-1718567552.7z",
+        "Size": 9727,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Starguardace",
+          "Description": "Horizon 1.9.4 patches ONLY.",
+          "FileID": 323064,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69041/69041-1677122064-2139323623.png",
+          "IsNSFW": false,
+          "ModID": 69041,
+          "Name": "Starguardace\u0027s Horizon 1.9 patches",
+          "Version": "1.9.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "N6vvSSTPoZY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=13459\nfileID=88106",
+        "Name": "Everyone\u0027s Best Friend v3.0.0-13459-3-0-0.rar",
+        "Size": 81039,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Valdacil",
+          "Description": "This mod allows you to have Dogmeat and a standard companion at the same time using in game functionality (not hacks or console commands).",
+          "FileID": 88106,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/13459-0-1463160357.jpg",
+          "IsNSFW": false,
+          "ModID": 13459,
+          "Name": "Everyone\u0027s Best Friend (Dogmeat and Companion At Same Time - No Console - No Hack)",
+          "Version": "3.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "dgwE/+3L8s8=",
         "Meta": "[General]\ngameName=fallout4\nmodID=17374\nfileID=310391",
         "Name": "Horizon 1.9.4d-17374-1-9-4d-1713271207.zip",
@@ -91,6 +154,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "wYpuQiwVsbo=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=4598\nfileID=316548",
+        "Name": "Unofficial Fallout 4 Patch-4598-2-1-6d-1715722851.7z",
+        "Size": 33850301,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "The Unofficial Patch Project Team",
+          "Description": "A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.",
+          "FileID": 316548,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/4598-0-1456989707.png",
+          "IsNSFW": false,
+          "ModID": 4598,
+          "Name": "Unofficial Fallout 4 Patch - UFO4P",
+          "Version": "2.1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "QecNTVClZHM=",
         "Meta": "[General]\ngameName=fallout4\nmodID=4598\nfileID=270951",
         "Name": "Unofficial Fallout 4 Patch-4598-2-1-5-1679096028.7z",
@@ -106,111 +190,6 @@
           "ModID": 4598,
           "Name": "Unofficial Fallout 4 Patch - UFO4P",
           "Version": "2.1.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "te2oUSFjYvU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=81859\nfileID=313321",
-        "Name": "BackportedBA2Support-1_0-81859-1-0-1714516128.zip",
-        "Size": 1303614,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Nukem",
-          "Description": "Adds support for the new BA2 archive format introduced in NG update 1.10.980 to versions 1.10.163 and older. Fixes crashes, similar to BEES for Skyrim Special Edition.",
-          "FileID": 313321,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/81859/81859-1714515554-286241558.jpeg",
-          "IsNSFW": false,
-          "ModID": 81859,
-          "Name": "Backported Archive2 Support System",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "yh3Xq+W9x4A=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=42147\nfileID=316287",
-        "Name": "Fallout 4 Script Extender (F4SE)-42147-0-7-2-1715628153.7z",
-        "Size": 900007,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "F4SE Team",
-          "Description": "The Fallout 4 Script Extender, or F4SE for short, is a modder\u0027s resource that expands the scripting capabilities of Fallout 4. It does so without modifying the executable files on disk, so there are no permanent side effects.",
-          "FileID": 316287,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/42147/42147-1574018373-1181117442.jpeg",
-          "IsNSFW": false,
-          "ModID": 42147,
-          "Name": "Fallout 4 Script Extender (F4SE)",
-          "Version": "0.6.23"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "21h4TOKduN0=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=42147\nfileID=253313",
-        "Name": "Fallout 4 Script Extender (F4SE)-42147-0-6-23-1665656782.7z",
-        "Size": 650275,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "F4SE Team",
-          "Description": "The Fallout 4 Script Extender, or F4SE for short, is a modder\u0027s resource that expands the scripting capabilities of Fallout 4. It does so without modifying the executable files on disk, so there are no permanent side effects.",
-          "FileID": 253313,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/42147/42147-1574018373-1181117442.jpeg",
-          "IsNSFW": false,
-          "ModID": 42147,
-          "Name": "Fallout 4 Script Extender (F4SE)",
-          "Version": "0.6.23"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PK0TsJNp+kg=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=20309\nfileID=93183",
-        "Name": "HUDFramework 1.0f-20309-1-0f.zip",
-        "Size": 287655,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "registrator2000",
-          "Description": "HUDFramework is a UI framework that makes it possible for mods to add new UI elements to the HUD.",
-          "FileID": 93183,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20309-0-1495318464.png",
-          "IsNSFW": false,
-          "ModID": 20309,
-          "Name": "HUDFramework",
-          "Version": "1.0f"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "/C/Fq5XygkY=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=31720\nfileID=460345",
-        "Name": "Root Builder 5.0.4-31720-5-0-4-1704999832.zip",
-        "Size": 947715,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kezyma",
-          "Description": "Root Builder is a Mod Organizer 2 plugin that allows you to manage files in the base game folder through Mod Organizer, leaving your game folder in pristine, vanilla condition!",
-          "FileID": 460345,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31720/31720-1640621042-2144679620.png",
-          "IsNSFW": false,
-          "ModID": 31720,
-          "Name": "Kezyma\u0027s Root Builder for Mod Organizer",
-          "Version": "4.5.2"
         }
       }
     },
@@ -259,42 +238,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XsBd26o3ePY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=64880\nfileID=325686",
-        "Name": "Buffout4 NG-64880-1-35-1-1720237181.7z",
-        "Size": 14216900,
+        "Hash": "yh3Xq+W9x4A=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=42147\nfileID=316287",
+        "Name": "Fallout 4 Script Extender (F4SE)-42147-0-7-2-1715628153.7z",
+        "Size": 900007,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "alandtse",
-          "Description": "It\u0027s like buffout but for the engine. This provides various engine fixes and a crashlogger. This is a NG port of Fudgyduff\u0027s MIT source code. \n\n\n\nNG comes from Skyrim modding and means one dll for multiple versions of the game. So this dll should work in flat and VR.",
-          "FileID": 325686,
+          "Author": "F4SE Team",
+          "Description": "The Fallout 4 Script Extender, or F4SE for short, is a modder\u0027s resource that expands the scripting capabilities of Fallout 4. It does so without modifying the executable files on disk, so there are no permanent side effects.",
+          "FileID": 316287,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/64880/64880-1678088740-2112622496.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/42147/42147-1574018373-1181117442.jpeg",
           "IsNSFW": false,
-          "ModID": 64880,
-          "Name": "Buffout 4 NG with PDB support",
-          "Version": "1.31.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "EKfGEhQHDiU=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=69041\nfileID=323064",
-        "Name": "Heavy Incinerator CC Horizon patch-69041-1-0-1718567552.7z",
-        "Size": 9727,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Starguardace",
-          "Description": "Horizon 1.9.4 patches ONLY.",
-          "FileID": 323064,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69041/69041-1677122064-2139323623.png",
-          "IsNSFW": false,
-          "ModID": 69041,
-          "Name": "Starguardace\u0027s Horizon 1.9 patches",
-          "Version": "1.9.4"
+          "ModID": 42147,
+          "Name": "Fallout 4 Script Extender (F4SE)",
+          "Version": "0.6.23"
         }
       }
     },
@@ -315,42 +273,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wYpuQiwVsbo=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=4598\nfileID=316548",
-        "Name": "Unofficial Fallout 4 Patch-4598-2-1-6d-1715722851.7z",
-        "Size": 33850301,
+        "Hash": "21h4TOKduN0=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=42147\nfileID=253313",
+        "Name": "Fallout 4 Script Extender (F4SE)-42147-0-6-23-1665656782.7z",
+        "Size": 650275,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "The Unofficial Patch Project Team",
-          "Description": "A comprehensive bugfixing mod for Fallout 4. The goal of the Unofficial Fallout 4 Patch (aka UFO4P) is to eventually fix every bug with Fallout 4 not officially resolved by the developers to the limits of the Creation Kit and community-developed tools, in one easy-to-install package.",
-          "FileID": 316548,
+          "Author": "F4SE Team",
+          "Description": "The Fallout 4 Script Extender, or F4SE for short, is a modder\u0027s resource that expands the scripting capabilities of Fallout 4. It does so without modifying the executable files on disk, so there are no permanent side effects.",
+          "FileID": 253313,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/4598-0-1456989707.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/42147/42147-1574018373-1181117442.jpeg",
           "IsNSFW": false,
-          "ModID": 4598,
-          "Name": "Unofficial Fallout 4 Patch - UFO4P",
-          "Version": "2.1.5"
+          "ModID": 42147,
+          "Name": "Fallout 4 Script Extender (F4SE)",
+          "Version": "0.6.23"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ssBEs6gh5YQ=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=84393\nfileID=325113",
-        "Name": "Simple Creation Club Delayed NG-84393-1-0-1-1719785151.7z",
-        "Size": 13502,
+        "Hash": "/C/Fq5XygkY=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=31720\nfileID=460345",
+        "Name": "Root Builder 5.0.4-31720-5-0-4-1704999832.zip",
+        "Size": 947715,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SoleVaultBoy",
-          "Description": "Delays the start of the Next Gen Creation Club content until meet certain requirements.",
-          "FileID": 325113,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/84393%2F84393-1718047059-2034869186.png",
+          "Author": "Kezyma",
+          "Description": "Root Builder is a Mod Organizer 2 plugin that allows you to manage files in the base game folder through Mod Organizer, leaving your game folder in pristine, vanilla condition!",
+          "FileID": 460345,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31720/31720-1640621042-2144679620.png",
           "IsNSFW": false,
-          "ModID": 84393,
-          "Name": "Simple Creation Club Delayed NG",
-          "Version": "1.0.0"
+          "ModID": 31720,
+          "Name": "Kezyma\u0027s Root Builder for Mod Organizer",
+          "Version": "4.5.2"
         }
       }
     },
@@ -378,42 +336,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "v6nJqcXP+N8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=69033\nfileID=325897",
-        "Name": "CC Hellfire Power Armor - Horizon Patch-69033-1-0-1720355715.zip",
-        "Size": 5898,
+        "Hash": "XsBd26o3ePY=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=64880\nfileID=325686",
+        "Name": "Buffout4 NG-64880-1-35-1-1720237181.7z",
+        "Size": 14216900,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Greb751",
-          "Description": "A bunch of patches for Horizon 1.9.",
-          "FileID": 325897,
+          "Author": "alandtse",
+          "Description": "It\u0027s like buffout but for the engine. This provides various engine fixes and a crashlogger. This is a NG port of Fudgyduff\u0027s MIT source code. \n\n\n\nNG comes from Skyrim modding and means one dll for multiple versions of the game. So this dll should work in flat and VR.",
+          "FileID": 325686,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69033/69033-1677092749-394477899.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/64880/64880-1678088740-2112622496.png",
           "IsNSFW": false,
-          "ModID": 69033,
-          "Name": "Greb\u0027s Horizon 1.9 Patches",
-          "Version": "1.0"
+          "ModID": 64880,
+          "Name": "Buffout 4 NG with PDB support",
+          "Version": "1.31.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "3s3GKVwKBf8=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=48078\nfileID=314112",
-        "Name": "Weapon Debris Crash Fix-48078-1-3-1714835670.zip",
-        "Size": 115274,
+        "Hash": "4w9x3sSPciI=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=73112\nfileID=283998",
+        "Name": "Graygarden Border FCTD ix-73112-1-00-1689894231.zip",
+        "Size": 3307,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Glitchfinder",
+          "Description": "Fixes a CTD some users encounter at Graygarden.",
+          "FileID": 283998,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/73112/73112-1689893765-1044508790.png",
+          "IsNSFW": false,
+          "ModID": 73112,
+          "Name": "Graygarden CTD Fix - Unofficial UFO4P Patch",
+          "Version": "1.00"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bxERKoM90KA=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=44798\nfileID=242328",
+        "Name": "High FPS Physics Fix-44798-0-8-6-1656849140.zip",
+        "Size": 168212,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Antonix35",
-          "Description": "Fixed crashes caused by Weapon Debris setting\n\n\n\n\u0418\u0441\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0432\u044B\u043B\u0435\u0442\u043E\u0432 \u043F\u0440\u0438 \u0432\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u043E\u0439 \u043D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0435 \u0022\u041E\u0441\u043A\u043E\u043B\u043A\u0438 \u043E\u0442 \u0432\u044B\u0441\u0442\u0440\u0435\u043B\u043E\u0432\u0022",
-          "FileID": 314112,
+          "Description": "Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time.\n\nNow there is a separate version for VR.",
+          "FileID": 242328,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48078/48078-1604258720-935354418.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44798/44798-1588329807-748092555.png",
           "IsNSFW": false,
-          "ModID": 48078,
-          "Name": "Weapon Debris Crash Fix",
-          "Version": "1.2"
+          "ModID": 44798,
+          "Name": "High FPS Physics Fix",
+          "Version": "0.8.6"
         }
       }
     },
@@ -462,21 +441,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "4w9x3sSPciI=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=73112\nfileID=283998",
-        "Name": "Graygarden Border FCTD ix-73112-1-00-1689894231.zip",
-        "Size": 3307,
+        "Hash": "ssBEs6gh5YQ=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=84393\nfileID=325113",
+        "Name": "Simple Creation Club Delayed NG-84393-1-0-1-1719785151.7z",
+        "Size": 13502,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Glitchfinder",
-          "Description": "Fixes a CTD some users encounter at Graygarden.",
-          "FileID": 283998,
+          "Author": "SoleVaultBoy",
+          "Description": "Delays the start of the Next Gen Creation Club content until meet certain requirements.",
+          "FileID": 325113,
           "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/73112/73112-1689893765-1044508790.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/84393%2F84393-1718047059-2034869186.png",
           "IsNSFW": false,
-          "ModID": 73112,
-          "Name": "Graygarden CTD Fix - Unofficial UFO4P Patch",
-          "Version": "1.00"
+          "ModID": 84393,
+          "Name": "Simple Creation Club Delayed NG",
+          "Version": "1.0.0"
         }
       }
     },
@@ -504,69 +483,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "N6vvSSTPoZY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=13459\nfileID=88106",
-        "Name": "Everyone\u0027s Best Friend v3.0.0-13459-3-0-0.rar",
-        "Size": 81039,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Valdacil",
-          "Description": "This mod allows you to have Dogmeat and a standard companion at the same time using in game functionality (not hacks or console commands).",
-          "FileID": 88106,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/13459-0-1463160357.jpg",
-          "IsNSFW": false,
-          "ModID": 13459,
-          "Name": "Everyone\u0027s Best Friend (Dogmeat and Companion At Same Time - No Console - No Hack)",
-          "Version": "3.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Uhrgx1tXZNY=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=69033\nfileID=325899",
-        "Name": "CC Enclave Remnants - Horizon Patch-69033-1-0-1720355966.zip",
-        "Size": 79767,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Greb751",
-          "Description": "A bunch of patches for Horizon 1.9.",
-          "FileID": 325899,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69033/69033-1677092749-394477899.jpeg",
-          "IsNSFW": false,
-          "ModID": 69033,
-          "Name": "Greb\u0027s Horizon 1.9 Patches",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "bxERKoM90KA=",
-        "Meta": "[General]\ngameName=fallout4\nmodID=44798\nfileID=242328",
-        "Name": "High FPS Physics Fix-44798-0-8-6-1656849140.zip",
-        "Size": 168212,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Antonix35",
-          "Description": "Untie the game speed from the framerate. Fixes physical bugs. Reduces loading time.\n\nNow there is a separate version for VR.",
-          "FileID": 242328,
-          "GameName": "Fallout4",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/44798/44798-1588329807-748092555.png",
-          "IsNSFW": false,
-          "ModID": 44798,
-          "Name": "High FPS Physics Fix",
-          "Version": "0.8.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "H6nLBh7itcA=",
         "Meta": "[General]\ngameName=fallout4\nmodID=69033\nfileID=325900",
         "Name": "CC Halloween Workshop Pack-69033-1-0-1720356059.zip",
@@ -582,6 +498,90 @@
           "ModID": 69033,
           "Name": "Greb\u0027s Horizon 1.9 Patches",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PK0TsJNp+kg=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=20309\nfileID=93183",
+        "Name": "HUDFramework 1.0f-20309-1-0f.zip",
+        "Size": 287655,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "registrator2000",
+          "Description": "HUDFramework is a UI framework that makes it possible for mods to add new UI elements to the HUD.",
+          "FileID": 93183,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/20309-0-1495318464.png",
+          "IsNSFW": false,
+          "ModID": 20309,
+          "Name": "HUDFramework",
+          "Version": "1.0f"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "te2oUSFjYvU=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=81859\nfileID=313321",
+        "Name": "BackportedBA2Support-1_0-81859-1-0-1714516128.zip",
+        "Size": 1303614,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Nukem",
+          "Description": "Adds support for the new BA2 archive format introduced in NG update 1.10.980 to versions 1.10.163 and older. Fixes crashes, similar to BEES for Skyrim Special Edition.",
+          "FileID": 313321,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/81859/81859-1714515554-286241558.jpeg",
+          "IsNSFW": false,
+          "ModID": 81859,
+          "Name": "Backported Archive2 Support System",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "v6nJqcXP+N8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=69033\nfileID=325897",
+        "Name": "CC Hellfire Power Armor - Horizon Patch-69033-1-0-1720355715.zip",
+        "Size": 5898,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Greb751",
+          "Description": "A bunch of patches for Horizon 1.9.",
+          "FileID": 325897,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/69033/69033-1677092749-394477899.jpeg",
+          "IsNSFW": false,
+          "ModID": 69033,
+          "Name": "Greb\u0027s Horizon 1.9 Patches",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3s3GKVwKBf8=",
+        "Meta": "[General]\ngameName=fallout4\nmodID=48078\nfileID=314112",
+        "Name": "Weapon Debris Crash Fix-48078-1-3-1714835670.zip",
+        "Size": 115274,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Antonix35",
+          "Description": "Fixed crashes caused by Weapon Debris setting\n\n\n\n\u0418\u0441\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u0432\u044B\u043B\u0435\u0442\u043E\u0432 \u043F\u0440\u0438 \u0432\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u043E\u0439 \u043D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0435 \u0022\u041E\u0441\u043A\u043E\u043B\u043A\u0438 \u043E\u0442 \u0432\u044B\u0441\u0442\u0440\u0435\u043B\u043E\u0432\u0022",
+          "FileID": 314112,
+          "GameName": "Fallout4",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1151/images/48078/48078-1604258720-935354418.jpeg",
+          "IsNSFW": false,
+          "ModID": 48078,
+          "Name": "Weapon Debris Crash Fix",
+          "Version": "1.2"
         }
       }
     }
