@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (932)
+### Valid (934)
 *  [.22 Pistol Pack Munitions-77337-1-3-1704999830.zip](https://www.nexusmods.com/fallout4/mods/77337/?tab=files&file_id=299326)
 *  [.22 Pistol Pack Munitions-78619-2-0-0-1707769976.zip](https://www.nexusmods.com/fallout4/mods/78619/?tab=files&file_id=303361)
 *  [.30 Carbine Pistol-71955-2-0-0-1720138420.zip](https://www.nexusmods.com/fallout4/mods/71955/?tab=files&file_id=325518)
@@ -295,6 +295,7 @@
 *  Data_DLCworkshop01.cdx
 *  Data_DLCworkshop01.esm
 *  Data_DLCworkshop02 - Main.ba2
+*  Data_DLCworkshop02 - Textures.ba2
 *  Data_DLCworkshop02.esm
 *  Data_DLCworkshop03 - Geometry.csg
 *  Data_DLCworkshop03 - Main.ba2
@@ -487,6 +488,7 @@
 *  [HiPoly Faces REDUX - Seamless Kit (CBBE-TWB)-58950-1-5-1696593528.7z](https://www.nexusmods.com/fallout4/mods/58950/?tab=files&file_id=291125)
 *  [HiPoly Faces REDUX - UFO4P Patch-63391-1-0-1660850528.7z](https://www.nexusmods.com/fallout4/mods/63391/?tab=files&file_id=247287)
 *  [Hit Those Objects-85755-1-0-0-1721081194.zip](https://www.nexusmods.com/fallout4/mods/85755/?tab=files&file_id=326882)
+*  [Hit Those Objects-85755-1-1-0-1721336132.zip](https://www.nexusmods.com/fallout4/mods/85755/?tab=files&file_id=327179)
 *  [HN66nXAZOMN_FO4_DistinctiveTeeth_V1-20946-1-00.rar](https://www.nexusmods.com/fallout4/mods/20946/?tab=files&file_id=85660)
 *  [Homemade SMG 2.1-58763-2-1-1647740312.zip](https://www.nexusmods.com/fallout4/mods/58763/?tab=files&file_id=232430)
 *  [Homemaker 1.76-1478-1-76-1692227761.zip](https://www.nexusmods.com/fallout4/mods/1478/?tab=files&file_id=286913)
