@@ -1,8 +1,8 @@
 {
   "MachineURL": "The_Nico_Experience/The_Nico_Experience",
   "Name": "The Nico Experience",
-  "Version": "1.7.5",
-  "ModListHash": "UikwkkxhvmE=",
+  "Version": "1.7.6",
+  "ModListHash": "8uLfVH3EKrg=",
   "Archives": [
     {
       "Status": "Valid",
@@ -17765,15 +17765,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GDlsx6uAPNA=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=105031\nfileID=504819",
-        "Name": "Tree_Optimization - Nico-105031-2-4-1716655374.7z",
-        "Size": 123164,
+        "Hash": "+UpZmT/Aftc=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=105031\nfileID=522599",
+        "Name": "Tree_Optimization - Nico-105031-2-5-1721349612.7z",
+        "Size": 123833,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "nicoroshi",
           "Description": "These are Patches I created SPECIFICALLY for the load order contained in the upcoming Wabbajack mod list called The Nico Experience. \n\nIf you aren\u0027t using that wabbajack then these files WILL NOT WORK FOR YOU.",
-          "FileID": 504819,
+          "FileID": 522599,
           "GameName": "SkyrimSpecialEdition",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/105031/105031-1700335339-1955730794.jpeg",
           "IsNSFW": false,
@@ -18672,13 +18672,13 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VeRtV1jpAJo=",
-        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0502.zip_8756e896-96cf-4e59-836a-68c527ee30a2",
+        "Hash": "UUVSw3dw8dg=",
+        "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/enbseries_skyrimse_v0502.zip_59da0ebd-bd8c-4fdd-ad7d-bd336debe8e8",
         "Name": "enbseries_skyrimse_v0502.zip",
-        "Size": 3278198,
+        "Size": 3282704,
         "State": {
           "$type": "WabbajackCDNDownloader\u002BState, Wabbajack.Lib",
-          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0502.zip_8756e896-96cf-4e59-836a-68c527ee30a2"
+          "Url": "https://authored-files.wabbajack.org/enbseries_skyrimse_v0502.zip_59da0ebd-bd8c-4fdd-ad7d-bd336debe8e8"
         }
       }
     },
@@ -19595,6 +19595,27 @@
           "ModID": 85504,
           "Name": "ElSopa - Skeleton Key Redone",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YczG2zm4eD0=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=80343\nfileID=474639",
+        "Name": "SkyrimUpscaler-80343-1-2-0-1708931517.zip",
+        "Size": 5508818,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PureDark",
+          "Description": "SKSE Plugin to use DLSS/FSR2/XeSS in Skyrim, also supports DLAA.",
+          "FileID": 474639,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/80343/80343-1670643005-1848526440.jpeg",
+          "IsNSFW": false,
+          "ModID": 80343,
+          "Name": "Skyrim Upscaler - DLSS FSR2 XeSS",
+          "Version": "1.1.5"
         }
       }
     },
@@ -32738,6 +32759,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "vYjXiYShkKM=",
+        "Meta": "[General]\ngameName=site\nmodID=502\nfileID=2293",
+        "Name": "UpscalerBasePlugin-502-1-1-2-1693443305.zip",
+        "Size": 73302,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PureDark",
+          "Description": "My plugin for bridging DLSS/FSR2/XeSS.",
+          "FileID": 2293,
+          "GameName": "ModdingTools",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2295/images/502/502-1672090358-1967705145.png",
+          "IsNSFW": false,
+          "ModID": 502,
+          "Name": "UpscalerBasePlugin",
+          "Version": "1.1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "hmCorJgQRfs=",
         "Meta": "[General]\ngameName=skyrimse\nmodID=91403\nfileID=396164",
         "Name": "World Encounter Hostility Fix -Performance Version-91403-0-4-1686275909.7z",
@@ -35580,27 +35622,6 @@
           "ModID": 105031,
           "Name": "Needed files for The Nico Experience Wabbajack",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vYjXiYShkKM=",
-        "Meta": "[General]\ngameName=site\nmodID=502\nfileID=2293",
-        "Name": "UpscalerBasePlugin-502-1-1-2-1693443305.zip",
-        "Size": 73302,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PureDark",
-          "Description": "My plugin for bridging DLSS/FSR2/XeSS.",
-          "FileID": 2293,
-          "GameName": "ModdingTools",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2295/images/502/502-1672090358-1967705145.png",
-          "IsNSFW": false,
-          "ModID": 502,
-          "Name": "UpscalerBasePlugin",
-          "Version": "1.1.2"
         }
       }
     },

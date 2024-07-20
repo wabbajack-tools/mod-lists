@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1756)
+### Valid (1757)
 *  [- Skyrim 202X 9.0 to 9.7 Update-2347-9-7-1697703573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=435157)
 *  [-Skyrim 202X 9.0 - Architecture-2347-9-0-1664994366.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=321878)
 *  [-Skyrim 202X 9.0.1 - Other-2347-9-0-1-1665147913.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=322212)
@@ -623,7 +623,7 @@
 *  [ENB Light SMIM Textures-22574-1-1576968419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=116967)
 *  [ENB Lights for Effect Shaders SE-56362-2-0-1641571441.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56362/?tab=files&file_id=254729)
 *  [ENB Refract Icicle Patch-2458-0-488-1680909826.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2458/?tab=files&file_id=376187)
-*  [enbseries_skyrimse_v0502.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0502.zip_8756e896-96cf-4e59-836a-68c527ee30a2)
+*  [enbseries_skyrimse_v0502.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0502.zip_59da0ebd-bd8c-4fdd-ad7d-bd336debe8e8)
 *  [enbsunsprite(SSE).zip](http://enbseries.enbdev.com/forum/download/file.php?id=1681)
 *  [Enchanted Arsenal For 1.5.97-37318-2-23b-1592566788.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37318/?tab=files&file_id=146419)
 *  [Enchanting Stations Candles 2.0-30140-2-0-1577115863.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30140/?tab=files&file_id=117149)
@@ -1449,6 +1449,7 @@
 *  SkyrimSELauncher.exe
 *  [SkyrimsParaglider-53256-1-5-0-1629830063.7z](https://www.nexusmods.com/skyrimspecialedition/mods/53256/?tab=files&file_id=223502)
 *  [SkyrimUnderground_Add-On-131-5-1-1654095070.7z](https://www.nexusmods.com/skyrimspecialedition/mods/131/?tab=files&file_id=288096)
+*  [SkyrimUpscaler-80343-1-2-0-1708931517.zip](https://www.nexusmods.com/skyrimspecialedition/mods/80343/?tab=files&file_id=474639)
 *  [SkyshardFullLOD-73183-1-6-0-1660274807.7z](https://www.nexusmods.com/skyrimspecialedition/mods/73183/?tab=files&file_id=306749)
 *  [Skyshards - ENB Addon-68443-1-0-1653163522.7z](https://www.nexusmods.com/skyrimspecialedition/mods/68443/?tab=files&file_id=285516)
 *  [Skyshards v1.6.0-60748-1-6-0-1640462572.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60748/?tab=files&file_id=251721)
@@ -1628,7 +1629,7 @@
 *  Tools_LipGen_LipGenerator_LipGenerator.exe
 *  Tools_RoboVoicer.exe
 *  [Torch Cremation SE (esl and bash)-59203-2-0-1639605027.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59203/?tab=files&file_id=249445)
-*  [Tree_Optimization - Nico-105031-2-4-1716655374.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=504819)
+*  [Tree_Optimization - Nico-105031-2-5-1721349612.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=522599)
 *  [Trees Addon Dyndlod Error Fix-22053-1-0-1659202018.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22053/?tab=files&file_id=303374)
 *  [Trees Addon SE-22053-1-2-8-1614116932_db6f564aa3edfe9babde7532a4eef8d3bdd54ddb810ccae911bdf208a5e2734b_.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22053/?tab=files&file_id=187650)
 *  [Tribal Sorceress Mashup-30364-1-1-1573839002.zip](https://www.nexusmods.com/skyrimspecialedition/mods/30364/?tab=files&file_id=113473)
