@@ -922,7 +922,7 @@
 *  [VolcanicHeatHaze-by-fadingsignal.rar-13749-1-0.rar](https://www.nexusmods.com/skyrimspecialedition/mods/13749/?tab=files&file_id=39801)
 *  [Voltage 4-2K-15565-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/15565/?tab=files&file_id=52702)
 *  [Volumetric Mists-29273-1-4-2-1585565974.zip](https://www.nexusmods.com/skyrimspecialedition/mods/29273/?tab=files&file_id=131426)
-*  [VR Address Library-58101-0-135-0-1718084715.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58101/?tab=files&file_id=510474)
+*  [VR Address Library-58101-0-140-0-1720258364.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58101/?tab=files&file_id=518155)
 *  [VR FPS Stabilizer (FOMOD Installer)-31392-1-4-6-1702735955.rar](https://www.nexusmods.com/skyrimspecialedition/mods/31392/?tab=files&file_id=452384)
 *  [VR Keyboard-64319-1-0-1-1646067557.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64319/?tab=files&file_id=267355)
 *  [VR Refit - ElSopa - HD Keys Resized-49903-1-0-1620975495.zip](https://www.nexusmods.com/skyrimspecialedition/mods/49903/?tab=files&file_id=203381)
