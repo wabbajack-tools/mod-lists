@@ -454,7 +454,7 @@
 *  [ENB Particle Lights for Gemstones-57672-1-3-1658432693.rar](https://www.nexusmods.com/skyrimspecialedition/mods/57672/?tab=files&file_id=300935)
 *  [ENB Particle Lights Praedy Edition -h.d- Lava Med-54657-1-1-1683587845.rar](https://www.nexusmods.com/skyrimspecialedition/mods/54657/?tab=files&file_id=386163)
 *  [ENB-ParticleLights-DwemerLanterns-1-02-24108-1-02-1552437026.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24108/?tab=files&file_id=84731)
-*  [enbseries_skyrimse_v0502.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0502.zip_db3a14a6-46eb-41d3-a9ef-6df1db11dd3e)
+*  [enbseries_skyrimse_v0502.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0502.zip_cb7be82d-34a9-49ca-af19-b59b9934eaaa)
 *  [Enhanced Blood Textures-2357-4-0-1639547261.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=249235)
 *  [Enhanced Invisibility-61950-1-3-0-1665511169.7z](https://www.nexusmods.com/skyrimspecialedition/mods/61950/?tab=files&file_id=323345)
 *  [Enhanced Ore Veins - 2K - 9.0.1-1306-9-0-1-1638445071.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1306/?tab=files&file_id=246044)
