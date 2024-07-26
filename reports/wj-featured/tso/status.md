@@ -1,11 +1,10 @@
 ## Validation Report - Total Skyrim Overhaul (wj-featured/tso)
 
 
-### Invalid (1)
-*  [BDOR Marnist by Team TAL.7z](https://drive.google.com/uc?id=1QrHV_lH3ESUSiN-4bYwrMivMr5YlQK-A&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1032)
+### Valid (1033)
 *  [- Skyrim 2020 8.4.2 - 3 of 3 - Other - 4K to 2K-2347-8-4-2-1624479907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=210840)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -183,6 +182,7 @@
 *  [BDO Ranger La Medellin - CBBE SE (SMP - Physics).7z](https://www.mediafire.com/file/3ucd71wh3aap6i0/BDO_Ranger_La_Medellin_-_CBBE_SE_%2528SMP_-_Physics%2529.7z/)
 *  [BDO Valkyrie SE 1-0-0.7z](https://www.mediafire.com/file/93l7kl2raszrtra/BDO_Valkyrie_SE_1-0-0.7z/)
 *  [BDOR Eclipse by Team TAL fomod.7z](https://www.mediafire.com/file/ogobg4v6b7lsfmy/BDOR_Eclipse_by_Team_TAL_fomod.7z/)
+*  [BDOR Marnist by Team TAL.7z](https://drive.google.com/uc?id=1QrHV_lH3ESUSiN-4bYwrMivMr5YlQK-A&export=download)
 *  [Beards of Power - Polymorph Version-42635-03cbeard-1611369735.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42635/?tab=files&file_id=181178)
 *  [Beards of Power HDT-SMP-55576-1-1-1633103967.rar](https://www.nexusmods.com/skyrimspecialedition/mods/55576/?tab=files&file_id=231877)
 *  [Beauty Body Preset-59589-1-1-1641860485.rar](https://www.nexusmods.com/skyrimspecialedition/mods/59589/?tab=files&file_id=255773)
