@@ -1,8 +1,8 @@
 {
   "MachineURL": "wj-featured/tbv",
   "Name": "The Bustling Valley",
-  "Version": "0.7.5",
-  "ModListHash": "BmKB7F0UVWg=",
+  "Version": "0.7.6",
+  "ModListHash": "7lmZs43aSBg=",
   "Archives": [
     {
       "Status": "Valid",
@@ -21,14 +21,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VYT9xafKeqs=",
-        "Meta": "[General]\ndirectURL=https://github.com/Yagisan/SS2-City-Plan-Contest-Helper/releases/download/rootbuilder-5.0.2/rootbuilder.5.0.2.zip",
-        "Name": "rootbuilder.5.0.2.zip",
-        "Size": 947524,
+        "Hash": "n/1WY9ecjOs=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=7286\nfileID=102873",
+        "Name": "Ridgeside Village-7286-2-5-13-1717733225.zip",
+        "Size": 32424630,
         "State": {
-          "$type": "HttpDownloader, Wabbajack.Lib",
-          "Headers": [],
-          "Url": "https://github.com/Yagisan/SS2-City-Plan-Contest-Helper/releases/download/rootbuilder-5.0.2/rootbuilder.5.0.2.zip"
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Rafseazz and mamaesh - Assisted by RSV Council",
+          "Description": "Ridgeside Village adds over 50 new NPCs, a new location, new items, new shops, new festivals, custom music, custom quests, and more!",
+          "FileID": 102873,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/7286/7286-1660896468-977490496.png",
+          "IsNSFW": false,
+          "ModID": 7286,
+          "Name": "Ridgeside Village",
+          "Version": "2.5.3"
         }
       }
     },
@@ -56,62 +63,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "OLBF5o7bmCk=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=20266\nfileID=104742",
-        "Name": "Blue Eggs and Golden Mayo-20266-1-1-2-1719106001.zip",
-        "Size": 4549,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "6480",
-          "Description": "Adds blue eggs and blue mayo for blue chickens, as well as golden mayo from golden eggs.",
-          "FileID": 104742,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/20266/20266-1708322141-151493610.png",
-          "IsNSFW": false,
-          "ModID": 20266,
-          "Name": "(CP) Blue Eggs and Golden Mayo",
-          "Version": "1.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "TK8kpkJ5qeg=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=9992\nfileID=95757",
-        "Name": "(CP) FM Bakery Set-9992-1-0-1-1714237587.zip",
-        "Size": 78281,
+        "Hash": "2rHCK0o4B4M=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=9991\nfileID=99323",
+        "Name": "HxW Bakery-9991-1-0-1-1715809577.zip",
+        "Size": 221139,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Himetarts and Wildflour",
-          "Description": "Farmer\u0027s Market Furniture set for all of your fresh bread needs! 40\u002B pieces for Content Patcher.",
-          "FileID": 95757,
+          "Description": "Hey kid. \n\nYou wanna build your own bakery?\n\nBoy do I got 50\u002B furniture items for you.",
+          "FileID": 99323,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/9992/9992-1713713441-1360623155.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/9991/9991-1714920133-1403210286.png",
           "IsNSFW": false,
-          "ModID": 9992,
-          "Name": "(CP) HxW Farmer\u0027s Market Furniture - Bakery Set",
-          "Version": "1.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "pib0/wn/G1s=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=16693\nfileID=95754",
-        "Name": "(CP) Outdoor Furniture-16693-2-0-2-1714237438.zip",
-        "Size": 292271,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Himetarts and Wildflour",
-          "Description": "Stylish outdoor furniture set for DGA or AT.",
-          "FileID": 95754,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/16693/16693-1684108243-2043459823.png",
-          "IsNSFW": false,
-          "ModID": 16693,
-          "Name": "(DGA AT) HxW Outdoor Furniture",
+          "ModID": 9991,
+          "Name": "(CP) Hxw Bakery and Cafe Furniture",
           "Version": "1.0.0"
         }
       }
@@ -119,42 +84,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Eh5xrz1LLq4=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=5751\nfileID=50976",
-        "Name": "Krobus Spouse Room for Content Patcher-5751-1-1-1645127672.zip",
-        "Size": 54688,
+        "Hash": "34EwWlGEXNc=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=18814\nfileID=99318",
+        "Name": "Farmer\u0027s Market Core-18814-2-0-2-1715807010.zip",
+        "Size": 237752,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LemurKat",
-          "Description": "Turns the sewer into a far more pleasant place to hang out - for both shadow people and player characters!",
-          "FileID": 50976,
+          "Author": "Himetarts and Wildflour",
+          "Description": "Farmer\u0027s Market Furniture set for all of your farmer and merchant needs! 100\u002B pieces for Content Patcher",
+          "FileID": 99318,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/5751/5751-1586305469-126802808.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/18814/18814-1697848434-1338079158.png",
           "IsNSFW": false,
-          "ModID": 5751,
-          "Name": "A Cleaner Sewer (with matching Krobus Spouse Room)",
-          "Version": "1.2.3"
+          "ModID": 18814,
+          "Name": "(CP) HxW Farmer\u0027s Market Furniture - Core",
+          "Version": "2.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "5dD0NPICugM=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=8515\nfileID=103914",
-        "Name": "Main mod-8515-2-2-1718449631.zip",
-        "Size": 385213,
+        "Hash": "Iq9vi2VDO/k=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=17577\nfileID=95756",
+        "Name": "(CP) HXW Romantic Furniture-17577-2-0-2-1714237536.zip",
+        "Size": 1936538,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "birdb",
-          "Description": "Adds Alpacas as a new barn animal.",
-          "FileID": 103914,
+          "Author": "Himetarts and Wildflour",
+          "Description": "Romantic outdoor furniture set for Content Patcher with 50\u002B pieces. Seasonal and NOW with 4 different color schemes to choose from!",
+          "FileID": 95756,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/8515/8515-1618324176-1446486779.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/17577/17577-1690315749-373729270.png",
           "IsNSFW": false,
-          "ModID": 8515,
-          "Name": "Alpacas",
-          "Version": "2.1"
+          "ModID": 17577,
+          "Name": "(CP) HxW Romantic Furniture",
+          "Version": "2.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "et9V3+i6Gas=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=20295\nfileID=107317",
+        "Name": "A New Dream-20295-1-61-0-1721495317.zip",
+        "Size": 5635503,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FellowClown",
+          "Description": "Adds a collection of NPCs to the wonderful place of East Scarp!",
+          "FileID": 107317,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/20295/20295-1708568826-1348072600.png",
+          "IsNSFW": false,
+          "ModID": 20295,
+          "Name": "A New Dream",
+          "Version": "1.0.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mZr5EWjRFrA=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=9246\nfileID=98988",
+        "Name": "Alternative Textures 7.3.0-9246-7-3-0-1715632526.zip",
+        "Size": 156636,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PeacefulEnd",
+          "Description": "Framework which enables texture variation for placeable objects, buildings and entities in Stardew Valley.",
+          "FileID": 98988,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/9246/9246-1628558331-28906488.png",
+          "IsNSFW": false,
+          "ModID": 9246,
+          "Name": "Alternative Textures",
+          "Version": "6.10.3"
         }
       }
     },
@@ -182,63 +189,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XADkuqX514w=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=1019\nfileID=95957",
-        "Name": "AutoAnimalDoors 4.2.0-1019-4-2-0-1714305935.zip",
-        "Size": 25156,
+        "Hash": "31xXM/ANJbw=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=22479\nfileID=95678",
+        "Name": "Auto-Eat 2.3.3.zip-22479-2-3-3-1714201919.zip",
+        "Size": 21035,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Aaron Taggart",
-          "Description": "Automate the animal door opening/closing process for all your barns and coop.",
-          "FileID": 95957,
+          "Author": "ruanimal",
+          "Description": "Eat food automatically upon running out of stamina or health.",
+          "FileID": 95678,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1019-0-1489953016.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/22479/22479-1713059729-1086992409.png",
           "IsNSFW": false,
-          "ModID": 1019,
-          "Name": "AutoAnimalDoors",
-          "Version": "3.3.0"
+          "ModID": 22479,
+          "Name": "Auto-Eat for 1.6",
+          "Version": "2.2.4"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "fFg3seS9ZMg=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=22879\nfileID=98537",
-        "Name": "Autonomals-22879-1-1-0-1715437024.zip",
-        "Size": 12998,
+        "Hash": "48+T3MbToCQ=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=6427\nfileID=84045",
+        "Name": "Ayeisha (Alpha) for 1.6.x-6427-0-7-3-alpha-1711107121.zip",
+        "Size": 3892095,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "DespairScent",
-          "Description": "Allows animals to walk around the farm while the player is not there",
-          "FileID": 98537,
+          "Author": "TheLimeyDragon",
+          "Description": "Ayeisha is a custom NPC who works for the Ferngill Postal Service. Who has a number of delivery events of vanilla and some custom characters.",
+          "FileID": 84045,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/22879/22879-1713601686-1325175732.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/6427/6427-1596453555-477531402.png",
           "IsNSFW": false,
-          "ModID": 22879,
-          "Name": "Autonomals",
-          "Version": "1.0.0"
+          "ModID": 6427,
+          "Name": "Ayeisha - The Postal Worker (Custom NPC)",
+          "Version": "0.6.2-alpha"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "A7YR0i7dHJw=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=13650\nfileID=104424",
-        "Name": "Beach Minecart-13650-1-4-2-1718840695.zip",
-        "Size": 18604,
+        "Hash": "MN2FSfu23bM=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=11115\nfileID=101959",
+        "Name": "Better Crafting-11115-2-13-0-1717186822.zip",
+        "Size": 501995,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "UncleArya",
-          "Description": "Adds an additional minecart location for the beach using Content Patcher.",
-          "FileID": 104424,
+          "Author": "Khloe Leclair",
+          "Description": "A new crafting UI with support for customizable categories and favorites. Easy bulk crafting. Better Workbench functionality. And, optionally, constructing buildings right from the crafting menu using an extra mod.",
+          "FileID": 101959,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/13650/13650-1672085266-1367013710.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/11115/11115-1645759815-384057014.png",
           "IsNSFW": false,
-          "ModID": 13650,
-          "Name": "Beach Minecart (CP)",
-          "Version": "1.3.2"
+          "ModID": 11115,
+          "Name": "Better Crafting",
+          "Version": "1.5.0"
         }
       }
     },
@@ -266,41 +273,62 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "EiN0XZo7Blw=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=859\nfileID=97020",
-        "Name": "BetterRanching-859-2-0-5-1714708537.zip",
-        "Size": 24863,
+        "Hash": "nsQs78MAyMw=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=19140\nfileID=94244",
+        "Name": "BirbCore-19140-1-0-3-1713715191.zip",
+        "Size": 47941,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Urbanyeti",
-          "Description": "Prevents failing milking/shearing attempts and adds an indicator when pets and animals can be petted, milked, or sheared.",
-          "FileID": 97020,
+          "Author": "drbirbdev",
+          "Description": "Core mod for my mods.  Provides shared functionality for all of my other mods.",
+          "FileID": 94244,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/859-0-1505780873.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/19140/19140-1711176391-479011156.png",
           "IsNSFW": false,
-          "ModID": 859,
-          "Name": "Better Ranching",
-          "Version": "1.9.2"
+          "ModID": 19140,
+          "Name": "Birb Core",
+          "Version": "1.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BOduRkjDsWg=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=22318\nfileID=102583",
-        "Name": "Peafowl-22318-1-0-3-1717550846.zip",
-        "Size": 49965,
+        "Hash": "fB13UOXcDx8=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=2544\nfileID=101867",
+        "Name": "Canon Friendly Dialogue Expansion-2544-2-3-1-1717127684.zip",
+        "Size": 260962,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ben and ParadigmNomad",
+          "Description": "Adds about 2600 new lines of dialogue across all 34 characters who have a heart level.",
+          "FileID": 101867,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/2544/2544-1532238548-2030469797.png",
+          "IsNSFW": false,
+          "ModID": 2544,
+          "Name": "Canon-Friendly Dialogue Expansion",
+          "Version": "2.1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3A7UHUE6Akk=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=22319\nfileID=105997",
+        "Name": "Yaks-22319-1-1-2-1720265623.zip",
+        "Size": 73046,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cantibleChaos silvermoonchan",
-          "Description": "cantibleChaos\u0027s BFAV Peafowl converted to CP",
-          "FileID": 102583,
+          "Description": "cantibleChaos\u0027s BFAV Yaks for CP",
+          "FileID": 105997,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/22318/22318-1712869242-134225454.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/22319/22319-1712869626-1613190506.png",
           "IsNSFW": false,
-          "ModID": 22318,
-          "Name": "cantibleChaos\u0027s BFAV Peafowl for 1.6",
+          "ModID": 22319,
+          "Name": "cantibleChaos\u0027s BFAV Yaks for 1.6",
           "Version": "1.0"
         }
       }
@@ -329,15 +357,36 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "vHXuWZth4I0=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=1915\nfileID=103140",
-        "Name": "Content Patcher 2.2.0-1915-2-2-0-1717881521.zip",
-        "Size": 323491,
+        "Hash": "w6J9pBX7hcM=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=15830\nfileID=96316",
+        "Name": "Clint Rewritten-15830-1-2-3-1714436149.zip",
+        "Size": 15767,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Agent Lyoko",
+          "Description": "Rewrites Clint\u0027s dialogue to be less weird toward both the player and Emily and making him slightly more well-adjusted.",
+          "FileID": 96316,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/15830/15830-1678565091-248153853.jpeg",
+          "IsNSFW": false,
+          "ModID": 15830,
+          "Name": "Clint Rewritten",
+          "Version": "1.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8yTqqTOPg1Y=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=1915\nfileID=105346",
+        "Name": "Content Patcher 2.3.0-1915-2-3-0-1719713862.zip",
+        "Size": 323939,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Pathoschild",
           "Description": "Loads content packs that change the game\u0027s data, images, and maps without replacing XNB files.",
-          "FileID": 103140,
+          "FileID": 105346,
           "GameName": "StardewValley",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1915/1915-1519967846-411398257.png",
           "IsNSFW": false,
@@ -350,15 +399,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "62fuCHgN93A=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=20290\nfileID=104325",
-        "Name": "Cornucopia - More Flowers-20290-1-5-1-1718759144.zip",
-        "Size": 797700,
+        "Hash": "0+0nnmQWOX8=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=20290\nfileID=106814",
+        "Name": "Cornucopia - More Flowers-20290-1-5-2-1720998025.zip",
+        "Size": 845303,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Cornucopia",
           "Description": "Adds more flowers , flower bushes, and flower trees to the game. Fully configurable and written to rely primarily on Content Patcher.",
-          "FileID": 104325,
+          "FileID": 106814,
           "GameName": "StardewValley",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/20290/20290-1710604648-152943893.png",
           "IsNSFW": false,
@@ -413,27 +462,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Pr2uS2ahzOI=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=22714\nfileID=103015",
-        "Name": "Date Night Redux-22714-2-1-2-1717810421.zip",
-        "Size": 245756,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Agent Lyoko - original mod by LiveOnSUPERT",
-          "Description": "Go on dates after marriage with your spouse(s)! An updated version of Date Night that works on 1.6. Requires Stardew Valley 1.6.4\u002B.",
-          "FileID": 103015,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/22714/22714-1713494221-695771954.png",
-          "IsNSFW": false,
-          "ModID": 22714,
-          "Name": "Date Night Redux",
-          "Version": "2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "6aY3ES79ZeM=",
         "Meta": "[General]\ngameName=stardewvalley\nmodID=17575\nfileID=86330",
         "Name": "Demetrius Visits Farm Cave Redux-17575-0-1-2-1711593010.zip",
@@ -455,15 +483,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "McDEmHRyzXw=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=18109\nfileID=98747",
-        "Name": "Distant Lands - Witch Swamp Overhaul-18109-2-0-8-1715531641.zip",
-        "Size": 1020111,
+        "Hash": "cLtePTunx/o=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=18109\nfileID=105199",
+        "Name": "Distant Lands - Witch Swamp Overhaul-18109-2-1-0-1719565166.zip",
+        "Size": 977340,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Aimon111",
           "Description": "A small expansion mod for Stardew Valley. This mod changes the look of vanilla Witch Swamp map, making it look more lively and realistic. Adds new endgame NPC, quests, items, fish, crops, forage and more!",
-          "FileID": 98747,
+          "FileID": 105199,
           "GameName": "StardewValley",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/18109/18109-1699791363-895397758.png",
           "IsNSFW": false,
@@ -581,21 +609,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QL8/iNa874o=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=7431\nfileID=91716",
-        "Name": "Expanded Storage-7431-3-0-5-1712974531.zip",
-        "Size": 90821,
+        "Hash": "Ttwrb4zakjw=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=6529\nfileID=81813",
+        "Name": "Expanded Preconditions Utility 1.0.2-alpha.2024022-6529-1-0-2-alpha-20240225-1708900395.zip",
+        "Size": 15161,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LeFauxMatt",
-          "Description": "Expanded Storage allows Content Pack Creators to add more custom storage options to the game.",
-          "FileID": 91716,
+          "Author": "Cherry",
+          "Description": "A utility mod built on top of the game\u0027s preconditions system to offer a conditions system any mod can use",
+          "FileID": 81813,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/7431/7431-1615155081-373427893.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/6529/6529-1595730677-2021593035.png",
           "IsNSFW": false,
-          "ModID": 7431,
-          "Name": "Expanded Storage",
-          "Version": "2.0.3"
+          "ModID": 6529,
+          "Name": "Expanded Preconditions Utility",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LXb3dOxM29A=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=16507\nfileID=107813",
+        "Name": "Farmhouse Fixes-16507-1-7-15-1721990618.zip",
+        "Size": 27777,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CyanFire",
+          "Description": "Various fixes/QOL improvements for Farmhouse/Cabins, intended for mod creators and mod users alike.",
+          "FileID": 107813,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/16507/16507-1682867466-1931758483.png",
+          "IsNSFW": false,
+          "ModID": 16507,
+          "Name": "Farmhouse Fixes",
+          "Version": "1.6.4"
         }
       }
     },
@@ -623,21 +672,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "J55/CnmxEe4=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=10931\nfileID=82854",
-        "Name": "Flexible Sprinklers-10931-3-0-0-1710882861.zip",
-        "Size": 59473,
+        "Hash": "Lxb8WNxlt6M=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=19264\nfileID=87113",
+        "Name": "Fixed Luau Bridge-19264-1-0-1-1711790714.zip",
+        "Size": 5584,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Shockah",
-          "Description": "Ever hated having to put a sprinkler in the middle of your crops? Ever wanted to make a layout that isn\u0027t 5x5? Now you can!",
-          "FileID": 82854,
+          "Author": "Airyn",
+          "Description": "No more disappearing beach bridge at the luau!",
+          "FileID": 87113,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/10931/10931-1676058160-29184854.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/19264/19264-1700658957-884096356.png",
           "IsNSFW": false,
-          "ModID": 10931,
-          "Name": "Flexible Sprinklers",
-          "Version": "2.1.1"
+          "ModID": 19264,
+          "Name": "Fixed Luau Bridge",
+          "Version": "1.0.0"
         }
       }
     },
@@ -686,15 +735,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "jmBTYHVGztE=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=20340\nfileID=104324",
-        "Name": "Growable Forage and Crop Bushes-20340-1-4-4-1718758861.zip",
-        "Size": 139659,
+        "Hash": "SNWg0Pcs6pY=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=20340\nfileID=106815",
+        "Name": "Growable Forage and Crop Bushes-20340-1-4-5-1720998091.zip",
+        "Size": 140090,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Cornucopia",
           "Description": "A configurable mod that adds a few new crops to grow vanilla forage items, as well as converts some vanilla crops into perennial \u0022bushes\u0022.",
-          "FileID": 104324,
+          "FileID": 106815,
           "GameName": "StardewValley",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/20340/20340-1708809312-1644448465.png",
           "IsNSFW": false,
@@ -728,15 +777,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "14eJHEOsBG0=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=11881\nfileID=103522",
-        "Name": "Integrated Minecarts for SDV 1.6-11881-4-4-0-1718177928.zip",
-        "Size": 97362,
+        "Hash": "ZsERDK3Ur1Q=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=11881\nfileID=107854",
+        "Name": "Integrated Minecarts for SDV 1.6-11881-4-5-6-1722040879.zip",
+        "Size": 105126,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Jibblestein",
           "Description": "A content pack for MinecartPatcher that adds new minecarts to certain locations for convenience and also integrates minecarts from Ridgeside Village and East Scarp into the vanilla minecart network. Placement of new minecarts also has SVE in mind.\n\n\n\nIncludes translations for Chinese, Russian, and Portuguese",
-          "FileID": 103522,
+          "FileID": 107854,
           "GameName": "StardewValley",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/11881/11881-1653377436-1307984230.jpeg",
           "IsNSFW": false,
@@ -826,27 +875,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "e7IyRI2vzsw=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=10770\nfileID=104584",
-        "Name": "Lurking in the Dark (1.6)-10770-2-1-6-1718959894.zip",
-        "Size": 512328,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "7thAxis",
-          "Description": "Adds a new shadow guy NPC to East Scarp!",
-          "FileID": 104584,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/10770/10770-1691957575-1276710338.png",
-          "IsNSFW": false,
-          "ModID": 10770,
-          "Name": "Lurking in the Dark - NPC Sen (East Scarp)",
-          "Version": "1.1.9"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "8Qtm0HyeRT4=",
         "Meta": "[General]\ngameName=stardewvalley\nmodID=14493\nfileID=97277",
         "Name": "MEEP-14493-2-3-7-1714828638.zip",
@@ -910,15 +938,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "SoDQF5+K6mA=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=22600\nfileID=104787",
-        "Name": "Passerby Cemetery-22600-1-44-0-1719145770.zip",
-        "Size": 12417001,
+        "Hash": "B2hIXUrMBMc=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=22600\nfileID=107758",
+        "Name": "Passerby Cemetery-22600-1-60-0-1721921268.zip",
+        "Size": 12541515,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "FellowClown",
           "Description": "Passerby Cemetery is fan-made edition to ConcernedApe\u0027s Stardew Valley. It adds four npcs currently and will continue to update and add more in the future.",
-          "FileID": 104787,
+          "FileID": 107758,
           "GameName": "StardewValley",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/22600/22600-1713224643-946677680.png",
           "IsNSFW": false,
@@ -931,15 +959,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "eOhk/Vi585U=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=20599\nfileID=100154",
-        "Name": "PolyamorySweet-20599-1-1-8-1716188865.zip",
-        "Size": 4697494,
+        "Hash": "728UBHCqco4=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=20599\nfileID=107738",
+        "Name": "PolyamorySweet-20599-1-1-9-1721906637.zip",
+        "Size": 4698141,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "ApryllForever",
           "Description": "Permits multiple spouses or roommates, allows multiple spouses at weddings, and also, unlimited hugging and kissing!!! For Stardew 1.6. Compatible with SVE, RSV, ES, ARV, and any other expansion with datable NPC\u0027s!",
-          "FileID": 100154,
+          "FileID": 107738,
           "GameName": "StardewValley",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/20599/20599-1710869743-548542258.png",
           "IsNSFW": false,
@@ -1029,27 +1057,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "n/1WY9ecjOs=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=7286\nfileID=102873",
-        "Name": "Ridgeside Village-7286-2-5-13-1717733225.zip",
-        "Size": 32424630,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Rafseazz and mamaesh - Assisted by RSV Council",
-          "Description": "Ridgeside Village adds over 50 new NPCs, a new location, new items, new shops, new festivals, custom music, custom quests, and more!",
-          "FileID": 102873,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/7286/7286-1660896468-977490496.png",
-          "IsNSFW": false,
-          "ModID": 7286,
-          "Name": "Ridgeside Village",
-          "Version": "2.5.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "407VhLGROp8=",
         "Meta": "[General]\ngameName=stardewvalley\nmodID=23020\nfileID=97728",
         "Name": "Seasonal Wedding Arch-23020-1-1-0-1715013137.zip",
@@ -1071,15 +1078,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "4rmv0w1jrZs=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=3990\nfileID=38183",
-        "Name": "Snow-Covered Craftables-3990-3-0-0-1613534576.zip",
-        "Size": 21644,
+        "Hash": "QM5XPGRq71Q=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=3990\nfileID=105440",
+        "Name": "Snow-Covered Craftables-3990-4-0-0-1719792547.zip",
+        "Size": 19035,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "LadyEleven",
           "Description": "A Content Patcher pack that layers snow on top of outdoor items in the winter.",
-          "FileID": 38183,
+          "FileID": 105440,
           "GameName": "StardewValley",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/3990/3990-1558991382-75753150.png",
           "IsNSFW": false,
@@ -1092,15 +1099,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "wJtOYwkwIJ0=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=1348\nfileID=96132",
-        "Name": "SpaceCore 1.23.1-1348-1-23-1-1714360709.zip",
-        "Size": 216087,
+        "Hash": "6p3SPP9glpM=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=1348\nfileID=107770",
+        "Name": "SpaceCore 1.24.2-1348-1-24-2-1721940894.zip",
+        "Size": 234891,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "spacechase0",
           "Description": "A framework mod used by some of my other mods.",
-          "FileID": 96132,
+          "FileID": 107770,
           "GameName": "StardewValley",
           "ImageURL": null,
           "IsNSFW": false,
@@ -1113,62 +1120,41 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "1cz/m8jeWbM=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=7638\nfileID=36145",
-        "Name": "Prepare For New Day-7638-1-0-1-1611076392.zip",
-        "Size": 5699,
+        "Hash": "7Y5eKYmueOA=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=22207\nfileID=105994",
+        "Name": "Turkeys-22207-1-0-6-1720265303.zip",
+        "Size": 67273,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "igotnousername",
-          "Description": "Stops time when you wake up, and when you are in the house after 1:00 AM.",
-          "FileID": 36145,
+          "Author": "Syanide23 silvermoonchan",
+          "Description": "Syanide23\u0027s BFAV Turkeys for CP",
+          "FileID": 105994,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/7638/7638-1610601390-1642598972.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/22207/22207-1712722948-759985001.png",
           "IsNSFW": false,
-          "ModID": 7638,
-          "Name": "Prepare for New Day",
-          "Version": "1.0.1"
+          "ModID": 22207,
+          "Name": "Syanide23\u0027s Turkeys for 1.6",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QpB0KbibwRc=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=16874\nfileID=95755",
-        "Name": "(CP) HxW Fairy Garden Furniture-16874-2-0-2-1714237496.zip",
-        "Size": 175293,
+        "Hash": "TK8kpkJ5qeg=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=9992\nfileID=95757",
+        "Name": "(CP) FM Bakery Set-9992-1-0-1-1714237587.zip",
+        "Size": 78281,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Himetarts and Wildflour",
-          "Description": "Whimsical outdoor furniture set for AT \u0026amp; D",
-          "FileID": 95755,
+          "Description": "Farmer\u0027s Market Furniture set for all of your fresh bread needs! 40\u002B pieces for Content Patcher.",
+          "FileID": 95757,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/16874/16874-1685588192-1277826920.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/9992/9992-1713713441-1360623155.png",
           "IsNSFW": false,
-          "ModID": 16874,
-          "Name": "(DGA AT) HxW Fairy Garden Furniture",
-          "Version": "1.1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "z8uKEoXmtUQ=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=18202\nfileID=102874",
-        "Name": "Seasonal Outfits for Ridgeside Village-18202-1-1-3-1717733406.zip",
-        "Size": 3208190,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Rafseazz and the Ridgeside Village Council",
-          "Description": "The official seasonal outfits mod for Rafseazz\u0027s Ridgeside Village.",
-          "FileID": 102874,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/18202/18202-1694438919-244282033.png",
-          "IsNSFW": false,
-          "ModID": 18202,
-          "Name": "Seasonal Outfits for Ridgeside Village",
+          "ModID": 9992,
+          "Name": "(CP) HxW Farmer\u0027s Market Furniture - Bakery Set",
           "Version": "1.0.1"
         }
       }
@@ -1176,161 +1162,182 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VuqQ93S4xE8=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=5070\nfileID=94159",
-        "Name": "Ranch Expansion-5070-1-5-8-1713690680.zip",
-        "Size": 562803,
+        "Hash": "ScBMesTTYmg=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=7336\nfileID=88769",
+        "Name": "Sit N\u0027 Relax-7336-1-5-2-1712189946.zip",
+        "Size": 13560,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Lemurkat",
-          "Description": "Expands the characters of Marnie and Jas, with additional dialogue, new heart events, and an actual story arc!",
-          "FileID": 94159,
+          "Author": "MissCoriel",
+          "Description": "The most Advanced Sit mod out there!!",
+          "FileID": 88769,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/5070/5070-1584691593-653465384.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/7336/7336-1608754159-399904014.png",
           "IsNSFW": false,
-          "ModID": 5070,
-          "Name": "The Ranch Expansion Marnie and Jas",
-          "Version": "1.5.5"
+          "ModID": 7336,
+          "Name": "Sit N\u0027 Relax Rest Your Butt",
+          "Version": "1.5.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/g92NYnoZwc=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=6278\nfileID=88572",
-        "Name": "Unique Children 3.8-6278-3-8-1712151197.zip",
-        "Size": 4737813,
+        "Hash": "9GnOtttRzuY=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=9642\nfileID=104549",
+        "Name": "The Last Smoluanu A Dwarf Expansion-9642-1-1-1-1718944363.zip",
+        "Size": 792315,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Shaklin",
-          "Description": "With this mod all players in multiplayer, depending on their spouse, have different looking children.\n\nOf course, you can also use it in single player.",
-          "FileID": 88572,
+          "Author": "LemurKat",
+          "Description": "Expanding on the character and lore of Dwarf, the lonely demihuman keeping shop in Pelican Town\u0027s mine. Adds dialogue, events, and a special roommate \u0022proposal\u0022 item so this mischievous little gremlin can come live with you.",
+          "FileID": 104549,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/6278/6278-1631108547-1664485556.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/9642/9642-1678009068-1588642284.png",
           "IsNSFW": false,
-          "ModID": 6278,
-          "Name": "Unique Children",
-          "Version": "3.8"
+          "ModID": 9642,
+          "Name": "The Last Smoluanu - A Dwarf Expansion.",
+          "Version": "1.0.6"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "bfgFP52Bjsk=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=5253\nfileID=81835",
-        "Name": "Upgrade Empty Cabins 1.1.0-alpha.20240225-5253-1-1-0-alpha-20240225-1708925351.zip",
-        "Size": 20543,
+        "Hash": "7GLltoh/Bz8=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=21790\nfileID=91565",
+        "Name": "Tortoises as Farm Animals-21790-1-0-7-1712934296.7z",
+        "Size": 13162,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Cherry",
-          "Description": "Upgrade uninhabited cabins and remove their seed boxes and beds",
-          "FileID": 81835,
+          "Author": "Paperkoopa",
+          "Description": "Adds tortoises as farm animals. They infrequently lay tortoise eggs.",
+          "FileID": 91565,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/5253/5253-1579720158-375286565.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/21790/21790-1712784150-1080611247.png",
           "IsNSFW": false,
-          "ModID": 5253,
-          "Name": "Upgrade Empty Cabins",
-          "Version": "1.0.4"
+          "ModID": 21790,
+          "Name": "Tortoises as Farm Animals",
+          "Version": "1.0.7"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "oDhCeSs4udA=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=8167\nfileID=89871",
-        "Name": "WaterBot-8167-1-3-0-1712462007.zip",
-        "Size": 30229,
+        "Hash": "N89kgjelA28=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=21501\nfileID=101217",
+        "Name": "UGDE 2.0-21501-2-0-0-1716792188.zip",
+        "Size": 566499,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Andrew Young",
-          "Description": "Right-click with your watering can and watch yourself water your crops! Unlike other mods, the crops won\u0027t be instantly watered. Your farmer will go crop by crop watering them, expending the same amount of time and energy as if you had done it yourself to keep as vanilla as possible, but a lot less tedious!",
-          "FileID": 89871,
+          "Author": "PrincessFelicie",
+          "Description": "Adds 150\u002B lines of dialogue related to gifting townies specific items.",
+          "FileID": 101217,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/8167/8167-1614423251-876173582.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/21501/21501-1711922292-1261748846.jpeg",
           "IsNSFW": false,
-          "ModID": 8167,
-          "Name": "Water Bot",
-          "Version": "1.2.1"
+          "ModID": 21501,
+          "Name": "Unique Gift Dialogues Expanded",
+          "Version": "1.1.0b"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HUCZIVeezKU=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=11362\nfileID=87789",
-        "Name": "Yagisan\u0027s Clint Shop Expanded-11362-2-0-2-1711939747.7z",
-        "Size": 1032,
+        "Hash": "SrI7c+JxyCk=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=8897\nfileID=100507",
+        "Name": "Visible FIsh 0.4.2-8897-0-4-2-1716408510.zip",
+        "Size": 42255,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "shekurika",
+          "Description": "This mod shows fish that are currently catchable in the water. Works with modded locations \u002B fish!",
+          "FileID": 100507,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/8897/8897-1623348043-1700818736.png",
+          "IsNSFW": false,
+          "ModID": 8897,
+          "Name": "Visible Fish - see catchable fish in the water",
+          "Version": "0.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "a7uhP+pUIOI=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=7768\nfileID=83225",
+        "Name": "Watering Grants XP And Crops Can Wither 1.2-7768-1-2-1710939370.zip",
+        "Size": 16304,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Goldenrevolver",
+          "Description": "Watering crops with the watering can grants experience, also crops may die if they are not watered",
+          "FileID": 83225,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/7768/7768-1644403194-543896043.png",
+          "IsNSFW": false,
+          "ModID": 7768,
+          "Name": "Watering Grants Experience And Crops Can Wither",
+          "Version": "1.1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2lpE+LRqIwQ=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=13437\nfileID=101151",
+        "Name": "Creative Differences 3.1.2-13437-3-1-2-1716759989.zip",
+        "Size": 13150552,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TheFrenchDodo",
+          "Description": "Meet two-time award winner, author Rodney O\u0027Brien! \n\nThis mod adds a new NPC to East Scarp. A friendly writer who happens to be Elliott\u0027s uncle.",
+          "FileID": 101151,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/13437/13437-1675875677-744935948.png",
+          "IsNSFW": false,
+          "ModID": 13437,
+          "Name": "Creative Differences - NPC Rodney (East Scarp)",
+          "Version": "1.0.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8hsXMn4z4MI=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=8174\nfileID=101078",
+        "Name": "Yagisan - Custom NPCs for NPC Map Locations-8174-1-2-1-1716720023.7z",
+        "Size": 7226,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Yagisan",
-          "Description": "Enables purchasing of a selection of useful item from Clint\u0027s shop",
-          "FileID": 87789,
+          "Description": "This mod was created to show custom NPC\u0027s on the world map using NPC Map Locations. It does not include any maps.",
+          "FileID": 101078,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/11362/11362-1647695495-1925712162.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/8174/8174-1655590258-1018331114.png",
           "IsNSFW": false,
-          "ModID": 11362,
-          "Name": "Yagisan\u0027s Clint Shop Expanded",
-          "Version": "1.0.1"
+          "ModID": 8174,
+          "Name": "Yagisan\u0027s Custom NPCs for NPC Map Locations",
+          "Version": "1.1.25"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "h54m8DkvnUI=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=23395\nfileID=96152",
-        "Name": "Yagisan\u0027s Willy Shop Expanded-23395-1-0-0-1714370416.7z",
-        "Size": 1992,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Yagisan",
-          "Description": "Enables purchasing of a selection of useful items from Willy\u0027s shop",
-          "FileID": 96152,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/23395/23395-1714369999-536617984.png",
-          "IsNSFW": false,
-          "ModID": 23395,
-          "Name": "Yagisan\u0027s Willy Shop Expanded",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "T9bqVMAu1G8=",
-        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer-plugin_python/files/13536824/runner.zip",
-        "Name": "runner.zip",
-        "Size": 126808,
+        "Hash": "VYT9xafKeqs=",
+        "Meta": "[General]\ndirectURL=https://github.com/Yagisan/SS2-City-Plan-Contest-Helper/releases/download/rootbuilder-5.0.2/rootbuilder.5.0.2.zip",
+        "Name": "rootbuilder.5.0.2.zip",
+        "Size": 947524,
         "State": {
           "$type": "HttpDownloader, Wabbajack.Lib",
           "Headers": [],
-          "Url": "https://github.com/ModOrganizer2/modorganizer-plugin_python/files/13536824/runner.zip"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2rHCK0o4B4M=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=9991\nfileID=99323",
-        "Name": "HxW Bakery-9991-1-0-1-1715809577.zip",
-        "Size": 221139,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Himetarts and Wildflour",
-          "Description": "Hey kid. \n\nYou wanna build your own bakery?\n\nBoy do I got 50\u002B furniture items for you.",
-          "FileID": 99323,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/9991/9991-1714920133-1403210286.png",
-          "IsNSFW": false,
-          "ModID": 9991,
-          "Name": "(CP) Hxw Bakery and Cafe Furniture",
-          "Version": "1.0.0"
+          "Url": "https://github.com/Yagisan/SS2-City-Plan-Contest-Helper/releases/download/rootbuilder-5.0.2/rootbuilder.5.0.2.zip"
         }
       }
     },
@@ -1358,21 +1365,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "34EwWlGEXNc=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=18814\nfileID=99318",
-        "Name": "Farmer\u0027s Market Core-18814-2-0-2-1715807010.zip",
-        "Size": 237752,
+        "Hash": "QpB0KbibwRc=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=16874\nfileID=95755",
+        "Name": "(CP) HxW Fairy Garden Furniture-16874-2-0-2-1714237496.zip",
+        "Size": 175293,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Himetarts and Wildflour",
-          "Description": "Farmer\u0027s Market Furniture set for all of your farmer and merchant needs! 100\u002B pieces for Content Patcher",
-          "FileID": 99318,
+          "Description": "Whimsical outdoor furniture set for AT \u0026amp; D",
+          "FileID": 95755,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/18814/18814-1697848434-1338079158.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/16874/16874-1685588192-1277826920.png",
           "IsNSFW": false,
-          "ModID": 18814,
-          "Name": "(CP) HxW Farmer\u0027s Market Furniture - Core",
-          "Version": "2.0"
+          "ModID": 16874,
+          "Name": "(DGA AT) HxW Fairy Garden Furniture",
+          "Version": "1.1.1"
         }
       }
     },
@@ -1421,21 +1428,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Iq9vi2VDO/k=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=17577\nfileID=95756",
-        "Name": "(CP) HXW Romantic Furniture-17577-2-0-2-1714237536.zip",
-        "Size": 1936538,
+        "Hash": "pib0/wn/G1s=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=16693\nfileID=95754",
+        "Name": "(CP) Outdoor Furniture-16693-2-0-2-1714237438.zip",
+        "Size": 292271,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Himetarts and Wildflour",
-          "Description": "Romantic outdoor furniture set for Content Patcher with 50\u002B pieces. Seasonal and NOW with 4 different color schemes to choose from!",
-          "FileID": 95756,
+          "Description": "Stylish outdoor furniture set for DGA or AT.",
+          "FileID": 95754,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/17577/17577-1690315749-373729270.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/16693/16693-1684108243-2043459823.png",
           "IsNSFW": false,
-          "ModID": 17577,
-          "Name": "(CP) HxW Romantic Furniture",
-          "Version": "2.0.2"
+          "ModID": 16693,
+          "Name": "(DGA AT) HxW Outdoor Furniture",
+          "Version": "1.0.0"
         }
       }
     },
@@ -1463,78 +1470,36 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Ja3P532WA84=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=20295\nfileID=104789",
-        "Name": "A New Dream-20295-1-5-0-1719145917.zip",
-        "Size": 3484529,
+        "Hash": "5dD0NPICugM=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=8515\nfileID=103914",
+        "Name": "Main mod-8515-2-2-1718449631.zip",
+        "Size": 385213,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "FellowClown",
-          "Description": "Adds a collection of NPCs to the wonderful place of East Scarp!",
-          "FileID": 104789,
+          "Author": "birdb",
+          "Description": "Adds Alpacas as a new barn animal.",
+          "FileID": 103914,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/20295/20295-1708568826-1348072600.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/8515/8515-1618324176-1446486779.png",
           "IsNSFW": false,
-          "ModID": 20295,
-          "Name": "A New Dream",
-          "Version": "1.0.8"
+          "ModID": 8515,
+          "Name": "Alpacas",
+          "Version": "2.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "mZr5EWjRFrA=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=9246\nfileID=98988",
-        "Name": "Alternative Textures 7.3.0-9246-7-3-0-1715632526.zip",
-        "Size": 156636,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PeacefulEnd",
-          "Description": "Framework which enables texture variation for placeable objects, buildings and entities in Stardew Valley.",
-          "FileID": 98988,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/9246/9246-1628558331-28906488.png",
-          "IsNSFW": false,
-          "ModID": 9246,
-          "Name": "Alternative Textures",
-          "Version": "6.10.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "22oyEuJ1zrA=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=7769\nfileID=83237",
-        "Name": "Animals Die - Old Age - Hunger - Illness 1.7.2-7769-1-7-2-1710941099.zip",
-        "Size": 33132,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Goldenrevolver",
-          "Description": "Farm animals can die of old age, hunger or illness, like in the old days of harvest moon",
-          "FileID": 83237,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/7769/7769-1611700243-1515934186.png",
-          "IsNSFW": false,
-          "ModID": 7769,
-          "Name": "Animals Die - Old Age - Hunger - Illness",
-          "Version": "1.7.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "EfQKb5cqVUc=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=1063\nfileID=103127",
-        "Name": "Automate 2.2.3-1063-2-2-3-1717879845.zip",
-        "Size": 172994,
+        "Hash": "KXRsrzGEqj0=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=1063\nfileID=106176",
+        "Name": "Automate 2.2.5-1063-2-2-5-1720382798.zip",
+        "Size": 176365,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Pathoschild",
           "Description": "Place a chest next to a machine (like a furnace or crystalarium), and the machine will automatically pull raw items from the chest and push processed items into it. Connect multiple machines with a chest to link them.",
-          "FileID": 103127,
+          "FileID": 106176,
           "GameName": "StardewValley",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1063-0-1491361908.png",
           "IsNSFW": false,
@@ -1547,36 +1512,36 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "48+T3MbToCQ=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=6427\nfileID=84045",
-        "Name": "Ayeisha (Alpha) for 1.6.x-6427-0-7-3-alpha-1711107121.zip",
-        "Size": 3892095,
+        "Hash": "A7YR0i7dHJw=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=13650\nfileID=104424",
+        "Name": "Beach Minecart-13650-1-4-2-1718840695.zip",
+        "Size": 18604,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TheLimeyDragon",
-          "Description": "Ayeisha is a custom NPC who works for the Ferngill Postal Service. Who has a number of delivery events of vanilla and some custom characters.",
-          "FileID": 84045,
+          "Author": "UncleArya",
+          "Description": "Adds an additional minecart location for the beach using Content Patcher.",
+          "FileID": 104424,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/6427/6427-1596453555-477531402.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/13650/13650-1672085266-1367013710.png",
           "IsNSFW": false,
-          "ModID": 6427,
-          "Name": "Ayeisha - The Postal Worker (Custom NPC)",
-          "Version": "0.6.2-alpha"
+          "ModID": 13650,
+          "Name": "Beach Minecart (CP)",
+          "Version": "1.3.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "MN2FSfu23bM=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=11115\nfileID=101959",
-        "Name": "Better Crafting-11115-2-13-0-1717186822.zip",
-        "Size": 501995,
+        "Hash": "HCyDcKONCqw=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=11115\nfileID=88724",
+        "Name": "Magic Workbench-11115-1-0-0-1712181740.zip",
+        "Size": 3967,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Khloe Leclair",
           "Description": "A new crafting UI with support for customizable categories and favorites. Easy bulk crafting. Better Workbench functionality. And, optionally, constructing buildings right from the crafting menu using an extra mod.",
-          "FileID": 101959,
+          "FileID": 88724,
           "GameName": "StardewValley",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/11115/11115-1645759815-384057014.png",
           "IsNSFW": false,
@@ -1589,57 +1554,36 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qdO6nIJU2aQ=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=10631\nfileID=73492",
-        "Name": "Better Lightning Rods-10631-0-2-0-1689548689.zip",
-        "Size": 14106,
+        "Hash": "EiN0XZo7Blw=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=859\nfileID=97020",
+        "Name": "BetterRanching-859-2-0-5-1714708537.zip",
+        "Size": 24863,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "aedenthorn",
-          "Description": "Lets you tweak lightning rod and lightning strike settings.",
-          "FileID": 73492,
+          "Author": "Urbanyeti",
+          "Description": "Prevents failing milking/shearing attempts and adds an indicator when pets and animals can be petted, milked, or sheared.",
+          "FileID": 97020,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/10631/10631-1641997193-158218051.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/859-0-1505780873.png",
           "IsNSFW": false,
-          "ModID": 10631,
-          "Name": "Better Lightning Rods",
-          "Version": "0.2.0"
+          "ModID": 859,
+          "Name": "Better Ranching",
+          "Version": "1.9.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "d+SYjp6Ts5w=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=20600\nfileID=101478",
-        "Name": "Buildable Ginger Island Farm 1.0.4-20600-1-0-4-1716918103.zip",
-        "Size": 28526,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mouahrara",
-          "Description": "The Buildable Ginger Island Farm Mod allows you to build on Ginger Island farm!",
-          "FileID": 101478,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/20600/20600-1710717504-982664235.jpeg",
-          "IsNSFW": false,
-          "ModID": 20600,
-          "Name": "Buildable Ginger Island Farm",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+GVMBu/F7i0=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=22323\nfileID=103602",
-        "Name": "Camels-22323-1-2-1718231825.zip",
-        "Size": 21296,
+        "Hash": "cDmHzSxK6t0=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=22323\nfileID=106001",
+        "Name": "Camels-22323-1-2-2-1720266004.zip",
+        "Size": 21341,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cantibleChaos silvermoonchan",
           "Description": "cantibleChaos\u0027s BFAV Camels for CP",
-          "FileID": 103602,
+          "FileID": 106001,
           "GameName": "StardewValley",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/22323/22323-1712871154-870028617.png",
           "IsNSFW": false,
@@ -1652,15 +1596,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "MTDTF1ZUTJI=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=22320\nfileID=102581",
-        "Name": "Oxen-22320-1-0-3-1717550712.zip",
-        "Size": 38215,
+        "Hash": "BU8slusdtQI=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=22320\nfileID=105998",
+        "Name": "Oxen-22320-1-0-4-1720265684.zip",
+        "Size": 38224,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cantibleChaos silvermoonchan",
           "Description": "cantibleChaos\u0027s BFAV Oxen for CP",
-          "FileID": 102581,
+          "FileID": 105998,
           "GameName": "StardewValley",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/22320/22320-1712869977-1657987835.png",
           "IsNSFW": false,
@@ -1673,20 +1617,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "JAa6ZBc+8h8=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=22319\nfileID=103603",
-        "Name": "Yaks-22319-1-0-5-1718231914.zip",
-        "Size": 73023,
+        "Hash": "XXaWoEYLjY4=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=22318\nfileID=105996",
+        "Name": "Peafowl-22318-1-0-4-1720265560.zip",
+        "Size": 50086,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "cantibleChaos silvermoonchan",
-          "Description": "cantibleChaos\u0027s BFAV Yaks for CP",
-          "FileID": 103603,
+          "Description": "cantibleChaos\u0027s BFAV Peafowl converted to CP",
+          "FileID": 105996,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/22319/22319-1712869626-1613190506.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/22318/22318-1712869242-134225454.png",
           "IsNSFW": false,
-          "ModID": 22319,
-          "Name": "cantibleChaos\u0027s BFAV Yaks for 1.6",
+          "ModID": 22318,
+          "Name": "cantibleChaos\u0027s BFAV Peafowl for 1.6",
           "Version": "1.0"
         }
       }
@@ -1694,15 +1638,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WxfM+Fxs0hc=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=518\nfileID=103128",
-        "Name": "Chests Anywhere 1.23.5-518-1-23-5-1717879973.zip",
-        "Size": 139619,
+        "Hash": "NAJ0f9JGJQ8=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=518\nfileID=105529",
+        "Name": "Chests Anywhere 1.24.1-518-1-24-1-1719874816.zip",
+        "Size": 143189,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Pathoschild",
           "Description": "Access your chests, dressers, fridge, shipping bin, and Junimo huts from anywhere and organise them your way. Transfer items without having to run around, from the comfort of your bed to the deepest mine level. Includes optional balanced mode.",
-          "FileID": 103128,
+          "FileID": 105529,
           "GameName": "StardewValley",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/518-0-1471405790.png",
           "IsNSFW": false,
@@ -1715,36 +1659,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "w6J9pBX7hcM=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=15830\nfileID=96316",
-        "Name": "Clint Rewritten-15830-1-2-3-1714436149.zip",
-        "Size": 15767,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Agent Lyoko",
-          "Description": "Rewrites Clint\u0027s dialogue to be less weird toward both the player and Emily and making him slightly more well-adjusted.",
-          "FileID": 96316,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/15830/15830-1678565091-248153853.jpeg",
-          "IsNSFW": false,
-          "ModID": 15830,
-          "Name": "Clint Rewritten",
-          "Version": "1.1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "suRS1Mm2u74=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=19200\nfileID=104785",
-        "Name": "ClownCore-19200-1-34-0-1719145557.zip",
-        "Size": 5245067,
+        "Hash": "NVKTP0BmI3E=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=19200\nfileID=107563",
+        "Name": "ClownCore-19200-1-42-0-1721736044.zip",
+        "Size": 5480035,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "FellowClown",
           "Description": "This mod adds multiple tilesheets that are required for my mods to run as well as festival map edits, new locations, and more!",
-          "FileID": 104785,
+          "FileID": 107563,
           "GameName": "StardewValley",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/19200/19200-1708902808-805641544.png",
           "IsNSFW": false,
@@ -1799,42 +1722,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BawyRJm9/9A=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=19508\nfileID=104323",
-        "Name": "Cornucopia - More Crops-19508-1-5-3-1718758703.zip",
-        "Size": 855325,
+        "Hash": "xkrJUb6aQOU=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=19508\nfileID=106813",
+        "Name": "Cornucopia - More Crops-19508-1-5-4-1720997954.zip",
+        "Size": 856490,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Cornucopia",
           "Description": "Adds more crops, bushes, and trees to the game. Fully configurable and written to rely primarily on Content Patcher.",
-          "FileID": 104323,
+          "FileID": 106813,
           "GameName": "StardewValley",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/19508/19508-1710246805-919654723.png",
           "IsNSFW": false,
           "ModID": 19508,
           "Name": "Cornucopia - More Crops",
           "Version": "1.4.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2lpE+LRqIwQ=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=13437\nfileID=101151",
-        "Name": "Creative Differences 3.1.2-13437-3-1-2-1716759989.zip",
-        "Size": 13150552,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "TheFrenchDodo",
-          "Description": "Meet two-time award winner, author Rodney O\u0027Brien! \n\nThis mod adds a new NPC to East Scarp. A friendly writer who happens to be Elliott\u0027s uncle.",
-          "FileID": 101151,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/13437/13437-1675875677-744935948.png",
-          "IsNSFW": false,
-          "ModID": 13437,
-          "Name": "Creative Differences - NPC Rodney (East Scarp)",
-          "Version": "1.0.8"
         }
       }
     },
@@ -1862,21 +1764,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "RlteJ1YTU/4=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=1691\nfileID=103172",
-        "Name": "Data Layers 1.17.1-1691-1-17-1-1717916501.zip",
-        "Size": 145961,
+        "Hash": "YKIsFnPkWM0=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=1691\nfileID=105348",
+        "Name": "Data Layers 1.17.2-1691-1-17-2-1719714116.zip",
+        "Size": 145803,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Pathoschild",
           "Description": "Overlay the world with visual data like bee/Junimo/scarecrow/sprinkler coverage, hidden paths and warps, and more.",
-          "FileID": 103172,
+          "FileID": 105348,
           "GameName": "StardewValley",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1691/1691-1574803983-159869839.png",
           "IsNSFW": false,
           "ModID": 1691,
           "Name": "Data Layers",
           "Version": "1.15.10"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nFl1sJnBvFE=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=22714\nfileID=107347",
+        "Name": "Date Night Redux-22714-2-2-0-1721530041.zip",
+        "Size": 247507,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Agent Lyoko - original mod by LiveOnSUPERT",
+          "Description": "Go on dates after marriage with your spouse(s)! An updated version of Date Night that works on 1.6. Requires Stardew Valley 1.6.4\u002B.",
+          "FileID": 107347,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/22714/22714-1713494221-695771954.png",
+          "IsNSFW": false,
+          "ModID": 22714,
+          "Name": "Date Night Redux",
+          "Version": "2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "j3rLY05mnJ4=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=6304\nfileID=107933",
+        "Name": "Destroyable Bushes v1.4.1-6304-1-4-1-1722124219.zip",
+        "Size": 37176,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Esca-MMC",
+          "Description": "Destroyable Bushes allows players to destroy every type of bush with an upgraded axe (copper or better). Destroyed bushes drop small amounts of wood and regrow after 3 days by default. These features can be customized in the mod\u0027s settings.",
+          "FileID": 107933,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/6304/6304-1592298114-923227839.png",
+          "IsNSFW": false,
+          "ModID": 6304,
+          "Name": "Destroyable Bushes",
+          "Version": "1.2.2"
         }
       }
     },
@@ -1967,6 +1911,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "Z6t1xZhInDA=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=3231\nfileID=107930",
+        "Name": "Farm Type Manager v1.23.0-3231-1-23-0-1722122788.zip",
+        "Size": 128407,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Esca-MMC",
+          "Description": "Farm Type Manager is a spawning framework that allows players and modders to spawn customizable features from Stardew\u0027s farm types. It can automatically create forage, ore, monsters, and large objects (stumps, boulders, meteors, etc) at any location in the game.",
+          "FileID": 107930,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/3231/3231-1549594226-514724928.png",
+          "IsNSFW": false,
+          "ModID": 3231,
+          "Name": "Farm Type Manager (FTM)",
+          "Version": "1.16.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "CNW6w1SN/zU=",
         "Meta": "[General]\ngameName=stardewvalley\nmodID=17315\nfileID=83428",
         "Name": "Fievel Goes East Scarp-17315-1-2-1710968511.zip",
@@ -2051,27 +2016,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "rPuNftW0IpE=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=21409\nfileID=96711",
-        "Name": "Ilucie\u0027s Adopt a Hermy-21409-1-0-3-1714586418.rar",
-        "Size": 32888,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ilucie",
-          "Description": "Adopt a Hermit Crab as a custom pet.",
-          "FileID": 96711,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/21409/21409-1711826378-403177546.png",
-          "IsNSFW": false,
-          "ModID": 21409,
-          "Name": "Ilucie\u0027s Adopt a Hermy",
-          "Version": "1.0.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "m+6trUAfXFA=",
         "Meta": "[General]\ngameName=stardewvalley\nmodID=13609\nfileID=89097",
         "Name": "Immersive Sandy-13609-1-0-8-1712265213.zip",
@@ -2114,42 +2058,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "VMp1IDpCN7w=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=20357\nfileID=101320",
-        "Name": "Item Extensions-20357-1-6-1716849373.zip",
-        "Size": 138973,
+        "Hash": "cOj8bV+Qxqg=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=20357\nfileID=107954",
+        "Name": "Item Extensions-20357-1-9-1-1722144724.zip",
+        "Size": 143025,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "mistyspring",
           "Description": "Custom resources, custom mixed seeds, eating animations, and more. 1.6 framework",
-          "FileID": 101320,
+          "FileID": 107954,
           "GameName": "StardewValley",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/20357/20357-1710901164-1517036290.png",
           "IsNSFW": false,
           "ModID": 20357,
           "Name": "Item Extensions Framework",
           "Version": "1.1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "DN/Crb1iR4Y=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=5664\nfileID=87406",
-        "Name": "Jen\u0027s Cozy Cellar-5664-2-0-0-1711857591.zip",
-        "Size": 12041,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Jen",
-          "Description": "A cellar that is both home-y and can store your casks.",
-          "FileID": 87406,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/5664/5664-1585267868-1126130186.png",
-          "IsNSFW": false,
-          "ModID": 5664,
-          "Name": "Jen\u0027s Cozy Cellar",
-          "Version": "1.0.0"
         }
       }
     },
@@ -2177,15 +2100,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "276a4tXeJ8M=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=541\nfileID=103134",
-        "Name": "Lookup Anything 1.44.1-541-1-44-1-1717880681.zip",
-        "Size": 466410,
+        "Hash": "C+YJl5dOOWI=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=541\nfileID=106178",
+        "Name": "Lookup Anything 1.45.3-541-1-45-3-1720382958.zip",
+        "Size": 496531,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Pathoschild",
           "Description": "See live info about whatever\u0027s under your cursor when you press F1. Learn a villager\u0027s favourite gifts, when a crop will be ready to harvest, how long a fence will last, why your farm animals are unhappy, and more.",
-          "FileID": 103134,
+          "FileID": 106178,
           "GameName": "StardewValley",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/541-0-1482010183.png",
           "IsNSFW": false,
@@ -2213,6 +2136,27 @@
           "ModID": 10448,
           "Name": "Lumisteria Tilesheets - Outdoor",
           "Version": "1.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/c3oE8sXhYk=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=11317\nfileID=82513",
+        "Name": "Messy Crops-11317-2-0-0-1710781621.zip",
+        "Size": 11063,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "tlitookilakin",
+          "Description": "No more boring, tidy rows of crops! Adds a random offset to each crop to give your fields a wilder look. Can be disabled for trellis crops.",
+          "FileID": 82513,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/11317/11317-1647365281-1670935131.png",
+          "IsNSFW": false,
+          "ModID": 11317,
+          "Name": "Messy Crops",
+          "Version": "1.0.1"
         }
       }
     },
@@ -2261,15 +2205,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "fpYeSB04W1Y=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=18176\nfileID=97964",
-        "Name": "Nora the Herpetologist-18176-1-0-8-1715131232.zip",
-        "Size": 6108399,
+        "Hash": "/0s2NZPiDlg=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=18176\nfileID=107164",
+        "Name": "Nora the Herpetologist-18176-1-0-9-1721352567.zip",
+        "Size": 6109697,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Bagi",
           "Description": "Adds a new custom NPC for East Scarp: Nora, an enthusiastic and talkative herpetologist, and her adorable pets, Stupid the gecko and Pinkie Pie the corn snake!",
-          "FileID": 97964,
+          "FileID": 107164,
           "GameName": "StardewValley",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/18176/18176-1710978452-432883896.png",
           "IsNSFW": false,
@@ -2297,6 +2241,27 @@
           "ModID": 239,
           "Name": "NPC Map Locations",
           "Version": "2.11.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4OZ6rjFYyH4=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=10671\nfileID=107559",
+        "Name": "Alecto the Witch-10671-1-1-12-1721734896.zip",
+        "Size": 749773,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zoedoll",
+          "Description": "My version of the wizard\u0027s ex wife. Full NPC with events, dialogue and out-of-hut schedule!",
+          "FileID": 107559,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/10671/10671-1645324926-1867404588.png",
+          "IsNSFW": false,
+          "ModID": 10671,
+          "Name": "Alecto the Witch (new NPC)",
+          "Version": "1.1.7"
         }
       }
     },
@@ -2408,48 +2373,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "hSNY6dGzdkg=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=22207\nfileID=102696",
-        "Name": "Turkeys-22207-1-0-5-1717616342.zip",
-        "Size": 67189,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Syanide23 silvermoonchan",
-          "Description": "Syanide23\u0027s BFAV Turkeys for CP",
-          "FileID": 102696,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/22207/22207-1712722948-759985001.png",
-          "IsNSFW": false,
-          "ModID": 22207,
-          "Name": "Syanide23\u0027s Turkeys for 1.6",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "9GnOtttRzuY=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=9642\nfileID=104549",
-        "Name": "The Last Smoluanu A Dwarf Expansion-9642-1-1-1-1718944363.zip",
-        "Size": 792315,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "LemurKat",
-          "Description": "Expanding on the character and lore of Dwarf, the lonely demihuman keeping shop in Pelican Town\u0027s mine. Adds dialogue, events, and a special roommate \u0022proposal\u0022 item so this mischievous little gremlin can come live with you.",
-          "FileID": 104549,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/9642/9642-1678009068-1588642284.png",
-          "IsNSFW": false,
-          "ModID": 9642,
-          "Name": "The Last Smoluanu - A Dwarf Expansion.",
-          "Version": "1.0.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "tQj22U04o/I=",
         "Meta": "[General]\ngameName=stardewvalley\nmodID=7286\nfileID=102877",
         "Name": "The Music of Ridgeside Village-7286-2-5-9-1717733923.zip",
@@ -2471,42 +2394,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "7GLltoh/Bz8=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=21790\nfileID=91565",
-        "Name": "Tortoises as Farm Animals-21790-1-0-7-1712934296.7z",
-        "Size": 13162,
+        "Hash": "VuqQ93S4xE8=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=5070\nfileID=94159",
+        "Name": "Ranch Expansion-5070-1-5-8-1713690680.zip",
+        "Size": 562803,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Paperkoopa",
-          "Description": "Adds tortoises as farm animals. They infrequently lay tortoise eggs.",
-          "FileID": 91565,
+          "Author": "Lemurkat",
+          "Description": "Expands the characters of Marnie and Jas, with additional dialogue, new heart events, and an actual story arc!",
+          "FileID": 94159,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/21790/21790-1712784150-1080611247.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/5070/5070-1584691593-653465384.png",
           "IsNSFW": false,
-          "ModID": 21790,
-          "Name": "Tortoises as Farm Animals",
-          "Version": "1.0.7"
+          "ModID": 5070,
+          "Name": "The Ranch Expansion Marnie and Jas",
+          "Version": "1.5.5"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "N89kgjelA28=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=21501\nfileID=101217",
-        "Name": "UGDE 2.0-21501-2-0-0-1716792188.zip",
-        "Size": 566499,
+        "Hash": "/g92NYnoZwc=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=6278\nfileID=88572",
+        "Name": "Unique Children 3.8-6278-3-8-1712151197.zip",
+        "Size": 4737813,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PrincessFelicie",
-          "Description": "Adds 150\u002B lines of dialogue related to gifting townies specific items.",
-          "FileID": 101217,
+          "Author": "Shaklin",
+          "Description": "With this mod all players in multiplayer, depending on their spouse, have different looking children.\n\nOf course, you can also use it in single player.",
+          "FileID": 88572,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/21501/21501-1711922292-1261748846.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/6278/6278-1631108547-1664485556.png",
           "IsNSFW": false,
-          "ModID": 21501,
-          "Name": "Unique Gift Dialogues Expanded",
-          "Version": "1.1.0b"
+          "ModID": 6278,
+          "Name": "Unique Children",
+          "Version": "3.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "bfgFP52Bjsk=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=5253\nfileID=81835",
+        "Name": "Upgrade Empty Cabins 1.1.0-alpha.20240225-5253-1-1-0-alpha-20240225-1708925351.zip",
+        "Size": 20543,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cherry",
+          "Description": "Upgrade uninhabited cabins and remove their seed boxes and beds",
+          "FileID": 81835,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/5253/5253-1579720158-375286565.png",
+          "IsNSFW": false,
+          "ModID": 5253,
+          "Name": "Upgrade Empty Cabins",
+          "Version": "1.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oDhCeSs4udA=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=8167\nfileID=89871",
+        "Name": "WaterBot-8167-1-3-0-1712462007.zip",
+        "Size": 30229,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Andrew Young",
+          "Description": "Right-click with your watering can and watch yourself water your crops! Unlike other mods, the crops won\u0027t be instantly watered. Your farmer will go crop by crop watering them, expending the same amount of time and energy as if you had done it yourself to keep as vanilla as possible, but a lot less tedious!",
+          "FileID": 89871,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/8167/8167-1614423251-876173582.png",
+          "IsNSFW": false,
+          "ModID": 8167,
+          "Name": "Water Bot",
+          "Version": "1.2.1"
         }
       }
     },
@@ -2528,27 +2493,6 @@
           "ModID": 22681,
           "Name": "YACS - Yet Another Cooking Skill",
           "Version": "1.4.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "8hsXMn4z4MI=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=8174\nfileID=101078",
-        "Name": "Yagisan - Custom NPCs for NPC Map Locations-8174-1-2-1-1716720023.7z",
-        "Size": 7226,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Yagisan",
-          "Description": "This mod was created to show custom NPC\u0027s on the world map using NPC Map Locations. It does not include any maps.",
-          "FileID": 101078,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/8174/8174-1655590258-1018331114.png",
-          "IsNSFW": false,
-          "ModID": 8174,
-          "Name": "Yagisan\u0027s Custom NPCs for NPC Map Locations",
-          "Version": "1.1.25"
         }
       }
     },
@@ -2591,48 +2535,6 @@
           "ModID": 16029,
           "Name": "(AT) Nano\u0027s Retro Style Furniture",
           "Version": "1.1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "41WXwendxS0=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=10671\nfileID=95443",
-        "Name": "Alecto the Witch-10671-1-1-10-1714116861.zip",
-        "Size": 780004,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Zoedoll",
-          "Description": "My version of the wizard\u0027s ex wife. Full NPC with events, dialogue and out-of-hut schedule!",
-          "FileID": 95443,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/10671/10671-1645324926-1867404588.png",
-          "IsNSFW": false,
-          "ModID": 10671,
-          "Name": "Alecto the Witch (new NPC)",
-          "Version": "1.1.7"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fB13UOXcDx8=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=2544\nfileID=101867",
-        "Name": "Canon Friendly Dialogue Expansion-2544-2-3-1-1717127684.zip",
-        "Size": 260962,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ben and ParadigmNomad",
-          "Description": "Adds about 2600 new lines of dialogue across all 34 characters who have a heart level.",
-          "FileID": 101867,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/2544/2544-1532238548-2030469797.png",
-          "IsNSFW": false,
-          "ModID": 2544,
-          "Name": "Canon-Friendly Dialogue Expansion",
-          "Version": "2.1.3"
         }
       }
     },
@@ -2702,6 +2604,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "aRAZzwmC7O0=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=23781\nfileID=104331",
+        "Name": "Lantana-Spritesheet-23781-LCR1-2-1-1718762056.zip",
+        "Size": 15042,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "360021",
+          "Description": "\u4E00\u4E2A\u65B0\u7684\u884C\u8D70\u56FE\uFF0C\u66F4\u50CF\u7D20\u753B\u4E00\u70B9\u7684\u98CE\u683C\n\nA new walking diagram with more pixel drawing style",
+          "FileID": 104331,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/23781/23781-1715157246-839778663.png",
+          "IsNSFW": false,
+          "ModID": 23781,
+          "Name": "Lantana character redraw",
+          "Version": "LCR1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "dxJhszh0vAI=",
         "Meta": "[General]\ngameName=stardewvalley\nmodID=10038\nfileID=81233",
         "Name": "Elle\u0027s Seasonal Buildings-10038-1-0-1-1707318076.zip",
@@ -2717,6 +2640,27 @@
           "ModID": 10038,
           "Name": "Elle\u0027s Seasonal Buildings for Alternative Textures",
           "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "t3XhNpH2//k=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=10770\nfileID=107522",
+        "Name": "Lurking in the Dark (SDV 1.6)-10770-2-1-17-1721690781.zip",
+        "Size": 508537,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "7thAxis",
+          "Description": "Adds a new shadow guy NPC to East Scarp!",
+          "FileID": 107522,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/10770/10770-1691957575-1276710338.png",
+          "IsNSFW": false,
+          "ModID": 10770,
+          "Name": "Lurking in the Dark - NPC Sen (East Scarp)",
+          "Version": "1.1.9"
         }
       }
     },
@@ -2786,6 +2730,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "z8uKEoXmtUQ=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=18202\nfileID=102874",
+        "Name": "Seasonal Outfits for Ridgeside Village-18202-1-1-3-1717733406.zip",
+        "Size": 3208190,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Rafseazz and the Ridgeside Village Council",
+          "Description": "The official seasonal outfits mod for Rafseazz\u0027s Ridgeside Village.",
+          "FileID": 102874,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/18202/18202-1694438919-244282033.png",
+          "IsNSFW": false,
+          "ModID": 18202,
+          "Name": "Seasonal Outfits for Ridgeside Village",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "mVibGmx6w68=",
         "Meta": "[General]\ngameName=stardewvalley\nmodID=14220\nfileID=61947",
         "Name": "Seasonal Special Order Board Retexture-14220-1-0-1-1666638479.zip",
@@ -2801,6 +2766,27 @@
           "ModID": 14220,
           "Name": "Seasonal Special Order Board Retexture",
           "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WGnn8RfWH4s=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=10287\nfileID=95811",
+        "Name": "BetterFriendship-10287-1-1-2-1714255354.zip",
+        "Size": 27401,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Urbanyeti",
+          "Description": "Adds thought bubbles over villagers to indicate their favorite gifts from your inventory and when they\u0027d like to talk.",
+          "FileID": 95811,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/10287/10287-1639376641-712824772.png",
+          "IsNSFW": false,
+          "ModID": 10287,
+          "Name": "Better Friendship",
+          "Version": "1.0.6"
         }
       }
     },
@@ -2828,15 +2814,15 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "tzJs4H0K7Og=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=14709\nfileID=96313",
-        "Name": "Unique Winter Star-14709-2-0-3-1714435799.zip",
-        "Size": 106135,
+        "Hash": "OR6jhIZz20U=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=14709\nfileID=107860",
+        "Name": "Unique Winter Star-14709-2-0-4-1722052855.zip",
+        "Size": 107152,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Agent Lyoko",
           "Description": "Overhauls the Winter Star festival with dynamic unique dialogue for gifting and receiving gifts from villagers, giving a unique experience to every Winter Star! Requires Custom Fixed Dialogue.",
-          "FileID": 96313,
+          "FileID": 107860,
           "GameName": "StardewValley",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/14709/14709-1670626172-295904432.jpeg",
           "IsNSFW": false,
@@ -2891,27 +2877,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0gWjqxU9XYM=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=21414\nfileID=104018",
-        "Name": "Ferngill Simple Economy-21414-1-6-1-1718534881.zip",
-        "Size": 637113,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Paul Steele",
-          "Description": "Tired of selling millions of blueberries every summer? Want to try out various crop mods but can\u0027t resist the urge to min max? Ferngill Simple Economy introduces a randomized economy where crops follow basic rules of supply and demand. Sell too much of an item and its price may plummet! But play the market right and you might strike it big.",
-          "FileID": 104018,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/21414/21414-1711833117-378753004.png",
-          "IsNSFW": false,
-          "ModID": 21414,
-          "Name": "Ferngill Simple Economy",
-          "Version": "1.3.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "ZZBq85LT+3Q=",
         "Meta": "[General]\ngameName=stardewvalley\nmodID=12571\nfileID=104752",
         "Name": "Mini Obelisk (Alternative Textures version)-12571-1-4-1719116244.zip",
@@ -2954,251 +2919,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "31xXM/ANJbw=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=22479\nfileID=95678",
-        "Name": "Auto-Eat 2.3.3.zip-22479-2-3-3-1714201919.zip",
-        "Size": 21035,
+        "Hash": "3lWrjh/XqXA=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=5371\nfileID=56774",
+        "Name": "AntiSocialNPCs-5371-1-0-6-1656691163.zip",
+        "Size": 10238,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ruanimal",
-          "Description": "Eat food automatically upon running out of stamina or health.",
-          "FileID": 95678,
+          "Author": "Super Aardvark",
+          "Description": "Allows modders to create NPCs that the player can\u0027t befriend.",
+          "FileID": 56774,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/22479/22479-1713059729-1086992409.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/5371/5371-1581279001-684790990.png",
           "IsNSFW": false,
-          "ModID": 22479,
-          "Name": "Auto-Eat for 1.6",
-          "Version": "2.2.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "nsQs78MAyMw=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=19140\nfileID=94244",
-        "Name": "BirbCore-19140-1-0-3-1713715191.zip",
-        "Size": 47941,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "drbirbdev",
-          "Description": "Core mod for my mods.  Provides shared functionality for all of my other mods.",
-          "FileID": 94244,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/19140/19140-1711176391-479011156.png",
-          "IsNSFW": false,
-          "ModID": 19140,
-          "Name": "Birb Core",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "EoBmcEpegWg=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=6944\nfileID=94555",
-        "Name": "Gift Decline-6944-1-1-5-1713798233.zip",
-        "Size": 22030,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "desto",
-          "Description": "Inhabitants will like items less each time you gift them that same item. Stop littering them with low-effort gifts!",
-          "FileID": 94555,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/6944/6944-1601371992-1143470462.png",
-          "IsNSFW": false,
-          "ModID": 6944,
-          "Name": "Gift Decline",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "WgSPAjrBsLs=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=14377\nfileID=85019",
-        "Name": "Lasting Conversation Topics-14377-0-3-0-1711314662.zip",
-        "Size": 15164,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "sophie",
-          "Description": "Extends the length of conversation topics so that NPCs don\u0027t immediately forget about that big thing you did.",
-          "FileID": 85019,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/14377/14377-1667758625-641883179.png",
-          "IsNSFW": false,
-          "ModID": 14377,
-          "Name": "Lasting Conversation Topics",
-          "Version": "0.2.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "uEM/KGdnHOU=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=12135\nfileID=80866",
-        "Name": "Profiler Example Content Pack-12135-2-0-0-1706315080.zip",
-        "Size": 26445,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "SinZ",
-          "Description": "This is a technical mod to help diagnose and triage performance problems in other mods.",
-          "FileID": 80866,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/12135/12135-1653310938-1192723462.png",
-          "IsNSFW": false,
-          "ModID": 12135,
-          "Name": "Profiler",
-          "Version": "2.0.0-beta1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ScBMesTTYmg=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=7336\nfileID=88769",
-        "Name": "Sit N\u0027 Relax-7336-1-5-2-1712189946.zip",
-        "Size": 13560,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MissCoriel",
-          "Description": "The most Advanced Sit mod out there!!",
-          "FileID": 88769,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/7336/7336-1608754159-399904014.png",
-          "IsNSFW": false,
-          "ModID": 7336,
-          "Name": "Sit N\u0027 Relax Rest Your Butt",
-          "Version": "1.5.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "SrI7c+JxyCk=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=8897\nfileID=100507",
-        "Name": "Visible FIsh 0.4.2-8897-0-4-2-1716408510.zip",
-        "Size": 42255,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "shekurika",
-          "Description": "This mod shows fish that are currently catchable in the water. Works with modded locations \u002B fish!",
-          "FileID": 100507,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/8897/8897-1623348043-1700818736.png",
-          "IsNSFW": false,
-          "ModID": 8897,
-          "Name": "Visible Fish - see catchable fish in the water",
-          "Version": "0.3.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "a7uhP+pUIOI=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=7768\nfileID=83225",
-        "Name": "Watering Grants XP And Crops Can Wither 1.2-7768-1-2-1710939370.zip",
-        "Size": 16304,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Goldenrevolver",
-          "Description": "Watering crops with the watering can grants experience, also crops may die if they are not watered",
-          "FileID": 83225,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/7768/7768-1644403194-543896043.png",
-          "IsNSFW": false,
-          "ModID": 7768,
-          "Name": "Watering Grants Experience And Crops Can Wither",
-          "Version": "1.1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "/evrAEZCDZs=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=7497\nfileID=92889",
-        "Name": "Ellie\u0027s Ideal Greenhouse-7497-1-4-2-1713293008.zip",
-        "Size": 727090,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Ellibear",
-          "Description": "Expands the greenhouse. Includes 3 options to choose from depending on your playstyle.",
-          "FileID": 92889,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/7497/7497-1609801255-2135561249.png",
-          "IsNSFW": false,
-          "ModID": 7497,
-          "Name": "Ellie\u0027s Ideal Greenhouse",
-          "Version": "1.3.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fw6iC6b3jd0=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=3231\nfileID=103627",
-        "Name": "Farm Type Manager v1.22.0-3231-1-22-0-1718245206.zip",
-        "Size": 127204,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Esca-MMC",
-          "Description": "Farm Type Manager is a spawning framework that allows players and modders to spawn customizable features from Stardew\u0027s farm types. It can automatically create forage, ore, monsters, and large objects (stumps, boulders, meteors, etc) at any location in the game.",
-          "FileID": 103627,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/3231/3231-1549594226-514724928.png",
-          "IsNSFW": false,
-          "ModID": 3231,
-          "Name": "Farm Type Manager (FTM)",
-          "Version": "1.16.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "2tW5XmASWV4=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=1536\nfileID=98230",
-        "Name": "MailFrameworkMod-v1.18.0-1536-1-18-0-1715282046.zip",
-        "Size": 44709,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Digus",
-          "Description": "Framework to use the in game mailbox. Console commands to adjust the mail. Code and Content Pack interfaces.",
-          "FileID": 98230,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1536-0-1507520087.png",
-          "IsNSFW": false,
-          "ModID": 1536,
-          "Name": "Mail Framework Mod",
-          "Version": "1.15.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "dWE4h+l2yP4=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=9865\nfileID=86334",
-        "Name": "Penny Event Adjusted-9865-1-0-7-1711593763.zip",
-        "Size": 5855,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "atravita",
-          "Description": "Quick mod that (a) makes Penny\u0027s 8 heart event only happen on sunny days and (b) slightly alters it when you have children to to take into account the fact that I ALREADY HAVE KIDS, PENNY.",
-          "FileID": 86334,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/9865/9865-1633832007-365298297.jpeg",
-          "IsNSFW": false,
-          "ModID": 9865,
-          "Name": "Penny 8 Heart Event Adjusted",
+          "ModID": 5371,
+          "Name": "Anti-Social NPCs",
           "Version": "1.0.6"
         }
       }
@@ -3206,21 +2940,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "D/YQ+uwB1Sc=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=9561\nfileID=83532",
-        "Name": "CC Reactions-9561-1-3-1-1710987472.zip",
-        "Size": 25039,
+        "Hash": "qdO6nIJU2aQ=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=10631\nfileID=73492",
+        "Name": "Better Lightning Rods-10631-0-2-0-1689548689.zip",
+        "Size": 14106,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "cptnmatruz",
-          "Description": "Your romanced NPC will take part in the Community Center restored ceremony.",
-          "FileID": 83532,
+          "Author": "aedenthorn",
+          "Description": "Lets you tweak lightning rod and lightning strike settings.",
+          "FileID": 73492,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/9561/9561-1631047128-261137020.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/10631/10631-1641997193-158218051.png",
           "IsNSFW": false,
-          "ModID": 9561,
-          "Name": "Romanced NPCs in CC Ceremony",
-          "Version": "1.3.0"
+          "ModID": 10631,
+          "Name": "Better Lightning Rods",
+          "Version": "0.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "d+SYjp6Ts5w=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=20600\nfileID=101478",
+        "Name": "Buildable Ginger Island Farm 1.0.4-20600-1-0-4-1716918103.zip",
+        "Size": 28526,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mouahrara",
+          "Description": "The Buildable Ginger Island Farm Mod allows you to build on Ginger Island farm!",
+          "FileID": 101478,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/20600/20600-1710717504-982664235.jpeg",
+          "IsNSFW": false,
+          "ModID": 20600,
+          "Name": "Buildable Ginger Island Farm",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QL8/iNa874o=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=7431\nfileID=91716",
+        "Name": "Expanded Storage-7431-3-0-5-1712974531.zip",
+        "Size": 90821,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LeFauxMatt",
+          "Description": "Expanded Storage allows Content Pack Creators to add more custom storage options to the game.",
+          "FileID": 91716,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/7431/7431-1615155081-373427893.png",
+          "IsNSFW": false,
+          "ModID": 7431,
+          "Name": "Expanded Storage",
+          "Version": "2.0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "J55/CnmxEe4=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=10931\nfileID=82854",
+        "Name": "Flexible Sprinklers-10931-3-0-0-1710882861.zip",
+        "Size": 59473,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Shockah",
+          "Description": "Ever hated having to put a sprinkler in the middle of your crops? Ever wanted to make a layout that isn\u0027t 5x5? Now you can!",
+          "FileID": 82854,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/10931/10931-1676058160-29184854.png",
+          "IsNSFW": false,
+          "ModID": 10931,
+          "Name": "Flexible Sprinklers",
+          "Version": "2.1.1"
         }
       }
     },
@@ -3290,62 +3087,62 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/jUSeIWFQ+M=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=10956\nfileID=82890",
-        "Name": "Predictable Retaining Soil-10956-2-0-0-1710886752.zip",
-        "Size": 19909,
+        "Hash": "uEM/KGdnHOU=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=12135\nfileID=80866",
+        "Name": "Profiler Example Content Pack-12135-2-0-0-1706315080.zip",
+        "Size": 26445,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Shockah",
-          "Description": "No more RNG on Retaining Soil. Upgrade your watering can even on sunny days!",
-          "FileID": 82890,
+          "Author": "SinZ",
+          "Description": "This is a technical mod to help diagnose and triage performance problems in other mods.",
+          "FileID": 80866,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/10956/10956-1687352785-1152837666.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/12135/12135-1653310938-1192723462.png",
           "IsNSFW": false,
-          "ModID": 10956,
-          "Name": "Predictable Retaining Soil",
-          "Version": "2.0.0"
+          "ModID": 12135,
+          "Name": "Profiler",
+          "Version": "2.0.0-beta1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "HCyDcKONCqw=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=11115\nfileID=88724",
-        "Name": "Magic Workbench-11115-1-0-0-1712181740.zip",
-        "Size": 3967,
+        "Hash": "1cz/m8jeWbM=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=7638\nfileID=36145",
+        "Name": "Prepare For New Day-7638-1-0-1-1611076392.zip",
+        "Size": 5699,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Khloe Leclair",
-          "Description": "A new crafting UI with support for customizable categories and favorites. Easy bulk crafting. Better Workbench functionality. And, optionally, constructing buildings right from the crafting menu using an extra mod.",
-          "FileID": 88724,
+          "Author": "igotnousername",
+          "Description": "Stops time when you wake up, and when you are in the house after 1:00 AM.",
+          "FileID": 36145,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/11115/11115-1645759815-384057014.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/7638/7638-1610601390-1642598972.png",
           "IsNSFW": false,
-          "ModID": 11115,
-          "Name": "Better Crafting",
-          "Version": "1.5.0"
+          "ModID": 7638,
+          "Name": "Prepare for New Day",
+          "Version": "1.0.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yRSoyAosjyA=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=10261\nfileID=83954",
-        "Name": "CC Reactions RSV HOTFIX-10261-1-3-2-1711075096.zip",
-        "Size": 36108,
+        "Hash": "0gWjqxU9XYM=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=21414\nfileID=104018",
+        "Name": "Ferngill Simple Economy-21414-1-6-1-1718534881.zip",
+        "Size": 637113,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "cptnmatruz",
-          "Description": "Romanced Ridgeside Village characters will take part in CC restored ceremony.",
-          "FileID": 83954,
+          "Author": "Paul Steele",
+          "Description": "Tired of selling millions of blueberries every summer? Want to try out various crop mods but can\u0027t resist the urge to min max? Ferngill Simple Economy introduces a randomized economy where crops follow basic rules of supply and demand. Sell too much of an item and its price may plummet! But play the market right and you might strike it big.",
+          "FileID": 104018,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/10261/10261-1647625712-872975887.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/21414/21414-1711833117-378753004.png",
           "IsNSFW": false,
-          "ModID": 10261,
-          "Name": "Romanced NPCs in CC Ceremony RSV",
+          "ModID": 21414,
+          "Name": "Ferngill Simple Economy",
           "Version": "1.3.1"
         }
       }
@@ -3353,21 +3150,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "3lWrjh/XqXA=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=5371\nfileID=56774",
-        "Name": "AntiSocialNPCs-5371-1-0-6-1656691163.zip",
-        "Size": 10238,
+        "Hash": "dRdPepjrjgQ=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=20808\nfileID=85626",
+        "Name": "AlwaysHay-20808-1-0-1-1711441144.zip",
+        "Size": 13678,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Super Aardvark",
-          "Description": "Allows modders to create NPCs that the player can\u0027t befriend.",
-          "FileID": 56774,
+          "Author": "Omek97",
+          "Description": "Get hay from scything without silos and take it from feedhoppers",
+          "FileID": 85626,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/5371/5371-1581279001-684790990.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/20808/20808-1711124867-416672172.png",
           "IsNSFW": false,
-          "ModID": 5371,
-          "Name": "Anti-Social NPCs",
-          "Version": "1.0.6"
+          "ModID": 20808,
+          "Name": "Always Hay",
+          "Version": "1.0.0"
         }
       }
     },
@@ -3416,15 +3213,57 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "LZYlQJrylTI=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=14377\nfileID=85038",
-        "Name": "Lasting CTs Content Pack-14377-1-1-0-1711316701.zip",
-        "Size": 2460,
+        "Hash": "EoBmcEpegWg=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=6944\nfileID=94555",
+        "Name": "Gift Decline-6944-1-1-5-1713798233.zip",
+        "Size": 22030,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "desto",
+          "Description": "Inhabitants will like items less each time you gift them that same item. Stop littering them with low-effort gifts!",
+          "FileID": 94555,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/6944/6944-1601371992-1143470462.png",
+          "IsNSFW": false,
+          "ModID": 6944,
+          "Name": "Gift Decline",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DN/Crb1iR4Y=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=5664\nfileID=87406",
+        "Name": "Jen\u0027s Cozy Cellar-5664-2-0-0-1711857591.zip",
+        "Size": 12041,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Jen",
+          "Description": "A cellar that is both home-y and can store your casks.",
+          "FileID": 87406,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/5664/5664-1585267868-1126130186.png",
+          "IsNSFW": false,
+          "ModID": 5664,
+          "Name": "Jen\u0027s Cozy Cellar",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WgSPAjrBsLs=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=14377\nfileID=85019",
+        "Name": "Lasting Conversation Topics-14377-0-3-0-1711314662.zip",
+        "Size": 15164,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "sophie",
           "Description": "Extends the length of conversation topics so that NPCs don\u0027t immediately forget about that big thing you did.",
-          "FileID": 85038,
+          "FileID": 85019,
           "GameName": "StardewValley",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/14377/14377-1667758625-641883179.png",
           "IsNSFW": false,
@@ -3437,147 +3276,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/c3oE8sXhYk=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=11317\nfileID=82513",
-        "Name": "Messy Crops-11317-2-0-0-1710781621.zip",
-        "Size": 11063,
+        "Hash": "dWE4h+l2yP4=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=9865\nfileID=86334",
+        "Name": "Penny Event Adjusted-9865-1-0-7-1711593763.zip",
+        "Size": 5855,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "tlitookilakin",
-          "Description": "No more boring, tidy rows of crops! Adds a random offset to each crop to give your fields a wilder look. Can be disabled for trellis crops.",
-          "FileID": 82513,
+          "Author": "atravita",
+          "Description": "Quick mod that (a) makes Penny\u0027s 8 heart event only happen on sunny days and (b) slightly alters it when you have children to to take into account the fact that I ALREADY HAVE KIDS, PENNY.",
+          "FileID": 86334,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/11317/11317-1647365281-1670935131.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/9865/9865-1633832007-365298297.jpeg",
           "IsNSFW": false,
-          "ModID": 11317,
-          "Name": "Messy Crops",
-          "Version": "1.0.1"
+          "ModID": 9865,
+          "Name": "Penny 8 Heart Event Adjusted",
+          "Version": "1.0.6"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "vmahFGO+vWg=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=7900\nfileID=82795",
-        "Name": "Multiple Mini-Obelisks 2.0.0-7900-2-0-0-1710879690.zip",
-        "Size": 29164,
+        "Hash": "/jUSeIWFQ+M=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=10956\nfileID=82890",
+        "Name": "Predictable Retaining Soil-10956-2-0-0-1710886752.zip",
+        "Size": 19909,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PeacefulEnd",
-          "Description": "Allows you to place more than 2 mini-obelisks. Features include renaming of obelisks and a config option to place them outside the farm!",
-          "FileID": 82795,
+          "Author": "Shockah",
+          "Description": "No more RNG on Retaining Soil. Upgrade your watering can even on sunny days!",
+          "FileID": 82890,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/7900/7900-1612149050-781911257.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/10956/10956-1687352785-1152837666.png",
           "IsNSFW": false,
-          "ModID": 7900,
-          "Name": "Multiple Mini-Obelisks",
-          "Version": "1.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "+/YlNyOFXeo=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=9786\nfileID=90030",
-        "Name": "Stardew Progress (for 1.6)-9786-2-2-0-1712508833.zip",
-        "Size": 88908,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "seeinggreen",
-          "Description": "Tracks player progress throughout the game to help players achieve perfection. An easy way to keep track of what\u0027s left to do including ingredients needed to complete all the recipes.",
-          "FileID": 90030,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/9786/9786-1634225646-2039913676.jpeg",
-          "IsNSFW": false,
-          "ModID": 9786,
-          "Name": "Stardew Progress",
-          "Version": "2.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "F9c+7z+Za9Q=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=20606\nfileID=101458",
-        "Name": "Relocate Buildings And Farm Animals 1.0.1-20606-1-0-1-1716909246.zip",
-        "Size": 20716,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "mouahrara",
-          "Description": "The Relocate Farm Animals mod allows you to relocate farm animals to new locations.",
-          "FileID": 101458,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/20606/20606-1710789204-2018075343.jpeg",
-          "IsNSFW": false,
-          "ModID": 20606,
-          "Name": "Relocate Farm Animals",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "dRdPepjrjgQ=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=20808\nfileID=85626",
-        "Name": "AlwaysHay-20808-1-0-1-1711441144.zip",
-        "Size": 13678,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Omek97",
-          "Description": "Get hay from scything without silos and take it from feedhoppers",
-          "FileID": 85626,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/20808/20808-1711124867-416672172.png",
-          "IsNSFW": false,
-          "ModID": 20808,
-          "Name": "Always Hay",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PSJlGX3wMdk=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=9344\nfileID=101554",
-        "Name": "FasterPathSpeed-1.3.1-9344-1-3-1-1716947333.zip",
-        "Size": 18261,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "gaussfire",
-          "Description": "Increases movement speed on placed paths, including while on your horse (configurable). By default, also provides this path speed boost when not on the farm.",
-          "FileID": 101554,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/9344/9344-1629499942-2074857237.png",
-          "IsNSFW": false,
-          "ModID": 9344,
-          "Name": "Faster Path Speed",
-          "Version": "1.2.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "FRiVbJhAbuI=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=20779\nfileID=85145",
-        "Name": "Refill Silos-20779-1-0-1-1711339872.zip",
-        "Size": 12514,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Alpha_Omegasis",
-          "Description": "Allows buying as much hay as possible to automatically refill your silos from the animal shop.",
-          "FileID": 85145,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/20779/20779-1711076001-1886321222.png",
-          "IsNSFW": false,
-          "ModID": 20779,
-          "Name": "Refill Silos",
-          "Version": "1.0.1"
+          "ModID": 10956,
+          "Name": "Predictable Retaining Soil",
+          "Version": "2.0.0"
         }
       }
     },
@@ -3626,42 +3360,105 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "WGnn8RfWH4s=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=10287\nfileID=95811",
-        "Name": "BetterFriendship-10287-1-1-2-1714255354.zip",
-        "Size": 27401,
+        "Hash": "22oyEuJ1zrA=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=7769\nfileID=83237",
+        "Name": "Animals Die - Old Age - Hunger - Illness 1.7.2-7769-1-7-2-1710941099.zip",
+        "Size": 33132,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Urbanyeti",
-          "Description": "Adds thought bubbles over villagers to indicate their favorite gifts from your inventory and when they\u0027d like to talk.",
-          "FileID": 95811,
+          "Author": "Goldenrevolver",
+          "Description": "Farm animals can die of old age, hunger or illness, like in the old days of harvest moon",
+          "FileID": 83237,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/10287/10287-1639376641-712824772.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/7769/7769-1611700243-1515934186.png",
           "IsNSFW": false,
-          "ModID": 10287,
-          "Name": "Better Friendship",
-          "Version": "1.0.6"
+          "ModID": 7769,
+          "Name": "Animals Die - Old Age - Hunger - Illness",
+          "Version": "1.7.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "pE4abRD9xxY=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=963\nfileID=82781",
-        "Name": "SkullCavernElevator-963-1-6-1-1710878897.zip",
-        "Size": 177759,
+        "Hash": "/evrAEZCDZs=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=7497\nfileID=92889",
+        "Name": "Ellie\u0027s Ideal Greenhouse-7497-1-4-2-1713293008.zip",
+        "Size": 727090,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Lestoph",
-          "Description": "Adds an elevator to the Skull Cavern",
-          "FileID": 82781,
+          "Author": "Ellibear",
+          "Description": "Expands the greenhouse. Includes 3 options to choose from depending on your playstyle.",
+          "FileID": 92889,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/963-1-1488218830.jpg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/7497/7497-1609801255-2135561249.png",
           "IsNSFW": false,
-          "ModID": 963,
-          "Name": "Skull Cavern Elevator",
-          "Version": "1.5.0"
+          "ModID": 7497,
+          "Name": "Ellie\u0027s Ideal Greenhouse",
+          "Version": "1.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rPuNftW0IpE=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=21409\nfileID=96711",
+        "Name": "Ilucie\u0027s Adopt a Hermy-21409-1-0-3-1714586418.rar",
+        "Size": 32888,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Ilucie",
+          "Description": "Adopt a Hermit Crab as a custom pet.",
+          "FileID": 96711,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/21409/21409-1711826378-403177546.png",
+          "IsNSFW": false,
+          "ModID": 21409,
+          "Name": "Ilucie\u0027s Adopt a Hermy",
+          "Version": "1.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "sth3Che4Vc8=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=3312\nfileID=83394",
+        "Name": "MissCoriel\u0027s Unique Courtship Response-3312-5-0-1-1710964974.zip",
+        "Size": 26106,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MissCoriel",
+          "Description": "Tired of everyone responding with \u0022...!! I\u0027ll accept this. Thank you.\u0022 When you give them flowers?  Want them to accept your pendant in a way more to their character?  Want your custom NPCs to as well.. Then look no further!!",
+          "FileID": 83394,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/3312/3312-1549561094-1134274577.png",
+          "IsNSFW": false,
+          "ModID": 3312,
+          "Name": "MissCoriel\u0027s NPC Unique Courtship Response 5 - Gifting Friends",
+          "Version": "5.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "D/YQ+uwB1Sc=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=9561\nfileID=83532",
+        "Name": "CC Reactions-9561-1-3-1-1710987472.zip",
+        "Size": 25039,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "cptnmatruz",
+          "Description": "Your romanced NPC will take part in the Community Center restored ceremony.",
+          "FileID": 83532,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/9561/9561-1631047128-261137020.jpeg",
+          "IsNSFW": false,
+          "ModID": 9561,
+          "Name": "Romanced NPCs in CC Ceremony",
+          "Version": "1.3.0"
         }
       }
     },
@@ -3710,21 +3507,126 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "sth3Che4Vc8=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=3312\nfileID=83394",
-        "Name": "MissCoriel\u0027s Unique Courtship Response-3312-5-0-1-1710964974.zip",
-        "Size": 26106,
+        "Hash": "+/YlNyOFXeo=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=9786\nfileID=90030",
+        "Name": "Stardew Progress (for 1.6)-9786-2-2-0-1712508833.zip",
+        "Size": 88908,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MissCoriel",
-          "Description": "Tired of everyone responding with \u0022...!! I\u0027ll accept this. Thank you.\u0022 When you give them flowers?  Want them to accept your pendant in a way more to their character?  Want your custom NPCs to as well.. Then look no further!!",
-          "FileID": 83394,
+          "Author": "seeinggreen",
+          "Description": "Tracks player progress throughout the game to help players achieve perfection. An easy way to keep track of what\u0027s left to do including ingredients needed to complete all the recipes.",
+          "FileID": 90030,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/3312/3312-1549561094-1134274577.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/9786/9786-1634225646-2039913676.jpeg",
           "IsNSFW": false,
-          "ModID": 3312,
-          "Name": "MissCoriel\u0027s NPC Unique Courtship Response 5 - Gifting Friends",
-          "Version": "5.0.0"
+          "ModID": 9786,
+          "Name": "Stardew Progress",
+          "Version": "2.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "OLBF5o7bmCk=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=20266\nfileID=104742",
+        "Name": "Blue Eggs and Golden Mayo-20266-1-1-2-1719106001.zip",
+        "Size": 4549,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "6480",
+          "Description": "Adds blue eggs and blue mayo for blue chickens, as well as golden mayo from golden eggs.",
+          "FileID": 104742,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/20266/20266-1708322141-151493610.png",
+          "IsNSFW": false,
+          "ModID": 20266,
+          "Name": "(CP) Blue Eggs and Golden Mayo",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yRSoyAosjyA=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=10261\nfileID=83954",
+        "Name": "CC Reactions RSV HOTFIX-10261-1-3-2-1711075096.zip",
+        "Size": 36108,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "cptnmatruz",
+          "Description": "Romanced Ridgeside Village characters will take part in CC restored ceremony.",
+          "FileID": 83954,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/10261/10261-1647625712-872975887.jpeg",
+          "IsNSFW": false,
+          "ModID": 10261,
+          "Name": "Romanced NPCs in CC Ceremony RSV",
+          "Version": "1.3.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LZYlQJrylTI=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=14377\nfileID=85038",
+        "Name": "Lasting CTs Content Pack-14377-1-1-0-1711316701.zip",
+        "Size": 2460,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "sophie",
+          "Description": "Extends the length of conversation topics so that NPCs don\u0027t immediately forget about that big thing you did.",
+          "FileID": 85038,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/14377/14377-1667758625-641883179.png",
+          "IsNSFW": false,
+          "ModID": 14377,
+          "Name": "Lasting Conversation Topics",
+          "Version": "0.2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2tW5XmASWV4=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=1536\nfileID=98230",
+        "Name": "MailFrameworkMod-v1.18.0-1536-1-18-0-1715282046.zip",
+        "Size": 44709,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Digus",
+          "Description": "Framework to use the in game mailbox. Console commands to adjust the mail. Code and Content Pack interfaces.",
+          "FileID": 98230,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1536-0-1507520087.png",
+          "IsNSFW": false,
+          "ModID": 1536,
+          "Name": "Mail Framework Mod",
+          "Version": "1.15.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vmahFGO+vWg=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=7900\nfileID=82795",
+        "Name": "Multiple Mini-Obelisks 2.0.0-7900-2-0-0-1710879690.zip",
+        "Size": 29164,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PeacefulEnd",
+          "Description": "Allows you to place more than 2 mini-obelisks. Features include renaming of obelisks and a config option to place them outside the farm!",
+          "FileID": 82795,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/7900/7900-1612149050-781911257.png",
+          "IsNSFW": false,
+          "ModID": 7900,
+          "Name": "Multiple Mini-Obelisks",
+          "Version": "1.2.0"
         }
       }
     },
@@ -3752,84 +3654,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "LyoEc+MQp7E=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=21000\nfileID=86736",
-        "Name": "SeedMakerQuality-21000-1-0-4-1711704144.zip",
-        "Size": 14994,
+        "Hash": "FRiVbJhAbuI=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=20779\nfileID=85145",
+        "Name": "Refill Silos-20779-1-0-1-1711339872.zip",
+        "Size": 12514,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Speshkitty",
-          "Description": "Adjusts the outputs for seed makers based on the inputs",
-          "FileID": 86736,
+          "Author": "Alpha_Omegasis",
+          "Description": "Allows buying as much hay as possible to automatically refill your silos from the animal shop.",
+          "FileID": 85145,
           "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/21000/21000-1711361781-392030612.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/20779/20779-1711076001-1886321222.png",
           "IsNSFW": false,
-          "ModID": 21000,
-          "Name": "Seed Maker - Quality",
-          "Version": "1.0.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Ttwrb4zakjw=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=6529\nfileID=81813",
-        "Name": "Expanded Preconditions Utility 1.0.2-alpha.2024022-6529-1-0-2-alpha-20240225-1708900395.zip",
-        "Size": 15161,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Cherry",
-          "Description": "A utility mod built on top of the game\u0027s preconditions system to offer a conditions system any mod can use",
-          "FileID": 81813,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/6529/6529-1595730677-2021593035.png",
-          "IsNSFW": false,
-          "ModID": 6529,
-          "Name": "Expanded Preconditions Utility",
+          "ModID": 20779,
+          "Name": "Refill Silos",
           "Version": "1.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "s6RyZ488IRI=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=16507\nfileID=104690",
-        "Name": "Farmhouse Fixes-16507-1-7-11-1719072924.zip",
-        "Size": 27322,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CyanFire",
-          "Description": "Various fixes/QOL improvements for Farmhouse/Cabins, intended for mod creators and mod users alike.",
-          "FileID": 104690,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/16507/16507-1682867466-1931758483.png",
-          "IsNSFW": false,
-          "ModID": 16507,
-          "Name": "Farmhouse Fixes",
-          "Version": "1.6.4"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Lxb8WNxlt6M=",
-        "Meta": "[General]\ngameName=stardewvalley\nmodID=19264\nfileID=87113",
-        "Name": "Fixed Luau Bridge-19264-1-0-1-1711790714.zip",
-        "Size": 5584,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Airyn",
-          "Description": "No more disappearing beach bridge at the luau!",
-          "FileID": 87113,
-          "GameName": "StardewValley",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/19264/19264-1700658957-884096356.png",
-          "IsNSFW": false,
-          "ModID": 19264,
-          "Name": "Fixed Luau Bridge",
-          "Version": "1.0.0"
         }
       }
     },
@@ -3872,6 +3711,209 @@
           "ModID": 21508,
           "Name": "Yagisan\u0027s Marnie Shop Expanded",
           "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Eh5xrz1LLq4=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=5751\nfileID=50976",
+        "Name": "Krobus Spouse Room for Content Patcher-5751-1-1-1645127672.zip",
+        "Size": 54688,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "LemurKat",
+          "Description": "Turns the sewer into a far more pleasant place to hang out - for both shadow people and player characters!",
+          "FileID": 50976,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/5751/5751-1586305469-126802808.png",
+          "IsNSFW": false,
+          "ModID": 5751,
+          "Name": "A Cleaner Sewer (with matching Krobus Spouse Room)",
+          "Version": "1.2.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "F9c+7z+Za9Q=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=20606\nfileID=101458",
+        "Name": "Relocate Buildings And Farm Animals 1.0.1-20606-1-0-1-1716909246.zip",
+        "Size": 20716,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "mouahrara",
+          "Description": "The Relocate Farm Animals mod allows you to relocate farm animals to new locations.",
+          "FileID": 101458,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/20606/20606-1710789204-2018075343.jpeg",
+          "IsNSFW": false,
+          "ModID": 20606,
+          "Name": "Relocate Farm Animals",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XADkuqX514w=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=1019\nfileID=95957",
+        "Name": "AutoAnimalDoors 4.2.0-1019-4-2-0-1714305935.zip",
+        "Size": 25156,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Aaron Taggart",
+          "Description": "Automate the animal door opening/closing process for all your barns and coop.",
+          "FileID": 95957,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/1019-0-1489953016.png",
+          "IsNSFW": false,
+          "ModID": 1019,
+          "Name": "AutoAnimalDoors",
+          "Version": "3.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fFg3seS9ZMg=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=22879\nfileID=98537",
+        "Name": "Autonomals-22879-1-1-0-1715437024.zip",
+        "Size": 12998,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DespairScent",
+          "Description": "Allows animals to walk around the farm while the player is not there",
+          "FileID": 98537,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/22879/22879-1713601686-1325175732.png",
+          "IsNSFW": false,
+          "ModID": 22879,
+          "Name": "Autonomals",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PSJlGX3wMdk=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=9344\nfileID=101554",
+        "Name": "FasterPathSpeed-1.3.1-9344-1-3-1-1716947333.zip",
+        "Size": 18261,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "gaussfire",
+          "Description": "Increases movement speed on placed paths, including while on your horse (configurable). By default, also provides this path speed boost when not on the farm.",
+          "FileID": 101554,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/9344/9344-1629499942-2074857237.png",
+          "IsNSFW": false,
+          "ModID": 9344,
+          "Name": "Faster Path Speed",
+          "Version": "1.2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LyoEc+MQp7E=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=21000\nfileID=86736",
+        "Name": "SeedMakerQuality-21000-1-0-4-1711704144.zip",
+        "Size": 14994,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Speshkitty",
+          "Description": "Adjusts the outputs for seed makers based on the inputs",
+          "FileID": 86736,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/21000/21000-1711361781-392030612.png",
+          "IsNSFW": false,
+          "ModID": 21000,
+          "Name": "Seed Maker - Quality",
+          "Version": "1.0.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "pE4abRD9xxY=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=963\nfileID=82781",
+        "Name": "SkullCavernElevator-963-1-6-1-1710878897.zip",
+        "Size": 177759,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Lestoph",
+          "Description": "Adds an elevator to the Skull Cavern",
+          "FileID": 82781,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/963-1-1488218830.jpg",
+          "IsNSFW": false,
+          "ModID": 963,
+          "Name": "Skull Cavern Elevator",
+          "Version": "1.5.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HUCZIVeezKU=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=11362\nfileID=87789",
+        "Name": "Yagisan\u0027s Clint Shop Expanded-11362-2-0-2-1711939747.7z",
+        "Size": 1032,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Yagisan",
+          "Description": "Enables purchasing of a selection of useful item from Clint\u0027s shop",
+          "FileID": 87789,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/11362/11362-1647695495-1925712162.png",
+          "IsNSFW": false,
+          "ModID": 11362,
+          "Name": "Yagisan\u0027s Clint Shop Expanded",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "h54m8DkvnUI=",
+        "Meta": "[General]\ngameName=stardewvalley\nmodID=23395\nfileID=96152",
+        "Name": "Yagisan\u0027s Willy Shop Expanded-23395-1-0-0-1714370416.7z",
+        "Size": 1992,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Yagisan",
+          "Description": "Enables purchasing of a selection of useful items from Willy\u0027s shop",
+          "FileID": 96152,
+          "GameName": "StardewValley",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1303/images/23395/23395-1714369999-536617984.png",
+          "IsNSFW": false,
+          "ModID": 23395,
+          "Name": "Yagisan\u0027s Willy Shop Expanded",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "T9bqVMAu1G8=",
+        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer-plugin_python/files/13536824/runner.zip",
+        "Name": "runner.zip",
+        "Size": 126808,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/ModOrganizer2/modorganizer-plugin_python/files/13536824/runner.zip"
         }
       }
     }
