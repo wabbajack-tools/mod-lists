@@ -25,16 +25,9 @@ jobs:
     
     steps:
       - name: Setup .NET Core SDK 8.0.x
-        uses: actions/setup-dotnet@v1
-        with:
-          dotnet-version: '8.0.x'
-          include-prerelease: true
-          
-      - name: Setup .NET Core SDK 7.0.x
-        uses: actions/setup-dotnet@v1
-        with:
-          dotnet-version: '7.0.x'
-          include-prerelease: true
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '8.0.x'
 
       - name: Checkout Wabbajack Source
         uses: actions/checkout@v2
