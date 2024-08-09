@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2668)
+### Valid (2671)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(0.0) SELUA - Solitude Exterior LOD Unlocker Advocate II-36116-1-1-1605036920.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=169508)
 *  [(1.1) The Great City of Solitude PATCH - Solitude Skyway SE - Drengin's Blue Palace Terrace (STD)-36116-1-1-1604648419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36116/?tab=files&file_id=168848)
@@ -600,8 +600,12 @@
 *  [Darkwater Crossing - TGV Addon Patch Collection-64382-1-0-1-1646171614.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64382/?tab=files&file_id=267541)
 *  [Data Files-42057-1-1604616002.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42057/?tab=files&file_id=168776)
 *  Data__ResourcePack.bsa
+*  Data_ccasvsse001-almsivi.bsa
+*  Data_ccbgssse013-dawnfang.bsa
 *  Data_ccbgssse025-advdsgs.bsa
 *  Data_ccbgssse025-advdsgs.esm
+*  Data_ccbgssse037-curios.bsa
+*  Data_ccbgssse067-daedinv.bsa
 *  Data_Dawnguard.esm
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
@@ -1580,7 +1584,6 @@
 *  [Nether's Follower Framework - Settings Loader-57022-1-0-1634145115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/57022/?tab=files&file_id=234609)
 *  [Nethers_Follower_Framework_UNI_2_7_7.zip](https://www.patreon.com/file?h=53262094&i=8377963)
 *  [NetScriptFramework SkyrimSE v18-21294-18-1635489335.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21294/?tab=files&file_id=237679)
-*  [New Beginnings - Dragon Start-57818-V1-3-1-1636238380.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57818/?tab=files&file_id=239472)
 *  [New Glazed Pots-69273-1-0-1-1654617313.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69273/?tab=files&file_id=289507)
 *  [New Legion - Tullius Mesh Fix-43103-1-0-1607415466.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43103/?tab=files&file_id=173761)
 *  [New Legion and Guard Armor Back Shield Fix-64116-1-0-1645611942.rar](https://www.nexusmods.com/skyrimspecialedition/mods/64116/?tab=files&file_id=266299)
@@ -1829,6 +1832,7 @@
 *  [Rallys Hanging Moss - Desaturated-33225-1-1-1585923886.7z](https://www.nexusmods.com/skyrimspecialedition/mods/33225/?tab=files&file_id=132205)
 *  [Rallys Nord War Horns-46872-1-2-1620029294.7z](https://www.nexusmods.com/skyrimspecialedition/mods/46872/?tab=files&file_id=201432)
 *  [Rallys Pillows HQ - FOMOD-28786-1-1-1567641119.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28786/?tab=files&file_id=105635)
+*  [Ralof or Hadvar (alternate start) ESPfe-14553-220206-1644173734.7z](https://www.nexusmods.com/skyrimspecialedition/mods/14553/?tab=files&file_id=262263)
 *  [Ramccoid's AIO A.K.A. LITTLE THINGS-65959-1-0-7.7z](https://www.nexusmods.com/skyrim/mods/65959/?tab=files&file_id=1000203863)
 *  [Random Encounter Tweaks-16804-1-1-1564773772.zip](https://authored-files.wabbajack.org/Random Encounter Tweaks-16804-1-1-1564773772.zip_b4957e28-f3fc-4bc2-9b42-56a5da8ef274)
 *  [Random first person magic animation SSE with DAR v1.1-61188-1-1-1641566405.rar](https://www.nexusmods.com/skyrimspecialedition/mods/61188/?tab=files&file_id=254715)
@@ -2097,7 +2101,6 @@
 *  [SkeletonReplacer - PatchCollection-52845-1-1-1630233459.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52845/?tab=files&file_id=224556)
 *  [SkFO SE - Skin Feature Overlays- 2K-20183-1-6-1562446371.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20183/?tab=files&file_id=98405)
 *  [Skinchangers v1-34900-1-0-1587221211.7z](https://www.nexusmods.com/skyrimspecialedition/mods/34900/?tab=files&file_id=134917)
-*  [Skip The Opening Video ESL File-49327-1-0-1639065327.7z](https://www.nexusmods.com/skyrimspecialedition/mods/49327/?tab=files&file_id=247754)
 *  [SKSE64 INI PRE DOWNLOAD v1.2-1651-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1651/?tab=files&file_id=33902)
 *  [skse64_2_00_19.7z](https://skse.silverlock.org/beta/skse64_2_00_19.7z)
 *  [Sky Haven Temple - Gardens-8537-1-2.rar](https://www.nexusmods.com/skyrimspecialedition/mods/8537/?tab=files&file_id=21832)
