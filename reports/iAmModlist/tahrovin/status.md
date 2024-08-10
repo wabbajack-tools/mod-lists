@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (960)
+### Valid (958)
 *  [- Skyrim 202X - 2K-68307-10-0-1-1711057986.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68307/?tab=files&file_id=482946)
 *  [-Skyrim 202X 10.0.1 - Architecture PART 1-2347-10-0-1710488193.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480708)
 *  [-Skyrim 202X 10.0.1 - Landscape PART 2-2347-10-0-1-1710489616.rar](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=480709)
@@ -421,8 +421,6 @@
 *  [Innocence Lost - Quest Expansion-80974-1-11-1717263136.zip](https://www.nexusmods.com/skyrimspecialedition/mods/80974/?tab=files&file_id=507264)
 *  installscript.vdf
 *  [Instant Equip VR-44571-1-0-0-1611111731.zip](https://www.nexusmods.com/skyrimspecialedition/mods/44571/?tab=files&file_id=180629)
-*  [Interesting NPCs 3DNPC-29194-4-5-1660791732.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29194/?tab=files&file_id=308366)
-*  [Interesting NPCs SE - 4.3.6 to 4.4 Hotfix-29194-4-4-1591854782.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29194/?tab=files&file_id=145002)
 *  [Interesting NPCs SE - AI Overhaul SSE Patch-29194-1-1-1592506640.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29194/?tab=files&file_id=146332)
 *  [Interesting NPCs SE - Don't Call Me Dragonborn-29194-4-1-1572538575.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29194/?tab=files&file_id=112023)
 *  [Interesting NPCs SE - Winterhold Mods Compatibility-29194-2-0-1585275646.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29194/?tab=files&file_id=130694)
