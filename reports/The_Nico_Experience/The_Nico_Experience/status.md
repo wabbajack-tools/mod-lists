@@ -629,7 +629,7 @@
 *  [ENB Light SMIM Textures-22574-1-1576968419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=116967)
 *  [ENB Lights for Effect Shaders SE-56362-2-0-1641571441.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56362/?tab=files&file_id=254729)
 *  [ENB Refract Icicle Patch-2458-0-488-1680909826.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2458/?tab=files&file_id=376187)
-*  [enbseries_skyrimse_v0502.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0502.zip_59da0ebd-bd8c-4fdd-ad7d-bd336debe8e8)
+*  [enbseries_skyrimse_v0502.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0502.zip_3b408c28-e7a9-4917-aa59-e909dde3606e)
 *  [enbsunsprite(SSE).zip](http://enbseries.enbdev.com/forum/download/file.php?id=1681)
 *  [Enchanted Arsenal For 1.5.97-37318-2-23b-1592566788.zip](https://www.nexusmods.com/skyrimspecialedition/mods/37318/?tab=files&file_id=146419)
 *  [Enchanting Stations Candles 2.0-30140-2-0-1577115863.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30140/?tab=files&file_id=117149)
