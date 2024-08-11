@@ -542,7 +542,7 @@
 *  [Detection Meter-v1.11-63057-v1-11-1710345932.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63057/?tab=files&file_id=480115)
 *  [Devious Devices [SE][AE][VR] 5.2.7z](https://mega.nz/file/3A90hQZS#wqqyGkKrYGPGFfPiluHfSmyTL5RqHJGT0-MtinqXTxU)
 *  [Devious Devices NG v0.2.9.7z](https://www.loverslab.com/files/file/29779-devious-devices-ng/?do=download&r=1781281&confirm=1)
-*  [Deviously Enchanted Chests SE-LE 3.213.7z](https://www.loverslab.com/files/file/1405-deviously-enchanted-chests/?do=download)
+*  [Deviously Enchanted Chests SE-LE 3.214.7z](https://www.loverslab.com/files/file/1405-deviously-enchanted-chests/)
 *  [Dibella 2k-61553-1-04-1641745436.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61553/?tab=files&file_id=255404)
 *  [Difficulty MCM-40223-0-4-1602065646.rar](https://www.nexusmods.com/skyrimspecialedition/mods/40223/?tab=files&file_id=164312)
 *  [Dirt and Blood HD Retexture-44162-1-2-1610768237.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44162/?tab=files&file_id=179808)
