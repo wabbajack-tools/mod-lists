@@ -856,7 +856,7 @@
 *  [Dragon Hunting-99193-1-0-1693003081.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99193/?tab=files&file_id=420558)
 *  [Dragon mounds - Better Collision-112062-1-4-1708781508.rar](https://www.nexusmods.com/skyrimspecialedition/mods/112062/?tab=files&file_id=474024)
 *  [Dragon Priests Retexture SE-101101-1-0-1695333115.rar](https://www.nexusmods.com/skyrimspecialedition/mods/101101/?tab=files&file_id=427956)
-*  [Dragon War - A Dragon Overhaul-51310-4-0-3-1717507910.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51310/?tab=files&file_id=508245)
+*  [Dragon War - A Dragon Overhaul-51310-4-1-1-1722190934.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51310/?tab=files&file_id=525989)
 *  [Dragon.Priest.2k-4974-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4974/?tab=files&file_id=10647)
 *  [DragonAnimationReplace_inSE_1_01-2163-1-01.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2163/?tab=files&file_id=2818)
 *  [Dreaming Body V7b-64347-7b-1646169536.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64347/?tab=files&file_id=267540)

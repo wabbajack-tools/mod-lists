@@ -608,7 +608,7 @@
 *  [Dragon Priests Retexture SE-101101-1-1-1717159606.7z](https://www.nexusmods.com/skyrimspecialedition/mods/101101/?tab=files&file_id=506852)
 *  [Dragon Scouts Armor-93799-1-1-1689412307.zip](https://www.nexusmods.com/skyrimspecialedition/mods/93799/?tab=files&file_id=407207)
 *  [Dragon Scouts Armor-93799-1-1-1689412403.zip](https://www.nexusmods.com/skyrimspecialedition/mods/93799/?tab=files&file_id=407209)
-*  [Dragon War - A Dragon Overhaul-51310-4-1-1-1722190934.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51310/?tab=files&file_id=525989)
+*  [Dragon War - A Dragon Overhaul-51310-4-0-3-1717507910.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51310/?tab=files&file_id=508245)
 *  [Dragon.Priest.4k-2k-4974-1-2.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4974/?tab=files&file_id=10640)
 *  [Dragonactorscript Infinite Loop Fix  - FOMOD-87940-1-3-2-1686834499.7z](https://www.nexusmods.com/skyrimspecialedition/mods/87940/?tab=files&file_id=398049)
 *  [DragonCultDraugr - ArteFakes Patch-109492-1-01-1705512897.zip](https://www.nexusmods.com/skyrimspecialedition/mods/109492/?tab=files&file_id=462329)
