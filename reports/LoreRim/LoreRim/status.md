@@ -2520,7 +2520,7 @@
 *  [Parallax Meshes for JK's Overhauls-56738-1-0-1633653748.7z](https://www.nexusmods.com/skyrimspecialedition/mods/56738/?tab=files&file_id=233327)
 *  [Parallax Spell Impacts-83935-2-0-Beta-1679484015.7z](https://www.nexusmods.com/skyrimspecialedition/mods/83935/?tab=files&file_id=370995)
 *  [Parallax with shadows-78976-2-0-1669151791.zip](https://www.nexusmods.com/skyrimspecialedition/mods/78976/?tab=files&file_id=333779)
-*  [Parrying RPG (LeoneKingzz version)-81356-3-1-0-1717002716.7z](https://www.nexusmods.com/skyrimspecialedition/mods/81356/?tab=files&file_id=506335)
+*  [Parrying RPG (LeoneKingzz version)-81356-3-2-0-1723387891.zip](https://www.nexusmods.com/skyrimspecialedition/mods/81356/?tab=files&file_id=530526)
 *  [Particle Lights for ENB - Dwarven Spiders-64313-1-1-1648443604.rar](https://www.nexusmods.com/skyrimspecialedition/mods/64313/?tab=files&file_id=273199)
 *  [Particle Lights for ENB - Ebonmere-68580-1-0-1653434410.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68580/?tab=files&file_id=286246)
 *  [Particle Lights for ENB - Falmer Drips-64457-1-1-1648444528.rar](https://www.nexusmods.com/skyrimspecialedition/mods/64457/?tab=files&file_id=273210)
