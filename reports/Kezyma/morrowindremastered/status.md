@@ -142,7 +142,7 @@
 *  [Voices of Vvardenfell 0.2.3-52279-0-2-3-1723476467.zip](https://www.nexusmods.com/morrowind/mods/52279/?tab=files&file_id=1000046725)
 *  [VSBR-45993-1-0-1604438395.zip](https://www.nexusmods.com/morrowind/mods/45993/?tab=files&file_id=1000021623)
 *  [VVaYY - Merged and Improved-53098-1-1-1697377370.rar](https://www.nexusmods.com/morrowind/mods/53098/?tab=files&file_id=1000040536)
-*  [Wabbajack Post-Setup Tool-1003-0-0-2-1723541987.7z](https://www.nexusmods.com/site/mods/1003/?tab=files&file_id=3803)
+*  [Wabbajack Post-Setup Tool-1003-0-0-3-1723632981.7z](https://www.nexusmods.com/site/mods/1003/?tab=files&file_id=3813)
 *  [Watch the Skies 5.0.0-48636-5-0-0-1701735025.7z](https://www.nexusmods.com/morrowind/mods/48636/?tab=files&file_id=1000041316)
 *  [WeaponSheathing1.6-MWSE-46069-1-6-1565439022.7z](https://www.nexusmods.com/morrowind/mods/46069/?tab=files&file_id=1000015382)
 *  [Widescreen Splash Additions-48001-1-15-1589210327.7z](https://www.nexusmods.com/morrowind/mods/48001/?tab=files&file_id=1000018502)
