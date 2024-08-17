@@ -157,5 +157,5 @@
 *  [Viewmodel Shake Fix - NVSE-84443-1-2-1709322855.zip](https://www.nexusmods.com/newvegas/mods/84443/?tab=files&file_id=1000124732)
 *  [Viva Default Preset-81231-10-2-2-3a-1706572235.zip](https://www.nexusmods.com/newvegas/mods/81231/?tab=files&file_id=1000122783)
 *  [VNV - LOD Patches-79358-1-0-1723846353.7z](https://www.nexusmods.com/newvegas/mods/79358/?tab=files&file_id=1000138200)
-*  [VNV Pre-Generated LOD-79358-1-0-1723846631.7z](https://www.nexusmods.com/newvegas/mods/79358/?tab=files&file_id=1000138203)
+*  [VNV Pre-Generated LOD-79358-1-0-1723889130.7z](https://www.nexusmods.com/newvegas/mods/79358/?tab=files&file_id=1000138243)
 *  [YUP - Base Game and All DLC-51664-13-11-1717947692.7z](https://www.nexusmods.com/newvegas/mods/51664/?tab=files&file_id=1000133792)
