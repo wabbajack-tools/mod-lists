@@ -1,11 +1,10 @@
 ## Validation Report - The Nico Experience (The_Nico_Experience/The_Nico_Experience)
 
 
-### Invalid (1)
-*  [[Dint999] FacePartMod (SSE) v0.6b.7z](https://drive.google.com/uc?id=1RQl8ki73fgLnzBZn6EWjneuW4Dk8TUO_&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1766)
+### Valid (1767)
 *  [- Skyrim 202X 9.0 to 9.7 Update-2347-9-7-1697703573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=435157)
 *  [-Skyrim 202X 9.0 - Architecture-2347-9-0-1664994366.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=321878)
 *  [-Skyrim 202X 9.0.1 - Other-2347-9-0-1-1665147913.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=322212)
@@ -20,6 +19,7 @@
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [(SJG) Quick Light Patch-19879-1-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19879/?tab=files&file_id=65715)
 *  [[Dint999] BDOR Hairs SSE 0.17.7z](https://authored-files.wabbajack.org/[Dint999] BDOR Hairs SSE 0.17.7z_3c14b05c-adfb-407e-90a3-fc14108fe3f5)
+*  [[Dint999] FacePartMod (SSE) v0.6b.7z](https://drive.google.com/uc?id=1RQl8ki73fgLnzBZn6EWjneuW4Dk8TUO_&export=download)
 *  [[Dint999] HairPack02 SSE 1.11 (base).7z](https://authored-files.wabbajack.org/[Dint999] HairPack02 SSE 1.11 (base).7z_6fe2f169-87f6-4cd6-b88b-f4e40911237b)
 *  [00 - KD circlet SE-62321-1-0-2-1642796030.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62321/?tab=files&file_id=258500)
 *  [1_All in one-32444-2-1582543914.zip](https://www.nexusmods.com/skyrimspecialedition/mods/32444/?tab=files&file_id=125647)
