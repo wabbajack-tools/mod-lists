@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1408)
+### Valid (1400)
 *  [- Skyrim 202X - 1K-68307-10-0-1-1710639844.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68307/?tab=files&file_id=481353)
 *  [(DAR)Draugr Magic Loop Casting Animation-73876-1-1-1673588520.rar](https://www.nexusmods.com/skyrimspecialedition/mods/73876/?tab=files&file_id=349080)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
@@ -339,14 +339,7 @@
 *  Data_Skyrim - Misc.bsa
 *  Data_Skyrim - Shaders.bsa
 *  Data_Skyrim - Sounds.bsa
-*  Data_Skyrim - Textures0.bsa
-*  Data_Skyrim - Textures1.bsa
-*  Data_Skyrim - Textures2.bsa
-*  Data_Skyrim - Textures3.bsa
 *  Data_Skyrim - Textures4.bsa
-*  Data_Skyrim - Textures5.bsa
-*  Data_Skyrim - Textures6.bsa
-*  Data_Skyrim - Textures7.bsa
 *  Data_Skyrim - Textures8.bsa
 *  Data_Skyrim - Voices_en0.bsa
 *  Data_Skyrim.esm
@@ -1016,7 +1009,6 @@
 *  [Recursion Fix-76867-1-2-1666911818.rar](https://www.nexusmods.com/skyrimspecialedition/mods/76867/?tab=files&file_id=326984)
 *  [Red Mountain Visible Plume-66048-1-1-1649205890.7z](https://www.nexusmods.com/skyrimspecialedition/mods/66048/?tab=files&file_id=275132)
 *  [Refracting Ice Form Debris - 2.0-18384-2-0-1601115163.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18384/?tab=files&file_id=162617)
-*  [Remove Ash Pebbles-35303-1-2-1672305791.zip](https://www.nexusmods.com/skyrimspecialedition/mods/35303/?tab=files&file_id=344424)
 *  [Remove Hanging Moss From Trees-64828-1-2-1656273513.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64828/?tab=files&file_id=294312)
 *  [Remove Rock Moss and Tree Lichen-67209-1-0-1651122983.7z](https://www.nexusmods.com/skyrimspecialedition/mods/67209/?tab=files&file_id=280102)
 *  [RemoveAllItems Freeze Fix-90734-1-1-0-1689633901.zip](https://www.nexusmods.com/skyrimspecialedition/mods/90734/?tab=files&file_id=408042)
