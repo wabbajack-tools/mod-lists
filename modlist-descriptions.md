@@ -11,6 +11,7 @@
 -   [Skyrim Special Edition](#skyrim-special-edition)
     -   [Aldrnari](#aldrnari)
     -   [Anvil](#anvil)
+    -   [Apostasy](#apostasy)
     -   [Arkay's Commandment](#arkays-commandment)
     -   [Ascensio](#ascensio)
     -   [Do Not Go Gentle](#do-not-go-gentle)
@@ -106,6 +107,18 @@ There are `Three` profiles in Anvil, each serving a distinct purpose.
 **_Mods to get familiar with:_**
 
 -   [Full Modlist](https://loadorderlibrary.com/lists/anvil)
+
+---
+
+### [Apostasy](https://github.com/Oghma-Infinium/Apostasy)
+
+Apostasy is a Wabbajack modlist for Skyrim SE that offers a modern, action-oriented combat system, custom tailored gameplay, and a consistent, high-fidelity graphics overhaul. Apostasy aims to deliver a cohesive and refined experience, enhancing both visuals and mechanics.
+
+**_Mods to get familiar with:_**
+
+- [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/118893)
+- [Gameplay Guide](https://github.com/Oghma-Infinium/apostasy/blob/main/GAMEPLAY.md)
+- [Load Order](https://loadorderlibrary.com/lists/apostasy)
 
 ---
 
