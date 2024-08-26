@@ -2799,7 +2799,7 @@
 *  [Requiem - Lite-120272-1-2-1723521632.rar](https://www.nexusmods.com/skyrimspecialedition/mods/120272/?tab=files&file_id=531119)
 *  [Requiem - Lock Bash Threshold Meter - Untarnished-123324-1-1-1720109577.7z](https://www.nexusmods.com/skyrimspecialedition/mods/123324/?tab=files&file_id=517665)
 *  [Requiem - Lock Bash Threshold Meter-109661-1-0-2-1706411276.zip](https://www.nexusmods.com/skyrimspecialedition/mods/109661/?tab=files&file_id=465529)
-*  [Requiem - Lockpicking Rework-124744-1-6-1724593003.rar](https://www.nexusmods.com/skyrimspecialedition/mods/124744/?tab=files&file_id=535154)
+*  [Requiem - Lockpicking Rework-124744-1-6-1724604566.rar](https://www.nexusmods.com/skyrimspecialedition/mods/124744/?tab=files&file_id=535220)
 *  [Requiem - Magic Redone-59302-0-13-1705144084.zip](https://www.nexusmods.com/skyrimspecialedition/mods/59302/?tab=files&file_id=460914)
 *  [Requiem - Minor Arcana SF Patch-78041-1-0-1667353003.rar](https://www.nexusmods.com/skyrimspecialedition/mods/78041/?tab=files&file_id=328341)
 *  [Requiem - Minor Arcana-61342-2-7-0-1692541901.zip](https://www.nexusmods.com/skyrimspecialedition/mods/61342/?tab=files&file_id=418984)
