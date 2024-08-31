@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (968)
+### Valid (961)
 *  [0001. Weapon QuickSwap 3-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=108861)
 *  [0002. FastPipboy-17777-1-0.zip](https://www.nexusmods.com/fallout4/mods/17777/?tab=files&file_id=89711)
 *  [1.5 Loosefiles-50213-1-5-1664847287.7z](https://www.nexusmods.com/fallout4/mods/50213/?tab=files&file_id=252419)
@@ -95,7 +95,6 @@
 *  [Bastion - A Power Armor Overhaul-75184-1-0-0-1696620444.zip](https://www.nexusmods.com/fallout4/mods/75184/?tab=files&file_id=291160)
 *  [Beretta M9A3 - 4K - Recommended-68033-V1-08-1675970412.rar](https://www.nexusmods.com/fallout4/mods/68033/?tab=files&file_id=266841)
 *  [BethINI Standalone Version-67-3-6-1-1651358958.zip](https://www.nexusmods.com/fallout4/mods/67/?tab=files&file_id=236370)
-*  [Better Ammo Boxes Overhaul-8087-1-0.zip](https://www.nexusmods.com/fallout4/mods/8087/?tab=files&file_id=30010)
 *  [Better Automatic Weapon Sounds - Nuka World-29622-1-0-2.rar](https://www.nexusmods.com/fallout4/mods/29622/?tab=files&file_id=121094)
 *  [Better Automatic Weapon Sounds-29622-1-0-2.rar](https://www.nexusmods.com/fallout4/mods/29622/?tab=files&file_id=121093)
 *  [Better Bloatflies-44117-1-1585419705.zip](https://www.nexusmods.com/fallout4/mods/44117/?tab=files&file_id=178321)
@@ -215,9 +214,7 @@
 *  [Dark Sci Fi Vault Retexture 4k BA2-44251-2-0-1655684489.rar](https://www.nexusmods.com/fallout4/mods/44251/?tab=files&file_id=241019)
 *  [Dashless with Invisble 3rd Person-7252-3-0a.7z](https://www.nexusmods.com/fallout4/mods/7252/?tab=files&file_id=29384)
 *  Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2
-*  Data_ccBGSFO4006-PipBoy(Chrome) - Textures.ba2
 *  Data_ccBGSFO4046-TesCan - Textures.ba2
-*  Data_ccFSVFO4002-MidCenturyModern - Textures.ba2
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
 *  Data_DLCCoast - Textures.ba2
@@ -364,7 +361,6 @@
 *  [FallUI - Workbench-49300-1-4-1-r2-1667395902.rar](https://www.nexusmods.com/fallout4/mods/49300/?tab=files&file_id=255499)
 *  [Far Better Far Harbor - Exploration Expanded-60641-1-1-3-1685144675.7z](https://www.nexusmods.com/fallout4/mods/60641/?tab=files&file_id=278399)
 *  [Far Harbor 3d Tree LODs-63191-3-0-1671396092.7z](https://www.nexusmods.com/fallout4/mods/63191/?tab=files&file_id=260886)
-*  [Far Harbor 45-70 Box Retexture-8087-1-0.zip](https://www.nexusmods.com/fallout4/mods/8087/?tab=files&file_id=55821)
 *  [Far Harbor Boat Fast Travel-65061-1-1-1683961354.rar](https://www.nexusmods.com/fallout4/mods/65061/?tab=files&file_id=277077)
 *  [Far Harbor Story - Ug Qualtoth Keeps his Promise-27311-1-7-1631614644.zip](https://www.nexusmods.com/fallout4/mods/27311/?tab=files&file_id=216923)
 *  [Far West Minutemen - CBBE - v.2.1-27972-2-1.rar](https://www.nexusmods.com/fallout4/mods/27972/?tab=files&file_id=117058)
@@ -533,7 +529,6 @@
 *  [Machine Gun Remesh (Remesh Only)-64725-1-0-0-1664493882.zip](https://www.nexusmods.com/fallout4/mods/64725/?tab=files&file_id=252029)
 *  [Magazine Rack Extended - Fourville-52840-1-0-1641607612.7z](https://www.nexusmods.com/fallout4/mods/52840/?tab=files&file_id=225858)
 *  [Magazine Rack Extended-52840-1-1-1640863882.7z](https://www.nexusmods.com/fallout4/mods/52840/?tab=files&file_id=225106)
-*  [Magnum Opus - LODGen Output.7z](https://authored-files.wabbajack.org/Magnum Opus - LODGen Output.7z_97d74f03-1b9c-4d15-abd3-aad63dd306eb)
 *  [Main File-29944-SUNMOON9.7z](https://www.nexusmods.com/fallout4/mods/29944/?tab=files&file_id=124946)
 *  [Main file-70200-1-0-0-1680465732.zip](https://www.nexusmods.com/fallout4/mods/70200/?tab=files&file_id=272774)
 *  [MAIN with IllBill ALL DLC-20531-2.7z](https://www.nexusmods.com/fallout4/mods/20531/?tab=files&file_id=84422)
@@ -910,7 +905,6 @@
 *  [Vault-Tec Workshop Overhaul Redux-43643-2-2-2-1594208708.7z](https://www.nexusmods.com/fallout4/mods/43643/?tab=files&file_id=186298)
 *  [VaultGearDoorFix-71194-1-0-1683750975.7z](https://www.nexusmods.com/fallout4/mods/71194/?tab=files&file_id=276780)
 *  [Vendor-27346-2-10-4.zip](https://www.nexusmods.com/fallout4/mods/27346/?tab=files&file_id=140663)
-*  [Version 2.2.0-55503-2-2-0-1646237453.7z](https://www.nexusmods.com/fallout4/mods/55503/?tab=files&file_id=231111)
 *  [Vertibird Jump 1.9.9-20190-1-9-9-1576067841.zip](https://www.nexusmods.com/fallout4/mods/20190/?tab=files&file_id=172412)
 *  [Vertibird Randomized Loadout - Vanilla-39482-1-1-1572832077.zip](https://www.nexusmods.com/fallout4/mods/39482/?tab=files&file_id=170190)
 *  [Very Zen Church Doors'n Windows 2k-70654-1-0-1681911010.zip](https://www.nexusmods.com/fallout4/mods/70654/?tab=files&file_id=274602)
@@ -936,7 +930,6 @@
 *  [Wasteland Heroines Replacer3-24362-1-0-0.zip](https://www.nexusmods.com/fallout4/mods/24362/?tab=files&file_id=99250)
 *  [Wasteland Heroines Replacer4-25102-1-0-0.zip](https://www.nexusmods.com/fallout4/mods/25102/?tab=files&file_id=102410)
 *  [Wasteland Heroines Replacer5-26160-1-0-0.zip](https://www.nexusmods.com/fallout4/mods/26160/?tab=files&file_id=106805)
-*  [Wasteland Imports 1.52-3793-1-52-1601987126.7z](https://www.nexusmods.com/fallout4/mods/3793/?tab=files&file_id=192631)
 *  [Wasteland Operator -3094-1-0.rar](https://www.nexusmods.com/fallout4/mods/3094/?tab=files&file_id=9431)
 *  [Wasteland Salon v1.4-1369-1-4.7z](https://www.nexusmods.com/fallout4/mods/1369/?tab=files&file_id=72551)
 *  [Wasteland Sniper by Hothtrooper44-9270-1.7z](https://www.nexusmods.com/fallout4/mods/9270/?tab=files&file_id=35292)
