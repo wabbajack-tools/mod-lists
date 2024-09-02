@@ -1,11 +1,10 @@
 ## Validation Report - Zenithar's Forge (ForgottenGlory/zenforge)
 
 
-### Invalid (1)
-*  [enbseries_skyrimse_v0499.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0499.zip_00b4516b-d47e-4ee4-ad7f-bf6f6c3ee0f1)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (815)
+### Valid (816)
 *  [(2) SBP SE - Simple Belly Paints - 4K-22811-1-1-1548197144.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=79309)
 *  [(3) SBP  - CBBE Adjustments-22811-1-1CBBE-1583706479.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22811/?tab=files&file_id=127862)
 *  [(4) Community Overlays 2 - Main - CBBE and Male-26224-1-0-1559373115.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94370)
@@ -243,6 +242,7 @@
 *  [ENB Input Disabler-62796-1-01-1643547556.zip](https://www.nexusmods.com/skyrimspecialedition/mods/62796/?tab=files&file_id=260466)
 *  [ENB Light 0.98 Alpha 2-22574-0-98Alpha2-1577144667.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22574/?tab=files&file_id=117211)
 *  [ENB Organizer-67077-v2-1-1.zip](https://www.nexusmods.com/skyrim/mods/67077/?tab=files&file_id=1000214338)
+*  [enbseries_skyrimse_v0499.zip](https://authored-files.wabbajack.org/enbseries_skyrimse_v0499.zip_00b4516b-d47e-4ee4-ad7f-bf6f6c3ee0f1)
 *  [Enchantment Reload Fix SE-21055-1-4-1574334575.zip](https://www.nexusmods.com/skyrimspecialedition/mods/21055/?tab=files&file_id=113960)
 *  [Enhanced Enemy AI-32063-1-0-1579974392.7z](https://www.nexusmods.com/skyrimspecialedition/mods/32063/?tab=files&file_id=121132)
 *  [Environs - Abandoned Abodes - Patch Collection-82410-1-03-1700898166.7z](https://www.nexusmods.com/skyrimspecialedition/mods/82410/?tab=files&file_id=445824)

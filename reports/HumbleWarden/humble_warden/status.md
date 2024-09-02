@@ -1,11 +1,10 @@
 ## Validation Report - Just a Humble Warden (HumbleWarden/humble_warden)
 
 
-### Invalid (1)
-*  [DAOrigins Necessary Files.zip](https://drive.google.com/uc?id=1IQ9zfjZeroxbGRL9d5FKSTU2KGZgNshs&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (335)
+### Valid (336)
 *  [(0.5) Adria and Her Dog-5944-0-5-1684028054.zip](https://www.nexusmods.com/dragonage/mods/5944/?tab=files&file_id=1000010239)
 *  [(0.6) Riot Scene Tweaks and GW Justice-5944-0-6-1685130699.zip](https://www.nexusmods.com/dragonage/mods/5944/?tab=files&file_id=1000010315)
 *  [(0.8) Conspiracy Fixes and Dragonbrand-5944-0-8-1697607532.zip](https://www.nexusmods.com/dragonage/mods/5944/?tab=files&file_id=1000010771)
@@ -107,6 +106,7 @@
 *  [Dalls_Rescaled_Weapons_v14_Upd-1607.7z](https://www.nexusmods.com/dragonage/mods/1607/?tab=files&file_id=8660)
 *  [Dalls_Rescaled_Weapons_v15_Update_Only-1607.7z](https://www.nexusmods.com/dragonage/mods/1607/?tab=files&file_id=9026)
 *  [dao_extradogslot_1_41-664.dazip](https://www.nexusmods.com/dragonage/mods/664/?tab=files&file_id=3572)
+*  [DAOrigins Necessary Files.zip](https://drive.google.com/uc?id=1IQ9zfjZeroxbGRL9d5FKSTU2KGZgNshs&export=download)
 *  [Daughters of the Stone - LCF Hybrid-5600-1-0-1656781672.zip](https://www.nexusmods.com/dragonage/mods/5600/?tab=files&file_id=1000009052)
 *  [Daughters of the Stone Version 1.1-6131-1-1-1686752573.zip](https://www.nexusmods.com/dragonage/mods/6131/?tab=files&file_id=1000010383)
 *  [Daveth and Jory Ability Tweaks-5180-1-0-0-1581295786.7z](https://www.nexusmods.com/dragonage/mods/5180/?tab=files&file_id=1000006748)
