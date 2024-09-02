@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (426)
+### Valid (427)
 *  [(Part 1) SSE Engine Fixes for 1.6.1170 and newer-17230-6-2-1712813573.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=489502)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
 *  [Adamant - A Perk Overhaul-30191-5-9-2-1715101901.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=498819)
@@ -240,7 +240,7 @@
 *  [Dear Diary Squish Fixes FOMOD-107216-0-9-1-1724119928 (1).7z](https://www.nexusmods.com/skyrimspecialedition/mods/107216/?tab=files&file_id=533377)
 *  Debug.log
 *  [Deckborn_Dyndolod_Output.zip](https://authored-files.wabbajack.org/Deckborn_Dyndolod_Output.zip_a1a4fa23-2939-4941-b3db-0fc9225b6c8a)
-*  [Deckborn_Nemesis_Output_0.0.1.7z](https://authored-files.wabbajack.org/Deckborn_Nemesis_Output_0.0.1.7z_e5aba735-11c9-4e77-b635-3feaaebed9dc)
+*  [Deckborn_Nemesis_Output.7z](https://authored-files.wabbajack.org/Deckborn_Nemesis_Output.7z_d201e1eb-65e6-4ce9-b7cc-1148fc2065e5)
 *  [Deckborn_Texgen.zip](https://authored-files.wabbajack.org/Deckborn_Texgen.zip_656e2457-ec3b-4975-b22f-2144e61335e7)
 *  [DF - Creature Asset Pack - Latest Version-126203-1-0-0-C-1723655974.zip](https://www.nexusmods.com/skyrimspecialedition/mods/126203/?tab=files&file_id=531512)
 *  [Dismembering Framework - Latest Version-126203-1-0-2-1724028366.zip](https://www.nexusmods.com/skyrimspecialedition/mods/126203/?tab=files&file_id=532920)
@@ -388,6 +388,7 @@
 *  [Sorcerer - Oreo CC Staves Patch-95212-1-0-5-1688772548.7z](https://www.nexusmods.com/skyrimspecialedition/mods/95212/?tab=files&file_id=404914)
 *  [Sound Record Distributor-77815-1-3-0-1668540882.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77815/?tab=files&file_id=332142)
 *  [Spell Perk Item Distributor-36869-7-1-3-1713397024.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36869/?tab=files&file_id=491985)
+*  [Sprint Draw And Sheath Fixes-78226-1-4-2-1711978053.rar.unfinished](https://www.nexusmods.com/skyrimspecialedition/mods/78226/?tab=files&file_id=486428)
 *  [SSE Display Tweaks-34705-0-5-16-1703410713.zip](https://www.nexusmods.com/skyrimspecialedition/mods/34705/?tab=files&file_id=454679)
 *  [Starfrost - A Survival Overhaul-97536-1-2-9-1715528593.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97536/?tab=files&file_id=500438)
 *  steam_api64.dll
