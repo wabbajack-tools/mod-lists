@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1176)
+### Valid (1175)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(ESL) Heimskr only preaches on weekends-13865-1-4-1677908626.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13865/?tab=files&file_id=365292)
@@ -141,7 +141,6 @@
 *  [Civil War Champions - Reduced Cut-94999-2-1688491081.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94999/?tab=files&file_id=403720)
 *  [Civil War Lines Expansion-77566-1-1-1721690396.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77566/?tab=files&file_id=523967)
 *  [CK Custom ini-19817-4-0.zip](https://www.nexusmods.com/skyrimspecialedition/mods/19817/?tab=files&file_id=65800)
-*  [CK Platform Extended 0.4-71371-0-4-b59-1721433018.zip](https://www.nexusmods.com/skyrimspecialedition/mods/71371/?tab=files&file_id=522887)
 *  [ClefJ's Dawnstar Walls ESPFE-110765-1-1-1706966679.rar](https://www.nexusmods.com/skyrimspecialedition/mods/110765/?tab=files&file_id=467361)
 *  [ClefJ's Winterhold - Patches FOMOD-41409-1-4-1-1627429420.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41409/?tab=files&file_id=217168)
 *  [ClefJ's Winterhold-41409-1-5-1629781322.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41409/?tab=files&file_id=223385)
@@ -301,6 +300,7 @@
 *  Data_Dragonborn.esm
 *  Data_HearthFires.esm
 *  Data_MarketplaceTextures.bsa
+*  Data_Scripts.zip
 *  Data_Skyrim - Animations.bsa
 *  Data_Skyrim - Interface.bsa
 *  Data_Skyrim - Meshes0.bsa
@@ -955,7 +955,6 @@
 *  [Skyrim AE Redone Patch - Survival Mode-17915-1-0-1704156349.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17915/?tab=files&file_id=457092)
 *  [Skyrim AE Redone-17915-2-1-1722079604.zip](https://www.nexusmods.com/skyrimspecialedition/mods/17915/?tab=files&file_id=525537)
 *  [Skyrim Extended Cut - Saints and Seducers-72772-1-0-0-6-1679195731.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72772/?tab=files&file_id=369854)
-*  [Skyrim on Skooma-80975-69-69-1711962049.rar](https://www.nexusmods.com/skyrimspecialedition/mods/80975/?tab=files&file_id=486353)
 *  [Skyrim Priority SE AE-50129-3-4-0-1675213326.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50129/?tab=files&file_id=355110)
 *  [Skyrim Remastered - Caves 2K Parallax-38220-1-00-1594582244.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38220/?tab=files&file_id=150064)
 *  [Skyrim Script Extender (SKSE64)-30379-2-2-6-1705522967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/30379/?tab=files&file_id=462377)
