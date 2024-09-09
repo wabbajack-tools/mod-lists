@@ -59,7 +59,7 @@ jobs:
           repository: mod-lists
           file_pattern: reports/*
         
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v4
         name: Upload Artifacts
         with:
           name: mod-list-reports
