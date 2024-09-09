@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2089)
+### Valid (2092)
 *  [- Meshes - important-58370-1-0-1637050362.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=241886)
 *  ['Kyoe's Bang'n Brows - Standalone by Shiva182' for High Poly Head-50424-1-2-1645339793.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50424/?tab=files&file_id=265566)
 *  [(2) Community Overlays 2 - Main - CBBE-26224-1-0-1559371694.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94367)
@@ -121,7 +121,6 @@
 *  [AMOT B Faster Seasons Renamed Months-65189-1-1647775899.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65189/?tab=files&file_id=271380)
 *  [An Evening With Angi (Sexlab)-74763-1-1-1662817480.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74763/?tab=files&file_id=314952)
 *  [Ancient AF Windhelm 2K-63330-2-0-1648005938.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63330/?tab=files&file_id=271903)
-*  [Ancient Draugr Armor CBBE conversion-17189-1-2-1638698970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17189/?tab=files&file_id=246760)
 *  [Ancient Draugr-4731-2-01-1556287696.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4731/?tab=files&file_id=89787)
 *  [Ancient Dwemer Metal - My patches - ANNIVERSARY EDITION-38845-AE-v3-1655122805.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38845/?tab=files&file_id=290809)
 *  [Ancient Dwemer Metal - My patches - Converted meshes-38845-Update-Final-v5-1646766980.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38845/?tab=files&file_id=268909)
@@ -443,6 +442,8 @@
 *  [Creation Club Integration - Armours-29020-4-0-0a-1647327230.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29020/?tab=files&file_id=270275)
 *  [Creation Club Item Descriptions-106048-1-4-1701808715.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106048/?tab=files&file_id=449085)
 *  [Creation Club Open Helmets-70992-0-5-1671850851.zip](https://www.nexusmods.com/skyrimspecialedition/mods/70992/?tab=files&file_id=343176)
+*  CreationKit.ini
+*  CreationKitPrefs.ini
 *  [Cross and Jab SE-24442-1-1-1553454980.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24442/?tab=files&file_id=86100)
 *  [Crossbow Integration-28766-3-0-0-1638960494.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28766/?tab=files&file_id=247475)
 *  [Curated Bosses for True HUD-53406-1-2-1668354774.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53406/?tab=files&file_id=331500)
@@ -972,7 +973,7 @@
 *  [Heavy Armory FOMOD Installer-6308-5-2-1665341169.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6308/?tab=files&file_id=322849)
 *  [Heels Fix - Settings Loader-77264-1-2-0-1676991246.zip](https://www.nexusmods.com/skyrimspecialedition/mods/77264/?tab=files&file_id=362035)
 *  [Heels Fix Patch-81291-1-0-1673160518.zip](https://www.nexusmods.com/skyrimspecialedition/mods/81291/?tab=files&file_id=347779)
-*  [Heels Sound 1.5 SSE-62502-1-5-1643037371.7z](https://www.nexusmods.com/skyrimspecialedition/mods/62502/?tab=files&file_id=259236)
+*  [Heels Sound 1.5 SSE.7z](https://www.loverslab.com/files/file/1795-heels-sound/)
 *  [HeelsFix-64442-1-6-2-1681684803.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64442/?tab=files&file_id=378976)
 *  [Hel Rising v1.10SE.7z](https://www.loverslab.com/files/file/18745-hel-rising-norse-dungeon-quest-and-follower-mod-se/)
 *  [Helgen Reborn - Sexlab Patch-72167-2-1659850188.rar](https://www.nexusmods.com/skyrimspecialedition/mods/72167/?tab=files&file_id=305272)
@@ -1427,6 +1428,8 @@
 *  [Panties SPID-93121-1-11-1694348297.rar](https://www.nexusmods.com/skyrimspecialedition/mods/93121/?tab=files&file_id=424671)
 *  [Paper Themes for Mod Organizer 2-64439-7-1-1624721245.7z](https://www.nexusmods.com/skyrim/mods/64439/?tab=files&file_id=1000338549)
 *  [Paper V2-3819-2.rar](https://www.nexusmods.com/skyrim/mods/3819/?tab=files&file_id=11289)
+*  Papyrus Compiler_PapyrusCompiler.exe
+*  Papyrus Compiler_ScriptCompile.bat
 *  [Papyrus Extender AE-22854-4-5-7-1641973449.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=256076)
 *  [Papyrus Extender-22854-5-8-0-1722764081.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=528115)
 *  [Papyrus Tweaks 4.1.0-77779-4-1-0-1677126184.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77779/?tab=files&file_id=362490)
@@ -1571,7 +1574,7 @@
 *  [Ruins Large Urn 2K-41179-1-1-1612527480.7z](https://www.nexusmods.com/skyrimspecialedition/mods/41179/?tab=files&file_id=184122)
 *  [Ruins Tools Retexture-42812-1-0-1606490942.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42812/?tab=files&file_id=171835)
 *  [Rumarin Solstheim Commentary by Mazekial-29194-4-1-1572538831.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29194/?tab=files&file_id=112024)
-*  [RUSTIC CLOTHING - Special Edition - 4K-2K-4703-3-0-1597024563_e70add0f5011853e1b134cd02cfcb182037406b8240cfec06ff75dc2ef393f29_.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4703/?tab=files&file_id=154783)
+*  [RUSTIC CLOTHING - Special Edition - 4K-2K-4703-3-0-1597024563.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4703/?tab=files&file_id=154783)
 *  [RUSTIC CLUTTER COLLECTION - Special Edition - 1K-5795-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/5795/?tab=files&file_id=12971)
 *  [RUSTIC COOKING - Special Edition - 2K-6142-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6142/?tab=files&file_id=14122)
 *  [RUSTIC DAEDRA SSE - 2K-19272-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/19272/?tab=files&file_id=63264)
@@ -1925,6 +1928,7 @@
 *  [To Your Face SE-24720-1-0h-1575072852.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24720/?tab=files&file_id=114688)
 *  [TOHAddonsFaceGenSE.rar](https://authored-files.wabbajack.org/TOHAddonsFaceGenSE.rar_b0841e4f-3920-452a-9581-af170971eeeb)
 *  [Tools not weapons DAR animations-70117-1-4-1656859484.rar](https://www.nexusmods.com/skyrimspecialedition/mods/70117/?tab=files&file_id=295858)
+*  Tools_HavokBehaviorPostProcess_readme.txt
 *  [TooManyNotifications-69924-1-0-1655671432.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69924/?tab=files&file_id=292390)
 *  [Torch Bash Ignites Traps ESL-80807-1-0-1-1687110352.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80807/?tab=files&file_id=398990)
 *  [toughened_traveler_cbbe-54471-1-1-1630974966.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54471/?tab=files&file_id=226619)
@@ -1937,7 +1941,6 @@
 *  [Trees Addon SE-22053-1-2-8-1614116932.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22053/?tab=files&file_id=187650)
 *  [Troll.4k-2k-4682-1-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4682/?tab=files&file_id=9408)
 *  [troublesofheroine.rar](https://authored-files.wabbajack.org/troublesofheroine.rar_672bb89f-273a-45b4-aa7b-9091e1e38cf3)
-*  [TroublesofHeroineSAE2.8.2.rar](https://www.loverslab.com/files/file/10454-troubles-of-heroine/)
 *  [True Directional Movement-51614-2-2-5-1698369428.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51614/?tab=files&file_id=437371)
 *  [True HUD Boss Ini Tweaks-53238-1-4-1656876805.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53238/?tab=files&file_id=295935)
 *  [True Nordic Farmhouses - Standard-38150-0-2-1596636087.zip](https://www.nexusmods.com/skyrimspecialedition/mods/38150/?tab=files&file_id=153900)
