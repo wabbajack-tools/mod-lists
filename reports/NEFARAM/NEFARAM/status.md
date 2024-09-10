@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2092)
+### Valid (2088)
 *  [- Meshes - important-58370-1-0-1637050362.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=241886)
 *  ['Kyoe's Bang'n Brows - Standalone by Shiva182' for High Poly Head-50424-1-2-1645339793.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50424/?tab=files&file_id=265566)
 *  [(2) Community Overlays 2 - Main - CBBE-26224-1-0-1559371694.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94367)
@@ -121,6 +121,7 @@
 *  [AMOT B Faster Seasons Renamed Months-65189-1-1647775899.7z](https://www.nexusmods.com/skyrimspecialedition/mods/65189/?tab=files&file_id=271380)
 *  [An Evening With Angi (Sexlab)-74763-1-1-1662817480.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74763/?tab=files&file_id=314952)
 *  [Ancient AF Windhelm 2K-63330-2-0-1648005938.zip](https://www.nexusmods.com/skyrimspecialedition/mods/63330/?tab=files&file_id=271903)
+*  [Ancient Draugr Armor CBBE conversion-17189-1-2-1638698970.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17189/?tab=files&file_id=246760)
 *  [Ancient Draugr-4731-2-01-1556287696.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4731/?tab=files&file_id=89787)
 *  [Ancient Dwemer Metal - My patches - ANNIVERSARY EDITION-38845-AE-v3-1655122805.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38845/?tab=files&file_id=290809)
 *  [Ancient Dwemer Metal - My patches - Converted meshes-38845-Update-Final-v5-1646766980.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38845/?tab=files&file_id=268909)
@@ -442,8 +443,6 @@
 *  [Creation Club Integration - Armours-29020-4-0-0a-1647327230.7z](https://www.nexusmods.com/skyrimspecialedition/mods/29020/?tab=files&file_id=270275)
 *  [Creation Club Item Descriptions-106048-1-4-1701808715.zip](https://www.nexusmods.com/skyrimspecialedition/mods/106048/?tab=files&file_id=449085)
 *  [Creation Club Open Helmets-70992-0-5-1671850851.zip](https://www.nexusmods.com/skyrimspecialedition/mods/70992/?tab=files&file_id=343176)
-*  CreationKit.ini
-*  CreationKitPrefs.ini
 *  [Cross and Jab SE-24442-1-1-1553454980.rar](https://www.nexusmods.com/skyrimspecialedition/mods/24442/?tab=files&file_id=86100)
 *  [Crossbow Integration-28766-3-0-0-1638960494.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28766/?tab=files&file_id=247475)
 *  [Curated Bosses for True HUD-53406-1-2-1668354774.zip](https://www.nexusmods.com/skyrimspecialedition/mods/53406/?tab=files&file_id=331500)
@@ -1428,8 +1427,6 @@
 *  [Panties SPID-93121-1-11-1694348297.rar](https://www.nexusmods.com/skyrimspecialedition/mods/93121/?tab=files&file_id=424671)
 *  [Paper Themes for Mod Organizer 2-64439-7-1-1624721245.7z](https://www.nexusmods.com/skyrim/mods/64439/?tab=files&file_id=1000338549)
 *  [Paper V2-3819-2.rar](https://www.nexusmods.com/skyrim/mods/3819/?tab=files&file_id=11289)
-*  Papyrus Compiler_PapyrusCompiler.exe
-*  Papyrus Compiler_ScriptCompile.bat
 *  [Papyrus Extender AE-22854-4-5-7-1641973449.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=256076)
 *  [Papyrus Extender-22854-5-8-0-1722764081.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=528115)
 *  [Papyrus Tweaks 4.1.0-77779-4-1-0-1677126184.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77779/?tab=files&file_id=362490)
@@ -1928,7 +1925,6 @@
 *  [To Your Face SE-24720-1-0h-1575072852.zip](https://www.nexusmods.com/skyrimspecialedition/mods/24720/?tab=files&file_id=114688)
 *  [TOHAddonsFaceGenSE.rar](https://authored-files.wabbajack.org/TOHAddonsFaceGenSE.rar_b0841e4f-3920-452a-9581-af170971eeeb)
 *  [Tools not weapons DAR animations-70117-1-4-1656859484.rar](https://www.nexusmods.com/skyrimspecialedition/mods/70117/?tab=files&file_id=295858)
-*  Tools_HavokBehaviorPostProcess_readme.txt
 *  [TooManyNotifications-69924-1-0-1655671432.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69924/?tab=files&file_id=292390)
 *  [Torch Bash Ignites Traps ESL-80807-1-0-1-1687110352.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80807/?tab=files&file_id=398990)
 *  [toughened_traveler_cbbe-54471-1-1-1630974966.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54471/?tab=files&file_id=226619)
