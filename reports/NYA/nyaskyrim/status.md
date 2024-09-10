@@ -1464,7 +1464,7 @@
 *  [Hearthfire Oven ENB Light-100481-1-1-1696113600.zip](https://www.nexusmods.com/skyrimspecialedition/mods/100481/?tab=files&file_id=430224)
 *  [Heavy Armory FOMOD Installer-6308-5-2-1665341169.7z](https://www.nexusmods.com/skyrimspecialedition/mods/6308/?tab=files&file_id=322849)
 *  [Heels Fix Patch-81291-1-0-1673160518.zip](https://www.nexusmods.com/skyrimspecialedition/mods/81291/?tab=files&file_id=347779)
-*  [Heels Sound 1.6 SSE-AE-62502-1-6-1679478010.rar](https://www.nexusmods.com/skyrimspecialedition/mods/62502/?tab=files&file_id=370976)
+*  [Heels Sound  1.5 SSE.7z](https://www.loverslab.com/files/file/1795-heels-sound/)
 *  [HeelsFix-64442-1-7-2-1705885195.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64442/?tab=files&file_id=463650)
 *  [Heinous Ash Hoppers-22409-1-0-1546778510.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22409/?tab=files&file_id=77475)
 *  [Hellblade - Senua's Warpaints for Racemenu-22411-1-0-1546779840.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22411/?tab=files&file_id=77477)
