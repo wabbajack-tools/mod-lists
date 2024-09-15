@@ -960,7 +960,7 @@
 *  [RZ Boudoir - Fusion Girl-76460-1-1-1701604135.7z](https://www.nexusmods.com/fallout4/mods/76460/?tab=files&file_id=295728)
 *  [RZ Boudoir Collection - light ESP-76460-1-1-1701604293.7z](https://www.nexusmods.com/fallout4/mods/76460/?tab=files&file_id=295729)
 *  [RZ_Boudoir011-76249-1-1-1700812739.zip](https://www.nexusmods.com/fallout4/mods/76249/?tab=files&file_id=294989)
-*  [RZF4S_2_10.zip](https://www.loverslab.com/files/file/27859-rohzima-fallout-4-sex-animations-for-aaf/)
+*  [RZF4S_2_20.zip](https://www.loverslab.com/files/file/27859-rohzima-fallout-4-sex-animations-for-aaf/)
 *  [SAM Enhanced Animations 1.4.1.zip](https://www.loverslab.com/files/file/24760-sam-enhanced-animations/)
 *  [SAMFormer_1.7-66269-1-7-1691441560.7z](https://www.nexusmods.com/fallout4/mods/66269/?tab=files&file_id=285846)
 *  [Sarah Rage Armor - CBBE-32858-v1-1.rar](https://www.nexusmods.com/fallout4/mods/32858/?tab=files&file_id=134158)
