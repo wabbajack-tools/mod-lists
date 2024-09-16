@@ -40,7 +40,7 @@
 *  [CET 1.33.0 - Game patch 2.13 support-107-1-33-0-1726234117.zip](https://www.nexusmods.com/cyberpunk2077/mods/107/?tab=files&file_id=86916)
 *  [Challenging Breach Minigame-3661-1-3-3-1726342744.zip](https://www.nexusmods.com/cyberpunk2077/mods/3661/?tab=files&file_id=87057)
 *  [Clean Computer Wallpaper-13657-1-0-1710551064.zip](https://www.nexusmods.com/cyberpunk2077/mods/13657/?tab=files&file_id=71710)
-*  [Cleaner Main Menu and Pause Menu-10285-2-12-1714606879.zip](https://www.nexusmods.com/cyberpunk2077/mods/10285/?tab=files&file_id=76333)
+*  [Cleaner Main Menu and Pause Menu-10285-2-13-1726437818.zip](https://www.nexusmods.com/cyberpunk2077/mods/10285/?tab=files&file_id=87149)
 *  [Clear Skill Checks-2805-1-1-0-1672835349.zip](https://www.nexusmods.com/cyberpunk2077/mods/2805/?tab=files&file_id=36692)
 *  [Codeware-7780-1-12-7-1726207507.zip](https://www.nexusmods.com/cyberpunk2077/mods/7780/?tab=files&file_id=86898)
 *  [Computer Anywhere-12520-1-1-0-1716748626.zip](https://www.nexusmods.com/cyberpunk2077/mods/12520/?tab=files&file_id=78670)
