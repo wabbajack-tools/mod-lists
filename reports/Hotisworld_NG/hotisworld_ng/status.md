@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1590)
+### Valid (1588)
 *  [.22 Pistol Pack Munitions-77337-1-3-1704999830.zip](https://www.nexusmods.com/fallout4/mods/77337/?tab=files&file_id=299326)
 *  [.22 Pistol Pack Munitions-78619-2-0-0-1707769976.zip](https://www.nexusmods.com/fallout4/mods/78619/?tab=files&file_id=303361)
 *  [.30 Carbine Pistol-71955-2-0-0-1720138420.zip](https://www.nexusmods.com/fallout4/mods/71955/?tab=files&file_id=325518)
@@ -185,8 +185,6 @@
 *  [Cowboy Carbine-80456-1-0-0-1712717396.zip](https://www.nexusmods.com/fallout4/mods/80456/?tab=files&file_id=309627)
 *  [Crafting Highlight Fix 1.8.8-27479-1-8-8-1576067808.zip](https://www.nexusmods.com/fallout4/mods/27479/?tab=files&file_id=172411)
 *  CreationKit.exe
-*  CreationKit.ini
-*  CreationKitPrefs.ini
 *  [Crusader Pistol-86135-1-2-1-1724208423.rar](https://www.nexusmods.com/fallout4/mods/86135/?tab=files&file_id=331020)
 *  [CSEP Commonwealth Killer-61305-1-2-1656283236.zip](https://www.nexusmods.com/fallout4/mods/61305/?tab=files&file_id=241685)
 *  [CSEP Homesick-63516-4NG-1724556323.zip](https://www.nexusmods.com/fallout4/mods/63516/?tab=files&file_id=331578)
