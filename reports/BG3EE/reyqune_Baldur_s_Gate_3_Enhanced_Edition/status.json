@@ -1,8 +1,8 @@
 {
   "MachineURL": "BG3EE/reyqune_Baldur_s_Gate_3_Enhanced_Edition",
   "Name": "Baldur\u0027s Gate 3 Enhanced Edition",
-  "Version": "1.0",
-  "ModListHash": "FVgYz526o48=",
+  "Version": "1.0.2",
+  "ModListHash": "tyzbJrkWGcY=",
   "Archives": [
     {
       "Status": "Valid",
@@ -189,21 +189,756 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "1LUnT3h6J3Q=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=11274\nfileID=70857",
-        "Name": "Myky\u0027s Heads-11274-1-3-0-1726225236.zip",
-        "Size": 152647808,
+        "Hash": "3o0MXt15er8=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=11274\nfileID=71795",
+        "Name": "Myky\u0027s Heads-11274-1-3-1-1726753756.zip",
+        "Size": 152950496,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "myky24",
           "Description": "Adds new heads for Humans, Elves, Drow, Half-Elves, and Tieflings for all body types to character creation.",
-          "FileID": 70857,
+          "FileID": 71795,
           "GameName": "BaldursGate3",
           "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/11274/11274-1722143962-514499711.png",
           "IsNSFW": false,
           "ModID": 11274,
           "Name": "Myky\u0027s Heads",
           "Version": "1.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "eGwJrx/VQjA=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=7160\nfileID=51731",
+        "Name": "Silver\u0027s Hair Pack 2-7160-1-3-1711670373.zip",
+        "Size": 12284394,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Silver",
+          "Description": "Adds 5 more hairstyles to character creation for body types 1 and 2.",
+          "FileID": 51731,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7160/7160-1708906043-431355390.jpeg",
+          "IsNSFW": false,
+          "ModID": 7160,
+          "Name": "Silver\u0027s Hair Pack 2",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "t2TCk652fe4=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=2001\nfileID=30061",
+        "Name": "Standalone - Piercing Edits - Trips-2001-1-7-1700762806.zip",
+        "Size": 12384,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "jerinski",
+          "Description": "A variety of piercing mashups available as new sets or replacers. Compatibility with Trips\u0027 Accessories and Magic Mirror. Includes guide for DIY.",
+          "FileID": 30061,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2001/2001-1694197097-1097445183.png",
+          "IsNSFW": false,
+          "ModID": 2001,
+          "Name": "Piercing Edits",
+          "Version": "1.7"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "b134s1mgVwU=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=10084\nfileID=59837",
+        "Name": "The Lads-10084-1-0-0-1717458644.zip",
+        "Size": 67995945,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "cedastarions",
+          "Description": "4 Male Half-Orc head presets",
+          "FileID": 59837,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10084%2F10084-1717453921-1306751695.png",
+          "IsNSFW": false,
+          "ModID": 10084,
+          "Name": "The Lads Head Presets",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9IK9GZz5zh8=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=4752\nfileID=69978",
+        "Name": "Trips\u0027 Shader Compendium-4752-2-1-0-0-1725829532.zip",
+        "Size": 4862905,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Trips",
+          "Description": "Re-releases old shader files to get around those pesky VT\u0027s. Modder\u0027s Resource and dependency for mods.",
+          "FileID": 69978,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/4752/4752-1701659092-997298685.png",
+          "IsNSFW": false,
+          "ModID": 4752,
+          "Name": "Trips\u0027 Old Shader Pack",
+          "Version": "1.6.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "D/RXqhMczZo=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=2900\nfileID=69143",
+        "Name": "Astralities\u0027 Fantasy Skintone Expansion-2900-1-3-1725643556.zip",
+        "Size": 382953,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Astralities",
+          "Description": "This Mod expands the colorful skintone selection by adding lighter and darker shades to Vanilla skintones, as well as a variety of new options. This version focuses on Fantasy skintones.",
+          "FileID": 69143,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2900/2900-1696397866-994281054.png",
+          "IsNSFW": false,
+          "ModID": 2900,
+          "Name": "Astralities\u0027 Fantasy Skintone Expansion",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jZL8DzXUmEA=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=3269\nfileID=70645",
+        "Name": "Better Target Info-3269-1-2-3-1726135852.zip",
+        "Size": 279270,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Caites",
+          "Description": "Adds more contextual info to Target Info panel (resistances/vulnerabilities, item value, number of items in containers etc).",
+          "FileID": 70645,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/3269/3269-1697294633-988800546.jpeg",
+          "IsNSFW": false,
+          "ModID": 3269,
+          "Name": "Better Target Info",
+          "Version": "1.12"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kshEGMFyKCg=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=4968\nfileID=69059",
+        "Name": "Companions Panel and Camp Chest Everywhere-4968-1-2-3-1725606224.zip",
+        "Size": 340998,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Caites",
+          "Description": "Improves Companions Panel, makes it (and Camp Chest) available from anywhere.",
+          "FileID": 69059,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/4968/4968-1702037610-700156312.jpeg",
+          "IsNSFW": false,
+          "ModID": 4968,
+          "Name": "Companions Panel and Camp Chest Everywhere",
+          "Version": "1.15"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xTrRGDgSOl8=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=7612\nfileID=48371",
+        "Name": "Main File-7612-1-0-1709677427.zip",
+        "Size": 1690,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MegaCoolBlood",
+          "Description": "Disables the combat log for Silvanus Blessing, so that you are not spammed with Log Notifications anymore",
+          "FileID": 48371,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7612/7612-1709677259-1654992350.jpeg",
+          "IsNSFW": false,
+          "ModID": 7612,
+          "Name": "Disable combat log for Silvanus Blessing",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SaALnAbQq8g=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=9826\nfileID=71467",
+        "Name": "Even More Heads-9826-1-3-1-1726513862.zip",
+        "Size": 109011701,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Koralina",
+          "Description": "11 new heads for character creation menu, available to Elf, Human and Tiefling races",
+          "FileID": 71467,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9826%2F9826-1716669054-386281755.png",
+          "IsNSFW": false,
+          "ModID": 9826,
+          "Name": "Even More Heads by Koralina",
+          "Version": "1.0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rnUfWFw6/gI=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=10984\nfileID=69637",
+        "Name": "Gear Revised Shields-10984-1-1-1725738924.zip",
+        "Size": 3064,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Parrot",
+          "Description": "Rework and quality of life tweaks for shields.",
+          "FileID": 69637,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10984/10984-1721134308-1383353991.png",
+          "IsNSFW": false,
+          "ModID": 10984,
+          "Name": "Gear Revised Shields",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/XDU/NSZ7lA=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=5105\nfileID=53884",
+        "Name": "Half Potency-5105-1-1-1713214696.zip",
+        "Size": 1981,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Siael",
+          "Description": "Complete rework of Illithid Powers",
+          "FileID": 53884,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5105/5105-1705472493-720271025.png",
+          "IsNSFW": false,
+          "ModID": 5105,
+          "Name": "Illithid Powers Overhaul 2",
+          "Version": "2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "0ffLoCUqoCI=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=8636\nfileID=53459",
+        "Name": "Karlach\u0027s Glowing Horns-8636-1-0-1712847985.zip",
+        "Size": 4361,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Aetherpoint",
+          "Description": "This mod enables the unused glowmap Larian Studios created for Karlach\u0027s horns. Making the script on her horns glow, and pulse at the same rate as her heart.",
+          "FileID": 53459,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8636/8636-1712850060-1917836317.png",
+          "IsNSFW": false,
+          "ModID": 8636,
+          "Name": "Karlach\u0027s Glowing Horns",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4/5XQJCdjCQ=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=11954\nfileID=69781",
+        "Name": "Mod Manager Fixes and Tweaks (No PTSD Warnings)-11954-1-2-8-1725781709.zip",
+        "Size": 172027,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Caites",
+          "Description": "Fixes small bugs and inconsistencies in mod manager menu. Version with tweaks additionally improves mod preview and mod list windows - both are more tight now, with more mods in the screen.",
+          "FileID": 69781,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/11954/11954-1725371428-815285632.png",
+          "IsNSFW": false,
+          "ModID": 11954,
+          "Name": "Mod Manager Fixes and Tweaks",
+          "Version": "1.2.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PB4YgoPn9X4=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=745\nfileID=69868",
+        "Name": "No Press Any Key Menu for MCM-745-1-7-6-1725805506.zip",
+        "Size": 266280,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Caites",
+          "Description": "No \u0022Press Any Key to continue\u0022 stop to Main menu.",
+          "FileID": 69868,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/745/745-1692340457-1091955407.jpeg",
+          "IsNSFW": false,
+          "ModID": 745,
+          "Name": "No Press Any Key Menu",
+          "Version": "1.66"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "VVnp7hikPWw=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=10343\nfileID=64940",
+        "Name": "Reforged head-10343-1-0-0-6-1721725019.zip",
+        "Size": 216995580,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AkELkA",
+          "Description": "NON-REPLACER. \n\nAdds new head, crest top, chin, jaw, tail, and for male Dragonborn",
+          "FileID": 64940,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10343/10343-1720047969-437393554.png",
+          "IsNSFW": false,
+          "ModID": 10343,
+          "Name": "Reforged  Head - Dragonborn CC pack",
+          "Version": "1.0.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mUj516177M0=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=2001\nfileID=30062",
+        "Name": "Standalone - Piercings for Dragonborn-2001-1-7-1700762927.zip",
+        "Size": 6815,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "jerinski",
+          "Description": "A variety of piercing mashups available as new sets or replacers. Compatibility with Trips\u0027 Accessories and Magic Mirror. Includes guide for DIY.",
+          "FileID": 30062,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2001/2001-1694197097-1097445183.png",
+          "IsNSFW": false,
+          "ModID": 2001,
+          "Name": "Piercing Edits",
+          "Version": "1.7"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4GAQarJL2Qo=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=10573\nfileID=69017",
+        "Name": "Understated Eyes - Eye Color Collection-10573-1-1-1725593413.zip",
+        "Size": 120218,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Astralities",
+          "Description": "This Mod adds a collection of new, more understated eye colors to the game, with and without subtle glow.",
+          "FileID": 69017,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10573/10573-1719765214-1625859766.png",
+          "IsNSFW": false,
+          "ModID": 10573,
+          "Name": "Understated - Eye Color Collection",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RGywGd/CPIw=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=5080\nfileID=54833",
+        "Name": "Wifi_potions_2.0.4.0-5080-2-0-4-0-1713974102.zip",
+        "Size": 32052,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "FallenStar",
+          "Description": "Magical healing potions that look for any available healing potion of the same type in the party\u0027s inventory for convenience, no more splitting potion or looking for them inside 50 bags\n\n\n\nMay activate your 5G chip.",
+          "FileID": 54833,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5080/5080-1702410478-1452314869.png",
+          "IsNSFW": false,
+          "ModID": 5080,
+          "Name": "Wifi potions v2 tm",
+          "Version": "2.0.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2MBP8BiCbMU=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=31720\nfileID=1722935359",
+        "Name": "Root Builder 5.0.5-31720-5-0-5-1722935359.zip",
+        "Size": 948891,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": null,
+          "Description": null,
+          "FileID": 1722935359,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 31720,
+          "Name": null,
+          "Version": null
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CvS+jZO4mMo=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=1326\nfileID=9434",
+        "Name": "Baldur\u0027s Priority 1.0.0-1326-1-0-0-1692716443.zip",
+        "Size": 235364,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "boring3",
+          "Description": "Elevate the CPU Priority of the game process.\n\nImprove overall performance and Prevent stutters caused by other processes.",
+          "FileID": 9434,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1326/1326-1692716065-1496351402.png",
+          "IsNSFW": false,
+          "ModID": 1326,
+          "Name": "Baldur\u0027s Priority - CPU Performance FPS Optimizer",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "tzz312YMjq8=",
+        "Meta": "[General]\ngameName=site\nmodID=807\nfileID=3993",
+        "Name": "BG3-Plugin-2.2.0.zip",
+        "Size": 1536323,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "chazwarp923",
+          "Description": "A Mod Organizer 2 plugin that adds basic support for Baldur\u0027s Gate 3.",
+          "FileID": 3993,
+          "GameName": "ModdingTools",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2295/images/807/807-1710151300-1705594077.png",
+          "IsNSFW": false,
+          "ModID": 807,
+          "Name": "Baldur\u0027s Gate 3 - Mod Organizer 2 Plugin",
+          "Version": "2.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UW9zP2A75Hw=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=6473\nfileID=65547",
+        "Name": "Vivid Landscapes - Baldurs Gate III - 2k-6473-2-1-0-1722200414.7z",
+        "Size": 911193723,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Hein84",
+          "Description": "-improved landscapes with no performance loss\n\n-works with Vulkan AND DirectX",
+          "FileID": 65547,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/6473/6473-1707280051-358863278.jpeg",
+          "IsNSFW": false,
+          "ModID": 6473,
+          "Name": "Vivid Landscapes - HD Ground and Terrain Textures with zero performance loss",
+          "Version": "1.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "3do5o3sLb/Q=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=11520\nfileID=70457",
+        "Name": "Vivid Landscapes - Fire and Ashes 4k-11520-1-2-0-1726059318.7z",
+        "Size": 214823377,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Hein84",
+          "Description": "ash, smoke, fire and glow effects in 1k/2k/4k resolution",
+          "FileID": 70457,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/11520/11520-1723499008-1298702861.jpeg",
+          "IsNSFW": false,
+          "ModID": 11520,
+          "Name": "Vivid Landscapes - Fire and Ashes",
+          "Version": "1.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "F6DLkiJ+wgk=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=6844\nfileID=49255",
+        "Name": "Vivid Landscapes - Roads - 4k-6844-1-1-1710030540.zip",
+        "Size": 248694442,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Hein84",
+          "Description": "improved roads in 1k/2k/4k/Best Performance",
+          "FileID": 49255,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/6844/6844-1708100896-1324120824.jpeg",
+          "IsNSFW": false,
+          "ModID": 6844,
+          "Name": "Vivid Landscapes - Roads - 1k-2k-4k-Best Performance",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "YwWedHhaqH0=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=7421\nfileID=49527",
+        "Name": "VL - Water 4k-7421-1-8-1710186617.zip",
+        "Size": 124443959,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Hein84",
+          "Description": "Improved Water in 2k, 4k or Best Performance\n\n- 2k comes with zero performance loss\n\n- Best Performance actually improves it",
+          "FileID": 49527,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7421/7421-1709401795-1838781465.jpeg",
+          "IsNSFW": false,
+          "ModID": 7421,
+          "Name": "Vivid Landscapes - Water - 2k-4k-Best Performance",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yYDSkBEbpa8=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=8913\nfileID=57401",
+        "Name": "Action Resource Passives-8913-1-3-0-1715879502.zip",
+        "Size": 2403,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cross67",
+          "Description": "Creates Passives that give Action Resources (Rage Charges, Ki Points, Wild Shape Charges, etc.) when applied.  This mod does nothing on its own and is intended to be used for advanced configuration of Combat Extender (though CX is not required).",
+          "FileID": 57401,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8913%2F8913-1713681198-1629540297.jpeg",
+          "IsNSFW": false,
+          "ModID": 8913,
+          "Name": "Action Resource Passives",
+          "Version": "1.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "z4oqMNipBqk=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=4964\nfileID=69189",
+        "Name": "Astralities\u0027 Glow Eyes-4964-1-13-1725650265.zip",
+        "Size": 856364,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Astralities",
+          "Description": "This mod enables glowing eyes for races without them - Humans, Elves, Drow, Half-Elves, Half-Orcs, Halflings, Dwarves, Gnomes \u0026amp; Githyanki, as well as modded races.",
+          "FileID": 69189,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/4964/4964-1702029248-633304751.png",
+          "IsNSFW": false,
+          "ModID": 4964,
+          "Name": "Astralities\u0027 Glow Eyes",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fhdz/TijjMA=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=6188\nfileID=68893",
+        "Name": "Auto Lockpicking 2.0.1-6188-2-0-1-1725549382.zip",
+        "Size": 7539,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Volitio",
+          "Description": "Automatically initiate lockpicking when interacting with locked chests and doors if you don\u0027t have the key. \n\nConfigurable through a JSON file.",
+          "FileID": 68893,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/6188/6188-1706149350-548172634.png",
+          "IsNSFW": false,
+          "ModID": 6188,
+          "Name": "Auto Lockpicking",
+          "Version": "1.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MDUjzz4TVs0=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=5207\nfileID=68896",
+        "Name": "Combat Extender - v1.1.8-5207-1-1-8-1725549614.zip",
+        "Size": 49431,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Zehtuka",
+          "Description": "This mod enhances enemy abilities, spells, and buffs with easy user configuration. It allows you to adjust combat difficulty and modify it to your specific needs as a player.",
+          "FileID": 68896,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5207/5207-1709391055-1017934383.png",
+          "IsNSFW": false,
+          "ModID": 5207,
+          "Name": "Combat Extender",
+          "Version": "1.1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "J9U1kmmYyHk=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=4817\nfileID=32318",
+        "Name": "Em\u0027sHairMashupsPack3-4817-1-1701626874.zip",
+        "Size": 10768553,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "EmeraldTechno",
+          "Description": "Another pack of 8 hair mashups combining vanilla hairs. For all body types.",
+          "FileID": 32318,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/4817/4817-1701627238-1068515660.png",
+          "IsNSFW": false,
+          "ModID": 4817,
+          "Name": "Em\u0027s Hair Mashups Pack 3",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9rRBzbv20yU=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=5146\nfileID=61544",
+        "Name": "Fantastical Stylist - Dreadlocks and Curly Styles-5146-2-0-1718867740.zip",
+        "Size": 67597,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dungeons And Souls",
+          "Description": "This page hosts CC Patches for Fantastical Multiverse.  If you\u0027re looking for a patch for a beautiful hair or face you\u0027ll likely find it here! Give your Tav the makeover they deserve!",
+          "FileID": 61544,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5146/5146-1718672565-293052249.jpeg",
+          "IsNSFW": false,
+          "ModID": 5146,
+          "Name": "Fantastical Stylist",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "TF/XaHDk+U4=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=10795\nfileID=68887",
+        "Name": "Fix Stragglers 1.2.2-10795-1-2-2-1725548957.zip",
+        "Size": 20333,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Volitio",
+          "Description": "Automatically helps companions who get stuck or fall behind due to broken pathfinding by teleporting them or briefly boosting their jumps. \u0027Teleport Party To You\u0027, but autonomous.",
+          "FileID": 68887,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10795/10795-1720323461-881865640.png",
+          "IsNSFW": false,
+          "ModID": 10795,
+          "Name": "Fix Stragglers",
+          "Version": "1.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vPpCtbLbPm8=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=366\nfileID=69246",
+        "Name": "ImpUI Patch 7 edition-366-1-5-3-40-1725657070.zip",
+        "Size": 775004,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "AlanaSP ShinyHobo Djmr and Zee",
+          "Description": "Changes existing UI to enhance the current modding scene by removing intrusive in-game warning and enhancing character creation options. Also provides optional files that replace UI elements based on player feedback",
+          "FileID": 69246,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/366/366-1696670339-2002892487.jpeg",
+          "IsNSFW": false,
+          "ModID": 366,
+          "Name": "ImprovedUI ReleaseReady",
+          "Version": "3.15.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "b3RABFLCb1Q=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=9479\nfileID=58221",
+        "Name": "Koralina\u0027s Aesthetics - Head Collection-9479-1-2-1-1716396065.zip",
+        "Size": 74428187,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Koralina",
+          "Description": "Adds 3 heads with icons to the character creation menu",
+          "FileID": 58221,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9479/9479-1715704526-1006380277.png",
+          "IsNSFW": false,
+          "ModID": 9479,
+          "Name": "Koralina\u0027s Aesthetics - Head Collection",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QkZNZKe39ik=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=353\nfileID=68666",
+        "Name": "Patches_for_VFX_Heads-353-VFX5-0-5-0-1725366897.zip",
+        "Size": 7684625,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Padme4000",
+          "Description": "This mod page is for hosting my mod that so far patches for anything that needs to be added to the races.lsx file as sadly that file is very incompatible with other mods that edit the same sections. So this makes them compatible if I got permission to add them.",
+          "FileID": 68666,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/353/353-1701288307-1218852577.jpeg",
+          "IsNSFW": false,
+          "ModID": 353,
+          "Name": "Patches for CC Mods (Races Hairs Heads Cosmetic and such)",
+          "Version": "1.0.0.8"
         }
       }
     },
@@ -246,27 +981,6 @@
           "ModID": 11211,
           "Name": "VLAAKITH\u0027S CHOSEN Head Presets by cedastarions",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "z4oqMNipBqk=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=4964\nfileID=69189",
-        "Name": "Astralities\u0027 Glow Eyes-4964-1-13-1725650265.zip",
-        "Size": 856364,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Astralities",
-          "Description": "This mod enables glowing eyes for races without them - Humans, Elves, Drow, Half-Elves, Half-Orcs, Halflings, Dwarves, Gnomes \u0026amp; Githyanki, as well as modded races.",
-          "FileID": 69189,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/4964/4964-1702029248-633304751.png",
-          "IsNSFW": false,
-          "ModID": 4964,
-          "Name": "Astralities\u0027 Glow Eyes",
-          "Version": "1.4"
         }
       }
     },
@@ -546,230 +1260,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "2MBP8BiCbMU=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=31720\nfileID=1722935359",
-        "Name": "Root Builder 5.0.5-31720-5-0-5-1722935359.zip",
-        "Size": 948891,
+        "Hash": "09xpTJsGx5I=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=8438\nfileID=53748",
+        "Name": "Face pack 01-8438-0-5-1713111900.zip",
+        "Size": 59408589,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": null,
-          "Description": null,
-          "FileID": 1722935359,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": null,
-          "IsNSFW": false,
-          "ModID": 31720,
-          "Name": null,
-          "Version": null
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "CvS+jZO4mMo=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=1326\nfileID=9434",
-        "Name": "Baldur\u0027s Priority 1.0.0-1326-1-0-0-1692716443.zip",
-        "Size": 235364,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "boring3",
-          "Description": "Elevate the CPU Priority of the game process.\n\nImprove overall performance and Prevent stutters caused by other processes.",
-          "FileID": 9434,
+          "Author": "bububull",
+          "Description": "adds a small collection of heads:\n\n3 for body 1 human,elf/drow, half elf\n\n1 for body 2 human\n\n3 for body 1 dwarf\n\n1 for body 1 tielfing",
+          "FileID": 53748,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1326/1326-1692716065-1496351402.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8438/8438-1712147829-623918134.png",
           "IsNSFW": false,
-          "ModID": 1326,
-          "Name": "Baldur\u0027s Priority - CPU Performance FPS Optimizer",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "tzz312YMjq8=",
-        "Meta": "[General]\ngameName=site\nmodID=807\nfileID=3993",
-        "Name": "BG3-Plugin-2.2.0.zip",
-        "Size": 1536323,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "chazwarp923",
-          "Description": "A Mod Organizer 2 plugin that adds basic support for Baldur\u0027s Gate 3.",
-          "FileID": 3993,
-          "GameName": "ModdingTools",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2295/images/807/807-1710151300-1705594077.png",
-          "IsNSFW": false,
-          "ModID": 807,
-          "Name": "Baldur\u0027s Gate 3 - Mod Organizer 2 Plugin",
-          "Version": "2.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "UW9zP2A75Hw=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=6473\nfileID=65547",
-        "Name": "Vivid Landscapes - Baldurs Gate III - 2k-6473-2-1-0-1722200414.7z",
-        "Size": 911193723,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Hein84",
-          "Description": "-improved landscapes with no performance loss\n\n-works with Vulkan AND DirectX",
-          "FileID": 65547,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/6473/6473-1707280051-358863278.jpeg",
-          "IsNSFW": false,
-          "ModID": 6473,
-          "Name": "Vivid Landscapes - HD Ground and Terrain Textures with zero performance loss",
-          "Version": "1.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "3do5o3sLb/Q=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=11520\nfileID=70457",
-        "Name": "Vivid Landscapes - Fire and Ashes 4k-11520-1-2-0-1726059318.7z",
-        "Size": 214823377,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Hein84",
-          "Description": "ash, smoke, fire and glow effects in 1k/2k/4k resolution",
-          "FileID": 70457,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/11520/11520-1723499008-1298702861.jpeg",
-          "IsNSFW": false,
-          "ModID": 11520,
-          "Name": "Vivid Landscapes - Fire and Ashes",
-          "Version": "1.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "F6DLkiJ+wgk=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=6844\nfileID=49255",
-        "Name": "Vivid Landscapes - Roads - 4k-6844-1-1-1710030540.zip",
-        "Size": 248694442,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Hein84",
-          "Description": "improved roads in 1k/2k/4k/Best Performance",
-          "FileID": 49255,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/6844/6844-1708100896-1324120824.jpeg",
-          "IsNSFW": false,
-          "ModID": 6844,
-          "Name": "Vivid Landscapes - Roads - 1k-2k-4k-Best Performance",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "YwWedHhaqH0=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=7421\nfileID=49527",
-        "Name": "VL - Water 4k-7421-1-8-1710186617.zip",
-        "Size": 124443959,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Hein84",
-          "Description": "Improved Water in 2k, 4k or Best Performance\n\n- 2k comes with zero performance loss\n\n- Best Performance actually improves it",
-          "FileID": 49527,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7421/7421-1709401795-1838781465.jpeg",
-          "IsNSFW": false,
-          "ModID": 7421,
-          "Name": "Vivid Landscapes - Water - 2k-4k-Best Performance",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "yYDSkBEbpa8=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=8913\nfileID=57401",
-        "Name": "Action Resource Passives-8913-1-3-0-1715879502.zip",
-        "Size": 2403,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Cross67",
-          "Description": "Creates Passives that give Action Resources (Rage Charges, Ki Points, Wild Shape Charges, etc.) when applied.  This mod does nothing on its own and is intended to be used for advanced configuration of Combat Extender (though CX is not required).",
-          "FileID": 57401,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8913%2F8913-1713681198-1629540297.jpeg",
-          "IsNSFW": false,
-          "ModID": 8913,
-          "Name": "Action Resource Passives",
-          "Version": "1.3.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "fhdz/TijjMA=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=6188\nfileID=68893",
-        "Name": "Auto Lockpicking 2.0.1-6188-2-0-1-1725549382.zip",
-        "Size": 7539,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Volitio",
-          "Description": "Automatically initiate lockpicking when interacting with locked chests and doors if you don\u0027t have the key. \n\nConfigurable through a JSON file.",
-          "FileID": 68893,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/6188/6188-1706149350-548172634.png",
-          "IsNSFW": false,
-          "ModID": 6188,
-          "Name": "Auto Lockpicking",
-          "Version": "1.1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "MDUjzz4TVs0=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=5207\nfileID=68896",
-        "Name": "Combat Extender - v1.1.8-5207-1-1-8-1725549614.zip",
-        "Size": 49431,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Zehtuka",
-          "Description": "This mod enhances enemy abilities, spells, and buffs with easy user configuration. It allows you to adjust combat difficulty and modify it to your specific needs as a player.",
-          "FileID": 68896,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5207/5207-1709391055-1017934383.png",
-          "IsNSFW": false,
-          "ModID": 5207,
-          "Name": "Combat Extender",
-          "Version": "1.1.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "J9U1kmmYyHk=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=4817\nfileID=32318",
-        "Name": "Em\u0027sHairMashupsPack3-4817-1-1701626874.zip",
-        "Size": 10768553,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "EmeraldTechno",
-          "Description": "Another pack of 8 hair mashups combining vanilla hairs. For all body types.",
-          "FileID": 32318,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/4817/4817-1701627238-1068515660.png",
-          "IsNSFW": false,
-          "ModID": 4817,
-          "Name": "Em\u0027s Hair Mashups Pack 3",
+          "ModID": 8438,
+          "Name": "Bububull\u0027s face pack 01",
           "Version": "1"
         }
       }
@@ -777,20 +1281,41 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "9rRBzbv20yU=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=5146\nfileID=61544",
-        "Name": "Fantastical Stylist - Dreadlocks and Curly Styles-5146-2-0-1718867740.zip",
-        "Size": 67597,
+        "Hash": "Upnb1dXWuCo=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=10292\nfileID=67934",
+        "Name": "Crystal Crown Rathgor-10292-1-0-0-4-1724544439.zip",
+        "Size": 169342,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dungeons And Souls",
-          "Description": "This page hosts CC Patches for Fantastical Multiverse.  If you\u0027re looking for a patch for a beautiful hair or face you\u0027ll likely find it here! Give your Tav the makeover they deserve!",
-          "FileID": 61544,
+          "Author": "AkELkA",
+          "Description": "NON-REPLACER. \n\nAdds new crystal crest tops, jaws, tails for male Dragonborns",
+          "FileID": 67934,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5146/5146-1718672565-293052249.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10292/10292-1718458707-726742482.png",
           "IsNSFW": false,
-          "ModID": 5146,
-          "Name": "Fantastical Stylist",
+          "ModID": 10292,
+          "Name": "Crystal Crown - Gem Dragonborn CC pack",
+          "Version": "1.0.0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WB23swSJ7zU=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=7641\nfileID=48546",
+        "Name": "Main File-7641-1-0-1709765721.zip",
+        "Size": 1731,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MegaCoolBlood",
+          "Description": "Disables the combat log for Crusader\u0027s Mantle, so that you are not spammed with Log Notifications anymore",
+          "FileID": 48546,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7641/7641-1709765733-1338316974.jpeg",
+          "IsNSFW": false,
+          "ModID": 7641,
+          "Name": "Disable combat log for Crusader\u0027s Mantle",
           "Version": "1.0"
         }
       }
@@ -798,62 +1323,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "TF/XaHDk+U4=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=10795\nfileID=68887",
-        "Name": "Fix Stragglers 1.2.2-10795-1-2-2-1725548957.zip",
-        "Size": 20333,
+        "Hash": "5LeidhveFrs=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=8274\nfileID=51454",
+        "Name": "Dynamic Wildheart-8274-1-0-0-1711394941.zip",
+        "Size": 6635,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Volitio",
-          "Description": "Automatically helps companions who get stuck or fall behind due to broken pathfinding by teleporting them or briefly boosting their jumps. \u0027Teleport Party To You\u0027, but autonomous.",
-          "FileID": 68887,
+          "Author": "Armarui",
+          "Description": "Selecting the Wildheart subclass now grants you access to each Bestial Heart. You can attune to a different animal each time you Rage, and you can change Bestial Hearts while raging as a bonus action without expending an additional Rage Charge.",
+          "FileID": 51454,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10795/10795-1720323461-881865640.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8274/8274-1711395368-1477666291.jpeg",
           "IsNSFW": false,
-          "ModID": 10795,
-          "Name": "Fix Stragglers",
-          "Version": "1.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vPpCtbLbPm8=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=366\nfileID=69246",
-        "Name": "ImpUI Patch 7 edition-366-1-5-3-40-1725657070.zip",
-        "Size": 775004,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "AlanaSP ShinyHobo Djmr and Zee",
-          "Description": "Changes existing UI to enhance the current modding scene by removing intrusive in-game warning and enhancing character creation options. Also provides optional files that replace UI elements based on player feedback",
-          "FileID": 69246,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/366/366-1696670339-2002892487.jpeg",
-          "IsNSFW": false,
-          "ModID": 366,
-          "Name": "ImprovedUI ReleaseReady",
-          "Version": "3.15.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "b3RABFLCb1Q=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=9479\nfileID=58221",
-        "Name": "Koralina\u0027s Aesthetics - Head Collection-9479-1-2-1-1716396065.zip",
-        "Size": 74428187,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Koralina",
-          "Description": "Adds 3 heads with icons to the character creation menu",
-          "FileID": 58221,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9479/9479-1715704526-1006380277.png",
-          "IsNSFW": false,
-          "ModID": 9479,
-          "Name": "Koralina\u0027s Aesthetics - Head Collection",
+          "ModID": 8274,
+          "Name": "Dynamic Wildheart Barbarian",
           "Version": "1.0.0"
         }
       }
@@ -861,21 +1344,84 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "QkZNZKe39ik=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=353\nfileID=68666",
-        "Name": "Patches_for_VFX_Heads-353-VFX5-0-5-0-1725366897.zip",
-        "Size": 7684625,
+        "Hash": "kEFMj688VRg=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=11563\nfileID=67061",
+        "Name": "Gortash\u0027s Matching Boots-11563-1-0-1723619575.zip",
+        "Size": 153354,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Padme4000",
-          "Description": "This mod page is for hosting my mod that so far patches for anything that needs to be added to the races.lsx file as sadly that file is very incompatible with other mods that edit the same sections. So this makes them compatible if I got permission to add them.",
-          "FileID": 68666,
+          "Author": "cetriolo",
+          "Description": "An absolute fraud in a very nice coat \u2014 and not-so-nice boots. \n\nA simple edit to make Tyrannical Jackboots match the rest of Gortash\u0027s outfit.",
+          "FileID": 67061,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/353/353-1701288307-1218852577.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/11563/11563-1723618937-568498184.png",
           "IsNSFW": false,
-          "ModID": 353,
-          "Name": "Patches for CC Mods (Races Hairs Heads Cosmetic and such)",
-          "Version": "1.0.0.8"
+          "ModID": 11563,
+          "Name": "Gortash\u0027s Matching Boots - Fix His Clown-Red Faux Pas",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7BJ7FAJMW3I=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=7899\nfileID=49838",
+        "Name": "Hornology-7899-1-0-1710364374.zip",
+        "Size": 53874690,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lumad11",
+          "Description": "Adds 7 new custom made horns to the CC for tieflings of all body types",
+          "FileID": 49838,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7899/7899-1710364225-1361693774.png",
+          "IsNSFW": false,
+          "ModID": 7899,
+          "Name": "Hornology - A Custom Horns Mod",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rMiLcAPBp3w=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=5706\nfileID=66456",
+        "Name": "Lydia\u0027s Heads-5706-2-0-1-1723037094.zip",
+        "Size": 519580389,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Lydia",
+          "Description": "New CC presets for Body 1 Humanoids, Halflings and Gnomes!\n\n02.01. Update: Added Githyanki version of Ezra",
+          "FileID": 66456,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5706/5706-1706830004-679629974.png",
+          "IsNSFW": false,
+          "ModID": 5706,
+          "Name": "Lydia\u0027s Heads",
+          "Version": "1.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "IEjVzWIm5YE=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=226\nfileID=27152",
+        "Name": "More CC Colours-226-V-1-2-1699305415.zip",
+        "Size": 68259,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Toarie",
+          "Description": "random junk I have made for my own playthroughs",
+          "FileID": 27152,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/226/226-1644402940-2065842490.png",
+          "IsNSFW": false,
+          "ModID": 226,
+          "Name": "Misc mods",
+          "Version": "V.1.7"
         }
       }
     },
@@ -897,27 +1443,6 @@
           "ModID": 6795,
           "Name": "Simple Hairstyles",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "mUj516177M0=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=2001\nfileID=30062",
-        "Name": "Standalone - Piercings for Dragonborn-2001-1-7-1700762927.zip",
-        "Size": 6815,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "jerinski",
-          "Description": "A variety of piercing mashups available as new sets or replacers. Compatibility with Trips\u0027 Accessories and Magic Mirror. Includes guide for DIY.",
-          "FileID": 30062,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2001/2001-1694197097-1097445183.png",
-          "IsNSFW": false,
-          "ModID": 2001,
-          "Name": "Piercing Edits",
-          "Version": "1.7"
         }
       }
     },
@@ -1092,27 +1617,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "IEjVzWIm5YE=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=226\nfileID=27152",
-        "Name": "More CC Colours-226-V-1-2-1699305415.zip",
-        "Size": 68259,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Toarie",
-          "Description": "random junk I have made for my own playthroughs",
-          "FileID": 27152,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/226/226-1644402940-2065842490.png",
-          "IsNSFW": false,
-          "ModID": 226,
-          "Name": "Misc mods",
-          "Version": "V.1.7"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "24IH0nXAKHI=",
         "Meta": "[General]\ngameName=baldursgate3\nmodID=4107\nfileID=27683",
         "Name": "Orin\u0027s True Bossfight-4107-1-0-1699606054.zip",
@@ -1218,189 +1722,147 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "09xpTJsGx5I=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=8438\nfileID=53748",
-        "Name": "Face pack 01-8438-0-5-1713111900.zip",
-        "Size": 59408589,
+        "Hash": "dkJ/LHCgg20=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=7593\nfileID=48298",
+        "Name": "Encrusted With Frost Spell Save DC-7593-1-0-1709637819.zip",
+        "Size": 1763,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "bububull",
-          "Description": "adds a small collection of heads:\n\n3 for body 1 human,elf/drow, half elf\n\n1 for body 2 human\n\n3 for body 1 dwarf\n\n1 for body 1 tielfing",
-          "FileID": 53748,
+          "Author": "BOZNAZ",
+          "Description": "Changes the difficulty class of the freezing effect from the encrusted with frost status to scale based on your spell save DC to make it easier to freeze enemies.",
+          "FileID": 48298,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8438/8438-1712147829-623918134.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7593/7593-1709637307-6954163.png",
           "IsNSFW": false,
-          "ModID": 8438,
-          "Name": "Bububull\u0027s face pack 01",
-          "Version": "1"
+          "ModID": 7593,
+          "Name": "Encrusted With Frost Spell Save DC Scaling",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Upnb1dXWuCo=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=10292\nfileID=67934",
-        "Name": "Crystal Crown Rathgor-10292-1-0-0-4-1724544439.zip",
-        "Size": 169342,
+        "Hash": "O3ygTcI+TAo=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=5146\nfileID=61545",
+        "Name": "Fantastical Stylist - Dreadlocks N Curly styles 2-5146-1-0-1718867809.zip",
+        "Size": 67665,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dungeons And Souls",
+          "Description": "This page hosts CC Patches for Fantastical Multiverse.  If you\u0027re looking for a patch for a beautiful hair or face you\u0027ll likely find it here! Give your Tav the makeover they deserve!",
+          "FileID": 61545,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5146/5146-1718672565-293052249.jpeg",
+          "IsNSFW": false,
+          "ModID": 5146,
+          "Name": "Fantastical Stylist",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "1O/zCqBxkps=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=3641\nfileID=30492",
+        "Name": "Frosty Faces-3641-1-3-1700950781.zip",
+        "Size": 152641853,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "tepkunset",
+          "Description": "Adds a variety of new heads to character creation.",
+          "FileID": 30492,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/3641/3641-1698277051-504755620.jpeg",
+          "IsNSFW": false,
+          "ModID": 3641,
+          "Name": "Frosty Faces (More Heads)",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "R9iNCRGjnZM=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=8091\nfileID=50825",
+        "Name": "Increased throw weight and range from enlarge 2x-8091-1-1-1710947016.zip",
+        "Size": 5817,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BOZNAZ",
+          "Description": "Makes the enlarge status increase the amount of weight you can throw and the range at which you can throw an object/creature. The multiplier stacks when stacking elixir of the colossus with other sources of enlarge. There are 3 options available for \u002B25%, \u002B50% and \u002B100% multiplier.",
+          "FileID": 50825,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8091/8091-1710887878-1821450776.png",
+          "IsNSFW": false,
+          "ModID": 8091,
+          "Name": "Increased throw weight and range from enlarge",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ZQDz5GyyvVc=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=9535\nfileID=65074",
+        "Name": "Jun\u0027s Head Pack (non-UTAV)-9535-2-41-1721861416.zip",
+        "Size": 246487785,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "junbug7897",
+          "Description": "A collection of my heads onto one mod page!",
+          "FileID": 65074,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9535/9535-1715857199-1141351707.jpeg",
+          "IsNSFW": false,
+          "ModID": 9535,
+          "Name": "Jun\u0027s Head Pack",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "hi55E3/tzeI=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=8681\nfileID=59047",
+        "Name": "Kylin\u0027s Horns-8681-1-6-1716873749.zip",
+        "Size": 76551370,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kylin3",
+          "Description": "New horns with glow and accessories for tieflings of all body types.",
+          "FileID": 59047,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8681/8681-1712834281-563685839.jpeg",
+          "IsNSFW": false,
+          "ModID": 8681,
+          "Name": "Kylin\u0027s Horns",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "nBjWiblly9Y=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=10761\nfileID=70613",
+        "Name": "Pearl Seadragon - Dragonborn CC pack-10761-1-0-0-6-1726115370.zip",
+        "Size": 321337677,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "AkELkA",
-          "Description": "NON-REPLACER. \n\nAdds new crystal crest tops, jaws, tails for male Dragonborns",
-          "FileID": 67934,
+          "Description": "NON-REPLACER. \n\nAdds new head, crest tops, jaw, tail, and for female Dragonborn",
+          "FileID": 70613,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10292/10292-1718458707-726742482.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10761/10761-1723579546-1449794562.png",
           "IsNSFW": false,
-          "ModID": 10292,
-          "Name": "Crystal Crown - Gem Dragonborn CC pack",
-          "Version": "1.0.0.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "WB23swSJ7zU=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=7641\nfileID=48546",
-        "Name": "Main File-7641-1-0-1709765721.zip",
-        "Size": 1731,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MegaCoolBlood",
-          "Description": "Disables the combat log for Crusader\u0027s Mantle, so that you are not spammed with Log Notifications anymore",
-          "FileID": 48546,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7641/7641-1709765733-1338316974.jpeg",
-          "IsNSFW": false,
-          "ModID": 7641,
-          "Name": "Disable combat log for Crusader\u0027s Mantle",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "5LeidhveFrs=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=8274\nfileID=51454",
-        "Name": "Dynamic Wildheart-8274-1-0-0-1711394941.zip",
-        "Size": 6635,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Armarui",
-          "Description": "Selecting the Wildheart subclass now grants you access to each Bestial Heart. You can attune to a different animal each time you Rage, and you can change Bestial Hearts while raging as a bonus action without expending an additional Rage Charge.",
-          "FileID": 51454,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8274/8274-1711395368-1477666291.jpeg",
-          "IsNSFW": false,
-          "ModID": 8274,
-          "Name": "Dynamic Wildheart Barbarian",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kEFMj688VRg=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=11563\nfileID=67061",
-        "Name": "Gortash\u0027s Matching Boots-11563-1-0-1723619575.zip",
-        "Size": 153354,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "cetriolo",
-          "Description": "An absolute fraud in a very nice coat \u2014 and not-so-nice boots. \n\nA simple edit to make Tyrannical Jackboots match the rest of Gortash\u0027s outfit.",
-          "FileID": 67061,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/11563/11563-1723618937-568498184.png",
-          "IsNSFW": false,
-          "ModID": 11563,
-          "Name": "Gortash\u0027s Matching Boots - Fix His Clown-Red Faux Pas",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7BJ7FAJMW3I=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=7899\nfileID=49838",
-        "Name": "Hornology-7899-1-0-1710364374.zip",
-        "Size": 53874690,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lumad11",
-          "Description": "Adds 7 new custom made horns to the CC for tieflings of all body types",
-          "FileID": 49838,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7899/7899-1710364225-1361693774.png",
-          "IsNSFW": false,
-          "ModID": 7899,
-          "Name": "Hornology - A Custom Horns Mod",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "rMiLcAPBp3w=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=5706\nfileID=66456",
-        "Name": "Lydia\u0027s Heads-5706-2-0-1-1723037094.zip",
-        "Size": 519580389,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Lydia",
-          "Description": "New CC presets for Body 1 Humanoids, Halflings and Gnomes!\n\n02.01. Update: Added Githyanki version of Ezra",
-          "FileID": 66456,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5706/5706-1706830004-679629974.png",
-          "IsNSFW": false,
-          "ModID": 5706,
-          "Name": "Lydia\u0027s Heads",
-          "Version": "1.6"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "VVnp7hikPWw=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=10343\nfileID=64940",
-        "Name": "Reforged head-10343-1-0-0-6-1721725019.zip",
-        "Size": 216995580,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "AkELkA",
-          "Description": "NON-REPLACER. \n\nAdds new head, crest top, chin, jaw, tail, and for male Dragonborn",
-          "FileID": 64940,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10343/10343-1720047969-437393554.png",
-          "IsNSFW": false,
-          "ModID": 10343,
-          "Name": "Reforged  Head - Dragonborn CC pack",
-          "Version": "1.0.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4GAQarJL2Qo=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=10573\nfileID=69017",
-        "Name": "Understated Eyes - Eye Color Collection-10573-1-1-1725593413.zip",
-        "Size": 120218,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Astralities",
-          "Description": "This Mod adds a collection of new, more understated eye colors to the game, with and without subtle glow.",
-          "FileID": 69017,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10573/10573-1719765214-1625859766.png",
-          "IsNSFW": false,
-          "ModID": 10573,
-          "Name": "Understated - Eye Color Collection",
-          "Version": "1.0"
+          "ModID": 10761,
+          "Name": "Pearl - Seadragon - Dragonborn CC pack",
+          "Version": "1.0.0.4"
         }
       }
     },
@@ -1596,48 +2058,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "R9iNCRGjnZM=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=8091\nfileID=50825",
-        "Name": "Increased throw weight and range from enlarge 2x-8091-1-1-1710947016.zip",
-        "Size": 5817,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BOZNAZ",
-          "Description": "Makes the enlarge status increase the amount of weight you can throw and the range at which you can throw an object/creature. The multiplier stacks when stacking elixir of the colossus with other sources of enlarge. There are 3 options available for \u002B25%, \u002B50% and \u002B100% multiplier.",
-          "FileID": 50825,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8091/8091-1710887878-1821450776.png",
-          "IsNSFW": false,
-          "ModID": 8091,
-          "Name": "Increased throw weight and range from enlarge",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "hi55E3/tzeI=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=8681\nfileID=59047",
-        "Name": "Kylin\u0027s Horns-8681-1-6-1716873749.zip",
-        "Size": 76551370,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kylin3",
-          "Description": "New horns with glow and accessories for tieflings of all body types.",
-          "FileID": 59047,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8681/8681-1712834281-563685839.jpeg",
-          "IsNSFW": false,
-          "ModID": 8681,
-          "Name": "Kylin\u0027s Horns",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "Kc9Z72o2qBg=",
         "Meta": "[General]\ngameName=baldursgate3\nmodID=4618\nfileID=40294",
         "Name": "more dreadlocs and curly hairstyles-4618-2-1705483086.zip",
@@ -1764,20 +2184,62 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dkJ/LHCgg20=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=7593\nfileID=48298",
-        "Name": "Encrusted With Frost Spell Save DC-7593-1-0-1709637819.zip",
-        "Size": 1763,
+        "Hash": "sm7pKuvp4c8=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=10963\nfileID=64141",
+        "Name": "Alternate Robe of the Weave-10963-1-1-1721115786.zip",
+        "Size": 6652,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BOZNAZ",
-          "Description": "Changes the difficulty class of the freezing effect from the encrusted with frost status to scale based on your spell save DC to make it easier to freeze enemies.",
-          "FileID": 48298,
+          "Author": "kobaldJuno",
+          "Description": "Feeling like Robe of the Weave isn\u0027t enough? Here you go",
+          "FileID": 64141,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7593/7593-1709637307-6954163.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10963/10963-1721061453-688831752.jpeg",
           "IsNSFW": false,
-          "ModID": 7593,
-          "Name": "Encrusted With Frost Spell Save DC Scaling",
+          "ModID": 10963,
+          "Name": "Better end game caster Robe",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GrQ7sEpj+T4=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=6068\nfileID=51305",
+        "Name": "Hairstyles of Faerun-6068-1-0-4-1711300935.zip",
+        "Size": 23463090,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Aloija",
+          "Description": "A few hairstyles for your Tav",
+          "FileID": 51305,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/6068/6068-1705778176-1189571212.png",
+          "IsNSFW": false,
+          "ModID": 6068,
+          "Name": "Hairstyles of Faerun",
+          "Version": "1.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qykUg2lvt44=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=7717\nfileID=49047",
+        "Name": "Horns of Plenty-7717-1-0-1709935421.zip",
+        "Size": 766627,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "lumad11",
+          "Description": "7 new non-replacer horns for tieflings of all body types!",
+          "FileID": 49047,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7717/7717-1709934414-1259209178.png",
+          "IsNSFW": false,
+          "ModID": 7717,
+          "Name": "Horns of Plenty",
           "Version": "1.0"
         }
       }
@@ -1785,84 +2247,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "O3ygTcI+TAo=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=5146\nfileID=61545",
-        "Name": "Fantastical Stylist - Dreadlocks N Curly styles 2-5146-1-0-1718867809.zip",
-        "Size": 67665,
+        "Hash": "bBEfyV9wMf0=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=5706\nfileID=71481",
+        "Name": "Lydia\u0027s Heads for Shorties-5706-2-2-1726522758.zip",
+        "Size": 273931325,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dungeons And Souls",
-          "Description": "This page hosts CC Patches for Fantastical Multiverse.  If you\u0027re looking for a patch for a beautiful hair or face you\u0027ll likely find it here! Give your Tav the makeover they deserve!",
-          "FileID": 61545,
+          "Author": "Lydia",
+          "Description": "New CC presets for Body 1 Humanoids, Halflings and Gnomes!\n\n02.01. Update: Added Githyanki version of Ezra",
+          "FileID": 71481,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5146/5146-1718672565-293052249.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5706/5706-1706830004-679629974.png",
           "IsNSFW": false,
-          "ModID": 5146,
-          "Name": "Fantastical Stylist",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "1O/zCqBxkps=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=3641\nfileID=30492",
-        "Name": "Frosty Faces-3641-1-3-1700950781.zip",
-        "Size": 152641853,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "tepkunset",
-          "Description": "Adds a variety of new heads to character creation.",
-          "FileID": 30492,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/3641/3641-1698277051-504755620.jpeg",
-          "IsNSFW": false,
-          "ModID": 3641,
-          "Name": "Frosty Faces (More Heads)",
-          "Version": "1.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ZQDz5GyyvVc=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=9535\nfileID=65074",
-        "Name": "Jun\u0027s Head Pack (non-UTAV)-9535-2-41-1721861416.zip",
-        "Size": 246487785,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "junbug7897",
-          "Description": "A collection of my heads onto one mod page!",
-          "FileID": 65074,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9535/9535-1715857199-1141351707.jpeg",
-          "IsNSFW": false,
-          "ModID": 9535,
-          "Name": "Jun\u0027s Head Pack",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "nBjWiblly9Y=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=10761\nfileID=70613",
-        "Name": "Pearl Seadragon - Dragonborn CC pack-10761-1-0-0-6-1726115370.zip",
-        "Size": 321337677,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "AkELkA",
-          "Description": "NON-REPLACER. \n\nAdds new head, crest tops, jaw, tail, and for female Dragonborn",
-          "FileID": 70613,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10761/10761-1723579546-1449794562.png",
-          "IsNSFW": false,
-          "ModID": 10761,
-          "Name": "Pearl - Seadragon - Dragonborn CC pack",
-          "Version": "1.0.0.4"
+          "ModID": 5706,
+          "Name": "Lydia\u0027s Heads",
+          "Version": "1.6"
         }
       }
     },
@@ -2142,41 +2541,104 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "sm7pKuvp4c8=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=10963\nfileID=64141",
-        "Name": "Alternate Robe of the Weave-10963-1-1-1721115786.zip",
-        "Size": 6652,
+        "Hash": "E9vZqKg0VCo=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=9371\nfileID=67308",
+        "Name": "BS-AdjustableShovePull-0_1_0_6-9371-0-1-0-6-1723819838.zip",
+        "Size": 2496,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kobaldJuno",
-          "Description": "Feeling like Robe of the Weave isn\u0027t enough? Here you go",
-          "FileID": 64141,
+          "Author": "Bluesatin",
+          "Description": "Makes changes to common push/pull effects from skills, allowing them to be angled slightly to the left/right when used.",
+          "FileID": 67308,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10963/10963-1721061453-688831752.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9371/9371-1715367372-1220434027.png",
           "IsNSFW": false,
-          "ModID": 10963,
-          "Name": "Better end game caster Robe",
-          "Version": "1.1"
+          "ModID": 9371,
+          "Name": "Adjustable Shove-Pull Targeting",
+          "Version": "0.1.0.5"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "xTrRGDgSOl8=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=7612\nfileID=48371",
-        "Name": "Main File-7612-1-0-1709677427.zip",
-        "Size": 1690,
+        "Hash": "vr4xTny/mkA=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=6086\nfileID=68892",
+        "Name": "Auto Send Food To Camp 2.0.1-6086-2-0-1-1725549296.zip",
+        "Size": 13962,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "MegaCoolBlood",
-          "Description": "Disables the combat log for Silvanus Blessing, so that you are not spammed with Log Notifications anymore",
-          "FileID": 48371,
+          "Author": "Volitio",
+          "Description": "Automatically send food items to a supply sack inside the camp chest. Configurable with a JSON file.",
+          "FileID": 68892,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7612/7612-1709677259-1654992350.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/6086/6086-1705811890-1890463707.png",
           "IsNSFW": false,
-          "ModID": 7612,
-          "Name": "Disable combat log for Silvanus Blessing",
+          "ModID": 6086,
+          "Name": "Auto Send Food To Camp",
+          "Version": "1.3.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/Q/r8bIaW4k=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=1879\nfileID=16041",
+        "Name": "KvCampEvents-1879-0-4-5-1694790472.zip",
+        "Size": 37147,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kvalyr",
+          "Description": "Adds visual notifications to tell the player when they should long rest due to camp night events and dialogues waiting to play out.",
+          "FileID": 16041,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1879/1879-1693882239-1429997637.png",
+          "IsNSFW": false,
+          "ModID": 1879,
+          "Name": "Camp Event Notifications",
+          "Version": "0.4.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "KTchPNi01sY=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=10073\nfileID=64393",
+        "Name": "Elixirs Revised-10073-1-2-1721342199.zip",
+        "Size": 26459,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Parrot",
+          "Description": "Minor quality of life tweaks for elixirs and potions.",
+          "FileID": 64393,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10073/10073-1719936770-2003717037.png",
+          "IsNSFW": false,
+          "ModID": 10073,
+          "Name": "Elixirs Revised",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9bZKqk3SjAo=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=5146\nfileID=61542",
+        "Name": "Fantastical Stylist - Heir of Thunder-5146-2-0-1718867598.zip",
+        "Size": 10804,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dungeons And Souls",
+          "Description": "This page hosts CC Patches for Fantastical Multiverse.  If you\u0027re looking for a patch for a beautiful hair or face you\u0027ll likely find it here! Give your Tav the makeover they deserve!",
+          "FileID": 61542,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5146/5146-1718672565-293052249.jpeg",
+          "IsNSFW": false,
+          "ModID": 5146,
+          "Name": "Fantastical Stylist",
           "Version": "1.0"
         }
       }
@@ -2184,63 +2646,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GrQ7sEpj+T4=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=6068\nfileID=51305",
-        "Name": "Hairstyles of Faerun-6068-1-0-4-1711300935.zip",
-        "Size": 23463090,
+        "Hash": "yOMOe9xJ39c=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=7795\nfileID=49435",
+        "Name": "JustWet-7795-1-1710125184.zip",
+        "Size": 2493,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Aloija",
-          "Description": "A few hairstyles for your Tav",
-          "FileID": 51305,
+          "Author": "PrimalFire",
+          "Description": "Re-adjusts wet status",
+          "FileID": 49435,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/6068/6068-1705778176-1189571212.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7795/7795-1710124822-1692110129.png",
           "IsNSFW": false,
-          "ModID": 6068,
-          "Name": "Hairstyles of Faerun",
-          "Version": "1.0.1"
+          "ModID": 7795,
+          "Name": "Just Wet",
+          "Version": "1.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "qykUg2lvt44=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=7717\nfileID=49047",
-        "Name": "Horns of Plenty-7717-1-0-1709935421.zip",
-        "Size": 766627,
+        "Hash": "gWAYOIjbDUs=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=9741\nfileID=58250",
+        "Name": "Neon\u0027s Assorted Faces-9741-1-0-1716406384.zip",
+        "Size": 117365992,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "lumad11",
-          "Description": "7 new non-replacer horns for tieflings of all body types!",
-          "FileID": 49047,
+          "Author": "neonbutchery",
+          "Description": "Adds a collection of new heads to the character creator, mostly for elf/half-elf/drow/human/tiefling bodytypes 1 and 2. Reuploaded!",
+          "FileID": 58250,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7717/7717-1709934414-1259209178.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9741%2F9741-1716406057-671600800.png",
           "IsNSFW": false,
-          "ModID": 7717,
-          "Name": "Horns of Plenty",
+          "ModID": 9741,
+          "Name": "Neon\u0027s Assorted Faces",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "bBEfyV9wMf0=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=5706\nfileID=71481",
-        "Name": "Lydia\u0027s Heads for Shorties-5706-2-2-1726522758.zip",
-        "Size": 273931325,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Lydia",
-          "Description": "New CC presets for Body 1 Humanoids, Halflings and Gnomes!\n\n02.01. Update: Added Githyanki version of Ezra",
-          "FileID": 71481,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5706/5706-1706830004-679629974.png",
-          "IsNSFW": false,
-          "ModID": 5706,
-          "Name": "Lydia\u0027s Heads",
-          "Version": "1.6"
         }
       }
     },
@@ -2583,83 +3024,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "E9vZqKg0VCo=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=9371\nfileID=67308",
-        "Name": "BS-AdjustableShovePull-0_1_0_6-9371-0-1-0-6-1723819838.zip",
-        "Size": 2496,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Bluesatin",
-          "Description": "Makes changes to common push/pull effects from skills, allowing them to be angled slightly to the left/right when used.",
-          "FileID": 67308,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9371/9371-1715367372-1220434027.png",
-          "IsNSFW": false,
-          "ModID": 9371,
-          "Name": "Adjustable Shove-Pull Targeting",
-          "Version": "0.1.0.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vr4xTny/mkA=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=6086\nfileID=68892",
-        "Name": "Auto Send Food To Camp 2.0.1-6086-2-0-1-1725549296.zip",
-        "Size": 13962,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Volitio",
-          "Description": "Automatically send food items to a supply sack inside the camp chest. Configurable with a JSON file.",
-          "FileID": 68892,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/6086/6086-1705811890-1890463707.png",
-          "IsNSFW": false,
-          "ModID": 6086,
-          "Name": "Auto Send Food To Camp",
-          "Version": "1.3.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "/Q/r8bIaW4k=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=1879\nfileID=16041",
-        "Name": "KvCampEvents-1879-0-4-5-1694790472.zip",
-        "Size": 37147,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Kvalyr",
-          "Description": "Adds visual notifications to tell the player when they should long rest due to camp night events and dialogues waiting to play out.",
-          "FileID": 16041,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1879/1879-1693882239-1429997637.png",
-          "IsNSFW": false,
-          "ModID": 1879,
-          "Name": "Camp Event Notifications",
-          "Version": "0.4.5"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "KTchPNi01sY=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=10073\nfileID=64393",
-        "Name": "Elixirs Revised-10073-1-2-1721342199.zip",
-        "Size": 26459,
+        "Hash": "h4AMEvJxl/w=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=10893\nfileID=63782",
+        "Name": "Gear Revised Footwear-10893-1-1720751208.zip",
+        "Size": 7343,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Parrot",
-          "Description": "Minor quality of life tweaks for elixirs and potions.",
-          "FileID": 64393,
+          "Description": "Rework and quality of life tweaks for footwear.",
+          "FileID": 63782,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10073/10073-1719936770-2003717037.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10893/10893-1720713734-1085199105.png",
           "IsNSFW": false,
-          "ModID": 10073,
-          "Name": "Elixirs Revised",
+          "ModID": 10893,
+          "Name": "Gear Revised Footwear",
           "Version": "1"
         }
       }
@@ -2667,62 +3045,41 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "9bZKqk3SjAo=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=5146\nfileID=61542",
-        "Name": "Fantastical Stylist - Heir of Thunder-5146-2-0-1718867598.zip",
-        "Size": 10804,
+        "Hash": "k3jYKDIEVUM=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=3346\nfileID=65849",
+        "Name": "THS Icon Patch-3346-1-8-4-1722444577.zip",
+        "Size": 6082784,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dungeons And Souls",
-          "Description": "This page hosts CC Patches for Fantastical Multiverse.  If you\u0027re looking for a patch for a beautiful hair or face you\u0027ll likely find it here! Give your Tav the makeover they deserve!",
-          "FileID": 61542,
+          "Author": "perseidipity",
+          "Description": "A patch for Toarie\u0027s \u0022Tav\u0027s Hair Salon\u0022 mod, adding icons to the hairs! Also has patches to add compatibility with some custom race mods.",
+          "FileID": 65849,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5146/5146-1718672565-293052249.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/3346/3346-1702586212-850084606.png",
           "IsNSFW": false,
-          "ModID": 5146,
-          "Name": "Fantastical Stylist",
-          "Version": "1.0"
+          "ModID": 3346,
+          "Name": "Icon and Race Patches for Tav\u0027s Hair Salon",
+          "Version": "1.5.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "yOMOe9xJ39c=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=7795\nfileID=49435",
-        "Name": "JustWet-7795-1-1710125184.zip",
-        "Size": 2493,
+        "Hash": "gX9WPB65Vso=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=8089\nfileID=50701",
+        "Name": "Mage Armour - Quality of Life-8089-1-0-1710874623.zip",
+        "Size": 1884,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PrimalFire",
-          "Description": "Re-adjusts wet status",
-          "FileID": 49435,
+          "Author": "kharneth",
+          "Description": "Turns Mage Armour inactive instead of removing it when you equip armor, and reactivate it when you unequip armor.",
+          "FileID": 50701,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7795/7795-1710124822-1692110129.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8089/8089-1710875597-157353520.png",
           "IsNSFW": false,
-          "ModID": 7795,
-          "Name": "Just Wet",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "gWAYOIjbDUs=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=9741\nfileID=58250",
-        "Name": "Neon\u0027s Assorted Faces-9741-1-0-1716406384.zip",
-        "Size": 117365992,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "neonbutchery",
-          "Description": "Adds a collection of new heads to the character creator, mostly for elf/half-elf/drow/human/tiefling bodytypes 1 and 2. Reuploaded!",
-          "FileID": 58250,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9741%2F9741-1716406057-671600800.png",
-          "IsNSFW": false,
-          "ModID": 9741,
-          "Name": "Neon\u0027s Assorted Faces",
+          "ModID": 8089,
+          "Name": "Mage Armour - Quality of Life",
           "Version": "1.0"
         }
       }
@@ -3024,63 +3381,105 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "h4AMEvJxl/w=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=10893\nfileID=63782",
-        "Name": "Gear Revised Footwear-10893-1-1720751208.zip",
-        "Size": 7343,
+        "Hash": "BS4jfrTWkwo=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=7035\nfileID=68890",
+        "Name": "Auto Send Read Books To Camp 2.0.1-7035-2-0-1-1725549135.zip",
+        "Size": 8691,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Parrot",
-          "Description": "Rework and quality of life tweaks for footwear.",
-          "FileID": 63782,
+          "Author": "Volitio",
+          "Description": "Automatically send read books to the camp chest or mark them as wares. Configurable with a JSON file.",
+          "FileID": 68890,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10893/10893-1720713734-1085199105.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7035/7035-1708719491-282551199.png",
           "IsNSFW": false,
-          "ModID": 10893,
-          "Name": "Gear Revised Footwear",
-          "Version": "1"
+          "ModID": 7035,
+          "Name": "Auto Send Read Books To Camp",
+          "Version": "1.1.0.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "k3jYKDIEVUM=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=3346\nfileID=65849",
-        "Name": "THS Icon Patch-3346-1-8-4-1722444577.zip",
-        "Size": 6082784,
+        "Hash": "q5Y6yf6EiBo=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=5060\nfileID=34108",
+        "Name": "ElvesSitToTrance-5060-1-0-0-1702346824.zip",
+        "Size": 65002,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "perseidipity",
-          "Description": "A patch for Toarie\u0027s \u0022Tav\u0027s Hair Salon\u0022 mod, adding icons to the hairs! Also has patches to add compatibility with some custom race mods.",
-          "FileID": 65849,
+          "Author": "Laruses",
+          "Description": "A tiny animation replacement to makes some elves sit up to trance, the way they did in early access.",
+          "FileID": 34108,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/3346/3346-1702586212-850084606.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5060/5060-1702344772-1822137029.jpeg",
           "IsNSFW": false,
-          "ModID": 3346,
-          "Name": "Icon and Race Patches for Tav\u0027s Hair Salon",
-          "Version": "1.5.0"
+          "ModID": 5060,
+          "Name": "Elves Sit to Trance",
+          "Version": "1.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "gX9WPB65Vso=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=8089\nfileID=50701",
-        "Name": "Mage Armour - Quality of Life-8089-1-0-1710874623.zip",
-        "Size": 1884,
+        "Hash": "vzR53wvFx+o=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=5146\nfileID=61546",
+        "Name": "Fantastical Stylist - Silvers Hair Pack-5146-1-3-1718867870.zip",
+        "Size": 16101,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "kharneth",
-          "Description": "Turns Mage Armour inactive instead of removing it when you equip armor, and reactivate it when you unequip armor.",
-          "FileID": 50701,
+          "Author": "Dungeons And Souls",
+          "Description": "This page hosts CC Patches for Fantastical Multiverse.  If you\u0027re looking for a patch for a beautiful hair or face you\u0027ll likely find it here! Give your Tav the makeover they deserve!",
+          "FileID": 61546,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8089/8089-1710875597-157353520.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5146/5146-1718672565-293052249.jpeg",
           "IsNSFW": false,
-          "ModID": 8089,
-          "Name": "Mage Armour - Quality of Life",
+          "ModID": 5146,
+          "Name": "Fantastical Stylist",
           "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "NxzF6eiIiRI=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=11511\nfileID=66882",
+        "Name": "KaitieHeadPresetV2-11511-2-1723458391.zip",
+        "Size": 51624945,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "CilantroRosie",
+          "Description": "A custom head for Elf, Half Elf, Drow, Human,Body1, Aasimar (DarthRen), Gnome. Dwarf removed due to flying eyeballs.",
+          "FileID": 66882,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/11511/11511-1723311875-1672527049.png",
+          "IsNSFW": false,
+          "ModID": 11511,
+          "Name": "Kaitie Head Preset - A Custom head",
+          "Version": "2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "q9AULX4XKcw=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=4507\nfileID=53040",
+        "Name": "Neon\u0027s Assorted Hairs-4507-1-1-1-1712573249.zip",
+        "Size": 67817822,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "neonbutchery",
+          "Description": "Adds a collection of new hairstyles to the character creator.",
+          "FileID": 53040,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/4507/4507-1700781826-1548434519.png",
+          "IsNSFW": false,
+          "ModID": 4507,
+          "Name": "Neon\u0027s Assorted Hairs",
+          "Version": "1.03"
         }
       }
     },
@@ -3123,27 +3522,6 @@
           "ModID": 1420,
           "Name": "Vessnelle\u0027s Hair Collection",
           "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "RGywGd/CPIw=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=5080\nfileID=54833",
-        "Name": "Wifi_potions_2.0.4.0-5080-2-0-4-0-1713974102.zip",
-        "Size": 32052,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "FallenStar",
-          "Description": "Magical healing potions that look for any available healing potion of the same type in the party\u0027s inventory for convenience, no more splitting potion or looking for them inside 50 bags\n\n\n\nMay activate your 5G chip.",
-          "FileID": 54833,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5080/5080-1702410478-1452314869.png",
-          "IsNSFW": false,
-          "ModID": 5080,
-          "Name": "Wifi potions v2 tm",
-          "Version": "2.0.2.0"
         }
       }
     },
@@ -3297,48 +3675,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "eGwJrx/VQjA=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=7160\nfileID=51731",
-        "Name": "Silver\u0027s Hair Pack 2-7160-1-3-1711670373.zip",
-        "Size": 12284394,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Silver",
-          "Description": "Adds 5 more hairstyles to character creation for body types 1 and 2.",
-          "FileID": 51731,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7160/7160-1708906043-431355390.jpeg",
-          "IsNSFW": false,
-          "ModID": 7160,
-          "Name": "Silver\u0027s Hair Pack 2",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "b134s1mgVwU=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=10084\nfileID=59837",
-        "Name": "The Lads-10084-1-0-0-1717458644.zip",
-        "Size": 67995945,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "cedastarions",
-          "Description": "4 Male Half-Orc head presets",
-          "FileID": 59837,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10084%2F10084-1717453921-1306751695.png",
-          "IsNSFW": false,
-          "ModID": 10084,
-          "Name": "The Lads Head Presets",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "qRce+JyuBFQ=",
         "Meta": "[General]\ngameName=baldursgate3\nmodID=340\nfileID=70514",
         "Name": "Vanilla CC Colours for All Sections-340-Vanilla1-0-0-2-1726079351.zip",
@@ -3381,126 +3717,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "BS4jfrTWkwo=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=7035\nfileID=68890",
-        "Name": "Auto Send Read Books To Camp 2.0.1-7035-2-0-1-1725549135.zip",
-        "Size": 8691,
+        "Hash": "xLVgG4AJxzc=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=6064\nfileID=54700",
+        "Name": "Fallen_CC_Cleaner_1.1.1.0-6064-1-1-1-0-1713895712.zip",
+        "Size": 27142,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Volitio",
-          "Description": "Automatically send read books to the camp chest or mark them as wares. Configurable with a JSON file.",
-          "FileID": 68890,
+          "Author": "FallenStar",
+          "Description": "Niche mod to remove entries from non installed appearance mods from the character creation menu.\n\n Useful if you have some all in one CC patches for modded races to declutter the menu.",
+          "FileID": 54700,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7035/7035-1708719491-282551199.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/6064/6064-1705772655-1975741901.png",
           "IsNSFW": false,
-          "ModID": 7035,
-          "Name": "Auto Send Read Books To Camp",
-          "Version": "1.1.0.1"
+          "ModID": 6064,
+          "Name": "CC Cleaner",
+          "Version": "1.1.0.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "q5Y6yf6EiBo=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=5060\nfileID=34108",
-        "Name": "ElvesSitToTrance-5060-1-0-0-1702346824.zip",
-        "Size": 65002,
+        "Hash": "Guoljm1GNyo=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=5105\nfileID=68878",
+        "Name": "Illithid Powers Overhaul-5105-2-5-1725547879.zip",
+        "Size": 1258695,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Laruses",
-          "Description": "A tiny animation replacement to makes some elves sit up to trance, the way they did in early access.",
-          "FileID": 34108,
+          "Author": "Siael",
+          "Description": "Complete rework of Illithid Powers",
+          "FileID": 68878,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5060/5060-1702344772-1822137029.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5105/5105-1705472493-720271025.png",
           "IsNSFW": false,
-          "ModID": 5060,
-          "Name": "Elves Sit to Trance",
-          "Version": "1.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "SaALnAbQq8g=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=9826\nfileID=71467",
-        "Name": "Even More Heads-9826-1-3-1-1726513862.zip",
-        "Size": 109011701,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Koralina",
-          "Description": "11 new heads for character creation menu, available to Elf, Human and Tiefling races",
-          "FileID": 71467,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9826%2F9826-1716669054-386281755.png",
-          "IsNSFW": false,
-          "ModID": 9826,
-          "Name": "Even More Heads by Koralina",
-          "Version": "1.0.3"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "vzR53wvFx+o=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=5146\nfileID=61546",
-        "Name": "Fantastical Stylist - Silvers Hair Pack-5146-1-3-1718867870.zip",
-        "Size": 16101,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dungeons And Souls",
-          "Description": "This page hosts CC Patches for Fantastical Multiverse.  If you\u0027re looking for a patch for a beautiful hair or face you\u0027ll likely find it here! Give your Tav the makeover they deserve!",
-          "FileID": 61546,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5146/5146-1718672565-293052249.jpeg",
-          "IsNSFW": false,
-          "ModID": 5146,
-          "Name": "Fantastical Stylist",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "NxzF6eiIiRI=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=11511\nfileID=66882",
-        "Name": "KaitieHeadPresetV2-11511-2-1723458391.zip",
-        "Size": 51624945,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "CilantroRosie",
-          "Description": "A custom head for Elf, Half Elf, Drow, Human,Body1, Aasimar (DarthRen), Gnome. Dwarf removed due to flying eyeballs.",
-          "FileID": 66882,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/11511/11511-1723311875-1672527049.png",
-          "IsNSFW": false,
-          "ModID": 11511,
-          "Name": "Kaitie Head Preset - A Custom head",
-          "Version": "2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "q9AULX4XKcw=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=4507\nfileID=53040",
-        "Name": "Neon\u0027s Assorted Hairs-4507-1-1-1-1712573249.zip",
-        "Size": 67817822,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "neonbutchery",
-          "Description": "Adds a collection of new hairstyles to the character creator.",
-          "FileID": 53040,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/4507/4507-1700781826-1548434519.png",
-          "IsNSFW": false,
-          "ModID": 4507,
-          "Name": "Neon\u0027s Assorted Hairs",
-          "Version": "1.03"
+          "ModID": 5105,
+          "Name": "Illithid Powers Overhaul 2",
+          "Version": "2.0"
         }
       }
     },
@@ -3696,63 +3948,126 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "xLVgG4AJxzc=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=6064\nfileID=54700",
-        "Name": "Fallen_CC_Cleaner_1.1.1.0-6064-1-1-1-0-1713895712.zip",
-        "Size": 27142,
+        "Hash": "GSjZZ4ehEow=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=8747\nfileID=53715",
+        "Name": "Scr_BralessDragonborn-8747-1-0-0-6-1713072816.zip",
+        "Size": 1567994,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "FallenStar",
-          "Description": "Niche mod to remove entries from non installed appearance mods from the character creation menu.\n\n Useful if you have some all in one CC patches for modded races to declutter the menu.",
-          "FileID": 54700,
+          "Author": "UndefinedScribble",
+          "Description": "Removes the bras from dragonborn underwear.",
+          "FileID": 53715,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/6064/6064-1705772655-1975741901.png",
-          "IsNSFW": false,
-          "ModID": 6064,
-          "Name": "CC Cleaner",
-          "Version": "1.1.0.0"
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8747/8747-1713072392-2012791161.png",
+          "IsNSFW": true,
+          "ModID": 8747,
+          "Name": "And Hold the Bra - A Dragonborn Underwear Mod",
+          "Version": "1.0.0.6"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "rnUfWFw6/gI=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=10984\nfileID=69637",
-        "Name": "Gear Revised Shields-10984-1-1-1725738924.zip",
-        "Size": 3064,
+        "Hash": "dSUXooo1vdw=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=6880\nfileID=69900",
+        "Name": "Auto Use Soap 2.0.3-6880-2-0-3-1725810413.zip",
+        "Size": 8529,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Parrot",
-          "Description": "Rework and quality of life tweaks for shields.",
-          "FileID": 69637,
+          "Author": "Volitio",
+          "Description": "Automatically use soap post-combat or when entering camp, if available in party member\u0027s inventory. Optional soap delivery to camp chest. Configurable via JSON.",
+          "FileID": 69900,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10984/10984-1721134308-1383353991.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/6880/6880-1708197348-482257908.png",
           "IsNSFW": false,
-          "ModID": 10984,
-          "Name": "Gear Revised Shields",
-          "Version": "1"
+          "ModID": 6880,
+          "Name": "Auto Use Soap",
+          "Version": "1.0.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Guoljm1GNyo=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=5105\nfileID=68878",
-        "Name": "Illithid Powers Overhaul-5105-2-5-1725547879.zip",
-        "Size": 1258695,
+        "Hash": "WgZEZSGegJ8=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=5099\nfileID=67395",
+        "Name": "Em\u0027s Custom Hair Pack 1-5099-1-4-1723898026.zip",
+        "Size": 37297322,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Siael",
-          "Description": "Complete rework of Illithid Powers",
-          "FileID": 68878,
+          "Author": "EmeraldTechno",
+          "Description": "A pack of 10 custom-made hairs. Most are autosnap.",
+          "FileID": 67395,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5105/5105-1705472493-720271025.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5099/5099-1702484607-440876619.png",
           "IsNSFW": false,
-          "ModID": 5105,
-          "Name": "Illithid Powers Overhaul 2",
-          "Version": "2.0"
+          "ModID": 5099,
+          "Name": "Em\u0027s Custom Hair Pack 1",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "L5sk5Jwt/x0=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=5146\nfileID=61547",
+        "Name": "Fantastical Stylist - Silvers Hair Pack 2.-5146-1-3-1718867924.zip",
+        "Size": 18569,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Dungeons And Souls",
+          "Description": "This page hosts CC Patches for Fantastical Multiverse.  If you\u0027re looking for a patch for a beautiful hair or face you\u0027ll likely find it here! Give your Tav the makeover they deserve!",
+          "FileID": 61547,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5146/5146-1718672565-293052249.jpeg",
+          "IsNSFW": false,
+          "ModID": 5146,
+          "Name": "Fantastical Stylist",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RPzFRFCWP9Q=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=7853\nfileID=49684",
+        "Name": "Kar\u0027Niss-7853-1-0-1710280786.zip",
+        "Size": 15848278,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PseudoKociara",
+          "Description": "Kar\u0027niss head and hair for BT2 elves, halfelves and drows",
+          "FileID": 49684,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7853/7853-1710281199-1505435573.png",
+          "IsNSFW": false,
+          "ModID": 7853,
+          "Name": "Kar\u0027niss",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Fy4lP4cUhuI=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=11491\nfileID=66672",
+        "Name": "Neutral Expressions Tweak-11491-1-0-1723282912.zip",
+        "Size": 120826,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cerberry",
+          "Description": "Adjusts the amount of lip chewing and grimacing in neutral dialogue",
+          "FileID": 66672,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/11491/11491-1723295848-860332994.png",
+          "IsNSFW": false,
+          "ModID": 11491,
+          "Name": "Neutral Facial Expressions Tweak",
+          "Version": "1.0"
         }
       }
     },
@@ -3858,27 +4173,6 @@
           "ModID": 4137,
           "Name": "Better Cursor Text Panel",
           "Version": "1.01"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "L5sk5Jwt/x0=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=5146\nfileID=61547",
-        "Name": "Fantastical Stylist - Silvers Hair Pack 2.-5146-1-3-1718867924.zip",
-        "Size": 18569,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Dungeons And Souls",
-          "Description": "This page hosts CC Patches for Fantastical Multiverse.  If you\u0027re looking for a patch for a beautiful hair or face you\u0027ll likely find it here! Give your Tav the makeover they deserve!",
-          "FileID": 61547,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5146/5146-1718672565-293052249.jpeg",
-          "IsNSFW": false,
-          "ModID": 5146,
-          "Name": "Fantastical Stylist",
-          "Version": "1.0"
         }
       }
     },
@@ -4011,62 +4305,41 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "GSjZZ4ehEow=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=8747\nfileID=53715",
-        "Name": "Scr_BralessDragonborn-8747-1-0-0-6-1713072816.zip",
-        "Size": 1567994,
+        "Hash": "XGl6havLthU=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=9987\nfileID=59921",
+        "Name": "ChaoticNeuThrall Heads-9987-1-2-1717524300.zip",
+        "Size": 295512716,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "UndefinedScribble",
-          "Description": "Removes the bras from dragonborn underwear.",
-          "FileID": 53715,
+          "Author": "ChaoticNeuThrall",
+          "Description": "Head pack for Elves/Human/Tiefling.\n\nT1 Body Type.",
+          "FileID": 59921,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8747/8747-1713072392-2012791161.png",
-          "IsNSFW": true,
-          "ModID": 8747,
-          "Name": "And Hold the Bra - A Dragonborn Underwear Mod",
-          "Version": "1.0.0.6"
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9987%2F9987-1717169494-226771630.png",
+          "IsNSFW": false,
+          "ModID": 9987,
+          "Name": "ChaoticNeuThrall Heads",
+          "Version": "1.0"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "dSUXooo1vdw=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=6880\nfileID=69900",
-        "Name": "Auto Use Soap 2.0.3-6880-2-0-3-1725810413.zip",
-        "Size": 8529,
+        "Hash": "i04P5J//efI=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=5612\nfileID=39646",
+        "Name": "Database Cleaner-5612-1-3-1705142283.zip",
+        "Size": 4208,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Volitio",
-          "Description": "Automatically use soap post-combat or when entering camp, if available in party member\u0027s inventory. Optional soap delivery to camp chest. Configurable via JSON.",
-          "FileID": 69900,
+          "Author": "wesslen",
+          "Description": "Speeds up loading by cleaning up database entries left behind by destroyed characters (mostly summons.) Especially impactful in Honour mode.",
+          "FileID": 39646,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/6880/6880-1708197348-482257908.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5612/5612-1704299543-1368734995.jpeg",
           "IsNSFW": false,
-          "ModID": 6880,
-          "Name": "Auto Use Soap",
-          "Version": "1.0.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "WgZEZSGegJ8=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=5099\nfileID=67395",
-        "Name": "Em\u0027s Custom Hair Pack 1-5099-1-4-1723898026.zip",
-        "Size": 37297322,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "EmeraldTechno",
-          "Description": "A pack of 10 custom-made hairs. Most are autosnap.",
-          "FileID": 67395,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5099/5099-1702484607-440876619.png",
-          "IsNSFW": false,
-          "ModID": 5099,
-          "Name": "Em\u0027s Custom Hair Pack 1",
+          "ModID": 5612,
+          "Name": "Database Cleaner",
           "Version": "1.3"
         }
       }
@@ -4074,42 +4347,21 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "RPzFRFCWP9Q=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=7853\nfileID=49684",
-        "Name": "Kar\u0027Niss-7853-1-0-1710280786.zip",
-        "Size": 15848278,
+        "Hash": "ut+DHAU1NYQ=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=9787\nfileID=58633",
+        "Name": "Maya and Talia-9787-1-1-1-1716644475.zip",
+        "Size": 56262537,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PseudoKociara",
-          "Description": "Kar\u0027niss head and hair for BT2 elves, halfelves and drows",
-          "FileID": 49684,
+          "Author": "cedastarions",
+          "Description": "Two new head presets for elven races, humans, and tieflings.",
+          "FileID": 58633,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7853/7853-1710281199-1505435573.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9787%2F9787-1716559594-928842664.png",
           "IsNSFW": false,
-          "ModID": 7853,
-          "Name": "Kar\u0027niss",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "Fy4lP4cUhuI=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=11491\nfileID=66672",
-        "Name": "Neutral Expressions Tweak-11491-1-0-1723282912.zip",
-        "Size": 120826,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Cerberry",
-          "Description": "Adjusts the amount of lip chewing and grimacing in neutral dialogue",
-          "FileID": 66672,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/11491/11491-1723295848-860332994.png",
-          "IsNSFW": false,
-          "ModID": 11491,
-          "Name": "Neutral Facial Expressions Tweak",
-          "Version": "1.0"
+          "ModID": 9787,
+          "Name": "Maya and Talia Head Presets",
+          "Version": "1.1"
         }
       }
     },
@@ -4263,20 +4515,20 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "XGl6havLthU=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=9987\nfileID=59921",
-        "Name": "ChaoticNeuThrall Heads-9987-1-2-1717524300.zip",
-        "Size": 295512716,
+        "Hash": "NX9NFRTb1mk=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=10398\nfileID=69023",
+        "Name": "Astralities Fluffy Ears-10398-1-1-1725595074.zip",
+        "Size": 9943967,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "ChaoticNeuThrall",
-          "Description": "Head pack for Elves/Human/Tiefling.\n\nT1 Body Type.",
-          "FileID": 59921,
+          "Author": "Astralities",
+          "Description": "This mod adds 4 styles of animal ears to the Horn slot, for all Races except Dragonborn.",
+          "FileID": 69023,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9987%2F9987-1717169494-226771630.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10398/10398-1718840459-558762232.png",
           "IsNSFW": false,
-          "ModID": 9987,
-          "Name": "ChaoticNeuThrall Heads",
+          "ModID": 10398,
+          "Name": "Astralities Fluffy Ears",
           "Version": "1.0"
         }
       }
@@ -4284,62 +4536,83 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "i04P5J//efI=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=5612\nfileID=39646",
-        "Name": "Database Cleaner-5612-1-3-1705142283.zip",
-        "Size": 4208,
+        "Hash": "TgG6UAxPfZ4=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=5788\nfileID=55687",
+        "Name": "Auto Hide Summons-5788-1-2-1714685852.zip",
+        "Size": 2024,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "wesslen",
-          "Description": "Speeds up loading by cleaning up database entries left behind by destroyed characters (mostly summons.) Especially impactful in Honour mode.",
-          "FileID": 39646,
+          "Author": "Cyclonic",
+          "Description": "Automatically hide summons when the character they are attached to enters stealth",
+          "FileID": 55687,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5612/5612-1704299543-1368734995.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5788%2F5788-1704759173-538077028.png",
           "IsNSFW": false,
-          "ModID": 5612,
-          "Name": "Database Cleaner",
-          "Version": "1.3"
+          "ModID": 5788,
+          "Name": "Automatically Hide Summons",
+          "Version": "1.2"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "/XDU/NSZ7lA=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=5105\nfileID=53884",
-        "Name": "Half Potency-5105-1-1-1713214696.zip",
-        "Size": 1981,
+        "Hash": "kaQ9p0oJQw0=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=5611\nfileID=67396",
+        "Name": "Em\u0027s Custom Hair Pack 2-5611-1-2-1723898225.zip",
+        "Size": 35287202,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Siael",
-          "Description": "Complete rework of Illithid Powers",
-          "FileID": 53884,
+          "Author": "EmeraldTechno",
+          "Description": "A pack of 10 custom-made hairs. All are autosnapping for all races and come with CC icons.",
+          "FileID": 67396,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5105/5105-1705472493-720271025.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5611/5611-1704291203-620328454.png",
           "IsNSFW": false,
-          "ModID": 5105,
-          "Name": "Illithid Powers Overhaul 2",
-          "Version": "2.0"
+          "ModID": 5611,
+          "Name": "Em\u0027s Custom Hair Pack 2",
+          "Version": "1.1"
         }
       }
     },
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "ut+DHAU1NYQ=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=9787\nfileID=58633",
-        "Name": "Maya and Talia-9787-1-1-1-1716644475.zip",
-        "Size": 56262537,
+        "Hash": "AauPd5iSYZA=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=7985\nfileID=50295",
+        "Name": "Kar\u0027niss Head for CC-7985-1-1710632039.zip",
+        "Size": 55022571,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "cedastarions",
-          "Description": "Two new head presets for elven races, humans, and tieflings.",
-          "FileID": 58633,
+          "Author": "Psychotter",
+          "Description": "Adds two versions of Kar\u0027niss\u0027 head without his drider features to character creation for Body 2 and 4 elves, humans, drow, half-elves and tieflings.",
+          "FileID": 50295,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9787%2F9787-1716559594-928842664.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7985/7985-1710547110-1666218201.png",
           "IsNSFW": false,
-          "ModID": 9787,
-          "Name": "Maya and Talia Head Presets",
+          "ModID": 7985,
+          "Name": "Kar\u0027niss Un-dridered Head For CC",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MCvNuwPf4M8=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=6152\nfileID=47527",
+        "Name": "New CC Head Presets-6152-1-2-1709319890.zip",
+        "Size": 1070963375,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PseudoKociara",
+          "Description": "A bunch of custom presets for body type 1/2/3/4\n\nMost available for humans/tieflings/elf/drow/halfelf",
+          "FileID": 47527,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/6152/6152-1707166584-1668404894.png",
+          "IsNSFW": false,
+          "ModID": 6152,
+          "Name": "New CC Head Presets",
           "Version": "1.1"
         }
       }
@@ -4431,27 +4704,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "kaQ9p0oJQw0=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=5611\nfileID=67396",
-        "Name": "Em\u0027s Custom Hair Pack 2-5611-1-2-1723898225.zip",
-        "Size": 35287202,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "EmeraldTechno",
-          "Description": "A pack of 10 custom-made hairs. All are autosnapping for all races and come with CC icons.",
-          "FileID": 67396,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5611/5611-1704291203-620328454.png",
-          "IsNSFW": false,
-          "ModID": 5611,
-          "Name": "Em\u0027s Custom Hair Pack 2",
-          "Version": "1.1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "/TXS9uK34d8=",
         "Meta": "[General]\ngameName=baldursgate3\nmodID=5146\nfileID=61540",
         "Name": "Vessnelles Hair Collection-5146-1-0-1718867460.zip",
@@ -4494,84 +4746,42 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "NX9NFRTb1mk=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=10398\nfileID=69023",
-        "Name": "Astralities Fluffy Ears-10398-1-1-1725595074.zip",
-        "Size": 9943967,
+        "Hash": "nThOjNjCmUA=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=7129\nfileID=47155",
+        "Name": "DC Scaling For Coatings and Arrows-7129-1-0-1709165001.zip",
+        "Size": 11163,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Astralities",
-          "Description": "This mod adds 4 styles of animal ears to the Horn slot, for all Races except Dragonborn.",
-          "FileID": 69023,
+          "Author": "BOZNAZ",
+          "Description": "Changes coatings, consumable arrows and throwables(grenades, barrels etc.) to use a difficulty class that scales the same way as most weapon actions do. Basically this will make it more likely for the items to successfully apply their various special effects as you progress through the game.",
+          "FileID": 47155,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10398/10398-1718840459-558762232.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7129/7129-1708816269-1905893154.png",
           "IsNSFW": false,
-          "ModID": 10398,
-          "Name": "Astralities Fluffy Ears",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "TgG6UAxPfZ4=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=5788\nfileID=55687",
-        "Name": "Auto Hide Summons-5788-1-2-1714685852.zip",
-        "Size": 2024,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Cyclonic",
-          "Description": "Automatically hide summons when the character they are attached to enters stealth",
-          "FileID": 55687,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/5788%2F5788-1704759173-538077028.png",
-          "IsNSFW": false,
-          "ModID": 5788,
-          "Name": "Automatically Hide Summons",
-          "Version": "1.2"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "AauPd5iSYZA=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=7985\nfileID=50295",
-        "Name": "Kar\u0027niss Head for CC-7985-1-1710632039.zip",
-        "Size": 55022571,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Psychotter",
-          "Description": "Adds two versions of Kar\u0027niss\u0027 head without his drider features to character creation for Body 2 and 4 elves, humans, drow, half-elves and tieflings.",
-          "FileID": 50295,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7985/7985-1710547110-1666218201.png",
-          "IsNSFW": false,
-          "ModID": 7985,
-          "Name": "Kar\u0027niss Un-dridered Head For CC",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "MCvNuwPf4M8=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=6152\nfileID=47527",
-        "Name": "New CC Head Presets-6152-1-2-1709319890.zip",
-        "Size": 1070963375,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PseudoKociara",
-          "Description": "A bunch of custom presets for body type 1/2/3/4\n\nMost available for humans/tieflings/elf/drow/halfelf",
-          "FileID": 47527,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/6152/6152-1707166584-1668404894.png",
-          "IsNSFW": false,
-          "ModID": 6152,
-          "Name": "New CC Head Presets",
+          "ModID": 7129,
+          "Name": "Difficulty Class Scaling For Coatings Arrows And Throwables",
           "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Xv368UklHhM=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=9162\nfileID=71294",
+        "Name": "Mod Configuration Menu 1.15.1-9162-1-15-1-1726414189.zip",
+        "Size": 2228219,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Volitio",
+          "Description": "Provides an in-game graphical interface that allows players to intuitively manage mod settings and custom mod widgets.",
+          "FileID": 71294,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9162%2F9162-1714705869-384109775.png",
+          "IsNSFW": false,
+          "ModID": 9162,
+          "Name": "Mod Configuration Menu",
+          "Version": "1.4.1"
         }
       }
     },
@@ -4614,27 +4824,6 @@
           "ModID": 4597,
           "Name": "Better Inventory UI (with Mark Books as Read support)",
           "Version": "1.11"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "nThOjNjCmUA=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=7129\nfileID=47155",
-        "Name": "DC Scaling For Coatings and Arrows-7129-1-0-1709165001.zip",
-        "Size": 11163,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BOZNAZ",
-          "Description": "Changes coatings, consumable arrows and throwables(grenades, barrels etc.) to use a difficulty class that scales the same way as most weapon actions do. Basically this will make it more likely for the items to successfully apply their various special effects as you progress through the game.",
-          "FileID": 47155,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7129/7129-1708816269-1905893154.png",
-          "IsNSFW": false,
-          "ModID": 7129,
-          "Name": "Difficulty Class Scaling For Coatings Arrows And Throwables",
-          "Version": "1.1"
         }
       }
     },
@@ -4704,21 +4893,63 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "Xv368UklHhM=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=9162\nfileID=71294",
-        "Name": "Mod Configuration Menu 1.15.1-9162-1-15-1-1726414189.zip",
-        "Size": 2228219,
+        "Hash": "1m2B0x2ClXI=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=10398\nfileID=69024",
+        "Name": "Astralities Fluffy Ears - Beard Slot-10398-1-1-1725595124.zip",
+        "Size": 9944368,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Volitio",
-          "Description": "Provides an in-game graphical interface that allows players to intuitively manage mod settings and custom mod widgets.",
-          "FileID": 71294,
+          "Author": "Astralities",
+          "Description": "This mod adds 4 styles of animal ears to the Horn slot, for all Races except Dragonborn.",
+          "FileID": 69024,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/9162%2F9162-1714705869-384109775.png",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10398/10398-1718840459-558762232.png",
           "IsNSFW": false,
-          "ModID": 9162,
-          "Name": "Mod Configuration Menu",
-          "Version": "1.4.1"
+          "ModID": 10398,
+          "Name": "Astralities Fluffy Ears",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oO5SaJmSj4E=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=1333\nfileID=69724",
+        "Name": "Community Library-1333-2-2-8-5-1725759043.zip",
+        "Size": 6395846,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BG3 Community Library Team",
+          "Description": "Baldur\u0027s Gate 3 Community Library is designed to be a set of common data that any mod may draw from. This includes Scripts, Spells, Statuses, Passives, etc.",
+          "FileID": 69724,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1333/1333-1692738344-1439338822.png",
+          "IsNSFW": false,
+          "ModID": 1333,
+          "Name": "Baldur\u0027s Gate 3 Community Library",
+          "Version": "2.2.2.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "ggJQruXDcSg=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=7370\nfileID=53454",
+        "Name": "New CC Head Presets vol.2-7370-1-2-1712842899.zip",
+        "Size": 589446464,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "PseudoKociara",
+          "Description": "Second Part. Presets for elves, drows and halfelves for now. Mainly for BT2, but I included couple of presets for BT 1 \u0026amp; 4",
+          "FileID": 53454,
+          "GameName": "BaldursGate3",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7370/7370-1709335455-1100664503.png",
+          "IsNSFW": false,
+          "ModID": 7370,
+          "Name": "New CC Head Presets Vol. 2",
+          "Version": "1.0"
         }
       }
     },
@@ -4893,90 +5124,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "1m2B0x2ClXI=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=10398\nfileID=69024",
-        "Name": "Astralities Fluffy Ears - Beard Slot-10398-1-1-1725595124.zip",
-        "Size": 9944368,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Astralities",
-          "Description": "This mod adds 4 styles of animal ears to the Horn slot, for all Races except Dragonborn.",
-          "FileID": 69024,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/10398/10398-1718840459-558762232.png",
-          "IsNSFW": false,
-          "ModID": 10398,
-          "Name": "Astralities Fluffy Ears",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "oO5SaJmSj4E=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=1333\nfileID=69724",
-        "Name": "Community Library-1333-2-2-8-5-1725759043.zip",
-        "Size": 6395846,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "BG3 Community Library Team",
-          "Description": "Baldur\u0027s Gate 3 Community Library is designed to be a set of common data that any mod may draw from. This includes Scripts, Spells, Statuses, Passives, etc.",
-          "FileID": 69724,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1333/1333-1692738344-1439338822.png",
-          "IsNSFW": false,
-          "ModID": 1333,
-          "Name": "Baldur\u0027s Gate 3 Community Library",
-          "Version": "2.2.2.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "0ffLoCUqoCI=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=8636\nfileID=53459",
-        "Name": "Karlach\u0027s Glowing Horns-8636-1-0-1712847985.zip",
-        "Size": 4361,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Aetherpoint",
-          "Description": "This mod enables the unused glowmap Larian Studios created for Karlach\u0027s horns. Making the script on her horns glow, and pulse at the same rate as her heart.",
-          "FileID": 53459,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/8636/8636-1712850060-1917836317.png",
-          "IsNSFW": false,
-          "ModID": 8636,
-          "Name": "Karlach\u0027s Glowing Horns",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "ggJQruXDcSg=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=7370\nfileID=53454",
-        "Name": "New CC Head Presets vol.2-7370-1-2-1712842899.zip",
-        "Size": 589446464,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "PseudoKociara",
-          "Description": "Second Part. Presets for elves, drows and halfelves for now. Mainly for BT2, but I included couple of presets for BT 1 \u0026amp; 4",
-          "FileID": 53454,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/7370/7370-1709335455-1100664503.png",
-          "IsNSFW": false,
-          "ModID": 7370,
-          "Name": "New CC Head Presets Vol. 2",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "4hHRzmhkax0=",
         "Meta": "[General]\ngameName=baldursgate3\nmodID=7081\nfileID=46255",
         "Name": "Stacking Carry Weight (Additive)-7081-1-0-0-1708756270.zip",
@@ -5103,27 +5250,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "0dOezRzPFvA=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=1722\nfileID=68785",
-        "Name": "Better Split Item Menu-1722-1-0-7-1725517518.zip",
-        "Size": 63771,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Caites",
-          "Description": "Makes split item menu more responsive and adds min/max button.",
-          "FileID": 68785,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1722/1722-1693492619-1537651777.jpeg",
-          "IsNSFW": false,
-          "ModID": 1722,
-          "Name": "Slightly Better Split Item Menu",
-          "Version": "1.05"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "39aRF/6P5Bo=",
         "Meta": "[General]\ngameName=baldursgate3\nmodID=205\nfileID=57804",
         "Name": "New Character Creation Presets WIP-205-V-1-6-1-1716130908.zip",
@@ -5145,153 +5271,27 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "t2TCk652fe4=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=2001\nfileID=30061",
-        "Name": "Standalone - Piercing Edits - Trips-2001-1-7-1700762806.zip",
-        "Size": 12384,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "jerinski",
-          "Description": "A variety of piercing mashups available as new sets or replacers. Compatibility with Trips\u0027 Accessories and Magic Mirror. Includes guide for DIY.",
-          "FileID": 30061,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2001/2001-1694197097-1097445183.png",
-          "IsNSFW": false,
-          "ModID": 2001,
-          "Name": "Piercing Edits",
-          "Version": "1.7"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "9IK9GZz5zh8=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=4752\nfileID=69978",
-        "Name": "Trips\u0027 Shader Compendium-4752-2-1-0-0-1725829532.zip",
-        "Size": 4862905,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Trips",
-          "Description": "Re-releases old shader files to get around those pesky VT\u0027s. Modder\u0027s Resource and dependency for mods.",
-          "FileID": 69978,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/4752/4752-1701659092-997298685.png",
-          "IsNSFW": false,
-          "ModID": 4752,
-          "Name": "Trips\u0027 Old Shader Pack",
-          "Version": "1.6.0.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "D/RXqhMczZo=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=2900\nfileID=69143",
-        "Name": "Astralities\u0027 Fantasy Skintone Expansion-2900-1-3-1725643556.zip",
-        "Size": 382953,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Astralities",
-          "Description": "This Mod expands the colorful skintone selection by adding lighter and darker shades to Vanilla skintones, as well as a variety of new options. This version focuses on Fantasy skintones.",
-          "FileID": 69143,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/2900/2900-1696397866-994281054.png",
-          "IsNSFW": false,
-          "ModID": 2900,
-          "Name": "Astralities\u0027 Fantasy Skintone Expansion",
-          "Version": "1.0"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "jZL8DzXUmEA=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=3269\nfileID=70645",
-        "Name": "Better Target Info-3269-1-2-3-1726135852.zip",
-        "Size": 279270,
+        "Hash": "0dOezRzPFvA=",
+        "Meta": "[General]\ngameName=baldursgate3\nmodID=1722\nfileID=68785",
+        "Name": "Better Split Item Menu-1722-1-0-7-1725517518.zip",
+        "Size": 63771,
         "State": {
           "$type": "NexusDownloader, Wabbajack.Lib",
           "Author": "Caites",
-          "Description": "Adds more contextual info to Target Info panel (resistances/vulnerabilities, item value, number of items in containers etc).",
-          "FileID": 70645,
+          "Description": "Makes split item menu more responsive and adds min/max button.",
+          "FileID": 68785,
           "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/3269/3269-1697294633-988800546.jpeg",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/1722/1722-1693492619-1537651777.jpeg",
           "IsNSFW": false,
-          "ModID": 3269,
-          "Name": "Better Target Info",
-          "Version": "1.12"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "kshEGMFyKCg=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=4968\nfileID=69059",
-        "Name": "Companions Panel and Camp Chest Everywhere-4968-1-2-3-1725606224.zip",
-        "Size": 340998,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Caites",
-          "Description": "Improves Companions Panel, makes it (and Camp Chest) available from anywhere.",
-          "FileID": 69059,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/4968/4968-1702037610-700156312.jpeg",
-          "IsNSFW": false,
-          "ModID": 4968,
-          "Name": "Companions Panel and Camp Chest Everywhere",
-          "Version": "1.15"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "4/5XQJCdjCQ=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=11954\nfileID=69781",
-        "Name": "Mod Manager Fixes and Tweaks (No PTSD Warnings)-11954-1-2-8-1725781709.zip",
-        "Size": 172027,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Caites",
-          "Description": "Fixes small bugs and inconsistencies in mod manager menu. Version with tweaks additionally improves mod preview and mod list windows - both are more tight now, with more mods in the screen.",
-          "FileID": 69781,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/11954/11954-1725371428-815285632.png",
-          "IsNSFW": false,
-          "ModID": 11954,
-          "Name": "Mod Manager Fixes and Tweaks",
-          "Version": "1.2.8"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PB4YgoPn9X4=",
-        "Meta": "[General]\ngameName=baldursgate3\nmodID=745\nfileID=69868",
-        "Name": "No Press Any Key Menu for MCM-745-1-7-6-1725805506.zip",
-        "Size": 266280,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "Caites",
-          "Description": "No \u0022Press Any Key to continue\u0022 stop to Main menu.",
-          "FileID": 69868,
-          "GameName": "BaldursGate3",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/3474/images/745/745-1692340457-1091955407.jpeg",
-          "IsNSFW": false,
-          "ModID": 745,
-          "Name": "No Press Any Key Menu",
-          "Version": "1.66"
+          "ModID": 1722,
+          "Name": "Slightly Better Split Item Menu",
+          "Version": "1.05"
         }
       }
     }
   ],
   "Status": "Available",
   "Failures": 0,
-  "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/BG3EE/7cc469849d1608db_small.webp",
-  "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/BG3EE/7cc469849d1608db_large.webp"
+  "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/BG3EE/d61482908d59406d_small.webp",
+  "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/BG3EE/d61482908d59406d_large.webp"
 }

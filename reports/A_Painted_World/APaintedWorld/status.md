@@ -1,11 +1,10 @@
 ## Validation Report - A Painted World (A_Painted_World/APaintedWorld)
 
 
-### Invalid (1)
-*  [fire retexture 1k 1.2.rar](https://www.mediafire.com/download/ctd689d2etnlabw/fire+retexture+1k+1.2.rar)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (844)
+### Valid (845)
 *  [''I HAVE NO GREETING'' Fix for Oblivion-49115-V2-1687570593.zip](https://www.nexusmods.com/oblivion/mods/49115/?tab=files&file_id=1000035117)
 *  [00SnowyRoadToBruma Fighters Guild Quests-49605-1-1567078857.7z](https://www.nexusmods.com/oblivion/mods/49605/?tab=files&file_id=1000022865)
 *  [01 Seamless OCOv2  n HGEC Female clothes fixes-51853-1-1-1667323408.rar](https://www.nexusmods.com/oblivion/mods/51853/?tab=files&file_id=1000032727)
@@ -484,6 +483,7 @@
 *  [Female Mithril armor replacer-44678-1-0.zip](https://www.nexusmods.com/oblivion/mods/44678/?tab=files&file_id=1000005381)
 *  [Fighters Guild Quests 1_8-41012-1-7.7z](https://www.nexusmods.com/oblivion/mods/41012/?tab=files&file_id=1000017121)
 *  [file-53855-1-1-1709841428.7z](https://www.nexusmods.com/oblivion/mods/53855/?tab=files&file_id=1000037953)
+*  [fire retexture 1k 1.2.rar](https://www.mediafire.com/download/ctd689d2etnlabw/fire+retexture+1k+1.2.rar)
 *  [Fix for constant spell cast sound-48381-1-3.zip](https://www.nexusmods.com/oblivion/mods/48381/?tab=files&file_id=1000019069)
 *  [Fixed KOTN Armor-50903-1-0-1616545589.7z](https://www.nexusmods.com/oblivion/mods/50903/?tab=files&file_id=1000027330)
 *  [Fixed normal maps for the Barabus Crypt.-50130-1-1-1590158006.7z](https://www.nexusmods.com/oblivion/mods/50130/?tab=files&file_id=1000024820)

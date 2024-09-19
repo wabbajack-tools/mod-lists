@@ -168,7 +168,7 @@
 *  [more dreadlocs and curly hairstyles-4618-2-1705483086.zip](https://www.nexusmods.com/baldursgate3/mods/4618/?tab=files&file_id=40294)
 *  [More Piercing Combos-8689-1-1-1715937531.zip](https://www.nexusmods.com/baldursgate3/mods/8689/?tab=files&file_id=57498)
 *  [More Reactive Companions Configurable-5447-1-0-0-9-1708295020.zip](https://www.nexusmods.com/baldursgate3/mods/5447/?tab=files&file_id=45447)
-*  [Myky's Heads-11274-1-3-0-1726225236.zip](https://www.nexusmods.com/baldursgate3/mods/11274/?tab=files&file_id=70857)
+*  [Myky's Heads-11274-1-3-1-1726753756.zip](https://www.nexusmods.com/baldursgate3/mods/11274/?tab=files&file_id=71795)
 *  [Native Camera Tweaks-945-2-4-3-1726194733.zip](https://www.nexusmods.com/baldursgate3/mods/945/?tab=files&file_id=70773)
 *  [NativeModLoader-944-1-1692533783.zip](https://www.nexusmods.com/baldursgate3/mods/944/?tab=files&file_id=8910)
 *  [Neon's Assorted Faces-9741-1-0-1716406384.zip](https://www.nexusmods.com/baldursgate3/mods/9741/?tab=files&file_id=58250)
