@@ -1,4 +1,4 @@
-## Validation Report - Infinite Pathways (NYA/Millionsfrost_BG3_Infinite_Pathways)
+## Validation Report - Infinite-Pathways (NYA/Millionsfrost_BG3_Infinite_Pathways)
 
 
 ### Invalid (0)
