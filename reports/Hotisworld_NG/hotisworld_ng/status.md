@@ -100,6 +100,7 @@
 *  [AnotherOne Suomi KP-31 - Animation update-53333-1-0-1638392455.rar](https://www.nexusmods.com/fallout4/mods/53333/?tab=files&file_id=222785)
 *  [AnotherOne Suomi KP-31-53333-0-99-1629044253.rar](https://www.nexusmods.com/fallout4/mods/53333/?tab=files&file_id=214771)
 *  [Anti Power Armor Rifle-81587-1-0-6-1722203173.zip](https://www.nexusmods.com/fallout4/mods/81587/?tab=files&file_id=328332)
+*  [AR2 Attachment Pack Patch LL-80656-1-0-1713249945.zip](https://www.nexusmods.com/fallout4/mods/80656/?tab=files&file_id=310369)
 *  [AR2 Texture Improvements 1.1-79001-1-1-1708834054.zip](https://www.nexusmods.com/fallout4/mods/79001/?tab=files&file_id=304709)
 *  [AR2LimaDetachment-77581-1-1-1709661592.zip](https://www.nexusmods.com/fallout4/mods/77581/?tab=files&file_id=305745)
 *  [Armor Penetration Bug Fix - F4SE-73849-1-0-0-1691938413.zip](https://www.nexusmods.com/fallout4/mods/73849/?tab=files&file_id=286416)
@@ -113,6 +114,7 @@
 *  [Atomic Radio v2.6-8704-2-6.zip](https://www.nexusmods.com/fallout4/mods/8704/?tab=files&file_id=83216)
 *  [Attachment Pack-76924-1-0-6-1705693615.zip](https://www.nexusmods.com/fallout4/mods/76924/?tab=files&file_id=300184)
 *  [Attack of The Lobotomites - High Quality Version-51787-1-1-0-1713929730.7z](https://www.nexusmods.com/fallout4/mods/51787/?tab=files&file_id=311880)
+*  [Attack of the Lobotomites - Lesser Loot Patch-81221-1-0-2-1714153597.zip](https://www.nexusmods.com/fallout4/mods/81221/?tab=files&file_id=312403)
 *  [Auto Axe-49514-1-1611077381.rar](https://www.nexusmods.com/fallout4/mods/49514/?tab=files&file_id=199436)
 *  [AutoeXec Settings ESL-85609-1-0-1720565364.7z](https://www.nexusmods.com/fallout4/mods/85609/?tab=files&file_id=326241)
 *  [Automatic Carbine-85805-1-0-2Reup-1721317562.zip](https://www.nexusmods.com/fallout4/mods/85805/?tab=files&file_id=327145)
@@ -125,6 +127,7 @@
 *  [Bastion - Soviet Power Armor-69566-1-0-1678542669.rar](https://www.nexusmods.com/fallout4/mods/69566/?tab=files&file_id=270133)
 *  [BCR- Lever Action Rifle v1.02-41178-1-02-1569349299.zip](https://www.nexusmods.com/fallout4/mods/41178/?tab=files&file_id=167402)
 *  [Be Mine Valentine-87779-1-0-0-1727034207.zip](https://www.nexusmods.com/fallout4/mods/87779/?tab=files&file_id=334816)
+*  [Bengal - long lasting Flare-79147-1-0-8-1711050020.zip](https://www.nexusmods.com/fallout4/mods/79147/?tab=files&file_id=307493)
 *  [Better Console-26582-v1-5-1-1715706512.7z](https://www.nexusmods.com/fallout4/mods/26582/?tab=files&file_id=316511)
 *  [Better Mysterious Serum - RobCo Patcher-73420-1-0-1690769953.7z](https://www.nexusmods.com/fallout4/mods/73420/?tab=files&file_id=284942)
 *  [Better Robots Salvage Robco Patcher-77049-1-1-1703940687.zip](https://www.nexusmods.com/fallout4/mods/77049/?tab=files&file_id=298067)
@@ -151,6 +154,7 @@
 *  [Brotherhood Armor Collection - Ballistic Weave-86287-1-0-1724064305.rar](https://www.nexusmods.com/fallout4/mods/86287/?tab=files&file_id=330814)
 *  [Brotherhood Armor Collection 1.0.1 - Loose Files-86287-1-0-1-1722759251.rar](https://www.nexusmods.com/fallout4/mods/86287/?tab=files&file_id=329057)
 *  [Brothers In Arms Chapter 1 and 2-73657-2-6-1711421512.zip](https://www.nexusmods.com/fallout4/mods/73657/?tab=files&file_id=307998)
+*  [Brothers in Arms PRP Patch-79798-1-1-1713192285.zip](https://www.nexusmods.com/fallout4/mods/79798/?tab=files&file_id=310263)
 *  [BtC - Inside Jobs Music Addition-71365-1-0-1685390556.zip](https://www.nexusmods.com/fallout4/mods/71365/?tab=files&file_id=278696)
 *  [BtC - Stumble Upon Interiors Music Addition-71365-1-0-1685390892.zip](https://www.nexusmods.com/fallout4/mods/71365/?tab=files&file_id=278699)
 *  [BtC - The Mannequin Cult Music Addition-71365-1-0-1685390661.zip](https://www.nexusmods.com/fallout4/mods/71365/?tab=files&file_id=278697)
@@ -172,6 +176,8 @@
 *  [CaravanSecurityArmor-82939-1-4-1717913329.zip](https://www.nexusmods.com/fallout4/mods/82939/?tab=files&file_id=321749)
 *  [Cat Variants - SPID-64389-1-02-1672921446.7z](https://www.nexusmods.com/fallout4/mods/64389/?tab=files&file_id=262504)
 *  [Catalyst AAS Shotgun-16269-1-1.7z](https://www.nexusmods.com/fallout4/mods/16269/?tab=files&file_id=65603)
+*  [Caves Of The Commonwealth 1.2 FOMOD (Loose Files)-75647-1-2-1699353212.rar](https://www.nexusmods.com/fallout4/mods/75647/?tab=files&file_id=293568)
+*  [Caves of the Commonwealth PRP Patch-79798-1-0-1-1712870056.zip](https://www.nexusmods.com/fallout4/mods/79798/?tab=files&file_id=309808)
 *  [CBBE patch-80480-v1-1712772417.zip](https://www.nexusmods.com/fallout4/mods/80480/?tab=files&file_id=309685)
 *  [CBP Barrel Modcol Hotfix-87550-1-1725933914.zip](https://www.nexusmods.com/fallout4/mods/87550/?tab=files&file_id=333434)
 *  [CHALLENGES - FNV-STYLED ICONS-76347-2-0-2-1710643762.zip](https://www.nexusmods.com/fallout4/mods/76347/?tab=files&file_id=307051)
@@ -338,20 +344,6 @@
 *  Data_Fallout4 - Voices.ba2
 *  Data_Fallout4.cdx
 *  Data_Fallout4.esm
-*  Data_LSData_DtC6dal.dat
-*  Data_LSData_DtC6dl.dat
-*  Data_LSData_Wt16M9bs.dat
-*  Data_LSData_Wt16M9fs.dat
-*  Data_LSData_Wt8S9bs.dat
-*  Data_LSData_Wt8S9fs.dat
-*  Data_Scripts_Source_Base_Base.zip
-*  Data_Scripts_Source_CreationClub_CreationClub.zip
-*  Data_Scripts_Source_DLC01_DLC01.zip
-*  Data_Scripts_Source_DLC02_DLC02.zip
-*  Data_Scripts_Source_DLC03_DLC03.zip
-*  Data_Scripts_Source_DLC04_DLC04.zip
-*  Data_Scripts_Source_DLC05_DLC05.zip
-*  Data_Scripts_Source_DLC06_DLC06.zip
 *  Data_Video_AGILITY.bk2
 *  Data_Video_CHARISMA.bk2
 *  Data_Video_Endgame_FEMALE_A.bk2
@@ -573,6 +565,7 @@
 *  [Lighter Scrap No Weight-74026-1-0-0-1692438043.zip](https://www.nexusmods.com/fallout4/mods/74026/?tab=files&file_id=287244)
 *  [Lighthouse Papyrus Extender-71420-1-12-0-1707084230.7z](https://www.nexusmods.com/fallout4/mods/71420/?tab=files&file_id=302397)
 *  [Lightweight Lighting - Radstorm Restored-82195-4-0-1714927425.7z](https://www.nexusmods.com/fallout4/mods/82195/?tab=files&file_id=314438)
+*  [Lightweight Lighting-57680-4-0-1699813483.7z](https://www.nexusmods.com/fallout4/mods/57680/?tab=files&file_id=294142)
 *  [Lima Outpost-29042-3-2-1648876297.rar](https://www.nexusmods.com/fallout4/mods/29042/?tab=files&file_id=233603)
 *  [LiveLove - Heather-74568-1-0-0-1694248684.zip](https://www.nexusmods.com/fallout4/mods/74568/?tab=files&file_id=289217)
 *  [llamaCompanionHeather v2.7-23273-2-7-1708129443.zip](https://www.nexusmods.com/fallout4/mods/23273/?tab=files&file_id=303800)
@@ -635,7 +628,6 @@
 *  [Musical Lore V1.6-14531-1-6-1590340608.rar](https://www.nexusmods.com/fallout4/mods/14531/?tab=files&file_id=182694)
 *  [Mutant Menagerie - Loose Files-68187-1-42-1716238569.zip](https://www.nexusmods.com/fallout4/mods/68187/?tab=files&file_id=317918)
 *  [Mutant Menagerie - Main Files-68187-1-42-1716152072.zip](https://www.nexusmods.com/fallout4/mods/68187/?tab=files&file_id=317695)
-*  [MUTATION-79288-2-0-0-1717307370.zip](https://www.nexusmods.com/fallout4/mods/79288/?tab=files&file_id=320572)
 *  [MUTATION-79288-2-0-1-1727317753.7z](https://www.nexusmods.com/fallout4/mods/79288/?tab=files&file_id=335140)
 *  [Nameplates v1-1-13-21636-1-1-13-1575863350.7z](https://www.nexusmods.com/fallout4/mods/21636/?tab=files&file_id=172313)
 *  [Native Animation Framework-73889-1-0-14-1718650781.7z](https://www.nexusmods.com/fallout4/mods/73889/?tab=files&file_id=323244)
@@ -684,11 +676,13 @@
 *  [Pip-Boy Glove Integration Patch-81827-1-0-0-1716678794.zip](https://www.nexusmods.com/fallout4/mods/81827/?tab=files&file_id=318989)
 *  [PipSaver-76582-1-00-1702083347.zip](https://www.nexusmods.com/fallout4/mods/76582/?tab=files&file_id=296250)
 *  [Pleasant FallUI-74517-1-1694010522.7z](https://www.nexusmods.com/fallout4/mods/74517/?tab=files&file_id=289006)
+*  [Point Lookout - Essential Fixes and Additions-86304-1-3-1722931819.zip](https://www.nexusmods.com/fallout4/mods/86304/?tab=files&file_id=329288)
 *  [Police Riot Shotgun-75941-1-3-1702952229.zip](https://www.nexusmods.com/fallout4/mods/75941/?tab=files&file_id=297112)
 *  [Police Shotgun (Remington 870 Wingmaster)-78619-1-0-6-1715566073.zip](https://www.nexusmods.com/fallout4/mods/78619/?tab=files&file_id=316149)
 *  [Police Shotgun-82296-1-0-6-1715468405.zip](https://www.nexusmods.com/fallout4/mods/82296/?tab=files&file_id=315870)
 *  [Police Sidearm - SW 39 59 Hush Puppy-78619-1-0-2-1711429555.zip](https://www.nexusmods.com/fallout4/mods/78619/?tab=files&file_id=308003)
 *  [Police Sidearm-79807-1-0-2-1711301479.zip](https://www.nexusmods.com/fallout4/mods/79807/?tab=files&file_id=307849)
+*  [Porshet-5 Power Armor (ESL Flagged ESP)-79727-1-1-1710978432.zip](https://www.nexusmods.com/fallout4/mods/79727/?tab=files&file_id=307440)
 *  [Power Armor Imact Effects v1.52-34012-1-52-1572376474.7z](https://www.nexusmods.com/fallout4/mods/34012/?tab=files&file_id=169845)
 *  [Power Capital Mac 50-57386-Alpha-1642456015.rar](https://www.nexusmods.com/fallout4/mods/57386/?tab=files&file_id=226999)
 *  [Power Stg 44 (Sam Fisher)-51209-final-1617630159.rar](https://www.nexusmods.com/fallout4/mods/51209/?tab=files&file_id=205179)
@@ -750,6 +744,7 @@
 *  [Scorpio 61-85343-1-2-1726067095.zip](https://www.nexusmods.com/fallout4/mods/85343/?tab=files&file_id=333596)
 *  [Scrap Battle Rifle-75568-1-0-1698081930.zip](https://www.nexusmods.com/fallout4/mods/75568/?tab=files&file_id=292453)
 *  [Seasons Change-76710-3-0-1709605403.7z](https://www.nexusmods.com/fallout4/mods/76710/?tab=files&file_id=305677)
+*  [SeasonsChange - Lightweight Lighting Patch-79908-1-0-1711338156.zip](https://www.nexusmods.com/fallout4/mods/79908/?tab=files&file_id=307886)
 *  [Secret Service Armor-79185-2-3-1715342976.zip](https://www.nexusmods.com/fallout4/mods/79185/?tab=files&file_id=315552)
 *  [Security Armor (Modular Over-Armor)-78619-1-0-1-1717182732.zip](https://www.nexusmods.com/fallout4/mods/78619/?tab=files&file_id=320270)
 *  [Security Armor-83822-1-0-1-1717128134.zip](https://www.nexusmods.com/fallout4/mods/83822/?tab=files&file_id=320150)
@@ -762,6 +757,7 @@
 *  [SettlementMenuManagerMainFile-24204-0-1-7-1593282850.7z](https://www.nexusmods.com/fallout4/mods/24204/?tab=files&file_id=185417)
 *  [Settler Built Settlements-84015-1-1718009841.7z](https://www.nexusmods.com/fallout4/mods/84015/?tab=files&file_id=321944)
 *  [Shady Motives-84389-1-0-3-1723002085.zip](https://www.nexusmods.com/fallout4/mods/84389/?tab=files&file_id=329368)
+*  [Shoddy Post-Apocalyptic Marketing-79830-1-00-1711563510.zip](https://www.nexusmods.com/fallout4/mods/79830/?tab=files&file_id=308131)
 *  [Shoulder Mounted M2-59277-1-0-0-1648835431.zip](https://www.nexusmods.com/fallout4/mods/59277/?tab=files&file_id=233542)
 *  [Show All Armors and Outfits - F4SE-82654-1-0-1715538881.zip](https://www.nexusmods.com/fallout4/mods/82654/?tab=files&file_id=316046)
 *  [Simple Creation Club Delayed NG-84393-1-0-4-1724592572.7z](https://www.nexusmods.com/fallout4/mods/84393/?tab=files&file_id=331652)
@@ -803,6 +799,7 @@
 *  [T51c Power Armor-17941-1-1.rar](https://www.nexusmods.com/fallout4/mods/17941/?tab=files&file_id=74708)
 *  [T6M-BFF - Plugin Fix-57385-3-04-1-1692973043.rar](https://www.nexusmods.com/fallout4/mods/57385/?tab=files&file_id=287928)
 *  [T6M-LC - NO CC - Remnants Patch-87762-1-21-1727316483.rar](https://www.nexusmods.com/fallout4/mods/87762/?tab=files&file_id=335135)
+*  [T6M-Spadey - URL - Script Update (FOMOD FIX)-72503-1-2-1721397546.rar](https://www.nexusmods.com/fallout4/mods/72503/?tab=files&file_id=327251)
 *  [T6M's Rifle Grenades - WO-R Update 8-57666-2-44-1-1668258490.rar](https://www.nexusmods.com/fallout4/mods/57666/?tab=files&file_id=256734)
 *  [Tactical Flashlights-16172-2-3.rar](https://www.nexusmods.com/fallout4/mods/16172/?tab=files&file_id=80919)
 *  [Targeted Textures-62958-2-3-1699716166.7z](https://www.nexusmods.com/fallout4/mods/62958/?tab=files&file_id=294035)
@@ -1629,6 +1626,7 @@
 *  [Vault Tec PA-25263-1-1.rar](https://www.nexusmods.com/fallout4/mods/25263/?tab=files&file_id=103937)
 *  [Vault28-34311-2.7z](https://www.nexusmods.com/fallout4/mods/34311/?tab=files&file_id=139579)
 *  [VEGAS RANGER-78569-0-00-1707580541.rar](https://www.nexusmods.com/fallout4/mods/78569/?tab=files&file_id=303101)
+*  [Vertibird Sword-47625-1-1601235932.7z](https://www.nexusmods.com/fallout4/mods/47625/?tab=files&file_id=192079)
 *  [Very Zen FGEP Sound Levels-73365-1-0-1711445940.zip](https://www.nexusmods.com/fallout4/mods/73365/?tab=files&file_id=308010)
 *  [Very Zen FGEP Textures 2k-73365-2-0-1705510373.zip](https://www.nexusmods.com/fallout4/mods/73365/?tab=files&file_id=299942)
 *  [Very Zen Tanks Distribution-73365-1-0-1706098473.7z](https://www.nexusmods.com/fallout4/mods/73365/?tab=files&file_id=300695)
@@ -1667,8 +1665,10 @@
 *  [WWII - Soviet Nagant Revolver - Loose Files-80944-v1-2-1714589042.zip](https://www.nexusmods.com/fallout4/mods/80944/?tab=files&file_id=313482)
 *  [WWII - USA Paratrooper Uniform - BSA Packed-79930-v1-3-1714597457.zip](https://www.nexusmods.com/fallout4/mods/79930/?tab=files&file_id=313498)
 *  [WWII - USSR Coat Uniform - v1.2-76380-v1-2-1701424767.zip](https://www.nexusmods.com/fallout4/mods/76380/?tab=files&file_id=295523)
+*  [WWII Weapon Replacers - M1928A1 Thompson-49709-2-0-1611952518.zip](https://www.nexusmods.com/fallout4/mods/49709/?tab=files&file_id=200213)
 *  [X-02 PipBoy Flashlight Patch-16232-1-3.7z](https://www.nexusmods.com/fallout4/mods/16232/?tab=files&file_id=136355)
 *  [Xanders Aid 3.0-17050-3-0-1590215007.zip](https://www.nexusmods.com/fallout4/mods/17050/?tab=files&file_id=182571)
+*  [XDI-AR2 patch-76204-1-0-3-1710813108.7z](https://www.nexusmods.com/fallout4/mods/76204/?tab=files&file_id=307256)
 *  [Xoren Games - Cabot House Enhanced Quests-43331-1-0-0-1581282943.7z](https://www.nexusmods.com/fallout4/mods/43331/?tab=files&file_id=175666)
 *  [xSE PluginPreloader F4 0.3-33946-0-3-1718686029.zip](https://www.nexusmods.com/fallout4/mods/33946/?tab=files&file_id=323314)
 *  [YAE Munitions Patch-81345-1-1-1714666096.zip](https://www.nexusmods.com/fallout4/mods/81345/?tab=files&file_id=313661)
