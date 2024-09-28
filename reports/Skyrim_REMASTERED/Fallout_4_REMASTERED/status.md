@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (524)
+### Valid (529)
 *  [.44 Scope Replacer-77580-1-0-0-1705396940.zip](https://www.nexusmods.com/fallout4/mods/77580/?tab=files&file_id=299808)
 *  [.BA2 Packed Files-76121-1-1-0-1725830411.7z](https://www.nexusmods.com/fallout4/mods/76121/?tab=files&file_id=333275)
 *  [.BA2 Packed Files-76254-1-0-0-1700769361.7z](https://www.nexusmods.com/fallout4/mods/76254/?tab=files&file_id=294939)
@@ -30,6 +30,8 @@
 *  [Another Vault 81 Molerat Disease Cure-72280-1-1-1687359024.zip](https://www.nexusmods.com/fallout4/mods/72280/?tab=files&file_id=281136)
 *  [Armor Penetration Bug Fix - F4SE-73849-1-0-0-1691938413.zip](https://www.nexusmods.com/fallout4/mods/73849/?tab=files&file_id=286416)
 *  [Assault Rifle to Machine Gun - Robco Patcher-74995-1-0-1695680299.zip](https://www.nexusmods.com/fallout4/mods/74995/?tab=files&file_id=290460)
+*  [Attachment Pack - Description Fixes-81018-1-0-1713681095.7z](https://www.nexusmods.com/fallout4/mods/81018/?tab=files&file_id=311198)
+*  [Attachment Pack-76924-1-0-6-1705693615.zip](https://www.nexusmods.com/fallout4/mods/76924/?tab=files&file_id=300184)
 *  [BackportedBA2Support-1_0-81859-1-0-1714516128.zip](https://www.nexusmods.com/fallout4/mods/81859/?tab=files&file_id=313321)
 *  [BakaFramework-43627-1-10-0-1690831439.rar](https://www.nexusmods.com/fallout4/mods/43627/?tab=files&file_id=285026)
 *  [Barrel Bonanza v1-1-80383-1-1-1720656714.rar](https://www.nexusmods.com/fallout4/mods/80383/?tab=files&file_id=326372)
@@ -82,10 +84,10 @@
 *  [CROSS_ReducedLaserSmoke_100a-23780-1-0.7z](https://www.nexusmods.com/fallout4/mods/23780/?tab=files&file_id=97938)
 *  [Crusader Pistol-86135-1-2-1-1724208423.rar](https://www.nexusmods.com/fallout4/mods/86135/?tab=files&file_id=331020)
 *  cudart64_75.dll
+*  [Daks Attachment Pack Patch-78979-1-0-1708714094.7z](https://www.nexusmods.com/fallout4/mods/78979/?tab=files&file_id=304553)
 *  [Dangerous Deathclaws-61594-1-2-1719173358.7z](https://www.nexusmods.com/fallout4/mods/61594/?tab=files&file_id=324144)
 *  Data_DLCCoast - Geometry.csg
 *  Data_DLCCoast - Main.ba2
-*  Data_DLCCoast - Textures.ba2
 *  Data_DLCCoast.cdx
 *  Data_DLCCoast.esm
 *  Data_DLCNukaWorld - Geometry.csg
@@ -122,7 +124,6 @@
 *  Data_Fallout4 - Textures3.ba2
 *  Data_Fallout4 - Textures4.ba2
 *  Data_Fallout4 - Textures5.ba2
-*  Data_Fallout4 - Textures6.ba2
 *  Data_Fallout4 - Voices.ba2
 *  Data_Fallout4.cdx
 *  Data_Fallout4.esm
@@ -256,7 +257,7 @@
 *  [FTO Pip-Boy All in one-449-2-3.rar](https://www.nexusmods.com/fallout4/mods/449/?tab=files&file_id=8972)
 *  [FTO Power Armors UHD 2K T-45-3344-1-3.7z](https://www.nexusmods.com/fallout4/mods/3344/?tab=files&file_id=19368)
 *  [FTO Power Armors UHD 2K T-60-3344-1-3.7z](https://www.nexusmods.com/fallout4/mods/3344/?tab=files&file_id=19370)
-*  [Garden of Eden Papyrus Script Extender-74160-18-5-1723908101.zip](https://www.nexusmods.com/fallout4/mods/74160/?tab=files&file_id=330528)
+*  [Garden of Eden Papyrus Script Extender-74160-19-0-1727464437.zip](https://www.nexusmods.com/fallout4/mods/74160/?tab=files&file_id=335283)
 *  [GCBugFix Release 1.1-68681-1-1-1721703664.zip](https://www.nexusmods.com/fallout4/mods/68681/?tab=files&file_id=327680)
 *  GFSDK_GodraysLib.x64.dll
 *  GFSDK_SSAO_D3D11.win64.dll
@@ -292,6 +293,7 @@
 *  [Im Talking to You-60363-3-0-1704234568.zip](https://www.nexusmods.com/fallout4/mods/60363/?tab=files&file_id=298421)
 *  [Immersive Animation Framework-50555-1-3-2-1671826855.rar](https://www.nexusmods.com/fallout4/mods/50555/?tab=files&file_id=261342)
 *  [ImmersiveCandles-58396--91-1662118866.7z](https://www.nexusmods.com/fallout4/mods/58396/?tab=files&file_id=249148)
+*  [Implementation Patch-76924-ImplementationPatch-1705269087.zip](https://www.nexusmods.com/fallout4/mods/76924/?tab=files&file_id=299655)
 *  [Improved Hit VFX-87519-1-0-2-1725995002.zip](https://www.nexusmods.com/fallout4/mods/87519/?tab=files&file_id=333524)
 *  [Improved Rainbox - 21-9 Rainbox fix-7987-v0-1.7z](https://www.nexusmods.com/fallout4/mods/7987/?tab=files&file_id=29425)
 *  [Industrial Gauntlet-85405-1-0-0-1720206489.rar](https://www.nexusmods.com/fallout4/mods/85405/?tab=files&file_id=325601)
@@ -340,6 +342,7 @@
 *  Medium.ini
 *  [Melee And Throw v1.3-63639-1-3-1666494723.7z](https://www.nexusmods.com/fallout4/mods/63639/?tab=files&file_id=254302)
 *  [melee blood 2k-58051-1-1644712838.rar](https://www.nexusmods.com/fallout4/mods/58051/?tab=files&file_id=229365)
+*  [Merchants Sells Weapon Mods-39065-1-0-1558451064.zip](https://www.nexusmods.com/fallout4/mods/39065/?tab=files&file_id=158299)
 *  [Metal Armor Remodel-87457-1-01-1725733259.zip](https://www.nexusmods.com/fallout4/mods/87457/?tab=files&file_id=333117)
 *  [Misc anim tweaks and fixes-53597-1-6-1-1715706661.7z](https://www.nexusmods.com/fallout4/mods/53597/?tab=files&file_id=316512)
 *  [Mobile Mechanic Automatron Add-On-18262-2-0-2-1714373029.rar](https://www.nexusmods.com/fallout4/mods/18262/?tab=files&file_id=313002)
@@ -393,7 +396,8 @@
 *  [Ownership Fixes-56885-1-4-1-1714010377.7z](https://www.nexusmods.com/fallout4/mods/56885/?tab=files&file_id=312061)
 *  [PA map fix-8854-1-1.zip](https://www.nexusmods.com/fallout4/mods/8854/?tab=files&file_id=33561)
 *  [PA Ownership Fix (with No PA Battery Pathing)-52315-1-0-1622200319.rar](https://www.nexusmods.com/fallout4/mods/52315/?tab=files&file_id=208918)
-*  [Papyrus Common Library-86222-1-2-0-1724093613.7z](https://www.nexusmods.com/fallout4/mods/86222/?tab=files&file_id=330866)
+*  [Papyrus Common Library-86222-1-3-0-1727468021.7z](https://www.nexusmods.com/fallout4/mods/86222/?tab=files&file_id=335296)
+*  [Patch - FIS - The Attachment Pack-82246-0-1-1715007978.7z](https://www.nexusmods.com/fallout4/mods/82246/?tab=files&file_id=314647)
 *  [PauseTheGameInFavoritesMenu-78116-1-1-1714225541.zip](https://www.nexusmods.com/fallout4/mods/78116/?tab=files&file_id=312608)
 *  [PBR-19843-1.rar](https://www.nexusmods.com/fallout4/mods/19843/?tab=files&file_id=81120)
 *  [PBR-19854-.rar](https://www.nexusmods.com/fallout4/mods/19854/?tab=files&file_id=81154)
@@ -504,6 +508,7 @@
 *  [Vault Suit Zippers-80555-v1-1712942580.zip](https://www.nexusmods.com/fallout4/mods/80555/?tab=files&file_id=309904)
 *  [VaultGearDoorFix-71194-1-0-1683750975.7z](https://www.nexusmods.com/fallout4/mods/71194/?tab=files&file_id=276780)
 *  [Vendor Diversity Overhaul 1.1-24969-1-1.zip](https://www.nexusmods.com/fallout4/mods/24969/?tab=files&file_id=110629)
+*  [Vendors Sell Dak's Attachment Pack Weapon Mods-77356-1-0-1704821476.7z](https://www.nexusmods.com/fallout4/mods/77356/?tab=files&file_id=299082)
 *  [Vertibird Jump 1.9.9-20190-1-9-9-1576067841.zip](https://www.nexusmods.com/fallout4/mods/20190/?tab=files&file_id=172412)
 *  [Vic's Long Johns Replacer V2 - Vanilla Bodies-52801-1-1b-1641027136.7z](https://www.nexusmods.com/fallout4/mods/52801/?tab=files&file_id=225277)
 *  [Wasteland Creature Redone-7951-1-1.7z](https://www.nexusmods.com/fallout4/mods/7951/?tab=files&file_id=56974)
