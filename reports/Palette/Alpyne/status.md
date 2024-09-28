@@ -1,10 +1,11 @@
 ## Validation Report - Alpyne (Palette/Alpyne)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1175)
+### Valid (1174)
 *  [  Superior Lore-Friendly Hair HD 2K - Rough Hair-36510-2-0.7z](https://www.nexusmods.com/skyrim/mods/36510/?tab=files&file_id=1000043822)
 *  [_LITE-2357-1-1.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files&file_id=68999)
 *  [(ESL) Heimskr only preaches on weekends-13865-1-4-1677908626.zip](https://www.nexusmods.com/skyrimspecialedition/mods/13865/?tab=files&file_id=365292)
@@ -900,7 +901,6 @@
 *  [Save Unbaker-85565-1-0-4-1677453959.7z](https://www.nexusmods.com/skyrimspecialedition/mods/85565/?tab=files&file_id=363731)
 *  [SC - Khajiit Improvement - Alpha Patch-47831-1-0-0-1617213069.7z](https://www.nexusmods.com/skyrimspecialedition/mods/47831/?tab=files&file_id=194939)
 *  [SC - Khajiit Improvement - Male Nose Tweaks-80075-1-0-1670285451.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80075/?tab=files&file_id=338028)
-*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
 *  [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
 *  [SC_Khajiit Improvement 2k-56623-1-0.7z](https://www.nexusmods.com/skyrim/mods/56623/?tab=files&file_id=1000120451)
 *  [ScaleformTranslationPP-77359-1-8-1709114434.7z](https://www.nexusmods.com/skyrimspecialedition/mods/77359/?tab=files&file_id=475314)

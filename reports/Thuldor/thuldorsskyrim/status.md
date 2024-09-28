@@ -1,10 +1,11 @@
 ## Validation Report - Thuldor's Skyrim (Thuldor/thuldorsskyrim)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1655)
+### Valid (1654)
 *  [-Rodryk's Dragon Bridge (Parallax)--42510-1-04-1613276584.zip](https://www.nexusmods.com/skyrimspecialedition/mods/42510/?tab=files&file_id=185823)
 *  [(Part 1) SSE Engine Fixes for 1.6.629 and newer-17230-6-1-1-1664974106.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=321815)
 *  [(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=181171)
@@ -1281,7 +1282,6 @@
 *  [SC Horses - Wild Horses CC Patch-68588-2-0-1669451370.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68588/?tab=files&file_id=334822)
 *  [SC Horses Add-On-123521-1-0-1720369160.zip](https://www.nexusmods.com/skyrimspecialedition/mods/123521/?tab=files&file_id=518649)
 *  [SC Horses Mane Fix-68588-1-0-1-1669451309.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68588/?tab=files&file_id=334821)
-*  [SC_HorseReplacer_SSE(overwrites LE folder).7z](https://www.patreon.com/file?h=35289631&i=5428357)
 *  [SC_HorseReplacer.7z](https://www.patreon.com/file?h=35289631&i=5312963)
 *  [ScaleformTranslationPP-22603-1-6-0-1670538527.zip](https://www.nexusmods.com/skyrimspecialedition/mods/22603/?tab=files&file_id=338872)
 *  [Scare my Enemy Bug Fix-44685-1-0-1611374649.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44685/?tab=files&file_id=181189)
