@@ -1,7 +1,8 @@
 ## Validation Report - FILFY (FILFY/FILFY)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [Attack+MCO-DXP+v1.6.0.6.zip](https://www.distaranimation.com/s/Attack-MCO-DXP-v1606.zip)
 ### Updated (0)
 ### Mirrored (0)
 ### Valid (3571)
@@ -240,7 +241,6 @@
 *  [Atlas Map Markers SE - Updated with MCM - Settings Loader-68573-1-0-1-1653481078.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68573/?tab=files&file_id=286382)
 *  [Atlas Map Markers-24104-2-7-1671496300.7z](https://www.nexusmods.com/skyrimspecialedition/mods/24104/?tab=files&file_id=342021)
 *  [Atronach Friendly Fire-52255-3-0-0-1683932639.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52255/?tab=files&file_id=387479)
-*  [Attack+MCO-DXP+v1.6.0.6.zip](https://www.distaranimation.com/s/Attack-MCO-DXP-v1606.zip)
 *  [Attacks of Opportunity - Substill Cut-76122-1-2-1664746999.7z](https://www.nexusmods.com/skyrimspecialedition/mods/76122/?tab=files&file_id=321182)
 *  [Audio Overhaul for Skyrim (4.1.3)-12466-4-1-3-1683940246.7z](https://www.nexusmods.com/skyrimspecialedition/mods/12466/?tab=files&file_id=387525)
 *  [Audio Overhaul Skyrim - Immersive Sounds Compendium Integration (1.1.0)-36761-1-1-0-1651282424.7z](https://www.nexusmods.com/skyrimspecialedition/mods/36761/?tab=files&file_id=280412)
@@ -1077,6 +1077,7 @@
 *  [DynDOLOD Resources SE 3.00-52897-Alpha-52-1724611907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=535259)
 *  [DynDOLOD TexGen Fixes-69323-2-2-1725038381.zip](https://www.nexusmods.com/skyrimspecialedition/mods/69323/?tab=files&file_id=536866)
 *  [DynDoLod V 3.0 Lod pack (all versions)-11052-4-01-1665301976.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=322680)
+*  [DynDOLOD_Output_Performance.7z](https://www.nexusmods.com/skyrimspecialedition/mods/115534/?tab=files&file_id=547193)
 *  [DynDOLOD_Output.7z](https://www.nexusmods.com/skyrimspecialedition/mods/115534/?tab=files&file_id=546241)
 *  [Eastern Brassplate 3BA HDT-SMP-122488-0-2-1719255593.zip](https://www.nexusmods.com/skyrimspecialedition/mods/122488/?tab=files&file_id=514552)
 *  [Eastern Brassplate ESL-109000-1-0-1705601855.rar](https://www.nexusmods.com/skyrimspecialedition/mods/109000/?tab=files&file_id=462634)
@@ -1996,8 +1997,8 @@
 *  lex_accent.tlx
 *  lex_ssceam.tlx
 *  lex_ssceam2.clx
-*  lex_sscebr.tlx
 *  lex_sscebr2.clx
+*  lex_ssceca.tlx
 *  lex_ssceca2.clx
 *  lex_tech.tlx
 *  lex_User_correct.tlx
