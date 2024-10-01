@@ -3641,7 +3641,7 @@
 *  [Tundra Homestead Exterior Cleanup-72296-1-0-1659047466.7z](https://www.nexusmods.com/skyrimspecialedition/mods/72296/?tab=files&file_id=302974)
 *  [TW 3 - Mega Resource Pack v1.3-77097-1-3.rar](https://www.nexusmods.com/skyrim/mods/77097/?tab=files&file_id=1000214647)
 *  [Twitching Plates Fix-64728-1-1-1646869593.7z](https://www.nexusmods.com/skyrimspecialedition/mods/64728/?tab=files&file_id=269124)
-*  [Typography Training-125468-1-0-0-1722219028.zip](https://www.nexusmods.com/skyrimspecialedition/mods/125468/?tab=files&file_id=526096)
+*  [Typography Training-125468-1-0-1-1727725672.zip](https://www.nexusmods.com/skyrimspecialedition/mods/125468/?tab=files&file_id=547833)
 *  [Uchigatana - Katana moveset for NPCs (MCO - SCAR)-112145-1-0-1708450808.7z](https://www.nexusmods.com/skyrimspecialedition/mods/112145/?tab=files&file_id=472956)
 *  [udefrykte replacer (se-ae)-120212-1-1716611279.rar](https://www.nexusmods.com/skyrimspecialedition/mods/120212/?tab=files&file_id=504623)
 *  [Udefrykte-60734-1-2-1640922981.zip](https://www.nexusmods.com/skyrimspecialedition/mods/60734/?tab=files&file_id=252793)
