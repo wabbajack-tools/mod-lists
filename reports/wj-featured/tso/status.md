@@ -1,10 +1,11 @@
 ## Validation Report - Total Skyrim Overhaul (wj-featured/tso)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [High_Poly_Head_v1.4_(SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1033)
+### Valid (1032)
 *  [- Skyrim 2020 8.4.2 - 3 of 3 - Other - 4K to 2K-2347-8-4-2-1624479907.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2347/?tab=files&file_id=210840)
 *  [(2) 3BA - Lupine Matriarch Armor-51025-1-0-1623293967.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51025/?tab=files&file_id=208403)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -506,7 +507,6 @@
 *  [High Poly NPC Overhaul - Resources 2.05-42768-2-05-1610930233.7z](https://www.nexusmods.com/skyrimspecialedition/mods/42768/?tab=files&file_id=180153)
 *  [High Poly NPC Overhaul - Skyrim Special Edition 2.03-44155-2-03-1610505151.7z](https://www.nexusmods.com/skyrimspecialedition/mods/44155/?tab=files&file_id=179225)
 *  [High Poly Project-12029-v4-95-1614673394.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=188917)
-*  [High_Poly_Head_v1.4_(SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 *  High.ini
 *  [Horker-28452-2-0-1566470384.7z](https://www.nexusmods.com/skyrimspecialedition/mods/28452/?tab=files&file_id=103926)
 *  [HQ Alduins Wall - 1.0-2638-1-01.7z](https://www.nexusmods.com/skyrimspecialedition/mods/2638/?tab=files&file_id=3816)
