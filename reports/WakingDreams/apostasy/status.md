@@ -1,11 +1,10 @@
 ## Validation Report - Apostasy (WakingDreams/apostasy)
 
 
-### Invalid (1)
-*  [High Poly Head v1.4 (SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3026)
+### Valid (3027)
 *  [_Fuse00_ArmorHighlander_CBBE.rar](https://www.patreon.com/file?h=79874952&i=13365775)
 *  [_Fuse00_ArmorHighlander_VanillaMale.rar](https://www.patreon.com/file?h=79874952&i=13365782)
 *  [_Fuse00_ArmorMelonyCBBE.rar](https://www.patreon.com/file?h=67711235&i=10980531)
@@ -1222,6 +1221,7 @@
 *  [High Poly Head - Neck Bump Rough Fix - No ESP-116011-1-1-1712472238.7z](https://www.nexusmods.com/skyrimspecialedition/mods/116011/?tab=files&file_id=488269)
 *  [High Poly Head ENB Brow Fix-63991-1-0-1645387936.7z](https://www.nexusmods.com/skyrimspecialedition/mods/63991/?tab=files&file_id=265711)
 *  [High Poly Head SE - EFA - Eyebrow Male fix.7z](https://mega.nz/file/WZt0BDCL#JNUTn_5P2sEPuHm3znSdrrqN28tPnxvmVzeFOw67FAU)
+*  [High Poly Head v1.4 (SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 *  [High Poly Pretty Face Darker Eyebrows Standalone-118292-1-0-1714852996.7z](https://www.nexusmods.com/skyrimspecialedition/mods/118292/?tab=files&file_id=497850)
 *  [High Poly Project-12029-v5-3-1634909383.zip](https://www.nexusmods.com/skyrimspecialedition/mods/12029/?tab=files&file_id=236420)
 *  [High Poly Solstheim Mushroom Trees-79111-1-1-1697771253.rar](https://www.nexusmods.com/skyrimspecialedition/mods/79111/?tab=files&file_id=435373)

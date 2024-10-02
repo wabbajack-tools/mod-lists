@@ -1,11 +1,10 @@
 ## Validation Report - NEFARAM (NEFARAM/NEFARAM)
 
 
-### Invalid (1)
-*  [High_Poly_Head_v1.4_(SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2128)
+### Valid (2129)
 *  [- Meshes - important-58370-1-0-1637050362.7z](https://www.nexusmods.com/skyrimspecialedition/mods/58370/?tab=files&file_id=241886)
 *  ['Kyoe's Bang'n Brows - Standalone by Shiva182' for High Poly Head-50424-1-2-1645339793.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50424/?tab=files&file_id=265566)
 *  [(2) Community Overlays 2 - Main - CBBE-26224-1-0-1559371694.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26224/?tab=files&file_id=94367)
@@ -1017,6 +1016,7 @@
 *  [High Poly Wyrmstooth-54015-1-20-1665309697.7z](https://www.nexusmods.com/skyrimspecialedition/mods/54015/?tab=files&file_id=322700)
 *  [High Quality Tintmasks for Immersive Wenches-18355-1-2-1540039782.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18355/?tab=files&file_id=69752)
 *  [High Quality Tintmasks for Vanilla NPCs - BSA 1K-18360-2-0.7z](https://www.nexusmods.com/skyrimspecialedition/mods/18360/?tab=files&file_id=68440)
+*  [High_Poly_Head_v1.4_(SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 *  [High-Poly Inigo Replacer - FOMOD installer-38860-3-0-1596500717.7z](https://www.nexusmods.com/skyrimspecialedition/mods/38860/?tab=files&file_id=153610)
 *  High.ini
 *  [Highland Cow HD 2.0-20758-2-0-1700520141.7z](https://www.nexusmods.com/skyrimspecialedition/mods/20758/?tab=files&file_id=444464)
