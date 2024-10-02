@@ -1,14 +1,15 @@
 ## Validation Report - Parabellum NUKA (licentia_black/parabellum_nuka)
 
 
-### Invalid (4)
+### Invalid (5)
+*  [Kziitd Fetish Toolset - Bodyslide 1.0 Beta 1.7z](https://www.mediafire.com/file/flx0mao5fn7v541/Kziitd_F*t*sh_Toolset_-_Bodyslide_1.0_Beta_1.7z/file)
 *  [Nuka Ride - FaceGen for NextGen, by Dontax.zip](https://mega.nz/folder/DtBHSbwA#KdRrNKOWY9Mus8hB6iSI0w/file/SthnQRxB)
 *  [Nuka Ride - PC Female Idles.7z](https://mega.nz/folder/DtBHSbwA#KdRrNKOWY9Mus8hB6iSI0w/file/a0RxhJBL)
 *  [Nuka Ride - Random Main Menu Themes 6.8.7z](https://mega.nz/folder/DtBHSbwA#KdRrNKOWY9Mus8hB6iSI0w/file/a0RxhJBL)
 *  [Nuka Ride 6.8 Bodyslide for CBBE 1.0.7z](https://mega.nz/folder/DtBHSbwA#KdRrNKOWY9Mus8hB6iSI0w/file/G5pS3bRI)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (366)
+### Valid (365)
 *  [1387286231_UAPv2.6.64-1.7z](https://www.loverslab.com/files/file/11033-uap-ultimate-aaf-patch/?do=download)
 *  [1st person esp-42971-1-0-1578819803.7z](https://www.nexusmods.com/fallout4/mods/42971/?tab=files&file_id=174168)
 *  [2_5 bodyslide files patch-7718-2-5.7z](https://www.nexusmods.com/fallout4/mods/7718/?tab=files&file_id=33263)
@@ -200,7 +201,6 @@
 *  [IMVR - Nuka World (Darker)-1215-1.zip](https://www.nexusmods.com/fallout4/mods/1215/?tab=files&file_id=73042)
 *  installscript.vdf
 *  [Interface Start Chem-75285-1-0-1700519625.zip](https://www.nexusmods.com/fallout4/mods/75285/?tab=files&file_id=294719)
-*  [Kziitd Fetish Toolset - Bodyslide 1.0 Beta 1.7z](https://www.mediafire.com/file/flx0mao5fn7v541/Kziitd_F*t*sh_Toolset_-_Bodyslide_1.0_Beta_1.7z/file)
 *  [Kziitd Fetish Toolset - Clean Leather Textures Addon.7z](https://www.loverslab.com/files/file/32791-kft-kziitd-fetish-toolset/?do=download&r=1899217&confirm=1&t=1)
 *  [Kziitd Fetish Toolset 1.0 Beta 2.4.7z](https://www.loverslab.com/files/file/32791-kft-kziitd-fetish-toolset/?do=download&r=1963345&confirm=1&t=1)
 *  [LeatherDress-39926-1-0-1562657209.7z](https://www.nexusmods.com/fallout4/mods/39926/?tab=files&file_id=161606)
