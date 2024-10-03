@@ -1852,7 +1852,7 @@
 *  [Wyrmstooth-45565-1-20-1664881366.zip](https://www.nexusmods.com/skyrimspecialedition/mods/45565/?tab=files&file_id=321539)
 *  [xLODGen_Output-105031-1-0-1705883535.7z](https://www.nexusmods.com/skyrimspecialedition/mods/105031/?tab=files&file_id=463644)
 *  [Xmead_2k-103915-1-2-1699205607.rar](https://www.nexusmods.com/skyrimspecialedition/mods/103915/?tab=files&file_id=440165)
-*  [XP32 Maximum Skeleton Special Extended-1988-5-04-1692496318.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=418810)
+*  [XP32 Maximum Skeleton Special Extended-1988-5-06-1707663131.7z](https://www.nexusmods.com/skyrimspecialedition/mods/1988/?tab=files&file_id=469854)
 *  [XPMSSE - Nemesis - Script Fix - SE-60363-4-8-3-1644964405.7z](https://www.nexusmods.com/skyrimspecialedition/mods/60363/?tab=files&file_id=264512)
 *  [XPMSSE Left Hand Skeleton Rotation Fix-50049-4-80-1621290459.zip](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=204058)
 *  [Xyn's Elemental Cloak Spells-59946-1-1-1639344775.rar](https://www.nexusmods.com/skyrimspecialedition/mods/59946/?tab=files&file_id=248643)

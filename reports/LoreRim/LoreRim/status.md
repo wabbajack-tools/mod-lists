@@ -1291,7 +1291,7 @@
 *  [Embershard Mine - Revisited patch (ESL Version)-74824-1-12-1672611331.7z](https://www.nexusmods.com/skyrimspecialedition/mods/74824/?tab=files&file_id=345696)
 *  [Emelia 2.0 Female Breton Preset for Lorerim 2.X-125649-2-0-1725249763.7z](https://www.nexusmods.com/skyrimspecialedition/mods/125649/?tab=files&file_id=537845)
 *  [Empty Bottle Patch - ESL-45336-1-0-1612599562.rar](https://www.nexusmods.com/skyrimspecialedition/mods/45336/?tab=files&file_id=184322)
-*  [ENB Anti-Aliasing-130669-1-0-0-1727836381.7z](https://www.nexusmods.com/skyrimspecialedition/mods/130669/?tab=files&file_id=548224)
+*  [ENB Anti-Aliasing-130669-1-1-2-1727912737.7z](https://www.nexusmods.com/skyrimspecialedition/mods/130669/?tab=files&file_id=548486)
 *  [ENB Dynamic Cubemap Textures-98122-1-0-1691780953.7z](https://www.nexusmods.com/skyrimspecialedition/mods/98122/?tab=files&file_id=416154)
 *  [ENB Dynamic Cubemaps Cathedral Armory-114226-1-00-1710606002.rar](https://www.nexusmods.com/skyrimspecialedition/mods/114226/?tab=files&file_id=481186)
 *  [ENB Extender Skyrim-99406-1-2-1-1727647824.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99406/?tab=files&file_id=547553)
